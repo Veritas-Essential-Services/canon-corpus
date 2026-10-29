@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain Stephen Grellet (1773-1855), the French-born American Quaker minister who travelled Europe and Russia, for the Word Hoard: the Memoirs of his Life and Gospel Labours, drawn from his own journals and edited by Benjamin Seebohm, in the first American edition (Philadelphia, 1860) and the second London edition (1861), from Internet Archive scans. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "grellet"
+ ],
+ "_surname": [
+  "stephen grellet",
+  "grellet"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grellet-memoirs-1860-1": [
+   "memoirsoflifegos01greluoft",
+   "Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, vol. I (Philadelphia: Henry Longstreth, 1860)"
+  ],
+  "grellet-memoirs-1860-2": [
+   "memoirsoflifegos02greluoft",
+   "Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, vol. II (Philadelphia: Henry Longstreth, 1860)"
+  ],
+  "grellet-memoirs-1861-1": [
+   "memoirsoflifegos01grel_0",
+   "Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, second edition, vol. I (London: A. W. Bennett, 1861)"
+  ],
+  "grellet-memoirs-1861-2": [
+   "memoirsoflifegos02grel_0",
+   "Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, second edition, vol. II (London: A. W. Bennett, 1861)"
+  ]
+ },
+ "_alternates": {
+  "grellet-copies": "Other 1861 and 1862 London copies; the abridged one-volume Philadelphia edition (its '1848' is impossible)"
+ },
+ "_excluded": {
+  "grellet-about": "William Guest's Stephen Grellet and Van Rensselaer's The Fight, Faith, and Crown: books about him"
+ },
+ "_rights_checked": {
+  "grellet-memoirs-1860-1": "title page read: edited by Benjamin Seebohm from Grellet's journals; name OCR'd 'GRELLEI' and 'GKELLET'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "grellet-memoirs-1860-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen grellet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: edited by Benjamin Seebohm from Grellet's journals; name OCR'd 'GRELLEI' and 'GKELLET'"
+  },
+  "grellet-memoirs-1860-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen grellet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grellet-memoirs-1861-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen grellet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grellet-memoirs-1861-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen grellet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

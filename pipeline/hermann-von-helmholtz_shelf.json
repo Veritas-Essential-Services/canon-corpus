@@ -1,0 +1,41 @@
+{
+ "_about": "Hermann von Helmholtz (1821-1894), physiologist, physicist and epistemologist of perception. On the Sensations of Tone as a Physiological Basis for the Theory of Music, translated by Alexander J. Ellis, second English edition, thoroughly revised and conformed to the fourth German edition of 1877 (London: Longmans, Green, 1885), raw IA OCR, clean 0.85 (tables and musical notation). His Popular Lectures on Scientific Subjects (tr. Atkinson, PG 77725) is on another shelf and is not repeated here. US public domain. No uids minted.",
+ "_author": "Hermann von Helmholtz",
+ "_name_words": [
+  "hermann",
+  "ludwig",
+  "ferdinand",
+  "helmholtz"
+ ],
+ "_surname": [
+  "helmholtz"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "helmholtz-ellis-sensations-of-tone-1885": [
+   "onsensationston00unkngoog",
+   "On the Sensations of Tone, 2nd English ed. (Longmans, 1885)",
+   "tr. Alexander J. Ellis"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "helmholtz-ellis-sensations-of-tone-1885": "ELLIS"
+ },
+ "_checks": {
+  "helmholtz-ellis-sensations-of-tone-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "helmholtz",
+   "translator_claimed": "ELLIS",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

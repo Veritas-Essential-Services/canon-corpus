@@ -1,0 +1,287 @@
+{
+ "_about": "Public-domain W. J. Sparrow-Simpson, Anglo-Catholic divine and chaplain of St Mary's Hospital, Ilford, for the Word Hoard: Our Lord's Resurrection, The Resurrection and Modern Thought, The Catholic Conception of the Church, Roman Catholic Opposition to Papal Infallibility, French Catholics in the Nineteenth Century, Broad Church Theology, Modernism and the Person of Christ, and his other studies and sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 121 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "w. j. sparrow simpson",
+  "w. j. sparrow-simpson",
+  "sparrow simpson",
+  "sparrow-simpson"
+ ],
+ "_surname": [
+  "sparrow simpson",
+  "sparrow-simpson",
+  "simpson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sparrow-simpson-bernard": [
+   "lecturesonsaintb00simpuoft",
+   "Lectures on S[aint] Bernard of Clairvaux (London : J. Masters, 1895)"
+  ],
+  "sparrow-simpson-church-bible": [
+   "churchbible00spar",
+   "The church and the Bible (London ; New York : Longmans, Green, 1897)"
+  ],
+  "sparrow-simpson-claims": [
+   "claimsofjesuschr00spar",
+   "The claims of Jesus Christ : Lent lectures (London : Longmans, Green, 1899)"
+  ],
+  "sparrow-simpson-minor-festivals": [
+   "minorfestivalsof0000wjsp",
+   "The Minor Festivals of the Anglican Calendar (Facsimile Publisher, 1901)"
+  ],
+  "sparrow-simpson-resurrection": [
+   "ourlordsresurrec00spar",
+   "Our Lord's resurrection (London ; New York : Longmans, Green, 1905)"
+  ],
+  "sparrow-simpson-infallibility": [
+   "a608931100sparuoft",
+   "Roman Catholic opposition to papal infallibility (London : J. Murray, 1909)"
+  ],
+  "sparrow-simpson-augustine-african": [
+   "staugustineafric00sparrich",
+   "St. Augustine and African church divisions (London ; New York : Longmans, Green, 1910)"
+  ],
+  "sparrow-simpson-resurrection-thought": [
+   "resurrectionmode0000wjsp",
+   "The resurrection and modern thought (Longmans, Green, 1911)"
+  ],
+  "sparrow-simpson-athanasian": [
+   "bwb_O6-AOY-871",
+   "THE ATHANASIAN WARNINGS (Longmans, 1911)"
+  ],
+  "sparrow-simpson-non-communicating": [
+   "noncommunicating00simpuoft",
+   "Non-communicating attendance (London : Longmans, Green, 1913)"
+  ],
+  "sparrow-simpson-catholic-church": [
+   "catholicconcepti00spariala",
+   "The catholic conception of the church : a study of the traditional idea of the nature and constitution of the church (London : Robert Scott, [191)"
+  ],
+  "sparrow-simpson-women": [
+   "placeofwomeninch10goud",
+   "The place of women in the church, vol. 10 (London : R. Scott ; Milwaukee : Young Churchman Co., 1917)"
+  ],
+  "sparrow-simpson-french-catholics": [
+   "a608926200sparuoft",
+   "French Catholics in the nineteenth century (London : S.P.C.K. ; New York : Macmillan, 1918)"
+  ],
+  "sparrow-simpson-laity": [
+   "placeoflaityinch08spar",
+   "Place of the laity in the Church, vol. 8 (London : R. Scott ; Milwaukee : Young Churchman, 1918)"
+  ],
+  "sparrow-simpson-broad-church": [
+   "broadchurchtheol011124mbp",
+   "Broad Church Theology (The Morehouse Publishing co., 1919)"
+  ],
+  "sparrow-simpson-modernism": [
+   "modernismpersono00spar",
+   "Modernism and the person of Christ (London : Robert Scott ; Milwaukee : Morehouse Publishing Co., 1923)"
+  ],
+  "sparrow-simpson-revelation-of-god": [
+   "revelationofgodo00spar",
+   "The revelation of God, and other sermons (London : Society for Promoting Christian Knowledge; New York : Macmillan, 1925)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sparrow-simpson-old-st-pauls": "Chapters in the History of Old S. Paul's is by his father, W. Sparrow Simpson",
+  "sparrow-simpson-translations": "his translations of Augustine's Letters and On the Spirit and the Letter, and the Dionysius he edited, are other men's works in English"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "sparrow-simpson-consecration": "The prayer of consecration (London : Robert Scott ; Milwaukee, Wis. : The Young Churchman, 1917) (IA prayerofconsecra0000spar): archive.org returned HTTP 500 for the text file; retry later"
+ },
+ "_translators": {},
+ "_checks": {
+  "sparrow-simpson-bernard": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-church-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-claims": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-minor-festivals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-infallibility": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-augustine-african": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-resurrection-thought": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-athanasian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-non-communicating": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-catholic-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-french-catholics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-laity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-simpson-broad-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-modernism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-simpson-revelation-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

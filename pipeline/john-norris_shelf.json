@@ -1,0 +1,50 @@
+{
+ "_about": "John Norris of Bemerton (1657-1711), raw IA OCR: An Essay towards the Theory of the Ideal or Intelligible World (London: S. Manship and W. Hawes; part I, whose imprint the OCR reads 'MDCCL', for the first edition of 1701 (inferred); part II 1704). US public domain. No uids minted.",
+ "_author": "John Norris",
+ "_name_words": [
+  "john",
+  "norris",
+  "joun"
+ ],
+ "_surname": [
+  "norris",
+  "john norris"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "norris-ideal-world-1701-v1": [
+   "essaytowardstheo01norr",
+   "An Essay towards the Theory of the Ideal or Intelligible World, part I (London: Manship, 1701)"
+  ],
+  "norris-ideal-world-1704-v2": [
+   "essaytowardstheo02norr",
+   "An Essay towards the Theory of the Ideal or Intelligible World, part II (London: Manship, 1704)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "norris-ideal-world-1701-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "norris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1701",
+   "ia_date": "1701",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "norris-ideal-world-1704-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "norris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1701",
+   "ia_date": "1701",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

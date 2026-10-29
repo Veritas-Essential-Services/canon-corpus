@@ -1,0 +1,46 @@
+{
+ "_about": "Henry Nettleship (1839-1893), Corpus Professor of Latin at Oxford: Lectures and Essays on Subjects connected with Latin Literature and Scholarship (1885) and the second series, ed. F. Haverfield (1895): Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885); Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "nettleship"
+ ],
+ "_surname": [
+  "henry nettleship",
+  "nettleship, henry"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nettleship-lectures-essays-1885": [
+   "cu31924026479919",
+   "Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885)"
+  ],
+  "nettleship-lectures-essays-second-series-1895": [
+   "cu31924021595669",
+   "Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895)"
+  ]
+ },
+ "_checks": {
+  "nettleship-lectures-essays-1885": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry nettleship",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nettleship-lectures-essays-second-series-1895": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry nettleship",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

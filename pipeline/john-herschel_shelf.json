@@ -1,0 +1,33 @@
+{
+ "_about": "Sir John F. W. Herschel (1792-1871): A Preliminary Discourse on the Study of Natural Philosophy, new edition (1851), clean Gutenberg text; a founding text of the philosophy of science. US public domain. No uids minted.",
+ "_author": "John Herschel",
+ "_name_words": [
+  "john",
+  "frederick",
+  "william",
+  "herschel"
+ ],
+ "_surname": [
+  "herschel"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "herschel-preliminary-discourse-1851": [
+   54897,
+   "A Preliminary Discourse on the Study of Natural Philosophy, new edition (1851)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "herschel-preliminary-discourse-1851": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "herschel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

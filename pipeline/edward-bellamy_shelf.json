@@ -1,0 +1,290 @@
+{
+ "_about": "Edward Bellamy's utopian novels and stories",
+ "_author": "Edward Bellamy",
+ "_name_words": [
+  "bellamy"
+ ],
+ "_surname": [
+  "edward bellamy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ebellamy-looking-backward-2000-to-1887": [
+   624,
+   "Looking Backward, 2000 to 1887"
+  ],
+  "ebellamy-miss-ludingtons-sister": [
+   6903,
+   "Miss Ludington's Sister"
+  ],
+  "ebellamy-dr-heidenhoffs-process": [
+   7052,
+   "Dr. Heidenhoff's Process"
+  ],
+  "ebellamy-equality": [
+   7303,
+   "Equality"
+  ],
+  "ebellamy-duke-of-stockbridge": [
+   7472,
+   "The Duke of Stockbridge: A Romance of Shays' Rebellion"
+  ],
+  "ebellamy-blindmans-world-1898": [
+   22701,
+   "The Blindman's World 1898"
+  ],
+  "ebellamy-an-echo-of-antietam-1898": [
+   22702,
+   "An Echo Of Antietam 1898"
+  ],
+  "ebellamy-hooking-watermelons-1898": [
+   22703,
+   "Hooking Watermelons 1898"
+  ],
+  "ebellamy-to-whom-this-may-come-1898": [
+   22704,
+   "To Whom This May Come 1898"
+  ],
+  "ebellamy-a-summer-evenings-dream-1898": [
+   22705,
+   "A Summer Evening's Dream 1898"
+  ],
+  "ebellamy-two-days-solitary-imprisonment-1898": [
+   22706,
+   "Two Days' Solitary Imprisonment 1898"
+  ],
+  "ebellamy-pottss-painless-cure-1898": [
+   22707,
+   "Potts's Painless Cure 1898"
+  ],
+  "ebellamy-a-positive-romance-1898": [
+   22708,
+   "A Positive Romance 1898"
+  ],
+  "ebellamy-at-pinneys-ranch-1898": [
+   22709,
+   "At Pinney's Ranch 1898"
+  ],
+  "ebellamy-old-folks-party-1898": [
+   22710,
+   "The Old Folks' Party 1898"
+  ],
+  "ebellamy-a-love-story-reversed-1898": [
+   22711,
+   "A Love Story Reversed 1898"
+  ],
+  "ebellamy-lost-1898": [
+   22712,
+   "Lost 1898"
+  ],
+  "ebellamy-with-the-eyes-shut-1898": [
+   22713,
+   "With The Eyes Shut 1898"
+  ],
+  "ebellamy-deserted-1898": [
+   22714,
+   "Deserted 1898"
+  ],
+  "ebellamy-cold-snap-1898": [
+   22715,
+   "The Cold Snap 1898"
+  ],
+  "ebellamy-looking-backward": [
+   25439,
+   "Looking Backward: 2000-1887"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ebellamy-looking-backward-2000-to-1887": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-miss-ludingtons-sister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-dr-heidenhoffs-process": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-equality": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-duke-of-stockbridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-blindmans-world-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-an-echo-of-antietam-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-hooking-watermelons-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-to-whom-this-may-come-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-a-summer-evenings-dream-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-two-days-solitary-imprisonment-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-pottss-painless-cure-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-a-positive-romance-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-at-pinneys-ranch-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-old-folks-party-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-a-love-story-reversed-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-lost-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-with-the-eyes-shut-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-deserted-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-cold-snap-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebellamy-looking-backward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "_about": "Public-domain George F. Pentecost (George Frederick Pentecost, 1842-1920, Baptist and Presbyterian evangelist, Marylebone) for the Word Hoard: 14 books and sermons from Internet Archive scans, 1875-1918, among them The Angel in the Marble (1875), In the Volume of the Book (1885), four years of his Bible Studies on the International Lessons (1888-1893), A South Window (1893) and The Birth and Boyhood of Jesus (1896). Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "pentecost"
+ ],
+ "_surname": [
+  "george f. pentecost",
+  "geo. f. pentecost",
+  "george frederick pentecost",
+  "pentecost, george f.",
+  "george f. pentecost, d.d.",
+  "rev. george f. pentecost"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pentecost-angel-in-marble": [
+   "angelinmarble00pent",
+   "The Angel in the Marble (Boston: Robert J. Long; entered 1875, title-page year OCR'd 1873)"
+  ],
+  "pentecost-volume-of-book": [
+   "involumeofbook00pent",
+   "In the Volume of the Book, with introductions by Joseph Cook and J. H. Vincent (New York and London: Funk and Wagnalls; entered 1885)"
+  ],
+  "pentecost-bible-studies-1889": [
+   "biblestudiesfro00pentgoog",
+   "Bible Studies from the Old and New Testaments, International Sunday-School Lessons for 1889 (New York: A. S. Barnes, copyright 1888)"
+  ],
+  "pentecost-bible-studies-1892": [
+   "biblestudiesfr00pent",
+   "Bible Studies, Lessons for 1892 (New York: A. S. Barnes, copyright 1891)"
+  ],
+  "pentecost-bible-studies-1893": [
+   "biblestudiesfrom00pent",
+   "Bible Studies, Lessons for 1893 (New York: A. S. Barnes, copyright 1893)"
+  ],
+  "pentecost-bible-studies-1894": [
+   "biblestudiesistu00pent",
+   "Bible Studies, International Sunday-School Lessons for 1894 (New York: Fleming H. Revell, copyright 1893)"
+  ],
+  "pentecost-parliament-religion": [
+   "parliamentofreli00pent",
+   "Parliament of Religion: The Invincible Gospel (New York: Fleming H. Revell; entered 1893)"
+  ],
+  "pentecost-south-window": [
+   "asouthwindowork00pentgoog",
+   "A South Window; or, Keep Yourselves in the Love of God, tenth thousand (London: Hodder and Stoughton, MDCCCXCIII)"
+  ],
+  "pentecost-birth-boyhood-jesus": [
+   "birthboyhoodofje00pent",
+   "The Birth and Boyhood of Jesus (London: Hodder and Stoughton, MDCCCXCVI)"
+  ],
+  "pentecost-systematic-beneficence": [
+   "systematicbenefi00pent",
+   "Systematic Beneficence: When and How to Give (New York: A. D. F. Randolph, copyright 1897)"
+  ],
+  "pentecost-justification-war": [
+   "justificationofp00pent",
+   "The Justification of the Present War, a sermon of 1 May 1898, stenographic report (New York, 1898)"
+  ],
+  "pentecost-protestantism-philippines": [
+   "protestantisminp00pent",
+   "Protestantism in the Philippines, a sermon preached in Manila, 21 December 1902 (New York, 1903)"
+  ],
+  "pentecost-fighting-for-faith": [
+   "fightingforfaith0000geor",
+   "Fighting for Faith: The Justice of Our Fight, the Reasons for Our Faith, with a biographical foreword by another hand (New York: George H. Doran, copyright 1918)"
+  ]
+ },
+ "_alternates": {
+  "pentecost-angel-1883": "The Angel in the Marble, and Other Papers, enlarged English edition (Hodder and Stoughton, 1883; angelinmarblean00pentgoog)",
+  "pentecost-copies": "Second copy of Fighting for Faith",
+  "pentecost-world-rulers-darkness": "World Rulers of Darkness, and Spiritual Wickedness in High Places (IA spiritualwickedn00pent, catalogued Philadelphia, 1917): no author name readable in the OCR's first 20 KB, so not shelved"
+ },
+ "_excluded": {
+  "pentecost-introductions": "Song Victories of the Bliss and Sankey Hymns and Dewey's True Science of Living: his introductions only",
+  "pentecost-late": "Studies in the Gospel of St. John (1946)",
+  "pentecost-namesakes": "Hugh Pentecost and others"
+ },
+ "_identity_checked": {
+  "pentecost-bible-studies-1892": {
+   "author": "Scan's library slip reads 'Pentecost, Geo. F. 1842-1920'; the 'By the same author' page lists In the Volume of the Book, his known title; name on the title page itself is not legible in the OCR"
+  },
+  "pentecost-bible-studies-1893": {
+   "author": "Scan's library slip reads 'Pentecost, Geo. F. 1842-1920'; the 'By the same author' page lists In the Volume of the Book, his known title; name on the title page itself is not legible in the OCR"
+  }
+ },
+ "_pending": {
+  "pentecost-stewardship": "The Basis of Stewardship (Methodist centenary leaflet, undated; basisofstewardsh00pent): name garbled"
+ },
+ "_checks": {
+  "pentecost-angel-in-marble": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "geo. f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-volume-of-book": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pentecost-bible-studies-1889": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-bible-studies-1892": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-bible-studies-1893": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-bible-studies-1894": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "geo. f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-parliament-religion": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pentecost-south-window": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-birth-boyhood-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "geo. f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-systematic-beneficence": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pentecost-justification-war": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pentecost-protestantism-philippines": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "geo. f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pentecost-fighting-for-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george f. pentecost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Emilie Poulsson (1853-1939): Dikken Zwilgmeyer's What Happened to Inger Johanne (1919), Johnny Blossom (1912) and Inger Johanne's Lively Doings (1920). Her Top-of-the-World Stories is already held elsewhere. Her Top-of-the-World Stories (with Laura E. Poulsson) is on Lane D's poulsson_shelf.json; this shelf holds the Zwilgmeyer books and could merge into that one. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "emilie poulsson"
+ ],
+ "_surname": [
+  "emilie poulsson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pou-32502": [
+   32502,
+   "What happened to Inger Johanne, as told by herself"
+  ],
+  "pou-64005": [
+   64005,
+   "Johnny Blossom"
+  ],
+  "pou-70274": [
+   70274,
+   "Inger Johanne's lively doings"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "poulsson-zwilgmeyer-zwilgmeyer-inger-johanne-s-lively-doings": {
+   "source": "pou-70274",
+   "of": "Dikken Zwilgmeyer",
+   "work": "Inger Johanne's lively doings",
+   "translated": "1912-1920 (see the Gutenberg header)",
+   "translator": "Emilie Poulsson",
+   "scan_edition": "Project Gutenberg 70274 (clean text)"
+  },
+  "poulsson-zwilgmeyer-zwilgmeyer-johnny-blossom": {
+   "source": "pou-64005",
+   "of": "Dikken Zwilgmeyer",
+   "work": "Johnny Blossom",
+   "translated": "1912-1920 (see the Gutenberg header)",
+   "translator": "Emilie Poulsson",
+   "scan_edition": "Project Gutenberg 64005 (clean text)"
+  },
+  "poulsson-zwilgmeyer-zwilgmeyer-what-happened-to-inger-johanne-as-told-b": {
+   "source": "pou-32502",
+   "of": "Dikken Zwilgmeyer",
+   "work": "What happened to Inger Johanne, as told by herself",
+   "translated": "1912-1920 (see the Gutenberg header)",
+   "translator": "Emilie Poulsson",
+   "scan_edition": "Project Gutenberg 32502 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pou-32502": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emilie poulsson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emilie Poulsson"
+  },
+  "pou-64005": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emilie poulsson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emilie Poulsson"
+  },
+  "pou-70274": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emilie poulsson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emilie Poulsson"
+  }
+ },
+ "_verified": {
+  "pou-32502": {
+   "pg": 32502,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emilie Poulsson"
+  },
+  "pou-64005": {
+   "pg": 64005,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emilie Poulsson"
+  },
+  "pou-70274": {
+   "pg": 70274,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emilie Poulsson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

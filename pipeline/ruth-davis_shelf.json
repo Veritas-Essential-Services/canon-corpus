@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Ruth Helen Davis (1885-1937): Gautier and Loti's The Daughter of Heaven (1912) and Bordeaux's The Awakening, The Woollen Dress and The Fear of Living (1913-1914). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ruth helen davis"
+ ],
+ "_surname": [
+  "ruth helen davis"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rhd-47218": [
+   47218,
+   "The Daughter of Heaven"
+  ],
+  "rhd-70440": [
+   70440,
+   "The awakening"
+  ],
+  "rhd-71410": [
+   71410,
+   "The woollen dress"
+  ],
+  "rhd-73031": [
+   73031,
+   "The fear of living"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ruth-davis-bordeaux-the-awakening": {
+   "source": "rhd-70440",
+   "of": "Henry Bordeaux",
+   "work": "The awakening",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Ruth Helen Davis",
+   "scan_edition": "Project Gutenberg 70440 (clean text)"
+  },
+  "ruth-davis-bordeaux-the-fear-of-living": {
+   "source": "rhd-73031",
+   "of": "Henry Bordeaux",
+   "work": "The fear of living",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Ruth Helen Davis",
+   "scan_edition": "Project Gutenberg 73031 (clean text)"
+  },
+  "ruth-davis-bordeaux-the-woollen-dress": {
+   "source": "rhd-71410",
+   "of": "Henry Bordeaux",
+   "work": "The woollen dress",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Ruth Helen Davis",
+   "scan_edition": "Project Gutenberg 71410 (clean text)"
+  },
+  "ruth-davis-gautier-the-daughter-of-heaven": {
+   "source": "rhd-47218",
+   "of": "Judith Gautier and Pierre Loti",
+   "work": "The Daughter of Heaven",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Ruth Helen Davis",
+   "scan_edition": "Project Gutenberg 47218 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rhd-47218": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ruth helen davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ruth Helen Davis"
+  },
+  "rhd-70440": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ruth helen davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ruth Helen Davis"
+  },
+  "rhd-71410": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ruth helen davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ruth Helen Davis"
+  },
+  "rhd-73031": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ruth helen davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ruth Helen Davis"
+  }
+ },
+ "_verified": {
+  "rhd-47218": {
+   "pg": 47218,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ruth Helen Davis"
+  },
+  "rhd-70440": {
+   "pg": 70440,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ruth Helen Davis"
+  },
+  "rhd-71410": {
+   "pg": 71410,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ruth Helen Davis"
+  },
+  "rhd-73031": {
+   "pg": 73031,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ruth Helen Davis"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

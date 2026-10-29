@@ -1,0 +1,895 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: the last of the one-off translations, gathered after the subject shelves closed: Calthrop's Sun Tzu (The Book of War, 1908), Bose and Saha's The Principle of Relativity (Calcutta, 1920: Einstein and Minkowski), Renouf's Egyptian Book of the Dead, Tocqueville's The State of Society in France before 1789 (Henry Reeve), Vallery-Radot's Life of Pasteur, Gautier's Wanderings in Spain and My Household of Pets (Susan Coolidge), Guiccioli's Recollections of Lord Byron, Hammer-Purgstall's History of the Assassins, Rolland's Above the Battle (C. K. Ogden), Duhamel's Civilisation 1914-1918, Claudel's The East I Know, Mauclair's Rodin (Clementina Black), Max O'Rell, Tcheng Ki-tong's Chin-Chin, Perelaer's Ran Away from the Dutch, Saintine's real Robinson Crusoe, the Taleef Shereef, Bain's Descent of the Sun, Guizot's Meditations, Zur Muhlen's fairy tales, and the Snouck Hurgronje and Reventlow war pamphlets. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-17 by lane C (round 52); Adam may veto. No uids minted.",
+ "_name_words": [
+  "anne topan wilbur wood",
+  "c. k. ogden",
+  "charles kay ogden",
+  "clementina black",
+  "edouard naville",
+  "everard ferguson calthrop",
+  "f. tennyson jesse",
+  "f. w. bain",
+  "francis william bain",
+  "fryniwyd tennyson jesse",
+  "george playfair",
+  "georges chatterton-hill",
+  "henry reeve",
+  "hubert e. h. jerningham",
+  "hubert edward henry jerningham",
+  "ida dailes",
+  "john butler ormonde",
+  "joseph e. gillet",
+  "joseph eugene gillet",
+  "m. r. barnard",
+  "mary bartlett blouët",
+  "maurice blok",
+  "meghnad saha",
+  "mordaunt roger barnard",
+  "mrs. r. l. devonshire",
+  "norton f. w. hazeldine",
+  "oswald charles wood",
+  "p. le page renouf",
+  "peter le page renouf",
+  "r. l. devonshire",
+  "robert harborough sherard",
+  "satyendranath bose",
+  "susan coolidge",
+  "t. p. conwell-evans",
+  "teresa frances benét",
+  "thomas philip conwell-evans",
+  "thomas robert mcquoid",
+  "william rose benét"
+ ],
+ "_surname": [
+  "anne topan wilbur wood",
+  "c. k. ogden",
+  "charles kay ogden",
+  "clementina black",
+  "edouard naville",
+  "everard ferguson calthrop",
+  "f. tennyson jesse",
+  "f. w. bain",
+  "francis william bain",
+  "fryniwyd tennyson jesse",
+  "george playfair",
+  "georges chatterton-hill",
+  "henry reeve",
+  "hubert e. h. jerningham",
+  "hubert edward henry jerningham",
+  "ida dailes",
+  "john butler ormonde",
+  "joseph e. gillet",
+  "joseph eugene gillet",
+  "m. r. barnard",
+  "mary bartlett blouët",
+  "maurice blok",
+  "meghnad saha",
+  "mordaunt roger barnard",
+  "mrs. r. l. devonshire",
+  "norton f. w. hazeldine",
+  "oswald charles wood",
+  "p. le page renouf",
+  "peter le page renouf",
+  "r. l. devonshire",
+  "robert harborough sherard",
+  "satyendranath bose",
+  "susan coolidge",
+  "t. p. conwell-evans",
+  "teresa frances benét",
+  "thomas philip conwell-evans",
+  "thomas robert mcquoid",
+  "william rose benét"
+ ],
+ "_surname_by_slug": {
+  "srm-11441": [
+   "anne topan wilbur wood",
+   "wood"
+  ],
+  "srm-25977": [
+   "hubert e. h. jerningham",
+   "hubert edward henry jerningham",
+   "jerningham"
+  ],
+  "srm-32406": [
+   "f. tennyson jesse",
+   "fryniwyd tennyson jesse",
+   "jesse"
+  ],
+  "srm-32779": [
+   "c. k. ogden",
+   "charles kay ogden",
+   "ogden"
+  ],
+  "srm-34679": [
+   "blouët",
+   "mary bartlett blouët"
+  ],
+  "srm-38026": [
+   "barnard",
+   "m. r. barnard",
+   "mordaunt roger barnard"
+  ],
+  "srm-44024": [
+   "calthrop",
+   "everard ferguson calthrop"
+  ],
+  "srm-50619": [
+   "hazeldine",
+   "norton f. w. hazeldine"
+  ],
+  "srm-50665": [
+   "black",
+   "clementina black"
+  ],
+  "srm-52763": [
+   "mcquoid",
+   "thomas robert mcquoid"
+  ],
+  "srm-53023": [
+   "oswald charles wood",
+   "wood"
+  ],
+  "srm-53755": [
+   "george playfair",
+   "playfair"
+  ],
+  "srm-54187": [
+   "henry reeve",
+   "reeve"
+  ],
+  "srm-58371": [
+   "robert harborough sherard",
+   "sherard"
+  ],
+  "srm-60705": [
+   "john butler ormonde",
+   "ormonde"
+  ],
+  "srm-60956": [
+   "devonshire",
+   "mrs. r. l. devonshire",
+   "r. l. devonshire"
+  ],
+  "srm-65665": [
+   "coolidge",
+   "susan coolidge"
+  ],
+  "srm-66468": [
+   "chatterton-hill",
+   "georges chatterton-hill"
+  ],
+  "srm-66687": [
+   "dailes",
+   "ida dailes"
+  ],
+  "srm-66944": [
+   "bose",
+   "meghnad saha",
+   "saha",
+   "satyendranath bose"
+  ],
+  "srm-68641": [
+   "bain",
+   "f. w. bain",
+   "francis william bain"
+  ],
+  "srm-68774": [
+   "conwell-evans",
+   "t. p. conwell-evans",
+   "thomas philip conwell-evans"
+  ],
+  "srm-69537": [
+   "gillet",
+   "joseph e. gillet",
+   "joseph eugene gillet"
+  ],
+  "srm-69566": [
+   "edouard naville",
+   "naville",
+   "p. le page renouf",
+   "peter le page renouf",
+   "renouf"
+  ],
+  "srm-70971": [
+   "benét",
+   "teresa frances benét",
+   "william rose benét"
+  ],
+  "srm-71401": [
+   "blok",
+   "maurice blok"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "srm-11441": [
+   11441,
+   "The Solitary of Juan Fernandez, or the Real Robinson Crusoe"
+  ],
+  "srm-25977": [
+   25977,
+   "My Recollections of Lord Byron"
+  ],
+  "srm-32406": [
+   32406,
+   "The City Curious"
+  ],
+  "srm-32779": [
+   32779,
+   "Above the Battle"
+  ],
+  "srm-34679": [
+   34679,
+   "Jonathan and His Continent: Rambles Through American Society"
+  ],
+  "srm-38026": [
+   38026,
+   "Fridtjof Nansen: A Book for the Young"
+  ],
+  "srm-44024": [
+   44024,
+   "The Book of War: The Military Classic of the Far East The Articles of Suntzu; The Sayings of Wutzu"
+  ],
+  "srm-50619": [
+   50619,
+   "The Sufism of the Rubáiyát, or, the Secret of the Great Paradox"
+  ],
+  "srm-50665": [
+   50665,
+   "Auguste Rodin: The Man - His Ideas - His Works"
+  ],
+  "srm-52763": [
+   52763,
+   "Wanderings in Spain"
+  ],
+  "srm-53023": [
+   53023,
+   "The History of the Assassins, Derived from Oriental Sources"
+  ],
+  "srm-53755": [
+   53755,
+   "The Taleef Shereef; Or, Indian Materia Medica"
+  ],
+  "srm-54187": [
+   54187,
+   "The State of Society in France Before the Revolution of 1789 And the Causes Which Led to That Event"
+  ],
+  "srm-58371": [
+   58371,
+   "Chin-Chin; Or, The Chinaman at Home"
+  ],
+  "srm-60705": [
+   60705,
+   "Meditations and Moral Sketches"
+  ],
+  "srm-60956": [
+   60956,
+   "The life of Pasteur"
+  ],
+  "srm-65665": [
+   65665,
+   "My household of pets"
+  ],
+  "srm-66468": [
+   66468,
+   "The Vampire of the Continent"
+  ],
+  "srm-66687": [
+   66687,
+   "Fairy Tales for Workers' Children"
+  ],
+  "srm-66944": [
+   66944,
+   "The Principle of Relativity"
+  ],
+  "srm-68641": [
+   68641,
+   "The descent of the sun: A cycle of birth"
+  ],
+  "srm-68774": [
+   68774,
+   "Civilisation 1914-1918"
+  ],
+  "srm-69537": [
+   69537,
+   "The holy war \"made in Germany\""
+  ],
+  "srm-69566": [
+   69566,
+   "The Egyptian Book of the dead"
+  ],
+  "srm-70971": [
+   70971,
+   "The East I know"
+  ],
+  "srm-71401": [
+   71401,
+   "Ran away from the Dutch"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-remainder-anon-the-egyptian-book-of-the-dead": {
+   "source": "srm-69566",
+   "of": "Ancient Egyptian funerary texts (anonymous)",
+   "work": "The Egyptian Book of the dead",
+   "translated": "(see the Gutenberg header)",
+   "translator": "P. Le Page Renouf and Edouard Naville",
+   "scan_edition": "Project Gutenberg 69566 (clean text)"
+  },
+  "singles-remainder-anon-the-taleef-shereef": {
+   "source": "srm-53755",
+   "of": "anonymous (an Indian materia medica in Persian)",
+   "work": "The Taleef Shereef; Or, Indian Materia Medica",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George Playfair",
+   "scan_edition": "Project Gutenberg 53755 (clean text)"
+  },
+  "singles-remainder-boschere-the-city-curious": {
+   "source": "srm-32406",
+   "of": "Jean de Boschère",
+   "work": "The City Curious",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. Tennyson Jesse",
+   "scan_edition": "Project Gutenberg 32406 (clean text)"
+  },
+  "singles-remainder-bull-fridtjof-nansen": {
+   "source": "srm-38026",
+   "of": "Jacob B. Bull",
+   "work": "Fridtjof Nansen: A Book for the Young",
+   "translated": "(see the Gutenberg header)",
+   "translator": "M. R. Barnard",
+   "scan_edition": "Project Gutenberg 38026 (clean text)"
+  },
+  "singles-remainder-claudel-the-east-i-know": {
+   "source": "srm-70971",
+   "of": "Paul Claudel",
+   "work": "The East I know",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Teresa Frances Benét and William Rose Benét",
+   "scan_edition": "Project Gutenberg 70971 (clean text)"
+  },
+  "singles-remainder-duhamel-civilisation-1914-1918": {
+   "source": "srm-68774",
+   "of": "Georges Duhamel",
+   "work": "Civilisation 1914-1918",
+   "translated": "(see the Gutenberg header)",
+   "translator": "T. P. Conwell-Evans",
+   "scan_edition": "Project Gutenberg 68774 (clean text)"
+  },
+  "singles-remainder-einstein-the-principle-of-relativity": {
+   "source": "srm-66944",
+   "of": "Albert Einstein and H. Minkowski",
+   "work": "The Principle of Relativity",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Satyendranath Bose and Meghnad Saha",
+   "scan_edition": "Project Gutenberg 66944 (clean text)"
+  },
+  "singles-remainder-gautier-my-household-of-pets": {
+   "source": "srm-65665",
+   "of": "Théophile Gautier",
+   "work": "My household of pets",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Susan Coolidge",
+   "scan_edition": "Project Gutenberg 65665 (clean text)"
+  },
+  "singles-remainder-gautier-wanderings-in-spain": {
+   "source": "srm-52763",
+   "of": "Théophile Gautier",
+   "work": "Wanderings in Spain",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Robert McQuoid",
+   "scan_edition": "Project Gutenberg 52763 (clean text)"
+  },
+  "singles-remainder-guiccioli-my-recollections-of-lord-byron": {
+   "source": "srm-25977",
+   "of": "Teresa Guiccioli",
+   "work": "My Recollections of Lord Byron",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Hubert E. H. Jerningham",
+   "scan_edition": "Project Gutenberg 25977 (clean text)"
+  },
+  "singles-remainder-guizot-meditations-and-moral-sketches": {
+   "source": "srm-60705",
+   "of": "François Guizot",
+   "work": "Meditations and Moral Sketches",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Butler Ormonde",
+   "scan_edition": "Project Gutenberg 60705 (clean text)"
+  },
+  "singles-remainder-hammer-purgstall-the-history-of-the-assassins-derived-fro": {
+   "source": "srm-53023",
+   "of": "Joseph Hammer-Purgstall",
+   "work": "The History of the Assassins, Derived from Oriental Sources",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Oswald Charles Wood",
+   "scan_edition": "Project Gutenberg 53023 (clean text)"
+  },
+  "singles-remainder-hurgronje-the-holy-war-made-in-germany": {
+   "source": "srm-69537",
+   "of": "C. Snouck Hurgronje",
+   "work": "The holy war \"made in Germany\"",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph E. Gillet",
+   "scan_edition": "Project Gutenberg 69537 (clean text)"
+  },
+  "singles-remainder-khayyam-the-sufism-of-the-rubaiyat-or-the-secret": {
+   "source": "srm-50619",
+   "of": "Omar Khayyam",
+   "work": "The Sufism of the Rubáiyát, or, the Secret of the Great Paradox",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Norton F. W. Hazeldine",
+   "scan_edition": "Project Gutenberg 50619 (clean text)"
+  },
+  "singles-remainder-mauclair-auguste-rodin": {
+   "source": "srm-50665",
+   "of": "Camille Mauclair",
+   "work": "Auguste Rodin: The Man - His Ideas - His Works",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Clementina Black",
+   "scan_edition": "Project Gutenberg 50665 (clean text)"
+  },
+  "singles-remainder-muhlen-fairy-tales-for-workers-children": {
+   "source": "srm-66687",
+   "of": "Hermynia Zur Mühlen",
+   "work": "Fairy Tales for Workers' Children",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ida Dailes",
+   "scan_edition": "Project Gutenberg 66687 (clean text)"
+  },
+  "singles-remainder-o-rell-jonathan-and-his-continent": {
+   "source": "srm-34679",
+   "of": "Max O'Rell and Jack Allyn",
+   "work": "Jonathan and His Continent: Rambles Through American Society",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary Bartlett Blouët",
+   "scan_edition": "Project Gutenberg 34679 (clean text)"
+  },
+  "singles-remainder-perelaer-ran-away-from-the-dutch": {
+   "source": "srm-71401",
+   "of": "M. T. H. Perelaer",
+   "work": "Ran away from the Dutch",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Maurice Blok",
+   "scan_edition": "Project Gutenberg 71401 (clean text)"
+  },
+  "singles-remainder-reventlow-the-vampire-of-the-continent": {
+   "source": "srm-66468",
+   "of": "E. Reventlow",
+   "work": "The Vampire of the Continent",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Georges Chatterton-Hill",
+   "scan_edition": "Project Gutenberg 66468 (clean text)"
+  },
+  "singles-remainder-rolland-above-the-battle": {
+   "source": "srm-32779",
+   "of": "Romain Rolland",
+   "work": "Above the Battle",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. K. Ogden",
+   "scan_edition": "Project Gutenberg 32779 (clean text)"
+  },
+  "singles-remainder-saintine-the-solitary-of-juan-fernandez-or-the-re": {
+   "source": "srm-11441",
+   "of": "X.-B. Saintine",
+   "work": "The Solitary of Juan Fernandez, or the Real Robinson Crusoe",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Anne Topan Wilbur Wood",
+   "scan_edition": "Project Gutenberg 11441 (clean text)"
+  },
+  "singles-remainder-sunzi-the-book-of-war": {
+   "source": "srm-44024",
+   "of": "Sunzi and Qi Wu",
+   "work": "The Book of War: The Military Classic of the Far East The Articles of Suntzu; The Sayings of Wutzu",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Everard Ferguson Calthrop",
+   "scan_edition": "Project Gutenberg 44024 (clean text)"
+  },
+  "singles-remainder-tcheng-chin-chin": {
+   "source": "srm-58371",
+   "of": "Ki-tong Tcheng",
+   "work": "Chin-Chin; Or, The Chinaman at Home",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Harborough Sherard",
+   "scan_edition": "Project Gutenberg 58371 (clean text)"
+  },
+  "singles-remainder-tocqueville-the-state-of-society-in-france-before-th": {
+   "source": "srm-54187",
+   "of": "Alexis de Tocqueville",
+   "work": "The State of Society in France Before the Revolution of 1789 And the Causes Which Led to That Event",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Reeve",
+   "scan_edition": "Project Gutenberg 54187 (clean text)"
+  },
+  "singles-remainder-unknown-the-descent-of-the-sun": {
+   "source": "srm-68641",
+   "of": "F. W. Bain (presented as from a Sanskrit manuscript)",
+   "work": "The descent of the sun: A cycle of birth",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. W. Bain",
+   "scan_edition": "Project Gutenberg 68641 (clean text)",
+   "note": "Bain presented his Hindu tales as translations from Sanskrit manuscripts, but no original has ever been found, and they are generally taken to be his own compositions. It is shelved here because Gutenberg catalogues it as a translation; the honesty field is this note."
+  },
+  "singles-remainder-vallery-radot-the-life-of-pasteur": {
+   "source": "srm-60956",
+   "of": "René Vallery-Radot",
+   "work": "The life of Pasteur",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. L. Devonshire",
+   "scan_edition": "Project Gutenberg 60956 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "srm-11441": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anne topan wilbur wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anne Topan Wilbur Wood"
+  },
+  "srm-25977": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hubert e. h. jerningham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Hubert E. H. Jerningham"
+  },
+  "srm-32406": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. tennyson jesse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. Tennyson Jesse"
+  },
+  "srm-32779": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. k. ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. K. Ogden"
+  },
+  "srm-34679": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "blouët",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Bartlett Blouët"
+  },
+  "srm-38026": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "barnard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. R. Barnard"
+  },
+  "srm-44024": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "calthrop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Everard Ferguson Calthrop"
+  },
+  "srm-50619": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hazeldine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Norton F. W. Hazeldine"
+  },
+  "srm-50665": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "clementina black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clementina Black"
+  },
+  "srm-52763": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcquoid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Robert McQuoid"
+  },
+  "srm-53023": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "oswald charles wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Oswald Charles Wood"
+  },
+  "srm-53755": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george playfair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Playfair"
+  },
+  "srm-54187": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Reeve"
+  },
+  "srm-58371": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "robert harborough sherard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Harborough Sherard"
+  },
+  "srm-60705": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john butler ormonde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marquis of John Butler Ormonde"
+  },
+  "srm-60956": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "devonshire",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. R. L. Devonshire"
+  },
+  "srm-65665": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Susan Coolidge"
+  },
+  "srm-66468": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "chatterton-hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Georges Chatterton-Hill"
+  },
+  "srm-66687": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dailes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ida Dailes"
+  },
+  "srm-66944": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Satyendranath Bose; Meghnad Saha"
+  },
+  "srm-68641": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. W. Bain"
+  },
+  "srm-68774": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "conwell-evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. P. Conwell-Evans"
+  },
+  "srm-69537": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gillet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph E. Gillet"
+  },
+  "srm-69566": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edouard naville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "P. Le Page Renouf; Edouard Naville"
+  },
+  "srm-70971": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "benét",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Teresa Frances Benét; William Rose Benét"
+  },
+  "srm-71401": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "blok",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maurice Blok"
+  }
+ },
+ "_verified": {
+  "srm-11441": {
+   "pg": 11441,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anne Topan Wilbur Wood"
+  },
+  "srm-25977": {
+   "pg": 25977,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Hubert E. H. Jerningham"
+  },
+  "srm-32406": {
+   "pg": 32406,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. Tennyson Jesse"
+  },
+  "srm-32779": {
+   "pg": 32779,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. K. Ogden"
+  },
+  "srm-34679": {
+   "pg": 34679,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Bartlett Blouët"
+  },
+  "srm-38026": {
+   "pg": 38026,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. R. Barnard"
+  },
+  "srm-44024": {
+   "pg": 44024,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Everard Ferguson Calthrop"
+  },
+  "srm-50619": {
+   "pg": 50619,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Norton F. W. Hazeldine"
+  },
+  "srm-50665": {
+   "pg": 50665,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clementina Black"
+  },
+  "srm-52763": {
+   "pg": 52763,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Robert McQuoid"
+  },
+  "srm-53023": {
+   "pg": 53023,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Oswald Charles Wood"
+  },
+  "srm-53755": {
+   "pg": 53755,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Playfair"
+  },
+  "srm-54187": {
+   "pg": 54187,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Reeve"
+  },
+  "srm-58371": {
+   "pg": 58371,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Harborough Sherard"
+  },
+  "srm-60705": {
+   "pg": 60705,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Marquis of John Butler Ormonde"
+  },
+  "srm-60956": {
+   "pg": 60956,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. R. L. Devonshire"
+  },
+  "srm-65665": {
+   "pg": 65665,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Susan Coolidge"
+  },
+  "srm-66468": {
+   "pg": 66468,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Georges Chatterton-Hill"
+  },
+  "srm-66687": {
+   "pg": 66687,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ida Dailes"
+  },
+  "srm-66944": {
+   "pg": 66944,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Satyendranath Bose"
+  },
+  "srm-68641": {
+   "pg": 68641,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. W. Bain"
+  },
+  "srm-68774": {
+   "pg": 68774,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. P. Conwell-Evans"
+  },
+  "srm-69537": {
+   "pg": 69537,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph E. Gillet"
+  },
+  "srm-69566": {
+   "pg": 69566,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "P. Le Page Renouf"
+  },
+  "srm-70971": {
+   "pg": 70971,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Teresa Frances Benét"
+  },
+  "srm-71401": {
+   "pg": 71401,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Maurice Blok"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

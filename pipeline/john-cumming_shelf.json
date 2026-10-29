@@ -1,0 +1,454 @@
+{
+ "_about": "Public-domain John Cumming (1807-1881), minister of the Scottish National Church, Crown Court, London, preacher on prophecy and controversialist against Rome, for the Word Hoard: Is Christianity from God? (1849 printing), Tractarianism and Popery (1843), Apocalyptic Sketches (1854 printing), Voices of the Night (1850), God in History (1852), Lectures for the Times (1851), Lectures on the Seven Churches (1852), The Church before the Flood (1853), Foreshadows on the miracles, Lectures on Romanism (1854), The Great Sacrifice (1854), The Comforter (1854), Benedictions (1854), The Tent and the Altar (1854), Signs of the Times (1855), The End (1855), Infant Salvation (1855), The Last of the Patriarchs (1856), Sabbath Morning and Evening Readings on Genesis, Exodus, Leviticus, Matthew, Mark and Luke, and Moses Right and Bishop Colenso Wrong (1863). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 65 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cumming"
+ ],
+ "_surname": [
+  "john cumming",
+  "j. cumming",
+  "rev. john cumming",
+  "john cumming, d.d.",
+  "dr. cumming"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jcumming-is-christianity-from-god": [
+   "ischristianityfr00cumm",
+   "Is Christianity from God? ([n.p.], 1849)"
+  ],
+  "jcumming-tractarianism-popery": [
+   "tractarianismpop00cummuoft",
+   "Tractarianism and popery : being a course of lectures delivered at Surrey chapel (London : D. Stroud, 1843)"
+  ],
+  "jcumming-apocalyptic-sketches": [
+   "apocalypticsketc00cummuoft",
+   "Apocalyptic sketches; lectures on the book of Revelation. 1st ser (Philadelphia Lindsay and Blakiston, 1854)"
+  ],
+  "jcumming-voices-of-night": [
+   "voicesofnigh00cumm",
+   "Voices of the night (London, New York, Virtue, Hall, and Virtue, 1850)"
+  ],
+  "jcumming-god-in-history": [
+   "godinhistoryorfa00cummrich",
+   "God in history; or, Facts illustrative of the presence and providence of God in the affairs of men (New York, Lane & Scott for the Sunday-school union of the Methodist Episcopal church, 1852)"
+  ],
+  "jcumming-lectures-for-times": [
+   "lecturesfortheti00cummuoft",
+   "Lectures for the times, or, An exposition of tridentine and tractarian popery (London : A. Hall & Co, 1851)"
+  ],
+  "jcumming-seven-churches": [
+   "lecturesonsevenc03cumm",
+   "Lectures on the seven churches of Asia Minor, vol. 3 (London : A. Hall, Virtue, 1852)"
+  ],
+  "jcumming-church-before-flood": [
+   "churchbeforefloo00cumm",
+   "The church before the flood (catalogued 1853)"
+  ],
+  "jcumming-foreshadows-miracles": [
+   "foreshadowsorlec01cumm",
+   "Foreshadows : or, Lectures on Our Lord's miracles, as earnests of the age to come, vol. 1 (London : A. Hall, Virtue, 1853)"
+  ],
+  "jcumming-lectures-on-romanism": [
+   "lecturesonromani00cumm",
+   "Lectures on Romanism, being illustrations and refutations of the errors of Romanism and Tractarianism (Boston : J. P. Jewett and company; Cleveland, O. : Jewett, Proctor, and Worthington, 1854)"
+  ],
+  "jcumming-christ-receiving-sinners": [
+   "christreceivings00cumm",
+   "Christ receiving sinnners (Philadelphia, Lindsay and Blakiston, 1854)"
+  ],
+  "jcumming-great-sacrifice": [
+   "thegreatsacrific00cummuoft",
+   "The great sacrifice; or, The Gospel according to Leviticus (Philadelphia : Lindsay and Blakiston, 1854)"
+  ],
+  "jcumming-the-comforter": [
+   "comforterorthoug00cumm",
+   "The comforter : or, Thoughts on the influence of the Holy Spirit (Philadelphia : Lindsay and Blakistin, 1854)"
+  ],
+  "jcumming-benedictions": [
+   "benedictionsorblcj00cumm",
+   "Benedictions : or, The blessed life (Boston : John P. Jewett, 1854)"
+  ],
+  "jcumming-tent-and-altar": [
+   "tentandthealtar00cummuoft",
+   "The tent and the altar; or Sketches from patriarchal life (Boston : John P. Jewett, 1854)"
+  ],
+  "jcumming-signs-of-times": [
+   "signsoftimesorpr00cummrich",
+   "Signs of the times : or, Present, past, and future (Philadelphia : Lindsay and Blakiston, 1855)"
+  ],
+  "jcumming-the-end": [
+   "endorproximatesi00cumm",
+   "The end; or, The proximate signs of the close of this dispensation (Boston : J.P. Jewett and company; Cleveland, O. : Jewett, Proctor and Worthington [etc., etc.], 1855)"
+  ],
+  "jcumming-urgent-questions": [
+   "urgentquestionst00cummrich",
+   "Urgent questions; twelve urgent questions, personal, practical, and pointed (Philadelphia, Lindsday & Blakiston, 1855)"
+  ],
+  "jcumming-infant-salvation": [
+   "infantsalvation00cumm",
+   "Infant salvation (Philadelphia, Lindsay and Blakiston, 1855)"
+  ],
+  "jcumming-last-of-patriarchs": [
+   "lastofpatriarchs00cummrich",
+   "The last of the patriarchs : or, Lessons chiefly from the life of Joseph (Philadelphia : Lindsay and Blakiston, 1856)"
+  ],
+  "jcumming-readings-genesis": [
+   "sabbathmorningre00cumm",
+   "Sabbath morning readings on the Old Testament : Book of Genesis (Boston : J.P. Jewett, 1854)"
+  ],
+  "jcumming-readings-exodus": [
+   "sabbathmorningexodus00cumm",
+   "Sabbath morning readings on the Old Testament, Book of Exodus (Boston : J. P. Jewett, 1854)"
+  ],
+  "jcumming-readings-leviticus": [
+   "sabbathmorninglevi00cumm",
+   "Sabbath morning readings on the Old Testament, Book of Leviticus (Boston : J. P. Jewett, 1855)"
+  ],
+  "jcumming-readings-matthew": [
+   "sabbathevening00cumm",
+   "Sabbath evening readings on the New Testament ... St. Matthew (Boston : J.P. Jewett, 1855)"
+  ],
+  "jcumming-readings-mark": [
+   "sabbatheven00cumm",
+   "Sabbath evening readings on the New Testament ... : St. Mark (Boston : J.P. Jewett, 1855)"
+  ],
+  "jcumming-readings-luke": [
+   "sabbatheveningjo00cumm",
+   "Sabbath evening readings on the New Testament ... : St. Luke (Boston : J.P. Jewett, 1855)"
+  ],
+  "jcumming-moses-right-colenso": [
+   "mosesrightbishop00cumm",
+   "Moses right and Bishop Colenso wrong : being popular lectures on the Pentateuch (London : J.F. Shaw, 1827)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jcumming-other": "His editions of Knox's Liturgy and of the Psalter of the Blessed Virgin; The Hammersmith Protestant Discussion (a debate with Daniel French, both sides); other John Cummings",
+  "jcumming-foreshadows-parables": "foreshadowslectu00cumm: catalogued as Foreshadows on the parables, but the scan is the miracles volume, already shelved as jcumming-foreshadows-miracles; the parables volume is not yet found"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jcumming-is-christianity-from-god": "title page: 'Is Christianity from God? or, a manual of Bible evidence for the people, by the Rev. John Gumming [Cumming], D.D., Minister of the Scottish National Church, Crown Court' (the OCR garbles the surname)",
+  "jcumming-tractarianism-popery": "title page: 'Tractarianism [and] Popery; a course of lectures delivered at Surrey Chapel, [by the] Rev. John Gumming [Cumming], A.M., Minister of the Scotch Church, Covent Garden' (the OCR garbles the surname)",
+  "jcumming-apocalyptic-sketches": "title page: 'Lectures on the Book of Revelation, first [series], by the Rev. John Gumming [Cumming], D.D., Minister of the Scotch National Church' (the OCR garbles the surname)",
+  "jcumming-church-before-flood": "title page: 'The Church before the Flood, [by] the Rev. John Cilmhing [Cumming], D.D., Minister of the Scotch National Church, Crown Court, Covent Garden' (the OCR garbles the surname)",
+  "jcumming-christ-receiving-sinners": "title page: 'Christ Receiving Sinners, by the Rev. John Cummlng [Cumming], D.D., Minister of the Scotch National Church' (the OCR garbles the surname)",
+  "jcumming-great-sacrifice": "title page: 'The Great Sacrifice; or, the Gospel according to Leviticus, by the Rev. John Gumming [Cumming], D.D., Minister of the Scotch National Church' (the OCR garbles the surname)",
+  "jcumming-the-comforter": "title page: 'The Comforter; or, thoughts on the influence of the Holy Spirit, by the Rev. jomr CTOoms'a [John Cumming], D.D., Minister of the Scotch National Church, author of Apocalyptic Sketches' (the OCR garbles the surname)",
+  "jcumming-tent-and-altar": "title page: 'The Tent and the Altar, or sketches from patriarchal life, by the Rev. Johx cnntLxo [John Cumming], D.D., F.R.S.E., Minister of the Scottish National Church, Crown Court, Covent Garden' (the OCR garbles the surname)",
+  "jcumming-the-end": "title page: 'The End: or, the proximate signs of the close of this dispensation, by the Rev. John”Cumming, D.D., F.R.S.E., Minister of the Scotch National Church, Crown Court' (a stray quotation mark in the OCR joins the names) (the OCR garbles the surname)",
+  "jcumming-urgent-questions": "title page: 'Twelve Urgent Questions: personal, practical, and pointed, by the Rev. John Gumming [Cumming], D.D., Minister of the Scotch National Church, author of Apocalyptic Sketches' (the OCR garbles the surname)",
+  "jcumming-last-of-patriarchs": "title page: 'The Last of the Patriarchs; or, lessons chiefly from the life of Joseph, by the Rev. John Bumming [Cumming], D.D., Minister of the Scotch National Church, author of Apocalyptic Sketches' (the OCR garbles the surname)",
+  "jcumming-readings-genesis": "title page: 'Sabbath Morning Readings on the Old Testament, by the Rev. John Ctjmming [Cumming], D.D., Minister of the Scottish National Church, Crown Court, Covent Garden' (the OCR garbles the surname)",
+  "jcumming-readings-exodus": "title page: 'Sabbath Morning Readings on the Old Testament: Book of Exodus, [by the] Rev. John' Cummisg [Cumming], D.D., F.R.S.E., Minister of the Scottish National Church' (the OCR garbles the surname)",
+  "jcumming-readings-leviticus": "title page: 'Sabbath Morning Readings on the Old Testament: Leviticus, [by the] Rev. John Cummixg [Cumming], D.D., F.R.S.E., Minister of the Scottish National Church' (the OCR garbles the surname)",
+  "jcumming-readings-matthew": "title page: 'Sabbath Evening Readings on the New Testament, by the Rev. Johs Cummisg [John Cumming], D.D., F.R.S.E., Minister of the Scottish National Church' (the OCR garbles the surname)",
+  "jcumming-readings-mark": "title page: 'Sabbath Evening Readings on the New Testament: St. Mark, [by the] Rev. John Gumming [Cumming], D.D., F.R.S.E., [Minister] of the Scottish National Church' (the OCR garbles the surname)",
+  "jcumming-readings-luke": "title page: 'Sabbath Evening Readings on the New Testament [St. Luke], [by the] Rev. John Cummikg [Cumming], D.D., F.R.S.E., Minister of the Scottish National Church' (the OCR garbles the surname)"
+ },
+ "_pending": {
+  "jcumming-prophetic-studies-daniel": "propheticstudies00cumm: Prophetic Studies, lectures on the Book of Daniel (Lindsay & Blakiston, 1854); the title-page author line is not legible in the OCR (only the publisher's advertisement names Cumming); to be read from the page image"
+ },
+ "_translators": {},
+ "_checks": {
+  "jcumming-is-christianity-from-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jcumming-tractarianism-popery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-apocalyptic-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-voices-of-night": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jcumming-god-in-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-lectures-for-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-seven-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-church-before-flood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jcumming-foreshadows-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-lectures-on-romanism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jcumming-christ-receiving-sinners": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jcumming-great-sacrifice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-the-comforter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-benedictions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-tent-and-altar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-signs-of-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-the-end": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jcumming-urgent-questions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-infant-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jcumming-last-of-patriarchs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-readings-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-readings-exodus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-readings-leviticus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-readings-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-readings-mark": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-readings-luke": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcumming-moses-right-colenso": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

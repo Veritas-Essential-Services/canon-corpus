@@ -1,0 +1,244 @@
+{
+ "_about": "William Harrison Ainsworth's historical romances: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "William Harrison Ainsworth",
+ "_name_words": [
+  "ainsworth"
+ ],
+ "_surname": [
+  "william harrison ainsworth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ainsworth-windsor-castle": [
+   2866,
+   "Windsor Castle"
+  ],
+  "ainsworth-old-saint-pauls": [
+   11082,
+   "Old Saint Paul's: A Tale of the Plague and the Fire"
+  ],
+  "ainsworth-star-chamber": [
+   12396,
+   "The Star-Chamber: An Historical Romance, Volume 1",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER\\s+[IVXLC]+\\..*"
+     }
+    ],
+    "start": "CHAPTER\\ I\\.\\ The\\ Three\\ Cranes\\ in\\ the\\ Vintry\\.$",
+    "front": true
+   }
+  ],
+  "ainsworth-star-chamber-12397": [
+   12397,
+   "The Star-Chamber: An Historical Romance, Volume 2"
+  ],
+  "ainsworth-lancashire-witches": [
+   15493,
+   "The Lancashire Witches: A Romance of Pendle Forest"
+  ],
+  "ainsworth-jack-sheppard": [
+   16215,
+   "Jack Sheppard: A Romance"
+  ],
+  "ainsworth-rookwood": [
+   23564,
+   "Rookwood"
+  ],
+  "ainsworth-auriol": [
+   36481,
+   "Auriol; or, The Elixir of Life"
+  ],
+  "ainsworth-guy-fawkes": [
+   37750,
+   "Guy Fawkes; or, The Gunpowder Treason: An Historical Romance"
+  ],
+  "ainsworth-manchester-rebels-of-the-fatal-45": [
+   46398,
+   "The Manchester Rebels of the Fatal '45",
+   {
+    "contents_only": true
+   }
+  ],
+  "ainsworth-boscobel": [
+   47348,
+   "Boscobel; or, the royal oak: A tale of the year 1651",
+   {
+    "contents_only": true
+   }
+  ],
+  "ainsworth-chetwynd-calverley-new-edition-1877": [
+   49680,
+   "Chetwynd Calverley New Edition, 1877"
+  ],
+  "ainsworth-constable-de-bourbon": [
+   49681,
+   "The Constable De Bourbon"
+  ],
+  "ainsworth-tower-of-london": [
+   49850,
+   "The Tower of London: A Historical Romance, Illustrated"
+  ],
+  "ainsworth-preston-fight": [
+   49851,
+   "Preston Fight; or, The Insurrection of 1715"
+  ],
+  "ainsworth-cardinal-pole": [
+   54484,
+   "Cardinal Pole; Or, The Days of Philip and Mary: An Historical Romance"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57683": "PG 57683: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 44521, 44522, 44523: the complete edition of each is on the shelf instead.",
+  "pg-49683": "PG 49683 Cruikshank's Water Colours: Cruikshank's plates for books by several authors."
+ },
+ "_checks": {
+  "ainsworth-windsor-castle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-old-saint-pauls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-star-chamber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-star-chamber-12397": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-lancashire-witches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-jack-sheppard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-rookwood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-auriol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-guy-fawkes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-manchester-rebels-of-the-fatal-45": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-boscobel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-chetwynd-calverley-new-edition-1877": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-constable-de-bourbon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-tower-of-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-preston-fight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ainsworth-cardinal-pole": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william harrison ainsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

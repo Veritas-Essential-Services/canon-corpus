@@ -1,0 +1,60 @@
+{
+ "_about": "Public-domain Thomas Tenison (1636-1715), Archbishop of Canterbury, for the Word Hoard: The Creed of Mr Hobbes Examined (1670) and Of Idolatry (1678), from Internet Archive scans. Added 2026-10-23 by lane A, round 44 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "tenison"
+ ],
+ "_surname": [
+  "thomas tenison",
+  "tenison"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tenison-creed-hobbes-1670": [
+   "bim_early-english-books-1641-1700_the-creed-of-mr-hobbes-_tenison-thomas_1670",
+   "The Creed of Mr. Hobbes Examined, in a feigned conference between him and a student in divinity (London, catalogued 1670)"
+  ],
+  "tenison-of-idolatry-1678": [
+   "bim_early-english-books-1641-1700_of-idolatry-a-discourse_tenison-thomas_1678",
+   "Of Idolatry: a discourse (London, catalogued 1678)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "tenison-other": "His edition of Bacon's Baconiana (Bacon's remains); single sermons and the 1687-1688 conference pamphlets, left for a later round; Richard Tenison's sermons (another man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "tenison-creed-hobbes-1670": "title page read from the page image names no author ('The Creed of Mr. Hobbes Examined; in a feigned conference between him and a student in divinity. London, printed for Francis Tyton ... 1670'), but the epistle dedicatory to Edward Earl of Manchester is signed 'Your Lordships most obliged, though unworthy Servant, Tho. Tenison' (OCR 'Teniſom'), written from Holywell where he was then curate"
+ },
+ "_pending": {
+  "tenison-popery-not-founded": "Popery not founded on Scripture (1688), a collection of tracts by several divines that he is said to have organised: a compilation",
+  "tenison-guide-1683": "A Discourse concerning a Guide in Matters of Faith (1683; IA adiscourseconce01tenigoog): the Archive returned a server error for its text on 2026-10-23, so its title page could not be checked. Retry later"
+ },
+ "_translators": {},
+ "_checks": {
+  "tenison-creed-hobbes-1670": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1670",
+   "ia_date": "1670",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tenison-of-idolatry-1678": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tenison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1678",
+   "ia_date": "1678",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

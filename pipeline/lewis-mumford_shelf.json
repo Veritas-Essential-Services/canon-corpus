@@ -1,0 +1,57 @@
+{
+ "_about": "Lewis Mumford (1895-1990), American philosopher of technics and cities. Gutenberg: The Story of Utopias (1922); Sticks and Stones (1924); Herman Melville (1929). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Lewis Mumford",
+ "_name_words": [
+  "lewis",
+  "mumford"
+ ],
+ "_surname": [
+  "mumford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mumford-story-of-utopias": [
+   75654,
+   "The Story of Utopias (1922)"
+  ],
+  "mumford-sticks-and-stones": [
+   64629,
+   "Sticks and Stones (1924)"
+  ],
+  "mumford-herman-melville": [
+   78016,
+   "Herman Melville (1929)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mumford-story-of-utopias": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mumford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mumford-sticks-and-stones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mumford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mumford-herman-melville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mumford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

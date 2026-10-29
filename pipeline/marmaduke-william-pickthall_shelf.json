@@ -1,0 +1,86 @@
+{
+ "_about": "Marmaduke William Pickthall: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Marmaduke William Pickthall",
+ "_name_words": [
+  "marmaduke",
+  "pickthall",
+  "william"
+ ],
+ "_surname": [
+  "marmaduke william pickthall",
+  "pickthall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mwpickthall-oriental-encounters": [
+   19378,
+   "Oriental Encounters: Palestine and Syria, 1894-6"
+  ],
+  "mwpickthall-valley-of-the-kings": [
+   24744,
+   "The Valley of the Kings"
+  ],
+  "mwpickthall-veiled-women": [
+   57297,
+   "Veiled Women"
+  ],
+  "mwpickthall-house-of-isl-m": [
+   63654,
+   "The House of Islâm"
+  ],
+  "mwpickthall-sa-d-the-fisherman": [
+   77078,
+   "Saïd the fisherman"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mwpickthall-oriental-encounters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marmaduke william pickthall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwpickthall-valley-of-the-kings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marmaduke william pickthall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwpickthall-veiled-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marmaduke william pickthall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwpickthall-house-of-isl-m": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marmaduke william pickthall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwpickthall-sa-d-the-fisherman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marmaduke william pickthall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

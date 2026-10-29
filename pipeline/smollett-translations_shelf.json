@@ -1,0 +1,158 @@
+{
+ "_about": "TRANSLATOR SHELF: Tobias Smollett (1721-1771) as translator: Le Sage's Gil Blas (1749; this edition with Saintsbury's introduction, 3 vols), Cervantes's Don Quixote (1755) and Voltaire's History of Peter the Great. US public domain. Added 2026-10-10 by lane C (round 34); Adam may veto. No uids minted.",
+ "_name_words": [
+  "tobias smollett",
+  "t. smollett",
+  "smollett"
+ ],
+ "_surname": [
+  "tobias smollett",
+  "t. smollett",
+  "smollett"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "smo-42540": [
+   42540,
+   "The History of Peter the Great, Emperor of Russia"
+  ],
+  "smo-66677": [
+   66677,
+   "The Adventures of Gil Blas of Santillane, Volume 1 (of 3)"
+  ],
+  "smo-66678": [
+   66678,
+   "The Adventures of Gil Blas of Santillane, Volume 2 (of 3)"
+  ],
+  "smo-66679": [
+   66679,
+   "The Adventures of Gil Blas of Santillane, Volume 3 (of 3)"
+  ],
+  "smo-77095": [
+   77095,
+   "The history and adventures of the renowned Don Quixote"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "smollett-translations-cervantes-don-quixote": {
+   "source": "smo-77095",
+   "of": "Miguel de Cervantes",
+   "work": "The history and adventures of the renowned Don Quixote",
+   "translated": "1749-1761 (see the Gutenberg header)",
+   "translator": "Tobias Smollett",
+   "scan_edition": "Project Gutenberg 77095 (clean text)"
+  },
+  "smollett-translations-le-sage-gil-blas-vol-1": {
+   "source": "smo-66677",
+   "of": "Alain-René Le Sage",
+   "work": "The Adventures of Gil Blas of Santillane, Volume 1 (of 3)",
+   "translated": "1749-1761 (see the Gutenberg header)",
+   "translator": "Tobias Smollett",
+   "scan_edition": "Project Gutenberg 66677 (clean text)"
+  },
+  "smollett-translations-le-sage-gil-blas-vol-2": {
+   "source": "smo-66678",
+   "of": "Alain-René Le Sage",
+   "work": "The Adventures of Gil Blas of Santillane, Volume 2 (of 3)",
+   "translated": "1749-1761 (see the Gutenberg header)",
+   "translator": "Tobias Smollett",
+   "scan_edition": "Project Gutenberg 66678 (clean text)"
+  },
+  "smollett-translations-le-sage-gil-blas-vol-3": {
+   "source": "smo-66679",
+   "of": "Alain-René Le Sage",
+   "work": "The Adventures of Gil Blas of Santillane, Volume 3 (of 3)",
+   "translated": "1749-1761 (see the Gutenberg header)",
+   "translator": "Tobias Smollett",
+   "scan_edition": "Project Gutenberg 66679 (clean text)"
+  },
+  "smollett-translations-voltaire-the-history-of-peter-the-great": {
+   "source": "smo-42540",
+   "of": "Voltaire",
+   "work": "The History of Peter the Great, Emperor of Russia",
+   "translated": "1749-1761 (see the Gutenberg header)",
+   "translator": "Tobias Smollett",
+   "scan_edition": "Project Gutenberg 42540 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "smo-42540": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-66677": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tobias smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-66678": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tobias smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-66679": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tobias smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-77095": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. Smollett"
+  }
+ },
+ "_verified": {
+  "smo-42540": {
+   "pg": 42540,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-66677": {
+   "pg": 66677,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-66678": {
+   "pg": 66678,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-66679": {
+   "pg": 66679,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. Smollett"
+  },
+  "smo-77095": {
+   "pg": 77095,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. Smollett"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

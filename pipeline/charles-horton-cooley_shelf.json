@@ -1,0 +1,58 @@
+{
+ "_about": "Charles Horton Cooley (1864-1929), sociologist of the self: Human Nature and the Social Order (New York: Scribner's, 1902); Social Organization, a study of the larger mind (Scribner's, copyright 1909; the etext is the 1911 printing); Social Process (Scribner's, 1918). Clean Gutenberg texts. US public domain. No uids minted.",
+ "_author": "Charles Horton Cooley",
+ "_name_words": [
+  "charles",
+  "horton",
+  "cooley"
+ ],
+ "_surname": [
+  "cooley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cooley-human-nature-social-order-1902": [
+   75145,
+   "Human Nature and the Social Order (Scribner's, 1902)"
+  ],
+  "cooley-social-organization-1909": [
+   72636,
+   "Social Organization (Scribner's, 1909; printing 1911)"
+  ],
+  "cooley-social-process-1918": [
+   75188,
+   "Social Process (Scribner's, 1918)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cooley-human-nature-social-order-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cooley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cooley-social-organization-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cooley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cooley-social-process-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cooley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "_about": "Public-domain Lorenzo Scupoli (1530-1610, Theatine) in English for the Word Hoard: The Spiritual Combat with the Path of Paradise (London: James Burns, 1846), the Rivingtons new translation (1875) and Thomas Barns's translation (Methuen, about 1909), from Internet Archive scans. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "scupoli"
+ ],
+ "_surname": [
+  "scupoli",
+  "lawrence scupoli",
+  "laurence scupoli",
+  "lorenzo scupoli"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "scupoli-combat-1846": [
+   "TheSpiritualCombat1846",
+   "The Spiritual Combat, with the Path of Paradise, translated for members of the English Church (London: James Burns, MDCCCXLVI)"
+  ],
+  "scupoli-combat-1875": [
+   "spiritualcombat00scupgoog",
+   "The Spiritual Combat, with the Supplement and the Path of Paradise, a new translation (London: Rivingtons, MDCCCLXXV)"
+  ],
+  "scupoli-combat-barns": [
+   "spiritualcombato00scup",
+   "The Spiritual Combat, tr. Thomas Barns (London: Methuen; catalogued 1909)"
+  ]
+ },
+ "_alternates": {
+  "scupoli-copies": "The Burns translation, second edition (1849) and Oxford 1868; Suttaby (1884); Rivingtons 1890; New York 1817",
+  "scupoli-castaniza": "The Spiritual Conflict (1598-1652) and The Spiritual Combat 'by John de Castaniza' (1698, 1710, 1742-1788): anonymous or credited to Castaniza, so they wait on an authorship ruling"
+ },
+ "_excluded": {
+  "scupoli-other-languages": "Gaelic, Italian, Latin and other editions"
+ },
+ "_rights_checked": {
+  "scupoli-combat-barns": "title page read: Methuen, 36 Essex St.; 'first published' line garbled; catalogued 1909"
+ },
+ "_pending": {},
+ "_translators": {
+  "scupoli-combat-barns": "barns"
+ },
+ "_checks": {
+  "scupoli-combat-1846": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "scupoli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scupoli-combat-1875": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "scupoli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scupoli-combat-barns": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "scupoli",
+   "translator_claimed": "barns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Methuen, 36 Essex St.; 'first published' line garbled; catalogued 1909"
+  }
+ }
+}

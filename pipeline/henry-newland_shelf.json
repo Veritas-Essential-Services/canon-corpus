@@ -1,0 +1,137 @@
+{
+ "_about": "Public-domain Henry Newland (1804-1860), Tractarian rector of Westbourne, Sussex, and vicar of St Marychurch, Devon, for the Word Hoard: Three Lectures on Tractarianism, Confirmation and First Communion, a commentary on Philippians, a sermon on the Lord's coming, and a tract on the Manchester and Salford education scheme, with his fishing books The Erne and Forest Scenes in Norway and Sweden. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 109 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry newland",
+  "h. newland"
+ ],
+ "_surname": [
+  "henry newland",
+  "h. newland",
+  "newland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hnewland-tractarianism": [
+   "threelecturesont00newl",
+   "Three lectures on tractarianism : delivered in the town hall, Brighton (London, 1849)"
+  ],
+  "hnewland-socinianism": [
+   "socinianisminevi00newl",
+   "Socinianism : the inevitable result of the Manchester and Salford scheme of national education, vol. Talbot Collection of British Pamphlets (London : Joseph Henry Batty, 159, Fleet Street, 1851)"
+  ],
+  "hnewland-lord-at-hand": [
+   "a622772800newluoft",
+   "The Lord is at hand : a sermon preached at S. Peter's Chapel, Charlotte Street, Pimlico, on Friday, 14th December, 1852 (London : J. Masters, 1852)"
+  ],
+  "hnewland-confirmation": [
+   "confirmationfirs00newl",
+   "Confirmation and first communion : a series of essays, lectures, sermons, conversations, and heads of catechising, relative to the preparation of catechumens (London : Joseph Masters, 1860)"
+  ],
+  "hnewland-philippians": [
+   "practicalexegeti00newl",
+   "A practical and exegetical commentary on the Epistle of St. Paul to the Philippians : in which are exhibited the results of the most learned theological criticisms, from the age of the early Fathers down to the present time (Oxford : J. H. and Jas. Parker, 1860)"
+  ],
+  "hnewland-erne": [
+   "erneitslegendsit00newlrich",
+   "The Erne, its legends and its fly-fishing (London, Chapman and Hall, 1851)"
+  ],
+  "hnewland-forest-scenes": [
+   "forestscenesinno00newlrich",
+   "Forest scenes in Norway and Sweden: being extracts from the journal of a fisherman (London, G. Routledge & Co., 1855)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hnewland-ireland": "The 1829 Apology for the Established Church in Ireland and the 1832 reply to Doyle are by Henry Newland, Dean of Ferns, a different man",
+  "hnewland-de-dominis": "The Life of Antonio de Dominis (1859) is by Henry Newland, D.D., Dean of Ferns, per its title page; a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hnewland-lord-at-hand": "Title page (OCR): \"THE LORD IS AT HAND. A SERMON, PREACHED AT [S. Peter's Chapel], Charlotte Street, Pimlico, ON FRIDAY, 14th DECEMBER, 1852. REV. H. NEWIAND, M.A., RECTOR AND VICAR OF WESTBOURNE. LONDON: JOSEPH MASTERS\""
+ },
+ "_pending": {
+  "hnewland-seasons": "The Seasons of the Church, what they teach, vol. 3 (1856), IA seasonsofchurchw03newluoft: a series of sermons he EDITED, not shown to be all his own (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "hnewland-tractarianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry newland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hnewland-socinianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry newland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hnewland-lord-at-hand": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hnewland-confirmation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry newland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hnewland-philippians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry newland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hnewland-erne": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry newland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hnewland-forest-scenes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry newland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

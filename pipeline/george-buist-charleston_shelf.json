@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain George Buist (1770-1808), Scottish-born minister of the First (Scots) Presbyterian Church, Charleston, South Carolina, and president of the College of Charleston, for the Word Hoard: his two volumes of Sermons (1809) and an oration at the Charleston orphan house (1795). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 107 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george buist",
+  "g. buist",
+  "buist"
+ ],
+ "_surname": [
+  "george buist",
+  "g. buist",
+  "buist"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gbuist-oration-1795": [
+   "bim_eighteenth-century_an-oration-delivered-at-_buist-george-rev-min_1795",
+   "An oration delivered at the orphan-house of Charleston, South-Carolina, October 18th, 1795, being the sixth anniversary of the institution. By the Reverend George Buist, ...  1795 (catalogued 1795)"
+  ],
+  "gbuist-sermons-1": [
+   "sermonsbyreveren01buis",
+   "Sermons by the Reverend George Buist, D. D. : minister of the Presbyterian Church and President of the College of Charleston, South Carolina, vol. 1 (New York : Printed for E. Sargeant, by D. & G. Bruce, 1809)"
+  ],
+  "gbuist-sermons-2": [
+   "sermons02buis",
+   "Sermons, vol. 2 (New York : E. Sargeant, 1809)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gbuist-india": "The Indian annals, Scinde narrative and science papers are by George Buist (1805-1860), the Bombay journalist, a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gbuist-oration-1795": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buist",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gbuist-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george buist",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gbuist-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george buist",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

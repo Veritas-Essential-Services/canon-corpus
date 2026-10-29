@@ -1,0 +1,45 @@
+{
+ "_about": "Alexander Hamilton (1755/57-1804), American founder and political theorist. Gutenberg: The Federalist Papers (1787-88; with James Madison and John Jay); The Works of Alexander Hamilton, vol. 1. The Federalist sits here once, under its chief author; the second Gutenberg edition (22788) is left out as a duplicate. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Alexander Hamilton",
+ "_name_words": [
+  "alexander",
+  "hamilton"
+ ],
+ "_surname": [
+  "alexander hamilton",
+  "hamilton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hamilton-federalist": [
+   1404,
+   "The Federalist Papers (1787-88; with James Madison and John Jay)"
+  ],
+  "hamilton-works-1": [
+   71719,
+   "The Works of Alexander Hamilton, vol. 1"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hamilton-federalist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hamilton-works-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

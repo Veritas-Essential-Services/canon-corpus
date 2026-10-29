@@ -1,0 +1,627 @@
+{
+ "_about": "W. Clark Russell's sea novels and stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "W. Clark Russell",
+ "_name_words": [
+  "russell"
+ ],
+ "_surname": [
+  "w. clark russell",
+  "william clark russell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wcrussell-honour-of-the-flag": [
+   19899,
+   "The Honour of the Flag"
+  ],
+  "wcrussell-frozen-pirate": [
+   22215,
+   "The Frozen Pirate"
+  ],
+  "wcrussell-a-marriage-at-sea": [
+   32516,
+   "A Marriage at Sea"
+  ],
+  "wcrussell-my-danish-sweetheart": [
+   41313,
+   "My Danish Sweetheart: A Novel. Volume 1 of 3"
+  ],
+  "wcrussell-my-danish-sweetheart-41314": [
+   41314,
+   "My Danish Sweetheart: A Novel. Volume 2 of 3"
+  ],
+  "wcrussell-my-danish-sweetheart-41315": [
+   41315,
+   "My Danish Sweetheart: A Novel. Volume 3 of 3"
+  ],
+  "wcrussell-wreck-of-the-grosvenor-volume-1-of-3-an-account-of": [
+   44497,
+   "The Wreck of the Grosvenor, Volume 1 of 3 An account of the mutiny of the crew and the loss of the ship when trying to make the Bermudas"
+  ],
+  "wcrussell-wreck-of-the-grosvenor-volume-2-of-3-an-account-of": [
+   44498,
+   "The Wreck of the Grosvenor, Volume 2 of 3 An account of the mutiny of the crew and the loss of the ship when trying to make the Bermudas"
+  ],
+  "wcrussell-wreck-of-the-grosvenor-volume-3-of-3-an-account-of": [
+   44499,
+   "The Wreck of the Grosvenor, Volume 3 of 3 An account of the mutiny of the crew and the loss of the ship when trying to make the Bermudas"
+  ],
+  "wcrussell-last-entry": [
+   44546,
+   "The Last Entry",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-a-tale-of-two-tunnels": [
+   44590,
+   "A Tale of Two Tunnels: A Romance of the Western Waters",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-death-ship": [
+   49802,
+   "The Death Ship: A Strange Story, Vol. 1 (of 3)"
+  ],
+  "wcrussell-death-ship-49899": [
+   49899,
+   "The Death Ship: A Strange Story, Vol. 2 (of 3)"
+  ],
+  "wcrussell-death-ship-49975": [
+   49975,
+   "The Death Ship: A Strange Story, Vol. 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-tragedy-of-ida-noble": [
+   50372,
+   "The Tragedy of Ida Noble",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-william-dampier": [
+   54284,
+   "William Dampier"
+  ],
+  "wcrussell-john-holdsworth-chief-mate": [
+   54303,
+   "John Holdsworth, Chief Mate"
+  ],
+  "wcrussell-an-ocean-tragedy": [
+   56363,
+   "An Ocean Tragedy",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-a-book-for-the-hammock": [
+   61207,
+   "A Book for the Hammock",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-phantom-death-etc": [
+   61513,
+   "The Phantom Death, etc.",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-round-the-galley-fire": [
+   61750,
+   "Round the Galley Fire",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-wreck-of-the-corsaire": [
+   61839,
+   "The Wreck of the Corsaire"
+  ],
+  "wcrussell-deceased-wifes-sister-and-my-beautiful-neighbour-v": [
+   62084,
+   "The Deceased Wife's Sister, and My Beautiful Neighbour, v. 3"
+  ],
+  "wcrussell-mate-of-the-good-ship-york": [
+   62329,
+   "The Mate of the Good Ship York; Or, The Ship's Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-master-rockafellars-voyage": [
+   62336,
+   "Master Rockafellar's Voyage"
+  ],
+  "wcrussell-heart-of-oak": [
+   62341,
+   "Heart of Oak: A Three-Stranded Yarn, vol. 1.",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-my-shipmate-louise": [
+   62343,
+   "My Shipmate Louise: The Romance of a Wreck, Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-my-shipmate-louise-62344": [
+   62344,
+   "My Shipmate Louise: The Romance of a Wreck, Volume 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-my-shipmate-louise-62375": [
+   62375,
+   "My Shipmate Louise: The Romance of a Wreck, Volume 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-heart-of-oak-62378": [
+   62378,
+   "Heart of Oak: A Three-Stranded Yarn, vol. 2.",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-heart-of-oak-62419": [
+   62419,
+   "Heart of Oak: A Three-Stranded Yarn, vol. 3",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-jilted": [
+   62584,
+   "Jilted! Or, My Uncle's Scheme, Volume 1"
+  ],
+  "wcrussell-jilted-62585": [
+   62585,
+   "Jilted! Or, My Uncle's Scheme, Volume 2"
+  ],
+  "wcrussell-jilted-62586": [
+   62586,
+   "Jilted! Or, My Uncle's Scheme, Volume 3"
+  ],
+  "wcrussell-yarn-of-old-harbour-town": [
+   63076,
+   "The Yarn of Old Harbour Town",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-alone-on-a-wide-wide-sea-vol-1-of-3": [
+   63385,
+   "Alone on a Wide Wide Sea, Vol. 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-alone-on-a-wide-wide-sea-vol-2-of-3": [
+   63386,
+   "Alone on a Wide Wide Sea, Vol. 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-alone-on-a-wide-wide-sea-vol-3-of-3": [
+   63387,
+   "Alone on a Wide Wide Sea, Vol. 3 (of 3)"
+  ],
+  "wcrussell-convict-ship-volume-1-of-3": [
+   63964,
+   "The Convict Ship, Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-convict-ship-volume-2-of-3": [
+   64114,
+   "The Convict Ship, Volume 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcrussell-convict-ship-volume-3-of-3": [
+   64321,
+   "The Convict Ship, Volume 3 (of 3)"
+  ],
+  "wcrussell-list-ye-landsmen-a-romance-of-incident": [
+   66212,
+   "List, Ye Landsmen! A Romance of Incident",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wcrussell-honour-of-the-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-frozen-pirate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-a-marriage-at-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-my-danish-sweetheart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-my-danish-sweetheart-41314": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-my-danish-sweetheart-41315": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-wreck-of-the-grosvenor-volume-1-of-3-an-account-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-wreck-of-the-grosvenor-volume-2-of-3-an-account-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-wreck-of-the-grosvenor-volume-3-of-3-an-account-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-last-entry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-a-tale-of-two-tunnels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-death-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-death-ship-49899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-death-ship-49975": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-tragedy-of-ida-noble": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-william-dampier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-john-holdsworth-chief-mate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-an-ocean-tragedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-a-book-for-the-hammock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-phantom-death-etc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-round-the-galley-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-wreck-of-the-corsaire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-deceased-wifes-sister-and-my-beautiful-neighbour-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-mate-of-the-good-ship-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-master-rockafellars-voyage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-heart-of-oak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-my-shipmate-louise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-my-shipmate-louise-62344": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-my-shipmate-louise-62375": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-heart-of-oak-62378": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-heart-of-oak-62419": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-jilted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-jilted-62585": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-jilted-62586": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-yarn-of-old-harbour-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-alone-on-a-wide-wide-sea-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-alone-on-a-wide-wide-sea-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-alone-on-a-wide-wide-sea-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-convict-ship-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-convict-ship-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-convict-ship-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcrussell-list-ye-landsmen-a-romance-of-incident": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. clark russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

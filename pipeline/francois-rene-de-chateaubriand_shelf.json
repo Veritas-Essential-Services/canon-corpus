@@ -1,0 +1,96 @@
+{
+ "_about": "Public-domain François-René de Chateaubriand (1768-1848) in English, religious works only, for the Word Hoard: The Genius of Christianity, tr. Charles I. White (Baltimore and Philadelphia, 1856), and The Martyrs; or, the Triumph of the Christian Religion (3 vols, New York, 1812), from Internet Archive scans. His Memoirs are on lane C's teixeira-de-mattos shelf. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chateaubriand"
+ ],
+ "_surname": [
+  "chateaubriand"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chateaubriand-genius-christianity": [
+   "cu31924029192429",
+   "The Genius of Christianity; or, the Spirit and Beauty of the Christian Religion, tr. Charles I. White (Philadelphia: Lippincott; Baltimore: John Murphy, 1856)"
+  ],
+  "chateaubriand-martyrs-1": [
+   "TheTriumphOfTheChristianReligionV1",
+   "The Martyrs; or, the Triumph of the Christian Religion, vol. I (New-York: Whiting and Watson, 1812)"
+  ],
+  "chateaubriand-martyrs-2": [
+   "TheTriumphOfTheChristianReligionV2",
+   "The Martyrs; or, the Triumph of the Christian Religion, vol. II (New-York: Whiting and Watson, 1812)"
+  ],
+  "chateaubriand-martyrs-3": [
+   "TheTriumphOfTheChristianReligionV3",
+   "The Martyrs; or, the Triumph of the Christian Religion, vol. III (New-York: Whiting and Watson, 1812)"
+  ]
+ },
+ "_alternates": {
+  "chateaubriand-wight": "The Martyrs, a revised translation ed. O. W. Wight (New York: Derby & Jackson, 1859)",
+  "chateaubriand-copies": "Later Murphy editions of the Genius (1871-1884); Stork's Selections (1858)"
+ },
+ "_excluded": {
+  "chateaubriand-memoirs": "The Memoirs (teixeira-de-mattos shelf)",
+  "chateaubriand-secular": "Atala, Travels, the Congress of Verona and other non-religious works"
+ },
+ "_rights_checked": {
+  "chateaubriand-martyrs-1": "title page read: translator not named; the copyright entry reads 'From the original French of F. A. De Chateaubriand'; vols II and III likewise"
+ },
+ "_pending": {
+  "chateaubriand-shoberl": "Shoberl's Beauties of Christianity (London, 1813): not found"
+ },
+ "_translators": {
+  "chateaubriand-genius-christianity": "white"
+ },
+ "_checks": {
+  "chateaubriand-genius-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chateaubriand",
+   "translator_claimed": "white",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chateaubriand-martyrs-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chateaubriand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the copyright entry reads 'From the original French of F. A. De Chateaubriand'; vols II and III likewise"
+  },
+  "chateaubriand-martyrs-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chateaubriand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chateaubriand-martyrs-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chateaubriand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

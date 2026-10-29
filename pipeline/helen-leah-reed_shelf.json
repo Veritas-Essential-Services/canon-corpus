@@ -1,0 +1,151 @@
+{
+ "_about": "Helen Leah Reed's writing at Gutenberg: stories for girls. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Helen Leah Reed",
+ "_name_words": [
+  "helen",
+  "leah",
+  "reed"
+ ],
+ "_surname": [
+  "helen leah reed",
+  "leah reed"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hlreed-brenda-her-school-and-her-club": [
+   34944,
+   "Brenda, Her School and Her Club"
+  ],
+  "hlreed-napoleons-young-neighbor": [
+   35037,
+   "Napoleon's Young Neighbor"
+  ],
+  "hlreed-serbia": [
+   35231,
+   "Serbia: A Sketch"
+  ],
+  "hlreed-miss-theodora": [
+   35337,
+   "Miss Theodora: A West End Story"
+  ],
+  "hlreed-amy-in-acadia": [
+   35985,
+   "Amy in Acadia: A Story for Girls"
+  ],
+  "hlreed-brendas-ward-a-sequel-to-amy-in-acadia": [
+   36133,
+   "Brenda's Ward A Sequel to 'Amy in Acadia'"
+  ],
+  "hlreed-memorial-day-and-other-verse-original-and-translated": [
+   36153,
+   "Memorial Day, and Other Verse (Original and Translated)"
+  ],
+  "hlreed-brendas-bargain": [
+   37335,
+   "Brenda's Bargain: A Story for Girls"
+  ],
+  "hlreed-irma-in-italy": [
+   39629,
+   "Irma in Italy: A Travel Story"
+  ],
+  "hlreed-brendas-cousin-at-radcliffe": [
+   48720,
+   "Brenda's cousin at Radcliffe"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hlreed-brenda-her-school-and-her-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-napoleons-young-neighbor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-serbia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-miss-theodora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-amy-in-acadia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-brendas-ward-a-sequel-to-amy-in-acadia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-memorial-day-and-other-verse-original-and-translated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-brendas-bargain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-irma-in-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlreed-brendas-cousin-at-radcliffe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen leah reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

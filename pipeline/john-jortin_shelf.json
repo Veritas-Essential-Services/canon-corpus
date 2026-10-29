@@ -1,0 +1,259 @@
+{
+ "_about": "Public-domain John Jortin (1698-1770), Archdeacon of London, ecclesiastical historian, for the Word Hoard: his Sermons on Different Subjects (London 1787, seven volumes), Remarks on Ecclesiastical History (1805, three volumes), Tracts Philological, Critical and Miscellaneous (1790, two volumes) and the Life of Erasmus (1808, three volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 43 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jortin"
+ ],
+ "_surname": [
+  "john jortin",
+  "jortin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jortin-sermons-1": [
+   "bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_1",
+   "Sermons on different subjects, by the late Reverend John Jortin, ... vol. 1 (catalogued 1787)"
+  ],
+  "jortin-sermons-2": [
+   "bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_2",
+   "Sermons on different subjects, by the late Reverend John Jortin, ... vol. 2 (catalogued 1787)"
+  ],
+  "jortin-sermons-3": [
+   "bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_3",
+   "Sermons on different subjects, by the late Reverend John Jortin, ... vol. 3 (catalogued 1787)"
+  ],
+  "jortin-sermons-4": [
+   "bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_4",
+   "Sermons on different subjects, by the late Reverend John Jortin, ... vol. 4 (catalogued 1787)"
+  ],
+  "jortin-sermons-5": [
+   "bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_5",
+   "Sermons on different subjects, by the late Reverend John Jortin, ... vol. 5 (catalogued 1787)"
+  ],
+  "jortin-sermons-6": [
+   "bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_6",
+   "Sermons on different subjects, by the late Reverend John Jortin, ... vol. 6 (catalogued 1787)"
+  ],
+  "jortin-sermons-7": [
+   "bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_7",
+   "Sermons on different subjects, by the late Reverend John Jortin, ... vol. 7 (catalogued 1787)"
+  ],
+  "jortin-remarks-1": [
+   "remarksonecclesi01jort",
+   "Remarks on ecclesiastical history, vol. 1 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805)"
+  ],
+  "jortin-remarks-2": [
+   "remarksonecclesi02jort",
+   "Remarks on ecclesiastical history, vol. 2 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805)"
+  ],
+  "jortin-remarks-3": [
+   "remarksonecclesi03jort",
+   "Remarks on ecclesiastical history, vol. 3 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805)"
+  ],
+  "jortin-tracts-1": [
+   "tractsphilologic01jortiala",
+   "Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 1 (London : White, 1790)"
+  ],
+  "jortin-tracts-2": [
+   "tractsphilologic02jortiala",
+   "Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 2 (London : White, 1790)"
+  ],
+  "jortin-erasmus-1": [
+   "lifeoferasm01jort",
+   "The life of Erasmus, vol. 1 (London, Printed by R. Taylor and co. for J. White [etc.], 1808)"
+  ],
+  "jortin-erasmus-2": [
+   "lifeoferasmus02jort",
+   "The life of Erasmus, vol. 2 (London, Printed by R. Taylor and co. for J. White [etc.], 1808)"
+  ],
+  "jortin-erasmus-3": [
+   "lifeoferasmus03jort",
+   "The life of Erasmus, vol. 3 (London, Printed by R. Taylor and co. for J. White [etc.], 1808)"
+  ]
+ },
+ "_alternates": {
+  "jortin-copies": "Discourses concerning the Truth of the Christian Religion (1805, in the Works set); Subjects of Religion (1792, extracts); the 1824 Sermons"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jortin-sermons-2": "title page read from the page image: 'Sermons on Different Subjects, by the late Reverend John Jortin, D.D. Archdeacon of London, Rector of St. Dunstan in the East, and Vicar of Kensington. The third edition. Volume II. London: Printed for Benjamin White and Son ... MDCCLXXXVII' (the OCR of this scan is noise)",
+  "jortin-sermons-3": "title page read from the page image: 'Sermons on Different Subjects, by the late Reverend John Jortin, D.D. Archdeacon of London, Rector of St. Dunstan in the East, and Vicar of Kensington. The third edition. Volume III. London: Printed for Benjamin White and Son ... MDCCLXXXVII' (the OCR of this scan is noise)",
+  "jortin-sermons-4": "title page read from the page image: 'Sermons on Different Subjects, by the late Reverend John Jortin, D.D. Archdeacon of London, Rector of St. Dunstan in the East, and Vicar of Kensington. The third edition. Volume IV. London: Printed for Benjamin White and Son ... MDCCLXXXVII' (the OCR of this scan is noise)",
+  "jortin-sermons-6": "title page read from the page image: 'Sermons on Different Subjects, by the late Reverend John Jortin, D.D. Archdeacon of London, Rector of St. Dunstan in the East, and Vicar of Kensington. The third edition. Volume VI. London: Printed for Benjamin White and Son ... MDCCLXXXVII' (the OCR of this scan is noise)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jortin-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-sermons-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-sermons-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jortin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-sermons-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-sermons-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-remarks-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jortin-remarks-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jortin-remarks-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jortin-tracts-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1790",
+   "ia_date": "1790",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jortin-tracts-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1790",
+   "ia_date": "1790",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jortin-erasmus-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-erasmus-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jortin-erasmus-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jortin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

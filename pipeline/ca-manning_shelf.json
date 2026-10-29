@@ -1,0 +1,54 @@
+{
+ "_about": "TRANSLATOR SHELF: Clarence A. Manning (1893-1972): Korolenko's Birds of Heaven and Other Stories (1919). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "clarence a. manning",
+  "clarence augustus manning"
+ ],
+ "_surname": [
+  "clarence a. manning",
+  "clarence augustus manning"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cam-60256": [
+   60256,
+   "Birds of Heaven, and Other Stories"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ca-manning-korolenko-birds-of-heaven-and-other-stories": {
+   "source": "cam-60256",
+   "of": "Vladimir Korolenko",
+   "work": "Birds of Heaven, and Other Stories",
+   "translated": "1919 (see the Gutenberg header)",
+   "translator": "Clarence A. Manning",
+   "scan_edition": "Project Gutenberg 60256 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-78316": "Taras Shevchenko, the Poet of Ukraine (1945): printed after 1930, not public domain on this lane's rule."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cam-60256": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clarence augustus manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clarence Augustus Manning"
+  }
+ },
+ "_verified": {
+  "cam-60256": {
+   "pg": 60256,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clarence Augustus Manning"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

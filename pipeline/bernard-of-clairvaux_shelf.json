@@ -1,0 +1,288 @@
+{
+ "_about": "Public-domain Bernard of Clairvaux (1090-1153, Cistercian abbot) in English for the Word Hoard: Samuel J. Eales's Life and Works (4 vols, 1889-1896, the letters and the sermons on the Song of Songs) and Gasquet's selection of the letters from CCEL, the Life of St. Malachy (Lawlor, 1920) from Project Gutenberg, and On Loving God (Patmore 1881; van Allen 1909), On Consideration (Lewis 1908), Grace and Free Will (Williams 1920), The Twelve Degrees of Humility and Pride (Mills 1929) and the Advent and Christmas sermons from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "bernard",
+ "_name_words": [
+  "bernard"
+ ],
+ "_surname": [
+  "bernard of clairvaux",
+  "saint bernard",
+  "st. bernard",
+  "s. bernard",
+  "abbot of clairvaux"
+ ],
+ "_held": {},
+ "ccel": {
+  "bernard-letters-gasquet": [
+   "letters",
+   "Some Letters of Saint Bernard, Abbot of Clairvaux, from the translation of Samuel J. Eales, selected with a preface by F. A. Gasquet (London: John Hodges, 1904)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "bernard-life-of-malachy": [
+   "25761",
+   "St. Bernard of Clairvaux's Life of St. Malachy of Armagh, by H. J. Lawlor (London: SPCK, 1920)"
+  ]
+ },
+ "internet_archive": {
+  "bernard-life-works-eales-1": [
+   "lifeworksofsaint01bern_0",
+   "Life and Works of Saint Bernard, ed. Mabillon, tr. Samuel J. Eales, vol. I (London: John Hodges, 1889)"
+  ],
+  "bernard-life-works-eales-2": [
+   "lifeworksofsaint02bern_0",
+   "Life and Works of Saint Bernard, tr. Samuel J. Eales, vol. II (London: John Hodges, 1889)"
+  ],
+  "bernard-life-works-eales-3": [
+   "lifeworksofsaint03bern",
+   "Life and Works of Saint Bernard, tr. Samuel J. Eales, vol. III (London: John Hodges, 1896)"
+  ],
+  "bernard-life-works-eales-4": [
+   "LifeAndWorksOfSaintBernardV4",
+   "Life and Works of Saint Bernard, vol. IV: Cantica Canticorum, Eighty-six Sermons on the Song of Solomon, tr. Samuel J. Eales (London: John Hodges, 1896)"
+  ],
+  "bernard-love-of-god-patmore": [
+   "saintbernardonl01berngoog",
+   "Saint Bernard on the Love of God, tr. Marianne Caroline and Coventry Patmore (London: C. Kegan Paul, 1881)"
+  ],
+  "bernard-loving-god-van-allen": [
+   "bwb_S0-BRH-980",
+   "Saint Bernard On Loving God, tr. William Harman van Allen (Caldey Abbey, 1909)"
+  ],
+  "bernard-consideration-lewis": [
+   "bernarddeclirvau00bernuoft",
+   "Saint Bernard On Consideration, tr. George Lewis (Oxford: Clarendon Press, 1908)"
+  ],
+  "bernard-grace-free-will": [
+   "cu31924029216681",
+   "The Treatise of St. Bernard concerning Grace and Free Will, tr. Watkin W. Williams (London: SPCK, 1920)"
+  ],
+  "bernard-twelve-degrees-humility": [
+   "MN41533ucmf_0",
+   "Saint Bernard: The Twelve Degrees of Humility and Pride, tr. Barton R. V. Mills (London: SPCK, 1929)"
+  ],
+  "bernard-advent-christmas-sermons": [
+   "sermonsofstberna00bernuoft",
+   "Sermons of St. Bernard on Advent and Christmas, compiled and translated at St. Mary's Convent (London: R. & T. Washbourne, 1909)"
+  ],
+  "bernard-canticle-melleray-1": [
+   "stbernardssermon01bern",
+   "St. Bernard's Sermons on the Canticle of Canticles, tr. a Priest of Mount Melleray, vol. I (Dublin: Browne and Nolan; approvals 1920)"
+  ],
+  "bernard-canticle-melleray-2": [
+   "stbernardssermon02bern",
+   "St. Bernard's Sermons on the Canticle of Canticles, tr. a Priest of Mount Melleray, vol. II (Dublin: Browne and Nolan; approvals 1920)"
+  ]
+ },
+ "_alternates": {
+  "bernard-eales-song-1895": "Cantica Canticorum, Eales's stand-alone edition (London: Elliot Stock, 1895; canticacanticoru0000sain): his name is garbled in the OCR",
+  "bernard-eales-copies": "The undated Burns and Oates second edition of Eales, and other 1889-1896 copies",
+  "bernard-other-copies": "Patmore second edition (1884), Some Letters (1906 Benziger), other copies of Lewis, Williams and Mills",
+  "bernard-consideration-melleray": "St. Bernard's Treatise on Consideration, a Priest of Mount Melleray (Dublin; approvals 1921)",
+  "bernard-ccel-loving-god": "CCEL bernard/loving_god: the van Allen text, but CCEL states no print source"
+ },
+ "_excluded": {
+  "bernard-pseudo": "The Golden Epistle facsimile, the Proverbys of Saynt Bernard and the Jubilee Rhythm (mostly Edersheim): pseudo-Bernard or another author's work",
+  "bernard-pg-21152": "PG 21152: an audio book only",
+  "bernard-late": "Post-1929 translations (1937 onward, Cistercian Publications 1980)",
+  "bernard-about": "Lives of Bernard"
+ },
+ "_rights_checked": {
+  "bernard-canticle-melleray-1": "title page read: Browne and Nolan, Dublin, no year; approvals dated January and December 1920",
+  "bernard-canticle-melleray-2": "title page read: Browne and Nolan, Dublin, no year; approvals dated 1920"
+ },
+ "_pending": {},
+ "_translators": {
+  "bernard-letters-gasquet": "eales",
+  "bernard-life-works-eales-1": "eales",
+  "bernard-life-works-eales-2": "eales",
+  "bernard-life-works-eales-3": "eales",
+  "bernard-life-works-eales-4": "eales",
+  "bernard-love-of-god-patmore": "patmore",
+  "bernard-loving-god-van-allen": "allen",
+  "bernard-consideration-lewis": "lewis",
+  "bernard-grace-free-will": "williams",
+  "bernard-twelve-degrees-humility": "mills",
+  "bernard-life-of-malachy": "lawlor"
+ },
+ "_checks": {
+  "bernard-letters-gasquet": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bernard of clairvaux",
+   "translator_claimed": "eales",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: John Hodges, 1904",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bernard-life-of-malachy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bernard of clairvaux",
+   "translator_claimed": "lawlor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bernard-life-works-eales-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bernard of clairvaux",
+   "translator_claimed": "eales",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-life-works-eales-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bernard of clairvaux",
+   "translator_claimed": "eales",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-life-works-eales-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bernard of clairvaux",
+   "translator_claimed": "eales",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-life-works-eales-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint bernard",
+   "translator_claimed": "eales",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-love-of-god-patmore": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint bernard",
+   "translator_claimed": "patmore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bernard-loving-god-van-allen": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint bernard",
+   "translator_claimed": "allen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-consideration-lewis": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint bernard",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bernard-grace-free-will": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint bernard",
+   "translator_claimed": "williams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-twelve-degrees-humility": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint bernard",
+   "translator_claimed": "mills",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-advent-christmas-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "st. bernard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bernard-canticle-melleray-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "st. bernard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Browne and Nolan, Dublin, no year; approvals dated January and December 1920"
+  },
+  "bernard-canticle-melleray-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bernard of clairvaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Browne and Nolan, Dublin, no year; approvals dated 1920"
+  }
+ }
+}

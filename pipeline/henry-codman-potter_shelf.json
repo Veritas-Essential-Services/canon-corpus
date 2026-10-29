@@ -1,0 +1,261 @@
+{
+ "_about": "Public-domain Henry Codman Potter (1834-1908), rector of Grace Church and Episcopal Bishop of New York, for the Word Hoard: Sisterhoods and Deaconesses, Sermons of the City, The Dignity of Man, Waymarks, The Scholar and the State, Addresses to Women engaged in Church Work, The Offices of Warden and Vestryman, The Citizen in his Relation to the Industrial Situation, The East of To-day and To-morrow, Man, Men and their Master, and occasional sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 97 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry codman potter",
+  "henry c. potter",
+  "h. c. potter",
+  "bishop potter"
+ ],
+ "_surname": [
+  "henry codman potter",
+  "henry c. potter",
+  "h. c. potter",
+  "bishop potter"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hcpotter-sisterhoods": [
+   "sisterhoodsdeaco00pott",
+   "Sisterhoods and deaconesses at home and abroad (New York, E.P. Dutton & company, 1873)"
+  ],
+  "hcpotter-choked-life": [
+   "chokedlife00pott",
+   "The choked life (New York, E. P. Dutton and company, 1873)"
+  ],
+  "hcpotter-sermons-of-city": [
+   "sermonsofcity0000pott",
+   "Sermons of the city (London : Wells Gardner, Darton, 1880)"
+  ],
+  "hcpotter-nation-sorrow": [
+   "nationinitssorro00pott",
+   "A nation in its sorrow: two sermons preached in Grace church, New York (New York, T. Whittaker, 1881)"
+  ],
+  "hcpotter-dignity-of-man": [
+   "dignitymanselec00pottgoog",
+   "The Dignity of Man: Select Sermons (A.C. McClurg, 1889)"
+  ],
+  "hcpotter-address-1889": [
+   "bishoppottersadd00pott",
+   "Bishop Potter's address (New York, Civil service reform association, 1889)"
+  ],
+  "hcpotter-columbia-1889": [
+   "columbiacollegec00pottrich",
+   "Columbia college commencement, 1889. Baccalaureate sermon preached in St. Thomas' church, Whit-Sunday, June 9, 1889 ([New York, 1889)"
+  ],
+  "hcpotter-hartford-1891": [
+   "sermondeliveredi00pott",
+   "A sermon delivered in Christ Church, Hartford, Sunday evening, June 21, 1891 before the students and authorities of Trinity College (hartford, Conn., Press of The Case, Lockwood [and] Brainard, 1891)"
+  ],
+  "hcpotter-waymarks": [
+   "waymarks1870189100pott",
+   "Waymarks, 1870-1891; being discourses, with some account of their occasions (New York, E.P. Dutton and company, 1892)"
+  ],
+  "hcpotter-scholar-state": [
+   "scholarstateothe00pott",
+   "The scholar and the state, and other orations and addresses (New York : Century co., 1897)"
+  ],
+  "hcpotter-addresses-women": [
+   "addressestowomen00pott",
+   "Addresses to women engaged in church work (New York, E.P. Dutton & company, 1898)"
+  ],
+  "hcpotter-warden-vestryman": [
+   "officesofwardenv00pott",
+   "The offices of warden and vestryman / by the Right Rev. Henry C. Potter, D.D., Bishop of New York. Triennial charge delivered to the clergy and laity of the Diocese of New York, Sept. 24, 1890. Printed by order of the Convention, Third Edition (James Pott & Co., 1899)"
+  ],
+  "hcpotter-citizen-industrial": [
+   "citizeninhisrela00pottrich",
+   "The citizen in his relation to the industrial situation; Yale lectures (New York, C. Scribner's sons, 1902)"
+  ],
+  "hcpotter-east-today": [
+   "eastoftodaytomor0000henr",
+   "The east of to day and to-morrow (the century co., 1902)"
+  ],
+  "hcpotter-man-men-master": [
+   "manmentheirmaste00pott",
+   "Man: men and their Master; delivered at Gambier, Ohio, November, 1901 (New York : E. S. Gorham, 1902)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hcpotter-gates-of-east": "The Gates of the East (travel book, not theology)",
+  "hcpotter-religious-education": "Principles of Religious Education (lectures by several hands, with his introduction)",
+  "hcpotter-bible-children": "The Bible for Children (a compilation with his introduction)",
+  "hcpotter-faith-we-stand": "faithbywhichwest00tuni: The Faith by which we Stand is John Tunis's sermons; Potter wrote only the introduction"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hcpotter-choked-life": "Title page image: 'The Choked Life. Some Thoughts for Lent. By Henry C. Potter, D. D., Rector of Grace Church, New York. New York: E. P. Dutton and Company... 1873.'",
+  "hcpotter-nation-sorrow": "Title page (OCR): 'A Nation in its Sorrow: Two Sermons preached in Grace Church, New York, [by] Henry C. Potter, D.D. Printed by request. New York: Thomas Whittaker... 1881.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hcpotter-sisterhoods": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcpotter-choked-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hcpotter-sermons-of-city": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hcpotter-nation-sorrow": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcpotter-dignity-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcpotter-address-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hcpotter-columbia-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcpotter-hartford-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hcpotter-waymarks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry codman potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcpotter-scholar-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry codman potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcpotter-addresses-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hcpotter-warden-vestryman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hcpotter-citizen-industrial": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry codman potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcpotter-east-today": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry codman potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hcpotter-man-men-master": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

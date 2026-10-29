@@ -1,0 +1,52 @@
+{
+ "_about": "Public-domain John of Kronstadt (John Iliytch Sergieff, 1829-1908, archpriest of St Andrew's Cathedral, Kronstadt) in English for the Word Hoard: My Life in Christ, extracts from his diary translated with the author's sanction by E. E. Goulaeff (London: Cassell, 1897), from an Internet Archive scan. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sergieff",
+  "cronstadt"
+ ],
+ "_surname": [
+  "sergieff",
+  "father john",
+  "john of kronstadt",
+  "john of cronstadt",
+  "cronstadt",
+  "kronstadt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kronstadt-my-life-in-christ": [
+   "mylifeinchristex00serguoft",
+   "My Life in Christ, extracts from the diary of John Iliytch Sergieff (Father John) of Cronstadt, tr. E. E. Goulaeff (London: Cassell, 1897)"
+  ]
+ },
+ "_alternates": {
+  "kronstadt-ccel": "CCEL kronstadt/christlife: the Goulaeff text keyed from the 1963 Jordanville reprint",
+  "kronstadt-copies": "Two other copies of the 1897 Cassell edition"
+ },
+ "_excluded": {
+  "kronstadt-about": "Alexander Whyte's Father John of the Greek Church (1898)",
+  "kronstadt-late": "The 1963 Jordanville reprint and later editions"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "kronstadt-my-life-in-christ": "goulaeff"
+ },
+ "_checks": {
+  "kronstadt-my-life-in-christ": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sergieff",
+   "translator_claimed": "goulaeff",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

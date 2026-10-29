@@ -1,0 +1,327 @@
+{
+ "_about": "Public-domain Herbert Hensley Henson (1863-1947), Canon of Westminster, Dean of Durham and Bishop of Durham, for the Word Hoard: his books printed before 1930, from Light and Leaven (1897) and Apostolic Christianity (1898) through Godly Union and Concord (1902), Studies in English Religion in the Seventeenth Century (1903), The Value of the Bible (1904), The Liberty of Prophesying (1909), Westminster Sermons (1910) and Puritanism in England (1912) to War-time Sermons (1915), Notes on Spiritual Healing (1925), The Book and the Vote (1928) and Disestablishment (1929). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 81 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "herbert hensley henson",
+  "h. hensley henson",
+  "hensley henson"
+ ],
+ "_surname": [
+  "hensley henson",
+  "h. hensley henson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henson-light-and-leaven": [
+   "lightleavenhisto0000hens",
+   "Light and leaven : historical and social sermons to general congregations (London : Methuen, 1897)"
+  ],
+  "henson-apostolic-christianity": [
+   "apostolicchristi00hensuoft",
+   "Apostolic Christianity : notes and inferences mainly based on S. Paul's Epistles to the Corinthians (London : Methuen, 1898)"
+  ],
+  "henson-dissent-in-england": [
+   "dissentinengland01hens",
+   "Dissent in England, vol. c.1 (London : Rivingtons, 1900)"
+  ],
+  "henson-godly-union-concord": [
+   "godlyunionandcon00hensuoft",
+   "Godly union and concord : sermons preached mainly in Westminster Abbey in the interest of Christian fraternity (London : John Murray, 1902)"
+  ],
+  "henson-cross-bench-views": [
+   "crossbenchviews00hensgoog",
+   "Cross-bench Views of Current Church Questions (E. Arnold, 1902)"
+  ],
+  "henson-english-religion-17th-century": [
+   "studiesinenglish00hensuoft",
+   "Studies in English religion in the seventeenth century, St. Margaret's lectures, 1903 (London, J. Murray, 1903)"
+  ],
+  "henson-popular-rationalism": [
+   "notesonpopularr00hensgoog",
+   "Notes on Popular Rationalism (Isbister, 1904)"
+  ],
+  "henson-value-of-bible": [
+   "valuebibleandot00hensgoog",
+   "The value of the Bible : and other sermons, 1902-1904 (London ; New York : Macmillan, 1904)"
+  ],
+  "henson-religion-in-schools": [
+   "religioninschool00hens",
+   "Religion in the schools; addresses on fundamental Christianity, delivered in S. Margaret's. Westminster, during Lent 1906 (London : Macmillian, 1906)"
+  ],
+  "henson-christian-marriage": [
+   "christianmarriag00hensuoft",
+   "Christian marriage (London : Cassell, 1907)"
+  ],
+  "henson-christ-and-nation": [
+   "christnationwest0000hens",
+   "Christ and the nation : Westminster and other sermons (London : T. Fisher Unwin, 1908)"
+  ],
+  "henson-national-church": [
+   "nationalchurche00hensgoog",
+   "The National Church: Essays on Its History and Constitution and Criticisms of Its Present (Macmillan, 1908)"
+  ],
+  "henson-liberty-of-prophesying": [
+   "libertyofprophes00hensuoft",
+   "The liberty of prophesying : with its just limits and temper considered with reference to the circumstances of the modern church : Lyman Beecher lectures delivered 1909, before the Yale Divinity School, and three sermons (New Haven : Yale University Press, 1910)"
+  ],
+  "henson-westminster-sermons": [
+   "westminstersermo00hensuoft",
+   "Westminster sermons (New York : Armstrong, 1910)"
+  ],
+  "henson-puritanism-in-england": [
+   "puritanisminengl00hens",
+   "Puritanism in England (London, New York [etc.] : Hodder and Stoughton, 1912)"
+  ],
+  "henson-war-time-sermons": [
+   "wartimesermons0000hens",
+   "War-time sermons (London, Macmillan, 1915)"
+  ],
+  "henson-robertson-of-brighton": [
+   "robertsonofbrigh00hensuoft",
+   "Robertson of Brighton, 1816-1853 (London : Smith, Elder, 1916)"
+  ],
+  "henson-spiritual-healing": [
+   "notesonspiritual0000herb",
+   "Notes On Spiritual Healing (catalogued 1925)"
+  ],
+  "henson-book-and-vote": [
+   "bookvote0000herb",
+   "The Book and the Vote (Hodder and Stoughton, 1928)"
+  ],
+  "henson-disestablishment": [
+   "disestablishment0000herb",
+   "Disestablishment (catalogued 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "henson-other": "volumes he only edited with many contributors (Church Problems, 1900; Criticism of the New Testament, 1902); pamphlets and single sermons of under 100 pages; everything printed 1930 or later, including his Retrospect of an Unimportant Life"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "henson-light-and-leaven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henson-apostolic-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-dissent-in-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henson-godly-union-concord": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-cross-bench-views": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-english-religion-17th-century": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-popular-rationalism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-value-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-religion-in-schools": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-christian-marriage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-christ-and-nation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henson-national-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-liberty-of-prophesying": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910, c1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-westminster-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-puritanism-in-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henson-war-time-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henson-robertson-of-brighton": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henson-spiritual-healing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henson-book-and-vote": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henson-disestablishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hensley henson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

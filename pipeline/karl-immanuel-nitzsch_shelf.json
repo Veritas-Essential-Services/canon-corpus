@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain Karl Immanuel Nitzsch (1787-1868), Prussian mediating theologian of Bonn and Berlin, for the Word Hoard: System of Christian Doctrine (Edinburgh: T. & T. Clark, 1849), from an Internet Archive scan. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nitzsch"
+ ],
+ "_surname": [
+  "c. i. nitzsch",
+  "carl immanuel nitzsch",
+  "karl immanuel nitzsch",
+  "nitzsch"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nitzsch-christian-doctrine": [
+   "systemofchristia00nitz",
+   "System of Christian doctrine (Edinburgh : T. & T. Clark, 1849)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nitzsch-other": "Nitzsch's Pterylography (1867, by the ornithologist C. L. Nitzsch, another man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "nitzsch-christian-doctrine": "Montgomery"
+ },
+ "_checks": {
+  "nitzsch-christian-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carl immanuel nitzsch",
+   "translator_claimed": "Montgomery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "_about": "Public-domain Louis Veuillot (1813-1883), the French Ultramontane journalist of L'Univers, in English translation for the Word Hoard: The Life of Our Lord Jesus Christ, tr. Anthony Farley (1878), and Stephanie, tr. Josephine Black (1883), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "veuillot"
+ ],
+ "_surname": [
+  "veuillot",
+  "louis veuillot"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "veuillot-life-of-our-lord": [
+   "lifeofourlordjes00veui",
+   "The Life of Our Lord Jesus Christ, from the seventh French edition, tr. Anthony Farley (New York: Peter F. Collier, 1878)"
+  ],
+  "veuillot-stephanie": [
+   "stephanietrbyjb00veuigoog",
+   "Stephanie, tr. Josephine Black (Dublin: M. H. Gill and Son, 1883)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "veuillot-later": "The Liberal Illusion, tr. George Barry O'Toole (post-1929); French editions"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "veuillot-perfumes": "The Perfumes of Rome in English: not found"
+ },
+ "_translators": {
+  "veuillot-life-of-our-lord": "farley",
+  "veuillot-stephanie": "black"
+ },
+ "_checks": {
+  "veuillot-life-of-our-lord": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veuillot",
+   "translator_claimed": "farley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "veuillot-stephanie": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veuillot",
+   "translator_claimed": "black",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

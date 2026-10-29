@@ -1,0 +1,240 @@
+{
+ "_about": "Ruth Lamb's stories for girls and families. Not Charles or Mary Lamb (the lamb shelf). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ruth Lamb",
+ "_name_words": [
+  "lamb",
+  "ruth"
+ ],
+ "_surname": [
+  "ruth lamb"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rlamb-too-close-fisted-and-other-stories": [
+   70836,
+   "Too close fisted, and other stories"
+  ],
+  "rlamb-wilful-ward": [
+   71061,
+   "A wilful ward"
+  ],
+  "rlamb-holiday-stories": [
+   71661,
+   "Holiday stories"
+  ],
+  "rlamb-aunt-millys-diamonds": [
+   71760,
+   "Aunt Milly's diamonds"
+  ],
+  "rlamb-arthur-glyn": [
+   71907,
+   "Arthur Glyn"
+  ],
+  "rlamb-of-no-account": [
+   73416,
+   "Of no account"
+  ],
+  "rlamb-comfortable-mrs-crook-and-other-sketches": [
+   73569,
+   "Comfortable Mrs. Crook, and other sketches"
+  ],
+  "rlamb-look-on-the-sunny-side": [
+   75017,
+   "Look on the sunny side"
+  ],
+  "rlamb-midsummer-at-hay-lodge": [
+   77531,
+   "Midsummer at Hay-Lodge"
+  ],
+  "rlamb-servants-and-service": [
+   77633,
+   "Servants and service"
+  ],
+  "rlamb-borrowed-feathers": [
+   78051,
+   "Borrowed feathers"
+  ],
+  "rlamb-grateful-peters-new-years-gift": [
+   78109,
+   "Grateful Peter's new year's gift"
+  ],
+  "rlamb-only-a-girl-wife": [
+   78365,
+   "Only a girl-wife"
+  ],
+  "rlamb-taught-by-experience": [
+   78930,
+   "Taught by experience"
+  ],
+  "rlamb-joe-brennans-luck": [
+   79175,
+   "Joe Brennan's luck"
+  ],
+  "rlamb-mrs-greys-strange-silence": [
+   79415,
+   "Mrs. Grey's strange silence"
+  ],
+  "rlamb-work-wait-win": [
+   79593,
+   "Work, wait, win"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rlamb-too-close-fisted-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-wilful-ward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-holiday-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-aunt-millys-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-arthur-glyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-of-no-account": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-comfortable-mrs-crook-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-look-on-the-sunny-side": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-midsummer-at-hay-lodge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-servants-and-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-borrowed-feathers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-grateful-peters-new-years-gift": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-only-a-girl-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-taught-by-experience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-joe-brennans-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-mrs-greys-strange-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlamb-work-wait-win": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

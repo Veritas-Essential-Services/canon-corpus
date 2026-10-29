@@ -1,0 +1,336 @@
+{
+ "_about": "Public-domain William Sanday (1843-1920, Lady Margaret Professor of Divinity at Oxford) for the Word Hoard: The Gospels in the Second Century (1876) and The Criticism of the Fourth Gospel (1905) from Project Gutenberg, and 18 more from Internet Archive scans, 1872-1920, among them Inspiration (Bampton Lectures, 1893), Outlines of the Life of Christ, Christologies Ancient and Modern (1910) and Personality in Christ (1911). His joint ICC Romans with Headlam is left off as joint work. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "sanday"
+ ],
+ "_surname": [
+  "william sanday",
+  "w. sanday",
+  "sanday, william",
+  "sanday, w.",
+  "william sanday, d.d.",
+  "dr. sanday"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "sanday-gospels-second-century": [
+   "10955",
+   "The Gospels in the Second Century (London, 1876)"
+  ],
+  "sanday-criticism-fourth-gospel": [
+   "60553",
+   "The Criticism of the Fourth Gospel (New York: Scribner's, 1905)"
+  ]
+ },
+ "internet_archive": {
+  "sanday-fourth-gospel-1872": [
+   "theauthorshipand00sanduoft",
+   "The Authorship and Historical Character of the Fourth Gospel (London: Macmillan, 1872)"
+  ],
+  "sanday-study-of-nt": [
+   "studynewtestame00sandgoog",
+   "The Study of the New Testament, inaugural lecture, February 1883 (Oxford and London, 1883)"
+  ],
+  "sanday-oracles-of-god": [
+   "a607390700sanduoft",
+   "The Oracles of God, fourth edition (London: Longmans, 1892)"
+  ],
+  "sanday-two-questions": [
+   "twopresentdayque00sand",
+   "Two Present-Day Questions: Biblical Criticism; the Social Movement (London: Longmans, 1892)"
+  ],
+  "sanday-inspiration": [
+   "inspirationeight00sanduoft",
+   "Inspiration, the Bampton Lectures for 1893 (London and New York: Longmans, 1893)"
+  ],
+  "sanday-conception-priesthood": [
+   "conceptionofprie00sand",
+   "The Conception of Priesthood in the Early Church and in the Church of England (London: Longmans, 1898)"
+  ],
+  "sanday-catholic-movement": [
+   "catholicmovement00sand",
+   "The Catholic Movement and the Archbishops' Decision (London: Longmans, 1899)"
+  ],
+  "sanday-examination-harnack": [
+   "anexaminationofh00sanduoft",
+   "An Examination of Harnack's What is Christianity? (London: Longmans, 1901)"
+  ],
+  "sanday-divisions-church": [
+   "divisionsinchurc00sand",
+   "Divisions in the Church: two sermons preached at Tewkesbury (London: Longmans, 1902)"
+  ],
+  "sanday-sacred-sites": [
+   "sacredsitesofgos00sanduoft",
+   "Sacred Sites of the Gospels, with the assistance of Paul Waterhouse (Oxford: Clarendon Press, 1903)"
+  ],
+  "sanday-outlines-life-christ": [
+   "outlineschristli00sanduoft",
+   "Outlines of the Life of Christ (New York: Scribner's, 1905)"
+  ],
+  "sanday-life-christ-research": [
+   "thelifeofchrist00sanduoft",
+   "The Life of Christ in Recent Research (Oxford: Clarendon Press, 1907)"
+  ],
+  "sanday-christologies": [
+   "christologiesanc00sanduoft",
+   "Christologies Ancient and Modern (Oxford: Clarendon Press, 1910)"
+  ],
+  "sanday-personality-in-christ": [
+   "personalityinchr0000sand",
+   "Personality in Christ and in Ourselves (Oxford: Clarendon Press, 1911)"
+  ],
+  "sanday-primitive-church-reunion": [
+   "primitivechurchr00sand",
+   "The Primitive Church and Reunion (Oxford: University Press, 1913)"
+  ],
+  "sanday-sermon-on-driver": [
+   "sandaysermonondriver",
+   "Samuel Rolles Driver, a sermon preached in Christ Church, 8 March 1914 (Oxford: Clarendon Press, 1914)",
+   "Sanday Sermon on Driver_djvu.txt"
+  ],
+  "sanday-bishop-gore-challenge": [
+   "im3bishopgoresch00sand",
+   "Bishop Gore's Challenge to Criticism, third impression (London: Longmans, 1914)"
+  ],
+  "sanday-divine-overruling": [
+   "divineoverruling00sand",
+   "Divine Overruling (Edinburgh: T. & T. Clark, 1920)"
+  ]
+ },
+ "_alternates": {
+  "sanday-copies": "Second copies: authorshipandhi00sandgoog (1872), gospelsinsecondc00sand (1876), theoraclesofgodn00sanduoft (third edition), criticismoffou00sand (1905), personalityinchr00sand, christologyandpe00sanduoft (the two Christology books together, 1911), bishopgoreschall00sanduoft (second impression)",
+  "sanday-joint": "ICC Romans with A. C. Headlam (1895); with Walter Lock, Two Lectures on the Sayings of Jesus (1897); with S. R. Driver, Christianity and Other Religions (1908); with N. P. Williams, Form and Content (1916)",
+  "sanday-edited": "Different Conceptions of Priesthood and Sacrifice (1900), Criticism of the New Testament (1902), Miracles (1911), Studies in the Synoptic Problem (1911): edited or many writers",
+  "sanday-german": "Das Apostelkonzil (Leipzig, 1908; apostolicdecreea0000sand): German, no translator found"
+ },
+ "_excluded": {
+  "sanday-war": "The Deeper Causes of the War (1914) and The Meaning of the War (1915): war pamphlets",
+  "sanday-editions": "Appendices ad Novum Testamentum Stephanicum (1889) and the Old-Latin Biblical Texts: editions",
+  "sanday-late": "post-1930 Romans reprints, reviews, microform copies"
+ },
+ "_identity_checked": {
+  "sanday-bishop-gore-challenge": {
+   "author": "Title page read: 'by W. Sanday, D.D., F.B.A., Lady Margaret Professor', OCR splits the name 'SAN DAY'"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "sanday-gospels-second-century": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanday-criticism-fourth-gospel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william sanday",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanday-fourth-gospel-1872": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-study-of-nt": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-oracles-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-two-questions": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-conception-priesthood": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sanday, w.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sanday-catholic-movement": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-examination-harnack": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-divisions-church": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-sacred-sites": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-outlines-life-christ": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-life-christ-research": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-christologies": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-personality-in-christ": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sanday-primitive-church-reunion": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanday-sermon-on-driver": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sanday-bishop-gore-challenge": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sanday-divine-overruling": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william sanday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

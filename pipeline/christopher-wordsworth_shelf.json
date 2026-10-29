@@ -1,0 +1,31 @@
+{
+ "_about": "Christopher Wordsworth (1807-1885), later Bishop of Lincoln: Athens and Attica, Journal of a Residence There, second edition (London: John Murray, 1837), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "wordsworth"
+ ],
+ "_surname": [
+  "christopher wordsworth",
+  "wordsworth, christopher"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "christopher-wordsworth-athens-attica-1837": [
+   "athensatticajour00word",
+   "Athens and Attica: Journal of a Residence There, second edition (London: John Murray, 1837)"
+  ]
+ },
+ "_checks": {
+  "christopher-wordsworth-athens-attica-1837": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christopher wordsworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

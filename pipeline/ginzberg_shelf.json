@@ -1,5 +1,5 @@
 {
- "_about": "Louis Ginzberg's The Legends of the Jews, the legends of the Bible's people gathered from Talmud, Midrash and later sources: volume 1 (preface dated March 24, 1909) and volume 2 (preface dated March 28, 1910), both translated from the German manuscript by Henrietta Szold. Volumes 3 and 4 are held: their translator is Paul Radin, whose Gutenberg catalogue dates (1883-1959) put the translation in copyright in the UK until the end of 2029, the same question as Milne. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Louis Ginzberg's The Legends of the Jews, the legends of the Bible's people gathered from Talmud, Midrash and later sources: volume 1 (preface dated March 24, 1909) and volume 2 (preface dated March 28, 1910), both translated from the German manuscript by Henrietta Szold, and volume 3 (preface dated New York, March 2, 1911), translated by Paul Radin, and volume 4, whose title page names no translator and gives no date (the Gutenberg catalogue credits Radin with Szold). Volumes 3 and 4 were held until Adam's ruling of 2026-10-10 (decision 22: US public domain is the rule). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
  "_author": "Louis Ginzberg",
  "_name_words": [
   "ginzberg"
@@ -9,7 +9,9 @@
  ],
  "_translators": {
   "ginzberg-legends-of-the-jews-1": "Szold",
-  "ginzberg-legends-of-the-jews-2": "Szold"
+  "ginzberg-legends-of-the-jews-2": "Szold",
+  "ginzberg-legends-of-the-jews-3": "Radin",
+  "ginzberg-legends-of-the-jews-4": "Radin"
  },
  "ccel": {},
  "gutenberg": {
@@ -48,17 +50,50 @@
     "start": "I [A-Z][^a-z]+$",
     "front": true
    }
+  ],
+  "ginzberg-legends-of-the-jews-3": [
+   2881,
+   "The Legends of the Jews, Volume 3",
+   {
+    "levels": [
+     {
+      "re": "MOSES IN THE WILDERNESS$"
+     },
+     {
+      "re": "[A-Z][^a-z]+$",
+      "strip": "\\.$",
+      "number_repeats": true
+     }
+    ],
+    "start": "MOSES IN THE WILDERNESS$",
+    "front": true
+   }
+  ],
+  "ginzberg-legends-of-the-jews-4": [
+   2882,
+   "The Legends of the Jews, Volume 4",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+\\. [A-Z][^a-z]+$"
+     },
+     {
+      "re": "[A-Z][^a-z]+$",
+      "strip": "\\.$",
+      "number_repeats": true
+     }
+    ],
+    "start": "I\\. JOSHUA$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
- "_excluded": {
-  "ginzberg-legends-of-the-jews-3": "Gutenberg 2881, tr. Paul Radin (catalogue 1883-1959): held for Adam, UK copyright to 2029",
-  "ginzberg-legends-of-the-jews-4": "Gutenberg 2882, tr. Paul Radin with Henrietta Szold: held for Adam with volume 3"
- },
+ "_excluded": {},
  "_checks": {
   "ginzberg-legends-of-the-jews-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "louis ginzberg",
    "translator_claimed": "Szold",
@@ -70,7 +105,7 @@
   },
   "ginzberg-legends-of-the-jews-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "louis ginzberg",
    "translator_claimed": "Szold",
@@ -78,6 +113,30 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henrietta Szold",
+   "translator_match": true
+  },
+  "ginzberg-legends-of-the-jews-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "louis ginzberg",
+   "translator_claimed": "Radin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul Radin",
+   "translator_match": true
+  },
+  "ginzberg-legends-of-the-jews-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "louis ginzberg",
+   "translator_claimed": "Radin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul Radin; Henrietta Szold",
    "translator_match": true
   }
  }

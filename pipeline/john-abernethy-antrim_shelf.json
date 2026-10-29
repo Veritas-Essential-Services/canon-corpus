@@ -1,0 +1,194 @@
+{
+ "_about": "Public-domain John Abernethy (1680-1740), Presbyterian minister of Antrim and Dublin and leader of the Irish non-subscribers, for the Word Hoard: Discourses concerning the Being and Perfections of God, Sermons on Various Subjects, Scarce and Valuable Tracts and Sermons, Persecution Contrary to Christianity, and his sermons and pamphlets of 1714 to 1735. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 137 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john abernethy",
+  "j. abernethy",
+  "abernethy"
+ ],
+ "_surname": [
+  "abernethy"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "abernethy-peoples-choice": [
+   "bim_eighteenth-century_the-peoples-choice-the_abernethy-john_1714",
+   "The people's choice, the Lord's annointed. A thanksgiving sermon for His most Excellent Majesty King George his happy accession to the throne, his arrival, and coronation. Preach'd at Antrim October, 27, 1714. By John Abernethy ...  1714 (catalogued 1714)"
+  ],
+  "abernethy-prophecy": [
+   "bim_eighteenth-century_a-sermon-recommending-th_abernethy-john_1716",
+   "A sermon recommending the study of scripture-prophecie, as an important duty, and a great means of reviving decay'd piety and charity: ... By John Abernethy ...  1716 (catalogued 1716)"
+  ],
+  "abernethy-religious-obedience": [
+   "bim_eighteenth-century_religious-obedience-foun_abernethy-john-rev_1720",
+   "Religious obedience founded on personal persuasion. A sermon preach'd at Belfast the ninth of December, 1719. By John Abernethy, ...  1720 (catalogued 1720)"
+  ],
+  "abernethy-antrim-fast-1723": [
+   "bim_eighteenth-century_a-sermon-preached-at-ant_abernethy-john_1724",
+   "A sermon preached at Antrim, Nov. 13. 1723 at a fast observed in the Presbyterian congregations in Ulster, by agreement of their ministers, on the account of divisions. By John Abernethy, ...  1724 (catalogued 1724)"
+  ],
+  "abernethy-persecution": [
+   "bim_eighteenth-century_persecution-contrary-to-_abernethy-john_1735",
+   "Persecution contrary to Christianity. A sermon preached in Wood-Street, Dublin, on the 23d. of October, 1735. Being the anniversary of the Irish rebellion. By John Abernethy, ...  1735 (catalogued 1735)"
+  ],
+  "abernethy-perfections-2": [
+   "discoursesconcer02aber",
+   "Discourses concerning the perfections of God : in which His holiness, goodness, and other attributes are explained and proved, vol. 2 (Dublin : Printed by A. Reilly for J. Smith, 1740)"
+  ],
+  "abernethy-discourses-1743-1": [
+   "bim_eighteenth-century_discourses_abernethy-john-rev_1743_1",
+   "Discourses  1743: Vol 1, vol. 1 (catalogued 1743)"
+  ],
+  "abernethy-sermons-1748-2": [
+   "bim_eighteenth-century_sermons-on-various-subje_abernethy-john_1748_2",
+   "Sermons on various subjects. ... By John Abernethy, M.A. With a large preface, containing the life of the author. In two volumes. ...  1748: Vol 2, vol. 2 (catalogued 1748)"
+  ],
+  "abernethy-sermons-1762-4": [
+   "sermonsonvarious04aber",
+   "Sermons on various subjects, vol. 4 (London : Printed for D. Browne, T. Osborne, and A. Millar, 1762)"
+  ],
+  "abernethy-scarce-tracts": [
+   "bim_eighteenth-century_scarce-and-valuable-trac_abernethy-john_1751_2",
+   "Scarce and valuable tracts and sermons, occasionally published, by the late reverend and learned John Abernethy, Now first collected together.  1751: Vol 2, vol. 2 (catalogued 1751)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "abernethy-surgeon": "the surgical and physiological essays and medical dissertations are by John Abernethy the surgeon (1764-1831)",
+  "abernethy-german": "the 1781 German translation",
+  "abernethy-dups": "the 1746 ECCO volume of the Discourses",
+  "abernethy-sermons-1751": "the Google copy is another vol. IV of Sermons on Various Subjects, already shelved as abernethy-sermons-1762-4"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "abernethy-prophecy": "title page (image): 'By John Abernethy, M.A. Minister of the Gospel', Belfast 1716",
+  "abernethy-religious-obedience": "title page (image): 'By John Abernethy, M.A. Minister of the Gospel', Belfast sermon of 9 December 1719, London 1720",
+  "abernethy-sermons-1748-2": "title page (image): 'By John Abernethy, M.A.', vol. II, London 1748",
+  "abernethy-sermons-1762-4": "title page (OCR): 'By John Abernethy, M.A.', vol. IV (OCR reads ABERNETHr)",
+  "abernethy-perfections-2": "title page (OCR): 'By the late Reverend John Abernethy, M.A.', vol. II, Dublin"
+ },
+ "_pending": {
+  "abernethy-seasonable-advice": "Seasonable advice to the Protestant Dissenters in the north of Ireland; being a defence of the late General Synod's charitable declarations. ...  1722 (catalogued 1722) (IA bim_eighteenth-century_seasonable-advice-to-the_abernethy-john_1722): printed as by 'an anonymous but judicious author', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "abernethy-defence-advice": "A defence of the Seasonable advice, in answer to the Reverend, [sic] Mr. Charles Mastertoun's Apology for the northern Presbyterians in Ireland: ... By John Abernethy, ...  1724 (catalogued 1724) (IA bim_eighteenth-century_a-defence-of-the-seasona_abernethy-john_1724): the title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "abernethy-sacramental-test": "The nature and consequences of the Sacramental test considered. With reasons humbly offered for the repeal of it.  1731 (catalogued 1731) (IA bim_eighteenth-century_the-nature-and-consequen_abernethy-john_1731): the title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "abernethy-peoples-choice": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "abernethy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abernethy-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1716",
+   "ia_date": "1716",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abernethy-religious-obedience": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abernethy-antrim-fast-1723": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "abernethy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1724",
+   "ia_date": "1724",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abernethy-persecution": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "abernethy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1735",
+   "ia_date": "1735",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abernethy-perfections-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abernethy-discourses-1743-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "abernethy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abernethy-sermons-1748-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1748",
+   "ia_date": "1748",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abernethy-sermons-1762-4": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1762",
+   "ia_date": "1762",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abernethy-scarce-tracts": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "abernethy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

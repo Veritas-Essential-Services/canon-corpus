@@ -1,0 +1,65 @@
+{
+ "_about": "Henry More (1614-1687), the Cambridge Platonist, raw IA OCR of seventeenth- and eighteenth-century printings (long s; OCR is rough but above the gate): An Antidote against Atheisme (London: Roger Daniel, 1653), A Collection of Several Philosophical Writings, second edition (London: James Flesher for William Morden, 1662) and Divine Dialogues (London: Joseph Downing, 1713). US public domain. No uids minted.",
+ "_author": "Henry More",
+ "_name_words": [
+  "henry",
+  "more",
+  "dr",
+  "h"
+ ],
+ "_surname": [
+  "henry more"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "more-antidote-against-atheisme-1653": [
+   "moreantidoteagainstatheisme",
+   "An Antidote against Atheisme (London: Roger Daniel, 1653)"
+  ],
+  "more-collection-philosophical-writings-1662": [
+   "collectionofseve00more",
+   "A Collection of Several Philosophical Writings, second edition (London, 1662)"
+  ],
+  "more-divine-dialogues-1713": [
+   "aloquesc00more",
+   "Divine Dialogues (London: Joseph Downing, 1713)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "more-antidote-against-atheisme-1653": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1653",
+   "ia_date": "1653",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "more-collection-philosophical-writings-1662": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1662",
+   "ia_date": "1662",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "more-divine-dialogues-1713": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

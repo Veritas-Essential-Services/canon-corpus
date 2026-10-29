@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain Macarius the Egyptian (4th century; the homilies are now usually assigned to an unknown Syrian writer, Pseudo-Macarius), for the Word Hoard: Fifty Spiritual Homilies of St. Macarius the Egyptian by A. J. Mason (SPCK, 1921) and Primitive Morality, the Spiritual Homilies done into English by a Presbyter of the Church of England (1721), from Internet Archive scans. Mason's own books are on the Arthur James Mason shelf. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "macarius"
+ ],
+ "_surname": [
+  "macarius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "macarius-fifty-homilies-mason-1921": [
+   "fiftyspiritualho00pseuuoft",
+   "Fifty Spiritual Homilies of St. Macarius the Egyptian, by A. J. Mason, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1921)"
+  ],
+  "macarius-primitive-morality-1721": [
+   "primitivemoralit00maca",
+   "Primitive Morality: or, The Spiritual Homilies of St. Macarius the Egyptian, done out of Greek into English by a Presbyter of the Church of England (London: W. Taylor; W. and J. Innys; J. Osborn, MDCCXXI)"
+  ]
+ },
+ "_alternates": {
+  "macarius-copies": "Four other scans of Mason 1921; the ECCO microfilm of Primitive Morality (1721)"
+ },
+ "_excluded": {
+  "macarius-other": "Marriott's Macarii Anecdota (1918, Greek text); Macarius Magnes and Macarius of Antioch (different men)"
+ },
+ "_rights_checked": {
+  "macarius-primitive-morality-1721": "title page read: translator given only as \"a Presbyter of the Church of England\"; the catalogue's Thomas Haywood was not read on the title page"
+ },
+ "_pending": {},
+ "_translators": {
+  "macarius-fifty-homilies-mason-1921": "mason"
+ },
+ "_checks": {
+  "macarius-fifty-homilies-mason-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "macarius",
+   "translator_claimed": "mason",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macarius-primitive-morality-1721": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "macarius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator given only as \"a Presbyter of the Church of England\"; the catalogue's Thomas Haywood was not read on the title page"
+  }
+ }
+}

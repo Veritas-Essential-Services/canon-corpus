@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain Josiah Strong (1847-1916, Congregationalist, Evangelical Alliance secretary and Social Gospel leader) for the Word Hoard: Our Country (1885), The New Era (1893), The Twentieth Century City (1898), Religious Movements for Social Betterment (1900), The Times and Young Men (1901), The Next Great Awakening (1902), The Challenge of the City (1907), My Religion in Everyday Life (1910) and The New World-Religion (1915), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "strong"
+ ],
+ "_surname": [
+  "strong",
+  "josiah strong"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jstrong-our-country": [
+   "ourcountryitspo00strogoog",
+   "Our Country: its Possible Future and its Present Crisis (New York: American Home Missionary Society, 1885)"
+  ],
+  "jstrong-new-era": [
+   "neweraorcomingk00strogoog",
+   "The New Era, or the Coming Kingdom (New York: Baker & Taylor; copyright 1893)"
+  ],
+  "jstrong-twentieth-century-city": [
+   "twentiethcentury00stro_0",
+   "The Twentieth Century City (New York: The Baker and Taylor Company; copyright 1898)"
+  ],
+  "jstrong-religious-movements": [
+   "religiousmovemen00stro",
+   "Religious Movements for Social Betterment (New York: The Baker and Taylor Company; title page undated, received 1900)"
+  ],
+  "jstrong-times-young-men": [
+   "timesyoungmen00stroiala",
+   "The Times and Young Men (New York: The Baker and Taylor Company; copyright 1901)"
+  ],
+  "jstrong-next-great-awakening": [
+   "nextgreatawaken00strogoog",
+   "The Next Great Awakening (New York: The Baker and Taylor Company, 1902)"
+  ],
+  "jstrong-challenge-city": [
+   "challengecity00strogoog",
+   "The Challenge of the City (Young People's Missionary Movement; copyright 1907)"
+  ],
+  "jstrong-my-religion": [
+   "myreligionineve00stro",
+   "My Religion in Everyday Life (New York: The Baker and Taylor Company, 1910)"
+  ],
+  "jstrong-new-world-religion": [
+   "newworldreligion00stro",
+   "The New World-Religion (Garden City: Doubleday, Page, 1915)"
+  ]
+ },
+ "_alternates": {
+  "jstrong-copies": "Later thousands of Our Country and the post-1890 revised edition; another New Era",
+  "jstrong-unread": "Expansion under New World-Conditions (1900) and Our World (1913): title-page year not read"
+ },
+ "_excluded": {
+  "jstrong-others": "Greene's Armenian Crisis; A Martyr of To-day (about Robert Ross); the Social Progress yearbooks; a Spanish translation"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jstrong-our-country": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jstrong-new-era": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jstrong-twentieth-century-city": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jstrong-religious-movements": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jstrong-times-young-men": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "[c1901]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jstrong-next-great-awakening": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jstrong-challenge-city": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jstrong-my-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jstrong-new-world-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

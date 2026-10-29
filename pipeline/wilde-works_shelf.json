@@ -1,0 +1,337 @@
+{
+ "_about": "Oscar Wilde's plays, stories, fairy tales, poems and essays not already on another shelf: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Oscar Wilde",
+ "_name_words": [
+  "wilde"
+ ],
+ "_surname": [
+  "oscar wilde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "owilde-ballad-of-reading-gaol": [
+   301,
+   "The Ballad of Reading Gaol",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
+  ],
+  "owilde-lord-arthur-saviles-crime": [
+   773,
+   "Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories"
+  ],
+  "owilde-essays-and-lectures": [
+   774,
+   "Essays and Lectures"
+  ],
+  "owilde-a-woman-of-no-importance": [
+   854,
+   "A Woman of No Importance"
+  ],
+  "owilde-duchess-of-padua": [
+   875,
+   "The Duchess of Padua"
+  ],
+  "owilde-intentions": [
+   887,
+   "Intentions"
+  ],
+  "owilde-de-profundis": [
+   921,
+   "De Profundis"
+  ],
+  "owilde-soul-of-man-under-socialism": [
+   1017,
+   "The Soul of Man under Socialism"
+  ],
+  "owilde-charmides-and-other-poems": [
+   1031,
+   "Charmides, and Other Poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "owilde-poems-with-the-ballad-of-reading-gaol": [
+   1057,
+   "Poems, with The Ballad of Reading Gaol"
+  ],
+  "owilde-a-florentine-tragedy": [
+   1308,
+   "A Florentine Tragedy; La Sainte Courtisane",
+   {
+    "contents_only": true
+   }
+  ],
+  "owilde-shorter-prose-pieces": [
+   2061,
+   "Shorter Prose Pieces"
+  ],
+  "owilde-picture-of-dorian-gray": [
+   4078,
+   "The Picture of Dorian Gray"
+  ],
+  "owilde-miscellanies": [
+   14062,
+   "Miscellanies"
+  ],
+  "owilde-reviews": [
+   14240,
+   "Reviews"
+  ],
+  "owilde-canterville-ghost": [
+   14522,
+   "The Canterville Ghost"
+  ],
+  "owilde-for-love-of-the-king": [
+   23229,
+   "For Love of the King: A Burmese Masque"
+  ],
+  "owilde-vera": [
+   26494,
+   "Vera; Or, The Nihilists"
+  ],
+  "owilde-miscellaneous-aphorisms": [
+   33979,
+   "Miscellaneous Aphorisms; The Soul of Man"
+  ],
+  "owilde-impressions-of-america": [
+   41806,
+   "Impressions of America"
+  ],
+  "owilde-children-in-prison-and-other-cruelties-of-prison-life": [
+   42104,
+   "Children in Prison and Other Cruelties of Prison Life"
+  ],
+  "owilde-wilde-v-whistler-being-an-acrimonious-correspondence": [
+   69674,
+   "Wilde v Whistler Being an Acrimonious Correspondence on Art Between Oscar Wilde and James A McNeill Whistler (with James McNeill Whistler)"
+  ],
+  "owilde-lady-windermeres-fan": [
+   790,
+   "Lady Windermere's Fan"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58329": "PG 58329: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 26740: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 174, 844, 885: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-1141": "PG 1141 Selected Poems, 1338 Selected Prose and 30191 A Critic in Pall Mall: selections of work held whole elsewhere."
+ },
+ "_checks": {
+  "owilde-ballad-of-reading-gaol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-lord-arthur-saviles-crime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-essays-and-lectures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-a-woman-of-no-importance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-duchess-of-padua": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-intentions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-de-profundis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-soul-of-man-under-socialism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-charmides-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-poems-with-the-ballad-of-reading-gaol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-a-florentine-tragedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-shorter-prose-pieces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-picture-of-dorian-gray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-miscellanies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-reviews": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-canterville-ghost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-for-love-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-vera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-miscellaneous-aphorisms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-impressions-of-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-children-in-prison-and-other-cruelties-of-prison-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-wilde-v-whistler-being-an-acrimonious-correspondence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owilde-lady-windermeres-fan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

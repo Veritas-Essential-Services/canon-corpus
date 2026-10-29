@@ -1,0 +1,34 @@
+{
+ "_about": "Charles Montague Bakewell (1867-1957), Yale philosopher. Raw IA OCR: Source Book in Ancient Philosophy (Scribner, 1907), his selections from the Presocratics to Plotinus, mostly in standard published translations which it credits. Published 1907. US public domain. No uids minted.",
+ "_author": "Charles M. Bakewell",
+ "_name_words": [
+  "charles",
+  "montague",
+  "bakewell"
+ ],
+ "_surname": [
+  "bakewell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bakewell-source-book-in-ancient-philosophy-1907": [
+   "sourcebookinanci00bakeuoft",
+   "Source Book in Ancient Philosophy (Scribner, 1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bakewell-source-book-in-ancient-philosophy-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bakewell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

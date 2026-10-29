@@ -1,0 +1,98 @@
+{
+ "_about": "Charles Major: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Charles Major",
+ "_name_words": [
+  "charles",
+  "major"
+ ],
+ "_surname": [
+  "charles major",
+  "major"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cmajor-yolanda": [
+   12057,
+   "Yolanda: Maid of Burgundy"
+  ],
+  "cmajor-touchstone-of-fortune-being-the-memoir-of-baron-clyde": [
+   14242,
+   "The Touchstone of Fortune Being the Memoir of Baron Clyde, Who Lived, Thrived, and Fell in the Doleful Reign of the So-called Merry Monarch, Charles II"
+  ],
+  "cmajor-dorothy-vernon-of-haddon-hall": [
+   14671,
+   "Dorothy Vernon of Haddon Hall"
+  ],
+  "cmajor-when-knighthood-was-in-flower-or-the-love-story-of-ch": [
+   17498,
+   "When Knighthood Was in Flower or, the Love Story of Charles Brandon and Mary Tudor the King's Sister, and Happening in the Reign of His August Majesty King Henry the Eighth"
+  ],
+  "cmajor-forest-hearth": [
+   29486,
+   "A Forest Hearth: A Romance of Indiana in the Thirties"
+  ],
+  "cmajor-bears-of-blue-river": [
+   54915,
+   "The Bears of Blue River"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cmajor-yolanda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles major",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmajor-touchstone-of-fortune-being-the-memoir-of-baron-clyde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles major",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmajor-dorothy-vernon-of-haddon-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles major",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmajor-when-knighthood-was-in-flower-or-the-love-story-of-ch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles major",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmajor-forest-hearth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles major",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmajor-bears-of-blue-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles major",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

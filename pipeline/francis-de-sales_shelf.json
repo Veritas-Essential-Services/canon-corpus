@@ -1,0 +1,241 @@
+{
+ "_about": "Public-domain Francis de Sales (1567-1622, Bishop of Geneva, Doctor of the Church) in English for the Word Hoard: 12 volumes from Internet Archive scans, among them the Introduction to the Devout Life (1876, 1878), Henry Benedict Mackey's Library of St. Francis de Sales (Letters, the Treatise on the Love of God, the Catholic Controversy, the Canticle, 1894-1910), the Spiritual Conferences (1862, 1909) and Miles Car's Treatise of the Love of God (Douay, 1630). Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sales"
+ ],
+ "_surname": [
+  "francis de sales",
+  "francis of sales",
+  "francois de sales",
+  "s. francis de sales",
+  "st. francis de sales",
+  "francis de sales, bishop"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "desales-devout-life-1876": [
+   "introductiontod00salegoog",
+   "Introduction to the Devout Life, a new translation, Library of Spiritual Works for English Catholics (London: Rivingtons, MDCCCLXXVI)"
+  ],
+  "desales-devout-life-1878": [
+   "anintroductiont01salegoog",
+   "An Introduction to the Devout Life, edited by Walter J. B. Richards (London: Burns & Oates, 1878)"
+  ],
+  "desales-letters-world": [
+   "libraryofstfranc01franiala",
+   "Library of St. Francis de Sales I: Letters to Persons in the World, tr. Henry Benedict Mackey, second edition (London: Burns & Oates; New York: Benziger, 1894)"
+  ],
+  "desales-treatise-love-god": [
+   "libraryofstfranc01fran_0",
+   "Library of St. Francis de Sales II: Treatise on the Love of God, tr. Henry Benedict Mackey, third edition (London: Burns & Oates; New York: Benziger; catalogued 1910)"
+  ],
+  "desales-catholic-controversy": [
+   "libraryofstfranc03fran_0",
+   "Library of St. Francis de Sales III: The Catholic Controversy, tr. H. B. Mackey, revised (London: Burns & Oates; New York: Benziger, 1909)"
+  ],
+  "desales-letters-religion": [
+   "letterstoperson00franuoft",
+   "Library of St. Francis de Sales IV: Letters to Persons in Religion, tr. H. B. Mackey, fourth edition (London: Burns & Oates; New York: Benziger, 1909)"
+  ],
+  "desales-canticle": [
+   "libraryofstfranc06fran",
+   "Library of St. Francis de Sales VI: Mystical Explanation of the Canticle of Canticles, tr. H. B. Mackey (London: Burns & Oates; catalogued 1908)"
+  ],
+  "desales-conferences-1862": [
+   "truespiritualco00salegoog",
+   "The True Spiritual Conferences of St. Francis of Sales, with a preface by Cardinal Wiseman (London: Richardson and Son, MDCCCLXII)"
+  ],
+  "desales-conferences-1909": [
+   "spiritualconfere00franuoft",
+   "The Spiritual Conferences, translated from the Annecy text under Abbot Gasquet and Canon Mackey (London: Burns & Oates; New York: Benziger, 1909)"
+  ],
+  "desales-love-of-god-lear": [
+   "lovegod00leargoog",
+   "Of the Love of God, abridged, tr. H. L. Sidney Lear (London: Rivingtons, MDCCCLXXXVIII)"
+  ],
+  "desales-spiritual-letters-1871": [
+   "aselectionfroms00salegoog",
+   "A Selection from the Spiritual Letters of S. Francis de Sales (London: Rivingtons, 1871)"
+  ],
+  "desales-love-of-god-1630": [
+   "bim_early-english-books-1475-1640_a-treatise-of-the-love-o_francis-of-sales-saint_1630",
+   "A Treatise of the Love of God, tr. Miles Car (Douay: Gerard Pinchon, 1630)"
+  ]
+ },
+ "_alternates": {
+  "desales-copies": "Other Devout Life versions (Rivingtons undated; Longmans 1891; Barns, Methuen 1906; the 1613 and 1762 versions), other Letters and Conferences copies, Rivingtons' Of the Love of God (1878)",
+  "desales-maxims": "Maxims and Counsels for Every Day of the Year, selected and tr. Ella McMahon (PG 73661): already on the ella-mcmahon translator shelf (another branch)"
+ },
+ "_excluded": {
+  "desales-ccel-tan": "CCEL desales/love: a 1997 TAN photographic reprint",
+  "desales-about": "Camus's Spirit of St Francis de Sales (PG 9184) and all Lives",
+  "desales-late": "printings of 1923 and later"
+ },
+ "_identity_checked": {
+  "desales-love-of-god-1630": {
+   "author": "Title page read: 'written in French by B. Francis de Sales, Bishop and Prince of Geneva, translated into English by Miles Car', OCR 'FRANC1s be SALES'; Douay, Gerard Pinchon, 1630"
+  }
+ },
+ "_rights_checked": {
+  "desales-treatise-love-god": "title page read: Burns & Oates and Benziger, third edition, no year; catalogued 1910; Mackey died 1906",
+  "desales-canticle": "Library vol. VI, Burns & Oates; catalogued 1908"
+ },
+ "_pending": {},
+ "_translators": {
+  "desales-letters-world": "mackey",
+  "desales-treatise-love-god": "mackey",
+  "desales-catholic-controversy": "mackey",
+  "desales-letters-religion": "mackey",
+  "desales-love-of-god-lear": "lear"
+ },
+ "_checks": {
+  "desales-devout-life-1876": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-devout-life-1878": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis of sales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-letters-world": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "translator_claimed": "mackey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-treatise-love-god": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "translator_claimed": "mackey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Burns & Oates and Benziger, third edition, no year; catalogued 1910; Mackey died 1906"
+  },
+  "desales-catholic-controversy": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "translator_claimed": "mackey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "desales-letters-religion": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "translator_claimed": "mackey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-canticle": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Library vol. VI, Burns & Oates; catalogued 1908"
+  },
+  "desales-conferences-1862": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-conferences-1909": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-love-of-god-lear": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "translator_claimed": "lear",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-spiritual-letters-1871": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis de sales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "desales-love-of-god-1630": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1630",
+   "ia_date": "1630",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

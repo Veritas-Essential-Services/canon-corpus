@@ -1,0 +1,291 @@
+{
+ "_about": "Maurice Hewlett's historical romances",
+ "_author": "Maurice Hewlett",
+ "_name_words": [
+  "hewlett"
+ ],
+ "_surname": [
+  "maurice hewlett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mhewlett-fool-errant-being-the-memoirs-of-francis-anthony-st": [
+   5755,
+   "The Fool Errant Being the Memoirs of Francis-Anthony Strelley, Esq., Citizen of Lucca",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-rest-harrow": [
+   8464,
+   "Rest Harrow: A Comedy of Resolution",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-earthwork-out-of-tuscany": [
+   8858,
+   "Earthwork out of Tuscany: Being Impressions and Translations of Maurice Hewlett"
+  ],
+  "mhewlett-forest-lovers": [
+   8934,
+   "The Forest Lovers"
+  ],
+  "mhewlett-life-and-death-of-richard-yea-and-nay": [
+   14813,
+   "The Life and Death of Richard Yea-and-Nay"
+  ],
+  "mhewlett-in-a-green-shade": [
+   15495,
+   "In a Green Shade: A Country Commentary"
+  ],
+  "mhewlett-lore-of-proserpine": [
+   18730,
+   "Lore of Proserpine",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-little-novels-of-italy": [
+   20929,
+   "Little Novels of Italy",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-village-wifes-lament": [
+   21025,
+   "The Village Wife's Lament"
+  ],
+  "mhewlett-ruinous-face": [
+   21885,
+   "The Ruinous Face"
+  ],
+  "mhewlett-helen-redeemed-and-other-poems": [
+   22803,
+   "Helen Redeemed and Other Poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-gudrid-the-fair": [
+   23643,
+   "Gudrid the Fair: A Tale of the Discovery of America"
+  ],
+  "mhewlett-spanish-jade": [
+   29545,
+   "The Spanish Jade"
+  ],
+  "mhewlett-love-and-lucy": [
+   29868,
+   "Love and Lucy",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-frey-and-his-wife": [
+   45107,
+   "Frey and His Wife"
+  ],
+  "mhewlett-halfway-house": [
+   59963,
+   "Halfway House: A Comedy of Degrees"
+  ],
+  "mhewlett-queens-quair": [
+   61466,
+   "The Queen's Quair; or, The Six Years' Tragedy",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-last-essays-of-maurice-hewlett": [
+   65757,
+   "Last Essays of Maurice Hewlett",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhewlett-a-lovers-tale": [
+   78969,
+   "A lovers' tale",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mhewlett-fool-errant-being-the-memoirs-of-francis-anthony-st": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-rest-harrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-earthwork-out-of-tuscany": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-forest-lovers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-life-and-death-of-richard-yea-and-nay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-in-a-green-shade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-lore-of-proserpine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-little-novels-of-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-village-wifes-lament": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-ruinous-face": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-helen-redeemed-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-gudrid-the-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-spanish-jade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-love-and-lucy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-frey-and-his-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-halfway-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-queens-quair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-last-essays-of-maurice-hewlett": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhewlett-a-lovers-tale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maurice hewlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

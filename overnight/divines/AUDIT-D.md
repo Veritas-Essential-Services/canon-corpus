@@ -336,3 +336,35 @@ All 190 shelves.
 - **Collisions checked across branches.** The new forms were compared with the shelf files on every remote branch, not only this one. On Lane D's side, the forms still shared between two shelves each name one person: Joseph Jacobs (aesop and jacobs-fairy), William Morris (beowulf and poetic-edda) and Frederick H. Martens (stroebe and wilhelm).
 - **One-word forms kept on purpose.** These are names, not English words, and some texts print no fuller form: aesop/æsop, andersen (Lucas's edition prints only "ANDERSEN"), grimm (the 1884 Hunt volumes print no first names), caxton and voragine, dodgson, gummere and kirtlan (beside the full forms), laboulaye, lagerlöf, lönnrot, mijatovich (three spellings), ouida, straparola, sturluson and zitkala.
 - **Other lanes' bare forms that pass Lane D authors.** These are their fixes to make, and are reported to the coordinator: "owen" (would pass Elias Owen), "curtin" (Lane C: Jeremiah Curtin on both, so the same person), "horace" and "newton" (would pass Horace N. Allen), "maude" (would pass Maude Ashurst Biggs), "perkins" (would pass Lucy Fitch Perkins) and "preston" (would pass Josephine Preston Peabody).
+
+## 13. Eleventh pass (2026-10-10, after batches 28-31): life-plus-seventy
+
+Every Lane D Gutenberg row was checked against the Gutenberg catalogue's dates for each author, translator, editor and compiler (illustrators left out, since no pictures are in the text). The rule adopted on 2026-10-03, and applied to every batch since, is to hold a book when any of those people died after 1955 or has no recorded death date. Shelves made before that rule were never re-checked against it. This pass does that.
+
+**Died after 1955. All are US public domain by publication date, but still in copyright in the UK and in other life-plus-seventy countries:**
+- Padraic Colum (1881-1972): all 7 books on `colum`.
+- Thornton W. Burgess (1874-1965): all 28 books on `burgess`.
+- Howard R. Garis (1873-1962): all 35 books on `garis`.
+- Elsie Spicer Eells (1880-1963): all 3 books on `eells`.
+- Sara Cone Bryant (1873-1956): both books on `sara-bryant`.
+- A. A. Milne (1882-1956): all 5 books on `milne`. UK copyright ends on 1 January 2027.
+- Cecil Henry Bompas (1868-1956): `bompas-folklore-of-the-santal-parganas`.
+- Carol Della Chiesa (1887-1972), translator: `collodi-pinocchio-della-chiesa`.
+
+**Birth year only, no death date in the catalogue:** A. E. Johnson (born 1879; Perrault, `perrault-old-time-stories-johnson`), Klara Stroebe (born 1887; both `stroebe` books), Henry Gilbert (born 1868; `gilbert-king-arthurs-knights`), Gudrun Thorne-Thomsen (born 1873; `thorne-thomsen-birch-and-the-star`), Laura E. Poulsson (born 1851; `poulsson`), Lajos Kropf (born 1852; `jones-kropf`), Marie L. McLaughlin (born 1842; `mclaughlin`) and May Kendall (born 1861; `lang-that-very-mab`). Charles Swan (born 1797; `gesta-romanorum`) cannot be living, so he is not listed as a risk.
+
+**No dates at all:** several translators and compilers, among them Mrs. Lang, Fanny Fuller, Marion Edwards (the catalogue's spelling), Elisabeth Stork, Edward L. Stowell, Mary Macgregor, Eliza Keary, E. M. Berens, Ellen C. Babbitt, Beatrice E. Clay, Mrs. Rafy, Charles Sellers, Elizabeth W. Grierson, Mrs. Angus W. Hall, Emily J. Harding, Elias Owen, Yei Theodora Ozaki, Amy Steedman and Grace James. Every one of their books was published before 1931. The catalogue gives no dates for them, and this pass did not look further.
+
+Nothing was removed. Everything above was taken under the US rule in force when it was shelved. Whether Armarium should keep, label or hold these books is Adam's decision (DIGEST-D decision 22).
+
+## 14. Twelfth pass (2026-10-10, after batches 32-34): later reprints
+
+The front and back matter of every Lane D Gutenberg text was searched for copyright, renewal, ISBN or SBN, "all rights reserved" and "printed in" lines, to find books whose Gutenberg file was made from a later reprint rather than the first printing. Two books on the hearn shelf were not checked: their files were not on disk in this session.
+
+**Later reprints of the same text (24 books).** These carry a reprint's printer line, ISBN or SBN, but no editor, introduction or other added text was found: `lang-blue-poetry-book`, `lang-tales-of-romance`, `pyle-sir-launcelot` (Dover, 1991; it says it is an unabridged republication of Scribner's 1907 edition), `nesbit-oswald-bastable-and-others`, `nesbit-nine-unlikely-tales`, `potter-tailor-of-gloucester`, `potter-mr-tod`, `potter-fierce-bad-rabbit`, `grahame-headswoman`, `perrault-old-time-stories-johnson`, `crooke-talking-thrush`, `hull-cuchulain-hound-of-ulster`, `lady-wilde-ancient-legends-of-ireland`, `jean-lang-stories-from-the-iliad`, `jean-lang-stories-from-the-faerie-queen`, `beatrice-clay-stories-from-morte-darthur-and-mabinogion`, `katharine-pyle-wonder-tales-from-many-lands`, `stephens-deirdre`, `macmillan-canadian-fairy-tales`, `ebbutt-hero-myths-and-legends`, `mrjames-five-jars`, `greenaway-under-the-window`, `greenaway-marigold-garden` and `curtin-myths-and-folk-tales-of-ireland`. The reprint's notices sit in the front matter (`front, par. n`), not in the cited text. One gap: the Curtin file was made from Dover's 1975 reprint, which, the transcriber notes, leaves out the 1890 edition's introduction, frontispiece and dedication. So the book on the shelf is the text without its introduction.
+
+**Copyright lines dated 1927 to 1929 (no new problem).** These were published in or before 1929, so they are US public domain now: Potter's The Fairy Caravan (1929), Barrie's Peter Pan play (1928), Lofting's Doctor Dolittle in the Moon (1928, renewed 1956; Lofting died in 1947), Milne's two books, three Garis books and Burgess's Jimmy Skunk (renewed 1946). The Milne, Garis and Burgess books, and Colum's Children of Odin (a modern Macmillan paperback with an ISBN), are already among the 82 in §13.
+
+**False alarms.** Benjamin Bunny's 1932 line is a renewal of 1904. The two Lucy Fitch Perkins hits come from an old Gutenberg header.
+
+Nothing was removed. Before Armarium presents any of these as a particular edition, it should name the reprint, not the first printing.

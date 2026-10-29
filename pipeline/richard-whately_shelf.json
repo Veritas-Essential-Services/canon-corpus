@@ -1,0 +1,92 @@
+{
+ "_about": "Richard Whately (1787-1863), Oxford logician and political economist, later Archbishop of Dublin. This shelf takes his logic, rhetoric and economics; his theological and pastoral writings are left for the Divines lane. Gutenberg: Historic Doubts Relative to Napoleon Buonaparte. Raw IA OCR: Elements of Logic, ninth edition revised (Boston and Cambridge: James Munroe, 1855), clean 0.88; Elements of Rhetoric (New York: Harper, 1858), clean 0.90; Introductory Lectures on Political Economy, delivered in Easter Term 1831 (London: Fellowes, 1831), clean 0.94; Easy Lessons on Reasoning, first American from the second London edition (Boston: James Munroe, 1845), clean 0.86. Not taken: an undated Munroe stereotype issue of Elements of Logic. US public domain. No uids minted.",
+ "_author": "Richard Whately",
+ "_name_words": [
+  "richard",
+  "whately"
+ ],
+ "_surname": [
+  "whately"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "whately-historic-doubts-napoleon": [
+   18087,
+   "Historic Doubts Relative to Napoleon Buonaparte"
+  ]
+ },
+ "internet_archive": {
+  "whately-elements-of-logic-1855": [
+   "elementslogicco17whatgoog",
+   "Elements of Logic, 9th ed. (Munroe, 1855)"
+  ],
+  "whately-elements-of-rhetoric-1858": [
+   "elementsrhetori18whatgoog",
+   "Elements of Rhetoric (Harper, 1858)"
+  ],
+  "whately-lectures-political-economy-1831": [
+   "introductorylect00whatrich",
+   "Introductory Lectures on Political Economy (Fellowes, 1831)"
+  ],
+  "whately-easy-lessons-reasoning-1845": [
+   "easylessonsonrea01what",
+   "Easy Lessons on Reasoning (Munroe, 1845)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "whately-historic-doubts-napoleon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whately",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whately-elements-of-logic-1855": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whately",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whately-elements-of-rhetoric-1858": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whately",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whately-lectures-political-economy-1831": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whately",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whately-easy-lessons-reasoning-1845": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whately",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

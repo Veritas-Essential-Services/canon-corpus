@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Herbert Thurston (1856-1939, Jesuit historian of devotion and liturgy) for the Word Hoard: The Holy Year of Jubilee (1900), The Stations of the Cross (1906), The Coronation Ceremonial (second edition, 1911), Lent and Holy Week (1914 impression), The Memory of Our Dead (1915) and The War and the Prophets (1915), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thurston"
+ ],
+ "_surname": [
+  "thurston",
+  "herbert thurston"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thurston-holy-year-jubilee": [
+   "holyyearofjubile00thur",
+   "The Holy Year of Jubilee (London: Sands, 1900)"
+  ],
+  "thurston-stations-of-cross": [
+   "stationsofcross0000herb",
+   "The Stations of the Cross (London: Burns & Oates, 1906)"
+  ],
+  "thurston-coronation-ceremonial": [
+   "coronationceremo00thur",
+   "The Coronation Ceremonial, second and revised edition (London: Catholic Truth Society, 1911)"
+  ],
+  "thurston-lent-holy-week": [
+   "lentandholyweekc00thuruoft",
+   "Lent and Holy Week, second impression (London: Longmans, Green, 1914)"
+  ],
+  "thurston-memory-of-dead": [
+   "thememoryofourde00thuruoft",
+   "The Memory of Our Dead (London: Burns & Oates, 1915)"
+  ],
+  "thurston-war-and-prophets": [
+   "warprophetsnotes00thuruoft",
+   "The War & the Prophets (London: Burns & Oates, 1915)"
+  ]
+ },
+ "_alternates": {
+  "thurston-copies": "PG 79316 and the 1914 reprint of the Stations; The Roman Jubilee (1925 abridgement)",
+  "thurston-butler": "His revision of Butler's Lives of the Saints (from 1926): Butler's work"
+ },
+ "_excluded": {
+  "thurston-others": "Books he edited, introduced or translated (Bridgett, St Hugh, St Melania and others); the posthumous Familiar Prayers (1953); Edgar Thurston"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "thurston-holy-year-jubilee": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thurston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thurston-stations-of-cross": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thurston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thurston-coronation-ceremonial": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thurston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thurston-lent-holy-week": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thurston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thurston-memory-of-dead": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thurston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thurston-war-and-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thurston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

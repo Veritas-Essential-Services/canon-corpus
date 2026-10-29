@@ -1,0 +1,193 @@
+{
+ "_about": "Public-domain Jeremy Collier (1650-1726), nonjuring bishop and moralist, for the Word Hoard: his Ecclesiastical History of Great Britain (London: Straker, 1840-1841, nine volumes), A Short View of the Immorality and Profaneness of the English Stage (1699) and Several Discourses upon Practical Subjects (1725), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "collier"
+ ],
+ "_surname": [
+  "jeremy collier",
+  "jer. collier",
+  "mr. collier"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "collier-eccl-history-1": [
+   "ecclesiasticalhi01coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 1 (London : W. Straker, 1840)"
+  ],
+  "collier-eccl-history-2": [
+   "ecclesiasticalhi02coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 2 (London : W. Straker, 1840)"
+  ],
+  "collier-eccl-history-3": [
+   "ecclesiasticalhi03coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 3 (London : W. Straker, 1840)"
+  ],
+  "collier-eccl-history-4": [
+   "ecclesiasticalhi04coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 4 (London : W. Straker, 1840)"
+  ],
+  "collier-eccl-history-5": [
+   "ecclesiasticalhi05coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 5 (London : W. Straker, 1840)"
+  ],
+  "collier-eccl-history-6": [
+   "anecclesiastica06collgoog",
+   "An ecclesiastical history of Great Britain, chiefly of England, vol. 6 (London: William Straker, 1840)"
+  ],
+  "collier-eccl-history-7": [
+   "ecclesiasticalhi07coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 7 (London : W. Straker, 1840)"
+  ],
+  "collier-eccl-history-8": [
+   "ecclesiasticalhi08coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 8 (London : W. Straker, 1840)"
+  ],
+  "collier-eccl-history-9": [
+   "ecclesiasticalhi09coll",
+   "An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 9 (London : W. Straker, 1840)"
+  ],
+  "collier-short-view-1699": [
+   "shortviewofimmor00coll",
+   "Short view of the immorality and profaneness of the English stage: together with the sense of antiquity upon this argument (London, Printed for S. Keble, and R. Sare, 1699)"
+  ],
+  "collier-several-discourses-1725": [
+   "severaldiscours00collgoog",
+   "Several Discourses Upon Practical Subjects (Printed by W. Bowyer , for the author, 1725)"
+  ]
+ },
+ "_alternates": {
+  "collier-copies": "Other scans of the 1840-1841 and 1852 History; the Essays upon Several Moral Subjects (1702-1709)"
+ },
+ "_excluded": {
+  "collier-other": "His translation of Marcus Aurelius (on marcus-aurelius on another branch); the Tertullian Apology; works by other Colliers (Arthur Collier has his own shelf)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "collier-eccl-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-eccl-history-9": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840-41",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collier-short-view-1699": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremy collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1699",
+   "ia_date": "1699",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "collier-several-discourses-1725": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mr. collier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

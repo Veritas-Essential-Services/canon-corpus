@@ -69,6 +69,11 @@
    "satiresjuvenala00persgoog",
    "The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848)",
    "tr. W. Wallace"
+  ],
+  "juvenal-duer-third-satire-1806": [
+   "thirdsatirejuvenal00nonerich",
+   "A New Translation, with Notes, of the Third Satire of Juvenal, to which are added miscellaneous poems original and translated (New York: E. Sargeant, 1806)",
+   "tr. anonymous (catalogue attribution: John Duer)"
   ]
  },
  "_cross_ref": {
@@ -76,7 +81,9 @@
   "dryden-persius": "Dryden shelf, lane C"
  },
  "_excluded": {
-  "Madan's Juvenal and Persius, 1789 (ECCO scans, 2 vols)": "OCR 0.63; the same translation is held from the 1814 edition (juvenal-persius-madan-1814)"
+  "Madan's Juvenal and Persius, 1789 (ECCO scans, 2 vols)": "OCR 0.63; the same translation is held from the 1814 edition (juvenal-persius-madan-1814)",
+  "satirespersiust00conggoog": "second copy of Drummond's Persius (1799), held as persius-drummond-1799",
+  "satyrspersiustr00persgoog": "The Satyrs of Persius, translated by Thomas Sheridan (1728): OCR 0.77, just under the 0.78 bar"
  },
  "_surname": [
   "juvenal",
@@ -100,7 +107,7 @@
  "_checks": {
   "juvenal-persius-evans-gifford": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Lewis Evans",
@@ -112,7 +119,7 @@
   },
   "juvenal-persius-ramsay": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "G. G. Ramsay",
@@ -125,7 +132,7 @@
   },
   "persius-conington-1874": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "persius",
    "translator_claimed": "John Conington",
@@ -138,7 +145,7 @@
   },
   "persius-drummond-1799": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "persius",
    "translator_claimed": "William Drummond",
@@ -151,7 +158,7 @@
   },
   "juvenal-persius-madan-1814": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "M. Madan",
@@ -164,7 +171,7 @@
   },
   "juvenal-badham-1814": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Charles Badham",
@@ -177,7 +184,7 @@
   },
   "juvenal-hodgson-1807": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Francis Hodgson",
@@ -190,7 +197,7 @@
   },
   "persius-wollaston-1841": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Wollaston",
@@ -203,7 +210,7 @@
   },
   "juvenal-leeper-1902": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Leeper",
@@ -216,7 +223,7 @@
   },
   "juvenal-persius-owen-1786": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "edward owen",
@@ -229,7 +236,7 @@
   },
   "juvenal-persius-smart-1829": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "William Smart",
@@ -242,7 +249,7 @@
   },
   "juvenal-persius-wallace-1848": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "w. wallace",
@@ -250,6 +257,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1848",
    "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "juvenal-duer-third-satire-1806": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
@@ -270,5 +288,7 @@
    "persius"
   ]
  },
- "_translator_unchecked": {}
+ "_translator_unchecked": {
+  "juvenal-duer-third-satire-1806": "the title page names no translator ('A new translation'); John Duer is the archive.org catalogue's attribution only"
+ }
 }

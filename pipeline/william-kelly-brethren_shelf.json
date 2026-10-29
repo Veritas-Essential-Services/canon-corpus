@@ -1,0 +1,482 @@
+{
+ "_about": "Public-domain William Kelly (1821-1906, Plymouth Brethren scholar and editor of Darby) for the Word Hoard: 29 books of exposition and lectures, 1858-1916, from Internet Archive scans, covering the Pentateuch, Job, Isaiah, Daniel, the Gospels, Romans, Galatians, Ephesians, Hebrews, James and the Revelation. Shelf name keeps him apart from other William Kellys. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "kelly"
+ ],
+ "_surname": [
+  "william kelly",
+  "w. kelly",
+  "kelly, william",
+  "wm. kelly",
+  "by w. k."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kelly-ephesians": [
+   "MN41979ucmf_7",
+   "Lectures on the Epistle of Paul the Apostle to the Ephesians, with a new translation (London: G. Morrish; no year on title page)"
+  ],
+  "kelly-daniel-notes": [
+   "notesonbookofdan00kell",
+   "Notes on the Book of Daniel (London: George Morrish; no year on title page, catalogued 1858)"
+  ],
+  "kelly-revelation-lectures": [
+   "lecturesonbookof00kell",
+   "Lectures on the Book of Revelation (London: Williams and Norgate, 1861)"
+  ],
+  "kelly-galatians": [
+   "lecturesonepistl00kell",
+   "Lectures on the Epistle of Paul the Apostle to the Galatians, with a new translation (London: G. Morrish; no year on title page, catalogued 1865)"
+  ],
+  "kelly-church-fundamentals": [
+   "sixlecturesonfun00kell",
+   "Six Lectures on Fundamental Truths Connected with the Church of God (London: W. H. Broom, 1865)"
+  ],
+  "kelly-second-coming": [
+   "lecturesonsecon01kellgoog",
+   "Lectures on the Second Coming and Kingdom of the Lord and Saviour Jesus Christ (London: W. H. Broom, 1865)"
+  ],
+  "kelly-intro-gospels": [
+   "cu31924031187754",
+   "Lectures Introductory to the Study of the Gospels (London: W. H. Broom, 1867)"
+  ],
+  "kelly-holy-spirit": [
+   "lecturesonnewtes00kell",
+   "Lectures on the New Testament Doctrine of the Holy Spirit (London: W. H. Broom, 1868)"
+  ],
+  "kelly-matthew": [
+   "lecturesongospel00kell",
+   "Lectures on the Gospel of Matthew (London: G. Morrish; no year on title page, catalogued 1868)"
+  ],
+  "kelly-premillennial": [
+   "secondadventchr00kellgoog",
+   "The Second Advent of Christ Premillennial: A Reply to the Rev. D. Brown (Glasgow: R. L. Allan, 1868)"
+  ],
+  "kelly-seven-churches": [
+   "christsevenchur00kellgoog",
+   "Christ and the Seven Churches (Glasgow: R. L. Allan; no year on title page, catalogued 1868)"
+  ],
+  "kelly-intro-pauline": [
+   "cu31924031183803",
+   "Lectures Introductory to the Study of the Epistles of Paul the Apostle (London: W. H. Broom, 1869)"
+  ],
+  "kelly-church-of-god": [
+   "lectureschurchg00kellgoog",
+   "Lectures on the Church of God, new edition revised (London: W. H. Broom, 1869)"
+  ],
+  "kelly-intro-acts-revelation": [
+   "lecturesintroduc00kell",
+   "Lectures Introductory to the Study of the Acts, the Catholic Epistles, and the Revelation (London: W. H. Broom, 1870)"
+  ],
+  "kelly-intro-pentateuch": [
+   "lecturesintrodu02kellgoog",
+   "Lectures Introductory to the Study of the Pentateuch (London: W. H. Broom; no year on title page, catalogued 1871)"
+  ],
+  "kelly-isaiah-lectures": [
+   "lecturesonbooko00kell",
+   "Lectures on the Book of Isaiah (London: Robert L. Allan, 1871)"
+  ],
+  "kelly-romans": [
+   "notesonepistleof00kell",
+   "Notes on the Epistle of Paul the Apostle to the Romans, with a new translation (London: G. Morrish; year read as 1875, preface 1873)"
+  ],
+  "kelly-abram": [
+   "abramlectureson00kellgoog",
+   "Abram: Lectures on Genesis XII-XXV, by W. K. (London: G. Morrish, 1876)"
+  ],
+  "kelly-elements-prophecy": [
+   "elementsprophec00kellgoog",
+   "Elements of Prophecy (London: G. Morrish; no year on title page, catalogued 1876)"
+  ],
+  "kelly-job": [
+   "notesonbookjobw00kellgoog",
+   "Notes on the Book of Job, with a new version (London: G. Morrish, 1879)"
+  ],
+  "kelly-day-of-atonement": [
+   "lecturesondayat01kellgoog",
+   "Lectures on the Day of Atonement, Leviticus XVI (London: W. Walters, 1889)"
+  ],
+  "kelly-daniel-farrar": [
+   "bwb_S0-AVH-962",
+   "Notes on the Book of Daniel, with an introduction in review of Dean Farrar's work (London: James Carter, 1897)"
+  ],
+  "kelly-john": [
+   "bwb_Y0-BSQ-075",
+   "An Exposition of the Gospel of John (London: T. Weston, 1898)"
+  ],
+  "kelly-spirits-in-prison": [
+   "preachingtospiri00kellrich",
+   "The Preaching to the Spirits in Prison, 1 Peter III.18-20 (London: T. Weston, 1900)"
+  ],
+  "kelly-olivet": [
+   "lordsprophecyon00kellgoog",
+   "The Lord's Prophecy on Olivet in Matthew XXIV-XXV (London: T. Weston, 1903)"
+  ],
+  "kelly-hebrews": [
+   "anexpositionepi02unkngoog",
+   "An Exposition of the Epistle to the Hebrews, with a new version (London: T. Weston, 1905)"
+  ],
+  "kelly-genesis-beginning": [
+   "imbeginningadami0000will",
+   "In the Beginning, and the Adamic Earth: An Exposition of Genesis I-II.3, new edition revised (London: T. Weston, 1907)"
+  ],
+  "kelly-james": [
+   "expositionofepis0000will_q9n7",
+   "Exposition of the Epistle of James (London: F. E. Race, 1913)"
+  ],
+  "kelly-isaiah-exposition": [
+   "bwb_P9-EGA-318",
+   "An Exposition of the Book of Isaiah, third edition (London: F. E. Race, 1916)"
+  ]
+ },
+ "_alternates": {
+  "kelly-copies": "Second copies of the Revelation, Six Lectures, Second Coming, the Introductory Lectures, Romans, Job, Day of Atonement, Spirits in Prison and Genesis volumes"
+ },
+ "_excluded": {
+  "kelly-reprints": "Nabu, Klock & Klock, Bible Truth Publishers and Welch Foundation reprints",
+  "kelly-french": "French translation of his Daniel",
+  "kelly-namesakes": "William Kelly of Leicester, the California travel writer, W. Hyde Kelly, J. N. D. Kelly, and CCEL's John Kelly"
+ },
+ "_identity_checked": {
+  "kelly-daniel-notes": {
+   "author": "title page read: 'By William Kelly', OCR inserts a stray mark"
+  },
+  "kelly-galatians": {
+   "author": "title page read: 'By William Kelly' (OCR 'WILLLVM^^ELLY'), London: G. Morrish"
+  },
+  "kelly-abram": {
+   "author": "title page read: 'By W. K.' (OCR 'W K.'), London: G. Morrish"
+  },
+  "kelly-elements-prophecy": {
+   "author": "title page read: 'By W. Kelly' (OCR garbled), London: G. Morrish, preface December 1876"
+  }
+ },
+ "_pending": {
+  "kelly-great-prophecies": "The Great Prophecies of Daniel (IA greatprophecieso00kell): Pickering & Inglis, E.C.4 address, no year; may be after 1930",
+  "kelly-ezekiel": "Notes on Ezekiel (IA notesonezekielb00kellgoog): title page missing from OCR",
+  "kelly-christian-ministry": "Christian Ministry (IA india.history.resource.73261): no title page in OCR"
+ },
+ "_checks": {
+  "kelly-ephesians": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "by w. k.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-daniel-notes": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-revelation-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-galatians": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-church-fundamentals": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-second-coming": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-intro-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-premillennial": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-seven-churches": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wm. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-intro-pauline": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-church-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-intro-acts-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-intro-pentateuch": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-isaiah-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-romans": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-abram": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-elements-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-job": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-day-of-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-daniel-farrar": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-john": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-spirits-in-prison": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-olivet": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelly-genesis-beginning": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-james": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelly-isaiah-exposition": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william kelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "_about": "Public-domain Thomas Foxcroft (1697-1769), minister of the First Church, Boston, for the Word Hoard: A Practical Discourse relating to the Gospel-Ministry (1718), God the Judge (1727), Observations Historical and Practical on the Rise and Primitive State of New-England (1730), The Divine Right of Deacons (1731), Some Seasonable Thoughts on Evangelic Preaching (1740), An Apology in Behalf of the Revd Mr. Whitefield (1745) and An Humble Inquiry into the Rules of the Word of God concerning the qualifications for communion (1749), from Internet Archive scans. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "foxcroft"
+ ],
+ "_surname": [
+  "thomas foxcroft",
+  "t. foxcroft",
+  "foxcroft"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "foxcroft-gospel-ministry": [
+   "bim_eighteenth-century_a-practical-discourse-re_foxcroft-thomas_1718",
+   "A practical discourse relating to the Gospel-ministy [sic]. Preach'd by Thomas Foxcroft, A. M. At his ordination to the office of pastor of a church in Boston, on Wednesday, November 20. 1717. ... With a preface by the Reverend Mr. Benjamin Wadsworth, ...  1718 (catalogued 1718)"
+  ],
+  "foxcroft-god-the-judge": [
+   "godjudgeputtingd00foxc",
+   "God the judge, putting down one, and setting up another : a sermon upon occasion of the death of our late sovereign lord King George, and the accession of His present majesty, King George, II, to the British throne (Boston in New England : Printed for S. Gerrish, at the lower end of Cornhil, 1727)"
+  ],
+  "foxcroft-observations": [
+   "bim_eighteenth-century_observations-historical-_foxcroft-thomas_1730",
+   "Observations historical and practical on the rise and primitive state of New-England. With a special reference to the old or first gather'd church in Boston. A sermon preach'd ... Aug.23. 1730. By Thomas Foxcroft. A. M.  1730 (catalogued 1730)"
+  ],
+  "foxcroft-deacons": [
+   "bim_eighteenth-century_the-divine-right-of-deac_foxcroft-thomas_1731",
+   "The divine right of deacons. A sermon preach'd on occasion of the ordination of Mr. Zechariah Thayer, ... May 23, 1731. By Thomas Foxcroft, ...  1731 (catalogued 1731)"
+  ],
+  "foxcroft-evangelic-preaching": [
+   "someseasonableth00foxc",
+   "Some seasonable thoughts on evangelic preaching; its nature, usefulness, and obligation. A sermon deliver'd (in part) at the Old-Church-lecture in Boston, Thursday, Oct. 23. 1740. To a numerous audience. Occasion'd by the late visit, and uncommon labours, in daily and powerful preaching, of the Rev. Mr. Whitefield.--The brother, whose praise is in the Gospel, throughout all the churches. By Thomas Fo[xcroft] (Printed by G. Rogers and D. Fo[wle] for S. Elio, 1740)"
+  ],
+  "foxcroft-whitefield": [
+   "bim_eighteenth-century_an-apology-in-behalf-of-_foxcroft-thomas_1745",
+   "An apology in behalf of the Revd Mr. Whitefield: offering a fair solution of certain difficulties, objected against some parts of his public conduct, in point of moral honesty, and uniformity as ... set forth in a late pamphlet, intitled, A letter to the Reverend Mr. George Whitefield, publickly calling upon him to vindicate his conduct,  1745 (catalogued 1745)"
+  ],
+  "foxcroft-humble-inquiry": [
+   "anhumbleinquiry00foxcgoog",
+   "An humble inquiry into the rules of the Word of God, concerning the qualifications requisite to a compleat [sic] standing and full communion in the visible Christian church (Boston: Printed & sold by S. Kneeland in Queenstreet, 1749)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "foxcroft-other": "Other single sermons (1729-1760); the Artillery Company records (another body)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "foxcroft-gospel-ministry": {
+   "author": "title page read from the page image: 'A Practical Discourse relating to the Gospel-Ministry. Preach'd by Thomas Foxcroft, A.M. at his ordination to the office of Pastor of a Church in Boston, on Wednesday, November 20. 1717 ... Boston, 1718' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'A Practical Discourse relating to the Gospel-Ministry. Preach'd by Thomas Foxcroft, A.M. at his ordination to the office of Pastor of a Church in Boston, on Wednesday, November 20. 1717 ... Boston, 1718' (OCR of the scan is unreadable)"
+  },
+  "foxcroft-god-the-judge": {
+   "author": "title page read from the page image: half-title 'Mr. Foxcroft's Sermon on the Death of His late Majesty King George, &c.' (1727) (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: half-title 'Mr. Foxcroft's Sermon on the Death of His late Majesty King George, &c.' (1727) (OCR of the scan is unreadable)"
+  },
+  "foxcroft-observations": {
+   "author": "title page read from the page image: half-title 'Mr. Foxcroft's Sermon on the Beginning of New-England &c.' (1730) (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: half-title 'Mr. Foxcroft's Sermon on the Beginning of New-England &c.' (1730) (OCR of the scan is unreadable)"
+  },
+  "foxcroft-deacons": {
+   "author": "title page read from the page image: half-title 'Mr. Foxcroft's Sermon at the Ordination of a Deacon' (1731) (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: half-title 'Mr. Foxcroft's Sermon at the Ordination of a Deacon' (1731) (OCR of the scan is unreadable)"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "foxcroft-gospel-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1718",
+   "ia_date": "1718",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "foxcroft-god-the-judge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "foxcroft-observations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1730",
+   "ia_date": "1730",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "foxcroft-deacons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1731",
+   "ia_date": "1731",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "foxcroft-evangelic-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas foxcroft",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "foxcroft-whitefield": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas foxcroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "foxcroft-humble-inquiry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas foxcroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

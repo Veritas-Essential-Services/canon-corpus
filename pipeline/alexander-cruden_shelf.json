@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Alexander Cruden (1699-1770), the Aberdeen bookseller whose concordance became the standard English Bible index, for the Word Hoard: A Complete Concordance to the Holy Scriptures in the fourth edition (1785), the tenth (1824) and the ninth with Alexander Chalmers's life of the author (1838), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cruden"
+ ],
+ "_surname": [
+  "alexander cruden",
+  "cruden"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cruden-concordance-1785": [
+   "b28747781",
+   "A Complete Concordance to the Holy Scriptures of the Old and New Testament, the fourth edition, carefully corrected (London: J. Buckland, J. F. and C. Rivington and others, 1785)"
+  ],
+  "cruden-concordance-1824": [
+   "complet0crud",
+   "A Complete Concordance to the Holy Scriptures, the tenth edition (London: Thomas Tegg; William Baynes & Son, 1824)"
+  ],
+  "cruden-concordance-1838": [
+   "cu31924029270878",
+   "A Complete Concordance to the Holy Scriptures, the ninth edition, with a life of the author by Alexander Chalmers (London: Longman and others, 1838)"
+  ]
+ },
+ "_alternates": {
+  "cruden-copies": "Philadelphia 1830 (from the tenth London edition); Warne's editions with Youngman's memoir (1868, 1891, 1893); the 1738 first edition and 1769 third (title pages illegible)"
+ },
+ "_excluded": {
+  "cruden-later": "Copies with impossible catalogue dates (a Warne Student's Edition catalogued 1737; an RTS and a Morgan & Scott edition); Winston, Zondervan and Lutterworth printings from 1930 on"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cruden-concordance-1785": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander cruden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "1785",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cruden-concordance-1824": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander cruden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cruden-concordance-1838": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander cruden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

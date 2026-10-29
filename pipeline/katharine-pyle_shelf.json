@@ -1,5 +1,5 @@
 {
- "_about": "Katharine Pyle's fairy and folk tales retold for children: The Counterpane Fairy (Dutton, copyright 1898), As the Goose Flies (copyright 1901), Fairy Tales from Many Lands (copyright 1911), Mother's Nursery Tales (copyright 1918), Tales of Folk and Fairies (copyright 1919; a 1929 printing), Wonder Tales from Many Lands (first published August 1920), Fairy Tales from Far and Near (copyright 1922). Her verses in Howard Pyle's Wonder Clock stay on the pyle shelf. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Katharine Pyle's fairy and folk tales retold for children: The Counterpane Fairy (Dutton, copyright 1898), As the Goose Flies (copyright 1901), Fairy Tales from Many Lands (copyright 1911), Mother's Nursery Tales (copyright 1918), Tales of Folk and Fairies (copyright 1919; a 1929 printing), Wonder Tales from Many Lands (first published August 1920), Fairy Tales from Far and Near (copyright 1922). Her verses in Howard Pyle's Wonder Clock stay on the pyle shelf. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Katharine Pyle at Gutenberg was added (6 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto).",
  "_author": "Katharine Pyle",
  "_name_words": [
   "pyle"
@@ -86,6 +86,33 @@
     "start": "LITTLE\\ SURYA\\ BAI\\.?$",
     "front": true
    }
+  ],
+  "katharine-careless-jane-and-other-tales": [
+   24167,
+   "Careless Jane and Other Tales"
+  ],
+  "katharine-lazy-matilda-and-other-tales": [
+   47283,
+   "Lazy Matilda, and Other Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "katharine-six-little-ducklings": [
+   48350,
+   "Six Little Ducklings"
+  ],
+  "katharine-three-little-kittens": [
+   48420,
+   "Three Little Kittens"
+  ],
+  "katharine-once-upon-a-time-in-delaware": [
+   48976,
+   "Once Upon a Time in Delaware (ed. Emily P. Bissell)"
+  ],
+  "katharine-black-eyed-puppy": [
+   62551,
+   "The Black-Eyed Puppy"
   ]
  },
  "internet_archive": {},
@@ -93,7 +120,7 @@
  "_checks": {
   "katharine-pyle-counterpane-fairy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "katharine pyle",
    "identity": "ok",
@@ -102,7 +129,7 @@
   },
   "katharine-pyle-as-the-goose-flies": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "katharine pyle",
    "identity": "ok",
@@ -111,7 +138,7 @@
   },
   "katharine-pyle-fairy-tales-from-many-lands": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "katharine pyle",
    "identity": "ok",
@@ -120,7 +147,7 @@
   },
   "katharine-pyle-mothers-nursery-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "katharine pyle",
    "identity": "ok",
@@ -129,7 +156,7 @@
   },
   "katharine-pyle-tales-of-folk-and-fairies": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "katharine pyle",
    "identity": "ok",
@@ -138,7 +165,7 @@
   },
   "katharine-pyle-wonder-tales-from-many-lands": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "katharine pyle",
    "identity": "ok",
@@ -147,7 +174,61 @@
   },
   "katharine-pyle-fairy-tales-from-far-and-near": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-careless-jane-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-lazy-matilda-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-six-little-ducklings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-three-little-kittens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-once-upon-a-time-in-delaware": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-black-eyed-puppy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "katharine pyle",
    "identity": "ok",

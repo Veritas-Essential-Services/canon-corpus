@@ -1,0 +1,52 @@
+{
+ "_about": "Mary Eastman's Dahcotah; or, Life and Legends of the Sioux around Fort Snelling (1849), with a preface by Mrs. C. M. Kirkland. Gutenberg catalogue: Eastman 1818-1887. Not the Charles A. Eastman of the eastman shelf. The title page adds illustrations from drawings by Captain Eastman (not in the text). Its terms for the Dakota are of its time. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Mary H. Eastman",
+ "_name_words": [
+  "dahcotah"
+ ],
+ "_surname": [
+  "mary eastman",
+  "mary h. eastman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "meastman-dahcotah": [
+   10794,
+   "Dahcotah: Life and Legends of the Sioux Around Fort Snelling",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION\\.|PRELIMINARY\\ REMARKS|DAHCOTAH;|MOCK\\-PE\\-EN\\-DAG\\-A\\-WIN:|RED\\ EARTH;|WENONA;|THE\\ DAHCOTAH\\ CONVERT\\.|WABASHAW\\.|SHAH\\-CO\\-PEE;|OYE\\-KAR\\-MANI\\-VIM;|ETA\\ KEAZAH;|TONWA\\-YAH\\-PE\\-KIN;|THE\\ MAIDEN'S\\ ROCK;|OECHE\\-MONESAH;|TAH\\-WE\\-CHU\\-KIN;|WAH\\-ZEE\\-YAH|STORMS\\ IN\\ LIFE\\ AND\\ NATURE;|HAOKAH\\ OZAPE;|U\\-MI\\-NE\\-WAH\\-CHIPPE;)$",
+      "max": 120,
+      "strip": "[;:.,]$"
+     },
+     {
+      "re": "(?:THE\\ LEGENDS\\ OF\\ THE\\ SIOUX\\.|MOCKA\\-DOOTA\\-WIN\\.|THE\\ VIRGIN'S\\ FEAST\\.|THE\\ ORATOR\\ OF\\ THE\\ SIOUX\\.|THE\\ TRACK\\-MAKER\\.|SULLEN\\ FACE\\.|THE\\ SPIES\\.|WENONA'S\\ LEAP\\.|THE\\ INDIAN\\ IN\\ A\\ TRANCE\\.|THE\\ WANDERER\\.|THE\\ WIFE\\.|EXPLANATION\\ OF\\ THE\\ DRAWING\\.|ANOTHER\\ OF\\ THE\\ GIANT\\ GODS\\ OF\\ THE\\ DAHCOTAHS\\.|UNKTAHE\\ AND\\ THE\\ THUNDER\\ BIRD|THE\\ DANCE\\ TO\\ THE\\ GIANT|TO\\ DANCE\\ AROUND\\.|THE\\ CUSTOMS\\ OF\\ THE\\ DAHCOTAHS\\.|INDIAN\\ WRITING\\.|GODS\\ OF\\ THE\\ DAHCOTAHS\\.)$|(?:INDIAN DOCTORS|INDIAN NAMES AND WRITING|INDIAN CHILDREN)\\.$",
+      "max": 120,
+      "strip": "[;:.,]$"
+     },
+     {
+      "re": "CHAPTER [IVX]+\\.$",
+      "strip": "\\.$",
+      "number_repeats": true
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "meastman-dahcotah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary eastman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

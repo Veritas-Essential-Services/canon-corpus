@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Stephen Farley (1779-1851), Congregational minister of Claremont, New Hampshire, for the Word Hoard: his sermon on the death of Abijah Wines and Discourses and Essays on Theological and Speculative Topics. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 99 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "stephen farley",
+  "s. farley"
+ ],
+ "_surname": [
+  "stephen farley",
+  "s. farley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "farley-abijah-wines": [
+   "sermonondeathre00farlgoog",
+   "Sermon on the Death of Rev. Abijah Wines who Died Feb. 11, 1833, Delivered on the Following (John Caldwell, 1834)"
+  ],
+  "farley-discourses-essays": [
+   "discoursesessays00farl",
+   "Discourses and essays on theological and speculative topics (Boston : Farley, 1851)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "farley-abijah-wines": "Title page (OCR): 'Sermon on the Death of Rev. Abijah Wines, late of Newport, N. H., who died Feb. 11... 1833... delivered in Rev. Mr Sawyer's meeting house, Amesbury, Mass.... With a Memoir. By Stephen Farley, A. M. Amesbury: Printed by John Caldwell. 1834.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "farley-abijah-wines": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "farley-discourses-essays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen farley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

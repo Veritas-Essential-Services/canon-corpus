@@ -1,5 +1,5 @@
 {
- "_about": "Washington Irving's legends and tales: The Sketch-Book (Rip Van Winkle, The Legend of Sleepy Hollow; undated in the text), Tales of a Traveller (undated in the text), The Alhambra (the revised edition, Fulton Edition, Century Co., 1910) and Legends of the Conquest of Spain (London: John Murray, MDCCCXXXVI on its title page; its preface sits in the front matter). His histories and biographies are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Washington Irving's legends and tales: The Sketch-Book (Rip Van Winkle, The Legend of Sleepy Hollow; undated in the text), Tales of a Traveller (undated in the text), The Alhambra (the revised edition, Fulton Edition, Century Co., 1910) and Legends of the Conquest of Spain (London: John Murray, MDCCCXXXVI on its title page; its preface sits in the front matter). His histories and biographies are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Washington Irving at Gutenberg was added (18 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Washington Irving",
  "_name_words": [
   "irving"
@@ -50,17 +50,102 @@
     "start": "THE LEGEND OF DON RODERICK\\.$",
     "front": true
    }
+  ],
+  "irving-legend-of-sleepy-hollow": [
+   41,
+   "The Legend of Sleepy Hollow"
+  ],
+  "irving-little-britain": [
+   877,
+   "Little Britain"
+  ],
+  "irving-astoria": [
+   1371,
+   "Astoria; Or, Anecdotes of an Enterprise Beyond the Rocky Mountains"
+  ],
+  "irving-adventures-of-captain-bonneville-u-s-a-in-the-rocky-m": [
+   1372,
+   "The Adventures of Captain Bonneville, U. S. A., in the Rocky Mountains and the Far West (from the journals of Captain Bonneville)"
+  ],
+  "irving-chronicle-of-the-conquest-of-granada-from-the-mss-of": [
+   3293,
+   "Chronicle of the Conquest of Granada, from the mss. of Fray Antonio Agapida"
+  ],
+  "irving-life-of-george-washington-volume-1-of-5": [
+   7002,
+   "Life of George Washington, volume 1 of 5"
+  ],
+  "irving-abbotsford-and-newstead-abbey": [
+   7948,
+   "Abbotsford and Newstead Abbey"
+  ],
+  "irving-oliver-goldsmith": [
+   7993,
+   "Oliver Goldsmith: A Biography"
+  ],
+  "irving-crayon-papers": [
+   7994,
+   "The Crayon Papers"
+  ],
+  "irving-life-and-voyages-of-christopher-columbus-volume-ii": [
+   8519,
+   "The Life and Voyages of Christopher Columbus (Volume II)",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "irving-wolferts-roost-and-miscellanies": [
+   8571,
+   "Wolfert's Roost, and Miscellanies"
+  ],
+  "irving-knickerbockers-history-of-new-york-complete": [
+   13042,
+   "Knickerbocker's History of New York, Complete"
+  ],
+  "irving-bracebridge-hall-or-the-humorists": [
+   13515,
+   "Bracebridge Hall, or The Humorists"
+  ],
+  "irving-spanish-papers": [
+   50352,
+   "Spanish Papers"
+  ],
+  "irving-life-of-george-washington-volume-2-of-5": [
+   76805,
+   "Life of George Washington, volume 2 of 5"
+  ],
+  "irving-life-of-george-washington-volume-3-of-5": [
+   77704,
+   "Life of George Washington, volume 3 of 5"
+  ],
+  "irving-life-of-george-washington-volume-4-of-5": [
+   77882,
+   "Life of George Washington, volume 4 of 5"
+  ],
+  "irving-salmagundi": [
+   77926,
+   "Salmagundi (with William Irving and James Kirke Paulding)"
   ]
  },
  "internet_archive": {},
  "_excluded": {
   "irving-alhambra-pennell": "PG 49872, the Alhambra with Pennell's illustrations (1896); 66% of its long paragraphs are in PG 49947; held once as the same work",
-  "irving-sketch-book-parts": "PG 41 (The Legend of Sleepy Hollow), 60976 and 64636 (Rip Van Winkle), and 1850, 20656, 64092 and 52361 (Irving's Christmas chapters): illustrated separate printings of pieces in The Sketch-Book, matched by title; 35-82% of their long paragraphs match PG 2048 at the start of the paragraph (not checked further). Held once inside the Sketch-Book."
+  "irving-sketch-book-parts": "PG 41 (The Legend of Sleepy Hollow), 60976 and 64636 (Rip Van Winkle), and 1850, 20656, 64092 and 52361 (Irving's Christmas chapters): illustrated separate printings of pieces in The Sketch-Book, matched by title; 35-82% of their long paragraphs match PG 2048 at the start of the paragraph (not checked further). Held once inside the Sketch-Book.",
+  "irving-repeats": "PG 14228 is a second Bracebridge Hall; PG 77921 and 78730 are volumes of the Knickerbocker History held whole (PG 13042)",
+  "irving-students-washington": "PG 32987, The Student's Life of Washington, is a later school condensation by another hand",
+  "irving-index": "PG 58172 is David Widger's index, not a text"
  },
  "_checks": {
   "irving-sketch-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "washington irving",
    "identity": "ok",
@@ -69,7 +154,7 @@
   },
   "irving-tales-of-a-traveller": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "washington irving",
    "identity": "ok",
@@ -78,7 +163,7 @@
   },
   "irving-alhambra": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "washington irving",
    "identity": "ok",
@@ -87,7 +172,169 @@
   },
   "irving-legends-of-the-conquest-of-spain": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-legend-of-sleepy-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-little-britain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-astoria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-adventures-of-captain-bonneville-u-s-a-in-the-rocky-m": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-chronicle-of-the-conquest-of-granada-from-the-mss-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-life-of-george-washington-volume-1-of-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-abbotsford-and-newstead-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-oliver-goldsmith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-crayon-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-life-and-voyages-of-christopher-columbus-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-wolferts-roost-and-miscellanies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-knickerbockers-history-of-new-york-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-bracebridge-hall-or-the-humorists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-spanish-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-life-of-george-washington-volume-2-of-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-life-of-george-washington-volume-3-of-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-life-of-george-washington-volume-4-of-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-salmagundi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "washington irving",
    "identity": "ok",

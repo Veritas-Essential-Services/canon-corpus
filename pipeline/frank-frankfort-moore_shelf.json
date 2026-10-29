@@ -1,0 +1,241 @@
+{
+ "_about": "F. Frankfort Moore's novels",
+ "_author": "F. Frankfort Moore",
+ "_name_words": [
+  "moore"
+ ],
+ "_surname": [
+  "frank frankfort moore"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ffmoore-phyllis-of-philistia": [
+   2155,
+   "Phyllis of Philistia"
+  ],
+  "ffmoore-a-nest-of-linnets": [
+   47195,
+   "A Nest of Linnets"
+  ],
+  "ffmoore-fannys-first-novel": [
+   51922,
+   "Fanny's First Novel"
+  ],
+  "ffmoore-impudent-comedian-others": [
+   51923,
+   "The Impudent Comedian, & Others"
+  ],
+  "ffmoore-lighter-side-of-english-life": [
+   51927,
+   "The Lighter Side of English Life"
+  ],
+  "ffmoore-daireen-complete": [
+   51938,
+   "Daireen. Complete"
+  ],
+  "ffmoore-a-garden-of-peace": [
+   51940,
+   "A Garden of Peace: A Medley in Quietude"
+  ],
+  "ffmoore-a-gray-eye-or-so-in-three-volumes-volume-i-ii-and-ii": [
+   51947,
+   "A Gray Eye or So. In Three Volumes—Volume I, II and III: Complete"
+  ],
+  "ffmoore-jessamy-bride": [
+   51951,
+   "The Jessamy Bride"
+  ],
+  "ffmoore-a-journalists-note-book": [
+   51952,
+   "A Journalist's Note-Book"
+  ],
+  "ffmoore-other-world": [
+   51963,
+   "The Other World"
+  ],
+  "ffmoore-a-georgian-pageant": [
+   51964,
+   "A Georgian Pageant"
+  ],
+  "ffmoore-according-to-plato": [
+   51969,
+   "According to Plato"
+  ],
+  "ffmoore-love-that-prevailed": [
+   51971,
+   "The Love That Prevailed"
+  ],
+  "ffmoore-priscilla-and-charybdis": [
+   51972,
+   "Priscilla and Charybdis: A Story of Alternatives"
+  ],
+  "ffmoore-well-after-all": [
+   51988,
+   "Well, After All--"
+  ],
+  "ffmoore-discovering-evelina": [
+   59273,
+   "Discovering \"Evelina\": An Old-fashioned Romance A Companion Book to \"The Jessamy Bride\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 51936, 51937: the complete edition of each is on the shelf instead.",
+  "pg-51944": "PG 51944, 51945, 51946: Gutenberg's split-part files of A Gray Eye or So; the complete edition (PG 51947) is on the shelf."
+ },
+ "_checks": {
+  "ffmoore-phyllis-of-philistia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-a-nest-of-linnets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-fannys-first-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-impudent-comedian-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-lighter-side-of-english-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-daireen-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-a-garden-of-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-a-gray-eye-or-so-in-three-volumes-volume-i-ii-and-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-jessamy-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-a-journalists-note-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-other-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-a-georgian-pageant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-according-to-plato": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-love-that-prevailed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-priscilla-and-charybdis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-well-after-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffmoore-discovering-evelina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank frankfort moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

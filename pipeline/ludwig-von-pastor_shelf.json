@@ -1,0 +1,358 @@
+{
+ "_about": "Public-domain Ludwig von Pastor (1854-1928, Innsbruck historian, Austrian envoy to the Holy See) in English for the Word Hoard: The History of the Popes from the Close of the Middle Ages, vols 1-18 (1891-1929), edited from the German by Frederick Ignatius Antrobus (vols 1-6) and Ralph Francis Kerr (vols 7-18), from Internet Archive scans. Vols 19 onward were printed from 1930 and are left out. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pastor"
+ ],
+ "_surname": [
+  "pastor",
+  "ludwig pastor",
+  "von pastor"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pastor-history-popes-1": [
+   "historyofpopesfr01past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 1, ed. Frederick Ignatius Antrobus (London: John Hodges, 1891)"
+  ],
+  "pastor-history-popes-2": [
+   "historyofpopesfr02past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 2, ed. Frederick Ignatius Antrobus (London: John Hodges, 1891)"
+  ],
+  "pastor-history-popes-3": [
+   "historyofpopesfr0399past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 3, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1894)"
+  ],
+  "pastor-history-popes-4": [
+   "historyofpopesfr0499past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 4, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1894)"
+  ],
+  "pastor-history-popes-5": [
+   "historyofpopesfr05pastuoft",
+   "The History of the Popes from the Close of the Middle Ages, vol. 5, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1898)"
+  ],
+  "pastor-history-popes-6": [
+   "historyofpopesfr06pastuoft",
+   "The History of the Popes from the Close of the Middle Ages, vol. 6, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1898)"
+  ],
+  "pastor-history-popes-7": [
+   "historyofpopesf07past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 7, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1908)"
+  ],
+  "pastor-history-popes-8": [
+   "historyofpopesf08past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 8, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1908)"
+  ],
+  "pastor-history-popes-9": [
+   "historyofpopesf09past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 9, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1910)"
+  ],
+  "pastor-history-popes-10": [
+   "historyofpopesf10past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 10, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1910)"
+  ],
+  "pastor-history-popes-11": [
+   "historyofpopesf11past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 11, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1912)"
+  ],
+  "pastor-history-popes-12": [
+   "historyofpopesf12past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 12, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1912)"
+  ],
+  "pastor-history-popes-13": [
+   "historyofpopesf13past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 13, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1924)"
+  ],
+  "pastor-history-popes-14": [
+   "historyofpopesf14past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 14, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1924)"
+  ],
+  "pastor-history-popes-15": [
+   "historyofpopesf15past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 15, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1928)"
+  ],
+  "pastor-history-popes-16": [
+   "historyofpopesf16past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 16, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1928)"
+  ],
+  "pastor-history-popes-17": [
+   "historyofpopesf17past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 17, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1929)"
+  ],
+  "pastor-history-popes-18": [
+   "historyofpopesf18past",
+   "The History of the Popes from the Close of the Middle Ages, vol. 18, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1929)"
+  ]
+ },
+ "_alternates": {
+  "pastor-copies": "Second and third editions of vols 1-12 (1899-1923); St. Louis Herder issues"
+ },
+ "_excluded": {
+  "pastor-1930": "Vols 19-40 (1930-1953) and post-1929 reprints of earlier volumes",
+  "pastor-wrong": "Cotton's Fasti Ecclesiae Hibernicae, catalogued under Pastor; French and German editions"
+ },
+ "_rights_checked": {
+  "pastor-history-popes-1": "title page read: 'EDITED BY FREDERICK IGNATIUS ANTROBUS, of the Oratory' (the title page says edited, not translated; the publisher's notice says 'Translated from the German ... and edited by' him); vols 7-18 likewise name Ralph Francis Kerr as editor",
+  "pastor-history-popes-17": "title page read: Kegan Paul, 1929; vols 17-18 are the last printed before 1930"
+ },
+ "_pending": {},
+ "_translators": {
+  "pastor-history-popes-1": "antrobus",
+  "pastor-history-popes-2": "antrobus",
+  "pastor-history-popes-3": "antrobus",
+  "pastor-history-popes-4": "antrobus",
+  "pastor-history-popes-5": "antrobus",
+  "pastor-history-popes-6": "antrobus",
+  "pastor-history-popes-7": "kerr",
+  "pastor-history-popes-8": "kerr",
+  "pastor-history-popes-9": "kerr",
+  "pastor-history-popes-10": "kerr",
+  "pastor-history-popes-11": "kerr",
+  "pastor-history-popes-12": "kerr",
+  "pastor-history-popes-13": "kerr",
+  "pastor-history-popes-14": "kerr",
+  "pastor-history-popes-15": "kerr",
+  "pastor-history-popes-16": "kerr",
+  "pastor-history-popes-17": "kerr",
+  "pastor-history-popes-18": "kerr"
+ },
+ "_checks": {
+  "pastor-history-popes-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "antrobus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'EDITED BY FREDERICK IGNATIUS ANTROBUS, of the Oratory' (the title page says edited, not translated; the publisher's notice says 'Translated from the German ... and edited by' him); vols 7-18 likewise name Ralph Francis Kerr as editor"
+  },
+  "pastor-history-popes-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "antrobus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pastor-history-popes-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "antrobus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "antrobus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "antrobus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pastor-history-popes-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "antrobus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pastor-history-popes-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-12": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-13": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-14": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-15": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-16": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pastor-history-popes-17": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Kegan Paul, 1929; vols 17-18 are the last printed before 1930"
+  },
+  "pastor-history-popes-18": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pastor",
+   "translator_claimed": "kerr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

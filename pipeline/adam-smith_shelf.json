@@ -1,0 +1,44 @@
+{
+ "_about": "Adam Smith (1723-1790), from Project Gutenberg. The Wealth of Nations is held elsewhere (the Adler shelf and the reading-lists shelf smith-wealth) and is not taken again. Here: The Theory of Moral Sentiments, 6th ed., with the Dissertation on the Origin of Languages (Dublin: J. Beatty and C. Jackson, 1777), and The Essays of Adam Smith (London: Alex. Murray, 1872), which gathers the Moral Sentiments, the Languages essay and the posthumous Essays on Philosophical Subjects edited by Joseph Black and James Hutton. US public domain. No uids minted.",
+ "_author": "Adam Smith",
+ "_name_words": [
+  "adam",
+  "smith"
+ ],
+ "_surname": [
+  "adam smith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "smith-moral-sentiments-1777": [
+   67363,
+   "The Theory of Moral Sentiments, 6th ed., to which is added a Dissertation on the Origin of Languages (Dublin: J. Beatty and C. Jackson, 1777)"
+  ],
+  "smith-essays-1872": [
+   58559,
+   "The Essays of Adam Smith (London: Alex. Murray, 1872)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "smith-moral-sentiments-1777": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adam smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smith-essays-1872": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adam smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

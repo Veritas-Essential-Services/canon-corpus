@@ -1,5 +1,5 @@
 {
- "_about": "Every public-domain C. H. Spurgeon (1834-1892) text the Word Hoard holds. CCEL ThML (clean) for the sermons, 63 volumes (1855-1917, the New Park Street and Metropolitan Tabernacle Pulpit as CCEL issues them), and seven other CCEL works. The Treasury of David is NOT taken from CCEL: CCEL's treasury1-6 XML files are stubs (about 4 KB of text each; the psalms live on separate web pages), so it is held as Internet Archive OCR of the seven-volume American printing (Funk & Wagnalls, 1882-1886), assembled from two scan series, each volume identified by the psalm range on its title page. Raw and unconverted. Gutenberg Spurgeon titles were not searched this burn.",
+ "_about": "Every public-domain C. H. Spurgeon (1834-1892) text the Word Hoard holds. CCEL ThML (clean) for the sermons, 63 volumes (1855-1917, the New Park Street and Metropolitan Tabernacle Pulpit as CCEL issues them), and seven other CCEL works. The Treasury of David is NOT taken from CCEL: CCEL's treasury1-6 XML files are stubs (about 4 KB of text each; the psalms live on separate web pages), so it is held as Internet Archive OCR of the seven-volume American printing (Funk & Wagnalls, 1882-1886), assembled from two scan series, each volume identified by the psalm range on its title page. Raw and unconverted. Added 2026-10-10 (round 17, from the Classical reading-lists thread's pickups): Lectures to My Students (first and second series, 1875-77; the third, The Art of Illustration, from Gutenberg), The Soul-Winner (1895), Around the Wicket Gate, Talks to Farmers and Gleanings among the Sheaves. John Ploughman's Talk was not found in a pre-1930 scan or on Gutenberg in this round's search. Extended 2026-10-28 by lane A at Adam's request (his Logos author list): the four-volume Autobiography compiled from his diary and letters by his wife and secretary (1897-1900), The Saint and His Saviour, Feathers for Arrows, John Ploughman's Talk and Pictures, The Salt-Cellars, My Sermon Notes (four volumes), Eccentric Preachers, The Gospel of the Kingdom, the sermon collections he issued as books (Types and Emblems, Trumpet Calls, The Present Truth, Storm Signals, Farm Sermons, Messages to the Multitude and others; some of these sermons also stand in the Metropolitan Tabernacle Pulpit), his Prayers (1905) and his Letters (1923). Every printing dated before 1930.",
  "_ccel_author": "s/spurgeon",
  "_name_words": [
   "spurgeon"
@@ -360,7 +360,24 @@
    ""
   ]
  },
- "gutenberg": {},
+ "gutenberg": {
+  "spurgeon-around-wicket-gate": [
+   "60669",
+   "Around the Wicket Gate"
+  ],
+  "spurgeon-art-of-illustration": [
+   "42558",
+   "The Art of Illustration (Lectures to My Students, third series)"
+  ],
+  "spurgeon-talks-to-farmers": [
+   "42518",
+   "Talks to Farmers"
+  ],
+  "spurgeon-gleanings-sheaves": [
+   "42657",
+   "Gleanings among the Sheaves"
+  ]
+ },
  "internet_archive": {
   "spurgeon-treasury-david-1": [
    "treasurydavidco08spurgoog",
@@ -389,6 +406,154 @@
   "spurgeon-treasury-david-7": [
    "treasuryofdavidc0007spur",
    "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 7: Psalms 125-150"
+  ],
+  "spurgeon-lectures-1-1875": [
+   "lecturestomystu00spuruoft",
+   "Lectures to My Students, first series (London: Passmore and Alabaster, 1875)"
+  ],
+  "spurgeon-lectures-2-1877": [
+   "1877secondseries00spur",
+   "Second Series of Lectures to My Students (London: Passmore and Alabaster, 1877)"
+  ],
+  "spurgeon-soul-winner-1895": [
+   "soulwinnerorhowt00spur",
+   "The Soul-Winner; or, How to Lead Sinners to the Saviour (New York: Fleming H. Revell, copyright 1895)"
+  ],
+  "spurgeon-autobiography-1": [
+   "spurgeonsautobio01spuruoft",
+   "C.H. Spurgeon's autobiography. Compiled from his diary, letters, and records, vol. 1 (London Passmore and Alabaster, 1897)"
+  ],
+  "spurgeon-autobiography-2": [
+   "spurgeonsautobio02spuruoft",
+   "C.H. Spurgeon's autobiography. Compiled from his diary, letters, and records, vol. 2 (London Passmore and Alabaster, 1897)"
+  ],
+  "spurgeon-autobiography-3": [
+   "spurgeonsautobio03spuruoft",
+   "C.H. Spurgeon's autobiography. Compiled from his diary, letters, and records, vol. 3 (London Passmore and Alabaster, 1897)"
+  ],
+  "spurgeon-autobiography-4": [
+   "spurgeonsautobio04spuruoft",
+   "C.H. Spurgeon's autobiography. Compiled from his diary, letters, and records, vol. 4 (London Passmore and Alabaster, 1897)"
+  ],
+  "spurgeon-saint-and-saviour": [
+   "sainthissaviouro00spur",
+   "The saint and his Saviour; or, The progress of the soul in the knowledge of Jesus (New York : Sheldon, Blakeman ; Boston : Gould & Lincoln, 1857)"
+  ],
+  "spurgeon-feathers-for-arrows": [
+   "feathersforarro00spurgoog",
+   "Feathers for arrows : or, Illustrations for preachers and teachers, from my note book (New York : Fleming H. Revell, 1870)"
+  ],
+  "spurgeon-types-emblems": [
+   "typesemblemsbein00spur",
+   "Types and emblems : being a collection of sermons preached on Sunday and Thursday evenings at the Metropolitan Tabernacle (New York : Sheldon, 1870)"
+  ],
+  "spurgeon-trumpet-calls": [
+   "trumpetcallstoch00spur",
+   "Trumpet calls to Christian energy : being a collection of sermons preached on Sunday and Thursday evenings at the Metropolitan Tabernacle / by C.H. Spurgeon (London : Passmore, 1875)"
+  ],
+  "spurgeon-matchless-mystery": [
+   "matchlessmystery00spur",
+   "The matchless mystery and other sermons. Together with complete indexes of the texts and subjects of the entire fourteen volumes of the American edition of his works (New York : Sheldon, 1878)"
+  ],
+  "spurgeon-bible-newspaper": [
+   "bibleandnewspap00spurgoog",
+   "The Bible and the newspaper (catalogued 1878)"
+  ],
+  "spurgeon-eccentric-preachers": [
+   "eccentricpreach00spurgoog",
+   "Eccentric preachers (catalogued 1879)"
+  ],
+  "spurgeon-farm-sermons": [
+   "farmsermons00spurgoog",
+   "Farm sermons (Passmore & Alabaster, 1882)"
+  ],
+  "spurgeon-present-truth": [
+   "presenttruthcoll00spur",
+   "The present truth : a collection of sermons preached at the Metropolitan Tabernacle (New York: R. Carter, 1883)"
+  ],
+  "spurgeon-illustrations-meditations": [
+   "illustrationsmed00spur",
+   "Illustrations and meditations; or, Flowers from a Puritan's garden, distilled and dispensed (London, Passmore & Alabaster, 1883)"
+  ],
+  "spurgeon-hands-full-honey": [
+   "handsfullofhoney00spur",
+   "Hands full of honey : and other sermons preached in 1883 (New York : R. Carter, 1884)"
+  ],
+  "spurgeon-storm-signals": [
+   "stormsignalsbein00spur",
+   "Storm signals : being a collection of sermons preached on Sunday and Thursday evenings at the Metropolitan Tabernacle (London : Passmore and Alabaster, 1885)"
+  ],
+  "spurgeon-sermon-notes-1": [
+   "sermonnotesasele01spuruoft",
+   "My sermon notes : selection from outlines of discourses delivered at the Metropolitan tabernacle : from Genesis to Proverbs -- I-LX, vol. 1 (New York ; London : Funk & Wagnalls Co, 1884)"
+  ],
+  "spurgeon-sermon-notes-2": [
+   "mysermonnotessel02spuruoft",
+   "My sermon-notes : a selection from outlines of discourses delivered at the Metropolitan Taberbacle : from Ecclesiastes to Malachi LXV to CXXIX, vol. 2 (New York : Funk & Wagnals, [188)"
+  ],
+  "spurgeon-sermon-notes-3": [
+   "mysermonnotes00spuruoft",
+   "My sermon-notes : a selection from outlines of discourses delivered at the Metropolitan Tabernacle, with anecdotes and illustrations : from Matthew to Acts - CXXX to CXCV (New York : Funk & Wagnalls, 1886)"
+  ],
+  "spurgeon-sermon-notes-4": [
+   "sermonnotesasele00spuruoft",
+   "My sermon notes : a selection from outlines of discourses delivered at the Metropolitan Taberbacle : from Romans to Revelation - CXCVI to CCLXIV (New York : Funk & Wagnalls, 1888)"
+  ],
+  "spurgeon-salt-cellars-1": [
+   "saltcellarsbein01spurgoog",
+   "The Salt-cellars: Being a Collection of Proverbs, Together with Homely Notes Theron, vol. 1 (Passmore and Alabaster, 1889)"
+  ],
+  "spurgeon-salt-cellars-2": [
+   "saltcellarsbein00spurgoog",
+   "The Salt-cellars: Being a Collection of Proverbs, Together with Homely Notes Theron, vol. 2 (Passmore and Alabaster, 1889)"
+  ],
+  "spurgeon-according-to-promise": [
+   "accordingtoprom00spurgoog",
+   "According to Promise; or, The Lord's Method of Dealing with His Chosen People (New York: Funk & Wagnalls, 1887)"
+  ],
+  "spurgeon-sermons-in-candles": [
+   "sermonsincandles00spur",
+   "Sermons in candles: two lectures upon the illustrations which may be found in common candles ([n.p.], 1891)"
+  ],
+  "spurgeon-messages-multitude": [
+   "messagestomultit00spuriala",
+   "Messages to the multitude : being ten representative sermons (London : Sampson Low, Marston, 1892)"
+  ],
+  "spurgeon-gospel-kingdom": [
+   "cu31924029340720",
+   "The gospel of the kingdom. A popular exposition of the Gospel according to Matthew (New York : The Baker & Taylor co., 1893)"
+  ],
+  "spurgeon-john-ploughmans-talk": [
+   "johnploughmansta00spur",
+   "John Ploughman's talk (Philadelphia, H. Altemus, 1896)"
+  ],
+  "spurgeon-john-ploughmans-pictures": [
+   "johnploughmanspi00spur",
+   "John Ploughman's pictures (Philadelphia : H. Altemus, 1896)"
+  ],
+  "spurgeon-barbed-arrows": [
+   "bwb_T3-CBT-118",
+   "Barbed arrows (fleming h. revell company, 1896)"
+  ],
+  "spurgeon-teachings-nature": [
+   "teachingsofnatur0000spur",
+   "Teachings of nature in the kingdom of grace (London : Passmore and Alabaster, 1896)"
+  ],
+  "spurgeon-christ-in-ot": [
+   "christinoldtesta00spur",
+   "Christ in the Old Testament : sermons on the foreshadowings of our Lord in Old Testament history, ceremony and prophecy (London : Passmore & Alabaster, 1899)"
+  ],
+  "spurgeon-only-prayer-meeting": [
+   "onlyprayermeetin0000chsp",
+   "Only A Prayer Meeting (catalogued 1901)"
+  ],
+  "spurgeon-prayers": [
+   "chspurgeonspraye00spur",
+   "C.H. Spurgeon's prayers (London, Passmore and Alabaster, 1905)"
+  ],
+  "spurgeon-letters": [
+   "lettersofcharles00spur",
+   "The letters of Charles Haddon Spurgeon (London ; New York [etc.] : Marshall brothers, limited, 1923)"
   ]
  },
  "_alternates": {
@@ -399,715 +564,898 @@
  "_excluded": {
   "CCEL spurgeon/treasury1..6, treasury-series": "stubs: contents pages only",
   "ch-spurgeon-the-treasury-of-david-in-one-volume*": "undated modern digitisation of uncertain edition",
-  "treasuryofdavid0000chsp, bwb_KU-197-561 (1908), isbn_0000052256_2": "later reprints; not needed"
+  "treasuryofdavid0000chsp, bwb_KU-197-561 (1908), isbn_0000052256_2": "later reprints; not needed",
+  "spurgeon-anthologies": "Gems from Spurgeon, Spurgeon's Gems, Spurgeon's Gold, Brilliants, Daily Help, The Wit and Wisdom, Illustrative Anecdotes, Smooth Stones (Brooks extracts), Anecdotes and Stories: selections made by others",
+  "spurgeon-sermon-reprints": "the Sermons of Rev. C. H. Spurgeon (Sheldon, 20 series), The Modern Whitfield, Twelve Sermons on ..., Our Lord's Parables, Our Lord's Passion and the single sermons: reprints of sermons held in the CCEL New Park Street and Metropolitan Tabernacle Pulpit",
+  "spurgeon-about-him": "From the Pulpit to the Palm-Branch, the Life and Works (Norton), Episodes and Anecdotes, the 1857 Sketch, and books by Gardner and Guthrie: about him or by others",
+  "spurgeon-magazine": "The Sword and the Trowel is a magazine with many contributors",
+  "spurgeon-x-dups": "other scans of the books added 2026-10-28, and the Evening by Evening and Cheque Book scans (CCEL holds Morning and Evening and Faith's Checkbook)",
+  "spurgeon-according-to-promise-reprint": "accordingtopro00spur: a Gospel Hour (Greenville, S.C.) reprint stamped 1999, catalogued as 1900; the 1887 scan is used instead"
  },
  "_pending": {
-  "Lectures to My Students; John Ploughman's Talk; The Soul Winner; Around the Wicket Gate; Gutenberg Spurgeon": "not searched this burn"
+  "Lectures to My Students; John Ploughman's Talk; The Soul Winner; Around the Wicket Gate; Gutenberg Spurgeon": "Lectures to My Students and The Soul Winner, Around the Wicket Gate and the Gutenberg titles are now on this shelf (round 17); John Ploughman's Talk was not found in a pre-1930 scan or on Gutenberg in this round's search",
+  "spurgeon-george-fox": "\"George Fox.\": An Address Delivered to the Society of Friends (H. Longstreth, 1867) (IA georgefoxanaddr00spurgoog): the Google scan's OCR never names him, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
  },
  "_checks": {
   "spurgeon-sermons-01": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-02": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-03": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-04": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-05": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-06": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-07": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-08": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-09": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-10": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-11": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-12": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-13": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-14": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-15": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-16": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-17": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-18": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-19": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-20": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-21": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-22": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-23": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-24": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-25": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-26": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-27": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-28": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-29": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-30": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-31": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-32": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-33": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-34": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-35": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-36": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-37": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-38": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-39": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-40": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-41": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-42": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-43": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-44": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-45": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-46": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-47": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-48": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-49": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-50": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-51": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-52": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-53": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-54": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-55": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-56": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-57": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-58": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-59": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-60": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-61": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-62": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-63": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-morning-evening": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-all-of-grace": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-faiths-checkbook": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-puritan-catechism": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-commenting": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-sermons-proverbs": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "spurgeon-till-he-come": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "spurgeon-around-wicket-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spurgeon-art-of-illustration": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spurgeon-talks-to-farmers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spurgeon-gleanings-sheaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
   },
   "spurgeon-treasury-david-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
@@ -1118,7 +1466,7 @@
   },
   "spurgeon-treasury-david-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
@@ -1129,7 +1477,7 @@
   },
   "spurgeon-treasury-david-3": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
@@ -1140,7 +1488,7 @@
   },
   "spurgeon-treasury-david-4": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
@@ -1151,7 +1499,7 @@
   },
   "spurgeon-treasury-david-5": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
@@ -1162,7 +1510,7 @@
   },
   "spurgeon-treasury-david-6": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
@@ -1173,12 +1521,419 @@
   },
   "spurgeon-treasury-david-7": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "spurgeon",
    "identity": "ok",
    "ia_rights": "ok: published 1882",
    "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-lectures-1-1875": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-lectures-2-1877": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-soul-winner-1895": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-autobiography-1": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1897-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-autobiography-2": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1897-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-autobiography-3": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1897-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-autobiography-4": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1897-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-saint-and-saviour": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-feathers-for-arrows": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-types-emblems": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-trumpet-calls": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-matchless-mystery": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-bible-newspaper": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-eccentric-preachers": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-farm-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-present-truth": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-illustrations-meditations": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-hands-full-honey": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-storm-signals": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-sermon-notes-1": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-sermon-notes-2": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "[1885?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-sermon-notes-3": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-sermon-notes-4": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-salt-cellars-1": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-salt-cellars-2": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-according-to-promise": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-sermons-in-candles": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "spurgeon-messages-multitude": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spurgeon-gospel-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-john-ploughmans-talk": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-john-ploughmans-pictures": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-barbed-arrows": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-teachings-nature": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-christ-in-ot": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-only-prayer-meeting": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spurgeon-letters": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "spurgeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

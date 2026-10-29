@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain Dame Gertrude More (1606-1633), English Benedictine of Cambrai and great-great-granddaughter of Thomas More, for the Word Hoard: The Writings of Dame Gertrude More, revised and edited by Dom Benedict Weld-Blundell (imprimatur 1910), from an Internet Archive scan. She wrote in English. The companion volume is Augustine Baker's Life of her, by another hand. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gertrude"
+ ],
+ "_surname": [
+  "gertrude more",
+  "dame gertrude more",
+  "d. gertrude more"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gmore-writings-weld-blundell": [
+   "thewritingsofdam00moreuoft",
+   "The Writings of Dame Gertrude More, revised and edited by Dom Benedict Weld-Blundell (London: R. & T. Washbourne; title page undated, imprimatur 20 December 1910)"
+  ]
+ },
+ "_alternates": {
+  "gmore-copies": "The Spiritual Exercises (catalogued 1658; title page unreadable)"
+ },
+ "_excluded": {
+  "gmore-other": "The Inner Life of Dame Gertrude More, vol. I (Augustine Baker's Life of her, a work by another hand); The Holy Practises of a Devine Lover (1657: the title page names no author); Collins's Life (1877)"
+ },
+ "_rights_checked": {
+  "gmore-writings-weld-blundell": "title page read: edited by Weld-Blundell; no year on the title page, imprimatur dated 20 December 1910"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gmore-writings-weld-blundell": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: edited by Weld-Blundell; no year on the title page, imprimatur dated 20 December 1910"
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "_about": "Public-domain Henry Scudder, Puritan minister and member of the Westminster Assembly, for the Word Hoard: A Key of Heaven (the Lord's Prayer opened), The Christian's Daily Walk in Holy Security and Peace, and The Godly Man's Choice. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 133 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry scudder",
+  "h. scudder",
+  "scudder"
+ ],
+ "_surname": [
+  "scudder"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hscudder-key-of-heaven": [
+   "bim_early-english-books-1475-1640_a-key-of-heaven-the-lor_scudder-henry_1620",
+   "A key of heaven: the Lords prayer opened, ...  1620 (catalogued 1620)"
+  ],
+  "hscudder-daily-walk": [
+   "bim_early-english-books-1475-1640_the-christians-daily-wal_scudder-henry_1627",
+   "The christians daily walke in holy securitie and peace.  1627 (catalogued 1627)"
+  ],
+  "hscudder-godly-mans-choice": [
+   "bim_early-english-books-1641-1700_the-godly-mans-choice-_scudder-henry_1644",
+   "The godly man's choice: ...  1644 (England : Printed by Matthew Simmons for Henry Overton ..., 1644)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hscudder-later": "the 1642 and 1664 editions and an undated later printing of the Daily Walk",
+  "hscudder-others": "other Scudders' books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hscudder-key-of-heaven": "Title page: 'A KEY OF HEAVEN: THE LORDS PRAYER opened ... By HENRIE SCUDDER Preacher of the word' (OCR reads 'HENR1IE SCVDDER'), London, printed by R. Field.",
+  "hscudder-daily-walk": "Title page, read from the page image: 'THE CHRISTIAN DAILY WALKE in holy Securitie and Peace ... By Henry Scudder Preacher of the Word', London, printed by I. D. for William Sheffard; the flyleaf is pencilled 1627."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hscudder-key-of-heaven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1620",
+   "ia_date": "1620",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hscudder-daily-walk": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1627",
+   "ia_date": "1627",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hscudder-godly-mans-choice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scudder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1644",
+   "ia_date": "1644",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

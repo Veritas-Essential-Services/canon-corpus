@@ -1,0 +1,214 @@
+{
+ "_about": "S. Weir Mitchell's novels (Hugh Wynne and the rest) and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "S. Weir Mitchell",
+ "_name_words": [
+  "mitchell",
+  "weir"
+ ],
+ "_surname": [
+  "weir mitchell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "swmitchell-autobiography-of-a-quack-and-the-case-of-george-d": [
+   693,
+   "The Autobiography of a Quack, and The Case of George Dedlow"
+  ],
+  "swmitchell-hugh-wynne-free-quaker-sometime-brevet-lieutenant": [
+   6485,
+   "Hugh Wynne, Free Quaker Sometime Brevet Lieutenant-Colonel on the Staff of his Excellency General Washington"
+  ],
+  "swmitchell-wear-and-tear": [
+   13197,
+   "Wear and Tear; Or, Hints for the Overworked"
+  ],
+  "swmitchell-westways": [
+   14153,
+   "Westways: A Village Chronicle"
+  ],
+  "swmitchell-doctor-and-patient": [
+   15004,
+   "Doctor and Patient"
+  ],
+  "swmitchell-fat-and-blood-an-essay-on-the-treatment-of-certai": [
+   16230,
+   "Fat and Blood An Essay on the Treatment of Certain Forms of Neurasthenia and Hysteria"
+  ],
+  "swmitchell-mr-kris-kringle": [
+   20180,
+   "Mr. Kris Kringle: A Christmas Tale"
+  ],
+  "swmitchell-diplomatic-adventure": [
+   30585,
+   "A Diplomatic Adventure"
+  ],
+  "swmitchell-red-city": [
+   32942,
+   "The Red City: A Novel of the Second Administration of President Washington"
+  ],
+  "swmitchell-adventures-of-fran-ois-foundling-thief-juggler-an": [
+   43241,
+   "The Adventures of François Foundling, Thief, Juggler, and Fencing-Master during the French Revolution"
+  ],
+  "swmitchell-madeira-party": [
+   43242,
+   "A Madeira Party"
+  ],
+  "swmitchell-wonderful-stories-of-fuz-buz-the-fly-and-mother-g": [
+   52899,
+   "The Wonderful Stories of Fuz-Buz the Fly and Mother Grabem the Spider"
+  ],
+  "swmitchell-when-all-the-woods-are-green": [
+   53120,
+   "When All the Woods Are Green: A Novel"
+  ],
+  "swmitchell-youth-of-washington": [
+   65513,
+   "The Youth of Washington: Told in the Form of an Autobiography"
+  ],
+  "swmitchell-constance-trescot": [
+   77431,
+   "Constance Trescot"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "swmitchell-autobiography-of-a-quack-and-the-case-of-george-d": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-hugh-wynne-free-quaker-sometime-brevet-lieutenant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-wear-and-tear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-westways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-doctor-and-patient": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-fat-and-blood-an-essay-on-the-treatment-of-certai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-mr-kris-kringle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-diplomatic-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-red-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-adventures-of-fran-ois-foundling-thief-juggler-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-madeira-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-wonderful-stories-of-fuz-buz-the-fly-and-mother-g": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-when-all-the-woods-are-green": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-youth-of-washington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swmitchell-constance-trescot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weir mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

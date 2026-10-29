@@ -1,0 +1,302 @@
+{
+ "_about": "Public-domain Heinrich August Wilhelm Meyer (1800-1873, Hanover New Testament exegete) in English for the Word Hoard: his own fifteen volumes of the Critical and Exegetical Commentary on the New Testament, Matthew to Philemon (Edinburgh: T. & T. Clark, 1873-1881), ed. William P. Dickson and others, from Internet Archive scans. The volumes by his continuators Lünemann and Huther are on their own shelves. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "meyer"
+ ],
+ "_surname": [
+  "meyer",
+  "heinrich august wilhelm meyer",
+  "h. a. w. meyer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "meyer-matthew-1": [
+   "criticalexeget01meyeiala",
+   "Critical and Exegetical Handbook to Matthew, vol. I, tr. Peter Christie (Edinburgh: T. & T. Clark, MDCCCLXXX)"
+  ],
+  "meyer-matthew-2": [
+   "criticalexeg02meye",
+   "Critical and Exegetical Handbook to Matthew, vol. II, tr. Peter Christie (Edinburgh: T. & T. Clark, MDCCCLXXIX)"
+  ],
+  "meyer-mark-luke-1": [
+   "criticalexegetic21meye",
+   "Critical and Exegetical Handbook to Mark and Luke, vol. I, tr. Robert Ernest Wallis (Edinburgh: T. & T. Clark, MDCCCLXXX)"
+  ],
+  "meyer-mark-luke-2": [
+   "criticalexegetic22meye",
+   "Critical and Exegetical Handbook to Mark and Luke, vol. II, tr. Robert Ernest Wallis (Edinburgh: T. & T. Clark, MDCCCLXXX)"
+  ],
+  "meyer-john-1": [
+   "criticalexegeticjohn01meye",
+   "Critical and Exegetical Handbook to John, vol. I, tr. William Urwick (Edinburgh: T. & T. Clark, MDCCCLXXIV)"
+  ],
+  "meyer-john-2": [
+   "criticalexegeticjohn02meye",
+   "Critical and Exegetical Handbook to John, vol. II (Edinburgh: T. & T. Clark, MDCCCLXXV)"
+  ],
+  "meyer-acts-1": [
+   "criticalexegetic01meyeiala",
+   "Critical and Exegetical Handbook to Acts, vol. I, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXVII)"
+  ],
+  "meyer-acts-2": [
+   "criticalexeghei02meye",
+   "Critical and Exegetical Handbook to Acts, vol. II, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXVII)"
+  ],
+  "meyer-romans-1": [
+   "criticalexeg00meye",
+   "Critical and Exegetical Handbook to Romans, vol. I, tr. John C. Moore (Edinburgh: T. & T. Clark, MDCCCLXXXI)"
+  ],
+  "meyer-romans-2": [
+   "criticalexegetic62meye",
+   "Critical and Exegetical Handbook to Romans, vol. II, tr. John C. Moore and Edwin Johnson (Edinburgh: T. & T. Clark, MDCCCLXXIV)"
+  ],
+  "meyer-corinthians-1": [
+   "criticalexege01meye",
+   "Critical and Exegetical Handbook to Corinthians, vol. I, tr. D. Douglas Bannerman (Edinburgh: T. & T. Clark, MDCCCLXXVII)"
+  ],
+  "meyer-corinthians-2": [
+   "criticalexegetic72meye",
+   "Critical and Exegetical Handbook to Corinthians, vol. II, tr. D. Douglas Bannerman and David Hunter (Edinburgh: T. & T. Clark, MDCCCLXXIX)"
+  ],
+  "meyer-galatians": [
+   "criticalexeget09meye",
+   "Critical and Exegetical Handbook to Galatians (Edinburgh: T. & T. Clark, MDCCCLXXIII)"
+  ],
+  "meyer-ephesians-philemon": [
+   "criticalexegetic1880meye",
+   "Critical and Exegetical Handbook to Ephesians and Philemon, tr. Maurice J. Evans (Edinburgh: T. & T. Clark, MDCCCLXXX)"
+  ],
+  "meyer-philippians-colossians": [
+   "criticalandexeg00unkngoog",
+   "Critical and Exegetical Handbook to Philippians and Colossians, tr. John C. Moore (Edinburgh: T. & T. Clark, MDCCCLXXV)"
+  ]
+ },
+ "_alternates": {
+  "meyer-funk": "The Funk & Wagnalls American edition (1883-1887)",
+  "meyer-copies": "Other Clark copies and second editions"
+ },
+ "_excluded": {
+  "meyer-continuators": "Thessalonians and Hebrews (Lünemann), Timothy-Titus, Peter-Jude, James-John (Huther), Revelation (Düsterdieck): their own shelves",
+  "meyer-late": "Alpha reprints (1979-1980)",
+  "meyer-other": "F. B. Meyer, a different man"
+ },
+ "_rights_checked": {
+  "meyer-john-2": "title page read: translator not named; the prefatory note names Urwick, W. D. Simon and Edwin Johnson",
+  "meyer-galatians": "title page read: translator's name garbled in the OCR; the prefatory note names Mr. Venables",
+  "meyer-matthew-1": "title page read: 1880 printing; the 1877 first printing was not found (Romans vol. I likewise 1881, first printing 1873 not found)"
+ },
+ "_pending": {},
+ "_translators": {
+  "meyer-matthew-1": "christie",
+  "meyer-matthew-2": "christie",
+  "meyer-mark-luke-1": "wallis",
+  "meyer-mark-luke-2": "wallis",
+  "meyer-john-1": "urwick",
+  "meyer-acts-1": "gloag",
+  "meyer-acts-2": "gloag",
+  "meyer-romans-1": "moore",
+  "meyer-romans-2": "moore",
+  "meyer-corinthians-1": "bannerman",
+  "meyer-corinthians-2": "bannerman",
+  "meyer-ephesians-philemon": "evans",
+  "meyer-philippians-colossians": "moore"
+ },
+ "_checks": {
+  "meyer-matthew-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1880 printing; the 1877 first printing was not found (Romans vol. I likewise 1881, first printing 1873 not found)"
+  },
+  "meyer-matthew-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-mark-luke-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "wallis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-mark-luke-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "wallis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-john-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "urwick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-john-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the prefatory note names Urwick, W. D. Simon and Edwin Johnson"
+  },
+  "meyer-acts-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "gloag",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-acts-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "gloag",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-romans-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-romans-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-corinthians-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "bannerman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-corinthians-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "bannerman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-galatians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator's name garbled in the OCR; the prefatory note names Mr. Venables"
+  },
+  "meyer-ephesians-philemon": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meyer-philippians-colossians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "translator_claimed": "moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

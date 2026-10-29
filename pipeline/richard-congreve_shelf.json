@@ -1,0 +1,78 @@
+{
+ "_about": "Richard Congreve (1818-1899), founder of English Positivism and minister of the Church of Humanity. Raw IA OCR: Essays Political, Social, and Religious, vol. I (London: Longmans, 1874), clean 0.95; vol. II (London: Church of Humanity, 1892), clean 0.95; vol. III, Historical Lectures (London: Church of Humanity, 1900), clean 0.95; The Roman Empire of the West, four lectures (London, 1855; preface dated February 1855), clean 0.93. Not taken: a second scan of vol. I; his annotated Greek Politics of Aristotle (1855), which is a Greek text. His translation of Comte's Catechism is on the comte shelf. US public domain. No uids minted.",
+ "_author": "Richard Congreve",
+ "_name_words": [
+  "richard",
+  "congreve"
+ ],
+ "_surname": [
+  "congreve"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "congreve-essays-1874-v1": [
+   "essayspolitical02conggoog",
+   "Essays Political, Social, and Religious, vol. I (Longmans, 1874)"
+  ],
+  "congreve-essays-1892-v2": [
+   "essayspolitical01conggoog",
+   "Essays Political, Social, and Religious, vol. II (1892)"
+  ],
+  "congreve-essays-1900-v3": [
+   "essayspolitical00conggoog",
+   "Essays Political, Social, and Religious, vol. III (1900)"
+  ],
+  "congreve-roman-empire-of-the-west-1855": [
+   "romanempireofwes00conguoft",
+   "The Roman Empire of the West (1855)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "congreve-essays-1874-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "congreve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "congreve-essays-1892-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "congreve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "congreve-essays-1900-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "congreve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "congreve-roman-empire-of-the-west-1855": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "congreve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

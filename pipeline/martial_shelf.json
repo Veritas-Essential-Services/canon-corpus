@@ -36,7 +36,9 @@
  "_excluded": {
   "epigramsmartial02bohngoog": "1904 printing of the same edition; lower OCR",
   "epigramsofmarti00mart": "1865 printing; empty text layer",
-  "Pott and Wright, The Twelve Books of Epigrams (Broadway Translations)": "the scan (martialtwelveboo0000tran) prints no date; IA dates it 1924. Not taken without a printed year; F. A. Wright died 1946"
+  "Pott and Wright, The Twelve Books of Epigrams (Broadway Translations)": "the scan (martialtwelveboo0000tran) prints no date; IA dates it 1924. Not taken without a printed year; F. A. Wright died 1946",
+  "indexexpurgatori00mart": "The Index Expurgatorius of Martial, literally translated (London, privately printed, 1868; title page names no translator). Public domain and clean OCR (0.91), but it collects only the obscene epigrams the other translators omitted. Held back for Adam to decide whether it belongs on the shelf (DIGEST-B).",
+  "bim_eighteenth-century_epigrams-of-martial-c_martial_1773": "Epigrams of Martial, &c. with mottos from Horace (1773, ECCO): OCR 0.43, under the 0.78 bar."
  },
  "_surname": [
   "martial",
@@ -54,7 +56,7 @@
  "_checks": {
   "martial-bohn": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "martial",
    "identity": "ok",
@@ -65,7 +67,7 @@
   },
   "martial-ker-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "martial",
    "translator_claimed": "Walter C. A. Ker",
@@ -78,7 +80,7 @@
   },
   "martial-ker-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "martial",
    "translator_claimed": "Walter C. A. Ker",
@@ -91,7 +93,7 @@
   },
   "martial-bohn-1877": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "martial",
    "identity": "ok",
@@ -102,7 +104,7 @@
   },
   "martial-nixon-roman-wit-1911": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "martial",
    "translator_claimed": "paul nixon",

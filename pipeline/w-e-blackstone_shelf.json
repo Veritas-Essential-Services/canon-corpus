@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain W. E. Blackstone (William Eugene Blackstone, 1841-1935, Methodist layman, premillennial writer) for the Word Hoard, held to printings dated before 1930: Jesus Is Coming (revised edition, copyright 1898, and the enlarged presentation edition, copyright 1908) and Our God and His Universe (Shanghai, 1911), all signed 'W. E. B.' on the title page. Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "blackstone"
+ ],
+ "_surname": [
+  "w. e. blackstone",
+  "william e. blackstone",
+  "wm. e. blackstone",
+  "william eugene blackstone",
+  "blackstone, w. e.",
+  "w. e. b."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "blackstone-jesus-coming-1898": [
+   "jesus-is-coming-blackstone",
+   "Jesus Is Coming, revised edition, signed W. E. B. (Chicago and New York: Fleming H. Revell; copyright 1898)",
+   "Jesus Is Coming Blackstone_djvu.txt"
+  ],
+  "blackstone-jesus-coming-1908": [
+   "jesusiscoming00blac",
+   "Jesus Is Coming, presentation edition, enlarged, signed W. E. B. (Chicago and New York: Fleming H. Revell; copyright 1908)"
+  ],
+  "blackstone-our-god-universe": [
+   "ourgodhisunivers00blac",
+   "Our God and His Universe, signed W. E. B. (Shanghai: American Presbyterian Mission Press, 1911)"
+  ]
+ },
+ "_alternates": {
+  "blackstone-1916-printing": "Jesus Is Coming, 1908 text with the 1916-17 Moody letters and his full name on the title page (jesusiscoming00blac_3) and other copies",
+  "blackstone-undated": "Jesus Is Coming, undated Revell second edition (jesusiscoming00blac_0) and London Partridge issue (jesusiscomingrs00blacuoft)"
+ },
+ "_excluded": {
+  "blackstone-hebrew": "Hebrew translation (1925)",
+  "blackstone-late": "Satan, His Kingdom and Its Overthrow (1964 printing)",
+  "blackstone-unread": "uploader items with no text file"
+ },
+ "_identity_checked": {
+  "blackstone-our-god-universe": {
+   "author": "Title page read: 'Our God and His Universe, by W. E. B.', American Presbyterian Mission Press (Shanghai); initials only, IA catalogue attributes it to William E. Blackstone"
+  }
+ },
+ "_pending": {
+  "blackstone-millennium": "The Millennium: a Discussion, affirmative by Wm. E. Blackstone (Revell; millenniumdiscus00blac): no year, after February 1914; may be a two-author debate"
+ },
+ "_checks": {
+  "blackstone-jesus-coming-1898": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. e. b.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackstone-jesus-coming-1908": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. e. b.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blackstone-our-god-universe": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "_about": "Public-domain Girolamo Zanchi (Hieronymus Zanchius, 1516-1590), Reformed theologian of Strasbourg and Heidelberg, for the Word Hoard: An Excellent and Learned Treatise of the Spirituall Mariage betweene Christ and the Church (Cambridge: John Legate, 1592) and H. Zanchius his Confession of Christian Religion (Cambridge: John Legat, 1599), from Internet Archive scans of Early English Books. Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "zanchius",
+  "zanchy",
+  "zanchi"
+ ],
+ "_surname": [
+  "zanchius",
+  "zanchy",
+  "zanchi",
+  "zanchie",
+  "zanchio"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zanchi-spirituall-mariage-1592": [
+   "bim_early-english-books-1475-1640_an-excellent-and-learned_zanchius-hieronymus_1592",
+   "An Excellent and Learned Treatise, of the Spirituall Mariage betweene Christ and the Church, and every Faithfull Man, written in Latine by H. Zanchius and translated into English (Cambridge: John Legate, 1592)"
+  ],
+  "zanchi-confession-1599": [
+   "bim_early-english-books-1475-1640_h-zanchius-his-confessi_zanchius-h_1599",
+   "H. Zanchius his Confession of Christian Religion, which now at length being 70 yeares of age he caused to bee published, Englished (Cambridge: John Legat, 1599)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "zanchi-other": "Latin works (De Religione Christiana 1605, the Miscellanea 1605 and 1608, the 1592 anti-Arian tract); the discourse taken out of Zanchius in Perkins's Case of Conscience (1592, Perkins's book)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "zanchi-spirituall-mariage-1592": "title page read from the page image: 'Written in Latine by that famous and worthie member of Christ his Church H. Zanchius' (OCR garbled)"
+ },
+ "_pending": {
+  "zanchi-toplady-predestination": "The Doctrine of Absolute Predestination, 'translated in great measure from the Latin of Jerom Zanchius' by Augustus Toplady (1769; later printings 1773, 1779, 1793, 1811): Toplady's free version, also in vol. 5 of his Works on the toplady shelf; held for Adam, as in round 39"
+ },
+ "_translators": {},
+ "_checks": {
+  "zanchi-spirituall-mariage-1592": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1592",
+   "ia_date": "1592",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zanchi-confession-1599": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zanchius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1599",
+   "ia_date": "1599",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

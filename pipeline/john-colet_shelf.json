@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain John Colet (1467-1519, Dean of St Paul's) in English for the Word Hoard: J. H. Lupton's editions with translation of the Two Treatises on the Hierarchies of Dionysius (1869), the Exposition of Romans (1873), the Exposition of 1 Corinthians (1874) and the Letters to Radulphus (1876), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "colet"
+ ],
+ "_surname": [
+  "colet",
+  "john colet",
+  "coletus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "colet-hierarchies-dionysius": [
+   "twotreatisesonhi00cole",
+   "Two Treatises on the Hierarchies of Dionysius, with a translation by J. H. Lupton (London: Bell and Daldy, 1869)"
+  ],
+  "colet-exposition-romans": [
+   "anexpositionstp00luptgoog",
+   "An Exposition of St. Paul's Epistle to the Romans, with a translation by J. H. Lupton (London: Bell and Daldy, 1873)"
+  ],
+  "colet-exposition-1-corinthians": [
+   "bwb_C0-CFV-196",
+   "An Exposition of St. Paul's First Epistle to the Corinthians, with a translation by J. H. Lupton (London: George Bell and Sons, 1874)"
+  ],
+  "colet-letters-radulphus": [
+   "letterstoradulp00colegoog",
+   "Letters to Radulphus on the Mosaic Account of the Creation, with Other Treatises, with a translation by J. H. Lupton (London: George Bell and Sons, 1876)"
+  ]
+ },
+ "_alternates": {
+  "colet-copies": "Other copies of the Dionysius and Radulphus volumes"
+ },
+ "_excluded": {
+  "colet-sacraments": "Lupton's 1867 Treatise on the Sacraments: Latin text only, no translation",
+  "colet-lives": "Lupton's and Knight's Lives of Colet; Seebohm's Oxford Reformers",
+  "colet-reprints": "1965-1966 Gregg reprints"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "colet-convocation-sermon": "The English Convocation Sermon (1531 and 1661 printings in early English books): imprint not read; left for the early-printed-books work",
+  "colet-1701": "A 1701 scan catalogued as his sermon, whose text is another sermon"
+ },
+ "_translators": {
+  "colet-hierarchies-dionysius": "lupton",
+  "colet-exposition-romans": "lupton",
+  "colet-exposition-1-corinthians": "lupton",
+  "colet-letters-radulphus": "lupton"
+ },
+ "_checks": {
+  "colet-hierarchies-dionysius": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "colet",
+   "translator_claimed": "lupton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colet-exposition-romans": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "colet",
+   "translator_claimed": "lupton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colet-exposition-1-corinthians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "colet",
+   "translator_claimed": "lupton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colet-letters-radulphus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "colet",
+   "translator_claimed": "lupton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,551 @@
+{
+ "_about": "Charles Egbert Craddock's (Mary Noailles Murfree) Tennessee mountain stories",
+ "_author": "Charles Egbert Craddock",
+ "_name_words": [
+  "craddock"
+ ],
+ "_surname": [
+  "charles egbert craddock",
+  "mary noailles murfree"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cecraddock-down-the-ravine": [
+   5306,
+   "Down the Ravine"
+  ],
+  "cecraddock-frontiersmen": [
+   13724,
+   "The Frontiersmen"
+  ],
+  "cecraddock-ordeal": [
+   19776,
+   "The Ordeal: A Mountain Romance of Tennessee"
+  ],
+  "cecraddock-young-mountaineers": [
+   20365,
+   "The Young Mountaineers: Short Stories"
+  ],
+  "cecraddock-raid-of-the-guerilla-1911": [
+   23548,
+   "The raid of the guerilla 1911"
+  ],
+  "cecraddock-wolfs-head-1911": [
+   23549,
+   "Wolf's Head 1911"
+  ],
+  "cecraddock-una-of-the-hill-country-1911": [
+   23550,
+   "Una of the hill country 1911"
+  ],
+  "cecraddock-who-crosses-storm-mountain-1911": [
+   23551,
+   "Who Crosses Storm Mountain? 1911"
+  ],
+  "cecraddock-phantom-of-bogue-holauba-1911": [
+   23552,
+   "The phantom of Bogue Holauba 1911"
+  ],
+  "cecraddock-christmas-miracle-1911": [
+   23553,
+   "The Christmas Miracle 1911"
+  ],
+  "cecraddock-a-chilhowee-lily-1911": [
+   23554,
+   "A Chilhowee Lily 1911"
+  ],
+  "cecraddock-lost-guidon-1911": [
+   23555,
+   "The Lost Guidon 1911"
+  ],
+  "cecraddock-his-unquiet-ghost-1911": [
+   23556,
+   "His Unquiet Ghost 1911"
+  ],
+  "cecraddock-crucial-moment-1911": [
+   23557,
+   "The Crucial Moment 1911"
+  ],
+  "cecraddock-riddle-of-the-rocks-1895": [
+   23629,
+   "The riddle of the rocks 1895"
+  ],
+  "cecraddock-phantoms-of-the-foot-bridge-1895": [
+   23630,
+   "The phantoms of the foot-bridge 1895"
+  ],
+  "cecraddock-moonshiners-at-hoho-hebee-falls-1895": [
+   23631,
+   "The moonshiners at Hoho-hebee Falls 1895"
+  ],
+  "cecraddock-way-down-in-lonesome-cove-1895": [
+   23632,
+   "'way down in Lonesome Cove 1895"
+  ],
+  "cecraddock-his-day-in-court-1895": [
+   23633,
+   "His \"day in court\" 1895"
+  ],
+  "cecraddock-mystery-of-witch-face-mountain-and-other-stories": [
+   31122,
+   "The Mystery of Witch-Face Mountain, and Other Stories"
+  ],
+  "cecraddock-story-of-old-fort-loudon": [
+   31801,
+   "The Story of Old Fort Loudon"
+  ],
+  "cecraddock-raid-of-the-guerilla-and-other-stories": [
+   33970,
+   "The raid of the guerilla, and other stories"
+  ],
+  "cecraddock-storm-centre": [
+   35423,
+   "The Storm Centre: A Novel"
+  ],
+  "cecraddock-prophet-of-the-great-smoky-mountains": [
+   35619,
+   "The Prophet of the Great Smoky Mountains"
+  ],
+  "cecraddock-phantoms-of-the-foot-bridge-and-other-stories": [
+   36771,
+   "The Phantoms of the Foot-Bridge, and Other Stories"
+  ],
+  "cecraddock-story-of-duciehurst": [
+   56046,
+   "The Story of Duciehurst: A Tale of the Mississippi"
+  ],
+  "cecraddock-bushwhackers-other-stories": [
+   68162,
+   "The bushwhackers & other stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "cecraddock-amulet": [
+   69483,
+   "The amulet: A novel"
+  ],
+  "cecraddock-juggler": [
+   72930,
+   "The juggler"
+  ],
+  "cecraddock-champion": [
+   74435,
+   "The champion"
+  ],
+  "cecraddock-in-the-stranger-peoples-country": [
+   74630,
+   "In the \"Stranger People's\" country"
+  ],
+  "cecraddock-in-the-clouds": [
+   74706,
+   "In the clouds"
+  ],
+  "cecraddock-windfall": [
+   74744,
+   "The windfall"
+  ],
+  "cecraddock-in-the-tennessee-mountains": [
+   74759,
+   "In the Tennessee mountains"
+  ],
+  "cecraddock-his-vanished-star": [
+   75678,
+   "His vanished star"
+  ],
+  "cecraddock-a-spectre-of-power": [
+   76105,
+   "A spectre of power"
+  ],
+  "cecraddock-despot-of-broomsedge-cove": [
+   76287,
+   "The despot of Broomsedge Cove"
+  ],
+  "cecraddock-where-the-battle-was-fought": [
+   76397,
+   "Where the battle was fought",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "cecraddock-story-of-keedon-bluffs": [
+   76600,
+   "The story of Keedon Bluffs"
+  ],
+  "cecraddock-fair-mississippian": [
+   76784,
+   "The fair Mississippian"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cecraddock-down-the-ravine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-frontiersmen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-ordeal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-young-mountaineers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-raid-of-the-guerilla-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-wolfs-head-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-una-of-the-hill-country-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-who-crosses-storm-mountain-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-phantom-of-bogue-holauba-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-christmas-miracle-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-a-chilhowee-lily-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-lost-guidon-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-his-unquiet-ghost-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-crucial-moment-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-riddle-of-the-rocks-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-phantoms-of-the-foot-bridge-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-moonshiners-at-hoho-hebee-falls-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-way-down-in-lonesome-cove-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-his-day-in-court-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-mystery-of-witch-face-mountain-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-story-of-old-fort-loudon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-raid-of-the-guerilla-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-storm-centre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-prophet-of-the-great-smoky-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-phantoms-of-the-foot-bridge-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-story-of-duciehurst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-bushwhackers-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-amulet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-juggler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-champion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-in-the-stranger-peoples-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-in-the-clouds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-windfall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-in-the-tennessee-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-his-vanished-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-a-spectre-of-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-despot-of-broomsedge-cove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-where-the-battle-was-fought": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-story-of-keedon-bluffs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecraddock-fair-mississippian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles egbert craddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

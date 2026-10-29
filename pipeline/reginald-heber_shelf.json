@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain Reginald Heber (1783-1826), Bishop of Calcutta and hymn writer, for the Word Hoard: his Bampton Lectures on the Personality and Office of the Christian Comforter (1816), Hymns (1827), the Life of Jeremy Taylor (1828), and his Sermons preached in India and in England (1829). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 84 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "reginald heber",
+  "r. heber",
+  "bishop heber"
+ ],
+ "_surname": [
+  "reginald heber",
+  "r. heber",
+  "bishop heber",
+  "heber"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heber-bampton": [
+   "personalityoffic00hebe",
+   "The personality and office of the Christian Comforter asserted and explained : in a course of sermons on John XVI.7., preached before the University of Oxford, in the year MDCCCXV (Oxford : University Press, 1816)"
+  ],
+  "heber-hymns": [
+   "hymnsw00hebe",
+   "Hymns, written and adapted to the weekly church service of the year (New York : G. & C. Carvill, 1827)"
+  ],
+  "heber-life-taylor": [
+   "lifeofrightrevje00hebe",
+   "The life of the Right Rev. Jeremy Taylor, D.D., Lord Bishop of Down, Connor, and Dromore : with a critical examination of his writings (London : Printed for C. and J. Rivington [etc.], 1828)"
+  ],
+  "heber-sermons-india": [
+   "sermonspreachedi00hebe",
+   "Sermons preached in India (London : John Murray, 1829)"
+  ],
+  "heber-sermons-england": [
+   "sermonspreachedi00hebe_0",
+   "Sermons preached in England (New-York, 1829)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "heber-other": "his Narrative of a Journey through India (travel) and his Poetical Works (verse beyond the hymns)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "heber-bampton": "title page: 'THE PERSONALITY AND OFFICE OF THE CHRISTIAN COMFORTER ... BAMPTON ... BY REGINALD HEBER, M. A. RECTOR OF HODNET, SALOP ... OXFORD, AT THE UNIVERSITY PRESS ... 1816' (OCR 'REGINALD llEBER')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "heber-bampton": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heber-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "reginald heber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heber-life-taylor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "reginald heber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heber-sermons-india": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "reginald heber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heber-sermons-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "reginald heber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

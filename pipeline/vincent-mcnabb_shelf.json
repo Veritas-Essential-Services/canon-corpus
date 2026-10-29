@@ -1,0 +1,152 @@
+{
+ "_about": "Public-domain Vincent McNabb (1868-1943, Irish Dominican) for the Word Hoard: Oxford Conferences on Prayer (1903) and on Faith (1905), Where Believers May Doubt (1903), Europe's Ewe-Lamb (1916), From a Friar's Cell (1923), The Church and the Land (1926), The Catholic Church and Philosophy (1927) and The New Testament Witness to Saint Peter (1928), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mcnabb"
+ ],
+ "_surname": [
+  "mcnabb",
+  "vincent mcnabb"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcnabb-conferences-prayer": [
+   "oxfordconference00mcna",
+   "Oxford Conferences on Prayer (London: Kegan Paul, Trench, Trübner, 1903)"
+  ],
+  "mcnabb-where-believers-doubt": [
+   "believersmaydoub00mcnauoft",
+   "Where Believers May Doubt (London: Burns & Oates; New York: Benziger, 1903)"
+  ],
+  "mcnabb-conferences-faith": [
+   "oxfordconference00mcnauoft",
+   "Oxford Conferences on Faith (London: Kegan Paul, Trench, Trübner, 1905)"
+  ],
+  "mcnabb-europes-ewe-lamb": [
+   "europesewelambot00mcnauoft",
+   "Europe's Ewe-Lamb and Other Essays on the Great War (London: R. & T. Washbourne, 1916)"
+  ],
+  "mcnabb-friars-cell": [
+   "fromfriarscell00mcnauoft",
+   "From a Friar's Cell (New York: P. J. Kenedy; title page undated, imprimatur 1923)"
+  ],
+  "mcnabb-church-and-land": [
+   "churchland0000vinc",
+   "The Church and the Land (New York: Benziger Brothers, 1926)"
+  ],
+  "mcnabb-church-philosophy": [
+   "catholicchurchph0000mcna",
+   "The Catholic Church and Philosophy (London: Burns Oates and Washbourne, 1927)"
+  ],
+  "mcnabb-nt-witness-peter": [
+   "newtestamentwitn0000frvi",
+   "The New Testament Witness to Saint Peter (London: Sheed & Ward; title page undated, imprimatur 1928)"
+  ]
+ },
+ "_alternates": {
+  "mcnabb-copies": "The Blackwell 1923 Friar's Cell; the 1928 Macmillan Church and Philosophy; his edition of the Vatican Council decrees (1907)"
+ },
+ "_excluded": {
+  "mcnabb-later": "Frontiers of Faith and Reason (1936)",
+  "mcnabb-others": "Books by other hands he introduced"
+ },
+ "_rights_checked": {
+  "mcnabb-church-and-land": "title page read: 1926; McNabb died 1943, so his 1920s books are US public domain but in UK copyright"
+ },
+ "_pending": {
+  "mcnabb-infallibility": "Infallibility: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "mcnabb-conferences-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcnabb-where-believers-doubt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcnabb-conferences-faith": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcnabb-europes-ewe-lamb": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcnabb-friars-cell": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcnabb-church-and-land": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1926; McNabb died 1943, so his 1920s books are US public domain but in UK copyright"
+  },
+  "mcnabb-church-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcnabb-nt-witness-peter": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcnabb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

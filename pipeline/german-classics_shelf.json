@@ -1,0 +1,828 @@
+{
+ "_about": "SERIES SHELF: The German Classics of the Nineteenth and Twentieth Centuries: Masterpieces of German Literature Translated into English, edited by Kuno Francke with William Guild Howard (German Publication Society, New York, 1913-1914), all 20 volumes, from Goethe and Schiller to Hauptmann, Thomas Mann, Schnitzler and Wedekind. Each volume names its many translators on a contributors page; the gate checks the editor-in-chief's name, or one of that volume's translators where the OCR does not keep his legibly. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 94); Adam may veto. No uids minted.",
+ "_name_words": [
+  "adolf busse",
+  "bayard quincy morgan",
+  "charles godfrey leland",
+  "frances h. king",
+  "frederic h. hedge",
+  "j. loewenberg",
+  "katharine royce",
+  "kuno francke",
+  "l. dora schmitz",
+  "margarete munsterberg",
+  "muriel almon",
+  "paul bernard thomas",
+  "r. dillon boylan",
+  "sofie delffs"
+ ],
+ "_name_words_note": "Kuno Francke, the editor-in-chief, where the OCR keeps his name; otherwise one translator named on that volume's contributors page. 'francke' alone is left out because it would collide with the august-hermann-francke shelf.",
+ "_surname": [
+  "adolf busse",
+  "bayard quincy morgan",
+  "charles godfrey leland",
+  "frances h. king",
+  "frederic h. hedge",
+  "j. loewenberg",
+  "katharine royce",
+  "kuno francke",
+  "l. dora schmitz",
+  "margarete munsterberg",
+  "muriel almon",
+  "paul bernard thomas",
+  "r. dillon boylan",
+  "sofie delffs"
+ ],
+ "_surname_by_slug": {
+  "gcl-vol-01": [
+   "kuno francke"
+  ],
+  "gcl-vol-02": [
+   "r. dillon boylan"
+  ],
+  "gcl-vol-03": [
+   "l. dora schmitz"
+  ],
+  "gcl-vol-04": [
+   "paul bernard thomas"
+  ],
+  "gcl-vol-05": [
+   "frederic h. hedge"
+  ],
+  "gcl-vol-06": [
+   "charles godfrey leland"
+  ],
+  "gcl-vol-07": [
+   "j. loewenberg"
+  ],
+  "gcl-vol-08": [
+   "frances h. king"
+  ],
+  "gcl-vol-09": [
+   "kuno francke"
+  ],
+  "gcl-vol-10": [
+   "kuno francke"
+  ],
+  "gcl-vol-11": [
+   "muriel almon"
+  ],
+  "gcl-vol-12": [
+   "kuno francke"
+  ],
+  "gcl-vol-13": [
+   "sofie delffs"
+  ],
+  "gcl-vol-14": [
+   "bayard quincy morgan"
+  ],
+  "gcl-vol-15": [
+   "kuno francke"
+  ],
+  "gcl-vol-16": [
+   "adolf busse"
+  ],
+  "gcl-vol-17": [
+   "kuno francke"
+  ],
+  "gcl-vol-18": [
+   "margarete munsterberg"
+  ],
+  "gcl-vol-19": [
+   "kuno francke"
+  ],
+  "gcl-vol-20": [
+   "katharine royce"
+  ]
+ },
+ "_surname_note": "Per volume: the editor-in-chief or one named translator.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gcl-vol-01": [
+   "germanclassicsma01franiala",
+   "The German Classics, vol. I: Goethe"
+  ],
+  "gcl-vol-02": [
+   "germanclassicsma02franiala",
+   "The German Classics, vol. II: Goethe"
+  ],
+  "gcl-vol-03": [
+   "germanclassicsma03franiala",
+   "The German Classics, vol. III: Schiller"
+  ],
+  "gcl-vol-04": [
+   "germanclassicsma04franiala",
+   "The German Classics, vol. IV: Jean Paul, Wilhelm von Humboldt, August Wilhelm and Friedrich Schlegel, Novalis, Hölderlin"
+  ],
+  "gcl-vol-05": [
+   "germanclassicsma05franiala",
+   "The German Classics, vol. V: Schleiermacher, Fichte"
+  ],
+  "gcl-vol-06": [
+   "germanclassicsma06franiala",
+   "The German Classics, vol. VI: Heine, Grillparzer"
+  ],
+  "gcl-vol-07": [
+   "germanclassicsof0000unse",
+   "The German Classics, vol. VII: Hegel, Bettina von Arnim, Immermann, Gutzkow, Anastasius Grün, Lenau"
+  ],
+  "gcl-vol-08": [
+   "germanclassicsma08franiala",
+   "The German Classics, vol. VIII: Auerbach, Gotthelf"
+  ],
+  "gcl-vol-09": [
+   "germanclassicsma09franiala",
+   "The German Classics, vol. IX: Hebbel, Otto Ludwig"
+  ],
+  "gcl-vol-10": [
+   "germanclassicsma10franiala",
+   "The German Classics, vol. X: Bismarck, Moltke"
+  ],
+  "gcl-vol-11": [
+   "germanclassicsma11franiala",
+   "The German Classics, vol. XI: Spielhagen"
+  ],
+  "gcl-vol-12": [
+   "germanclassicsma12franiala",
+   "The German Classics, vol. XII: Freytag, Fontane"
+  ],
+  "gcl-vol-13": [
+   "germanclassicsma13franiala",
+   "The German Classics, vol. XIII: Heyse, Scheffel"
+  ],
+  "gcl-vol-14": [
+   "germanclassicsma14franiala",
+   "The German Classics, vol. XIV: Gottfried Keller, Conrad Ferdinand Meyer"
+  ],
+  "gcl-vol-15": [
+   "germanclassicsma15franiala",
+   "The German Classics, vol. XV: Schopenhauer, Wagner"
+  ],
+  "gcl-vol-16": [
+   "germanclassicsma16franiala",
+   "The German Classics, vol. XVI: Wilbrandt, Anzengruber"
+  ],
+  "gcl-vol-17": [
+   "germanclassicsma17franiala",
+   "The German Classics, vol. XVII: Wildenbruch, Sudermann"
+  ],
+  "gcl-vol-18": [
+   "germanclassicsma18franiala",
+   "The German Classics, vol. XVIII: Gerhart Hauptmann"
+  ],
+  "gcl-vol-19": [
+   "germanclassicsof0000fran_d8a0",
+   "The German Classics, vol. XIX: Helene Böhlau, Clara Viebig, Eduard von Keyserling, Thomas Mann, Ludwig Thoma, Rudolf Hans Bartsch"
+  ],
+  "gcl-vol-20": [
+   "germanclassicsma20franiala",
+   "The German Classics, vol. XX: Wassermann, Kellermann, Halbe, Hofmannsthal, Schnitzler, Wedekind"
+  ]
+ },
+ "titles": {
+  "german-classics-vol-01": {
+   "source": "gcl-vol-01",
+   "of": "Goethe",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. I",
+   "translated": 1913,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1913; archive.org scan"
+  },
+  "german-classics-vol-02": {
+   "source": "gcl-vol-02",
+   "of": "Goethe",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. II",
+   "translated": 1913,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1913; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, R. Dillon Boylan, named on its contributors page."
+  },
+  "german-classics-vol-03": {
+   "source": "gcl-vol-03",
+   "of": "Schiller",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. III",
+   "translated": 1913,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1913; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, L. Dora Schmitz, named on its contributors page."
+  },
+  "german-classics-vol-04": {
+   "source": "gcl-vol-04",
+   "of": "Jean Paul, Wilhelm von Humboldt, August Wilhelm and Friedrich Schlegel, Novalis, Hölderlin and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. IV",
+   "translated": 1913,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, 1913-1914 series (this scan lacks the copyright page); archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Paul Bernard Thomas, named on its contributors page."
+  },
+  "german-classics-vol-05": {
+   "source": "gcl-vol-05",
+   "of": "Schleiermacher, Fichte and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. V",
+   "translated": 1913,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1913; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Frederic H. Hedge, named on its contributors page."
+  },
+  "german-classics-vol-06": {
+   "source": "gcl-vol-06",
+   "of": "Heine, Grillparzer and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. VI",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Charles Godfrey Leland, named on its contributors page."
+  },
+  "german-classics-vol-07": {
+   "source": "gcl-vol-07",
+   "of": "Hegel, Bettina von Arnim, Immermann, Gutzkow, Anastasius Grün, Lenau and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. VII",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, J. Loewenberg, named on its contributors page."
+  },
+  "german-classics-vol-08": {
+   "source": "gcl-vol-08",
+   "of": "Auerbach, Gotthelf and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. VIII",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Frances H. King, named on its contributors page."
+  },
+  "german-classics-vol-09": {
+   "source": "gcl-vol-09",
+   "of": "Hebbel, Otto Ludwig and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. IX",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan"
+  },
+  "german-classics-vol-10": {
+   "source": "gcl-vol-10",
+   "of": "Bismarck, Moltke and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. X",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan"
+  },
+  "german-classics-vol-11": {
+   "source": "gcl-vol-11",
+   "of": "Spielhagen and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XI",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Muriel Almon, named on its contributors page."
+  },
+  "german-classics-vol-12": {
+   "source": "gcl-vol-12",
+   "of": "Freytag, Fontane and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XII",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan"
+  },
+  "german-classics-vol-13": {
+   "source": "gcl-vol-13",
+   "of": "Heyse, Scheffel and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XIII",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Sofie Delffs, named on its contributors page."
+  },
+  "german-classics-vol-14": {
+   "source": "gcl-vol-14",
+   "of": "Gottfried Keller, Conrad Ferdinand Meyer and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XIV",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Bayard Quincy Morgan, named on its contributors page."
+  },
+  "german-classics-vol-15": {
+   "source": "gcl-vol-15",
+   "of": "Schopenhauer, Wagner and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XV",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan"
+  },
+  "german-classics-vol-16": {
+   "source": "gcl-vol-16",
+   "of": "Wilbrandt, Anzengruber and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XVI",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Adolf Busse, named on its contributors page."
+  },
+  "german-classics-vol-17": {
+   "source": "gcl-vol-17",
+   "of": "Wildenbruch, Sudermann and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XVII",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan"
+  },
+  "german-classics-vol-18": {
+   "source": "gcl-vol-18",
+   "of": "Gerhart Hauptmann and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XVIII",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Margarete Munsterberg, named on its contributors page."
+  },
+  "german-classics-vol-19": {
+   "source": "gcl-vol-19",
+   "of": "Helene Böhlau, Clara Viebig, Eduard von Keyserling, Thomas Mann, Ludwig Thoma, Rudolf Hans Bartsch and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XIX",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan"
+  },
+  "german-classics-vol-20": {
+   "source": "gcl-vol-20",
+   "of": "Wassermann, Kellermann, Halbe, Hofmannsthal, Schnitzler, Wedekind and others",
+   "work": "The German Classics of the Nineteenth and Twentieth Centuries, vol. XX",
+   "translated": 1914,
+   "translator": "Various, named on the volume's contributors page; Kuno Francke, editor-in-chief",
+   "scan_edition": "German Publication Society, New York, copyright 1914; archive.org scan",
+   "note": "The scan's OCR does not keep the editor-in-chief's name legibly, so this volume gates on one of its own translators, Katharine Royce, named on its contributors page."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "lyon-albany-printing": "The J. B. Lyon (Albany) printing of the series, which styles Francke 'Emeritus', is undated; the German Publication Society's 1913-1914 printing is used for all 20 volumes."
+ },
+ "_checks": {
+  "gcl-vol-01": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kuno francke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-02": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. dillon boylan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-03": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-04": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul bernard thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-05": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frederic h. hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-06": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-07": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. loewenberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gcl-vol-08": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frances h. king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-09": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kuno francke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kuno francke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "muriel almon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-12": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kuno francke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-13": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sofie delffs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-14": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayard quincy morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-15": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kuno francke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-16": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adolf busse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-17": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kuno francke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-18": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margarete munsterberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gcl-vol-19": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kuno francke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gcl-vol-20": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "c1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "gcl-vol-01": {
+   "ia": "germanclassicsma01franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906,
+    1907,
+    1908,
+    1910,
+    1912,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-02": {
+   "ia": "germanclassicsma02franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1803,
+    1807,
+    1809,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-03": {
+   "ia": "germanclassicsma03franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1777,
+    1780,
+    1781,
+    1782,
+    1905,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-04": {
+   "ia": "germanclassicsma04franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1763,
+    1779,
+    1781,
+    1782,
+    1783,
+    1793
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-05": {
+   "ia": "germanclassicsma05franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1813,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-06": {
+   "ia": "germanclassicsma06franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1797,
+    1810,
+    1823,
+    1830,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-07": {
+   "ia": "germanclassicsof0000unse",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1816,
+    1818,
+    1830,
+    1831,
+    1848,
+    1914
+   ],
+   "post_1930_years_in_front_15k": [
+    2024
+   ],
+   "post_1930_examined": "Examined in round 94: 2024 is the Internet Archive digitising note ('Digitized by the Internet Archive in 2024'), not an imprint."
+  },
+  "gcl-vol-08": {
+   "ia": "germanclassicsma08franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1832,
+    1836,
+    1841,
+    1849,
+    1854,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-09": {
+   "ia": "germanclassicsma09franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1830,
+    1831,
+    1835,
+    1855,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-10": {
+   "ia": "germanclassicsma10franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1836,
+    1848,
+    1877,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-11": {
+   "ia": "germanclassicsma11franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1830,
+    1835,
+    1847,
+    1848,
+    1867,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-12": {
+   "ia": "germanclassicsma12franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1853,
+    1856,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-13": {
+   "ia": "germanclassicsma13franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1833,
+    1842,
+    1854,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-14": {
+   "ia": "germanclassicsma14franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1834,
+    1840,
+    1842,
+    1843,
+    1846,
+    1848
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-15": {
+   "ia": "germanclassicsma15franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1788,
+    1793,
+    1805,
+    1818,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-16": {
+   "ia": "germanclassicsma16franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1884,
+    1887,
+    1889,
+    1911,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-17": {
+   "ia": "germanclassicsma17franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897,
+    1898,
+    1900,
+    1902,
+    1909,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-18": {
+   "ia": "germanclassicsma18franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1847,
+    1862,
+    1874,
+    1878,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-19": {
+   "ia": "germanclassicsof0000fran_d8a0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1778,
+    1903,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gcl-vol-20": {
+   "ia": "germanclassicsma20franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1817,
+    1906,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

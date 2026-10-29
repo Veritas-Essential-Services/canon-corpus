@@ -1,0 +1,200 @@
+{
+ "_about": "Will N. Harben's north Georgia novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Will N. Harben",
+ "_name_words": [
+  "harben"
+ ],
+ "_surname": [
+  "harben"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wnharben-land-of-the-changing-sun": [
+   3046,
+   "The Land of the Changing Sun"
+  ],
+  "wnharben-desired-woman": [
+   6056,
+   "The Desired Woman"
+  ],
+  "wnharben-westerfelt": [
+   17178,
+   "Westerfelt"
+  ],
+  "wnharben-dixie-hart": [
+   19818,
+   "Dixie Hart"
+  ],
+  "wnharben-cottage-of-delight": [
+   33715,
+   "The Cottage of Delight: A Novel"
+  ],
+  "wnharben-hills-of-refuge": [
+   35785,
+   "The Hills of Refuge: A Novel"
+  ],
+  "wnharben-ann-boyd": [
+   37551,
+   "Ann Boyd: A Novel"
+  ],
+  "wnharben-abner-daniel": [
+   50494,
+   "Abner Daniel: A Novel"
+  ],
+  "wnharben-northern-georgia-sketches": [
+   50896,
+   "Northern Georgia Sketches"
+  ],
+  "wnharben-paul-rundel": [
+   50898,
+   "Paul Rundel: A Novel"
+  ],
+  "wnharben-mam-linda": [
+   50899,
+   "Mam' Linda"
+  ],
+  "wnharben-pole-baker": [
+   51918,
+   "Pole Baker: A Novel"
+  ],
+  "wnharben-redemption-of-kenneth-galt": [
+   54104,
+   "The Redemption of Kenneth Galt"
+  ],
+  "wnharben-in-the-year-ten-thousand": [
+   67122,
+   "In the Year Ten Thousand"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wnharben-land-of-the-changing-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-desired-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-westerfelt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-dixie-hart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-cottage-of-delight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-hills-of-refuge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-ann-boyd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-abner-daniel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-northern-georgia-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-paul-rundel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-mam-linda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-pole-baker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-redemption-of-kenneth-galt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wnharben-in-the-year-ten-thousand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harben",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

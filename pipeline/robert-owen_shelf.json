@@ -1,0 +1,63 @@
+{
+ "_about": "Robert Owen (1771-1858), mill-owner of New Lanark and socialist: Observations on the Effect of the Manufacturing System, second edition (London: Longman and others, 1817); The Book of the New Moral World (London: Effingham Wilson, 1836); Essays on the Formation of the Human Character, 'the only authorised edition now in circulation' (London: B. D. Cousins, n.d.; the year 1840 is from Owen's own note in the front matter, not the title page). Raw IA OCR, clean 0.91-0.95. Held: The Life of Robert Owen written by himself, Bohn's Popular Library reprint of the 1857-58 edition, because no printed year survives in the scan. Not to be confused with Elias Owen's shelf. US public domain. No uids minted.",
+ "_author": "Robert Owen",
+ "_name_words": [
+  "robert",
+  "owen"
+ ],
+ "_surname": [
+  "owen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "owen-observations-manufacturing-1817": [
+   "observationsonef00owenrich",
+   "Observations on the Effect of the Manufacturing System, second edition (London, 1817)"
+  ],
+  "owen-book-of-new-moral-world-1836": [
+   "bookofnewmoralwo00owen",
+   "The Book of the New Moral World (London: Effingham Wilson, 1836)"
+  ],
+  "owen-formation-of-character-1840": [
+   "essaysonformatio00owen",
+   "Essays on the Formation of the Human Character (London: B. D. Cousins; 1840 from the front matter)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "owen-observations-manufacturing-1817": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "owen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owen-book-of-new-moral-world-1836": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "owen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "owen-formation-of-character-1840": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "owen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

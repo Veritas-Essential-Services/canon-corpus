@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain Palladius of Galatia (c.363-c.430), bishop of Helenopolis and historian of the desert monks, for the Word Hoard: The Lausiac History of Palladius, translated by W. K. Lowther Clarke (SPCK, 1918), and The Dialogue of Palladius concerning the Life of Chrysostom, translated by Herbert Moore (SPCK, 1921), from Internet Archive scans. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "palladius"
+ ],
+ "_surname": [
+  "palladius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "palladius-lausiac-history-1918": [
+   "lausiachistoryof00palluoft",
+   "The Lausiac History of Palladius, tr. W. K. Lowther Clarke, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1918)"
+  ],
+  "palladius-dialogue-chrysostom-1921": [
+   "dialogueofpallad0000unse",
+   "The Dialogue of Palladius concerning the Life of Chrysostom, by Herbert Moore, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1921)"
+  ]
+ },
+ "_alternates": {
+  "palladius-copies": "Other copies of Clarke 1918 and Moore 1921"
+ },
+ "_excluded": {
+  "palladius-budge": "Budge's Paradise or Garden of the Holy Fathers (1907) and Book of Paradise (1904): their title pages credit Athanasius, Palladius, Jerome and others, so they are many-author compilations, held for Adam's ruling"
+ },
+ "_rights_checked": {
+  "palladius-lausiac-history-1918": "title page read: first published 1918; the decorative title page garbles the translator (\"Bu WKLOWTHER CLARKE\"); the preface confirms W. K. Lowther Clarke"
+ },
+ "_pending": {},
+ "_translators": {
+  "palladius-dialogue-chrysostom-1921": "moore"
+ },
+ "_checks": {
+  "palladius-lausiac-history-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "palladius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "[1918]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: first published 1918; the decorative title page garbles the translator (\"Bu WKLOWTHER CLARKE\"); the preface confirms W. K. Lowther Clarke"
+  },
+  "palladius-dialogue-chrysostom-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "palladius",
+   "translator_claimed": "moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

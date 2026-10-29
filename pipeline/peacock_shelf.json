@@ -1,0 +1,108 @@
+{
+ "_about": "Thomas Love Peacock's satirical novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Thomas Love Peacock",
+ "_name_words": [
+  "peacock"
+ ],
+ "_surname": [
+  "thomas love peacock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "peacock-maid-marian": [
+   966,
+   "Maid Marian"
+  ],
+  "peacock-crotchet-castle": [
+   2075,
+   "Crotchet Castle"
+  ],
+  "peacock-nightmare-abbey": [
+   9909,
+   "Nightmare Abbey",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "peacock-headlong-hall": [
+   12803,
+   "Headlong Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "peacock-gryll-grange": [
+   21514,
+   "Gryll Grange"
+  ],
+  "peacock-melincourt": [
+   75943,
+   "Melincourt"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "peacock-maid-marian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas love peacock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "peacock-crotchet-castle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas love peacock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "peacock-nightmare-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas love peacock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "peacock-headlong-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas love peacock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "peacock-gryll-grange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas love peacock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "peacock-melincourt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas love peacock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

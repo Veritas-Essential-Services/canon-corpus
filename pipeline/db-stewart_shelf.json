@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: D. B. Stewart, in the Lane Anatole France (ed. Lewis May and Bernard Miall): The Seven Wives of Bluebeard (1920), split by Gutenberg into three files. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "d. b. stewart"
+ ],
+ "_surname": [
+  "d. b. stewart"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dbs-25409": [
+   25409,
+   "The Story of the Duchess of Cicogne and of Monsieur de Boulingrin"
+  ],
+  "dbs-25410": [
+   25410,
+   "The Miracle of the Great St. Nicolas"
+  ],
+  "dbs-25411": [
+   25411,
+   "The Seven Wives of Bluebeard"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "db-stewart-france-the-miracle-of-the-great-st-nicolas": {
+   "source": "dbs-25410",
+   "of": "Anatole France",
+   "work": "The Miracle of the Great St. Nicolas",
+   "translated": "1920 (see the Gutenberg header)",
+   "translator": "D. B. Stewart",
+   "scan_edition": "Project Gutenberg 25410 (clean text)"
+  },
+  "db-stewart-france-the-seven-wives-of-bluebeard": {
+   "source": "dbs-25411",
+   "of": "Anatole France",
+   "work": "The Seven Wives of Bluebeard",
+   "translated": "1920 (see the Gutenberg header)",
+   "translator": "D. B. Stewart",
+   "scan_edition": "Project Gutenberg 25411 (clean text)"
+  },
+  "db-stewart-france-the-story-of-the-duchess-of-cicogne-and": {
+   "source": "dbs-25409",
+   "of": "Anatole France",
+   "work": "The Story of the Duchess of Cicogne and of Monsieur de Boulingrin",
+   "translated": "1920 (see the Gutenberg header)",
+   "translator": "D. B. Stewart",
+   "scan_edition": "Project Gutenberg 25409 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dbs-25409": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d. b. stewart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "D. B. Stewart"
+  },
+  "dbs-25410": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d. b. stewart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "D. B. Stewart"
+  },
+  "dbs-25411": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d. b. stewart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "D. B. Stewart"
+  }
+ },
+ "_verified": {
+  "dbs-25409": {
+   "pg": 25409,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "D. B. Stewart"
+  },
+  "dbs-25410": {
+   "pg": 25410,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "D. B. Stewart"
+  },
+  "dbs-25411": {
+   "pg": 25411,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "D. B. Stewart"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,808 @@
+{
+ "_about": "TRANSLATOR SHELF: Leo Wiener's Complete Works of Count Tolstoy (Dana Estes, Boston, 1904-05, 24 vols), the first complete English Tolstoy, all translated by Wiener (1862-1939) from the Russian. One title per volume. US public domain (pre-1931); UK: Wiener d. 1939, PD there since 2010. A second witness beside the Maudes', Garnett's and Hapgood's Tolstoy on their own shelves; nothing is held twice (ids checked across all branches). Added 2026-10-10 by lane C (round 15); Adam may veto. No uids minted.",
+ "_name_words": [
+  "leo wiener"
+ ],
+ "_surname": [
+  "leo wiener"
+ ],
+ "_surname_note": "Full name; every volume's title page prints 'Translated from the Original Russian and Edited by LEO WIENER'.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wt-v01": [
+   "completeworksofc01tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v02": [
+   "completeworksofc02tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v03": [
+   "completeworksofc03tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v04": [
+   "completeworksofc04tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v05": [
+   "completeworksofc05tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v06": [
+   "completeworksofc06tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v07": [
+   "completeworksofc07tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v08": [
+   "completeworksof08tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v09": [
+   "completeworksofc09tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v10": [
+   "completeworksof10tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v11": [
+   "completeworksofc11tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v12": [
+   "completeworksofc12tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v13": [
+   "completeworksofc13tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v14": [
+   "completeworksofc14tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v15": [
+   "completeworksofc15tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v16": [
+   "completeworksofc16tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v17": [
+   "completeworksofc17tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v18": [
+   "completeworksofc18tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v19": [
+   "completeworksofc19tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v20": [
+   "completeworksofc20tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v21": [
+   "completeworksofc21tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v22": [
+   "completeworksofc22tols",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v23": [
+   "completeworksofc23tolsiala",
+   "The Complete Works of Count Tolstoy"
+  ],
+  "wt-v24": [
+   "completeworksofc24tols",
+   "The Complete Works of Count Tolstoy"
+  ]
+ },
+ "titles": {
+  "wiener-tolstoy-vol-01": {
+   "source": "wt-v01",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 1: Childhood, Boyhood, Youth; The Incursion",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-02": {
+   "source": "wt-v02",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 2: A Landed Proprietor; The Cossacks; Sevastopol",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-03": {
+   "source": "wt-v03",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 3: A Moscow Acquaintance; The Snow-Storm; Domestic Happiness; Miscellanies",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-04": {
+   "source": "wt-v04",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 4: Pedagogical Articles; Linen-Measurer",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-05": {
+   "source": "wt-v05",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 5: War and Peace, vol. I",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-06": {
+   "source": "wt-v06",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 6: War and Peace, vol. II",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-07": {
+   "source": "wt-v07",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 7: War and Peace, vol. III",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-08": {
+   "source": "wt-v08",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 8: War and Peace, vol. IV",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-09": {
+   "source": "wt-v09",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 9: Anna Karénin, vol. I",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-10": {
+   "source": "wt-v10",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 10: Anna Karénin, vol. II",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-11": {
+   "source": "wt-v11",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 11: Anna Karénin, vol. III",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-12": {
+   "source": "wt-v12",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 12: Fables for Children; Stories for Children; Natural Science Stories; Popular Education; Decembrists; Moral Tales",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-13": {
+   "source": "wt-v13",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 13: My Confession; Critique of Dogmatic Theology",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-14": {
+   "source": "wt-v14",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 14: The Four Gospels Harmonized and Translated, vol. I",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-15": {
+   "source": "wt-v15",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 15: The Four Gospels Harmonized and Translated, vol. II",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-16": {
+   "source": "wt-v16",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 16: My Religion; On Life; Thoughts on God; On the Meaning of Life",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-17": {
+   "source": "wt-v17",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 17: What Shall We Do Then?; On the Moscow Census; Collected Articles",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-18": {
+   "source": "wt-v18",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 18: The Death of Ivan Ilich; Dramatic Works; The Kreutzer Sonata",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-19": {
+   "source": "wt-v19",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 19: Walk in the Light while Ye Have Light; Thoughts and Aphorisms; Letters; Miscellanies",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-20": {
+   "source": "wt-v20",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 20: The Kingdom of God is Within You; Christianity and Patriotism; Miscellanies",
+   "translated": 1905,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1905 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-21": {
+   "source": "wt-v21",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 21: Resurrection, vol. I",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-22": {
+   "source": "wt-v22",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 22: Resurrection, vol. II; What is Art?; The Christian Teaching",
+   "translated": 1904,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1904 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-23": {
+   "source": "wt-v23",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 23: Miscellaneous Letters and Essays",
+   "translated": 1905,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1905 (raw OCR); title page read"
+  },
+  "wiener-tolstoy-vol-24": {
+   "source": "wt-v24",
+   "of": "Tolstoy",
+   "work": "Complete Works, vol. 24: Latest Works; Life; General Index; Bibliography",
+   "translated": 1905,
+   "translator": "Leo Wiener",
+   "scan_edition": "Dana Estes and Company, Boston, Édition de luxe, copyright 1905 (raw OCR); title page read"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "completeworksofc08tols": "Vol. 8 copy without its title page (starts at War and Peace Part XII); the Florida copy completeworksof08tols is used.",
+  "completeworksofc10tols": "Vol. 10: archive.org returned HTTP 500 for its text; completeworksof10tols is used.",
+  "completeworksofc25tols-28tols": "Vols 25-28 in the same cdl run are outside Wiener's 24-volume set; not checked.",
+  "pg-38025, pg-43372": "Gutenberg texts of Wiener vols 12 and 20 exist; the scans are used for the whole set from one edition."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check.",
+ "_checks": {
+  "wt-v01": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v02": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v03": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v04": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v05": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v06": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v07": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v08": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v09": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v10": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v11": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v12": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v13": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v14": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v15": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v16": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wt-v17": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v18": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v19": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v20": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v21": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v22": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v23": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904-12]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wt-v24": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "wt-v01": {
+   "ia": "completeworksofc01tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1823,
+    1852
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v02": {
+   "ia": "completeworksofc02tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1852,
+    1857,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v03": {
+   "ia": "completeworksofc03tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v04": {
+   "ia": "completeworksofc04tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1862
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v05": {
+   "ia": "completeworksofc05tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v06": {
+   "ia": "completeworksofc06tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1806,
+    1809,
+    1812
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v07": {
+   "ia": "completeworksofc07tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1809,
+    1811,
+    1812
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v08": {
+   "ia": "completeworksof08tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1812,
+    1813,
+    1814,
+    1864,
+    1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v09": {
+   "ia": "completeworksofc09tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873,
+    1876
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v10": {
+   "ia": "completeworksof10tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873,
+    1876
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v11": {
+   "ia": "completeworksofc11tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873,
+    1876
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v12": {
+   "ia": "completeworksofc12tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869,
+    1872
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v13": {
+   "ia": "completeworksofc13tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1838,
+    1879,
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v14": {
+   "ia": "completeworksofc14tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1882,
+    1891,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v15": {
+   "ia": "completeworksofc15tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1882,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v16": {
+   "ia": "completeworksofc16tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v17": {
+   "ia": "completeworksofc17tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1886,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v18": {
+   "ia": "completeworksofc18tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882,
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v19": {
+   "ia": "completeworksofc19tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890,
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v20": {
+   "ia": "completeworksofc20tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1838,
+    1884,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v21": {
+   "ia": "completeworksofc21tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v22": {
+   "ia": "completeworksofc22tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v23": {
+   "ia": "completeworksofc23tolsiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895,
+    1902,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wt-v24": {
+   "ia": "completeworksofc24tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893,
+    1895,
+    1899,
+    1900,
+    1902,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

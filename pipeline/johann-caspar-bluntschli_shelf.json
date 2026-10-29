@@ -1,0 +1,41 @@
+{
+ "_about": "Johann Caspar Bluntschli (1808-1881), Heidelberg professor of political science: The Theory of the State, authorised English translation from the sixth German edition (Oxford: Clarendon Press, MDCCCLXXXV), translated by D. G. Ritchie (books I, IV, VII), P. E. Matheson and R. Lodge (books V-VI), as the translators' preface sets out; raw IA OCR, clean 0.90. US public domain. No uids minted.",
+ "_author": "J. K. Bluntschli",
+ "_name_words": [
+  "johann",
+  "caspar",
+  "kaspar",
+  "bluntschli"
+ ],
+ "_surname": [
+  "bluntschli"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bluntschli-theory-of-the-state-1885": [
+   "theoryofstate00blun",
+   "The Theory of the State, tr. D. G. Ritchie, P. E. Matheson and R. Lodge (Oxford: Clarendon Press, 1885)",
+   "D. G. Ritchie, P. E. Matheson and R. Lodge"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "bluntschli-theory-of-the-state-1885": "Ritchie"
+ },
+ "_checks": {
+  "bluntschli-theory-of-the-state-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bluntschli",
+   "translator_claimed": "Ritchie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

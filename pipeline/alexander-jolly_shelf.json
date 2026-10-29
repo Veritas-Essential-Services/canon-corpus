@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Alexander Jolly (1756-1838), Bishop of Moray in the Scottish Episcopal Church, for the Word Hoard: The Christian Sacrifice in the Eucharist (1831) and Observations upon the Sunday Services and Principal Holydays (1840), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jolly"
+ ],
+ "_surname": [
+  "alexander jolly",
+  "bishop jolly",
+  "alex. jolly"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jolly-christian-sacrifice-1831": [
+   "christiansacrif00jollgoog",
+   "The Christian sacrifice in the eucharist; considered as it is the doctrine of holy Scripture (catalogued 1831)"
+  ],
+  "jolly-sunday-services-1840": [
+   "observationsupon00jolluoft",
+   "Observations upon the several Sunday services and principal holydays prescribed by the Liturgy throughout the year; with a few general remarks upon the design of the inferior holydays; being a humble attempt to illustrate the doctrinal as well as devotional tendency of each ... to which is prefixed (Edinburgh, Grant, 1840)"
+  ]
+ },
+ "_alternates": {
+  "jolly-copies": "The 1847 printing of the Christian Sacrifice"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jolly-christian-sacrifice-1831": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander jolly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jolly-sunday-services-1840": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander jolly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,426 @@
+{
+ "_about": "Public-domain Marvin R. Vincent (Marvin Richardson Vincent, 1834-1922, Presbyterian, Union Theological Seminary) for the Word Hoard: Amusement, a Force in Christian Training (Troy, 1867) from Project Gutenberg, and 24 more from Internet Archive scans, among them all four volumes of Word Studies in the New Testament (1887-1900), the ICC Philippians and Philemon (1897), A History of the Textual Criticism of the New Testament (1899) and his sermons. Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "vincent"
+ ],
+ "_surname": [
+  "marvin r. vincent",
+  "marvin richardson vincent",
+  "m. r. vincent",
+  "vincent, marvin r.",
+  "marvin r. vincent, d.d.",
+  "rev. marvin r. vincent"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "vincent-amusement": [
+   "25018",
+   "Amusement: A Force in Christian Training (Troy, N.Y.: Wm. H. Young, 1867)"
+  ]
+ },
+ "internet_archive": {
+  "vincent-word-studies-1": [
+   "wordstudiesinnew0001vinc",
+   "Word Studies in the New Testament, vol. I: the Synoptic Gospels, Acts, Peter, James and Jude (New York: Scribner's, 1887)"
+  ],
+  "vincent-word-studies-2": [
+   "wordstudiesinne04vincgoog",
+   "Word Studies in the New Testament, vol. II: the Writings of John (New York: Scribner's, 1889)"
+  ],
+  "vincent-word-studies-3": [
+   "cu31924092322548",
+   "Word Studies in the New Testament, vol. III: the Epistles of Paul (New York: Scribner's, 1900 printing, copyright 1890)"
+  ],
+  "vincent-word-studies-4": [
+   "cu31924092322555",
+   "Word Studies in the New Testament, vol. IV: Thessalonians, Galatians, the Pastoral Epistles, Hebrews (New York: Scribner's, 1900)"
+  ],
+  "vincent-gates-psalm-country": [
+   "gatesintopsalmco00vincrich",
+   "Gates into the Psalm-Country (New York: Scribner's, 1878)"
+  ],
+  "vincent-faith-and-character": [
+   "faithcharacter00vinc",
+   "Faith and Character (New York: Scribner's, 1880)"
+  ],
+  "vincent-god-and-bread": [
+   "godbreadwithothe00vinc",
+   "God and Bread, with Other Sermons (New York: Dodd, Mead, 1884)"
+  ],
+  "vincent-two-prodigals": [
+   "twoprodigals00vinc",
+   "The Two Prodigals (New York: Anson D. F. Randolph, copyright 1876)"
+  ],
+  "vincent-why-join-church": [
+   "whyshouldijoinch00vinc",
+   "Why Should I Join the Church? (New York: Anson D. F. Randolph, copyright 1879)"
+  ],
+  "vincent-stranger-and-guest": [
+   "strangerguest0000unse",
+   "Stranger and Guest, his collected tracts (New York: Anson D. F. Randolph; no year on the title page, catalogued 1879)"
+  ],
+  "vincent-ministers-handbook": [
+   "ministershandboo00vinc",
+   "The Ministers' Handbook (New York: Anson D. F. Randolph, copyright 1882)"
+  ],
+  "vincent-christ-as-teacher": [
+   "christasteacher00vinc",
+   "Christ as a Teacher: Two Lectures (New York: Anson D. F. Randolph, copyright 1886)"
+  ],
+  "vincent-covenant-of-peace": [
+   "covenantofpeace00vinc",
+   "The Covenant of Peace (New York: Anson D. F. Randolph, copyright 1887)"
+  ],
+  "vincent-exegesis-address": [
+   "exegisisaddressd00vinc",
+   "Exegesis, an address at the opening of the autumn term of Union Theological Seminary, 24 September 1891 (New York: Scribner's, 1891)"
+  ],
+  "vincent-students-nt-handbook": [
+   "studentsnewtesta00vinc",
+   "Student's New Testament Handbook (New York: Scribner's, 1893)"
+  ],
+  "vincent-biblical-inspiration": [
+   "biblicalinspirat00vinc",
+   "Biblical Inspiration and Christ (New York: Anson D. F. Randolph, copyright 1894)"
+  ],
+  "vincent-monster-higher-critic": [
+   "thatmonsterhighe00vinc",
+   "That Monster, the Higher Critic (New York: Anson D. F. Randolph, copyright 1894)"
+  ],
+  "vincent-age-of-hildebrand": [
+   "ageofhildebrand00vinc",
+   "The Age of Hildebrand, Ten Epochs of Church History vol. V (New York: The Christian Literature Co., MDCCCXCVI)"
+  ],
+  "vincent-icc-philippians": [
+   "criticalexegetic0000vinc_t9b5",
+   "A Critical and Exegetical Commentary on the Epistles to the Philippians and to Philemon, International Critical Commentary (New York: Scribner's, 1897)"
+  ],
+  "vincent-textual-criticism": [
+   "cu31924029305063",
+   "A History of the Textual Criticism of the New Testament (New York and London: Macmillan, 1899)"
+  ],
+  "vincent-national-discipline": [
+   "ournationaldisci00vinc",
+   "Our National Discipline, a Thanksgiving sermon (Troy: A. W. Scribner, printer, 1863)"
+  ],
+  "vincent-lord-of-war": [
+   "lordofwarofright00vinc",
+   "The Lord of War and of Righteousness (Troy, 1864)"
+  ],
+  "vincent-lincoln-sermon": [
+   "sermononassassin00vinc",
+   "A Sermon on the Assassination of Abraham Lincoln, second edition (Troy, 1865)"
+  ],
+  "vincent-debt-of-power": [
+   "debtofpowerbacca00vincrich",
+   "The Debt of Power, baccalaureate sermon at Columbia (1892)"
+  ]
+ },
+ "_alternates": {
+  "vincent-word-studies-copies": "Other Scribner's printings of Word Studies: cu31924092322522 (vol. I, 1900), cu31924092322530 (vol. II, 1897), wordstudiesinnew03vinc, wordstudiesinne03vincgoog, wordstudiesinnew0003vinc (vol. III, 1901-1905), wordstudiesinnew04vinc (vol. IV, 1900)",
+  "vincent-copies": "Second copies: gatesintopsalmc01vincgoog (1878), textualcriticism00vincuoft (1899), amusementaforce00vincgoog (scan of the Gutenberg text)",
+  "vincent-translations": "His Dante's Inferno with commentary (Scribner's, 1904) and his share of Bengel's Gnomon, vol. I, with Charlton T. Lewis (1862): translations"
+ },
+ "_excluded": {
+  "vincent-secular": "In the Shadow of the Pyrenees (travel), The Classics in Education, a New-York Historical Society address and a memorial of Col. Kendrick",
+  "vincent-late": "Eerdmans and later reprints of Word Studies (some catalogued 1887 in error), a 1950 T. & T. Clark ICC impression catalogued 1897, 2008 reprint"
+ },
+ "_identity_checked": {
+  "vincent-faith-and-character": {
+   "author": "Title page read: 'Marvin R. Vincent', OCR 'MARVIN R^ VINCENT'; Scribner's, 1880"
+  },
+  "vincent-two-prodigals": {
+   "author": "Title page read: 'Marvin R. Vincent', OCR 'MARVIN K^ VINCENT'; Randolph, copyright 1876"
+  },
+  "vincent-monster-higher-critic": {
+   "author": "Title page read: 'Marvin R. Vincent', OCR 'MARVIN E. VINCENT'; Randolph, copyright 1894"
+  },
+  "vincent-ministers-handbook": {
+   "author": "Title page read: 'by Marvin R. Vincent, D.D.', OCR drops the space ('R.VINCENT'); Randolph, copyright 1882"
+  },
+  "vincent-debt-of-power": {
+   "author": "Title page read: 'by the Reverend Marvin R. Vincent, D.D.', OCR drops the space ('R.Vincent'); baccalaureate sermon to the class of 1892"
+  }
+ },
+ "_rights_checked": {
+  "vincent-stranger-and-guest": "title page read: Randolph, 900 Broadway, no year; the address and contents date it to about 1879; author died 1922"
+ },
+ "_pending": {},
+ "_checks": {
+  "vincent-amusement": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vincent-word-studies-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-word-studies-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-word-studies-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-word-studies-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-gates-psalm-country": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-faith-and-character": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-god-and-bread": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-two-prodigals": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-why-join-church": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "vincent-stranger-and-guest": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Randolph, 900 Broadway, no year; the address and contents date it to about 1879; author died 1922"
+  },
+  "vincent-ministers-handbook": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-christ-as-teacher": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-covenant-of-peace": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "vincent-exegesis-address": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-students-nt-handbook": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "vincent-biblical-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "vincent-monster-higher-critic": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-age-of-hildebrand": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-icc-philippians": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-textual-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vincent-national-discipline": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "vincent-lord-of-war": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "vincent-lincoln-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marvin r. vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vincent-debt-of-power": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,253 @@
+{
+ "_about": "Florence Warden's sensation and mystery novels, The House on the Marsh and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Florence Warden",
+ "_name_words": [
+  "florence",
+  "warden"
+ ],
+ "_surname": [
+  "florence warden"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fwarden-wharf-by-the-docks": [
+   16092,
+   "The Wharf by the Docks: A Novel"
+  ],
+  "fwarden-witch-of-the-hills-v-1-of-2": [
+   38291,
+   "A Witch of the Hills, v. 1 [of 2]"
+  ],
+  "fwarden-witch-of-the-hills-v-2-of-2": [
+   38292,
+   "A Witch of the Hills, v. 2 [of 2]"
+  ],
+  "fwarden-dazzling-miss-davison": [
+   65117,
+   "The Dazzling Miss Davison"
+  ],
+  "fwarden-perfect-fool": [
+   65401,
+   "A Perfect Fool: A Novel"
+  ],
+  "fwarden-joan-the-curate": [
+   65957,
+   "Joan, the Curate"
+  ],
+  "fwarden-st-cuthberts-tower": [
+   68544,
+   "St. Cuthbert's tower"
+  ],
+  "fwarden-forge-and-furnace": [
+   68689,
+   "Forge and furnace: A novel"
+  ],
+  "fwarden-vagrant-wife": [
+   69261,
+   "A vagrant wife"
+  ],
+  "fwarden-house-on-the-marsh": [
+   71788,
+   "The house on the marsh"
+  ],
+  "fwarden-white-countess": [
+   71864,
+   "The white countess"
+  ],
+  "fwarden-fog-princes": [
+   72077,
+   "The fog princes"
+  ],
+  "fwarden-sea-mew-abbey": [
+   72089,
+   "Sea Mew Abbey"
+  ],
+  "fwarden-lady-in-black": [
+   72314,
+   "A lady in black"
+  ],
+  "fwarden-scheherazade": [
+   72450,
+   "Scheherazade: a London night's entertainment"
+  ],
+  "fwarden-mis-rule-of-three": [
+   72669,
+   "The mis-rule of three"
+  ],
+  "fwarden-mill-house-mystery": [
+   73223,
+   "The mill house mystery"
+  ],
+  "fwarden-mystery-of-the-inn-by-the-shore": [
+   73798,
+   "Mystery of the inn by the shore"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fwarden-wharf-by-the-docks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-witch-of-the-hills-v-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-witch-of-the-hills-v-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-dazzling-miss-davison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-perfect-fool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-joan-the-curate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-st-cuthberts-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-forge-and-furnace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-vagrant-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-house-on-the-marsh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-white-countess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-fog-princes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-sea-mew-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-lady-in-black": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-scheherazade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-mis-rule-of-three": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-mill-house-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwarden-mystery-of-the-inn-by-the-shore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

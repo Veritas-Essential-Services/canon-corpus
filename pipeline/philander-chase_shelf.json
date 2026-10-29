@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Philander Chase (1775-1852), missionary bishop of Ohio and then of Illinois, founder of Kenyon College, for the Word Hoard: Bishop Chase's Reminiscences, an autobiography (Boston: James B. Dow, 1848, second edition, two volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chase"
+ ],
+ "_surname": [
+  "philander chase",
+  "bishop chase"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chase-reminiscences-1": [
+   "bishopchasesremi01chas",
+   "Bishop Chase's Reminiscences: an autobiography, vol. 1 (Boston, J. B. Dow; [etc., etc.], 1848)"
+  ],
+  "chase-reminiscences-2": [
+   "bishopchasesremi02chas",
+   "Bishop Chase's Reminiscences: an autobiography, vol. 2 (Boston, J. B. Dow; [etc., etc.], 1848)"
+  ]
+ },
+ "_alternates": {
+  "chase-copies": "The 1844 first edition (two volumes) and other 1848 scans"
+ },
+ "_excluded": {
+  "chase-other": "Books by Philander Chase Johnson and Philander Chase Knox"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "chase-reminiscences-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philander chase",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chase-reminiscences-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philander chase",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

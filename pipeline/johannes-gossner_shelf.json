@@ -1,0 +1,82 @@
+{
+ "_about": "Public-domain Johannes Evangelista Gossner (1773-1858), Catholic priest turned Lutheran pastor in Berlin and founder of the Gossner Mission, in English translation, for the Word Hoard: The Heavenly Visitant, The Spiritual Casket of Daily Bible Meditations, and John Gossner's Treasury. This shelf is English only. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 101 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john gossner",
+  "johannes gossner",
+  "j. gossner",
+  "gossner",
+  "goszner"
+ ],
+ "_surname": [
+  "john gossner",
+  "johannes gossner",
+  "j. gossner",
+  "gossner",
+  "goszner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gossner-heavenly-visitant": [
+   "heavenlyvisitan00gossgoog",
+   "The heavenly visitant; or, Christ at the door of man's heart (catalogued 1865)"
+  ],
+  "gossner-spiritual-casket": [
+   "MN41391ucmf_4",
+   "The spiritual casket of daily Bible meditations ; for the furtherance of family godliness and devotion (London : J.F. Shaw & Co., 1864)"
+  ],
+  "gossner-treasury": [
+   "johngosznerstrea00goss",
+   "John Goszner's treasury : containing Bible meditations for each day in the year, with devotional songs to the futherance of family prayer and piety (Minneapolis : Augsburg Pub. House, 1906)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gossner-martin-boos": "The Life of Martin Boos (Boos's own account, which Gossner edited)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gossner-heavenly-visitant": "Title page image: 'The Heavenly Visitant; or, Christ at the Door of Man's Heart. By the Rev. J. Gossner... London: William Macintosh, 24, Paternoster Row. 1865.'"
+ },
+ "_pending": {
+  "gossner-heart-of-man": "heartofmaneither00goss: the 1851 Harrisburg printing names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "gossner-heavenly-visitant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gossner-spiritual-casket": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gossner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gossner-treasury": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "goszner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

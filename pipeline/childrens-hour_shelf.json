@@ -1,0 +1,236 @@
+{
+ "_about": "The Children's Hour, selected and arranged by Eva March Tappan (Boston: Houghton Mifflin, 1907 in ten volumes; enlarged 1916 to fifteen). All fifteen volumes but one: volume 3 from Gutenberg, the rest from Internet Archive scans (mostly Boston Public Library's fifteen-volume set), raw OCR. Volume 5, Stories from Seven Old Favorites, is already on the eva-march-tappan shelf (PG 13685) and is not repeated here. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "Eva March Tappan (editor)",
+ "_name_words": [
+  "tappan",
+  "children",
+  "hour"
+ ],
+ "_surname": [
+  "tappan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "childrens-hour-v3-stories-from-the-classics": [
+   14752,
+   "The Children's Hour, Volume 3 (of 10): Stories from the Classics"
+  ]
+ },
+ "internet_archive": {
+  "childrens-hour-v1-folk-stories-and-fables": [
+   "childrenshourinf01tapp",
+   "The Children's Hour, vol. 1: Folk Stories and Fables (Houghton Mifflin)"
+  ],
+  "childrens-hour-v2-myths-from-many-lands": [
+   "childrenshourinf02tapp",
+   "The Children's Hour, vol. 2: Myths from Many Lands (Houghton Mifflin)"
+  ],
+  "childrens-hour-v4-stories-of-legendary-heroes": [
+   "childrenshourinf04tapp",
+   "The Children's Hour, vol. 4: Stories of Legendary Heroes (Houghton Mifflin)"
+  ],
+  "childrens-hour-v6-old-fashioned-stories-and-poems": [
+   "oldfashionedstor00tapp",
+   "The Children's Hour, vol. 6: Old-Fashioned Stories and Poems (Houghton Mifflin, 1907)"
+  ],
+  "childrens-hour-v7-out-of-door-book": [
+   "outofdoorbook00tapp_1",
+   "The Children's Hour, vol. 7: The Out-of-Door Book (Houghton Mifflin, 1907)"
+  ],
+  "childrens-hour-v8-adventures-and-achievements": [
+   "childrenshourinf08tapp",
+   "The Children's Hour, vol. 8: Adventures and Achievements (Houghton Mifflin)"
+  ],
+  "childrens-hour-v9-poems-and-rhymes": [
+   "childrenshourinf09tapp",
+   "The Children's Hour, vol. 9: Poems and Rhymes (Houghton Mifflin)"
+  ],
+  "childrens-hour-v10-modern-stories": [
+   "childrenshourinf10tapp",
+   "The Children's Hour, vol. 10: Modern Stories (Houghton Mifflin)"
+  ],
+  "childrens-hour-v11-stories-of-nature": [
+   "childrenshour0000evam",
+   "The Children's Hour, vol. 11: Stories of Nature (Houghton Mifflin, 1916)"
+  ],
+  "childrens-hour-v12-sports-and-pastimes": [
+   "sportspastimesvo0012evam",
+   "The Children's Hour, vol. 12: Sports and Pastimes (Houghton Mifflin, 1916)"
+  ],
+  "childrens-hour-v13-book-of-humor": [
+   "childrenshoursbo0013evam",
+   "The Children's Hour, vol. 13: The Book of Humor (Houghton Mifflin, 1916)"
+  ],
+  "childrens-hour-v14-modern-triumphs": [
+   "moderntriumphs00tapp",
+   "The Children's Hour, vol. 14: Modern Triumphs (Houghton Mifflin, 1916)"
+  ],
+  "childrens-hour-v15-wonders-of-science": [
+   "wondersofscience00tapp",
+   "The Children's Hour, vol. 15: Wonders of Science (Houghton Mifflin, 1916)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_identity_checked": {
+  "childrens-hour-v2-myths-from-many-lands": "the OCR never prints Tappan's name; checked 2026-10-23 by reading the text: Houghton Mifflin, 'IN FIFTEEN VOLUMES', and the volume's own title and contents (Myths of Greece and Rome, of Scandinavia, of Japan, of the Slavs), matching Boston Public Library's catalogue record for The Children's Hour",
+  "childrens-hour-v7-out-of-door-book": "the OCR never prints Tappan's name; checked 2026-10-23 by reading the text: Houghton Mifflin, 'IN FIFTEEN VOLUMES', and the volume's own title and contents (VOLUME VII, The Out-of-Door Book, copyright 1907), matching Boston Public Library's catalogue record for The Children's Hour",
+  "childrens-hour-v9-poems-and-rhymes": "the OCR never prints Tappan's name; checked 2026-10-23 by reading the text: Houghton Mifflin, 'IN FIFTEEN VOLUMES', and the volume's own title and contents (VOLUME IX, poems), matching Boston Public Library's catalogue record for The Children's Hour",
+  "childrens-hour-v14-modern-triumphs": "the OCR never prints Tappan's name; checked 2026-10-23 by reading the text: Houghton Mifflin, 'IN FIFTEEN VOLUMES', and the volume's own title and contents (VOLUME XIV, Modern Triumphs, copyright 1916), matching Boston Public Library's catalogue record for The Children's Hour"
+ },
+ "_checks": {
+  "childrens-hour-v3-stories-from-the-classics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "childrens-hour-v1-folk-stories-and-fables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v2-myths-from-many-lands": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v4-stories-of-legendary-heroes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v6-old-fashioned-stories-and-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "childrens-hour-v7-out-of-door-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v8-adventures-and-achievements": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v9-poems-and-rhymes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v10-modern-stories": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v11-stories-of-nature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v12-sports-and-pastimes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v13-book-of-humor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v14-modern-triumphs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "childrens-hour-v15-wonders-of-science": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

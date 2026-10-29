@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain L. A. Gotwald, Lutheran pastor and seminary professor, for the Word Hoard: Church Orders, or the Necessity of a Right Call to the Ministry, Joy in the Divine Government and Other Sermons, Sermons for Festival Days, and an address on Gettysburg and Lincoln. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 122 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "l. a. gotwald",
+  "luther a. gotwald",
+  "luther alexander gotwald",
+  "gotwald"
+ ],
+ "_surname": [
+  "gotwald"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gotwald-church-orders": [
+   "churchordersorne00gotw",
+   "Church orders, or : the necessity of a right call to the office of the ministry / by L.A. Gotwald (J.E. Wible, 1876)"
+  ],
+  "gotwald-joy": [
+   "joyindivinegover00gotw",
+   "Joy in the divine government and other sermons (Chicago : F. H. Revell, 1901)"
+  ],
+  "gotwald-gettysburg": [
+   "gettysburglincol00gotw",
+   "Gettysburg : Lincoln's address and our educational institutions (Your, Pa. : The Board of Education, 1907)"
+  ],
+  "gotwald-festival-days": [
+   "sermonsforfestiv0000lago",
+   "Sermons for Festival Days (German Literary Board, 1911)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gotwald-faithful-missionary": "The Faithful Missionary is Nieritz translated by William H. Gotwald"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gotwald-church-orders": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gotwald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gotwald-joy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gotwald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gotwald-gettysburg": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gotwald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gotwald-festival-days": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gotwald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

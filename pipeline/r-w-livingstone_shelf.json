@@ -1,0 +1,50 @@
+{
+ "_about": "Sir Richard Winn Livingstone (1880-1960), Oxford classicist and educationist. Not David Livingstone (shelf david-livingstone). Raw IA OCR: The Greek Genius and its Meaning to Us (Oxford: Clarendon Press, 1912); A Defence of Classical Education (Macmillan, 1916). His edited volumes (The Legacy of Greece, 1921; The Pageant of Greece, 1923) are multi-author or anthologies of others' translations and are not taken. US public domain. No uids minted.",
+ "_author": "R. W. Livingstone",
+ "_name_words": [
+  "richard",
+  "winn",
+  "livingstone"
+ ],
+ "_surname": [
+  "r. w. livingstone",
+  "livingstone"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "livingstone-greek-genius-1912": [
+   "greekgeniusitsme00liviuoft",
+   "The Greek Genius and its Meaning to Us (Clarendon Press, 1912)"
+  ],
+  "livingstone-defence-of-classical-education-1916": [
+   "defenceofclassic00liviuoft",
+   "A Defence of Classical Education (Macmillan, 1916)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "livingstone-greek-genius-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "livingstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "livingstone-defence-of-classical-education-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. w. livingstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

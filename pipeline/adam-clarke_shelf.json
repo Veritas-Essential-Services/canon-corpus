@@ -1,0 +1,252 @@
+{
+ "_about": "Public-domain Adam Clarke (1762-1832, Wesleyan Methodist) for the Word Hoard: Entire Sanctification, clean from CCEL; and from the Internet Archive his Commentary (New York, 6 vols, 1843-46, a mixed set: OT vol. 4 is 1843), Discourses on the Being and Attributes of God (3 vols, third edition, 1830-31), the Holy Eucharist with his smaller tracts (1812), Clavis Biblica (catalogued 1821), Memoirs of the Wesley Family (1824) and the autobiographical Account of his life ed. J. B. B. Clarke (1837). Christian Theology (1840) is Samuel Dunn's selection from his writings. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "c/clarke",
+ "_name_words": [
+  "clarke",
+  "adam"
+ ],
+ "_surname": [
+  "adam clarke",
+  "a. clarke",
+  "clarke, adam",
+  "dr. adam clarke",
+  "adam clarke, ll.d"
+ ],
+ "_held": {},
+ "ccel": {
+  "aclarke-entire-sanctification": [
+   "entire_sanct",
+   "Entire Sanctification (CCEL)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "aclarke-commentary-ot-1": [
+   "holybiblecontain184601clar",
+   "Commentary: Old Testament vol. 1, Genesis-Deuteronomy (New York: G. Lane & C. B. Tippett, 1846)"
+  ],
+  "aclarke-commentary-ot-2": [
+   "holybiblecontai184602clar",
+   "Commentary: Old Testament vol. 2, Joshua-Esther (New York: Lane & Tippett, 1846)"
+  ],
+  "aclarke-commentary-ot-3": [
+   "holybiblecontai184603clar",
+   "Commentary: Old Testament vol. 3, Job-Song of Solomon (New York: Lane & Tippett, 1846)"
+  ],
+  "aclarke-commentary-ot-4": [
+   "holybiblecontain184604clar",
+   "Commentary: Old Testament vol. 4, Isaiah-Malachi (New York: G. Lane & P. P. Sandford, 1843)"
+  ],
+  "aclarke-commentary-nt-1": [
+   "newtestamentofou01clar",
+   "Commentary: New Testament vol. 1, Matthew-Acts (New York: Lane & Tippett, 1846)"
+  ],
+  "aclarke-commentary-nt-2": [
+   "newtestamentofo02clar",
+   "Commentary: New Testament vol. 2, Romans-Revelation (New York: Lane & Tippett, 1846)"
+  ],
+  "aclarke-christian-theology-1840": [
+   "christiantheolog00clar",
+   "Christian Theology, selected and arranged with a life of the author by Samuel Dunn (New York: T. Mason & G. Lane, 1840)"
+  ],
+  "aclarke-discourses-1": [
+   "discoursesonvari01clar",
+   "Discourses on Various Subjects, vol. 1, third edition (New York: M'Elrath & Bangs, 1830)"
+  ],
+  "aclarke-discourses-2": [
+   "discoursesonvari02clar",
+   "Discourses on Various Subjects, vol. 2, third edition (New York: M'Elrath & Bangs, 1831)"
+  ],
+  "aclarke-discourses-3": [
+   "discoursesonvari03clar",
+   "Discourses on Various Subjects, vol. 3, third edition (New York: M'Elrath & Bangs, 1831)"
+  ],
+  "aclarke-eucharist-1812": [
+   "discourseonnatur00clar",
+   "A Discourse on the Nature, Design, and Institution of the Holy Eucharist, with his smaller tracts (New York, 1812)"
+  ],
+  "aclarke-clavis-biblica": [
+   "preachersmanuali00clar",
+   "Clavis Biblica, in The Preacher's Manual (New York: N. Bangs & T. Mason; no year on the title page, catalogued 1821)"
+  ],
+  "aclarke-wesley-family-1824": [
+   "memoirsofwesleyf00clar_0",
+   "Memoirs of the Wesley Family (New York: N. Bangs & T. Mason, 1824)"
+  ],
+  "aclarke-life-1837": [
+   "accountofreligio00clar",
+   "An Account of the Religious and Literary Life of Adam Clarke, ed. J. B. B. Clarke (New York: T. Mason & G. Lane, 1837)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "aclarke-entire-sanctification": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "aclarke-commentary-ot-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aclarke-commentary-ot-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aclarke-commentary-ot-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aclarke-commentary-ot-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aclarke-commentary-nt-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aclarke-commentary-nt-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aclarke-christian-theology-1840": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aclarke-discourses-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aclarke-discourses-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aclarke-discourses-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aclarke-eucharist-1812": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aclarke-clavis-biblica": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aclarke-wesley-family-1824": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aclarke-life-1837": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adam clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

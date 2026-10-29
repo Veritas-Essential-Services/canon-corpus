@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain Moses Lowman (1680-1752), Presbyterian minister at Clapham, for the Word Hoard: A Paraphrase and Notes on the Revelation of St John (1745), A Dissertation on the Civil Government of the Hebrews (1740) and A Rational of the Ritual of the Hebrew Worship (1748), from Internet Archive scans. Added 2026-10-23 by lane A, round 46 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lowman"
+ ],
+ "_surname": [
+  "moses lowman",
+  "lowman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lowman-revelation": [
+   "paraphrasenoteso00lowm",
+   "A paraphrase and notes on the Revelation of St. John (London : Printed for John Noon ..., 1745)"
+  ],
+  "lowman-civil-government-hebrews": [
+   "bim_eighteenth-century_a-dissertation-on-the-ci_lowman-moses_1740",
+   "A Dissertation on the Civil Government of the Hebrews (London, catalogued 1740)"
+  ],
+  "lowman-ritual-hebrew-worship": [
+   "bim_eighteenth-century_a-rational-of-the-ritual_lowman-moses_1748",
+   "A Rational of the Ritual of the Hebrew Worship (London, catalogued 1748)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lowman-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moses lowman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lowman-civil-government-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moses lowman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lowman-ritual-hebrew-worship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moses lowman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1748",
+   "ia_date": "1748",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

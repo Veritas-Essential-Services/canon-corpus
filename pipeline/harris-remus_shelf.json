@@ -1,5 +1,5 @@
 {
- "_about": "Joel Chandler Harris's (1848-1908) Uncle Remus books: African American folk tales of Brer Rabbit set down in a white Georgia journalist's rendering of Black plantation dialect, framed by the figure of an elderly formerly enslaved storyteller. They preserve real folk tales and also carry the racism of their frame and period; both are part of the record. Uncle Remus, His Songs and His Sayings (1880), Nights with Uncle Remus (1883), Told by Uncle Remus (1905) and Uncle Remus and Brer Rabbit (1907). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Joel Chandler Harris's (1848-1908) Uncle Remus books: African American folk tales of Brer Rabbit set down in a white Georgia journalist's rendering of Black plantation dialect, framed by the figure of an elderly formerly enslaved storyteller. They preserve real folk tales and also carry the racism of their frame and period; both are part of the record. Uncle Remus, His Songs and His Sayings (1880), Nights with Uncle Remus (1883), Told by Uncle Remus (1905) and Uncle Remus and Brer Rabbit (1907). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Joel Chandler Harris at Gutenberg was added (14 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Joel Chandler Harris",
  "_name_words": [
   "uncle",
@@ -33,17 +33,92 @@
   "remus-uncle-remus-and-brer-rabbit": [
    22282,
    "Uncle Remus and Brer Rabbit (1907)"
+  ],
+  "remus-mingo-and-other-sketches-in-black-and-white": [
+   19648,
+   "Mingo, and Other Sketches in Black and White"
+  ],
+  "remus-little-mr-thimblefinger-and-his-queer-country": [
+   23869,
+   "Little Mr. Thimblefinger and His Queer Country",
+   {
+    "contents_only": true
+   }
+  ],
+  "remus-a-little-union-scout": [
+   23871,
+   "A Little Union Scout"
+  ],
+  "remus-stories-of-georgia": [
+   24728,
+   "Stories Of Georgia"
+  ],
+  "remus-free-joe-and-other-georgian-sketches": [
+   31160,
+   "Free Joe and Other Georgian Sketches",
+   {
+    "contents_only": true
+   }
+  ],
+  "remus-gabriel-tolliver": [
+   33058,
+   "Gabriel Tolliver: A Story of Reconstruction"
+  ],
+  "remus-bishop-and-the-boogerman": [
+   36370,
+   "The Bishop and the Boogerman"
+  ],
+  "remus-on-the-plantation": [
+   50701,
+   "On the Plantation: A Story of a Georgia Boy's Adventures during the War"
+  ],
+  "remus-aaron-in-the-wildwoods": [
+   52782,
+   "Aaron in the Wildwoods",
+   {
+    "contents_only": true
+   }
+  ],
+  "remus-balaam-and-his-master-and-other-sketches-and-stories": [
+   56883,
+   "Balaam and His Master, and Other Sketches and Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "remus-mr-rabbit-at-home-a-sequel-to-little-mr-thimblefinger": [
+   60098,
+   "Mr. Rabbit at Home A sequel to Little Mr. Thimblefinger and his Queer Country"
+  ],
+  "remus-daddy-jake-the-runaway-and-short-stories-told-after-da": [
+   60804,
+   "Daddy Jake the Runaway, and Short Stories Told after Dark"
+  ],
+  "remus-chronicles-of-aunt-minervy-ann": [
+   64770,
+   "The Chronicles of Aunt Minervy Ann",
+   {
+    "contents_only": true
+   }
+  ],
+  "remus-story-of-aaron-so-named-the-son-of-ben-ali": [
+   74880,
+   "The story of Aaron (so named) the son of Ben Ali",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
  "_excluded": {
   "remus-duplicates": "Uncle Remus, His Songs and His Sayings (PG 21605): a second transcription; Nights with Uncle Remus (PG 24430): the later Milo Winter edition of the same book",
-  "remus-other": "his other fiction and sketches (Free Joe, Mingo, Thimblefinger books and others): not Uncle Remus; candidates for a later batch"
+  "remus-other": "his other fiction and sketches (Free Joe, Mingo, Thimblefinger books and others): not Uncle Remus; candidates for a later batch",
+  "remus-index-of-the-project-gutenberg-works-of-joel-chandler": "PG 58687 is David Widger's index, not a text"
  },
  "_checks": {
   "remus-his-songs-and-sayings": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "joel chandler harris",
    "identity": "ok",
@@ -52,7 +127,7 @@
   },
   "remus-nights-with-uncle-remus": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "joel chandler harris",
    "identity": "ok",
@@ -61,7 +136,7 @@
   },
   "remus-told-by-uncle-remus": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "joel chandler harris",
    "identity": "ok",
@@ -70,7 +145,133 @@
   },
   "remus-uncle-remus-and-brer-rabbit": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-mingo-and-other-sketches-in-black-and-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-little-mr-thimblefinger-and-his-queer-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-a-little-union-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-stories-of-georgia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-free-joe-and-other-georgian-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-gabriel-tolliver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-bishop-and-the-boogerman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-on-the-plantation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-aaron-in-the-wildwoods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-balaam-and-his-master-and-other-sketches-and-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-mr-rabbit-at-home-a-sequel-to-little-mr-thimblefinger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-daddy-jake-the-runaway-and-short-stories-told-after-da": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-chronicles-of-aunt-minervy-ann": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joel chandler harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-story-of-aaron-so-named-the-son-of-ben-ali": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "joel chandler harris",
    "identity": "ok",

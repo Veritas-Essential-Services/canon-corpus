@@ -703,3 +703,1619 @@
 
 ## 2026-10-09 22:20 CDT: round 14 complete, lock released
 - 16 shelves this round (4 on 2026-10-03, 12 on 2026-10-09 after Adam's restart). Every shelf: all remote branches checked for shelf-name and source-id clashes, `--verify --record` 0 mismatched, 0 uids minted. Stopped at the end of the round as asked.
+
+## 2026-10-10 09:25 CDT — james-petigru-boyce done
+- `pipeline/james-petigru-boyce_shelf.json`: 1 CCEL, 0 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — john-l-dagg done
+- `pipeline/john-l-dagg_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for dagg-evidences-1869 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — john-a-broadus done
+- `pipeline/john-a-broadus_shelf.json`: 0 CCEL, 0 PG, 8 IA. Mark 1905 is a "0000"-style id; its title page shows the April 1905 first printing, recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — joseph-milner done
+- `pipeline/joseph-milner_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — francis-wayland done
+- `pipeline/francis-wayland_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for fwayland-intellectual-philosophy-1854 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — adam-clarke done
+- `pipeline/adam-clarke_shelf.json`: 1 CCEL, 0 PG, 14 IA. Commentary is 42 MB of OCR, the largest set this lane holds. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — william-burt-pope done
+- `pipeline/william-burt-pope_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for wbpope-compendium-1, wbpope-prayers-st-paul-1876 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — martin-luther done
+- `pipeline/martin-luther_shelf.json`: 3 CCEL, 6 PG, 7 IA. Cole's Bondage of the Will (1823 Google scan) OCRs at 82%. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — william-symington done
+- `pipeline/william-symington_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — john-dick done
+- `pipeline/john-dick_shelf.json`: 1 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — f-w-krummacher done
+- `pipeline/f-w-krummacher_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for fwkrummacher-elijah-1869, fwkrummacher-suffering-saviour-1856 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — e-w-hengstenberg done
+- `pipeline/e-w-hengstenberg_shelf.json`: 0 CCEL, 0 PG, 13 IA. Title pages read for hengstenberg-christology-4, hengstenberg-psalms-1, hengstenberg-psalms-2, hengstenberg-psalms-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — august-neander done
+- `pipeline/august-neander_shelf.json`: 5 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — august-tholuck done
+- `pipeline/august-tholuck_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for tholuck-sermon-mount-2 (OCR garbles the name), recorded in `_identity_checked`. Commentary on John is a "0000"-style id; its title page reads 1842, recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:50 CDT: round 15 complete
+- 14 shelves (Boyce, Dagg, Broadus, Milner, Wayland, Adam Clarke, W. B. Pope, Luther, Symington, John Dick, Krummacher, Hengstenberg, Neander, Tholuck). Shelf names and source ids checked on every remote branch (only generic CCEL work names like `life` and `acts` matched, under other authors). The fetcher cutoff fix from lane C was refused by this session's permissions and is logged for Adam. Round 16 follows.
+
+## 2026-10-10 10:08 CDT — william-arnot done
+- `pipeline/william-arnot_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for arnot-anchor-of-soul, arnot-life-james-hamilton-1870 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — james-hamilton-london done
+- `pipeline/james-hamilton-london_shelf.json`: 0 CCEL, 1 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — john-ker done
+- `pipeline/john-ker_shelf.json`: 0 CCEL, 0 PG, 6 IA. Two "0000"-style ids (Sermons 1885, Thoughts 1888); title pages read, in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — james-stalker done
+- `pipeline/james-stalker_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for stalker-trial-death-1894 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — w-g-blaikie done
+- `pipeline/w-g-blaikie_shelf.json`: 3 CCEL, 2 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — frederic-godet done
+- `pipeline/frederic-godet_shelf.json`: 0 CCEL, 0 PG, 13 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — i-a-dorner done
+- `pipeline/i-a-dorner_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for dorner-system-4, dorner-person-1-1, dorner-person-2-2, dorner-person-2-3, dorner-protestant-theology-1, dorner-protestant-theology-2 (OCR garbles the name), recorded in `_identity_checked`. Six title pages garble his name ("CORNER", "DOENEE"); each read. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — julius-muller done
+- `pipeline/julius-muller_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — rudolf-stier done
+- `pipeline/rudolf-stier_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for stier-words-1, stier-words-2, stier-words-4, stier-words-5, stier-words-7, stier-words-8, stier-risen-saviour-1864 (OCR garbles the name), recorded in `_identity_checked`. The OCR reads his name "EUDOLF STIEE" on most title pages; each read. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — c-e-luthardt done
+- `pipeline/c-e-luthardt_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for luthardt-st-john-author-1875, luthardt-st-johns-gospel-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — theodor-christlieb done
+- `pipeline/theodor-christlieb_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:29 CDT — j-h-kurtz done
+- `pipeline/j-h-kurtz_shelf.json`: 0 CCEL, 3 PG, 5 IA. Title pages read for kurtz-old-covenant-2, kurtz-old-covenant-3, kurtz-sacrificial-worship-1863 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:30 CDT: round 16 complete
+- 12 shelves (Arnot, James Hamilton of Regent Square, John Ker, Stalker, Blaikie, Godet, Dorner, Julius Müller, Stier, Luthardt, Christlieb, Kurtz). Shelf names and source ids checked on every remote branch: no clashes. Round 17 next: the six pickups the Classical reading-lists thread left for existing shelves, then new authors.
+
+## 2026-10-10 10:33 CDT: round 17 pickups
+- `spurgeon_shelf.json`: +4 Gutenberg, +3 IA (Lectures to My Students series 1-3, Soul-Winner, Wicket Gate, Talks to Farmers, Gleanings). `charles-finney_shelf.json`: +1 IA (Memoirs, 1876). Perkins's Reformed Catholike is already in Workes vol. 1; Ryle's Thoughts for Young Men has no pre-1930 scan found; Dabney's Jackson stays excluded (military biography); Beza's shelf is PR #14's. `--verify --record` on both shelves: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — john-berridge done
+- `pipeline/john-berridge_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for berridge-fragment-1760 (OCR garbles the name), recorded in `_identity_checked`. Fragment of the True Religion attributed by catalogue (anonymous title page). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — rowland-hill done
+- `pipeline/rowland-hill-surrey-chapel_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for rhill-psalms-hymns (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — j-c-philpot done
+- `pipeline/j-c-philpot_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — william-huntington done
+- `pipeline/william-huntington_shelf.json`: 0 CCEL, 0 PG, 15 IA. Title pages read for huntington-works-18 (OCR garbles the name), recorded in `_identity_checked`. Works volumes are an incomplete set. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — john-brine done
+- `pipeline/john-brine_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for brine-certain-efficacy, brine-vindication-1746, brine-true-sense-atonement, brine-eternal-justification, brine-motives-love-unity, brine-jabez-1736 (OCR garbles the name), recorded in `_identity_checked`. ECCO OCR is rough (long s). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:17 CDT — r-w-dale done
+- `pipeline/r-w-dale_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for dale-fellowship-with-christ (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:17 CDT — joseph-parker done
+- `pipeline/joseph-parker_shelf.json`: 0 CCEL, 0 PG, 39 IA. Title pages read for parker-ecce-deus, parker-peoples-bible-08, parker-peoples-bible-15, parker-peoples-bible-26 (OCR garbles the name), recorded in `_identity_checked`. Large shelf: 39 volumes. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:17 CDT — christmas-evans done
+- `pipeline/christmas-evans_shelf.json`: 0 CCEL, 2 PG, 2 IA. Three of the four items are biographies by other hands. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — thomas-binney done
+- `pipeline/thomas-binney_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — henry-drummond done
+- `pipeline/henry-drummond_shelf.json`: 9 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — round 17 closed
+- Ten new shelves (Berridge, Rowland Hill of Surrey Chapel, J. C. Philpot, Huntington, Brine, R. W. Dale, Joseph Parker, Christmas Evans, Thomas Binney, Henry Drummond), 104 items; pickups on Spurgeon and Finney; Gadsby skipped. 0 uids minted.
+
+## 2026-10-10 11:54 CDT — a-j-gordon done
+- `pipeline/a-j-gordon_shelf.json`: 0 CCEL, 1 PG, 8 IA. Title pages read for gordon-gods-tenth (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:54 CDT — c-i-scofield done
+- `pipeline/c-i-scofield_shelf.json`: 0 CCEL, 0 PG, 12 IA. Course of Study vols. 1-3 carry only a 1907 copyright, no printing year. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — h-a-ironside done
+- `pipeline/h-a-ironside_shelf.json`: 0 CCEL, 0 PG, 5 IA. The Loizeaux address on the title page (1 East 13th Street) is the dating evidence for two undated items. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — a-c-gaebelein done
+- `pipeline/a-c-gaebelein_shelf.json`: 0 CCEL, 5 PG, 30 IA. Title pages read for gaebelein-matthew-1903, gaebelein-acts, gaebelein-john, gaebelein-christianity-religion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — arthur-w-pink done
+- `pipeline/arthur-w-pink_shelf.json`: 4 CCEL, 0 PG, 1 IA. CCEL's Pink texts are Logos e-texts; The Antichrist names no print source. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — john-l-girardeau done
+- `pipeline/john-l-girardeau_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for girardeau-conscience-civil-government, girardeau-remembrance-righteous (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — e-y-mullins done
+- `pipeline/e-y-mullins_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for mullins-axioms (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — b-h-carroll done
+- `pipeline/b-h-carroll_shelf.json`: 0 CCEL, 0 PG, 10 IA. An incomplete set of the Interpretation. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — j-r-graves done
+- `pipeline/j-r-graves_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for graves-trilemma-1860 (OCR garbles the name), recorded in `_identity_checked`. Seven items are 1928 Texarkana reprints. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:25 CDT — augustus-h-strong done
+- `pipeline/augustus-h-strong_shelf.json`: 0 CCEL, 4 PG, 17 IA. Title pages read for strong-transcendent-element (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:25 CDT — a-b-simpson done
+- `pipeline/a-b-simpson_shelf.json`: 0 CCEL, 1 PG, 35 IA. Title pages read for simpson-christ-bible-tabernacle, simpson-divine-emblems (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:25 CDT — a-t-pierson done
+- `pipeline/a-t-pierson_shelf.json`: 0 CCEL, 1 PG, 38 IA. Title pages read for pierson-greatest-work, pierson-life-power (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:26 CDT — round 18 closed
+- Twelve new shelves (A. J. Gordon, Scofield, Ironside, Gaebelein, Pink, Girardeau, Mullins, B. H. Carroll, J. R. Graves, Augustus H. Strong, A. B. Simpson, A. T. Pierson), 203 items. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — asa-mahan done
+- `pipeline/asa-mahan_shelf.json`: 0 CCEL, 1 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — thomas-c-upham done
+- `pipeline/thomas-c-upham_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for upham-religious-maxims, upham-divine-union, upham-ratio-disciplinae (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — moses-d-hoge done
+- `pipeline/moses-d-hoge_shelf.json`: 0 CCEL, 0 PG, 5 IA. Small shelf: most surviving material is about him. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — charles-p-krauth done
+- `pipeline/charles-p-krauth_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:14 CDT — s-s-schmucker done
+- `pipeline/s-s-schmucker_shelf.json`: 0 CCEL, 1 PG, 14 IA. Title pages read for schmucker-christian-pulpit, schmucker-peace-of-zion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — c-f-w-walther done
+- `pipeline/c-f-w-walther_shelf.json`: 0 CCEL, 0 PG, 3 IA. Small shelf. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — e-v-gerhart done
+- `pipeline/e-v-gerhart_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for gerhart-great-tribulation (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — w-h-griffith-thomas done
+- `pipeline/w-h-griffith-thomas_shelf.json`: 0 CCEL, 1 PG, 19 IA. Title pages read for gthomas-holy-spirit (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — p-t-forsyth done
+- `pipeline/p-t-forsyth_shelf.json`: 0 CCEL, 0 PG, 24 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — robert-flint done
+- `pipeline/robert-flint_shelf.json`: 0 CCEL, 1 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — h-r-mackintosh done
+- `pipeline/h-r-mackintosh_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — g-campbell-morgan done
+- `pipeline/g-campbell-morgan_shelf.json`: 0 CCEL, 0 PG, 36 IA. Title pages read for morgan-analyzed-bible-01 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — round 19 closed
+- Twelve new shelves (Mahan, Upham, Moses D. Hoge, Krauth, Schmucker, Walther, Gerhart, Griffith Thomas, Forsyth, Flint, H. R. Mackintosh, Campbell Morgan). 0 uids minted.
+
+## 2026-10-10 13:51 CDT — j-n-darby done
+- `pipeline/j-n-darby_shelf.json`: 0 CCEL, 0 PG, 17 IA. Title pages read for darby-synopsis-05, darby-newman-apologia (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — john-colquhoun done
+- `pipeline/john-colquhoun_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — f-j-a-hort done
+- `pipeline/f-j-a-hort_shelf.json`: 1 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — legh-richmond done
+- `pipeline/legh-richmond_shelf.json`: 0 CCEL, 2 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — william-kelly-brethren done
+- `pipeline/william-kelly-brethren_shelf.json`: 0 CCEL, 0 PG, 29 IA. Title pages read for kelly-daniel-notes, kelly-galatians, kelly-abram, kelly-elements-prophecy (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — f-w-grant done
+- `pipeline/f-w-grant_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for grant-numerical-bible-2, grant-numerical-bible-5 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — b-w-newton done
+- `pipeline/b-w-newton_shelf.json`: 0 CCEL, 0 PG, 16 IA. Title pages read for newton-aids-prophetic, newton-court-of-arches (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — james-fraser-brea done
+- `pipeline/james-fraser-brea_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for fraser-brea-meditations, fraser-brea-saving-faith-1722, fraser-brea-memoirs, fraser-brea-prelacy-idol, fraser-brea-justifying-faith-1749 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — robert-govett done
+- `pipeline/robert-govett_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for govett-not-water-baptism, govett-brides-bath (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — andrew-jukes done
+- `pipeline/andrew-jukes_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for jukes-law-of-offerings, jukes-new-man (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — h-w-soltau done
+- `pipeline/h-w-soltau_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for soltau-soul-difficulties (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — john-kitto done
+- `pipeline/john-kitto_shelf.json`: 0 CCEL, 0 PG, 18 IA. Title pages read for kitto-daily-bible-08 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:10 CDT — round 20 closed
+- Twelve shelves, 138 items (1 CCEL, 2 Gutenberg, 135 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — anthony-norris-groves done
+- `pipeline/anthony-norris-groves_shelf.json`: 0 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — j-w-burgon done
+- `pipeline/j-w-burgon_shelf.json`: 2 CCEL, 2 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — james-mccosh done
+- `pipeline/james-mccosh_shelf.json`: 0 CCEL, 0 PG, 19 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — alfred-edersheim done
+- `pipeline/alfred-edersheim_shelf.json`: 2 CCEL, 0 PG, 14 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — david-baron done
+- `pipeline/david-baron_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — s-p-tregelles done
+- `pipeline/s-p-tregelles_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for tregelles-daniel-visions (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — george-salmon done
+- `pipeline/george-salmon_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for salmon-nt-introduction, salmon-cathedral-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — j-g-bellett done
+- `pipeline/j-g-bellett_shelf.json`: 0 CCEL, 1 PG, 4 IA. Title pages read for bellett-moral-glory, bellett-gospel-john (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — john-caird done
+- `pipeline/john-caird_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for caird-religion-common-life (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — alvah-hovey done
+- `pipeline/alvah-hovey_shelf.json`: 0 CCEL, 0 PG, 16 IA. Title pages read for hovey-impenitent-dead (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — j-m-pendleton done
+- `pipeline/j-m-pendleton_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for pendleton-atonement (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — j-h-jowett done
+- `pipeline/j-h-jowett_shelf.json`: 5 CCEL, 2 PG, 14 IA. Title pages read for jowett-apostolic-optimism, jowett-the-preacher (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:56 CDT — round 21 closed
+- Twelve shelves, 126 items (9 CCEL, 7 Gutenberg, 110 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
+
+## 2026-10-10 15:12 CDT — paused
+- Paused at Adam's request after round 21. Round 22 queued, not started. LOCK-A status paused. RUN-CONTROL.json not touched (its note says workers never write it).
+
+## 2026-10-17T16:34:36-05:00 — resumed
+- Resumed on Adam's 2026-10-17 request. Starting round 22 (queued 2026-10-10). Aquinas belongs to a new thread; lane A holds none.
+
+## 2026-10-17 17:21 CDT — william-carey done
+- `pipeline/william-carey_shelf.json`: 0 CCEL, 1 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:21 CDT — james-h-brookes done
+- `pipeline/james-h-brookes_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for brookes-mystery-of-suffering (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:21 CDT — nathaniel-west done
+- `pipeline/nathaniel-west_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:21 CDT — george-n-h-peters done
+- `pipeline/george-n-h-peters_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for peters-theocratic-kingdom-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:21 CDT — w-j-erdman done
+- `pipeline/w-j-erdman_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — james-m-gray done
+- `pipeline/james-m-gray_shelf.json`: 1 CCEL, 1 PG, 16 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — w-e-blackstone done
+- `pipeline/w-e-blackstone_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for blackstone-our-god-universe (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — george-f-pentecost done
+- `pipeline/george-f-pentecost_shelf.json`: 0 CCEL, 0 PG, 13 IA. Title pages read for pentecost-bible-studies-1892, pentecost-bible-studies-1893 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — a-c-dixon done
+- `pipeline/a-c-dixon_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for dixon-true-and-false (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — marvin-r-vincent done
+- `pipeline/marvin-r-vincent_shelf.json`: 0 CCEL, 1 PG, 24 IA. Title pages read for vincent-faith-and-character, vincent-two-prodigals, vincent-monster-higher-critic, vincent-ministers-handbook, vincent-debt-of-power (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — j-r-macduff done
+- `pipeline/j-r-macduff_shelf.json`: 0 CCEL, 4 PG, 18 IA. Title pages read for macduff-memories-gennesaret, macduff-sunsets-hebrew-mountains, macduff-shepherd-and-flock, macduff-footsteps-st-peter, macduff-eventide-at-bethel, macduff-early-graves (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — frances-ridley-havergal done
+- `pipeline/frances-ridley-havergal_shelf.json`: 1 CCEL, 0 PG, 12 IA. Title pages read for havergal-little-pillows, havergal-morning-bells (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — henry-edward-manning done
+- `pipeline/henry-edward-manning_shelf.json`: 4 CCEL, 0 PG, 30 IA. Title pages read for manning-grounds-of-faith, manning-love-of-jesus, manning-blessed-sacrament-sermon, manning-fourfold-sovereignty, manning-sin-and-consequences, manning-glories-sacred-heart, manning-eternal-priesthood (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — f-w-faber done
+- `pipeline/f-w-faber_shelf.json`: 0 CCEL, 0 PG, 19 IA. Title pages read for faber-lives-of-saints-essay, faber-spiritual-conferences (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — isaac-williams done
+- `pipeline/isaac-williams_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for williams-nativity-harmonized (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — f-d-maurice done
+- `pipeline/f-d-maurice_shelf.json`: 0 CCEL, 1 PG, 28 IA. Title pages read for maurice-church-or-state-educate, maurice-church-a-family (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — h-b-swete done
+- `pipeline/h-b-swete_shelf.json`: 0 CCEL, 0 PG, 20 IA. Title pages read for swete-ancient-creeds (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — william-sanday done
+- `pipeline/william-sanday_shelf.json`: 0 CCEL, 2 PG, 18 IA. Title pages read for sanday-bishop-gore-challenge (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — s-r-driver done
+- `pipeline/s-r-driver_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for driver-intro-literature-ot (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — henry-scott-holland done
+- `pipeline/henry-scott-holland_shelf.json`: 0 CCEL, 0 PG, 20 IA. Title pages read for holland-real-problem-eschatology (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — e-m-goulburn done
+- `pipeline/e-m-goulburn_shelf.json`: 0 CCEL, 1 PG, 21 IA. Title pages read for goulburn-personal-religion, goulburn-holy-communion-2, goulburn-acts-of-deacons, goulburn-farewell-counsels, goulburn-holy-catholic-church, goulburn-everlasting-punishment (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:23 CDT — c-j-vaughan done
+- `pipeline/c-j-vaughan_shelf.json`: 0 CCEL, 2 PG, 33 IA. Title pages read for vaughan-harrow-sundays, vaughan-revelation-2, vaughan-words-from-cross, vaughan-temple-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:23 CDT — william-milligan done
+- `pipeline/william-milligan_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:23 CDT — a-p-stanley done
+- `pipeline/a-p-stanley_shelf.json`: 0 CCEL, 0 PG, 18 IA. Title pages read for stanley-corinthians-1, stanley-unity-teaching, stanley-jewish-church-2, stanley-special-occasions (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:24 CDT — rounds 22 and 23 closed
+- Round 22: 12 shelves, 121 items (2 CCEL, 7 PG, 112 IA). Round 23: 12 shelves, 252 items (4 CCEL, 6 PG, 242 IA). All `--verify --record`: 0 mismatched; 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 17:35 CDT — john-tauler done
+- `pipeline/john-tauler_shelf.json`: 3 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — jan-van-ruysbroeck done
+- `pipeline/jan-van-ruysbroeck_shelf.json`: 1 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — henry-suso done
+- `pipeline/henry-suso_shelf.json`: 1 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — meister-eckhart done
+- `pipeline/meister-eckhart_shelf.json`: 1 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — theologia-germanica done
+- `pipeline/theologia-germanica_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for theologia-germanica-malcolm (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — walter-hilton done
+- `pipeline/walter-hilton_shelf.json`: 1 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — richard-rolle done
+- `pipeline/richard-rolle_shelf.json`: 0 CCEL, 1 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — julian-of-norwich done
+- `pipeline/julian-of-norwich_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — cloud-of-unknowing done
+- `pipeline/cloud-of-unknowing_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — teresa-of-avila done
+- `pipeline/teresa-of-avila_shelf.json`: 1 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — john-of-the-cross done
+- `pipeline/john-of-the-cross_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — francis-de-sales done
+- `pipeline/francis-de-sales_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for desales-love-of-god-1630 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — francois-fenelon done
+- `pipeline/francois-fenelon_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for fenelon-pious-reflections, fenelon-maxims-of-saints-1698 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — brother-lawrence done
+- `pipeline/brother-lawrence_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:41 CDT — madame-guyon done
+- `pipeline/madame-guyon_shelf.json`: 1 CCEL, 2 PG, 8 IA. Title pages read for guyon-short-easie-method-1704, guyon-short-method-brooke (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:41 CDT — miguel-de-molinos done
+- `pipeline/miguel-de-molinos_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:41 CDT — lorenzo-scupoli done
+- `pipeline/lorenzo-scupoli_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:41 CDT — round 24 closed
+- 17 shelves, 91 items (9 CCEL, 5 PG, 77 IA), translators recorded in `_translators`. All `--verify --record`: 0 mismatched; 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 18:10 CDT — bernard-of-clairvaux done
+- `pipeline/bernard-of-clairvaux_shelf.json`: 1 CCEL, 1 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — francis-of-assisi done
+- `pipeline/francis-of-assisi_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — ignatius-of-loyola done
+- `pipeline/ignatius-of-loyola_shelf.json`: 1 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — catherine-of-siena done
+- `pipeline/catherine-of-siena_shelf.json`: 1 CCEL, 1 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — catherine-of-genoa done
+- `pipeline/catherine-of-genoa_shelf.json`: 1 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — angela-of-foligno done
+- `pipeline/angela-of-foligno_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — gertrude-the-great done
+- `pipeline/gertrude-the-great_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — mechthild-of-hackeborn done
+- `pipeline/mechthild-of-hackeborn_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — mechthild-of-magdeburg done
+- `pipeline/mechthild-of-magdeburg_shelf.json`: 0 CCEL, 1 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — bridget-of-sweden done
+- `pipeline/bridget-of-sweden_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — louis-of-granada done
+- `pipeline/louis-of-granada_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — louis-de-blois done
+- `pipeline/louis-de-blois_shelf.json`: 3 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — alphonsus-liguori done
+- `pipeline/alphonsus-liguori_shelf.json`: 0 CCEL, 1 PG, 21 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — augustine-baker done
+- `pipeline/augustine-baker_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for baker-sancta-sophia-1657 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — jacques-benigne-bossuet done
+- `pipeline/jacques-benigne-bossuet_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for bossuet-exposition-1672, bossuet-variations-1742-1, bossuet-universal-history-1778 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — ramon-lull done
+- `pipeline/ramon-lull_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — jacob-boehme done
+- `pipeline/jacob-boehme_shelf.json`: 1 CCEL, 0 PG, 15 IA. Title pages read for boehme-signatura-rerum (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:12 CDT — round 25 closed
+- 17 shelves, 116 items (8 CCEL, 6 PG, 102 IA), all `--verify --record` 0 mismatched; 0 uids minted. Clash check across all remote branches: no shelf-name or id clashes. Veto points and the CCEL count updated in DIGEST-A.
+
+## 2026-10-17 18:44 CDT — girolamo-savonarola done
+- `pipeline/girolamo-savonarola_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — hugh-of-saint-victor done
+- `pipeline/hugh-of-saint-victor_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — robert-southwell done
+- `pipeline/robert-southwell_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — robert-bellarmine done
+- `pipeline/robert-bellarmine_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for bellarmine-art-dying-well-1621, bellarmine-art-dying-well-ball (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — francis-xavier done
+- `pipeline/francis-xavier_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — louis-bourdaloue done
+- `pipeline/louis-bourdaloue_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — jean-baptiste-massillon done
+- `pipeline/jean-baptiste-massillon_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — henri-lacordaire done
+- `pipeline/henri-lacordaire_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — frederic-ozanam done
+- `pipeline/frederic-ozanam_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — johann-adam-moehler done
+- `pipeline/johann-adam-moehler_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — ignaz-von-doellinger done
+- `pipeline/ignaz-von-doellinger_shelf.json`: 0 CCEL, 0 PG, 15 IA. Title pages read for doellinger-history-church-2, doellinger-history-church-3, doellinger-history-church-4, doellinger-gentile-and-jew-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — alban-butler done
+- `pipeline/alban-butler_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for butler-lives-saints-3, butler-lives-saints-4, butler-lives-saints-5 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — richard-challoner done
+- `pipeline/richard-challoner_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — louis-de-montfort done
+- `pipeline/louis-de-montfort_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — jean-nicolas-grou done
+- `pipeline/jean-nicolas-grou_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — vincent-de-paul done
+- `pipeline/vincent-de-paul_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — alphonsus-rodriguez done
+- `pipeline/alphonsus-rodriguez_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — round 26 closed
+- 17 shelves, 107 items (0 CCEL, 1 PG, 106 IA), all `--verify --record` 0 mismatched; 0 uids minted. Clash check across all remote branches: no shelf-name or id clashes. Veto points updated in DIGEST-A.
+
+## 2026-10-17 19:13 CDT — charles-gore done
+- `pipeline/charles-gore_shelf.json`: 0 CCEL, 0 PG, 20 IA. Title pages read for gore-ministry-christian-church (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — j-r-illingworth done
+- `pipeline/j-r-illingworth_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for illingworth-college-sermons, illingworth-personality (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — w-r-inge done
+- `pipeline/w-r-inge_shelf.json`: 0 CCEL, 1 PG, 17 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — evelyn-underhill done
+- `pipeline/evelyn-underhill_shelf.json`: 0 CCEL, 2 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — friedrich-von-hugel done
+- `pipeline/friedrich-von-hugel_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for hugel-essays-addresses-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — nicholas-love done
+- `pipeline/nicholas-love_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — john-cosin done
+- `pipeline/john-cosin_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for cosin-scholastical-history-1657 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — hurrell-froude done
+- `pipeline/hurrell-froude_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — robert-hugh-benson done
+- `pipeline/robert-hugh-benson_shelf.json`: 0 CCEL, 2 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — aleksei-khomiakov done
+- `pipeline/aleksei-khomiakov_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — philaret-of-moscow done
+- `pipeline/philaret-of-moscow_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — john-of-kronstadt done
+- `pipeline/john-of-kronstadt_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:20 CDT — round 27 closed
+- Twelve shelves, 91 items (0 CCEL, 5 PG, 86 IA). Nicholas of Cusa dropped (lane B built it first). Froude's Remains part II vol. I pending. 0 uids minted.
+
+## 2026-10-17 19:30 CDT — nicholas-wiseman done
+- `pipeline/nicholas-wiseman_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:30 CDT — william-ullathorne done
+- `pipeline/william-ullathorne_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — john-cuthbert-hedley done
+- `pipeline/john-cuthbert-hedley_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — t-e-bridgett done
+- `pipeline/t-e-bridgett_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for bridgett-holy-eucharist-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — james-gibbons done
+- `pipeline/james-gibbons_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — orestes-brownson done
+- `pipeline/orestes-brownson_shelf.json`: 0 CCEL, 0 PG, 24 IA. Title pages read for brownson-spirit-rapper, brownson-convert (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — isaac-hecker done
+- `pipeline/isaac-hecker_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — martin-john-spalding done
+- `pipeline/martin-john-spalding_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for spalding-evidences-catholicity (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — john-milner done
+- `pipeline/john-milner_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — john-mason-neale done
+- `pipeline/john-mason-neale_shelf.json`: 0 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — richard-meux-benson done
+- `pipeline/richard-meux-benson_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — samuel-wilberforce done
+- `pipeline/samuel-wilberforce_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — r-c-moberly done
+- `pipeline/r-c-moberly_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — w-j-knox-little done
+- `pipeline/w-j-knox-little_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — arthur-james-mason done
+- `pipeline/arthur-james-mason_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — francis-aidan-gasquet done
+- `pipeline/francis-aidan-gasquet_shelf.json`: 0 CCEL, 3 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — round 28 closed
+- Sixteen shelves, 112 items (0 CCEL, 4 PG, 108 IA). Milner's End of Religious Controversy pending (initials only). 0 uids minted.
+
+## 2026-10-17 19:56 CDT — adolf-harnack done
+- `pipeline/adolf-harnack_shelf.json`: 0 CCEL, 0 PG, 16 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — albrecht-ritschl done
+- `pipeline/albrecht-ritschl_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — wilhelm-herrmann done
+- `pipeline/wilhelm-herrmann_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — auguste-sabatier done
+- `pipeline/auguste-sabatier_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — karl-joseph-von-hefele done
+- `pipeline/karl-joseph-von-hefele_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — johann-alzog done
+- `pipeline/johann-alzog_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — franz-hettinger done
+- `pipeline/franz-hettinger_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — constant-fouard done
+- `pipeline/constant-fouard_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — jean-jacques-olier done
+- `pipeline/jean-jacques-olier_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — john-vianney done
+- `pipeline/john-vianney_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — auguste-gratry done
+- `pipeline/auguste-gratry_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for gratry-month-of-mary (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — felix-dupanloup done
+- `pipeline/felix-dupanloup_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — gustave-de-ravignan done
+- `pipeline/gustave-de-ravignan_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — francois-rene-de-chateaubriand done
+- `pipeline/francois-rene-de-chateaubriand_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — felicite-de-lamennais done
+- `pipeline/felicite-de-lamennais_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — louis-gaston-de-segur done
+- `pipeline/louis-gaston-de-segur_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for segur-plain-talk-protestantism, segur-familiar-instructions-1, segur-familiar-instructions-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:57 CDT — hans-lassen-martensen done
+- `pipeline/hans-lassen-martensen_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:57 CDT — carl-ullmann done
+- `pipeline/carl-ullmann_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:57 CDT — richard-rothe done
+- `pipeline/richard-rothe_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:57 CDT — gerhard-uhlhorn done
+- `pipeline/gerhard-uhlhorn_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for uhlhorn-christian-charity (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:57 CDT — bernhard-weiss done
+- `pipeline/bernhard-weiss_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:58 CDT — round 29 closed
+- 21 shelves, 102 IA items, all verified; 0 uids minted. Donoso Cortés skipped (lane B's shelf). Round 30 queued (26 shelves, 160 items) and building.
+
+## 2026-10-17 20:25 CDT — ludwig-von-pastor done
+- `pipeline/ludwig-von-pastor_shelf.json`: 0 CCEL, 0 PG, 18 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — johannes-janssen done
+- `pipeline/johannes-janssen_shelf.json`: 0 CCEL, 0 PG, 17 IA. Title pages read for janssen-german-people-4 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — john-of-avila done
+- `pipeline/john-of-avila_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for avila-cure-of-discomfort-1632 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — peter-of-alcantara done
+- `pipeline/peter-of-alcantara_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — luis-de-leon done
+- `pipeline/luis-de-leon_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — jacques-monsabre done
+- `pipeline/jacques-monsabre_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — emile-bougaud done
+- `pipeline/emile-bougaud_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — therese-of-lisieux done
+- `pipeline/therese-of-lisieux_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — anne-catherine-emmerich done
+- `pipeline/anne-catherine-emmerich_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — henri-didon done
+- `pipeline/henri-didon_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — paolo-segneri done
+- `pipeline/paolo-segneri_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for segneri-manna-of-the-soul-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — giovanni-battista-scaramelli done
+- `pipeline/giovanni-battista-scaramelli_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — louis-lallemant done
+- `pipeline/louis-lallemant_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — jean-baptiste-saint-jure done
+- `pipeline/jean-baptiste-saint-jure_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — hermann-olshausen done
+- `pipeline/hermann-olshausen_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — h-a-w-meyer done
+- `pipeline/h-a-w-meyer_shelf.json`: 0 CCEL, 0 PG, 15 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — gottlieb-lunemann done
+- `pipeline/gottlieb-lunemann_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — johann-eduard-huther done
+- `pipeline/johann-eduard-huther_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — august-ebrard done
+- `pipeline/august-ebrard_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — august-wiesinger done
+- `pipeline/august-wiesinger_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — johann-peter-lange done
+- `pipeline/johann-peter-lange_shelf.json`: 0 CCEL, 0 PG, 15 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — karl-rudolf-hagenbach done
+- `pipeline/karl-rudolf-hagenbach_shelf.json`: 0 CCEL, 0 PG, 10 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — johann-karl-ludwig-gieseler done
+- `pipeline/johann-karl-ludwig-gieseler_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — gustav-friedrich-oehler done
+- `pipeline/gustav-friedrich-oehler_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — emil-schurer done
+- `pipeline/emil-schurer_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for schurer-jewish-people-2-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — johannes-jacobus-van-oosterzee done
+- `pipeline/johannes-jacobus-van-oosterzee_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:27 CDT — round 30 closed
+- 26 shelves, 159 IA items, all verified; 0 uids minted. Segneri's 1703 Penitent Instructed pending (garbled author line). Round 31 queued (19 shelves, 83 items) and building.
+
+## 2026-10-17 20:41 CDT — julius-wellhausen done
+- `pipeline/julius-wellhausen_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:41 CDT — theodor-keim done
+- `pipeline/theodor-keim_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:41 CDT — otto-pfleiderer done
+- `pipeline/otto-pfleiderer_shelf.json`: 0 CCEL, 0 PG, 19 IA. Title pages read for pfleiderer-gifford-1, pfleiderer-gifford-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:41 CDT — willibald-beyschlag done
+- `pipeline/willibald-beyschlag_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:41 CDT — adolf-deissmann done
+- `pipeline/adolf-deissmann_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — theodor-zahn done
+- `pipeline/theodor-zahn_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — hermann-cremer done
+- `pipeline/hermann-cremer_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — christian-friedrich-schmid done
+- `pipeline/christian-friedrich-schmid_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — johann-tobias-beck done
+- `pipeline/johann-tobias-beck_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — gustav-warneck done
+- `pipeline/gustav-warneck_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — thomas-erskine-of-linlathen done
+- `pipeline/thomas-erskine-of-linlathen_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for terskine-internal-evidence (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — john-colet done
+- `pipeline/john-colet_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — john-fisher done
+- `pipeline/john-fisher_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — johann-arndt done
+- `pipeline/johann-arndt_shelf.json`: 0 CCEL, 1 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — johann-gerhard done
+- `pipeline/johann-gerhard_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — gerhard-tersteegen done
+- `pipeline/gerhard-tersteegen_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — paul-gerhardt done
+- `pipeline/paul-gerhardt_shelf.json`: 0 CCEL, 1 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — august-hermann-francke done
+- `pipeline/august-hermann-francke_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — nicolaus-ludwig-von-zinzendorf done
+- `pipeline/nicolaus-ludwig-von-zinzendorf_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for zinzendorf-sixteen-discourses, zinzendorf-seven-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:43 CDT — round 31 closed
+- 19 shelves, 83 items (2 PG, 81 IA), all verified; 0 uids minted. Round 32 being researched.
+
+## 2026-10-17 21:17 CDT — leo-xiii done
+- `pipeline/leo-xiii_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — wilfrid-ward done
+- `pipeline/wilfrid-ward_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — desire-joseph-mercier done
+- `pipeline/desire-joseph-mercier_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for mercier-experimental-psychology (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — augustin-poulain done
+- `pipeline/augustin-poulain_shelf.json`: 0 CCEL, 0 PG, 1 IA. Title pages read for poulain-graces-interior-prayer (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — pierre-pourrat done
+- `pipeline/pierre-pourrat_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — alfred-loisy done
+- `pipeline/alfred-loisy_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — joseph-rickaby done
+- `pipeline/joseph-rickaby_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for jrickaby-moral-philosophy, jrickaby-lord-my-light (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — washington-gladden done
+- `pipeline/washington-gladden_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — walter-rauschenbusch done
+- `pipeline/walter-rauschenbusch_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — josiah-strong done
+- `pipeline/josiah-strong_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — william-newton-clarke done
+- `pipeline/william-newton-clarke_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — arthur-cushman-mcgiffert done
+- `pipeline/arthur-cushman-mcgiffert_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — george-a-gordon done
+- `pipeline/george-a-gordon_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — theodore-t-munger done
+- `pipeline/theodore-t-munger_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for munger-on-the-threshold (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — edward-robinson done
+- `pipeline/edward-robinson_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — george-adam-smith done
+- `pipeline/george-adam-smith_shelf.json`: 0 CCEL, 2 PG, 10 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — w-robertson-smith done
+- `pipeline/w-robertson-smith_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for wrsmith-prophets-of-israel (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — john-tulloch done
+- `pipeline/john-tulloch_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — j-hudson-taylor done
+- `pipeline/j-hudson-taylor_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — oswald-chambers done
+- `pipeline/oswald-chambers_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:20 CDT — round 32 closed
+- 20 shelves, 155 items (2 PG, 153 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 21:36 CDT — david-livingstone done
+- `pipeline/david-livingstone_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — robert-moffat done
+- `pipeline/robert-moffat_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — john-g-paton done
+- `pipeline/john-g-paton_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — alexander-duff done
+- `pipeline/alexander-duff_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — james-chalmers-of-new-guinea done
+- `pipeline/james-chalmers-of-new-guinea_shelf.json`: 0 CCEL, 1 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — adoniram-judson done
+- `pipeline/adoniram-judson_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — john-williams-of-the-south-seas done
+- `pipeline/john-williams-of-the-south-seas_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — adrian-fortescue done
+- `pipeline/adrian-fortescue_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — herbert-thurston done
+- `pipeline/herbert-thurston_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — augustine-f-hewit done
+- `pipeline/augustine-f-hewit_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — john-gilmary-shea done
+- `pipeline/john-gilmary-shea_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — vincent-mcnabb done
+- `pipeline/vincent-mcnabb_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — bede-jarrett done
+- `pipeline/bede-jarrett_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — e-h-plumptre done
+- `pipeline/e-h-plumptre_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for plumptre-life-ken-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — phoebe-palmer done
+- `pipeline/phoebe-palmer_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for ppalmer-way-of-holiness, ppalmer-useful-disciple (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — william-booth done
+- `pipeline/william-booth_shelf.json`: 0 CCEL, 1 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — catherine-booth done
+- `pipeline/catherine-booth_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — samuel-logan-brengle done
+- `pipeline/samuel-logan-brengle_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — william-arthur done
+- `pipeline/william-arthur_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for warthur-mission-mysore, warthur-italy-in-transition, warthur-pope-kings-people-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — daniel-steele done
+- `pipeline/daniel-steele_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — thomas-coke done
+- `pipeline/thomas-coke_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — amy-carmichael done
+- `pipeline/amy-carmichael_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:40 CDT — round 33 closed
+- 22 shelves, 117 items (2 PG, 115 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 22:08 CDT — george-fox done
+- `pipeline/george-fox_shelf.json`: 0 CCEL, 3 PG, 11 IA. Title pages read for gfox-works-6, gfox-works-7 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — robert-barclay done
+- `pipeline/robert-barclay_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — william-penn done
+- `pipeline/william-penn_shelf.json`: 0 CCEL, 3 PG, 9 IA. Title pages read for wpenn-no-cross-1743 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — isaac-penington done
+- `pipeline/isaac-penington_shelf.json`: 0 CCEL, 0 PG, 10 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — thomas-ellwood done
+- `pipeline/thomas-ellwood_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — john-woolman done
+- `pipeline/john-woolman_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for woolman-considerations-1762 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — elias-hicks done
+- `pipeline/elias-hicks_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — job-scott done
+- `pipeline/job-scott_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for jobscott-essays-salvation, jobscott-baptism-1793 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — stephen-grellet done
+- `pipeline/stephen-grellet_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — rufus-m-jones done
+- `pipeline/rufus-m-jones_shelf.json`: 0 CCEL, 3 PG, 6 IA. Title pages read for rmjones-mystical-religion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — william-bramwell done
+- `pipeline/william-bramwell_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for bramwell-ann-cutler-1798 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — william-carvosso done
+- `pipeline/william-carvosso_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — hester-ann-rogers done
+- `pipeline/hester-ann-rogers_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for harogers-account-baltimore (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — john-nelson-methodist done
+- `pipeline/john-nelson-methodist_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — g-h-pember done
+- `pipeline/g-h-pember_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for pember-great-prophecies-1881 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — e-w-bullinger done
+- `pipeline/e-w-bullinger_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for ewbullinger-enjoy-bible, ewbullinger-book-of-job (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — sir-robert-anderson done
+- `pipeline/sir-robert-anderson_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for randerson-coming-prince-6 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — evan-h-hopkins done
+- `pipeline/evan-h-hopkins_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for ehhopkins-thoughts-life (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — emanuel-swedenborg done
+- `pipeline/emanuel-swedenborg_shelf.json`: 0 CCEL, 0 PG, 19 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — william-chillingworth done
+- `pipeline/william-chillingworth_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for chillingworth-religion-protestants-1638 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — william-warburton done
+- `pipeline/william-warburton_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for warburton-divine-legation-1738 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — sir-thomas-browne done
+- `pipeline/sir-thomas-browne_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for tbrowne-hydriotaphia-1658 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — hannah-more done
+- `pipeline/hannah-more_shelf.json`: 0 CCEL, 3 PG, 7 IA. Title pages read for hmore-works-1834-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — charles-wesley done
+- `pipeline/charles-wesley_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:10 CDT — round 34 closed
+- 24 shelves, 166 items (17 PG, 149 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 22:27 CDT — john-ireland done
+- `pipeline/john-ireland_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — john-j-keane done
+- `pipeline/john-j-keane_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — herbert-vaughan done
+- `pipeline/herbert-vaughan_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for hvaughan-who-is-st-joseph, hvaughan-submission (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — geremia-bonomelli done
+- `pipeline/geremia-bonomelli_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — louis-veuillot done
+- `pipeline/louis-veuillot_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — francis-procter done
+- `pipeline/francis-procter_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for procter-history-bcp-1869 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — john-henry-blunt done
+- `pipeline/john-henry-blunt_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for jhblunt-directorium-pastorale (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — g-f-maclear done
+- `pipeline/g-f-maclear_shelf.json`: 0 CCEL, 2 PG, 6 IA. Title pages read for maclear-class-book-ot, maclear-class-book-nt, maclear-introduction-creeds (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — john-lingard done
+- `pipeline/john-lingard_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for lingard-collection-tracts (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — a-n-mouravieff done
+- `pipeline/a-n-mouravieff_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — william-palmer-of-worcester done
+- `pipeline/william-palmer-of-worcester_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — william-palmer-of-magdalen done
+- `pipeline/william-palmer-of-magdalen_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — angelus-silesius done
+- `pipeline/angelus-silesius_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — claude-fleury done
+- `pipeline/claude-fleury_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — henry-hart-milman done
+- `pipeline/henry-hart-milman_shelf.json`: 0 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — charles-de-montalembert done
+- `pipeline/charles-de-montalembert_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for montalembert-monks-west-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — pasquier-quesnel done
+- `pipeline/pasquier-quesnel_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for quesnel-nt-reflections-2, quesnel-nt-reflections-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — johann-lorenz-von-mosheim done
+- `pipeline/johann-lorenz-von-mosheim_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — mandell-creighton done
+- `pipeline/mandell-creighton_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for creighton-papacy-1, creighton-papacy-2, creighton-papacy-4 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — walter-farquhar-hook done
+- `pipeline/walter-farquhar-hook_shelf.json`: 0 CCEL, 1 PG, 12 IA. Title pages read for wfhook-archbishops-1, wfhook-archbishops-2, wfhook-archbishops-4, wfhook-archbishops-5, wfhook-archbishops-7, wfhook-archbishops-8, wfhook-archbishops-9, wfhook-archbishops-10, wfhook-archbishops-11, wfhook-church-dictionary-1842 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — james-craigie-robertson done
+- `pipeline/james-craigie-robertson_shelf.json`: 0 CCEL, 1 PG, 9 IA. Title pages read for jcrobertson-becket (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — george-park-fisher done
+- `pipeline/george-park-fisher_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for gpfisher-reformation (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:40 CDT — round 35 closed
+- 22 shelves, 138 items (4 PG, 134 IA), 0 mismatched, 0 uids minted. Peter Canisius dropped (unreadable title page). Veto points in DIGEST-A.
+
+## 2026-10-17 22:45 CDT — alexander-cruden done
+- `pipeline/alexander-cruden_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — robert-young-concordance done
+- `pipeline/robert-young-concordance_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — a-r-fausset done
+- `pipeline/a-r-fausset_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — cunningham-geikie done
+- `pipeline/cunningham-geikie_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for geikie-life-words-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — alfred-plummer done
+- `pipeline/alfred-plummer_shelf.json`: 0 CCEL, 2 PG, 9 IA. Title pages read for plummer-2-corinthians-icc (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — a-t-robertson done
+- `pipeline/a-t-robertson_shelf.json`: 0 CCEL, 1 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — lyman-abbott done
+- `pipeline/lyman-abbott_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for labbott-ancient-hebrews (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — elizabeth-rundle-charles done
+- `pipeline/elizabeth-rundle-charles_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — margaret-bottome done
+- `pipeline/margaret-bottome_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — mother-mary-loyola done
+- `pipeline/mother-mary-loyola_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — janet-erskine-stuart done
+- `pipeline/janet-erskine-stuart_shelf.json`: 0 CCEL, 1 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — christina-rossetti done
+- `pipeline/christina-rossetti_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for crossetti-seek-and-find (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — j-r-miller done
+- `pipeline/j-r-miller_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for jrmiller-in-his-steps, jrmiller-practical-religion, jrmiller-personal-friendships (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — theodore-l-cuyler done
+- `pipeline/theodore-l-cuyler_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — t-de-witt-talmage done
+- `pipeline/t-de-witt-talmage_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:47 CDT — robert-jamieson done
+- `pipeline/robert-jamieson_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for rjamieson-pentateuch-joshua (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:47 CDT — charlotte-elizabeth-tonna done
+- `pipeline/charlotte-elizabeth-tonna_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for ctonna-judahs-lion, ctonna-works-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:47 CDT — anna-shipton done
+- `pipeline/anna-shipton_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for ashipton-waiting-hours, ashipton-hidden-springs, ashipton-tell-jesus (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:47 CDT — james-hope-moulton done
+- `pipeline/james-hope-moulton_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:49 CDT — russell-h-conwell done
+- `pipeline/russell-h-conwell_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for rhconwell-christ-life, rhconwell-little-bo (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:49 CDT — newell-dwight-hillis done
+- `pipeline/newell-dwight-hillis_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for ndhillis-influence-christ (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:49 CDT — charles-m-sheldon done
+- `pipeline/charles-m-sheldon_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:49 CDT — h-clay-trumbull done
+- `pipeline/h-clay-trumbull_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:50 CDT — round 36 closed
+- 23 shelves, 146 items (6 PG, 140 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 22:51 CDT — gregory-the-great done
+- `pipeline/gregory-the-great_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:51 CDT — adam-of-saint-victor done
+- `pipeline/adam-of-saint-victor_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:51 CDT — boniface-of-mainz done
+- `pipeline/boniface-of-mainz_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:55 CDT — patrick-of-ireland done
+- `pipeline/patrick-of-ireland_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:55 CDT — bernardine-of-siena done
+- `pipeline/bernardine-of-siena_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — jean-gerson done
+- `pipeline/jean-gerson_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — reginald-pole done
+- `pipeline/reginald-pole_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — giovanni-bona done
+- `pipeline/giovanni-bona_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for bona-manuductio-1672 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — nicolas-caussin done
+- `pipeline/nicolas-caussin_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for caussin-holy-court-1634, caussin-holy-court-passions-1638, caussin-christian-diary-1648, caussin-entertainments-lent-1755 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — jean-crasset done
+- `pipeline/jean-crasset_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — diego-de-estella done
+- `pipeline/diego-de-estella_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — john-eudes done
+- `pipeline/john-eudes_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:01 CDT — luis-de-la-puente done
+- `pipeline/luis-de-la-puente_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for puente-meditations-gibbons-1610 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:01 CDT — francisco-arias done
+- `pipeline/francisco-arias_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for arias-litle-memorial (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:01 CDT — jean-joseph-surin done
+- `pipeline/jean-joseph-surin_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:04 CDT — jean-baptiste-de-la-salle done
+- `pipeline/jean-baptiste-de-la-salle_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — henri-marie-boudon done
+- `pipeline/henri-marie-boudon_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — benet-of-canfield done
+- `pipeline/benet-of-canfield_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — gertrude-more done
+- `pipeline/gertrude-more_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — jean-pierre-camus done
+- `pipeline/jean-pierre-camus_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for camus-discours-hermite-1630, camus-admirable-events-1639 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — juan-eusebio-nieremberg done
+- `pipeline/juan-eusebio-nieremberg_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for nieremberg-meditation-life-death-1682 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — leonard-of-port-maurice done
+- `pipeline/leonard-of-port-maurice_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for leonard-hidden-treasure-1861 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — john-gother done
+- `pipeline/john-gother_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:10 CDT — round 37 closed
+- 23 shelves, 75 items (all IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 23:06 CDT — ephrem-the-syrian done
+- `pipeline/ephrem-the-syrian_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:06 CDT — narsai done
+- `pipeline/narsai_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — philoxenus-of-mabbug done
+- `pipeline/philoxenus-of-mabbug_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — isaac-of-nineveh done
+- `pipeline/isaac-of-nineveh_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — thomas-of-marga done
+- `pipeline/thomas-of-marga_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — palladius-of-galatia done
+- `pipeline/palladius-of-galatia_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — bar-hebraeus done
+- `pipeline/bar-hebraeus_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — john-of-ephesus done
+- `pipeline/john-of-ephesus_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — joshua-the-stylite done
+- `pipeline/joshua-the-stylite_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:14 CDT — macarius-of-egypt done
+- `pipeline/macarius-of-egypt_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:14 CDT — peter-mogila done
+- `pipeline/peter-mogila_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:14 CDT — platon-levshin done
+- `pipeline/platon-levshin_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:15 CDT — round 38 closed
+- 12 shelves, 21 items (all IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 23:44 CDT — johannes-oecolampadius done
+- `pipeline/johannes-oecolampadius_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:44 CDT — friedrich-adolph-lampe done
+- `pipeline/friedrich-adolph-lampe_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:44 CDT — roger-williams done
+- `pipeline/roger-williams_shelf.json`: 0 CCEL, 2 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — david-brainerd done
+- `pipeline/david-brainerd_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — eleazar-wheelock done
+- `pipeline/eleazar-wheelock_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — samson-occom done
+- `pipeline/samson-occom_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — ezra-stiles done
+- `pipeline/ezra-stiles_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — william-b-sprague done
+- `pipeline/william-b-sprague_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — isaac-backus done
+- `pipeline/isaac-backus_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — richard-furman done
+- `pipeline/richard-furman_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:50 CDT — paused at Adam's request
+- Round 39: 10 shelves, 46 items committed; 12 shelves held and still queued (identity-check failures on garbled early-printing title pages). Round 40 research stopped with nothing queued. LOCK-A released (status paused) with the resume point.
+
+## 2026-10-22 23:10 CDT — round 39 completed, round 40 closed
+- Resumed by a new lane A thread (network restored). Round 39's ten held shelves with a qualifying book rebuilt from scratch: nathaniel-w-taylor, jonathan-mayhew, charles-chauncy, john-wise, john-eliot-of-roxbury, thomas-hooker-of-hartford, martin-bucer, johannes-brenz, martin-chemnitz, girolamo-zanchi (95 IA items). Osiander and Junius closed with nothing shelved.
+- Round 40: william-laud, herbert-thorndike, john-bramhall, mark-frank, peter-heylyn, simon-patrick, anthony-sparrow, william-sancroft, george-hickes, charles-leslie, john-kettlewell, henry-dodwell, robert-nelson, jeremy-collier, thomas-brett, john-johnson-of-cranbrook, thomas-deacon, samuel-seabury, william-white-bishop, john-henry-hobart, alexander-viets-griswold, philander-chase, menno-simons, dirk-philips, plus peter-canisius from round 35: 25 shelves, 143 IA items.
+- Every shelf `--verify --record`: 0 mismatched. 0 uids minted. Title pages that OCR garbles were read from the page images and quoted in `_identity_checked`; anonymous title pages went to `_pending`. Veto points in DIGEST-A.
+
+## 2026-10-22 23:18 CDT — round 41 closed; lane A stopped
+- alexander-jolly, thomas-rattray, archibald-campbell-nonjuror, peter-sterry, john-wilkins, john-overall, richard-montagu, john-hacket, william-wake, edmund-gibson, thomas-secker, william-van-mildert: 12 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted.
+- Lane A stopped at the end of this thread's run; LOCK-A released (status free). Nothing queued; round 42 candidates in DIGEST-A.
+
+## 2026-10-22 23:33 CDT — round 39 pickups and round 42 done
+- Round 39 pickups: franciscus-junius-elder (3 IA, new), martin-bucer +1 (bucer-gratulation), johannes-brenz +1 (Tymme's Newes from Niniue 1570). The earlier note that no English Junius was on the Archive is corrected in DIGEST-A.
+- Round 42: beilby-porteus, richard-hurd, robert-lowth, richard-field, thomas-bisse, thomas-comber, george-horne, william-jones-of-nayland, john-hey, samuel-johnson-of-connecticut, thieleman-van-braght: 11 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-22 23:40 CDT — round 43 done
+- nathaniel-lardner, john-jortin, john-sharp-archbishop, philip-skelton, john-hales-of-eton, isaac-milner, thomas-haweis, samuel-walker-of-truro, william-bromley-cadogan: 9 shelves, 52 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-22 23:45 CDT — round 44 done
+- francis-atterbury, benjamin-hoadly, thomas-tenison, william-sherlock: 4 shelves, 15 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-22 23:53 CDT — round 45 done
+- edward-fowler, john-scott-christian-life, richard-lucas, george-stanhope, charles-wheatly, daniel-whitby, william-nicholls, george-smalridge, thomas-newton-bishop, zachary-pearce, offspring-blackall: 11 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-22 23:58 CDT — round 46 done
+- samuel-chandler, james-foster, henry-grove, john-taylor-of-norwich, job-orton, moses-lowman, john-maclaurin: 7 shelves, 36 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 00:02 CDT — round 47 done
+- charles-john-ellicott, edward-harold-browne, william-connor-magee, edwards-amasa-park, joseph-augustus-seiss, henry-eyster-jacobs: 6 shelves, 38 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 00:17 CDT — round 48 done
+- carl-friedrich-keil, franz-delitzsch, johann-albrecht-bengel, carl-august-auberlen, georg-benedikt-winer, conrad-von-orelli, august-dillmann, michael-baumgarten, karl-immanuel-nitzsch, adolf-harless, edmond-de-pressense, eugene-bersier, ernest-naville, karl-friedrich-august-kahnis: 14 shelves, 81 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 00:30 CDT — round 49 done
+- isaac-da-costa, matthias-loy, d-g-monrad, j-oswald-dykes, john-pye-smith, archibald-hall, george-hill-of-st-andrews, alexander-carson, george-burder, edward-williams-of-rotherham, james-morison-evangelical-union: 11 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 00:36 CDT — round 50 done
+- thomas-charles-of-bala, daniel-rowland, howell-harris, william-gadsby, john-kershaw-of-rochdale, joseph-irons, joseph-hussey: 7 shelves, 16 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 00:48 CDT — round 51 done
+- thomas-prince-of-boston, peter-bulkeley, michael-wigglesworth, john-norton-puritan, urian-oakes, benjamin-colman, thomas-foxcroft, joseph-sewall, edward-beecher, samuel-stanhope-smith: 10 shelves, 51 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 00:56 CDT — round 52 done
+- nathan-bangs, joseph-benson, daniel-d-whedon, miner-raymond, thomas-n-ralston, randolph-s-foster, john-miley-methodist, matthew-simpson, peter-cartwright: 9 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 01:03 CDT — round 53 done
+- basil-manly-jr, richard-fuller-baptist, jeremiah-b-jeter, john-leland-baptist, thomas-armitage, william-cathcart, andrew-broaddus, p-h-mell, ezekiel-gilman-robinson: 9 shelves, 28 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 01:15 CDT — round 54 done
+- b-m-palmer, william-henry-green, caspar-wistar-hodge, lyman-atwater, roswell-d-hitchcock, benjamin-kurtz, william-julius-mann: 7 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 01:22 CDT — round 55 done
+- charles-p-mcilvaine, stephen-h-tyng, william-meade, gregory-townsend-bedell, gregory-thurston-bedell, james-milnor, john-b-adger: 7 shelves, 41 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 01:32 CDT — round 56 done
+- j-h-a-bomberger, henry-harbaugh, john-mitchell-mason, nicholas-murray, richard-salter-storrs, george-duffield-1794, edward-norris-kirk, eliphalet-nott: 8 shelves, 60 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 01:50 CDT — round 57 done
+- joseph-benson, daniel-d-whedon, henry-ward-beecher, charles-a-briggs, newman-smyth, j-wilbur-chapman, henry-cowles-oberlin, james-h-fairchild, francis-l-patton: 9 shelves, 105 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:03 CDT — round 58 done
+- newman-hall, alexander-raleigh, henry-allon, j-baldwin-brown, h-grattan-guinness, mark-guy-pearse, joseph-angus, samuel-cox, hugh-macmillan, hugh-mcneile: 10 shelves, 83 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:15 CDT — round 59 done
+- edward-irving, robert-vaughan-1795, henry-rogers-1806, john-harris-1802, robert-halley, john-stoughton, thomas-raffles, robert-forman-horton, john-clifford, hugh-price-hughes, andrew-martin-fairbairn: 11 shelves, 68 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:23 CDT — round 60 done
+- austin-phelps, george-b-cheever, nehemiah-adams, ebenezer-porter, heman-humphrey, john-todd-1800, herrick-johnson: 7 shelves, 57 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:31 CDT — round 61 done
+- george-w-bethune, arthur-cleveland-coxe, george-washington-doane, frederic-dan-huntington, henry-b-whipple: 5 shelves, 41 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:36 CDT — round 62 done
+- william-m-taylor, howard-crosby, john-hall-1829: 3 shelves, 38 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:43 CDT — round 63 done
+- a-k-h-boyd, baptist-noel, francis-close: 3 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:51 CDT — round 64 done
+- orville-dewey, joseph-stevens-buckminster, e-h-chapin, henry-ware-jr, james-freeman-clarke, hosea-ballou, thomas-starr-king: 7 shelves, 53 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:00 CDT — round 65 done
+- john-cumming, henry-blunt, hugh-stowell, william-goode-1801: 4 shelves, 57 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:04 CDT — round 66 done
+- charles-bradley-1789, edward-henry-bickersteth, edward-garbett, hugh-stowell-brown, capel-molyneux: 5 shelves, 25 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:08 CDT — round 67 done
+- w-e-boardman, a-b-earle, e-payson-hammond, william-taylor-bishop, henry-clay-fish, john-l-nevius: 6 shelves, 31 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:23 CDT — round 68 done
+- joseph-mede, humphrey-prideaux, richard-allestree, soame-jenyns, j-w-mcgarvey: 5 shelves, 34 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:29 CDT — round 69 done
+- frederick-temple, w-robertson-nicoll, henry-wace, h-m-luckock: 4 shelves, 45 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:33 CDT — round 70 done
+- walter-f-adeney, g-g-findlay, j-rawson-lumby: 3 shelves, 35 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:38 CDT — round 71 done
+- j-j-stewart-perowne, w-m-clow, john-kelman, w-l-watkinson, h-w-webb-peploe, marcus-rainsford: 6 shelves, 45 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:48 CDT — round 72 done
+- hugh-black, s-d-gordon, g-h-morrison, c-silvester-horne: 4 shelves, 53 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:55 CDT — round 73 done
+- charles-e-jefferson, i-m-haldeman, wilbur-fisk, andrew-thomson-edinburgh, george-c-needham, joseph-kinghorn: 6 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:01 CDT — round 74 done
+- joseph-bingham, julius-charles-hare, ashton-oxenden: 3 shelves, 49 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:09 CDT — round 75 done
+- anthony-w-thorold, francis-paget, stopford-a-brooke, w-morley-punshon: 4 shelves, 44 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:20 CDT — round 76 done
+- charles-f-deems, david-james-burrell, louis-albert-banks, jabez-burns: 4 shelves, 101 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:25 CDT — round 77 done
+- minot-j-savage, edmund-h-sears, thomas-belsham, david-swing: 4 shelves, 55 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:33 CDT — round 78 done
+- robert-e-speer, henry-sloane-coffin, maltbie-d-babcock, william-a-quayle, john-gorham-palfrey: 5 shelves, 72 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:37 CDT — round 79 done
+- william-f-mcdowell, alfred-williams-momerie, thomas-g-selby, william-nevins, j-b-waterbury: 5 shelves, 42 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:44 CDT — round 80 done
+- francis-blackburne, george-j-mountain, ralph-c-horner, j-d-jones, john-william-colenso, jean-pierre-de-caussade: 6 shelves, 39 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:49 CDT — round 81 done
+- john-wyclif, huldreich-zwingli, jan-hus, hensley-henson: 4 shelves, 34 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:54 CDT — round 82 done
+- franz-hunolt, i-d-williamson, john-medley, edward-hartley-dewart: 4 shelves, 26 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:58 CDT — round 83 done
+- charles-gay, edward-hawkins-oriel, frederick-f-shannon, sylvester-joseph-hunter, william-cochrane, john-m-ashley: 6 shelves, 34 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:10 CDT — round 84 done
+- joseph-agar-beet, alexander-keith, reginald-heber, m-f-sadler: 4 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:18 CDT — round 85 done
+- harry-emerson-fosdick, james-moffatt, arthur-s-peake, b-h-streeter: 4 shelves, 62 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:26 CDT — round 86 done
+- t-k-cheyne, george-hodges, charles-bigg, stanley-leathes, frank-ballard: 5 shelves, 86 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:33 CDT — round 87 done
+- william-berriman, peter-gandolphy, edward-nares, william-derham, george-w-burnap, andrew-leete-stone: 6 shelves, 47 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:39 CDT — round 88 done
+- samuel-stennett, joseph-john-gurney, james-meikle, f-x-weninger, robert-stuart-macarthur, alexander-mckenzie: 6 shelves, 69 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:44 CDT — round 89 done
+- joseph-wild, elijah-parish, christopher-sutton, james-dana, daniel-dana, samuel-t-spear: 6 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:48 CDT — round 90 done
+- george-d-herron, charles-h-parkhurst, henry-kollock, john-stark-ravenscroft, frank-w-gunsaulus, alexander-h-vinton: 6 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:52 CDT — round 91 done
+- george-t-purves, randolph-h-mckim, john-cordner, george-deshon: 4 shelves, 32 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:00 CDT — round 92 done
+- henry-w-bellows, samuel-minton, ezra-stiles-gannett, basil-w-maturin, charles-c-grafton: 5 shelves, 65 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:06 CDT — round 93 done
+- a-f-winnington-ingram, chandler-robbins-boston, alexander-mathieson, george-albert-coe, edward-wix, henry-wilkes: 6 shelves, 60 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:13 CDT — round 94 done
+- oliver-heywood, james-janeway, anne-dutton, robert-jenkin, henry-melvill-gwatkin, morgan-dix: 6 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:19 CDT — round 95 done
+- milton-s-terry, frederic-henry-hedge, stephen-olin, theophilus-lindsey, george-putnam-roxbury, wayland-hoyt: 6 shelves, 58 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:27 CDT — round 96 done
+- thomas-bradbury, georg-joachim-zollikofer, jedidiah-morse, abiel-abbot-livermore, alfred-e-garvie, j-scott-lidgett: 6 shelves, 63 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:34 CDT — round 97 done
+- henry-codman-potter, john-codman, w-b-godbey, harvey-newcomb, james-mudge, samuel-kirkland-lothrop: 6 shelves, 71 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:40 CDT — round 98 done
+- s-t-bloomfield, philip-s-moxom, john-hurrion, william-gahan, leonard-withington, j-p-k-henshaw: 6 shelves, 44 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:44 CDT — round 99 done
+- leonard-twells, joseph-berington, isaac-hellmuth, w-h-p-faunce, cleland-b-mcafee, stephen-farley: 6 shelves, 44 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:52 CDT — round 100 done
+- warren-a-candler, francis-j-mcconnell, charles-f-aked, w-t-herridge, w-b-riley, j-r-p-sclater: 6 shelves, 58 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:56 CDT — round 101 done
+- christoph-christian-sturm, elizabeth-singer-rowe, johannes-gossner, frances-power-cobbe, w-j-dawson: 5 shelves, 32 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:01 CDT — round 102 done
+- john-r-mott, willis-d-weatherford, j-w-dawson, matthew-richey, a-s-billingsley: 5 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:05 CDT — round 103 done
+- samuel-mcchord-crothers, robert-collyer, george-c-lorimer, joseph-tuckerman, james-caughey: 5 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:10 CDT — round 104 done
+- charles-wagner, john-edgar-mcfadyen, archibald-campbell-tait, horatio-southgate, george-h-hepworth: 5 shelves, 56 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:15 CDT — round 105 done
+- daniel-p-kidder, manton-eastburn, henry-u-onderdonk, theodore-dehon, seth-williston, alexander-proudfit: 6 shelves, 31 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:20 CDT — round 106 done
+- philip-lindsley, henry-belfrage, alexander-macwhorter, daniel-merrill, warren-fay, john-pierce-brookline: 6 shelves, 35 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:25 CDT — round 107 done
+- phineas-d-gurley, george-buist-charleston, william-cogswell-dedham, augustus-woodbury, edward-caswall, george-sexton: 6 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:31 CDT — round 108 done
+- a-t-schofield, william-d-snodgrass, william-snodgrass-canada, john-service, clovis-g-chappell: 5 shelves, 28 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:35 CDT — round 109 done
+- john-machale, henry-newland, john-franklin-genung, s-reynolds-hole, lewis-french-stearns, peter-thacher-brattle: 6 shelves, 31 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:40 CDT — round 110 done
+- john-mcclintock, h-j-wilmot-buxton, j-c-cochran, f-barham-zincke, john-frederick-schroeder: 5 shelves, 29 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:43 CDT — round 111 done
+- w-t-leach, caleb-d-bradlee, john-carry, george-webber, william-rintoul: 5 shelves, 30 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:49 CDT — round 112 done
+- w-c-e-newbolt, joseph-s-c-f-frey, julius-kaftan, otto-zockler, milton-p-braman: 5 shelves, 51 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:54 CDT — round 113 done
+- beverly-carradine, alexander-smellie, sylvanus-stall, thomas-hopkins-gallaudet, archibald-alison-minister: 5 shelves, 53 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 07:59 CDT — round 114 done
+- donald-sage-mackay, james-henry-snowden, g-h-gerberding, david-magie-elizabeth, francis-fulford, floyd-w-tomkins: 6 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:04 CDT — round 115 done
+- w-b-selbie, john-hersey-methodist, charles-l-goodell, howard-allen-bridgman, charles-comfort-tiffany, leander-s-keyser: 6 shelves, 52 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:09 CDT — round 116 done
+- g-b-f-hallock, isaac-crook, robert-cooney, henry-scadding, james-henry-potts, william-l-stidger: 6 shelves, 58 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:13 CDT — round 117 done
+- charles-herbert-rust, edward-e-keedy, allan-pearson-shatford, w-e-orchard, john-mcneill-evangelist: 5 shelves, 38 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:20 CDT — round 118 done
+- george-thomas-stokes, w-j-conybeare, t-r-birks, crawford-howell-toy, w-h-fitchett, charles-s-eby: 6 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:25 CDT — round 119 done
+- f-n-peloubet, john-s-grasty, p-a-halpin, jerom-alley, pius-devine, joseph-longking: 6 shelves, 32 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:34 CDT — round 120 done
+- henry-sacheverell, thomas-gisborne, thomas-townson, naphtali-daggett, samuel-lavington, f-homes-dudden: 6 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:43 CDT — round 121 done
+- j-e-c-welldon, w-h-fremantle, alexander-mleod, elisha-lord-cleaveland, john-m-krebs, w-j-sparrow-simpson: 6 shelves, 57 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:49 CDT — round 122 done
+- l-a-gotwald, a-h-tuttle, robert-w-patterson, charles-moss-bath-wells, alexander-topp, robert-machray-rupertsland: 6 shelves, 27 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:59 CDT — round 123 done
+- c-j-blomfield, william-bright, andrew-snape, john-guyse, charles-trimnell: 5 shelves, 67 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:08 CDT — round 124 done
+- luke-milbourne, benjamin-wallin, nicholas-snethen, aaron-bancroft, j-m-cramp: 5 shelves, 84 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:10 CDT — round 125 done
+- benjamin-b-wisner, george-w-truett, leighton-parks, camden-m-cobern, frederic-a-noble: 5 shelves, 29 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:14 CDT — round 126 done
+- j-lewis-diman, thomas-a-jaggar, john-huntley-skrine, frank-milton-bristol, paul-rader, james-de-normandie: 6 shelves, 33 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:18 CDT — round 127 done
+- henry-a-brann, john-clowes, joseph-vaill-brimfield, samuel-h-virgin, william-parkinson-baptist, morgan-cowie, robert-easton-montreal: 7 shelves, 29 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:25 CDT — round 128 done
+- william-burkitt, thomas-stackhouse, j-f-ostervald, george-pretyman-tomline, jacob-duche: 5 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:32 CDT — round 129 done
+- charles-henry-brent, lewis-sperry-chafer, percy-dearmer, john-pulsford, milton-valentine, christopher-bethell: 6 shelves, 42 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:37 CDT — round 130 done
+- william-maskell, t-b-kilpatrick, jonathan-brierley, james-h-mcconkey, martin-wells-knapp: 5 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:42 CDT — round 131 done
+- george-rawlinson, william-r-whittingham, andrew-c-zenos, james-strahan, samuel-zane-batten, francis-jacox, d-a-harsha: 7 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:46 CDT — round 132 done
+- f-crawford-burkitt, kirsopp-lake, frederick-carl-eiselen, j-g-pike, l-a-lambert, r-a-redford: 6 shelves, 39 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:50 CDT — round 133 done
+- henry-scudder, samuel-m-janney, t-h-darlow, a-j-maas, cecil-john-cadoux, w-w-everts: 6 shelves, 30 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:59 CDT — round 134 done
+- john-shower, baron-stow, david-bogue, jonathan-mayhew-wainwright, thomas-whittemore, richard-fiddes: 6 shelves, 72 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-24 — Adam's Libronix authors done
+- martin-luther +42, calvin +32, franz-delitzsch +4, ryle +4, nathaniel-west notes only; the other seven authors were already complete. `--verify --record`: 0 mismatched on every changed shelf. 0 uids minted. Holds and not-found list in DIGEST-A.
+
+## 2026-10-23 21:04 CDT — round 135 done
+- william-staughton, francis-gastrell, charles-a-heurtley, john-newland-maffitt, richard-smalbroke, clarence-e-macartney: 6 shelves, 41 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 21:11 CDT — round 136 done
+- john-leng, nathanael-burwash, thomas-turton, john-de-soyres, henry-j-ripley, george-augustus-selwyn: 6 shelves, 42 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 21:26 CDT — round 137 done
+- thomas-herring, william-fleetwood, jeremiah-seed, john-abernethy-antrim, john-bernard-dalgairns, frederick-oakeley: 6 shelves, 47 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 21:38 CDT — round 138 done
+- william-clagett, isaac-maddox, samuel-squire, richard-mant, john-kaye, jonathan-shipley: 6 shelves, 47 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-28 CDT — Adam's Reformed authors table: done
+
+152 items added across 13 shelves (3 new: louis-berkhof, abraham-kuyper-gaps, heinrich-bullinger-gaps). The other 14 authors on the table were already complete. Every touched shelf verified with 0 mismatched. Details are in DIGEST-A. Lane A is paused again.

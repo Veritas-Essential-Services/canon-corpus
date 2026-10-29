@@ -72,7 +72,7 @@
 ## Review fixes, 2026-10-02 21:10 CDT (for Adam)
 - **Duplicates now under `_held`, not fetched as second witnesses:** 111 Perseus TEI rows that repeat a translation already on the same shelf (Plutarch's Goodwin Moralia 77, Adams's Hippocrates 17 and Aretaeus 4, Brock's Galen, Burton and Smithers's Catullus, Heath's Euclid, Conington's Odes, Long and Higginson's Epictetus 4, the Fowlers' Lucian 2, Rolfe's Julius, Murray's Rhesus). 132 Perseus rows remain. Also held: Cary's Pindar (lane C's cary shelf), PG 6762 and 8438 (Adler shelf), Edghill's Categories (Oxford vol. I).
 - **Adler shelf label error, yours to fix:** `adler_shelf.json` labels PG 6762 (aristotle-politics) "tr. Jowett", but Gutenberg's header names William Ellis (his 1776 translation). Lane B does not edit that file.
-- **Held back on rights:** Seneca his Tenne Tragedies (Tudor Translations, 1927) carries T. S. Eliot's introduction: US public domain by date, but not life+70. Take the text without it, or the 1581 or 1887 printings?
+- **Held back on rights:** Seneca his Tenne Tragedies (Tudor Translations, 1927) carries T. S. Eliot's introduction: US public domain by date, but not life+70. Take the text without it, or the 1581 or 1887 printings? **Settled 2026-10-10 without needing a ruling:** the same translations are now held from the 1581 first printing, so the 1927 printing stays out.
 - **Withdrawn again:** Smart's 1756 Horace and Thornton's 1767 Plautus. The ECCO OCR is 0.65-0.76, and nothing new justified retaking them.
 - **Collated:** PG 14020 (anonymous literal Horace) matches Smart's prose as Buckley revised it (107 of 200 sampled 8-word runs), not the 1756 form. Both are kept; is one enough?
 
@@ -156,3 +156,133 @@
 - Roman historians: Aikin's Tacitus added; the 18th-century ECCO candidates fell under the OCR bar (07:19). No decision needed.
 - Greek prose: Mackay's Sophistes added; the rest is held (07:21). No decision needed.
 - Ransome, Swallows and Amazons (08:59, at Adam's request): only book 1 is public domain, and only in the US (since 1 January 2026); none of the twelve is free in the UK until 2038, and books 2-12 free in the US one by one from 2027 to 2043. Book 1 is held from a 1946 Cape impression, OCR 0.88. Three calls for Adam: (1) is a US-only book acceptable on the shelf, given Armarium may be read from the UK; (2) the scan is a later printing, not collated against 1930; (3) its drawings and captions date from the 1938 edition, so the captions are not yet US public domain. Faded Page has proofread texts of all twelve, but those are free in Canada only, so none were taken.
+- Round 2026-10-10a (09:11): nine volumes added. Two held back for you: (1) The Index Expurgatorius of Martial (1868), public domain with clean OCR, but it collects only the obscene epigrams; say if it belongs on the shelf. (2) Carr's five-volume Dialogues of Lucian (1773-98): no scan shows a readable title page, though the prefaces are signed John Carr; say if the signed preface is enough.
+- Round 2026-10-10b (09:19): the Tenne Tragedies hold is settled by taking the 1581 first printing (no Eliot introduction); two more volumes added; notes corrected. No decision needed.
+- Round 2026-10-10c (09:27): five volumes added; no decision needed.
+- Round 2026-10-10d (09:31): five volumes added; no decision needed.
+- Round 2026-10-10e (09:42): six volumes added. Cooke's Terence vol. II joins Carr's Lucian in the title-page question already asked; no new decision.
+- Round 2026-10-10f (09:48): three volumes added; Goldwin Smith's Euripides excerpts taken back out. No decision needed.
+- Round 2026-10-10g (09:54): six volumes added from retries of refused items; no decision needed.
+- Round 2026-10-10h (10:00): four volumes added. The Pitt and Warton set now mixes two editions (1763 and 1778); say if you want it re-taken as one edition. No decision needed otherwise.
+- Round 2026-10-10i (10:07): seven volumes added, two new shelves (Paulus Aegineta, Phalaris). No decision needed.
+- Round 2026-10-10j (10:18): four volumes added, six refusals recorded. No decision needed.
+- Round 2026-10-10k (10:24): six volumes added, including Brumoy's Greek Theatre in Lennox's translation (new shelf). No decision needed; the Greek-facing question now also covers Kennedy's Agamemnon and Cromer's Paraphrases.
+- Round 2026-10-10l (10:34): eight volumes added. No decision needed.
+- Round 2026-10-10m (10:37): one volume added. Robert Duncan's Boethius (Edinburgh, catalogue 1789) joins the undated rows: it reads cleanly but prints no legible year. Same answer as the other undated rows applies.
+- Round 2026-10-10n (10:40): Fairbanks's First Philosophers added from a cleaner scan; one stale wishlist line fixed. No decision needed.
+- 10:47 round o: 3 volumes (Frere's Frogs; Biddle and Portal Crown orations). Storr's Loeb Sophocles vol. II added to the Greek-facing question. No new decision class.
+- 10:55 round p: nothing added. **New question (one book):** Dawes's complete Alexiad of Anna Comnena (1928, public domain everywhere) exists on IA only as modern digital retypes, with no scan of the printed book. Take the Medieval Sourcebook retype, which keeps her introduction and names its source, or wait for a scan? Recommendation: take it, flagged as a retype. **Finding:** lane B is close to exhausted at the 0.78 bar; most of what is left waits on the Greek-facing and later-printings rulings above.
+- 11:12 round q: pivot to classical scholarship on the coordinator's steer. 69 volumes on 24 new shelves (Grote, Mommsen, Smith's Dictionaries, Jebb, Warde Fowler, Mahaffy, Harrison, Niebuhr and more). No new question. Note only: commentaries (Mayor's Juvenal, Conington's Virgil) read 0.73-0.75 because of line references although the OCR is good; they stay out under the 0.78 rule unless you say otherwise.
+- 11:20 round r: 34 more volumes of classical scholarship on 22 new shelves (Pater, Gladstone's Homer, Schliemann, Cumont, Mau's Pompeii, How and Wells and more). No new question.
+- 11:24 round s: 15 more volumes (Sandys, Seyffert, Bury, Curtius tr. Ward, Becker's Gallus). No new question.
+- 11:32 round t: 12 more volumes (Thirlwall 8, Arnold's Rome 3, Smith's Biography vol. III). No new question.
+- 11:39 Round 10u: 27 scholarship volumes (Müller, Long, Mure, Cornewall Lewis and others). Nothing new for Adam to decide; Jevons's imprint year is OCR-doubtful and noted on the shelf.
+- 11:44 Round 10v: 10 volumes (Cruttwell, Verrall, Haigh, Mackail, Sellar, Butcher, Bury). Nothing new for Adam.
+- 11:51 Round 10w: 13 volumes. ~~NEW QUESTION for Adam: complete Merivale with vols. VI-VIII from later impressions?~~ Withdrawn in round 10x: those impressions are pre-1930, so they are outside the later-printings class and were simply added.
+- 11:56 Round 10x: 14 volumes (Freeman's Sicily, Abbott, Holm, Merivale VI-VIII). The Merivale question from 11:51 is withdrawn; no new questions.
+- 11:58 Round 10y: 7 volumes (Ihne, Pelham, Leaf). No new questions.
+- 12:01 Round 10z: 11 volumes (Bunbury, Tozer, Dyer, Middleton, Ramsay, Wordsworth, Gardner and Jevons). No new questions.
+- 12:04 Round 10aa: 5 volumes (Anthon, Rich, Peck, Liddell). Lempriere on Gutenberg held: its transcribers expanded the abbreviations, so it waits with the modernized-texts question.
+- 12:06 Round 10ab: 7 volumes (Donaldson, Campbell, Moulton, Felton, Leake). No new questions.
+- 12:08 Round 10ac: 8 volumes (Leake's Travels, Mahaffy's Greek Literature). No new questions.
+- 12:11 Round 10ad: 5 volumes (Müller's Dorians, Niebuhr's History of Rome). No new questions.
+- 12:13 Round 10ae: 10 volumes (Glover, Ridgeway, Rice Holmes, Bury, Frazer). No new questions.
+- 12:18 Round 10af: 9 volumes (Capes, Strachan-Davidson, Bevan, Oman, Mahaffy, Warde Fowler). No new questions.
+- 12:19 Round 10ag: 3 Latin grammars. The Greek grammars (Goodwin, Smyth) fall under the bar because they are mostly Greek; they join the Greek-facing question already with you.
+- 12:20 **Lane B paused** after round 10ag: about 259 scholarship volumes since the pivot; the seam is thinning (last rounds 9 and 3). Still open for Adam: the Alexiad retype, the post-1930 later-printings class, the Perseus modernized texts (Lempriere's expanded Gutenberg text now sits with it), and the Greek-facing measure (Jebb's Sophocles, Greek grammars).
+- 16:41 Resumed in burn mode. Jowett's Plato was already complete. Aristotle +9 volumes (Jowett Politics 1885, Jebb, Poste x2, Twining x2, Ogle x2). Next: the wider philosophical canon.
+- 16:53 Round b: 11 philosophy shelves, 55 volumes (Hegel, Schopenhauer, Kant, Hume, Berkeley, Hobbes, Bacon, Machiavelli, Descartes, Rousseau, Locke). Next: Spinoza, Leibniz, Fichte, Lotze, Comte.
+- 17:00 Round c: Spinoza, Leibniz, Fichte, Lotze, Comte (5 shelves, 36 vols); Aristotle +1 (Ross Metaphysica 1908).
+- 17:07 round d: 8 new shelves (Mill, Spencer, Godwin, Malebranche, Port-Royal Logic, Shaftesbury, Reid, Herder); nothing needs Adam.
+- 17:12 round e: 17 PG texts of British moral/political philosophy, 4 new shelves; nothing needs Adam.
+- 17:16 round f: 8 new shelves (Bentham, Green, Bradley, Bosanquet, Cudworth, Price, Hutcheson, Helvétius); nothing needs Adam.
+- 17:28 round g: 6 new shelves, 28 PG texts (Dewey, Santayana, Royce, Peirce, James Mill, Schiller); 4 d'Holbach/Dewey etexts added to the post-1930-printing class for Adam (DIGEST).
+- 17:30 round h: 9 IA volumes (Royce x7, James Mill, Dewey-Tufts); nothing needs Adam.
+- 17:34 round i: 15 PG texts (Rousseau, Pascal, Marx/Engels, William James); nothing needs Adam.
+- 17:36 round j: 4 new shelves (Hamilton, Stewart, Thomas Brown, Hartley); nothing needs Adam.
+- 17:43 round k: 9 new shelves, 18 PG texts of political philosophy and economy; nothing needs Adam.
+- 17:46 round l: 6 new shelves (Grotius, Pufendorf, Bodin, Sidney, Rosmini, Vattel); nothing needs Adam.
+- 17:49 round m: 5 IA volumes (Kant x2, Condorcet, Fontenelle x2); nothing needs Adam.
+- 17:52 round n: 7 new shelves, 14 IA volumes (Lange, Hartmann, Windelband, Ueberweg, Erdmann, Beccaria, Lessing); nothing needs Adam.
+- 18:00 round o: 9 modern British shelves (Russell 15, Moore, Whitehead, Whewell, Kames, Clifford, Guyau, De Morgan, Jevons). For Adam: Russell's Mysticism and Logic (25447) and Problem of China (13940) held as post-1930 printings; Boole, the Tractatus and Principia have no plain-text PG file, so they wait for a scan.
+- 18:05 round p: 7 new shelves (Boole, Wittgenstein, McTaggart, Ferrier, Vaihinger, Cassirer, Edward Caird) + Russell and De Morgan additions. For Adam: Boole's Mathematical Analysis of Logic held (the only scans are a 1948 facsimile, post-1930 printing class).
+- 18:09 round q: 6 new shelves (Gomperz, Høffding, Paulsen, Sigwart, Wundt, Bergson), 19 volumes.
+- 18:15 round r: 8 new shelves (Cousin, Boutroux, Sorel, Jouffroy, Destutt de Tracy, Bowne, Pico, Le Bon). Bayle's Dictionary held (18th-century OCR 0.751, under the gate). Lane C: PG 448 Le Bon Psychology of Revolution (Miall, inferred) is yours if wanted.
+- 18:17 round s: 7 American philosophy shelves (Fiske, Porter, Chauncey Wright, Howison, Bowen, Hickok, Ladd), 15 texts.
+- 18:21 round t: 9 shelves of British idealism and its critics (Stout, Seth, Ritchie, Rashdall, Sorley, F. C. S. Schiller, Mansel, James Ward, Hobhouse), 18 volumes.
+- 18:23 round u: 6 early modern shelves (Henry More, Norris, Wollaston, Collins, Tindal, Tucker), 10 volumes.
+- 18:25 round v: 6 shelves (Kuno Fischer, Herbart, Paul Janet, Eucken, Fourier, Vives), 12 volumes.
+- 18:29 round w: 6 logic/philosophy-of-science shelves. For Adam: Lewes's History of Philosophy is two volumes from different editions (1867 3rd, 1871 4th); keep, or wait for a matched pair? Held Bain's Senses and the Intellect (year unreadable).
+- 18:35 round x: Holbach, Wollstonecraft, Mackintosh, Priestley. Note for the reading-lists thread: Burke's 12-volume Works and Paine's Writings vols 1, 3, 4 (incl. The Age of Reason) are on Gutenberg and not held; their shelves, so untouched.
+- 18:37 round y: Charron (1707), Burlamaqui (1763), Cumberland (1727, year inferred from the dedication).
+- 18:40 round z: Perry, Felix Adler, Carus, J. M. Baldwin (10 Gutenberg texts).
+- 18:42 round aa: C. I. Lewis, Hocking, Calkins, Münsterberg, Holt (with The New Realism), G. S. Morris.
+- 18:43 round ab: 10 volumes added to this evening's shelves (Morris, Perry, Hocking, Calkins, Münsterberg, Holt, Baldwin, Venn, Pearson).
+- 18:46 round ac: 9 more volumes on older shelves. Note for Lane C: Boutroux's Natural Law in Science and Philosophy, tr. Rothwell (1914), is unheld and fits their rothwell shelf.
+- 18:49 round ad: 13 more volumes, chiefly Spencer's Principles of Psychology, Biology and Ethics.
+- 18:51 round ae: 11 more volumes; Spencer's synthetic philosophy is now complete on the shelf (First Principles plus the Principles of Biology, Psychology, Sociology and Ethics).
+- 18:54 round af: Lévy-Bruhl, Tarde, de Maistre, Ribot. Poincaré's Science and Method held (no year on the Nelson title page).
+- 18:56 round ag: Schleiermacher (Oman), Büchner, Wilhelm von Humboldt, Mendelssohn's Jerusalem.
+- 19:01 round ah: Leslie Stephen, Lecky, Maine, Bagehot, Huxley (21 volumes).
+- 19:04 round ai: Samuel Alexander (incl. Space, Time and Deity), Stirling's Secret of Hegel, Collingwood, Martineau, John Grote, Campbell Fraser.
+- 19:07 round aj: Cusa's Vision of God; Lecky's Rationalism and Ferrier vol. II complete their sets. Ibn Gabirol (Arabic facing) waits on the facing-text ruling with the Greek ones.
+- 19:09 round ak: 10 volumes completing tonight's Victorian shelves (Martineau, Maine, John Grote, Stirling, Huxley).
+- 19:12 round al: 5 wishlist volumes added; Dewey Public and its Problems and Speculum Mentis still held as post-1930 printings.
+- 19:17 round am: 18 wishlist volumes on 11 shelves; Boole's 1847 Analysis held (facsimile only).
+- 19:20 round an: Locke's 1823 Works (10 vols.) and Schleiermacher's Soliloquies added; Locke wishlist cleared.
+- 19:24 round ao: 15 volumes; Stewart's Collected Works now complete; Christian Faith held (later impressions only).
+- 19:27 round ap: Bacon's Spedding Works complete (15 vols., 1864); the vols. with Latin originals are Bacon's own Latin, not facing text, flagged in case the facing-text ruling should cover them.
+- 19:29 round aq: 14 volumes (Bacon Letters and Life, Malthus 1826, Bentham Rationale); Hobbes 8-11 dropped as duplicates.
+- 19:36 round ar: 5 new shelves (Bayle, Schelling, Glanvill, Toland, Chubb) and Arber's Utopia; inferred years noted on Bayle I/III and Toland.
+- 19:40 round as: Roger Bacon, John of Salisbury and Donoso Cortes shelved; Wolff's Logic held (OCR).
+- 19:45 round at: 6 new shelves (Hotman, Selden, Fortescue, Buchanan, Millar, Monboddo); Filmer and Oswald held under the OCR gate.
+- 19:51 round au: 8 political-economy shelves (Mun, Turgot, Say, List, Owen, Sismondi, Cournot, Petty). For Adam/lane C: Wicksteed's own economics (Alphabet of Economic Science, PG 32497; Common Sense of Political Economy 1910) could join lane C's wicksteed shelf, which today holds only his Dante. Lane B left it alone.
+- 19:58 round av: 12 more political-economy shelves (George, Senior, Hobson, Clark, Veblen, Ely, Thornton, Sumner, Bastiat, Bohm-Bawerk, Marshall, Cairnes) and Bagehot, Jevons, Mill extended. frederic-bastiat holds only anonymous translations, beside lane C's stirling-bastiat; Adam may prefer one Bastiat shelf.
+- 20:01 round aw: Harriet Martineau (13 vols) and Halifax new; six British philosophy shelves extended from Gutenberg.
+- 20:04 round ax: 7 political-theory shelves (Austin, Bluntschli, Treitschke, Lassalle, Lieber, Calhoun, Mazzini). Filmer still unshelved: the only clean copy found (Morley's Routledge volume with Locke) prints no year; EEBO 1680 Patriarcha is the fallback.
+- 20:08 round ay: 9 shelves (Samuel Clarke, Balguy, Beattie, George Campbell, Blair, Gerard, Krause, Channing, Theodore Parker). Channing and Parker are Unitarian divines: lane A may prefer to own them; lane B took them as American philosophy.
+- 20:13 round az: Mach and Driesch new; Whitehead's Process and Reality (Oct 1929 first printing), Dewey's Quest for Certainty and Experience and Nature, Santayana's Dialogues in Limbo added. Works published in 1930 became US public domain on 1 Jan 2026; Weber's Protestant Ethic (Parsons 1930) waits only for a 1930-printed scan.
+- 20:16 round ba: Broad, Wallas, Dicey, Laski, Lovejoy new; Bradley's Essays on Truth and Reality added. Laski (d. 1950) and Broad (d. 1971) are in copyright in the UK; only US public domain is claimed, per Adam's rule.
+- 20:21 round bb: Tawney, Acton, Maitland, Gierke, Bryce new; Hobhouse's Liberalism added. Acton, Maitland and Bryce sit on the history side of lane B's brief; they are taken as political and legal thought.
+- 20:27 round bc: Montesquieu, Blackstone first edition, Story, James Wilson, Kant's politics. Held: a 1966 litho reprint of Blackstone Book I. Story's Conflict of Laws and Equity Jurisprudence on the wishlist.
+- 20:33 round bd: Diderot (Jourdain, Pollock), Kent vols. I-III, Bryce's American Commonwealth 1888, four De Morgan works. Held: Kent vol. IV, PG Budget of Paradoxes (Dover 1954).
+- 20:37 round be: Buckle, John Morley, Romanes, Tyndall, Erasmus Darwin (20 clean Gutenberg texts). Two PG ids 404 on download, left as wanted.
+- 20:40 round bf: Guizot, Volney, Fitzjames Stephen, Kidd, Seeley, Soloviev, Joubert (8 items). For lane C: the Broadway Library Joubert (IA bwb_S0-EKA-341) belongs on broadway-library.
+- 20:41 round bg: four wishlist items (Soloviev's Justification of the Good, Kidd, Story's Conflict of Laws, Seeley's Political Science).
+- 20:48 round bh: British idealists (Henry Jones, John Watson of Kingston, A. E. Taylor, Joachim, Muirhead) plus Prichard and Carritt, 26 items. Held: Taylor's Plato (no year).
+- 20:51 round bi: Henry and Brooks Adams, Cooley, Lester Ward, Giddings, Woodbridge, Sellars (16 items).
+- 20:54 round bj: Gentile, Hulme, Wildon Carr, Kemp Smith, and Kemp Smith's 1929 Critique of Pure Reason on the kant shelf (10 items).
+- 20:58 round bk: Lloyd Morgan, Laird, R. B. Haldane, Urban (12 items). Held: Johnston and Struthers' Hegel Science of Logic (1929), no dated first-impression copy found.
+- 21:06 round bl: 13 wishlists filled (24 vols). Held: Hobson Imperialism, Cairnes Leading Principles.
+- 21:13 round bm: 6 new shelves (Sombart, Michels, Ostrogorski, Hodgson, Külpe, Ormond). Two lane B duplicates of lane C's singles shelves removed (Soloviev, Gentile). Weber held: no pre-1931 printing found.
+- 21:17 round bn: 6 new shelves (Whately, Hinton, Schurman, James Seth, Tappan, Marsh). Oswald held on OCR quality; Whately's theology left for lane A.
+- 21:21 round bo: 8 new shelves (Hibben, Creighton, Thilly, McDougall, Montague, Spaulding, Sheldon, Sturt).
+- 21:25 round bp: 6 new shelves (Whichcote, John Smith, Culverwel, Digby, Collier, Peter Browne). Filmer held on OCR quality.
+- 21:29 round bq: 5 new shelves (Frederic Harrison, Congreve, Balfour, Figgis, Barker).
+- 21:33 round br: 7 new shelves (Stanley Hall, Titchener, P. E. More, W. T. Harris, Pratt, Drake, Thomas Davidson), 41 titles.
+- 21:40 round bs: 17 wishlists filled (25 vols). Still held on printing date: Dewey's Public, Speculum Mentis, Grammar of Politics, Whitehead's Introduction to Mathematics.
+- 21:47 round bt: 10 shelves (Galton, Sully, Jacks, Palmer, Fullerton, Edman, Durant, Marett, Westermarck, Tylor). Durant's Story of Philosophy wanted in a pre-1931 printing.
+- 21:53 round bu: 8 shelves (J. S. Mackenzie, Webb, Cook Wilson, Joseph, Maudsley, Boodin, A. K. Rogers, Fite). Wanted: Webb's History of Philosophy with a printed year; Statement and Inference vol. II.
+- 21:59 round bv: 13 shelves of political and social thought (Lippmann, Croly, Bourne, Wilson, Angell, Draper, A. D. White, Addams, Babbitt, Lowell, Ross, W. I. Thomas, Beard).
+- 22:04 round bw: 12 shelves (Jefferson, Hamilton/Federalist, Madison, John Adams, Ingersoll, Gilman, Goldman, Carpenter, Webbs, Spooner, Mumford, Ellis).
+- 22:14 round bx: gap sweep, 20 rows on 5 shelves (Spinoza, Spencer, Münsterberg, Bury, Morley).
+- 22:17 round by: 12 shelves (Jung, Benn, Mallock, J. M. Robertson, Fowler, Vernon Lee, Bernays, Steuart, Hyde, Cushman, Gunn, Stock). Note: most Freud translations on Gutenberg are unheld; the freud shelf belongs to the reading-lists thread.
+- 22:21 round bz: John Ruskin (45), Arnold's prose (+5), Pater's criticism (+4). Observation for the coordinator: Carlyle, Coleridge and Emerson have dozens of unheld Gutenberg works, but their shelves belong to lane C and the reading-lists thread.
+- 22:24 round ca: Samuel Butler (13), and Godwin +3, Wollstonecraft +3, Lecky +1, Leslie Stephen +8.
+- 22:29 round cb: second gap sweep, 16 rows on 7 shelves (Laski, Lloyd Morgan, Romanes, Fiske, Sorley, Dicey, Lewes); More's Dialogue of Comfort excluded (1951 text).
+- 22:35 round cc: 8 British logic/idealist shelves (25 vols). Held for no title-page year: Read, Metaphysics of Nature; Stebbing, Modern Introduction to Logic.
+- 22:41 round cd: 13 American psychology/pragmatism shelves (40 vols) + Lewis 1929. Held: A. W. Moore offprint (no year).
+- 22:46 round ce: Darwin (20), Wallace (19), Lyell (4) from PG. For lane C: unheld PG translations of Nietzsche, Haeckel, Poincare, Voltaire listed in REPORT-B.
+- 22:50 round cf: Small, Patten, Mark Hopkins, Salter, Joad (20 works) + Ward/Wallace/Darwin extras. Filmer dropped for OCR.
+- 22:55 round cg: Philo (4 vols), Babrius, Helmholtz. Early-print Lipsius, Du Vair, Wolff fail the OCR gate.
+- 22:59 round ch: Golden Bough complete (3rd ed. 12 vols + 1890 ed.), Gilbert Murray (6), Malinowski (4).
+- 23:03 round ci: 8 classical-scholarship shelves (13 works): Roman Stoicism, Stoic and Epicurean, Greek Commonwealth, Cornford x3, etc.
+- 23:08 round cj: Russell +8, Royce +10, Whitehead +1 from dated IA scans.
+- 23:10 round ck: Dewey +9; 1930 rights-check audit fixed 3 lane B entries.
+- 23:13 cl: Henry Sidgwick +9
+- 23:17 cm: Alexander +1, Perry +3, Baldwin +5, Ladd +12
+- 23:23 cn: Ancient Classics for English Readers, 27 vols
+- 23:26 co: Philosophical Classics for English Readers, 14 vols
+- 23:32 cp: Albee, Bonar, Brett, Boyce Gibson, J. S. Haldane, Wallace, Adamson, Whittaker (32 vols)
+- 23:34 PAUSED at Adam's request after cp. Resume point in LOCK-B.json: round cq (Farnell, Haigh, Tyrrell, Wight Duff, A. B. Cook, Nettleship, W. M. Lindsay), then cr (Evans, Hogarth, Ridgeway, Myres, H. R. Hall, Hartland).
+- 18:25 10/22 resumed, then BLOCKED: network policy refuses archive.org and gutenberg.org. Resume point corrected in LOCK-B.json (haigh, tyrrell, nettleship, ridgeway, farnell shelves already exist).

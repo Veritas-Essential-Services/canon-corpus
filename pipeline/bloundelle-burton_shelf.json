@@ -1,0 +1,201 @@
+{
+ "_about": "John Bloundelle-Burton's writing at Gutenberg: historical romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "John Bloundelle-Burton",
+ "_name_words": [
+  "bloundelle",
+  "burton"
+ ],
+ "_surname": [
+  "bloundelle burton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jbburton-in-the-day-of-adversity": [
+   33643,
+   "In the Day of Adversity"
+  ],
+  "jbburton-across-the-salt-seas": [
+   52102,
+   "Across the Salt Seas: A Romance of the War of Succession"
+  ],
+  "jbburton-silent-shore": [
+   52209,
+   "The Silent Shore: A Romance"
+  ],
+  "jbburton-hispaniola-plate-1683-1893": [
+   52210,
+   "The Hispaniola Plate (1683-1893)"
+  ],
+  "jbburton-seafarers": [
+   52548,
+   "The Seafarers"
+  ],
+  "jbburton-clash-of-arms": [
+   52586,
+   "Clash of Arms: A Romance"
+  ],
+  "jbburton-traitor-and-true": [
+   52649,
+   "Traitor and True: A Romance"
+  ],
+  "jbburton-denounced": [
+   52733,
+   "Denounced: A Romance"
+  ],
+  "jbburton-scourge-of-god": [
+   52734,
+   "The Scourge of God: A Romance of Religious Persecution"
+  ],
+  "jbburton-fortunes-my-foe": [
+   52781,
+   "Fortune's My Foe: A Romance"
+  ],
+  "jbburton-bitter-heritage": [
+   52956,
+   "A Bitter Heritage: A Modern Story of Love and Adventure"
+  ],
+  "jbburton-land-of-bondage": [
+   52957,
+   "The Land of Bondage: A Romance"
+  ],
+  "jbburton-servants-of-sin": [
+   52970,
+   "Servants of Sin: A Romance"
+  ],
+  "jbburton-sword-of-gideon": [
+   52979,
+   "The Sword of Gideon"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jbburton-in-the-day-of-adversity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-across-the-salt-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-silent-shore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-hispaniola-plate-1683-1893": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-seafarers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-clash-of-arms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-traitor-and-true": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-denounced": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-scourge-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-fortunes-my-foe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-bitter-heritage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-land-of-bondage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-servants-of-sin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbburton-sword-of-gideon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bloundelle burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

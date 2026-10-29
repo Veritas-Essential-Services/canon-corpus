@@ -1,0 +1,177 @@
+{
+ "_about": "Public-domain Herbert Thorndike (1598-1672), prebendary of Westminster, for the Word Hoard: his Theological Works in the Library of Anglo-Catholic Theology (Oxford: J. H. Parker, 1844-1856, six volumes in ten), including the Right of the Church in a Christian State and the Epilogue to the Tragedy of the Church of England, from University of Toronto scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thorndike"
+ ],
+ "_surname": [
+  "herbert thorndike",
+  "thorndike"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thorndike-works-1-1": [
+   "thorndikesworkp101thoruoft",
+   "Theological works, vol. 1, pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ],
+  "thorndike-works-1-2": [
+   "thorndikesworkp201thoruoft",
+   "Theological works, vol. 1, pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ],
+  "thorndike-works-2-a": [
+   "theologicalpt202thoruoft",
+   "The Theological Works of Herbert Thorndike, vol. II, the part opening with the Epilogue's preface and Book I, The Principles of Christian Truth (Oxford: John Henry Parker; catalogued as part 2)"
+  ],
+  "thorndike-works-2-b": [
+   "theologicalpt102thoruoft",
+   "The Theological Works of Herbert Thorndike, vol. II, the other part, continuing the Epilogue (Oxford: John Henry Parker, MDCCCXLV; catalogued as vol. 1, part 2)"
+  ],
+  "thorndike-works-3-1": [
+   "theologicalpt103thoruoft",
+   "Theological works, vol. 3 pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ],
+  "thorndike-works-3-2": [
+   "theologicalpt203thoruoft",
+   "Theological works, vol. 3 pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ],
+  "thorndike-works-4-1": [
+   "theologicalpt104thoruoft",
+   "Theological works, vol. 4 pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ],
+  "thorndike-works-4-2": [
+   "theologicalp204thoruoft",
+   "Theological works, vol. 4 pt 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ],
+  "thorndike-works-5": [
+   "theologicalworks05thoruoft",
+   "Theological works, vol. 5 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ],
+  "thorndike-works-6": [
+   "theologicalworks06thoruoft",
+   "Theological works, vol. 6 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844)"
+  ]
+ },
+ "_alternates": {
+  "thorndike-copies": "Other scans of the LACT set: the Robarts and Google copies and the theologicalworks0000thor_* scans; the 1841 Right of the Church (BSB)"
+ },
+ "_excluded": {
+  "thorndike-other": "Edward L. Thorndike the psychologist and other Thorndikes"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "thorndike-works-1-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-1-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-2-a": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-2-b": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-3-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-3-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-4-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-4-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1844-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

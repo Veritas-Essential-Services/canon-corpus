@@ -1,0 +1,36 @@
+{
+ "_about": "Gaston Boissier (1823-1908) in English, tr. Adnah David Jones. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Cicero and His Friends, clean Gutenberg. The translator's death year was not checked. No uids minted.",
+ "_name_words": [
+  "boissier"
+ ],
+ "_surname": [
+  "gaston boissier",
+  "boissier, gaston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "boissier-cicero-and-his-friends": [
+   72216,
+   "Cicero and His Friends",
+   "tr. Adnah David Jones"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "boissier-cicero-and-his-friends": "Adnah David Jones"
+ },
+ "_checks": {
+  "boissier-cicero-and-his-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston boissier",
+   "translator_claimed": "Adnah David Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Adnah David Jones",
+   "translator_match": true
+  }
+ }
+}

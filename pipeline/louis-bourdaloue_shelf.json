@@ -1,0 +1,153 @@
+{
+ "_about": "Public-domain Louis Bourdaloue (1632-1704, Jesuit preacher at the court of Louis XIV) in English for the Word Hoard: Select Sermons (Harlow, 1806), Sermons and Moral Discourses tr. A. Carroll (2 vols, Dublin, 1843), Spiritual Exercises for a seven days' retreat ed. Orby Shipley (1868), The Spiritual Retreat (1885), Eight Sermons for Holy Week and Easter tr. G. F. Crowther, and two Versailles sermons tr. Alicia du Pont de Nemours (New York, 1919), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bourdalou"
+ ],
+ "_surname": [
+  "bourdaloue",
+  "louis bourdaloue",
+  "lewis bourdaloue",
+  "pere bourdaloue",
+  "bourdalou"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bourdaloue-select-sermons-1806": [
+   "selectsermonstra01bour",
+   "Select Sermons, translated from the original French of Louis Bourdaloue (Harlow: B. Flower for T. Conder, 1806)"
+  ],
+  "bourdaloue-sermons-carroll-1": [
+   "sermonsmoraldisc01bour",
+   "Sermons and Moral Discourses on the Important Duties of Christianity, tr. A. Carroll, second edition, vol. I (Dublin: James Duffy, 1843)"
+  ],
+  "bourdaloue-sermons-carroll-2": [
+   "sermonsmoraldisc02bour",
+   "Sermons and Moral Discourses on the Important Duties of Christianity, tr. A. Carroll, second edition, vol. II (Dublin: James Duffy, 1843)"
+  ],
+  "bourdaloue-spiritual-exercises-1868": [
+   "SpiritualExercisesReadings",
+   "Spiritual Exercises: Readings for a Retreat of Seven Days, translated and abridged, ed. Orby Shipley (London: Joseph Masters, MDCCCLXVIII)"
+  ],
+  "bourdaloue-spiritual-retreat-1885": [
+   "fatherbourdaloue00bouruoft",
+   "The Spiritual Retreat of Father Bourdaloue, adapted to the use of pastors of souls (Leamington: Art and Book Company, 1885)"
+  ],
+  "bourdaloue-eight-sermons-crowther": [
+   "8SermonsForHolyWeekAndEaster",
+   "Eight Sermons for Holy Week and Easter, tr. G. F. Crowther (London: Wells Gardner, Darton; catalogued 1884)"
+  ],
+  "bourdaloue-at-versailles": [
+   "cu31924029405101",
+   "Bourdalou at Versailles, 1670: two sermons from the French, by Alicia du Pont de Nemours (New York: Brentano's, MCMXIX)"
+  ]
+ },
+ "_alternates": {
+  "bourdaloue-flint-1805": "Abel Flint's Hartford 1805 Sermons of Massillon and Bourdaloue: on the jean-baptiste-massillon shelf",
+  "bourdaloue-copies": "Other copies of Flint 1805 and Shipley 1868"
+ },
+ "_excluded": {
+  "bourdaloue-french": "Pensées (Riom, 1802), catalogued as English but French",
+  "bourdaloue-anthology": "Great French Sermons (O'Mahony, 1917): three authors",
+  "bourdaloue-about": "Bungener's novel and Reville's study"
+ },
+ "_rights_checked": {
+  "bourdaloue-eight-sermons-crowther": "title page read: Wells Gardner, Darton & Co., 2 Paternoster Buildings; year garbled; catalogued 1884"
+ },
+ "_pending": {},
+ "_translators": {
+  "bourdaloue-sermons-carroll-1": "carroll",
+  "bourdaloue-sermons-carroll-2": "carroll",
+  "bourdaloue-eight-sermons-crowther": "crowther",
+  "bourdaloue-at-versailles": "nemours"
+ },
+ "_checks": {
+  "bourdaloue-select-sermons-1806": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bourdaloue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bourdaloue-sermons-carroll-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bourdaloue",
+   "translator_claimed": "carroll",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bourdaloue-sermons-carroll-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bourdaloue",
+   "translator_claimed": "carroll",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bourdaloue-spiritual-exercises-1868": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bourdaloue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bourdaloue-spiritual-retreat-1885": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bourdaloue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bourdaloue-eight-sermons-crowther": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bourdaloue",
+   "translator_claimed": "crowther",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Wells Gardner, Darton & Co., 2 Paternoster Buildings; year garbled; catalogued 1884"
+  },
+  "bourdaloue-at-versailles": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bourdalou",
+   "translator_claimed": "nemours",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

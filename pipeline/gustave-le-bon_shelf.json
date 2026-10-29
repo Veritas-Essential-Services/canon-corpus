@@ -1,0 +1,33 @@
+{
+ "_about": "Gustave Le Bon (1841-1931), from Project Gutenberg: The Crowd, a study of the popular mind (London: T. Fisher Unwin, Criminology Series; first English edition 1896; the etext names no printing and no translator). US public domain. Not taken: The Psychology of Revolution (PG 448), whose English translator is Bernard Miall (inferred, the etext does not say), left for lane C's bernard-miall shelf. No uids minted.",
+ "_author": "Gustave Le Bon",
+ "_name_words": [
+  "gustave",
+  "le",
+  "bon"
+ ],
+ "_surname": [
+  "le bon",
+  "gustave le bon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "le-bon-the-crowd": [
+   445,
+   "The Crowd: a study of the popular mind (London: T. Fisher Unwin; the etext names no printing)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "le-bon-the-crowd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "le bon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

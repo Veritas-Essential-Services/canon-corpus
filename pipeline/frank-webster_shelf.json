@@ -1,0 +1,408 @@
+{
+ "_about": "Frank V. Webster's stories for boys: every English text under the name at Gutenberg. Frank V. Webster is a house name of the Stratemeyer Syndicate, whose individual ghostwriters the texts do not name. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Frank V. Webster",
+ "_name_words": [
+  "webster"
+ ],
+ "_surname": [
+  "frank v. webster"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fwebster-young-firemen-of-lakeville": [
+   6114,
+   "The Young Firemen of Lakeville; Or, Herbert Dare's Pluck",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-cowboy-dave": [
+   6165,
+   "Cowboy Dave; Or, The Round-up at Rolling River",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-boys-of-bellwood-school": [
+   6444,
+   "The Boys of Bellwood School; Or, Frank Jordan's Triumph",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-jack-of-the-pony-express": [
+   8410,
+   "Jack of the Pony Express; Or, The Young Rider of the Mountain Trails"
+  ],
+  "fwebster-comrades-of-the-saddle": [
+   11890,
+   "Comrades of the Saddle; Or, The Young Rough Riders of the Plains",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-bob-the-castaway": [
+   11909,
+   "Bob the Castaway; Or, The Wreck of the Eagle",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-bob-chesters-grit": [
+   17151,
+   "Bob Chester's Grit; Or, From Ranch to Riches",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-dick-the-bank-boy": [
+   18981,
+   "Dick the Bank Boy; Or, A Missing Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-young-treasure-hunter": [
+   20922,
+   "The Young Treasure Hunter; Or, Fred Stanley's Trip to Alaska",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-boy-from-the-ranch": [
+   21794,
+   "The Boy from the Ranch; Or, Roy Bradner's City Experiences",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-boy-scouts-of-lenox": [
+   21842,
+   "The Boy Scouts of Lenox; Or, The Hike Over Big Bear Mountain",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-darry-the-life-saver": [
+   22277,
+   "Darry the Life Saver; Or, The Heroes of the Coast",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-newsboy-partners": [
+   32537,
+   "The Newsboy Partners; Or, Who Was Dick Box?"
+  ],
+  "fwebster-boy-pilot-of-the-lakes": [
+   33282,
+   "The Boy Pilot of the Lakes; Or, Nat Morton's Perils"
+  ],
+  "fwebster-boys-of-the-wireless": [
+   35044,
+   "The Boys of the Wireless; Or, A Stirring Rescue from the Deep",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-two-boys-of-the-battleship": [
+   36323,
+   "Two Boys of the Battleship; Or, For the Honor of Uncle Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-airship-andy": [
+   36388,
+   "Airship Andy; Or, The Luck of a Brave Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-harry-watsons-high-school-days": [
+   36409,
+   "Harry Watson's High School Days; Or, The Rivals of Rivertown",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-two-boy-gold-miners": [
+   39094,
+   "Two Boy Gold Miners; Or, Lost in the Mountains",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-jack-the-runaway": [
+   68413,
+   "Jack the runaway; or, On the road with a circus",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-only-a-farm-boy": [
+   68436,
+   "Only a farm boy; or, Dan Hardy's rise in life",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-tom-the-telephone-boy": [
+   68471,
+   "Tom the telephone boy; or, The mystery of a message",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-ben-hardys-flying-machine": [
+   69511,
+   "Ben Hardy's flying machine; or, Making a record for himself",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-tom-taylor-at-west-point": [
+   71034,
+   "Tom Taylor at West Point",
+   {
+    "contents_only": true
+   }
+  ],
+  "fwebster-high-school-rivals": [
+   71306,
+   "The high school rivals",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "fwebster-young-firemen-of-lakeville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-cowboy-dave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-boys-of-bellwood-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-jack-of-the-pony-express": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-comrades-of-the-saddle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-bob-the-castaway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-bob-chesters-grit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-dick-the-bank-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-young-treasure-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-boy-from-the-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-boy-scouts-of-lenox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-darry-the-life-saver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-newsboy-partners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-boy-pilot-of-the-lakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-boys-of-the-wireless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-two-boys-of-the-battleship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-airship-andy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-harry-watsons-high-school-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-two-boy-gold-miners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-jack-the-runaway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-only-a-farm-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-tom-the-telephone-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-ben-hardys-flying-machine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-tom-taylor-at-west-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwebster-high-school-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank v. webster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

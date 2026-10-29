@@ -1,0 +1,225 @@
+{
+ "_about": "Charles Reade's novels (The Cloister and the Hearth and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Charles Reade",
+ "_name_words": [
+  "reade"
+ ],
+ "_surname": [
+  "charles reade"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "creade-cloister-and-the-hearth": [
+   1366,
+   "The Cloister and the Hearth"
+  ],
+  "creade-a-simpleton": [
+   2301,
+   "A Simpleton"
+  ],
+  "creade-white-lies": [
+   2472,
+   "White Lies"
+  ],
+  "creade-put-yourself-in-his-place": [
+   2497,
+   "Put Yourself in His Place"
+  ],
+  "creade-hard-cash": [
+   3067,
+   "Hard Cash"
+  ],
+  "creade-a-woman-hater": [
+   3669,
+   "A Woman-Hater"
+  ],
+  "creade-peg-woffington": [
+   3670,
+   "Peg Woffington"
+  ],
+  "creade-christie-johnstone": [
+   3671,
+   "Christie Johnstone: A Novel"
+  ],
+  "creade-foul-play": [
+   3702,
+   "Foul Play (with Dion Boucicault)"
+  ],
+  "creade-it-is-never-too-late-to-mend": [
+   4606,
+   "It Is Never Too Late to Mend"
+  ],
+  "creade-love-me-little-love-me-long": [
+   4607,
+   "Love Me Little, Love Me Long"
+  ],
+  "creade-a-terrible-temptation": [
+   7895,
+   "A Terrible Temptation: A Story of To-Day"
+  ],
+  "creade-a-perilous-secret": [
+   12470,
+   "A Perilous Secret"
+  ],
+  "creade-cloister-and-the-hearth-38895": [
+   38895,
+   "The Cloister and the Hearth: A Tale of the Middle Ages"
+  ],
+  "creade-masks-and-faces": [
+   51385,
+   "Masks and Faces; or, Before and Behind the Curtain: A Comedy in Two Acts (with Tom Taylor)"
+  ],
+  "creade-griffith-gaunt": [
+   57685,
+   "Griffith Gaunt; or, Jealousy Volumes 1 to 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "creade-cloister-and-the-hearth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-a-simpleton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-white-lies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-put-yourself-in-his-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-hard-cash": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-a-woman-hater": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-peg-woffington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-christie-johnstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-foul-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-it-is-never-too-late-to-mend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-love-me-little-love-me-long": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-a-terrible-temptation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-a-perilous-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-cloister-and-the-hearth-38895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-masks-and-faces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creade-griffith-gaunt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles reade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,367 @@
+{
+ "_about": "Grace Livingston Hill's novels and girls' stories",
+ "_author": "Grace Livingston Hill",
+ "_name_words": [
+  "hill"
+ ],
+ "_surname": [
+  "grace livingston hill"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "glhill-city-of-fire": [
+   7008,
+   "The City of Fire"
+  ],
+  "glhill-war-romance-of-the-salvation-army": [
+   7811,
+   "The War Romance of the Salvation Army (with Evangeline Booth)"
+  ],
+  "glhill-lo-michael": [
+   9816,
+   "Lo, Michael!",
+   {
+    "contents_only": true
+   }
+  ],
+  "glhill-mystery-of-mary": [
+   14632,
+   "The Mystery of Mary"
+  ],
+  "glhill-girl-from-montana": [
+   15274,
+   "The Girl from Montana",
+   {
+    "contents_only": true
+   }
+  ],
+  "glhill-witness": [
+   16502,
+   "The Witness"
+  ],
+  "glhill-a-voice-in-the-wilderness": [
+   21219,
+   "A Voice in the Wilderness"
+  ],
+  "glhill-man-of-the-desert": [
+   21633,
+   "The Man of the Desert",
+   {
+    "contents_only": true
+   }
+  ],
+  "glhill-marcia-schuyler": [
+   23132,
+   "Marcia Schuyler",
+   {
+    "contents_only": true
+   }
+  ],
+  "glhill-search": [
+   25866,
+   "The Search"
+  ],
+  "glhill-cloudy-jewel": [
+   30006,
+   "Cloudy Jewel"
+  ],
+  "glhill-exit-betty": [
+   30759,
+   "Exit Betty"
+  ],
+  "glhill-enchanted-barn": [
+   34426,
+   "The Enchanted Barn"
+  ],
+  "glhill-dawn-of-the-morning": [
+   37698,
+   "Dawn of the Morning"
+  ],
+  "glhill-aunt-cretes-emancipation": [
+   47525,
+   "Aunt Crete's Emancipation",
+   {
+    "contents_only": true
+   }
+  ],
+  "glhill-a-chautauqua-idyl": [
+   51103,
+   "A Chautauqua Idyl"
+  ],
+  "glhill-big-blue-soldier": [
+   60580,
+   "The Big Blue Soldier"
+  ],
+  "glhill-not-under-the-law": [
+   67977,
+   "Not Under the Law"
+  ],
+  "glhill-angel-of-his-presence": [
+   69060,
+   "The angel of his presence; and Gabriel the Acadian (with Edith M. Nicholl)",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "glhill-best-man": [
+   69514,
+   "The best man"
+  ],
+  "glhill-a-new-name": [
+   70487,
+   "A new name"
+  ],
+  "glhill-re-creations": [
+   71094,
+   "Re-creations"
+  ],
+  "glhill-finding-of-jasper-holt": [
+   78752,
+   "The finding of Jasper Holt"
+  ],
+  "glhill-a-daily-rate": [
+   78992,
+   "\"A Daily Rate.\""
+  ],
+  "glhill-tomorrow-about-this-time": [
+   79299,
+   "Tomorrow about this time"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "glhill-city-of-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-war-romance-of-the-salvation-army": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-lo-michael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-mystery-of-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-girl-from-montana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-witness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-a-voice-in-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-man-of-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-marcia-schuyler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-search": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-cloudy-jewel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-exit-betty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-enchanted-barn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-dawn-of-the-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-aunt-cretes-emancipation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-a-chautauqua-idyl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-big-blue-soldier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-not-under-the-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-angel-of-his-presence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-best-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-a-new-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-re-creations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-finding-of-jasper-holt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-a-daily-rate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glhill-tomorrow-about-this-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace livingston hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "_about": "James Ward (1843-1925), raw IA OCR: Naturalism and Agnosticism, Gifford Lectures, Aberdeen (New York: Macmillan, 1899, 2 vols.) and The Realm of Ends, or Pluralism and Theism, Gifford Lectures, St Andrews (Cambridge: University Press, 1911). US public domain. No uids minted.",
+ "_author": "James Ward",
+ "_name_words": [
+  "james",
+  "ward"
+ ],
+ "_surname": [
+  "james ward"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ward-naturalism-and-agnosticism-1899-v1": [
+   "naturalismagnost0001ward",
+   "Naturalism and Agnosticism, vol. I (New York: Macmillan, 1899)"
+  ],
+  "ward-naturalism-and-agnosticism-1899-v2": [
+   "naturalismandag02wardgoog",
+   "Naturalism and Agnosticism, vol. II (New York: Macmillan, 1899)"
+  ],
+  "ward-realm-of-ends-1911": [
+   "therealmofends00warduoft",
+   "The Realm of Ends, or Pluralism and Theism (Cambridge, 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ward-naturalism-and-agnosticism-1899-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ward-naturalism-and-agnosticism-1899-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ward-realm-of-ends-1911": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

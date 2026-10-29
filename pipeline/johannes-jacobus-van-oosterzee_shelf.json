@@ -1,0 +1,196 @@
+{
+ "_about": "Public-domain Johannes Jacobus van Oosterzee (1817-1882, Utrecht) in English for the Word Hoard: Christian Dogmatics, tr. John Watson Watson and Maurice J. Evans (2 vols, 1874), the Theology of the New Testament (1870), Practical Theology (1878) and The Image of Christ (1874), all tr. Evans, the Year of Salvation vol. I, tr. C. Spence, Moses (1876), John's Gospel, tr. J. F. Hurst (1869), and his Commentary on St Luke vol. I in the Lange series, tr. Sophia Taylor (1862), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "oosterzee"
+ ],
+ "_surname": [
+  "oosterzee",
+  "van oosterzee",
+  "j. j. van oosterzee"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oosterzee-dogmatics-1": [
+   "christiandogmati01oost",
+   "Christian Dogmatics, vol. I, tr. John Watson Watson and Maurice J. Evans (New York: Scribner, Armstrong, 1874)"
+  ],
+  "oosterzee-dogmatics-2": [
+   "christiandogmati02oost",
+   "Christian Dogmatics, vol. II, tr. John Watson Watson and Maurice J. Evans (New York: Scribner, Armstrong, 1874)"
+  ],
+  "oosterzee-theology-nt": [
+   "theologynewtest01oostgoog",
+   "The Theology of the New Testament, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXX)"
+  ],
+  "oosterzee-practical-theology": [
+   "practicaltheolog00oost",
+   "Practical Theology: a Manual for Theological Students, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXXVIII)"
+  ],
+  "oosterzee-image-of-christ": [
+   "imageofchristasp0000oost",
+   "The Image of Christ as Presented in Scripture, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXXIV)"
+  ],
+  "oosterzee-year-of-salvation-1": [
+   "MN40285ucmf_3",
+   "The Year of Salvation, vol. I, tr. C. Spence (Edinburgh: T. & T. Clark; title page undated, catalogued 1875)"
+  ],
+  "oosterzee-moses": [
+   "mosesbiblicalstu00oost",
+   "Moses: a Biblical Study (Edinburgh: T. and T. Clark, 1876)"
+  ],
+  "oosterzee-johns-gospel": [
+   "johnsgospelapolo00oost",
+   "John's Gospel: Apologetical Lectures, tr. J. F. Hurst (Edinburgh: T. and T. Clark, MDCCCLXIX)"
+  ],
+  "oosterzee-luke-1": [
+   "theologicalhomil01oost",
+   "Theological and Homiletical Commentary on the Gospel of St Luke, vol. I, tr. Sophia Taylor, ed. J. P. Lange (Edinburgh: T. & T. Clark, MDCCCLXII)"
+  ]
+ },
+ "_alternates": {
+  "oosterzee-day": "George E. Day's separate translation of the NT Theology (New Haven: Judd & White, 1871): theologyofnewtes00oostrich",
+  "oosterzee-copies": "Dodd & Mead NT Theology (1871); 1878 Image of Christ; Clark's 1872 Lange Luke"
+ },
+ "_excluded": {
+  "oosterzee-james": "The Epistle General of James (1867): written with J. P. Lange, a joint work",
+  "oosterzee-reprint": "bwb_S0-DFL-230_2: a 1974 reprint"
+ },
+ "_rights_checked": {
+  "oosterzee-moses": "title page read: names James Kennedy, but the word 'translated' was not captured in the OCR, so no translator is claimed",
+  "oosterzee-johns-gospel": "title page read: name OCR'd 'VAN'OOSTERZEE'"
+ },
+ "_pending": {
+  "oosterzee-year-of-salvation-2": "Vol. II: not found"
+ },
+ "_translators": {
+  "oosterzee-dogmatics-1": "watson",
+  "oosterzee-dogmatics-2": "watson",
+  "oosterzee-theology-nt": "evans",
+  "oosterzee-practical-theology": "evans",
+  "oosterzee-image-of-christ": "evans",
+  "oosterzee-year-of-salvation-1": "spence",
+  "oosterzee-johns-gospel": "hurst",
+  "oosterzee-luke-1": "taylor"
+ },
+ "_checks": {
+  "oosterzee-dogmatics-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oosterzee-dogmatics-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oosterzee-theology-nt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oosterzee-practical-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oosterzee-image-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oosterzee-year-of-salvation-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "spence",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oosterzee-moses": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: names James Kennedy, but the word 'translated' was not captured in the OCR, so no translator is claimed"
+  },
+  "oosterzee-johns-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "hurst",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'VAN'OOSTERZEE'"
+  },
+  "oosterzee-luke-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oosterzee",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

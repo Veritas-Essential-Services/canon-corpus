@@ -1,0 +1,132 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles E. Derbyshire (1880-1933): José Rizal's Noli Me Tangere (The Social Cancer) and El Filibusterismo (The Reign of Greed) (Manila, 1912), and two of his essays. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles e. derbyshire",
+  "charles derbyshire",
+  "derbyshire"
+ ],
+ "_surname": [
+  "charles e. derbyshire",
+  "charles derbyshire",
+  "derbyshire"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "der-10676": [
+   10676,
+   "The Reign of Greed"
+  ],
+  "der-35899": [
+   35899,
+   "The Philippines a Century Hence"
+  ],
+  "der-6737": [
+   6737,
+   "The Social Cancer: A Complete English Version of Noli Me Tangere"
+  ],
+  "der-6885": [
+   6885,
+   "The Indolence of the Filipino"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "derbyshire-rizal-the-indolence-of-the-filipino": {
+   "source": "der-6885",
+   "of": "José Rizal",
+   "work": "The Indolence of the Filipino",
+   "translated": "1912-1913 (see the Gutenberg header)",
+   "translator": "Charles E. Derbyshire",
+   "scan_edition": "Project Gutenberg 6885 (clean text)"
+  },
+  "derbyshire-rizal-the-philippines-a-century-hence": {
+   "source": "der-35899",
+   "of": "José Rizal",
+   "work": "The Philippines a Century Hence",
+   "translated": "1912-1913 (see the Gutenberg header)",
+   "translator": "Charles E. Derbyshire",
+   "scan_edition": "Project Gutenberg 35899 (clean text)"
+  },
+  "derbyshire-rizal-the-reign-of-greed": {
+   "source": "der-10676",
+   "of": "José Rizal",
+   "work": "The Reign of Greed",
+   "translated": "1912-1913 (see the Gutenberg header)",
+   "translator": "Charles E. Derbyshire",
+   "scan_edition": "Project Gutenberg 10676 (clean text)"
+  },
+  "derbyshire-rizal-the-social-cancer-a-complete-english-ver": {
+   "source": "der-6737",
+   "of": "José Rizal",
+   "work": "The Social Cancer: A Complete English Version of Noli Me Tangere",
+   "translated": "1912-1913 (see the Gutenberg header)",
+   "translator": "Charles E. Derbyshire",
+   "scan_edition": "Project Gutenberg 6737 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "der-10676": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles e. derbyshire",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles E. Derbyshire"
+  },
+  "der-35899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles e. derbyshire",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles E. Derbyshire"
+  },
+  "der-6737": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles e. derbyshire",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles E. Derbyshire"
+  },
+  "der-6885": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles e. derbyshire",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles E. Derbyshire"
+  }
+ },
+ "_verified": {
+  "der-10676": {
+   "pg": 10676,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles E. Derbyshire"
+  },
+  "der-35899": {
+   "pg": 35899,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles E. Derbyshire"
+  },
+  "der-6737": {
+   "pg": 6737,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles E. Derbyshire"
+  },
+  "der-6885": {
+   "pg": 6885,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles E. Derbyshire"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

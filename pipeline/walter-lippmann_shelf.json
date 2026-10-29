@@ -1,0 +1,96 @@
+{
+ "_about": "Walter Lippmann (1889-1974), American political philosopher and journalist. Gutenberg: A Preface to Politics (1913); Drift and Mastery (1914); Liberty and the News (1920); Public Opinion (1922); The Phantom Public (1925); A Preface to Morals (1929). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Walter Lippmann",
+ "_name_words": [
+  "walter",
+  "lippmann"
+ ],
+ "_surname": [
+  "lippmann"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lippmann-preface-to-politics": [
+   20125,
+   "A Preface to Politics (1913)"
+  ],
+  "lippmann-drift-and-mastery": [
+   79553,
+   "Drift and Mastery (1914)"
+  ],
+  "lippmann-liberty-and-the-news": [
+   77035,
+   "Liberty and the News (1920)"
+  ],
+  "lippmann-public-opinion": [
+   6456,
+   "Public Opinion (1922)"
+  ],
+  "lippmann-phantom-public": [
+   76966,
+   "The Phantom Public (1925)"
+  ],
+  "lippmann-preface-to-morals": [
+   77019,
+   "A Preface to Morals (1929)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lippmann-preface-to-politics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lippmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lippmann-drift-and-mastery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lippmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lippmann-liberty-and-the-news": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lippmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lippmann-public-opinion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lippmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lippmann-phantom-public": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lippmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lippmann-preface-to-morals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lippmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

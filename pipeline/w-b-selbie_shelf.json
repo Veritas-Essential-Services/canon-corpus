@@ -1,0 +1,224 @@
+{
+ "_about": "Public-domain William Boothby Selbie (1862-1944), Congregational minister and principal of Mansfield College, Oxford, for the Word Hoard: Aspects of Christ, The Life and Teaching of Jesus Christ, Evangelical Christianity, The Servant of God and other sermons, Nonconformity: its Origin and Progress, Schleiermacher, The Life of Andrew Martin Fairbairn, The War and Theology, The Nature and Message of the Bible, Belief and Life, The Life of Charles Silvester Horne, The Psychology of Religion, and Congregationalism. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 115 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. b. selbie",
+  "william boothby selbie",
+  "selbie"
+ ],
+ "_surname": [
+  "w. b. selbie",
+  "william boothby selbie",
+  "selbie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "selbie-aspects-christ": [
+   "aspectsofchrist00selb",
+   "Aspects of Christ (New York ; and London : Hodder and Stoughton, 1900)"
+  ],
+  "selbie-life-teaching": [
+   "lifeteachingofje07selb",
+   "The life and teaching of Jesus Christ, vol. 7 (New York : Hodder & Stoughton, 1909)"
+  ],
+  "selbie-evangelical": [
+   "evangelicalchri00selbuoft",
+   "Evangelical Christianity : its history and witness : a series of lectures delivered at Mansfield College, Oxford, in the Hilary term, 1911 (London, Hodder and Stoughton, [191)"
+  ],
+  "selbie-servant-god": [
+   "theservantofgod00selbuoft",
+   "The servant of God and other sermons (London : Hodder and Stoughton, 1911)"
+  ],
+  "selbie-nonconformity": [
+   "nonconformityits00selbuoft",
+   "Nonconformity, its origin and progress (London : Williams and Norgate, [191)"
+  ],
+  "selbie-schleiermacher": [
+   "schleiermacherac00selbuoft",
+   "Schleiermacher : a critical and historical study (London : Chapman and Hall, 1913)"
+  ],
+  "selbie-fairbairn": [
+   "lifeofandrewmart0000wbse",
+   "The Life of Andrew Martin Fairbairn (catalogued 1914)"
+  ],
+  "selbie-war-theology": [
+   "cihm_66982",
+   "The war and theology (London ; Toronto : Oxford University Press, H. Milford, 1915)"
+  ],
+  "selbie-bible": [
+   "thenatureandmess00selbuoft",
+   "The nature and message of the Bible (London : Student, 1916)"
+  ],
+  "selbie-belief-life": [
+   "belieflifestudie0000selb",
+   "Belief and life : studies in the thought of the fourth Gospel (New York : Charles Scribner's, 1917)"
+  ],
+  "selbie-horne": [
+   "lifeofcharlessil00selb",
+   "The life of Charles Silvester Horne (London, Hodder and Stoughton, 1920)"
+  ],
+  "selbie-psychology": [
+   "psychologyofreli0000selb",
+   "The psychology of religion (Oxford, Clarendon Press, 1924)"
+  ],
+  "selbie-congregationalism": [
+   "congrationalism0000wbse",
+   "Congrationalism (london: methurn & co., ltd., 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "selbie-dups": "Other scans of the same books (English Sects is the American title of Nonconformity)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "selbie-aspects-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selbie-life-teaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selbie-evangelical": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "[1911]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selbie-servant-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selbie-nonconformity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selbie-schleiermacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selbie-fairbairn": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selbie-war-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selbie-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selbie-belief-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selbie-horne": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selbie-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selbie-congregationalism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. selbie",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

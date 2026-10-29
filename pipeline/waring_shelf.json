@@ -1,0 +1,226 @@
+{
+ "_about": "TRANSLATOR SHELF: James Waring (fl. 1890s): his Balzac for Dent's Comédie humaine (1895-1900). PD. His Cousin Betty (PG 1749) is held on adler_shelf.json and only cross-referenced here. Added 2026-10-10 by lane C (round 18); Adam may veto. No uids minted.",
+ "_name_words": [
+  "james waring"
+ ],
+ "_surname": [
+  "james waring"
+ ],
+ "_surname_note": "Full name; the surname alone is an English word or a common name.",
+ "ccel": {},
+ "gutenberg": {
+  "war-1294": [
+   1294,
+   "The Firm of Nucingen"
+  ],
+  "war-1660": [
+   1660,
+   "Scenes from a Courtesan's Life"
+  ],
+  "war-1912": [
+   1912,
+   "The Muse of the Department"
+  ]
+ },
+ "internet_archive": {
+  "war-dent-beatrix": [
+   "comdiehumainee05balzuoft",
+   "Béatrix"
+  ],
+  "war-dent-fathers-curse": [
+   "comdiehumainee14balzuoft",
+   "A Father's Curse and Other Stories"
+  ],
+  "war-dent-parisians-in-the-country": [
+   "comdiehumainee27balzuoft",
+   "Parisians in the Country"
+  ]
+ },
+ "titles": {
+  "waring-balzac-the-firm-of-nucingen": {
+   "source": "war-1294",
+   "of": "Honoré de Balzac",
+   "work": "The Firm of Nucingen",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "scan_edition": "Project Gutenberg 1294 (clean text)"
+  },
+  "waring-balzac-scenes-from-a-courtesans-life": {
+   "source": "war-1660",
+   "of": "Honoré de Balzac",
+   "work": "Scenes from a Courtesan's Life",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "scan_edition": "Project Gutenberg 1660 (clean text)"
+  },
+  "waring-balzac-the-muse-of-the-department": {
+   "source": "war-1912",
+   "of": "Honoré de Balzac",
+   "work": "The Muse of the Department",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "scan_edition": "Project Gutenberg 1912 (clean text)"
+  },
+  "waring-balzac-cousin-betty": {
+   "of": "Honoré de Balzac",
+   "work": "Cousin Betty",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "balzac-cousinbette",
+    "gutenberg_id": 1749
+   },
+   "note": "Cross-reference only: Adler's shelf holds this text."
+  },
+  "waring-balzac-dent-beatrix": {
+   "source": "war-dent-beatrix",
+   "of": "Honoré de Balzac",
+   "work": "Béatrix",
+   "translated": 1896,
+   "translator": "James Waring",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "waring-balzac-dent-fathers-curse": {
+   "source": "war-dent-fathers-curse",
+   "of": "Honoré de Balzac",
+   "work": "A Father's Curse and Other Stories",
+   "translated": 1898,
+   "translator": "James Waring",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)",
+   "note": "Some of the shorter pieces in this volume overlap Gutenberg texts already shelved on clara-bell (Massimilla Doni and the About Catherine de' Medici collection); the title piece is new here."
+  },
+  "waring-balzac-dent-parisians-in-the-country": {
+   "source": "war-dent-parisians-in-the-country",
+   "of": "Honoré de Balzac",
+   "work": "Parisians in the Country (Les Parisiens en province: The Illustrious Gaudissart; The Muse of the Department)",
+   "translated": 1898,
+   "translator": "James Waring",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)",
+   "note": "The Muse of the Department is also on this shelf from Gutenberg (war-1912) in the same Dent text; The Illustrious Gaudissart in Waring's version is new here."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-7929": "Parisians in the Country is the series title over The Illustrious Gaudissart and The Muse of the Department; Waring's Muse is shelved singly and Gaudissart is Wormeley's (wormeley_shelf.json)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "war-1294": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1660": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Waring"
+  },
+  "war-dent-beatrix": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "war-dent-fathers-curse": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "war-dent-parisians-in-the-country": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "war-1294": {
+   "pg": 1294,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1660": {
+   "pg": 1660,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1912": {
+   "pg": 1912,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Waring"
+  },
+  "war-dent-beatrix": {
+   "ia": "comdiehumainee05balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1838,
+    1839,
+    1842,
+    1844
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "war-dent-fathers-curse": {
+   "ia": "comdiehumainee14balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1831,
+    1836,
+    1837,
+    1839,
+    1846,
+    1849,
+    1898
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  },
+  "war-dent-parisians-in-the-country": {
+   "ia": "comdiehumainee27balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1832,
+    1833,
+    1843
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

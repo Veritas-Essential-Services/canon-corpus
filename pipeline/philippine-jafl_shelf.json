@@ -1,0 +1,53 @@
+{
+ "_about": "Philippine folk tales as their collectors printed them in the Journal of American Folk-Lore, gathered in one Gutenberg file: Bayliss's Philippine Folk-Tales, Maxfield and Millington's Visayan Folk-Tales (the introduction dated February, 1906; collected in 1904), Fletcher Gardner's Tagalog Folk-Tales with two shorter pieces, and Laura Watson Benedict's Bagobo Myths (taken down in 1907). The file cites the journal by volume, 15 to 26, and itself dates volume 19 to 1906, so all are US public domain by publication date. Held in batch 31 because some contributors have no catalogue dates; shelved after Adam's ruling of 2026-10-10 (decision 22). Its words for the peoples it describes are of its time. Added at the coordinator's standing relay (Adam may veto).",
+ "_author": "Clara Kern Bayliss, Berton L. Maxfield, W. H. Millington, Fletcher Gardner and Laura Watson Benedict",
+ "_name_words": [
+  "bayliss",
+  "maxfield",
+  "millington",
+  "benedict"
+ ],
+ "_surname": [
+  "clara kern bayliss",
+  "berton l. maxfield",
+  "w. h. millington",
+  "fletcher gardner",
+  "laura watson benedict"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "phjafl-philippine-folk-tales-jafl": [
+   11028,
+   "Philippine Folk-Tales",
+   {
+    "levels": [
+     {
+      "re": "PART [IVX]+$",
+      "title_next": true,
+      "strip": "\\s*\\[\\d+\\]"
+     },
+     {
+      "re": "CHAPTER (\\d+|[IVX]+)$",
+      "title_next": true,
+      "strip": "\\s*\\[\\d+\\]"
+     }
+    ],
+    "start": "PART I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "phjafl-philippine-folk-tales-jafl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "clara kern bayliss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

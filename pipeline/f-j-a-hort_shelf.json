@@ -1,0 +1,236 @@
+{
+ "_about": "Public-domain F. J. A. Hort (Fenton John Anthony Hort, 1828-1892, Cambridge) for the Word Hoard: The Epistle of St James (1909) from CCEL, and from Internet Archive scans Two Dissertations (1876), The Way the Truth the Life (Hulsean Lectures 1871, 1897 printing), Judaistic Christianity (1894), Prolegomena to Romans and Ephesians (1895), Six Lectures on the Ante-Nicene Fathers (1895), Village Sermons (two series), The Christian Ecclesia (first edition 1897), Cambridge and Other Sermons (1898), First Epistle of St Peter (1898), Notes on the Clementine Recognitions (1901) and The Apocalypse of St John I-III (1908). Most are posthumous, edited by others. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "hort",
+ "_name_words": [
+  "hort"
+ ],
+ "_surname": [
+  "f. j. a. hort",
+  "fenton john anthony hort",
+  "hort, f. j. a.",
+  "hort, fenton john anthony",
+  "f. j. a. hort, d.d.",
+  "the late f. j. a. hort"
+ ],
+ "_held": {},
+ "ccel": {
+  "hort-epistle-james": [
+   "james1909",
+   "The Epistle of St James: Greek Text with Introduction, Commentary as far as Chapter IV, Verse 7 (London: Macmillan, 1909)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "hort-two-dissertations": [
+   "twodissertations00hortuoft",
+   "Two Dissertations: On MONOGENES THEOS in Scripture and Tradition; On the Constantinopolitan Creed (Cambridge and London: Macmillan, 1876)"
+  ],
+  "hort-way-truth-life": [
+   "thewaythetruthth00hortuoft",
+   "The Way the Truth the Life, the Hulsean Lectures for 1871 (London: Macmillan; verso: first edition 1893, reprinted 1897)"
+  ],
+  "hort-judaistic-christianity": [
+   "cu31924029232141",
+   "Judaistic Christianity: A Course of Lectures (Cambridge and London: Macmillan, 1894)"
+  ],
+  "hort-prolegomena-romans-ephesians": [
+   "prolegomenatostp00hortuoft",
+   "Prolegomena to St Paul's Epistles to the Romans and the Ephesians (London: Macmillan, 1895)"
+  ],
+  "hort-ante-nicene-fathers": [
+   "sixlecturesonant00hortuoft",
+   "Six Lectures on the Ante-Nicene Fathers (London: Macmillan, 1895)"
+  ],
+  "hort-village-sermons": [
+   "villagesermons00hortuoft",
+   "Village Sermons (London: Macmillan, 1897)"
+  ],
+  "hort-village-sermons-2": [
+   "villagesermons02hortuoft",
+   "Village Sermons, Second Series (London: Macmillan; no year on title page, catalogued 1904)"
+  ],
+  "hort-christian-ecclesia": [
+   "christianecclesi1897hort",
+   "The Christian Ecclesia: A Course of Lectures, first edition (London and New York: Macmillan, 1897)"
+  ],
+  "hort-cambridge-sermons": [
+   "cambridgeotherse00hortuoft",
+   "Cambridge and Other Sermons (London and New York: Macmillan, 1898)"
+  ],
+  "hort-first-peter": [
+   "firstepistlestp00hortgoog",
+   "The First Epistle of St Peter I.1-II.17: Greek Text with Introductory Lecture and Commentary (London: Macmillan, 1898)"
+  ],
+  "hort-clementine-recognitions": [
+   "clementinerecogn00hortuoft",
+   "Notes Introductory to the Study of the Clementine Recognitions (London and New York: Macmillan; no year on title page, catalogued 1901)"
+  ],
+  "hort-apocalypse": [
+   "cu31924029294992",
+   "The Apocalypse of St John I-III: Greek Text with Introduction and Commentary (London: Macmillan, 1908)"
+  ]
+ },
+ "_alternates": {
+  "hort-ccel-ecclesia": "CCEL hort/ecclesia: keyed from the 1914 Shilling Theological Library reprint; the 1897 first edition is shelved instead",
+  "hort-james-ia": "St James 1909 (IA epistleofstjames01hort): OCR garbles the name; CCEL's text is shelved",
+  "hort-clement-miscellanies": "Clement of Alexandria, Miscellanies Book VII (1902; miscellaniesbook00clemuoft): an edition and translation, finished by J. B. Mayor",
+  "hort-sermons-books-bible": "Sermons on the Books of the Bible (1900; in.ernet.dli.2015.37930): a selection from Village Sermons",
+  "hort-westcott-hort": "The New Testament in the Original Greek, with B. F. Westcott (1881-82; newtestamentinor01westuoft, newtestamentinor82west): joint critical text; the Introduction volume is Hort's",
+  "hort-copies": "Second copies: judaisticchristi00hortiala, cu31924029292871, waytruthlife00hortuoft, in.ernet.dli.2015.42683, villagesermons01hortuoft, cu31924029306509"
+ },
+ "_excluded": {
+  "hort-life-letters": "Life and Letters, by his son Arthur Fenton Hort (1896): by another hand",
+  "hort-mislabelled": "judaisticchristi00hortuoft is a Wordsworth Church History volume",
+  "hort-greek-ocr": "firstepistleofst00hortuoft and epistleofstjames00hortuoft: English text OCR'd as Greek, useless",
+  "hort-reprints": "later reprints (1913, 1922 and modern)",
+  "hort-journal": "Journal of Classical and Sacred Philology: a periodical"
+ },
+ "_pending": {},
+ "_checks": {
+  "hort-epistle-james": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hort-two-dissertations": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fenton john anthony hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-way-truth-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-judaistic-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hort-prolegomena-romans-ephesians": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-ante-nicene-fathers": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-village-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-village-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904-5",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-christian-ecclesia": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fenton john anthony hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-cambridge-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-first-peter": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-clementine-recognitions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hort-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. a. hort",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

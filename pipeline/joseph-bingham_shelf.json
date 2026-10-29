@@ -1,0 +1,167 @@
+{
+ "_about": "Public-domain Joseph Bingham (1668-1723), rector of Havant, for the Word Hoard: Origines Ecclesiasticae, or The Antiquities of the Christian Church, with his other works (London: William Straker, 1834; the eight volumes found), and The French Churches' Apology for the Church of England (1706). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 74 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bingham"
+ ],
+ "_surname": [
+  "joseph bingham",
+  "jos. bingham",
+  "binghami"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bingham-french-churches-apology-1706": [
+   "bim_eighteenth-century_the-french-churches-apol_bingham-joseph_1706",
+   "The French Churches Apology for the Church of England: or, the Objections of Dissenters against the Articles, Homilies, Liturgy and Canons of the English Church, consider'd and answer'd upon the principles of the Reformed Church of France (London: R. Knaplock, 1706)"
+  ],
+  "bingham-works-1834-v1": [
+   "originesecclesiast01bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 1 (London: William Straker, 1834)"
+  ],
+  "bingham-works-1834-v2": [
+   "originesecclesiast02bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 2 (London: William Straker, 1834)"
+  ],
+  "bingham-works-1834-v3": [
+   "originesecclesiast03bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 3 (London: William Straker, 1834)"
+  ],
+  "bingham-works-1834-v4": [
+   "originesecclesiast04bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 4 (London: William Straker, 1834)"
+  ],
+  "bingham-works-1834-v5": [
+   "originesecclesiast05bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 5 (London: William Straker, 1834)"
+  ],
+  "bingham-works-1834-v6": [
+   "originesecclesiast06bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 6 (London: William Straker, 1834)"
+  ],
+  "bingham-works-1834-v7": [
+   "originesecclesiast07bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 7 (London: William Straker, 1834)"
+  ],
+  "bingham-works-1834-v8": [
+   "originesecclesiast08bing",
+   "Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 8 (London: William Straker, 1834)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bingham-other": "Latin translations of the Antiquities (1724, 1738-1751) and a German abridgement (1788); the 1726 folio Works and the 1840-1855 editions, duplicates of the 1834 set"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "bingham-french-churches-apology-1706": "title page read from the page image: 'By J. Bingham, M.A. and sometime Fellow of Univ. Coll. in Oxford. London: Printed for R. Knaplock ... 1706' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bingham-french-churches-apology-1706": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1706",
+   "ia_date": "1706",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bingham-works-1834-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bingham-works-1834-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bingham-works-1834-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bingham-works-1834-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bingham-works-1834-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bingham-works-1834-v6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bingham-works-1834-v7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bingham-works-1834-v8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

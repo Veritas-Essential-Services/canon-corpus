@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: F. M. Atkinson (1878-1973) and John Heron Lepper (1878-1952): Charles de Coster's The Legend of Ulenspiegel (1918, 2 vols). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "f. m. atkinson",
+  "lepper"
+ ],
+ "_surname": [
+  "f. m. atkinson",
+  "lepper"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "atl-38247": [
+   38247,
+   "The Legend of Ulenspiegel, Volume 1 (of 2) And Lamme Goedzak, and their Adventures Heroical, Joyous and Glorious in the Land of Flanders and Elsewhere"
+  ],
+  "atl-40004": [
+   40004,
+   "The Legend of Ulenspiegel, Volume 2 (of 2) And Lamme Goedzak, and their Adventures Heroical, Joyous and Glorious in the Land of Flanders and Elsewhere"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "atkinson-lepper-de-coster-the-legend-of-ulenspiegel-vol-1": {
+   "source": "atl-38247",
+   "of": "Charles De Coster",
+   "work": "The Legend of Ulenspiegel, Volume 1 (of 2) And Lamme Goedzak, and their Adventures Heroical, Joyous and Glorious in the Land of Flanders and Elsewhere",
+   "translated": "1918 (see the Gutenberg header)",
+   "translator": "F. M. Atkinson and John Heron Lepper",
+   "scan_edition": "Project Gutenberg 38247 (clean text)"
+  },
+  "atkinson-lepper-de-coster-the-legend-of-ulenspiegel-vol-2": {
+   "source": "atl-40004",
+   "of": "Charles De Coster",
+   "work": "The Legend of Ulenspiegel, Volume 2 (of 2) And Lamme Goedzak, and their Adventures Heroical, Joyous and Glorious in the Land of Flanders and Elsewhere",
+   "translated": "1918 (see the Gutenberg header)",
+   "translator": "F. M. Atkinson and John Heron Lepper",
+   "scan_edition": "Project Gutenberg 40004 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "atl-38247": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. m. atkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. M. Atkinson; John Heron Lepper"
+  },
+  "atl-40004": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. m. atkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. M. Atkinson; John Heron Lepper"
+  }
+ },
+ "_verified": {
+  "atl-38247": {
+   "pg": 38247,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. M. Atkinson"
+  },
+  "atl-40004": {
+   "pg": 40004,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. M. Atkinson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

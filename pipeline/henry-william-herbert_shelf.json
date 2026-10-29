@@ -1,0 +1,111 @@
+{
+ "_about": "Henry William Herbert: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Henry William Herbert",
+ "_name_words": [
+  "henry",
+  "herbert",
+  "william"
+ ],
+ "_surname": [
+  "henry william herbert"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hwherbert-warwick-woodlands": [
+   19730,
+   "Warwick Woodlands: Things as they Were There Twenty Years Ago"
+  ],
+  "hwherbert-roman-traitor-vol-1": [
+   25092,
+   "The Roman Traitor, Vol. 1"
+  ],
+  "hwherbert-roman-traitor-vol-2": [
+   25096,
+   "The Roman Traitor, Vol. 2"
+  ],
+  "hwherbert-dog": [
+   32300,
+   "The dog"
+  ],
+  "hwherbert-wager-of-battle": [
+   45341,
+   "Wager of Battle: A Tale of Saxon Slavery in Sherwood Forest"
+  ],
+  "hwherbert-silent-rifleman-a-tale-of-the-texan-prairies": [
+   46304,
+   "The Silent Rifleman! A tale of the Texan prairies"
+  ],
+  "hwherbert-knights-of-england-france-and-scotland": [
+   57045,
+   "The Knights of England, France, and Scotland"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hwherbert-warwick-woodlands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry william herbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwherbert-roman-traitor-vol-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry william herbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwherbert-roman-traitor-vol-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry william herbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwherbert-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry william herbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwherbert-wager-of-battle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry william herbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwherbert-silent-rifleman-a-tale-of-the-texan-prairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry william herbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwherbert-knights-of-england-france-and-scotland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry william herbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "_about": "Public-domain James Caughey (1810?-1891), Irish-born American Methodist revivalist in Canada and Britain, for the Word Hoard: Letters on Various Subjects, Methodism in Earnest, Helps to a Life of Holiness and Usefulness (Revival Miscellanies), The Triumph of Truth, Showers of Blessing, Arrows from my Quiver, Glimpses of Life in Soul-saving, and Light in the Dark. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 103 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james caughey",
+  "j. caughey",
+  "caughey"
+ ],
+ "_surname": [
+  "james caughey",
+  "j. caughey",
+  "caughey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "caughey-letters": [
+   "lettersonvariou01cauggoog",
+   "Letters on various subjects (catalogued 1845)"
+  ],
+  "caughey-methodism-earnest": [
+   "methodisminearne00caug",
+   "Methodism in earnest: being the history of a great revival in Great Britain; in which twenty thousand souls were justified, and ten thousand sanctified, in about six years, through the instrumentality of Rev. James Caughey; including an account of the mental and spiritual exercises which made him so eminent a revivalist (Boston, C. H. Peirce, 1850)"
+  ],
+  "caughey-revival-miscellanies": [
+   "revivalmiscellan00caug",
+   "Revival miscellanies, containing eleven revival sermons : and thoughts on entire sanctification (Boston : For sale by J.P. Magee, 1851)"
+  ],
+  "caughey-helps-holiness": [
+   "helpstolifeofhol00caug",
+   "Helps to a life of holiness and usefulness (Boston, J. P. Magee, agent, 1852)"
+  ],
+  "caughey-triumph-truth": [
+   "thetriumphoftrut00cauguoft",
+   "The triumph of truth, and continental letters and sketches, from the journal, letters, and sermons of the Rev. James Caughey (New York Carlton & Porter, 1857)"
+  ],
+  "caughey-showers-blessing": [
+   "showersofblessin00caug",
+   "Showers of blessing from clouds of mercy (Boston, J. P. Magee, 1860)"
+  ],
+  "caughey-arrows": [
+   "arrowsfrommyquiv00caug",
+   "Arrows from my quiver (New York, W. C. Palmer, jr., 1867)"
+  ],
+  "caughey-glimpses": [
+   "glimpsesoflifein00caug",
+   "Glimpses of life in soul-saving (New York, W. C. Palmer, jr., 1868)"
+  ],
+  "caughey-light-in-dark": [
+   "lightindarkthrou0000revj",
+   "Light in the dark, through the dominions Unbelief (W. C. Palmer, 1868)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "caughey-memoir": "A Brief Memoir... of the Rev. J. Caughey (by another hand)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "caughey-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caughey-methodism-earnest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caughey-revival-miscellanies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caughey-helps-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "caughey-triumph-truth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caughey-showers-blessing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caughey-arrows": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "caughey-glimpses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "caughey-light-in-dark": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james caughey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

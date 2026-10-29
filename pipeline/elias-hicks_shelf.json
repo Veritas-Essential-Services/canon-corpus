@@ -1,0 +1,116 @@
+{
+ "_about": "Public-domain Elias Hicks (1748-1830), the Long Island Quaker whose preaching split the Society of Friends in 1827, for the Word Hoard: his Journal written by himself (1832), extemporaneous discourses and sermons taken in shorthand (1825), his Letters (1834) and Observations on the Slavery of the Africans (1814), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hicks"
+ ],
+ "_surname": [
+  "elias hicks",
+  "hicks, elias"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "ehicks-journal-pg": [
+   61777,
+   "Journal of the Life and Religious Labours of Elias Hicks, written by himself (New York: Isaac T. Hopper, 1832)"
+  ]
+ },
+ "internet_archive": {
+  "ehicks-journal-1832": [
+   "journalofliferel00hick",
+   "Journal of the Life and Religious Labours of Elias Hicks, written by himself, fifth edition (New York: Isaac T. Hopper, 1832)"
+  ],
+  "ehicks-discourses-1825": [
+   "seriesofextempo00hick",
+   "A Series of Extemporaneous Discourses delivered in the several meetings of the Society of Friends, taken in short-hand by M. T. C. Gould (Philadelphia: Joseph & Edward Parker, 1825)"
+  ],
+  "ehicks-sermons-1825": [
+   "sermonsdelivered00hick",
+   "Sermons delivered by Elias Hicks & Edward Hicks in Friends' Meetings, New-York, 1825, taken in short-hand by L. H. Clarke & M. T. C. Gould (New York: J. V. Seaman, 1825)"
+  ],
+  "ehicks-letters-1834": [
+   "letterseliashic00hickgoog",
+   "Letters of Elias Hicks, including also a few short essays (New York: Isaac T. Hopper, 1834)"
+  ],
+  "ehicks-slavery-1814": [
+   "observationsonsl00hick",
+   "Observations on the Slavery of the Africans and their Descendants (New York: Samuel Wood, 1814)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ehicks-about": "Replies to and reviews of his doctrine by opponents; Wilbur's Life and Labors (PG 50374); The Quaker (1827) and other many-speaker volumes"
+ },
+ "_rights_checked": {
+  "ehicks-sermons-1825": "title page read: sermons by Elias Hicks and Edward Hicks, taken down in shorthand by others"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ehicks-journal-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elias hicks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehicks-journal-1832": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elias hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ehicks-discourses-1825": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elias hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ehicks-sermons-1825": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elias hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: sermons by Elias Hicks and Edward Hicks, taken down in shorthand by others"
+  },
+  "ehicks-letters-1834": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elias hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ehicks-slavery-1814": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elias hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

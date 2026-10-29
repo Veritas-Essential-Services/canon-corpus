@@ -1,0 +1,85 @@
+{
+ "_about": "Charles Gilson: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Charles Gilson",
+ "_name_words": [
+  "charles",
+  "gilson"
+ ],
+ "_surname": [
+  "charles gilson",
+  "gilson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cgilson-across-the-cameroons": [
+   39185,
+   "Across the Cameroons: A Story of War and Adventure"
+  ],
+  "cgilson-held-by-chinese-brigands": [
+   39254,
+   "Held by Chinese Brigands"
+  ],
+  "cgilson-fire-gods": [
+   39255,
+   "The Fire-Gods: A Tale of the Congo"
+  ],
+  "cgilson-submarine-u93": [
+   39387,
+   "Submarine U93"
+  ],
+  "cgilson-treasure-of-kings-being-the-story-of-the-discovery-o": [
+   39399,
+   "Treasure of Kings Being the Story of the Discovery of the \"Big Fish,\" or the Quest of the Greater Treasure of the Incas of Peru."
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cgilson-across-the-cameroons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles gilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgilson-held-by-chinese-brigands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles gilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgilson-fire-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles gilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgilson-submarine-u93": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles gilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgilson-treasure-of-kings-being-the-story-of-the-discovery-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles gilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

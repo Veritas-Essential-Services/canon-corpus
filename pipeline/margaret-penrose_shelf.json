@@ -1,0 +1,441 @@
+{
+ "_about": "Margaret Penrose's series books for girls (the Motor Girls, Dorothy Dale, the Radio Girls): every English text under the name at Gutenberg. Margaret Penrose is a house name of the Stratemeyer Syndicate, whose individual ghostwriters the texts do not name. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Margaret Penrose",
+ "_name_words": [
+  "penrose"
+ ],
+ "_surname": [
+  "margaret penrose"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mpenrose-motor-girls-on-a-tour": [
+   2789,
+   "The Motor Girls on a Tour"
+  ],
+  "mpenrose-motor-girls": [
+   4914,
+   "The Motor Girls"
+  ],
+  "mpenrose-dorothy-dale": [
+   5629,
+   "Dorothy Dale: A Girl of To-Day"
+  ],
+  "mpenrose-motor-girls-on-cedar-lake": [
+   7081,
+   "The Motor Girls on Cedar Lake; Or, the Hermit of Fern Island"
+  ],
+  "mpenrose-motor-girls-on-waters-blue": [
+   7210,
+   "The Motor Girls on Waters Blue; Or, the Strange Cruise of the Tartar"
+  ],
+  "mpenrose-dorothy-dales-queer-holidays": [
+   15653,
+   "Dorothy Dale's Queer Holidays",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dales-camping-days": [
+   16091,
+   "Dorothy Dale's Camping Days",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-motor-girls-through-new-england": [
+   20870,
+   "The Motor Girls Through New England; or, Held by the Gypsies",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-motor-girls-on-crystal-bay": [
+   25873,
+   "The Motor Girls on Crystal Bay; or, The Secret of the Red Oar",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-campfire-girls-of-roselawn": [
+   28448,
+   "The campfire girls of Roselawn"
+  ],
+  "mpenrose-motor-girls-on-the-coast": [
+   32024,
+   "The Motor Girls on the Coast; or, The Waif From the Sea",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dale-at-glenwood-school": [
+   33530,
+   "Dorothy Dale at Glenwood School",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-campfire-girls-on-station-island": [
+   36130,
+   "The Campfire Girls on Station Island; Or, The Wireless from the Steam Yacht",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-motor-girls-at-camp-surprise": [
+   36426,
+   "The Motor Girls at Camp Surprise; Or, The Cave in the Mountains"
+  ],
+  "mpenrose-motor-girls-at-lookout-beach": [
+   37911,
+   "The Motor Girls at Lookout Beach; Or, In Quest of the Runaways"
+  ],
+  "mpenrose-dorothy-dale-in-the-city": [
+   38555,
+   "Dorothy Dale in the City",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-motor-girls-in-the-mountains": [
+   39063,
+   "The Motor Girls in the Mountains; or, The Gypsy Girl's Secret",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dales-great-secret": [
+   41558,
+   "Dorothy Dale's Great Secret",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dales-promise": [
+   54021,
+   "Dorothy Dale's Promise",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dale-in-the-west": [
+   54022,
+   "Dorothy Dale in the West",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dale-and-her-chums": [
+   54147,
+   "Dorothy Dale and Her Chums",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dales-school-rivals": [
+   54649,
+   "Dorothy Dale's School Rivals",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-radio-girls-at-forest-lodge": [
+   61592,
+   "The Radio Girls at Forest Lodge; or, The Strange Hut in the Swamp",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-radio-girls-on-station-island": [
+   69317,
+   "The Radio Girls on Station Island: The wireless from the steam yacht",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-radio-girls-on-the-program": [
+   70429,
+   "The Radio Girls on the program",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-radio-girls-of-roselawn": [
+   71771,
+   "The radio girls of Roselawn",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dales-engagement": [
+   72040,
+   "Dorothy Dale's engagement",
+   {
+    "contents_only": true
+   }
+  ],
+  "mpenrose-dorothy-dale-to-the-rescue": [
+   72644,
+   "Dorothy Dale to the rescue",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mpenrose-motor-girls-on-a-tour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-on-cedar-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-on-waters-blue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dales-queer-holidays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dales-camping-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-through-new-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-on-crystal-bay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-campfire-girls-of-roselawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-on-the-coast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dale-at-glenwood-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-campfire-girls-on-station-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-at-camp-surprise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-at-lookout-beach": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dale-in-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-motor-girls-in-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dales-great-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dales-promise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dale-in-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dale-and-her-chums": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dales-school-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-radio-girls-at-forest-lodge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-radio-girls-on-station-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-radio-girls-on-the-program": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-radio-girls-of-roselawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dales-engagement": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpenrose-dorothy-dale-to-the-rescue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret penrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "_about": "Eugen von Bohm-Bawerk (1851-1914), Austrian economist: Capital and Interest, a critical history of economical theory, translated with a preface and analysis by William Smart (London and New York: Macmillan, 1890); The Positive Theory of Capital, translated by William Smart (1891; this copy G. E. Stechert's New York reprint of 1928, whose OCR spells the translator 'SMAET', so no translator claim is recorded for it); Karl Marx and the Close of his System, translated by Alice M. Macdonald with a preface by James Bonar (London: T. Fisher Unwin, 1898). Raw IA OCR, clean 0.92-0.93. US public domain (all printed before 1931). No uids minted.",
+ "_author": "Eugen von Bohm-Bawerk",
+ "_name_words": [
+  "eugen",
+  "bohm",
+  "bawerk",
+  "böhm"
+ ],
+ "_surname": [
+  "bawerk"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bohm-bawerk-smart-capital-interest-1890": [
+   "capitalinterestc00bhuoft",
+   "Capital and Interest, tr. William Smart (Macmillan, 1890)",
+   "William Smart"
+  ],
+  "bohm-bawerk-smart-positive-theory-1928": [
+   "positivetheoryof00bhuoft",
+   "The Positive Theory of Capital, tr. William Smart (1891; Stechert reprint, 1928)"
+  ],
+  "bohm-bawerk-macdonald-karl-marx-1898": [
+   "karlmarxandclos00macdgoog",
+   "Karl Marx and the Close of his System, tr. Alice M. Macdonald (Fisher Unwin, 1898)",
+   "Alice M. Macdonald"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "bohm-bawerk-smart-capital-interest-1890": "Smart",
+  "bohm-bawerk-macdonald-karl-marx-1898": "Macdonald"
+ },
+ "_checks": {
+  "bohm-bawerk-smart-capital-interest-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bawerk",
+   "translator_claimed": "Smart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bohm-bawerk-smart-positive-theory-1928": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bawerk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bohm-bawerk-macdonald-karl-marx-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bawerk",
+   "translator_claimed": "Macdonald",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

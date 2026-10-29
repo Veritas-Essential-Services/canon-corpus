@@ -127,6 +127,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | Works of Aristotle, vol. VI (1913) | Opuscula: De Coloribus, De Audibilibus, Physiognomonica, De Plantis, De Mirabilibus Auscultationibus, Mechanica, De Lineis Insecabilibus, Ventorum Situs, De Melisso Xenophane Gorgia (T. Loveday, E. S. Forster, L. D. Dowdall, H. H. Joachim) | `aristotle-ross-v06` | have-raw (IA `worksofaristotle06arisuoft`) |
 | Works of Aristotle, vol. VII (1927) | Problemata (E. S. Forster) | `aristotle-ross-v07` | have-raw (IA `worksofaristotle07arisuoft`) |
 | Works of Aristotle, vol. VIII, 2nd ed. (1928) | Metaphysica (W. D. Ross) | `aristotle-ross-v08` | have-raw (IA `theworksofaristo08arisuoft`) |
+| Works of Aristotle, vol. VIII, first edition (1908) | Metaphysica (W. D. Ross); the 1928 revised second edition is the row above | `aristotle-ross-v08-1908` | have-raw (IA `worksaristotle08arisgoog`) |
 | Works of Aristotle, vol. IX (1925) | Ethica Nicomachea (W. D. Ross); Magna Moralia (St. George Stock); Ethica Eudemia, De Virtutibus et Vitiis (J. Solomon) | `aristotle-ross-v09` | have-raw (IA `theworksofaristo09arisuoft`) |
 | Works of Aristotle, vol. X (1921) | Politica (Benjamin Jowett); Oeconomica (E. S. Forster); Atheniensium Respublica (Frederic G. Kenyon) | `aristotle-ross-v10` | have-raw (IA `theworksofaristo10arisuoft`) |
 | Works of Aristotle, vol. XI (1924) | Rhetorica (W. Rhys Roberts); De Rhetorica ad Alexandrum (E. S. Forster); De Poetica (Ingram Bywater) | `aristotle-ross-v11` | have-raw (IA `theworksofaristo11arisuoft`) |
@@ -156,10 +157,20 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Politics and Economics, with Gillies's introductory essay and life (Bohn, 1853) | Edward Walford | `aristotle-walford-politics-economics-1853` | have-raw (IA `politicseconomic00aris`) |
 | The Nicomachean Ethics of Aristotle (London: Longmans, Green, 1869) | Robert Williams | `aristotle-williams-ethics-1869` | have-raw (IA `nicomacheanet00aris`) |
 | The Rhetoric, Poetic, and Nicomachean Ethics of Aristotle, vol. II (London, 1818) | Thomas Taylor | `aristotle-taylor-rhetoric-poetic-ethics-1818` | have-raw (IA `rhetoricpoetica00taylgoog`) |
+| The Politics of Aristotle, translated into English, with introduction, marginal analysis, essays, notes and indices, vol. I: the introduction and translation (Oxford: Clarendon, 1885) | B. Jowett | `aristotle-jowett-politics-1885-v1` | have-raw (IA `politicsofaristo01arisuoft`) |
+| The Politics of Aristotle, vol. II, part I: the notes (Oxford: Clarendon, 1885) | B. Jowett | `aristotle-jowett-politics-1885-v2` | have-raw (IA `politicsofaristo02arisuoft`) |
+| The Rhetoric of Aristotle, a translation, edited with an introduction and supplementary notes by John Edwin Sandys (Cambridge University Press, 1909) | Sir Richard Claverhouse Jebb | `aristotle-jebb-rhetoric-1909` | have-raw (IA `rhetoricofaristo0000sirr`) |
+| The Logic of Science: a translation of the Posterior Analytics of Aristotle, with notes and an introduction (Oxford: Francis Macpherson, MDCCCL) | Edward Poste | `aristotle-poste-posterior-analytics-1850` | have-raw (IA `cu31924028996572`) |
+| Aristotle on the Constitution of Athens (London: Macmillan, 1891) | E. Poste | `aristotle-poste-athenian-constitution-1891` | have-raw (IA `aristotleonconst00arisiala`) |
+| Aristotle's Treatise on Poetry, translated, with notes on the translation and on the original, and two dissertations on poetical and musical imitation, second edition in two volumes by Daniel Twining, vol. I (London: Luke Hansard, 1812; first edition 1789) | Thomas Twining | `aristotle-twining-poetry-1812-v1` | have-raw (IA `treatiseonpoetry01arisuoft`) |
+| Aristotle's Treatise on Poetry, second edition, vol. II: the notes (London: Luke Hansard, 1812) | Thomas Twining | `aristotle-twining-poetry-1812-v2` | have-raw (IA `treatiseonpoetry02arisuoft`) |
+| Aristotle on the Parts of Animals, translated, with introduction and notes (London: Kegan Paul, Trench, 1882; not the Oxford translation of 1912 in vol. V) | W. Ogle | `aristotle-ogle-parts-of-animals-1882` | have-raw (IA `aristotleonparts00arisrich`) |
+| Aristotle on Youth and Old Age, Life and Death, and Respiration, translated, with introduction and notes (London: Longmans, Green, 1897) | W. Ogle | `aristotle-ogle-youth-old-age-1897` | have-raw (IA `aristotleonyouth00aris`) |
+| Aristotle on his Predecessors, being the first book of his Metaphysics (Chicago: Open Court, 1907) | A. E. Taylor | `aristotle-taylor-metaphysics-a-1907` | have-raw (IA `aristotlemetaphy00arisuoft`) |
 
-Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
+Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears; Thomas Taylor's Treatises on the Soul (1808; the only scan found, IA `b22006874`, has an unreadable text layer past the title page); Poste's Sophistici Elenchi (1866; Greek facing, 0.59 clean, under the bar); Thomas Taylor's Works of Aristotle (1806-1812, 9 vols.; vol. I, the Organon, is scanned as IA `works00taylgoog`, but its title page OCR shows no legible year or name, so it is held).
 
-Aristotle cross-ref: the Adler shelf already holds `aristotle-ethics` (Chase, PG 8438) and `aristotle-politics` (Jowett, PG 6762, the same translation as the Politics in Oxford vol. X).
+Aristotle cross-ref: the Adler shelf already holds `aristotle-ethics` (Chase, PG 8438) and `aristotle-politics` (PG 6762, labelled Jowett there, but Gutenberg's header and the text are William Ellis's 1776 translation; Jowett's Politics is held here in vol. X and in his own 1885 edition).
 
 Excluded: `meteorologica00aris` (catalogued as the 1923 separate issue, but the scan is all of vol. III and carries the 1931 De Anima); duplicate Toronto scans of vols. X–XII; Perseus English (Loeb) not used; `worksofaristotle00unse` (*Aristotle's Masterpiece*, falsely ascribed).
 
@@ -210,6 +221,8 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | The Epistles (Heroides) | translators not named (1813) | `ovid-perseus-1813-epistles` | have (Perseus TEI `phi0959.phi002.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Art of Love, and Other Poems: On Painting the Face, Ars Amatoria, Remedia Amoris, Nux, Ibis, Halieuticon, Consolatio ad Liviam (Loeb; London: Heinemann, New York: Putnam, MCMXXIX; Latin facing) | J. H. Mozley | `ovid-mozley-art-of-love-1929` | have-raw (IA `ovidartofloveoth0000unse`) |
 | The Metamorphoses of Publius Ovidius Naso translated in English blank verse (Blackwood, MDCCCLXXI) | Henry King | `ovid-king-metamorphoses-1871` | have-raw (IA `metamorphosesofp00ovid`) |
+| Poems and Translations, including the first four books of Ovid's Fasti, with the ancient Roman calendar (Liverpool: William Forshaw, 1839); the volume also holds Taylor's own poems | John Taylor | `ovid-taylor-fasti-1839` | have-raw (IA `poemstranslation00tayluoft`) |
+| A Translation of Ovid's Fasti into English Prose, with notes, Part I: books I-III (Dublin: John Cumming, 1833) | William Thynne | `ovid-thynne-fasti-1833-pt1` | have-raw (IA `translationofovi00ovid`) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -263,6 +276,10 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated title page; the preface is dated Kensington, 1866, and no later year appears; IA catalogue 1866) | John Benson Rose | `virgil-rose-eclogues-georgics` | have-raw (IA `ecloguesandgeor00rosegoog`) |
 | A Translation of Virgil's Eclogues into Rhythmic Prose, based on those in Professor Conington's edition (London: Longmans, Green, Reader, and Dyer, 1870) | E. M. Millington | `virgil-millington-eclogues-1870` | have-raw (IA `atranslationvir00marogoog`) |
 | A Translation of the First Book of the Georgics of Virgil, in Blank Verse, with notes critical and explanatory (London: W. Phillips, 1825) | Robert Hoblyn | `virgil-hoblyn-georgics-i-1825` | have-raw (IA `atranslationfir00marogoog`) |
+| The Eclogues of Virgil translated into English verse (printed for private distribution, 1868) | Henry Duncan Skrine | `virgil-skrine-eclogues-1868` | have-raw (IA `ecloguesofvirgil00vir`) |
+| The Works of Virgil in Latin and English, third edition with considerable improvements, vol. II (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v2` | have-raw (IA `worksvirgilinla00virggoog`) |
+| The Works of Virgil in Latin and English, third edition with considerable improvements, vol. IV: Aeneid IX-XII (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v4` | have-raw (IA `worksvirgilinla01virggoog`) |
+| A Translation into English Verse of Virgil's Fourth Georgic (Leamington: Nathaniel Merridew, 1859) | Charles Robertson Honey | `virgil-honey-georgic-iv-1859` | have-raw (IA `translationintoe00virg`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -335,6 +352,9 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey of Homer, Books I-XII, translated into English verse, with notes and parallel passages (Edinburgh and London: William Blackwood and Sons, 1880) | Sir Charles Du Cane | `homer-du-cane-odyssey-1880` | have-raw (IA `odysseybooksixi00homegoog`) |
 | The Iliad of Homer in English Hexameter Verse (London: Longmans, Green, and Co.; title-page date partly legible as LXV, catalogue 1865) | J. Henry Dart | `homer-dart-iliad-1865` | have-raw (IA `cu31924026468441`) |
 | The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891) | John Purves | `homer-purves-iliad-1891` | have-raw (IA `iliadhomertrans00abbogoog`) |
+| The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830) | Columbus C. Conwell | `homer-conwell-hymns-1830` | have-raw (IA `hymnshomertrans00conwgoog`) |
+| An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869) | James Gilchrist | `homer-gilchrist-iliad-1869` | have-raw (IA `englishtranslati00home`) |
+| The Iliad of Homer, the first three books, faithfully translated into English hexameters (London: Rivingtons, 1861) | Frederick H. J. Ritso | `homer-ritso-iliad-i-iii-1861` | have-raw (IA `iliadofhomerfirs00home`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -376,6 +396,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Agamemnon of Aeschylus and the Bacchanals of Euripides, with passages from the lyric and later poets of Greece (Murray, 1865) | Henry Hart Milman | `aeschylus-milman-agamemnon-1865` | have-raw (IA `agamemnonofaesch00aescuoft`) |
 | The Agamemnon of Aeschylus, rendered into English verse (Nutt, 1907) | W. R. Paton | `aeschylus-paton-agamemnon-1907` | have-raw (IA `agamemnonofaesch01aesc`) |
 | Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920) | Locke Ellis | `aeschylus-ellis-agamemnon-1920` | have-raw (IA `agamemnonaftergr00aesciala`) |
+| The Seven Tragedies of Aeschylus, literally translated, with notes (Oxford: D. A. Talboys and J. Vincent, 1829) | anonymous (the title page names no translator) | `aeschylus-oxford-literal-1829` | have-raw (IA `seventragediess00aescgoog`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -416,6 +437,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Alcestis of Euripides translated into English verse for the thirteenth annual rendition of the Classical Department (Beloit, Wis.: Ingersoll, 1898) | the Class of 1900 of Beloit College | `euripides-beloit-alcestis-1898` | have-raw (IA `alcestisofeuripi00euri_1`) |
 | Euripides' Alcestis translated, with introduction and notes by J. Churton Collins (Oxford: Clarendon Press, 1906) | H. Kynaston | `euripides-kynaston-alcestis-1906` | have-raw (IA `euripidesalcest00eurigoog`) |
 | The Bacchae and Heraclidae of Euripides, literally translated into English from the text of Dindorf, by a Member of the University of Oxford (London: Henry Washbourne, 1846) | anonymous ('a Member of the University of Oxford') | `euripides-oxford-member-bacchae-heraclidae-1846` | have-raw (IA `TheBacchaeAndHeraclidae`) |
+| The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889) | H. B. L. | `euripides-hbl-ion-1889` | have-raw (IA `ionofeuripidesno00euriiala`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -456,6 +478,8 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Sophocles, Oedipus Tyrannus, literally translated (Dublin; London: Simpkin, Marshall, 1865) | Roscoe Mongan | `sophocles-mongan-oedipus-tyrannus-1865` | have-raw (IA `sophoclesdipust00sophgoog`) |
 | Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894) | Arthur Compton Auchmuty Hull | `sophocles-hull-oedipus-coloneus-1894` | have-raw (IA `cu31924026593511`) |
 | The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
+| The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820) | Robert Potter | `sophocles-potter-1820` | have-raw (IA `tragediesofsopho00soph_0`) |
+| The Tragedies of Sophocles, translated from the Greek (a new edition, 1818) | George Adams | `sophocles-george-adams-1818` | have-raw (IA `tragediesofso00soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -484,8 +508,9 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Acharnians of Aristophanes, translated into English verse (Dublin University Press Series, 1883) | Robert Yelverton Tyrrell | `aristophanes-tyrrell-acharnians-1883` | have-raw (IA `aristophanesach00arisrich`) |
 | The Comedies of Aristophanes, vol. I (London, 1820) | Thomas Mitchell | `aristophanes-mitchell-1820-v1` | have-raw (IA `comediesaristop02mitcgoog`) |
 | The Comedies of Aristophanes, a new and literal translation, vol. II: Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus (London: Henry G. Bohn, 1853) | William James Hickie | `aristophanes-hickie-1853-v2` | have-raw (IA `comediesaristop00hickgoog`) |
+| The Frogs and Other Plays of Aristophanes (Everyman's Library, The Plays of Aristophanes vol. II; first issued 1911, this scan the 1922 reprint): the Frogs tr. Frere, the Thesmophoriazusae tr. Hickie, the Clouds tr. Mitchell, the Wasps tr. Cumberland | J. Hookham Frere | `aristophanes-frere-frogs-everyman-1911` | have-raw (IA `frogsthreeotherp00aris`) |
 
-Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
+Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is now held above from Everyman vol. II. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
 
 Excluded: PG 3012, 2571, 3013 (the Athenian Society translation split into single plays).
 
@@ -509,6 +534,8 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
 | Histories | A. D. Godley (1920-25; modernized by Perseus) | `herodotus-perseus-godley-histories` | have (Perseus TEI `tlg0016.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Nine Books of the History of Herodotus, translated from the text of Thomas Gaisford, with notes, vol. I (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v1` | have-raw (IA `ninebooksofhisto01herdiala`) |
+| The Nine Books of the History of Herodotus, vol. II (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v2` | have-raw (IA `ninebooksofhisto02herdiala`) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
@@ -805,6 +832,7 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Tiberius and Caius Gracchus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-tiberius-and-caius-gracchus` | have (Perseus TEI `tlg0007.tlg052.perseus-eng1`; markup CC BY-SA 4.0) |
 | Timoleon | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-timoleon` | have (Perseus TEI `tlg0007.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
 | Titus Flamininus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-titus-flamininus` | have (Perseus TEI `tlg0007.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
+| Greek Lives from Plutarch, newly translated (London: Edward Arnold, 1907): Theseus, Lycurgus, Aristides, Themistocles, Pericles, Alcibiades, Dion, Demosthenes, Alexander | C. E. Byles | `plutarch-byles-greek-lives-1907` | have-raw (IA `greeklivesfrompl00plutuoft`) |
 
 Pending (wishlist): Philemon Holland's Morals (1603) is held above from the UC San Diego copy (OCR 0.90-0.92, old spelling); Babbitt's Moralia vols. 3 on (1931-) are after the 1930 line. Perrin's Lives are on PR #7 as Perseus TEI.
 
@@ -825,6 +853,9 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | The Meditations of Marcus Aurelius (Everyman's Library no. 9, intro. W. H. D. Rouse; first issue of this edition 1906, this scan the 1948 reprint) | Meric Casaubon | `marcus-aurelius-casaubon-everyman` | have-raw (IA `meditations00marcuoft`) |
 | The Emperor Marcus Antoninus his Conversation with Himself, with Gataker's preliminary discourse and Dacier's Life (London: Richard Sare, 1701) | Jeremy Collier | `marcus-aurelius-collier-1701` | have-raw (IA `emperormarcusant01marc`) |
 | The Meditations of Marcus Aurelius (Camelot Series; London: Walter Scott, 1887) | Jeremy Collier, revised by Alice Zimmern | `marcus-aurelius-collier-zimmern-1887` | have-raw (IA `meditationsmarc02collgoog`) |
+| Meditations of the Emperor Marcus Aurelius Antoninus, newly translated from the Greek, with notes and an account of his life, second edition, vol. I (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v1` | have-raw (IA `meditationsempe01gatagoog`) |
+| Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v2` | have-raw (IA `meditationsempe02gatagoog`) |
+| The Meditations of Marcus Aurelius Antoninus, with the Manual of Epictetus and a Summary of Christian Morality, freely translated from the original Greek (London: Longman, Brown, Green and Longmans, 1844) | Henry M'Cormac | `marcus-aurelius-mccormac-1844` | have-raw (IA `meditationsmarc00arrigoog`) |
 
 Pending (wishlist): Haines's Loeb (1916; Greek facing).
 
@@ -879,6 +910,9 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. I (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v1` | have-raw (IA `epistlesluciusa01senegoog`) |
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. II (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v2` | have-raw (IA `epistlesluciusa00senegoog`) |
 | The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902) | Watson Bradshaw | `seneca-bradshaw-tragedies-1902` | have-raw (IA `cu31924104730209`) |
+| The Satire of Seneca on the Apotheosis of Claudius, commonly called the Apocolocyntosis: a study (New York: Columbia University Press, 1902), Latin text with English translation | Allan Perley Ball | `seneca-ball-apocolocyntosis-1902` | have-raw (IA `SatireOfSenecaOnTheApotheosisOfClaudiusCommonlyCalledThe`) |
+| Seneca his Tenne Tragedies, translated into Englysh (London: Thomas Marsh, 1581; black-letter, Boston Public Library copy) | Thomas Newton (ed.), with Jasper Heywood, John Studley, Alexander Nevile, Thomas Nuce | `seneca-newton-tenne-tragedies-1581` | have-raw (IA `senecahistennetr00sene`) |
+| The Tragedies of L. Annaeus Seneca the Philosopher: Medea, Phaedra and Hippolytus, Troades; with Colluthus's Rape of Helen (London: S. Smith and B. Walford, 1702) | Edward Sherburne | `seneca-sherburne-tragedies-1702` | have-raw (IA `tragedieslannae00shergoog`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
@@ -945,6 +979,7 @@ Shelf: `pipeline/caesar_shelf.json`. McDevitte and Bohn (1869), all five comment
 | The Civil Wars (Loeb, 1914) | A. G. Peskett | `caesar-peskett-civil-wars` | have-raw (IA `civilwarswitheng00caesuoft`) |
 | The Eyght Bookes of Caius Julius Caesar, conteyning his Martiall Exploytes in the Realme of Gallia (London, Willyam Seres, 1565) | Arthur Golding | `caesar-golding-1565` | have-raw (IA `bim_early-english-books-1475-1640_the-eyght-bookes-of-caiu_caesar-caino-julius_1565`) |
 | The Commentaries of Caesar, translated into English, with a discourse concerning the Roman art of war (1753; Philadelphia stereotype, 1837) | William Duncan | `caesar-duncan-1837` | have-raw (IA `commentariesofc00caes`) |
+| Caesar's Commentaries on the Gallic War, translated into English (London: Macmillan, 1908) | T. Rice Holmes | `caesar-holmes-gallic-war-1908` | have-raw (IA `commentariesonga00caesuoft`) |
 
 Pending (wishlist): none known (Golding's Caesar, 1565, is held above).
 
@@ -959,6 +994,7 @@ Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. 
 | Suetonius, vol. 2 (Loeb, 1914) | J. C. Rolfe | `suetonius-rolfe-v2` | have-raw (IA `suetonius02suetuoft`) |
 | The Deified Julius | John C. Rolfe | `suetonius-perseus-rolfe-the-deified-julius` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Historie of Twelve Caesars, Emperours of Rome (London, 1606) | Philemon Holland | `suetonius-holland-1606` | have-raw (IA `suetoniushollandtwelvecaesars`) |
+| The Lives of the First Twelve Caesars, translated from the Latin, with annotations and a review of the government and literature of the different periods (London: G. G. and J. Robinson, 1796), the unrevised first edition of the version Forester later revised | Alexander Thomson | `suetonius-thomson-1796` | have-raw (IA `bim_eighteenth-century_the-lives-of-the-first-t_suetonius_1796`) |
 
 Pending (wishlist): none known.
 
@@ -1073,8 +1109,14 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The I. and II. Books of the Odes of Horace, translated into English verse, with the Carmen Saeculare and appendix (London, 1865) | Hugo Nicholas Jones | `horace-jones-odes-i-ii-1865` | have-raw (IA `iiibooksofodesof00hora`) |
 | Odes of Horace, Book II, translated into English verse (London: Arthur L. Humphreys, 1918) | Gerard Fenwick | `horace-fenwick-odes-ii-1918` | have-raw (IA `odesofhorace00horarich`) |
 | Nineteen Odes of Horace Englished (San Bernardino, California: Barnum and Flagg, 1920) | William Hathorn Mills | `horace-mills-nineteen-odes-1920` | have-raw (IA `nineteenodesofho00horarich`) |
+| The Works of Horace, translated literally into English prose, fifth edition, vol. I (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v1` | have-raw (IA `workshorace04smargoog`) |
+| The Works of Horace, translated literally into English prose, fifth edition, vol. II (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v2` | have-raw (IA `workshorace01smargoog`) |
+| The Works of Horace, translated into verse, vol. I of four (London: W. Flexney, J. Johnson and T. Caslon, 1767) | Christopher Smart | `horace-smart-verse-1767-v1` | have-raw (IA `workshorace03smargoog`) |
+| The Works of Horace, translated into verse, with a prose interpretation, vol. II (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v2` | have-raw (IA `workshorace11horagoog`) |
+| The Works of Horace, translated into verse, with a prose interpretation, vol. IV (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v4` | have-raw (IA `workshorace08horagoog`) |
+| The Lyrics of Horace, done into English rhyme (London: Rivingtons, 1870) | Thomas Charles Baring | `horace-baring-lyrics-1870` | have-raw (IA `cu31924026490668`) |
 
-Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
+Pending (wishlist): Smart's verse Horace vol. III (1767). His unrevised prose is now held from the fifth edition (1780), so the 1756 ECCO scans are no longer needed.
 
 ## Catullus
 
@@ -1128,6 +1170,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI) | Edward Owen | `juvenal-persius-owen-1786` | have-raw (IA `atranslationjuv00persgoog`) |
 | Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829) | William Smart | `juvenal-persius-smart-1829` | have-raw (IA `juvenalandpersi01persgoog`) |
 | The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848) | W. Wallace | `juvenal-persius-wallace-1848` | have-raw (IA `satiresjuvenala00persgoog`) |
+| A New Translation, with Notes, of the Third Satire of Juvenal, to which are added miscellaneous poems original and translated (New York: E. Sargeant, 1806) | anonymous (catalogue attribution: John Duer) | `juvenal-duer-third-satire-1806` | have-raw (IA `thirdsatirejuvenal00nonerich`) |
 
 
 ## Plautus and Terence
@@ -1149,8 +1192,12 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
 | Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII) | Laurence Echard | `terence-echard-1733` | have-raw (IA `terencescomedie00teregoog`) |
 | The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883) | A. H. Evans | `plautus-evans-trinummus-1883` | have-raw (IA `trinnummustmacc00plaugoog`) |
+| Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755) | Thomas Cooke | `terence-cooke-1755-v1` | have-raw (IA `comediestranslat01tere`) |
+| Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. I (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v1` | have-raw (IA `comediesplautus02colmgoog`) |
+| Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v2` | have-raw (IA `comediesplautus01colmgoog`) |
+| The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894) | Morris Hicky Morgan | `terence-morgan-phormio-1894` | have-raw (IA `phormiotranslate00tereuoft`) |
 
-Pending (wishlist): Thornton's verse Plautus (1767-74), from a cleaner scan than the ECCO OCR (0.65-0.70), which was refused.
+Pending (wishlist): Thornton's verse Plautus vols. III-V (1772-74); vols. I-II are held from the revised second edition (1769).
 
 ## Lucan
 
@@ -1180,6 +1227,7 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 1 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v1` | have-raw (IA `metamorphosesorg01apuluoft`) |
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 2 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v2` | have-raw (IA `metamorphosesorg02apuluoft`) |
 | The Metamorphosis, or Golden Ass, and Philosophical Works, of Apuleius, translated from the original Latin (London: Triphook and Rodd, 1822) | Thomas Taylor | `apuleius-taylor-1822` | have-raw (IA `metamorphosisor00apulgoog`) |
+| The Works of Apuleius, a new translation: the Metamorphoses or Golden Ass, the God of Socrates, the Florida and the Defence, with a metrical Cupid and Psyche and Mrs. Tighe's Psyche (London: G. Bell, 1914, reprinted from stereotype plates) | anonymous (Bohn's Classical Library; the title page names no translator) | `apuleius-bohn-works-1914` | have-raw (IA `worksofapuleiusn00apul`) |
 
 Pending (wishlist): none known.
 
@@ -1192,6 +1240,7 @@ Shelf: `pipeline/petronius_shelf.json`. Firebaugh's complete Satyricon (US PD pe
 | The Satyricon, complete | W. C. Firebaugh; US PD per Gutenberg | `petronius-firebaugh-satyricon` | have (PG 5225) |
 | The Satyricon of Petronius Arbiter | William Burnaby | `petronius-burnaby-satyricon` | have (PG 5611) |
 | Petronius (Satyricon); Seneca, Apocolocyntosis (Loeb, 1913) | Michael Heseltine (Petronius), W. H. D. Rouse (Seneca) | `petronius-heseltine-seneca-rouse` | have-raw (IA `petronius00petruoft`) |
+| The Satyricon of Petronius Arbiter, literally translated, in Erotica (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | cross-ref: held on the Propertius shelf |
 
 
 Excluded: PG 5218-5224 (Firebaugh split into seven files).
@@ -1265,6 +1314,8 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2 | Thomas Francklin | `lucian-francklin-1780-v2` | have-raw (IA `worksoflucian02luci`) |
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. I (London, 1820) | William Tooke | `lucian-tooke-1820-v1` | have-raw (IA `lucianofsamosata01luciuoft`) |
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. II (London, 1820) | William Tooke | `lucian-tooke-1820-v2` | have-raw (IA `lucianofsamosata02luciuoft`) |
+| Homeric Ballads and Comedies of Lucian (Miscellaneous Writings of the late Dr. Maginn, vol. IV; New York: Redfield, 1856) | William Maginn | `lucian-maginn-1856` | have-raw (IA `homericballadsan00homeuoft`) |
+| Six Dialogues of Lucian: Icaromenippus, The Dream or The Cock, The Ship, The Parasite, The Lover of Falsehood, Nigrinus (London, 1894; imprint year partly legible) | Sidney T. Irwin | `lucian-irwin-six-dialogues-1894` | have-raw (IA `sixdialoguesluc00irwigoog`) |
 
 Pending (wishlist): none for Francklin: his Works of Lucian (1780, 2 vols.) is held above. Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
 
@@ -1323,6 +1374,10 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Academics of Cicero (London: Macmillan, 1880) | James S. Reid | `cicero-reid-academics-1880` | have-raw (IA `academicscicero00cicegoog`) |
 | De Amicitia (On Friendship) (New York: The Century Co.; copyright 1897, this printing 1906) | Benjamin E. Smith | `cicero-smith-amicitia-1897` | have-raw (IA `deamicitiaonfrie00cice`) |
 | Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889) | Robert Black | `cicero-black-tusculan-i-1889` | have-raw (IA `deathnobaneanew00blacgoog`) |
+| Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841) | William Duncan | `cicero-duncan-select-orations-1841` | have-raw (IA `selectorationsc00cicegoog`) |
+| Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891) | anonymous (the title page names no translator) | `cicero-select-letters-literal-1891` | have-raw (IA `selectlettersci01cicegoog`) |
+| Cicero, De Oratore, Book I, translated into English with an introduction (London, 1892) | E. N. P. Moor | `cicero-moor-de-oratore-i-1892` | have-raw (IA `deoratorebook1tr00ciceuoft`) |
+| The Speech of Cicero in Defence of Cluentius, translated into English with an introduction and notes (London: Macmillan, 1895) | William Peterson | `cicero-peterson-pro-cluentio-1895` | have-raw (IA `speechindefenceo00ciceuoft`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
@@ -1366,6 +1421,8 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. II (London: Bensley, 1806) | Thomas Leland | `demosthenes-leland-1806-v2` | have-raw (IA `orationsofdemost02demouoft`) |
 | The Oration of Demosthenes upon the Crown, translated into English (London: Charles Knight, 1840) | Henry, Lord Brougham | `demosthenes-brougham-crown-1840` | have-raw (IA `orationdemosthe02vauxgoog`) |
 | The Oration of Demosthenes on the Crown (London: Longmans, Green, 1876) | Sir Robert Collier | `demosthenes-collier-crown-1876` | have-raw (IA `orationdemosthe00collgoog`) |
+| On the Crown, with Aeschines Against Ctesiphon (Philadelphia, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | cross-ref: held on the Aeschines shelf |
+| De Corona, with Aeschines Against Ctesiphon (Oxford, 1814 edition) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | cross-ref: held on the Aeschines shelf |
 
 Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 
@@ -1447,6 +1504,8 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan | Peter Edmund Laurent per the catalogue (not named on the title page) | `pindar-laurent-prose-1824` | have-raw (IA `odespindarineng01pindgoog`) |
 | The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868) | F. A. Paley | `pindar-paley-1868` | have-raw (IA `bub_gb_z9lUAAAAcAAJ`) |
 | Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830) | C. A. Wheelwright | `pindar-wheelwright-1830` | have-raw (IA `pindartrbycawhe00pindgoog`) |
+| Odes of Pindar, translated from the Greek, with notes and illustrations, vol. I (West's Dissertation on the Olympic Games) (London: Suttaby, Evance and Hutchings, 1810) | Gilbert West, R. B. Greene and H. J. Pye | `pindar-west-greene-pye-1810-v1` | have-raw (IA `bub_gb_DYwO8aCM97YC`) |
+| Odes of Pindar, translated from the Greek, with notes and illustrations, vol. II (the odes) (London: Suttaby, Evance and Hutchings, 1810) | Gilbert West, R. B. Greene and H. J. Pye | `pindar-west-greene-pye-1810-v2` | have-raw (IA `bub_gb_rkvNgCnbfGQC`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 
@@ -1461,6 +1520,7 @@ Shelf: `pipeline/theocritus_shelf.json`. Calverley's verse (Gutenberg) and the B
 | — | — | `lang theocritus-bion-moschus (PG 4775)` | cross-ref → lane D, pipeline/lang_shelf.json |
 | The Idylliums of Theocritus, translated from the Greek, with notes (London, 1767) | Francis Fawkes | `theocritus-fawkes-1767` | have-raw (IA `idylliumsoftheoc00theo`) |
 | The Idylls of Theocritus translated into English Verse (London: Rivingtons, 1901; revised from 1894) | James Henry Hallard | `theocritus-hallard-1901` | have-raw (IA `idyllsoftheocrit00theo`) |
+| Sicilian Idyls and Other Verses, translated from the Greek (Copeland and Day, 1898) | Jane Minot Sedgwick | `theocritus-sedgwick-sicilian-idyls-1898` | have-raw (IA `sicilianidylsan00sedggoog`) |
 
 Pending (wishlist): Edmonds Loeb (1912; Greek facing)
 
@@ -1486,6 +1546,7 @@ Shelf: `pipeline/quintus-smyrnaeus_shelf.json`. Way's Fall of Troy (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fall of Troy | Arthur S. Way | `quintus-smyrnaeus-way` | have (PG 658) |
+| Select Translations from the Greek of Quintus Smyrnaeus (Oxford: W. Baxter, 1821) | Alexander Dyce | `quintus-smyrnaeus-dyce-1821` | have-raw (IA `selecttranslatio00quin`) |
 
 ## Greek lyric and the Anthology
 
@@ -1501,6 +1562,12 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760) | Francis Fawkes | `anacreon-fawkes-1760` | have-raw (IA `worksofanacreons00fawkuoft`) |
 | The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804) | Thomas Girdlestone | `anacreon-girdlestone-1804` | have-raw (IA `odesanacreontra00girdgoog`) |
 | Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869) | Thomas James Arnold | `anacreon-arnold-1869` | have-raw (IA `anacreoninengli00anacgoog`) |
+| Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface) | Robert Guthrie MacGregor | `greek-anthology-macgregor` | have-raw (IA `greekanthologywi00macguoft`) |
+| Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815) | Thomas Stanley | `anacreon-stanley-1815` | have-raw (IA `anacreonbionmosc00bionuoft`) |
+| Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813) | Robert Bland and others | `greek-anthology-bland-1813` | have-raw (IA `collectionsfromg00blanuoft`) |
+| From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891) | Lilla Cabot Perry | `greek-anthology-perry-garden-of-hellas-1891` | have-raw (IA `fromgardenofhell00unse`) |
+| The Reed of Pan: English renderings of Greek epigrams and lyrics (1922) | A. C. Benson | `greek-anthology-benson-reed-of-pan-1922` | have-raw (IA `reedofpanenglish00bensuoft`) |
+| Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916) | Rennell Rodd | `greek-anthology-rodd-love-worship-death-1916` | have-raw (IA `loveworshipdeath00roddrich`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -1600,8 +1667,9 @@ Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing 
 | The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | held: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date; not fetched (see `_held`) |
 | The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
 | Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888) | C. W. King | `julian-king-1888` | have-raw (IA `julianemperor00king`) |
+| The Works of the Emperor Julian, and some pieces of the sophist Libanius, vol. II (3rd ed. corrected, 1798) | John Duncombe | `julian-duncombe-1798-v2` | have-raw (IA `worksofemperorju02juliiala`) |
 
-Pending (wishlist): Wright vol. 3 (1923)
+Pending (wishlist): Wright vol. 3 (1923; the one scan reads 0.760 with Greek facing, held for the Greek-facing ruling)
 
 ## Boethius
 
@@ -1714,6 +1782,7 @@ Shelf: `pipeline/greek-romances_shelf.json`. Rowland Smith's Heliodorus, Longus,
 | The Loves of Chaereas and Callirrhoe, written originally in Greek by Chariton of Aphrodisios, vol. 1 (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication) | `chariton-1764-v1` | have-raw (IA `loveschrcasandc01chargoog`) |
 | The Loves of Chaereas and Callirrhoe, vol. 2: Books V-VIII (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication in vol. 1) | `chariton-1764-v2` | have-raw (IA `loveschrcasandc00chargoog`) |
 | Xenophon's Ephesian History: or the Love-Adventures of Abrocomas and Anthia, in five books (London, 1727) | unnamed in the OCR ('By Mr. ...', name illegible); attributed elsewhere to John Rooke, not verified here | `xenophon-ephesius-1727` | have-raw (IA `gpl_1772898`) |
+| Daphnis and Chloe: the Elizabethan version from Amyot's translation by Angel Day (1587), reprinted from the unique original and edited by Joseph Jacobs (London: David Nutt, 1890) | Angel Day | `longus-day-1890` | have-raw (IA `daphnischloeeliz00long`) |
 
 Excluded: the 1733 Daphnis and Chloe (ECCO OCR 0.69)
 
@@ -1872,7 +1941,7 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition) | John Selby Watson | `quintilian-watson-v1-1903` | have-raw (IA `cu31924075437685`) |
 | Quintilian's Institutes of Oratory, vol. II (Bohn, 1856) | John Selby Watson | `quintilian-watson-v2-1856` | have-raw (IA `cu31924075437677`) |
 
-Pending (wishlist): Watson's Bohn (no scan located)
+Pending (wishlist): Watson's vol. I in its 1856 first printing (vol. I is held above from the 1903 stereotype reprint; the 1856 scans checked on 2026-10-10 are all vol. II)
 
 ## Vitruvius
 
@@ -1955,6 +2024,7 @@ Shelf: `pipeline/phaedrus_shelf.json`. Riley's prose with Smart's verse (Gutenbe
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fables of Phaedrus | Henry T. Riley (prose) and Christopher Smart (verse) | `phaedrus-riley-smart` | have (PG 25512) |
+| A Poetical Version of the Fables of Phaedrus, with an appendix of four fables by Gudius (preface dated January 1, 1854) | Frederick Toller | `phaedrus-toller-1854` | have-raw (IA `poeticalversiono00phae`) |
 
 ## Justin, Nepos, Eutropius, Florus, Velleius
 
@@ -2044,6 +2114,7 @@ Shelf: `pipeline/philostratus_shelf.json`. Berwick's Life of Apollonius (1809) a
 |---|---|---|---|
 | The Life of Apollonius of Tyana, translated from the Greek of Philostratus (London, 1809) | Edward Berwick | `philostratus-berwick-apollonius` | have-raw (IA `lifeofapollonius00phil`) |
 | Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912) | J. S. Phillimore | `philostratus-phillimore-apollonius-v1` | have-raw (IA `philostratusinho00philuoft`) |
+| A Life and Times of Apollonius of Tyana, rendered into English from the Greek of Philostratus the Elder (Stanford University Publications, 1923) | Charles P. Eells | `philostratus-eells-apollonius-1923` | have-raw (IA `lifetimesofapoll00phil`) |
 
 Pending (wishlist): Phillimore vol. 2 (1912; no scan found); the Lives of the Sophists and Imagines in a PD English version; Conybeare's Loeb (Greek facing).
 
@@ -2082,7 +2153,7 @@ Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three 
 | Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722) | William Diaper and John Jones (attributed; the title page names no translator) | `oppian-diaper-jones-halieuticks` | have-raw (IA `bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722`) |
 | Cassandra, translated from the original Greek of Lycophron, with notes (Cambridge, 1806) | Philip Yorke, Viscount Royston | `lycophron-royston-1806` | have-raw (IA `cassandra00lyco`) |
 
-Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Mair's Loebs (Greek facing).
+Pending (wishlist): Tytler's Callimachus (1793) from a cleaner scan (worksofcallimach00call reads 0.767); Mair's Loebs (Greek facing).
 
 Excluded: Mawer's Cynegeticks, 1736 (ECCO OCR 0.76)
 
@@ -2118,8 +2189,9 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
 | Propertius, translated (Oxford: Clarendon Press, 1906) | J. S. Phillimore | `propertius-phillimore-1906` | have-raw (IA `propertius00propuoft`) |
 | The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870) | Charles Robert Moore | `propertius-moore-1870` | have-raw (IA `elegiesproperti00magoog`) |
+| Erotica: the Elegies of Propertius, the Satyricon of Petronius Arbiter, and the Kisses of Johannes Secundus, literally translated, with poetical versions from various sources; with the Love Epistles of Aristaenetus, tr. R. B. Sheridan and N. B. Halhed (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | have-raw (IA `eroticaelegiesp01arbigoog`) |
 
-Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
+Pending (wishlist): none known. Phillimore's 1906 prose translation is now held above.
 
 ## Zosimus
 
@@ -2282,8 +2354,10 @@ Shelf: `pipeline/aeschines_shelf.json`. New shelf 2026-10-03: the three speeches
 | Against Timarchus | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-timarchus` | have (Perseus TEI `tlg0026.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 | On the Embassy | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-on-the-embassy` | have (Perseus TEI `tlg0026.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
 | Against Ctesiphon | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-ctesiphon` | have (Perseus TEI `tlg0026.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Two Orations on the Crown: Aeschines and Demosthenes, a new translation (Philadelphia: Lippincott, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | have-raw (IA `twoorationsoncr00biddgoog`) |
+| Orations of Aeschines against Ctesiphon and Demosthenes De Corona, translated, with notes; a new edition, revised and corrected (Oxford: Munday and Slatter, 1814) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | have-raw (IA `orationsaeschin00demogoog`) |
 
-Pending (wishlist): an older English Aeschines (pre-1900), if a clean scan turns up.
+Pending (wishlist): none known. Two older English versions of Against Ctesiphon are now held above (Portal, 1814 edition; Biddle, 1881).
 
 ## Apollodorus
 
@@ -2365,10 +2439,5985 @@ Shelf: `pipeline/presocratics_shelf.json`. The fragments of the early Greek phil
 |---|---|---|---|
 | The Fragments of the Work of Heraclitus of Ephesus on Nature, translated from the Greek text of Bywater (Baltimore: N. Murray, 1889) | G. T. W. Patrick | `heraclitus-patrick-1889` | have-raw (IA `fragmentsofworko00hera`) |
 | The Fragments of Empedocles, translated into English verse (Open Court, 1908) | William Ellery Leonard | `empedocles-leonard-1908` | have-raw (IA `thefragmentsofem00empeuoft`) |
+| The First Philosophers of Greece: an edition and translation of the remaining fragments of the pre-Sokratic philosophers (New York: Scribner's, 1898; Greek facing) | Arthur Fairbanks | `presocratics-fairbanks-first-philosophers-1898` | have-raw (IA `firstphilosopher00fairiala`) |
 
-Pending (wishlist): Fairbanks's First Philosophers of Greece (1898) from a cleaner scan.
+Pending (wishlist): none known. Fairbanks's First Philosophers of Greece (1898) is now held above from a cleaner scan.
 
-Excluded: Fairbanks 1898 (Greek facing, OCR 0.73-0.77); Burnet's Early Greek Philosophy (a study, not a translation).
+Excluded: two other Fairbanks 1898 scans (Greek facing, OCR 0.73-0.77; a third copy at 0.790 is held above); Burnet's Early Greek Philosophy (a study, not a translation).
+
+## Paulus Aegineta
+
+Shelf: `pipeline/paulus-aegineta_shelf.json`. Francis Adams's Sydenham Society translation and commentary, 3 vols. (IA, BIU Sante scans).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Seven Books of Paulus Aegineta, vol. I (Sydenham Society, 1844) | Francis Adams | `paulus-aegineta-adams-1844-v1` | have-raw (IA `BIUSante_37321x01`) |
+| The Seven Books of Paulus Aegineta, vol. II (Sydenham Society, 1846) | Francis Adams | `paulus-aegineta-adams-1846-v2` | have-raw (IA `BIUSante_37321x02`) |
+| The Seven Books of Paulus Aegineta, vol. III (Sydenham Society, 1847) | Francis Adams | `paulus-aegineta-adams-1847-v3` | have-raw (IA `BIUSante_37321x03`) |
+
+## Phalaris
+
+Shelf: `pipeline/phalaris_shelf.json`. Thomas Francklin's Epistles of Phalaris (1749).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Epistles of Phalaris, with select epistles of other Greek writers (1749) | Thomas Francklin | `phalaris-francklin-1749` | have-raw (IA `bib_fict_971306`) |
+
+## Brumoy's Greek Theatre
+
+Shelf: `pipeline/brumoy_shelf.json`. Charlotte Lennox's translation of Brumoy (1759, 3 vols.), the Greek plays by way of Brumoy's French.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Theatre of Father Brumoy, vol. I (London: Millar and others, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v1` | have-raw (IA `greektheatrefat00lenngoog`) |
+| The Greek Theatre of Father Brumoy, vol. II (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v2` | have-raw (IA `greektheatrefat01lenngoog`) |
+| The Greek Theatre of Father Brumoy, vol. III (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v3` | have-raw (IA `greektheatrefat02lenngoog`) |
+
+## George Grote (scholarship)
+
+Shelf: `pipeline/grote_shelf.json`. Grote's History of Greece (12 vols.), Plato and the Other Companions of Sokrates (4 vols.), Aristotle and the rotation paper, clean Gutenberg. His own English; classical scholarship, lane B pivot of 2026-10-10. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Greece, Volume 01 (of 12) |  | `grote-history-of-greece-v01` | have (PG 56342) |
+| History of Greece, Volume 02 (of 12) |  | `grote-history-of-greece-v02` | have (PG 57143) |
+| History of Greece, Volume 03 (of 12) |  | `grote-history-of-greece-v03` | have (PG 58565) |
+| History of Greece, Volume 04 (of 12) |  | `grote-history-of-greece-v04` | have (PG 60426) |
+| History of Greece, Volume 05 (of 12) |  | `grote-history-of-greece-v05` | have (PG 62098) |
+| History of Greece, Volume 06 (of 12) |  | `grote-history-of-greece-v06` | have (PG 54936) |
+| History of Greece, Volume 07 (of 12) |  | `grote-history-of-greece-v07` | have (PG 51181) |
+| History of Greece, Volume 08 (of 12) |  | `grote-history-of-greece-v08` | have (PG 52119) |
+| History of Greece, Volume 09 (of 12) |  | `grote-history-of-greece-v09` | have (PG 51182) |
+| History of Greece, Volume 10 (of 12) |  | `grote-history-of-greece-v10` | have (PG 51183) |
+| History of Greece, Volume 11 (of 12) |  | `grote-history-of-greece-v11` | have (PG 61469) |
+| History of Greece, Volume 12 (of 12) |  | `grote-history-of-greece-v12` | have (PG 60786) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 1 |  | `grote-plato-companions-v1` | have (PG 40435) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 2 |  | `grote-plato-companions-v2` | have (PG 40436) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 3 |  | `grote-plato-companions-v3` | have (PG 40437) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 4 |  | `grote-plato-companions-v4` | have (PG 40438) |
+| Aristotle (ed. Alexander Bain and George Croom Robertson) |  | `grote-aristotle` | have (PG 45851) |
+| Plato's Doctrine Respecting the Rotation of the Earth and Aristotle's Comment Upon That Doctrine |  | `grote-plato-rotation-of-earth` | have (PG 40439) |
+
+Excluded: PG 12002 (Review of Mill's Examination of Hamilton) (philosophy of mind, outside the classical brief); PG 26390 (The Two Great Retreats of History) (school excerpt (Grote's Retreat of the Ten Thousand chapter, ed. Montgomery, with Ségur); the whole History is held)
+
+Pending (wishlist): Grote's Minor Works (1873), if a scan clears the bar.
+
+## Theodor Mommsen (scholarship)
+
+Shelf: `pipeline/mommsen_shelf.json`. Dickson's translation of the History of Rome (Books I-V) and the Provinces of the Roman Empire (2 vols.), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Rome, Book I | William P. Dickson | `mommsen-history-of-rome-i` | have (PG 10701) |
+| The History of Rome, Book II | William P. Dickson | `mommsen-history-of-rome-ii` | have (PG 10702) |
+| The History of Rome, Book III | William P. Dickson | `mommsen-history-of-rome-iii` | have (PG 10703) |
+| The History of Rome, Book IV | William P. Dickson | `mommsen-history-of-rome-iv` | have (PG 10704) |
+| The History of Rome, Book V | William P. Dickson | `mommsen-history-of-rome-v` | have (PG 10705) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 1 | William P. Dickson | `mommsen-provinces-v1` | have (PG 48966) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 2 | William P. Dickson | `mommsen-provinces-v2` | have (PG 49483) |
+
+Excluded: PG 10706 (History of Rome, Volumes 1-5) (the same text as PG 10701-10705 in one file); PG 3060-3065 (Römische Geschichte) (German original; the English translation is held)
+
+Pending (wishlist): other English Mommsen not yet searched.
+
+## Sir William Smith (scholarship)
+
+Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece and Rome and his Smaller Dictionary of Antiquities (clean Gutenberg), and the full Dictionaries of Antiquities (1842), Biography and Mythology (Boston, 1870, 3 vols.) and Geography (Boston, 1854 and 1870) as raw IA OCR. Many-author reference works under Smith's editorship, all published 1842-1870. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Smaller History of Greece: from the Earliest Times to the Roman Conquest |  | `william-smith-smaller-history-of-greece` | have (PG 2096) |
+| A Smaller History of Rome, from the Earliest Times to the Establishment of the Empire (with Eugene Lawrence) |  | `william-smith-smaller-history-of-rome` | have (PG 19694) |
+| A Smaller Dictionary of Greek and Roman Antiquities |  | `william-smith-smaller-dictionary-antiquities` | have (PG 65909) |
+| A Dictionary of Greek and Roman Antiquities, ed. William Smith (London: Taylor and Walton, 1842) |  | `william-smith-dictionary-antiquities-1842` | have-raw (IA `dictionaryofgree00smit_5`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. I (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v1-1870` | have-raw (IA `dictionaryofgre01smituoft`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. II (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v2-1870` | have-raw (IA `dictionaryofgree02smituoft`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. I, Abacaenum-Hytanis (Boston: Little, Brown, 1854) |  | `william-smith-dictionary-geography-v1-1854` | have-raw (IA `dictionarygreek16smitgoog`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. II, Iabadius-Zymethus (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-geography-v2-1870` | have-raw (IA `dictionaryofgre02smit`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. III (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v3-1870` | have-raw (IA `dictionaryofgree03smituoft`) |
+
+Excluded: Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft) (no title page in the scan; the 1870 Boston vol. II is taken instead)
+
+Pending (wishlist): The third edition of the Antiquities (Wayte and Marindin, 1890-91).
+
+## Sir Richard Jebb (scholarship)
+
+Shelf: `pipeline/jebb_shelf.json`. Jebb's Attic Orators (1893, 2 vols.), Growth and Influence of Classical Greek Poetry, Homer: an Introduction, Bentley, Modern Greece, and Essays and Addresses, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Attic Orators from Antiphon to Isaeus, vol. I, second edition (London: Macmillan, 1893; first edition 1876) |  | `jebb-attic-orators-v1-1893` | have-raw (IA `atticoratorsfrom01jebbuoft`) |
+| The Attic Orators from Antiphon to Isaeus, vol. II, second edition (London: Macmillan, 1893) |  | `jebb-attic-orators-v2-1893` | have-raw (IA `atticoratorsfrom02jebbuoft`) |
+| The Growth and Influence of Classical Greek Poetry: lectures delivered in 1892 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (London and New York: Macmillan, 1893) |  | `jebb-growth-influence-greek-poetry-1893` | have-raw (IA `growthandinflue01jebbgoog`) |
+| Homer: an Introduction to the Iliad and the Odyssey, sixth edition (Glasgow: Maclehose, 1898) |  | `jebb-homer-introduction-1898` | have-raw (IA `cu31924059064653`) |
+| Bentley (English Men of Letters, ed. John Morley; New York: Harper, 1901 printing) |  | `jebb-bentley-1901` | have-raw (IA `bentleyclaver00jebbuoft`) |
+| Modern Greece: two lectures delivered before the Philosophical Institution of Edinburgh, with papers on 'The Progress of Greece' and 'Byron in Greece' (London: Macmillan, 1880) |  | `jebb-modern-greece-1880` | have-raw (IA `moderngreecetwol00jebbuoft`) |
+| Essays and Addresses (Cambridge: University Press, 1907) |  | `jebb-essays-addresses-1907` | have-raw (IA `essaysaddresses00jebbiala`) |
+
+Excluded: Primer of Greek Literature (IA greekliterature00jebbuoft) (no title page in the scan); Erasmus (Rede lecture, 1890) (Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap)
+
+Pending (wishlist): Humanism in Education (1899) and the Rede lecture on Erasmus are left out (Erasmus belongs to the Classical reading lists thread); the Sophocles commentaries (Greek facing) wait on the Greek-facing ruling.
+
+## John Conington (scholarship)
+
+Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872), vol. I, raw IA OCR; vol. II is his prose Virgil, already on the virgil shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872) |  | `conington-miscellaneous-writings-v1-1872` | have-raw (IA `miscellaneouswri01coniuoft`) |
+
+Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)); Miscellaneous Writings vol. II (1872; IA miscellaneouswr01smitgoog) (the prose Virgil it carries is already on the virgil shelf (the 1880 Works of Virgil); not duplicated)
+
+Pending (wishlist): The Virgil and Persius commentaries if a scan clears the bar.
+
+## W. Y. Sellar (scholarship)
+
+Shelf: `pipeline/w-y-sellar_shelf.json`. William Young Sellar (1825-1890), Professor of Humanity at Edinburgh: 2 clean Gutenberg texts, plus Horace and the Elegiac Poets (Clarendon Press, 1892, raw IA OCR; seen through the press by W. P. Ker, memoir by Andrew Lang). The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman Poets of the Augustan Age: Virgil |  | `sellar-roman-poets-augustan-virgil` | have (PG 34163) |
+| The Roman Poets of the Republic, 3rd edition |  | `sellar-roman-poets-republic-3rd` | have (PG 38566) |
+| The Roman Poets of the Augustan Age: Horace and the Elegiac Poets, with a memoir of the author by Andrew Lang (Oxford: Clarendon Press, 1892) |  | `sellar-roman-poets-augustan-horace-1892` | have-raw (IA `cu31924059173355`) |
+
+Excluded: PG 48323 (The Roman Poets of the Republic, 2nd edition) (the 3rd edition is held)
+
+## J. W. Mackail (scholarship)
+
+Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): Latin Literature (clean Gutenberg) and Lectures on Greek Poetry (1910, raw IA OCR). His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Latin Literature |  | `mackail-latin-literature` | have (PG 8894) |
+| Lectures on Greek Poetry (London: Longmans, Green, 1910) |  | `mackail-lectures-greek-poetry-1910` | have-raw (IA `lecturesongreekp00mackuoft`) |
+
+## A. H. J. Greenidge (scholarship)
+
+Shelf: `pipeline/greenidge_shelf.json`. Abel Hendy Jones Greenidge (1865-1906), Oxford ancient historian: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Rome During the Later Republic and Early Principate |  | `greenidge-history-of-rome-later-republic` | have (PG 9781) |
+| Roman Public Life |  | `greenidge-roman-public-life` | have (PG 65392) |
+
+## W. Warde Fowler (scholarship)
+
+Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxford historian of Roman religion: 4 clean Gutenberg texts, plus Julius Caesar and the Foundation of the Roman Imperial System (Putnam, 1892, raw IA OCR). His bird books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Social Life at Rome in the Age of Cicero |  | `warde-fowler-social-life-rome-cicero` | have (PG 11256) |
+| The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus |  | `warde-fowler-religious-experience-roman-people` | have (PG 23349) |
+| Rome (Home University Library) |  | `warde-fowler-rome` | have (PG 56630) |
+| The Roman Festivals of the Period of the Republic |  | `warde-fowler-roman-festivals` | have (PG 59007) |
+| Julius Caesar and the Foundation of the Roman Imperial System (New York and London: Putnam, 1892) |  | `warde-fowler-julius-caesar-1892` | have-raw (IA `cu31924028312290`) |
+
+Pending (wishlist): The City-State of the Greeks and Romans (1893) in a scan whose imprint year is legible.
+
+## Samuel Dill (scholarship)
+
+Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman Society from Nero to Marcus Aurelius |  | `dill-roman-society-nero-marcus-aurelius` | have (PG 34122) |
+
+## J. P. Mahaffy (scholarship)
+
+Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts, plus Social Life in Greece (1894), Greek Life and Thought (1896), A History of Classical Greek Literature (2 vols., Harper, 1880), Prolegomena to Ancient History (1871) and The Greek World under Roman Sway (1890) as raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Rambles and Studies in Greece |  | `mahaffy-rambles-studies-greece` | have (PG 35298) |
+| Problems in Greek History |  | `mahaffy-problems-greek-history` | have (PG 36354) |
+| What Have the Greeks Done for Modern Civilisation? |  | `mahaffy-what-have-greeks-done` | have (PG 59132) |
+| Old Greek Education |  | `mahaffy-old-greek-education` | have (PG 65058) |
+| Social Life in Greece from Homer to Menander (seventh edition 1890, reprinted; London and New York: Macmillan, 1894) |  | `mahaffy-social-life-greece-1894` | have-raw (IA `sociallifeingree00maha`) |
+| Greek Life and Thought from the Death of Alexander to the Roman Conquest (London and New York: Macmillan, 1896) |  | `mahaffy-greek-life-thought-1896` | have-raw (IA `greeklifethought00maha`) |
+| A History of Classical Greek Literature, vol. I, The Poets, with an appendix on Homer by Prof. Sayce (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v1-1880` | have-raw (IA `historyofclassic01mahaiala`) |
+| A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v2-1880` | have-raw (IA `historyofclassi02maha`) |
+| Prolegomena to Ancient History (London: Longmans, Green, 1871) |  | `mahaffy-prolegomena-ancient-history-1871` | have-raw (IA `prolegomenatoanc00maharich`) |
+| The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890) |  | `mahaffy-greek-world-roman-sway-1890` | have-raw (IA `greekworldunder01mahagoog`) |
+
+Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
+
+Pending (wishlist): The Empire of the Ptolemies (1895) in a scan whose imprint year is legible.
+
+## G. Lowes Dickinson (scholarship)
+
+Shelf: `pipeline/lowes-dickinson_shelf.json`. Goldsworthy Lowes Dickinson (1862-1932): 1 clean Gutenberg text. His political and travel books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek View of Life |  | `lowes-dickinson-greek-view-of-life` | have (PG 6200) |
+
+## John Burnet (scholarship)
+
+Shelf: `pipeline/burnet_shelf.json`. John Burnet (1863-1928), Professor of Greek at St Andrews: 1 clean Gutenberg text. The presocratics shelf passed this book over as a study, not a translation; it is taken here as scholarship. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Early Greek Philosophy |  | `burnet-early-greek-philosophy` | have (PG 67097) |
+
+## Eduard Zeller (scholarship)
+
+Shelf: `pipeline/zeller_shelf.json`. Eduard Zeller (1814-1908) in English, tr. Oswald J. Reichel (1840-1923): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Stoics, Epicureans and Sceptics | Oswald J. Reichel | `zeller-stoics-epicureans-sceptics` | have (PG 77777) |
+
+## Jane Ellen Harrison (scholarship)
+
+Shelf: `pipeline/jane-harrison_shelf.json`. Jane Ellen Harrison (1850-1928), Newnham College: 3 clean Gutenberg texts. Her commentary with Verrall's Attica is on the pausanias shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Prolegomena to the Study of Greek Religion |  | `jane-harrison-prolegomena-greek-religion` | have (PG 78248) |
+| Primitive Athens as Described by Thucydides |  | `jane-harrison-primitive-athens` | have (PG 73789) |
+| Ancient Art and Ritual |  | `jane-harrison-ancient-art-ritual` | have (PG 17087) |
+
+Excluded: PG 75986 (Reminiscences of a Student's Life) (memoir, outside the brief)
+
+## L. R. Farnell (scholarship)
+
+Shelf: `pipeline/farnell_shelf.json`. Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outline-History of Greek Religion |  | `farnell-outline-history-greek-religion` | have (PG 71402) |
+| Greece and Babylon |  | `farnell-greece-and-babylon` | have (PG 71562) |
+
+Excluded: PG 71722 (The Evolution of Religion) (comparative religion, outside the classical brief)
+
+## F. Haverfield (scholarship)
+
+Shelf: `pipeline/haverfield_shelf.json`. Francis Haverfield (1860-1919), Camden Professor at Oxford: 3 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Romanization of Roman Britain |  | `haverfield-romanization-roman-britain` | have (PG 14173) |
+| Ancient Town-Planning |  | `haverfield-ancient-town-planning` | have (PG 14189) |
+| Roman Britain in 1914 |  | `haverfield-roman-britain-1914` | have (PG 19115) |
+
+## Rodolfo Lanciani (scholarship)
+
+Shelf: `pipeline/lanciani_shelf.json`. Rodolfo Lanciani (1847-1929), Roman archaeologist, writing in English: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pagan and Christian Rome |  | `lanciani-pagan-christian-rome` | have (PG 22153) |
+
+## G. W. Botsford (scholarship)
+
+Shelf: `pipeline/botsford_shelf.json`. George Willis Botsford (1862-1917), Columbia: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman Assemblies from Their Origin to the End of the Republic |  | `botsford-roman-assemblies` | have (PG 68419) |
+
+Excluded: PG 49923, 51110 (The Mentor issues) (magazine pieces)
+
+## G. B. Grundy (scholarship)
+
+Shelf: `pipeline/grundy_shelf.json`. George Beardoe Grundy (1861-1948), Oxford: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Great Persian War and Its Preliminaries |  | `grundy-great-persian-war` | have (PG 72704) |
+
+## W. E. Heitland (scholarship)
+
+Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St John's College, Cambridge: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Agricola: a study of agriculture and rustic life in the Greco-Roman world |  | `heitland-agricola` | have (PG 74220) |
+
+## B. G. Niebuhr (scholarship)
+
+Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (1875, 3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. The History of Rome, 3 vols., new edition (Taylor, Walton, and Maberly; vols. I-II tr. Hare and Thirlwall, 1851 and 1855; vol. III tr. Smith and Schmitz, year illegible in the OCR), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Niebuhr's Lectures on Roman History, vol. 1 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v1` | have (PG 71375) |
+| Niebuhr's Lectures on Roman History, vol. 2 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v2` | have (PG 71385) |
+| Niebuhr's Lectures on Roman History, vol. 3 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v3` | have (PG 75732) |
+| Lectures on Ancient Ethnography and Geography, vol. 1 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v1` | have (PG 78451) |
+| Lectures on Ancient Ethnography and Geography, vol. 2 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v2` | have (PG 78452) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. I, a new edition (London: Taylor, Walton, and Maberly, MDCCCLI) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v1-1851` | have-raw (IA `historyrome03unkngoog`) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. II, new edition (London: Walton and Maberly, MDCCCLV) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v2-1855` | have-raw (IA `historyofrome02nieb`) |
+| The History of Rome, tr. William Smith and Leonhard Schmitz, vol. III, a new edition (London: Taylor, Walton, and Maberly) | William Smith and Leonhard Schmitz | `niebuhr-history-rome-v3-new-ed` | have-raw (IA `historyrome02schmgoog`) |
+
+## Kenneth J. Freeman (scholarship)
+
+Shelf: `pipeline/k-j-freeman_shelf.json`. Kenneth John Freeman (1882-1906); ed. M. J. Rendall, introduction by A. W. Verrall: 1 clean Gutenberg text. Initials in the shelf name keep him apart from Edward A. Freeman. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Schools of Hellas: an essay on the practice and theory of ancient Greek education from 600 to 300 B.C. |  | `freeman-schools-of-hellas` | have (PG 63644) |
+
+## Percy Gardner (scholarship)
+
+Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937): Sculptured Tombs of Hellas (clean Gutenberg) and A Manual of Greek Antiquities with F. B. Jevons, 2nd ed. (Griffin, 1898, raw IA OCR). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Sculptured Tombs of Hellas |  | `percy-gardner-sculptured-tombs-hellas` | have (PG 69508) |
+| A Manual of Greek Antiquities, books I-V by Percy Gardner, books VI-IX by F. B. Jevons, second edition (London: Charles Griffin, 1898) |  | `gardner-jevons-manual-greek-antiquities-1898` | have-raw (IA `manualofgreekant00gard`) |
+
+## Walter Pater (scholarship)
+
+Shelf: `pipeline/pater_shelf.json`. Walter Pater (1839-1894), Brasenose College, Oxford: 6 clean Gutenberg texts (widened 2026-10-18 to his criticism; fiction left out). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greek Studies: a Series of Essays |  | `pater-greek-studies` | have (PG 4035) |
+| Plato and Platonism |  | `pater-plato-and-platonism` | have (PG 4095) |
+| The Renaissance: Studies in Art and Poetry (Library Edition, 1910) |  | `pater-renaissance-1910` | have (PG 4060) |
+| Appreciations, with an Essay on Style |  | `pater-appreciations` | have (PG 4037) |
+| Miscellaneous Studies |  | `pater-miscellaneous-studies` | have (PG 4059) |
+| Essays from 'The Guardian' |  | `pater-essays-from-the-guardian` | have (PG 4036) |
+
+## F. B. Tarbell (scholarship)
+
+Shelf: `pipeline/f-b-tarbell_shelf.json`. Frank Bigelow Tarbell (1853-1920), University of Chicago: 1 clean Gutenberg text. Initials keep him apart from Ida M. Tarbell. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greek Art, with an introductory chapter on art in Egypt and Mesopotamia |  | `tarbell-history-greek-art` | have (PG 4390) |
+
+## William Stearns Davis (scholarship)
+
+Shelf: `pipeline/w-s-davis_shelf.json`. William Stearns Davis (1877-1930), historian: 2 clean Gutenberg texts. His historical novels are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Day in Old Athens: a Picture of Athenian Life |  | `w-s-davis-day-in-old-athens` | have (PG 4716) |
+| A Day in Old Rome |  | `w-s-davis-day-in-old-rome` | have (PG 76087) |
+
+## T. G. Tucker (scholarship)
+
+Shelf: `pipeline/t-g-tucker_shelf.json`. Thomas George Tucker (1859-1946), Professor of Classical Philology at Melbourne: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Life in the Roman World of Nero and St. Paul |  | `tucker-life-roman-world-nero-paul` | have (PG 12875) |
+| Sappho |  | `tucker-sappho` | have (PG 60906) |
+
+## Guglielmo Ferrero (scholarship)
+
+Shelf: `pipeline/ferrero_shelf.json`. Guglielmo Ferrero (1871-1942) in English: 3 clean Gutenberg texts. Translators are as each Gutenberg file names them; not separately checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Characters and Events of Roman History | Frances Lance Ferrero | `ferrero-characters-events-roman-history` | have (PG 13208) |
+| The Women of the Caesars | Christian Gauss | `ferrero-women-of-the-caesars` | have (PG 16324) |
+| Ancient Rome and Modern America |  | `ferrero-ancient-rome-modern-america` | have (PG 66901) |
+
+## Frank Frost Abbott (scholarship)
+
+Shelf: `pipeline/frank-frost-abbott_shelf.json`. Frank Frost Abbott (1860-1924), Princeton: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Common People of Ancient Rome: Studies of Roman Life and Literature |  | `abbott-common-people-ancient-rome` | have (PG 13226) |
+| Roman Politics |  | `abbott-roman-politics` | have (PG 68064) |
+
+## Grant Showerman (scholarship)
+
+Shelf: `pipeline/showerman_shelf.json`. Grant Showerman (1870-1935), Wisconsin: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Horace and His Influence |  | `showerman-horace-and-his-influence` | have (PG 16801) |
+
+## Ernest A. Gardner (scholarship)
+
+Shelf: `pipeline/ernest-gardner_shelf.json`. Ernest Arthur Gardner (1862-1939), Director of the British School at Athens: 1 clean Gutenberg text. Brother of Percy Gardner, whose book has its own shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Religion and Art in Ancient Greece |  | `ernest-gardner-religion-art-ancient-greece` | have (PG 20523) |
+
+## Franz Cumont (scholarship)
+
+Shelf: `pipeline/cumont_shelf.json`. Franz Cumont (1868-1947) in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Oriental Religions in Roman Paganism |  | `cumont-oriental-religions-roman-paganism` | have (PG 22213) |
+| After Life in Roman Paganism |  | `cumont-after-life-roman-paganism` | have (PG 64297) |
+
+## How and Wells (scholarship)
+
+Shelf: `pipeline/how-wells_shelf.json`. Walter Wybergh How (1861-1932) and Joseph Wells (1855-1929): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Commentary on Herodotus |  | `how-wells-commentary-herodotus` | have (PG 24146) |
+
+## D. B. Monro (scholarship)
+
+Shelf: `pipeline/monro_shelf.json`. David Binning Monro (1836-1905), Provost of Oriel: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Modes of Ancient Greek Music |  | `monro-modes-ancient-greek-music` | have (PG 40288) |
+
+## Harold Whetstone Johnston (scholarship)
+
+Shelf: `pipeline/h-w-johnston_shelf.json`. Harold Whetstone Johnston (1859-1912), Indiana University: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Private Life of the Romans |  | `johnston-private-life-romans` | have (PG 40549) |
+
+## August Mau (scholarship)
+
+Shelf: `pipeline/mau_shelf.json`. August Mau (1840-1909) in English, tr. Francis W. Kelsey (1858-1927): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pompeii, Its Life and Art | Francis W. Kelsey | `mau-pompeii-life-and-art` | have (PG 42715) |
+
+## Harold North Fowler (scholarship)
+
+Shelf: `pipeline/h-n-fowler_shelf.json`. Harold North Fowler (1859-1955), Western Reserve University: 1 clean Gutenberg text. He died in 1955, so the book is public domain under life plus 70 from 2026 as well as in the US. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Roman Literature |  | `h-n-fowler-history-roman-literature` | have (PG 44975) |
+
+## Heinrich Schliemann (scholarship)
+
+Shelf: `pipeline/schliemann_shelf.json`. Heinrich Schliemann (1822-1890), in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Troy and Its Remains (ed. Philip Smith) | L. Dora Schmitz | `schliemann-troy-and-its-remains` | have (PG 45190) |
+| Mycenae: a narrative of researches and discoveries at Mycenae and Tiryns (preface by W. E. Gladstone) |  | `schliemann-mycenae` | have (PG 56940) |
+
+## W. E. Gladstone (scholarship)
+
+Shelf: `pipeline/gladstone-homer_shelf.json`. William Ewart Gladstone (1809-1898), Studies on Homer and the Homeric Age (Oxford, 1858): 3 clean Gutenberg texts. The shelf is for his Homeric work only; his politics are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies on Homer and the Homeric Age, vol. 1 |  | `gladstone-studies-homer-v1` | have (PG 47356) |
+| Studies on Homer and the Homeric Age, vol. 2 |  | `gladstone-studies-homer-v2` | have (PG 49858) |
+| Studies on Homer and the Homeric Age, vol. 3 |  | `gladstone-studies-homer-v3` | have (PG 53004) |
+
+## H. B. Walters (scholarship)
+
+Shelf: `pipeline/h-b-walters_shelf.json`. Henry Beauchamp Walters (1867-1944), British Museum; with Samuel Birch: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 1 |  | `walters-history-ancient-pottery-v1` | have (PG 48154) |
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 2 |  | `walters-history-ancient-pottery-v2` | have (PG 48155) |
+
+## J. G. Frazer (scholarship)
+
+Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: Studies in Greek Scenery (clean Gutenberg) and Pausanias and Other Greek Sketches (1900, raw IA OCR). His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias |  | `frazer-studies-greek-scenery` | have (PG 56002) |
+| Pausanias and Other Greek Sketches (London: Macmillan, 1900) |  | `frazer-pausanias-greek-sketches-1900` | have-raw (IA `pausaniasothergr00frazuoft`) |
+
+## Matthew Arnold (scholarship)
+
+Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply, and from 2026-10-18 his prose criticism: 6 clean Gutenberg texts (poetry left out). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Translating Homer |  | `arnold-on-translating-homer` | have (PG 65381) |
+| Essays in Criticism |  | `arnold-essays-in-criticism` | have (PG 77244) |
+| On the Study of Celtic Literature (1867) |  | `arnold-celtic-literature` | have (PG 5159) |
+| Culture and Anarchy (1869) |  | `arnold-culture-and-anarchy` | have (PG 4212) |
+| St. Paul and Protestantism (1870) |  | `arnold-st-paul-and-protestantism` | have (PG 54793) |
+| Discourses in America (1885) |  | `arnold-discourses-in-america` | have (PG 44919) |
+
+## Evelyn S. Shuckburgh (scholarship)
+
+Shelf: `pipeline/shuckburgh_shelf.json`. Evelyn Shirley Shuckburgh (1843-1906): 1 clean Gutenberg text. His translations (Polybius, Cicero's letters) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Augustus: the Life and Times of the Founder of the Roman Empire |  | `shuckburgh-augustus` | have (PG 66609) |
+
+## Gaston Boissier (scholarship)
+
+Shelf: `pipeline/boissier_shelf.json`. Gaston Boissier (1823-1908) in English, tr. Adnah David Jones: 1 clean Gutenberg text. The translator's death year was not checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Cicero and His Friends | Adnah David Jones | `boissier-cicero-and-his-friends` | have (PG 72216) |
+
+## P. N. Ure (scholarship)
+
+Shelf: `pipeline/p-n-ure_shelf.json`. Percy Neville Ure (1879-1950), Reading: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin of Tyranny |  | `ure-origin-of-tyranny` | have (PG 62364) |
+
+## Sir John Edwin Sandys (scholarship)
+
+Shelf: `pipeline/sandys_shelf.json`. Sandys's History of Classical Scholarship (3 vols., 1903-1908) and his Short History (1915), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Classical Scholarship, vol. I: from the sixth century B.C. to the end of the Middle Ages (Cambridge: University Press, 1903) |  | `sandys-history-classical-scholarship-v1-1903` | have-raw (IA `historyofclassic00sanduoft`) |
+| A History of Classical Scholarship, vol. II: from the revival of learning to the end of the eighteenth century (Cambridge: University Press, 1908) |  | `sandys-history-classical-scholarship-v2-1908` | have-raw (IA `historyofclassic02sanduoft`) |
+| A History of Classical Scholarship, vol. III: the eighteenth century in Germany, and the nineteenth century in Europe and the United States (Cambridge: University Press, 1908) |  | `sandys-history-classical-scholarship-v3-1908` | have-raw (IA `historyofclassic03sanduoft`) |
+| A Short History of Classical Scholarship from the Sixth Century B.C. to the Present Day (Cambridge: University Press, 1915) |  | `sandys-short-history-classical-scholarship-1915` | have-raw (IA `shorthistoryofcl00sanduoft`) |
+
+Excluded: A Companion to Latin Studies (1910), ed. Sandys (many contributors whose death years were not checked; not taken this round)
+
+Pending (wishlist): A Companion to Latin Studies (1910), once its contributors' death years are checked.
+
+## Oskar Seyffert (scholarship)
+
+Shelf: `pipeline/seyffert_shelf.json`. Seyffert's Dictionary of Classical Antiquities as revised and edited by Nettleship and Sandys (1891), raw IA OCR. Not minted.
+
+| Work | Translator / editors | Slug | Status |
+|---|---|---|---|
+| A Dictionary of Classical Antiquities, Mythology, Religion, Literature and Art, from the German of Dr. Oskar Seyffert, revised and edited by Henry Nettleship and J. E. Sandys (London: Swan Sonnenschein, 1891) | Nettleship | `seyffert-dictionary-classical-antiquities-1891` | have-raw (IA `cu31924028214637`) |
+
+## W. A. Becker (scholarship)
+
+Shelf: `pipeline/becker-gallus_shelf.json`. Becker's Gallus in Metcalfe's translation (1882), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Gallus; or, Roman Scenes of the Time of Augustus, with notes and excursuses, tr. Frederick Metcalfe (London: Longmans, 1882) | Metcalfe | `becker-gallus-metcalfe-1882` | have-raw (IA `gallusromanscene00beckiala`) |
+
+Excluded: Charicles, tr. Metcalfe (1895; IA chariclesorillu00metcgoog) (refused: OCR 0.71)
+
+Pending (wishlist): Charicles in a scan that clears the bar.
+
+## J. B. Bury (scholarship)
+
+Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910), History of Greece (first edition, 1900) and The Ancient Greek Historians (1909), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. I (London and New York: Macmillan, 1889) |  | `bury-later-roman-empire-v1-1889` | have-raw (IA `historyoflaterro00bury`) |
+| A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. II (London and New York: Macmillan, 1889) |  | `bury-later-roman-empire-v2-1889` | have-raw (IA `ahistorylaterro01burygoog`) |
+| A History of the Eastern Roman Empire from the Fall of Irene to the Accession of Basil I (London: Macmillan, 1912) |  | `bury-eastern-roman-empire-1912` | have-raw (IA `historyofeastern00buryiala`) |
+| The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910) |  | `bury-constitution-later-roman-empire-1910` | have-raw (IA `constitutionofla00buryuoft`) |
+| A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900) |  | `bury-history-greece-1900` | have-raw (IA `ahistorygreecet01burygoog`) |
+| The Ancient Greek Historians (Harvard Lectures) (New York and London: Macmillan, 1909) |  | `bury-ancient-greek-historians-1909` | have-raw (IA `cu31924028260317`) |
+| A History of Freedom of Thought (1913) |  | `bury-history-of-freedom-of-thought` | have (PG 10684) |
+| The Idea of Progress (1920) |  | `bury-idea-of-progress` | have (PG 4557) |
+
+Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
+
+Pending (wishlist): the Student's Roman Empire in a dated scan.
+
+## Ernst Curtius (scholarship)
+
+Shelf: `pipeline/ernst-curtius_shelf.json`. Curtius's History of Greece in A. W. Ward's translation, 5 vols. (Scribner, 1892 printing), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece, vol. I, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v1-1892` | have-raw (IA `historyofgreece11curt`) |
+| The History of Greece, vol. II, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v2-1892` | have-raw (IA `historyofgreece21curt`) |
+| The History of Greece, vol. III, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v3-1892` | have-raw (IA `historyofgreece31curt`) |
+| The History of Greece, vol. IV, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v4-1892` | have-raw (IA `historyofgreece51curt`) |
+| The History of Greece, vol. V, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v5-1892` | have-raw (IA `historyofgreece41curt`) |
+
+## Connop Thirlwall (scholarship)
+
+Shelf: `pipeline/thirlwall_shelf.json`. Thirlwall's History of Greece, new edition in eight volumes (Longman, 1845-1852), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece, new edition, vol. I (London: Longman, Brown, Green, and Longmans, 1845) |  | `thirlwall-history-of-greece-v1-1845` | have-raw (IA `historyofgreece01thir`) |
+| The History of Greece, new edition, vol. II (London: Longman, Brown, Green, and Longmans, 1846) |  | `thirlwall-history-of-greece-v2-1846` | have-raw (IA `historyofgreece02thir`) |
+| The History of Greece, new edition, vol. III (London: Longman, Brown, Green, and Longmans, 1846) |  | `thirlwall-history-of-greece-v3-1846` | have-raw (IA `historyofgreece03thir`) |
+| The History of Greece, new edition, vol. IV (London: Longman, Brown, Green, and Longmans, 1847) |  | `thirlwall-history-of-greece-v4-1847` | have-raw (IA `ahistorygreece03thirgoog`) |
+| The History of Greece, new edition, vol. V (London: Longman, Brown, Green, and Longmans, 1849) |  | `thirlwall-history-of-greece-v5-1849` | have-raw (IA `historyofgreece05thir`) |
+| The History of Greece, new edition, vol. VI (London: Longman, Brown, Green, and Longmans, 1851) |  | `thirlwall-history-of-greece-v6-1851` | have-raw (IA `historyofgreece06thir`) |
+| The History of Greece, new edition, vol. VII (London: Longman, Brown, Green, and Longmans, 1852) |  | `thirlwall-history-of-greece-v7-1852` | have-raw (IA `historyofgreece07thiriala`) |
+| The History of Greece, new edition, vol. VIII (London: Longman, Brown, Green, and Longmans, 1852) |  | `thirlwall-history-of-greece-v8-1852` | have-raw (IA `ahistorygreece04thirgoog`) |
+
+## Thomas Arnold (scholarship)
+
+Shelf: `pipeline/thomas-arnold_shelf.json`. Arnold's History of Rome, third edition, 3 vols. (1844-1846), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Rome, third edition, vol. I (1844) |  | `thomas-arnold-history-of-rome-v1-1844` | have-raw (IA `historyofrome001arno`) |
+| History of Rome, third edition, vol. II (1845) |  | `thomas-arnold-history-of-rome-v2-1845` | have-raw (IA `historyofrome02arnoiala`) |
+| History of Rome, third edition, vol. III (1846) |  | `thomas-arnold-history-of-rome-v3-1846` | have-raw (IA `historyofrome03arnoiala`) |
+
+## K. O. Müller (scholarship)
+
+Shelf: `pipeline/k-o-muller_shelf.json`. Karl Otfried Müller: History of the Literature of Ancient Greece, 3 vols. (Longmans, 1858; tr. Lewis and Donaldson, continued by Donaldson) and The History and Antiquities of the Doric Race, 2nd ed., 2 vols. (Murray, 1839; tr. Tufnell and Lewis). Raw IA OCR; the 1858 vols. II-III were identity-checked by eye. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v1-1858` | have-raw (IA `historyofliterat01mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v2-1858` | have-raw (IA `historyofliterat02mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v3-1858` | have-raw (IA `historyofliterat03mluoft`) |
+| The History and Antiquities of the Doric Race, second edition, revised, vol. I (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v1-1839` | have-raw (IA `historyantiquiti01mull`) |
+| The History and Antiquities of the Doric Race, second edition, revised, vol. II (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v2-1839` | have-raw (IA `historyantiquiti02mull`) |
+
+## George Long (scholarship)
+
+Shelf: `pipeline/george-long_shelf.json`. The Decline of the Roman Republic, 5 vols., Bell and Daldy 1864-1874, assembled from five separate scans; each title page read. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Decline of the Roman Republic, vol. I (London: Bell and Daldy, 1864) |  | `george-long-decline-roman-republic-v1-1864` | have-raw (IA `declineromanrep01unkngoog`) |
+| The Decline of the Roman Republic, vol. II (London: Bell and Daldy, 1866) |  | `george-long-decline-roman-republic-v2-1866` | have-raw (IA `declineofromanre02longuoft`) |
+| The Decline of the Roman Republic, vol. III (London: Bell and Daldy, 1869) |  | `george-long-decline-roman-republic-v3-1869` | have-raw (IA `declineromanrep00longgoog`) |
+| The Decline of the Roman Republic, vol. IV (London: Bell and Daldy, 1872) |  | `george-long-decline-roman-republic-v4-1872` | have-raw (IA `declineromanrep03longgoog`) |
+| The Decline of the Roman Republic, vol. V (London: Bell and Daldy, 1874) |  | `george-long-decline-roman-republic-v5-1874` | have-raw (IA `declineofromanre05longuoft`) |
+
+## William Mure (scholarship)
+
+Shelf: `pipeline/mure_shelf.json`. A Critical History of the Language and Literature of Antient Greece, 5 vols. (1850-1857, vol. I in the 2nd ed. of 1854), assembled from separate scans; each title page read. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Critical History of the Language and Literature of Antient Greece, second edition, vol. I (London: Longman, 1854) |  | `mure-critical-history-greek-literature-v1-1854` | have-raw (IA `criticalhistoryo01mureuoft`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. II (London: Longman, 1854) |  | `mure-critical-history-greek-literature-v2-1854` | have-raw (IA `acriticalhistor06muregoog`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. III (London: Longman, 1850) |  | `mure-critical-history-greek-literature-v3-1850` | have-raw (IA `criticalhistoryo03mureuoft`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. IV (London: Longman, 1853) |  | `mure-critical-history-greek-literature-v4-1853` | have-raw (IA `acriticalhistor04muregoog`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. V (London: Longman, 1857) |  | `mure-critical-history-greek-literature-v5-1857` | have-raw (IA `criticalhistoryo05mureuoft`) |
+
+## George Cornewall Lewis (scholarship)
+
+Shelf: `pipeline/cornewall-lewis_shelf.json`. An Inquiry into the Credibility of the Early Roman History, 2 vols., Parker 1855. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Inquiry into the Credibility of the Early Roman History, vol. I (London: John W. Parker and Son, 1855) |  | `cornewall-lewis-credibility-early-roman-history-v1-1855` | have-raw (IA `inquiryintocred01lewi`) |
+| An Inquiry into the Credibility of the Early Roman History, vol. II (London: John W. Parker and Son, 1855) |  | `cornewall-lewis-credibility-early-roman-history-v2-1855` | have-raw (IA `inquiryintocred02lewi`) |
+
+## S. H. Butcher (scholarship)
+
+Shelf: `pipeline/butcher_shelf.json`. Harvard Lectures on Greek Subjects (1904) and Some Aspects of the Greek Genius (third edition, 1904). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Harvard Lectures on Greek Subjects (New York: Macmillan, 1904) |  | `butcher-harvard-lectures-greek-subjects-1904` | have-raw (IA `harvardlectureso00butciala`) |
+| Some Aspects of the Greek Genius, third edition (London: Macmillan, 1904) |  | `butcher-some-aspects-greek-genius-1904` | have-raw (IA `someaspectsofgre00butcuoft`) |
+
+Excluded: Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc) (refused: OCR 0.69, Greek text facing)
+
+## A. E. Haigh (scholarship)
+
+Shelf: `pipeline/haigh_shelf.json`. The Attic Theatre (Clarendon Press, 1889) and The Tragic Drama of the Greeks (Clarendon Press, 1896), raw IA OCR; the 1889 OCR garbles the author line, so identity was checked by eye. Gutenberg's Attic Theatre (PG 76555) is the 1907 third edition revised by Pickard-Cambridge, not added beside the first. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889) |  | `haigh-attic-theatre-1889` | have-raw (IA `attictheatredesc00haiguoft`) |
+| The Tragic Drama of the Greeks (Oxford: Clarendon Press, 1896) |  | `haigh-tragic-drama-greeks-1896` | have-raw (IA `tragicdramaofgre00haiguoft`) |
+
+## Henry Nettleship (scholarship)
+
+Shelf: `pipeline/nettleship_shelf.json`. Lectures and Essays on Subjects Connected with Latin Literature and Scholarship (1885) and its second series (1895). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885) |  | `nettleship-lectures-essays-1885` | have-raw (IA `cu31924026479919`) |
+| Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895) |  | `nettleship-lectures-essays-second-series-1895` | have-raw (IA `cu31924021595669`) |
+
+## R. Y. Tyrrell (scholarship)
+
+Shelf: `pipeline/tyrrell_shelf.json`. Latin Poetry: Lectures Delivered in 1893 (1895). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895) |  | `tyrrell-latin-poetry-1895` | have-raw (IA `latinpoetrylectu00tyrr`) |
+
+## F. B. Jevons (scholarship)
+
+Shelf: `pipeline/f-b-jevons_shelf.json`. A History of Greek Literature, Scribner. The OCR of the imprint year reads 1880; the book was first published in 1886, so the true year is likely 1886 or later (an inference). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greek Literature from the Earliest Period to the Death of Demosthenes (New York: Charles Scribner's Sons; imprint year read by OCR as 1880) |  | `f-b-jevons-history-greek-literature` | have-raw (IA `historyofgreekli00jevouoft`) |
+
+## James Gow (scholarship)
+
+Shelf: `pipeline/gow_shelf.json`. A Companion to School Classics, 2nd ed., 1889. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Companion to School Classics, second edition, revised (London and New York: Macmillan, 1889) |  | `gow-companion-school-classics-1889` | have-raw (IA `companiontoschoo00gowjuoft`) |
+
+## C. T. Cruttwell (scholarship)
+
+Shelf: `pipeline/cruttwell_shelf.json`. A History of Roman Literature, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius |  | `cruttwell-history-roman-literature` | have (PG 7525) |
+
+## A. W. Verrall (scholarship)
+
+Shelf: `pipeline/verrall_shelf.json`. Odes of Horace (1884), Bacchants of Euripides (1910), and the two 1913 collections edited by Bayfield and Duff, raw IA OCR. Bayfield's death year unchecked (editorial matter US-PD by date). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies Literary and Historical in the Odes of Horace (London: Macmillan, 1884) |  | `verrall-odes-horace-1884` | have-raw (IA `cu31924026492458`) |
+| The Bacchants of Euripides and Other Essays (Cambridge: University Press, 1910) |  | `verrall-bacchants-euripides-1910` | have-raw (IA `bacchantsofeurip00verrrich`) |
+| Collected Literary Essays, Classical and Modern, ed. M. A. Bayfield and J. D. Duff, with a memoir (Cambridge: University Press, 1913) |  | `verrall-collected-literary-essays-1913` | have-raw (IA `collectedliterar00verruoft`) |
+| Collected Studies in Greek and Latin Scholarship, ed. M. A. Bayfield and J. D. Duff (Cambridge: University Press, 1913) |  | `verrall-collected-studies-1913` | have-raw (IA `cu31924021596261`) |
+
+## Charles Merivale (scholarship)
+
+Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, Longmans new edition in eight volumes: vols. I-V dated 1865, VI 1868, VII a 1904 impression, VIII 1872 (all pre-1930 impressions of one edition), raw IA OCR; several title pages misread the name, so identity was checked by eye. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of the Romans under the Empire, new edition in eight volumes, vol. I (London: Longmans, Green, and Co., 1865) |  | `merivale-romans-empire-v1-1865` | have-raw (IA `historyofromans01meri`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. II (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v2-1865` | have-raw (IA `ahistoryromansu05merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. III (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v3-1865` | have-raw (IA `historyofromansu03meriiala`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. IV (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v4-1865` | have-raw (IA `ahistoryromansu00merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. V (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v5-1865` | have-raw (IA `ahistoryromansu01merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. VI (London: Longmans, Green, and Co., 1868) |  | `merivale-romans-empire-v6-1868` | have-raw (IA `historyromansun07unkngoog`) |
+| History of the Romans under the Empire, in eight volumes, vol. VII, new impression (London: Longmans, Green, and Co., 1904) |  | `merivale-romans-empire-v7-1904` | have-raw (IA `historyofromansu07meri`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. VIII (London: Longmans, Green, and Co., 1872) |  | `merivale-romans-empire-v8-1872` | have-raw (IA `historyromansun15unkngoog`) |
+
+## August Boeckh (scholarship)
+
+Shelf: `pipeline/boeckh_shelf.json`. The Public Economy of the Athenians, tr. Anthony Lamb (Boston, 1857), raw IA OCR; Lamb's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Public Economy of the Athenians (Boston: Little, Brown, 1857) | Lamb | `boeckh-public-economy-athenians-lamb-1857` | have-raw (IA `publiceconomyath00boecuoft`) |
+
+Pending (wishlist): Lewis's English version (London, 1842).
+
+## G. F. Schömann (scholarship)
+
+Shelf: `pipeline/schomann_shelf.json`. The Antiquities of Greece, vol. I, The State, tr. Hardy and Mann (Rivingtons, 1880), raw IA OCR; Mann's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Antiquities of Greece: The State (London: Rivingtons, 1880) | Hardy | `schomann-antiquities-greece-state-1880` | have-raw (IA `antiquitiesofgre00schuoft`) |
+
+## Guhl and Koner (scholarship)
+
+Shelf: `pipeline/guhl-koner_shelf.json`. The Life of the Greeks and Romans, tr. F. Hueffer (Chapman and Hall, 1875), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Life of the Greeks and Romans Described from Antique Monuments (London: Chapman and Hall, 1875) | F. Hueffer | `guhl-koner-life-greeks-romans-1875` | have-raw (IA `lifeofgreeksroma00guhl`) |
+
+## Hugo Blümner (scholarship)
+
+Shelf: `pipeline/blumner_shelf.json`. The Home Life of the Ancient Greeks, tr. Alice Zimmern, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Home Life of the Ancient Greeks | Alice Zimmern | `blumner-home-life-ancient-greeks` | have (PG 61689) |
+
+## E. A. Freeman (scholarship)
+
+Shelf: `pipeline/e-a-freeman_shelf.json`. History of Federal Government in Greece and Italy, 2nd ed. by J. B. Bury, and The History of Sicily, 4 vols. (Clarendon Press, 1891-1894; vol. IV ed. Arthur J. Evans), raw IA OCR; Studies of Travel: Greece, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies of Travel: Greece |  | `e-a-freeman-studies-travel-greece` | have (PG 45132) |
+| History of Federal Government in Greece and Italy, second edition, ed. J. B. Bury (London: Macmillan) |  | `e-a-freeman-federal-government-1893` | have-raw (IA `historyoffederal00freeuoft`) |
+| The History of Sicily from the Earliest Times, vol. I (Oxford: Clarendon Press, 1891) |  | `e-a-freeman-sicily-v1-1891` | have-raw (IA `historyofsicilyf01free`) |
+| The History of Sicily from the Earliest Times, vol. II (Oxford: Clarendon Press, 1891) |  | `e-a-freeman-sicily-v2-1891` | have-raw (IA `historyofsicilyf02free`) |
+| The History of Sicily from the Earliest Times, vol. III (Oxford: Clarendon Press, 1892) |  | `e-a-freeman-sicily-v3-1892` | have-raw (IA `historysicilyfr02freegoog`) |
+| The History of Sicily from the Earliest Times, vol. IV, edited from posthumous MSS. by Arthur J. Evans (Oxford: Clarendon Press, 1894) |  | `e-a-freeman-sicily-v4-1894` | have-raw (IA `historyofsicilyf04free`) |
+
+## W. T. Arnold (scholarship)
+
+Shelf: `pipeline/w-t-arnold_shelf.json`. The Roman System of Provincial Administration (1879 first edition), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman System of Provincial Administration to the Accession of Constantine the Great (Macmillan, 1879) |  | `w-t-arnold-roman-provincial-administration-1879` | have-raw (IA `romansystemofpro00arnoiala`) |
+
+## H. F. Pelham (scholarship)
+
+Shelf: `pipeline/pelham_shelf.json`. Outlines of Roman History (Percival, 1893) and Essays, ed. Haverfield (Clarendon Press, 1911), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911) |  | `pelham-essays-1911` | have-raw (IA `essaysonromanhis00pelhuoft`) |
+| Outlines of Roman History (London: Percival, 1893) |  | `pelham-outlines-roman-history-1893` | have-raw (IA `outlinesofroman00pelh`) |
+
+## Walter Leaf (scholarship)
+
+Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (1912) and Homer and History (1915), Macmillan, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
+| Homer and History (London: Macmillan, 1915) |  | `walter-leaf-homer-history-1915` | have-raw (IA `gpl_1735164`) |
+
+## Evelyn Abbott (scholarship)
+
+Shelf: `pipeline/evelyn-abbott_shelf.json`. A History of Greece, 3 parts (Putnam and Longmans, 1900-1901), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greece, part I, from the earliest times to the Ionian Revolt (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v1-1901` | have-raw (IA `historyofgreece01abbo`) |
+| A History of Greece, part II, from the Ionian Revolt to the Thirty Years' Peace, 500-445 B.C. (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v2-1901` | have-raw (IA `historyofgreece02abbo_0`) |
+| A History of Greece, part III, from the Thirty Years' Peace to the Fall of the Thirty at Athens, 445-403 B.C. (New York: Putnam; London: Longmans, Green, 1900) |  | `evelyn-abbott-history-greece-v3-1900` | have-raw (IA `historyofgreece03abbo`) |
+
+## Adolf Holm (scholarship)
+
+Shelf: `pipeline/holm_shelf.json`. The History of Greece, translated from the German (vol. IV names Frederick Clarke), 4 vols. (Macmillan, 1894-1899), raw IA OCR; Clarke's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece from its Commencement to the Close of the Independence of the Greek Nation, vol. I (London: Macmillan, 1894) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v1-1894` | have-raw (IA `historyofgreecef01holm`) |
+| The History of Greece, vol. II, The Fifth Century B.C. (London: Macmillan, 1899) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v2-1899` | have-raw (IA `historyofgreecef02holm`) |
+| The History of Greece, vol. III, The Fourth Century B.C. up to the Death of Alexander (London: Macmillan, 1896) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v3-1896` | have-raw (IA `historyofgreecef03holm_0`) |
+| The History of Greece, vol. IV, The Graeco-Macedonian Age (London: Macmillan, 1898) | Clarke | `holm-history-greece-v4-1898` | have-raw (IA `historygreecefr04holmgoog`) |
+
+## Wilhelm Ihne (scholarship)
+
+Shelf: `pipeline/ihne_shelf.json`. The History of Rome, English edition (the author's own), 5 vols. (Longmans, 1871-1882), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Rome, English edition, vol. I (London: Longmans, Green, 1871) |  | `ihne-history-rome-v1-1871` | have-raw (IA `historyrome02unkngoog`) |
+| The History of Rome, English edition, vol. II (London: Longmans, Green, 1871) |  | `ihne-history-rome-v2-1871` | have-raw (IA `historyofrome02ihne_0`) |
+| The History of Rome, English edition, vol. III (London: Longmans, Green, 1877) |  | `ihne-history-rome-v3-1877` | have-raw (IA `historyofrome03ihne`) |
+| The History of Rome, English edition, vol. IV (London: Longmans, Green, 1882) |  | `ihne-history-rome-v4-1882` | have-raw (IA `historyofrome04ihne`) |
+| The History of Rome, English edition, vol. V (London: Longmans, Green, 1882) |  | `ihne-history-rome-v5-1882` | have-raw (IA `historyofrome05ihne`) |
+
+## E. H. Bunbury (scholarship)
+
+Shelf: `pipeline/bunbury_shelf.json`. A History of Ancient Geography among the Greeks and Romans, 2 vols. (John Murray, 1879), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Ancient Geography among the Greeks and Romans, vol. I (London: John Murray, 1879) |  | `bunbury-ancient-geography-v1-1879` | have-raw (IA `historyofancient01bunb`) |
+| A History of Ancient Geography among the Greeks and Romans, vol. II (London: John Murray, 1879) |  | `bunbury-ancient-geography-v2-1879` | have-raw (IA `ahistoryancient01bunbgoog`) |
+
+## H. F. Tozer (scholarship)
+
+Shelf: `pipeline/tozer_shelf.json`. A History of Ancient Geography (Cambridge, 1897), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Ancient Geography (Cambridge: University Press, 1897) |  | `tozer-history-ancient-geography-1897` | have-raw (IA `ahistoryancient00tozegoog`) |
+
+## T. H. Dyer (scholarship)
+
+Shelf: `pipeline/dyer_shelf.json`. Ancient Athens (1873) and The City of Rome, 2nd ed. (1883), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ancient Athens: its History, Topography, and Remains (London: Bell and Daldy, 1873) |  | `dyer-ancient-athens-1873` | have-raw (IA `cu31924028305294`) |
+| The City of Rome: its Vicissitudes and Monuments, second edition, revised (London: George Bell, 1883) |  | `dyer-city-of-rome-1883` | have-raw (IA `cityromeitsvici00dyergoog`) |
+
+## J. H. Middleton (scholarship)
+
+Shelf: `pipeline/middleton_shelf.json`. The Remains of Ancient Rome, 2 vols. (A. and C. Black, 1892), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Remains of Ancient Rome, vol. I (London: A. and C. Black, 1892) |  | `middleton-remains-ancient-rome-v1-1892` | have-raw (IA `remainsofancient01midd`) |
+| The Remains of Ancient Rome, vol. II (London: A. and C. Black, 1892) |  | `middleton-remains-ancient-rome-v2-1892` | have-raw (IA `remainsofancient02midd`) |
+
+## William Ramsay (scholarship)
+
+Shelf: `pipeline/ramsay_shelf.json`. A Manual of Roman Antiquities, 2nd ed. (Griffin, 1851), raw IA OCR. Professor of Humanity at Glasgow, not Sir W. M. Ramsay. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Manual of Roman Antiquities, second edition (London and Glasgow: Griffin, 1851) |  | `ramsay-manual-roman-antiquities-1851` | have-raw (IA `manualofromanan00rams`) |
+
+## Christopher Wordsworth (scholarship)
+
+Shelf: `pipeline/christopher-wordsworth_shelf.json`. Athens and Attica, 2nd ed. (John Murray, 1837), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Athens and Attica: Journal of a Residence There, second edition (London: John Murray, 1837) |  | `christopher-wordsworth-athens-attica-1837` | have-raw (IA `athensatticajour00word`) |
+
+## Charles Anthon (reference)
+
+Shelf: `pipeline/anthon_shelf.json`. A Classical Dictionary (Harper, 1848 printing of the 1841 work), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Classical Dictionary, containing an account of the principal proper names mentioned in ancient authors (New York: Harper, 1848) |  | `anthon-classical-dictionary-1848` | have-raw (IA `classicaldiction00anth`) |
+
+## Anthony Rich (reference)
+
+Shelf: `pipeline/anthony-rich_shelf.json`. A Dictionary of Roman and Greek Antiquities, 4th ed. (Longmans, 1874), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Dictionary of Roman and Greek Antiquities, fourth edition, revised (London: Longmans, Green, 1874) |  | `anthony-rich-dictionary-antiquities-1874` | have-raw (IA `cu31924031428737`) |
+
+## Harry Thurston Peck (reference)
+
+Shelf: `pipeline/peck_shelf.json`. Harper's Dictionary of Classical Literature and Antiquities (Harper, 1898 printing; copyright 1896), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Harper's Dictionary of Classical Literature and Antiquities, ed. Harry Thurston Peck (New York: Harper, 1898) |  | `peck-harpers-dictionary-classical-1898` | have-raw (IA `cu31924027019482`) |
+
+## H. G. Liddell (scholarship)
+
+Shelf: `pipeline/liddell_shelf.json`. A History of Rome, 2 vols. (John Murray, 1855), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Rome from the Earliest Times to the Establishment of the Empire, vol. I (London: John Murray, 1855) |  | `liddell-history-rome-v1-1855` | have-raw (IA `ahistoryromefro04liddgoog`) |
+| A History of Rome from the Earliest Times to the Establishment of the Empire, vol. II (London: John Murray, 1855) |  | `liddell-history-rome-v2-1855` | have-raw (IA `ahistoryrometoe00liddgoog`) |
+
+## J. W. Donaldson (scholarship)
+
+Shelf: `pipeline/donaldson_shelf.json`. The Theatre of the Greeks, 7th ed. (1860), raw IA OCR at 0.781. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theatre of the Greeks, seventh edition (London: Longman and others, 1860) |  | `donaldson-theatre-greeks-1860` | have-raw (IA `theatreofgreekst00dona`) |
+
+## Lewis Campbell (scholarship)
+
+Shelf: `pipeline/lewis-campbell_shelf.json`. A Guide to Greek Tragedy for English Readers (1891) and Religion in Greek Literature (1898), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Guide to Greek Tragedy for English Readers (London: Percival, 1891) |  | `lewis-campbell-guide-greek-tragedy-1891` | have-raw (IA `guidetogreektrag00camp`) |
+| Religion in Greek Literature: a Sketch in Outline (London: Longmans, Green, 1898) |  | `lewis-campbell-religion-greek-literature-1898` | have-raw (IA `religioningreek00camp`) |
+
+## R. G. Moulton (scholarship)
+
+Shelf: `pipeline/moulton_shelf.json`. The Ancient Classical Drama (Clarendon Press, 1890), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Ancient Classical Drama: a Study in Literary Evolution (Oxford: Clarendon Press, 1890) |  | `moulton-ancient-classical-drama-1890` | have-raw (IA `ancientclassic00moul`) |
+
+## C. C. Felton (scholarship)
+
+Shelf: `pipeline/felton_shelf.json`. Greece, Ancient and Modern, two volumes in one, 9th ed. (Houghton, Mifflin, 1893), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greece, Ancient and Modern: Lectures Delivered before the Lowell Institute, two volumes in one (Boston: Houghton, Mifflin, 1893) |  | `felton-greece-ancient-modern-1893` | have-raw (IA `greeceancientmod00feltiala`) |
+
+## W. M. Leake (scholarship)
+
+Shelf: `pipeline/leake_shelf.json`. The Topography of Athens and the Demi, 2nd ed., 2 vols. (1841); Travels in Northern Greece, 4 vols. (1835); Travels in the Morea, vols. I and III (1830). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Topography of Athens, with some remarks on its antiquities, second edition, vol. I (London: J. Rodwell, 1841) |  | `leake-topography-athens-v1-1841` | have-raw (IA `topographyathen02leakgoog`) |
+| The Topography of Athens and the Demi, vol. II, The Demi of Attica, second edition (London: J. Rodwell, 1841) |  | `leake-demi-attica-v2-1841` | have-raw (IA `topographyathen05leakgoog`) |
+| Travels in Northern Greece, in four volumes, vol. I (London: J. Rodwell, 1835) |  | `leake-northern-greece-v1-1835` | have-raw (IA `travelsinnorthe01leakgoog`) |
+| Travels in Northern Greece, in four volumes, vol. II (London: J. Rodwell, 1835) |  | `leake-northern-greece-v2-1835` | have-raw (IA `gri_33125008698264`) |
+| Travels in Northern Greece, in four volumes, vol. III (London: J. Rodwell, 1835) |  | `leake-northern-greece-v3-1835` | have-raw (IA `gri_000033125008698322`) |
+| Travels in Northern Greece, in four volumes, vol. IV (London: J. Rodwell, 1835) |  | `leake-northern-greece-v4-1835` | have-raw (IA `gri_000433125008698033`) |
+| Travels in the Morea, in three volumes, vol. I (London: John Murray, 1830) |  | `leake-morea-v1-1830` | have-raw (IA `b29350219_0001`) |
+| Travels in the Morea, in three volumes, vol. III (London: John Murray, 1830) |  | `leake-morea-v3-1830` | have-raw (IA `moreatravels03leak`) |
+
+Pending (wishlist): Travels in the Morea vol. II (IA unavailable this round).
+
+## T. R. Glover (scholarship)
+
+Shelf: `pipeline/glover_shelf.json`. The Conflict of Religions in the Early Roman Empire (clean Gutenberg); Life and Letters in the Fourth Century (1901) and Virgil, 2nd ed. (1912), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Conflict of Religions in the Early Roman Empire |  | `glover-conflict-religions-early-roman-empire` | have (PG 39092) |
+| Life and Letters in the Fourth Century (Cambridge: University Press, 1901) |  | `glover-life-letters-fourth-century-1901` | have-raw (IA `lifelettersinfou00glovuoft`) |
+| Virgil, second edition (London: Methuen, 1912) |  | `glover-virgil-1912` | have-raw (IA `virgil00glovrich`) |
+
+## William Ridgeway (scholarship)
+
+Shelf: `pipeline/ridgeway_shelf.json`. The Origin of Metallic Currency (clean Gutenberg); The Early Age of Greece vol. I (1901) and The Origin of Tragedy (1910), raw IA OCR. Vol. II of The Early Age (1931) is not yet US public domain. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin of Metallic Currency and Weight Standards |  | `ridgeway-metallic-currency` | have (PG 66160) |
+| The Early Age of Greece, vol. I (Cambridge: University Press, 1901) |  | `ridgeway-early-age-greece-v1-1901` | have-raw (IA `earlyageofgreece0001will`) |
+| The Origin of Tragedy, with special reference to the Greek tragedians (Cambridge: University Press, 1910) |  | `ridgeway-origin-tragedy-1910` | have-raw (IA `cu31924022692853`) |
+
+## T. Rice Holmes (scholarship)
+
+Shelf: `pipeline/rice-holmes_shelf.json`. Ancient Britain and the Invasions of Julius Caesar (clean Gutenberg); Caesar's Conquest of Gaul, 2nd ed. (Clarendon Press, 1911), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ancient Britain and the Invasions of Julius Caesar |  | `rice-holmes-ancient-britain-caesar` | have (PG 57336) |
+| Caesar's Conquest of Gaul, second edition (Oxford: Clarendon Press, 1911) |  | `rice-holmes-caesars-conquest-gaul-1911` | have-raw (IA `caesarsconquesto00holm`) |
+
+## W. W. Capes (scholarship)
+
+Shelf: `pipeline/capes_shelf.json`. Roman History: The Early Empire (1876) and University Life in Ancient Athens (1877), Longmans, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman History: The Early Empire, from the assassination of Julius Caesar to that of Domitian (London: Longmans, Green, 1876) |  | `capes-early-empire-1876` | have-raw (IA `romanhistoryearl00cape`) |
+| University Life in Ancient Athens (London: Longmans, Green, 1877) |  | `capes-university-life-athens-1877` | have-raw (IA `1877universityli00capeuoft`) |
+
+## J. L. Strachan-Davidson (scholarship)
+
+Shelf: `pipeline/strachan-davidson_shelf.json`. Cicero and the Fall of the Roman Republic (Putnam, 1894), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Cicero and the Fall of the Roman Republic (New York and London: Putnam, 1894) |  | `strachan-davidson-cicero-1894` | have-raw (IA `ciceroandthefall014652mbp`) |
+
+## Edwyn Bevan (scholarship)
+
+Shelf: `pipeline/edwyn-bevan_shelf.json`. The House of Seleucus vol. I (1902) and Stoics and Sceptics (1913), raw IA OCR. Bevan died 1943. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The House of Seleucus, vol. I (London: Edward Arnold, 1902) |  | `edwyn-bevan-house-seleucus-v1-1902` | have-raw (IA `houseofseleucus01bevauoft`) |
+| Stoics and Sceptics: four lectures delivered in Oxford (Oxford University Press, 1913) |  | `edwyn-bevan-stoics-sceptics-1913` | have-raw (IA `stoicsscepticsfo00beva`) |
+
+Pending (wishlist): The House of Seleucus vol. II (1902).
+
+## Charles Oman (scholarship)
+
+Shelf: `pipeline/oman_shelf.json`. Seven Roman Statesmen of the Later Republic (Edward Arnold, 1902; a 1929 impression), raw IA OCR. Oman died 1946. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Seven Roman Statesmen of the Later Republic (London: Edward Arnold, 1902; impression of 1929) |  | `oman-seven-roman-statesmen-1929` | have-raw (IA `cu31924028296345`) |
+
+## C. E. Bennett (reference)
+
+Shelf: `pipeline/c-e-bennett_shelf.json`. New Latin Grammar (1918 text), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| New Latin Grammar |  | `c-e-bennett-new-latin-grammar` | have (PG 15665) |
+
+## G. M. Lane (reference)
+
+Shelf: `pipeline/lane-morgan_shelf.json`. A Latin Grammar for Schools and Colleges (completed by M. H. Morgan; 1898, 1903), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Latin Grammar for Schools and Colleges |  | `lane-latin-grammar` | have (PG 44653) |
+
+## Allen and Greenough (reference)
+
+Shelf: `pipeline/allen-greenough_shelf.json`. Latin Grammar Founded on Comparative Grammar, revised edition (Ginn, 1887), raw IA OCR at 0.80. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Latin Grammar Founded on Comparative Grammar, revised edition (Boston: Ginn, 1887) |  | `allen-greenough-latin-grammar-1887` | have-raw (IA `latingrammar00greegoog`) |
+
+## Hegel in English
+
+Shelf: `pipeline/hegel-translations_shelf.json`. G. W. F. Hegel (1770-1831) in English, translator per row. Named hegel-translations because the reading-lists thread (PR #22) already has a hegel shelf holding Dyde's Philosophy of Right (1896), which is not duplicated here. Clean Gutenberg: Wallace's Logic (from the Encyclopaedia, 2nd ed., Oxford, 1892) and Philosophy of Mind (Oxford, 1894), Osmaston's Philosophy of Fine Art (Bell, 1920, 4 vols.). Raw IA OCR: Haldane and Simson's Lectures on the History of Philosophy (Kegan Paul, 1892-1896, 3 vols., the first printings; Gutenberg's text of the same translation is set from a 1955 reprint and is not used), Sibree's Lectures on the Philosophy of History (Bohn, 1881), Baillie's Phenomenology of Mind (Swan Sonnenschein, 1910, 2 vols.), and Speirs and Sanderson's Lectures on the Philosophy of Religion (Kegan Paul, 1895, 3 vols.). All published before 1930, so US public domain under the US rule (decision 22); Baillie died 1940 and Osmaston's dates are unchecked, so some are not public domain in life+70 countries. Bosanquet's Introduction to the Philosophy of Fine Art is held on singles-arts-miscellany (PG 46330) and is not taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Logic of Hegel, translated from the Encyclopaedia of the Philosophical Sciences, 2nd ed., revised and augmented (Oxford, 1892) | William Wallace | `hegel-wallace-logic-1892` | have (PG 55108) |
+| Hegel's Philosophy of Mind, translated from the Encyclopaedia of the Philosophical Sciences, with five introductory essays (Oxford: Clarendon, 1894) | William Wallace | `hegel-wallace-philosophy-of-mind-1894` | have (PG 39064) |
+| The Philosophy of Fine Art, vol. 1 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v1` | have (PG 55334) |
+| The Philosophy of Fine Art, vol. 2 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v2` | have (PG 55445) |
+| The Philosophy of Fine Art, vol. 3 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v3` | have (PG 55623) |
+| The Philosophy of Fine Art, vol. 4 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v4` | have (PG 55731) |
+| Lectures on the History of Philosophy, vol. I (London: Kegan Paul, Trench, Trübner, 1892) | E. S. Haldane | `hegel-haldane-history-of-philosophy-1892-v1` | have-raw (IA `lecturesonthehis01hegeuoft`) |
+| Lectures on the History of Philosophy, vol. II (London: Kegan Paul, Trench, Trübner, 1894) | E. S. Haldane and Frances H. Simson | `hegel-haldane-history-of-philosophy-1894-v2` | have-raw (IA `lecturesonthehis02hegeuoft`) |
+| Lectures on the History of Philosophy, vol. III (London: Kegan Paul, Trench, Trübner, 1896) | Elizabeth S. Haldane and Frances H. Simson | `hegel-haldane-history-of-philosophy-1896-v3` | have-raw (IA `lectureshistoryp03hegeuoft`) |
+| Lectures on the Philosophy of History, translated from the third German edition (Bohn; London: George Bell, 1881) | J. Sibree | `hegel-sibree-philosophy-of-history-1881` | have-raw (IA `lecturesonphilos00hege`) |
+| The Phenomenology of Mind, translated with an introduction and notes, vol. I (Library of Philosophy; London: Swan Sonnenschein, 1910) | J. B. Baillie | `hegel-baillie-phenomenology-1910-v1` | have-raw (IA `cu31924097557171`) |
+| The Phenomenology of Mind, vol. II (Library of Philosophy; London: Swan Sonnenschein, 1910) | J. B. Baillie | `hegel-baillie-phenomenology-1910-v2` | have-raw (IA `cu31924091023832`) |
+| Lectures on the Philosophy of Religion, together with a work on the Proofs of the Existence of God, translated from the second German edition, vol. I (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v1` | have-raw (IA `philosophyofreli01hegeuoft`) |
+| Lectures on the Philosophy of Religion, vol. II (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v2` | have-raw (IA `lecturesonthephi02hegeuoft`) |
+| Lectures on the Philosophy of Religion, vol. III, with the Lectures on the Proofs of the Existence of God (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v3` | have-raw (IA `lecturesreligion03hegeuoft`) |
+
+## Schopenhauer in English
+
+Shelf: `pipeline/schopenhauer_shelf.json`. Arthur Schopenhauer (1788-1860) in English: The World as Will and Idea, tr. R. B. Haldane and J. Kemp (Kegan Paul, Trench, Trübner; vol. I 7th ed. 1909, vols. II-III 6th ed. 1909; first published 1883-1886), clean Gutenberg. US public domain (published before 1930). Bailey Saunders's essays (lane C's bailey-saunders shelf), Dircks's Essays (singles-ideas) and the Basis of Morality and Fourfold Root (singles-ideas-2) are held elsewhere and not taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The World as Will and Idea, vol. I, containing four books, 7th ed. (London: Kegan Paul, 1909) | R. B. Haldane and J. Kemp | `schopenhauer-haldane-kemp-world-as-will-v1` | have (PG 38427) |
+| The World as Will and Idea, vol. II, containing the Criticism of the Kantian Philosophy and supplements, 6th ed. (London: Kegan Paul, 1909) | R. B. Haldane and J. Kemp | `schopenhauer-haldane-kemp-world-as-will-v2` | have (PG 40097) |
+| The World as Will and Idea, vol. III, containing supplements, 6th ed. (London: Kegan Paul, 1909) | R. B. Haldane and J. Kemp | `schopenhauer-haldane-kemp-world-as-will-v3` | have (PG 40868) |
+
+## Kant in English
+
+Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted. Added 2026-10-17: James Creed Meredith's Critique of Aesthetic Judgement (Oxford, 1911), a translation distinct from Bernard's, and John Watson's selections, The Philosophy of Kant as contained in extracts from his own writings (Glasgow, 1897).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Kant's Prolegomena to Any Future Metaphysics, edited in English, 3rd ed. (Chicago: Open Court, 1912; translation copyright 1902) | Paul Carus | `kant-carus-prolegomena-1912` | have (PG 52821) |
+| Immanuel Kant's Critique of Pure Reason, in commemoration of the centenary of its first publication, vol. I: historical introduction by Ludwig Noiré (London: Macmillan, 1881) | F. Max Müller | `kant-muller-critique-1881-v1` | have-raw (IA `cu31924092291065`) |
+| Immanuel Kant's Critique of Pure Reason, vol. II: the Critique (London: Macmillan, 1881) | F. Max Müller | `kant-muller-critique-1881-v2` | have-raw (IA `cu31924092291073`) |
+| Religion within the Boundary of Pure Reason (Edinburgh: Thomas Clark, 1838) | J. W. Semple | `kant-semple-religion-1838` | have-raw (IA `religionwithin00kantuoft`) |
+| The Metaphysic of Ethics, 3rd ed., with introduction by Henry Calderwood (Edinburgh: T. & T. Clark, 1871) | J. W. Semple | `kant-semple-metaphysic-of-ethics-1871` | have-raw (IA `metaphysicofethi00kant`) |
+| Kant's Prolegomena and Metaphysical Foundations of Natural Science, with a biography and introduction (Bohn's Philosophical Library; London: George Bell, 1883) | Ernest Belfort Bax | `kant-bax-prolegomena-1883` | have-raw (IA `cu31924029022213`) |
+| The Philosophy of Law: an exposition of the fundamental principles of jurisprudence as the science of right (Edinburgh: T. & T. Clark, 1887) | W. Hastie | `kant-hastie-philosophy-of-law-1887` | have-raw (IA `thephilosophyofl00kantuoft`) |
+| Kant's Cosmogony, as in his Essay on the Retardation of the Rotation of the Earth and his Natural History and Theory of the Heavens (Glasgow: Maclehose, 1900) | W. Hastie | `kant-hastie-cosmogony-1900` | have-raw (IA `kantscosmogonyas00kantuoft`) |
+| Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889) | John P. Mahaffy and John H. Bernard | `kant-mahaffy-bernard-prolegomena-1889` | have-raw (IA `KantsCriticalPhilosophyForEnglishReadersVol2`) |
+| Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
+| The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897) | John Watson | `kant-watson-philosophy-of-kant-1897` | have-raw (IA `thephilosophyofk00kantuoft`) |
+| Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (T. & T. Clark, 1891) | W. Hastie | `kant-principles-of-politics-hastie-1891` | have-raw (IA `kantsprincipleso00kant`) |
+| Critique of Pure Reason, tr. Norman Kemp Smith (Macmillan, 1929) | Norman Kemp Smith | `kant-kemp-smith-critique-pure-reason-1929` | have-raw (IA `immanuelkantscri032379mbp`) |
+
+## Hume
+
+Shelf: `pipeline/hume_shelf.json`. David Hume (1711-1776): The Philosophical Works of David Hume, including all the essays, and exhibiting the more important alterations and corrections in the successive editions published by the author (Edinburgh: Adam Black and William Tait, 1826, 4 vols.): vols. 1-2 (the Treatise) clean Gutenberg, vols. 3-4 (the Essays, the Enquiries and the Dialogues) raw IA OCR. The Adler shelf's Enquiry Concerning Human Understanding (PG 9662) is a separate edition held there. Undated or edition-less Gutenberg texts of the same works (PG 4705, 4320, 4583) are not taken as second witnesses. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophical Works of David Hume, vol. I (Edinburgh, 1826) |  | `hume-works-1826-v1` | have (PG 53791) |
+| The Philosophical Works of David Hume, vol. II (Edinburgh, 1826) |  | `hume-works-1826-v2` | have (PG 53792) |
+| The Philosophical Works of David Hume, vol. III: Essays moral, political and literary (Edinburgh, 1826) |  | `hume-works-1826-v3` | have-raw (IA `philosophicalwor03hume`) |
+| The Philosophical Works of David Hume, vol. IV (Edinburgh, 1826) |  | `hume-works-1826-v4` | have-raw (IA `philosophicalwo25humegoog`) |
+
+## Berkeley
+
+Shelf: `pipeline/berkeley_shelf.json`. George Berkeley (1685-1753): The Works of George Berkeley, including his posthumous works, ed. Alexander Campbell Fraser (Oxford: Clarendon, 1901, 4 vols.). Vol. 1 clean Gutenberg; vols. 2-4 raw IA OCR. The Adler shelf's Principles (PG 4723) is held there; the separate Gutenberg texts of the New Theory of Vision, Three Dialogues, Querist and Bermuda Proposal (PG 4722, 4724, 4543, 31848) are all inside Fraser's edition and are not taken as second witnesses. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of George Berkeley, vol. 1: Philosophical Works, 1705-21 (Oxford, 1901) |  | `berkeley-fraser-works-1901-v1` | have (PG 39746) |
+| The Works of George Berkeley, vol. II: Philosophical Works, 1732-33 (Oxford, 1901) |  | `berkeley-fraser-works-1901-v2` | have-raw (IA `worksofgeorgebe02berk`) |
+| The Works of George Berkeley, vol. III: Philosophical Works, 1734-52 (Oxford, 1901) |  | `berkeley-fraser-works-1901-v3` | have-raw (IA `worksofberkeley03berkuoft`) |
+| The Works of George Berkeley, vol. IV: Miscellaneous Works (Oxford, 1901) |  | `berkeley-fraser-works-1901-v4` | have-raw (IA `worksofberkeley04berkuoft`) |
+
+## Hobbes
+
+Shelf: `pipeline/hobbes_shelf.json`. Thomas Hobbes (1588-1679): The English Works of Thomas Hobbes of Malmesbury, ed. Sir William Molesworth (London: John Bohn, 1839-1845, 11 vols.), vols. 1-7, clean Gutenberg. Vol. 1 is the English Elements of Philosophy (De Corpore). Leviathan is also on the Adler shelf (PG 3207) in a different edition. Vols. 8-11 (the Thucydides and Homer translations, and the index) are not on Gutenberg; Hobbes's Thucydides and Homer are held on the thucydides and homer shelves. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The English Works of Thomas Hobbes of Malmesbury, vol. 1 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v1` | have (PG 73877) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 2 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v2` | have (PG 73906) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 3 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v3` | have (PG 73957) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 4 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v4` | have (PG 74236) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 5 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v5` | have (PG 76650) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 6 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v6` | have (PG 77338) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 7 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v7` | have (PG 78674) |
+
+## Francis Bacon
+
+Shelf: `pipeline/francis-bacon_shelf.json`. Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Essays or Counsels, Civil and Moral |  | `bacon-essays` | have (PG 575) |
+| New Atlantis |  | `bacon-new-atlantis` | have (PG 2434) |
+| Valerius Terminus: of the Interpretation of Nature, with a preface by Robert Leslie Ellis |  | `bacon-valerius-terminus` | have (PG 3290) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. I: Philosophical Works: the Instauratio Magna and Novum Organum in Latin, with the editors' general preface (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v1` | have-raw (IA `worksoffrancisba1864baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. II: Philosophical Works, Latin: Parasceve and De Augmentis Scientiarum books I-VI (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v2` | have-raw (IA `worksoffrancisba18642baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. III: Philosophical Works, Latin: De Augmentis continued and the natural histories (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v3` | have-raw (IA `worksoffrancisba18643baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. IV: Philosophical Works: Historia Densi et Rari, De Magnete, and Sylva Sylvarum (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v4` | have-raw (IA `worksoffrancisba18644baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. V: Philosophical Works: Sylva Sylvarum continued, Cogitationes de Natura Rerum, De Fluxu Maris, New Atlantis (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v5` | have-raw (IA `worksoffrancisba18645baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. VI: Philosophical Works: Valerius Terminus, the Advancement of Learning, Filum Labyrinthi (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v6` | have-raw (IA `worksoffrancisba18646baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. VII: Philosophical Works: Temporis Partus Masculus and other abandoned pieces, mostly Latin (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v7` | have-raw (IA `worksoffrancisba07baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. VIII: Translations of the Philosophical Works I: The Great Instauration and Novum Organum (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v8` | have-raw (IA `worksoffrancisba08baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. IX: Translations of the Philosophical Works II: Of the Dignity and Advancement of Learning (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v9` | have-raw (IA `worksoffrancisba18649baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. X: Translations of the Philosophical Works III: the natural histories, History of Life and Death (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v10` | have-raw (IA `worksoffrancisb186410baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XI: Literary Works: History of the Reign of King Henry VII (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v11` | have-raw (IA `worksoffrancisba18641baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XII: Literary Works: Latin elogia with English translations, and the Essays (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v12` | have-raw (IA `worksoffrancisba12baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XIII: Literary Works: De Sapientia Veterum with its translation, Advertisement touching a Holy War, Colours of Good and Evil (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v13` | have-raw (IA `worksoffrancisba13baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XIV: Literary Works: Promus, Religious Writings, Meditationes Sacrae with translation (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v14` | have-raw (IA `worksoffrancisba14baco`) |
+| The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XV: Professional Works: legal discourses, arguments of law, readings (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v15` | have-raw (IA `worksoffrancisba15baco`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. I (London: Longman, Green, Longman, and Roberts, 1861) |  | `bacon-spedding-letters-and-life-v1` | have-raw (IA `lettersandlifef08bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. II (London: Longman, Green, Longman, and Roberts, 1862) |  | `bacon-spedding-letters-and-life-v2` | have-raw (IA `lettersandlifef01bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. III (London: Longmans, Green, Reader, and Dyer, 1868) |  | `bacon-spedding-letters-and-life-v3` | have-raw (IA `lettersandlifef05bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. IV (London: Longmans, Green, Reader, and Dyer, 1868) |  | `bacon-spedding-letters-and-life-v4` | have-raw (IA `lettersandlifef06bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. V (London: Longmans, Green, Reader, and Dyer, 1869) |  | `bacon-spedding-letters-and-life-v5` | have-raw (IA `lettersandlifef05spedgoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VI (London: Longmans, Green, Reader, and Dyer, 1872) |  | `bacon-spedding-letters-and-life-v6` | have-raw (IA `lettersandlifef09bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VII (London: Longmans, Green, Reader, and Dyer, 1874) |  | `bacon-spedding-letters-and-life-v7` | have-raw (IA `lettersandlifef00spedgoog`) |
+
+## Machiavelli in English
+
+Shelf: `pipeline/machiavelli_shelf.json`. Niccolò Machiavelli (1469-1527) in English: Christian E. Detmold's The Historical, Political, and Diplomatic Writings (Boston: James R. Osgood, 1882, 4 vols.), raw IA OCR (Toronto); and the History of Florence from Gutenberg (a 1901 Universal Classics Library printing, New York; translator not named in the book, introduction by Hugo Albert Rennert). The Prince is held on the Adler shelf (Marriott, PG 1232) and singles-ideas-3 (Ricci), and Thomson's Discourses on singles-ideas; none is taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Florence and of the Affairs of Italy, from the earliest times to the death of Lorenzo the Magnificent (New York: W. Walter Dunne, 1901) | unnamed in the book | `machiavelli-history-of-florence-1901` | have (PG 2464) |
+| The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. I (Boston: James R. Osgood, 1882) | Christian E. Detmold | `machiavelli-detmold-writings-1882-v1` | have-raw (IA `diplomaticwritin01machuoft`) |
+| The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. II (Boston: James R. Osgood, 1882) | Christian E. Detmold | `machiavelli-detmold-writings-1882-v2` | have-raw (IA `diplomaticwritin02machuoft`) |
+| The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. III (Boston: James R. Osgood, 1882) | Christian E. Detmold | `machiavelli-detmold-writings-1882-v3` | have-raw (IA `diplomaticwritin03machuoft`) |
+| The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. IV (Boston: James R. Osgood, 1882) | Christian E. Detmold | `machiavelli-detmold-writings-1882-v4` | have-raw (IA `diplomaticwritin04machuoft`) |
+
+## Descartes in English
+
+Shelf: `pipeline/descartes_shelf.json`. René Descartes (1596-1650) in English, translator per row. Raw IA OCR: Haldane and Ross's Philosophical Works, vol. I (Cambridge, 1911). Clean Gutenberg: the first English Discourse of a Method (London: Thomas Newcombe, 1649; translator unnamed). Vol. II of Haldane and Ross (first published 1912) is wanted: the only scans found are 1931 and 1934 reprints (post-1930 printings, Adam's open class). Veitch's Method and Meditations are on the Adler shelf, his Principles on singles-ideas, and Molyneux's Six Metaphysical Meditations (1680) on singles-ideas-3; none is taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Discourse of a Method for the Well Guiding of Reason, and the Discovery of Truth in the Sciences (London: Thomas Newcombe, MDCXLIX) | unnamed (1649) | `descartes-discourse-1649` | have (PG 25830) |
+| The Philosophical Works of Descartes, rendered into English, vol. I (Cambridge University Press, 1911) | Elizabeth S. Haldane and G. R. T. Ross | `descartes-haldane-ross-works-1911-v1` | have-raw (IA `philosophicalwor01desc`) |
+| The Philosophical Works of Descartes, rendered into English, vol. II (Cambridge University Press, 1912) |  | `descartes-haldane-ross-works-1912-v2` | have-raw (IA `philosophicalwor015731mbp`) |
+
+## Rousseau in English
+
+Shelf: `pipeline/rousseau_shelf.json`. Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted. Added 2026-10-17: the Discourse on Inequality in the anonymous translation of PG 11136, a different translation from the Adler shelf's Social Contract and Discourses (PG 46333).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Confessions of Jean Jacques Rousseau, complete (London: Aldus Society, 1903) | unnamed in the book | `rousseau-confessions-1903` | have (PG 3913) |
+| A Discourse upon the Origin and the Foundation of the Inequality among Mankind (the etext names no printing; its introductory note matches the Harvard Classics, inferred) |  | `rousseau-discourse-on-inequality` | have (PG 11136) |
+
+## Locke
+
+Shelf: `pipeline/locke_shelf.json`. John Locke (1632-1704). Clean Gutenberg: An Essay Concerning Humane Understanding, vol. 2 (based on the 2nd edition); vol. 1 (PG 10615) and the Second Treatise (PG 7370) are on the Adler shelf. Raw IA OCR: Some Thoughts Concerning Education, ed. R. H. Quick (Cambridge, 2nd ed., 1889). Wanted: Locke's Works (11th or 12th ed., 1812/1823, 10 vols.); a dated Letters on Toleration (the Ward, Lock scan found prints no year). No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Essay Concerning Humane Understanding, vol. 2 (MDCXC, based on the 2nd edition) |  | `locke-essay-understanding-v2` | have (PG 10616) |
+| Some Thoughts Concerning Education, with introduction and notes by R. H. Quick, 2nd ed. (Cambridge University Press, 1889) |  | `locke-quick-thoughts-education-1889` | have-raw (IA `somethoughtsconc00lockuoft`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. I: Essay concerning Human Understanding, books I-II (to ch. xxii) (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v1` | have-raw (IA `worksjohnlocke02lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. II: Essay, book II continued, book III, and book IV to ch. iv (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v2` | have-raw (IA `worksjohnlocke04lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. III: Essay, book IV continued, and the Conduct of the Understanding (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v3` | have-raw (IA `worksjohnlocke07lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. IV: the Stillingfleet controversy (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v4` | have-raw (IA `worksjohnlocke00lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. V: money, interest and coin; the Two Treatises of Government (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v5` | have-raw (IA `worksjohnlocket01lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. VI: the Letters concerning Toleration (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v6` | have-raw (IA `worksjohnlocke08lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. VII: The Reasonableness of Christianity and its Vindications (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v7` | have-raw (IA `worksjohnlocke06lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. VIII: the Paraphrase of St Paul's Epistles (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v8` | have-raw (IA `worksjohnlocke11lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. IX: Some Thoughts concerning Education, Malebranche, Miracles, Shaftesbury memoirs, letters (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v9` | have-raw (IA `worksjohnlockev00lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. X: familiar letters continued and miscellaneous pieces (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v10` | have-raw (IA `worksjohnlocke03lockgoog`) |
+
+## Spinoza in English
+
+Shelf: `pipeline/spinoza_shelf.json`. Benedict de Spinoza (1632-1677) in English, translator per row, raw IA OCR. Elwes's translations are lane C's (elwes shelf: the Theologico-Political Treatise and the Improvement of the Understanding) and his Ethics is on the Adler shelf (PG 3800); none is taken again here, nor the Bohn Chief Works. Here: William Hale White's Ethic (Trübner, 1883), Robert Willis's Tractatus Theologico-Politicus (Trübner, 1862) and Benedict de Spinoza: his life, correspondence, and Ethics (Trübner, 1870), William Maccall's Treatise on Politics (Holyoake, 1854), George Stuart Fullerton's Philosophy of Spinoza (Ethics I, II, V and extracts from III-IV; Holt, 2nd ed., 1894), Halbert Hains Britan's Principles of Descartes' Philosophy (Open Court, 1905), and A. Wolf's Short Treatise on God, Man and his Well-Being (A. and C. Black, 1910). All US public domain (published before 1930). Not taken: Hale White's Tractatus de Intellectus Emendatione (Fisher Unwin; the scan prints no year), and the 1888 Van Nostrand Ethics (no translator named in the book). No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ethic, demonstrated in geometrical order and divided into five parts (London: Trübner, 1883) | William Hale White | `spinoza-hale-white-ethic-1883` | have-raw (IA `ethicdemonstrate00spinuoft`) |
+| Tractatus Theologico-Politicus: a critical inquiry into the history, purpose, and authenticity of the Hebrew Scriptures, with an introduction and notes by the editor (London: Trübner, 1862) | Robert Willis (named on the title page of his 1870 volume, which lists this one) | `spinoza-willis-tractatus-1862` | have-raw (IA `tractatustheolog00spinuoft`) |
+| Benedict de Spinoza: his life, correspondence, and Ethics (London: Trübner, 1870) | R. Willis | `spinoza-willis-life-ethics-1870` | have-raw (IA `benedictdespinoz00willuoft`) |
+| A Treatise on Politics, translated from the Latin (London: Holyoake, 1854) | William Maccall | `spinoza-maccall-politics-1854` | have-raw (IA `atreatiseonpoli00spingoog`) |
+| The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894) | George Stuart Fullerton | `spinoza-fullerton-philosophy-1894` | have-raw (IA `philosophyofspin01spin`) |
+| The Principles of Descartes' Philosophy, translated from the Latin, with an introduction (Chicago: Open Court, 1905) | Halbert Hains Britan | `spinoza-britan-descartes-principles-1905` | have-raw (IA `cu31924029050636`) |
+| Spinoza's Short Treatise on God, Man, and his Well-Being, translated and edited, with an introduction and commentary and a life of Spinoza (London: A. and C. Black, 1910) | A. Wolf | `spinoza-wolf-short-treatise-1910` | have-raw (IA `spinozasshorttre00spin`) |
+| Ethics, part 1 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-1` | have (PG 919) |
+| Ethics, part 2 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-2` | have (PG 920) |
+| Ethics, part 3 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-3` | have (PG 948) |
+| Ethics, part 4 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-4` | have (PG 971) |
+| Ethics, part 5 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-5` | have (PG 975) |
+
+Pending (wishlist): Hale White's Tractatus de Intellectus Emendatione in a dated printing.
+
+## Leibniz in English
+
+Shelf: `pipeline/leibniz_shelf.json`. G. W. Leibniz (1646-1716) in English, translator per row, raw IA OCR: George Martin Duncan's Philosophical Works (New Haven, 1890), Alfred Gideon Langley's New Essays Concerning Human Understanding (Macmillan, 1896), Robert Latta's Monadology and Other Philosophical Writings (Oxford, 1898), George R. Montgomery's Discourse on Metaphysics, Correspondence with Arnauld and Monadology (Open Court, 1902), and Charles William Russell's System of Theology (Burns and Lambert, 1850). All US public domain. Not taken: Huggard's Theodicy (PG 17147), first published 1951 and not US public domain. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophical Works of Leibnitz, comprising the Monadology, New System of Nature, Principles of Nature and of Grace, Letters to Clarke, Refutation of Spinoza, and other opuscules, translated from the original Latin and French, with notes (New Haven: Tuttle, Morehouse and Taylor, 1890) | George Martin Duncan (his name is lost in the OCR of the title page) | `leibniz-duncan-philosophical-works-1890` | have-raw (IA `philosophicalwor00leibuoft`) |
+| New Essays Concerning Human Understanding, together with an appendix consisting of some of his shorter pieces (New York: Macmillan, 1896) | Alfred Gideon Langley | `leibniz-langley-new-essays-1896` | have-raw (IA `newessaysconcern00leibuoft`) |
+| The Monadology and Other Philosophical Writings, translated with introduction and notes (Oxford: Clarendon, 1898) | Robert Latta | `leibniz-latta-monadology-1898` | have-raw (IA `themonadology00leibuoft`) |
+| Discourse on Metaphysics, Correspondence with Arnauld, and Monadology, with an introduction by Paul Janet (Chicago: Open Court, 1902) | George R. Montgomery | `leibniz-montgomery-discourse-1902` | have-raw (IA `discourseonmetap00leibuoft`) |
+| A System of Theology, translated with an introduction and notes (London: Burns and Lambert, 1850) | Charles William Russell | `leibniz-russell-system-of-theology-1850` | have-raw (IA `a590378700leibuoft`) |
+
+## Fichte in English
+
+Shelf: `pipeline/fichte_shelf.json`. J. G. Fichte (1762-1814) in English, raw IA OCR: A. E. Kroeger's Science of Knowledge (Lippincott, 1868), New Exposition of the Science of Knowledge (St. Louis, 1869), Science of Rights (Trübner, 1889) and Science of Ethics (ed. W. T. Harris; Kegan Paul, 1897); and William Smith's Popular Works (4th ed., Trübner, 1889, 2 vols.: the Nature of the Scholar, the Vocation of the Scholar, the Vocation of Man, the Characteristics of the Present Age, the Way towards the Blessed Life, and the Outlines of the Doctrine of Knowledge, with Smith's memoir). US public domain. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Science of Knowledge, translated from the German (Philadelphia: J. B. Lippincott, 1868) | A. E. Kroeger | `fichte-kroeger-science-of-knowledge-1868` | have-raw (IA `cu31924014110682`) |
+| New Exposition of the Science of Knowledge, translated from the German (St. Louis, 1869) | A. E. Kroeger | `fichte-kroeger-new-exposition-1869` | have-raw (IA `newexposition00fichuoft`) |
+| The Science of Rights, with a preface by William T. Harris (London: Trübner, 1889) | A. E. Kroeger | `fichte-kroeger-science-of-rights-1889` | have-raw (IA `scienceofrights00fich`) |
+| The Science of Ethics as Based on the Science of Knowledge, edited by W. T. Harris (London: Kegan Paul, 1897) | A. E. Kroeger | `fichte-kroeger-science-of-ethics-1897` | have-raw (IA `cu31924020344077`) |
+| The Popular Works of Johann Gottlieb Fichte, with a memoir of the author, 4th ed., vol. I (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v1` | have-raw (IA `popularworks01fichuoft`) |
+| The Popular Works of Johann Gottlieb Fichte, 4th ed., vol. II: the Characteristics of the Present Age, the Way towards the Blessed Life, Outlines of the Doctrine of Knowledge (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v2` | have-raw (IA `popularworks02fichuoft`) |
+| Addresses to the German Nation (Chicago and London: Open Court, 1922) | R. F. Jones and G. H. Turnbull | `fichte-jones-turnbull-addresses-1922` | have-raw (IA `addressestothege00fichuoft`) |
+
+## Lotze in English
+
+Shelf: `pipeline/lotze_shelf.json`. Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). US public domain. Wanted: Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Microcosmus: an essay concerning man and his relation to the world, vol. I (Edinburgh: T. & T. Clark, 1885) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1885-v1` | have-raw (IA `microcosmusessa01lotz`) |
+| Microcosmus, vol. II (Edinburgh: T. & T. Clark, 1887) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1887-v2` | have-raw (IA `microcosmusessay02lotziala`) |
+| Logic, in three books: of thought, of investigation, and of knowledge, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1888) | Bosanquet | `lotze-bosanquet-logic-1888-v1` | have-raw (IA `logicinthreebook01lotzuoft`) |
+| Logic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1888) | Bosanquet | `lotze-bosanquet-logic-1888-v2` | have-raw (IA `logicinthreeboo02lotz`) |
+| Metaphysic, in three books: ontology, cosmology, and psychology, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1887) | Bosanquet | `lotze-bosanquet-metaphysic-1887-v1` | have-raw (IA `metaphysicinthre01lotzuoft`) |
+| Metaphysic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1887) |  | `lotze-bosanquet-metaphysic-1887-v2` | have-raw (IA `metaphysicvolii032380mbp`) |
+| Outlines of Practical Philosophy: dictated portions of the lectures (Boston: Ginn, 1885) | George T. Ladd | `lotze-ladd-practical-philosophy-1885` | have-raw (IA `outlinesofpracti00lot`) |
+| Outlines of Psychology: dictated portions of the lectures (Boston: Ginn, 1886) | George T. Ladd | `lotze-ladd-psychology-1886` | have-raw (IA `outlinesofpsycho01lotz`) |
+| Outlines of Logic and of Encyclopedia of Philosophy: dictated portions of the lectures (Boston: Ginn, 1887) | George T. Ladd | `lotze-ladd-logic-1887` | have-raw (IA `outlinesoflogic00lotzuoft`) |
+| Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885) | George T. Ladd | `lotze-ladd-philosophy-of-religion-1903` | have-raw (IA `outlinesofphilos00lotz`) |
+| Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884) | George T. Ladd | `lotze-ladd-outlines-of-metaphysic-1884` | have-raw (IA `outlinesofmetaph00lotzrich`) |
+| Outlines of Aesthetics, dictated portions of the lectures (Boston: Ginn, 1886) | George T. Ladd | `lotze-ladd-outlines-of-aesthetics-1886` | have-raw (IA `outlinesofaesthe00lotzuoft`) |
+
+## Comte in English
+
+Shelf: `pipeline/comte_shelf.json`. Auguste Comte (1798-1857) in English, raw IA OCR: The Positive Philosophy, freely translated and condensed by Harriet Martineau, introduction by Frederic Harrison (Bohn's Philosophical Library, 1896, 3 vols.); System of Positive Polity (Longmans, 1875-1877, 4 vols.; vol. I tr. J. H. Bridges, vol. II Frederic Harrison, vol. III E. S. Beesly with Samuel Lobb, Fanny Hertz, Bridges and Vernon and Godfrey Lushington, vol. IV Richard Congreve); and Congreve's Catechism of Positive Religion (London: John Chapman, 1858). US public domain. Bridges's General View of Positivism (PG 53799) is on singles-ideas-2, and Gillespie's Philosophy of Mathematics (PG 39702) on singles-science-craft; neither is taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Positive Philosophy of Auguste Comte, freely translated and condensed, vol. I (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v1` | have-raw (IA `positivephilosop01comt`) |
+| The Positive Philosophy of Auguste Comte, vol. II (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v2` | have-raw (IA `positivephilosop02comt`) |
+| The Positive Philosophy of Auguste Comte, vol. III (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v3` | have-raw (IA `positivephilosop03comt`) |
+| System of Positive Polity, vol. I: the General View of Positivism and introductory principles (London: Longmans, Green, 1875) | John Henry Bridges | `comte-polity-1875-v1` | have-raw (IA `cu31924092570591`) |
+| System of Positive Polity, vol. II: social statics, or the abstract theory of human order (London: Longmans, Green, 1875) | Frederic Harrison | `comte-polity-1875-v2` | have-raw (IA `cu31924092570609`) |
+| System of Positive Polity, vol. III: social dynamics (London: Longmans, Green, 1876) | Edward Spencer Beesly and others | `comte-polity-1876-v3` | have-raw (IA `cu31924092570617`) |
+| System of Positive Polity, vol. IV: the theory of the future of man, with an appendix of early essays (London: Longmans, Green, 1877) | Richard Congreve | `comte-polity-1877-v4` | have-raw (IA `cu31924092570625`) |
+| The Catechism of Positive Religion, translated from the French (London: John Chapman, MDCCCLVIII) | Richard Congreve | `comte-congreve-catechism-1858` | have-raw (IA `catechismofposit00comt`) |
+
+## John Stuart Mill
+
+Shelf: `pipeline/john-stuart-mill_shelf.json`. On Liberty and Utilitarianism are on the Adler shelf.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| A System of Logic, Ratiocinative and Inductive, 8th ed. (New York: Harper, 1882) |  | `mill-system-of-logic-1882` | have (PG 27942) |
+| Considerations on Representative Government (the etext does not name its printing) |  | `mill-representative-government` | have (PG 5669) |
+| Autobiography (the etext does not name its printing; bracketed passages not in all editions) |  | `mill-autobiography` | have (PG 10378) |
+| Essays on Some Unsettled Questions of Political Economy (1844) |  | `mill-unsettled-questions-1844` | have (PG 12004) |
+| The Subjection of Women (London: Longmans, Green, Reader, and Dyer, 1869) |  | `mill-subjection-of-women-1869` | have (PG 27083) |
+| Socialism, with a preliminary notice by Helen Taylor (Chicago: Belford, Clarke, 1879) |  | `mill-socialism-1879` | have (PG 38138) |
+| Auguste Comte and Positivism (1865; the etext names no printing) |  | `mill-auguste-comte-positivism-1865` | have (PG 16833) |
+| The Contest in America, reprinted from Fraser's Magazine (1862; the etext names no printing) |  | `mill-contest-in-america-1862` | have (PG 5123) |
+| An Examination of Sir William Hamilton's Philosophy, vol. I (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v1` | have-raw (IA `anexaminationofs01millrich`) |
+| An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v2` | have-raw (IA `anexaminationsi06millgoog`) |
+| Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874) |  | `mill-three-essays-on-religion-1874` | have-raw (IA `cu31924020335620`) |
+| Principles of Political Economy, with some of their applications to social philosophy (London: George Routledge, 1900) |  | `mill-principles-of-political-economy-1900` | have-raw (IA `principlesofpoli00milliala`) |
+
+## Herbert Spencer
+
+Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900), the Data of Ethics and the 1891 Essays.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Data of Ethics (New York: A. L. Burt, n.d.; preface dated 1879) |  | `spencer-data-of-ethics` | have (PG 46129) |
+| Essays: Scientific, Political, and Speculative, library edition, vol. I (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v1` | have (PG 29869) |
+| Essays: Scientific, Political, and Speculative, vol. II (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v2` | have (PG 53395) |
+| Essays: Scientific, Political, and Speculative, vol. III (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v3` | have (PG 54076) |
+| First Principles, 6th ed. (New York: D. Appleton, 1900) |  | `spencer-first-principles-1900` | have-raw (IA `cu31924029047608`) |
+| The Principles of Psychology, vol. I (New York: D. Appleton, 1905) |  | `spencer-principles-of-psychology-1905-v1` | have-raw (IA `principlespsycho01speniala`) |
+| The Principles of Psychology, vol. II (New York: D. Appleton, 1905) |  | `spencer-principles-of-psychology-1905-v2` | have-raw (IA `principlespsycho02speniala`) |
+| The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing) |  | `spencer-principles-of-biology-rev-v1` | have-raw (IA `principlesofbiol01spenuoft`) |
+| The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing) |  | `spencer-principles-of-biology-rev-v2` | have-raw (IA `principlesofbiol02spenuoft`) |
+| The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing) |  | `spencer-principles-of-ethics-v1` | have-raw (IA `principlesofethi01speniala`) |
+| The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing) |  | `spencer-principles-of-ethics-v2` | have-raw (IA `principlesofethi02speniala`) |
+| The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing) |  | `spencer-principles-of-sociology-v1` | have-raw (IA `principlessocio30spengoog`) |
+| The Principles of Sociology, vol. II (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v2` | have-raw (IA `principlesofsoci02spen_0`) |
+| The Principles of Sociology, vol. III (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v3` | have-raw (IA `prinsocial03spenuoft`) |
+| First Principles, first edition (Williams and Norgate, 1863) |  | `spencer-first-principles-pg` | have (PG 55046) |
+| The Philosophy of Style |  | `spencer-philosophy-of-style` | have (PG 5849) |
+| Essays on Education and Kindred Subjects (Everyman, introduction by C. W. Eliot) |  | `spencer-essays-on-education` | have (PG 16510) |
+| The Right to Ignore the State |  | `spencer-right-to-ignore-the-state` | have (PG 34649) |
+| Illustrations of Universal Progress (1864) |  | `spencer-illustrations-universal-progress` | have (PG 39977) |
+| The Factors of Organic Evolution (1887) |  | `spencer-factors-of-organic-evolution` | have (PG 52801) |
+
+## William Godwin
+
+Shelf: `pipeline/william-godwin_shelf.json`. Political Justice (1793) and Thoughts on Man (1831).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Thoughts on Man, his Nature, Productions and Discoveries (London: Effingham Wilson, 1831) |  | `godwin-thoughts-on-man-1831` | have (PG 743) |
+| An Enquiry Concerning Political Justice, and its Influence on General Virtue and Happiness, vol. I (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v1` | have-raw (IA `enquiryconcernin01godw`) |
+| An Enquiry Concerning Political Justice, vol. II (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v2` | have-raw (IA `enquiryconcernin02godw`) |
+| Four Early Pamphlets (1783-1784) |  | `godwin-four-early-pamphlets` | have (PG 10597) |
+| Memoirs of the Author of A Vindication of the Rights of Woman (1798) |  | `godwin-memoirs-of-wollstonecraft` | have (PG 16199) |
+| Lives of the Necromancers (1834) |  | `godwin-lives-of-the-necromancers` | have (PG 7082) |
+
+## Malebranche in English
+
+Shelf: `pipeline/malebranche_shelf.json`. Taylor (1700) and Ginsberg (1923).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Father Malebranche his Treatise concerning the Search after Truth, the whole work complete, 2nd ed., corrected (London, 1700) | T. Taylor | `malebranche-taylor-search-after-truth-1700` | have-raw (IA `fathermalebranch00male`) |
+| Dialogues on Metaphysics and on Religion, translated with an introduction (London: Allen and Unwin, 1923) | Morris Ginsberg | `malebranche-ginsberg-dialogues-1923` | have-raw (IA `dialoguesonmetap00male`) |
+
+## The Port-Royal Logic
+
+Shelf: `pipeline/port-royal-logic_shelf.json`. Arnauld and Nicole, tr. Baynes (1850).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Port-Royal Logic (Logic, or the Art of Thinking), translated from the French, with an introduction (Edinburgh, 1850) | Thomas Spencer Baynes | `port-royal-baynes-art-of-thinking-1850` | have-raw (IA `artofthinking00arnauoft`) |
+
+## Shaftesbury
+
+Shelf: `pipeline/shaftesbury_shelf.json`. Characteristics, ed. Robertson (1900).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Characteristics of Men, Manners, Opinions, Times, etc., vol. I (London: Grant Richards, 1900) | Robertson | `shaftesbury-robertson-characteristics-1900-v1` | have-raw (IA `characteristicso01shafiala`) |
+| Characteristics of Men, Manners, Opinions, Times, etc., vol. II (London: Grant Richards, 1900) | Robertson | `shaftesbury-robertson-characteristics-1900-v2` | have-raw (IA `characteristicso02shaf`) |
+
+## Thomas Reid
+
+Shelf: `pipeline/thomas-reid_shelf.json`. Works, ed. Hamilton, 8th ed. (1880).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Works of Thomas Reid, now fully collected, 8th ed., vol. I (Edinburgh, 1880) | Hamilton | `reid-hamilton-works-1880-v1` | have-raw (IA `worksnowfullycol01reiduoft`) |
+| The Works of Thomas Reid, 8th ed., vol. II (Edinburgh, 1880) | Hamilton | `reid-hamilton-works-1880-v2` | have-raw (IA `worksnowfullyco02reiduoft`) |
+
+## Herder in English
+
+Shelf: `pipeline/herder_shelf.json`. Marsh's Spirit of Hebrew Poetry (1833).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Spirit of Hebrew Poetry, vol. I (Burlington: Edward Smith, 1833) | James Marsh | `herder-marsh-hebrew-poetry-1833-v1` | have-raw (IA `spiritofhebrewpo01herd`) |
+| The Spirit of Hebrew Poetry, vol. II (Burlington: Edward Smith, 1833) | James Marsh | `herder-marsh-hebrew-poetry-1833-v2` | have-raw (IA `spirithebrewpoe02marsgoog`) |
+| Outlines of a Philosophy of the History of Man (London: J. Johnson, 1800) | T. Churchill | `herder-churchill-outlines-1800` | have-raw (IA `b22010282`) |
+
+## Adam Smith
+
+Shelf: `pipeline/adam-smith_shelf.json`. The Wealth of Nations is on the Adler and smith-wealth shelves.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Theory of Moral Sentiments, 6th ed., to which is added a Dissertation on the Origin of Languages (Dublin: J. Beatty and C. Jackson, 1777) |  | `smith-moral-sentiments-1777` | have (PG 67363) |
+| The Essays of Adam Smith (London: Alex. Murray, 1872) |  | `smith-essays-1872` | have (PG 58559) |
+
+## Adam Ferguson
+
+Shelf: `pipeline/adam-ferguson_shelf.json`. History of Civil Society, 8th ed.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| An Essay on the History of Civil Society, 8th ed. (year not printed in the etext) |  | `ferguson-civil-society-8th-ed` | have (PG 8646) |
+
+## Mandeville
+
+Shelf: `pipeline/mandeville_shelf.json`. The Fable of the Bees (1806).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Fable of the Bees; or, Private Vices, Public Benefits (London: T. Ostell; Edinburgh: Mundell and Son, 1806) |  | `mandeville-fable-of-the-bees-1806` | have (PG 57260) |
+| An Enquiry into the Origin of Honour and the Usefulness of Christianity in War (1732; the etext names no printing) |  | `mandeville-origin-of-honour` | have (PG 7819) |
+
+## Henry Sidgwick
+
+Shelf: `pipeline/henry-sidgwick_shelf.json`. The Methods of Ethics, 7th ed. (1907), with the History of Ethics, the political economy and politics, the addresses, and the posthumous lecture volumes (1883-1905).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Methods of Ethics, 7th ed. (London: Macmillan, 1907) |  | `sidgwick-methods-of-ethics-1907` | have (PG 46743) |
+| Outlines of the History of Ethics for English Readers (5th ed., 1902) |  | `sidgwick-outlines-history-of-ethics-1902` | have-raw (IA `outlinesofhistor0000sidg_u0l5`) |
+| The Principles of Political Economy (1883) |  | `sidgwick-principles-political-economy-1883` | have-raw (IA `principlesofpoli0000sidg`) |
+| The Elements of Politics (2nd ed., 1897) |  | `sidgwick-elements-of-politics-1897` | have-raw (IA `theelementsofpol00sidguoft`) |
+| Practical Ethics: A Collection of Addresses and Essays (1897) |  | `sidgwick-practical-ethics-1897` | have-raw (IA `practicalethics00sidguoft`) |
+| Philosophy, its Scope and Relations (1902, ed. James Ward) |  | `sidgwick-philosophy-scope-relations-1902` | have-raw (IA `philosophyitssc00wardgoog`) |
+| Lectures on the Ethics of T. H. Green, Mr. Herbert Spencer, and J. Martineau (1902) |  | `sidgwick-lectures-ethics-green-spencer-martineau-1902` | have-raw (IA `lecturesonethics00sidg`) |
+| The Development of European Polity (1903) |  | `sidgwick-development-european-polity-1903` | have-raw (IA `thedevelopmentof00sidguoft`) |
+| Miscellaneous Essays and Addresses (1904) |  | `sidgwick-miscellaneous-essays-1904` | have-raw (IA `miscellaneouses00sidggoog`) |
+| Lectures on the Philosophy of Kant and Other Philosophical Lectures and Essays (1905, ed. James Ward) |  | `sidgwick-lectures-philosophy-kant-1905` | have-raw (IA `lecturesonphilo00sidguoft`) |
+
+## Jeremy Bentham
+
+Shelf: `pipeline/jeremy-bentham_shelf.json`. Principles of Morals and Legislation (Clarendon, 1907).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| An Introduction to the Principles of Morals and Legislation, new edition, corrected by the author (Oxford: Clarendon Press, 1907) |  | `bentham-principles-of-morals-1907` | have-raw (IA `anintroductiont08bentgoog`) |
+| A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891) |  | `bentham-fragment-on-government-1891` | have-raw (IA `afragmentongover00bentuoft`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. I (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v1` | have-raw (IA `rationalejudici06bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. II (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v2` | have-raw (IA `rationalejudici00bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. III (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v3` | have-raw (IA `rationalejudici01bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. IV (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v4` | have-raw (IA `rationalejudici04bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. V (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v5` | have-raw (IA `rationalejudici02bentgoog`) |
+
+## T. H. Green
+
+Shelf: `pipeline/thomas-hill-green_shelf.json`. Works, ed. Nettleship (1885-1888), and the Prolegomena to Ethics (1890).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Works of Thomas Hill Green, vol. I: philosophical works (London: Longmans, Green, 1885) | Nettleship | `green-nettleship-works-1885-v1` | have-raw (IA `worksofthomashil01greeiala`) |
+| Works of Thomas Hill Green, vol. II: philosophical works, fifth impression (London: Longmans, Green, 1906) | Nettleship | `green-nettleship-works-1906-v2` | have-raw (IA `worksofthomashil02greeiala`) |
+| Works of Thomas Hill Green, vol. III: miscellanies and memoir (London: Longmans, Green, 1888) | Nettleship | `green-nettleship-works-1888-v3` | have-raw (IA `worksofthomashil03greeiala`) |
+| Prolegomena to Ethics, 3rd ed. (Oxford: Clarendon, 1890) | Bradley | `green-bradley-prolegomena-1890` | have-raw (IA `prolegomenatoeth00greeuoft`) |
+
+## F. H. Bradley
+
+Shelf: `pipeline/f-h-bradley_shelf.json`. Ethical Studies, Principles of Logic, Appearance and Reality.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Ethical Studies (1876; anastatic reprint, New York: G. E. Stechert, 1904) |  | `bradley-ethical-studies-1876` | have-raw (IA `ethicalstudies00bradgoog`) |
+| The Principles of Logic (London: Kegan Paul, Trench, 1883) |  | `bradley-principles-of-logic-1883` | have-raw (IA `principleslogic00bradgoog`) |
+| Appearance and Reality: a metaphysical essay, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908) |  | `bradley-appearance-and-reality-1908` | have-raw (IA `appearanceandre01bradgoog`) |
+| Essays on Truth and Reality (Oxford: Clarendon Press, 1914; raw IA OCR, clean 0.94; not taken: a lithographic reprint of 1944 and later) |  | `bradley-essays-truth-reality-1914` | have-raw (IA `cu31924016877239`) |
+
+## Bernard Bosanquet
+
+Shelf: `pipeline/bernard-bosanquet_shelf.json`. His own works; his Lotze and Hegel are on those shelves.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Essentials of Logic, ten lectures on judgment and inference (London and New York: Macmillan, 1895) |  | `bosanquet-essentials-of-logic-1895` | have (PG 63598) |
+| The Philosophical Theory of the State (London: Macmillan, 1899) |  | `bosanquet-theory-of-the-state-1899` | have-raw (IA `philosophicalthe00bosaiala`) |
+| A History of Aesthetic (London: Swan Sonnenschein, 1892) |  | `bosanquet-history-of-aesthetic-1892` | have-raw (IA `historyofsthetic00bosa`) |
+| Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885) |  | `bosanquet-knowledge-and-reality-1885` | have-raw (IA `knowledgereality00bosa`) |
+| The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912) |  | `bosanquet-individuality-and-value-1912` | have-raw (IA `principleofind00bosauoft`) |
+| Logic, or the Morphology of Knowledge, 2nd ed., vol. I (Oxford: Clarendon Press, 1911) |  | `bosanquet-logic-2nd-ed-1911-v1` | have-raw (IA `logicormorpholog01bosaiala`) |
+| Logic, or the Morphology of Knowledge, 2nd ed., vol. II (Oxford: Clarendon Press, 1911) |  | `bosanquet-logic-2nd-ed-1911-v2` | have-raw (IA `logicormorpholog02bosaiala`) |
+
+## Ralph Cudworth
+
+Shelf: `pipeline/ralph-cudworth_shelf.json`. The True Intellectual System, Harrison's 1845 edition.
+
+| Work | Translator (Mosheim's notes) | Slug | Status |
+|---|---|---|---|
+| The True Intellectual System of the Universe, with the notes and dissertations of J. L. Mosheim, vol. I (London: Thomas Tegg, 1845) | Harrison | `cudworth-harrison-intellectual-system-1845-v1` | have-raw (IA `trueintellectua03moshgoog`) |
+| The True Intellectual System of the Universe, vol. II (London: Thomas Tegg, 1845) | Harrison | `cudworth-harrison-intellectual-system-1845-v2` | have-raw (IA `trueintellectual02cudwuoft`) |
+| The True Intellectual System of the Universe, vol. III, with the Treatise concerning Eternal and Immutable Morality and the general index (London: Thomas Tegg, 1845) | Harrison | `cudworth-harrison-intellectual-system-1845-v3` | have-raw (IA `trueintellectual0003ralp`) |
+
+## Richard Price
+
+Shelf: `pipeline/richard-price_shelf.json`. Review of Morals, 2nd ed. (1769).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Two Tracts on Civil Liberty, the War with America, and the Debts and Finances of the Kingdom (London: T. Cadell, 1778) |  | `price-two-tracts-civil-liberty-1778` | have (PG 57970) |
+| A Review of the Principal Questions and Difficulties in Morals (London: T. Cadell, 1769) |  | `price-review-of-morals-1769` | have-raw (IA `reviewofprincip00pric`) |
+
+## Francis Hutcheson
+
+Shelf: `pipeline/francis-hutcheson_shelf.json`. Inquiry (1726), Essay on the Passions (1728), System of Moral Philosophy (1755).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| An Inquiry into the Original of our Ideas of Beauty and Virtue, in two treatises (London: J. Darby and others, 1726) |  | `hutcheson-inquiry-beauty-virtue-1726` | have-raw (IA `inquiryintoorigi1726hutc`) |
+| An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense (London: J. Darby and T. Browne, 1728) |  | `hutcheson-passions-and-affections-1728` | have-raw (IA `essayonnaturecon00hutciala`) |
+| A System of Moral Philosophy, in three books, vol. I (Glasgow: R. and A. Foulis, 1755) |  | `hutcheson-system-of-moral-philosophy-1755-v1` | have-raw (IA `systemmoralphilo01hutc`) |
+| A System of Moral Philosophy, vol. II (Glasgow: R. and A. Foulis, 1755) |  | `hutcheson-system-of-moral-philosophy-1755-v2` | have-raw (IA `systemmoralphilo02hutc`) |
+
+## Helvétius in English
+
+Shelf: `pipeline/helvetius_shelf.json`. De l'Esprit, the first English translation (1759).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| De l'Esprit, or Essays on the Mind and its Several Faculties, translated from the French (London: printed for the translator, 1759) | anonymous | `helvetius-de-l-esprit-1759` | have-raw (IA `b30416474`) |
+
+## John Dewey
+
+Shelf: `pipeline/john-dewey_shelf.json`. Twenty-nine volumes, 1888-1930, US public domain.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Outlines of a Critical Theory of Ethics (Ann Arbor: Register Publishing, 1891) |  | `dewey-critical-theory-of-ethics-1891` | have (PG 60422) |
+| Leibniz's New Essays Concerning the Human Understanding: a critical exposition (Chicago: Scott, Foresman, 1902; copyright 1888) |  | `dewey-leibniz-new-essays-1902` | have (PG 40957) |
+| The School and Society, second impression (Chicago: University of Chicago Press, 1900) |  | `dewey-school-and-society-1900` | have (PG 53910) |
+| Psychology and Social Practice (Chicago: University of Chicago Press, 1901) |  | `dewey-psychology-and-social-practice-1901` | have (PG 40744) |
+| Studies in Logical Theory (Chicago: University of Chicago Press, 1903) |  | `dewey-studies-in-logical-theory-1903` | have (PG 40665) |
+| Moral Principles in Education (Boston: Houghton Mifflin, 1909) |  | `dewey-moral-principles-in-education-1909` | have (PG 25172) |
+| How We Think (Boston: D. C. Heath, 1910) |  | `dewey-how-we-think-1910` | have (PG 37423) |
+| The Influence of Darwin on Philosophy, and other essays in contemporary thought (New York: Henry Holt, 1910) |  | `dewey-influence-of-darwin-1910` | have (PG 51525) |
+| German Philosophy and Politics (New York: Henry Holt, 1915) |  | `dewey-german-philosophy-and-politics-1915` | have (PG 42208) |
+| Schools of To-morrow, with Evelyn Dewey (New York: E. P. Dutton, 1915) |  | `dewey-schools-of-to-morrow-1915` | have (PG 48906) |
+| Essays in Experimental Logic (Chicago: University of Chicago Press, 1916) |  | `dewey-essays-in-experimental-logic-1916` | have (PG 40794) |
+| Democracy and Education: an introduction to the philosophy of education (1916; the etext names no printing) |  | `dewey-democracy-and-education` | have (PG 852) |
+| Creative Intelligence: essays in the pragmatic attitude, by John Dewey and others (New York: Henry Holt, 1917) |  | `dewey-creative-intelligence-1917` | have (PG 33727) |
+| Reconstruction in Philosophy (New York: Henry Holt, 1920) |  | `dewey-reconstruction-in-philosophy-1920` | have (PG 40089) |
+| Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922) |  | `dewey-human-nature-and-conduct-1922` | have (PG 41386) |
+| Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908) |  | `dewey-tufts-ethics-1909` | have-raw (IA `ethicsdew00deweuoft`) |
+| The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930) |  | `dewey-child-and-the-curriculum-1930` | have-raw (IA `childcurriculum00dewe`) |
+| Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95) |  | `dewey-experience-and-nature-1929` | have-raw (IA `experienceandnat029343mbp`) |
+| The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94) |  | `dewey-quest-for-certainty-1929` | have-raw (IA `questforcertaint032529mbp`) |
+| Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93) |  | `dewey-individualism-old-and-new-1930` | have-raw (IA `individu00dewe`) |
+| Psychology, 3rd revised ed. (Harper, 1894; copyright 1886, 1891) |  | `dewey-psychology-1894` | have-raw (IA `psychology01dewe`) |
+| The Psychology of Number and its Applications to Methods of Teaching Arithmetic, with James A. McLellan (Appleton, 1895) |  | `dewey-mclellan-psychology-of-number-1895` | have-raw (IA `psychologyofnumb00mcleuoft`) |
+| The Educational Situation (University of Chicago Press, 1902) |  | `dewey-educational-situation-1902` | have-raw (IA `educationalsitua00dewerich`) |
+| Interest and Effort in Education (Houghton Mifflin, copyright 1913) |  | `dewey-interest-and-effort-1913` | have-raw (IA `interesteffortin00dewe`) |
+| Letters from China and Japan, with Alice Chipman Dewey, ed. Evelyn Dewey (Dutton, 1920) |  | `dewey-letters-from-china-and-japan-1920` | have-raw (IA `lettersfromchina00deweuoft`) |
+| Characters and Events, ed. Joseph Ratner, vol. I (Holt, 1929) |  | `dewey-characters-and-events-1929-v1` | have-raw (IA `charactersevents0001john`) |
+| Characters and Events, ed. Joseph Ratner, vol. II (Holt, 1929) |  | `dewey-characters-and-events-1929-v2` | have-raw (IA `charactersevents0002john`) |
+| Impressions of Soviet Russia and the Revolutionary World (New Republic, 1929) |  | `dewey-impressions-of-soviet-russia-1929` | have-raw (IA `in.ernet.dli.2015.169066`) |
+| The Sources of a Science of Education (Horace Liveright, 1929) |  | `dewey-sources-of-a-science-of-education-1929` | have-raw (IA `sourcesofscience00dewe`) |
+
+Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing (both IA scans checked in round al are Swallow reprints)
+
+## George Santayana
+
+Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Sense of Beauty: being the outlines of aesthetic theory (New York: Scribner, 1896) |  | `santayana-sense-of-beauty-1896` | have (PG 26842) |
+| Interpretations of Poetry and Religion (New York: Scribner, 1900) |  | `santayana-interpretations-of-poetry-and-religion-1900` | have (PG 48563) |
+| The Life of Reason, or the Phases of Human Progress, 5 vols. (1905-1906; the etext names no printing) |  | `santayana-life-of-reason` | have (PG 15000) |
+| Three Philosophical Poets: Lucretius, Dante, and Goethe (Cambridge: Harvard University, 1910) |  | `santayana-three-philosophical-poets-1910` | have (PG 35612) |
+| Winds of Doctrine: studies in contemporary opinion (New York: Scribner, 1913) |  | `santayana-winds-of-doctrine-1913` | have (PG 17771) |
+| Egotism in German Philosophy (London: Dent; New York: Scribner, 1916) |  | `santayana-egotism-in-german-philosophy-1916` | have (PG 48431) |
+| Character and Opinion in the United States (New York: Scribner, 1921) |  | `santayana-character-and-opinion-1921` | have (PG 34654) |
+| Soliloquies in England, and Later Soliloquies (New York: Scribner, 1922) |  | `santayana-soliloquies-in-england-1922` | have (PG 48429) |
+| Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929) |  | `santayana-scepticism-and-animal-faith-1923` | have (PG 77155) |
+| Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94) |  | `santayana-dialogues-in-limbo-1925` | have-raw (IA `dialoguesinlimbo014715mbp`) |
+| The Realm of Essence (Scribner's, 1927) |  | `santayana-realm-of-essence-1927` | have-raw (IA `realmofessencebo0000sant`) |
+| Platonism and the Spiritual Life (Scribner's, 1927) |  | `santayana-platonism-spiritual-life-1927` | have-raw (IA `platonismspiritu00sant`) |
+| The Realm of Matter (Scribner's, 1930) |  | `santayana-realm-of-matter-1930` | have-raw (IA `dli.ernet.12190`) |
+
+## Josiah Royce
+
+Shelf: `pipeline/josiah-royce_shelf.json`. Eighteen volumes, 1885-1920.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Sources of Religious Insight (New York: Scribner, 1912) |  | `royce-sources-of-religious-insight-1912` | have (PG 33677) |
+| The Religious Aspect of Philosophy: a critique of the bases of conduct and of faith (Boston: Houghton, Mifflin; copyright 1885) |  | `royce-religious-aspect-of-philosophy-1885` | have-raw (IA `thereligiousaspe00roycuoft`) |
+| The Spirit of Modern Philosophy: an essay in the form of lectures (Boston: Houghton, Mifflin; copyright 1892) |  | `royce-spirit-of-modern-philosophy-1892` | have-raw (IA `cu31924032323101`) |
+| The World and the Individual, Gifford Lectures, first series: the four historical conceptions of being (New York: Macmillan, 1900) |  | `royce-world-and-individual-1900-v1` | have-raw (IA `worldandindivid01roycgoog`) |
+| The World and the Individual, second series: nature, man, and the moral order (New York: Macmillan, 1901) |  | `royce-world-and-individual-1901-v2` | have-raw (IA `theworldandthein02roycuoft`) |
+| The Philosophy of Loyalty (New York: Macmillan, 1908) |  | `royce-philosophy-of-loyalty-1908` | have-raw (IA `philosophyloyal00roycuoft`) |
+| The Problem of Christianity, vol. I: the Christian doctrine of life (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v1` | have-raw (IA `problemofchris01roycuoft`) |
+| The Problem of Christianity, vol. II: the real world and the Christian ideas (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v2` | have-raw (IA `theproblemofchri02roycuoft`) |
+| The Conception of God, a philosophical discussion, with Joseph LeConte, G. H. Howison and Sidney Edward Mezes (Macmillan, 1897) |  | `royce-conception-of-god-1897` | have-raw (IA `cu31924029373028`) |
+| Studies of Good and Evil (Appleton, 1898) |  | `royce-studies-of-good-and-evil-1898` | have-raw (IA `studiesofgoodevi00royc`) |
+| The Conception of Immortality, Ingersoll lecture 1899 (Houghton Mifflin, 1900) |  | `royce-conception-of-immortality-1900` | have-raw (IA `conceptionofimmo0000josi_v9o7`) |
+| Outlines of Psychology (Macmillan, 1903; printing of 1906) |  | `royce-outlines-of-psychology-1903` | have-raw (IA `outlinespsychol04roycgoog`) |
+| Race Questions, Provincialism, and Other American Problems (Macmillan, 1908) |  | `royce-race-questions-1908` | have-raw (IA `racequestionspro00roycuoft`) |
+| William James and Other Essays on the Philosophy of Life (Macmillan, 1911) |  | `royce-william-james-and-other-essays-1911` | have-raw (IA `williamjamesothe00royc`) |
+| War and Insurance (Macmillan, 1914) |  | `royce-war-and-insurance-1914` | have-raw (IA `cu31924030239184`) |
+| The Hope of the Great Community (Macmillan, 1916) |  | `royce-hope-of-the-great-community-1916` | have-raw (IA `hopeofgreatcommu00royc`) |
+| Lectures on Modern Idealism, ed. J. Loewenberg (Yale University Press, 1919) |  | `royce-lectures-on-modern-idealism-1919` | have-raw (IA `lecturesonmodern00roy`) |
+| Fugitive Essays, ed. J. Loewenberg (Harvard University Press, 1920) |  | `royce-fugitive-essays-1920` | have-raw (IA `fugitiveessays00loewgoog`) |
+
+## Charles S. Peirce
+
+Shelf: `pipeline/charles-s-peirce_shelf.json`. Chance, Love, and Logic, ed. Cohen (1923).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Chance, Love, and Logic: philosophical essays, ed. Morris R. Cohen (New York: Harcourt, Brace, 1923) |  | `peirce-chance-love-and-logic-1923` | have (PG 65274) |
+
+## James Mill
+
+Shelf: `pipeline/james-mill_shelf.json`. Analysis of the Phenomena of the Human Mind, ed. J. S. Mill (1878), 2 vols.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Analysis of the Phenomena of the Human Mind, ed. J. S. Mill, 2nd ed., vol. I (London: Longmans, 1878) |  | `james-mill-analysis-of-the-mind-1878-v1` | have (PG 56441) |
+| Analysis of the Phenomena of the Human Mind, ed. J. S. Mill, 2nd ed., vol. II (London: Longmans, 1878) |  | `james-mill-analysis-of-the-mind-1878-v2` | have-raw (IA `cu31924092298383`) |
+
+## Schiller's philosophical essays
+
+Shelf: `pipeline/schiller-essays_shelf.json`. Aesthetical and Philosophical Essays (1899).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Aesthetical and Philosophical Essays, library edition (New York: Publishers Plate Renting Co., 1899) |  | `schiller-aesthetical-philosophical-essays-1899` | have (PG 70669) |
+
+## Pascal in English
+
+Shelf: `pipeline/blaise-pascal_shelf.json`. M'Crie's Provincial Letters (1856); the Pensées are on the Adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Provincial Letters (New York: Robert Carter and Brothers, 1856) | Thomas M'Crie | `pascal-mcrie-provincial-letters-1856` | have (PG 73959) |
+
+## Marx and Engels in English
+
+Shelf: `pipeline/marx-engels_shelf.json`. Kerr's Chicago translations and Eleanor Marx Aveling's editions; the Manifesto and Capital are on the Adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Feuerbach: the roots of the socialist philosophy (Chicago: Charles H. Kerr, 1903) | Austin Lewis | `engels-lewis-feuerbach-1903` | have (PG 27814) |
+| Landmarks of Scientific Socialism: "Anti-Duehring" (Chicago: Charles H. Kerr, 1907) | Austin Lewis | `engels-lewis-anti-duehring-1907` | have (PG 31933) |
+| Revolution and Counter-Revolution, or Germany in 1848, ed. Eleanor Marx Aveling (Chicago: Charles H. Kerr, 1912) |  | `marx-revolution-and-counter-revolution-1912` | have (PG 32966) |
+| Secret Diplomatic History of the Eighteenth Century, ed. Eleanor Marx Aveling (London: Swan Sonnenschein, 1899) |  | `marx-secret-diplomatic-history-1899` | have (PG 32370) |
+
+## William James
+
+Shelf: `pipeline/william-james-works_shelf.json`. Eight works beside the reading-lists william-james shelf (Varieties, Pragmatism).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Psychology: Briefer Course (London: Macmillan, 1892) |  | `james-psychology-briefer-course-1892` | have (PG 55262) |
+| The Principles of Psychology, vol. II (New York: Henry Holt, 1918) |  | `james-principles-of-psychology-v2-1918` | have (PG 57634) |
+| The Will to Believe, and Other Essays in Popular Philosophy, new impression (New York: Longmans, Green, 1912; first ed. 1897) |  | `james-will-to-believe-1912` | have (PG 26659) |
+| Talks to Teachers on Psychology, and to Students on Some of Life's Ideals (New York: Henry Holt, 1925; copyright 1899) |  | `james-talks-to-teachers-1925` | have (PG 16287) |
+| The Meaning of Truth: a sequel to 'Pragmatism' (1909; preface dated August 1909) |  | `james-meaning-of-truth-1909` | have (PG 5117) |
+| A Pluralistic Universe: Hibbert Lectures on the present situation in philosophy (1909) |  | `james-pluralistic-universe-1909` | have (PG 11984) |
+| Memories and Studies (New York: Longmans, Green, 1911) |  | `james-memories-and-studies-1911` | have (PG 20768) |
+| Essays in Radical Empiricism, ed. Ralph Barton Perry (New York: Longmans, Green, 1912) |  | `james-radical-empiricism-1912` | have (PG 32547) |
+
+## Sir William Hamilton
+
+Shelf: `pipeline/sir-william-hamilton_shelf.json`. Lectures on Metaphysics and Logic, American edition (1859-1860).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Lectures on Metaphysics and Logic, ed. H. L. Mansel and John Veitch, vol. I: Metaphysics (Boston: Gould and Lincoln, 1859) | Veitch | `hamilton-lectures-metaphysics-1859` | have-raw (IA `hamiltonslectur01hamiuoft`) |
+| Lectures on Metaphysics and Logic, vol. II: Logic (Boston: Gould and Lincoln, 1860) | Veitch | `hamilton-lectures-logic-1860` | have-raw (IA `hamiltonslecture02hamiuoft`) |
+
+## Dugald Stewart
+
+Shelf: `pipeline/dugald-stewart_shelf.json`. Elements of the Philosophy of the Human Mind, Collected Works vols. II-IV (1854).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. II: Elements of the Philosophy of the Human Mind, vol. I (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v2` | have-raw (IA `collectedworksof02unse_0`) |
+| The Collected Works of Dugald Stewart, vol. III: Elements, vol. II (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v3` | have-raw (IA `collectedworksof03stew`) |
+| The Collected Works of Dugald Stewart, vol. IV: Elements, vol. III (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v4` | have-raw (IA `collectedworksof04stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. I: Dissertation on the Progress of Metaphysical, Ethical and Political Philosophy (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v1` | have-raw (IA `collectedworksof01stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. V: Philosophical Essays (Edinburgh: Thomas Constable; year garbled in the OCR, 1855 inferred) |  | `stewart-hamilton-works-1855-v5` | have-raw (IA `collectedworksof05stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VI: The Philosophy of the Active and Moral Powers, books I-II (Edinburgh: Thomas Constable, 1855) |  | `stewart-hamilton-works-1855-v6` | have-raw (IA `collectedworksof06stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VII: The Philosophy of the Active and Moral Powers, books III-IV (Edinburgh: Thomas Constable; Boston: Little, Brown, 1855) |  | `stewart-hamilton-works-1855-v7` | have-raw (IA `collectedworksof07unse_0`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VIII: Lectures on Political Economy, vol. I (Edinburgh: Thomas Constable, 1855) |  | `stewart-hamilton-works-1855-v8` | have-raw (IA `collectedworksof08stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. IX: Lectures on Political Economy, vol. II (Edinburgh: Thomas Constable, 1856) |  | `stewart-hamilton-works-1856-v9` | have-raw (IA `collectedworksof09stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. X: Biographical Memoirs of Adam Smith, William Robertson and Thomas Reid, with John Veitch's Memoir of Stewart (Edinburgh: Thomas Constable, 1858) |  | `stewart-hamilton-works-1858-v10` | have-raw (IA `collectedworksof10stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, supplementary volume: translations of the passages in foreign languages, and general index (Edinburgh: Thomas Constable, 1860) |  | `stewart-hamilton-works-1860-v11` | have-raw (IA `collectedworksof11stewiala`) |
+
+## Thomas Brown
+
+Shelf: `pipeline/thomas-brown-edinburgh_shelf.json`. Lectures on the Philosophy of the Human Mind, 19th ed. (1851).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Lectures on the Philosophy of the Human Mind, with a memoir of the author by David Welsh, 19th ed. (Edinburgh: A. and C. Black, 1851) |  | `brown-lectures-human-mind-1851` | have-raw (IA `lecturesonphilos00browuoft`) |
+
+## David Hartley
+
+Shelf: `pipeline/david-hartley_shelf.json`. Observations on Man, 4th ed. (1801), with Pistorius's Notes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Observations on Man, his Frame, his Duty, and his Expectations, part I, 4th ed. (London: J. Johnson, 1801) |  | `hartley-observations-on-man-1801-v1` | have-raw (IA `observationsonma01hartuoft`) |
+| Observations on Man, part II, 4th ed. (London: J. Johnson, 1801) |  | `hartley-observations-on-man-1801-v2` | have-raw (IA `observationsonma02hartuoft`) |
+| Notes and Additions to Dr. Hartley's Observations on Man, by Herman Andrew Pistorius, translated from the German, 3rd ed. (London: J. Johnson, 1801) | anonymous | `hartley-pistorius-notes-1801-v3` | have-raw (IA `observationsonma03hartiala`) |
+
+## Thomas More
+
+Shelf: `pipeline/thomas-more_shelf.json`. Utopia, Burnet's translation, ed. Morley.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Utopia, tr. Gilbert Burnet, ed. Henry Morley (the etext names no printing) | Gilbert Burnet | `more-burnet-utopia` | have (PG 2130) |
+| Utopia, tr. Ralph Robinson: his second and revised edition of 1556, preceded by the title and epistle of the first edition (1551), ed. Edward Arber, English Reprints no. 14 (Birmingham, March 1869) |  | `more-robinson-utopia-arber-1869` | have-raw (IA `utopia00more`) |
+
+## Campanella
+
+Shelf: `pipeline/campanella_shelf.json`. The City of the Sun.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The City of the Sun (the etext names no printing; translator unnamed) |  | `campanella-city-of-the-sun` | have (PG 2816) |
+
+## James Harrington
+
+Shelf: `pipeline/james-harrington_shelf.json`. The Commonwealth of Oceana.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Commonwealth of Oceana (the etext names no printing) |  | `harrington-oceana` | have (PG 2801) |
+
+## Bolingbroke
+
+Shelf: `pipeline/bolingbroke_shelf.json`. Letters to Windham and Pope, ed. Morley.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Letters to Sir William Windham and Mr. Pope, ed. Henry Morley (the etext names no printing) |  | `bolingbroke-letters-windham-pope` | have (PG 5132) |
+| Letters on the Spirit of Patriotism, on the Idea of a Patriot King, and on the State of Parties (London: A. Millar, 1752) |  | `bolingbroke-spirit-of-patriotism-patriot-king-1752` | have-raw (IA `lettersonspirito00boli`) |
+| Letters on the Study and Use of History, a new edition, corrected (Paris: Theophilus Barrois, 1808) |  | `bolingbroke-study-and-use-of-history-1808` | have-raw (IA `lettersonstudyus00boli`) |
+
+## Proudhon in English
+
+Shelf: `pipeline/proudhon_shelf.json`. What is Property? and Economical Contradictions vol. I (Tucker, inferred).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| What is Property? An inquiry into the principle of right and of government (the etext names no printing; Tucker translation, inferred) |  | `proudhon-what-is-property` | have (PG 360) |
+| System of Economical Contradictions, or the Philosophy of Misery, vol. I (the etext names no printing; Tucker translation, inferred) |  | `proudhon-economical-contradictions-v1` | have (PG 444) |
+
+## Bakunin in English
+
+Shelf: `pipeline/bakunin_shelf.json`. God and the State (Mother Earth, c. 1916).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| God and the State, first American edition (New York: Mother Earth Publishing Association, c. 1916) |  | `bakunin-god-and-the-state` | have (PG 36568) |
+
+## Kropotkin
+
+Shelf: `pipeline/kropotkin_shelf.json`. Mutual Aid, Fields Factories and Workshops, The Conquest of Bread.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Mutual Aid: a factor of evolution (1902) |  | `kropotkin-mutual-aid-1902` | have (PG 4341) |
+| Fields, Factories and Workshops, new, revised and enlarged edition (New York: Putnam, 1913) |  | `kropotkin-fields-factories-workshops-1913` | have (PG 64353) |
+| The Conquest of Bread (New York: Vanguard Press, 1926) |  | `kropotkin-conquest-of-bread-1926` | have (PG 23428) |
+
+## Malthus
+
+Shelf: `pipeline/malthus_shelf.json`. Six works, 1798-1827.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| An Essay on the Principle of Population, first edition (London: J. Johnson, 1798) |  | `malthus-population-1798` | have (PG 4239) |
+| Observations on the Effects of the Corn Laws (London: J. Johnson, 1814) |  | `malthus-corn-laws-1814` | have (PG 4334) |
+| The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn (London: John Murray, 1815) |  | `malthus-grounds-of-an-opinion-1815` | have (PG 4335) |
+| An Inquiry into the Nature and Progress of Rent (London: John Murray, 1815) |  | `malthus-nature-of-rent-1815` | have (PG 4336) |
+| The Measure of Value Stated and Illustrated (London, 1823) |  | `malthus-measure-of-value-1823` | have (PG 62407) |
+| Definitions in Political Economy (London: John Murray, 1827) |  | `malthus-definitions-1827` | have (PG 61483) |
+| Principles of Political Economy, considered with a view to their practical application (Boston: Wells and Lilly, 1821; American printing of the 1820 London edition) |  | `malthus-principles-of-political-economy-1821` | have-raw (IA `principlesofpoli01malt`) |
+| An Essay on the Principle of Population, sixth edition, vol. I (London: John Murray, 1826) |  | `malthus-population-1826-v1` | have-raw (IA `essayonprinciple01malt`) |
+| An Essay on the Principle of Population, sixth edition, vol. II (London: John Murray, 1826) |  | `malthus-population-1826-v2` | have-raw (IA `essayonprinciple02malt`) |
+
+## David Ricardo
+
+Shelf: `pipeline/david-ricardo_shelf.json`. Principles (1817) and Letters to Malthus (1887).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| On the Principles of Political Economy, and Taxation, first edition (London: John Murray, 1817) |  | `ricardo-principles-1817` | have (PG 33310) |
+| Letters of David Ricardo to Thomas Robert Malthus, 1810-1823, ed. James Bonar (Oxford: Clarendon, 1887) |  | `ricardo-letters-to-malthus-1887` | have (PG 36345) |
+
+## Grotius in English
+
+Shelf: `pipeline/grotius_shelf.json`. Campbell's Rights of War and Peace (1901).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Rights of War and Peace, including the Law of Nature and of Nations, with an introduction by David J. Hill (Washington: M. Walter Dunne, 1901) | A. C. Campbell | `grotius-campbell-war-and-peace-1901` | have-raw (IA `rightsofwarpeace00grotuoft`) |
+
+Pending (wishlist): Whewell's 1853 translation with the Latin.
+
+## Pufendorf in English
+
+Shelf: `pipeline/pufendorf_shelf.json`. Kennett's Law of Nature and Nations, 4th ed. (1729).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Of the Law of Nature and Nations, eight books, with Barbeyrac's notes, 4th ed. (London: J. Walthoe and others, 1729) | Basil Kennett | `pufendorf-kennett-law-of-nature-1729` | have-raw (IA `oflawofnaturenat00pufe`) |
+
+## Bodin in English
+
+Shelf: `pipeline/jean-bodin_shelf.json`. Knolles's Six Bookes of a Commonweale (1606).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Six Bookes of a Commonweale, out of the French and Latin copies (London: G. Bishop, 1606) | Richard Knolles | `bodin-knolles-commonweale-1606` | have-raw (IA `sixbookesofcommo00bodi`) |
+
+## Algernon Sidney
+
+Shelf: `pipeline/algernon-sidney_shelf.json`. Discourses on Government (New York, 1805), 3 vols.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Discourses on Government, vol. I, with the life, trial and apology (New York: Richard Lee, 1805) |  | `sidney-discourses-1805-v1` | have-raw (IA `discoursesongove01sidn`) |
+| Discourses on Government, vol. II (New York: Richard Lee, 1805) |  | `sidney-discourses-1805-v2` | have-raw (IA `discoursesongove02sidn`) |
+| Discourses on Government, vol. III (New York: Richard Lee, 1805) |  | `sidney-discourses-1805-v3` | have-raw (IA `discoursesongove03sidn`) |
+
+## Rosmini in English
+
+Shelf: `pipeline/rosmini_shelf.json`. Davidson's Philosophical System (1882) and The Origin of Ideas (1883-1886).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophical System of Antonio Rosmini-Serbati, with a sketch of the author's life, bibliography, introduction and notes (London: Kegan Paul, Trench, 1882) | Thomas Davidson | `rosmini-davidson-philosophical-system-1882` | have-raw (IA `philosophicalsy00rosmgoog`) |
+| The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio, vol. I (London: Kegan Paul, Trench, 1883) | anonymous | `rosmini-origin-of-ideas-1883-v1` | have-raw (IA `originofideas01rosmuoft`) |
+| The Origin of Ideas, vol. II, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v2` | have-raw (IA `originofideas02rosmuoft`) |
+| The Origin of Ideas, vol. III, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v3` | have-raw (IA `originofideas03rosmuoft`) |
+| Psychology, vol. I (London: Kegan Paul, Trench, 1884) |  | `rosmini-psychology-1884-v1` | have-raw (IA `psychology01rosmuoft`) |
+| Psychology, vol. II (London: Kegan Paul, Trench, 1885) |  | `rosmini-psychology-1885-v2` | have-raw (IA `psychology02rosmuoft`) |
+| Psychology, vol. III (London: Kegan Paul, Trench, 1888) |  | `rosmini-psychology-1888-v3` | have-raw (IA `psychologytrans00sergoog`) |
+
+## Vattel in English
+
+Shelf: `pipeline/vattel_shelf.json`. The Law of Nations, Chitty-Ingraham (Philadelphia, 1853).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Law of Nations, from the new edition by Joseph Chitty, with notes by Edward D. Ingraham (Philadelphia: T. and J. W. Johnson, 1853) | Chitty | `vattel-chitty-law-of-nations-1853` | have-raw (IA `lawofnationsorpr00vattiala`) |
+| The Law of Nations, or the Principles of Natural Law, Classics of International Law vol. III: translation of the edition of 1758 (Washington: Carnegie Institution, 1916) | Charles G. Fenwick | `vattel-fenwick-law-of-nations-1916` | have-raw (IA `ledroitdesgensou03vattuoft`) |
+
+## Condorcet in English
+
+Shelf: `pipeline/condorcet_shelf.json`. Outlines of the Progress of the Human Mind (1795).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outlines of an Historical View of the Progress of the Human Mind, translated from the French (London: J. Johnson, 1795) | anonymous | `condorcet-outlines-progress-1795` | have-raw (IA `outlinesofhistor00cond`) |
+
+## Fontenelle in English
+
+Shelf: `pipeline/fontenelle_shelf.json`. Glanvill (1703) and Gardiner (1737); Gunning's is on singles-ideas-3.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Plurality of Worlds, written in French by the author of the Dialogues of the Dead (London: Tho. Osbourne, 1703) | Joseph Glanvill | `fontenelle-glanvill-plurality-1703` | have-raw (IA `pluralityofworld00font`) |
+| A Week's Conversation on the Plurality of Worlds, to which is added Mr. Addison's Defence of the Newtonian Philosophy (London: A. Bettesworth and others, 1737) | William Gardiner | `fontenelle-gardiner-week-conversation-1737` | have-raw (IA `weeksconversatio00font`) |
+
+## F. A. Lange
+
+Shelf: `pipeline/friedrich-albert-lange_shelf.json`. History of Materialism, tr. E. C. Thomas (Boston, 1877-1881).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Materialism, vol. I (Boston: James R. Osgood, 1877) | Ernest Chester Thomas | `lange-thomas-history-of-materialism-1877-v1` | have-raw (IA `historyofmateria01lang_0`) |
+| The History of Materialism, vol. II (Boston: Houghton, Osgood, 1880) | Ernest Chester Thomas | `lange-thomas-history-of-materialism-1880-v2` | have-raw (IA `historymaterial06langgoog`) |
+| The History of Materialism, vol. III (Boston: Houghton, Mifflin, 1881) | Ernest Chester Thomas | `lange-thomas-history-of-materialism-1881-v3` | have-raw (IA `historymaterial05langgoog`) |
+
+## Eduard von Hartmann
+
+Shelf: `pipeline/eduard-von-hartmann_shelf.json`. Philosophy of the Unconscious, tr. Coupland (1884).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Philosophy of the Unconscious, vol. I (London: Trübner, 1884) | William Chatterton Coupland | `hartmann-coupland-unconscious-1884-v1` | have-raw (IA `philosophyofunco01hartiala`) |
+| Philosophy of the Unconscious, vol. II (London: Trübner, 1884) | William Chatterton Coupland | `hartmann-coupland-unconscious-1884-v2` | have-raw (IA `philosophyofunco02hartiala`) |
+| Philosophy of the Unconscious, vol. III (London: Trübner, 1884) | William Chatterton Coupland | `hartmann-coupland-unconscious-1884-v3` | have-raw (IA `philosophyofunc03hartiala`) |
+
+## Windelband
+
+Shelf: `pipeline/wilhelm-windelband_shelf.json`. A History of Philosophy, tr. Tufts, 2nd ed. (1907).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Philosophy, 2nd ed., revised and enlarged (New York: Macmillan, 1907) | James H. Tufts | `windelband-tufts-history-of-philosophy-1907` | have-raw (IA `historyofphiloso00winduoft`) |
+
+## Ueberweg
+
+Shelf: `pipeline/friedrich-ueberweg_shelf.json`. A History of Philosophy, tr. G. S. Morris (1874, 1889).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Philosophy, vol. I: ancient and mediaeval philosophy (New York: Scribner, 1889) | George S. Morris | `ueberweg-morris-history-1889-v1` | have-raw (IA `historyofphiloso01uebeuoft`) |
+| A History of Philosophy, vol. II: modern philosophy, with appendices by Noah Porter and Vincenzo Botta (New York: Scribner, Armstrong, 1874) | George S. Morris | `ueberweg-morris-history-1874-v2` | have-raw (IA `historyofphilos02uebeuoft`) |
+
+## J. E. Erdmann
+
+Shelf: `pipeline/johann-eduard-erdmann_shelf.json`. A History of Philosophy, ed. Hough (1890), 3 vols.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| A History of Philosophy, vol. I: ancient and mediaeval philosophy (London: Swan Sonnenschein, 1890) |  | `erdmann-hough-history-1890-v1` | have-raw (IA `historyofphiloso01erdm`) |
+| A History of Philosophy, vol. II: modern philosophy (London: Swan Sonnenschein, 1890) |  | `erdmann-hough-history-1890-v2` | have-raw (IA `historyofphiloso02erdm_0`) |
+| A History of Philosophy, vol. III: German philosophy since Hegel (London: Swan Sonnenschein, 1890) | Hough | `erdmann-hough-history-1890-v3` | have-raw (IA `historyofphiloso03erdm_0`) |
+
+## Beccaria in English
+
+Shelf: `pipeline/beccaria_shelf.json`. Crimes and Punishments, 4th ed. (1775).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Essay on Crimes and Punishments, with a commentary attributed to Voltaire, 4th ed. (London: F. Newbery, 1775) | anonymous | `beccaria-crimes-and-punishments-1775` | have-raw (IA `essayoncrimespun00becc`) |
+
+## Lessing's philosophy
+
+Shelf: `pipeline/lessing-philosophy_shelf.json`. The Education of the Human Race, tr. Robertson (1896).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Education of the Human Race, 4th ed., revised (London: Kegan Paul, Trench, Trübner, 1896) | Frederick W. Robertson | `lessing-robertson-education-1896` | have-raw (IA `educationofhuman00lessuoft`) |
+
+## Bertrand Russell
+
+Shelf: `pipeline/bertrand-russell_shelf.json`. Twenty-four works, 1896-1930: fifteen from Gutenberg, the rest from IA scans with title page years read. Mysticism and Logic and The Problem of China come from first printings; the post-1930 PG etexts (PG 25447, PG 13940) stay untaken.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Essay on the Foundations of Geometry (Cambridge, 1897) |  | `russell-foundations-of-geometry-1897` | have (PG 52091) |
+| The Problems of Philosophy (1912) |  | `russell-problems-of-philosophy-1912` | have (PG 5827) |
+| Our Knowledge of the External World as a Field for Scientific Method in Philosophy (1914; 1922 reissue) |  | `russell-our-knowledge-of-the-external-world` | have (PG 37090) |
+| Why Men Fight: a method of abolishing the international duel (New York: Century, 1920) |  | `russell-why-men-fight-1920` | have (PG 55610) |
+| Political Ideals (1917; the etext names no printing) |  | `russell-political-ideals` | have (PG 4776) |
+| Proposed Roads to Freedom (1918; the etext names no printing) |  | `russell-proposed-roads-to-freedom` | have (PG 690) |
+| The Practice and Theory of Bolshevism (1920; reprinted February 1921) |  | `russell-practice-theory-of-bolshevism-1920` | have (PG 17350) |
+| The Analysis of Mind (1921) |  | `russell-analysis-of-mind-1921` | have (PG 2529) |
+| Free Thought and Official Propaganda (Conway Memorial Lecture, 1922) |  | `russell-free-thought-official-propaganda-1922` | have (PG 44932) |
+| Icarus, or the Future of Science (1924) |  | `russell-icarus-1924` | have (PG 66225) |
+| What I Believe (New York: Dutton, 1925) |  | `russell-what-i-believe-1925` | have (PG 73782) |
+| The A B C of Relativity (New York: Harper, 1925) |  | `russell-abc-of-relativity-1925` | have (PG 67104) |
+| Education and the Good Life (New York: Boni and Liveright, 1926) |  | `russell-education-and-the-good-life-1926` | have (PG 70302) |
+| Philosophy (New York: Norton, 1927) |  | `russell-philosophy-1927` | have (PG 72981) |
+| The Conquest of Happiness (London: Allen and Unwin, 1930) |  | `russell-conquest-of-happiness-1930` | have (PG 77894) |
+| Introduction to Mathematical Philosophy, second edition (London: Allen and Unwin, April 1920) |  | `russell-introduction-to-mathematical-philosophy-1920` | have-raw (IA `introductiontoma00russuoft`) |
+| German Social Democracy, six lectures (Longmans, 1896) |  | `russell-german-social-democracy-1896` | have-raw (IA `germansocialdem00russgoog`) |
+| A Critical Exposition of the Philosophy of Leibniz (Cambridge, 1900) |  | `russell-philosophy-of-leibniz-1900` | have-raw (IA `cu31924052172271`) |
+| The Principles of Mathematics, vol. I (Cambridge, 1903) |  | `russell-principles-of-mathematics-1903-v1` | have-raw (IA `cu31924001610421`) |
+| Justice in War-Time (Open Court, 1916) |  | `russell-justice-in-war-time-1916` | have-raw (IA `cu31924026354609`) |
+| Mysticism and Logic, and other essays (Longmans, 1918) |  | `russell-mysticism-and-logic-1918` | have-raw (IA `mysticismlogicot00russuoft`) |
+| The Problem of China (Allen and Unwin, 1922) |  | `russell-problem-of-china-1922` | have-raw (IA `problemofchina00russ`) |
+| The Analysis of Matter (Kegan Paul; Harcourt, Brace, 1927) |  | `russell-analysis-of-matter-1927` | have-raw (IA `analysisofmatter0000bert`) |
+| Marriage and Morals (Horace Liveright, 1929) |  | `russell-marriage-and-morals-1929` | have-raw (IA `marriagemorals0000bert_f0s3`) |
+
+Pending (wishlist): The Prospects of Industrial Civilization (1923) and Sceptical Essays (1928), dated scans; Principia Mathematica (1910-13) needs a non-OCR source.
+
+## G. E. Moore
+
+Shelf: `pipeline/g-e-moore_shelf.json`. Principia Ethica (1903, 1922 reprint) and Philosophical Studies (1922).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Principia Ethica (Cambridge, 1903; reprinted 1922) |  | `moore-principia-ethica-1922` | have (PG 53430) |
+| Philosophical Studies (London: Kegan Paul, 1922) |  | `moore-philosophical-studies-1922` | have (PG 50141) |
+
+## Alfred North Whitehead
+
+Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Nine works, 1917-1929: four from Gutenberg, five from dated IA scans.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Organisation of Thought, educational and scientific (London: Williams and Norgate, 1917) |  | `whitehead-organisation-of-thought-1917` | have (PG 77011) |
+| The Concept of Nature (Tarner Lectures, 1920) |  | `whitehead-concept-of-nature-1920` | have (PG 18835) |
+| Science and the Modern World (New York: Macmillan, 1925) |  | `whitehead-science-and-the-modern-world-1925` | have (PG 68611) |
+| Symbolism, its Meaning and Effect (New York: Macmillan, 1927) |  | `whitehead-symbolism-1927` | have (PG 78977) |
+| Process and Reality, an essay in cosmology, Gifford Lectures 1927-28 (New York: Macmillan, published October 1929; raw IA OCR, clean 0.90) |  | `whitehead-process-and-reality-1929` | have-raw (IA `processrealityes00whit_1`) |
+| Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92) |  | `whitehead-religion-in-the-making-1926` | have-raw (IA `religioninmaking00whit`) |
+| An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89) |  | `whitehead-enquiry-natural-knowledge-1919` | have-raw (IA `anenquiryconcern00whituoft`) |
+| The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85) |  | `whitehead-principle-of-relativity-1922` | have-raw (IA `theprincipleofre00whituoft`) |
+| The Function of Reason, Louis Clark Vanuxem Foundation lectures (Princeton University Press, 1929) |  | `whitehead-function-of-reason-1929` | have-raw (IA `functionofreason00whit`) |
+
+Pending (wishlist): An Introduction to Mathematics (1911) and The Aims of Education (1929) in dated printings; A Treatise on Universal Algebra (1898) in a cleaner scan.
+
+## William Whewell
+
+Shelf: `pipeline/william-whewell_shelf.json`. The philosophy of science: four works, 1858-1875.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Scientific Ideas (London: Parker, 1858) |  | `whewell-history-of-scientific-ideas-1858` | have (PG 69093) |
+| Novum Organon Renovatum (London: Parker, 1858) |  | `whewell-novum-organon-renovatum-1858` | have (PG 69764) |
+| On the Philosophy of Discovery, chapters historical and critical (London: Parker, 1860) |  | `whewell-philosophy-of-discovery-1860` | have (PG 51555) |
+| History of the Inductive Sciences, from the earliest to the present time (New York: Appleton, 1875) |  | `whewell-history-of-the-inductive-sciences-1875` | have (PG 68693) |
+| Astronomy and General Physics considered with reference to Natural Theology, Bridgewater Treatise III (Philadelphia: Carey, Lea and Blanchard, 1833) |  | `whewell-bridgewater-astronomy-1833` | have (PG 66406) |
+| Of the Plurality of Worlds, American edition with an introduction by Edward Hitchcock (Boston, 1854) |  | `whewell-plurality-of-worlds-1854` | have (PG 36288) |
+
+## Lord Kames
+
+Shelf: `pipeline/lord-kames_shelf.json`. Elements of Criticism (Edinburgh, 1762), three volumes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Elements of Criticism, volume I (Edinburgh, 1762) |  | `kames-elements-of-criticism-1` | have (PG 57678) |
+| Elements of Criticism, volume II (Edinburgh, 1762) |  | `kames-elements-of-criticism-2` | have (PG 57679) |
+| Elements of Criticism, volume III (Edinburgh, 1762) |  | `kames-elements-of-criticism-3` | have (PG 57680) |
+
+## W. K. Clifford
+
+Shelf: `pipeline/w-k-clifford_shelf.json`. The Scientific Basis of Morals and other essays, including The Ethics of Belief.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Scientific Basis of Morals, and other essays (Humboldt Library; the etext names no printing) |  | `clifford-scientific-basis-of-morals` | have (PG 50189) |
+
+## Jean-Marie Guyau in English
+
+Shelf: `pipeline/jean-marie-guyau_shelf.json`. The Non-Religion of the Future (Holt, 1897).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Non-Religion of the Future: a sociological study (New York: Holt, 1897) | anonymous | `guyau-non-religion-of-the-future-1897` | have (PG 47421) |
+
+## Augustus De Morgan
+
+Shelf: `pipeline/augustus-de-morgan_shelf.json`. First Notions of Logic (1839, Gutenberg) and Formal Logic (1847, IA).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839) |  | `de-morgan-first-notions-of-logic-1839` | have (PG 67017) |
+| Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847) |  | `de-morgan-formal-logic-1847` | have-raw (IA `formallogicorthe00demouoft`) |
+| An Essay on Probabilities, and on their Application to Life Contingencies and Insurance Offices (Longman, 1838) |  | `de-morgan-essay-on-probabilities-1838` | have-raw (IA `essayonprobabili00demorich`) |
+| Syllabus of a Proposed System of Logic (Walton and Maberly, 1860) |  | `de-morgan-syllabus-of-logic-1860` | have-raw (IA `syllabusofpropos00demoiala`) |
+| A Budget of Paradoxes, ed. Sophia De Morgan (Longmans, Green, 1872) |  | `de-morgan-budget-of-paradoxes-1872` | have-raw (IA `budgetofparadoxe00demouoft`) |
+| On the Study and Difficulties of Mathematics (Open Court, 1898; this copy 1902) |  | `de-morgan-study-difficulties-mathematics-1898` | have-raw (IA `cu31924001162480`) |
+
+## W. Stanley Jevons
+
+Shelf: `pipeline/w-s-jevons_shelf.json`. The Principles of Science (1883).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Principles of Science: a treatise on logic and scientific method (London: Macmillan, 1883) |  | `jevons-principles-of-science-1883` | have (PG 74864) |
+| Political Economy, Science Primers (New York: D. Appleton, 1880) |  | `jevons-political-economy-primer-1880` | have (PG 33219) |
+
+## George Boole
+
+Shelf: `pipeline/george-boole_shelf.json`. The Laws of Thought (1854). The Mathematical Analysis of Logic is held: the scans found are a 1948 facsimile.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Investigation of the Laws of Thought (London: Walton and Maberly, 1854) |  | `boole-laws-of-thought-1854` | have-raw (IA `bub_gb_SWgLVT0otY8C`) |
+
+Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing (the open IA scan is the 1948 Philosophical Library facsimile); The Calculus of Logic (1848). Gutenberg holds both, and its Laws of Thought, only as PDF or TeX
+
+## Wittgenstein in English
+
+Shelf: `pipeline/wittgenstein_shelf.json`. Tractatus Logico-Philosophicus (Kegan Paul, 1922), German and English facing.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Tractatus Logico-Philosophicus, German and English (London: Kegan Paul, 1922) | Ogden | `wittgenstein-tractatus-1922` | have-raw (IA `in.ernet.dli.2015.218527`) |
+
+## J. M. E. McTaggart
+
+Shelf: `pipeline/mctaggart_shelf.json`. Some Dogmas of Religion (1906), Studies in the Hegelian Dialectic (1922), The Nature of Existence (1921, 1927).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Some Dogmas of Religion (London: Edward Arnold, 1906) |  | `mctaggart-some-dogmas-of-religion-1906` | have-raw (IA `in.ernet.dli.2015.278056`) |
+| Studies in the Hegelian Dialectic, second edition (Cambridge, 1922) |  | `mctaggart-studies-hegelian-dialectic-1922` | have-raw (IA `studiesinhegelia00mctauoft`) |
+| The Nature of Existence, vol. I (Cambridge, 1921) |  | `mctaggart-nature-of-existence-1921-v1` | have-raw (IA `natureofexistenc01mctauoft`) |
+| The Nature of Existence, vol. II, ed. C. D. Broad (Cambridge, 1927) |  | `mctaggart-nature-of-existence-1927-v2` | have-raw (IA `natureofexistenc02mctauoft`) |
+| Studies in Hegelian Cosmology (Cambridge: University Press, 1901) |  | `mctaggart-studies-hegelian-cosmology-1901` | have-raw (IA `cu31924029069354`) |
+| A Commentary on Hegel's Logic (Cambridge: University Press, 1910) |  | `mctaggart-commentary-hegels-logic-1910` | have-raw (IA `commentaryonhege00mctauoft`) |
+
+## James Frederick Ferrier
+
+Shelf: `pipeline/james-frederick-ferrier_shelf.json`. Institutes of Metaphysic (1854).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Institutes of Metaphysic: the theory of knowing and being (Edinburgh: Blackwood, 1854) |  | `ferrier-institutes-of-metaphysic-1854` | have-raw (IA `institutesofmeta00ferruoft`) |
+| Lectures on Greek Philosophy and other Philosophical Remains, ed. Alexander Grant and E. L. Lushington, vol. I (Edinburgh: Blackwood, 1866) |  | `ferrier-lectures-on-greek-philosophy-1866-v1` | have-raw (IA `lecturesongreekp01ferruoft`) |
+| Lectures on Greek Philosophy and other Philosophical Remains, vol. II (Edinburgh: Blackwood, 1866) |  | `ferrier-lectures-on-greek-philosophy-1866-v2` | have-raw (IA `lecturesongreek01ferrgoog`) |
+
+## Hans Vaihinger in English
+
+Shelf: `pipeline/hans-vaihinger_shelf.json`. The Philosophy of 'As If', tr. Ogden (1924).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophy of 'As If' (London: Kegan Paul, 1924) | C. K. Ogden | `vaihinger-ogden-philosophy-of-as-if-1924` | have-raw (IA `philosophyofasif00vaih_0`) |
+
+## Ernst Cassirer in English
+
+Shelf: `pipeline/ernst-cassirer_shelf.json`. Substance and Function, tr. the Swabeys (1923).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Substance and Function, and Einstein's Theory of Relativity (Chicago: Open Court, 1923) | William Curtis Swabey and Marie Collins Swabey | `cassirer-swabey-substance-and-function-1923` | have-raw (IA `substanceandfunc00cassuoft`) |
+
+## Edward Caird
+
+Shelf: `pipeline/edward-caird_shelf.json`. Comte (1885), The Evolution of Religion (1893, 2 vols), The Evolution of Theology in the Greek Philosophers (1904, 2 vols), The Critical Philosophy of Kant (1909, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Social Philosophy and Religion of Comte (Glasgow: MacLehose, 1885) |  | `caird-social-philosophy-of-comte-1885` | have-raw (IA `socialphilosophy00cairrich`) |
+| The Evolution of Religion, vol. I (New York: Macmillan, 1893) |  | `caird-evolution-of-religion-1893-v1` | have-raw (IA `evolutionofreligi01cair`) |
+| The Evolution of Religion, vol. II (New York: Macmillan, 1893) |  | `caird-evolution-of-religion-1893-v2` | have-raw (IA `evolutionofreligi02cair`) |
+| The Evolution of Theology in the Greek Philosophers, vol. I (Glasgow: MacLehose, 1904) |  | `caird-evolution-of-theology-greek-1904-v1` | have-raw (IA `evolutionoftheol01cairuoft`) |
+| The Evolution of Theology in the Greek Philosophers, vol. II (Glasgow: MacLehose, 1904) |  | `caird-evolution-of-theology-greek-1904-v2` | have-raw (IA `theevolutionofth00cairuoft`) |
+| The Critical Philosophy of Immanuel Kant, second edition, vol. I (Glasgow: MacLehose, 1909) |  | `caird-critical-philosophy-of-kant-1909-v1` | have-raw (IA `criticalphilosop01cairuoft`) |
+| The Critical Philosophy of Immanuel Kant, second edition, vol. II (Glasgow: MacLehose, 1909) |  | `caird-critical-philosophy-of-kant-1909-v2` | have-raw (IA `cu31924092290950`) |
+
+## Theodor Gomperz in English
+
+Shelf: `pipeline/theodor-gomperz_shelf.json`. Greek Thinkers, tr. Magnus and Berry (Murray, 1901-1912, 4 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greek Thinkers, vol. I (London: John Murray, 1901) | Laurie Magnus | `gomperz-greek-thinkers-1901-v1` | have-raw (IA `greekthinkershis01gompuoft`) |
+| Greek Thinkers, vol. II (London: John Murray, 1905) | G. G. Berry | `gomperz-greek-thinkers-1905-v2` | have-raw (IA `indianphilosophy02radhuoft`) |
+| Greek Thinkers, vol. III (London: John Murray, 1905; reprinted 1914) | G. G. Berry | `gomperz-greek-thinkers-1914-v3` | have-raw (IA `greek-thinkers-a-history-of-ancient-philosophy_1914_3`) |
+| Greek Thinkers, vol. IV (London: John Murray, 1912) | G. G. Berry | `gomperz-greek-thinkers-1912-v4` | have-raw (IA `greekthinkers04gompuoft`) |
+
+## Harald Høffding in English
+
+Shelf: `pipeline/harald-hoffding_shelf.json`. Outlines of Psychology (1893), A History of Modern Philosophy (2 vols), The Philosophy of Religion (1906).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outlines of Psychology (London: Macmillan, 1893) | Mary E. Lowndes | `hoffding-lowndes-outlines-of-psychology-1893` | have-raw (IA `outlinespsychol00hfgoog`) |
+| A History of Modern Philosophy, vol. I (London: Macmillan, 1900; reprinted 1908) | B. E. Meyer | `hoffding-meyer-history-of-modern-philosophy-1908-v1` | have-raw (IA `historyofmodernp01hoff`) |
+| A History of Modern Philosophy, vol. II (London: Macmillan, 1900) | B. E. Meyer | `hoffding-meyer-history-of-modern-philosophy-1900-v2` | have-raw (IA `historyofmodernp02hfuoft`) |
+| The Philosophy of Religion (London: Macmillan, 1906) | B. E. Meyer | `hoffding-meyer-philosophy-of-religion-1906` | have-raw (IA `philosophyrelig03meyegoog`) |
+
+## Friedrich Paulsen in English
+
+Shelf: `pipeline/friedrich-paulsen_shelf.json`. Introduction to Philosophy (1924 printing) and Immanuel Kant (1902), both tr. at Cornell or by Thilly. A System of Ethics is held (unreadable year).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Introduction to Philosophy, second American edition (New York: Holt; copyright 1895, printed 1924) | Frank Thilly | `paulsen-thilly-introduction-to-philosophy-1924` | have-raw (IA `introductiontop03paulgoog`) |
+| Immanuel Kant, his life and doctrine (New York: Scribner, 1902) | J. E. Creighton and Albert Lefevre | `paulsen-creighton-lefevre-immanuel-kant-1902` | have-raw (IA `immanuelkant00pauluoft`) |
+| A System of Ethics, from the fourth revised and enlarged edition (London: Kegan Paul, Trench, Trübner, 1899) | Frank Thilly | `paulsen-thilly-system-of-ethics-1899` | have-raw (IA `asystemofethics00pauluoft`) |
+
+## Christoph Sigwart in English
+
+Shelf: `pipeline/christoph-sigwart_shelf.json`. Logic, tr. Helen Dendy (1895, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Logic, vol. I: the judgment, concept and inference (London: Swan Sonnenschein, 1895) | Helen Dendy | `sigwart-dendy-logic-1895-v1` | have-raw (IA `sigwartslogic01sigwuoft`) |
+| Logic, vol. II: logical methods (London: Swan Sonnenschein, 1895) | Helen Dendy | `sigwart-dendy-logic-1895-v2` | have-raw (IA `sigwartslogic02sigwuoft`) |
+
+## Wilhelm Wundt's Ethics
+
+Shelf: `pipeline/wilhelm-wundt_shelf.json`. Ethics, tr. Gulliver, Titchener and Washburn (1897-1901, 3 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ethics, vol. I: the facts of the moral life (London: Swan Sonnenschein, 1897) | Julia Gulliver and Edward Bradford Titchener | `wundt-ethics-1897-v1` | have-raw (IA `ethicsaninvestig00wunduoft`) |
+| Ethics, vol. II: ethical systems (London: Swan Sonnenschein, 1897) | Margaret Floy Washburn | `wundt-ethics-1897-v2` | have-raw (IA `cu31924032316576`) |
+| Ethics, vol. III: the principles of morality and the departments of the moral life (London: Swan Sonnenschein, 1901) | Margaret Floy Washburn | `wundt-ethics-1901-v3` | have-raw (IA `ethicsaninvestig03wunduoft`) |
+
+## Henri Bergson in English
+
+Shelf: `pipeline/henri-bergson_shelf.json`. Matter and Memory (1911), An Introduction to Metaphysics (1913), Mind-Energy (1920), The Meaning of the War (1915). His other English books sit on singles shelves and rothwell.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Meaning of the War: life and matter in conflict (1915; the etext names no printing) |  | `bergson-meaning-of-the-war` | have (PG 17111) |
+| Matter and Memory (London: Swan Sonnenschein, 1911) | Nancy Margaret Paul and W. Scott Palmer | `bergson-paul-palmer-matter-and-memory-1911` | have-raw (IA `mattermemor00berg`) |
+| An Introduction to Metaphysics (London: Macmillan, 1913) | T. E. Hulme | `bergson-hulme-introduction-to-metaphysics-1913` | have-raw (IA `introductiontome0000henr_j7m6`) |
+| Mind-Energy, lectures and essays (New York: Holt, 1920) | H. Wildon Carr | `bergson-carr-mind-energy-1920` | have-raw (IA `cu31924014110708`) |
+
+## Victor Cousin in English
+
+Shelf: `pipeline/victor-cousin_shelf.json`. Course of the History of Modern Philosophy, tr. Wight (1852, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Course of the History of Modern Philosophy, vol. I (New York: Appleton, 1852) | O. W. Wight | `cousin-wight-history-of-modern-philosophy-1852-v1` | have-raw (IA `courseofhistoryo01cous`) |
+| Course of the History of Modern Philosophy, vol. II (New York: Appleton, 1852) | O. W. Wight | `cousin-wight-history-of-modern-philosophy-1852-v2` | have-raw (IA `courseofthehist02cousuoft`) |
+
+## Émile Boutroux in English
+
+Shelf: `pipeline/emile-boutroux_shelf.json`. Four works, 1911-1920, tr. Nield and Rothwell.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Science and Religion in Contemporary Philosophy (New York: Macmillan, 1911) | Jonathan Nield | `boutroux-nield-science-and-religion-1911` | have-raw (IA `sciencereligioni00bout`) |
+| Historical Studies in Philosophy (London: Macmillan, 1912) | Fred Rothwell | `boutroux-rothwell-historical-studies-1912` | have-raw (IA `historicalstudie00bout`) |
+| Philosophy and War (London: Constable, 1916) | Fred Rothwell | `boutroux-rothwell-philosophy-and-war-1916` | have-raw (IA `philosophywar00boutuoft`) |
+| The Contingency of the Laws of Nature (Chicago: Open Court, 1920) | Fred Rothwell | `boutroux-rothwell-contingency-of-the-laws-of-nature-1920` | have-raw (IA `contingencylaws02boutgoog`) |
+| Pascal (Manchester: Sherratt and Hughes, 1902) | Ellen Margaret Creak | `boutroux-creak-pascal-1902` | have-raw (IA `pascalpascal00boutrich`) |
+
+## Georges Sorel in English
+
+Shelf: `pipeline/georges-sorel_shelf.json`. Reflections on Violence, tr. Hulme (Allen and Unwin, 1916).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Reflections on Violence (London: Allen and Unwin, 1916) | T. E. Hulme | `sorel-hulme-reflections-on-violence-1916` | have-raw (IA `cu31924074961735`) |
+
+## Théodore Jouffroy in English
+
+Shelf: `pipeline/theodore-jouffroy_shelf.json`. Introduction to Ethics, tr. Channing (1840, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Introduction to Ethics, vol. I (Boston: Hilliard, Gray, 1840) | William H. Channing | `jouffroy-channing-introduction-to-ethics-1840-v1` | have-raw (IA `introductiontoe01changoog`) |
+| Introduction to Ethics, vol. II (Boston: Hilliard, Gray, 1840) | William H. Channing | `jouffroy-channing-introduction-to-ethics-1840-v2` | have-raw (IA `introductiontoe04changoog`) |
+
+## Destutt de Tracy in English
+
+Shelf: `pipeline/destutt-de-tracy_shelf.json`. A Treatise on Political Economy (Georgetown, 1817).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Treatise on Political Economy (Georgetown, D.C.: Joseph Milligan, 1817) | anonymous | `destutt-de-tracy-treatise-on-political-economy-1817` | have-raw (IA `treatiseonpoliti00destuoft`) |
+
+## Borden Parker Bowne
+
+Shelf: `pipeline/borden-parker-bowne_shelf.json`. Four works, 1882-1902.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Metaphysics: a study in first principles (New York: Harper, 1882) |  | `bowne-metaphysics-1882` | have-raw (IA `metaphysicsastu02bowngoog`) |
+| The Principles of Ethics (New York: Harper, 1893) |  | `bowne-principles-of-ethics-1893` | have-raw (IA `principlesofethi00bown`) |
+| Theory of Thought and Knowledge (New York: Harper, 1897) |  | `bowne-theory-of-thought-and-knowledge-1897` | have-raw (IA `theorythoughtan01bowngoog`) |
+| Theism, the Deems Lectures for 1902 (New York: American Book Company, 1902) |  | `bowne-theism-1902` | have-raw (IA `theism01bown`) |
+| Personalism (Boston: Houghton Mifflin, 1908) |  | `bowne-personalism-1908` | have-raw (IA `personalism00bown`) |
+
+## Pico della Mirandola in English
+
+Shelf: `pipeline/pico-della-mirandola_shelf.json`. A Platonick Discourse upon Love, Stanley's translation, ed. Gardner (1914).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Platonick Discourse upon Love, ed. Edmund G. Gardner (London: Grant Richards, 1914) | Thomas Stanley | `pico-stanley-platonick-discourse-upon-love-1914` | have-raw (IA `platonickdiscour00picouoft`) |
+
+## Gustave Le Bon in English
+
+Shelf: `pipeline/gustave-le-bon_shelf.json`. The Crowd (Gutenberg). The Psychology of Revolution is left for lane C's bernard-miall shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Crowd: a study of the popular mind (London: T. Fisher Unwin; the etext names no printing) |  | `le-bon-the-crowd` | have (PG 445) |
+
+## John Fiske, philosophy
+
+Shelf: `pipeline/john-fiske-philosophy_shelf.json`. Outlines of Cosmic Philosophy (1874-75, 2 vols, IA) and five essay books from Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Unseen World, and other essays (1876; the etext names no printing) |  | `fiske-unseen-world` | have (PG 1486) |
+| The Idea of God as Affected by Modern Knowledge (Boston: Houghton, Mifflin, 1886) |  | `fiske-idea-of-god-1886` | have (PG 46476) |
+| A Century of Science, and other essays (Boston: Houghton, Mifflin, 1899) |  | `fiske-century-of-science-1899` | have (PG 40590) |
+| Through Nature to God (Boston: Houghton, Mifflin, 1900) |  | `fiske-through-nature-to-god-1900` | have (PG 34716) |
+| Life Everlasting (Boston: Houghton Mifflin, 1901) |  | `fiske-life-everlasting-1901` | have (PG 34569) |
+| Outlines of Cosmic Philosophy, vol. I (Boston: James R. Osgood, 1875) |  | `fiske-outlines-of-cosmic-philosophy-1875-v1` | have-raw (IA `outlinesofcosmic01fisk_1`) |
+| Outlines of Cosmic Philosophy, vol. II (London: Macmillan, 1874) |  | `fiske-outlines-of-cosmic-philosophy-1874-v2` | have-raw (IA `outlinescosmicp02unkngoog`) |
+| The Destiny of Man viewed in the light of his origin, 15th ed. (Boston: Houghton Mifflin, 1890) |  | `fiske-destiny-of-man-1890` | have-raw (IA `thedestinyofmanv00fiskuoft`) |
+| Myths and Myth-Makers (1872) |  | `fiske-myths-and-myth-makers` | have (PG 1061) |
+| American Political Ideas (1885) |  | `fiske-american-political-ideas` | have (PG 10112) |
+| Civil Government in the United States (1890) |  | `fiske-civil-government` | have (PG 11276) |
+| The Meaning of Infancy (Riverside Educational Monographs; essays of 1883 and later) |  | `fiske-meaning-of-infancy` | have (PG 12359) |
+
+## Noah Porter
+
+Shelf: `pipeline/noah-porter_shelf.json`. The Human Intellect (2nd ed., 1869).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Human Intellect, second edition (New York: Charles Scribner, 1869) |  | `porter-human-intellect-1869` | have-raw (IA `humanintellectw00portgoog`) |
+
+## Chauncey Wright
+
+Shelf: `pipeline/chauncey-wright_shelf.json`. Philosophical Discussions (1877).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Philosophical Discussions, ed. Charles Eliot Norton (New York: Henry Holt, 1877) |  | `chauncey-wright-philosophical-discussions-1877` | have-raw (IA `philosophicaldis00wrig`) |
+
+## G. H. Howison
+
+Shelf: `pipeline/george-holmes-howison_shelf.json`. The Limits of Evolution (1901).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Limits of Evolution, and other essays (New York: Macmillan, 1901) |  | `howison-limits-of-evolution-1901` | have-raw (IA `limitsofevoluti00howi`) |
+
+## Francis Bowen
+
+Shelf: `pipeline/francis-bowen_shelf.json`. Modern Philosophy, from Descartes to Schopenhauer and Hartmann (3rd ed.).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Modern Philosophy, from Descartes to Schopenhauer and Hartmann, third edition (New York: Scribner; copyright 1877) |  | `bowen-modern-philosophy-1877` | have-raw (IA `modernphilosophy00boweuoft`) |
+
+## Laurens P. Hickok
+
+Shelf: `pipeline/laurens-hickok_shelf.json`. Rational Psychology (1854).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Rational Psychology (Schenectady: G. Y. Van Debogert, 1854) |  | `hickok-rational-psychology-1854` | have-raw (IA `rationalpsychol00hickgoog`) |
+
+## George Trumbull Ladd
+
+Shelf: `pipeline/george-trumbull-ladd_shelf.json`. Psychology, metaphysics, ethics and philosophy of religion, 1889-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Elements of Physiological Psychology (New York: Scribner, 1889) |  | `ladd-elements-of-physiological-psychology-1889` | have-raw (IA `elementsofphysi00ladduoft`) |
+| Philosophy of Mind: an essay in the metaphysics of psychology (New York: Scribner, 1895) |  | `ladd-philosophy-of-mind-1895` | have-raw (IA `philosophyminda00laddgoog`) |
+| Philosophy of Knowledge (New York: Scribner, 1897) |  | `ladd-philosophy-of-knowledge-1897` | have-raw (IA `philosophyofknow00ladd`) |
+| Primer of Psychology (New York: Scribner, 1895; copyright 1894) |  | `ladd-primer-of-psychology-1895` | have-raw (IA `primerofpsycholo00ladduoft`) |
+| A Theory of Reality: an essay in metaphysical system upon the basis of human cognitive experience (New York: Scribner, 1899) |  | `ladd-theory-of-reality-1899` | have-raw (IA `theoryofrealitye00ladd`) |
+| Philosophy of Conduct: a treatise of the facts, principles, and ideals of ethics (New York: Scribner, 1902) |  | `ladd-philosophy-of-conduct-1902` | have-raw (IA `philosophycondu01laddgoog`) |
+| The Philosophy of Religion, vol. I (New York: Scribner, 1905) |  | `ladd-philosophy-of-religion-1-1905` | have-raw (IA `philosophyofreli00ladduoft`) |
+| The Philosophy of Religion, vol. II (New York: Scribner, 1905) |  | `ladd-philosophy-of-religion-2-1905` | have-raw (IA `philosophyofreli02ladduoft`) |
+| Knowledge, Life and Reality: an essay in systematic philosophy (New York: Dodd, Mead, 1909) |  | `ladd-knowledge-life-reality-1909` | have-raw (IA `knowledgeliferea00lad`) |
+| The Teacher's Practical Philosophy (New York: Funk and Wagnalls, 1911) |  | `ladd-teachers-practical-philosophy-1911` | have-raw (IA `teacherspractica00laddrich`) |
+| What Can I Know? (New York: Longmans, Green, 1914) |  | `ladd-what-can-i-know-1914` | have-raw (IA `whatcaniknow00ladduoft`) |
+| What Ought I to Do? (New York: Longmans, Green, 1915) |  | `ladd-what-ought-i-to-do-1915` | have-raw (IA `whatoughtitodoan00ladduoft`) |
+| What Should I Believe? (New York: Longmans, Green, 1915) |  | `ladd-what-should-i-believe-1915` | have-raw (IA `whatshouldibel00ladduoft`) |
+| What May I Hope? (New York: Longmans, Green, 1915) |  | `ladd-what-may-i-hope-1915` | have-raw (IA `whatmayihopeinqu00laddrich`) |
+| The Secret of Personality (New York: Longmans, Green, 1918) |  | `ladd-secret-of-personality-1918` | have-raw (IA `cu31924029345455`) |
+
+## G. F. Stout
+
+Shelf: `pipeline/g-f-stout_shelf.json`. Analytic Psychology (2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Analytic Psychology, vol. I (London: Swan Sonnenschein, 1909) |  | `stout-analytic-psychology-1909-v1` | have-raw (IA `analyticalpsycho01stou`) |
+| Analytic Psychology, vol. II (London: Swan Sonnenschein, 1902) |  | `stout-analytic-psychology-1902-v2` | have-raw (IA `analyticpsychol03stougoog`) |
+
+## Andrew Seth (Pringle-Pattison)
+
+Shelf: `pipeline/andrew-seth-pringle-pattison_shelf.json`. Hegelianism and Personality (2nd ed., 1893).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Hegelianism and Personality, second edition (Edinburgh: Blackwood, 1893) |  | `seth-hegelianism-and-personality-1893` | have-raw (IA `hegelianismandp02patgoog`) |
+| Scottish Philosophy, a comparison of the Scottish and German answers to Hume (Edinburgh: Blackwood, 1885) |  | `seth-scottish-philosophy-1885` | have-raw (IA `scottishphilosopy00seth`) |
+| The Idea of God in the Light of Recent Philosophy, Gifford Lectures 1912-13, 2nd ed. revised (New York: Oxford University Press, 1920) |  | `pringle-pattison-idea-of-god-1920` | have-raw (IA `ideagodinlightr00patgoog`) |
+
+## D. G. Ritchie
+
+Shelf: `pipeline/david-george-ritchie_shelf.json`. Darwinism and Politics (1891), Darwin and Hegel (1893), Studies in Political and Social Ethics (1902).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Darwinism and Politics, second edition (London: Swan Sonnenschein, 1891) |  | `ritchie-darwinism-and-politics-1891` | have-raw (IA `darwinismpolitic00ritcuoft`) |
+| Darwin and Hegel, with other philosophical studies (London: Swan Sonnenschein, 1893) |  | `ritchie-darwin-and-hegel-1893` | have-raw (IA `darwinhegelwitho00ritcrich`) |
+| Studies in Political and Social Ethics (London: Swan Sonnenschein, 1902) |  | `ritchie-studies-political-social-ethics-1902` | have-raw (IA `studiesinpoliti00ritcuoft`) |
+| Natural Rights, a criticism of some political and ethical conceptions, 3rd ed. (London: George Allen and Unwin, 1916; first edition 1894) |  | `ritchie-natural-rights-1916` | have-raw (IA `cu31924095900902`) |
+
+## Hastings Rashdall
+
+Shelf: `pipeline/hastings-rashdall_shelf.json`. The Theory of Good and Evil (1907, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Good and Evil, vol. I (Oxford: Clarendon Press, 1907) |  | `rashdall-theory-of-good-and-evil-1907-v1` | have-raw (IA `theoryofgoodande029639mbp`) |
+| The Theory of Good and Evil, vol. II (Oxford: Clarendon Press, 1907) |  | `rashdall-theory-of-good-and-evil-1907-v2` | have-raw (IA `theoryofgoodande032458mbp`) |
+
+## W. R. Sorley
+
+Shelf: `pipeline/w-r-sorley_shelf.json`. Moral Values and the Idea of God (1918).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Moral Values and the Idea of God (Cambridge, 1918) |  | `sorley-moral-values-and-the-idea-of-god-1918` | have-raw (IA `moralvaluesandth00sorluoft`) |
+| On the Ethics of Naturalism (1885) |  | `sorley-ethics-of-naturalism` | have (PG 48027) |
+| Recent Tendencies in Ethics (1904) |  | `sorley-recent-tendencies-in-ethics` | have (PG 12492) |
+
+## F. C. S. Schiller
+
+Shelf: `pipeline/fcs-schiller_shelf.json`. Humanism (1903), Studies in Humanism (1912), Formal Logic (1912). Riddles of the Sphinx held (undated scan).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Humanism: philosophical essays (London: Macmillan, 1903) |  | `fcs-schiller-humanism-1903` | have-raw (IA `humanismphilosop00schiuoft`) |
+| Studies in Humanism, second edition (London: Macmillan, 1912) |  | `fcs-schiller-studies-in-humanism-1912` | have-raw (IA `studiesinhumanis00schi`) |
+| Formal Logic: a scientific and social problem (London: Macmillan, 1912) |  | `fcs-schiller-formal-logic-1912` | have-raw (IA `formallogicscie00schi`) |
+| Riddles of the Sphinx: a study in the philosophy of evolution, published as 'by a Troglodyte' (London: Swan Sonnenschein, 1891) |  | `fcs-schiller-riddles-of-the-sphinx-1891` | have-raw (IA `cu31924070684885`) |
+
+## H. L. Mansel
+
+Shelf: `pipeline/henry-mansel_shelf.json`. The Limits of Religious Thought (Bampton Lectures, 1858).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophy of the Conditioned, reprinted with additions from the Contemporary Review (London and New York, 1866) |  | `mansel-philosophy-of-the-conditioned-1866` | have (PG 28484) |
+| The Limits of Religious Thought examined in eight lectures (Oxford: John Murray, 1858) |  | `mansel-limits-of-religious-thought-1858` | have-raw (IA `limitsofreligiou00mans`) |
+
+## James Ward
+
+Shelf: `pipeline/james-ward-philosophy_shelf.json`. Naturalism and Agnosticism (1899, 2 vols), The Realm of Ends (1911).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Naturalism and Agnosticism, vol. I (New York: Macmillan, 1899) |  | `ward-naturalism-and-agnosticism-1899-v1` | have-raw (IA `naturalismagnost0001ward`) |
+| Naturalism and Agnosticism, vol. II (New York: Macmillan, 1899) |  | `ward-naturalism-and-agnosticism-1899-v2` | have-raw (IA `naturalismandag02wardgoog`) |
+| The Realm of Ends, or Pluralism and Theism (Cambridge, 1911) |  | `ward-realm-of-ends-1911` | have-raw (IA `therealmofends00warduoft`) |
+
+## L. T. Hobhouse
+
+Shelf: `pipeline/l-t-hobhouse_shelf.json`. Morals in Evolution (1906, 2 parts). Theory of Knowledge held (undated scan).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Morals in Evolution, part I (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v1` | have-raw (IA `moralsinevolutio01hobh`) |
+| Morals in Evolution, part II (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v2` | have-raw (IA `moralsinevolutio02hobhuoft`) |
+| Liberalism, Home University Library (London: Williams and Norgate; first printed May 1911, this copy the reprint of May 1919; raw IA OCR, clean 0.94; the Gutenberg etext, PG 28278, follows a 1944 impression and is not taken) |  | `hobhouse-liberalism-1911` | have-raw (IA `liberalism00hobh`) |
+
+## Henry More
+
+Shelf: `pipeline/henry-more_shelf.json`. Antidote against Atheisme (1653), Collection of Philosophical Writings (1662), Divine Dialogues (1713).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Antidote against Atheisme (London: Roger Daniel, 1653) |  | `more-antidote-against-atheisme-1653` | have-raw (IA `moreantidoteagainstatheisme`) |
+| A Collection of Several Philosophical Writings, second edition (London, 1662) |  | `more-collection-philosophical-writings-1662` | have-raw (IA `collectionofseve00more`) |
+| Divine Dialogues (London: Joseph Downing, 1713) |  | `more-divine-dialogues-1713` | have-raw (IA `aloquesc00more`) |
+
+## John Norris of Bemerton
+
+Shelf: `pipeline/john-norris_shelf.json`. Essay towards the Theory of the Ideal or Intelligible World (1701-04, 2 parts).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Essay towards the Theory of the Ideal or Intelligible World, part I (London: Manship, 1701) |  | `norris-ideal-world-1701-v1` | have-raw (IA `essaytowardstheo01norr`) |
+| An Essay towards the Theory of the Ideal or Intelligible World, part II (London: Manship, 1704) |  | `norris-ideal-world-1704-v2` | have-raw (IA `essaytowardstheo02norr`) |
+
+## William Wollaston
+
+Shelf: `pipeline/william-wollaston_shelf.json`. The Religion of Nature Delineated (6th ed., 1738).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Religion of Nature Delineated, sixth edition (London: Knapton, 1738) |  | `wollaston-religion-of-nature-delineated-1738` | have-raw (IA `religionofnature00wolluoft`) |
+
+## Anthony Collins
+
+Shelf: `pipeline/anthony-collins_shelf.json`. A Discourse of Free-Thinking (1713, anonymous).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Discourse of Free-Thinking (London, 1713) |  | `collins-discourse-of-free-thinking-1713` | have-raw (IA `adiscourseoffree00colluoft`) |
+| A Philosophical Inquiry concerning Human Liberty, third edition corrected, anonymous (London: R. Robinson, 1735) |  | `collins-human-liberty-1735` | have-raw (IA `philosophicalinq00coll`) |
+
+## Matthew Tindal
+
+Shelf: `pipeline/matthew-tindal_shelf.json`. Christianity as Old as the Creation (Newburgh, 1798).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Christianity as Old as the Creation (Newburgh: David Denniston, 1798) |  | `tindal-christianity-as-old-as-the-creation-1798` | have-raw (IA `christianityasol1798tind`) |
+
+## Abraham Tucker
+
+Shelf: `pipeline/abraham-tucker_shelf.json`. The Light of Nature Pursued (1840, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Light of Nature Pursued, vol. I (London: Charles Daly, 1840) |  | `tucker-light-of-nature-pursued-1840-v1` | have-raw (IA `thelightofnature01tuckuoft`) |
+| The Light of Nature Pursued, vol. II (London: Charles Daly, 1840) |  | `tucker-light-of-nature-pursued-1840-v2` | have-raw (IA `lightofnaturepur02tuckuoft`) |
+
+## Kuno Fischer in English
+
+Shelf: `pipeline/kuno-fischer_shelf.json`. Bacon (1857), Commentary on Kant (1866), Descartes and his School (1887).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Francis Bacon of Verulam: realistic philosophy and its age (London: Longman, 1857) | John Oxenford | `fischer-oxenford-francis-bacon-1857` | have-raw (IA `baconofverulam00fiscuoft`) |
+| A Commentary on Kant's Critick of the Pure Reason (London: Longmans, Green, 1866) | John Pentland Mahaffy | `fischer-mahaffy-commentary-on-kant-1866` | have-raw (IA `acommentaryonkan00fiscuoft`) |
+| Descartes and his School, ed. Noah Porter (New York: Scribner, 1887) | J. P. Gordy | `fischer-gordy-descartes-and-his-school-1887` | have-raw (IA `cu31924028978595`) |
+
+## Herbart in English
+
+Shelf: `pipeline/herbart_shelf.json`. A Text-Book in Psychology (1891), The Science of Education (1908).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Text-Book in Psychology (New York: Appleton, 1891) | Margaret K. Smith | `herbart-smith-text-book-in-psychology-1891` | have-raw (IA `cu31924031387131`) |
+| The Science of Education (Boston: D. C. Heath, 1908) | Henry M. and Emmie Felkin | `herbart-felkin-science-of-education-1908` | have-raw (IA `scienceofeducati00herbuoft`) |
+
+## Paul Janet in English
+
+Shelf: `pipeline/paul-janet_shelf.json`. Final Causes (1878), The Theory of Morals (1883).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Final Causes (Edinburgh: T. and T. Clark, 1878) | William Affleck | `janet-affleck-final-causes-1878` | have-raw (IA `finalcauses00jane`) |
+| The Theory of Morals (New York: Scribner, 1883) | Mary Chapman | `janet-chapman-theory-of-morals-1883` | have-raw (IA `theoryofmorals00janerich`) |
+
+## Rudolf Eucken in English
+
+Shelf: `pipeline/rudolf-eucken_shelf.json`. The Problem of Human Life (1909), The Truth of Religion (1911).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Problem of Human Life (New York: Scribner, 1909) | Williston S. Hough and W. R. Boyce Gibson | `eucken-hough-gibson-problem-of-human-life-1909` | have-raw (IA `problemofhumanli01euck`) |
+| The Truth of Religion (London: Williams and Norgate, 1911) | W. Tudor Jones | `eucken-jones-truth-of-religion-1911` | have-raw (IA `truthofreligion00euckuoft`) |
+
+## Charles Fourier in English
+
+Shelf: `pipeline/charles-fourier_shelf.json`. The Passions of the Human Soul, tr. Doherty (1851, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Passions of the Human Soul, vol. I (London: Baillière, 1851) | Hugh Doherty | `fourier-doherty-passions-of-the-human-soul-1851-v1` | have-raw (IA `cu31924092283252`) |
+| The Passions of the Human Soul, vol. II (London: Baillière, 1851) | Hugh Doherty | `fourier-doherty-passions-of-the-human-soul-1851-v2` | have-raw (IA `cu31924092283260`) |
+
+## Juan Luis Vives in English
+
+Shelf: `pipeline/juan-luis-vives_shelf.json`. On Education, tr. Foster Watson (1913).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Vives: On Education, a translation of the De tradendis disciplinis (Cambridge, 1913) | Foster Watson | `vives-watson-on-education-1913` | have-raw (IA `vivesoneducation00viveuoft`) |
+
+## John Venn
+
+Shelf: `pipeline/john-venn_shelf.json`. Logic and probability, in English.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Logic of Chance, 3rd ed. (London: Macmillan, 1888) |  | `venn-logic-of-chance-1888` | have (PG 57359) |
+| Symbolic Logic (London: Macmillan, 1881) |  | `venn-symbolic-logic-1881` | have-raw (IA `symboliclogic00vennuoft`) |
+| The Principles of Empirical or Inductive Logic (London: Macmillan, 1889) |  | `venn-empirical-or-inductive-logic-1889` | have-raw (IA `principlesoflogi00vennuoft`) |
+
+## Alexander Bain
+
+Shelf: `pipeline/alexander-bain_shelf.json`. Associationist psychology and ethics.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Moral Science: a compendium of ethics (1869) |  | `bain-moral-science-1869` | have (PG 12913) |
+| Practical Essays (1884) |  | `bain-practical-essays-1884` | have (PG 17522) |
+| The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875) |  | `bain-emotions-and-the-will-1875` | have-raw (IA `bub_gb_BjYCAAAAQAAJ`) |
+| The Senses and the Intellect, third edition (New York: D. Appleton, 1879) |  | `bain-senses-and-the-intellect-1879` | have-raw (IA `cu31924014058279`) |
+| Mental and Moral Science: a compendium of psychology and ethics, both parts bound together (London: Longmans, Green, 1872) |  | `bain-mental-and-moral-science-1872` | have-raw (IA `mentalandmoralsc00bainuoft`) |
+
+## George Henry Lewes
+
+Shelf: `pipeline/george-henry-lewes_shelf.json`. History of philosophy and the physiology of mind. The two History volumes are mismatched editions (3rd ed. vol. I, 4th ed. vol. II).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Physical Basis of Mind (Boston: Houghton Mifflin, 1891) |  | `lewes-physical-basis-of-mind-1891` | have (PG 60212) |
+| The History of Philosophy from Thales to Comte, 3rd ed., vol. I (London: Longmans, Green, 1867) |  | `lewes-history-of-philosophy-3rd-ed-v1` | have-raw (IA `thehistoryofphil01leweuoft`) |
+| The History of Philosophy from Thales to Comte, 4th ed., vol. II (London: Longmans, Green, 1871) |  | `lewes-history-of-philosophy-4th-ed-v2` | have-raw (IA `historyofphiloso02lewe`) |
+| Problems of Life and Mind, first series: The Foundations of a Creed, vol. I (London: Trubner, 1874) |  | `lewes-problems-of-life-and-mind-1874-v1` | have-raw (IA `problemsoflifemi01leweiala`) |
+| Problems of Life and Mind, first series: The Foundations of a Creed, vol. II (London: Trubner, 1876) |  | `lewes-problems-of-life-and-mind-1876-v2` | have-raw (IA `problemslifeand06lewegoog`) |
+| Comte's Philosophy of the Sciences, Bohn's Scientific Library (London: Henry G. Bohn, 1853) |  | `lewes-comtes-philosophy-of-the-sciences-1853` | have-raw (IA `comtesphilosophy00leweuoft`) |
+| The Principles of Success in Literature (1865) |  | `lewes-principles-of-success-in-literature` | have (PG 10420) |
+
+Pending (wishlist): a matched pair of the History
+
+## John Herschel
+
+Shelf: `pipeline/john-herschel_shelf.json`. Method in natural science.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| A Preliminary Discourse on the Study of Natural Philosophy, new edition (1851) |  | `herschel-preliminary-discourse-1851` | have (PG 54897) |
+
+## Karl Pearson
+
+Shelf: `pipeline/karl-pearson_shelf.json`. Positivist philosophy of science.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Grammar of Science, 2nd ed. (London: A. and C. Black, 1900) |  | `pearson-grammar-of-science-1900` | have-raw (IA `grammarofscience00pearuoft`) |
+| The Ethic of Freethought, a selection of essays and lectures (London: T. Fisher Unwin, 1888) |  | `pearson-ethic-of-freethought-1888` | have-raw (IA `ethicoffreethoug00pear`) |
+
+## John Maynard Keynes
+
+Shelf: `pipeline/john-maynard-keynes_shelf.json`. Probability and the economics of the peace; only works published by 1930.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Indian Currency and Finance (London: Macmillan, 1913) |  | `keynes-indian-currency-and-finance-1913` | have (PG 49166) |
+| The Economic Consequences of the Peace (New York: Harcourt, Brace and Howe, 1920) |  | `keynes-economic-consequences-of-the-peace-1920` | have (PG 15776) |
+| A Revision of the Treaty (New York: Harcourt, Brace, 1922) |  | `keynes-revision-of-the-treaty-1922` | have (PG 46037) |
+| A Tract on Monetary Reform (London: Macmillan, 1923) |  | `keynes-tract-on-monetary-reform-1923` | have (PG 65278) |
+| A Treatise on Probability (London: Macmillan, 1921) |  | `keynes-treatise-on-probability-1921` | have-raw (IA `atreatiseonproba00keynuoft`) |
+
+## Baron d'Holbach
+
+Shelf: `pipeline/holbach_shelf.json`. French materialism, in English.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Good Sense, a translation of Le Bon Sens (London: W. Stewart, undated, c. 1900) |  | `holbach-good-sense-c1900` | have (PG 7319) |
+| The System of Nature, with notes by Diderot, two volumes in one (Boston: J. P. Mendum, 1868) | H. D. Robinson | `holbach-robinson-system-of-nature-1868` | have-raw (IA `systemofnatureor68holb`) |
+| The System of Nature, or the Laws of the Moral and Physical World, 'translated from the original French of M. de Mirabaud', 3 vols. in one scan (London: Thomas Davison, 1820; R. Helder, 1821) |  | `holbach-system-of-nature-1820-21` | have-raw (IA `systemofnatureor13holb`) |
+
+Pending (wishlist): Ecce Homo (1827) from a period printing; Christianity Unveiled
+
+## Mary Wollstonecraft (as author)
+
+Shelf: `pipeline/mary-wollstonecraft_shelf.json`. Political and moral philosophy.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Thoughts on the Education of Daughters (London: J. Johnson, 1787) |  | `wollstonecraft-education-of-daughters-1787` | have (PG 67466) |
+| A Vindication of the Rights of Men, in a letter to Edmund Burke, 2nd ed. (London: J. Johnson, 1790, inferred) |  | `wollstonecraft-rights-of-men-2nd-ed` | have (PG 62757) |
+| A Vindication of the Rights of Woman (printing not named) |  | `wollstonecraft-rights-of-woman` | have (PG 3420) |
+| An Historical and Moral View of the Origin and Progress of the French Revolution (London: J. Johnson, 1794) |  | `wollstonecraft-french-revolution-1794` | have (PG 68724) |
+| Letters Written During a Short Residence in Sweden, Norway, and Denmark (1796) |  | `wollstonecraft-letters-from-sweden` | have (PG 3529) |
+| Posthumous Works of the Author of A Vindication of the Rights of Woman (ed. William Godwin, 1798) |  | `wollstonecraft-posthumous-works` | have (PG 23233) |
+| The Love Letters of Mary Wollstonecraft to Gilbert Imlay |  | `wollstonecraft-love-letters-to-imlay` | have (PG 34413) |
+
+## Sir James Mackintosh
+
+Shelf: `pipeline/james-mackintosh_shelf.json`. Natural law and the history of ethics.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| A Discourse on the Study of the Law of Nature and Nations, 2nd ed. (London, 1828) |  | `mackintosh-law-of-nature-and-nations-1828` | have (PG 29372) |
+| Dissertation on the Progress of Ethical Philosophy, preface by William Whewell, 3rd ed. (Edinburgh: A. and C. Black, 1862) |  | `mackintosh-progress-of-ethical-philosophy-1862` | have-raw (IA `dissertationonp00mack`) |
+
+## Joseph Priestley (philosophy)
+
+Shelf: `pipeline/joseph-priestley_shelf.json`. Materialism and necessity.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Disquisitions relating to Matter and Spirit (London: J. Johnson, 1777) |  | `priestley-matter-and-spirit-1777` | have-raw (IA `disquisitionsrel00prieuoft`) |
+| A Free Discussion of the Doctrines of Materialism and Philosophical Necessity, with Richard Price (London: J. Johnson and T. Cadell, 1778) |  | `priestley-price-free-discussion-1778` | have-raw (IA `freediscussionof00pric`) |
+| Hartley's Theory of the Human Mind, on the principle of the association of ideas, with essays relating to the subject of it, ed. Joseph Priestley (London: J. Johnson, 1775) |  | `priestley-hartleys-theory-1775` | have-raw (IA `b30519925`) |
+
+Pending (wishlist): The Doctrine of Philosophical Necessity Illustrated (1777 or 1782, a scan over the OCR gate)
+
+## Pierre Charron
+
+Shelf: `pipeline/pierre-charron_shelf.json`. Of Wisdom, the Stanhope translation, in its 1707 second edition (two volumes, one edition).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Of Wisdom, three books, 2nd ed., vol. I: book I (London, 1707) | George Stanhope | `charron-stanhope-of-wisdom-1707-v1` | have-raw (IA `bub_gb_7EI0AAAAMAAJ`) |
+| Of Wisdom, three books, 2nd ed., vol. II: books II and III (London, 1707) | George Stanhope | `charron-stanhope-of-wisdom-1707-v2` | have-raw (IA `bim_eighteenth-century_of-wisdom-three-books-_charron-pierre_1707_2`) |
+
+## Jean-Jacques Burlamaqui
+
+Shelf: `pipeline/burlamaqui_shelf.json`. Natural law, in Nugent's English.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Principles of Natural and Politic Law, 2nd ed., vol. I (London: J. Nourse, 1763) | Thomas Nugent | `burlamaqui-nugent-natural-and-politic-law-1763-v1` | have-raw (IA `principlesnatpol01burluoft`) |
+| The Principles of Natural and Politic Law, 2nd ed., vol. II (London: J. Nourse, 1763) | Thomas Nugent | `burlamaqui-nugent-natural-and-politic-law-1763-v2` | have-raw (IA `principlesnatpol02burluoft`) |
+
+## Richard Cumberland (Bishop of Peterborough)
+
+Shelf: `pipeline/richard-cumberland-laws-of-nature_shelf.json`. Natural law against Hobbes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Treatise of the Laws of Nature (London: R. Phillips, 1727, inferred) | John Maxwell | `cumberland-maxwell-laws-of-nature-1727` | have-raw (IA `treatiseoflawsof00cumbuoft`) |
+
+## Ralph Barton Perry
+
+Shelf: `pipeline/ralph-barton-perry_shelf.json`. American new realism; only works published by 1930.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Approach to Philosophy (New York: Scribner, 1905) |  | `perry-approach-to-philosophy-1905` | have (PG 25110) |
+| The Moral Economy (New York: Scribner, 1909) |  | `perry-moral-economy-1909` | have (PG 22135) |
+| Present Philosophical Tendencies, with a synopsis of the philosophy of William James (New York: Longmans, Green; first published 1912, this a new impression of 1921) |  | `perry-present-philosophical-tendencies-1921` | have-raw (IA `presentphilosoph00perr_0`) |
+| The Free Man and the Soldier: essays on the reconciliation of liberty and discipline (New York: Scribner, 1916) |  | `perry-free-man-and-soldier-1916` | have-raw (IA `freemansoldieres0000perr`) |
+| The Present Conflict of Ideals: a study of the philosophical background of the World War (New York: Longmans, Green, 1918) |  | `perry-present-conflict-of-ideals-1918` | have-raw (IA `presentconflict00perruoft`) |
+| Philosophy of the Recent Past: an outline of European and American philosophy since 1860 (New York: Scribner, 1926) |  | `perry-philosophy-of-recent-past-1926` | have-raw (IA `philosophyofrece0000ralp`) |
+
+## Felix Adler
+
+Shelf: `pipeline/felix-adler_shelf.json`. Ethical Culture.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Creed and Deed: a series of discourses (1880) |  | `felix-adler-creed-and-deed-1880` | have (PG 37697) |
+| The Moral Instruction of Children (New York: Appleton, 1892) |  | `felix-adler-moral-instruction-of-children-1892` | have (PG 38730) |
+| Life and Destiny (London: Watts, 1913) |  | `felix-adler-life-and-destiny-1913` | have (PG 57752) |
+| An Ethical Philosophy of Life presented in its main outlines (New York: Appleton, 1920) |  | `felix-adler-ethical-philosophy-of-life-1920` | have (PG 60068) |
+| The Punishment of Children (1920; the March 1922 reprint) |  | `felix-adler-punishment-of-children-1922` | have (PG 57689) |
+| The Essentials of Spirituality (printing not named) |  | `felix-adler-essentials-of-spirituality` | have (PG 21981) |
+
+## Paul Carus
+
+Shelf: `pipeline/paul-carus_shelf.json`. Open Court monism.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Nietzsche and Other Exponents of Individualism (Chicago: Open Court, 1914) |  | `carus-nietzsche-and-individualism-1914` | have (PG 48495) |
+| Fundamental Problems: the method of philosophy as a systematic arrangement of knowledge (Chicago: Open Court, 1889) |  | `carus-fundamental-problems-1889` | have-raw (IA `fundamentalprobl00hebruoft`) |
+
+Pending (wishlist): The Foundations of Mathematics (1908) from a scan
+
+## James Mark Baldwin
+
+Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosophy.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Story of the Mind (New York: Appleton, 1905) |  | `baldwin-story-of-the-mind-1905` | have (PG 20522) |
+| Mental Development in the Child and the Race (New York and London: Macmillan, 1895) |  | `baldwin-mental-development-1895` | have-raw (IA `mentaldevelopme00bald`) |
+| Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906) |  | `baldwin-thought-and-things-1906-v1` | have-raw (IA `thoughtthingsstu01bald`) |
+| Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908) |  | `baldwin-thought-and-things-1908-v2` | have-raw (IA `thoughtandthings02balduoft`) |
+| Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911) |  | `baldwin-thought-and-things-1911-v3` | have-raw (IA `thoughtandthings03balduoft`) |
+| Handbook of Psychology: Senses and Intellect, 2nd ed., revised (New York: Holt; copyright 1889) |  | `baldwin-handbook-psychology-senses-intellect-1890` | have-raw (IA `handbookofpsycho00balduoft`) |
+| Handbook of Psychology: Feeling and Will (New York: Holt, 1891) |  | `baldwin-handbook-psychology-feeling-will-1891` | have-raw (IA `handbookofpsycho02balduoft`) |
+| Social and Ethical Interpretations in Mental Development, 4th ed. (New York: Macmillan, 1906) |  | `baldwin-social-ethical-interpretations-1906` | have-raw (IA `socialethicalint00bald`) |
+| Development and Evolution, including psychophysical evolution, evolution by orthoplasy, and the theory of genetic modes (New York: Macmillan, 1902) |  | `baldwin-development-and-evolution-1902` | have-raw (IA `developmentevolu00bald`) |
+| The Individual and Society, or Psychology and Sociology (Boston: Badger, 1911) |  | `baldwin-individual-and-society-1911` | have-raw (IA `cu31924031447760`) |
+
+## C. I. Lewis
+
+Shelf: `pipeline/c-i-lewis_shelf.json`. Symbolic logic and theory of knowledge; the 1918 Survey and Mind and the World-Order (1929) are before 1931.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| A Survey of Symbolic Logic (Berkeley: University of California Press, 1918) |  | `lewis-survey-of-symbolic-logic-1918` | have-raw (IA `asurveyofsymboli00lewiuoft`) |
+| Mind and the World-Order, outline of a theory of knowledge (London and New York: Scribner, 1929) |  | `lewis-mind-and-the-world-order-1929` | have-raw (IA `in.ernet.dli.2015.76173`) |
+
+## William Ernest Hocking
+
+Shelf: `pipeline/william-ernest-hocking_shelf.json`. Idealist philosophy of religion.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Meaning of God in Human Experience (New Haven: Yale University Press, 1912; printing of 1928) |  | `hocking-meaning-of-god-1912-printed-1928` | have-raw (IA `meaningofgodinhu12hock`) |
+| Human Nature and its Remaking (New Haven: Yale University Press, 1918) |  | `hocking-human-nature-and-its-remaking-1918` | have-raw (IA `humannaturerema00hockuoft`) |
+| Man and the State (New Haven: Yale University Press, 1926) |  | `hocking-man-and-the-state-1926` | have-raw (IA `manstate0000hock`) |
+
+## Mary Whiton Calkins
+
+Shelf: `pipeline/mary-whiton-calkins_shelf.json`. Personalist metaphysics and ethics.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Persistent Problems of Philosophy, 4th revised ed. (New York: Macmillan, 1921) |  | `calkins-persistent-problems-of-philosophy-1921` | have-raw (IA `cu31924029119563`) |
+| The Good Man and the Good, an introduction to ethics (New York: Macmillan, 1918) |  | `calkins-good-man-and-the-good-1918` | have-raw (IA `thegoodmanandthe00calkuoft`) |
+
+## Hugo Münsterberg (philosophy)
+
+Shelf: `pipeline/hugo-munsterberg_shelf.json`. Philosophy of values.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Eternal Values (Boston: Houghton Mifflin, 1909) |  | `munsterberg-eternal-values-1909` | have-raw (IA `eternalvalues00muns`) |
+| Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906) |  | `munsterberg-science-and-idealism-1906` | have-raw (IA `scienceandideali00meunuoft`) |
+| Psychotherapy (1909) |  | `munsterberg-psychotherapy` | have (PG 22775) |
+| Psychology and Social Sanity (1914) |  | `munsterberg-psychology-and-social-sanity` | have (PG 25006) |
+| Psychology and Industrial Efficiency (1913) |  | `munsterberg-psychology-industrial-efficiency` | have (PG 15154) |
+| The Photoplay: A Psychological Study (1916) |  | `munsterberg-photoplay` | have (PG 15383) |
+| The Americans (tr. Edwin B. Holt, 1904) | Edwin B. Holt | `munsterberg-the-americans` | have (PG 56376) |
+
+## Edwin B. Holt
+
+Shelf: `pipeline/edwin-b-holt_shelf.json`. American new realism, including the 1912 cooperative volume.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Concept of Consciousness (London: George Allen, 1914) |  | `holt-concept-of-consciousness-1914` | have-raw (IA `theconceptofcons00holtuoft`) |
+| The New Realism: cooperative studies in philosophy, with Marvin, Montague, Perry, Pitkin and Spaulding (New York: Macmillan, 1912) |  | `holt-and-others-new-realism-1912` | have-raw (IA `cu31924014628360`) |
+| The Freudian Wish and its Place in Ethics (New York: Henry Holt, 1915) |  | `holt-freudian-wish-1915` | have-raw (IA `freudianwishitsp007914mbp`) |
+
+## George Sylvester Morris
+
+Shelf: `pipeline/george-sylvester-morris_shelf.json`. Hegelian idealism in America.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| British Thought and Thinkers (Chicago: S. C. Griggs, 1880) |  | `morris-british-thought-and-thinkers-1880` | have-raw (IA `britishthought00morruoft`) |
+| Kant's Critique of Pure Reason: a critical exposition, Griggs's Philosophical Classics (Chicago: S. C. Griggs, 1882) |  | `morris-kants-critique-exposition-1882` | have-raw (IA `kantscritiqueofp00morr`) |
+| Philosophy and Christianity, Ely lectures (New York: Robert Carter, 1883) |  | `morris-philosophy-and-christianity-1883` | have-raw (IA `philosophychrist00morr`) |
+| Hegel's Philosophy of the State and of History: an exposition, Griggs's German Philosophical Classics (Chicago: S. C. Griggs, 1887) |  | `morris-hegels-philosophy-of-the-state-1887` | have-raw (IA `hegelsphilosophy00morruoft`) |
+
+## Lucien Lévy-Bruhl
+
+Shelf: `pipeline/lucien-levy-bruhl_shelf.json`. French philosophy surveyed.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Modern Philosophy in France (Chicago: Open Court, 1899) | G. Coblence | `levy-bruhl-coblence-modern-philosophy-in-france-1899` | have-raw (IA `historyofmodernp00laevuoft`) |
+| The Philosophy of Auguste Comte, authorised translation, introduction by Frederic Harrison (London: Swan Sonnenschein, 1903) |  | `levy-bruhl-philosophy-of-comte-1903` | have-raw (IA `philosophycomte00levyuoft`) |
+
+## Gabriel Tarde
+
+Shelf: `pipeline/gabriel-tarde_shelf.json`. Social philosophy of imitation.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Laws of Imitation (New York: Henry Holt, 1903) | Elsie Clews Parsons | `tarde-parsons-laws-of-imitation-1903` | have-raw (IA `lawsofimitation00tard`) |
+| Social Laws: an outline of sociology (New York: Macmillan, 1899) | Howard C. Warren | `tarde-warren-social-laws-1899` | have-raw (IA `sociallawsoutlin00tarduoft`) |
+
+## Joseph de Maistre
+
+Shelf: `pipeline/joseph-de-maistre_shelf.json`. Counter-Enlightenment political philosophy.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Letters on the Spanish Inquisition (Boston: Patrick Donahoe, 1843) | T. J. O'Flaherty | `maistre-oflaherty-spanish-inquisition-1843` | have-raw (IA `lettersonspanish00maisuoft`) |
+| Essay on the Generative Principle of Political Constitutions (Boston: Little and Brown, 1847) |  | `maistre-generative-principle-1847` | have-raw (IA `essayongenerativ00mais`) |
+| The Pope, considered in his relations with the Church (London: C. Dolman, 1850) | Aeneas McD. Dawson | `maistre-dawson-the-pope-1850` | have-raw (IA `ThePopeConsidered`) |
+
+Pending (wishlist): The St. Petersburg Dialogues in a pre-1931 English version
+
+## Théodule Ribot
+
+Shelf: `pipeline/theodule-ribot_shelf.json`. Positive psychology in the French school.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Psychology of the Emotions (London: Walter Scott, 1897) |  | `ribot-psychology-of-the-emotions-1897` | have (PG 67585) |
+| Diseases of Memory, an essay in the positive psychology (New York: Appleton, 1887) | William Huntington Smith | `ribot-smith-diseases-of-memory-1887` | have-raw (IA `diseasesofmemory00ribouoft`) |
+| The Psychology of Attention, 5th revised ed. (Chicago: Open Court, 1903) |  | `ribot-psychology-of-attention-1903` | have-raw (IA `psychologyofatte00ribo`) |
+| The Diseases of the Will, 4th enlarged English ed. (Chicago: Open Court, 1915) | Merwin-Marie Snell | `ribot-snell-diseases-of-the-will-1915` | have-raw (IA `diseasesofwillau00ribo`) |
+| Heredity: a psychological study of its phenomena, laws, causes and consequences (New York: D. Appleton, 1875) |  | `ribot-heredity-1875` | have-raw (IA `cu31924079619544`) |
+| English Psychology (New York: D. Appleton, 1874) |  | `ribot-english-psychology-1874` | have-raw (IA `englishpsycholog00ribouoft`) |
+| The Diseases of Personality (New York, copyright 1887 by J. Fitzgerald) | J. Fitzgerald | `ribot-fitzgerald-diseases-of-personality-1887` | have-raw (IA `diseasesofperson87ribo`) |
+
+## Friedrich Schleiermacher
+
+Shelf: `pipeline/schleiermacher_shelf.json`. Romantic philosophy of religion.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Religion: speeches to its cultured despisers (London: Kegan Paul, 1893) | John Oman | `schleiermacher-oman-on-religion-1893` | have-raw (IA `onreligionspeech00schluoft`) |
+| Soliloquies: an English translation of the Monologen, with a critical introduction and appendix (Chicago: Open Court, 1926) | Horace Leland Friess | `schleiermacher-friess-soliloquies-1926` | have-raw (IA `schleiermacherss00schl`) |
+
+Pending (wishlist): The Christian Faith (1928) in its first impression (the open IA scans are later impressions)
+
+## Ludwig Büchner
+
+Shelf: `pipeline/ludwig-buchner_shelf.json`. Nineteenth-century German materialism.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Force and Matter, 2nd English ed. (London: Trübner, 1870) | J. Frederick Collingwood | `buchner-collingwood-force-and-matter-1870` | have-raw (IA `forceandmatterem00beucuoft`) |
+
+## Wilhelm von Humboldt
+
+Shelf: `pipeline/wilhelm-von-humboldt_shelf.json`. Liberal theory of the state.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Sphere and Duties of Government (London: John Chapman, 1854) | Joseph Coulthard | `humboldt-coulthard-sphere-and-duties-of-government-1854` | have-raw (IA `spheredutiesofgo00humb`) |
+
+## Moses Mendelssohn
+
+Shelf: `pipeline/moses-mendelssohn_shelf.json`. Enlightenment philosophy of religion and toleration.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Jerusalem, vol. I (London: Longman, 1838) | M. Samuels | `mendelssohn-samuels-jerusalem-1838-v1` | have-raw (IA `jerusalemtreatis01mend`) |
+| Jerusalem, vol. II (London: Longman, 1838) | M. Samuels | `mendelssohn-samuels-jerusalem-1838-v2` | have-raw (IA `jerusalemtreatis02mend`) |
+| Phaedon, or The Death of Socrates (London: printed for the author by J. Cooper, 1789) | Charles Cullen | `mendelssohn-cullen-phaedon-1789` | have-raw (IA `phdonordeathofso00mend`) |
+
+## Leslie Stephen
+
+Shelf: `pipeline/leslie-stephen_shelf.json`. Historian of English thought and evolutionary moralist.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The English Utilitarians, vol. I: Jeremy Bentham (London: Duckworth, 1900) |  | `stephen-english-utilitarians-1900-v1` | have (PG 27597) |
+| The English Utilitarians, vol. II: James Mill (London: Duckworth, 1900) |  | `stephen-english-utilitarians-1900-v2` | have (PG 25788) |
+| Social Rights and Duties, vol. I (London: Swan Sonnenschein, 1896) |  | `stephen-social-rights-and-duties-1896-v1` | have (PG 28901) |
+| Social Rights and Duties, vol. II (London: Swan Sonnenschein, 1896) |  | `stephen-social-rights-and-duties-1896-v2` | have (PG 36957) |
+| History of English Thought in the Eighteenth Century, vol. I (London: Smith, Elder, 1876) |  | `stephen-english-thought-18th-century-1876-v1` | have-raw (IA `historyofenglish01stepuoft`) |
+| History of English Thought in the Eighteenth Century, vol. II (London: Smith, Elder, 1876) |  | `stephen-english-thought-18th-century-1876-v2` | have-raw (IA `historyofenglish02stepuoft`) |
+| The Science of Ethics (New York: Putnam, 1882) |  | `stephen-science-of-ethics-1882` | have-raw (IA `thescienceofethi00stepuoft`) |
+| The English Utilitarians, vol. III: John Stuart Mill (New York: Putnam; London: Duckworth, 1902) |  | `stephen-english-utilitarians-1902-v3` | have-raw (IA `cu31924092293400`) |
+| Hours in a Library, vol. 1 (new edition) |  | `stephen-hours-in-a-library-1` | have (PG 20459) |
+| Hours in a Library, vol. 2 (new edition) |  | `stephen-hours-in-a-library-2` | have (PG 30336) |
+| Hours in a Library, vol. 3 (new edition) |  | `stephen-hours-in-a-library-3` | have (PG 58625) |
+| English Literature and Society in the Eighteenth Century (1904) |  | `stephen-english-literature-and-society` | have (PG 21123) |
+| Samuel Johnson (English Men of Letters, 1878) |  | `stephen-samuel-johnson` | have (PG 11031) |
+| Alexander Pope (English Men of Letters, 1880) |  | `stephen-alexander-pope` | have (PG 19654) |
+| Swift (English Men of Letters, 1882) |  | `stephen-swift` | have (PG 41532) |
+| The Life of Sir James Fitzjames Stephen (1895) |  | `stephen-life-of-fitzjames-stephen` | have (PG 28980) |
+
+## W. E. H. Lecky
+
+Shelf: `pipeline/lecky_shelf.json`. History of morals and of rationalism.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| History of European Morals from Augustus to Charlemagne, 9th ed., vol. I (London: Longmans, Green, 1890) |  | `lecky-european-morals-1890-v1` | have (PG 39273) |
+| History of European Morals from Augustus to Charlemagne, 9th ed., vol. II (London: Longmans, Green, 1890) |  | `lecky-european-morals-1890-v2` | have (PG 39535) |
+| The Map of Life: conduct and character (London: Longmans, Green; reprint of 1902) |  | `lecky-map-of-life-1902` | have (PG 26334) |
+| History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. I (London: Longmans, Green, 1873; the edition number is garbled in the OCR) |  | `lecky-spirit-of-rationalism-1873-v1` | have-raw (IA `riseinfluenceofs01leckiala`) |
+| History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. II (London: Longmans, Green, 1873) |  | `lecky-spirit-of-rationalism-1873-v2` | have-raw (IA `riseinfluenceofs02leckiala`) |
+| Historical and Political Essays (1908) |  | `lecky-historical-and-political-essays` | have (PG 20389) |
+
+## Sir Henry Sumner Maine
+
+Shelf: `pipeline/henry-maine_shelf.json`. Historical jurisprudence.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Ancient Law, 3rd American from the 5th London ed. (New York: Henry Holt, 1875) |  | `maine-ancient-law-1875` | have-raw (IA `cu31924021177807`) |
+| Village-Communities in the East and West (London: John Murray, 1871) |  | `maine-village-communities-1871` | have-raw (IA `cu31924030429413`) |
+| Lectures on the Early History of Institutions (New York: Henry Holt, 1888) |  | `maine-early-history-of-institutions-1888` | have-raw (IA `lecturesonearlyh00mainiala`) |
+| Popular Government, four essays, 2nd ed. (London: John Murray, 1886) |  | `maine-popular-government-1886` | have-raw (IA `cu31924030448413`) |
+
+## Walter Bagehot
+
+Shelf: `pipeline/walter-bagehot_shelf.json`. Political thought.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Physics and Politics, new and cheaper edition (year not printed) |  | `bagehot-physics-and-politics` | have (PG 4350) |
+| The English Constitution, 2nd ed. (printing not named) |  | `bagehot-english-constitution-2nd-ed` | have (PG 4351) |
+| Lombard Street: A Description of the Money Market (1873; printing not named) |  | `bagehot-lombard-street` | have (PG 4359) |
+| Literary Studies, vol. I, ed. R. H. Hutton, fourth edition (London, 1891) |  | `bagehot-literary-studies-v1` | have (PG 78449) |
+| Literary Studies, vol. II, ed. R. H. Hutton, fourth edition (London, 1891) |  | `bagehot-literary-studies-v2` | have (PG 78450) |
+
+## Thomas Henry Huxley
+
+Shelf: `pipeline/thomas-henry-huxley_shelf.json`. Agnosticism, evolution and ethics.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Lay Sermons, Addresses and Reviews (London: Macmillan, 1870) |  | `huxley-lay-sermons-1870` | have (PG 16729) |
+| Critiques and Addresses (1873) |  | `huxley-critiques-and-addresses-1873` | have (PG 12506) |
+| Hume, English Men of Letters (London: Macmillan, 1879) |  | `huxley-hume-1879` | have (PG 18819) |
+| Essays upon some Controverted Questions (London: Macmillan, 1892) |  | `huxley-controverted-questions-1892` | have (PG 34698) |
+| Science and Education, Collected Essays III (preface dated 1893) |  | `huxley-science-and-education` | have (PG 7150) |
+| Evolution and Ethics, and other essays, Collected Essays IX (printing not named) |  | `huxley-evolution-and-ethics` | have (PG 2940) |
+| Science and Christian Tradition, Collected Essays V (New York: Appleton, 1902) |  | `huxley-science-and-christian-tradition-1902` | have (PG 15905) |
+| Method and Results, Collected Essays I (London: Macmillan, 1894 reprint of 1893) |  | `huxley-method-and-results-1894` | have-raw (IA `cu31924002923211`) |
+| Darwiniana, Collected Essays II (London: Macmillan, 1893) |  | `huxley-darwiniana-1893` | have-raw (IA `darwinianaessays00huxluoft`) |
+| Man's Place in Nature and other anthropological essays, Collected Essays VII (London: Macmillan, 1895 reprint of 1894) |  | `huxley-mans-place-in-nature-1895` | have-raw (IA `mansplaceinnatu06huxlgoog`) |
+
+## Samuel Alexander
+
+Shelf: `pipeline/samuel-alexander_shelf.json`. Realist metaphysics and evolutionary ethics.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Moral Order and Progress, 2nd ed. (London: Kegan Paul, 1891) |  | `alexander-moral-order-and-progress-1891` | have-raw (IA `moralorderandpro00alexuoft`) |
+| Space, Time and Deity, vol. I (London: Macmillan, 1920) |  | `alexander-space-time-and-deity-1920-v1` | have-raw (IA `cihm_66275`) |
+| Space, Time and Deity, vol. II (London: Macmillan, 1920) |  | `alexander-space-time-and-deity-1920-v2` | have-raw (IA `cihm_66276`) |
+| Locke (London: Constable, Philosophies Ancient and Modern, 1908) |  | `alexander-locke-1908` | have-raw (IA `lockealexander00alexiala`) |
+
+## James Hutchison Stirling
+
+Shelf: `pipeline/james-hutchison-stirling_shelf.json`. British Hegelianism's opening book.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Secret of Hegel, vol. I (London: Longman, 1865) |  | `stirling-secret-of-hegel-1865-v1` | have-raw (IA `cu31924092297922`) |
+| The Secret of Hegel, vol. II (London: Longman, 1865) |  | `stirling-secret-of-hegel-1865-v2` | have-raw (IA `cu31924092297914`) |
+| Text-Book to Kant: the Critique of Pure Reason, aesthetic, categories, schematism, translation, reproduction, commentary (Edinburgh: Oliver and Boyd, 1881) |  | `stirling-text-book-to-kant-1881` | have-raw (IA `textbooktokantcr00kantuoft`) |
+
+## R. G. Collingwood
+
+Shelf: `pipeline/r-g-collingwood_shelf.json`. Idealist philosophy of religion; works before 1931 only.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Religion and Philosophy (London: Macmillan, 1916, inferred) |  | `collingwood-religion-and-philosophy-1916` | have-raw (IA `religionphilosop00colluoft`) |
+
+Pending (wishlist): Speculum Mentis (1924) in a first printing (the open IA scan is the 1946 photographic reprint)
+
+## James Martineau
+
+Shelf: `pipeline/james-martineau_shelf.json`. Philosophy of religion and ethics.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Studies of Christianity, ed. William R. Alger (Boston: American Unitarian Association, 1858) |  | `martineau-studies-of-christianity-1858` | have (PG 40387) |
+| A Study of Religion, vol. I (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v1` | have-raw (IA `studyofreligioni01martuoft`) |
+| A Study of Religion, vol. II, American edition revised (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v2` | have-raw (IA `studyreligionsourc02mart`) |
+| Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885) |  | `martineau-types-of-ethical-theory-1885-v1` | have-raw (IA `ethicaltheory01martiala`) |
+| Types of Ethical Theory, vol. II (Oxford: Clarendon Press, 1885) |  | `martineau-types-of-ethical-theory-1885-v2` | have-raw (IA `typesofethicalth02martuoft`) |
+
+## John Grote
+
+Shelf: `pipeline/john-grote_shelf.json`. Cambridge moral philosophy.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Exploratio Philosophica, part I (Cambridge: Deighton, Bell, 1865) |  | `john-grote-exploratio-philosophica-1865-pt1` | have-raw (IA `exploratiophilo01grotuoft`) |
+| Exploratio Philosophica, part II, ed. J. B. Mayor (Cambridge: University Press, 1900) |  | `john-grote-exploratio-philosophica-1900-pt2` | have-raw (IA `exploratiophilos02grot`) |
+| An Examination of the Utilitarian Philosophy, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1870) |  | `john-grote-examination-utilitarian-philosophy-1870` | have-raw (IA `examinationofuti00grotrich`) |
+| A Treatise on the Moral Ideals, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1876) |  | `john-grote-moral-ideals-1876` | have-raw (IA `atreatiseonmora00grotuoft`) |
+
+## Alexander Campbell Fraser
+
+Shelf: `pipeline/alexander-campbell-fraser_shelf.json`. Theism and Scottish philosophy.
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Philosophy of Theism, 2nd ed. amended (Edinburgh: Blackwood, 1899) |  | `fraser-philosophy-of-theism-1899` | have-raw (IA `philosophytheis09frasgoog`) |
+
+## Nicholas of Cusa
+
+Shelf: `pipeline/nicholas-of-cusa_shelf.json`. Renaissance Platonist mysticism.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Vision of God (London: J. M. Dent, 1928) | Emma Gurney Salter | `cusa-salter-vision-of-god-1928` | have-raw (IA `visionofgod00nich`) |
+
+Pending (wishlist): Of Learned Ignorance in a pre-1931 English version
+
+## Schelling in English
+
+Shelf: `pipeline/schelling_shelf.json`. The Philosophy of Art (Johnson, 1845).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophy of Art: an oration on the relation between the plastic arts and nature (London: John Chapman, 1845) | A. Johnson | `schelling-johnson-philosophy-of-art-1845` | have-raw (IA `philosophyartan00schegoog`) |
+
+Pending (wishlist): Of University Studies, tr. E. S. Morgan (1877)
+
+## Pierre Bayle
+
+Shelf: `pipeline/pierre-bayle_shelf.json`. The Dictionary Historical and Critical, second edition (1734-38, 5 vols.).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Dictionary Historical and Critical, second edition, vol. I: A-Bi (London, 1734, inferred) |  | `bayle-dictionary-1734-v1` | have-raw (IA `dictionaryhi_bayl_1738_01`) |
+| The Dictionary Historical and Critical, second edition, vol. II: Bi-E (London, 1735) |  | `bayle-dictionary-1735-v2` | have-raw (IA `dictionaryhi_bayl_1738_02`) |
+| The Dictionary Historical and Critical, second edition, vol. III: F-L (London, 1736, inferred) |  | `bayle-dictionary-1736-v3` | have-raw (IA `dictionaryhi_bayl_1738_03`) |
+| The Dictionary Historical and Critical, second edition, vol. IV (London, 1737) |  | `bayle-dictionary-1737-v4` | have-raw (IA `dictionaryhi_bayl_1738_04`) |
+| The Dictionary Historical and Critical, second edition, vol. V (London, 1738) |  | `bayle-dictionary-1738-v5` | have-raw (IA `dictionaryhi_bayl_1738_05`) |
+
+## Joseph Glanvill
+
+Shelf: `pipeline/joseph-glanvill_shelf.json`. Essays (1676) and Scepsis Scientifica (Owen, 1885).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Essays on Several Important Subjects in Philosophy and Religion (London: John Baker and Henry Mortlock, 1676) |  | `glanvill-essays-1676` | have-raw (IA `essaysonseverali00glan`) |
+| Scepsis Scientifica, ed. John Owen (London: Kegan Paul, Trench, 1885) |  | `glanvill-owen-scepsis-scientifica-1885` | have-raw (IA `scepsisscientifi00glan`) |
+| Saducismus Triumphatus, or full and plain evidence concerning witches and apparitions, third edition with additions, with Henry More's account and Anthony Horneck's Swedish relations (London: printed for A. L., sold by Roger Tuckyr, 1700) |  | `glanvill-saducismus-triumphatus-1700` | have-raw (IA `saducismustriump00glan`) |
+
+## John Toland
+
+Shelf: `pipeline/john-toland_shelf.json`. Pantheisticon (1751, first English).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Pantheisticon, first English translation (London: Sam. Paterson; year not legible, 1751 per catalogue) |  | `toland-pantheisticon-1751` | have-raw (IA `cu31924029188393`) |
+
+Pending (wishlist): Christianity not Mysterious (1696) and Letters to Serena (1704) in scans over the OCR gate
+
+## Thomas Chubb
+
+Shelf: `pipeline/thomas-chubb_shelf.json`. A Collection of Tracts, second edition (1754, 2 vols.).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| A Collection of Tracts on Various Subjects, second edition, vol. I (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v1` | have-raw (IA `acollectiontrac01chubgoog`) |
+| A Collection of Tracts on Various Subjects, second edition, vol. II (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v2` | have-raw (IA `collectionoftrac02chub`) |
+
+## Juan Donoso Cortes
+
+Shelf: `pipeline/donoso-cortes_shelf.json`. Essay on Catholicism, Liberalism and Socialism (Goddard, 1862).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essay on Catholicism, Liberalism and Socialism (Philadelphia: J. B. Lippincott, 1862) | Madeleine Vinton Goddard | `donoso-cortes-goddard-essay-1862` | have-raw (IA `essayoncatholici00dono`) |
+
+## Roger Bacon
+
+Shelf: `pipeline/roger-bacon_shelf.json`. The Opus Majus, tr. Burke (1928, 2 vols.).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Opus Majus, vol. I (Philadelphia: University of Pennsylvania Press, 1928) | Robert Belle Burke | `roger-bacon-burke-opus-majus-1928-v1` | have-raw (IA `opusmajustransla01baco`) |
+| The Opus Majus, vol. II (Philadelphia: University of Pennsylvania Press, 1928) | Robert Belle Burke | `roger-bacon-burke-opus-majus-1928-v2` | have-raw (IA `opusmajusofroger0002robe_l9a1`) |
+
+## John of Salisbury
+
+Shelf: `pipeline/john-of-salisbury_shelf.json`. The Statesman's Book, from the Policraticus (Dickinson, 1927).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Statesman's Book, from the Policraticus (New York: Alfred A. Knopf, 1927) | John Dickinson | `salisbury-dickinson-statesmans-book-1927` | have-raw (IA `statesmansbookof0000unse`) |
+
+## Francois Hotman
+
+Shelf: `pipeline/francois-hotman_shelf.json`. Franco-Gallia, tr. Molesworth (1721).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Franco-Gallia, second edition (London: Edward Valentine, 1721) | 'the Author of the Account of Denmark' (Robert Molesworth, unnamed on the title page) | `hotman-molesworth-franco-gallia-1721` | have (PG 17894) |
+
+## John Selden
+
+Shelf: `pipeline/john-selden_shelf.json`. Table-Talk (1689), Arber's reprint (1868).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Table-Talk (1689), ed. Edward Arber, English Reprints no. 6 (London, 1868) |  | `selden-table-talk-arber-1868` | have-raw (IA `tabletalk00arbegoog`) |
+
+## Sir John Fortescue
+
+Shelf: `pipeline/john-fortescue_shelf.json`. The Governance of England, ed. Plummer (1885).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Governance of England, ed. Charles Plummer (Oxford: Clarendon Press, 1885) |  | `fortescue-plummer-governance-1885` | have-raw (IA `cu31924030433191`) |
+
+Pending (wishlist): De Laudibus Legum Angliae in English (Gregor's translation, 1874 or earlier)
+
+## George Buchanan
+
+Shelf: `pipeline/george-buchanan_shelf.json`. De Jure Regni apud Scotos in English (1689).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| De Jure Regni apud Scotos, a dialogue concerning the due privilege of government (London: Richard Baldwin, 1689) |  | `buchanan-de-jure-regni-1689` | have-raw (IA `dejureregniapuds00buchuoft`) |
+
+## John Millar
+
+Shelf: `pipeline/john-millar_shelf.json`. Observations concerning the Distinction of Ranks (1773).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Observations concerning the Distinction of Ranks in Society, second edition (London: J. Murray, 1773) |  | `millar-distinction-of-ranks-1773` | have-raw (IA `observationscon00millgoog`) |
+
+## Lord Monboddo
+
+Shelf: `pipeline/monboddo_shelf.json`. Antient Metaphysics (1779-1799, 6 vols.).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Antient Metaphysics, vol. I (Edinburgh and London, 1779) |  | `monboddo-antient-metaphysics-v1` | have-raw (IA `antientmetaphysi01monb`) |
+| Antient Metaphysics, vol. II (London and Edinburgh, 1782) |  | `monboddo-antient-metaphysics-v2` | have-raw (IA `antientmetaphysi02monb`) |
+| Antient Metaphysics, vol. III (London and Edinburgh, 1784) |  | `monboddo-antient-metaphysics-v3` | have-raw (IA `antientmetaphysi03monb`) |
+| Antient Metaphysics, vol. IV (Edinburgh and London, 1795) |  | `monboddo-antient-metaphysics-v4` | have-raw (IA `antientmetaphysi04monb`) |
+| Antient Metaphysics, vol. V (Edinburgh and London, 1797) |  | `monboddo-antient-metaphysics-v5` | have-raw (IA `antientmetaphysi05monb`) |
+| Antient Metaphysics, vol. VI (Edinburgh and London; 1799 per catalogue) |  | `monboddo-antient-metaphysics-v6` | have-raw (IA `antientmetaphysi06monb`) |
+
+Pending (wishlist): Of the Origin and Progress of Language (1773-92, 6 vols.)
+
+## Thomas Mun (political economy)
+
+Shelf: `pipeline/thomas-mun_shelf.json`. The mercantilist classic in Macmillan's Economic Classics reprint. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| England's Treasure by Forraign Trade (1664), Economic Classics (Macmillan, 1895) |  | `mun-englands-treasure-1895` | have-raw (IA `englandstreasur00mungoog`) |
+
+Pending (wishlist): A Discourse of Trade unto the East-Indies (1621), in a pre-1931 reprint
+
+## Turgot (political economy)
+
+Shelf: `pipeline/turgot_shelf.json`. The Reflections in English, Economic Classics. Translator not named. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Reflections on the Formation and the Distribution of Riches (1770), Economic Classics (Macmillan, 1898; reprint 1911) |  | `turgot-reflections-riches-1911` | have-raw (IA `reflectionsonfor00turg`) |
+| W. Walker Stephens, The Life and Writings of Turgot (Longmans, 1895) |  | `stephens-life-and-writings-of-turgot-1895` | have-raw (IA `lifewritingsoftu01stepuoft`) |
+
+## Jean-Baptiste Say (political economy)
+
+Shelf: `pipeline/jean-baptiste-say_shelf.json`. Prinsep's translation in Biddle's American edition. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Treatise on Political Economy, tr. C. R. Prinsep, ed. Clement C. Biddle (Philadelphia: Lippincott, 1857) | Prinsep | `say-prinsep-treatise-1857` | have-raw (IA `treatiseonpoliti00sayjrich`) |
+| Catechism of Political Economy, tr. John Richter (Philadelphia: Carey, 1817) | John Richter | `say-catechism-political-economy-1817` | have-raw (IA `catechismofpolit00sayj`) |
+
+## Friedrich List (political economy)
+
+Shelf: `pipeline/friedrich-list_shelf.json`. Lloyd's translation in Nicholson's 1904 edition; Matile's 1856 version not taken (one translation per work). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The National System of Political Economy, tr. Sampson S. Lloyd, ed. J. Shield Nicholson (Longmans, 1904) | Lloyd | `list-lloyd-national-system-1904` | have-raw (IA `nationalsystemp01nichgoog`) |
+
+## Robert Owen (political economy and socialism)
+
+Shelf: `pipeline/robert-owen_shelf.json`. Three early works; the Life (Bohn reprint) is held for want of a printed year. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Observations on the Effect of the Manufacturing System, second edition (London, 1817) |  | `owen-observations-manufacturing-1817` | have-raw (IA `observationsonef00owenrich`) |
+| The Book of the New Moral World (London: Effingham Wilson, 1836) |  | `owen-book-of-new-moral-world-1836` | have-raw (IA `bookofnewmoralwo00owen`) |
+| Essays on the Formation of the Human Character (London: B. D. Cousins; 1840 from the front matter) |  | `owen-formation-of-character-1840` | have-raw (IA `essaysonformatio00owen`) |
+
+Pending (wishlist): The Life of Robert Owen, written by himself (1857-58, or a dated reprint); A New View of Society (1813-16 first edition)
+
+## Sismondi (political economy)
+
+Shelf: `pipeline/sismondi_shelf.json`. The 1847 English selection of his economic writings. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Political Economy and the Philosophy of Government (London: John Chapman, 1847) |  | `sismondi-political-economy-1847` | have-raw (IA `politicaleconomy00sismuoft`) |
+
+Pending (wishlist): New Principles of Political Economy (no English before 1931 found yet)
+
+## Cournot (mathematical economics)
+
+Shelf: `pipeline/cournot_shelf.json`. Bacon's 1897 translation of the Researches. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Researches into the Mathematical Principles of the Theory of Wealth, tr. Nathaniel T. Bacon (Macmillan, 1897) | Bacon | `cournot-bacon-researches-1897` | have-raw (IA `bub_gb_AGoGpyJY_SAC`) |
+
+## Sir William Petty (political arithmetic)
+
+Shelf: `pipeline/william-petty_shelf.json`. Hull's two-volume Economic Writings (1899) plus the 1662 Treatise of Taxes from Gutenberg (overlap noted). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Treatise of Taxes and Contributions (London: N. Brooke, 1662) |  | `petty-treatise-of-taxes-1662` | have (PG 61588) |
+| The Economic Writings, ed. C. H. Hull, vol. I (Cambridge, 1899) |  | `petty-economic-writings-hull-v1` | have-raw (IA `economicwritings01pettuoft`) |
+| The Economic Writings, ed. C. H. Hull, vol. II (Cambridge, 1899) |  | `petty-economic-writings-hull-v2` | have-raw (IA `economicwriting02pettgoog`) |
+
+Pending (wishlist): The Petty Papers (ed. Lansdowne, 1927)
+
+## Henry George (political economy)
+
+Shelf: `pipeline/henry-george_shelf.json`. Progress and Poverty from Gutenberg plus the 1904 Complete Works whole (vol. I overlaps). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Progress and Poverty, Memorial Edition (Doubleday, 1898) |  | `george-progress-and-poverty-1898` | have (PG 55308) |
+| The Complete Works, vol. 1: Progress and Poverty (Doubleday, Page, 1904) |  | `george-complete-works-v01` | have-raw (IA `completeworksofh01georiala`) |
+| The Complete Works, vol. 2: Social Problems (Doubleday, Page, 1904) |  | `george-complete-works-v02` | have-raw (IA `completeworksofh02georiala`) |
+| The Complete Works, vol. 3: The Land Question and the pieces bound with it (Doubleday, Page, 1904) |  | `george-complete-works-v03` | have-raw (IA `completeworksofh03georiala`) |
+| The Complete Works, vol. 4: Protection or Free Trade (Doubleday, Page, 1904) |  | `george-complete-works-v04` | have-raw (IA `completeworksofh04georiala`) |
+| The Complete Works, vol. 5: A Perplexed Philosopher (Doubleday, Page, 1904) |  | `george-complete-works-v05` | have-raw (IA `completeworksofh05georiala`) |
+| The Complete Works, vol. 6: The Science of Political Economy, Books I-II (Doubleday, Page, 1904) |  | `george-complete-works-v06` | have-raw (IA `completeworksofh06georiala`) |
+| The Complete Works, vol. 7: The Science of Political Economy, Books III-V (Doubleday, Page, 1904) |  | `george-complete-works-v07` | have-raw (IA `completeworksofh07georiala`) |
+| The Complete Works, vol. 8: Our Land and Land Policy (Doubleday, Page, 1904) |  | `george-complete-works-v08` | have-raw (IA `completeworksofh08georiala`) |
+| The Complete Works, vol. 9: The Life of Henry George by Henry George Jr., first and second periods (Doubleday, Page, 1904) |  | `george-complete-works-v09` | have-raw (IA `completeworksofh09georiala`) |
+| The Complete Works, vol. 10: The Life of Henry George by Henry George Jr., third period (Doubleday, Page, 1904) |  | `george-complete-works-v10` | have-raw (IA `completeworksofh10georiala`) |
+
+## Nassau William Senior (political economy)
+
+Shelf: `pipeline/nassau-senior_shelf.json`. Two Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Four Introductory Lectures on Political Economy (London, 1852) |  | `senior-four-introductory-lectures-1852` | have (PG 47266) |
+| Statement of the Provision for the Poor (London, 1835) |  | `senior-provision-for-the-poor-1835` | have (PG 53316) |
+
+Pending (wishlist): An Outline of the Science of Political Economy (1836) in a pre-1931 printing
+
+## J. A. Hobson (political economy)
+
+Shelf: `pipeline/j-a-hobson_shelf.json`. Three Gutenberg texts, 1902-1920. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Problems of Poverty, sixth edition (1906) |  | `hobson-problems-of-poverty-1906` | have (PG 10710) |
+| The Evolution of Modern Capitalism (1902 edition) |  | `hobson-evolution-of-modern-capitalism-1902` | have (PG 28284) |
+| The Morals of Economic Internationalism (Houghton Mifflin, 1920) |  | `hobson-morals-economic-internationalism-1920` | have (PG 29881) |
+| The Physiology of Industry, with A. F. Mummery (Murray, 1889) |  | `hobson-mummery-physiology-of-industry-1889` | have-raw (IA `physiologyofindu00mummuoft`) |
+
+Pending (wishlist): Imperialism: A Study (1902) in a dated pre-1931 printing
+
+## John Bates Clark (political economy)
+
+Shelf: `pipeline/john-bates-clark_shelf.json`. The Distribution of Wealth (1899) and two Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essentials of Economic Theory (Macmillan, 1907) |  | `clark-essentials-economic-theory-1907` | have (PG 31159) |
+| Social Justice without Socialism (Houghton Mifflin, 1914) |  | `clark-social-justice-without-socialism-1914` | have (PG 29393) |
+| The Distribution of Wealth (Macmillan, 1899) |  | `clark-distribution-of-wealth-1899` | have-raw (IA `cu31924002609927`) |
+| The Philosophy of Wealth (Ginn, 1887) |  | `clark-philosophy-of-wealth-1886` | have-raw (IA `philosophyofweal00claruoft`) |
+
+## Thorstein Veblen (political economy)
+
+Shelf: `pipeline/thorstein-veblen_shelf.json`. Three Gutenberg texts; the Leisure Class stays on the Adler shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Instinct of Workmanship (Macmillan, 1914) |  | `veblen-instinct-of-workmanship-1914` | have (PG 69888) |
+| An Inquiry into the Nature of Peace (Macmillan, 1917) |  | `veblen-nature-of-peace-1917` | have (PG 20694) |
+| The Place of Science in Modern Civilisation (1919) |  | `veblen-place-of-science-1919` | have (PG 39949) |
+| The Theory of Business Enterprise (Scribner's, 1904) |  | `veblen-theory-business-enterprise-1904` | have-raw (IA `theorybusinesse04veblgoog`) |
+| The Higher Learning in America (Huebsch, 1918) |  | `veblen-higher-learning-in-america-1918` | have-raw (IA `higherlearningin00vebluoft`) |
+
+## Richard T. Ely (political economy)
+
+Shelf: `pipeline/richard-t-ely_shelf.json`. One Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| French and German Socialism in Modern Times (Harper, 1883) |  | `ely-french-german-socialism-1883` | have (PG 59815) |
+
+## William Thomas Thornton (political economy)
+
+Shelf: `pipeline/william-thomas-thornton_shelf.json`. One Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Old-Fashioned Ethics and Common-Sense Metaphysics (Macmillan, 1873) |  | `thornton-old-fashioned-ethics-1873` | have (PG 29917) |
+| On Labour, second edition (Macmillan, 1870) |  | `thornton-on-labour-1870` | have-raw (IA `onlabouritswrong00thoruoft`) |
+
+## William Graham Sumner (sociology and political economy)
+
+Shelf: `pipeline/william-graham-sumner_shelf.json`. Two Gutenberg texts; What Social Classes Owe to Each Other held (1951 reprint only). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Folkways (Ginn, 1906) |  | `sumner-folkways-1906` | have (PG 24253) |
+| The Forgotten Man and Other Essays, ed. A. G. Keller (Yale, 1919) |  | `sumner-forgotten-man-keller-1919` | have (PG 65693) |
+| What Social Classes Owe to Each Other (Harper, 1883) |  | `sumner-what-social-classes-owe-1883` | have-raw (IA `whatsocialclasse00sumnrich`) |
+
+## Frederic Bastiat (anonymous translations)
+
+Shelf: `pipeline/frederic-bastiat_shelf.json`. Two Gutenberg texts whose translators are unnamed; Stirling's versions are lane C's. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essays on Political Economy, third (People's) edition (Putnam, 1874) |  | `bastiat-essays-political-economy-1874` | have (PG 15962) |
+| Protection and Communism (London: J. W. Parker, 1852) |  | `bastiat-protection-and-communism-1852` | have (PG 44144) |
+
+## Eugen von Bohm-Bawerk (political economy)
+
+Shelf: `pipeline/eugen-bohm-bawerk_shelf.json`. Smart's two translations and Macdonald's Karl Marx. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Capital and Interest, tr. William Smart (Macmillan, 1890) | Smart | `bohm-bawerk-smart-capital-interest-1890` | have-raw (IA `capitalinterestc00bhuoft`) |
+| The Positive Theory of Capital, tr. William Smart (1891; Stechert reprint, 1928) |  | `bohm-bawerk-smart-positive-theory-1928` | have-raw (IA `positivetheoryof00bhuoft`) |
+| Karl Marx and the Close of his System, tr. Alice M. Macdonald (Fisher Unwin, 1898) | Macdonald | `bohm-bawerk-macdonald-karl-marx-1898` | have-raw (IA `karlmarxandclos00macdgoog`) |
+
+## Alfred Marshall (political economy)
+
+Shelf: `pipeline/alfred-marshall_shelf.json`. Principles, eighth edition (1920). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Principles of Economics, eighth edition (Macmillan, 1920) |  | `marshall-principles-of-economics-8th-1920` | have-raw (IA `bmshri.principlesofecon0000alfr_f4w9edition-8`) |
+| Industry and Trade, third edition (Macmillan, 1920) |  | `marshall-industry-and-trade-1919` | have-raw (IA `cu31924014549301`) |
+| Money, Credit & Commerce (Macmillan, 1923; reprint 1924) |  | `marshall-money-credit-commerce-1923` | have-raw (IA `dli.ernet.7805`) |
+
+## J. E. Cairnes (political economy)
+
+Shelf: `pipeline/john-elliott-cairnes_shelf.json`. Three works, 1863-1873. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Slave Power, third edition (New York: Follett, Foster, 1863) |  | `cairnes-slave-power-1863` | have-raw (IA `slavepoweritscha1863cair`) |
+| Essays in Political Economy, Theoretical and Applied (Macmillan, 1873) |  | `cairnes-essays-political-economy-1873` | have-raw (IA `bub_gb_x5182yt4_0UC`) |
+| Political Essays (Macmillan, 1873) |  | `cairnes-political-essays-1873` | have-raw (IA `politicalessays00cairuoft`) |
+| The Character and Logical Method of Political Economy (Harper, 1875) |  | `cairnes-character-logical-method-1875` | have-raw (IA `characterlogical00cair`) |
+
+Pending (wishlist): Some Leading Principles of Political Economy (1874) in a dated copy
+
+## Harriet Martineau (political economy and society)
+
+Shelf: `pipeline/harriet-martineau_shelf.json`. Thirteen Gutenberg volumes, 1834-1838. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Illustrations of Political Economy, vol. 1 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v1` | have (PG 70716) |
+| Illustrations of Political Economy, vol. 2 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v2` | have (PG 70737) |
+| Illustrations of Political Economy, vol. 3 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v3` | have (PG 71169) |
+| Illustrations of Political Economy, vol. 4 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v4` | have (PG 71544) |
+| Illustrations of Political Economy, vol. 5 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v5` | have (PG 72008) |
+| Illustrations of Political Economy, vol. 6 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v6` | have (PG 72923) |
+| Illustrations of Political Economy, vol. 7 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v7` | have (PG 73664) |
+| Illustrations of Political Economy, vol. 8 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v8` | have (PG 74238) |
+| Illustrations of Political Economy, vol. 9 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v9` | have (PG 76102) |
+| Illustrations of Taxation (London: Charles Fox, 1834) |  | `martineau-illustrations-of-taxation-1834` | have (PG 77059) |
+| Society in America, vol. I (New York: Saunders and Otley, 1837) |  | `martineau-society-in-america-v1-1837` | have (PG 52621) |
+| Society in America, vol. II (New York: Saunders and Otley, 1837) |  | `martineau-society-in-america-v2-1837` | have (PG 52685) |
+| How to Observe: Morals and Manners (London, 1838) |  | `martineau-how-to-observe-1838` | have (PG 33944) |
+
+Pending (wishlist): Martineau's free translation and condensation of Comte is on the comte shelf
+
+## George Savile, Marquis of Halifax
+
+Shelf: `pipeline/george-savile-halifax_shelf.json`. One Gutenberg text (1750). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Character of King Charles the Second, and Political, Moral and Miscellaneous Thoughts (Tonson and Draper, 1750) |  | `halifax-character-of-charles-ii-1750` | have (PG 35708) |
+
+Pending (wishlist): The Character of a Trimmer (in Raleigh's Complete Works of George Savile, Oxford 1912)
+
+## John Austin (jurisprudence)
+
+Shelf: `pipeline/john-austin_shelf.json`. Campbell's fifth edition of the Lectures (1885, 2 vols). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Lectures on Jurisprudence, fifth edition, ed. Robert Campbell, vol. I (London: John Murray, 1885) |  | `austin-lectures-jurisprudence-1885-v1` | have-raw (IA `lecturesonjuris02austgoog`) |
+| Lectures on Jurisprudence, fifth edition, ed. Robert Campbell, vol. II (London: John Murray, 1885) |  | `austin-lectures-jurisprudence-1885-v2` | have-raw (IA `lecturesonjuris01austgoog`) |
+
+## J. K. Bluntschli (theory of the state)
+
+Shelf: `pipeline/johann-caspar-bluntschli_shelf.json`. The Oxford translation of 1885. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of the State, tr. D. G. Ritchie, P. E. Matheson and R. Lodge (Oxford: Clarendon Press, 1885) | Ritchie | `bluntschli-theory-of-the-state-1885` | have-raw (IA `theoryofstate00blun`) |
+
+## Heinrich von Treitschke (politics)
+
+Shelf: `pipeline/heinrich-von-treitschke_shelf.json`. Dugdale and de Bille's translation (1916, 2 vols). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Politics, tr. Blanche Dugdale and Torben de Bille, vol. I (New York: Macmillan, 1916) | Dugdale | `treitschke-politics-dugdale-1916-v1` | have-raw (IA `politics01trei`) |
+| Politics, tr. Blanche Dugdale and Torben de Bille, vol. II (London: Constable, 1916) | Dugdale | `treitschke-politics-dugdale-1916-v2` | have-raw (IA `politics02treiuoft`) |
+
+## Ferdinand Lassalle (social democracy)
+
+Shelf: `pipeline/ferdinand-lassalle_shelf.json`. Peters' translation of the Arbeiter-Programm; the Open Letter held (no printed year). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Working Man's Programme, tr. Edward Peters (London: Modern Press, 1884) | Peters | `lassalle-working-mans-programme-1884` | have-raw (IA `workingmansprogr00lassiala`) |
+
+Pending (wishlist): Open Letter to the National Labor Association of Germany (tr. Ehmann and Bader) in a dated printing
+
+## Francis Lieber (political philosophy)
+
+Shelf: `pipeline/francis-lieber_shelf.json`. Woolsey's third edition of Civil Liberty (1874). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Civil Liberty and Self-Government, third edition, ed. T. D. Woolsey (Lippincott, 1874) |  | `lieber-civil-liberty-woolsey-1874` | have-raw (IA `3edoncivillibert00liebuoft`) |
+| Manual of Political Ethics, vol. I, second edition, ed. Woolsey (Lippincott; copyright 1874) |  | `lieber-manual-political-ethics-v1` | have-raw (IA `manualofpolitica01lieb_0`) |
+| Manual of Political Ethics, vol. II, second edition, ed. Woolsey (Lippincott, 1876) |  | `lieber-manual-political-ethics-v2` | have-raw (IA `manualofpolitica02liebiala`) |
+
+## John C. Calhoun (American political theory)
+
+Shelf: `pipeline/john-c-calhoun_shelf.json`. Cralle's Works, 6 vols. (1854-56), taken whole. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works, ed. R. K. Cralle, vol. 1: A Disquisition on Government and A Discourse on the Constitution and Government of the United States (New York: Appleton, 1854) |  | `calhoun-works-cralle-v1` | have-raw (IA `worksofjohnccalh01calh`) |
+| The Works, ed. R. K. Cralle, vol. 2: Speeches, vol. I (New York: Appleton, 1856, the OCR garbles the numeral) |  | `calhoun-works-cralle-v2` | have-raw (IA `worksofjohnccalh02calh`) |
+| The Works, ed. R. K. Cralle, vol. 3: Speeches, vol. II (New York: Appleton, 1854 or 1855, the OCR shows both) |  | `calhoun-works-cralle-v3` | have-raw (IA `worksofjohnccalh03calh`) |
+| The Works, ed. R. K. Cralle, vol. 4: Speeches, vol. III (New York: Appleton, 1856) |  | `calhoun-works-cralle-v4` | have-raw (IA `worksofjohnccalh04calh`) |
+| The Works, ed. R. K. Cralle, vol. 5: Reports and Public Letters (New York: Appleton, 1855) |  | `calhoun-works-cralle-v5` | have-raw (IA `worksofjohnccalh05calh`) |
+| The Works, ed. R. K. Cralle, vol. 6: Reports and Public Letters, continued (New York: Appleton, 1855) |  | `calhoun-works-cralle-v6` | have-raw (IA `worksofjohnccalh06calh`) |
+
+## Giuseppe Mazzini (political writings)
+
+Shelf: `pipeline/giuseppe-mazzini_shelf.json`. Smith, Elder's new edition of the Life and Writings (1890-91, 6 vols). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Life and Writings of Joseph Mazzini, new edition, vol. 1 (London: Smith, Elder, 1890) |  | `mazzini-life-and-writings-v1` | have-raw (IA `lifewritingsofjo01mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 2 (London: Smith, Elder, 1890) |  | `mazzini-life-and-writings-v2` | have-raw (IA `lifewritingsofjo02mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 3 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v3` | have-raw (IA `lifewritingsofjo03mazz`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 4 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v4` | have-raw (IA `lifewritingsofjo04mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 5 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v5` | have-raw (IA `lifewritingsofjo05mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 6 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v6` | have-raw (IA `lifewritingsofjo06mazzuoft`) |
+
+Pending (wishlist): An Essay on the Duties of Man in a dated printing
+
+## Samuel Clarke (natural religion)
+
+Shelf: `pipeline/samuel-clarke_shelf.json`. The Boyle Lectures (1719) and the Leibniz-Clarke papers (1717). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Discourse concerning the Being and Attributes of God (Boyle Lectures; London: Knapton, 1719) |  | `clarke-being-and-attributes-1719` | have-raw (IA `discourseconcern1719clar`) |
+| A Collection of Papers which passed between Mr. Leibnitz and Dr. Clarke (London, 1717) |  | `clarke-leibniz-papers-1717` | have-raw (IA `b30520022`) |
+
+Pending (wishlist): The Works (1738, 4 vols.)
+
+## John Balguy (moral philosophy)
+
+Shelf: `pipeline/john-balguy_shelf.json`. The Foundation of Moral Goodness, second edition (1731); the Letter to a Deist held (no year). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Foundation of Moral Goodness, second edition (London: John Pemberton, 1731) |  | `balguy-foundation-of-moral-goodness-1731` | have-raw (IA `bim_eighteenth-century_the-foundation-of-moral-_balguy-john_1731`) |
+
+Pending (wishlist): The Law of Truth (1733); A Letter to a Deist in a dated printing
+
+## James Beattie (common sense)
+
+Shelf: `pipeline/james-beattie_shelf.json`. The 1776 Essays. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essays on Truth, Poetry and Music, Laughter, and Classical Learning (Edinburgh: Creech, 1776) |  | `beattie-essays-truth-1776` | have-raw (IA `essaysontruth00beatuoft`) |
+| Elements of Moral Science, 2nd ed., vol. I (Creech, 1807) |  | `beattie-elements-moral-science-1807-v1` | have-raw (IA `elementsmoralsci01beatiala`) |
+| Elements of Moral Science, 2nd ed., vol. II (Creech, 1807) |  | `beattie-elements-moral-science-1807-v2` | have-raw (IA `elementsofmorals02beatiala`) |
+
+## George Campbell (rhetoric and miracles)
+
+Shelf: `pipeline/george-campbell_shelf.json`. Philosophy of Rhetoric (1885 Harper) and Dissertation on Miracles (1762). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophy of Rhetoric, new edition (New York: Harper, 1885) |  | `campbell-philosophy-of-rhetoric-1885` | have-raw (IA `philosophyrhetor00camp`) |
+| A Dissertation on Miracles (Edinburgh: Kincaid and Bell, 1762) |  | `campbell-dissertation-on-miracles-1762` | have-raw (IA `dissertationonmi00camp`) |
+
+## Hugh Blair (rhetoric)
+
+Shelf: `pipeline/hugh-blair_shelf.json`. Mills' 1857 edition of the Lectures. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Lectures on Rhetoric and Belles Lettres, ed. Abraham Mills (New York: Roe Lockwood, 1857) |  | `blair-lectures-rhetoric-mills-1857` | have-raw (IA `lecturesonrhetor00blai_1`) |
+
+Pending (wishlist): Lectures on Rhetoric and Belles Lettres, first edition (1783, 2 or 3 vols.)
+
+## Alexander Gerard (aesthetics)
+
+Shelf: `pipeline/alexander-gerard_shelf.json`. Essay on Taste, first edition (1759). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Essay on Taste, with dissertations by Voltaire, d'Alembert and Montesquieu (1759) |  | `gerard-essay-on-taste-1759` | have-raw (IA `essayontaste00geraiala`) |
+| An Essay on Genius (Strahan and Cadell, 1774) |  | `gerard-essay-on-genius-1774` | have-raw (IA `essayongenius00gera`) |
+
+## K. C. F. Krause (social philosophy)
+
+Shelf: `pipeline/karl-krause_shelf.json`. Hastie's 1900 English version. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Ideal of Humanity and Universal Federation, ed. W. Hastie (T. and T. Clark, 1900) | Hastie | `krause-ideal-of-humanity-hastie-1900` | have-raw (IA `idealofhumanityu00krau`) |
+
+## William Ellery Channing (Unitarian thought)
+
+Shelf: `pipeline/william-ellery-channing_shelf.json`. The one-volume Works (1877). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of William E. Channing, new and complete edition (Boston: AUA, 1877) |  | `channing-works-aua-1877` | have-raw (IA `worksofwilliame00chan`) |
+
+## Theodore Parker (Transcendentalism)
+
+Shelf: `pipeline/theodore-parker_shelf.json`. The 1842 Discourse and the 1867 Speeches. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Speeches, Addresses, and Occasional Sermons, vol. 1 (Boston: Horace B. Fuller, 1867) |  | `parker-speeches-addresses-v1` | have (PG 34573) |
+| Speeches, Addresses, and Occasional Sermons, vol. 2 (Boston: Horace B. Fuller, 1867) |  | `parker-speeches-addresses-v2` | have (PG 34637) |
+| Speeches, Addresses, and Occasional Sermons, vol. 3 (Boston: Horace B. Fuller, 1867) |  | `parker-speeches-addresses-v3` | have (PG 34688) |
+| A Discourse of Matters Pertaining to Religion (Boston: Little and Brown, 1842) |  | `parker-discourse-religion-1842` | have-raw (IA `discourseofmatt00park`) |
+
+Pending (wishlist): The Centenary Edition of his Works (1907-13), pre-1931
+
+## Ernst Mach (philosophy of science)
+
+Shelf: `pipeline/ernst-mach_shelf.json`. Williams' and Jourdain's translations; McCormack's are lane C's. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Contributions to the Analysis of the Sensations, tr. C. M. Williams (Open Court, 1897) | Williams | `mach-analysis-of-sensations-williams-1897` | have-raw (IA `contributionstoa00mach`) |
+| History and Root of the Principle of the Conservation of Energy, tr. P. E. B. Jourdain (Open Court, 1911) | Jourdain | `mach-conservation-of-energy-jourdain-1911` | have-raw (IA `historyrootofpri00mach`) |
+| The Analysis of Sensations, tr. C. M. Williams, rev. Sydney Waterlow (Open Court, 1914) | C. M. Williams and Sydney Waterlow | `mach-analysis-of-sensations-1914` | have-raw (IA `analysisofsensat00machuoft`) |
+
+## Hans Driesch (vitalism)
+
+Shelf: `pipeline/hans-driesch_shelf.json`. Gifford Lectures (1908, 2 vols) and two 1914 books. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Science and Philosophy of the Organism, Gifford Lectures 1907, vol. I (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v1` | have-raw (IA `thescienceandphi01drieuoft`) |
+| The Science and Philosophy of the Organism, Gifford Lectures 1908, vol. II (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v2` | have-raw (IA `thescienceandphi02drieuoft`) |
+| The Problem of Individuality (Macmillan, 1914) |  | `driesch-problem-of-individuality-1914` | have-raw (IA `cu31924029083982`) |
+| The History and Theory of Vitalism, tr. C. K. Ogden (Macmillan, 1914) | Ogden | `driesch-history-theory-vitalism-ogden-1914` | have-raw (IA `TheHistoryAndTheoryOfVitalism`) |
+
+## C. D. Broad (realism and ethics)
+
+Shelf: `pipeline/c-d-broad_shelf.json`. Four books, 1914-1930. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Perception, Physics, and Reality (Cambridge, 1914) |  | `broad-perception-physics-reality-1914` | have-raw (IA `perceptionphysic00broa`) |
+| Scientific Thought (Kegan Paul, 1923) |  | `broad-scientific-thought-1923` | have-raw (IA `scientificthough00broauoft`) |
+| The Mind and its Place in Nature, Tarner Lectures (Kegan Paul, 1925) |  | `broad-mind-and-its-place-1925` | have-raw (IA `minditsplaceinna00broa`) |
+| Five Types of Ethical Theory (Kegan Paul, 1930) |  | `broad-five-types-ethical-theory-1930` | have-raw (IA `fivetypesofethic00broa_0`) |
+
+Pending (wishlist): The Philosophy of Francis Bacon (1926 address)
+
+## Graham Wallas (political psychology)
+
+Shelf: `pipeline/graham-wallas_shelf.json`. Our Social Heritage (1921); Human Nature in Politics held (post-war edition). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Human Nature in Politics, third edition (1920) |  | `wallas-human-nature-in-politics-1908` | have (PG 11634) |
+| Our Social Heritage (Allen and Unwin, 1921) |  | `wallas-our-social-heritage-1921` | have-raw (IA `oursocialheritag00walluoft`) |
+| The Great Society (Macmillan, 1914) |  | `wallas-great-society-1914` | have-raw (IA `b31352492`) |
+| The Art of Thought (Jonathan Cape, 1926) |  | `wallas-art-of-thought-1926` | have-raw (IA `theartofthought`) |
+
+## A. V. Dicey (constitutional law)
+
+Shelf: `pipeline/a-v-dicey_shelf.json`. Law of the Constitution (4th ed., 1893) and Law and Public Opinion (1905). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Introduction to the Study of the Law of the Constitution, fourth edition (Macmillan, 1893) |  | `dicey-law-of-the-constitution-4th-1893` | have-raw (IA `introductiontos00dicegoog`) |
+| Lectures on the Relation between Law and Public Opinion in England (Macmillan, 1905) |  | `dicey-law-and-public-opinion-1905` | have-raw (IA `lecturesonrelat01dicegoog`) |
+| England's Case Against Home Rule (1886) |  | `dicey-englands-case-against-home-rule` | have (PG 14886) |
+| A Leap in the Dark (1893) |  | `dicey-leap-in-the-dark` | have (PG 15572) |
+
+## Harold J. Laski (pluralist political theory)
+
+Shelf: `pipeline/harold-laski_shelf.json`. Two works, 1918-1919; Political Thought held (no year). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Authority in the Modern State (Yale, 1919; third printing 1927) |  | `laski-authority-modern-state-1919` | have-raw (IA `authorityinmoder00lask_0`) |
+| The Problem of Administrative Areas (Smith College Studies in History, 1918) |  | `laski-administrative-areas-1918` | have-raw (IA `problemofadminis00laskrich`) |
+| Studies in the Problem of Sovereignty (Yale, 1917) |  | `laski-problem-of-sovereignty-1917` | have-raw (IA `studiesinproblem00laskuoft`) |
+| Political Thought in England from Locke to Bentham (Home University Library, 1920) |  | `laski-political-thought-locke-to-bentham` | have (PG 14735) |
+| Liberty in the Modern State (Harper, 1930) |  | `laski-liberty-in-the-modern-state` | have (PG 78171) |
+
+Pending (wishlist): A Grammar of Politics (1925)
+
+## Arthur O. Lovejoy (history of ideas)
+
+Shelf: `pipeline/arthur-o-lovejoy_shelf.json`. The Revolt against Dualism (1930, first edition). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Revolt against Dualism (Open Court, 1930, first edition) |  | `lovejoy-revolt-against-dualism-1930` | have-raw (IA `revoltagainstdua032051mbp`) |
+
+## R. H. Tawney (economic history and social thought)
+
+Shelf: `pipeline/r-h-tawney_shelf.json`. Three works, 1912-1926. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Acquisitive Society (Harcourt, Brace, 1920) |  | `tawney-acquisitive-society-1920` | have (PG 33741) |
+| Religion and the Rise of Capitalism (Harcourt, Brace, 1926) |  | `tawney-religion-rise-capitalism-1926` | have (PG 71223) |
+| The Agrarian Problem in the Sixteenth Century (Longmans, 1912) |  | `tawney-agrarian-problem-1912` | have-raw (IA `agrarianproblemi00tawn`) |
+
+## Lord Acton (history of liberty)
+
+Shelf: `pipeline/lord-acton_shelf.json`. Four Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Lecture on the Study of History (1895; Macmillan reprint 1911) |  | `acton-lecture-study-of-history-1895` | have (PG 25720) |
+| Lectures on Modern History, ed. Figgis and Laurence (1906; printing not named) |  | `acton-lectures-modern-history-1906` | have (PG 18685) |
+| The History of Freedom and Other Essays (1907; reprint 1909) |  | `acton-history-of-freedom-1907` | have (PG 31278) |
+| Lectures on the French Revolution (Macmillan, 1910) |  | `acton-lectures-french-revolution-1910` | have (PG 27488) |
+
+## F. W. Maitland (English legal history)
+
+Shelf: `pipeline/f-w-maitland_shelf.json`. Three works, 1897-1908. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Domesday Book and Beyond (Cambridge, 1897) |  | `maitland-domesday-book-and-beyond-1897` | have (PG 43255) |
+| English Law and the Renaissance, Rede Lecture (Cambridge, 1901) |  | `maitland-english-law-renaissance-1901` | have (PG 54251) |
+| The Constitutional History of England, ed. H. A. L. Fisher (Cambridge, 1908; reprint 1909) |  | `maitland-constitutional-history-1908` | have-raw (IA `constitutionalh00mait`) |
+| The History of English Law before the Time of Edward I, vol. I, with Sir Frederick Pollock (Cambridge, 1895) |  | `pollock-maitland-history-english-law-1895-v1` | have-raw (IA `cu31924017089115`) |
+| The History of English Law before the Time of Edward I, vol. II, with Sir Frederick Pollock (Cambridge, 1895) |  | `pollock-maitland-history-english-law-1895-v2` | have-raw (IA `cu31924061583377`) |
+
+## Otto von Gierke (medieval political theory)
+
+Shelf: `pipeline/otto-von-gierke_shelf.json`. Maitland's translation (1900). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Political Theories of the Middle Age, tr. F. W. Maitland (Cambridge, 1900; reprint 1913) | Maitland | `gierke-political-theories-middle-age-1900` | have-raw (IA `politicaltheorie00gieruoft`) |
+
+## James Bryce (history and political science)
+
+Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Holy Roman Empire, third edition (Macmillan, 1871) |  | `bryce-holy-roman-empire-1871` | have (PG 44101) |
+| Studies in History and Jurisprudence, vol. I (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v1` | have (PG 78300) |
+| Studies in History and Jurisprudence, vol. II (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v2` | have (PG 78301) |
+| Modern Democracies, vol. I (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v1` | have-raw (IA `moderndemocracie01brycuoft`) |
+| Modern Democracies, vol. II (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v2` | have-raw (IA `bwb_S0-BPV-402`) |
+| The American Commonwealth, vol. I (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v1` | have-raw (IA `americancommonwe01bryc_0`) |
+| The American Commonwealth, vol. II (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v2` | have-raw (IA `americancommonwe02bryc_0`) |
+| The American Commonwealth, vol. III (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v3` | have-raw (IA `americancommonwe03bryc`) |
+
+## Montesquieu (Romans, Persian Letters)
+
+Shelf: `pipeline/montesquieu_shelf.json`. Charles de Secondat, baron de Montesquieu (1689-1755). Raw IA OCR: Jehu Baker's Considerations on the Romans (Appleton, 1882) and John Davidson's Persian Letters (Dunne, 1901, bound with Goldsmith's Chinese Letters). The Spirit of Laws (Nugent) stays on the Adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Considerations on the Causes of the Grandeur and Decadence of the Romans, tr. Jehu Baker (Appleton, 1882) | Jehu Baker | `montesquieu-grandeur-decadence-romans-baker-1882` | have-raw (IA `cu31924028288722`) |
+| Persian Letters, tr. John Davidson, with Goldsmith's Chinese Letters (M. Walter Dunne, 1901) | John Davidson | `montesquieu-persian-letters-davidson-1901` | have-raw (IA `persianandchine00goldgoog`) |
+
+## William Blackstone (Commentaries, first edition)
+
+Shelf: `pipeline/william-blackstone_shelf.json`. Sir William Blackstone (1723-1780). The Commentaries on the Laws of England in the first Oxford edition, 1765-1769: Book I a clean Gutenberg text, Books II-IV raw IA OCR. A 1966 lithographic reprint of Book I and later editions were not taken.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Commentaries on the Laws of England, Book the First (Oxford, 1765) |  | `blackstone-commentaries-book1-1765` | have (PG 30802) |
+| Commentaries on the Laws of England, Book the Second (Oxford, 1766) |  | `blackstone-commentaries-book2-1766` | have-raw (IA `lawsofengland02blacuoft`) |
+| Commentaries on the Laws of England, Book the Third (Oxford, 1768) |  | `blackstone-commentaries-book3-1768` | have-raw (IA `commentariesonla03blac`) |
+| Commentaries on the Laws of England, Book the Fourth (Oxford, 1769) |  | `blackstone-commentaries-book4-1769` | have-raw (IA `lawsofenglandc04blacuoft`) |
+
+## Joseph Story (Commentaries on the Constitution)
+
+Shelf: `pipeline/joseph-story_shelf.json`. Joseph Story (1779-1845). Commentaries on the Constitution of the United States, first edition, 3 vols. (Boston, 1833), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Commentaries on the Constitution of the United States, vol. I (1833) |  | `story-commentaries-constitution-1833-v1` | have-raw (IA `commentariesonco01stor`) |
+| Commentaries on the Constitution of the United States, vol. II (1833) |  | `story-commentaries-constitution-1833-v2` | have-raw (IA `commentariesonco02stor`) |
+| Commentaries on the Constitution of the United States, vol. III (1833) |  | `story-commentaries-constitution-1833-v3` | have-raw (IA `commentariesonco03stor`) |
+| Commentaries on the Conflict of Laws, first edition (Hilliard, Gray, 1834) |  | `story-conflict-of-laws-1834` | have-raw (IA `commentariesonc17storgoog`) |
+
+Pending (wishlist): Commentaries on Equity Jurisprudence (1836)
+
+## James Wilson (Works, 1804)
+
+Shelf: `pipeline/james-wilson_shelf.json`. James Wilson (1742-1798). The Works, ed. Bird Wilson, 3 vols. (Philadelphia, 1804), chiefly the 1790-1791 law lectures, raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of the Honourable James Wilson, vol. I (Philadelphia, 1804) |  | `wilson-works-1804-v1` | have-raw (IA `workshonourable00wilsgoog`) |
+| The Works of the Honourable James Wilson, vol. II (Philadelphia, 1804) |  | `wilson-works-1804-v2` | have-raw (IA `workshonourable02wilsgoog`) |
+| The Works of the Honourable James Wilson, vol. III (Philadelphia, 1804) |  | `wilson-works-1804-v3` | have-raw (IA `workshonourable01wilsgoog`) |
+
+## Denis Diderot (philosophical works)
+
+Shelf: `pipeline/denis-diderot_shelf.json`. Denis Diderot (1713-1784). Raw IA OCR: Margaret Jourdain's Early Philosophical Works (Open Court, 1916) and Walter Herries Pollock's Paradox of Acting (1883). Birrell's Dialogues (1927) is on broadway-library.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Early Philosophical Works, tr. Margaret Jourdain (Open Court, 1916) | Margaret Jourdain | `diderot-early-philosophical-works-jourdain-1916` | have-raw (IA `earlyphilosophic00dide`) |
+| The Paradox of Acting, tr. Walter Herries Pollock (Chatto & Windus, 1883) | Walter Herries Pollock | `diderot-paradox-of-acting-pollock-1883` | have-raw (IA `cu31924027175961`) |
+
+Pending (wishlist): D'Alembert's Dream and Rameau's Nephew in a pre-1931 English translation
+
+## James Kent (Commentaries on American Law)
+
+Shelf: `pipeline/james-kent_shelf.json`. James Kent (1763-1847). Commentaries on American Law (New York: Halsted), raw IA OCR: vol. I (copyright entry 1826), vol. II second edition (1832), vol. III (1828). Vol. IV held: no legible year.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Commentaries on American Law, vol. I (Halsted; title page read 1828, copyright entry 1826) |  | `kent-commentaries-american-law-v1` | have-raw (IA `commentariesona13kentgoog`) |
+| Commentaries on American Law, vol. II, second edition (Halsted, 1832) |  | `kent-commentaries-american-law-v2-1832` | have-raw (IA `commentariesona15kentgoog`) |
+| Commentaries on American Law, vol. III (Halsted, 1828) |  | `kent-commentaries-american-law-v3-1828` | have-raw (IA `commentariesona04kentgoog`) |
+
+Pending (wishlist): Commentaries vol. IV (1830) with a legible title page
+
+## Henry Thomas Buckle (History of Civilization)
+
+Shelf: `pipeline/henry-thomas-buckle_shelf.json`. Henry Thomas Buckle (1821-1862). History of Civilization in England, 3 vols. (Toronto, 1878), clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Civilization in England, vol. I (Rose-Belford, 1878) |  | `buckle-history-civilization-england-v1` | have (PG 44493) |
+| History of Civilization in England, vol. II (Rose-Belford, 1878) |  | `buckle-history-civilization-england-v2` | have (PG 44494) |
+| History of Civilization in England, vol. III (Rose-Belford, 1878) |  | `buckle-history-civilization-england-v3` | have (PG 44495) |
+
+## John Morley (French Enlightenment, liberalism)
+
+Shelf: `pipeline/john-morley_shelf.json`. John Morley (1838-1923). On Compromise, Voltaire, Rousseau, Diderot and the Encyclopaedists vol. II, Burke; clean Gutenberg, Macmillan 1886-1908 printings.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Compromise (Macmillan, 1886; printing 1908) |  | `morley-on-compromise-1886` | have (PG 11557) |
+| Voltaire (Macmillan, 1886) |  | `morley-voltaire-1886` | have (PG 40846) |
+| Rousseau, vols. I and II (Macmillan, 1886; reprint 1905) |  | `morley-rousseau-1886` | have (PG 14052) |
+| Diderot and the Encyclopaedists, vol. II (Macmillan, 1886; reprint 1905) |  | `morley-diderot-encyclopaedists-v2` | have (PG 22797) |
+| Burke (Macmillan, 1888; reprint 1907) |  | `morley-burke-1888` | have (PG 12922) |
+| Diderot and the Encyclopaedists, vol. I |  | `morley-diderot-encyclopaedists-v1` | have (PG 15098) |
+| Studies in Literature (1891) |  | `morley-studies-in-literature` | have (PG 12001) |
+
+Pending (wishlist): Critical Miscellanies (3 vols) in whole-volume scans
+
+## George John Romanes (mind, evolution, belief)
+
+Shelf: `pipeline/george-romanes_shelf.json`. George John Romanes (1848-1894). Mental Evolution in Man, Darwin and After Darwin (3 vols.), Mind and Motion and Monism, Thoughts on Religion; clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Mental Evolution in Man (Kegan Paul, 1888) |  | `romanes-mental-evolution-in-man-1888` | have (PG 50382) |
+| Darwin, and After Darwin, vol. I (Open Court, fourth edition 1910) |  | `romanes-darwin-after-darwin-v1` | have (PG 24800) |
+| Darwin, and After Darwin, vol. II (Open Court, 1895; printing 1916) |  | `romanes-darwin-after-darwin-v2` | have (PG 37759) |
+| Darwin, and After Darwin, vol. III (Open Court, 1897; printing 1906) |  | `romanes-darwin-after-darwin-v3` | have (PG 37777) |
+| Mind and Motion and Monism (Longmans, 1895) |  | `romanes-mind-motion-monism-1895` | have (PG 22283) |
+| Thoughts on Religion, ed. Charles Gore (Longmans; twelfth impression 1904) |  | `romanes-thoughts-on-religion-1895` | have (PG 16942) |
+| The Scientific Evidences of Organic Evolution (1882) |  | `romanes-scientific-evidences-organic-evolution` | have (PG 19922) |
+| Animal Intelligence (International Scientific Series, 1882) |  | `romanes-animal-intelligence` | have (PG 40459) |
+| An Examination of Weismannism (1893) |  | `romanes-examination-of-weismannism` | have (PG 49458) |
+
+Pending (wishlist): A Candid Examination of Theism (1878; PG 19003 would not download)
+
+## John Tyndall (philosophy of science)
+
+Shelf: `pipeline/john-tyndall_shelf.json`. John Tyndall (1820-1893). Fragments of Science (1879), the imagination essays (1870), the Belfast Address (1874); clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Fragments of Science, sixth edition (Longmans, 1879) |  | `tyndall-fragments-of-science-1879` | have (PG 24527) |
+| Essays on the Use and Limit of the Imagination in Science (Longmans, 1870) |  | `tyndall-use-limit-imagination-1870` | have (PG 74654) |
+| Address delivered before the British Association assembled at Belfast (Longmans, 1874) |  | `tyndall-belfast-address-1874` | have (PG 75664) |
+
+## Erasmus Darwin (Zoonomia)
+
+Shelf: `pipeline/erasmus-darwin_shelf.json`. Erasmus Darwin (1731-1802). Zoonomia (1796, 2 vols.) and The Temple of Nature (1803); clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Zoonomia, vol. I, second edition (J. Johnson, 1796) |  | `erasmus-darwin-zoonomia-v1-1796` | have (PG 15707) |
+| Zoonomia, vol. II (J. Johnson, 1796) |  | `erasmus-darwin-zoonomia-v2-1796` | have (PG 27600) |
+| The Temple of Nature (J. Johnson, 1803) |  | `erasmus-darwin-temple-of-nature-1803` | have (PG 26861) |
+
+## François Guizot (philosophy of history)
+
+Shelf: `pipeline/francois-guizot_shelf.json`. François Guizot (1787-1874). General History of Civilisation in Europe (Chambers, 1848) and Democracy in France (1849); clean Gutenberg. Other Guizot titles are on lane C and singles shelves.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| General History of Civilisation in Europe (Chambers, 1848) |  | `guizot-civilisation-in-europe-1848` | have (PG 61572) |
+| Democracy in France, January 1849, fourth edition (Murray, 1849) |  | `guizot-democracy-in-france-1849` | have (PG 57601) |
+
+Pending (wishlist): History of Civilization in France, tr. Hazlitt (1846)
+
+## Volney (The Ruins)
+
+Shelf: `pipeline/volney_shelf.json`. Volney (1757-1820). The Ruins and The Law of Nature in the 1802 Paris translation (New York reprint, 1890); clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Ruins, or Meditation on the Revolutions of Empires, and The Law of Nature (Twentieth Century Pub. Co., 1890) |  | `volney-ruins-1890` | have (PG 1397) |
+
+## James Fitzjames Stephen (Liberty, Equality, Fraternity)
+
+Shelf: `pipeline/james-fitzjames-stephen_shelf.json`. Sir James Fitzjames Stephen (1829-1894). Liberty, Equality, Fraternity (New York, 1873), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Liberty, Equality, Fraternity (Holt & Williams, 1873) |  | `fitzjames-stephen-liberty-equality-fraternity-1873` | have-raw (IA `libertyequalityf0000jame`) |
+| A History of the Criminal Law of England, vol. I (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v1` | have-raw (IA `cu31924069583767`) |
+| A History of the Criminal Law of England, vol. II (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v2` | have-raw (IA `cu31924069587222`) |
+| A History of the Criminal Law of England, vol. III (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v3` | have-raw (IA `cu31924069587230`) |
+| Horae Sabbaticae, first series (Macmillan, 1892) |  | `stephen-horae-sabbaticae-1892-v1` | have-raw (IA `horaesabbaticaer01stepuoft`) |
+| Horae Sabbaticae, third series (Macmillan, 1892) |  | `stephen-horae-sabbaticae-1892-v3` | have-raw (IA `horaesabbaticaer03step`) |
+
+Pending (wishlist): Horae Sabbaticae, second series (1892), in a dated scan
+
+## Benjamin Kidd (Social Evolution)
+
+Shelf: `pipeline/benjamin-kidd_shelf.json`. Benjamin Kidd (1858-1916). Social Evolution (Macmillan, 1894), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Social Evolution (Macmillan, 1894) |  | `kidd-social-evolution-1894` | have-raw (IA `socialevolution00kiddiala`) |
+| Principles of Western Civilisation (Macmillan, 1902) |  | `kidd-principles-western-civilisation-1902` | have-raw (IA `principlesofwest0000benj`) |
+
+## J. R. Seeley (Expansion of England)
+
+Shelf: `pipeline/j-r-seeley_shelf.json`. Sir John Robert Seeley (1834-1895). The Expansion of England (1883; 1899 printing), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Expansion of England (Macmillan, 1883; this copy 1899) |  | `seeley-expansion-of-england-1883` | have-raw (IA `expansionenglan02seelgoog`) |
+| Introduction to Political Science, ed. Henry Sidgwick (Macmillan, 1896; reprint 1908) |  | `seeley-introduction-political-science-1896` | have-raw (IA `introtopolitical00seeliala`) |
+
+## Vladimir Soloviev (Three Conversations)
+
+Shelf: `pipeline/vladimir-soloviev_shelf.json`. Vladimir Solovyov (1853-1900). War and Christianity: Three Conversations (Constable, 1915), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| War and Christianity: Three Conversations (Constable, 1915) | Edward Cazalet, W. J. Barnes and H. H. Haynes | `soloviev-war-and-christianity-1915` | have-raw (IA `warchristianityf0000solo`) |
+
+Excluded: soloviev-justification-of-the-good-1918 (duplicate: singles-ideas-3 (lane C) already holds the same Duddington translation as PG 79715)
+
+## Joseph Joubert (Pensées)
+
+Shelf: `pipeline/joseph-joubert_shelf.json`. Joseph Joubert (1754-1824). Attwell's Pensées (1896), raw IA OCR. The 1928 Broadway Library Pensées and Letters is left for the broadway-library shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pensées of Joubert, tr. Henry Attwell, second edition (George Allen, 1896) | Henry Attwell | `joubert-pensees-attwell-1896` | have-raw (IA `pensesjoubert00joubgoog`) |
+
+## Henry Jones (Glasgow idealist)
+
+Shelf: `pipeline/henry-jones_shelf.json`. Sir Henry Jones (1852-1922). Six books, 1891-1919, raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Browning as a Philosophical and Religious Teacher (Maclehose, 1891; reprint 1912) |  | `jones-browning-philosophical-teacher-1891` | have-raw (IA `browningasphilos00joneuoft`) |
+| A Critical Account of the Philosophy of Lotze (Maclehose, 1895) |  | `jones-philosophy-of-lotze-1895` | have-raw (IA `criticalaccounto00jone`) |
+| Idealism as a Practical Creed (Maclehose, 1909) |  | `jones-idealism-practical-creed-1909` | have-raw (IA `idealismaspracti00jone`) |
+| The Working Faith of the Social Reformer (Macmillan, 1910) |  | `jones-working-faith-social-reformer-1910` | have-raw (IA `workingfaithofso00joneuoft`) |
+| Social Powers (Maclehose, 1913) |  | `jones-social-powers-1913` | have-raw (IA `socialpowersthre00joneiala`) |
+| The Principles of Citizenship (Macmillan, 1919) |  | `jones-principles-of-citizenship-1919` | have-raw (IA `principlescitiz00jonegoog`) |
+
+## John Watson (Kingston idealist)
+
+Shelf: `pipeline/john-watson-philosopher_shelf.json`. John Watson (1847-1939) of Queen's University, Kingston. Six books, 1881-1908, raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Kant and his English Critics (Macmillan, 1881) |  | `watson-kant-english-critics-1881` | have-raw (IA `cihm_42631`) |
+| Comte, Mill, and Spencer (Maclehose, 1895) |  | `watson-comte-mill-spencer-1895` | have-raw (IA `comtemillspencer00wats`) |
+| Hedonistic Theories from Aristippus to Spencer (Maclehose, 1895) |  | `watson-hedonistic-theories-1895` | have-raw (IA `hedonistictheori0000wats`) |
+| Christianity and Idealism (Macmillan, 1897) |  | `watson-christianity-and-idealism-1897` | have-raw (IA `cu31924031275542`) |
+| The Philosophical Basis of Religion (Maclehose, 1907) |  | `watson-philosophical-basis-religion-1907` | have-raw (IA `philosophicalba00watsgoog`) |
+| The Philosophy of Kant Explained (Maclehose, 1908) |  | `watson-philosophy-of-kant-explained-1908` | have-raw (IA `philosophyofkant00wats`) |
+| The Interpretation of Religious Experience, Part First: Historical (Gifford Lectures; Glasgow: MacLehose, 1912) |  | `watson-interpretation-religious-experience-1912-v1` | have-raw (IA `interpretationo01wats`) |
+| The Interpretation of Religious Experience, Part Second: Constructive (Glasgow: MacLehose, 1912) |  | `watson-interpretation-religious-experience-1912-v2` | have-raw (IA `cihm_77675`) |
+
+## A. E. Taylor (idealist metaphysics)
+
+Shelf: `pipeline/a-e-taylor_shelf.json`. A. E. Taylor (1869-1945). Problem of Conduct, Elements of Metaphysics, Hobbes, Aristotle; raw IA OCR. Plato (Constable) held: no printed year.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Problem of Conduct (Macmillan, 1901) |  | `taylor-problem-of-conduct-1901` | have-raw (IA `theproblemofcond00tayluoft`) |
+| Elements of Metaphysics (Methuen, 1903; fourth edition 1915) |  | `taylor-elements-of-metaphysics-1903` | have-raw (IA `elementsofmetaph0000tayl`) |
+| Thomas Hobbes (Constable, 1908) |  | `taylor-thomas-hobbes-1908` | have-raw (IA `thomashobbes00tayluoft`) |
+| Aristotle, revised edition (The People's Books, 1919) |  | `taylor-aristotle-1919` | have-raw (IA `aristotle00tayluoft`) |
+
+Pending (wishlist): Plato (Constable, 1908) with a dated copy
+
+## Harold H. Joachim (Spinoza, truth)
+
+Shelf: `pipeline/h-h-joachim_shelf.json`. Harold H. Joachim (1868-1938). Ethics of Spinoza (1901), Nature of Truth (1906), inaugural lecture (1919); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Study of the Ethics of Spinoza (Clarendon, 1901) |  | `joachim-ethics-of-spinoza-1901` | have-raw (IA `ethicsofspinoza00joacuoft`) |
+| The Nature of Truth (Clarendon, 1906) |  | `joachim-nature-of-truth-1906` | have-raw (IA `bwb_O6-CUZ-729`) |
+| Immediate Experience and Mediation (Clarendon, 1919) |  | `joachim-immediate-experience-1919` | have-raw (IA `immediateexperie00joacrich`) |
+
+## J. H. Muirhead (ethics, Green)
+
+Shelf: `pipeline/j-h-muirhead_shelf.json`. J. H. Muirhead (1855-1940). Elements of Ethics, Chapters from Aristotle's Ethics, Philosophy and Life, Service of the State; raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Elements of Ethics (Murray, 1892) |  | `muirhead-elements-of-ethics-1892` | have-raw (IA `elementsofetauto00muiruoft`) |
+| Chapters from Aristotle's Ethics (Murray, 1900) |  | `muirhead-chapters-aristotle-ethics-1900` | have-raw (IA `chaptersaristotl00muiruoft`) |
+| Philosophy and Life (Sonnenschein, 1902) |  | `muirhead-philosophy-and-life-1902` | have-raw (IA `philosophylifeot00muirrich`) |
+| The Service of the State (Murray, 1908) |  | `muirhead-service-of-the-state-1908` | have-raw (IA `serviceofstatefo00muiruoft`) |
+
+## H. A. Prichard (Kant)
+
+Shelf: `pipeline/h-a-prichard_shelf.json`. H. A. Prichard (1871-1947). Kant's Theory of Knowledge (1909), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Kant's Theory of Knowledge (Clarendon, 1909) |  | `prichard-kants-theory-of-knowledge-1909` | have-raw (IA `kantknowledge00pricuoft`) |
+
+## E. F. Carritt (aesthetics)
+
+Shelf: `pipeline/e-f-carritt_shelf.json`. E. F. Carritt (1876-1964). The Theory of Beauty (1914), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Beauty (Methuen, 1914) |  | `carritt-theory-of-beauty-1914` | have-raw (IA `cu31924031230356`) |
+
+## Henry Adams (Chartres, Education)
+
+Shelf: `pipeline/henry-adams_shelf.json`. Henry Adams (1838-1918). Mont-Saint-Michel and Chartres (1913) and The Education (1918); clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Mont-Saint-Michel and Chartres, intro. Ralph Adams Cram (1913) |  | `henry-adams-mont-saint-michel-chartres-1913` | have (PG 4584) |
+| The Education of Henry Adams (1918) |  | `henry-adams-education-1918` | have (PG 2044) |
+
+## Brooks Adams (philosophy of history)
+
+Shelf: `pipeline/brooks-adams_shelf.json`. Brooks Adams (1848-1927). Emancipation of Massachusetts, Law of Civilization and Decay, Theory of Social Revolutions; clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Emancipation of Massachusetts (1887; enlarged 1919) |  | `brooks-adams-emancipation-of-massachusetts` | have (PG 6706) |
+| The Law of Civilization and Decay (Macmillan, 1896; edition 1897) |  | `brooks-adams-law-civilization-decay-1896` | have (PG 44908) |
+| The Theory of Social Revolutions (Macmillan, 1913) |  | `brooks-adams-theory-social-revolutions-1913` | have (PG 10613) |
+
+## Charles Horton Cooley (sociology of the self)
+
+Shelf: `pipeline/charles-horton-cooley_shelf.json`. Charles Horton Cooley (1864-1929). Human Nature and the Social Order, Social Organization, Social Process; clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Human Nature and the Social Order (Scribner's, 1902) |  | `cooley-human-nature-social-order-1902` | have (PG 75145) |
+| Social Organization (Scribner's, 1909; printing 1911) |  | `cooley-social-organization-1909` | have (PG 72636) |
+| Social Process (Scribner's, 1918) |  | `cooley-social-process-1918` | have (PG 75188) |
+
+## Lester Frank Ward (sociology)
+
+Shelf: `pipeline/lester-frank-ward_shelf.json`. Lester Frank Ward (1841-1913). Psychic Factors (1893), Pure Sociology (1903; 1919 ed.), Applied Sociology (1906); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Psychic Factors of Civilization (Ginn, 1893) |  | `ward-psychic-factors-civilization-1893` | have-raw (IA `psychicfactorsc04wardgoog`) |
+| Pure Sociology (Macmillan, 1903; second edition 1919) |  | `ward-pure-sociology-1903` | have-raw (IA `puresociologytre00ward`) |
+| Applied Sociology (Ginn, 1906) |  | `ward-applied-sociology-1906` | have-raw (IA `appliedsociology00ward`) |
+| Dynamic Sociology, vol. I (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v1` | have-raw (IA `cu31924032492963`) |
+| Dynamic Sociology, vol. II (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v2` | have-raw (IA `dynamicsociology02warduoft`) |
+| Outlines of Sociology (Macmillan, 1898) |  | `ward-outlines-of-sociology-1898` | have-raw (IA `outlinesofsociol00warduoft`) |
+
+## Franklin Henry Giddings (sociology)
+
+Shelf: `pipeline/franklin-henry-giddings_shelf.json`. Franklin Henry Giddings (1855-1931). Principles of Sociology (1896), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Principles of Sociology (Macmillan, 1896; third-edition preface) |  | `giddings-principles-of-sociology-1896` | have-raw (IA `principlesofsoci00gidduoft`) |
+
+## Frederick J. E. Woodbridge (Purpose of History)
+
+Shelf: `pipeline/frederick-woodbridge_shelf.json`. F. J. E. Woodbridge (1867-1940). The Purpose of History (1916), clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Purpose of History (Columbia, 1916) |  | `woodbridge-purpose-of-history-1916` | have (PG 58179) |
+
+## Roy Wood Sellars (critical realism)
+
+Shelf: `pipeline/roy-wood-sellars_shelf.json`. Roy Wood Sellars (1880-1973). Next Step in Religion (1918), Essentials of Philosophy (1917), Evolutionary Naturalism (1922).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Next Step in Religion (Macmillan, 1918) |  | `sellars-next-step-in-religion-1918` | have (PG 31920) |
+| The Essentials of Philosophy (Macmillan, 1917) |  | `sellars-essentials-of-philosophy-1917` | have-raw (IA `theessentialsofp00selluoft`) |
+| Evolutionary Naturalism (Open Court, 1922) |  | `sellars-evolutionary-naturalism-1922` | have-raw (IA `evolutionarynat01sellgoog`) |
+| Critical Realism (Rand McNally, 1916) |  | `sellars-critical-realism-1916` | have-raw (IA `criticalrealisma00selluoft`) |
+
+## Giovanni Gentile (actual idealism)
+
+Shelf: `pipeline/giovanni-gentile_shelf.json`. Giovanni Gentile (1875-1944). Theory of Mind as Pure Act (tr. Wildon Carr, 1922) and Reform of Education (tr. Bigongiari, 1922); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Mind as Pure Act, tr. H. Wildon Carr (Macmillan, 1922) | H. Wildon Carr | `gentile-theory-of-mind-pure-act-1922` | have-raw (IA `thetheoryofminda00gentuoft`) |
+
+Excluded: gentile-reform-of-education-1922 (duplicate: singles-ideas-2 (lane C) already holds the same Bigongiari translation as PG 36762)
+
+## T. E. Hulme (Speculations)
+
+Shelf: `pipeline/t-e-hulme_shelf.json`. T. E. Hulme (1883-1917). Speculations, ed. Herbert Read (1924), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Speculations, ed. Herbert Read (Kegan Paul, 1924) |  | `hulme-speculations-1924` | have-raw (IA `speculationsessa0000teed`) |
+
+## H. Wildon Carr (philosophy of change, monads)
+
+Shelf: `pipeline/h-wildon-carr_shelf.json`. H. Wildon Carr (1857-1931). Four books 1911-1927, raw IA OCR. Problem of Truth (no year) and Leibniz (only a 1960 Dover copy) held.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Henri Bergson: the Philosophy of Change (The People's Books; preface 1911) |  | `carr-henri-bergson-philosophy-of-change` | have-raw (IA `henribergsonphil00carriala`) |
+| The Philosophy of Change (Macmillan, 1914) |  | `carr-philosophy-of-change-1914` | have-raw (IA `cu31924029119075`) |
+| A Theory of Monads (Macmillan, 1922) |  | `carr-theory-of-monads-1922` | have-raw (IA `theoryofmonadsou00carriala`) |
+| Changing Backgrounds in Religion and Ethics (Macmillan, 1927) |  | `carr-changing-backgrounds-1927` | have-raw (IA `changingbackgrou0000herb`) |
+
+Pending (wishlist): The Problem of Truth (1913) and Leibniz (1929) in dated pre-1931 copies
+
+## Norman Kemp Smith (Descartes, Kant)
+
+Shelf: `pipeline/norman-kemp-smith_shelf.json`. Norman Kemp Smith (1872-1958). Studies in the Cartesian Philosophy (1902) and the Commentary to Kant (1918); his 1929 Critique translation is on the kant shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies in the Cartesian Philosophy (Macmillan, 1902) |  | `kemp-smith-cartesian-philosophy-1902` | have-raw (IA `studiesincartes00smitgoog`) |
+| A Commentary to Kant's 'Critique of Pure Reason' (Macmillan, 1918) |  | `kemp-smith-commentary-kant-1918` | have-raw (IA `commentarytokant00smituoft`) |
+| Prolegomena to an Idealist Theory of Knowledge (Macmillan, 1924) |  | `kemp-smith-prolegomena-idealist-theory-1924` | have-raw (IA `in.ernet.dli.2015.52811`) |
+
+## C. Lloyd Morgan (comparative psychology, emergence)
+
+Shelf: `pipeline/c-lloyd-morgan_shelf.json`. C. Lloyd Morgan (1852-1936). Comparative Psychology (1894) and Emergent Evolution (1923; 1928 printing); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introduction to Comparative Psychology (Walter Scott, 1894) |  | `lloyd-morgan-comparative-psychology-1894` | have-raw (IA `introductiontoco00morg`) |
+| Emergent Evolution (1923; Holt printing 1928) |  | `lloyd-morgan-emergent-evolution-1923` | have-raw (IA `emergentevolutio0000morg`) |
+| Life, Mind, and Spirit (Holt, 1925) |  | `lloyd-morgan-life-mind-spirit-1925` | have-raw (IA `20191004lifemindandspirit`) |
+| Animal Life and Intelligence (1890-91) |  | `lloyd-morgan-animal-life-and-intelligence` | have (PG 49818) |
+| Spencer's Philosophy of Science (Herbert Spencer Lecture, 1913) |  | `lloyd-morgan-spencers-philosophy-of-science` | have (PG 37513) |
+
+
+## John Laird (realism)
+
+Shelf: `pipeline/john-laird_shelf.json`. John Laird (1887-1946). Problems of the Self (1917), A Study in Realism (1920), Knowledge, Belief and Opinion (1930); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Problems of the Self (Macmillan, 1917) |  | `laird-problems-of-the-self-1917` | have-raw (IA `problemsofselfes00lairuoft`) |
+| A Study in Realism (Cambridge, 1920) |  | `laird-study-in-realism-1920` | have-raw (IA `cu31924029019664`) |
+| Knowledge, Belief and Opinion (Century, 1930) |  | `laird-knowledge-belief-opinion-1930` | have-raw (IA `knowledgebeliefo0000lair_a9u2`) |
+
+## R. B. Haldane (Hegelian idealism)
+
+Shelf: `pipeline/r-b-haldane_shelf.json`. Viscount Haldane (1856-1928). The Pathway to Reality (1903-1904), The Reign of Relativity (1921), The Philosophy of Humanism (1922); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Pathway to Reality, stage the first (Dutton, 1903) |  | `haldane-pathway-to-reality-1903` | have-raw (IA `cu31924009675343`) |
+| The Pathway to Reality, stage the second (Murray, 1904) |  | `haldane-pathway-to-reality-1904` | have-raw (IA `pathwaytorealit00haldgoog`) |
+| The Reign of Relativity (Yale, 1921) |  | `haldane-reign-of-relativity-1921` | have-raw (IA `reignrelativity00haldgoog`) |
+| The Philosophy of Humanism (Yale, 1922) |  | `haldane-philosophy-of-humanism-1922` | have-raw (IA `philosophyhuman00haldgoog`) |
+
+## Wilbur Marshall Urban (value theory)
+
+Shelf: `pipeline/wilbur-marshall-urban_shelf.json`. W. M. Urban (1873-1952). Valuation (1909), The Intelligible World (1929), Fundamentals of Ethics (1930); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Valuation, its Nature and Laws (Sonnenschein, 1909) |  | `urban-valuation-1909` | have-raw (IA `valuationitsnatu00urbauoft`) |
+| The Intelligible World (Allen & Unwin, 1929) |  | `urban-intelligible-world-1929` | have-raw (IA `intelligibleworl032337mbp`) |
+| Fundamentals of Ethics (Holt, 1930) |  | `urban-fundamentals-of-ethics-1930` | have-raw (IA `in.ernet.dli.2015.2762`) |
+
+## Werner Sombart (economic history)
+
+Shelf: `pipeline/werner-sombart_shelf.json`. Sombart's two Epstein translations on the history of capitalism.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Jews and Modern Capitalism (Dutton, 1913) | M. Epstein | `sombart-jews-and-modern-capitalism-1913` | have-raw (IA `jewsandmoderncap027918mbp`) |
+| The Quintessence of Capitalism (Dutton, 1915) | M. Epstein | `sombart-quintessence-of-capitalism-1915` | have-raw (IA `quintessenceofca0000wern`) |
+
+## Robert Michels (political sociology)
+
+Shelf: `pipeline/robert-michels_shelf.json`. The iron law of oligarchy.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Political Parties (Hearst's International Library, 1915) | Eden and Cedar Paul | `michels-political-parties-1915` | have-raw (IA `politicalparties00michuoft`) |
+
+## M. Ostrogorski (political parties)
+
+Shelf: `pipeline/moisei-ostrogorski_shelf.json`. The first comparative study of party machines, with Bryce's preface.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Democracy and the Organization of Political Parties, vol. I (Macmillan, 1902) | Frederick Clarke | `ostrogorski-democracy-political-parties-1902-v1` | have-raw (IA `democracyorganiz01ostruoft`) |
+| Democracy and the Organization of Political Parties, vol. II (Macmillan, 1902) | Frederick Clarke | `ostrogorski-democracy-political-parties-1902-v2` | have-raw (IA `democracyorganiz02ostruoft`) |
+
+## Shadworth H. Hodgson (metaphysics of experience)
+
+Shelf: `pipeline/shadworth-hodgson_shelf.json`. The four major treatises, first editions, plus one address.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Time and Space (Longman, 1865) |  | `hodgson-time-and-space-1865` | have-raw (IA `bub_gb_86mJQVpgGakC`) |
+| The Theory of Practice, vol. I (Longmans, 1870) |  | `hodgson-theory-of-practice-1870-v1` | have-raw (IA `theoryofpractic01hodg`) |
+| The Theory of Practice, vol. II (Longmans, 1870) |  | `hodgson-theory-of-practice-1870-v2` | have-raw (IA `theoryofpractic02hodg`) |
+| The Philosophy of Reflection, vol. I (Longmans, 1878) |  | `hodgson-philosophy-of-reflection-1878-v1` | have-raw (IA `philosophyofrefl01hodg`) |
+| The Philosophy of Reflection, vol. II (Longmans, 1878) |  | `hodgson-philosophy-of-reflection-1878-v2` | have-raw (IA `dli.bengal.10689.17007`) |
+| The Metaphysic of Experience, vol. I (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v1` | have-raw (IA `metaphysicofexp01hodguoft`) |
+| The Metaphysic of Experience, vol. II (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v2` | have-raw (IA `metaphysicofexp02hodguoft`) |
+| The Metaphysic of Experience, vol. III (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v3` | have-raw (IA `metaphysicofexp03hodguoft`) |
+| The Metaphysic of Experience, vol. IV (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v4` | have-raw (IA `metaphysicofexpe04hodgiala`) |
+| The Relation of Philosophy to Science (Williams and Norgate, 1884) |  | `hodgson-relation-of-philosophy-to-science-1884` | have-raw (IA `relationphiloso00hodggoog`) |
+| Outcast Essays and Verse Translations (Longmans, 1881) |  | `hodgson-outcast-essays-1881` | have-raw (IA `outcastessaysver00hodguoft`) |
+
+## Oswald Külpe (Würzburg school)
+
+Shelf: `pipeline/oswald-kulpe_shelf.json`. Three translations, two by Titchener.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outlines of Psychology (Swan Sonnenschein, 1895; 1901 printing) | Edward Bradford Titchener | `kulpe-outlines-of-psychology-1895` | have-raw (IA `outlinesofpsycho00kluoft`) |
+| Introduction to Philosophy (Swan Sonnenschein, 1897) | W. B. Pillsbury and E. B. Titchener | `kulpe-introduction-to-philosophy-1897` | have-raw (IA `introtophilosoph00kulpuoft`) |
+| The Philosophy of the Present in Germany (1913) | Maud Lyall Patrick and G. T. W. Patrick | `kulpe-philosophy-of-the-present-in-germany-1913` | have-raw (IA `philosophyofthep00kulpuoft`) |
+
+## Alexander T. Ormond (Princeton idealism)
+
+Shelf: `pipeline/alexander-ormond_shelf.json`. All four of his books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Basal Concepts in Philosophy (Scribner's, 1894) |  | `ormond-basal-concepts-1894` | have-raw (IA `cu31924031229127`) |
+| Foundations of Knowledge (Macmillan, 1900) |  | `ormond-foundations-of-knowledge-1900` | have-raw (IA `foundationsokn00ormouoft`) |
+| Concepts of Philosophy (Macmillan, 1906) |  | `ormond-concepts-of-philosophy-1906` | have-raw (IA `conceptsofphilos00ormo`) |
+| The Philosophy of Religion (Princeton, 1922) |  | `ormond-philosophy-of-religion-1922` | have-raw (IA `cu31924029207458`) |
+
+## Richard Whately (logic, rhetoric, political economy)
+
+Shelf: `pipeline/richard-whately_shelf.json`. The Oxford logician; his theology is left for the Divines lane.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Historic Doubts Relative to Napoleon Buonaparte |  | `whately-historic-doubts-napoleon` | have (PG 18087) |
+| Elements of Logic, 9th ed. (Munroe, 1855) |  | `whately-elements-of-logic-1855` | have-raw (IA `elementslogicco17whatgoog`) |
+| Elements of Rhetoric (Harper, 1858) |  | `whately-elements-of-rhetoric-1858` | have-raw (IA `elementsrhetori18whatgoog`) |
+| Introductory Lectures on Political Economy (Fellowes, 1831) |  | `whately-lectures-political-economy-1831` | have-raw (IA `introductorylect00whatrich`) |
+| Easy Lessons on Reasoning (Munroe, 1845) |  | `whately-easy-lessons-reasoning-1845` | have-raw (IA `easylessonsonrea01what`) |
+
+## James Hinton (speculative philosophy)
+
+Shelf: `pipeline/james-hinton_shelf.json`. Surgeon-philosopher; four books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Mystery of Pain (Smith, Elder, 1866) |  | `hinton-mystery-of-pain-1866` | have-raw (IA `39002011212827.med.yale.edu`) |
+| Man and his Dwelling Place, new ed. (Smith, Elder, 1872) |  | `hinton-man-and-his-dwelling-place-1872` | have-raw (IA `manhisdwellingpl00hintiala`) |
+| Chapters on the Art of Thinking (Kegan Paul, 1879) |  | `hinton-chapters-art-of-thinking-1879` | have-raw (IA `chaptersonartth00hintgoog`) |
+| The Law-Breaker and the Coming of the Law (Kegan Paul, 1884) |  | `hinton-law-breaker-1884` | have-raw (IA `lawbreakerandco00hintgoog`) |
+| Life in Nature (Smith, Elder, 1862) |  | `hinton-life-in-nature-1862` | have-raw (IA `lifeinnature00hintiala`) |
+
+Pending (wishlist): Selections from Manuscripts (1870-74, 4 vols.)
+
+## Jacob Gould Schurman (ethics and evolution)
+
+Shelf: `pipeline/jacob-gould-schurman_shelf.json`. Two early books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Kantian Ethics and the Ethics of Evolution (1881) |  | `schurman-kantian-ethics-1881` | have-raw (IA `cihm_62085`) |
+| The Ethical Import of Darwinism (Scribner's, 1888) |  | `schurman-ethical-import-of-darwinism-1888` | have-raw (IA `theethicalimport00schuuoft`) |
+| Belief in God: Its Origin, Nature, and Basis (Scribner's, 1890) |  | `schurman-belief-in-god-1890` | have-raw (IA `beliefingoditsor00schuuoft`) |
+| Agnosticism and Religion (Scribner's, 1896) |  | `schurman-agnosticism-and-religion-1896` | have-raw (IA `agnosticismandre00schuuoft`) |
+
+## James Seth (Edinburgh ethics)
+
+Shelf: `pipeline/james-seth_shelf.json`. Three books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Freedom as Ethical Postulate (Blackwood, 1891) |  | `james-seth-freedom-ethical-postulate-1891` | have-raw (IA `freedomasethica00sethgoog`) |
+| A Study of Ethical Principles, 6th ed. (Scribner's, 1902) |  | `james-seth-study-of-ethical-principles-1902` | have-raw (IA `studyofethicalpr01seth`) |
+| English Philosophers and Schools of Philosophy (Dent, 1912) |  | `james-seth-english-philosophers-1912` | have-raw (IA `englishphilosoph00sethiala`) |
+
+## Henry Philip Tappan (philosophy of the will)
+
+Shelf: `pipeline/henry-philip-tappan_shelf.json`. The will trilogy's first two parts and his logic.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Review of Edwards's Inquiry into the Freedom of the Will |  | `tappan-review-of-edwards-inquiry` | have (PG 35958) |
+| The Doctrine of the Will (Wiley and Putnam, 1840) |  | `tappan-doctrine-of-the-will-1840` | have-raw (IA `doctrineofwillde00tapp`) |
+| Elements of Logic (Wiley and Putnam, 1844) |  | `tappan-elements-of-logic-1844` | have-raw (IA `elementsoflogic00tapp`) |
+
+Pending (wishlist): The Doctrine of the Will Applied to Moral Agency and Responsibility (1841)
+
+## James Marsh (Vermont transcendentalism)
+
+Shelf: `pipeline/james-marsh_shelf.json`. His collected remains.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Remains of the Rev. James Marsh (Crocker and Brewster, 1843) |  | `marsh-remains-1843` | have-raw (IA `remainsofrevjame00mars`) |
+
+## John Grier Hibben (Princeton logic)
+
+Shelf: `pipeline/john-grier-hibben_shelf.json`. Five books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Inductive Logic (Scribner's, 1896) |  | `hibben-inductive-logic-1896` | have-raw (IA `in.ernet.dli.2015.272200`) |
+| The Problems of Philosophy (Scribner's, 1898; 1906 printing) |  | `hibben-problems-of-philosophy-1898` | have-raw (IA `problemsofphilos1906hibb`) |
+| Hegel's Logic: An Essay in Interpretation (Scribner's, 1902) |  | `hibben-hegels-logic-1902` | have-raw (IA `hegelslogicaness009131mbp`) |
+| The Philosophy of the Enlightenment (Scribner's, 1910) |  | `hibben-philosophy-of-the-enlightenment-1910` | have-raw (IA `cu31924028980304`) |
+| A Defence of Prejudice (Scribner's, 1911; 1912 printing) |  | `hibben-defence-of-prejudice-1911` | have-raw (IA `adefenceprejudi02hibbgoog`) |
+
+Pending (wishlist): Logic, Deductive and Inductive (1905) in a scan that is not a lending copy
+
+## J. E. Creighton (Cornell idealism)
+
+Shelf: `pipeline/james-edwin-creighton_shelf.json`. His logic and his collected studies.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introductory Logic, new ed. (Macmillan, 1900) |  | `creighton-introductory-logic-1900` | have-raw (IA `anintroductoryl03creigoog`) |
+| Studies in Speculative Philosophy (Macmillan, 1925) |  | `creighton-studies-speculative-philosophy-1925` | have-raw (IA `studiesinspecula0000jame`) |
+
+## Frank Thilly (history of philosophy)
+
+Shelf: `pipeline/frank-thilly_shelf.json`. Two textbooks.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Introduction to Ethics (Scribner's, 1900; 1912 printing) |  | `thilly-introduction-to-ethics-1900` | have-raw (IA `introductiontoe03thilgoog`) |
+| A History of Philosophy (Holt, 1914) |  | `thilly-history-of-philosophy-1914` | have-raw (IA `a-history-of-philosophy-frank-thilly-1914`) |
+
+## William McDougall (social psychology)
+
+Shelf: `pipeline/william-mcdougall_shelf.json`. Five books, 1905-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Group Mind |  | `mcdougall-group-mind` | have (PG 40826) |
+| Physiological Psychology (Dent, 1905; 1908 printing) |  | `mcdougall-physiological-psychology-1905` | have-raw (IA `physiologicalps00mcdogoog`) |
+| An Introduction to Social Psychology, 6th ed. (Methuen, 1912) |  | `mcdougall-social-psychology-1908` | have-raw (IA `introductiontos00mcdo`) |
+| Body and Mind, 4th ed. (Methuen, c. 1918) |  | `mcdougall-body-and-mind-1911` | have-raw (IA `cu31924029080880`) |
+| Psychology, the Study of Behaviour (1912) |  | `mcdougall-psychology-study-of-behaviour-1912` | have-raw (IA `psychologystudyo00mcdorich`) |
+| National Welfare and National Decay (Methuen, 1921) |  | `mcdougall-national-welfare-decay-1921` | have-raw (IA `nationalwelfaren00mcdouoft`) |
+| Outline of Psychology (Scribner's, 1923) |  | `mcdougall-outline-of-psychology-1923` | have-raw (IA `outlineofpsychol0000will_j1f4`) |
+
+## W. P. Montague (new realism)
+
+Shelf: `pipeline/william-pepperell-montague_shelf.json`. One book; Belief Unbound is 1931.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Ways of Knowing (Allen & Unwin, 1925; 1928 impression) |  | `montague-ways-of-knowing-1925` | have-raw (IA `waysofknowingorm0000mont_x0p9`) |
+
+## E. G. Spaulding (new realism)
+
+Shelf: `pipeline/edward-gleason-spaulding_shelf.json`. One book.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The New Rationalism (Holt, 1918) |  | `spaulding-new-rationalism-1918` | have-raw (IA `newrationalism010326mbp`) |
+
+## W. H. Sheldon (Yale)
+
+Shelf: `pipeline/wilmon-henry-sheldon_shelf.json`. One book.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Strife of Systems and Productive Duality (Harvard, 1918) |  | `sheldon-strife-of-systems-1918` | have-raw (IA `strifeofsystemsa00sheluoft`) |
+
+## Henry Sturt (personal idealism)
+
+Shelf: `pipeline/henry-sturt_shelf.json`. Five books, including the 1902 Personal Idealism symposium he edited.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Personal Idealism, ed. Henry Sturt (Macmillan, 1902) |  | `sturt-personal-idealism-1902` | have-raw (IA `personalidealism00sturiala`) |
+| Idola Theatri (Macmillan, 1906) |  | `sturt-idola-theatri-1906` | have-raw (IA `cu31924029046213`) |
+| The Principles of Understanding (Cambridge, 1915) |  | `sturt-principles-of-understanding-1915` | have-raw (IA `principlesofunde0000henr`) |
+| Socialism and Character (Dutton, 1922) |  | `sturt-socialism-and-character-1922` | have-raw (IA `socialismcharact00stur_0`) |
+| Moral Experience (1928) |  | `sturt-moral-experience-1928` | have-raw (IA `moralexperience032449mbp`) |
+
+Pending (wishlist): Art and Personality (no dated copy yet); The Idea of a Free Church (1909)
+
+## Benjamin Whichcote (Cambridge Platonists)
+
+Shelf: `pipeline/benjamin-whichcote_shelf.json`. The 1751 Works and Campagnac's 1901 selections from all three Cambridge Platonists.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of the Learned Benjamin Whichcote, vol. I (Aberdeen, 1751) |  | `whichcote-works-1751-v1` | have-raw (IA `workslearnedben00whicgoog`) |
+| The Works of the Learned Benjamin Whichcote, vol. III (Aberdeen, 1751) |  | `whichcote-works-1751-v3` | have-raw (IA `bim_eighteenth-century_the-works-of-the-learned_whichcote-benjamin_1751_3`) |
+| The Works of the Learned Benjamin Whichcote, vol. IV (Aberdeen, 1751) |  | `whichcote-works-1751-v4` | have-raw (IA `worksbenjaminwh00unkngoog`) |
+| The Cambridge Platonists: selections, ed. E. T. Campagnac (Clarendon, 1901) |  | `campagnac-cambridge-platonists-1901` | have-raw (IA `cambridgeplatoni00camp`) |
+
+Pending (wishlist): Works vol. II (1751) in a dated scan
+
+## John Smith (Cambridge Platonists)
+
+Shelf: `pipeline/john-smith-platonist_shelf.json`. The Select Discourses.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Select Discourses, 4th ed., ed. H. G. Williams (Cambridge, 1859) |  | `john-smith-select-discourses-1859` | have-raw (IA `cu31924029447848`) |
+
+## Nathanael Culverwel (Cambridge Platonists)
+
+Shelf: `pipeline/nathanael-culverwel_shelf.json`. The Light of Nature.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Of the Light of Nature, ed. John Brown (Constable, 1857) |  | `culverwel-light-of-nature-1857` | have-raw (IA `oflightofnatured00culvrich`) |
+
+## Sir Kenelm Digby (natural philosophy)
+
+Shelf: `pipeline/kenelm-digby_shelf.json`. The Two Treatises.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Two Treatises (London: John Williams, 1645) |  | `digby-two-treatises-1645` | have-raw (IA `twotreatisesinon00digbuoft`) |
+
+## Arthur Collier (immaterialism)
+
+Shelf: `pipeline/arthur-collier_shelf.json`. Clavis Universalis in Parr's collection.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Metaphysical Tracts by English Philosophers of the Eighteenth Century, ed. Samuel Parr (Lumley, 1837) |  | `collier-parr-metaphysical-tracts-1837` | have-raw (IA `metaphysicaltra00collgoog`) |
+
+## Peter Browne (critic of Locke)
+
+Shelf: `pipeline/peter-browne_shelf.json`. The Procedure of Human Understanding.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Procedure, Extent, and Limits of Human Understanding (Innys, 1728) |  | `browne-procedure-extent-limits-1728` | have-raw (IA `procedureextentl00browuoft`) |
+
+Pending (wishlist): Things Divine and Supernatural Conceived by Analogy (1733) in OCR above 0.78
+
+## Frederic Harrison (English Positivism)
+
+Shelf: `pipeline/frederic-harrison_shelf.json`. Seven books, 1875-1908.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies in Early Victorian Literature |  | `harrison-studies-early-victorian-literature` | have (PG 18384) |
+| Order and Progress (Longmans, 1875) |  | `harrison-order-and-progress-1875` | have-raw (IA `orderprogress00harrrich`) |
+| The New Calendar of Great Men (Macmillan, 1892) |  | `harrison-new-calendar-of-great-men-1892` | have-raw (IA `newcalendargreat00harriala`) |
+| The Meaning of History (1894; new ed., Macmillan, 1900) |  | `harrison-meaning-of-history-1894` | have-raw (IA `meaninghistoryot00harriala`) |
+| The Philosophy of Common Sense (Macmillan, 1907) |  | `harrison-philosophy-of-common-sense-1907` | have-raw (IA `philosophycommon00harruoft`) |
+| The Creed of a Layman (Macmillan, 1907) |  | `harrison-creed-of-a-layman-1907` | have-raw (IA `thecreedoflayman00harruoft`) |
+| National and Social Problems (Macmillan, 1908) |  | `harrison-national-and-social-problems-1908` | have-raw (IA `cu31924030358885`) |
+
+## Richard Congreve (English Positivism)
+
+Shelf: `pipeline/richard-congreve_shelf.json`. The three volumes of Essays and the 1855 lectures.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essays Political, Social, and Religious, vol. I (Longmans, 1874) |  | `congreve-essays-1874-v1` | have-raw (IA `essayspolitical02conggoog`) |
+| Essays Political, Social, and Religious, vol. II (1892) |  | `congreve-essays-1892-v2` | have-raw (IA `essayspolitical01conggoog`) |
+| Essays Political, Social, and Religious, vol. III (1900) |  | `congreve-essays-1900-v3` | have-raw (IA `essayspolitical00conggoog`) |
+| The Roman Empire of the West (1855) |  | `congreve-roman-empire-of-the-west-1855` | have-raw (IA `romanempireofwes00conguoft`) |
+
+## Arthur James Balfour (philosophy of belief)
+
+Shelf: `pipeline/arthur-james-balfour_shelf.json`. Both Gifford series, the Defence and the Foundations.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Theism and Humanism |  | `balfour-theism-and-humanism` | have (PG 57773) |
+| Decadence |  | `balfour-decadence` | have (PG 68219) |
+| A Defence of Philosophic Doubt (Macmillan, 1879) |  | `balfour-defence-of-philosophic-doubt-1879` | have-raw (IA `defenceofphiloso00balfrich`) |
+| The Foundations of Belief (Longmans, 1895) |  | `balfour-foundations-of-belief-1895` | have-raw (IA `thefoundationsof00balfuoft`) |
+| Theism and Thought (Hodder and Stoughton, 1923) |  | `balfour-theism-and-thought-1923` | have-raw (IA `in.ernet.dli.2015.90237`) |
+
+## J. N. Figgis (history of political thought)
+
+Shelf: `pipeline/john-neville-figgis_shelf.json`. Political theory; sermons left for the Divines lane.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of the Divine Right of Kings (Cambridge, 1896) |  | `figgis-divine-right-of-kings-1896` | have-raw (IA `theorydivinerig00figggoog`) |
+| Studies of Political Thought from Gerson to Grotius (Cambridge, 1907) |  | `figgis-gerson-to-grotius-1907` | have-raw (IA `studiesofpolitic00figguoft`) |
+| Civilisation at the Cross Roads (Longmans, 1912) |  | `figgis-civilisation-at-the-cross-roads-1912` | have-raw (IA `cu31924029236994`) |
+| The Will to Freedom (Scribner's, 1917) |  | `figgis-will-to-freedom-1917` | have-raw (IA `willtofreedomorg0000figg`) |
+
+Pending (wishlist): Churches in the Modern State (1913) in a dated scan
+
+## Ernest Barker (history of political thought)
+
+Shelf: `pipeline/ernest-barker_shelf.json`. His two books on Greek political theory.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Political Thought of Plato and Aristotle (Methuen, 1906) |  | `barker-political-thought-plato-aristotle-1906` | have-raw (IA `politicalthought00bark`) |
+| Greek Political Theory: Plato and his Predecessors (Methuen, 1918) |  | `barker-greek-political-theory-1918` | have-raw (IA `greekpoliticalth0000bark`) |
+
+Pending (wishlist): Political Thought in England from Herbert Spencer to the Present Day (1915) in a dated pre-1931 printing
+
+## G. Stanley Hall (genetic psychology)
+
+Shelf: `pipeline/g-stanley-hall_shelf.json`. Eight volumes, 1904-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Youth: Its Education, Regimen, and Hygiene |  | `hall-youth` | have (PG 9173) |
+| Senescence, the Last Half of Life |  | `hall-senescence` | have (PG 66534) |
+| Adolescence, vol. I (Appleton, 1904) |  | `hall-adolescence-1904-v1` | have-raw (IA `b21523241_0001`) |
+| Adolescence, vol. II (Appleton, 1904) |  | `hall-adolescence-1904-v2` | have-raw (IA `b21523241_0002`) |
+| Founders of Modern Psychology (Appleton, 1912) |  | `hall-founders-of-modern-psychology-1912` | have-raw (IA `foundersofmodern00halluoft`) |
+| Jesus, the Christ, in the Light of Psychology, vol. I (1917) |  | `hall-jesus-the-christ-psychology-1917-v1` | have-raw (IA `cu31924092360217`) |
+| Jesus, the Christ, in the Light of Psychology, vol. II (1917) |  | `hall-jesus-the-christ-psychology-1917-v2` | have-raw (IA `jesuschristinli02hall`) |
+| Life and Confessions of a Psychologist (Appleton, 1923; 1924 printing) |  | `hall-life-and-confessions-1923` | have-raw (IA `lifeconfessionso0000gsta`) |
+| Educational Problems, vol. I (Appleton, 1911) |  | `hall-educational-problems-1911-v1` | have-raw (IA `educationalprobl01halluoft`) |
+| Educational Problems, vol. II (Appleton, 1911) |  | `hall-educational-problems-1911-v2` | have-raw (IA `educationalprobl02halliala`) |
+
+## E. B. Titchener (structural psychology)
+
+Shelf: `pipeline/e-b-titchener_shelf.json`. Seven books, 1896-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Beginner's Psychology |  | `titchener-beginners-psychology` | have (PG 51442) |
+| An Outline of Psychology (Macmillan, 1896) |  | `titchener-outline-of-psychology-1896` | have-raw (IA `anoutlinepsycho04titcgoog`) |
+| A Primer of Psychology, rev. ed. (Macmillan; 1906 printing) |  | `titchener-primer-of-psychology-1898` | have-raw (IA `primerpsycholog05titcgoog`) |
+| Lectures on the Elementary Psychology of Feeling and Attention (Macmillan, 1908) |  | `titchener-feeling-and-attention-1908` | have-raw (IA `in.ernet.dli.2015.84700`) |
+| Lectures on the Experimental Psychology of the Thought-Processes (Macmillan, 1909) |  | `titchener-thought-processes-1909` | have-raw (IA `lecturesonexper00goog`) |
+| A Text-Book of Psychology (Macmillan, 1910; 1916 printing) |  | `titchener-text-book-of-psychology-1910` | have-raw (IA `textbookofpsycho00titc`) |
+| Systematic Psychology: Prolegomena (Macmillan, 1929) |  | `titchener-systematic-psychology-1929` | have-raw (IA `in.ernet.dli.2015.248073`) |
+
+Pending (wishlist): Experimental Psychology: A Manual of Laboratory Practice (1901-05, 4 vols.)
+
+## Paul Elmer More (the Greek tradition)
+
+Shelf: `pipeline/paul-elmer-more_shelf.json`. The Greek Tradition series and one Shelburne volume.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Shelburne Essays, Third Series |  | `more-shelburne-essays-third-series` | have (PG 39447) |
+| Platonism (Princeton, 1917) |  | `more-platonism-1917` | have-raw (IA `platonism00moreuoft`) |
+| The Religion of Plato (Princeton, 1921) |  | `more-religion-of-plato-1921` | have-raw (IA `thereligionofpla00moreuoft`) |
+| Hellenistic Philosophies (Princeton, 1923) |  | `more-hellenistic-philosophies-1923` | have-raw (IA `hellenisticphilo017066mbp`) |
+| The Christ of the New Testament (Princeton, 1924) |  | `more-christ-of-the-new-testament-1924` | have-raw (IA `christofnewtesta0000more`) |
+| Christ the Word (Princeton, 1927) |  | `more-christ-the-word-1927` | have-raw (IA `christword00more`) |
+| The Demon of the Absolute (Princeton, 1928) |  | `more-demon-of-the-absolute-1928` | have-raw (IA `demonofabsolute00more`) |
+
+Pending (wishlist): Shelburne Essays, other series (1904-21)
+
+## W. T. Harris (St. Louis Hegelianism)
+
+Shelf: `pipeline/w-t-harris_shelf.json`. His philosophy readings, his education book and the Journal's first volume.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Journal of Speculative Philosophy, Vol. I (1867) |  | `harris-journal-speculative-philosophy-v1` | have (PG 65097) |
+| Introduction to the Study of Philosophy, ed. Marietta Kies (Appleton, 1889; 1890 printing) |  | `harris-introduction-study-of-philosophy-1889` | have-raw (IA `introductiontoth00harruoft`) |
+| Psychologic Foundations of Education (Appleton, 1898) |  | `harris-psychologic-foundations-1898` | have-raw (IA `psychologicfound00harr`) |
+| Hegel's Doctrine of Reflection, a paraphrase and commentary (Appleton, 1881) |  | `harris-hegels-doctrine-of-reflection-1881` | have-raw (IA `hegelsdoctrineof00harruoft`) |
+| Hegel's Logic: A Book on the Genesis of the Categories of the Mind (Griggs, 1890) |  | `harris-hegels-logic-1890` | have-raw (IA `hegelslogic00harruoft`) |
+
+## James Bissett Pratt (philosophy of religion)
+
+Shelf: `pipeline/james-bissett-pratt_shelf.json`. Six books, 1907-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Psychology of Religious Belief (Macmillan, 1907) |  | `pratt-psychology-religious-belief-1907` | have-raw (IA `psychologyofreli00pratuoft`) |
+| What is Pragmatism? (Macmillan, 1909) |  | `pratt-what-is-pragmatism-1909` | have-raw (IA `cu31924029019417`) |
+| India and its Faiths (Houghton Mifflin, 1915) |  | `pratt-india-and-its-faiths-1915` | have-raw (IA `indiaitsfaithstr00prat`) |
+| The Religious Consciousness (Macmillan, 1920) |  | `pratt-religious-consciousness-1920` | have-raw (IA `religiousconsciou00prat`) |
+| Matter and Spirit (Macmillan, 1922) |  | `pratt-matter-and-spirit-1922` | have-raw (IA `matterspiritstud00prat`) |
+| The Pilgrimage of Buddhism (Macmillan, 1928) |  | `pratt-pilgrimage-of-buddhism-1928` | have-raw (IA `pilgrimageofbudd0000jame`) |
+
+## Durant Drake (critical realism)
+
+Shelf: `pipeline/durant-drake_shelf.json`. Five books, 1914-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Problems of Conduct |  | `drake-problems-of-conduct` | have (PG 5775) |
+| Problems of Religion (Houghton Mifflin, 1916) |  | `drake-problems-of-religion-1916` | have-raw (IA `problemsofreli00drak`) |
+| Shall We Stand by the Church? (Macmillan, 1920) |  | `drake-shall-we-stand-by-the-church-1920` | have-raw (IA `shallwestandbych00drak`) |
+| Mind and its Place in Nature (Macmillan, 1925) |  | `drake-mind-and-its-place-in-nature-1925` | have-raw (IA `minditsplaceinna0000dura`) |
+| The New Morality (Macmillan, 1928) |  | `drake-new-morality-1928` | have-raw (IA `newmorality00drak`) |
+
+## Thomas Davidson (education and philosophy)
+
+Shelf: `pipeline/thomas-davidson-philosopher_shelf.json`. Five books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Aristotle and Ancient Educational Ideals |  | `davidson-aristotle-ancient-educational-ideals` | have (PG 40552) |
+| The Education of the Greek People (Appleton, 1894) |  | `davidson-education-of-the-greek-people-1894` | have-raw (IA `educationofgreek0028thom`) |
+| Rousseau and Education According to Nature (Scribner's, 1898; 1900 printing) |  | `davidson-rousseau-and-education-1898` | have-raw (IA `rousseauandeduca00daviuoft`) |
+| A History of Education (Scribner's, 1900) |  | `davidson-history-of-education-1900` | have-raw (IA `historyofeducti0davi`) |
+| The Philosophy of Goethe's Faust (Ginn, 1906) |  | `davidson-philosophy-of-goethes-faust-1906` | have-raw (IA `philosophyofgoet0000thom`) |
+
+## Francis Galton (heredity and mental measurement)
+
+Shelf: `pipeline/francis-galton_shelf.json`. Ten books, 1853-1909.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Inquiries into Human Faculty and its Development |  | `galton-inquiries-human-faculty` | have (PG 11562) |
+| Noteworthy Families (Modern Science) |  | `galton-noteworthy-families` | have (PG 17128) |
+| Finger Prints |  | `galton-finger-prints` | have (PG 36979) |
+| Essays in Eugenics |  | `galton-essays-in-eugenics` | have (PG 73802) |
+| Memories of my Life |  | `galton-memories-of-my-life` | have (PG 78669) |
+| The Art of Travel |  | `galton-art-of-travel` | have (PG 14681) |
+| The Narrative of an Explorer in Tropical South Africa |  | `galton-narrative-explorer-tropical-south-africa` | have (PG 76940) |
+| Hereditary Genius (Macmillan, 1869) |  | `galton-hereditary-genius-1869` | have-raw (IA `hereditarygenius1869galt`) |
+| English Men of Science (Macmillan, 1874) |  | `galton-english-men-of-science-1874` | have-raw (IA `englishmenscien04galtgoog`) |
+| Natural Inheritance (Macmillan, 1889) |  | `galton-natural-inheritance-1889` | have-raw (IA `in.ernet.dli.2015.221860`) |
+
+## James Sully (psychology and aesthetics)
+
+Shelf: `pipeline/james-sully_shelf.json`. Eight volumes, 1877-1902.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Illusions: A Psychological Study |  | `sully-illusions` | have (PG 17815) |
+| Studies of Childhood |  | `sully-studies-of-childhood` | have (PG 62175) |
+| Children's Ways |  | `sully-childrens-ways` | have (PG 37020) |
+| An Essay on Laughter |  | `sully-essay-on-laughter` | have (PG 58606) |
+| Pessimism: A History and a Criticism (King, 1877) |  | `sully-pessimism-1877` | have-raw (IA `pessimismhistory00sull`) |
+| Outlines of Psychology (Appleton, 1888) |  | `sully-outlines-of-psychology-1888` | have-raw (IA `outlinespsychol01sullgoog`) |
+| The Human Mind, vol. I (Longmans, 1892) |  | `sully-human-mind-1892-v1` | have-raw (IA `humanmindtextboo01sulluoft`) |
+| The Human Mind, vol. II (Longmans, 1892) |  | `sully-human-mind-1892-v2` | have-raw (IA `humanmindtextboo02sulluoft`) |
+
+## L. P. Jacks (essays in philosophy and religion)
+
+Shelf: `pipeline/l-p-jacks_shelf.json`. Three books, 1910-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Mad Shepherds, and Other Human Studies |  | `jacks-mad-shepherds` | have (PG 31386) |
+| All Men are Ghosts |  | `jacks-all-men-are-ghosts` | have (PG 36518) |
+| Religious Perplexities |  | `jacks-religious-perplexities` | have (PG 32578) |
+
+## George Herbert Palmer (Harvard ethics)
+
+Shelf: `pipeline/george-herbert-palmer_shelf.json`. Five books, 1901-1919.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Nature of Goodness |  | `palmer-nature-of-goodness` | have (PG 6101) |
+| Altruism: Its Nature and Varieties |  | `palmer-altruism` | have (PG 57749) |
+| The Teacher: Essays and Addresses on Education |  | `palmer-the-teacher` | have (PG 36774) |
+| The Field of Ethics (Houghton Mifflin, 1901) |  | `palmer-field-of-ethics-1901` | have-raw (IA `thefieldofethics00palmuoft`) |
+| The Problem of Freedom (Houghton Mifflin, 1911) |  | `palmer-problem-of-freedom-1911` | have-raw (IA `in.ernet.dli.2015.202828`) |
+
+## George Stuart Fullerton (Pennsylvania realism)
+
+Shelf: `pipeline/george-stuart-fullerton_shelf.json`. Six books, 1890-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Handbook of Ethical Theory |  | `fullerton-handbook-ethical-theory` | have (PG 6463) |
+| An Introduction to Philosophy |  | `fullerton-introduction-to-philosophy` | have (PG 16406) |
+| On Sameness and Identity |  | `fullerton-sameness-and-identity` | have (PG 57998) |
+| On Spinozistic Immortality (Pennsylvania, 1899) |  | `fullerton-spinozistic-immortality-1899` | have-raw (IA `onspinozisticimm00full`) |
+| A System of Metaphysics (Macmillan, 1904) |  | `fullerton-system-of-metaphysics-1904` | have-raw (IA `systemofmetaphys00full`) |
+| The World We Live In (Macmillan, 1912) |  | `fullerton-world-we-live-in-1912` | have-raw (IA `worldweliveinor01fullgoog`) |
+
+## Irwin Edman (naturalism)
+
+Shelf: `pipeline/irwin-edman_shelf.json`. One book, 1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Human Traits and their Social Significance |  | `edman-human-traits` | have (PG 22306) |
+
+## Will Durant (popular philosophy)
+
+Shelf: `pipeline/will-durant_shelf.json`. Three books, 1917-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Philosophy and the Social Problem |  | `durant-philosophy-and-the-social-problem` | have (PG 42880) |
+| Transition (Simon and Schuster, 1927) |  | `durant-transition-1927` | have-raw (IA `transitionsentim0000will`) |
+| The Mansions of Philosophy (1929) |  | `durant-mansions-of-philosophy-1929` | have-raw (IA `mansionsofphilos0000will_n3v4`) |
+
+Pending (wishlist): The Story of Philosophy (1926) in a pre-1931 printing
+
+## R. R. Marett (anthropology of religion)
+
+Shelf: `pipeline/r-r-marett_shelf.json`. Four books, 1908-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Anthropology |  | `marett-anthropology` | have (PG 17280) |
+| Anthropology and the Classics |  | `marett-anthropology-and-the-classics` | have (PG 53646) |
+| The Threshold of Religion (Methuen, 1909) |  | `marett-threshold-of-religion-1909` | have-raw (IA `cu31924014376150`) |
+| Psychology and Folk-Lore (Methuen, 1920) |  | `marett-psychology-and-folk-lore-1920` | have-raw (IA `psychologyfolklo00mareuoft`) |
+
+## Edward Westermarck (comparative ethics)
+
+Shelf: `pipeline/edward-westermarck_shelf.json`. Two works, 1891-1908.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Human Marriage |  | `westermarck-history-of-human-marriage` | have (PG 59386) |
+| The Origin and Development of the Moral Ideas |  | `westermarck-origin-development-moral-ideas` | have (PG 52106) |
+
+## Edward Burnett Tylor (cultural anthropology)
+
+Shelf: `pipeline/edward-burnett-tylor_shelf.json`. Five volumes, 1861-1881.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Primitive Culture, vol. 1 |  | `tylor-primitive-culture-v1` | have (PG 70458) |
+| Primitive Culture, vol. 2 |  | `tylor-primitive-culture-v2` | have (PG 70484) |
+| Anthropology |  | `tylor-anthropology` | have (PG 71233) |
+| Anahuac: or, Mexico and the Mexicans |  | `tylor-anahuac` | have (PG 13115) |
+| Researches into the Early History of Mankind (Murray, 1865) |  | `tylor-researches-early-history-mankind-1865` | have-raw (IA `researchesintoea00tylorich`) |
+
+## J. S. Mackenzie (British idealism, social philosophy)
+
+Shelf: `pipeline/john-stuart-mackenzie_shelf.json`. Eight books, 1895-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introduction to Social Philosophy (Maclehose, 1895) |  | `mackenzie-introduction-to-social-philosophy-1895` | have-raw (IA `introtosocialphi00mackuoft`) |
+| A Manual of Ethics (Clive, 1897) |  | `mackenzie-manual-of-ethics-1897` | have-raw (IA `manualofethics00mack_0`) |
+| Outlines of Metaphysics (Macmillan, 1906) |  | `mackenzie-outlines-of-metaphysics-1906` | have-raw (IA `outlinesofmetaph00mackuoft`) |
+| Lectures on Humanism (Swan Sonnenschein, 1907) |  | `mackenzie-lectures-on-humanism-1907` | have-raw (IA `lecturesonhumani00mackiala`) |
+| Elements of Constructive Philosophy (Allen and Unwin, 1917; reprint 1919) |  | `mackenzie-elements-of-constructive-philosophy-1919` | have-raw (IA `elementsofconstr00mack`) |
+| Outlines of Social Philosophy (Allen and Unwin, 1918) |  | `mackenzie-outlines-of-social-philosophy-1918` | have-raw (IA `outlinessocialp00mackgoog`) |
+| Arrows of Desire (Allen and Unwin, 1920) |  | `mackenzie-arrows-of-desire-1920` | have-raw (IA `arrowsofdesirees00mackuoft`) |
+| Fundamental Problems of Life (Allen and Unwin, 1928) |  | `mackenzie-fundamental-problems-of-life-1928` | have-raw (IA `fundamentalprobl0000mack`) |
+
+## C. C. J. Webb (philosophy of religion)
+
+Shelf: `pipeline/clement-webb_shelf.json`. Five books, 1911-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Problems in the Relations of God and Man (Nisbet, 1911) |  | `webb-problems-relations-god-and-man-1911` | have-raw (IA `problemsinrelati00webbrich`) |
+| Group Theories of Religion and the Individual (Allen and Unwin, 1916) |  | `webb-group-theories-of-religion-1916` | have-raw (IA `grouptheoriesofr00webbuoft`) |
+| God and Personality (Allen and Unwin, 1919; reprint 1920) |  | `webb-god-and-personality-1920` | have-raw (IA `godandpersonalit00webbuoft`) |
+| Divine Personality and Human Life (Allen and Unwin, 1920) |  | `webb-divine-personality-and-human-life-1920` | have-raw (IA `divinepersonalit00webb`) |
+| Kant's Philosophy of Religion (Clarendon, 1926) |  | `webb-kants-philosophy-of-religion-1926` | have-raw (IA `kantsphilosophyo0000webb`) |
+
+Pending (wishlist): A History of Philosophy (Home University Library) in a scan that prints its year
+
+## John Cook Wilson (Oxford realism)
+
+Shelf: `pipeline/john-cook-wilson_shelf.json`. Two volumes, 1889-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On the Interpretation of Plato's Timaeus (Nutt, 1889) |  | `cook-wilson-platos-timaeus-1889` | have-raw (IA `platostimaeuscri00wilsuoft`) |
+| Statement and Inference, vol. I (Clarendon, 1926) |  | `cook-wilson-statement-and-inference-1926-v1` | have-raw (IA `statementinferen0001john`) |
+
+Pending (wishlist): Statement and Inference vol. II (1926) in an open scan
+
+## H. W. B. Joseph (Oxford logic)
+
+Shelf: `pipeline/h-w-b-joseph_shelf.json`. One book, 1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introduction to Logic (Clarendon, 1916) |  | `joseph-introduction-to-logic-1916` | have-raw (IA `introductiontolo00joseuoft`) |
+
+## Henry Maudsley (physiological psychology)
+
+Shelf: `pipeline/henry-maudsley_shelf.json`. Seven books, 1876-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Physiology of Mind (Macmillan, 1876) |  | `maudsley-physiology-of-mind-1876` | have-raw (IA `physiologyofmind00mauduoft`) |
+| Body and Will (Appleton, 1884) |  | `maudsley-body-and-will-1884` | have-raw (IA `bodywillbeingess00maud`) |
+| Responsibility in Mental Disease (Kegan Paul, 1885) |  | `maudsley-responsibility-in-mental-disease-1885` | have-raw (IA `cu31924031204690`) |
+| Natural Causes and Supernatural Seemings (Kegan Paul, 1886) |  | `maudsley-natural-causes-supernatural-seemings-1886` | have-raw (IA `cu31924031176815`) |
+| Body and Mind (Appleton, 1890) |  | `maudsley-body-and-mind-1890` | have-raw (IA `bodymindinquiryi00maud`) |
+| The Pathology of Mind (Macmillan, 1895) |  | `maudsley-pathology-of-mind-1895` | have-raw (IA `pathologymindas00maudgoog`) |
+| Organic to Human (Macmillan, 1916) |  | `maudsley-organic-to-human-1916` | have-raw (IA `organictohumanps00maudiala`) |
+
+## John Elof Boodin (pragmatism and cosmic idealism)
+
+Shelf: `pipeline/john-elof-boodin_shelf.json`. Three books, 1911-1925.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Truth and Reality (Macmillan, 1911) |  | `boodin-truth-and-reality-1911` | have-raw (IA `truthrealityintr00boodiala`) |
+| A Realistic Universe (Macmillan, 1916) |  | `boodin-realistic-universe-1916` | have-raw (IA `arealisticuniver00booduoft`) |
+| Cosmic Evolution (Macmillan, 1925) |  | `boodin-cosmic-evolution-1925` | have-raw (IA `cosmicevolutiono012754mbp`) |
+
+## Arthur Kenyon Rogers (critical realism, history of philosophy)
+
+Shelf: `pipeline/arthur-kenyon-rogers_shelf.json`. Four books, 1907-1925.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Brief Introduction to Modern Philosophy (Macmillan, 1899; printing of 1923) |  | `rogers-brief-introduction-modern-philosophy-1923` | have-raw (IA `abriefintroducti00rogeuoft`) |
+| A Student's History of Philosophy (Macmillan, 1925) |  | `rogers-students-history-of-philosophy-1925` | have-raw (IA `studentshistoryo0000arth_y2z4`) |
+| The Religious Conception of the World (Macmillan, 1907) |  | `rogers-religious-conception-of-the-world-1907` | have-raw (IA `religiousconc00rogeuoft`) |
+| English and American Philosophy since 1800 (Macmillan, 1922) |  | `rogers-english-american-philosophy-since-1800-1922` | have-raw (IA `englishamericanp0000roge_a5i3`) |
+
+## Warner Fite (ethical individualism)
+
+Shelf: `pipeline/warner-fite_shelf.json`. Four books, 1903-1930.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introductory Study of Ethics (Longmans, 1903) |  | `fite-introductory-study-of-ethics-1903` | have-raw (IA `introductorystud00fit`) |
+| Individualism (Longmans, 1911) |  | `fite-individualism-1911` | have-raw (IA `cu31924032444485`) |
+| Moral Philosophy (Dial Press, 1925) |  | `fite-moral-philosophy-1925` | have-raw (IA `moralphilosophyc0000warn`) |
+| The Living Mind (Dial Press, 1930) |  | `fite-living-mind-1930` | have-raw (IA `livingmindessays00fite`) |
+
+## Walter Lippmann (public opinion and democracy)
+
+Shelf: `pipeline/walter-lippmann_shelf.json`. Six books, 1913-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Preface to Politics (1913) |  | `lippmann-preface-to-politics` | have (PG 20125) |
+| Drift and Mastery (1914) |  | `lippmann-drift-and-mastery` | have (PG 79553) |
+| Liberty and the News (1920) |  | `lippmann-liberty-and-the-news` | have (PG 77035) |
+| Public Opinion (1922) |  | `lippmann-public-opinion` | have (PG 6456) |
+| The Phantom Public (1925) |  | `lippmann-phantom-public` | have (PG 76966) |
+| A Preface to Morals (1929) |  | `lippmann-preface-to-morals` | have (PG 77019) |
+
+## Herbert Croly (progressive political thought)
+
+Shelf: `pipeline/herbert-croly_shelf.json`. Two books, 1909-1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Promise of American Life (1909) |  | `croly-promise-of-american-life` | have (PG 14422) |
+| Progressive Democracy (Macmillan, 1914) |  | `croly-progressive-democracy-1914` | have-raw (IA `progressivedemoc00croluoft`) |
+
+## Randolph Bourne (essays in social criticism)
+
+Shelf: `pipeline/randolph-bourne_shelf.json`. Six books, 1913-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Youth and Life (1913) |  | `bourne-youth-and-life` | have (PG 67628) |
+| The Gary Schools (1916) |  | `bourne-gary-schools` | have (PG 68055) |
+| Towards an Enduring Peace (1916; a symposium Bourne compiled) |  | `bourne-towards-an-enduring-peace` | have (PG 73048) |
+| Education and Living (1917) |  | `bourne-education-and-living` | have (PG 68912) |
+| Untimely Papers (1919) |  | `bourne-untimely-papers` | have (PG 68626) |
+| History of a Literary Radical, and Other Essays (1920) |  | `bourne-history-of-a-literary-radical` | have (PG 69426) |
+
+## Woodrow Wilson (political science)
+
+Shelf: `pipeline/woodrow-wilson_shelf.json`. Seven books, 1885-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Congressional Government (1885) |  | `wilson-congressional-government` | have (PG 35861) |
+| An Old Master, and Other Political Essays (1893) |  | `wilson-old-master` | have (PG 71776) |
+| Mere Literature, and Other Essays (1896) |  | `wilson-mere-literature` | have (PG 66074) |
+| On Being Human (1897) |  | `wilson-on-being-human` | have (PG 5068) |
+| When a Man Comes to Himself (1901) |  | `wilson-when-a-man-comes-to-himself` | have (PG 5078) |
+| The New Freedom (1913) |  | `wilson-new-freedom` | have (PG 14811) |
+| The State (Heath, revised edition 1911) |  | `wilson-the-state-1911` | have-raw (IA `cu31924024903043`) |
+
+## Norman Angell (international relations)
+
+Shelf: `pipeline/norman-angell_shelf.json`. Three books, 1910-1921.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Great Illusion (1910) |  | `angell-great-illusion` | have (PG 38535) |
+| Peace Theories and the Balkan War (1912) |  | `angell-peace-theories-balkan-war` | have (PG 11895) |
+| The Fruits of Victory (1921) |  | `angell-fruits-of-victory` | have (PG 43598) |
+
+## John William Draper (history of ideas)
+
+Shelf: `pipeline/john-william-draper_shelf.json`. Three volumes, 1863-1874.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of the Intellectual Development of Europe, vol. 1 |  | `draper-intellectual-development-europe-1` | have (PG 31345) |
+| History of the Intellectual Development of Europe, vol. 2 |  | `draper-intellectual-development-europe-2` | have (PG 34051) |
+| History of the Conflict Between Religion and Science (1874) |  | `draper-conflict-religion-and-science` | have (PG 1185) |
+
+## Andrew Dickson White (science and theology)
+
+Shelf: `pipeline/andrew-dickson-white_shelf.json`. Five volumes, 1876-1905.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Warfare of Science (1876) |  | `adwhite-warfare-of-science` | have (PG 49212) |
+| A History of the Warfare of Science with Theology in Christendom (1896) |  | `adwhite-warfare-science-with-theology` | have (PG 505) |
+| Fiat Money Inflation in France |  | `adwhite-fiat-money-inflation-france` | have (PG 6949) |
+| Autobiography of Andrew Dickson White, vol. 1 (1905) |  | `adwhite-autobiography-1` | have (PG 1340) |
+| Autobiography of Andrew Dickson White, vol. 2 (1905) |  | `adwhite-autobiography-2` | have (PG 1370) |
+
+## Jane Addams (social ethics)
+
+Shelf: `pipeline/jane-addams_shelf.json`. Six books, 1902-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Democracy and Social Ethics (1902) |  | `addams-democracy-and-social-ethics` | have (PG 15487) |
+| Newer Ideals of Peace (1907) |  | `addams-newer-ideals-of-peace` | have (PG 69879) |
+| The Spirit of Youth and the City Streets (1909) |  | `addams-spirit-of-youth` | have (PG 16221) |
+| Twenty Years at Hull-House (1910) |  | `addams-twenty-years-at-hull-house` | have (PG 1325) |
+| A New Conscience and an Ancient Evil (1912) |  | `addams-new-conscience-ancient-evil` | have (PG 15221) |
+| The Long Road of Woman's Memory (1916) |  | `addams-long-road-of-womans-memory` | have (PG 69234) |
+
+## Irving Babbitt (New Humanism)
+
+Shelf: `pipeline/irving-babbitt_shelf.json`. Five books, 1908-1924.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Rousseau and Romanticism (1919) |  | `babbitt-rousseau-and-romanticism` | have (PG 50235) |
+| Democracy and Leadership (1924) |  | `babbitt-democracy-and-leadership` | have (PG 79644) |
+| Literature and the American College (Houghton Mifflin, 1908) |  | `babbitt-literature-and-the-american-college-1908` | have-raw (IA `literatureameric00babbuoft`) |
+| The New Laokoon (Houghton Mifflin, 1910; impression of 1926) |  | `babbitt-new-laokoon-1926` | have-raw (IA `thenewlaokoonane00babbuoft`) |
+| The Masters of Modern French Criticism (Houghton Mifflin, 1912) |  | `babbitt-masters-modern-french-criticism-1912` | have-raw (IA `mastersofmodernf00babb`) |
+
+## A. Lawrence Lowell (government and public opinion)
+
+Shelf: `pipeline/a-lawrence-lowell_shelf.json`. Three volumes, 1908-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Government of England, vol. I (1908) |  | `lowell-government-of-england-1` | have (PG 34471) |
+| The Government of England, vol. II (Macmillan, 1908) |  | `lowell-government-of-england-1908-v2` | have-raw (IA `in.ernet.dli.2015.261767`) |
+| Public Opinion and Popular Government (Longmans, 1913; impression of 1921) |  | `lowell-public-opinion-popular-government-1921` | have-raw (IA `publicopinionan01lowegoog`) |
+
+## Edward Alsworth Ross (sociology)
+
+Shelf: `pipeline/edward-alsworth-ross_shelf.json`. Four books, 1901-1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Old World in the New (1914) |  | `ross-old-world-in-the-new` | have (PG 47954) |
+| Social Control (Macmillan, 1901; reprint of 1906) |  | `ross-social-control-1906` | have-raw (IA `socialcontrolas01rossgoog`) |
+| Sin and Society (Houghton Mifflin, 1907) |  | `ross-sin-and-society-1907` | have-raw (IA `sinsocietyanalys00ross`) |
+| Social Psychology (Macmillan, 1908; printing of 1914) |  | `ross-social-psychology-1914` | have-raw (IA `cu31924032560579`) |
+
+## W. I. Thomas (Chicago sociology)
+
+Shelf: `pipeline/w-i-thomas_shelf.json`. Two books, 1907-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Sex and Society (1907) |  | `thomas-sex-and-society` | have (PG 15015) |
+| The Unadjusted Girl (1923) |  | `thomas-unadjusted-girl` | have (PG 59826) |
+
+## Charles A. Beard (economic interpretation)
+
+Shelf: `pipeline/charles-a-beard_shelf.json`. One book, 1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Economic Interpretation of the Constitution of the United States (1913) |  | `beard-economic-interpretation-constitution` | have (PG 70677) |
+
+## Thomas Jefferson (political writings)
+
+Shelf: `pipeline/thomas-jefferson_shelf.json`. Thirteen volumes: the Washington edition of the Writings (1853-54) and Randolph's Memoir (1829).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 1 of 9 (1853-54) |  | `jefferson-writings-washington-1` | have (PG 45847) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 2 of 9 (1853-54) |  | `jefferson-writings-washington-2` | have (PG 50046) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 3 of 9 (1853-54) |  | `jefferson-writings-washington-3` | have (PG 52878) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 4 of 9 (1853-54) |  | `jefferson-writings-washington-4` | have (PG 53603) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 5 of 9 (1853-54) |  | `jefferson-writings-washington-5` | have (PG 53767) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 6 of 9 (1853-54) |  | `jefferson-writings-washington-6` | have (PG 55075) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 7 of 9 (1853-54) |  | `jefferson-writings-washington-7` | have (PG 56035) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 8 of 9 (1853-54) |  | `jefferson-writings-washington-8` | have (PG 56313) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 9 of 9 (1853-54) |  | `jefferson-writings-washington-9` | have (PG 56578) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 1 (1829) |  | `jefferson-memoir-correspondence-1` | have (PG 16781) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 2 (1829) |  | `jefferson-memoir-correspondence-2` | have (PG 16782) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 3 (1829) |  | `jefferson-memoir-correspondence-3` | have (PG 16783) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 4 (1829) |  | `jefferson-memoir-correspondence-4` | have (PG 16784) |
+
+## Alexander Hamilton (The Federalist)
+
+Shelf: `pipeline/alexander-hamilton_shelf.json`. Two volumes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Federalist Papers (1787-88; with James Madison and John Jay) |  | `hamilton-federalist` | have (PG 1404) |
+| The Works of Alexander Hamilton, vol. 1 |  | `hamilton-works-1` | have (PG 71719) |
+
+## James Madison (the Federal Convention)
+
+Shelf: `pipeline/james-madison_shelf.json`. Two volumes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Journal of the Debates in the Convention which Framed the Constitution, vol. 1 |  | `madison-debates-federal-convention-1` | have (PG 40861) |
+| The Journal of the Debates in the Convention which Framed the Constitution, vol. 2 |  | `madison-debates-federal-convention-2` | have (PG 41095) |
+
+## John Adams (constitutional theory)
+
+Shelf: `pipeline/john-adams_shelf.json`. Two books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Novanglus, and Massachusettensis (1774-75; with Daniel Leonard) |  | `adams-novanglus` | have (PG 45205) |
+| Familiar Letters of John Adams and his Wife Abigail Adams (1876) |  | `adams-familiar-letters` | have (PG 34123) |
+
+## Robert G. Ingersoll (freethought)
+
+Shelf: `pipeline/robert-g-ingersoll_shelf.json`. The twelve-volume Dresden edition (1900).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 1 of 12 (1900) |  | `ingersoll-works-dresden-01` | have (PG 38801) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 2 of 12 (1900) |  | `ingersoll-works-dresden-02` | have (PG 38802) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 3 of 12 (1900) |  | `ingersoll-works-dresden-03` | have (PG 38803) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 4 of 12 (1900) |  | `ingersoll-works-dresden-04` | have (PG 38804) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 5 of 12 (1900) |  | `ingersoll-works-dresden-05` | have (PG 38805) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 6 of 12 (1900) |  | `ingersoll-works-dresden-06` | have (PG 38806) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 7 of 12 (1900) |  | `ingersoll-works-dresden-07` | have (PG 38807) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 8 of 12 (1900) |  | `ingersoll-works-dresden-08` | have (PG 38808) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 9 of 12 (1900) |  | `ingersoll-works-dresden-09` | have (PG 38809) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 10 of 12 (1900) |  | `ingersoll-works-dresden-10` | have (PG 38810) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 11 of 12 (1900) |  | `ingersoll-works-dresden-11` | have (PG 38811) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 12 of 12 (1900) |  | `ingersoll-works-dresden-12` | have (PG 38812) |
+
+## Charlotte Perkins Gilman (social theory)
+
+Shelf: `pipeline/charlotte-perkins-gilman_shelf.json`. Five books, 1898-1911.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Women and Economics (1898) |  | `gilman-women-and-economics` | have (PG 57913) |
+| Concerning Children (1900) |  | `gilman-concerning-children` | have (PG 40481) |
+| The Home, its Work and Influence (1903) |  | `gilman-the-home` | have (PG 44481) |
+| Human Work (1904) |  | `gilman-human-work` | have (PG 64098) |
+| The Man-Made World, or Our Androcentric Culture (1911) |  | `gilman-man-made-world` | have (PG 3015) |
+
+## Emma Goldman (anarchism)
+
+Shelf: `pipeline/emma-goldman_shelf.json`. Six books, 1910-1924.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Anarchism and Other Essays (1910) |  | `goldman-anarchism-and-other-essays` | have (PG 2162) |
+| Marriage and Love (1911) |  | `goldman-marriage-and-love` | have (PG 20715) |
+| The Social Significance of the Modern Drama (1914) |  | `goldman-social-significance-modern-drama` | have (PG 43490) |
+| Deportation, its Meaning and Menace (1919; with Alexander Berkman) |  | `goldman-deportation` | have (PG 68442) |
+| My Disillusionment in Russia (1923) |  | `goldman-my-disillusionment-in-russia` | have (PG 60315) |
+| My Further Disillusionment in Russia (1924) |  | `goldman-my-further-disillusionment` | have (PG 74192) |
+
+## Edward Carpenter (socialism and sexuality)
+
+Shelf: `pipeline/edward-carpenter_shelf.json`. Ten books, 1889-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Civilisation, its Cause and Cure (1889) |  | `carpenter-civilisation-cause-and-cure` | have (PG 44094) |
+| Sex-Love, and its Place in a Free Society (1894) |  | `carpenter-sex-love` | have (PG 37356) |
+| Marriage in Free Society (1894) |  | `carpenter-marriage-in-free-society` | have (PG 40209) |
+| Love's Coming-of-Age (1896) |  | `carpenter-loves-coming-of-age` | have (PG 63081) |
+| The Intermediate Sex (1908) |  | `carpenter-intermediate-sex` | have (PG 53763) |
+| The Drama of Love and Death (1912) |  | `carpenter-drama-of-love-and-death` | have (PG 44883) |
+| The Healing of Nations (1915) |  | `carpenter-healing-of-nations` | have (PG 10097) |
+| Never Again! (1916) |  | `carpenter-never-again` | have (PG 2990) |
+| My Days and Dreams (1916) |  | `carpenter-my-days-and-dreams` | have (PG 78612) |
+| Pagan and Christian Creeds (1920) |  | `carpenter-pagan-and-christian-creeds` | have (PG 1561) |
+
+## Sidney and Beatrice Webb (Fabian socialism)
+
+Shelf: `pipeline/sidney-webb_shelf.json`. Three books, 1889-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Fabian Essays in Socialism (1889; ed. Bernard Shaw) |  | `webb-fabian-essays` | have (PG 69088) |
+| The History of Trade Unionism (with Beatrice Webb; revised edition) |  | `webb-history-of-trade-unionism` | have (PG 66887) |
+| English Poor Law Policy (1910; with Beatrice Webb) |  | `webb-english-poor-law-policy` | have (PG 43472) |
+
+## Lysander Spooner (individualist anarchism)
+
+Shelf: `pipeline/lysander-spooner_shelf.json`. Six works, 1845-1886.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Unconstitutionality of Slavery (1845) |  | `spooner-unconstitutionality-of-slavery` | have (PG 31844) |
+| An Essay on the Trial by Jury (1852) |  | `spooner-trial-by-jury` | have (PG 1201) |
+| A New Banking System (1873) |  | `spooner-new-banking-system` | have (PG 34187) |
+| No Treason, no. VI: The Constitution of No Authority (1870) |  | `spooner-no-treason` | have (PG 36145) |
+| A Letter to Thomas F. Bayard (1882) |  | `spooner-letter-to-bayard` | have (PG 36161) |
+| A Letter to Grover Cleveland (1886) |  | `spooner-letter-to-cleveland` | have (PG 35016) |
+
+## Lewis Mumford (utopias and the city)
+
+Shelf: `pipeline/lewis-mumford_shelf.json`. Three books, 1922-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Story of Utopias (1922) |  | `mumford-story-of-utopias` | have (PG 75654) |
+| Sticks and Stones (1924) |  | `mumford-sticks-and-stones` | have (PG 64629) |
+| Herman Melville (1929) |  | `mumford-herman-melville` | have (PG 78016) |
+
+## Havelock Ellis (psychology and culture)
+
+Shelf: `pipeline/havelock-ellis_shelf.json`. Fifteen volumes, 1890-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The New Spirit (third edition) |  | `ellis-new-spirit` | have (PG 55878) |
+| The Criminal (1890) |  | `ellis-criminal` | have (PG 44500) |
+| Affirmations (1898) |  | `ellis-affirmations` | have (PG 76076) |
+| Studies in the Psychology of Sex, vol. 1 |  | `ellis-psychology-of-sex-1` | have (PG 13610) |
+| Studies in the Psychology of Sex, vol. 2 |  | `ellis-psychology-of-sex-2` | have (PG 13611) |
+| Studies in the Psychology of Sex, vol. 3 |  | `ellis-psychology-of-sex-3` | have (PG 13612) |
+| Studies in the Psychology of Sex, vol. 4 |  | `ellis-psychology-of-sex-4` | have (PG 13613) |
+| Studies in the Psychology of Sex, vol. 5 |  | `ellis-psychology-of-sex-5` | have (PG 13614) |
+| Studies in the Psychology of Sex, vol. 6 |  | `ellis-psychology-of-sex-6` | have (PG 13615) |
+| The World of Dreams (1911) |  | `ellis-world-of-dreams` | have (PG 59214) |
+| The Task of Social Hygiene (1912) |  | `ellis-task-of-social-hygiene` | have (PG 22090) |
+| Impressions and Comments (1914) |  | `ellis-impressions-and-comments` | have (PG 8125) |
+| Essays in War-Time (1916) |  | `ellis-essays-in-war-time` | have (PG 9887) |
+| Little Essays of Love and Virtue (1922) |  | `ellis-little-essays-love-virtue` | have (PG 15687) |
+| The Dance of Life (1923) |  | `ellis-dance-of-life` | have (PG 65714) |
+
+## C. G. Jung (analytical psychology)
+
+Shelf: `pipeline/carl-jung_shelf.json`. Three books in English, 1915-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Psychoanalysis (1915) |  | `jung-theory-of-psychoanalysis` | have (PG 66041) |
+| Psychology of the Unconscious (tr. Beatrice M. Hinkle, 1916) | Beatrice M. Hinkle | `jung-psychology-of-the-unconscious` | have (PG 65903) |
+| Collected Papers on Analytical Psychology (ed. Constance E. Long, 1916) | Constance E. Long | `jung-collected-papers-analytical-psychology` | have (PG 48225) |
+
+## Alfred William Benn (history of philosophy)
+
+Shelf: `pipeline/alfred-william-benn_shelf.json`. Three volumes, 1882-1912.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Philosophers, vol. 1 (1882) |  | `benn-greek-philosophers-1` | have (PG 57126) |
+| The Greek Philosophers, vol. 2 (1882) |  | `benn-greek-philosophers-2` | have (PG 58224) |
+| History of Modern Philosophy (1912) |  | `benn-history-of-modern-philosophy` | have (PG 34283) |
+
+## W. H. Mallock (against positivism and socialism)
+
+Shelf: `pipeline/w-h-mallock_shelf.json`. Six books, 1878-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The New Paul and Virginia, or Positivism on an Island (1878) |  | `mallock-new-paul-and-virginia` | have (PG 37651) |
+| Is Life Worth Living? (1879) |  | `mallock-is-life-worth-living` | have (PG 17201) |
+| Labour and the Popular Welfare (1893) |  | `mallock-labour-and-popular-welfare` | have (PG 66518) |
+| Aristocracy and Evolution (1898) |  | `mallock-aristocracy-and-evolution` | have (PG 58968) |
+| A Critical Examination of Socialism (1907) |  | `mallock-critical-examination-of-socialism` | have (PG 17416) |
+| Memoirs of Life and Literature (1920) |  | `mallock-memoirs-of-life-and-literature` | have (PG 30823) |
+
+## J. M. Robertson (rationalism and freethought)
+
+Shelf: `pipeline/j-m-robertson_shelf.json`. Eight volumes, 1897-1917.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Montaigne and Shakspere (1897) |  | `robertson-montaigne-and-shakspere` | have (PG 25535) |
+| Rationalism (1912) |  | `robertson-rationalism` | have (PG 31941) |
+| The Evolution of States (1912) |  | `robertson-evolution-of-states` | have (PG 39860) |
+| A Short History of Christianity (second edition, 1913) |  | `robertson-short-history-of-christianity` | have (PG 52550) |
+| A Short History of Freethought, vol. 1 (third edition, 1915) |  | `robertson-short-history-freethought-1` | have (PG 51793) |
+| A Short History of Freethought, vol. 2 (third edition, 1915) |  | `robertson-short-history-freethought-2` | have (PG 52160) |
+| The Historical Jesus (1916) |  | `robertson-historical-jesus` | have (PG 51655) |
+| The Jesus Problem (1917) |  | `robertson-jesus-problem` | have (PG 53616) |
+
+## Thomas Fowler (Oxford ethics)
+
+Shelf: `pipeline/thomas-fowler_shelf.json`. Two books, 1880-1884.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Locke (English Men of Letters, 1880) |  | `fowler-locke` | have (PG 46130) |
+| Progressive Morality (1884) |  | `fowler-progressive-morality` | have (PG 12035) |
+
+Pending (wishlist): Elements of Deductive Logic and Elements of Inductive Logic (Clarendon Press)
+
+## Vernon Lee (aesthetics)
+
+Shelf: `pipeline/vernon-lee_shelf.json`. Nine volumes of essays, 1881-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Belcaro, essays on sundry aesthetical questions (1881) |  | `vlee-belcaro` | have (PG 32337) |
+| Euphorion, vol. I (1884) |  | `vlee-euphorion-1` | have (PG 31303) |
+| Euphorion, vol. II (1884) |  | `vlee-euphorion-2` | have (PG 31304) |
+| Renaissance Fancies and Studies (1895) |  | `vlee-renaissance-fancies` | have (PG 30693) |
+| Limbo, and Other Essays (1897; with Ariadne in Mantua) |  | `vlee-limbo` | have (PG 37179) |
+| Hortus Vitae (1904) |  | `vlee-hortus-vitae` | have (PG 26800) |
+| The Spirit of Rome (1906) |  | `vlee-spirit-of-rome` | have (PG 27873) |
+| Laurus Nobilis, chapters on art and life (1909) |  | `vlee-laurus-nobilis` | have (PG 27939) |
+| The Beautiful, an introduction to psychological aesthetics (1913) |  | `vlee-the-beautiful` | have (PG 26942) |
+
+## Edward L. Bernays (public relations)
+
+Shelf: `pipeline/edward-bernays_shelf.json`. Two books, 1923-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Crystallizing Public Opinion (1923) |  | `bernays-crystallizing-public-opinion` | have (PG 61364) |
+| Propaganda (1928) |  | `bernays-propaganda` | have (PG 78634) |
+
+## Sir James Steuart (political oeconomy)
+
+Shelf: `pipeline/james-steuart_shelf.json`. Two volumes, 1767.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Inquiry into the Principles of Political Oeconomy, vol. 1 (1767) |  | `steuart-principles-political-oeconomy-1` | have (PG 60411) |
+| An Inquiry into the Principles of Political Oeconomy, vol. 2 (1767) |  | `steuart-principles-political-oeconomy-2` | have (PG 66710) |
+
+## William De Witt Hyde (ethics)
+
+Shelf: `pipeline/william-de-witt-hyde_shelf.json`. Two books, 1892-1911.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Practical Ethics (1892) |  | `wdhyde-practical-ethics` | have (PG 24372) |
+| The Five Great Philosophies of Life (1911) |  | `wdhyde-five-great-philosophies` | have (PG 39065) |
+
+## Herbert Ernest Cushman (history of philosophy)
+
+Shelf: `pipeline/herbert-ernest-cushman_shelf.json`. Two volumes, 1910-1911.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Beginner's History of Philosophy, vol. 1: Ancient and Mediaeval (1910) |  | `cushman-beginners-history-philosophy-1` | have (PG 61651) |
+| A Beginner's History of Philosophy, vol. 2: Modern (1911) |  | `cushman-beginners-history-philosophy-2` | have (PG 62663) |
+
+## J. Alexander Gunn (French philosophy)
+
+Shelf: `pipeline/j-a-gunn_shelf.json`. Two books, 1920-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Bergson and His Philosophy (1920) |  | `gunn-bergson-and-his-philosophy` | have (PG 5717) |
+| Modern French Philosophy (1922) |  | `gunn-modern-french-philosophy` | have (PG 5246) |
+
+## St. George Stock (logic and Stoicism)
+
+Shelf: `pipeline/st-george-stock_shelf.json`. Two books, 1888-1908.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Deductive Logic (1888) |  | `stock-deductive-logic` | have (PG 6560) |
+| A Guide to Stoicism (1908) |  | `stock-guide-to-stoicism` | have (PG 7514) |
+
+## John Ruskin (art, society and political economy)
+
+Shelf: `pipeline/john-ruskin_shelf.json`. Forty-five volumes, 1837-1887.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Modern Painters, vol. 1 (1843) |  | `ruskin-modern-painters-1` | have (PG 29907) |
+| Modern Painters, vol. 2 (1846) |  | `ruskin-modern-painters-2` | have (PG 29906) |
+| Modern Painters, vol. 3 (1856) |  | `ruskin-modern-painters-3` | have (PG 38923) |
+| Modern Painters, vol. 4 (1856) |  | `ruskin-modern-painters-4` | have (PG 31623) |
+| Modern Painters, vol. 5 (1860) |  | `ruskin-modern-painters-5` | have (PG 44329) |
+| The Poetry of Architecture (1837-38) |  | `ruskin-poetry-of-architecture` | have (PG 17774) |
+| The Seven Lamps of Architecture (1849) |  | `ruskin-seven-lamps` | have (PG 35898) |
+| The Stones of Venice, vol. 1 (1851) |  | `ruskin-stones-of-venice-1` | have (PG 30754) |
+| The Stones of Venice, vol. 2 (1853) |  | `ruskin-stones-of-venice-2` | have (PG 30755) |
+| The Stones of Venice, vol. 3 (1853) |  | `ruskin-stones-of-venice-3` | have (PG 30756) |
+| Lectures on Architecture and Painting (1854) |  | `ruskin-lectures-architecture-painting` | have (PG 23593) |
+| The Harbours of England (1856) |  | `ruskin-harbours-of-england` | have (PG 21591) |
+| A Joy For Ever, and its Price in the Market (1857) |  | `ruskin-joy-for-ever` | have (PG 19980) |
+| The Elements of Perspective (1859) |  | `ruskin-elements-of-perspective` | have (PG 60816) |
+| The Two Paths (1859) |  | `ruskin-two-paths` | have (PG 7291) |
+| Unto This Last, and Other Essays on Political Economy (1862) |  | `ruskin-unto-this-last` | have (PG 36541) |
+| Sesame and Lilies (1865) |  | `ruskin-sesame-and-lilies` | have (PG 1293) |
+| The Crown of Wild Olive; Munera Pulveris; Pre-Raphaelitism; Aratra Pentelici; The Ethics of the Dust; Fiction, Fair and Foul; The Elements of Drawing (collected) |  | `ruskin-crown-of-wild-olive-collected` | have (PG 26716) |
+| Time and Tide by Weare and Tyne (1867) |  | `ruskin-time-and-tide` | have (PG 31196) |
+| The Queen of the Air (1869) |  | `ruskin-queen-of-the-air` | have (PG 12641) |
+| Lectures on Art (1870) |  | `ruskin-lectures-on-art` | have (PG 19164) |
+| Lectures on Landscape (1871) |  | `ruskin-lectures-on-landscape` | have (PG 20019) |
+| The Eagle's Nest (1872) |  | `ruskin-eagles-nest` | have (PG 42917) |
+| Ariadne Florentina (1873-76) |  | `ruskin-ariadne-florentina` | have (PG 27268) |
+| Val d'Arno (1874) |  | `ruskin-val-darno` | have (PG 8523) |
+| Love's Meinie (1873-81) |  | `ruskin-loves-meinie` | have (PG 21138) |
+| Mornings in Florence (1875-77) |  | `ruskin-mornings-in-florence` | have (PG 7227) |
+| Giotto and his Works in Padua (1853-60) |  | `ruskin-giotto-padua` | have (PG 18371) |
+| Fors Clavigera, vol. 1 of 8 (1871-84) |  | `ruskin-fors-clavigera-1` | have (PG 59456) |
+| Fors Clavigera, vol. 2 of 8 (1871-84) |  | `ruskin-fors-clavigera-2` | have (PG 61591) |
+| Fors Clavigera, vol. 3 of 8 (1871-84) |  | `ruskin-fors-clavigera-3` | have (PG 61634) |
+| Fors Clavigera, vol. 4 of 8 (1871-84) |  | `ruskin-fors-clavigera-4` | have (PG 67544) |
+| Fors Clavigera, vol. 5 of 8 (1871-84) |  | `ruskin-fors-clavigera-5` | have (PG 68013) |
+| Fors Clavigera, vol. 6 of 8 (1871-84) |  | `ruskin-fors-clavigera-6` | have (PG 70181) |
+| Proserpina, vol. 1 (1875-86) |  | `ruskin-proserpina-1` | have (PG 20421) |
+| Proserpina, vol. 2 |  | `ruskin-proserpina-2` | have (PG 15088) |
+| Our Fathers Have Told Us, part I: The Bible of Amiens (1880-85) |  | `ruskin-bible-of-amiens` | have (PG 24428) |
+| Letters to the Clergy on the Lord's Prayer and the Church (1879) |  | `ruskin-letters-to-the-clergy` | have (PG 39283) |
+| The Pleasures of England (1884) |  | `ruskin-pleasures-of-england` | have (PG 15947) |
+| The Storm-Cloud of the Nineteenth Century (1884) |  | `ruskin-storm-cloud` | have (PG 20204) |
+| On the Old Road, vol. 1 (1885) |  | `ruskin-on-the-old-road-1` | have (PG 25678) |
+| On the Old Road, vol. 2 (1885) |  | `ruskin-on-the-old-road-2` | have (PG 21263) |
+| Hortus Inclusus (1887) |  | `ruskin-hortus-inclusus` | have (PG 22230) |
+| Arrows of the Chace, vol. 1 (1880) |  | `ruskin-arrows-of-the-chace-1` | have (PG 49508) |
+| Arrows of the Chace, vol. 2 (1880) |  | `ruskin-arrows-of-the-chace-2` | have (PG 48015) |
+
+Pending (wishlist): Fors Clavigera vols. 7-8; Praeterita
+
+## Samuel Butler (evolution, memory and Homer)
+
+Shelf: `pipeline/samuel-butler_shelf.json`. Thirteen books, 1873-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Fair Haven (1873) |  | `sbutler-fair-haven` | have (PG 6092) |
+| Life and Habit (1878) |  | `sbutler-life-and-habit` | have (PG 6138) |
+| Evolution, Old and New (1879) |  | `sbutler-evolution-old-and-new` | have (PG 23427) |
+| God the Known and God the Unknown (1879; book form 1909) |  | `sbutler-god-the-known` | have (PG 2513) |
+| Unconscious Memory (1880) |  | `sbutler-unconscious-memory` | have (PG 6605) |
+| Selections from Previous Works, with Remarks on Romanes' Mental Evolution in Animals (1884) |  | `sbutler-selections-romanes` | have (PG 19610) |
+| Luck, or Cunning, as the Main Means of Organic Modification? (1887) |  | `sbutler-luck-or-cunning` | have (PG 4967) |
+| The Authoress of the Odyssey (1897) |  | `sbutler-authoress-of-the-odyssey` | have (PG 49324) |
+| Essays on Life, Art and Science (1904) |  | `sbutler-essays-on-life-art-science` | have (PG 3461) |
+| The Note-Books of Samuel Butler (1912) |  | `sbutler-note-books` | have (PG 6173) |
+| The Humour of Homer and Other Essays (1913) |  | `sbutler-humour-of-homer` | have (PG 12651) |
+| Cambridge Pieces |  | `sbutler-cambridge-pieces` | have (PG 3278) |
+| Canterbury Pieces (including Darwin among the Machines) |  | `sbutler-canterbury-pieces` | have (PG 3279) |
+
+## John Veitch (Scottish logic, Hamilton's school)
+
+Shelf: `pipeline/john-veitch_shelf.json`. Seven books, 1869-1896.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Memoir of Sir William Hamilton (Blackwood, 1869) |  | `veitch-memoir-of-sir-william-hamilton-1869` | have-raw (IA `memoirsirwillia00veitgoog`) |
+| Lucretius and the Atomic Theory (1875) |  | `veitch-lucretius-and-the-atomic-theory-1875` | have-raw (IA `lucretiusandato01veitgoog`) |
+| Hamilton, Philosophical Classics for English Readers (Blackwood, 1882) |  | `veitch-hamilton-philosophical-classics-1882` | have-raw (IA `hamilton00veitgoog`) |
+| Institutes of Logic (Blackwood, 1885) |  | `veitch-institutes-of-logic-1885` | have-raw (IA `institutesoflogi00veitiala`) |
+| Knowing and Being (Blackwood, 1889) |  | `veitch-knowing-and-being-1889` | have-raw (IA `dli.bengal.10689.5395`) |
+| Dualism and Monism, and other essays (Blackwood, 1895) |  | `veitch-dualism-and-monism-1895` | have-raw (IA `dualismmonismoth00veitrich`) |
+| Border Essays (Blackwood, 1896) |  | `veitch-border-essays-1896` | have-raw (IA `borderessays00veituoft`) |
+
+## Carveth Read (logic and evolutionary psychology)
+
+Shelf: `pipeline/carveth-read_shelf.json`. Five books, 1878-1925.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On the Theory of Logic (Kegan Paul, 1878) |  | `read-on-the-theory-of-logic-1878` | have-raw (IA `ontheorylogican00readgoog`) |
+| Logic, Deductive and Inductive, 3rd ed. (Moring, 1908 reprint) |  | `read-logic-deductive-and-inductive-1908` | have-raw (IA `logicdeductivean00readuoft`) |
+| Natural and Social Morals (1909) |  | `read-natural-and-social-morals-1909` | have-raw (IA `in.ernet.dli.2015.41545`) |
+| The Origin of Man and of his Superstitions (Cambridge, 1920) |  | `read-origin-of-man-1920` | have-raw (IA `in.ernet.dli.2015.536183`) |
+| Man and his Superstitions (Cambridge, 1925) |  | `read-man-and-his-superstitions-1925` | have-raw (IA `manhissuperstiti00read`) |
+
+Pending (wishlist): The Metaphysics of Nature (no dated scan found).
+
+## Alfred Sidgwick (practical logic)
+
+Shelf: `pipeline/alfred-sidgwick_shelf.json`. Three books, 1885-1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Fallacies, a view of logic from the practical side (Kegan Paul, 1885) |  | `sidgwick-fallacies-1885` | have-raw (IA `fallaciesviewofl00sidg_0`) |
+| Distinction and the Criticism of Beliefs (Longmans, 1892) |  | `sidgwick-distinction-and-criticism-of-beliefs-1892` | have-raw (IA `cu31924095617605`) |
+| Elementary Logic (Cambridge, 1914) |  | `sidgwick-elementary-logic-1914` | have-raw (IA `cu31924029146666`) |
+
+## E. E. Constance Jones (logic of propositions)
+
+Shelf: `pipeline/e-e-constance-jones_shelf.json`. Two books, 1890-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Elements of Logic as a Science of Propositions (T. & T. Clark, 1890) |  | `jones-elements-of-logic-1890` | have-raw (IA `elementslogicas00jonegoog`) |
+| As I Remember (1922) |  | `jones-as-i-remember-1922` | have-raw (IA `asirememberautob0000unse`) |
+
+## J. B. Baillie (Hegelian idealism)
+
+Shelf: `pipeline/j-b-baillie_shelf.json`. Three books, 1901-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin and Significance of Hegel's Logic (Macmillan, 1901) |  | `baillie-origin-and-significance-of-hegels-logic-1901` | have-raw (IA `cu31924011603416`) |
+| An Outline of the Idealistic Construction of Experience (Macmillan, 1906) |  | `baillie-idealistic-construction-of-experience-1906` | have-raw (IA `cu31924029031066`) |
+| Studies in Human Nature (1922) |  | `baillie-studies-in-human-nature-1922` | have-raw (IA `studiesinhumanna00bail`) |
+
+## T. Percy Nunn (philosophy of science and education)
+
+Shelf: `pipeline/t-percy-nunn_shelf.json`. Three books, 1907-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Aim and Achievements of Scientific Method (Macmillan, 1907) |  | `nunn-aim-and-achievements-of-scientific-method-1907` | have-raw (IA `india.history.resource.118321`) |
+| Education, its Data and First Principles (Arnold, 1920) |  | `nunn-education-its-data-and-first-principles-1920` | have-raw (IA `educationitsdata00nunn`) |
+| Relativity and Gravitation (1923) |  | `nunn-relativity-and-gravitation-1923` | have-raw (IA `relativitygravit0000tper`) |
+
+## W. E. Johnson (Cambridge logic)
+
+Shelf: `pipeline/w-e-johnson_shelf.json`. Logic Part I, 1921.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Logic, Part I (Cambridge, 1921) |  | `johnson-logic-part-i-1921` | have-raw (IA `in.ernet.dli.2015.204560`) |
+
+Pending (wishlist): Logic Part II (1922) and Part III (1924).
+
+## Susan Stebbing (analytic philosophy)
+
+Shelf: `pipeline/susan-stebbing_shelf.json`. One book, 1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pragmatism and French Voluntarism (Cambridge, 1914) |  | `stebbing-pragmatism-and-french-voluntarism-1914` | have-raw (IA `pragmatismfrench00stebrich`) |
+
+Pending (wishlist): A Modern Introduction to Logic (1930; only an undated Crowell printing found).
+
+## James Rowland Angell (functional psychology)
+
+Shelf: `pipeline/james-rowland-angell_shelf.json`. Three books, 1908-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Psychology, 4th ed. revised (Holt, 1908) |  | `angell-psychology-1908` | have-raw (IA `psychology00angegoog`) |
+| Chapters from Modern Psychology (Longmans, 1912; impression of 1913) |  | `angell-chapters-from-modern-psychology-1912` | have-raw (IA `chaptersfrommode00ange`) |
+| An Introduction to Psychology (Holt, 1918) |  | `angell-introduction-to-psychology-1918` | have-raw (IA `introductiontops00ange`) |
+
+## Joseph Jastrow (experimental psychology)
+
+Shelf: `pipeline/joseph-jastrow_shelf.json`. Six books, 1890-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Time-Relations of Mental Phenomena (Hodges, 1890) |  | `jastrow-time-relations-of-mental-phenomena-1890` | have-raw (IA `timerelationsofm00jastuoft`) |
+| Fact and Fable in Psychology (Macmillan, 1901) |  | `jastrow-fact-and-fable-in-psychology-1901` | have-raw (IA `factfableinpsych01jast`) |
+| The Subconscious (Houghton Mifflin, 1905) |  | `jastrow-subconscious-1905` | have-raw (IA `subconscious00jast`) |
+| The Qualities of Men (Houghton Mifflin, 1910) |  | `jastrow-qualities-of-men-1910` | have-raw (IA `qualitiesmenane02jastgoog`) |
+| Character and Temperament (Appleton, 1915) |  | `jastrow-character-and-temperament-1915` | have-raw (IA `cu31924029121049`) |
+| The Psychology of Conviction (Houghton Mifflin, 1918) |  | `jastrow-psychology-of-conviction-1918` | have-raw (IA `psychologyofconv00jastuoft`) |
+
+## Edward L. Thorndike (psychology of learning)
+
+Shelf: `pipeline/edward-l-thorndike_shelf.json`. Five volumes, 1907-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Elements of Psychology, 2nd ed. (Seiler, 1907) |  | `thorndike-elements-of-psychology-1907` | have-raw (IA `elementsofpsycho05thor`) |
+| Animal Intelligence (Macmillan, 1911) |  | `thorndike-animal-intelligence-1911` | have-raw (IA `animalintellige00thorgoog`) |
+| Individuality (Houghton Mifflin, 1911) |  | `thorndike-individuality-1911` | have-raw (IA `individuality00tho`) |
+| Educational Psychology, vol. I: The Original Nature of Man (Teachers College, 1913) |  | `thorndike-educational-psychology-1913-v1` | have-raw (IA `educationalpsych01thoriala`) |
+| Educational Psychology, vol. II: The Psychology of Learning (Teachers College, 1913; printing of 1921) |  | `thorndike-educational-psychology-1913-v2` | have-raw (IA `educationalpsych02thor`) |
+
+Pending (wishlist): Educational Psychology vol. III (1914).
+
+## Addison Webster Moore (Chicago pragmatism)
+
+Shelf: `pipeline/addison-webster-moore_shelf.json`. Two books, 1902-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Functional versus the Representational Theories of Knowledge in Locke's Essay (Chicago, 1902) |  | `moore-functional-versus-representational-1902` | have-raw (IA `functionalversus00moorrich`) |
+| Pragmatism and its Critics (University of Chicago Press, 1910) |  | `moore-pragmatism-and-its-critics-1910` | have-raw (IA `cu31924100500903`) |
+
+Pending (wishlist): Existence, Meaning, and Reality (1903 offprint; no dated scan).
+
+## Horace M. Kallen (pragmatism and cultural pluralism)
+
+Shelf: `pipeline/horace-kallen_shelf.json`. Five books, 1914-1927.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| William James and Henri Bergson (University of Chicago Press, 1914) |  | `kallen-william-james-and-henri-bergson-1914` | have-raw (IA `williamjameshenr00kall_0`) |
+| The Structure of Lasting Peace (Marshall Jones, 1918) |  | `kallen-structure-of-lasting-peace-1918` | have-raw (IA `structureoflasti00kalliala`) |
+| Zionism and World Politics (Doubleday, Page, 1921) |  | `kallen-zionism-and-world-politics-1921` | have-raw (IA `zionismandworld00kallgoog`) |
+| Culture and Democracy in the United States (Boni and Liveright, 1924) |  | `kallen-culture-and-democracy-1924` | have-raw (IA `culturedemocracy0000hora`) |
+| Why Religion (Boni and Liveright, 1927) |  | `kallen-why-religion-1927` | have-raw (IA `whyreligion0000hora_q9a6`) |
+
+## Hartley Burr Alexander (philosophy and culture)
+
+Shelf: `pipeline/hartley-burr-alexander_shelf.json`. Three books, 1919-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Letters to Teachers (Open Court, 1919) |  | `alexander-letters-to-teachers-1919` | have-raw (IA `letterstoteacher00alexuoft`) |
+| Nature and Human Nature (Open Court, 1923) |  | `alexander-nature-and-human-nature-1923` | have-raw (IA `naturehumannatur0000hart_v5q6`) |
+| Truth and the Faith (Holt, 1929) |  | `alexander-truth-and-the-faith-1929` | have-raw (IA `truthfaithinterp00alex`) |
+
+## Max Otto (pragmatic humanism)
+
+Shelf: `pipeline/max-otto_shelf.json`. Two books, 1924-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Things and Ideals (Holt, 1924) |  | `otto-things-and-ideals-1924` | have-raw (IA `thingsidealsessa0000otto`) |
+| Natural Laws and Human Hopes (Holt, 1926) |  | `otto-natural-laws-and-human-hopes-1926` | have-raw (IA `naturallawshuman0000otto`) |
+
+## Christine Ladd-Franklin (logic and colour vision)
+
+Shelf: `pipeline/christine-ladd-franklin_shelf.json`. One book, 1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Colour and Colour Theories (Kegan Paul, 1929) |  | `ladd-franklin-colour-and-colour-theories-1929` | have-raw (IA `in.ernet.dli.2015.218434`) |
+
+## James Hayden Tufts (social ethics)
+
+Shelf: `pipeline/james-hayden-tufts_shelf.json`. Two books, 1917-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Our Democracy, its origins and its tasks (Holt, 1917) |  | `tufts-our-democracy-1917` | have-raw (IA `cu31924031446424`) |
+| The Ethics of Cooperation (Houghton Mifflin, 1918) |  | `tufts-ethics-of-cooperation-1918` | have-raw (IA `ethicsofcopera00tuftuoft`) |
+
+## Boyd H. Bode (pragmatist philosophy of education)
+
+Shelf: `pipeline/boyd-h-bode_shelf.json`. Four books, 1910-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Outline of Logic (Holt, 1910) |  | `bode-outline-of-logic-1910` | have-raw (IA `outlineoflogic00bodeuoft`) |
+| Fundamentals of Education (Macmillan, 1921; printing of 1922) |  | `bode-fundamentals-of-education-1921` | have-raw (IA `fundamentalsofed00bodeuoft`) |
+| Modern Educational Theories (Macmillan, 1927) |  | `bode-modern-educational-theories-1927` | have-raw (IA `moderneducationa0000boyd_u6c4`) |
+| Conflicting Psychologies of Learning (Heath, 1929) |  | `bode-conflicting-psychologies-of-learning-1929` | have-raw (IA `conflictingpsych00bode`) |
+
+## Charles M. Bakewell (ancient philosophy source book)
+
+Shelf: `pipeline/charles-m-bakewell_shelf.json`. One book, 1907.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Source Book in Ancient Philosophy (Scribner, 1907) |  | `bakewell-source-book-in-ancient-philosophy-1907` | have-raw (IA `sourcebookinanci00bakeuoft`) |
+
+## Robert S. Woodworth (dynamic psychology)
+
+Shelf: `pipeline/robert-s-woodworth_shelf.json`. Two books, 1918-1921.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Dynamic Psychology (Columbia University Press, 1918) |  | `woodworth-dynamic-psychology-1918` | have-raw (IA `dynamicpsycholog00woodrich`) |
+| Psychology, a study of mental life (Holt, 1921) |  | `woodworth-psychology-1921` | have-raw (IA `psychologyastud01woodgoog`) |
+
+## Charles Hubbard Judd (psychology of education)
+
+Shelf: `pipeline/charles-hubbard-judd_shelf.json`. Four books, 1903-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Genetic Psychology for Teachers (Appleton, 1903) |  | `judd-genetic-psychology-for-teachers-1903` | have-raw (IA `geneticpsycholog00judduoft`) |
+| Psychology, General Introduction (Scribner, 1907) |  | `judd-psychology-general-introduction-1907` | have-raw (IA `psychologygener01goog`) |
+| The Psychology of High-School Subjects (Ginn, 1916) |  | `judd-psychology-of-high-school-subjects-1916` | have-raw (IA `in.ernet.dli.2015.21801`) |
+| Introduction to the Scientific Study of Education (Ginn, 1918) |  | `judd-introduction-to-scientific-study-of-education-1918` | have-raw (IA `introductiontosc00juddiala`) |
+
+## Charles Darwin (natural history and evolution)
+
+Shelf: `pipeline/charles-darwin_shelf.json`. Twenty works beyond the Origin and Descent already on the adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Voyage of the Beagle (Journal of Researches, 2nd ed., 1845) |  | `darwin-voyage-of-the-beagle-1845` | have (PG 944) |
+| The Structure and Distribution of Coral Reefs |  | `darwin-coral-reefs` | have (PG 2690) |
+| Geological Observations on the Volcanic Islands |  | `darwin-volcanic-islands` | have (PG 3054) |
+| Geological Observations on South America |  | `darwin-geological-observations-south-america` | have (PG 3620) |
+| A Monograph on the Sub-class Cirripedia, vol. 1: The Lepadidae (Ray Society, 1851) |  | `darwin-cirripedia-v1-1851` | have (PG 31558) |
+| A Monograph on the Sub-class Cirripedia, vol. 2: The Balanidae (Ray Society, 1854) |  | `darwin-cirripedia-v2-1854` | have (PG 46408) |
+| The Variation of Animals and Plants under Domestication |  | `darwin-variation-under-domestication` | have (PG 3332) |
+| The Expression of the Emotions in Man and Animals |  | `darwin-expression-of-the-emotions` | have (PG 1227) |
+| The Movements and Habits of Climbing Plants |  | `darwin-climbing-plants` | have (PG 2485) |
+| Insectivorous Plants |  | `darwin-insectivorous-plants` | have (PG 5765) |
+| The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom |  | `darwin-cross-and-self-fertilisation` | have (PG 4346) |
+| The Different Forms of Flowers on Plants of the Same Species |  | `darwin-different-forms-of-flowers` | have (PG 3807) |
+| The Power of Movement in Plants |  | `darwin-power-of-movement-in-plants` | have (PG 5605) |
+| The Formation of Vegetable Mould through the Action of Worms |  | `darwin-vegetable-mould-and-worms` | have (PG 2355) |
+| The Autobiography of Charles Darwin |  | `darwin-autobiography` | have (PG 2010) |
+| Life and Letters of Charles Darwin, vol. 1, ed. Francis Darwin |  | `darwin-life-and-letters-v1` | have (PG 2087) |
+| Life and Letters of Charles Darwin, vol. 2, ed. Francis Darwin |  | `darwin-life-and-letters-v2` | have (PG 2088) |
+| More Letters of Charles Darwin, vol. 1, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v1` | have (PG 2739) |
+| More Letters of Charles Darwin, vol. 2, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v2` | have (PG 2740) |
+| The Foundations of the Origin of Species, two essays written in 1842 and 1844 (1909) |  | `darwin-foundations-of-the-origin-1909` | have (PG 22728) |
+| The Various Contrivances by which Orchids are Fertilised by Insects, 2nd ed., revised (Appleton, 1886) |  | `darwin-fertilisation-of-orchids-1886` | have-raw (IA `variouscontrivan1886darw`) |
+
+Pending (wishlist): Fertilisation of Orchids, first edition (1862).
+
+## Alfred Russel Wallace (natural selection and biogeography)
+
+Shelf: `pipeline/alfred-russel-wallace_shelf.json`. Nineteen works, 1853-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Narrative of Travels on the Amazon and Rio Negro (Reeve, 1853) |  | `wallace-travels-on-the-amazon-1853` | have (PG 71436) |
+| Palm Trees of the Amazon and their Uses |  | `wallace-palm-trees-of-the-amazon` | have (PG 70075) |
+| On the Phenomena of Variation and Geographical Distribution as illustrated by the Papilionidae of the Malayan Region |  | `wallace-papilionidae-variation` | have (PG 74871) |
+| The Malay Archipelago, vol. 1 |  | `wallace-malay-archipelago-v1` | have (PG 2530) |
+| The Malay Archipelago, vol. 2 |  | `wallace-malay-archipelago-v2` | have (PG 2539) |
+| Contributions to the Theory of Natural Selection |  | `wallace-contributions-to-natural-selection` | have (PG 22428) |
+| A Defence of Modern Spiritualism |  | `wallace-defence-of-modern-spiritualism` | have (PG 69454) |
+| The Geographical Distribution of Animals, vol. 1 |  | `wallace-geographical-distribution-v1` | have (PG 56506) |
+| The Geographical Distribution of Animals, vol. 2 |  | `wallace-geographical-distribution-v2` | have (PG 56507) |
+| Tropical Nature, and other essays |  | `wallace-tropical-nature` | have (PG 73563) |
+| Island Life |  | `wallace-island-life` | have (PG 32021) |
+| Darwinism (1889) |  | `wallace-darwinism-1889` | have (PG 14558) |
+| Vaccination a Delusion |  | `wallace-vaccination-a-delusion` | have (PG 58918) |
+| Man's Place in the Universe |  | `wallace-mans-place-in-the-universe` | have (PG 39928) |
+| Is Mars Habitable? |  | `wallace-is-mars-habitable` | have (PG 10855) |
+| Social Environment and Moral Progress |  | `wallace-social-environment-and-moral-progress` | have (PG 50289) |
+| The Remedy for Unemployment |  | `wallace-remedy-for-unemployment` | have (PG 50690) |
+| Alfred Russel Wallace: Letters and Reminiscences, vol. 1, ed. James Marchant |  | `wallace-letters-and-reminiscences-v1` | have (PG 15997) |
+| Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant |  | `wallace-letters-and-reminiscences-v2` | have (PG 15998) |
+| My Life, a record of events and opinions, vol. I (Chapman and Hall, 1905) |  | `wallace-my-life-1905-v1` | have-raw (IA `myliferecordofev01walluoft`) |
+| My Life, a record of events and opinions, vol. II (Chapman and Hall, 1905) |  | `wallace-my-life-1905-v2` | have-raw (IA `myliferecordofev21905wall`) |
+| The Wonderful Century, its successes and its failures, 3rd edition (1899) |  | `wallace-wonderful-century-1899` | have-raw (IA `wonderfulcentur00wallgoog`) |
+
+## Charles Lyell (uniformitarian geology)
+
+Shelf: `pipeline/charles-lyell_shelf.json`. Four works.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Principles of Geology, 9th edition |  | `lyell-principles-of-geology-9th-ed` | have (PG 33224) |
+| A Manual of Elementary Geology |  | `lyell-manual-of-elementary-geology` | have (PG 34350) |
+| The Antiquity of Man |  | `lyell-antiquity-of-man` | have (PG 6335) |
+| The Student's Elements of Geology |  | `lyell-students-elements-of-geology` | have (PG 3772) |
+
+Pending (wishlist): Principles of Geology, 1st edition (1830-33).
+
+## Albion W. Small (Chicago sociology)
+
+Shelf: `pipeline/albion-small_shelf.json`. Two books, 1905-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| General Sociology (University of Chicago Press, 1905; printing of 1907) |  | `small-general-sociology-1905` | have-raw (IA `generalsociology00smal`) |
+| The Meaning of Social Science (University of Chicago Press, 1910) |  | `small-meaning-of-social-science-1910` | have-raw (IA `meaningsocialsc00smalgoog`) |
+
+## Simon N. Patten (economics of abundance)
+
+Shelf: `pipeline/simon-patten_shelf.json`. Six books, 1889-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Consumption of Wealth (University of Pennsylvania, 1889) |  | `patten-consumption-of-wealth-1889` | have-raw (IA `consumptionofwea00pattrich`) |
+| The Development of English Thought (Macmillan, 1899) |  | `patten-development-of-english-thought-1899` | have-raw (IA `developmentofeng00pattiala`) |
+| The Theory of Prosperity (Macmillan, 1902) |  | `patten-theory-of-prosperity-1902` | have-raw (IA `theoryofprosperi00pattiala`) |
+| The New Basis of Civilization (Macmillan, 1907) |  | `patten-new-basis-of-civilization-1907` | have-raw (IA `newbasisofcivili00pattuoft`) |
+| The Social Basis of Religion (Macmillan, 1911; printing of 1912) |  | `patten-social-basis-of-religion-1911` | have-raw (IA `socialbasisofrel0000patt_r5a5`) |
+| Culture and War (Huebsch, 1916) |  | `patten-culture-and-war-1916` | have-raw (IA `cultureandwar00pattgoog`) |
+
+## Mark Hopkins (American moral philosophy)
+
+Shelf: `pipeline/mark-hopkins_shelf.json`. Four works, 1862-1873.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Connexion between Taste and Morals, two lectures |  | `hopkins-connexion-between-taste-and-morals` | have (PG 40845) |
+| Lectures on Moral Science (Gould and Lincoln, 1862) |  | `hopkins-lectures-on-moral-science-1862` | have-raw (IA `lecturesonmoral01hopkgoog`) |
+| The Law of Love and Love as a Law, 3rd ed. (Scribner, 1871) |  | `hopkins-law-of-love-1871` | have-raw (IA `lawloveandlovea00mccogoog`) |
+| An Outline Study of Man (Scribner, Armstrong, 1873) |  | `hopkins-outline-study-of-man-1873` | have-raw (IA `outlinestudyofma01hopk`) |
+
+## William Mackintire Salter (ethical culture)
+
+Shelf: `pipeline/william-mackintire-salter_shelf.json`. Three books, 1889-1917.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ethical Religion (Roberts Brothers, 1889) |  | `salter-ethical-religion-1889` | have-raw (IA `ethicalreligion00salt`) |
+| First Steps in Philosophy (Kerr, 1892) |  | `salter-first-steps-in-philosophy-1892` | have-raw (IA `firststepsinphi01saltgoog`) |
+| Nietzsche the Thinker (copyright 1917; London: Cecil Palmer and Hayward issue) |  | `salter-nietzsche-the-thinker-1917` | have-raw (IA `nietzschethethin00saltuoft`) |
+
+Pending (wishlist): Anarchy or Government? (1895).
+
+## C. E. M. Joad (popular philosophy)
+
+Shelf: `pipeline/c-e-m-joad_shelf.json`. Five books, 1920-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Thrasymachus, or the future of morals (Dutton, 1926) |  | `joad-thrasymachus-1926` | have (PG 74315) |
+| Essays in Common-Sense Philosophy (Harcourt, Brace and Howe, 1920) |  | `joad-essays-in-common-sense-philosophy-1920` | have-raw (IA `essaysincommonse0000cemj_c3h7`) |
+| Common-Sense Ethics (Methuen, 1921) |  | `joad-common-sense-ethics-1921` | have-raw (IA `commonsenseethic00joaduoft`) |
+| Mind and Matter (Putnam, 1925) |  | `joad-mind-and-matter-1925` | have-raw (IA `mindmatter0000cemj`) |
+| Matter, Life and Value (Oxford University Press, 1929) |  | `joad-matter-life-and-value-1929` | have-raw (IA `in.ernet.dli.2015.209760`) |
+
+Pending (wishlist): Introduction to Modern Philosophy (1924; only post-1930 reprints found).
+
+## Philo of Alexandria (Hellenistic Jewish philosophy)
+
+Shelf: `pipeline/philo-judaeus_shelf.json`. Yonge's Bohn translation, 4 vols., 1854-1855.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of Philo Judaeus, vol. I (Bohn, 1854) | C. D. Yonge | `philo-yonge-works-1854-v1` | have-raw (IA `worksphilojudaeu01philuoft`) |
+| The Works of Philo Judaeus, vol. II (Bohn, 1854) | C. D. Yonge | `philo-yonge-works-1854-v2` | have-raw (IA `worksphilojudaeu02philuoft`) |
+| The Works of Philo Judaeus, vol. III (Bohn, 1855) | C. D. Yonge | `philo-yonge-works-1855-v3` | have-raw (IA `theworksofphiloj03yonguoft`) |
+| The Works of Philo Judaeus, vol. IV (Bohn, 1855) | C. D. Yonge | `philo-yonge-works-1855-v4` | have-raw (IA `theworksofphiloj04yonguoft`) |
+
+## Babrius (Greek verse fables)
+
+Shelf: `pipeline/babrius_shelf.json`. Davies's verse translation, 1860.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Fables of Babrius, in two parts (Lockwood, 1860) | James Davies | `babrius-davies-fables-1860` | have-raw (IA `fablesofbabriusi00babr_0`) |
+
+## Hermann von Helmholtz (physiology of perception)
+
+Shelf: `pipeline/hermann-von-helmholtz_shelf.json`. Sensations of Tone, Ellis's 2nd English edition, 1885.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On the Sensations of Tone, 2nd English ed. (Longmans, 1885) | Alexander J. Ellis | `helmholtz-ellis-sensations-of-tone-1885` | have-raw (IA `onsensationston00unkngoog`) |
+
+Pending (wishlist): Treatise on Physiological Optics (tr. Southall, Optical Society of America, 1924-25).
+
+## James George Frazer (comparative religion)
+
+Shelf: `pipeline/james-george-frazer_shelf.json`. The Golden Bough, 3rd ed. complete (12 vols.) and 1st ed. (2 vols.), with The Belief in Immortality and Psyche's Task.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Golden Bough, 3rd ed., vol. 1: The Magic Art and the Evolution of Kings, vol. I |  | `frazer-golden-bough-3rd-ed-v01` | have (PG 59607) |
+| The Golden Bough, 3rd ed., vol. 2: The Magic Art and the Evolution of Kings, vol. II |  | `frazer-golden-bough-3rd-ed-v02` | have (PG 60250) |
+| The Golden Bough, 3rd ed., vol. 3: Taboo and the Perils of the Soul |  | `frazer-golden-bough-3rd-ed-v03` | have (PG 41832) |
+| The Golden Bough, 3rd ed., vol. 4: The Dying God |  | `frazer-golden-bough-3rd-ed-v04` | have (PG 41572) |
+| The Golden Bough, 3rd ed., vol. 5: Adonis, Attis, Osiris, vol. I |  | `frazer-golden-bough-3rd-ed-v05` | have (PG 43605) |
+| The Golden Bough, 3rd ed., vol. 6: Adonis, Attis, Osiris, vol. II |  | `frazer-golden-bough-3rd-ed-v06` | have (PG 41923) |
+| The Golden Bough, 3rd ed., vol. 7: Spirits of the Corn and of the Wild, vol. I |  | `frazer-golden-bough-3rd-ed-v07` | have (PG 42067) |
+| The Golden Bough, 3rd ed., vol. 8: Spirits of the Corn and of the Wild, vol. II |  | `frazer-golden-bough-3rd-ed-v08` | have (PG 42336) |
+| The Golden Bough, 3rd ed., vol. 9: The Scapegoat |  | `frazer-golden-bough-3rd-ed-v09` | have (PG 42661) |
+| The Golden Bough, 3rd ed., vol. 10: Balder the Beautiful, vol. I |  | `frazer-golden-bough-3rd-ed-v10` | have (PG 43049) |
+| The Golden Bough, 3rd ed., vol. 11: Balder the Beautiful, vol. II |  | `frazer-golden-bough-3rd-ed-v11` | have (PG 43433) |
+| The Golden Bough, 3rd ed., vol. 12: Bibliography and General Index |  | `frazer-golden-bough-3rd-ed-v12` | have (PG 44772) |
+| The Golden Bough, a study in comparative religion, 1st ed. (1890), vol. 1 |  | `frazer-golden-bough-1890-v1` | have (PG 41082) |
+| The Golden Bough, a study in comparative religion, 1st ed. (1890), vol. 2 |  | `frazer-golden-bough-1890-v2` | have (PG 41359) |
+| The Belief in Immortality and the Worship of the Dead, vol. I |  | `frazer-belief-in-immortality-v1` | have (PG 20116) |
+| The Belief in Immortality and the Worship of the Dead, vol. II |  | `frazer-belief-in-immortality-v2` | have (PG 33524) |
+| Psyche's Task |  | `frazer-psyches-task` | have (PG 71985) |
+
+Pending (wishlist): The Belief in Immortality vol. III (1924); Folk-Lore in the Old Testament (1918, 3 vols.).
+
+## Gilbert Murray (Greek scholarship)
+
+Shelf: `pipeline/gilbert-murray_shelf.json`. Six books, 1897-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Five Stages of Greek Religion |  | `murray-five-stages-of-greek-religion` | have (PG 30250) |
+| Euripides and His Age |  | `murray-euripides-and-his-age` | have (PG 35472) |
+| A History of Ancient Greek Literature (Heinemann, 1897; impression of 1911) |  | `murray-history-of-ancient-greek-literature-1897` | have-raw (IA `historyofancient00murruoft`) |
+| The Rise of the Greek Epic (Oxford, 1907) |  | `murray-rise-of-the-greek-epic-1907` | have-raw (IA `riseofgreekepic00murruoft`) |
+| The Interpretation of Ancient Greek Literature (Oxford, 1909) |  | `murray-interpretation-of-ancient-greek-literature-1909` | have-raw (IA `interpretationof00murr_0`) |
+| Tradition and Progress (Houghton Mifflin, 1922) |  | `murray-tradition-and-progress-1922` | have-raw (IA `traditionprogres00murruoft`) |
+
+Pending (wishlist): The Classical Tradition in Poetry (1927; no dated pre-1931 scan found).
+
+## Bronislaw Malinowski (fieldwork anthropology)
+
+Shelf: `pipeline/bronislaw-malinowski_shelf.json`. Four books, 1913-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Family among the Australian Aborigines (1913) |  | `malinowski-family-among-australian-aborigines-1913` | have (PG 48865) |
+| Argonauts of the Western Pacific (1922) |  | `malinowski-argonauts-of-the-western-pacific-1922` | have (PG 55822) |
+| Crime and Custom in Savage Society (Harcourt, Brace, 1926) |  | `malinowski-crime-and-custom-1926` | have-raw (IA `crimecustominsav00mali`) |
+| Myth in Primitive Psychology (1926) |  | `malinowski-myth-in-primitive-psychology-1926` | have-raw (IA `mythinprimitivep0000bron`) |
+
+Pending (wishlist): Sex and Repression in Savage Society (1927) and The Sexual Life of Savages (1929), first printings.
+
+## J. A. Stewart (Plato)
+
+Shelf: `pipeline/j-a-stewart_shelf.json`. One book, 1909.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Plato's Doctrine of Ideas (Clarendon Press, 1909) |  | `stewart-platos-doctrine-of-ideas-1909` | have-raw (IA `doctrineideas00stewuoft`) |
+
+Pending (wishlist): The Myths of Plato (1905) and Notes on the Nicomachean Ethics (1892); scans below the OCR gate.
+
+## R. D. Hicks (Stoics and Epicureans)
+
+Shelf: `pipeline/r-d-hicks_shelf.json`. One book, 1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Stoic and Epicurean (Scribner, 1910) |  | `hicks-stoic-and-epicurean-1910` | have-raw (IA `stoicepicurean00hick`) |
+
+## E. Vernon Arnold (Roman Stoicism)
+
+Shelf: `pipeline/e-vernon-arnold_shelf.json`. One book, 1911.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman Stoicism (Cambridge, 1911) |  | `arnold-roman-stoicism-1911` | have-raw (IA `romanstoicismbei00arnouoft`) |
+
+## James Adam (Greek religious thought)
+
+Shelf: `pipeline/james-adam_shelf.json`. Gifford lectures, 1908.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Religious Teachers of Greece (1908) |  | `adam-religious-teachers-of-greece-1908` | have-raw (IA `religiousteache00unkngoog`) |
+
+Pending (wishlist): The Vitality of Platonism (1911).
+
+## Alfred Zimmern (Greek commonwealth)
+
+Shelf: `pipeline/alfred-zimmern_shelf.json`. Two books, 1911-1919.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Commonwealth (Clarendon Press, 1911) |  | `zimmern-greek-commonwealth-1911` | have-raw (IA `greekcommonwealt00zimm`) |
+| Nationality and Government (Chatto and Windus, 1919) |  | `zimmern-nationality-and-government-1919` | have-raw (IA `nationalitygover00zimmuoft`) |
+
+## R. W. Livingstone (the Greek genius)
+
+Shelf: `pipeline/r-w-livingstone_shelf.json`. Two books, 1912-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Genius and its Meaning to Us (Clarendon Press, 1912) |  | `livingstone-greek-genius-1912` | have-raw (IA `greekgeniusitsme00liviuoft`) |
+| A Defence of Classical Education (Macmillan, 1916) |  | `livingstone-defence-of-classical-education-1916` | have-raw (IA `defenceofclassic00liviuoft`) |
+
+## F. M. Cornford (origins of Greek thought)
+
+Shelf: `pipeline/f-m-cornford_shelf.json`. Three books, 1907-1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Thucydides Mythistoricus (Arnold, 1907) |  | `cornford-thucydides-mythistoricus-1907` | have-raw (IA `in.ernet.dli.2015.45448`) |
+| From Religion to Philosophy (Arnold, 1912) |  | `cornford-from-religion-to-philosophy-1912` | have-raw (IA `india.history.resource.117546`) |
+| The Origin of Attic Comedy (Arnold, 1914) |  | `cornford-origin-of-attic-comedy-1914` | have-raw (IA `cu31924022693117`) |
+
+## A. D. Lindsay (Kant and Bergson)
+
+Shelf: `pipeline/a-d-lindsay_shelf.json`. Two books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophy of Immanuel Kant |  | `lindsay-philosophy-of-immanuel-kant` | have (PG 47880) |
+| The Philosophy of Bergson (Dent, 1911) |  | `lindsay-philosophy-of-bergson-1911` | have-raw (IA `philosophyofberg00lind`) |
+
+## Ancient Classics for English Readers (Blackwood series, 1870-1880)
+
+Shelf: `pipeline/ancient-classics-for-english-readers_shelf.json`. The Victorian series that retold each Greek and Latin classic for readers without the languages; 27 of 28 volumes, the 28th (Trollope's Caesar) on trollope-works.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Cicero, by W. Lucas Collins (Ancient Classics for English Readers, 1871) |  | `acer-cicero-1871` | have (PG 11448) |
+| Homer: The Iliad, by W. Lucas Collins (Blackwood, 1870) |  | `acer-homer-iliad-1870` | have-raw (IA `homeriliad00colluoft`) |
+| Homer: The Odyssey, by W. Lucas Collins (Blackwood, 1870) |  | `acer-homer-odyssey-1870` | have-raw (IA `homerodyssey00coll`) |
+| Herodotus, by George C. Swayne (Blackwood, 1870) |  | `acer-herodotus-1870` | have-raw (IA `herodotus01swaygoog`) |
+| Virgil, by W. Lucas Collins (Blackwood, 1870) |  | `acer-virgil-1870` | have-raw (IA `virgilbyrevwluca00collrich`) |
+| Horace, by Theodore Martin (Blackwood, 1870) |  | `acer-horace-1870` | have-raw (IA `horace__00martuoft`) |
+| Aeschylus, by Reginald S. Copleston (Blackwood, 1870) |  | `acer-aeschylus-1870` | have-raw (IA `aeschylus00coplrich`) |
+| Xenophon, by Sir Alexander Grant (Blackwood, 1871) |  | `acer-xenophon-1871` | have-raw (IA `xenophon01grangoog`) |
+| Sophocles, by Clifton W. Collins (Blackwood, 1871) |  | `acer-sophocles-1871` | have-raw (IA `sophoclesclifton00collrich`) |
+| Pliny's Letters, by Alfred Church and W. J. Brodribb (Blackwood, 1872) |  | `acer-pliny-1872` | have-raw (IA `plinysletters00churrich`) |
+| Euripides, by William Bodham Donne (Blackwood, 1872) |  | `acer-euripides-1872` | have-raw (IA `euripides00donnrich`) |
+| Juvenal, by Edward Walford (Blackwood, 1872) |  | `acer-juvenal-1872` | have-raw (IA `juvenaledward00walfrich`) |
+| Aristophanes, by W. Lucas Collins (Blackwood, 1872) |  | `acer-aristophanes-1872` | have-raw (IA `aristophanes00collrich`) |
+| Hesiod and Theognis, by James Davies (Blackwood, 1873) |  | `acer-hesiod-theognis-1873` | have-raw (IA `hesiodtheognis00daviuoft`) |
+| Plautus and Terence, by W. Lucas Collins (Philadelphia: Lippincott, 1873) |  | `acer-plautus-terence-1873` | have-raw (IA `plautusterence00col`) |
+| Tacitus, by William Bodham Donne (Blackwood, 1873) |  | `acer-tacitus-1873` | have-raw (IA `tacituswilliam00donnrich`) |
+| Lucian, by W. Lucas Collins (Blackwood, 1873) |  | `acer-lucian-1873` | have-raw (IA `lucianlucas00collrich`) |
+| Plato, by Clifton W. Collins (Blackwood, 1874) |  | `acer-plato-1874` | have-raw (IA `platoclifton00collrich`) |
+| The Greek Anthology, by Lord Neaves (Blackwood, 1874) |  | `acer-greek-anthology-1874` | have-raw (IA `greekanthology0000wluc`) |
+| Livy, by W. Lucas Collins (Philadelphia: Lippincott, 1876) |  | `acer-livy-1876` | have-raw (IA `livy00collgoog`) |
+| Ovid, by Alfred Church (Blackwood, 1876) |  | `acer-ovid-1876` | have-raw (IA `ovid_20231009`) |
+| Catullus, Tibullus, and Propertius, by James Davies (Blackwood, 1876) |  | `acer-catullus-tibullus-propertius-1876` | have-raw (IA `catullustibullus00davi`) |
+| Demosthenes, by W. J. Brodribb (Philadelphia: Lippincott, 1877) |  | `acer-demosthenes-1877` | have-raw (IA `demosthenes01brodgoog`) |
+| Aristotle, by Sir Alexander Grant (Blackwood, 1877; reprint 1879) |  | `acer-aristotle-1877` | have-raw (IA `aristotle01grangoog`) |
+| Thucydides, by W. Lucas Collins (Blackwood, 1878) |  | `acer-thucydides-1878` | have-raw (IA `thucydides00collgoog`) |
+| Lucretius, by W. H. Mallock (Blackwood, 1878) |  | `acer-lucretius-1878` | have-raw (IA `lucretius00mallgoog`) |
+| Pindar, by F. D. Morice (Blackwood, 1879) |  | `acer-pindar-1879` | have-raw (IA `pindarmo00mori`) |
+
+## Philosophical Classics for English Readers (Blackwood series, 1880-1890)
+
+Shelf: `pipeline/philosophical-classics-for-english-readers_shelf.json`. William Knight's series of one-volume introductions to the great philosophers; 14 volumes here, Veitch's Hamilton on john-veitch.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Descartes, by J. P. Mahaffy (Blackwood, 1880) |  | `pcer-descartes-1880` | have-raw (IA `descartes00maharich`) |
+| Butler, by W. Lucas Collins (Blackwood, 1881) |  | `pcer-butler-1881` | have-raw (IA `butlercollins00coll`) |
+| Berkeley, by Alexander Campbell Fraser (Blackwood, 1881; reprint 1884) |  | `pcer-berkeley-1881` | have-raw (IA `berkeley00frasgoog`) |
+| Fichte, by Robert Adamson (Blackwood, 1881) |  | `pcer-fichte-1881` | have-raw (IA `fichter00adamiala`) |
+| Kant, by William Wallace (Blackwood, 1882) |  | `pcer-kant-1882` | have-raw (IA `kant01wallgoog`) |
+| Hegel, by Edward Caird (Philadelphia: Lippincott; Edinburgh: Blackwood, 1883; reprint 1886) |  | `pcer-hegel-1883` | have-raw (IA `hegelcaird00cairuoft`) |
+| Leibniz, by John Theodore Merz (Blackwood, 1884) |  | `pcer-leibniz-1884` | have-raw (IA `leibnizm00merzuoft`) |
+| Vico, by Robert Flint (Blackwood, 1884) |  | `pcer-vico-1884` | have-raw (IA `vico00flinuoft`) |
+| Hobbes, by George Croom Robertson (Blackwood, 1886) |  | `pcer-hobbes-1886` | have-raw (IA `hobbesrob00robuoft`) |
+| Hume, by William Knight (Blackwood, 1886) |  | `pcer-hume-1886` | have-raw (IA `humeknight00kniguoft`) |
+| Spinoza, by John Caird (Blackwood, 1888; reprint 1899) |  | `pcer-spinoza-1888` | have-raw (IA `bmshri.spinoza0000john`) |
+| Francis Bacon, his Life and Philosophy, part I: Bacon's Life, by John Nichol (Philadelphia: Lippincott; Edinburgh: Blackwood, 1888) |  | `pcer-bacon-1-1888` | have-raw (IA `francisbacon0000nich_part1`) |
+| Francis Bacon, his Life and Philosophy, part II: Bacon's Philosophy, by John Nichol (Blackwood, 1889) |  | `pcer-bacon-2-1889` | have-raw (IA `francisbaconhis01nichgoog`) |
+| Locke, by Alexander Campbell Fraser (Blackwood, 1890) |  | `pcer-locke-1890` | have-raw (IA `fraserslocke00frasuoft`) |
+
+## Ernest Albee
+
+Shelf: `pipeline/ernest-albee_shelf.json`. History of English utilitarianism.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of English Utilitarianism (Swan Sonnenschein, 1902) |  | `albee-history-english-utilitarianism-1902` | have-raw (IA `historyenglishut00albe`) |
+
+## James Bonar
+
+Shelf: `pipeline/james-bonar_shelf.json`. Malthus, political economy and its philosophy.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Parson Malthus (1881) |  | `bonar-parson-malthus-1881` | have-raw (IA `parsonmalthus00bonauoft`) |
+| Malthus and His Work (Macmillan, 1885) |  | `bonar-malthus-and-his-work-1885` | have-raw (IA `cu31924030407484`) |
+| Philosophy and Political Economy in some of their historical relations (Swan Sonnenschein, 1893) |  | `bonar-philosophy-and-political-economy-1893` | have-raw (IA `philosophyandpo01bonagoog`) |
+| The Intellectual Virtues (Macmillan, 1894) |  | `bonar-intellectual-virtues-1894` | have-raw (IA `intellectualvirt00bona`) |
+| Elements of Political Economy (John Murray, 1903) |  | `bonar-elements-political-economy-1903` | have-raw (IA `elementsofpoliti00bonauoft`) |
+| Disturbing Elements in the Study and Teaching of Political Economy (Johns Hopkins, 1911) |  | `bonar-disturbing-elements-1911` | have-raw (IA `disturbingelemen00bonauoft`) |
+
+## G. S. Brett
+
+Shelf: `pipeline/g-s-brett_shelf.json`. History of psychology; Gassendi; ethics and politics.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Philosophy of Gassendi (Macmillan, 1908) |  | `brett-philosophy-of-gassendi-1908` | have-raw (IA `philosophyofgass00bret`) |
+| The Government of Man (Bell, 1913) |  | `brett-government-of-man-1913` | have-raw (IA `governmentofmani00bretuoft`) |
+| A History of Psychology, vol. I: Ancient and Patristic (George Allen, 1912) |  | `brett-history-of-psychology-1-1912` | have-raw (IA `historyofpsychol00bretuoft`) |
+| A History of Psychology, vol. II: Medieval and Early Modern Period (George Allen and Unwin, 1921) |  | `brett-history-of-psychology-2-1921` | have-raw (IA `historyofpsychol02bretuoft`) |
+| A History of Psychology, vol. III: Modern Psychology (George Allen and Unwin, 1921) |  | `brett-history-of-psychology-3-1921` | have-raw (IA `historyofpsychol03bretuoft`) |
+
+## W. R. Boyce Gibson
+
+Shelf: `pipeline/w-r-boyce-gibson_shelf.json`. Personal idealism, ethics, logic.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Philosophical Introduction to Ethics (Swan Sonnenschein, 1904) |  | `gibson-philosophical-introduction-to-ethics-1904` | have-raw (IA `philosophicalint022187mbp`) |
+| God with Us: a study in religious idealism (A. and C. Black, 1909) |  | `gibson-god-with-us-1909` | have-raw (IA `godwithusstudyin00gibsrich`) |
+| The Problem of Logic, with Augusta Klein (A. and C. Black, 1908; reprint 1914) |  | `gibson-problem-of-logic-1914` | have-raw (IA `problemoflogic00gibs`) |
+| Rudolf Eucken's Philosophy of Life (A. and C. Black, 1915) |  | `gibson-rudolf-euckens-philosophy-of-life-1915` | have-raw (IA `rudolfeuckensphi00gibs`) |
+
+## J. S. Haldane
+
+Shelf: `pipeline/j-s-haldane_shelf.json`. Philosophy of biology against mechanism.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Mechanism, Life and Personality (John Murray, 1913) |  | `haldane-mechanism-life-personality-1913` | have-raw (IA `mechanismlifeand00halduoft`) |
+| Organism and Environment as illustrated by the physiology of breathing (Yale, 1917) |  | `haldane-organism-and-environment-1917` | have-raw (IA `organismenvironm00halduoft`) |
+| The New Physiology and other addresses (Griffin, 1919) |  | `haldane-new-physiology-1919` | have-raw (IA `newphysiologyoth00haldrich`) |
+
+Pending (wishlist): The Sciences and Philosophy (1929)
+
+## William Wallace (Oxford)
+
+Shelf: `pipeline/william-wallace-oxford_shelf.json`. Oxford Hegelian; his own books, not his translations.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Epicureanism (SPCK, 1880) |  | `wallace-epicureanism-1880` | have-raw (IA `epicureanism00wall`) |
+| Life of Arthur Schopenhauer (Walter Scott, 1890) |  | `wallace-life-of-schopenhauer-1890` | have-raw (IA `lifeofschopenhau00walluoft`) |
+| Prolegomena to the Study of Hegel's Philosophy, 2nd ed. (Clarendon Press, 1894) |  | `wallace-prolegomena-hegel-1894` | have-raw (IA `prolegomenato00walluoft`) |
+| Lectures and Essays on Natural Theology and Ethics, ed. Edward Caird (Clarendon Press, 1898) |  | `wallace-lectures-essays-natural-theology-ethics-1898` | have-raw (IA `lecturesandessay00walluoft`) |
+
+## Robert Adamson
+
+Shelf: `pipeline/robert-adamson_shelf.json`. Kant, history of modern and Greek philosophy, logic.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| On the Philosophy of Kant (David Douglas, 1879) |  | `adamson-on-philosophy-of-kant-1879` | have-raw (IA `onphilosophykan00adamgoog`) |
+| The Development of Modern Philosophy, vol. I (Blackwood, 1903) |  | `adamson-development-modern-philosophy-1-1903` | have-raw (IA `developmentphilo01adamuoft`) |
+| The Development of Modern Philosophy, vol. II (Blackwood, 1903) |  | `adamson-development-modern-philosophy-2-1903` | have-raw (IA `developmentphilo02adamuoft`) |
+| The Development of Greek Philosophy (Blackwood, 1908) |  | `adamson-development-greek-philosophy-1908` | have-raw (IA `cu31924029013740`) |
+| A Short History of Logic (Blackwood, 1911) |  | `adamson-short-history-of-logic-1911` | have-raw (IA `cu31924084680622`) |
+
+## Thomas Whittaker
+
+Shelf: `pipeline/thomas-whittaker_shelf.json`. Neo-Platonism and late antique thought.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Apollonius of Tyana and other essays (Swan Sonnenschein, 1906) |  | `whittaker-apollonius-of-tyana-1906` | have-raw (IA `apolloniusoftyan00whitiala`) |
+| Priests, Philosophers and Prophets (A. and C. Black, 1911) |  | `whittaker-priests-philosophers-prophets-1911` | have-raw (IA `priestsphilosoph00whituoft`) |
+| The Neo-Platonists, 2nd ed. (Cambridge, 1918) |  | `whittaker-neo-platonists-1918` | have-raw (IA `cu31924031006608`) |
+| Macrobius, or philosophy, science and letters in the year 400 (Cambridge, 1923) |  | `whittaker-macrobius-1923` | have-raw (IA `macrobus0000thom`) |
+
+Pending (wishlist): Schopenhauer; Comte and Mill; The Theory of Abstract Ethics (held: no dated scan)
 
 ## Perseus census (overflow)
 

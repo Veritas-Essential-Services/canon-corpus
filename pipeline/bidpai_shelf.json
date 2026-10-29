@@ -1,0 +1,222 @@
+{
+ "_about": "SHELF of the Fables of Bidpai (Kalilah and Dimnah, the Panchatantra's travels west) in English before 1931: Keith-Falconer's Syriac Kalilah and Dimnah (1885), Sir Thomas North's Morall Philosophie of Doni (1570, in Jacobs's 1888 reprint), and the Persian Anvar-i Suhaili in Eastwick's (1854) and Wollaston's (1877) translations. Ryder's Panchatantra is on the ryder shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 77); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur n. wollaston",
+  "arthur naylor wollaston",
+  "eastwick",
+  "edward b. eastwick",
+  "edward backhouse eastwick",
+  "i. g. n. keith-falconer",
+  "ion keith-falconer",
+  "jacobs",
+  "joseph jacobs",
+  "keith-falconer",
+  "sir thomas north",
+  "thomas north",
+  "wollaston"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'north' alone is left out as a common word.",
+ "_surname": [
+  "arthur n. wollaston",
+  "arthur naylor wollaston",
+  "eastwick",
+  "edward b. eastwick",
+  "edward backhouse eastwick",
+  "i. g. n. keith-falconer",
+  "ion keith-falconer",
+  "jacobs",
+  "joseph jacobs",
+  "keith-falconer",
+  "sir thomas north",
+  "thomas north",
+  "wollaston"
+ ],
+ "_surname_by_slug": {
+  "bid-kalilah-and-dimnah-syriac": [
+   "keith-falconer",
+   "i. g. n. keith-falconer",
+   "ion keith-falconer"
+  ],
+  "bid-morall-philosophie-of-doni": [
+   "thomas north",
+   "sir thomas north",
+   "jacobs",
+   "joseph jacobs"
+  ],
+  "bid-anvar-i-suhaili-eastwick": [
+   "eastwick",
+   "edward b. eastwick",
+   "edward backhouse eastwick"
+  ],
+  "bid-anwar-i-suhaili-wollaston": [
+   "wollaston",
+   "arthur n. wollaston",
+   "arthur naylor wollaston"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bid-kalilah-and-dimnah-syriac": [
+   "kalilahdimnahorf00bdpkuoft",
+   "Kalilah and Dimnah, or the Fables of Bidpai, being an Account of their Literary History, with an English Translation of the later Syriac Version (1885)"
+  ],
+  "bid-morall-philosophie-of-doni": [
+   "earliestenglishv00doniuoft",
+   "The Earliest English Version of the Fables of Bidpai: The Morall Philosophie of Doni (1570)"
+  ],
+  "bid-anvar-i-suhaili-eastwick": [
+   "india.history.resource.70987",
+   "The Anvar-i Suhaili, or the Lights of Canopus (1854)",
+   "70987_djvu.txt"
+  ],
+  "bid-anwar-i-suhaili-wollaston": [
+   "anwarisuhailiorl00woll",
+   "The Anwar-i-Suhaili, or Lights of Canopus, commonly known as Kalilah and Damnah (1877)"
+  ]
+ },
+ "titles": {
+  "bidpai-kalilah-and-dimnah-syriac": {
+   "source": "bid-kalilah-and-dimnah-syriac",
+   "of": "The Old Syriac Kalilah and Dimnah (the Bidpai fables)",
+   "work": "Kalilah and Dimnah, or the Fables of Bidpai, being an Account of their Literary History, with an English Translation of the later Syriac Version",
+   "translated": 1885,
+   "translator": "I. G. N. Keith-Falconer",
+   "scan_edition": "Cambridge University Press 1885; University of Toronto scan"
+  },
+  "bidpai-morall-philosophie-of-doni": {
+   "source": "bid-morall-philosophie-of-doni",
+   "of": "Doni's Italian Bidpai (La moral filosophia, 1552)",
+   "work": "The Earliest English Version of the Fables of Bidpai: The Morall Philosophie of Doni",
+   "translated": 1570,
+   "translator": "Sir Thomas North, edited by Joseph Jacobs",
+   "scan_edition": "David Nutt, Bibliothèque de Carabas, London 1888 (reprint of North's 1570 translation); University of Toronto scan",
+   "note": "North's 1570 translation, the first English Bidpai, by the translator of Plutarch's Lives."
+  },
+  "bidpai-anvar-i-suhaili-eastwick": {
+   "source": "bid-anvar-i-suhaili-eastwick",
+   "of": "Husain Vaiz Kashifi, the Anvar-i Suhaili (Persian Bidpai)",
+   "work": "The Anvar-i Suhaili, or the Lights of Canopus",
+   "translated": 1854,
+   "translator": "Edward B. Eastwick",
+   "scan_edition": "Stephen Austin, Hertford, 1854 (publisher from the catalogue record; the scan has no legible title page, and the dedication and preface are signed by Eastwick, Haileybury, September 1854); Digital Library of India scan"
+  },
+  "bidpai-anwar-i-suhaili-wollaston": {
+   "source": "bid-anwar-i-suhaili-wollaston",
+   "of": "Husain Vaiz Kashifi, the Anvar-i Suhaili (Persian Bidpai)",
+   "work": "The Anwar-i-Suhaili, or Lights of Canopus, commonly known as Kalilah and Damnah",
+   "translated": 1877,
+   "translator": "Arthur N. Wollaston",
+   "scan_edition": "W. H. Allen & Co., London 1877; University of Illinois scan",
+   "note": "A separate translation of the same book as Eastwick's. Wollaston's Scroll of Wisdom is on wisdom-of-the-east."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "wright-syriac-text": "William Wright's Book of Kalilah and Dimnah (Clarendon, 1884) is the Syriac text, not a translation.",
+  "children's-retellings": "Maude Barrows Dutton's The Tortoise and the Geese (1908) and similar retellings for children are not translations."
+ },
+ "_identity_checked": {
+  "bid-anwar-i-suhaili-wollaston": {
+   "author": "The title page OCR reads 'TRANSLATED FROM THE PERSIAN ARTHUR N. WOLLASTUN, M.R.A.S.' for Arthur N. Wollaston, under 'London: Wm. H. Allen & Co., 13 Waterloo Place, S.W. MDCCCLXXVII'. Checked by eye 2026-10-17."
+  }
+ },
+ "_checks": {
+  "bid-kalilah-and-dimnah-syriac": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keith-falconer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bid-morall-philosophie-of-doni": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas north",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bid-anvar-i-suhaili-eastwick": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eastwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bid-anwar-i-suhaili-wollaston": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "bid-kalilah-and-dimnah-syriac": {
+   "ia": "kalilahdimnahorf00bdpkuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1583,
+    1600,
+    1859,
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bid-morall-philosophie-of-doni": {
+   "ia": "earliestenglishv00doniuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1570,
+    1601,
+    1610,
+    1678,
+    1880,
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bid-anvar-i-suhaili-eastwick": {
+   "ia": "india.history.resource.70987",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1786,
+    1820,
+    1826,
+    1835
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  },
+  "bid-anwar-i-suhaili-wollaston": {
+   "ia": "anwarisuhailiorl00woll",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1899
+   ],
+   "post_1930_years_in_front_15k": [
+    1999,
+    2015
+   ]
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

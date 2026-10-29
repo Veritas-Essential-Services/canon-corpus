@@ -1,0 +1,94 @@
+{
+ "_about": "Robert Adamson (1852-1902), professor of logic at Manchester, Aberdeen and Glasgow. Raw IA OCR: On the Philosophy of Kant (Edinburgh: David Douglas, 1879), and the posthumous lecture volumes edited by W. R. Sorley: The Development of Modern Philosophy, with other lectures and essays (Edinburgh: Blackwood, 1903, 2 vols.), The Development of Greek Philosophy (Blackwood, 1908) and A Short History of Logic (Blackwood, 1911). His Fichte (1881) is on philosophical-classics-for-english-readers. US public domain. No uids minted.",
+ "_author": "Robert Adamson",
+ "_name_words": [
+  "robert",
+  "adamson"
+ ],
+ "_surname": [
+  "adamson",
+  "robert adamson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "adamson-on-philosophy-of-kant-1879": [
+   "onphilosophykan00adamgoog",
+   "On the Philosophy of Kant (David Douglas, 1879)"
+  ],
+  "adamson-development-modern-philosophy-1-1903": [
+   "developmentphilo01adamuoft",
+   "The Development of Modern Philosophy, vol. I (Blackwood, 1903)"
+  ],
+  "adamson-development-modern-philosophy-2-1903": [
+   "developmentphilo02adamuoft",
+   "The Development of Modern Philosophy, vol. II (Blackwood, 1903)"
+  ],
+  "adamson-development-greek-philosophy-1908": [
+   "cu31924029013740",
+   "The Development of Greek Philosophy (Blackwood, 1908)"
+  ],
+  "adamson-short-history-of-logic-1911": [
+   "cu31924084680622",
+   "A Short History of Logic (Blackwood, 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "adamson-on-philosophy-of-kant-1879": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adamson-development-modern-philosophy-1-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adamson-development-modern-philosophy-2-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adamson-development-greek-philosophy-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "adamson-short-history-of-logic-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

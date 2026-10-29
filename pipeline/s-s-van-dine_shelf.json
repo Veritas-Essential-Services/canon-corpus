@@ -1,0 +1,84 @@
+{
+ "_about": "S. S. Van Dine: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "S. S. Van Dine",
+ "_name_words": [
+  "dine",
+  "van"
+ ],
+ "_surname": [
+  "s. s. van dine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ssvandine-benson-murder-case": [
+   70634,
+   "The Benson murder case"
+  ],
+  "ssvandine-canary-murder-case": [
+   70788,
+   "The \"Canary\" murder case"
+  ],
+  "ssvandine-greene-murder-case": [
+   72719,
+   "The Greene murder case"
+  ],
+  "ssvandine-bishop-murder-case": [
+   75157,
+   "The Bishop murder case"
+  ],
+  "ssvandine-scarab-murder-case": [
+   78655,
+   "The scarab murder case"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ssvandine-benson-murder-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. van dine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssvandine-canary-murder-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. van dine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssvandine-greene-murder-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. van dine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssvandine-bishop-murder-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. van dine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssvandine-scarab-murder-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. van dine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

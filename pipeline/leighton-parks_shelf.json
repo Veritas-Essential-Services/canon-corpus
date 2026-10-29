@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain Leighton Parks, rector of Emmanuel Church, Boston, and St Bartholomew's, New York, for the Word Hoard: His Star in the East, The Winning of the Soul, Moral Leadership, The Crisis of the Churches, What is Modernism?, an address for the American Colonization Society, and his memoir Turnpikes and Dirt Roads. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 125 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "leighton parks",
+  "l. parks",
+  "parks"
+ ],
+ "_surname": [
+  "parks"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "parks-his-star": [
+   "hisstarineast00park",
+   "His star in the east ([n.p.], 1887)"
+  ],
+  "parks-undiscovered-country": [
+   "undiscoveredcou00parkgoog",
+   "The undiscovered country : the seventy-fourth anniversary address before the American Colonization Society : delivered in the Church of the Epiphany, Washington, D.C., January 18th, 1891 (Washington, D.C. : Press of McGill & Wallace ..., 1891)"
+  ],
+  "parks-winning-the-soul": [
+   "winningofsouloth00park",
+   "The winning of the soul : and other sermons (New York : E.P. Dutton, 1893)"
+  ],
+  "parks-moral-leadership": [
+   "moralleadershipo00park",
+   "Moral leadership, and other sermons (New York, C. Scribner's sons, 1914)"
+  ],
+  "parks-crisis-churches": [
+   "crisisofchurches00park",
+   "The crisis of the churches (N.Y., Scribner, 1922)"
+  ],
+  "parks-modernism": [
+   "whatismodernism0000leig",
+   "What is modernism? (charles scribner's sons, 1924)"
+  ],
+  "parks-turnpikes": [
+   "turnpikesdirtroa0000leig",
+   "Turnpikes and dirt roads (charles scribner's sons, 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "parks-english-ways": "English Ways and By-Ways is letters of other writers",
+  "parks-dups": "second scans of His Star in the East and the Colonization address"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "parks-his-star": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "parks-undiscovered-country": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parks-winning-the-soul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parks-moral-leadership": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parks-crisis-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parks-modernism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parks-turnpikes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

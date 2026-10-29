@@ -1,0 +1,75 @@
+{
+ "_about": "Public-domain John L. Dagg (1794-1884, Baptist, president of Mercer University) for the Word Hoard: Manual of Theology in its two parts (Christian Doctrine; Church Order; Charleston, 1859), The Elements of Moral Science (1860) and The Evidences of Christianity (1869), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "dagg",
+  "john"
+ ],
+ "_surname": [
+  "j. l. dagg",
+  "john l. dagg",
+  "john leadley dagg",
+  "dagg, j. l",
+  "dagg, john l"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dagg-manual-1859": [
+   "manualoftheology12dagg",
+   "Manual of Theology, in two parts: Christian Doctrine; Church Order (Charleston: Southern Baptist Publication Society, 1859)"
+  ],
+  "dagg-moral-science-1860": [
+   "elementsofmorals00dagg",
+   "The Elements of Moral Science (New York: Sheldon; Charleston: Southern Baptist Publication Society, 1860)"
+  ],
+  "dagg-evidences-1869": [
+   "evidencesofchris00dagg",
+   "The Evidences of Christianity (Macon: J. W. Burke; Philadelphia: Claxton, Remsen & Haffelfinger, 1869)"
+  ]
+ },
+ "_alternates": {
+  "dagg-manual-other": "Manual of Theology part 1 (Philadelphia, entered 1871; IA manualoftheology00dagg) and part 2 (Charleston, 1858; IA manualoftheology02dagg): the same text as the 1859 two-part scan"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "dagg-evidences-1869": {
+   "author": "title page read 2026-10-10: OCR gives \"J. L.DAG G\" (a split word), Macon: J. W. Burke, 1869; the catalogue record names Dagg, John Leadley, 1794-1884: J. L. Dagg"
+  }
+ },
+ "_checks": {
+  "dagg-manual-1859": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dagg, j. l",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dagg-moral-science-1860": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. l. dagg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dagg-evidences-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

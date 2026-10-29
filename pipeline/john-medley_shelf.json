@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain John Medley (1804-1892), first Bishop of Fredericton, New Brunswick, for the Word Hoard: his Sermons, published at the request of his late parishioners in Exeter (1845), Four Charges to the clergy of his diocese (1863) and The Book of Job, with an introduction, summaries and notes (1879). From Canadiana microfiche scans. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 82 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john medley",
+  "bishop of fredericton",
+  "john, lord bishop of fredericton"
+ ],
+ "_surname": [
+  "medley",
+  "bishop of fredericton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "medley-sermons-1845": [
+   "cihm_53092",
+   "Sermons published at the request of many of his late parishioners (London : F. & J. Rivington ; Exeter [England] : P.A. Hannaford, 1845)"
+  ],
+  "medley-four-charges": [
+   "cihm_23054",
+   "Four charges to the clergy of the diocese, by John, Lord Bishop of Fredericton : at his triennial visitations, holden in Christ Church Cathedral, Fredericton, 1853, 1856, 1859, 1862 (Oxford : H. Hammans; London : Rivingtons, 1863)"
+  ],
+  "medley-book-of-job": [
+   "cihm_05195",
+   "The book of Job : with an introduction, a summary of each chapter, and brief notes in explanation of obscure passages (St. John, N.B. [s.n.], 1879)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "medley-other": "his share in the Library of the Fathers translation of Chrysostom on 1 Corinthians (1839), which belongs with that series; pamphlets of under 60 pages"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "medley-sermons-1845": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop of fredericton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "medley-four-charges": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "medley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "medley-book-of-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop of fredericton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

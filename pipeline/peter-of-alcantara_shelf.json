@@ -1,0 +1,48 @@
+{
+ "_about": "Public-domain St Peter of Alcántara (1499-1562, Franciscan reformer) in English for the Word Hoard: A Golden Treatise of Mental Prayer, translated by Giles Willoughby (Philadelphia: M. Fithian, 1844), from an Internet Archive scan. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alcantara"
+ ],
+ "_surname": [
+  "alcantara",
+  "alcántara",
+  "peter of alcantara",
+  "peter de alcantara"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alcantara-golden-treatise": [
+   "goldentreatiseof00pete",
+   "A Golden Treatise of Mental Prayer, translated into English by Giles Willoughby (Philadelphia: M. Fithian, 1844)"
+  ]
+ },
+ "_alternates": {
+  "alcantara-1632": "The 1632 Golden Treatise (EEBO): title page illegible; dedication signed Giles Willoughby",
+  "alcantara-copies": "Another 1844 copy"
+ },
+ "_excluded": {
+  "alcantara-late": "Hollings's edition in its 1940 printing; a 1949 Treatise"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "alcantara-golden-treatise": "willoughby"
+ },
+ "_checks": {
+  "alcantara-golden-treatise": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alcantara",
+   "translator_claimed": "willoughby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

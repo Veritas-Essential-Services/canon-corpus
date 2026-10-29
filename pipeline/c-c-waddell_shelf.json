@@ -1,0 +1,87 @@
+{
+ "_about": "C. C. Waddell: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "C. C. Waddell",
+ "_name_words": [
+  "carey",
+  "charles",
+  "waddell"
+ ],
+ "_surname": [
+  "c. c. waddell",
+  "charles carey waddell",
+  "waddell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ccwaddell-nick-carter-stories-no-140-may-15-1915": [
+   66764,
+   "Nick Carter Stories No. 140, May 15, 1915: The Melting-Pot"
+  ],
+  "ccwaddell-nick-carter-stories-no-141-may-22-1915": [
+   66782,
+   "Nick Carter Stories No. 141, May 22, 1915: The duplicate night"
+  ],
+  "ccwaddell-nick-carter-stories-no-146-june-26-1915": [
+   67618,
+   "Nick Carter Stories No. 146, June 26, 1915: Paying the Price; or, Nick Carter's Perilous Venture"
+  ],
+  "ccwaddell-nick-carter-stories-no-145-june-19-1915": [
+   68022,
+   "Nick Carter Stories No. 145, June 19, 1915: An Unsolved Mystery; Or, Nick Carter's Government Case"
+  ],
+  "ccwaddell-nick-carter-stories-no-143-june-5-1915": [
+   68499,
+   "Nick Carter Stories No. 143, June 5, 1915: The sultan's pearls; or, Nick Carter's Porto Rico trail"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ccwaddell-nick-carter-stories-no-140-may-15-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. c. waddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccwaddell-nick-carter-stories-no-141-may-22-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. c. waddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccwaddell-nick-carter-stories-no-146-june-26-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. c. waddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccwaddell-nick-carter-stories-no-145-june-19-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. c. waddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccwaddell-nick-carter-stories-no-143-june-5-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. c. waddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

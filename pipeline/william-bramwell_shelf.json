@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain William Bramwell (1759-1818), Methodist revivalist preacher of the West Riding, for the Word Hoard: his one book, the Short Account of the Life and Death of Ann Cutler, 'Praying Nanny' (Leeds, 1798, and a later Wakefield issue with Choice Wesleyan Anecdotes added), from Internet Archive scans. The memoirs of his life by Sigston and by his family, which quote his letters, are by other hands and are held as pending. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bramwell"
+ ],
+ "_surname": [
+  "william bramwell",
+  "bramwell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bramwell-ann-cutler-1798": [
+   "bim_eighteenth-century_a-short-account-of-the-l_bramwell-william_1798",
+   "A Short Account of the Life and Death of Ann Cutler, commonly known by the name of Praying Nanny, with an excellent letter from the Rev. Mr. J. Fletcher (Leeds: A. Newsom, 1798)"
+  ],
+  "bramwell-ann-cutler-wakefield": [
+   "29463000.1800.emory.edu",
+   "The Life and Death of Ann Cutler, to which is added Choice Wesleyan Anecdotes (Wakefield: William Nicholson and Sons; London: S. D. Ewins; title page undated, a nineteenth-century reprint; the catalogue's 1800 is wrong)",
+   "29463000_1800_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "bramwell-copies": "Sigston 1830 and Summers's revision (Nashville, 1856); a 1796 Ann Cutler whose title page is not in the OCR"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "bramwell-ann-cutler-1798": {
+   "author": "title page read: 'BY WILLIAM EBAMWELL' (OCR for Bramwell)"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "bramwell-memoirs": "Memoirs by other hands that print his letters: James Sigston's Memoir of the Life and Ministry of Mr. William Bramwell (New York: N. Bangs and T. Mason, 1822, first American from the second London edition) and the Memoir by members of his family (London: Simpkin, Marshall, 1848)"
+ },
+ "_translators": {},
+ "_checks": {
+  "bramwell-ann-cutler-1798": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william bramwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bramwell-ann-cutler-wakefield": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william bramwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

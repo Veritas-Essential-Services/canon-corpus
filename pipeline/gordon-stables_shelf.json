@@ -1,0 +1,551 @@
+{
+ "_about": "Gordon Stables's sea and adventure stories for boys: every English text under his name at Gutenberg (catalogue: Stables 1840-1910). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Gordon Stables",
+ "_name_words": [
+  "stables"
+ ],
+ "_surname": [
+  "gordon stables",
+  "w. gordon stables"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gstables-crusoes-of-the-frozen-north": [
+   11997,
+   "Crusoes of the Frozen North"
+  ],
+  "gstables-as-we-sweep-through-the-deep": [
+   25995,
+   "As We Sweep Through The Deep",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-our-home-in-the-silver-west": [
+   28291,
+   "Our Home in the Silver West: A Story of Struggle and Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-in-touch-with-nature": [
+   37251,
+   "In Touch with Nature: Tales and Sketches from the Life"
+  ],
+  "gstables-born-to-wander": [
+   37252,
+   "Born to Wander: A Boy's Book of Nomadic Adventures"
+  ],
+  "gstables-in-the-land-of-the-great-snow-bear": [
+   37253,
+   "In the Land of the Great Snow Bear: A Tale of Love and Heroism"
+  ],
+  "gstables-harry-milvaine": [
+   37325,
+   "Harry Milvaine; Or, The Wanderings of a Wayward Boy"
+  ],
+  "gstables-turkish-and-other-baths": [
+   37326,
+   "Turkish and Other Baths: A Guide to Good Health and Longevity"
+  ],
+  "gstables-oer-many-lands-on-many-seas": [
+   37327,
+   "O'er Many Lands, on Many Seas"
+  ],
+  "gstables-medical-life-in-the-navy": [
+   37328,
+   "Medical Life in the Navy"
+  ],
+  "gstables-domestic-cat": [
+   37329,
+   "The Domestic Cat"
+  ],
+  "gstables-aileen-aroon-a-memoir-with-other-tales-of-faithful": [
+   37330,
+   "Aileen Aroon, A Memoir With other Tales of Faithful Friends and Favourites"
+  ],
+  "gstables-annie-o-the-banks-o-dee": [
+   37357,
+   "Annie o' the Banks o' Dee"
+  ],
+  "gstables-island-of-gold": [
+   37588,
+   "The Island of Gold: A Sailor's Yarn"
+  ],
+  "gstables-cruise-of-the-land-yacht-wanderer": [
+   37687,
+   "The Cruise of the Land-Yacht \"Wanderer\"; or, Thirteen Hundred Miles in my Caravan"
+  ],
+  "gstables-kenneth-mcalpine": [
+   38199,
+   "Kenneth McAlpine: A Tale of Mountain, Moorland and Sea"
+  ],
+  "gstables-shireen-and-her-friends": [
+   38236,
+   "Shireen and her Friends: Pages from the Life of a Persian Cat"
+  ],
+  "gstables-wild-adventures-in-wild-places": [
+   38262,
+   "Wild Adventures in Wild Places"
+  ],
+  "gstables-wild-life-in-the-land-of-the-giants": [
+   38263,
+   "Wild Life in the Land of the Giants: A Tale of Two Brothers"
+  ],
+  "gstables-cruise-of-the-snowbird": [
+   38276,
+   "The Cruise of the Snowbird: A Story of Arctic Adventure"
+  ],
+  "gstables-from-squire-to-squatter": [
+   38277,
+   "From Squire to Squatter: A Tale of the Old Land and the New"
+  ],
+  "gstables-wild-adventures-round-the-pole": [
+   38296,
+   "Wild Adventures round the Pole Or, The Cruise of the \"Snowbird\" Crew in the \"Arrandoon\""
+  ],
+  "gstables-in-far-bolivia": [
+   39728,
+   "In Far Bolivia: A Story of a Strange Wild Land",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-courage-true-hearts": [
+   39729,
+   "Courage, True Hearts: Sailing in Search of Fortune"
+  ],
+  "gstables-cats": [
+   43429,
+   "Cats: Their Points and Characteristics With Curiosities of Cat Life, and a Chapter on Feline Ailments",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-sauciest-boy-in-the-service": [
+   55663,
+   "The Sauciest Boy in the Service: A Story of Pluck and Perseverance"
+  ],
+  "gstables-naval-cadet": [
+   68480,
+   "The naval cadet: A story of adventures on land and sea",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-how-jack-mackenzie-won-his-epaulettes": [
+   68888,
+   "How Jack Mackenzie won his epaulettes"
+  ],
+  "gstables-in-search-of-fortune": [
+   69315,
+   "In search of fortune: A tale of the old land and the new"
+  ],
+  "gstables-young-peggy-mcqueen": [
+   70826,
+   "Young Peggy McQueen"
+  ],
+  "gstables-hermit-hunter-of-the-wilds": [
+   71590,
+   "The hermit hunter of the wilds"
+  ],
+  "gstables-a-little-gipsy-lass": [
+   71755,
+   "A little gipsy lass"
+  ],
+  "gstables-two-sailor-lads": [
+   71992,
+   "Two sailor lads",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-from-ploughshare-to-pulpit": [
+   71997,
+   "From ploughshare to pulpit",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-pearl-divers-and-crusoes-of-the-sargasso-sea": [
+   72051,
+   "The pearl divers and Crusoes of the Sargasso Sea"
+  ],
+  "gstables-in-the-great-white-land": [
+   72061,
+   "In the great white land"
+  ],
+  "gstables-pirates-gold": [
+   74032,
+   "The pirate's gold"
+  ],
+  "gstables-hearts-of-oak": [
+   75979,
+   "Hearts of Oak",
+   {
+    "contents_only": true
+   }
+  ],
+  "gstables-shoulder-to-shoulder": [
+   76046,
+   "Shoulder to shoulder"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "gstables-boys-own-book": "PG 49415, The Boy's Own Book of Indoor Games, is a many-author compilation"
+ },
+ "_checks": {
+  "gstables-crusoes-of-the-frozen-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-as-we-sweep-through-the-deep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-our-home-in-the-silver-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-in-touch-with-nature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-born-to-wander": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-in-the-land-of-the-great-snow-bear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-harry-milvaine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-turkish-and-other-baths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-oer-many-lands-on-many-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-medical-life-in-the-navy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-domestic-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-aileen-aroon-a-memoir-with-other-tales-of-faithful": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-annie-o-the-banks-o-dee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-island-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-cruise-of-the-land-yacht-wanderer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-kenneth-mcalpine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-shireen-and-her-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-wild-adventures-in-wild-places": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-wild-life-in-the-land-of-the-giants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-cruise-of-the-snowbird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-from-squire-to-squatter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-wild-adventures-round-the-pole": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-in-far-bolivia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-courage-true-hearts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-cats": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-sauciest-boy-in-the-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-naval-cadet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-how-jack-mackenzie-won-his-epaulettes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-in-search-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-young-peggy-mcqueen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-hermit-hunter-of-the-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-a-little-gipsy-lass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-two-sailor-lads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-from-ploughshare-to-pulpit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-pearl-divers-and-crusoes-of-the-sargasso-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-in-the-great-white-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-pirates-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-hearts-of-oak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gstables-shoulder-to-shoulder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gordon stables",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

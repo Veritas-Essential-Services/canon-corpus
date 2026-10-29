@@ -1,0 +1,737 @@
+{
+ "_about": "Percy F. Westerman's sea and adventure stories for boys: every English text under his name at Gutenberg, all US public domain by publication (catalogue: Westerman 1876-1959). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Percy F. Westerman",
+ "_name_words": [
+  "westerman"
+ ],
+ "_surname": [
+  "percy f. westerman",
+  "percy westerman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pwesterman-submarine-hunters": [
+   26641,
+   "The Submarine Hunters: A Story of the Naval Patrol Work in the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-wilmshurst-of-the-frontier-force": [
+   26642,
+   "Wilmshurst of the Frontier Force",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-billy-barcroft-r-n-a-s": [
+   35362,
+   "Billy Barcroft, R.N.A.S.: A Story of the Great War"
+  ],
+  "pwesterman-winning-of-the-golden-spurs": [
+   36122,
+   "The Winning of the Golden Spurs",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-rounding-up-the-raider": [
+   36499,
+   "Rounding up the Raider: A Naval Story of the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-dispatch-riders": [
+   36500,
+   "The Dispatch-Riders: The Adventures of Two British Motor-cyclists in the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-fight-for-constantinople": [
+   37600,
+   "The Fight for Constantinople: A Story of the Gallipoli Peninsula",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-nameless-island": [
+   37652,
+   "The Nameless Island: A Story of Some Modern Robinson Crusoes",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-wireless-officer": [
+   37824,
+   "The Wireless Officer",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-quest-of-the-golden-hope": [
+   38222,
+   "The Quest of the 'Golden Hope': A Seventeenth Century Story of Adventure"
+  ],
+  "pwesterman-airship-golden-hind": [
+   39488,
+   "The Airship \"Golden Hind\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-with-beatty-off-jutland": [
+   39489,
+   "With Beatty off Jutland: A Romance of the Great Sea Fight"
+  ],
+  "pwesterman-a-lad-of-grit": [
+   39490,
+   "A Lad of Grit: A Story of Adventure on Land and Sea in Restoration Times",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+--.{1,120}$"
+     }
+    ],
+    "start": "CHAPTER I--",
+    "front": true
+   }
+  ],
+  "pwesterman-a-lively-bit-of-the-front": [
+   40073,
+   "A Lively Bit of the Front: A Tale of the New Zealand Rifles on the Western Front"
+  ],
+  "pwesterman-rival-submarines": [
+   40866,
+   "The Rival Submarines"
+  ],
+  "pwesterman-young-cavalier": [
+   42689,
+   "The Young Cavalier: A Story of the Civil Wars"
+  ],
+  "pwesterman-captured-at-tripoli": [
+   44487,
+   "Captured at Tripoli: A Tale of Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-thick-of-the-fray-at-zeebrugge-april-1918": [
+   45135,
+   "The Thick of the Fray at Zeebrugge, April 1918"
+  ],
+  "pwesterman-dreadnought-of-the-air": [
+   46117,
+   "The Dreadnought of the Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-a-sub-and-a-submarine": [
+   47745,
+   "A Sub and a Submarine: The Story of H.M. Submarine R19 in the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-a-watch-dog-of-the-north-sea": [
+   49267,
+   "A Watch-dog of the North Sea: A Naval Story of the Great War"
+  ],
+  "pwesterman-scouts-of-seal-island": [
+   49496,
+   "The Scouts of Seal Island",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-stolen-cruiser": [
+   49674,
+   "The Stolen Cruiser",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-sea-girt-fortress": [
+   50050,
+   "The Sea-girt Fortress: A Story of Heligoland",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-a-sub-of-the-r-n-r": [
+   50578,
+   "A Sub. of the R.N.R.: A Story of the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-mystery-ship": [
+   50781,
+   "The Mystery Ship: A Story of the 'Q' Ships During the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-to-the-fore-with-the-tanks": [
+   51332,
+   "To the Fore with the Tanks!",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-secret-battleplane": [
+   51796,
+   "The Secret Battleplane",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-under-the-white-ensign": [
+   52141,
+   "Under the White Ensign: A Naval Story of the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-salving-of-the-fusi-yama": [
+   52340,
+   "The Salving of the \"Fusi Yama\": A Post-War Story of the Sea",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-third-officer": [
+   52632,
+   "The Third Officer: A Present-day Pirate Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-under-king-henrys-banners": [
+   55364,
+   "Under King Henry's Banners: A story of the days of Agincourt",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-sea-scouts-all": [
+   55513,
+   "Sea Scouts All: How the \"Olivette\" was won",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-sea-scouts-abroad": [
+   56325,
+   "Sea Scouts Abroad: Further Adventures of the \"Olivette\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-winning-his-wings": [
+   57056,
+   "Winning His Wings: A Story of the R.A.F.",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-treasure-of-the-san-philipo": [
+   57242,
+   "The Treasure of the \"San Philipo\""
+  ],
+  "pwesterman-three-short-stories-from-the-captain-volume-xxvii": [
+   57533,
+   "Three short stories from \"The Captain\" volume XXVII How Dymock Came to Derry; Jack Devereux's Scoop; The Powder Hulk"
+  ],
+  "pwesterman-midst-arctic-perils": [
+   57798,
+   "'Midst Arctic Perils: A Thrilling Story of Adventure in the Polar Regions"
+  ],
+  "pwesterman-sea-monarch": [
+   57989,
+   "The Sea Monarch",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-sea-scouts-up-channel": [
+   58336,
+   "Sea Scouts up-Channel"
+  ],
+  "pwesterman-clipped-wings": [
+   60311,
+   "Clipped Wings",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-pirate-submarine": [
+   61899,
+   "The Pirate Submarine",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-fritz-strafers": [
+   65262,
+   "The Fritz Strafers: A Story of the Great War",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-sea-scouts-of-the-kestrel-the-story-of-a-cruise-o": [
+   69612,
+   "The Sea Scouts of the Kestrel The story of a cruise of adventure & pluck in a small yacht on the English Channel"
+  ],
+  "pwesterman-sinclairs-luck": [
+   72673,
+   "Sinclair's luck",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-boys-of-the-puffin": [
+   74975,
+   "The boys of the \"Puffin\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "pwesterman-gainst-the-might-of-spain": [
+   78984,
+   "'Gainst the might of Spain",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "pwesterman-submarine-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-wilmshurst-of-the-frontier-force": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-billy-barcroft-r-n-a-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-winning-of-the-golden-spurs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-rounding-up-the-raider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-dispatch-riders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-fight-for-constantinople": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-nameless-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-wireless-officer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-quest-of-the-golden-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-airship-golden-hind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-with-beatty-off-jutland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-a-lad-of-grit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-a-lively-bit-of-the-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-rival-submarines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-young-cavalier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-captured-at-tripoli": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-thick-of-the-fray-at-zeebrugge-april-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-dreadnought-of-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-a-sub-and-a-submarine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-a-watch-dog-of-the-north-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-scouts-of-seal-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-stolen-cruiser": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-sea-girt-fortress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-a-sub-of-the-r-n-r": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-mystery-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-to-the-fore-with-the-tanks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-secret-battleplane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-under-the-white-ensign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-salving-of-the-fusi-yama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-third-officer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-under-king-henrys-banners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-sea-scouts-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-sea-scouts-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-winning-his-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-treasure-of-the-san-philipo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-three-short-stories-from-the-captain-volume-xxvii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-midst-arctic-perils": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-sea-monarch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-sea-scouts-up-channel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-clipped-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-pirate-submarine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-fritz-strafers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-sea-scouts-of-the-kestrel-the-story-of-a-cruise-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-sinclairs-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-boys-of-the-puffin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwesterman-gainst-the-might-of-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "percy f. westerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

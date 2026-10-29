@@ -1,0 +1,69 @@
+{
+ "_about": "Friedrich Albert Lange (1828-1875), raw IA OCR: The History of Materialism and Criticism of its Present Importance, authorized translation by Ernest Chester Thomas, English and Foreign Philosophical Library, in the American issue (Boston: Osgood / Houghton; vol. I 1877, vol. II 1880, vol. III 1881). US public domain. No uids minted.",
+ "_author": "Friedrich Albert Lange",
+ "_name_words": [
+  "friedrich",
+  "albert",
+  "f",
+  "a",
+  "lange"
+ ],
+ "_surname": [
+  "lange"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lange-thomas-history-of-materialism-1877-v1": [
+   "historyofmateria01lang_0",
+   "The History of Materialism, vol. I (Boston: James R. Osgood, 1877)",
+   "tr. Ernest Chester Thomas"
+  ],
+  "lange-thomas-history-of-materialism-1880-v2": [
+   "historymaterial06langgoog",
+   "The History of Materialism, vol. II (Boston: Houghton, Osgood, 1880)",
+   "tr. Ernest Chester Thomas"
+  ],
+  "lange-thomas-history-of-materialism-1881-v3": [
+   "historymaterial05langgoog",
+   "The History of Materialism, vol. III (Boston: Houghton, Mifflin, 1881)",
+   "tr. Ernest Chester Thomas"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lange-thomas-history-of-materialism-1877-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lange-thomas-history-of-materialism-1880-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-thomas-history-of-materialism-1881-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

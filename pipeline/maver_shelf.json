@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: John Maver: Martínez de Zúñiga's An Historical View of the Philippine Islands (1814), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john maver"
+ ],
+ "_surname": [
+  "john maver"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jma-39010": [
+   39010,
+   "An Historical View of the Philippine Islands, Vol 1 (of 2) Exhibiting their discovery, population, language, government, manners, customs, productions and commerce."
+  ],
+  "jma-39027": [
+   39027,
+   "An Historical View of the Philippine Islands, Vol 2 (of 2) Exhibiting their discovery, population, language, government, manners, customs, productions and commerce."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "maver-zuniga-an-historical-view-of-the-philippine-isl-vol-1": {
+   "source": "jma-39010",
+   "of": "Joaquín Martínez de Zúñiga",
+   "work": "An Historical View of the Philippine Islands, Vol 1 (of 2) Exhibiting their discovery, population, language, government, manners, customs, productions and commerce.",
+   "translated": "1814 (see the Gutenberg header)",
+   "translator": "John Maver",
+   "scan_edition": "Project Gutenberg 39010 (clean text)"
+  },
+  "maver-zuniga-an-historical-view-of-the-philippine-isl-vol-2": {
+   "source": "jma-39027",
+   "of": "Joaquín Martínez de Zúñiga",
+   "work": "An Historical View of the Philippine Islands, Vol 2 (of 2) Exhibiting their discovery, population, language, government, manners, customs, productions and commerce.",
+   "translated": "1814 (see the Gutenberg header)",
+   "translator": "John Maver",
+   "scan_edition": "Project Gutenberg 39027 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jma-39010": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john maver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Maver"
+  },
+  "jma-39027": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john maver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Maver"
+  }
+ },
+ "_verified": {
+  "jma-39010": {
+   "pg": 39010,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Maver"
+  },
+  "jma-39027": {
+   "pg": 39027,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Maver"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

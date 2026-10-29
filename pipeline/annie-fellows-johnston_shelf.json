@@ -1,5 +1,5 @@
 {
- "_about": "Annie Fellows Johnston's Little Colonel books, ten of them, dated from each printing's own page: The Little Colonel (1895), The Little Colonel's House Party (this printing 1907), The Little Colonel's Holidays (copyright 1901), The Little Colonel's Hero (copyright 1902), The Little Colonel at Boarding-School (copyright 1903), The Little Colonel in Arizona (copyright 1904), The Little Colonel's Christmas Vacation (copyright 1905), The Little Colonel: Maid of Honor (copyright 1906), The Little Colonel's Knight Comes Riding (copyright 1907) and Mary Ware, the Little Colonel's Chum (copyright 1908; this printing 1944). Her Story of the Red Cross is not taken. The books are set in the post-war South and their Black characters speak and are drawn in the terms of their time. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Annie Fellows Johnston's Little Colonel books, ten of them, dated from each printing's own page: The Little Colonel (1895), The Little Colonel's House Party (this printing 1907), The Little Colonel's Holidays (copyright 1901), The Little Colonel's Hero (copyright 1902), The Little Colonel at Boarding-School (copyright 1903), The Little Colonel in Arizona (copyright 1904), The Little Colonel's Christmas Vacation (copyright 1905), The Little Colonel: Maid of Honor (copyright 1906), The Little Colonel's Knight Comes Riding (copyright 1907) and Mary Ware, the Little Colonel's Chum (copyright 1908; this printing 1944). Her Story of the Red Cross is not taken. The books are set in the post-war South and their Black characters speak and are drawn in the terms of their time. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Annie Fellows Johnston at Gutenberg was added (27 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (1) and shared or misattributed files are listed in _excluded.",
  "_author": "Annie Fellows Johnston",
  "_name_words": [
   "johnston"
@@ -149,14 +149,133 @@
     "start": "CHAPTER I\\.?$",
     "front": true
    }
+  ],
+  "johnston-georgina-of-the-rainbows": [
+   7807,
+   "Georgina of the Rainbows",
+   {
+    "contents_only": true
+   }
+  ],
+  "johnston-gate-of-the-giant-scissors": [
+   12176,
+   "The Gate of the Giant Scissors"
+  ],
+  "johnston-two-little-knights-of-kentucky": [
+   12317,
+   "Two Little Knights of Kentucky"
+  ],
+  "johnston-story-of-the-red-cross-as-told-to-the-little-colone": [
+   17094,
+   "The Story of the Red Cross as told to The Little Colonel"
+  ],
+  "johnston-mildreds-inheritance": [
+   17133,
+   "Mildred's Inheritance; Just Her Way; Ann's Own Way"
+  ],
+  "johnston-quilt-that-jack-built": [
+   17214,
+   "The Quilt that Jack Built; How He Won the Bicycle"
+  ],
+  "johnston-story-of-dago": [
+   17429,
+   "The Story of Dago"
+  ],
+  "johnston-ole-mammys-torment": [
+   17497,
+   "Ole Mammy's Torment"
+  ],
+  "johnston-legend-of-the-bleeding-heart": [
+   17825,
+   "The Legend of the Bleeding-heart"
+  ],
+  "johnston-rescue-of-the-princess-winsome": [
+   18131,
+   "The Rescue of the Princess Winsome: A Fairy Play for Old and Young (music by Albion Fellows Bacon)"
+  ],
+  "johnston-big-brother": [
+   18496,
+   "Big Brother"
+  ],
+  "johnston-cicely-and-other-stories": [
+   19202,
+   "Cicely and Other Stories"
+  ],
+  "johnston-mary-wares-promised-land": [
+   24235,
+   "Mary Ware's Promised Land"
+  ],
+  "johnston-flips-islands-of-providence": [
+   25978,
+   "Flip's \"Islands of Providence\""
+  ],
+  "johnston-songs-ysame": [
+   39032,
+   "Songs Ysame (with Albion Fellows Bacon)"
+  ],
+  "johnston-travelers-five-along-lifes-highway-jimmy-gideon-wig": [
+   39090,
+   "Travelers Five Along Life's Highway Jimmy, Gideon Wiggan, the Clown, Wexley Snathers, Bap. Sloan"
+  ],
+  "johnston-joel": [
+   39231,
+   "Joel: A Boy of Galilee"
+  ],
+  "johnston-jesters-sword-how-aldebaran-the-kings-son-wore-the": [
+   39385,
+   "The Jester's Sword How Aldebaran, the King's Son Wore the Sheathed Sword of Conquest"
+  ],
+  "johnston-keeping-tryst": [
+   39591,
+   "Keeping Tryst: A Tale of King Arthur's Time"
+  ],
+  "johnston-aunt-lizas-hero-and-other-stories": [
+   39593,
+   "Aunt 'Liza's Hero, and Other Stories"
+  ],
+  "johnston-asa-holmes": [
+   39598,
+   "Asa Holmes; or, At the Cross-Roads"
+  ],
+  "johnston-georginas-service-stars": [
+   39641,
+   "Georgina's Service Stars"
+  ],
+  "johnston-mary-ware-in-texas": [
+   40366,
+   "Mary Ware in Texas",
+   {
+    "contents_only": true
+   }
+  ],
+  "johnston-it-was-the-road-to-jericho": [
+   40462,
+   "It Was the Road to Jericho"
+  ],
+  "johnston-in-league-with-israel": [
+   40527,
+   "In League with Israel: A Tale of the Chattanooga Conference",
+   {
+    "contents_only": true
+   }
+  ],
+  "johnston-miss-santa-claus-of-the-pullman": [
+   41604,
+   "Miss Santa Claus of the Pullman"
+  ],
+  "johnston-in-the-desert-of-waiting": [
+   53684,
+   "In the Desert of Waiting: The Legend of Camel-back Mountain"
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "annie-fellows-johnston-repeat-39596": "PG 39596, Georgina of the Rainbows: a second transcription of a title already on this shelf"
+ },
  "_checks": {
   "johnston-little-colonel": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -165,7 +284,7 @@
   },
   "johnston-house-party": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -174,7 +293,7 @@
   },
   "johnston-holidays": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -183,7 +302,7 @@
   },
   "johnston-hero": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -192,7 +311,7 @@
   },
   "johnston-boarding-school": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -201,7 +320,7 @@
   },
   "johnston-arizona": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -210,7 +329,7 @@
   },
   "johnston-christmas-vacation": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -219,7 +338,7 @@
   },
   "johnston-maid-of-honor": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -228,7 +347,7 @@
   },
   "johnston-knight-comes-riding": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",
@@ -237,7 +356,250 @@
   },
   "johnston-mary-ware": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-georgina-of-the-rainbows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-gate-of-the-giant-scissors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie f. johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-two-little-knights-of-kentucky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie f. johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-story-of-the-red-cross-as-told-to-the-little-colone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-mildreds-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-quilt-that-jack-built": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-story-of-dago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-ole-mammys-torment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-legend-of-the-bleeding-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-rescue-of-the-princess-winsome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-big-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-cicely-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-mary-wares-promised-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-flips-islands-of-providence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-songs-ysame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-travelers-five-along-lifes-highway-jimmy-gideon-wig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-joel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-jesters-sword-how-aldebaran-the-kings-son-wore-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-keeping-tryst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-aunt-lizas-hero-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-asa-holmes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-georginas-service-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-mary-ware-in-texas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-it-was-the-road-to-jericho": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-in-league-with-israel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-miss-santa-claus-of-the-pullman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "annie f. johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-in-the-desert-of-waiting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "annie fellows johnston",
    "identity": "ok",

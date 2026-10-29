@@ -1,0 +1,40 @@
+{
+ "_about": "Public-domain Thomas Bisse (1675-1731), for the Word Hoard: The Beauty of Holiness in the Common Prayer, four sermons preached at the Rolls Chapel, from an Internet Archive scan. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bisse"
+ ],
+ "_surname": [
+  "thomas bisse",
+  "bisse"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bisse-beauty-of-holiness": [
+   "beautyholinessi00bissgoog",
+   "The Beauty of Holiness in the Common Prayer: As Set Forth in Four Sermons Preached at the Rolls (R.P. and C. Williams, 1814)"
+  ]
+ },
+ "_alternates": {
+  "bisse-copies": "The 1842 printing"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bisse-beauty-of-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bisse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles H. Kerr (1860-1944), the Chicago socialist publisher: Labriola's Essays on the Materialistic Conception of History (1904) and Lafargue's The Right to Be Lazy (1907). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles h. kerr"
+ ],
+ "_surname": [
+  "charles h. kerr"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "chk-32644": [
+   32644,
+   "Essays on the Materialistic Conception of History"
+  ],
+  "chk-52984": [
+   52984,
+   "The right to be lazy, and other studies"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ch-kerr-labriola-essays-on-the-materialistic-conception-o": {
+   "source": "chk-32644",
+   "of": "Antonio Labriola",
+   "work": "Essays on the Materialistic Conception of History",
+   "translated": "1904-1907 (see the Gutenberg header)",
+   "translator": "Charles H. Kerr",
+   "scan_edition": "Project Gutenberg 32644 (clean text)"
+  },
+  "ch-kerr-lafargue-the-right-to-be-lazy-and-other-studies": {
+   "source": "chk-52984",
+   "of": "Paul Lafargue",
+   "work": "The right to be lazy, and other studies",
+   "translated": "1904-1907 (see the Gutenberg header)",
+   "translator": "Charles H. Kerr",
+   "scan_edition": "Project Gutenberg 52984 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "chk-32644": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles h. kerr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles H. Kerr"
+  },
+  "chk-52984": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles h. kerr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles H. Kerr"
+  }
+ },
+ "_verified": {
+  "chk-32644": {
+   "pg": 32644,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles H. Kerr"
+  },
+  "chk-52984": {
+   "pg": 52984,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles H. Kerr"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

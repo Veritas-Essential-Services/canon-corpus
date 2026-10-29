@@ -1,0 +1,49 @@
+{
+ "_about": "Edmondo De Amicis's Cuore (Heart): An Italian Schoolboy's Journal in Isabel F. Hapgood's translation (copyright lines 1887, 1895, 1901 and 1915). His travel books are not taken. Gutenberg catalogue: De Amicis 1846-1908, Hapgood 1850-1928. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Edmondo De Amicis; tr. Isabel F. Hapgood",
+ "_name_words": [
+  "cuore"
+ ],
+ "_surname": [
+  "edmondo de amicis",
+  "de amicis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "deamicis-cuore-heart": [
+   28961,
+   "Cuore (Heart): An Italian Schoolboy's Journal",
+   {
+    "levels": [
+     {
+      "re": "_?(OCTOBER|NOVEMBER|DECEMBER|JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY)\\._?$|TRANSCRIBER'S NOTE$",
+      "strip": "_"
+     },
+     {
+      "re": "_?[A-Z][-A-Z ,.;:'!?\"]{2,}\\._?$",
+      "max": 90,
+      "strip": "_"
+     }
+    ],
+    "start": "_OCTOBER\\._$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "deamicis-cuore-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edmondo de amicis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  }
+ },
+ "_translators": {
+  "deamicis-cuore-heart": "Isabel F. Hapgood"
+ }
+}

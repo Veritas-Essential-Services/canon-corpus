@@ -1,5 +1,5 @@
 {
- "_about": "Thornton W. Burgess's (1874-1965) animal stories for children published before 1929: the Mother West Wind books and the twenty Bedtime Story-Books (Reddy Fox through Old Man Coyote). US public domain for these books; clean Gutenberg text. His nature handbooks and later books are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Thornton W. Burgess's (1874-1965) animal stories for children published before 1929: the Mother West Wind books and the twenty Bedtime Story-Books (Reddy Fox through Old Man Coyote). US public domain for these books; clean Gutenberg text. His nature handbooks and later books are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Thornton W. Burgess at Gutenberg was added (14 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Thornton W. Burgess",
  "_name_words": [
   "mother",
@@ -154,6 +154,113 @@
   "burgess-bob-white": [
    46950,
    "The Adventures of Bob White"
+  ],
+  "burgess-whitefoot-the-wood-mouse": [
+   4698,
+   "Whitefoot the Wood Mouse",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+: .{1,90}$"
+     }
+    ],
+    "start": "CHAPTER I: ",
+    "front": true
+   }
+  ],
+  "burgess-blacky-the-crow": [
+   4979,
+   "Blacky the Crow",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+: .{1,90}$"
+     }
+    ],
+    "start": "CHAPTER I: ",
+    "front": true
+   }
+  ],
+  "burgess-old-granny-fox": [
+   4980,
+   "Old Granny Fox",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-mrs-peter-rabbit": [
+   5791,
+   "Mrs. Peter Rabbit",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-happy-jack": [
+   13355,
+   "Happy Jack",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-bowser-the-hound": [
+   15168,
+   "Bowser the Hound",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-adventures-of-lightfoot-the-deer": [
+   19079,
+   "The Adventures of Lightfoot the Deer",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-boy-scouts-in-a-trappers-camp": [
+   32045,
+   "The Boy Scouts in A Trapper's Camp",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-boy-scouts-of-woodcraft-camp": [
+   54755,
+   "The Boy Scouts of Woodcraft Camp",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-buster-bears-twins": [
+   59282,
+   "Buster Bear's Twins",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-wishing-stone-stories": [
+   63417,
+   "The Wishing-Stone Stories"
+  ],
+  "burgess-christmas-reindeer": [
+   64109,
+   "The Christmas Reindeer",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-billy-mink": [
+   65308,
+   "Billy Mink",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-little-joe-otter": [
+   65314,
+   "Little Joe Otter",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
@@ -165,7 +272,7 @@
  "_checks": {
   "burgess-old-mother-west-wind": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -174,7 +281,7 @@
   },
   "burgess-mother-west-winds-children": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -183,7 +290,7 @@
   },
   "burgess-mother-west-winds-animal-friends": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -192,7 +299,7 @@
   },
   "burgess-mother-west-wind-why": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -201,7 +308,7 @@
   },
   "burgess-mother-west-wind-how": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -210,7 +317,7 @@
   },
   "burgess-mother-west-wind-when": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -219,7 +326,7 @@
   },
   "burgess-mother-west-wind-where": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -228,7 +335,7 @@
   },
   "burgess-reddy-fox": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -237,7 +344,7 @@
   },
   "burgess-johnny-chuck": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -246,7 +353,7 @@
   },
   "burgess-peter-cottontail": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -255,7 +362,7 @@
   },
   "burgess-unc-billy-possum": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -264,7 +371,7 @@
   },
   "burgess-mr-mocker": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -273,7 +380,7 @@
   },
   "burgess-jerry-muskrat": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -282,7 +389,7 @@
   },
   "burgess-danny-meadow-mouse": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -291,7 +398,7 @@
   },
   "burgess-grandfather-frog": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -300,7 +407,7 @@
   },
   "burgess-chatterer": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -309,7 +416,7 @@
   },
   "burgess-sammy-jay": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -318,7 +425,7 @@
   },
   "burgess-buster-bear": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -327,7 +434,7 @@
   },
   "burgess-old-mr-toad": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -336,7 +443,7 @@
   },
   "burgess-prickly-porky": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -345,7 +452,7 @@
   },
   "burgess-old-man-coyote": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -354,7 +461,7 @@
   },
   "burgess-paddy-beaver": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -363,7 +470,7 @@
   },
   "burgess-poor-mrs-quack": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -372,7 +479,7 @@
   },
   "burgess-bobby-coon": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -381,7 +488,7 @@
   },
   "burgess-jimmy-skunk": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",
@@ -390,7 +497,133 @@
   },
   "burgess-bob-white": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-whitefoot-the-wood-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-blacky-the-crow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-old-granny-fox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-mrs-peter-rabbit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-happy-jack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-bowser-the-hound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-adventures-of-lightfoot-the-deer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-boy-scouts-in-a-trappers-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-boy-scouts-of-woodcraft-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-buster-bears-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-wishing-stone-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-christmas-reindeer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-billy-mink": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thornton w. burgess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgess-little-joe-otter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thornton w. burgess",
    "identity": "ok",

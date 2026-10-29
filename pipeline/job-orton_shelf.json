@@ -1,0 +1,147 @@
+{
+ "_about": "Public-domain Job Orton (1717-1783), Dissenting minister at Shrewsbury, Doddridge's pupil, for the Word Hoard: his Practical Works (London: Tegg, 1842, two volumes) and A Short and Plain Exposition of the Old Testament (Shrewsbury 1788-1791, six volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 46 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "orton"
+ ],
+ "_surname": [
+  "job orton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "orton-practical-works-1": [
+   "practicalworksof01orto",
+   "The practical works of the Rev. Job Orton, S.T.P. : now first collected, consisting of discourses, sacramental meditations, and letters with copius indexes. To which is prefixed a memoir of the author, vol. 1 (London, T. Tegg, 1842)"
+  ],
+  "orton-practical-works-2": [
+   "practicalworksof02orto",
+   "The practical works of the Rev. Job Orton, S.T.P. : now first collected, consisting of discourses, sacramental meditations, and letters with copius indexes. To which is prefixed a memoir of the author, vol. 2 (London, T. Tegg, 1842)"
+  ],
+  "orton-exposition-1": [
+   "shortplainexposi01orto",
+   "A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 1 (Shrewsbury : J. and W. Eddowes, 1791)"
+  ],
+  "orton-exposition-2": [
+   "shortplainexposi02orto",
+   "A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 2 (Shrewsbury : J. and W. Eddowes, 1791)"
+  ],
+  "orton-exposition-3": [
+   "shortplainexposi03orto",
+   "A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 3 (Shrewsbury : J. and W. Eddowes, 1791)"
+  ],
+  "orton-exposition-4": [
+   "shortplainexposi04orto",
+   "A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 4 (Shrewsbury : J. and W. Eddowes, 1791)"
+  ],
+  "orton-exposition-5": [
+   "shortplainexposi05orto",
+   "A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 5 (Shrewsbury : J. and W. Eddowes, 1791)"
+  ],
+  "orton-exposition-6": [
+   "shortplainexposi06orto",
+   "A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 6 (Shrewsbury : J. and W. Eddowes, 1791)"
+  ]
+ },
+ "_alternates": {
+  "orton-copies": "The 1805 and 1822 Expositions; separate Discourses to the Aged, Sacramental Meditations, Religious Exercises (in the Practical Works); Memoirs of Doddridge (1766)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "orton-exposition-3": "title page text: 'A Short and Plain Exposition of the Old Testament, with devotional and practical reflections, for the use of families. By the late Reverend Job Orton, S.T.P. Published from the author's manuscripts, by Robert Gentleman. The second edition. Volume III. Shrewsbury ...' (the OCR spaces the surname: 'O R T O N')",
+  "orton-exposition-4": "title page text: 'A Short and Plain Exposition of the Old Testament ... By the late Reverend Job Orton, S.T.P. Published from the author's manuscripts, by Robert Gentleman. Volume IV. Shrewsbury ... MDCCXC' (the OCR reads '6 R T O N')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "orton-practical-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "job orton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orton-practical-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "job orton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orton-exposition-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "job orton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1791",
+   "ia_date": "1791",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orton-exposition-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "job orton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1791",
+   "ia_date": "1791",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orton-exposition-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1791",
+   "ia_date": "1791",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orton-exposition-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1791",
+   "ia_date": "1791",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orton-exposition-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "job orton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1791",
+   "ia_date": "1791",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orton-exposition-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "job orton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1791",
+   "ia_date": "1791",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

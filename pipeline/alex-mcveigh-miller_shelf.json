@@ -1,0 +1,527 @@
+{
+ "_about": "Mrs. Alex. McVeigh Miller's popular romances (story-paper and dime-library novels). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mrs. Alex. McVeigh Miller",
+ "_name_words": [
+  "mcveigh",
+  "miller"
+ ],
+ "_surname": [
+  "mcveigh miller",
+  "alex. mcveigh miller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "amcmiller-daintys-cruel-rivals": [
+   31257,
+   "Dainty's Cruel Rivals; Or, The Fatal Birthday"
+  ],
+  "amcmiller-bride-of-the-tomb-and-queenies-terrible-secret": [
+   42100,
+   "The Bride of the Tomb, and Queenie's Terrible Secret"
+  ],
+  "amcmiller-guy-kenmores-wife-and-the-rose-and-the-lily": [
+   43037,
+   "Guy Kenmore's Wife, and The Rose and the Lily"
+  ],
+  "amcmiller-they-looked-and-loved": [
+   43471,
+   "They Looked and Loved; Or, Won by Faith"
+  ],
+  "amcmiller-dreadful-temptation": [
+   43911,
+   "A dreadful temptation"
+  ],
+  "amcmiller-little-goldens-daughter": [
+   44803,
+   "Little Golden's Daughter; or, The Dream of a Life Time"
+  ],
+  "amcmiller-kathleens-diamonds": [
+   44819,
+   "Kathleen's Diamonds; or, She Loved a Handsome Actor"
+  ],
+  "amcmiller-pretty-geraldine-the-new-york-salesgirl": [
+   45872,
+   "Pretty Geraldine, the New York Salesgirl; or, Wedded to Her Choice"
+  ],
+  "amcmiller-little-nobody": [
+   46958,
+   "Little Nobody"
+  ],
+  "amcmiller-lancasters-choice": [
+   47685,
+   "Lancaster's Choice"
+  ],
+  "amcmiller-countess-vera": [
+   48824,
+   "Countess Vera; or, The Oath of Vengeance"
+  ],
+  "amcmiller-laurel-vane": [
+   49111,
+   "Laurel Vane; or, The Girls' Conspiracy"
+  ],
+  "amcmiller-my-pretty-maid": [
+   51996,
+   "My Pretty Maid; or, Liane Lester"
+  ],
+  "amcmiller-senators-bride": [
+   54134,
+   "The Senator's Bride"
+  ],
+  "amcmiller-old-mans-darling": [
+   54570,
+   "An Old Man's Darling"
+  ],
+  "amcmiller-senators-favorite": [
+   55237,
+   "The Senator's Favorite"
+  ],
+  "amcmiller-jaquelina": [
+   56564,
+   "Jaquelina"
+  ],
+  "amcmiller-flower-and-jewel": [
+   59223,
+   "Flower and Jewel; or, Daisy Forrest's Daughter"
+  ],
+  "amcmiller-mystery-of-suicide-place": [
+   60451,
+   "The Mystery of Suicide Place"
+  ],
+  "amcmiller-let-us-kiss-and-part": [
+   66774,
+   "Let Us Kiss and Part; or, A Shattered Tie"
+  ],
+  "amcmiller-all-for-love": [
+   67646,
+   "All for Love; or, Her Heart's Sacrifice"
+  ],
+  "amcmiller-love-conquers-pride": [
+   67869,
+   "Love conquers pride; or, Where peace dwelt"
+  ],
+  "amcmiller-loved-you-better-than-you-knew": [
+   69071,
+   "Loved you better than you knew"
+  ],
+  "amcmiller-wooing-of-leola": [
+   69569,
+   "The wooing of Leola"
+  ],
+  "amcmiller-shadow-between-them": [
+   70010,
+   "The shadow between them;"
+  ],
+  "amcmiller-sweet-violet": [
+   70727,
+   "Sweet Violet"
+  ],
+  "amcmiller-man-she-hated": [
+   71024,
+   "The man she hated"
+  ],
+  "amcmiller-strength-of-love": [
+   71376,
+   "The strength of love"
+  ],
+  "amcmiller-mollys-treachery": [
+   73856,
+   "Molly's treachery"
+  ],
+  "amcmiller-little-sweetheart": [
+   74006,
+   "Little sweetheart"
+  ],
+  "amcmiller-minstrels-curse": [
+   74635,
+   "The minstrel's curse"
+  ],
+  "amcmiller-violas-vanity": [
+   74796,
+   "Viola's vanity"
+  ],
+  "amcmiller-unbidden-guest": [
+   76151,
+   "The unbidden guest"
+  ],
+  "amcmiller-slighted-love": [
+   76413,
+   "Slighted love"
+  ],
+  "amcmiller-sworn-to-silence": [
+   77775,
+   "Sworn to silence"
+  ],
+  "amcmiller-ninas-peril": [
+   78525,
+   "Nina's peril"
+  ],
+  "amcmiller-thorns-of-regret": [
+   79130,
+   "Thorns of regret"
+  ],
+  "amcmiller-little-southern-beauty": [
+   79414,
+   "A little southern beauty"
+  ],
+  "amcmiller-mrs-mayos-second-husband": [
+   79570,
+   "Mrs. Mayo's second husband"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "amcmiller-daintys-cruel-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-bride-of-the-tomb-and-queenies-terrible-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-guy-kenmores-wife-and-the-rose-and-the-lily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-they-looked-and-loved": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-dreadful-temptation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-little-goldens-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-kathleens-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-pretty-geraldine-the-new-york-salesgirl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-little-nobody": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-lancasters-choice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-countess-vera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-laurel-vane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-my-pretty-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-senators-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-old-mans-darling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-senators-favorite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-jaquelina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-flower-and-jewel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-mystery-of-suicide-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-let-us-kiss-and-part": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-all-for-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-love-conquers-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-loved-you-better-than-you-knew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-wooing-of-leola": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-shadow-between-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-sweet-violet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-man-she-hated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-strength-of-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-mollys-treachery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-little-sweetheart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-minstrels-curse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-violas-vanity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-unbidden-guest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-slighted-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-sworn-to-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-ninas-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-thorns-of-regret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-little-southern-beauty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amcmiller-mrs-mayos-second-husband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcveigh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "_about": "Public-domain Félix Dupanloup (1802-1878, Bishop of Orleans) in English for the Word Hoard: The Papal Sovereignty (1860), The Future Oecumenical Council (1869), the Minghetti letter on the spoliation of the Church (1874), The Child, tr. Kate Anderson (1875), A Study of Freemasonry (1876), The Ministry of Preaching, tr. Samuel J. Eales (1890), and The Ministry of Catechising (preface dated 1890), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "dupanloup",
+  "orleans"
+ ],
+ "_surname": [
+  "dupanloup",
+  "bishop of orleans",
+  "bishop of orléans"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dupanloup-papal-sovereignty": [
+   "papalsovereignt00dupagoog",
+   "The Papal Sovereignty (London: Charles Dolman, 1860)"
+  ],
+  "dupanloup-future-council": [
+   "a621035900cathuoft",
+   "The Future Oecumenical Council: a letter by the Bishop of Orleans, tr. Henry S. Butterfield and E. Robillard (London: R. Washbourne, 1869)"
+  ],
+  "dupanloup-minghetti-letter": [
+   "letterfromrightr00cath",
+   "Letter from the Lord Bishop of Orleans to M. Minghetti on the Spoliation of the Church (London: Burns and Oates, 1874)"
+  ],
+  "dupanloup-the-child": [
+   "child0000unse_n0j2",
+   "The Child, tr. Kate Anderson (Boston: Patrick Donahoe, 1875)"
+  ],
+  "dupanloup-freemasonry": [
+   "studyoffreemason0000mons",
+   "A Study of Freemasonry (New York: D. & J. Sadlier, 1876)"
+  ],
+  "dupanloup-ministry-preaching": [
+   "TheMinistryOfPreaching",
+   "The Ministry of Preaching, tr. Samuel J. Eales (London: Griffith Farran Okeden & Welsh, 1890)"
+  ],
+  "dupanloup-ministry-catechising": [
+   "TheMinistryOfCatechising",
+   "The Ministry of Catechising (London: Griffith Farran Okeden & Welsh; no year, translator's preface dated Christmas 1890)"
+  ]
+ },
+ "_alternates": {
+  "dupanloup-copies": "Other copies of each; The Child (Noonan, undated)"
+ },
+ "_excluded": {
+  "dupanloup-other": "Meditations on the Life of the Blessed Virgin (only his letter); Spencer Jones's adaptation; works about him"
+ },
+ "_rights_checked": {
+  "dupanloup-ministry-catechising": "title page read: no year; the translator, unnamed, dates the preface Christmas 1890",
+  "dupanloup-future-council": "title page read: 'TRANSLATED BY HEN11Y S. BUTTE11EIELD ... AND E. HOBILLAED' (OCR garbles of Henry S. Butterfield and E. Robillard); 'the Bishop of Orleans' only, Dupanloup by office; Washbourne, 1869"
+ },
+ "_pending": {
+  "dupanloup-education": "The Studious Woman and the letters on female education: not found"
+ },
+ "_translators": {
+  "dupanloup-the-child": "anderson",
+  "dupanloup-ministry-preaching": "eales"
+ },
+ "_checks": {
+  "dupanloup-papal-sovereignty": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dupanloup",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dupanloup-future-council": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bishop of orleans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'TRANSLATED BY HEN11Y S. BUTTE11EIELD ... AND E. HOBILLAED' (OCR garbles of Henry S. Butterfield and E. Robillard); 'the Bishop of Orleans' only, Dupanloup by office; Washbourne, 1869"
+  },
+  "dupanloup-minghetti-letter": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bishop of orleans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dupanloup-the-child": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dupanloup",
+   "translator_claimed": "anderson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dupanloup-freemasonry": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dupanloup",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dupanloup-ministry-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dupanloup",
+   "translator_claimed": "eales",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dupanloup-ministry-catechising": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dupanloup",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no year; the translator, unnamed, dates the preface Christmas 1890"
+  }
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "_about": "Public-domain Frederic Henry Hedge (1805-1890), Unitarian minister, Transcendentalist and Harvard professor of ecclesiastical history, for the Word Hoard: his theology and sermons: Owe No Man Anything, his discourse on Edward Everett, The National Weakness, Reason in Religion, The Primeval World of Hebrew Tradition, Ways of the Spirit, Unitarian Affirmations, Our Liberal Movement in Theology, Atheism in Philosophy, and Martin Luther and Other Essays. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 95 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frederic henry hedge",
+  "f. h. hedge"
+ ],
+ "_surname": [
+  "frederic henry hedge",
+  "f. h. hedge",
+  "hedge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hedge-everett": [
+   "discourseonedwar00hedg",
+   "Discourse on Edward Everett (Boston, Press of G.C. Rand & Avery, 1856)"
+  ],
+  "hedge-national-weakness": [
+   "nationalweakness00hedg",
+   "The national weakness : a discourse delivered in the First Church, Brookline, on Fast day, Sept. 26, 1861 (Boston : Walker, Wise, and Co., 1861)"
+  ],
+  "hedge-reason-in-religion": [
+   "reasoninreligion00hedg",
+   "Reason in religion (Boston, Walker, Fuller and company, 1865)"
+  ],
+  "hedge-primeval-world": [
+   "primevalworldofh00hedgrich",
+   "The primeval world of Hebrew tradition. (Boston, Roberts Brothers, 1870)"
+  ],
+  "hedge-ways-of-spirit": [
+   "waysofspiritothe00hedg",
+   "Ways of the spirit, and other essays (Boston, Roberts brothers, 1877)"
+  ],
+  "hedge-unitarian-affirmations": [
+   "unitarianaffirma00hedg",
+   "Unitarian affirmations: seven discourses given in Washington, D.C (Boston, American Unitarian association, 1879)"
+  ],
+  "hedge-liberal-movement": [
+   "ourliberalmovem01hedggoog",
+   "Our liberal movement in theology, chiefly as shown in recollections of the history of Unitarianism in New England, being a closing course of lectures given in the Harvard Divinity School (Boston, Roberts, 1882)"
+  ],
+  "hedge-atheism-philosophy": [
+   "atheisminphilo00hedguoft",
+   "Atheism in philosophy, and other essays (Boston, Roberts brothers, 1884)"
+  ],
+  "hedge-martin-luther": [
+   "martinlutherothe00hedg",
+   "Martin Luther, and other essays (Boston, Roberts, 1888)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hedge-literary": "Prose Writers of Germany, Hours with German Classics, his Goethe translations, metrical translations and a Fourth of July oration",
+  "hedge-edited": "Hymns for the Church of Christ (compiled) and Recent Inquiries in Theology (the English Essays and Reviews, which he edited)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "hedge-owe-no-man": "owenomananything00hedg: printed without the author's name on the title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "hedge-everett": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic henry hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hedge-national-weakness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. h. hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hedge-reason-in-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic henry hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hedge-primeval-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic henry hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hedge-ways-of-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic henry hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hedge-unitarian-affirmations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hedge-liberal-movement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. h. hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hedge-atheism-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic henry hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hedge-martin-luther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic henry hedge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

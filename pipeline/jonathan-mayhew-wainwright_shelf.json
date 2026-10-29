@@ -1,0 +1,170 @@
+{
+ "_about": "Public-domain Jonathan Mayhew Wainwright, Episcopal provisional Bishop of New York, for the Word Hoard: his sermons for the African Mission School Society, the Domestic and Foreign Missionary Society and the Boston Female Society for Destitute Orphans, Inequality of Individual Wealth, Collegiate Education, Short Family Prayers, The Pathways and Abiding Places of Our Lord, The Land of Bondage, and his Thirty-Four Sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 134 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jonathan mayhew wainwright",
+  "jonathan m. wainwright",
+  "j. m. wainwright",
+  "wainwright"
+ ],
+ "_surname": [
+  "wainwright"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wainwright-african-mission": [
+   "ASPC0001986000",
+   "A discourse, on the occasion of forming the African Mission School Society : delivered in Christ Church, in Hartford, Connecticut, on Sunday evening, Aug. 10, 1828 (catalogued 1828)"
+  ],
+  "wainwright-missionary-society": [
+   "sermonpreachedbe00wain",
+   "Sermon, preached before the Board of Directors of the Domestic and Foreign Missionary Society of the Protestant Episcopal Church in the United States of America, in St. James' Church, Philadelphia, on Tuesday, May 13, 1828 / published at the request of the Board (New-York: Printed by J. Seymour .., 1828)"
+  ],
+  "wainwright-orphans": [
+   "asermonpreached00waingoog",
+   "A Sermon Preached on the Anniversary of the Boston Female Society for Destitute Orphans (Dutton and Wentworth, 1835)"
+  ],
+  "wainwright-inequality-wealth": [
+   "inequalityindiv00conggoog",
+   "Inequality of Individual Wealth the Ordinance of Providence, and Essential to Civilization: A (Dutton and Wentworth , printers to the State, 1835)"
+  ],
+  "wainwright-collegiate-education": [
+   "collegiateeducat00wain",
+   "Collegiate education (Hartford, Press of Case, Tiffany & Burnham, 1847)"
+  ],
+  "wainwright-family-prayers": [
+   "ajf8982.0001.001.umich.edu",
+   "Short family prayers for every morning &amp; evening of the week, &amp; for particular occasions (New York, E.P. Dutton & co., 1850)"
+  ],
+  "wainwright-pathways": [
+   "pathwaysabidingp00wain",
+   "The pathways and abiding places of Our Lord : illustrated in the journal of a tour through the land of promise (New-York : D. Appleton & Company ; Philadelphia : Geo. S. Appleton, 1851)"
+  ],
+  "wainwright-land-of-bondage": [
+   "landofbondageits00wain",
+   "The land of bondage; its ancient monuments and present condition: being the journal of a tour in Egypt (New York : D. Appleton, 1852)"
+  ],
+  "wainwright-thirty-four-sermons": [
+   "thirtyfoursermon00wain",
+   "Thirty four sermons (New York : D. Appleton and Co., 1856)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wainwright-music": "the chant and tune books are music he arranged",
+  "wainwright-others": "Marsh's Notes on the Episcopal Polity, the Choir and Family Psalter and the New York legislature reports are by others",
+  "wainwright-dups": "other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wainwright-african-mission": "Title page: 'A DISCOURSE, ON THE OCCASION OF FORMING THE AFRICAN MISSION SCHOOL SOCIETY ... BY J. M. WAINWRIGHT, D. D. RECTOR OF GRACE CHURCH, NEW-YORK' (OCR reads WAINWHIGHT), 1828.",
+  "wainwright-missionary-society": "Title page: 'A SERMON, PREACHED BEFORE THE BOARD OF DIRECTORS OF THE DOMESTIC AND FOREIGN MISSIONARY SOCIETY ... BY J. M. WAINWRIGHT, D. D. Rector of Grace Church, New-York' (OCR splits it as WAIN WRIGHT)."
+ },
+ "_pending": {
+  "wainwright-bishop": "Can there be a Church without a Bishop? (1844, IA cantherebechurch00wain): a controversy written with George Potts (waits for Adam's ruling on many-author compilations)",
+  "wainwright-women-bible": "The Women in the Bible (1850, IA thewomeninthebib00unknuoft): sketches by several clergymen that he edited (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "wainwright-african-mission": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wainwright-missionary-society": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wainwright-orphans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wainwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wainwright-inequality-wealth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wainwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wainwright-collegiate-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wainwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wainwright-family-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wainwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wainwright-pathways": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wainwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wainwright-land-of-bondage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wainwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wainwright-thirty-four-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wainwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

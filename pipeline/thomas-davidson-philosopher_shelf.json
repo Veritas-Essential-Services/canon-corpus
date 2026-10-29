@@ -1,0 +1,93 @@
+{
+ "_about": "Thomas Davidson (1840-1900), Scottish-American wandering scholar, translator of Rosmini and founder of the Fellowship of the New Life. Gutenberg: Aristotle and Ancient Educational Ideals (1892). Raw IA OCR: The Education of the Greek People and its Influence on Civilization (New York: Appleton, copyright 1894), clean 0.92; Rousseau and Education According to Nature (New York: Scribner's, 1898; this copy 1900), clean 0.93; A History of Education (New York: Scribner's, 1900), clean 0.91; The Philosophy of Goethe's Faust, edited by Charles M. Bakewell (Boston: Ginn, 1906), clean 0.94. Held: Prolegomena to In Memoriam (1889), OCR below 0.78. His Rosmini translations are on the rosmini shelf. Not to be confused with Archbishop Randall Thomas Davidson. US public domain. No uids minted.",
+ "_author": "Thomas Davidson",
+ "_name_words": [
+  "thomas",
+  "davidson"
+ ],
+ "_surname": [
+  "davidson",
+  "thomas davidson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "davidson-aristotle-ancient-educational-ideals": [
+   40552,
+   "Aristotle and Ancient Educational Ideals"
+  ]
+ },
+ "internet_archive": {
+  "davidson-education-of-the-greek-people-1894": [
+   "educationofgreek0028thom",
+   "The Education of the Greek People (Appleton, 1894)"
+  ],
+  "davidson-rousseau-and-education-1898": [
+   "rousseauandeduca00daviuoft",
+   "Rousseau and Education According to Nature (Scribner's, 1898; 1900 printing)"
+  ],
+  "davidson-history-of-education-1900": [
+   "historyofeducti0davi",
+   "A History of Education (Scribner's, 1900)"
+  ],
+  "davidson-philosophy-of-goethes-faust-1906": [
+   "philosophyofgoet0000thom",
+   "The Philosophy of Goethe's Faust (Ginn, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "davidson-aristotle-ancient-educational-ideals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "davidson-education-of-the-greek-people-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "davidson-rousseau-and-education-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "davidson-history-of-education-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "davidson-philosophy-of-goethes-faust-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

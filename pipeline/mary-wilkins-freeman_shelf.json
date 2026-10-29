@@ -1,0 +1,437 @@
+{
+ "_about": "Mary E. Wilkins Freeman's New England stories and novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Mary E. Wilkins Freeman",
+ "_name_words": [
+  "freeman"
+ ],
+ "_surname": [
+  "mary e. wilkins freeman",
+  "mary eleanor wilkins freeman",
+  "mary e. wilkins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mewfreeman-yates-pride": [
+   978,
+   "The Yates Pride: A Romance"
+  ],
+  "mewfreeman-wind-in-the-rose-bush-and-other-stories-of-the-su": [
+   1617,
+   "The Wind in the Rose-Bush, and Other Stories of the Supernatural"
+  ],
+  "mewfreeman-copy-cat-and-other-stories": [
+   1716,
+   "The Copy-Cat, and Other Stories"
+  ],
+  "mewfreeman-hearts-highway": [
+   4528,
+   "The Heart's Highway: A Romance of Virginia in the Seventeenth Century"
+  ],
+  "mewfreeman-doc-gordon": [
+   15695,
+   "'Doc.' Gordon"
+  ],
+  "mewfreeman-pot-of-gold-and-other-stories": [
+   16468,
+   "The Pot of Gold, and Other Stories"
+  ],
+  "mewfreeman-pembroke": [
+   17428,
+   "Pembroke: A Novel",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-adventures-of-ann": [
+   17560,
+   "The Adventures of Ann: Stories of Colonial Times"
+  ],
+  "mewfreeman-by-the-light-of-the-soul": [
+   17564,
+   "By the Light of the Soul: A Novel",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-shoulders-of-atlas": [
+   17566,
+   "The Shoulders of Atlas: A Novel",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-jane-field": [
+   17790,
+   "Jane Field: A Novel",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-jamesons": [
+   17792,
+   "The Jamesons"
+  ],
+  "mewfreeman-debtor": [
+   17793,
+   "The Debtor: A Novel",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-madelon": [
+   17885,
+   "Madelon: A Novel",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-jerome-a-poor-man": [
+   17886,
+   "Jerome, A Poor Man: A Novel",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-green-door": [
+   17887,
+   "The Green Door"
+  ],
+  "mewfreeman-comfort-pease-and-her-gold-ring": [
+   17888,
+   "Comfort Pease and her Gold Ring"
+  ],
+  "mewfreeman-evelinas-garden": [
+   17891,
+   "Evelina's Garden"
+  ],
+  "mewfreeman-giles-corey-yeoman": [
+   17960,
+   "Giles Corey, Yeoman: A Play"
+  ],
+  "mewfreeman-portion-of-labor": [
+   18011,
+   "The Portion of Labor",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-an-alabaster-box": [
+   18140,
+   "An Alabaster Box (with Florence Morse Kingsley)"
+  ],
+  "mewfreeman-butterfly-house": [
+   18158,
+   "The Butterfly House",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "mewfreeman-young-lucretia-and-other-stories": [
+   19766,
+   "Young Lucretia and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "mewfreeman-once-upon-a-time-and-other-child-verses": [
+   45300,
+   "Once Upon a Time, and Other Child-Verses"
+  ],
+  "mewfreeman-silence-and-other-stories": [
+   76948,
+   "Silence, and other stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mewfreeman-yates-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-wind-in-the-rose-bush-and-other-stories-of-the-su": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-copy-cat-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-hearts-highway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-doc-gordon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-pot-of-gold-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-pembroke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-adventures-of-ann": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-by-the-light-of-the-soul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-shoulders-of-atlas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-jane-field": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-jamesons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-debtor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-madelon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-jerome-a-poor-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-green-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-comfort-pease-and-her-gold-ring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-evelinas-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-giles-corey-yeoman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-portion-of-labor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-an-alabaster-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-butterfly-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-young-lucretia-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-once-upon-a-time-and-other-child-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary eleanor wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewfreeman-silence-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary e. wilkins freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "_about": "Theodor Gomperz (1832-1912), raw IA OCR: Greek Thinkers, a history of ancient philosophy, authorized edition (London: John Murray, 4 vols.): vol. I translated by Laurie Magnus (1901); vols. II-IV translated by G. G. Berry (vol. II 1905; vol. III first edition 1905, this scan the July 1914 reprint; vol. IV 1912). US public domain. Not taken: a vol. III scan with no dated title page (IA greekthinkershis03gompuoft). No uids minted.",
+ "_author": "Theodor Gomperz",
+ "_name_words": [
+  "theodor",
+  "th",
+  "gomperz"
+ ],
+ "_surname": [
+  "gomperz"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gomperz-greek-thinkers-1901-v1": [
+   "greekthinkershis01gompuoft",
+   "Greek Thinkers, vol. I (London: John Murray, 1901)",
+   "tr. Laurie Magnus"
+  ],
+  "gomperz-greek-thinkers-1905-v2": [
+   "indianphilosophy02radhuoft",
+   "Greek Thinkers, vol. II (London: John Murray, 1905)",
+   "tr. G. G. Berry"
+  ],
+  "gomperz-greek-thinkers-1914-v3": [
+   "greek-thinkers-a-history-of-ancient-philosophy_1914_3",
+   "Greek Thinkers, vol. III (London: John Murray, 1905; reprinted 1914)",
+   "tr. G. G. Berry"
+  ],
+  "gomperz-greek-thinkers-1912-v4": [
+   "greekthinkers04gompuoft",
+   "Greek Thinkers, vol. IV (London: John Murray, 1912)",
+   "tr. G. G. Berry"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "gomperz-greek-thinkers-1901-v1": "Magnus",
+  "gomperz-greek-thinkers-1914-v3": "Berry"
+ },
+ "_checks": {
+  "gomperz-greek-thinkers-1901-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gomperz",
+   "translator_claimed": "Magnus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gomperz-greek-thinkers-1905-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gomperz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gomperz-greek-thinkers-1914-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gomperz",
+   "translator_claimed": "Berry",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gomperz-greek-thinkers-1912-v4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gomperz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1905-1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

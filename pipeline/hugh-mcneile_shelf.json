@@ -1,0 +1,151 @@
+{
+ "_about": "Public-domain Hugh McNeile (1795-1879), evangelical Anglican rector in Liverpool and Dean of Ripon, for the Word Hoard: The Times of the Gentiles (1828), England's Protest is England's Shield (1829), Popular Lectures on the Prophecies relative to the Jewish Nation (1830), Letters to a Friend who has Felt it his Duty to Secede (1834), Lectures on the Church of England (1840), Sermons on the Second Advent (1840), A Lecture on the Life of Dr. Franklin (1841) and The Church and the Churches (1846), from Internet Archive scans. Alan Hugh McNeile (1871-1933), the Cambridge commentator, is another man. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mcneile",
+  "m'neile"
+ ],
+ "_surname": [
+  "hugh mcneile",
+  "hugh m'neile",
+  "h. mcneile",
+  "h. m'neile"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hmcneile-times-gentiles": [
+   "timesgentiles00mcnegoog",
+   "The Times of the Gentiles (J. Hatchard and Son, 1828)"
+  ],
+  "hmcneile-englands-protest": [
+   "englandsprotest00mcnegoog",
+   "England's protest is England's shield: For the Battle is the Lord's (J. Hatchard and Son ..., 1829)"
+  ],
+  "hmcneile-jewish-nation": [
+   "popularlectures00mcnegoog",
+   "Popular lectures on the prophecies relative to the Jewish nation (J. Hatchard and Son, 1830)"
+  ],
+  "hmcneile-letters-friend": [
+   "letterstoafrien00mcnegoog",
+   "Letters to a friend who has felt it his duty to secede from the Church of England (catalogued 1834)"
+  ],
+  "hmcneile-church-of-england": [
+   "lecturesonthechu00mcneuoft",
+   "Lectures on the Church of England : delivered in London, March, 1840 (London : J. Hatchard, 1840)"
+  ],
+  "hmcneile-second-advent": [
+   "sermonsonseconda00mcne",
+   "Sermons on the second advent of the Lord Jesus Christ ([n.d.], 1840)"
+  ],
+  "hmcneile-franklin": [
+   "lectureonlifeofd00mcne",
+   "A lecture on the life of Dr. Franklin (New York : Henderson Greene ; Philadelphia : Carey and Hart, 1841)"
+  ],
+  "hmcneile-church-and-churches": [
+   "churchchurchesch00mcne",
+   "The Church and the churches : The Church of God in Christ, and the churches of Christ militant here on earth (London : J. Hatchard, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hmcneile-other": "A. H. McNeile (1871-1933): his Ecclesiastes, Exodus and Numbers commentaries (1904-1911); letters to and about him by others; the Jezebel speech volume (miscatalogued compilation)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hmcneile-times-gentiles": "Title page (after the Google notice) reads 'TIMES OF THE GENTILES. THE REV. HUGH M'NEILE, ... ARCHBISHOP OF DUBLIN [his chaplain]' (OCR 'M° NEILE'), London: John Hatchard and Son, 1828.",
+  "hmcneile-jewish-nation": "Title page (after the Google notice) reads 'POPULAR LECTURES ON THE PROPHECIES RELATIVE TO THE JEWISH NATION. THE REV. HUGH M'NEILE, M. A.' (OCR 'M- NEILE'); the facing list names his England's Protest is England's Shield."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hmcneile-times-gentiles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmcneile-englands-protest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh m'neile",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmcneile-jewish-nation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmcneile-letters-friend": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh m'neile",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmcneile-church-of-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh m'neile",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmcneile-second-advent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh m'neile",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hmcneile-franklin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh m'neile",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hmcneile-church-and-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh m'neile",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

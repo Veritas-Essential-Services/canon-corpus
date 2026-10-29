@@ -1,0 +1,85 @@
+{
+ "_about": "Julia Magruder: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Julia Magruder",
+ "_name_words": [
+  "julia",
+  "magruder"
+ ],
+ "_surname": [
+  "julia magruder",
+  "magruder"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jmagruder-beautiful-alien": [
+   25989,
+   "A Beautiful Alien"
+  ],
+  "jmagruder-manifest-destiny": [
+   30464,
+   "A Manifest Destiny"
+  ],
+  "jmagruder-princess-sonia": [
+   62637,
+   "The Princess Sonia"
+  ],
+  "jmagruder-across-the-chasm": [
+   63250,
+   "Across the Chasm"
+  ],
+  "jmagruder-miss-ayr-of-virginia-other-stories": [
+   74718,
+   "Miss Ayr of Virginia, & other stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jmagruder-beautiful-alien": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia magruder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmagruder-manifest-destiny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia magruder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmagruder-princess-sonia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia magruder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmagruder-across-the-chasm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia magruder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmagruder-miss-ayr-of-virginia-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia magruder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

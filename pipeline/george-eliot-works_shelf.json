@@ -1,0 +1,219 @@
+{
+ "_about": "George Eliot's novels, stories, poems and essays not already on another shelf (the reading-list george-eliot shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "George Eliot",
+ "_name_words": [
+  "eliot"
+ ],
+ "_surname": [
+  "george eliot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "geliot-adam-bede": [
+   507,
+   "Adam Bede",
+   {
+    "contents_only": true
+   }
+  ],
+  "geliot-lifted-veil": [
+   2165,
+   "The Lifted Veil"
+  ],
+  "geliot-brother-jacob": [
+   2171,
+   "Brother Jacob",
+   {
+    "contents_only": true
+   }
+  ],
+  "geliot-mill-on-the-floss": [
+   6688,
+   "The Mill on the Floss",
+   {
+    "contents_only": true
+   }
+  ],
+  "geliot-daniel-deronda": [
+   7469,
+   "Daniel Deronda"
+  ],
+  "geliot-impressions-of-theophrastus-such": [
+   10762,
+   "Impressions of Theophrastus Such"
+  ],
+  "geliot-scenes-of-clerical-life": [
+   17780,
+   "Scenes of Clerical Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "geliot-how-lisa-loved-the-king": [
+   20813,
+   "How Lisa Loved the King"
+  ],
+  "geliot-romola": [
+   24020,
+   "Romola",
+   {
+    "contents_only": true
+   }
+  ],
+  "geliot-essays-of-george-eliot-complete": [
+   28289,
+   "The Essays of \"George Eliot\" Complete"
+  ],
+  "geliot-felix-holt-the-radical": [
+   40882,
+   "Felix Holt, the Radical"
+  ],
+  "geliot-george-eliots-life-as-related-in-her-letters-and-jour": [
+   43043,
+   "George Eliot's Life, as Related in Her Letters and Journals. Vol. 1 (of 3) (ed. J. W. Cross)"
+  ],
+  "geliot-george-eliots-life-as-related-in-her-letters-and-jour-43044": [
+   43044,
+   "George Eliot's Life, as Related in Her Letters and Journals. Vol. 2 (of 3) (ed. J. W. Cross)"
+  ],
+  "geliot-george-eliots-life-as-related-in-her-letters-and-jour-43045": [
+   43045,
+   "George Eliot's Life, as Related in Her Letters and Journals. Vol. 3 (of 3) (ed. J. W. Cross)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58777": "PG 58777: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 145, 550: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-20742": "PG 20742: a many-author anthology of favourite poems.",
+  "pg-30273": "PG 30273 Tom and Maggie Tulliver: an anonymous adaptation."
+ },
+ "_checks": {
+  "geliot-adam-bede": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-lifted-veil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-brother-jacob": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-mill-on-the-floss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-daniel-deronda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-impressions-of-theophrastus-such": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-scenes-of-clerical-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-how-lisa-loved-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-romola": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-essays-of-george-eliot-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-felix-holt-the-radical": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-george-eliots-life-as-related-in-her-letters-and-jour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-george-eliots-life-as-related-in-her-letters-and-jour-43044": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geliot-george-eliots-life-as-related-in-her-letters-and-jour-43045": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

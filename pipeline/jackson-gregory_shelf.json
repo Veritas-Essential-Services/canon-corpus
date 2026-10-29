@@ -1,0 +1,190 @@
+{
+ "_about": "Jackson Gregory's Western novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Jackson Gregory",
+ "_name_words": [
+  "gregory",
+  "jackson"
+ ],
+ "_surname": [
+  "jackson gregory"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jgregory-everlasting-whisper": [
+   10213,
+   "The Everlasting Whisper"
+  ],
+  "jgregory-six-feet-four": [
+   15148,
+   "Six Feet Four"
+  ],
+  "jgregory-bells-of-san-juan": [
+   15438,
+   "The Bells of San Juan"
+  ],
+  "jgregory-desert-valley": [
+   15502,
+   "The Desert Valley"
+  ],
+  "jgregory-under-handicap-a-novel": [
+   17981,
+   "Under Handicap A Novel"
+  ],
+  "jgregory-daughter-of-the-sun": [
+   18916,
+   "Daughter of the Sun: A Tale of Adventure"
+  ],
+  "jgregory-judith-of-blue-lake-ranch": [
+   18926,
+   "Judith of Blue Lake Ranch"
+  ],
+  "jgregory-man-to-man": [
+   18933,
+   "Man to Man"
+  ],
+  "jgregory-short-cut": [
+   18950,
+   "The Short Cut"
+  ],
+  "jgregory-wolf-breed": [
+   18964,
+   "Wolf Breed"
+  ],
+  "jgregory-timber-wolf": [
+   61329,
+   "Timber-Wolf"
+  ],
+  "jgregory-fire-flower": [
+   65833,
+   "The Fire Flower"
+  ],
+  "jgregory-beyond-the-law": [
+   65894,
+   "Beyond the Law"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 77768 Marshal of Sundown (copyright line 1937). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "jgregory-everlasting-whisper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-six-feet-four": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-bells-of-san-juan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-desert-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-under-handicap-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-daughter-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-judith-of-blue-lake-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-man-to-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-short-cut": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-wolf-breed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-timber-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-fire-flower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-beyond-the-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

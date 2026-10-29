@@ -1,0 +1,42 @@
+{
+ "_about": "Public-domain Friedrich Adolph Lampe (1683-1729), German Reformed theologian, for the Word Hoard: Theological Dissertations concerning the Endless Duration of Punishment, translated from the Latin by Joseph Robertson (Edinburgh: J. Fairbairn and A. Constable; catalogued 1796), from an Internet Archive scan. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lampe"
+ ],
+ "_surname": [
+  "lampe",
+  "frederick adolphus lampe"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lampe-endless-punishment-1796": [
+   "bim_eighteenth-century_theological-dissertation_lampe-friedrich-adolph_1796",
+   "Theological Dissertations concerning the Endless Duration of Punishment, tr. Joseph Robertson (Edinburgh: J. Fairbairn and Ar. Constable; London: J. Mathews and T. Chapman; catalogued 1796)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "lampe-other": "Latin and German editions"
+ },
+ "_rights_checked": {
+  "lampe-endless-punishment-1796": "title page read: translated by the Rev. Joseph Robertson (OCR \"FOSEPH ROBERTSON\"); year not legible, catalogued 1796"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lampe-endless-punishment-1796": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lampe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translated by the Rev. Joseph Robertson (OCR \"FOSEPH ROBERTSON\"); year not legible, catalogued 1796"
+  }
+ }
+}

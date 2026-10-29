@@ -1,0 +1,65 @@
+{
+ "_about": "Sir Thomas Percy Nunn (1870-1944), English philosopher of science and educationist, director of the London Day Training College. Raw IA OCR: The Aim and Achievements of Scientific Method (Macmillan, 1907); Education, its Data and First Principles (Arnold, 1920); Relativity and Gravitation (1923; OCR clean ratio 0.794). Published before 1930, so US public domain. No uids minted.",
+ "_author": "T. Percy Nunn",
+ "_name_words": [
+  "thomas",
+  "percy",
+  "nunn"
+ ],
+ "_surname": [
+  "nunn",
+  "percy nunn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nunn-aim-and-achievements-of-scientific-method-1907": [
+   "india.history.resource.118321",
+   "The Aim and Achievements of Scientific Method (Macmillan, 1907)"
+  ],
+  "nunn-education-its-data-and-first-principles-1920": [
+   "educationitsdata00nunn",
+   "Education, its Data and First Principles (Arnold, 1920)"
+  ],
+  "nunn-relativity-and-gravitation-1923": [
+   "relativitygravit0000tper",
+   "Relativity and Gravitation (1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "nunn-aim-and-achievements-of-scientific-method-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nunn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nunn-education-its-data-and-first-principles-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nunn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nunn-relativity-and-gravitation-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nunn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

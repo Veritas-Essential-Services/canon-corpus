@@ -1,0 +1,131 @@
+{
+ "_about": "Public-domain James Foster (1697-1753), Baptist preacher at the Old Jewry, for the Word Hoard: his Sermons (London 1733, four volumes), The Usefulness, Truth and Excellency of the Christian Revelation (1734) and Discourses on all the principal branches of Natural Religion and Social Virtue (1749, two volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 46 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "foster"
+ ],
+ "_surname": [
+  "james foster"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "foster-sermons-1": [
+   "sermonsonfollowi01fost",
+   "Sermons on the following subjects, vol. 1 (London : Printed for J. Noon, 1733)"
+  ],
+  "foster-sermons-2": [
+   "sermonsonfollowi02fost",
+   "Sermons on the following subjects, vol. 2 (London : Printed for J. Noon, 1733)"
+  ],
+  "foster-sermons-3": [
+   "sermonsonfollowi03fost",
+   "Sermons on the following subjects, vol. 3 (London : Printed for J. Noon, 1733)"
+  ],
+  "foster-sermons-4": [
+   "sermonsonfollowi04fost",
+   "Sermons on the following subjects, vol. 4 (London : Printed for J. Noon, 1733)"
+  ],
+  "foster-usefulness-revelation": [
+   "usefulnesstruthe00fost",
+   "The usefulness, truth, and excellency of the Christian revelation defended against the objections contain'd in a late book, intitled, Christianity as old as creation, &c (London , Printed for J. Noon at the White-Hart near Mercers-Chapel in Cheapside, 1734)"
+  ],
+  "foster-discourses-1": [
+   "discoursesonallp01fost",
+   "Discourses on all the principal branches of natural religion and social virtue, vol. 1 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749)"
+  ],
+  "foster-discourses-2": [
+   "discoursesonallp02fost",
+   "Discourses on all the principal branches of natural religion and social virtue, vol. 2 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749)"
+  ]
+ },
+ "_alternates": {
+  "foster-copies": "The 1745 Sermons"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "foster-usefulness-revelation": "title page text: 'The Usefulness, Truth, and Excellency of the Christian Revelation defended against the objections contain'd in a late book, intitled, Christianity as old as the Creation ... By James Foster. The third edition, corrected. London: printed for J. Noon ... MDCCXXXIV' (the OCR spaces out the name letter by letter)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "foster-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foster-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foster-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foster-sermons-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foster-usefulness-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foster-discourses-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foster-discourses-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

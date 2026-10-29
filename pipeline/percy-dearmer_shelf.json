@@ -1,0 +1,195 @@
+{
+ "_about": "Public-domain Percy Dearmer, Anglican priest and liturgist, for the Word Hoard: The Parson's Handbook, Loyalty to the Prayer Book, The Ornaments of the Ministers, Everyman's History of the English Church, Body and Soul, Reunion and Rome, The Communion of Saints, The Arts of the Church, Fifty Pictures of Gothic Altars, and his handbooks to the cathedral churches of Oxford and Wells. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 129 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "percy dearmer",
+  "p. dearmer",
+  "dearmer"
+ ],
+ "_surname": [
+  "dearmer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dearmer-oxford-cathedral": [
+   "cathedralchurcho00dearuoft",
+   "The cathedral church of Oxford, a description of its fabric and a brief history of the episcopal see (London, Bell, 1897)"
+  ],
+  "dearmer-wells-cathedral": [
+   "wellscathedralch00dear",
+   "The cathedral church of Wells; a description of its fabric and a brief history of the Episcopal see (London : G. Bell & sons, 1898)"
+  ],
+  "dearmer-parsons-handbook": [
+   "theparsonshandbo00dearuoft",
+   "The Parson's handbook, containing practical directions both for parsons and others as to the management of the parish church and its services according to the English use as set forth in the Book of Common Prayer, with an introductory essay on conformity to the Church of England (London : G. Richards, 1899)"
+  ],
+  "dearmer-loyalty-prayer-book": [
+   "loyaltytoprayerb00dear",
+   "Loyalty to the prayer book. By Percy Dearmer (A.R. Mowbray & Co. Limited, 1904)"
+  ],
+  "dearmer-ornaments-ministers": [
+   "ornamentsofminis00dearuoft",
+   "The ornaments of the ministers (London : A. R. Mowbray, [190)"
+  ],
+  "dearmer-everymans-history": [
+   "everymanshistory0000dear",
+   "Everyman's history of the English church (London : Mowbray, 1909)"
+  ],
+  "dearmer-body-and-soul": [
+   "bodyandsoulanenq00dearuoft",
+   "Body and soul : an enquiry into the effects of religion upon health, with a description of Christian works of healing from the New Testament to the present day (London : I. Pitman & Sons, 1910)"
+  ],
+  "dearmer-reunion-rome": [
+   "reunionrome0000revp",
+   "Reunion and Rome (catalogued 1910)"
+  ],
+  "dearmer-gothic-altars": [
+   "fiftypicturesofg00dearuoft",
+   "Fifty pictures of Gothic altars (London, Longmans, Green, 1910)"
+  ],
+  "dearmer-communion-of-saints": [
+   "thecommunionofsa00dearuoft",
+   "The communion of saints (London : A.R. Mowbray, 1910)"
+  ],
+  "dearmer-arts-of-church": [
+   "artsofchurch0000revp",
+   "The Arts of the Church (catalogued 1911)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dearmer-edited": "The English Liturgy and The Booklet of the Mass are service books he edited",
+  "dearmer-normandy": "Highways and Byways in Normandy is a travel book"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "dearmer-religious-pamphlets": "Religious Pamphlets (IA religiouspamphle00dear): a collection of pamphlets by many writers that he selected (waits for Adam's ruling on many-author compilations)",
+  "dearmer-essays-ceremonial": "Essays on Ceremonial (IA essaysonceremoni00atch): essays by several writers (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "dearmer-oxford-cathedral": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dearmer-wells-cathedral": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dearmer-parsons-handbook": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dearmer-loyalty-prayer-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dearmer-ornaments-ministers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1908]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dearmer-everymans-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dearmer-body-and-soul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dearmer-reunion-rome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dearmer-gothic-altars": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dearmer-communion-of-saints": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dearmer-arts-of-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

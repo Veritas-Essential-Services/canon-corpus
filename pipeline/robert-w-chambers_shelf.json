@@ -1,0 +1,653 @@
+{
+ "_about": "Robert W. Chambers's romances and weird tales (The King in Yellow and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Robert W. Chambers",
+ "_name_words": [
+  "chambers"
+ ],
+ "_surname": [
+  "robert w. chambers"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rwchambers-hidden-children": [
+   4984,
+   "The Hidden Children"
+  ],
+  "rwchambers-in-secret": [
+   5748,
+   "In Secret"
+  ],
+  "rwchambers-in-the-quarter": [
+   6893,
+   "In the Quarter"
+  ],
+  "rwchambers-fighting-chance": [
+   7492,
+   "The Fighting Chance",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-between-friends": [
+   8441,
+   "Between Friends"
+  ],
+  "rwchambers-king-in-yellow": [
+   8492,
+   "The King in Yellow"
+  ],
+  "rwchambers-green-mouse": [
+   10441,
+   "The Green Mouse"
+  ],
+  "rwchambers-ailsa-paige": [
+   11904,
+   "Ailsa Paige: A Novel"
+  ],
+  "rwchambers-maid-at-arms": [
+   12279,
+   "The Maid-At-Arms: A Novel"
+  ],
+  "rwchambers-tracer-of-lost-persons": [
+   13180,
+   "The Tracer of Lost Persons"
+  ],
+  "rwchambers-common-law": [
+   13813,
+   "The Common Law"
+  ],
+  "rwchambers-younger-set": [
+   14852,
+   "The Younger Set",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-firing-line": [
+   15654,
+   "The Firing Line",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-danger-mark": [
+   18185,
+   "The Danger Mark"
+  ],
+  "rwchambers-police": [
+   18515,
+   "Police!!!",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-in-search-of-the-unknown": [
+   18668,
+   "In Search of the Unknown"
+  ],
+  "rwchambers-special-messenger": [
+   24071,
+   "Special Messenger"
+  ],
+  "rwchambers-lorraine": [
+   24181,
+   "Lorraine: A Romance",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-flaming-jewel": [
+   24306,
+   "The Flaming Jewel"
+  ],
+  "rwchambers-blue-bird-weather": [
+   24389,
+   "Blue-Bird Weather"
+  ],
+  "rwchambers-iole": [
+   24426,
+   "Iole"
+  ],
+  "rwchambers-reckoning": [
+   25441,
+   "The Reckoning",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-barbarians": [
+   25623,
+   "Barbarians"
+  ],
+  "rwchambers-athalie": [
+   27342,
+   "Athalie"
+  ],
+  "rwchambers-a-young-man-in-a-hurry-and-other-short-stories": [
+   27374,
+   "A Young Man in a Hurry, and Other Short Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-gay-rebellion": [
+   28244,
+   "The Gay Rebellion"
+  ],
+  "rwchambers-maids-of-paradise": [
+   28295,
+   "The Maids of Paradise",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-dark-star": [
+   28440,
+   "The Dark Star",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-crimson-tide": [
+   29880,
+   "The Crimson Tide: A Novel"
+  ],
+  "rwchambers-moonlit-way": [
+   33557,
+   "The Moonlit Way: A Novel"
+  ],
+  "rwchambers-streets-of-ascalon": [
+   35233,
+   "The Streets of Ascalon: Episodes in the Unfinished Career of Richard Quarren, Esqre."
+  ],
+  "rwchambers-slayer-of-souls": [
+   36281,
+   "The Slayer of Souls",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-little-red-foot": [
+   37333,
+   "The Little Red Foot"
+  ],
+  "rwchambers-quick-action": [
+   37528,
+   "Quick Action"
+  ],
+  "rwchambers-cardigan": [
+   38958,
+   "Cardigan"
+  ],
+  "rwchambers-who-goes-there": [
+   40696,
+   "Who Goes There!"
+  ],
+  "rwchambers-adventures-of-a-modest-man": [
+   43702,
+   "The Adventures of a Modest Man"
+  ],
+  "rwchambers-business-of-life": [
+   43703,
+   "The Business of Life"
+  ],
+  "rwchambers-mystery-of-choice": [
+   46581,
+   "The Mystery of Choice",
+   {
+    "contents_only": true
+   }
+  ],
+  "rwchambers-girl-philippa": [
+   52404,
+   "The Girl Philippa"
+  ],
+  "rwchambers-japonette": [
+   52842,
+   "Japonette"
+  ],
+  "rwchambers-laughing-girl": [
+   53249,
+   "The Laughing Girl"
+  ],
+  "rwchambers-restless-sex": [
+   53289,
+   "The Restless Sex"
+  ],
+  "rwchambers-eris": [
+   67856,
+   "Eris"
+  ],
+  "rwchambers-talkers": [
+   77500,
+   "The talkers"
+  ],
+  "rwchambers-haunts-of-men": [
+   77948,
+   "The haunts of men",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-26651": "PG 26651 The Flaming Jewel: a second Gutenberg edition of a title already on the shelf."
+ },
+ "_checks": {
+  "rwchambers-hidden-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-in-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-in-the-quarter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-fighting-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-between-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-king-in-yellow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-green-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-ailsa-paige": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-maid-at-arms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-tracer-of-lost-persons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-common-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-younger-set": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-firing-line": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-danger-mark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-police": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-in-search-of-the-unknown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-special-messenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-lorraine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-flaming-jewel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-blue-bird-weather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-iole": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-reckoning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-barbarians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-athalie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-a-young-man-in-a-hurry-and-other-short-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-gay-rebellion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-maids-of-paradise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-dark-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-crimson-tide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-moonlit-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-streets-of-ascalon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-slayer-of-souls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-little-red-foot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-quick-action": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-cardigan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-who-goes-there": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-adventures-of-a-modest-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-business-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-mystery-of-choice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-girl-philippa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-japonette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-laughing-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-restless-sex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-eris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-talkers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchambers-haunts-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert w. chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

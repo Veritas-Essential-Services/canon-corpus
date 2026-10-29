@@ -1,0 +1,41 @@
+{
+ "_about": "Juan Luis Vives (1493-1540), raw IA OCR: Vives: On Education, a translation of the De tradendis disciplinis with an introduction by Foster Watson (Cambridge: University Press, 1913). His school dialogues (Tudor School-Boy Life) are on singles-ideas-3. US public domain. No uids minted.",
+ "_author": "Juan Luis Vives",
+ "_name_words": [
+  "juan",
+  "luis",
+  "vives",
+  "ludovicus"
+ ],
+ "_surname": [
+  "vives"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vives-watson-on-education-1913": [
+   "vivesoneducation00viveuoft",
+   "Vives: On Education, a translation of the De tradendis disciplinis (Cambridge, 1913)",
+   "tr. Foster Watson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "vives-watson-on-education-1913": "Watson"
+ },
+ "_checks": {
+  "vives-watson-on-education-1913": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "vives",
+   "translator_claimed": "Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "_about": "Public-domain Julius Müller (1801-1878, professor at Halle) for the Word Hoard: The Christian Doctrine of Sin, tr. William Urwick from the fifth German edition (2 vols, Edinburgh: T. & T. Clark, 1868), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "muller",
+  "julius"
+ ],
+ "_surname": [
+  "julius müller",
+  "julius muller",
+  "julius mueller",
+  "dr. julius müller",
+  "dr. julius muller",
+  "müller, julius",
+  "muller, julius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jmuller-sin-1": [
+   "christiandoctrin01mull",
+   "The Christian Doctrine of Sin, vol. 1, tr. William Urwick from the fifth German edition (Edinburgh: T. & T. Clark, MDCCCLXVIII)"
+  ],
+  "jmuller-sin-2": [
+   "christiandoctrin02mull",
+   "The Christian Doctrine of Sin, vol. 2, tr. William Urwick from the fifth German edition (Edinburgh: T. & T. Clark, MDCCCLXVIII)"
+  ]
+ },
+ "_alternates": {
+  "jmuller-sin-pulsford": "the earlier translation by William Pulsford from the third German edition (Clark, 1852-53; IA christiandoctri05mlgoog, 02mlgoog)"
+ },
+ "_excluded": {},
+ "_translators": {
+  "jmuller-sin-1": "urwick",
+  "jmuller-sin-2": "urwick"
+ },
+ "_checks": {
+  "jmuller-sin-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "julius muller",
+   "translator_claimed": "urwick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jmuller-sin-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "julius muller",
+   "translator_claimed": "urwick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

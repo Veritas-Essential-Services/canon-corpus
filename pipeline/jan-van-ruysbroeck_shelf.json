@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain Jan van Ruysbroeck (1293-1381, Flemish Augustinian prior of Groenendael) in English for the Word Hoard: The Adornment of the Spiritual Marriage, The Sparkling Stone and The Book of Supreme Truth, tr. C. A. Wynschenk Dom, ed. Evelyn Underhill (1916) from CCEL, and The Book of the Twelve Beguines tr. John Francis (1913), The Kingdom of the Lovers of God tr. T. Arnold Hyde from Surius's Latin (1919) and Love's Gradatory tr. Mother St. Jerome (about 1914) from Internet Archive scans. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "ruysbroeck",
+ "_name_words": [
+  "ruysbroeck"
+ ],
+ "_surname": [
+  "ruysbroeck",
+  "ruysbroek",
+  "ruusbroec",
+  "john of ruysbroeck",
+  "jan van ruysbroeck"
+ ],
+ "_held": {},
+ "ccel": {
+  "ruysbroeck-adornment": [
+   "adornment",
+   "The Adornment of the Spiritual Marriage; The Sparkling Stone; The Book of Supreme Truth, tr. C. A. Wynschenk Dom, ed. Evelyn Underhill (London: J. M. Dent, MCMXVI)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "ruysbroeck-twelve-beguines": [
+   "bookoftwelvebg00janvuoft",
+   "The Book of the Twelve Beguines, tr. John Francis (London: John M. Watkins, 1913)"
+  ],
+  "ruysbroeck-kingdom-of-lovers": [
+   "kingdomofloverso00ruusuoft",
+   "The Kingdom of the Lovers of God, tr. T. Arnold Hyde from the Latin of Surius (London: Kegan Paul, 1919)"
+  ],
+  "ruysbroeck-loves-gradatory": [
+   "lovesgradatory00ruusuoft",
+   "Love's Gradatory, tr. Mother St. Jerome (London: R. & T. Washbourne; imprimatur 1914)"
+  ]
+ },
+ "_alternates": {
+  "ruysbroeck-adornment-scan": "Scan of the CCEL text: Dent and Dutton, MCMXVI (adornmentofthesp00ruysuoft)",
+  "ruysbroeck-second-hand": "Excerpts translated from Ernest Hello's French: Reflections from the Mirror of a Mystic (Baillie, 1905) and Flowers of a Mystic Garden (1912)"
+ },
+ "_excluded": {
+  "ruysbroeck-about": "Maeterlinck, Underhill and Scully on Ruysbroeck",
+  "ruysbroeck-late": "a 1995 facsimile catalogued 1916, Colledge's 1952 translation catalogued 1900, and other post-1929 editions",
+  "ruysbroeck-namesake": "William of Rubruck"
+ },
+ "_rights_checked": {
+  "ruysbroeck-loves-gradatory": "title page read: R. & T. Washbourne, no year; imprimatur dated 30 December 1914"
+ },
+ "_pending": {},
+ "_translators": {
+  "ruysbroeck-twelve-beguines": "francis",
+  "ruysbroeck-kingdom-of-lovers": "hyde"
+ },
+ "_checks": {
+  "ruysbroeck-adornment": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ruysbroeck",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1916",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ruysbroeck-twelve-beguines": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ruysbroeck",
+   "translator_claimed": "francis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ruysbroeck-kingdom-of-lovers": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ruysbroeck",
+   "translator_claimed": "hyde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ruysbroeck-loves-gradatory": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ruysbroeck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: R. & T. Washbourne, no year; imprimatur dated 30 December 1914"
+  }
+ }
+}

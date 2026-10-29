@@ -1,0 +1,98 @@
+{
+ "_about": "Alfred Ollivant: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Alfred Ollivant",
+ "_name_words": [
+  "alfred",
+  "ollivant"
+ ],
+ "_surname": [
+  "alfred ollivant",
+  "ollivant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aollivant-bob-son-of-battle": [
+   2795,
+   "Bob, Son of Battle"
+  ],
+  "aollivant-gentleman": [
+   8396,
+   "The Gentleman: A Romance of the Sea"
+  ],
+  "aollivant-boy-woodburn": [
+   17965,
+   "Boy Woodburn: A Story of the Sussex Downs"
+  ],
+  "aollivant-redcoat-captain": [
+   54575,
+   "Redcoat Captain: A Story of That Country"
+  ],
+  "aollivant-two-men": [
+   57640,
+   "Two Men: A Romance of Sussex"
+  ],
+  "aollivant-one-woman": [
+   57641,
+   "One Woman: Being the Second Part of a Romance of Sussex"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "aollivant-bob-son-of-battle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ollivant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aollivant-gentleman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ollivant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aollivant-boy-woodburn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ollivant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aollivant-redcoat-captain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ollivant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aollivant-two-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ollivant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aollivant-one-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ollivant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

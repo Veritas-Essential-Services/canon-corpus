@@ -1,0 +1,488 @@
+{
+ "_about": "TRANSLATOR SHELF: Manmatha Nath Dutt (1855-1912): the prose Rāmāyana (Calcutta, 1891-94, 4 vols), the Harivamsha (1897) and the Vishnupuranam (1896, based on H. H. Wilson's translation). Not R. C. Dutt, whose verse epics are on Lane D's dutt shelf. US public domain. Round 162 (2026-10-23) added nine volumes credited \"edited and published by Manmatha Nath Dutt\", on Adam's ruling. Added 2026-10-10 by lane C (round 34); Adam may veto. No uids minted.",
+ "_name_words": [
+  "manmatha nath dutt",
+  "m. n. dutt",
+  "makmatha nath dutt",
+  "nmatha nath dutt"
+ ],
+ "_surname": [
+  "manmatha nath dutt",
+  "m. n. dutt",
+  "makmatha nath dutt",
+  "nmatha nath dutt"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mnd-57265": [
+   57265,
+   "The Rāmāyana, Volume 1. Bālakāndam and Ayodhyākāndam"
+  ],
+  "mnd-57826": [
+   57826,
+   "The Rāmāyana, Volume 2. Āranya, Kishkindhā, and Sundara Kāndam"
+  ],
+  "mnd-60188": [
+   60188,
+   "The Rāmāyana, Volume 3. Yuddhakāndam"
+  ],
+  "mnd-61937": [
+   61937,
+   "A Prose English Translation of Harivamsha"
+  ],
+  "mnd-62496": [
+   62496,
+   "The Rāmāyana, Volume 4. Uttara Kānda"
+  ],
+  "mnd-66208": [
+   66208,
+   "A Prose English Translation of Vishnupuranam (Based on Professor H. H. Wilson's translation.)"
+  ]
+ },
+ "internet_archive": {
+  "mnd-mahabharata-adi": [
+   "dli.ministry.19298",
+   "Mahabharata, Adi Parva, prose tr. (Calcutta, 1895)",
+   "E01428_The_Prose_English_translation_of_the_Mahabharata_djvu.txt"
+  ],
+  "mnd-mahabharata-shanti": [
+   "in.ernet.dli.2015.134505",
+   "Mahabharata, Shanti Parva, prose tr. (Calcutta, 1903)",
+   "2015.134505.The-Mahabharata-Shanti-Parva_djvu.txt"
+  ],
+  "mnd-mahabharata-anushasana": [
+   "in.ernet.dli.2015.134527",
+   "Mahabharata, Anushasana Parva and the closing parvas, vol. XIII, prose tr. (Calcutta, 1905)",
+   "2015.134527.The-Mahabharata-Anushasana-Parva-Voll-xiii_djvu.txt"
+  ],
+  "mnd-bhagavatam-1": [
+   "proseenglishtran12dutt",
+   "Srimadbhagabatam, Book I, prose tr. (Calcutta, 1895)",
+   "proseenglishtran12dutt_djvu.txt"
+  ],
+  "mnd-bhagavatam-7-12": [
+   "india.history.resource.40625",
+   "Srimadbhagabatam, Books VII-XII, prose tr. (Calcutta, 1895)",
+   "40625_djvu.txt"
+  ],
+  "mnd-mahanirvana": [
+   "in.ernet.dli.2015.61798",
+   "Mahanirvana Tantram, prose tr. (Calcutta, 1900)",
+   "2015.61798.Manmatha-Nath-Dutt-Mahanirvana-Tantram_djvu.txt"
+  ],
+  "mnd-kamandakiya": [
+   "dli.ministry.15844",
+   "Kamandakiya Nitisara, the Elements of Polity, in English (Calcutta, 1896)",
+   "E01763_Kamandakiya_Nitisara_djvu.txt"
+  ],
+  "mnd-garuda": [
+   "garudapuranam00duttgoog",
+   "The Garuda Puranam (Calcutta, 1908)"
+  ],
+  "mnd-harita": [
+   "samhitaoriginalt00duttuoft",
+   "Harita Samhita, with a literal prose English translation (Calcutta, 1906)"
+  ]
+ },
+ "titles": {
+  "mn-dutt-harivamsha": {
+   "source": "mnd-61937",
+   "of": "Anonymous (the Harivamsha, the appendix to the Mahabharata)",
+   "work": "A Prose English Translation of Harivamsha",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 61937 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-1": {
+   "source": "mnd-57265",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 1. Bālakāndam and Ayodhyākāndam",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 57265 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-2": {
+   "source": "mnd-57826",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 2. Āranya, Kishkindhā, and Sundara Kāndam",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 57826 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-3": {
+   "source": "mnd-60188",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 3. Yuddhakāndam",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 60188 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-4": {
+   "source": "mnd-62496",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 4. Uttara Kānda",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 62496 (clean text)"
+  },
+  "mn-dutt-vishnupuranam": {
+   "source": "mnd-66208",
+   "of": "Anonymous (the Vishnu Purana)",
+   "work": "A Prose English Translation of Vishnupuranam (Based on Professor H. H. Wilson's translation.)",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt (after H. H. Wilson)",
+   "scan_edition": "Project Gutenberg 66208 (clean text)"
+  },
+  "mnd-mahabharata-adi": {
+   "source": "mnd-mahabharata-adi",
+   "of": "Vyasa (the Mahabharata)",
+   "work": "A Prose English Translation of the Mahabharata (translated literally from the original Sanskrit text): Adi Parva",
+   "translated": 1895,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Dass), Calcutta, 1895; Digital Library of India scan",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-mahabharata-shanti": {
+   "source": "mnd-mahabharata-shanti",
+   "of": "Vyasa (the Mahabharata)",
+   "work": "A Prose English Translation of the Mahabharata: Shanti Parva",
+   "translated": 1903,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Dass), 40 Nayan Chand Dutt's Street, Calcutta, 1903 (the OCR reads the year '1003'); Digital Library of India scan",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-mahabharata-anushasana": {
+   "source": "mnd-mahabharata-anushasana",
+   "of": "Vyasa (the Mahabharata)",
+   "work": "A Prose English Translation of the Mahabharata, vol. XIII: Anushasana Parva (with the Mahaprasthanika and Swargarohanika Parvas)",
+   "translated": 1905,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Dass), Calcutta, 1905 (the OCR reads the year 'lOOo'); Digital Library of India scan",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-bhagavatam-1": {
+   "source": "mnd-bhagavatam-1",
+   "of": "Anonymous (the Bhagavata Purana)",
+   "work": "A Prose English Translation of Srimadbhagabatam, Book I",
+   "translated": 1895,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Dass), 65/2 Beadon Street, Calcutta, 1895 (the OCR reads '1805')",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-bhagavatam-7-12": {
+   "source": "mnd-bhagavatam-7-12",
+   "of": "Anonymous (the Bhagavata Purana)",
+   "work": "A Prose English Translation of Srimadbhagabatam, Books VII to XII",
+   "translated": 1895,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Dass), 65/2 Beadon Street, Calcutta, 1895; Government of Maharashtra scan",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-mahanirvana": {
+   "source": "mnd-mahanirvana",
+   "of": "Anonymous (the Mahanirvana Tantra)",
+   "work": "A Prose English Translation of Mahanirvana Tantram",
+   "translated": 1900,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Dass), 65/2 Beadon Street, Calcutta, 1900; Digital Library of India scan",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-kamandakiya": {
+   "source": "mnd-kamandakiya",
+   "of": "Kamandaka",
+   "work": "Kamandakiya Nitisara, or the Elements of Polity, in English",
+   "translated": 1896,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Dass), 65/2 Beadon Street, Calcutta, 1896; Digital Library of India scan",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-garuda": {
+   "source": "mnd-garuda",
+   "of": "Anonymous (the Garuda Purana)",
+   "work": "The Garuda Puranam",
+   "translated": 1908,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Society for the Resuscitation of Indian Literature, Calcutta, 1908; printed by H. C. Das, Elysium Press; Harvard copy (bound Dec. 29, 1909), Google scan",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "mnd-harita": {
+   "source": "mnd-harita",
+   "of": "Harita (the Dharma Sastra)",
+   "work": "Harita Samhita, with a literal prose English translation",
+   "translated": 1906,
+   "translator": "Manmatha Nath Dutt (credited on the title page as editor and publisher)",
+   "scan_edition": "Elysium Press (H. C. Das), 40 Nayan Chand Dutt's Street, Calcutta, 1906; Toronto copy",
+   "note": "Title page: 'edited and published by Manmatha Nath Dutt'. It does not say 'translated by'; shelved with that credit on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  }
+ },
+ "_pending": {
+  "mn-dutt-edited-and-published": "Adam ruled 2026-10-23 (decision card): shelve these with honest credit. Nine are shelved in round 162. Still held, because no year (or no credit) can be read on the title page in the OCR: the Markandeya Puranam (markandeyapurana021288mbp; credit garbled), the Srimadbhagabatam DLI copy (in.ernet.dli.2015.272582; no year), Agni Puranam vol. I (in.ernet.dli.2015.279469; year garbled), Gautama Samhita (samhitasoriginal00duttuoft), Parasara Samhita (parasarasamhita00duttgoog), Manu Samhita (cu31924023014941), the Google Adi Parva (aproseenglishtr00duttgoog; a second copy anyway), and two DLI Mahabharata scans with no title page (india.history.resource.118372 Shanti, 94311 Bhishma). Not looked for yet: Bhishma Parva and the other parvas with title pages, the Rig Veda (the KSU copy's OCR is unreadable), the other Dharma Sastra samhitas. Agni Puranam vols. 2-4 DLI copies are modern reprints and refused."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. OCR forms on the title pages: 'Makmatha Nath Dutt' (Anushasana Parva, DLI 2015.134527) and 'Nmatha Nath Dutt' (Mahanirvana Tantram, DLI 2015.61798), round 162.",
+ "_checks": {
+  "mnd-57265": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-57826": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-60188": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-61937": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-62496": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-66208": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt; H. H. Wilson"
+  },
+  "mnd-mahabharata-adi": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mnd-mahabharata-shanti": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mnd-mahabharata-anushasana": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "makmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mnd-bhagavatam-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mnd-bhagavatam-7-12": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mnd-mahanirvana": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mnd-kamandakiya": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mnd-garuda": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mnd-harita": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-07",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "mnd-57265": {
+   "pg": 57265,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-57826": {
+   "pg": 57826,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-60188": {
+   "pg": 60188,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-61937": {
+   "pg": 61937,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-62496": {
+   "pg": 62496,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-66208": {
+   "pg": 66208,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-mahabharata-adi": {
+   "ia": "dli.ministry.19298",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mnd-mahabharata-shanti": {
+   "ia": "in.ernet.dli.2015.134505",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "title page imprint year OCR'd as '1003' (Calcutta, Nayan Chand Dutt's Street address used 1903-08): 1903"
+  },
+  "mnd-mahabharata-anushasana": {
+   "ia": "in.ernet.dli.2015.134527",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "title page imprint year OCR'd as 'lOOo': 1905, as catalogued"
+  },
+  "mnd-bhagavatam-1": {
+   "ia": "proseenglishtran12dutt",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1805,
+    1896
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "title page year OCR'd as '1805': 1895"
+  },
+  "mnd-bhagavatam-7-12": {
+   "ia": "india.history.resource.40625",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1895
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "2016 is the digitization note (Government of Maharashtra, 10 March 2016)"
+  },
+  "mnd-mahanirvana": {
+   "ia": "in.ernet.dli.2015.61798",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mnd-kamandakiya": {
+   "ia": "dli.ministry.15844",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mnd-garuda": {
+   "ia": "garudapuranam00duttgoog",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1909
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "title page year OCR'd as 'I9OS' (1908); 1909 is Harvard's binding stamp"
+  },
+  "mnd-harita": {
+   "ia": "samhitaoriginalt00duttuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

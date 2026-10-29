@@ -1,0 +1,90 @@
+{
+ "_about": "Public-domain Samuel Logan Brengle (1860-1936, Salvation Army commissioner and holiness teacher) for the Word Hoard: The Way of Holiness and Heart Talks on Holiness (1918 editions), When the Holy Ghost is Come (1920 edition) and Love-Slaves (1923), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "brengle"
+ ],
+ "_surname": [
+  "brengle",
+  "s. l. brengle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brengle-way-of-holiness": [
+   "wayofholiness0000colo",
+   "The Way of Holiness, sixth edition (New York: Salvation Army Printing and Publishing House, 1918)"
+  ],
+  "brengle-heart-talks": [
+   "hearttalksonholi00breniala",
+   "Heart Talks on Holiness, seventh edition (New York: Salvation Army Printing and Publishing House, 1918)"
+  ],
+  "brengle-holy-ghost": [
+   "whenholyghostisc0000bren",
+   "When the Holy Ghost is Come, fifth edition (New York: Salvation Army Printing and Publishing House, 1920)"
+  ],
+  "brengle-love-slaves": [
+   "loveslaves0000colo",
+   "Love-Slaves (London: Salvationist Publishing and Supplies, 1923)"
+  ]
+ },
+ "_alternates": {
+  "brengle-pg": "PG 6135, When the Holy Ghost is Come (source not stated)",
+  "brengle-undated": "Helps to Holiness and The Soul-Winner's Secret: title pages undated"
+ },
+ "_excluded": {
+  "brengle-later": "Copies catalogued 1900-1923 whose title pages read 1949-1988; Resurrection Life and Power (1953)"
+ },
+ "_rights_checked": {
+  "brengle-love-slaves": "title page read: 1923; Brengle died 1936, so his books are US public domain but in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "brengle-way-of-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brengle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brengle-heart-talks": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brengle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brengle-holy-ghost": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brengle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brengle-love-slaves": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brengle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1923; Brengle died 1936, so his books are US public domain but in UK copyright"
+  }
+ }
+}

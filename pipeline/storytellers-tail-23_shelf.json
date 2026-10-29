@@ -1,0 +1,525 @@
+{
+ "_about": "Storytellers' tail, group 23: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Frederick R. Burton, Bertha E. Bush, Isabel Graham Bush, John Patrick Crichton-Stuart Bute, Maude Mary Butler, Charles K. Cadwell, George Calderon, Frances Boyd Calhoun, James Howard Calisch, J. M. Callwell, Fernand Calmettes, H. Lovett Cameron, Cameron, Edward Livingston Campbell, John Campbell, Lang Campbell, M. J. Canavan, William A. Canfield, Arthur Astor Carey, Helena Carnegie, Edith Carrington, Mary Elizabeth Carter, Alice Cary, Patrick Casey, Terence Casey, Gregory Casparian, Virginia Carter Castleman, Katherine Dunlap Cather, Hobart Caunter, Henry Richardson Chamberlain. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 23 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "frburton-mission-of-poubalov": [
+   "frederick r. burton",
+   "frederick russell burton",
+   "burton"
+  ],
+  "bebush-stories-of-robin-hood": [
+   "bertha e. bush",
+   "bertha evangeline bush"
+  ],
+  "igbush-goose-creek-folks": [
+   "isabel graham bush"
+  ],
+  "jpcbute-brendan-s-fabulous-voyage-a-lecture-delivered-on-jan": [
+   "john patrick crichton-stuart bute"
+  ],
+  "mmbutler-soldier-s-son": [
+   "maude mary butler"
+  ],
+  "ckcadwell-old-sixth-regiment-its-war-record-1861-5": [
+   "charles k. cadwell",
+   "cadwell"
+  ],
+  "gcalderon-dwala": [
+   "george calderon",
+   "calderon"
+  ],
+  "fbcalhoun-miss-minerva-and-william-green-hill": [
+   "frances boyd calhoun",
+   "calhoun"
+  ],
+  "jhcalisch-mania-of-the-nations-on-the-planet-mars-and-its-te": [
+   "james howard calisch",
+   "calisch"
+  ],
+  "jmcallwell-little-irish-girl": [
+   "j. m. callwell",
+   "josephine martin callwell",
+   "callwell"
+  ],
+  "fcalmettes-fisher-girl-of-france": [
+   "fernand calmettes",
+   "calmettes"
+  ],
+  "hlcameron-vera-nevill": [
+   "h. lovett cameron",
+   "cameron"
+  ],
+  "cameron-warning-clock": [
+   "cameron",
+   "lucy lyttelton cameron",
+   "cameron"
+  ],
+  "elcampbell-historical-sketch-of-the-fifteenth-regiment-new-j": [
+   "edward livingston campbell",
+   "campbell"
+  ],
+  "jcampbell-two-knapsacks": [
+   "john campbell",
+   "campbell"
+  ],
+  "lcampbell-dinky-ducklings": [
+   "lang campbell",
+   "campbell"
+  ],
+  "mjcanavan-ben-comee": [
+   "m. j. canavan",
+   "michael joseph canavan",
+   "canavan"
+  ],
+  "wacanfield-history-of-the-army-experience-of-william-a-canfi": [
+   "william a. canfield",
+   "canfield"
+  ],
+  "aacarey-boy-scouts-at-sea": [
+   "arthur astor carey",
+   "carey"
+  ],
+  "hcarnegie-infant-moralist": [
+   "helena carnegie",
+   "carnegie"
+  ],
+  "ecarrington-poor-blossom": [
+   "edith carrington",
+   "carrington"
+  ],
+  "mecarter-mrs-severn": [
+   "mary elizabeth carter"
+  ],
+  "acary-snow-berries": [
+   "alice cary"
+  ],
+  "pcasey-wolf-cub": [
+   "patrick casey",
+   "casey"
+  ],
+  "tcasey-wolf-cub": [
+   "terence casey",
+   "casey"
+  ],
+  "gcasparian-anglo-american-alliance": [
+   "gregory casparian",
+   "casparian"
+  ],
+  "vccastleman-pocahontas": [
+   "virginia carter castleman",
+   "castleman"
+  ],
+  "kdcather-educating-by-story-telling": [
+   "katherine dunlap cather",
+   "cather"
+  ],
+  "hcaunter-legendary-romantic-tales-of-indian-history": [
+   "hobart caunter",
+   "caunter"
+  ],
+  "hrchamberlain-6-000-tons-of-gold": [
+   "henry richardson chamberlain",
+   "chamberlain"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "frburton-mission-of-poubalov": [
+   46774,
+   "The Mission of Poubalov"
+  ],
+  "bebush-stories-of-robin-hood": [
+   46190,
+   "Stories of Robin Hood"
+  ],
+  "igbush-goose-creek-folks": [
+   62497,
+   "Goose Creek Folks: A Story of the Kentucky Mountains"
+  ],
+  "jpcbute-brendan-s-fabulous-voyage-a-lecture-delivered-on-jan": [
+   17343,
+   "Brendan's Fabulous Voyage A Lecture delivered on January 19, 1893, before the Scottish Society of Literature and Art"
+  ],
+  "mmbutler-soldier-s-son": [
+   39538,
+   "A soldier's son"
+  ],
+  "ckcadwell-old-sixth-regiment-its-war-record-1861-5": [
+   50047,
+   "The Old Sixth Regiment, Its War Record, 1861-5"
+  ],
+  "gcalderon-dwala": [
+   68496,
+   "Dwala: A romance"
+  ],
+  "fbcalhoun-miss-minerva-and-william-green-hill": [
+   5187,
+   "Miss Minerva and William Green Hill"
+  ],
+  "jhcalisch-mania-of-the-nations-on-the-planet-mars-and-its-te": [
+   56445,
+   "The Mania of the Nations on the Planet Mars and its Terrific Consequences A Combination of Fun and Wisdom"
+  ],
+  "jmcallwell-little-irish-girl": [
+   75934,
+   "A little Irish girl"
+  ],
+  "fcalmettes-fisher-girl-of-france": [
+   78652,
+   "A fisher girl of France"
+  ],
+  "hlcameron-vera-nevill": [
+   18385,
+   "Vera Nevill"
+  ],
+  "cameron-warning-clock": [
+   78137,
+   "The warning clock"
+  ],
+  "elcampbell-historical-sketch-of-the-fifteenth-regiment-new-j": [
+   35697,
+   "Historical sketch of the Fifteenth Regiment, New Jersey Volunteers First Brigade, First Division, Sixth Corps"
+  ],
+  "jcampbell-two-knapsacks": [
+   17532,
+   "Two Knapsacks: A Novel of Canadian Summer Life"
+  ],
+  "lcampbell-dinky-ducklings": [
+   76014,
+   "The dinky ducklings"
+  ],
+  "mjcanavan-ben-comee": [
+   27920,
+   "Ben Comee"
+  ],
+  "wacanfield-history-of-the-army-experience-of-william-a-canfi": [
+   31998,
+   "A History of the Army Experience of William A. Canfield"
+  ],
+  "aacarey-boy-scouts-at-sea": [
+   65650,
+   "Boy Scouts at Sea; Or, A Chronicle of the B. S. S. Bright Wing"
+  ],
+  "hcarnegie-infant-moralist": [
+   76648,
+   "The infant moralist"
+  ],
+  "ecarrington-poor-blossom": [
+   63418,
+   "Poor Blossom: The Story of a Horse"
+  ],
+  "mecarter-mrs-severn": [
+   43449,
+   "Mrs. Severn: A Novel, Vol. 1 (of 3)"
+  ],
+  "acary-snow-berries": [
+   79573,
+   "Snow-berries"
+  ],
+  "pcasey-wolf-cub": [
+   41126,
+   "The wolf-cub"
+  ],
+  "tcasey-wolf-cub": [
+   41126,
+   "The wolf-cub"
+  ],
+  "gcasparian-anglo-american-alliance": [
+   52913,
+   "An Anglo-American Alliance: A Serio-Comic Romance and Forecast of the Future"
+  ],
+  "vccastleman-pocahontas": [
+   9985,
+   "Pocahontas: A Poem"
+  ],
+  "kdcather-educating-by-story-telling": [
+   58255,
+   "Educating by story-telling"
+  ],
+  "hcaunter-legendary-romantic-tales-of-indian-history": [
+   70300,
+   "Legendary & romantic tales of Indian history"
+  ],
+  "hrchamberlain-6-000-tons-of-gold": [
+   58269,
+   "6,000 Tons of Gold"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "frburton-mission-of-poubalov": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick r. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bebush-stories-of-robin-hood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha e. bush",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "igbush-goose-creek-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isabel graham bush",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpcbute-brendan-s-fabulous-voyage-a-lecture-delivered-on-jan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john patrick crichton-stuart bute",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmbutler-soldier-s-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maude mary butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ckcadwell-old-sixth-regiment-its-war-record-1861-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles k. cadwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcalderon-dwala": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george calderon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbcalhoun-miss-minerva-and-william-green-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances boyd calhoun",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhcalisch-mania-of-the-nations-on-the-planet-mars-and-its-te": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james howard calisch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmcallwell-little-irish-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. m. callwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcalmettes-fisher-girl-of-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fernand calmettes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlcameron-vera-nevill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. lovett cameron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cameron-warning-clock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cameron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcampbell-historical-sketch-of-the-fifteenth-regiment-new-j": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward livingston campbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcampbell-two-knapsacks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john campbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lcampbell-dinky-ducklings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lang campbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjcanavan-ben-comee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. j. canavan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wacanfield-history-of-the-army-experience-of-william-a-canfi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william a. canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aacarey-boy-scouts-at-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur astor carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarnegie-infant-moralist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helena carnegie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecarrington-poor-blossom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith carrington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mecarter-mrs-severn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary elizabeth carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acary-snow-berries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice cary",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcasey-wolf-cub": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "patrick casey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcasey-wolf-cub": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terence casey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcasparian-anglo-american-alliance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gregory casparian",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vccastleman-pocahontas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virginia carter castleman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kdcather-educating-by-story-telling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine dunlap cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaunter-legendary-romantic-tales-of-indian-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hobart caunter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hrchamberlain-6-000-tons-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry richardson chamberlain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

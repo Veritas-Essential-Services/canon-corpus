@@ -33,5 +33,8 @@
  },
  "_translators": {
   "solinus-golding-1587": "Golding"
+ },
+ "_excluded": {
+  "Arthur Golding, The Worke of Pomponius Mela the Cosmographer (London, 1585)": "Golding's companion translation; the only scan found (IA bim_early-english-books-1475-1640_the-worke-of-pomponius-m_mela-pomponius_1585, EEBO) reads 0.738, under the bar; refused for OCR quality 2026-10-10"
  }
 }

@@ -1,0 +1,92 @@
+{
+ "_about": "Wilhelm Ihne (1821-1902): The History of Rome, English edition, 5 vols. (London: Longmans, Green, 1871-1882), raw IA OCR. The preface to vol. I explains that the English edition is the author's own reworking rather than a translation by another hand, so no translator is recorded. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "ihne"
+ ],
+ "_surname": [
+  "wilhelm ihne",
+  "ihne, wilhelm",
+  "w. ihne"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ihne-history-rome-v1-1871": [
+   "historyrome02unkngoog",
+   "The History of Rome, English edition, vol. I (London: Longmans, Green, 1871)"
+  ],
+  "ihne-history-rome-v2-1871": [
+   "historyofrome02ihne_0",
+   "The History of Rome, English edition, vol. II (London: Longmans, Green, 1871)"
+  ],
+  "ihne-history-rome-v3-1877": [
+   "historyofrome03ihne",
+   "The History of Rome, English edition, vol. III (London: Longmans, Green, 1877)"
+  ],
+  "ihne-history-rome-v4-1882": [
+   "historyofrome04ihne",
+   "The History of Rome, English edition, vol. IV (London: Longmans, Green, 1882)"
+  ],
+  "ihne-history-rome-v5-1882": [
+   "historyofrome05ihne",
+   "The History of Rome, English edition, vol. V (London: Longmans, Green, 1882)"
+  ]
+ },
+ "_checks": {
+  "ihne-history-rome-v1-1871": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilhelm ihne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ihne-history-rome-v2-1871": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilhelm ihne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ihne-history-rome-v3-1877": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilhelm ihne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ihne-history-rome-v4-1882": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilhelm ihne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ihne-history-rome-v5-1882": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilhelm ihne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

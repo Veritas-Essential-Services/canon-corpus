@@ -1,0 +1,192 @@
+{
+ "_about": "Public-domain George Angier Gordon (1853-1929, minister of the Old South Church, Boston) for the Word Hoard: The Witness to Immortality (1893), The Christ of To-day (1895), Immortality and the New Theodicy (1897), The New Epoch for Faith (1901), Ultimate Conceptions of Faith (1903), Through Man to God (1906), Religion and Miracle (1909), Revelation and the Ideal (1913), Aspects of the Infinite Mystery (1916), Humanism in New England Theology (1920) and My Education and Religion (1925), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gordon"
+ ],
+ "_surname": [
+  "gordon",
+  "george a. gordon",
+  "george angier gordon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gagordon-witness-immortality": [
+   "cu31924029320342",
+   "The Witness to Immortality in Literature, Philosophy and Life (Boston and New York: Houghton, Mifflin, 1893)"
+  ],
+  "gagordon-christ-of-today": [
+   "christoftoday00gord_0",
+   "The Christ of To-day (Boston and New York: Houghton, Mifflin, 1895)"
+  ],
+  "gagordon-immortality-theodicy": [
+   "immortalitynewth00gord",
+   "Immortality and the New Theodicy, fourth impression (Boston and New York: Houghton, Mifflin; copyright 1897)"
+  ],
+  "gagordon-new-epoch": [
+   "newepochforfaith00gord",
+   "The New Epoch for Faith (Boston and New York: Houghton, Mifflin, 1901)"
+  ],
+  "gagordon-ultimate-conceptions": [
+   "ultimateconcepti00gord",
+   "Ultimate Conceptions of Faith (Boston and New York: Houghton, Mifflin, 1903)"
+  ],
+  "gagordon-through-man-to-god": [
+   "throughmantogo00gord",
+   "Through Man to God (Boston and New York: Houghton Mifflin; published October 1906)"
+  ],
+  "gagordon-religion-miracle": [
+   "religionmiracle00gord_1",
+   "Religion and Miracle (Boston and New York: Houghton Mifflin, 1909)"
+  ],
+  "gagordon-revelation-ideal": [
+   "revelationideal00gor",
+   "Revelation and the Ideal (Boston and New York: Houghton Mifflin, 1913)"
+  ],
+  "gagordon-infinite-mystery": [
+   "aspectsofinfinit00gord_0",
+   "Aspects of the Infinite Mystery (Boston and New York: Houghton Mifflin, 1916)"
+  ],
+  "gagordon-humanism-new-england": [
+   "humanisminneweng00gord_0",
+   "Humanism in New England Theology (Boston and New York: Houghton Mifflin, 1920)"
+  ],
+  "gagordon-education-religion": [
+   "myeducationrelig00gord_0",
+   "My Education and Religion: an Autobiography (Boston and New York: Houghton Mifflin, 1925)"
+  ]
+ },
+ "_alternates": {
+  "gagordon-copies": "The second impression of Religion and Miracle and other copies"
+ },
+ "_excluded": {
+  "gagordon-reprint": "witnesstoimmorta00gord: a post-1913 reprint catalogued 1893"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gagordon-witness-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gagordon-christ-of-today": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "gagordon-immortality-theodicy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gagordon-new-epoch": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gagordon-ultimate-conceptions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gagordon-through-man-to-god": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gagordon-religion-miracle": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gagordon-revelation-ideal": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gagordon-infinite-mystery": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gagordon-humanism-new-england": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gagordon-education-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

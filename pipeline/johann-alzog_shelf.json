@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain Johannes Baptist Alzog (1808-1878, Freiburg church historian) in English for the Word Hoard: the Manual of Universal Church History, tr. F. J. Pabisch and Thomas S. Byrne (3 vols, Cincinnati: Robert Clarke, 1874-1878), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alzog"
+ ],
+ "_surname": [
+  "alzog",
+  "john alzog"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alzog-church-history-1": [
+   "manualofuniversa01alzo",
+   "Manual of Universal Church History, vol. I, tr. F. J. Pabisch and Thos. S. Byrne (Cincinnati: Robert Clarke, 1874)"
+  ],
+  "alzog-church-history-2": [
+   "manualofuniversa02alzo",
+   "Manual of Universal Church History, vol. II, tr. F. J. Pabisch and Thos. S. Byrne (Cincinnati: Robert Clarke, 1876)"
+  ],
+  "alzog-church-history-3": [
+   "manualofuniversa03alzo",
+   "Manual of Universal Church History, vol. III, tr. F. J. Pabisch and Thos. S. Byrne (Cincinnati: Robert Clarke, 1878)"
+  ]
+ },
+ "_alternates": {
+  "alzog-copies": "The 1902 and 1903 Cincinnati impressions; the Dublin four-volume edition (Gill, 1890-1902); Benziger's History of the Church"
+ },
+ "_excluded": {
+  "alzog-other": "German, French, Italian and Spanish editions"
+ },
+ "_rights_checked": {
+  "alzog-church-history-1": "title page read: 'BY THE REVO DR W1O Ni. AZ OG' and translator 'ἘΠῚ ὦ PA BIS CH' (OCR garbles of John Alzog and F. J. Pabisch), with Thos. S. Byrne; Cincinnati, Robert Clarke, 1874"
+ },
+ "_pending": {
+  "alzog-patrology": "His Patrology: no English translation found"
+ },
+ "_translators": {
+  "alzog-church-history-2": "pabisch",
+  "alzog-church-history-3": "pabisch"
+ },
+ "_checks": {
+  "alzog-church-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alzog",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'BY THE REVO DR W1O Ni. AZ OG' and translator 'ἘΠῚ ὦ PA BIS CH' (OCR garbles of John Alzog and F. J. Pabisch), with Thos. S. Byrne; Cincinnati, Robert Clarke, 1874"
+  },
+  "alzog-church-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alzog",
+   "translator_claimed": "pabisch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alzog-church-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alzog",
+   "translator_claimed": "pabisch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

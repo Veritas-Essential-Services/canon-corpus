@@ -1,0 +1,568 @@
+{
+ "_about": "H. Irving Hancock's series stories for boys (the Grammar School, High School, West Point and Annapolis boys): every English text under his name at Gutenberg (catalogue: Hancock 1868-1922). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "H. Irving Hancock",
+ "_name_words": [
+  "hancock"
+ ],
+ "_surname": [
+  "h. irving hancock",
+  "harrie irving hancock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ihancock-dick-prescotts-first-year-at-west-point": [
+   6426,
+   "Dick Prescott's First Year at West Point; Or, Two Chums in the Cadet Gray"
+  ],
+  "ihancock-young-engineers-in-arizona": [
+   8153,
+   "The Young Engineers in Arizona; or, Laying Tracks on the Man-killer Quicksand"
+  ],
+  "ihancock-dave-darrins-second-year-at-annapolis": [
+   10045,
+   "Dave Darrin's Second Year at Annapolis Or, Two Midshipmen as Naval Academy \"Youngsters\""
+  ],
+  "ihancock-dave-darrins-third-year-at-annapolis": [
+   10319,
+   "Dave Darrin's Third Year at Annapolis; Or, Leaders of the Second Class Midshipmen"
+  ],
+  "ihancock-high-school-freshmen": [
+   12689,
+   "The High School Freshmen; or, Dick & Co.'s First Year Pranks and Sports"
+  ],
+  "ihancock-high-school-pitcher": [
+   12690,
+   "The High School Pitcher; or, Dick & Co. on the Gridley Diamond"
+  ],
+  "ihancock-high-school-left-end": [
+   12691,
+   "The High School Left End; or, Dick & Co. Grilling on the Football Gridiron"
+  ],
+  "ihancock-high-school-captain-of-the-team": [
+   12692,
+   "The High School Captain of the Team; or, Dick & Co. Leading the Athletic Vanguard"
+  ],
+  "ihancock-high-school-boys-canoe-club": [
+   12728,
+   "The High School Boys' Canoe Club"
+  ],
+  "ihancock-high-school-boys-in-summer-camp": [
+   12729,
+   "The High School Boys in Summer Camp"
+  ],
+  "ihancock-high-school-boys-fishing-trip": [
+   12730,
+   "The High School Boys' Fishing Trip"
+  ],
+  "ihancock-high-school-boys-training-hike": [
+   12731,
+   "The High School Boys' Training Hike"
+  ],
+  "ihancock-young-engineers-in-colorado": [
+   12734,
+   "The Young Engineers in Colorado; Or, At Railroad Building in Earnest"
+  ],
+  "ihancock-grammar-school-boys-in-summer-athletics": [
+   12735,
+   "The Grammar School Boys in Summer Athletics"
+  ],
+  "ihancock-dave-darrins-first-year-at-annapolis-two-plebe-mids": [
+   12774,
+   "Dave Darrin's First Year at Annapolis Two Plebe Midshipmen at the United States Naval Academy"
+  ],
+  "ihancock-dave-darrins-fourth-year-at-annapolis": [
+   12775,
+   "Dave Darrin's Fourth Year at Annapolis: Headed for Graduation and the Big Cruise"
+  ],
+  "ihancock-dave-darrin-at-vera-cruz": [
+   12776,
+   "Dave Darrin at Vera Cruz: Fighting with the U.S. Navy in Mexico"
+  ],
+  "ihancock-young-engineers-in-nevada": [
+   12777,
+   "The Young Engineers in Nevada; Or, Seeking Fortune on the Turn of a Pick"
+  ],
+  "ihancock-young-engineers-in-mexico": [
+   12778,
+   "The Young Engineers in Mexico; Or, Fighting the Mine Swindlers"
+  ],
+  "ihancock-dick-prescotts-third-year-at-west-point": [
+   12806,
+   "Dick Prescott's Third Year at West Point; Or, Standing Firm for Flag and Honor"
+  ],
+  "ihancock-dick-prescotts-fourth-year-at-west-point": [
+   12807,
+   "Dick Prescott's Fourth Year at West Point Or, Ready to Drop the Gray for Shoulder Straps"
+  ],
+  "ihancock-uncle-sams-boys-with-pershings-troops": [
+   12810,
+   "Uncle Sam's Boys with Pershing's Troops Or, Dick Prescott at Grips with the Boche"
+  ],
+  "ihancock-dick-prescotts-second-year-at-west-point": [
+   12819,
+   "Dick Prescott's Second Year at West Point Or, Finding the Glory of the Soldier's Life"
+  ],
+  "ihancock-young-engineers-on-the-gulf": [
+   14369,
+   "The Young Engineers on the Gulf Or, The Dread Mystery of the Million Dollar Breakwater"
+  ],
+  "ihancock-grammar-school-boys-snowbound": [
+   20789,
+   "The Grammar School Boys Snowbound; or, Dick & Co. at Winter Sports",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-grammar-school-boys-of-gridley": [
+   22307,
+   "The Grammar School Boys of Gridley; or, Dick & Co. Start Things Moving",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-dave-darrin-on-mediterranean-service": [
+   22431,
+   "Dave Darrin on Mediterranean Service; or, With Dan Dalzell on European Duty"
+  ],
+  "ihancock-dave-darrin-after-the-mine-layers": [
+   23036,
+   "Dave Darrin After the Mine Layers; Or, Hitting the Enemy a Hard Naval Blow"
+  ],
+  "ihancock-uncle-sams-boys-in-the-philippines": [
+   23447,
+   "Uncle Sam's Boys in the Philippines; or, Following the Flag against the Moros",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-uncle-sams-boys-as-lieutenants": [
+   26381,
+   "Uncle Sam's Boys as Lieutenants; or, Serving Old Glory as Line Officers"
+  ],
+  "ihancock-uncle-sams-boys-as-sergeants": [
+   27679,
+   "Uncle Sam's Boys as Sergeants; or, Handling Their First Real Commands",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-uncle-sams-boys-in-the-ranks": [
+   27680,
+   "Uncle Sam's Boys in the Ranks; or, Two Recruits in the United States Army",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-motor-boat-club-and-the-wireless": [
+   28449,
+   "The Motor Boat Club and The Wireless; Or, the Dot, Dash and Dare Cruise",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-motor-boat-club-at-nantucket": [
+   40605,
+   "The Motor Boat Club at Nantucket; or, The Mystery of the Dunstan Heir",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-dave-darrin-and-the-german-submarines": [
+   41628,
+   "Dave Darrin and the German Submarines Or, Making a Clean-up of the Hun Sea Monsters"
+  ],
+  "ihancock-dave-darrin-on-the-asiatic-station": [
+   41661,
+   "Dave Darrin on the Asiatic Station Or, Winning Lieutenants' Commissions on the Admiral's Flagship"
+  ],
+  "ihancock-motor-boat-club-in-florida": [
+   48459,
+   "The Motor Boat Club in Florida; or, Laying the Ghost of Alligator Swamp"
+  ],
+  "ihancock-motor-boat-club-off-long-island": [
+   48863,
+   "The Motor Boat Club off Long Island; or, A Daring Marine Game at Racing Speed",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-motor-boat-club-at-the-golden-gate": [
+   49030,
+   "The Motor Boat Club at the Golden Gate; or, A Thrilling Capture in the Great Fog",
+   {
+    "contents_only": true
+   }
+  ],
+  "ihancock-uncle-sams-boys-on-field-duty": [
+   52755,
+   "Uncle Sam's Boys on Field Duty; or, Winning Corporal's Chevrons",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ihancock-dick-prescotts-first-year-at-west-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-young-engineers-in-arizona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrins-second-year-at-annapolis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrins-third-year-at-annapolis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-freshmen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-pitcher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-left-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-captain-of-the-team": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-boys-canoe-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-boys-in-summer-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-boys-fishing-trip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-high-school-boys-training-hike": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-young-engineers-in-colorado": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-grammar-school-boys-in-summer-athletics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrins-first-year-at-annapolis-two-plebe-mids": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrins-fourth-year-at-annapolis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrin-at-vera-cruz": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-young-engineers-in-nevada": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-young-engineers-in-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dick-prescotts-third-year-at-west-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dick-prescotts-fourth-year-at-west-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-uncle-sams-boys-with-pershings-troops": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dick-prescotts-second-year-at-west-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-young-engineers-on-the-gulf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-grammar-school-boys-snowbound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-grammar-school-boys-of-gridley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrin-on-mediterranean-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrin-after-the-mine-layers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-uncle-sams-boys-in-the-philippines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-uncle-sams-boys-as-lieutenants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-uncle-sams-boys-as-sergeants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-uncle-sams-boys-in-the-ranks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-motor-boat-club-and-the-wireless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-motor-boat-club-at-nantucket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrin-and-the-german-submarines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-dave-darrin-on-the-asiatic-station": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-motor-boat-club-in-florida": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-motor-boat-club-off-long-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-motor-boat-club-at-the-golden-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ihancock-uncle-sams-boys-on-field-duty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. irving hancock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "_about": "Public-domain Jean-Baptiste Massillon (1663-1742, Oratorian, Bishop of Clermont) in English for the Word Hoard: the Petit Carême as Sermons on the Duties of the Great tr. William Dodd (1770), William Dickson's selected Sermons (2 vols, Brooklyn, 1803), Abel Flint's Sermons of Massillon and Bourdaloue with Massillon's Paraphrase of the Psalms (Hartford, 1805), the Charges to his Clergy (New York, 1806), the Ecclesiastical Conferences tr. C. H. Boylan (2 vols, Dublin, 1825), and Select Sermons tr. Rutton Morris (1830), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "massillon"
+ ],
+ "_surname": [
+  "massillon",
+  "m. massillon",
+  "j. b. massillon",
+  "john baptist massillon",
+  "jean baptiste massillon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "massillon-duties-of-the-great-dodd": [
+   "bim_eighteenth-century_sermons-on-the-duties-o_massillon-jean-baptiste_1770",
+   "Sermons on the Duties of the Great (the Petit Carême), translated by William Dodd (Dublin; M,DCC,LXX)"
+  ],
+  "massillon-sermons-dickson-1": [
+   "sermonsmjb01mass",
+   "Sermons by J. B. Massillon, selected and translated by William Dickson, vol. I (Brooklyn: Thomas S. Arden, 1803)"
+  ],
+  "massillon-sermons-dickson-2": [
+   "sermons01dickgoog",
+   "Sermons by J. B. Massillon, selected and translated by William Dickson, vol. II (Brooklyn: Thomas S. Arden, 1803)"
+  ],
+  "massillon-bourdaloue-flint-1805": [
+   "sermonsofjohnbap00mass_0",
+   "Sermons of John Baptist Massillon and Lewis Bourdaloue, with a Spiritual Paraphrase of some of the Psalms by Massillon, tr. Abel Flint (Hartford: Lincoln and Gleason, 1805)"
+  ],
+  "massillon-charges-1806": [
+   "chargesofjeanbap00mass",
+   "The Charges of Jean Baptiste Massillon addressed to his clergy, by Theophilus St. John (New-York: D. & G. Bruce, 1806)"
+  ],
+  "massillon-conferences-boylan-1": [
+   "ecclesiasticalco01massuoft",
+   "The Ecclesiastical Conferences, Synodal Discourses and Episcopal Mandates of Massillon, tr. C. H. Boylan, vol. I (Dublin: Milliken and Coyne, 1825)"
+  ],
+  "massillon-conferences-boylan-2": [
+   "ecclesiasticalco02massuoft",
+   "The Ecclesiastical Conferences, Synodal Discourses and Episcopal Mandates of Massillon, tr. C. H. Boylan, vol. II (Dublin: Milliken and Coyne, 1825)"
+  ],
+  "massillon-select-sermons-morris": [
+   "SelectSermonsTrByRMorris",
+   "Select Sermons from Jean-Baptiste Massillon, tr. Rutton Morris (London: printed for the translator, MDCCCXXX)"
+  ]
+ },
+ "_alternates": {
+  "massillon-dickson-other": "Dickson's Edinburgh selection (catalogued 1797; vol. III 1798) and Philadelphia 1818",
+  "massillon-peach": "Sermons for Every Sunday and Festival, chiefly taken from Massillon, by Edward Peach (catalogued 1807; Dublin 1851): adapted",
+  "massillon-other-copies": "Other copies of the Charges; Glasgow 1827, London 1837-1839 and Boston 1845 Sermons; Selections (Hatchard, 1826); Moore's Sermons (catalogued 1889)"
+ },
+ "_excluded": {
+  "massillon-french": "Petit Carême and other French editions catalogued as English",
+  "massillon-anthology": "The Pulpit Orator (1804) and Great French Sermons (1917)",
+  "massillon-crabb": "Crabb's 1796 Sermons, only partly Massillon"
+ },
+ "_identity_checked": {},
+ "_rights_checked": {
+  "massillon-sermons-dickson-1": "title page read: 'Selected and translated by William DICKSO^N' (OCR garble), so the translator is not claimed for this volume"
+ },
+ "_pending": {},
+ "_translators": {
+  "massillon-duties-of-the-great-dodd": "dodd",
+  "massillon-sermons-dickson-2": "dickson",
+  "massillon-bourdaloue-flint-1805": "flint",
+  "massillon-conferences-boylan-1": "boylan",
+  "massillon-conferences-boylan-2": "boylan",
+  "massillon-select-sermons-morris": "morris"
+ },
+ "_checks": {
+  "massillon-duties-of-the-great-dodd": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "translator_claimed": "dodd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1770",
+   "ia_date": "1770",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "massillon-sermons-dickson-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Selected and translated by William DICKSO^N' (OCR garble), so the translator is not claimed for this volume"
+  },
+  "massillon-sermons-dickson-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "translator_claimed": "dickson",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "massillon-bourdaloue-flint-1805": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "translator_claimed": "flint",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "massillon-charges-1806": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "massillon-conferences-boylan-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "translator_claimed": "boylan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "massillon-conferences-boylan-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "translator_claimed": "boylan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "massillon-select-sermons-morris": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "massillon",
+   "translator_claimed": "morris",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

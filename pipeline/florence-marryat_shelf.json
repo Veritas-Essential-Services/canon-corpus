@@ -1,0 +1,386 @@
+{
+ "_about": "Florence Marryat's novels and her books on spiritualism: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Florence Marryat",
+ "_name_words": [
+  "marryat"
+ ],
+ "_surname": [
+  "florence marryat"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fmarryat-there-is-no-death": [
+   39212,
+   "There is No Death"
+  ],
+  "fmarryat-blood-of-the-vampire": [
+   68277,
+   "The blood of the vampire"
+  ],
+  "fmarryat-hampstead-mystery": [
+   69217,
+   "The Hampstead mystery: a novel. Volume 2 (of 3)"
+  ],
+  "fmarryat-hampstead-mystery-69286": [
+   69286,
+   "The Hampstead mystery: a novel. Volume 1 (of 3)"
+  ],
+  "fmarryat-hampstead-mystery-71035": [
+   71035,
+   "The Hampstead mystery: a novel. Volume 3 (of 3)"
+  ],
+  "fmarryat-a-moment-of-madness-and-other-stories-vol-1-of-3": [
+   72574,
+   "A moment of madness, and other stories (vol. 1 of 3)"
+  ],
+  "fmarryat-a-moment-of-madness-and-other-stories-vol-2-of-3": [
+   72575,
+   "A moment of madness, and other stories (vol. 2 of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmarryat-a-moment-of-madness-and-other-stories-vol-3-of-3": [
+   72576,
+   "A moment of madness, and other stories (vol. 3 of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmarryat-a-bankrupt-heart-vol-1-of-3": [
+   73972,
+   "A bankrupt heart, Vol. 1 (of 3)"
+  ],
+  "fmarryat-a-bankrupt-heart-vol-2-of-3": [
+   73973,
+   "A bankrupt heart, Vol. 2 (of 3)"
+  ],
+  "fmarryat-a-bankrupt-heart-vol-3-of-3": [
+   73974,
+   "A bankrupt heart, Vol. 3 (of 3)"
+  ],
+  "fmarryat-a-crown-of-shame-volume-1-of-3": [
+   75274,
+   "A crown of shame, volume 1 (of 3)"
+  ],
+  "fmarryat-a-crown-of-shame-volume-2-of-3": [
+   75275,
+   "A crown of shame, volume 2 (of 3)"
+  ],
+  "fmarryat-a-crown-of-shame-volume-3-of-3": [
+   75276,
+   "A crown of shame, volume 3 (of 3)"
+  ],
+  "fmarryat-driven-to-bay-vol-1-of-3": [
+   75726,
+   "Driven to bay, Vol. 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmarryat-driven-to-bay-vol-2-of-3": [
+   75727,
+   "Driven to bay, Vol. 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmarryat-driven-to-bay-vol-3-of-3": [
+   75728,
+   "Driven to bay, Vol. 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmarryat-strange-transfiguration-of-hannah-stubbs": [
+   76579,
+   "The strange transfiguration of Hannah Stubbs"
+  ],
+  "fmarryat-a-broken-blossom-vol-2-of-3": [
+   76780,
+   "A broken blossom,  vol. 2 of 3"
+  ],
+  "fmarryat-a-broken-blossom-vol-3-of-3": [
+   76781,
+   "A broken blossom,  vol. 3 of 3"
+  ],
+  "fmarryat-ghost-of-charlotte-cray-and-other-stories": [
+   76950,
+   "The ghost of Charlotte Cray, and other stories"
+  ],
+  "fmarryat-how-they-loved-him-vol-1-of-3": [
+   78031,
+   "How they loved him, Vol. 1 (of 3)"
+  ],
+  "fmarryat-how-they-loved-him-vol-2-of-3": [
+   78111,
+   "How they loved him, Vol. 2 (of 3)"
+  ],
+  "fmarryat-a-broken-blossom-vol-1-of-3": [
+   78292,
+   "A broken blossom vol. 1 of 3"
+  ],
+  "fmarryat-a-fatal-silence-vol-1-of-3": [
+   78503,
+   "A fatal silence, vol. 1 (of 3)"
+  ],
+  "fmarryat-a-fatal-silence-vol-2-of-3": [
+   78596,
+   "A fatal silence, vol. 2 (of 3)"
+  ],
+  "fmarryat-a-fatal-silence-vol-3-of-3": [
+   78598,
+   "A fatal silence, vol. 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "fmarryat-there-is-no-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-blood-of-the-vampire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-hampstead-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-hampstead-mystery-69286": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-hampstead-mystery-71035": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-moment-of-madness-and-other-stories-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-moment-of-madness-and-other-stories-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-moment-of-madness-and-other-stories-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-bankrupt-heart-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-bankrupt-heart-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-bankrupt-heart-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-crown-of-shame-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-crown-of-shame-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-crown-of-shame-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-driven-to-bay-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-driven-to-bay-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-driven-to-bay-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-strange-transfiguration-of-hannah-stubbs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-broken-blossom-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-broken-blossom-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-ghost-of-charlotte-cray-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-how-they-loved-him-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-how-they-loved-him-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-broken-blossom-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-fatal-silence-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-fatal-silence-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmarryat-a-fatal-silence-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "florence marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Frances Elizabeth Cox (1812-1897), translator of 'Jesus lives! thy terrors now': Sacred Hymns from the German (1841) and Hymns from the German (1864). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "frances elizabeth cox"
+ ],
+ "_surname": [
+  "frances elizabeth cox"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fec-39439": [
+   39439,
+   "Hymns from the German Translated by Frances Elizabeth Cox"
+  ],
+  "fec-39440": [
+   39440,
+   "Sacred Hymns from the German Translated by Frances Elizabeth Cox"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "fe-cox-hymns-from-the-german-translated-by-fran": {
+   "source": "fec-39439",
+   "of": "various German hymn writers (anthology)",
+   "work": "Hymns from the German Translated by Frances Elizabeth Cox",
+   "translated": "1841-1864 (see the Gutenberg header)",
+   "translator": "Frances Elizabeth Cox",
+   "scan_edition": "Project Gutenberg 39439 (clean text)"
+  },
+  "fe-cox-sacred-hymns-from-the-german-translated": {
+   "source": "fec-39440",
+   "of": "various German hymn writers (anthology)",
+   "work": "Sacred Hymns from the German Translated by Frances Elizabeth Cox",
+   "translated": "1841-1864 (see the Gutenberg header)",
+   "translator": "Frances Elizabeth Cox",
+   "scan_edition": "Project Gutenberg 39440 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fec-39439": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances elizabeth cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Elizabeth Cox"
+  },
+  "fec-39440": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances elizabeth cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Elizabeth Cox"
+  }
+ },
+ "_verified": {
+  "fec-39439": {
+   "pg": 39439,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Elizabeth Cox"
+  },
+  "fec-39440": {
+   "pg": 39440,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Elizabeth Cox"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

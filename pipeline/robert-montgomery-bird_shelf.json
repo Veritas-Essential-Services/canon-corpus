@@ -1,0 +1,111 @@
+{
+ "_about": "Robert Montgomery Bird: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Robert Montgomery Bird",
+ "_name_words": [
+  "bird",
+  "montgomery",
+  "robert"
+ ],
+ "_surname": [
+  "robert montgomery bird"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rmbird-nick-of-the-woods": [
+   13970,
+   "Nick of the Woods; Or, Adventures of Prairie Life"
+  ],
+  "rmbird-calavar": [
+   34121,
+   "Calavar; or, The Knight of The Conquest, A Romance of Mexico"
+  ],
+  "rmbird-infidel": [
+   34529,
+   "The Infidel; or, the Fall of Mexico. Vol. I."
+  ],
+  "rmbird-infidel-34530": [
+   34530,
+   "The Infidel; or, the Fall of Mexico. Vol. II."
+  ],
+  "rmbird-sheppard-lee-written-by-himself-vol-1-of-2": [
+   46621,
+   "Sheppard Lee, Written by Himself. Vol. 1 (of 2)"
+  ],
+  "rmbird-sheppard-lee-written-by-himself-vol-2-of-2": [
+   46622,
+   "Sheppard Lee, Written by Himself. Vol. 2 (of 2)"
+  ],
+  "rmbird-hawks-of-hawk-hollow": [
+   65637,
+   "The Hawks of Hawk-Hollow: A Tradition of Pennsylavania"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rmbird-nick-of-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert montgomery bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmbird-calavar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert montgomery bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmbird-infidel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert montgomery bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmbird-infidel-34530": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert montgomery bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmbird-sheppard-lee-written-by-himself-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert montgomery bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmbird-sheppard-lee-written-by-himself-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert montgomery bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmbird-hawks-of-hawk-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert montgomery bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

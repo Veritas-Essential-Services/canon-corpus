@@ -1,0 +1,111 @@
+{
+ "_about": "Public-domain Richard Allestree (1619-1681), Regius Professor of Divinity at Oxford and Provost of Eton, for the Word Hoard: the devotional books published anonymously as 'by the author of The Whole Duty of Man', and long attributed to him: The Practice of Christian Graces, or The Whole Duty of Man (first edition, 1658), Private Devotions for Several Occasions (1660), The Gentleman's Calling (1660), The Causes of the Decay of Christian Piety (1667) and The Government of the Tongue (fifth impression, after 1674). The attribution is the scholarly consensus, not a title-page statement. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 68 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "allestree",
+  "allestry"
+ ],
+ "_surname": [
+  "allestree",
+  "allestry",
+  "allestrie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "allestree-practice-christian-graces-1658": [
+   "bim_early-english-books-1641-1700_the-practice-of-christia_allestree-richard_1658",
+   "The Practice of Christian Graces, or The Whole Duty of Man, with Private Devotions (London: D. Maxwell for T. Garthwait, 1658): the first edition of The Whole Duty of Man"
+  ],
+  "allestree-private-devotions-1660": [
+   "bim_early-english-books-1641-1700_private-devotions-for-se_allestree-richard_1660",
+   "Private Devotions for Several Occasions (London, 1660)"
+  ],
+  "allestree-gentlemans-calling-1660": [
+   "allestreegentlemanscalling",
+   "The Gentleman's Calling (London: T. Garthwait, 1660)"
+  ],
+  "allestree-decay-piety-1667": [
+   "causesofdecayofc00alle",
+   "The Causes of the Decay of Christian Piety (London: R. Norton for T. Garthwait, 1667)"
+  ],
+  "allestree-government-tongue-fifth-impression": [
+   "bim_early-english-books-1641-1700_the-government-of-the-to_allestree-richard_1667",
+   "The Government of the Tongue, fifth impression (Oxford: at the Theater; title-page date read as M.DC.LXVII, but the imprimatur is dated 24 January 1675 and the book first appeared in 1674, so this printing is 1675 or later)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "allestree-almanacs": "almanacs of 1617-1643 under the name Richard Allestree: by the Derbyshire almanac-maker of that name, not the divine",
+  "allestree-sermons": "Forty Sermons (1684) not found in a usable scan this round",
+  "allestree-whole-duty-1659": "The Whole Duty of Man (London: T. Garthwait, 1659; bim_early-english-books-1641-1700_the-whole-duty-of-man-_allestree-richard_1659): a later printing of the 1658 first edition shelved"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "allestree-practice-christian-graces-1658": "title page read from the page image names no author: 'The Practice of Christian Graces, or The Whole Duty of Man laid down in a plaine and familiar way ... London, Printed by D. Maxwell for T. Garthwait ... 1658'; published anonymously; the attribution to Allestree is the scholarly consensus, as the _about says",
+  "allestree-private-devotions-1660": "title page read from the page image names no author: 'Private Devotions for several Occasions, Ordinary and Extraordinary. London, Printed for T. Garthwait ... 1660'; published anonymously; the attribution to Allestree is the scholarly consensus, as the _about says",
+  "allestree-gentlemans-calling-1660": "engraved title page read from the page image names no author: 'The Gentlemans Calling ... London, Printed for Tim. Garthwait, 1660'; published anonymously; the attribution to Allestree is the scholarly consensus, as the _about says",
+  "allestree-decay-piety-1667": "title page read from the page image: 'The Causes of the Decay of Christian Piety ... Written by the Author of The Whole Duty of Man. London, Printed by R. Norton for T. Garthwait ... 1667'; published anonymously; the attribution to Allestree is the scholarly consensus, as the _about says",
+  "allestree-government-tongue-fifth-impression": "title page read from the page image: 'The Government of the Tongue. By the Author of The Whole Duty of Man, &c. The fifth Impression. At the Theater in Oxford'; published anonymously; the attribution to Allestree is the scholarly consensus, as the _about says"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "allestree-practice-christian-graces-1658": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "allestree-private-devotions-1660": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "allestree-gentlemans-calling-1660": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "allestree-decay-piety-1667": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1667",
+   "ia_date": "1667",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "allestree-government-tongue-fifth-impression": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1667",
+   "ia_date": "1667",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

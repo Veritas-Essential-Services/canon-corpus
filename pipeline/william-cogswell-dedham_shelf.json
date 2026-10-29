@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain William Cogswell (1787-1850), Congregational minister of Dedham, secretary of the American Education Society and later president of Gilmanton Theological Seminary, for the Word Hoard: The Theological Class Book, The Harbinger of the Millennium, Assistant to Family Religion, Letters to Young Men preparing for the Christian Ministry, The Christian Philanthropist, and his Dedham valedictory discourse. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 107 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william cogswell",
+  "w. cogswell"
+ ],
+ "_surname": [
+  "william cogswell",
+  "w. cogswell",
+  "cogswell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wcogswell-valedictory": [
+   "avaledictorydis00cogsgoog",
+   "A Valedictory Discourse, Preached to the South Church and Parish in Dedham, December 20, 1829 (Perkins & Marvin, 1830)"
+  ],
+  "wcogswell-class-book": [
+   "theologicalclass00cogs",
+   "The theological class book; containing a system of divinity, in the form of question and answer, accompanied with Scripture proofs, designed for the benefit of theological classes, and the higher classes in Sabbath schools (Boston, Crocker and Brewster; New York, J. Leavitt, 1832)"
+  ],
+  "wcogswell-harbinger": [
+   "harbingerofmille00cogs",
+   "The harbinger of the millennium; with an appendix (Boston, Peirce and Parker, 1833)"
+  ],
+  "wcogswell-family-religion": [
+   "assistanttofami01cogsgoog",
+   "Assistant to Family Religion, Or, Manual of Theology and Devotions (Published by Crocker & Brewster [etc.], 1836)"
+  ],
+  "wcogswell-letters-young-men": [
+   "letterstoyoungme00cogs",
+   "Letters to young men preparing for the Christian ministry (Boston, Perkins & Marvin ; Philadelphia, H. Perkins, 1837)"
+  ],
+  "wcogswell-philanthropist": [
+   "christianphilant00cogs",
+   "The Christian philanthropist; or, Harbinger of the millennium (Boston, Perkins & Marvin [etc.], 1839)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wcogswell-halifax": "The Halifax, Nova Scotia lectures and sermons (CIHM microfiche) are by William Cogswell, curate of St Paul's, Halifax, a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wcogswell-valedictory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cogswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wcogswell-class-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cogswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wcogswell-harbinger": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cogswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wcogswell-family-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cogswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wcogswell-letters-young-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cogswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wcogswell-philanthropist": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cogswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

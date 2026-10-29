@@ -1,0 +1,176 @@
+{
+ "_about": "Charles Garvice: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Charles Garvice",
+ "_name_words": [
+  "charles",
+  "garvice"
+ ],
+ "_surname": [
+  "charles garvice",
+  "garvice"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cgarvice-at-loves-cost": [
+   10379,
+   "At love's cost"
+  ],
+  "cgarvice-adrien-leroy": [
+   16682,
+   "Adrien Leroy"
+  ],
+  "cgarvice-womans-way": [
+   19411,
+   "The woman's way"
+  ],
+  "cgarvice-nell-of-shorne-mills": [
+   22961,
+   "Nell, of Shorne Mills"
+  ],
+  "cgarvice-only-one-love": [
+   35523,
+   "Only one love"
+  ],
+  "cgarvice-wild-margaret": [
+   44828,
+   "Wild Margaret"
+  ],
+  "cgarvice-spider-and-the-fly": [
+   49537,
+   "The spider and the fly"
+  ],
+  "cgarvice-leslies-loyalty": [
+   50440,
+   "Leslie's loyalty"
+  ],
+  "cgarvice-only-a-girls-love": [
+   53416,
+   "Only a girl's love"
+  ],
+  "cgarvice-just-a-girl": [
+   57166,
+   "Just a girl"
+  ],
+  "cgarvice-olivia": [
+   70446,
+   "Olivia"
+  ],
+  "cgarvice-womans-soul": [
+   74103,
+   "A woman's soul"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cgarvice-at-loves-cost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-adrien-leroy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-womans-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-nell-of-shorne-mills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-only-one-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-wild-margaret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-spider-and-the-fly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-leslies-loyalty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-only-a-girls-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-just-a-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-olivia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarvice-womans-soul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles garvice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

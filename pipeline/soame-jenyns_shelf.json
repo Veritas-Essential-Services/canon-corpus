@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Soame Jenyns (1704-1787), Member of Parliament and lay apologist, for the Word Hoard: A View of the Internal Evidence of the Christian Religion (third edition, 1776), A Free Inquiry into the Nature and Origin of Evil (third edition, 1758) and Poems upon Various Subjects (1768). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 68 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jenyns"
+ ],
+ "_surname": [
+  "jenyns",
+  "jenyn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jenyns-internal-evidence-1776": [
+   "aviewinternalev00jenygoog",
+   "A View of the Internal Evidence of the Christian Religion, third edition (London: J. Dodsley, 1776)"
+  ],
+  "jenyns-free-inquiry-evil-1758": [
+   "afreeinquiryint01jenygoog",
+   "A Free Inquiry into the Nature and Origin of Evil, in six letters, third edition, amended (London: R. and J. Dodsley, 1758)"
+  ],
+  "jenyns-poems-1768": [
+   "poemsuponvariou00jenygoog",
+   "Poems upon Various Subjects, Latin and English (London: J. Nourse, 1768)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jenyns-high-price-provisions-1767": "Thoughts on the Causes and Consequences of the Present High Price of Provisions (London: J. Dodsley, 1767): anonymous, its title page names no author, and it is an economic pamphlet, not theology"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jenyns-internal-evidence-1776": "title page OCR reads 'By S O A M £ J E NV ... THE THIRD EDITION ... LONDON: Printed for J. DODSLEY, in Pall-Mall. M.DCC.LXXVI' (OCR garbled)",
+  "jenyns-free-inquiry-evil-1758": "title page read from the page image names no author ('The third edition, amended. London: Printed for R. and J. Dodsley, in Pall-Mall. MDCCLVIII'; a library hand has written 'Jenyns, Soame' above it): published anonymously; Jenyns's, and reprinted in his Works"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jenyns-internal-evidence-1776": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1776",
+   "ia_date": "1776",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jenyns-free-inquiry-evil-1758": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "1758",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jenyns-poems-1768": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jenyns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

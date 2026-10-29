@@ -1,0 +1,164 @@
+{
+ "_about": "Margaret M. Robertson's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Margaret M. Robertson",
+ "_name_words": [
+  "margaret",
+  "murray",
+  "robertson"
+ ],
+ "_surname": [
+  "margaret m. robertson",
+  "margaret murray robertson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mmrobertson-christie-redferns-troubles": [
+   21226,
+   "Christie Redfern's Troubles"
+  ],
+  "mmrobertson-shenacs-work-at-home": [
+   21227,
+   "Shenac's Work at Home"
+  ],
+  "mmrobertson-janets-love-and-service": [
+   23266,
+   "Janet's Love and Service"
+  ],
+  "mmrobertson-stephen-grattans-faith": [
+   23323,
+   "Stephen Grattan's Faith: A Canadian Story"
+  ],
+  "mmrobertson-allison-bain": [
+   24963,
+   "Allison Bain; Or, By a Way She Knew Not"
+  ],
+  "mmrobertson-david-flemings-forgiveness": [
+   27930,
+   "David Fleming's Forgiveness"
+  ],
+  "mmrobertson-orphans-of-glen-elder": [
+   27983,
+   "The Orphans of Glen Elder"
+  ],
+  "mmrobertson-inglises": [
+   28179,
+   "The Inglises; Or, How the Way Opened"
+  ],
+  "mmrobertson-eunice": [
+   38196,
+   "Eunice"
+  ],
+  "mmrobertson-twa-miss-dawsons": [
+   38197,
+   "The Twa Miss Dawsons"
+  ],
+  "mmrobertson-frederica-and-her-guardians": [
+   38198,
+   "Frederica and her Guardians; Or, The Perils of Orphanhood"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mmrobertson-christie-redferns-troubles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-shenacs-work-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-janets-love-and-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-stephen-grattans-faith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-allison-bain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-david-flemings-forgiveness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-orphans-of-glen-elder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-inglises": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-eunice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-twa-miss-dawsons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmrobertson-frederica-and-her-guardians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "_about": "Bessie Marchant: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Bessie Marchant",
+ "_name_words": [
+  "bessie",
+  "marchant"
+ ],
+ "_surname": [
+  "bessie marchant",
+  "marchant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bmarchant-countess-from-canada": [
+   11110,
+   "A Countess from Canada: A Story of Life in the Backwoods"
+  ],
+  "bmarchant-adventurous-seven": [
+   22744,
+   "The Adventurous Seven: Their Hazardous Undertaking"
+  ],
+  "bmarchant-daughters-of-the-dominion": [
+   48265,
+   "Daughters of the Dominion: A Story of the Canadian Frontier"
+  ],
+  "bmarchant-canadian-farm-mystery": [
+   48372,
+   "A Canadian Farm Mystery; Or, Pam the Pioneer"
+  ],
+  "bmarchant-youngest-sister": [
+   48942,
+   "The Youngest Sister: A Tale of Manitoba"
+  ],
+  "bmarchant-by-honour-bound": [
+   65558,
+   "By Honour Bound: A School Story for Girls"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bmarchant-countess-from-canada": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bessie marchant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmarchant-adventurous-seven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bessie marchant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmarchant-daughters-of-the-dominion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bessie marchant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmarchant-canadian-farm-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bessie marchant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmarchant-youngest-sister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bessie marchant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmarchant-by-honour-bound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bessie marchant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

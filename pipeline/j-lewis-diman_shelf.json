@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain J. Lewis Diman, Congregational minister and professor of history at Brown University, for the Word Hoard: The Theistic Argument as Affected by Recent Theories, Orations and Essays with Selected Parish Sermons, The Nation and the Constitution, and The Alienation of the Educated Class from Politics. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 126 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. lewis diman",
+  "jeremiah lewis diman",
+  "j. l. diman",
+  "diman"
+ ],
+ "_surname": [
+  "diman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "diman-nation-constitution": [
+   "nationconstituti00dima",
+   "The nation and the Constitution. An oration delivered before the city authorities and citizens of Providence, July 4, 1866 (Providence : Providence Press Company, 1866)"
+  ],
+  "diman-alienation": [
+   "alienationofeduc00dima",
+   "The alienation of the educated class from politics (Providence, S. S. Rider, 1876)"
+  ],
+  "diman-theistic-argument": [
+   "theisticargument0000dima",
+   "The theistic argument as affected by recent theories (Boston : Houghton, Mifflin, 1881)"
+  ],
+  "diman-orations-sermons": [
+   "orationsessayswi00dima",
+   "Orations and essays : with selected parish sermons (Boston : Houghton, Mifflin, and Co., 1882)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "diman-theistic-dup": "bwb_Y0-CQH-907, a later printing of The Theistic Argument"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "diman-roger-williams": "Ceremonies at the Unveiling of the Monument to Roger Williams (1877), IA ceremoniesatunv00coungoog: his oration with other men's addresses (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "diman-nation-constitution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "diman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "diman-alienation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "diman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "diman-theistic-argument": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "diman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "diman-orations-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "diman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

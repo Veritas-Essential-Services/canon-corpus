@@ -1,0 +1,33 @@
+{
+ "_about": "Noah Porter (1811-1892), raw IA OCR (Google scan): The Human Intellect, with an introduction upon psychology and the soul, second edition (New York: Charles Scribner, 1869). US public domain. No uids minted.",
+ "_author": "Noah Porter",
+ "_name_words": [
+  "noah",
+  "porter"
+ ],
+ "_surname": [
+  "noah porter"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "porter-human-intellect-1869": [
+   "humanintellectw00portgoog",
+   "The Human Intellect, second edition (New York: Charles Scribner, 1869)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "porter-human-intellect-1869": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "noah porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

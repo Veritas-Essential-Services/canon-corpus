@@ -1,0 +1,151 @@
+{
+ "_about": "Mabel Quiller-Couch's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mabel Quiller-Couch",
+ "_name_words": [
+  "couch",
+  "mabel",
+  "quiller"
+ ],
+ "_surname": [
+  "mabel quiller couch",
+  "quiller couch"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mqcouch-kitty-trenire": [
+   13992,
+   "Kitty Trenire"
+  ],
+  "mqcouch-story-of-jessie": [
+   16268,
+   "The Story of Jessie"
+  ],
+  "mqcouch-dick-and-brownie": [
+   16969,
+   "Dick and Brownie"
+  ],
+  "mqcouch-paul-the-courageous": [
+   26087,
+   "Paul the Courageous"
+  ],
+  "mqcouch-cornwalls-wonderland": [
+   26755,
+   "Cornwall's Wonderland"
+  ],
+  "mqcouch-carroll-girls": [
+   29171,
+   "The Carroll Girls"
+  ],
+  "mqcouch-making-of-mona": [
+   30402,
+   "The Making of Mona"
+  ],
+  "mqcouch-anxious-audrey": [
+   31173,
+   "Anxious Audrey"
+  ],
+  "mqcouch-better-than-play": [
+   31836,
+   "Better than Play"
+  ],
+  "mqcouch-mean-wells": [
+   64258,
+   "The Mean-Wells"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mqcouch-kitty-trenire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-story-of-jessie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-dick-and-brownie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-paul-the-courageous": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-cornwalls-wonderland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-carroll-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-making-of-mona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-anxious-audrey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-better-than-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mqcouch-mean-wells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel quiller couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

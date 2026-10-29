@@ -1,0 +1,3355 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 (2026-10-23, vetoable) added Butts and Browne's Turgenev, Spring Floods and A Lear of the Steppe (1874), Pasvolsky's Kuprin, The Bracelet of Garnets (1917), Tollemache's Russian Sketches (1913), Baskerville's Gogol, Taras Bulba (1907), and Telfer's Pushkin, Russian Romance (1875). Round 124 (2026-10-23, vetoable) added Vikelas twice, Loukis Laras (J. Gennadius, 1881) and Tales from the Aegean (Leonard Eckstein Opdycke, 1894). Round 125 (2026-10-23, vetoable) added Jensen's Gradiva (Helen M. Downey, 1918). Round 126 (2026-10-23, vetoable) added Undset's The Mistress of Husaby (Charles Archer, Grosset & Dunlap fourth printing, December 1928) and Juhani Aho's Squire Hellman and Other Stories (R. Nisbet Bain, 1893). Round 127 (2026-10-23, vetoable) added Sholom Asch's America (James Fuchs, 1918).",
+ "_name_words": [
+  "a. e. chamot",
+  "a. w. wheen",
+  "agatha hughes",
+  "agnes tobin",
+  "alex matson",
+  "alexander j. hunter",
+  "alexander jardine hunter",
+  "alfred edward chamot",
+  "alice henry",
+  "alphonse nahuys",
+  "anna maria may",
+  "anne plumptre",
+  "arthur wesley wheen",
+  "arvid paulson",
+  "barker fairley",
+  "basil creighton",
+  "ben ray redman",
+  "c. e. wheeler",
+  "c. h. brewitt-taylor",
+  "carol della chiesa",
+  "charles archer",
+  "charles henry brewitt-taylor",
+  "charlotte endymion porter",
+  "charlotte porter",
+  "clarence linton meader",
+  "cornelia mcfadden",
+  "david pritchard",
+  "de villiers",
+  "della chiesa",
+  "e. l. voynich",
+  "eliza buckminster lee",
+  "emil torday",
+  "eric sutton",
+  "ethel lillian voynich",
+  "fred newton scott",
+  "g. d. oswell",
+  "george devereux oswell",
+  "gray casement",
+  "hannaford bennett",
+  "harry morgan ayres",
+  "izora c. chandler",
+  "izora cecilia chandler",
+  "j. a. j. de villiers",
+  "j. s. scott",
+  "jack thomas grein",
+  "james whitall",
+  "janet achurch",
+  "john abraham jacob de villiers",
+  "john pollen",
+  "josef štýbr",
+  "joseph campbell",
+  "katherine berry di zérèga",
+  "kazutomo takahashi",
+  "kenneth burke",
+  "lallu lal",
+  "lawrence hyde",
+  "leon mead",
+  "leslie holdsworth allen",
+  "lilian a. clare",
+  "lilian ada clare",
+  "lincoln colcord",
+  "mabel osgood wright",
+  "martha ward carey",
+  "mary a. hutton",
+  "mary ann hutton",
+  "mary b. richards",
+  "mary williams montgomery",
+  "maude wholohan",
+  "miles menander dawson",
+  "mitchell s. buck",
+  "mitchell starrett buck",
+  "moreby acklom",
+  "natalie duddington",
+  "otto kotouč",
+  "paul carus",
+  "pietro isola",
+  "pitts duffield",
+  "randolph silliman bourne",
+  "salomea neumark brainin",
+  "sarah elizabeth utterson",
+  "siri andrews",
+  "thomas lediard",
+  "translator scott",
+  "virginia champlin",
+  "vyvyan beresford holland",
+  "w. hollings",
+  "w. kenrick",
+  "w. t. brewster",
+  "willard henry myers",
+  "william hollings",
+  "william kenrick",
+  "william tenney brewster",
+  "william wells newell",
+  "z. tamotsu iwado",
+  "captain rowland smith",
+  "helen stankiewicz zand",
+  "stankiewicz zand",
+  "randal c. burrell",
+  "randal burrell",
+  "francis lloyd",
+  "william newton",
+  "benj. r. tucker",
+  "benjamin r. tucker",
+  "w. gaussen",
+  "gaussen",
+  "thomas b. shaw",
+  "mrs. edgar lucas",
+  "edgar lucas",
+  "w. r. s. ralston",
+  "sophie michell butts",
+  "william hand browne",
+  "leo pasvolsky",
+  "beatrix l. tollemache",
+  "tollemache",
+  "b. c. baskerville",
+  "baskerville",
+  "buchan telfer",
+  "j. gennadius",
+  "leonard eckstein opdycke",
+  "helen m. downey",
+  "r. nisbet bain",
+  "james fuchs"
+ ],
+ "_surname": [
+  "a. e. chamot",
+  "a. w. wheen",
+  "agatha hughes",
+  "agnes tobin",
+  "alex matson",
+  "alexander j. hunter",
+  "alexander jardine hunter",
+  "alfred edward chamot",
+  "alice henry",
+  "alphonse nahuys",
+  "anna maria may",
+  "anne plumptre",
+  "arthur wesley wheen",
+  "arvid paulson",
+  "barker fairley",
+  "basil creighton",
+  "ben ray redman",
+  "c. e. wheeler",
+  "c. h. brewitt-taylor",
+  "carol della chiesa",
+  "charles archer",
+  "charles henry brewitt-taylor",
+  "charlotte endymion porter",
+  "charlotte porter",
+  "clarence linton meader",
+  "cornelia mcfadden",
+  "david pritchard",
+  "de villiers",
+  "della chiesa",
+  "e. l. voynich",
+  "eliza buckminster lee",
+  "emil torday",
+  "eric sutton",
+  "ethel lillian voynich",
+  "fred newton scott",
+  "g. d. oswell",
+  "george devereux oswell",
+  "gray casement",
+  "hannaford bennett",
+  "harry morgan ayres",
+  "izora c. chandler",
+  "izora cecilia chandler",
+  "j. a. j. de villiers",
+  "j. s. scott",
+  "jack thomas grein",
+  "james whitall",
+  "janet achurch",
+  "john abraham jacob de villiers",
+  "john pollen",
+  "josef štýbr",
+  "joseph campbell",
+  "katherine berry di zérèga",
+  "kazutomo takahashi",
+  "kenneth burke",
+  "lallu lal",
+  "lawrence hyde",
+  "leon mead",
+  "leslie holdsworth allen",
+  "lilian a. clare",
+  "lilian ada clare",
+  "lincoln colcord",
+  "mabel osgood wright",
+  "martha ward carey",
+  "mary a. hutton",
+  "mary ann hutton",
+  "mary b. richards",
+  "mary williams montgomery",
+  "maude wholohan",
+  "miles menander dawson",
+  "mitchell s. buck",
+  "mitchell starrett buck",
+  "moreby acklom",
+  "natalie duddington",
+  "otto kotouč",
+  "paul carus",
+  "pietro isola",
+  "pitts duffield",
+  "randolph silliman bourne",
+  "salomea neumark brainin",
+  "sarah elizabeth utterson",
+  "siri andrews",
+  "thomas lediard",
+  "translator scott",
+  "virginia champlin",
+  "vyvyan beresford holland",
+  "w. hollings",
+  "w. kenrick",
+  "w. t. brewster",
+  "willard henry myers",
+  "william hollings",
+  "william kenrick",
+  "william tenney brewster",
+  "william wells newell",
+  "z. tamotsu iwado",
+  "captain rowland smith",
+  "helen stankiewicz zand",
+  "stankiewicz zand",
+  "randal c. burrell",
+  "randal burrell",
+  "francis lloyd",
+  "william newton",
+  "benj. r. tucker",
+  "benjamin r. tucker",
+  "w. gaussen",
+  "gaussen",
+  "thomas b. shaw",
+  "mrs. edgar lucas",
+  "edgar lucas",
+  "w. r. s. ralston",
+  "sophie michell butts",
+  "william hand browne",
+  "leo pasvolsky",
+  "beatrix l. tollemache",
+  "tollemache",
+  "b. c. baskerville",
+  "baskerville",
+  "buchan telfer",
+  "j. gennadius",
+  "leonard eckstein opdycke",
+  "helen m. downey",
+  "r. nisbet bain",
+  "james fuchs"
+ ],
+ "_surname_by_slug": {
+  "sf3-65887": [
+   "de villiers",
+   "j. a. j. de villiers",
+   "john abraham jacob de villiers"
+  ],
+  "sf3-66073": [
+   "burke",
+   "kenneth burke"
+  ],
+  "sf3-66106": [
+   "sarah elizabeth utterson",
+   "utterson"
+  ],
+  "sf3-66344": [
+   "emil torday",
+   "torday"
+  ],
+  "sf3-66405": [
+   "ben ray redman",
+   "redman"
+  ],
+  "sf3-66552": [
+   "mabel osgood wright",
+   "wright"
+  ],
+  "sf3-66911": [
+   "grein",
+   "jack thomas grein"
+  ],
+  "sf3-67061": [
+   "mary b. richards",
+   "richards"
+  ],
+  "sf3-67313": [
+   "agatha hughes",
+   "hughes"
+  ],
+  "sf3-67929": [
+   "archer",
+   "charles archer",
+   "j. s. scott",
+   "scott",
+   "translator scott"
+  ],
+  "sf3-68434": [
+   "ayres",
+   "harry morgan ayres"
+  ],
+  "sf3-68486": [
+   "alexander j. hunter",
+   "alexander jardine hunter",
+   "hunter"
+  ],
+  "sf3-69173": [
+   "g. d. oswell",
+   "george devereux oswell",
+   "oswell"
+  ],
+  "sf3-69312": [
+   "katherine berry di zérèga",
+   "zérèga"
+  ],
+  "sf3-69443": [
+   "james whitall",
+   "whitall"
+  ],
+  "sf3-69962": [
+   "anne plumptre",
+   "plumptre"
+  ],
+  "sf3-70128": [
+   "alphonse nahuys",
+   "nahuys"
+  ],
+  "sf3-70159": [
+   "eliza buckminster lee",
+   "lee"
+  ],
+  "sf3-70172": [
+   "leon mead",
+   "mead"
+  ],
+  "sf3-70982": [
+   "bourne",
+   "randolph silliman bourne"
+  ],
+  "sf3-71047": [
+   "holland",
+   "vyvyan beresford holland"
+  ],
+  "sf3-71187": [
+   "allen",
+   "barker fairley",
+   "fairley",
+   "leslie holdsworth allen"
+  ],
+  "sf3-71880": [
+   "carol della chiesa",
+   "della chiesa"
+  ],
+  "sf3-71923": [
+   "duffield",
+   "pitts duffield"
+  ],
+  "sf3-73093": [
+   "myers",
+   "willard henry myers"
+  ],
+  "sf3-73109": [
+   "newell",
+   "william wells newell"
+  ],
+  "sf3-73131": [
+   "kazutomo takahashi",
+   "takahashi"
+  ],
+  "sf3-73132": [
+   "iwado",
+   "z. tamotsu iwado"
+  ],
+  "sf3-73364": [
+   "duddington",
+   "natalie duddington"
+  ],
+  "sf3-73670": [
+   "eric sutton",
+   "sutton"
+  ],
+  "sf3-73729": [
+   "a. e. chamot",
+   "alfred edward chamot",
+   "chamot"
+  ],
+  "sf3-74050": [
+   "hollings",
+   "lallu lal",
+   "w. hollings",
+   "william hollings"
+  ],
+  "sf3-74356": [
+   "david pritchard",
+   "pritchard"
+  ],
+  "sf3-74860": [
+   "dawson",
+   "miles menander dawson"
+  ],
+  "sf3-75011": [
+   "a. w. wheen",
+   "arthur wesley wheen",
+   "wheen"
+  ],
+  "sf3-75247": [
+   "achurch",
+   "c. e. wheeler",
+   "janet achurch",
+   "wheeler"
+  ],
+  "sf3-75491": [
+   "colcord",
+   "lincoln colcord"
+  ],
+  "sf3-75756": [
+   "basil creighton",
+   "creighton"
+  ],
+  "sf3-75967": [
+   "clare",
+   "lilian a. clare",
+   "lilian ada clare"
+  ],
+  "sf3-76142": [
+   "andrews",
+   "siri andrews"
+  ],
+  "sf3-76288": [
+   "brainin",
+   "salomea neumark brainin"
+  ],
+  "sf3-76493": [
+   "bennett",
+   "hannaford bennett"
+  ],
+  "sf3-76639": [
+   "kenrick",
+   "w. kenrick",
+   "william kenrick"
+  ],
+  "sf3-76646": [
+   "buck",
+   "mitchell s. buck",
+   "mitchell starrett buck"
+  ],
+  "sf3-76655": [
+   "alice henry",
+   "charlotte endymion porter",
+   "charlotte porter",
+   "henry",
+   "isola",
+   "pietro isola",
+   "porter"
+  ],
+  "sf3-76691": [
+   "carus",
+   "paul carus"
+  ],
+  "sf3-76719": [
+   "brewster",
+   "w. t. brewster",
+   "william tenney brewster"
+  ],
+  "sf3-77416": [
+   "brewitt-taylor",
+   "c. h. brewitt-taylor",
+   "charles henry brewitt-taylor"
+  ],
+  "sf3-77545": [
+   "cornelia mcfadden",
+   "mcfadden"
+  ],
+  "sf3-77623": [
+   "josef štýbr",
+   "štýbr"
+  ],
+  "sf3-77663": [
+   "hutton",
+   "mary a. hutton",
+   "mary ann hutton"
+  ],
+  "sf3-77708": [
+   "anna maria may",
+   "may"
+  ],
+  "sf3-78087": [
+   "maude wholohan",
+   "wholohan"
+  ],
+  "sf3-78247": [
+   "clarence linton meader",
+   "fred newton scott",
+   "meader",
+   "scott"
+  ],
+  "sf3-78533": [
+   "agnes tobin",
+   "tobin"
+  ],
+  "sf3-78812": [
+   "champlin",
+   "virginia champlin"
+  ],
+  "sf3-79053": [
+   "acklom",
+   "moreby acklom"
+  ],
+  "sf3-79127": [
+   "hyde",
+   "lawrence hyde"
+  ],
+  "sf3-79218": [
+   "arvid paulson",
+   "paulson"
+  ],
+  "sf3-79327": [
+   "carey",
+   "martha ward carey"
+  ],
+  "sf3-79566": [
+   "alex matson",
+   "matson"
+  ],
+  "sf3-79583": [
+   "casement",
+   "gray casement"
+  ],
+  "sf3-79675": [
+   "lediard",
+   "thomas lediard"
+  ],
+  "sf3-71595": [
+   "john pollen",
+   "pollen"
+  ],
+  "sf3-70309": [
+   "kotouč",
+   "otto kotouč"
+  ],
+  "sf3-71756": [
+   "e. l. voynich",
+   "ethel lillian voynich",
+   "voynich"
+  ],
+  "sf3-73256": [
+   "chandler",
+   "izora c. chandler",
+   "izora cecilia chandler",
+   "mary williams montgomery",
+   "montgomery"
+  ],
+  "sf3-78495": [
+   "campbell",
+   "joseph campbell"
+  ],
+  "sf3-garshin-stories-from-garshin": [
+   "e. l. voynich",
+   "ethel lillian voynich"
+  ],
+  "sf3-garshin-the-signal-and-other-stories": [
+   "captain rowland smith"
+  ],
+  "sf3-zeromski-ashes-vol-1": [
+   "helen stankiewicz zand",
+   "stankiewicz zand"
+  ],
+  "sf3-zeromski-ashes-vol-2": [
+   "helen stankiewicz zand",
+   "stankiewicz zand"
+  ],
+  "sf3-capek-makropoulos-secret": [
+   "randal c. burrell",
+   "randal burrell"
+  ],
+  "sf3-kleist-kohlhaas-homburg": [
+   "francis lloyd",
+   "william newton"
+  ],
+  "sf3-chernyshevsky-whats-to-be-done": [
+   "benj. r. tucker",
+   "benjamin r. tucker"
+  ],
+  "sf3-potapenko-a-russian-priest": [
+   "w. gaussen",
+   "gaussen"
+  ],
+  "sf3-potapenko-a-father-of-six": [
+   "w. gaussen",
+   "gaussen"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-1": [
+   "thomas b. shaw"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-2": [
+   "thomas b. shaw"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-3": [
+   "thomas b. shaw"
+  ],
+  "sf3-pontoppidan-emanuel": [
+   "mrs. edgar lucas",
+   "edgar lucas"
+  ],
+  "sf3-leskov-sentry": [
+   "a. e. chamot"
+  ],
+  "sf3-turgenev-liza-ralston": [
+   "w. r. s. ralston"
+  ],
+  "sf3-turgenev-spring-floods-butts": [
+   "sophie michell butts",
+   "william hand browne"
+  ],
+  "sf3-kuprin-bracelet-of-garnets": [
+   "leo pasvolsky"
+  ],
+  "sf3-tollemache-russian-sketches": [
+   "beatrix l. tollemache",
+   "tollemache"
+  ],
+  "sf3-gogol-taras-bulba-baskerville": [
+   "b. c. baskerville",
+   "baskerville"
+  ],
+  "sf3-pushkin-russian-romance-telfer": [
+   "buchan telfer"
+  ],
+  "sf3-vikelas-loukis-laras": [
+   "j. gennadius"
+  ],
+  "sf3-vikelas-tales-from-the-aegean": [
+   "leonard eckstein opdycke"
+  ],
+  "sf3-jensen-gradiva": [
+   "helen m. downey"
+  ],
+  "sf3-undset-mistress-of-husaby": [
+   "charles archer"
+  ],
+  "sf3-aho-squire-hellman": [
+   "r. nisbet bain"
+  ],
+  "sf3-asch-america": [
+   "james fuchs"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sf3-65887": [
+   65887,
+   "A Living Lie"
+  ],
+  "sf3-66073": [
+   66073,
+   "Death in Venice"
+  ],
+  "sf3-66106": [
+   66106,
+   "Tales of the Wild and the Wonderful [1867]"
+  ],
+  "sf3-66344": [
+   66344,
+   "The Old House: A Novel"
+  ],
+  "sf3-66405": [
+   66405,
+   "Annette and Sylvie: Being Volume One of The Soul Enchanted"
+  ],
+  "sf3-66552": [
+   66552,
+   "The Bibliomaniac"
+  ],
+  "sf3-66911": [
+   66911,
+   "Eline Vere"
+  ],
+  "sf3-67061": [
+   67061,
+   "Lives of Two Cats"
+  ],
+  "sf3-67313": [
+   67313,
+   "The Virgins of the Rocks"
+  ],
+  "sf3-67929": [
+   67929,
+   "The Bridal Wreath"
+  ],
+  "sf3-68434": [
+   68434,
+   "A marvelous history of Mary of Nimmegen Who for more than seven year lived and had ado with the devil"
+  ],
+  "sf3-68486": [
+   68486,
+   "The Kobzar of the Ukraine Being select poems of Taras Shevchenko done into English verse with biographical fragments by Alexander Jardine Hunter"
+  ],
+  "sf3-69173": [
+   69173,
+   "The Spoilt Child: A Tale of Hindu Domestic Life"
+  ],
+  "sf3-69312": [
+   69312,
+   "The Naiad: A ghost story"
+  ],
+  "sf3-69443": [
+   69443,
+   "The kiss to the leper"
+  ],
+  "sf3-69962": [
+   69962,
+   "The virgin of the sun"
+  ],
+  "sf3-70128": [
+   70128,
+   "Max Havelaar;"
+  ],
+  "sf3-70159": [
+   70159,
+   "The little Barefoot"
+  ],
+  "sf3-70172": [
+   70172,
+   "Catherine's coquetries"
+  ],
+  "sf3-70982": [
+   70982,
+   "Vagabonds of the sea"
+  ],
+  "sf3-71047": [
+   71047,
+   "Lewis and Irene"
+  ],
+  "sf3-71187": [
+   71187,
+   "Three plays by Frederic Hebbel"
+  ],
+  "sf3-71880": [
+   71880,
+   "Pinocchio under the sea"
+  ],
+  "sf3-71923": [
+   71923,
+   "The will to live (Les Roquevillard)"
+  ],
+  "sf3-73093": [
+   73093,
+   "Swedish fairy tales"
+  ],
+  "sf3-73109": [
+   73109,
+   "Sonnets and madrigals of Michelangelo Buonarroti"
+  ],
+  "sf3-73131": [
+   73131,
+   "Unhuman tour"
+  ],
+  "sf3-73132": [
+   73132,
+   "A spring-time case"
+  ],
+  "sf3-73364": [
+   73364,
+   "Akhnaton, King of Egypt"
+  ],
+  "sf3-73670": [
+   73670,
+   "Thérèse"
+  ],
+  "sf3-73729": [
+   73729,
+   "The shooting party"
+  ],
+  "sf3-74050": [
+   74050,
+   "The Prem sagur"
+  ],
+  "sf3-74356": [
+   74356,
+   "Kittens"
+  ],
+  "sf3-74860": [
+   74860,
+   "Elsie"
+  ],
+  "sf3-75011": [
+   75011,
+   "All quiet on the Western Front"
+  ],
+  "sf3-75247": [
+   75247,
+   "The coming of peace (A family catastrophe)"
+  ],
+  "sf3-75491": [
+   75491,
+   "Giants in the earth"
+  ],
+  "sf3-75756": [
+   75756,
+   "Steppenwolf"
+  ],
+  "sf3-75967": [
+   75967,
+   "Dr. Mabuse, master of mystery"
+  ],
+  "sf3-76142": [
+   76142,
+   "Children of the moor"
+  ],
+  "sf3-76288": [
+   76288,
+   "The city without Jews"
+  ],
+  "sf3-76493": [
+   76493,
+   "The new terror"
+  ],
+  "sf3-76639": [
+   76639,
+   "Eloisa"
+  ],
+  "sf3-76646": [
+   76646,
+   "The songs of Bilitis"
+  ],
+  "sf3-76655": [
+   76655,
+   "The daughter of Jorio"
+  ],
+  "sf3-76691": [
+   76691,
+   "Goethe and Schiller's Xenions"
+  ],
+  "sf3-76719": [
+   76719,
+   "The new art of writing plays"
+  ],
+  "sf3-77416": [
+   77416,
+   "San kuo; or, Romance of the three kingdoms (volume 1 of 2)"
+  ],
+  "sf3-77545": [
+   77545,
+   "Sibylla"
+  ],
+  "sf3-77623": [
+   77623,
+   "Evening songs"
+  ],
+  "sf3-77663": [
+   77663,
+   "The Táin"
+  ],
+  "sf3-77708": [
+   77708,
+   "Wanda"
+  ],
+  "sf3-78087": [
+   78087,
+   "The black pearl"
+  ],
+  "sf3-78247": [
+   78247,
+   "Plays by Leonid Andreyeff"
+  ],
+  "sf3-78533": [
+   78533,
+   "Love's crucifix"
+  ],
+  "sf3-78812": [
+   78812,
+   "Shadowed by a detective"
+  ],
+  "sf3-79053": [
+   79053,
+   "The Red Gods"
+  ],
+  "sf3-79127": [
+   79127,
+   "Krakatit"
+  ],
+  "sf3-79218": [
+   79218,
+   "Eyes that cannot see"
+  ],
+  "sf3-79327": [
+   79327,
+   "French fairy tales"
+  ],
+  "sf3-79566": [
+   79566,
+   "Seven brothers"
+  ],
+  "sf3-79583": [
+   79583,
+   "Costa Rican tales"
+  ],
+  "sf3-79675": [
+   79675,
+   "The life of Sethos, Vol. 1 (of 2)"
+  ],
+  "sf3-71595": [
+   71595,
+   "Rhymes from the Russian"
+  ],
+  "sf3-70309": [
+   70309,
+   "Songs of the Slav"
+  ],
+  "sf3-71756": [
+   71756,
+   "The humour of Russia"
+  ],
+  "sf3-73256": [
+   73256,
+   "Told in the gardens of Araby (untranslated until now)"
+  ],
+  "sf3-78495": [
+   78495,
+   "Collected works of Padraic H. Pearse"
+  ]
+ },
+ "internet_archive": {
+  "sf3-garshin-stories-from-garshin": [
+   "storiesfromgars00garsgoog",
+   "Stories from Garshin (1893)"
+  ],
+  "sf3-garshin-the-signal-and-other-stories": [
+   "signalotherstori00garsrich",
+   "The Signal, and Other Stories (1912)"
+  ],
+  "sf3-zeromski-ashes-vol-1": [
+   "ashes0001stef",
+   "Ashes, vol. I (1928)"
+  ],
+  "sf3-zeromski-ashes-vol-2": [
+   "bwb_S0-DFX-920",
+   "Ashes, vol. II (1928)"
+  ],
+  "sf3-capek-makropoulos-secret": [
+   "makropoulossecre0000kare",
+   "The Makropoulos Secret (1925)"
+  ],
+  "sf3-kleist-kohlhaas-homburg": [
+   "prussiasreprese00newtgoog",
+   "Prussia's Representative Man (1875)"
+  ],
+  "sf3-chernyshevsky-whats-to-be-done": [
+   "whatstobedonerom00cher",
+   "What's to be Done? A Romance (1886)"
+  ],
+  "sf3-potapenko-a-russian-priest": [
+   "russianpriest00potarich",
+   "A Russian Priest (1891)"
+  ],
+  "sf3-potapenko-a-father-of-six": [
+   "fatherofsixandoc00potaiala",
+   "A Father of Six, and An Occasional Holiday (1893)"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-1": [
+   "hereticorgermans01lazhuoft",
+   "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. I (1844)"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-2": [
+   "hereticorgermans02lazhuoft",
+   "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. II (1844)"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-3": [
+   "hereticorgermans03lazhuoft",
+   "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. III (1844)"
+  ],
+  "sf3-pontoppidan-emanuel": [
+   "emanuelorchildre00pontiala",
+   "Emanuel, or Children of the Soil (1896)"
+  ],
+  "sf3-leskov-sentry": [
+   "NikolaiLeskov-SentryAndOtherStories",
+   "The Sentry, and Other Stories (1923)"
+  ],
+  "sf3-turgenev-liza-ralston": [
+   "lizaturg01turg",
+   "Liza (1869)"
+  ],
+  "sf3-turgenev-spring-floods-butts": [
+   "springfloods00buttgoog",
+   "Spring Floods; A Lear of the Steppe (1874)"
+  ],
+  "sf3-kuprin-bracelet-of-garnets": [
+   "braceletgarnets00kuprgoog",
+   "The Bracelet of Garnets, and Other Stories (1917)"
+  ],
+  "sf3-tollemache-russian-sketches": [
+   "russiansketchesc00tolliala",
+   "Russian Sketches, Chiefly of Peasant Life (1913)"
+  ],
+  "sf3-gogol-taras-bulba-baskerville": [
+   "tarasbulbaastor00baskgoog",
+   "Taras Bulba: a Story of the Dnieper Cossacks (1907)"
+  ],
+  "sf3-pushkin-russian-romance-telfer": [
+   "russianromance00pushiala",
+   "Russian Romance (1875)"
+  ],
+  "sf3-vikelas-loukis-laras": [
+   "loukislarasremin00vike",
+   "Loukis Laras (1881)"
+  ],
+  "sf3-vikelas-tales-from-the-aegean": [
+   "talesfromgean00opdygoog",
+   "Tales from the Aegean (1894)"
+  ],
+  "sf3-jensen-gradiva": [
+   "gradivaapompeii00jensgoog",
+   "Gradiva: a Pompeiian Fancy (1918)"
+  ],
+  "sf3-undset-mistress-of-husaby": [
+   "bwb_S0-BLO-546",
+   "The Mistress of Husaby (1925; 1928 printing)"
+  ],
+  "sf3-aho-squire-hellman": [
+   "squirehellmanoth00ahoj",
+   "Squire Hellman, and Other Stories (1893)"
+  ],
+  "sf3-asch-america": [
+   "america00asch",
+   "America"
+  ]
+ },
+ "titles": {
+  "singles-fiction-3-andreyev-plays-by-leonid-andreyeff": {
+   "source": "sf3-78247",
+   "of": "Leonid Andreyev",
+   "work": "Plays by Leonid Andreyeff",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Clarence Linton Meader and Fred Newton Scott",
+   "scan_edition": "Project Gutenberg 78247 (clean text)"
+  },
+  "singles-fiction-3-anon-a-marvelous-history-of-mary-of-nimmegen": {
+   "source": "sf3-68434",
+   "of": "anonymous (Mariken van Nieumeghen)",
+   "work": "A marvelous history of Mary of Nimmegen Who for more than seven year lived and had ado with the devil",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Harry Morgan Ayres",
+   "scan_edition": "Project Gutenberg 68434 (clean text)"
+  },
+  "singles-fiction-3-anon-french-fairy-tales": {
+   "source": "sf3-79327",
+   "of": "various French writers",
+   "work": "French fairy tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Martha Ward Carey",
+   "scan_edition": "Project Gutenberg 79327 (clean text)"
+  },
+  "singles-fiction-3-anon-rhymes-from-the-russian": {
+   "source": "sf3-71595",
+   "of": "various Russian poets",
+   "work": "Rhymes from the Russian",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Pollen",
+   "scan_edition": "Project Gutenberg 71595 (clean text)"
+  },
+  "singles-fiction-3-anon-the-humour-of-russia": {
+   "source": "sf3-71756",
+   "of": "various Russian writers",
+   "work": "The humour of Russia",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. L. Voynich",
+   "scan_edition": "Project Gutenberg 71756 (clean text)"
+  },
+  "singles-fiction-3-anon-the-tain": {
+   "source": "sf3-77663",
+   "of": "anonymous (the Táin Bó Cúailnge)",
+   "work": "The Táin",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary A. Hutton",
+   "scan_edition": "Project Gutenberg 77663 (clean text)",
+   "note": "A different translation of the Táin from the one on singles-medieval-epic; a separate witness. The scanned copy carries the author's presentation inscription dated 1948; the text is her verse retelling, first published in 1907 (Maunsel) and revised in 1924, both before 1931, so the 1948 date is an inscription, not a printing."
+  },
+  "singles-fiction-3-anon-told-in-the-gardens-of-araby-untranslate": {
+   "source": "sf3-73256",
+   "of": "anonymous Arabic tales",
+   "work": "Told in the gardens of Araby (untranslated until now)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Izora C. Chandler and Mary Williams Montgomery",
+   "scan_edition": "Project Gutenberg 73256 (clean text)"
+  },
+  "singles-fiction-3-auerbach-the-little-barefoot": {
+   "source": "sf3-70159",
+   "of": "Berthold Auerbach",
+   "work": "The little Barefoot",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Eliza Buckminster Lee",
+   "scan_edition": "Project Gutenberg 70159 (clean text)"
+  },
+  "singles-fiction-3-bettauer-the-city-without-jews": {
+   "source": "sf3-76288",
+   "of": "Hugo Bettauer",
+   "work": "The city without Jews",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Salomea Neumark Brainin",
+   "scan_edition": "Project Gutenberg 76288 (clean text)"
+  },
+  "singles-fiction-3-bezruc-songs-of-the-slav": {
+   "source": "sf3-70309",
+   "of": "various Czech and Slovak poets (Bezruč, Čech, Hálek, Kollár and others)",
+   "work": "Songs of the Slav",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Otto Kotouč",
+   "scan_edition": "Project Gutenberg 70309 (clean text)"
+  },
+  "singles-fiction-3-bordeaux-the-will-to-live-les-roquevillard": {
+   "source": "sf3-71923",
+   "of": "Henry Bordeaux",
+   "work": "The will to live (Les Roquevillard)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Pitts Duffield",
+   "scan_edition": "Project Gutenberg 71923 (clean text)"
+  },
+  "singles-fiction-3-bourget-a-living-lie": {
+   "source": "sf3-65887",
+   "of": "Paul Bourget",
+   "work": "A Living Lie",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. A. J. De Villiers",
+   "scan_edition": "Project Gutenberg 65887 (clean text)"
+  },
+  "singles-fiction-3-buonarroti-sonnets-and-madrigals-of-michelangelo-bu": {
+   "source": "sf3-73109",
+   "of": "Michelangelo Buonarroti",
+   "work": "Sonnets and madrigals of Michelangelo Buonarroti",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Wells Newell",
+   "scan_edition": "Project Gutenberg 73109 (clean text)"
+  },
+  "singles-fiction-3-capek-krakatit": {
+   "source": "sf3-79127",
+   "of": "Karel Čapek",
+   "work": "Krakatit",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lawrence Hyde",
+   "scan_edition": "Project Gutenberg 79127 (clean text)"
+  },
+  "singles-fiction-3-caturbhujamisra-the-prem-sagur": {
+   "source": "sf3-74050",
+   "of": "Caturbhujamisra",
+   "work": "The Prem sagur",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. Hollings and Lallu Lal",
+   "scan_edition": "Project Gutenberg 74050 (clean text)"
+  },
+  "singles-fiction-3-chekhov-the-shooting-party": {
+   "source": "sf3-73729",
+   "of": "Anton Pavlovich Chekhov",
+   "work": "The shooting party",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. E. Chamot",
+   "scan_edition": "Project Gutenberg 73729 (clean text)",
+   "note": "Not the Koteliansky-Murry The Bet (chekhov-bet) nor Garnett's Chekhov: A. E. Chamot's translation (1926)."
+  },
+  "singles-fiction-3-couperus-eline-vere": {
+   "source": "sf3-66911",
+   "of": "Louis Couperus",
+   "work": "Eline Vere",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jack Thomas Grein",
+   "scan_edition": "Project Gutenberg 66911 (clean text)"
+  },
+  "singles-fiction-3-d-annunzio-the-daughter-of-jorio": {
+   "source": "sf3-76655",
+   "of": "Gabriele D'Annunzio",
+   "work": "The daughter of Jorio",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alice Henry and Pietro Isola and Charlotte Porter",
+   "scan_edition": "Project Gutenberg 76655 (clean text)"
+  },
+  "singles-fiction-3-d-annunzio-the-virgins-of-the-rocks": {
+   "source": "sf3-67313",
+   "of": "Gabriele D'Annunzio",
+   "work": "The Virgins of the Rocks",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Agatha Hughes",
+   "scan_edition": "Project Gutenberg 67313 (clean text)"
+  },
+  "singles-fiction-3-debans-catherine-s-coquetries": {
+   "source": "sf3-70172",
+   "of": "Camille Debans",
+   "work": "Catherine's coquetries",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Leon Mead",
+   "scan_edition": "Project Gutenberg 70172 (clean text)"
+  },
+  "singles-fiction-3-dods-tales-of-the-wild-and-the-wonderful-1867": {
+   "source": "sf3-66106",
+   "of": "Mary Diana Dods",
+   "work": "Tales of the Wild and the Wonderful [1867]",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sarah Elizabeth Utterson",
+   "scan_edition": "Project Gutenberg 66106 (clean text)"
+  },
+  "singles-fiction-3-esme-the-red-gods": {
+   "source": "sf3-79053",
+   "of": "Jean d' Esme",
+   "work": "The Red Gods",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Moreby Acklom",
+   "scan_edition": "Project Gutenberg 79053 (clean text)"
+  },
+  "singles-fiction-3-fitinghoff-children-of-the-moor": {
+   "source": "sf3-76142",
+   "of": "Laura Fitinghoff",
+   "work": "Children of the moor",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Siri Andrews",
+   "scan_edition": "Project Gutenberg 76142 (clean text)"
+  },
+  "singles-fiction-3-fleuron-kittens": {
+   "source": "sf3-74356",
+   "of": "Svend Fleuron",
+   "work": "Kittens",
+   "translated": "(see the Gutenberg header)",
+   "translator": "David Pritchard",
+   "scan_edition": "Project Gutenberg 74356 (clean text)"
+  },
+  "singles-fiction-3-gnudtzmann-eyes-that-cannot-see": {
+   "source": "sf3-79218",
+   "of": "Albert Theodor Gnudtzmann",
+   "work": "Eyes that cannot see",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Arvid Paulson",
+   "scan_edition": "Project Gutenberg 79218 (clean text)"
+  },
+  "singles-fiction-3-goethe-goethe-and-schiller-s-xenions": {
+   "source": "sf3-76691",
+   "of": "Johann Wolfgang von Goethe and Friedrich Schiller",
+   "work": "Goethe and Schiller's Xenions",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Paul Carus",
+   "scan_edition": "Project Gutenberg 76691 (clean text)"
+  },
+  "singles-fiction-3-guardia-costa-rican-tales": {
+   "source": "sf3-79583",
+   "of": "Ricardo Fernández Guardia",
+   "work": "Costa Rican tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gray Casement",
+   "scan_edition": "Project Gutenberg 79583 (clean text)"
+  },
+  "singles-fiction-3-halek-evening-songs": {
+   "source": "sf3-77623",
+   "of": "Vítězslav Hálek",
+   "work": "Evening songs",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Josef Štýbr",
+   "scan_edition": "Project Gutenberg 77623 (clean text)"
+  },
+  "singles-fiction-3-hauptmann-the-coming-of-peace-a-family-catastrophe": {
+   "source": "sf3-75247",
+   "of": "Gerhart Hauptmann",
+   "work": "The coming of peace (A family catastrophe)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Janet Achurch and C. E. Wheeler",
+   "scan_edition": "Project Gutenberg 75247 (clean text)"
+  },
+  "singles-fiction-3-hebbel-three-plays-by-frederic-hebbel": {
+   "source": "sf3-71187",
+   "of": "Friedrich Hebbel",
+   "work": "Three plays by Frederic Hebbel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Leslie Holdsworth Allen and Barker Fairley",
+   "scan_edition": "Project Gutenberg 71187 (clean text)"
+  },
+  "singles-fiction-3-hesse-steppenwolf": {
+   "source": "sf3-75756",
+   "of": "Hermann Hesse",
+   "work": "Steppenwolf",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Basil Creighton",
+   "scan_edition": "Project Gutenberg 75756 (clean text)"
+  },
+  "singles-fiction-3-hofberg-swedish-fairy-tales": {
+   "source": "sf3-73093",
+   "of": "Herman Hofberg",
+   "work": "Swedish fairy tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Willard Henry Myers",
+   "scan_edition": "Project Gutenberg 73093 (clean text)"
+  },
+  "singles-fiction-3-jacques-dr-mabuse-master-of-mystery": {
+   "source": "sf3-75967",
+   "of": "Norbert Jacques",
+   "work": "Dr. Mabuse, master of mystery",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lilian A. Clare",
+   "scan_edition": "Project Gutenberg 75967 (clean text)"
+  },
+  "singles-fiction-3-kielland-elsie": {
+   "source": "sf3-74860",
+   "of": "Alexander Lange Kielland",
+   "work": "Elsie",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Miles Menander Dawson",
+   "scan_edition": "Project Gutenberg 74860 (clean text)"
+  },
+  "singles-fiction-3-kivi-seven-brothers": {
+   "source": "sf3-79566",
+   "of": "Aleksis Kivi",
+   "work": "Seven brothers",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alex Matson",
+   "scan_edition": "Project Gutenberg 79566 (clean text)"
+  },
+  "singles-fiction-3-kotzebue-the-virgin-of-the-sun": {
+   "source": "sf3-69962",
+   "of": "August von Kotzebue",
+   "work": "The virgin of the sun",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Anne Plumptre",
+   "scan_edition": "Project Gutenberg 69962 (clean text)"
+  },
+  "singles-fiction-3-larrouy-vagabonds-of-the-sea": {
+   "source": "sf3-70982",
+   "of": "Maurice Larrouy",
+   "work": "Vagabonds of the sea",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Randolph Silliman Bourne",
+   "scan_edition": "Project Gutenberg 70982 (clean text)"
+  },
+  "singles-fiction-3-leroux-the-new-terror": {
+   "source": "sf3-76493",
+   "of": "Gaston Leroux",
+   "work": "The new terror",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Hannaford Bennett",
+   "scan_edition": "Project Gutenberg 76493 (clean text)"
+  },
+  "singles-fiction-3-lion-the-black-pearl": {
+   "source": "sf3-78087",
+   "of": "Marie Lion",
+   "work": "The black pearl",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Maude Wholohan",
+   "scan_edition": "Project Gutenberg 78087 (clean text)"
+  },
+  "singles-fiction-3-loti-lives-of-two-cats": {
+   "source": "sf3-67061",
+   "of": "Pierre Loti",
+   "work": "Lives of Two Cats",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary B. Richards",
+   "scan_edition": "Project Gutenberg 67061 (clean text)"
+  },
+  "singles-fiction-3-louys-the-songs-of-bilitis": {
+   "source": "sf3-76646",
+   "of": "Pierre Louÿs",
+   "work": "The songs of Bilitis",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mitchell S. Buck",
+   "scan_edition": "Project Gutenberg 76646 (clean text)",
+   "note": "Louÿs's prose poems are frankly erotic; listed in DIGEST-C for Adam's veto."
+  },
+  "singles-fiction-3-luo-san-kuo": {
+   "source": "sf3-77416",
+   "of": "Guanzhong Luo",
+   "work": "San kuo; or, Romance of the three kingdoms (volume 1 of 2)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. H. Brewitt-Taylor",
+   "scan_edition": "Project Gutenberg 77416 (clean text)"
+  },
+  "singles-fiction-3-mann-death-in-venice": {
+   "source": "sf3-66073",
+   "of": "Thomas Mann",
+   "work": "Death in Venice",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Kenneth Burke",
+   "scan_edition": "Project Gutenberg 66073 (clean text)"
+  },
+  "singles-fiction-3-mauriac-the-kiss-to-the-leper": {
+   "source": "sf3-69443",
+   "of": "François Mauriac",
+   "work": "The kiss to the leper",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Whitall",
+   "scan_edition": "Project Gutenberg 69443 (clean text)"
+  },
+  "singles-fiction-3-mauriac-therese": {
+   "source": "sf3-73670",
+   "of": "François Mauriac",
+   "work": "Thérèse",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Eric Sutton",
+   "scan_edition": "Project Gutenberg 73670 (clean text)"
+  },
+  "singles-fiction-3-merezhkovsky-akhnaton-king-of-egypt": {
+   "source": "sf3-73364",
+   "of": "Dmitry Sergeyevich Merezhkovsky",
+   "work": "Akhnaton, King of Egypt",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Natalie Duddington",
+   "scan_edition": "Project Gutenberg 73364 (clean text)"
+  },
+  "singles-fiction-3-mitra-the-spoilt-child": {
+   "source": "sf3-69173",
+   "of": "Peary Chand Mitra",
+   "work": "The Spoilt Child: A Tale of Hindu Domestic Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. D. Oswell",
+   "scan_edition": "Project Gutenberg 69173 (clean text)"
+  },
+  "singles-fiction-3-mongiardini-rembadi-pinocchio-under-the-sea": {
+   "source": "sf3-71880",
+   "of": "Gemma Mongiardini-Rembadi",
+   "work": "Pinocchio under the sea",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Carol Della Chiesa",
+   "scan_edition": "Project Gutenberg 71880 (clean text)"
+  },
+  "singles-fiction-3-morand-lewis-and-irene": {
+   "source": "sf3-71047",
+   "of": "Paul Morand",
+   "work": "Lewis and Irene",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Vyvyan Beresford Holland",
+   "scan_edition": "Project Gutenberg 71047 (clean text)"
+  },
+  "singles-fiction-3-multatuli-max-havelaar": {
+   "source": "sf3-70128",
+   "of": "Multatuli",
+   "work": "Max Havelaar;",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alphonse Nahuys",
+   "scan_edition": "Project Gutenberg 70128 (clean text)"
+  },
+  "singles-fiction-3-natsume-unhuman-tour": {
+   "source": "sf3-73131",
+   "of": "Soseki Natsume",
+   "work": "Unhuman tour",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Kazutomo Takahashi",
+   "scan_edition": "Project Gutenberg 73131 (clean text)"
+  },
+  "singles-fiction-3-nodier-the-bibliomaniac": {
+   "source": "sf3-66552",
+   "of": "Charles Nodier",
+   "work": "The Bibliomaniac",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mabel Osgood Wright",
+   "scan_edition": "Project Gutenberg 66552 (clean text)"
+  },
+  "singles-fiction-3-pearse-collected-works-of-padraic-h-pearse": {
+   "source": "sf3-78495",
+   "of": "Padraic Pearse",
+   "work": "Collected works of Padraic H. Pearse",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Campbell",
+   "scan_edition": "Project Gutenberg 78495 (clean text)"
+  },
+  "singles-fiction-3-petrarca-love-s-crucifix": {
+   "source": "sf3-78533",
+   "of": "Francesco Petrarca",
+   "work": "Love's crucifix",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Agnes Tobin",
+   "scan_edition": "Project Gutenberg 78533 (clean text)"
+  },
+  "singles-fiction-3-pont-jest-shadowed-by-a-detective": {
+   "source": "sf3-78812",
+   "of": "René de Pont-Jest",
+   "work": "Shadowed by a detective",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Virginia Champlin",
+   "scan_edition": "Project Gutenberg 78812 (clean text)"
+  },
+  "singles-fiction-3-przyjemski-wanda": {
+   "source": "sf3-77708",
+   "of": "Juliusz Rawicz Przyjemski",
+   "work": "Wanda",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Anna Maria May",
+   "scan_edition": "Project Gutenberg 77708 (clean text)"
+  },
+  "singles-fiction-3-remarque-all-quiet-on-the-western-front": {
+   "source": "sf3-75011",
+   "of": "Erich Maria Remarque",
+   "work": "All quiet on the Western Front",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. W. Wheen",
+   "scan_edition": "Project Gutenberg 75011 (clean text)"
+  },
+  "singles-fiction-3-rolland-annette-and-sylvie": {
+   "source": "sf3-66405",
+   "of": "Romain Rolland",
+   "work": "Annette and Sylvie: Being Volume One of The Soul Enchanted",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ben Ray Redman",
+   "scan_edition": "Project Gutenberg 66405 (clean text)"
+  },
+  "singles-fiction-3-rolvaag-giants-in-the-earth": {
+   "source": "sf3-75491",
+   "of": "O. E. Rølvaag",
+   "work": "Giants in the earth",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lincoln Colcord",
+   "scan_edition": "Project Gutenberg 75491 (clean text)"
+  },
+  "singles-fiction-3-rousseau-eloisa": {
+   "source": "sf3-76639",
+   "of": "Jean-Jacques Rousseau",
+   "work": "Eloisa",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. Kenrick",
+   "scan_edition": "Project Gutenberg 76639 (clean text)",
+   "note": "Rousseau's Julie; the rousseau-emile shelf holds only Emile."
+  },
+  "singles-fiction-3-sand-the-naiad": {
+   "source": "sf3-69312",
+   "of": "George Sand",
+   "work": "The Naiad: A ghost story",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Katherine Berry di Zérèga",
+   "scan_edition": "Project Gutenberg 69312 (clean text)"
+  },
+  "singles-fiction-3-shevchenko-the-kobzar-of-the-ukraine-being-select-p": {
+   "source": "sf3-68486",
+   "of": "Taras Shevchenko",
+   "work": "The Kobzar of the Ukraine Being select poems of Taras Shevchenko done into English verse with biographical fragments by Alexander Jardine Hunter",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alexander J. Hunter",
+   "scan_edition": "Project Gutenberg 68486 (clean text)"
+  },
+  "singles-fiction-3-tanizaki-a-spring-time-case": {
+   "source": "sf3-73132",
+   "of": "Jun'ichiro Tanizaki",
+   "work": "A spring-time case",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Z. Tamotsu Iwado",
+   "scan_edition": "Project Gutenberg 73132 (clean text)"
+  },
+  "singles-fiction-3-terrasson-the-life-of-sethos-vol-1-of-2": {
+   "source": "sf3-79675",
+   "of": "Jean Terrasson",
+   "work": "The life of Sethos, Vol. 1 (of 2)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Lediard",
+   "scan_edition": "Project Gutenberg 79675 (clean text)"
+  },
+  "singles-fiction-3-tormay-the-old-house": {
+   "source": "sf3-66344",
+   "of": "Cécile Tormay",
+   "work": "The Old House: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Emil Torday",
+   "scan_edition": "Project Gutenberg 66344 (clean text)"
+  },
+  "singles-fiction-3-undset-the-bridal-wreath": {
+   "source": "sf3-67929",
+   "of": "Sigrid Undset",
+   "work": "The Bridal Wreath",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Archer and J. S. Scott",
+   "scan_edition": "Project Gutenberg 67929 (clean text)"
+  },
+  "singles-fiction-3-vega-the-new-art-of-writing-plays": {
+   "source": "sf3-76719",
+   "of": "Lope de Vega",
+   "work": "The new art of writing plays",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. T. Brewster",
+   "scan_edition": "Project Gutenberg 76719 (clean text)"
+  },
+  "singles-fiction-3-vollmar-sibylla": {
+   "source": "sf3-77545",
+   "of": "A. Vollmar",
+   "work": "Sibylla",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cornelia McFadden",
+   "scan_edition": "Project Gutenberg 77545 (clean text)"
+  },
+  "singles-fiction-3-garshin-stories-from-garshin": {
+   "source": "sf3-garshin-stories-from-garshin",
+   "of": "Vsevolod Garshin",
+   "work": "Stories from Garshin",
+   "translated": 1893,
+   "translator": "E. L. Voynich",
+   "scan_edition": "T. Fisher Unwin, London MDCCCXCIII, with an introduction by Stepniak; Google scan",
+   "note": "Voynich's Humour of Russia is also on this shelf."
+  },
+  "singles-fiction-3-garshin-the-signal-and-other-stories": {
+   "source": "sf3-garshin-the-signal-and-other-stories",
+   "of": "Vsevolod Garshin",
+   "work": "The Signal, and Other Stories",
+   "translated": 1912,
+   "translator": "Captain Rowland Smith",
+   "scan_edition": "Duckworth & Co., London 1912; archive.org scan",
+   "note": "A different Rowland Smith from the translator of the Greek romances: this one was translator to the British Embassy at St Petersburg, as the title page says."
+  },
+  "singles-fiction-3-zeromski-ashes-vol-1": {
+   "source": "sf3-zeromski-ashes-vol-1",
+   "of": "Stefan Żeromski",
+   "work": "Ashes, vol. I",
+   "translated": 1928,
+   "translator": "Helen Stankiewicz Zand",
+   "scan_edition": "Alfred A. Knopf, New York, second printing December 1928; archive.org scan"
+  },
+  "singles-fiction-3-zeromski-ashes-vol-2": {
+   "source": "sf3-zeromski-ashes-vol-2",
+   "of": "Stefan Żeromski",
+   "work": "Ashes, vol. II",
+   "translated": 1928,
+   "translator": "Helen Stankiewicz Zand",
+   "scan_edition": "Alfred A. Knopf, New York 1928; archive.org scan"
+  },
+  "singles-fiction-3-capek-makropoulos-secret": {
+   "source": "sf3-capek-makropoulos-secret",
+   "of": "Karel Čapek",
+   "work": "The Makropoulos Secret",
+   "translated": 1925,
+   "translator": "Randal C. Burrell (adapted)",
+   "scan_edition": "John W. Luce & Company, Boston; first published January 1925; archive.org scan"
+  },
+  "singles-fiction-3-kleist-michael-kohlhaas-prince-of-homburg": {
+   "of": "Heinrich von Kleist",
+   "work": "Prussia's Representative Man: Michael Kohlhaas and Prince Frederick of Homburg, translated, with a study of Kleist",
+   "translated": 1875,
+   "translator": "Francis Lloyd and William Newton",
+   "scan_edition": "Trübner & Co., London 1875; Google scan via archive.org",
+   "source": "sf3-kleist-kohlhaas-homburg"
+  },
+  "singles-fiction-3-chernyshevsky-whats-to-be-done": {
+   "source": "sf3-chernyshevsky-whats-to-be-done",
+   "of": "Nikolay Chernyshevsky",
+   "work": "What's to be Done? A Romance",
+   "translated": 1886,
+   "translator": "Benjamin R. Tucker",
+   "scan_edition": "Benj. R. Tucker, Boston; the year on the title page is not legible in the OCR (catalogued 1886); archive.org scan"
+  },
+  "singles-fiction-3-potapenko-a-russian-priest": {
+   "source": "sf3-potapenko-a-russian-priest",
+   "of": "Ignaty Potapenko",
+   "work": "A Russian Priest",
+   "translated": 1891,
+   "translator": "W. Gaussen",
+   "scan_edition": "T. Fisher Unwin, London MDCCCXCI, Pseudonym Library; archive.org scan"
+  },
+  "singles-fiction-3-potapenko-a-father-of-six": {
+   "source": "sf3-potapenko-a-father-of-six",
+   "of": "Ignaty Potapenko",
+   "work": "A Father of Six, and An Occasional Holiday",
+   "translated": 1893,
+   "translator": "W. Gaussen",
+   "scan_edition": "T. Fisher Unwin, London 1893, Pseudonym Library; UCLA scan"
+  },
+  "singles-fiction-3-lazhechnikov-the-heretic-vol-1": {
+   "source": "sf3-lazhechnikov-the-heretic-vol-1",
+   "of": "Ivan Lazhechnikov",
+   "work": "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. I",
+   "translated": 1844,
+   "translator": "Thomas B. Shaw",
+   "scan_edition": "William Blackwood and Sons, Edinburgh and London 1845; University of Toronto scan",
+   "note": "Shaw's translation first appeared in 1844 (Harper, New York, in one volume); this is Blackwood's three-volume edition of 1845."
+  },
+  "singles-fiction-3-lazhechnikov-the-heretic-vol-2": {
+   "source": "sf3-lazhechnikov-the-heretic-vol-2",
+   "of": "Ivan Lazhechnikov",
+   "work": "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. II",
+   "translated": 1844,
+   "translator": "Thomas B. Shaw",
+   "scan_edition": "William Blackwood and Sons, Edinburgh and London 1845; University of Toronto scan"
+  },
+  "singles-fiction-3-lazhechnikov-the-heretic-vol-3": {
+   "source": "sf3-lazhechnikov-the-heretic-vol-3",
+   "of": "Ivan Lazhechnikov",
+   "work": "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. III",
+   "translated": 1844,
+   "translator": "Thomas B. Shaw",
+   "scan_edition": "William Blackwood and Sons, Edinburgh and London 1845; University of Toronto scan"
+  },
+  "singles-fiction-3-pontoppidan-emanuel": {
+   "source": "sf3-pontoppidan-emanuel",
+   "of": "Henrik Pontoppidan",
+   "work": "Emanuel, or Children of the Soil",
+   "translated": 1896,
+   "translator": "Mrs. Edgar Lucas",
+   "scan_edition": "J. M. Dent, London 1896 (prefatory note dated April 1896); UCLA scan"
+  },
+  "singles-fiction-3-leskov-the-sentry": {
+   "source": "sf3-leskov-sentry",
+   "of": "Nikolai Leskov",
+   "work": "The Sentry, and Other Stories",
+   "translated": 1923,
+   "translator": "A. E. Chamot",
+   "scan_edition": "Alfred A. Knopf, New York 1923; archive.org scan",
+   "note": "Hapgood's Cathedral Folk and Steel Flea are on the hapgood shelf."
+  },
+  "singles-fiction-3-turgenev-liza-ralston": {
+   "source": "sf3-turgenev-liza-ralston",
+   "of": "Ivan Turgenev",
+   "work": "Liza (A Nest of Nobles)",
+   "translated": 1869,
+   "translator": "W. R. S. Ralston",
+   "scan_edition": "Chapman and Hall, London 1869; archive.org scan",
+   "note": "A second witness beside Garnett's A House of Gentlefolk; Ralston's folk-tale books are on the ralston shelf (lane D), which left Liza out as outside its ask."
+  },
+  "singles-fiction-3-turgenev-spring-floods-butts": {
+   "source": "sf3-turgenev-spring-floods-butts",
+   "of": "Ivan Turgenev",
+   "work": "Spring Floods (tr. Sophie Michell Butts) and A Lear of the Steppe (tr. William Hand Browne)",
+   "translated": 1874,
+   "translator": "Sophie Michell Butts; William Hand Browne",
+   "scan_edition": "Thomas Y. Crowell & Co., New York (copyright 1874; the printing is undated); Google scan"
+  },
+  "singles-fiction-3-kuprin-the-bracelet-of-garnets": {
+   "source": "sf3-kuprin-bracelet-of-garnets",
+   "of": "Aleksandr Kuprin",
+   "work": "The Bracelet of Garnets, and Other Stories",
+   "translated": 1917,
+   "translator": "Leo Pasvolsky",
+   "scan_edition": "Charles Scribner's Sons, New York 1917; Google scan"
+  },
+  "singles-fiction-3-tollemache-russian-sketches": {
+   "source": "sf3-tollemache-russian-sketches",
+   "of": "Nikolai Leskov and others",
+   "work": "Russian Sketches, Chiefly of Peasant Life",
+   "translated": 1913,
+   "translator": "Beatrix L. Tollemache",
+   "scan_edition": "Smith, Elder, London 1913 (preface dated Bordighera, March 1913); UCLA scan"
+  },
+  "singles-fiction-3-gogol-taras-bulba-baskerville": {
+   "source": "sf3-gogol-taras-bulba-baskerville",
+   "of": "Nikolai Gogol",
+   "work": "Taras Bulba: a Story of the Dnieper Cossacks",
+   "translated": 1907,
+   "translator": "B. C. Baskerville",
+   "scan_edition": "The Walter Scott Publishing Co., London and Felling-on-Tyne; New York 1907; Google scan",
+   "note": "Hapgood's Taras Bulba is on the hapgood shelf."
+  },
+  "singles-fiction-3-pushkin-russian-romance-telfer": {
+   "source": "sf3-pushkin-russian-romance-telfer",
+   "of": "Aleksandr Pushkin",
+   "work": "Russian Romance (The Captain's Daughter and other tales)",
+   "translated": 1875,
+   "translator": "Mrs. J. Buchan Telfer",
+   "scan_edition": "Henry S. King & Co., London 1875; UCLA scan"
+  },
+  "singles-fiction-3-vikelas-loukis-laras": {
+   "source": "sf3-vikelas-loukis-laras",
+   "of": "Demetrios Vikelas",
+   "work": "Loukis Laras: Reminiscences of a Chiote Merchant during the War of Independence",
+   "translated": 1881,
+   "translator": "J. Gennadius",
+   "scan_edition": "Macmillan, London 1881; archive.org scan"
+  },
+  "singles-fiction-3-vikelas-tales-from-the-aegean": {
+   "source": "sf3-vikelas-tales-from-the-aegean",
+   "of": "Demetrios Vikelas",
+   "work": "Tales from the Aegean",
+   "translated": 1894,
+   "translator": "Leonard Eckstein Opdycke",
+   "scan_edition": "A. C. McClurg, Chicago 1894; Google scan"
+  },
+  "singles-fiction-3-jensen-gradiva": {
+   "source": "sf3-jensen-gradiva",
+   "of": "Wilhelm Jensen",
+   "work": "Gradiva: a Pompeiian Fancy",
+   "translated": 1918,
+   "translator": "Helen M. Downey",
+   "scan_edition": "Moffat, Yard and Company, New York 1918; Google scan",
+   "note": "Printed for Freud's Delusion and Dream; the Freud volume itself is not shelved here."
+  },
+  "singles-fiction-3-undset-the-mistress-of-husaby": {
+   "source": "sf3-undset-mistress-of-husaby",
+   "of": "Sigrid Undset",
+   "work": "The Mistress of Husaby (Kristin Lavransdatter II)",
+   "translated": 1925,
+   "translator": "Charles Archer",
+   "scan_edition": "Grosset & Dunlap by arrangement with Knopf, New York (published March 1925; fourth printing December 1928); archive.org scan",
+   "note": "Volume I, The Bridal Wreath, is on this shelf; volume III, The Cross, is on the reading-lists branch's undset shelf."
+  },
+  "singles-fiction-3-aho-squire-hellman": {
+   "source": "sf3-aho-squire-hellman",
+   "of": "Juhani Aho",
+   "work": "Squire Hellman, and Other Stories",
+   "translated": 1893,
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "T. Fisher Unwin, London 1893 (Pseudonym Library); archive.org scan",
+   "note": "Bain's folk-tale books are on lane D's bain shelf."
+  },
+  "singles-fiction-3-asch-america": {
+   "source": "sf3-asch-america",
+   "of": "Sholom Asch",
+   "work": "America",
+   "translated": 1918,
+   "translator": "James Fuchs",
+   "scan_edition": "Alpha Omega Publishing, New York 1918; archive.org scan"
+  }
+ },
+ "_pending": {
+  "pg-79102": "Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
+  "pg-79453": "Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
+  "pg-78105": "Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
+  "ia-asch-the-mother": "Sholom Asch's The Mother (Nathan Ausubel; Horace Liveright, 1930; mothertransbynat0000shol): a 1930 publication, so it waits on Adam's 1930 ruling."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sf3-65887": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de villiers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. A. J. De Villiers"
+  },
+  "sf3-66073": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kenneth Burke"
+  },
+  "sf3-66106": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah elizabeth utterson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sarah Elizabeth Utterson"
+  },
+  "sf3-66344": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emil torday",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emil Torday"
+  },
+  "sf3-66405": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ben ray redman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ben Ray Redman"
+  },
+  "sf3-66552": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mabel Osgood Wright"
+  },
+  "sf3-66911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jack Thomas Grein"
+  },
+  "sf3-67061": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary b. richards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary B. Richards"
+  },
+  "sf3-67313": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Agatha Hughes"
+  },
+  "sf3-67929": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Archer; J. S. Scott"
+  },
+  "sf3-68434": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ayres",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Harry Morgan Ayres"
+  },
+  "sf3-68486": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander j. hunter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander J. Hunter"
+  },
+  "sf3-69173": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. d. oswell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. D. Oswell"
+  },
+  "sf3-69312": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine berry di zérèga",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katherine Berry di Zérèga"
+  },
+  "sf3-69443": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james whitall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Whitall"
+  },
+  "sf3-69962": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne plumptre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anne Plumptre"
+  },
+  "sf3-70128": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alphonse nahuys",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alphonse Nahuys"
+  },
+  "sf3-70159": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliza buckminster lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eliza Buckminster Lee"
+  },
+  "sf3-70172": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leon mead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leon Mead"
+  },
+  "sf3-70982": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bourne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Randolph Silliman Bourne"
+  },
+  "sf3-71047": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Vyvyan Beresford Holland"
+  },
+  "sf3-71187": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leslie Holdsworth Allen; Barker Fairley"
+  },
+  "sf3-71880": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carol della chiesa",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Carol Della Chiesa"
+  },
+  "sf3-71923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duffield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Pitts Duffield"
+  },
+  "sf3-73093": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Willard Henry Myers"
+  },
+  "sf3-73109": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Wells Newell"
+  },
+  "sf3-73131": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kazutomo takahashi",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kazutomo Takahashi"
+  },
+  "sf3-73132": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "iwado",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Z. Tamotsu Iwado"
+  },
+  "sf3-73364": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duddington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Natalie Duddington"
+  },
+  "sf3-73670": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eric sutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eric Sutton"
+  },
+  "sf3-73729": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. chamot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. E. Chamot"
+  },
+  "sf3-74050": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hollings",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Hollings; Lallu Lal"
+  },
+  "sf3-74356": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david pritchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "David Pritchard"
+  },
+  "sf3-74860": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Miles Menander Dawson"
+  },
+  "sf3-75011": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. w. wheen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. W. Wheen"
+  },
+  "sf3-75247": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "achurch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Janet Achurch; C. E. Wheeler"
+  },
+  "sf3-75491": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colcord",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lincoln Colcord"
+  },
+  "sf3-75756": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil creighton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Basil Creighton"
+  },
+  "sf3-75967": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clare",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lilian A. Clare"
+  },
+  "sf3-76142": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Siri Andrews"
+  },
+  "sf3-76288": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brainin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Salomea Neumark Brainin"
+  },
+  "sf3-76493": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hannaford Bennett"
+  },
+  "sf3-76639": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kenrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Kenrick"
+  },
+  "sf3-76646": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mitchell S. Buck"
+  },
+  "sf3-76655": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alice Henry; Pietro Isola; Charlotte Porter"
+  },
+  "sf3-76691": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul Carus"
+  },
+  "sf3-76719": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brewster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. T. Brewster"
+  },
+  "sf3-77416": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brewitt-taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. H. Brewitt-Taylor"
+  },
+  "sf3-77545": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cornelia mcfadden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cornelia McFadden"
+  },
+  "sf3-77623": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josef štýbr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Josef Štýbr"
+  },
+  "sf3-77663": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary A. Hutton"
+  },
+  "sf3-77708": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna maria may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anna Maria May"
+  },
+  "sf3-78087": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maude wholohan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maude Wholohan"
+  },
+  "sf3-78247": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clarence linton meader",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clarence Linton Meader; Fred Newton Scott"
+  },
+  "sf3-78533": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes tobin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Agnes Tobin"
+  },
+  "sf3-78812": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "champlin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Virginia Champlin"
+  },
+  "sf3-79053": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "acklom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Moreby Acklom"
+  },
+  "sf3-79127": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hyde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lawrence Hyde"
+  },
+  "sf3-79218": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arvid paulson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arvid Paulson"
+  },
+  "sf3-79327": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Martha Ward Carey"
+  },
+  "sf3-79566": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alex matson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alex Matson"
+  },
+  "sf3-79583": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "casement",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gray Casement"
+  },
+  "sf3-79675": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lediard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Lediard"
+  },
+  "sf3-71595": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pollen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Pollen"
+  },
+  "sf3-70309": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kotouč",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Otto Kotouč"
+  },
+  "sf3-71756": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. l. voynich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. L. Voynich"
+  },
+  "sf3-73256": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chandler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Izora C. Chandler; Mary Williams Montgomery"
+  },
+  "sf3-78495": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Campbell"
+  },
+  "sf3-garshin-stories-from-garshin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-garshin-the-signal-and-other-stories": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "captain rowland smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-zeromski-ashes-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-zeromski-ashes-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen stankiewicz zand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-capek-makropoulos-secret": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randal c. burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-kleist-kohlhaas-homburg": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-chernyshevsky-whats-to-be-done": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benj. r. tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-potapenko-a-russian-priest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. gaussen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-potapenko-a-father-of-six": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. gaussen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-lazhechnikov-the-heretic-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas b. shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-lazhechnikov-the-heretic-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas b. shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-lazhechnikov-the-heretic-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas b. shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-pontoppidan-emanuel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "[1896]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-leskov-sentry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. chamot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-turgenev-liza-ralston": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. r. s. ralston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-turgenev-spring-floods-butts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophie michell butts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-kuprin-bracelet-of-garnets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo pasvolsky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-tollemache-russian-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beatrix l. tollemache",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-gogol-taras-bulba-baskerville": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. c. baskerville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-pushkin-russian-romance-telfer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buchan telfer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-vikelas-loukis-laras": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. gennadius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-vikelas-tales-from-the-aegean": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard eckstein opdycke",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-jensen-gradiva": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen m. downey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-undset-mistress-of-husaby": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles archer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-aho-squire-hellman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. nisbet bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-asch-america": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fuchs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "sf3-65887": {
+   "pg": 65887,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. A. J. De Villiers"
+  },
+  "sf3-66073": {
+   "pg": 66073,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kenneth Burke"
+  },
+  "sf3-66106": {
+   "pg": 66106,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sarah Elizabeth Utterson"
+  },
+  "sf3-66344": {
+   "pg": 66344,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emil Torday"
+  },
+  "sf3-66405": {
+   "pg": 66405,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ben Ray Redman"
+  },
+  "sf3-66552": {
+   "pg": 66552,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mabel Osgood Wright"
+  },
+  "sf3-66911": {
+   "pg": 66911,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jack Thomas Grein"
+  },
+  "sf3-67061": {
+   "pg": 67061,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary B. Richards"
+  },
+  "sf3-67313": {
+   "pg": 67313,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Agatha Hughes"
+  },
+  "sf3-67929": {
+   "pg": 67929,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Archer"
+  },
+  "sf3-68434": {
+   "pg": 68434,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Harry Morgan Ayres"
+  },
+  "sf3-68486": {
+   "pg": 68486,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander J. Hunter"
+  },
+  "sf3-69173": {
+   "pg": 69173,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "G. D. Oswell"
+  },
+  "sf3-69312": {
+   "pg": 69312,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katherine Berry di Zérèga"
+  },
+  "sf3-69443": {
+   "pg": 69443,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Whitall"
+  },
+  "sf3-69962": {
+   "pg": 69962,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anne Plumptre"
+  },
+  "sf3-70128": {
+   "pg": 70128,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alphonse Nahuys"
+  },
+  "sf3-70159": {
+   "pg": 70159,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eliza Buckminster Lee"
+  },
+  "sf3-70172": {
+   "pg": 70172,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leon Mead"
+  },
+  "sf3-70982": {
+   "pg": 70982,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Randolph Silliman Bourne"
+  },
+  "sf3-71047": {
+   "pg": 71047,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Vyvyan Beresford Holland"
+  },
+  "sf3-71187": {
+   "pg": 71187,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leslie Holdsworth Allen"
+  },
+  "sf3-71880": {
+   "pg": 71880,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Carol Della Chiesa"
+  },
+  "sf3-71923": {
+   "pg": 71923,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Pitts Duffield"
+  },
+  "sf3-73093": {
+   "pg": 73093,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Willard Henry Myers"
+  },
+  "sf3-73109": {
+   "pg": 73109,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Wells Newell"
+  },
+  "sf3-73131": {
+   "pg": 73131,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kazutomo Takahashi"
+  },
+  "sf3-73132": {
+   "pg": 73132,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Z. Tamotsu Iwado"
+  },
+  "sf3-73364": {
+   "pg": 73364,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Natalie Duddington"
+  },
+  "sf3-73670": {
+   "pg": 73670,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eric Sutton"
+  },
+  "sf3-73729": {
+   "pg": 73729,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. E. Chamot"
+  },
+  "sf3-74050": {
+   "pg": 74050,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Hollings"
+  },
+  "sf3-74356": {
+   "pg": 74356,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "David Pritchard"
+  },
+  "sf3-74860": {
+   "pg": 74860,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Miles Menander Dawson"
+  },
+  "sf3-75011": {
+   "pg": 75011,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. W. Wheen"
+  },
+  "sf3-75247": {
+   "pg": 75247,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Janet Achurch"
+  },
+  "sf3-75491": {
+   "pg": 75491,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lincoln Colcord"
+  },
+  "sf3-75756": {
+   "pg": 75756,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Basil Creighton"
+  },
+  "sf3-75967": {
+   "pg": 75967,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lilian A. Clare"
+  },
+  "sf3-76142": {
+   "pg": 76142,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Siri Andrews"
+  },
+  "sf3-76288": {
+   "pg": 76288,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Salomea Neumark Brainin"
+  },
+  "sf3-76493": {
+   "pg": 76493,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hannaford Bennett"
+  },
+  "sf3-76639": {
+   "pg": 76639,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Kenrick"
+  },
+  "sf3-76646": {
+   "pg": 76646,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mitchell S. Buck"
+  },
+  "sf3-76655": {
+   "pg": 76655,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alice Henry"
+  },
+  "sf3-76691": {
+   "pg": 76691,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Paul Carus"
+  },
+  "sf3-76719": {
+   "pg": 76719,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. T. Brewster"
+  },
+  "sf3-77416": {
+   "pg": 77416,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. H. Brewitt-Taylor"
+  },
+  "sf3-77545": {
+   "pg": 77545,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cornelia McFadden"
+  },
+  "sf3-77623": {
+   "pg": 77623,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Josef Štýbr"
+  },
+  "sf3-77663": {
+   "pg": 77663,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary A. Hutton"
+  },
+  "sf3-77708": {
+   "pg": 77708,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anna Maria May"
+  },
+  "sf3-78087": {
+   "pg": 78087,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Maude Wholohan"
+  },
+  "sf3-78247": {
+   "pg": 78247,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clarence Linton Meader"
+  },
+  "sf3-78533": {
+   "pg": 78533,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Agnes Tobin"
+  },
+  "sf3-78812": {
+   "pg": 78812,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Virginia Champlin"
+  },
+  "sf3-79053": {
+   "pg": 79053,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Moreby Acklom"
+  },
+  "sf3-79127": {
+   "pg": 79127,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lawrence Hyde"
+  },
+  "sf3-79218": {
+   "pg": 79218,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arvid Paulson"
+  },
+  "sf3-79327": {
+   "pg": 79327,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Martha Ward Carey"
+  },
+  "sf3-79566": {
+   "pg": 79566,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alex Matson"
+  },
+  "sf3-79583": {
+   "pg": 79583,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gray Casement"
+  },
+  "sf3-79675": {
+   "pg": 79675,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Lediard"
+  },
+  "sf3-71595": {
+   "pg": 71595,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Pollen"
+  },
+  "sf3-70309": {
+   "pg": 70309,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Otto Kotouč"
+  },
+  "sf3-71756": {
+   "pg": 71756,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. L. Voynich"
+  },
+  "sf3-73256": {
+   "pg": 73256,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Izora C. Chandler"
+  },
+  "sf3-78495": {
+   "pg": 78495,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Campbell"
+  },
+  "sf3-garshin-stories-from-garshin": {
+   "ia": "storiesfromgars00garsgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877,
+    1888
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-garshin-the-signal-and-other-stories": {
+   "ia": "signalotherstori00garsrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873,
+    1874,
+    1876,
+    1887,
+    1888,
+    1912
+   ],
+   "post_1930_years_in_front_15k": [
+    1994
+   ],
+   "post_1930_examined": "Examined in round 109: 1994 sits in a library stamp below the 1912 Duckworth imprint reading 'PRESERVATION COPY ADDED, ORIGINAL TO BE RETAINED', a stamp put in the original volume when a preservation copy was made; the scan carries none of the replacement-photocopy notices, so it is read as the 1912 original. Flagged in DIGEST-C for Adam."
+  },
+  "sf3-zeromski-ashes-vol-1": {
+   "ia": "ashes0001stef",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    1939,
+    2026
+   ],
+   "post_1930_examined": "Examined in round 110: 1939 is the end of a library telephone number on a later lending label ('01-854 1939 (all other times)') and 2026 is the Internet Archive's digitising line, not imprints; the copyright page reads Knopf, published September 1928, second printing December 1928."
+  },
+  "sf3-zeromski-ashes-vol-2": {
+   "ia": "bwb_S0-DFX-920",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1803,
+    1804,
+    1833,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "Examined in round 110: 2025 is the Internet Archive's digitising line, not an imprint; the copyright page reads Copyright 1928, by Alfred A. Knopf."
+  },
+  "sf3-capek-makropoulos-secret": {
+   "ia": "makropoulossecre0000kare",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922,
+    1924,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-kleist-kohlhaas-homburg": {
+   "ia": "prussiasreprese00newtgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-chernyshevsky-whats-to-be-done": {
+   "ia": "whatstobedonerom00cher",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856,
+    1863
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-potapenko-a-russian-priest": {
+   "ia": "russianpriest00potarich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-potapenko-a-father-of-six": {
+   "ia": "fatherofsixandoc00potaiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-lazhechnikov-the-heretic-vol-1": {
+   "ia": "hereticorgermans01lazhuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-lazhechnikov-the-heretic-vol-2": {
+   "ia": "hereticorgermans02lazhuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-lazhechnikov-the-heretic-vol-3": {
+   "ia": "hereticorgermans03lazhuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-pontoppidan-emanuel": {
+   "ia": "emanuelorchildre00pontiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1848,
+    1849,
+    1866,
+    1872,
+    1894,
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-leskov-sentry": {
+   "ia": "NikolaiLeskov-SentryAndOtherStories",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791,
+    1831,
+    1839,
+    1851,
+    1896,
+    1921,
+    1922,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-turgenev-liza-ralston": {
+   "ia": "lizaturg01turg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1842,
+    1855,
+    1858,
+    1862,
+    1867,
+    1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-turgenev-spring-floods-butts": {
+   "ia": "springfloods00buttgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1840,
+    1874
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-kuprin-bracelet-of-garnets": {
+   "ia": "braceletgarnets00kuprgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1855,
+    1860,
+    1870,
+    1904,
+    1908,
+    1910,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-tollemache-russian-sketches": {
+   "ia": "russiansketchesc00tolliala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1822,
+    1913
+   ],
+   "post_1930_years_in_front_15k": [
+    1997
+   ],
+   "post_1930_examined": "Examined in round 121: 1997 sits in a library barcode block at the head of the scan; the preface is dated Bordighera, March 1913."
+  },
+  "sf3-gogol-taras-bulba-baskerville": {
+   "ia": "tarasbulbaastor00baskgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1654,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-pushkin-russian-romance-telfer": {
+   "ia": "russianromance00pushiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1683,
+    1767,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-vikelas-loukis-laras": {
+   "ia": "loukislarasremin00vike",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1453,
+    1828,
+    1831,
+    1835,
+    1862,
+    1864,
+    1866,
+    1871,
+    1874,
+    1878,
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-vikelas-tales-from-the-aegean": {
+   "ia": "talesfromgean00opdygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1453,
+    1835,
+    1874,
+    1876,
+    1879,
+    1882,
+    1887,
+    1893,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-jensen-gradiva": {
+   "ia": "gradivaapompeii00jensgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-undset-mistress-of-husaby": {
+   "ia": "bwb_S0-BLO-546",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1927,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-aho-squire-hellman": {
+   "ia": "squirehellmanoth00ahoj",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1876,
+    1887,
+    1890
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "2025 is the Internet Archive digitising line"
+  },
+  "sf3-asch-america": {
+   "ia": "america00asch",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1901,
+    1902,
+    1905,
+    1906,
+    1907,
+    1910,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "sf3-garshin-stories-from-garshin": {
+   "author": "The title page OCR reads 'TRANSLATED BY E. L. V o y N I c H' for E. L. Voynich, letter-spaced, with 'INTRODUCTION BY S. Stepniak' and 'T. FISHER UNWIN, Paternoster Square, MDCCCXCIII'. Checked by eye 2026-10-17."
+  },
+  "sf3-zeromski-ashes-vol-1": {
+   "author": "This scan of vol. I lacks its title page, so the translator's name is not printed in it; its copyright page reads 'Copyright 1928, by Alfred A. Knopf, Inc. Originally issued as Popioły ... Published September, 1928. Second printing December, 1928', and vol. II of the same Knopf edition (bwb_S0-DFX-920) prints 'Ashes by Stefan Zeromski, translated from the Polish by Helen Stankiewicz Zand'. Checked by eye 2026-10-17."
+  },
+  "sf3-chernyshevsky-whats-to-be-done": {
+   "author": "The gate matched 'Benj. R. Tucker' only in the publisher's advertisements at the back. The title page OCR is garbled ('TUANSLAIKJJ llY B.ENJ. U. Tl^rKKJl. ISOSroN') and is read as 'Translated by Benj. R. Tucker. Boston: Benj. R. Tucker, Publisher'; the book opens with a 'Translator's Preface'. Checked by eye 2026-10-17."
+  },
+  "sf3-pontoppidan-emanuel": {
+   "author": "The translator's name is printed only on the decorative title page, which the OCR garbles as 'PK-CHILDRENOr-THE-iOILFRO •TNEDAnJH-OF-NENRLI iEDGA^LUCAJ', read as 'or Children of the Soil, from the Danish of Henrik [Pontoppidan, by Mrs.] Edgar Lucas'. The prefatory note is dated April 1896; the publisher (J. M. Dent) comes from the catalogue record. Checked by eye 2026-10-17."
+  }
+ }
+}

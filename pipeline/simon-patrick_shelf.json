@@ -1,0 +1,309 @@
+{
+ "_about": "Public-domain Simon Patrick (1626-1707), Bishop of Chichester and then of Ely, for the Word Hoard: his Works including his autobiography (Oxford University Press, 1858, nine volumes), his paraphrase of Ecclesiastes and the Song of Solomon (1685), and his Old Testament commentaries from Genesis to Kings in early printings (1699-1705), from Internet Archive scans. Patrick was a Latitudinarian of the Cambridge circle and a devotional writer. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "patrick"
+ ],
+ "_surname": [
+  "simon patrick",
+  "symon patrick",
+  "dr. patrick",
+  "bishop patrick"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "patrick-works-1": [
+   "patricksworks01patruoft",
+   "Works : including his autobiography, vol. 1 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-2": [
+   "patricksworks02patruoft",
+   "Works : including his autobiography, vol. 2 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-3": [
+   "patricksworks03patruoft",
+   "Works : including his autobiography, vol. 3 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-4": [
+   "worksincludinghi04patruoft",
+   "Works : including his autobiography, vol. 4 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-5": [
+   "worksincludinghi05patruoft",
+   "Works : including his autobiography, vol. 5 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-6": [
+   "patricksworks06patruoft",
+   "Works : including his autobiography, vol. 6 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-7": [
+   "patricksworks07patruoft",
+   "Works : including his autobiography, vol. 7 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-8": [
+   "patricksworks08patruoft",
+   "Works : including his autobiography, vol. 8 (Oxford: University Press, 1858)"
+  ],
+  "patrick-works-9": [
+   "patricksworks09patruoft",
+   "Works : including his autobiography, vol. 9 (Oxford: University Press, 1858)"
+  ],
+  "patrick-ecclesiastes-song-1685": [
+   "aparaphraseupon00patruoft",
+   "A paraphrase upon the books of Ecclesiastes, and the Song of Solomon, with arguments to each chapter, and annotations thereupon (London, Printed for Rich. Royston, 1685)"
+  ],
+  "patrick-genesis-1704": [
+   "acommentaryupont00patruoft",
+   "A commentary upon the first book of Moses called Genesis (London, Ri. Chiswell, 1704)"
+  ],
+  "patrick-exodus-1704": [
+   "uponse00patr",
+   "A commentary upon the second book of Moses, called Exodus (London : Printed for Ri. Chiswell, 1704)"
+  ],
+  "patrick-leviticus-1704": [
+   "mosesthirdbook00patruoft",
+   "A commentary upon the third book of Moses, called Leviticus (London, Ri. Chiswell, 1704)"
+  ],
+  "patrick-numbers-1699": [
+   "cfo00patr",
+   "A commentary upon the fourth Book of Moses, called Numbers (London : Printed for Ri Chiswell, 1699)"
+  ],
+  "patrick-deuteronomy-1704": [
+   "commentaryuponfi03patruoft",
+   "A commentary upon the fifth book of Moses, called Deuteronomy (London, Ri. Chiswell, 1704)"
+  ],
+  "patrick-joshua-ruth-1702": [
+   "comnbo00patr",
+   "A commentary upon the Books of Joshua, Judges and Ruth (London : Printed for Ri. Chiswell, 1702)"
+  ],
+  "patrick-samuel-1703": [
+   "commentaryupontw00patriala",
+   "A commentary upon the two books of Samuel (London : Printed for Ri. Chiswell, 1703)"
+  ],
+  "patrick-kings-1705": [
+   "towbooksking00patruoft",
+   "A commentary upon the two Books of Kings (London : Printed for Ri. Chiswell, 1705)"
+  ]
+ },
+ "_alternates": {
+  "patrick-copies": "Other scans of the 1858 Works (Princeton, Illinois, Google) and of the commentaries (1695-1705 printings); the 1822 and 1845 Patrick-Lowth-Arnald-Whitby Critical Commentary, a joint work in which his part is the Old Testament historical books; separate 19th-century reprints of the Heart's Ease, Discourse concerning Prayer, Treatise of Repentance and Advice to a Friend, all contained in the Works"
+ },
+ "_excluded": {
+  "patrick-other": "John Smith's Select Discourses (1660, 1859), which Patrick edited and preached the funeral sermon for; on john-smith-platonist"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "patrick-genesis-1704": "title page read from the OCR: 'By the Right Reverend Father in God, SYMON, Lord Bishop of ELY' (Simon Patrick, Bishop of Ely 1691-1707); London: Chiswell, 1704",
+  "patrick-exodus-1704": "title page read from the page image: 'By the Right Reverend Father in God, SYMON, Lord Bishop of ELY' (Simon Patrick, Bishop of Ely 1691-1707); the second edition corrected, London: Chiswell, 1704",
+  "patrick-leviticus-1704": "title page read from the page image: 'By the Right Reverend Father in God, SYMON, Lord Bishop of ELY' (Simon Patrick, Bishop of Ely 1691-1707); the second edition corrected, London: Chiswell, 1704",
+  "patrick-numbers-1699": "title page read from the OCR: 'By the Right Reverend Father in God, SYMON, Lord Bishop of ELY' (Simon Patrick, Bishop of Ely 1691-1707); London: Chiswell, 1699",
+  "patrick-deuteronomy-1704": "title page read from the page image: 'By the Right Reverend Father in God, SYMON, Lord Bishop of ELY' (Simon Patrick, Bishop of Ely 1691-1707); the second edition corrected, London: Chiswell, 1704",
+  "patrick-joshua-ruth-1702": "title page read from the OCR: 'By the Right Reverend Father in God, SYMON, Lord Bishop of ELY' (Simon Patrick, Bishop of Ely 1691-1707); London: Chiswell, 1702",
+  "patrick-samuel-1703": "title page read from the OCR: 'By the Right Reverend Father in God, SYMON, Lord Bishop of ELY' (Simon Patrick, Bishop of Ely 1691-1707); London: Chiswell, 1703",
+  "patrick-kings-1705": "title page read from the page image, partly covered by a scanning patch: '...Father in GOD, SYMON Lord Bishop of ELY', London, 1705 (Simon Patrick, Bishop of Ely 1691-1707)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "patrick-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "simon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "symon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "symon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "symon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "symon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "simon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "symon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "simon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-ecclesiastes-song-1685": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "symon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1685",
+   "ia_date": "1685",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-genesis-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-exodus-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patrick-leviticus-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-numbers-1699": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "symon patrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1699",
+   "ia_date": "1699",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patrick-deuteronomy-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-joshua-ruth-1702": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1702",
+   "ia_date": "1702",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patrick-samuel-1703": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1703",
+   "ia_date": "1703",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-kings-1705": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

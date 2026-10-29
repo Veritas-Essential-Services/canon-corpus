@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Ernest Untermann (1864-1956): Engels's The Origin of the Family, Private Property and the State (Kerr, 1902) and Dietzgen's The Positive Outcome of Philosophy (1906). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ernest untermann",
+  "untermann"
+ ],
+ "_surname": [
+  "ernest untermann",
+  "untermann"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "unt-33111": [
+   33111,
+   "The origin of the family, private property, and the state"
+  ],
+  "unt-39964": [
+   39964,
+   "The positive outcome of philosophy"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "untermann-dietzgen-the-positive-outcome-of-philosophy": {
+   "source": "unt-39964",
+   "of": "Joseph Dietzgen",
+   "work": "The positive outcome of philosophy",
+   "translated": "1902-1906 (see the Gutenberg header)",
+   "translator": "Ernest Untermann",
+   "scan_edition": "Project Gutenberg 39964 (clean text)"
+  },
+  "untermann-engels-the-origin-of-the-family-private-propert": {
+   "source": "unt-33111",
+   "of": "Friedrich Engels",
+   "work": "The origin of the family, private property, and the state",
+   "translated": "1902-1906 (see the Gutenberg header)",
+   "translator": "Ernest Untermann",
+   "scan_edition": "Project Gutenberg 33111 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "unt-33111": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest untermann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gerhard Ernest Untermann"
+  },
+  "unt-39964": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest untermann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gerhard Ernest Untermann"
+  }
+ },
+ "_verified": {
+  "unt-33111": {
+   "pg": 33111,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gerhard Ernest Untermann"
+  },
+  "unt-39964": {
+   "pg": 39964,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gerhard Ernest Untermann"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

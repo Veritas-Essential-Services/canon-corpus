@@ -1,0 +1,459 @@
+{
+ "_about": "E. W. Hornung's Raffles stories and Australian novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "E. W. Hornung",
+ "_name_words": [
+  "hornung"
+ ],
+ "_surname": [
+  "e. w. hornung"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ewhornung-amateur-cracksman": [
+   706,
+   "The Amateur Cracksman",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-raffles": [
+   707,
+   "Raffles: Further Adventures of the Amateur Cracksman",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-dead-men-tell-no-tales": [
+   1703,
+   "Dead Men Tell No Tales"
+  ],
+  "ewhornung-a-thief-in-the-night": [
+   2098,
+   "A Thief in the Night: A Book of Raffles' Adventures"
+  ],
+  "ewhornung-mr-justice-raffles": [
+   9806,
+   "Mr. Justice Raffles",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-no-hero": [
+   11153,
+   "No Hero",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-shadow-of-the-rope": [
+   12590,
+   "The Shadow of the Rope",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-stingaree": [
+   26526,
+   "Stingaree",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-camera-fiend": [
+   30096,
+   "The Camera Fiend"
+  ],
+  "ewhornung-a-thief-in-the-night-33173": [
+   33173,
+   "A Thief in the Night: Further adventures of A. J. Raffles, Cricketer and Cracksman",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-shadow-of-a-man": [
+   33651,
+   "The Shadow of a Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-witching-hill": [
+   33971,
+   "Witching Hill",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-at-large": [
+   35684,
+   "At Large",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-peccavi": [
+   36115,
+   "Peccavi",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-thousandth-woman": [
+   37062,
+   "The Thousandth Woman",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-tiny-luttrell": [
+   37320,
+   "Tiny Luttrell",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-notes-of-a-camp-follower-on-the-western-front": [
+   37331,
+   "Notes of a Camp-Follower on the Western Front",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-my-lord-duke": [
+   37337,
+   "My Lord Duke",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-crime-doctor": [
+   37338,
+   "The Crime Doctor",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-denis-dent": [
+   37598,
+   "Denis Dent: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-a-bride-from-the-bush": [
+   38388,
+   "A Bride from the Bush",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-boss-of-taroomba": [
+   41658,
+   "The Boss of Taroomba",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-young-blood": [
+   42902,
+   "Young Blood"
+  ],
+  "ewhornung-some-persons-unknown": [
+   45732,
+   "Some Persons Unknown",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-fathers-of-men": [
+   46170,
+   "Fathers of Men",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewhornung-ballad-of-ensign-joy": [
+   52559,
+   "The Ballad of Ensign Joy"
+  ],
+  "ewhornung-young-guard": [
+   52561,
+   "The Young Guard"
+  ],
+  "ewhornung-unbidden-guest": [
+   52562,
+   "The Unbidden Guest"
+  ],
+  "ewhornung-trusty-and-well-beloved": [
+   76201,
+   "'Trusty and well beloved'"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58560": "PG 58560: Gutenberg's index of Hornung's works, not a book."
+ },
+ "_checks": {
+  "ewhornung-amateur-cracksman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-raffles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-dead-men-tell-no-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-a-thief-in-the-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-mr-justice-raffles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-no-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-shadow-of-the-rope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-stingaree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-camera-fiend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-a-thief-in-the-night-33173": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-shadow-of-a-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-witching-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-at-large": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-peccavi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-thousandth-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-tiny-luttrell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-notes-of-a-camp-follower-on-the-western-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-my-lord-duke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-crime-doctor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-denis-dent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-a-bride-from-the-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-boss-of-taroomba": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-young-blood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-some-persons-unknown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-fathers-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-ballad-of-ensign-joy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-young-guard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-unbidden-guest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhornung-trusty-and-well-beloved": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. hornung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

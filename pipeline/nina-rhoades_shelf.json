@@ -1,0 +1,109 @@
+{
+ "_about": "Nina Rhoades: Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Nina Rhoades",
+ "_name_words": [
+  "rhoades"
+ ],
+ "_surname": [
+  "rhoades"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nrhoades-children-on-the-top-floor": [
+   32279,
+   "The Children on the Top Floor"
+  ],
+  "nrhoades-girl-from-arizona": [
+   32417,
+   "The Girl from Arizona"
+  ],
+  "nrhoades-when-gretel-was-fifteen": [
+   50371,
+   "When Gretel Was Fifteen"
+  ],
+  "nrhoades-four-girls-of-forty-years-ago": [
+   73301,
+   "Four girls of forty years ago"
+  ],
+  "nrhoades-real-cinderella": [
+   74904,
+   "A real Cinderella"
+  ],
+  "nrhoades-maisies-merry-christmas": [
+   75482,
+   "Maisie's merry Christmas"
+  ],
+  "nrhoades-noras-twin-sister": [
+   76955,
+   "Nora's twin sister"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "nrhoades-children-on-the-top-floor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoades",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nrhoades-girl-from-arizona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoades",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nrhoades-when-gretel-was-fifteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoades",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nrhoades-four-girls-of-forty-years-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoades",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nrhoades-real-cinderella": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoades",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nrhoades-maisies-merry-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoades",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nrhoades-noras-twin-sister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoades",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

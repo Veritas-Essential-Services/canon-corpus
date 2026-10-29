@@ -1,0 +1,99 @@
+{
+ "_about": "Public-domain John Scott (1639-1695), rector of St Giles in the Fields, for the Word Hoard: The Christian Life, from its beginning to its consummation in glory (London: Knapton and others, 1757, five volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "scott"
+ ],
+ "_surname": [
+  "john scott"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jscott-christian-life-1": [
+   "christianlifefro01scot",
+   "The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 1 (London : Printed for J. Knapton, C. Hitch [etc.], 1757)"
+  ],
+  "jscott-christian-life-2": [
+   "christianlifefro02scot",
+   "The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 2 (London : Printed for J. Knapton, C. Hitch [etc.], 1757)"
+  ],
+  "jscott-christian-life-3": [
+   "christianlifefro03scot",
+   "The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 3 (London : Printed for J. Knapton, C. Hitch [etc.], 1757)"
+  ],
+  "jscott-christian-life-4": [
+   "christianlifefro04scot",
+   "The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 4 (London : Printed for J. Knapton, C. Hitch [etc.], 1757)"
+  ],
+  "jscott-christian-life-5": [
+   "christianlifefro05scot",
+   "The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 5 (London : Printed for J. Knapton, C. Hitch [etc.], 1757)"
+  ]
+ },
+ "_alternates": {
+  "jscott-copies": "The Works (1718 and the Oxford 1826 set, Google copies)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jscott-christian-life-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jscott-christian-life-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jscott-christian-life-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jscott-christian-life-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jscott-christian-life-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

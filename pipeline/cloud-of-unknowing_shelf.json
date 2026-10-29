@@ -1,0 +1,77 @@
+{
+ "_about": "Public-domain The Cloud of Unknowing (anonymous, fourteenth-century English) for the Word Hoard: The Divine Cloud with Augustine Baker's notes, ed. Henry Collins (1871), Evelyn Underhill's edition from British Museum MS Harley 674 (Watkins, 1912) and Justin McCann's edition with other treatises (Burns Oates, 1924), from Internet Archive scans. The work has no author; the shelf's identity check is the work's title. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators and editors recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cloud"
+ ],
+ "_surname": [
+  "cloud of unknowing",
+  "divine cloud"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cloud-divine-cloud-collins": [
+   "TheDivineCloud",
+   "The Divine Cloud, with notes by Augustin Baker, ed. Henry Collins (London: Thomas Richardson, 1871)"
+  ],
+  "cloud-underhill-1912": [
+   "abookofcontemplationunderhill",
+   "A Book of Contemplation the which is called The Cloud of Unknowing, ed. Evelyn Underhill (London: John M. Watkins, 1912)"
+  ],
+  "cloud-mccann-1924": [
+   "thecloudofunknowingbamccann",
+   "The Cloud of Unknowing and Other Treatises, with Baker's commentary, ed. Justin McCann, Orchard Books (London: Burns Oates, 1924)"
+  ]
+ },
+ "_alternates": {
+  "cloud-copies": "Other 1871 copies; Underhill's second edition (1922; also CCEL anonymous2/cloud); McCann, Benziger issue (1924)"
+ },
+ "_excluded": {
+  "cloud-bogus": "uploads with impossible or modern dates (the-cloud-of-unknowing-3, TheCloudOfUnknowing_201808, cloudofunknowing0000unse_j3a7)"
+ },
+ "_pending": {},
+ "_translators": {
+  "cloud-divine-cloud-collins": "collins",
+  "cloud-underhill-1912": "underhill"
+ },
+ "_checks": {
+  "cloud-divine-cloud-collins": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cloud of unknowing",
+   "translator_claimed": "collins",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cloud-underhill-1912": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cloud of unknowing",
+   "translator_claimed": "underhill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cloud-mccann-1924": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cloud of unknowing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

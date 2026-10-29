@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Johann Adam Möhler (1796-1838, Catholic theologian of Tübingen) in English for the Word Hoard: Symbolism, or Exposition of the Doctrinal Differences between Catholics and Protestants, tr. James Burton Robertson (2 vols, London: Dolman, 1843), and The Life of St. Anselm tr. Henry Rymer (1842), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hler"
+ ],
+ "_surname": [
+  "moehler",
+  "möhler",
+  "mohler",
+  "john adam moehler",
+  "j. a. moehler",
+  "j. a. möhler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moehler-symbolism-1": [
+   "a593164201mohluoft",
+   "Symbolism, or Exposition of the Doctrinal Differences between Catholics and Protestants, tr. James Burton Robertson, vol. I (London: Charles Dolman, 1843)"
+  ],
+  "moehler-symbolism-2": [
+   "a593164202mohluoft",
+   "Symbolism, tr. James Burton Robertson, vol. II (London: Charles Dolman, 1843)"
+  ],
+  "moehler-life-of-anselm": [
+   "lifestanselmarc00mhgoog",
+   "The Life of St. Anselm, Archbishop of Canterbury, tr. Henry Rymer (London: T. Jones, 1842)"
+  ]
+ },
+ "_alternates": {
+  "moehler-symbolism-copies": "New York 1844, the second edition (1846-1847), Scribner 1894, Gibbings 1906"
+ },
+ "_excluded": {
+  "moehler-late": "Crossroad 1997",
+  "moehler-other-languages": "German and French editions"
+ },
+ "_rights_checked": {
+  "moehler-life-of-anselm": "title page read: 'By Henry R.YMER, student of St. Edmund's College' (OCR garble of Rymer), so the translator is not claimed"
+ },
+ "_pending": {
+  "moehler-unity": "Unity in the Church and Athanasius in English before 1930: not found"
+ },
+ "_translators": {
+  "moehler-symbolism-1": "robertson",
+  "moehler-symbolism-2": "robertson"
+ },
+ "_checks": {
+  "moehler-symbolism-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "moehler",
+   "translator_claimed": "robertson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moehler-symbolism-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "moehler",
+   "translator_claimed": "robertson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moehler-life-of-anselm": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mohler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'By Henry R.YMER, student of St. Edmund's College' (OCR garble of Rymer), so the translator is not claimed"
+  }
+ }
+}

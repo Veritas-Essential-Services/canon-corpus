@@ -1,0 +1,316 @@
+{
+ "_about": "Public-domain Ignaz von Döllinger (1799-1890, church historian of Munich) in English for the Word Hoard: 15 volumes from Internet Archive scans, among them A History of the Church tr. Edward Cox (4 vols, 1840-1842), The Gentile and the Jew tr. N. Darnell (2 vols, 1862), The First Age of Christianity tr. H. N. Oxenham, Hippolytus and Callistus and the Fables respecting the Popes tr. Alfred Plummer, the Lectures on the Reunion of the Churches, Studies in European History tr. Margaret Warre, and the Declarations and Letters on the Vatican Decrees. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "llinger"
+ ],
+ "_surname": [
+  "dollinger",
+  "döllinger",
+  "doellinger",
+  "ignaz von dollinger",
+  "j. j. i. von dollinger"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "doellinger-history-church-1": [
+   "historyofchurcht01dl",
+   "A History of the Church, tr. Edward Cox, vol. 1 (London: C. Dolman and T. Jones, 1840)"
+  ],
+  "doellinger-history-church-2": [
+   "historyofchurcht02dl",
+   "A History of the Church, tr. Edward Cox, vol. 2 (London: C. Dolman and T. Jones, 1840)"
+  ],
+  "doellinger-history-church-3": [
+   "historyofchurcht03dl",
+   "A History of the Church, tr. Edward Cox, vol. 3 (London: C. Dolman and T. Jones, 1841)"
+  ],
+  "doellinger-history-church-4": [
+   "historyofchurcht04dl",
+   "A History of the Church, tr. Edward Cox, vol. 4 (London: C. Dolman and T. Jones, 1842)"
+  ],
+  "doellinger-gentile-and-jew-1": [
+   "gentilejewincour01dluoft",
+   "The Gentile and the Jew in the Courts of the Temple of Christ, tr. N. Darnell, vol. I (London: Longman, 1862)"
+  ],
+  "doellinger-gentile-and-jew-2": [
+   "gentilejewincour02dl",
+   "The Gentile and the Jew in the Courts of the Temple of Christ, tr. N. Darnell, vol. II (London: Longman, 1862)"
+  ],
+  "doellinger-first-age": [
+   "ra575056900dolluoft",
+   "The First Age of Christianity and the Church, tr. Henry Nutcombe Oxenham, second edition (London: Wm. H. Allen, 1867)"
+  ],
+  "doellinger-church-and-churches": [
+   "a575025700dolluoft",
+   "The Church and the Churches, or the Papacy and the Temporal Power, tr. William Bernard MacCabe (London: Hurst and Blackett, 1862)"
+  ],
+  "doellinger-hippolytus-callistus": [
+   "hippolytusandcal00deoluoft",
+   "Hippolytus and Callistus, tr. Alfred Plummer (Edinburgh: T. and T. Clark, 1876)"
+  ],
+  "doellinger-fables-popes": [
+   "a575055900dolluoft",
+   "Fables respecting the Popes of the Middle Ages, tr. Alfred Plummer (London: Rivingtons, 1871)"
+  ],
+  "doellinger-prophecies": [
+   "a577139900dolluoft",
+   "Prophecies and the Prophetic Spirit in the Christian Era, tr. Alfred Plummer (London: Rivingtons, 1873)"
+  ],
+  "doellinger-reunion": [
+   "a576171900dolluoft",
+   "Lectures on the Reunion of the Churches, tr. Henry Nutcombe Oxenham (London: Rivingtons, 1872)"
+  ],
+  "doellinger-studies-european-history": [
+   "studiesineuropea00dl",
+   "Studies in European History, being Academical Addresses, tr. Margaret Warre (London: John Murray, 1890)"
+  ],
+  "doellinger-addresses": [
+   "a574995800dolluoft",
+   "Addresses on Historical and Literary Subjects, tr. Margaret Warre (London: John Murray, 1894)"
+  ],
+  "doellinger-declarations-vatican": [
+   "declarationslett00dolluoft",
+   "Declarations and Letters on the Vatican Decrees 1869-1887, authorised translation (Edinburgh: T. & T. Clark; catalogued 1891)"
+  ]
+ },
+ "_alternates": {
+  "doellinger-janus-quirinus": "The Pope and the Council by 'Janus' (1869) and Letters from Rome on the Council by 'Quirinus' (1870; PG 38116): pseudonymous and collaborative, his name is not on the title pages; they wait on an attribution ruling",
+  "doellinger-copies": "Other copies of the History, Gentile and Jew (1906), First Age (1866 vol. I, 1877, 1906), the Dodd & Mead Fables and Prophetic Spirit (1872), the New York Reunion (1872)"
+ },
+ "_excluded": {
+  "doellinger-about": "Kobell's Conversations (1892); Hergenröther's Anti-Janus",
+  "doellinger-other": "German editions; 1973 reprints"
+ },
+ "_identity_checked": {
+  "doellinger-history-church-2": {
+   "author": "title page read: 'REV. J. J. IG. [D]OLLINGER, D.D., Professor of Theology in the Royal University of Munich' (OCR \"'t)OLLINGER\"); translated by Edward Cox"
+  },
+  "doellinger-history-church-3": {
+   "author": "title page read: 'REV. J. J. IG. BOLLINGER' (OCR garble of Dollinger), Professor of Theology at Munich; translated by Edward Cox"
+  },
+  "doellinger-history-church-4": {
+   "author": "title page read: 'REV. J. J. IG. BOLLINGER' (OCR garble of Dollinger), Professor of Theology at Munich; translated by Edward Cox"
+  },
+  "doellinger-gentile-and-jew-2": {
+   "author": "title page read: 'from the German of John J. I. DOLL1NGER' (OCR '1' for 'I'), by N. Darnell"
+  }
+ },
+ "_rights_checked": {
+  "doellinger-declarations-vatican": "title page read: T. & T. Clark, year OCR'd '189,'; catalogued 1891; preface by the editor F. H. Reusch dated Bonn 1890"
+ },
+ "_pending": {},
+ "_translators": {
+  "doellinger-history-church-1": "cox",
+  "doellinger-history-church-2": "cox",
+  "doellinger-history-church-3": "cox",
+  "doellinger-history-church-4": "cox",
+  "doellinger-gentile-and-jew-1": "darnell",
+  "doellinger-gentile-and-jew-2": "darnell",
+  "doellinger-first-age": "oxenham",
+  "doellinger-reunion": "oxenham",
+  "doellinger-church-and-churches": "cabe",
+  "doellinger-hippolytus-callistus": "plummer",
+  "doellinger-fables-popes": "plummer",
+  "doellinger-prophecies": "plummer",
+  "doellinger-studies-european-history": "warre",
+  "doellinger-addresses": "warre"
+ },
+ "_checks": {
+  "doellinger-history-church-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "cox",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-history-church-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "cox",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-history-church-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "cox",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-history-church-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "cox",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-gentile-and-jew-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "darnell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-gentile-and-jew-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "darnell",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-first-age": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "oxenham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-church-and-churches": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "cabe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doellinger-hippolytus-callistus": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "plummer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doellinger-fables-popes": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "plummer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doellinger-prophecies": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "plummer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doellinger-reunion": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "oxenham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doellinger-studies-european-history": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "warre",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doellinger-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "translator_claimed": "warre",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doellinger-declarations-vatican": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dollinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: T. & T. Clark, year OCR'd '189,'; catalogued 1891; preface by the editor F. H. Reusch dated Bonn 1890"
+  }
+ }
+}

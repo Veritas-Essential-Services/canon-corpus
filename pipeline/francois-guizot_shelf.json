@@ -1,0 +1,44 @@
+{
+ "_about": "François Guizot (1787-1874), historian and statesman, a philosopher of history: General History of Civilisation in Europe, from the Fall of the Roman Empire till the French Revolution, with A Treatise on Death Punishments (Edinburgh: W. and R. Chambers, 1848; translator not named); Democracy in France, January 1849, fourth edition (London: John Murray, 1849). Clean Gutenberg texts. Other Guizot titles stand on lane C and singles shelves (Popular History of France on robert-black; Representative Government and Washington on singles-history-2; Memoirs on singles-nonfiction-2; Meditations and Moral Sketches on singles-remainder). US public domain. No uids minted.",
+ "_author": "François Guizot",
+ "_name_words": [
+  "francois",
+  "guizot"
+ ],
+ "_surname": [
+  "guizot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "guizot-civilisation-in-europe-1848": [
+   61572,
+   "General History of Civilisation in Europe (Chambers, 1848)"
+  ],
+  "guizot-democracy-in-france-1849": [
+   57601,
+   "Democracy in France, January 1849, fourth edition (Murray, 1849)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "guizot-civilisation-in-europe-1848": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "guizot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guizot-democracy-in-france-1849": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "guizot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Christoph Christian Sturm (1740-1786), Lutheran preacher at Magdeburg and Hamburg, in English translation, for the Word Hoard: Reflections on the Works of God and of His Providence (1824 translation), The Beauties of Sturm (Elizabeth Helme's adaptation for young readers), and Contemplations on the Sufferings of Jesus Christ. The German originals are left out; this shelf is English only. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 101 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "christoph christian sturm",
+  "c. c. sturm",
+  "sturm"
+ ],
+ "_surname": [
+  "christoph christian sturm",
+  "c. c. sturm",
+  "sturm"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sturm-beauties-1798": [
+   "beautiesofsturmi00stur",
+   "The beauties of Sturm, in lessons on the works of God, and his providence : rendered familiar to the capacities of youth (London : Printed for James Scatchard [etc.], 1798)"
+  ],
+  "sturm-reflections-1824": [
+   "reflectionsonwo00stur",
+   "Reflections on the works of God in nature and providence, for every day in the year (New York, A. Paul, 1824)"
+  ],
+  "sturm-sufferings-of-jesus": [
+   "OnTheSufferingsOfJesus",
+   "Contemplations on the sufferings of Jesus Christ : in a series of devotional exercises, with an explanatory paraphrase of the gospel narrative (London : Printed for Baldwin, Cradock, and Joy, 1826)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sturm-mathesis": "Mathesis Enucleata, by the mathematician Johann Christoph Sturm (a different man)",
+  "sturm-french": "Considerations sur les oeuvres de Dieu (French translation)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "sturm-reflections-1788": "bim_eighteenth-century_reflections-on-the-works_sturm-christoph-christi_1788_1: the scan has no title page and its OCR never names Sturm; another printing could replace it"
+ },
+ "_translators": {},
+ "_checks": {
+  "sturm-beauties-1798": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sturm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sturm-reflections-1824": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sturm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "sturm-sufferings-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sturm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

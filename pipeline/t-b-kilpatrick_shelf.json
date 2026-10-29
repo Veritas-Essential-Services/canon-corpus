@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Thomas Buchanan Kilpatrick, Scottish-born Presbyterian theologian and professor at Knox College, Toronto, for the Word Hoard: Christian Conduct, Christian Character, A Summary of Christian Doctrine, New Testament Evangelism, The Redemption of Man, and Our Common Faith. He died in 1930; every book here was printed before then. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 130 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas buchanan kilpatrick",
+  "t. b. kilpatrick",
+  "thomas b. kilpatrick",
+  "kilpatrick"
+ ],
+ "_surname": [
+  "kilpatrick"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kilpatrick-christian-conduct": [
+   "christianconduct00kilp",
+   "Christian conduct :  a further study in New Testament morality (Edinburgh : T. & T. Clarke ; London, 1890)"
+  ],
+  "kilpatrick-christian-character": [
+   "christiancharact0000kilp",
+   "Christian character : a study in New Testament morality (Edinburgh : T. & T. Clark, 1896)"
+  ],
+  "kilpatrick-summary-doctrine": [
+   "cihm_79729",
+   "A summary of Christian doctrine (Toronto : R.D. Fraser, 1905)"
+  ],
+  "kilpatrick-nt-evangelism": [
+   "cihm_80416",
+   "New Testament evangelism (Toronto : Westminster Co., 1911)"
+  ],
+  "kilpatrick-redemption-of-man": [
+   "redemptionofman00kilp",
+   "The redemption of man (New York : Scribner's, 1920)"
+  ],
+  "kilpatrick-our-common-faith": [
+   "bwb_C0-AUB-513",
+   "Our Common Faith (catalogued 1928)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kilpatrick-butler": "Butler's Sermons is Bishop Butler's book, which he edited",
+  "kilpatrick-kootenay": "The Kootenay Campaign is a short campaign report"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kilpatrick-christian-conduct": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kilpatrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kilpatrick-christian-character": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kilpatrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kilpatrick-summary-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kilpatrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kilpatrick-nt-evangelism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kilpatrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kilpatrick-redemption-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kilpatrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kilpatrick-our-common-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kilpatrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "Two allegorical children's tales by A. L. O. E. ('A Lady of England'): The Rambles of a Rat (1864) and Pride and His Prisoners (Thomas Nelson; undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Two allegorical children's tales by A. L. O. E. ('A Lady of England'): The Rambles of a Rat (1864) and Pride and His Prisoners (Thomas Nelson; undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by A. L. O. E. at Gutenberg was added (44 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto).",
  "_author": "A. L. O. E.",
  "_name_words": [
   "a. l. o. e."
@@ -36,6 +36,218 @@
     "start": "CHAPTER I\\.?$",
     "front": true
    }
+  ],
+  "aloe-crown-of-success": [
+   25516,
+   "The Crown of Success"
+  ],
+  "aloe-hebrew-heroes": [
+   26094,
+   "Hebrew Heroes: A Tale Founded on Jewish History"
+  ],
+  "aloe-haunted-room": [
+   35533,
+   "The Haunted Room: A Tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-spanish-cavalier": [
+   35705,
+   "The Spanish Cavalier: A Story of Seville",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-childrens-tabernacle": [
+   49643,
+   "The Children's Tabernacle; Or, Hand-Work and Heart-Work",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-flora": [
+   53581,
+   "Flora"
+  ],
+  "aloe-a-wreath-of-indian-stories": [
+   58693,
+   "A Wreath of Indian Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-precepts-in-practice": [
+   58791,
+   "Precepts in Practice; or, Stories Illustrating the Proverbs",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-harolds-bride": [
+   59333,
+   "Harold's Bride: A Tale"
+  ],
+  "aloe-beyond-the-black-waters": [
+   59619,
+   "Beyond the Black Waters",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-wings-and-stings": [
+   60065,
+   "Wings and Stings: A Tale for the Young"
+  ],
+  "aloe-edith-and-her-ayah-and-other-stories": [
+   60138,
+   "Edith and Her Ayah, and Other Stories"
+  ],
+  "aloe-hymns-and-poems": [
+   60142,
+   "Hymns and Poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-idols-in-the-heart": [
+   60486,
+   "Idols in the Heart: A Tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-young-pilgrim": [
+   61280,
+   "The Young Pilgrim: A Tale Illustrative of \"The Pilgrim's Progress\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-sheer-off": [
+   61804,
+   "Sheer Off: A Tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-stories-of-the-wars-of-the-jews-from-the-babylonish-cap": [
+   64490,
+   "Stories of the Wars of the Jews from the Babylonish captivity, to the destruction of Jerusalem by Titus",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-story-of-a-needle": [
+   65365,
+   "The Story of a Needle"
+  ],
+  "aloe-triumph-over-midian": [
+   68179,
+   "The triumph over Midian"
+  ],
+  "aloe-convicts-child": [
+   71321,
+   "The convict's child"
+  ],
+  "aloe-hold-fast": [
+   71382,
+   "Hold fast"
+  ],
+  "aloe-look-of-the-thing-and-other-stories": [
+   71383,
+   "The look of the thing and other stories"
+  ],
+  "aloe-beautiful-garment-and-other-stories": [
+   71492,
+   "The beautiful garment, and other stories"
+  ],
+  "aloe-true-heroism": [
+   71600,
+   "True heroism"
+  ],
+  "aloe-adopted-son": [
+   71906,
+   "The adopted son"
+  ],
+  "aloe-a-l-o-e-s-picture-story-book": [
+   72109,
+   "A. L. O. E.'s picture story book."
+  ],
+  "aloe-brothers-return-and-other-stories": [
+   72110,
+   "The brother's return, and other stories"
+  ],
+  "aloe-friend-and-foe": [
+   72968,
+   "Friend and foe"
+  ],
+  "aloe-percivals-picture-gallery": [
+   73027,
+   "Percival's picture gallery"
+  ],
+  "aloe-sailors-home": [
+   73200,
+   "The sailor's home"
+  ],
+  "aloe-battle-of-life": [
+   73275,
+   "The battle of life"
+  ],
+  "aloe-hartley-brothers": [
+   73511,
+   "The Hartley brothers"
+  ],
+  "aloe-robbers-cave": [
+   73660,
+   "The robbers' cave"
+  ],
+  "aloe-life-in-the-eagles-nest": [
+   74306,
+   "Life in the Eagle's Nest",
+   {
+    "contents_only": true
+   }
+  ],
+  "aloe-house-beautiful": [
+   74370,
+   "House beautiful"
+  ],
+  "aloe-mirror-and-the-bracelet": [
+   74662,
+   "The mirror and the bracelet"
+  ],
+  "aloe-wanderer-in-africa": [
+   76281,
+   "The wanderer in Africa"
+  ],
+  "aloe-story-of-dr-duff": [
+   76355,
+   "The story of Dr. Duff"
+  ],
+  "aloe-paul-harleys-dream": [
+   77088,
+   "Paul Harley's dream"
+  ],
+  "aloe-olive-branch-and-other-stories": [
+   77151,
+   "The olive branch, and other stories"
+  ],
+  "aloe-straight-road-is-shortest-and-surest": [
+   77568,
+   "The straight road is shortest and surest"
+  ],
+  "aloe-wondrous-sickle-and-other-stories": [
+   77569,
+   "The wondrous sickle, and other stories"
+  ],
+  "aloe-doras-mistake": [
+   77916,
+   "Dora's mistake"
+  ],
+  "aloe-golden-fleece": [
+   78512,
+   "The golden fleece"
   ]
  },
  "internet_archive": {},
@@ -43,7 +255,7 @@
  "_checks": {
   "aloe-rambles-of-a-rat": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "a. l. o. e.",
    "identity": "ok",
@@ -52,7 +264,403 @@
   },
   "aloe-pride-and-his-prisoners": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-crown-of-success": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-hebrew-heroes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-haunted-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-spanish-cavalier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-childrens-tabernacle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-flora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-a-wreath-of-indian-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-precepts-in-practice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-harolds-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-beyond-the-black-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-wings-and-stings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-edith-and-her-ayah-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-hymns-and-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-idols-in-the-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-young-pilgrim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-sheer-off": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-stories-of-the-wars-of-the-jews-from-the-babylonish-cap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-story-of-a-needle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-triumph-over-midian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-convicts-child": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-hold-fast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-look-of-the-thing-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-beautiful-garment-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-true-heroism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-adopted-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-a-l-o-e-s-picture-story-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-brothers-return-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-friend-and-foe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-percivals-picture-gallery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-sailors-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-battle-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-hartley-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-robbers-cave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-life-in-the-eagles-nest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-house-beautiful": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-mirror-and-the-bracelet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-wanderer-in-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-story-of-dr-duff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-paul-harleys-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-olive-branch-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-straight-road-is-shortest-and-surest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-wondrous-sickle-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-doras-mistake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-golden-fleece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "a. l. o. e.",
    "identity": "ok",

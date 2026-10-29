@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain William Cunningham (1805-1861, Free Church of Scotland, principal of New College, Edinburgh) for the Word Hoard: the posthumous works edited by James Buchanan and James Bannerman (Edinburgh: T. & T. Clark, 1862-63): The Reformers and the Theology of the Reformation, Historical Theology (2 vols), Discussions on Church Principles; and his Theological Lectures (London: Nisbet, 1878), raw Internet Archive OCR from Princeton and Toronto scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain William Cunningham (1805-1861, Free Church of Scotland, principal of New College, Edinburgh) for the Word Hoard: the posthumous works edited by James Buchanan and James Bannerman (Edinburgh: T. & T. Clark, 1862-63): The Reformers and the Theology of the Reformation, Historical Theology (2 vols), Discussions on Church Principles; and his Theological Lectures (London: Nisbet, 1878), raw Internet Archive OCR from Princeton and Toronto scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.  2026-10-28 (Adam's Reformed authors table): his Sermons from 1828 to 1860 (1872) added.",
  "_name_words": [
   "cunningham",
   "william"
@@ -30,6 +30,10 @@
   "wcunningham-theological-lectures-1878": [
    "theologicallectu00cunn",
    "Theological Lectures on Natural Theology, Evidences, the Canon and Inspiration of Scripture (London: Nisbet, 1878)"
+  ],
+  "wcunningham-sermons-1872": [
+   "sermonsfrom182810000cunn",
+   "Sermons from 1828 to 1860, edited with a preface by J. J. Bonar (Edinburgh: T. & T. Clark, 1872)"
   ]
  },
  "_alternates": {
@@ -46,7 +50,7 @@
  "_checks": {
   "wcunningham-reformers-1862": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "cunningham",
    "identity": "ok",
@@ -57,29 +61,29 @@
   },
   "wcunningham-historical-theology-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "cunningham",
    "identity": "ok",
-   "ia_rights": "ok: published 1863",
+   "ia_rights": "ok: published 1864",
    "ia_date": "1863-1864",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
   "wcunningham-historical-theology-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "cunningham",
    "identity": "ok",
-   "ia_rights": "ok: published 1863",
+   "ia_rights": "ok: published 1864",
    "ia_date": "1863-1864",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
   "wcunningham-church-principles-1863": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "cunningham",
    "identity": "ok",
@@ -90,7 +94,7 @@
   },
   "wcunningham-theological-lectures-1878": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "cunningham",
    "identity": "ok",
@@ -98,6 +102,18 @@
    "ia_date": "1878",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "wcunningham-sermons-1872": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
- }
+ },
+ "_pending": {}
 }

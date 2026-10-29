@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain T. H. Darlow, literary superintendent of the British and Foreign Bible Society, for the Word Hoard: Via Sacra, More Golden than Gold, At Home in the Bible, The Greatest Book in the World, and his life of William Robertson Nicoll. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 133 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas herbert darlow",
+  "t. h. darlow",
+  "darlow"
+ ],
+ "_surname": [
+  "darlow"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "darlow-via-sacra": [
+   "viasacra0000darl",
+   "Via sacra ([New York] : Hodder and Stoughton : George H. Doran Co., 1911)"
+  ],
+  "darlow-more-golden": [
+   "bwb_KU-342-840",
+   "More golden than gold (Bible House, 1912)"
+  ],
+  "darlow-at-home-in-bible": [
+   "athomeinbible00darl",
+   "At home in the Bible (Toronto ; New York : Hodder and Stoughton, 1923)"
+  ],
+  "darlow-greatest-book": [
+   "greatestbookinwo00darl",
+   "The greatest book in the world (Garden city, N.Y. : Doubleday, Doran and Co., 1927)"
+  ],
+  "darlow-nicoll": [
+   "williamrobertson0000thda",
+   "William robertson nicoll life and letters (catalogued 1925)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "darlow-edited": "Let Us Pray (selected collects) and the Letters of George Borrow are other men's words he collected or edited",
+  "darlow-dups": "other scans of The Greatest Book in the World"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "darlow-ebony": "God's Image in Ebony (1912, IA godsimageinebony00darluoft): not yet checked whether the sketches are his or collected from others"
+ },
+ "_translators": {},
+ "_checks": {
+  "darlow-via-sacra": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "darlow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darlow-more-golden": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "darlow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darlow-at-home-in-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "darlow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darlow-greatest-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "darlow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darlow-nicoll": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "darlow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

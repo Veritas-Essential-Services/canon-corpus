@@ -1,0 +1,529 @@
+{
+ "_about": "Storytellers' tail, group 43: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Hugh Quigley, Alanson M. Randol, W. B. Rands, Robin Ranger, R. C. Rankin, George R. Ray, Theodore Reichardt, Maurice Renard, Harrison Rhodes, Ben. E. Rich, Alfred Bate Richards, Norval Richardson, A. G. Riddle, Ameen Fares Rihani, Henry Hiram Riley, William Y. W. Ripley, R. V. Risley, Anna Cora Ogden Mowatt Ritchie, Edward Mott Robbins, Sarah Stuart Robbins, James Roberts, Alexander Robertson, Arthur Somers Roche, A. S. Roe, Robert M. Rogers, Maro O. Rolfe, Amanda McKittrick Ros, Albert Ross, Benjamin Rotch, Louis de Rougemont. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 43 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "hquigley-cross-and-the-shamrock-or-how-to-defend-the-faith-a": [
+   "hugh quigley",
+   "quigley"
+  ],
+  "amrandol-last-days-of-the-rebellion-the-second-new-york-cava": [
+   "alanson m. randol",
+   "randol"
+  ],
+  "wbrands-lilliput-lyrics": [
+   "w. b. rands",
+   "william brighty  rands",
+   "rands"
+  ],
+  "rranger-up-in-the-garret": [
+   "robin ranger",
+   "ranger"
+  ],
+  "rcrankin-history-of-the-seventh-ohio-volunteer-cavalry": [
+   "r. c. rankin",
+   "richard c. rankin",
+   "rankin"
+  ],
+  "grray-kasba-white-partridge": [
+   "george r. ray"
+  ],
+  "treichardt-diary-of-battery-a-first-regiment-rhode-island-li": [
+   "theodore reichardt",
+   "reichardt"
+  ],
+  "mrenard-new-bodies-for-old": [
+   "maurice renard",
+   "renard"
+  ],
+  "hrhodes-gentleman-from-mississippi": [
+   "harrison rhodes",
+   "rhodes"
+  ],
+  "berich-mr-durant-of-salt-lake-city-that-mormon": [
+   "ben. e. rich",
+   "benjamin erastus rich"
+  ],
+  "abrichards-cromwell": [
+   "alfred bate richards",
+   "richards"
+  ],
+  "nrichardson-lead-of-honour": [
+   "norval richardson",
+   "richardson"
+  ],
+  "agriddle-bart-ridgeley": [
+   "a. g. riddle",
+   "albert gallatin riddle",
+   "riddle"
+  ],
+  "afrihani-book-of-khalid": [
+   "ameen fares rihani",
+   "rihani"
+  ],
+  "hhriley-puddleford-papers": [
+   "henry hiram riley",
+   "riley"
+  ],
+  "wywripley-vermont-riflemen-in-the-war-for-the-union-1861-to": [
+   "william y. w. ripley",
+   "william young warren ripley",
+   "ripley"
+  ],
+  "rvrisley-sentimental-vikings": [
+   "r. v. risley",
+   "richard voorhees risley",
+   "risley"
+  ],
+  "acomritchie-fairy-fingers-a-novel": [
+   "anna cora ogden mowatt ritchie",
+   "ritchie"
+  ],
+  "emrobbins-civil-war-experiences-1862-1865-chickamauga-missio": [
+   "edward mott robbins",
+   "robbins"
+  ],
+  "ssrobbins-miss-ashton-s-new-pupil": [
+   "sarah stuart robbins",
+   "robbins"
+  ],
+  "jroberts-coyote-a-western-story": [
+   "james roberts",
+   "roberts"
+  ],
+  "arobertson-joe-leslie-s-wife": [
+   "alexander robertson",
+   "robertson"
+  ],
+  "asroche-find-the-woman": [
+   "arthur somers roche",
+   "roche"
+  ],
+  "asroe-i-ve-been-thinking": [
+   "a. s. roe",
+   "azel stevens roe"
+  ],
+  "rmrogers-125th-regiment-illinois-volunteer-infantry": [
+   "robert m. rogers",
+   "rogers"
+  ],
+  "morolfe-phantom-rider": [
+   "maro o. rolfe",
+   "maro orlando rolfe",
+   "rolfe"
+  ],
+  "amros-irene-iddesleigh": [
+   "amanda mckittrick ros"
+  ],
+  "aross-new-sensation": [
+   "albert ross"
+  ],
+  "brotch-suggestions-for-the-prevention-of-juvenile-depravity": [
+   "benjamin rotch",
+   "rotch"
+  ],
+  "ldrougemont-adventures-of-louis-de-rougemont": [
+   "louis de rougemont",
+   "rougemont"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hquigley-cross-and-the-shamrock-or-how-to-defend-the-faith-a": [
+   16958,
+   "The Cross and the Shamrock Or, How To Defend The Faith. An Irish-American Catholic Tale Of Real Life, Descriptive Of The Temptations, Sufferings, Trials, And Triumphs Of The Children Of St. Patrick In The Great Republic Of Washington. A Book For The Entertainment And Special Instructions Of The Catholic Male And Female Servants Of The United States."
+  ],
+  "amrandol-last-days-of-the-rebellion-the-second-new-york-cava": [
+   31974,
+   "Last Days of the Rebellion The Second New York Cavalry (Harris' Light) at Appomattox Station and Appomattox Court House, April 8 and 9, 1865"
+  ],
+  "wbrands-lilliput-lyrics": [
+   53030,
+   "Lilliput Lyrics"
+  ],
+  "rranger-up-in-the-garret": [
+   63049,
+   "Up in the garret"
+  ],
+  "rcrankin-history-of-the-seventh-ohio-volunteer-cavalry": [
+   31584,
+   "History of the Seventh Ohio Volunteer Cavalry"
+  ],
+  "grray-kasba-white-partridge": [
+   53176,
+   "Kasba (White Partridge): A Story of Hudson Bay"
+  ],
+  "treichardt-diary-of-battery-a-first-regiment-rhode-island-li": [
+   32111,
+   "Diary of Battery A, First Regiment Rhode Island Light Artillery"
+  ],
+  "mrenard-new-bodies-for-old": [
+   59647,
+   "New Bodies for Old"
+  ],
+  "hrhodes-gentleman-from-mississippi": [
+   10844,
+   "A Gentleman from Mississippi"
+  ],
+  "berich-mr-durant-of-salt-lake-city-that-mormon": [
+   56685,
+   "Mr. Durant of Salt Lake City, \"That Mormon\""
+  ],
+  "abrichards-cromwell": [
+   14448,
+   "Cromwell: A Drama, in Five Acts"
+  ],
+  "nrichardson-lead-of-honour": [
+   46381,
+   "The Lead of Honour"
+  ],
+  "agriddle-bart-ridgeley": [
+   12249,
+   "Bart Ridgeley: A Story of Northern Ohio"
+  ],
+  "afrihani-book-of-khalid": [
+   29257,
+   "The Book of Khalid"
+  ],
+  "hhriley-puddleford-papers": [
+   36678,
+   "The Puddleford Papers; Or, Humors of the West"
+  ],
+  "wywripley-vermont-riflemen-in-the-war-for-the-union-1861-to": [
+   35088,
+   "Vermont riflemen in the war for the union, 1861 to 1865"
+  ],
+  "rvrisley-sentimental-vikings": [
+   32191,
+   "The Sentimental Vikings"
+  ],
+  "acomritchie-fairy-fingers-a-novel": [
+   24664,
+   "Fairy Fingers A Novel"
+  ],
+  "emrobbins-civil-war-experiences-1862-1865-chickamauga-missio": [
+   38859,
+   "Civil War Experiences, 1862-1865 Chickamauga, Mission Ridge, Buzzard Roost, Resaca, Rome, New Hope Church, Kenesaw Mountain, Peach Tree Creek, Atlanta, Jonesboro, Averysboro, Bentonville"
+  ],
+  "ssrobbins-miss-ashton-s-new-pupil": [
+   28743,
+   "Miss Ashton's New Pupil: A School Girl's Story"
+  ],
+  "jroberts-coyote-a-western-story": [
+   29602,
+   "The Coyote A Western Story"
+  ],
+  "arobertson-joe-leslie-s-wife": [
+   64125,
+   "Joe Leslie's Wife; or, a Skeleton in the Closet"
+  ],
+  "asroche-find-the-woman": [
+   42740,
+   "Find the Woman"
+  ],
+  "asroe-i-ve-been-thinking": [
+   39461,
+   "I've Been Thinking; or, the Secret of Success"
+  ],
+  "rmrogers-125th-regiment-illinois-volunteer-infantry": [
+   52399,
+   "The 125th Regiment, Illinois Volunteer Infantry: Attention Batallion!"
+  ],
+  "morolfe-phantom-rider": [
+   66193,
+   "The Phantom Rider; or The Giant Chief's Fate: A tale of the old Dahcotah country"
+  ],
+  "amros-irene-iddesleigh": [
+   34181,
+   "Irene Iddesleigh"
+  ],
+  "aross-new-sensation": [
+   40937,
+   "A New Sensation"
+  ],
+  "brotch-suggestions-for-the-prevention-of-juvenile-depravity": [
+   67892,
+   "Suggestions for the Prevention of Juvenile Depravity"
+  ],
+  "ldrougemont-adventures-of-louis-de-rougemont": [
+   1194,
+   "The Adventures of Louis de Rougemont"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hquigley-cross-and-the-shamrock-or-how-to-defend-the-faith-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh quigley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amrandol-last-days-of-the-rebellion-the-second-new-york-cava": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alanson m. randol",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbrands-lilliput-lyrics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. rands",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rranger-up-in-the-garret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robin ranger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcrankin-history-of-the-seventh-ohio-volunteer-cavalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. rankin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grray-kasba-white-partridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george r. ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "treichardt-diary-of-battery-a-first-regiment-rhode-island-li": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore reichardt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrenard-new-bodies-for-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maurice renard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hrhodes-gentleman-from-mississippi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harrison rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "berich-mr-durant-of-salt-lake-city-that-mormon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ben. e. rich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrichards-cromwell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred bate richards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nrichardson-lead-of-honour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norval richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "agriddle-bart-ridgeley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. g. riddle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afrihani-book-of-khalid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ameen fares rihani",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhriley-puddleford-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry hiram riley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wywripley-vermont-riflemen-in-the-war-for-the-union-1861-to": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william y. w. ripley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rvrisley-sentimental-vikings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. v. risley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acomritchie-fairy-fingers-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna cora ogden mowatt ritchie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emrobbins-civil-war-experiences-1862-1865-chickamauga-missio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward mott robbins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssrobbins-miss-ashton-s-new-pupil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah stuart robbins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jroberts-coyote-a-western-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arobertson-joe-leslie-s-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asroche-find-the-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur somers roche",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asroe-i-ve-been-thinking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmrogers-125th-regiment-illinois-volunteer-infantry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert m. rogers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "morolfe-phantom-rider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maro o. rolfe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amros-irene-iddesleigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amanda mckittrick ros",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aross-new-sensation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brotch-suggestions-for-the-prevention-of-juvenile-depravity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin rotch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldrougemont-adventures-of-louis-de-rougemont": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis de rougemont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

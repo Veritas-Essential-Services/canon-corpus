@@ -1,0 +1,541 @@
+{
+ "_about": "SHELF of Persian, Tamil and Sanskrit classics in English before 1931 that no other shelf held: Arthur George and Edmond Warner's complete verse Shahnama of Firdausi (9 vols, Trübner's Oriental Series, 1905-25), G. U. Pope's Tamil classics from the Clarendon Press and W. H. Allen (the Kural 1886, the Naladiyar 1893, the Tiruvacagam 1900) and H. H. Wilson's Vishnu Purana (1840). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 68); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur george warner",
+  "edmond warner",
+  "g. u. pope",
+  "george uglow pope",
+  "george warner",
+  "h. h. wilson",
+  "horace hayman wilson",
+  "uglow pope",
+  "warner",
+  "wilson"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'pope' alone is left out as a common word.",
+ "_surname": [
+  "arthur george warner",
+  "edmond warner",
+  "g. u. pope",
+  "george uglow pope",
+  "george warner",
+  "h. h. wilson",
+  "horace hayman wilson",
+  "uglow pope",
+  "warner",
+  "wilson"
+ ],
+ "_surname_by_slug": {
+  "occ-shahnama-1": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-2": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-3": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-4": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-5": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-6": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-7": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-8": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-shahnama-9": [
+   "warner",
+   "arthur george warner",
+   "edmond warner",
+   "george warner"
+  ],
+  "occ-sacred-kurral": [
+   "g. u. pope",
+   "george uglow pope",
+   "uglow pope"
+  ],
+  "occ-naladiyar": [
+   "g. u. pope",
+   "george uglow pope",
+   "uglow pope"
+  ],
+  "occ-tiruvacagam": [
+   "g. u. pope",
+   "george uglow pope",
+   "uglow pope"
+  ],
+  "occ-vishnu-purana": [
+   "wilson",
+   "h. h. wilson",
+   "horace hayman wilson"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "occ-shahnama-1": [
+   "shahnama01firduoft",
+   "The Shahnama of Firdausi, vol. I (1905)"
+  ],
+  "occ-shahnama-2": [
+   "shahnama02firduoft",
+   "The Shahnama of Firdausi, vol. II (1906)"
+  ],
+  "occ-shahnama-3": [
+   "shahnama03firduoft",
+   "The Shahnama of Firdausi, vol. III (1908)"
+  ],
+  "occ-shahnama-4": [
+   "shahnama04firduoft",
+   "The Shahnama of Firdausi, vol. IV (1909)"
+  ],
+  "occ-shahnama-5": [
+   "shahnama05firduoft",
+   "The Shahnama of Firdausi, vol. V (1910)"
+  ],
+  "occ-shahnama-6": [
+   "shahnama06firduoft",
+   "The Shahnama of Firdausi, vol. VI (1912)"
+  ],
+  "occ-shahnama-7": [
+   "shahnama07firduoft",
+   "The Shahnama of Firdausi, vol. VII (1915)"
+  ],
+  "occ-shahnama-8": [
+   "shahnama08firduoft",
+   "The Shahnama of Firdausi, vol. VIII (1923)"
+  ],
+  "occ-shahnama-9": [
+   "shahnama09firduoft",
+   "The Shahnama of Firdausi, vol. IX (1925)"
+  ],
+  "occ-sacred-kurral": [
+   "tiruvalluvanayan00tiruuoft",
+   "The 'Sacred' Kurral of Tiruvalluva-Nayanar (1886)"
+  ],
+  "occ-naladiyar": [
+   "munivararuliccey00poperich",
+   "The Naladiyar, or Four Hundred Quatrains in Tamil (1893)"
+  ],
+  "occ-tiruvacagam": [
+   "tiruvaagamorsa00manirich",
+   "The Tiruvacagam, or 'Sacred Utterances' of the Tamil Poet, Saint and Sage Manikka-vacagar (1900)"
+  ],
+  "occ-vishnu-purana": [
+   "in.ernet.dli.2015.283854",
+   "The Vishnu Purana: a System of Hindu Mythology and Tradition (1840)",
+   "2015.283854.The-Vishnu_djvu.txt"
+  ]
+ },
+ "titles": {
+  "oriental-classics-shahnama-1": {
+   "source": "occ-shahnama-1",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. I",
+   "translated": 1905,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1905; University of Toronto scan",
+   "note": "The first complete English Shahnama, done into verse by two brothers, 1905-25."
+  },
+  "oriental-classics-shahnama-2": {
+   "source": "occ-shahnama-2",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. II",
+   "translated": 1906,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1906; University of Toronto scan"
+  },
+  "oriental-classics-shahnama-3": {
+   "source": "occ-shahnama-3",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. III",
+   "translated": 1908,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1908; University of Toronto scan"
+  },
+  "oriental-classics-shahnama-4": {
+   "source": "occ-shahnama-4",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. IV",
+   "translated": 1909,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1909; University of Toronto scan"
+  },
+  "oriental-classics-shahnama-5": {
+   "source": "occ-shahnama-5",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. V",
+   "translated": 1910,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1910; University of Toronto scan"
+  },
+  "oriental-classics-shahnama-6": {
+   "source": "occ-shahnama-6",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. VI",
+   "translated": 1912,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1912; University of Toronto scan"
+  },
+  "oriental-classics-shahnama-7": {
+   "source": "occ-shahnama-7",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. VII",
+   "translated": 1915,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1915; University of Toronto scan"
+  },
+  "oriental-classics-shahnama-8": {
+   "source": "occ-shahnama-8",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. VIII",
+   "translated": 1923,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1923; University of Toronto scan"
+  },
+  "oriental-classics-shahnama-9": {
+   "source": "occ-shahnama-9",
+   "of": "Firdausi, the Shahnama",
+   "work": "The Shahnama of Firdausi, vol. IX",
+   "translated": 1925,
+   "translator": "Arthur George Warner and Edmond Warner",
+   "scan_edition": "Kegan Paul, Trench, Trübner, Trübner's Oriental Series, London 1925; University of Toronto scan"
+  },
+  "oriental-classics-sacred-kurral": {
+   "source": "occ-sacred-kurral",
+   "of": "Tiruvalluvar, the Tirukkural",
+   "work": "The 'Sacred' Kurral of Tiruvalluva-Nayanar",
+   "translated": 1886,
+   "translator": "G. U. Pope",
+   "scan_edition": "W. H. Allen & Co., London 1886; University of Toronto scan",
+   "note": "Tamil text with Pope's English translation; the OCR of the Tamil is rough."
+  },
+  "oriental-classics-naladiyar": {
+   "source": "occ-naladiyar",
+   "of": "The Naladiyar (Jain Tamil quatrains)",
+   "work": "The Naladiyar, or Four Hundred Quatrains in Tamil",
+   "translated": 1893,
+   "translator": "G. U. Pope",
+   "scan_edition": "Clarendon Press, Oxford 1893",
+   "note": "Tamil text with Pope's English translation; the OCR of the Tamil is rough."
+  },
+  "oriental-classics-tiruvacagam": {
+   "source": "occ-tiruvacagam",
+   "of": "Manikkavacakar, the Tiruvacagam",
+   "work": "The Tiruvacagam, or 'Sacred Utterances' of the Tamil Poet, Saint and Sage Manikka-vacagar",
+   "translated": 1900,
+   "translator": "G. U. Pope",
+   "scan_edition": "Clarendon Press, Oxford 1900",
+   "note": "Tamil text with Pope's English translation; the OCR of the Tamil is rough."
+  },
+  "oriental-classics-vishnu-purana": {
+   "source": "occ-vishnu-purana",
+   "of": "The Vishnu Purana",
+   "work": "The Vishnu Purana: a System of Hindu Mythology and Tradition",
+   "translated": 1840,
+   "translator": "H. H. Wilson",
+   "scan_edition": "John Murray, London (printed at Oxford by T. Combe) 1840; Digital Library of India scan",
+   "note": "M. N. Dutt's 1896 Vishnupuranam on the mn-dutt shelf is a prose version based on this one."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "later-reprints": "Asian Educational Services and South India Saiva Siddhanta reprints of Pope's Kural and Naladiyar (sacredkurralofti00revg, naladiyarorfourh00gupo, the 1958 Naladiyar): later reprints, not used.",
+  "wilson-hall-edition": "Fitzedward Hall's enlarged edition of Wilson's Vishnu Purana (Trübner, 1864-77) is not added alongside the 1840 original, to avoid two copies of one translation."
+ },
+ "_checks": {
+  "occ-shahnama-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-shahnama-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-shahnama-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-shahnama-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-shahnama-5": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-shahnama-6": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-shahnama-7": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-shahnama-8": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "occ-shahnama-9": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1905-1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "occ-sacred-kurral": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "g. u. pope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-naladiyar": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "g. u. pope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-tiruvacagam": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "g. u. pope",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "occ-vishnu-purana": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "occ-shahnama-1": {
+   "ia": "shahnama01firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1813,
+    1862,
+    1863,
+    1887,
+    1903,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-2": {
+   "ia": "shahnama02firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-3": {
+   "ia": "shahnama03firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-4": {
+   "ia": "shahnama04firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-5": {
+   "ia": "shahnama05firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890,
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-6": {
+   "ia": "shahnama06firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-7": {
+   "ia": "shahnama07firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-8": {
+   "ia": "shahnama08firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-shahnama-9": {
+   "ia": "shahnama09firduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-sacred-kurral": {
+   "ia": "tiruvalluvanayan00tiruuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1862,
+    1865,
+    1877,
+    1883,
+    1885,
+    1886
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-naladiyar": {
+   "ia": "munivararuliccey00poperich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-tiruvacagam": {
+   "ia": "tiruvaagamorsa00manirich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "occ-vishnu-purana": {
+   "ia": "in.ernet.dli.2015.283854",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1840
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

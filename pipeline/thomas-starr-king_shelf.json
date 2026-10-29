@@ -1,0 +1,86 @@
+{
+ "_about": "Public-domain Thomas Starr King (1824-1864), Unitarian minister in Boston and San Francisco, for the Word Hoard: The White Hills (1860), Patriotism and Other Papers (1864), Christianity and Humanity, a series of sermons (1877) and Substance and Show, and other lectures (1877; 1879 printing). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 64 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "starr"
+ ],
+ "_surname": [
+  "thomas starr king",
+  "t. starr king",
+  "starr king"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "starrking-white-hills": [
+   "whitehills00king",
+   "The White Hills (Boston, Crosby Nichols and company, 1860)"
+  ],
+  "starrking-patriotism": [
+   "patriotismotherp00king",
+   "Patriotism, and other papers. With a biographical sketch by Hon. Richard Frothingham (Tompkins, 1864)"
+  ],
+  "starrking-christianity-humanity": [
+   "christianityhuma00king",
+   "Christianity and humanity (Boston, J.R. Osgood and company, 1877)"
+  ],
+  "starrking-substance-and-show": [
+   "substanceshowoth00kingrich",
+   "Substance and show : and other lectures (Boston : Houghton, Osgood and company, 1879)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "starrking-other": "The New Discussion of the Trinity (1860, by several hands); Christian pamphlet volumes"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "starrking-white-hills": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas starr king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "starrking-patriotism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas starr king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "starrking-christianity-humanity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas starr king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "starrking-substance-and-show": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas starr king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

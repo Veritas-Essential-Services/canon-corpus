@@ -1,0 +1,146 @@
+{
+ "_about": "Public-domain Russell H. Conwell (1843-1925), founder of Temple University and pastor of the Baptist Temple, Philadelphia, for the Word Hoard: Gleams of Grace, eight sermons with the Acres of Diamonds lecture (1887), Little Bo (1892), Acres of Diamonds (copyright 1901), How to Live the Christ Life (1912), Effective Prayer (1921), Sermons for the Great Days of the Year (1922) and Unused Powers (1922), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "conwell"
+ ],
+ "_surname": [
+  "russell h. conwell",
+  "russell herman conwell",
+  "russell herrman conwell",
+  "conwell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rhconwell-gleams-of-grace": [
+   "gleamsofgraceeig00conw",
+   "Gleams of Grace: Eight Sermons, to which is added the Chautauqua report of his lecture Acres of Diamonds (Philadelphia: Business Men's Association of Grace Baptist Church; J. B. Lippincott, 1887)"
+  ],
+  "rhconwell-little-bo": [
+   "littlebostudyinn00conw",
+   "Little Bo: A Study in the Ninth of John (Philadelphia: American Baptist Publication Society; entered 1892)"
+  ],
+  "rhconwell-acres-of-diamonds": [
+   "acresofdiamondsl00conw",
+   "Acres of Diamonds: A Lecture (Philadelphia: John D. Morris; copyright 1901)"
+  ],
+  "rhconwell-christ-life": [
+   "howtolivechristl00conw",
+   "How to Live the Christ Life (New York: Fleming H. Revell; copyright 1912)"
+  ],
+  "rhconwell-effective-prayer": [
+   "effectiveprayer0000conw",
+   "Effective Prayer (New York and London: Harper & Brothers, 1921)"
+  ],
+  "rhconwell-great-days": [
+   "sermonsforgreatd00conw",
+   "Sermons for the Great Days of the Year (New York: George H. Doran; copyright 1922)"
+  ],
+  "rhconwell-unused-powers": [
+   "unusedpowers00conwiala",
+   "Unused Powers (New York: Fleming H. Revell; copyright 1922)"
+  ]
+ },
+ "_alternates": {
+  "rhconwell-copies": "Harper's Acres of Diamonds with Shackleton's life (1915) and PG 368; the National Extension University reprints on Gutenberg (undated); Borrowed Axes (1923); Fields of Glory (year not read)"
+ },
+ "_excluded": {
+  "rhconwell-other": "His campaign and other biographies (Hayes, Garfield, Blaine, Bayard Taylor, Spurgeon); fire histories; hymnals and compilations; Burr's biography of him; Why Lincoln Laughed; post-1929 printings"
+ },
+ "_identity_checked": {
+  "rhconwell-christ-life": {
+   "author": "title page read: 'RUSSELL H. CONWELL' (OCR 'H.tONWELL')"
+  },
+  "rhconwell-little-bo": {
+   "author": "title page read: Little Bo, a Study in the Ninth of John, RUSSELL H.** CON WELL [Russell H. Conwell] (OCR splits the name), Pastor at The Temple (Grace Baptist Church), Philadelphia: American Baptist Publication Society"
+  }
+ },
+ "_rights_checked": {
+  "rhconwell-gleams-of-grace": "title page read: sermons taken down by a reporter and issued by his church's association",
+  "rhconwell-acres-of-diamonds": "title page read: an offprint from Modern Eloquence; his middle name misprinted 'Herrman'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rhconwell-gleams-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell h. conwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: sermons taken down by a reporter and issued by his church's association"
+  },
+  "rhconwell-little-bo": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "rhconwell-acres-of-diamonds": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell h. conwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: an offprint from Modern Eloquence; his middle name misprinted 'Herrman'"
+  },
+  "rhconwell-christ-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "conwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhconwell-effective-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell h. conwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rhconwell-great-days": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell h. conwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "rhconwell-unused-powers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell h. conwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "[c1922]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,400 @@
+{
+ "_about": "Public-domain P. T. Forsyth (Peter Taylor Forsyth, 1848-1921, Congregationalist, Hackney College) for the Word Hoard: 24 books and addresses from Internet Archive scans, 1885-1918, among them The Person and Place of Jesus Christ, The Cruciality of the Cross, The Work of Christ, Positive Preaching and the Modern Mind, The Justification of God, The Principle of Authority, The Soul of Prayer and Lectures on the Church and the Sacraments. CCEL's two Forsyth texts name no print source and are held as alternates. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "forsyth"
+ ],
+ "_surname": [
+  "p. t. forsyth",
+  "peter taylor forsyth",
+  "forsyth, p. t.",
+  "forsyth, peter taylor",
+  "p. t. forsyth, d.d.",
+  "rev. p. t. forsyth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "forsyth-pulpit-and-age": [
+   "pulpitage00fors",
+   "The Pulpit and the Age, an address (Manchester: Brook and Chrystal, 1885)"
+  ],
+  "forsyth-religion-recent-art": [
+   "religioninrecen00fors",
+   "Religion in Recent Art: Expository Lectures on Rossetti, Burne Jones, Watts, Holman Hunt and Wagner (first edition, Manchester: Abel Heywood; no year on title page, preface January 1889)"
+  ],
+  "forsyth-charter-of-church": [
+   "charterofchurchs00fors_0",
+   "The Charter of the Church: Six Lectures on the Spiritual Principle of Nonconformity (London: Alexander & Shepheard, 1896)"
+  ],
+  "forsyth-holy-father": [
+   "theholyfatherand00forsuoft",
+   "The Holy Father and the Living Christ (London: Hodder and Stoughton; no year on title page, catalogued 1897)"
+  ],
+  "forsyth-christian-perfection": [
+   "christianperfect00fors",
+   "Christian Perfection (London: Hodder and Stoughton, Little Books on Religion; no year on title page, IA's 1868 date is wrong)"
+  ],
+  "forsyth-rome-reform-reaction": [
+   "romereformreacti00fors",
+   "Rome, Reform and Reaction: Four Lectures (London: Hodder and Stoughton, 1899)"
+  ],
+  "forsyth-taste-of-death": [
+   "TheTasteOfDeath",
+   "The Taste of Death and the Life of Grace (London: James Clarke, 1901)"
+  ],
+  "forsyth-positive-preaching": [
+   "positivepreachin00forsuoft",
+   "Positive Preaching and Modern Mind, the Lyman Beecher Lectures 1907 (London: Hodder and Stoughton; New York: Doran; no year on title page, catalogued 1907)"
+  ],
+  "forsyth-missions-state-church": [
+   "missionsinstate00fors",
+   "Missions in State and Church: Sermons and Addresses (London: Hodder and Stoughton, 1908)"
+  ],
+  "forsyth-socialism-church-poor": [
+   "socialismchurch00forsgoog",
+   "Socialism, the Church and the Poor (London: Hodder and Stoughton, 1908)"
+  ],
+  "forsyth-person-place": [
+   "personplacejes00forsuoft",
+   "The Person and Place of Jesus Christ, the Congregational Union Lecture for 1909 (London: Congregational Union and Hodder and Stoughton; no year on title page, catalogued 1909)"
+  ],
+  "forsyth-cruciality-cross": [
+   "crucialityofthec00forsuoft",
+   "The Cruciality of the Cross (London: Hodder and Stoughton, 1909)"
+  ],
+  "forsyth-work-of-christ": [
+   "workofchrist00forsuoft",
+   "The Work of Christ (London: Hodder and Stoughton; no year on title page, catalogued 1910)"
+  ],
+  "forsyth-christ-on-parnassus": [
+   "christonparnassu00forsuoft",
+   "Christ on Parnassus: Lectures on Art, Ethic, and Theology (London: Hodder and Stoughton; no year on title page, IA's 1900 date is wrong)"
+  ],
+  "forsyth-faith-freedom-future": [
+   "faithfreedomfut00fors",
+   "Faith, Freedom, and the Future (London: Hodder and Stoughton, 1912)"
+  ],
+  "forsyth-marriage": [
+   "marriageitsethic00fors",
+   "Marriage: Its Ethic and Religion (London: Hodder and Stoughton; no year on title page, catalogued 1912)"
+  ],
+  "forsyth-principle-of-authority": [
+   "theprincipleofau00forsuoft",
+   "The Principle of Authority in Relation to Certainty, Sanctity and Society (London: Hodder and Stoughton; no year on title page, catalogued 1912)"
+  ],
+  "forsyth-theology-church-state": [
+   "theologyinchur00fors",
+   "Theology in Church and State (London: Hodder and Stoughton, 1915)"
+  ],
+  "forsyth-justification-of-god": [
+   "justificationofg00forsiala",
+   "The Justification of God: Lectures for War-Time on a Christian Theodicy (London: Duckworth; no year on title page, preface August 1916)"
+  ],
+  "forsyth-christian-ethic-war": [
+   "christianethicof00fors",
+   "The Christian Ethic of War (London: Longmans, Green; no year on title page, preface June 1916)"
+  ],
+  "forsyth-soul-of-prayer": [
+   "soulofprayer0000fors",
+   "The Soul of Prayer (London: Charles H. Kelly; first edition 1916)"
+  ],
+  "forsyth-church-sacraments": [
+   "lecturesonthechu00forsuoft",
+   "Lectures on the Church and the Sacraments (London: Longmans, Green, 1917)"
+  ],
+  "forsyth-world-commonwealth": [
+   "rootsofworldcomm00fors",
+   "The Roots of a World-Commonwealth (New York: George H. Doran; no year on title page, catalogued 1918)"
+  ],
+  "forsyth-this-life-next": [
+   "thislifenextef00fors",
+   "This Life and the Next (New York: Macmillan, published May 1918)"
+  ]
+ },
+ "_alternates": {
+  "forsyth-ccel": "CCEL forsyth/prayer (The Soul of Prayer) and forsyth/work (The Work of Christ): no print source stated; the dated scans are shelved instead",
+  "forsyth-power-of-prayer": "The Power of Prayer, with Dora Greenwell (Little Books on Religion; IA powerofprayer00gree): joint work, Forsyth's part only from p. 55",
+  "forsyth-recent-art-1901": "Religion in Recent Art, Hodder and Stoughton 1901 and 1905 (IA ReligionInRecentArt, religioninrecent00fors)",
+  "forsyth-copies": "Second copies and American issues of most titles (Armstrong, Eaton and Mains, Pilgrim Press, Scribner)"
+ },
+ "_excluded": {
+  "forsyth-late": "Independent Press reissues (1946-1957) and later reprints",
+  "forsyth-retypes": "modern LaTeX retypesets",
+  "forsyth-articles": "single journal-article scans in the experientialtheology collection: no title pages"
+ },
+ "_rights_checked": {
+  "forsyth-soul-of-prayer": "verso read: London: Charles H. Kelly, first edition 1916; author died 1921",
+  "forsyth-christian-perfection": "title page read: Hodder and Stoughton, Little Books on Religion (series of the 1890s), no year; author died 1921",
+  "forsyth-christ-on-parnassus": "title page read: Hodder and Stoughton, London, New York and Toronto, no year; author died 1921"
+ },
+ "_checks": {
+  "forsyth-pulpit-and-age": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-religion-recent-art": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-charter-of-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-holy-father": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-christian-perfection": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Hodder and Stoughton, Little Books on Religion (series of the 1890s), no year; author died 1921"
+  },
+  "forsyth-rome-reform-reaction": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-taste-of-death": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-positive-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-missions-state-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-socialism-church-poor": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-person-place": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-cruciality-cross": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-work-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "peter taylor forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[191-]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-christ-on-parnassus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "peter taylor forsyth",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "19--?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Hodder and Stoughton, London, New York and Toronto, no year; author died 1921"
+  },
+  "forsyth-faith-freedom-future": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "peter taylor forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-marriage": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-principle-of-authority": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-theology-church-state": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "peter taylor forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-justification-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "[1916]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-christian-ethic-war": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "forsyth-soul-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso read: London: Charles H. Kelly, first edition 1916; author died 1921"
+  },
+  "forsyth-church-sacraments": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "forsyth-world-commonwealth": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "forsyth-this-life-next": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. t. forsyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,371 @@
+{
+ "_about": "SERIES SHELF of one-off translators: The History of Civilization (Kegan Paul, London, and Knopf, New York, 1925-), C. K. Ogden's English edition of Henri Berr's L'Évolution de l'Humanité. Febvre's Geographical Introduction to History (Mountford and Paxton), Moret and Davy's From Tribe to Empire and Delaporte's Mesopotamia (V. Gordon Childe), Huart's Ancient Persia and Moret's The Nile and Egyptian Civilization (M. R. Dobie), Pittard's Race and History (V. C. C. Collum), Renard and Weulersse's Life and Work in Modern Europe (Margaret Richards) and Perrier's The Earth before History (Paul Radin), 1925-1927. Boissonnade's volume, translated by Eileen Power, is on her shelf. The series' Greek and Roman volumes (Glotz, Jardé, Homo) are left for Lane B. Every volume prints a series list naming several translators, so each attribution was read from the title page. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 59); Adam may veto. No uids minted.",
+ "_name_words": [
+  "childe",
+  "collum",
+  "dobie",
+  "e. g. mountford",
+  "j. h. paxton",
+  "m. r. dobie",
+  "margaret richards",
+  "mountford",
+  "paul radin",
+  "paxton",
+  "radin",
+  "richards",
+  "v. c. c. collum",
+  "v. gordon childe"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "childe",
+  "collum",
+  "dobie",
+  "e. g. mountford",
+  "j. h. paxton",
+  "m. r. dobie",
+  "margaret richards",
+  "mountford",
+  "paul radin",
+  "paxton",
+  "radin",
+  "richards",
+  "v. c. c. collum",
+  "v. gordon childe"
+ ],
+ "_surname_by_slug": {
+  "hoc-febvre": [
+   "e. g. mountford",
+   "j. h. paxton",
+   "mountford",
+   "paxton"
+  ],
+  "hoc-moret-davy": [
+   "childe",
+   "v. gordon childe"
+  ],
+  "hoc-delaporte": [
+   "childe",
+   "v. gordon childe"
+  ],
+  "hoc-huart": [
+   "dobie",
+   "m. r. dobie"
+  ],
+  "hoc-moret-nile": [
+   "dobie",
+   "m. r. dobie"
+  ],
+  "hoc-pittard": [
+   "collum",
+   "v. c. c. collum"
+  ],
+  "hoc-renard": [
+   "margaret richards",
+   "richards"
+  ],
+  "hoc-perrier": [
+   "paul radin",
+   "radin"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hoc-febvre": [
+   "geographicalintr0000luci_e9f4",
+   "Febvre, A Geographical Introduction to History (1925)"
+  ],
+  "hoc-moret-davy": [
+   "fromtribetoempir00more",
+   "Moret and Davy, From Tribe to Empire (1926)"
+  ],
+  "hoc-delaporte": [
+   "mesopotamiababyl00dela",
+   "Delaporte, Mesopotamia: the Babylonian and Assyrian Civilization (1925)"
+  ],
+  "hoc-huart": [
+   "in.ernet.dli.2015.73398",
+   "Huart, Ancient Persia and Iranian Civilization (1927)",
+   "2015.73398.Ancient-Persia-And-Iranian-Civilization_djvu.txt"
+  ],
+  "hoc-moret-nile": [
+   "nileegyptiancivi00more",
+   "Moret, The Nile and Egyptian Civilization (1927)"
+  ],
+  "hoc-pittard": [
+   "dli.ministry.19521",
+   "Pittard, Race and History: an Ethnological Introduction to History (1926)",
+   "E09573_Race_And_History_An_Ethnological_Introduction_to_History_djvu.txt"
+  ],
+  "hoc-renard": [
+   "lifeworkinmodern0000rena",
+   "Renard and Weulersse, Life and Work in Modern Europe (1926)"
+  ],
+  "hoc-perrier": [
+   "earthbeforehisto00perr",
+   "Perrier, The Earth before History: Man's Origin and the Origin of Life (1925)"
+  ]
+ },
+ "titles": {
+  "history-of-civilization-febvre": {
+   "source": "hoc-febvre",
+   "of": "Lucien Febvre (with Lionel Bataillon)",
+   "work": "A Geographical Introduction to History",
+   "translated": 1925,
+   "translator": "E. G. Mountford and J. H. Paxton",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London (and Alfred A. Knopf, New York), in The History of Civilization edited by C. K. Ogden, 1925"
+  },
+  "history-of-civilization-from-tribe-to-empire": {
+   "source": "hoc-moret-davy",
+   "of": "Alexandre Moret and Georges Davy",
+   "work": "From Tribe to Empire: social organization among primitives and in the ancient East",
+   "translated": 1926,
+   "translator": "V. Gordon Childe",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London (and Alfred A. Knopf, New York), in The History of Civilization edited by C. K. Ogden, 1926 (Knopf issue)",
+   "note": "The '1928' near the start of the scan is a library date stamp ('NOVO> 1928' in the OCR) and the '2000' is '2000 B.C.' in the contents; the imprint is 1926. Checked by eye."
+  },
+  "history-of-civilization-delaporte-mesopotamia": {
+   "source": "hoc-delaporte",
+   "of": "Louis Delaporte",
+   "work": "Mesopotamia: the Babylonian and Assyrian Civilization",
+   "translated": 1925,
+   "translator": "V. Gordon Childe",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London (and Alfred A. Knopf, New York), in The History of Civilization edited by C. K. Ogden, 1925",
+   "note": "The 1978, 1983 and 1990 in the front matter are library due-date stamps, checked by eye. The title page OCR reads 'Va GORDON Gl ER' for V. Gordon Childe."
+  },
+  "history-of-civilization-huart-ancient-persia": {
+   "source": "hoc-huart",
+   "of": "Clément Huart",
+   "work": "Ancient Persia and Iranian Civilization",
+   "translated": 1927,
+   "translator": "M. R. Dobie",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London (and Alfred A. Knopf, New York), in The History of Civilization edited by C. K. Ogden, 1927; Digital Library of India scan"
+  },
+  "history-of-civilization-moret-nile": {
+   "source": "hoc-moret-nile",
+   "of": "Alexandre Moret",
+   "work": "The Nile and Egyptian Civilization",
+   "translated": 1927,
+   "translator": "M. R. Dobie",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London, and Alfred A. Knopf, New York, 1927 (imprint read on the title page), in The History of Civilization edited by C. K. Ogden",
+   "note": "Raw OCR. This scan's OCR lost the translator's name; the Digital Library of India copy (in.ernet.dli.2015.107710) prints 'Translated by M. R. DOBIE' but is a 1972 reissue, so it was used only as evidence of the translator, not as the text."
+  },
+  "history-of-civilization-pittard-race-and-history": {
+   "source": "hoc-pittard",
+   "of": "Eugène Pittard",
+   "work": "Race and History: an Ethnological Introduction to History",
+   "translated": 1926,
+   "translator": "V. C. C. Collum",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London (and Alfred A. Knopf, New York), in The History of Civilization edited by C. K. Ogden, 1926; Digital Library of India scan",
+   "note": "Pittard argues that race, language and nation do not coincide ('race is a zoological, language a social fact'): ethnology, not race science of the Gobineau kind. Adam may veto."
+  },
+  "history-of-civilization-renard-life-and-work-modern": {
+   "source": "hoc-renard",
+   "of": "Georges Renard and Georges Weulersse",
+   "work": "Life and Work in Modern Europe (Fifteenth to Eighteenth Centuries)",
+   "translated": 1926,
+   "translator": "Margaret Richards",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London (and Alfred A. Knopf, New York), in The History of Civilization edited by C. K. Ogden, 1926 (Knopf issue)"
+  },
+  "history-of-civilization-perrier-earth-before-history": {
+   "source": "hoc-perrier",
+   "of": "Edmond Perrier",
+   "work": "The Earth before History: Man's Origin and the Origin of Life",
+   "translated": 1925,
+   "translator": "Paul Radin",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London (and Alfred A. Knopf, New York), in The History of Civilization edited by C. K. Ogden, 1925 (Knopf issue)"
+  }
+ },
+ "_pending": {
+  "history-of-civilization-1930": "Granet's Chinese Civilization (1930) and later volumes wait on the 1930 ruling or are too late."
+ },
+ "_excluded": {
+  "classical": "Glotz (The Aegean Civilization, Ancient Greece at Work, The Greek City), Jardé (The Formation of the Greek People) and Homo (Primitive Italy) are Greek and Roman scholarship, left for Lane B.",
+  "ia-in.ernet.dli.2015.107710": "The Nile and Egyptian Civilization: 'Reissued 1972'; used only as evidence of the translator's name."
+ },
+ "_checks": {
+  "hoc-febvre": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. g. mountford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoc-moret-davy": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "childe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoc-delaporte": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "childe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoc-huart": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dobie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoc-moret-nile": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoc-pittard": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "collum",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoc-renard": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret richards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoc-perrier": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "paul radin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": "No known copyright restrictions as determined by scanning institution.",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "hoc-febvre": {
+   "ia": "geographicalintr0000luci_e9f4",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hoc-moret-davy": {
+   "ia": "fromtribetoempir00more",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900,
+    1919,
+    1920,
+    1926,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ]
+  },
+  "hoc-delaporte": {
+   "ia": "mesopotamiababyl00dela",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1902,
+    1925
+   ],
+   "post_1930_years_in_front_15k": [
+    1978,
+    1983,
+    1990
+   ]
+  },
+  "hoc-huart": {
+   "ia": "in.ernet.dli.2015.73398",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hoc-moret-nile": {
+   "ia": "nileegyptiancivi00more",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1822,
+    1882,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hoc-pittard": {
+   "ia": "dli.ministry.19521",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hoc-renard": {
+   "ia": "lifeworkinmodern0000rena",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1662,
+    1735,
+    1765,
+    1783,
+    1784,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hoc-perrier": {
+   "ia": "earthbeforehisto00perr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1911,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "hoc-moret-nile": {
+   "author": "The OCR of this 1927 scan lost the translator's name. The same work's 1972 reissue (archive.org in.ernet.dli.2015.107710) reads 'Translated by M. R. DOBIE' on its title page; checked by eye 2026-10-17."
+  }
+ }
+}

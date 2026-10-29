@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain Ephrem the Syrian (c.306-373), deacon of Nisibis and Edessa and the great poet of the Syriac church, for the Word Hoard: J. B. Morris's Select Works (Library of the Fathers, 1847), Henry Burgess's Select Metrical Hymns and Homilies and The Repentance of Nineveh (both 1853), and C. W. Mitchell's Prose Refutations of Mani, Marcion and Bardaisan, vol. I (1912, Syriac and English), from Internet Archive scans. The Schaff NPNF selections are in PR #11 and are not repeated. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ephrem",
+  "ephraem",
+  "ephraim"
+ ],
+ "_surname": [
+  "ephrem",
+  "ephraem",
+  "ephraim",
+  "s. ephrem",
+  "ephraem syrus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ephrem-select-works-morris-1847": [
+   "selecsep00ephr",
+   "Rhythms of Saint Ephrem the Syrian: Select Works of S. Ephrem the Syrian, tr. J. B. Morris, Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII)"
+  ],
+  "ephrem-metrical-hymns-burgess-1853": [
+   "selectmetricalhy00ephr",
+   "Select Metrical Hymns and Homilies of Ephraem Syrus, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853)"
+  ],
+  "ephrem-repentance-nineveh-1853": [
+   "repentanceofnine00ephr",
+   "The Repentance of Nineveh, a metrical homily on the mission of Jonah, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853)"
+  ],
+  "ephrem-prose-refutations-1": [
+   "proserefutations01ephruoft",
+   "S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan, vol. I, published by C. W. Mitchell for the Text and Translation Society (London and Oxford: Williams and Norgate, 1912)"
+  ]
+ },
+ "_alternates": {
+  "ephrem-copies": "Other 1847 copies of Morris (selectedworksofs00ephrrich and four more; one catalogued 1839, the title page reads MDCCCXLVII); other 1853 Burgess copies"
+ },
+ "_excluded": {
+  "ephrem-other": "The Schaff NPNF selections and CCEL's Pearl (the same NPNF text); Mitchell's vols I-II in the 1969 Gregg reprint; studies by Rendel Harris and Hamlyn Hill"
+ },
+ "_rights_checked": {
+  "ephrem-prose-refutations-1": "title page read: \"published by\" C. W. Mitchell (OCR \"G. W. MITCHELL\"), Syriac with English translation; 1912"
+ },
+ "_pending": {},
+ "_translators": {
+  "ephrem-select-works-morris-1847": "morris",
+  "ephrem-metrical-hymns-burgess-1853": "burgess",
+  "ephrem-repentance-nineveh-1853": "burgess"
+ },
+ "_checks": {
+  "ephrem-select-works-morris-1847": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ephrem",
+   "translator_claimed": "morris",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ephrem-metrical-hymns-burgess-1853": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ephraem",
+   "translator_claimed": "burgess",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ephrem-repentance-nineveh-1853": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ephraem",
+   "translator_claimed": "burgess",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ephrem-prose-refutations-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ephraim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: \"published by\" C. W. Mitchell (OCR \"G. W. MITCHELL\"), Syriac with English translation; 1912"
+  }
+ }
+}

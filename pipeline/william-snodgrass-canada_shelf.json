@@ -1,0 +1,134 @@
+{
+ "_about": "Public-domain William Snodgrass (1827-1906), Scottish-born Presbyterian minister at Charlottetown and St Paul's, Montreal, and principal of Queen's College, Kingston, for the Word Hoard: his funeral and farewell sermons, The Good Centurion, The Two Builders, The Sacredness of Learning, and an address to the Charlottetown Young Men's Christian Association. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 108 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william snodgrass",
+  "w. snodgrass"
+ ],
+ "_surname": [
+  "william snodgrass",
+  "w. snodgrass",
+  "snodgrass"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wsnodgrass-ymca-1856": [
+   "cihm_41778",
+   "An address delivered at the inauguration of the Charlottetown Young Men's Christian Association : on the evening of February 6, 1856 ([Charlottetown, P.E.I.? : s.n.], 1856)"
+  ],
+  "wsnodgrass-sermon-1857": [
+   "sermonpreachedon00snod",
+   "A Sermon, preached on the 1st March, 1857, being the first Sabbath after the funeral of Hew Ramsay, Esq (Montreal : Printed by John Lovell, 1857)"
+  ],
+  "wsnodgrass-night-of-death": [
+   "nightofdeathserm00snod",
+   "Night of death : a sermon, preached on the 7th Oct., 1860, being the first Sabbath after the funeral of the Honourable Peter M'Gill (Montreal : Printed by Owler and Stevenson, 1860)"
+  ],
+  "wsnodgrass-good-centurion": [
+   "goodcenturionexa00snod",
+   "The good centurion, an example for Scotchmen in Canada (Montreal, Becket, 1862)"
+  ],
+  "wsnodgrass-two-builders": [
+   "cihm_43040",
+   "The two builders, or, The conclusion of the matter ([Montreal? : s.n.], 1863)"
+  ],
+  "wsnodgrass-sacredness-learning": [
+   "sacrednessoflear00snod",
+   "The sacredness of learning; address delivered at the opening of session 1864-65, Queen's college (Kingston, [s.n.], 1864)"
+  ],
+  "wsnodgrass-ministers-farewell": [
+   "ministersfarewel00snod",
+   "A minister's farewell (Montreal, Printed by J. Lovell, 1864)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wsnodgrass-us": "The sanctification and apostolical-succession books are by William D. Snodgrass of New York (his own shelf)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wsnodgrass-ymca-1856": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william snodgrass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wsnodgrass-sermon-1857": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william snodgrass",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wsnodgrass-night-of-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william snodgrass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wsnodgrass-good-centurion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william snodgrass",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wsnodgrass-two-builders": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william snodgrass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wsnodgrass-sacredness-learning": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snodgrass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wsnodgrass-ministers-farewell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william snodgrass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain John of Ephesus (c.507-c.588), Syriac Orthodox bishop and church historian, for the Word Hoard: The Third Part of the Ecclesiastical History, translated by R. Payne Smith (Oxford, 1860), and the Lives of the Eastern Saints, Syriac text edited and translated by E. W. Brooks (Patrologia Orientalis XVII and XIX, 1923 and 1926), from Internet Archive scans. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ephesus"
+ ],
+ "_surname": [
+  "john of ephesus",
+  "john bishop of ephesus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "johneph-ecclesiastical-history-1860": [
+   "ecclesiasticalhi00johnuoft",
+   "The Third Part of the Ecclesiastical History of John Bishop of Ephesus, tr. R. Payne Smith (Oxford: University Press, 1860)"
+  ],
+  "johneph-eastern-saints-1": [
+   "patrologiaorient17pariuoft",
+   "John of Ephesus, Lives of the Eastern Saints, I, Syriac text edited and translated by E. W. Brooks, Patrologia Orientalis XVII.1 (Paris: Firmin-Didot, 1923)"
+  ],
+  "johneph-eastern-saints-3": [
+   "patrologiaorient19pariuoft",
+   "John of Ephesus, Lives of the Eastern Saints, III, edited and translated by E. W. Brooks, Patrologia Orientalis XIX (Paris: Firmin-Didot, 1926)"
+  ]
+ },
+ "_alternates": {
+  "johneph-copies": "Patrologia Orientalis XVIII (Lives II; year garbled in the OCR); thirdparteccles00smitgoog (Payne Smith 1860)"
+ },
+ "_excluded": {
+  "johneph-other": "Margoliouth's Syriac extracts (1909); Cureton's Syriac (1853)"
+ },
+ "_rights_checked": {
+  "johneph-eastern-saints-1": "title page read: 1923; the catalogue's 1903 is wrong; the tome also holds other Patrologia Orientalis fascicles",
+  "johneph-eastern-saints-3": "title page read: 1926; the catalogue's 1903 is wrong; the tome also holds other fascicles"
+ },
+ "_pending": {},
+ "_translators": {
+  "johneph-eastern-saints-1": "brooks",
+  "johneph-eastern-saints-3": "brooks"
+ },
+ "_checks": {
+  "johneph-ecclesiastical-history-1860": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john of ephesus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "johneph-eastern-saints-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john of ephesus",
+   "translator_claimed": "brooks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907 [i.e. 1903]-",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1923; the catalogue's 1903 is wrong; the tome also holds other Patrologia Orientalis fascicles"
+  },
+  "johneph-eastern-saints-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john of ephesus",
+   "translator_claimed": "brooks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907 [i.e. 1903]-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1926; the catalogue's 1903 is wrong; the tome also holds other fascicles"
+  }
+ }
+}

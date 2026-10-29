@@ -1,0 +1,35 @@
+{
+ "_about": "Thomas Brown (1778-1820), professor of moral philosophy at Edinburgh, raw IA OCR: Lectures on the Philosophy of the Human Mind, with a memoir by David Welsh, 19th ed. (Edinburgh: Adam and Charles Black, 1851). US public domain. No uids minted.",
+ "_author": "Thomas Brown",
+ "_name_words": [
+  "thomas",
+  "brown",
+  "m",
+  "d"
+ ],
+ "_surname": [
+  "thomas brown"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brown-lectures-human-mind-1851": [
+   "lecturesonphilos00browuoft",
+   "Lectures on the Philosophy of the Human Mind, with a memoir of the author by David Welsh, 19th ed. (Edinburgh: A. and C. Black, 1851)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "brown-lectures-human-mind-1851": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

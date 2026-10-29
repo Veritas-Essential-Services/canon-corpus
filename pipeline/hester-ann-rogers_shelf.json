@@ -1,0 +1,95 @@
+{
+ "_about": "Public-domain Hester Ann Rogers (1756-1794), Methodist diarist and letter-writer, for the Word Hoard: her Spiritual Letters (Bristol, catalogued 1796), the Short Account of her Experience written by herself with her letters (New York, 1811), the Account of her Experience with Coke's funeral sermon and her husband's selections from her journals (Baltimore, catalogued 1814), and the London edition of 1818, from Internet Archive scans. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rogers"
+ ],
+ "_surname": [
+  "hester ann rogers",
+  "h. a. rogers",
+  "mrs. rogers"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harogers-spiritual-letters": [
+   "bim_eighteenth-century_spiritual-letters-by-mr_rogers-hester-ann_1796",
+   "Spiritual Letters, by Mrs. H. A. Rogers, written before and after her marriage (Bristol: R. Edwards; year not on the title page, catalogued 1796)"
+  ],
+  "harogers-short-account-1811": [
+   "shortaccountofex00roge",
+   "A Short Account of the Experience of Mrs. Hester Ann Rogers, written by herself, with a brief extract from her diary, to which are now added her spiritual letters (New York: Daniel Hitt, 1811)"
+  ],
+  "harogers-account-baltimore": [
+   "accountofexperie00roge",
+   "An Account of the Experience of Mrs. Hester Ann Rogers, written by herself, with spiritual letters, a sermon on her death by Thomas Coke and an appendix by her husband from her journals (Baltimore: J. Kingston; year not read, catalogued 1814)"
+  ],
+  "harogers-account-1818": [
+   "anaccountexperi00rogegoog",
+   "An Account of the Experience of Mrs. H. A. Rogers, written by herself, with a brief extract from her diary (London: T. Cordeux for T. Blanshard, 1818)"
+  ]
+ },
+ "_alternates": {
+  "harogers-copies": "The 1796 Experience with Wesley's letters (title page unreadable); Summers's Life and Correspondence (Nashville, 1855); the undated thirtieth edition (Carlton & Lanahan) and copies catalogued 1837, 1842, 1857"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "harogers-account-baltimore": {
+   "author": "title page read: 'MRS. HESTER ANN ROGERS' (OCR 'HESTER ANJSEJROGERS')"
+  }
+ },
+ "_rights_checked": {
+  "harogers-short-account-1811": "title page read: year OCR'd '161L' (1811)",
+  "harogers-account-baltimore": "title page read: Coke's sermon and her husband's appendix are by other hands"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "harogers-spiritual-letters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. a. rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "harogers-short-account-1811": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hester ann rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: year OCR'd '161L' (1811)"
+  },
+  "harogers-account-baltimore": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hester ann rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Coke's sermon and her husband's appendix are by other hands"
+  },
+  "harogers-account-1818": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hester ann rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

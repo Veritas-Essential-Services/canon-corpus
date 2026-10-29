@@ -1,0 +1,186 @@
+{
+ "_about": "Public-domain Roger Williams (c.1603-1683), founder of Providence and champion of liberty of conscience, for the Word Hoard: the six volumes of the Narragansett Club Publications (Providence, 1866-1874: the Key into the Language of America, the Bloudy Tenent, the Bloody Tenent yet More Bloody, George Fox Digg'd out of his Burrowes and his Letters, with Cotton's replies), the Key of 1643, the Bloody Tenent yet More Bloody of 1652, Underhill's Hanserd Knollys edition of the Bloudy Tenent (1848) and Experiments of Spiritual Life & Health (1652, reprinted 1863), from Internet Archive scans and Gutenberg. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "williams"
+ ],
+ "_surname": [
+  "roger williams",
+  "r. williams"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "rwilliams-pg-bloudy-tenent-1848": [
+   65739,
+   "The Bloudy Tenent of Persecution, ed. Edward Bean Underhill for the Hanserd Knollys Society (London, 1848)"
+  ],
+  "rwilliams-pg-experiments-1863": [
+   62944,
+   "Experiments of Spiritual Life & Health (1652; reprinted Providence: Sidney S. Rider, 1863)"
+  ]
+ },
+ "internet_archive": {
+  "rwilliams-narragansett-1": [
+   "publicationsof01narr",
+   "Publications of the Narragansett Club, First Series, vol. I (Providence, MDCCCLXVI)"
+  ],
+  "rwilliams-narragansett-2": [
+   "publicationsof02narr",
+   "Publications of the Narragansett Club, vol. II (Providence, MDCCCLXVII)"
+  ],
+  "rwilliams-narragansett-3": [
+   "publicationsofna03narr",
+   "Publications of the Narragansett Club, vol. III, The Bloudy Tenent of Persecution, ed. Samuel L. Caldwell (Providence, MDCCCLXVII)"
+  ],
+  "rwilliams-narragansett-4": [
+   "publicationsof04narr",
+   "Publications of the Narragansett Club, vol. IV, The Bloody Tenent yet More Bloody, ed. Samuel L. Caldwell (Providence, MDCCCLXX)"
+  ],
+  "rwilliams-narragansett-5": [
+   "publicationsofna05narr",
+   "Publications of the Narragansett Club, vol. V, George Fox Digg'd out of his Burrowes, ed. J. Lewis Diman (Providence, MDCCCLXXII)"
+  ],
+  "rwilliams-narragansett-6": [
+   "publicationsof06narr",
+   "Publications of the Narragansett Club, vol. VI, Letters of Roger Williams, ed. John Russell Bartlett (Providence, MDCCCLXXIV)"
+  ],
+  "rwilliams-key-1643": [
+   "keyintolanguageo02will",
+   "A Key into the Language of America (London: Gregory Dexter, 1643)"
+  ],
+  "rwilliams-bloody-tenent-more-1652": [
+   "bloodytenentyetm00will",
+   "The Bloody Tenent yet More Bloody (London: for Giles Calvert, 1652)"
+  ]
+ },
+ "_alternates": {
+  "rwilliams-copies": "Other 1643 Key copies; the 1827 Rhode Island Historical Society Key (PG 63701); EEBO Bloudy Tenent (1644), Hireling Ministry (1652), Queries (1644)"
+ },
+ "_excluded": {
+  "rwilliams-other": "Works about him; other Roger Williamses"
+ },
+ "_rights_checked": {
+  "rwilliams-narragansett-1": "title page read: MDCCCLXVI; vols. I-II also print John Cotton's letters and answer, edited with Williams's replies",
+  "rwilliams-narragansett-2": "title page read: MDCCCLXVII; the catalogue dates all six volumes 1866",
+  "rwilliams-narragansett-4": "title page read: MDCCCLXX",
+  "rwilliams-narragansett-5": "title page read: MDCCCLXXII",
+  "rwilliams-narragansett-6": "title page read: series title page MDCCCLXXIV, volume number not legible; inner title page Providence, 1874"
+ },
+ "_pending": {
+  "rwilliams-bloudy-tenent-1644": "The Bloudy Tenent (1644, bloudytenentofpe00will_0): the title page names no author"
+ },
+ "_translators": {},
+ "_checks": {
+  "rwilliams-pg-bloudy-tenent-1848": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwilliams-pg-experiments-1863": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwilliams-narragansett-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCCLXVI; vols. I-II also print John Cotton's letters and answer, edited with Williams's replies"
+  },
+  "rwilliams-narragansett-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCCLXVII; the catalogue dates all six volumes 1866"
+  },
+  "rwilliams-narragansett-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rwilliams-narragansett-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCCLXX"
+  },
+  "rwilliams-narragansett-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCCLXXII"
+  },
+  "rwilliams-narragansett-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: series title page MDCCCLXXIV, volume number not legible; inner title page Providence, 1874"
+  },
+  "rwilliams-key-1643": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1643",
+   "ia_date": "1643",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rwilliams-bloody-tenent-more-1652": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1652",
+   "ia_date": "1652",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

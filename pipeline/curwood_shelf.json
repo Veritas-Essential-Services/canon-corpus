@@ -1,0 +1,389 @@
+{
+ "_about": "James Oliver Curwood's wilderness and animal novels of the North: every English text under his name at Gutenberg (catalogue: Curwood 1878-1927). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "James Oliver Curwood",
+ "_name_words": [
+  "curwood"
+ ],
+ "_surname": [
+  "james oliver curwood",
+  "james o. curwood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "curwood-golden-snare": [
+   4515,
+   "The Golden Snare"
+  ],
+  "curwood-back-to-gods-country-and-other-stories": [
+   4539,
+   "Back to God's Country and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "curwood-gods-country-and-the-woman": [
+   4585,
+   "God's Country—And the Woman"
+  ],
+  "curwood-philip-steele-of-the-royal-northwest-mounted-police": [
+   4633,
+   "Philip Steele of the Royal Northwest Mounted Police",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\. .{1,90}$"
+     }
+    ],
+    "start": "Chapter I\\. ",
+    "front": true
+   }
+  ],
+  "curwood-flaming-forest": [
+   4702,
+   "The Flaming Forest"
+  ],
+  "curwood-flower-of-the-north": [
+   4703,
+   "Flower of the North: A Modern Romance"
+  ],
+  "curwood-nomads-of-the-north": [
+   4704,
+   "Nomads of the North: A Story of Romance and Adventure under the Open Stars"
+  ],
+  "curwood-valley-of-silent-men": [
+   4707,
+   "The Valley of Silent Men: A Story of the Three River Country"
+  ],
+  "curwood-country-beyond": [
+   4743,
+   "The Country Beyond: A Romance of the Wilderness"
+  ],
+  "curwood-rivers-end": [
+   4747,
+   "The River's End"
+  ],
+  "curwood-baree-son-of-kazan": [
+   4748,
+   "Baree, son of Kazan"
+  ],
+  "curwood-honor-of-the-big-snows": [
+   5895,
+   "The Honor of the Big Snows"
+  ],
+  "curwood-isobel": [
+   6715,
+   "Isobel : A Romance of the Northern Trail"
+  ],
+  "curwood-kazan": [
+   10084,
+   "Kazan"
+  ],
+  "curwood-danger-trail": [
+   10696,
+   "The Danger Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "curwood-grizzly-king": [
+   10977,
+   "The grizzly king"
+  ],
+  "curwood-hunted-woman": [
+   11328,
+   "The Hunted Woman"
+  ],
+  "curwood-gold-hunters": [
+   11668,
+   "The Gold Hunters: A Story of Life and Adventure in the Hudson Bay Wilds"
+  ],
+  "curwood-alaskan": [
+   11867,
+   "The Alaskan"
+  ],
+  "curwood-wolf-hunters": [
+   12170,
+   "The wolf hunters"
+  ],
+  "curwood-courage-of-captain-plum": [
+   12388,
+   "The Courage of Captain Plum"
+  ],
+  "curwood-courage-of-marge-odoone": [
+   17745,
+   "The Courage of Marge O'Doone"
+  ],
+  "curwood-thomas-jefferson-brown": [
+   23181,
+   "Thomas Jefferson Brown"
+  ],
+  "curwood-great-lakes-the-vessels-that-plough-them": [
+   52976,
+   "The Great Lakes The Vessels That Plough Them: Their Owners, Their Sailors, and Their Cargoes, Together with a Brief History of Our Inland Seas"
+  ],
+  "curwood-gods-country": [
+   53073,
+   "God's Country: The Trail to Happiness"
+  ],
+  "curwood-a-gentleman-of-courage": [
+   53885,
+   "A Gentleman of Courage: A Novel of the Wilderness"
+  ],
+  "curwood-laugh-maker": [
+   67154,
+   "The Laugh Maker"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "curwood-my-story-that-i-like-best": "PG 65906, My Story That I Like Best, is Ray Long's many-author anthology",
+  "curwood-repeat-29406": "PG 29406, The Country Beyond: A Romance of the Wilderness: a second transcription of a title already on this shelf",
+  "curwood-repeat-29407": "PG 29407, The Valley of Silent Men: A Story of the Three River Country: a second transcription of a title already on this shelf",
+  "curwood-repeat-53929": "PG 53929, Baree, son of Kazan: a second transcription of a title already on this shelf"
+ },
+ "_checks": {
+  "curwood-golden-snare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-back-to-gods-country-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-gods-country-and-the-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-philip-steele-of-the-royal-northwest-mounted-police": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-flaming-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-flower-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-nomads-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-valley-of-silent-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-country-beyond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-rivers-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-baree-son-of-kazan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-honor-of-the-big-snows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-isobel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-kazan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-danger-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-grizzly-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-hunted-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-gold-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-alaskan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-wolf-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-courage-of-captain-plum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-courage-of-marge-odoone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-thomas-jefferson-brown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-great-lakes-the-vessels-that-plough-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-gods-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-a-gentleman-of-courage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curwood-laugh-maker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james oliver curwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

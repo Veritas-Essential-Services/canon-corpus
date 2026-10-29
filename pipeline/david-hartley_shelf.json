@@ -1,0 +1,64 @@
+{
+ "_about": "David Hartley (1705-1757), raw IA OCR: Observations on Man, his Frame, his Duty, and his Expectations, 4th ed. (London: J. Johnson, 1801, 2 vols.), with the companion third volume of Herman Andrew Pistorius's Notes and Additions, translated from the German (1801; translator unnamed). US public domain. No uids minted.",
+ "_author": "David Hartley",
+ "_name_words": [
+  "david",
+  "hartley"
+ ],
+ "_surname": [
+  "hartley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hartley-observations-on-man-1801-v1": [
+   "observationsonma01hartuoft",
+   "Observations on Man, his Frame, his Duty, and his Expectations, part I, 4th ed. (London: J. Johnson, 1801)"
+  ],
+  "hartley-observations-on-man-1801-v2": [
+   "observationsonma02hartuoft",
+   "Observations on Man, part II, 4th ed. (London: J. Johnson, 1801)"
+  ],
+  "hartley-pistorius-notes-1801-v3": [
+   "observationsonma03hartiala",
+   "Notes and Additions to Dr. Hartley's Observations on Man, by Herman Andrew Pistorius, translated from the German, 3rd ed. (London: J. Johnson, 1801)",
+   "tr. anonymous"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hartley-observations-on-man-1801-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hartley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartley-observations-on-man-1801-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hartley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartley-pistorius-notes-1801-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hartley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "_about": "Clement Charles Julian Webb (1865-1954), Oxford philosopher of religion, Oriel Professor of the Philosophy of the Christian Religion. Raw IA OCR: Problems in the Relations of God and Man (London: Nisbet, 1911), clean 0.90; Group Theories of Religion and the Individual (London: Allen and Unwin, 1916), clean 0.92; God and Personality, Gifford Lectures first course (Allen and Unwin, this copy the June 1920 reprint), clean 0.93; Divine Personality and Human Life, Gifford Lectures second course (Allen and Unwin, 1920), clean 0.93; Kant's Philosophy of Religion (Oxford: Clarendon Press, 1926), clean 0.92. Held: A History of Philosophy (Home University Library), because none of the three open scans prints a year. His church-history books (A Century of Anglican Theology, 1923; Religious Thought in the Oxford Movement, 1928) are theology and left for lane A. US public domain. No uids minted.",
+ "_author": "Clement C. J. Webb",
+ "_name_words": [
+  "clement",
+  "charles",
+  "julian",
+  "webb"
+ ],
+ "_surname": [
+  "webb",
+  "c. j. webb"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "webb-problems-relations-god-and-man-1911": [
+   "problemsinrelati00webbrich",
+   "Problems in the Relations of God and Man (Nisbet, 1911)"
+  ],
+  "webb-group-theories-of-religion-1916": [
+   "grouptheoriesofr00webbuoft",
+   "Group Theories of Religion and the Individual (Allen and Unwin, 1916)"
+  ],
+  "webb-god-and-personality-1920": [
+   "godandpersonalit00webbuoft",
+   "God and Personality (Allen and Unwin, 1919; reprint 1920)"
+  ],
+  "webb-divine-personality-and-human-life-1920": [
+   "divinepersonalit00webb",
+   "Divine Personality and Human Life (Allen and Unwin, 1920)"
+  ],
+  "webb-kants-philosophy-of-religion-1926": [
+   "kantsphilosophyo0000webb",
+   "Kant's Philosophy of Religion (Clarendon, 1926)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "webb-group-theories-of-religion-1916": {
+   "author": "Clement C. J. Webb (title page OCR reads 'CLEMENT d;\"'j. i^EBB, Fellow of Magdalen College, Oxford, late Wilde Lecturer')"
+  }
+ },
+ "_checks": {
+  "webb-problems-relations-god-and-man-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "webb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "webb-group-theories-of-religion-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "[1916]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "webb-god-and-personality-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "webb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "webb-divine-personality-and-human-life-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "webb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "webb-kants-philosophy-of-religion-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "webb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Mun (1571-1641), East India Company director and mercantilist: England's Treasure by Forraign Trade (1664), reprinted in Macmillan's Economic Classics (New York and London: Macmillan, 1895), raw IA OCR, clean 0.93. US public domain. No uids minted.",
+ "_author": "Thomas Mun",
+ "_name_words": [
+  "thomas",
+  "mun"
+ ],
+ "_surname": [
+  "mun"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mun-englands-treasure-1895": [
+   "englandstreasur00mungoog",
+   "England's Treasure by Forraign Trade (1664), Economic Classics (Macmillan, 1895)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mun-englands-treasure-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

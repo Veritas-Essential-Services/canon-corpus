@@ -1,0 +1,203 @@
+{
+ "_about": "Owen Wister: Westerns and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Owen Wister",
+ "_name_words": [
+  "owen",
+  "wister"
+ ],
+ "_surname": [
+  "owen wister"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "owister-philosophy-4": [
+   862,
+   "Philosophy 4: A Story of Harvard University"
+  ],
+  "owister-virginian": [
+   1298,
+   "The Virginian: A Horseman of the Plains"
+  ],
+  "owister-straight-deal": [
+   1379,
+   "A Straight Deal; Or, The Ancient Grudge"
+  ],
+  "owister-lin-mclean": [
+   1385,
+   "Lin McLean"
+  ],
+  "owister-lady-baltimore": [
+   1386,
+   "Lady Baltimore"
+  ],
+  "owister-mother": [
+   1387,
+   "Mother"
+  ],
+  "owister-padre-ignacio": [
+   1388,
+   "Padre Ignacio; Or, The Song of Temptation"
+  ],
+  "owister-jimmyjohn-boss-and-other-stories": [
+   1390,
+   "The Jimmyjohn Boss, and Other Stories"
+  ],
+  "owister-how-doth-the-simple-spelling-bee": [
+   23923,
+   "How Doth the Simple Spelling Bee"
+  ],
+  "owister-dragon-of-wantley": [
+   26448,
+   "The Dragon of Wantley: His Tale"
+  ],
+  "owister-red-men-and-white": [
+   28675,
+   "Red Men and White"
+  ],
+  "owister-pentecost-of-calamity": [
+   32098,
+   "The Pentecost of Calamity"
+  ],
+  "owister-members-of-the-family": [
+   56717,
+   "Members of the Family"
+  ],
+  "owister-journey-in-search-of-christmas": [
+   71547,
+   "A journey in search of Christmas"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 48694: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "owister-philosophy-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-virginian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-straight-deal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-lin-mclean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-lady-baltimore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-padre-ignacio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-jimmyjohn-boss-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-how-doth-the-simple-spelling-bee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-dragon-of-wantley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-red-men-and-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-pentecost-of-calamity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-members-of-the-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owister-journey-in-search-of-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

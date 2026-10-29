@@ -1,0 +1,57 @@
+{
+ "_about": "Erasmus Darwin (1731-1802), physician and natural philosopher: Zoonomia, or the Laws of Organic Life, vol. I in the second edition corrected (London: J. Johnson, 1796) and vol. II (London: J. Johnson, 1796); The Temple of Nature, or the Origin of Society, a poem with philosophical notes (London: J. Johnson, 1803). Clean Gutenberg texts. Not taken: The Botanic Garden (verse). US public domain. No uids minted.",
+ "_author": "Erasmus Darwin",
+ "_name_words": [
+  "erasmus",
+  "darwin"
+ ],
+ "_surname": [
+  "darwin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "erasmus-darwin-zoonomia-v1-1796": [
+   15707,
+   "Zoonomia, vol. I, second edition (J. Johnson, 1796)"
+  ],
+  "erasmus-darwin-zoonomia-v2-1796": [
+   27600,
+   "Zoonomia, vol. II (J. Johnson, 1796)"
+  ],
+  "erasmus-darwin-temple-of-nature-1803": [
+   26861,
+   "The Temple of Nature (J. Johnson, 1803)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "erasmus-darwin-zoonomia-v1-1796": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erasmus-darwin-zoonomia-v2-1796": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erasmus-darwin-temple-of-nature-1803": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

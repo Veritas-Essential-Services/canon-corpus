@@ -1,0 +1,35 @@
+{
+ "_about": "Robert Drew Hicks (1850-1929), Cambridge classicist, editor of Aristotle's De Anima. Raw IA OCR: Stoic and Epicurean, Epochs of Philosophy series (New York: Scribner, 1910). His Loeb Diogenes Laertius (1925) is Greek facing and held back like the other Greek-facing Loebs. Not Elias Hicks (shelf elias-hicks). US public domain. No uids minted.",
+ "_author": "R. D. Hicks",
+ "_name_words": [
+  "robert",
+  "drew",
+  "hicks"
+ ],
+ "_surname": [
+  "hicks",
+  "r. d. hicks"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hicks-stoic-and-epicurean-1910": [
+   "stoicepicurean00hick",
+   "Stoic and Epicurean (Scribner, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hicks-stoic-and-epicurean-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

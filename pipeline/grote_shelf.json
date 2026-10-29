@@ -1,0 +1,254 @@
+{
+ "_about": "George Grote (1794-1871), banker, historian of Greece. Classical scholarship (lane B, pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): the History of Greece (12 vols., the edition Gutenberg keyed), Plato and the Other Companions of Sokrates (3rd ed., 4 vols.), Aristotle (posthumous, ed. Bain and Robertson) and the paper on Plato's doctrine of the earth's rotation, all clean Gutenberg. Grote's original English; no translator. No uids minted.",
+ "_name_words": [
+  "grote"
+ ],
+ "_surname": [
+  "george grote",
+  "grote, george"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grote-history-of-greece-v01": [
+   56342,
+   "History of Greece, Volume 01 (of 12)"
+  ],
+  "grote-history-of-greece-v02": [
+   57143,
+   "History of Greece, Volume 02 (of 12)"
+  ],
+  "grote-history-of-greece-v03": [
+   58565,
+   "History of Greece, Volume 03 (of 12)"
+  ],
+  "grote-history-of-greece-v04": [
+   60426,
+   "History of Greece, Volume 04 (of 12)"
+  ],
+  "grote-history-of-greece-v05": [
+   62098,
+   "History of Greece, Volume 05 (of 12)"
+  ],
+  "grote-history-of-greece-v06": [
+   54936,
+   "History of Greece, Volume 06 (of 12)"
+  ],
+  "grote-history-of-greece-v07": [
+   51181,
+   "History of Greece, Volume 07 (of 12)"
+  ],
+  "grote-history-of-greece-v08": [
+   52119,
+   "History of Greece, Volume 08 (of 12)"
+  ],
+  "grote-history-of-greece-v09": [
+   51182,
+   "History of Greece, Volume 09 (of 12)"
+  ],
+  "grote-history-of-greece-v10": [
+   51183,
+   "History of Greece, Volume 10 (of 12)"
+  ],
+  "grote-history-of-greece-v11": [
+   61469,
+   "History of Greece, Volume 11 (of 12)"
+  ],
+  "grote-history-of-greece-v12": [
+   60786,
+   "History of Greece, Volume 12 (of 12)"
+  ],
+  "grote-plato-companions-v1": [
+   40435,
+   "Plato and the Other Companions of Sokrates, 3rd ed. Volume 1"
+  ],
+  "grote-plato-companions-v2": [
+   40436,
+   "Plato and the Other Companions of Sokrates, 3rd ed. Volume 2"
+  ],
+  "grote-plato-companions-v3": [
+   40437,
+   "Plato and the Other Companions of Sokrates, 3rd ed. Volume 3"
+  ],
+  "grote-plato-companions-v4": [
+   40438,
+   "Plato and the Other Companions of Sokrates, 3rd ed. Volume 4"
+  ],
+  "grote-aristotle": [
+   45851,
+   "Aristotle (ed. Alexander Bain and George Croom Robertson)"
+  ],
+  "grote-plato-rotation-of-earth": [
+   40439,
+   "Plato's Doctrine Respecting the Rotation of the Earth and Aristotle's Comment Upon That Doctrine"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "PG 12002 (Review of Mill's Examination of Hamilton)": "philosophy of mind, outside the classical brief",
+  "PG 26390 (The Two Great Retreats of History)": "school excerpt (Grote's Retreat of the Ten Thousand chapter, ed. Montgomery, with Ségur); the whole History is held"
+ },
+ "_checks": {
+  "grote-history-of-greece-v01": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v02": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v03": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v04": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v05": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v06": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v07": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v08": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v09": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v10": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v11": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-history-of-greece-v12": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-plato-companions-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-plato-companions-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-plato-companions-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-plato-companions-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-aristotle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grote-plato-rotation-of-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george grote",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

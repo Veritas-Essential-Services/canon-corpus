@@ -20,6 +20,21 @@
    "india.history.resource.111025",
    "Selected Poems from the Divani Shamsi Tabriz (1898)",
    "111025_djvu.txt"
+  ],
+  "nicholson-tarjuman": [
+   "tarjumanalashwaq00ibnaiala",
+   "The Tarjuman al-Ashwaq (1911)",
+   "tarjumanalashwaq00ibnaiala_djvu.txt"
+  ],
+  "nicholson-eastern-poetry": [
+   "translationsofea00nich",
+   "Translations of Eastern Poetry and Prose (1922)",
+   "translationsofea00nich_djvu.txt"
+  ],
+  "nicholson-mathnawi-2": [
+   "in.ernet.dli.2015.70297",
+   "The Mathnawi of Jalalu'ddin Rumi, vol. II (1926)",
+   "2015.70297.Mathnawi-Of-Jalaluddin-Rumi-Vol2_djvu.txt"
   ]
  },
  "titles": {
@@ -38,12 +53,38 @@
    "translated": 1898,
    "translator": "Reynold A. Nicholson",
    "scan_edition": "Cambridge University Press 1898 (India History Resource copy), raw OCR"
+  },
+  "nicholson-tarjuman": {
+   "source": "nicholson-tarjuman",
+   "of": "Ibn al-Arabi",
+   "work": "The Tarjuman al-Ashwaq: a Collection of Mystical Odes",
+   "translated": 1911,
+   "translator": "Reynold A. Nicholson",
+   "scan_edition": "Oriental Translation Fund, new series XX, Royal Asiatic Society, London, 1911, raw OCR; Arabic text with the English"
+  },
+  "nicholson-eastern-poetry": {
+   "source": "nicholson-eastern-poetry",
+   "of": "various Arabic and Persian authors",
+   "work": "Translations of Eastern Poetry and Prose",
+   "translated": 1922,
+   "translator": "Reynold A. Nicholson",
+   "scan_edition": "Cambridge University Press, 1922, raw OCR"
+  },
+  "nicholson-mathnawi-2": {
+   "source": "nicholson-mathnawi-2",
+   "of": "Rumi",
+   "work": "The Mathnawi of Jalalu'ddin Rumi, vol. II: translation of the First and Second Books",
+   "translated": 1926,
+   "translator": "Reynold A. Nicholson",
+   "scan_edition": "E. J. W. Gibb Memorial new series IV.2, Luzac, London, 1926 (Digital Library of India copy), raw OCR"
   }
  },
  "_pending": {
-  "nicholson-mathnawi": "The Mathnawi translation (Gibb series, 1925-40): vols 1-2 (1926, 1930) are US PD; the rest are not. Not fetched."
+  "nicholson-mathnawi": "The rest of the Mathnawi (Gibb series, 1925-40): the translation of Books I-II (vol. II, 1926) is now held. Vol. IV (1930) waits on the 1930 ruling; the volumes after 1930 are out. Vols I (1925) and III (1929) were not taken because the series puts the Persian text in the odd volumes; check that before adding either."
  },
- "_excluded": {},
+ "_excluded": {
+  "nicholson-mathnawi-2-reprint": "mathnawiofjalalu0006unse is a 1990 reprint of vol. II (reprint list on its verso); the 1926 DLI scan was used."
+ },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_identity_checked": {
   "nicholson-divani-1898": "Title page reads 'edited and translated ... by Reynold A. Nicholson ... Cambridge at the University Press 1898'; the OCR spells the name 'NICHQLSON'. Checked by eye 2026-10-03."
@@ -51,7 +92,7 @@
  "_checks": {
   "nicholson-kashf": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "reynold a. nicholson",
    "identity": "ok",
@@ -60,12 +101,45 @@
   },
   "nicholson-divani-1898": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
    "ia_rights": "ok: published 1898",
    "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nicholson-tarjuman": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "reynold a. nicholson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicholson-eastern-poetry": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "reynold a. nicholson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nicholson-mathnawi-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "reynold a. nicholson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -78,7 +152,7 @@
   },
   "nicholson-divani-1898": {
    "ia": "india.history.resource.111025",
-   "translator_named_in_first_30k": true,
+   "translator_named_in_first_30k": false,
    "years_in_front_15k": [
     1880,
     1883,
@@ -91,6 +165,38 @@
     2019
    ],
    "post_1930_examined": "Examined: 'Digitized with financial assistance ... on 06 November, 2019', a scanning credit on the same OCR line as the library stamp, not an imprint. Imprint: Cambridge 1898."
+  },
+  "nicholson-tarjuman": {
+   "ia": "tarjumanalashwaq00ibnaiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1527,
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "nicholson-eastern-poetry": {
+   "ia": "translationsofea00nich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1737,
+    1921,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "nicholson-mathnawi-2": {
+   "ia": "in.ernet.dli.2015.70297",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918,
+    1921,
+    1923,
+    1924,
+    1925,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",

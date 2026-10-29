@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain A. A. Hodge (Archibald Alexander Hodge, 1823-1886, Princeton Seminary professor, son of Charles Hodge) for the Word Hoard: Outlines of Theology in the rewritten and enlarged edition (New York: Carter, 1879), A Commentary on the Confession of Faith (the 1885 new edition of the 1869 book), The Atonement (1867), Popular Lectures on Theological Themes (1887) and The Life of Charles Hodge (New York: Scribner, 1880), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain A. A. Hodge (Archibald Alexander Hodge, 1823-1886, Princeton Seminary professor, son of Charles Hodge) for the Word Hoard: Outlines of Theology in the rewritten and enlarged edition (New York: Carter, 1879), A Commentary on the Confession of Faith (the 1885 new edition of the 1869 book), The Atonement (1867), Popular Lectures on Theological Themes (1887) and The Life of Charles Hodge (New York: Scribner, 1880), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Extended 2026-10-28 by lane A at Adam's request (his Logos author list): Manual of Forms for baptism, the Lord's Supper, marriage and funerals, Questions on the Text of the Systematic Theology of Dr. Charles Hodge, and a funeral address of 1881.",
  "_name_words": [
   "hodge",
   "archibald",
@@ -34,6 +34,18 @@
   "aa-hodge-confession-1885": [
    "commentaryonconf00hodguoft",
    "A Commentary on the Confession of Faith, new edition with two appendices (Philadelphia: Presbyterian Board of Publication; author's preface dated June 1885; copyright line 1869, the catalogued year)"
+  ],
+  "aa-hodge-manual-of-forms": [
+   "manualofforms00hodguoft",
+   "Manual of forms, for baptism, admission to the communion, administration of the Lord's Supper, marriage and funerals, ordination of elders and deacons, etc (Philadelphia : Presbyterian Board of Publication and Sabbath-School Work, 1920)"
+  ],
+  "aa-hodge-questions-systematic": [
+   "questionsontexto00hodg",
+   "Questions on the text of the Systematic Theology of Dr. Charles Hodge : together with an exhibition of various schemes illustrating the principles of theological construction (New York : Charles Scribner's Sons, 1885)"
+  ],
+  "aa-hodge-funeral-address-1881": [
+   "addressatfuneral00hodg",
+   "Address at the funeral of the Rev. Henry Augustus Boardman, D.D (Philadelphia : [s.n.], 1881)"
   ]
  },
  "_alternates": {
@@ -41,12 +53,16 @@
  },
  "_excluded": {
   "aa-hodge-shorter-catechism": "The System of Theology contained in the Westminster Shorter Catechism (1888): catalogued under A. A. and J. A. Hodge jointly",
-  "aa-hodge-theism-evolution": "Theism and Evolution (1886) is J. S. Van Dyke's book; Hodge wrote only the introduction"
+  "aa-hodge-theism-evolution": "Theism and Evolution (1886) is J. S. Van Dyke's book; Hodge wrote only the introduction",
+  "aa-hodge-x-joint": "Inspiration (1881) and the Westminster Doctrine anent Holy Scripture are written jointly with Warfield",
+  "aa-hodge-x-others": "The Substance of Four Sermons on Infant Baptism, the Lecture Notes of Archibald Alexander and the 1917 commission report are not his books",
+  "aa-hodge-x-index": "the Index to Systematic Theology is an index to his father's book",
+  "aa-hodge-x-dups": "earlier printings of the Outlines of Theology and other copies of the books held"
  },
  "_checks": {
   "aa-hodge-outlines-1879": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "a. a. hodge",
    "identity": "ok",
@@ -57,7 +73,7 @@
   },
   "aa-hodge-atonement-1867": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "archibald alexander hodge",
    "identity": "ok",
@@ -68,7 +84,7 @@
   },
   "aa-hodge-popular-lectures-1887": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "archibald alexander hodge",
    "identity": "ok",
@@ -79,7 +95,7 @@
   },
   "aa-hodge-life-charles-hodge-1880": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "a. a. hodge",
    "identity": "ok",
@@ -90,7 +106,7 @@
   },
   "aa-hodge-confession-1885": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "archibald alexander hodge",
    "identity": "ok",
@@ -98,6 +114,40 @@
    "ia_date": "[1869]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "aa-hodge-manual-of-forms": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "a. a. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920, 1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aa-hodge-questions-systematic": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "a. a. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aa-hodge-funeral-address-1881": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "a. a. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
- }
+ },
+ "_pending": {}
 }

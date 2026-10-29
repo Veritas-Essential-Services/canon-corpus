@@ -1,0 +1,46 @@
+{
+ "_about": "William De Witt Hyde (1858-1917), American moral philosopher, president of Bowdoin College. Gutenberg: Practical Ethics (1892); The Five Great Philosophies of Life (1911). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "William De Witt Hyde",
+ "_name_words": [
+  "william",
+  "de",
+  "witt",
+  "hyde"
+ ],
+ "_surname": [
+  "de witt hyde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wdhyde-practical-ethics": [
+   24372,
+   "Practical Ethics (1892)"
+  ],
+  "wdhyde-five-great-philosophies": [
+   39065,
+   "The Five Great Philosophies of Life (1911)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wdhyde-practical-ethics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de witt hyde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdhyde-five-great-philosophies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de witt hyde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

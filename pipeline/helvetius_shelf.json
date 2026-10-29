@@ -1,0 +1,39 @@
+{
+ "_about": "Claude Adrien Helvétius (1715-1771) in English, raw IA OCR: De l'Esprit, or Essays on the Mind and its Several Faculties, translated from the French (London: printed for the translator, 1759), the first English translation; the translator is not named in the book. US public domain. Not taken: the 1807 reissue with William Mudford's life of the author (delespritoressa01helvgoog), to avoid a second copy of the translation. No uids minted.",
+ "_author": "Claude Adrien Helvétius",
+ "_name_words": [
+  "claude",
+  "adrien",
+  "helvetius",
+  "helvétius",
+  "c",
+  "a"
+ ],
+ "_surname": [
+  "helvetius",
+  "helvétius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "helvetius-de-l-esprit-1759": [
+   "b30416474",
+   "De l'Esprit, or Essays on the Mind and its Several Faculties, translated from the French (London: printed for the translator, 1759)",
+   "tr. anonymous"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "helvetius-de-l-esprit-1759": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "helvetius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "_about": "Public-domain R. W. Dale (Robert William Dale, 1829-1895, Congregationalist, Carr's Lane, Birmingham) for the Word Hoard: The Atonement (1875 lecture, 22nd ed. 1902), Ephesians (6th ed. 1892), Christian Doctrine (1895), The Living Christ and the Four Gospels (catalogued 1890), Nine Lectures on Preaching (1877), Laws of Christ for Common Life (1884), Fellowship with Christ (catalogued 1892), Essays and Addresses (1899), Christ and the Future Life (1895) and A Manual of Congregational Principles (1884), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "dale"
+ ],
+ "_surname": [
+  "r. w. dale",
+  "dale, r. w.",
+  "robert william dale",
+  "dale, robert william",
+  "r. w. dale, m.a.",
+  "r. w. dale, ll.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dale-atonement": [
+   "theatonement00daleuoft",
+   "The Atonement: The Congregational Union Lecture for 1875 (22nd ed., London: Congregational Union, 1902)"
+  ],
+  "dale-ephesians": [
+   "cu31924029294232",
+   "The Epistle to the Ephesians: Its Doctrine and Ethics (6th ed., London: Hodder and Stoughton, MDCCCXCII)"
+  ],
+  "dale-christian-doctrine": [
+   "christiandoctrin0000dale",
+   "Christian Doctrine: A Series of Discourses (5th thousand, London: Hodder and Stoughton, 1895)"
+  ],
+  "dale-living-christ": [
+   "livingchristfourlond00dale",
+   "The Living Christ and the Four Gospels (2nd ed., London: Hodder and Stoughton; no year on title page, catalogued 1890)"
+  ],
+  "dale-lectures-preaching": [
+   "ninelecturesonpr00daleiala",
+   "Nine Lectures on Preaching, Delivered at Yale (London: Hodder and Stoughton, MDCCCLXXVII)"
+  ],
+  "dale-laws-of-christ": [
+   "lawsofchristforc00dale",
+   "Laws of Christ for Common Life (London: Hodder and Stoughton, MDCCCLXXXIV)"
+  ],
+  "dale-fellowship-with-christ": [
+   "fellowshipwithch00daleuoft",
+   "Fellowship with Christ and Other Discourses (London: Hodder and Stoughton; no year on title page, catalogued 1892)"
+  ],
+  "dale-essays-addresses": [
+   "essaysaddresses0000dale",
+   "Essays and Addresses (London: Hodder and Stoughton, MDCCCXCIX; posthumous, with an editor's preface)"
+  ],
+  "dale-christ-future-life": [
+   "christandthefutu00daleuoft",
+   "Christ and the Future Life (London: Hodder and Stoughton, 1895)"
+  ],
+  "dale-congregational-principles": [
+   "amanualofcongreg00daleuoft",
+   "A Manual of Congregational Principles (9th thousand, London: Hodder and Stoughton, MDCCCLXXXIV)"
+  ]
+ },
+ "_alternates": {
+  "dale-atonement-1876": "The Atonement, 5th ed. 1876 (IA atonement0000rwda; author line garbled)",
+  "dale-living-christ-ny": "The Living Christ and the Four Gospels (New York: A. C. Armstrong, 1890; IA livingchristfour00dale)",
+  "dale-essays-1901": "Essays and Addresses, 3rd ed. 1901 (IA essaysandaddress00daleuoft)"
+ },
+ "_excluded": {
+  "dale-protestantism": "IA protestantism0000rwda: catalogued 1928, 70 pages, not checked further",
+  "dale-living-christ-v2": "IA livingchristfour0002rwda: catalogued 1903 as v2 of a one-volume work; unexplained"
+ },
+ "_identity_checked": {
+  "dale-fellowship-with-christ": {
+   "author": "Title page read: \"BY RP^W. DALE, LL.D., BIRMINGHAM\", London: Hodder and Stoughton (OCR for R. W. Dale)."
+  }
+ },
+ "_rights_checked": {
+  "dale-christian-doctrine": "title page read: London: Hodder and Stoughton, 1895; author died 1895",
+  "dale-essays-addresses": "title page read: London: Hodder and Stoughton, MDCCCXCIX; author died 1895"
+ },
+ "_checks": {
+  "dale-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dale-ephesians": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dale-christian-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London: Hodder and Stoughton, 1895; author died 1895"
+  },
+  "dale-living-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dale-lectures-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dale-laws-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dale-fellowship-with-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dale-essays-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London: Hodder and Stoughton, MDCCCXCIX; author died 1895"
+  },
+  "dale-christ-future-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dale-congregational-principles": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. w. dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

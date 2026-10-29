@@ -1,0 +1,181 @@
+{
+ "_about": "Public-domain Thomas Herring (1693-1757), Archbishop of York and then of Canterbury, for the Word Hoard: his sermons of 1738 to 1747 (the 1740 House of Lords sermon is held: its scan lacks a title page) (including the York sermon of 1745 on the Jacobite rising), Seven Sermons on Public Occasions, his 1748 letter to the bishops, and his Letters to William Duncombe. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 137 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas herring",
+  "t. herring",
+  "herring",
+  "archbishop of york",
+  "archbishop of canterbury"
+ ],
+ "_surname": [
+  "herring"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herring-spg-1738": [
+   "bim_eighteenth-century_a-sermon-preached-before_herring-thomas_1738",
+   "A sermon preached before the Incorporated Society for the propagation of the Gospel in foreign parts; at their anniversary meeting in the Parish-Church of St. Mary-le-Bow, on Friday, February 17, 1737-8. By Thomas Lord Bishop of Bangor.  1738 (catalogued 1738)"
+  ],
+  "herring-lord-mayor-1739": [
+   "bim_eighteenth-century_a-sermon-preached-before_herring-thomas_1739",
+   "A sermon preached before the Right Honourable the Lord-Mayor, the Court of Aldermen, the sheriffs, and the governors of the several hospitals of the city of London, at the parish church of St. Bridget, on Monday in Easter-week, 1739. By Thomas Lord Bishop of Bangor.  1739 (catalogued 1739)"
+  ],
+  "herring-scotland-society-1741": [
+   "bim_eighteenth-century_a-sermon-preachd-before_herring-thomas_1741",
+   "A sermon preach'd before the Society corresponding with the Incorporated Society in Dublin, for promoting English Protestant Working-Schools in Ireland, at their anniversary meeting in the parish-church of St.Mary le Bow, on Wednesday, March 18. 1740 (catalogued 1741)"
+  ],
+  "herring-york-1745": [
+   "asermonpreachda00herrgoog",
+   "A Sermon Preach'd at the Cathedral Church of York. September, the 22d, 1745: On Occasion of the (Printed for John Hildyard, bookseller in York; and sold by J. and P. Knapton, T. Longman , and A. Dodd, 1745)"
+  ],
+  "herring-kensington-1747": [
+   "bim_eighteenth-century_a-sermon-preached-at-ken_herring-thomas_1747",
+   "A sermon preached at Kensington, on Wednesday the 7th of January; ... By ... Thomas, Lord Archbishop of York.  1747 (catalogued 1747)"
+  ],
+  "herring-london-infirmary": [
+   "b30503802",
+   "A sermon, preached before His Grace Charles, Duke of Richmond, Lenox, and Aubigny, President; and the governors of the London Infirmary, in Goodman's-Fields, for the relief of all sick and diseased persons, especially manufacturers, and seamen in merchant-service, &c. at the Parish Church of St. Lawrence-Jewry, on Tuesday, March 31, 1747 (London : Printed by H. Woodfall ..., 1747)"
+  ],
+  "herring-letter-bishops-1748": [
+   "bim_eighteenth-century_his-grace-the-archbishop_herring-thomas_1748",
+   "His Grace the Archbishop of Canterbury's letter to the Right Reverend the Lords Bishops of his province.  1748 (catalogued 1748)"
+  ],
+  "herring-seven-sermons": [
+   "bim_eighteenth-century_seven-sermons-on-public-_herring-thomas_1763",
+   "Seven sermons on public occasions. By the most Reverend Dr. Thomas Herring, ... Now first collected. With a preface.  1763 (catalogued 1763)"
+  ],
+  "herring-letters": [
+   "bim_eighteenth-century_letters-from-the-late-mo_herring-thomas_1777",
+   "Letters from the late most reverend Dr. Thomas Herring, Lord Archbishop of Canterbury, to William Duncombe, ... from the year 1728 to 1757. With notes and an appendix.  1777 (catalogued 1777)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "herring-political": "the 1745 speech at presenting an address is political",
+  "herring-others": "the 1753 New Form of Common Prayer, Cole's Short Narrative and the 1765 visitation sermon are not his",
+  "herring-dups": "the ECCO copy of the York sermon"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "herring-spg-1738": "title page (OCR): 'By [Thomas], Lord Bishop of Bangor', 17 February 1737/8 (Herring was Bishop of Bangor 1738-1743)",
+  "herring-lord-mayor-1739": "title page (OCR): 'By Thomas, Lord Bishop of Bangor', 1739 (Herring was Bishop of Bangor 1738-1743)",
+  "herring-scotland-society-1741": "title page (OCR): 'By the Right Reverend Thomas Lord Bishop of Bangor', March 1740/1 (Herring was Bishop of Bangor 1738-1743)",
+  "herring-york-1745": "title page (OCR): 'By Thomas, Lord Archbishop of York', 22 September 1745, on the rebellion in Scotland (Herring was Archbishop of York 1743-1747)",
+  "herring-kensington-1747": {
+   "author": "title page (image): 'By the Most Reverend Father in God, Thomas, Lord Archbishop of York', London 1747 (Herring was Archbishop of York 1743-1747)",
+   "title": "title page (image): 'A Sermon Preached at Kensington, on Wednesday the 7th of January; being the Day appointed by Proclamation for a General Fast'"
+  },
+  "herring-london-infirmary": "title page (OCR): 'By His Grace Thomas Lord Archbishop of York', St Lawrence Jewry, 31 March 1747, second edition (Herring was Archbishop of York 1743-1747)",
+  "herring-letter-bishops-1748": {
+   "author": "title page (image): 'His Grace the Archbishop of Canterbury's Letter', London 1748 (Herring was Archbishop of Canterbury 1747-1757)",
+   "title": "title page (image): 'His Grace the Archbishop of Canterbury's Letter to the Right Reverend the Lords Bishops of his Province'"
+  }
+ },
+ "_pending": {
+  "herring-lords-1740": "A sermon preached before the House of Lords, in the Abbey-Church of Westminster, on Wednesday, Jan. 30, 1739-40 ... By Thomas, Lord Bishop of Bangor.  1740 (catalogued 1740) (IA bim_eighteenth-century_a-sermon-preached-before_herring-thomas_1740): the scan has no title page, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "herring-spg-1738": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1738",
+   "ia_date": "1738",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herring-lord-mayor-1739": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1739",
+   "ia_date": "1739",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herring-scotland-society-1741": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herring-york-1745": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herring-kensington-1747": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herring-london-infirmary": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herring-letter-bishops-1748": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1748",
+   "ia_date": "1748",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herring-seven-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "herring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herring-letters": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "herring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1777",
+   "ia_date": "1777",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

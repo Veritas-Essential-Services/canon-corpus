@@ -1,0 +1,86 @@
+{
+ "_about": "Francis Hutcheson (1694-1746), raw IA OCR: An Inquiry into the Original of our Ideas of Beauty and Virtue (London: J. Darby and others; the title-page year reads 1716 in the OCR, a misreading: IA catalogues the copy as 1726, the second edition, and the first appeared in 1725), An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense (London, 1728), and A System of Moral Philosophy, published from his manuscript by his son, with William Leechman's account of his life (Glasgow: R. and A. Foulis, 1755, 2 vols.). Not George Hutcheson, the Covenanter divine, who has his own shelf. US public domain. No uids minted.",
+ "_author": "Francis Hutcheson",
+ "_name_words": [
+  "francis",
+  "hutcheson"
+ ],
+ "_surname": [
+  "hutcheson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hutcheson-inquiry-beauty-virtue-1726": [
+   "inquiryintoorigi1726hutc",
+   "An Inquiry into the Original of our Ideas of Beauty and Virtue, in two treatises (London: J. Darby and others, 1726)"
+  ],
+  "hutcheson-passions-and-affections-1728": [
+   "essayonnaturecon00hutciala",
+   "An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense (London: J. Darby and T. Browne, 1728)"
+  ],
+  "hutcheson-system-of-moral-philosophy-1755-v1": [
+   "systemmoralphilo01hutc",
+   "A System of Moral Philosophy, in three books, vol. I (Glasgow: R. and A. Foulis, 1755)"
+  ],
+  "hutcheson-system-of-moral-philosophy-1755-v2": [
+   "systemmoralphilo02hutc",
+   "A System of Moral Philosophy, vol. II (Glasgow: R. and A. Foulis, 1755)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hutcheson-inquiry-beauty-virtue-1726": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hutcheson-passions-and-affections-1728": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hutcheson-system-of-moral-philosophy-1755-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hutcheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hutcheson-system-of-moral-philosophy-1755-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hutcheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "hutcheson-inquiry-beauty-virtue-1726": {
+   "author": "title page read 2026-10-17: published anonymously; the title page names no author ('An Inquiry into the Original of our Ideas of Beauty and Virtue, in two treatises ... London: printed for J. Darby, A. Bettesworth ...'). Hutcheson's authorship is standard attribution, and the Essay of 1728 calls itself 'by the author of the Inquiry'"
+  },
+  "hutcheson-passions-and-affections-1728": {
+   "author": "title page read 2026-10-17: 'An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense. By the Author of the Inquiry into the Original of our Ideas of Beauty and Virtue ... London ... M.DCC.XXVIII'; anonymous on the title page, Hutcheson by standard attribution"
+  }
+ }
+}

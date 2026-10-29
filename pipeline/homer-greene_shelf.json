@@ -1,0 +1,162 @@
+{
+ "_about": "Homer Greene's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Homer Greene",
+ "_name_words": [
+  "greene",
+  "homer"
+ ],
+ "_surname": [
+  "homer greene"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hgreene-burnham-breaker": [
+   10449,
+   "Burnham Breaker"
+  ],
+  "hgreene-flag": [
+   25188,
+   "The Flag"
+  ],
+  "hgreene-blind-brother": [
+   45232,
+   "The Blind Brother: A Story of the Pennsylvania Coal Mines"
+  ],
+  "hgreene-picketts-gap": [
+   45405,
+   "Pickett's Gap"
+  ],
+  "hgreene-riverpark-rebellion": [
+   46146,
+   "The Riverpark Rebellion"
+  ],
+  "hgreene-tale-of-the-tow-path": [
+   46172,
+   "A Tale of the Tow-Path"
+  ],
+  "hgreene-whispering-tongues": [
+   46528,
+   "Whispering Tongues"
+  ],
+  "hgreene-lincoln-conscript": [
+   49677,
+   "A Lincoln Conscript"
+  ],
+  "hgreene-guardsman": [
+   55768,
+   "The Guardsman"
+  ],
+  "hgreene-coal-and-the-coal-mines": [
+   69134,
+   "Coal and the coal mines"
+  ],
+  "hgreene-unhallowed-harvest": [
+   70967,
+   "The unhallowed harvest"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hgreene-burnham-breaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-blind-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-picketts-gap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-riverpark-rebellion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-tale-of-the-tow-path": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-whispering-tongues": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-lincoln-conscript": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-guardsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-coal-and-the-coal-mines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreene-unhallowed-harvest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

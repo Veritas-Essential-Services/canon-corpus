@@ -1,0 +1,212 @@
+{
+ "_about": "George Washington Cable's stories of Creole Louisiana",
+ "_author": "George W. Cable",
+ "_name_words": [
+  "cable"
+ ],
+ "_surname": [
+  "george w. cable",
+  "george washington cable"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gwcable-strong-hearts": [
+   9838,
+   "Strong Hearts"
+  ],
+  "gwcable-cavalier": [
+   9839,
+   "The Cavalier"
+  ],
+  "gwcable-old-creole-days": [
+   10234,
+   "Old Creole Days: A Story of Creole Life"
+  ],
+  "gwcable-kincaids-battery": [
+   11719,
+   "Kincaid's Battery",
+   {
+    "contents_only": true
+   }
+  ],
+  "gwcable-grandissimes": [
+   12280,
+   "The Grandissimes"
+  ],
+  "gwcable-strange-true-stories-of-louisiana": [
+   12577,
+   "Strange True Stories of Louisiana"
+  ],
+  "gwcable-bylow-hill": [
+   14575,
+   "Bylow Hill",
+   {
+    "contents_only": true
+   }
+  ],
+  "gwcable-flower-of-the-chapdelaines": [
+   15881,
+   "The Flower of the Chapdelaines"
+  ],
+  "gwcable-gideons-band": [
+   19348,
+   "Gideon's Band: A Tale of the Mississippi",
+   {
+    "contents_only": true
+   }
+  ],
+  "gwcable-amateur-garden": [
+   19408,
+   "The Amateur Garden"
+  ],
+  "gwcable-madame-delphine": [
+   19703,
+   "Madame Delphine"
+  ],
+  "gwcable-bonaventure": [
+   24078,
+   "Bonaventure: A Prose Pastoral of Acadian Louisiana"
+  ],
+  "gwcable-dr-sevier": [
+   29439,
+   "Dr. Sevier"
+  ],
+  "gwcable-john-march-southerner": [
+   31470,
+   "John March, Southerner",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gwcable-strong-hearts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-cavalier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-old-creole-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-kincaids-battery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-grandissimes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-strange-true-stories-of-louisiana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-bylow-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-flower-of-the-chapdelaines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-gideons-band": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-amateur-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-madame-delphine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-bonaventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-dr-sevier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwcable-john-march-southerner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george w. cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

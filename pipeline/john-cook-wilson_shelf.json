@@ -1,0 +1,49 @@
+{
+ "_about": "John Cook Wilson (1849-1915), Wykeham Professor of Logic at Oxford and founder of Oxford realism. Raw IA OCR: On the Interpretation of Plato's Timaeus, critical studies (London: David Nutt, 1889), clean 0.80 (Greek-heavy); Statement and Inference with other philosophical papers, edited by A. S. L. Farquharson, vol. I (Oxford: Clarendon Press, 1926), clean 0.92. Held: Statement and Inference vol. II, whose 1926 scan is access-restricted. US public domain. No uids minted.",
+ "_author": "John Cook Wilson",
+ "_name_words": [
+  "john",
+  "cook",
+  "wilson"
+ ],
+ "_surname": [
+  "cook wilson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cook-wilson-platos-timaeus-1889": [
+   "platostimaeuscri00wilsuoft",
+   "On the Interpretation of Plato's Timaeus (Nutt, 1889)"
+  ],
+  "cook-wilson-statement-and-inference-1926-v1": [
+   "statementinferen0001john",
+   "Statement and Inference, vol. I (Clarendon, 1926)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "cook-wilson-platos-timaeus-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cook wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cook-wilson-statement-and-inference-1926-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cook wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

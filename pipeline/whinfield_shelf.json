@@ -12,6 +12,21 @@
   "whinfield-masnavi-1887": [
    "cu31924026910251",
    "Masnavi i Ma'navi, the spiritual couplets (1887)"
+  ],
+  "whinfield-gulshan": [
+   "gulshanirazmysti00shabuoft",
+   "Gulshan i Raz (1880)",
+   "gulshanirazmysti00shabuoft_djvu.txt"
+  ],
+  "whinfield-quatrains": [
+   "in.ernet.dli.2015.38800",
+   "The Quatrains of Omar Khayyam (1882)",
+   "2015.38800.Quatrains-Of-Omar-Khayyam_djvu.txt"
+  ],
+  "whinfield-lawaih": [
+   "lawaihvolxvi014972mbp",
+   "Lawa'ih (1906)",
+   "lawaihvolxvi014972mbp_djvu.txt"
   ]
  },
  "titles": {
@@ -22,22 +37,79 @@
    "translated": 1887,
    "translator": "E. H. Whinfield",
    "scan_edition": "Trübner 1887 first edition (Cornell copy), raw OCR"
+  },
+  "whinfield-gulshan": {
+   "source": "whinfield-gulshan",
+   "of": "Mahmud Shabistari",
+   "work": "Gulshan i Raz: the Mystic Rose Garden",
+   "translated": 1880,
+   "translator": "E. H. Whinfield",
+   "scan_edition": "Trübner, London, 1880 (University of Toronto copy), raw OCR; Persian text with the English"
+  },
+  "whinfield-quatrains": {
+   "source": "whinfield-quatrains",
+   "of": "Omar Khayyam",
+   "work": "The Quatrains of Omar Khayyam",
+   "translated": 1882,
+   "translator": "E. H. Whinfield",
+   "scan_edition": "Trübner's Oriental Series, London, 1882 (Digital Library of India copy), raw OCR"
+  },
+  "whinfield-lawaih": {
+   "source": "whinfield-lawaih",
+   "of": "Jami",
+   "work": "Lawa'ih: a Treatise on Sufism",
+   "translated": 1906,
+   "translator": "E. H. Whinfield and Mirza Muhammad Kazvini",
+   "scan_edition": "Oriental Translation Fund, new series XVI, Royal Asiatic Society, London, 1906, raw OCR; Persian text with the English"
   }
  },
- "_pending": {
-  "whinfield-omar": "Whinfield's Omar Khayyam quatrains are inside Gutenberg 38511, a 1903 compilation with FitzGerald's and Nicolas's versions; it would need cutting by marker. Not fetched."
+ "_pending": {},
+ "_excluded": {
+  "whinfield-omar-pg38511": "Gutenberg 38511 mixes Whinfield with FitzGerald and Nicolas; the 1882 Trübner scan is used instead."
  },
- "_excluded": {},
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "whinfield-masnavi-1887": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "whinfield",
    "identity": "ok",
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whinfield-gulshan": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whinfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whinfield-quatrains": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whinfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whinfield-lawaih": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -52,7 +124,46 @@
     1924
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "whinfield-gulshan": {
+   "ia": "gulshanirazmysti00shabuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1700,
+    1821,
+    1825,
+    1834,
+    1838,
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "whinfield-quatrains": {
+   "ia": "in.ernet.dli.2015.38800",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "whinfield-lawaih": {
+   "ia": "lawaihvolxvi014972mbp",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1872,
+    1880,
+    1898,
+    1901,
+    1902,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "whinfield-lawaih": {
+   "author": "The title page OCR reads 'WITH A TRVNhLiTION BY IJ WI1JNFI ELD, M A , AND MllWA MUHAMMAD KAZVINI' for E. H. Whinfield and Mirza Muhammad Kazvini. Checked by eye 2026-10-17."
+  }
+ }
 }

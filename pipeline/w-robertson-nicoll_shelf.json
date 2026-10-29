@@ -1,0 +1,252 @@
+{
+ "_about": "Public-domain Sir William Robertson Nicoll (1851-1923), Free Church minister, editor of The Expositor and The British Weekly, for the Word Hoard: his devotional and theological books from The Incarnate Saviour to Reunion in Eternity, with his lives of Ian Maclaren and of his father. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 69 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nicoll"
+ ],
+ "_surname": [
+  "nicoll"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nicoll-lamb-of-god": [
+   "lambofgodexposit00nico",
+   "The Lamb of God : expositions in the writings of St. John (New York : Macmillan, 1883)"
+  ],
+  "nicoll-key-of-the-grave": [
+   "keyofgrave00nico",
+   "The key of the grave (London : Hodder and Stoughton, 1894)"
+  ],
+  "nicoll-ten-minute-sermons": [
+   "bwb_P9-CSD-194",
+   "Ten-Minute Sermons (London: Isbister, 1895)"
+  ],
+  "nicoll-when-the-worst-comes": [
+   "whenworstcomesto00nico",
+   "When the worst comes to the worst (New York, Dodd, Mead and company, 1896)"
+  ],
+  "nicoll-return-to-the-cross": [
+   "returntocross00nico",
+   "The return to the cross (New York : Dodd Mead, 1897)"
+  ],
+  "nicoll-incarnate-saviour": [
+   "incarnatesaviour00nico",
+   "The incarnate Saviour : a life of Jesus Christ (Edinburgh : T. & T. Clark, 1897)"
+  ],
+  "nicoll-seven-words": [
+   "sevenwordsfromcr0000wrob",
+   "The Seven Words From the Cross (Hodder, 1901)"
+  ],
+  "nicoll-churchs-one-foundation": [
+   "thechurch00nicouoft",
+   "The church's one foundation. Christ and recent criticism (London, Hodder and Stoughton, 1901)"
+  ],
+  "nicoll-garden-of-nuts": [
+   "thegardenofnuts00nicouoft",
+   "The garden of nuts : mystical expositions with an essay on Christian mysticism (New York : A.C. Armstrong and son ; London : Hodder and Stoughton, 1905)"
+  ],
+  "nicoll-lamp-of-sacrifice": [
+   "thelampofsacrifi00nicouoft",
+   "The lamp of sacrifice : sermons preached on special occasions (London : Hodder and Stoughton, 1906)"
+  ],
+  "nicoll-ian-maclaren": [
+   "ianmaclarenlifeo00nico",
+   "\"Ian Maclaren\"; the life of the Rev. John Watson, D.D (New York, Dodd, Mead and company, 1908)"
+  ],
+  "nicoll-my-father": [
+   "myfatheraberdeen00nico",
+   "My father, an Aberdeenshire minister, 1812-1891 (London, Hodder and Stoughton, 1910)"
+  ],
+  "nicoll-difference-christ-is-making": [
+   "thedifferencechr00nicouoft",
+   "The Difference Christ is Making, reprinted from The British Weekly (London: Hodder and Stoughton, undated; the papers are dated 1914)"
+  ],
+  "nicoll-prayer-in-war-time": [
+   "prayerinwartime00nicouoft",
+   "Prayer in war time (London : Hodder and Stoughton, 1916)"
+  ],
+  "nicoll-reunion-in-eternity": [
+   "reunionineternit00nicouoft",
+   "Reunion in Eternity (New York: George H. Doran, copyright 1919)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nicoll-edited": "works he edited (The Expositor, The Expositor's Bible, The Expositor's Greek Testament, The Theological Educator, Songs of Rest, Fox's Journal)",
+  "nicoll-literary": "his literary books (the Claudius Clear essays, Letters on Life, The Round of the Clock, Literary Anecdotes, Edwin Drood, Stevenson, A Library for Five Pounds); books by Henry J. Nicoll, another author"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "nicoll-professor-elmslie": "Professor Elmslie: a Memoir (London: Hodder and Stoughton, undated reissue of the 1890 memoir; professorelmslie0000nico): its printing year cannot be read, so held; the 1890 Memoir and Sermons is co-edited with A. N. Macnicol"
+ },
+ "_translators": {},
+ "_checks": {
+  "nicoll-lamb-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-key-of-the-grave": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nicoll-ten-minute-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nicoll-when-the-worst-comes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nicoll-return-to-the-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-incarnate-saviour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-seven-words": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nicoll-churchs-one-foundation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-garden-of-nuts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-lamp-of-sacrifice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-ian-maclaren": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nicoll-my-father": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nicoll-difference-christ-is-making": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-prayer-in-war-time": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicoll-reunion-in-eternity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nicoll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "c1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "_about": "Public-domain Ernest Naville (1816-1909), Genevan Reformed philosopher and apologist, for the Word Hoard: The Heavenly Father, lectures on modern atheism (1865), The Problem of Evil (1871), The Christ (1880) and Modern Physics (1884), in their English translations, from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "naville"
+ ],
+ "_surname": [
+  "ernest naville",
+  "e. naville",
+  "m. ernest naville"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "naville-heavenly-father": [
+   "heavenlyfatherle00navi",
+   "The heavenly Father : lectures on modern atheism (London : Macmillan, 1865)"
+  ],
+  "naville-problem-of-evil": [
+   "problemofevilsev00navi",
+   "The problem of evil; seven lectures (Edinburgh, T. & T. Clark, 1871)"
+  ],
+  "naville-the-christ": [
+   "thechristsevenle00naviuoft",
+   "The Christ : seven lectures (Edinburgh : T&T Clark, 1880)"
+  ],
+  "naville-modern-physics": [
+   "modernphysicsst00navigoog",
+   "Modern Physics, studies historical and philosophical, translated by Henry Downton (1884)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "naville-other": "Every Egyptological title (Pithom, Saft el Henneh, the Todtenbuch): Édouard Naville, another man; French originals"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "naville-heavenly-father": "Downton",
+  "naville-modern-physics": "Downton"
+ },
+ "_checks": {
+  "naville-heavenly-father": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest naville",
+   "translator_claimed": "Downton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "naville-problem-of-evil": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest naville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "naville-the-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest naville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "naville-modern-physics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest naville",
+   "translator_claimed": "Downton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

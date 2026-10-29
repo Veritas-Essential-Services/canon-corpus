@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Mark Frank (1613-1664), Master of Pembroke Hall, Cambridge, for the Word Hoard: his Sermons on the feasts and fasts of the Church, in the Library of Anglo-Catholic Theology (Oxford: J. H. Parker, 1849, two volumes), from Princeton Theological Seminary scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frank"
+ ],
+ "_surname": [
+  "mark frank"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "frank-sermons-1": [
+   "sermons01fran",
+   "Sermons, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849)"
+  ],
+  "frank-sermons-2": [
+   "sermons02fran",
+   "Sermons, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849)"
+  ]
+ },
+ "_alternates": {
+  "frank-copies": "sermons0000fran, sermons0002fran (other scans of the same edition); the 1672 LI Sermons (EEBO)"
+ },
+ "_excluded": {
+  "frank-other": "Other Franks"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "frank-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark frank",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frank-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark frank",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

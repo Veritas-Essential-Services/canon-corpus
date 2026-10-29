@@ -916,6 +916,1022 @@
    "started": "2026-10-03T07:19:37-05:00",
    "finished": "2026-10-03T07:21:49-05:00",
    "notes": "Added Mackay's Sophistes 1868. Everything else found is held, Greek-facing (Kennedy's Theaetetus, 0.60) or an ECCO copy of a held volume."
+  },
+  {
+   "id": "round-2026-10-10a",
+   "status": "done",
+   "scope": "Seneca, Martial/Statius/Lucan, Pindar and Greek lyric, Lucian, Marcus Aurelius and Epictetus title sweeps; Ransome at Adam's request",
+   "started": "2026-10-10T08:59:27-05:00",
+   "finished": "2026-10-10T09:11:14-05:00",
+   "notes": "Added Ball's Apocolocyntosis 1902; West, Greene and Pye's Pindar 1810 (2 vols.); MacGregor's Greek Anthology (undated, 19th c.); the anonymous Foulis Marcus Aurelius 1749 (2 vols.); McCormac's Marcus Aurelius 1844; Maginn's Homeric Ballads and Comedies of Lucian 1856; Ransome's Swallows and Amazons (book 1, US-only PD). Held back: the 1868 Index Expurgatorius of Martial; Carr's Lucian (no readable title page in any scan). Epictetus, Hesiod, Statius and Lucan: nothing new."
+  },
+  {
+   "id": "round-2026-10-10b",
+   "status": "done",
+   "scope": "Old reviewer findings rechecked; stale exclusion rows; Ovid, Livy, Plutarch, Persius and Roman historians title sweeps",
+   "started": "2026-10-10T09:11:14-05:00",
+   "finished": "2026-10-10T09:19:49-05:00",
+   "notes": "Perseus duplicates and fetch_perseus gaps were already fixed. Corrected the Hobbes cross-reference, the Vince vol. II rights notes, and the Nixon exclusion note. Dropped 19 stale 'now held' rows from _excluded. Added Seneca's Tenne Tragedies from the 1581 first printing (resolves the Eliot-introduction hold), Taylor's Fasti I-IV 1839, Byles's Greek Lives 1907."
+  },
+  {
+   "id": "round-2026-10-10c",
+   "status": "done",
+   "scope": "Roman prose (Apuleius, Pliny, Caesar, Sallust, Cicero) and late Greek poets, romances and Neoplatonists title sweeps; missing-volume retries",
+   "started": "2026-10-10T09:19:49-05:00",
+   "finished": "2026-10-10T09:27:41-05:00",
+   "notes": "Added Duncan's Select Orations of Cicero 1841, an anonymous literal Select Letters of Cicero 1891, the anonymous Bohn Works of Apuleius (1914 printing), Dyce's Quintus Smyrnaeus 1821, Eells's Philostratus 1923. Munford's Iliad vol. I, the Greek Tragic Theatre vol. II (Sophocles) and Ravensworth's Aeneid VII-XII are still not online under those titles; Preston's 1811 Argonautics scans lack a title page or are notes-only."
+  },
+  {
+   "id": "round-2026-10-10d",
+   "status": "done",
+   "scope": "Plato, Aristotle, Aeschylus, Euripides, Greek historians and orators title sweeps",
+   "started": "2026-10-10T09:27:41-05:00",
+   "finished": "2026-10-10T09:31:46-05:00",
+   "notes": "Added the anonymous Oxford literal Aeschylus 1829, H. B. L.'s Ion 1889, Goldwin Smith's Euripides specimens 1893, Laurent's Herodotus 1827 (2 vols.). Plato, Aristotle, Xenophon, the orators, Strabo and Pausanias candidates were all held already."
+  },
+  {
+   "id": "round-2026-10-10e",
+   "status": "done",
+   "scope": "Latin poets (Lucretius, Catullus, Tibullus, Terence, Phaedrus, Juvenal, Virgil) and Homeric hymns, Bion and Moschus, Callimachus, Menander title sweeps",
+   "started": "2026-10-10T09:31:46-05:00",
+   "finished": "2026-10-10T09:42:13-05:00",
+   "notes": "Added Cooke's Terence vol. I 1755, Toller's Phaedrus 1854, an anonymous Third Satire of Juvenal 1806, Skrine's Eclogues 1868, Conwell's Homeric Hymns 1830, Stanley's Anacreon, Bion and Moschus (1815 edition). Cooke vol. II not taken (no title page in OCR); the 1828 Phaedrus is an interlinear crib."
+  },
+  {
+   "id": "round-2026-10-10f",
+   "status": "done",
+   "scope": "Greek science, Roman technical writers and historians; IA subject sweep of classical translations",
+   "started": "2026-10-10T09:42:13-05:00",
+   "finished": "2026-10-10T09:48:14-05:00",
+   "notes": "Science, technical and historian candidates were all held. From the subject sweep: Potter's Sophocles 1820 from a cleaner scan (0.843; the refused one read 0.758), Gilchrist's Iliad I-VIII 1869, Bland's Collections from the Greek Anthology 1813. Goldwin Smith's Euripides Specimens (added in round 10d) taken back out: excerpts, excluded like his PG 7073 volume."
+  },
+  {
+   "id": "round-2026-10-10g",
+   "status": "done",
+   "scope": "Retry of items refused for OCR or wanted from a cleaner scan",
+   "started": "2026-10-10T09:48:14-05:00",
+   "finished": "2026-10-10T09:54:27-05:00",
+   "notes": "Found cleaner or other editions for four refused or wanted items: Smart's prose Horace (5th ed. 1780, 2 vols.) and his verse Horace (1767, vol. I), Thornton's Plautus (2nd ed. 1769, vols. I-II), and Angel Day's Daphnis and Chloe (1587, Jacobs's 1890 reprint). Thornley's Daphnis held back (undated modern reprint). Still not found cleaner: Aristaenetus, Taylor's Julian, Mawer's Oppian, Gillies's Lysias, Dart's Tibullus, Pitt's Aeneid, Polwhele's Theocritus."
+  },
+  {
+   "id": "round-2026-10-10h",
+   "status": "done",
+   "scope": "Missing-volume hunt: Smart's verse Horace, Thornton's Plautus III-V, Pitt and Warton II and IV",
+   "started": "2026-10-10T09:54:27-05:00",
+   "finished": "2026-10-10T10:00:56-05:00",
+   "notes": "Found Smart's verse Horace vols. II and IV (1767) and Pitt and Warton's Works of Virgil vols. II and IV in the 1778 third edition, which fills the 1763 set's Aeneid gap (mixed editions, noted). Still missing: Smart verse vol. III; Thornton's Plautus vols. III-V."
+  },
+  {
+   "id": "round-2026-10-10i",
+   "status": "done",
+   "scope": "Sweep of 'translated from the Greek/Latin' titles: Paulus Aegineta, Phalaris, Sophocles, Julian, Theocritus",
+   "started": "2026-10-10T10:00:56-05:00",
+   "finished": "2026-10-10T10:07:08-05:00",
+   "notes": "7 volumes added; Duncombe's Julian vol. I excluded (no title page)"
+  },
+  {
+   "id": "round-2026-10-10j",
+   "status": "done",
+   "scope": "Sweeps of 'into English verse', 'literally translated' and 'done into English / into English prose' titles",
+   "started": "2026-10-10T10:07:08-05:00",
+   "finished": "2026-10-10T10:18:25-05:00",
+   "notes": "4 volumes added; 6 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10k",
+   "status": "done",
+   "scope": "Missing-volume re-hunt; IA subject sweep 'Translations into English' (Greek, Latin)",
+   "started": "2026-10-10T10:18:25-05:00",
+   "finished": "2026-10-10T10:24:15-05:00",
+   "notes": "6 volumes added; 5 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10l",
+   "status": "done",
+   "scope": "Bohn Classical Library gaps; IA sweep of 'translated into English' by classical author",
+   "started": "2026-10-10T10:24:15-05:00",
+   "finished": "2026-10-10T10:34:06-05:00",
+   "notes": "8 volumes added"
+  },
+  {
+   "id": "round-2026-10-10m",
+   "status": "done",
+   "scope": "IA sweep of 'translated' titles across ~70 classical authors (mostly ECCO 18th-century scans)",
+   "started": "2026-10-10T10:34:06-05:00",
+   "finished": "2026-10-10T10:37:47-05:00",
+   "notes": "1 volume added; 1 held back undated; 16 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10n",
+   "status": "done",
+   "scope": "Open wishlist lines in the lane-B map",
+   "started": "2026-10-10T10:37:47-05:00",
+   "finished": "2026-10-10T10:40:19-05:00",
+   "notes": "1 volume added; 1 stale wishlist line corrected"
+  },
+  {
+   "id": "round-2026-10-10o",
+   "status": "done",
+   "scope": "Frere's Frogs; the two Crown volumes; wishlist fixes; refusals",
+   "started": "2026-10-10T10:40:19-05:00",
+   "finished": "2026-10-10T10:47:48-05:00",
+   "notes": "3 volumes added (Frere Frogs, Biddle and Portal Crown orations); Storr Loeb vol. II measured Greek-facing; Herodian 1789 and Cebes 1699 refused"
+  },
+  {
+   "id": "round-2026-10-10p",
+   "status": "done",
+   "scope": "late Greek and Byzantine sweep; wishlist re-hunt",
+   "started": "2026-10-10T10:47:48-05:00",
+   "finished": "2026-10-10T10:55:19-05:00",
+   "notes": "0 volumes added. Dawes's Alexiad (1928) found only as modern digital retypes; held for Adam. Refusals recorded in REPORT-B only (no shelf for these authors)."
+  },
+  {
+   "id": "round-2026-10-10q",
+   "status": "done",
+   "scope": "pivot to classical scholarship (coordinator steer)",
+   "started": "2026-10-10T10:55:19-05:00",
+   "finished": "2026-10-10T11:12:31-05:00",
+   "notes": "24 new shelves, 69 volumes: Grote 18, Mommsen 7, Smith 8 (incl. the full Dictionaries), Jebb 7, Conington 1, and 19 further scholars from clean Gutenberg"
+  },
+  {
+   "id": "round-2026-10-10r",
+   "status": "done",
+   "scope": "classical scholarship, second Gutenberg batch",
+   "started": "2026-10-10T11:12:31-05:00",
+   "finished": "2026-10-10T11:20:35-05:00",
+   "notes": "22 new shelves, 34 volumes"
+  },
+  {
+   "id": "round-2026-10-10s",
+   "status": "done",
+   "scope": "classical scholarship from IA: the big histories and reference works",
+   "started": "2026-10-10T11:20:35-05:00",
+   "finished": "2026-10-10T11:24:41-05:00",
+   "notes": "5 new shelves, 15 volumes"
+  },
+  {
+   "id": "round-2026-10-10t",
+   "status": "done",
+   "scope": "classical scholarship: multi-volume histories",
+   "started": "2026-10-10T11:24:41-05:00",
+   "finished": "2026-10-10T11:32:11-05:00",
+   "notes": "2 new shelves and 1 completed set, 12 volumes"
+  },
+  {
+   "id": "round-2026-10-10u",
+   "status": "done",
+   "scope": "Literary histories and Roman history from IA scans",
+   "started": "2026-10-10T11:32:11-05:00",
+   "finished": "2026-10-10T11:39:49-05:00",
+   "notes": "11 shelves (10 new), 27 volumes; Teuffel tr. Warr and Butcher's Aristotle under the bar"
+  },
+  {
+   "id": "round-2026-10-10v",
+   "status": "done",
+   "scope": "Scholars already shelved plus Cruttwell and Verrall",
+   "started": "2026-10-10T11:39:49-05:00",
+   "finished": "2026-10-10T11:44:54-05:00",
+   "notes": "10 volumes: 2 new shelves, 5 shelves extended"
+  },
+  {
+   "id": "round-2026-10-10w",
+   "status": "done",
+   "scope": "Merivale; translated German antiquities; Freeman, Arnold, Pelham, Leaf",
+   "started": "2026-10-10T11:44:54-05:00",
+   "finished": "2026-10-10T11:51:28-05:00",
+   "notes": "13 volumes on 9 new shelves; Merivale VI-VIII held for Adam"
+  },
+  {
+   "id": "round-2026-10-10x",
+   "status": "done",
+   "scope": "Multi-volume histories: Freeman's Sicily, Abbott, Holm; Merivale completed",
+   "started": "2026-10-10T11:51:28-05:00",
+   "finished": "2026-10-10T11:56:03-05:00",
+   "notes": "14 volumes; 2 new shelves; Merivale question withdrawn"
+  },
+  {
+   "id": "round-2026-10-10y",
+   "status": "done",
+   "scope": "Ihne's Rome; Pelham and Leaf completed",
+   "started": "2026-10-10T11:56:03-05:00",
+   "finished": "2026-10-10T11:58:25-05:00",
+   "notes": "7 volumes; 1 new shelf"
+  },
+  {
+   "id": "round-2026-10-10z",
+   "status": "done",
+   "scope": "Ancient geography, topography and antiquities manuals",
+   "started": "2026-10-10T11:58:25-05:00",
+   "finished": "2026-10-10T12:01:44-05:00",
+   "notes": "11 volumes; 6 new shelves"
+  },
+  {
+   "id": "round-2026-10-10aa",
+   "status": "done",
+   "scope": "Classical dictionaries and Liddell's Rome",
+   "started": "2026-10-10T12:01:44-05:00",
+   "finished": "2026-10-10T12:04:02-05:00",
+   "notes": "5 volumes on 4 new shelves; Fynes Clinton under the bar; Lempriere held"
+  },
+  {
+   "id": "round-2026-10-10ab",
+   "status": "done",
+   "scope": "Drama and topography: Donaldson, Campbell, Moulton, Felton, Leake",
+   "started": "2026-10-10T12:04:02-05:00",
+   "finished": "2026-10-10T12:06:26-05:00",
+   "notes": "7 volumes on 5 new shelves"
+  },
+  {
+   "id": "round-2026-10-10ac",
+   "status": "done",
+   "scope": "Leake's Travels; Mahaffy's Greek literature",
+   "started": "2026-10-10T12:06:26-05:00",
+   "finished": "2026-10-10T12:08:59-05:00",
+   "notes": "8 volumes; Mahaffy hold from 10v resolved"
+  },
+  {
+   "id": "round-2026-10-10ad",
+   "status": "done",
+   "scope": "Müller's Dorians; Niebuhr's History of Rome",
+   "started": "2026-10-10T12:08:59-05:00",
+   "finished": "2026-10-10T12:11:18-05:00",
+   "notes": "5 volumes; Hermann under the bar"
+  },
+  {
+   "id": "round-2026-10-10ae",
+   "status": "done",
+   "scope": "Glover, Ridgeway, Rice Holmes, Bury, Frazer",
+   "started": "2026-10-10T12:11:18-05:00",
+   "finished": "2026-10-10T12:13:58-05:00",
+   "notes": "10 volumes; 3 new shelves"
+  },
+  {
+   "id": "round-2026-10-10af",
+   "status": "done",
+   "scope": "Roman and Hellenistic history: Capes, Strachan-Davidson, Bevan, Oman, Mahaffy, Warde Fowler",
+   "started": "2026-10-10T12:13:58-05:00",
+   "finished": "2026-10-10T12:18:15-05:00",
+   "notes": "9 volumes; 4 new shelves"
+  },
+  {
+   "id": "round-2026-10-10ag",
+   "status": "done",
+   "scope": "Latin and Greek grammars",
+   "started": "2026-10-10T12:18:15-05:00",
+   "finished": "2026-10-10T12:19:49-05:00",
+   "notes": "3 Latin grammars; the Greek grammars fall under the bar"
+  },
+  {
+   "id": "round-2026-10-17a",
+   "status": "done",
+   "scope": "Burn resume: Jowett's Plato and Aristotle gaps",
+   "started": "2026-10-10T12:19:49-05:00",
+   "finished": "2026-10-17T16:41:22-05:00",
+   "notes": "Jowett's Plato already complete on the plato shelf (1892 3rd ed., all 5 vols, plus Gutenberg per-dialogue texts; Republic and Apology/Crito/Phaedo on the Adler shelf). Aristotle: 9 volumes added."
+  },
+  {
+   "id": "round-2026-10-17b",
+   "status": "done",
+   "scope": "Western philosophical canon in PD English, first pass",
+   "started": "2026-10-17T16:41:22-05:00",
+   "finished": "2026-10-17T16:53:21-05:00",
+   "notes": "11 new shelves, 55 volumes: hegel-translations (15), schopenhauer (3), kant (9), hume (4), berkeley (4), hobbes (7), francis-bacon (3), machiavelli (5), descartes (2), rousseau (1), locke (2). Every id checked against all branches first."
+  },
+  {
+   "id": "round-2026-10-17c",
+   "status": "done",
+   "scope": "Philosophical canon, second pass: Spinoza, Leibniz, Fichte, Lotze, Comte",
+   "started": "2026-10-17T16:53:21-05:00",
+   "finished": "2026-10-17T17:00:46-05:00",
+   "notes": "5 new shelves, 36 volumes: spinoza (7), leibniz (5), fichte (6), lotze (10), comte (8). Plus Ross's 1908 Metaphysica on the aristotle shelf at the coordinator's request."
+  },
+  {
+   "id": "round-2026-10-17d",
+   "status": "done",
+   "scope": "Western canon, British and early-modern: Mill, Spencer, Godwin, Malebranche, Port-Royal Logic, Shaftesbury, Reid, Herder",
+   "started": "2026-10-17T17:00:46-05:00",
+   "finished": "2026-10-17T17:07:53-05:00",
+   "notes": "8 new shelves, 14 volumes, all title pages read. Montesquieu skipped: Nugent's Spirit of Laws is already on the Adler shelf (PG 27573)."
+  },
+  {
+   "id": "round-2026-10-17e",
+   "status": "done",
+   "scope": "British moral and political philosophy from Project Gutenberg: Mill, Spencer, Godwin, Adam Smith, Ferguson, Mandeville, Sidgwick",
+   "started": "2026-10-17T17:07:53-05:00",
+   "finished": "2026-10-17T17:12:24-05:00",
+   "notes": "17 PG texts; 4 new shelves (adam-smith, adam-ferguson, mandeville, henry-sidgwick), 3 extended. PG 16833 404s."
+  },
+  {
+   "id": "round-2026-10-17f",
+   "status": "done",
+   "scope": "British idealists and moralists: Bentham, T. H. Green, F. H. Bradley, Bosanquet, Cudworth, Price, Hutcheson, Helvétius",
+   "started": "2026-10-17T17:12:24-05:00",
+   "finished": "2026-10-17T17:16:37-05:00",
+   "notes": "8 new shelves, 19 IA volumes."
+  },
+  {
+   "id": "round-2026-10-17g",
+   "status": "done",
+   "scope": "American pragmatists and idealists, plus James Mill and Schiller's essays (PG)",
+   "started": "2026-10-17T17:16:37-05:00",
+   "finished": "2026-10-17T17:28:32-05:00",
+   "notes": "6 new shelves, 28 PG texts. Held for the post-1930 class: Dewey PG 29259 and 71000; d'Holbach PG 8909/8910 (1970s facsimile with modern introduction) and 39052 (1977 Gordon Press); Good Sense PG 7319 undated."
+  },
+  {
+   "id": "round-2026-10-17h",
+   "status": "done",
+   "scope": "Royce's major works, James Mill vol. II, Dewey-Tufts Ethics (IA)",
+   "started": "2026-10-17T17:28:32-05:00",
+   "finished": "2026-10-17T17:30:03-05:00",
+   "notes": "9 IA volumes onto 3 existing shelves."
+  },
+  {
+   "id": "round-2026-10-17i",
+   "status": "done",
+   "scope": "Gaps in the major names: Rousseau, Pascal, Marx/Engels, William James (PG)",
+   "started": "2026-10-17T17:30:03-05:00",
+   "finished": "2026-10-17T17:34:26-05:00",
+   "notes": "15 PG texts; 3 new shelves. Berkeley PG 4722/4724 rechecked and left out: Fraser's vol. 1 (PG 39746) already holds them."
+  },
+  {
+   "id": "round-2026-10-17j",
+   "status": "done",
+   "scope": "The Scottish school and the associationists: Hamilton, Stewart, Thomas Brown, Hartley",
+   "started": "2026-10-17T17:34:26-05:00",
+   "finished": "2026-10-17T17:36:44-05:00",
+   "notes": "4 new shelves, 9 IA volumes."
+  },
+  {
+   "id": "round-2026-10-17k",
+   "status": "done",
+   "scope": "Political philosophy and political economy (PG): More, Campanella, Harrington, Bolingbroke, Proudhon, Bakunin, Kropotkin, Malthus, Ricardo",
+   "started": "2026-10-17T17:36:44-05:00",
+   "finished": "2026-10-17T17:43:06-05:00",
+   "notes": "9 new shelves, 18 PG texts. Bastiat left to lane C (stirling-bastiat)."
+  },
+  {
+   "id": "round-2026-10-17l",
+   "status": "done",
+   "scope": "Natural law and political theory in IA: Grotius, Pufendorf, Bodin, Sidney, Rosmini, Vattel",
+   "started": "2026-10-17T17:43:06-05:00",
+   "finished": "2026-10-17T17:46:24-05:00",
+   "notes": "6 new shelves, 11 IA volumes. Bruno's Heroic Enthusiasts already on lane C's l-williams shelf."
+  },
+  {
+   "id": "round-2026-10-17m",
+   "status": "done",
+   "scope": "Kant addenda, Condorcet, Fontenelle (IA)",
+   "started": "2026-10-17T17:46:24-05:00",
+   "finished": "2026-10-17T17:49:00-05:00",
+   "notes": "5 IA volumes. Charron's Of Wisdom held: the 1729 vol. III scan fails the OCR gate (0.777)."
+  },
+  {
+   "id": "round-2026-10-17n",
+   "status": "done",
+   "scope": "German nineteenth-century philosophy and the histories of philosophy, plus Beccaria and Lessing (IA)",
+   "started": "2026-10-17T17:49:00-05:00",
+   "finished": "2026-10-17T17:52:53-05:00",
+   "notes": "7 new shelves, 14 IA volumes."
+  },
+  {
+   "id": "round-2026-10-17o",
+   "status": "done",
+   "scope": "Modern British philosophy from Gutenberg: Russell, Moore, Whitehead, Whewell, Kames, Clifford, Guyau, De Morgan, Jevons",
+   "started": "2026-10-17T17:52:53-05:00",
+   "finished": "2026-10-17T18:00:38-05:00",
+   "notes": "9 new shelves, 32 PG texts. Held 25447 and 13940 (post-1930 impressions). PG has no plain text for Principia Mathematica, Intro to Mathematical Philosophy, Analysis of Matter, ABC of Atoms, Whitehead's Intro to Mathematics and Natural Knowledge, Boole's three logic books, or Wittgenstein's Tractatus."
+  },
+  {
+   "id": "round-2026-10-17p",
+   "status": "done",
+   "scope": "IA scans: Boole, Wittgenstein, McTaggart, Ferrier, Vaihinger, Cassirer, Edward Caird; Russell and De Morgan additions",
+   "started": "2026-10-17T18:00:38-05:00",
+   "finished": "2026-10-17T18:05:56-05:00",
+   "notes": "7 new shelves + 2 additions, 17 IA volumes. Held Boole's Mathematical Analysis of Logic (1948 facsimile) and a 1968 McTaggart reprint."
+  },
+  {
+   "id": "round-2026-10-17q",
+   "status": "done",
+   "scope": "IA scans: Gomperz, Høffding, Paulsen, Sigwart, Wundt's Ethics, Bergson",
+   "started": "2026-10-17T18:05:56-05:00",
+   "finished": "2026-10-17T18:09:34-05:00",
+   "notes": "6 new shelves, 18 IA volumes + 1 PG text. Held Paulsen's System of Ethics (year unreadable)."
+  },
+  {
+   "id": "round-2026-10-17r",
+   "status": "done",
+   "scope": "IA scans + 1 PG: Cousin, Boutroux, Sorel, Jouffroy, Destutt de Tracy, Bowne, Pico, Le Bon",
+   "started": "2026-10-17T18:09:34-05:00",
+   "finished": "2026-10-17T18:15:31-05:00",
+   "notes": "8 new shelves, 15 IA volumes + 1 PG text. Held: Bayle's Dictionary (1734 OCR 0.751, under the gate); Sorel scans without a dated title page; Bowne's Personalism (garbled year)."
+  },
+  {
+   "id": "round-2026-10-17s",
+   "status": "done",
+   "scope": "American philosophy: Fiske, Porter, Chauncey Wright, Howison, Bowen, Hickok, Ladd",
+   "started": "2026-10-17T18:15:31-05:00",
+   "finished": "2026-10-17T18:17:50-05:00",
+   "notes": "7 new shelves, 10 IA volumes + 5 PG texts."
+  },
+  {
+   "id": "round-2026-10-17t",
+   "status": "done",
+   "scope": "British idealists and their critics: Stout, Seth, Ritchie, Rashdall, Sorley, F. C. S. Schiller, Mansel, James Ward, Hobhouse",
+   "started": "2026-10-17T18:17:50-05:00",
+   "finished": "2026-10-17T18:21:21-05:00",
+   "notes": "9 new shelves, 18 IA volumes. Held: Riddles of the Sphinx and Hobhouse's Theory of Knowledge (no year on the title pages)."
+  },
+  {
+   "id": "round-2026-10-17u",
+   "status": "done",
+   "scope": "Early modern English: Henry More, Norris, Wollaston, Collins, Tindal, Tucker",
+   "started": "2026-10-17T18:21:21-05:00",
+   "finished": "2026-10-17T18:23:32-05:00",
+   "notes": "6 new shelves, 10 IA volumes. Held: Toland's Christianity not Mysterious (no year legible)."
+  },
+  {
+   "id": "round-2026-10-17v",
+   "status": "done",
+   "scope": "IA: Kuno Fischer, Herbart, Paul Janet, Eucken, Fourier, Vives",
+   "started": "2026-10-17T18:23:32-05:00",
+   "finished": "2026-10-17T18:25:35-05:00",
+   "notes": "6 new shelves, 12 IA volumes."
+  },
+  {
+   "id": "round-2026-10-17w",
+   "status": "done",
+   "scope": "Logic and philosophy of science: Venn, Bain, Lewes, Herschel, Pearson, Keynes",
+   "started": "2026-10-17T18:25:35-05:00",
+   "finished": "2026-10-17T18:29:27-05:00",
+   "notes": "6 new shelves, 14 items (9 PG, 5 IA raw). All title pages read. Held: Bain's Senses and the Intellect (garbled year), Lewes's Biographical History (no year seen), Keynes's PG Treatise (no plain text; IA 1921 used)."
+  },
+  {
+   "id": "round-2026-10-17x",
+   "status": "done",
+   "scope": "Enlightenment and radical philosophy: Holbach, Wollstonecraft, Mackintosh, Priestley",
+   "started": "2026-10-17T18:29:27-05:00",
+   "finished": "2026-10-17T18:35:17-05:00",
+   "notes": "4 new shelves, 10 items (6 PG, 4 IA raw). Held: PG 8909-8910 (facsimile with a modern introduction), PG 39052 (1977 facsimile), Priestley's Doctrine of Philosophical Necessity (OCR 0.695). Thomas Brown's Lectures already on thomas-brown-edinburgh. Burke and Paine shelves belong to the reading-lists thread; Voltaire and Haeckel are under lane C translators."
+  },
+  {
+   "id": "round-2026-10-17y",
+   "status": "done",
+   "scope": "Early modern natural law and wisdom: Charron, Burlamaqui, Cumberland",
+   "started": "2026-10-17T18:35:17-05:00",
+   "finished": "2026-10-17T18:37:42-05:00",
+   "notes": "3 new shelves, 5 IA raw items. Charron's 1707 set is one edition across two scans (vol. I Google, vol. II eighteenth-century collection, OCR 0.794); 1729 vol. III scan held at 0.777. Cumberland year inferred from the dedication. Montaigne and La Rochefoucauld already held (florio, cotton, van-laun)."
+  },
+  {
+   "id": "round-2026-10-17z",
+   "status": "done",
+   "scope": "American philosophy: Perry, Felix Adler, Carus, J. M. Baldwin",
+   "started": "2026-10-17T18:37:42-05:00",
+   "finished": "2026-10-17T18:40:43-05:00",
+   "notes": "4 new shelves, 10 PG items, all published before 1931. Carus's Foundations of Mathematics has no plain text."
+  },
+  {
+   "id": "round-2026-10-17aa",
+   "status": "done",
+   "scope": "American philosophy, second pass: Lewis, Hocking, Calkins, Münsterberg, Holt, G. S. Morris",
+   "started": "2026-10-17T18:40:43-05:00",
+   "finished": "2026-10-17T18:42:23-05:00",
+   "notes": "6 new shelves, 7 IA raw items, all title pages read. Hocking's scan is a 1928 printing of the 1912 book."
+  },
+  {
+   "id": "round-2026-10-17ab",
+   "status": "done",
+   "scope": "Wishlist fill on Lane B's newest shelves",
+   "started": "2026-10-17T18:42:23-05:00",
+   "finished": "2026-10-17T18:43:54-05:00",
+   "notes": "10 IA raw items added to 9 existing shelves; all title pages read. Perry's Present Philosophical Tendencies is a 1921 new impression of the 1912 book."
+  },
+  {
+   "id": "round-2026-10-17ac",
+   "status": "done",
+   "scope": "Older wishlist fill: Bosanquet, McTaggart, Ferrier, Seth, Ritchie, Bentham, Mill",
+   "started": "2026-10-17T18:43:54-05:00",
+   "finished": "2026-10-17T18:46:24-05:00",
+   "notes": "9 IA raw items added to 7 existing shelves; all title pages read. Held: Collins's Human Liberty (1717 scan, OCR 0.774); Boutroux's Natural Law (tr. Rothwell, left for Lane C's rothwell shelf); Ferrier vol. II (IA 503 this round)."
+  },
+  {
+   "id": "round-2026-10-17ad",
+   "status": "done",
+   "scope": "Wishlist fill, second batch: Spencer's Principles, Fichte, Bowne, Boutroux, Bolingbroke, Lotze",
+   "started": "2026-10-17T18:46:24-05:00",
+   "finished": "2026-10-17T18:49:14-05:00",
+   "notes": "13 IA raw items added to 6 shelves; all title pages read. Spencer's Ethics and Biology volumes are one edition in different printings (1901-1906), noted."
+  },
+  {
+   "id": "round-2026-10-17ae",
+   "status": "done",
+   "scope": "Wishlist fill, third batch: Spencer's Sociology, Bosanquet's Logic, Lotze, Paulsen, Fiske, Dewey, Mill",
+   "started": "2026-10-17T18:49:14-05:00",
+   "finished": "2026-10-17T18:51:54-05:00",
+   "notes": "11 IA raw items added to 7 shelves; all title pages read. Spencer's Sociology is one Appleton edition (vol. I 1906 printing, vols. II-III 1897). Held again: Hale White's Spinoza Tractatus (Fisher Unwin, no year on the title page)."
+  },
+  {
+   "id": "round-2026-10-17af",
+   "status": "done",
+   "scope": "French thought in English: Lévy-Bruhl, Tarde, de Maistre, Ribot",
+   "started": "2026-10-17T18:51:54-05:00",
+   "finished": "2026-10-17T18:54:28-05:00",
+   "notes": "4 new shelves, 9 items (1 PG, 8 IA raw); all title pages read. Held: Poincaré's Science and Method (Nelson, no year on the title page). Left for Lane C: Poincaré's Science and Hypothesis (their greenstreet shelf, pending) and Lévy-Bruhl's Ethics and Moral Science (tr. Elizabeth Lee)."
+  },
+  {
+   "id": "round-2026-10-17ag",
+   "status": "done",
+   "scope": "German thought in English: Schleiermacher, Büchner, W. von Humboldt, Mendelssohn",
+   "started": "2026-10-17T18:54:28-05:00",
+   "finished": "2026-10-17T18:56:31-05:00",
+   "notes": "4 new shelves, 5 IA raw items; title pages read. Skipped as already on Lane C shelves: Schlegel's Philosophy of History (jb-robertson), Fechner's Little Book of Life after Death (singles-ideas-3)."
+  },
+  {
+   "id": "round-2026-10-17ah",
+   "status": "done",
+   "scope": "Victorian thinkers: Leslie Stephen, Lecky, Maine, Bagehot, Huxley",
+   "started": "2026-10-17T18:56:31-05:00",
+   "finished": "2026-10-17T19:01:48-05:00",
+   "notes": "5 new shelves, 21 items (16 PG, 5 IA raw). Held: Gutenberg's Ancient Law (Everyman, reprinted 1936); Lecky's Rationalism (vol. II scan unavailable)."
+  },
+  {
+   "id": "round-2026-10-17ai",
+   "status": "done",
+   "scope": "British idealists and moralists: Alexander, Stirling, Collingwood, Martineau, John Grote, Campbell Fraser",
+   "started": "2026-10-17T19:01:48-05:00",
+   "finished": "2026-10-17T19:04:31-05:00",
+   "notes": "6 new shelves, 11 raw scans; title pages read (Collingwood's year inferred from the preface). DLI items for Martineau's Types and Collingwood's Speculum Mentis returned 404 and are left on the wishlist."
+  },
+  {
+   "id": "round-2026-10-17aj",
+   "status": "done",
+   "scope": "Cusa; Lecky's Rationalism; Ferrier vol. II; medieval and Renaissance survey",
+   "started": "2026-10-17T19:04:31-05:00",
+   "finished": "2026-10-17T19:07:17-05:00",
+   "notes": "1 new shelf and 3 volumes added. Held: Ibn Gabirol's Improvement of the Moral Qualities (1902, Arabic text facing; waits on the facing-text ruling), Bruno's Spaccio (1713, OCR 0.733), Lipsius's Constancie (1595, OCR 0.658). Already held by Lane C: Averroes (singles-ideas-3), al-Ghazali (claud-field)."
+  },
+  {
+   "id": "round-2026-10-17ak",
+   "status": "done",
+   "scope": "Wishlist fill, fourth batch: Martineau, Maine, John Grote, Stirling, Huxley",
+   "started": "2026-10-17T19:07:17-05:00",
+   "finished": "2026-10-17T19:09:22-05:00",
+   "notes": "10 IA raw items added to 5 of tonight's shelves; title pages read. Martineau's Types taken as a matched 1885 pair (a 1891 3rd-ed. vol. I was passed over). Herder's Outlines (Churchill, 1800) scan returned an IA error."
+  },
+  {
+   "id": "2026-10-17al",
+   "status": "done",
+   "scope": "Wishlist fill, fifth batch: Huxley VII, Herder (Churchill 1800), Morris on Hegel, Tarde's Social Laws, Hocking's Man and the State",
+   "started": "2026-10-17T19:09:22-05:00",
+   "finished": "2026-10-17T19:12:35-05:00",
+   "notes": "5 volumes. Held: Dewey's Public and its Problems (both IA scans are Swallow reprints, renewed 1954), Speculum Mentis (1946 photographic reprint)."
+  },
+  {
+   "id": "2026-10-17am",
+   "status": "done",
+   "scope": "Wishlist fill, sixth batch: McTaggart, Schiller, Bain x2, Lewes x3, Baldwin x3, Levy-Bruhl, Ribot x3, Mendelssohn, Malthus, Descartes II, Carus",
+   "started": "2026-10-17T19:12:35-05:00",
+   "finished": "2026-10-17T19:17:41-05:00",
+   "notes": "18 volumes on 11 shelves. Held: Boole's Mathematical Analysis of Logic (only the 1948 facsimile is open); Schleiermacher's Soliloquies (IA 500)."
+  },
+  {
+   "id": "2026-10-17an",
+   "status": "done",
+   "scope": "Locke's Works (1823, 10 vols.) and Schleiermacher's Soliloquies (1926)",
+   "started": "2026-10-17T19:17:41-05:00",
+   "finished": "2026-10-17T19:20:51-05:00",
+   "notes": "11 volumes on 2 shelves. Locke vols. IV, V, X imprint year inferred (OCR garble)."
+  },
+  {
+   "id": "2026-10-17ao",
+   "status": "done",
+   "scope": "Wishlist fill, seventh batch: Stewart Collected Works completed, Rosmini Psychology, Vattel (Fenwick), Collins, Priestley's Hartley, Holbach 1820-21",
+   "started": "2026-10-17T19:20:51-05:00",
+   "finished": "2026-10-17T19:24:51-05:00",
+   "notes": "15 volumes on 6 shelves. Held: Schleiermacher's Christian Faith (only later impressions open)."
+  },
+  {
+   "id": "2026-10-17ap",
+   "status": "done",
+   "scope": "Bacon: the Spedding, Ellis and Heath Works, complete in 15 vols. (American edition, 1864)",
+   "started": "2026-10-17T19:24:51-05:00",
+   "finished": "2026-10-17T19:27:38-05:00",
+   "notes": "15 volumes on 1 shelf. Latin originals in vols. I-VII are Bacon's own Latin, not facing translations."
+  },
+  {
+   "id": "2026-10-17aq",
+   "status": "done",
+   "scope": "Bacon's Letters and Life (7 vols.), Malthus's Essay 6th ed. (2 vols.), Bentham's Rationale of Judicial Evidence (5 vols.)",
+   "started": "2026-10-17T19:27:38-05:00",
+   "finished": "2026-10-17T19:29:49-05:00",
+   "notes": "14 volumes on 3 shelves. Hobbes Molesworth vols. 8-11 dropped from the wishlist: their Thucydides and Homer are held on those shelves."
+  },
+  {
+   "id": "2026-10-17ar",
+   "status": "done",
+   "scope": "New shelves for unowned canon figures: Bayle, Schelling, Glanvill, Toland, Chubb; More's Utopia in Robinson's version",
+   "started": "2026-10-17T19:29:49-05:00",
+   "finished": "2026-10-17T19:36:09-05:00",
+   "notes": "12 volumes, 5 new shelves. Bayle vols. I and III and Toland's Pantheisticon carry inferred years (noted). Held under the OCR gate: Toland's Christianity not Mysterious (0.719) and Letters to Serena (0.752); Gassendi's Three Discourses (1699, 0.751)."
+  },
+  {
+   "id": "2026-10-17as",
+   "status": "done",
+   "scope": "New shelves: Donoso Cortes, Roger Bacon, John of Salisbury; Glanvill's Saducismus",
+   "started": "2026-10-17T19:36:09-05:00",
+   "finished": "2026-10-17T19:40:16-05:00",
+   "notes": "5 volumes, 3 new shelves. Held: Christian Wolff's Logic (1770, OCR 0.743)."
+  },
+  {
+   "id": "2026-10-17at",
+   "status": "done",
+   "scope": "New shelves in political and Scottish philosophy: Hotman, Selden, Fortescue, Buchanan, Millar, Monboddo",
+   "started": "2026-10-17T19:40:16-05:00",
+   "finished": "2026-10-17T19:45:58-05:00",
+   "notes": "11 volumes, 6 new shelves. Held under the OCR gate: Filmer's Patriarcha (1680, 0.767), Oswald's Appeal to Common Sense (1766, 0.758), the 1799 Buchanan Dialogue (0.729)."
+  },
+  {
+   "id": "2026-10-17au",
+   "status": "done",
+   "scope": "Political economy classics: Mun, Turgot, Say, List, Owen, Sismondi, Cournot, Petty",
+   "started": "2026-10-17T19:45:58-05:00",
+   "finished": "2026-10-17T19:51:52-05:00",
+   "notes": "8 new shelves, 12 titles. Life of Owen held (no printed year). Morley's Petty selection (PG 5619) not taken: contained in Hull."
+  },
+  {
+   "id": "2026-10-17av",
+   "status": "done",
+   "scope": "Political economy, second wave: George, Senior, Hobson, Clark, Veblen, Ely, Thornton, Sumner, Bastiat, Bohm-Bawerk, Marshall, Cairnes; Bagehot, Jevons, Mill extended",
+   "started": "2026-10-17T19:51:52-05:00",
+   "finished": "2026-10-17T19:58:13-05:00",
+   "notes": "12 new shelves, 3 extended, 36 titles. Held: Sumner's What Social Classes Owe (1951 reprint only), Bastiat's The Law (Mises 2007 edition)."
+  },
+  {
+   "id": "2026-10-17aw",
+   "status": "done",
+   "scope": "British moral and political thought, gap-fill: Harriet Martineau, Halifax; Mandeville, Mansel, Price, Whewell, Bosanquet, James Martineau extended",
+   "started": "2026-10-17T19:58:13-05:00",
+   "finished": "2026-10-17T20:01:51-05:00",
+   "notes": "2 new shelves, 6 extended, 21 titles, all clean Gutenberg."
+  },
+  {
+   "id": "2026-10-17ax",
+   "status": "done",
+   "scope": "Nineteenth-century political theory and jurisprudence: Austin, Bluntschli, Treitschke, Lassalle, Lieber, Calhoun, Mazzini",
+   "started": "2026-10-17T20:01:51-05:00",
+   "finished": "2026-10-17T20:04:36-05:00",
+   "notes": "7 new shelves, 19 volumes. Held for no printed year: Filmer's Patriarcha in Morley's Routledge volume, Lassalle's Open Letter, Mazzini's Duties of Man."
+  },
+  {
+   "id": "2026-10-17ay",
+   "status": "done",
+   "scope": "Eighteenth-century British moralists and rhetoricians, American Unitarians, Krause",
+   "started": "2026-10-17T20:04:36-05:00",
+   "finished": "2026-10-17T20:08:17-05:00",
+   "notes": "9 new shelves, 13 titles. Held: Oswald's Appeal to Common Sense (ECCO OCR 0.76/0.66), Balguy's Letter to a Deist (no year)."
+  },
+  {
+   "id": "2026-10-17az",
+   "status": "done",
+   "scope": "Philosophy of science and the 1919-1930 shelf: Mach, Driesch; Whitehead, Dewey, Santayana extended",
+   "started": "2026-10-17T20:08:17-05:00",
+   "finished": "2026-10-17T20:13:17-05:00",
+   "notes": "2 new shelves, 3 extended, 14 titles. Held: Weber's Protestant Ethic (only IA copy is the 1948 impression), Dewey's Public and its Problems (Swallow reprint), Whitehead's Introduction to Mathematics (no year) and Principia (OCR 0.45)."
+  },
+  {
+   "id": "2026-10-17ba",
+   "status": "done",
+   "scope": "Early twentieth-century British and American philosophy and political theory: Broad, Wallas, Dicey, Laski, Lovejoy; Bradley extended",
+   "started": "2026-10-17T20:13:17-05:00",
+   "finished": "2026-10-17T20:16:44-05:00",
+   "notes": "5 new shelves, 1 extended, 11 titles. Held: Wallas's Human Nature in Politics (post-war edition), Laski's Political Thought (no year), Bradley's Essays (1944+ reprint copy), Broad's Five Types (1934 impression copy)."
+  },
+  {
+   "id": "2026-10-17bb",
+   "status": "done",
+   "scope": "Historians of liberty, law and society: Tawney, Acton, Maitland, Gierke, Bryce; Hobhouse extended",
+   "started": "2026-10-17T20:16:44-05:00",
+   "finished": "2026-10-17T20:21:11-05:00",
+   "notes": "5 new shelves, 1 extended, 17 titles. Held: Tawney's Agrarian Problem on PG (Burt Franklin reprint) and Hobhouse's Liberalism on PG (1944 impression); better copies taken from IA."
+  },
+  {
+   "id": "2026-10-17bc",
+   "status": "done",
+   "scope": "Montesquieu, Blackstone, Story, James Wilson, Kant's politics",
+   "started": "2026-10-17T20:21:11-05:00",
+   "finished": "2026-10-17T20:27:59-05:00",
+   "notes": "4 new shelves (montesquieu, william-blackstone, joseph-story, james-wilson) + kant extended; 13 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bd",
+   "status": "done",
+   "scope": "Diderot, Kent, Bryce's American Commonwealth, De Morgan",
+   "started": "2026-10-17T20:27:59-05:00",
+   "finished": "2026-10-17T20:33:37-05:00",
+   "notes": "2 new shelves (denis-diderot, james-kent) + james-bryce, augustus-de-morgan extended; 12 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17be",
+   "status": "done",
+   "scope": "Buckle, Morley, Romanes, Tyndall, Erasmus Darwin",
+   "started": "2026-10-17T20:33:37-05:00",
+   "finished": "2026-10-17T20:37:08-05:00",
+   "notes": "5 new shelves; 20 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bf",
+   "status": "done",
+   "scope": "Guizot, Volney, Fitzjames Stephen, Kidd, Seeley, Soloviev, Joubert",
+   "started": "2026-10-17T20:37:08-05:00",
+   "finished": "2026-10-17T20:40:24-05:00",
+   "notes": "7 new shelves; 8 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bg",
+   "status": "done",
+   "scope": "Wishlist round: Soloviev, Kidd, Story, Seeley",
+   "started": "2026-10-17T20:40:24-05:00",
+   "finished": "2026-10-17T20:41:33-05:00",
+   "notes": "4 shelves extended; 4 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bh",
+   "status": "done",
+   "scope": "British idealists: Henry Jones, John Watson, A. E. Taylor, Joachim, Muirhead, Prichard, Carritt",
+   "started": "2026-10-17T20:41:33-05:00",
+   "finished": "2026-10-17T20:48:05-05:00",
+   "notes": "7 new shelves + aristotle extended; 26 items, all verified, 0 rights flags. Three OCR-misread names recorded under _identity_checked. Not minted."
+  },
+  {
+   "id": "2026-10-17bi",
+   "status": "done",
+   "scope": "American philosophy of history and sociology: the Adamses, Cooley, Ward, Giddings, Woodbridge, Sellars",
+   "started": "2026-10-17T20:48:05-05:00",
+   "finished": "2026-10-17T20:51:12-05:00",
+   "notes": "7 new shelves; 16 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bj",
+   "status": "done",
+   "scope": "Gentile, Hulme, Wildon Carr, Kemp Smith (and his 1929 Critique)",
+   "started": "2026-10-17T20:51:12-05:00",
+   "finished": "2026-10-17T20:54:33-05:00",
+   "notes": "4 new shelves + kant extended; 10 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bk",
+   "status": "done",
+   "scope": "Lloyd Morgan, John Laird, R. B. Haldane, W. M. Urban",
+   "started": "2026-10-17T20:54:33-05:00",
+   "finished": "2026-10-17T20:58:47-05:00",
+   "notes": "4 new shelves; 12 items, all verified, 0 rights flags (two 1930 titles rights-checked). Not minted."
+  },
+  {
+   "id": "2026-10-17bl",
+   "status": "done",
+   "scope": "Wishlist sweep: economists, legal history, Santayana, Mach, Lieber (13 shelves, 24 volumes)",
+   "started": "2026-10-17T20:58:47-05:00",
+   "finished": "2026-10-17T21:06:44-05:00",
+   "notes": "All verified; Veblen and Hobson OCR names recorded under _identity_checked; Santayana Realm of Matter 1930 rights-checked. Held: Hobson Imperialism (later Allen & Unwin printings only), Cairnes Leading Principles (no dated copy)."
+  },
+  {
+   "id": "2026-10-17bm",
+   "status": "done",
+   "scope": "Social theory and late-Victorian metaphysics: Sombart, Michels, Ostrogorski, Hodgson, Külpe, Ormond (6 new shelves, 22 vols); duplicate cleanup",
+   "started": "2026-10-17T21:06:44-05:00",
+   "finished": "2026-10-17T21:13:16-05:00",
+   "notes": "All verified. Removed two duplicates of lane C's singles shelves found by a new title-level cross-check: Soloviev's Justification of the Good (si3-79715) and Gentile's Reform of Education (si2-36762), now under _excluded. Held: Weber's Protestant Ethic (Parsons 1930; only a 1950 impression on IA) and General Economic History (1927; only the 1950 Free Press reprint)."
+  },
+  {
+   "id": "2026-10-17bn",
+   "status": "done",
+   "scope": "Nineteenth-century British and American philosophers: Whately, Hinton, Schurman, James Seth, Tappan, Marsh (6 new shelves, 18 titles)",
+   "started": "2026-10-17T21:13:16-05:00",
+   "finished": "2026-10-17T21:17:28-05:00",
+   "notes": "All verified. Held: James Oswald's Appeal to Common Sense (ECCO OCR below 0.78 in both volumes); an undated Munroe issue of Whately's Logic (the 1855 ninth edition taken instead). Whately's theological works left for lane A."
+  },
+  {
+   "id": "2026-10-17bo",
+   "status": "done",
+   "scope": "American and Oxford philosophers 1896-1928: Hibben, Creighton, Thilly, McDougall, Montague, Spaulding, Sheldon, Sturt (8 new shelves, 22 titles)",
+   "started": "2026-10-17T21:17:28-05:00",
+   "finished": "2026-10-17T21:21:06-05:00",
+   "notes": "All verified. Held: Thilly's History in an October 1931 printing and the 1951 revision (1914 Holt copy taken); a late impression of Montague's Ways of Knowing (1928 impression taken); a Body and Mind scan dated only by a pencil note (fourth edition taken)."
+  },
+  {
+   "id": "2026-10-17bp",
+   "status": "done",
+   "scope": "Cambridge Platonists and early modern English philosophers: Whichcote, John Smith, Culverwel, Digby, Collier, Peter Browne (6 new shelves, 9 titles)",
+   "started": "2026-10-17T21:21:06-05:00",
+   "finished": "2026-10-17T21:25:48-05:00",
+   "notes": "All verified. Browne's Procedure was published anonymously: attribution recorded under _identity_checked as the catalogue's. Held: Whichcote Works vol. II (no legible year), his 1742 Select Sermons and 1703 Aphorisms, and Filmer's Patriarcha 1680 (ECCO OCR below 0.78)."
+  },
+  {
+   "id": "2026-10-17bq",
+   "status": "done",
+   "scope": "Positivists and political theorists: Frederic Harrison, Congreve, Balfour, Figgis, Barker (5 new shelves, 22 titles)",
+   "started": "2026-10-17T21:25:48-05:00",
+   "finished": "2026-10-17T21:29:23-05:00",
+   "notes": "All verified. Held: Figgis's Churches in the Modern State (no title page in any scan; one IA item so labelled is a Ralph Connor biography), Barker's Political Thought in England (copies undated or post-1945). Figgis's sermons left for lane A."
+  },
+  {
+   "id": "2026-10-17br",
+   "status": "done",
+   "scope": "American psychologists and philosophers of religion: Stanley Hall, Titchener, P. E. More, W. T. Harris, Pratt, Drake, Thomas Davidson (7 new shelves, 41 titles)",
+   "started": "2026-10-17T21:29:23-05:00",
+   "finished": "2026-10-17T21:33:02-05:00",
+   "notes": "All verified. Held: Davidson's Prolegomena to In Memoriam (OCR below 0.78)."
+  },
+  {
+   "id": "2026-10-17bs",
+   "status": "done",
+   "scope": "Wishlist sweep on 17 existing shelves (25 volumes)",
+   "started": "2026-10-17T21:33:02-05:00",
+   "finished": "2026-10-17T21:40:47-05:00",
+   "notes": "All verified; Ward vol. II and Beattie vol. I OCR names recorded under _identity_checked. Still held as post-1930 or undated printings: Dewey's Public and its Problems (renewal-era copies), Collingwood's Speculum Mentis (1946/1956), Laski's Grammar of Politics (1931 and later impressions), Whitehead's Introduction to Mathematics (undated or reset 1948), Blair's Lectures 1783 (ECCO OCR 0.71), Senior's Outline (1938 and later), Stephen's Horae Sabbaticae second series (undated)."
+  },
+  {
+   "id": "2026-10-17bt",
+   "status": "done",
+   "scope": "Anthropologists and Anglo-American moralists: Galton, Sully, Jacks, Palmer, Fullerton, Edman, Durant, Marett, Westermarck, Tylor",
+   "started": "2026-10-17T21:40:47-05:00",
+   "finished": "2026-10-17T21:47:40-05:00",
+   "notes": "10 new shelves, 47 items; Story of Philosophy held (no pre-1931 printing found)"
+  },
+  {
+   "id": "2026-10-18bu",
+   "status": "done",
+   "scope": "British idealists, Oxford realists and American moralists: J. S. Mackenzie, Webb, Cook Wilson, Joseph, Maudsley, Boodin, A. K. Rogers, Fite",
+   "started": "2026-10-17T21:47:40-05:00",
+   "finished": "2026-10-17T21:53:20-05:00",
+   "notes": "8 new shelves, 34 IA items; Webb's History of Philosophy and Cook Wilson's Statement and Inference vol. II held"
+  },
+  {
+   "id": "2026-10-18bv",
+   "status": "done",
+   "scope": "American and British political and social thought: Lippmann, Croly, Bourne, Wilson, Angell, Draper, A. D. White, Addams, Babbitt, Lowell, Ross, W. I. Thomas, Beard",
+   "started": "2026-10-17T21:53:20-05:00",
+   "finished": "2026-10-17T21:59:33-05:00",
+   "notes": "13 new shelves, 53 items (44 PG, 9 IA)"
+  },
+  {
+   "id": "2026-10-18bw",
+   "status": "done",
+   "scope": "American founders and radical social thought: Jefferson, Hamilton (Federalist), Madison, John Adams, Ingersoll, Gilman, Goldman, Carpenter, the Webbs, Spooner, Mumford, Havelock Ellis",
+   "started": "2026-10-17T21:59:33-05:00",
+   "finished": "2026-10-17T22:04:56-05:00",
+   "notes": "12 new shelves, 83 PG items"
+  },
+  {
+   "id": "2026-10-18bx",
+   "status": "done",
+   "scope": "Gap sweep on existing lane B shelves against the full Gutenberg catalogue",
+   "started": "2026-10-17T22:04:56-05:00",
+   "finished": "2026-10-17T22:14:08-05:00",
+   "notes": "20 rows on 5 shelves; several candidates refused under earlier rulings"
+  },
+  {
+   "id": "2026-10-18by",
+   "status": "done",
+   "scope": "Psychology, rationalism, aesthetics and logic: Jung, A. W. Benn, Mallock, J. M. Robertson, Thomas Fowler, Vernon Lee, Bernays, Steuart, W. D. Hyde, Cushman, Gunn, Stock",
+   "started": "2026-10-17T22:14:08-05:00",
+   "finished": "2026-10-17T22:17:04-05:00",
+   "notes": "12 new shelves, 43 PG items"
+  },
+  {
+   "id": "2026-10-18bz",
+   "status": "done",
+   "scope": "Victorian critics: Ruskin, Matthew Arnold's prose, Pater's criticism",
+   "started": "2026-10-17T22:17:04-05:00",
+   "finished": "2026-10-17T22:21:37-05:00",
+   "notes": "1 new shelf (45) and 2 widened (9 rows)"
+  },
+  {
+   "id": "2026-10-18ca",
+   "status": "done",
+   "scope": "Samuel Butler, plus gaps on Godwin, Wollstonecraft, Lecky and Leslie Stephen",
+   "started": "2026-10-17T22:21:37-05:00",
+   "finished": "2026-10-17T22:24:55-05:00",
+   "notes": "1 new shelf (13) and 15 rows on 4 shelves"
+  },
+  {
+   "id": "2026-10-18cb",
+   "status": "done",
+   "scope": "Second gap sweep: lane B author shelves against unheld Gutenberg works, each checked for an earlier ruling",
+   "started": "2026-10-17T22:24:55-05:00",
+   "finished": "2026-10-17T22:29:04-05:00",
+   "notes": "16 rows on 7 shelves; 1 exclusion recorded"
+  },
+  {
+   "id": "2026-10-18cc",
+   "status": "done",
+   "scope": "British logicians and idealists: Veitch, Carveth Read, Alfred Sidgwick, E. E. Constance Jones, J. B. Baillie, T. Percy Nunn, W. E. Johnson, Susan Stebbing",
+   "started": "2026-10-17T22:29:04-05:00",
+   "finished": "2026-10-17T22:35:15-05:00",
+   "notes": "8 new shelves, 25 IA volumes. Held: Read's Metaphysics of Nature (no dated scan), Stebbing's Modern Introduction to Logic (undated Crowell printing). Dropped a 'Dawes Hicks' candidate: Kant's Conception of God is F. E. England's book with only a Hicks foreword."
+  },
+  {
+   "id": "2026-10-18cd",
+   "status": "done",
+   "scope": "American psychologists and pragmatists: Angell, Jastrow, Thorndike, A. W. Moore, Kallen, H. B. Alexander, Otto, Ladd-Franklin, Tufts, Bode, Bakewell, Woodworth, Judd; C. I. Lewis widened",
+   "started": "2026-10-17T22:35:15-05:00",
+   "finished": "2026-10-17T22:41:13-05:00",
+   "notes": "13 new shelves (40 IA volumes) plus Lewis's Mind and the World-Order. Held: A. W. Moore's Existence, Meaning and Reality (undated offprint). Rejected a 1956 Dover scan of Lewis. Skipped Creative Intelligence and Dewey-Tufts Ethics (already on john-dewey)."
+  },
+  {
+   "id": "2026-10-18ce",
+   "status": "done",
+   "scope": "Natural philosophy gap: Charles Darwin, Alfred Russel Wallace, Charles Lyell",
+   "started": "2026-10-17T22:41:13-05:00",
+   "finished": "2026-10-17T22:46:05-05:00",
+   "notes": "3 new shelves, 43 PG etexts. Darwin's Origin (1st ed.) and Descent left on adler; later Origin editions and Beagle witnesses not taken as further witnesses."
+  },
+  {
+   "id": "2026-10-18cf",
+   "status": "done",
+   "scope": "Social and moral philosophy: Albion Small, Simon Patten, Mark Hopkins, W. M. Salter, C. E. M. Joad; Ward, Wallace, Darwin widened",
+   "started": "2026-10-17T22:46:05-05:00",
+   "finished": "2026-10-17T22:50:28-05:00",
+   "notes": "5 new shelves (20 works) + 5 additions. Dropped Filmer's Patriarcha (EEBO OCR clean 0.77, below the gate). Held Joad's Introduction to Modern Philosophy (only 1934+ reprints)."
+  },
+  {
+   "id": "2026-10-18cg",
+   "status": "done",
+   "scope": "Classical and Renaissance gaps: Philo, Babrius, Helmholtz",
+   "started": "2026-10-17T22:50:28-05:00",
+   "finished": "2026-10-17T22:55:44-05:00",
+   "notes": "3 new shelves (6 vols). Dropped for OCR below 0.78: Lipsius Two Bookes of Constancie 1595 (0.66), Du Vair Moral Philosophie of the Stoicks 1598 (0.76), Wolff Logic 1770 (0.74). Already held elsewhere: Stanhope's Epictetus with Simplicius (epictetus), Guicciardini's Counsels (italian-classics), Columella (roman-farming). Held back by the standing Greek-facing Loeb ruling: Menander (Allinson 1921), Mair's Callimachus (1921)."
+  },
+  {
+   "id": "2026-10-18ch",
+   "status": "done",
+   "scope": "Frazer's Golden Bough, Gilbert Murray, Malinowski",
+   "started": "2026-10-17T22:55:44-05:00",
+   "finished": "2026-10-17T22:59:38-05:00",
+   "notes": "3 new shelves, 27 works. Frazer's Golden Bough 3rd ed. (12 vols) had no holder beyond adler's 1922 abridgement; frazer-greece had left it out of classical scope. Held for post-1930 printings only: Murray's Classical Tradition in Poetry, Malinowski's Sex and Repression and Sexual Life of Savages."
+  },
+  {
+   "id": "2026-10-18ci",
+   "status": "done",
+   "scope": "Classical scholarship on Greek and Roman thought: Stewart, Hicks, Vernon Arnold, Adam, Zimmern, Livingstone, Cornford, Lindsay",
+   "started": "2026-10-17T22:59:38-05:00",
+   "finished": "2026-10-17T23:03:49-05:00",
+   "notes": "8 new shelves, 13 works. Below the OCR gate (Greek-heavy): Stewart's Myths of Plato (0.76/0.78) and Notes on the Nicomachean Ethics (0.78/0.61). Rejected a 1965 microfilm reprint of Thucydides Mythistoricus in favour of a 1907 scan."
+  },
+  {
+   "id": "2026-10-18cj",
+   "status": "done",
+   "scope": "Major philosophers' gaps from dated IA scans: Russell +8, Royce +10, Whitehead +1",
+   "started": "2026-10-17T23:03:49-05:00",
+   "finished": "2026-10-17T23:08:05-05:00",
+   "notes": "19 works added to three existing shelves. Russell's Mysticism and Logic (1918) and Problem of China (1922) first printings fill the two held for post-1930 PG etexts. Held: Russell's Prospects of Industrial Civilization and Sceptical Essays (no dated scan); Whitehead's Aims of Education (Mentor reprints only) and Universal Algebra (OCR 0.73)."
+  },
+  {
+   "id": "2026-10-18ck",
+   "status": "done",
+   "scope": "John Dewey +9; missing 1930 rights checks recorded",
+   "started": "2026-10-17T23:08:05-05:00",
+   "finished": "2026-10-17T23:10:57-05:00",
+   "notes": "Dewey +9 (Psychology 1894 to Sources of a Science of Education 1929). Audit of all shelves for 1930 items lacking _rights_checked found three, all lane B: Dewey's Individualism Old and New, Lovejoy's Revolt against Dualism, Broad's Five Types of Ethical Theory; title pages read and entries recorded. Public and its Problems still held."
+  },
+  {
+   "id": "2026-10-18cl",
+   "status": "done",
+   "scope": "henry-sidgwick gaps",
+   "started": "2026-10-17T23:10:57-05:00",
+   "finished": "2026-10-17T23:13:09-05:00",
+   "notes": "9 IA vols 1883-1905"
+  },
+  {
+   "id": "2026-10-18cm",
+   "status": "done",
+   "scope": "Alexander, Perry, Baldwin, Ladd, Moore gaps",
+   "started": "2026-10-17T23:13:09-05:00",
+   "finished": "2026-10-17T23:17:32-05:00",
+   "notes": "21 IA vols; 3 held for undated scans"
+  },
+  {
+   "id": "2026-10-18cn",
+   "status": "done",
+   "scope": "Ancient Classics for English Readers",
+   "started": "2026-10-17T23:17:32-05:00",
+   "finished": "2026-10-17T23:23:53-05:00",
+   "notes": "27 of 28 vols; Caesar on trollope-works"
+  },
+  {
+   "id": "2026-10-18co",
+   "status": "done",
+   "scope": "Philosophical Classics for English Readers",
+   "started": "2026-10-17T23:23:53-05:00",
+   "finished": "2026-10-17T23:26:45-05:00",
+   "notes": "14 vols; Hamilton on john-veitch"
+  },
+  {
+   "id": "2026-10-18cp",
+   "status": "done",
+   "scope": "British philosophers and historians of thought",
+   "started": "2026-10-17T23:26:45-05:00",
+   "finished": "2026-10-17T23:32:31-05:00",
+   "notes": "8 new shelves, 32 vols"
   }
  ]
 }

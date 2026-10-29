@@ -1,0 +1,98 @@
+{
+ "_about": "Randolph Silliman Bourne (1886-1918), American essayist and social critic, a pupil of Dewey. Gutenberg: Youth and Life (1913); The Gary Schools (1916); Towards an Enduring Peace (1916; a symposium Bourne compiled); Education and Living (1917); Untimely Papers (1919); History of a Literary Radical, and Other Essays (1920). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Randolph Bourne",
+ "_name_words": [
+  "randolph",
+  "silliman",
+  "bourne"
+ ],
+ "_surname": [
+  "randolph bourne",
+  "bourne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bourne-youth-and-life": [
+   67628,
+   "Youth and Life (1913)"
+  ],
+  "bourne-gary-schools": [
+   68055,
+   "The Gary Schools (1916)"
+  ],
+  "bourne-towards-an-enduring-peace": [
+   73048,
+   "Towards an Enduring Peace (1916; a symposium Bourne compiled)"
+  ],
+  "bourne-education-and-living": [
+   68912,
+   "Education and Living (1917)"
+  ],
+  "bourne-untimely-papers": [
+   68626,
+   "Untimely Papers (1919)"
+  ],
+  "bourne-history-of-a-literary-radical": [
+   69426,
+   "History of a Literary Radical, and Other Essays (1920)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bourne-youth-and-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bourne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bourne-gary-schools": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bourne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bourne-towards-an-enduring-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bourne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bourne-education-and-living": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "randolph bourne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bourne-untimely-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "randolph bourne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bourne-history-of-a-literary-radical": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "randolph bourne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

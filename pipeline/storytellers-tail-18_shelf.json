@@ -1,0 +1,532 @@
+{
+ "_about": "Storytellers' tail, group 18: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Belle K. Abbott, Keene Abbott, Alex. St. Clair Abrams, Ellinor Davenport Adams, Frederick Upham Adams, J. S. Adams, John S. Adams, William Adams, Sarah Addington, Cyrus Adler, Anna Adolph, Effie Afton, George L. Aiken, Robert Aitken, Cynthia May Westover Alden, Ellen Tracy Alden, Anne Reeve Aldrich, Charles Wesley Alexander, James B. Alexander, Abby Langdon Alger, Frank Waller Allen, James M. Allerton, N. Ames, Charles Bean Amory, Rasmus Björn Anderson, Albert d' Anethan, Charles J. Archard, Annie E. Armstrong, F. C. Armstrong, James Armstrong. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 18 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "bkabbott-leah-mordecai": [
+   "belle k. abbott",
+   "belle kendrick abbott",
+   "abbott"
+  ],
+  "kabbott-melody-in-silver": [
+   "keene abbott",
+   "abbott"
+  ],
+  "ascabrams-trials-of-the-soldier-s-wife": [
+   "alex. st. clair abrams",
+   "alexander st. clair abrams",
+   "abrams"
+  ],
+  "edadams-girl-of-to-day": [
+   "ellinor davenport adams",
+   "adams"
+  ],
+  "fuadams-john-henry-smith": [
+   "frederick upham adams",
+   "adams"
+  ],
+  "jsadams-allegories-of-life": [
+   "j. s. adams",
+   "adams"
+  ],
+  "jsadams-town-and-country": [
+   "john s. adams",
+   "john stowell adams",
+   "adams"
+  ],
+  "wadams-old-man-s-home": [
+   "william adams",
+   "adams"
+  ],
+  "saddington-round-the-year-in-pudding-lane": [
+   "sarah addington",
+   "addington"
+  ],
+  "cadler-told-in-the-coffee-house": [
+   "cyrus adler",
+   "adler"
+  ],
+  "aadolph-arqtiq": [
+   "anna adolph",
+   "adolph"
+  ],
+  "eafton-eventide-a-series-of-tales-and-poems": [
+   "effie afton",
+   "afton"
+  ],
+  "glaiken-antelope-boy": [
+   "george l. aiken",
+   "aiken"
+  ],
+  "raitken-white-blackbird": [
+   "robert aitken",
+   "aitken"
+  ],
+  "cmwalden-bushy": [
+   "cynthia may westover alden",
+   "alden"
+  ],
+  "etalden-stories-and-ballads-for-young-folks": [
+   "ellen tracy alden",
+   "alden"
+  ],
+  "araldrich-village-ophelia-and-other-stories": [
+   "anne reeve aldrich",
+   "aldrich"
+  ],
+  "cwalexander-angel-agnes-the-heroine-of-the-yellow-fever-plag": [
+   "charles wesley alexander",
+   "alexander"
+  ],
+  "jbalexander-lunarian-professor-and-his-remarkable-revelation": [
+   "james b. alexander",
+   "james bradun alexander",
+   "alexander"
+  ],
+  "alalger-in-indian-tents-stories-told-by-penobscot-passamaquo": [
+   "abby langdon alger",
+   "alger"
+  ],
+  "fwallen-golden-road": [
+   "frank waller allen"
+  ],
+  "jmallerton-hawk-s-nest": [
+   "james m. allerton",
+   "james martin allerton",
+   "allerton"
+  ],
+  "names-old-sailor-s-yarns": [
+   "n. ames",
+   "nathaniel ames"
+  ],
+  "cbamory-roster-of-company-i-24th-regiment-massachusetts-volu": [
+   "charles bean amory",
+   "amory"
+  ],
+  "rbanderson-norse-mythology": [
+   "rasmus björn anderson",
+   "anderson"
+  ],
+  "adanethan-it-happened-in-japan": [
+   "albert d' anethan",
+   "anethan"
+  ],
+  "cjarchard-portland-peerage-romance": [
+   "charles j. archard",
+   "charles john archard",
+   "archard"
+  ],
+  "aearmstrong-three-bright-girls": [
+   "annie e. armstrong",
+   "armstrong"
+  ],
+  "fcarmstrong-sailor-hero": [
+   "f. c. armstrong",
+   "francis claudius armstrong",
+   "armstrong"
+  ],
+  "jarmstrong-roster-of-company-i-24th-regiment-massachusetts-v": [
+   "james armstrong",
+   "armstrong"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "bkabbott-leah-mordecai": [
+   4955,
+   "Leah Mordecai: A Novel"
+  ],
+  "kabbott-melody-in-silver": [
+   18434,
+   "A Melody in Silver"
+  ],
+  "ascabrams-trials-of-the-soldier-s-wife": [
+   17955,
+   "The Trials of the Soldier's Wife: A Tale of the Second American Revolution"
+  ],
+  "edadams-girl-of-to-day": [
+   66382,
+   "A Girl of To-day"
+  ],
+  "fuadams-john-henry-smith": [
+   15247,
+   "John Henry Smith: A humorous romance of outdoor life"
+  ],
+  "jsadams-allegories-of-life": [
+   15895,
+   "Allegories of Life"
+  ],
+  "jsadams-town-and-country": [
+   4669,
+   "Town and Country; Or, Life at Home and Abroad, Without and Within Us"
+  ],
+  "wadams-old-man-s-home": [
+   75652,
+   "The old man's home"
+  ],
+  "saddington-round-the-year-in-pudding-lane": [
+   78322,
+   "Round the year in Pudding Lane"
+  ],
+  "cadler-told-in-the-coffee-house": [
+   30577,
+   "Told in the Coffee House: Turkish Tales"
+  ],
+  "aadolph-arqtiq": [
+   56696,
+   "Arqtiq: A Study of the Marvels at the North Pole"
+  ],
+  "eafton-eventide-a-series-of-tales-and-poems": [
+   20185,
+   "Eventide A Series of Tales and Poems"
+  ],
+  "glaiken-antelope-boy": [
+   66190,
+   "The Antelope Boy; or, Smoholler the Medicine Man A Tale of Indian Adventure and Mystery"
+  ],
+  "raitken-white-blackbird": [
+   39066,
+   "The White Blackbird"
+  ],
+  "cmwalden-bushy": [
+   78043,
+   "Bushy"
+  ],
+  "etalden-stories-and-ballads-for-young-folks": [
+   68926,
+   "Stories and ballads for young folks"
+  ],
+  "araldrich-village-ophelia-and-other-stories": [
+   14978,
+   "A Village Ophelia, and Other Stories"
+  ],
+  "cwalexander-angel-agnes-the-heroine-of-the-yellow-fever-plag": [
+   17200,
+   "Angel Agnes The Heroine of the Yellow Fever Plague in Shreveport"
+  ],
+  "jbalexander-lunarian-professor-and-his-remarkable-revelation": [
+   60059,
+   "The Lunarian Professor and His Remarkable Revelations Concerning the Earth, the Moon and Mars Together with An Account of the Cruise of the Sally Ann"
+  ],
+  "alalger-in-indian-tents-stories-told-by-penobscot-passamaquo": [
+   51908,
+   "In Indian Tents Stories Told by Penobscot, Passamaquoddy and Micmac Indians to Abby L. Alger"
+  ],
+  "fwallen-golden-road": [
+   35509,
+   "The Golden Road"
+  ],
+  "jmallerton-hawk-s-nest": [
+   57358,
+   "Hawk's Nest; or, The Last of the Cahoonshees. A Tale of the Delaware Valley and Historical Romance of 1690."
+  ],
+  "names-old-sailor-s-yarns": [
+   29323,
+   "An Old Sailor's Yarns"
+  ],
+  "cbamory-roster-of-company-i-24th-regiment-massachusetts-volu": [
+   36673,
+   "Roster of Company I, 24th Regiment, Massachusetts Volunteers"
+  ],
+  "rbanderson-norse-mythology": [
+   65910,
+   "Norse mythology; or, The religion of our forefathers, containing all the myths of the Eddas, systematized and interpreted"
+  ],
+  "adanethan-it-happened-in-japan": [
+   58930,
+   "It Happened in Japan"
+  ],
+  "cjarchard-portland-peerage-romance": [
+   14371,
+   "The Portland Peerage Romance"
+  ],
+  "aearmstrong-three-bright-girls": [
+   62631,
+   "Three Bright Girls: A Story of Chance and Mischance"
+  ],
+  "fcarmstrong-sailor-hero": [
+   72170,
+   "The sailor hero"
+  ],
+  "jarmstrong-roster-of-company-i-24th-regiment-massachusetts-v": [
+   36673,
+   "Roster of Company I, 24th Regiment, Massachusetts Volunteers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bkabbott-leah-mordecai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belle k. abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kabbott-melody-in-silver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keene abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ascabrams-trials-of-the-soldier-s-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alex. st. clair abrams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edadams-girl-of-to-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellinor davenport adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fuadams-john-henry-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick upham adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsadams-allegories-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. s. adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsadams-town-and-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john s. adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wadams-old-man-s-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saddington-round-the-year-in-pudding-lane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah addington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cadler-told-in-the-coffee-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cyrus adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aadolph-arqtiq": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna adolph",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eafton-eventide-a-series-of-tales-and-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "effie afton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glaiken-antelope-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george l. aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "raitken-white-blackbird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert aitken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmwalden-bushy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cynthia may westover alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etalden-stories-and-ballads-for-young-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen tracy alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "araldrich-village-ophelia-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne reeve aldrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwalexander-angel-agnes-the-heroine-of-the-yellow-fever-plag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wesley alexander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbalexander-lunarian-professor-and-his-remarkable-revelation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james b. alexander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alalger-in-indian-tents-stories-told-by-penobscot-passamaquo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abby langdon alger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwallen-golden-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank waller allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmallerton-hawk-s-nest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james m. allerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "names-old-sailor-s-yarns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "n. ames",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbamory-roster-of-company-i-24th-regiment-massachusetts-volu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bean amory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbanderson-norse-mythology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rasmus björn anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adanethan-it-happened-in-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert d' anethan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjarchard-portland-peerage-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles j. archard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aearmstrong-three-bright-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie e. armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcarmstrong-sailor-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. c. armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jarmstrong-roster-of-company-i-24th-regiment-massachusetts-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR.",
+ "_name_words": [
+  "mahaffy"
+ ],
+ "_surname": [
+  "j. p. mahaffy",
+  "john pentland mahaffy",
+  "mahaffy, j. p",
+  "john p. mahaffy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mahaffy-rambles-studies-greece": [
+   35298,
+   "Rambles and Studies in Greece"
+  ],
+  "mahaffy-problems-greek-history": [
+   36354,
+   "Problems in Greek History"
+  ],
+  "mahaffy-what-have-greeks-done": [
+   59132,
+   "What Have the Greeks Done for Modern Civilisation?"
+  ],
+  "mahaffy-old-greek-education": [
+   65058,
+   "Old Greek Education"
+  ]
+ },
+ "internet_archive": {
+  "mahaffy-social-life-greece-1894": [
+   "sociallifeingree00maha",
+   "Social Life in Greece from Homer to Menander (seventh edition 1890, reprinted; London and New York: Macmillan, 1894)"
+  ],
+  "mahaffy-greek-life-thought-1896": [
+   "greeklifethought00maha",
+   "Greek Life and Thought from the Death of Alexander to the Roman Conquest (London and New York: Macmillan, 1896)"
+  ],
+  "mahaffy-classical-greek-literature-v1-1880": [
+   "historyofclassic01mahaiala",
+   "A History of Classical Greek Literature, vol. I, The Poets, with an appendix on Homer by Prof. Sayce (New York: Harper, 1880)"
+  ],
+  "mahaffy-classical-greek-literature-v2-1880": [
+   "historyofclassi02maha",
+   "A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880)"
+  ],
+  "mahaffy-prolegomena-ancient-history-1871": [
+   "prolegomenatoanc00maharich",
+   "Prolegomena to Ancient History (London: Longmans, Green, 1871)"
+  ],
+  "mahaffy-greek-world-roman-sway-1890": [
+   "greekworldunder01mahagoog",
+   "The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890)"
+  ]
+ },
+ "_excluded": {
+  "PG 65638 (The Principles of the Art of Conversation)": "outside the classical brief"
+ },
+ "_checks": {
+  "mahaffy-rambles-studies-greece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahaffy-problems-greek-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahaffy-what-have-greeks-done": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahaffy-old-greek-education": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahaffy-social-life-greece-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-greek-life-thought-1896": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-classical-greek-literature-v1-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-classical-greek-literature-v2-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-prolegomena-ancient-history-1871": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-greek-world-roman-sway-1890": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "mahaffy-classical-greek-literature-v2-1880": {
+   "author": "title page read 2026-10-10: OCR gives 'REV. J?°P*MAHAFFY, M.A. FELLOW AND PROFESSOR OF ANCIENT HISTORY, TRINITY COLLEGE, DUBLIN', in two volumes, vol. II, Harper 1880 (J. P. Mahaffy); stray marks defeat the surname test"
+  }
+ }
+}

@@ -1,0 +1,182 @@
+{
+ "_about": "Public-domain Alexander Hamilton Vinton (1807-1881), Episcopal rector of St. Paul's, Boston, and Holy Trinity, Philadelphia, for the Word Hoard: his Sermons (1855), his farewell sermon at St. Paul's, his Civil War fast and thanksgiving sermons (1860-1865), and Four Lectures delivered at Holy Trinity in 1877. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 90 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander h. vinton",
+  "a. h. vinton",
+  "alexander hamilton vinton"
+ ],
+ "_surname": [
+  "alexander h. vinton",
+  "a. h. vinton",
+  "alexander hamilton vinton",
+  "vinton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vinton-sermons": [
+   "sermons00vint",
+   "Sermons (Philadelphia : Herman Hooker, 1855)"
+  ],
+  "vinton-farewell": [
+   "farewellsermonpr00vint",
+   "A farewell sermon preached at St. Paul's Church, Boston, October 3, 1858 (Boston : James B. Dow, Office of the Christian Witness and Church Advocate, 1858)"
+  ],
+  "vinton-christian-watchman": [
+   "christianwatchma00vint_0",
+   "The Christian watchman : a sermon, preached in St. Paul's Church, Boston, January 11, 1860, at the institution of the Rev. William R. Nicholson, D.D (Boston : James B. Dow, 1860)"
+  ],
+  "vinton-thanksgiving-1860": [
+   "thanksgivingserm00vint",
+   "Thanksgiving sermon / by Alexander H. Vinton ; November 29, 1860 (Protestant Episcopal Book Society, 1860)"
+  ],
+  "vinton-god-in-government": [
+   "godingovernments00vint",
+   "God in government. A sermon: preached on the day of the national fast, January 4, 1861, in the Church of the Holy Trinity, Philadelphia / by Alexander H. Vinton (Philadelphia : Protestant Episcopal Book Society, 1861)"
+  ],
+  "vinton-mans-rule": [
+   "mansrulechristsr00vint",
+   "Man's rule and Christ's reign. A sermon, preached on Thanksgiving Day, November 27th, 1862 (New-York, J. A. Gray, printer, 1862)"
+  ],
+  "vinton-thanksgiving-1863": [
+   "sermonpreachedon00vint",
+   "A sermon, preached on the national Thanksgiving day, November 26th, 1863 (New-York, G. F. Nesbitt & co., printers, 1863)"
+  ],
+  "vinton-thanksgiving-1864": [
+   "causeforthanksgi00vint",
+   "Cause for thanksgiving : a sermon, preached on the national thanksgiving day, November 24th, 1864 (New-York : John A. Gray & Green, printers, stereotypers, and binders, 1864)"
+  ],
+  "vinton-duties-of-peace": [
+   "dutiesofpeacenat00vint",
+   "The duties of peace : the nation's third thanksgiving, a sermon preached in St. Mark's Church in the Bowerie, on December 7, 1865 / by the Rev. Alexander H. Vinton (J.A. Gray & Green, 1865)"
+  ],
+  "vinton-four-lectures": [
+   "fourlecturesdel00vint",
+   "Four lectures delivered in the Church of the Holy Trinity, Philadelphia, in the year 1877, on the foundation of the late John Bohlen, esq (New York, T. Whittaker, 1887)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "vinton-1909": "Addresses (1909), a memorial service shared with William Lawrence"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "vinton-duties-of-peace": "title page: 'THE DUTIES OF PEACE. A SERMON, PREACHED IN ST. MARK'S CHURCH IN THE BOWERIE, ON DECEMBER 7, 1865, BY THE REV. ALEXANDER H. VINTON, D.D. NEW-YORK: JOHN A. GRAY & GREEN, PRINTERS ... 1865' (OCR 'ALEXANDER H. YIXTOX')",
+  "vinton-god-in-government": "title page (page image): 'God in Government. A SERMON: PREACHED ON THE DAY OF THE NATIONAL FAST, January 4, 1861, IN THE CHURCH OF THE HOLY TRINITY, PHILADELPHIA. BY ALEXANDER H. VINTON, RECTOR. PUBLISHED BY REQUEST. PROTESTANT EPISCOPAL BOOK SOCIETY, PHILADELPHIA ... 1861' (the OCR opens on patterned endpapers)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "vinton-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vinton-farewell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vinton-christian-watchman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vinton-thanksgiving-1860": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vinton-god-in-government": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "vinton-mans-rule": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vinton-thanksgiving-1863": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vinton-thanksgiving-1864": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vinton-duties-of-peace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vinton-four-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander h. vinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

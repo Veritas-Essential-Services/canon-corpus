@@ -1,0 +1,308 @@
+{
+ "_about": "Lillian Elizabeth Roy's Girl Scouts and Polly Brewster series books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Lillian Elizabeth Roy",
+ "_name_words": [
+  "elizabeth",
+  "lillian",
+  "roy"
+ ],
+ "_surname": [
+  "lillian elizabeth roy",
+  "lillian roy",
+  "l. e. roy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "leroy-polly-of-pebbly-pit": [
+   6001,
+   "Polly of Pebbly Pit"
+  ],
+  "leroy-blue-birds-winter-nest": [
+   23693,
+   "The Blue Birds' Winter Nest"
+  ],
+  "leroy-polly-and-eleanor": [
+   25419,
+   "Polly and Eleanor"
+  ],
+  "leroy-pollys-business-venture": [
+   25778,
+   "Polly's Business Venture"
+  ],
+  "leroy-girl-scouts-in-the-adirondacks": [
+   26345,
+   "Girl Scouts in the Adirondacks"
+  ],
+  "leroy-five-little-starrs-in-the-canadian-forest": [
+   31786,
+   "Five Little Starrs in the Canadian Forest"
+  ],
+  "leroy-woodcraft-girls-in-the-city": [
+   35600,
+   "The Woodcraft Girls in the City"
+  ],
+  "leroy-polly-and-her-friends-abroad": [
+   37429,
+   "Polly and Her Friends Abroad"
+  ],
+  "leroy-natalie": [
+   37458,
+   "Natalie: A Garden Scout"
+  ],
+  "leroy-polly-in-new-york": [
+   37459,
+   "Polly in New York"
+  ],
+  "leroy-girl-scouts-at-dandelion-camp": [
+   37800,
+   "Girl Scouts at Dandelion Camp"
+  ],
+  "leroy-girl-scouts-in-the-rockies": [
+   38018,
+   "Girl Scouts in the Rockies"
+  ],
+  "leroy-little-washingtons-travels": [
+   39518,
+   "The Little Washingtons' Travels"
+  ],
+  "leroy-little-washingtons-relatives": [
+   41236,
+   "The Little Washington's Relatives"
+  ],
+  "leroy-pollys-southern-cruise": [
+   42934,
+   "Polly's Southern Cruise"
+  ],
+  "leroy-woodcraft-girls-at-camp": [
+   47279,
+   "The Woodcraft Girls at Camp"
+  ],
+  "leroy-woodcraft-boys-at-sunset-island": [
+   51319,
+   "Woodcraft Boys at Sunset Island"
+  ],
+  "leroy-girl-scouts-in-arizona-and-new-mexico": [
+   59490,
+   "Girl Scouts in Arizona and New Mexico"
+  ],
+  "leroy-blue-birds-at-happy-hills": [
+   64978,
+   "The Blue Birds at Happy Hills"
+  ],
+  "leroy-janet": [
+   67053,
+   "Janet: A Stock-Farm Scout"
+  ],
+  "leroy-polly-in-the-southwest": [
+   67057,
+   "Polly in the Southwest"
+  ],
+  "leroy-norma": [
+   67091,
+   "Norma: A Flower Scout"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "leroy-polly-of-pebbly-pit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-blue-birds-winter-nest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-polly-and-eleanor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-pollys-business-venture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-girl-scouts-in-the-adirondacks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-five-little-starrs-in-the-canadian-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-woodcraft-girls-in-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-polly-and-her-friends-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-natalie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-polly-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-girl-scouts-at-dandelion-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-girl-scouts-in-the-rockies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-little-washingtons-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-little-washingtons-relatives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-pollys-southern-cruise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-woodcraft-girls-at-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-woodcraft-boys-at-sunset-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-girl-scouts-in-arizona-and-new-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-blue-birds-at-happy-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-janet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-polly-in-the-southwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leroy-norma": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lillian elizabeth roy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

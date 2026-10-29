@@ -1,0 +1,151 @@
+{
+ "_about": "Public-domain Edward Robinson (1794-1863, Union Theological Seminary, founder of biblical geography) for the Word Hoard: Biblical Researches in Palestine, Mount Sinai and Arabia Petraea (3 vols, 1841), Later Biblical Researches (1856), Physical Geography of the Holy Land (1865), his Greek and English Lexicon of the New Testament (1836), and his Harmonies of the Gospels in Greek (1845) and English (1846), from Internet Archive scans. His Gesenius translation is another man's lexicon and is not shelved. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robinson"
+ ],
+ "_surname": [
+  "robinson",
+  "edward robinson",
+  "e. robinson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "erobinson-biblical-researches-1": [
+   "biblicalresearch01robi_0",
+   "Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, vol. I (Boston: Crocker and Brewster; London: John Murray, 1841)"
+  ],
+  "erobinson-biblical-researches-2": [
+   "biblicalresearch02robi_0",
+   "Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, vol. II (Boston: Crocker and Brewster; London: John Murray, 1841)"
+  ],
+  "erobinson-biblical-researches-3": [
+   "biblicalresearch03robi",
+   "Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, vol. III (Boston: Crocker and Brewster; London: John Murray, 1841)"
+  ],
+  "erobinson-later-researches": [
+   "laterbiblicalre00robigoog",
+   "Later Biblical Researches in Palestine and the Adjacent Regions (Boston: Crocker and Brewster, 1856)"
+  ],
+  "erobinson-physical-geography": [
+   "physicalgeograph00robi",
+   "Physical Geography of the Holy Land (Boston: Crocker and Brewster, 1865)"
+  ],
+  "erobinson-greek-lexicon": [
+   "lexicongreekengl00robirich",
+   "A Greek and English Lexicon of the New Testament (Boston: Crocker and Brewster, 1836)"
+  ],
+  "erobinson-harmony-greek": [
+   "harmonyoffourgos00robirich",
+   "A Harmony of the Four Gospels in Greek (Boston: Crocker and Brewster, 1845)"
+  ],
+  "erobinson-harmony-english": [
+   "gospelsharmony00robirich",
+   "A Harmony of the Four Gospels in English (Boston: Crocker and Brewster, 1846)"
+  ]
+ },
+ "_alternates": {
+  "erobinson-gesenius": "His translation of Gesenius's Hebrew and English Lexicon (1836)",
+  "erobinson-copies": "The 1834 Greek Harmony after Newcome; the 1874 eleventh edition of the Researches; his Dictionary of the Holy Bible (abridged from Calmet)"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "erobinson-biblical-researches-1": "title page read: 'by E. Robinson and E. Smith ... by Edward Robinson, D.D.': the journeys were made with Eli Smith",
+  "erobinson-later-researches": "title page read: 'BT EDWARD ROBINSON' (OCR)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "erobinson-biblical-researches-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'by E. Robinson and E. Smith ... by Edward Robinson, D.D.': the journeys were made with Eli Smith"
+  },
+  "erobinson-biblical-researches-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "erobinson-biblical-researches-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "erobinson-later-researches": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'BT EDWARD ROBINSON' (OCR)"
+  },
+  "erobinson-physical-geography": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "erobinson-greek-lexicon": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "erobinson-harmony-greek": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "erobinson-harmony-english": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847, c1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

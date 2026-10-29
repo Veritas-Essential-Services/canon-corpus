@@ -1,0 +1,239 @@
+{
+ "_about": "Anne Douglas Sedgwick's novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Anne Douglas Sedgwick",
+ "_name_words": [
+  "sedgwick"
+ ],
+ "_surname": [
+  "sedgwick"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "adsedgwick-fountain-sealed": [
+   8087,
+   "A Fountain Sealed"
+  ],
+  "adsedgwick-franklin-kane": [
+   18886,
+   "Franklin Kane"
+  ],
+  "adsedgwick-amabel-channice": [
+   28631,
+   "Amabel Channice"
+  ],
+  "adsedgwick-tante": [
+   30115,
+   "Tante"
+  ],
+  "adsedgwick-nest-the-white-pagoda-the-suicide-a-forsaken-temp": [
+   33519,
+   "The Nest, The White Pagoda, The Suicide, A Forsaken Temple, Miss Jones and the Masterpiece"
+  ],
+  "adsedgwick-atlantic-narratives": [
+   38172,
+   "Atlantic Narratives: Modern Short Stories"
+  ],
+  "adsedgwick-christmas-roses-and-other-stories": [
+   40650,
+   "Christmas Roses and Other Stories"
+  ],
+  "adsedgwick-childhood-in-brittany-eighty-years-ago": [
+   40699,
+   "A Childhood in Brittany Eighty Years Ago"
+  ],
+  "adsedgwick-confounding-of-camelia": [
+   41917,
+   "The Confounding of Camelia"
+  ],
+  "adsedgwick-paths-of-judgement": [
+   42012,
+   "Paths of Judgement"
+  ],
+  "adsedgwick-dull-miss-archinard": [
+   42109,
+   "The Dull Miss Archinard"
+  ],
+  "adsedgwick-rescue": [
+   42194,
+   "The Rescue"
+  ],
+  "adsedgwick-third-window": [
+   42233,
+   "The Third Window"
+  ],
+  "adsedgwick-adrienne-toner": [
+   42428,
+   "Adrienne Toner: A Novel"
+  ],
+  "adsedgwick-shadow-of-life": [
+   42965,
+   "The Shadow of Life"
+  ],
+  "adsedgwick-little-french-girl": [
+   65386,
+   "The Little French Girl"
+  ],
+  "adsedgwick-dark-hester": [
+   78779,
+   "Dark Hester"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "adsedgwick-fountain-sealed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-franklin-kane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-amabel-channice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-tante": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-nest-the-white-pagoda-the-suicide-a-forsaken-temp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-atlantic-narratives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-christmas-roses-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-childhood-in-brittany-eighty-years-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-confounding-of-camelia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-paths-of-judgement": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-dull-miss-archinard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-rescue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-third-window": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-adrienne-toner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-shadow-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-little-french-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adsedgwick-dark-hester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

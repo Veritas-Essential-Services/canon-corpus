@@ -1,0 +1,230 @@
+{
+ "_about": "Public-domain August Neander (1789-1850, church historian at Berlin) in pre-1930 English translations: The Life of Jesus Christ (tr. M'Clintock and Blumenthal, 1870), Light in the Dark Places (1851) and his practical expositions of Philippians, James and 1 John (tr. Mrs H. C. Conant, 1853), clean from CCEL; and from the Internet Archive the General History of the Christian Religion and Church (tr. Joseph Torrey, 13th American ed., 5 vols) and The Planting and Training of the Christian Church (tr. J. E. Ryland, rev. E. G. Robinson, 1864). Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "n/neander_a",
+ "_name_words": [
+  "neander",
+  "augustus"
+ ],
+ "_surname": [
+  "augustus neander",
+  "august neander",
+  "dr. augustus neander",
+  "a. neander",
+  "neander, augustus",
+  "augustus neander's"
+ ],
+ "_held": {},
+ "ccel": {
+  "neander-life-of-jesus": [
+   "life",
+   "The Life of Jesus Christ in Its Historical Connexion, tr. John M'Clintock and Charles E. Blumenthal (New York: Harper, 1870)",
+   ""
+  ],
+  "neander-light-dark-places": [
+   "light",
+   "Light in the Dark Places (New York: Lane & Scott, 1851; translator not named)",
+   ""
+  ],
+  "neander-philippians": [
+   "expo_phil",
+   "The Epistle to the Philippians Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853)",
+   ""
+  ],
+  "neander-james": [
+   "expo_james",
+   "The Epistle of James Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853)",
+   ""
+  ],
+  "neander-1-john": [
+   "expo_1john",
+   "The First Epistle of John Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "neander-history-1": [
+   "generalhistoryof187101nean",
+   "General History of the Christian Religion and Church, vol. 1, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871)"
+  ],
+  "neander-history-2": [
+   "generalhistoryof187102nean",
+   "General History of the Christian Religion and Church, vol. 2, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871)"
+  ],
+  "neander-history-3": [
+   "generalhistoryof187103nean",
+   "General History of the Christian Religion and Church, vol. 3, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871)"
+  ],
+  "neander-history-4": [
+   "generalhistoryof187104nean",
+   "General History of the Christian Religion and Church, vol. 4, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871)"
+  ],
+  "neander-history-5": [
+   "generalhistoryof187105nean",
+   "General History of the Christian Religion and Church, vol. 5, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871)"
+  ],
+  "neander-planting-1864": [
+   "historyofplantin1864nean",
+   "History of the Planting and Training of the Christian Church by the Apostles, tr. J. E. Ryland, rev. E. G. Robinson (New York: Sheldon; Boston: Gould & Lincoln; entered 1864)"
+  ]
+ },
+ "_alternates": {
+  "neander-planting-bohn": "Planting, Bohn 1851, 2 vols (IA historyofplanting01nean, 02nean): title pages not read",
+  "neander-history-index": "Index to Neander's General History by Thomas Clayton (Houghton, Mifflin, 1881; IA generalhistoryof00nean): Clayton's index, not Neander's text"
+ },
+ "_excluded": {},
+ "_translators": {
+  "neander-life-of-jesus": "m'clintock",
+  "neander-philippians": "conant",
+  "neander-history-1": "torrey",
+  "neander-history-2": "torrey",
+  "neander-history-3": "torrey",
+  "neander-history-4": "torrey",
+  "neander-history-5": "torrey",
+  "neander-planting-1864": "ryland"
+ },
+ "_checks": {
+  "neander-life-of-jesus": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "translator_claimed": "m'clintock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Harper &amp; Brothers, Publishers (1870)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "neander-light-dark-places": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Land &amp; Scott (1851)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "neander-philippians": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "translator_claimed": "conant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Lewis Colby and Company (1853)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "neander-james": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Lewis Colby and Company (1853)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "neander-1-john": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Harper &amp; Brothers, Publishers (1870)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "neander-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "translator_claimed": "torrey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neander-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "translator_claimed": "torrey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neander-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "translator_claimed": "torrey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neander-history-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "translator_claimed": "torrey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neander-history-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus neander",
+   "translator_claimed": "torrey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neander-planting-1864": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. neander",
+   "translator_claimed": "ryland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "_about": "Public-domain John Pulsford, Victorian devotional writer, for the Word Hoard: Quiet Hours, Morgenröthe, Infoldings and Unfoldings of the Divine Genius, and Stray Thoughts. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 129 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john pulsford",
+  "j. pulsford",
+  "pulsford"
+ ],
+ "_surname": [
+  "pulsford"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pulsford-quiet-hours": [
+   "quiethours01pulsgoog",
+   "Quiet hours (catalogued 1857)"
+  ],
+  "pulsford-morgenrothe": [
+   "morgenrothebooko00puls",
+   "Morgenröthe: a book of the age, for the children of the age. (A supplement to the \"Supremacy of man (London : Hamilton, Adams & Co., 1881)"
+  ],
+  "pulsford-infoldings": [
+   "infoldingsunfold00puls",
+   "Infoldings and unfoldings of the divine genius in nature and man (London : Hamilton, Adams, 1887)"
+  ],
+  "pulsford-stray-thoughts": [
+   "straythoughtsofl0000puls",
+   "Stray thoughts of a life-time : reflections, suggestions, aspirations, etc (London : Simpkin Marshall, Hamilton, Kent, 1896)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "pulsford-dups": "other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "pulsford-quiet-hours": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pulsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pulsford-morgenrothe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pulsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulsford-infoldings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pulsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pulsford-stray-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pulsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

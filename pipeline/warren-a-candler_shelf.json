@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain Warren Akin Candler (1857-1941), president of Emory College and bishop of the Methodist Episcopal Church, South, for the Word Hoard: The History of Sunday-schools, Not Less Education, Christus Auctor (a manual of Christian evidences), Great Revivals and the Great Republic, Dangerous Donations and Degrading Doles, Wesley and his Work, and Our Mission in Cuba. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 100 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "warren a. candler",
+  "warren akin candler",
+  "w. a. candler",
+  "bishop candler",
+  "candler"
+ ],
+ "_surname": [
+  "warren a. candler",
+  "warren akin candler",
+  "w. a. candler",
+  "bishop candler",
+  "candler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "candler-sunday-schools": [
+   "historysundaysc00candgoog",
+   "The History of Sunday-schools: A Brief Historical Treatise, with Special (Phillips & Hunt, 1880)"
+  ],
+  "candler-not-less-education": [
+   "notlesseducation00cand",
+   "Not less education, but more of the right sort / by W.A. Candler (Nashville, Tenn. : Barbee & Smith, Agents, 1897)"
+  ],
+  "candler-christus-auctor": [
+   "christusauctorma00cand",
+   "Christus auctor; a manual of Christian evidences (Nashville, Barbee & Smith, 1900)"
+  ],
+  "candler-great-revivals": [
+   "greatrevivalsgre0000cand",
+   "Great revivals and the great republic (Nashville, Tenn. ; Dallas, Tex. : Publishing House of the M.E. Church, South, 1904)"
+  ],
+  "candler-dangerous-donations": [
+   "dangerousdonatio00cand",
+   "Dangerous donations and degrading doles; or, A vast scheme for capturing and controlling the colleges and universities of the country ([Atlanta? Ga.], 1909)"
+  ],
+  "candler-wesley": [
+   "wesleyandhiswork00canduoft",
+   "Wesley and his works : or, Methodism and missions : a volume of addresses (Nashville : Pub. House of the M.E. Church, South, 1912)"
+  ],
+  "candler-mission-cuba": [
+   "ourmissionincuba00cand",
+   "Our mission in Cuba : prepared for use in connection with Advance in the Antilles (Nashville, Tenn. : Board of Missions, Methodist Episcopal Church, South, 1913)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "candler-spanish": "Christus auctor in Spanish translation (1907)",
+  "candler-call-to-advance": "A Call to Advance (convention addresses, many speakers)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "candler-thanksgiving-1895": "26183998.2613.emory.edu: Our National Blessings in 1895 (Thanksgiving sermon); the Emory scan has no OCR text file on Internet Archive (HTTP 404)",
+  "candler-high-living": "04552590.emory.edu: High Living and High Lives; the Emory scan has no OCR text file on Internet Archive (HTTP 404)",
+  "candler-fourth-gospel": "15308412.293.emory.edu: Practical Studies in the Fourth Gospel; the Emory scan has no OCR text file on Internet Archive (HTTP 404)",
+  "candler-day-of-opportunity": "dayofouropportun00cand: The Day of our Opportunity; the text file returned HTTP 500",
+  "candler-the-church-1917": "26224779.2615.emory.edu: The Church, the Fullness of Christ (1917 sermon); the Emory scan has no OCR text file on Internet Archive"
+ },
+ "_translators": {},
+ "_checks": {
+  "candler-sunday-schools": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. candler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "candler-not-less-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. candler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "candler-christus-auctor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren a. candler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "candler-great-revivals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren a. candler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "candler-dangerous-donations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren a. candler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "candler-wesley": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren a. candler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "candler-mission-cuba": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren a. candler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,433 @@
+{
+ "_about": "SERIES SHELF of one-off translators: The Broadway Travellers (George Routledge & Sons, London, and Harper, New York, 1926-1931), edited by Sir E. Denison Ross and Eileen Power: first English translations of travel narratives. Pero Tafur (Malcolm Letts), Clavijo's Embassy to Tamerlane and Don Juan of Persia (Guy Le Strange), Ibn Battuta (H. A. R. Gibb), Bontekoe (Bodde-Hodgkinson and Geyl), Cortés's Five Letters (J. Bayard Morris), the Mornay memoirs (Lucy Crump), du Jarric's Akbar and the Jesuits (C. H. Payne) and Maudslay's Bernal Díaz, 1926-1929. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 56); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. p. maudslay",
+  "bayard morris",
+  "bodde-hodgkinson",
+  "c. h. payne",
+  "crump",
+  "geyl",
+  "gibb",
+  "guy le strange",
+  "h. a. r. gibb",
+  "hodgkinson",
+  "j. bayard morris",
+  "le strange",
+  "letts",
+  "lucy crump",
+  "malcolm letts",
+  "maudslay",
+  "payne",
+  "pieter geyl"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "a. p. maudslay",
+  "bayard morris",
+  "bodde-hodgkinson",
+  "c. h. payne",
+  "crump",
+  "geyl",
+  "gibb",
+  "guy le strange",
+  "h. a. r. gibb",
+  "hodgkinson",
+  "j. bayard morris",
+  "le strange",
+  "letts",
+  "lucy crump",
+  "malcolm letts",
+  "maudslay",
+  "payne",
+  "pieter geyl"
+ ],
+ "_surname_by_slug": {
+  "btr-tafur": [
+   "letts",
+   "malcolm letts"
+  ],
+  "btr-clavijo": [
+   "guy le strange",
+   "le strange"
+  ],
+  "btr-ibn-battuta": [
+   "gibb",
+   "h. a. r. gibb"
+  ],
+  "btr-bontekoe": [
+   "bodde-hodgkinson",
+   "geyl",
+   "hodgkinson",
+   "pieter geyl"
+  ],
+  "btr-cortes": [
+   "bayard morris",
+   "j. bayard morris"
+  ],
+  "btr-mornay": [
+   "crump",
+   "lucy crump"
+  ],
+  "btr-don-juan": [
+   "guy le strange",
+   "le strange"
+  ],
+  "btr-akbar": [
+   "c. h. payne",
+   "payne"
+  ],
+  "btr-diaz": [
+   "a. p. maudslay",
+   "maudslay"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "btr-tafur": [
+   "ldpd_6352599_000",
+   "Pero Tafur, Travels and Adventures 1435-1439 (Routledge, 1926)"
+  ],
+  "btr-clavijo": [
+   "b31354932",
+   "Clavijo, Embassy to Tamerlane 1403-1406 (Routledge, 1928)"
+  ],
+  "btr-ibn-battuta": [
+   "pli.kerala.rare.27987",
+   "Ibn Battuta, Travels in Asia and Africa 1325-1354 (Routledge, 1929)"
+  ],
+  "btr-bontekoe": [
+   "memorabledescrip0000bont",
+   "Bontekoe, Memorable Description of the East Indian Voyage 1618-25 (Routledge, 1929)"
+  ],
+  "btr-cortes": [
+   "dli.ministry.13876",
+   "Hernando Cortés, Five Letters 1519-1526 (Routledge, 1928)",
+   "E13522_Hernando_Cortes_Five_Letters_1519_1526_djvu.txt"
+  ],
+  "btr-mornay": [
+   "huguenotfamilyin0000morn",
+   "A Huguenot Family in the XVI Century: the Memoirs of Philippe de Mornay (Routledge, 1926)"
+  ],
+  "btr-don-juan": [
+   "donjuanofpersias00juan",
+   "Don Juan of Persia, a Shi'ah Catholic, 1560-1604 (Harper, 1926)"
+  ],
+  "btr-akbar": [
+   "akbarjesuitsacco00duja",
+   "Du Jarric, Akbar and the Jesuits (Harper, 1926)"
+  ],
+  "btr-diaz": [
+   "bernaldiazdelcas002605mbp",
+   "Bernal Díaz del Castillo, The Discovery and Conquest of Mexico 1517-1521 (Routledge, 1928)"
+  ]
+ },
+ "titles": {
+  "broadway-travellers-tafur": {
+   "source": "btr-tafur",
+   "of": "Pero Tafur",
+   "work": "Travels and Adventures, 1435-1439",
+   "translated": 1926,
+   "translator": "Malcolm Letts",
+   "scan_edition": "George Routledge & Sons, London, in The Broadway Travellers, edited by Sir E. Denison Ross and Eileen Power, 1926; Columbia University Libraries scan"
+  },
+  "broadway-travellers-clavijo": {
+   "source": "btr-clavijo",
+   "of": "Ruy González de Clavijo",
+   "work": "Embassy to Tamerlane, 1403-1406",
+   "translated": 1928,
+   "translator": "Guy Le Strange",
+   "scan_edition": "George Routledge & Sons, London, in The Broadway Travellers, edited by Sir E. Denison Ross and Eileen Power, 1928",
+   "note": "The '2000' the year scan caught in the front matter is a number in the introduction ('an army of over 2000 French'), not an imprint; checked by eye."
+  },
+  "broadway-travellers-ibn-battuta": {
+   "source": "btr-ibn-battuta",
+   "of": "Ibn Battuta",
+   "work": "Travels in Asia and Africa, 1325-1354 (selections)",
+   "translated": 1929,
+   "translator": "H. A. R. Gibb",
+   "scan_edition": "George Routledge & Sons, London, in The Broadway Travellers, edited by Sir E. Denison Ross and Eileen Power, 1929; Kerala rare-books scan",
+   "note": "Gibb's selection, not the whole Rihla. Another open copy (travelsinasiaafr0000muha) is a reprint listing years to 1969 and was not used."
+  },
+  "broadway-travellers-bontekoe": {
+   "source": "btr-bontekoe",
+   "of": "Willem Ysbrandsz. Bontekoe",
+   "work": "Memorable Description of the East Indian Voyage, 1618-25",
+   "translated": 1929,
+   "translator": "C. B. Bodde-Hodgkinson and Pieter Geyl",
+   "scan_edition": "George Routledge & Sons, London, in The Broadway Travellers, edited by Sir E. Denison Ross and Eileen Power, 1929"
+  },
+  "broadway-travellers-cortes-five-letters": {
+   "source": "btr-cortes",
+   "of": "Hernán Cortés",
+   "work": "Five Letters, 1519-1526",
+   "translated": 1928,
+   "translator": "J. Bayard Morris",
+   "scan_edition": "George Routledge & Sons, London, in The Broadway Travellers, edited by Sir E. Denison Ross and Eileen Power, 1928; Digital Library of India scan"
+  },
+  "broadway-travellers-huguenot-family": {
+   "source": "btr-mornay",
+   "of": "Charlotte Arbaleste, Madame de Mornay",
+   "work": "A Huguenot Family in the XVI Century: the Memoirs of Philippe de Mornay, Sieur du Plessis Marly, written by his wife",
+   "translated": 1926,
+   "translator": "Lucy Crump",
+   "scan_edition": "George Routledge & Sons, London, in The Broadway Travellers, edited by Sir E. Denison Ross and Eileen Power, 1926 (Internet Archive's date; the scan's front matter prints no imprint year)"
+  },
+  "broadway-travellers-don-juan-of-persia": {
+   "source": "btr-don-juan",
+   "of": "Don Juan of Persia (Uruch Beg)",
+   "work": "Don Juan of Persia, a Shi'ah Catholic, 1560-1604",
+   "translated": 1926,
+   "translator": "Guy Le Strange",
+   "scan_edition": "Harper & Brothers, New York and London, 1926, the American issue of the Broadway Travellers volume (Internet Archive's date; the scan's front matter prints no imprint year)"
+  },
+  "broadway-travellers-akbar-and-the-jesuits": {
+   "source": "btr-akbar",
+   "of": "Pierre du Jarric",
+   "work": "Akbar and the Jesuits: an account of the Jesuit missions to the court of Akbar",
+   "translated": 1926,
+   "translator": "C. H. Payne",
+   "scan_edition": "Harper & Brothers, New York and London, 1926, the American issue of the Broadway Travellers volume",
+   "note": "Jesuit mission history; Lane A may want a cross-reference."
+  },
+  "broadway-travellers-bernal-diaz": {
+   "source": "btr-diaz",
+   "of": "Bernal Díaz del Castillo",
+   "work": "The Discovery and Conquest of Mexico, 1517-1521",
+   "translated": 1928,
+   "translator": "A. P. Maudslay",
+   "scan_edition": "George Routledge & Sons, London, in The Broadway Travellers, edited by Sir E. Denison Ross and Eileen Power, 1928, Maudslay's one-volume abridgement of his Hakluyt Society translation",
+   "note": "A second witness beside lockhart-diaz (1844). At minting, one uid per passage."
+  }
+ },
+ "_pending": {
+  "broadway-travellers-1930": "Printed in 1930, so waiting on the 1930 ruling: Jahangir and the Jesuits (C. H. Payne; dli.ministry.03303), Jewish Travellers (Elkan Nathan Adler; McGillLibrary-108936-464), Madame d'Aulnoy's Travels into Spain (dli.ministry.04080) and Boxer's Commentaries of Ruy Freyre de Andrada.",
+  "broadway-travellers-1931": "The Travels of an Alchemist (Arthur Waley, 1931) is too late."
+ },
+ "_excluded": {
+  "huc-gabet": "Huc and Gabet's Travels in Tartary (1928 reissue) is Hazlitt's 1852 translation, already on the hazlitt-huc shelf.",
+  "ia-travelsinasiaafr0000muha": "A later reprint of Gibb's Ibn Battuta (front matter lists years to 1969)."
+ },
+ "_checks": {
+  "btr-tafur": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "letts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-clavijo": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "guy le strange",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-ibn-battuta": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gibb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-bontekoe": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bodde-hodgkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-cortes": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bayard morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-mornay": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "crump",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-don-juan": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "le strange",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-akbar": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. h. payne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btr-diaz": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. p. maudslay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "btr-tafur": {
+   "ia": "ldpd_6352599_000",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1631,
+    1874,
+    1887,
+    1900,
+    1902,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-clavijo": {
+   "ia": "b31354932",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844,
+    1859,
+    1881,
+    1887,
+    1888,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-ibn-battuta": {
+   "ia": "pli.kerala.rare.27987",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1665,
+    1675,
+    1679,
+    1724,
+    1844,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-bontekoe": {
+   "ia": "memorabledescrip0000bont",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1648,
+    1675,
+    1679,
+    1691,
+    1844,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-cortes": {
+   "ia": "dli.ministry.13876",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1648,
+    1675,
+    1679,
+    1691,
+    1844,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-mornay": {
+   "ia": "huguenotfamilyin0000morn",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1600,
+    1605,
+    1606,
+    1623,
+    1824,
+    1868
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-don-juan": {
+   "ia": "donjuanofpersias00juan",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1500,
+    1560,
+    1568,
+    1604,
+    1605,
+    1631
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-akbar": {
+   "ia": "akbarjesuitsacco00duja",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1602,
+    1610,
+    1631,
+    1673,
+    1858,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btr-diaz": {
+   "ia": "bernaldiazdelcas002605mbp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892,
+    1895,
+    1899,
+    1901,
+    1908,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

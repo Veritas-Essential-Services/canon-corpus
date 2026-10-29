@@ -1,0 +1,111 @@
+{
+ "_about": "Public-domain Jean-Baptiste Saint-Jure (1588-1657, Jesuit) in English for the Word Hoard: A Treatise on the Knowledge and Love of Our Lord Jesus Christ, vol. II (New York, 1870), The Spiritual Man (London, 1878) and The Religious (2 vols, New York, 1881-1883), translated by Sisters of Mercy, and Union with Our Lord Jesus Christ (Sadlier, entered 1876), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jure"
+ ],
+ "_surname": [
+  "saint-jure",
+  "saint jure",
+  "s. jure"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "saint-jure-knowledge-love-christ-2": [
+   "treatiseonknowle0002vari",
+   "A Treatise on the Knowledge and Love of Our Lord Jesus Christ, vol. II, by a Member of the Order of Mercy (New York: P. O'Shea, 1870)"
+  ],
+  "saint-jure-spiritual-man": [
+   "TheSpiritualManOr",
+   "The Spiritual Man; or, the Spiritual Life reduced to its first principles, by a Member of the Order of Mercy (London: Burns and Oates, 1878)"
+  ],
+  "saint-jure-union-with-our-lord": [
+   "unionwithourlord00sain",
+   "Union with Our Lord Jesus Christ in his principal mysteries, translation revised by a Father of the same Society (New York: D. & J. Sadlier; entered 1876)"
+  ],
+  "saint-jure-the-religious-1": [
+   "thereligiousatre01sainuoft",
+   "The Religious: a Treatise on the Vows and Virtues of the Religious State, vol. I, by a Sister of Mercy (New York: P. O'Shea; entered 1881)"
+  ],
+  "saint-jure-the-religious-2": [
+   "thereligiousatre02sainuoft",
+   "The Religious: a Treatise on the Vows and Virtues of the Religious State, vol. II, by a Sister of Mercy (New York: P. O'Shea, 1883)"
+  ]
+ },
+ "_alternates": {
+  "saint-jure-de-renty": "The Holy Life of Monsieur de Renty (London, 1684, EEBO): translator and year not legible; Wesley's 1741 abridgment",
+  "saint-jure-copies": "Knowledge and Love vol. II (1875); other Spiritual Man and Union copies"
+ },
+ "_excluded": {
+  "saint-jure-other": "Thompson's Life of de Renty and Nobility at the Cross: other hands",
+  "saint-jure-late": "The Secret of Peace (1961) and Trustful Surrender (modern)"
+ },
+ "_rights_checked": {
+  "saint-jure-knowledge-love-christ-2": "title page read: OCR 'Vouume I.', but the contents are vol. II; translated 'by a Member of the Order of Mercy', no personal name; O'Shea, 1870",
+  "saint-jure-union-with-our-lord": "title page read: entered 1876; no other year legible; translator not named"
+ },
+ "_pending": {
+  "saint-jure-knowledge-1-3": "Knowledge and Love vols I and III in English: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "saint-jure-knowledge-love-christ-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "saint-jure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: OCR 'Vouume I.', but the contents are vol. II; translated 'by a Member of the Order of Mercy', no personal name; O'Shea, 1870"
+  },
+  "saint-jure-spiritual-man": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "saint-jure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saint-jure-union-with-our-lord": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "saint-jure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: entered 1876; no other year legible; translator not named"
+  },
+  "saint-jure-the-religious-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "saint-jure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saint-jure-the-religious-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "saint-jure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

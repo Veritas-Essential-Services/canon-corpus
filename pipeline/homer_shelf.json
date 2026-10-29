@@ -273,6 +273,21 @@
    "iliadhomertrans00abbogoog",
    "The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891)",
    "tr. John Purves"
+  ],
+  "homer-conwell-hymns-1830": [
+   "hymnshomertrans00conwgoog",
+   "The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830)",
+   "tr. Columbus C. Conwell"
+  ],
+  "homer-gilchrist-iliad-1869": [
+   "englishtranslati00home",
+   "An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869)",
+   "tr. James Gilchrist"
+  ],
+  "homer-ritso-iliad-i-iii-1861": [
+   "iliadofhomerfirs00home",
+   "The Iliad of Homer, the first three books, faithfully translated into English hexameters (London: Rivingtons, 1861)",
+   "tr. Frederick H. J. Ritso"
   ]
  },
  "_cross_ref": {
@@ -282,13 +297,13 @@
   "lang-odyssey": "Lang shelf, lane D (PG 1728, Butcher and Lang)",
   "lang-homeric-hymns": "Lang shelf, lane D (PG 16338)",
   "dryden-iliad": "Dryden shelf, lane C (Iliad I and the Last Parting of Hector and Andromache)",
-  "hesiod-evelyn-white": "Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914)"
+  "hesiod-evelyn-white": "Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914)",
+  "maginn-homeric-ballads-1856": "lucian shelf: lucian-maginn-1856 (Maginn's Homeric Ballads and Comedies of Lucian, 1856) holds his Homeric ballads and episodes; not refetched here"
  },
  "_excluded": {
   "pg2199": "Butler's Iliad: already in the build from Perseus (iliad-butler)",
   "pg28797": "Butler's Odyssey: duplicate of PG 1727",
   "pg24856": "Odysseus, the Hero of Ithaca (Burt, Ragozin): a schoolbook adaptation",
-  "A. T. Murray, Iliad (1924-25) and Odyssey (1919), Loeb": "now held from Perseus: homer-perseus-murray-iliad, homer-perseus-murray-odyssey",
   "Brandreth's Iliad vol. II (1846)": "no scan found on IA (2026-10-03); vol. I held as homer-brandreth-iliad-1846-v1"
  },
  "perseus": {
@@ -358,7 +373,10 @@
   "homer-brandreth-iliad-1846-v1": "t. s. brandreth",
   "homer-du-cane-odyssey-1880": "charles du cane",
   "homer-dart-iliad-1865": "j. henry dart",
-  "homer-purves-iliad-1891": "john purves"
+  "homer-purves-iliad-1891": "john purves",
+  "homer-conwell-hymns-1830": "columbus c. conwell",
+  "homer-gilchrist-iliad-1869": "james gilchrist",
+  "homer-ritso-iliad-i-iii-1861": "frederick h. j. ritso"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -370,7 +388,7 @@
  "_checks": {
   "homer-chapman-iliad": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "George Chapman",
@@ -382,7 +400,7 @@
   },
   "homer-chapman-odyssey": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "George Chapman",
@@ -394,7 +412,7 @@
   },
   "homer-pope-iliad": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "alexander pope",
@@ -406,7 +424,7 @@
   },
   "homer-pope-odyssey": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Alexander Pope",
@@ -418,7 +436,7 @@
   },
   "homer-cowper-iliad": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "William Cowper",
@@ -430,7 +448,7 @@
   },
   "homer-cowper-odyssey": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "William Cowper",
@@ -442,7 +460,7 @@
   },
   "homer-derby-iliad": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Earl of Edward George Geoffrey Smith Stanley Derby",
@@ -454,7 +472,7 @@
   },
   "homer-buckley-iliad": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Theodore Alois Buckley",
@@ -466,7 +484,7 @@
   },
   "homer-butler-odyssey": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Samuel Butler",
@@ -478,7 +496,7 @@
   },
   "homer-bryant-iliad-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "William Cullen Bryant",
@@ -491,7 +509,7 @@
   },
   "homer-bryant-iliad-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "William Cullen Bryant",
@@ -504,7 +522,7 @@
   },
   "homer-bryant-odyssey-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "William Cullen Bryant",
@@ -517,7 +535,7 @@
   },
   "homer-bryant-odyssey-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "identity": "ok",
@@ -528,7 +546,7 @@
   },
   "homer-norgate-iliad": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "identity": "ok",
@@ -539,7 +557,7 @@
   },
   "homer-hobbes-iliad-odyssey": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Thomas Hobbes",
@@ -552,7 +570,7 @@
   },
   "homer-morris-odyssey-1887": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "William Morris",
@@ -565,7 +583,7 @@
   },
   "homer-palmer-odyssey-1891": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "George Herbert Palmer",
@@ -578,7 +596,7 @@
   },
   "homer-worsley-odyssey-1861-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Philip Stanhope Worsley",
@@ -591,7 +609,7 @@
   },
   "homer-worsley-odyssey-1862-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Philip Stanhope Worsley",
@@ -604,7 +622,7 @@
   },
   "homer-way-odyssey-1904": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Arthur S. Way",
@@ -617,7 +635,7 @@
   },
   "homer-newman-iliad-1856": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "F. W. Newman",
@@ -630,7 +648,7 @@
   },
   "homer-worsley-iliad-1865-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Philip Stanhope Worsley",
@@ -643,7 +661,7 @@
   },
   "homer-conington-iliad-1868-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "John Conington",
@@ -656,7 +674,7 @@
   },
   "homer-way-iliad-1886-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "identity": "ok",
@@ -667,7 +685,7 @@
   },
   "homer-way-iliad-1888-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Arthur S. Way",
@@ -680,7 +698,7 @@
   },
   "homer-mackail-odyssey-1903-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Mackail",
@@ -693,7 +711,7 @@
   },
   "homer-mackail-odyssey-1905-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Mackail",
@@ -706,7 +724,7 @@
   },
   "homer-mackail-odyssey-1910-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Mackail",
@@ -719,7 +737,7 @@
   },
   "homer-cotterill-odyssey-1911": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Cotterill",
@@ -732,7 +750,7 @@
   },
   "homer-carnarvon-odyssey-1886": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "earl of carnarvon",
@@ -745,7 +763,7 @@
   },
   "homer-munford-iliad-1846-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Munford",
@@ -758,7 +776,7 @@
   },
   "homer-wright-iliad-1861-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "i. c. wright",
@@ -771,7 +789,7 @@
   },
   "homer-blackie-iliad-1866-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Blackie",
@@ -784,7 +802,7 @@
   },
   "homer-blackie-iliad-1866-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Blackie",
@@ -797,7 +815,7 @@
   },
   "homer-cayley-iliad-1877": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Cayley",
@@ -810,7 +828,7 @@
   },
   "homer-merivale-iliad-1869": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Merivale",
@@ -823,7 +841,7 @@
   },
   "homer-morrice-iliad-1809": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Morrice",
@@ -836,7 +854,7 @@
   },
   "homer-musgrave-odyssey-1865-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Musgrave",
@@ -850,7 +868,7 @@
   },
   "homer-barnard-odyssey-1876": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "mordaunt barnard",
@@ -863,7 +881,7 @@
   },
   "homer-schomberg-odyssey-1879-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "title_weak": true,
@@ -875,7 +893,7 @@
   },
   "homer-schomberg-odyssey-1882-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Schomberg",
@@ -888,7 +906,7 @@
   },
   "homer-hs-wright-iliad-1885": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "identity": "ok",
@@ -899,7 +917,7 @@
   },
   "homer-cordery-iliad-1871-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Cordery",
@@ -912,7 +930,7 @@
   },
   "homer-cordery-iliad-1871-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Cordery",
@@ -925,7 +943,7 @@
   },
   "homer-sotheby-iliad-1833-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Sotheby",
@@ -938,7 +956,7 @@
   },
   "homer-sotheby-iliad-1833-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Sotheby",
@@ -951,7 +969,7 @@
   },
   "homer-sotheby-odyssey-1833-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "Sotheby",
@@ -964,7 +982,7 @@
   },
   "homer-sotheby-odyssey-1834-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "william sotheby",
@@ -977,7 +995,7 @@
   },
   "homer-brandreth-iliad-1846-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "t. s. brandreth",
@@ -990,7 +1008,7 @@
   },
   "homer-du-cane-odyssey-1880": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "charles du cane",
@@ -1003,7 +1021,7 @@
   },
   "homer-dart-iliad-1865": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "j. henry dart",
@@ -1016,7 +1034,7 @@
   },
   "homer-purves-iliad-1891": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "homer",
    "translator_claimed": "john purves",
@@ -1024,6 +1042,45 @@
    "identity": "ok",
    "ia_rights": "ok: published 1891",
    "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-conwell-hymns-1830": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "columbus c. conwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-gilchrist-iliad-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "james gilchrist",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "homer-ritso-iliad-i-iii-1861": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "frederick h. j. ritso",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -1,0 +1,1440 @@
+{
+ "_about": "G. A. Henty's historical tales for boys not already on another shelf or branch (the reading-list henty shelf and the henty-church acquisition hold the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "G. A. Henty",
+ "_name_words": [
+  "henty"
+ ],
+ "_surname": [
+  "g. a. henty"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "henty-st-george-for-england": [
+   3429,
+   "St. George for England"
+  ],
+  "henty-won-by-the-sword": [
+   4931,
+   "Won By the Sword : a tale of the Thirty Years' War"
+  ],
+  "henty-a-knight-of-the-white-cross": [
+   4932,
+   "A Knight of the White Cross: A Tale of the Siege of Rhodes"
+  ],
+  "henty-lion-of-the-north": [
+   5075,
+   "The Lion of the North: A Tale of the Times of Gustavus Adolphus"
+  ],
+  "henty-young-carthaginian": [
+   5128,
+   "The Young Carthaginian: A Story of The Times of Hannibal"
+  ],
+  "henty-on-the-pampas": [
+   6472,
+   "On the Pampas; Or, The Young Settlers"
+  ],
+  "henty-by-pike-and-dyke": [
+   6952,
+   "By Pike and Dyke: a Tale of the Rise of the Dutch Republic"
+  ],
+  "henty-by-englands-aid": [
+   6953,
+   "By England's Aid; or, the Freeing of the Netherlands (1585-1604)"
+  ],
+  "henty-bonnie-prince-charlie": [
+   7006,
+   "Bonnie Prince Charlie : a Tale of Fontenoy and Culloden",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER\\s+[IVXLC]+:.*"
+     }
+    ],
+    "start": "CHAPTER\\ I:\\ The\\ Return\\ of\\ a\\ Prodigal\\.$",
+    "front": true
+   }
+  ],
+  "henty-beric-the-briton": [
+   7037,
+   "Beric the Briton : a Story of the Roman Invasion"
+  ],
+  "henty-at-agincourt": [
+   7060,
+   "At Agincourt",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-a-march-on-london": [
+   7061,
+   "A March on London: Being a Story of Wat Tyler's Insurrection",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-treasure-of-the-incas": [
+   7070,
+   "The Treasure of the Incas: A Story of Adventure in Peru",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-in-times-of-peril": [
+   7071,
+   "In Times of Peril: A Tale of India"
+  ],
+  "henty-rujub-the-juggler": [
+   7229,
+   "Rujub, the Juggler"
+  ],
+  "henty-bravest-of-the-brave": [
+   7318,
+   "The Bravest of the Brave — or, with Peterborough in Spain"
+  ],
+  "henty-with-buller-in-natal": [
+   7334,
+   "With Buller in Natal, Or, a Born Leader"
+  ],
+  "henty-among-malay-pirates": [
+   7346,
+   "Among Malay Pirates : a Tale of Adventure and Peril"
+  ],
+  "henty-when-london-burned": [
+   7831,
+   "When London Burned : a Story of Restoration Times and the Great Fire",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-tales-of-daring-and-danger": [
+   7870,
+   "Tales of Daring and Danger",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-colonel-thorndykes-secret": [
+   8155,
+   "Colonel Thorndyke's Secret"
+  ],
+  "henty-by-sheer-pluck": [
+   8576,
+   "By Sheer Pluck: A Tale of the Ashanti War"
+  ],
+  "henty-with-moore-at-corunna": [
+   8651,
+   "With Moore at Corunna"
+  ],
+  "henty-through-the-fray": [
+   8732,
+   "Through the Fray: A Tale of the Luddite Riots"
+  ],
+  "henty-wulf-the-saxon": [
+   8745,
+   "Wulf the Saxon: A Story of the Norman Conquest"
+  ],
+  "henty-true-to-the-old-flag": [
+   8859,
+   "True to the Old Flag: A Tale of the American War of Independence",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-young-buglers": [
+   9613,
+   "The Young Buglers",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-jack-archer": [
+   11058,
+   "Jack Archer: A Tale of the Crimea"
+  ],
+  "henty-friends-though-divided": [
+   11565,
+   "Friends, though divided: A Tale of the Civil War"
+  ],
+  "henty-golden-canyon": [
+   11609,
+   "The Golden Canyon"
+  ],
+  "henty-boy-knight": [
+   13354,
+   "The Boy Knight: A Tale of the Crusades",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-one-of-the-28th": [
+   14313,
+   "One of the 28th: A Tale of Waterloo"
+  ],
+  "henty-cornet-of-horse": [
+   17403,
+   "The Cornet of Horse: A Tale of Marlborough's Wars",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-queens-cup": [
+   17436,
+   "The Queen's Cup",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter\\ 1\\.$",
+    "front": true
+   }
+  ],
+  "henty-lion-of-saint-mark": [
+   17546,
+   "The Lion of Saint Mark: A Story of Venice in the Fourteenth Century",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+:.*"
+     }
+    ],
+    "start": "Chapter\\ 1:\\ Venice\\.$",
+    "front": true
+   }
+  ],
+  "henty-with-wolfe-in-canada": [
+   17766,
+   "With Wolfe in Canada: The Winning of a Continent",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+:.*"
+     }
+    ],
+    "start": "Chapter\\ 1:\\ A\\ Rescue\\.$",
+    "front": true
+   }
+  ],
+  "henty-in-the-irish-brigade": [
+   18349,
+   "In the Irish Brigade: A Tale of War in Flanders and Spain"
+  ],
+  "henty-orange-and-green": [
+   18356,
+   "Orange and Green: A Tale of the Boyne and Limerick"
+  ],
+  "henty-a-jacobite-exile-being-the-adventures-of-a-young-engli": [
+   18357,
+   "A Jacobite Exile Being the Adventures of a Young Englishman in the Service of Charles the Twelfth of Sweden"
+  ],
+  "henty-tiger-of-mysore": [
+   18813,
+   "The Tiger of Mysore: A Story of the War with Tippoo Saib",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+:.*"
+     }
+    ],
+    "start": "Chapter\\ 1:\\ A\\ Lost\\ Father\\.$",
+    "front": true
+   }
+  ],
+  "henty-with-clive-in-india": [
+   18833,
+   "With Clive in India; Or, The Beginnings of an Empire",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+:.*"
+     }
+    ],
+    "start": "Chapter\\ 1:\\ Leaving\\ Home\\.$",
+    "front": true
+   }
+  ],
+  "henty-with-kitchener-in-the-soudan": [
+   18868,
+   "With Kitchener in the Soudan: A Story of Atbara and Omdurman"
+  ],
+  "henty-both-sides-the-border": [
+   19070,
+   "Both Sides the Border: A Tale of Hotspur and Glendower"
+  ],
+  "henty-with-lee-in-virginia": [
+   19154,
+   "With Lee in Virginia: A Story of the American Civil War",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-under-drakes-flag": [
+   19206,
+   "Under Drake's Flag: A Tale of the Spanish Main"
+  ],
+  "henty-with-frederick-the-great": [
+   19714,
+   "With Frederick the Great: A Story of the Seven Years' War"
+  ],
+  "henty-a-final-reckoning": [
+   20031,
+   "A Final Reckoning: A Tale of Bush Life in Australia"
+  ],
+  "henty-no-surrender-a-tale-of-the-rising-in-la-vendee": [
+   20091,
+   "No Surrender! A Tale of the Rising in La Vendee"
+  ],
+  "henty-saint-bartholomews-eve": [
+   20092,
+   "Saint Bartholomew's Eve: A Tale of the Huguenot Wars"
+  ],
+  "henty-under-wellingtons-command": [
+   20207,
+   "Under Wellington's Command: A Tale of the Peninsular War"
+  ],
+  "henty-through-three-campaigns": [
+   20641,
+   "Through Three Campaigns: A Story of Chitral, Tirah and Ashanti"
+  ],
+  "henty-at-the-point-of-the-bayonet": [
+   20729,
+   "At the Point of the Bayonet: A Tale of the Mahratta War"
+  ],
+  "henty-on-the-irrawaddy": [
+   21242,
+   "On the Irrawaddy: A Story of the First Burmese War"
+  ],
+  "henty-for-the-temple": [
+   21614,
+   "For the Temple: A Tale of the Fall of Jerusalem"
+  ],
+  "henty-held-fast-for-england": [
+   21788,
+   "Held Fast For England: A Tale of the Siege of Gibraltar (1779-83)"
+  ],
+  "henty-for-name-and-fame": [
+   21979,
+   "For Name and Fame; Or, Through Afghan Passes"
+  ],
+  "henty-dash-for-khartoum": [
+   21986,
+   "The Dash for Khartoum: A Tale of the Nile Expedition",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-young-franc-tireurs-and-their-adventures-in-the-franco": [
+   22060,
+   "The Young Franc Tireurs, and Their Adventures in the Franco-Prussian War"
+  ],
+  "henty-at-aboukir-and-acre": [
+   22224,
+   "At Aboukir and Acre: A Story of Napoleon's Invasion of Egypt",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-a-girl-of-the-commune": [
+   24244,
+   "A Girl of the Commune"
+  ],
+  "henty-with-cochrane-the-dauntless": [
+   25993,
+   "With Cochrane the Dauntless",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-condemned-as-a-nihilist": [
+   26090,
+   "Condemned as a Nihilist: A Story of Escape from Siberia",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-a-chapter-of-adventures": [
+   28190,
+   "A Chapter of Adventures",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-by-conduct-and-courage": [
+   28357,
+   "By Conduct and Courage: A Story of the Days of Nelson",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-captain-bayleys-heir": [
+   28857,
+   "Captain Bayley's Heir: A Tale of the Gold Fields of California",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-out-on-the-pampas": [
+   30143,
+   "Out on the Pampas; Or, The Young Settlers",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-through-russian-snows": [
+   30457,
+   "Through Russian Snows: A Story of Napoleon's Retreat from Moscow",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-facing-death": [
+   31128,
+   "Facing Death; Or, The Hero of the Vaughan Pit: A Tale of the Coal Mines",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-young-colonists": [
+   32934,
+   "The Young Colonists: A Story of the Zulu and Boer Wars"
+  ],
+  "henty-maori-and-settler": [
+   33619,
+   "Maori and Settler: A Story of The New Zealand War"
+  ],
+  "henty-sturdy-and-strong": [
+   33939,
+   "Sturdy and Strong; Or, How George Andrews Made His Way",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-st-george-for-england-34886": [
+   34886,
+   "St. George for England: A Tale of Cressy and Poitiers",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-a-search-for-a-secret": [
+   35012,
+   "A Search For A Secret: A Novel. Vol. 1"
+  ],
+  "henty-a-search-for-a-secret-35265": [
+   35265,
+   "A Search For A Secret: A Novel. Vol. 2"
+  ],
+  "henty-a-search-for-a-secret-35266": [
+   35266,
+   "A Search For A Secret: A Novel. Vol. 3"
+  ],
+  "henty-dorothys-double-volume-1-of-3": [
+   36103,
+   "Dorothy's Double. Volume 1 (of 3)"
+  ],
+  "henty-dorothys-double-volume-2-of-3": [
+   36236,
+   "Dorothy's Double. Volume 2 (of 3)"
+  ],
+  "henty-dorothys-double-volume-3-of-3": [
+   36359,
+   "Dorothy's Double. Volume 3 (of 3)"
+  ],
+  "henty-lost-heir": [
+   36975,
+   "The Lost Heir",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-a-roving-commission": [
+   38764,
+   "A Roving Commission; Or, Through the Black Insurrection at Hayti",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-curse-of-carnes-hold": [
+   39374,
+   "The Curse of Carne's Hold: A Tale of Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-march-to-magdala": [
+   39470,
+   "The March to Magdala"
+  ],
+  "henty-in-the-hands-of-the-malays-and-other-stories": [
+   39616,
+   "In the Hands of the Malays, and Other Stories"
+  ],
+  "henty-in-greek-waters": [
+   42276,
+   "In Greek Waters: A Story of the Grecian War of Independence",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-in-the-hands-of-the-cave-dwellers": [
+   43067,
+   "In the Hands of the Cave-Dwellers",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-out-with-garibaldi": [
+   45573,
+   "Out with Garibaldi: A story of the liberation of Italy",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-with-the-allies-to-pekin": [
+   47008,
+   "With the Allies to Pekin: A Tale of the Relief of the Legations",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-a-soldiers-daughter-and-other-stories": [
+   48297,
+   "A Soldier's Daughter, and Other Stories"
+  ],
+  "henty-tales-from-the-works-of-g-a-henty": [
+   53700,
+   "Tales from the Works of G. A. Henty"
+  ],
+  "henty-through-the-sikh-war": [
+   53717,
+   "Through the Sikh War: A Tale of the Conquest of the Punjaub"
+  ],
+  "henty-with-the-british-legion": [
+   53859,
+   "With the British Legion: A Story of the Carlist Wars"
+  ],
+  "henty-all-but-lost": [
+   54091,
+   "All But Lost: A Novel. Vol. 1 of 3",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-to-herat-and-cabul": [
+   55779,
+   "To Herat and Cabul: A Story of the First Afghan War",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-with-roberts-to-pretoria": [
+   56143,
+   "With Roberts to Pretoria: A Tale of The South African War",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-all-but-lost-56255": [
+   56255,
+   "All But Lost: A Novel. Vol. 2 of 3",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-those-other-animals": [
+   56767,
+   "Those Other Animals",
+   {
+    "contents_only": true
+   }
+  ],
+  "henty-all-but-lost-59529": [
+   59529,
+   "All But Lost: A Novel. Vol. 3 of 3"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59360": "PG 59360: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 8679: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 2805, 3674, 3785, 4792, 8670, 12308, 19398, 29756, 45617: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-77688": "PG 77688 Battles of the Nineteenth Century: a many-author work (Forbes, Griffiths, Henty and others)."
+ },
+ "_checks": {
+  "henty-st-george-for-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-won-by-the-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-knight-of-the-white-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-lion-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-young-carthaginian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-on-the-pampas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-by-pike-and-dyke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-by-englands-aid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-bonnie-prince-charlie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-beric-the-briton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-at-agincourt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-march-on-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-treasure-of-the-incas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-in-times-of-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-rujub-the-juggler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-bravest-of-the-brave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-buller-in-natal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-among-malay-pirates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-when-london-burned": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-tales-of-daring-and-danger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-colonel-thorndykes-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-by-sheer-pluck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-moore-at-corunna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-through-the-fray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-wulf-the-saxon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-true-to-the-old-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-young-buglers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-jack-archer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-friends-though-divided": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-golden-canyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-boy-knight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-one-of-the-28th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-cornet-of-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-queens-cup": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-lion-of-saint-mark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-wolfe-in-canada": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-in-the-irish-brigade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-orange-and-green": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-jacobite-exile-being-the-adventures-of-a-young-engli": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-tiger-of-mysore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-clive-in-india": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-kitchener-in-the-soudan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-both-sides-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-lee-in-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-under-drakes-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-frederick-the-great": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-final-reckoning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-no-surrender-a-tale-of-the-rising-in-la-vendee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-saint-bartholomews-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-under-wellingtons-command": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-through-three-campaigns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-at-the-point-of-the-bayonet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-on-the-irrawaddy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-for-the-temple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-held-fast-for-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-for-name-and-fame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-dash-for-khartoum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-young-franc-tireurs-and-their-adventures-in-the-franco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-at-aboukir-and-acre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-girl-of-the-commune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-cochrane-the-dauntless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-condemned-as-a-nihilist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-chapter-of-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-by-conduct-and-courage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-captain-bayleys-heir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-out-on-the-pampas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-through-russian-snows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-facing-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-young-colonists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-maori-and-settler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-sturdy-and-strong": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-st-george-for-england-34886": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-search-for-a-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-search-for-a-secret-35265": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-search-for-a-secret-35266": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-dorothys-double-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-dorothys-double-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-dorothys-double-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-lost-heir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-roving-commission": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-curse-of-carnes-hold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-march-to-magdala": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-in-the-hands-of-the-malays-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-in-greek-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-in-the-hands-of-the-cave-dwellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-out-with-garibaldi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-the-allies-to-pekin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-a-soldiers-daughter-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-tales-from-the-works-of-g-a-henty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-through-the-sikh-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-the-british-legion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-all-but-lost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-to-herat-and-cabul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-roberts-to-pretoria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-all-but-lost-56255": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-those-other-animals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-all-but-lost-59529": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

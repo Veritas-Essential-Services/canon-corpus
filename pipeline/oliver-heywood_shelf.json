@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain Oliver Heywood (1630-1702), ejected Nonconformist minister of Northowram, Yorkshire, for the Word Hoard: The Whole Works of the Rev. Oliver Heywood (5 vols., Idle, 1825-27), with Heart Treasure (1852 edition) and his autobiography and diaries (ed. J. Horsfall Turner, 1881-85). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 94 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "oliver heywood",
+  "o. heywood"
+ ],
+ "_surname": [
+  "oliver heywood",
+  "o. heywood"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heywood-works-1": [
+   "wholeworksofrevo01heyw",
+   "The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 1 (Idle : [s.n.], 1825)"
+  ],
+  "heywood-works-2": [
+   "wholeworksofrevo02heyw",
+   "The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 2 (Idle : [s.n.], 1825)"
+  ],
+  "heywood-works-3": [
+   "wholeworksofrevo03heywuoft",
+   "The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 03 (Idle : [s.n.], 1825)"
+  ],
+  "heywood-works-4": [
+   "wholeworksofrevo04heywuoft",
+   "The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 04 (Idle : [s.n.], 1825)"
+  ],
+  "heywood-works-5": [
+   "wholeworksofrevo05heywuoft",
+   "The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 05 (Idle : [s.n.], 1825)"
+  ],
+  "heywood-heart-treasure": [
+   "hearttreasureorf00heyw",
+   "Heart treasure : or, The furniture of the soul (Philadelphia : American Baptist Publication Society, 1852)"
+  ],
+  "heywood-diaries-3": [
+   "revoliverheywood03heyw",
+   "The Rev. Oliver Heywood, B.A., 1630-1702 : his autobiography, diaries, anecdote and event books : illustrating the general and family history of Yorkshire and Lancashire, vol. 3 (Brighouse : A.B. Bayes, 1881)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "heywood-early": "the 1667-1701 first printings (Early English Books), whose texts are in the Whole Works; left for the EEBO first-editions work",
+  "heywood-register": "The Nonconformist Register (a register of baptisms, marriages and deaths)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "heywood-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver heywood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heywood-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver heywood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heywood-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver heywood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heywood-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver heywood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heywood-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver heywood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heywood-heart-treasure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver heywood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heywood-diaries-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver heywood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

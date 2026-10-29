@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Mrs. Georgina Malcolm: Gustav Freytag's Pictures of German Life (Chapman and Hall, 1862-63, 4 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "malcolm"
+ ],
+ "_surname": [
+  "malcolm"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "gma-33794": [
+   33794,
+   "Pictures of German Life in the XVth, XVIth, and XVIIth Centuries, Vol. I."
+  ],
+  "gma-33795": [
+   33795,
+   "Pictures of German Life in the XVth, XVIth, and XVIIth Centuries, Vol. II."
+  ],
+  "gma-33818": [
+   33818,
+   "Pictures of German Life in the XVIIIth and XIXth Centuries, Vol. I."
+  ],
+  "gma-33819": [
+   33819,
+   "Pictures of German Life in the XVIIIth and XIXth Centuries, Vol. II."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "georgina-malcolm-freytag-pictures-of-german-life-15th-17th-vol-1": {
+   "source": "gma-33794",
+   "of": "Gustav Freytag",
+   "work": "Pictures of German Life in the XVth, XVIth, and XVIIth Centuries, Vol. I.",
+   "translated": "1862-1863 (see the Gutenberg header)",
+   "translator": "Mrs. Georgina Malcolm",
+   "scan_edition": "Project Gutenberg 33794 (clean text)"
+  },
+  "georgina-malcolm-freytag-pictures-of-german-life-15th-17th-vol-2": {
+   "source": "gma-33795",
+   "of": "Gustav Freytag",
+   "work": "Pictures of German Life in the XVth, XVIth, and XVIIth Centuries, Vol. II.",
+   "translated": "1862-1863 (see the Gutenberg header)",
+   "translator": "Mrs. Georgina Malcolm",
+   "scan_edition": "Project Gutenberg 33795 (clean text)"
+  },
+  "georgina-malcolm-freytag-pictures-of-german-life-18th-19th-vol-1": {
+   "source": "gma-33818",
+   "of": "Gustav Freytag",
+   "work": "Pictures of German Life in the XVIIIth and XIXth Centuries, Vol. I.",
+   "translated": "1862-1863 (see the Gutenberg header)",
+   "translator": "Mrs. Georgina Malcolm",
+   "scan_edition": "Project Gutenberg 33818 (clean text)"
+  },
+  "georgina-malcolm-freytag-pictures-of-german-life-18th-19th-vol-2": {
+   "source": "gma-33819",
+   "of": "Gustav Freytag",
+   "work": "Pictures of German Life in the XVIIIth and XIXth Centuries, Vol. II.",
+   "translated": "1862-1863 (see the Gutenberg header)",
+   "translator": "Mrs. Georgina Malcolm",
+   "scan_edition": "Project Gutenberg 33819 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "gma-33794": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "malcolm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Malcolm"
+  },
+  "gma-33795": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "malcolm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Malcolm"
+  },
+  "gma-33818": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "malcolm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Malcolm"
+  },
+  "gma-33819": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "malcolm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Malcolm"
+  }
+ },
+ "_verified": {
+  "gma-33794": {
+   "pg": 33794,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Malcolm"
+  },
+  "gma-33795": {
+   "pg": 33795,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Malcolm"
+  },
+  "gma-33818": {
+   "pg": 33818,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Malcolm"
+  },
+  "gma-33819": {
+   "pg": 33819,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Malcolm"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

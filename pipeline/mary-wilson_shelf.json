@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary Wilson: Paul Heyse's L'Arrabiata and Other Tales and The Dead Lake, and Other Tales (1867-1870). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary wilson"
+ ],
+ "_surname": [
+  "mary wilson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mwi-33583": [
+   33583,
+   "L'Arrabiata and Other Tales"
+  ],
+  "mwi-33916": [
+   33916,
+   "The Dead Lake, and Other Tales"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mary-wilson-heyse-l-arrabiata-and-other-tales": {
+   "source": "mwi-33583",
+   "of": "Paul Heyse",
+   "work": "L'Arrabiata and Other Tales",
+   "translated": "1867-1870 (see the Gutenberg header)",
+   "translator": "Mary Wilson",
+   "scan_edition": "Project Gutenberg 33583 (clean text)"
+  },
+  "mary-wilson-heyse-the-dead-lake-and-other-tales": {
+   "source": "mwi-33916",
+   "of": "Paul Heyse",
+   "work": "The Dead Lake, and Other Tales",
+   "translated": "1867-1870 (see the Gutenberg header)",
+   "translator": "Mary Wilson",
+   "scan_edition": "Project Gutenberg 33916 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mwi-33583": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Wilson"
+  },
+  "mwi-33916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Wilson"
+  }
+ },
+ "_verified": {
+  "mwi-33583": {
+   "pg": 33583,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Wilson"
+  },
+  "mwi-33916": {
+   "pg": 33916,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Wilson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

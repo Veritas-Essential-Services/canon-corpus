@@ -1,0 +1,112 @@
+{
+ "_about": "Marah Ellis Ryan: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Marah Ellis Ryan",
+ "_name_words": [
+  "ellis",
+  "marah",
+  "ryan"
+ ],
+ "_surname": [
+  "marah ellis ryan",
+  "ellis ryan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "meryan-that-girl-montana": [
+   27475,
+   "That Girl Montana"
+  ],
+  "meryan-bondwoman": [
+   29581,
+   "The Bondwoman"
+  ],
+  "meryan-treasure-trail": [
+   29694,
+   "The Treasure Trail: A Romance of the Land of Gold and Sunshine"
+  ],
+  "meryan-flute-of-the-gods": [
+   30125,
+   "The Flute of the Gods"
+  ],
+  "meryan-told-in-the-hills": [
+   36246,
+   "Told in the Hills: A Novel"
+  ],
+  "meryan-for-the-soul-of-rafael": [
+   39995,
+   "For the Soul of Rafael"
+  ],
+  "meryan-druid-path": [
+   77880,
+   "The Druid Path"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "meryan-that-girl-montana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marah ellis ryan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meryan-bondwoman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marah ellis ryan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meryan-treasure-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marah ellis ryan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meryan-flute-of-the-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marah ellis ryan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meryan-told-in-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marah ellis ryan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meryan-for-the-soul-of-rafael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marah ellis ryan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meryan-druid-path": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marah ellis ryan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

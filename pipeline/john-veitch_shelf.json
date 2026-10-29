@@ -1,0 +1,123 @@
+{
+ "_about": "John Veitch (1829-1894), Scottish philosopher and historian of the Borders, Sir William Hamilton's pupil and biographer, professor of logic at St Andrews and then Glasgow. Raw IA OCR: Memoir of Sir William Hamilton (Blackwood, 1869, dated from its preface); Lucretius and the Atomic Theory (1875); Hamilton, in Blackwood's Philosophical Classics (1882; the OCR reads the roman imprint year as 'MDCCOLXXXII', taken as MDCCCLXXXII); Institutes of Logic (Blackwood, 1885, dated from its preface of October 1885); Knowing and Being (Blackwood, 1889); Dualism and Monism, and other essays (Blackwood, 1895); Border Essays (Blackwood, 1896). His Descartes translations belong to the descartes material elsewhere and are not repeated here. US public domain. No uids minted.",
+ "_author": "John Veitch",
+ "_name_words": [
+  "john",
+  "veitch"
+ ],
+ "_surname": [
+  "veitch"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "veitch-memoir-of-sir-william-hamilton-1869": [
+   "memoirsirwillia00veitgoog",
+   "Memoir of Sir William Hamilton (Blackwood, 1869)"
+  ],
+  "veitch-lucretius-and-the-atomic-theory-1875": [
+   "lucretiusandato01veitgoog",
+   "Lucretius and the Atomic Theory (1875)"
+  ],
+  "veitch-hamilton-philosophical-classics-1882": [
+   "hamilton00veitgoog",
+   "Hamilton, Philosophical Classics for English Readers (Blackwood, 1882)"
+  ],
+  "veitch-institutes-of-logic-1885": [
+   "institutesoflogi00veitiala",
+   "Institutes of Logic (Blackwood, 1885)"
+  ],
+  "veitch-knowing-and-being-1889": [
+   "dli.bengal.10689.5395",
+   "Knowing and Being (Blackwood, 1889)"
+  ],
+  "veitch-dualism-and-monism-1895": [
+   "dualismmonismoth00veitrich",
+   "Dualism and Monism, and other essays (Blackwood, 1895)"
+  ],
+  "veitch-border-essays-1896": [
+   "borderessays00veituoft",
+   "Border Essays (Blackwood, 1896)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "veitch-memoir-of-sir-william-hamilton-1869": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "veitch-lucretius-and-the-atomic-theory-1875": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "veitch-hamilton-philosophical-classics-1882": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "veitch-institutes-of-logic-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "veitch-knowing-and-being-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "veitch-dualism-and-monism-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "veitch-border-essays-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

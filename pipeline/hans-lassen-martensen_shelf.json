@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain Hans Lassen Martensen (1808-1884, Bishop of Zealand) in English for the Word Hoard: Christian Dogmatics, tr. William Urwick (1866), the three parts of Christian Ethics, tr. C. Spence, William Affleck and Sophia Taylor (1881-1885), and Jacob Boehme, tr. T. Rhys Evans (1885), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "martensen"
+ ],
+ "_surname": [
+  "martensen",
+  "h. martensen",
+  "hans lassen martensen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "martensen-christian-dogmatics": [
+   "christiandogmati00mart",
+   "Christian Dogmatics, tr. William Urwick (Edinburgh: T. & T. Clark, MDCCCLXVI)"
+  ],
+  "martensen-ethics-general": [
+   "christianethics00mart",
+   "Christian Ethics, General Part, tr. C. Spence (Edinburgh: T. & T. Clark, MDCCCLXXXV)"
+  ],
+  "martensen-ethics-individual": [
+   "christianethics0001drhm",
+   "Christian Ethics, Special Part, first division: Individual Ethics, tr. William Affleck (Edinburgh: T. & T. Clark, 1881)"
+  ],
+  "martensen-ethics-social": [
+   "christianethics0002drhm",
+   "Christian Ethics, Special Part, second division: Social Ethics, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1882)"
+  ],
+  "martensen-jacob-boehme": [
+   "cu31924029355686",
+   "Jacob Boehme: his Life and Teaching, or Studies in Theosophy, tr. T. Rhys Evans (London: Hodder and Stoughton, MDCCCLXXXV)"
+  ]
+ },
+ "_alternates": {
+  "martensen-copies": "Dogmatics (other 1866 copies); General Part (1888, 1891); Individual Ethics fourth edition (1891); Boehme (another 1885 copy)"
+ },
+ "_excluded": {
+  "martensen-late": "1949 Boehme reprints; the German Meister Eckart (PG 77203)"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "martensen-1873": "The 1873 first printing of the General Part: not found"
+ },
+ "_translators": {
+  "martensen-christian-dogmatics": "urwick",
+  "martensen-ethics-general": "spence",
+  "martensen-ethics-individual": "affleck",
+  "martensen-ethics-social": "taylor",
+  "martensen-jacob-boehme": "evans"
+ },
+ "_checks": {
+  "martensen-christian-dogmatics": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martensen",
+   "translator_claimed": "urwick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martensen-ethics-general": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martensen",
+   "translator_claimed": "spence",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martensen-ethics-individual": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martensen",
+   "translator_claimed": "affleck",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "martensen-ethics-social": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martensen",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "martensen-jacob-boehme": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martensen",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

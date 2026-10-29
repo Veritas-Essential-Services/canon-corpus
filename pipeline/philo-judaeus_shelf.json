@@ -1,0 +1,97 @@
+{
+ "_about": "Philo of Alexandria (c. 20 BC-c. AD 50), Hellenistic Jewish philosopher, allegorical interpreter of the Pentateuch. The Works of Philo Judaeus, the contemporary of Josephus, translated from the Greek by C. D. Yonge (London: Henry G. Bohn, Bohn's Ecclesiastical Library, 1854-1855), 4 vols., English only, raw IA OCR from one Toronto set (vols. I-II 1854, vols. III-IV 1855). The Loeb Philo began in 1929 with Greek facing and is held back like the other Greek-facing Loebs. The vol. III title page OCR spells the translator 'C. D. YONaE' and the name appears nowhere else in that scan, so its translator check is made against that spelling. US public domain. No uids minted.",
+ "_author": "Philo of Alexandria",
+ "_name_words": [
+  "philo",
+  "judaeus",
+  "alexandria"
+ ],
+ "_surname": [
+  "philo"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "philo-yonge-works-1854-v1": [
+   "worksphilojudaeu01philuoft",
+   "The Works of Philo Judaeus, vol. I (Bohn, 1854)",
+   "tr. C. D. Yonge"
+  ],
+  "philo-yonge-works-1854-v2": [
+   "worksphilojudaeu02philuoft",
+   "The Works of Philo Judaeus, vol. II (Bohn, 1854)",
+   "tr. C. D. Yonge"
+  ],
+  "philo-yonge-works-1855-v3": [
+   "theworksofphiloj03yonguoft",
+   "The Works of Philo Judaeus, vol. III (Bohn, 1855)",
+   "tr. C. D. Yonge"
+  ],
+  "philo-yonge-works-1855-v4": [
+   "theworksofphiloj04yonguoft",
+   "The Works of Philo Judaeus, vol. IV (Bohn, 1855)",
+   "tr. C. D. Yonge"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "philo-yonge-works-1854-v1": "Yonge",
+  "philo-yonge-works-1854-v2": "Yonge",
+  "philo-yonge-works-1855-v3": "YONaE",
+  "philo-yonge-works-1855-v4": "Yonge"
+ },
+ "_checks": {
+  "philo-yonge-works-1854-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "philo",
+   "translator_claimed": "Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-55",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "philo-yonge-works-1854-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "philo",
+   "translator_claimed": "Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-55",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "philo-yonge-works-1855-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "philo",
+   "translator_claimed": "YONaE",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "philo-yonge-works-1855-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "philo",
+   "translator_claimed": "Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

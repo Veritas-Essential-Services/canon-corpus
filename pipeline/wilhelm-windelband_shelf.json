@@ -1,0 +1,40 @@
+{
+ "_about": "Wilhelm Windelband (1848-1915), raw IA OCR: A History of Philosophy, with especial reference to the formation and development of its problems and conceptions, authorised translation by James H. Tufts, 2nd ed., revised and enlarged (New York: Macmillan, 1907). US public domain. No uids minted.",
+ "_author": "Wilhelm Windelband",
+ "_name_words": [
+  "wilhelm",
+  "w",
+  "windelband"
+ ],
+ "_surname": [
+  "windelband"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "windelband-tufts-history-of-philosophy-1907": [
+   "historyofphiloso00winduoft",
+   "A History of Philosophy, 2nd ed., revised and enlarged (New York: Macmillan, 1907)",
+   "tr. James H. Tufts"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "windelband-tufts-history-of-philosophy-1907": "Tufts"
+ },
+ "_checks": {
+  "windelband-tufts-history-of-philosophy-1907": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "windelband",
+   "translator_claimed": "Tufts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

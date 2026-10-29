@@ -1,0 +1,194 @@
+{
+ "_about": "Frank L. Packard's Jimmie Dale crime novels and railroad stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Frank L. Packard",
+ "_name_words": [
+  "packard"
+ ],
+ "_surname": [
+  "frank l. packard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fpackard-adventures-of-jimmie-dale": [
+   1218,
+   "The Adventures of Jimmie Dale"
+  ],
+  "fpackard-white-moll": [
+   1741,
+   "The White Moll",
+   {
+    "contents_only": true
+   }
+  ],
+  "fpackard-further-adventures-of-jimmie-dale": [
+   9440,
+   "The Further Adventures of Jimmie Dale",
+   {
+    "contents_only": true
+   }
+  ],
+  "fpackard-miracle-man": [
+   15578,
+   "The Miracle Man"
+  ],
+  "fpackard-night-operator": [
+   33634,
+   "The Night Operator"
+  ],
+  "fpackard-belov-d-traitor": [
+   34034,
+   "The Belovéd Traitor"
+  ],
+  "fpackard-doors-of-the-night": [
+   35818,
+   "Doors of the Night"
+  ],
+  "fpackard-from-now-on": [
+   51939,
+   "From Now On"
+  ],
+  "fpackard-pawned": [
+   51965,
+   "Pawned"
+  ],
+  "fpackard-sin-that-was-his": [
+   51983,
+   "The Sin That Was His"
+  ],
+  "fpackard-wire-devils": [
+   52084,
+   "The Wire Devils"
+  ],
+  "fpackard-on-the-iron-at-big-cloud": [
+   54111,
+   "On the Iron at Big Cloud"
+  ],
+  "fpackard-four-stragglers": [
+   59895,
+   "The Four Stragglers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57718": "PG 57718: Gutenberg's index of Packard's works, not a book."
+ },
+ "_checks": {
+  "fpackard-adventures-of-jimmie-dale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-white-moll": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-further-adventures-of-jimmie-dale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-miracle-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-night-operator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-belov-d-traitor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-doors-of-the-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-from-now-on": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-pawned": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-sin-that-was-his": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-wire-devils": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-on-the-iron-at-big-cloud": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpackard-four-stragglers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank l. packard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

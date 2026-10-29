@@ -1,0 +1,47 @@
+{
+ "_about": "Elizabeth Prentiss's Little Susy's Little Servants (copyright lines 1856 and 1883), a children's book. Her devotional novel Stepping Heavenward is not taken. Gutenberg catalogue: Prentiss 1818-1878. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Elizabeth Prentiss",
+ "_name_words": [
+  "susy"
+ ],
+ "_surname": [
+  "elizabeth prentiss",
+  "e. prentiss"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "prentiss-little-susys-little-servants": [
+   37219,
+   "Little Susy's Little Servants",
+   {
+    "levels": [
+     {
+      "re": "LITTLE SUSY'S LITTLE SERVANTS\\.$|_SECOND SERIES\\._$",
+      "label": {
+       ".*": "SECOND SERIES"
+      },
+      "repeat_continues": true
+     },
+     {
+      "re": "CHAPTER [IVX]+\\.$"
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "prentiss-little-susys-little-servants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. prentiss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

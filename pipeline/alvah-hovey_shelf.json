@@ -1,0 +1,276 @@
+{
+ "_about": "Public-domain Alvah Hovey (1820-1903, Baptist, President of Newton Theological Institution) for the Word Hoard: 16 books and addresses from Internet Archive scans, 1854-1900, among them The Miracles of Christ (1864), God with Us (1872), Manual of Systematic Theology (1877), his own volumes of An American Commentary (John, Galatians), Biblical Eschatology (1888) and Manual of Christian Theology (1900). Raw OCR. The other American Commentary volumes, which he edited but did not write, are left out. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hovey"
+ ],
+ "_surname": [
+  "alvah hovey",
+  "hovey, alvah",
+  "alvah hovey, d.d.",
+  "rev. alvah hovey",
+  "alvah hovey, d.d., ll.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hovey-inaugural-address": [
+   "inauguraladdress00hove",
+   "An Inaugural Address, delivered before the Newton Theological Institution, 28 June 1854 (Boston: J. M. Hewes, 1854)"
+  ],
+  "hovey-memoir-backus": [
+   "memoiroflifetime00hove",
+   "A Memoir of the Life and Times of the Rev. Isaac Backus (Boston: Gould and Lincoln, 1858)"
+  ],
+  "hovey-impenitent-dead": [
+   "stateofimpeniten00hove",
+   "The State of the Impenitent Dead (Boston: Gould and Lincoln, 1859)"
+  ],
+  "hovey-miracles-of-christ": [
+   "miraclesofchrist00hove",
+   "The Miracles of Christ as Attested by the Evangelists (Boston: Graves and Young, MDCCCLXIV)"
+  ],
+  "hovey-law-of-divorce": [
+   "scripturallawofd0000hove",
+   "The Scriptural Law of Divorce (Boston: Gould and Lincoln, 1866)"
+  ],
+  "hovey-god-with-us": [
+   "godwithusorpers00hovegoog",
+   "God with Us, or, The Person and Work of Christ, with an examination of Bushnell's Vicarious Sacrifice (Boston: Gould and Lincoln, 1872)"
+  ],
+  "hovey-religion-and-state": [
+   "religionstatepro00hove",
+   "Religion and the State: Protection or Alliance? Taxation or Exemption? (Boston: Estes and Lauriat, 1874)"
+  ],
+  "hovey-historical-address": [
+   "historicaladdres00hove",
+   "Historical Address at the Fiftieth Anniversary of the Newton Theological Institution, 8 June 1875 (Boston: Wright and Potter, 1875)"
+  ],
+  "hovey-higher-christian-life": [
+   "doctrineofhigher00hove",
+   "The Doctrine of the Higher Christian Life compared with the Teaching of the Holy Scriptures (Boston: Henry A. Young, 1876)"
+  ],
+  "hovey-manual-systematic": [
+   "manualofsystemat00hove",
+   "Manual of Systematic Theology, and Christian Ethics (Boston, copyright 1877)"
+  ],
+  "hovey-commentary-john": [
+   "commentaryongosp00hove",
+   "Commentary on the Gospel of John, An American Commentary (Philadelphia: American Baptist Publication Society; entered 1885)"
+  ],
+  "hovey-biblical-eschatology": [
+   "biblicaleschatol00hove",
+   "Biblical Eschatology (Philadelphia: American Baptist Publication Society; entered 1888)"
+  ],
+  "hovey-commentary-galatians": [
+   "commentaryonepis0502hove",
+   "Commentary on the Epistle to the Galatians, his part of An American Commentary vol. 5 (Philadelphia: American Baptist Publication Society; catalogued 1890)"
+  ],
+  "hovey-studies-ethics-religion": [
+   "studiesinethicsr00hove",
+   "Studies in Ethics and Religion (New York, Boston, Chicago: Silver, Burdett, 1892)"
+  ],
+  "hovey-doctrines-of-bible": [
+   "doctrinesofbible00hove",
+   "Doctrines of the Bible (Philadelphia: American Baptist Publication Society; library stamp March 1892)"
+  ],
+  "hovey-manual-christian-theology": [
+   "manualofchristia00hove",
+   "Manual of Christian Theology, second edition (New York, Boston, Chicago: Silver, Burdett; copyright 1900)"
+  ]
+ },
+ "_alternates": {
+  "hovey-outlines": "Outlines of Christian Theology (Boston, 1861; outlinesofchrist00hove): no author named on the title page",
+  "hovey-barnas-sears": "Barnas Sears, a Christian Educator (copyright 1902): biography",
+  "hovey-copies": "Second copies of the Backus memoir, Impenitent Dead, Divorce, Religion and the State, the Manual (incl. IA dates 1800 and 1701 that are wrong) and the John commentary"
+ },
+ "_excluded": {
+  "hovey-edited": "The other American Commentary volumes (Broadus, Hackett, Gould and others), Truth Unfolded, and multi-author tracts and sermons",
+  "hovey-translation": "Perthes' Life of Chrysostom, translated with D. B. Ford",
+  "hovey-reprints": "1972 reprint and journal stubs"
+ },
+ "_identity_checked": {
+  "hovey-impenitent-dead": {
+   "author": "title page read: 'By Alvah Hovey, D.D., Professor of Christian Theology' (OCR 'ALYAH HOYEY')"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "hovey-inaugural-address": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hovey-memoir-backus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hovey-impenitent-dead": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hovey-miracles-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hovey-law-of-divorce": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hovey-god-with-us": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hovey-religion-and-state": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hovey, alvah",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hovey-historical-address": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hovey-higher-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hovey-manual-systematic": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hovey-commentary-john": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hovey-biblical-eschatology": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hovey-commentary-galatians": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hovey-studies-ethics-religion": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hovey-doctrines-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hovey-manual-christian-theology": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alvah hovey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  }
+ }
+}

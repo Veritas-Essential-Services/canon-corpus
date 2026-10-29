@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Julian of Norwich (1343-after 1416, anchoress) for the Word Hoard: Revelations of Divine Love ed. Grace Warrack (Methuen, 1901) from Project Gutenberg, and from Internet Archive scans Serenus Cressy's text as reprinted in 1843, the Kegan Paul edition with George Tyrrell's preface (1902), Dundas Harford's Comfortable Words for Christ's Lovers from the short text (about 1911) and Dom Roger Hudleston's edition (1927). Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators and editors recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "julian",
+  "juliana"
+ ],
+ "_surname": [
+  "julian of norwich",
+  "mother juliana",
+  "lady julian",
+  "julian, anchoress",
+  "juliana, an anchorete",
+  "julian, recluse"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "julian-revelations-warrack": [
+   "52958",
+   "Revelations of Divine Love, ed. Grace Warrack (London: Methuen, 1901)"
+  ]
+ },
+ "internet_archive": {
+  "julian-sixteen-revelations-1843": [
+   "SixteenRevelationsOfDivineLove",
+   "Sixteen Revelations of Divine Love, Cressy's text of 1670 reprinted (London: S. Clarke, 1843)"
+  ],
+  "julian-revelations-tyrrell-1902": [
+   "xvirevelationsof00juliuoft",
+   "XVI Revelations of Divine Love shewed to Mother Juliana of Norwich, with a preface by George Tyrrell (London: Kegan Paul, 1902)"
+  ],
+  "julian-comfortable-words": [
+   "comfortablewords00juliuoft",
+   "Comfortable Words for Christ's Lovers, the short text ed. Dundas Harford (London: H. R. Allenson; catalogued 1911)"
+  ],
+  "julian-revelations-hudleston": [
+   "revelationsofdiv0000domr_y8t1",
+   "Revelations of Divine Love, newly edited by Dom Roger Hudleston, Orchard Books (London: Burns Oates, 1927)"
+  ]
+ },
+ "_alternates": {
+  "julian-copies": "Other 1843 copies, the Boston 1864 edition (no editor named), later Warrack editions (1907-1917) and Tyrrell's second impression (1920); CCEL julian/revelations (Warrack, 1901) and julian/comfort"
+ },
+ "_excluded": {
+  "julian-late": "Hudleston's second edition (1952) and a modern facsimile"
+ },
+ "_rights_checked": {
+  "julian-comfortable-words": "title page read: H. R. Allenson, no year; catalogued 1911; CCEL's copy states Allenson, 1912"
+ },
+ "_pending": {},
+ "_translators": {
+  "julian-revelations-warrack": "warrack",
+  "julian-comfortable-words": "harford",
+  "julian-revelations-hudleston": "hudleston"
+ },
+ "_checks": {
+  "julian-revelations-warrack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mother juliana",
+   "translator_claimed": "warrack",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "julian-sixteen-revelations-1843": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mother juliana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "julian-revelations-tyrrell-1902": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mother juliana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "julian-comfortable-words": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "julian of norwich",
+   "translator_claimed": "harford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: H. R. Allenson, no year; catalogued 1911; CCEL's copy states Allenson, 1912"
+  },
+  "julian-revelations-hudleston": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "julian of norwich",
+   "translator_claimed": "hudleston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

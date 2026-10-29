@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Richard Challoner (1691-1781, Vicar Apostolic of London) for the Word Hoard: The Garden of the Soul (1793), Think Well On't (1801), Memoirs of Missionary Priests (2 vols, Manchester, 1803), Considerations upon Christian Truths and Christian Duties, digested into Meditations for every day in the year (2 vols, London, 1815), and The Catholic Christian Instructed (1793), from Internet Archive scans; the first editions printed his books without his name, so the earliest printings that name him are shelved. Written in English. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "challoner"
+ ],
+ "_surname": [
+  "challoner",
+  "richard challoner",
+  "dr. challoner",
+  "bishop challoner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "challoner-garden-of-the-soul-1793": [
+   "bim_eighteenth-century_the-garden-of-the-soul-_challoner-richard_1793",
+   "The Garden of the Soul (London: J. P. Coghlan, M.DCC.XCIII)"
+  ],
+  "challoner-think-well-ont-1801": [
+   "thinkwellontorre00chaluoft",
+   "Think Well On't, or Reflections on the Great Truths of the Christian Religion, thirteenth edition (London: Keating, Brown and Keating, 1801)"
+  ],
+  "challoner-memoirs-missionary-priests-1": [
+   "10789537bsb",
+   "Memoirs of Missionary Priests, vol. I (Manchester: for T. Haydock, 1803)"
+  ],
+  "challoner-memoirs-missionary-priests-2": [
+   "10789538bsb",
+   "Memoirs of Missionary Priests, vol. II (Manchester: for T. Haydock, 1803)"
+  ],
+  "challoner-considerations-1": [
+   "ConsiderationsUponChristianV1",
+   "Considerations upon Christian Truths and Christian Duties, digested into Meditations for every day in the year, vol. I (London: Keating, Brown, and Keating, 1815)"
+  ],
+  "challoner-considerations-2": [
+   "ConsiderationsUponChristianV2",
+   "Considerations upon Christian Truths and Christian Duties, vol. II (London: Keating, Brown, and Keating, 1815)"
+  ],
+  "challoner-catholic-christian-instructed": [
+   "bim_eighteenth-century_the-catholick-christian-_challoner-richard_1793",
+   "The Catholick Christian Instructed in the Sacraments, Sacrifice, Ceremonies and Observances of the Church, thirteenth edition (London: J. P. Coghlan, M,DCC,XCIII)"
+  ]
+ },
+ "_alternates": {
+  "challoner-britannia-sancta": "Britannia Sancta (London: Thomas Meighan, 1745, 2 parts): anonymous on the title page, and no named edition found; waits on an attribution ruling",
+  "challoner-first-editions": "The anonymous first editions of the Garden (1755), Memoirs (1741), Considerations (1753-1754), Catholick Christian (1737) and Think Well On't (1734)",
+  "challoner-other-copies": "Later printings of each (1812-1872), and the Considerations of 1784 (4 vols)"
+ },
+ "_excluded": {
+  "challoner-translations": "His Douay-Rheims revision and his Imitation of Christ: translations, not his own works",
+  "challoner-late": "The 1924 revised Memoirs; an anthology (1894)"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "challoner-garden-of-the-soul-1793": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "challoner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "challoner-think-well-ont-1801": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "challoner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "challoner-memoirs-missionary-priests-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "challoner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "challoner-memoirs-missionary-priests-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "challoner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "challoner-considerations-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "challoner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "challoner-considerations-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "challoner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "challoner-catholic-christian-instructed": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "challoner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

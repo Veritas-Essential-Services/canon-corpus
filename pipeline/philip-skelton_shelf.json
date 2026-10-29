@@ -1,0 +1,115 @@
+{
+ "_about": "Public-domain Philip Skelton (1707-1787), Irish divine, rector of Fintona, for the Word Hoard: his Complete Works (London: R. Baynes, 1824, six volumes, with Burdy's Life; Deism Revealed, sermons and discourses), from Internet Archive scans. Added 2026-10-23 by lane A, round 43 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "skelton"
+ ],
+ "_surname": [
+  "philip skelton",
+  "skelton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "skelton-works-1": [
+   "completeworksofl01skel",
+   "The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 1 (London : R. Baynes, 1824)"
+  ],
+  "skelton-works-2": [
+   "completeworksofl02skel",
+   "The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 2 (London : R. Baynes, 1824)"
+  ],
+  "skelton-works-3": [
+   "completeworksofl03skel",
+   "The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 3 (London : R. Baynes, 1824)"
+  ],
+  "skelton-works-4": [
+   "completeworksofl04skel",
+   "The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 4 (London : R. Baynes, 1824)"
+  ],
+  "skelton-works-5": [
+   "completeworksofl05skel",
+   "The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 5 (London : R. Baynes, 1824)"
+  ],
+  "skelton-works-6": [
+   "completeworksofl06skel",
+   "The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 6 (London : R. Baynes, 1824)"
+  ]
+ },
+ "_alternates": {
+  "skelton-copies": "The Google copies and the _0 duplicates of the same 1824 set"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "skelton-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip skelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skelton-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip skelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skelton-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip skelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skelton-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip skelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skelton-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip skelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skelton-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip skelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Robert Barclay (1648-1690), the Quaker apologist, for the Word Hoard: the Apology for the True Christian Divinity in its first English edition (1678) and Baskerville's eighth (1765), Truth Triumphant, his collected works (1718 and 1831), and the Catechism and Confession of Faith (Philadelphia, 1788), from Internet Archive scans and Project Gutenberg. Barclay wrote the Apology in Latin and Englished it himself. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "barclay"
+ ],
+ "_surname": [
+  "robert barclay",
+  "barclay, robert"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "rbarclay-apology-1765": [
+   56487,
+   "An Apology for the True Christian Divinity, the eighth edition in English (Birmingham: John Baskerville, 1765)"
+  ]
+ },
+ "internet_archive": {
+  "rbarclay-apology-1678": [
+   "apologyfor00barc",
+   "An Apology for the True Christian Divinity, as the same is held forth and preached by the people called, in scorn, Quakers, written in Latin and now put into our own language (printed in the year 1678; no place on the title page), the first English edition"
+  ],
+  "rbarclay-truth-triumphant-1": [
+   "truthtriumphantt01barc",
+   "Truth Triumphant through the Spiritual Warfare, Christian Labours and Writings of Robert Barclay, vol. I (London: Assigns of J. Sowle, 1718)"
+  ],
+  "rbarclay-truth-triumphant-3": [
+   "truthtriumphantt_03barc",
+   "Truth Triumphant, vol. III (London: Assigns of J. Sowle, 1718)"
+  ],
+  "rbarclay-truth-triumphant-1831-1": [
+   "truthtriumphantt01inbarc",
+   "Truth Triumphant, vol. I, from the octavo edition of 1718 collated with the folio of 1692 (Philadelphia: Benjamin C. Stanton, 1831)"
+  ],
+  "rbarclay-catechism-1788": [
+   "catechismconfess01barc",
+   "A Catechism and Confession of Faith (Philadelphia: Joseph James, 1788)"
+  ]
+ },
+ "_alternates": {
+  "rbarclay-copies": "CCEL barclay/quakers (New York: Samuel Wood, 1827, from the eighth London edition); Truth Triumphant 1831 (truthtriumphant00keitgoog, probably vol. II); the thirteenth-edition Catechism (William Phillips, no year)"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "rbarclay-apology-1765": "PG header has no copyright marker; title page read: Baskerville, MDCCLXV"
+ },
+ "_pending": {
+  "rbarclay-unread": "Truth Triumphant folio (1692) and 1718 vol. II; Apology 1701 and Newport 1729; Anarchy of the Ranters: title pages not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "rbarclay-apology-1765": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarclay-apology-1678": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barclay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1678",
+   "ia_date": "1678",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rbarclay-truth-triumphant-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barclay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1718",
+   "ia_date": "1718",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rbarclay-truth-triumphant-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barclay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1718",
+   "ia_date": "1718",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rbarclay-truth-triumphant-1831-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barclay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rbarclay-catechism-1788": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barclay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

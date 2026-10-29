@@ -1,0 +1,519 @@
+{
+ "_about": "Storytellers' tail, group 45: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Livingston Robert Shewell, William Simpson, Florence Alice Sitwell, John Sherburne Sleeper, John A. Sloan, Hawley Smart, Alice Prescott Smith, Arthur Cosslett Smith, Elizabeth Oakes Prince Smith, F. Clifford Smith, Gustavus Woodson Smith, Harry James Smith, Horace Smith, Jeanie Oliver Davidson Smith, John Talbot Smith, Thomas Smith, Thorne Smith, William Hawley Smith, Clifford Smyth, E. Louise Smythe, Charles O. Solberg, Charles Somerville, Henry S. Spalding, Phebe Estelle Spalding, Andrew Learmont Spedon, Erle Spencer, M. H. Spielmann, Alfred St. Johnston, F. St. Mars, Clinton H. Stagg. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 45 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "lrshewell-shadows-of-a-great-city": [
+   "livingston robert shewell",
+   "shewell"
+  ],
+  "wsimpson-man-from-mars": [
+   "william simpson",
+   "simpson"
+  ],
+  "fasitwell-daybreak": [
+   "florence alice sitwell",
+   "sitwell"
+  ],
+  "jssleeper-jack-in-the-forecastle": [
+   "john sherburne sleeper",
+   "sleeper"
+  ],
+  "jasloan-reminiscences-of-the-guilford-grays-co-b-27th-n-c-re": [
+   "john a. sloan",
+   "john alexander sloan",
+   "sloan"
+  ],
+  "hsmart-belles-and-ringers": [
+   "hawley smart",
+   "smart"
+  ],
+  "apsmith-montlivet": [
+   "alice prescott smith"
+  ],
+  "acsmith-turquoise-cup-and-the-desert": [
+   "arthur cosslett smith"
+  ],
+  "eopsmith-sagamore-of-saco": [
+   "elizabeth oakes prince smith"
+  ],
+  "fcsmith-lover-in-homespun-and-other-stories": [
+   "f. clifford smith",
+   "frank clifford smith"
+  ],
+  "gwsmith-company-a-corps-of-engineers-u-s-a-1846-48-in-the-me": [
+   "gustavus woodson smith"
+  ],
+  "hjsmith-cape-breton-tales": [
+   "harry james smith"
+  ],
+  "hsmith-interludes-being-two-essays-a-story-and-some-verses": [
+   "horace smith"
+  ],
+  "jodsmith-story-of-zephyr": [
+   "jeanie oliver davidson smith"
+  ],
+  "jtsmith-art-of-disappearing": [
+   "john talbot smith"
+  ],
+  "tsmith-life-of-a-fox-written-by-himself": [
+   "thomas smith"
+  ],
+  "tsmith-biltmore-oswald": [
+   "thorne smith"
+  ],
+  "whsmith-evolution-of-dodd-a-pedagogical-story-giving-his-str": [
+   "william hawley smith"
+  ],
+  "csmyth-gilded-man": [
+   "clifford smyth",
+   "smyth"
+  ],
+  "elsmythe-primary-reader": [
+   "e. louise smythe",
+   "emma louise smythe",
+   "smythe"
+  ],
+  "cosolberg-blind-tim-and-other-christmas-stories-written-for": [
+   "charles o. solberg",
+   "charles orrin solberg",
+   "solberg"
+  ],
+  "csomerville-shriek": [
+   "charles somerville",
+   "somerville"
+  ],
+  "hsspalding-cave-by-the-beech-fork": [
+   "henry s. spalding",
+   "henry stanislaus spalding",
+   "spalding"
+  ],
+  "pespalding-tahquitch-maiden": [
+   "phebe estelle spalding",
+   "spalding"
+  ],
+  "alspedon-black-sealed-letter-or-the-misfortunes-of-a-canadia": [
+   "andrew learmont spedon",
+   "spedon"
+  ],
+  "espencer-contraband": [
+   "erle spencer",
+   "spencer"
+  ],
+  "mhspielmann-rainbow-book": [
+   "m. h. spielmann",
+   "mabel henrietta spielmann",
+   "spielmann"
+  ],
+  "astjohnston-in-quest-of-gold": [
+   "alfred st. johnston"
+  ],
+  "fstmars-way-of-the-wild": [
+   "f. st. mars"
+  ],
+  "chstagg-thornley-colton": [
+   "clinton h. stagg",
+   "clinton holland stagg",
+   "stagg"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "lrshewell-shadows-of-a-great-city": [
+   69224,
+   "The shadows of a great city: A romantic story"
+  ],
+  "wsimpson-man-from-mars": [
+   56979,
+   "The Man from Mars: His Morals, Politics and Religion"
+  ],
+  "fasitwell-daybreak": [
+   20260,
+   "Daybreak: A Story for Girls"
+  ],
+  "jssleeper-jack-in-the-forecastle": [
+   8638,
+   "Jack in the Forecastle; or, Incidents in the Early Life of Hawser Martingale"
+  ],
+  "jasloan-reminiscences-of-the-guilford-grays-co-b-27th-n-c-re": [
+   44124,
+   "Reminiscences of the Guilford Grays, Co. B., 27th N.C. Regiment"
+  ],
+  "hsmart-belles-and-ringers": [
+   20529,
+   "Belles and Ringers"
+  ],
+  "apsmith-montlivet": [
+   16733,
+   "Montlivet"
+  ],
+  "acsmith-turquoise-cup-and-the-desert": [
+   10608,
+   "The Turquoise Cup, and, the Desert"
+  ],
+  "eopsmith-sagamore-of-saco": [
+   56007,
+   "The Sagamore of Saco"
+  ],
+  "fcsmith-lover-in-homespun-and-other-stories": [
+   16860,
+   "A Lover in Homespun And Other Stories"
+  ],
+  "gwsmith-company-a-corps-of-engineers-u-s-a-1846-48-in-the-me": [
+   31113,
+   "Company 'A', corps of engineers, U.S.A., 1846-'48, in the Mexican war"
+  ],
+  "hjsmith-cape-breton-tales": [
+   44257,
+   "Cape Breton Tales"
+  ],
+  "hsmith-interludes-being-two-essays-a-story-and-some-verses": [
+   17065,
+   "Interludes being Two Essays, a Story, and Some Verses"
+  ],
+  "jodsmith-story-of-zephyr": [
+   67255,
+   "The Story of Zephyr: A Christmas Story"
+  ],
+  "jtsmith-art-of-disappearing": [
+   27925,
+   "The Art of Disappearing"
+  ],
+  "tsmith-life-of-a-fox-written-by-himself": [
+   58769,
+   "The Life of a Fox, Written by Himself"
+  ],
+  "tsmith-biltmore-oswald": [
+   16634,
+   "Biltmore Oswald"
+  ],
+  "whsmith-evolution-of-dodd-a-pedagogical-story-giving-his-str": [
+   13398,
+   "The Evolution of \"Dodd\" A pedagogical story giving his struggle for the survival of the fittest, tracing his chances, his changes, and how he came out"
+  ],
+  "csmyth-gilded-man": [
+   42699,
+   "The Gilded Man: A Romance of the Andes"
+  ],
+  "elsmythe-primary-reader": [
+   7841,
+   "A primary reader"
+  ],
+  "cosolberg-blind-tim-and-other-christmas-stories-written-for": [
+   72713,
+   "Blind Tim, and other Christmas stories written for children"
+  ],
+  "csomerville-shriek": [
+   40934,
+   "The Shriek: A Satirical Burlesque"
+  ],
+  "hsspalding-cave-by-the-beech-fork": [
+   36042,
+   "The Cave by the Beech Fork: A Story of Kentucky—1815"
+  ],
+  "pespalding-tahquitch-maiden": [
+   61577,
+   "The Tahquitch Maiden: A Tale of the San Jacintos"
+  ],
+  "alspedon-black-sealed-letter-or-the-misfortunes-of-a-canadia": [
+   18514,
+   "The Black-Sealed Letter Or, The Misfortunes of a Canadian Cockney."
+  ],
+  "espencer-contraband": [
+   67826,
+   "Contraband: A Tale of Modern Smugglers"
+  ],
+  "mhspielmann-rainbow-book": [
+   37455,
+   "The Rainbow Book: Tales of Fun & Fancy"
+  ],
+  "astjohnston-in-quest-of-gold": [
+   42829,
+   "In Quest of Gold; Or, Under the Whanga Falls"
+  ],
+  "fstmars-way-of-the-wild": [
+   17567,
+   "The Way of the Wild"
+  ],
+  "chstagg-thornley-colton": [
+   78643,
+   "Thornley Colton"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lrshewell-shadows-of-a-great-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "livingston robert shewell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wsimpson-man-from-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william simpson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fasitwell-daybreak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence alice sitwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jssleeper-jack-in-the-forecastle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john sherburne sleeper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jasloan-reminiscences-of-the-guilford-grays-co-b-27th-n-c-re": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john a. sloan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmart-belles-and-ringers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hawley smart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apsmith-montlivet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice prescott smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acsmith-turquoise-cup-and-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur cosslett smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eopsmith-sagamore-of-saco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth oakes prince smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcsmith-lover-in-homespun-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. clifford smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwsmith-company-a-corps-of-engineers-u-s-a-1846-48-in-the-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gustavus woodson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjsmith-cape-breton-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry james smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmith-interludes-being-two-essays-a-story-and-some-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horace smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jodsmith-story-of-zephyr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeanie oliver davidson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtsmith-art-of-disappearing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john talbot smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsmith-life-of-a-fox-written-by-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsmith-biltmore-oswald": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thorne smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whsmith-evolution-of-dodd-a-pedagogical-story-giving-his-str": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hawley smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "csmyth-gilded-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clifford smyth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsmythe-primary-reader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. louise smythe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cosolberg-blind-tim-and-other-christmas-stories-written-for": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles o. solberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "csomerville-shriek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles somerville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsspalding-cave-by-the-beech-fork": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry s. spalding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pespalding-tahquitch-maiden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "phebe estelle spalding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alspedon-black-sealed-letter-or-the-misfortunes-of-a-canadia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew learmont spedon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "espencer-contraband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "erle spencer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhspielmann-rainbow-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. h. spielmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "astjohnston-in-quest-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred st. johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fstmars-way-of-the-wild": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. st. mars",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chstagg-thornley-colton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clinton h. stagg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

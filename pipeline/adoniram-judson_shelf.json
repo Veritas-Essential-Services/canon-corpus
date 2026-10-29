@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Adoniram Judson (1788-1850, American Baptist missionary to Burma) for the Word Hoard: his sermon on Christian Baptism preached at Calcutta in 1812 (Boston reprint, 1817, and the fifth American edition revised by him, 1846) and his Letter to the Female Members of Christian Churches in the United States, from Internet Archive scans. Not Katharine Berry Judson, whose shelf is judson. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "judson"
+ ],
+ "_surname": [
+  "judson",
+  "adoniram judson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ajudson-christian-baptism-1817": [
+   "christianbaptism00juds",
+   "Christian Baptism: a Sermon Preached in the Lal Bazar Chapel, Calcutta (Boston: Lincoln & Edmands, 1817)"
+  ],
+  "ajudson-christian-baptism-1846": [
+   "christianbaptis00judsgoog",
+   "Christian Baptism, fifth American edition, revised and enlarged by the author (Boston: Gould, Kendall & Lincoln, 1846)"
+  ],
+  "ajudson-letter-female-members": [
+   "mrjudsonslettert00juds",
+   "Mr. Judson's Letter to the Female Members of Christian Churches in the United States of America (Philadelphia; year garbled, catalogued 1832)"
+  ]
+ },
+ "_alternates": {
+  "ajudson-others": "A Cry from Burmah (1831 letter, no imprint read); the 1913 Judson Day leaflet"
+ },
+ "_excluded": {
+  "ajudson-compilations": "The Judson Offering (many authors); Wayland's Memoir and other lives; his Burmese dictionaries and grammars"
+ },
+ "_rights_checked": {
+  "ajudson-letter-female-members": "title page read: 'Mr. Judson's' only; year's last digit garbled"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ajudson-christian-baptism-1817": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ajudson-christian-baptism-1846": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ajudson-letter-female-members": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Mr. Judson's' only; year's last digit garbled"
+  }
+ }
+}

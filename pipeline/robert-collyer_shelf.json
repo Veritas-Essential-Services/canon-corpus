@@ -1,0 +1,147 @@
+{
+ "_about": "Public-domain Robert Collyer (1823-1912), Yorkshire blacksmith turned Unitarian minister of Unity Church, Chicago, and the Church of the Messiah, New York, for the Word Hoard: The Fear of God, Nature and Life, A Man in Earnest (life of A. H. Conant), The Unity Church Fraternity, The Life that Now Is, The Simple Truth, Talks to Young Men, and Things New and Old. The phrenologist Robert H. Collyer is a different man and is left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 103 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robert collyer",
+  "rev. robert collyer"
+ ],
+ "_surname": [
+  "robert collyer",
+  "rev. robert collyer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "collyer-fear-of-god": [
+   "fearofgodsermonp00coll",
+   "The fear of God : a sermon preached in Unity Church, Chicago on Sunday Morning, November 9, 1862 (Chicago : Tribune Book and Job Steam Printing Office, 1862)"
+  ],
+  "collyer-nature-and-life": [
+   "naturelifesermon00colliala",
+   "Nature and life : sermons (Boston : Horace B. Fuller, 1868)"
+  ],
+  "collyer-man-in-earnest": [
+   "maninearnestlife00coll",
+   "A man in earnest: life of A. H. Conant (Boston, H. B. Fuller; Chicago, J. R. Walsh, 1868)"
+  ],
+  "collyer-unity-fraternity": [
+   "unitychurchfrate00coll",
+   "The Unity Church fraternity : a sermon (Chicago : Robert Fergus' Sons, 1869)"
+  ],
+  "collyer-life-that-now-is": [
+   "lifethatnowisser00colliala",
+   "The life that now is; sermons (Boston : Fuller, 1871)"
+  ],
+  "collyer-simple-truth": [
+   "simpletruth0000robe",
+   "The Simple Truth (Lee and Shepard Publishers, 1877)"
+  ],
+  "collyer-talks-young-men": [
+   "talkstoyoungmenw00coll",
+   "Talks to young men (with asides to young women) (Boston, Lee and Shepard; New York, C. T. Dillingham, 1888)"
+  ],
+  "collyer-things-new-old": [
+   "thingsnewold00colluoft",
+   "Things new and old, sermons (New York, Dutton, 1893)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "collyer-ilkley": "Ilkley, Ancient and Modern (local history, with J. Horsfall Turner)",
+  "collyer-phrenologist": "Robert H. Collyer's phrenology and anaesthesia books (a different man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "collyer-fear-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "collyer-nature-and-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collyer-man-in-earnest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collyer-unity-fraternity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "Public Domain assumed. No evidence of copyright renewal could be found. Contact dcc@library.uiuc.edu for information.",
+   "ia_lending": null
+  },
+  "collyer-life-that-now-is": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "collyer-simple-truth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "collyer-talks-young-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "collyer-things-new-old": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert collyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -145,5 +145,8 @@
  },
  "_rights_checked": {
   "velleius-shipley-res-gestae": "Imprint read: 'First printed 1924, Reprinted 1955, 1961' (OCR '3924'); reprinted, not revised; no year after 1930 elsewhere in the file. Taken as the 1924 text, US public domain."
+ },
+ "_excluded": {
+  "The Roman History of C. Velleius Paterculus (1721, 1722; ECCO)": "PD; the scans found (IA bim_eighteenth-century_the-roman-history-of-c-_velleius-paterculus_1721, _1722) read 0.731 and 0.744, and the 1724 copy serves no text (HTTP 500); refused for OCR quality 2026-10-10. Watson's Bohn Velleius is held"
  }
 }

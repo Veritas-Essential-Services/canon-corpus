@@ -1,0 +1,187 @@
+{
+ "_about": "Samuel Butler (1835-1902), English critic of Darwinism, philosopher of memory and habit, and Homeric heretic. Gutenberg: The Fair Haven (1873); Life and Habit (1878); Evolution, Old and New (1879); God the Known and God the Unknown (1879; book form 1909); Unconscious Memory (1880); Selections from Previous Works, with Remarks on Romanes' Mental Evolution in Animals (1884); Luck, or Cunning, as the Main Means of Organic Modification? (1887); The Authoress of the Odyssey (1897); Essays on Life, Art and Science (1904); The Note-Books of Samuel Butler (1912); The Humour of Homer and Other Essays (1913); Cambridge Pieces; Canterbury Pieces (including Darwin among the Machines). Left out: his translations of Homer (the Odyssey is on the homer shelf, the Iliad is in the build from Perseus); his fiction (Erewhon, Erewhon Revisited, The Way of All Flesh) for the storytellers; his travel and art books (A First Year in Canterbury Settlement, Alps and Sanctuaries, Ex Voto). Not to be confused with the bishop (joseph-butler) or the author of Hudibras. US public domain. No uids minted.",
+ "_author": "Samuel Butler",
+ "_name_words": [
+  "samuel",
+  "butler"
+ ],
+ "_surname": [
+  "samuel butler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sbutler-fair-haven": [
+   6092,
+   "The Fair Haven (1873)"
+  ],
+  "sbutler-life-and-habit": [
+   6138,
+   "Life and Habit (1878)"
+  ],
+  "sbutler-evolution-old-and-new": [
+   23427,
+   "Evolution, Old and New (1879)"
+  ],
+  "sbutler-god-the-known": [
+   2513,
+   "God the Known and God the Unknown (1879; book form 1909)"
+  ],
+  "sbutler-unconscious-memory": [
+   6605,
+   "Unconscious Memory (1880)"
+  ],
+  "sbutler-selections-romanes": [
+   19610,
+   "Selections from Previous Works, with Remarks on Romanes' Mental Evolution in Animals (1884)"
+  ],
+  "sbutler-luck-or-cunning": [
+   4967,
+   "Luck, or Cunning, as the Main Means of Organic Modification? (1887)"
+  ],
+  "sbutler-authoress-of-the-odyssey": [
+   49324,
+   "The Authoress of the Odyssey (1897)"
+  ],
+  "sbutler-essays-on-life-art-science": [
+   3461,
+   "Essays on Life, Art and Science (1904)"
+  ],
+  "sbutler-note-books": [
+   6173,
+   "The Note-Books of Samuel Butler (1912)"
+  ],
+  "sbutler-humour-of-homer": [
+   12651,
+   "The Humour of Homer and Other Essays (1913)"
+  ],
+  "sbutler-cambridge-pieces": [
+   3278,
+   "Cambridge Pieces"
+  ],
+  "sbutler-canterbury-pieces": [
+   3279,
+   "Canterbury Pieces (including Darwin among the Machines)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sbutler-fair-haven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-life-and-habit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-evolution-old-and-new": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-god-the-known": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-unconscious-memory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-selections-romanes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-luck-or-cunning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-authoress-of-the-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-essays-on-life-art-science": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-note-books": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-humour-of-homer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-cambridge-pieces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbutler-canterbury-pieces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

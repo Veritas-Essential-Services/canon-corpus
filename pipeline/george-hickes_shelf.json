@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain George Hickes (1642-1715), Dean of Worcester, deprived in 1690 and consecrated a nonjuring bishop, for the Word Hoard: the Two Treatises on the Christian Priesthood and the Episcopal Order (Library of Anglo-Catholic Theology, 1847, three volumes) and his controversial works in early printings, from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hickes"
+ ],
+ "_surname": [
+  "george hickes",
+  "hickes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hickes-two-treatises-1": [
+   "twotreatisesonch01hick",
+   "Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 1 (Oxford : J.H. Parker, 1847)"
+  ],
+  "hickes-two-treatises-2": [
+   "twotreatisesonch02hick",
+   "Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 2 (Oxford : J.H. Parker, 1847)"
+  ],
+  "hickes-two-treatises-3": [
+   "twotreatisesonch03hick",
+   "Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 3 (Oxford : J.H. Parker, 1847)"
+  ],
+  "hickes-jovian-1683": [
+   "bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683",
+   "Jovian. Or, an answer to Julian the apostate.  1683 (catalogued 1683)"
+  ],
+  "hickes-spirit-of-enthusiasm-1709": [
+   "10774209bsb",
+   "The spirit of Enthusiasm exorcised: In a sermon with two discourses ... the first \"the history of Montanisme\" by Dr. Lee ... the other \"the new pretenders\" ... by N. Spinckes (catalogued 1709)"
+  ],
+  "hickes-controversial-discourses-1727": [
+   "acollectioncont00hickgoog",
+   "A collection of controversial discourses by G. Hickes and a popish priest (catalogued 1727)"
+  ]
+ },
+ "_alternates": {
+  "hickes-copies": "Other scans of the 1847 Two Treatises (Toronto, Google) and the 1707 and 1711 printings; other copies of each early work"
+ },
+ "_excluded": {
+  "hickes-other": "The Thesaurus of the northern languages (1703-1705, Latin philology); Devotions in the Ancient Way of Offices (1846), John Austin's book as Hickes reformed it; Fenelon's Instructions for the Education of a Daughter and the Gentleman Instructed, which he translated or prefaced"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "hickes-infant-baptism-1683": "The case of infant baptism in five questions (London : Printed for Tho. Basset [etc.], 1683) [caseofinfantbapt00hick]: title page (OCR) names no author; the attribution is the catalogue's",
+  "hickes-apologetical-vindication-1687": "An apologetical vindication of the church of England: ...  1687 (catalogued 1687) [bim_early-english-books-1641-1700_an-apologetical-vindicat_hickes-george_1687]: title page (OCR) names no author; the attribution is the catalogue's",
+  "hickes-discourses-burnet-tillotson-1695": "Some Discourses Upon Dr. Burnet and Dr. Tillotson: Occasioned by the Late Funeral Sermon of the (catalogued 1695) [somediscoursesu00hickgoog]: title page (OCR) names no author ('Printed in the Year MDCXCV'); the attribution is the catalogue's"
+ },
+ "_translators": {},
+ "_checks": {
+  "hickes-two-treatises-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hickes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hickes-two-treatises-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hickes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hickes-two-treatises-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hickes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hickes-jovian-1683": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hickes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1683",
+   "ia_date": "1683",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hickes-spirit-of-enthusiasm-1709": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hickes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1709",
+   "ia_date": "1709",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hickes-controversial-discourses-1727": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hickes",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

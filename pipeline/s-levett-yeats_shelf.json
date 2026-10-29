@@ -1,0 +1,99 @@
+{
+ "_about": "S. Levett Yeats: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "S. Levett Yeats",
+ "_name_words": [
+  "levett",
+  "sidney",
+  "yeats"
+ ],
+ "_surname": [
+  "s. levett yeats",
+  "sidney levett yeats"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "slevettyeats-orrain": [
+   20192,
+   "Orrain: A Romance"
+  ],
+  "slevettyeats-honour-of-savelli": [
+   38250,
+   "The Honour of Savelli: A Romance"
+  ],
+  "slevettyeats-heart-of-denise-and-other-tales": [
+   38284,
+   "The Heart of Denise, and Other Tales"
+  ],
+  "slevettyeats-galahad-of-the-creeks": [
+   38306,
+   "A Galahad of the Creeks; The Widow Lamport"
+  ],
+  "slevettyeats-chevalier-dauriac": [
+   38323,
+   "The Chevalier d'Auriac"
+  ],
+  "slevettyeats-traitors-way": [
+   68914,
+   "The traitor's way"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "slevettyeats-orrain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. levett yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "slevettyeats-honour-of-savelli": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. levett yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "slevettyeats-heart-of-denise-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. levett yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "slevettyeats-galahad-of-the-creeks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. levett yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "slevettyeats-chevalier-dauriac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. levett yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "slevettyeats-traitors-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. levett yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

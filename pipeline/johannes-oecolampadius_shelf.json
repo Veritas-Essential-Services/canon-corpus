@@ -1,0 +1,43 @@
+{
+ "_about": "Public-domain Johannes Oecolampadius (1482-1531), the reformer of Basel, for the Word Hoard: A Sermon of Jhon Oecolampadius to yong men and maydens, in a Tudor English translation (catalogued 1548), from an Internet Archive scan. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "oecolampadius",
+  "lampadius"
+ ],
+ "_surname": [
+  "oecolampadius",
+  "oeco-lampadius",
+  "ecolampadius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oecolampadius-sermon-young-1548": [
+   "bim_early-english-books-1475-1640_a-sermon-to-young-men-an_ecolampadius_1548",
+   "A Sermon of Jhon Oecolampadius to yong men and maydens (catalogued 1548)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "oecolampadius-sermon-young-1548": "title page read: fragmentary (\"Deco-lampadins\" in the OCR); the dedication to Walter Segrave is signed by the translator, whose name reads \"John Core\" in the OCR and may be garbled; catalogued 1548"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "oecolampadius-sermon-young-1548": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oecolampadius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1548",
+   "ia_date": "1548",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: fragmentary (\"Deco-lampadins\" in the OCR); the dedication to Walter Segrave is signed by the translator, whose name reads \"John Core\" in the OCR and may be garbled; catalogued 1548"
+  }
+ }
+}

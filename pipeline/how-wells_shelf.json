@@ -1,0 +1,31 @@
+{
+ "_about": "Walter Wybergh How (1861-1932) and Joseph Wells (1855-1929). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A Commentary on Herodotus, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "wells",
+  "wybergh"
+ ],
+ "_surname": [
+  "w. w. how",
+  "walter wybergh how",
+  "how, w. w"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "how-wells-commentary-herodotus": [
+   24146,
+   "A Commentary on Herodotus"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "how-wells-commentary-herodotus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. how",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

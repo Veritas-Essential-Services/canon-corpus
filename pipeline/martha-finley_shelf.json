@@ -1,5 +1,5 @@
 {
- "_about": "Martha Finley's first three Elsie books: Elsie Dinsmore (undated in the text), Holidays at Roselands (copyright 1868, this printing 1898) and Elsie's Girlhood (1872). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Martha Finley's first three Elsie books: Elsie Dinsmore (undated in the text), Holidays at Roselands (copyright 1868, this printing 1898) and Elsie's Girlhood (1872). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Martha Finley at Gutenberg was added (35 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto).",
  "_author": "Martha Finley",
  "_name_words": [
   "finley"
@@ -41,6 +41,158 @@
      }
     ]
    }
+  ],
+  "finley-two-elsies-a-sequel-to-elsie-at-nantucket": [
+   13379,
+   "The Two Elsies A Sequel to Elsie at Nantucket"
+  ],
+  "finley-elsie-at-nantucket": [
+   14379,
+   "Elsie at Nantucket"
+  ],
+  "finley-elsies-kith-and-kin": [
+   14488,
+   "Elsie's Kith and Kin"
+  ],
+  "finley-christmas-with-grandma-elsie": [
+   14534,
+   "Christmas with Grandma Elsie"
+  ],
+  "finley-elsies-motherhood": [
+   14566,
+   "Elsie's Motherhood",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:[- ][A-Za-z]+)*\\.$"
+     }
+    ],
+    "start": "Chapter First\\.$",
+    "front": true
+   }
+  ],
+  "finley-elsies-womanhood": [
+   14874,
+   "Elsie's Womanhood"
+  ],
+  "finley-elsies-children": [
+   14875,
+   "Elsie's children"
+  ],
+  "finley-grandmother-elsie": [
+   14883,
+   "Grandmother Elsie"
+  ],
+  "finley-elsies-new-relations-what-they-did-and-how-they-fared": [
+   14909,
+   "Elsie's New Relations What They Did and How They Fared at Ion; A Sequel to Grandmother Elsie"
+  ],
+  "finley-elsie-at-the-worlds-fair": [
+   14910,
+   "Elsie at the World's Fair"
+  ],
+  "finley-elsie-at-home": [
+   17496,
+   "Elsie at Home"
+  ],
+  "finley-elsies-vacation-and-after-events": [
+   18058,
+   "Elsie's Vacation and After Events"
+  ],
+  "finley-elsie-in-the-south": [
+   32103,
+   "Elsie in the South"
+  ],
+  "finley-elsie-on-the-hudson": [
+   32163,
+   "Elsie on the Hudson"
+  ],
+  "finley-elsie-at-viamede": [
+   32225,
+   "Elsie at Viamede"
+  ],
+  "finley-elsies-widowhood-a-sequel-to-elsies-children": [
+   38353,
+   "Elsie's Widowhood A Sequel to Elsie's Children"
+  ],
+  "finley-mildreds-new-daughter": [
+   38978,
+   "Mildred's New Daughter"
+  ],
+  "finley-mildred-keith": [
+   42870,
+   "Mildred Keith"
+  ],
+  "finley-mildred-and-elsie": [
+   45651,
+   "Mildred and Elsie"
+  ],
+  "finley-elsie-and-her-namesakes": [
+   45804,
+   "Elsie and Her Namesakes"
+  ],
+  "finley-elsie-yachting-with-the-raymonds": [
+   45944,
+   "Elsie Yachting with the Raymonds"
+  ],
+  "finley-mildred-at-home": [
+   45963,
+   "Mildred at Home: With Something About Her Relatives and Friends. A sequel to Mildred's married life."
+  ],
+  "finley-elsies-journey-on-inland-waters": [
+   46010,
+   "Elsie's Journey on Inland Waters"
+  ],
+  "finley-elsies-young-folks-in-peace-and-war": [
+   46188,
+   "Elsie's Young Folks in Peace and War"
+  ],
+  "finley-thorn-in-the-nest": [
+   46250,
+   "The Thorn in the Nest"
+  ],
+  "finley-ella-clinton": [
+   46317,
+   "Ella Clinton; or, By Their Fruits Ye Shall Know Them"
+  ],
+  "finley-tragedy-of-wild-river-valley": [
+   46437,
+   "The Tragedy of Wild River Valley"
+  ],
+  "finley-mildred-at-roselands-a-sequel-to-mildred-keith": [
+   46537,
+   "Mildred at Roselands A Sequel to Mildred Keith"
+  ],
+  "finley-elsies-winter-trip": [
+   46540,
+   "Elsie's Winter Trip"
+  ],
+  "finley-signing-the-contract-and-what-it-cost": [
+   48249,
+   "Signing the Contract, and What It Cost",
+   {
+    "contents_only": true
+   }
+  ],
+  "finley-elsie-at-ion": [
+   48356,
+   "Elsie at Ion"
+  ],
+  "finley-elsie-and-her-loved-ones": [
+   48357,
+   "Elsie and Her Loved Ones"
+  ],
+  "finley-mildreds-married-life-and-a-winter-with-elsie-dinsmor": [
+   67058,
+   "Mildred's Married Life, and a Winter with Elsie Dinsmore A sequel to Mildred and Elsie"
+  ],
+  "finley-elsie-and-the-raymonds": [
+   67184,
+   "Elsie and the Raymonds"
+  ],
+  "finley-elsies-friends-at-woodburn": [
+   67309,
+   "Elsie's Friends at Woodburn"
   ]
  },
  "internet_archive": {},
@@ -48,7 +200,7 @@
  "_checks": {
   "finley-elsie-dinsmore": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "martha finley",
    "identity": "ok",
@@ -57,7 +209,7 @@
   },
   "finley-holidays-at-roselands": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "martha finley",
    "identity": "ok",
@@ -66,7 +218,322 @@
   },
   "finley-elsies-girlhood": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-two-elsies-a-sequel-to-elsie-at-nantucket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-at-nantucket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-kith-and-kin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-christmas-with-grandma-elsie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-motherhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-womanhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-grandmother-elsie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-new-relations-what-they-did-and-how-they-fared": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-at-the-worlds-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-vacation-and-after-events": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-in-the-south": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-on-the-hudson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-at-viamede": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-widowhood-a-sequel-to-elsies-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-mildreds-new-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-mildred-keith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-mildred-and-elsie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-and-her-namesakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-yachting-with-the-raymonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-mildred-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-journey-on-inland-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-young-folks-in-peace-and-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-thorn-in-the-nest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-ella-clinton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-tragedy-of-wild-river-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-mildred-at-roselands-a-sequel-to-mildred-keith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-winter-trip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-signing-the-contract-and-what-it-cost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-at-ion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-and-her-loved-ones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-mildreds-married-life-and-a-winter-with-elsie-dinsmor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsie-and-the-raymonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-friends-at-woodburn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "martha finley",
    "identity": "ok",

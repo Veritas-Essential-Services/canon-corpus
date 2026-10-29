@@ -1,0 +1,145 @@
+{
+ "_about": "Public-domain Francis of Assisi (1181/2-1226) in English for the Word Hoard: his own writings in Paschal Robinson's translation (Philadelphia, 1906), in the version by a Religious of the Order (Washbourne, catalogued 1882), in Constance de la Warr's (about 1907) and Reginald Balfour's Seraphic Keepsake, and the Little Flowers, the fourteenth-century Franciscan collection about him, in Abby Langdon Alger's translation (Boston, 1887) and in the Upton version revised by Thomas Okey (London, 1899), all from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis"
+ ],
+ "_surname": [
+  "francis of assisi",
+  "saint francis",
+  "st. francis",
+  "s. francis",
+  "st francis"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "francis-writings-robinson": [
+   "writingsofsaintf00fran",
+   "The Writings of Saint Francis of Assisi, newly translated by Father Paschal Robinson (Philadelphia: Dolphin Press, MCMVI)"
+  ],
+  "francis-works-religious": [
+   "SeraphicFatherStFrancisOfAssisi",
+   "Works of the Seraphic Father St. Francis of Assisi, translated by a Religious of the Order (London: R. Washbourne; catalogued 1882)"
+  ],
+  "francis-writings-de-la-warr": [
+   "writingsofstfran00fran",
+   "The Writings of St Francis of Assisi, by Constance, Countess de la Warr (London: Burns & Oates; catalogued 1907)"
+  ],
+  "francis-seraphic-keepsake": [
+   "seraphickeepsake00fran",
+   "The Seraphic Keepsake, written for Brother Leo by Saint Francis, set forth in English by Reginald Balfour (London: Burns & Oates; catalogued 1905)"
+  ],
+  "francis-little-flowers-alger": [
+   "littleflowersofs02alge",
+   "The Little Flowers of Saint Francis of Assisi (a fourteenth-century Franciscan collection about him), tr. Abby Langdon Alger (Boston: Roberts Brothers, 1887)"
+  ],
+  "francis-little-flowers-okey": [
+   "littleflowersofs00unse",
+   "The Little Flowers of Saint Francis (about him), the Upton translation revised by Thomas Okey, illustrated by Paul Woodroffe (London: Kegan Paul, MDCCCXCIX)"
+  ]
+ },
+ "_alternates": {
+  "francis-canticle-sun": "The Canticle of the Sun (New York: Duffield, 1907), a leaflet with a garbled title page",
+  "francis-copies": "Other copies of Robinson, de la Warr and Balfour",
+  "francis-little-flowers-copies": "Alger 1898, Okey 1905, T. W. Arnold (Chatto & Windus, 1908), Everyman (1910-1927)"
+ },
+ "_excluded": {
+  "francis-about": "Lives and legends about him: Celano, the Three Companions, the Mirror of Perfection, Sabatier, Chesterton, Chalippe",
+  "francis-ccel-flowers": "CCEL ugolino/flowers: Heritage Press, Hudleston revision, post-1929",
+  "francis-late": "Peter Pauper and Burns Oates & Washbourne printings after 1929"
+ },
+ "_rights_checked": {
+  "francis-works-religious": "title page read: 'translated by a Religious of the Order', imprimatur of William Bernard, Bishop of Birmingham; imprint not legible; catalogued London, Washbourne, 1882",
+  "francis-writings-de-la-warr": "title page read: Burns & Oates, printed at the Arden Press, Letchworth; no year; catalogued 1907",
+  "francis-seraphic-keepsake": "title page read: Burns & Oates and Benziger; no year; catalogued 1905"
+ },
+ "_pending": {
+  "francis-fullerton": "Lady Georgiana Fullerton's Little Flowers (1864): not found"
+ },
+ "_translators": {
+  "francis-writings-robinson": "robinson",
+  "francis-writings-de-la-warr": "warr",
+  "francis-seraphic-keepsake": "balfour",
+  "francis-little-flowers-alger": "alger"
+ },
+ "_checks": {
+  "francis-writings-robinson": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis of assisi",
+   "translator_claimed": "robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "francis-works-religious": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis of assisi",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'translated by a Religious of the Order', imprimatur of William Bernard, Bishop of Birmingham; imprint not legible; catalogued London, Washbourne, 1882"
+  },
+  "francis-writings-de-la-warr": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis of assisi",
+   "translator_claimed": "warr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Burns & Oates, printed at the Arden Press, Letchworth; no year; catalogued 1907"
+  },
+  "francis-seraphic-keepsake": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis of assisi",
+   "translator_claimed": "balfour",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Burns & Oates and Benziger; no year; catalogued 1905"
+  },
+  "francis-little-flowers-alger": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis of assisi",
+   "translator_claimed": "alger",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "francis-little-flowers-okey": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis of assisi",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

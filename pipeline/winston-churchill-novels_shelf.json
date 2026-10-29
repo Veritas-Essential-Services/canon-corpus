@@ -1,0 +1,227 @@
+{
+ "_about": "Winston Churchill's (1871-1947, the American novelist) historical and political novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Winston Churchill",
+ "_name_words": [
+  "churchill"
+ ],
+ "_surname": [
+  "winston churchill"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wchurchill-crossing": [
+   388,
+   "The Crossing"
+  ],
+  "wchurchill-dwelling-place-of-light-complete": [
+   3649,
+   "The Dwelling Place of Light — Complete"
+  ],
+  "wchurchill-mr-crewes-career-complete": [
+   3684,
+   "Mr. Crewe's Career — Complete"
+  ],
+  "wchurchill-a-far-country-complete": [
+   3739,
+   "A Far Country — Complete"
+  ],
+  "wchurchill-coniston-complete": [
+   3766,
+   "Coniston — Complete"
+  ],
+  "wchurchill-inside-of-the-cup-complete": [
+   5364,
+   "The Inside of the Cup — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "wchurchill-richard-carvel-complete": [
+   5373,
+   "Richard Carvel — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "wchurchill-a-modern-chronicle-complete": [
+   5382,
+   "A Modern Chronicle — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "wchurchill-celebrity-complete": [
+   5387,
+   "The Celebrity, Complete"
+  ],
+  "wchurchill-crisis-complete": [
+   5396,
+   "The Crisis — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "wchurchill-dr-jonathan": [
+   5397,
+   "Dr. Jonathan"
+  ],
+  "wchurchill-a-traveller-in-war-time": [
+   5398,
+   "A Traveller in War-Time"
+  ],
+  "wchurchill-an-essay-on-the-american-contribution-and-the-dem": [
+   5399,
+   "An essay on the American contribution and the democratic idea"
+  ],
+  "wchurchill-project-gutenberg-complete-works-of-winston-churc": [
+   5400,
+   "Project Gutenberg Complete Works of Winston Churchill"
+  ],
+  "wchurchill-mr-keegans-elopement": [
+   67957,
+   "Mr. Keegan's Elopement"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-28822": "PG 28822: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 3646, 3647, 3648, 3681, 3682, 3683, 3736, 3737, 3738, 3762, 3763, 3764, 3765, 5356, 5357, 5358, 5359, 5360, 5361, 5362, 5363, 5365, 5366, 5367, 5368, 5369, 5370, 5371, 5372, 5374, 5375, 5376, 5377, 5378, 5379, 5380, 5381, 5383, 5384, 5385, 5386, 5388, 5389, 5390, 5391, 5392, 5393, 5394, 5395: the complete edition of each is on the shelf instead."
+ },
+ "_checks": {
+  "wchurchill-crossing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-dwelling-place-of-light-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-mr-crewes-career-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-a-far-country-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-coniston-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-inside-of-the-cup-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-richard-carvel-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-a-modern-chronicle-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-celebrity-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-crisis-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-dr-jonathan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-a-traveller-in-war-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-an-essay-on-the-american-contribution-and-the-dem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-project-gutenberg-complete-works-of-winston-churc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wchurchill-mr-keegans-elopement": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "winston churchill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

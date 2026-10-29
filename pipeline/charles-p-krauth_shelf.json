@@ -1,0 +1,168 @@
+{
+ "_about": "Public-domain Charles Porterfield Krauth (1823-1883, Lutheran, University of Pennsylvania) for the Word Hoard: The Conservative Reformation and its Theology (1871), his translation of the Augsburg Confession with introduction and notes (1868), Christian Liberty (1860), Infant Baptism and Infant Salvation in the Calvinistic System (1874), A Chronicle of the Augsburg Confession (1878) and four sermons (1855-1865), raw Internet Archive OCR. Not his father Charles Philip Krauth. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "krauth"
+ ],
+ "_surname": [
+  "charles p. krauth",
+  "c. p. krauth",
+  "charles porterfield krauth",
+  "krauth, charles p.",
+  "krauth, charles porterfield",
+  "charles p. krauth, d.d.",
+  "rev. charles p. krauth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "krauth-conservative-reformation": [
+   "conservativer00krau",
+   "The Conservative Reformation and its Theology (Philadelphia: J. B. Lippincott, 1871)"
+  ],
+  "krauth-augsburg-confession": [
+   "augsburgconfessi00krau",
+   "The Augsburg Confession, Literally Translated from the Original Latin, with Introduction, Notes and Index (Philadelphia: Lutheran Bookstore, 1868)"
+  ],
+  "krauth-christian-liberty": [
+   "christianliberty00krau",
+   "Christian Liberty in its Relation to the Usages of the Evangelical Lutheran Church (Philadelphia: Henry B. Ashmead, 1860)"
+  ],
+  "krauth-infant-baptism": [
+   "infantbaptisminf00krau",
+   "Infant Baptism and Infant Salvation in the Calvinistic System: A Review of Dr. Hodge's Systematic Theology (Philadelphia: Lutheran Book Store, 1874)"
+  ],
+  "krauth-chronicle-augsburg": [
+   "chronicleofaugsb00krau",
+   "A Chronicle of the Augsburg Confession, bound with H. E. Jacobs, A Question of Latinity (Philadelphia: J. Fred'k Smith, 1878)"
+  ],
+  "krauth-old-lutheran-church": [
+   "discoursesuggest00krau",
+   "A Discourse Suggested by the Burning of the Old Lutheran Church, Winchester, Va. (Winchester: Republican Office; title-page year garbled, catalogued 1855)"
+  ],
+  "krauth-former-days": [
+   "formerdaysthesed00krau",
+   "The Former Days and These Days, a Thanksgiving discourse (Pittsburgh: W. S. Haven, 1856)"
+  ],
+  "krauth-altar-threshing-floor": [
+   "altaronthreshing00krau",
+   "The Altar on the Threshing-Floor, a Thanksgiving discourse (Pittsburgh: W. S. Haven, MDCCCLVII)"
+  ],
+  "krauth-two-pageants": [
+   "twopageantsdisco00krau",
+   "The Two Pageants, a discourse (Pittsburgh: W. S. Haven, 1865)"
+  ]
+ },
+ "_alternates": {
+  "krauth-tholuck-john": "His translation of Tholuck's Commentary on the Gospel of John (Philadelphia: Smith, English, 1859; IA commentaryongosp00thol): belongs with the august-tholuck shelf if wanted",
+  "krauth-philosophy": "Philosophy he translated or edited: Ulrici's Strauss as a Philosophical Thinker (1874), Berkeley's Principles (1874), Fleming's Vocabulary of Philosophy (c. 1860) and A Vocabulary of the Philosophical Sciences (1878)",
+  "krauth-conservative-copies": "Other printings of The Conservative Reformation (1871, 1872, 1875, and the 1899 General Council edition)"
+ },
+ "_excluded": {
+  "krauth-father": "Works of his father Charles Philip Krauth (Evangelical Review vol. 4, the Henry Clay discourse of 1852, Human Life 1850)",
+  "krauth-spaeth": "Adolph Spaeth's biography of him (1898-1909): by another hand",
+  "krauth-later": "Post-1913 and undated later printings of The Conservative Reformation",
+  "krauth-namesakes": "a later Charles Philip Krauth; Harriet Reynolds Krauth's Church Book"
+ },
+ "_checks": {
+  "krauth-conservative-reformation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "krauth-augsburg-confession": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "krauth-christian-liberty": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "krauth-infant-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "krauth-chronicle-augsburg": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "krauth-old-lutheran-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "krauth-former-days": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "krauth-altar-threshing-floor": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "krauth-two-pageants": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles p. krauth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

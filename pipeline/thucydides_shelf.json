@@ -56,12 +56,12 @@
   ]
  },
  "_cross_ref": {
-  "thucydides-pelo": "Adler shelf: PG 7142, which is Richard CRAWLEY's translation; the Adler shelf labels it 'tr. Jowett', which is wrong (PG 7142's own header names Crawley)"
+  "thucydides-pelo": "Adler shelf: PG 7142, which is Richard CRAWLEY's translation; the Adler shelf labels it 'tr. Jowett', which is wrong (PG 7142's own header names Crawley)",
+  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": "same translator as thucydides-hobbes-1841 on this shelf, but not the same text: Perseus keys Molesworth's 1843 English Works (Hobbes's own text), while the 1841 Oxford edition is 'chiefly from' Hobbes, corrected. Both kept as two witnesses of one translation."
  },
  "_excluded": {
   "pg26245": "Crawley, duplicate of PG 7142",
-  "pg9074": "Stories from Thucydides (Havell): an adaptation",
-  "C. F. Smith, Loeb (1919-23)": "now held: thucydides-smith-v1..v3, and the Perseus text (thucydides-perseus-smith-history-of-the-peloponnesian-war)"
+  "pg9074": "Stories from Thucydides (Havell): an adaptation"
  },
  "perseus": {
   "thucydides-perseus-smith-history-of-the-peloponnesian-war": [

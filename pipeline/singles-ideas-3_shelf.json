@@ -1,0 +1,1609 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: a third shelf of one-off translations of philosophy, law, religion and politics: Machiavelli's The Prince (Luigi Ricci, 1903), Castiglione's Book of the Courtier (Opdycke, 1901), Maimonides's Guide for the Perplexed (Friedländer), Bergson's Time and Free Will (Pogson, 1910), Laplace's Philosophical Essay on Probabilities, Valla's Treatise on the Donation of Constantine (Coleman, 1922), Descartes's Six Metaphysical Meditations (Molyneux, 1680), Avicenna's Compendium on the Soul, Averroes, al-Ghazzali, de Boer's History of Philosophy in Islam, Asín Palacios's Islam and the Divine Comedy, Glanville's treatise on English law (Beames), Scott's Visigothic Code, Grotius's Freedom of the Seas, Callières on negotiating with princes, Napoleon's Maxims of War, Vives's Tudor school dialogues, Petrarch's letters (Robinson and Rolfe), Winckelmann (Fuseli, 1765), Fontenelle's Plurality of Worlds, Rohde's Psyche, Fustel de Coulanges, Solovyov's Justification of the Good, Lévy-Bruhl's Comte, Chamfort, Nostradamus (Garencières, 1672), Fabre d'Olivet's Golden Verses of Pythagoras, Éliphas Lévi's History of Magic (Waite), the Book of Filial Duty, Fechner, Hilty, Ellen Key, Stekel, Flournoy, Compayré, Charles Gide and Rist, Zetkin, Pannekoek and Bonger. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 46); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. blaize",
+  "alexander frederick whyte",
+  "ange blaize",
+  "arthur edward waite",
+  "bhikkhu sīlāchāra",
+  "christopher bush coleman",
+  "daniel b. vermilye",
+  "edward abbott van dyck",
+  "edward r. jones",
+  "elizabeth gunning",
+  "foster watson",
+  "francis greenwood peabody",
+  "francis maro",
+  "frank lubecki pogson",
+  "frederick lincoln emory",
+  "frederick wilson truscott",
+  "g. c. d'aguilar",
+  "george charles d'aguilar",
+  "harold sunderland",
+  "henry fuseli",
+  "henry p. horton",
+  "henry pomeroy horton",
+  "henry winchester rolfe",
+  "henry wright",
+  "ivan chên",
+  "j. fitzgerald",
+  "james harvey robinson",
+  "john beames",
+  "john cotton dana",
+  "joseph fitzgerald",
+  "joseph parkyns macmahon",
+  "kathleen mary de beaumont klein",
+  "leonard eckstein opdycke",
+  "luigi ricci",
+  "m. friedländer",
+  "margaret ashley",
+  "mary c. wadsworth",
+  "melvin brandow",
+  "michael friedländer",
+  "miss gunning",
+  "muhammad jamil al-rahman",
+  "nathalie a. duddington",
+  "nathan weiser",
+  "nawab ali",
+  "nayán louise redfield",
+  "r. richards",
+  "ralph e. oesper",
+  "ralph edward oesper",
+  "ralph van deman magoffin",
+  "robert richards",
+  "s. p. scott",
+  "samuel a. tannenbaum",
+  "samuel aaron tannenbaum",
+  "samuel parsons scott",
+  "syed nawab ali",
+  "theophilus garencières",
+  "timothy flint",
+  "van dyck",
+  "w. b. hillis",
+  "william bernard hillis",
+  "william g. hutchison",
+  "william harold payne",
+  "william molyneux",
+  "william smart"
+ ],
+ "_surname": [
+  "a. blaize",
+  "alexander frederick whyte",
+  "ange blaize",
+  "arthur edward waite",
+  "bhikkhu sīlāchāra",
+  "christopher bush coleman",
+  "daniel b. vermilye",
+  "edward abbott van dyck",
+  "edward r. jones",
+  "elizabeth gunning",
+  "foster watson",
+  "francis greenwood peabody",
+  "francis maro",
+  "frank lubecki pogson",
+  "frederick lincoln emory",
+  "frederick wilson truscott",
+  "g. c. d'aguilar",
+  "george charles d'aguilar",
+  "harold sunderland",
+  "henry fuseli",
+  "henry p. horton",
+  "henry pomeroy horton",
+  "henry winchester rolfe",
+  "henry wright",
+  "ivan chên",
+  "j. fitzgerald",
+  "james harvey robinson",
+  "john beames",
+  "john cotton dana",
+  "joseph fitzgerald",
+  "joseph parkyns macmahon",
+  "kathleen mary de beaumont klein",
+  "leonard eckstein opdycke",
+  "luigi ricci",
+  "m. friedländer",
+  "margaret ashley",
+  "mary c. wadsworth",
+  "melvin brandow",
+  "michael friedländer",
+  "miss gunning",
+  "muhammad jamil al-rahman",
+  "nathalie a. duddington",
+  "nathan weiser",
+  "nawab ali",
+  "nayán louise redfield",
+  "r. richards",
+  "ralph e. oesper",
+  "ralph edward oesper",
+  "ralph van deman magoffin",
+  "robert richards",
+  "s. p. scott",
+  "samuel a. tannenbaum",
+  "samuel aaron tannenbaum",
+  "samuel parsons scott",
+  "syed nawab ali",
+  "theophilus garencières",
+  "timothy flint",
+  "van dyck",
+  "w. b. hillis",
+  "william bernard hillis",
+  "william g. hutchison",
+  "william harold payne",
+  "william molyneux",
+  "william smart"
+ ],
+ "_surname_by_slug": {
+  "si3-48776": [
+   "henry winchester rolfe",
+   "james harvey robinson",
+   "robinson",
+   "rolfe"
+  ],
+  "si3-50750": [
+   "d'aguilar",
+   "g. c. d'aguilar",
+   "george charles d'aguilar"
+  ],
+  "si3-56286": [
+   "foster watson",
+   "watson"
+  ],
+  "si3-56517": [
+   "kathleen mary de beaumont klein",
+   "klein"
+  ],
+  "si3-56852": [
+   "frank lubecki pogson",
+   "pogson"
+  ],
+  "si3-56869": [
+   "flint",
+   "timothy flint"
+  ],
+  "si3-57037": [
+   "luigi ricci",
+   "ricci"
+  ],
+  "si3-57272": [
+   "samuel a. tannenbaum",
+   "samuel aaron tannenbaum",
+   "tannenbaum"
+  ],
+  "si3-57283": [
+   "francis maro",
+   "maro"
+  ],
+  "si3-57474": [
+   "a. blaize",
+   "ange blaize",
+   "blaize"
+  ],
+  "si3-57500": [
+   "r. richards",
+   "richards",
+   "robert richards",
+   "smart",
+   "william smart"
+  ],
+  "si3-58186": [
+   "edward abbott van dyck",
+   "van dyck"
+  ],
+  "si3-58881": [
+   "emory",
+   "frederick lincoln emory",
+   "frederick wilson truscott",
+   "truscott"
+  ],
+  "si3-61317": [
+   "fuseli",
+   "henry fuseli"
+  ],
+  "si3-62376": [
+   "payne",
+   "william harold payne"
+  ],
+  "si3-63092": [
+   "daniel b. vermilye",
+   "vermilye"
+  ],
+  "si3-65708": [
+   "muhammad jamil al-rahman"
+  ],
+  "si3-66123": [
+   "henry wright",
+   "wright"
+  ],
+  "si3-66555": [
+   "hillis",
+   "w. b. hillis",
+   "william bernard hillis"
+  ],
+  "si3-66559": [
+   "elizabeth gunning",
+   "gunning",
+   "miss gunning"
+  ],
+  "si3-66566": [
+   "edward r. jones",
+   "jones"
+  ],
+  "si3-67558": [
+   "ashley",
+   "margaret ashley"
+  ],
+  "si3-67799": [
+   "leonard eckstein opdycke",
+   "opdycke"
+  ],
+  "si3-68817": [
+   "francis greenwood peabody",
+   "peabody"
+  ],
+  "si3-68907": [
+   "garencières",
+   "theophilus garencières"
+  ],
+  "si3-68987": [
+   "alexander frederick whyte",
+   "whyte"
+  ],
+  "si3-69174": [
+   "nayán louise redfield",
+   "redfield"
+  ],
+  "si3-69632": [
+   "hutchison",
+   "william g. hutchison"
+  ],
+  "si3-70033": [
+   "arthur edward waite",
+   "waite"
+  ],
+  "si3-70091": [
+   "molyneux",
+   "william molyneux"
+  ],
+  "si3-70092": [
+   "christopher bush coleman",
+   "coleman"
+  ],
+  "si3-71142": [
+   "beames",
+   "john beames"
+  ],
+  "si3-71282": [
+   "henry p. horton",
+   "henry pomeroy horton",
+   "horton"
+  ],
+  "si3-72095": [
+   "nathan weiser",
+   "weiser"
+  ],
+  "si3-72551": [
+   "s. p. scott",
+   "samuel parsons scott",
+   "scott"
+  ],
+  "si3-73140": [
+   "nawab ali",
+   "syed nawab ali"
+  ],
+  "si3-73584": [
+   "friedländer",
+   "m. friedländer",
+   "michael friedländer"
+  ],
+  "si3-73958": [
+   "joseph parkyns macmahon",
+   "macmahon"
+  ],
+  "si3-74480": [
+   "mary c. wadsworth",
+   "wadsworth"
+  ],
+  "si3-75878": [
+   "chên",
+   "ivan chên"
+  ],
+  "si3-75962": [
+   "magoffin",
+   "ralph van deman magoffin"
+  ],
+  "si3-77146": [
+   "bhikkhu sīlāchāra",
+   "sīlāchāra"
+  ],
+  "si3-77541": [
+   "fitzgerald",
+   "j. fitzgerald",
+   "joseph fitzgerald"
+  ],
+  "si3-77789": [
+   "harold sunderland",
+   "sunderland"
+  ],
+  "si3-78256": [
+   "dana",
+   "john cotton dana"
+  ],
+  "si3-78988": [
+   "oesper",
+   "ralph e. oesper",
+   "ralph edward oesper"
+  ],
+  "si3-79715": [
+   "duddington",
+   "nathalie a. duddington"
+  ],
+  "si3-71785": [
+   "brandow",
+   "melvin brandow"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "si3-48776": [
+   48776,
+   "Petrarch, the First Modern Scholar and Man of Letters A Selection from His Correspondence with Boccaccio and Other Friends, Designed to Illustrate the Beginnings of the Renaissance"
+  ],
+  "si3-50750": [
+   50750,
+   "The Officer's Manual: Napoleon's Maxims of War"
+  ],
+  "si3-56286": [
+   56286,
+   "Tudor school-boy life: the dialogues of Juan Luis Vives"
+  ],
+  "si3-56517": [
+   56517,
+   "The Philosophy of Auguste Comte"
+  ],
+  "si3-56852": [
+   56852,
+   "Time and Free Will: An Essay on the Immediate Data of Consciousness"
+  ],
+  "si3-56869": [
+   56869,
+   "The Art of Being Happy In a Series of Letters from a Father to His Children: with Observations and Comments"
+  ],
+  "si3-57037": [
+   57037,
+   "The Prince"
+  ],
+  "si3-57272": [
+   57272,
+   "The Depths of the Soul: Psycho-Analytical Studies"
+  ],
+  "si3-57283": [
+   57283,
+   "The Century of the Child"
+  ],
+  "si3-57474": [
+   57474,
+   "Social-Democracy and Woman Suffrage A Paper Read by Clara Zetkin to the Conference of Women Belonging to the Social-Democratic Party Held at Mannheim, Before the Opening of the Annual Congress of the "
+  ],
+  "si3-57500": [
+   57500,
+   "A history of economic doctrines"
+  ],
+  "si3-58186": [
+   58186,
+   "A Compendium on the Soul"
+  ],
+  "si3-58881": [
+   58881,
+   "A Philosophical Essay on Probabilities"
+  ],
+  "si3-61317": [
+   61317,
+   "Reflections on the painting and sculpture of the Greeks"
+  ],
+  "si3-62376": [
+   62376,
+   "The History of Pedagogy"
+  ],
+  "si3-63092": [
+   63092,
+   "From India to the planet Mars: A study of a case of somnambulism with glossolalia"
+  ],
+  "si3-65708": [
+   65708,
+   "The Philosophy and Theology of Averroes"
+  ],
+  "si3-66123": [
+   66123,
+   "Pictures of the Socialistic Future (freely adapted from Bebel)"
+  ],
+  "si3-66555": [
+   66555,
+   "Psyche: The Cult of Souls and Belief in Immortality among the Greeks"
+  ],
+  "si3-66559": [
+   66559,
+   "Conversations on the Plurality of Worlds"
+  ],
+  "si3-66566": [
+   66566,
+   "The History of Philosophy in Islam"
+  ],
+  "si3-67558": [
+   67558,
+   "The Origin of Property in Land With an introductory chapter on the English manor by W. J. Ashley"
+  ],
+  "si3-67799": [
+   67799,
+   "The Book of the Courtier"
+  ],
+  "si3-68817": [
+   68817,
+   "Happiness: Essays on the meaning of life"
+  ],
+  "si3-68907": [
+   68907,
+   "The true prophecies or prognostications of Michael Nostradamus, physician to Henry II. Francis II. and Charles IX. Kings of France, and one of the best astronomers that ever were. A work full of curio"
+  ],
+  "si3-68987": [
+   68987,
+   "On the manner of negotiating with princes On the uses of diplomacy; the choice of ministers and envoys; and the personal qualities necessary for success in missions abroad"
+  ],
+  "si3-69174": [
+   69174,
+   "The golden verses of Pythagoras"
+  ],
+  "si3-69632": [
+   69632,
+   "The cynic's breviary: Maxims and anecdotes from Nicolas de Chamfort"
+  ],
+  "si3-70033": [
+   70033,
+   "The history of magic"
+  ],
+  "si3-70091": [
+   70091,
+   "Six metaphysical meditations"
+  ],
+  "si3-70092": [
+   70092,
+   "The treatise of Lorenzo Valla on the Donation of Constantine"
+  ],
+  "si3-71142": [
+   71142,
+   "A translation of Glanville"
+  ],
+  "si3-71282": [
+   71282,
+   "Criminality and economic conditions"
+  ],
+  "si3-72095": [
+   72095,
+   "Marxism and Darwinism"
+  ],
+  "si3-72551": [
+   72551,
+   "The Visigothic code"
+  ],
+  "si3-73140": [
+   73140,
+   "Some religious and moral teachings of Al-Ghazzali"
+  ],
+  "si3-73584": [
+   73584,
+   "The guide for the perplexed"
+  ],
+  "si3-73958": [
+   73958,
+   "Thoughts on the mechanism of societies"
+  ],
+  "si3-74480": [
+   74480,
+   "The little book of life after death"
+  ],
+  "si3-75878": [
+   75878,
+   "The book of filial duty"
+  ],
+  "si3-75962": [
+   75962,
+   "The freedom of the seas"
+  ],
+  "si3-77146": [
+   77146,
+   "Buddhism & science"
+  ],
+  "si3-77541": [
+   77541,
+   "Mysteria"
+  ],
+  "si3-77789": [
+   77789,
+   "Islam and the Divine comedy"
+  ],
+  "si3-78256": [
+   78256,
+   "A brief outline of the history of libraries"
+  ],
+  "si3-78988": [
+   78988,
+   "How to become mentally superior"
+  ],
+  "si3-79715": [
+   79715,
+   "The justification of the good"
+  ],
+  "si3-71785": [
+   71785,
+   "The steps of life: further essays on happiness"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-ideas-3-anon-the-visigothic-code": {
+   "source": "si3-72551",
+   "of": "the Visigothic kings (the Forum Judicum)",
+   "work": "The Visigothic code",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. P. Scott",
+   "scan_edition": "Project Gutenberg 72551 (clean text)"
+  },
+  "singles-ideas-3-averroes-the-philosophy-and-theology-of-averroes": {
+   "source": "si3-65708",
+   "of": "Averroës",
+   "work": "The Philosophy and Theology of Averroes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Muhammad Jamil al-Rahman",
+   "scan_edition": "Project Gutenberg 65708 (clean text)"
+  },
+  "singles-ideas-3-avicenna-a-compendium-on-the-soul": {
+   "source": "si3-58186",
+   "of": "Avicenna",
+   "work": "A Compendium on the Soul",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward Abbott Van Dyck",
+   "scan_edition": "Project Gutenberg 58186 (clean text)"
+  },
+  "singles-ideas-3-bergson-time-and-free-will": {
+   "source": "si3-56852",
+   "of": "Henri Bergson",
+   "work": "Time and Free Will: An Essay on the Immediate Data of Consciousness",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frank Lubecki Pogson",
+   "scan_edition": "Project Gutenberg 56852 (clean text)"
+  },
+  "singles-ideas-3-boer-the-history-of-philosophy-in-islam": {
+   "source": "si3-66566",
+   "of": "T. J. de Boer",
+   "work": "The History of Philosophy in Islam",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward R. Jones",
+   "scan_edition": "Project Gutenberg 66566 (clean text)"
+  },
+  "singles-ideas-3-bonger-criminality-and-economic-conditions": {
+   "source": "si3-71282",
+   "of": "Willem Adriaan Bonger",
+   "work": "Criminality and economic conditions",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry P. Horton",
+   "scan_edition": "Project Gutenberg 71282 (clean text)"
+  },
+  "singles-ideas-3-callieres-on-the-manner-of-negotiating-with-prince": {
+   "source": "si3-68987",
+   "of": "Monsieur de Callières",
+   "work": "On the manner of negotiating with princes On the uses of diplomacy; the choice of ministers and envoys; and the personal qualities necessary for success in missions abroad",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alexander Frederick Whyte",
+   "scan_edition": "Project Gutenberg 68987 (clean text)"
+  },
+  "singles-ideas-3-casaux-thoughts-on-the-mechanism-of-societies": {
+   "source": "si3-73958",
+   "of": "Charles Casaux",
+   "work": "Thoughts on the mechanism of societies",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Parkyns Macmahon",
+   "scan_edition": "Project Gutenberg 73958 (clean text)"
+  },
+  "singles-ideas-3-castiglione-the-book-of-the-courtier": {
+   "source": "si3-67799",
+   "of": "Baldassarre Castiglione",
+   "work": "The Book of the Courtier",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Leonard Eckstein Opdycke",
+   "scan_edition": "Project Gutenberg 67799 (clean text)"
+  },
+  "singles-ideas-3-chamfort-the-cynic-s-breviary": {
+   "source": "si3-69632",
+   "of": "Sébastien-Roch-Nicolas Chamfort",
+   "work": "The cynic's breviary: Maxims and anecdotes from Nicolas de Chamfort",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William G. Hutchison",
+   "scan_edition": "Project Gutenberg 69632 (clean text)"
+  },
+  "singles-ideas-3-chatelier-how-to-become-mentally-superior": {
+   "source": "si3-78988",
+   "of": "Henri Le Chatelier",
+   "work": "How to become mentally superior",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ralph E. Oesper",
+   "scan_edition": "Project Gutenberg 78988 (clean text)"
+  },
+  "singles-ideas-3-compayre-the-history-of-pedagogy": {
+   "source": "si3-62376",
+   "of": "Gabriel Compayré",
+   "work": "The History of Pedagogy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Harold Payne",
+   "scan_edition": "Project Gutenberg 62376 (clean text)"
+  },
+  "singles-ideas-3-confucius-the-book-of-filial-duty": {
+   "source": "si3-75878",
+   "of": "Confucius and Zengzi",
+   "work": "The book of filial duty",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ivan Chên",
+   "scan_edition": "Project Gutenberg 75878 (clean text)"
+  },
+  "singles-ideas-3-coulanges-the-origin-of-property-in-land-with-an-i": {
+   "source": "si3-67558",
+   "of": "Fustel de Coulanges",
+   "work": "The Origin of Property in Land With an introductory chapter on the English manor by W. J. Ashley",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Margaret Ashley",
+   "scan_edition": "Project Gutenberg 67558 (clean text)"
+  },
+  "singles-ideas-3-d-olivet-the-golden-verses-of-pythagoras": {
+   "source": "si3-69174",
+   "of": "Antoine Fabre d'Olivet and Pythagoras",
+   "work": "The golden verses of Pythagoras",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Nayán Louise Redfield",
+   "scan_edition": "Project Gutenberg 69174 (clean text)"
+  },
+  "singles-ideas-3-dahlke-buddhism-science": {
+   "source": "si3-77146",
+   "of": "Paul Dahlke",
+   "work": "Buddhism & science",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Bhikkhu Sīlāchāra",
+   "scan_edition": "Project Gutenberg 77146 (clean text)"
+  },
+  "singles-ideas-3-descartes-six-metaphysical-meditations": {
+   "source": "si3-70091",
+   "of": "René Descartes",
+   "work": "Six metaphysical meditations",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Molyneux",
+   "scan_edition": "Project Gutenberg 70091 (clean text)"
+  },
+  "singles-ideas-3-droz-the-art-of-being-happy-in-a-series-of-le": {
+   "source": "si3-56869",
+   "of": "Joseph Droz",
+   "work": "The Art of Being Happy In a Series of Letters from a Father to His Children: with Observations and Comments",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Timothy Flint",
+   "scan_edition": "Project Gutenberg 56869 (clean text)"
+  },
+  "singles-ideas-3-fechner-the-little-book-of-life-after-death": {
+   "source": "si3-74480",
+   "of": "Gustav Theodor Fechner",
+   "work": "The little book of life after death",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary C. Wadsworth",
+   "scan_edition": "Project Gutenberg 74480 (clean text)"
+  },
+  "singles-ideas-3-flournoy-from-india-to-the-planet-mars": {
+   "source": "si3-63092",
+   "of": "Théodore Flournoy",
+   "work": "From India to the planet Mars: A study of a case of somnambulism with glossolalia",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Daniel B. Vermilye",
+   "scan_edition": "Project Gutenberg 63092 (clean text)"
+  },
+  "singles-ideas-3-fontenelle-conversations-on-the-plurality-of-worlds": {
+   "source": "si3-66559",
+   "of": "M. de Fontenelle",
+   "work": "Conversations on the Plurality of Worlds",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Miss Gunning",
+   "scan_edition": "Project Gutenberg 66559 (clean text)"
+  },
+  "singles-ideas-3-ghazzali-some-religious-and-moral-teachings-of-al": {
+   "source": "si3-73140",
+   "of": "Ghazzali",
+   "work": "Some religious and moral teachings of Al-Ghazzali",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Syed Nawab Ali",
+   "scan_edition": "Project Gutenberg 73140 (clean text)"
+  },
+  "singles-ideas-3-gide-a-history-of-economic-doctrines": {
+   "source": "si3-57500",
+   "of": "Charles Gide and Charles Rist",
+   "work": "A history of economic doctrines",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. Richards and William Smart",
+   "scan_edition": "Project Gutenberg 57500 (clean text)"
+  },
+  "singles-ideas-3-glanville-a-translation-of-glanville": {
+   "source": "si3-71142",
+   "of": "Ranulf de Glanville",
+   "work": "A translation of Glanville",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Beames",
+   "scan_edition": "Project Gutenberg 71142 (clean text)"
+  },
+  "singles-ideas-3-grotius-the-freedom-of-the-seas": {
+   "source": "si3-75962",
+   "of": "Hugo Grotius",
+   "work": "The freedom of the seas",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ralph Van Deman Magoffin",
+   "scan_edition": "Project Gutenberg 75962 (clean text)"
+  },
+  "singles-ideas-3-hilty-happiness": {
+   "source": "si3-68817",
+   "of": "Karl Hilty",
+   "work": "Happiness: Essays on the meaning of life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Francis Greenwood Peabody",
+   "scan_edition": "Project Gutenberg 68817 (clean text)"
+  },
+  "singles-ideas-3-hilty-the-steps-of-life": {
+   "source": "si3-71785",
+   "of": "Karl Hilty",
+   "work": "The steps of life: further essays on happiness",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Melvin Brandow",
+   "scan_edition": "Project Gutenberg 71785 (clean text)"
+  },
+  "singles-ideas-3-i-the-officer-s-manual": {
+   "source": "si3-50750",
+   "of": "Emperor of the French Napoleon I",
+   "work": "The Officer's Manual: Napoleon's Maxims of War",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. C. D'Aguilar",
+   "scan_edition": "Project Gutenberg 50750 (clean text)"
+  },
+  "singles-ideas-3-key-the-century-of-the-child": {
+   "source": "si3-57283",
+   "of": "Ellen Key",
+   "work": "The Century of the Child",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Francis Maro",
+   "scan_edition": "Project Gutenberg 57283 (clean text)"
+  },
+  "singles-ideas-3-laplace-a-philosophical-essay-on-probabilities": {
+   "source": "si3-58881",
+   "of": "Pierre Simon Laplace",
+   "work": "A Philosophical Essay on Probabilities",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frederick Lincoln Emory and Frederick Wilson Truscott",
+   "scan_edition": "Project Gutenberg 58881 (clean text)"
+  },
+  "singles-ideas-3-levi-the-history-of-magic": {
+   "source": "si3-70033",
+   "of": "Éliphas Lévi",
+   "work": "The history of magic",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Arthur Edward Waite",
+   "scan_edition": "Project Gutenberg 70033 (clean text)"
+  },
+  "singles-ideas-3-levy-bruhl-the-philosophy-of-auguste-comte": {
+   "source": "si3-56517",
+   "of": "Lucien Lévy-Bruhl",
+   "work": "The Philosophy of Auguste Comte",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Kathleen Mary de Beaumont Klein",
+   "scan_edition": "Project Gutenberg 56517 (clean text)"
+  },
+  "singles-ideas-3-lipsius-a-brief-outline-of-the-history-of-librar": {
+   "source": "si3-78256",
+   "of": "Justus Lipsius",
+   "work": "A brief outline of the history of libraries",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Cotton Dana",
+   "scan_edition": "Project Gutenberg 78256 (clean text)"
+  },
+  "singles-ideas-3-machiavelli-the-prince": {
+   "source": "si3-57037",
+   "of": "Niccolò Machiavelli",
+   "work": "The Prince",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Luigi Ricci",
+   "scan_edition": "Project Gutenberg 57037 (clean text)",
+   "note": "A different translation of The Prince from any held elsewhere (Ricci, 1903); a separate witness."
+  },
+  "singles-ideas-3-maimonides-the-guide-for-the-perplexed": {
+   "source": "si3-73584",
+   "of": "Moses Maimonides",
+   "work": "The guide for the perplexed",
+   "translated": "(see the Gutenberg header)",
+   "translator": "M. Friedländer",
+   "scan_edition": "Project Gutenberg 73584 (clean text)"
+  },
+  "singles-ideas-3-nostradamus-the-true-prophecies-or-prognostications": {
+   "source": "si3-68907",
+   "of": "Nostradamus",
+   "work": "The true prophecies or prognostications of Michael Nostradamus, physician to Henry II. Francis II. and Charles IX. Kings of France, and one of the best astronomers that ever were. A work full of curio",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Theophilus Garencières",
+   "scan_edition": "Project Gutenberg 68907 (clean text)"
+  },
+  "singles-ideas-3-palacios-islam-and-the-divine-comedy": {
+   "source": "si3-77789",
+   "of": "Miguel Asín Palacios",
+   "work": "Islam and the Divine comedy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Harold Sunderland",
+   "scan_edition": "Project Gutenberg 77789 (clean text)"
+  },
+  "singles-ideas-3-pannekoek-marxism-and-darwinism": {
+   "source": "si3-72095",
+   "of": "Anton Pannekoek",
+   "work": "Marxism and Darwinism",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Nathan Weiser",
+   "scan_edition": "Project Gutenberg 72095 (clean text)"
+  },
+  "singles-ideas-3-petrarca-petrarch-the-first-modern-scholar-and-ma": {
+   "source": "si3-48776",
+   "of": "Francesco Petrarca",
+   "work": "Petrarch, the First Modern Scholar and Man of Letters A Selection from His Correspondence with Boccaccio and Other Friends, Designed to Illustrate the Beginnings of the Renaissance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Harvey Robinson and Henry Winchester Rolfe",
+   "scan_edition": "Project Gutenberg 48776 (clean text)"
+  },
+  "singles-ideas-3-rhyn-mysteria": {
+   "source": "si3-77541",
+   "of": "Otto Henne am Rhyn",
+   "work": "Mysteria",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Fitzgerald",
+   "scan_edition": "Project Gutenberg 77541 (clean text)"
+  },
+  "singles-ideas-3-richter-pictures-of-the-socialistic-future-freel": {
+   "source": "si3-66123",
+   "of": "Eugen Richter",
+   "work": "Pictures of the Socialistic Future (freely adapted from Bebel)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Wright",
+   "scan_edition": "Project Gutenberg 66123 (clean text)"
+  },
+  "singles-ideas-3-rohde-psyche": {
+   "source": "si3-66555",
+   "of": "Erwin Rohde",
+   "work": "Psyche: The Cult of Souls and Belief in Immortality among the Greeks",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. B. Hillis",
+   "scan_edition": "Project Gutenberg 66555 (clean text)"
+  },
+  "singles-ideas-3-solovyof-the-justification-of-the-good": {
+   "source": "si3-79715",
+   "of": "Vladimir Solovyof",
+   "work": "The justification of the good",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Nathalie A. Duddington",
+   "scan_edition": "Project Gutenberg 79715 (clean text)"
+  },
+  "singles-ideas-3-stekel-the-depths-of-the-soul": {
+   "source": "si3-57272",
+   "of": "Wilhelm Stekel",
+   "work": "The Depths of the Soul: Psycho-Analytical Studies",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Samuel A. Tannenbaum",
+   "scan_edition": "Project Gutenberg 57272 (clean text)"
+  },
+  "singles-ideas-3-valla-the-treatise-of-lorenzo-valla-on-the-don": {
+   "source": "si3-70092",
+   "of": "Lorenzo Valla",
+   "work": "The treatise of Lorenzo Valla on the Donation of Constantine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Christopher Bush Coleman",
+   "scan_edition": "Project Gutenberg 70092 (clean text)"
+  },
+  "singles-ideas-3-vives-tudor-school-boy-life": {
+   "source": "si3-56286",
+   "of": "Juan Luis Vives",
+   "work": "Tudor school-boy life: the dialogues of Juan Luis Vives",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Foster Watson",
+   "scan_edition": "Project Gutenberg 56286 (clean text)"
+  },
+  "singles-ideas-3-winckelmann-reflections-on-the-painting-and-sculptur": {
+   "source": "si3-61317",
+   "of": "Johann Joachim Winckelmann",
+   "work": "Reflections on the painting and sculpture of the Greeks",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Fuseli",
+   "scan_edition": "Project Gutenberg 61317 (clean text)"
+  },
+  "singles-ideas-3-zetkin-social-democracy-and-woman-suffrage-a-pa": {
+   "source": "si3-57474",
+   "of": "Klara Zetkin",
+   "work": "Social-Democracy and Woman Suffrage A Paper Read by Clara Zetkin to the Conference of Women Belonging to the Social-Democratic Party Held at Mannheim, Before the Opening of the Annual Congress of the ",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. Blaize",
+   "scan_edition": "Project Gutenberg 57474 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "si3-48776": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry winchester rolfe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Harvey Robinson; Henry Winchester Rolfe"
+  },
+  "si3-50750": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d'aguilar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir G. C. D'Aguilar"
+  },
+  "si3-56286": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "foster watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Foster Watson"
+  },
+  "si3-56517": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kathleen mary de beaumont klein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kathleen Mary de Beaumont Klein"
+  },
+  "si3-56852": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frank lubecki pogson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frank Lubecki Pogson"
+  },
+  "si3-56869": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "flint",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Timothy Flint"
+  },
+  "si3-57037": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "luigi ricci",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Luigi Ricci"
+  },
+  "si3-57272": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "samuel a. tannenbaum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel A. Tannenbaum"
+  },
+  "si3-57283": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis maro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Maro"
+  },
+  "si3-57474": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. blaize",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Blaize"
+  },
+  "si3-57500": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. richards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Richards; William Smart"
+  },
+  "si3-58186": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward abbott van dyck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Abbott Van Dyck"
+  },
+  "si3-58881": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Lincoln Emory; Frederick Wilson Truscott"
+  },
+  "si3-61317": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fuseli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Fuseli"
+  },
+  "si3-62376": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "payne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Harold Payne"
+  },
+  "si3-63092": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel b. vermilye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel B. Vermilye"
+  },
+  "si3-65708": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "muhammad jamil al-rahman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Muhammad Jamil al-Rahman"
+  },
+  "si3-66123": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Wright"
+  },
+  "si3-66555": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hillis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. B. Hillis"
+  },
+  "si3-66559": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth gunning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Miss Gunning"
+  },
+  "si3-66566": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward r. jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward R. Jones"
+  },
+  "si3-67558": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ashley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret Ashley"
+  },
+  "si3-67799": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leonard eckstein opdycke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leonard Eckstein Opdycke"
+  },
+  "si3-68817": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis greenwood peabody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Greenwood Peabody"
+  },
+  "si3-68907": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "garencières",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theophilus Garencières"
+  },
+  "si3-68987": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander frederick whyte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Frederick Whyte"
+  },
+  "si3-69174": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nayán louise redfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nayán Louise Redfield"
+  },
+  "si3-69632": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hutchison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William G. Hutchison"
+  },
+  "si3-70033": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur edward waite",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Edward Waite"
+  },
+  "si3-70091": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "molyneux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Molyneux"
+  },
+  "si3-70092": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christopher bush coleman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christopher Bush Coleman"
+  },
+  "si3-71142": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beames",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Beames"
+  },
+  "si3-71282": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry p. horton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry P. Horton"
+  },
+  "si3-72095": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan weiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Weiser"
+  },
+  "si3-72551": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. p. scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. P. Scott"
+  },
+  "si3-73140": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nawab ali",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Syed Nawab Ali"
+  },
+  "si3-73584": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "friedländer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. Friedländer"
+  },
+  "si3-73958": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parkyns macmahon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Parkyns Macmahon"
+  },
+  "si3-74480": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary c. wadsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary C. Wadsworth"
+  },
+  "si3-75878": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chên",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ivan Chên"
+  },
+  "si3-75962": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magoffin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ralph Van Deman Magoffin"
+  },
+  "si3-77146": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bhikkhu sīlāchāra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bhikkhu Sīlāchāra"
+  },
+  "si3-77541": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fitzgerald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Fitzgerald"
+  },
+  "si3-77789": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harold sunderland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Harold Sunderland"
+  },
+  "si3-78256": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Cotton Dana"
+  },
+  "si3-78988": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oesper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ralph E. Oesper"
+  },
+  "si3-79715": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "duddington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Natalie Duddington"
+  },
+  "si3-71785": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brandow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Melvin Brandow"
+  }
+ },
+ "_verified": {
+  "si3-48776": {
+   "pg": 48776,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Harvey Robinson"
+  },
+  "si3-50750": {
+   "pg": 50750,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir G. C. D'Aguilar"
+  },
+  "si3-56286": {
+   "pg": 56286,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Foster Watson"
+  },
+  "si3-56517": {
+   "pg": 56517,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kathleen Mary de Beaumont Klein"
+  },
+  "si3-56852": {
+   "pg": 56852,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frank Lubecki Pogson"
+  },
+  "si3-56869": {
+   "pg": 56869,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Timothy Flint"
+  },
+  "si3-57037": {
+   "pg": 57037,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Luigi Ricci"
+  },
+  "si3-57272": {
+   "pg": 57272,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Samuel A. Tannenbaum"
+  },
+  "si3-57283": {
+   "pg": 57283,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Francis Maro"
+  },
+  "si3-57474": {
+   "pg": 57474,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Blaize"
+  },
+  "si3-57500": {
+   "pg": 57500,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Richards"
+  },
+  "si3-58186": {
+   "pg": 58186,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Abbott Van Dyck"
+  },
+  "si3-58881": {
+   "pg": 58881,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick Lincoln Emory"
+  },
+  "si3-61317": {
+   "pg": 61317,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Fuseli"
+  },
+  "si3-62376": {
+   "pg": 62376,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Harold Payne"
+  },
+  "si3-63092": {
+   "pg": 63092,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel B. Vermilye"
+  },
+  "si3-65708": {
+   "pg": 65708,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Muhammad Jamil al-Rahman"
+  },
+  "si3-66123": {
+   "pg": 66123,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Wright"
+  },
+  "si3-66555": {
+   "pg": 66555,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. B. Hillis"
+  },
+  "si3-66559": {
+   "pg": 66559,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Miss Gunning"
+  },
+  "si3-66566": {
+   "pg": 66566,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward R. Jones"
+  },
+  "si3-67558": {
+   "pg": 67558,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret Ashley"
+  },
+  "si3-67799": {
+   "pg": 67799,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leonard Eckstein Opdycke"
+  },
+  "si3-68817": {
+   "pg": 68817,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Francis Greenwood Peabody"
+  },
+  "si3-68907": {
+   "pg": 68907,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Theophilus Garencières"
+  },
+  "si3-68987": {
+   "pg": 68987,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Frederick Whyte"
+  },
+  "si3-69174": {
+   "pg": 69174,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nayán Louise Redfield"
+  },
+  "si3-69632": {
+   "pg": 69632,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William G. Hutchison"
+  },
+  "si3-70033": {
+   "pg": 70033,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Edward Waite"
+  },
+  "si3-70091": {
+   "pg": 70091,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Molyneux"
+  },
+  "si3-70092": {
+   "pg": 70092,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christopher Bush Coleman"
+  },
+  "si3-71142": {
+   "pg": 71142,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Beames"
+  },
+  "si3-71282": {
+   "pg": 71282,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry P. Horton"
+  },
+  "si3-72095": {
+   "pg": 72095,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Weiser"
+  },
+  "si3-72551": {
+   "pg": 72551,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. P. Scott"
+  },
+  "si3-73140": {
+   "pg": 73140,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Syed Nawab Ali"
+  },
+  "si3-73584": {
+   "pg": 73584,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. Friedländer"
+  },
+  "si3-73958": {
+   "pg": 73958,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Parkyns Macmahon"
+  },
+  "si3-74480": {
+   "pg": 74480,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary C. Wadsworth"
+  },
+  "si3-75878": {
+   "pg": 75878,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ivan Chên"
+  },
+  "si3-75962": {
+   "pg": 75962,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ralph Van Deman Magoffin"
+  },
+  "si3-77146": {
+   "pg": 77146,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bhikkhu Sīlāchāra"
+  },
+  "si3-77541": {
+   "pg": 77541,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Fitzgerald"
+  },
+  "si3-77789": {
+   "pg": 77789,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Harold Sunderland"
+  },
+  "si3-78256": {
+   "pg": 78256,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Cotton Dana"
+  },
+  "si3-78988": {
+   "pg": 78988,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ralph E. Oesper"
+  },
+  "si3-79715": {
+   "pg": 79715,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Natalie Duddington"
+  },
+  "si3-71785": {
+   "pg": 71785,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Melvin Brandow"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

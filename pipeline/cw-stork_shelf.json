@@ -1,0 +1,225 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); Heidenstam's The Charles Men, Part I (American-Scandinavian Foundation, 1920), added in round 90. The Anthology of Swedish Lyrics (1917), also added in round 90, waits in _pending since round 103: its only scan is a library preservation photocopy. Round 117 (2026-10-17, vetoable) added Fröding's Selected Poems (Macmillan, 1916). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted. Round 126 (2026-10-23, vetoable) added The Charles Men, Part II (1920) and The Swedes and Their Chieftains (1925).",
+ "_name_words": [
+  "charles wharton stork",
+  "c. w. stork"
+ ],
+ "_surname": [
+  "charles wharton stork",
+  "c. w. stork"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cws-64808": [
+   64808,
+   "Modern Swedish Masterpieces: Short Stories"
+  ],
+  "cws-78363": [
+   78363,
+   "Martin Birck's youth"
+  ]
+ },
+ "internet_archive": {
+  "cws-charles-men-1": [
+   "charlesmen01heid",
+   "Charles Men, Part I (1920)",
+   "charlesmen01heid_djvu.txt"
+  ],
+  "cws-froding-selected-poems": [
+   "selectedpoems00frodiala",
+   "Selected Poems (1916)"
+  ],
+  "cws-charles-men-2": [
+   "charlesmenv20000vern",
+   "Charles Men, Part II (1920)"
+  ],
+  "cws-heidenstam-swedes-and-chieftains": [
+   "swedestheirchief0000heid",
+   "The Swedes and Their Chieftains (1925)"
+  ]
+ },
+ "titles": {
+  "cw-stork-soderberg-martin-birck-s-youth": {
+   "source": "cws-78363",
+   "of": "Hjalmar Söderberg",
+   "work": "Martin Birck's youth",
+   "translated": "1923-1930 (see the Gutenberg header)",
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "Project Gutenberg 78363 (clean text)",
+   "note": "Harper's first edition: 'Copyright 1930, by Harper & Brothers'. A 1930 US publication entered the US public domain on 1 January 2026."
+  },
+  "cw-stork-stork-modern-swedish-masterpieces-short-storie": {
+   "source": "cws-64808",
+   "of": "Charles Wharton Stork",
+   "work": "Modern Swedish Masterpieces: Short Stories",
+   "translated": "1923-1930 (see the Gutenberg header)",
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "Project Gutenberg 64808 (clean text)"
+  },
+  "cw-stork-heidenstam-charles-men-1": {
+   "source": "cws-charles-men-1",
+   "of": "Verner von Heidenstam",
+   "work": "The Charles Men (Karolinerna), Part I",
+   "translated": 1920,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "Scandinavian Classics XV, American-Scandinavian Foundation, New York 1920; archive.org scan",
+   "note": "Part II (Scandinavian Classics XVI) was not found as a scan."
+  },
+  "cw-stork-froding-selected-poems": {
+   "source": "cws-froding-selected-poems",
+   "of": "Gustaf Fröding",
+   "work": "Selected Poems",
+   "translated": 1916,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "The Macmillan Company, New York; copyright 1916, published March 1916; UCLA scan"
+  },
+  "cw-stork-heidenstam-charles-men-2": {
+   "source": "cws-charles-men-2",
+   "of": "Verner von Heidenstam",
+   "work": "The Charles Men (Karolinerna), Part II",
+   "translated": 1920,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "The American-Scandinavian Foundation, New York 1920 (Scandinavian Classics); archive.org scan"
+  },
+  "cw-stork-heidenstam-the-swedes-and-their-chieftains": {
+   "source": "cws-heidenstam-swedes-and-chieftains",
+   "of": "Verner von Heidenstam",
+   "work": "The Swedes and Their Chieftains",
+   "translated": 1925,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "The American-Scandinavian Foundation, New York 1925; archive.org scan"
+  }
+ },
+ "_pending": {
+  "cw-stork-anthology-of-swedish-lyrics": "Stork's Anthology of Swedish Lyrics (American-Scandinavian Foundation, 1917; IA scan): the only scan found (IA anthologyswedis00storgoog) is a library preservation photocopy on acid-free paper by Acme Bookbinding, Charlestown, Massachusetts (ANSI/NISO Z39.48-1992, so 1992 or later), so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'stork' alone is left out as a common word.",
+ "_checks": {
+  "cws-64808": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-78363": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-charles-men-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cws-froding-selected-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cws-charles-men-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cws-heidenstam-swedes-and-chieftains": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "cws-64808": {
+   "pg": 64808,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-78363": {
+   "pg": 78363,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-charles-men-1": {
+   "ia": "charlesmen01heid",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1887,
+    1888,
+    1889,
+    1890,
+    1895,
+    1920
+   ],
+   "post_1930_years_in_front_15k": [
+    1965
+   ],
+   "post_1930_examined": "Examined in round 90: 'DllU?,i 1965' is a garbled library stamp below the 1920 copyright line, not an imprint."
+  },
+  "cws-froding-selected-poems": {
+   "ia": "selectedpoems00frodiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1860,
+    1880,
+    1891,
+    1897,
+    1911,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cws-charles-men-2": {
+   "ia": "charlesmenv20000vern",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cws-heidenstam-swedes-and-chieftains": {
+   "ia": "swedestheirchief0000heid",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1859,
+    1898,
+    1909,
+    1920,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

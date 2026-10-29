@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain Willis Duke Weatherford (1875-1970), YMCA student secretary for the South and founder of the Blue Ridge assembly, for the Word Hoard: Fundamental Religious Principles in Browning's Poetry, Negro Life in the South, Introducing Men to Christ, Personal Elements in Religious Life, and Christian Life a Normal Experience. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 102 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "willis d. weatherford",
+  "willis duke weatherford",
+  "w. d. weatherford",
+  "weatherford"
+ ],
+ "_surname": [
+  "willis d. weatherford",
+  "willis duke weatherford",
+  "w. d. weatherford",
+  "weatherford"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "weatherford-browning": [
+   "fundamentalreli00weatgoog",
+   "Fundamental Religious Principles in Browning's Poetry (Smith & Lamar, agents , Publishing house of the M. E. church, South, 1907)"
+  ],
+  "weatherford-negro-life": [
+   "negrolifesouth00weatrich",
+   "Negro life in the South, present conditions and needs (New York, Young Men's Christian Association Press, 1910)"
+  ],
+  "weatherford-introducing-men": [
+   "introducingmento00weat",
+   "Introducing men to Christ : fundamental studies (New York : Association Press, 1911)"
+  ],
+  "weatherford-personal-elements": [
+   "personalelements00weat",
+   "Personal elements in religious life (Nashville, Tenn. ; Dallas, Tex. : Publishing House Methodist Episcopal Church, South, 1916)"
+  ],
+  "weatherford-christian-life": [
+   "christianlifenor00weat",
+   "Christian life a normal experience : a study in the reality and growth of Christian experience (New York : Association Press, 1919)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "weatherford-later": "The Negro from Africa to America (1924, history) and books after 1930",
+  "weatherford-edited": "Present Forces in Negro Progress and Interracial Cooperation (several authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "weatherford-browning": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. weatherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "weatherford-negro-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. weatherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "weatherford-introducing-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. weatherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "weatherford-personal-elements": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. weatherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "weatherford-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. weatherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

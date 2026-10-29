@@ -74,6 +74,16 @@
    "Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV",
    "86419_djvu.txt",
    "tr. William Beloe"
+  ],
+  "herodotus-laurent-1827-v1": [
+   "ninebooksofhisto01herdiala",
+   "The Nine Books of the History of Herodotus, translated from the text of Thomas Gaisford, with notes, vol. I (Oxford: Henry Slatter, 1827)",
+   "tr. Peter Edmund Laurent"
+  ],
+  "herodotus-laurent-1827-v2": [
+   "ninebooksofhisto02herdiala",
+   "The Nine Books of the History of Herodotus, vol. II (Oxford: Henry Slatter, 1827)",
+   "tr. Peter Edmund Laurent"
   ]
  },
  "_cross_ref": {
@@ -82,8 +92,9 @@
  "_excluded": {
   "pg2131": "An Account of Egypt: Book II of Macaulay, a duplicate extract",
   "pg55758": "The Boys' and Girls' Herodotus: an adaptation",
-  "Henry Cary (Bohn, 1847)": "now held: herodotus-cary",
-  "A. D. Godley, Loeb (1920-25)": "now held from Perseus: herodotus-perseus-godley-histories (Perseus's modernized text, see its rights note)"
+  "A. D. Godley, Loeb (1920-25)": "now held from Perseus: herodotus-perseus-godley-histories (Perseus's modernized text, see its rights note)",
+  "ninebookshistor01herogoog": "Laurent's second edition (1837), vol. I only; the 1827 first edition is held complete",
+  "ninebookshistor00laurgoog": "Laurent's 1846 edition, vol. I: OCR 0.745, under the 0.78 bar"
  },
  "_surname": [
   "herodotus"
@@ -98,7 +109,9 @@
   "herodotus-beloe-1821-v1": "William Beloe",
   "herodotus-beloe-1821-v2": "William Beloe",
   "herodotus-beloe-1821-v3": "William Beloe",
-  "herodotus-perseus-godley-histories": "A. D. Godley"
+  "herodotus-perseus-godley-histories": "A. D. Godley",
+  "herodotus-laurent-1827-v1": "peter edmund laurent",
+  "herodotus-laurent-1827-v2": "peter edmund laurent"
  },
  "_translator_unchecked": {
   "herodotus-littlebury-1737-v1": "title page OCRs the name as 'Isaac Littleburyt'^' (third edition, MDCCXXXVII); the claim is not matched as written",
@@ -108,7 +121,7 @@
  "_checks": {
   "herodotus-macaulay-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "G. C. Macaulay",
@@ -120,7 +133,7 @@
   },
   "herodotus-rawlinson-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "George Rawlinson",
@@ -133,7 +146,7 @@
   },
   "herodotus-rawlinson-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "George Rawlinson",
@@ -146,7 +159,7 @@
   },
   "herodotus-rawlinson-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "George Rawlinson",
@@ -159,7 +172,7 @@
   },
   "herodotus-rawlinson-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "George Rawlinson",
@@ -172,7 +185,7 @@
   },
   "herodotus-cary": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "Henry Cary",
@@ -185,7 +198,7 @@
   },
   "herodotus-littlebury-1737-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "title_weak": true,
@@ -197,7 +210,7 @@
   },
   "herodotus-littlebury-1737-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "title_weak": true,
@@ -209,7 +222,7 @@
   },
   "herodotus-beloe-1821-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "William Beloe",
@@ -222,7 +235,7 @@
   },
   "herodotus-beloe-1821-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "William Beloe",
@@ -235,7 +248,7 @@
   },
   "herodotus-beloe-1821-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "translator_claimed": "William Beloe",
@@ -248,13 +261,39 @@
   },
   "herodotus-beloe-1821-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "herodotus",
    "identity": "ok",
    "ia_rights": "ok: published 1821",
    "ia_date": "1821",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-laurent-1827-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "peter edmund laurent",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herodotus-laurent-1827-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "peter edmund laurent",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

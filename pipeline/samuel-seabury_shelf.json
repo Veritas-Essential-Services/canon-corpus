@@ -1,0 +1,59 @@
+{
+ "_about": "Public-domain Samuel Seabury (1729-1796), first bishop of the Episcopal Church in America (consecrated by the Scottish nonjuring bishops in 1784), for the Word Hoard: his Discourses on Several Subjects (Hudson, N.Y.: William E. Norman, 1815, two volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "seabury"
+ ],
+ "_surname": [
+  "samuel seabury",
+  "seabury"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "seabury-discourses-1": [
+   "discoursesonseve00seab",
+   "Discourses on several subjects, vol. 1 (Hudson: William E. Norman, 1815)"
+  ],
+  "seabury-discourses-2": [
+   "discoursesonseve02seab",
+   "Discourses on several subjects, vol. 2 (Hudson: William E. Norman, 1815)"
+  ]
+ },
+ "_alternates": {
+  "seabury-copies": "The 1798 New York printing of the Discourses (Princeton and John Carter Brown copies) and another 1815 copy"
+ },
+ "_excluded": {
+  "seabury-other": "Beardsley's Life and Correspondence of Samuel Seabury (1881), a work by another; the Seabury papers' manuscript sermons; his son Samuel Seabury (1801-1872)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "seabury-westchester-farmer": "Free Thoughts on the Proceedings of the Continental Congress, A View of the Controversy, and An Alarm to the Legislature (1774-1775), published as by 'A. W. Farmer'; pseudonymous, and political rather than theological"
+ },
+ "_translators": {},
+ "_checks": {
+  "seabury-discourses-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel seabury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seabury-discourses-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel seabury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

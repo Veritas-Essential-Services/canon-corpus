@@ -1,0 +1,145 @@
+{
+ "_about": "Public-domain J. R. Miller (James Russell Miller, 1840-1912), Presbyterian pastor and editor whose devotional books sold in the millions, for the Word Hoard: Week-Day Religion (copyright 1880), In His Steps, a book for young Christians (copyright 1885), Silent Times (1886), Practical Religion (1888), Making the Most of Life (1891), The Building of Character (1894) and Personal Friendships of Jesus (1897), from Internet Archive scans. Not Samuel Miller or Hugh Miller. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "miller"
+ ],
+ "_surname": [
+  "j. r. miller",
+  "james russell miller"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jrmiller-week-day-religion": [
+   "weekdayreligion00mill",
+   "Week-Day Religion (Philadelphia: Presbyterian Board of Publication; title page undated, copyright 1880)"
+  ],
+  "jrmiller-in-his-steps": [
+   "inhisstepsbookfo00mill",
+   "In His Steps: A Book for Young Christians Setting Out to Follow Christ (Philadelphia: Presbyterian Board of Publication; title page undated, copyright 1885)"
+  ],
+  "jrmiller-silent-times": [
+   "silenttimesbookt01mill",
+   "Silent Times: a Book to Help in Reading the Bible into Life (Boston: Thomas Y. Crowell, 1886)"
+  ],
+  "jrmiller-practical-religion": [
+   "practicalreligio00mill",
+   "Practical Religion: A Help for the Common Days (Philadelphia: Presbyterian Board of Publication; title page undated, copyright 1888)"
+  ],
+  "jrmiller-making-most-of-life": [
+   "makingmostofli00mill",
+   "Making the Most of Life (New York: Thomas Y. Crowell; title page undated, copyright 1891)"
+  ],
+  "jrmiller-building-character": [
+   "buildingofcharac00mill",
+   "The Building of Character (New York: Thomas Y. Crowell; title page undated, copyright 1894)"
+  ],
+  "jrmiller-personal-friendships": [
+   "personalfriendsh01mill",
+   "Personal Friendships of Jesus (New York: Thomas Y. Crowell; title page undated, copyright 1897)"
+  ]
+ },
+ "_alternates": {
+  "jrmiller-copies": "PG 19193 (Making the Most of Life) and PG 27349 (Personal Friendships, eighth thousand), both undated printings; later thousands of Silent Times, Building of Character and Personal Friendships"
+ },
+ "_excluded": {
+  "jrmiller-later": "Come Ye Apart (an undated Nelson printing that looks post-1929) and a 2009 reprint"
+ },
+ "_identity_checked": {
+  "jrmiller-in-his-steps": {
+   "author": "title page read: 'Rev. J. R. MILLER, D.D.' (OCR 'J^ILLER')"
+  },
+  "jrmiller-practical-religion": {
+   "author": "title page read: 'J. R. MILLER, D.D.' (OCR 'J. E. MILLEK')"
+  },
+  "jrmiller-personal-friendships": {
+   "author": "title page read: 'J. R. MILLER, D.D.' (OCR garbled)"
+  }
+ },
+ "_rights_checked": {
+  "jrmiller-week-day-religion": "title page undated on most of his books; the copyright year is read from the verso, and he died in 1912"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jrmiller-week-day-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. r. miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page undated on most of his books; the copyright year is read from the verso, and he died in 1912"
+  },
+  "jrmiller-in-his-steps": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrmiller-silent-times": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. r. miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jrmiller-practical-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jrmiller-making-most-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. r. miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrmiller-building-character": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. r. miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jrmiller-personal-friendships": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

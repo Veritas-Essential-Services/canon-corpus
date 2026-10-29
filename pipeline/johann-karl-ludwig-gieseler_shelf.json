@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain Johann Karl Ludwig Gieseler (1792-1854, Göttingen church historian) in English for the Word Hoard: the Text-Book of Church History in Henry B. Smith's American edition (5 vols, New York: Harper, 1857-1880), translated by Samuel Davidson, John Winstanley Hull and Henry B. Smith, the fifth volume completed by Mary A. Robinson, from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gieseler"
+ ],
+ "_surname": [
+  "gieseler",
+  "john c. l. gieseler",
+  "dr. gieseler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gieseler-church-history-1": [
+   "textbookofchurcht01gies",
+   "A Text-Book of Church History, vol. I, A.D. 1-726, tr. Samuel Davidson, ed. Henry B. Smith (New York: Harper & Brothers, 1857)"
+  ],
+  "gieseler-church-history-2": [
+   "textbookofchurchh02gies",
+   "A Text-Book of Church History, vol. II, A.D. 726-1305, tr. Samuel Davidson and John Winstanley Hull, ed. Henry B. Smith (New York: Harper & Brothers, 1857)"
+  ],
+  "gieseler-church-history-3": [
+   "textbookofchurchh03gies",
+   "A Text-Book of Church History, vol. III, A.D. 1305-1517, tr. John W. Hull, ed. Henry B. Smith (New York: Harper & Brothers, 1858)"
+  ],
+  "gieseler-church-history-4": [
+   "textbookofchurchh04gies",
+   "A Text-Book of Church History, vol. IV, A.D. 1517-1648, tr. and ed. Henry B. Smith (New York: Harper & Brothers, 1862)"
+  ],
+  "gieseler-church-history-5": [
+   "textbookofchurch05gies",
+   "A Text-Book of Church History, vol. V, A.D. 1517-1854, tr. Henry B. Smith, completed by Mary A. Robinson (New York: Harper & Brothers, 1880)"
+  ]
+ },
+ "_alternates": {
+  "gieseler-clark": "Clark's Edinburgh Compendium of Ecclesiastical History (1846-1856)",
+  "gieseler-cunningham": "Francis Cunningham's earlier translation (Philadelphia: Carey, Lea, and Blanchard, 1836)"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "gieseler-church-history-1": "title page read: 'DR. JOHN C. L. GIESELER' (OCR 'JOHN Ὁ, L.'); copyright 1855"
+ },
+ "_pending": {},
+ "_translators": {
+  "gieseler-church-history-1": "davidson",
+  "gieseler-church-history-2": "davidson",
+  "gieseler-church-history-3": "hull",
+  "gieseler-church-history-4": "smith",
+  "gieseler-church-history-5": "smith"
+ },
+ "_checks": {
+  "gieseler-church-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gieseler",
+   "translator_claimed": "davidson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'DR. JOHN C. L. GIESELER' (OCR 'JOHN Ὁ, L.'); copyright 1855"
+  },
+  "gieseler-church-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gieseler",
+   "translator_claimed": "davidson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gieseler-church-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gieseler",
+   "translator_claimed": "hull",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gieseler-church-history-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gieseler",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gieseler-church-history-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gieseler",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1855-1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "_about": "Public-domain Herbert Vaughan (1832-1903), Bishop of Salford, then Cardinal Archbishop of Westminster and founder of the Mill Hill missionaries, for the Word Hoard: his pastoral letter Submission to a Divine Teacher (1875), Who is St. Joseph? (1889) and The Young Priest, conferences edited by his brother John S. Vaughan (1904), from Internet Archive scans. Not C. J. Vaughan, who has his own shelf. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "vaughan",
+  "salford"
+ ],
+ "_surname": [
+  "herbert vaughan",
+  "herbert, bishop of salford",
+  "bishop of salford",
+  "cardinal vaughan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hvaughan-submission": [
+   "a581642700cathuoft",
+   "Submission to a Divine Teacher neither Disloyalty nor the Surrender of Mental and Moral Freedom: a Pastoral Letter, by Herbert, Bishop of Salford (New York: Catholic Publication Society, 1875)"
+  ],
+  "hvaughan-who-is-st-joseph": [
+   "whoisstjosephpra00vaug",
+   "Who is St. Joseph? Prayers with Thoughts and Examples for Every Day in the Month, by the Bishop of Salford (Baltimore: St. Joseph's Seminary, 1889)"
+  ],
+  "hvaughan-young-priest": [
+   "youngpriestconfe0000herb",
+   "The Young Priest: Conferences on the Apostolic Life, edited by his brother John S. Vaughan (London: Burns & Oates; year OCR'd '{704', 1904)"
+  ]
+ },
+ "_alternates": {
+  "hvaughan-copies": "Other Young Priest copies (one undated, one catalogued 1910); his introduction to Rivington's The Primitive Church and the See of Peter (1894)"
+ },
+ "_excluded": {
+  "hvaughan-other": "The Year of Preparation for the Vatican Council (1869, no author on the title page); the Westminster bishops' collective Vindication of Apostolicae Curae; Humility of Heart (1944 printing, catalogued 1903 in error); the Mivart correspondence"
+ },
+ "_identity_checked": {
+  "hvaughan-who-is-st-joseph": {
+   "author": "title page read: 'By the Bishop of Salford' (Herbert Vaughan held the see 1872-1892); his letter of 28 Aug. 1887 is printed in it"
+  },
+  "hvaughan-submission": {
+   "author": "title page read: 'By Herbert, Bishop of Salford' (OCR 'BT')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hvaughan-submission": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herbert vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hvaughan-who-is-st-joseph": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herbert, bishop of salford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hvaughan-young-priest": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cardinal vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

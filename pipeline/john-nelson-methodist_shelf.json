@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain John Nelson (1707-1774), the Birstall stonemason who became one of Wesley's first lay preachers, for the Word Hoard: his Extract from the Journal, written by himself (London, 1795; Baltimore, 1810; New York, 1833, with an account of his death), from Internet Archive scans. Not the other John Nelsons on the shelves. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nelson"
+ ],
+ "_surname": [
+  "john nelson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jnelson-journal-1795": [
+   "bim_eighteenth-century_an-extract-from-the-jour_nelson-john_1795",
+   "An Extract from the Journal of Mr. John Nelson, Preacher of the Gospel, written by himself (London: G. Paramore; sold by G. Whitfield, 1795)"
+  ],
+  "jnelson-journal-1810": [
+   "extractfromjourn00nels",
+   "An Extract from the Journal of Mr. John Nelson, written by himself (Baltimore: J. Kingston, 1810)"
+  ],
+  "jnelson-journal-1833": [
+   "25933977.emory.edu",
+   "Extract from the Journal of John Nelson, written by himself, to which is added an account of his death (New York: B. Waugh and T. Mason, 1833)",
+   "25933977_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "jnelson-copies": "London 1798 (year OCR'd '179%'); a second Baltimore 1810 copy; New York 1854; the undated Wesleyan-Methodist Book-Room Extract (its catalogued 1767 is impossible)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jnelson-journal-1795": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jnelson-journal-1810": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jnelson-journal-1833": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

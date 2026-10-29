@@ -1,0 +1,217 @@
+{
+ "_about": "Public-domain William Penn (1644-1718), Quaker and founder of Pennsylvania, for the Word Hoard: the Collection of the Works (1726, two volumes), the Select Works (third edition, 1782, five volumes), No Cross, No Crown (Leeds, 1743, and London, 1842), Fruits of Solitude (1863), the Rise and Progress of the People called Quakers (1834) and a 1694 sermon, from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "penn"
+ ],
+ "_surname": [
+  "william penn",
+  "penn, william"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "wpenn-rise-progress": [
+   19377,
+   "A Brief Account of the Rise and Progress of the People called Quakers, twelfth edition (Manchester: Harrison and Crosfield, 1834)"
+  ],
+  "wpenn-no-cross-1842": [
+   44895,
+   "No Cross, No Crown, a new edition, revised (London: Harvey & Darton, 1842)"
+  ],
+  "wpenn-sermon-1694": [
+   20534,
+   "A Sermon preached at the Quakers' Meeting House in Gracechurch Street, 1694 (London: R. H. Moore, 1836)"
+  ]
+ },
+ "internet_archive": {
+  "wpenn-works-1726-1": [
+   "collectionofwork01penn",
+   "A Collection of the Works of William Penn, vol. I, with a Journal of his Life (London: Assigns of J. Sowle, 1726)"
+  ],
+  "wpenn-works-1726-2": [
+   "collectionofwork02penn",
+   "A Collection of the Works of William Penn, vol. II (London: Assigns of J. Sowle, 1726)"
+  ],
+  "wpenn-select-1": [
+   "selectworkswill06penngoog",
+   "The Select Works of William Penn, third edition, vol. I (London: James Phillips, 1782)"
+  ],
+  "wpenn-select-2": [
+   "selectworkswill05penngoog",
+   "The Select Works of William Penn, third edition, vol. II (London: James Phillips, 1782)"
+  ],
+  "wpenn-select-3": [
+   "selectworkswill08penngoog",
+   "The Select Works of William Penn, third edition, vol. III (London: James Phillips, 1782)"
+  ],
+  "wpenn-select-4": [
+   "selectworkswill01penngoog",
+   "The Select Works of William Penn, third edition, vol. IV (London: James Phillips, 1782)"
+  ],
+  "wpenn-select-5": [
+   "selectworkswill00penngoog",
+   "The Select Works of William Penn, third edition, vol. V (London: James Phillips, 1782)"
+  ],
+  "wpenn-no-cross-1743": [
+   "nocrossnocrown00penn",
+   "No Cross, No Crown, the eighth edition, corrected (Leeds: James Lister, 1743)"
+  ],
+  "wpenn-fruits-solitude": [
+   "fruitssolitudei01penngoog",
+   "Fruits of Solitude, in Reflections and Maxims relating to the Conduct of Human Life (London: A. W. Bennett, 1863)"
+  ]
+ },
+ "_alternates": {
+  "wpenn-copies": "Select Works duplicate scans (04/07/02/09/03penngoog); Select Works fourth edition vol. III (1825); No Cross, No Crown eleventh edition (Mary Hinde, 177?); Fruits of Solitude 1877, 1901 and Gosse's 1901; CCEL penn/quakers and penn/primitivechristianity (1857)"
+ },
+ "_excluded": {
+  "wpenn-anthology": "Harvard Classics vol. 1 (Franklin, Woolman, Penn): a many-author volume"
+ },
+ "_identity_checked": {
+  "wpenn-no-cross-1743": {
+   "author": "title page read: 'By WILLIAM PENN' (OCR spaced 'W I L L I A M ^ P E N N')"
+  }
+ },
+ "_rights_checked": {
+  "wpenn-select-1": "title page read: MDCCLXXXII on every volume; the catalogue's '1971 Kraus Reprint' is wrong; vol. IV's year OCR'd 'U DCC LXXXIX'",
+  "wpenn-select-2": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong",
+  "wpenn-select-3": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong",
+  "wpenn-select-4": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong",
+  "wpenn-select-5": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wpenn-rise-progress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpenn-no-cross-1842": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpenn-sermon-1694": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpenn-works-1726-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpenn-works-1726-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpenn-select-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1971",
+   "ia_date": "1971",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCLXXXII on every volume; the catalogue's '1971 Kraus Reprint' is wrong; vol. IV's year OCR'd 'U DCC LXXXIX'"
+  },
+  "wpenn-select-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1971",
+   "ia_date": "1971",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong"
+  },
+  "wpenn-select-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1971",
+   "ia_date": "1971",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong"
+  },
+  "wpenn-select-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1971",
+   "ia_date": "1971",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong"
+  },
+  "wpenn-select-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1971",
+   "ia_date": "1971",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London: James Phillips, MDCCLXXXII; the catalogue's '1971 Kraus Reprint' is wrong"
+  },
+  "wpenn-no-cross-1743": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wpenn-fruits-solitude": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william penn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "_about": "George Sidney Brett (1879-1944), philosopher and historian of psychology at Toronto. Raw IA OCR: The Philosophy of Gassendi (London: Macmillan, 1908), The Government of Man, an introduction to ethics and politics (London: George Bell, 1913), and A History of Psychology in three volumes: I, Ancient and Patristic (London: George Allen, 1912), II, Medieval and Early Modern Period (1921; the verso reads 'First published in ig2i') and III, Modern Psychology (1921; the verso reads 'First published in igii', OCR for 1921). Not Brett-Feijoo (shelf brett-feijoo). Psychology Ancient and Modern (1928) was not found in a scan with a printed year. US public domain. No uids minted.",
+ "_author": "G. S. Brett",
+ "_name_words": [
+  "george",
+  "sidney",
+  "brett"
+ ],
+ "_surname": [
+  "brett",
+  "g. s. brett",
+  "sidney brett"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brett-philosophy-of-gassendi-1908": [
+   "philosophyofgass00bret",
+   "The Philosophy of Gassendi (Macmillan, 1908)"
+  ],
+  "brett-government-of-man-1913": [
+   "governmentofmani00bretuoft",
+   "The Government of Man (Bell, 1913)"
+  ],
+  "brett-history-of-psychology-1-1912": [
+   "historyofpsychol00bretuoft",
+   "A History of Psychology, vol. I: Ancient and Patristic (George Allen, 1912)"
+  ],
+  "brett-history-of-psychology-2-1921": [
+   "historyofpsychol02bretuoft",
+   "A History of Psychology, vol. II: Medieval and Early Modern Period (George Allen and Unwin, 1921)"
+  ],
+  "brett-history-of-psychology-3-1921": [
+   "historyofpsychol03bretuoft",
+   "A History of Psychology, vol. III: Modern Psychology (George Allen and Unwin, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "brett-philosophy-of-gassendi-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brett-government-of-man-1913": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brett-history-of-psychology-1-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912-21",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brett-history-of-psychology-2-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912-21",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brett-history-of-psychology-3-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912-21",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
