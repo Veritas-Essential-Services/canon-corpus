@@ -1,6 +1,6 @@
 {
- "status": "free",
+ "status": "paused",
  "holder": null,
- "heartbeat": "2026-10-23T10:40-05:00",
- "resume": "Author batches stopped at Adam's card (2026-10-23 13:53Z, 'Stop; switch to upkeep'). Children's sets done (12 shelves, DIGEST-D). Nothing queued."
+ "heartbeat": "2026-10-29T12:15Z",
+ "resume": "PAUSED again 2026-10-29 after the one-off Henty job (Adam 2026-10-28): henty-works +3 IA titles; Winning His Spurs read-along in canon-corpus PR #45 (into main) and wordhoard PR #192, both draft, awaiting Adam's merge + Armarium rebuild. Earlier resume point stands: Little Classics remaining 12 volumes; Adam's open questions (Authors index, p. 50, MBH index spots)."
 }

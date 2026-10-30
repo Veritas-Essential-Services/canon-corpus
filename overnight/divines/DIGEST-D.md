@@ -474,7 +474,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `stephen-crane-works` | 13 Gutenberg | 0 | 12,315 | Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 3 files listed in _excluded (second copies, anthologies, indexes). |
 | `bierce-works` | 23 Gutenberg | 0 | 17,776 | Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 2 files listed in _excluded (second copies, anthologies, indexes). |
 | `o-henry-works` | 16 Gutenberg | 0 | 18,991 | Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 3 files listed in _excluded (second copies, anthologies, indexes). |
-| `henty-works` | 97 Gutenberg | 0 | 163,907 | Historical tales for boys; completes the author beside the reading-list shelf and the henty-church acquisition. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 4 files listed in _excluded (second copies, anthologies, indexes). |
+| `henty-works` | 97 Gutenberg | 3 | 163,907 | Historical tales for boys; completes the author beside the reading-list shelf and the henty-church acquisition. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 4 files listed in _excluded (second copies, anthologies, indexes). 2026-10-28, at Adam's ask for the whole shelf: The Sovereign Reader (1887), A Hidden Foe (1890) and Queen Victoria (1901) from Internet Archive scans (raw OCR). No free scan found for The March to Coomassie, Yarns on the Beach, Gabriel Allen M.P., The Plague Ship, The Ranche in the Valley, John Hawke's Fortune or Gallant Deeds. Not taken: the two Christmas annuals Henty only edited (PG 40056, 49229). |
 | `wharton-works` | 47 Gutenberg | 0 | 42,895 | Completes the author at Gutenberg beside the reading-list shelf; every text checked as a pre-1931 US publication. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 3 files listed in _excluded (second copies, anthologies, indexes). |
 | `burroughs-works` | 30 Gutenberg | 0 | 38,011 | Completes the author at Gutenberg beside the reading-list shelf; nine post-1930 book printings held. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 3 files listed in _excluded (second copies, anthologies, indexes). |
 | `wodehouse-works` | 51 Gutenberg | 0 | 109,358 | Completes the author at Gutenberg beside the reading-list shelf; pre-1931 US publications only, one 1934 book held. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-17. 2 files listed in _excluded (second copies, anthologies, indexes). |
@@ -989,3 +989,34 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 26. **A duplicate-check flaw, fixed 2026-10-18:** the check treated any number in any shelf's notes as a Gutenberg id already taken, so years such as 1895 hid real books. 70 books across 36 authors were found and added (Armadale, The Egoist, The Pathfinder, Almayer's Folly, A Tramp Abroad, Monsieur Beaucaire and others), and volumes 2-3 of Braddon's An Open Verdict, Oliphant's Harry Muir and five volumes of Cooper's Gleanings in Europe, which a title match had taken for repeats, were restored. One more (Hearn's Stray Leaves, PG 55650) belongs on Lane C's hearn shelf and was left to Lane C.
 27. **Post-1930 holds, batches 52-53 (same question as 24):** Anstey's Tourmalin's Time Cheques (PG 46173, its text from a 1986 Leventhal reprint of the 1891 book; a reprint may add nothing, but it was not checked), Nell Speed's The Carter Girls' Mysterious Neighbors (PG 40178, 1931), Jackson Gregory's Marshal of Sundown (PG 77768, 1937) and Arthur Train's The Moon Maker (PG 65438, a 1958 book printing of a 1916 serial; Gutenberg's note says it found no evidence the copyright was renewed). Max Brand's The Garden of Eden was held at first but is taken: its line reads copyright 1922, renewed 1950, and a renewal is not new matter. Each sits in its shelf's `_held`. Say "check renewals" and a later round looks each one up, together with item 24's.
 28. **Post-1930 holds, batch 56 (same question as 24 and 27):** Madeline Brandeis's Little Erik of Sweden (PG 36333, copyright line 1938), The Little Spanish Dancer (PG 40592, 1936), Mitz and Fritz of Germany (PG 40608, 1933) and Little Tony of Italy (PG 40621, 1934). Her 1930 Little Philippe of Belgium is taken: a 1930 publication is US public domain since 2026-01-01. Also held (batch 66): The Mark of the Beast (PG 18815, on `storytellers-tail-17`), whose text names copyrights of 1918 and 1933, so it may be a revised edition. Also held (batch 59): Allan Pinkerton's The Spy of the Rebellion (PG 34973), transcribed from the University of Nebraska Press reprint whose introduction is copyright 1989; the 1883 text is public domain, so a clean source would be an older printing. Also held (batches 67-68, one book each, same question): Shuddering Castle (PG 71806, 1936, `storytellers-tail-29`), Air Monster (PG 55965, 1932, `storytellers-tail-32`), A Kindergarten Story Book (PG 14127, its text names 1966, `storytellers-tail-34`), This Finer Shadow (PG 64251, 1941, `storytellers-tail-38`) and Ernest Vincent Wright's Gadsby (PG 47342, 1939, `storytellers-tail-50`). Gutenberg carries each as US public domain, most likely for want of a renewal; "check renewals" covers these too.
+
+## OCR collation pilot (2026-10-23)
+
+Adam asked Lane D to correct the rough Internet Archive volumes itself and hand him questions on whatever it could not read. The pilot was My Book House vol. 6, scan `latchkeyofmybook06mill`.
+
+- Garbled words in the stories: 261 before, 0 after.
+- Garbled words in the index: 999 before, 24 after.
+- Changes made: 1,726 logged word fixes, of which 371 are hand readings from the page images.
+- How it was done: a majority vote over 4 scans of the printing, tesseract, scanner-habit rules, and those hand readings.
+- Unresolved: 14 index spots on pages 224-326.
+
+Tools are in `tools-D/ocr/` and the fix list is `data/ocr-fixes/latchkeyofmybook06mill.json`; the fix list is a committed exception Adam approved. `run.sh` rebuilds the corrected text byte-for-byte.
+
+### Little Classics, five roughest volumes (2026-10-23)
+
+Garbled words in the body, before and after, with the number of hand readings:
+
+| Volume | Scan | Before | After | Readings |
+|---|---|---|---|---|
+| Tragedy | `vol3littleclassi00john` | 807 | 0 | 223 |
+| Love | `vol6littleclassi00john` | 738 | 1 | 346 |
+| Narrative Poems | `littleclassics15johngoog` | 408 | 2 | 255 |
+| Heroism | `vol11littleclass00john` | 919 | 0 | 253 |
+| Authors | `littleclassics04johngoog` | 1,985 | 0 | 1,017 |
+
+Second sweeps also fixed real-word slips (lie/he, bad/had, li/h), lost drop caps, headings and page numbers. Authors also had 71 dates with an old-style 6 read as 0 or 8; each was read off the image.
+
+Open for Adam:
+- The Authors general index (pp. 259-266) is scrambled in both scans. It is left as is. Typing it would go past the word-level exception; the other choice is rebuilding it from the volumes' own contents.
+- This Authors scan lacks printed p. 50 (its leaf 55 is a faded reshoot of p. 48), so the twin scan's page stands in.
+- The other 12 Little Classics volumes were not swept in this pass.

@@ -1,0 +1,1136 @@
+{
+ "ia_id": "vol3littleclassi00john",
+ "shelf": "little-classics",
+ "witness": "little-classics-v03-tragedy",
+ "collated_with": [
+  "littleclassics00unkngoog"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": [
+  [
+   1,
+   "*#*",
+   "⁂"
+  ],
+  [
+   2,
+   "5TI)iri)",
+   "Third"
+  ],
+  [
+   4,
+   "MudforJ",
+   "Mudford"
+  ],
+  [
+   18,
+   "cT",
+   "d’"
+  ],
+  [
+   41,
+   "4-2",
+   "42"
+  ],
+  [
+   43,
+   "madman,33",
+   "madman,”"
+  ],
+  [
+   43,
+   "finger-nails,3",
+   "finger-nails,’"
+  ],
+  [
+   43,
+   "fingers.3",
+   "fingers.’"
+  ],
+  [
+   58,
+   "”•",
+   "”"
+  ],
+  [
+   61,
+   "G;J",
+   "62"
+  ],
+  [
+   66,
+   "»",
+   ";"
+  ],
+  [
+   117,
+   "niREE",
+   "THREE"
+  ],
+  [
+   117,
+   "/here",
+   "There"
+  ],
+  [
+   145,
+   "14(5",
+   "146"
+  ],
+  [
+   166,
+   "$.",
+   "s."
+  ],
+  [
+   171,
+   "17:2",
+   "172"
+  ],
+  [
+   202,
+   "{^les",
+   "gies"
+  ],
+  [
+   202,
+   "the;/",
+   "they"
+  ],
+  [
+   67,
+   "B8",
+   "68"
+  ],
+  [
+   144,
+   "deB",
+   "cies"
+  ],
+  [
+   147,
+   "di«d",
+   "dred"
+  ],
+  [
+   184,
+   "prep»-",
+   "prepa-"
+  ],
+  [
+   192,
+   "goT,",
+   "gow,"
+  ],
+  [
+   15,
+   "witt>",
+   "with"
+  ],
+  [
+   15,
+   "i„M(>",
+   ""
+  ],
+  [
+   3,
+   "tlie",
+   "the"
+  ],
+  [
+   22,
+   "Tliis",
+   "This"
+  ],
+  [
+   31,
+   "liis",
+   "his"
+  ],
+  [
+   50,
+   "liis",
+   "his"
+  ],
+  [
+   77,
+   "liis",
+   "his"
+  ],
+  [
+   85,
+   "liis",
+   "his"
+  ],
+  [
+   90,
+   "liis",
+   "his"
+  ],
+  [
+   108,
+   "liis",
+   "his"
+  ],
+  [
+   122,
+   "liis",
+   "his"
+  ],
+  [
+   124,
+   "liis",
+   "his"
+  ],
+  [
+   130,
+   "liis",
+   "his"
+  ],
+  [
+   142,
+   "liis",
+   "his"
+  ],
+  [
+   158,
+   "liis",
+   "his"
+  ],
+  [
+   176,
+   "liis",
+   "his"
+  ],
+  [
+   184,
+   "liis",
+   "his"
+  ],
+  [
+   184,
+   "liis",
+   "his"
+  ],
+  [
+   202,
+   "liis",
+   "his"
+  ],
+  [
+   117,
+   "bis",
+   "his"
+  ],
+  [
+   125,
+   "bis",
+   "his"
+  ],
+  [
+   176,
+   "bis",
+   "his"
+  ],
+  [
+   201,
+   "bis",
+   "his"
+  ],
+  [
+   201,
+   "bis",
+   "his"
+  ],
+  [
+   40,
+   "L’Espauaye",
+   "L’Espanaye"
+  ],
+  [
+   96,
+   "unworthiuess",
+   "unworthiness"
+  ],
+  [
+   106,
+   "Lausou.",
+   "Lauson."
+  ],
+  [
+   128,
+   "Banuadonna.",
+   "Bannadonna."
+  ],
+  [
+   141,
+   "Bannadouna;",
+   "Bannadonna;"
+  ],
+  [
+   145,
+   "Baunadonna",
+   "Bannadonna"
+  ],
+  [
+   157,
+   "slie",
+   "she"
+  ],
+  [
+   167,
+   "iu.",
+   "in."
+  ],
+  [
+   177,
+   "deatli",
+   "death"
+  ],
+  [
+   202,
+   "Tlius",
+   "Thus"
+  ],
+  [
+   70,
+   "LATJSON",
+   "LAUSON"
+  ],
+  [
+   76,
+   "LATJSON",
+   "LAUSON"
+  ],
+  [
+   96,
+   "LAUSOJST",
+   "LAUSON"
+  ],
+  [
+   98,
+   "LAUSOST",
+   "LAUSON"
+  ],
+  [
+   112,
+   "IEOH",
+   "IRON"
+  ],
+  [
+   148,
+   "JTTDSON.",
+   "JUDSON."
+  ],
+  [
+   150,
+   "KATIIAYAN",
+   "KATHAYAN"
+  ],
+  [
+   166,
+   "ROCIIE.",
+   "ROCHE."
+  ],
+  [
+   172,
+   "ROCIIE.",
+   "ROCHE."
+  ],
+  [
+   178,
+   "KOCIIE.",
+   "ROCHE."
+  ],
+  [
+   15,
+   "LITILE",
+   "LITTLE"
+  ],
+  [
+   45,
+   "UTTLE",
+   "LITTLE"
+  ],
+  [
+   193,
+   "LTTTLE",
+   "LITTLE"
+  ],
+  [
+   43,
+   "ensued P",
+   "ensued ?"
+  ],
+  [
+   46,
+   "vessel P",
+   "vessel ?"
+  ],
+  [
+   47,
+   "danger F",
+   "danger ?"
+  ],
+  [
+   48,
+   "be P",
+   "be ?"
+  ],
+  [
+   56,
+   "here P",
+   "here ?"
+  ],
+  [
+   57,
+   "mean P",
+   "mean ?"
+  ],
+  [
+   57,
+   "sinful P",
+   "sinful ?"
+  ],
+  [
+   58,
+   "resist P",
+   "resist ?"
+  ],
+  [
+   58,
+   "differently P",
+   "differently ?"
+  ],
+  [
+   58,
+   "ual F",
+   "ual ?"
+  ],
+  [
+   58,
+   "current P",
+   "current ?"
+  ],
+  [
+   59,
+   "me P",
+   "me ?"
+  ],
+  [
+   59,
+   "me P",
+   "me ?"
+  ],
+  [
+   59,
+   "deserve P",
+   "deserve ?"
+  ],
+  [
+   59,
+   "them P",
+   "them ?"
+  ],
+  [
+   59,
+   "mean F",
+   "mean ?"
+  ],
+  [
+   65,
+   "minute P",
+   "minute ?"
+  ],
+  [
+   66,
+   "to-morrow P",
+   "to-morrow ?"
+  ],
+  [
+   66,
+   "sie P",
+   "sie ?"
+  ],
+  [
+   70,
+   "it F",
+   "it ?"
+  ],
+  [
+   70,
+   "wife P",
+   "wife ?"
+  ],
+  [
+   70,
+   "her F",
+   "her ?"
+  ],
+  [
+   74,
+   "himself P",
+   "himself ?"
+  ],
+  [
+   74,
+   "again F",
+   "again ?"
+  ],
+  [
+   75,
+   "news F",
+   "news ?"
+  ],
+  [
+   77,
+   "Jacob F",
+   "Jacob ?"
+  ],
+  [
+   83,
+   "yon F",
+   "yon ?"
+  ],
+  [
+   87,
+   "do P",
+   "do ?"
+  ],
+  [
+   93,
+   "called F",
+   "called ?"
+  ],
+  [
+   93,
+   "motive P",
+   "motive ?"
+  ],
+  [
+   94,
+   "prosecution F",
+   "prosecution ?"
+  ],
+  [
+   96,
+   "another F",
+   "another ?"
+  ],
+  [
+   96,
+   "it P",
+   "it ?"
+  ],
+  [
+   96,
+   "purity F",
+   "purity ?"
+  ],
+  [
+   97,
+   "universe P",
+   "universe ?"
+  ],
+  [
+   97,
+   "guilty P",
+   "guilty ?"
+  ],
+  [
+   98,
+   "wretched F",
+   "wretched ?"
+  ],
+  [
+   99,
+   "tried P",
+   "tried ?"
+  ],
+  [
+   100,
+   "infamy F",
+   "infamy ?"
+  ],
+  [
+   100,
+   "insufficient F",
+   "insufficient ?"
+  ],
+  [
+   100,
+   "that F",
+   "that ?"
+  ],
+  [
+   102,
+   "else F",
+   "else ?"
+  ],
+  [
+   102,
+   "it F",
+   "it ?"
+  ],
+  [
+   102,
+   "something F",
+   "something ?"
+  ],
+  [
+   102,
+   "up P",
+   "up ?"
+  ],
+  [
+   104,
+   "happened F",
+   "happened ?"
+  ],
+  [
+   105,
+   "sleep F",
+   "sleep ?"
+  ],
+  [
+   105,
+   "for P",
+   "for ?"
+  ],
+  [
+   106,
+   "de P",
+   "de ?"
+  ],
+  [
+   108,
+   "sault P",
+   "sault ?"
+  ],
+  [
+   111,
+   "entrance P",
+   "entrance ?"
+  ],
+  [
+   111,
+   "him F",
+   "him ?"
+  ],
+  [
+   113,
+   "cast P",
+   "cast ?"
+  ],
+  [
+   116,
+   "revenge P",
+   "revenge ?"
+  ],
+  [
+   130,
+   "desired P",
+   "desired ?"
+  ],
+  [
+   137,
+   "Deborah F",
+   "Deborah ?"
+  ],
+  [
+   151,
+   "he F",
+   "he ?"
+  ],
+  [
+   152,
+   "done F",
+   "done ?"
+  ],
+  [
+   152,
+   "him F",
+   "him ?"
+  ],
+  [
+   152,
+   "head F",
+   "head ?"
+  ],
+  [
+   152,
+   "he F",
+   "he ?"
+  ],
+  [
+   152,
+   "irons F",
+   "irons ?"
+  ],
+  [
+   161,
+   "pit P",
+   "pit ?"
+  ],
+  [
+   163,
+   "prison P",
+   "prison ?"
+  ],
+  [
+   173,
+   "religion P",
+   "religion ?"
+  ],
+  [
+   181,
+   "death F",
+   "death ?"
+  ],
+  [
+   190,
+   "me F",
+   "me ?"
+  ],
+  [
+   190,
+   "misfortune P",
+   "misfortune ?"
+  ],
+  [
+   191,
+   "here F",
+   "here ?"
+  ],
+  [
+   191,
+   "how P",
+   "how ?"
+  ],
+  [
+   191,
+   "for F",
+   "for ?"
+  ],
+  [
+   191,
+   "me F",
+   "me ?"
+  ],
+  [
+   191,
+   "about P",
+   "about ?"
+  ],
+  [
+   198,
+   "horses F",
+   "horses ?"
+  ],
+  [
+   198,
+   "man P",
+   "man ?"
+  ],
+  [
+   198,
+   "accomplished P",
+   "accomplished ?"
+  ],
+  [
+   199,
+   "about P",
+   "about ?"
+  ],
+  [
+   199,
+   "hers F",
+   "hers ?"
+  ],
+  [
+   199,
+   "do P",
+   "do ?"
+  ],
+  [
+   6,
+   "when lie",
+   "when he"
+  ],
+  [
+   14,
+   "upon Ills",
+   "upon his"
+  ],
+  [
+   29,
+   ". iii",
+   ". in"
+  ],
+  [
+   32,
+   "had lie",
+   "had he"
+  ],
+  [
+   50,
+   "; hut",
+   "; but"
+  ],
+  [
+   58,
+   "is lie",
+   "is he"
+  ],
+  [
+   59,
+   "; hut",
+   "; but"
+  ],
+  [
+   59,
+   "Bessie bad",
+   "Bessie had"
+  ],
+  [
+   65,
+   "edifice, hut",
+   "edifice, but"
+  ],
+  [
+   69,
+   "spouse, lie",
+   "spouse, he"
+  ],
+  [
+   71,
+   "As lie",
+   "As he"
+  ],
+  [
+   77,
+   "and lie",
+   "and he"
+  ],
+  [
+   82,
+   "whom lie",
+   "whom he"
+  ],
+  [
+   83,
+   "” lie",
+   "” he"
+  ],
+  [
+   85,
+   "Bessie,” lie",
+   "Bessie,” he"
+  ],
+  [
+   102,
+   "Bessie,” lie",
+   "Bessie,” he"
+  ],
+  [
+   109,
+   "and lie",
+   "and he"
+  ],
+  [
+   117,
+   "; lie",
+   "; he"
+  ],
+  [
+   117,
+   "; hut",
+   "; but"
+  ],
+  [
+   117,
+   "influence, lie",
+   "influence, he"
+  ],
+  [
+   117,
+   "; lie",
+   "; he"
+  ],
+  [
+   119,
+   "that Ills",
+   "that his"
+  ],
+  [
+   121,
+   "! lie",
+   "! He"
+  ],
+  [
+   124,
+   "as lie",
+   "as he"
+  ],
+  [
+   131,
+   "was, iii",
+   "was, in"
+  ],
+  [
+   132,
+   "uncertain, hut",
+   "uncertain, but"
+  ],
+  [
+   136,
+   "wind, hut",
+   "wind, but"
+  ],
+  [
+   150,
+   "quiet, lie",
+   "quiet, he"
+  ],
+  [
+   152,
+   "can lie",
+   "can he"
+  ],
+  [
+   159,
+   "distorted Ills",
+   "distorted his"
+  ],
+  [
+   166,
+   "master, lie",
+   "master, he"
+  ],
+  [
+   172,
+   "and lie",
+   "and he"
+  ],
+  [
+   180,
+   "181 oil",
+   "181 off"
+  ],
+  [
+   180,
+   "said lie,",
+   "said he,"
+  ],
+  [
+   188,
+   "insiders, hut",
+   "insiders, but"
+  ],
+  [
+   189,
+   "consequently lie",
+   "consequently he"
+  ],
+  [
+   193,
+   "conviviality, lie",
+   "conviviality, he"
+  ],
+  [
+   201,
+   "ground, lie",
+   "ground, he"
+  ],
+  [
+   204,
+   "for lie",
+   "for he"
+  ],
+  [
+   54,
+   "d’ cxpliqusr",
+   "d’expliquer"
+  ],
+  [
+   143,
+   "one. ns",
+   "one. Talus"
+  ],
+  [
+   25,
+   "cli in,",
+   "chin,"
+  ],
+  [
+   6,
+   "mental features",
+   "THE mental features"
+  ],
+  [
+   6,
+   "are, in themselves,",
+   "cal are, in themselves,"
+  ],
+  [
+   6,
+   "alysis. We",
+   "analysis. We"
+  ],
+  [
+   55,
+   "by j. w. deforest.",
+   "BY J. W. DEFOREST."
+  ],
+  [
+   55,
+   "UPID and",
+   "CUPID and"
+  ],
+  [
+   107,
+   "castle of the Prince",
+   "THE castle of the Prince"
+  ],
+  [
+   127,
+   "N the South",
+   "IN the South"
+  ],
+  [
+   148,
+   "T the commencement",
+   "AT the commencement"
+  ],
+  [
+   164,
+   "ORE than",
+   "MORE than"
+  ],
+  [
+   181,
+   "HAT is",
+   "WHAT is"
+  ],
+  [
+   84,
+   "L ATT SON",
+   "LAUSON"
+  ],
+  [
+   96,
+   "tragedy. 97",
+   "TRAGEDY. 97"
+  ],
+  [
+   166,
+   "OP LA",
+   "OF LA"
+  ],
+  [
+   23,
+   "24-",
+   "24"
+  ],
+  [
+   69,
+   "TO",
+   "70"
+  ],
+  [
+   78,
+   "1 9",
+   "79"
+  ],
+  [
+   83,
+   "ST",
+   "84"
+  ],
+  [
+   95,
+   "90",
+   "96"
+  ],
+  [
+   121,
+   "isa",
+   "122"
+  ],
+  [
+   160,
+   "101",
+   "161"
+  ],
+  [
+   191,
+   "193",
+   "192"
+  ],
+  [
+   6,
+   "yond ail",
+   "yond all"
+  ],
+  [
+   55,
+   "vari- ons",
+   "vari- ous"
+  ],
+  [
+   55,
+   "repe- titians,",
+   "repe- titions,"
+  ],
+  [
+   55,
+   "titions, -with",
+   "titions, with"
+  ],
+  [
+   148,
+   "crimi- nab",
+   "crimi- nals"
+  ],
+  [
+   148,
+   "Homan Catholic",
+   "Roman Catholic"
+  ],
+  [
+   159,
+   "to (lie",
+   "to the"
+  ],
+  [
+   173,
+   "of t lie",
+   "of the"
+  ],
+  [
+   45,
+   "t lie shipping",
+   "the shipping"
+  ],
+  [
+   191,
+   "enough. 0, this",
+   "enough. O, this"
+  ],
+  [
+   68,
+   "strike me ! 0 Lord,",
+   "strike me ! O Lord,"
+  ]
+ ],
+ "reocr_damaged_pages": true,
+ "vote_min_ratio": 0.45,
+ "pages_from_twin": [
+  [
+   15,
+   "littleclassics00unkngoog",
+   21
+  ]
+ ]
+}
