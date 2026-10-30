@@ -1,0 +1,914 @@
+{
+ "_about": "Poetry the PNEU programmes and Mason's Home Education volumes set: collected poems and school anthologies. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "alexander",
+  "alfred",
+  "arnold",
+  "arr",
+  "arthur",
+  "association",
+  "aytoun",
+  "barrett",
+  "blake",
+  "browning",
+  "burrell",
+  "byron",
+  "chenevix",
+  "chisholm",
+  "christopher",
+  "coleridge",
+  "comp",
+  "cowper",
+  "davidson",
+  "edgar",
+  "elizabeth",
+  "english",
+  "frank",
+  "fyleman",
+  "henley",
+  "henry",
+  "john",
+  "jones",
+  "kipling",
+  "klopstock",
+  "langland",
+  "london",
+  "lord",
+  "louey",
+  "macmillan",
+  "mare",
+  "marlowe",
+  "matthew",
+  "methuen",
+  "milton",
+  "new",
+  "pope",
+  "richard",
+  "robert",
+  "rogers",
+  "rose",
+  "rudyard",
+  "samuel",
+  "scott",
+  "sidgwick",
+  "smith",
+  "southey",
+  "tennyson",
+  "trench",
+  "vaughan",
+  "walter",
+  "william",
+  "woods",
+  "wordsworth",
+  "york"
+ ],
+ "_surname_by_slug": {
+  "edgar-treasury-verse": [
+   "edgar"
+  ],
+  "chisholm-golden-staircase": [
+   "chisholm"
+  ],
+  "browning-abt-vogler-dramatis": [
+   "browning",
+   "robert browning"
+  ],
+  "byron-mazeppa": [
+   "byron"
+  ],
+  "davidson-fleet-street-eclogues": [
+   "davidson",
+   "john davidson"
+  ],
+  "fyleman-fairy-green": [
+   "fyleman",
+   "rose fyleman"
+  ],
+  "klopstock-der-messias": [
+   "klopstock",
+   "f. g. klopstock"
+  ],
+  "rogers-italy-illustrated-by": [
+   "rogers",
+   "samuel rogers"
+  ],
+  "scott-lay-last-minstrel": [
+   "scott",
+   "walter scott"
+  ],
+  "southey-southey-s-ballads": [
+   "southey",
+   "robert southey"
+  ],
+  "tennyson-harold-drama": [
+   "tennyson",
+   "alfred tennyson"
+  ],
+  "wordsworth-ode-duty": [
+   "wordsworth",
+   "william wordsworth"
+  ],
+  "jones-golden-book-children": [
+   "frank jones",
+   "jones"
+  ],
+  "methuen-anthology-english-lyrics": [
+   "methuen"
+  ],
+  "methuen-anthology-modern-verse": [
+   "methuen"
+  ],
+  "arnold-poems-matthew-arnold": [
+   "matthew arnold",
+   "arnold"
+  ],
+  "aytoun-edinburgh-after-flodden": [
+   "aytoun",
+   "w. e. aytoun"
+  ],
+  "browning-aurora-leigh": [
+   "browning",
+   "elizabeth barrett browning"
+  ],
+  "cowper-poems-cowper": [
+   "cowper",
+   "william cowper"
+  ],
+  "kipling-poems-kipling-seven": [
+   "kipling",
+   "rudyard kipling"
+  ],
+  "kipling-poems-kipling-seven-2": [
+   "kipling",
+   "rudyard kipling"
+  ],
+  "southey-thalaba-destroyer-curse": [
+   "southey",
+   "robert southey"
+  ],
+  "southey-thalaba-destroyer-curse-1": [
+   "southey",
+   "robert southey"
+  ],
+  "southey-thalaba-destroyer-curse-2": [
+   "southey",
+   "robert southey"
+  ],
+  "tennyson-poems-tennyson-sir": [
+   "tennyson",
+   "alfred tennyson"
+  ],
+  "vaughan-poems-silex-scintillans": [
+   "vaughan",
+   "henry vaughan"
+  ],
+  "jc-smith-book-verse-boys": [
+   "j. c. smith"
+  ],
+  "sidgwick-poems-day-series": [
+   "sidgwick"
+  ],
+  "sidgwick-poems-day-series-2": [
+   "sidgwick"
+  ],
+  "de-la-mare-come-hither": [
+   "de la mare",
+   "mare"
+  ],
+  "browning-men-women-fra": [
+   "browning",
+   "robert browning"
+  ],
+  "fyleman-fairies-friends": [
+   "fyleman",
+   "rose fyleman"
+  ],
+  "kipling-five-nations-i": [
+   "kipling",
+   "rudyard kipling"
+  ],
+  "kipling-five-nations-ii": [
+   "kipling",
+   "rudyard kipling"
+  ],
+  "milton-comus": [
+   "milton",
+   "john milton"
+  ],
+  "pope-essay-man": [
+   "alexander pope"
+  ],
+  "tennyson-foresters": [
+   "tennyson",
+   "alfred tennyson"
+  ],
+  "burrell-recitation-handbook-book": [
+   "burrell"
+  ],
+  "woods-first-poetry-book": [
+   "woods",
+   "m. a. woods"
+  ],
+  "henley-lyra-heroica": [
+   "henley"
+  ],
+  "blake-songs-innocence": [
+   "blake",
+   "william blake"
+  ],
+  "browning-paracelsus": [
+   "browning",
+   "robert browning"
+  ],
+  "coleridge-kubla-khan-christabel": [
+   "coleridge",
+   "s. t. coleridge"
+  ],
+  "fyleman-fairy-flute": [
+   "fyleman",
+   "rose fyleman"
+  ],
+  "langland-piers-plowman": [
+   "langland",
+   "william langland"
+  ],
+  "marlowe-edward-ii": [
+   "marlowe",
+   "christopher marlowe"
+  ],
+  "pope-rape-lock": [
+   "alexander pope"
+  ],
+  "tennyson-princess": [
+   "tennyson",
+   "alfred tennyson"
+  ],
+  "trench-poems-sonnets-trench": [
+   "chenevix trench",
+   "r. c. trench"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "browning-abt-vogler-dramatis": [
+   16376,
+   "Robert Browning, Browning's Shorter Poems, ed. Franklin T. Baker (PG 16376)"
+  ],
+  "byron-mazeppa": [
+   20158,
+   "Lord Byron, The Works of Lord Byron: Poetry, vol. 4, ed. Ernest Hartley Coleridge, London: John Murray, 1901 (PG 20158)"
+  ],
+  "tennyson-harold-drama": [
+   9176,
+   "Alfred Tennyson, Queen Mary and Harold (PG 9176)"
+  ],
+  "wordsworth-ode-duty": [
+   8774,
+   "William Wordsworth, Poems in Two Volumes, vol. 1 (1807) (PG 8774)"
+  ],
+  "arnold-poems-matthew-arnold": [
+   27739,
+   "The Poetical Works of Matthew Arnold (London and New York: Macmillan, 1890; repr. 1891)"
+  ],
+  "aytoun-edinburgh-after-flodden": [
+   10945,
+   "W. E. Aytoun, Lays of the Scottish Cavaliers and Other Poems"
+  ],
+  "browning-aurora-leigh": [
+   56621,
+   "Elizabeth Barrett Browning, Aurora Leigh (London: Chapman and Hall, 1857)"
+  ],
+  "cowper-poems-cowper": [
+   3698,
+   "William Cowper, The Task and Other Poems (PG 3698; Cassell's National Library text)"
+  ],
+  "kipling-poems-kipling-seven": [
+   27870,
+   "Rudyard Kipling, The Seven Seas (New York: Appleton, 1900 printing; copyright 1896)"
+  ],
+  "kipling-poems-kipling-seven-2": [
+   7846,
+   "Rudyard Kipling, Departmental Ditties and Barrack-Room Ballads (PG 7846)"
+  ],
+  "southey-thalaba-destroyer-curse": [
+   39804,
+   "Robert Southey, Thalaba the Destroyer (London: Longman, 1801; PG text from the 1991 Woodstock facsimile)"
+  ],
+  "southey-thalaba-destroyer-curse-1": [
+   55458,
+   "Robert Southey, The Curse of Kehama, vol. 1 (London: Longman, 1812)"
+  ],
+  "southey-thalaba-destroyer-curse-2": [
+   55459,
+   "Robert Southey, The Curse of Kehama, vol. 2 (London: Longman, 1812)"
+  ],
+  "browning-men-women-fra": [
+   17393,
+   "Robert Browning, Men and Women (PG text from the Crowell, New York, 1898 edition)"
+  ],
+  "kipling-five-nations-i": [
+   60260,
+   "Rudyard Kipling, The Five Nations, vol. I (PG etext; 1903 collection)"
+  ],
+  "kipling-five-nations-ii": [
+   60261,
+   "Rudyard Kipling, The Five Nations, vol. II (PG etext; 1903 collection)"
+  ],
+  "milton-comus": [
+   1745,
+   "John Milton, The Poetical Works, ed. H. C. Beeching (Oxford: Clarendon Press, 1900)"
+  ],
+  "pope-essay-man": [
+   2428,
+   "Alexander Pope, An Essay on Man (PG from the Cassell 1891 edition)"
+  ],
+  "henley-lyra-heroica": [
+   19316,
+   "W. E. Henley (ed.), Lyra Heroica: A Book of Verse for Boys (London: David Nutt, 1892)"
+  ],
+  "blake-songs-innocence": [
+   1934,
+   "William Blake, Songs of Innocence and of Experience (PG edition)"
+  ],
+  "coleridge-kubla-khan-christabel": [
+   29090,
+   "S. T. Coleridge, The Complete Poetical Works, ed. Ernest Hartley Coleridge (Oxford: Clarendon, 1912), vols I-II"
+  ],
+  "fyleman-fairy-flute": [
+   76340,
+   "Rose Fyleman, The Fairy Flute (London: Methuen, 1921 [2nd ed. 1922])"
+  ],
+  "marlowe-edward-ii": [
+   20288,
+   "Christopher Marlowe, Edward the Second (PG edition)"
+  ],
+  "pope-rape-lock": [
+   9800,
+   "Alexander Pope, The Rape of the Lock and Other Poems (PG edition)"
+  ],
+  "tennyson-princess": [
+   791,
+   "Alfred Tennyson, The Princess (PG edition)"
+  ]
+ },
+ "internet_archive": {
+  "edgar-treasury-verse": [
+   "treasuryofversef00edga",
+   "M. G. Edgar (comp.), A Treasury of Verse for Little Children, New York: Macmillan, 1923 (US issue of Harrap ed.)"
+  ],
+  "chisholm-golden-staircase": [
+   "goldenstaircasep00chis",
+   "Louey Chisholm (comp.), The Golden Staircase: Poems and Verses for Children, ill. M. Dibdin Spooner, New York: Putnam [1906?] (US issue of T. C. & E. C. Jack ed.)"
+  ],
+  "davidson-fleet-street-eclogues": [
+   "fleetstreeteclog00daviuoft",
+   "John Davidson, Fleet Street Eclogues [first series], London: Elkin Mathews, 1893"
+  ],
+  "fyleman-fairy-green": [
+   "fairygreen00fyle",
+   "Rose Fyleman, The Fairy Green, London: Methuen, 1919"
+  ],
+  "klopstock-der-messias": [
+   "messiahklopstock00klopiala",
+   "F. G. Klopstock, The Messiah, tr. Joseph and Mary Collyer, new ed. in one vol., Bungay: C. Brightly, 1808"
+  ],
+  "rogers-italy-illustrated-by": [
+   "italypoem1830roge",
+   "Samuel Rogers, Italy: A Poem, ill. J. M. W. Turner and T. Stothard, London: T. Cadell and E. Moxon, 1830"
+  ],
+  "scott-lay-last-minstrel": [
+   "layoflastminstre00scotuoft",
+   "Walter Scott, The Lay of the Last Minstrel, ed. Margaret Andrews Allen, Boston: Ginn, 1889"
+  ],
+  "southey-southey-s-ballads": [
+   "joanofarcballads00sout",
+   "Robert Southey, Joan of Arc, Ballads, Lyrics, and Minor Poems, London: G. Routledge, 1894"
+  ],
+  "jones-golden-book-children": [
+   "goldenbookofchil0000fran",
+   "Frank Jones (arr.), The Golden Book of Children's Verse, London: Blackie, 1923"
+  ],
+  "methuen-anthology-english-lyrics": [
+   "shakespearetohar00meth",
+   "A. Methuen (ed.), Shakespeare to Hardy: An Anthology of English Lyrics (London: Methuen, 1922)"
+  ],
+  "methuen-anthology-modern-verse": [
+   "anthologyofmoder00meth",
+   "A. Methuen (ed.), An Anthology of Modern Verse, intro. Robert Lynd (London: Methuen, 1921)"
+  ],
+  "tennyson-poems-tennyson-sir": [
+   "cu31924016658860",
+   "Alfred Tennyson, Works (London: Macmillan, 1884), one volume"
+  ],
+  "vaughan-poems-silex-scintillans": [
+   "silexscintillans00vaug_0",
+   "Henry Vaughan, Silex Scintillans: Sacred Poems and Private Ejaculations, ed. H. F. Lyte (London: Pickering, 1847)"
+  ],
+  "jc-smith-book-verse-boys": [
+   "cihm_66567",
+   "J. C. Smith (comp.), A Book of Verse for Boys and Girls (Oxford: Clarendon Press, 1908) [microfiche]"
+  ],
+  "sidgwick-poems-day-series": [
+   "poemsoftodayanth00engluoft",
+   "English Association (ed.), Poems of To-day: an anthology (London: Sidgwick & Jackson, 1915)"
+  ],
+  "sidgwick-poems-day-series-2": [
+   "poemsoftodayseco00londuoft",
+   "English Association (ed.), Poems of To-day: second series (London: Sidgwick & Jackson, 1922)"
+  ],
+  "de-la-mare-come-hither": [
+   "comehithercollec00delauoft",
+   "Walter de la Mare (ed.), Come Hither: a collection of rhymes and poems for the young of all ages, illus. Alec Buckels (London: Constable, 1923)"
+  ],
+  "fyleman-fairies-friends": [
+   "fairiesfriends00fyle",
+   "Rose Fyleman, Fairies and Friends (London: Methuen, 1930)"
+  ],
+  "tennyson-foresters": [
+   "forestersrobinho00tennuoft",
+   "Alfred Tennyson, The Foresters: Robin Hood and Maid Marian (London: Macmillan, 1892)"
+  ],
+  "burrell-recitation-handbook-book": [
+   "bookofheroicvers0000burr",
+   "Arthur Burrell (ed.), A Book of Heroic Verse (London: Dent, 1912)"
+  ],
+  "woods-first-poetry-book": [
+   "in.ernet.dli.2015.262181",
+   "M. A. Woods (ed.), A First School Poetry Book (London: Macmillan, 1888)",
+   "2015.262181.A-First_djvu.txt"
+  ],
+  "browning-paracelsus": [
+   "paracelsus00brow",
+   "Robert Browning, Paracelsus (London: J. M. Dent, 1898)"
+  ],
+  "langland-piers-plowman": [
+   "visionofpiersplo00languoft",
+   "William Langland, The Vision of Piers the Plowman, done into modern English by W. W. Skeat (London: A. Moring, 1905)"
+  ],
+  "trench-poems-sonnets-trench": [
+   "poemstrench00treniala",
+   "Richard Chenevix Trench, Poems (London: Macmillan, 1865)"
+  ]
+ },
+ "_rights_checked": {
+  "fyleman-fairies-friends": "verso: first published June 10th 1925; this copy the third (school) edition, 1930"
+ },
+ "_checks": {
+  "browning-abt-vogler-dramatis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "browning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-mazeppa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "byron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tennyson-harold-drama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "tennyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-ode-duty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnold-poems-matthew-arnold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "matthew arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "browning-aurora-leigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "browning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cowper-poems-cowper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "cowper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-poems-kipling-seven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-poems-kipling-seven-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "southey-thalaba-destroyer-curse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "southey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "southey-thalaba-destroyer-curse-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "southey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "southey-thalaba-destroyer-curse-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "southey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "browning-men-women-fra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "browning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "milton-comus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "milton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pope-essay-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "alexander pope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henley-lyra-heroica": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "henley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blake-songs-innocence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "blake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coleridge-kubla-khan-christabel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marlowe-edward-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "marlowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pope-rape-lock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "alexander pope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tennyson-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "tennyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edgar-treasury-verse": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "edgar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "chisholm-golden-staircase": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "chisholm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "davidson-fleet-street-eclogues": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fyleman-fairy-green": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fyleman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "klopstock-der-messias": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "klopstock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rogers-italy-illustrated-by": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "rogers",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scott-lay-last-minstrel": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "southey-southey-s-ballads": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "southey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-golden-book-children": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "frank jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "methuen-anthology-english-lyrics": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "methuen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "[1922]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "methuen-anthology-modern-verse": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "methuen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "[1921]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tennyson-poems-tennyson-sir": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "tennyson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaughan-poems-silex-scintillans": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jc-smith-book-verse-boys": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "j. c. smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sidgwick-poems-day-series": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sidgwick-poems-day-series-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-la-mare-come-hither": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "de la mare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fyleman-fairies-friends": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fyleman",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso: first published June 10th 1925; this copy the third (school) edition, 1930"
+  },
+  "tennyson-foresters": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "tennyson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-recitation-handbook-book": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woods-first-poetry-book": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "woods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "browning-paracelsus": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "browning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "langland-piers-plowman": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "langland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trench-poems-sonnets-trench": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "chenevix trench",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

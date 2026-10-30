@@ -1,0 +1,167 @@
+{
+ "_about": "Charlotte Mason's own books: Ourselves (Home Education vol. IV), The Forty Shires, and her Geographical Readers (Stanford, 1881-84), the originals the later Ambleside Geography Books revised. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "charlotte",
+  "mason"
+ ],
+ "_surname_by_slug": {
+  "charlotte-mason-ourselves-book-i": [
+   "charlotte m. mason",
+   "charlotte mason",
+   "c. m. mason"
+  ],
+  "charlotte-mason-ambleside-geography-books-i": [
+   "charlotte m. mason",
+   "charlotte mason",
+   "c. m. mason"
+  ],
+  "charlotte-mason-ambleside-geography-books-ii": [
+   "charlotte m. mason",
+   "charlotte mason",
+   "c. m. mason"
+  ],
+  "charlotte-mason-ambleside-geography-books-iii": [
+   "charlotte m. mason",
+   "charlotte mason",
+   "c. m. mason"
+  ],
+  "charlotte-mason-ambleside-geography-books-iv": [
+   "charlotte m. mason",
+   "charlotte mason",
+   "c. m. mason"
+  ],
+  "charlotte-mason-ambleside-geography-books-v": [
+   "charlotte m. mason",
+   "charlotte mason",
+   "c. m. mason"
+  ],
+  "charlotte-mason-forty-shires": [
+   "charlotte m. mason",
+   "charlotte mason",
+   "c. m. mason"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "charlotte-mason-ourselves-book-i": [
+   "home-education-series-vol-iv-ourselves",
+   "Charlotte M. Mason, Ourselves (Home Education Series vol. IV: Book I Self-Knowledge, Book II Self-Direction), 2nd ed. revised, London: Kegan Paul, Trench, Trubner, 1905",
+   "Home Education Series vol IV Ourselves_djvu.txt"
+  ],
+  "charlotte-mason-ambleside-geography-books-i": [
+   "elementary-geography",
+   "Charlotte M. Mason, Geographical Readers for Elementary Schools, Book I: Elementary Geography (London: Edward Stanford, 1881)",
+   "elementary geography_djvu.txt"
+  ],
+  "charlotte-mason-ambleside-geography-books-ii": [
+   "geographicalrea02masogoog",
+   "Charlotte M. Mason, Geographical Readers for Elementary Schools, Book II: The British Empire and the Great Divisions of the Globe (London: Edward Stanford, 1882)"
+  ],
+  "charlotte-mason-ambleside-geography-books-iii": [
+   "geographicalrea03masogoog",
+   "Charlotte M. Mason, Geographical Readers for Elementary Schools, Book III: The Counties of England (London: Edward Stanford, 1881)"
+  ],
+  "charlotte-mason-ambleside-geography-books-iv": [
+   "geographicalrea00masogoog",
+   "Charlotte M. Mason, Geographical Readers for Elementary Schools, Book IV: On the Continent: A Description of the Countries of Europe (London: Edward Stanford, 1883)"
+  ],
+  "charlotte-mason-ambleside-geography-books-v": [
+   "geographicalrea01masogoog",
+   "Charlotte M. Mason, Geographical Readers for Elementary Schools, Book V: The Old and the New World (Asia, Africa, America, Australasia) (London: Edward Stanford, 1884)"
+  ],
+  "charlotte-mason-forty-shires": [
+   "fortyshiresthier0000char",
+   "Charlotte M. Mason, The Forty Shires: their history, scenery, arts and legends, 2nd ed. (London: Hatchards, 1882)"
+  ]
+ },
+ "_identity_checked": {
+  "charlotte-mason-ambleside-geography-books-iii": {
+   "author": "title page OCR: 'CHAELOTTE M. MASON'"
+  },
+  "charlotte-mason-ambleside-geography-books-iv": {
+   "author": "title page OCR: 'CHAELOTTE M, MASON'"
+  }
+ },
+ "_checks": {
+  "charlotte-mason-ourselves-book-i": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "charlotte m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "charlotte-mason-ambleside-geography-books-i": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "charlotte m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "charlotte-mason-ambleside-geography-books-ii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "charlotte m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "charlotte-mason-ambleside-geography-books-iii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "charlotte-mason-ambleside-geography-books-iv": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "charlotte-mason-ambleside-geography-books-v": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "charlotte m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "charlotte-mason-forty-shires": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "charlotte m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

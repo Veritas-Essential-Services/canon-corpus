@@ -1,0 +1,933 @@
+{
+ "_about": "Geography and travel the PNEU programmes set, including Hakluyt (14 of the Goldsmid edition's 16 volumes; 15-16 are not on Gutenberg), Mungo Park, Eothen and Isabella Bird. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "adams",
+  "alice",
+  "allen",
+  "anson",
+  "archibald",
+  "bird",
+  "captain",
+  "chance",
+  "comp",
+  "cook",
+  "cornelia",
+  "cumming",
+  "dorothy",
+  "dufferin",
+  "early",
+  "elizabeth",
+  "emmanuel",
+  "fleure",
+  "francis",
+  "geikie",
+  "george",
+  "gordon",
+  "hakluyt",
+  "hartwig",
+  "hedin",
+  "hutton",
+  "isabella",
+  "james",
+  "japan",
+  "john",
+  "king",
+  "kinglake",
+  "kipling",
+  "kirby",
+  "lieut",
+  "lieutenant",
+  "lord",
+  "lulu",
+  "margaret",
+  "marion",
+  "martonne",
+  "mary",
+  "maude",
+  "methley",
+  "mungo",
+  "nellie",
+  "newbigin",
+  "nichols",
+  "park",
+  "parkin",
+  "purchas",
+  "richard",
+  "rudyard",
+  "sakae",
+  "samuel",
+  "saris",
+  "shioya",
+  "sorabji",
+  "stuart",
+  "sven",
+  "voyages",
+  "walter",
+  "william"
+ ],
+ "_surname_by_slug": {
+  "bird-lady-s-life": [
+   "bird",
+   "isabella l. bird"
+  ],
+  "dufferin-letters-high-latitudes": [
+   "dufferin"
+  ],
+  "fleure-treaty-settlement-europe": [
+   "fleure",
+   "h. j. fleure"
+  ],
+  "geikie-elementary-lessons-physical": [
+   "geikie",
+   "archibald geikie"
+  ],
+  "gordon-cumming-lion-hunter-south": [
+   "gordon cumming",
+   "gordon-cumming",
+   "cumming"
+  ],
+  "kipling-letters-travel": [
+   "kipling",
+   "rudyard kipling"
+  ],
+  "methley-how-world-travels": [
+   "methley",
+   "alice a. methley"
+  ],
+  "newbigin-frequented-ways": [
+   "newbigin",
+   "marion i. newbigin"
+  ],
+  "nichols-through-hidden-shensi": [
+   "nichols",
+   "francis h. nichols"
+  ],
+  "parkin-round-empire": [
+   "parkin",
+   "george r. parkin"
+  ],
+  "purchas-purchas-his-pilgrimes": [
+   "purchas"
+  ],
+  "anson-voyage-round-world": [
+   "anson",
+   "richard walter"
+  ],
+  "hutton-eskimo-village": [
+   "hutton",
+   "samuel king hutton"
+  ],
+  "bird-six-months-sandwich": [
+   "bird",
+   "isabella l. bird"
+  ],
+  "cook-voyages-captain-cook": [
+   "captain cook",
+   "james cook",
+   "lieut. cook",
+   "lieutenant cook"
+  ],
+  "newbigin-modern-geography": [
+   "newbigin",
+   "marion i. newbigin"
+  ],
+  "bird-unbeaten-tracks-japan": [
+   "bird",
+   "isabella l. bird"
+  ],
+  "chance-little-folk-many": [
+   "chance",
+   "lulu maude chance"
+  ],
+  "geikie-physical-geography-science": [
+   "geikie",
+   "archibald geikie"
+  ],
+  "hedin-pole-pole": [
+   "hedin",
+   "sven hedin"
+  ],
+  "kinglake-eothen": [
+   "kinglake",
+   "a. w. kinglake"
+  ],
+  "newbigin-new-regional-geography": [
+   "newbigin",
+   "marion i. newbigin"
+  ],
+  "stuart-book-other-lands": [
+   "stuart",
+   "dorothy margaret stuart"
+  ],
+  "allen-asia": [
+   "allen",
+   "nellie b. allen"
+  ],
+  "hakluyt-principal-navigations-hakluyt-1": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-2": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-3": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-4": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-5": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-6": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-7": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-8": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-9": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-10": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-11": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-12": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-13": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hakluyt-principal-navigations-hakluyt-14": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "hartwig-polar-world": [
+   "hartwig",
+   "george hartwig"
+  ],
+  "kipling-sea-sea": [
+   "kipling",
+   "rudyard kipling"
+  ],
+  "kirby-world-at-home": [
+   "kirby"
+  ],
+  "martonne-shorter-physical-geography": [
+   "martonne",
+   "emmanuel de martonne"
+  ],
+  "methley-happy-homes-foreign": [
+   "methley",
+   "alice a. methley"
+  ],
+  "newbigin-aftermath-geographical-study": [
+   "newbigin",
+   "marion i. newbigin"
+  ],
+  "park-travels-interior-districts-1": [
+   "mungo park"
+  ],
+  "park-travels-interior-districts-2": [
+   "mungo park"
+  ],
+  "shioya-when-i-was": [
+   "shioya",
+   "sakae shioya"
+  ],
+  "sorabji-sun-babies": [
+   "sorabji",
+   "cornelia sorabji"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "bird-lady-s-life": [
+   755,
+   "Isabella L. Bird, A Lady's Life in the Rocky Mountains (PG 755; from London: John Murray ed.)"
+  ],
+  "dufferin-letters-high-latitudes": [
+   3701,
+   "Lord Dufferin, Letters from High Latitudes (PG 3701)"
+  ],
+  "kipling-letters-travel": [
+   12089,
+   "Rudyard Kipling, Letters of Travel (1892-1913) (PG 12089; London: Macmillan 1920)"
+  ],
+  "methley-how-world-travels": [
+   45078,
+   "Alice A. Methley, How the World Travels, ill. W. Herbert Holloway (PG 45078)"
+  ],
+  "anson-voyage-round-world": [
+   47130,
+   "Richard Walter (comp.), A Voyage Round the World in the Years 1740-4 by George Anson, intro. John Masefield, Everyman (PG 47130)"
+  ],
+  "bird-six-months-sandwich": [
+   6750,
+   "Isabella L. Bird, The Hawaiian Archipelago: Six Months among the Palm Groves, Coral Reefs, and Volcanoes of the Sandwich Islands (London: John Murray, 1875)"
+  ],
+  "cook-voyages-captain-cook": [
+   8106,
+   "Captain Cook's Journal During His First Voyage Round the World, 1768-71, ed. W. J. L. Wharton (London: Elliot Stock, 1893)"
+  ],
+  "newbigin-modern-geography": [
+   40187,
+   "Marion I. Newbigin, Modern Geography (Home University Library; London: Williams & Norgate, 1911)"
+  ],
+  "bird-unbeaten-tracks-japan": [
+   2184,
+   "Isabella L. Bird, Unbeaten Tracks in Japan (London: John Murray, 1911 ed.)"
+  ],
+  "hedin-pole-pole": [
+   20709,
+   "Sven Hedin, From Pole to Pole: a book for young people (London: Macmillan, 1914 reprint of 1912 ed.)"
+  ],
+  "kinglake-eothen": [
+   282,
+   "A. W. Kinglake, Eothen, or Traces of Travel Brought Home from the East (PG etext)"
+  ],
+  "hakluyt-principal-navigations-hakluyt-1": [
+   7182,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 1"
+  ],
+  "hakluyt-principal-navigations-hakluyt-2": [
+   7466,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 2"
+  ],
+  "hakluyt-principal-navigations-hakluyt-3": [
+   7476,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 3"
+  ],
+  "hakluyt-principal-navigations-hakluyt-4": [
+   7769,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 4"
+  ],
+  "hakluyt-principal-navigations-hakluyt-5": [
+   7900,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 5"
+  ],
+  "hakluyt-principal-navigations-hakluyt-6": [
+   8107,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 6"
+  ],
+  "hakluyt-principal-navigations-hakluyt-7": [
+   9148,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 7"
+  ],
+  "hakluyt-principal-navigations-hakluyt-8": [
+   9815,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 8"
+  ],
+  "hakluyt-principal-navigations-hakluyt-9": [
+   10673,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 9"
+  ],
+  "hakluyt-principal-navigations-hakluyt-10": [
+   11948,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 10"
+  ],
+  "hakluyt-principal-navigations-hakluyt-11": [
+   12693,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 11"
+  ],
+  "hakluyt-principal-navigations-hakluyt-12": [
+   13605,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 12"
+  ],
+  "hakluyt-principal-navigations-hakluyt-13": [
+   25645,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 13"
+  ],
+  "hakluyt-principal-navigations-hakluyt-14": [
+   40803,
+   "Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid (Edinburgh, 1884-90), vol 14"
+  ],
+  "hartwig-polar-world": [
+   61398,
+   "George Hartwig, The Polar World (London: Longmans; PG edition, printing not stated)"
+  ],
+  "kipling-sea-sea": [
+   32977,
+   "Rudyard Kipling, From Sea to Sea: Letters of Travel, complete in one volume (Garden City: Doubleday, Page, 1913)"
+  ],
+  "park-travels-interior-districts-1": [
+   5266,
+   "Mungo Park, Travels in the Interior of Africa (PG edition), vol 1"
+  ],
+  "park-travels-interior-districts-2": [
+   5305,
+   "Mungo Park, Travels in the Interior of Africa (PG edition), vol 2"
+  ],
+  "shioya-when-i-was": [
+   55939,
+   "Sakae Shioya, When I Was a Boy in Japan (Boston: Lothrop, Lee & Shepard, 1906)"
+  ]
+ },
+ "internet_archive": {
+  "fleure-treaty-settlement-europe": [
+   "treatysettlement00fleuuoft",
+   "H. J. Fleure, The Treaty Settlement of Europe: Some Geographic and Ethnographic Aspects, London: Oxford University Press, 1921"
+  ],
+  "geikie-elementary-lessons-physical": [
+   "elementarylesson00geikuoft",
+   "Archibald Geikie, Elementary Lessons in Physical Geography, London: Macmillan, 1889"
+  ],
+  "gordon-cumming-lion-hunter-south": [
+   "lionhuntersouth00cummgoog",
+   "R. Gordon Cumming, The Lion Hunter of South Africa: Five Years' Adventures in the Far Interior of South Africa, London: John Murray, 1856"
+  ],
+  "newbigin-frequented-ways": [
+   "frequentedwaysge00newbuoft",
+   "Marion I. Newbigin, Frequented Ways: A General Survey of the Land Forms, Climates and Vegetation of Western Europe, London: Constable, 1922"
+  ],
+  "nichols-through-hidden-shensi": [
+   "throughhiddenshe00nich",
+   "Francis H. Nichols, Through Hidden Shensi, New York: Scribner, 1902"
+  ],
+  "parkin-round-empire": [
+   "roundempireforu00parkgoog",
+   "George R. Parkin, Round the Empire: For the Use of Schools, pref. Lord Rosebery, London: Cassell, 1892"
+  ],
+  "purchas-purchas-his-pilgrimes": [
+   "in.ernet.dli.2015.80186",
+   "Purchas his Pilgrimes: Early Voyages to Japan (John Saris and William Adams), ed. W. H. D. Rouse, Blackie's English School Texts, London: Blackie, 1905",
+   "2015.80186.Early-Voyages-To-Japan_djvu.txt"
+  ],
+  "hutton-eskimo-village": [
+   "eskimovillage00huttuoft",
+   "Samuel King Hutton, An Eskimo Village, London: SPCK, [1929]"
+  ],
+  "chance-little-folk-many": [
+   "littlefolksofman00chan",
+   "Lulu Maude Chance, Little Folks of Many Lands (Boston: Ginn, 1904)"
+  ],
+  "geikie-physical-geography-science": [
+   "in.ernet.dli.2015.79143",
+   "Archibald Geikie, Physical Geography (Science Primers), 5th ed. (London: Macmillan, 1876)",
+   "2015.79143.Physical-Geography-Primer-5th-Edition_djvu.txt"
+  ],
+  "newbigin-new-regional-geography": [
+   "newregionalgeogr0000newb",
+   "Marion I. Newbigin, A New Regional Geography of the World (New York: Harcourt, Brace, 1929)"
+  ],
+  "stuart-book-other-lands": [
+   "bookofotherlands0000doro",
+   "Dorothy Margaret Stuart, The Book of Other Lands (1926)"
+  ],
+  "allen-asia": [
+   "geographicalandi00alle",
+   "Nellie B. Allen, Geographical and Industrial Studies: Asia (Boston: Ginn, 1916)"
+  ],
+  "kirby-world-at-home": [
+   "worldathomeorpic00kirb",
+   "Mary and Elizabeth Kirby, The World at Home: or, pictures and scenes from far-off lands (London: T. Nelson, 1892)"
+  ],
+  "martonne-shorter-physical-geography": [
+   "in.ernet.dli.2015.15731",
+   "Emmanuel de Martonne, A Shorter Physical Geography, tr. E. D. Laborde (London: Christophers, 1927)",
+   "2015.15731.A-Shorter-Physical-Geography_djvu.txt"
+  ],
+  "methley-happy-homes-foreign": [
+   "happyhomesinfore00meth",
+   "Alice A. Methley, Happy Homes in Foreign Lands (New York: F. A. Stokes, 1922)"
+  ],
+  "newbigin-aftermath-geographical-study": [
+   "aftermathgeograp00newbrich",
+   "Marion I. Newbigin, Aftermath: a geographical study of the peace terms (Edinburgh: W. & A. K. Johnston, 1920)"
+  ],
+  "sorabji-sun-babies": [
+   "sunbabiesstudie00soragoog",
+   "Cornelia Sorabji, Sun-Babies: studies in the child-life of India (London: John Murray, 1904)"
+  ]
+ },
+ "_rights_checked": {
+  "hutton-eskimo-village": "SPCK, undated; latest year in the text is 1911 (first published 1912)"
+ },
+ "_identity_checked": {
+  "kirby-world-at-home": {
+   "author": "title page: 'The World at Home; or, Pictures and Scenes from Far-off Lands, by [Mary and Elizabeth Kirby], authors of Things in the Forest', Nelson 1892 (the names are garbled in OCR)"
+  }
+ },
+ "_checks": {
+  "bird-lady-s-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dufferin-letters-high-latitudes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "dufferin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-letters-travel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "methley-how-world-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "methley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "anson-voyage-round-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "anson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bird-six-months-sandwich": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cook-voyages-captain-cook": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "captain cook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newbigin-modern-geography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "newbigin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bird-unbeaten-tracks-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hedin-pole-pole": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hedin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kinglake-eothen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "kinglake",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-7": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-8": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-9": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-10": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-11": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-12": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-13": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hakluyt-principal-navigations-hakluyt-14": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-sea-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "park-travels-interior-districts-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mungo park",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "park-travels-interior-districts-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mungo park",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shioya-when-i-was": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "shioya",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fleure-treaty-settlement-europe": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fleure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "geikie-elementary-lessons-physical": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-cumming-lion-hunter-south": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "gordon cumming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbigin-frequented-ways": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "newbigin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nichols-through-hidden-shensi": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "nichols",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parkin-round-empire": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "parkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "purchas-purchas-his-pilgrimes": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "purchas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hutton-eskimo-village": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hutton",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[n.d.]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "SPCK, undated; latest year in the text is 1911 (first published 1912)"
+  },
+  "chance-little-folk-many": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "chance",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-physical-geography-science": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbigin-new-regional-geography": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "newbigin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stuart-book-other-lands": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926-09",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "allen-asia": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "allen",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "[c1916]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kirby-world-at-home": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "martonne-shorter-physical-geography": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "martonne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "methley-happy-homes-foreign": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "methley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "newbigin-aftermath-geographical-study": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "newbigin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sorabji-sun-babies": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "sorabji",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

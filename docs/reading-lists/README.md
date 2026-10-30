@@ -237,3 +237,23 @@ Adam asked for the Veritas Omnibus volumes and the lists of Wes Callihan, Andrew
 | `belloc-rl` | How the Reformation Happened (1928; IA) |
 
 Left out: Belloc's Joan of Arc, whose only open copy is a retyped text with no title page; Gutenberg's "Life of Saint Columba, Abbot", which is a 19th-century life and not Adamnan's. No PD English found for Ibn Fadlan, John Moschus, Maximus the Confessor, Erasmus's Julius Exclusus, Carman's Oxford Book of American Verse, The Little Engine That Could, Angus and the Ducks, or Faulkner's As I Lay Dying. Already held: Plutarch, Bede, Augustine, Grimm, Lang's fairy books, Bulfinch, Foxe, Luther, Einhard and Notker, the Volsungs, the Koran, Plato's Socratic dialogues, Sophocles, Quo Vadis, Colum's Odysseus, Joinville, the Schaff volumes holding Irenaeus, Basil, Athanasius and John of Damascus, Milne (Lane D), and the Tacitus Annals.
+
+### Batch 10 (2026-10-30): Charlotte Mason's PNEU programmes
+
+Adam asked whether we hold every book on Charlotte Mason's reading lists, then asked for the gaps to be filled. The list and its row-by-row outcome live in `charlotte-mason/` (see its README): 781 titles from the PNEU programmes and the six Home Education volumes, 292 already held on some branch, 333 shelved here. 11 shelves, 390 texts; 374 fetched and checked here with 0 mismatches, and 16 Gutenberg texts that have no archive.org copy wait for `fetch_shelf.py` on the PC (gutenberg.org was unreachable from the cloud session).
+
+| Shelf | Texts | What |
+|---|---|---|
+| `mason-own` | 7 | Mason's Ourselves, The Forty Shires, and her five Geographical Readers (1881-84) |
+| `mason-poetry` | 49 | Collected poems (Milton, Coleridge, Browning, Tennyson, Wordsworth, Cowper, Southey, Arnold, Vaughan, Blake, Pope, Kipling) and the school anthologies the programmes set |
+| `mason-history` | 74 | Our Island Story, Knight's Popular History (8 vols), Green, Gardiner, Arnold-Forster, Prescott's Mexico, Carlyle's Cromwell and French Revolution, Tales of a Grandfather |
+| `mason-geography` | 48 | Hakluyt (14 vols), Mungo Park, Eothen, Isabella Bird, Anson, Cook, Kipling's travel letters, Newbigin |
+| `mason-nature` | 50 | Buckley, Brightwen, Gatty, Gilbert White's Selborne, Morris's British Birds (7 vols), Geikie, Huxley, Lockyer, Ball, Jeans |
+| `mason-bible` | 50 | Paterson Smyth, Hardwich and Costley-White (5 vols), Montefiore, Dummelow, Thomson's Land and the Book, Olney Hymns, mission lives |
+| `mason-literature` | 56 | Carlyle (Heroes, Sartor, Past and Present), Ruskin's Praeterita, Pepys, Evelyn, Rasselas, Areopagitica, Ben-Hur, Bevis, Self-Help |
+| `mason-languages` | 20 | French, German and Italian set texts in the original: Ségur, Souvestre, Fénelon, Daudet, Vigny, Beaumarchais, Sévigné, Musset, Schiller, Niebuhr, Fucini |
+| `mason-arts` | 16 | Picture study, music and architecture: Scholes, Colles, Cartwright, Crane |
+| `mason-education` | 10 | The House of Education's teacher reading: Herbart (Adams), Rein, Rooper, Fouillée, Coleridge's essay on method |
+| `mason-citizenship` | 10 | Citizenship and economics readers: Malden, Strachey, Fawcett, MacCunn |
+
+Not shelved: 106 PD titles with no downloadable text (mostly PNEU textbooks never scanned, and Buckley's Eyes and No Eyes books), 18 that could not be identified, 8 published after 1930, 4 scans held back (a wrong book, and three reprints with no dated pre-1930 printing), two Scott novels (Lane D's), and Alison's 20-volume History of Europe, which Mason only cites.
