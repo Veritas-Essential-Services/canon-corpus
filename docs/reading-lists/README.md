@@ -35,7 +35,6 @@ Shelves follow the relay convention (`pipeline/<name>_shelf.json`, `fetch_shelf.
 | Shelf | Works |
 |---|---|
 | `austen` | Pride and Prejudice, Sense and Sensibility, Mansfield Park, Northanger Abbey, Persuasion (Emma already held: `austen-emma`) |
-| `defoe` | Robinson Crusoe |
 | `dickens` | A Tale of Two Cities, Great Expectations, Oliver Twist, David Copperfield, Bleak House, Hard Times |
 | `bronte` | Jane Eyre, Wuthering Heights |
 | `hawthorne-rl` | The Scarlet Letter |
@@ -65,7 +64,7 @@ Three books needed a chapter rule because their Contents and body headings diffe
 | `walter-scott` | Ivanhoe, The Talisman |
 | `george-eliot` | Silas Marner (Middlemarch already held) |
 | `kipling-novels` | Kim, The Man Who Would Be King, Stalky & Co. (children's books are Lane D's `kipling`) |
-| `henty` | The Cat of Bubastes, The Dragon and the Raven, Winning His Spurs, By Right of Conquest, In the Reign of Terror, With Lee in Virginia, In the Heart of the Rockies, Redskin and Cow-Boy |
+| `henty` | The Cat of Bubastes, The Dragon and the Raven, Winning His Spurs, By Right of Conquest, In the Reign of Terror, In the Heart of the Rockies, Redskin and Cow-Boy |
 | `orczy` | The Scarlet Pimpernel |
 | `john-buchan` | The Thirty-Nine Steps |
 | `tennyson` | Idylls of the King |
@@ -223,14 +222,14 @@ Adam asked for the Veritas Omnibus volumes and the lists of Wes Callihan, Andrew
 | `verse-anthologies` | The Golden Treasury; The Oxford Book of English Verse 1250-1900; The Home Book of Verse, vols 1-4 |
 | `cather` (extended) | Death Comes for the Archbishop (1927); O Pioneers! |
 | `verne` (extended) | Around the World in Eighty Days (Towle); A Journey into the Interior of the Earth (Malleson); The Mysterious Island (Kingston) |
-| `hgwells`, `hardy`, `twain-rl`, `bronte`, `kipling-novels`, `hemingway` (extended) | The First Men in the Moon; Tess of the d'Urbervilles; Pudd'nhead Wilson; Agnes Grey; Captains Courageous; A Farewell to Arms (1929) |
+| `hgwells`, `hardy`, `bronte`, `kipling-novels`, `hemingway` (extended) | The First Men in the Moon; Tess of the d'Urbervilles; Agnes Grey; Captains Courageous; A Farewell to Arms (1929) |
 | `wilde-plays` | An Ideal Husband; The Importance of Being Earnest |
 | `shaw-plays` | Pygmalion (1913) |
 | `dumas-rl` | The Count of Monte Cristo; The Man in the Iron Mask (anonymous 19th-century translations) |
 | `manzoni` | The Betrothed (a 19th-century English translation) |
 | `undset-rl` | The Cross, Kristin Lavransdatter III (Archer, 1927; IA) |
 | `mysteries-1920s` | The Mysterious Affair at Styles; The Maltese Falcon (1930); Strong Poison (1930) |
-| `novels-rl-9` | The Age of Innocence; The Warden; The Enchanted April; The Last of the Mohicans; The Sea-Wolf; Tarzan of the Apes; Fish Preferred (Wodehouse's Summer Lightning) |
+| `novels-rl-9` | The Age of Innocence; The Warden; The Enchanted April; The Last of the Mohicans; Tarzan of the Apes; Fish Preferred (Wodehouse's Summer Lightning) |
 | `series-1920s` | The Tower Treasure (Hardy Boys, 1927); The Secret of the Old Clock (Nancy Drew, 1930); The Box-Car Children (1924) |
 | `voyages-rl` | Sailing Alone Around the World; Two Years Before the Mast; Mandeville's Travels; Ibn Batuta (Lee, 1829; IA); Brendaniana (1893; IA) |
 | `medieval-lives` | Asser's Alfred (Cook); Adamnan's Columba (Huyshe, 1905; IA); Villehardouin (Marzials); Bradford's Plymouth (Paget); Geoffrey of Monmouth (Evans, 1912; IA); Gregory's Dialogues (Gardner, 1911; IA); Roper's More (1905; IA) |
@@ -257,3 +256,7 @@ Adam asked whether we hold every book on Charlotte Mason's reading lists, then a
 | `mason-citizenship` | 10 | Citizenship and economics readers: Malden, Strachey, Fawcett, MacCunn |
 
 Not shelved: 106 PD titles with no downloadable text (mostly PNEU textbooks never scanned, and Buckley's Eyes and No Eyes books), 18 that could not be identified, 8 published after 1930, 4 scans held back (a wrong book, and three reprints with no dated pre-1930 printing), two Scott novels (Lane D's), and Alison's 20-volume History of Europe, which Mason only cites.
+
+### Overlaps with Lane D, settled 2026-10-30
+
+Before the merge into the relay branch, `shelf_overlaps.py` found four books that this work and Lane D (which owns whole books by the major novelists, coordinator ruling 2026-10-17) both shelved. This branch dropped its copies: Robinson Crusoe (the `defoe` shelf, PG 521, removed; Lane D's `defoe-works` holds two editions), With Lee in Virginia (`henty`, PG 2805; Lane D's `henty-works` has PG 19154), The Sea-Wolf (`novels-rl-9`; `jack-london`) and Pudd'nhead Wilson (`twain-rl`; `mark-twain`). Each dropped slug is noted under the shelf's `_held`, and the ledger rows now say `held`.

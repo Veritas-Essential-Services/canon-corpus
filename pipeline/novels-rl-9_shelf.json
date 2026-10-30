@@ -32,10 +32,6 @@
    940,
    "James Fenimore Cooper, The Last of the Mohicans (1826)"
   ],
-  "jlondon-sea-wolf": [
-   1074,
-   "Jack London, The Sea-Wolf (1904)"
-  ],
   "burroughs-tarzan-of-the-apes": [
    78,
    "Edgar Rice Burroughs, Tarzan of the Apes (1912)"
@@ -58,9 +54,6 @@
   ],
   "cooper-last-of-the-mohicans": [
    "cooper"
-  ],
-  "jlondon-sea-wolf": [
-   "jack london"
   ],
   "burroughs-tarzan-of-the-apes": [
    "burroughs"
@@ -106,15 +99,6 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
-  "jlondon-sea-wolf": {
-   "kind": "gutenberg",
-   "checked": "2026-10-17",
-   "name_check": "surname",
-   "author_seen": "jack london",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
   "burroughs-tarzan-of-the-apes": {
    "kind": "gutenberg",
    "checked": "2026-10-17",
@@ -133,5 +117,8 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_held": {
+  "jlondon-sea-wolf": "held by Lane D's jack-london (PG 1074)"
  }
 }

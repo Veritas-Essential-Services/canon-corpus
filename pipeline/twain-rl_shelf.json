@@ -17,10 +17,6 @@
   "twain-sketches-new-and-old": [
    3189,
    "Sketches New and Old (1875)"
-  ],
-  "twain-puddnhead-wilson": [
-   102,
-   "The Tragedy of Pudd'nhead Wilson (1894)"
   ]
  },
  "internet_archive": {},
@@ -45,15 +41,9 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
-  },
-  "twain-puddnhead-wilson": {
-   "kind": "gutenberg",
-   "checked": "2026-10-17",
-   "name_check": "surname",
-   "author_seen": "mark twain",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
   }
+ },
+ "_held": {
+  "twain-puddnhead-wilson": "held by Lane D's mark-twain as twain-tragedy-of-puddnhead-wilson (PG 102)"
  }
 }

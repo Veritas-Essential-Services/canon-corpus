@@ -33,10 +33,6 @@
    3785,
    "In the Reign of Terror (1888)"
   ],
-  "henty-with-lee-in-virginia": [
-   2805,
-   "With Lee in Virginia (1890)"
-  ],
   "henty-in-the-heart-of-the-rockies": [
    8670,
    "In the Heart of the Rockies (1894)"
@@ -97,15 +93,6 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
-  "henty-with-lee-in-virginia": {
-   "kind": "gutenberg",
-   "checked": "2026-10-10",
-   "name_check": "surname",
-   "author_seen": "henty",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
   "henty-in-the-heart-of-the-rockies": {
    "kind": "gutenberg",
    "checked": "2026-10-10",
@@ -124,5 +111,8 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_held": {
+  "henty-with-lee-in-virginia": "held by Lane D's henty-works (PG 19154); Lane D owns Henty's books (coordinator, 2026-10-17)"
  }
 }
