@@ -900,7 +900,7 @@
   "author": "G. K. Chesterton",
   "format": "thml",
   "sha256": "b9cece1ef0756f9f846d220f1b97a4c3274579d87f31da52cba0e7cd63e48a31",
-  "units": 1440,
+  "units": 1514,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -984,7 +984,7 @@
   "author": "Gilbert K. Chesterton",
   "format": "thml",
   "sha256": "91f010b5bd2ce76367d9f2fd345875594bb34b0ed4ec2706f1fa4875f52112c5",
-  "units": 1370,
+  "units": 1418,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -996,7 +996,7 @@
   "author": "G. K. Chesterton",
   "format": "thml",
   "sha256": "4fb6e252737a47dc64b330dfaa980d5a87f5de986247a41036a2bcb31e06a297",
-  "units": 939,
+  "units": 977,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1008,7 +1008,7 @@
   "author": "G. K. Chesterton",
   "format": "thml",
   "sha256": "2f442a02626a1ff40378fc0861bc4a820fb69ce6e5319f5688e1e4394de2a1fc",
-  "units": 500,
+  "units": 635,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1032,7 +1032,7 @@
   "author": "G. K. Chesterton",
   "format": "thml",
   "sha256": "fe24550466f5c04db90b1133afe04a19bc3807253cf75b6c5f2b460329e1cd94",
-  "units": 991,
+  "units": 1085,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1092,7 +1092,7 @@
   "author": "G. K. Chesterton",
   "format": "thml",
   "sha256": "1da4d6b3f7e98b502038a403b959218f074637cffa747249ec62ba9aa8a809f6",
-  "units": 1176,
+  "units": 1297,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1104,7 +1104,7 @@
   "author": "Gilbert Keith Chesterton",
   "format": "thml",
   "sha256": "4de3f5b7abbb7a3e121738f642bc84c96240a137e1dad63d761bc56c0226ed06",
-  "units": 973,
+  "units": 1003,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1116,7 +1116,7 @@
   "author": "G. K. Chesterton",
   "format": "thml",
   "sha256": "3d4f46c9b217f772f88e7aa6360ac8e1eebdd1ed9207b19b70a69853fb468f27",
-  "units": 363,
+  "units": 378,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1128,7 +1128,7 @@
   "author": "G. K. Chesterton",
   "format": "thml",
   "sha256": "b5bd92b4f5c9fa6e9dfa6065f006616eeacc34b5c986e5b7a688522a6f911216",
-  "units": 427,
+  "units": 434,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1152,7 +1152,7 @@
   "author": "Gilbert K. Chesterton",
   "format": "thml",
   "sha256": "d727c7a71a76558ed923d10b8abf5cb4a48450c5060895f75f42c17e7984c738",
-  "units": 230,
+  "units": 234,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1176,7 +1176,7 @@
   "author": "Gilbert K. Chesterton",
   "format": "thml",
   "sha256": "3022f79ff6e1f67a2d3ddd0b2d0a2ee1395ec6b87fc7543d08c84bcb5dcc5af9",
-  "units": 1104,
+  "units": 1147,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
