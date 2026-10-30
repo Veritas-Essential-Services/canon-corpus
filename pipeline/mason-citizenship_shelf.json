@@ -1,0 +1,226 @@
+{
+ "_about": "Citizenship and economics readers the PNEU programmes set for the upper forms. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "alexander",
+  "arnold",
+  "clay",
+  "fawcett",
+  "forster",
+  "garrett",
+  "henry",
+  "hughes",
+  "john",
+  "loe",
+  "lunt",
+  "maccunn",
+  "malden",
+  "millicent",
+  "paterson",
+  "strachey",
+  "worts"
+ ],
+ "_surname_by_slug": {
+  "clay-economics-general-reader": [
+   "henry clay"
+  ],
+  "fawcett-political-economy-beginners": [
+   "fawcett",
+   "millicent garrett fawcett"
+  ],
+  "malden-rights-duties-citizen": [
+   "malden",
+   "h. e. malden"
+  ],
+  "strachey-social-industrial-life": [
+   "strachey",
+   "j. st. loe strachey"
+  ],
+  "hughes-citizens-be": [
+   "hughes",
+   "m. l. v. hughes"
+  ],
+  "maccunn-ethics-citizenship": [
+   "maccunn",
+   "john maccunn"
+  ],
+  "paterson-across-bridges": [
+   "paterson",
+   "alexander paterson"
+  ],
+  "worts-citizenship": [
+   "worts",
+   "f. r. worts"
+  ],
+  "lunt-quest-nations": [
+   "lunt",
+   "t. r. w. lunt"
+  ],
+  "arnold-forster-citizen-reader": [
+   "arnold-forster",
+   "h. o. arnold-forster"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "clay-economics-general-reader": [
+   "economicsintrodu00clayrich",
+   "Henry Clay, Economics: An Introduction for the General Reader, London: Macmillan, 1916"
+  ],
+  "fawcett-political-economy-beginners": [
+   "fawcetteconomics00fawcrich",
+   "Millicent Garrett Fawcett, Political Economy for Beginners, London: Macmillan, 1911"
+  ],
+  "malden-rights-duties-citizen": [
+   "dli.ernet.12235",
+   "H. E. Malden, The Rights and Duties of a Citizen, London: Methuen, 1922",
+   "12235-The Rights And Duties Of A Citizen-(1922)_djvu.txt"
+  ],
+  "strachey-social-industrial-life": [
+   "citizenstateindu00stra",
+   "J. St. Loe Strachey, The Citizen and the State: Industrial and Social Life and the Empire, London: Macmillan, 1913"
+  ],
+  "hughes-citizens-be": [
+   "citizenstobesoci00hughuoft",
+   "M. L. V. Hughes, Citizens to Be: A Social Study of Health, Wisdom, and Goodness (London: Constable, 1915)"
+  ],
+  "maccunn-ethics-citizenship": [
+   "ethicsofcitizens00maccrich",
+   "John MacCunn, The Ethics of Citizenship (Glasgow: James Maclehose, 1894)"
+  ],
+  "paterson-across-bridges": [
+   "cu31924031226008",
+   "Alexander Paterson, Across the Bridges, or Life by the South London River-side (London: Edward Arnold, 1911)"
+  ],
+  "worts-citizenship": [
+   "citizenshipitsme00wort",
+   "F. R. Worts, Citizenship: Its Meaning, Privileges and Duties (London: Hodder & Stoughton, 1919)"
+  ],
+  "lunt-quest-nations": [
+   "questofnationsst00lunt",
+   "T. R. W. Lunt, The Quest of Nations: a study in national and international ideals (London: United Council for Missionary Education, 1921)"
+  ],
+  "arnold-forster-citizen-reader": [
+   "citizenreaderfor00arno",
+   "H. O. Arnold-Forster, The Citizen Reader, for the use of schools (London: Cassell, 1885)"
+  ]
+ },
+ "_identity_checked": {
+  "strachey-social-industrial-life": {
+   "author": "title page OCR: 'BY J. ST. LOE STI^ACHEY, Macmillan, fourth edition 1913'"
+  }
+ },
+ "_checks": {
+  "clay-economics-general-reader": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "henry clay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fawcett-political-economy-beginners": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fawcett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "malden-rights-duties-citizen": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "malden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strachey-social-industrial-life": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hughes-citizens-be": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hughes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maccunn-ethics-citizenship": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "maccunn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "paterson-across-bridges": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "paterson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "worts-citizenship": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "worts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lunt-quest-nations": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "lunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arnold-forster-citizen-reader": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "arnold-forster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

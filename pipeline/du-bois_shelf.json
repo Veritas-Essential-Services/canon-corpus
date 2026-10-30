@@ -1,0 +1,31 @@
+{
+ "_about": "W. E. B. Du Bois, The Souls of Black Folk (1903). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "W. E. B. Du Bois",
+ "_name_words": [
+  "du",
+  "bois"
+ ],
+ "_surname": [
+  "du bois"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "du-bois-souls-of-black-folk": [
+   408,
+   "The Souls of Black Folk (1903)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "du-bois-souls-of-black-folk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "du bois",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

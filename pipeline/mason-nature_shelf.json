@@ -1,0 +1,1015 @@
+{
+ "_about": "Natural history and science the PNEU programmes set: Buckley, Brightwen, Gatty, Gilbert White, Morris's British Birds, Geikie's primers and the like. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "abrahall",
+  "agnes",
+  "anne",
+  "arabella",
+  "archibald",
+  "arthur",
+  "ball",
+  "bert",
+  "brightwen",
+  "buckley",
+  "charles",
+  "clifford",
+  "daniel",
+  "edmund",
+  "edward",
+  "eliza",
+  "frances",
+  "fritsch",
+  "gatty",
+  "geikie",
+  "george",
+  "giberne",
+  "gibson",
+  "gilbert",
+  "hartwig",
+  "helen",
+  "herbert",
+  "holden",
+  "hoskyns",
+  "huxley",
+  "james",
+  "jeans",
+  "jeremiah",
+  "johns",
+  "joyce",
+  "kearton",
+  "lockyer",
+  "long",
+  "margaret",
+  "marie",
+  "mckay",
+  "morris",
+  "norman",
+  "oliver",
+  "paul",
+  "pitt",
+  "pratt",
+  "proctor",
+  "rev",
+  "richard",
+  "robert",
+  "salisbury",
+  "selous",
+  "sir",
+  "stopes",
+  "thoday",
+  "thomson",
+  "turner",
+  "webb",
+  "white",
+  "william",
+  "wilson"
+ ],
+ "_surname_by_slug": {
+  "brightwen-more-about-wild": [
+   "brightwen",
+   "eliza brightwen"
+  ],
+  "gibson-scientific-ideas-day": [
+   "gibson",
+   "charles r. gibson"
+  ],
+  "hartwig-tropical-world": [
+   "hartwig",
+   "george hartwig"
+  ],
+  "huxley-physiography": [
+   "huxley",
+   "t. h. huxley"
+  ],
+  "wj-long-school-woods": [
+   "william j. long",
+   "w. j. long",
+   "long"
+  ],
+  "turner-voyage-space": [
+   "turner",
+   "h. h. turner"
+  ],
+  "mckay-easy-experiments-science": [
+   "mckay",
+   "herbert mckay"
+  ],
+  "brightwen-wild-nature-won": [
+   "brightwen",
+   "eliza brightwen"
+  ],
+  "buckley-life-her-children": [
+   "buckley",
+   "arabella b. buckley"
+  ],
+  "clifford-seeing-thinking": [
+   "clifford",
+   "w. k. clifford"
+  ],
+  "geikie-geology-science-primer": [
+   "geikie",
+   "archibald geikie"
+  ],
+  "holden-sciences-reading-book": [
+   "holden",
+   "edward s. holden"
+  ],
+  "jeans-mysterious-universe": [
+   "jeans",
+   "james jeans"
+  ],
+  "kearton-wild-nature-s": [
+   "kearton",
+   "richard kearton"
+  ],
+  "selous-tommy-smith-s": [
+   "selous",
+   "edmund selous"
+  ],
+  "stopes-study-plant-life": [
+   "stopes",
+   "marie c. stopes"
+  ],
+  "buckley-plant-life-field": [
+   "buckley",
+   "arabella b. buckley"
+  ],
+  "buckley-winners-life-s": [
+   "buckley",
+   "arabella b. buckley"
+  ],
+  "lockyer-elementary-lessons-astronomy": [
+   "lockyer",
+   "j. norman lockyer"
+  ],
+  "fo-morris-history-british-birds-1": [
+   "f. o. morris",
+   "morris, b.a",
+   "rev. f. o. morris"
+  ],
+  "fo-morris-history-british-birds-2": [
+   "f. o. morris",
+   "morris, b.a",
+   "rev. f. o. morris"
+  ],
+  "fo-morris-history-british-birds-3": [
+   "f. o. morris",
+   "morris, b.a",
+   "rev. f. o. morris"
+  ],
+  "fo-morris-history-british-birds-4": [
+   "f. o. morris",
+   "morris, b.a",
+   "rev. f. o. morris"
+  ],
+  "fo-morris-history-british-birds-5": [
+   "f. o. morris",
+   "morris, b.a",
+   "rev. f. o. morris"
+  ],
+  "fo-morris-history-british-birds-6": [
+   "f. o. morris",
+   "morris, b.a",
+   "rev. f. o. morris"
+  ],
+  "fo-morris-history-british-birds-7": [
+   "f. o. morris",
+   "morris, b.a",
+   "rev. f. o. morris"
+  ],
+  "pitt-wild-creatures-garden": [
+   "pitt",
+   "frances pitt"
+  ],
+  "pratt-wild-flowers-i": [
+   "pratt",
+   "anne pratt"
+  ],
+  "pratt-wild-flowers-ii": [
+   "pratt",
+   "anne pratt"
+  ],
+  "proctor-half-hours-stars": [
+   "proctor",
+   "richard a. proctor"
+  ],
+  "thoday-botany": [
+   "thoday",
+   "d. thoday"
+  ],
+  "thomson-study-animal-life": [
+   "thomson",
+   "j. arthur thomson"
+  ],
+  "wilson-five-gateways-knowledge": [
+   "wilson",
+   "george wilson"
+  ],
+  "hoskyns-abrahall-health-reader": [
+   "hoskyns-abrahall",
+   "w. hoskyns-abrahall"
+  ],
+  "ball-story-heavens": [
+   "ball",
+   "robert s. ball"
+  ],
+  "bert-first-year-scientific": [
+   "bert",
+   "paul bert"
+  ],
+  "brightwen-glimpses-into-plant": [
+   "brightwen",
+   "eliza brightwen"
+  ],
+  "buckley-fairy-land-science": [
+   "buckley",
+   "arabella b. buckley"
+  ],
+  "gatty-parables-nature-1": [
+   "gatty",
+   "margaret gatty"
+  ],
+  "gatty-parables-nature-2": [
+   "gatty",
+   "margaret gatty"
+  ],
+  "giberne-our-wonderful-universe": [
+   "giberne",
+   "agnes giberne"
+  ],
+  "johns-british-birds-haunts": [
+   "johns",
+   "c. a. johns"
+  ],
+  "joyce-scientific-dialogues": [
+   "joyce",
+   "jeremiah joyce"
+  ],
+  "wj-long-little-brother-bear": [
+   "william j. long",
+   "w. j. long",
+   "long"
+  ],
+  "oliver-lessons-elementary-botany": [
+   "oliver",
+   "daniel oliver"
+  ],
+  "fritsch-introduction-study-plants": [
+   "fritsch",
+   "salisbury"
+  ],
+  "selous-jack-s-insects": [
+   "selous",
+   "edmund selous"
+  ],
+  "selous-tommy-smith-s-2": [
+   "selous",
+   "edmund selous"
+  ],
+  "webb-life-beginnings": [
+   "webb",
+   "helen webb"
+  ],
+  "white-natural-history-selborne": [
+   "gilbert white"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "brightwen-wild-nature-won": [
+   21111,
+   "Eliza Brightwen, Wild Nature Won by Kindness (London: T. Fisher Unwin, 1898 printing)"
+  ],
+  "selous-tommy-smith-s": [
+   51933,
+   "Edmund Selous, Tommy Smith's Animals (London: Methuen, 3rd ed. 1902)"
+  ],
+  "stopes-study-plant-life": [
+   59106,
+   "Marie C. Stopes, The Study of Plant Life (London: Blackie; PG transcribed from an IA scan)"
+  ],
+  "buckley-winners-life-s": [
+   72898,
+   "Arabella B. Buckley, The Winners in Life's Race; or, The Great Backboned Family (London: Edward Stanford, 1882)"
+  ],
+  "proctor-half-hours-stars": [
+   23300,
+   "Richard A. Proctor, Half-Hours with the Stars (New York and London: Putnam, 1911)"
+  ],
+  "ball-story-heavens": [
+   27378,
+   "Robert S. Ball, The Story of the Heavens (London: Cassell; PG edition, rev. ed. c.1897; printing per PG header)"
+  ],
+  "buckley-fairy-land-science": [
+   5726,
+   "Arabella B. Buckley, The Fairy-Land of Science (London: Edward Stanford, 1879; PG edition)"
+  ],
+  "johns-british-birds-haunts": [
+   38077,
+   "C. A. Johns, British Birds in Their Haunts, rev. J. A. Owen (London: Routledge; PG edition, c.1909)"
+  ],
+  "wj-long-little-brother-bear": [
+   38363,
+   "William J. Long, A Little Brother to the Bear, and other animal studies (Boston: Ginn, 1903)"
+  ],
+  "white-natural-history-selborne": [
+   1408,
+   "Gilbert White, The Natural History of Selborne (PG edition)"
+  ]
+ },
+ "internet_archive": {
+  "brightwen-more-about-wild": [
+   "moreaboutwildnat00brigiala",
+   "Eliza Brightwen, More About Wild Nature, London: T. Fisher Unwin, 1893"
+  ],
+  "gibson-scientific-ideas-day": [
+   "cu31924012327767",
+   "Charles R. Gibson, Scientific Ideas of To-day, London: Seeley, 1909"
+  ],
+  "hartwig-tropical-world": [
+   "tropicalworldpop00hartuoft",
+   "George Hartwig, The Tropical World: A Popular Scientific Account of the Natural History of the Animal and Vegetable Kingdoms in the Equatorial Regions, London: Longman, 1863"
+  ],
+  "huxley-physiography": [
+   "physiographyintr77huxl",
+   "T. H. Huxley, Physiography: An Introduction to the Study of Nature, London: Macmillan, 1877"
+  ],
+  "wj-long-school-woods": [
+   "cu31924003012139",
+   "William J. Long, School of the Woods: Some Life Studies of Animal Instincts and Animal Training, Boston and London: Ginn, 1902"
+  ],
+  "turner-voyage-space": [
+   "voyageinspacecou00turnuoft",
+   "H. H. Turner, A Voyage in Space: A Course of Six Lectures, London: SPCK, 1915"
+  ],
+  "mckay-easy-experiments-science": [
+   "easy-experiments-in-elementary-science",
+   "Herbert McKay, Easy Experiments in Elementary Science, London: Oxford University Press, 1922",
+   "Easy_Experiments_in_Elementary_Science_djvu.txt"
+  ],
+  "buckley-life-her-children": [
+   "lifeandherchildr00buckiala",
+   "Arabella B. Buckley, Life and Her Children: Glimpses of Animal Life from the Amoeba to the Insects (London: Edward Stanford, 1884)"
+  ],
+  "clifford-seeing-thinking": [
+   "seeingthinking00clifuoft",
+   "W. K. Clifford, Seeing and Thinking (Nature Series; London: Macmillan, 1890 printing)"
+  ],
+  "geikie-geology-science-primer": [
+   "geology00geikuoft",
+   "Archibald Geikie, Geology (Science Primers) (London: Macmillan, 1875)"
+  ],
+  "holden-sciences-reading-book": [
+   "sciencesreadingb00holdrich",
+   "Edward S. Holden, The Sciences: A Reading Book for Children (Boston: Ginn, 1902)"
+  ],
+  "jeans-mysterious-universe": [
+   "b30010184",
+   "Sir James Jeans, The Mysterious Universe (Cambridge: University Press, 1930)"
+  ],
+  "kearton-wild-nature-s": [
+   "wildnaturesways00kear",
+   "Richard Kearton, Wild Nature's Ways (London: Cassell, 1903)"
+  ],
+  "buckley-plant-life-field": [
+   "plantlifeinfield0000arab",
+   "Arabella B. Buckley, Plant Life in Field and Garden (Eyes and No Eyes series) (London: Cassell, 1910)"
+  ],
+  "lockyer-elementary-lessons-astronomy": [
+   "elementarylesson00lockuoft",
+   "J. Norman Lockyer, Elementary Lessons in Astronomy, new ed. (London: Macmillan, 1889)"
+  ],
+  "fo-morris-history-british-birds-1": [
+   "historyofbritish01morrrich",
+   "F. O. Morris, A History of British Birds (London: Groombridge, 1851-57)"
+  ],
+  "fo-morris-history-british-birds-2": [
+   "historyofbritish02morrrich",
+   "F. O. Morris, A History of British Birds (London: Groombridge, 1851-57)"
+  ],
+  "fo-morris-history-british-birds-3": [
+   "historyofbritish03morrrich",
+   "F. O. Morris, A History of British Birds (London: Groombridge, 1851-57)"
+  ],
+  "fo-morris-history-british-birds-4": [
+   "historyofbritish04morrrich",
+   "F. O. Morris, A History of British Birds (London: Groombridge, 1851-57)"
+  ],
+  "fo-morris-history-british-birds-5": [
+   "historyofbritish05morrrich",
+   "F. O. Morris, A History of British Birds (London: Groombridge, 1851-57)"
+  ],
+  "fo-morris-history-british-birds-6": [
+   "historyofbritish06morrrich",
+   "F. O. Morris, A History of British Birds (London: Groombridge, 1851-57)"
+  ],
+  "fo-morris-history-british-birds-7": [
+   "historyofbritish07morrrich",
+   "F. O. Morris, A History of British Birds (London: Groombridge, 1851-57)"
+  ],
+  "pitt-wild-creatures-garden": [
+   "wildcreaturesofg00pittiala",
+   "Frances Pitt, Wild Creatures of Garden and Hedgerow (London: Constable, 1920)"
+  ],
+  "pratt-wild-flowers-i": [
+   "wildflowers01pratgoog",
+   "Anne Pratt, Wild Flowers, vol. I (London: SPCK, 1852)"
+  ],
+  "pratt-wild-flowers-ii": [
+   "wildflowersvolu00pratgoog",
+   "Anne Pratt, Wild Flowers, vol. II (London: SPCK, 1852)"
+  ],
+  "thoday-botany": [
+   "bwb_KV-478-793",
+   "D. Thoday, Botany: a textbook for senior students (Cambridge: University Press, 1925)"
+  ],
+  "thomson-study-animal-life": [
+   "studyofanimallif00thomrich",
+   "J. Arthur Thomson, The Study of Animal Life (London: John Murray, 1892)"
+  ],
+  "wilson-five-gateways-knowledge": [
+   "fivegatewayskno01wilsgoog",
+   "George Wilson, The Five Gateways of Knowledge (Cambridge: Macmillan, 1856)"
+  ],
+  "hoskyns-abrahall-health-reader": [
+   "b28097622",
+   "W. Hoskyns-Abrahall, The Health Reader (London: Cassell, 1909)"
+  ],
+  "bert-first-year-scientific": [
+   "firstyearofscien00bertiala",
+   "Paul Bert, First Year of Scientific Knowledge, tr. Josephine Clayton (London: Relfe Brothers; Paris: A. Colin, [189-])"
+  ],
+  "brightwen-glimpses-into-plant": [
+   "glimpsesintoplan00brigiala",
+   "Eliza Brightwen, Glimpses into Plant-Life: an easy guide to the study of botany (London: T. Fisher Unwin, 1897)"
+  ],
+  "gatty-parables-nature-1": [
+   "parablesfromnatu01gattuoft",
+   "Margaret Gatty, Parables from Nature (London: G. Bell, 1882-84), vol 1"
+  ],
+  "gatty-parables-nature-2": [
+   "parablesfromnatu02gattuoft",
+   "Margaret Gatty, Parables from Nature (London: G. Bell, 1882-84), vol 2"
+  ],
+  "giberne-our-wonderful-universe": [
+   "thiswonderfuluni00giberich",
+   "Agnes Giberne, This Wonderful Universe: a little book about suns and worlds, moons and meteors, comets and nebulae (London: SPCK, 1920)"
+  ],
+  "joyce-scientific-dialogues": [
+   "scientificdialo01joycgoog",
+   "Jeremiah Joyce, Scientific Dialogues, new ed. (London: Bell and Daldy, 1866)"
+  ],
+  "oliver-lessons-elementary-botany": [
+   "lessonsinelement00olivuoft",
+   "Daniel Oliver, Lessons in Elementary Botany (London: Macmillan, 1888)"
+  ],
+  "fritsch-introduction-study-plants": [
+   "introductiontost00frit_1",
+   "F. E. Fritsch and E. J. Salisbury, An Introduction to the Study of Plants (London: G. Bell, 1917)"
+  ],
+  "selous-jack-s-insects": [
+   "jacksinsects0000unse",
+   "Edmund Selous, Jack's Insects (London: Methuen, 1910)"
+  ],
+  "selous-tommy-smith-s-2": [
+   "tommysmithsother0000unse",
+   "Edmund Selous, Tommy Smith's Other Animals (London: Methuen, 1906)"
+  ],
+  "webb-life-beginnings": [
+   "b28083167",
+   "Helen Webb, Life and Its Beginnings (London: Cassell, 1913)"
+  ]
+ },
+ "_identity_checked": {
+  "huxley-physiography": {
+   "author": "title page: 'Physiography: an introduction to the study of nature ... London: Macmillan and Co. 1877' (Huxley's name garbled in OCR)"
+  },
+  "fo-morris-history-british-birds-1": {
+   "author": "title page: 'British Birds, by the Rev. F. O. MORKIS [Morris], B.A. ... Vol. 1, Groombridge'"
+  }
+ },
+ "_held_back": {
+  "buckley-wild-life-woods": "undated Cassell reprint with no date anywhere in the text; held until a dated pre-1930 printing is found",
+  "pitt-wild-life-studies": "the scan is an Argosy Books printing listing her books to 1934; no dated pre-1930 printing found",
+  "step-nature-rambles-nature": "copyright 1930 but the scan is a 1933+ reprint; held per the reprint rule until a 1930 printing is found"
+ },
+ "_rights_checked": {
+  "jeans-mysterious-universe": "Cambridge, first printed November 1930, reprinted December 1930: published 1930, PD under the 1930 rule"
+ },
+ "_checks": {
+  "brightwen-wild-nature-won": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "brightwen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "selous-tommy-smith-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "selous",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "proctor-half-hours-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "proctor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ball-story-heavens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "ball",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "buckley-fairy-land-science": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "buckley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johns-british-birds-haunts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "johns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wj-long-little-brother-bear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "william j. long",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "white-natural-history-selborne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "gilbert white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brightwen-more-about-wild": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "brightwen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibson-scientific-ideas-day": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hartwig-tropical-world": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hartwig",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huxley-physiography": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "Not in copyright",
+   "ia_lending": null
+  },
+  "wj-long-school-woods": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "william j. long",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "turner-voyage-space": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "turner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckay-easy-experiments-science": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mckay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "buckley-life-her-children": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "buckley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clifford-seeing-thinking": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "geikie-geology-science-primer": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holden-sciences-reading-book": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "holden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "c1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jeans-mysterious-universe": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "jeans",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Cambridge, first printed November 1930, reprinted December 1930: published 1930, PD under the 1930 rule"
+  },
+  "kearton-wild-nature-s": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "kearton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buckley-plant-life-field": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "buckley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lockyer-elementary-lessons-astronomy": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "lockyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fo-morris-history-british-birds-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "[1851-57?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fo-morris-history-british-birds-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "f. o. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "[1851-57?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fo-morris-history-british-birds-3": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "f. o. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "[1851-57?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fo-morris-history-british-birds-4": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "f. o. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "[1851-57?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fo-morris-history-british-birds-5": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "f. o. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "[1851-57?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fo-morris-history-british-birds-6": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "f. o. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "[1851-57?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fo-morris-history-british-birds-7": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "morris, b.a",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "[1851-57?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pitt-wild-creatures-garden": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "pitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pratt-wild-flowers-i": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pratt-wild-flowers-ii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thoday-botany": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thoday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-study-animal-life": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wilson-five-gateways-knowledge": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hoskyns-abrahall-health-reader": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hoskyns-abrahall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bert-first-year-scientific": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "bert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brightwen-glimpses-into-plant": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "brightwen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gatty-parables-nature-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "gatty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1882-1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gatty-parables-nature-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "gatty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1882-1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "giberne-our-wonderful-universe": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "giberne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "joyce-scientific-dialogues": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "joyce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oliver-lessons-elementary-botany": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "oliver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fritsch-introduction-study-plants": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fritsch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selous-jack-s-insects": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "selous",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selous-tommy-smith-s-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "selous",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "webb-life-beginnings": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "webb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

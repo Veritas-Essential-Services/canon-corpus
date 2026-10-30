@@ -1,0 +1,32 @@
+{
+ "_about": "Booker T. Washington, Up from Slavery (1901). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Booker T. Washington",
+ "_name_words": [
+  "booker",
+  "washington"
+ ],
+ "_surname": [
+  "booker t. washington",
+  "booker washington"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "booker-washington-up-from-slavery": [
+   2376,
+   "Up from Slavery: An Autobiography (1901)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "booker-washington-up-from-slavery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "booker t. washington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

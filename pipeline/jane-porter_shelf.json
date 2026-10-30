@@ -1,0 +1,34 @@
+{
+ "_about": "Jane Porter's (1776-1850) The Scottish Chiefs. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Jane Porter",
+ "_name_words": [
+  "jane",
+  "porter"
+ ],
+ "_surname": [
+  "jane porter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jane-porter-scottish-chiefs": [
+   6086,
+   "The Scottish Chiefs (1810)",
+   {
+    "chapre": "^Chapter [IVXLC]+\\.\\s*$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jane-porter-scottish-chiefs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

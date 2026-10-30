@@ -1,0 +1,38 @@
+{
+ "_about": "Abelard's Historia Calamitatum, tr. Henry Adams Bellows (1922). Moncrieff's Letters of Abelard and Heloise are Lane C's scott-moncrieff shelf. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Peter Abelard",
+ "_name_words": [
+  "peter",
+  "abelard"
+ ],
+ "_surname": [
+  "abelard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abelard-historia-calamitatum-bellows": [
+   14268,
+   "Historia Calamitatum, tr. H. A. Bellows (1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "moncrieff-abelard": "HELD elsewhere: scott-moncrieff shelf"
+ },
+ "_translators": {
+  "abelard-historia-calamitatum-bellows": "Bellows"
+ },
+ "_checks": {
+  "abelard-historia-calamitatum-bellows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abelard",
+   "translator_claimed": "Bellows",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

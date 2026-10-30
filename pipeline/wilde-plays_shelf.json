@@ -1,0 +1,43 @@
+{
+ "_about": "Oscar Wilde's society comedies. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "Oscar Wilde",
+ "_name_words": [
+  "oscar",
+  "wilde"
+ ],
+ "_surname": [
+  "oscar wilde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wilde-ideal-husband": [
+   885,
+   "An Ideal Husband (1895)"
+  ],
+  "wilde-importance-of-being-earnest": [
+   844,
+   "The Importance of Being Earnest (1895)"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "wilde-ideal-husband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilde-importance-of-being-earnest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

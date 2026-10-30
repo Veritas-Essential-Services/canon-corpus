@@ -1,0 +1,37 @@
+{
+ "_about": "Sigmund Freud, The Interpretation of Dreams (1899), tr. A. A. Brill (1913). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Sigmund Freud",
+ "_name_words": [
+  "sigmund",
+  "freud"
+ ],
+ "_surname": [
+  "freud"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "freud-interpretation-of-dreams": [
+   66048,
+   "The Interpretation of Dreams, tr. A. A. Brill (1913)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "freud-interpretation-of-dreams": "Brill"
+ },
+ "_checks": {
+  "freud-interpretation-of-dreams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "freud",
+   "translator_claimed": "Brill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. A. Brill",
+   "translator_match": true
+  }
+ }
+}

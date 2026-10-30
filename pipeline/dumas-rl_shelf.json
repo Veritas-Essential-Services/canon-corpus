@@ -1,0 +1,43 @@
+{
+ "_about": "Dumas's two most-assigned romances, in the anonymous translations Gutenberg carries (Monte Cristo: Chapman and Hall, 1846; The Man in the Iron Mask: the 19th-century English version of the last part of Le Vicomte de Bragelonne). Translators unnamed in the files; both translations are 19th-century and so US public domain. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "Alexandre Dumas",
+ "_name_words": [
+  "alexandre",
+  "dumas"
+ ],
+ "_surname": [
+  "dumas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dumas-count-of-monte-cristo": [
+   1184,
+   "The Count of Monte Cristo (1844-46; anonymous English translation, 1846)"
+  ],
+  "dumas-man-in-the-iron-mask": [
+   2759,
+   "The Man in the Iron Mask (1847-50; anonymous 19th-century English translation)"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "dumas-count-of-monte-cristo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dumas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dumas-man-in-the-iron-mask": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dumas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

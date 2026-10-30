@@ -1,0 +1,121 @@
+{
+ "_about": "The standard PD verse anthologies that hold most assigned poems: Palgrave's Golden Treasury (1861/1875), Quiller-Couch's Oxford Book of English Verse 1250-1900 (1900), and Stevenson's Home Book of Verse (1912), vols 1-4. Added for the short-pieces section (docs/short-pieces/): the readers and anthologies that hold the poems, stories and speeches classical and Christian curricula assign.",
+ "_author": "various editors",
+ "_name_words": [
+  "palgrave",
+  "golden",
+  "treasury",
+  "oxford",
+  "quiller",
+  "couch",
+  "stevenson",
+  "home",
+  "verse"
+ ],
+ "_surname": [
+  "palgrave"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "golden-treasury-palgrave": [
+   19221,
+   "The Golden Treasury, ed. Palgrave"
+  ],
+  "oxford-book-english-verse-1900": [
+   66619,
+   "The Oxford Book of English Verse, 1250-1900, ed. Quiller-Couch"
+  ],
+  "home-book-of-verse-1": [
+   2619,
+   "The Home Book of Verse, ed. Stevenson, vol. 1"
+  ],
+  "home-book-of-verse-2": [
+   2620,
+   "The Home Book of Verse, ed. Stevenson, vol. 2"
+  ],
+  "home-book-of-verse-3": [
+   2621,
+   "The Home Book of Verse, ed. Stevenson, vol. 3"
+  ],
+  "home-book-of-verse-4": [
+   2622,
+   "The Home Book of Verse, ed. Stevenson, vol. 4"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_surname_by_slug": {
+  "oxford-book-english-verse-1900": [
+   "quiller-couch",
+   "quiller couch"
+  ],
+  "home-book-of-verse-1": [
+   "stevenson"
+  ],
+  "home-book-of-verse-2": [
+   "stevenson"
+  ],
+  "home-book-of-verse-3": [
+   "stevenson"
+  ],
+  "home-book-of-verse-4": [
+   "stevenson"
+  ]
+ },
+ "_checks": {
+  "golden-treasury-palgrave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "palgrave",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oxford-book-english-verse-1900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "home-book-of-verse-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "home-book-of-verse-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "home-book-of-verse-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "home-book-of-verse-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

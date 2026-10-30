@@ -1,0 +1,46 @@
+{
+ "_about": "H. A. Guerber's American histories for children: The Story of the Thirteen Colonies (1898) and The Story of the Great Republic (1899, IA scan, raw OCR). Lane D's `guerber` shelf holds her myth and legend books. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "H. A. Guerber",
+ "_name_words": [
+  "guerber"
+ ],
+ "_surname": [
+  "guerber"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "guerber-thirteen-colonies": [
+   48051,
+   "The Story of the Thirteen Colonies (1898)"
+  ]
+ },
+ "internet_archive": {
+  "guerber-great-republic": [
+   "storygreatrepub00guergoog",
+   "The Story of the Great Republic (1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "guerber-thirteen-colonies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guerber-great-republic": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

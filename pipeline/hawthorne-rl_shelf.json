@@ -1,0 +1,33 @@
+{
+ "_about": "Hawthorne's (1804-1864) The Scarlet Letter, the reading-list title missing from Lane D's hawthorne shelf (which holds the children's books). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Nathaniel Hawthorne",
+ "_name_words": [
+  "nathaniel",
+  "hawthorne"
+ ],
+ "_surname": [
+  "nathaniel hawthorne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hawthorne-scarlet-letter": [
+   33,
+   "The Scarlet Letter (1850)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "hawthorne-scarlet-letter-25344": "duplicate transcription (PG 25344)"
+ },
+ "_checks": {
+  "hawthorne-scarlet-letter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
