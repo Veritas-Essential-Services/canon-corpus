@@ -2352,3 +2352,5 @@ Adam answered the decision card on 2026-10-23: shelve with an honest credit. The
   - Vols. II, X and XV: no Cornell scan was found.
 
 Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Garnett recheck (2026-10-30), on Adam's ask.** archive.org `30081000790570` (Heinemann 1925 *War and Peace*, complete) is unchanged since 10/22: 264 page texts of about 1,536, no full text, no PDF. It cannot be fetched, so it stays in garnett `_pending`. A fresh search found one other Garnett copy, `warpeace0000cons_z9n0`. It is undated and a lending-library item, so it is not usable. Volumes I and II are still missing. Nothing else was done: the lane is otherwise paused, and the Bloom-only ruling stands.
