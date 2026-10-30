@@ -1,0 +1,60 @@
+{
+ "_about": "Francis Robert Beattie (1848-1906), professor at Columbia and Louisville seminaries: The Presbyterian Standards, an exposition of the Westminster Confession and Catechisms (Richmond: Presbyterian Committee of Publication, 1896), and Apologetics, or the Rational Vindication of Christianity, vol. I, Fundamental Apologetics (Richmond, 1903; the only volume published). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "francis r. beattie",
+  "f. r. beattie",
+  "francis robert beattie",
+  "dr. beattie",
+  "dr beattie"
+ ],
+ "_surname": [
+  "francis r. beattie",
+  "f. r. beattie",
+  "francis robert beattie",
+  "dr. beattie",
+  "dr beattie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beattie-presbyterian-standards": [
+   "presbyterianstan00beat_0",
+   "The Presbyterian Standards: an exposition of the Westminster Confession of Faith and Catechisms (1896)"
+  ],
+  "beattie-apologetics-1": [
+   "apologeticsorrat01beat",
+   "Apologetics, or the Rational Vindication of Christianity, vol. I: Fundamental Apologetics (1903)"
+  ]
+ },
+ "_alternates": {
+  "presbyterianstan00beat (1897), cihm_07192, cihm_84435": "Other copies."
+ },
+ "_pending": {
+  "radicalcriticism00beat (1894), highercriticismo00beat (1888)": "Not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "beattie-presbyterian-standards": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "francis r. beattie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beattie-apologetics-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "francis r. beattie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

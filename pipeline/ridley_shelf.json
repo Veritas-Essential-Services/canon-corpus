@@ -1,0 +1,37 @@
+{
+ "_about": "Nicholas Ridley (c.1500-1555), Bishop of London. The target is the Parker Society Works, ed. Henry Christmas (1 vol, Cambridge 1841 [title page 1843]), Internet Archive OCR, raw; title page read. No CCEL or Gutenberg Ridley exists.",
+ "_name_words": [
+  "ridley"
+ ],
+ "_surname": [
+  "ridley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ridley-ps-works": [
+   "ridleysworks00ridluoft",
+   "Works of Nicholas Ridley, ed. Henry Christmas (Parker Society, Cambridge, 1841)"
+  ]
+ },
+ "_alternates": {
+  "parkersocietypub40ridluoft": "Second Toronto copy of the same volume.",
+  "worksofnicholasr0039ridl": "Claremont scan of the same volume."
+ },
+ "_excluded": {
+  "Frances Ridley Havergal; Annie E. Ridley; William Ridley; Nat Ridley": "Different authors."
+ },
+ "_checks": {
+  "ridley-ps-works": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ridley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

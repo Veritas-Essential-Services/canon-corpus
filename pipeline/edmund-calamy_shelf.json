@@ -1,0 +1,68 @@
+{
+ "_about": "Edmund Calamy (1671-1732), grandson of the Westminster divine of the same name: The Nonconformist's Memorial, being an account of the lives, sufferings and printed works of the two thousand ministers ejected from the Church of England, chiefly by the Act of Uniformity of 1662; abridged, corrected and methodized, with additional lives, by Samuel Palmer (London, 1802-1803, 3 vols). Volume numbers read off each title page. The elder Calamy's sermons, if wanted, would join this shelf with a note. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "calamy"
+ ],
+ "_surname": [
+  "calamy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "calamy-palmer-memorial-1": [
+   "nonconformistsme01cala_0",
+   "The Nonconformist's Memorial, ed. Samuel Palmer (London, 1802-1803), vol. 1"
+  ],
+  "calamy-palmer-memorial-2": [
+   "nonconformistsme02cala_0",
+   "The Nonconformist's Memorial, ed. Samuel Palmer (London, 1802-1803), vol. 2"
+  ],
+  "calamy-palmer-memorial-3": [
+   "nonconformistsme03cala",
+   "The Nonconformist's Memorial, ed. Samuel Palmer (London, 1802-1803), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "nonconformistsm00..03palmgoog, nonconformistsm01calagoog": "Google copies of the same edition.",
+  "nonconformistsm01cala (1775-78), bim_eighteenth-century_the-nonconformists-memo_* (1775-78)": "Palmer's first edition, 2 vols."
+ },
+ "_pending": {
+  "An Abridgement of Mr. Baxter's History of his Life and Times, with an account of the ejected ministers (1713; 2nd ed. 1727, 4 vols)": "Calamy's own account, which Palmer's Memorial abridges; only 18th-century scans, not yet read."
+ },
+ "_excluded": {},
+ "_checks": {
+  "calamy-palmer-memorial-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calamy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calamy-palmer-memorial-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calamy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calamy-palmer-memorial-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calamy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

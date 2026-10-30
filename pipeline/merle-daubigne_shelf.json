@@ -1,0 +1,268 @@
+{
+ "_about": "J. H. Merle d'Aubigné (1794-1872), Genevan church historian of the Réveil: History of the Reformation of the Sixteenth Century, in H. White's translation revised by the author (New York: American Tract Society, undated, 5 vols), and History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1863-1878, 8 vols; vols 6-8 name W. L. R. Cates as translator, vols 1-5 name no translator on their opening pages, so none is claimed for them). Volume numbers read off each title page; the years are the latest each opening page prints. The surname check takes the OCR's spellings. Added 2026-10-03: The Protector, a Vindication (Edinburgh, 1848), which names no translator. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "aubigne",
+  "aubigné",
+  "merle"
+ ],
+ "_surname": [
+  "aubigne",
+  "aubigné",
+  "merle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "daubigne-sixteenth-century-1": [
+   "historyofreform01merl",
+   "History of the Reformation of the Sixteenth Century, tr. H. White, revised by the author (New York: American Tract Society, n.d.), vol. 1"
+  ],
+  "daubigne-sixteenth-century-2": [
+   "historyofrefor02merl",
+   "History of the Reformation of the Sixteenth Century, tr. H. White, revised by the author (New York: American Tract Society, n.d.), vol. 2"
+  ],
+  "daubigne-sixteenth-century-3": [
+   "historyofreform03merl",
+   "History of the Reformation of the Sixteenth Century, tr. H. White, revised by the author (New York: American Tract Society, n.d.), vol. 3"
+  ],
+  "daubigne-sixteenth-century-4": [
+   "historyofreform04merl",
+   "History of the Reformation of the Sixteenth Century, tr. H. White, revised by the author (New York: American Tract Society, n.d.), vol. 4"
+  ],
+  "daubigne-sixteenth-century-5": [
+   "historyofreform05merl",
+   "History of the Reformation of the Sixteenth Century, tr. H. White, revised by the author (New York: American Tract Society, n.d.), vol. 5"
+  ],
+  "daubigne-time-of-calvin-1": [
+   "historyreformat01daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1863), vol. 1"
+  ],
+  "daubigne-time-of-calvin-2": [
+   "historyreformat02daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1863), vol. 2"
+  ],
+  "daubigne-time-of-calvin-3": [
+   "historyreformati03daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1864), vol. 3"
+  ],
+  "daubigne-time-of-calvin-4": [
+   "historyreformat04daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1866), vol. 4"
+  ],
+  "daubigne-time-of-calvin-5": [
+   "historyreformat05daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1869), vol. 5"
+  ],
+  "daubigne-time-of-calvin-6": [
+   "historyreformat06daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1875), vol. 6"
+  ],
+  "daubigne-time-of-calvin-7": [
+   "historyreformati07daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1876), vol. 7"
+  ],
+  "daubigne-time-of-calvin-8": [
+   "historyreformat08daubuoft",
+   "History of the Reformation in Europe in the Time of Calvin (London: Longmans, 1878), vol. 8"
+  ],
+  "daubigne-protector-1848": [
+   "protectorvindica00merluoft",
+   "The Protector: a Vindication (on Cromwell), revised and enlarged (Edinburgh: Oliver & Boyd, 1848)"
+  ]
+ },
+ "_alternates": {
+  "historyofreforma0[1-5]merl (Columbia, 1855), historyofreform02merluoft, 1862historyofref03merluoft, historyofreforma04merluoft, 05merluoft (1862), historyofreforma0[1-5]merliala (1849)": "Other editions of the sixteenth-century History.",
+  "historyofgreatre184301merl..185305merl, historyofgreatre02merl, 03merl (1841-53)": "Earlier American printings under the title 'History of the Great Reformation'.",
+  "historyofreformat186301merl..187908merl; cu31924092350*": "Princeton and Cornell copies of the Calvin series.",
+  "protectorvindica00merlrich, protectoravindi00daugoog, protectorocromw01aubgoog (1847)": "Other copies and the 1847 first edition of The Protector."
+ },
+ "_pending": {
+  "The Reformation in England (1866-1878, 2 vols); Discourses and Essays": "Not yet searched; the IA copy of the Reformation in England (reformationineng0002jhme) is the 1963 Banner of Truth edition, in copyright."
+ },
+ "_excluded": {
+  "*aubgoog, *unkngoog, *daugoog": "Google scans; better copies held.",
+  "historyofreforma0003revj_b5t6, historyofreforma000*jhme": "Lending-library copies."
+ },
+ "_translators": {
+  "daubigne-sixteenth-century-1": "White",
+  "daubigne-sixteenth-century-2": "White",
+  "daubigne-sixteenth-century-3": "White",
+  "daubigne-sixteenth-century-4": "White",
+  "daubigne-sixteenth-century-5": "White",
+  "daubigne-time-of-calvin-6": "Cates",
+  "daubigne-time-of-calvin-7": "Cates",
+  "daubigne-time-of-calvin-8": "Cates"
+ },
+ "_checks": {
+  "daubigne-sixteenth-century-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "translator_claimed": "White",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daubigne-sixteenth-century-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "translator_claimed": "White",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daubigne-sixteenth-century-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "translator_claimed": "White",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daubigne-sixteenth-century-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "merle",
+   "translator_claimed": "White",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daubigne-sixteenth-century-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "merle",
+   "translator_claimed": "White",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "translator_claimed": "Cates",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "translator_claimed": "Cates",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-time-of-calvin-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "translator_claimed": "Cates",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1863-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "daubigne-protector-1848": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aubigne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

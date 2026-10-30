@@ -1,0 +1,34 @@
+{
+ "_about": "Andrew Gray (1633-1656), minister of the Outer High Church, Glasgow, dead at 22: The Works of the Reverend and Pious Andrew Gray, his sermon collections (The Mystery of Faith Opened, The Great Salvation, Directions and Instigations to the Duty of Prayer, and the rest), with a preface by William K. Tweedie (Aberdeen: George King, 1839). Named andrew-gray because 'gray' is a common word; the name check looks for 'Andrew Gray'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "andrew gray"
+ ],
+ "_surname": [
+  "andrew gray"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "andrew-gray-works-1839": [
+   "worksofreverendp00gray",
+   "The Works of the Reverend and Pious Andrew Gray, pref. Tweedie (Aberdeen: George King, 1839)"
+  ]
+ },
+ "_alternates": {
+  "bim_eighteenth-century_* (1704-1715), case_bx5330_g7_s66_1746": "18th-century printings of the separate sermon collections."
+ },
+ "_excluded": {},
+ "_checks": {
+  "andrew-gray-works-1839": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andrew gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

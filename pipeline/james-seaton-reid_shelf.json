@@ -1,0 +1,67 @@
+{
+ "_about": "James Seaton Reid (1798-1851), History of the Presbyterian Church in Ireland, comprising the civil history of the province of Ulster from the accession of James I, new edition with additional notes by W. D. Killen, whose continuation to the present time completes vol. 3 (Belfast: William Mullan, 1867, 3 vols). Volume numbers read off each title page. Named james-seaton-reid because Reid is a common surname. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "reid"
+ ],
+ "_surname": [
+  "reid"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "reid-presbyterian-ireland-1": [
+   "historyofpresbyt01reiduoft",
+   "History of the Presbyterian Church in Ireland, new ed. with notes by Killen (Belfast: Mullan, 1867), vol. 1"
+  ],
+  "reid-presbyterian-ireland-2": [
+   "historyofpresbyt02reid_0",
+   "History of the Presbyterian Church in Ireland, new ed. with notes by Killen (Belfast: Mullan, 1867), vol. 2"
+  ],
+  "reid-presbyterian-ireland-3": [
+   "historyofpresbyt03reiduoft",
+   "History of the Presbyterian Church in Ireland, continued by W. D. Killen (Belfast: Mullan, 1867), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "historyofpresbyt01reid, 02reid, 03reid (1834-1853, Edinburgh: Oliver & Boyd)": "The first edition, vol. 3 completed by Killen in 1853.",
+  "historypresbyte00/01reidgoog, ahistorypresbyt01killgoog, historypresbyte00killgoog, historyofpresbyt00reid (1860)": "Other copies and printings."
+ },
+ "_excluded": {
+  "bwb_P9-CDQ-419_2": "Lending-library scan."
+ },
+ "_checks": {
+  "reid-presbyterian-ireland-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "reid-presbyterian-ireland-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "reid-presbyterian-ireland-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

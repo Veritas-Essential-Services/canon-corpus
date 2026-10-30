@@ -1,0 +1,127 @@
+{
+ "_about": "Gilbert Burnet (1643-1715), Bishop of Salisbury: The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford: Clarendon Press, 1865, 7 vols), with the Collection of Records. Volume numbers read off each title page. Volume 6 is largely Latin Records, so its share of common English words is low; that is content, not bad OCR. Named gilbert-burnet so Frances Hodgson Burnett's shelf (burnett) cannot be mistaken for it. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "burnet"
+ ],
+ "_surname": [
+  "burnet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burnet-history-reformation-1": [
+   "historyofreformat01burn",
+   "The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford, 1865), vol. 1"
+  ],
+  "burnet-history-reformation-2": [
+   "historyofreformat02burn",
+   "The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford, 1865), vol. 2"
+  ],
+  "burnet-history-reformation-3": [
+   "historyofreformat03burn",
+   "The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford, 1865), vol. 3"
+  ],
+  "burnet-history-reformation-4": [
+   "historyofreformat04burn",
+   "The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford, 1865), vol. 4"
+  ],
+  "burnet-history-reformation-5": [
+   "historyofreforma05burn",
+   "The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford, 1865), vol. 5"
+  ],
+  "burnet-history-reformation-6": [
+   "historyofreformat06burn",
+   "The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford, 1865), vol. 6"
+  ],
+  "burnet-history-reformation-7": [
+   "historyofreformat07burn",
+   "The History of the Reformation of the Church of England, ed. Nicholas Pocock (Oxford, 1865), vol. 7"
+  ]
+ },
+ "_alternates": {
+  "historyofreforma0[1-7]burniala, historyofreforma0[0-7]burnuoft, historyofreforma000[0-7]gilb*, cu319240923556*, historyreformat0[4-9]burngoog": "Other copies of the Pocock edition.",
+  "historyofreforma01burniala..03 (1837), historyofreforma03burnuoft, 04burnuoft (1839), historyofreforma01burn_0, 02burn_0 (1850)": "Earlier editions (Nares and others)."
+ },
+ "_excluded": {
+  "abridgmentofbish0001burn, 0002burn (1833); historyreformat11burngoog (1820)": "Abridgements."
+ },
+ "_checks": {
+  "burnet-history-reformation-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-history-reformation-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-history-reformation-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-history-reformation-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-history-reformation-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-history-reformation-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-history-reformation-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

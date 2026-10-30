@@ -1,0 +1,74 @@
+{
+ "_about": "Christopher Love (1618-1651), Presbyterian minister of St Lawrence Jewry, beheaded for his part in a plot to restore Charles II: his sermons as published after his death by Edmund Calamy, Simeon Ashe, Jeremiah Whitaker and others who held his papers: Grace: the Truth, Growth and Different Degrees thereof (1652), The Christians Directory (1653) and Heavens Glory, Hells Terror (1658). Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "christopher love",
+  "chr. love",
+  "mr. love",
+  "mr. christopher love"
+ ],
+ "_surname": [
+  "christopher love",
+  "chr. love",
+  "mr. love",
+  "mr. christopher love"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "love-grace-1652": [
+   "bim_early-english-books-1641-1700_grace-_love-christopher_1652",
+   "Grace: the Truth, Growth and Different Degrees thereof (London, 1652)"
+  ],
+  "love-christians-directory-1653": [
+   "bim_early-english-books-1641-1700_the-christians-directory_love-christopher_1653",
+   "The Christians Directory (London, 1653)"
+  ],
+  "love-heavens-glory-1658": [
+   "bim_early-english-books-1641-1700_heavens-glory-hells-ter_love-christopher_1658",
+   "Heavens Glory, Hells Terror (London, 1658)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_heavens-glory-hells-ter_love-christopher_1655, _1671, _1679; grace-_love-christopher_1654, _1657, _1676, _1677": "Other printings."
+ },
+ "_pending": {
+  "bim_early-english-books-1641-1700_a-treatise-of-effectual-_love-christopher_1658 (A Treatise of Effectual Calling and Election)": "Internet Archive returned HTTP 500 on 2026-10-03.",
+  "The Naturall Mans Case Stated, The Zealous Christian, The Mortified Christian, The Combate between the Flesh and Spirit, The Dejected Soules Cure and the other EEBO printings": "Not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "love-grace-1652": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mr. love",
+   "identity": "ok",
+   "ia_rights": "ok: published 1652",
+   "ia_date": "1652",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "love-christians-directory-1653": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "christopher love",
+   "identity": "ok",
+   "ia_rights": "ok: published 1653",
+   "ia_date": "1653",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "love-heavens-glory-1658": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "christopher love",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

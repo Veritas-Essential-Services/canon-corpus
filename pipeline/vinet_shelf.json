@@ -1,0 +1,109 @@
+{
+ "_about": "Alexandre Vinet (1797-1847), professor at Lausanne, theologian of the Vaudois Réveil: Vital Christianity, tr. Robert Turnbull (Boston: Gould, Kendall and Lincoln, 1845); Gospel Studies, with an introduction by Robert Baird (New York: Dodd, 1849); Homiletics, or the Theory of Preaching (New York, 1853) and Pastoral Theology (New York: Harper, 1853), both tr. Thomas H. Skinner; Outlines of Theology (London: Strahan, 1865). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "vinet"
+ ],
+ "_surname": [
+  "vinet"
+ ],
+ "_translators": {
+  "vinet-vital-christianity-1845": "Turnbull",
+  "vinet-homiletics-1853": "Skinner",
+  "vinet-pastoral-theology-1853": "Skinner"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vinet-vital-christianity-1845": [
+   "vitalchristianitd00vine",
+   "Vital Christianity, tr. Turnbull (Boston, 1845)"
+  ],
+  "vinet-gospel-studies-1849": [
+   "gospelstudieswit00vine",
+   "Gospel Studies, intro. Baird (New York: Dodd, 1849)"
+  ],
+  "vinet-homiletics-1853": [
+   "homileticsortheo00vine",
+   "Homiletics, or the Theory of Preaching, tr. Skinner (New York, 1853)"
+  ],
+  "vinet-pastoral-theology-1853": [
+   "pastoraltheolo00vine",
+   "Pastoral Theology, tr. Skinner (New York: Harper, 1853)"
+  ],
+  "vinet-outlines-of-theology-1865": [
+   "outlinesoftheolo00vine",
+   "Outlines of Theology (London: Strahan, 1865)"
+  ]
+ },
+ "_alternates": {
+  "vitalchristianit0000alex, in.ernet.dli.2015.219582": "Other copies of Vital Christianity.",
+  "homileticsorthe00vinegoog, homileticsorthe02skingoog (1854), homileticsortheo0000vine (1880)": "Other printings of Homiletics.",
+  "pastoraltheolog00skingoog, pastoraltheolog02vinegoog, pastoraltheology00vine_0 (1852, a different translation)": "Other printings of Pastoral Theology."
+ },
+ "_excluded": {
+  "historyfrenchli01brycgoog, historyoffrenchl00vineiala, studiesonpascal00vinerich, montaigneendles00vinegoog, outlinesphiloso01/02vinegoog": "Literary criticism, not theology."
+ },
+ "_checks": {
+  "vinet-vital-christianity-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vinet",
+   "translator_claimed": "Turnbull",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vinet-gospel-studies-1849": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vinet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vinet-homiletics-1853": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vinet",
+   "translator_claimed": "Skinner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vinet-pastoral-theology-1853": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vinet",
+   "translator_claimed": "Skinner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "vinet-outlines-of-theology-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vinet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

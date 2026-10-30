@@ -1,0 +1,35 @@
+{
+ "_about": "Alexander Henderson (1583?-1646), moderator of the Glasgow Assembly of 1638, framer of the Solemn League and Covenant and a Scottish commissioner at Westminster: Sermons, Prayers and Pulpit Addresses, edited from the original manuscript by R. Thomson Martin (Edinburgh: John Maclaren, 1867; the title page carries no year, the catalogue gives 1867). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "henderson"
+ ],
+ "_surname": [
+  "henderson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henderson-sermons-1867": [
+   "sermonsprayerspu00hend",
+   "Sermons, Prayers and Pulpit Addresses, ed. R. Thomson Martin (Edinburgh: Maclaren, 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "His printed Parliament sermons (1644-45) and the Government and Order of the Church of Scotland (1641)": "EEBO only; not yet searched."
+ },
+ "_excluded": {},
+ "_checks": {
+  "henderson-sermons-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

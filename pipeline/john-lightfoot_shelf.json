@@ -1,0 +1,37 @@
+{
+ "_about": "John Lightfoot (1602-1675), Hebraist and member of the Westminster Assembly: vol. 13 of his Whole Works, ed. J. R. Pitman (London, 1822-1825), which holds his Journal of the Proceedings of the Assembly of Divines, 1 January 1643 to 31 December 1644, with letters to and from him. Named john-lightfoot so J. B. Lightfoot's shelf (j-b-lightfoot) cannot be mistaken for it. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "lightfoot"
+ ],
+ "_surname": [
+  "lightfoot"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lightfoot-works-13-journal": [
+   "wholeworksofrevj13ligh",
+   "The Whole Works of the Rev. John Lightfoot, ed. J. R. Pitman (London, 1822-1825), vol. 13: Journal of the Proceedings of the Assembly of Divines, 1643-1644; letters"
+  ]
+ },
+ "_alternates": {
+  "10785939bsb": "Munich copy of vol. 13."
+ },
+ "_pending": {
+  "The Whole Works, vols 1-12 (Horae Hebraicae et Talmudicae, the Harmony, sermons)": "Only Munich (Google) scans found, whose OCR does not show most volume numbers on the title pages; the shelf rule is to read them off the page."
+ },
+ "_excluded": {},
+ "_checks": {
+  "lightfoot-works-13-journal": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lightfoot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "_about": "Robert J. Breckinridge (1800-1871), Old School Presbyterian, professor at Danville: The Knowledge of God, Objectively Considered (New York: Carter, 1869 printing; first 1858) and The Knowledge of God, Subjectively Considered (New York: Carter, 1859), the two parts of his Theology Considered as a Science of Positive Truth. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "breckinridge"
+ ],
+ "_surname": [
+  "breckinridge"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "breckinridge-knowledge-objectively": [
+   "knowledgeofgod00brec",
+   "The Knowledge of God, Objectively Considered (New York: Carter, 1869)"
+  ],
+  "breckinridge-knowledge-subjectively-1859": [
+   "knowledgeofgodsu00brec_0",
+   "The Knowledge of God, Subjectively Considered (New York: Carter, 1859)"
+  ]
+ },
+ "_alternates": {
+  "knowledgegodobj01brecgoog (1858), knowledgegodsub00/02brecgoog": "Google copies."
+ },
+ "_excluded": {
+  "Slavery and political pamphlets (hintsonslavery00brec, discoursedeliver01/02brec, etc.)": "Not theology; outside this shelf."
+ },
+ "_checks": {
+  "breckinridge-knowledge-objectively": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "breckinridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "breckinridge-knowledge-subjectively-1859": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "breckinridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

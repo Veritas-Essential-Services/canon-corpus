@@ -1,0 +1,154 @@
+{
+ "_about": "John Witherspoon (1723-1794), minister of Beith and Paisley, then President of the College of New Jersey (Princeton) and a signer of the Declaration of Independence: The Works of John Witherspoon, containing essays, sermons and lectures (Edinburgh: Ogle & Aikman, 1804-1805, 9 vols). Volume numbers read off each title page. His Ecclesiastical Characteristics, the satire on the Moderates, is among the essays. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "witherspoon"
+ ],
+ "_surname": [
+  "witherspoon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "witherspoon-works-1": [
+   "workjohnwi01with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. I"
+  ],
+  "witherspoon-works-2": [
+   "workjohnwi02with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. II"
+  ],
+  "witherspoon-works-3": [
+   "workjohnwi03with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. III"
+  ],
+  "witherspoon-works-4": [
+   "workjohnwi04with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. IV"
+  ],
+  "witherspoon-works-5": [
+   "workjohnwi05with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. V"
+  ],
+  "witherspoon-works-6": [
+   "workjohnwi06with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. VI"
+  ],
+  "witherspoon-works-7": [
+   "workjohnwi07with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. VII"
+  ],
+  "witherspoon-works-8": [
+   "workjohnwi08with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. VIII"
+  ],
+  "witherspoon-works-9": [
+   "workjohnwi09with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. IX"
+  ]
+ },
+ "_alternates": {
+  "worksofrevjohnwi001..003with, worksofrevjohnwi01/02/03inwith, worksofrevjohnw01/02with, worksofrevjohnwi03with, worksrevjohnwit00..05rodggoog (Philadelphia: Woodward, 1800-1802, 4 vols)": "The first collected edition."
+ },
+ "_excluded": {},
+ "_checks": {
+  "witherspoon-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

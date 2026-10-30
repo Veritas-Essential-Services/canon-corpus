@@ -1,0 +1,39 @@
+{
+ "_about": "Gulielmus Bucanus (d. 1603), professor at Lausanne: Institutions of Christian Religion, framed out of God's Word, methodically handled by questions and answers, written in Latin and published in English by Robert Hill, Bachelor in Divinity and Fellow of St John's, Cambridge (London, 1606). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "bucanus",
+  "gulielmus bucanus",
+  "william bucanus",
+  "guil. bucanus"
+ ],
+ "_surname": [
+  "bucanus",
+  "gulielmus bucanus",
+  "william bucanus",
+  "guil. bucanus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bucanus-institutions-1606": [
+   "bim_early-english-books-1475-1640_institutions-of-christia_bucanus-william_1606",
+   "Institutions of Christian Religion, tr. Robert Hill (London, 1606)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "bucanus-institutions-1606": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bucanus",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1606",
+   "ia_date": "1606",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

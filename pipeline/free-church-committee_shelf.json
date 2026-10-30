@@ -1,0 +1,55 @@
+{
+ "_about": "Biographical volumes of the series issued by the Committee of the General Assembly of the Free Church of Scotland for the Publication of the Works of Scottish Reformers and Divines (Edinburgh, 1845-): Memoirs of Mrs William Veitch, Mr Thomas Hog of Kiltearn, Mr Henry Erskine and Mr John Carstairs (1846); and Lives of Alexander Henderson (by Thomas M'Crie) and James Guthrie, with specimens of their writings (1846). The series' authored volumes (Dickson, Traill, Rutherford and others) belong on their authors' shelves. A collection: the name check looks for the series' name. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "free church",
+  "reformers and divines"
+ ],
+ "_surname": [
+  "free church",
+  "reformers and divines"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fcc-memoirs-veitch-hog-erskine-carstairs-1846": [
+   "memoirsofmrswill00unknuoft",
+   "Memoirs of Mrs William Veitch, Mr Thomas Hog of Kiltearn, Mr Henry Erskine, and Mr John Carstairs (Edinburgh: Free Church Committee, 1846)"
+  ],
+  "fcc-lives-henderson-guthrie-1846": [
+   "livesofalexander00hend",
+   "Lives of Alexander Henderson and James Guthrie, with specimens of their writings (Edinburgh: Free Church Committee, 1846)"
+  ]
+ },
+ "_alternates": {
+  "memoirsofmrswill00free, memoirsofmrswill00freeiala, memoirsmrswilli00veitgoog": "Other copies of the Memoirs.",
+  "fulfillingofscrem (Fleming, vol. 1, 1845)": "Half of a two-volume work; the complete 1806 text is on robert-fleming."
+ },
+ "_excluded": {
+  "selectpracticalw00knoxuoft (Knox, 1845)": "Selections; Laing's complete Works are on john-knox.",
+  "selepracw01dick (Dickson, 1845)": "Already on lane A's david-dickson shelf."
+ },
+ "_checks": {
+  "fcc-memoirs-veitch-hog-erskine-carstairs-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "free church",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcc-lives-henderson-guthrie-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reformers and divines",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

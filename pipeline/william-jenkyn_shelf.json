@@ -1,0 +1,36 @@
+{
+ "_about": "William Jenkyn (1613-1685), ejected minister of Christ Church, Newgate: An Exposition of the Epistle of Jude, revised by James Sherman, bound with Jean Daillé's expositions of Philippians and Colossians (Edinburgh: Nichol; London: Nisbet, 1865). The name check is on Jenkyn; Daillé's part is held here because it is the same volume. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "jenkyn"
+ ],
+ "_surname": [
+  "jenkyn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jenkyn-jude-1865": [
+   "expositionuponep00jenk",
+   "An Exposition of the Epistle of Jude, with Jean Daillé on Philippians and Colossians (Edinburgh: Nichol, 1865)"
+  ]
+ },
+ "_alternates": {
+  "anexpositionupo01shergoog (1839), AnExpositionUponTheEpistleOfJudeDeliveredInChrist-churchLondon": "An earlier Sherman edition, and an undated upload.",
+  "bim_early-english-books-1641-1700_an-exposition-of-the-epi_jenkyn-william_1652, ..._1656": "EEBO scans of the first edition.",
+  "expositionofepist00dail, expositionofepis00daiuoft (Daillé, Philippians, 1841); expositionofepis00dail, expositionofcolo00dailuoft (Colossians)": "Separate printings of the Daillé translations, which the Jenkyn volume already holds."
+ },
+ "_excluded": {},
+ "_checks": {
+  "jenkyn-jude-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jenkyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

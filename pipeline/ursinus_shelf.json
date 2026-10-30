@@ -1,0 +1,48 @@
+{
+ "_about": "Zacharias Ursinus (1534-1583), chief author of the Heidelberg Catechism. The target is his Commentary on the Heidelberg Catechism, translated from the Latin by G. W. Williard, second American edition (Columbus: Scott & Bascom, 1852), Internet Archive OCR, raw; title page read. Williard is named on the title page and checked as translator.",
+ "_name_words": [
+  "ursinus"
+ ],
+ "_surname": [
+  "ursinus"
+ ],
+ "_translators": {
+  "ursinus-commentary": "Williard"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ursinus-commentary": [
+   "commdrza00ursi",
+   "The Commentary of Dr. Zacharias Ursinus on the Heidelberg Catechism, tr. G. W. Williard, 2nd American ed. (Columbus, 1852)"
+  ]
+ },
+ "_alternates": {
+  "commentaryofzach00ursiuoft": "Fourth American edition (Cincinnati, 1888), Toronto: a later printing of the same translation.",
+  "commentaryofdrza00ursi": "Princeton 'Third American Edition' (Cincinnati; the record's 1851 date is doubtful).",
+  "commentaryofdrza0000gwwi, commentaryofdrza0000revg": "internetarchivebooks scans of the 1851/1852 printings."
+ },
+ "_pending": {
+  "The Summe of Christian Religion, tr. Henry Parry (Oxford, 1587 and later)": "The earlier English translation; only EEBO-type scans seen so far.",
+  "Heidelberg Catechism text (1563; Schaff, Creeds of Christendom)": "A confession, not Ursinus's own book; belongs on a creeds shelf."
+ },
+ "_excluded": {
+  "ccel ursinus/catechism, ursinus/gospel": "Short CCEL essays with no source and no rights line; their text appears to come from the Williard commentary, which is held.",
+  "ccel ursinus/heidelberg, heidelberg1": "The Catechism itself, served as a work-info page without text."
+ },
+ "_checks": {
+  "ursinus-commentary": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ursinus",
+   "translator_claimed": "Williard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

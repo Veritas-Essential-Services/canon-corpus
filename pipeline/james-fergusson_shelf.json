@@ -1,0 +1,34 @@
+{
+ "_about": "James Fergusson (1621-1667), minister of Kilwinning, one of the Scottish Resolutioner commentators: A Brief Exposition of the Epistles of Paul to the Galatians, Ephesians, Philippians, Colossians and Thessalonians, reprinted from the original editions of 1656-1674 (London: Thomas Ward, 1841). Named james-fergusson; not the 19th-century architectural historian of the same name. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "fergusson"
+ ],
+ "_surname": [
+  "fergusson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fergusson-epistles-1841": [
+   "briefexpositiono00ferg",
+   "A Brief Exposition of the Epistles of Paul to the Galatians, Ephesians, Philippians, Colossians and Thessalonians (London: Thomas Ward, 1841)"
+  ]
+ },
+ "_alternates": {
+  "briefexposition00ferg (1659), bim_early-english-books-1641-1700_a-brief-exposition-of-th_fergusson-james_1656/1659/1674/1675": "The first editions, one epistle or pair at a time."
+ },
+ "_excluded": {},
+ "_checks": {
+  "fergusson-epistles-1841": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fergusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

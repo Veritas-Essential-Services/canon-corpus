@@ -1,0 +1,42 @@
+{
+ "_about": "Samuel Ward (1577-1640), town preacher of Ipswich: A Collection of such Sermons and Treatises as have beene written and published by Samuel Ward, Bachelor in Divinitie and Preacher of Ipswich, gathered into one volume (London: John Grismond, 1636), including The Life of Faith, The Life of Faith in Death, A Coal from the Altar, Balm from Gilead and Woe to Drunkards. Early English Books Online scans of first or early printings; the OCR prints the long s ('ſ') and old type, so expect errors. Not to be confused with Samuel Ward (1572-1643), Master of Sidney Sussex. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "samuel ward",
+  "samvel ward",
+  "samuel vvard",
+  "sam. ward"
+ ],
+ "_surname": [
+  "samuel ward",
+  "samvel ward",
+  "samuel vvard",
+  "sam. ward"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "samuel-ward-sermons-1636": [
+   "bim_early-english-books-1641-1700_the-sermons-and-treatise_ward-samuel-of-ipswich_1636",
+   "A Collection of such Sermons and Treatises (London, 1636)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_a-collection-of-such-ser_ward-samuel-of-ipswich_1627, the-sermons-and-treatise_ward-samuel-of-ipswich_1623": "Earlier collected editions (1623, 1627); OCR too poor."
+ },
+ "_excluded": {
+  "bim_early-english-books-1475-1640_magnetis-reductorium-the_ward-samuel-of-cambrid_1637, bim_early-english-books-1641-1700_opera-nonnulla-_ward-samuel-of-sidney-_1658": "The other Samuel Ward, of Sidney Sussex."
+ },
+ "_checks": {
+  "samuel-ward-sermons-1636": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samvel ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1636",
+   "ia_date": "1636",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

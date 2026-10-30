@@ -1,0 +1,40 @@
+{
+ "_about": "James Melville (1556-1614): The Autobiography and Diary of Mr James Melvill, with a continuation, ed. Robert Pitcairn (Wodrow Society, 1842). Named james-melville so Andrew Melville cannot collide. The surname check takes both spellings. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "melvill",
+  "melville"
+ ],
+ "_surname": [
+  "melvill",
+  "melville"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "melville-autobiography-diary": [
+   "jamesmelvillwith00melvuoft",
+   "The Autobiography and Diary of Mr James Melvill, with a continuation of the Diary, ed. Robert Pitcairn (Wodrow Society, Edinburgh, 1842)"
+  ]
+ },
+ "_alternates": {
+  "autobiographydia00melv": "Princeton copy.",
+  "autobiographyan0[0-2]pitcgoog": "Google scans."
+ },
+ "_pending": {
+  "Andrew Melville's Latin works (Musae, Commentarius in Romanos)": "Latin; a later Latin shelf could take them. Andrew Melville's life is in McCrie's Life of Andrew Melville (1819, 2 vols), not yet searched."
+ },
+ "_excluded": {},
+ "_checks": {
+  "melville-autobiography-diary": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "melvill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

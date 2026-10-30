@@ -1,0 +1,42 @@
+{
+ "_about": "Robert Rainy (1826-1906), principal of New College, Edinburgh, and leader of the Free Church: Delivery and Development of Christian Doctrine, the fifth series of the Cunningham Lectures (Edinburgh: T. & T. Clark, 1874). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "robert rainy",
+  "r. rainy",
+  "principal rainy",
+  "dr rainy",
+  "dr. rainy"
+ ],
+ "_surname": [
+  "robert rainy",
+  "r. rainy",
+  "principal rainy",
+  "dr rainy",
+  "dr. rainy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rainy-delivery-development-1874": [
+   "deliverydevelopm00rain",
+   "Delivery and Development of Christian Doctrine (Edinburgh: T. & T. Clark, 1874)"
+  ]
+ },
+ "_alternates": {
+  "deliverydevelopm00rainuoft, deliveryanddevel00rainuoft, MN40237ucmf_6": "Other copies of the same 1874 printing."
+ },
+ "_excluded": {},
+ "_checks": {
+  "rainy-delivery-development-1874": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert rainy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

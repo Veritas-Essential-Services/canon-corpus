@@ -1,0 +1,86 @@
+{
+ "_about": "William Ames (Amesius, 1576-1633), English Puritan theologian in the Netherlands, professor at Franeker: The Marrow of Sacred Divinity (London, 1642, the English translation of his Medulla), Conscience with the Power and Cases thereof (1639, the English translation of De Conscientia), and A Fresh Suit against Human Ceremonies in God's Worship (1633, published anonymously; the publisher's advertisement names Ames). Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "william ames",
+  "w. ames",
+  "guilielmus amesius",
+  "doctor ames",
+  "dr. ames",
+  "d. ames",
+  "mr. ames"
+ ],
+ "_surname": [
+  "william ames",
+  "w. ames",
+  "guilielmus amesius",
+  "doctor ames",
+  "dr. ames",
+  "d. ames",
+  "mr. ames"
+ ],
+ "_identity_checked": {
+  "ames-marrow-1642": "This copy's title page is lost to OCR noise. The text is the Marrow (its chapters run in the Medulla's order, and Book I speaks of 'our Church at Franeker'). Its sibling scan of the same 1642 London edition (the-marrow-of-sacred-div_ames-william_1642) reads on its title page: 'The Marrow of Sacred Divinity, drawne out of the holy Scriptures ... by William Ames, sometime Doctor and Professor of Divinity in the famous University at Franeker in Friesland. Translated out of the Latine'.",
+  "ames-conscience-1639": "The OCR splits the signature of the dedication ('W. c Ames', 'W, Ames'). The title page reads: Conscience with the Power and Cases thereof, divided into V. bookes, written by the godly and learned William Ames, Doctor and Professor of Divinity in the famous University of Franeker in Friesland, translated out of Latine into English (1639)."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ames-marrow-1642": [
+   "bim_early-english-books-1641-1700_the-marrow-of-sacred-div_ames-william_1642_0",
+   "The Marrow of Sacred Divinity (London, 1642)"
+  ],
+  "ames-conscience-1639": [
+   "bim_early-english-books-1475-1640_conscience-with-the-powe_ames-william_1639",
+   "Conscience with the Power and Cases thereof (1639)"
+  ],
+  "ames-fresh-suit-1633": [
+   "bim_early-english-books-1475-1640_a-fresh-suit-against-hum_ames-william_1633",
+   "A Fresh Suit against Human Ceremonies in God's Worship (1633)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_the-marrow-of-sacred-div_ames-william_1642, _1643, bim_early-english-books-1475-1640_the-marrow-of-sacred-div_ames-william_1638": "Other printings of the Marrow.",
+  "bim_early-english-books-1641-1700_conscience-with-the-pow_ames-william_1643, bim_early-english-books-1475-1640_conscience-with-the-powe_ames-william_1633": "Other printings of Conscience.",
+  "bim_early-english-books-1641-1700_the-workes-of-reverend-a_ames-william_1643": "The collected English Workes (1643), which reprint the Marrow and Conscience."
+ },
+ "_pending": {
+  "Medulla, De Conscientia, Bellarminus Enervatus, Coronis and the other Latin works (EEBO scans)": "Latin; not yet taken."
+ },
+ "_excluded": {},
+ "_checks": {
+  "ames-marrow-1642": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1642",
+   "ia_date": "1642",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ames-conscience-1639": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1639",
+   "ia_date": "1639",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ames-fresh-suit-1633": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. ames",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1633",
+   "ia_date": "1633",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

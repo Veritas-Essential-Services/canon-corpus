@@ -1,0 +1,51 @@
+{
+ "_about": "E. H. Gillett (1823-1875), American Presbyterian historian: The Life and Times of John Huss, or the Bohemian Reformation of the Fifteenth Century (Boston: Gould and Lincoln, 1863, 2 vols). Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "gillett"
+ ],
+ "_surname": [
+  "gillett"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gillett-john-huss-1": [
+   "lifetimesofjohnhuss01gill",
+   "The Life and Times of John Huss (Boston: Gould and Lincoln, 1863), vol. 1"
+  ],
+  "gillett-john-huss-2": [
+   "lifetimesofjohnhuss02gill",
+   "The Life and Times of John Huss (Boston: Gould and Lincoln, 1863), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "lifetimesofjohnbo01/02gill (1864), lifetimesof01/02gill (Philadelphia, new edition, 1870), lifetimesofjohnbohem02gill (3rd ed., 1871), lifeandtimesjoh00/01gillgoog, thelifeandtimeso00gilluoft, bohemainreform00gillrich": "Later printings and editions, and other copies."
+ },
+ "_excluded": {
+  "lifetimesofjohnh0000gill, lifetimesofjohnh0000gill_c5w3, lifetimesofjohnh0000gill_q1u7, lifetimesofjohnh0002unse": "Lending-library scans."
+ },
+ "_checks": {
+  "gillett-john-huss-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gillett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gillett-john-huss-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gillett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

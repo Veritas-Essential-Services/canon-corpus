@@ -1,0 +1,34 @@
+{
+ "_about": "Roger Hutchinson (d. 1555): Works, Parker Society ed. John Bruce (1842). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "hutchinson"
+ ],
+ "_surname": [
+  "hutchinson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hutchinson-ps-works": [
+   "theworksofrogerh00hutcuoft",
+   "The Works of Roger Hutchinson, ed. John Bruce (Parker Society, Cambridge, 1842)"
+  ]
+ },
+ "_alternates": {
+  "india.history.resource.52678": "Digital Library of India copy."
+ },
+ "_excluded": {},
+ "_checks": {
+  "hutchinson-ps-works": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hutchinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

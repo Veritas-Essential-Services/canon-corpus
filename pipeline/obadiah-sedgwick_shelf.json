@@ -1,0 +1,115 @@
+{
+ "_about": "Obadiah Sedgwick (1600?-1658), member of the Westminster Assembly and minister at Covent Garden: The Fountain Opened, sermons on Isaiah 55:1-3 (London, 1657); The Shepherd of Israel, sermons on the whole twenty-third Psalm, with the doctrine of Providence on Matthew 10:29-31 (London, 1658); The Anatomy of Secret Sins (London, 1660); The Humbled Sinner Resolved what he should do to be Saved (London, 1660); and The Bowels of Tender Mercy Sealed in the Everlasting Covenant (London, 1661), the last four published after his death from his corrected notes. The Princeton copies are 17th-century printings scanned from the books; the Bowels is an EEBO scan. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "obadiah sedgwick",
+  "obadiah sedgwicke",
+  "o. sedgwick",
+  "sedgwick"
+ ],
+ "_surname": [
+  "obadiah sedgwick",
+  "obadiah sedgwicke",
+  "o. sedgwick",
+  "sedgwick"
+ ],
+ "_identity_checked": {
+  "sedgwick-anatomy-secret-sins-1660": {
+   "author": "The OCR breaks the name: the title page reads 'By that Reverend and Faithfull Minister of the Gospel Mr. Obadiab Sedgwic^ B. D. ... LONDON, Printed by T. R. for Adoniram Byfield', 1660, the same publisher as the Fountain Opened."
+  },
+  "sedgwick-bowels-tender-mercy-1661": {
+   "author": "The OCR breaks the name: the title page reads 'By that Faithful Reverend Divine Mr. Obadiab Sedo[...] B.D. late Minister of the Gospel in Covent-Garden, London', printed for Adoniram Byfield, 1661; the preface opens 'Had not the Reverend Author of this Book requested our Attestation unto all the Pieces which after his death should be printed in his Name'."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sedgwick-fountain-opened-1657": [
+   "fouedwa00sedg",
+   "The Fountain Opened, and the Water of Life flowing forth (London, 1657)"
+  ],
+  "sedgwick-shepherd-of-israel-1658": [
+   "shephe00sedg",
+   "The Shepherd of Israel, or God's Pastoral Care over his People (London, 1658)"
+  ],
+  "sedgwick-anatomy-secret-sins-1660": [
+   "anasecre00sedg",
+   "The Anatomy of Secret Sins, Presumptuous Sins, Sins in Dominion, and Uprightness (London, 1660)"
+  ],
+  "sedgwick-humbled-sinner-1660": [
+   "innerres00sedg",
+   "The Humbled Sinner Resolved what he should do to be Saved (London, catalogued 1660)"
+  ],
+  "sedgwick-bowels-tender-mercy-1661": [
+   "bim_early-english-books-1641-1700_sedgwick-obadiah_1661_ia40331215-44",
+   "The Bowels of Tender Mercy Sealed in the Everlasting Covenant (London, 1661; EEBO scan)"
+  ]
+ },
+ "_alternates": {
+  "acrets00sedg": "A second Princeton copy of the Anatomy (1660).",
+  "theshepherdofisr00sedguoft": "Toronto copy of the Shepherd of Israel (1658).",
+  "humbledsinnerre00sedggoog (catalogued 1656)": "A Google scan of the Humbled Sinner; Princeton's copy is used instead.",
+  "bim_early-english-books-1641-1700_the-bowels-of-tender-mer_sedgwick-obadiah_1661": "Second EEBO scan of the Bowels (1661)."
+ },
+ "_pending": {
+  "prodiga00sedg (The Parable of the Prodigal, 1660)": "Internet Archive server error on its text, 2026-10-03.",
+  "bim_early-english-books-1641-1700_the-doubting-beleever-_sedgwick-obadiah_1641 (The Doubting Believer, 1641)": "OCR too poor (about a quarter common words)."
+ },
+ "_excluded": {},
+ "_checks": {
+  "sedgwick-fountain-opened-1657": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "obadiah sedgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1657",
+   "ia_date": "1657",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sedgwick-shepherd-of-israel-1658": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "obadiah sedgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sedgwick-anatomy-secret-sins-1660": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sedgwick-humbled-sinner-1660": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "obadiah sedgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sedgwick-bowels-tender-mercy-1661": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1661",
+   "ia_date": "1661",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
