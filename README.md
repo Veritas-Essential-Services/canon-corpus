@@ -30,7 +30,8 @@ provenance) is the committed record of the collection.
 
 ## Tests
 
-    python3 tests/structure_test.py         # 60 offline checks, no corpus needed
+    python3 tests/structure_test.py         # 68 offline checks, no corpus needed
+    python3 tests/versification_test.py     # the Hebrew->KJV verse map (BDB's citations)
     python3 tests/hymn_corpus_test.py       # the hymn JSONL validator (D1-D2)
     python3 tests/lemma_spine_test.py       # the Latin lemma spine (D3)
     python3 tests/nt_corpus_test.py         # the Greek NT JSONL validator (D2-D5 pilot)
