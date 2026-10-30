@@ -88,11 +88,37 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 99 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 147 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
-    python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 tests/wh_uid_test.py             # 67 identity-layer checks
+    python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
+    python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
+    python3 pipeline/build_versification.py --check    # Hebrew->KJV map byte-identical; WLC invariants
+    python3 pipeline/build_versification.py --measure  # BDB cites in Hebrew numbering: the evidence
+    python3 tests/versification_test.py      # the map, offline
+    python3 pipeline/build_vulgate_versification.py --fetch    # TVTMS + the Clementine, pinned
+    python3 pipeline/build_vulgate_versification.py --check    # Vulgate->KJV map byte-identical; invariants
+    python3 pipeline/build_vulgate_versification.py --measure  # the map vs proper names in both texts
+    python3 pipeline/build_vulgate_versification.py --audit-douay  # the map vs the Douay's English
+    python3 tests/vulgate_versification_test.py  # the Vulgate map, offline
+    python3 pipeline/build_brenton_versification.py --fetch  # TVTMS + Brenton's USFM, pinned
+    python3 pipeline/build_brenton_versification.py --check  # Brenton->KJV map byte-identical; invariants
+    python3 pipeline/build_brenton_versification.py --audit  # the map vs Brenton's English aligned to the KJV's
+    python3 tests/brenton_versification_test.py  # the Brenton map, offline
+    python3 pipeline/build_english_versification.py --fetch  # Geneva, Tyndale, YLT, Darby, ASV, pinned
+    python3 pipeline/build_english_versification.py --check  # their KJV maps byte-identical; invariants
+    python3 pipeline/build_english_versification.py --audit geneva  # verses a nearby KJV verse fits better
+    python3 tests/english_versification_test.py  # the five maps, offline
+    python3 pipeline/build_parallel_index.py          # data/parallel/kjv-parallel.tsv (needs the built books)
+    python3 pipeline/build_parallel_index.py --check  # the index byte-identical
+    python3 tests/parallel_index_test.py      # the index vs the committed maps, offline
+    python3 pipeline/build_deuterocanon.py          # the deuterocanon's shared key (needs the built books)
+    python3 pipeline/build_deuterocanon.py --check  # map + index byte-identical
+    python3 pipeline/build_deuterocanon.py --audit  # the weakest pairings, to read
+    python3 tests/deuterocanon_test.py        # the deuterocanon map and index, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
+    python3 pipeline/build_kjv_italic.py     # kjv.complete.json (kjv.italic) from the committed kjv.tsv
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_progym.py --check      # Aphthonius, 3 editions: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -141,6 +167,9 @@ The living truth for project state is the Obsidian vault:
     python3 tests/brewer_plates_test.py                # the plates catalog, offline
     python3 pipeline/build_stories.py [--check]        # Illustrated Classics story layer: scenes + figures -> uids (mint 0)
     python3 tests/stories_test.py                      # data/stories/ and data/art/illustrated-classics/, offline
+    python3 pipeline/build_dictionary_links.py --fetch # the dictionaries' edges (+ Character Sketches scans)
+    python3 pipeline/build_dictionary_links.py --check # data/dictionaries/ byte-identical
+    python3 tests/dictionary_links_test.py             # the edge parsers, offline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -149,6 +178,13 @@ The living truth for project state is the Obsidian vault:
   Gutenberg verse–prose–drama → data/books/<slug>.json (gitignored) +
   data/books/manifest.json (committed: checksums, schemes, provenance)
 - tests/structure_test.py — offline converter checks, fixtures inline
+- The Clementine Vulgate (1592, PD) — `VULGATE` in fetch_sources.py, pinned
+  to a commit of github.com/BibleGet-I-O/Clementine-Vulgate (73 books, one
+  sha256 over the files); `convert_vulgate` -> data/books/vulgate.json,
+  35,809 verses. Ids are `vulgate:Ps.50.3` in the VULGATE's own numbering
+  (Greek Psalm count, titles in verse 1, Greek additions in Dan/Esth): not
+  linked to kjv: units, no uids minted. Each verse keeps the project's
+  marked-up line as `marked` beside the plain `text`.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:
@@ -177,6 +213,81 @@ The living truth for project state is the Obsidian vault:
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
+  -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
+  4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
+  BDB's scripture citations through it.
+- pipeline/build_vulgate_versification.py — the Clementine Vulgate -> KJV verse
+  map → data/versification/vulgate-kjv.json (COMMITTED; same TVTMS file and
+  rights block). TVTMS's tests are RUN against the Clementine to pick the
+  column each block follows; HOUSE_ROWS holds the 55 verses no column fits,
+  each checked against the Latin (most found by --audit-douay). convert_vulgate
+  gives every unit `kjv` (resolved target, or why not); ids stay in Vulgate
+  numbering.
+- convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
+  GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 49
+  verses where this edition breaks verses off the Clementine's (Bar 6:7: it
+  prints 6:37 in that slot; Sir 29:16-34 run one behind; Isa 46:11, 2 Sam
+  13:38, Ps 150:5 hold the next verse's words); empty padding
+  verses in the file are dropped, never given ids.
+- Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
+  USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
+  (gitignored), 28,617 verses in the Greek's OWN numbering: Psalms by the Greek
+  count (title = v.1), Jeremiah's chapters in the Greek's order, Nehemiah as
+  Ezra 11-23, the Greek's additions lettered (1Kgs.12.24a), text before v.1 as
+  v.0. eBible's KJV-numbered NEH duplicate is skipped.
+  pipeline/build_brenton_versification.py → data/versification/brenton-kjv.json
+  (COMMITTED; same TVTMS file and rights block). Columns are picked by TVTMS's
+  hard tests, then by how well Brenton's English agrees with the KJV's (word
+  counts are only approximate on a translation). HOUSE_ROWS holds what no
+  column fits, each read in both texts (most found by --audit). A lettered
+  verse standing in a gap of Brenton's numbers is the KJV verse there only if
+  the words agree (Jer 10:9a is NOT 10:10). versification.resolve_brenton.
+  No Greek LXX: Rahlfs and CATSS are restricted; Swete awaits a ruling (its
+  only machine-readable text is CC BY-SA markup over the PD edition).
+- The historic English Bibles: Geneva 1599, Tyndale, Young's (1898), Darby
+  (1889), ASV (1901) — fetch_sources.ENGLISH, scrollmapper's JSON of CrossWire
+  modules at the Douay's pin, each README read ("License: Public Domain") →
+  convert_english → data/books/<slug>.json (gitignored). A CrossWire module sits
+  on the KJV's verse GRID: ids are its slots, the Bible's own numbers except
+  where it numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4,
+  Job 39-41...) and the chapter's overflow is merged into its last slot.
+  build_english_versification.py → data/versification/<slug>-kjv.json
+  (COMMITTED; the house's own reading, PD): each chapter aligned against the
+  KJV's English, followed only where it reads clearly better; HOUSE_ROWS for
+  swaps (Phil 1:16-17) and what old spelling hides. This Tyndale holds ten
+  books only; Darby's "beginningGod" is mended by a per-book rule
+  (ENGLISH_RULES). versification.resolve_english. NOT here: Wycliffe (the
+  one reachable PD copy, BibleNLP's eBible extract, drops verses where the
+  Vulgate's chapters run longer than the Hebrew's), Coverdale and the
+  Bishops' (no reachable machine-readable PD source found).
+  Candidates for a full-network lane: docs/pending-sources.md.
+- pipeline/build_parallel_index.py → data/parallel/kjv-parallel.tsv (COMMITTED,
+  generated): one row per KJV verse (with its uid), naming the verse(s) that
+  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt; the John 1
+  pilot on this branch), and each shelf version, in that version's own
+  numbering. Read off the committed maps and the built books' `kjv`; no new
+  judgement. A version's verse with no KJV verse is in no row. Its rights
+  note is data/parallel/README.md: the hebrew, vulgate, douay and brenton
+  columns are TVTMS-derived (CC BY 4.0), and so is every Vulgate, Douay and
+  Brenton unit's `kjv` (the manifest's `rights.kjv_field` says so). A built
+  Bible records its map's sha256 (`scheme.kjv_map_sha256`); structure_texts.py
+  rebuilds it when the map changes, so `kjv` never goes stale.
+- The deuterocanon's shared key: the KJV's own Apocrypha (fetch_sources.KJVA,
+  eBible's Cambridge Paragraph Bible USFM, pinned in a GitHub mirror, rights
+  line "Public Domain") → convert_kjva → data/books/kjva.json (gitignored),
+  `kjva:Book.c.v`, 5,722 verses; the Rest of Esther renumbered into the KJV's
+  10:4-16:24 from eBible's Greek order. pipeline/build_deuterocanon.py aligns
+  Brenton and the Douay to it by their English (the Vulgate keyed through the
+  Douay, which keeps its numbers) → data/versification/deuterocanon.json +
+  data/parallel/deuterocanon-parallel.tsv (COMMITTED; PD, the house's
+  reading). HOUSE_ROWS for what the alignment misses (found by --audit
+  and by scanning for keys far from their neighbours'). Each unit of those
+  books carries `kjva` (versification.resolve_dc). Jerome's Tobit and Judith
+  are another recension: keyed only where the words agree. R. H. Charles's
+  1913 Apocrypha has a reserved slot (WITNESSES, TSV_COLUMNS): see
+  docs/pending-sources.md.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
@@ -247,9 +358,17 @@ states "Public domain document". Recorded per entry in `LEXICONS`.
 versification, which parts company with the KJV's — most visibly in Psalms,
 where a superscription counts as verse 1 and shifts every later verse. So its
 **139,125 scripture citations are recorded as the source stated them**
-(`{osis, ref, versification: "bhs", resolved: false}`) and are NOT resolved to
-`kjv:` unit ids. Resolving them needs a versification map; that is its own
-piece of work. A labelled hole beats a confident wrong label.
+(`{osis, ref, versification: "bhs"}`), and since 2026-10-02 each is resolved
+through a Hebrew->KJV map, `data/versification/bhs-kjv.json`
+(`pipeline/build_versification.py`): **137,780 carry `target: "kjv:..."`**;
+1,345 stay `resolved: false` with a `why` (psalm titles, which the KJV does
+not number; references that name no Hebrew verse; NT references). The map is
+STEPBible's TVTMS (CC BY 4.0; only the derived OT Hebrew/KJV subset is
+committed, `redistribute_whole: false`), and the build refuses to write
+unless every one of the WLC's 23,213 verses lands on a KJV unit id. That BDB
+really numbers in Hebrew is measured, not assumed (`--measure`): where the
+schemes differ, the entry's own word is in the cited Hebrew verse 72% of the
+time and in the same-numbered KJV verse 5.5%.
 
 **Thayer's (added 2026-09-06) is the one book here that was OCR'd, not
 fetched.** It is PD and scanned (archive.org `greekenglishlexi00grimuoft`,
@@ -282,6 +401,52 @@ flagged heuristic. Entry segmentation can be refined later against a stable
 page-anchored base without re-running the OCR. The text is unproofread OCR and
 says so in its honesty field; Greek diacritics are where it errs most.
 
+## Dictionaries of names — the classical and the literary (2026-10-19)
+
+Adam asked for "a classical dictionary and a literary dictionary that are public
+domain". Both ingest through `LEXICONS` and `structure_texts.py`, keyed at ENTRY
+level, same `{id, ref, text, links[]}` contract, extras under `lex`:
+
+- **`smith-dgrbm`** — Smith, *Dictionary of Greek and Roman Biography and
+  Mythology* (London 1848, 1873 printing), Perseus TEI pinned to commit
+  `02768b0`. 19,893 entries + 8 sub-entries. The key is **Perseus's xml:id**
+  (`smith-dgrbm:abaris-bio-1`), not the headword: Smith has 19 Apolloniuses,
+  and Perseus already encoded Smith's cross-references against those ids, so
+  they resolve exactly. Printed `[NAME.]` cross-references are resolved by
+  headword only when one entry has it (`[X, No. 2]` picks the homonym); the
+  rest keep their candidates, `resolved: false`. 43,867 ancient-author
+  citations recorded as Perseus normalised them, NOT resolved to passages.
+  Text PD; **markup CC BY-SA 4.0 → `redistribute_whole: false`** like every
+  Perseus text here, pending Adam's ruling on CC BY-SA wholes.
+  Why not Lemprière: Smith is fuller, and the only machine-readable Lemprière
+  (PG 68769) expands the printed abbreviations, which lane B holds for Adam.
+- **`brewer-character-sketches`** — Brewer, *Character Sketches of Romance,
+  Fiction and the Drama*, the revised American edition of **The Reader's
+  Handbook**, ed. Marion Harland (Selmar Hess, 1892), PG 11431/58596/20851/58988.
+  ~10,200 entries A–Z plus ~4,200 appendix items (authors' works; foreign poems;
+  dramas and operas). Vol. I marks headwords in CAPITALS, II–IV in `=bold=`, and
+  vol. IV indents every paragraph two spaces from `=Theresa=` on. Brewer's list
+  entries (Dying Sayings, Errors of Authors) print their items like headwords;
+  they are told apart by the dictionary's own alphabetical order (a longest
+  non-decreasing run) and kept in `lex.list_items`. Brewer's *Dictionary of
+  Phrase and Fable* has no Gutenberg edition; it came from Adam's PDF as
+  `brewer`, below.
+
+**The edges (`pipeline/build_dictionary_links.py` → `data/dictionaries/`, COMMITTED):**
+`names.jsonl` (a headword two or more of the three share — a lead, not an
+identity), `scripture.jsonl` (Brewer's Bible refs → `kjv:` ids, each verified
+against kjv.json), `shakespeare.jsonl` (→ play.act.scene, verified),
+`classical.jsonl` (Smith's citations → CTS URNs through `cts-works.json`, whose
+every row was read from Perseus's own `__cts__.xml`; the rest are counted in
+`summary.json`, not guessed), `pages-brewer-cs.jsonl` (each Character Sketches
+entry → printed page and leaf of the 1892 Hess scans at archive.org,
+`charactersketche0{1-8}brewuoft`, by aligning headwords with the scans' text
+layer). Needs the built books, so run `structure_texts.py` first.
+
+The lane-B shelves `william-smith` and `anthon` hold Smith's other dictionaries
+and Anthon as raw IA OCR books; this is the entry-keyed layer, not a duplicate
+acquisition.
+
 **Brewer's Dictionary of Phrase and Fable (1894), added 2026-10-19, is the
 first lexicon from a file Adam supplied.** No fetchable machine-readable
 edition beat it: the archive.org scans of the 1894-95 printings carry OCR
@@ -297,7 +462,7 @@ sha256. So a fresh clone — the hosted Armarium's rebuild — builds Brewer's
 without the PDF. The PDF itself is kept in the vault,
 `9 - Projects/Armarium/sources/`.
 
-**Unlike Thayer's, it is segmented by entry — 16,750 units,
+**Unlike Thayer's, it is segmented by entry — 17,240 units,
 `brewer:<headword-slug>`** (repeats `~2`, `~3` in page order; `ref` is
 "Brewer, s.v. X"). The text carries no bold, so a headword is found by rule
 (converter docstring): a one-line paragraph, no closing full stop, in its
@@ -305,7 +470,10 @@ letter's section, AND on the longest alphabetical run through that section.
 The alphabet is what Thayer's OCR could not give: a one-line verse quotation
 looks exactly like a headword until it breaks Brewer's order. A line the rule
 misses is never dropped — it stays in the entry before it (149 such, counted
-in the honesty note). Known miss: headwords run into their own first sentence.
+in the honesty note). Headwords run into their own first sentence ("Agnus-castus
+A shrub…") are split out by `_brewer_run_in` when they fall alphabetically
+between their neighbours (490, `lex.run_in`, added 2026-10-22, 17,240 units);
+19 that share a found headword's name are left in place so no id moves.
 
 Edges: **2,125 "See" cross-references resolved, zero dangling**; 1,493 more
 name nothing that is a headword ("see above", *Notes and Queries*, years) and

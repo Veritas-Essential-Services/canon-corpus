@@ -14,7 +14,9 @@ Three converters, one output shape (the Canon Corpus JSON design, vault:
   ThML (CCEL,    data/corpus/ccel/*.xml)     — scripture keylinks born-in
   KJV  (Gutenberg data/corpus/kjv_bible.txt) — book chapter:verse, exact
   LEXICON (data/corpus/lexicons/*)           — reference works keyed by lemma:
-                                               Strong's H/G, Brown-Driver-Briggs
+                                               Strong's H/G, Brown-Driver-Briggs;
+                                               and dictionaries of names keyed by
+                                               entry: Smith's classical, Brewer's literary
 
 Output: data/books/<slug>.json (gitignored — rebuildable) and
 data/books/manifest.json (committed — checksums, schemes, provenance).
@@ -217,6 +219,15 @@ def convert_thml(path, slug):
                                   "of print editions need an anchor table (Concordance)"},
             "units": units}
 
+def _kjv_field_rights(map_rel):
+    """The rights of each unit's `kjv` field, which comes from a TVTMS-derived
+    map (CC BY 4.0), not from the public-domain text it sits beside."""
+    return {"from": map_rel, "license": "CC BY 4.0",
+            "attribution": "Data created by www.STEPBible.org based on work at Tyndale "
+                           "House Cambridge (CC BY 4.0)",
+            "source_url": "https://github.com/STEPBible/STEPBible-Data",
+            "redistribute_whole": False}
+
 # ---------------------------------------------------------------- KJV (Gutenberg)
 
 KJV_BOOKS = [
@@ -288,6 +299,7 @@ KJV_BOOKS = [
     ("The Revelation of Saint John the Divine", "Rev", "Revelation"),
 ]
 TITLE2OSIS = {t: (o, n) for t, o, n in KJV_BOOKS}
+RE_PG_END = re.compile(r"^(\*{3}\s*)?END OF (THE|THIS) PROJECT GUTENBERG", re.I)
 RE_VMARK = re.compile(r"(?:(?<=^)|(?<=\s))(\d+):(\d+)(?:\s+|$)")  # markers appear inline too,
 # and -- the 420-verse bug, fixed 2026-09-11 -- at END OF LINE. Gutenberg hard-wraps
 # at ~70 chars; when the wrap falls immediately after a marker there is no trailing
@@ -305,6 +317,8 @@ def convert_kjv(path, slug="kjv"):
             t = line.strip()
             if not t:
                 continue
+            if RE_PG_END.match(t):
+                break   # the licence follows; without this it all became Rev.22.21
             if t in ("Otherwise Called:", "Commonly Called:"):
                 skip_alias = True
                 continue
@@ -345,6 +359,756 @@ def convert_kjv(path, slug="kjv"):
                        "resolution": "verse", "honesty": "exact"},
             "units": units}
 
+# ---------------------------------------------------------------- Vulgate
+#
+# The Clementine Vulgate (1592), from the Clementine Vulgate Project's own
+# files (fetch_sources.VULGATE, pinned). One file per book, one line per
+# verse, "chapter:verse text". The project's markup, read from its files
+# (counts measured 2026-10-02 over all 35,809 verses):
+#     /        a line break inside poetry            28,860
+#     \        a paragraph break (2,058 of 2,085 at a verse's end)
+#     [ ... ]  a stretch set as poetry; it opens and closes mid-verse too
+#     <Name>   a speaker heading (the Song of Songs: Sponsa, Sponsus, Chorus)
+# `text` is the verse with the markup turned into layout ("/" a newline,
+# "\" a blank line, brackets dropped, speakers lifted into `speakers`);
+# `marked` is the line exactly as the file has it, so nothing is lost and
+# the change is plain to see (the project asks that modifications be clear).
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in the VULGATE's own numbering, which
+# is not the KJV's. Its Psalms follow the Greek count (Vulgate Ps 50 is KJV
+# Ps 51) and count a title in verse 1, as the Hebrew does; Daniel 3
+# carries the Song of the Three Children (3:24-90) and Esther its Greek
+# additions (10:4-16:24). So `vulgate:Ps.50.3` stays a citation in the
+# Vulgate, and no Word Hoard uid is minted here. Each unit's `kjv` says which
+# KJV verse holds the same text, by the map data/versification/vulgate-kjv.json
+# (pipeline/build_vulgate_versification.py, STEPBible TVTMS run against this
+# very text): {"resolved": true, "target": "kjv:Ps.51.1"}, with `spans` when
+# the verse holds several KJV verses; or {"resolved": false, "why": ...} for a
+# psalm title (the KJV numbers none) or text the KJV's canon does not hold.
+
+VULGATE_BOOKS = {   # file -> (OSIS, the book's Latin name)
+    "Gn": ("Gen", "Genesis"), "Ex": ("Exod", "Exodus"), "Lv": ("Lev", "Leviticus"),
+    "Nm": ("Num", "Numeri"), "Dt": ("Deut", "Deuteronomium"), "Jos": ("Josh", "Josue"),
+    "Jdc": ("Judg", "Judicum"), "Rt": ("Ruth", "Ruth"), "1Rg": ("1Sam", "1 Regum"),
+    "2Rg": ("2Sam", "2 Regum"), "3Rg": ("1Kgs", "3 Regum"), "4Rg": ("2Kgs", "4 Regum"),
+    "1Par": ("1Chr", "1 Paralipomenon"), "2Par": ("2Chr", "2 Paralipomenon"),
+    "Esr": ("Ezra", "1 Esdrae"), "Neh": ("Neh", "Nehemiae"), "Tob": ("Tob", "Tobiae"),
+    "Jdt": ("Jdt", "Judith"), "Est": ("Esth", "Esther"), "Job": ("Job", "Job"),
+    "Ps": ("Ps", "Psalmi"), "Pr": ("Prov", "Proverbia"), "Ecl": ("Eccl", "Ecclesiastes"),
+    "Ct": ("Song", "Canticum Canticorum"), "Sap": ("Wis", "Sapientia"),
+    "Sir": ("Sir", "Ecclesiasticus"), "Is": ("Isa", "Isaias"), "Jr": ("Jer", "Jeremias"),
+    "Lam": ("Lam", "Lamentationes"), "Bar": ("Bar", "Baruch"), "Ez": ("Ezek", "Ezechiel"),
+    "Dn": ("Dan", "Daniel"), "Os": ("Hos", "Osee"), "Joel": ("Joel", "Joel"),
+    "Am": ("Amos", "Amos"), "Abd": ("Obad", "Abdias"), "Jon": ("Jonah", "Jonas"),
+    "Mch": ("Mic", "Michaea"), "Nah": ("Nah", "Nahum"), "Hab": ("Hab", "Habacuc"),
+    "Soph": ("Zeph", "Sophonias"), "Agg": ("Hag", "Aggaeus"), "Zach": ("Zech", "Zacharias"),
+    "Mal": ("Mal", "Malachias"), "1Mcc": ("1Macc", "1 Machabaeorum"),
+    "2Mcc": ("2Macc", "2 Machabaeorum"), "Mt": ("Matt", "Matthaeus"), "Mc": ("Mark", "Marcus"),
+    "Lc": ("Luke", "Lucas"), "Jo": ("John", "Joannes"), "Act": ("Acts", "Actus Apostolorum"),
+    "Rom": ("Rom", "ad Romanos"), "1Cor": ("1Cor", "1 ad Corinthios"),
+    "2Cor": ("2Cor", "2 ad Corinthios"), "Gal": ("Gal", "ad Galatas"),
+    "Eph": ("Eph", "ad Ephesios"), "Phlp": ("Phil", "ad Philippenses"),
+    "Col": ("Col", "ad Colossenses"), "1Thes": ("1Thess", "1 ad Thessalonicenses"),
+    "2Thes": ("2Thess", "2 ad Thessalonicenses"), "1Tim": ("1Tim", "1 ad Timotheum"),
+    "2Tim": ("2Tim", "2 ad Timotheum"), "Tit": ("Titus", "ad Titum"),
+    "Phlm": ("Phlm", "ad Philemonem"), "Hbr": ("Heb", "ad Hebraeos"),
+    "Jac": ("Jas", "Jacobi"), "1Ptr": ("1Pet", "1 Petri"), "2Ptr": ("2Pet", "2 Petri"),
+    "1Jo": ("1John", "1 Joannis"), "2Jo": ("2John", "2 Joannis"), "3Jo": ("3John", "3 Joannis"),
+    "Jud": ("Jude", "Judae"), "Apc": ("Rev", "Apocalypsis"),
+}
+RE_VULG_LINE = re.compile(r"^(\d+):(\d+)\s(.*)$")
+RE_VULG_SPEAKER = re.compile(r"<([^>]*)>")
+
+
+def vulgate_layout(marked):
+    """(text, speakers) for one verse's marked-up line."""
+    speakers = [m.strip() for m in RE_VULG_SPEAKER.findall(marked)]
+    t = RE_VULG_SPEAKER.sub(" ", marked).replace("[", "").replace("]", "")
+    t = t.replace("\\", "\n\n").replace("/", "\n")
+    t = "\n".join(re.sub(r"[ \t]+", " ", ln).strip() for ln in t.split("\n"))
+    t = re.sub(r"\n{3,}", "\n\n", t).strip()
+    return t, speakers
+
+
+def _dc_map():
+    """The deuterocanon map (data/versification/deuterocanon.json), or None."""
+    import versification as _V
+    return _V.load(_V.DC_PATH) if os.path.exists(_V.DC_PATH) else None
+
+
+def _dc_key(u, ref, slug, dmap, tally):
+    """Give a deuterocanonical unit its shared key, `kjva` (resolve_dc)."""
+    import versification as _V
+    if dmap and slug in dmap["witnesses"]:
+        k = _V.resolve_dc(ref, slug, dmap)
+        if k is not None:
+            u["kjva"] = k
+            tally[k["resolved"]] += 1
+
+
+def _dc_scheme(tally):
+    return ({"kjva_keyed": tally[True], "kjva_unkeyed": tally[False],
+             "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV "
+                          "Apocrypha verse holding the same text, by "
+                          "data/versification/deuterocanon.json (the house's reading, PD), "
+                          "or why there is none; `weak` marks a pairing to read first"}
+            if tally[True] or tally[False] else {})
+
+
+def convert_vulgate(vdir, books, digest, slug="vulgate"):
+    """`books`: file names in canonical order; `digest`: the pinned digest."""
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
+    dmap, dc = _dc_map(), {True: 0, False: 0}
+    units = []
+    for b in books:
+        osis, name = VULGATE_BOOKS[b]
+        with open(os.path.join(vdir, b + ".lat"), encoding="cp1252") as f:
+            for n, line in enumerate(f, 1):
+                line = line.rstrip("\r\n")
+                if not line.strip():
+                    continue
+                m = RE_VULG_LINE.match(line)
+                if not m:
+                    raise ValueError(f"{b}.lat line {n}: not 'chapter:verse text'")
+                c, v, marked = m.groups()
+                text, speakers = vulgate_layout(marked)
+                u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{name} {c}:{v}",
+                     "text": text, "links": [], "marked": marked}
+                if speakers:
+                    u["speakers"] = speakers
+                if vmap:
+                    u["kjv"] = _V.resolve_vulgate(f"{osis}.{c}.{v}", vmap, kjv_ids)
+                    resolved[u["kjv"]["resolved"]] += 1
+                _dc_key(u, f"{osis}.{c}.{v}", slug, dmap, dc)
+                units.append(u)
+    return {"slug": slug, "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
+            "author": "Jerome and the Old Latin (translators); the Clementine revision (1592)",
+            "source": {"path": os.path.relpath(vdir, CORPUS), "format": "clementine-lat",
+                       "sha256": digest,
+                       "sha256_of": "name<TAB>sha256 lines of the book files, sorted"},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       **_dc_scheme(dc),
+                       "note": "Ids follow the Clementine numbering, NOT the KJV's: the "
+                               "Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV "
+                               "Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 "
+                               "and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` "
+                               "names the KJV verse(s) holding the same text, by the map "
+                               "data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY "
+                               "4.0, tested against this text), or says why there is none; "
+                               "no uids minted. `text` is the verse with the "
+                               "project's markup turned into line and paragraph breaks; "
+                               "`marked` is the file's line as is. The Clementine appendix "
+                               "(Prayer of Manasses, 3-4 Esdras) is not in the source."},
+            "rights": {"license": "public-domain",
+                       "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+                       "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+                       "requests": "acknowledge the source; report typographical errors to the "
+                                   "project; make modifications clear (requests, not a licence)",
+                       "kjv_field": _kjv_field_rights("data/versification/vulgate-kjv.json")},
+            "units": units}
+
+# ---------------------------------------------------------------- Douay-Rheims
+#
+# The Douay-Rheims, Challoner revision (fetch_sources.DOUAY, pinned): the
+# Vulgate's English companion. One JSON file, books -> chapters -> verses, its
+# first 73 books in the Clementine's order and, nearly everywhere, the
+# Clementine's numbering. So a unit's id is in that numbering (douay:Ps.50.3)
+# and `vulgate` names the Clementine verse(s) holding the same text: the same
+# number, except at DOUAY_ROWS, where this edition breaks verses elsewhere.
+# `kjv` follows through the Vulgate map (data/versification/vulgate-kjv.json).
+#
+# WHAT IS NOT CLAIMED (rule 4): the file pads its versification with EMPTY
+# verses where the KJV numbers a verse it has not got (John 11:57, 2 Cor
+# 1:24, 1 Thess 4:18 ...). An empty verse is no verse of the Douay: it is
+# dropped, and counted in the scheme, never given an id. DOUAY_ROWS was found
+# by aligning this English against the KJV's (build_vulgate_versification.py
+# --audit-douay) and read verse by verse against the Latin.
+
+DOUAY_NAMES = [   # the file's own book names, in order: a reordered file fails loudly
+    "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges",
+    "Ruth", "I Samuel", "II Samuel", "I Kings", "II Kings", "I Chronicles",
+    "II Chronicles", "Ezra", "Nehemiah", "Tobit", "Judith", "Esther", "Job", "Psalms",
+    "Proverbs", "Ecclesiastes", "Song of Solomon", "Wisdom", "Sirach", "Isaiah",
+    "Jeremiah", "Lamentations", "Baruch", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos",
+    "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah",
+    "Malachi", "I Maccabees", "II Maccabees", "Matthew", "Mark", "Luke", "John", "Acts",
+    "Romans", "I Corinthians", "II Corinthians", "Galatians", "Ephesians", "Philippians",
+    "Colossians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy",
+    "Titus", "Philemon", "Hebrews", "James", "I Peter", "II Peter", "I John", "II John",
+    "III John", "Jude", "Revelation of John"]
+
+# Douay verse -> (the Clementine verse(s) holding its text, words that stand in
+# the Douay verse), where that is not the verse of the same number. Each was
+# read against the Latin; the words are checked, so a changed file fails loudly.
+DOUAY_ROWS = {
+    # A third element names the KJV verse(s) outright, where the Douay splits a
+    # Clementine verse that holds several KJV verses (Clementine Ps 15:10 is the
+    # KJV's 16:10-11; the Douay's 15:10 and 15:11 are one each).
+    "Ps.15.10": (["Ps.15.10"], "not leave my soul in hell", ["Ps.16.10"]),
+    "Ps.15.11": (["Ps.15.10"], "made known to me the ways of life", ["Ps.16.11"]),
+    "Ps.42.5": (["Ps.42.4", "Ps.42.5"], "give praise upon the harp"),
+    "Ps.42.6": (["Ps.42.5"], "Hope in God"),
+    "Ps.125.7": (["Ps.125.6"], "carrying their sheaves"),
+    "Ps.135.27": (["Ps.135.26"], "Lord of lords"),
+    "Isa.45.24": (["Isa.45.23"], "every knee shall be bowed"),
+    "Isa.45.25": (["Isa.45.24"], "In the Lord are my justices"),
+    "Isa.45.26": (["Isa.45.25"], "seed of Israel be justified"),
+    "Acts.8.8": (["Acts.8.7"], "taken with the palsy"),
+    "Acts.8.9": (["Acts.8.8", "Acts.8.9"], "great joy in that city"),
+    "1Thess.4.11": (["1Thess.4.11", "1Thess.4.12"], "walk honestly"),
+    "1Thess.4.12": (["1Thess.4.13"], "concerning them that are asleep"),
+    "1Thess.4.13": (["1Thess.4.14"], "Jesus died and rose again"),
+    "1Thess.4.14": (["1Thess.4.15"], "in the word of the Lord"),
+    "1Thess.4.15": (["1Thess.4.16"], "voice of an archangel"),
+    "1Thess.4.16": (["1Thess.4.17"], "taken up together with them"),
+    "1Thess.4.17": (["1Thess.4.18"], "comfort ye one another"),
+    "2Thess.2.10": (["2Thess.2.10", "2Thess.2.11"], "operation of error"),
+    "2Thess.2.11": (["2Thess.2.12"], "That all may be judged"),
+    "2Thess.2.12": (["2Thess.2.13"], "give thanks to God always"),
+    "2Thess.2.13": (["2Thess.2.14"], "called you by our gospel"),
+    "2Thess.2.14": (["2Thess.2.15"], "hold the traditions"),
+    "2Thess.2.15": (["2Thess.2.16"], "who hath loved us"),
+    "2Thess.2.16": (["2Thess.2.17"], "Exhort your hearts"),
+    # This file prints the Epistle of Jeremy's 6:37 ("Viduae non miserebuntur")
+    # in the slot of 6:7 and leaves 6:37 empty; the Clementine's 6:7 ("lingua
+    # ipsorum polita") has no English here.
+    "Bar.6.7": (["Bar.6.37"], "They shall not pity the widow"),
+    # This file runs a verse's last words into the verse before and leaves the
+    # last verse of the chapter empty (Isa 46:13, 2 Sam 13:39, Ps 150:6 have no
+    # English here; their words close 46:11, 13:38 and 150:5).
+    "Isa.46.11": (["Isa.46.11", "Isa.46.12"], "Hear me, O ye hardhearted"),
+    "Isa.46.12": (["Isa.46.13"], "I have brought my justice near"),
+    "2Sam.13.38": (["2Sam.13.38", "2Sam.13.39"], "king David ceased to pursue"),
+    "Ps.150.5": (["Ps.150.5", "Ps.150.6"], "let every spirit praise the Lord"),
+    # The Clementine's Sir 29:16-17 ("Super scutum potentis / et super
+    # lanceam") is one verse here, so every later verse reads the Clementine's
+    # next, through 29:34 = 29:35 ("Gravia haec"); 29:35 is empty.
+    "Sir.29.16": (["Sir.29.16", "Sir.29.17"], "better than the spear"),
+    "Sir.29.17": (["Sir.29.18"], "It shall fight for thee"),
+    "Sir.29.18": (["Sir.29.19"], "A good man is surety"),
+    "Sir.29.19": (["Sir.29.20"], "Forget not the kindness of"),
+    "Sir.29.20": (["Sir.29.21"], "The sinner and the unclean"),
+    "Sir.29.21": (["Sir.29.22"], "A sinner attributeth to himself"),
+    "Sir.29.22": (["Sir.29.23"], "A man is surety for"),
+    "Sir.29.23": (["Sir.29.24"], "Evil suretyship hath undone many"),
+    "Sir.29.24": (["Sir.29.25"], "It hath made powerful men"),
+    "Sir.29.25": (["Sir.29.26"], "A sinner that transgresseth the"),
+    "Sir.29.26": (["Sir.29.27"], "Recover thy neighbour according to"),
+    "Sir.29.27": (["Sir.29.28"], "The chief thing for man's"),
+    "Sir.29.28": (["Sir.29.29"], "Better is the poor man's"),
+    "Sir.29.29": (["Sir.29.30"], "Be contented with little instead"),
+    "Sir.29.30": (["Sir.29.31"], "It is a miserable life"),
+    "Sir.29.31": (["Sir.29.32"], "He shall entertain and feed"),
+    "Sir.29.32": (["Sir.29.33"], "Go, stranger, and furnish the"),
+    "Sir.29.33": (["Sir.29.34"], "Give place to the honourable"),
+    "Sir.29.34": (["Sir.29.35"], "These things are grievous to"),
+}
+
+
+def douay_vulgate(ref, vchapters):
+    """The Clementine verse(s) Douay verse `ref` ('Ps.42.6') reads."""
+    if ref in DOUAY_ROWS:
+        return list(DOUAY_ROWS[ref][0])
+    b, c, v = ref.split(".")
+    return [ref] if 1 <= int(v) <= vchapters.get(f"{b}.{c}", 0) else []
+
+
+def convert_douay(path, books, sha, slug="douay"):
+    """`books`: the Clementine's file names in canonical order (for the OSIS
+    ids); `sha`: the pinned sha256."""
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    names = [b["name"] for b in data["books"][:len(DOUAY_NAMES)]]
+    if names != DOUAY_NAMES:
+        raise ValueError(f"Douay book order differs from the pinned file's: {names[:5]}...")
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    vch = vmap["vulgate_chapters"] if vmap else {}
+    units, empty = [], 0
+    resolved = {True: 0, False: 0}
+    dmap, dc = _dc_map(), {True: 0, False: 0}
+    for b, book in zip(books, data["books"]):
+        osis = VULGATE_BOOKS[b][0]
+        for ch in book["chapters"]:
+            for vs in ch["verses"]:
+                text = re.sub(r"\s+", " ", vs["text"]).strip()
+                if not text:
+                    empty += 1
+                    continue
+                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
+                if ref in DOUAY_ROWS and DOUAY_ROWS[ref][1] not in text:
+                    raise ValueError(f"DOUAY_ROWS {ref}: {DOUAY_ROWS[ref][1]!r} is not in the verse")
+                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
+                     "text": text, "links": []}
+                if vmap:
+                    vl = douay_vulgate(ref, vch)
+                    u["vulgate"] = [f"vulgate:{x}" for x in vl]
+                    rs = [_V.resolve_vulgate(x, vmap, kjv_ids) for x in vl]
+                    named = DOUAY_ROWS[ref][2] if len(DOUAY_ROWS.get(ref, ())) > 2 else None
+                    if named:
+                        ks = [f"kjv:{k}" for k in named]
+                        if any(k not in kjv_ids for k in ks):
+                            raise ValueError(f"DOUAY_ROWS {ref}: {ks} is not a KJV unit")
+                        u["kjv"] = {"resolved": True, "target": ks[0]}
+                        if len(ks) > 1:
+                            u["kjv"]["spans"] = ks
+                    elif rs and all(r["resolved"] for r in rs):
+                        ts = []
+                        for r in rs:
+                            for t in r.get("spans", [r["target"]]):
+                                if t not in ts:
+                                    ts.append(t)
+                        u["kjv"] = {"resolved": True, "target": next(t for t in ts if t.startswith("kjv:"))}
+                        if len(ts) > 1:
+                            u["kjv"]["spans"] = ts
+                    else:
+                        why = next((r for r in rs if not r["resolved"]), None)
+                        u["kjv"] = dict(why) if why else {"resolved": False,
+                                                          "why": "no Clementine verse holds this text"}
+                    resolved[u["kjv"]["resolved"]] += 1
+                _dc_key(u, ref, slug, dmap, dc)
+                units.append(u)
+    return {"slug": slug, "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+            "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "empty_verses_dropped": empty,
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       **_dc_scheme(dc),
+                       "note": "The Clementine Vulgate's English companion, numbered as the "
+                               "Vulgate is. `vulgate` names the Clementine verse(s) holding the "
+                               "same text (the same number except at structure_texts.DOUAY_ROWS); "
+                               "`kjv` follows through data/versification/vulgate-kjv.json. "
+                               "Empty verses in the file (versification padding) are dropped, "
+                               "never given ids. The file's five appendix books (3-4 Esdras, "
+                               "Prayer of Manasses, an additional psalm, Laodiceans) are not "
+                               "read: the Clementine source has no text for them."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Douay-Rheims Bible, Challoner revision, via "
+                                      "scrollmapper/bible_databases",
+                       "source_url": "https://github.com/scrollmapper/bible_databases",
+                       "rights_line": "DRC: Douay-Rheims Bible, Challoner Revision. "
+                                      "License: Public Domain",
+                       "kjv_field": _kjv_field_rights("data/versification/vulgate-kjv.json")},
+            "units": units}
+
+# ---------------------------------------------------------------- Brenton
+#
+# Brenton's English Septuagint (1851), from eBible.org's own USFM archive
+# (fetch_sources.BRENTON, pinned: the archive kept unaltered in a GitHub
+# repository, because ebible.org is out of this sandbox's reach). One file per
+# book. Read: the scripture books; not read: the front matter, Brenton's
+# introductions, and his appendix of Alexandrinus readings (FRT, INT, BAK,
+# OTH, XX*), and NEH, eBible's own copy of Nehemiah RENUMBERED to the KJV
+# (Brenton prints Nehemiah as chapters 11-23 of "Ezra and Nehemiah", the
+# Greek's 2 Esdras, and that is the file read).
+#
+# Markup, read from the files: \v and \c number; \add ... \add* are the
+# words Brenton supplies (in italics in print), \sc small capitals, \it
+# italics: kept as plain words, with `marked` holding the verse's USFM as is.
+# \f ... \f* are Brenton's footnotes and \x ... \x* his cross references:
+# out of `text`, into `notes`. \d (a psalm title) and \p, \nb are layout.
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in BRENTON's numbering, the Greek's,
+# not the KJV's: the Psalms counted as in the Greek with the title as verse 1,
+# Jeremiah's oracles in the Greek's order, the Greek's additions LETTERED
+# after the verse they follow (1Kgs.12.24a, Esth.1.1b), verses the Greek lacks
+# simply absent. `kjv` names the KJV verse(s) holding the same text by the map
+# data/versification/brenton-kjv.json (build_brenton_versification.py), or says
+# why there is none. No uids are minted.
+
+BRENTON_BOOKS = {   # USFM id -> OSIS (the id's book code)
+    "GEN": "Gen", "EXO": "Exod", "LEV": "Lev", "NUM": "Num", "DEU": "Deut", "JOS": "Josh",
+    "JDG": "Judg", "RUT": "Ruth", "1SA": "1Sam", "2SA": "2Sam", "1KI": "1Kgs", "2KI": "2Kgs",
+    "1CH": "1Chr", "2CH": "2Chr", "EZR": "Ezra", "JOB": "Job", "PSA": "Ps",
+    "PRO": "Prov", "ECC": "Eccl", "SNG": "Song", "ISA": "Isa", "JER": "Jer", "LAM": "Lam",
+    "EZK": "Ezek", "HOS": "Hos", "JOL": "Joel", "AMO": "Amos", "OBA": "Obad", "JON": "Jonah",
+    "MIC": "Mic", "NAM": "Nah", "HAB": "Hab", "ZEP": "Zeph", "HAG": "Hag", "ZEC": "Zech",
+    "MAL": "Mal", "TOB": "Tob", "JDT": "Jdt", "ESG": "Esth", "WIS": "Wis", "SIR": "Sir",
+    "BAR": "Bar", "LJE": "EpJer", "SUS": "Sus", "BEL": "Bel", "1MA": "1Macc", "2MA": "2Macc",
+    "1ES": "1Esd", "MAN": "PrMan", "3MA": "3Macc", "4MA": "4Macc", "DAG": "Dan",
+}
+BRENTON_SKIP = {"FRT", "INT", "BAK", "OTH", "XXA", "XXB", "XXC", "NEH"}
+RE_USFM_NOTE = re.compile(r"\\(f|x) .*?\\\1\*", re.S)
+RE_USFM_MARK = re.compile(r"\\[a-z]+[0-9]*\*?")
+RE_USFM_PARA = re.compile(r"\\(?:p|d|nb|b|q[0-9]?|m)(?=\s|$)")   # layout: a space
+RE_USFM_CHAR = re.compile(r"\\[a-z]+[0-9]*(?:\*| )")          # \add ... \add*: the words stay
+
+
+def brenton_note(raw):
+    """A footnote's or cross reference's text, its markers dropped."""
+    body = re.sub(r"^\\[fx] \S+\s*", "", raw)[:-3]
+    body = re.sub(r"\\(fr|xo) \S+\s*", "", body)
+    return re.sub(r"\s+", " ", RE_USFM_MARK.sub(" ", body)).strip()
+
+
+def brenton_verses(zpath):
+    """[(osis, book name, chapter, verse label, marked USFM)] in file order,
+    scripture books only. A label is "12"; "24a" for a lettered addition; "0"
+    for text before a chapter's verse 1. Refuses a repeated label."""
+    import zipfile
+    out = []
+    with zipfile.ZipFile(zpath) as z:
+        for name in sorted(z.namelist(), key=lambda n: int(n.split("-")[0]) if n[0].isdigit() else 999):
+            if not name.endswith(".usfm"):
+                continue
+            code = name.split("-", 1)[1][:3]
+            if code in BRENTON_SKIP:
+                continue
+            if code not in BRENTON_BOOKS:
+                raise ValueError(f"Brenton {name}: an unknown book")
+            t = z.read(name).decode("utf-8")
+            title = re.search(r"^\\h (.+?)\s*$", t, re.M).group(1)
+            ch, seen, in_verse = None, set(), False
+            for part in re.split(r"(\\c \d+|\\v \S+)", t):
+                m = re.match(r"\\(c|v) (\S+)$", part)
+                if m and m.group(1) == "c":
+                    ch, in_verse = m.group(2), False
+                    continue
+                if m:
+                    if (ch, m.group(2)) in seen:
+                        raise ValueError(f"Brenton {code} {ch}:{m.group(2)} twice")
+                    seen.add((ch, m.group(2)))
+                    out.append([BRENTON_BOOKS[code], title, ch, m.group(2), ""])
+                    in_verse = True
+                    continue
+                if in_verse:
+                    out[-1][4] += part
+                elif ch is not None and RE_USFM_MARK.sub("", RE_USFM_NOTE.sub("", part)).strip():
+                    # Text Brenton prints before a chapter's verse 1 (the
+                    # Greek's prologue to Lamentations): verse "0".
+                    seen.add((ch, "0"))
+                    out.append([BRENTON_BOOKS[code], title, ch, "0", part])
+    return [tuple(x[:4]) + (x[4].strip(),) for x in out]
+
+
+def brenton_text(marked):
+    """(text, notes) for one verse's USFM."""
+    notes = [brenton_note(m.group(0)) for m in RE_USFM_NOTE.finditer(marked)]
+    t = RE_USFM_PARA.sub(" ", RE_USFM_NOTE.sub("", marked))
+    t = re.sub(r"\s+", " ", RE_USFM_CHAR.sub("", t)).strip()
+    if "\\" in t:
+        raise ValueError(f"Brenton: a marker left in {t[:80]!r}")
+    return t, notes
+
+
+def convert_brenton(zpath, sha, slug="brenton"):
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    bmap, kjv_ids = None, set()
+    if os.path.exists(_V.BRENTON_PATH):
+        bmap = _V.load(_V.BRENTON_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
+    dmap, dc = _dc_map(), {True: 0, False: 0}
+    units, empty = [], []
+    for osis, title, c, v, marked in brenton_verses(zpath):
+        text, notes = brenton_text(marked)
+        if not text:
+            empty.append(f"{osis}.{c}.{v}")     # Prov 30:1: only a note ("see chapter 24")
+            continue
+        u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{title} {c}:{v}", "text": text,
+             "links": [], "marked": marked}
+        if notes:
+            u["notes"] = notes
+        if bmap:
+            u["kjv"] = _V.resolve_brenton(f"{osis}.{c}.{v}", bmap, kjv_ids)
+            resolved[u["kjv"]["resolved"]] += 1
+        _dc_key(u, f"{osis}.{c}.{v}", slug, dmap, dc)
+        units.append(u)
+    return {"slug": slug, "title": "The Septuagint in English (Brenton, 1851)",
+            "author": "Sir Lancelot Charles Lee Brenton (translator)",
+            "source": {"path": os.path.relpath(zpath, CORPUS), "format": "ebible-usfm-zip",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in Brenton's (the Greek's) numbering; "
+                                   "the Greek's additions lettered (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "lxx-brenton",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       **_dc_scheme(dc),
+                       "empty_verses_not_units": empty,
+                       "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms "
+                               "as in the Greek with a title as verse 1, Jeremiah's oracles "
+                               "in the Greek's order, Nehemiah as chapters 11-23 of Ezra "
+                               "(the Greek's 2 Esdras), the Greek's additions lettered after "
+                               "the verse they follow. Each unit's `kjv` names the KJV "
+                               "verse(s) holding the same text by "
+                               "data/versification/brenton-kjv.json, or says why there is "
+                               "none; no uids minted. `text` drops Brenton's notes, which "
+                               "are in `notes`; `marked` is the verse's USFM as is. eBible's "
+                               "corrections to the printing are in the text; its "
+                               "KJV-renumbered Nehemiah and Brenton's appendix are not read."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Brenton's English Septuagint, transcribed and corrected "
+                                      "by eBible.org (eng-Brenton)",
+                       "source_url": "https://ebible.org/eng-Brenton/",
+                       "requests": "eBible asks that errors in the text be reported to it",
+                       "kjv_field": _kjv_field_rights("data/versification/brenton-kjv.json")},
+            "units": units}
+
+# ---------------------------------------------------------------- historic English Bibles
+#
+# Geneva 1599, Tyndale, Young's, Darby, the ASV 1901 (fetch_sources.ENGLISH:
+# scrollmapper's JSON of CrossWire's modules, pinned). A module sits on the
+# KJV's verse grid, so the ids are its slots: the Bible's own numbers, except
+# where a chapter numbers otherwise and its overflow is merged into the last
+# slot. Each unit's `kjv` comes from data/versification/<slug>-kjv.json
+# (build_english_versification.py), read off the English against the KJV's.
+# Empty slots are not units. The text is the source's, never edited.
+
+# Per-book rules (golden rule 2: fixes live here, so they rerun on refetch).
+# Darby: CrossWire's module marks every "God", and scrollmapper's stripping of
+# the mark ate the space before it. The glued forms, counted in the source:
+# after a letter ("In the beginningGod", "OGod", "Am IGod"), after
+# punctuation (",God" 97 times, "]God", ":God", ".God", "?God", ";God") and
+# after a plural possessive ("fathers'God", Acts 24:14), with "Godhead"
+# twice. No English word ends in a letter or this punctuation and runs on
+# into "God". Left alone: an opening quote ("'God", Matt 1:23) and Ps 59:10's
+# dash ("me, —God"), where the source has its space before the dash.
+ENGLISH_RULES = {
+    "darby": [(re.compile(r"(?<=[A-Za-z0-9,.;:?!\]])(?=God(?:head)?\b)|(?<=s')(?=God\b)"), " ",
+               "a space restored before 'God', lost when the source's markup was stripped")],
+    "tyndale": [(re.compile(r"\b(sayde|them|him|saynge)(?=(?:Wylt|And|Beholde|Whe)\b)"), r"\1 ",
+                 "a space restored between two words the source runs together (Gen 18:23, "
+                 "19:9, 27:39, 32:17); 'BenIamin' and 'xM' (Rev 9:16) are left as printed")],
+    "geneva": [(re.compile(r"\btoAsaph\b"), "to Asaph",
+                "a space restored in Ps 75:1's title ('committed toAsaph')")],
+}
+
+
+def convert_english(path, slug, sha):
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    import fetch_sources as _fs
+    e = _fs.ENGLISH[slug]
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+        kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    with open(os.path.join(HERE, "..", "data", "greppable", "kjv.tsv"), encoding="utf-8") as f:
+        books = list(dict.fromkeys(l.split("\t", 1)[0][4:].split(".")[0]
+                                   for l in f if l.startswith("kjv:")))
+    if len(data["books"]) != len(books):
+        raise ValueError(f"{slug}: {len(data['books'])} books, expected {len(books)}")
+    emap = None
+    if os.path.exists(_V.english_path(slug)):
+        emap = _V.load(_V.english_path(slug))
+    units, empty, fixed = [], 0, 0
+    resolved = {True: 0, False: 0}
+    for osis, book in zip(books, data["books"]):
+        for ch in book["chapters"]:
+            for vs in ch["verses"]:
+                text = re.sub(r"\s+", " ", vs["text"]).strip()
+                if not text:
+                    empty += 1
+                    continue
+                for rx, rep, _why in ENGLISH_RULES.get(slug, []):
+                    text, n = rx.subn(rep, text)
+                    fixed += n
+                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
+                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
+                     "text": text, "links": []}
+                if emap:
+                    u["kjv"] = _V.resolve_english(ref, emap, kjv_ids)
+                    resolved[u["kjv"]["resolved"]] += 1
+                units.append(u)
+    merged = sum(isinstance(x, list) for x in emap["map"].values()) if emap else 0
+    return {"slug": slug, "title": e["title"], "author": e["author"],
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse as the source's CrossWire module "
+                                   "numbers it (the KJV's grid; OSIS book ids)",
+                       "resolution": "verse",
+                       "honesty": "exact" if not merged else
+                                  f"exact, except {merged} verses holding several KJV verses "
+                                  f"(a merged last slot or the Bible's own division)",
+                       "versification": f"{slug} (CrossWire, KJV grid)",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "empty_slots_not_units": empty,
+                       **({"coverage": e["coverage"]} if "coverage" in e else {}),
+                       **({"rules": [{"why": w, "applied": fixed}
+                                     for _r, _p, w in ENGLISH_RULES[slug]]}
+                          if slug in ENGLISH_RULES else {}),
+                       "note": "Ids are the module's slots: the Bible's own numbers wherever it "
+                               "numbers as the KJV does; where a chapter numbers otherwise "
+                               + ("(the Geneva follows the Hebrew in Num 13, Dan 4 and others) "
+                                  if slug == "geneva" else
+                                  "(the map's `aligned_chapters` lists any; often none) ")
+                               + "its verses fill the KJV's slots in order and the overflow sits "
+                               "in the last slot. Each unit's `kjv` names the KJV verse(s) "
+                               "holding the same words, by "
+                               f"data/versification/{slug}-kjv.json; no uids minted."},
+            "rights": {"license": "public-domain",
+                       "attribution": f"{e['title']}, via scrollmapper/bible_databases "
+                                      "(from CrossWire's SWORD module)",
+                       "source_url": "https://github.com/scrollmapper/bible_databases",
+                       "rights_line": e["readme"]},
+            "units": units}
+
+# ---------------------------------------------------------------- the KJV's Apocrypha
+#
+# The fourteen books the KJV prints as Apocrypha, from eBible.org's KJV
+# Cambridge Paragraph Bible (fetch_sources.KJVA, PD, pinned). Read for one
+# purpose: their verse numbers are the SHARED KEY the deuterocanon map aligns
+# the Vulgate, the Douay and Brenton under (build_deuterocanon.py), and their
+# English is what those maps are audited against. Ids are `kjva:Tob.1.1`, in
+# the KJV's own numbering.
+#
+# Two things in the file are not plain verses, and each has a rule:
+#   * Sirach opens with two prologues (an uncertain author's, then the
+#     translator's), printed before 1:1 with no verse number: units
+#     kjva:Sir.0.1 and kjva:Sir.0.2.
+#   * The Rest of Esther is printed in the Greek's order (each addition where
+#     the Greek places it), with the KJV's chapter number as \cp and verse
+#     numbers that do not run as the KJV's (its 12:1-6 are 12a, 13-17). The
+#     KJV numbers it 10:4-16:24, in Jerome's order. KJVA_ESTHER gives, segment
+#     by segment in the file's order, the KJV verse the segment starts at;
+#     verses are counted on from there, and each segment must end where the
+#     KJV's chapter or passage does. Units are in the KJV's order.
+KJVA_BOOKS = {   # USFM id -> the shared key's book id (OSIS)
+    "TOB": "Tob", "JDT": "Jdt", "ESG": "AddEsth", "WIS": "Wis", "SIR": "Sir", "BAR": "Bar",
+    "S3Y": "PrAzar", "SUS": "Sus", "BEL": "Bel", "1MA": "1Macc", "2MA": "2Macc",
+    "1ES": "1Esd", "MAN": "PrMan", "2ES": "2Esd",
+}
+KJVA_ESTHER = [   # (KJV chapter, first verse, last verse), in the file's order
+    (11, 2, 12), (12, 1, 6), (13, 1, 7), (13, 8, 18), (14, 1, 19), (15, 1, 16),
+    (16, 1, 24), (10, 4, 13), (11, 1, 1),
+]
+
+
+def kjva_verses(zpath):
+    """[(osis, book name, chapter, verse, marked USFM)] for the Apocrypha, in
+    the KJV's numbering and order."""
+    import zipfile
+    out = []
+    with zipfile.ZipFile(zpath) as z:
+        for name in sorted(z.namelist()):
+            code = name.split("-", 1)[1][:3] if "-" in name else ""
+            if not name.endswith(".usfm") or code not in KJVA_BOOKS:
+                continue
+            osis = KJVA_BOOKS[code]
+            t = z.read(name).decode("utf-8")
+            title = re.search(r"^\\h (.+?)\s*$", t, re.M).group(1)
+            rows, ch, seg, fresh = [], None, -1, True
+            if code == "SIR":   # the two prologues, before 1:1
+                head = t.split("\\c 1", 1)[0]
+                pro = re.findall(r"\\im (.*?)(?=\\is1|\\im|\Z)", head, re.S)
+                if len(pro) != 2:
+                    raise ValueError(f"KJVA Sirach: {len(pro)} prologues, expected 2")
+                rows += [[osis, title, 0, i, p] for i, p in enumerate(pro, 1)]
+            for part in re.split(r"(\\c \d+|\\cp \d+|\\v \S+)", t):
+                m = re.match(r"\\(c|cp|v) (\S+)$", part)
+                if m and m.group(1) in ("c", "cp"):
+                    if m.group(1) == "cp" and code != "ESG":
+                        raise ValueError(f"KJVA {code}: an unexpected \\cp")
+                    if m.group(1) == "c":
+                        ch = int(m.group(2))
+                    fresh = True    # Esther: the next verse opens a new segment
+                    continue
+                if m and code == "ESG":
+                    if fresh:
+                        seg, fresh = seg + 1, False
+                        kc, lo, hi = KJVA_ESTHER[seg]
+                        v = lo
+                    else:
+                        v += 1
+                        if v > hi:
+                            raise ValueError(f"KJVA Esther: segment {seg + 1} runs past {kc}:{hi}")
+                    rows.append([osis, title, kc, v, ""])
+                    continue
+                if m:
+                    if not m.group(2).isdigit():
+                        raise ValueError(f"KJVA {code} {ch}:{m.group(2)}: not a number")
+                    rows.append([osis, title, ch, int(m.group(2)), ""])
+                    continue
+                if rows and (code != "SIR" or rows[-1][2] != 0):
+                    rows[-1][4] += part
+            if code == "ESG":
+                for r in rows:   # where the file prints the KJV's own number, it must agree
+                    vp = re.match(r"\s*\\vp (\d+)\\vp\*", r[4])
+                    if vp and int(vp.group(1)) != r[3]:
+                        raise ValueError(f"KJVA Esther {r[2]}:{r[3]} prints itself as {vp.group(1)}")
+                want = [(c, v) for c, lo, hi in KJVA_ESTHER for v in range(lo, hi + 1)]
+                if [(r[2], r[3]) for r in rows] != want:
+                    raise ValueError(f"KJVA Esther: {len(rows)} verses do not fill 10:4-16:24 "
+                                     f"segment by segment")
+                rows.sort(key=lambda r: (r[2], r[3]))
+            seen = set()
+            for r in rows:
+                if (r[2], r[3]) in seen:
+                    raise ValueError(f"KJVA {code} {r[2]}:{r[3]} twice")
+                seen.add((r[2], r[3]))
+            out += [tuple(r[:4]) + (r[4].strip(),) for r in rows]
+    return out
+
+
+RE_KJVA_DROP = re.compile(r"\\vp \S+\\vp\*|\\(?:iex|ms1|imi) [^\n]*")
+
+
+def convert_kjva(zpath, sha, slug="kjva"):
+    units = []
+    for osis, title, ch, v, marked in kjva_verses(zpath):
+        # \vp is the printed number (checked above), \iex and \ms1 the
+        # editor's placement notes and headings, \mi a paragraph: not text.
+        text, notes = brenton_text(re.sub(r"\\mi(?=\s|$)", " ", RE_KJVA_DROP.sub(" ", marked)))
+        if not text:
+            raise ValueError(f"KJVA {osis} {ch}:{v} is empty")
+        ref = f"{title} {ch}:{v}" if ch else f"{title}, prologue {v}"
+        units.append({"id": f"{slug}:{osis}.{ch}.{v}", "ref": ref, "text": text,
+                      "links": [], "marked": marked, **({"notes": notes} if notes else {})})
+    books = list(dict.fromkeys(u["id"].split(":")[1].split(".")[0] for u in units))
+    return {"slug": slug, "title": "The Apocrypha of the King James Version (Cambridge "
+                                   "Paragraph Bible)",
+            "author": "the King James translators (1611); F. H. A. Scrivener (ed., 1873)",
+            "source": {"path": os.path.relpath(zpath, CORPUS), "format": "usfm-zip",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in the KJV's own numbering (OSIS book "
+                                   "ids); Sirach's two prologues are chapter 0",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "kjv-apocrypha",
+                       "books": books,
+                       "note": "The KJV's Apocrypha only (the Old and New Testaments of this "
+                               "file are not read: the shelf's KJV is the Gutenberg text). "
+                               "These verse numbers are the shared key of "
+                               "data/versification/deuterocanon.json. The Rest of Esther is "
+                               "renumbered 10:4-16:24 from the file's Greek-order segments "
+                               "(structure_texts.KJVA_ESTHER); every other number is the "
+                               "file's."},
+            "rights": {"license": "public-domain",
+                       "attribution": "KJV Cambridge Paragraph Bible, eBible.org (engkjvcpb)",
+                       "source_url": "https://ebible.org/engkjvcpb/",
+                       "rights_line": "Public Domain",
+                       "note": "eBible: letters patent restrict printing the KJV in the "
+                               "United Kingdom; elsewhere it is in the public domain"},
+            "units": units}
+
 # ---------------------------------------------------------------- Lexicons
 #
 # A lexicon is not a linear text; it is a reference work keyed by lemma. It
@@ -367,9 +1131,18 @@ def convert_kjv(path, slug="kjv"):
 # KJV's -- most visibly in the Psalms, where a Hebrew superscription is
 # counted as verse 1 and every later verse in that psalm is off by one. So a
 # scripture citation is recorded as what the source actually said (its own
-# reference string, plus the OSIS book/chapter/verse it states) and is NOT
-# resolved to a kjv: unit id. A labelled hole beats a confident wrong label;
-# resolving these needs a versification map, which is its own piece of work.
+# reference string, plus the OSIS book/chapter/verse it states). A labelled
+# hole beats a confident wrong label.
+#
+# Since 2026-10-02 that hole is filled where it can be: the Hebrew -> KJV map
+# (data/versification/bhs-kjv.json, pipeline/build_versification.py) turns
+# the stated reference into a kjv: unit id, added as `target` with
+# `resolved: true`; the stated `osis` is kept as it was. A citation of a psalm
+# title (the KJV's unnumbered superscription) or of a verse the KJV lacks
+# stays `resolved: false` and says why. `build_versification.py --measure`
+# is the evidence BDB numbers in Hebrew: where the two schemes differ, the
+# entry's own word is in the cited Hebrew verse 72% of the time and in the
+# same-numbered KJV verse 5.5%.
 
 HEB_NS = "{http://openscriptures.github.com/morphhb/namespace}"
 
@@ -532,7 +1305,17 @@ def convert_bdb(path, slug="bdb-hebrew"):
     BDBid \\t StrongNumber \\t content(HTML)."""
     import csv as _csv
     _csv.field_size_limit(1 << 27)          # single entries run past 200k chars
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
     units, furniture, extended = [], 0, 0
+    resolved = {True: 0, False: 0}
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.PATH):
+        vmap = _V.load()
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
     with open(path, encoding="utf-8", errors="replace", newline="") as f:
         rows = _csv.reader(f, delimiter="\t")
         header = next(rows, None)
@@ -573,9 +1356,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                 if key in seen_refs:
                     continue
                 seen_refs.add(key)
-                links.append({"kind": "scripture", "osis": key,
-                              "ref": clean(label) or key, "versification": "bhs",
-                              "resolved": False})
+                link = {"kind": "scripture", "osis": key,
+                        "ref": clean(label) or key, "versification": "bhs",
+                        "resolved": False}
+                if vmap:
+                    link.update(_V.resolve(key, vmap, kjv_ids))
+                resolved[link["resolved"]] += 1
+                links.append(link)
             lemma = ""
             m = re.search(r"<bdbheb>(.*?)</bdbheb>", body, re.S)
             if m:
@@ -597,8 +1384,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                        "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; "
                                "the rest are cross-reference and sub-root entries with no "
                                "Strong's equivalent. Scripture citations are recorded in the "
-                               "source's own (Hebrew/BHS) versification and are NOT resolved "
-                               "to kjv: unit ids -- Psalms superscriptions shift the numbering. "
+                               "source's own (Hebrew/BHS) versification (`osis`, as stated) and "
+                               "resolved to a kjv: unit id (`target`) through the Hebrew->KJV "
+                               "map data/versification/bhs-kjv.json (STEPBible TVTMS, CC BY "
+                               f"4.0): {resolved[True]:,} resolved, {resolved[False]:,} left "
+                               "unresolved with the reason (psalm titles, which the KJV does "
+                               "not number; references that name no Hebrew verse; NT "
+                               "references). "
                                f"{furniture} navigation/header furniture blocks stripped; "
                                f"{extended} refs above H{HEBREW_MAX} dropped as extended "
                                "Strong's prefix/particle codes."},
@@ -858,6 +1650,34 @@ def brewer_scripture(text):
     return out, unknown
 
 
+_BREWER_JOIN = {"of", "and", "the", "in", "on", "de", "du", "la", "le", "a", "an", "to"}
+_BREWER_WORD = r"[A-ZÀ-ÞÆŒ][\w'’—-]*$"
+
+
+def _brewer_run_in(line):
+    """The headword run into the first line of its definition (`Nickel Silver A
+    mixed metal`), or None. This transcription gives no boundary, so: the first
+    word, then each next capitalised word (or `of`, `and` ... before one) for as
+    long as the word AFTER it also opens with a capital or `(` -- the
+    definition's first word is the last capital before a lower-case one -- but
+    never past `A`, `An` or `The`, which open a definition (`Bodle A Scotch coin`)."""
+    w = line.split(" ")
+    if len(w) < 2 or not re.match(_BREWER_WORD, w[0]) or not re.match(r"[A-Z(“]", w[1]):
+        return None
+    n = 1
+    while n + 1 < len(w):
+        a, b = w[n], w[n + 1]
+        if a in _BREWER_JOIN and n + 2 < len(w) and re.match(r"[A-Z]", b) \
+                and re.match(r"[A-Z(“]", w[n + 2]):
+            n += 2; continue
+        if a in ("A", "An", "The"):
+            break
+        if re.match(_BREWER_WORD, a) and re.match(r"[A-Z(“]", b):
+            n += 1; continue
+        break
+    return " ".join(w[:n])
+
+
 def convert_brewer(path, slug="brewer"):
     """Brewer's Dictionary of Phrase and Fable (1894). One unit per headword."""
     data = json.load(open(path, encoding="utf-8"))
@@ -886,11 +1706,44 @@ def convert_brewer(path, slug="brewer"):
         heads |= {cs[j][0] for j in keep}
         offrun += len(cs) - len(keep)
 
+    # Headwords run into their own first sentence ("Agnus-castus A shrub of the
+    # Vitex tribe..."): a paragraph between two headwords whose opening words,
+    # cut by _brewer_run_in, fall alphabetically between them opens an entry of
+    # its own. a + 1 is a's own definition, so the search starts at a + 2.
+    # One that shares its name with a headword found the first way is left
+    # where it was: it would come first in page order and push that entry's id
+    # to ~2, and ids do not move (rule 3).
+    run_in, hl, run_in_same = {}, sorted(heads), 0
+    head_slugs = {brewer_slug(paras[i]["lines"][0]) for i in heads}
+    for a, b in zip(hl, hl[1:] + [len(paras)]):
+        ka = brewer_slug(paras[a]["lines"][0])
+        kb = brewer_slug(paras[b]["lines"][0]) if b < len(paras) else "zzz"
+        sec = section(paras[a]["p"])
+        for i in range(a + 2, b):
+            h = _brewer_run_in(paras[i]["lines"][0].strip())
+            if not h:
+                continue
+            kh = brewer_slug(h)
+            if (sec and kh[:1] == sec.lower() and ka < kh <= kb
+                    and kh.split("-")[0] != ka.split("-")[0]):
+                if kh in head_slugs:
+                    run_in_same += 1
+                    continue
+                run_in[i] = h
+                ka = kh
+
     units, cur, joined, dashes = [], None, 0, 0
     front = []                          # anything before the first headword
     for i, p in enumerate(paras):
         text = " ".join(l.strip() for l in p["lines"]).strip()
         if not text:
+            continue
+        if i in run_in:
+            rest = text[len(run_in[i]):].strip()
+            dashes += rest.count("——")
+            cur = {"head": run_in[i], "page": p["p"], "pages": [p["p"]], "run_in": True,
+                   "paras": [re.sub(r"\s+", " ", rest.replace("——", "–"))] if rest else []}
+            units.append(cur)
             continue
         # Per-book rule (rule 2, never a hand edit): this transcription prints
         # an en-dash range as a doubled em dash ("1440——1493").
@@ -950,7 +1803,8 @@ def convert_brewer(path, slug="brewer"):
         out.append({"id": f"{slug}:{brewer_slug(u['head'])}",
                     "ref": f"Brewer, s.v. {u['head']}",
                     "text": text, "links": links,
-                    "lex": {"headword": u["head"], "page": u["page"], "pages": u["pages"]}})
+                    "lex": dict({"headword": u["head"], "page": u["page"], "pages": u["pages"]},
+                                **({"run_in": True} if u.get("run_in") else {}))})
     return {"slug": slug,
             "title": "Dictionary of Phrase and Fable",
             "author": "E. Cobham Brewer (New and Enlarged Edition, 1894)",
@@ -965,6 +1819,11 @@ def convert_brewer(path, slug="brewer"):
                                "scan; check copy archive.org dictionaryofphra01brew (1895). "
                                f"{offrun} headword-shaped lines fell off the alphabetical run "
                                "or had no body, and were kept as text of the preceding entry. "
+                               f"{len(run_in):,} headwords run into their own first sentence "
+                               "were split out by rule (lex.run_in); where the name ends is "
+                               f"the rule's guess. {run_in_same} more share a name with an "
+                               "entry found the first way and stay inside the entry before "
+                               "them, so that no existing id moves. "
                                "Italics are not "
                                "carried. Compound hyphens print as em dashes in this "
                                "transcription (first—rate) and are left as printed; "
@@ -1113,6 +1972,517 @@ def convert_stepbible_greek(paths, slug, title, author, scheme_note):
                                "resolved into links[], including into strongs-hebrew "
                                "for transliterated Hebrew names."},
             "units": units}
+
+# ---------------------------------------------------------------- reference dictionaries
+# Two dictionaries of a different kind from the lexicons above (2026-10-19): they
+# explain NAMES, not words. Smith's Biography and Mythology is the classical
+# dictionary (who was Abaris, which Apicius wrote the cookbook); Brewer's
+# Character Sketches is the literary one (who is Captain Absolute, what is the
+# Faultless Painter). Both keyed at ENTRY level, both through the same
+# {id, ref, text, links[]} contract, extra fields under `lex`.
+
+TEI = "{http://www.tei-c.org/ns/1.0}"
+XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
+
+
+def _tei_flat(el, skip=()):
+    """Text of a TEI element in reading order, minus any child whose tag is in
+    `skip` (the entry's own head, its byline, nested sub-entries). The tail of a
+    skipped child is kept: it is the text that follows it, not part of it."""
+    out = []
+    def walk(node):
+        if node.text:
+            out.append(node.text)
+        for kid in node:
+            if kid.tag in skip or (kid.tag == TEI + "div" and kid.get("type") == "subentry"):
+                pass
+            else:
+                walk(kid)
+            if kid.tail:
+                out.append(kid.tail)
+    walk(el)
+    return re.sub(r"\s+", " ", "".join(out)).strip()
+
+
+def _smith_lemma(head):
+    """Smith prints the stress on the headword with an apostrophe after the
+    stressed vowel (Abanti'ades, A'baris). The ref keeps it as printed; the
+    lemma used for lookup drops it."""
+    return re.sub(r"\s+", " ", head.replace("'", "").replace("’", "")).strip()
+
+
+def convert_smith_dgrbm(path, slug="smith-dgrbm"):
+    """Smith, A Dictionary of Greek and Roman Biography and Mythology
+    (London: John Murray, 1848; the 1873 printing), Perseus TEI.
+
+    THE KEY IS PERSEUS'S xml:id, NOT THE HEADWORD.
+
+    Smith numbers homonyms -- there are 19 men called Apollonius -- and the
+    headword alone cannot tell them apart. Perseus gave every entry an xml:id
+    (`abaris-bio-1`, `apicius-bio-3`), and Smith's own internal cross-references
+    are already encoded as <ref target="..."> pointing at those ids. Keying on
+    the xml:id makes every one of those cross-references resolve exactly,
+    with no inference. 163 entries have an xml:id but no `n`; the xml:id is
+    the one key present on all of them.
+
+    Three kinds of link come out of an entry:
+      * `see`: <ref target> to another entry's xml:id. Exact.
+      * `see` with `by: "headword"`: Smith's printed [SEE-NAME.] cross-
+        reference in small capitals, which Perseus did NOT encode as a ref.
+        Resolved by headword only when exactly one entry carries it; when
+        several do (homonyms), every candidate is listed and `resolved` is
+        False. A labelled hole beats a confident wrong label.
+      * `classical`: a <bibl n="Hdt. 8.33"> citation of an ancient author,
+        recorded as Perseus normalised it, `resolved: False`. Resolving these
+        to Perseus CTS passages is its own piece of work, like BDB's scripture.
+    The contributor initials in each entry's byline ([L.S], [P.S]) go under
+    lex.contributors; the key to the initials is in the volume's front matter.
+    The printed page(s) an entry spans come from <pb n> and go under lex.pages.
+    """
+    root = ET.parse(path).getroot()
+    body = root.find(f".//{TEI}body")
+    entries = []          # (div, pages)
+    page = None
+    def walk(node, cur):
+        nonlocal page
+        for kid in node:
+            if kid.tag == TEI + "pb":
+                page = kid.get("n")
+                if cur is not None and page not in cur:
+                    cur.append(page)
+                continue
+            is_entry = (kid.tag == TEI + "div" and kid.get(XML_ID)
+                        and (kid.get("subtype") == "entry" or kid.get("type") == "subentry"))
+            if is_entry:
+                pages = [page] if page else []
+                entries.append((kid, pages))
+                walk(kid, pages)
+                if cur is not None:     # a sub-entry's pages are its parent's too
+                    for p in pages:
+                        if p not in cur:
+                            cur.append(p)
+            else:
+                walk(kid, cur)
+    walk(body, None)
+    ids = {e.get(XML_ID) for e, _ in entries}
+    by_lemma = {}
+    heads = {}
+    for e, _ in entries:
+        h = e.find(TEI + "head")
+        head = _tei_flat(h) if h is not None else ""
+        heads[e.get(XML_ID)] = head
+        by_lemma.setdefault(_smith_lemma(head).lower(), []).append(e.get(XML_ID))
+    parent = {c: p for p in body.iter() for c in p}
+    units = []
+    exact = headword = ambiguous = unresolved = cites = works = 0
+    for e, pages in entries:
+        xid = e.get(XML_ID)
+        head = heads[xid]
+        paras = [_tei_flat(p, skip=(TEI + "head", TEI + "byline"))
+                 for p in e if p.tag not in (TEI + "head", TEI + "byline", TEI + "pb")
+                 and not (p.tag == TEI + "div" and p.get("type") == "subentry")]
+        # a <div> that only groups sub-entries keeps its own head as a line
+        paras = [p for p in paras if p]
+        # the entry reads as printed, headword first: "Abaeus (Ἀβαῖος), a surname of Apollo"
+        if paras and head:
+            sep = "" if paras[0][:1] in ",." else " "
+            paras[0] = head + sep + paras[0]
+        links, contributors, seen = [], [], set()
+        subs = [s.get(XML_ID) for s in e.iter(TEI + "div")
+                if s is not e and s.get("type") == "subentry" and s.get(XML_ID)]
+        def mine(node):
+            """Elements of this entry, not of a nested sub-entry (that one is its own unit)."""
+            for kid in node:
+                if kid.tag == TEI + "div" and kid.get("type") == "subentry":
+                    continue
+                yield kid
+                yield from mine(kid)
+        for el in mine(e):
+            if el.tag == TEI + "ref":
+                t = (el.get("target") or "").strip()
+                if t.startswith("author."):
+                    contributors.append(t[len("author."):])
+                elif t in ids and t != xid:
+                    if ("see", t) not in seen:
+                        seen.add(("see", t))
+                        links.append({"kind": "see", "target": f"{slug}:{t}"})
+                        exact += 1
+                elif re.match(r"(phi|tlg|stoa)-?\d", t):
+                    # a work, by its PHI/TLG number (phi-0959.008 = Ovid, Metamorphoses)
+                    works += 1
+                    links.append({"kind": "work", "work": t, "ref": _tei_flat(el),
+                                  "resolved": False})
+                elif t:
+                    unresolved += 1
+                    links.append({"kind": "see", "target_as_encoded": t, "resolved": False})
+            elif el.tag == TEI + "hi" and el.get("rend") == "smallcaps":
+                # Small capitals are Smith's type for any name in passing; only
+                # one in square brackets, [ARISTAEUS] or [See ARISTAEUS, No. 2.],
+                # is a cross-reference.
+                tail = el.tail or ""
+                par = parent.get(el)
+                before = ""
+                if par is not None:
+                    sibs = list(par)
+                    k = sibs.index(el)
+                    before = (sibs[k - 1].tail or "") if k else (par.text or "")
+                if not (tail.lstrip().startswith("]") or before.rstrip().endswith("[")
+                        or re.search(r"\[\s*(See|see|comp\.)?\s*$", before)):
+                    continue
+                name = _tei_flat(el).rstrip(".,; ")
+                cands = [c for c in by_lemma.get(_smith_lemma(name).lower(), []) if c != xid]
+                if not cands or ("sc", name) in seen:
+                    continue
+                seen.add(("sc", name))
+                num = re.match(r"\s*,?\s*No\.\s*(\d+)", tail)
+                if num and len(cands) > 1:
+                    pick = [c for c in cands if c.endswith(f"-{num.group(1)}")]
+                    if len(pick) == 1:
+                        cands = pick
+                if len(cands) == 1:
+                    links.append({"kind": "see", "by": "headword", "label": name,
+                                  "target": f"{slug}:{cands[0]}"})
+                    headword += 1
+                else:
+                    links.append({"kind": "see", "by": "headword", "label": name,
+                                  "candidates": [f"{slug}:{c}" for c in cands],
+                                  "resolved": False})
+                    ambiguous += 1
+            elif el.tag == TEI + "bibl" and el.get("n"):
+                links.append({"kind": "classical", "cite": el.get("n").strip(),
+                              "ref": _tei_flat(el), "resolved": False})
+                cites += 1
+        units.append({"id": f"{slug}:{xid}",
+                      "ref": head + (f" ({e.get('n')})" if e.get("n") else ""),
+                      "text": "\n\n".join(paras),
+                      "links": links,
+                      "lex": {"lemma": _smith_lemma(head),
+                              "n": e.get("n") or "",
+                              "pages": pages,
+                              "contributors": contributors,
+                              **({"subentries": [f"{slug}:{s}" for s in subs]} if subs else {}),
+                              }})
+    # sub-entries point back at their parent
+    parent_of = {s: u["id"] for u in units for s in u["lex"].get("subentries", [])}
+    for u in units:
+        if u["id"] in parent_of:
+            u["lex"]["subentry_of"] = parent_of[u["id"]]
+    return {"slug": slug,
+            "title": "A Dictionary of Greek and Roman Biography and Mythology",
+            "author": "ed. William Smith (London: John Murray, 1848; 1873 printing)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "dictionary-tei",
+                       "sha256": sha256(path)},
+            "rights": {"license": "text public domain (1848); Perseus markup CC BY-SA 4.0",
+                       "attribution": "Text provided under a CC BY-SA license by Perseus "
+                                      "Digital Library, http://www.perseus.tufts.edu, with "
+                                      "funding from the NEH and Tufts University. Data accessed "
+                                      "from https://github.com/PerseusDL/canonical-pdlrefwk/ "
+                                      "on 2026-10-19.",
+                       "source_url": "https://github.com/PerseusDL/canonical-pdlrefwk",
+                       "redistribute_whole": False,
+                       "note": "Smith's text is US public domain. Perseus's encoding of it "
+                               "is CC BY-SA 4.0, which asks for credit, share-alike and that "
+                               "changes be offered back to Perseus. Held like every other "
+                               "Perseus text here (redistribute_whole false) until Adam rules "
+                               "on CC BY-SA wholes; quote and cite with the credit line."},
+            "scheme": {"citation": "Perseus xml:id of the entry (e.g. abaris-bio-1); "
+                                   "printed page under lex.pages",
+                       "resolution": "entry", "honesty": "exact",
+                       "note": f"{len(units):,} entries and sub-entries, as Perseus delimited "
+                               f"them. Cross-references: {exact:,} encoded by Perseus and "
+                               f"exact; {headword:,} printed [SEE-NAME.] references resolved "
+                               f"by a unique headword; {ambiguous:,} left unresolved with "
+                               f"their candidates because the headword names several "
+                               f"people; {unresolved:,} encoded targets that match no entry, "
+                               f"kept as encoded. {cites:,} citations of ancient authors, and "
+                               f"{works:,} references to a work by its PHI/TLG number, are "
+                               f"recorded as Perseus normalised them and NOT resolved to "
+                               f"passages. Accents printed as apostrophes (A'baris) are kept "
+                               f"in the ref and dropped from lex.lemma."},
+            "units": units}
+
+
+# Brewer's Character Sketches: four Gutenberg volumes, transcribed by different
+# hands, so the headword is marked two different ways. Volume I (PG 11431) keeps
+# the printed SMALL CAPITALS as capitals: `ABSOLUTE (_Sir Anthony_), a testy...`.
+# Volumes II-IV (PG 58596, 20851, 58988) mark the bold headword `=Faulkland=,`.
+# The rule is per volume, measured, not guessed: vol. I has no `=...=` headwords
+# and vols. II-IV have capitals only inside lists (Vol. II's jesters).
+RE_BREWER_CAPS = re.compile(
+    r"^([A-ZÆŒÀ-Þ][A-ZÆŒÀ-Þ'’´`&. -]*?[A-ZÆŒÀ-Þ'’´`.])(?=,| \(|\.|;| _| [a-z]|$)")
+RE_BREWER_BOLD = re.compile(r"^=([^=\n]{1,100})=")
+BREWER_VOLS = (  # (file, PG id, first headword of the body, headword style)
+    ("brewer-character-sketches-1.txt", 11431, "AA'RON, a Moor", "caps"),
+    ("brewer-character-sketches-2.txt", 58596, "=Falkland=", "bold"),
+    ("brewer-character-sketches-3.txt", 20851, "=Mark Tapley=", "bold"),
+    ("brewer-character-sketches-4.txt", 58988, "=Skeggs=", "bold"),
+)
+
+
+def _brewer_key(head):
+    """`Abou Ben Adhem` -> `abou-ben-adhem`; accents marked with ' or ´ go."""
+    import unicodedata
+    head = re.sub(r"['’´`]", "", head)      # before NFKD, which splits ´ into space + accent
+    s = unicodedata.normalize("NFKD", head.replace("Æ", "Ae").replace("æ", "ae")
+                              .replace("Œ", "Oe").replace("œ", "oe"))
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = re.sub(r"['’´`]", "", s.lower())
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-") or "x"
+
+
+def _brewer_head(p, style):
+    """(headword as printed, qualifier) of a paragraph that opens an entry, else None.
+    The qualifier is the parenthesis after the name: ABSOLUTE (_Sir Anthony_)."""
+    s = p.lstrip()
+    indent = len(p) - len(p.lstrip(" "))
+    # Indented means a verse quotation or a list item, never a headword -- except
+    # that vol. IV's transcription indents EVERY paragraph by two spaces from
+    # =Theresa= to the end, so a bold mark at an indent of two still opens one.
+    if indent > (2 if style == "bold" else 0):
+        return None
+    if style == "bold":
+        m = RE_BREWER_BOLD.match(s)
+        if not m:
+            return None
+        head, rest = m.group(1).strip().rstrip(",.;: "), s[m.end():]
+    else:
+        m = RE_BREWER_CAPS.match(s)
+        if not m or len(re.sub(r"[^A-ZÆŒÀ-Þ]", "", m.group(1))) < 2:
+            return None
+        head, rest = m.group(1).strip().rstrip("."), s[m.end():]
+        if re.fullmatch(r"[IVXLC]+|N\.B|B\.C|A\.D|Q\.E\.D", head):
+            return None             # a list's roman numeral, or an abbreviation
+        if re.fullmatch(r"(?:[A-Z]\.\s?)+[A-Z]?", head):
+            return None             # initials opening a signature or a quotation's source
+    q = re.match(r"\s*_?\(([^)]*)\)_?", rest)      # (_Sir Anthony_) or _(Sir Anthony)_
+    qual = q.group(1).replace("_", "").strip() if q else ""
+    return head, qual
+
+
+def _brewer_case(head):
+    """ABOU BEN ADHEM -> Abou Ben Adhem; AB'SALOM -> Ab'salom (not Ab'Salom)."""
+    return " ".join(w[:1] + w[1:].lower() for w in head.split(" "))
+
+
+def _brewer_in_order(keys):
+    """Indexes of the longest run of headword candidates whose first two
+    letters never go backwards (a longest non-decreasing subsequence).
+
+    WHY: Brewer has list entries -- Dying Sayings, Dwarfs, Errors of Authors,
+    the court jesters -- whose items are printed with the same capitals or
+    bold as a headword (`ADDISON`, `ANAXAGORAS` ... under DYING SAYINGS).
+    Taken at face value each item opens a false entry and the alphabet jumps
+    back to A. The dictionary's own alphabetical order is the evidence: the
+    real headwords are the longest sequence that keeps the order, and a
+    candidate outside it is an item of the list it sits in."""
+    import bisect
+    tails, tails_i, prev = [], [], [None] * len(keys)
+    for i, k in enumerate(keys):
+        j = bisect.bisect_right(tails, k)
+        if j == len(tails):
+            tails.append(k); tails_i.append(i)
+        else:
+            tails[j] = k; tails_i[j] = i
+        prev[i] = tails_i[j - 1] if j else None
+    keep, i = set(), (tails_i[-1] if tails_i else None)
+    while i is not None:
+        keep.add(i); i = prev[i]
+    return keep
+
+
+def _brewer_appendix(text, vol):
+    """Volume IV's three appendices, one unit per item: I a bibliography of
+    English and American authors (one block per =Author=), II dates of foreign
+    poems and novels (one paragraph each), III authors and dates of dramas and
+    operas (one line each). Keyed by appendix and the item's own name."""
+    out = []
+    # each appendix title stands alone on its line; "LIST OF ABBREVIATIONS IN
+    # APPENDIX III." (which sits inside Appendix II) must not match
+    a1, a2, a3 = (re.search(rf"^\s*APPENDIX {n}\.\s*$", text, re.M).start()
+                  for n in ("I", "II", "III"))
+    t1, t2, t3 = text[a1:a2], text[a2:a3], text[a3:]
+    for blk in re.split(r"\n(?=  =)", t1)[1:]:
+        m = re.match(r"\s*=([^=]+)=\s*(\(([^)]*)\))?", blk)
+        if m:
+            out.append(("app1", m.group(1).strip() + (f" ({m.group(3)})" if m.group(3) else ""),
+                        re.sub(r"[ \t]+", " ", blk.strip())))
+    t2 = t2[t2.index("8 syl. v."):t2.index("LIST OF ABBREVIATIONS IN APPENDIX III")]
+    for p in re.split(r"\n\s*\n", t2)[1:]:
+        p = p.strip()
+        m = RE_BREWER_BOLD.match(p) or re.match(r"([^,]+),", p)
+        if m and p:
+            out.append(("app2", m.group(1).strip(), re.sub(r"\s+", " ", p)))
+    body = t3.split("----------", 2)[-1]
+    item = None
+    for line in body.split("\n"):
+        if re.match(r"^  [^\s_]", line):          # "  _If any discrepancy..." is the preface
+            if item:
+                out.append(item)
+            name = re.split(r",| \(", line.strip(), maxsplit=1)[0]
+            item = ("app3", name, line.strip())
+        elif line.strip() and item and line.startswith("   "):
+            item = (item[0], item[1], item[2] + " " + line.strip())
+        elif not line.strip() and item:
+            out.append(item); item = None
+    if item:
+        out.append(item)
+    return out
+
+
+def _number_repeats(units):
+    """Give a repeated id `~2`, `~3` in book order -- what main() would do --
+    before links are drawn, so a link can name the right homonym."""
+    seen = {}
+    for u in units:
+        if u["id"] in seen:
+            seen[u["id"]] += 1
+            u["id"] = f"{u['id']}~{seen[u['id']]}"
+        else:
+            seen[u["id"]] = 1
+
+
+def convert_brewer_character_sketches(paths, slug="brewer-character-sketches"):
+    """Brewer, Character Sketches of Romance, Fiction and the Drama -- the
+    revised American edition of THE READER'S HANDBOOK, ed. Marion Harland
+    (New York: Selmar Hess, 1892), four volumes, A-Z plus three appendices.
+
+    Unit = one headword entry. A paragraph opens a new entry only when it
+    starts with the volume's headword mark (see BREWER_VOLS); every paragraph
+    after it -- quotations, a second sense in italics (`_Captain Absolute_,
+    son of sir Anthony`), the source line -- belongs to that entry until the
+    next headword. The italic second senses are Brewer's sub-entries; they
+    are listed under lex.subheads, not split out, because the transcription
+    does not distinguish them from an italic book title that opens a line.
+
+    Ids are the headword as a slug (`brewer-character-sketches:absolute`);
+    a second entry with the same headword gets `~2` from main(), in book
+    order, so ids are stable for this pinned edition. `See X` cross-
+    references are resolved when exactly one entry has headword X.
+    """
+    units = []
+    list_items = tn_marks = 0
+    for (path, (fn, pg, start, style)) in zip(paths, BREWER_VOLS):
+        raw = open(path, encoding="utf-8").read().replace("\r", "")
+        raw = strip_boilerplate(raw)
+        # the transcribers' closing note (their list of corrections) is not
+        # Brewer's text; it is the last "Transcriber's Note" in the volume
+        j = max(raw.rfind("Transcriber’s Note"), raw.rfind("Transcriber's Note"))
+        if j > len(raw) * 0.9:
+            raw = raw[:j]
+        # vol. III marks each printer's error it kept with [TN-12], a pointer
+        # into the transcribers' list; the pointer is theirs, not Brewer's
+        raw, k = re.subn(r"\[TN-\d+\]", "", raw)
+        tn_marks += k
+        body = raw[raw.index(start):]
+        appendix = []
+        if pg == 58988:
+            cut = body.index("APPENDICES.")
+            appendix = _brewer_appendix(body[cut:], 4)
+            body = body[:cut]
+        vol = BREWER_VOLS.index((fn, pg, start, style)) + 1
+        paras = [p for p in re.split(r"\n\s*\n", body)
+                 if p.strip() and not p.strip().startswith("[Illustration")]
+        heads = [_brewer_head(p, style) for p in paras]
+        cand = [i for i, h in enumerate(heads) if h]
+        keep = _brewer_in_order([_brewer_key(heads[i][0])[:2] for i in cand])
+        cur = None
+        for n, i in enumerate(cand):
+            if n not in keep:
+                list_items += 1
+                heads[i] = ("list", heads[i][0])
+        for p, h in zip(paras, heads):
+            if h and h[0] == "list":
+                if cur is not None:
+                    cur["lex"].setdefault("list_items", []).append(
+                        _brewer_case(h[1]) if style == "caps" else h[1])
+                h = None
+            if h:
+                head, qual = h
+                head_disp = _brewer_case(head) if style == "caps" else head
+                # the qualifier is part of the key: Brewer prints AGNES (St.) and
+                # AGNES (in The Spectator) as separate entries
+                # ...but not a syllable count, AMINE (3 syl.), which is pronunciation
+                kq = "" if re.match(r"\d+ syl", qual) else qual
+                cur = {"id": f"{slug}:{_brewer_key(head + ' ' + kq)}",
+                       "ref": head_disp + (f" ({qual})" if qual else ""),
+                       "paras": [re.sub(r"\s+", " ", p.strip())],
+                       "lex": {"headword": head, "qualifier": qual, "volume": vol,
+                               "subheads": []}}
+                units.append(cur)
+            elif cur is not None:
+                s = p.strip()
+                if s.startswith("_") and re.match(r"_[^_]{1,60}_,", s):
+                    cur["lex"]["subheads"].append(re.match(r"_([^_]{1,60})_,", s).group(1))
+                verse = len(p) - len(p.lstrip(" ")) >= (1 if style == "caps" else 3)
+                cur["paras"].append(re.sub(r"[ \t]+", " ", s) if verse
+                                    else re.sub(r"\s+", " ", s))
+        for kind, name, text in appendix:
+            units.append({"id": f"{slug}:{kind}:{_brewer_key(name)}",
+                          "ref": f"Appendix {'I' * int(kind[-1])}: {name}",
+                          "paras": [text],
+                          "lex": {"headword": name, "appendix": kind, "volume": 4,
+                                  "subheads": []}})
+    _number_repeats(units)
+    key = {}
+    for u in units:
+        if "appendix" not in u["lex"]:
+            key.setdefault(_brewer_key(u["lex"]["headword"]), []).append(u["id"])
+    resolved = ambiguous = 0
+    for u in units:
+        u["text"] = "\n\n".join(u.pop("paras"))
+        links, seen = [], set()
+        for m in re.finditer(r"\(?See ([A-Z][A-Za-zÆŒÀ-ÿ'’´ .-]{1,40}?)[).;,]", u["text"]):
+            name = m.group(1).strip().rstrip(".")
+            k = _brewer_key(name)
+            if k in seen or k == _brewer_key(u["lex"]["headword"]):
+                continue
+            seen.add(k)
+            cands = key.get(k, [])
+            if len(cands) == 1:
+                links.append({"kind": "see", "label": name, "target": cands[0]}); resolved += 1
+            elif cands:
+                links.append({"kind": "see", "label": name, "candidates": sorted(set(cands)),
+                              "resolved": False}); ambiguous += 1
+        u["links"] = links
+        if not u["lex"]["subheads"]:
+            del u["lex"]["subheads"]
+    n_app = sum(1 for u in units if "appendix" in u["lex"])
+    return {"slug": slug,
+            "title": "Character Sketches of Romance, Fiction and the Drama "
+                     "(The Reader's Handbook, revised American edition)",
+            "author": "E. Cobham Brewer; ed. Marion Harland (New York: Selmar Hess, 1892)",
+            "source": {"path": ", ".join(os.path.relpath(p, CORPUS) for p in paths),
+                       "format": "dictionary-gutenberg",
+                       "sha256": sha256(paths[0]),
+                       "sha256_all": [sha256(p) for p in paths]},
+            "scheme": {"citation": "headword as a slug; `~2` for a repeated headword; "
+                                   "`app1:`/`app2:`/`app3:` for the three appendices",
+                       "resolution": "entry",
+                       "honesty": "entry boundaries from the transcription's headword marks",
+                       "note": f"{len(units) - n_app:,} dictionary entries across four "
+                               f"Gutenberg volumes (PG 11431, 58596, 20851, 58988) plus "
+                               f"{n_app:,} appendix items (authors' works; dates of foreign "
+                               f"poems and novels; dramas and operas). Volume I marks headwords "
+                               f"in capitals, II-IV in bold, and Brewer's list entries (Dying "
+                               f"Sayings, Dwarfs, court jesters) print their items the same "
+                               f"way. {list_items:,} such items were told from headwords by "
+                               f"the dictionary's own alphabetical order and kept inside their "
+                               f"entry (lex.list_items). The same test would fold a real "
+                               f"headword Brewer himself printed out of order; the folded "
+                               f"names are kept in lex.list_items so that can be checked. "
+                               f"Italic second "
+                               f"senses ride inside their entry under lex.subheads. "
+                               f"{resolved:,} `See X` references resolved to a unique headword; "
+                               f"{ambiguous:,} left with their candidates. The text is the "
+                               f"1892 printing as the Gutenberg transcribers keyed it: they "
+                               f"list their corrections at the end of each volume and "
+                               f"modernised nothing; vol. III's {tn_marks} [TN-n] pointers to "
+                               f"kept printer's errors are stripped. Printed page numbers "
+                               f"are not in the transcription, so no page is claimed."},
+            "units": units}
+
+
+
 
 # ---------------------------------------------------------------- Gutenberg .txt
 
@@ -2398,6 +3768,13 @@ def main():
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
+    smith = os.path.join(CORPUS, "lexicons", "smith-dgrbm.xml")
+    if os.path.exists(smith):
+        jobs.append(("smith-dgrbm", lambda: convert_smith_dgrbm(smith)))
+    brewer = [os.path.join(CORPUS, "lexicons", v[0]) for v in BREWER_VOLS]
+    if all(os.path.exists(x) for x in brewer):
+        jobs.append(("brewer-character-sketches",
+                     lambda: convert_brewer_character_sketches(brewer)))
     for slug, files, title, author, note in (
         ("tbesg-greek", ["tbesg-greek.txt"],
          "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",
@@ -2472,14 +3849,55 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author:
                          convert_gutenberg_prose(p, s, t, a, contents_chapre(p))))
+    vdir = os.path.join(CORPUS, "vulgate")
+    if os.path.isdir(vdir) and all(os.path.exists(os.path.join(vdir, b + ".lat"))
+                                   for b in _fs.VULGATE["books"]):
+        jobs.append(("vulgate", lambda: convert_vulgate(vdir, _fs.VULGATE["books"],
+                                                         _fs.vulgate_digest(vdir))))
+    drc = os.path.join(CORPUS, "douay", "DRC.json")
+    if os.path.exists(drc):
+        jobs.append(("douay", lambda: convert_douay(drc, _fs.VULGATE["books"], sha256(drc))))
+    bz = os.path.join(CORPUS, "brenton", "eng-Brenton_usfm.zip")
+    if os.path.exists(bz):
+        jobs.append(("brenton", lambda: convert_brenton(bz, sha256(bz))))
+    kz = os.path.join(CORPUS, "kjva", "engkjvcpb_usfm.zip")
+    if os.path.exists(kz):
+        jobs.append(("kjva", lambda: convert_kjva(kz, sha256(kz))))
+    for eslug, e in _fs.ENGLISH.items():
+        ep = os.path.join(CORPUS, "english", e["file"])
+        if os.path.exists(ep):
+            jobs.append((eslug, lambda p=ep, s=eslug: convert_english(p, s, sha256(p))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))
     force = "--force" in os.sys.argv
+    # A Bible's `kjv` fields come from a committed map, read at build time. A
+    # kept book records the map it was built with; a changed (or newly built)
+    # map rebuilds it, so the fields never go stale behind the resume.
+    vdir_ = os.path.join(HERE, "..", "data", "versification")
+    map_of = {"vulgate": ["vulgate-kjv.json", "deuterocanon.json"],
+              "douay": ["vulgate-kjv.json", "deuterocanon.json"],
+              "brenton": ["brenton-kjv.json", "deuterocanon.json"],
+              **{s_: [f"{s_}-kjv.json"] for s_ in _fs.ENGLISH}}
+
+    def map_sha(slug):
+        """sha256 of the book's map(s): one, or several joined, as present."""
+        mps = [os.path.join(vdir_, m) for m in map_of.get(slug, [])]
+        shas = [sha256(mp) for mp in mps if os.path.exists(mp)]
+        if not shas:
+            return None
+        if len(shas) == 1 and len(mps) == 1:
+            return shas[0]
+        return hashlib.sha256(" ".join(shas).encode("ascii")).hexdigest()
     for slug, job in jobs:
         out = os.path.join(BOOKS, slug + ".json")
+        book = None
         if os.path.exists(out) and not force:   # resumable: reuse, still record in manifest
             book = json.load(open(out, encoding="utf-8"))
+            if book["scheme"].get("kjv_map_sha256") != map_sha(slug):
+                print(f"{slug}: its KJV map changed since it was built: rebuilding")
+                book = None
+        if book is not None:
             manifest[slug] = {"title": book["title"], "author": book["author"],
                               "format": book["source"]["format"],
                               "sha256": book["source"]["sha256"],
@@ -2488,6 +3906,8 @@ def main():
             print(f"{slug}: {len(book['units'])} units (kept)")
             continue
         book = job()
+        if map_sha(slug):
+            book["scheme"]["kjv_map_sha256"] = map_sha(slug)
         seen = {}                       # guarantee unique unit ids (stable refs)
         for u in book["units"]:
             if u["id"] in seen:

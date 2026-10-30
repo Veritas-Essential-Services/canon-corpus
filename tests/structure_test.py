@@ -10,8 +10,8 @@ no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
 
 Split from patrimonium's tests/armarium_test.py at the 2026-07-22
 extraction: the converter checks live here; the engine checks live in the
-armarium repo's tests/armarium_test.py. 18 checks."""
-import os, sys, tempfile, importlib.util
+armarium repo's tests/armarium_test.py."""
+import os, sys, json, shutil, tempfile, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PIPE = os.path.join(HERE, "..", "pipeline")
@@ -54,6 +54,11 @@ The Gospel According to Saint John
 1:1 Paul, a servant of Jesus Christ, called to be an apostle,
 separated unto the gospel of God, 1:2 (Which he had promised afore by
 his prophets in the holy scriptures,)
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE KING JAMES VERSION OF THE BIBLE ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed. 1:3 Creating the works from print editions not protected
 """
 with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
     f.write(KJV_FIX); kjv_path = f.name
@@ -64,6 +69,8 @@ check("kjv: John 1:1 text", d.get("kjv:John.1.1", {}).get("text", "").startswith
 check("kjv: inline marker split (John 1:2)", "kjv:John.1.2" in d)
 check("kjv: alias header ignored (no dupe John)", d.get("kjv:Rom.1.1", {}).get("text", "").startswith("Paul, a servant"))
 check("kjv: no duplicate ids", len(d) == len(book["units"]))
+check("kjv: stops at the Gutenberg end marker (licence not in the last verse)",
+      "GUTENBERG" not in d.get("kjv:Rom.1.2", {}).get("text", "") and "kjv:Rom.1.3" not in d)
 os.unlink(kjv_path)
 
 # ---------------------------------------------------------------- ThML fixture
@@ -217,7 +224,10 @@ BDB_FIX = ("BDBid\tStrongNumber\tcontent\n"
            "BDB6\tH6_H8\t"
            '<h1><entry>BDB6</entry></h1><div class="navigation">BDB5 | BIBLICAL HEBREW | BDB7</div>'
            '<p><bdbheb>אַב</bdbheb> noun '
-           '<ref ref="Gen 24:12" b="1" cBegin="24" vBegin="12">Gen 24:12</ref></p>\n'
+           '<ref ref="Gen 24:12" b="1" cBegin="24" vBegin="12">Gen 24:12</ref> '
+           '<ref ref="Ps 51:3" b="19" cBegin="51" vBegin="3">Ps 51:3</ref> '
+           '<ref ref="Ps 51:1" b="19" cBegin="51" vBegin="1">Ps 51:1</ref> '
+           '<ref ref="Mal 4:1" b="39" cBegin="4" vBegin="1">Mal 4:1</ref></p>\n'
            "BDB7\t\t<h1>x</h1><p>no strongs equivalent</p>\n")
 with tempfile.NamedTemporaryFile("w", suffix=".tsv", delete=False, encoding="utf-8") as f:
     f.write(BDB_FIX); bdb_path = f.name
@@ -229,12 +239,93 @@ check("bdb: one entry can carry several Strong's numbers (H6_H8 -> two links)",
 check("bdb: header and prev|next navigation are furniture, stripped",
       "BIBLICAL HEBREW" not in b6["text"] and b6["text"].startswith("אַב"))
 scr = [l for l in b6["links"] if l["kind"] == "scripture"]
-check("bdb: scripture ref keeps the book number's OSIS and stays UNresolved",
-      scr and scr[0]["osis"] == "Gen.24.12" and scr[0]["resolved"] is False
-      and scr[0]["versification"] == "bhs")
+check("bdb: scripture ref keeps the book number's OSIS as stated, in Hebrew numbering",
+      scr and scr[0]["osis"] == "Gen.24.12" and scr[0]["versification"] == "bhs")
+check("bdb: a verse numbered alike in both schemes resolves to its kjv: unit id",
+      scr[0]["resolved"] is True and scr[0]["target"] == "kjv:Gen.24.12")
+check("bdb: Hebrew Ps 51:3 resolves to KJV Ps 51:1, the stated osis untouched",
+      scr[1]["osis"] == "Ps.51.3" and scr[1]["target"] == "kjv:Ps.51.1")
+check("bdb: Hebrew Ps 51:1 is the KJV's unnumbered title -- unresolved, and says why",
+      scr[2]["resolved"] is False and "title" in scr[2]["why"] and "target" not in scr[2])
+check("bdb: a reference naming no Hebrew verse stays unresolved (Mal has 3 chapters in Hebrew)",
+      scr[3]["osis"] == "Mal.4.1" and scr[3]["resolved"] is False and "target" not in scr[3])
 check("bdb: an entry with no Strong's number gets no strongs link",
       [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
 os.unlink(bdb_path)
+
+# ---------------------------------------------------------------- Vulgate
+vd = tempfile.mkdtemp()
+with open(os.path.join(vd, "Ps.lat"), "w", encoding="cp1252", newline="\r\n") as f:
+    f.write("50:1 In finem. Psalmus David,\\\n"
+            "50:3 [Miserere mei, Deus,/ secundum magnam misericordiam tuam;]\n")
+with open(os.path.join(vd, "Ct.lat"), "w", encoding="cp1252", newline="\r\n") as f:
+    f.write("1:1 [<Sponsa>Osculetur me osculo oris sui:/ quia meliora sunt ubera tua vino,]\n"
+            "\n"
+            "1:2 et c\u0153li.\n")
+vg = st.convert_vulgate(vd, ["Ps", "Ct"], "pin")
+vu = {u["id"]: u for u in vg["units"]}
+check("vulgate: ids are the Vulgate's own numbering on OSIS books (Ps 50 stays 50)",
+      list(vu) == ["vulgate:Ps.50.1", "vulgate:Ps.50.3", "vulgate:Song.1.1", "vulgate:Song.1.2"])
+check("vulgate: '/' becomes a line break, brackets and the paragraph mark go",
+      vu["vulgate:Ps.50.3"]["text"] == "Miserere mei, Deus,\nsecundum magnam misericordiam tuam;"
+      and vu["vulgate:Ps.50.1"]["text"] == "In finem. Psalmus David,")
+check("vulgate: the marked line is kept as the file has it",
+      vu["vulgate:Ps.50.1"]["marked"] == "In finem. Psalmus David,\\")
+check("vulgate: a speaker heading is lifted out of the text",
+      vu["vulgate:Song.1.1"]["speakers"] == ["Sponsa"]
+      and vu["vulgate:Song.1.1"]["text"].startswith("Osculetur"))
+check("vulgate: read as cp1252 (the oe ligature survives)", "œ" in vu["vulgate:Song.1.2"]["text"])
+check("vulgate: scheme says Vulgate numbering; ids are not rewritten, links[] stays empty",
+      vg["scheme"]["versification"] == "vulgate"
+      and not any(u["links"] for u in vg["units"]))
+check("vulgate: each unit's `kjv` names the KJV verse by the committed map (Ps 50:3 = KJV 51:1)",
+      vu["vulgate:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"}
+      and vu["vulgate:Song.1.1"]["kjv"] == {"resolved": True, "target": "kjv:Song.1.2"})
+check("vulgate: a psalm title is not resolved, and says where it is in the KJV",
+      vu["vulgate:Ps.50.1"]["kjv"]["resolved"] is False
+      and vu["vulgate:Ps.50.1"]["kjv"]["kjv"] == ["Ps.51.title"])
+check("vulgate: the scheme counts resolved and unresolved units",
+      vg["scheme"]["kjv_resolved"] == 3 and vg["scheme"]["kjv_unresolved"] == 1)
+check("vulgate: the rights block travels with the book",
+      vg["rights"]["license"] == "public-domain" and "Clementine" in vg["rights"]["attribution"])
+shutil.rmtree(vd)
+
+# ---------------------------------------------------------------- Douay-Rheims
+dd = tempfile.mkdtemp()
+_books = [{"name": n, "chapters": []} for n in st.DOUAY_NAMES]
+_books[20]["chapters"] = [{"chapter": 50, "verses": [
+    {"verse": 3, "text": "Have mercy on me, O God,  according to thy great mercy."}]}]
+_books[58]["chapters"] = [{"chapter": 4, "verses": [
+    {"verse": 12, "text": "And we will not have you ignorant brethren, concerning them that are asleep"},
+    {"verse": 18, "text": ""}]}]
+_books.append({"name": "I Esdras", "chapters": [{"chapter": 1, "verses": [{"verse": 1, "text": "x"}]}]})
+with open(os.path.join(dd, "DRC.json"), "w", encoding="utf-8") as f:
+    json.dump({"books": _books}, f)
+_vb = ["Gn Ex Lv Nm Dt Jos Jdc Rt 1Rg 2Rg 3Rg 4Rg 1Par 2Par Esr Neh Tob Jdt Est Job Ps Pr Ecl Ct "
+       "Sap Sir Is Jr Lam Bar Ez Dn Os Joel Am Abd Jon Mch Nah Hab Soph Agg Zach Mal 1Mcc 2Mcc Mt "
+       "Mc Lc Jo Act Rom 1Cor 2Cor Gal Eph Phlp Col 1Thes 2Thes 1Tim 2Tim Tit Phlm Hbr Jac 1Ptr "
+       "2Ptr 1Jo 2Jo 3Jo Jud Apc"][0].split()
+dg = st.convert_douay(os.path.join(dd, "DRC.json"), _vb, "pin")
+du = {u["id"]: u for u in dg["units"]}
+check("douay: ids in the Vulgate's numbering; an empty padding verse gets no id; appendix not read",
+      list(du) == ["douay:Ps.50.3", "douay:1Thess.4.12"] and dg["scheme"]["empty_verses_dropped"] == 1)
+check("douay: whitespace runs collapse", du["douay:Ps.50.3"]["text"].count("  ") == 0)
+check("douay: the same number reads the same Clementine verse, and the KJV through the map",
+      du["douay:Ps.50.3"]["vulgate"] == ["vulgate:Ps.50.3"]
+      and du["douay:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"})
+check("douay: DOUAY_ROWS carries the Douay's own breaks (1 Thess 4:12 is the Clementine's 4:13)",
+      du["douay:1Thess.4.12"]["vulgate"] == ["vulgate:1Thess.4.13"]
+      and du["douay:1Thess.4.12"]["kjv"]["target"] == "kjv:1Thess.4.13")
+_books[20]["chapters"][0]["verses"][0]["verse"] = 99
+_books[0]["name"] = "Genesys"
+with open(os.path.join(dd, "DRC.json"), "w", encoding="utf-8") as f:
+    json.dump({"books": _books}, f)
+try:
+    st.convert_douay(os.path.join(dd, "DRC.json"), _vb, "pin"); _ok = False
+except ValueError:
+    _ok = True
+check("douay: a file whose books are not in the pinned order is refused", _ok)
+shutil.rmtree(dd)
 
 # ---------------------------------------------------------------- Thayer (OCR)
 import json as _json
@@ -575,6 +666,110 @@ check("unscanned: units, their scan pages and printed labels, and the Unscanner'
       _ub["units"][0]["printed"] == ["15", "16"] and _ub["units"][0]["id"] == "t:ch1.1"
       and _ub["source"]["format"] == "unscanner" and "UNPROOFREAD" in _ub["scheme"]["honesty"])
 
+# ---------------------------------------------------------------- dictionaries of names (2026-10-19)
+_SMITH = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader/><text><body>
+<pb n="1"/>
+<div type="textpart" subtype="alphabetic_letter" n="A">
+ <div type="textpart" subtype="entry" xml:id="abaris-bio-1" n="abaris_1">
+  <head><persName><surname>A'baris</surname></persName></head>
+  <p>(<foreign xml:lang="grc">Ἄβαρις</foreign>), son of Seuthes (<bibl n="Hdt. 4.36">Hdt. 4.36</bibl>),
+   like <ref target="apicius-bio-1">Apicius</ref> and [<hi rend="smallcaps">ABAS.</hi>] and
+   [<hi rend="smallcaps">APICIUS</hi>, No. 2] but not <hi rend="smallcaps">HERA</hi> in passing.</p>
+  <byline>[<ref target="author.L.S">L.S</ref>]</byline>
+ </div>
+ <div type="textpart" subtype="entry" xml:id="abas-bio-1" n="abas_1">
+  <head>Abas</head><p>a king.</p></div>
+ <div type="textpart" subtype="entry" xml:id="apicius-bio-1" n="apicius_1">
+  <head>Api'cius</head><p>three gourmands.</p>
+  <pb n="2"/>
+  <div><head>Ancient authors</head>
+   <div type="subentry" xml:id="apicius-bio-2" n="apicius_2"><head>Api'cius</head><p>2. The second.</p></div>
+  </div>
+ </div>
+ <div type="textpart" subtype="entry" xml:id="hera-bio-1"><head>Hera</head><p>a goddess.</p></div>
+</div></body></text></TEI>"""
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_SMITH)
+_sb = st.convert_smith_dgrbm(_fh.name); os.unlink(_fh.name)
+_su = {u["id"]: u for u in _sb["units"]}
+_ab = _su["smith-dgrbm:abaris-bio-1"]
+check("smith: keyed on Perseus xml:id; sub-entry is its own unit and points at its parent",
+      set(_su) == {"smith-dgrbm:abaris-bio-1", "smith-dgrbm:abas-bio-1", "smith-dgrbm:apicius-bio-1",
+                   "smith-dgrbm:apicius-bio-2", "smith-dgrbm:hera-bio-1"}
+      and _su["smith-dgrbm:apicius-bio-2"]["lex"]["subentry_of"] == "smith-dgrbm:apicius-bio-1"
+      and "The second" not in _su["smith-dgrbm:apicius-bio-1"]["text"])
+check("smith: reads headword-first as printed; lemma drops the stress apostrophe",
+      _ab["text"].startswith("A'baris (Ἄβαρις), son of Seuthes") and _ab["lex"]["lemma"] == "Abaris")
+_tg = [l.get("target") for l in _ab["links"] if l["kind"] == "see"]
+check("smith: encoded ref exact; bracketed small caps resolved by headword; 'No. 2' picks the homonym",
+      "smith-dgrbm:apicius-bio-1" in _tg and "smith-dgrbm:abas-bio-1" in _tg
+      and "smith-dgrbm:apicius-bio-2" in _tg)
+check("smith: small caps NOT in brackets is a name in passing, not a cross-reference",
+      "smith-dgrbm:hera-bio-1" not in _tg)
+check("smith: ancient-author citation recorded unresolved; byline initials are contributors, not links",
+      {"kind": "classical", "cite": "Hdt. 4.36", "ref": "Hdt. 4.36", "resolved": False} in _ab["links"]
+      and _ab["lex"]["contributors"] == ["L.S"])
+check("smith: printed pages carried; a sub-entry's page counts for its parent",
+      _ab["lex"]["pages"] == ["1"] and _su["smith-dgrbm:apicius-bio-1"]["lex"]["pages"] == ["1", "2"])
+check("smith: CC BY-SA markup keeps redistribute_whole false with Perseus's credit line",
+      _sb["rights"]["redistribute_whole"] is False and "Perseus" in _sb["rights"]["attribution"])
+
+_BV = {
+ 1: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\nPREFACE TEXT.\n\nAA'RON, a Moor.--Shakespeare.\n\n"
+    "ABSOLUTE _(Sir Anthony)_, a testy old gentleman.\n\n_Captain Absolute_, his son. (See AARON.)\n\n"
+    "  ... a verse line\n  and its second line\n\nAMINE (3 _syl._), a wife.\n\n"
+    "BODY, list of the dead:\n\nADDISON, see how a Christian can die.\n\n"
+    "BURKE, a speaker.\n\nE. B. Browning, a source line.\n\nII.\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n",
+ 2: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\n=Falkland=, a lover.\n\n=Fide´lio,= Leonora.\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n",
+ 3: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\n=Mark Tapley=, a servant.[TN-1]\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n",
+ 4: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\n=Skeggs= (_Miss_), a companion.\n\n  =Theron=, a dog.\n\n"
+    "        He threw his arms around the dog\n\n"
+    "                              APPENDICES.\n\n                              APPENDIX I.\n\n"
+    "  =Abbott= (Jacob), born 1803.\n    Corner Stone (The), 1826.\n"
+    "  =Young= (Rev. Edward), 1684-1765.\n    Night Thoughts, 1742.\n\n"
+    "                              APPENDIX II.\n\n  8 syl. v.  = _Octosyllabic verse._\n\n"
+    "=Æsop=, Fables, about B.C. 570.\n\nAMADIS OF GAUL, begun 14th cent.\n\n"
+    "                 LIST OF ABBREVIATIONS IN APPENDIX III.\n\n  C. = Comedy\n\n"
+    "                             APPENDIX III.\n                AUTHORS AND DATES.\n\n"
+    "                               ----------\n\n  _If any discrepancy is observed_\n\n"
+    "                               ----------\n\n  Abdelazer, 1677, Mrs. Behn.   C.\n"
+    "  Abraham’s Sacrifice, 1550, T. Beza.   Rel.Pl. (translated by\n     A. Golding, 1575).\n\n"
+    "Transcriber’s Note\n\nCorrections listed here.\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n"}
+_bp = []
+for _i in (1, 2, 3, 4):
+    with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+        _fh.write(_BV[_i]); _bp.append(_fh.name)
+_saved_vols = st.BREWER_VOLS
+st.BREWER_VOLS = tuple((v[0], v[1], s, v[3]) for v, s in
+                       zip(_saved_vols, ("AA'RON", "=Falkland=", "=Mark Tapley=", "=Skeggs=")))
+_bb = st.convert_brewer_character_sketches(_bp)
+st.BREWER_VOLS = _saved_vols
+for _p in _bp: os.unlink(_p)
+_bu = {u["id"].split(":", 1)[1]: u for u in _bb["units"]}
+check("brewer: caps headwords (vol I) and =bold= (II-IV), qualifier in the key, syllable count not",
+      {"aaron", "absolute-sir-anthony", "amine", "falkland", "fidelio", "mark-tapley", "skeggs-miss"}
+      <= set(_bu) and _bu["absolute-sir-anthony"]["ref"] == "Absolute (Sir Anthony)")
+check("brewer: italic second sense rides inside its entry; verse keeps its line break",
+      _bu["absolute-sir-anthony"]["lex"]["subheads"] == ["Captain Absolute"]
+      and "a verse line\n and its second line" in _bu["absolute-sir-anthony"]["text"])
+check("brewer: a list item printed like a headword is folded by alphabetical order",
+      "addison" not in _bu and _bu["body"]["lex"]["list_items"] == ["Addison"] and "burke" in _bu)
+check("brewer: roman numerals and initials never open an entry",
+      "ii" not in _bu and "e-b" not in _bu and "E. B. Browning" in _bu["burke"]["text"])
+check("brewer: vol IV's two-space indent still opens =bold= entries; deeper indent is verse",
+      "theron" in _bu and "He threw his arms" in _bu["theron"]["text"])
+check("brewer: 'See X' resolves to the one entry with that headword",
+      {"kind": "see", "label": "AARON", "target": "brewer-character-sketches:aaron"}
+      in _bu["absolute-sir-anthony"]["links"])
+check("brewer: three appendices keyed per item; preface and transcriber's note are not items",
+      {"app1:abbott-jacob", "app1:young-rev-edward", "app2:aesop", "app2:amadis-of-gaul",
+       "app3:abdelazer", "app3:abrahams-sacrifice"} <= set(_bu)
+      and not any("discrepancy" in u["text"] or "Corrections listed" in u["text"] for u in _bb["units"])
+      and _bu["app3:abrahams-sacrifice"]["text"].endswith("A. Golding, 1575)."))
+check("brewer: [TN-n] transcriber pointers stripped and counted",
+      _bu["mark-tapley"]["text"] == "=Mark Tapley=, a servant." and "1 [TN-n]" in _bb["scheme"]["note"])
+
+
 # ---------------------------------------------------------------- Aphthonius, three editions (2026-10-20)
 # Invented fixtures only: placeholder words, never a line of any edition.
 _KEYS = [k for k, _ in st.PROGYM_EXERCISES]
@@ -708,6 +903,7 @@ _BR = {"source_sha256": "x", "pages": 3, "toc": [["A", 1], ["B", 3]], "furniture
     {"p": 2, "top": False, "lines": ["Cato was so called. (B.C. 234.)"]},
     {"p": 2, "top": False, "lines": ["Acorns"]},
     {"p": 2, "top": False, "lines": ["Oak fruit. (See above.) (See under Abels.)"]},
+    {"p": 2, "top": False, "lines": ["Acquit A verb of the law courts."]},
     {"p": 2, "top": False, "lines": ["Acre"]},
     {"p": 3, "top": True, "lines": ["Bacon"]},
     {"p": 3, "top": False, "lines": ["Bring home the bacon. 1 Sam. ii. 3."]},
@@ -720,20 +916,24 @@ _bb = st.convert_brewer(_fb.name); st.CORPUS = _sc; os.unlink(_fb.name)
 _bu = {u["id"]: u for u in _bb["units"]}
 check("brewer: headwords found; abbreviation (no full stop) kept; verse line and sentence are not headwords",
       [u["id"] for u in _bb["units"]] == ["brewer:a", "brewer:a-b", "brewer:abel", "brewer:acorns",
-                                          "brewer:bacon", "brewer:bacon"])
+                                          "brewer:acquit", "brewer:bacon", "brewer:bacon"])
+check("brewer: a headword run into its first sentence, alphabetically between its neighbours, "
+      "opens its own entry",
+      _bb["units"][4]["lex"].get("run_in") and _bb["units"][4]["text"].startswith("A verb of the law courts.")
+      and "Acquit" not in _bu["brewer:acorns"]["text"])
 check("brewer: a missed line stays in the entry before it -- nothing lost",
       "Fresh as a morning breeze" in _bu["brewer:abel"]["text"]
       and "Cato was so called" in _bu["brewer:abel"]["text"])
 check("brewer: page-top paragraph rejoined to an unfinished one; entry spans both pages",
       "spring and so continued" in _bu["brewer:abel"]["text"] and _bu["brewer:abel"]["lex"]["pages"] == [1, 2])
 check("brewer: a bodiless headword ('Acre') is folded back as text, not a unit",
-      "brewer:acre" not in _bu and _bu["brewer:acorns"]["text"].endswith("Acre"))
+      "brewer:acre" not in _bu and _bu["brewer:acquit"]["text"].endswith("Acre"))
 _sl = [l for l in _bu["brewer:abel"]["links"] if l["kind"] == "scripture"]
 check("brewer: scripture parsed (range kept as end); Psalm 154 and number-less Kings refused",
       [(l["target"], l.get("end")) for l in _sl] == [("kjv:Gen.4.2", "Gen.4.4")]
       and "Gen. iv. 2–4" in _bu["brewer:abel"]["text"])
 check("brewer: numbered book takes its number (1 Sam. -> 1Sam)",
-      any(l.get("target") == "kjv:1Sam.2.3" for l in _bb["units"][4]["links"]))
+      any(l.get("target") == "kjv:1Sam.2.3" for l in _bb["units"][5]["links"]))
 check("brewer: 'See X' resolves (also 'under', plural); 'see above' is not a link",
       _bu["brewer:a-b"]["links"] == [{"kind": "see", "target": "brewer:abel"}]
       and _bu["brewer:acorns"]["links"] == [{"kind": "see", "target": "brewer:abel"}])
@@ -767,6 +967,102 @@ check("local source: brewer's pins are declared (source PDF + unpacked paragraph
 check("shipped working text: both Church Homers declared, pinned, shipped copies present",
       all(len(fs.SHIPPED_WORKING_TEXT[x][4]) == 64 and os.path.exists(os.path.join(HERE, "..", fs.SHIPPED_WORKING_TEXT[x][3]))
           for x in ("church-iliad-boys", "church-odyssey-boys")))
+# Brenton's English Septuagint (eBible USFM in a zip). Fixture is invented
+# text in eBible's markup; the kjv fields come from the committed map.
+import zipfile as _zf
+_bz = os.path.join(_tf.mkdtemp(), "eng-Brenton_usfm.zip")
+with _zf.ZipFile(_bz, "w") as _z:
+    _z.writestr("19-PSAeng-Brenton.usfm",
+                "\\id PSA - Brenton\n\\h Psalms \n\\c 50  \n\\d\n\\v 1 For the end, a Psalm,  \n"
+                "\\v 2 when Nathan came.   \n\\p\n\\v 3 \\sc Have\\sc* mercy \\f + \\fr 50:3 "
+                "\\fqa Gr. \\ft pity.\\f*upon me.  \n")
+    _z.writestr("18-NEHeng-Brenton.usfm", "\\id NEH\n\\h Nehemiah\n\\c 1\n\\v 1 skipped\n")
+    _z.writestr("27-LAMeng-Brenton.usfm",
+                "\\id LAM\n\\h Lamentations \n\\c 1  \n\\p [And it came to pass, and said]  \n"
+                "\\p\n\\v 1 \\sc Aleph.\\sc* How does the city sit solitary!   \n")
+    _z.writestr("12-1KIeng-Brenton.usfm",
+                "\\id 1KI\n\\h 3 Kingdoms\n\\c 12\n\\v 24a And king Solomon slept.\n")
+_bb = st.convert_brenton(_bz, "pin")
+_bu = {u["id"]: u for u in _bb["units"]}
+check("brenton: ids are Brenton's own numbering (Ps 50 stays 50, a lettered verse keeps its "
+      "letter, the text before Lam 1:1 is verse 0); eBible's KJV-numbered NEH is not read",
+      list(_bu) == ["brenton:1Kgs.12.24a", "brenton:Ps.50.1", "brenton:Ps.50.2",
+                    "brenton:Ps.50.3", "brenton:Lam.1.0", "brenton:Lam.1.1"])
+check("brenton: notes leave the text for `notes`; character markers go; `marked` is as is",
+      _bu["brenton:Ps.50.3"]["text"] == "Have mercy upon me."
+      and "pity" in _bu["brenton:Ps.50.3"]["notes"][0]
+      and _bu["brenton:Ps.50.3"]["marked"].startswith("\\sc Have"))
+check("brenton: each unit's `kjv` comes from the committed map (Ps 50:3 = KJV 51:1)",
+      _bu["brenton:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"}
+      and _bu["brenton:Ps.50.1"]["kjv"]["kjv"] == ["Ps.51.title"]
+      and _bu["brenton:1Kgs.12.24a"]["kjv"]["resolved"] is False
+      and _bu["brenton:Lam.1.0"]["kjv"]["resolved"] is False)
+check("brenton: scheme and rights say what the book is",
+      _bb["scheme"]["versification"] == "lxx-brenton"
+      and _bb["rights"]["license"] == "public-domain")
+
+# The historic English Bibles (scrollmapper JSON on CrossWire's KJV grid).
+# Fixture is invented text in the source's shape: 66 books, two verses.
+_ej = {"books": [{"name": f"Book{i}", "chapters": []} for i in range(66)]}
+_ej["books"][0] = {"name": "Genesis", "chapters": [{"chapter": 1, "verses": [
+    {"verse": 1, "chapter": 1, "name": "Genesis 1:1", "text": "In the beginningGod made it. And Sarah said,God; OGod; [my]God; "
+                                     "my fathers'God; 'God with us'; Godly."},
+    {"verse": 2, "chapter": 1, "name": "Genesis 1:2", "text": "  "}]}]}
+_ej["books"][49] = {"name": "Philippians", "chapters": [{"chapter": 1, "verses": [
+    {"verse": 16, "chapter": 1, "name": "Philippians 1:16", "text": "the one do it of love,"}]}]}
+_ep = os.path.join(_tf.mkdtemp(), "Darby.json")
+with open(_ep, "w", encoding="utf-8") as _fh:
+    json.dump(_ej, _fh)
+_eb = st.convert_english(_ep, "darby", "pin")
+_eu = {u["id"]: u for u in _eb["units"]}
+check("english: ids are the source's slots on OSIS books; an empty slot is no unit",
+      list(_eu) == ["darby:Gen.1.1", "darby:Phil.1.16"] and _eb["scheme"]["empty_slots_not_units"] == 1)
+check("english: Darby's per-book rule restores the space the markup ate before 'God'",
+      _eu["darby:Gen.1.1"]["text"] == "In the beginning God made it. And Sarah said, God; "
+      "O God; [my] God; my fathers' God; 'God with us'; Godly."
+      and _eb["scheme"]["rules"][0]["applied"] == 5)
+check("english: each unit's `kjv` comes from the committed map (Darby Phil 1:16 is KJV 1:17)",
+      _eu["darby:Phil.1.16"]["kjv"] == {"resolved": True, "target": "kjv:Phil.1.17"}
+      and _eu["darby:Gen.1.1"]["kjv"] == {"resolved": True, "target": "kjv:Gen.1.1"})
+check("english: rights say public domain and carry the source's own rights line",
+      _eb["rights"]["license"] == "public-domain" and "Public Domain" in _eb["rights"]["rights_line"])
+
+# The KJV's Apocrypha (eBible USFM): Sirach's prologues; the Rest of Esther
+# renumbered from the file's Greek-order segments. Invented text, the file's shape.
+import zipfile as _zf
+_kz = os.path.join(_tf.mkdtemp(), "kjva.zip")
+with _zf.ZipFile(_kz, "w") as _z:
+    _z.writestr("46-SIRengkjvcpb.usfm", "\\id SIR x\n\\h Ecclesiasticus\n\\is1 A Prologue.\n"
+                "\\im \\sc This\\sc* Jesus was the son of Sirach.\n\\is1 The Prologue.\n"
+                "\\im Whereas many things.\n\\c 1\n\\q1\n\\v 1 All wisdom cometh from the Lord.\n")
+    _z.writestr("43-ESGengkjvcpb.usfm", "\\id ESG x\n\\h The Rest of Esther\n\\c 1\n"
+                "\\iex [PLACED IN THE GREEK BEFORE CH. I.]\n\\cp 11\n\\p\n\\v 2 In the second year.\n"
+                "\\v 3 A Jew.\n\\cp 12\n\\v 12a \\vp 1\\vp* And Mardocheus took his rest.\n"
+                "\\c 10\n\\v 4 Then Mardocheus said.\n")
+    _z.writestr("02-GENengkjvcpb.usfm", "\\id GEN x\n\\h Genesis\n\\c 1\n\\v 1 In the beginning.\n")
+_keep = st.KJVA_ESTHER
+st.KJVA_ESTHER = [(11, 2, 3), (12, 1, 1), (10, 4, 4)]
+_ka = st.convert_kjva(_kz, "pin")
+st.KJVA_ESTHER = _keep
+_ku = {u["id"]: u for u in _ka["units"]}
+check("kjva: the Apocrypha only, ids in the KJV's numbering; Sirach's prologues are 0.1, 0.2",
+      list(_ku) == ["kjva:AddEsth.10.4", "kjva:AddEsth.11.2", "kjva:AddEsth.11.3",
+                    "kjva:AddEsth.12.1", "kjva:Sir.0.1", "kjva:Sir.0.2", "kjva:Sir.1.1"]
+      and _ku["kjva:Sir.0.1"]["text"] == "This Jesus was the son of Sirach.")
+check("kjva: Esther's segments counted on from the KJV's starts; the printed \\vp agrees, "
+      "and placement notes are not text",
+      _ku["kjva:AddEsth.12.1"]["text"] == "And Mardocheus took his rest."
+      and _ku["kjva:AddEsth.11.2"]["text"] == "In the second year.")
+st.KJVA_ESTHER = [(11, 2, 3), (12, 1, 2), (10, 4, 4)]
+try:
+    st.convert_kjva(_kz, "pin")
+    _ok = False
+except ValueError:
+    _ok = True
+st.KJVA_ESTHER = _keep
+check("kjva: a segment that stops short of the KJV's passage is refused", _ok)
+check("kjva: rights public domain, with eBible's rights line",
+      _ka["rights"]["license"] == "public-domain" and _ka["rights"]["rights_line"] == "Public Domain")
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
