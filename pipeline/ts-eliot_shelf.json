@@ -1,0 +1,46 @@
+{
+ "_about": "T. S. Eliot: Prufrock and Other Observations (1917), The Waste Land (1922). US public domain; Eliot died 1965, so UK copyright runs to 2035. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "T. S. Eliot",
+ "_name_words": [
+  "eliot",
+  "thomas",
+  "stearns"
+ ],
+ "_surname": [
+  "t. s. eliot",
+  "eliot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eliot-prufrock": [
+   1459,
+   "Prufrock and Other Observations (1917)"
+  ],
+  "eliot-waste-land": [
+   1321,
+   "The Waste Land (1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eliot-prufrock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. s. eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eliot-waste-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. s. eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

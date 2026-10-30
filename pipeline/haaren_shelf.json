@@ -1,0 +1,63 @@
+{
+ "_about": "John H. Haaren and A. B. Poland, Famous Men of Greece, of Rome, and of the Middle Ages (American Book Company, 1904). Memoria Press's revised editions are not public domain; these are the 1904 originals. Greece and Rome are Internet Archive scans (raw OCR). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "John H. Haaren and A. B. Poland",
+ "_name_words": [
+  "haaren",
+  "poland",
+  "john"
+ ],
+ "_surname": [
+  "haaren"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "haaren-famous-men-middle-ages": [
+   3725,
+   "Famous Men of the Middle Ages (1904)"
+  ]
+ },
+ "internet_archive": {
+  "haaren-famous-men-greece": [
+   "famousmengreece00polagoog",
+   "Famous Men of Greece (1904)"
+  ],
+  "haaren-famous-men-rome": [
+   "famousmenofrome00haarrich",
+   "Famous Men of Rome (1904)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "haaren-famous-men-middle-ages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "haaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haaren-famous-men-greece": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "haaren",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haaren-famous-men-rome": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "haaren",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "[c1904]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

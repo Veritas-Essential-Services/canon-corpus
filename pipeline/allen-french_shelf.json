@@ -1,0 +1,31 @@
+{
+ "_about": "Allen French's (1870-1946) The Story of Rolf and the Viking's Bow. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Allen French",
+ "_name_words": [
+  "allen",
+  "french"
+ ],
+ "_surname": [
+  "allen french"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "allen-french-rolf": [
+   43381,
+   "The Story of Rolf and the Viking's Bow (1904)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "allen-french-rolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "allen french",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

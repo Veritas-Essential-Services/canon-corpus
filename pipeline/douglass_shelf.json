@@ -1,0 +1,31 @@
+{
+ "_about": "Frederick Douglass's (1818-1895) Narrative of 1845. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Frederick Douglass",
+ "_name_words": [
+  "frederick",
+  "douglass"
+ ],
+ "_surname": [
+  "frederick douglass"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "douglass-narrative": [
+   23,
+   "Narrative of the Life of Frederick Douglass, an American Slave (1845)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "douglass-narrative": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederick douglass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

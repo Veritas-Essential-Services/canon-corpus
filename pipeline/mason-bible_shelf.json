@@ -1,0 +1,1041 @@
+{
+ "_about": "Bible, Prayer Book and church history the PNEU programmes set: Paterson Smyth, Hardwich and Costley-White, Montefiore, mission biographies. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "abbott",
+  "alexina",
+  "anna",
+  "baker",
+  "barbauld",
+  "campbell",
+  "canton",
+  "costley",
+  "cowper",
+  "crum",
+  "dawson",
+  "dearmer",
+  "deaville",
+  "dummelow",
+  "duncan",
+  "edwin",
+  "elizabeth",
+  "elsie",
+  "eugene",
+  "garrow",
+  "gertrude",
+  "glover",
+  "grierson",
+  "hannington",
+  "hardwich",
+  "harrison",
+  "hollis",
+  "hume",
+  "james",
+  "john",
+  "knox",
+  "laetitia",
+  "lloyd",
+  "mackay",
+  "mary",
+  "masterman",
+  "merrill",
+  "montefiore",
+  "moulton",
+  "mrs",
+  "neil",
+  "newton",
+  "padwick",
+  "paterson",
+  "percy",
+  "richard",
+  "robert",
+  "romanes",
+  "rose",
+  "selah",
+  "selfe",
+  "seth",
+  "shipley",
+  "sir",
+  "smith",
+  "smyth",
+  "somervell",
+  "southey",
+  "stacy",
+  "stanley",
+  "stephen",
+  "stock",
+  "thomson",
+  "waddy",
+  "walker",
+  "westcott",
+  "white",
+  "william"
+ ],
+ "_surname_by_slug": {
+  "campbell-prayer-book-church": [
+   "hume campbell",
+   "campbell"
+  ],
+  "barbauld-hymns-prose-children": [
+   "barbauld",
+   "anna laetitia barbauld"
+  ],
+  "hardwich-old-testament-history-1": [
+   "hardwich",
+   "costley-white"
+  ],
+  "hardwich-old-testament-history-2": [
+   "hardwich",
+   "costley-white"
+  ],
+  "hardwich-old-testament-history-3": [
+   "hardwich",
+   "costley-white"
+  ],
+  "hardwich-old-testament-history-4": [
+   "hardwich",
+   "costley-white"
+  ],
+  "hardwich-old-testament-history-5": [
+   "hardwich",
+   "costley-white"
+  ],
+  "hollis-land-incarnation": [
+   "hollis",
+   "gertrude hollis"
+  ],
+  "masterman-sunday-collects-sunday": [
+   "masterman",
+   "j. h. b. masterman"
+  ],
+  "masterman-sunday-collects-sunday-2": [
+   "masterman",
+   "j. h. b. masterman"
+  ],
+  "moulton-bible-stories-old": [
+   "moulton",
+   "richard g. moulton"
+  ],
+  "seth-smith-firebrand-indies-francis": [
+   "seth-smith",
+   "elsie k. seth-smith"
+  ],
+  "shipley-english-church-history-1": [
+   "shipley",
+   "mary e. shipley"
+  ],
+  "shipley-english-church-history-3": [
+   "shipley",
+   "mary e. shipley"
+  ],
+  "smyth-how-we-got": [
+   "smyth",
+   "j. paterson smyth"
+  ],
+  "smyth-story-st-paul": [
+   "smyth",
+   "j. paterson smyth"
+  ],
+  "stanley-sinai-palestine": [
+   "stanley",
+   "a. p. stanley"
+  ],
+  "stock-lessons-life-our": [
+   "stock",
+   "eugene stock"
+  ],
+  "westcott-essays-history-religious": [
+   "westcott",
+   "b. f. westcott"
+  ],
+  "mackay-story-life-mackay": [
+   "mackay"
+  ],
+  "ae-baker-christianity-science-twentieth": [
+   "a. e. baker"
+  ],
+  "dawson-lion-hearted": [
+   "dawson",
+   "hannington"
+  ],
+  "canton-st-elizabeth-hungary": [
+   "canton",
+   "william canton"
+  ],
+  "dummelow-one-volume-bible": [
+   "dummelow",
+   "j. r. dummelow"
+  ],
+  "lloyd-dayspring-uganda": [
+   "lloyd",
+   "a. b. lloyd"
+  ],
+  "montefiore-bible-home-reading": [
+   "montefiore",
+   "c. g. montefiore"
+  ],
+  "montefiore-bible-home-reading-2": [
+   "montefiore",
+   "c. g. montefiore"
+  ],
+  "neil-everyday-life-holy": [
+   "neil",
+   "james neil"
+  ],
+  "padwick-mackay-great-lake": [
+   "padwick",
+   "c. e. padwick"
+  ],
+  "romanes-how-use-prayer": [
+   "romanes",
+   "g. j. romanes"
+  ],
+  "smyth-how-read-bible": [
+   "smyth",
+   "j. paterson smyth"
+  ],
+  "thomson-land-book-1": [
+   "thomson",
+   "w. m. thomson"
+  ],
+  "thomson-land-book-2": [
+   "thomson",
+   "w. m. thomson"
+  ],
+  "waddy-homes-psalms": [
+   "waddy",
+   "stacy waddy"
+  ],
+  "dearmer-lessons-way": [
+   "dearmer",
+   "percy dearmer"
+  ],
+  "duncan-accuracy-old-testament": [
+   "duncan",
+   "j. garrow duncan"
+  ],
+  "glover-jesus-history": [
+   "glover",
+   "t. r. glover"
+  ],
+  "grierson-northumbrian-saints": [
+   "grierson",
+   "elizabeth w. grierson"
+  ],
+  "knox-acts-apostles-notes": [
+   "knox",
+   "e. m. knox"
+  ],
+  "merrill-galilee-time-christ": [
+   "merrill",
+   "selah merrill"
+  ],
+  "selfe-work-prophets": [
+   "selfe",
+   "rose e. selfe"
+  ],
+  "smyth-bible-young-bible": [
+   "smyth",
+   "j. paterson smyth"
+  ],
+  "somervell-short-history-our": [
+   "somervell",
+   "d. c. somervell"
+  ],
+  "southey-life-wesley": [
+   "southey",
+   "robert southey"
+  ],
+  "walker-africa-her-peoples": [
+   "walker",
+   "f. deaville walker"
+  ],
+  "abbott-bible-lessons": [
+   "abbott",
+   "edwin a. abbott"
+  ],
+  "cowper-olney-hymns-cowper": [
+   "cowper",
+   "newton"
+  ],
+  "smyth-old-documents-new": [
+   "smyth",
+   "j. paterson smyth"
+  ],
+  "stephen-essays-ecclesiastical-biography": [
+   "stephen",
+   "james stephen"
+  ],
+  "crum-what-mean-ye": [
+   "crum",
+   "j. m. c. crum"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "glover-jesus-history": [
+   13335,
+   "T. R. Glover, The Jesus of History (London: SCM, 1917)"
+  ]
+ },
+ "internet_archive": {
+  "campbell-prayer-book-church": [
+   "prayerbookinchur0000whum",
+   "W. Hume Campbell, The Prayer-Book in the Church (London Diocesan Sunday School Manuals), London, 1913"
+  ],
+  "barbauld-hymns-prose-children": [
+   "hymnsinproseforc00barb",
+   "Anna Laetitia Barbauld, Hymns in Prose for Children, London: John Murray, 1866"
+  ],
+  "hardwich-old-testament-history-1": [
+   "oldtestamenthist01hard",
+   "J. M. Hardwich and H. Costley-White, Old Testament History, vol. 1, London: John Murray, 1913"
+  ],
+  "hardwich-old-testament-history-2": [
+   "oldtestamenthist02hard",
+   "J. M. Hardwich and H. Costley-White, Old Testament History, vol. 2, London: John Murray, 1913"
+  ],
+  "hardwich-old-testament-history-3": [
+   "oldtestamenthist03hard",
+   "J. M. Hardwich and H. Costley-White, Old Testament History, vol. 3, London: John Murray, 1913"
+  ],
+  "hardwich-old-testament-history-4": [
+   "oldtestamenthist04hard",
+   "J. M. Hardwich and H. Costley-White, Old Testament History, vol. 4, London: John Murray, 1913"
+  ],
+  "hardwich-old-testament-history-5": [
+   "oldtestamenthist05hard",
+   "J. M. Hardwich and H. Costley-White, Old Testament History, vol. 5, London: John Murray, 1913"
+  ],
+  "hollis-land-incarnation": [
+   "landofincarnatio00holl",
+   "Gertrude Hollis, The Land of the Incarnation, London: Wells Gardner, Darton, [1900]"
+  ],
+  "masterman-sunday-collects-sunday": [
+   "sundaycollectsst0000mast",
+   "J. H. B. Masterman, Sunday Collects: Studies for the Christian Year, London: SPCK, 1916"
+  ],
+  "masterman-sunday-collects-sunday-2": [
+   "sundayepistles0000jhbm",
+   "J. H. B. Masterman, Sunday Epistles: Studies for the Christian Year, [London: SPCK], 1915"
+  ],
+  "moulton-bible-stories-old": [
+   "biblestoriesoldt00moul",
+   "Richard G. Moulton (ed.), Bible Stories: Old Testament (Modern Reader's Bible), New York and London: Macmillan, 1899"
+  ],
+  "seth-smith-firebrand-indies-francis": [
+   "firebrandofindie00sethrich",
+   "Elsie K. Seth-Smith, The Firebrand of the Indies: A Romance of Francis Xavier, London: SPCK, [1922]"
+  ],
+  "shipley-english-church-history-1": [
+   "englishchurchhis0000ship",
+   "Mary E. Shipley, An English Church History for Children, A.D. 597-1066, London, 1905"
+  ],
+  "shipley-english-church-history-3": [
+   "englishchurchhis0000ship_j2r4",
+   "Mary E. Shipley, An English Church History for Children, A.D. 1500-1911, London: Methuen, 1912"
+  ],
+  "smyth-how-we-got": [
+   "howwegotourbibl00smyt",
+   "J. Paterson Smyth, How We Got Our Bible, London: Religious Tract Society, 1906"
+  ],
+  "smyth-story-st-paul": [
+   "bwb_C0-ACA-513",
+   "J. Paterson Smyth, The Story of St. Paul's Life and Letters, London: Sampson Low, Marston, 1917"
+  ],
+  "stanley-sinai-palestine": [
+   "sinaipalestinei00stan",
+   "A. P. Stanley, Sinai and Palestine in Connection with their History, London: John Murray, 1868"
+  ],
+  "stock-lessons-life-our": [
+   "lessonsonthelife00stocuoft",
+   "Eugene Stock, Lessons on the Life of Our Lord, London: Church of England Sunday School Institute, 1870"
+  ],
+  "westcott-essays-history-religious": [
+   "essaysinthehisto00westuoft",
+   "B. F. Westcott, Essays in the History of Religious Thought in the West, London: Macmillan, 1891"
+  ],
+  "mackay-story-life-mackay": [
+   "storyoflifeofmac00harrrich",
+   "[Alexina Mackay Harrison], The Story of the Life of Mackay of Uganda, Told for Boys by his Sister, London: Hodder and Stoughton, 1891"
+  ],
+  "ae-baker-christianity-science-twentieth": [
+   "MN40221ucmf_4",
+   "A. E. Baker, Christianity and Science in the Twentieth Century (Handbooks of Religion), London: Eyre and Spottiswoode, 1930"
+  ],
+  "dawson-lion-hearted": [
+   "lionhearted0000unse_x7g5",
+   "E. C. Dawson, Lion-Hearted: The Story of Bishop Hannington's Life Told for Boys and Girls, London: Seeley, Service, 1914"
+  ],
+  "canton-st-elizabeth-hungary": [
+   "storyofsainteliz00cant",
+   "William Canton, The Story of Saint Elizabeth of Hungary, ill. E. Fortescue-Brickdale (London: Herbert & Daniel [1912])"
+  ],
+  "dummelow-one-volume-bible": [
+   "commentaryonholy00dumm",
+   "J. R. Dummelow (ed.), A Commentary on the Holy Bible (\"one volume Bible commentary\") (New York: Macmillan, 1909)"
+  ],
+  "lloyd-dayspring-uganda": [
+   "dayspringinugand00lloyiala",
+   "A. B. Lloyd, Dayspring in Uganda (London: Church Missionary Society, 1921)"
+  ],
+  "montefiore-bible-home-reading": [
+   "bibleforhomeread01mont",
+   "C. G. Montefiore, The Bible for Home Reading, First Part: To the Second Visit of Nehemiah to Jerusalem, 3rd ed. (London: Macmillan, 1899)"
+  ],
+  "montefiore-bible-home-reading-2": [
+   "bibleforhomeread02mont",
+   "C. G. Montefiore, The Bible for Home Reading, Second Part (Wisdom literature, Prophets, Psalms) (London: Macmillan, 1899)"
+  ],
+  "neil-everyday-life-holy": [
+   "everydaylifeinth00neiluoft",
+   "James Neil, Everyday Life in the Holy Land (London: Cassell, 1913)"
+  ],
+  "padwick-mackay-great-lake": [
+   "mackayofthegreat00padwuoft",
+   "C. E. Padwick, Mackay of the Great Lake (London: H. Milford / Oxford University Press, 1917)"
+  ],
+  "romanes-how-use-prayer": [
+   "howtouseprayerbo0000mrsg",
+   "Mrs. G. J. Romanes, How to Use the Prayer Book (London: Longmans, Green, 1910)"
+  ],
+  "smyth-how-read-bible": [
+   "howtoreadbible0000jpat",
+   "J. Paterson Smyth, How to Read the Bible (London: Sampson Low, Marston, 1896)"
+  ],
+  "thomson-land-book-1": [
+   "landbookorbibli01thom",
+   "W. M. Thomson, The Land and the Book, vol. 1 (New York: Harper, 1874)"
+  ],
+  "thomson-land-book-2": [
+   "landbookorbibli02thom",
+   "W. M. Thomson, The Land and the Book, vol. 2 (New York: Harper, 1874)"
+  ],
+  "waddy-homes-psalms": [
+   "homesofpsalms0000stac",
+   "Stacy Waddy, Homes of the Psalms (London, 1928)"
+  ],
+  "dearmer-lessons-way": [
+   "bwb_C0-CFV-208",
+   "Percy Dearmer, Lessons on the Way (Cambridge: W. Heffer, 1923)"
+  ],
+  "duncan-accuracy-old-testament": [
+   "accuracyofoldtes0000jgar_g3l3",
+   "J. Garrow Duncan, The Accuracy of the Old Testament: the historical narratives in the light of recent Palestinian archaeology (London: SPCK, 1930)"
+  ],
+  "grierson-northumbrian-saints": [
+   "storyofnorthumbr0000eliz",
+   "Elizabeth W. Grierson, The Story of the Northumbrian Saints (London: SPCK, 1913)"
+  ],
+  "knox-acts-apostles-notes": [
+   "theactsoftheapos00knoxuoft",
+   "E. M. Knox, The Acts of the Apostles (London: Macmillan, 1908)"
+  ],
+  "merrill-galilee-time-christ": [
+   "galileeinthetime00merruoft",
+   "Selah Merrill, Galilee in the Time of Christ (By-Paths of Bible Knowledge; London: Religious Tract Society, 1886)"
+  ],
+  "selfe-work-prophets": [
+   "workofprophets00selfiala",
+   "Rose E. Selfe, The Work of the Prophets (London: Longmans, Green, 1904)"
+  ],
+  "smyth-bible-young-bible": [
+   "bibleforschoolho0001pate",
+   "J. Paterson Smyth, The Bible for School and Home, vol. 1: The Book of Genesis (New York: Doran; Toronto: Musson, 1922)"
+  ],
+  "somervell-short-history-our": [
+   "shorthistoryofou00some",
+   "D. C. Somervell, A Short History of Our Religion, from Moses to the present day (London: G. Bell, 1922)"
+  ],
+  "southey-life-wesley": [
+   "lifeofwesleyrise0000sout_r0t7",
+   "Robert Southey, The Life of Wesley and the Rise and Progress of Methodism (London: Oxford UP, 1925)"
+  ],
+  "walker-africa-her-peoples": [
+   "africaherpeoples0000unse",
+   "F. Deaville Walker, Africa and Her Peoples (London: Church Missionary Society, 1927)"
+  ],
+  "abbott-bible-lessons": [
+   "biblelessons00abboiala",
+   "Edwin A. Abbott, Bible Lessons (London: Macmillan, 1871)"
+  ],
+  "cowper-olney-hymns-cowper": [
+   "olneyhymnsinthre00cowpuoft",
+   "John Newton and William Cowper, Olney Hymns, in three books, intro. James Montgomery (Glasgow: W. Collins, 1840)"
+  ],
+  "smyth-old-documents-new": [
+   "olddocumentsnew00smyt",
+   "J. Paterson Smyth, The Old Documents and the New Bible (London: S. Bagster, 1890)"
+  ],
+  "stephen-essays-ecclesiastical-biography": [
+   "essaysinecclesia01stepuoft",
+   "Sir James Stephen, Essays in Ecclesiastical Biography (London: Longmans, Green, 1907)"
+  ],
+  "crum-what-mean-ye": [
+   "bwb_KU-427-647",
+   "J. M. C. Crum, 'What Mean Ye by These Stones?' (London: Macmillan, 1926)"
+  ]
+ },
+ "_identity_checked": {
+  "barbauld-hymns-prose-children": {
+   "author": "title page: '[Hymns in Prose for Children] by the author of Lessons for Children ... John Murray, Albemarle St, 1866'; Barbauld's name is not printed",
+   "title": "same title page"
+  }
+ },
+ "_rights_checked": {
+  "ae-baker-christianity-science-twentieth": "title page 1930, preface dated Michaelmas Day, 1930: published 1930, PD under the 1930 rule",
+  "duncan-accuracy-old-testament": "SPCK, 1930 (the latest date in the book is 1930): published 1930, PD under the 1930 rule"
+ },
+ "_checks": {
+  "glover-jesus-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "glover",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "campbell-prayer-book-church": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hume campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "barbauld-hymns-prose-children": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hardwich-old-testament-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hardwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hardwich-old-testament-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hardwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hardwich-old-testament-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hardwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hardwich-old-testament-history-4": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hardwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hardwich-old-testament-history-5": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hardwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hollis-land-incarnation": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hollis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "masterman-sunday-collects-sunday": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "masterman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "masterman-sunday-collects-sunday-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "masterman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moulton-bible-stories-old": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "moulton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seth-smith-firebrand-indies-francis": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "seth-smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "[1922]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shipley-english-church-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "shipley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shipley-english-church-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "shipley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smyth-how-we-got": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smyth-story-st-paul": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanley-sinai-palestine": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stock-lessons-life-our": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "stock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "westcott-essays-history-religious": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "westcott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackay-story-life-mackay": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mackay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ae-baker-christianity-science-twentieth": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "a. e. baker",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page 1930, preface dated Michaelmas Day, 1930: published 1930, PD under the 1930 rule"
+  },
+  "dawson-lion-hearted": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "canton-st-elizabeth-hungary": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "canton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[191-?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dummelow-one-volume-bible": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "dummelow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lloyd-dayspring-uganda": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montefiore-bible-home-reading": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "montefiore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montefiore-bible-home-reading-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "montefiore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neil-everyday-life-holy": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "neil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "padwick-mackay-great-lake": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "padwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "romanes-how-use-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smyth-how-read-bible": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-land-book-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-land-book-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waddy-homes-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "waddy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dearmer-lessons-way": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "dearmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duncan-accuracy-old-testament": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "duncan",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "SPCK, 1930 (the latest date in the book is 1930): published 1930, PD under the 1930 rule"
+  },
+  "grierson-northumbrian-saints": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "grierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knox-acts-apostles-notes": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "merrill-galilee-time-christ": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "merrill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selfe-work-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "selfe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-bible-young-bible": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "somervell-short-history-our": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "somervell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "southey-life-wesley": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "southey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walker-africa-her-peoples": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abbott-bible-lessons": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowper-olney-hymns-cowper": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "cowper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-old-documents-new": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stephen-essays-ecclesiastical-biography": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "crum-what-mean-ye": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "crum",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

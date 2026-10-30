@@ -1,0 +1,52 @@
+{
+ "_about": "Enuma Elish: L. W. King, The Seven Tablets of Creation (Luzac, 1902), two volumes: vol. 1 the English translations, vol. 2 the supplementary texts. Raw IA OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "L. W. King (tr.)",
+ "_name_words": [
+  "king",
+  "leonard",
+  "william"
+ ],
+ "_surname": [
+  "l. w. king",
+  "leonard william king",
+  "l w king"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "enuma-elish-king-1": [
+   "the-seven-tablets-of-creation.-vol.-1",
+   "The Seven Tablets of Creation, vol. 1 (1902)",
+   "The seven tablets of creation. Vol. 1_djvu.txt"
+  ],
+  "enuma-elish-king-2": [
+   "seventabletsofcr02kinguoft",
+   "The Seven Tablets of Creation, vol. 2 (1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "enuma-elish-king-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. w. king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "enuma-elish-king-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. w. king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

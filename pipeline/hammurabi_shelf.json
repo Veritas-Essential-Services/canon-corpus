@@ -1,0 +1,36 @@
+{
+ "_about": "The Code of Hammurabi, tr. C. H. W. Johns, The Oldest Code of Laws in the World (1903). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Hammurabi",
+ "_name_words": [
+  "hammurabi"
+ ],
+ "_surname": [
+  "hammurabi"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hammurabi-code-johns": [
+   17150,
+   "The Oldest Code of Laws in the World, tr. C. H. W. Johns (1903)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "hammurabi-code-johns": "Johns"
+ },
+ "_checks": {
+  "hammurabi-code-johns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hammurabi",
+   "translator_claimed": "Johns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. H. W. Johns",
+   "translator_match": true
+  }
+ }
+}

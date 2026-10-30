@@ -1,0 +1,31 @@
+{
+ "_about": "Margery Williams's (1881-1944) The Velveteen Rabbit. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Margery Williams",
+ "_name_words": [
+  "margery",
+  "williams"
+ ],
+ "_surname": [
+  "margery williams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "margery-williams-velveteen-rabbit": [
+   11757,
+   "The Velveteen Rabbit (1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "margery-williams-velveteen-rabbit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margery williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "_about": "R. W. Emerson's (1803-1882) Essays, First and Second Series (Self-Reliance is in the First). Not the `emerson` shelf (P. H. Emerson, Welsh fairy tales). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Ralph Waldo Emerson",
+ "_name_words": [
+  "ralph",
+  "waldo",
+  "emerson"
+ ],
+ "_surname": [
+  "ralph waldo emerson",
+  "emerson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rwemerson-essays-first": [
+   2944,
+   "Essays, First Series (1841)"
+  ],
+  "rwemerson-essays-second": [
+   2945,
+   "Essays, Second Series (1844)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "rwemerson-essays-first": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwemerson-essays-second": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

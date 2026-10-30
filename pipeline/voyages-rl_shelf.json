@@ -1,0 +1,115 @@
+{
+ "_about": "True voyages and travels on Callihan's list. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "various",
+ "_name_words": [
+  "joshua",
+  "slocum",
+  "dana",
+  "mandeville",
+  "batuta",
+  "battuta",
+  "lee"
+ ],
+ "_surname": [
+  "slocum"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "slocum-sailing-alone": [
+   6317,
+   "Joshua Slocum, Sailing Alone Around the World (1900)"
+  ],
+  "dana-two-years-before-the-mast": [
+   2055,
+   "Richard Henry Dana Jr., Two Years Before the Mast (1840)"
+  ],
+  "mandeville-travels": [
+   782,
+   "The Travels of Sir John Mandeville (the 1900 Macmillan modernised text of the Cotton version)"
+  ]
+ },
+ "internet_archive": {
+  "ibn-batuta-lee-1829": [
+   "in.ernet.dli.2015.132127",
+   "The Travels of Ibn Batuta, tr. Samuel Lee (Oriental Translation Committee, 1829)",
+   "2015.132127.The-Travels-Of-Ibn-Batuta_djvu.txt"
+  ],
+  "brendaniana-1893": [
+   "brendanianastbr00odogoog",
+   "Brendaniana: St. Brendan the Voyager in Story and Legend, Denis O'Donoghue (1893), with the Navigatio in English"
+  ]
+ },
+ "_translators": {
+  "ibn-batuta-lee-1829": "Lee"
+ },
+ "_surname_by_slug": {
+  "slocum-sailing-alone": [
+   "slocum"
+  ],
+  "dana-two-years-before-the-mast": [
+   "dana"
+  ],
+  "mandeville-travels": [
+   "mandeville"
+  ],
+  "ibn-batuta-lee-1829": [
+   "batuta"
+  ],
+  "brendaniana-1893": [
+   "brendan"
+  ]
+ },
+ "_checks": {
+  "slocum-sailing-alone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "slocum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dana-two-years-before-the-mast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mandeville-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mandeville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibn-batuta-lee-1829": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "batuta",
+   "translator_claimed": "Lee",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brendaniana-1893": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "brendan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "_about": "Einhard's Life of Charlemagne and Notker's (the Monk of St Gall's), tr. A. J. Grant (1922). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Einhard and Notker the Stammerer",
+ "_name_words": [
+  "einhard",
+  "eginhard",
+  "notker"
+ ],
+ "_surname": [
+  "eginhard",
+  "einhard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "einhard-notker-lives-of-charlemagne": [
+   48870,
+   "Early Lives of Charlemagne by Eginhard and the Monk of St Gall, tr. A. J. Grant (1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "einhard-notker-lives-of-charlemagne": "Grant"
+ },
+ "_checks": {
+  "einhard-notker-lives-of-charlemagne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eginhard",
+   "translator_claimed": "Grant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. J. Grant",
+   "translator_match": true
+  }
+ }
+}

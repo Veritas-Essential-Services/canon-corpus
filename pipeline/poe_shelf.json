@@ -1,0 +1,86 @@
+{
+ "_about": "Poe's (1809-1849) tales and poems: the five-volume Raven Edition of the Works on Gutenberg. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Edgar Allan Poe",
+ "_name_words": [
+  "edgar",
+  "allan",
+  "poe"
+ ],
+ "_surname": [
+  "edgar allan poe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "poe-works-1": [
+   2147,
+   "The Works of Edgar Allan Poe, Raven Edition, vol. 1"
+  ],
+  "poe-works-2": [
+   2148,
+   "The Works of Edgar Allan Poe, Raven Edition, vol. 2"
+  ],
+  "poe-works-3": [
+   2149,
+   "The Works of Edgar Allan Poe, Raven Edition, vol. 3"
+  ],
+  "poe-works-4": [
+   2150,
+   "The Works of Edgar Allan Poe, Raven Edition, vol. 4"
+  ],
+  "poe-works-5": [
+   2151,
+   "The Works of Edgar Allan Poe, Raven Edition, vol. 5"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "poe-raven-single": "PG 25525 is the same Raven Edition in one file; the five volumes are kept"
+ },
+ "_checks": {
+  "poe-works-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-works-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-works-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-works-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

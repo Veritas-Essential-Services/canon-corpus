@@ -23,3 +23,6 @@ data/lemmas/whitaker-la/lemmas.jsonl
 build/
 data/press/
 data/corpus/press/
+
+# Short pieces cut from their collections (pipeline/extract_short_pieces.py); rebuildable.
+data/shorts/

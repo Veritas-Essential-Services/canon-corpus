@@ -1,0 +1,39 @@
+{
+ "_about": "St. Anselm: Proslogium, Monologium, Gaunilo's In Behalf of the Fool, and Cur Deus Homo, tr. S. N. Deane (Open Court, 1903). Raw IA OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Anselm of Canterbury",
+ "_name_words": [
+  "anselm",
+  "of",
+  "canterbury"
+ ],
+ "_surname": [
+  "anselm"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "anselm-deane-1903": [
+   "stanselmproslogi0000sidn_f7a2",
+   "St. Anselm: Proslogium; Monologium; Cur Deus Homo, tr. S. N. Deane (1903)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "anselm-deane-1903": "Deane"
+ },
+ "_checks": {
+  "anselm-deane-1903": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anselm",
+   "translator_claimed": "Deane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "_about": "Belloc's How the Reformation Happened (1928), on Pudewa's list, as an Internet Archive scan of the first edition. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "Hilaire Belloc",
+ "_name_words": [
+  "hilaire",
+  "belloc"
+ ],
+ "_surname": [
+  "belloc"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "belloc-how-the-reformation-happened": [
+   "howreformationha0000hila_c2u8",
+   "How the Reformation Happened (1928)"
+  ]
+ },
+ "_excluded": {
+  "belloc-joan-of-arc": "Joan of Arc (1929): the only open Internet Archive copy (joan-of-arc-by-hilaire-belloc) is a retyped text with no title page, so its edition cannot be checked. Left out until a scan of the 1929 printing turns up."
+ },
+ "_checks": {
+  "belloc-how-the-reformation-happened": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "belloc",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

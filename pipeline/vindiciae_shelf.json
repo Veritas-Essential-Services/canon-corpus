@@ -1,0 +1,35 @@
+{
+ "_about": "Vindiciae contra Tyrannos (1579), attributed to Hubert Languet or Philippe Duplessis-Mornay under the name Junius Brutus: A Defence of Liberty against Tyrants, the English translation of 1689 reprinted with an introduction by Harold J. Laski (London: G. Bell, 1924). US public domain as published in 1924; Laski died 1950, so his introduction is UK copyright until 2020 and is now free there too. IA scan, raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Junius Brutus (Languet or Duplessis-Mornay)",
+ "_name_words": [
+  "junius",
+  "brutus",
+  "laski",
+  "languet"
+ ],
+ "_surname": [
+  "laski"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vindiciae-laski-1924": [
+   "defenceofliberty0000lang",
+   "A Defence of Liberty against Tyrants (Vindiciae contra Tyrannos), intro. Laski (1924)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "vindiciae-laski-1924": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laski",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

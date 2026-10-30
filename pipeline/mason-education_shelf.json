@@ -1,0 +1,221 @@
+{
+ "_about": "The House of Education's teacher-training reading: Herbart, Rein, Rooper, Fouillée, Creighton, Coleridge's essay on method. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "acland",
+  "adams",
+  "alfred",
+  "carpenter",
+  "coleridge",
+  "creighton",
+  "dyke",
+  "fouillee",
+  "fouillée",
+  "john",
+  "mandell",
+  "rein",
+  "rooper",
+  "sir",
+  "thomas",
+  "thomson",
+  "william",
+  "woodward"
+ ],
+ "_surname_by_slug": {
+  "acland-knowledge-duty-faith": [
+   "acland"
+  ],
+  "adams-herbartian-psychology-applied": [
+   "adams",
+   "john adams"
+  ],
+  "creighton-thoughts-education": [
+   "creighton",
+   "mandell creighton"
+  ],
+  "rein-outlines-pedagogics": [
+   "rein",
+   "w. rein"
+  ],
+  "coleridge-essays-method-treatise": [
+   "coleridge",
+   "s. t. coleridge"
+  ],
+  "fouillee-education-national-standpoint": [
+   "fouillée",
+   "fouillee"
+  ],
+  "rooper-educational-studies-addresses": [
+   "rooper",
+   "t. g. rooper"
+  ],
+  "carpenter-principles-mental-physiology": [
+   "carpenter",
+   "william b. carpenter"
+  ],
+  "thomson-outline-necessary-laws": [
+   "thomson",
+   "william thomson"
+  ],
+  "woodward-vittorino-da-feltre": [
+   "woodward",
+   "w. h. woodward"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "acland-knowledge-duty-faith": [
+   "knowledgedutyand00aclauoft",
+   "Sir Thomas Dyke Acland, Knowledge, Duty, and Faith: Suggestions for the Study of Principles Taught by Typical Thinkers, London: Kegan Paul, 1896"
+  ],
+  "adams-herbartian-psychology-applied": [
+   "herbartianpsycho00adamiala",
+   "John Adams, The Herbartian Psychology Applied to Education (Boston: D. C. Heath, 1897)"
+  ],
+  "creighton-thoughts-education": [
+   "thoughtsoneducat00creiuoft",
+   "Mandell Creighton, Thoughts on Education: Speeches and Sermons, ed. Louise Creighton (London: Longmans, Green, 1902)"
+  ],
+  "rein-outlines-pedagogics": [
+   "outlinesofpedago00rein",
+   "W. Rein, Outlines of Pedagogics, tr. C. C. and Ida J. Van Liew (London: Swan Sonnenschein, 1893)"
+  ],
+  "coleridge-essays-method-treatise": [
+   "generalintroduct00cole",
+   "S. T. Coleridge, General Introduction; or, A Preliminary Treatise on Method (Encyclopaedia Metropolitana; London: B. Fellowes, 1818)"
+  ],
+  "fouillee-education-national-standpoint": [
+   "educationfromnat00fouiuoft",
+   "Alfred Fouillee, Education from a National Standpoint, tr. W. J. Greenstreet (New York: Appleton, 1892)"
+  ],
+  "rooper-educational-studies-addresses": [
+   "educationalstudi00rooprich",
+   "T. G. Rooper, Educational Studies and Addresses (London: Blackie, 1902)"
+  ],
+  "carpenter-principles-mental-physiology": [
+   "principlesofment00carprich",
+   "William B. Carpenter, Principles of Mental Physiology (London: H. S. King, 1876, 4th ed.)"
+  ],
+  "thomson-outline-necessary-laws": [
+   "outlineofnecessa00thomuoft",
+   "William Thomson, An Outline of the Necessary Laws of Thought (New York: Sheldon, 1863)"
+  ],
+  "woodward-vittorino-da-feltre": [
+   "vittorinodafeltr00woodiala",
+   "W. H. Woodward, Vittorino da Feltre and Other Humanist Educators (Cambridge: University Press, 1897)"
+  ]
+ },
+ "_checks": {
+  "acland-knowledge-duty-faith": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "acland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adams-herbartian-psychology-applied": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "creighton-thoughts-education": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rein-outlines-pedagogics": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "rein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coleridge-essays-method-treatise": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "coleridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fouillee-education-national-standpoint": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fouillee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "c1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rooper-educational-studies-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "rooper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carpenter-principles-mental-physiology": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carpenter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomson-outline-necessary-laws": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woodward-vittorino-da-feltre": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "woodward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

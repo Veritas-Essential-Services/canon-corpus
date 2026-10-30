@@ -1,0 +1,111 @@
+{
+ "_about": "The Papers and Writings of Abraham Lincoln, ed. Arthur Brooks Lapsley (Constitutional Edition, 1905), vols 1-7: speeches, letters, the Lincoln-Douglas debates, the Gettysburg Address and both inaugurals. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Abraham Lincoln",
+ "_name_words": [
+  "abraham",
+  "lincoln",
+  "papers",
+  "writings"
+ ],
+ "_surname": [
+  "abraham lincoln"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lincoln-papers-1": [
+   2653,
+   "The Papers and Writings of Abraham Lincoln, vol. 1, ed. Lapsley (1905)"
+  ],
+  "lincoln-papers-2": [
+   2654,
+   "The Papers and Writings of Abraham Lincoln, vol. 2, ed. Lapsley (1905)"
+  ],
+  "lincoln-papers-3": [
+   2655,
+   "The Papers and Writings of Abraham Lincoln, vol. 3, ed. Lapsley (1905)"
+  ],
+  "lincoln-papers-4": [
+   2656,
+   "The Papers and Writings of Abraham Lincoln, vol. 4, ed. Lapsley (1905)"
+  ],
+  "lincoln-papers-5": [
+   2657,
+   "The Papers and Writings of Abraham Lincoln, vol. 5, ed. Lapsley (1905)"
+  ],
+  "lincoln-papers-6": [
+   2658,
+   "The Papers and Writings of Abraham Lincoln, vol. 6, ed. Lapsley (1905)"
+  ],
+  "lincoln-papers-7": [
+   2659,
+   "The Papers and Writings of Abraham Lincoln, vol. 7, ed. Lapsley (1905)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lincoln-papers-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abraham lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lincoln-papers-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abraham lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lincoln-papers-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abraham lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lincoln-papers-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abraham lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lincoln-papers-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abraham lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lincoln-papers-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abraham lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lincoln-papers-7": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abraham lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

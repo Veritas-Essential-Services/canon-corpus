@@ -1,0 +1,32 @@
+{
+ "_about": "Dorothy Canfield Fisher's (1879-1958) Understood Betsy. US PD (1917); UK copyright runs to 2029. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Dorothy Canfield Fisher",
+ "_name_words": [
+  "dorothy",
+  "canfield",
+  "fisher"
+ ],
+ "_surname": [
+  "dorothy canfield"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dcfisher-understood-betsy": [
+   5347,
+   "Understood Betsy (1917)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "dcfisher-understood-betsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

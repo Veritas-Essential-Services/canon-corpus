@@ -1,0 +1,73 @@
+{
+ "_about": "Golden-age detective novels that Heidi White's and Angelina Stanford's lists assign, all US public domain by publication date (1920-1930). Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "various",
+ "_name_words": [
+  "agatha",
+  "christie",
+  "dashiell",
+  "hammett",
+  "dorothy",
+  "sayers"
+ ],
+ "_surname": [
+  "christie",
+  "hammett",
+  "sayers"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "christie-mysterious-affair-at-styles": [
+   863,
+   "Agatha Christie, The Mysterious Affair at Styles (1920)"
+  ],
+  "hammett-maltese-falcon": [
+   77600,
+   "Dashiell Hammett, The Maltese Falcon (1930)"
+  ],
+  "sayers-strong-poison": [
+   78157,
+   "Dorothy L. Sayers, Strong Poison (1930)"
+  ]
+ },
+ "internet_archive": {},
+ "_surname_by_slug": {
+  "christie-mysterious-affair-at-styles": [
+   "christie"
+  ],
+  "hammett-maltese-falcon": [
+   "hammett"
+  ],
+  "sayers-strong-poison": [
+   "sayers"
+  ]
+ },
+ "_checks": {
+  "christie-mysterious-affair-at-styles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hammett-maltese-falcon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hammett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayers-strong-poison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sayers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

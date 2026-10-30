@@ -1,0 +1,31 @@
+{
+ "_about": "Edward Lear, Nonsense Books: A Book of Nonsense, Nonsense Songs, More Nonsense and the rest. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Edward Lear",
+ "_name_words": [
+  "edward",
+  "lear"
+ ],
+ "_surname": [
+  "edward lear"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lear-nonsense-books": [
+   13650,
+   "Nonsense Books"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lear-nonsense-books": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward lear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

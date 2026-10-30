@@ -1,0 +1,49 @@
+{
+ "_about": "James Baldwin's other story readers: Thirty More Famous Stories Retold (1905) and Old Stories of the East (1896); IA scans, raw OCR. Fifty Famous Stories Retold is on Lane D's `baldwin` shelf. Added for the short-pieces section (docs/short-pieces/): the readers and anthologies that hold the poems, stories and speeches classical and Christian curricula assign.",
+ "_author": "James Baldwin",
+ "_name_words": [
+  "james",
+  "baldwin"
+ ],
+ "_surname": [
+  "james baldwin",
+  "baldwin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "baldwin-thirty-more-famous-stories": [
+   "thirtymorefamous00bald_0",
+   "Thirty More Famous Stories Retold (1905)"
+  ],
+  "baldwin-old-stories-of-the-east": [
+   "oldstoriesofeast00baldrich",
+   "Old Stories of the East (1896)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "baldwin-thirty-more-famous-stories": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "baldwin-old-stories-of-the-east": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "c1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

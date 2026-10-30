@@ -1,0 +1,31 @@
+{
+ "_about": "Upton Sinclair, The Jungle (1906). US public domain; Sinclair died 1968, so UK copyright runs to 2038. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Upton Sinclair",
+ "_name_words": [
+  "upton",
+  "sinclair"
+ ],
+ "_surname": [
+  "upton sinclair"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "upton-sinclair-the-jungle": [
+   140,
+   "The Jungle (1906)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "upton-sinclair-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "upton sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
