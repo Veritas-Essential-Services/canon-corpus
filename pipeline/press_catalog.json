@@ -1,0 +1,1600 @@
+{
+ "_about": "The Puritan classics the Press sets as publish-ready books. 'Best-selling' was read from the publishers' own lists, not from Amazon (Amazon's pages refuse automated reads, and per-edition sales ranks there were scattered: one search showed Owen's Mortification at #27,054 in Books, a modern-English Rare Jewel at #38,497, the Banner Precious Remedies at #624,159). Tier 1 is Banner of Truth's Puritan Classics box set (15 titles: Banner's own best-of the Puritan Paperbacks, the best-selling Puritan series); tier 2 the rest of the 62 Puritan Paperbacks; tier 3 Reformation Heritage Books' Puritan Treasures for Today (22 titles). Lists read 2026-10-03 from banneroftruth.org/us/store/series/puritan-paperbacks/ and heritagebooks.org. RULE: the modern edition is only the pointer. Every book is set from its original public-domain edition; a modern publisher's abridgement, updated wording, selection, introduction or notes is never copied.",
+ "sets": {
+  "banner-puritan-classics-box": "Banner of Truth, Puritan Classics Box Set (10 vols, 15 titles, intro booklet by Sinclair B. Ferguson)",
+  "banner-pp": "Banner of Truth, Puritan Paperbacks (62 volumes in the complete set)",
+  "rhb-puritan-treasures": "Reformation Heritage Books, Puritan Treasures for Today (22 volumes)"
+ },
+ "titles": {
+  "sibbes-bruised-reed": {
+   "author": "Richard Sibbes",
+   "banner_title": "The Bruised Reed",
+   "title": "The Bruised Reed and Smoking Flax",
+   "first_published": "1630",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "sibbes",
+    "volume": "sibbes-works-grosart-1",
+    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 1",
+    "leaves": [
+     176,
+     244
+    ],
+    "first_edition_witness": {
+     "tcp": "A12171",
+     "printed": "1630",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   }
+  },
+  "rutherford-letters": {
+   "author": "Samuel Rutherford",
+   "banner_title": "Letters of Samuel Rutherford (a selection)",
+   "title": "Letters of Samuel Rutherford",
+   "first_published": "1664",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 42557,
+    "edition": "Letters of Samuel Rutherford, ed. Andrew A. Bonar (3rd ed., 1891; Project Gutenberg 42557)"
+   },
+   "note": "Banner's volume is a 1973 SELECTION with a modern foreword (both in copyright). The Press sets Bonar's complete edition (PD), never the selection. CCEL's 'A Selection from his Letters' looks like that modern selection and is not used.",
+   "scan": {
+    "ia": "lettersofsamuelr00ruth",
+    "note": "Bonar's edition, 1891 printing"
+   }
+  },
+  "rutherford-loveliness": {
+   "author": "Samuel Rutherford",
+   "banner_title": "The Loveliness of Christ",
+   "title": "The Loveliness of Christ: extracts from the letters",
+   "first_published": "1909",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "same_as",
+    "slug": "rutherford-letters",
+    "why": "The Loveliness of Christ is a 1909 compilation of short extracts from Rutherford's letters (Ellen S. Lister). Every extract is in Bonar's edition of the Letters, which the Press sets in full; no scan of the 1909 printing was found on archive.org (searched 2026-10-03), and the compiler's selection, not Rutherford's words, is all it would add."
+   }
+  },
+  "bridge-lifting-up": {
+   "author": "William Bridge",
+   "banner_title": "A Lifting Up for the Downcast",
+   "title": "A Lifting Up for the Downcast",
+   "first_published": "1649",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "william-bridge",
+    "volume": "wbridge-works-2",
+    "edition": "The Works of the Rev. William Bridge (London: Thomas Tegg, 1845), vol. 2",
+    "leaves": [
+     8,
+     286
+    ],
+    "first_edition_witness": {
+     "tcp": "A29371",
+     "printed": "1656",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   }
+  },
+  "burroughs-rare-jewel": {
+   "author": "Jeremiah Burroughs",
+   "banner_title": "The Rare Jewel of Christian Contentment",
+   "title": "The Rare Jewel of Christian Contentment",
+   "first_published": "1648",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A30598",
+    "edition": "The Rare Jewel of Christian Contentment (London: Peter Cole, 1649), the first edition (Wing B6103)",
+    "note": "Later printings (1651 on) were reset; whether they differ in substance from 1649 is not yet checked."
+   }
+  },
+  "brooks-precious-remedies": {
+   "author": "Thomas Brooks",
+   "banner_title": "Precious Remedies Against Satan's Devices",
+   "title": "Precious Remedies Against Satan's Devices",
+   "first_published": "1652",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "brooks",
+    "volume": "brooks-works-grosart-1",
+    "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 1",
+    "leaves": [
+     89,
+     253
+    ],
+    "titlepage": {
+     "leaf": 89,
+     "from": "^P[ER]{2}CIOUS$"
+    },
+    "first_edition_witness": {
+     "tcp": "A77614",
+     "printed": "1658",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   }
+  },
+  "baxter-reformed-pastor": {
+   "author": "Richard Baxter",
+   "banner_title": "The Reformed Pastor",
+   "title": "The Reformed Pastor (Gildas Salvianus)",
+   "first_published": "1656",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "b/baxter/pastor",
+    "edition": "The Reformed Pastor, abridged by William Brown (1829), the text Banner itself reprints"
+   },
+   "note": "Brown's 1829 abridgement is PD and is the basis of Banner's edition. Baxter's full text is in Orme's Practical Works, vol. 14 (shelf baxter-works-orme-14) for a later unabridged setting."
+  },
+  "watson-godly-mans-picture": {
+   "author": "Thomas Watson",
+   "banner_title": "The Godly Man's Picture",
+   "title": "The Godly Man's Picture Drawn with a Scripture Pencil",
+   "first_published": "1666",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A65296",
+    "edition": "The Godly Man's Picture, Drawn with a Scripture-Pensil (London, 1666), the first edition (Wing W1124)"
+   }
+  },
+  "watson-repentance": {
+   "author": "Thomas Watson",
+   "banner_title": "The Doctrine of Repentance",
+   "title": "The Doctrine of Repentance",
+   "first_published": "1668",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A65293",
+    "edition": "The Doctrine of Repentance, Useful for These Times (London, 1668), the first edition (Wing W1122)"
+   }
+  },
+  "watson-all-things-for-good": {
+   "author": "Thomas Watson",
+   "banner_title": "All Things for Good",
+   "title": "A Divine Cordial",
+   "first_published": "1663",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "w/watson/cordial",
+    "edition": "A Divine Cordial (London: Thomas Parkhurst, 1663), CCEL transcription",
+    "first_edition_witness": {
+     "tcp": "A65292",
+     "printed": "1663, as A Divine Cordial",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   }
+  },
+  "flavel-mystery-of-providence": {
+   "author": "John Flavel",
+   "banner_title": "The Mystery of Providence",
+   "title": "Divine Conduct: or, The Mystery of Providence",
+   "first_published": "1678",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "flavel",
+    "volume": "flavel-works-1820-04",
+    "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 4 (University of Toronto scan; the volume's other scan, wholeworksofjohn04flav, had no OCR file on archive.org on 2026-10-03)",
+    "ia": "wholeworkstowhic04flavuoft",
+    "leaves": [
+     342,
+     502
+    ],
+    "titlepage": {
+     "leaf": 342,
+     "from": "^DIVINE CONDUCT",
+     "until": "^THE EPISTLE DEDICATORY"
+    },
+    "first_edition_witness": {
+     "tcp": "A39659",
+     "printed": "1678",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   }
+  },
+  "flavel-facing-grief": {
+   "author": "John Flavel",
+   "banner_title": "Facing Grief",
+   "title": "A Token for Mourners",
+   "first_published": "1674",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "flavel",
+    "volume": "flavel-works-1820-05",
+    "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 5",
+    "leaves": [
+     610,
+     672
+    ],
+    "start": "^A$",
+    "first_edition_witness": {
+     "tcp": "A39690",
+     "printed": "1674, as A Token for Mourners",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   }
+  },
+  "alleine-sure-guide": {
+   "author": "Joseph Alleine",
+   "banner_title": "A Sure Guide to Heaven",
+   "title": "An Alarm to Unconverted Sinners",
+   "first_published": "1671",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "edition": "An Alarm to Unconverted Sinners (Glasgow: Chalmers and Collins, 1824, second edition; Collins's Select Christian Authors). Andrew Thomson's introductory essay is not set.",
+    "leaves": [
+     59,
+     382
+    ],
+    "ia": "alarmtounconvert00alle",
+    "end": "^FINIS",
+    "titlepage": {
+     "leaf": 11,
+     "from": "^AN$"
+    },
+    "refused": "The relay shelf's scan (American Tract Society, 1834) says on its contents page: 'In this Edition some obsolete words and phrases are altered, and a few passages omitted.' An altered text is not the author's, so it is not used.",
+    "first_edition_witness": {
+     "tcp": "A26695",
+     "printed": "1688, as A Sure Guide to Heaven; also A26682, the 1672 Alarme",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   }
+  },
+  "bunyan-prayer": {
+   "author": "John Bunyan",
+   "banner_title": "Prayer",
+   "title": "I Will Pray with the Spirit (A Discourse Touching Prayer)",
+   "first_published": "1662",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 6046,
+    "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
+    "extract": "I WILL PRAY WITH THE SPIRIT",
+    "modernised": "The Project Gutenberg transcription is not Offor's text letter for letter. Collated against a scan of his edition, it departs from the printed page in places: it reads “teach” where Offor prints “learn” (Bunyan's sense, to teach), “verminous” for “lousy”, and differs in spellings such as shewed/showed and fullness/fulness. Where the scan's own OCR and a fresh reading of the page agree, Offor's reading is restored and listed among the corrections below; the remaining differences are on the book's proof sheet for a person to settle. Scripture references are left in the transcription's form."
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
+   }
+  },
+  "perkins-art-of-prophesying": {
+   "author": "William Perkins",
+   "banner_title": "The Art of Prophesying",
+   "title": "The Arte of Prophecying",
+   "first_published": "1607",
+   "sets": [
+    "banner-pp",
+    "banner-puritan-classics-box"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A09449",
+    "edition": "The Arte of Prophecying, written in Latin by William Perkins and translated by Thomas Tuke (London: Felix Kyngston, 1607; STC 19735.4)",
+    "note": "Tuke's 1607 English, not Banner's modern translation (in copyright)."
+   }
+  },
+  "owen-mortification": {
+   "author": "John Owen",
+   "banner_title": "The Mortification of Sin",
+   "title": "Of the Mortification of Sin in Believers",
+   "first_published": "1656",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/mort",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 6, CCEL transcription",
+    "first_edition_witness": {
+     "tcp": "A53715",
+     "printed": "1668",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-06"
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "owen-temptation": {
+   "author": "John Owen",
+   "banner_title": "Temptation: Resisted and Repulsed",
+   "title": "Of Temptation: The Nature and Power of It",
+   "first_published": "1658",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/temptation",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 6, CCEL transcription"
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-06"
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "owen-indwelling-sin": {
+   "author": "John Owen",
+   "banner_title": "Indwelling Sin in Believers",
+   "title": "The Nature, Power, Deceit, and Prevalency of Indwelling Sin in Believers",
+   "first_published": "1667",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/indwellingsin",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 6, CCEL transcription"
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-06"
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "owen-glory-of-christ": {
+   "author": "John Owen",
+   "banner_title": "The Glory of Christ",
+   "title": "Meditations and Discourses on the Glory of Christ",
+   "first_published": "1684",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A53707",
+    "edition": "Meditations and Discourses concerning the Glory of Christ (London: William Marshall, 1691), the first printing of the complete work, with the two chapters added after Owen's death (EEBO-TCP A53707). The 1684 first printing of Part I was not keyed by EEBO-TCP.",
+    "scan_alternative": {
+     "shelf": "owen",
+     "volume": "owen-works-goold-01",
+     "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 1"
+    },
+    "refused": {
+     "kind": "ccel",
+     "path": "o/owen/glory",
+     "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 1, CCEL transcription",
+     "why": "Not Goold's text. CCEL keyed it from Banner of Truth's 1965 printing, and collation against the 1850 Goold scan (press_proof, 2026-10-03) shows the wording modernised throughout: 'has' for Goold's 'hath', 'does' for 'doth', 'would' for 'should', 'excellence' for 'excellency' (591 disagreements, against 0-68 confirmed errors in the other eight Owen titles from the same source). A modernised text is an editor's work, not Owen's."
+    }
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "owen-communion-with-god": {
+   "author": "John Owen",
+   "banner_title": "Communion with God",
+   "title": "Of Communion with God the Father, Son, and Holy Ghost",
+   "first_published": "1657",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/communion",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 2, CCEL transcription"
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-02"
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "owen-spiritual-mindedness": {
+   "author": "John Owen",
+   "banner_title": "Spiritual-Mindedness",
+   "title": "The Grace and Duty of Being Spiritually Minded",
+   "first_published": "1681",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/spirituallyminded",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 7, CCEL transcription"
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-07"
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "owen-apostasy": {
+   "author": "John Owen",
+   "banner_title": "Apostasy from the Gospel",
+   "title": "The Nature and Causes of Apostasy from the Gospel",
+   "first_published": "1676",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/apostasy",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 7, CCEL transcription"
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-07"
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "owen-christian-fellowship": {
+   "author": "John Owen",
+   "banner_title": "Duties of Christian Fellowship",
+   "title": "Eshcol: A Cluster of the Fruit of Canaan",
+   "first_published": "1648",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/eshcol",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 13, CCEL transcription"
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-13"
+   }
+  },
+  "owen-holy-spirit": {
+   "author": "John Owen",
+   "banner_title": "The Holy Spirit",
+   "title": "Pneumatologia: A Discourse Concerning the Holy Spirit",
+   "first_published": "1674",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "o/owen/pneum",
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vols. 3-4, CCEL transcription",
+    "proof_note": "The work runs across Goold vols. 3 and 4: the later books of the Pneumatologia (1677-1693) are printed in vol. 4. Each volume has its own proof sheet (owen-holy-spirit.md for vol. 3, owen-holy-spirit--owen-works-goold-04.md for vol. 4); against either alone, only that volume's share of the words aligns."
+   },
+   "scan": {
+    "shelf": "owen",
+    "volume": "owen-works-goold-03",
+    "more_volumes": [
+     "owen-works-goold-04"
+    ]
+   },
+   "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
+  },
+  "guthrie-great-interest": {
+   "author": "William Guthrie",
+   "banner_title": "The Christian's Great Interest",
+   "title": "The Christian's Great Interest",
+   "first_published": "1658",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ccel",
+    "path": "g/guthrie/interest2",
+    "edition": "The Christian's Great Interest (Glasgow: William Collins, 1828), CCEL transcription"
+   }
+  },
+  "bunyan-jerusalem-sinner": {
+   "author": "John Bunyan",
+   "banner_title": "The Jerusalem Sinner Saved",
+   "title": "The Jerusalem Sinner Saved; or, Good News for the Vilest of Men",
+   "first_published": "1688",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 3270,
+    "edition": "Project Gutenberg 3270 (from Offor's edition)",
+    "modernised": "The Project Gutenberg transcription is not Offor's text letter for letter. Collated against a scan of his edition, it departs from the printed page in places: it reads “teach” where Offor prints “learn” (Bunyan's sense, to teach), “verminous” for “lousy”, and differs in spellings such as shewed/showed and fullness/fulness. Where the scan's own OCR and a fresh reading of the page agree, Offor's reading is restored and listed among the corrections below; the remaining differences are on the book's proof sheet for a person to settle. Scripture references are left in the transcription's form."
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
+   }
+  },
+  "bunyan-come-and-welcome": {
+   "author": "John Bunyan",
+   "banner_title": "Come and Welcome to Jesus Christ",
+   "title": "Come and Welcome to Jesus Christ",
+   "first_published": "1678",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 6046,
+    "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
+    "extract": "COME AND WELCOME TO JESUS CHRIST",
+    "modernised": "The Project Gutenberg transcription is not Offor's text letter for letter. Collated against a scan of his edition, it departs from the printed page in places: it reads “teach” where Offor prints “learn” (Bunyan's sense, to teach), “verminous” for “lousy”, and differs in spellings such as shewed/showed and fullness/fulness. Where the scan's own OCR and a fresh reading of the page agree, Offor's reading is restored and listed among the corrections below; the remaining differences are on the book's proof sheet for a person to settle. Scripture references are left in the transcription's form."
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
+   }
+  },
+  "bunyan-fear-of-god": {
+   "author": "John Bunyan",
+   "banner_title": "The Fear of God",
+   "title": "A Treatise of the Fear of God",
+   "first_published": "1679",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 6046,
+    "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
+    "extract": "A TREATISE OF THE FEAR OF GOD",
+    "modernised": "The Project Gutenberg transcription is not Offor's text letter for letter. Collated against a scan of his edition, it departs from the printed page in places: it reads “teach” where Offor prints “learn” (Bunyan's sense, to teach), “verminous” for “lousy”, and differs in spellings such as shewed/showed and fullness/fulness. Where the scan's own OCR and a fresh reading of the page agree, Offor's reading is restored and listed among the corrections below; the remaining differences are on the book's proof sheet for a person to settle. Scripture references are left in the transcription's form."
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
+   }
+  },
+  "bunyan-acceptable-sacrifice": {
+   "author": "John Bunyan",
+   "banner_title": "The Acceptable Sacrifice",
+   "title": "The Acceptable Sacrifice; or, The Excellency of a Broken Heart",
+   "first_published": "1689",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 6046,
+    "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
+    "extract": "THE ACCEPTABLE SACRIFICE",
+    "modernised": "The Project Gutenberg transcription is not Offor's text letter for letter. Collated against a scan of his edition, it departs from the printed page in places: it reads “teach” where Offor prints “learn” (Bunyan's sense, to teach), “verminous” for “lousy”, and differs in spellings such as shewed/showed and fullness/fulness. Where the scan's own OCR and a fresh reading of the page agree, Offor's reading is restored and listed among the corrections below; the remaining differences are on the book's proof sheet for a person to settle. Scripture references are left in the transcription's form."
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
+   }
+  },
+  "bunyan-all-loves-excelling": {
+   "author": "John Bunyan",
+   "banner_title": "All Loves Excelling",
+   "title": "The Saints' Knowledge of Christ's Love; or, The Unsearchable Riches of Christ",
+   "first_published": "1692",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 6047,
+    "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 2 (Project Gutenberg 6047)",
+    "extract": "THE SAINTS' KNOWLEDGE OF CHRIST'S LOVE",
+    "modernised": "The Project Gutenberg transcription is not Offor's text letter for letter. Collated against a scan of his edition, it departs from the printed page in places: it reads “teach” where Offor prints “learn” (Bunyan's sense, to teach), “verminous” for “lousy”, and differs in spellings such as shewed/showed and fullness/fulness. Where the scan's own OCR and a fresh reading of the page agree, Offor's reading is restored and listed among the corrections below; the remaining differences are on the book's proof sheet for a person to settle. Scripture references are left in the transcription's form."
+   },
+   "scan": {
+    "ia": "worksofjohnbunya02buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 2"
+   }
+  },
+  "binning-christian-love": {
+   "author": "Hugh Binning",
+   "banner_title": "Christian Love",
+   "title": "A Treatise of Christian Love",
+   "first_published": "1743",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "gutenberg",
+    "id": 24238,
+    "edition": "The Works of the Rev. Hugh Binning (Project Gutenberg 24238)",
+    "extract": "A TREATISE OF CHRISTIAN LOVE",
+    "extract_end": "SEVERAL SERMONS UPON THE MOST IMPORTANT"
+   },
+   "scan": {
+    "ia": "worksofrevhughbi00binn",
+    "note": "The Works of the Rev. Hugh Binning (Edinburgh: Fullarton, 1851); which printing Project Gutenberg keyed is not stated, so the collation also tests that"
+   }
+  },
+  "sibbes-glorious-freedom": {
+   "author": "Richard Sibbes",
+   "banner_title": "Glorious Freedom",
+   "title": "The Excellency of the Gospel above the Law",
+   "first_published": "1639",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A12183",
+    "edition": "The Excellencie of the Gospell above the Law (London, 1639), the first edition (Wing/STC per EEBO-TCP A12183)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-4",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "sibbes-josiahs-reformation": {
+   "author": "Richard Sibbes",
+   "banner_title": "Josiah's Reformation",
+   "title": "Josiah's Reformation",
+   "first_published": "1629",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "sibbes",
+    "volume": "sibbes-works-grosart-6",
+    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 6",
+    "leaves": [
+     42,
+     105
+    ],
+    "contents": "Grosart prints Josiah's Reformation (1629) as four sermons on 2 Chron. 34:26-28: The Tender Heart, The Art of Self-Humbling, The Art of Mourning, The Saint's Refreshing (leaves 42-105, found with press_ocr.py --heads).",
+    "titlepage": {
+     "leaf": 43,
+     "from": "JOSIAHS REFORMATION"
+    }
+   }
+  },
+  "sibbes-glorious-feast": {
+   "author": "Richard Sibbes",
+   "banner_title": "The Glorious Feast of the Gospel",
+   "title": "The Glorious Feast of the Gospel",
+   "first_published": "1650",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A93248",
+    "edition": "The Glorious Feast of the Gospel (London, 1650), the first edition (Wing/STC per EEBO-TCP A93248)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-2",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "sibbes-love-of-christ": {
+   "author": "Richard Sibbes",
+   "banner_title": "The Love of Christ",
+   "title": "Bowels Opened: or, A Discovery of the Near and Dear Love, Union and Communion betwixt Christ and the Church",
+   "first_published": "1639",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A12167",
+    "edition": "Bowels Opened, or, A Discovery of the Neere and Deere Love, Union and Communion betwixt Christ and the Church (London, 1639), the first edition (EEBO-TCP A12167)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-2",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 2"
+    }
+   }
+  },
+  "sibbes-heavenly-conference": {
+   "author": "Richard Sibbes",
+   "banner_title": "A Heavenly Conference",
+   "title": "A Heavenly Conference between Christ and Mary after His Resurrection",
+   "first_published": "1654",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A93249",
+    "edition": "A Heavenly Conference between Christ and Mary after His Resurrection (London, 1654), the first edition (Wing/STC per EEBO-TCP A93249)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-6",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 6"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "brooks-ark-for-noahs": {
+   "author": "Thomas Brooks",
+   "banner_title": "An Ark for All God's Noahs",
+   "title": "An Ark for All God's Noahs in a Gloomy Stormy Day",
+   "first_published": "1662",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A29681",
+    "edition": "An Arke for All Gods Noahs in a Gloomy Stormy Day (London, 1662), the first edition (Wing/STC per EEBO-TCP A29681)",
+    "scan_alternative": {
+     "shelf": "brooks",
+     "volume": "brooks-works-grosart-2",
+     "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "brooks-secret-key": {
+   "author": "Thomas Brooks",
+   "banner_title": "The Secret Key to Heaven",
+   "title": "The Privy Key of Heaven",
+   "first_published": "1665",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A29703",
+    "edition": "The Privie Key of Heaven (London, 1665), the first edition (Wing/STC per EEBO-TCP A29703)",
+    "scan_alternative": {
+     "shelf": "brooks",
+     "volume": "brooks-works-grosart-2",
+     "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "brooks-heaven-on-earth": {
+   "author": "Thomas Brooks",
+   "banner_title": "Heaven on Earth",
+   "title": "Heaven on Earth: A Treatise on Christian Assurance",
+   "first_published": "1654",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A77608",
+    "edition": "Heaven on Earth, or, A Serious Discourse touching a Wel-Grounded Assurance (London, 1654), the first edition (Wing/STC per EEBO-TCP A77608)",
+    "scan_alternative": {
+     "shelf": "brooks",
+     "volume": "brooks-works-grosart-2",
+     "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "brooks-smooth-stones": {
+   "author": "Thomas Brooks",
+   "banner_title": "Smooth Stones Taken from Ancient Brooks",
+   "title": "Smooth Stones Taken from Ancient Brooks",
+   "first_published": "1860",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "an anthology (C. H. Spurgeon, 1860) of extracts from works the Press sets whole; PD, but a selection, not a Brooks title. Add later if wanted."
+   }
+  },
+  "flavel-preparations-sufferings": {
+   "author": "John Flavel",
+   "banner_title": "Preparations for Sufferings",
+   "title": "Preparation for Sufferings; or, The Best Work in the Worst Times",
+   "first_published": "1681",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "B36604",
+    "edition": "Preparation for Sufferings, or, The Best Work in the Worst Times (London, 1681) (Wing/STC per EEBO-TCP B36604)",
+    "scan_alternative": {
+     "shelf": "flavel",
+     "volume": "flavel-works-1820-06",
+     "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 6"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "goodwin-heart-of-christ": {
+   "author": "Thomas Goodwin",
+   "banner_title": "The Heart of Christ",
+   "title": "The Heart of Christ in Heaven towards Sinners on Earth",
+   "first_published": "1642",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A85428",
+    "texts": [
+     2
+    ],
+    "edition": "The Heart of Christ in Heaven, towards Sinners on Earth, printed with Christ Set Forth (London, 1642), the first edition (EEBO-TCP A85428)",
+    "scan_alternative": {
+     "shelf": "goodwin",
+     "volume": "goodwin-works-nichol-04",
+     "edition": "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-66), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; Nichol's vol. 4 is the other witness, not yet collated."
+   }
+  },
+  "goodwin-christ-set-forth": {
+   "author": "Thomas Goodwin",
+   "banner_title": "Christ Set Forth",
+   "title": "Christ Set Forth in His Death, Resurrection, Ascension, Sitting at God's Right Hand, and Intercession",
+   "first_published": "1642",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A85428",
+    "edition": "Christ Set Forth in His Death, Resurrection, Ascension, Sitting at Gods Right Hand (London, 1642), the first edition (Wing/STC per EEBO-TCP A85428)",
+    "scan_alternative": {
+     "shelf": "goodwin",
+     "volume": "goodwin-works-nichol-04",
+     "edition": "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-66), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated.",
+    "texts": [
+     1
+    ]
+   }
+  },
+  "boston-crook-in-the-lot": {
+   "author": "Thomas Boston",
+   "banner_title": "The Crook in the Lot",
+   "title": "The Crook in the Lot",
+   "first_published": "1737",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "boston",
+    "volume": "boston-works-03",
+    "edition": "The Whole Works of Thomas Boston, ed. Samuel M'Millan (Aberdeen: George and Robert King, 1848-52), vol. 3",
+    "leaves": [
+     509,
+     604
+    ],
+    "titlepage": {
+     "leaf": 509,
+     "from": "^S[O0][VYE]",
+     "until": "^TO THE READER"
+    },
+    "text_leaves": [
+     604
+    ]
+   },
+   "note": "CCEL's 'crook' is a MODERNISED rewrite (2000, 'savvy name' for 'good name'): never used."
+  },
+  "traill-select-writings": {
+   "author": "Robert Traill",
+   "banner_title": "Select Practical Writings of Robert Traill",
+   "title": "Select practical writings (a selection)",
+   "first_published": "1845",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a selection; the Press sets Traill's titles whole from his Works (shelf robert-traill)."
+   }
+  },
+  "traill-justification-vindicated": {
+   "author": "Robert Traill",
+   "banner_title": "Justification Vindicated",
+   "title": "A Vindication of the Protestant Doctrine concerning Justification",
+   "first_published": "1692",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A63051",
+    "edition": "A Vindication of the Protestant Doctrine concerning Justification (London, 1692), the first edition (Wing/STC per EEBO-TCP A63051)",
+    "scan_alternative": {
+     "shelf": "robert-traill",
+     "volume": "rtraill-works-1-2",
+     "edition": "The Works of the late Reverend Robert Traill (Edinburgh: Ogle, 1810), vols 1-2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "venning-sinfulness-of-sin": {
+   "author": "Ralph Venning",
+   "banner_title": "The Sinfulness of Sin",
+   "title": "Sin, the Plague of Plagues",
+   "first_published": "1669",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A64834",
+    "edition": "Sin, the Plague of Plagues, or, Sinful Sin the Worst of Evils (London, 1669), the first edition (Wing/STC per EEBO-TCP A64834)"
+   }
+  },
+  "venning-christs-school": {
+   "author": "Ralph Venning",
+   "banner_title": "Learning in Christ's School",
+   "title": "Christ's School",
+   "first_published": "1675",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A64811",
+    "edition": "Christ's School (London, 1675), the first edition (Wing/STC per EEBO-TCP A64811)"
+   }
+  },
+  "watson-lords-supper": {
+   "author": "Thomas Watson",
+   "banner_title": "The Lord's Supper",
+   "title": "The Holy Eucharist, or, The Mystery of the Lord's Supper Briefly Explained",
+   "first_published": "1668",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A65300",
+    "edition": "The Holy Eucharist, or, The Mystery of the Lord's Supper Briefly Explained (London, 1668), the first edition (EEBO-TCP A65300)"
+   }
+  },
+  "watson-heaven-taken-by-storm": {
+   "author": "Thomas Watson",
+   "banner_title": "Heaven Taken by Storm",
+   "title": "Heaven Taken by Storm",
+   "first_published": "1669",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A65299",
+    "edition": "Heaven Taken by Storm, or, The Holy Violence a Christian Is to Put Forth (London, 1670) (Wing/STC per EEBO-TCP A65299)"
+   }
+  },
+  "watson-great-gain": {
+   "author": "Thomas Watson",
+   "banner_title": "The Great Gain of Godliness",
+   "title": "Religion Our True Interest: Practical Notes upon Malachi 3:16-18",
+   "first_published": "1682",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A65309",
+    "edition": "Religion Our True Interest, or, Practical Notes upon the Third Chapter of Malachy, the Sixteen, Seventeen and Eighteen Verses (London, 1682), the first edition (EEBO-TCP A65309)"
+   }
+  },
+  "vincent-shorter-catechism": {
+   "author": "Thomas Vincent",
+   "banner_title": "The Shorter Catechism Explained from Scripture",
+   "title": "An Explicatory Catechism",
+   "first_published": "1674",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A64986",
+    "edition": "An Explicatory Catechism (London, 1675) (Wing/STC per EEBO-TCP A64986)",
+    "scan_alternative": {
+     "shelf": "thomas-vincent",
+     "volume": "tvincent-shorter-catechism-1854",
+     "edition": "An Explanation of the Assembly's Shorter Catechism (Philadelphia: Presbyterian Board of Publication, 1854)"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "baxter-dying-thoughts": {
+   "author": "Richard Baxter",
+   "banner_title": "Dying Thoughts",
+   "title": "Mr. Richard Baxter's Dying Thoughts",
+   "first_published": "1683",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A26921",
+    "edition": "Richard Baxter's Dying Thoughts upon Phil. I. 23 (London, 1683), the first edition (Wing/STC per EEBO-TCP A26921)"
+   }
+  },
+  "swinnock-incomparableness": {
+   "author": "George Swinnock",
+   "banner_title": "The Incomparableness of God",
+   "title": "The Incomparableness of God",
+   "first_published": "1672",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A62054",
+    "edition": "A Treatise of the Incomparableness of God (London, 1672), the first edition (Wing/STC per EEBO-TCP A62054)",
+    "scan_alternative": {
+     "shelf": "swinnock",
+     "volume": "swinnock-works-4",
+     "edition": "The Works of George Swinnock (Edinburgh: James Nichol, 1868), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
+   }
+  },
+  "bruce-true-peace": {
+   "author": "Robert Bruce",
+   "banner_title": "The Way to True Peace and Rest",
+   "title": "Sermons on Isaiah xxxviii and Hebrews xi (1617)",
+   "first_published": "1617",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A17051",
+    "edition": "The Way to True Peace and Rest, Delivered at Edinborough in xvi. Sermons (London, 1617) (Wing/STC per EEBO-TCP A17051)"
+   }
+  },
+  "bolton-christian-freedom": {
+   "author": "Samuel Bolton",
+   "banner_title": "The True Bounds of Christian Freedom",
+   "title": "The True Bounds of Christian Freedome",
+   "first_published": "1645",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A76991",
+    "edition": "The True Bounds of Christian Freedome (London, 1645), the first edition (Wing/STC per EEBO-TCP A76991)"
+   }
+  },
+  "spurgeon-flowers": {
+   "author": "C. H. Spurgeon",
+   "banner_title": "Flowers from a Puritan's Garden",
+   "title": "Illustrations and Meditations; or, Flowers from a Puritan's Garden, Distilled and Dispensed",
+   "first_published": "1883",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "ia": "illustrationsmed00spur",
+    "edition": "Illustrations and Meditations; or, Flowers from a Puritan's Garden, Distilled and Dispensed (London: Passmore & Alabaster, 1883), the first edition. Spurgeon's own indexes of subjects and texts are not set; the Press builds its own Index of Scripture References.",
+    "leaves": [
+     9,
+     280
+    ],
+    "titlepage": {
+     "leaf": 5,
+     "from": "^ILLUSTRATIONS"
+    }
+   }
+  },
+  "great-ejection-sermons": {
+   "author": "Various",
+   "banner_title": "Sermons of the Great Ejection",
+   "title": "Farewell Sermons of the Ejected Ministers (1662)",
+   "first_published": "1663",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A31961",
+    "edition": "An Exact Collection of Farewel Sermons Preached by the Late London-Ministers (London, 1662) (EEBO-TCP A31961)",
+    "note": "Banner's Sermons of the Great Ejection is a modern selection; this is the 1662 collection those sermons come from, set whole."
+   }
+  },
+  "gurnall-gems": {
+   "author": "",
+   "banner_title": "Gems of Thought",
+   "title": "",
+   "first_published": "",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a modern compilation or abridgement: its selection, arrangement and editing are in copyright. The underlying works are set whole where the Press has them."
+   }
+  },
+  "owen-gospel-ministry": {
+   "author": "",
+   "banner_title": "Gospel Ministry",
+   "title": "",
+   "first_published": "",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a modern compilation or abridgement: its selection, arrangement and editing are in copyright. The underlying works are set whole where the Press has them."
+   }
+  },
+  "owen-gospel-life": {
+   "author": "",
+   "banner_title": "Gospel Life",
+   "title": "",
+   "first_published": "",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a modern compilation or abridgement: its selection, arrangement and editing are in copyright. The underlying works are set whole where the Press has them."
+   }
+  },
+  "owen-spirit-and-church": {
+   "author": "",
+   "banner_title": "The Spirit and the Church",
+   "title": "",
+   "first_published": "",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a modern compilation or abridgement: its selection, arrangement and editing are in copyright. The underlying works are set whole where the Press has them."
+   }
+  },
+  "owen-searching-hearts": {
+   "author": "",
+   "banner_title": "Searching Our Hearts in Difficult Times",
+   "title": "",
+   "first_published": "",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a modern compilation or abridgement: its selection, arrangement and editing are in copyright. The underlying works are set whole where the Press has them."
+   }
+  },
+  "flavel-all-things-new": {
+   "author": "",
+   "banner_title": "All Things Made New",
+   "title": "",
+   "first_published": "",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a modern compilation or abridgement: its selection, arrangement and editing are in copyright. The underlying works are set whole where the Press has them."
+   }
+  },
+  "thomas-golden-treasury": {
+   "author": "",
+   "banner_title": "The Golden Treasury of Puritan Quotations",
+   "title": "",
+   "first_published": "",
+   "sets": [
+    "banner-pp"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "a modern compilation or abridgement: its selection, arrangement and editing are in copyright. The underlying works are set whole where the Press has them."
+   }
+  },
+  "rhb-the-blessed-and-boundless": {
+   "author": "George Swinnock",
+   "banner_title": "The Blessed and Boundless God",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "same_as",
+    "slug": "swinnock-incomparableness",
+    "why": "RHB's book is Swinnock's Incomparableness of God (1672), already set for the Banner Puritan Paperbacks set."
+   }
+  },
+  "rhb-stop-loving-the-world": {
+   "author": "William Greenhill",
+   "banner_title": "Stop Loving the World",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A42018",
+    "edition": "\"Against Love of the World\", a sermon printed with The Sound-Hearted Christian (London, 1670), the first edition (EEBO-TCP A42018)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer.",
+    "divs": [
+     6
+    ]
+   },
+   "first_published": "1670",
+   "title": "Against Love of the World"
+  },
+  "rhb-rules-for-walking-in": {
+   "author": "John Owen",
+   "banner_title": "Rules for Walking in Fellowship",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "same_as",
+    "slug": "owen-christian-fellowship",
+    "why": "RHB's book is Owen's Eshcol (1648), already set for the Banner Puritan Paperbacks set."
+   }
+  },
+  "rhb-the-fading-of-the": {
+   "author": "George Swinnock",
+   "banner_title": "The Fading of the Flesh and the Flourishing of Faith",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A62047",
+    "edition": "The Fading of the Flesh and Flourishing of Faith (London, 1662), the first edition (EEBO-TCP A62047)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1662",
+   "title": "The Fading of the Flesh and Flourishing of Faith"
+  },
+  "rhb-contentment-prosperity-and-gods": {
+   "author": "Jeremiah Burroughs",
+   "banner_title": "Contentment, Prosperity, and God's Glory",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A30576",
+    "edition": "\"The Art of Improving a Full and Prosperous Condition\", three sermons on Phil. 4:12, the first of Four Useful Discourses (London, 1675), the first edition (EEBO-TCP A30576)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer.",
+    "divs": [
+     1,
+     2,
+     3
+    ]
+   },
+   "first_published": "1675",
+   "title": "The Art of Improving a Full and Prosperous Condition"
+  },
+  "rhb-faith-seeking-assurance": {
+   "author": "Anthony Burgess",
+   "banner_title": "Faith Seeking Assurance",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A30243",
+    "edition": "Spiritual Refining: or A Treatise of Grace and Assurance (London, 1652), the first edition (EEBO-TCP A30243). RHB's book is adapted from it; the Press sets the whole original (about 500,000 words)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1652",
+   "title": "Spiritual Refining: A Treatise of Grace and Assurance"
+  },
+  "rhb-the-cure-for-unjust": {
+   "author": "John Downame",
+   "banner_title": "The Cure for Unjust Anger",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A20765",
+    "edition": "Spiritual Physicke to Cure the Diseases of the Soule, Arising from Superfluitie of Choller (London, 1616), the earliest printing EEBO-TCP keyed (A20765); first printed 1600",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1600",
+   "title": "Spiritual Physic to Cure the Diseases of the Soul, Arising from Superfluity of Choler"
+  },
+  "rhb-advancing-christian-unity": {
+   "author": "Anthony Burgess",
+   "banner_title": "Advancing Christian Unity",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A30241",
+    "divs": [
+     112,
+     113,
+     114,
+     115,
+     116,
+     119,
+     125,
+     129
+    ],
+    "edition": "CXLV Expository Sermons upon the Whole 17th Chapter of the Gospel according to St. John (London, 1656), the first edition (EEBO-TCP A30241): the eight sermons on unity among believers (CXII-CXVI, CXIX, CXXV, CXXIX)",
+    "identified": "RHB's preface says its book is the sermons on unity from Burgess's John 17. Which sermons RHB took is not stated; the Press sets every sermon whose subject is unity among believers (not CXVII on the Trinity or CXVIII on union with Christ)."
+   },
+   "title": "Of Unity among Christians: Sermons on John 17:21-23",
+   "first_published": "1656"
+  },
+  "rhb-comfort-and-holiness-from": {
+   "author": "William Bridge",
+   "banner_title": "Comfort and Holiness from Christ's Priestly Work",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A77355",
+    "edition": "\"The Great Gospel-Mystery of the Saints' Comfort and Holiness\", four sermons, the first part of The Works of William Bridge, vol. 1 (London, 1649) (EEBO-TCP A77355); RHB dates a separate printing to 1647, which EEBO-TCP did not key",
+    "identified": "Identified from a search summary; RHB's sample PDF online is another book. Title and subject agree; the 1647 date is not verified.",
+    "divs": [
+     1
+    ]
+   },
+   "first_published": "1649",
+   "title": "The Great Gospel Mystery of the Saints' Comfort and Holiness"
+  },
+  "rhb-holy-helps-for-a": {
+   "author": "Richard Rogers",
+   "banner_title": "Holy Helps for a Godly Life",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A10945",
+    "edition": "The Third Treatise of Seven Treatises (London, 1603), the first edition (EEBO-TCP A10945); RHB set the 1610 edition, which EEBO-TCP did not key",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer.",
+    "divs": [
+     3
+    ]
+   },
+   "first_published": "1603",
+   "title": "The Third Treatise: Of the Means Whereby a Godly Life Is Helped and Continued"
+  },
+  "rhb-triumphing-over-sinful-fear": {
+   "author": "John Flavel",
+   "banner_title": "Triumphing Over Sinful Fear",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A39696",
+    "edition": "A Practical Treatise of Fear, the first of Two Treatises (London, 1682), the first edition (EEBO-TCP A39696)",
+    "identified": "Identified from a search result quoting RHB's sample PDF (not downloaded); title, text (Isa. 8:12-14) and year agree.",
+    "texts": [
+     1
+    ]
+   },
+   "first_published": "1682",
+   "title": "A Practical Treatise of Fear"
+  },
+  "rhb-gospel-evidences-of-saving": {
+   "author": "John Owen",
+   "banner_title": "Gospel Evidences of Saving Faith",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A53700",
+    "edition": "Gospel Grounds and Evidences of the Faith of God's Elect (London, 1695), the first edition (EEBO-TCP A53700)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1695",
+   "title": "Gospel Grounds and Evidences of the Faith of God's Elect"
+  },
+  "rhb-turn-and-live": {
+   "author": "Nathanael Vincent",
+   "banner_title": "Turn and Live",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A64955",
+    "edition": "The Conversion of a Sinner Explained and Applied from Ezek. 33:11 (London, 1669), the first edition (EEBO-TCP A64955)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1669",
+   "title": "The Conversion of a Sinner"
+  },
+  "rhb-prizing-public-worship": {
+   "author": "David Clarkson",
+   "banner_title": "Prizing Public Worship",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "clarkson",
+    "volume": "clarkson-works-3",
+    "edition": "The Practical Works of David Clarkson (Edinburgh: James Nichol, 1864), vol. 3, the sermon on Ps. 87:2 (first printed in Clarkson's posthumous Sermons and Discourses, 1696)",
+    "leaves": [
+     197,
+     219
+    ],
+    "identified": "RHB's Prizing Public Worship is three Clarkson sermons; its main one is this sermon on Ps. 87:2 (identified from a published review of RHB's edition, not RHB's own copyright page). A sermon titled 'Hearing the Word' is in Nichol vol. 1 (leaves 460-478) and is probably another of the three; it is not set here until RHB's contents confirm it."
+   },
+   "rhb_isbn": "9798886860603",
+   "title": "Public Worship to be Preferred before Private",
+   "first_published": "1696"
+  },
+  "rhb-a-perfect-redeemer": {
+   "author": "William Perkins",
+   "banner_title": "A Perfect Redeemer",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A09472",
+    "edition": "The True Gaine: More in Worth then All the Goods in the World (London, 1601), the first edition (EEBO-TCP A09472)",
+    "identified": "INFERRED, not confirmed: RHB never names its source. Its chapters (\"When Christ Is Our Gain\", Phil. 3:8) match Perkins's True Gain. Confirm from RHB's copyright page before publishing."
+   },
+   "first_published": "1601",
+   "title": "The True Gain",
+   "rhb_isbn": "9798886861372"
+  },
+  "rhb-the-vanity-of-thoughts": {
+   "author": "Thomas Goodwin",
+   "banner_title": "The Vanity of Thoughts",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A72189",
+    "edition": "The Vanity of Thoughts Discovered (London, 1638), the earliest printing EEBO-TCP keyed (A72189); the book was first printed in 1637",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1637",
+   "title": "The Vanity of Thoughts Discovered",
+   "rhb_isbn": "9798886862317"
+  },
+  "rhb-freedom-from-sins-dominion": {
+   "author": "John Owen",
+   "banner_title": "Freedom from Sin's Dominion",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A53731",
+    "edition": "A Treatise of the Dominion of Sin and Grace (London, 1688), the first edition (EEBO-TCP A53731)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1688",
+   "title": "A Treatise of the Dominion of Sin and Grace",
+   "rhb_isbn": "9798886861761"
+  },
+  "rhb-holy-meditation": {
+   "author": "Thomas Manton",
+   "banner_title": "Holy Meditation",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "manton",
+    "volume": "manton-works-17",
+    "edition": "The Complete Works of Thomas Manton (London: James Nisbet, 1870-75), vol. 17, Sermons upon Genesis xxiv. 63",
+    "leaves": [
+     275,
+     360
+    ],
+    "identified": "INFERRED: RHB names no source. Manton's sermons on Gen. 24:63 ('Isaac went out to meditate in the field') are his treatment of meditation and the likeliest original; confirm from RHB's copyright page before publishing."
+   },
+   "rhb_isbn": "9798886862294",
+   "title": "Sermons upon Genesis XXIV. 63: Of Meditation",
+   "first_published": "1684"
+  },
+  "rhb-special-providence-for-anxious": {
+   "author": "Obadiah Sedgwick",
+   "banner_title": "Special Providence for Anxious Souls",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "excluded",
+    "why": "No public-domain printing appears to exist. Sedgwick's sermons on Matt. 10:29-31 are, as far as can be found, the ones RHB first printed in 2007 as Providence Handled Practically, from a manuscript; that transcription is RHB's and in copyright, and no 17th-century printing is in EEBO-TCP or on archive.org (searched 2026-10-03). If a manuscript facsimile is ever published, the Press could set from it. Inferred, not confirmed from RHB's copyright page."
+   },
+   "rhb_isbn": "9798886860092"
+  },
+  "rhb-christ-and-his-threefold": {
+   "author": "John Flavel",
+   "banner_title": "Christ and His Threefold Office",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "tcp",
+    "id": "A39663",
+    "edition": "The Fountain of Life Opened (London, 1673), the earliest printing EEBO-TCP keyed (A39663); first printed 1671. RHB's book is an abridged extract; the Press sets the whole original, which also covers Christ Humbled yet Exalted",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1671",
+   "title": "The Fountain of Life Opened",
+   "rhb_isbn": "9798886862966"
+  },
+  "rhb-christ-humbled-yet-exalted": {
+   "author": "John Flavel",
+   "banner_title": "Christ Humbled Yet Exalted",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "same_as",
+    "slug": "rhb-christ-and-his-threefold",
+    "why": "RHB's book is another abridged extract from Flavel's Fountain of Life Opened; the Press sets the whole original once."
+   },
+   "rhb_isbn": "9798886862980"
+  },
+  "rhb-a-blessed-hope": {
+   "author": "Thomas Manton",
+   "banner_title": "A Blessed Hope",
+   "sets": [
+    "rhb-puritan-treasures"
+   ],
+   "source": {
+    "kind": "ia-extract",
+    "shelf": "manton",
+    "volume": "manton-works-16",
+    "edition": "The Complete Works of Thomas Manton (London: James Nisbet, 1870-75), vol. 16, Several Sermons upon Titus ii. 11-14 (22 sermons)",
+    "leaves": [
+     49,
+     304
+    ],
+    "identified": "INFERRED: RHB's product page cites Titus 2:11-14 and 2:13 but names no source; these are Manton's sermons on that text. Confirm from RHB's copyright page before publishing (RHB's book may be a selection)."
+   },
+   "rhb_isbn": "9798886862492",
+   "title": "Several Sermons upon Titus II. 11-14",
+   "first_published": "1685"
+  }
+ }
+}

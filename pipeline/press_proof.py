@@ -1,0 +1,823 @@
+#!/usr/bin/env python3
+"""press_proof.py -- proof a Press book word by word against the scan of its edition.
+
+    python3 pipeline/press_proof.py owen-mortification          # collate, re-read disputed pages, report
+    python3 pipeline/press_proof.py owen-mortification --no-tess # collate only (no page re-OCR)
+
+"Word-perfect against the scans" made mechanical. Three witnesses:
+
+  A  the text the Press set (a CCEL or Gutenberg transcription, or our own
+     cleaned OCR)
+  B  the Internet Archive's OCR of a scan of the SAME edition (ABBYY, from
+     archive.org's hocr search text, which also says which page each word is on)
+  C  only where A and B disagree on a real word: a fresh Tesseract read of that
+     page's image, fetched from archive.org
+
+A and B are aligned word by word (unique 5-gram anchors, then difflib between
+anchors), so every word of the book is checked against the printed page. Most
+disagreements are OCR noise in B (a word the dictionary does not know where A
+has one it does); those are discarded. What is left is classified:
+
+  confirmed   C agrees with B against A, and B's reading is a known word: the
+              transcription (A) is wrong. Written as a correction rule to
+              pipeline/press_rules/<slug>.json with its evidence (archive.org
+              id, leaf, printed page) -- the build applies it and lists it in the
+              book's Note on the Text.
+  upheld      C agrees with A: B's OCR misread. Nothing to do.
+  review      the witnesses split three ways, or C could not find the spot, or
+              a word is present in one text and absent from the other: listed
+              for a person in docs/press/proof/<slug>.md with page and leaf.
+
+Nothing is "fixed" on two-witness evidence alone, and nothing is fixed when the
+scan's reading is not a word the dictionary (or press_words.txt) knows.
+"""
+import bisect, difflib, gzip, json, os, re, subprocess, sys, time, unicodedata, urllib.request
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.abspath(os.path.join(HERE, ".."))
+sys.path.insert(0, HERE)
+import press_abbyy, press_build, press_render
+
+IA_DIR = os.path.join(ROOT, "data", "corpus", "press", "ia")
+
+def norm(w):
+    w = unicodedata.normalize("NFKD", w)
+    w = w.replace("æ", "ae").replace("Æ", "ae").replace("œ", "oe").replace("ſ", "s")
+    w = "".join(ch for ch in w if not unicodedata.combining(ch))
+    return re.sub(r"[^a-z0-9]", "", w.lower())
+
+TOKEN = re.compile(r"[A-Za-zÀ-ɏͰ-Ͽἀ-῿0-9][A-Za-zÀ-ɏͰ-Ͽἀ-῿0-9'’]*")
+
+# ------------------------------------------------------------- witness A
+def book_tokens(doc, with_notes=False):
+    """Witness A as (norm, original, block index). Footnotes are left out of
+    the running text (the page prints them at its foot, not inline);
+    note_tokens() gives them separately."""
+    toks = []
+    for bi, b in enumerate(doc["blocks"]):
+        if b.get("k") not in ("para", "argument", "quote", "heading", "display", "tp", "list"):
+            continue
+        md = b.get("md") or " ".join(b.get("items", []))
+        text = press_render.plain(md)
+        for m in TOKEN.finditer(text):
+            n = norm(m.group(0))
+            if n:
+                toks.append((n, m.group(0), bi))
+    return toks
+
+def note_tokens(doc):
+    """{label: [(norm, original)]} and {label: block index of its call}."""
+    out, home = {}, {}
+    for bi, b in enumerate(doc["blocks"]):
+        for lab in re.findall(r"\[\^([^\]]+)\]", b.get("md", "")):
+            home.setdefault(lab, bi)
+    for lab, md in doc["notes"].items():
+        out[lab] = [(norm(m.group(0)), m.group(0)) for m in TOKEN.finditer(press_render.plain(md)) if norm(m.group(0))]
+    return out, home
+
+# ------------------------------------------------------------- witness B
+def ia_get(ident, name):
+    os.makedirs(IA_DIR, exist_ok=True)
+    dest = os.path.join(IA_DIR, name)
+    if not os.path.exists(dest):
+        press_build.fetch(f"https://archive.org/download/{ident}/{name}", dest)
+    return dest
+
+def ocr_witness(ident):
+    st = gzip.open(ia_get(ident, f"{ident}_hocr_searchtext.txt.gz"), "rt", encoding="utf-8").read()
+    pidx = json.load(gzip.open(ia_get(ident, f"{ident}_hocr_pageindex.json.gz"), "rt"))
+    try:
+        pn = json.load(open(ia_get(ident, f"{ident}_page_numbers.json"), encoding="utf-8"))["pages"]
+        printed = {i: p.get("pageNumber") or "" for i, p in enumerate(pn)}
+    except Exception:
+        printed = {}
+    # pageindex rows are [text_start, text_end, hocr_start, hocr_end]; row L
+    # is the page archive.org serves as image n{L-1} and lists as
+    # page_numbers[L-1] (checked by eye on Goold vol. 6: row 21 = image n20 = p. 7)
+    starts = [p[0] for p in pidx]
+    # join words broken across lines: "seduc-\ntions"
+    joined = []
+    toks = []
+    for m in re.finditer(r"([A-Za-zÀ-ɏ]+)-\s*\n\s*([a-zÀ-ɏ]+)|" + TOKEN.pattern, st):
+        if m.group(1):
+            w, off = m.group(1) + m.group(2), m.start()
+        else:
+            w, off = m.group(0), m.start()
+        n = norm(w)
+        if n:
+            leaf = bisect.bisect_right(starts, off) - 2
+            toks.append((n, w, leaf))
+    return toks, printed
+
+# ------------------------------------------------------------- alignment
+def align(a, b, k=5):
+    """Pairs of matching index ranges, via unique k-gram anchors and difflib
+    between them. Returns difflib-style opcodes over the whole of a."""
+    def grams(seq):
+        d = {}
+        for i in range(len(seq) - k + 1):
+            g = tuple(seq[i:i + k])
+            d[g] = -1 if g in d else i
+        return {g: i for g, i in d.items() if i >= 0}
+    an = [t[0] for t in a]
+    bn = [t[0] for t in b]
+    ga, gb = grams(an), grams(bn)
+    pairs = sorted((i, gb[g]) for g, i in ga.items() if g in gb)
+    # longest increasing chain in b-position (patience-style)
+    tails, prev, idx = [], [None] * len(pairs), []
+    for n, (i, j) in enumerate(pairs):
+        p = bisect.bisect_left(tails, j)
+        if p == len(tails):
+            tails.append(j); idx.append(n)
+        else:
+            tails[p] = j; idx[p] = n
+        prev[n] = idx[p - 1] if p else None
+    chain = []
+    n = idx[-1] if idx else None
+    while n is not None:
+        chain.append(pairs[n]); n = prev[n]
+    chain.reverse()
+    ops = []
+    ai = bi = None
+    if chain:
+        # the book's first words, before the first anchor: diffed against as
+        # many of the witness's words (plus slack) before its first anchor;
+        # the witness's extra lead-in is context, not a finding
+        i0, j0 = chain[0]
+        if i0:
+            w0 = max(0, j0 - int(i0 * 1.2) - 10)
+            sm = difflib.SequenceMatcher(None, an[:i0], bn[w0:j0], autojunk=False)
+            head = [(t, i1, i2, w0 + j1, w0 + j2) for t, i1, i2, j1, j2 in sm.get_opcodes()]
+            while head and head[0][0] == "insert":
+                head.pop(0)
+            ops += head
+    for i, j in chain:
+        if ai is not None and (i < ai or j < bj):
+            continue
+        if ai is None:
+            ai, bj = i, j
+        if i > ai or j > bj:
+            sm = difflib.SequenceMatcher(None, an[ai:i], bn[bj:j], autojunk=False)
+            for tag, i1, i2, j1, j2 in sm.get_opcodes():
+                ops.append((tag, ai + i1, ai + i2, bj + j1, bj + j2))
+        ops.append(("equal", i, i + k, j, j + k))
+        ai, bj = i + k, j + k
+    if chain and ai < len(an):
+        # and the last words, after the last anchor, the same way
+        w1 = min(len(bn), bj + int((len(an) - ai) * 1.2) + 10)
+        sm = difflib.SequenceMatcher(None, an[ai:], bn[bj:w1], autojunk=False)
+        tail = [(t, ai + i1, ai + i2, bj + j1, bj + j2) for t, i1, i2, j1, j2 in sm.get_opcodes()]
+        while tail and tail[-1][0] == "insert":
+            tail.pop()
+        ops += tail
+    return ops, (chain[0] if chain else None), (chain[-1] if chain else None)
+
+# ------------------------------------------------------------- witness C
+def tess_page(ident, leaf):
+    d = os.path.join(IA_DIR, "tess", ident)
+    os.makedirs(d, exist_ok=True)
+    txt = os.path.join(d, f"{leaf}.txt")
+    if os.path.exists(txt):
+        return open(txt, encoding="utf-8").read()
+    img = os.path.join(d, f"{leaf}.jpg")
+    if not os.path.exists(img):
+        press_build.fetch(f"https://archive.org/download/{ident}/page/n{leaf}.jpg", img)
+    r = subprocess.run(["tesseract", img, "stdout", "-l", "eng", "--psm", "3"], capture_output=True,
+                       text=True, env={**os.environ, "OMP_THREAD_LIMIT": "1"})
+    out = r.stdout
+    press_build.atomic_write(txt, out)
+    os.remove(img)
+    return out
+
+def third_reading(ident, leaves, before, after, width, imgs=None):
+    """Find the disputed spot on the re-read page(s) by the words around it;
+    return the tokens the page has between them (normalised), or None.
+    `imgs`: ABBYY leaf -> served image number (press_abbyy.image_index)."""
+    for leaf in leaves:
+        page = tess_page(ident, (imgs or {}).get(leaf, leaf))
+        t = [norm(m.group(0)) for m in TOKEN.finditer(re.sub(r"-\s*\n\s*", "", page))]
+        t = [x for x in t if x]
+        for i in range(len(t) - len(before) + 1):
+            if t[i:i + len(before)] == before:
+                j = i + len(before)
+                for w in range(0, width + 3):
+                    if t[j + w: j + w + len(after)] == after:
+                        return t[j: j + w], leaf
+        # fuzzy: 2 of the 3 words either side, the nearer word required
+        nb, na = len(before), len(after)
+        for i in range(len(t) - nb + 1):
+            hb = sum(x == y for x, y in zip(t[i:i + nb], before))
+            if hb < nb - 1 or t[i + nb - 1] != before[-1]:
+                continue
+            j = i + nb
+            for w in range(0, width + 2):
+                seg = t[j + w: j + w + na]
+                if len(seg) == na and seg[0] == after[0] and sum(x == y for x, y in zip(seg, after)) >= na - 1:
+                    return t[j: j + w], leaf
+    return None, None
+
+def prefetch(ident, leaves, workers=4):
+    """Re-read many pages at once (Tesseract is single-threaded per page)."""
+    from concurrent.futures import ThreadPoolExecutor
+    todo = [l for l in sorted(set(leaves))
+            if not os.path.exists(os.path.join(IA_DIR, "tess", ident, f"{l}.txt"))]
+    with ThreadPoolExecutor(workers) as ex:
+        list(ex.map(lambda l: _safe_tess(ident, l), todo))
+
+def _safe_tess(ident, leaf):
+    try:
+        tess_page(ident, leaf)
+    except Exception as e:
+        print(f"leaf {leaf}: {e}", file=sys.stderr)
+
+# ------------------------------------------------------------- driver
+def proof(slug, use_tess=True, volume=None):
+    """`volume`: for a work printed across two volumes of its edition, collate
+    against this other volume of the shelf (one of the catalog's
+    scan.more_volumes); its sheet is written beside the first, never over it."""
+    cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
+    e = cat["titles"][slug]
+    scan = e.get("scan")
+    if not scan:
+        raise SystemExit(f"{slug}: the catalog names no scan of its edition (\"scan\")")
+    if volume:
+        if volume not in scan.get("more_volumes", []):
+            raise SystemExit(f"{slug}: {volume} is not among the catalog's scan.more_volumes")
+        scan = dict(scan, volume=volume)
+        scan.pop("ia", None)
+    if "ia" in scan:
+        ident = scan["ia"]
+    else:
+        shelf = json.load(open(os.path.join(HERE, f"{scan['shelf']}_shelf.json"), encoding="utf-8"))
+        ident = shelf["internet_archive"][scan["volume"]][0]
+    sheet = slug + (f"--{volume}" if volume else "")
+    doc = press_build.convert(slug, e, press_build.source_file(slug, e))
+    a = book_tokens(doc)
+    b, printed = ocr_witness(ident)
+    ops, first, last = align(a, b)
+    words = press_build.wordlist()
+    ok = lambda w: press_build.known(w, words)
+    matched = sum(i2 - i1 for t, i1, i2, _, _ in ops if t == "equal")
+    findings = []
+    for tag, i1, i2, j1, j2 in ops:
+        if tag == "equal":
+            continue
+        A = [x[0] for x in a[i1:i2]]
+        B = [x[0] for x in b[j1:j2]]
+        if "".join(A) == "".join(B):
+            continue  # the same letters, split or joined differently (line-end hyphens)
+        if tag == "replace" and len("".join(A)) <= 3 and re.fullmatch(r"[0-9ivxlc]+", "".join(A)):
+            continue  # a numeral the OCR misread (5 -> o, iii -> hi)
+        if tag == "replace" and re.fullmatch(r"[ivxlc]+", "".join(A)) and re.fullmatch(r"[ivxlc1]+|via|hi", "".join(B)):
+            continue  # a chapter numeral: KJV-checked already, and OCR reads numerals worst of all
+        # OCR noise: B has garbage where A has good words
+        if tag == "replace" and all(ok(x) or x.isdigit() for x in A) and not all(ok(x) for x in B):
+            continue
+        if tag == "insert":
+            # B-only words: running heads, page numbers, line noise, garbled Greek
+            origs = [x[1] for x in b[j1:j2]]
+            if len(B) > 6 or all(x.isdigit() or not ok(x) for x in B) \
+                    or all(o.isupper() or o.isdigit() for o in origs) \
+                    or sum(ok(x) and len(x) > 2 for x in B) < 0.6 * len(B):
+                continue
+        if tag == "delete" and (len(A) > 12 or all(x.isdigit() for x in A)):
+            # A-only long runs: matter the scan volume prints elsewhere (or not at all)
+            findings.append({"kind": "absent-from-scan", "a": " ".join(x[1] for x in a[i1:i2])[:80],
+                             "block": a[i1][2], "n": i2 - i1})
+            continue
+        if any(re.search(r"[Ͱ-Ͽἀ-῿]", x[1]) for x in a[i1:i2]):
+            continue  # Greek: the English OCR cannot witness it
+        if tag == "replace" and len(A) == len(B) and all(x.isdigit() for x in A + B):
+            continue
+        ctx_b = [x[0] for x in a[max(0, i1 - 3): i1]]
+        ctx_a = [x[0] for x in a[i2: i2 + 3]]
+        leaves = sorted({x[2] for x in b[max(0, j1 - 1): j2 + 1]})
+        f = {"kind": tag, "a": " ".join(x[1] for x in a[i1:i2]), "b": " ".join(x[1] for x in b[j1:j2]),
+             "before": " ".join(x[1] for x in a[max(0, i1 - 4): i1]),
+             "after": " ".join(x[1] for x in a[i2: i2 + 4]), "block": a[min(i1, len(a) - 1)][2],
+             "leaf": leaves, "page": [printed.get(l, "") for l in leaves]}
+        f["_ctx"] = (ctx_b, ctx_a, max(len(A), len(B)), A, B)
+        findings.append(f)
+    # witness C: re-read the disputed pages (in parallel), then vote
+    pending = [f for f in findings if "_ctx" in f]
+    # a scan whose scandata hides leaves serves page n as some later leaf
+    imgs = press_abbyy.image_index(ident) if use_tess else {}
+    if use_tess:
+        prefetch(ident, [imgs.get(l + d, l + d) for f in pending for l in f["leaf"] for d in (0, 1, -1) if l + d >= 0])
+    for f in pending:
+        ctx_b, ctx_a, width, A, B = f.pop("_ctx")
+        f["verdict"] = "review"
+        if not use_tess or len(ctx_b) < 3 or len(ctx_a) < 3:
+            continue
+        near = sorted({l + d for l in f["leaf"] for d in (0, 1, -1) if l + d >= 0})
+        c, leaf = third_reading(ident, near, ctx_b, ctx_a, width, imgs)
+        if leaf is not None:
+            f["leaf"], f["page"] = [leaf], [printed.get(leaf, "")]
+        if c is None:
+            continue
+        f["c"] = " ".join(c)
+        if c == A:
+            f["verdict"] = "upheld"
+        elif c == B and all(ok(x) for x in B):
+            f["verdict"] = "confirmed"
+
+    # footnotes: each is looked for in the scan near where its call was aligned
+    nt, home = note_tokens(doc)
+    a_to_b = {}
+    for tag, i1, i2, j1, j2 in ops:
+        if tag == "equal":
+            for d in range(i2 - i1):
+                a_to_b[i1 + d] = j1 + d
+    block_first = {}
+    for i, t in enumerate(a):
+        block_first.setdefault(t[2], i)
+    bn = [x[0] for x in b]
+    notes_checked = notes_missing = 0
+    for lab, toks in nt.items():
+        if not toks or lab not in home:
+            continue
+        ai = block_first.get(home[lab])
+        bj = next((a_to_b[k] for k in range(ai, ai + 400) if k in a_to_b), None) if ai is not None else None
+        if bj is None:
+            continue
+        lo, hi = max(0, bj - 200), min(len(b), bj + 1500)
+        A = [t[0] for t in toks]
+        sm = difflib.SequenceMatcher(None, A, bn[lo:hi], autojunk=False)
+        best = max(sm.get_matching_blocks(), key=lambda m: m.size)
+        if best.size < min(3, len(A)):
+            if all(re.fullmatch(r"[0-9ivxlc]+|[a-z]{2,6}", x) for x in A) and len(A) <= 8:
+                continue  # a bare scripture reference (KJV-checked already); OCR mangles these
+            notes_missing += 1
+            findings.append({"kind": "note-not-found", "a": " ".join(t[1] for t in toks)[:80], "b": "",
+                             "before": "", "after": "", "block": home[lab], "leaf": [b[bj][2]],
+                             "page": [printed.get(b[bj][2], "")], "verdict": "review", "note": lab})
+            continue
+        notes_checked += 1
+        start = lo + best.b - best.a
+        win = bn[max(0, start): start + len(A) + 8]
+        sm2 = difflib.SequenceMatcher(None, A, win, autojunk=False)
+        for tag, i1, i2, j1, j2 in sm2.get_opcodes():
+            if tag == "equal" or tag == "insert" and j1 >= len(A):
+                continue
+            AA, BB = A[i1:i2], win[j1:j2]
+            if "".join(AA) == "".join(BB) or (AA and all(ok(x) or x.isdigit() for x in AA) and BB
+                                                 and not all(ok(x) for x in BB)):
+                continue
+            if any(re.search(r"[\u0370-\u03FF\u1F00-\u1FFF]", t[1]) for t in toks[i1:i2]) or not AA and not BB:
+                continue
+            if tag == "insert" and (all(not ok(x) for x in BB) or i1 == len(A)):
+                continue
+            findings.append({"kind": "note-" + tag, "a": " ".join(t[1] for t in toks[i1:i2]),
+                             "b": " ".join(BB), "before": " ".join(t[1] for t in toks[max(0, i1 - 3):i1]),
+                             "after": " ".join(t[1] for t in toks[i2:i2 + 3]), "block": home[lab],
+                             "leaf": [b[min(len(b) - 1, max(0, start))][2]], "page": [printed.get(b[max(0, start)][2], "")],
+                             "verdict": "review", "note": lab})
+    # rules first: writing them can send a confirmed finding back to review,
+    # and the counts below must agree with the rows
+    write_rules(slug, ident, doc, findings)
+    res = {"slug": slug, "scan": ident, "notes_checked": notes_checked, "notes_not_found": notes_missing, "book_words": len(a), "scan_words": len(b),
+           "aligned_words": matched, "coverage": round(matched / max(1, len(a)), 4),
+           "findings": findings,
+           "counts": {v: sum(1 for f in findings if (f.get("verdict") if f["kind"] != "absent-from-scan" else f["kind"]) == v)
+                      for v in ("confirmed", "upheld", "review", "absent-from-scan")},
+           "checked": time.strftime("%Y-%m-%d")}
+    press_build.atomic_write(os.path.join(press_build.OUT, slug, f"proof{sheet[len(slug):]}.json"),
+                             json.dumps(res, indent=1, ensure_ascii=False))
+    write_sheet(slug, e, res, sheet)
+    return res
+
+def write_rules(slug, ident, doc, findings):
+    """Confirmed readings become correction rules (merged, never duplicated)."""
+    p = os.path.join(press_build.RULES, f"{slug}.json")
+    rules = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    have = {(r["find"], r["replace"]) for r in rules.get("corrections", [])}
+    for f in findings:
+        if f.get("verdict") == "confirmed" and f["kind"] != "replace":
+            # no rule is written for an insertion or deletion: a person places it
+            f["verdict"] = "review"; f["why"] = "confirmed, but an insertion or deletion is left to a person"
+        if f.get("verdict") != "confirmed" or f["kind"] != "replace":
+            continue
+        if re.search(r"\d", f["a"]) and re.search(r"(?i)\b[ivxlc]+\b", f["b"]) and not re.search(r"\d", f["b"]):
+            # a scripture reference the transcription set in modern form ("Matt 15"
+            # for "Mat xv"): it is tagged against the KJV as it stands, and one
+            # restored here and there would leave the book in two styles
+            f["verdict"] = "review"; f["why"] = "a reference in the transcription's own form; left as set"
+            continue
+        if re.search(r"[A-Za-z.,;:!?’”)]\d{1,3}$", f["a"]):
+            # "let12": a footnote call the converter did not place; deleting the
+            # number would orphan the note
+            f["verdict"] = "review"; f["why"] = "a note call glued to its word; a person places it"
+            continue
+        md = doc["blocks"][f["block"]].get("md", "")
+        # the smallest unique stretch of markdown holding the bad word(s), unique
+        # as a whole word too (a rule must never land inside a longer word)
+        def once(t):
+            rx = re.compile(r"(?<![A-Za-z])" + re.escape(t) + r"(?![A-Za-z])")
+            return (sum(b.get("md", "").count(t) for b in doc["blocks"]) == 1 and
+                    sum(len(rx.findall(b.get("md", ""))) for b in doc["blocks"]) == 1)
+        bad = f["a"]
+        if not (md.count(bad) == 1 and once(bad)):
+            ctx = f["before"].split()[-1:] + [bad]
+            bad2 = " ".join(ctx)
+            if not once(bad2):
+                f["verdict"] = "review"; f["why"] = "confirmed, but no unique place to apply it"
+                continue
+            find, repl = bad2, bad2.replace(bad, f["b"])
+        else:
+            find, repl = bad, f["b"]
+        if (find, repl) in have:
+            continue
+        rules.setdefault("corrections", []).append({
+            "find": find, "replace": repl, "count": 1,
+            "why": f"the scan reads “{f['b']}” (archive.org {ident}, leaf {','.join(map(str, f['leaf']))}, "
+                   f"printed p. {','.join(x for x in f['page'] if x) or '?'}): its OCR and a fresh Tesseract "
+                   f"read agree against the transcription",
+            "evidence": {"ia": ident, "leaf": f["leaf"], "page": f["page"], "ocr": f["b"], "tesseract": f.get("c")},
+            "by": "press_proof"})
+        have.add((find, repl))
+    if rules:
+        press_build.atomic_write(p, json.dumps(rules, indent=1, ensure_ascii=False) + "\n")
+
+def write_sheet(slug, e, res, sheet=None):
+    sheet = sheet or slug
+    c = res["counts"]
+    cmd = slug + (f" --volume {sheet[len(slug) + 2:]}" if sheet != slug else "")
+    L = [f"# Proof sheet: {e['title']}", "",
+         f"`{slug}` collated word by word against archive.org `{res['scan']}` "
+         f"({res['checked']}; `python3 pipeline/press_proof.py {cmd}`).", "",
+         f"- Words in the book: {res['book_words']:,}; aligned to the scan: {res['aligned_words']:,} "
+         f"({res['coverage']:.1%})",
+         f"- Transcription errors confirmed by the scan and corrected: **{c['confirmed']}** "
+         f"(rules in `pipeline/press_rules/{slug}.json`)",
+         f"- Scan OCR misreads, transcription upheld: {c['upheld']}",
+         f"- For a person to look at: **{c['review']}**",
+         f"- Passages the scan volume does not carry: {c['absent-from-scan']}",
+         f"- Footnotes checked against the page: {res['notes_checked']} (not found on the page: {res['notes_not_found']})", ""]
+    rev = [f for f in res["findings"] if f.get("verdict") == "review"]
+    if rev:
+        L += ["## To look at", "",
+              "Each row: what the book prints, what the scan's OCR reads, a fresh re-read of the page "
+              "(blank: the spot could not be found on it), and where to look. Answer by adding a "
+              "correction to the rules file, or leave the book as it is.", "",
+              "| # | Book | Scan OCR | Re-read | Leaf (printed p.) | Around |", "|---:|---|---|---|---|---|"]
+        for n, f in enumerate(rev, 1):
+            loc = ", ".join(f"{l} ({p})" if p else str(l) for l, p in zip(f["leaf"], f["page"]))
+            L.append(f"| {n} | {f['a'] or '∅'} | {f['b'] or '∅'} | {f.get('c', '')} | {loc} | "
+                     f"…{f['before'][-25:]} ⟨⟩ {f['after'][:25]}… |")
+    press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{sheet}.md"), "\n".join(L) + "\n")
+
+
+
+# ===================================================================== OCR books
+# A book set from a scan has no independent transcription to check against:
+# its text IS one OCR (ABBYY, archive.org's). The second witness is a fresh
+# Tesseract read of every page in the treatise. Two different engines reading
+# the same page and agreeing is strong evidence; where they disagree:
+#   ABBYY's word unknown, Tesseract's known   -> an OCR fix (applied, listed)
+#   ABBYY's word known, Tesseract's unknown   -> ABBYY upheld
+#   both known and different, or both unknown -> a person looks at the page
+RE_ANCHOR = re.compile(r'\[\]\{#[^}]*leaf="(\d+)"[^}]*\}')
+
+def book_tokens_leaves(doc):
+    toks, leaf = [], None
+    for bi, b in enumerate(doc["blocks"]):
+        if b.get("k") not in ("para", "heading", "argument", "quote"):
+            continue
+        md = b.get("md", "")
+        pos = 0
+        for m in list(RE_ANCHOR.finditer(md)) + [None]:
+            seg = md[pos: m.start() if m else len(md)]
+            for t in TOKEN.finditer(press_render.plain(seg)):
+                n = norm(t.group(0))
+                if n:
+                    toks.append((n, t.group(0), bi, leaf))
+            if m:
+                leaf = int(m.group(1))
+                pos = m.end()
+    return toks
+
+def tess_tokens(ident, leaves, imgs=None):
+    """`imgs`: leaf -> served image number (press_abbyy.image_index); the
+    tokens keep the ABBYY leaf, the page read is the image of that leaf."""
+    out = []
+    for leaf in leaves:
+        txt = re.sub(r"-\s*\n\s*(?=[a-z])", "", tess_page(ident, (imgs or {}).get(leaf, leaf)))
+        for t in TOKEN.finditer(txt):
+            n = norm(t.group(0))
+            if n:
+                out.append((n, t.group(0), leaf))
+    return out
+
+def match_case(src, new):
+    if src.isupper() and len(src) > 1:
+        return new.upper()
+    if src[:1].isupper() and src[:1].lower() != new[:1].lower():
+        # the capital was itself the misread ("Avill" for "will"): the other
+        # engine's reading of that letter decides its case
+        return new
+    if src[:1].isupper():
+        return new[:1].upper() + new[1:]
+    return new
+
+ABBREVIATIONS = {"viz", "ver", "vid", "ibid", "chap", "sc", "ie", "eg", "cf", "etc", "ult", "obs", "ans", "quest", "obj", "sol"}
+PREFIXES = {"co", "re", "pre", "self", "fore", "over", "under", "out", "non", "anti"}
+
+def plausible(an, bn, ao):
+    """A fix only when Tesseract's word could be a misread of ABBYY's: close in
+    spelling, more than one letter, not '&c.' (which tokenises to 'c'), and not
+    a split that may have lost a hyphen ('co partners' for 'co-partners')."""
+    if len(bn.replace(" ", "")) < 2 or "&" in ao or re.fullmatch(r"[fS]e?c", ao):
+        return False
+    if an.lower() in ABBREVIATIONS:
+        return False    # "viz." is a word the dictionary lacks, never a misread
+    if " " in bn and bn.split()[0].lower() in PREFIXES:
+        return False
+    if " " in bn and bn[:1].lower() != an[:1].lower():
+        return False    # a run-together pair is split, never reordered ("Neitherf" is not "If Neither")
+    al = an.lower()
+    if any(al.replace(lig, "e") == bn.lower() for lig in ("oe", "ae")) or \
+            an[:-1] == bn and an[-1:] == "i" and an[-2:-1] == "i":
+        return False    # a Latin diphthong ("foelix") or plural ("Dii") Tesseract read without
+    return difflib.SequenceMatcher(None, an.lower(), bn.replace(" ", "").lower()).ratio() >= 0.6
+
+def proof_ocr(slug):
+    cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
+    e = cat["titles"][slug]
+    src = e["source"]
+    ident = src.get("ia") or json.load(open(os.path.join(HERE, f"{src['shelf']}_shelf.json"),
+                                            encoding="utf-8"))["internet_archive"][src["volume"]][0]
+    lo, hi = src["leaves"]
+    leaves = list(range(lo, hi + 1))
+    imgs = press_abbyy.image_index(ident)
+    prefetch(ident, [imgs.get(l, l) for l in leaves])
+    doc = press_build.convert(slug, e, press_build.source_file(slug, e))
+    a = book_tokens_leaves(doc)
+    b = tess_tokens(ident, leaves, imgs)
+    ops, _, _ = align(a, b, k=4)
+    words = press_build.wordlist()
+    ok = lambda w: press_build.known(w, words)
+    fixes, review, upheld = [], [], 0
+    for tag, i1, i2, j1, j2 in ops:
+        if tag != "replace":
+            continue
+        A, B = a[i1:i2], b[j1:j2]
+        if "".join(x[0] for x in A) == "".join(x[0] for x in B):
+            continue
+        if len(A) == len(B):
+            pairs = list(zip(A, B))
+        elif len(A) == 1 and len(B) == 2 and ok(B[0][0]) and ok(B[1][0]) and not ok(A[0][0]):
+            # ABBYY ran two words together ("andone" -> "and one")
+            pairs = [(A[0], (B[0][0] + " " + B[1][0], B[0][1] + " " + B[1][1], B[0][2]))]
+        elif len(A) == 2 and len(B) == 1 and ok(B[0][0]) and not (ok(A[0][0]) and ok(A[1][0])):
+            # ABBYY split one word ("afi ection")
+            pairs = [((A[0][0] + A[1][0], A[0][1] + " " + A[1][1], A[0][2], A[0][3]), B[0])]
+        elif all(ok(x[0]) or x[0].isdigit() for x in A) and not all(ok(x[0]) for x in B):
+            upheld += len(A)        # ABBYY's words are words; Tesseract's run is not
+            continue
+        else:
+            review.append({"a": " ".join(x[1] for x in A), "b": " ".join(x[1] for x in B),
+                           "leaf": A[0][3], "before": " ".join(x[1] for x in a[max(0, i1 - 4):i1]),
+                           "after": " ".join(x[1] for x in a[i2:i2 + 4])})
+            continue
+        for (an, ao, abi, aleaf), (bn, bo, bleaf) in pairs:
+            if an == bn:
+                continue
+            aok = ok(an) or an.isdigit()
+            bok = all(ok(x) for x in bn.split())
+            if aok and (not bok or (len(bn) < len(an) and an.startswith(bn))):
+                upheld += 1         # Tesseract misread, or read only the start of the word
+            elif bok and not aok and not re.search(r"\d", bo) and plausible(an, bn, ao):
+                fixes.append({"leaf": aleaf, "from": ao, "to": match_case(ao.split()[0], bo),
+                              "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+                              "by": "press_proof"})
+            else:
+                review.append({"a": ao, "b": bo, "leaf": aleaf})
+    # merge the fixes into the rules file
+    p = os.path.join(press_build.RULES, f"{slug}.json")
+    rules = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    have = {(f["leaf"], f["from"]) for f in rules.get("ocr_fixes", [])}
+    new = []
+    for f in fixes:
+        if (f["leaf"], f["from"]) not in have and f["leaf"] is not None:
+            have.add((f["leaf"], f["from"]))
+            new.append(f)
+    rules.setdefault("ocr_fixes", []).extend(new)
+    press_build.atomic_write(p, json.dumps(rules, indent=1, ensure_ascii=False) + "\n")
+    matched = sum(i2 - i1 for t, i1, i2, _, _ in ops if t == "equal")
+    res = {"slug": slug, "scan": ident, "mode": "two-engine", "book_words": len(a), "tesseract_words": len(b),
+           "agreeing_words": matched, "agreement": round(matched / max(1, len(a)), 4),
+           "ocr_fixes_new": len(new), "ocr_fixes_total": len(rules["ocr_fixes"]), "upheld": upheld,
+           "review": review, "checked": time.strftime("%Y-%m-%d")}
+    press_build.atomic_write(os.path.join(press_build.OUT, slug, "proof.json"),
+                             json.dumps(res, indent=1, ensure_ascii=False))
+    L = [f"# Proof sheet: {e['title']}", "",
+         f"`{slug}` is set from the OCR of archive.org `{ident}` (leaves {lo}-{hi}). Proofed by a second "
+         f"engine: every page re-read with Tesseract and collated word by word ({res['checked']}).", "",
+         f"- Words: {len(a):,}; the two engines agree on {matched:,} ({res['agreement']:.1%})",
+         f"- OCR errors fixed where only one engine's reading is a word: **{res['ocr_fixes_total']}** "
+         f"(`pipeline/press_rules/{slug}.json`, `ocr_fixes`)",
+         f"- ABBYY upheld against a Tesseract misread: {upheld}",
+         f"- For a person to look at: **{len(review)}**", ""]
+    if review:
+        L += ["| # | ABBYY | Tesseract | Leaf |", "|---:|---|---|---|"]
+        for n, r in enumerate(review[:400], 1):
+            L.append(f"| {n} | {r['a'] or '∅'} | {r['b'] or '∅'} | {r['leaf']} |")
+        if len(review) > 400:
+            L.append(f"\n…and {len(review) - 400} more in data/press/{slug}/proof.json.")
+    press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
+    return res
+
+# ===================================================================== TCP books
+# A hand-keyed EEBO-TCP text has no scan on archive.org to collate against: the
+# page images belong to ProQuest's EEBO. What a person must still do is supply
+# what the keyers could not read. The sheet lists every such place with the
+# page (printed number and EEBO image) and the words around it.
+RE_GAP = re.compile(r"\[((?:⟨[^⟩]*⟩\s?)+)\]\{\.gap\}")
+RE_TCP_PB = re.compile(r'\[\]\{#[^}]*\.pb n="([^"]*)" img="([^"]*)"\}')
+
+GAPCH = "\ue000"   # one unread letter, while a gap word is matched
+RE_LETTER_GAP = re.compile(r"\[((?:⟨•⟩)+)\]\{\.gap\}")
+
+def fold(w):
+    """Spelling-blind form, to compare a 1630s word with its 1860s reprint:
+    u/v, i/j/y, doubled letters, a final e."""
+    w = norm(w).translate(str.maketrans("ujy", "vii"))
+    w = re.sub(r"(.)\1+", r"\1", w)
+    return w[:-1] if w.endswith("e") and len(w) > 2 else w
+
+def gap_words(md):
+    """The words of a passage, each unread letter as GAPCH (a word with one
+    is a gap word; the rest are the book's own lexicon). Other gaps (a word,
+    Greek) break the run of words."""
+    t = RE_LETTER_GAP.sub(lambda m: GAPCH * m.group(1).count("•"), md)
+    t = press_render.plain(RE_GAP.sub(" | ", t))
+    return re.findall(r"[A-Za-z" + GAPCH + r"]+|\|", t)
+
+def supply(doc, e):
+    """Readings for letters the keyers could not read. A reading is offered
+    only when the book itself prints exactly one word that fits the gap (the
+    same printer's spelling), or when several fit and the 19th-century
+    edition's word at that place picks out one of them; and never when that
+    edition, having the passage, reads otherwise. Returns {gap word: (reading,
+    evidence)}; the build applies them through the rules file's "supplied"."""
+    texts = [(b.get("md") or "") for b in doc["blocks"]] + list(doc.get("notes", {}).values())
+    streams = [gap_words(md) for md in texts]
+    lex = {}
+    for st in streams:
+        for w in st:
+            if GAPCH not in w and w != "|":
+                lex[w] = lex.get(w, 0) + 1
+    by_lower = {}
+    for w, n in lex.items():
+        by_lower.setdefault(w.lower(), {})[w] = n
+    # witness B: the 19th-century edition, if the catalog names one
+    alt = e.get("scan_alternative") or e["source"].get("scan_alternative")
+    bidx, btoks = {}, []
+    if alt:
+        try:
+            if "ia" in alt:
+                ident = alt["ia"]
+            else:
+                ident = json.load(open(os.path.join(HERE, f"{alt['shelf']}_shelf.json"), encoding="utf-8"))[
+                    "internet_archive"][alt["volume"]][0]
+            btoks = [fold(t[1]) for t in ocr_witness(ident)[0]]
+            for i in range(len(btoks) - 3):
+                bidx.setdefault(tuple(btoks[i:i + 3]), []).append(i)
+        except Exception as ex:
+            print(f"no 19th-century witness: {ex}", file=sys.stderr)
+    out = {}
+    for st in streams:
+        for i, w in enumerate(st):
+            if GAPCH not in w or w.strip(GAPCH) == "":
+                continue   # a whole word unread is a person's to supply
+            rx = re.compile("^" + "".join("[a-z]" if c == GAPCH else re.escape(c.lower()) for c in w) + "$")
+            cands = sorted(lw for lw in by_lower if rx.match(lw))
+            before = [fold(x) for x in st[max(0, i - 3):i]]
+            after = [fold(x) for x in st[i + 1:i + 2]]
+            reading_b = None
+            if len(before) == 3 and all(GAPCH not in x and x != "|" for x in st[i - 3:i]) and bidx:
+                hits = {btoks[p + 3] for p in bidx.get(tuple(before), [])
+                        if p + 4 < len(btoks) and (not after or GAPCH in st[i + 1] or btoks[p + 4] == after[0])}
+                reading_b = hits.pop() if len(hits) == 1 else None
+            if reading_b is not None:
+                fit = [c for c in cands if fold(c) == reading_b]
+            else:
+                # the book alone decides only a longer word: "it•" could be its or it's
+                fit = cands if len(cands) == 1 and len(w) >= 5 else []
+            if len(fit) != 1 or (reading_b is None and len(cands) != 1):
+                continue
+            lw = fit[0]
+            # the letter in the case the book prints it
+            form = max(by_lower[lw].items(), key=lambda kv: kv[1])[0]
+            reading = "".join(f if c == GAPCH else c for c, f in zip(w, form))
+            if reading.lower() != lw:
+                continue
+            ev = "book" + ("+edition" if reading_b is not None else "")
+            prev = out.get(w)
+            if prev and prev[0] != reading:
+                out[w] = (None, "conflict")
+            elif not prev:
+                out[w] = (reading, ev)
+    return {w: v for w, v in out.items() if v[0]}
+
+def supplied_rules(doc, readings):
+    """The readings as rules on the markdown: one per gap word, matched as a
+    whole word everywhere it stands (a count the build checks)."""
+    texts = [(b.get("md") or "") for b in doc["blocks"]] + list(doc.get("notes", {}).values())
+    rules = []
+    for w, (reading, ev) in sorted(readings.items()):
+        find, repl, j = "", "", 0
+        for k, c in enumerate(w):
+            if c == GAPCH:
+                if k and w[k - 1] == GAPCH:
+                    continue
+                n = len(w[k:]) - len(w[k:].lstrip(GAPCH))
+                find += "[" + "⟨•⟩" * n + "]{.gap}"
+                repl += "[" + reading[k:k + n] + "]{.supplied}"
+            else:
+                find += c; repl += c
+        # matched with the character either side, so a rule for "Chri•t" never
+        # lands inside "Chri•tian": one rule per distinct pair of neighbours
+        whole = re.compile(r"(?<![A-Za-z])" + re.escape(find) + r"(?![A-Za-z])")
+        keys = {}
+        for md in texts:
+            for m in whole.finditer(md):
+                if m.start() == 0 or m.end() == len(md):
+                    continue   # a block's first or last word: no neighbour to anchor on
+                k = md[m.start() - 1] + find + md[m.end()]
+                keys[k] = keys.get(k, 0) + 1
+        for k, n in sorted(keys.items()):
+            if sum(md.count(k) for md in texts) == n:
+                rules.append({"find": k, "replace": k[0] + repl + k[-1], "count": n, "evidence": ev,
+                              "by": "press_proof"})
+    return rules
+
+def proof_tcp(slug):
+    cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
+    e = cat["titles"][slug]
+    doc = press_build.convert(slug, e, press_build.source_file(slug, e))
+    readings = supply(doc, e)
+    srules = supplied_rules(doc, readings)
+    p = os.path.join(press_build.RULES, f"{slug}.json")
+    rules = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    if srules or rules.get("supplied"):
+        rules["supplied"] = srules
+        press_build.atomic_write(p, json.dumps(rules, indent=1, ensure_ascii=False) + "\n")
+    EV = {"book": "the book's own spelling", "book+edition": "the book's spelling and the 19th-century edition"}
+    rows, page, img = [], "", ""
+    texts = [(b.get("md") or "") for b in doc["blocks"]] + list(doc.get("notes", {}).values())
+    for md in texts:
+        spans = []   # (start, end, reading, evidence) of each supplied gap word
+        for r in srules:
+            for m in re.finditer(re.escape(r["find"]), md):
+                spans.append((m.start(), m.end(), re.sub(r"\[([^\]]*)\]\{\.supplied\}", r"\1", r["replace"]),
+                              r["evidence"]))
+        events = sorted([(m.start(), "pb", m) for m in RE_TCP_PB.finditer(md)] +
+                        [(m.start(), "gap", m) for m in RE_GAP.finditer(md)], key=lambda x: x[0])
+        for at, kind, m in events:
+            if kind == "pb":
+                page, img = m.group(1), m.group(2)
+                continue
+            before = press_render.plain(md[max(0, at - 120):at]).split()[-6:]
+            after = press_render.plain(md[m.end():m.end() + 120]).split()[:6]
+            what = "Greek or Hebrew" if "Greek" in m.group(1) else m.group(1).replace("⟨•⟩", "•").replace("⟨word⟩", "[word]")
+            sup = next((f"{w} ({EV[ev]})" for s0, s1, w, ev in spans if s0 <= at < s1), "")
+            rows.append((what, page, img, " ".join(before), " ".join(after), sup))
+    ill = sum(1 for r in rows if r[0] != "Greek or Hebrew")
+    done = sum(1 for r in rows if r[5])
+    alt = (e.get("scan_alternative") or e["source"].get("scan_alternative") or {}).get("edition") \
+        or "the 19th-century edition"
+    L = [f"# Proof sheet: {e['title']}", "",
+         f"`{slug}` is set from EEBO-TCP {e['source']['id']}, keyed twice by hand from the first edition's "
+         f"page images. There is no scan of that printing on archive.org to collate against, so this sheet "
+         f"lists what a person must still supply from the page images "
+         f"(`python3 pipeline/press_proof.py {slug}`, {time.strftime('%Y-%m-%d')}).", "",
+         f"- Places the keyers could not read: **{ill}**",
+         f"- Of those, supplied in this edition: **{done}**. A letter is supplied only where the book prints "
+         f"exactly one word that fits the gap elsewhere, or where several fit and {alt} picks out one; never "
+         f"where that edition, having the passage, reads otherwise (rules in "
+         f"`pipeline/press_rules/{slug}.json`, under \"supplied\"). These are still to be checked against the "
+         f"page image.",
+         f"- Still to supply from the page images: **{ill - done}**",
+         f"- Greek or Hebrew they did not key: **{len(rows) - ill}**",
+         f"- Errata printed in the first edition, listed in the Note on the Text, not yet applied: "
+         f"{len(doc.get('errata') or [])}", ""]
+    if rows:
+        L += ["| # | Missing | Page (EEBO image) | Before | After | Supplied |", "|---:|---|---|---|---|---|"]
+        for n, (what, pg, im, b, a, sup) in enumerate(rows, 1):
+            L.append(f"| {n} | {what} | {pg or '?'} ({im or '?'}) | …{b} | {a}… | {sup} |")
+    press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
+    return {"unread": ill, "supplied": done, "untranscribed": len(rows) - ill}
+
+if __name__ == "__main__":
+    cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
+    slug = sys.argv[1]
+    if cat["titles"][slug]["source"]["kind"] == "tcp":
+        print(json.dumps(proof_tcp(slug)))
+    elif cat["titles"][slug]["source"]["kind"] == "ia-extract":
+        r = proof_ocr(slug)
+        print(json.dumps({k: r[k] for k in ("book_words", "agreeing_words", "agreement", "ocr_fixes_new",
+                                              "ocr_fixes_total", "upheld")}, ensure_ascii=False), "review", len(r["review"]))
+    else:
+        vol = sys.argv[sys.argv.index("--volume") + 1] if "--volume" in sys.argv else None
+        r = proof(slug, use_tess="--no-tess" not in sys.argv, volume=vol)
+        print(json.dumps({k: r[k] for k in ("book_words", "scan_words", "aligned_words", "coverage", "counts")}))

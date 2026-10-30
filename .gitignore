@@ -21,3 +21,5 @@ data/lemmas/whitaker-la/lemmas.jsonl
 
 # The reader (pipeline/render_reader.py) is generated; rebuild, never commit.
 build/
+data/press/
+data/corpus/press/
