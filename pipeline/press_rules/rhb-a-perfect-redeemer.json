@@ -1,0 +1,18 @@
+{
+ "supplied": [
+  {
+   "find": " Priuat[⟨•⟩]{.gap} ",
+   "replace": " Priuat[e]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " iudgem[⟨•⟩]{.gap}nt ",
+   "replace": " iudgem[e]{.supplied}nt ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

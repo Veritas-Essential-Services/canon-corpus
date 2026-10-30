@@ -1,0 +1,214 @@
+{
+ "supplied": [
+  {
+   "find": " Chr[⟨•⟩⟨•⟩]{.gap},",
+   "replace": " Chr[on]{.supplied},",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Kingdo[⟨•⟩]{.gap} ",
+   "replace": " Kingdo[m]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " N[⟨•⟩]{.gap}thing ",
+   "replace": " N[o]{.supplied}thing ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " beli[⟨•⟩⟨•⟩]{.gap}ing ",
+   "replace": " beli[ev]{.supplied}ing ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " cau[⟨•⟩]{.gap}e ",
+   "replace": " cau[s]{.supplied}e ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " compare[⟨•⟩]{.gap} ",
+   "replace": " compare[s]{.supplied} ",
+   "count": 2,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " c[⟨•⟩]{.gap}nscire ",
+   "replace": " c[o]{.supplied}nscire ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " dail[⟨•⟩]{.gap} ",
+   "replace": " dail[y]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " dyin[⟨•⟩]{.gap} ",
+   "replace": " dyin[g]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " effic[⟨•⟩]{.gap}cy ",
+   "replace": " effic[a]{.supplied}cy ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ex[⟨•⟩]{.gap}remity ",
+   "replace": " ex[t]{.supplied}remity ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " g[⟨•⟩⟨•⟩]{.gap}rying ",
+   "replace": " g[lo]{.supplied}rying ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " impo[⟨•⟩⟨•⟩⟨•⟩]{.gap}ble ",
+   "replace": " impo[ssi]{.supplied}ble ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " judg[⟨•⟩]{.gap} ",
+   "replace": " judg[e]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " othe[⟨•⟩]{.gap} ",
+   "replace": " othe[r]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " particul[⟨•⟩⟨•⟩⟨•⟩]{.gap} ",
+   "replace": " particul[ars]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " quie[⟨•⟩]{.gap} ",
+   "replace": " quie[t]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " su[⟨•⟩⟨•⟩]{.gap}er ",
+   "replace": " su[ff]{.supplied}er ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " s[⟨•⟩]{.gap}ood ",
+   "replace": " s[t]{.supplied}ood ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " thei[⟨•⟩]{.gap} ",
+   "replace": " thei[r]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " thing[⟨•⟩]{.gap} ",
+   "replace": " thing[s]{.supplied} ",
+   "count": 2,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " woul[⟨•⟩]{.gap} ",
+   "replace": " woul[d]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}bout ",
+   "replace": " [a]{.supplied}bout ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}nemy ",
+   "replace": " [e]{.supplied}nemy ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ossibly ",
+   "replace": " [p]{.supplied}ossibly ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩⟨•⟩]{.gap}curity ",
+   "replace": " [se]{.supplied}curity ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩⟨•⟩]{.gap}ffering ",
+   "replace": " [su]{.supplied}ffering ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩⟨•⟩]{.gap}nful ",
+   "replace": " [si]{.supplied}nful ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩⟨•⟩]{.gap}ubts ",
+   "replace": " [do]{.supplied}ubts ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩⟨•⟩]{.gap}vil,",
+   "replace": " [de]{.supplied}vil,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

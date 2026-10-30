@@ -1,0 +1,220 @@
+{
+ "corrections": [
+  {
+   "find": "judgement",
+   "replace": "judgment",
+   "count": 1,
+   "why": "the scan reads “judgment” (archive.org worksofrevhughbi00binn, leaf 582, printed p. 523): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     582
+    ],
+    "page": [
+     "523"
+    ],
+    "ocr": "judgment",
+    "tesseract": "judgment"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "blessed effect",
+   "replace": "blessed effects",
+   "count": 1,
+   "why": "the scan reads “effects” (archive.org worksofrevhughbi00binn, leaf 582, printed p. 523): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     582
+    ],
+    "page": [
+     "523"
+    ],
+    "ocr": "effects",
+    "tesseract": "effects"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "convincing argument",
+   "replace": "convincing arguments",
+   "count": 1,
+   "why": "the scan reads “arguments” (archive.org worksofrevhughbi00binn, leaf 582, printed p. 523): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     582
+    ],
+    "page": [
+     "523"
+    ],
+    "ocr": "arguments",
+    "tesseract": "arguments"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "mured",
+   "replace": "inured",
+   "count": 1,
+   "why": "the scan reads “inured” (archive.org worksofrevhughbi00binn, leaf 586, printed p. 527): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     586
+    ],
+    "page": [
+     "527"
+    ],
+    "ocr": "inured",
+    "tesseract": "inured"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "rule out",
+   "replace": "rule our",
+   "count": 1,
+   "why": "the scan reads “our” (archive.org worksofrevhughbi00binn, leaf 589, printed p. 530): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     589
+    ],
+    "page": [
+     "530"
+    ],
+    "ocr": "our",
+    "tesseract": "our"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "submits",
+   "replace": "submit",
+   "count": 1,
+   "why": "the scan reads “submit” (archive.org worksofrevhughbi00binn, leaf 589, printed p. 530): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     589
+    ],
+    "page": [
+     "530"
+    ],
+    "ocr": "submit",
+    "tesseract": "submit"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "hid those",
+   "replace": "hid these",
+   "count": 1,
+   "why": "the scan reads “these” (archive.org worksofrevhughbi00binn, leaf 596, printed p. 537): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     596
+    ],
+    "page": [
+     "537"
+    ],
+    "ocr": "these",
+    "tesseract": "these"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "behoving",
+   "replace": "believing",
+   "count": 1,
+   "why": "the scan reads “believing” (archive.org worksofrevhughbi00binn, leaf 596, printed p. 537): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     596
+    ],
+    "page": [
+     "537"
+    ],
+    "ocr": "believing",
+    "tesseract": "believing"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "hauled",
+   "replace": "hurled",
+   "count": 1,
+   "why": "the scan reads “hurled” (archive.org worksofrevhughbi00binn, leaf 598, printed p. 539): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     598
+    ],
+    "page": [
+     "539"
+    ],
+    "ocr": "hurled",
+    "tesseract": "hurled"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "stain",
+   "replace": "incrassate",
+   "count": 1,
+   "why": "the scan reads “incrassate” (archive.org worksofrevhughbi00binn, leaf 600, printed p. 541): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     600
+    ],
+    "page": [
+     "541"
+    ],
+    "ocr": "incrassate",
+    "tesseract": "incrassate"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "to even",
+   "replace": "to every",
+   "count": 1,
+   "why": "the scan reads “every” (archive.org worksofrevhughbi00binn, leaf 608, printed p. 549): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     608
+    ],
+    "page": [
+     "549"
+    ],
+    "ocr": "every",
+    "tesseract": "every"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "it please",
+   "replace": "it pleased",
+   "count": 1,
+   "why": "the scan reads “pleased” (archive.org worksofrevhughbi00binn, leaf 609, printed p. 550): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofrevhughbi00binn",
+    "leaf": [
+     609
+    ],
+    "page": [
+     "550"
+    ],
+    "ocr": "pleased",
+    "tesseract": "pleased"
+   },
+   "by": "press_proof"
+  }
+ ]
+}
