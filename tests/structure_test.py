@@ -438,6 +438,39 @@ check("shelf: a book with no Contents falls back to the CAPS rule",
 check("thml: <pre> verse is read only where a book opts in",
       "chesterton-whitehorse" in st.THML_PRE_VERSE and len(st.THML_PRE_VERSE) == 1)
 
+# Short paragraphs and <verse> in ThML (2026-10-30). A novel's short lines are
+# dialogue, not furniture: an opted-in book keeps them, ADDING ids and moving
+# none, and its <verse> stands where it is printed. Fixture is invented text.
+_TH = ('<ThML><head><DC><DC.Title>T</DC.Title></DC></head><ThML.body>'
+       '<div1 title="Title Page" id="i"><p id="i-p1">To a Friend</p>'
+       '<verse><l>First line of the verse, long enough,</l><l>and a second.</l></verse>'
+       '<p id="i-p2">G. K. C.</p><p>Copyright, 1908</p></div1>'
+       '<div1 title="CHAPTER I" id="ii"><p>CHAPTER I</p>'
+       '<p>A paragraph comfortably longer than forty characters in all.</p>'
+       '<p>“What?” cried Dr Hood.</p>'
+       '<p>Another paragraph comfortably longer than forty characters.</p></div1>'
+       '</ThML.body></ThML>')
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_TH)
+_saved = (set(st.THML_KEEP_SHORT), set(st.THML_VERSE))
+st.THML_KEEP_SHORT, st.THML_VERSE = set(), set()
+_off = {u["id"]: u["text"] for u in st.convert_thml(_fh.name, "t")["units"]}
+st.THML_KEEP_SHORT, st.THML_VERSE = {"t"}, {"t"}
+_on = st.convert_thml(_fh.name, "t")["units"]
+st.THML_KEEP_SHORT, st.THML_VERSE = _saved
+os.unlink(_fh.name)
+_onid = [u["id"] for u in _on]
+check("thml: by default a short paragraph is dropped (the old rule, unchanged)",
+      list(_off) == ["t:ii-p2", "t:ii-p4"])
+check("thml: keeping short lines adds ids and moves none",
+      all(_off[i] == next(u["text"] for u in _on if u["id"] == i) for i in _off))
+check("thml: kept short lines, the heading and the verse in printed order; furniture out",
+      _onid == ["t:i-p1", "t:i-v1", "t:i-p2", "t:ii-p1", "t:ii-p2", "t:ii-p3", "t:ii-p4"])
+check("thml: a verse keeps its lineation",
+      _on[1]["text"] == "First line of the verse, long enough,\nand a second.")
+check("thml: Heretics stays out (its read-along timings name its units)",
+      "chesterton-heretics" not in st.THML_KEEP_SHORT | st.THML_VERSE)
+
 # A Christmas Carol (2026-10-16): the stave headings become clean ids and refs,
 # the Contents and the title page are not text, and the default id rule (the
 # Chesterton shelf above) is untouched. Fixture is invented text in PG 46's shape.

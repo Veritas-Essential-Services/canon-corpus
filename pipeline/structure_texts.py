@@ -129,6 +129,28 @@ THML_AUTHOR_FIX = {"chesterton-rightworld": "G. K. Chesterton"}
 # Opt-in per slug so no existing book's unit ids can move.
 THML_PRE_VERSE = {"chesterton-whitehorse"}
 RE_PRE = re.compile(r"<pre\b[^>]*>(.*?)</pre>", re.S | re.I)
+# Books whose short paragraphs are TEXT, not furniture. convert_thml drops any
+# paragraph under 40 characters, which in a novel or a play throws away
+# dialogue ("“What?” cried Dr Hood.") and every chapter heading -- 571 lines
+# across these books, measured 2026-10-30. Opt-in per slug, like
+# THML_PRE_VERSE: the paragraph counter j already counts the dropped lines, so
+# keeping them ADDS ids and moves none. Only publisher furniture stays out.
+THML_KEEP_SHORT = {
+    "chesterton-ball_cross", "chesterton-innocencebrown", "chesterton-longbow",
+    "chesterton-magic", "chesterton-napoleon", "chesterton-thursday",
+    "chesterton-toomuch", "chesterton-treesofpride", "chesterton-trifles",
+    "chesterton-whatwrong", "chesterton-wisdom",
+}
+# Books whose <verse><l> blocks are part of the text (Thursday's dedication
+# poem to E. C. Bentley and its two chapter verses). One unit per <verse>,
+# lines kept, id <div>-v<k>, placed where the verse stands among the
+# paragraphs. Opt-in: Heretics has verse too but already has read-along
+# timings, so it is left alone.
+THML_VERSE = {"chesterton-thursday"}
+RE_VERSE = re.compile(r"<verse\b[^>]*>(.*?)</verse>", re.S | re.I)
+RE_VLINE = re.compile(r"<l\b[^>]*>(.*?)</l>", re.S | re.I)
+RE_FURNITURE = re.compile(r"copyright|all rights reserved|knickerbocker press|"
+                          r"^printed (in|by)\b", re.I)
 
 def convert_thml(path, slug):
     raw = open(path, encoding="utf-8", errors="replace").read()
@@ -149,16 +171,30 @@ def convert_thml(path, slug):
         did = attrs.get("id", f"d{i}")
         dtitle = attrs.get("shorttitle") or attrs.get("title") or attrs.get("type", "")
         seg = raw[m.end(): divs[i + 1].start() if i + 1 < len(divs) else len(raw)]
+        first = len(units)
         for j, pm in enumerate(RE_PARA.finditer(seg), 1):
             ptext = clean(pm.group(1))
-            if len(ptext) < 40:
+            if len(ptext) < 40 and (slug not in THML_KEEP_SHORT or not ptext
+                                    or RE_FURNITURE.search(ptext)):
                 continue
             links = set(RE_SCRIP.findall(pm.group(1)))
             links |= {f"{b}.{c}.{v}" for b, c, v in RE_SCRIP_PARSED.findall(pm.group(1))}
             links = sorted(links)
             units.append({"id": f"{slug}:{did}-p{j}",
                           "ref": f"{dtitle}, par. {j}",
-                          "text": ptext, "links": links})
+                          "text": ptext, "links": links, "_at": pm.start()})
+        if slug in THML_VERSE:
+            for k, vm in enumerate(RE_VERSE.finditer(seg), 1):
+                lines = [clean(l) for l in RE_VLINE.findall(vm.group(1))]
+                lines = [l for l in lines if l]
+                if lines:
+                    units.append({"id": f"{slug}:{did}-v{k}",
+                                  "ref": f"{dtitle}, verse {k}",
+                                  "text": "\n".join(lines), "links": [],
+                                  "_at": vm.start()})
+        units[first:] = sorted(units[first:], key=lambda u: u["_at"])
+        for u in units[first:]:
+            del u["_at"]
         if slug in THML_PRE_VERSE:
             # verse set in <pre>: one unit per stanza, lineation kept
             k = 0
