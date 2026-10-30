@@ -1,0 +1,42 @@
+{
+ "_about": "Richard Greenham (c. 1535-1594), rector of Dry Drayton and the father of Elizabethan practical divinity: his Workes, collected by Henry Holland, in the fullest edition (London, 1611-1612). Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "richard greenham",
+  "m. greenham",
+  "mr. greenham",
+  "m. richard greenham",
+  "greenham"
+ ],
+ "_surname": [
+  "richard greenham",
+  "m. greenham",
+  "mr. greenham",
+  "m. richard greenham",
+  "greenham"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "greenham-workes-1612": [
+   "bim_early-english-books-1475-1640_the-workes-of-the-rever_greenham-richard_1611",
+   "The Workes of the Reverend and Faithfull Servant of Jesus Christ M. Richard Greenham, collected into one volume (London, 1611-1612)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_the-workes-of-the-revere_greenham-richard_1599, _1601, the-works-examined-cor_greenham-richard_1600, _1605, the-second-part-of-the-w_greenham-richard_1600": "Earlier editions of the Workes."
+ },
+ "_excluded": {},
+ "_checks": {
+  "greenham-workes-1612": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard greenham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1611",
+   "ia_date": "1611",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

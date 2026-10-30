@@ -1,0 +1,32 @@
+{
+ "_about": "Edmund Grindal (c.1519-1583), Archbishop of Canterbury: Remains, Parker Society ed. William Nicholson (1843). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "grindal"
+ ],
+ "_surname": [
+  "grindal"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grindal-ps-remains": [
+   "theremainsofedmu00grinuoft",
+   "The Remains of Edmund Grindal, ed. William Nicholson (Parker Society, Cambridge, 1843)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "grindal-ps-remains": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grindal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

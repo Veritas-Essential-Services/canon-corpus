@@ -1,0 +1,93 @@
+{
+ "_about": "Bennet Tyler (1783-1858), president of Dartmouth and first president of the Theological Institute of Connecticut (East Windsor), the chief opponent of Taylor's New Haven theology: Letters on the Origin and Progress of the New Haven Theology (New York, 1837), New England Revivals (Boston, 1846), The Sufferings of Christ Confined to his Human Nature (Hartford, 1847) and his posthumous Lectures on Theology, with a memoir by Nahum Gale (Boston: J. E. Tilton, 1859; a Google scan, and Google asks for non-commercial use). His Nettleton books are on the asahel-nettleton shelf. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "bennet tyler",
+  "dr. tyler",
+  "dr tyler",
+  "b. tyler"
+ ],
+ "_surname": [
+  "bennet tyler",
+  "dr. tyler",
+  "dr tyler",
+  "b. tyler"
+ ],
+ "_identity_checked": {
+  "tyler-sufferings-of-christ-1847": "The OCR reads 'BENNET’ TYLER' (a stray apostrophe), so the word check misses it. The title page reads: The Sufferings of Christ Confined to his Human Nature, a reply to a book entitled The Sufferings of Christ, by a Layman, by Bennet Tyler, D.D. (Hartford: D. R. Woodford, 1847)."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tyler-new-haven-theology-1837": [
+   "lettersonoriginp00tyle",
+   "Letters on the Origin and Progress of the New Haven Theology (New York: Robert Carter and Ezra Collier, 1837)"
+  ],
+  "tyler-new-england-revivals-1846": [
+   "newenglandreviva00tyle",
+   "New England Revivals, as they existed at the close of the eighteenth and the beginning of the nineteenth centuries (Boston: Massachusetts Sabbath School Society, 1846)"
+  ],
+  "tyler-sufferings-of-christ-1847": [
+   "sufferingsofchri00tyle",
+   "The Sufferings of Christ Confined to his Human Nature (Hartford: D. R. Woodford, 1847)"
+  ],
+  "tyler-lectures-on-theology-1859": [
+   "lecturesontheol00galegoog",
+   "Lectures on Theology, with a memoir by Nahum Gale (Boston: J. E. Tilton, 1859)"
+  ]
+ },
+ "_alternates": {
+  "lettersonorigin0*tylegoog": "Google copies of the Letters.",
+  "lecturesontheol01galegoog": "Another Google copy of the Lectures.",
+  "newenglandreviva0000tyle": "Claremont copy of the Revivals."
+ },
+ "_pending": {
+  "reviewofpresiden00tyle (A Review of President Day's Treatise on the Will, 1838)": "Internet Archive returned HTTP 500 for its text on 2026-10-03; title page not yet read."
+ },
+ "_excluded": {},
+ "_checks": {
+  "tyler-new-haven-theology-1837": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dr. tyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tyler-new-england-revivals-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bennet tyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tyler-sufferings-of-christ-1847": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tyler-lectures-on-theology-1859": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bennet tyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

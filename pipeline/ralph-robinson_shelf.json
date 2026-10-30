@@ -1,0 +1,42 @@
+{
+ "_about": "Ralph Robinson (1614-1655), minister of St Mary Woolnoth, London, and member of the Westminster Assembly: Christ All and in All, or several significant similitudes by which the Lord Jesus Christ is described in the holy Scriptures, the substance of many sermons, published after his death (London, 1656). Early English Books Online scans of first or early printings; the OCR prints the long s ('ſ') and old type, so expect errors. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "ralph robinson",
+  "r. robinson"
+ ],
+ "_surname": [
+  "ralph robinson",
+  "r. robinson"
+ ],
+ "_identity_checked": {
+  "ralph-robinson-christ-all-1656": {
+   "author": "The OCR splits the name: the title page reads 'that faithful and useful servant of Christ Mr. R AL PH; - ROBINSON, late Pastor at Mary Wolnoth London'."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ralph-robinson-christ-all-1656": [
+   "bim_early-english-books-1641-1700_christ-all-and-in-all_robinson-ralph_1656_0",
+   "Christ All and in All (London, 1656)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_christ-all-and-in-all_robinson-ralph_1656": "A second EEBO scan (1656); OCR worse.",
+  "christ-all-and-in-all-etc-the-editors-pr": "A community upload of an 1827 reprint, of unknown origin; not used."
+ },
+ "_excluded": {},
+ "_checks": {
+  "ralph-robinson-christ-all-1656": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1656",
+   "ia_date": "1656",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

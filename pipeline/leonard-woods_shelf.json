@@ -1,0 +1,100 @@
+{
+ "_about": "Leonard Woods (1774-1854), first professor of Christian theology at Andover Seminary and the leading Old Calvinist critic of Unitarianism and of Taylor's New Haven theology: Works (Boston: John P. Jewett, 1849-1851, 5 vols). Princeton copies of the 1851 issue. Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "leonard woods",
+  "dr. woods",
+  "dr woods",
+  "l. woods"
+ ],
+ "_surname": [
+  "leonard woods",
+  "dr. woods",
+  "dr woods",
+  "l. woods"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "woods-works-1": [
+   "worksofleonard011851wood",
+   "The Works of Leonard Woods (Boston: John P. Jewett, 1851), vol. I"
+  ],
+  "woods-works-2": [
+   "worksofleonard021851wood",
+   "The Works of Leonard Woods (Boston: John P. Jewett, 1851), vol. II"
+  ],
+  "woods-works-3": [
+   "worksofleonard031851wood",
+   "The Works of Leonard Woods (Boston: John P. Jewett, 1851), vol. III"
+  ],
+  "woods-works-4": [
+   "worksofleonard041851wood",
+   "The Works of Leonard Woods (Boston: John P. Jewett, 1851), vol. IV"
+  ],
+  "woods-works-5": [
+   "worksofleonard051851wood",
+   "The Works of Leonard Woods (Boston: John P. Jewett, 1851), vol. V"
+  ]
+ },
+ "_alternates": {
+  "worksofleonard01-03wood (1849-1850 issue), worksofleonardwo01-05wood (NYPL), worksleonardwoo0*woodgoog": "Other copies of the set."
+ },
+ "_excluded": {},
+ "_checks": {
+  "woods-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leonard woods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woods-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leonard woods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woods-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leonard woods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woods-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leonard woods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woods-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leonard woods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

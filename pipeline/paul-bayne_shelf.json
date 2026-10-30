@@ -1,0 +1,36 @@
+{
+ "_about": "Paul Bayne (d. 1617), Cambridge Puritan, Sibbes's teacher: An Entire Commentary upon the Whole Epistle of St Paul to the Ephesians (1866). Nichol's Series of Commentaries (Edinburgh: James Nichol; London: James Nisbet, general editor Thomas Smith), Princeton Seminary copy. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "bayne",
+  "baynes"
+ ],
+ "_surname": [
+  "bayne",
+  "baynes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bayne-ephesians-1866": [
+   "entirecommentary00bayn",
+   "An Entire Commentary upon the Whole Epistle of St Paul to the Ephesians (Edinburgh: Nichol, 1866)"
+  ]
+ },
+ "_alternates": {
+  "commenf00bayn (1618); bim_early-english-books-1641-1700_an-entire-commentary-vpo_baynes-paul_1643, ..._1647, a-commentary-on-the-epis_baynes-paul_1658": "17th-century printings."
+ },
+ "_excluded": {},
+ "_checks": {
+  "bayne-ephesians-1866": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bayne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

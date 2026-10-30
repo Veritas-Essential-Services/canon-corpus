@@ -1,0 +1,44 @@
+{
+ "_about": "Tobias Crisp (1600-1643), rector of Brinkworth, Wiltshire, whose sermons began the antinomian controversy of the 1690s: Christ Alone Exalted, in the Perfection and Encouragement of the Saints, being his complete works, with notes and a memoir by John Gill (the seventh edition, London: John Bennett, 1832, 2 vols). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "tobias crisp",
+  "dr. crisp",
+  "dr crisp",
+  "t. crisp"
+ ],
+ "_surname": [
+  "tobias crisp",
+  "dr. crisp",
+  "dr crisp",
+  "t. crisp"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "crisp-christ-alone-exalted-2": [
+   "christaloneexalt02cris",
+   "Christ Alone Exalted, with notes by John Gill, 7th ed. (London: John Bennett, 1832), vol. II"
+  ]
+ },
+ "_alternates": {
+  "bim_eighteenth-century_christ-alone-exalted-in_crisp-tobias_1755_1/_2, _1791_1/_2, christ_alone_exalted_vol_i_1791-tobias_crisp": "Gill's earlier editions (ECCO scans).",
+  "bim_early-english-books-1641-1700_christ-alone-exalted-in_crisp-tobias_1643, ..._1644, ..._1648, ..._1690": "The first printings of the separate sermon sets."
+ },
+ "_pending": {
+  "christaloneexalt01cris (vol. I)": "Internet Archive returned HTTP 500 for its text on five tries, 2026-10-03. Restore it to internet_archive as crisp-christ-alone-exalted-1 and refetch."
+ },
+ "_excluded": {},
+ "_checks": {
+  "crisp-christ-alone-exalted-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tobias crisp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

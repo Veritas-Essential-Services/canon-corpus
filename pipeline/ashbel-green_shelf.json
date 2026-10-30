@@ -1,0 +1,50 @@
+{
+ "_about": "Ashbel Green (1762-1848), President of the College of New Jersey: Lectures on the Shorter Catechism of the Presbyterian Church in the United States of America (Philadelphia: Presbyterian Board of Publication, 1841, 2 vols). Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "ashbel green"
+ ],
+ "_surname": [
+  "ashbel green"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "green-shorter-catechism-1": [
+   "lecturesonshorte01gree",
+   "Lectures on the Shorter Catechism (Philadelphia: Presbyterian Board, 1841), vol. I"
+  ],
+  "green-shorter-catechism-2": [
+   "lectureonshorter02greeuoft",
+   "Lectures on the Shorter Catechism (Philadelphia: Presbyterian Board, 1841), vol. II"
+  ]
+ },
+ "_alternates": {
+  "lecturesonshorte02gree": "Princeton vol. II; IA returned HTTP 500 for its text on 2026-10-03.",
+  "lecturesonshorte00gree (1829), lectureonshorter01greeuoft, lecturesonshorte0001gree": "The 1829 first edition and other copies."
+ },
+ "_excluded": {},
+ "_checks": {
+  "green-shorter-catechism-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ashbel green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "green-shorter-catechism-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ashbel green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

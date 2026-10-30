@@ -1,0 +1,44 @@
+{
+ "_about": "Richard Alleine (1611-1681), ejected minister of Batcombe, Somerset: Heaven Opened, or a brief and plain discovery of the riches of God's covenant of grace (London: Religious Tract Society, undated, catalogued 1848; the scan is a bound volume of the Society's series that also holds Samuel Shaw's Immanuel). Vindiciae Pietatis (1663) is pending: its title page prints only 'R. A.' Named richard-alleine because lane A's alleine shelf is Joseph Alleine. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "richard alleine",
+  "r. alleine",
+  "rich. alleine"
+ ],
+ "_surname": [
+  "richard alleine",
+  "r. alleine",
+  "rich. alleine"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "r-alleine-heaven-opened-rts": [
+   "heavenopenedorbr0000rari",
+   "Heaven Opened (London: Religious Tract Society, catalogued 1848)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_heaven-opened-_alleine-richard_1666, heaven-opened-or-a-brie_alleine-richard_1666": "The first edition of Heaven Opened (1666); OCR too poor.",
+  "bim_early-english-books-1641-1700_vindici-pietatis_alleine-richard_1669": "A later printing of Vindiciae Pietatis.",
+  "MN41830ucmf_4": "A microfilm of Heaven Opened, not yet title-checked."
+ },
+ "_pending": {
+  "bim_early-english-books-1641-1700_the-world-conquered-_alleine-richard_1676 (The World Conquered, 1676), the-godly-mans-portion_alleine-richard_1662 (The Godly Man's Portion, 1662)": "Their title pages print only 'By R. A.'; to be read by eye before shelving.",
+  "bim_early-english-books-1641-1700_vindiciae-pietatis-_alleine-richard_1663 (Vindiciae Pietatis, 1663)": "Its title page prints only 'By R. A.' and the OCR breaks the title; to be read by eye before shelving."
+ },
+ "_excluded": {},
+ "_checks": {
+  "r-alleine-heaven-opened-rts": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard alleine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

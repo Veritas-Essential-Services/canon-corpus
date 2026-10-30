@@ -1,0 +1,42 @@
+{
+ "_about": "Gotthard Victor Lechler (1811-1888), professor at Leipzig: John Wycliffe and his English Precursors, translated from the German with additional notes by Peter Lorimer, new edition revised, with a chapter on the events after Wycliffe's death (London: Religious Tract Society, 1884). The proto-reformer of the English Reformation. The translator check looks for Lorimer. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "lechler"
+ ],
+ "_surname": [
+  "lechler"
+ ],
+ "_translators": {
+  "lechler-wycliffe-1884": "Lorimer"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lechler-wycliffe-1884": [
+   "johnwycliffehis00lech",
+   "John Wycliffe and his English Precursors, tr. Peter Lorimer, new edition (London: Religious Tract Society, 1884)"
+  ]
+ },
+ "_alternates": {
+  "johnwycliffehise00lechrich": "Another copy of the 1884 edition.",
+  "johnwycliffehise00lechuoft (1904)": "A later reprint."
+ },
+ "_excluded": {
+  "johnwycliffehise0000lech, johnwycliffehise0000prof": "Lending-library scans."
+ },
+ "_checks": {
+  "lechler-wycliffe-1884": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lechler",
+   "translator_claimed": "Lorimer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "_about": "Charles Drelincourt (1595-1669), pastor of the Reformed church at Charenton: The Christian's Defence against the Fears of Death, with seasonable directions how to prepare ourselves to die (New York: printed by James Oram, 1808). The English translation is Marius D'Assigny's, which the scan does not name, so no translator is claimed. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "drelincourt"
+ ],
+ "_surname": [
+  "drelincourt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "drelincourt-fears-of-death-1808": [
+   "christiansdefenc00drel",
+   "The Christian's Defence against the Fears of Death (New York: Oram, 1808)"
+  ]
+ },
+ "_alternates": {
+  "christiansdefenc00dreliala (1789), christiansdefen00dasgoog (1810), MN41532ucmf_0 (1826), christiansconsol0000drel (1836)": "Other printings."
+ },
+ "_excluded": {},
+ "_checks": {
+  "drelincourt-fears-of-death-1808": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "drelincourt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

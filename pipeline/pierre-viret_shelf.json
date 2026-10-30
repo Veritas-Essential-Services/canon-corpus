@@ -1,0 +1,68 @@
+{
+ "_about": "Pierre Viret (1511-1571), Reformer of Lausanne and Lyon: A Christian Instruction, conteyning the law and the gospel, done in certayne dialogues, translated by John Shute (London: Abraham Veale, 1573), and The Christian Disputations (London, 1579). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "peter viret",
+  "pierre viret",
+  "m. viret",
+  "viret",
+  "viretus"
+ ],
+ "_surname": [
+  "peter viret",
+  "pierre viret",
+  "m. viret",
+  "viret",
+  "viretus"
+ ],
+ "_identity_checked": {
+  "viret-christian-instruction-1573": {
+   "title": "The scan prints the long s, which the OCR keeps as 'ſ', so words such as 'Chriſtian' and 'Catholike' never match the plain spelling the title check looks for. The title page reads 'A Christian Instruction ... done in certayne dialogues in French by M. Peter Viret' (imprinted at London by Abraham Veale, 1573), and the dedication to the Countess of Lincoln is signed 'John Shoute'."
+  },
+  "viret-christian-disputations-1579": {
+   "title": "The scan prints the long s, which the OCR keeps as 'ſ', so words such as 'Chriſtian' and 'Catholike' never match the plain spelling the title check looks for. The text names 'Peter Viret' twice and runs as dialogues; its title page is lost to OCR."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "viret-christian-instruction-1573": [
+   "bim_early-english-books-1641-1700_a-christian-instruction-_viret-pierre_1573",
+   "A Christian Instruction, tr. John Shute (London, 1573)"
+  ],
+  "viret-christian-disputations-1579": [
+   "bim_early-english-books-1475-1640_the-christian-disputatio_viret-pierre_1579",
+   "The Christian Disputations (London, 1579)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_the-firste-parte-of-the-_viret-pierre_1565": "The first part of the Christian Instruction (1565)."
+ },
+ "_pending": {
+  "bim_early-english-books-1475-1640_the-worlde-possessed-wit_viret-pierre_1583, the-second-part-of-the-d_viret-pierre_1583, the-schoole-of-beastes-_viret-pierre_1585, a-faithfull-and-familiar_viret-pierre_1582, the-cauteles-canon-and-c_viret-pierre_1584, the-principal-points-whi_viret-pierre_1579": "Not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "viret-christian-instruction-1573": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "peter viret",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1573",
+   "ia_date": "1573",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "viret-christian-disputations-1579": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "peter viret",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1579",
+   "ia_date": "1579",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

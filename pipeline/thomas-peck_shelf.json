@@ -1,0 +1,70 @@
+{
+ "_about": "Thomas Ephraim Peck (1822-1893), professor of theology at Union Seminary, Virginia: Miscellanies, selected and arranged by T. C. Johnson, 3 vols (Richmond: Presbyterian Committee of Publication, 1895-1897): I, his more popular writings; II, theological and ecclesiastical papers; III, notes on the history of the Church and other papers. Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas e. peck",
+  "t. e. peck",
+  "dr. peck",
+  "dr peck",
+  "thomas ephraim peck"
+ ],
+ "_surname": [
+  "thomas e. peck",
+  "t. e. peck",
+  "dr. peck",
+  "dr peck",
+  "thomas ephraim peck"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "peck-miscellanies-1": [
+   "miscellaniesofre01peck",
+   "Miscellanies of Rev. Thomas E. Peck, vol. I"
+  ],
+  "peck-miscellanies-2": [
+   "miscellaniesofre02peck",
+   "Miscellanies of Rev. Thomas E. Peck, vol. II"
+  ],
+  "peck-miscellanies-3": [
+   "miscellaniesofre03peck",
+   "Miscellanies of Rev. Thomas E. Peck, vol. III"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "peck-miscellanies-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas e. peck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peck-miscellanies-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas e. peck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peck-miscellanies-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas e. peck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "James Pilkington (1520-1576), Bishop of Durham: Works, Parker Society ed. James Scholefield (1842). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "pilkington"
+ ],
+ "_surname": [
+  "pilkington"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pilkington-ps-works": [
+   "worksofjamespilk38pilk",
+   "The Works of James Pilkington, Bishop of Durham, ed. James Scholefield (Parker Society, Cambridge, 1842)"
+  ]
+ },
+ "_alternates": {
+  "theworksofjamesp00pilkuoft, worksofjamespilk0000pilk": "Other scans of the same volume."
+ },
+ "_excluded": {
+  "worksofjamespilk0000jame (1968 reprint)": "Lending-library reprint.",
+  "Pilkington of Uganda; the Pilkington family history": "Different people."
+ },
+ "_checks": {
+  "pilkington-ps-works": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pilkington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

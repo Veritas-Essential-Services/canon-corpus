@@ -1,0 +1,37 @@
+{
+ "_about": "Jean Daillé (1594-1670), pastor of the Reformed church at Charenton: A Treatise on the Right Use of the Fathers in the Decision of Controversies existing at this day in Religion, translated (1651) and revised by Thomas Smith, re-edited with a preface by G. Jekyll (London, 1843). His expositions of Philippians and Colossians are on the william-jenkyn shelf, bound with Jenkyn's Jude. The translator is not claimed in `_translators`, as 'smith' is a common-word surname. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "daille",
+  "daillé"
+ ],
+ "_surname": [
+  "daille",
+  "daillé"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "daille-right-use-of-fathers-1843": [
+   "treatiseonrightu00dail",
+   "A Treatise on the Right Use of the Fathers, tr. Thomas Smith, ed. Jekyll (London, 1843)"
+  ]
+ },
+ "_alternates": {
+  "treatiseonright00dail (Philadelphia: Presbyterian Board, 1842), treatiseonright00dailuoft, treatiseonrigh00dail, atreatiseconcer00publgoog (2nd American edition, 1856), treatiseconcerni00dail, treatiseonrightu00dailuoft, treatiseonright00dailgoog": "American editions and other copies.",
+  "bib_fict_7138274 (1651), bim_early-english-books-1641-1700_a-treatise-concerning-th_daill-jean_1675": "17th-century printings."
+ },
+ "_excluded": {},
+ "_checks": {
+  "daille-right-use-of-fathers-1843": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daille",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "_about": "W. D. Killen (1806-1902), President of Assembly's College, Belfast: The Ecclesiastical History of Ireland from the Earliest Period to the Present Times (London: Macmillan, 1875, 2 vols). Volume numbers read off each title page. His continuation of Reid's History of the Presbyterian Church in Ireland is on james-seaton-reid. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "killen"
+ ],
+ "_surname": [
+  "killen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "killen-ecclesiastical-history-ireland-1": [
+   "theecclesiasticx01killuoft",
+   "The Ecclesiastical History of Ireland (London: Macmillan, 1875), vol. 1"
+  ],
+  "killen-ecclesiastical-history-ireland-2": [
+   "theecclesiastica02killuoft",
+   "The Ecclesiastical History of Ireland (London: Macmillan, 1875), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "cu31924092333958, ecclesiasticalh01..06killgoog": "Other copies of the same edition."
+ },
+ "_excluded": {},
+ "_checks": {
+  "killen-ecclesiastical-history-ireland-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "killen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "killen-ecclesiastical-history-ireland-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "killen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

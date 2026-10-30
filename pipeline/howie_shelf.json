@@ -1,0 +1,37 @@
+{
+ "_about": "John Howie of Lochgoin (1735-1793): The Scots Worthies, revised from the author's original edition by W. H. Carslaw (Edinburgh: Oliphant, 1870), lives of the Scottish Reformers and Covenanters from Patrick Hamilton to James Renwick. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "howie"
+ ],
+ "_surname": [
+  "howie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "howie-scots-worthies-1870": [
+   "scotsworthiesrev00howi",
+   "The Scots Worthies, revised from the author's original edition by W. H. Carslaw (Edinburgh, 1870)"
+  ]
+ },
+ "_alternates": {
+  "scotsworthies00howirich, bwb_KV-543-757": "Other copies of the Carslaw edition.",
+  "thescotsworthies00howiuoft (1829), scotsworthiescon00howiuoft (New York, 1853), scotsworthieswit00howi (1844)": "Earlier editions.",
+  "biographiascotic00howiuoft (1827), Biographia Scoticana (1775, 1781, 1796)": "The work under its first title.",
+  "thescotsworthies01wyliuoft, 02wyliuoft (Wylie's edition, 1875)": "Wylie's annotated edition, 2 vols."
+ },
+ "_excluded": {},
+ "_checks": {
+  "howie-scots-worthies-1870": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "howie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

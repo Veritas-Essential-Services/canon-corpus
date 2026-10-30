@@ -1,0 +1,50 @@
+{
+ "_about": "William Fulke (1538-1589), Master of Pembroke: Parker Society, 2 vols (1843, 1848). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "fulke"
+ ],
+ "_surname": [
+  "fulke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fulke-ps-defence": [
+   "defenceofsincere00fulkuoft",
+   "A Defence of the Sincere and True Translations of the Holy Scriptures into the English Tongue, against Gregory Martin, ed. C. H. Hartshorne (Parker Society, Cambridge, 1843)"
+  ],
+  "fulke-ps-answers": [
+   "parkersocietypub22fulkuoft",
+   "Stapleton's Fortress Overthrown; A Rejoinder to Martiall's Reply; A Discovery of the Dangerous Rock of the Popish Church, ed. Richard Gibbings (Parker Society, Cambridge, 1848)"
+  ]
+ },
+ "_alternates": {
+  "answersstapleton00fulkuoft": "Second Toronto copy of the Answers.",
+  "parkersocietyfor33park": "California copy of the Answers."
+ },
+ "_excluded": {},
+ "_checks": {
+  "fulke-ps-defence": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fulke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fulke-ps-answers": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fulke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

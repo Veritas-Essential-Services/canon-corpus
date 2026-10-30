@@ -1,0 +1,49 @@
+{
+ "_about": "William Jones (1762-1846), Baptist historian: The History of the Waldenses, connected with a sketch of the Christian church from the birth of Christ to the eighteenth century, second edition corrected and greatly enlarged (London: Gale and Fenner, 1816, 2 vols). Volume numbers read off each title page. Named william-jones-waldenses because there are many William Joneses; the name check looks for 'William Jones'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "william jones"
+ ],
+ "_surname": [
+  "william jones"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jones-waldenses-1": [
+   "historyofwaldens01jone",
+   "The History of the Waldenses, 2nd ed. (London: Gale and Fenner, 1816), vol. 1"
+  ],
+  "jones-waldenses-2": [
+   "historyofwaldens02jone",
+   "The History of the Waldenses, 2nd ed. (London: Gale and Fenner, 1816), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "historywaldense01/03/04jonegoog, historychristia00/02jonegoog, historyofchristi00jone, historyofchrist02jone, thehistoryofthec02joneuoft": "Other editions, some under the title History of the Christian Church."
+ },
+ "_excluded": {},
+ "_checks": {
+  "jones-waldenses-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-waldenses-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

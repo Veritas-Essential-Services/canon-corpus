@@ -1,0 +1,39 @@
+{
+ "_about": "Stuart Robinson (1814-1881), Presbyterian minister in Louisville and theologian of the spirituality of the church: The Church of God as an Essential Element of the Gospel (Philadelphia: Joseph M. Wilson; Louisville: A. Davidson, 1858), written while professor at Danville. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "stuart robinson",
+  "s. robinson"
+ ],
+ "_surname": [
+  "stuart robinson",
+  "s. robinson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stuart-robinson-church-of-god-1858": [
+   "churchofgodasess00robi",
+   "The Church of God as an Essential Element of the Gospel (1858)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "Discourses of Redemption (1866; cihm_40339, discoursesofrede0000robi)": "Microfiche and lending scans only so far."
+ },
+ "_excluded": {
+  "slaveryasrecogni00robiuoft (1865)": "A pro-slavery sermon; outside a theology shelf."
+ },
+ "_checks": {
+  "stuart-robinson-church-of-god-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stuart robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

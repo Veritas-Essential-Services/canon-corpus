@@ -1,0 +1,51 @@
+{
+ "_about": "Myles Coverdale (1488-1569), Bishop of Exeter: his writings, Parker Society ed. George Pearson (2 vols, 1844, 1846). Named myles-coverdale because 'coverdale' is a Bible-witness key on PR #11; the Coverdale Bible is not here. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "coverdale"
+ ],
+ "_surname": [
+  "coverdale"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "coverdale-ps-writings": [
+   "writingsandtrans00coveuoft",
+   "Writings and Translations of Myles Coverdale, ed. George Pearson (Parker Society, Cambridge, 1844)"
+  ],
+  "coverdale-ps-remains": [
+   "parkersociety16coveuoft",
+   "Remains of Myles Coverdale, ed. George Pearson (Parker Society, Cambridge, 1846)"
+  ]
+ },
+ "_alternates": {
+  "parkersocietypub16ridluoft, remainsofmylesco0014cove, remainsofmilesco0000revg": "Other scans of the Remains."
+ },
+ "_excluded": {
+  "The Coverdale Bible (1535)": "A Bible witness, held through fetch_sources.py on PR #11."
+ },
+ "_checks": {
+  "coverdale-ps-writings": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coverdale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coverdale-ps-remains": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coverdale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

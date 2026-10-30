@@ -1,0 +1,114 @@
+{
+ "_about": "James Orr (1844-1913), United Presbyterian, then United Free Church professor in Glasgow, defender of orthodoxy and general editor of the International Standard Bible Encyclopaedia: The Christian View of God and the World, the Kerr Lectures (New York: Randolph, 1893); The Progress of Dogma, the Elliot Lectures (London: James Clarke; preface dated Glasgow, 1901); God's Image in Man (London: Hodder and Stoughton, 1905); The Problem of the Old Testament (New York, 1906); The Virgin Birth of Christ (New York: Scribner, 1907). All published before 1930. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "james orr",
+  "j. orr",
+  "orr, james",
+  "professor orr",
+  "dr. orr",
+  "dr orr"
+ ],
+ "_surname": [
+  "james orr",
+  "j. orr",
+  "orr, james",
+  "professor orr",
+  "dr. orr",
+  "dr orr"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "orr-christian-view-1893": [
+   "christianviewofg00orrj",
+   "The Christian View of God and the World, the Kerr Lectures (New York: Randolph, 1893)"
+  ],
+  "orr-progress-of-dogma-1901": [
+   "progressofdogmab00orrj",
+   "The Progress of Dogma, the Elliot Lectures (London: James Clarke, 1901)"
+  ],
+  "orr-gods-image-in-man-1905": [
+   "godsimageinmanit00orrj",
+   "God's Image in Man and its Defacement in the Light of Modern Denials (London: Hodder and Stoughton, 1905)"
+  ],
+  "orr-problem-old-testament-1906": [
+   "problemofoldtest00orrjiala",
+   "The Problem of the Old Testament considered with reference to recent criticism (New York, 1906)"
+  ],
+  "orr-virgin-birth-1907": [
+   "thevirginbirthof00orrjuoft",
+   "The Virgin Birth of Christ (New York: Scribner, 1907)"
+  ]
+ },
+ "_alternates": {
+  "christianviewofg00orrj_0 (1897), christianviewofg00orrj_1 (1907), christianviewgo00/03orrgoog": "Later printings and Google copies of the Christian View.",
+  "theprogressofdog00orrduoft, progressofdogmab00orrj_0/_1, progressofdogma01orrj": "Other copies of the Progress of Dogma.",
+  "godsimageinmanit1906orrj, godsimageinmanit00orrj_0/_1, godsimageinmani00orrj, godsimageinmana00orrgoog": "Other copies of God's Image in Man.",
+  "thevirginbirth00orruoft": "Another Toronto copy of the Virgin Birth.",
+  "problemofoldtest00orrj (Princeton, 1906; its OCR never prints Orr's name), problemofoldtest03orrj, problemoldtesta00/02/03orrgoog, problemofoldtes00orrj (1914)": "Other copies of the Problem of the Old Testament."
+ },
+ "_pending": {
+  "The Resurrection of Jesus (1908)": "theresurrectiono00orrjuoft opens with an unrelated tract ('the Sequel of the Trial'), so it is not shelved; resurrectionofje20orrj (1912) not yet title-checked.",
+  "The Ritschlian Theology (1897), Sin as a Problem of To-day (1910), The History and Literature of the Early Church (1913)": "Only lending-library scans seen so far."
+ },
+ "_excluded": {
+  "International Standard Bible Encyclopaedia (1915)": "A multi-author reference work he edited; not his own text."
+ },
+ "_checks": {
+  "orr-christian-view-1893": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orr-progress-of-dogma-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orr-gods-image-in-man-1905": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orr-problem-old-testament-1906": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orr-virgin-birth-1907": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
