@@ -1,0 +1,304 @@
+{
+ "uid": "wh-9METTJW79K",
+ "id": "treasure-island",
+ "title": "Treasure Island",
+ "author": "Robert Louis Stevenson",
+ "first_published": "1883 (book; serialised in Young Folks 1881-82)",
+ "note": "The story layer of the Illustrated Classics: scenes and figures in the house's own words, each pinned to a paragraph of the house text. No book text is stored here. A picture is tagged to scenes and figures, never to a book's pages.",
+ "settings": {
+  "admiral-benbow": "The Admiral Benbow inn and the road and cove by it",
+  "hall": "The squire's hall",
+  "spy-glass-inn": "The Spy-glass tavern, Bristol docks",
+  "hispaniola": "Aboard the Hispaniola",
+  "anchorage": "The anchorage and the water between ship and shore",
+  "island": "On the island: woods, marsh, hills",
+  "stockade": "The stockade and log-house",
+  "sea": "At sea, off the island",
+  "treasure-cave": "Ben Gunn's cave"
+ },
+ "tellings": [
+  {
+   "id": "stevenson-pg120",
+   "kind": "original",
+   "book": "treasure_island",
+   "source": "Project Gutenberg #120, plain text",
+   "units": 1424,
+   "units_checked": "anchors computed 2026-10-23 on PG #120 as fetched that day; its 1,424 units match the count in data/books/manifest.json",
+   "anchors": "`at` is the house unit id from structure_texts.py (treasure_island: PART + running paragraph); `chapter`/`para` count paragraphs inside Stevenson's 34 chapters, blank-line separated, heading lines excluded.",
+   "chapters": [
+    {
+     "n": 1,
+     "roman": "I",
+     "title": "The Old Sea-dog at the Admiral Benbow",
+     "part": "The Old Buccaneer",
+     "paras": 23,
+     "first": "treasure_island:PART_ONE--The_Old_Buccaneer.2"
+    },
+    {
+     "n": 2,
+     "roman": "II",
+     "title": "Black Dog Appears and Disappears",
+     "part": "The Old Buccaneer",
+     "paras": 49,
+     "first": "treasure_island:PART_ONE--The_Old_Buccaneer.26"
+    },
+    {
+     "n": 3,
+     "roman": "III",
+     "title": "The Black Spot",
+     "part": "The Old Buccaneer",
+     "paras": 38,
+     "first": "treasure_island:PART_ONE--The_Old_Buccaneer.76"
+    },
+    {
+     "n": 4,
+     "roman": "IV",
+     "title": "The Sea-chest",
+     "part": "The Old Buccaneer",
+     "paras": 28,
+     "first": "treasure_island:PART_ONE--The_Old_Buccaneer.115"
+    },
+    {
+     "n": 5,
+     "roman": "V",
+     "title": "The Last of the Blind Man",
+     "part": "The Old Buccaneer",
+     "paras": 43,
+     "first": "treasure_island:PART_ONE--The_Old_Buccaneer.144"
+    },
+    {
+     "n": 6,
+     "roman": "VI",
+     "title": "The Captain’s Papers",
+     "part": "The Old Buccaneer",
+     "paras": 53,
+     "first": "treasure_island:PART_ONE--The_Old_Buccaneer.188"
+    },
+    {
+     "n": 7,
+     "roman": "VII",
+     "title": "I Go to Bristol",
+     "part": "The Sea-cook",
+     "paras": 34,
+     "first": "treasure_island:PART_TWO--The_Sea-cook.2"
+    },
+    {
+     "n": 8,
+     "roman": "VIII",
+     "title": "At the Sign of the Spy-glass",
+     "part": "The Sea-cook",
+     "paras": 47,
+     "first": "treasure_island:PART_TWO--The_Sea-cook.37"
+    },
+    {
+     "n": 9,
+     "roman": "IX",
+     "title": "Powder and Arms",
+     "part": "The Sea-cook",
+     "paras": 58,
+     "first": "treasure_island:PART_TWO--The_Sea-cook.85"
+    },
+    {
+     "n": 10,
+     "roman": "X",
+     "title": "The Voyage",
+     "part": "The Sea-cook",
+     "paras": 34,
+     "first": "treasure_island:PART_TWO--The_Sea-cook.144"
+    },
+    {
+     "n": 11,
+     "roman": "XI",
+     "title": "What I Heard in the Apple-Barrel",
+     "part": "The Sea-cook",
+     "paras": 39,
+     "first": "treasure_island:PART_TWO--The_Sea-cook.179"
+    },
+    {
+     "n": 12,
+     "roman": "XII",
+     "title": "Council of War",
+     "part": "The Sea-cook",
+     "paras": 44,
+     "first": "treasure_island:PART_TWO--The_Sea-cook.219"
+    },
+    {
+     "n": 13,
+     "roman": "XIII",
+     "title": "How I Began My Shore Adventure",
+     "part": "My Shore Adventure",
+     "paras": 29,
+     "first": "treasure_island:PART_THREE--My_Shore_Adventure.2"
+    },
+    {
+     "n": 14,
+     "roman": "XIV",
+     "title": "The First Blow",
+     "part": "My Shore Adventure",
+     "paras": 31,
+     "first": "treasure_island:PART_THREE--My_Shore_Adventure.32"
+    },
+    {
+     "n": 15,
+     "roman": "XV",
+     "title": "The Man of the Island",
+     "part": "My Shore Adventure",
+     "paras": 57,
+     "first": "treasure_island:PART_THREE--My_Shore_Adventure.64"
+    },
+    {
+     "n": 16,
+     "roman": "XVI",
+     "title": "Narrative Continued by the Doctor: How the Ship Was Abandoned",
+     "part": "The Stockade",
+     "paras": 37,
+     "first": "treasure_island:PART_FOUR--The_Stockade.2"
+    },
+    {
+     "n": 17,
+     "roman": "XXVII",
+     "title": "Narrative Continued by the Doctor: The Jolly-boat’s Last Trip",
+     "part": "The Stockade",
+     "paras": 40,
+     "first": "treasure_island:PART_FOUR--The_Stockade.40"
+    },
+    {
+     "n": 18,
+     "roman": "XVIII",
+     "title": "Narrative Continued by the Doctor: End of the First Day’s Fighting",
+     "part": "The Stockade",
+     "paras": 43,
+     "first": "treasure_island:PART_FOUR--The_Stockade.81"
+    },
+    {
+     "n": 19,
+     "roman": "XIX",
+     "title": "Narrative Resumed by Jim Hawkins: The Garrison in the Stockade",
+     "part": "The Stockade",
+     "paras": 42,
+     "first": "treasure_island:PART_FOUR--The_Stockade.125"
+    },
+    {
+     "n": 20,
+     "roman": "XX",
+     "title": "Silver’s Embassy",
+     "part": "The Stockade",
+     "paras": 48,
+     "first": "treasure_island:PART_FOUR--The_Stockade.168"
+    },
+    {
+     "n": 21,
+     "roman": "XXI",
+     "title": "The Attack",
+     "part": "The Stockade",
+     "paras": 51,
+     "first": "treasure_island:PART_FOUR--The_Stockade.217"
+    },
+    {
+     "n": 22,
+     "roman": "XXII",
+     "title": "How I Began My Sea Adventure",
+     "part": "My Sea Adventure",
+     "paras": 31,
+     "first": "treasure_island:PART_FIVE--My_Sea_Adventure.2"
+    },
+    {
+     "n": 23,
+     "roman": "XXIII",
+     "title": "The Ebb-tide Runs",
+     "part": "My Sea Adventure",
+     "paras": 27,
+     "first": "treasure_island:PART_FIVE--My_Sea_Adventure.34"
+    },
+    {
+     "n": 24,
+     "roman": "XXIV",
+     "title": "The Cruise of the Coracle",
+     "part": "My Sea Adventure",
+     "paras": 29,
+     "first": "treasure_island:PART_FIVE--My_Sea_Adventure.62"
+    },
+    {
+     "n": 25,
+     "roman": "XXV",
+     "title": "I Strike the Jolly Roger",
+     "part": "My Sea Adventure",
+     "paras": 37,
+     "first": "treasure_island:PART_FIVE--My_Sea_Adventure.92"
+    },
+    {
+     "n": 26,
+     "roman": "XXVI",
+     "title": "Israel Hands",
+     "part": "My Sea Adventure",
+     "paras": 42,
+     "first": "treasure_island:PART_FIVE--My_Sea_Adventure.130"
+    },
+    {
+     "n": 27,
+     "roman": "XXVII",
+     "title": "“Pieces of Eight”",
+     "part": "My Sea Adventure",
+     "paras": 34,
+     "first": "treasure_island:PART_FIVE--My_Sea_Adventure.173"
+    },
+    {
+     "n": 28,
+     "roman": "XXVIII",
+     "title": "In the Enemy’s Camp",
+     "part": "Captain Silver",
+     "paras": 55,
+     "first": "treasure_island:PART_SIX--Captain_Silver.2"
+    },
+    {
+     "n": 29,
+     "roman": "XXIX",
+     "title": "The Black Spot Again",
+     "part": "Captain Silver",
+     "paras": 43,
+     "first": "treasure_island:PART_SIX--Captain_Silver.58"
+    },
+    {
+     "n": 30,
+     "roman": "XXX",
+     "title": "On Parole",
+     "part": "Captain Silver",
+     "paras": 53,
+     "first": "treasure_island:PART_SIX--Captain_Silver.102"
+    },
+    {
+     "n": 31,
+     "roman": "XXXI",
+     "title": "The Treasure-hunt--Flint’s Pointer",
+     "part": "Captain Silver",
+     "paras": 38,
+     "first": "treasure_island:PART_SIX--Captain_Silver.156"
+    },
+    {
+     "n": 32,
+     "roman": "XXXII",
+     "title": "The Treasure-hunt--The Voice Among the Trees",
+     "part": "Captain Silver",
+     "paras": 47,
+     "first": "treasure_island:PART_SIX--Captain_Silver.195"
+    },
+    {
+     "n": 33,
+     "roman": "XXXIII",
+     "title": "The Fall of a Chieftain",
+     "part": "Captain Silver",
+     "paras": 44,
+     "first": "treasure_island:PART_SIX--Captain_Silver.243"
+    },
+    {
+     "n": 34,
+     "roman": "XXXIV",
+     "title": "And Last",
+     "part": "Captain Silver",
+     "paras": 27,
+     "first": "treasure_island:PART_SIX--Captain_Silver.288"
+    }
+   ]
+  }
+ ]
+}

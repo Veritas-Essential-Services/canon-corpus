@@ -135,6 +135,8 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/brewer_plates.py --fetch          # Brewer's Character Sketches: 8 vols' manifests, OCR, PDFs (gitignored)
     python3 pipeline/brewer_plates.py [--check]        # -> data/art/brewer-sketches/plates.jsonl, 283 plates with uids (mint 0)
     python3 tests/brewer_plates_test.py                # the plates catalog, offline
+    python3 pipeline/build_stories.py [--check]        # Illustrated Classics story layer: scenes + figures -> uids (mint 0)
+    python3 tests/stories_test.py                      # data/stories/ and data/art/illustrated-classics/, offline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
