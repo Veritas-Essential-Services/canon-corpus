@@ -1,0 +1,284 @@
+{
+ "supplied": [
+  {
+   "find": " Devil[⟨•⟩]{.gap} ",
+   "replace": " Devil[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " Fath[⟨•⟩⟨•⟩]{.gap} ",
+   "replace": " Fath[er]{.supplied} ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " O[⟨•⟩]{.gap}r ",
+   "replace": " O[u]{.supplied}r ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " Re[⟨•⟩]{.gap}igion?",
+   "replace": " Re[l]{.supplied}igion?",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " asc[⟨•⟩]{.gap}nsion ",
+   "replace": " asc[e]{.supplied}nsion ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " a[⟨•⟩]{.gap} ",
+   "replace": " a[m]{.supplied} ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " com[⟨•⟩]{.gap}ort ",
+   "replace": " com[f]{.supplied}ort ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " con[⟨•⟩]{.gap}ider ",
+   "replace": " con[s]{.supplied}ider ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " cou[⟨•⟩]{.gap}se.",
+   "replace": " cou[r]{.supplied}se.",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " de[⟨•⟩]{.gap}ire ",
+   "replace": " de[s]{.supplied}ire ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " de[⟨•⟩]{.gap}ire,",
+   "replace": " de[s]{.supplied}ire,",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " disc[⟨•⟩]{.gap}nsolate ",
+   "replace": " disc[o]{.supplied}nsolate ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " est[⟨•⟩]{.gap}em ",
+   "replace": " est[e]{.supplied}em ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " expre[⟨•⟩]{.gap}s ",
+   "replace": " expre[s]{.supplied}s ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " fai[⟨•⟩]{.gap}h ",
+   "replace": " fai[t]{.supplied}h ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " fo[⟨•⟩]{.gap}nded ",
+   "replace": " fo[u]{.supplied}nded ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " goodnes[⟨•⟩]{.gap}.",
+   "replace": " goodnes[s]{.supplied}.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " grac[⟨•⟩]{.gap} ",
+   "replace": " grac[e]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " high[⟨•⟩]{.gap}st ",
+   "replace": " high[e]{.supplied}st ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " hims[⟨•⟩]{.gap}lf ",
+   "replace": " hims[e]{.supplied}lf ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " hims[⟨•⟩]{.gap}lf.",
+   "replace": " hims[e]{.supplied}lf.",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " occa[⟨•⟩]{.gap}ions.",
+   "replace": " occa[s]{.supplied}ions.",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " o[⟨•⟩]{.gap} ",
+   "replace": " o[f]{.supplied} ",
+   "count": 2,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " part[⟨•⟩]{.gap},",
+   "replace": " part[s]{.supplied},",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " persec[⟨•⟩]{.gap}tions.",
+   "replace": " persec[u]{.supplied}tions.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " pr[⟨•⟩]{.gap}ach ",
+   "replace": " pr[e]{.supplied}ach ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " pr[⟨•⟩]{.gap}gnant ",
+   "replace": " pr[e]{.supplied}gnant ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " r[⟨•⟩]{.gap}fuse ",
+   "replace": " r[e]{.supplied}fuse ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " r[⟨•⟩]{.gap}le,",
+   "replace": " r[u]{.supplied}le,",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " sp[⟨•⟩]{.gap}ech ",
+   "replace": " sp[e]{.supplied}ech ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " tha[⟨•⟩]{.gap} ",
+   "replace": " tha[t]{.supplied} ",
+   "count": 2,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " ther[⟨•⟩]{.gap} ",
+   "replace": " ther[e]{.supplied} ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " wor[⟨•⟩]{.gap}h ",
+   "replace": " wor[t]{.supplied}h ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " w[⟨•⟩⟨•⟩⟨•⟩]{.gap}esoever ",
+   "replace": " w[her]{.supplied}esoever ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ye[⟨•⟩]{.gap} ",
+   "replace": " ye[t]{.supplied} ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}e ",
+   "replace": " [b]{.supplied}e ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ink ",
+   "replace": " [s]{.supplied}ink ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}nd ",
+   "replace": " [a]{.supplied}nd ",
+   "count": 3,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}uch ",
+   "replace": " [s]{.supplied}uch ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩⟨•⟩]{.gap}re ",
+   "replace": " [we]{.supplied}re ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  }
+ ]
+}

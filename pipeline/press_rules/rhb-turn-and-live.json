@@ -1,0 +1,130 @@
+{
+ "supplied": [
+  {
+   "find": " H[⟨•⟩]{.gap}nour ",
+   "replace": " H[o]{.supplied}nour ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " H[⟨•⟩]{.gap}sts;",
+   "replace": " H[o]{.supplied}sts;",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Withou[⟨•⟩]{.gap} ",
+   "replace": " Withou[t]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " affliction[⟨•⟩]{.gap} ",
+   "replace": " affliction[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ashame[⟨•⟩]{.gap} ",
+   "replace": " ashame[d]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*cho[⟨•⟩]{.gap}k*",
+   "replace": "*cho[a]{.supplied}k*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " le[⟨•⟩]{.gap}st ",
+   "replace": " le[a]{.supplied}st ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " migh[⟨•⟩]{.gap} ",
+   "replace": " migh[t]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " thing[⟨•⟩]{.gap}*",
+   "replace": " thing[s]{.supplied}*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " whic[⟨•⟩]{.gap} ",
+   "replace": " whic[h]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ains ",
+   "replace": " [p]{.supplied}ains ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}anguage,",
+   "replace": " [l]{.supplied}anguage,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}niquity ",
+   "replace": " [i]{.supplied}niquity ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ounded ",
+   "replace": " [w]{.supplied}ounded ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ountain ",
+   "replace": " [f]{.supplied}ountain ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}oyns,",
+   "replace": " [l]{.supplied}oyns,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}rawn ",
+   "replace": " [d]{.supplied}rawn ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩⟨•⟩]{.gap}tate ",
+   "replace": " [es]{.supplied}tate ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

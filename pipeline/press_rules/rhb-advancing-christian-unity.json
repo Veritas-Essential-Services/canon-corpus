@@ -1,0 +1,46 @@
+{
+ "supplied": [
+  {
+   "find": " consumma[⟨•⟩]{.gap}e ",
+   "replace": " consumma[t]{.supplied}e ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " heret[⟨•⟩]{.gap}ques ",
+   "replace": " heret[i]{.supplied}ques ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " spiritua[⟨•⟩]{.gap}l ",
+   "replace": " spiritua[l]{.supplied}l ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " the[⟨•⟩]{.gap}r ",
+   "replace": " the[i]{.supplied}r ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " v[⟨•⟩]{.gap}sible ",
+   "replace": " v[i]{.supplied}sible ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ents ",
+   "replace": " [r]{.supplied}ents ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "supplied": [
+  {
+   "find": " Tab[⟨•⟩⟨•⟩]{.gap} ",
+   "replace": " Tab[le]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

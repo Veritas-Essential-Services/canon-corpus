@@ -1,0 +1,18 @@
+{
+ "supplied": [
+  {
+   "find": " s[⟨•⟩]{.gap}ited ",
+   "replace": " s[u]{.supplied}ited ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}illed ",
+   "replace": " [f]{.supplied}illed ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}
