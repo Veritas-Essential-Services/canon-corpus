@@ -187,3 +187,84 @@ text) are kept and never applied to a faithful transcription.
 library), the library alone, from the raw scan word, agrees on 446 and disagrees on none. Over 103,564
 undisputed words it changes 56, the misreadings every engine shared ("Chaueer", "Provenee", "vehiele",
 "Diekens"). The Cornell scan alone (no desk, no second scan): 105 words.
+
+## Restoring a pictorial book: white paper, kept pictures, an invisible text layer (2026-10-28, PILOT)
+
+Adam: *"brighten the pages to become pure white so that it would use no ink in between lines and in
+the margins or blank pages,"* with the best OCR laid invisibly over the scan. Prototype only; not yet a
+step of `run`. Piloted on 9 leaves of Pyle's *King Arthur* (`storyofkingarthu00pyle`, the art plan's pilot).
+
+    python3 -m unscanner.restore page*.jp2 --out DIR                       # restored pages (lossless PNG) + report
+    python3 -m unscanner.restore page*.jp2 --out DIR --pdf book.pdf --tessdata <tessdata_best>
+    python3 tests/restore_test.py                                          # 14 offline checks
+
+Needs OpenCV; the PDF needs `tesseract` and `pikepdf`. Rules and measurements are in the module's
+docstring (`unscanner/restore.py`). The convention, in short:
+
+- **Restore, never redraw.** A pixel either becomes paper (exactly 255) or keeps its scanned tone. The
+  paper is measured block by block and divided out (gutter shadow, yellowing, uneven light); show-through
+  falls under the white point; edge artefacts and lonely specks go; outside the content box is white; a
+  page with no ink left is a pure white page. No sharpening, inpainting or AI upscaling.
+- **Grey unless the ink is coloured.** Black ink on cream paper is written grey; a page whose ink is
+  coloured (a colour plate, a rubric) keeps its colour.
+- **The print PDF is "mixed"** (ScanTailor's word): text and rules as a 600 dpi 1-bit stencil (CCITT G4),
+  pictures as the restored grey cut to each picture's box (JPEG), paper as nothing drawn at all. That is
+  the only way a lossy picture codec cannot leave a faint tint in the margins.
+- **Words underneath**: tesseract's invisible text layer, so the page is searchable and copyable.
+
+Measured on the 9 leaves (render of the PDF at 300 dpi):
+
+| | raw scan | restored |
+|---|---|---|
+| pure-white pixels, text page | 0% | 92-94% |
+| ink, text page (share of a solid black page) | 10.5-12.7% | 4.9-6.7% |
+| ink, full-page plate | 29.0% | 24.8% (the drawing is ink; only its paper went) |
+| blank leaf (show-through only) | 5.7% ink | 0% |
+| PDF size | | text page about 100 KB, full plate 500-750 KB |
+
+Tried and set aside: the Internet Archive's own MRC encoder (`archive-pdf-tools`, `recode_pdf`) makes a
+smaller file (about 110 KB a page) but its JPEG 2000 background turns pure white into 253-254, so only
+8% of a plate page stays pure white. `unpaper` (OCRmyPDF's `--clean`) is built for black-and-white text
+and its filters eat fine hatching. ScanTailor Advanced does the same job well but is a desktop program
+with no maintained batch mode; keep it for hand work on a difficult book.
+
+OCR, scored against Gutenberg's proofread text of the same pages (5 text pages, about 2,000 words):
+the Archive's OCR, tesseract `fast` and `best`, on raw or restored pages, all land within one point of
+each other (5.7-6.6% of words not matching). Nearly every mismatch is layout (sidenotes read into the
+body line, running heads, line-end hyphens), not misread letters. For a clean scan the better text layer
+comes from the Unscanner's layout and second witness, and, where Gutenberg has the book, from aligning
+the proofread text onto the word boxes; a different engine is not the lever.
+
+### The text layer from Gutenberg's proofread text (2026-10-28)
+
+Adam: *"Diff the Gutenberg proofread text against the OCR,"* settle what has an obviously right answer,
+and bring him only the real ties. `unscanner/gutenberg.py` aligns the two word by word: the OCR says
+WHERE each word is printed, Gutenberg says WHAT it says. Every difference is sorted by rule (the table
+is in the module's docstring): broken hyphens and run-together words, misreads, decorated initials the
+OCR could not read, sidenotes and captions Gutenberg moves elsewhere, running heads and folios
+Gutenberg leaves out, and lines the OCR read out of order. What is left is a `dispute`: two different
+real words, the OCR sure of itself. Each dispute is decided by looking at the scan, never by preferring
+a source.
+
+    python3 -m unscanner.gutenberg <hocr dir> <pg.txt> <out dir> [decisions.json]   # differences.jsonl + summary.json
+    python3 tests/gutenberg_layer_test.py                                         # 13 offline checks
+
+**Proven on Pyle's *King Arthur*** (all 350 leaves; PG 60184 against `storyofkingarthu00pyle`).
+Of 118,853 printed words, 849 took Gutenberg's spelling over the OCR's. The rest of the differences
+were sorted by rule: 650 broken or run-together words, 318 misreads, 16 decorated initials, 578
+sidenote and 28 caption stretches placed, 264 running heads and folios kept. Then a person looked:
+
+- **8 disputes** (two real words), all decided by looking at the scan, and Gutenberg was right every
+  time: broken *f*s read as *t* or *i*, *he* read as *be*, a *d* outside the OCR's box.
+- **9 stretches Gutenberg does not have.** Five are whole lines Gutenberg DROPPED, nearly all the first
+  line after a page break (leaves 97, 150, 198, 208, 209). The OCR keeps them, so the text layer has
+  them; Gutenberg's own text is missing them. The rest are the publisher's list of books and sidenote
+  fragments.
+- **2 compositor's slips** in the print itself, which Gutenberg silently corrected: *Kinght* (leaf 65,
+  the contents of Part III) and *decended* (leaf 110). These are Adam's call (print or correction); a
+  third candidate, *assured.y*, is a damaged sort, not a slip.
+
+The decisions are in `data/unscanned/pyle-king-arthur.gutenberg-decisions.json`, each with what was
+seen and who looked. The text layer itself is Courier, invisible, stretched exactly to each word's box
+and set line by line, so copying a page gives clean lines: 99.6% of Gutenberg's words come out of the
+PDF's text in order.

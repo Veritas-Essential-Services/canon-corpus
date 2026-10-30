@@ -1,0 +1,119 @@
+[
+ {
+  "page": "storyofkingarthu00pyle_0020",
+  "ocr": [
+   "IT"
+  ],
+  "pg": [
+   "II"
+  ],
+  "choice": "pg",
+  "why": "scan reads 'Part II' (italic roman numeral)",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0029",
+  "ocr": [
+   "it"
+  ],
+  "pg": [
+   "if"
+  ],
+  "choice": "pg",
+  "why": "'if among': the f's crossbar is broken in the print",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0083",
+  "ocr": [
+   "be"
+  ],
+  "pg": [
+   "he"
+  ],
+  "choice": "pg",
+  "why": "'Whereupon he uplifted': plain h",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0160",
+  "ocr": [
+   "ii"
+  ],
+  "pg": [
+   "if"
+  ],
+  "choice": "pg",
+  "why": "'Yet if King Leodegrance': broken f",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0176",
+  "ocr": [
+   "lo"
+  ],
+  "pg": [
+   "to"
+  ],
+  "choice": "pg",
+  "why": "'it is hard to tell': italic t",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0209",
+  "ocr": [
+   "an"
+  ],
+  "pg": [
+   "and"
+  ],
+  "choice": "pg",
+  "why": "'away and': the d is printed; the OCR box stops short of it",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0221",
+  "ocr": [
+   "tor"
+  ],
+  "pg": [
+   "for"
+  ],
+  "choice": "pg",
+  "why": "'for I believe': broken f",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0268",
+  "ocr": [
+   "in"
+  ],
+  "pg": [
+   "indeed"
+  ],
+  "choice": "pg",
+  "why": "'in-' at line end, 'deed' on the next line",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0209",
+  "ocr": [
+   "mmmediately"
+  ],
+  "text": "immediately",
+  "why": "in a line Gutenberg dropped; the scan reads 'immediately'",
+  "by": "claude, 2026-10-28, looked at the scan"
+ },
+ {
+  "page": "storyofkingarthu00pyle_0141",
+  "ocr": [
+   "assured.y"
+  ],
+  "pg": [
+   "assuredly"
+  ],
+  "choice": "pg",
+  "why": "the l is a damaged sort, printed broken; the word is 'assuredly'",
+  "by": "claude, 2026-10-28, looked at the scan"
+ }
+]
