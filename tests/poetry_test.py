@@ -78,6 +78,9 @@ _tsel = {B.citation(s): s for s in sels["treasury"]}
 _bad = [r["citation"] for r in cats["treasury"] if r["host"] == "full"
         and B.norm(texts[r["uid"]]["text"].split("\n")[0]) != B.norm(_tsel[r["citation"]]["first_line"])]
 check("a hosted treasury poem begins at the first line its book prints", not _bad, _bad[:5])
+check("a collections row names its collection, and a hosted one is in that collection's pack",
+      all(r.get("collection") and r.get("collection_title") and r["collection"] in r["tags"]
+          and (r["host"] != "full" or r["pack"] == f"collection-{r['collection']}") for r in cats["collections"]))
 check("the AO layer carries no addendum tag, and the addendum no AO tag",
       all("addendum-heroic" not in r["tags"] for r in cats["ao"])
       and all("ao" not in r["tags"] for r in cats["addendum-heroic"]))
