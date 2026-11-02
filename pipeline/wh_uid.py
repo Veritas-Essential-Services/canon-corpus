@@ -313,6 +313,34 @@ class WhUidRegistry:
         self.minted += 1
         return u
 
+    def bank(self, citation, uid):
+        """Record a uid that was minted ELSEWHERE (a room's catalogue, a
+        hand-made file) under its citation, so this registry is again the
+        single home for the fact (R8). Never mints, never moves a uid:
+          - the citation already holds this uid -> nothing to do;
+          - the citation holds a DIFFERENT uid  -> refused (identity moved);
+          - the uid is held by any other citation, a tombstone, a split, a
+            merge, or `reserved`                -> refused (a uid names one thing).
+        Returns True when it banked something new."""
+        parse_citation(citation)
+        concept = parse_uid(uid)["concept"]
+        if self.map.get(citation) == uid:
+            return False
+        if citation in self.map:
+            raise WhUidError(
+                f"{citation!r} already holds {self.map[citation]}; refusing to "
+                f"bank {uid} over it. A citation keeps its uid for good.")
+        if uid in self.all_uids() or uid in self.reserved or concept in self._concepts:
+            raise WhUidError(
+                f"{uid} is already held by something else in this id space; "
+                f"refusing to bank it for {citation!r}.")
+        if self.frozen:
+            raise WhUidError(f"FROZEN: refusing to bank {citation!r}")
+        self.map[citation] = uid
+        self._concepts.add(concept)
+        self.banked = getattr(self, "banked", 0) + 1
+        return True
+
     def mint_free(self):
         """A uid with no citation -- for a merge result, or a note that has no
         citation grammar. Recorded in _concepts so it can never be re-minted."""
