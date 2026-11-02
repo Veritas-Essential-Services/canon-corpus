@@ -84,6 +84,27 @@ ARCHIVE_OCR = {
 }
 ARCHIVE_TXT = "https://archive.org/download/{id}/{fn}"
 
+# The illustrated-classics queue (2026-11-01): the books Adam named for pictures in the reader. Fetched from
+# the GITenberg mirror of Project Gutenberg on GitHub, PINNED to a commit, so a refetch gives byte-identical
+# files and identical unit ids (gutenberg.org revises its files in place). A book in two Gutenberg volumes
+# lists both parts, in order; structure_texts.QUEUE_BOOKS reads them as one book.
+# slug: [(GITenberg repo, commit, file in the repo), ...]
+GITENBERG = {
+    "hesiod-evelyn-white": [("Hesiod-the-Homeric-Hymns-and-Homerica_348",
+                             "54953dfc52d9477484a10dfb0e9346b699d17899", "348.txt")],
+    "pyle-robin-hood": [("The-Merry-Adventures-of-Robin-Hood_10148",
+                         "eb81d295dd9921f35c42bc7fec5a10ffd2e52266", "10148.txt")],
+    "malory-morte": [("Le-Morte-d-Arthur--Volume-1_1251", "7912965ec79672bdcbc90fdb67071b28eec33573", "1251.txt"),
+                     ("Le-Morte-d-Arthur--Volume-2_1252", "d9125c6374144fd316f2ff0f49424cb0d6b1f0d2", "1252.txt")],
+    "bulfinch-age-of-fable": [("Bulfinch-s-Mythology--The-Age-of-Fable_3327",
+                               "26edf778665e86cf91f1ecb56ebfbdcaf2b5c4c0", "3327.txt")],
+    "ovid-riley": [("The-Metamorphoses-of-Ovid-Books-I-VII_21765",
+                    "32980ce0f795d24502dd46a36fcd5fe9e64428f5", "21765-0.txt"),
+                   ("The-Metamorphoses-of-Ovid-Books-VIII-XV_26073",
+                    "3cb226269600e0d797374388d202328e58e76fdf", "26073-0.txt")],
+}
+GITENBERG_RAW = "https://raw.githubusercontent.com/GITenberg/{repo}/{commit}/{fn}"
+
 # Scans read from their OCR's LAYOUT file (hOCR or djvu.xml), not the plain text, because the page's
 # parts must be told apart by position and type size (2026-10-20, Aphthonius for the ProGym room).
 # slug: (archive.org identifier, file, saved as archive/<slug><ext>, title, author)
@@ -784,6 +805,8 @@ def main():
             print(f"gutenberg/{slug}: pg{gid}")
         for slug, (ident, fn, note) in ARCHIVE_OCR.items():
             print(f"archive/{slug}: {ident} -- {note}")
+        for slug, parts in GITENBERG.items():
+            print(f"gitenberg/{slug}: " + " + ".join(f"{r}@{c[:7]}" for r, c, f in parts))
         for slug, (ident, fn, ext, title, author) in ARCHIVE_LAYOUT.items():
             print(f"archive/{slug}: {ident} -- {title}")
         for slug, (sha, recipe, fn, shipped, psha, note) in LOCAL_SOURCES.items():
@@ -821,6 +844,14 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"gutenberg/{slug}: FAIL {e}")
         time.sleep(0.5)
+    for slug, parts in GITENBERG.items():
+        for i, (repo, commit, fn) in enumerate(parts):   # .0, .1: the order structure_texts reads
+            dest = os.path.join(CORPUS, "gitenberg", f"{slug}.{i}.txt")
+            try:
+                print(f"gitenberg/{slug}.{i}: {fetch(GITENBERG_RAW.format(repo=repo, commit=commit, fn=fn), dest)}")
+            except Exception as e:
+                failures.append(slug); print(f"gitenberg/{slug}.{i}: FAIL {e}")
+            time.sleep(0.5)
     for slug, (ident, fn, note) in ARCHIVE_OCR.items():
         dest = os.path.join(CORPUS, "archive", slug + ".txt")
         try:

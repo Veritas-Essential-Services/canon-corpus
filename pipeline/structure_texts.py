@@ -2721,6 +2721,281 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
                        "honesty": "chapter headings detected; paragraph running within chapter"},
             "units": units}
 
+# ---------------------------------------------- the illustrated-classics queue (2026-11-01)
+# Five books brought in for the plates, each from a pinned GITenberg commit (fetch_sources.GITENBERG,
+# saved as data/corpus/gitenberg/<slug>.<i>.txt). One converter reads them all; what differs between
+# them is the config in QUEUE_BOOKS, so a refetch reruns every cut and every mend (rule 2):
+#   files     one body cut per source file: start_at / stop_at (regexes on a stripped line), and
+#             start_min_line where the Contents prints the same heading first;
+#   scrub     regexes removed from the joined body (footnotes, footnote markers, Contents);
+#   rewrite   (regex, replacement) reshapes that remove nothing (a heading run into its first line);
+#   heads     (regex, handler) tried in order on each paragraph, whitespace collapsed. A handler
+#             returns None (not a heading after all), "drop" (furniture: the paragraph goes),
+#             {"mute": True} (apparatus up to the next heading goes: Riley's EXPLANATION notes), or
+#             {"label", "key"} to open a division, optionally with "emit" (a rubric that is the
+#             author's own text, kept as unit <key>.0 marked heading: true) or "title_next" (the
+#             next paragraph is the division's title: Bulfinch prints "Chapter I" and "Introduction"
+#             as two paragraphs);
+#   where     optional (paragraph, state) -> the finer place a paragraph names for itself: Hesiod's
+#             "(ll. 1-10)" and "Fragment #2", carried into the ref of it and of the paragraphs after.
+# Unit ids are <slug>:<key>.<paragraph within the division>; paragraphs before the first heading
+# are not the work and are dropped (each config's start_at puts the first heading first).
+
+def _q_roman(r):
+    return sh_roman(r.rstrip(".").upper())
+
+_Q_ORD = {w: i + 1 for i, w in enumerate(
+    "first second third fourth fifth sixth seventh eighth ninth tenth eleventh twelfth thirteenth "
+    "fourteenth fifteenth".split())}
+
+def _q_norm(s):
+    return re.sub(r"[^a-z]", "", s.lower())
+
+def _q_contents(raw, start_rx, stop_rx):
+    """The titles a book's own Contents lists, in order (normalised for matching)."""
+    out, on = [], False
+    for ln in raw.splitlines():
+        t = ln.strip()
+        if not on and re.match(start_rx, t):
+            on = True
+            continue
+        if on and re.match(stop_rx, t):
+            break
+        if on and t:
+            out.append(_q_norm(t))
+    return out
+
+def _hesiod_section(m, st):
+    name = m.group(1).strip()
+    keys = {"WORKS AND DAYS": "wd", "THE THEOGONY": "th", "THE SHIELD OF HERACLES": "sh"}
+    key = keys.get(name) or re.sub(r"[^a-z]+", "-", re.sub(r"^THE ", "", name).lower()).strip("-")
+    st["section"], st["seckey"] = _title_case(re.sub(r"^THE ", "", name)), key
+    tag = (m.group(2) or "").strip()
+    if tag and "fragments" in tag:
+        st["section"] += " (fragments)"
+    return {"label": st["section"], "key": key}
+
+def _hesiod_sub(m, st):
+    if st.get("seckey") != "catalogues-of-women-and-eoiae":
+        return None
+    n = _q_roman(m.group(1))
+    return {"label": f"{st['section']}, book {m.group(1)}", "key": f"{st['seckey']}{n}"}
+
+def _hesiod_where(p, st):
+    m = re.match(r"^\(ll\. ([\d-]+)\)", p)
+    if m:
+        st["where"] = f"ll. {m.group(1)}"
+    m = re.match(r"^Fragment #(\d+)", p)
+    if m:
+        st["where"] = f"fr. {m.group(1)}"
+    return st.get("where")
+
+def _rh_chapter(m, st):
+    t = _q_norm(m.group(0))
+    if t not in st["contents"]:
+        return None
+    i = st["contents"].index(t) + 1
+    if t == "epilogue":
+        return {"label": "Epilogue", "key": "epilogue"}
+    return {"label": m.group(0).strip(), "key": f"ch{i}"}
+
+def _malory_book(m, st):
+    st["book"] = _q_roman(m.group(1))
+    st["book_r"] = m.group(1).rstrip(".")
+    return "drop"
+
+def _malory_chapter(m, st):
+    if not st.get("book"):
+        return None
+    c = _q_roman(m.group(1))
+    out = {"label": f"Book {st['book_r']}, Chapter {m.group(1)}", "key": f"{st['book']}.{c}"}
+    if m.group(2):
+        out["emit"] = m.group(0)
+    else:                       # "CHAPTER XXV" alone, its rubric the next paragraph (Pollard's note between)
+        out["rubric_next"] = True
+    return out
+
+def _aof_chapter(m, st):
+    r = m.group(1).upper()
+    return {"label": f"Chapter {r}", "key": f"ch{sh_roman(r)}", "title_next": True}
+
+def _ovid_book(m, st):
+    st["book"] = _Q_ORD[m.group(1).lower()]
+    st["book_r"] = sh_roman_to_str(st["book"])
+    return "drop"
+
+def _ovid_part(m, st):
+    head, rng = m.group(1).strip().rstrip("."), (m.group(2) or "").strip()
+    b = st["book"]
+    if head.upper().startswith("THE ARGUMENT"):
+        label, key = f"Book {st['book_r']}, The Argument", f"{b}.arg"
+    else:
+        nums = [sh_roman(x) for x in re.findall(r"\b([IVXL]+)\b", head.split(" ", 1)[1])]
+        rs = [sh_roman_to_str(n) for n in nums]
+        label = f"Book {st['book_r']}, " + (f"Fable {rs[0]}" if len(rs) == 1 else
+                                            "Fables " + ", ".join(rs[:-1]) + " and " + rs[-1])
+        key = f"{b}.f" + "-".join(str(n) for n in nums)
+    return {"label": label + (f" {rng}" if rng else ""), "key": key}
+
+QUEUE_BOOKS = {
+    "hesiod-evelyn-white": {
+        "title": "The Works of Hesiod", "author": "Hesiod (tr. Hugh G. Evelyn-White)",
+        "source_note": "Project Gutenberg #348 (Loeb, 1914) by way of the GITenberg mirror",
+        "files": [{"start_at": r"^THE WORKS OF HESIOD$", "stop_at": r"^WORKS ATTRIBUTED TO HOMER$"}],
+        "scrub": [r"[ \t]?\[\d{4}\]", r"(?m)^THE WORKS OF HESIOD[ \t]*$"],
+        # the transcription leaves a garbled "{[0-9]}" where a paragraph break belongs (before ll. 805)
+        "rewrite": [(r"[ \t]*\{\[0-9\]\}[ \t]*", "\n\n")],
+        "heads": [(r"^((?:THE )?[A-Z][A-Z' ]+[A-Z])(?: \(([^)]*(?:lines|fragments)[^)]*)\))?$", _hesiod_section),
+                  (r"^([IVX]+)\.$", _hesiod_sub)],
+        "where": _hesiod_where,
+        "citation": "poem or fragment group + paragraph (hesiod-evelyn-white:th.12); the ref names the "
+                    "translation's own line range, (ll. 116-138), or the fragment number",
+        "honesty": "Evelyn-White's prose translation as Gutenberg transcribes it; line ranges are the "
+                   "translator's marks, carried to the paragraphs that follow them. The Homeric Hymns "
+                   "and Homerica in the same volume are not ingested here; the introduction is not.",
+    },
+    "pyle-robin-hood": {
+        "title": "The Merry Adventures of Robin Hood", "author": "Howard Pyle",
+        "source_note": "Project Gutenberg #10148 by way of the GITenberg mirror",
+        "files": [{"start_at": r"^PREFACE$", "stop_at": r"^End of Project Gutenberg"}],
+        "contents": (r"^CONTENTS$", r"^PROLOGUE$"),
+        "scrub": [r"(?m)^CONTENTS[ \t]*\n.*?(?=^PROLOGUE[ \t]*$)",
+                  r"(?m)^[ \t]+\[\d+\][^\n]*(?:\n(?![ \t]*\n)[^\n]*)*", r"\[\d+\]"],
+        "rewrite": [(r"(?m)^(PART FIRST)[ \t]*\n", r"\1\n\n")],
+        "heads": [(r"^PREFACE$", lambda m, st: {"label": "Preface", "key": "preface"}),
+                  (r"^FROM THE AUTHOR TO THE READER$", lambda m, st: "drop"),
+                  (r"^PROLOGUE$", lambda m, st: {"label": "Prologue", "key": "prologue"}),
+                  (r"^PART FIRST$", lambda m, st: {"label": "Part First", "key": "part1"}),
+                  (r"^[A-Z][A-Za-z,' ]{3,70}$", _rh_chapter)],
+        "citation": "chapter + paragraph (pyle-robin-hood:ch2.5); chapters numbered in the order of the "
+                    "book's Contents, the Prologue's adventure being ch1",
+        "honesty": "Gutenberg's transcription; Pyle's part divisions survive only as 'Part First' and "
+                   "his pictures are not in the text; footnotes removed",
+    },
+    "malory-morte": {
+        "title": "Le Morte d'Arthur", "author": "Sir Thomas Malory (Caxton's text, ed. A. W. Pollard)",
+        "source_note": "Project Gutenberg #1251 and #1252 (Pollard's 1900 edition of Caxton, 1485) by way "
+                       "of the GITenberg mirror",
+        "files": [{"start_at": r"^PREFACE OF WILLIAM CAXTON$", "start_min_line": 400, "stop_at": r"^GLOSSARY$"},
+                  {"start_at": r"^BOOK X\.?$", "stop_at": r"^GLOSSARY$"}],
+        # Pollard's textual notes ("[*3] In Caxton's edition this chapter is misnumbered...") and their marks
+        # (volume II marks them "[1]")
+        "scrub": [r"(?m)^\[\*?\d+\][^\n]*(?:\n(?![ \t]*\n)[^\n]*)*", r"\[\*?\d+\]"],
+        "rewrite": [(r"(?m)^CHAP TER ", "CHAPTER ")],      # the transcription's split heading in Book IX
+        "heads": [(r"^PREFACE OF WILLIAM CAXTON$", lambda m, st: {"label": "Caxton's Preface", "key": "preface"}),
+                  (r"^BOOK ([IVXL]+\.?)$", _malory_book),
+                  (r"^CHAPTER ([IVXL]+)\.?(?:\s+(.*))?$", _malory_chapter)],
+        "head_max": 400,
+        "citation": "Caxton's book + chapter + paragraph (malory-morte:7.3.2); each chapter's rubric is "
+                    "unit .0, marked heading: true",
+        "honesty": "Caxton's book and chapter division as Pollard prints it, spelling modernised by "
+                   "Pollard; his introduction and glossary are not ingested",
+    },
+    "bulfinch-age-of-fable": {
+        "title": "The Age of Fable", "author": "Thomas Bulfinch (rev. E. E. Hale)",
+        "source_note": "Project Gutenberg #3327 by way of the GITenberg mirror",
+        "files": [{"start_at": r"^Stories of Gods and Heroes\.$",
+                   "stop_at": r"^SKETCH OF THE HISTORY OF GREEK SCULPTURE$"}],
+        "scrub": [r"(?m)^Stories of Gods and Heroes\.[ \t]*$"],
+        "heads": [(r"^Chapter ([IVXL]+)\.?$", _aof_chapter), (r"^CHAPTER ([IVXL]+)\.?$", _aof_chapter)],
+        "citation": "chapter + paragraph (bulfinch-age-of-fable:ch4.7)",
+        "honesty": "Gutenberg's transcription of the revised Age of Fable; the closing sketch of Greek "
+                   "sculpture, the proverbial expressions and the index are not ingested",
+    },
+    "ovid-riley": {
+        "title": "The Metamorphoses", "author": "Ovid (tr. Henry T. Riley)",
+        "source_note": "Project Gutenberg #21765 and #26073 (Riley's literal prose, Bohn) by way of the "
+                       "GITenberg mirror",
+        "files": [{"start_at": r"^BOOK THE FIRST\.$", "stop_at": r"^Transcriber.s Note on the Text:"},
+                  {"start_at": r"^BOOK THE EIGHTH\.$", "stop_at": r"^THE END\.$"}],
+        "scrub": [r"\[Footnote [^:\]]*:.*?\]\s*(?=\n[ \t]*\n|\Z)", r"\[\d+\*?\]"],
+        "rewrite": [(r"\{([^{}]*)\}", r"\1")],
+        "heads": [(r"^BOOK THE ([A-Z]+)\.$", _ovid_book),
+                  (r"^(THE ARGUMENT\.?|FABLES? [IVXL. ]+?(?:AND [IVXL]+\.?)?)\s*(\[[IVXL]+\.\s?[\d-]+\])?$", _ovid_part),
+                  (r"^EXPLANATION\.?$", lambda m, st: {"mute": True})],
+        "citation": "book + fable + paragraph (ovid-riley:1.f4.2); the ref carries Riley's Latin line "
+                    "range, [I.113-150]; a fable's indented summary is its paragraph 1",
+        "honesty": "Riley's literal prose; his braces marking words supplied in English are removed "
+                   "(the words kept), his footnotes and his EXPLANATION commentary are not ingested",
+    },
+}
+
+def convert_divided(paths, slug, cfg):
+    raws, kept, total = [], 0, 0
+    contents = []
+    for path, fc in zip(paths, cfg["files"]):
+        raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read()).replace("\r", "")
+        if cfg.get("contents") and not contents:
+            contents = _q_contents(raw, *cfg["contents"])
+        lines = raw.splitlines()
+        total += len(lines)
+        lo = next(i for i, ln in enumerate(lines)
+                  if i + 1 >= fc.get("start_min_line", 0) and re.match(fc["start_at"], ln.strip()))
+        hi = len(lines)
+        if fc.get("stop_at"):
+            hi = next((i for i in range(lo + 1, len(lines)) if re.match(fc["stop_at"], lines[i].strip())), hi)
+        kept += hi - lo
+        raws.append("\n".join(lines[lo:hi]))
+    text = "\n\n".join(raws)
+    for pat in cfg.get("scrub", []):          # to nothing, not a space: "asphodel [1301]." must read "asphodel."
+        text = re.compile(pat, re.S).sub("", text)
+    for pat, rep in cfg.get("rewrite", []):
+        text = re.compile(pat).sub(rep, text)
+    heads = [(re.compile(rx), fn) for rx, fn in cfg["heads"]]
+    head_max = cfg.get("head_max", 90)
+    st = {"contents": contents}
+    units, label, key, pnum, mute, title_next, rubric_next = [], None, None, 0, False, False, False
+    for para in re.split(r"\n\s*\n", text):
+        p = re.sub(r"\s+", " ", para).strip()
+        if not p:
+            continue
+        hit = None
+        if len(p) <= head_max:
+            for rx, fn in heads:
+                m = rx.match(p)
+                if m:
+                    hit = fn(m, st)
+                    if hit is not None:
+                        break
+        if hit == "drop":
+            continue
+        if isinstance(hit, dict) and hit.get("mute"):
+            mute = True
+            continue
+        if isinstance(hit, dict):
+            label, key, pnum, mute = hit["label"], hit["key"], 0, False
+            st.pop("where", None)
+            title_next = bool(hit.get("title_next"))
+            rubric_next = bool(hit.get("rubric_next"))
+            if hit.get("emit"):
+                units.append({"id": f"{slug}:{key}.0", "ref": f"{label}, rubric", "text": hit["emit"],
+                              "heading": True, "links": []})
+            continue
+        if mute or key is None:
+            continue
+        if title_next:
+            label, title_next = f"{label}: {p.rstrip('.')}", False
+            continue
+        if rubric_next:
+            units.append({"id": f"{slug}:{key}.0", "ref": f"{label}, rubric", "text": p,
+                          "heading": True, "links": []})
+            rubric_next = False
+            continue
+        pnum += 1
+        where = cfg["where"](p, st) if cfg.get("where") else None
+        ref = f"{label}, {where}" if where else f"{label}, par. {pnum}"
+        units.append({"id": f"{slug}:{key}.{pnum}", "ref": ref, "text": p, "links": []})
+    digest = hashlib.sha256(" ".join(sha256(x) for x in paths).encode("ascii")).hexdigest() \
+        if len(paths) > 1 else sha256(paths[0])
+    return {"slug": slug, "title": cfg["title"], "author": cfg["author"],
+            "source": {"path": [os.path.relpath(x, CORPUS) for x in paths] if len(paths) > 1
+                       else os.path.relpath(paths[0], CORPUS),
+                       "format": "gutenberg-txt", "sha256": digest, "note": cfg["source_note"]},
+            "scheme": {"apparatus": f"body cut by QUEUE_BOOKS: kept {kept} of {total} source lines "
+                                    f"(front matter, contents, notes and back matter are not the work)",
+                       "citation": cfg["citation"], "resolution": "paragraph", "honesty": cfg["honesty"]},
+            "units": units}
+
 # ---------------------------------------------------------------- scans (archive.org OCR)
 # Alfred J. Church's "for Boys and Girls" Homer (2026-10-16) exists only as library scans. Their OCR
 # text carries every printed page's furniture: a page number, a running head in capitals (the book's
@@ -3831,6 +4106,12 @@ def main():
             ident = _fsa.ARCHIVE_OCR[slug][0]
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author, i=ident, x=extra, h=hfix:
                          convert_archive_ocr_prose(p, s, t, a, i, x, h)))
+    # The illustrated-classics queue (2026-11-01): pinned GITenberg texts, one converter (QUEUE_BOOKS).
+    gdir = os.path.join(CORPUS, "gitenberg")
+    for slug, cfg in QUEUE_BOOKS.items():
+        ps = [os.path.join(gdir, f"{slug}.{i}.txt") for i in range(len(cfg["files"]))]
+        if all(os.path.exists(x) for x in ps):
+            jobs.append((slug, lambda ps=ps, s=slug, c=cfg: convert_divided(ps, s, c)))
     # Aphthonius, Progymnasmata (2026-10-20): three editions, one converter each (see PROGYM_EXERCISES).
     for slug, conv in (("aphthonius-rabe", convert_rabe_hocr), ("aphthonius-agricola", convert_agricola_djvu)):
         ident, fn, ext, title, author = _fsa.ARCHIVE_LAYOUT[slug]

@@ -90,6 +90,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
     python3 tests/structure_test.py          # 147 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
+    python3 tests/queue_books_test.py         # the illustrated-classics queue converter (QUEUE_BOOKS), synthetic
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)

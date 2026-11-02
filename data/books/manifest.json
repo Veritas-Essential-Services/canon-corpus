@@ -2105,5 +2105,70 @@
    "rights_line": "Public Domain",
    "note": "eBible: letters patent restrict printing the KJV in the United Kingdom; elsewhere it is in the public domain"
   }
+ },
+ "hesiod-evelyn-white": {
+  "title": "The Works of Hesiod",
+  "author": "Hesiod (tr. Hugh G. Evelyn-White)",
+  "format": "gutenberg-txt",
+  "sha256": "8f14e02495004b402ce2fc7f7dd53966b0e89b23c39bee440b3fe04aec4d101f",
+  "units": 483,
+  "scheme": {
+   "apparatus": "body cut by QUEUE_BOOKS: kept 3777 of 10060 source lines (front matter, contents, notes and back matter are not the work)",
+   "citation": "poem or fragment group + paragraph (hesiod-evelyn-white:th.12); the ref names the translation's own line range, (ll. 116-138), or the fragment number",
+   "resolution": "paragraph",
+   "honesty": "Evelyn-White's prose translation as Gutenberg transcribes it; line ranges are the translator's marks, carried to the paragraphs that follow them. The Homeric Hymns and Homerica in the same volume are not ingested here; the introduction is not."
+  }
+ },
+ "pyle-robin-hood": {
+  "title": "The Merry Adventures of Robin Hood",
+  "author": "Howard Pyle",
+  "format": "gutenberg-txt",
+  "sha256": "27c4a9085d7901026aa4ac5e5afc33153637c4605adb296600f0ba67934d722f",
+  "units": 1684,
+  "scheme": {
+   "apparatus": "body cut by QUEUE_BOOKS: kept 11150 of 11169 source lines (front matter, contents, notes and back matter are not the work)",
+   "citation": "chapter + paragraph (pyle-robin-hood:ch2.5); chapters numbered in the order of the book's Contents, the Prologue's adventure being ch1",
+   "resolution": "paragraph",
+   "honesty": "Gutenberg's transcription; Pyle's part divisions survive only as 'Part First' and his pictures are not in the text; footnotes removed"
+  }
+ },
+ "malory-morte": {
+  "title": "Le Morte d'Arthur",
+  "author": "Sir Thomas Malory (Caxton's text, ed. A. W. Pollard)",
+  "format": "gutenberg-txt",
+  "sha256": "2e63b8306c869824ace1b5f1af73ebbf4b2e073fe225a4ff7905202cac8b46c3",
+  "units": 1947,
+  "scheme": {
+   "apparatus": "body cut by QUEUE_BOOKS: kept 29658 of 32000 source lines (front matter, contents, notes and back matter are not the work)",
+   "citation": "Caxton's book + chapter + paragraph (malory-morte:7.3.2); each chapter's rubric is unit .0, marked heading: true",
+   "resolution": "paragraph",
+   "honesty": "Caxton's book and chapter division as Pollard prints it, spelling modernised by Pollard; his introduction and glossary are not ingested"
+  }
+ },
+ "bulfinch-age-of-fable": {
+  "title": "The Age of Fable",
+  "author": "Thomas Bulfinch (rev. E. E. Hale)",
+  "format": "gutenberg-txt",
+  "sha256": "97870ff12e6f05eae3cacf536dae22be7f5b45304f415f297457a4d649bd5e62",
+  "units": 1441,
+  "scheme": {
+   "apparatus": "body cut by QUEUE_BOOKS: kept 15322 of 16445 source lines (front matter, contents, notes and back matter are not the work)",
+   "citation": "chapter + paragraph (bulfinch-age-of-fable:ch4.7)",
+   "resolution": "paragraph",
+   "honesty": "Gutenberg's transcription of the revised Age of Fable; the closing sketch of Greek sculpture, the proverbial expressions and the index are not ingested"
+  }
+ },
+ "ovid-riley": {
+  "title": "The Metamorphoses",
+  "author": "Ovid (tr. Henry T. Riley)",
+  "format": "gutenberg-txt",
+  "sha256": "a96c0a8f610785245a2a9a10ee5007bb177093ce14a3ca622eece77f0fc746c0",
+  "units": 785,
+  "scheme": {
+   "apparatus": "body cut by QUEUE_BOOKS: kept 25517 of 27112 source lines (front matter, contents, notes and back matter are not the work)",
+   "citation": "book + fable + paragraph (ovid-riley:1.f4.2); the ref carries Riley's Latin line range, [I.113-150]; a fable's indented summary is its paragraph 1",
+   "resolution": "paragraph",
+   "honesty": "Riley's literal prose; his braces marking words supplied in English are removed (the words kept), his footnotes and his EXPLANATION commentary are not ingested"
+  }
  }
 }
