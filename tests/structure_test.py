@@ -1064,5 +1064,27 @@ check("kjva: a segment that stops short of the KJV's passage is refused", _ok)
 check("kjva: rights public domain, with eBible's rights line",
       _ka["rights"]["license"] == "public-domain" and _ka["rights"]["rights_line"] == "Public Domain")
 
+# --- the Year 0 shelf (2026-11-02): one body rule for twenty Gutenberg picture books and read-alouds
+import re
+import fetch_sources as _fsy
+check("year0: every shelf book is fetched as Gutenberg text under a hyphenated slug",
+      all(_fsy.GUTENBERG_EXTRA.get(k) == v[0] and re.fullmatch(r"[a-z0-9][a-z0-9-]*", k)
+          for k, v in _fsy.YEAR0_GUTENBERG.items()) and len(_fsy.YEAR0_GUTENBERG) == 20)
+_y0 = os.path.join(tempfile.mkdtemp(), "y0.txt")
+open(_y0, "w", encoding="utf-8").write(
+    "*Project Gutenberg Etext of A Tale*\n\nLicence words.\n\n"
+    "*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*\n\n"
+    "Etext scanned by A Volunteer.\n\nA TALE\n\nI. The Hen Goes Out\n\nOnce there was a hen.\n\n"
+    "[Illustration: The hen]\n\nShe went out.\n\nII. The Hen Comes Home\n\nShe came home.\n\n"
+    "End of Project Gutenberg Etext of A Tale\n")
+_yb = st.convert_gutenberg_prose(_y0, "potter-peter-rabbit", "A Tale", "Anon",
+                                 st.contents_chapre(_y0) + r"|^[IVXLC]+\.\s+[A-Z][^.]{3,70}$")
+_yt = " ".join(u["text"] for u in _yb["units"])
+check("year0: an old etext's licence, the producer's credit, pictures and the closing line are not text",
+      not re.search(r"Licence|SMALL PRINT|Volunteer|Illustration|Gutenberg", _yt)
+      and "Once there was a hen." in _yt and "She came home." in _yt)
+check("year0: numbered chapters with no Contents still divide the book",
+      [u["id"] for u in _yb["units"] if "hen" in u["text"].lower()][:1] == ["potter-peter-rabbit:I._The_Hen_Goes_Out.1"])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

@@ -730,6 +730,56 @@ CHESTERTON_GUTENBERG = {
 for _slug, (_gid, _t, _a) in CHESTERTON_GUTENBERG.items():
     GUTENBERG_EXTRA[_slug] = _gid
 
+# The Year 0 shelf (2026-11-02): the public-domain picture books and read-alouds on AmblesideOnline's
+# Year 0 list, so the Word Hoard's My Reading page can link a child's Year 0 books to the Armarium
+# (wordhoard data/ao/year0-armarium.json). Same shape and converter as the Chesterton shelf.
+#
+# RIGHTS: every header below was read for "COPYRIGHTED Project Gutenberg" (none), from the Internet
+# Archive's mirror of each Gutenberg item (archive.org/details/<title><id>gut), because gutenberg.org
+# was not reachable from the session that added them. All were first published 1880-1919; no translator.
+# Where AO names an edition, it is the one taken: Milo Winter's Aesop (1919) and Jessie Willcox
+# Smith's Child's Garden (1905). Of two Mrs. Tiggy-Winkle files, PG 15137 matches the other tales'
+# transcription.
+#
+# NOT HERE (the completeness note):
+#   Milne: Winnie-the-Pooh (1926), The House at Pooh Corner (1928), When We Were Very Young (1924),
+#     Now We Are Six (1927). US public domain, and on Gutenberg since 2022-24, but not in the Internet
+#     Archive's mirror, so their Gutenberg ids and rights lines were not read. A session that can
+#     reach gutenberg.org adds them here.
+#   The Little Engine That Could (1930 Platt & Munk): US PD since 2026-01-01; no Gutenberg text found.
+#   Mother West Wind's Children (1911): no Gutenberg text found; Old Mother West Wind (1910) stands in
+#     as AO's "etc." allows.
+#   For the Children's Hour (Bailey & Lewis), Nursery Tales Told to Children, and the Reading-Literature
+#     readers (Free & Treadwell): no Gutenberg text found. Archive.org scans -> Unscanner, DEFERRED.
+#   Everything on the Year 0 list still in copyright, and the modern picture-book editions of
+#     public-domain texts (Hiawatha, Wynken, the Just So picture books, the Potter board books).
+YEAR0_GUTENBERG = {
+    "potter-peter-rabbit":     (14838, "The Tale of Peter Rabbit (1902)", "Beatrix Potter"),
+    "potter-two-bad-mice":     (45264, "The Tale of Two Bad Mice (1904)", "Beatrix Potter"),
+    "potter-tiggy-winkle":     (15137, "The Tale of Mrs. Tiggy-Winkle (1905)", "Beatrix Potter"),
+    "potter-jeremy-fisher":    (15077, "The Tale of Mr. Jeremy Fisher (1906)", "Beatrix Potter"),
+    "potter-tom-kitten":       (14837, "The Tale of Tom Kitten (1907)", "Beatrix Potter"),
+    "potter-jemima":           (14814, "The Tale of Jemima Puddle-Duck (1908)", "Beatrix Potter"),
+    "potter-flopsy-bunnies":   (14220, "The Tale of the Flopsy Bunnies (1909)", "Beatrix Potter"),
+    "potter-tittlemouse":      (17089, "The Tale of Mrs. Tittlemouse (1910)", "Beatrix Potter"),
+    "harris-remus":            (2306, "Uncle Remus, His Songs and His Sayings (1880)", "Joel Chandler Harris"),
+    "harris-remus-brer-rabbit": (22282, "Uncle Remus and Brer Rabbit (1907)", "Joel Chandler Harris"),
+    "burgess-mother-west-wind": (2557, "Old Mother West Wind (1910)", "Thornton W. Burgess"),
+    "burgess-reddy-fox":       (1825, "The Adventures of Reddy Fox (1913)", "Thornton W. Burgess"),
+    "burgess-johnny-chuck":    (5844, "The Adventures of Johnny Chuck (1913)", "Thornton W. Burgess"),
+    "burgess-peter-cottontail": (46866, "The Adventures of Peter Cottontail (1914)", "Thornton W. Burgess"),
+    "stevenson-garden-verses": (25609, "A Child's Garden of Verses (1885; ill. Jessie Willcox Smith, 1905)",
+                                "Robert Louis Stevenson"),
+    "jacobs-english-fairy":    (7439, "English Fairy Tales (1890)", "Joseph Jacobs (coll. & ed.)"),
+    "jacobs-more-english-fairy": (14241, "More English Fairy Tales (1894)", "Joseph Jacobs (coll. & ed.)"),
+    "aesop-winter":            (19994, "The Aesop for Children (1919; pictures by Milo Winter)", "Aesop"),
+    "real-mother-goose":       (10607, "The Real Mother Goose (1916; ill. Blanche Fisher Wright)", "Mother Goose"),
+    "childhoods-favorites":    (19993, "Childhood's Favorites and Fairy Stories (1909)",
+                                "ed. Hamilton Wright Mabie, Edward Everett Hale & William Byron Forbush"),
+}
+for _slug, (_gid, _t, _a) in YEAR0_GUTENBERG.items():
+    GUTENBERG_EXTRA[_slug] = _gid
+
 UA = {"User-Agent": "Canon-Corpus/0.1 (personal library research)"}
 
 def fetch(url, dest):

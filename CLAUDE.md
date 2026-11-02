@@ -88,7 +88,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 147 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 150 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 tests/queue_books_test.py         # the illustrated-classics queue converter (QUEUE_BOOKS), synthetic
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
@@ -304,6 +304,13 @@ The living truth for project state is the Obsidian vault:
   domain, with the reason per poem; everything else links out. Packs in
   exports/mnemonicon/poetry/, ids uuid5 of the poem's wh-uid. Rules and
   schema: data/poetry/README.md.
+
+- The Year 0 shelf (2026-11-02): `YEAR0_GUTENBERG` in fetch_sources.py, twenty public-domain picture
+  books and read-alouds from AmblesideOnline's Year 0 list (Potter, Burgess, Uncle Remus, Stevenson,
+  Jacobs, Milo Winter's Aesop, The Real Mother Goose, Childhood's Favorites), built like the Chesterton
+  shelf with one body rule for all (`YEAR0_BODY_RULE`). The Word Hoard's My Reading page links a
+  child's Year 0 books to them (wordhoard `data/ao/year0-armarium.json`). Milne's four are PD but were
+  not reachable to check: the completeness note is beside the dict.
 
 - unscanner/ — the Unscanner, Phase A (2026-10-16): a scanned PD book -> tesseract hOCR -> layout
   (indent = paragraph, folios and running heads by position, plates from the ink) -> reflowed HTML,
