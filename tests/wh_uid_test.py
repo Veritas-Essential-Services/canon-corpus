@@ -227,6 +227,27 @@ ok_reg.save()
 check("the public registry still saves public citations",
       os.path.exists(os.path.join(pubdir, "wordhoard.uids.json")))
 
+# bank(): a uid minted elsewhere (a room's catalogue) is recorded, never moved.
+bdir = tempfile.mkdtemp()
+breg = U.WhUidRegistry(os.path.join(bdir, "wordhoard.uids.json"))
+held = breg.uid_for("kjv:Gen.1.1")
+outside = U.format_uid(U.new_concept())
+check("bank records an outside uid under its citation",
+      breg.bank("ti-plates:wyeth-1911.n12", outside) is True
+      and breg.map["ti-plates:wyeth-1911.n12"] == outside and breg.minted == 1)
+check("banking the same pair again is a no-op",
+      breg.bank("ti-plates:wyeth-1911.n12", outside) is False)
+check("bank refuses to move a citation's uid",
+      raises(breg.bank, "ti-plates:wyeth-1911.n12", U.format_uid(U.new_concept())))
+check("bank refuses a uid another citation holds",
+      raises(breg.bank, "ti-plates:wyeth-1911.n13", held))
+rreg = U.WhUidRegistry(None)
+private_uid = U.format_uid(U.new_concept())
+rreg.reserved.add(private_uid)
+check("bank refuses a reserved uid", raises(rreg.bank, "ti-plates:x.n1", private_uid))
+check("after a bank, a mint can never reuse that uid",
+      U.parse_uid(outside)["concept"] in breg._concepts)
+
 print()
 print(f"{PASS} passed, {len(FAIL)} failed")
 if FAIL:
