@@ -7,6 +7,8 @@ fable_review: pending
 ---
 # canon-corpus
 
+> **New here, or picking this up cold?** Start with [HANDOFF.md](HANDOFF.md): purpose, architecture, local setup on Windows, deploy, services, current state, next steps, gotchas and the decision log in one place.
+
 The shared source + structure layer of the Canon OS: manifest-driven
 fetchers for public-domain texts (Perseus TEI, CCEL ThML, Project
 Gutenberg) and converters that turn them into unit-id JSON with canonical
