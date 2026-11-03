@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain Franciscus Junius the elder (Francois du Jon, 1545-1602), Reformed professor at Heidelberg and Leiden, for the Word Hoard: his commentary on the Revelation in English (London: Richard Field, catalogued 1592; and the new translation, Cambridge: John Legat, 1596, dedication signed T. B.) and A Christian Letter of admonition against separation from the church assemblies in England (catalogued 1602), from Internet Archive scans of Early English Books. Not the younger Junius, the philologist. Added 2026-10-23 by lane A, round 39 (a pickup: the 2026-10-23 closing note that no English Junius was on the Archive was wrong, and is corrected here); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "junius",
+  "iunius",
+  "jon",
+  "ion"
+ ],
+ "_surname": [
+  "du jon",
+  "dujon",
+  "du ion",
+  "dv ion",
+  "junius",
+  "iunius",
+  "francis iunius",
+  "francis junius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "junius-apocalypsis-1592": [
+   "bim_early-english-books-1475-1640_apocalypsis-a-briefe-an_dujon-francois_1592",
+   "Apocalypsis: A briefe and learned commentarie upon the Revelation of S. Iohn, written in Latine by M. Francis Du Jon (Imprinted at London by Richard Field; catalogued 1592)"
+  ],
+  "junius-apocalyps-1596": [
+   "bim_early-english-books-1475-1640_the-apocalyps-or-revela_dujon-francis_1596",
+   "The Apocalyps, or Revelation of S. Iohn, with a briefe and methodicall exposition, set forth by Fr. Du Ion, newly translated (Cambridge: Iohn Legat, 1596)"
+  ],
+  "junius-christian-letter-1602": [
+   "bim_early-english-books-1475-1640_a-christian-letter-cont_du-jon-franois-the-el_1602",
+   "A Christian Letter, containing a grave and godly admonition to such as make separation from the Church assemblies in England, by Master Francis Iunius, Divinitie Reader at Leyden (for Robert Dexter; catalogued 1602)"
+  ]
+ },
+ "_alternates": {
+  "junius-letters-1602": "Certayne Letters (1602), two by Junius and one by the exiled English church at Amsterdam, tr. R. G.: mixed authorship"
+ },
+ "_excluded": {
+  "junius-other": "His Latin works (Defensio, De Politiae Mosis, Lectiones in Ionam, De Theologia Vera); the 1599 Geneva-Tomson Bible; the younger Junius's Painting of the Ancients (a different man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "junius-apocalyps-1596": "title page read from the page image: 'Lately set forth by Fr. Du Ion, and newly translated into English', Printed by John Legat, Printer to the Universitie of Cambridge, 1596; the dedication to John Boyse is signed T. B. (the OCR misses the name)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "junius-apocalypsis-1592": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "junius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1592",
+   "ia_date": "1592",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "junius-apocalyps-1596": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1596",
+   "ia_date": "1596",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "junius-christian-letter-1602": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "junius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1602",
+   "ia_date": "1602",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

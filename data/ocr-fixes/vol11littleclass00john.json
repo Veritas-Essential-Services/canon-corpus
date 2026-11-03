@@ -1,0 +1,1345 @@
+{
+ "ia_id": "vol11littleclass00john",
+ "shelf": "little-classics",
+ "witness": "little-classics-v11-heroism",
+ "collated_with": [
+  "littleclassicsv01unkngoog"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": [
+  [
+   1,
+   "series^’",
+   "series.”"
+  ],
+  [
+   1,
+   "Com>?tercialAdv.",
+   "Commercial Adv."
+  ],
+  [
+   1,
+   "Se7tt,",
+   "Sent,"
+  ],
+  [
+   2,
+   "©Utjentl)",
+   "Eleventh"
+  ],
+  [
+   2,
+   "‘©olttme.",
+   "Volume."
+  ],
+  [
+   4,
+   "Fitz~Uugk",
+   "Fitz-Hugh"
+  ],
+  [
+   6,
+   "hor.se’s",
+   "horse’s"
+  ],
+  [
+   10,
+   "iND",
+   "AND"
+  ],
+  [
+   12,
+   "hogS",
+   "hogs"
+  ],
+  [
+   21,
+   "2-Z",
+   "22"
+  ],
+  [
+   25,
+   "\\h.Qfennes",
+   "the fermes"
+  ],
+  [
+   32,
+   "7'm",
+   "I’m"
+  ],
+  [
+   33,
+   "him.self,",
+   "himself,"
+  ],
+  [
+   37,
+   "!\\lixer",
+   "Mixer"
+  ],
+  [
+   40,
+   "4-1",
+   "41"
+  ],
+  [
+   42,
+   "«",
+   "“"
+  ],
+  [
+   48,
+   "I>",
+   ""
+  ],
+  [
+   56,
+   "&0",
+   ""
+  ],
+  [
+   56,
+   "fcO",
+   ""
+  ],
+  [
+   57,
+   "ver,y",
+   "very"
+  ],
+  [
+   61,
+   "6-Z",
+   "62"
+  ],
+  [
+   65,
+   "the_y",
+   "they"
+  ],
+  [
+   66,
+   "aU",
+   "all"
+  ],
+  [
+   73,
+   "aU",
+   "all"
+  ],
+  [
+   89,
+   "aU",
+   "all"
+  ],
+  [
+   98,
+   "aU",
+   "all"
+  ],
+  [
+   68,
+   "«",
+   "“"
+  ],
+  [
+   71,
+   "°",
+   ""
+  ],
+  [
+   75,
+   "°",
+   ""
+  ],
+  [
+   79,
+   "stiU",
+   "still"
+  ],
+  [
+   81,
+   "olF,",
+   "off,"
+  ],
+  [
+   82,
+   "nTshinglike",
+   "rushing like"
+  ],
+  [
+   86,
+   "«",
+   ""
+  ],
+  [
+   93,
+   "U4",
+   "94"
+  ],
+  [
+   97,
+   "y»",
+   ""
+  ],
+  [
+   101,
+   "/or",
+   "for"
+  ],
+  [
+   107,
+   "har\\'est-tleld",
+   "harvest-field"
+  ],
+  [
+   109,
+   "\"^twine",
+   "twine"
+  ],
+  [
+   119,
+   "T1",
+   "I’ll"
+  ],
+  [
+   122,
+   "12.3",
+   "123"
+  ],
+  [
+   123,
+   "enem,y’s",
+   "enemy’s"
+  ],
+  [
+   126,
+   "1^7",
+   "127"
+  ],
+  [
+   131,
+   "13E",
+   "132"
+  ],
+  [
+   133,
+   "1:34",
+   "134"
+  ],
+  [
+   134,
+   "gun.s",
+   "guns"
+  ],
+  [
+   138,
+   "goat-taU,",
+   "goat-tail,"
+  ],
+  [
+   141,
+   "14;^",
+   "142"
+  ],
+  [
+   141,
+   "lld/iin",
+   "Rônin"
+  ],
+  [
+   145,
+   "U6",
+   "146"
+  ],
+  [
+   150,
+   "llONINS.",
+   "RÔNINS."
+  ],
+  [
+   152,
+   "llONINS.",
+   "RÔNINS."
+  ],
+  [
+   156,
+   "llONINS.",
+   "RÔNINS."
+  ],
+  [
+   154,
+   "WakuHandaiyu,",
+   "Waku Handaiyu,"
+  ],
+  [
+   156,
+   "OishiKuiano-",
+   "Oishi Kurano-"
+  ],
+  [
+   157,
+   "ki/i,",
+   "kiri,"
+  ],
+  [
+   161,
+   "unmiKcd,",
+   "unmixed,"
+  ],
+  [
+   162,
+   "rOUTY-SEVEN",
+   "FORTY-SEVEN"
+  ],
+  [
+   162,
+   "I°will",
+   "I will"
+  ],
+  [
+   164,
+   "wide « jurs A",
+   "wide world of ours. A"
+  ],
+  [
+   170,
+   "'\"'®",
+   "we"
+  ],
+  [
+   173,
+   "burgh,^",
+   "burgh,"
+  ],
+  [
+   182,
+   "18;3",
+   "183"
+  ],
+  [
+   192,
+   "T93",
+   "193"
+  ],
+  [
+   193,
+   "»",
+   "“"
+  ],
+  [
+   193,
+   "bcauiy,'’or",
+   "beauty, or"
+  ],
+  [
+   198,
+   "he,r",
+   "her"
+  ],
+  [
+   203,
+   "Marenf>-o",
+   "Marengo"
+  ],
+  [
+   206,
+   "20'7",
+   "207"
+  ],
+  [
+   207,
+   "meadoAv-land",
+   "meadow-land"
+  ],
+  [
+   207,
+   "°",
+   ""
+  ],
+  [
+   218,
+   "Gran’mMe,”",
+   "Gran’mère,”"
+  ],
+  [
+   221,
+   "22-Z",
+   "222"
+  ],
+  [
+   222,
+   "2-23",
+   "223"
+  ],
+  [
+   224,
+   "®",
+   ""
+  ],
+  [
+   229,
+   "here,'^",
+   "here,”"
+  ],
+  [
+   233,
+   "234<",
+   "234"
+  ],
+  [
+   101,
+   "foro«,”",
+   "for you,”"
+  ],
+  [
+   166,
+   "faihV",
+   "failin’"
+  ],
+  [
+   166,
+   "}",
+   "’"
+  ],
+  [
+   173,
+   "destination. There",
+   "King’s Cross to her final destination. There"
+  ],
+  [
+   173,
+   "111 the safest",
+   "in the safest"
+  ],
+  [
+   173,
+   "hair-truuk.",
+   "hair-trunk."
+  ],
+  [
+   173,
+   "New Load",
+   "New Road"
+  ],
+  [
+   30,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   38,
+   "bis",
+   "his"
+  ],
+  [
+   66,
+   "bis",
+   "his"
+  ],
+  [
+   146,
+   "bis",
+   "his"
+  ],
+  [
+   153,
+   "bis",
+   "his"
+  ],
+  [
+   33,
+   "liis",
+   "his"
+  ],
+  [
+   35,
+   "liis",
+   "his"
+  ],
+  [
+   36,
+   "liis",
+   "his"
+  ],
+  [
+   53,
+   "liis",
+   "his"
+  ],
+  [
+   117,
+   "liis",
+   "his"
+  ],
+  [
+   144,
+   "liis",
+   "his"
+  ],
+  [
+   145,
+   "liis",
+   "his"
+  ],
+  [
+   149,
+   "liis",
+   "his"
+  ],
+  [
+   153,
+   "liis",
+   "his"
+  ],
+  [
+   153,
+   "liis",
+   "his"
+  ],
+  [
+   154,
+   "liis",
+   "his"
+  ],
+  [
+   236,
+   "liis",
+   "his"
+  ],
+  [
+   238,
+   "liis",
+   "his"
+  ],
+  [
+   238,
+   "liis",
+   "his"
+  ],
+  [
+   238,
+   "liis",
+   "his"
+  ],
+  [
+   24,
+   "Sqiiash-ke-bosh,",
+   "Squash-ke-bosh,"
+  ],
+  [
+   38,
+   "Squasb-ke-bosh.",
+   "Squash-ke-bosh."
+  ],
+  [
+   42,
+   "Onr",
+   "Our"
+  ],
+  [
+   66,
+   "Vlvia",
+   "Vivia"
+  ],
+  [
+   67,
+   "niaking",
+   "making"
+  ],
+  [
+   69,
+   "wliite,",
+   "white,"
+  ],
+  [
+   71,
+   "mv",
+   "my"
+  ],
+  [
+   77,
+   "aud,",
+   "and,"
+  ],
+  [
+   77,
+   "hps.",
+   "lips."
+  ],
+  [
+   78,
+   "Beltrau",
+   "Beltran"
+  ],
+  [
+   87,
+   "Veunard",
+   "Vennard"
+  ],
+  [
+   108,
+   "tliat",
+   "that"
+  ],
+  [
+   117,
+   "Tlie",
+   "The"
+  ],
+  [
+   117,
+   "Wliat",
+   "What"
+  ],
+  [
+   138,
+   "Cbicamauga",
+   "Chicamauga"
+  ],
+  [
+   141,
+   "Roiiins,*",
+   "Rônins,*"
+  ],
+  [
+   152,
+   "Ronlns",
+   "Rônins"
+  ],
+  [
+   155,
+   "Roniiis",
+   "Rônins"
+  ],
+  [
+   159,
+   "Ronms",
+   "Rônins"
+  ],
+  [
+   154,
+   "Konins.",
+   "Rônins."
+  ],
+  [
+   149,
+   "Kurauosuke,",
+   "Kuranosuke,"
+  ],
+  [
+   152,
+   "Asauo",
+   "Asano"
+  ],
+  [
+   153,
+   "Siike,",
+   "Suke,"
+  ],
+  [
+   158,
+   "Oishl",
+   "Oishi"
+  ],
+  [
+   149,
+   "Oislii",
+   "Oishi"
+  ],
+  [
+   149,
+   "Oislii",
+   "Oishi"
+  ],
+  [
+   160,
+   "Oislii",
+   "Oishi"
+  ],
+  [
+   174,
+   "mdividual",
+   "individual"
+  ],
+  [
+   190,
+   "wordiug",
+   "wording"
+  ],
+  [
+   207,
+   "Beruadou,",
+   "Bernadou,"
+  ],
+  [
+   229,
+   "Bornadou",
+   "Bernadou"
+  ],
+  [
+   231,
+   "Beinadou",
+   "Bernadou"
+  ],
+  [
+   210,
+   "Heme",
+   "Heine"
+  ],
+  [
+   231,
+   "shail",
+   "shall"
+  ],
+  [
+   234,
+   "liad",
+   "had"
+  ],
+  [
+   239,
+   "cliance.",
+   "chance."
+  ],
+  [
+   240,
+   "Alllx",
+   "Allix"
+  ],
+  [
+   242,
+   "Bereeau",
+   "Berceau"
+  ],
+  [
+   35,
+   "motlier,",
+   "mother,"
+  ],
+  [
+   36,
+   "motlier",
+   "mother"
+  ],
+  [
+   6,
+   "LTIDLOW.",
+   "LUDLOW."
+  ],
+  [
+   18,
+   "BEIGGS",
+   "BRIGGS"
+  ],
+  [
+   30,
+   "BEIGGS",
+   "BRIGGS"
+  ],
+  [
+   24,
+   "BUIGGS",
+   "BRIGGS"
+  ],
+  [
+   3,
+   "COPTEIGHT,",
+   "COPYRIGHT,"
+  ],
+  [
+   138,
+   "THKEE",
+   "THREE"
+  ],
+  [
+   201,
+   "OIRIDA.",
+   "OUIDA."
+  ],
+  [
+   148,
+   "EONINS.",
+   "RÔNINS."
+  ],
+  [
+   158,
+   "KONINS.",
+   "RÔNINS."
+  ],
+  [
+   2,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   140,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   142,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   144,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   146,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   154,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   160,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   162,
+   "RONINS.",
+   "RÔNINS."
+  ],
+  [
+   144,
+   "FOKTY-SEVEN",
+   "FORTY-SEVEN"
+  ],
+  [
+   156,
+   "FOKTY-SEVEN",
+   "FORTY-SEVEN"
+  ],
+  [
+   148,
+   "FOETY-SEVEN",
+   "FORTY-SEVEN"
+  ],
+  [
+   150,
+   "FOLLTY-SEVEN",
+   "FORTY-SEVEN"
+  ],
+  [
+   158,
+   "EORTY-SEVEN",
+   "FORTY-SEVEN"
+  ],
+  [
+   102,
+   "TWENTY-THJSD.",
+   "TWENTY-THIRD."
+  ],
+  [
+   33,
+   "to-morrow P",
+   "to-morrow ?"
+  ],
+  [
+   229,
+   "it P",
+   "it ?"
+  ],
+  [
+   6,
+   "when lie",
+   "when he"
+  ],
+  [
+   19,
+   "of tlie",
+   "of the"
+  ],
+  [
+   20,
+   "from Ills",
+   "from his"
+  ],
+  [
+   24,
+   "not hut",
+   "not but"
+  ],
+  [
+   24,
+   "road, hut",
+   "road, but"
+  ],
+  [
+   33,
+   "me (lie",
+   "me (he"
+  ],
+  [
+   35,
+   "when lie",
+   "when he"
+  ],
+  [
+   45,
+   "rally. lie",
+   "rally. He"
+  ],
+  [
+   47,
+   "I Avas",
+   "I was"
+  ],
+  [
+   47,
+   "reason Avas",
+   "reason was"
+  ],
+  [
+   47,
+   "thought Avas",
+   "thought was"
+  ],
+  [
+   54,
+   "tremble, oil",
+   "tremble, off"
+  ],
+  [
+   57,
+   "CLASSICS. Ills",
+   "CLASSICS. His"
+  ],
+  [
+   58,
+   "lapped iii",
+   "lapped in"
+  ],
+  [
+   64,
+   "to hut",
+   "to but"
+  ],
+  [
+   88,
+   "turned Ms",
+   "turned his"
+  ],
+  [
+   92,
+   "; hut",
+   "; but"
+  ],
+  [
+   92,
+   "you hut",
+   "you but"
+  ],
+  [
+   96,
+   "last hut",
+   "last but"
+  ],
+  [
+   108,
+   "anything hut",
+   "anything but"
+  ],
+  [
+   108,
+   "loss, hut",
+   "loss, but"
+  ],
+  [
+   115,
+   "there Avas",
+   "there was"
+  ],
+  [
+   127,
+   "It Avas",
+   "It was"
+  ],
+  [
+   140,
+   "; hut",
+   "; but"
+  ],
+  [
+   143,
+   "as lie",
+   "as he"
+  ],
+  [
+   145,
+   "home iii",
+   "home in"
+  ],
+  [
+   146,
+   "prisoner Avas",
+   "prisoner was"
+  ],
+  [
+   157,
+   "But lie",
+   "But he"
+  ],
+  [
+   163,
+   "and lie",
+   "and he"
+  ],
+  [
+   168,
+   "hints, hut",
+   "hints, but"
+  ],
+  [
+   179,
+   "half-holiday’s np-",
+   "half-holiday’s up-"
+  ],
+  [
+   194,
+   "to tier",
+   "to her"
+  ],
+  [
+   204,
+   "looking np",
+   "looking up"
+  ],
+  [
+   231,
+   "nothing, hut",
+   "nothing, but"
+  ],
+  [
+   231,
+   "hut lie",
+   "hut he"
+  ],
+  [
+   235,
+   "that lie",
+   "that he"
+  ],
+  [
+   38,
+   "a bold of",
+   "a hold of"
+  ],
+  [
+   38,
+   "left, be elevated",
+   "left, he elevated"
+  ],
+  [
+   38,
+   "that be preferred",
+   "that he preferred"
+  ],
+  [
+   66,
+   "“ Pie ’s",
+   "“ He ’s"
+  ],
+  [
+   183,
+   "thnt I I r",
+   ""
+  ],
+  [
+   59,
+   "111 Its",
+   "in its"
+  ],
+  [
+   63,
+   "Gi",
+   "64"
+  ],
+  [
+   71,
+   "73",
+   "72"
+  ],
+  [
+   79,
+   "so",
+   "80"
+  ],
+  [
+   91,
+   "93",
+   "92"
+  ],
+  [
+   105,
+   "100",
+   "106"
+  ],
+  [
+   110,
+   "DAYS. Ill",
+   "DAYS. 111"
+  ],
+  [
+   121,
+   "123",
+   "122"
+  ],
+  [
+   125,
+   "136",
+   "126"
+  ],
+  [
+   159,
+   "IGO",
+   "160"
+  ],
+  [
+   181,
+   "little classics.",
+   "LITTLE CLASSICS."
+  ],
+  [
+   181,
+   "is-z",
+   "182"
+  ],
+  [
+   203,
+   "20 -i",
+   "204"
+  ],
+  [
+   234,
+   "LEAF m THE",
+   "LEAF IN THE"
+  ],
+  [
+   152,
+   "FOUTY-SEVELSR",
+   "FORTY-SEVEN"
+  ],
+  [
+   226,
+   "\"1^0880856(1.",
+   ""
+  ],
+  [
+   4,
+   "jd, Bertram Milford",
+   "A. Bertram Mitford"
+  ],
+  [
+   192,
+   "happen. , t. r ic",
+   "happen."
+  ],
+  [
+   192,
+   "alone. vi n",
+   "alone."
+  ],
+  [
+   50,
+   "0 Beltran",
+   "SO Beltran"
+  ],
+  [
+   102,
+   "smiting of the",
+   "THE smiting of the"
+  ],
+  [
+   102,
+   "1863,",
+   "ber, 1863,"
+  ],
+  [
+   140,
+   "BEG my",
+   "I BEG my"
+  ],
+  [
+   201,
+   "HE Berceau",
+   "THE Berceau"
+  ],
+  [
+   226,
+   "LEAP",
+   "LEAF"
+  ],
+  [
+   230,
+   "LEAP",
+   "LEAF"
+  ],
+  [
+   236,
+   "LEAP",
+   "LEAF"
+  ],
+  [
+   164,
+   "mm",
+   ""
+  ],
+  [
+   164,
+   "mm",
+   ""
+  ],
+  [
+   164,
+   "IS ABET J, A",
+   "ISABELLA"
+  ],
+  [
+   164,
+   "HERE had been",
+   "THERE had been"
+  ],
+  [
+   50,
+   "THE S",
+   ""
+  ],
+  [
+   66,
+   "you’U",
+   "you’ll"
+  ],
+  [
+   91,
+   "J ane",
+   "Jane"
+  ],
+  [
+   185,
+   "Pei haps.",
+   "Perhaps."
+  ],
+  [
+   220,
+   "youngest-horn",
+   "youngest-born"
+  ]
+ ],
+ "reocr_damaged_pages": true,
+ "pages_from_twin": [
+  [
+   113,
+   "littleclassicsv01unkngoog",
+   118
+  ],
+  [
+   129,
+   "littleclassicsv01unkngoog",
+   134
+  ],
+  [
+   164,
+   "littleclassicsv01unkngoog",
+   169
+  ],
+  [
+   166,
+   "littleclassicsv01unkngoog",
+   171
+  ],
+  [
+   167,
+   "littleclassicsv01unkngoog",
+   172
+  ],
+  [
+   175,
+   "littleclassicsv01unkngoog",
+   180
+  ],
+  [
+   183,
+   "littleclassicsv01unkngoog",
+   188
+  ],
+  [
+   187,
+   "littleclassicsv01unkngoog",
+   192
+  ],
+  [
+   189,
+   "littleclassicsv01unkngoog",
+   194
+  ],
+  [
+   190,
+   "littleclassicsv01unkngoog",
+   195
+  ],
+  [
+   191,
+   "littleclassicsv01unkngoog",
+   196
+  ],
+  [
+   219,
+   "littleclassicsv01unkngoog",
+   224
+  ],
+  [
+   228,
+   "littleclassicsv01unkngoog",
+   233
+  ]
+ ]
+}

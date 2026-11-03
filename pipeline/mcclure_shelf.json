@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: M. L. McClure (d. 1918): Maspero's History of Egypt, Chaldæa, Syria, Babylonia and Assyria (Grolier, 1903-06, ed. A. H. Sayce), shelved as Gutenberg's one complete text. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: M. L. McClure (d. 1918): Maspero's History of Egypt, Chaldæa, Syria, Babylonia and Assyria (Grolier, 1903-06, ed. A. H. Sayce), shelved as Gutenberg's one complete text. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted. From archive.org (2026-10-23): Duchesne's Christian Worship (SPCK, fifth edition, 1920 reprint); Naville's The Discovery of the Book of the Law held, its title page prints no year.",
  "_name_words": [
   "m. l. mcclure",
   "mcclure"
@@ -16,7 +16,12 @@
    "History of Egypt, Chaldæa, Syria, Babylonia, and Assyria"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mcl-ia-duchesne-christian-worship": [
+   "christianworship00duchuoft",
+   "Duchesne: Christian Worship"
+  ]
+ },
  "titles": {
   "mcclure-maspero-history-of-egypt-chaldaea-syria-babyloni": {
    "source": "mcl-28876",
@@ -25,9 +30,19 @@
    "translated": "1903-1906 (see the Gutenberg header)",
    "translator": "M. L. McClure",
    "scan_edition": "Project Gutenberg 28876 (clean text)"
+  },
+  "mcclure-duchesne-christian-worship": {
+   "source": "mcl-ia-duchesne-christian-worship",
+   "of": "Louis Duchesne",
+   "work": "Christian Worship: Its Origin and Evolution",
+   "translated": "1903 (this printing 1920)",
+   "translator": "M. L. McClure",
+   "scan_edition": "SPCK, London; Macmillan, New York, fifth edition 1919, reprinted 1920 (first published 1903)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "mcclure-naville-discovery-of-the-book-of-the-law": "Naville's The Discovery of the Book of the Law under King Josiah (SPCK, London; discoveryofbooko0000unse), translated by M. L. McClure. The title page prints no year; archive.org dates it 1911."
+ },
  "_excluded": {
   "maspero-volumes": "Gutenberg's volume files are left out; the complete text (28876) is used."
  },
@@ -35,12 +50,23 @@
  "_checks": {
   "mcl-28876": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "m. l. mcclure",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "M. L. McClure"
+  },
+  "mcl-ia-duchesne-christian-worship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. l. mcclure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -48,6 +74,19 @@
    "pg": 28876,
    "pg_copyrighted_marker": false,
    "pg_translator": "M. L. McClure"
+  },
+  "mcl-ia-duchesne-christian-worship": {
+   "ia": "christianworship00duchuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1903,
+    1904,
+    1910,
+    1912,
+    1919,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

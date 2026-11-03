@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: H. T. Lowe-Porter (1876-1963): Thomas Mann's Buddenbrooks (Knopf, 1924, 2 vols) and Three Essays (1929). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: H. T. Lowe-Porter (1876-1963): Thomas Mann's Buddenbrooks (Knopf, 1924, 2 vols) and Three Essays (1929). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. Round 125 (2026-10-23, vetoable) added The Magic Mountain (Secker, single-volume reprint 1928).",
  "_name_words": [
   "h. t. lowe-porter",
   "lowe-porter"
@@ -24,7 +24,12 @@
    "Three essays"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lp-mann-magic-mountain": [
+   "magicmountain0000thom_x1b4",
+   "The Magic Mountain (1927; 1928 single-volume reprint)"
+  ]
+ },
  "titles": {
   "lowe-porter-mann-buddenbrooks-vol-1": {
    "source": "lpo-72961",
@@ -49,6 +54,14 @@
    "translated": "1924-1929 (see the Gutenberg header)",
    "translator": "H. T. Lowe-Porter",
    "scan_edition": "Project Gutenberg 76837 (clean text)"
+  },
+  "lowe-porter-mann-the-magic-mountain": {
+   "source": "lp-mann-magic-mountain",
+   "of": "Thomas Mann",
+   "work": "The Magic Mountain",
+   "translated": 1927,
+   "translator": "H. T. Lowe-Porter",
+   "scan_edition": "Martin Secker, London (first published in England 1927; reprinted in one volume 1928); archive.org scan"
   }
  },
  "_pending": {},
@@ -57,7 +70,7 @@
  "_checks": {
   "lpo-72961": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. t. lowe-porter",
    "identity": "ok",
@@ -66,7 +79,7 @@
   },
   "lpo-72962": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. t. lowe-porter",
    "identity": "ok",
@@ -75,12 +88,23 @@
   },
   "lpo-76837": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. t. lowe-porter",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "H. T. Lowe-Porter"
+  },
+  "lp-mann-magic-mountain": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. t. lowe-porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -98,6 +122,19 @@
    "pg": 76837,
    "pg_copyrighted_marker": false,
    "pg_translator": "H. T. Lowe-Porter"
+  },
+  "lp-mann-magic-mountain": {
+   "ia": "magicmountain0000thom_x1b4",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1924,
+    1927,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    1997
+   ],
+   "post_1930_examined": "Examined in round 125: '1997' is the OCR's misreading of 1927 in 'First published in England 1927', followed by 'Reprinted (single volume edition) 1928'."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

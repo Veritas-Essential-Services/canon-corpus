@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: W. J. Greenstreet (1861-1930): Dastre's Life and Death (1911). His Poincaré (Science and Hypothesis, 1905) is pending: Gutenberg has it only as PDF/LaTeX. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: W. J. Greenstreet (1861-1930): Dastre's Life and Death (1911). His Poincaré (Science and Hypothesis, 1905) is pending: Gutenberg has it only as PDF/LaTeX. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted. From archive.org (2026-10-23): Rignano's Essays in Scientific Synthesis (Open Court, 1918); the author's preface thanks Greenstreet for the English translation.",
  "_name_words": [
   "w. j. greenstreet",
   "greenstreet",
@@ -18,7 +18,12 @@
    "Life and death"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "gre-ia-rignano-scientific-synthesis": [
+   "scientificsynth00rigniala",
+   "Rignano: Essays in Scientific Synthesis"
+  ]
+ },
  "titles": {
   "greenstreet-dastre-life-and-death": {
    "source": "gre-65699",
@@ -27,6 +32,14 @@
    "translated": "1905-1911 (see the Gutenberg header)",
    "translator": "W. J. Greenstreet",
    "scan_edition": "Project Gutenberg 65699 (clean text)"
+  },
+  "greenstreet-rignano-essays-in-scientific-synthesis": {
+   "source": "gre-ia-rignano-scientific-synthesis",
+   "of": "Eugenio Rignano",
+   "work": "Essays in Scientific Synthesis",
+   "translated": "1918",
+   "translator": "W. J. Greenstreet",
+   "scan_edition": "Open Court Publishing Company, Chicago, 1918 (credit in the preface)"
   }
  },
  "_pending": {
@@ -37,12 +50,23 @@
  "_checks": {
   "gre-65699": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. j. greenstreet",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. J. Greenstreet"
+  },
+  "gre-ia-rignano-scientific-synthesis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. greenstreet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -50,6 +74,16 @@
    "pg": 65699,
    "pg_copyrighted_marker": false,
    "pg_translator": "W. J. Greenstreet"
+  },
+  "gre-ia-rignano-scientific-synthesis": {
+   "ia": "scientificsynth00rigniala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912,
+    1917,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

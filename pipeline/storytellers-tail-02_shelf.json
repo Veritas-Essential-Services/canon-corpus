@@ -1,0 +1,1656 @@
+{
+ "_about": "Storytellers' tail, group 2: 24 authors with 4 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): James Fiske, James Elroy Flecker, Homer Eon Flint, Perceval Gibbon, Sutton E. Griggs, Cosmo Hamilton, Sidford F. Hamp, Henry Sydnor Harrison, Joseph Hatton, Francis L. Hawks, Herbert Hayens, Violet Hunt, Malcolm Jameson, Edgar Jepson, James Johonnot, Coulson Kernahan, George A. Lawrence, Will Lillibridge, Nelson Lloyd, Charles Battell Loomis, Crittenden Marriott, Charles Robert Maturin, Charles Clark Munn, John R. Musick. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 2 (24 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jfiske-belgians-to-the-front": [
+   "james fiske",
+   "fiske"
+  ],
+  "jfiske-facing-the-german-foe": [
+   "james fiske",
+   "fiske"
+  ],
+  "jfiske-shelled-by-an-unseen-foe": [
+   "james fiske",
+   "fiske"
+  ],
+  "jfiske-under-fire-for-servia": [
+   "james fiske",
+   "fiske"
+  ],
+  "jeflecker-forty-two-poems": [
+   "james elroy flecker",
+   "flecker"
+  ],
+  "jeflecker-hassan": [
+   "james elroy flecker",
+   "flecker"
+  ],
+  "jeflecker-last-generation": [
+   "james elroy flecker",
+   "flecker"
+  ],
+  "jeflecker-king-of-alsander": [
+   "james elroy flecker",
+   "flecker"
+  ],
+  "heflint-blind-spot": [
+   "homer eon flint",
+   "flint"
+  ],
+  "heflint-emancipatrix": [
+   "homer eon flint",
+   "flint"
+  ],
+  "heflint-lord-of-death-and-the-queen-of-life": [
+   "homer eon flint",
+   "flint"
+  ],
+  "heflint-devolutionist-and-the-emancipatrix": [
+   "homer eon flint",
+   "flint"
+  ],
+  "pgibbon-second-class-passenger": [
+   "perceval gibbon",
+   "gibbon"
+  ],
+  "pgibbon-vrouw-grobelaar-and-her-leading-cases": [
+   "perceval gibbon",
+   "gibbon"
+  ],
+  "pgibbon-those-who-smiled-and-eleven-other-stories": [
+   "perceval gibbon",
+   "gibbon"
+  ],
+  "pgibbon-flower-o-the-peach": [
+   "perceval gibbon",
+   "gibbon"
+  ],
+  "segriggs-imperium-in-imperio": [
+   "sutton e. griggs",
+   "sutton elbert griggs",
+   "griggs"
+  ],
+  "segriggs-hindered-hand": [
+   "sutton e. griggs",
+   "sutton elbert griggs",
+   "griggs"
+  ],
+  "segriggs-overshadowed": [
+   "sutton e. griggs",
+   "sutton elbert griggs",
+   "griggs"
+  ],
+  "segriggs-unfettered": [
+   "sutton e. griggs",
+   "sutton elbert griggs",
+   "griggs"
+  ],
+  "chamilton-who-cares-a-story-of-adolescence": [
+   "cosmo hamilton",
+   "hamilton"
+  ],
+  "chamilton-rustle-of-silk": [
+   "cosmo hamilton",
+   "hamilton"
+  ],
+  "chamilton-sins-of-the-children": [
+   "cosmo hamilton",
+   "hamilton"
+  ],
+  "chamilton-scandal": [
+   "cosmo hamilton",
+   "hamilton"
+  ],
+  "sfhamp-boys-of-crawford-s-basin-the-story-of-a-mountain-ranc": [
+   "sidford f. hamp",
+   "sidford frederick hamp"
+  ],
+  "sfhamp-trail-of-the-badger": [
+   "sidford f. hamp",
+   "sidford frederick hamp"
+  ],
+  "sfhamp-coco-bolo": [
+   "sidford f. hamp",
+   "sidford frederick hamp"
+  ],
+  "sfhamp-treasure-of-mushroom-rock": [
+   "sidford f. hamp",
+   "sidford frederick hamp"
+  ],
+  "hsharrison-captivating-mary-carstairs": [
+   "henry sydnor harrison",
+   "harrison"
+  ],
+  "hsharrison-v-v-s-eyes": [
+   "henry sydnor harrison",
+   "harrison"
+  ],
+  "hsharrison-queed": [
+   "henry sydnor harrison",
+   "harrison"
+  ],
+  "hsharrison-angela-s-business": [
+   "henry sydnor harrison",
+   "harrison"
+  ],
+  "jhatton-henry-irving-s-impressions-of-america-narrated-in-a": [
+   "joseph hatton",
+   "hatton"
+  ],
+  "jhatton-tallants-of-barton-vol-1-of-3": [
+   "joseph hatton",
+   "hatton"
+  ],
+  "jhatton-tallants-of-barton-vol-2-of-3": [
+   "joseph hatton",
+   "hatton"
+  ],
+  "jhatton-tallants-of-barton-vol-3-of-3": [
+   "joseph hatton",
+   "hatton"
+  ],
+  "flhawks-girl-s-cabinet-of-instructive-and-moral-stories": [
+   "francis l. hawks",
+   "francis lister hawks",
+   "hawks"
+  ],
+  "flhawks-adventures-of-daniel-boone": [
+   "francis l. hawks",
+   "francis lister hawks",
+   "hawks"
+  ],
+  "flhawks-natural-history-or-uncle-philip-s-conversations-with": [
+   "francis l. hawks",
+   "francis lister hawks",
+   "hawks"
+  ],
+  "flhawks-adventures-of-hernan-cortes-the-conqueror-of-mexico": [
+   "francis l. hawks",
+   "francis lister hawks",
+   "hawks"
+  ],
+  "hhayens-at-the-point-of-the-sword": [
+   "herbert hayens",
+   "hayens"
+  ],
+  "hhayens-my-sword-s-my-fortune": [
+   "herbert hayens",
+   "hayens"
+  ],
+  "hhayens-red-white-and-green": [
+   "herbert hayens",
+   "hayens"
+  ],
+  "hhayens-gayton-scholarship": [
+   "herbert hayens",
+   "hayens"
+  ],
+  "vhunt-celebrity-at-home": [
+   "violet hunt"
+  ],
+  "vhunt-human-interest": [
+   "violet hunt"
+  ],
+  "vhunt-cat": [
+   "violet hunt"
+  ],
+  "vhunt-tales-of-the-uneasy": [
+   "violet hunt"
+  ],
+  "mjameson-if-you-re-smart": [
+   "malcolm jameson",
+   "jameson"
+  ],
+  "mjameson-4-1-2b-eros": [
+   "malcolm jameson",
+   "jameson"
+  ],
+  "mjameson-stellar-showboat": [
+   "malcolm jameson",
+   "jameson"
+  ],
+  "mjameson-giftie-gien": [
+   "malcolm jameson",
+   "jameson"
+  ],
+  "ejepson-loudwater-mystery": [
+   "edgar jepson",
+   "jepson"
+  ],
+  "ejepson-admirable-tinker-child-of-the-world": [
+   "edgar jepson",
+   "jepson"
+  ],
+  "ejepson-terrible-twins": [
+   "edgar jepson",
+   "jepson"
+  ],
+  "ejepson-happy-pollyooly": [
+   "edgar jepson",
+   "jepson"
+  ],
+  "jjohonnot-ten-great-events-in-history": [
+   "james johonnot",
+   "johonnot"
+  ],
+  "jjohonnot-friends-in-feathers-and-fur-and-other-neighbors": [
+   "james johonnot",
+   "johonnot"
+  ],
+  "jjohonnot-stories-of-heroic-deeds-for-boys-and-girls-histori": [
+   "james johonnot",
+   "johonnot"
+  ],
+  "jjohonnot-book-of-cats-and-dogs-and-other-friends-for-little": [
+   "james johonnot",
+   "johonnot"
+  ],
+  "ckernahan-in-good-company": [
+   "coulson kernahan",
+   "kernahan"
+  ],
+  "ckernahan-captain-shannon": [
+   "coulson kernahan",
+   "kernahan"
+  ],
+  "ckernahan-dead-man-s-diary": [
+   "coulson kernahan",
+   "kernahan"
+  ],
+  "ckernahan-dumpling": [
+   "coulson kernahan",
+   "kernahan"
+  ],
+  "galawrence-guy-livingstone": [
+   "george a. lawrence",
+   "george alfred lawrence",
+   "lawrence"
+  ],
+  "galawrence-sword-and-gown": [
+   "george a. lawrence",
+   "george alfred lawrence",
+   "lawrence"
+  ],
+  "galawrence-border-and-bastille": [
+   "george a. lawrence",
+   "george alfred lawrence",
+   "lawrence"
+  ],
+  "galawrence-barren-honour": [
+   "george a. lawrence",
+   "george alfred lawrence",
+   "lawrence"
+  ],
+  "wlillibridge-where-the-trail-divides": [
+   "will lillibridge",
+   "lillibridge"
+  ],
+  "wlillibridge-ben-blair-the-story-of-a-plainsman": [
+   "will lillibridge",
+   "lillibridge"
+  ],
+  "wlillibridge-dominant-dollar": [
+   "will lillibridge",
+   "lillibridge"
+  ],
+  "wlillibridge-breath-of-prairie-and-other-stories": [
+   "will lillibridge",
+   "lillibridge"
+  ],
+  "nlloyd-soldier-of-the-valley": [
+   "nelson lloyd",
+   "lloyd"
+  ],
+  "nlloyd-david-malcolm": [
+   "nelson lloyd",
+   "lloyd"
+  ],
+  "nlloyd-chronic-loafer": [
+   "nelson lloyd",
+   "lloyd"
+  ],
+  "nlloyd-mrs-radigan": [
+   "nelson lloyd",
+   "lloyd"
+  ],
+  "cbloomis-just-irish": [
+   "charles battell loomis",
+   "loomis"
+  ],
+  "cbloomis-minerva-s-manoeuvres": [
+   "charles battell loomis",
+   "loomis"
+  ],
+  "cbloomis-araminta-and-the-automobile": [
+   "charles battell loomis",
+   "loomis"
+  ],
+  "cbloomis-four-masted-cat-boat-and-other-truthful-tales": [
+   "charles battell loomis",
+   "loomis"
+  ],
+  "cmarriott-ward-of-tecumseh": [
+   "crittenden marriott",
+   "marriott"
+  ],
+  "cmarriott-isle-of-dead-ships": [
+   "crittenden marriott",
+   "marriott"
+  ],
+  "cmarriott-via-berlin": [
+   "crittenden marriott",
+   "marriott"
+  ],
+  "cmarriott-out-of-russia": [
+   "crittenden marriott",
+   "marriott"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-1": [
+   "charles robert maturin",
+   "maturin"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-2": [
+   "charles robert maturin",
+   "maturin"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-3": [
+   "charles robert maturin",
+   "maturin"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-4": [
+   "charles robert maturin",
+   "maturin"
+  ],
+  "ccmunn-pocket-island": [
+   "charles clark munn"
+  ],
+  "ccmunn-uncle-terry": [
+   "charles clark munn"
+  ],
+  "ccmunn-rockhaven": [
+   "charles clark munn"
+  ],
+  "ccmunn-girl-from-tim-s-place": [
+   "charles clark munn"
+  ],
+  "jrmusick-sustained-honor": [
+   "john r. musick",
+   "john roy musick",
+   "musick"
+  ],
+  "jrmusick-century-too-soon": [
+   "john r. musick",
+   "john roy musick",
+   "musick"
+  ],
+  "jrmusick-witch-of-salem": [
+   "john r. musick",
+   "john roy musick",
+   "musick"
+  ],
+  "jrmusick-brother-against-brother": [
+   "john r. musick",
+   "john roy musick",
+   "musick"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jfiske-belgians-to-the-front": [
+   18838,
+   "The Belgians to the Front"
+  ],
+  "jfiske-facing-the-german-foe": [
+   19957,
+   "Facing the German Foe"
+  ],
+  "jfiske-shelled-by-an-unseen-foe": [
+   21787,
+   "Shelled by an Unseen Foe"
+  ],
+  "jfiske-under-fire-for-servia": [
+   33480,
+   "Under Fire For Servia"
+  ],
+  "jeflecker-forty-two-poems": [
+   3039,
+   "Forty-Two Poems"
+  ],
+  "jeflecker-hassan": [
+   3834,
+   "Hassan : the story of Hassan of Bagdad, and how he came to make the golden journey to Samarkand : a play in five acts"
+  ],
+  "jeflecker-last-generation": [
+   32769,
+   "The Last Generation: A Story of the Future"
+  ],
+  "jeflecker-king-of-alsander": [
+   41460,
+   "The King of Alsander"
+  ],
+  "heflint-blind-spot": [
+   4920,
+   "The Blind Spot"
+  ],
+  "heflint-emancipatrix": [
+   5699,
+   "The Emancipatrix"
+  ],
+  "heflint-lord-of-death-and-the-queen-of-life": [
+   5703,
+   "The Lord of Death and the Queen of Life"
+  ],
+  "heflint-devolutionist-and-the-emancipatrix": [
+   5965,
+   "The Devolutionist and the Emancipatrix"
+  ],
+  "pgibbon-second-class-passenger": [
+   17932,
+   "The Second Class Passenger: Fifteen Stories"
+  ],
+  "pgibbon-vrouw-grobelaar-and-her-leading-cases": [
+   20355,
+   "Vrouw Grobelaar and Her Leading Cases: Seventeen Short Stories"
+  ],
+  "pgibbon-those-who-smiled-and-eleven-other-stories": [
+   23993,
+   "Those Who Smiled, and Eleven Other Stories"
+  ],
+  "pgibbon-flower-o-the-peach": [
+   44195,
+   "Flower o' the Peach"
+  ],
+  "segriggs-imperium-in-imperio": [
+   15454,
+   "Imperium in Imperio: A Study of the Negro Race Problem. A Novel"
+  ],
+  "segriggs-hindered-hand": [
+   24577,
+   "The hindered hand"
+  ],
+  "segriggs-overshadowed": [
+   36033,
+   "Overshadowed: A Novel"
+  ],
+  "segriggs-unfettered": [
+   38830,
+   "Unfettered: A Novel"
+  ],
+  "chamilton-who-cares-a-story-of-adolescence": [
+   3641,
+   "Who Cares? A Story of Adolescence"
+  ],
+  "chamilton-rustle-of-silk": [
+   35079,
+   "The Rustle of Silk"
+  ],
+  "chamilton-sins-of-the-children": [
+   37664,
+   "The Sins of the Children: A Novel"
+  ],
+  "chamilton-scandal": [
+   50317,
+   "Scandal"
+  ],
+  "sfhamp-boys-of-crawford-s-basin-the-story-of-a-mountain-ranc": [
+   26434,
+   "The Boys of Crawford's Basin The Story of a Mountain Ranch in the Early Days of Colorado"
+  ],
+  "sfhamp-trail-of-the-badger": [
+   43989,
+   "The Trail of The Badger: A Story of the Colorado Border Thirty Years Ago"
+  ],
+  "sfhamp-coco-bolo": [
+   63075,
+   "Coco Bolo: King of the Floating Islands"
+  ],
+  "sfhamp-treasure-of-mushroom-rock": [
+   74105,
+   "The treasure of Mushroom Rock"
+  ],
+  "hsharrison-captivating-mary-carstairs": [
+   9993,
+   "Captivating Mary Carstairs"
+  ],
+  "hsharrison-v-v-s-eyes": [
+   13985,
+   "V. V.'s Eyes"
+  ],
+  "hsharrison-queed": [
+   14303,
+   "Queed: A Novel"
+  ],
+  "hsharrison-angela-s-business": [
+   34297,
+   "Angela's Business"
+  ],
+  "jhatton-henry-irving-s-impressions-of-america-narrated-in-a": [
+   52357,
+   "Henry Irving's Impressions of America Narrated in a Series of Sketches, Chronicles, and Conversations"
+  ],
+  "jhatton-tallants-of-barton-vol-1-of-3": [
+   70686,
+   "The Tallants of Barton, vol. 1 (of 3)"
+  ],
+  "jhatton-tallants-of-barton-vol-2-of-3": [
+   70822,
+   "The Tallants of Barton, vol. 2 (of 3) : A tale of fortune and finance"
+  ],
+  "jhatton-tallants-of-barton-vol-3-of-3": [
+   70827,
+   "The Tallants of Barton, vol. 3 (of 3)"
+  ],
+  "flhawks-girl-s-cabinet-of-instructive-and-moral-stories": [
+   10915,
+   "The Girl's Cabinet of Instructive and Moral Stories"
+  ],
+  "flhawks-adventures-of-daniel-boone": [
+   27431,
+   "The Adventures of Daniel Boone: the Kentucky rifleman"
+  ],
+  "flhawks-natural-history-or-uncle-philip-s-conversations-with": [
+   44377,
+   "Natural History Or, Uncle Philip's Conversations with the Children about Tools and Trades among Inferior Animals"
+  ],
+  "flhawks-adventures-of-hernan-cortes-the-conqueror-of-mexico": [
+   49760,
+   "The adventures of Hernan Cortes, the conqueror of Mexico"
+  ],
+  "hhayens-at-the-point-of-the-sword": [
+   22595,
+   "At the Point of the Sword"
+  ],
+  "hhayens-my-sword-s-my-fortune": [
+   27325,
+   "My Sword's My Fortune: A Story of Old France"
+  ],
+  "hhayens-red-white-and-green": [
+   40137,
+   "The Red, White, and Green"
+  ],
+  "hhayens-gayton-scholarship": [
+   46020,
+   "The Gayton Scholarship: A School Story"
+  ],
+  "vhunt-celebrity-at-home": [
+   41556,
+   "The Celebrity at Home"
+  ],
+  "vhunt-human-interest": [
+   58526,
+   "The Human Interest: A Study in Incompatibilities"
+  ],
+  "vhunt-cat": [
+   67785,
+   "The Cat"
+  ],
+  "vhunt-tales-of-the-uneasy": [
+   78605,
+   "Tales of the uneasy"
+  ],
+  "mjameson-if-you-re-smart": [
+   61498,
+   "If You're Smart—"
+  ],
+  "mjameson-4-1-2b-eros": [
+   61863,
+   "4-1/2B, Eros"
+  ],
+  "mjameson-stellar-showboat": [
+   62255,
+   "Stellar Showboat"
+  ],
+  "mjameson-giftie-gien": [
+   69667,
+   "The giftie gien"
+  ],
+  "ejepson-loudwater-mystery": [
+   9808,
+   "The Loudwater Mystery"
+  ],
+  "ejepson-admirable-tinker-child-of-the-world": [
+   19010,
+   "The Admirable Tinker Child of the World"
+  ],
+  "ejepson-terrible-twins": [
+   19043,
+   "The Terrible Twins"
+  ],
+  "ejepson-happy-pollyooly": [
+   19310,
+   "Happy Pollyooly: The Rich Little Poor Girl"
+  ],
+  "jjohonnot-ten-great-events-in-history": [
+   8507,
+   "Ten Great Events in History"
+  ],
+  "jjohonnot-friends-in-feathers-and-fur-and-other-neighbors": [
+   28077,
+   "Friends in Feathers and Fur, and Other Neighbors: For Young Folks"
+  ],
+  "jjohonnot-stories-of-heroic-deeds-for-boys-and-girls-histori": [
+   47764,
+   "Stories of Heroic Deeds for Boys and Girls Historical Series - Book II"
+  ],
+  "jjohonnot-book-of-cats-and-dogs-and-other-friends-for-little": [
+   69242,
+   "Book of cats and dogs, and other friends, for little folks"
+  ],
+  "ckernahan-in-good-company": [
+   51572,
+   "In good company"
+  ],
+  "ckernahan-captain-shannon": [
+   72825,
+   "Captain Shannon"
+  ],
+  "ckernahan-dead-man-s-diary": [
+   72971,
+   "A dead man's diary"
+  ],
+  "ckernahan-dumpling": [
+   73740,
+   "The Dumpling"
+  ],
+  "galawrence-guy-livingstone": [
+   17084,
+   "Guy Livingstone; or, 'Thorough'"
+  ],
+  "galawrence-sword-and-gown": [
+   19121,
+   "Sword and Gown: A Novel"
+  ],
+  "galawrence-border-and-bastille": [
+   19705,
+   "Border and Bastille"
+  ],
+  "galawrence-barren-honour": [
+   34616,
+   "Barren Honour: A Novel"
+  ],
+  "wlillibridge-where-the-trail-divides": [
+   11683,
+   "Where the Trail Divides"
+  ],
+  "wlillibridge-ben-blair-the-story-of-a-plainsman": [
+   17844,
+   "Ben Blair The Story of a Plainsman"
+  ],
+  "wlillibridge-dominant-dollar": [
+   27857,
+   "The Dominant Dollar"
+  ],
+  "wlillibridge-breath-of-prairie-and-other-stories": [
+   29245,
+   "A Breath of Prairie and other stories"
+  ],
+  "nlloyd-soldier-of-the-valley": [
+   17156,
+   "The Soldier of the Valley"
+  ],
+  "nlloyd-david-malcolm": [
+   23741,
+   "David Malcolm"
+  ],
+  "nlloyd-chronic-loafer": [
+   54572,
+   "The Chronic Loafer"
+  ],
+  "nlloyd-mrs-radigan": [
+   55678,
+   "Mrs. Radigan: Her Biography, with that of Miss Pearl Veal, and the Memoirs of J. Madison Mudison"
+  ],
+  "cbloomis-just-irish": [
+   40465,
+   "Just Irish"
+  ],
+  "cbloomis-minerva-s-manoeuvres": [
+   56872,
+   "Minerva's Manoeuvres: The Cheerful Facts of a \"Return to Nature\""
+  ],
+  "cbloomis-araminta-and-the-automobile": [
+   63009,
+   "Araminta and the Automobile"
+  ],
+  "cbloomis-four-masted-cat-boat-and-other-truthful-tales": [
+   63863,
+   "The Four-Masted Cat-Boat, and Other Truthful Tales"
+  ],
+  "cmarriott-ward-of-tecumseh": [
+   69052,
+   "The ward of Tecumseh"
+  ],
+  "cmarriott-isle-of-dead-ships": [
+   69065,
+   "The isle of dead ships"
+  ],
+  "cmarriott-via-berlin": [
+   69244,
+   "Via Berlin"
+  ],
+  "cmarriott-out-of-russia": [
+   71328,
+   "Out of Russia"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-1": [
+   53685,
+   "Melmoth the Wanderer, Vol. 1"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-2": [
+   53686,
+   "Melmoth the Wanderer, Vol. 2"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-3": [
+   53687,
+   "Melmoth the Wanderer, Vol. 3"
+  ],
+  "crmaturin-melmoth-the-wanderer-vol-4": [
+   53688,
+   "Melmoth the Wanderer, Vol. 4"
+  ],
+  "ccmunn-pocket-island": [
+   20057,
+   "Pocket Island: A Story of Country Life in New England"
+  ],
+  "ccmunn-uncle-terry": [
+   28446,
+   "Uncle Terry: A Story of the Maine Coast"
+  ],
+  "ccmunn-rockhaven": [
+   33787,
+   "Rockhaven"
+  ],
+  "ccmunn-girl-from-tim-s-place": [
+   34202,
+   "The Girl From Tim's Place"
+  ],
+  "jrmusick-sustained-honor": [
+   10370,
+   "Sustained honor: The Age of Liberty Established"
+  ],
+  "jrmusick-century-too-soon": [
+   10387,
+   "A Century Too Soon: The Age of Tyranny"
+  ],
+  "jrmusick-witch-of-salem": [
+   26282,
+   "The Witch of Salem; or, Credulity Run Mad"
+  ],
+  "jrmusick-brother-against-brother": [
+   40541,
+   "Brother Against Brother; or, The Tompkins Mystery. A Story of the Great American Rebellion."
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jfiske-belgians-to-the-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfiske-facing-the-german-foe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfiske-shelled-by-an-unseen-foe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfiske-under-fire-for-servia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jeflecker-forty-two-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james elroy flecker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jeflecker-hassan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james elroy flecker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jeflecker-last-generation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james elroy flecker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jeflecker-king-of-alsander": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james elroy flecker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "heflint-blind-spot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer eon flint",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "heflint-emancipatrix": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer eon flint",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "heflint-lord-of-death-and-the-queen-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer eon flint",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "heflint-devolutionist-and-the-emancipatrix": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer eon flint",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgibbon-second-class-passenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perceval gibbon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgibbon-vrouw-grobelaar-and-her-leading-cases": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perceval gibbon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgibbon-those-who-smiled-and-eleven-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perceval gibbon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgibbon-flower-o-the-peach": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perceval gibbon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "segriggs-imperium-in-imperio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sutton e. griggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "segriggs-hindered-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sutton e. griggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "segriggs-overshadowed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sutton e. griggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "segriggs-unfettered": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sutton e. griggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chamilton-who-cares-a-story-of-adolescence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cosmo hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chamilton-rustle-of-silk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cosmo hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chamilton-sins-of-the-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cosmo hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chamilton-scandal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cosmo hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfhamp-boys-of-crawford-s-basin-the-story-of-a-mountain-ranc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sidford f. hamp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfhamp-trail-of-the-badger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sidford f. hamp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfhamp-coco-bolo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sidford f. hamp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfhamp-treasure-of-mushroom-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sidford f. hamp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsharrison-captivating-mary-carstairs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sydnor harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsharrison-v-v-s-eyes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sydnor harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsharrison-queed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sydnor harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsharrison-angela-s-business": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sydnor harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhatton-henry-irving-s-impressions-of-america-narrated-in-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph hatton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhatton-tallants-of-barton-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph hatton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhatton-tallants-of-barton-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph hatton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhatton-tallants-of-barton-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph hatton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flhawks-girl-s-cabinet-of-instructive-and-moral-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. hawks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flhawks-adventures-of-daniel-boone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. hawks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flhawks-natural-history-or-uncle-philip-s-conversations-with": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. hawks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flhawks-adventures-of-hernan-cortes-the-conqueror-of-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. hawks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhayens-at-the-point-of-the-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert hayens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhayens-my-sword-s-my-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert hayens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhayens-red-white-and-green": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert hayens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhayens-gayton-scholarship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert hayens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vhunt-celebrity-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "violet hunt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vhunt-human-interest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "violet hunt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vhunt-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "violet hunt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vhunt-tales-of-the-uneasy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "violet hunt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjameson-if-you-re-smart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "malcolm jameson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjameson-4-1-2b-eros": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "malcolm jameson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjameson-stellar-showboat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "malcolm jameson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjameson-giftie-gien": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "malcolm jameson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ejepson-loudwater-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edgar jepson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ejepson-admirable-tinker-child-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edgar jepson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ejepson-terrible-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edgar jepson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ejepson-happy-pollyooly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edgar jepson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjohonnot-ten-great-events-in-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james johonnot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjohonnot-friends-in-feathers-and-fur-and-other-neighbors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james johonnot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjohonnot-stories-of-heroic-deeds-for-boys-and-girls-histori": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james johonnot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjohonnot-book-of-cats-and-dogs-and-other-friends-for-little": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james johonnot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ckernahan-in-good-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "coulson kernahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ckernahan-captain-shannon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "coulson kernahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ckernahan-dead-man-s-diary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "coulson kernahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ckernahan-dumpling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "coulson kernahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galawrence-guy-livingstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galawrence-sword-and-gown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galawrence-border-and-bastille": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galawrence-barren-honour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlillibridge-where-the-trail-divides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will lillibridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlillibridge-ben-blair-the-story-of-a-plainsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will lillibridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlillibridge-dominant-dollar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will lillibridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlillibridge-breath-of-prairie-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will lillibridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nlloyd-soldier-of-the-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nelson lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nlloyd-david-malcolm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nelson lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nlloyd-chronic-loafer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nelson lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nlloyd-mrs-radigan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nelson lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbloomis-just-irish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles battell loomis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbloomis-minerva-s-manoeuvres": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles battell loomis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbloomis-araminta-and-the-automobile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles battell loomis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbloomis-four-masted-cat-boat-and-other-truthful-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles battell loomis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmarriott-ward-of-tecumseh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crittenden marriott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmarriott-isle-of-dead-ships": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crittenden marriott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmarriott-via-berlin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crittenden marriott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmarriott-out-of-russia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crittenden marriott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crmaturin-melmoth-the-wanderer-vol-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles robert maturin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crmaturin-melmoth-the-wanderer-vol-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles robert maturin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crmaturin-melmoth-the-wanderer-vol-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles robert maturin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crmaturin-melmoth-the-wanderer-vol-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles robert maturin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccmunn-pocket-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles clark munn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccmunn-uncle-terry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles clark munn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccmunn-rockhaven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles clark munn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccmunn-girl-from-tim-s-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles clark munn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrmusick-sustained-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. musick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrmusick-century-too-soon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. musick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrmusick-witch-of-salem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. musick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrmusick-brother-against-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. musick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

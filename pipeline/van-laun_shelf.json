@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Henri Van Laun (1820-1896): Taine's History of English Literature (1871, 3 vols) and La Bruyère's Characters (1885). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Henri Van Laun (1820-1896): Taine's History of English Literature (1871, 3 vols) and La Bruyère's Characters (1885). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted. From archive.org (2026-10-23): his Dramatic Works of Molière (Paterson, Edinburgh, 1875-1876), vols. II, IV, V and VI; no clean scan of the Paterson vols. I and III was found (the 1878 Gebbie & Barrie three-volume reissue is a different setting).",
  "_name_words": [
   "henri van laun",
-  "van laun"
+  "van laun",
+  "henri van eaun"
  ],
  "_surname": [
   "henri van laun",
-  "van laun"
+  "van laun",
+  "henri van eaun"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -28,7 +30,24 @@
    "History of English Literature Volume 3 (of 3)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "vla-ia-moliere-2": [
+   "dramaticworksren00moliuoft",
+   "Molière: Dramatic Works 2"
+  ],
+  "vla-ia-moliere-4": [
+   "dramaticworksren04moliuoft",
+   "Molière: Dramatic Works 4"
+  ],
+  "vla-ia-moliere-5": [
+   "dramaticworksren05moliuoft",
+   "Molière: Dramatic Works 5"
+  ],
+  "vla-ia-moliere-6": [
+   "dramaticworksren06moliuoft",
+   "Molière: Dramatic Works 6"
+  ]
+ },
  "titles": {
   "van-laun-bruyere-the-characters-of-jean-de-la-bruyere": {
    "source": "vla-46633",
@@ -61,15 +80,47 @@
    "translated": "1871-1885 (see the Gutenberg header)",
    "translator": "Henri Van Laun",
    "scan_edition": "Project Gutenberg 61510 (clean text)"
+  },
+  "van-laun-moliere-dramatic-works-2": {
+   "source": "vla-ia-moliere-2",
+   "of": "Molière",
+   "work": "The Dramatic Works of Molière, vol. II of 6",
+   "translated": "1875",
+   "translator": "Henri Van Laun",
+   "scan_edition": "William Paterson, Edinburgh, 1875"
+  },
+  "van-laun-moliere-dramatic-works-4": {
+   "source": "vla-ia-moliere-4",
+   "of": "Molière",
+   "work": "The Dramatic Works of Molière, vol. IV of 6",
+   "translated": "1876",
+   "translator": "Henri Van Laun",
+   "scan_edition": "William Paterson, Edinburgh, 1876"
+  },
+  "van-laun-moliere-dramatic-works-5": {
+   "source": "vla-ia-moliere-5",
+   "of": "Molière",
+   "work": "The Dramatic Works of Molière, vol. V of 6",
+   "translated": "1876",
+   "translator": "Henri Van Laun",
+   "scan_edition": "William Paterson, Edinburgh, 1876"
+  },
+  "van-laun-moliere-dramatic-works-6": {
+   "source": "vla-ia-moliere-6",
+   "of": "Molière",
+   "work": "The Dramatic Works of Molière, vol. VI of 6",
+   "translated": "1876",
+   "translator": "Henri Van Laun",
+   "scan_edition": "William Paterson, Edinburgh, 1876"
   }
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'henri van eaun' is the OCR of the Paterson Molière vol. II title page (2026-10-23).",
  "_checks": {
   "vla-46633": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henri van laun",
    "identity": "ok",
@@ -78,7 +129,7 @@
   },
   "vla-61308": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henri van laun",
    "identity": "ok",
@@ -87,7 +138,7 @@
   },
   "vla-61382": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henri van laun",
    "identity": "ok",
@@ -96,12 +147,56 @@
   },
   "vla-61510": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henri van laun",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henri Van Laun"
+  },
+  "vla-ia-moliere-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henri van eaun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vla-ia-moliere-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henri van laun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vla-ia-moliere-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henri van laun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vla-ia-moliere-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henri van laun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -124,6 +219,60 @@
    "pg": 61510,
    "pg_copyrighted_marker": false,
    "pg_translator": "Henri Van Laun"
+  },
+  "vla-ia-moliere-2": {
+   "ia": "dramaticworksren00moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1661,
+    1662,
+    1668,
+    1673,
+    1682,
+    1688,
+    1732
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "vla-ia-moliere-4": {
+   "ia": "dramaticworksren04moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1500,
+    1660,
+    1661,
+    1665,
+    1666,
+    1667,
+    1669,
+    1670,
+    1699
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ],
+   "post_1930_examined": "2000 is a sum of livres in the memoir"
+  },
+  "vla-ia-moliere-5": {
+   "ia": "dramaticworksren05moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1579,
+    1668,
+    1671,
+    1732
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "vla-ia-moliere-6": {
+   "ia": "dramaticworksren06moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1654,
+    1671,
+    1677
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

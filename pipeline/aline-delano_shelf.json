@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Aline Delano (1845-1928): Tolstoy's The Kingdom of God is Within You and What is Art? (1899), Hugo's Ninety-Three (1888) and Korolenko's The Blind Musician (1890). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Aline Delano (1845-1928): Tolstoy's The Kingdom of God is Within You and What is Art? (1899), Hugo's Ninety-Three (1888) and Korolenko's The Blind Musician (1890); from archive.org, Korolenko's The Vagrant (1887) and Rubinstein's Autobiography (1890). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
  "_name_words": [
   "aline delano"
  ],
@@ -22,7 +22,16 @@
    "The Blind Musician"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ade-ia-rubinstein": [
+   "autobiographyan00delagoog",
+   "Autobiography of Anton Rubinstein"
+  ],
+  "ade-ia-korolenko-vagrant": [
+   "vagrantandother00delagoog",
+   "Korolenko: The Vagrant and Other Tales"
+  ]
+ },
  "titles": {
   "aline-delano-hugo-ninety-three": {
    "source": "ade-49372",
@@ -47,15 +56,33 @@
    "translated": "1888-1899 (see the Gutenberg header)",
    "translator": "Aline Delano",
    "scan_edition": "Project Gutenberg 43409 (clean text)"
+  },
+  "aline-delano-autobiography-of-anton-rubinstein": {
+   "source": "ade-ia-rubinstein",
+   "of": "Anton Rubinstein",
+   "work": "Autobiography of Anton Rubinstein, 1829-1889",
+   "translated": "1890",
+   "translator": "Aline Delano",
+   "scan_edition": "Little, Brown, and Company, Boston, 1890 (Google scan)"
+  },
+  "aline-delano-korolenko-the-vagrant-and-other-tales": {
+   "source": "ade-ia-korolenko-vagrant",
+   "of": "Vladimir Korolenko",
+   "work": "The Vagrant and Other Tales",
+   "translated": "1887",
+   "translator": "Aline Delano",
+   "scan_edition": "Thomas Y. Crowell & Co., New York, copyright 1887 (Google scan)"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: the 1911 Resurrection scan (resurrection00delagoog) carries a signed note by her but its title page does not name her as translator. The Blind Musician scan of 1891 repeats the Gutenberg text."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "ade-43409": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aline delano",
    "identity": "ok",
@@ -64,7 +91,7 @@
   },
   "ade-49372": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aline delano",
    "identity": "ok",
@@ -73,12 +100,35 @@
   },
   "ade-59497": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aline delano",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Aline Delano"
+  },
+  "ade-ia-rubinstein": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aline delano",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ade-ia-korolenko-vagrant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aline delano",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -96,6 +146,36 @@
    "pg": 59497,
    "pg_copyrighted_marker": false,
    "pg_translator": "Aline Delano"
+  },
+  "ade-ia-rubinstein": {
+   "ia": "autobiographyan00delagoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1834,
+    1835,
+    1840,
+    1863,
+    1887,
+    1889,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ade-ia-korolenko-vagrant": {
+   "ia": "vagrantandother00delagoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1853,
+    1870,
+    1875,
+    1879,
+    1880,
+    1881,
+    1885,
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

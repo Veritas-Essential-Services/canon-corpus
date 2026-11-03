@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Martin Luther (1483-1546) in English translations printed before 1930, each translator read on the title page: First Principles of the Reformation (ed. Wace and Buchheim, 1883), Table-Talk (tr. William Hazlitt), The Epistles of St. Peter and St. Jude (tr. E. H. Gillett, 1859), clean from CCEL; Works of Martin Luther vols. 1-2 (Philadelphia: Holman, 1915-16), Lenker's Epistle Sermons vols. 2-3 (1909) and Commentary on Genesis vols. 1-2 (1904, 1910), clean from Gutenberg; and from the Internet Archive the Galatians in its 16th-century English version (London, 1839), The Bondage of the Will (tr. Henry Cole, 1823) and Lenker's Church Postil gospel sermons (5 vols, 1904-07). Works vols. 3-6 (1930-32) and every later translation are left out. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain Martin Luther (1483-1546) in English translations printed before 1930, each translator read on the title page: First Principles of the Reformation (ed. Wace and Buchheim, 1883), Table-Talk (tr. William Hazlitt), The Epistles of St. Peter and St. Jude (tr. E. H. Gillett, 1859), clean from CCEL; Works of Martin Luther vols. 1-2 (Philadelphia: Holman, 1915-16), Lenker's Epistle Sermons vols. 2-3 (1909) and Commentary on Genesis vols. 1-2 (1904, 1910), clean from Gutenberg; and from the Internet Archive the Galatians in its 16th-century English version (London, 1839), The Bondage of the Will (tr. Henry Cole, 1823) and Lenker's Church Postil gospel sermons (5 vols, 1904-07). Works vols. 3-6 (1930-32) and every later translation are left out. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted. Extended 2026-10-24 by lane A at Adam's request (his Libronix list: all of Luther in public-domain English): the early English translations from 1548 to 1685 (the Kingdom of Christ, the Fifteen Psalms and Galatians commentaries, Special and Chosen Sermons, the Peter and Jude, the Liberty of a Christian, the Colloquia Mensalia), Henry Cole's Select Works, Psalms and Creation commentaries and Manual of the Psalms, the Sermons of 1830, the House-Postil and Church-Postil, the Sermons on the Passion, Luther's Letters to Women, Luther on Education, Luther's Primary Works, the Commentary on the Sermon on the Mount, Lenker's catechetical writings and further volumes, Currie's Letters, Preserved Smith's Correspondence, Conversations with Luther, the spiritual songs, and Luther's Reply to King Henry VIII. Anthologies of extracts made by others, the 'Harvard Classics' theses and machine translations are left out.",
  "_ccel_author": "l/luther",
  "_name_words": [
   "luther",
@@ -85,6 +85,174 @@
   "luther-church-postil-14": [
    "precioussacredwr14luth",
    "Precious and Sacred Writings vol. 14: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1905)"
+  ],
+  "luther-kingdom-of-christ-1548": [
+   "bim_early-english-books-1475-1640_a-frutefull-and-godly-ex_luther-martin_1548",
+   "A frutefull and godly exposition of the kyngdom of Christ ...  1548 (catalogued 1548)"
+  ],
+  "luther-notable-sermon-1548": [
+   "bim_early-english-books-1475-1640_a-ryght-notable-setmon-e_luther-martin_1548",
+   "A Ryght notable setmon etc.  1548 (catalogued 1548)"
+  ],
+  "luther-coming-sermon-1570": [
+   "bim_early-english-books-1475-1640_a-very-comfortable-and-_luther-martin_1570",
+   "A very comfortable, and necessary sermon ... concerning the comming of our Saviour Christ (catalogued 1570)"
+  ],
+  "luther-galatians-1575": [
+   "bim_early-english-books-1475-1640_a-commentarie-of-m-doct_luther-martin_1575",
+   "A commentarie of M. doctor ...  1575 (catalogued 1575)"
+  ],
+  "luther-fifteen-psalms-1577": [
+   "bim_early-english-books-1475-1640_a-commentarie-upon-the-f_luther-martin_1577",
+   "A commentarie upon the fiftene psalmes,...  1577 (catalogued 1577)"
+  ],
+  "luther-isaiah-9-1578": [
+   "bim_early-english-books-1475-1640_a-prophesie-out-of-the-n_luther-martin_1578",
+   "A prophesie out of the nienth chap. of Esaie.  1578 (catalogued 1578)"
+  ],
+  "luther-special-sermons-1578": [
+   "specialchosens00luth",
+   "Special and chosen sermons of D. Martin Lvther, collected ovt of his writings and preachings for the necessary instruction and edification of such as hunger and seeke after the perfect knowledge and inestimable glorie which is in Christ Iesu, to the comfort and saluation of their soules (London, Imprinted by T. Vautroullier, 1578)"
+  ],
+  "luther-liberty-1579": [
+   "bim_early-english-books-1475-1640_a-treatise-touching-the_luther-martin_1579_0",
+   "A treatise, touching the libertie of a Christian.  1579 (catalogued 1579)"
+  ],
+  "luther-comfortable-treatise-1580": [
+   "bim_early-english-books-1475-1640_a-right-comfortable-trea_luther-martin_1580",
+   "A right comfortable treatise conteining sundrye ...  1580 (catalogued 1580)"
+  ],
+  "luther-peter-jude-1581": [
+   "bim_early-english-books-1475-1640_a-commentarie-vpon-the-t_luther-martin_1581",
+   "A commentarie vpon the two epistles generall of Sainct Peter and that of Sainct Jude. Tr. T. Newton.  1581 (catalogued 1581)"
+  ],
+  "luther-romans-preface-1594": [
+   "bim_early-english-books-1475-1640_a-methodicall-preface-pr_luther-martin_1594",
+   "A methodicall preface pre- fixed before the epistle to the Romanes, ...  1594 (catalogued 1594)"
+  ],
+  "luther-thirty-four-sermons-1649": [
+   "bim_early-english-books-1641-1700_thirtie-fovre-special-an_luther-martin_1649",
+   "Thirtie fovre special and chosen sermons of ...  1649 (catalogued 1649)"
+  ],
+  "luther-colloquia-mensalia-1652": [
+   "bim_early-english-books-1641-1700_dris-martini-lutheri-col_luther-martin_1652",
+   "Dris Martini Lutheri colloquia mensalia: ...  1652 (catalogued 1652)"
+  ],
+  "luther-signs-coming-1661": [
+   "bim_early-english-books-1641-1700_the-signs-of-christs-com_luther-martin_1661",
+   "The signs of Christs coming, ...  1661 (catalogued 1661)"
+  ],
+  "luther-word-in-season-1685": [
+   "bim_early-english-books-1641-1700_a-word-in-season-_luther-martin_1685",
+   "A word in season: ...  1685 (catalogued 1685)"
+  ],
+  "luther-select-works-cole-1824": [
+   "selectworksmart01colegoog",
+   "Select works of Martin Luther: an offering to the church of God in the last days, vol. 2 (London, Bensley, 1824)"
+  ],
+  "luther-select-works-cole-1826": [
+   "selectworkstrby01luthgoog",
+   "Select works, tr. by H. Cole, vol. 1 (catalogued 1826)"
+  ],
+  "luther-psalms-cole-1826": [
+   "completecommenta01luth",
+   "Complete commentary on the first twenty-two Psalms, vol. 1 (London : Printed for the author, by T. Bensley, 1826)"
+  ],
+  "luther-sermons-1830": [
+   "sermonsonthemost00luthuoft",
+   "Sermons on the Most Interesting Doctrines of the Gospel of Martin Luther (London : J. Duncan, 1830)"
+  ],
+  "luther-smaller-catechism-1832": [
+   "smallercatechism00luth",
+   "Smaller catechism (Gettysburg, General Synod of the Lutheran Church; For Sale by Lucas and Deaver, Baltimore, 1832)"
+  ],
+  "luther-manual-psalms-1837": [
+   "amanualofthebook00luthuoft",
+   "A manual of the Book of Psalms, or, the subject-contents of all the Psalms (London : R.B. Seeley & W. Burnside, 1837)"
+  ],
+  "luther-councils-churches-1847": [
+   "bub_gb_5-oDAAAAQAAJ",
+   "Martin Luther's Authority of councils and churches, tr. by C.B. Smyth (catalogued 1847)"
+  ],
+  "luther-spiritual-songs-1853": [
+   "spiritualsongsm00luthgoog",
+   "The Spiritual songs of Martin Luther, from the Germ. by J. Hunt (catalogued 1853)"
+  ],
+  "luther-creation-1858": [
+   "creationcommenta00luth",
+   "The creation : a commentary on the first five chapters of the book of Genesis (Edinburgh : T & T Clark, 1858)"
+  ],
+  "luther-letters-to-women": [
+   "cu31924029254798",
+   "Luther's letters to women (London : Chapman & Hall, 1865)"
+  ],
+  "luther-house-postil": [
+   "drmartinluthersh0002luth_i6o9",
+   "Dr. Martin Luther's House-postil, or, Sermons on the gospels for the Sundays and principal festivals of the church-year, vol. 2 (Columbus, Ohio : Schulze & Gassmann, 1869)"
+  ],
+  "luther-church-postil-1869": [
+   "drmartinluthersc00luth",
+   "Dr. Martin Luther's Church-postil (New Market, Va., New Market Evangelical Lutheran publishing company, 1869)"
+  ],
+  "luther-passion-sermons": [
+   "sermonsonpassion01luth",
+   "Sermons on the Passion of Christ / by Martin Luther, vol. c.1 (Rock Island, Ill. : Lutheran Augustana Book Concern, 1871)"
+  ],
+  "luther-on-education": [
+   "lutheroneducatio00painuoft",
+   "Luther on education : including a historical introduction, and a translation of the reformer's two most important educational treatises. -- (St. Louis : Concordia Publishing House, [188)"
+  ],
+  "luther-primary-works": [
+   "luthersprimarywx00luthuoft",
+   "Luther's primary works : together with his shorter and larger catechisms, translated into English (London : Hodder and Stoughton, 1896)"
+  ],
+  "luther-sermon-on-mount": [
+   "commentaryonserm00luth",
+   "Commentary on the Sermon on the Mount (Philadelphia : Lutheran Publication Society, 1892)"
+  ],
+  "luther-psalms-lenker-1903": [
+   "lutherscommentar01luth",
+   "Luther's commentary on the first twenty-two Psalms : based on Dr. Henry Cole's translation from the original Latin, vol. 1 (Sunbury, Pa. : Lutheran's in All Lands Co., 1903)"
+  ],
+  "luther-precious-sacred-8": [
+   "precioussacredwr08luth",
+   "The precious and sacred writings of Martin Luther ... based on the Kaiser chronological edition, with references to the Erlangen and Walch editions, vol. 8 (Minneapolis, Minn., Lutherans in all lands co., 1903)"
+  ],
+  "luther-catechetical-writings": [
+   "lutherscatecheti00luth",
+   "Luther's catechetical writings : God's call to repentance, faith and prayer ... vol. 1 (Minneapolis, Minn. : The Luther Press, 1907)"
+  ],
+  "luther-large-catechism-1908": [
+   "lutherslargecate01luth",
+   "Luther's large catechism; God's call to repentence, faith and prayer, the Bible plan of salvation explained (Minneapolis, Minn., The Luther press, 1908)"
+  ],
+  "luther-two-catechisms": [
+   "lutherstwocatech00luth",
+   "Luther's two catechisms explained by himself, in six classic writings (Minneapolis, Minn., The Luther Press, 1908)"
+  ],
+  "luther-christmas-epistle-sermons": [
+   "bub_gb_0BcUAAAAYAAJ",
+   "Luther's Christmas Sermons Epistles (Luther Press, 1908)"
+  ],
+  "luther-letters-currie": [
+   "lettersm00luthuoft",
+   "Letters (London, Macmillan, 1908)"
+  ],
+  "luther-correspondence-smith-1": [
+   "correspondenceot0001luth",
+   "Correspondence and other contemporary letters, vol. 1 (Philadelphia, Luthern Publication Society, 1913)"
+  ],
+  "luther-correspondence-smith-2": [
+   "lutherscorrespon0002luth",
+   "Luther's correspondence and other contemporary letters, vol. 2 (Philadelphia : Lutheran Publication Society, 1913)"
+  ],
+  "luther-conversations": [
+   "conversationswit00luth",
+   "Conversations with Luther : selections from recently published sources of the table talk (Boston : Pilgrim Press, 1915)"
+  ],
+  "luther-reply-henry-viii": [
+   "luthersreplytoki00luth",
+   "Luther's reply to King Henry VIII, now Englished after the lapse of four centuries (New York, [publisher not identified], 1928)"
   ]
  },
  "_alternates": {
@@ -97,7 +265,14 @@
   "luther-galatians-graebner": "CCEL galatians and PG 1549: Graebner's 1939 abridgment",
   "luther-bondage-atherton": "CCEL bondage: Atherton's 1931 revision of Cole",
   "luther-sermons-ccel": "CCEL sermons: keyed from a Baker reprint of Lenker",
-  "luther-works-3-6": "Works of Martin Luther vols. 3-6 (1930-32), and PG 272 and PG 1670 (modern translations)"
+  "luther-works-3-6": "Works of Martin Luther vols. 3-6 (1930-32), and PG 272 and PG 1670 (modern translations)",
+  "luther-anthologies": "Watchwords for the Warfare of Life, Selections from the Table Talk, Parting Words, Devotional Readings, Five Minutes Daily, The Riches/Life of Luther written by himself (Michelet): extracts chosen and arranged by others",
+  "luther-harvard-classics": "the Ninety-Five Theses in the Harvard Classics anthology volume",
+  "luther-machine-translations": "the st-l-* items: machine (DeepL) translations of the St. Louis edition",
+  "luther-german-latin": "German and Latin editions, Luther's Bible, and other-language translations",
+  "luther-later-catechisms": "later catechism explanations by others (Sverdrup, Michael and the like)",
+  "luther-dups": "later editions of the Galatians (1577-1644, 1760-1840), Fifteen Psalms (1615, 1637), Special Sermons (1652, 1767), Table Talk (1791, 1818, 1832, 1857, 1886-1893) and Bondage of the Will",
+  "bim_early-english-books-1641-1700_loci-communes_luther-martin_1651": "Loci Communes (London, 1651) is the Latin text, not an English translation"
  },
  "_translators": {
   "luther-table-talk": "hazlitt",
@@ -108,7 +283,7 @@
  "_checks": {
   "luther-first-principles": {
    "kind": "ccel",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "translator_claimed": "buchheim",
@@ -122,7 +297,7 @@
   },
   "luther-table-talk": {
    "kind": "ccel",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "translator_claimed": "hazlitt",
@@ -136,7 +311,7 @@
   },
   "luther-peter-jude": {
    "kind": "ccel",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "translator_claimed": "gillett",
@@ -150,7 +325,7 @@
   },
   "luther-works-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -159,7 +334,7 @@
   },
   "luther-works-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -168,7 +343,7 @@
   },
   "luther-epistle-sermons-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -177,7 +352,7 @@
   },
   "luther-epistle-sermons-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -186,7 +361,7 @@
   },
   "luther-genesis-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -195,7 +370,7 @@
   },
   "luther-genesis-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -204,7 +379,7 @@
   },
   "luther-galatians-1839": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -215,7 +390,7 @@
   },
   "luther-bondage-will-cole-1823": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "translator_claimed": "cole",
@@ -228,7 +403,7 @@
   },
   "luther-church-postil-10": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -239,7 +414,7 @@
   },
   "luther-church-postil-11": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -250,7 +425,7 @@
   },
   "luther-church-postil-12": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -261,7 +436,7 @@
   },
   "luther-church-postil-13": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -272,7 +447,7 @@
   },
   "luther-church-postil-14": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "martin luther",
    "identity": "ok",
@@ -280,6 +455,500 @@
    "ia_date": "1903",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "luther-kingdom-of-christ-1548": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1548",
+   "ia_date": "1548",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-notable-sermon-1548": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1548",
+   "ia_date": "1548",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-coming-sermon-1570": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1570",
+   "ia_date": "1570",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-galatians-1575": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1575",
+   "ia_date": "1575",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-fifteen-psalms-1577": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1577",
+   "ia_date": "1577",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-isaiah-9-1578": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1578",
+   "ia_date": "1578",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-special-sermons-1578": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1578",
+   "ia_date": "1578",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-liberty-1579": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1579",
+   "ia_date": "1579",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-comfortable-treatise-1580": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1580",
+   "ia_date": "1580",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-peter-jude-1581": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-romans-preface-1594": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1594",
+   "ia_date": "1594",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-thirty-four-sermons-1649": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1649",
+   "ia_date": "1649",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-colloquia-mensalia-1652": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1652",
+   "ia_date": "1652",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-signs-coming-1661": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1661",
+   "ia_date": "1661",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-word-in-season-1685": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1685",
+   "ia_date": "1685",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-select-works-cole-1824": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-select-works-cole-1826": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-psalms-cole-1826": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-sermons-1830": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-smaller-catechism-1832": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "luther-manual-psalms-1837": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-councils-churches-1847": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-spiritual-songs-1853": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-creation-1858": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-letters-to-women": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-house-postil": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-church-postil-1869": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "luther-passion-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-on-education": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "[1889]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-primary-works": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-sermon-on-mount": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-psalms-lenker-1903": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-precious-sacred-8": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "luther, martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-catechetical-writings": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-large-catechism-1908": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "luther-two-catechisms": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-christmas-epistle-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-letters-currie": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-correspondence-smith-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-correspondence-smith-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luther-conversations": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-reply-henry-viii": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
+ },
+ "_pending": {
+  "luther-good-works-1535": "A propre treatyse of good workes ...  1535 (catalogued 1535) (IA bim_early-english-books-1475-1640_a-propre-treatyse-of-goo_luther-martin_1535): the title page reads only 'Here after ensueth a propre treatyse of good workes' and names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "luther-psalm-22-1537": "A very excellent & swete exposition vpon the two & twentye psalme ...  1537 (catalogued 1537) (IA bim_early-english-books-1641-1700_a-very-excellent-swete_luther-martin_1537): Myles Coverdale's translation; the author's name is not legible on the damaged title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "luther-faithful-admonition-1554": "A faithful admonition...  1554 (catalogued 1554) (IA bim_early-english-books-1475-1640_a-faithful-admonition_luther-martin_1554): the title page names only 'a certeyne true Pastor and Prophete' (with a preface by Philip Melanchthon); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "luther-preface-1554": "The preface of the ... The grace and mercy of our hevinly ...  1554 (catalogued 1554) (IA bim_early-english-books-1475-1640_the-preface-of-the-t_luther-martin_1554): appears to be another copy of the 1554 Faithful Admonition (it opens with the translator Eusebius Pamphilus's preface); no title page naming Luther; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "luther-ecclesiastes-1573": "AN EXPOSITION OF SALOMONS BOOKE, ...  1573 (catalogued 1573) (IA bim_early-english-books-1475-1640_an-exposition-of-salomon_luther-martin_1573): the scan has no title page (it opens at 'An admonition to the Reader'); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_identity_checked": {
+  "luther-kingdom-of-christ-1548": "Title page, read from the page image: 'A frutefull and godly exposition and declaration of the kyngdom of Christ ... upon the wordes of the Prophet Jeremye ... by the famous clerke Doctor Martyn Luther ... translated out of hyghe Almayne. Imprinted for Gwalter Lynne, 1548.'",
+  "luther-notable-sermon-1548": "Title page, read from the page image: 'A ryght notable sermon, made by Doctor Martyn Luther, upon the twentieth Chapter of Johan, of absolution and the true use of the keyes ... Imprinted at Ippeswich by Anthony Scoloker, 1548.'",
+  "luther-galatians-1575": "Title page: 'A COMMENTARIE OF M. DOCTOR MARTIN LVTHER VPON THE EPISTLE of S. Paul to the Galathians, first collected and gathered word by word out of his preaching, and now out of Latine faithfully translated into English for the unlearned' (1575).",
+  "luther-liberty-1579": "Title page: 'A Treatise touching the Libertie of a Christian, Written in Latin by Doctor Martine Luther; And Translated into English by James Bell. At London, Imprinted by Ralph Newbery [and] H. Bynneman.'",
+  "luther-comfortable-treatise-1580": "Title page, read from the page image: 'A RIGHT COMFORTABLE TREATISE CONTEINING SUNDRYE pointes of consolation for them that labour & are laden. WRITTEN BY D. MARTIN LUTHER to Prince Friderik Duke of Saxonie ... Englished by W. Gace. Imprinted at London by Thomas Vautrollier, 1580.'",
+  "luther-peter-jude-1581": "The filmed copy opens with the library's typed transcription of the title page, read from the page image: 'A Commentarie or Exposition upon the twoo Epistles generall of Sainct Peter, and that of Sainct Jude. First faithfullie gathered out of the Lectures and Preachinges of ... Doctour Martine Luther ... translated into Englishe by Thomas Newton. Imprinted at London for Abraham Veale, 1581.'",
+  "luther-passion-sermons": "Title page: 'SERMONS ON THE PASSION OF CHRIST BY DR. MARTIN LUTHER, TRANSLATED FROM THE GERMAN. Rock Island, Ill., Lutheran Augustana Book Concern' (entered 1871; OCR reads 'MTtRTIN').",
+  "luther-smaller-catechism-1832": "Title page: 'LUTHER'S SMALLER CATECHISM TRANSLATED FROM THE ORIGINAL', Gettysburg, General Synod, 1832 (OCR prints the apostrophe as a curly quote).",
+  "luther-large-catechism-1908": "Title page: 'Christian Educational Series, Book Two. LUTHER'S Large Catechism: God's Call to Repentance, Faith and Prayer', Minneapolis, The Luther Press, 1908."
  }
 }

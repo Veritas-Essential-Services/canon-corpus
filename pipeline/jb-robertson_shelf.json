@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: James Burton Robertson (1800-1877): Friedrich Schlegel's The Philosophy of History (1835), 2 vols. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: James Burton Robertson (1800-1877): Friedrich Schlegel's The Philosophy of History (1835), 2 vols. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted. From archive.org (2026-10-23): Hergenröther's Anti-Janus (Kelly, Dublin, 1870). His Möhler Symbolism is on lane A's johann-adam-moehler shelf.",
  "_name_words": [
   "james burton robertson",
   "j. b. robertson"
@@ -20,7 +20,12 @@
    "The Philosophy of History, Vol. 2 of 2"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "jbr-ia-hergenrother-anti-janus": [
+   "antijanusanhist00robegoog",
+   "Hergenröther: Anti-Janus"
+  ]
+ },
  "titles": {
   "jb-robertson-schlegel-the-philosophy-of-history-vol-1-of-2": {
    "source": "jbr-38365",
@@ -37,6 +42,14 @@
    "translated": "1835 (see the Gutenberg header)",
    "translator": "James Burton Robertson",
    "scan_edition": "Project Gutenberg 48275 (clean text)"
+  },
+  "jb-robertson-hergenrother-anti-janus": {
+   "source": "jbr-ia-hergenrother-anti-janus",
+   "of": "Joseph Hergenröther",
+   "work": "Anti-Janus: An Historico-Theological Criticism of the Work Entitled \"The Pope and the Council\" by Janus",
+   "translated": "1870",
+   "translator": "James Burton Robertson",
+   "scan_edition": "W. B. Kelly, Dublin; Burns, Oates, London; Catholic Publishing Society, New York, 1870"
   }
  },
  "_pending": {},
@@ -45,7 +58,7 @@
  "_checks": {
   "jbr-38365": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james burton robertson",
    "identity": "ok",
@@ -54,12 +67,23 @@
   },
   "jbr-48275": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james burton robertson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "James Burton Robertson"
+  },
+  "jbr-ia-hergenrother-anti-janus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +96,18 @@
    "pg": 48275,
    "pg_copyrighted_marker": false,
    "pg_translator": "James Burton Robertson"
+  },
+  "jbr-ia-hergenrother-anti-janus": {
+   "ia": "antijanusanhist00robegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1848,
+    1870
+   ],
+   "post_1930_years_in_front_15k": [
+    1931
+   ],
+   "post_1930_examined": "1931 is a Harvard library bookplate (Nelson Gay collection); the imprint is 1870"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

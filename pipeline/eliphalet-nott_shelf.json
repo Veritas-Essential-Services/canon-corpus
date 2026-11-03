@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Eliphalet Nott (1773-1866), Presbyterian minister and for sixty-two years president of Union College, for the Word Hoard: the Discourse on the death of Alexander Hamilton (1804), the Sermon before the General Assembly (1806), Miscellaneous Works (1810), Counsels to Young Men (1840), Lectures on Temperance (1857) and The Resurrection of Christ (1872), from Internet Archive scans. Added 2026-10-23 by lane A, round 56 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nott"
+ ],
+ "_surname": [
+  "eliphalet nott",
+  "e. nott"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nott-hamilton": [
+   "discoursedeliver01nott",
+   "A discourse, delivered in the North Dutch Church, in the city of Albany, occasioned by the ever to be lamented death of General Alexander Hamilton, July 29, 1804 (Salem, Printed by J. Cushing, 1804)"
+  ],
+  "nott-general-assembly": [
+   "sermonpreachedbe00nott_0",
+   "Sermon preached before the General Assembly of the Presbyterian Church in the United States of America, by appointment of their Standing Committee of Missions, May 19, 1806 / by Eliphalet Nott (Philadelphia : Printed by Jane Aitken, 1806)"
+  ],
+  "nott-miscellaneous-works": [
+   "miscellaneousworne00nott",
+   "Miscellaneous works (Schenectady: Published by Wm. J. M'Cartee, book-seller. Ryer Schermerhorn, printer, 1810)"
+  ],
+  "nott-counsels": [
+   "counselstoyoungm00nott",
+   "Counsels to young men on the formation of character, and the principles which lead to success and happiness in life : being addresses principally delivered at the anniversary commencements in Union College (New York, Harper & Brothers, 1840)"
+  ],
+  "nott-temperance": [
+   "lecturesontempe00nott",
+   "Lectures on temperance (Hamilton, C.W., A. M. Moffat & co., 1858)"
+  ],
+  "nott-resurrection": [
+   "resurrectionofch00nott",
+   "The resurrection of Christ : a series of discourses (New York : Scribner, Armstrong, 1872)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nott-other": "Union College inauguration proceedings and Potter's commemorative discourses (other authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "nott-general-assembly": "Title page reads 'A SERMON PREACHED BEFORE THE GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH ... MAY 19, 1806 ... BY ELIPHALET NOTT, D. D. PRESIDENT OF UNION COLLEGE' (OCR 'ELIPIIALET'), Philadelphia: Jane Aitken 1806.",
+  "nott-counsels": "Title page reads 'COUNSELS TO YOUNG MEN ON THE FORMATION OF CHARACTER ... ADDRESSES PRINCIPALLY DELIVERED AT THE ANNIVERSARY COMMENCEMENTS IN UNION COLLEGE. BY ELIPHALET NOTT, D.D., PRESIDENT OF UNION COLLEGE' (OCR 'ELIPIIALET')."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nott-hamilton": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliphalet nott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nott-general-assembly": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nott-miscellaneous-works": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliphalet nott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nott-counsels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nott-temperance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliphalet nott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nott-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliphalet nott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Arthur Livingston (1883-1944): Blasco Ibáñez's Mayflower, Quiroga's South American Jungle Tales (1922), Farrère's The House of the Secret and Montessori's Elementary Material (1917). Printings before 1931 only. His Torrent, with Isaac Goldberg, is on isaac-goldberg_shelf.json. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Arthur Livingston (1883-1944): Blasco Ibáñez's Mayflower, Quiroga's South American Jungle Tales (1922), Farrère's The House of the Secret and Montessori's Elementary Material (1917). Printings before 1931 only. His Torrent, with Isaac Goldberg, is on isaac-goldberg_shelf.json. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted. From archive.org (2026-10-23): Pirandello's The Late Mattia Pascal (Dutton, 1923) and The One-Act Plays (Dutton, 1928, with Elisabeth Abbott and Blanche Valentine Mitchell).",
  "_name_words": [
   "arthur livingston"
  ],
@@ -26,7 +26,16 @@
    "The House of the Secret (La maison des hommes vivants)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "liv-ia-pirandello-mattia-pascal": [
+   "latemattiapascal0000luig_g7m8",
+   "Pirandello: The Late Mattia Pascal"
+  ],
+  "liv-ia-pirandello-one-act-plays": [
+   "oneactplaysoflui0000arth",
+   "Pirandello: One-Act Plays"
+  ]
+ },
  "titles": {
   "livingston-farrere-the-house-of-the-secret-la-maison-des-ho": {
    "source": "liv-65709",
@@ -59,6 +68,22 @@
    "translated": "1917-1923 (see the Gutenberg header)",
    "translator": "Arthur Livingston",
    "scan_edition": "Project Gutenberg 46051 (clean text)"
+  },
+  "livingston-pirandello-the-late-mattia-pascal": {
+   "source": "liv-ia-pirandello-mattia-pascal",
+   "of": "Luigi Pirandello",
+   "work": "The Late Mattia Pascal",
+   "translated": "1923",
+   "translator": "Arthur Livingston",
+   "scan_edition": "E. P. Dutton & Company, New York, 1923 (second printing, November 1923)"
+  },
+  "livingston-pirandello-the-one-act-plays": {
+   "source": "liv-ia-pirandello-one-act-plays",
+   "of": "Luigi Pirandello",
+   "work": "The One-Act Plays of Luigi Pirandello",
+   "translated": "1928",
+   "translator": "Elisabeth Abbott, Arthur Livingston and Blanche Valentine Mitchell",
+   "scan_edition": "E. P. Dutton & Company, New York, copyright 1928 (edited by Arthur Livingston)"
   }
  },
  "_pending": {},
@@ -69,7 +94,7 @@
  "_checks": {
   "liv-29577": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur livingston",
    "identity": "ok",
@@ -78,7 +103,7 @@
   },
   "liv-42869": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur livingston",
    "identity": "ok",
@@ -87,7 +112,7 @@
   },
   "liv-46051": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur livingston",
    "identity": "ok",
@@ -96,12 +121,34 @@
   },
   "liv-65709": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur livingston",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Arthur Livingston"
+  },
+  "liv-ia-pirandello-mattia-pascal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur livingston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923-11",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "liv-ia-pirandello-one-act-plays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur livingston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -124,6 +171,28 @@
    "pg": 65709,
    "pg_copyrighted_marker": false,
    "pg_translator": "Arthur Livingston"
+  },
+  "liv-ia-pirandello-mattia-pascal": {
+   "ia": "latemattiapascal0000luig_g7m8",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1818,
+    1852,
+    1921,
+    1923
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ],
+   "post_1930_examined": "2026 is the scan's digitization line"
+  },
+  "liv-ia-pirandello-one-act-plays": {
+   "ia": "oneactplaysoflui0000arth",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

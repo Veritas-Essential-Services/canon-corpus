@@ -26,7 +26,12 @@
    "The Power of a Lie"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "jmu-ia-brandes-ibsen-bjornson": [
+   "henrikibsen00brangoog",
+   "Brandes: Ibsen and Bjornson"
+  ]
+ },
  "titles": {
   "jessie-muir-bojer-the-power-of-a-lie": {
    "source": "jmu-58620",
@@ -60,17 +65,26 @@
    "translated": "1894-1921 (see the Gutenberg header)",
    "translator": "Jessie Muir",
    "scan_edition": "Project Gutenberg 13922 (clean text)"
+  },
+  "jessie-muir-brandes-henrik-ibsen-bjornstjerne-bjornson": {
+   "source": "jmu-ia-brandes-ibsen-bjornson",
+   "of": "Georg Brandes",
+   "work": "Henrik Ibsen; Björnstjerne Björnson: Critical Studies",
+   "translated": "1899",
+   "translator": "Jessie Muir",
+   "scan_edition": "William Heinemann, London, MDCCCXCIX (Google scan); title page: \"Authorised translation by Jessie Muir\""
   }
  },
  "_pending": {},
  "_excluded": {
-  "pelle": "Pelle the Conqueror (7795 complete; part-files 7791, 7794) is on bernard-miall_shelf.json."
+  "pelle": "Pelle the Conqueror (7795 complete; part-files 7791, 7794) is on bernard-miall_shelf.json.",
+  "pelle-scans": "2026-10-23: the archive.org Pelle scans checked (pelleconqueror00muirgoog, pelloconquerorv00nexgoog) are vol. II, Apprenticeship, which Bernard Miall translated; her vols. I and IV are inside the Gutenberg complete text on bernard-miall_shelf.json."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "jmu-13922": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jessie muir",
    "identity": "ok",
@@ -79,7 +93,7 @@
   },
   "jmu-15853": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jessie muir",
    "identity": "ok",
@@ -88,7 +102,7 @@
   },
   "jmu-40921": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jessie muir",
    "identity": "ok",
@@ -97,12 +111,23 @@
   },
   "jmu-58620": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jessie muir",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Jessie Muir"
+  },
+  "jmu-ia-brandes-ibsen-bjornson": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie muir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -125,6 +150,35 @@
    "pg": 58620,
    "pg_copyrighted_marker": false,
    "pg_translator": "Jessie Muir"
+  },
+  "jmu-ia-brandes-ibsen-bjornson": {
+   "ia": "henrikibsen00brangoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1850,
+    1852,
+    1856,
+    1857,
+    1858,
+    1862,
+    1864,
+    1866,
+    1867,
+    1869,
+    1873,
+    1877,
+    1879,
+    1882,
+    1884,
+    1886,
+    1888,
+    1890,
+    1892,
+    1894,
+    1896,
+    1898
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

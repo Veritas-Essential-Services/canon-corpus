@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Herman Bernstein (1876-1935): Andreyev (The Seven Who Were Hanged, 1909; Anathema; Satan's Diary, 1920), Gorky, Chekhov and Turgenev. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Herman Bernstein (1876-1935): Andreyev (The Seven Who Were Hanged, 1909; Anathema; Satan's Diary, 1920), Gorky, Chekhov and Turgenev. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted. Round 133 (2026-10-23, vetoable) added from archive.org Gorky's Foma Gordeyev (Ogilvie, 1901) and Andreyev's Samson in Chains (Brentano's, 1923).",
  "_name_words": [
   "herman bernstein"
  ],
@@ -46,7 +46,16 @@
    "The waltz of the dogs"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hbe-gorky-foma-gordeyev": [
+   "fomagordeyevnove00gork",
+   "Foma Gordeyev"
+  ],
+  "hbe-andreyev-samson-in-chains": [
+   "samsoninchainspo00andruoft",
+   "Samson in Chains"
+  ]
+ },
  "titles": {
   "herman-bernstein-andreyev-anathema-a-tragedy-in-seven-scenes": {
    "source": "hbe-49606",
@@ -119,6 +128,22 @@
    "translated": "1901-1922 (see the Gutenberg header)",
    "translator": "Herman Bernstein",
    "scan_edition": "Project Gutenberg 23056 (clean text)"
+  },
+  "herman-bernstein-gorky-foma-gordeyev": {
+   "source": "hbe-gorky-foma-gordeyev",
+   "of": "Maxim Gorky",
+   "work": "Foma Gordeyev",
+   "translated": 1901,
+   "translator": "Herman Bernstein",
+   "scan_edition": "J. S. Ogilvie, New York (copyright 1901); archive.org scan"
+  },
+  "herman-bernstein-andreyev-samson-in-chains": {
+   "source": "hbe-andreyev-samson-in-chains",
+   "of": "Leonid Andreyev",
+   "work": "Samson in Chains: A Posthumous Tragedy",
+   "translated": 1923,
+   "translator": "Herman Bernstein",
+   "scan_edition": "Brentano's, New York and London (1923); archive.org scan (Toronto copy)"
   }
  },
  "_pending": {},
@@ -127,7 +152,7 @@
  "_checks": {
   "hbe-23055": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -136,7 +161,7 @@
   },
   "hbe-23056": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -145,7 +170,7 @@
   },
   "hbe-2709": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -154,7 +179,7 @@
   },
   "hbe-42665": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -163,7 +188,7 @@
   },
   "hbe-49596": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -172,7 +197,7 @@
   },
   "hbe-49606": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -181,7 +206,7 @@
   },
   "hbe-5779": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -190,7 +215,7 @@
   },
   "hbe-6722": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
@@ -199,12 +224,34 @@
   },
   "hbe-78902": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herman bernstein",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Herman Bernstein"
+  },
+  "hbe-gorky-foma-gordeyev": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "[c1901]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbe-andreyev-samson-in-chains": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -252,6 +299,26 @@
    "pg": 78902,
    "pg_copyrighted_marker": false,
    "pg_translator": "Herman Bernstein"
+  },
+  "hbe-gorky-foma-gordeyev": {
+   "ia": "fomagordeyevnove00gork",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hbe-andreyev-samson-in-chains": {
+   "ia": "samsoninchainspo00andruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1908,
+    1914,
+    1915,
+    1919,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

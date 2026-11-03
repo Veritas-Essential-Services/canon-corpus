@@ -1,0 +1,85 @@
+{
+ "_about": "Edward Parrott: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edward Parrott",
+ "_name_words": [
+  "edward",
+  "parrott"
+ ],
+ "_surname": [
+  "edward parrott",
+  "parrott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eparrott-childrens-story-of-the-war-volume-1-of-10-from-the": [
+   35310,
+   "The Childrens' Story of the War, Volume 1 (of 10) From the Beginning of the War to the Landing of the British Army in France"
+  ],
+  "eparrott-childrens-story-of-the-war-volume-2-of-10-from-the": [
+   35314,
+   "The Childrens' Story of the War, Volume 2 (of 10) From the Battle of Mons to the Fall of Antwerp."
+  ],
+  "eparrott-childrens-story-of-the-war-volume-3-of-10-from-the": [
+   35355,
+   "The Childrens' Story of the War, Volume 3 (of 10) From the First Battle of Ypres to the End of the Year 1914"
+  ],
+  "eparrott-childrens-story-of-the-war-volume-4-of-10-the-story": [
+   35386,
+   "The Children's Story of the War Volume 4 (of 10) The Story of the Year 1915"
+  ],
+  "eparrott-pageant-of-british-history": [
+   60524,
+   "The Pageant of British History"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "eparrott-childrens-story-of-the-war-volume-1-of-10-from-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward parrott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eparrott-childrens-story-of-the-war-volume-2-of-10-from-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward parrott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eparrott-childrens-story-of-the-war-volume-3-of-10-from-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward parrott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eparrott-childrens-story-of-the-war-volume-4-of-10-the-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward parrott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eparrott-pageant-of-british-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward parrott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

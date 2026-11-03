@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Isaac Goldberg (1887-1938): Spanish, Brazilian, Yiddish and French writing in the 1910s and 1920s: Baroja, Blasco Ibáñez, Brazilian Tales (1921), David Pinski, and Remy de Gourmont (two Haldeman-Julius Little Blue Books). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Isaac Goldberg (1887-1938): Spanish, Brazilian, Yiddish and French writing in the 1910s and 1920s: Baroja, Blasco Ibáñez, Brazilian Tales (1921), David Pinski, and Remy de Gourmont (two Haldeman-Julius Little Blue Books). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted. Round 127 (2026-10-23, vetoable) added eight archive.org books: Sholom Asch's The God of Vengeance (1918) and Uncle Moses (1920), Six Plays of the Yiddish Theatre (1916) and its second series (1918), Pinski's Three Plays (1918), Ten Plays (1920) and King David and His Wives (1923), and Plays of the Italian Theatre (1921).",
  "_name_words": [
   "isaac goldberg"
  ],
@@ -46,7 +46,40 @@
    "The Quest"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ig-asch-god-of-vengeance": [
+   "cu31924026883102",
+   "The God of Vengeance"
+  ],
+  "ig-asch-uncle-moses": [
+   "unclemosesnovel00asch",
+   "Uncle Moses"
+  ],
+  "ig-six-plays-yiddish-theatre": [
+   "sixplaysofyiddis00golduoft",
+   "Six Plays of the Yiddish Theatre"
+  ],
+  "ig-six-plays-yiddish-theatre-2": [
+   "six00playsofyiddisgoldrich",
+   "Six Plays of the Yiddish Theatre, Second Series"
+  ],
+  "ig-pinski-three-plays": [
+   "threeplays00pins",
+   "Three Plays"
+  ],
+  "ig-pinski-ten-plays": [
+   "tenplays00pinsiala",
+   "Ten Plays"
+  ],
+  "ig-pinski-king-david": [
+   "kingdavidhiswive0000davi",
+   "King David and His Wives"
+  ],
+  "ig-plays-of-the-italian-theatre": [
+   "playsofitalianth00gold",
+   "Plays of the Italian Theatre"
+  ]
+ },
  "titles": {
   "isaac-goldberg-baroja-the-quest": {
    "source": "igo-8496",
@@ -120,6 +153,71 @@
    "translated": "1917-1927 (see the Gutenberg header)",
    "translator": "Isaac Goldberg",
    "scan_edition": "Project Gutenberg 71439 (clean text)"
+  },
+  "isaac-goldberg-asch-the-god-of-vengeance": {
+   "source": "ig-asch-god-of-vengeance",
+   "of": "Sholom Asch",
+   "work": "The God of Vengeance: Drama in Three Acts",
+   "translated": 1918,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "The Stratford Co., Boston 1918; archive.org scan (Cornell copy)"
+  },
+  "isaac-goldberg-asch-uncle-moses": {
+   "source": "ig-asch-uncle-moses",
+   "of": "Sholom Asch",
+   "work": "Uncle Moses: A Novel",
+   "translated": 1920,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "E. P. Dutton, New York 1920; archive.org scan"
+  },
+  "isaac-goldberg-six-plays-of-the-yiddish-theatre": {
+   "source": "ig-six-plays-yiddish-theatre",
+   "of": "David Pinski, Sholom Asch, Perez Hirschbein and Solomon J. Rabinowitsch (Sholom Aleichem)",
+   "work": "Six Plays of the Yiddish Theatre",
+   "translated": 1916,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "John W. Luce, Boston 1916; archive.org scan (Toronto copy)"
+  },
+  "isaac-goldberg-six-plays-of-the-yiddish-theatre-2": {
+   "source": "ig-six-plays-yiddish-theatre-2",
+   "of": "David Pinski, Perez Hirschbein, Z. Levin and Leon Kobrin",
+   "work": "Six Plays of the Yiddish Theatre, Second Series",
+   "translated": 1918,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "John W. Luce, Boston 1918; archive.org scan"
+  },
+  "isaac-goldberg-pinski-three-plays": {
+   "source": "ig-pinski-three-plays",
+   "of": "David Pinski",
+   "work": "Three Plays (Isaac Sheftel, The Last Jew, The Dumb Messiah)",
+   "translated": 1918,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "B. W. Huebsch, New York 1918; archive.org scan"
+  },
+  "isaac-goldberg-pinski-ten-plays": {
+   "source": "ig-pinski-ten-plays",
+   "of": "David Pinski",
+   "work": "Ten Plays",
+   "translated": 1920,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "B. W. Huebsch, New York 1920; archive.org scan",
+   "note": "The publisher's note says A Dollar was first translated by Joseph Michael and Diplomacy by Harry Birnbaum, both revised by Goldberg, who translated the other eight."
+  },
+  "isaac-goldberg-pinski-king-david-and-his-wives": {
+   "source": "ig-pinski-king-david",
+   "of": "David Pinski",
+   "work": "King David and His Wives",
+   "translated": 1923,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "B. W. Huebsch, New York 1923 (MCMXXIII on the title page); archive.org scan"
+  },
+  "isaac-goldberg-plays-of-the-italian-theatre": {
+   "source": "ig-plays-of-the-italian-theatre",
+   "of": "Giovanni Verga, Ercole Luigi Morselli, Sabatino Lopez and Luigi Pirandello",
+   "work": "Plays of the Italian Theatre",
+   "translated": 1921,
+   "translator": "Isaac Goldberg",
+   "scan_edition": "John W. Luce, Boston 1921; archive.org scan (Boston Public Library copy)"
   }
  },
  "_pending": {},
@@ -128,7 +226,7 @@
  "_checks": {
   "igo-11674": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -137,7 +235,7 @@
   },
   "igo-21040": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -146,7 +244,7 @@
   },
   "igo-21870": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -155,7 +253,7 @@
   },
   "igo-46759": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -164,7 +262,7 @@
   },
   "igo-61183": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -173,7 +271,7 @@
   },
   "igo-71439": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -182,7 +280,7 @@
   },
   "igo-78436": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -191,7 +289,7 @@
   },
   "igo-79446": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
@@ -200,12 +298,100 @@
   },
   "igo-8496": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isaac goldberg",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Isaac Goldberg"
+  },
+  "ig-asch-god-of-vengeance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ig-asch-uncle-moses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "c1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ig-six-plays-yiddish-theatre": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "c1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ig-six-plays-yiddish-theatre-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "[c1918]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ig-pinski-three-plays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ig-pinski-ten-plays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ig-pinski-king-david": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ig-plays-of-the-italian-theatre": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -253,6 +439,101 @@
    "pg": 8496,
    "pg_copyrighted_marker": false,
    "pg_translator": "Isaac Goldberg"
+  },
+  "ig-asch-god-of-vengeance": {
+   "ia": "cu31924026883102",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1904,
+    1905,
+    1910,
+    1916,
+    1918,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ig-asch-uncle-moses": {
+   "ia": "unclemosesnovel00asch",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ig-six-plays-yiddish-theatre": {
+   "ia": "sixplaysofyiddis00golduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1872,
+    1876,
+    1892,
+    1899,
+    1910,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ig-six-plays-yiddish-theatre-2": {
+   "ia": "six00playsofyiddisgoldrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ig-pinski-three-plays": {
+   "ia": "threeplays00pins",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899,
+    1900,
+    1901,
+    1903,
+    1904,
+    1905,
+    1906,
+    1907,
+    1908,
+    1910,
+    1911,
+    1912,
+    1913,
+    1914,
+    1915,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ig-pinski-ten-plays": {
+   "ia": "tenplays00pinsiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1919,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ig-pinski-king-david": {
+   "ia": "kingdavidhiswive0000davi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "no arabic year in the front matter; the title page dates it MCMXXIII (1923) in roman numerals"
+  },
+  "ig-plays-of-the-italian-theatre": {
+   "ia": "playsofitalianth00gold",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1840,
+    1881,
+    1885,
+    1902,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

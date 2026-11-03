@@ -1,0 +1,125 @@
+{
+ "_about": "Lucy Foster Madison's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Lucy Foster Madison",
+ "_name_words": [
+  "foster",
+  "lucy",
+  "madison"
+ ],
+ "_surname": [
+  "lucy foster madison",
+  "foster madison"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lfmadison-in-doublet-and-hose": [
+   28037,
+   "In Doublet and Hose: A Story for Girls"
+  ],
+  "lfmadison-peggy-owen-and-liberty": [
+   30940,
+   "Peggy Owen and Liberty"
+  ],
+  "lfmadison-daughter-of-the-union": [
+   32993,
+   "A Daughter of the Union"
+  ],
+  "lfmadison-bee-and-butterfly": [
+   33407,
+   "Bee and Butterfly: A Tale of Two Cousins"
+  ],
+  "lfmadison-joan-of-arc-the-warrior-maid": [
+   34474,
+   "Joan of Arc, the Warrior Maid"
+  ],
+  "lfmadison-peggy-owen-patriot": [
+   36740,
+   "Peggy Owen, Patriot: A Story for Girls"
+  ],
+  "lfmadison-peggy-owen-at-yorktown": [
+   36744,
+   "Peggy Owen at Yorktown"
+  ],
+  "lfmadison-maid-at-king-alfreds-court": [
+   37405,
+   "A Maid at King Alfred's Court: A Story for Girls"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lfmadison-in-doublet-and-hose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfmadison-peggy-owen-and-liberty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfmadison-daughter-of-the-union": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfmadison-bee-and-butterfly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfmadison-joan-of-arc-the-warrior-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfmadison-peggy-owen-patriot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfmadison-peggy-owen-at-yorktown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfmadison-maid-at-king-alfreds-court": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy foster madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

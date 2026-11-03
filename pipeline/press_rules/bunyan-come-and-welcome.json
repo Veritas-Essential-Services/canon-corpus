@@ -1,0 +1,202 @@
+{
+ "corrections": [
+  {
+   "find": "dullness",
+   "replace": "dulness",
+   "count": 1,
+   "why": "the scan reads “dulness” (archive.org worksofjohnbunya01buny, leaf 288, printed p. 251): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     288
+    ],
+    "page": [
+     "251"
+    ],
+    "ocr": "dulness",
+    "tesseract": "dulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Jehoshaphat",
+   "replace": "Jehosaphat",
+   "count": 1,
+   "why": "the scan reads “Jehosaphat” (archive.org worksofjohnbunya01buny, leaf 290, printed p. 253): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     290
+    ],
+    "page": [
+     "253"
+    ],
+    "ocr": "Jehosaphat",
+    "tesseract": "jehosaphat"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "fulfills",
+   "replace": "fulfils",
+   "count": 1,
+   "why": "the scan reads “fulfils” (archive.org worksofjohnbunya01buny, leaf 291, printed p. 254): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     291
+    ],
+    "page": [
+     "254"
+    ],
+    "ocr": "fulfils",
+    "tesseract": "fulfils"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "shall bear",
+   "replace": "shall hear",
+   "count": 1,
+   "why": "the scan reads “hear” (archive.org worksofjohnbunya01buny, leaf 294, printed p. 257): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     294
+    ],
+    "page": [
+     "257"
+    ],
+    "ocr": "hear",
+    "tesseract": "hear"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "all fullness",
+   "replace": "all fulness",
+   "count": 1,
+   "why": "the scan reads “fulness” (archive.org worksofjohnbunya01buny, leaf 295, printed p. 258): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     295
+    ],
+    "page": [
+     "258"
+    ],
+    "ocr": "fulness",
+    "tesseract": "fulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and saith",
+   "replace": "and said",
+   "count": 1,
+   "why": "the scan reads “said” (archive.org worksofjohnbunya01buny, leaf 301, printed p. 264): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     301
+    ],
+    "page": [
+     "264"
+    ],
+    "ocr": "said",
+    "tesseract": "said"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "1 Cor 5",
+   "replace": "1 Co v",
+   "count": 1,
+   "why": "the scan reads “Co v” (archive.org worksofjohnbunya01buny, leaf 304, printed p. 267): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     304
+    ],
+    "page": [
+     "267"
+    ],
+    "ocr": "Co v",
+    "tesseract": "co v"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "also fullness",
+   "replace": "also fulness",
+   "count": 1,
+   "why": "the scan reads “fulness” (archive.org worksofjohnbunya01buny, leaf 308, printed p. 271): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     308
+    ],
+    "page": [
+     "271"
+    ],
+    "ocr": "fulness",
+    "tesseract": "fulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "that session",
+   "replace": "that sessions",
+   "count": 1,
+   "why": "the scan reads “sessions” (archive.org worksofjohnbunya01buny, leaf 315, printed p. 278): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     315
+    ],
+    "page": [
+     "278"
+    ],
+    "ocr": "sessions",
+    "tesseract": "sessions"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "seeing more",
+   "replace": "seeing mere",
+   "count": 1,
+   "why": "the scan reads “mere” (archive.org worksofjohnbunya01buny, leaf 324, printed p. 287): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     324
+    ],
+    "page": [
+     "287"
+    ],
+    "ocr": "mere",
+    "tesseract": "mere"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "forgive they",
+   "replace": "forgive thy",
+   "count": 1,
+   "why": "the scan reads “thy” (archive.org worksofjohnbunya01buny, leaf 334, printed p. 297): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     334
+    ],
+    "page": [
+     "297"
+    ],
+    "ocr": "thy",
+    "tesseract": "thy"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

@@ -1,1 +1,6 @@
-{"status": "free", "paused": "2026-10-22T18:25-05:00", "resume": "Lane D blocked: the cloud environment network now denies www.gutenberg.org, archive.org and ccel.org (proxy 403). Batch 51 (30 authors) is drafted in the session scratch area only; rerun the survey when the network is back."}
+{
+ "status": "paused",
+ "holder": null,
+ "heartbeat": "2026-10-29T12:15Z",
+ "resume": "PAUSED again 2026-10-29 after the one-off Henty job (Adam 2026-10-28): henty-works +3 IA titles; Winning His Spurs read-along in canon-corpus PR #45 (into main) and wordhoard PR #192, both draft, awaiting Adam's merge + Armarium rebuild. Earlier resume point stands: Little Classics remaining 12 volumes; Adam's open questions (Authors index, p. 50, MBH index spots)."
+}

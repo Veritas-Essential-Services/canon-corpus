@@ -1,0 +1,526 @@
+{
+ "_about": "Storytellers' tail, group 19: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): William N. Armstrong, Ebenezer Arnold, William B. Arnold, Winifred Arnold, Maria Arthington, Frances Browne Arthur, Alice Askew, Claude Askew, John Jacob Astor, Clara Augusta, Cyril F. Austin, Robert Aveson, John Ayscough, Hamilton Aïdé, Charles Almanzo Babcock, Frank Bacon, John Badcock, Frances Henshaw Baden, Richard Bagot, Cornelia Baker, Esther Bakewell, Frederic Homer Balch, Gerald R. Baldwin, Frederic Henry Balfour, Edgar James Banks, William Banks, James Nelson Barker, Sale Barker, A. R. Barlow, Annie Maria Barnes. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 19 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "wnarmstrong-six-prize-hawaiian-stories-of-the-kilohana-art-l": [
+   "william n. armstrong",
+   "william nevins armstrong",
+   "armstrong"
+  ],
+  "earnold-elizabeth": [
+   "ebenezer arnold",
+   "arnold"
+  ],
+  "wbarnold-fourth-massachusetts-cavalry-in-the-closing-scenes": [
+   "william b. arnold",
+   "william bennet arnold",
+   "arnold"
+  ],
+  "warnold-little-merry-christmas": [
+   "winifred arnold",
+   "arnold"
+  ],
+  "marthington-rhymes-for-harry-and-his-nurse-maid": [
+   "maria arthington",
+   "arthington"
+  ],
+  "fbarthur-two-little-travellers": [
+   "frances browne arthur",
+   "arthur"
+  ],
+  "aaskew-sporting-chance": [
+   "alice askew",
+   "askew"
+  ],
+  "caskew-sporting-chance": [
+   "claude askew",
+   "askew"
+  ],
+  "jjastor-journey-in-other-worlds": [
+   "john jacob astor",
+   "astor"
+  ],
+  "caugusta-fatal-glove": [
+   "clara augusta",
+   "augusta"
+  ],
+  "cfaustin-edward-buttoneye-and-his-adventures": [
+   "cyril f. austin",
+   "cyril frederic austin",
+   "austin"
+  ],
+  "raveson-eventful-narratives-the-thirteenth-book-of-the-faith": [
+   "robert aveson",
+   "aveson"
+  ],
+  "jayscough-mariquita": [
+   "john ayscough",
+   "ayscough"
+  ],
+  "haide-voyage-of-discovery": [
+   "hamilton aïdé"
+  ],
+  "cababcock-bird-day": [
+   "charles almanzo babcock",
+   "babcock"
+  ],
+  "fbacon-lightnin-after-the-play-of-the-same-name-by-winchell": [
+   "frank bacon"
+  ],
+  "jbadcock-real-life-in-london-volumes-i-and-ii-or-the-rambles": [
+   "john badcock",
+   "badcock"
+  ],
+  "fhbaden-edna-s-sacrifice-and-other-stories": [
+   "frances henshaw baden",
+   "baden"
+  ],
+  "rbagot-passport": [
+   "richard bagot",
+   "bagot"
+  ],
+  "cbaker-court-jester": [
+   "cornelia baker"
+  ],
+  "ebakewell-book-of-one-syllable": [
+   "esther bakewell",
+   "bakewell"
+  ],
+  "fhbalch-bridge-of-the-gods-a-romance-of-indian-oregon-19th-e": [
+   "frederic homer balch",
+   "balch"
+  ],
+  "grbaldwin-grey-town": [
+   "gerald r. baldwin",
+   "gerald robert baldwin",
+   "baldwin"
+  ],
+  "fhbalfour-austin-and-his-friends": [
+   "frederic henry balfour",
+   "balfour"
+  ],
+  "ejbanks-armenian-princess": [
+   "edgar james banks",
+   "banks"
+  ],
+  "wbanks-william-adolphus-turnpike": [
+   "william banks",
+   "banks"
+  ],
+  "jnbarker-indian-princess": [
+   "james nelson barker"
+  ],
+  "sbarker-little-wideawake": [
+   "sale barker"
+  ],
+  "arbarlow-company-g": [
+   "a. r. barlow",
+   "albert rowe barlow",
+   "barlow"
+  ],
+  "ambarnes-red-miriok": [
+   "annie maria barnes",
+   "barnes"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "wnarmstrong-six-prize-hawaiian-stories-of-the-kilohana-art-l": [
+   35437,
+   "Six prize Hawaiian stories of the Kilohana Art League"
+  ],
+  "earnold-elizabeth": [
+   8802,
+   "Elizabeth: the Disinherited Daughter By E. Ben Ez-er"
+  ],
+  "wbarnold-fourth-massachusetts-cavalry-in-the-closing-scenes": [
+   31977,
+   "The Fourth Massachusetts Cavalry in the Closing Scenes of the War for the Maintenance of the Union, from Richmond to Appomatox"
+  ],
+  "warnold-little-merry-christmas": [
+   78374,
+   "Little Merry Christmas"
+  ],
+  "marthington-rhymes-for-harry-and-his-nurse-maid": [
+   45168,
+   "Rhymes for Harry and His Nurse-Maid"
+  ],
+  "fbarthur-two-little-travellers": [
+   25972,
+   "Two little travellers"
+  ],
+  "aaskew-sporting-chance": [
+   68678,
+   "The sporting chance"
+  ],
+  "caskew-sporting-chance": [
+   68678,
+   "The sporting chance"
+  ],
+  "jjastor-journey-in-other-worlds": [
+   1607,
+   "A Journey in Other Worlds: A Romance of the Future"
+  ],
+  "caugusta-fatal-glove": [
+   15989,
+   "The Fatal Glove"
+  ],
+  "cfaustin-edward-buttoneye-and-his-adventures": [
+   43692,
+   "Edward Buttoneye and His Adventures"
+  ],
+  "raveson-eventful-narratives-the-thirteenth-book-of-the-faith": [
+   49401,
+   "Eventful Narratives The Thirteenth Book of the Faith Promoting Series. Designed for the Instruction and Encouragement of Young Latter-day Saints"
+  ],
+  "jayscough-mariquita": [
+   39498,
+   "Mariquita: A Novel"
+  ],
+  "haide-voyage-of-discovery": [
+   74650,
+   "A voyage of discovery"
+  ],
+  "cababcock-bird-day": [
+   21266,
+   "Bird Day; How to prepare for it"
+  ],
+  "fbacon-lightnin-after-the-play-of-the-same-name-by-winchell": [
+   34280,
+   "Lightnin' After the Play of the Same Name by Winchell Smith and Frank Bacon"
+  ],
+  "jbadcock-real-life-in-london-volumes-i-and-ii-or-the-rambles": [
+   20484,
+   "Real Life In London, Volumes I. and II. Or, The Rambles and Adventures of Bob Tallyho, Esq., and His Cousin, the Hon. Tom Dashall, Through the Metropolis; Exhibiting a Living Picture of Fashionable Characters, Manners, and Amusements in High and Low Life (1821)"
+  ],
+  "fhbaden-edna-s-sacrifice-and-other-stories": [
+   15486,
+   "Edna's Sacrifice and Other Stories"
+  ],
+  "rbagot-passport": [
+   46693,
+   "The Passport"
+  ],
+  "cbaker-court-jester": [
+   34460,
+   "The Court Jester"
+  ],
+  "ebakewell-book-of-one-syllable": [
+   23453,
+   "The book of one syllable"
+  ],
+  "fhbalch-bridge-of-the-gods-a-romance-of-indian-oregon-19th-e": [
+   28815,
+   "The Bridge of the Gods A Romance of Indian Oregon. 19th Edition."
+  ],
+  "grbaldwin-grey-town": [
+   26034,
+   "Grey Town"
+  ],
+  "fhbalfour-austin-and-his-friends": [
+   16099,
+   "Austin and His Friends"
+  ],
+  "ejbanks-armenian-princess": [
+   75978,
+   "An Armenian princess"
+  ],
+  "wbanks-william-adolphus-turnpike": [
+   25562,
+   "William Adolphus Turnpike"
+  ],
+  "jnbarker-indian-princess": [
+   29230,
+   "The Indian Princess; Or, La Belle Sauvage"
+  ],
+  "sbarker-little-wideawake": [
+   54050,
+   "Little Wideawake: A story book for little children"
+  ],
+  "arbarlow-company-g": [
+   43562,
+   "Company G"
+  ],
+  "ambarnes-red-miriok": [
+   34810,
+   "The Red Miriok"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wnarmstrong-six-prize-hawaiian-stories-of-the-kilohana-art-l": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william n. armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "earnold-elizabeth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ebenezer arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbarnold-fourth-massachusetts-cavalry-in-the-closing-scenes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william b. arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warnold-little-merry-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winifred arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marthington-rhymes-for-harry-and-his-nurse-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maria arthington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbarthur-two-little-travellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances browne arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aaskew-sporting-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice askew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caskew-sporting-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "claude askew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjastor-journey-in-other-worlds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john jacob astor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caugusta-fatal-glove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara augusta",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfaustin-edward-buttoneye-and-his-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cyril f. austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "raveson-eventful-narratives-the-thirteenth-book-of-the-faith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert aveson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jayscough-mariquita": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john ayscough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haide-voyage-of-discovery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hamilton aïdé",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cababcock-bird-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles almanzo babcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbacon-lightnin-after-the-play-of-the-same-name-by-winchell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbadcock-real-life-in-london-volumes-i-and-ii-or-the-rambles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john badcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhbaden-edna-s-sacrifice-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances henshaw baden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbagot-passport": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard bagot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbaker-court-jester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cornelia baker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebakewell-book-of-one-syllable": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "esther bakewell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhbalch-bridge-of-the-gods-a-romance-of-indian-oregon-19th-e": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic homer balch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grbaldwin-grey-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gerald r. baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhbalfour-austin-and-his-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic henry balfour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ejbanks-armenian-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edgar james banks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbanks-william-adolphus-turnpike": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william banks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jnbarker-indian-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james nelson barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbarker-little-wideawake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sale barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arbarlow-company-g": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. r. barlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ambarnes-red-miriok": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie maria barnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

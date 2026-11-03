@@ -1,0 +1,1153 @@
+{
+ "_about": "Storytellers' tail, group 4: 22 authors with 3 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Edith Allonby, Jane Andrews, Stacy Aumonier, F. Britten Austin, Jean K. Baird, Charles H. Bennett, William Bowen, Eleanor Hoyt Brainerd, Miles J. Breuer, Elbridge S. Brooks, Sarah Warner Brooks, H. A. Bryden, Florence E. Burch, Donn Byrne, Wadsworth Camp, Sarah Pratt Carr, William Alexander Caruthers, Harriet S. Caswell, Georgiana Chatterton, William P. Chipman, Thomas Cobb, Richard Cobbold. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 4 (22 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "eallonby-jewel-sowers": [
+   "edith allonby",
+   "allonby"
+  ],
+  "eallonby-fulfilment": [
+   "edith allonby",
+   "allonby"
+  ],
+  "eallonby-marigold": [
+   "edith allonby",
+   "allonby"
+  ],
+  "jandrews-stories-mother-nature-told-her-children": [
+   "jane andrews",
+   "andrews"
+  ],
+  "jandrews-seven-little-sisters-who-live-on-the-round-ball-tha": [
+   "jane andrews",
+   "andrews"
+  ],
+  "jandrews-child-s-health-primer-for-primary-classes-with-spec": [
+   "jane andrews",
+   "andrews"
+  ],
+  "saumonier-golden-windmill-and-other-stories": [
+   "stacy aumonier",
+   "aumonier"
+  ],
+  "saumonier-friends-and-other-stories": [
+   "stacy aumonier",
+   "aumonier"
+  ],
+  "saumonier-miss-bracegirdle-and-others": [
+   "stacy aumonier",
+   "aumonier"
+  ],
+  "fbaustin-battlewrack": [
+   "f. britten austin",
+   "frederick britten austin",
+   "austin"
+  ],
+  "fbaustin-on-the-borderland": [
+   "f. britten austin",
+   "frederick britten austin",
+   "austin"
+  ],
+  "fbaustin-into-the-blue": [
+   "f. britten austin",
+   "frederick britten austin",
+   "austin"
+  ],
+  "jkbaird-elizabeth-hobart-at-exeter-hall": [
+   "jean k. baird",
+   "jean katherine baird",
+   "baird"
+  ],
+  "jkbaird-hester-s-counterpart": [
+   "jean k. baird",
+   "jean katherine baird",
+   "baird"
+  ],
+  "jkbaird-that-little-girl-of-miss-eliza-s": [
+   "jean k. baird",
+   "jean katherine baird",
+   "baird"
+  ],
+  "chbennett-frog-who-would-a-wooing-go": [
+   "charles h. bennett",
+   "charles henry bennett",
+   "bennett"
+  ],
+  "chbennett-faithless-parrot": [
+   "charles h. bennett",
+   "charles henry bennett",
+   "bennett"
+  ],
+  "chbennett-nine-lives-of-a-cat": [
+   "charles h. bennett",
+   "charles henry bennett",
+   "bennett"
+  ],
+  "wbowen-old-tobacco-shop-a-true-account-of-what-befell-a-litt": [
+   "william bowen",
+   "bowen"
+  ],
+  "wbowen-merrimeg": [
+   "william bowen",
+   "bowen"
+  ],
+  "wbowen-solario-the-tailor": [
+   "william bowen",
+   "bowen"
+  ],
+  "ehbrainerd-concerning-belinda": [
+   "eleanor hoyt brainerd",
+   "brainerd"
+  ],
+  "ehbrainerd-in-vanity-fair": [
+   "eleanor hoyt brainerd",
+   "brainerd"
+  ],
+  "ehbrainerd-pegeen": [
+   "eleanor hoyt brainerd",
+   "brainerd"
+  ],
+  "mjbreuer-einstein-see-saw": [
+   "miles j. breuer",
+   "miles john breuer",
+   "breuer"
+  ],
+  "mjbreuer-oversight": [
+   "miles j. breuer",
+   "miles john breuer",
+   "breuer"
+  ],
+  "mjbreuer-gostak-and-the-doshes": [
+   "miles j. breuer",
+   "miles john breuer",
+   "breuer"
+  ],
+  "esbrooks-true-story-of-christopher-columbus-called-the-great": [
+   "elbridge s. brooks",
+   "elbridge streeter brooks",
+   "brooks"
+  ],
+  "esbrooks-historic-girls": [
+   "elbridge s. brooks",
+   "elbridge streeter brooks",
+   "brooks"
+  ],
+  "esbrooks-historic-boys": [
+   "elbridge s. brooks",
+   "elbridge streeter brooks",
+   "brooks"
+  ],
+  "swbrooks-my-fire-opal-and-other-tales": [
+   "sarah warner brooks",
+   "brooks"
+  ],
+  "swbrooks-garden-with-house-attached": [
+   "sarah warner brooks",
+   "brooks"
+  ],
+  "swbrooks-alamo-ranch": [
+   "sarah warner brooks",
+   "brooks"
+  ],
+  "habryden-tales-of-south-africa": [
+   "h. a. bryden",
+   "henry anderson bryden",
+   "bryden"
+  ],
+  "habryden-from-veldt-camp-fires": [
+   "h. a. bryden",
+   "henry anderson bryden",
+   "bryden"
+  ],
+  "habryden-gold-kloof": [
+   "h. a. bryden",
+   "henry anderson bryden",
+   "bryden"
+  ],
+  "feburch-farmer-bluff-s-dog-blazer": [
+   "florence e. burch",
+   "burch"
+  ],
+  "feburch-no-royal-road": [
+   "florence e. burch",
+   "burch"
+  ],
+  "feburch-two-ways-of-facing-life": [
+   "florence e. burch",
+   "burch"
+  ],
+  "dbyrne-messer-marco-polo": [
+   "donn byrne",
+   "byrne"
+  ],
+  "dbyrne-wind-bloweth": [
+   "donn byrne",
+   "byrne"
+  ],
+  "dbyrne-changeling-and-other-stories": [
+   "donn byrne",
+   "byrne"
+  ],
+  "wcamp-abandoned-room": [
+   "wadsworth camp"
+  ],
+  "wcamp-gray-mask": [
+   "wadsworth camp"
+  ],
+  "wcamp-guarded-heights": [
+   "wadsworth camp"
+  ],
+  "spcarr-billy-to-morrow-s-chums": [
+   "sarah pratt carr"
+  ],
+  "spcarr-billy-to-morrow-stands-the-test": [
+   "sarah pratt carr"
+  ],
+  "spcarr-billy-to-morrow": [
+   "sarah pratt carr"
+  ],
+  "wacaruthers-cavaliers-of-virginia-vol-1-of-2-or-the-recluse": [
+   "william alexander caruthers",
+   "caruthers"
+  ],
+  "wacaruthers-kentuckian-in-new-york": [
+   "william alexander caruthers",
+   "caruthers"
+  ],
+  "wacaruthers-cavaliers-of-virginia-vol-2-of-2-or-the-recluse": [
+   "william alexander caruthers",
+   "caruthers"
+  ],
+  "hscaswell-walter-harland": [
+   "harriet s. caswell",
+   "harriet sophia caswell",
+   "caswell"
+  ],
+  "hscaswell-path-of-duty-and-other-stories": [
+   "harriet s. caswell",
+   "harriet sophia caswell",
+   "caswell"
+  ],
+  "hscaswell-stories-and-sketches": [
+   "harriet s. caswell",
+   "harriet sophia caswell",
+   "caswell"
+  ],
+  "gchatterton-lost-bride": [
+   "georgiana chatterton",
+   "chatterton"
+  ],
+  "gchatterton-lost-bride-78576": [
+   "georgiana chatterton",
+   "chatterton"
+  ],
+  "gchatterton-lost-bride-78577": [
+   "georgiana chatterton",
+   "chatterton"
+  ],
+  "wpchipman-budd-boyd-s-triumph": [
+   "william p. chipman",
+   "william pendleton chipman",
+   "chipman"
+  ],
+  "wpchipman-in-ship-and-prison": [
+   "william p. chipman",
+   "william pendleton chipman",
+   "chipman"
+  ],
+  "wpchipman-black-forge-mills": [
+   "william p. chipman",
+   "william pendleton chipman",
+   "chipman"
+  ],
+  "tcobb-enter-bridget": [
+   "thomas cobb"
+  ],
+  "tcobb-bountiful-lady-or-how-mary-was-changed-from-a-very-mis": [
+   "thomas cobb"
+  ],
+  "tcobb-little-clown": [
+   "thomas cobb"
+  ],
+  "rcobbold-geoffery-gambado": [
+   "richard cobbold",
+   "cobbold"
+  ],
+  "rcobbold-history-of-margaret-catchpole-a-suffolk-girl": [
+   "richard cobbold",
+   "cobbold"
+  ],
+  "rcobbold-freston-tower": [
+   "richard cobbold",
+   "cobbold"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "eallonby-jewel-sowers": [
+   64223,
+   "Jewel sowers: a novel"
+  ],
+  "eallonby-fulfilment": [
+   75316,
+   "The fulfilment"
+  ],
+  "eallonby-marigold": [
+   76409,
+   "Marigold"
+  ],
+  "jandrews-stories-mother-nature-told-her-children": [
+   5792,
+   "The Stories Mother Nature Told Her Children"
+  ],
+  "jandrews-seven-little-sisters-who-live-on-the-round-ball-tha": [
+   12631,
+   "The Seven Little Sisters Who Live on the Round Ball That Floats in the Air"
+  ],
+  "jandrews-child-s-health-primer-for-primary-classes-with-spec": [
+   25646,
+   "Child's Health Primer For Primary Classes With Special Reference to the Effects of Alcoholic Drinks, Stimulants, and Narcotics upon The Human System"
+  ],
+  "saumonier-golden-windmill-and-other-stories": [
+   74926,
+   "The golden windmill, and other stories"
+  ],
+  "saumonier-friends-and-other-stories": [
+   77648,
+   "The friends, and other stories"
+  ],
+  "saumonier-miss-bracegirdle-and-others": [
+   78481,
+   "Miss Bracegirdle and others"
+  ],
+  "fbaustin-battlewrack": [
+   60530,
+   "Battlewrack"
+  ],
+  "fbaustin-on-the-borderland": [
+   65837,
+   "On the Borderland"
+  ],
+  "fbaustin-into-the-blue": [
+   73541,
+   "Into the blue"
+  ],
+  "jkbaird-elizabeth-hobart-at-exeter-hall": [
+   26258,
+   "Elizabeth Hobart at Exeter Hall"
+  ],
+  "jkbaird-hester-s-counterpart": [
+   26973,
+   "Hester's Counterpart: A Story of Boarding School Life"
+  ],
+  "jkbaird-that-little-girl-of-miss-eliza-s": [
+   35822,
+   "That Little Girl of Miss Eliza's: A Story for Young People"
+  ],
+  "chbennett-frog-who-would-a-wooing-go": [
+   20579,
+   "The Frog Who Would A Wooing Go"
+  ],
+  "chbennett-faithless-parrot": [
+   21884,
+   "The Faithless Parrot"
+  ],
+  "chbennett-nine-lives-of-a-cat": [
+   23318,
+   "The Nine Lives of A Cat: A Tale of Wonder"
+  ],
+  "wbowen-old-tobacco-shop-a-true-account-of-what-befell-a-litt": [
+   26977,
+   "The Old Tobacco Shop A True Account of What Befell a Little Boy in Search of Adventure"
+  ],
+  "wbowen-merrimeg": [
+   59819,
+   "Merrimeg"
+  ],
+  "wbowen-solario-the-tailor": [
+   60162,
+   "Solario the Tailor: His Tales of the Magic Doublet"
+  ],
+  "ehbrainerd-concerning-belinda": [
+   35008,
+   "Concerning Belinda"
+  ],
+  "ehbrainerd-in-vanity-fair": [
+   45791,
+   "In Vanity Fair: A Tale of Frocks and Femininity"
+  ],
+  "ehbrainerd-pegeen": [
+   59935,
+   "Pegeen"
+  ],
+  "mjbreuer-einstein-see-saw": [
+   29060,
+   "The Einstein See-Saw"
+  ],
+  "mjbreuer-oversight": [
+   64797,
+   "The Oversight"
+  ],
+  "mjbreuer-gostak-and-the-doshes": [
+   77989,
+   "The Gostak and the Doshes"
+  ],
+  "esbrooks-true-story-of-christopher-columbus-called-the-great": [
+   1488,
+   "The True Story of Christopher Columbus, Called the Great Admiral"
+  ],
+  "esbrooks-historic-girls": [
+   1574,
+   "Historic Girls: Stories Of Girls Who Have Influenced The History Of Their Times"
+  ],
+  "esbrooks-historic-boys": [
+   27157,
+   "Historic Boys: Their Endeavours, Their Achievements, and Their Times"
+  ],
+  "swbrooks-my-fire-opal-and-other-tales": [
+   39815,
+   "My Fire Opal, and Other Tales"
+  ],
+  "swbrooks-garden-with-house-attached": [
+   40183,
+   "A Garden with House Attached"
+  ],
+  "swbrooks-alamo-ranch": [
+   40471,
+   "Alamo Ranch: A Story of New Mexico"
+  ],
+  "habryden-tales-of-south-africa": [
+   32914,
+   "Tales of South Africa"
+  ],
+  "habryden-from-veldt-camp-fires": [
+   38168,
+   "From Veldt Camp Fires"
+  ],
+  "habryden-gold-kloof": [
+   43114,
+   "The Gold Kloof"
+  ],
+  "feburch-farmer-bluff-s-dog-blazer": [
+   74082,
+   "Farmer Bluff's dog Blazer"
+  ],
+  "feburch-no-royal-road": [
+   76667,
+   "No royal road"
+  ],
+  "feburch-two-ways-of-facing-life": [
+   78567,
+   "Two ways of facing life"
+  ],
+  "dbyrne-messer-marco-polo": [
+   2058,
+   "Messer Marco Polo"
+  ],
+  "dbyrne-wind-bloweth": [
+   21999,
+   "The Wind Bloweth"
+  ],
+  "dbyrne-changeling-and-other-stories": [
+   59892,
+   "Changeling, and Other Stories"
+  ],
+  "wcamp-abandoned-room": [
+   10869,
+   "The Abandoned Room"
+  ],
+  "wcamp-gray-mask": [
+   33230,
+   "The Gray Mask"
+  ],
+  "wcamp-guarded-heights": [
+   33733,
+   "The Guarded Heights"
+  ],
+  "spcarr-billy-to-morrow-s-chums": [
+   54749,
+   "Billy To-morrow's Chums"
+  ],
+  "spcarr-billy-to-morrow-stands-the-test": [
+   56169,
+   "Billy To-morrow Stands the Test"
+  ],
+  "spcarr-billy-to-morrow": [
+   62288,
+   "Billy To-morrow"
+  ],
+  "wacaruthers-cavaliers-of-virginia-vol-1-of-2-or-the-recluse": [
+   35645,
+   "The Cavaliers of Virginia, vol. 1 of 2 or, The Recluse of Jamestown; An historical romance of the Old Dominion"
+  ],
+  "wacaruthers-kentuckian-in-new-york": [
+   36613,
+   "The Kentuckian in New-York; or, The Adventures of Three Southerns. Volume 1 (of 2)"
+  ],
+  "wacaruthers-cavaliers-of-virginia-vol-2-of-2-or-the-recluse": [
+   36753,
+   "The Cavaliers of Virginia, vol. 2 of 2 or, The Recluse of Jamestown; An historical romance of the Old Dominion"
+  ],
+  "hscaswell-walter-harland": [
+   15799,
+   "Walter Harland"
+  ],
+  "hscaswell-path-of-duty-and-other-stories": [
+   18181,
+   "The Path of Duty, and Other Stories"
+  ],
+  "hscaswell-stories-and-sketches": [
+   20493,
+   "Stories and Sketches"
+  ],
+  "gchatterton-lost-bride": [
+   78575,
+   "The lost bride; vol. 1"
+  ],
+  "gchatterton-lost-bride-78576": [
+   78576,
+   "The lost bride; vol. 2"
+  ],
+  "gchatterton-lost-bride-78577": [
+   78577,
+   "The lost bride; vol. 3"
+  ],
+  "wpchipman-budd-boyd-s-triumph": [
+   39732,
+   "Budd Boyd's Triumph; or, The Boy-Firm of Fox Island"
+  ],
+  "wpchipman-in-ship-and-prison": [
+   74251,
+   "In ship and prison"
+  ],
+  "wpchipman-black-forge-mills": [
+   74601,
+   "The Black Forge Mills"
+  ],
+  "tcobb-enter-bridget": [
+   18280,
+   "Enter Bridget"
+  ],
+  "tcobb-bountiful-lady-or-how-mary-was-changed-from-a-very-mis": [
+   30446,
+   "The Bountiful Lady Or, How Mary was changed from a very Miserable Little Girl to a very Happy One"
+  ],
+  "tcobb-little-clown": [
+   31371,
+   "The Little Clown"
+  ],
+  "rcobbold-geoffery-gambado": [
+   39115,
+   "Geoffery Gambado"
+  ],
+  "rcobbold-history-of-margaret-catchpole-a-suffolk-girl": [
+   39326,
+   "The History of Margaret Catchpole, a Suffolk Girl"
+  ],
+  "rcobbold-freston-tower": [
+   76999,
+   "Freston Tower"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "eallonby-jewel-sowers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith allonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eallonby-fulfilment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith allonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eallonby-marigold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith allonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jandrews-stories-mother-nature-told-her-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane andrews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jandrews-seven-little-sisters-who-live-on-the-round-ball-tha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane andrews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jandrews-child-s-health-primer-for-primary-classes-with-spec": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane andrews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saumonier-golden-windmill-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stacy aumonier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saumonier-friends-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stacy aumonier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saumonier-miss-bracegirdle-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stacy aumonier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbaustin-battlewrack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. britten austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbaustin-on-the-borderland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. britten austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbaustin-into-the-blue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. britten austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbaird-elizabeth-hobart-at-exeter-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jean k. baird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbaird-hester-s-counterpart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jean k. baird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbaird-that-little-girl-of-miss-eliza-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jean k. baird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chbennett-frog-who-would-a-wooing-go": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chbennett-faithless-parrot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chbennett-nine-lives-of-a-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbowen-old-tobacco-shop-a-true-account-of-what-befell-a-litt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbowen-merrimeg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbowen-solario-the-tailor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehbrainerd-concerning-belinda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor hoyt brainerd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehbrainerd-in-vanity-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor hoyt brainerd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehbrainerd-pegeen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor hoyt brainerd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjbreuer-einstein-see-saw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miles j. breuer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjbreuer-oversight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miles j. breuer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjbreuer-gostak-and-the-doshes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miles j. breuer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esbrooks-true-story-of-christopher-columbus-called-the-great": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elbridge s. brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esbrooks-historic-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elbridge s. brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esbrooks-historic-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elbridge s. brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbrooks-my-fire-opal-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah warner brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbrooks-garden-with-house-attached": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah warner brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbrooks-alamo-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah warner brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "habryden-tales-of-south-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. a. bryden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "habryden-from-veldt-camp-fires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. a. bryden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "habryden-gold-kloof": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. a. bryden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "feburch-farmer-bluff-s-dog-blazer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence e. burch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "feburch-no-royal-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence e. burch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "feburch-two-ways-of-facing-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence e. burch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dbyrne-messer-marco-polo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "donn byrne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dbyrne-wind-bloweth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "donn byrne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dbyrne-changeling-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "donn byrne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcamp-abandoned-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wadsworth camp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcamp-gray-mask": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wadsworth camp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcamp-guarded-heights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wadsworth camp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spcarr-billy-to-morrow-s-chums": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah pratt carr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spcarr-billy-to-morrow-stands-the-test": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah pratt carr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spcarr-billy-to-morrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah pratt carr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wacaruthers-cavaliers-of-virginia-vol-1-of-2-or-the-recluse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william alexander caruthers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wacaruthers-kentuckian-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william alexander caruthers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wacaruthers-cavaliers-of-virginia-vol-2-of-2-or-the-recluse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william alexander caruthers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hscaswell-walter-harland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet s. caswell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hscaswell-path-of-duty-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet s. caswell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hscaswell-stories-and-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet s. caswell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gchatterton-lost-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgiana chatterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gchatterton-lost-bride-78576": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgiana chatterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gchatterton-lost-bride-78577": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgiana chatterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpchipman-budd-boyd-s-triumph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william p. chipman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpchipman-in-ship-and-prison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william p. chipman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpchipman-black-forge-mills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william p. chipman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcobb-enter-bridget": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcobb-bountiful-lady-or-how-mary-was-changed-from-a-very-mis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcobb-little-clown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcobbold-geoffery-gambado": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard cobbold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcobbold-history-of-margaret-catchpole-a-suffolk-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard cobbold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcobbold-freston-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard cobbold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

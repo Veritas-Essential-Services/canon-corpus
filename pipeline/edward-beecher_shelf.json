@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Edward Beecher (1803-1895), Congregationalist minister and first president of Illinois College, for the Word Hoard: Narrative of Riots at Alton (1838), Baptism with reference to its Import and Modes (1849), The Conflict of Ages (1853), The Papal Conspiracy Exposed (1855) and History of Opinions on the Scriptural Doctrine of Retribution (1878), from Internet Archive scans. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "beecher"
+ ],
+ "_surname": [
+  "edward beecher",
+  "e. beecher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ebeecher-alton-riots": [
+   "narrativeofriot00beec",
+   "Narrative of riots at Alton: in connection with the death of Rev. Elijah P. Lovejoy (Alton [Ill.] G. Holton, 1838)"
+  ],
+  "ebeecher-baptism": [
+   "baptismwithrefer00beec",
+   "Baptism, with reference to its import and modes (New York, London, J. Wiley, 1849)"
+  ],
+  "ebeecher-conflict-of-ages": [
+   "conflictages00beecrich",
+   "The conflict of ages : or, The great debate on the moral relations of God and man (Boston : Phillips, Sampson, 1853)"
+  ],
+  "ebeecher-papal-conspiracy": [
+   "papalconspiracye00beec",
+   "The papal conspiracy exposed ([n.p.], 1855)"
+  ],
+  "ebeecher-retribution": [
+   "historyofopinion00beec",
+   "History of opinions on the scriptural doctrine of retribution (New York : Appleton, 1878)"
+  ]
+ },
+ "_alternates": {
+  "ebeecher-copies": "Other printings of The Conflict of Ages (1853-1855) and Papal Conspiracy (1855)"
+ },
+ "_excluded": {
+  "ebeecher-other": "The Lost Atlantis (1897, another Beecher); Ladies' Society report (1846, a society's)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ebeecher-alton-riots": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ebeecher-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ebeecher-conflict-of-ages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ebeecher-papal-conspiracy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ebeecher-retribution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

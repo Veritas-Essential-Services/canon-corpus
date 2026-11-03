@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Richard Lucas (1648-1715), prebendary of Westminster, for the Word Hoard: An Enquiry after Happiness (London 1764, two volumes), Religious Perfection (1749) and Twelve Sermons (1699), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lucas"
+ ],
+ "_surname": [
+  "richard lucas"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lucas-enquiry-1": [
+   "enquiryafterhapp01luca",
+   "An enquiry after happiness in three parts, vol. 1 (London, Printed for J. Buckland, J. Rivington [and etc.], 1764)"
+  ],
+  "lucas-enquiry-2": [
+   "enquiryafterhapp02luca",
+   "An enquiry after happiness in three parts, vol. 2 (London, Printed for J. Buckland, J. Rivington [and etc.], 1764)"
+  ],
+  "lucas-religious-perfection": [
+   "religiousperfect00luca",
+   "Religious perfection : or, a third part of the enquiry after happiness (London : Printed for W. Innys, 1749)"
+  ],
+  "lucas-twelve-sermons": [
+   "twelvesermonspr00lucagoog",
+   "Twelve sermons preached on several occasions (Printed for Sam. Smith and B. Walford, 1699)"
+  ]
+ },
+ "_alternates": {
+  "lucas-copies": "Many other printings of the Enquiry, the Duty of Servants, the Influence of Conversation, and the Fifteen Sermons on Death and Judgment"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "lucas-enquiry-1": "title page text: 'An Enquiry after Happiness. In three parts. By Richard Lucas, D.D. late Prebendary of Westminster. Vol. I. Of the possibility of obtaining happiness ... The tenth edition. London: printed for J. Buckland, J. Rivington ...' (the OCR reads the surname as 'JLJJ CAS')"
+ },
+ "_pending": {
+  "lucas-practical-christianity-1677": "Practical Christianity (1677, EEBO): the scan's OCR is unreadable and its title page was not checked; a later, clearer printing would be a better copy"
+ },
+ "_translators": {},
+ "_checks": {
+  "lucas-enquiry-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucas-enquiry-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard lucas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucas-religious-perfection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard lucas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucas-twelve-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard lucas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1699",
+   "ia_date": "1699",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

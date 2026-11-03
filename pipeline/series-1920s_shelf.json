@@ -1,0 +1,71 @@
+{
+ "_about": "The first volumes of three children's series on Pudewa's list, each US public domain by publication date. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "various",
+ "_name_words": [
+  "franklin",
+  "dixon",
+  "carolyn",
+  "keene",
+  "gertrude",
+  "warner"
+ ],
+ "_surname": [
+  "dixon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hardy-boys-tower-treasure": [
+   70083,
+   "Franklin W. Dixon, The Hardy Boys: The Tower Treasure (1927)"
+  ],
+  "nancy-drew-secret-of-the-old-clock": [
+   77924,
+   "Carolyn Keene, Nancy Drew: The Secret of the Old Clock (1930)"
+  ],
+  "box-car-children-1924": [
+   42796,
+   "Gertrude Chandler Warner, The Box-Car Children (1924 original)"
+  ]
+ },
+ "internet_archive": {},
+ "_surname_by_slug": {
+  "hardy-boys-tower-treasure": [
+   "dixon"
+  ],
+  "nancy-drew-secret-of-the-old-clock": [
+   "keene"
+  ],
+  "box-car-children-1924": [
+   "warner"
+  ]
+ },
+ "_checks": {
+  "hardy-boys-tower-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dixon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nancy-drew-secret-of-the-old-clock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "box-car-children-1924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

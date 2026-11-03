@@ -1,0 +1,508 @@
+{
+ "_about": "Storytellers' tail, group 32: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): John W. Graham, Joseph W. Grant, Maude M. Grant, Ferdinand Heinrich Grautoff, Arthur Gray, Maxwell Gray, Donald Grayson, Edwin Green, Edward Greey, Percy Greg, Eliza Grey, Pamela Grey, Eleanor Glendower Griffith, Robert Grimshaw, R. Norman Grisewood, Joseph Rhode Grismer, Weedon Grossmith, E. Burd Grubb, Henry Gréville, George B. Guild, Mary Jary Gurney, Andrew Haggard, Montague T. Hainsselin, Marcet Haldeman-Julius, Charles Winslow Hall, George Eli Hall, Holworthy Hall, Newton Marshall Hall, Emma V. Hallett, J. O. Halliwell-Phillipps. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 32 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jwgraham-nera": [
+   "john w. graham",
+   "john william graham",
+   "graham"
+  ],
+  "jwgrant-my-first-campaign": [
+   "joseph w. grant"
+  ],
+  "mmgrant-windmills-and-wooden-shoes": [
+   "maude m. grant"
+  ],
+  "fhgrautoff-banzai-by-parabellum": [
+   "ferdinand heinrich grautoff",
+   "grautoff"
+  ],
+  "agray-tedious-brief-tales-of-granta-and-gramarye": [
+   "arthur gray"
+  ],
+  "mgray-suspicions-of-ermengarde": [
+   "maxwell gray"
+  ],
+  "dgrayson-bob-steele-in-strange-waters": [
+   "donald grayson",
+   "grayson"
+  ],
+  "egreen-air-monster": [
+   "edwin green"
+  ],
+  "egreey-blue-jackets": [
+   "edward greey",
+   "greey"
+  ],
+  "pgreg-across-the-zodiac-the-story-of-a-wrecked-record": [
+   "percy greg"
+  ],
+  "egrey-adventures-of-a-marmotte-sold-for-the-distressed-irish": [
+   "eliza grey"
+  ],
+  "pgrey-children-and-the-pictures": [
+   "pamela grey"
+  ],
+  "eggriffith-cho-cho-and-the-health-fairy": [
+   "eleanor glendower griffith",
+   "griffith"
+  ],
+  "rgrimshaw-fifty-years-hence": [
+   "robert grimshaw",
+   "grimshaw"
+  ],
+  "rngrisewood-zarlah-the-martian": [
+   "r. norman grisewood",
+   "robert norman grisewood",
+   "grisewood"
+  ],
+  "jrgrismer-way-down-east-a-romance-of-new-england-life": [
+   "joseph rhode grismer",
+   "grismer"
+  ],
+  "wgrossmith-diary-of-a-nobody": [
+   "weedon grossmith",
+   "grossmith"
+  ],
+  "ebgrubb-notes-of-a-staff-officer-of-our-first-new-jersey-bri": [
+   "e. burd grubb",
+   "edward burd grubb",
+   "grubb"
+  ],
+  "hgreville-little-russian-servant": [
+   "henry gréville",
+   "gréville"
+  ],
+  "gbguild-brief-narrative-of-the-fourth-tennessee-cavalry-regi": [
+   "george b. guild",
+   "guild"
+  ],
+  "mjgurney-mrs-gurney-s-apology": [
+   "mary jary gurney",
+   "gurney"
+  ],
+  "ahaggard-hannibal-s-daughter": [
+   "andrew haggard",
+   "haggard"
+  ],
+  "mthainsselin-in-peril-on-the-sea": [
+   "montague t. hainsselin",
+   "montague thomas hainsselin",
+   "hainsselin"
+  ],
+  "mhaldemanjuliu-dust": [
+   "marcet haldeman-julius",
+   "haldeman-julius"
+  ],
+  "cwhall-adrift-in-the-ice-fields": [
+   "charles winslow hall"
+  ],
+  "gehall-balloon-ascension-at-midnight": [
+   "george eli hall"
+  ],
+  "hhall-rope": [
+   "holworthy hall"
+  ],
+  "nmhall-bible-story": [
+   "newton marshall hall"
+  ],
+  "evhallett-natalie": [
+   "emma v. hallett",
+   "hallett"
+  ],
+  "johalliwellphi-popular-rhymes-and-nursery-tales-a-sequel-to": [
+   "j. o. halliwell-phillipps",
+   "james orchard halliwell-phillipps",
+   "halliwell-phillipps"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jwgraham-nera": [
+   47571,
+   "Neæra: A Tale of Ancient Rome"
+  ],
+  "jwgrant-my-first-campaign": [
+   33625,
+   "My first campaign"
+  ],
+  "mmgrant-windmills-and-wooden-shoes": [
+   58732,
+   "Windmills and wooden shoes"
+  ],
+  "fhgrautoff-banzai-by-parabellum": [
+   19498,
+   "Banzai! by Parabellum"
+  ],
+  "agray-tedious-brief-tales-of-granta-and-gramarye": [
+   69438,
+   "Tedious brief tales of Granta and Gramarye"
+  ],
+  "mgray-suspicions-of-ermengarde": [
+   72999,
+   "The suspicions of Ermengarde"
+  ],
+  "dgrayson-bob-steele-in-strange-waters": [
+   58627,
+   "Bob Steele in Strange Waters; or, Aboard a Strange Craft"
+  ],
+  "egreey-blue-jackets": [
+   58270,
+   "Blue Jackets; or, The Adventures of J. Thompson, A.B., Among \"the Heathen Chinee\" A Nautical Novel"
+  ],
+  "pgreg-across-the-zodiac-the-story-of-a-wrecked-record": [
+   10165,
+   "Across the Zodiac The Story of a Wrecked Record"
+  ],
+  "egrey-adventures-of-a-marmotte-sold-for-the-distressed-irish": [
+   65674,
+   "The Adventures of a Marmotte Sold for the Distressed Irish"
+  ],
+  "pgrey-children-and-the-pictures": [
+   64573,
+   "The children and the pictures"
+  ],
+  "eggriffith-cho-cho-and-the-health-fairy": [
+   73840,
+   "Cho-Cho and the Health Fairy"
+  ],
+  "rgrimshaw-fifty-years-hence": [
+   68096,
+   "Fifty years hence: or, What may be in 1943 A prophecy supposed to be based on scientific deductions by an improved graphical method"
+  ],
+  "rngrisewood-zarlah-the-martian": [
+   13423,
+   "Zarlah the Martian"
+  ],
+  "jrgrismer-way-down-east-a-romance-of-new-england-life": [
+   16959,
+   "'Way Down East A Romance of New England Life"
+  ],
+  "wgrossmith-diary-of-a-nobody": [
+   1026,
+   "The Diary of a Nobody"
+  ],
+  "ebgrubb-notes-of-a-staff-officer-of-our-first-new-jersey-bri": [
+   34216,
+   "Notes of a staff officer of our First New Jersey Brigade on the Seven Day's Battle on the peninsula in 1862"
+  ],
+  "hgreville-little-russian-servant": [
+   27103,
+   "The Little Russian Servant"
+  ],
+  "gbguild-brief-narrative-of-the-fourth-tennessee-cavalry-regi": [
+   49238,
+   "A brief narrative of the Fourth Tennessee Cavalry Regiment, Wheeler's Corps, Army of Tennessee"
+  ],
+  "mjgurney-mrs-gurney-s-apology": [
+   70275,
+   "Mrs. Gurney's apology"
+  ],
+  "ahaggard-hannibal-s-daughter": [
+   72182,
+   "Hannibal's daughter"
+  ],
+  "mthainsselin-in-peril-on-the-sea": [
+   77260,
+   "In peril on the sea"
+  ],
+  "mhaldemanjuliu-dust": [
+   945,
+   "Dust"
+  ],
+  "cwhall-adrift-in-the-ice-fields": [
+   21607,
+   "Adrift in the Ice-Fields"
+  ],
+  "gehall-balloon-ascension-at-midnight": [
+   48851,
+   "A Balloon Ascension at Midnight"
+  ],
+  "hhall-rope": [
+   29570,
+   "Rope"
+  ],
+  "nmhall-bible-story": [
+   32736,
+   "The Bible Story"
+  ],
+  "evhallett-natalie": [
+   10848,
+   "Natalie; Or, A Gem Among the Sea-Weeds"
+  ],
+  "johalliwellphi-popular-rhymes-and-nursery-tales-a-sequel-to": [
+   35707,
+   "Popular Rhymes and Nursery Tales A Sequel to the Nursery Rhymes of England"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 55965 Air Monster (copyright line 1932). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "jwgraham-nera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john w. graham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jwgrant-my-first-campaign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph w. grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmgrant-windmills-and-wooden-shoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maude m. grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhgrautoff-banzai-by-parabellum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ferdinand heinrich grautoff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "agray-tedious-brief-tales-of-granta-and-gramarye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur gray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mgray-suspicions-of-ermengarde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maxwell gray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgrayson-bob-steele-in-strange-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "donald grayson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreey-blue-jackets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward greey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgreg-across-the-zodiac-the-story-of-a-wrecked-record": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy greg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egrey-adventures-of-a-marmotte-sold-for-the-distressed-irish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliza grey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgrey-children-and-the-pictures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pamela grey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eggriffith-cho-cho-and-the-health-fairy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor glendower griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrimshaw-fifty-years-hence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grimshaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rngrisewood-zarlah-the-martian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. norman grisewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrgrismer-way-down-east-a-romance-of-new-england-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph rhode grismer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgrossmith-diary-of-a-nobody": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weedon grossmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebgrubb-notes-of-a-staff-officer-of-our-first-new-jersey-bri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. burd grubb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgreville-little-russian-servant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry gréville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbguild-brief-narrative-of-the-fourth-tennessee-cavalry-regi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. guild",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjgurney-mrs-gurney-s-apology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary jary gurney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahaggard-hannibal-s-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mthainsselin-in-peril-on-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague t. hainsselin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhaldemanjuliu-dust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marcet haldeman-julius",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwhall-adrift-in-the-ice-fields": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles winslow hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gehall-balloon-ascension-at-midnight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george eli hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhall-rope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holworthy hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmhall-bible-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newton marshall hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evhallett-natalie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma v. hallett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johalliwellphi-popular-rhymes-and-nursery-tales-a-sequel-to": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. o. halliwell-phillipps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

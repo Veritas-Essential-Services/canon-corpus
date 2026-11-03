@@ -1,0 +1,65 @@
+{
+ "_about": "Storytellers' tail, group 51: 3 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Lot D. Young, Rose E. Young, William Young. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 51 (3 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "ldyoung-reminiscences-of-a-soldier-of-the-orphan-brigade": [
+   "lot d. young"
+  ],
+  "reyoung-sally-of-missouri": [
+   "rose e. young",
+   "rose emmet young"
+  ],
+  "wyoung-mathieu-ropars": [
+   "william young"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "ldyoung-reminiscences-of-a-soldier-of-the-orphan-brigade": [
+   50483,
+   "Reminiscences of a Soldier of the Orphan Brigade"
+  ],
+  "reyoung-sally-of-missouri": [
+   23391,
+   "Sally of Missouri"
+  ],
+  "wyoung-mathieu-ropars": [
+   39132,
+   "Mathieu Ropars: et cetera"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ldyoung-reminiscences-of-a-soldier-of-the-orphan-brigade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lot d. young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "reyoung-sally-of-missouri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rose e. young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wyoung-mathieu-ropars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

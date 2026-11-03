@@ -37,7 +37,9 @@
    "scan_edition": "Project Gutenberg 27724 (clean text)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "sumichrast-gautier-portraits-of-the-day": "Gautier's Portraits of the Day, The Works of Théophile Gautier vol. VI (portraitsofday00gautrich), 'translated and edited by Professor F. C. de Sumichrast'. The copyright year is illegible in the OCR; archive.org dates it 1901."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {

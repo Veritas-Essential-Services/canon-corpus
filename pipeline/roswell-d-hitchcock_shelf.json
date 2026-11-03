@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain Roswell Dwight Hitchcock (1817-1887), church historian and president of Union Theological Seminary, for the Word Hoard: A Eulogy on Daniel Webster (1852), An Address on Colportage (1855), Our National Sin (1861), The Life, Writings and Character of Edward Robinson (1863), Hitchcock's New and Complete Analysis of the Holy Bible (1871), Socialism (1879), the Teaching of the Twelve Apostles with Francis Brown (1884) and Eternal Atonement (1888), from Internet Archive scans. Added 2026-10-23 by lane A, round 54 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hitchcock"
+ ],
+ "_surname": [
+  "roswell d. hitchcock",
+  "roswell dwight hitchcock",
+  "r. d. hitchcock",
+  "roswell d hitchcock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hitchcock-webster": [
+   "eulogyondanielwe01hitc",
+   "A eulogy on Daniel Webster (Brunswick, J. Griffin, 1852)"
+  ],
+  "hitchcock-colportage": [
+   "addressoncolport00hitc",
+   "An address on colportage : before the American Tract Society, at their forty-first anniversary in Boston, May 30, 1855 (Boston / American Tract Society, 1855)"
+  ],
+  "hitchcock-national-sin": [
+   "ournationalsinse00hitc",
+   "Our national sin: a sermon, preached on the day of the national fast, September 26, 1861, in the South Reformed Dutch church, New York city (New York, Baker & Godwin, printers, 1861)"
+  ],
+  "hitchcock-edward-robinson": [
+   "lifewritingschar00hitc",
+   "The life, writings and character of Edward Robinson, read before the N. Y. Historical Society (New York : A. D. F. Randolph, 1863)"
+  ],
+  "hitchcock-analysis-of-bible": [
+   "hitchcocksnewcom71hitc",
+   "Hitchcock's New and complete analysis of the Holy Bible : or, The whole of the Old and New Testaments arranged according to subjects in twenty-seven books (New York : A.J. Johnson, 1871)"
+  ],
+  "hitchcock-socialism": [
+   "socialism00hitc",
+   "Socialism (New York, A. D. F. Randolph & company, 1879)"
+  ],
+  "hitchcock-teaching-twelve": [
+   "teachingoftwelve00hitc",
+   "Διδαχη των δωδεκα ̓αποστολων Teaching of the Twelve Apostles (Charles Scribner's Sons, 1884)"
+  ],
+  "hitchcock-eternal-atonement": [
+   "eternalatonement00hitc",
+   "Eternal atonement (New York, C. Scribner's sons, 1888)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hitchcock-other": "Hymn books he co-edited (Hymns and Songs of Praise, Carmina Sanctorum); the Tauler life and East of the Jordan, which he only introduced; the 1881 Revised New Testament reprint; the 1952 Topical Bible reissues"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hitchcock-colportage": "Title page reads 'AN ADDRESS ON COLPORTAGE, BEFORE THE American Tract Society, AT THEIR FORTY-FIRST ANNIVERSARY IN BOSTON, May 30, 1855. BY PROFESSOR HITCHCOCK, OF BOWDOIN COLLEGE.' Roswell D. Hitchcock held the Bowdoin chair of natural and revealed religion 1852-1855."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hitchcock-webster": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell d. hitchcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hitchcock-colportage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hitchcock-national-sin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell d. hitchcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hitchcock-edward-robinson": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell d. hitchcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hitchcock-analysis-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell d. hitchcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hitchcock-socialism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell d. hitchcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hitchcock-teaching-twelve": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell d. hitchcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hitchcock-eternal-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell d. hitchcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

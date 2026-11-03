@@ -1,0 +1,205 @@
+{
+ "_about": "Public-domain Hugh Macmillan (1833-1903), Free Church of Scotland minister in Glasgow and Greenock and writer on nature and religion, for the Word Hoard: Bible Teachings in Nature (1867), The Ministry of Nature (1871), The True Vine (1871), Sun-glints in the Wilderness (1872), Our Lord's Three Raisings from the Dead (1876), Two Worlds are Ours (1880), The Marriage in Cana (1882), The Olive Leaf (1886), Roman Mosaics (1888), The Sabbath of the Fields (1889), The Mystery of Grace (1893) and The Clock of Nature (1898), from Internet Archive scans. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "macmillan"
+ ],
+ "_surname": [
+  "hugh macmillan",
+  "h. macmillan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hmacmillan-bible-teachings": [
+   "bibleteachingsi01macmgoog",
+   "Bible teachings in nature (catalogued 1867)"
+  ],
+  "hmacmillan-ministry-of-nature": [
+   "ministryofnature0000macm",
+   "The ministry of nature (London : Macmillan, 1871)"
+  ],
+  "hmacmillan-true-vine": [
+   "truevineoranalo00macmgoog",
+   "The true vine; or, The analogies of our Lord's allegory (catalogued 1871)"
+  ],
+  "hmacmillan-sun-glints": [
+   "sunglintsinwilde0000macm",
+   "Sun-glints in the wilderness (London : William Hunt and Co., 1872)"
+  ],
+  "hmacmillan-three-raisings": [
+   "ourlordsai00macm",
+   "Our Lord's three raisings from the dead (Glasgow : J. Maclehose ; London : Macmillan, 1876)"
+  ],
+  "hmacmillan-two-worlds": [
+   "twoworldsareours00macm",
+   "Two worlds are ours (London : Macmillan, 1880)"
+  ],
+  "hmacmillan-cana": [
+   "marriageincanaof00macm",
+   "The marriage in Cana of Galilee (London, Macmillan & co., 1882)"
+  ],
+  "hmacmillan-olive-leaf": [
+   "oliveleafmacmill00macmrich",
+   "The olive leaf (London, Macmillan, [188)"
+  ],
+  "hmacmillan-roman-mosaics": [
+   "romanmosaicsorst00macmuoft",
+   "Roman mosaics; or, Studies in Rome and its neighbourhood (London, MacMillan, 1888)"
+  ],
+  "hmacmillan-sabbath-fields": [
+   "sabbathoffields0000revh",
+   "The sabbath of the fields (macmillan and co., 1889)"
+  ],
+  "hmacmillan-mystery-of-grace": [
+   "mysteryofgraceot0000macm",
+   "The mystery of grace and other sermons (London, Hodder and Stoughton, 1893)"
+  ],
+  "hmacmillan-clock-of-nature": [
+   "clockofnature00macm",
+   "The clock of nature (London : Isbister, 1898)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hmacmillan-other": "His botanical books (Footnotes from the Page of Nature / First Forms of Vegetation, Holidays on High Lands, The Rare Lichens of Glencroe); the Memoir of Daniel Macmillan (Thomas Hughes's)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hmacmillan-bible-teachings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmacmillan-ministry-of-nature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hmacmillan-true-vine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmacmillan-sun-glints": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hmacmillan-three-raisings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hmacmillan-two-worlds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmacmillan-cana": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmacmillan-olive-leaf": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "[1886]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmacmillan-roman-mosaics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hmacmillan-sabbath-fields": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hmacmillan-mystery-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hmacmillan-clock-of-nature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh macmillan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

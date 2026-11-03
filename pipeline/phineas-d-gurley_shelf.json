@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain Phineas D. Gurley (1816-1868), pastor of the New York Avenue Presbyterian Church in Washington, where Abraham Lincoln worshipped, and chaplain of the Senate, for the Word Hoard: his funeral sermons for Willie Lincoln and for the President, Incentives to Duty in the Work of Missions, Man's Projects and God's Results, The Voice of the Rod, and a funeral sermon for Harriet McGuffey. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 107 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "phineas d. gurley",
+  "p. d. gurley",
+  "gurley"
+ ],
+ "_surname": [
+  "phineas d. gurley",
+  "p. d. gurley",
+  "gurley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gurley-mcguffey": [
+   "funeralsermonono00gurl",
+   "A funeral sermon on occasion of the death of Mrs. Harriet S. McGuffey, who died at Woodside, near Dayton, O., July 3, 1850 (B.F. Ells, )"
+  ],
+  "gurley-incentives": [
+   "incentivestoduty00gurl_0",
+   "Incentives to duty in the work of missions: a sermon: preached for the Board of Foreign Missions of the Presbyterian church in New York, May 4, 1856 / by Phineas D. Gurley (New York: Mission house, 1856)"
+  ],
+  "gurley-willie-lincoln": [
+   "funeraladdressde00gurl",
+   "Funeral address delivered by Rev. Dr. Gurley, on the occasion of the death of William Wallace Lincoln, February 24, 1862 ([Washington, D.C.] : [s.n.], 1862)"
+  ],
+  "gurley-mans-projects": [
+   "mansprojectsgods00gurl",
+   "Man's projects and God's results. A sermon (Washington, D.C., W. Ballantyne, 1863)"
+  ],
+  "gurley-assassination": [
+   "assassinationofa00gurl",
+   "The assassination of Abraham Lincoln, vol. Assassination - Gurley's Funeral Address (catalogued 1865)"
+  ],
+  "gurley-voice-of-rod": [
+   "voiceofrodsermon00gurl",
+   "The voice of the rod : a sermon preached on Thursday, June 1, 1865, in the New York Avenue Presbyterian Church, Washington, D.C (Washington, D.C. : W. Ballantyne, 1865)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gurley-faith-1940": "faithingoddrgurl00gurl (a 1940 printing)",
+  "gurley-proceedings": "proceedingsofcal00gurl (minutes of a ministers meeting, many hands)"
+ },
+ "_rights_checked": {
+  "gurley-mcguffey": "Title page: \"Funeral sermon on occasion of the death of Mrs. Harriet S. McGuffey... By Rev. Phineas D. Gurley. Dayton, O.: Published by B. F. Ells. 1850.\""
+ },
+ "_identity_checked": {
+  "gurley-willie-lincoln": "Head of text (OCR): \"FUNERAL ADDRESS DELIVERED BY REV. DR. (il'RLEY ON THE OCCASION OF THE DEATH OF WILLIAM WALLACE LINCOLN. FEBRUARY 24, 1862.\"; OCR misreads Gurley."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gurley-mcguffey": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "phineas d. gurley",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page: \"Funeral sermon on occasion of the death of Mrs. Harriet S. McGuffey... By Rev. Phineas D. Gurley. Dayton, O.: Published by B. F. Ells. 1850.\""
+  },
+  "gurley-incentives": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "phineas d. gurley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurley-willie-lincoln": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurley-mans-projects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "p. d. gurley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gurley-assassination": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "phineas d. gurley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurley-voice-of-rod": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "p. d. gurley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

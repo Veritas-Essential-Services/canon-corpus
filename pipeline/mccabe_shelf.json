@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Joseph McCabe (1867-1955): Haeckel (The Riddle of the Universe, The Evolution of Man, The Wonders of Life, Last Words on Evolution), Bölsche's Haeckel, Voltaire's Toleration, Ferrer's Modern School and Nordmann's Einstein and the Universe (1922). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Joseph McCabe (1867-1955): Haeckel (The Riddle of the Universe, The Evolution of Man, The Wonders of Life, Last Words on Evolution), Bölsche's Haeckel, Voltaire's Toleration, Ferrer's Modern School and Nordmann's Einstein and the Universe (1922). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted. Round 135 (2026-10-23, vetoable) added from archive.org Konrad Guenther's Darwinism and the Problems of Life (1906) and Rudolf Eucken's autobiography (1921).",
  "_name_words": [
   "joseph mccabe"
  ],
@@ -46,7 +46,16 @@
    "Haeckel"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mcc-guenther-darwinism": [
+   "cu31924003052598",
+   "Darwinism and the Problems of Life"
+  ],
+  "mcc-eucken-life-work-travels": [
+   "rudolfeuckenhisl00euckiala",
+   "Rudolf Eucken: His Life, Work and Travels"
+  ]
+ },
  "titles": {
   "mccabe-bolsche-haeckel": {
    "source": "mcc-70451",
@@ -119,6 +128,22 @@
    "translated": "1900-1922 (see the Gutenberg header)",
    "translator": "Joseph McCabe",
    "scan_edition": "Project Gutenberg 64858 (clean text)"
+  },
+  "mccabe-guenther-darwinism-and-the-problems-of-life": {
+   "source": "mcc-guenther-darwinism",
+   "of": "Konrad Guenther",
+   "work": "Darwinism and the Problems of Life",
+   "translated": 1906,
+   "translator": "Joseph McCabe",
+   "scan_edition": "A. Owen, London 1906 (from the third edition); archive.org scan (Cornell copy)"
+  },
+  "mccabe-eucken-his-life-work-and-travels": {
+   "source": "mcc-eucken-life-work-travels",
+   "of": "Rudolf Eucken",
+   "work": "Rudolf Eucken: His Life, Work and Travels, by Himself",
+   "translated": 1921,
+   "translator": "Joseph McCabe",
+   "scan_edition": "T. Fisher Unwin, London, first published in English 1921; archive.org scan"
   }
  },
  "_pending": {},
@@ -127,7 +152,7 @@
  "_checks": {
   "mcc-42968": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -136,7 +161,7 @@
   },
   "mcc-46652": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -145,7 +170,7 @@
   },
   "mcc-53639": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -154,7 +179,7 @@
   },
   "mcc-6430": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -163,7 +188,7 @@
   },
   "mcc-64858": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -172,7 +197,7 @@
   },
   "mcc-66644": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -181,7 +206,7 @@
   },
   "mcc-6710": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -190,7 +215,7 @@
   },
   "mcc-68462": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
@@ -199,12 +224,34 @@
   },
   "mcc-70451": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph mccabe",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Joseph McCabe"
+  },
+  "mcc-guenther-darwinism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcc-eucken-life-work-travels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "[1921]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -252,6 +299,35 @@
    "pg": 70451,
    "pg_copyrighted_marker": false,
    "pg_translator": "Joseph McCabe"
+  },
+  "mcc-guenther-darwinism": {
+   "ia": "cu31924003052598",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1905,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mcc-eucken-life-work-travels": {
+   "ia": "rudolfeuckenhisl00euckiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1454,
+    1491,
+    1520,
+    1528,
+    1606,
+    1681,
+    1744,
+    1807,
+    1813,
+    1815,
+    1818,
+    1906,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

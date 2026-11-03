@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Manton Eastburn (1801-1872), rector of the Church of the Ascension, New York, and Episcopal Bishop of Massachusetts, for the Word Hoard: Lectures on the Epistle to the Philippians and his sermons (1843-1854). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 105 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "manton eastburn",
+  "m. eastburn",
+  "eastburn"
+ ],
+ "_surname": [
+  "manton eastburn",
+  "m. eastburn",
+  "eastburn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eastburn-philippians": [
+   "lecturesexplanat00east",
+   "Lectures, explanatory and practical, on the Epistle of St. Paul to the Philippians (New York, G. & C. & H. Carvill, 1833)"
+  ],
+  "eastburn-trinity-1843": [
+   "sermonpreachedin00east",
+   "A sermon preached in Trinity Church, Boston, on Saturday, February 18, 1843: on occasion of the interment of the Rt. Rev. Alexander Viets Griswold, D.D., bishop of the Eastern diocese, and senior and presiding bishop of the Protestant Episcopal church in the United States (Boston, J. B. Dow, 1843)"
+  ],
+  "eastburn-gospel-1854": [
+   "gospelsermonprea00east",
+   "The Gospel : a sermon preached in St. Luke's Church, Rochester, on Wednesday, October 18, 1854, at the consecration of the Rev. Henry Washington Lee, D.D., Rector of that parish, as Bishop of the Diocese of Iowa / by Manton Eastburn (D. Hoyt, 1854)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "eastburn-anthon": "Tributes to the Memory of Henry Anthon (several hands)",
+  "eastburn-consecration": "Consecration of St. John's Memorial Chapel (proceedings)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "eastburn-moderation": "moderationofprot00east: The Moderation of the Protestant Episcopal Church (1849); the text file returned HTTP 500"
+ },
+ "_translators": {},
+ "_checks": {
+  "eastburn-philippians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manton eastburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eastburn-trinity-1843": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manton eastburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eastburn-gospel-1854": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "manton eastburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

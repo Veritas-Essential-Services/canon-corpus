@@ -1,0 +1,32 @@
+{
+ "_about": "H. L. Mencken, The American Language (first edition, 1919). Internet Archive (Toronto) scan; raw OCR. US public domain; Mencken died 1956, so UK copyright ran to 2026. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "H. L. Mencken",
+ "_name_words": [
+  "mencken"
+ ],
+ "_surname": [
+  "mencken"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mencken-american-language-1919": [
+   "americanlanguage00mencuoft",
+   "The American Language (1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mencken-american-language-1919": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mencken",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "_about": "F. Colburn Adams: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "F. Colburn Adams",
+ "_name_words": [
+  "adams",
+  "colburn",
+  "francis"
+ ],
+ "_surname": [
+  "f. colburn adams",
+  "francis colburn adams",
+  "adams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fcadams-siege-of-washington-d-c-written-expressly-for-little": [
+   4668,
+   "Siege of Washington, D.C., written expressly for little people"
+  ],
+  "fcadams-our-world": [
+   4677,
+   "Our World; Or, the Slaveholder's Daughter"
+  ],
+  "fcadams-manuel-pereira": [
+   4680,
+   "Manuel Pereira; Or, The Sovereign Rule of South Carolina"
+  ],
+  "fcadams-justice-in-the-by-ways-a-tale-of-life": [
+   4958,
+   "Justice in the By-Ways, a Tale of Life"
+  ],
+  "fcadams-life-and-adventures-of-maj-roger-sherman-potter": [
+   4959,
+   "The Life and Adventures of Maj. Roger Sherman Potter"
+  ],
+  "fcadams-von-toodleburgs": [
+   18549,
+   "The Von Toodleburgs; Or, The History of a Very Distinguished Family"
+  ],
+  "fcadams-outcast": [
+   20745,
+   "An Outcast; Or, Virtue and Faith"
+  ],
+  "fcadams-white-man-bery-unsartin": [
+   63245,
+   "\"White man bery unsartin\": \"Nigger haint got no friends, no how\"; the blackest chapter in the history of the Republican Party; the men who robbed and combined to rob the freedmen of their hard earnings."
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fcadams-siege-of-washington-d-c-written-expressly-for-little": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcadams-our-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcadams-manuel-pereira": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcadams-justice-in-the-by-ways-a-tale-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcadams-life-and-adventures-of-maj-roger-sherman-potter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcadams-von-toodleburgs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcadams-outcast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcadams-white-man-bery-unsartin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. colburn adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

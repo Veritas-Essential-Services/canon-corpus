@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Denis Florence MacCarthy (1817-1882): Calderón's dramas: Life Is a Dream, The Wonder-Working Magician, The Purgatory of St. Patrick and The Two Lovers of Heaven (1853-73). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Denis Florence MacCarthy (1817-1882): Calderón's dramas: Life Is a Dream, The Wonder-Working Magician, The Purgatory of St. Patrick and The Two Lovers of Heaven (1853-73). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted. From archive.org (2026-10-23): Love the Greatest Enchantment, The Sorceries of Sin and The Devotion of the Cross (1861).",
  "_name_words": [
   "denis florence mac-carthy",
   "denis florence maccarthy",
@@ -32,7 +32,12 @@
    "The Wonder-Working Magician"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dmc-ia-calderon-love-enchantment": [
+   "lovegreatestenc00maccgoog",
+   "Calderón: Love the Greatest Enchantment"
+  ]
+ },
  "titles": {
   "denis-maccarthy-calderon-life-is-a-dream": {
    "source": "dmc-6363",
@@ -65,15 +70,25 @@
    "translated": "1853-1873 (see the Gutenberg header)",
    "translator": "Denis Florence MacCarthy",
    "scan_edition": "Project Gutenberg 6372 (clean text)"
+  },
+  "denis-maccarthy-calderon-love-the-greatest-enchantment": {
+   "source": "dmc-ia-calderon-love-enchantment",
+   "of": "Pedro Calderón de la Barca",
+   "work": "Love the Greatest Enchantment; The Sorceries of Sin; The Devotion of the Cross",
+   "translated": "1861",
+   "translator": "Denis Florence MacCarthy",
+   "scan_edition": "Longman, Green, Longman, and Roberts, London, 1861 (Google scan), with the Spanish text"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: the 1853 Dramas of Calderón (dramastragiccom01-03maccgoog) do not carry his name in their OCR."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "dmc-12173": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "denis florence mac-carthy",
    "identity": "ok",
@@ -82,7 +97,7 @@
   },
   "dmc-6363": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "denis florence mac-carthy",
    "identity": "ok",
@@ -91,7 +106,7 @@
   },
   "dmc-6371": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "denis florence mac-carthy",
    "identity": "ok",
@@ -100,12 +115,23 @@
   },
   "dmc-6372": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "denis florence mac-carthy",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-ia-calderon-love-enchantment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "denis florence mac-carthy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -128,6 +154,17 @@
    "pg": 6372,
    "pg_copyrighted_marker": false,
    "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-ia-calderon-love-enchantment": {
+   "ia": "lovegreatestenc00maccgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1649,
+    1853,
+    1856,
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

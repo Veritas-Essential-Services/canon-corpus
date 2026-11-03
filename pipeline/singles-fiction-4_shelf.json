@@ -136,7 +136,8 @@
   "william cowper",
   "william n. loew",
   "william noah loew",
-  "william trowbridge larned"
+  "william trowbridge larned",
+  "r. s. scott"
  ],
  "_surname": [
   "a. de v. chaudron",
@@ -274,7 +275,8 @@
   "william cowper",
   "william n. loew",
   "william noah loew",
-  "william trowbridge larned"
+  "william trowbridge larned",
+  "r. s. scott"
  ],
  "_surname_by_slug": {
   "sf4-4049": [
@@ -714,6 +716,9 @@
    "mary sidney",
    "mary sidney herbert pembroke",
    "pembroke"
+  ],
+  "sf4-dent-daughter-of-eve": [
+   "r. s. scott"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -1116,7 +1121,12 @@
    "A Discourse of Life and Death, by Mornay; and Antonius by Garnier"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sf4-dent-daughter-of-eve": [
+   "comdiehumainee11balzuoft",
+   "A Daughter of Eve and Letters of Two Brides"
+  ]
+ },
  "titles": {
   "singles-fiction-4-about-the-man-with-the-broken-ear": {
    "source": "sf4-20724",
@@ -1914,6 +1924,14 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Parke Godwin",
    "scan_edition": "Project Gutenberg 23062 (clean text)"
+  },
+  "singles-fiction-4-balzac-dent-daughter-of-eve-letters-of-two-brides": {
+   "source": "sf4-dent-daughter-of-eve",
+   "of": "Honoré de Balzac",
+   "work": "A Daughter of Eve (Une Fille d'Ève) and Letters of Two Brides (Mémoires de deux jeunes mariées)",
+   "translated": 1897,
+   "translator": "R. S. Scott",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1897 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
   }
  },
  "_pending": {},
@@ -1926,7 +1944,7 @@
  "_checks": {
   "sf4-4049": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eliza lee cabot follen",
    "identity": "ok",
@@ -1935,7 +1953,7 @@
   },
   "sf4-4344": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "marie h. de zielinska",
    "identity": "ok",
@@ -1944,7 +1962,7 @@
   },
   "sf4-3460": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "langley",
    "identity": "ok",
@@ -1953,7 +1971,7 @@
   },
   "sf4-3476": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry niles pierce",
    "identity": "ok",
@@ -1962,7 +1980,7 @@
   },
   "sf4-3793": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. de v. chaudron",
    "identity": "ok",
@@ -1971,7 +1989,7 @@
   },
   "sf4-12016": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "amory coffin",
    "identity": "ok",
@@ -1980,7 +1998,7 @@
   },
   "sf4-19562": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "f. jordan",
    "identity": "ok",
@@ -1989,7 +2007,7 @@
   },
   "sf4-4963": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles recht",
    "identity": "ok",
@@ -1998,7 +2016,7 @@
   },
   "sf4-5327": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "angelo patri",
    "identity": "ok",
@@ -2007,7 +2025,7 @@
   },
   "sf4-6571": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jos. a. v. stritzko",
    "identity": "ok",
@@ -2016,7 +2034,7 @@
   },
   "sf4-6852": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fernanda savage",
    "identity": "ok",
@@ -2025,7 +2043,7 @@
   },
   "sf4-6929": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cowper",
    "identity": "ok",
@@ -2034,7 +2052,7 @@
   },
   "sf4-7095": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chauncey c. starkweather",
    "identity": "ok",
@@ -2043,7 +2061,7 @@
   },
   "sf4-7169": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. hale wortham",
    "identity": "ok",
@@ -2052,7 +2070,7 @@
   },
   "sf4-7172": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anders orbeck",
    "identity": "ok",
@@ -2061,7 +2079,7 @@
   },
   "sf4-7537": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carl christian hyllested",
    "identity": "ok",
@@ -2070,7 +2088,7 @@
   },
   "sf4-8111": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "agnes mary dunne",
    "identity": "ok",
@@ -2079,7 +2097,7 @@
   },
   "sf4-8150": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henri pène du bois",
    "identity": "ok",
@@ -2088,7 +2106,7 @@
   },
   "sf4-8444": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "how",
    "identity": "ok",
@@ -2097,7 +2115,7 @@
   },
   "sf4-8445": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "paula wiking",
    "identity": "ok",
@@ -2106,7 +2124,7 @@
   },
   "sf4-8487": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bertha overbeck",
    "identity": "ok",
@@ -2115,7 +2133,7 @@
   },
   "sf4-8539": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george jeshurun",
    "identity": "ok",
@@ -2124,7 +2142,7 @@
   },
   "sf4-8578": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "blavatsky",
    "identity": "ok",
@@ -2133,7 +2151,7 @@
   },
   "sf4-9111": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "auw",
    "identity": "ok",
@@ -2142,7 +2160,7 @@
   },
   "sf4-9499": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chase",
    "identity": "ok",
@@ -2151,7 +2169,7 @@
   },
   "sf4-9920": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. powys mathers",
    "identity": "ok",
@@ -2160,7 +2178,7 @@
   },
   "sf4-11278": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george kennan",
    "identity": "ok",
@@ -2169,7 +2187,7 @@
   },
   "sf4-11461": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arnot",
    "identity": "ok",
@@ -2178,7 +2196,7 @@
   },
   "sf4-11686": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "iza young",
    "identity": "ok",
@@ -2187,7 +2205,7 @@
   },
   "sf4-11737": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "kelly",
    "identity": "ok",
@@ -2196,7 +2214,7 @@
   },
   "sf4-11738": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jacob",
    "identity": "ok",
@@ -2205,7 +2223,7 @@
   },
   "sf4-11985": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bianchi",
    "identity": "ok",
@@ -2214,7 +2232,7 @@
   },
   "sf4-12414": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward j. o'brien",
    "identity": "ok",
@@ -2223,7 +2241,7 @@
   },
   "sf4-12867": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "elizabeth price sayer",
    "identity": "ok",
@@ -2232,7 +2250,7 @@
   },
   "sf4-12909": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edgerton",
    "identity": "ok",
@@ -2241,7 +2259,7 @@
   },
   "sf4-13060": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james ross",
    "identity": "ok",
@@ -2250,7 +2268,7 @@
   },
   "sf4-13191": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fendall",
    "identity": "ok",
@@ -2259,7 +2277,7 @@
   },
   "sf4-13511": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary pamela milne-home",
    "identity": "ok",
@@ -2268,7 +2286,7 @@
   },
   "sf4-13695": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. c. starkweather",
    "identity": "ok",
@@ -2277,7 +2295,7 @@
   },
   "sf4-14301": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary ross",
    "identity": "ok",
@@ -2286,7 +2304,7 @@
   },
   "sf4-14593": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cassie",
    "identity": "ok",
@@ -2295,7 +2313,7 @@
   },
   "sf4-14954": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mongan",
    "identity": "ok",
@@ -2304,7 +2322,7 @@
   },
   "sf4-15165": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edmund o. jones",
    "identity": "ok",
@@ -2313,7 +2331,7 @@
   },
   "sf4-15426": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ireland",
    "identity": "ok",
@@ -2322,7 +2340,7 @@
   },
   "sf4-15465": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edith virginia brander matthews",
    "identity": "ok",
@@ -2331,7 +2349,7 @@
   },
   "sf4-15588": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "g. l. tottenham",
    "identity": "ok",
@@ -2340,7 +2358,7 @@
   },
   "sf4-15864": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "kettlewell",
    "identity": "ok",
@@ -2349,7 +2367,7 @@
   },
   "sf4-15934": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henri roberts",
    "identity": "ok",
@@ -2358,7 +2376,7 @@
   },
   "sf4-15946": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "f. c. tilney",
    "identity": "ok",
@@ -2367,7 +2385,7 @@
   },
   "sf4-16095": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "d. m. lowrey",
    "identity": "ok",
@@ -2376,7 +2394,7 @@
   },
   "sf4-16422": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "elbert perce",
    "identity": "ok",
@@ -2385,7 +2403,7 @@
   },
   "sf4-17067": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "gilder",
    "identity": "ok",
@@ -2394,7 +2412,7 @@
   },
   "sf4-18110": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edmund gosse",
    "identity": "ok",
@@ -2403,7 +2421,7 @@
   },
   "sf4-18399": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary richards gray",
    "identity": "ok",
@@ -2412,7 +2430,7 @@
   },
   "sf4-18832": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alexina loranger donovan",
    "identity": "ok",
@@ -2421,7 +2439,7 @@
   },
   "sf4-18876": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hayward keniston",
    "identity": "ok",
@@ -2430,7 +2448,7 @@
   },
   "sf4-20217": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "benjamin thompson",
    "identity": "ok",
@@ -2439,7 +2457,7 @@
   },
   "sf4-20380": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "learned",
    "identity": "ok",
@@ -2448,7 +2466,7 @@
   },
   "sf4-20572": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john n. raphael",
    "identity": "ok",
@@ -2457,7 +2475,7 @@
   },
   "sf4-20724": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry holt",
    "identity": "ok",
@@ -2466,7 +2484,7 @@
   },
   "sf4-22663": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alfred s. arnold",
    "identity": "ok",
@@ -2475,7 +2493,7 @@
   },
   "sf4-22757": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur b. yolland",
    "identity": "ok",
@@ -2484,7 +2502,7 @@
   },
   "sf4-23054": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -2493,7 +2511,7 @@
   },
   "sf4-23058": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. twitchell",
    "identity": "ok",
@@ -2502,7 +2520,7 @@
   },
   "sf4-23062": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "godwin",
    "identity": "ok",
@@ -2511,7 +2529,7 @@
   },
   "sf4-23063": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. matthewman",
    "identity": "ok",
@@ -2520,7 +2538,7 @@
   },
   "sf4-23221": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. c. emerson",
    "identity": "ok",
@@ -2529,7 +2547,7 @@
   },
   "sf4-23462": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "forbes",
    "identity": "ok",
@@ -2538,7 +2556,7 @@
   },
   "sf4-24108": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "larned",
    "identity": "ok",
@@ -2547,7 +2565,7 @@
   },
   "sf4-24191": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristides e. phoutrides",
    "identity": "ok",
@@ -2556,7 +2574,7 @@
   },
   "sf4-25021": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "david thompson",
    "identity": "ok",
@@ -2565,7 +2583,7 @@
   },
   "sf4-25302": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary neal sherwood",
    "identity": "ok",
@@ -2574,7 +2592,7 @@
   },
   "sf4-25760": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edmund obecny",
    "identity": "ok",
@@ -2583,7 +2601,7 @@
   },
   "sf4-25766": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. w. verrall",
    "identity": "ok",
@@ -2592,7 +2610,7 @@
   },
   "sf4-25887": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "agnes blake",
    "identity": "ok",
@@ -2601,7 +2619,7 @@
   },
   "sf4-26553": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "novello",
    "identity": "ok",
@@ -2610,7 +2628,7 @@
   },
   "sf4-26623": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "de leon",
    "identity": "ok",
@@ -2619,7 +2637,7 @@
   },
   "sf4-27001": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "berman",
    "identity": "ok",
@@ -2628,7 +2646,7 @@
   },
   "sf4-27425": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "akeroyd",
    "identity": "ok",
@@ -2637,7 +2655,7 @@
   },
   "sf4-29188": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "robert samber",
    "identity": "ok",
@@ -2646,7 +2664,7 @@
   },
   "sf4-29305": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bullick",
    "identity": "ok",
@@ -2655,7 +2673,7 @@
   },
   "sf4-29894": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longfellow",
    "identity": "ok",
@@ -2664,7 +2682,7 @@
   },
   "sf4-30020": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mrs. t. h. james",
    "identity": "ok",
@@ -2673,7 +2691,7 @@
   },
   "sf4-30135": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "evans",
    "identity": "ok",
@@ -2682,7 +2700,7 @@
   },
   "sf4-30278": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frank e. gannett",
    "identity": "ok",
@@ -2691,7 +2709,7 @@
   },
   "sf4-30596": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "boswell",
    "identity": "ok",
@@ -2700,7 +2718,7 @@
   },
   "sf4-31056": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "challice",
    "identity": "ok",
@@ -2709,7 +2727,7 @@
   },
   "sf4-31314": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brünnow",
    "identity": "ok",
@@ -2718,7 +2736,7 @@
   },
   "sf4-31409": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegan kennard",
    "identity": "ok",
@@ -2727,7 +2745,7 @@
   },
   "sf4-31567": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. lüdger",
    "identity": "ok",
@@ -2736,7 +2754,7 @@
   },
   "sf4-31662": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "england",
    "identity": "ok",
@@ -2745,7 +2763,7 @@
   },
   "sf4-31676": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "loew",
    "identity": "ok",
@@ -2754,7 +2772,7 @@
   },
   "sf4-31912": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "connop thirlwall",
    "identity": "ok",
@@ -2763,7 +2781,7 @@
   },
   "sf4-31945": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. w. worswick",
    "identity": "ok",
@@ -2772,7 +2790,7 @@
   },
   "sf4-31993": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "broekstad",
    "identity": "ok",
@@ -2781,7 +2799,7 @@
   },
   "sf4-7015": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beck",
    "identity": "ok",
@@ -2790,7 +2808,7 @@
   },
   "sf4-17711": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "inayat khan",
    "identity": "ok",
@@ -2799,7 +2817,7 @@
   },
   "sf4-19937": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "samuel weller singer",
    "identity": "ok",
@@ -2808,12 +2826,23 @@
   },
   "sf4-21789": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary sidney",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Countess of Mary Sidney Herbert Pembroke"
+  },
+  "sf4-dent-daughter-of-eve": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -3311,6 +3340,16 @@
    "pg": 21789,
    "pg_copyrighted_marker": false,
    "pg_translator": "Countess of Mary Sidney Herbert Pembroke"
+  },
+  "sf4-dent-daughter-of-eve": {
+   "ia": "comdiehumainee11balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897,
+    1898
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1897"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

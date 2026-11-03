@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Robert Pearse Gillies (1788-1858): Hoffmann's The Devil's Elixir (Blackwood, 1824, 2 vols) and Fouqué's The Magic Ring (1825, 3 vols). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Robert Pearse Gillies (1788-1858): Hoffmann's The Devil's Elixir (Blackwood, 1824, 2 vols) and Fouqué's The Magic Ring (1825, 3 vols). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted. From archive.org (2026-10-23): German Stories, vol. I (Blackwood, 1826); the vol. II scan (germanstories31gill) has no title page, so it is not shelved.",
  "_name_words": [
   "r. p. gillies",
   "robert pearse gillies",
@@ -34,7 +34,12 @@
    "The magic ring, Vol. 3 (of 3)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "rpg-ia-german-stories-1": [
+   "germanstories121gill",
+   "Gillies: German Stories 1"
+  ]
+ },
  "titles": {
   "gillies-hoffmann-the-devil-s-elixir-vol-1-of-2": {
    "source": "rpg-36494",
@@ -75,6 +80,14 @@
    "translated": "1824-1825 (see the Gutenberg header)",
    "translator": "R. P. Gillies",
    "scan_edition": "Project Gutenberg 77099 (clean text)"
+  },
+  "gillies-german-stories-1": {
+   "source": "rpg-ia-german-stories-1",
+   "of": "Hoffmann, La Motte Fouqué, Pichler, Kruse and others",
+   "work": "German Stories, vol. I of 3",
+   "translated": "1826",
+   "translator": "R. P. Gillies",
+   "scan_edition": "William Blackwood, Edinburgh; T. Cadell, London, 1826"
   }
  },
  "_pending": {},
@@ -83,7 +96,7 @@
  "_checks": {
   "rpg-36494": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. p. gillies",
    "identity": "ok",
@@ -92,7 +105,7 @@
   },
   "rpg-37005": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. p. gillies",
    "identity": "ok",
@@ -101,7 +114,7 @@
   },
   "rpg-77097": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. p. gillies",
    "identity": "ok",
@@ -110,7 +123,7 @@
   },
   "rpg-77098": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. p. gillies",
    "identity": "ok",
@@ -119,12 +132,23 @@
   },
   "rpg-77099": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. p. gillies",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "R. P. Gillies"
+  },
+  "rpg-ia-german-stories-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. p. gillies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -152,6 +176,20 @@
    "pg": 77099,
    "pg_copyrighted_marker": false,
    "pg_translator": "R. P. Gillies"
+  },
+  "rpg-ia-german-stories-1": {
+   "ia": "germanstories121gill",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1680,
+    1817,
+    1819,
+    1826
+   ],
+   "post_1930_years_in_front_15k": [
+    2014
+   ],
+   "post_1930_examined": "2014 is the scan's digitization line"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

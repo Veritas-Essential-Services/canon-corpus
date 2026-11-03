@@ -1,0 +1,56 @@
+{
+ "_about": "John M'Kerrow (1789-1867), minister at Bridge of Teith: History of the Secession Church (Edinburgh: William Oliphant, 1839, 2 vols), the Erskines' Associate Synod and its branches to 1839. Volume numbers read off each title page. The surname check takes the spellings OCR and catalogues use. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "m'kerrow",
+  "mkerrow",
+  "mckerrow"
+ ],
+ "_surname": [
+  "m'kerrow",
+  "mkerrow",
+  "mckerrow"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mckerrow-secession-church-1": [
+   "historyofthesece01mkeruoft",
+   "History of the Secession Church (Edinburgh: Oliphant, 1839), vol. 1"
+  ],
+  "mckerrow-secession-church-2": [
+   "historyofthesece02mkeruoft",
+   "History of the Secession Church (Edinburgh: Oliphant, 1839), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "historyofsecessi01mcke (1839), historysecessio00mkegoog (1841, one-volume revised edition)": "Other copies and the revised edition."
+ },
+ "_pending": {
+  "History of the Foreign Missions of the Secession and United Presbyterian Church (1867)": "Missions history; not yet read."
+ },
+ "_excluded": {},
+ "_checks": {
+  "mckerrow-secession-church-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "m'kerrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckerrow-secession-church-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "m'kerrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

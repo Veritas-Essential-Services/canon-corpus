@@ -1,0 +1,85 @@
+{
+ "_about": "Grace Greenwood: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Grace Greenwood",
+ "_name_words": [
+  "grace",
+  "greenwood"
+ ],
+ "_surname": [
+  "grace greenwood",
+  "greenwood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ggreenwood-queen-victoria-her-girlhood-and-womanhood": [
+   6469,
+   "Queen Victoria, her girlhood and womanhood"
+  ],
+  "ggreenwood-stories-and-legends-of-travel-and-history-for-chi": [
+   26735,
+   "Stories and Legends of Travel and History, for Children"
+  ],
+  "ggreenwood-stories-of-many-lands": [
+   26736,
+   "Stories of Many Lands"
+  ],
+  "ggreenwood-old-wonder-eyes-and-other-stories-for-children": [
+   48290,
+   "Old Wonder-Eyes, and Other Stories for Children"
+  ],
+  "ggreenwood-history-of-my-pets": [
+   71523,
+   "History of my pets"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ggreenwood-queen-victoria-her-girlhood-and-womanhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace greenwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggreenwood-stories-and-legends-of-travel-and-history-for-chi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace greenwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggreenwood-stories-of-many-lands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace greenwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggreenwood-old-wonder-eyes-and-other-stories-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace greenwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggreenwood-history-of-my-pets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace greenwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

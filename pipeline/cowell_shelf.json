@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Edward Byles Cowell (1826-1903): Madhava's Sarva-Darsana-Samgraha (with A. E. Gough, 1882) and the Tattva-Muktavali (1882). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Edward Byles Cowell (1826-1903): Madhava's Sarva-Darsana-Samgraha (with A. E. Gough, 1882) and the Tattva-Muktavali (1882). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted. From archive.org (2026-10-23): the Buddha-karita in Sacred Books of the East vol. XLIX (1894).",
  "_name_words": [
   "e. b. cowell",
   "edward b. cowell",
@@ -22,7 +22,12 @@
    "The Tattva-Muktavali"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cow-ia-sbe-49-buddha-karita": [
+   "buddhistmahy01cowe",
+   "Buddhist Mahayana Texts (SBE 49)"
+  ]
+ },
  "titles": {
   "cowell-gaudapurnanandacakravarti-the-tattva-muktavali": {
    "source": "cow-7175",
@@ -39,15 +44,25 @@
    "translated": "1882 (see the Gutenberg header)",
    "translator": "E. B. Cowell (with Archibald Edward Gough)",
    "scan_edition": "Project Gutenberg 34125 (clean text)"
+  },
+  "cowell-asvaghosha-buddha-karita-sbe-49": {
+   "source": "cow-ia-sbe-49-buddha-karita",
+   "of": "Asvaghosha and others",
+   "work": "Buddhist Mahâyâna Texts (Sacred Books of the East, vol. XLIX): Part I, The Buddha-karita of Asvaghosha",
+   "translated": "1894",
+   "translator": "Edward Byles Cowell",
+   "scan_edition": "Clarendon Press, Oxford, 1894. Part I, the Buddha-karita, is his translation, as the contents page says; Part II (the Sukhâvatî and Vajrakkhedikâ texts) is by F. Max Müller and J. Takakusu"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: The Jataka (1895-1907) names him as editor of translations 'by various hands'. The Buddha-karita of 1893 (Anecdota Oxoniensia) is his Sanskrit edition, not a translation."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "cow-34125": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. b. cowell",
    "identity": "ok",
@@ -56,12 +71,23 @@
   },
   "cow-7175": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. b. cowell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Edward B. Cowell"
+  },
+  "cow-ia-sbe-49-buddha-karita": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. b. cowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -74,6 +100,16 @@
    "pg": 7175,
    "pg_copyrighted_marker": false,
    "pg_translator": "Edward B. Cowell"
+  },
+  "cow-ia-sbe-49-buddha-karita": {
+   "ia": "buddhistmahy01cowe",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1830,
+    1888,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

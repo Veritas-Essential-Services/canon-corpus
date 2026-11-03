@@ -1,0 +1,98 @@
+{
+ "_about": "Cynthia Stockley: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Cynthia Stockley",
+ "_name_words": [
+  "cynthia",
+  "stockley"
+ ],
+ "_surname": [
+  "cynthia stockley",
+  "stockley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cstockley-blue-aloes": [
+   22568,
+   "Blue Aloes: Stories of South Africa"
+  ],
+  "cstockley-poppy": [
+   36138,
+   "Poppy: The Story of a South African Girl"
+  ],
+  "cstockley-claw": [
+   37257,
+   "The Claw"
+  ],
+  "cstockley-pink-gods-and-blue-demons": [
+   37258,
+   "Pink Gods and Blue Demons"
+  ],
+  "cstockley-wild-honey": [
+   37259,
+   "Wild Honey: Stories of South Africa"
+  ],
+  "cstockley-wanderfoot-the-dream-ship": [
+   40059,
+   "Wanderfoot (The Dream Ship)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cstockley-blue-aloes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cynthia stockley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cstockley-poppy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cynthia stockley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cstockley-claw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cynthia stockley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cstockley-pink-gods-and-blue-demons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cynthia stockley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cstockley-wild-honey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cynthia stockley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cstockley-wanderfoot-the-dream-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cynthia stockley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

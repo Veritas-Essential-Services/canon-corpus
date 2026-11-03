@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Sir Lascelles Wraxall (1828-1865): Gustave Aimard's tales of the American frontier (Ward & Lock, 1860s) and the first English Les Misérables (Hurst & Blackett, 1862, 5 vols). A second witness beside Hapgood's Les Misérables. US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Sir Lascelles Wraxall (1828-1865): Gustave Aimard's tales of the American frontier (Ward & Lock, 1860s) and the first English Les Misérables (Hurst & Blackett, 1862, 5 vols). A second witness beside Hapgood's Les Misérables. US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted. Round 135 (2026-10-23, vetoable) added from archive.org Esquiros's The Dutch at Home (1861, 2 vols), Recollections of Russia by a German Nobleman (1855) and Wagner and Bodenstedt's Schamyl (1854).",
  "_name_words": [
   "wraxall"
  ],
@@ -102,7 +102,26 @@
    "Les Misérables, v. 5/5: Jean Valjean"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "wrx-esquiros-dutch-at-home-1": [
+   "india.history.resource.74225",
+   "The Dutch at Home, vol. 1",
+   "74225_djvu.txt"
+  ],
+  "wrx-esquiros-dutch-at-home-2": [
+   "india.history.resource.74213",
+   "The Dutch at Home, vol. 2",
+   "74213_djvu.txt"
+  ],
+  "wrx-recollections-of-russia": [
+   "recollectionsofr08kolbuoft",
+   "Recollections of Russia"
+  ],
+  "wrx-wagner-bodenstedt-schamyl": [
+   "schamylsultanwar00wrax",
+   "Schamyl"
+  ]
+ },
  "titles": {
   "wraxall-aimard-last-of-the-incas-a-romance-of-the-pampa": {
    "source": "wrx-44514",
@@ -287,15 +306,49 @@
    "translated": "1861-1865 (see the Gutenberg header)",
    "translator": "Lascelles Wraxall",
    "scan_edition": "Project Gutenberg 48735 (clean text)"
+  },
+  "wraxall-esquiros-the-dutch-at-home-vol-1": {
+   "source": "wrx-esquiros-dutch-at-home-1",
+   "of": "Alphonse Esquiros",
+   "work": "The Dutch at Home, vol. 1 of 2",
+   "translated": 1861,
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Chapman and Hall, London 1861; archive.org scan (Asiatic Society of Mumbai copy)"
+  },
+  "wraxall-esquiros-the-dutch-at-home-vol-2": {
+   "source": "wrx-esquiros-dutch-at-home-2",
+   "of": "Alphonse Esquiros",
+   "work": "The Dutch at Home, vol. 2 of 2",
+   "translated": 1861,
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Chapman and Hall, London 1861; archive.org scan (Asiatic Society of Mumbai copy)"
+  },
+  "wraxall-recollections-of-russia": {
+   "source": "wrx-recollections-of-russia",
+   "of": "a German nobleman (Kolb)",
+   "work": "Recollections of Russia during Thirty-three Years' Residence",
+   "translated": 1855,
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Thomas Constable, Edinburgh 1855 (MDCCCLV); archive.org scan (Toronto copy)"
+  },
+  "wraxall-wagner-bodenstedt-schamyl": {
+   "source": "wrx-wagner-bodenstedt-schamyl",
+   "of": "F. Wagner and F. Bodenstedt",
+   "work": "Schamyl, the Sultan, Warrior and Prophet of the Caucasus",
+   "translated": 1854,
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "London 1854; archive.org scan"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "ia-round-135": "Not shelved from the archive.org sweep: The Backwoodsman (1864) and Fides (1866) are his editions and adaptations, not translations; The Black Panther, Frank Wildman's Adventures, The Island of the Saints and the Memoirs of Robert-Houdin do not carry his name legibly in the OCR, so the identity gate cannot pass; Golden-Hair, The Nobleman on the Turf and his memoirs of Caroline Matilda and Queen Hortense are his own books."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "wrx-40602": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -304,7 +357,7 @@
   },
   "wrx-42115": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -313,7 +366,7 @@
   },
   "wrx-42117": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -322,7 +375,7 @@
   },
   "wrx-42119": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -331,7 +384,7 @@
   },
   "wrx-42532": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -340,7 +393,7 @@
   },
   "wrx-42535": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -349,7 +402,7 @@
   },
   "wrx-42742": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -358,7 +411,7 @@
   },
   "wrx-42834": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -367,7 +420,7 @@
   },
   "wrx-43473": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -376,7 +429,7 @@
   },
   "wrx-43716": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -385,7 +438,7 @@
   },
   "wrx-43925": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -394,7 +447,7 @@
   },
   "wrx-44196": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -403,7 +456,7 @@
   },
   "wrx-44375": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -412,7 +465,7 @@
   },
   "wrx-44421": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -421,7 +474,7 @@
   },
   "wrx-44454": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -430,7 +483,7 @@
   },
   "wrx-44514": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -439,7 +492,7 @@
   },
   "wrx-44672": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -448,7 +501,7 @@
   },
   "wrx-46276": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -457,7 +510,7 @@
   },
   "wrx-48731": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -466,7 +519,7 @@
   },
   "wrx-48732": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -475,7 +528,7 @@
   },
   "wrx-48733": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -484,7 +537,7 @@
   },
   "wrx-48734": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
@@ -493,12 +546,56 @@
   },
   "wrx-48735": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wraxall",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-esquiros-dutch-at-home-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wrx-esquiros-dutch-at-home-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wrx-recollections-of-russia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wrx-wagner-bodenstedt-schamyl": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -616,6 +713,54 @@
    "pg": 48735,
    "pg_copyrighted_marker": false,
    "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-esquiros-dutch-at-home-1": {
+   "ia": "india.history.resource.74225",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849,
+    1855
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the digitising line"
+  },
+  "wrx-esquiros-dutch-at-home-2": {
+   "ia": "india.history.resource.74213",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1784,
+    1789,
+    1806,
+    1848
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the digitising line"
+  },
+  "wrx-recollections-of-russia": {
+   "ia": "recollectionsofr08kolbuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1855
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wrx-wagner-bodenstedt-schamyl": {
+   "ia": "schamylsultanwar00wrax",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1807,
+    1830,
+    1832,
+    1834,
+    1839,
+    1849,
+    1854
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -1,0 +1,85 @@
+{
+ "_about": "Jane Austen's (1775-1817) six novels, one Gutenberg text each. Emma is already held (pipeline/adler_shelf.json `austen-emma`, PG 158) and is not refetched. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Jane Austen",
+ "_name_words": [
+  "jane",
+  "austen"
+ ],
+ "_surname": [
+  "jane austen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "austen-pride-and-prejudice": [
+   1342,
+   "Pride and Prejudice (1813)"
+  ],
+  "austen-sense-and-sensibility": [
+   161,
+   "Sense and Sensibility (1811)"
+  ],
+  "austen-mansfield-park": [
+   141,
+   "Mansfield Park (1814)"
+  ],
+  "austen-northanger-abbey": [
+   121,
+   "Northanger Abbey (1817)"
+  ],
+  "austen-persuasion": [
+   105,
+   "Persuasion (1817)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "austen-emma": "HELD elsewhere: adler_shelf.json `austen-emma` (PG 158)"
+ },
+ "_checks": {
+  "austen-pride-and-prejudice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "austen-sense-and-sensibility": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "austen-mansfield-park": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "austen-northanger-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "austen-persuasion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

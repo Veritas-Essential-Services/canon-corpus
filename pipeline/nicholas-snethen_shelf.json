@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Nicholas Snethen, Methodist preacher and a founder of the Methodist Protestant Church, for the Word Hoard: his Answer to James O'Kelly's Vindication, Snethen on Lay Representation, and his collected Sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 124 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nicholas snethen",
+  "n. snethen",
+  "snethen"
+ ],
+ "_surname": [
+  "snethen",
+  "snethan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "snethen-okelly": [
+   "ananswertojameso00snet",
+   "An answer to James O'Kelly's vindication of his apology, &c. : and an explanation of the reply / by Nicholas Snethen (Printed by S.W. Conrad, 1802)"
+  ],
+  "snethen-lay-representation": [
+   "snethenonlayrep00snetgoog",
+   "Snethen on Lay Representation: Or, Essays on Lay Representation and Church Government, Collected (J.J. Harrod, 1835)"
+  ],
+  "snethen-sermons": [
+   "sermonsoflatenic0000snet",
+   "Sermons of the late Nicholas Snethen, minister ... in the Methodist Protestant church (Washington, DC : U. Ward, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "snethen-lay-dup": "snethanonlayrepr00snet, a second scan of Lay Representation"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "snethen-okelly": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snethen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snethen-lay-representation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snethen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snethen-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snethen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

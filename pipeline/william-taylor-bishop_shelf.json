@@ -1,0 +1,176 @@
+{
+ "_about": "Public-domain William Taylor (1821-1902), Methodist street preacher in San Francisco and missionary bishop for Africa, for the Word Hoard: Seven Years' Street Preaching in San Francisco (1857), California Life Illustrated (1858), The Model Preacher (1860), How to be Saved and How to Save the World (1866), Christian Adventures in South Africa (1867), The Election of Grace (1868), Reconciliation, or How to be Saved (1874), Infancy and Manhood of Christian Life (1875), Four Years' Campaign in India (1875) and Our South American Cousins (1878). William M. Taylor of the Broadway Tabernacle is another man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 67 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "taylor"
+ ],
+ "_surname": [
+  "wm. taylor",
+  "rev. william taylor",
+  "william taylor, of california"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wtaylorbp-street-preaching": [
+   "sevenyearsstree00tayl",
+   "Seven years' street preaching in San Francisco, California; embracing incidents, triumphant death scenes, etc (New York, The author, 1857)"
+  ],
+  "wtaylorbp-california-life": [
+   "californialifei04taylgoog",
+   "California life illustrated (New York, Pub. for the author, by Carlton & Porter, 1858)"
+  ],
+  "wtaylorbp-model-preacher": [
+   "modelpreachercom00tayl",
+   "Model preacher: comprised in a series of letters illustrating the best mode of preaching the gospel (Cincinnati, Swormstedt & Poe, 1860)"
+  ],
+  "wtaylorbp-how-to-be-saved": [
+   "howtobesavedhowt00tayl",
+   "How to be saved and how to save the world, vol. 1 (Adelaide : Alfred Waddy, 1866)"
+  ],
+  "wtaylorbp-south-africa": [
+   "christianadventu00tayl_0",
+   "Christian adventures in South Africa (London : Jackson, Walford, and Hodder, 1867)"
+  ],
+  "wtaylorbp-election-of-grace": [
+   "electionofgrace0000tayl",
+   "The election of grace (London : Hodder and Stoughton ; New York : Nelson and Phillips, 1868)"
+  ],
+  "wtaylorbp-reconciliation": [
+   "reconciliationor0000tayl",
+   "Reconciliation, or, How to be saved (London : S.W. Partridge ; New York : Nelson and Phillips, 1874)"
+  ],
+  "wtaylorbp-infancy-manhood": [
+   "infancymanhoodof0000tayl",
+   "Infancy and manhood of Christian life (London : S.W. Partridge ; New York : Nelson and Phillips, 1875)"
+  ],
+  "wtaylorbp-india-campaign": [
+   "cu31924022906006",
+   "Four years' campaign in India (New York : Nelson & Phillips, 1875)"
+  ],
+  "wtaylorbp-south-american-cousins": [
+   "cu31924021167378",
+   "Our South American cousins (New York, Nelson and Phillips; London, Hodder and Stoughton, 1878)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wtaylorbp-other": "Other William Taylors (of Norwich, the arithmetic teachers); William M. Taylor of New York (his own shelf)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wtaylorbp-street-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wtaylorbp-california-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rev. william taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wtaylorbp-model-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rev. william taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wtaylorbp-how-to-be-saved": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rev. william taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wtaylorbp-south-africa": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wtaylorbp-election-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william taylor, of california",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wtaylorbp-reconciliation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rev. william taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wtaylorbp-infancy-manhood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rev. william taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wtaylorbp-india-campaign": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wtaylorbp-south-american-cousins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

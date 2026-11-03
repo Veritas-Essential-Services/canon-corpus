@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain Charles Moss, Bishop of St David's and then of Bath and Wells, for the Word Hoard: The Evidence of the Resurrection Cleared, its Sequel, and his sermons before the Lord Mayor, the House of Lords, the governors of the Salisbury Infirmary, and the Society for the Propagation of the Gospel. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 122 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles moss",
+  "c. moss",
+  "charles lord bishop",
+  "moss"
+ ],
+ "_surname": [
+  "moss"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moss-evidence-resurrection": [
+   "evidenceofresurr00moss",
+   "The evidence of the resurrection : cleared from the exceptions of a late pamphlet entitled \"The resurrection of Jesus considered by a moral philosopher, in answer to The tryal of the witnesses, etc.\" (London : Printed for John and Henry Pemberton, 1744)"
+  ],
+  "moss-lord-mayor-1750": [
+   "bim_eighteenth-century_a-sermon-preached-before_moss-charles_1750",
+   "A sermon preached before the Right Honourable the Lord-Mayor, the Court of Aldermen, the Sheriffs, and the Governors of the several hospitals of the City of London, at the parish church of St. Bridget, on Tuesday in Easter-Week, 1750. By Charles Moss (catalogued 1750)"
+  ],
+  "moss-st-james-1756": [
+   "bim_eighteenth-century_a-sermon-preached-at-the_moss-charles_1756",
+   "A sermon preached at the parish church of St. James, Westminster, on Friday, February 6, 1756. being the day appointed by His Majesty for a general fast, on occasion of the late earthquakes, and the present situation of public affairs. By Charles Mos (catalogued 1756)"
+  ],
+  "moss-lords-1769": [
+   "bim_eighteenth-century_a-sermon-preached-before_moss-charles_1769",
+   "A sermon preached before the House of Lords, in the Abbey church of St. Peter, Westminster, on Monday, January 30, 1769, ... By ... Charles Lord Bishop of St. David's.  1769 (catalogued 1769)"
+  ],
+  "moss-sarum-1770": [
+   "bim_eighteenth-century_a-sermon-preached-in-th_moss-charles_1770",
+   "A sermon, preached in the cathedral church of Sarum, before the governors of the General Infirmary, at their anniversary meeting, on Friday, September 29, 1769. By the Right Reverend Charles, Lord Bishop of St. David's.  1770 (catalogued 1770)"
+  ],
+  "moss-spg-1772": [
+   "sermonpreachedbe00moss",
+   "A sermon preached before the incorporated Society for the Propagation of the Gospel in Foreign Parts, at their anniversary meeting in the parish-church of St. Mary-le-Bow, on Friday, February 21, 1772 (London : Printed by T. Harrison and S. Brooke, 1772)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "moss-others": "the law, Greek reader, medical, botanical and Madagascar books are by other men named Moss"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "moss-lord-mayor-1750": {
+   "author": "Title page read from the page image: \"A Sermon Preached before the Right Honourable the Lord-Mayor ... on Tuesday in Easter-Week, 1750. By Charles Moss, D.D. Arch-Deacon of Colchester.\"",
+   "title": "Title page read from the page image: \"A Sermon Preached before the Right Honourable the Lord-Mayor ... on Tuesday in Easter-Week, 1750. By Charles Moss, D.D. Arch-Deacon of Colchester.\""
+  },
+  "moss-st-james-1756": {
+   "author": "Title page read from the page image: \"A Sermon Preached at the Parish Church of St. James, Westminster, On Friday, February 6, 1756 ... By Charles Moss, D.D. Rector of St. James's, Westminster.\"",
+   "title": "Title page read from the page image: \"A Sermon Preached at the Parish Church of St. James, Westminster, On Friday, February 6, 1756 ... By Charles Moss, D.D. Rector of St. James's, Westminster.\""
+  },
+  "moss-lords-1769": {
+   "author": "Title page read from the page image: \"A Sermon preached before the House of Lords ... on Monday, January 30, 1769 ... by the Right Reverend Father in God Charles Lord Bishop of St. David's.\" Charles Moss was Bishop of St David's from 1766 to 1774, so the office names him.",
+   "title": "Title page read from the page image: \"A Sermon preached before the House of Lords ... on Monday, January 30, 1769 ... by the Right Reverend Father in God Charles Lord Bishop of St. David's.\" Charles Moss was Bishop of St David's from 1766 to 1774, so the office names him."
+  },
+  "moss-sarum-1770": {
+   "author": "OCR of the title page: \"SERMON PREACHED In the Cathedral Church of SARUM, BEFORE THE GOVERNORS OF THE GENERAL INFIRMARY ... September 29, 1769 ... BY THE RIGHT REVEREND CHARLES Lord Bishop OF ST. DAVID's.\" Charles Moss was Bishop of St David's from 1766 to 1774, so the office names him.",
+   "title": "OCR of the title page: \"SERMON PREACHED In the Cathedral Church of SARUM, BEFORE THE GOVERNORS OF THE GENERAL INFIRMARY ... September 29, 1769 ... BY THE RIGHT REVEREND CHARLES Lord Bishop OF ST. DAVID's.\" Charles Moss was Bishop of St David's from 1766 to 1774, so the office names him."
+  },
+  "moss-spg-1772": {
+   "author": "OCR of the title page: \"SERMON Preached before the Incorporated Society FOR THE Propagation of the Gospel in Foreign Parts ... February 21, 1772. By the Right Reverend CHARLES Lord Bishop of St. DAVID's.\" Charles Moss was Bishop of St David's from 1766 to 1774, so the office names him.",
+   "title": "OCR of the title page: \"SERMON Preached before the Incorporated Society FOR THE Propagation of the Gospel in Foreign Parts ... February 21, 1772. By the Right Reverend CHARLES Lord Bishop of St. DAVID's.\" Charles Moss was Bishop of St David's from 1766 to 1774, so the office names him."
+  }
+ },
+ "_pending": {
+  "moss-abraham": "The Case of Abraham and Melchizedeck (1746), IA bim_eighteenth-century_the-case-of-abraham-and-_moss-charles-bishop-o_1746: the catalogue brackets the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "moss-commons-1798": "A Sermon preached before the House of Commons (1798), IA bim_eighteenth-century_a-sermon-preached-befor_moss-charles_1798: probably his son Charles Moss (1763-1811), later Bishop of Oxford; which Charles Moss is not settled",
+  "moss-sons-of-clergy-1799": "A Sermon preached at the Anniversary Meeting of the Sons of the Clergy (1799), IA bim_eighteenth-century_a-sermon-preached-at-the_moss-charles_1799: probably his son Charles Moss (1763-1811); which Charles Moss is not settled",
+  "moss-sequel": "The sequel to The tryal of the witnesses: wherein the evidence of the resurrection is cleared. In answer to a pamphlet, intitled, The resurrection of Jesus considered by a moral philosopher.  1757 (catalogued 1757) (IA bim_eighteenth-century_the-sequel-to-the-tryal-_moss-charles_1757): the printed title page names no author (only a manuscript note); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "moss-evidence-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "1744",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moss-lord-mayor-1750": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1750",
+   "ia_date": "1750",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moss-st-james-1756": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1756",
+   "ia_date": "1756",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moss-lords-1769": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1769",
+   "ia_date": "1769",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moss-sarum-1770": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1770",
+   "ia_date": "1770",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moss-spg-1772": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1772",
+   "ia_date": "1772",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

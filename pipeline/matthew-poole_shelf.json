@@ -1,0 +1,57 @@
+{
+ "_about": "Matthew Poole (1624-1679), ejected Presbyterian minister: Annotations upon the Holy Bible (London, 1683-1685, 2 vols folio). Poole himself wrote the notes to Isaiah 58; the rest were completed after his death by Jackson, Collinges, Hurst, Cooper, Vinke, Mayo, Veal, Adams, Barker, Howe and others. Vol. I runs Genesis to Isaiah, vol. II Jeremiah to Revelation. Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "matthew poole",
+  "matthew pool",
+  "mr. poole",
+  "m. poole"
+ ],
+ "_surname": [
+  "matthew poole",
+  "matthew pool",
+  "mr. poole",
+  "m. poole",
+  "mr. pool"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "poole-annotations-1-1683": [
+   "bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1683",
+   "Annotations upon the Holy Bible, vol. I, Genesis to Isaiah (London, 1683)"
+  ],
+  "poole-annotations-2-1685": [
+   "bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1685",
+   "Annotations upon the Holy Bible, vol. II, Jeremiah to Revelation (London, 1685)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1688_1/_2, _1696_1/_2, _1700_1/_2": "Later folio editions.",
+  "bim_early-english-books-1641-1700_synopsis-criticorum-alio_poole-matthew_1669-1676_1-2 .. _5": "Synopsis Criticorum (Latin, 1669-1676), not yet taken."
+ },
+ "_excluded": {},
+ "_checks": {
+  "poole-annotations-1-1683": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "matthew poole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1683",
+   "ia_date": "1683",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "poole-annotations-2-1685": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mr. pool",
+   "identity": "ok",
+   "ia_rights": "ok: published 1685",
+   "ia_date": "1685",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

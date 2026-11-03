@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-17T23:33-05:00: 439 shelves, 3175 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66; 33 (thirty-six shelves): 72; 34 (six shelves): 32; 35 (gap audit: four new shelves 46, plus 24 on seven older shelves): 70; 36 (audit +8, six new shelves 11): 19; 37 (gap-fill +6, twenty-seven shelves 97): 103; 38 (gap-fill +1, twenty-one shelves 46): 47; 39 (fifty-two shelves): 99; 40 (three shelves): 93; 41 (three shelves): 124; 42 (two shelves): 96; 43 (two shelves): 106; 44 (one shelves): 68; 45 (one shelves): 72; 46 (two shelves): 119; 47 (one shelves): 51; 48 (one shelves): 99; 49 (one shelves): 84; 50 (Garnett gap-fill +1): 1; 51 (period scans for HTML-only titles, +9 on three older shelves): 9; 52 (one shelf): 26; 53 (Maude gap-fill, +8): 8; 54 (Scott Moncrieff gap-fill, +2): 2; 55 (one new shelf 5, +2 on two older shelves): 7; 56 (one shelf): 9; 57 (one new shelf 4, +1 on broadway-library): 5; 58 (one new shelf 2, +2 on two older shelves): 4; 59 (one shelf): 8; 60 (one shelf): 10; 61 (wisdom-of-the-east gap-fill): 16; 62 (one shelf): 11; 63 (sacred-books-of-the-east gap-fill): 16; 64 (SBE 11, legge 6): 17; 65 (one shelf): 17; 66 (one shelf): 9; 67 (one shelf): 9; 68 (one shelf): 13; 69 (one shelf): 8; 70 (one shelf): 12; 71 (one shelf): 10; 72 (one shelf): 11; 73 (one shelf): 11; 74 (one shelf): 10; 75 (legge gap-fill): 8; 76 (one shelf): 6; 77 (one shelf): 4; 78 (edwin-arnold gap-fill): 4; 79 (griffith, whinfield and nicholson gap-fill): 12; 80 (one shelf): 9; 81 (payne gap-fill): 8; 82 (east-asian-classics gap-fill): 2; 83 (one shelf): 8; 84 (one shelf): 6; 85 (arabic-classics gap-fill): 3; 86 (one shelf): 18; 87 (one shelf): 4; 88 (one shelf): 7; 89 (one shelf): 5; 90 (Scandinavian gap-fill): 4; 91 (scandinavian-classics gap-fill): 3; 92 (one shelf and three gap-fills): 18; 93 (one shelf and a gap-fill): 13; 94 (one shelf): 20; 95 (one shelf): 8; 96 (one shelf and a gap-fill): 15; 97 (two gap-fills): 17; 98 (a gap-fill): 11; 99 (one shelf): 11; 100 (a gap-fill): 7; 101 (two gap-fills): 4; 102 (one shelf): 8; 103 (a gap-fill of 4, and 5 earlier titles moved to _pending): -1; 104 (lady-wallace +11): 11; 105 (italian-classics +17): 17; 106 (ww-waters +4, benecke +1, steegmann +1): 6; 107 (singles-nonfiction-2 +2, singles-literature +1, italian-classics +1): 4; 108 (one shelf): 9; 109 (pinkerton +3, seltzer +1, singles-fiction-3 +2): 6; 110 (one shelf, loew 4; bowring +1, singles-plays-poetry-2 +1, singles-fiction-3 +2): 8; 111 (hispanic-classics +5, singles-nonfiction-2 +1): 6; 112 (selver +7, singles-fiction-3 +1, singles-arts-miscellany +1): 9; 113 (french-classics +4, ts-perry +2): 6; 114 (french-classics +3, italian-classics +2): 5; 115 (broadway-translations +1, singles-fiction-3 +1): 2; 116 (curtin +1, dole +1, singles-fiction-3 +3): 5; 117 (singles-fiction-3 +4, cw-stork +1): 5; 118 (morris-magnusson +2, scandinavian-classics +1): 3; 119 (hispanic-classics +3): 3. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-23T08:58-05:00: 441 shelves, 3636 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66; 33 (thirty-six shelves): 72; 34 (six shelves): 32; 35 (gap audit: four new shelves 46, plus 24 on seven older shelves): 70; 36 (audit +8, six new shelves 11): 19; 37 (gap-fill +6, twenty-seven shelves 97): 103; 38 (gap-fill +1, twenty-one shelves 46): 47; 39 (fifty-two shelves): 99; 40 (three shelves): 93; 41 (three shelves): 124; 42 (two shelves): 96; 43 (two shelves): 106; 44 (one shelves): 68; 45 (one shelves): 72; 46 (two shelves): 119; 47 (one shelves): 51; 48 (one shelves): 99; 49 (one shelves): 84; 50 (Garnett gap-fill +1): 1; 51 (period scans for HTML-only titles, +9 on three older shelves): 9; 52 (one shelf): 26; 53 (Maude gap-fill, +8): 8; 54 (Scott Moncrieff gap-fill, +2): 2; 55 (one new shelf 5, +2 on two older shelves): 7; 56 (one shelf): 9; 57 (one new shelf 4, +1 on broadway-library): 5; 58 (one new shelf 2, +2 on two older shelves): 4; 59 (one shelf): 8; 60 (one shelf): 10; 61 (wisdom-of-the-east gap-fill): 16; 62 (one shelf): 11; 63 (sacred-books-of-the-east gap-fill): 16; 64 (SBE 11, legge 6): 17; 65 (one shelf): 17; 66 (one shelf): 9; 67 (one shelf): 9; 68 (one shelf): 13; 69 (one shelf): 8; 70 (one shelf): 12; 71 (one shelf): 10; 72 (one shelf): 11; 73 (one shelf): 11; 74 (one shelf): 10; 75 (legge gap-fill): 8; 76 (one shelf): 6; 77 (one shelf): 4; 78 (edwin-arnold gap-fill): 4; 79 (griffith, whinfield and nicholson gap-fill): 12; 80 (one shelf): 9; 81 (payne gap-fill): 8; 82 (east-asian-classics gap-fill): 2; 83 (one shelf): 8; 84 (one shelf): 6; 85 (arabic-classics gap-fill): 3; 86 (one shelf): 18; 87 (one shelf): 4; 88 (one shelf): 7; 89 (one shelf): 5; 90 (Scandinavian gap-fill): 4; 91 (scandinavian-classics gap-fill): 3; 92 (one shelf and three gap-fills): 18; 93 (one shelf and a gap-fill): 13; 94 (one shelf): 20; 95 (one shelf): 8; 96 (one shelf and a gap-fill): 15; 97 (two gap-fills): 17; 98 (a gap-fill): 11; 99 (one shelf): 11; 100 (a gap-fill): 7; 101 (two gap-fills): 4; 102 (one shelf): 8; 103 (a gap-fill of 4, and 5 earlier titles moved to _pending): -1; 104 (lady-wallace +11): 11; 105 (italian-classics +17): 17; 106 (ww-waters +4, benecke +1, steegmann +1): 6; 107 (singles-nonfiction-2 +2, singles-literature +1, italian-classics +1): 4; 108 (one shelf): 9; 109 (pinkerton +3, seltzer +1, singles-fiction-3 +2): 6; 110 (one shelf, loew 4; bowring +1, singles-plays-poetry-2 +1, singles-fiction-3 +2): 8; 111 (hispanic-classics +5, singles-nonfiction-2 +1): 6; 112 (selver +7, singles-fiction-3 +1, singles-arts-miscellany +1): 9; 113 (french-classics +4, ts-perry +2): 6; 114 (french-classics +3, italian-classics +2): 5; 115 (broadway-translations +1, singles-fiction-3 +1): 2; 116 (curtin +1, dole +1, singles-fiction-3 +3): 5; 117 (singles-fiction-3 +4, cw-stork +1): 5; 118 (morris-magnusson +2, scandinavian-classics +1): 3; 119 (hispanic-classics +3): 3; 120 (Russian gap-fill II): 9; 121 (one new shelf and four gap-fills): 13; 122 (French gap-fill): 9; 123 (French gap-fill II): 13; 124 (Italy, Iberia, Greece, Georgia): 8; 125 (German moderns): 10; 126 (Scandinavian): 7; 127 (Goldberg): 10; 128 (Teixeira): 11; 129 (Clara Bell): 15; 130 (Upton etc.): 11; 131 (Miall): 26; 132 (Paul): 15; 133 (Hogarth etc.): 16; 134 (Wister, Safford): 17; 135 (De Leon etc.): 10; 136 (Ludovici, Roscoe): 14; 137 (Markham): 16; 138 (Dent Balzac, Bain): 21; 139 (Waley, Giles, Burton): 9; 140 (Carlyle, Borrow): 4; 141 (Ensor, Brooks, Frewer): 12; 142 (Howitt, Marx-Aveling, Colbron): 15; 143 (Duff Gordon, Muir, Hearn, Dowson): 5; 144 (Ranous, Williams, Marshall): 3; 145 (Alger, Seltzer, Agnetti, Ainslie): 10; 146 (Werner, Delano, Symons): 6; 147 (Barrett H. Clark): 6; 148 (Burnham, Boylan, Bucknall, Brose, Campion, Atkinson): 13; 149 (Coleman, Cournos, Cowell, Murphy): 4; 150 (Schmitz, MacCarthy): 9; 151 (Martin, Drillien, Dunstan, Underwood, Bussy): 12; 152 (Brooks, Frothingham, Hill, Holt): 7; 153 (archive F): 15; 154 (archive G): 8; 155 (archive H): 13; 156 (archive I-L): 13; 157 (archive M): 8; 158 (archive N-R): 4; 159 (archive S-Z): 10; 160 (Roscoe): 2; 162 (Dutt ruling): 9; 163 (Fleming ruling): 13. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 **RESUMED 2026-10-17T16:40-05:00 in burn mode (Adam, relayed 2026-10-17 21:33Z): every Garnett translation first, then the resume plan.** Paused 2026-10-10 after round 49. Plato/Aristotle are Lane B's, Aquinas a new thread's, Lang/Lamb Lane D's: skipped here. Resume plan: (1) re-check the ~149 unshelved single-translator ids; (2) look for period Internet Archive scans of the HTML-only items in _pending (Principia, Menabrea/Lovelace, Van Gogh, six physics books); (3) apply Adam's rulings on the 1930 override, facsimiles and late reprints once given.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
@@ -1560,3 +1560,797 @@ Ids were checked across all branches: no clashes. Verified and recorded: 0 misma
 ## Paused (2026-10-17T23:34-05:00)
 
 Adam asked to pause the project. Lane C stopped after round 119; everything is committed and pushed, and no item is half-done. Totals: 439 shelves, 3,175 titles (392 new shelves and 2,996 titles since Adam's 2026-10-10 message). Resume point: round 120, gap-fill. Leads not yet worked: Wergeland (the 1919 Blackwell scan would not load), Blest Gana's Martin Rivas in English (only a Spanish school edition found), Leoni's Alberti (the 1755 scan's OCR is unreadable), and Remizov, Pisemsky and Griboyedov (no English printing before 1931 found on archive.org).
+
+## Resumed (2026-10-23)
+
+Adam's standing ask of 2026-10-22: ingest more titles and clear the backlog. A fresh thread found Gutenberg, archive.org and CCEL all loading again, so lane C resumed at round 120.
+
+**Garnett recheck.** archive.org `30081000790570` is Garnett's complete *War and Peace* in a Heinemann printing of 1925 ("Popular Edition, 1911; New Impression, 1925"), Vanderbilt's copy, title page read. It is pre-1931 and would give the two missing volumes. But it was uploaded on 2026-10-22 and is still arriving: 264 page texts of about 1,536, stopping at page 256, with no full-text file yet. It is logged in garnett `_pending`; the next worker should recheck it. The Gogol plays and *Mirgorod* were searched again: still nothing pre-1931 (the DLI *Mirgorod* is a Moscow Foreign Languages edition).
+
+## Round 120: Russian gap-fill II (2026-10-23)
+
+Nine titles added to five existing shelves, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page:
+
+- **`hapgood`** (+1): Leskov's *The Cathedral Folk* (Knopf, 1924).
+- **`jd-duff`** (+2): Aksakov's *Years of Childhood* (Edward Arnold, 1916) and *A Russian Schoolboy* (1917).
+- **`singles-fiction-3`** (+2, now 83): Leskov's *The Sentry, and Other Stories*, translated by A. E. Chamot (Knopf, 1923); Turgenev's *Liza*, translated by W. R. S. Ralston (Chapman and Hall, 1869), a second witness beside Garnett's *House of Gentlefolk* (lane D's ralston shelf had left it out as outside its ask).
+- **`singles-nonfiction-2`** (+2): Veresaev's *In the War*, translated by Leo Wiener (Kennerley, 1917), and *The Confessions of a Physician*, translated by Simeon Linden (Grant Richards, catalogued 1904).
+- **`singles-plays-poetry-2`** (+2): Krylov twice, Ralston's *Krilof and His Fables* (Cassell, fourth edition, 1883) and I. Henry Harrison's *Kriloff's Original Fables* (Remington, 1883).
+- **Left out:** M. C. Beverley's Aksakov, *Chronicles of a Russian Family* (Broadway Translations), prints no year, so it waits in jd-duff `_pending`. Pares's *Krylov's Fables* (1927) has an empty text layer on archive.org. The Knopf "1918" *Martin Rivas* on archive.org is again Umphrey's Spanish school edition.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. The Wiener of *In the War* is the Wiener of the wiener-tolstoy shelf (the scan's series page reads "The Slavic Translations by Leo Wiener"). Years flagged by the evidence check and read by eye: 2026 and 2016 are Internet Archive digitising lines; Linden's title page shows no year in the OCR.
+
+## Round 121: Russian gap-fill III (2026-10-23)
+
+Thirteen titles, one new shelf and four existing ones, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page:
+
+- **`eugene-schuyler`** (new, 2): the American diplomat Eugene Schuyler's *Fathers and Sons* (Leypoldt & Holt, New York, 1867), the first English Turgenev novel from the Russian, and Tolstoy's *The Cossacks* (Sampson Low, London, 1878).
+- **`hapgood`** (+1): Gogol's *Taras Bulba* (Knopf, copyright 1915, second printing April 1916; her version was first published in 1886).
+- **`yarmolinsky`** (+1): Babette Deutsch and Avrahm Yarmolinsky's *Modern Russian Poetry: an Anthology* (Harcourt, Brace, 1921).
+- **`singles-fiction-3`** (+5, now 88): Turgenev's *Spring Floods* (Sophie Michell Butts) with *A Lear of the Steppe* (William Hand Browne) (Crowell, copyright 1874); Kuprin's *The Bracelet of Garnets* (Leo Pasvolsky, Scribner, 1917); Beatrix L. Tollemache's *Russian Sketches, Chiefly of Peasant Life* (Smith, Elder, 1913; Leskov and others); B. C. Baskerville's *Taras Bulba* (Walter Scott, 1907); Mrs. J. Buchan Telfer's Pushkin, *Russian Romance* (H. S. King, 1875).
+- **`singles-plays-poetry-2`** (+4, now 46): Lermontov's *The Demon* three times, by Alexander Condie Stephen (London, 1875), Francis Storr (Rivington, 1894) and Robert Burness (Douglas & Foulis, 1918); and B. A. Rudzinsky and Stella Gardiner's *Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov, Count A. Tolstoy* and others, Russian text with English (H. S. Marshall, preface April 1917).
+- **Left out:** archive.org `vanturgnieff00turgrich`, catalogued as Holt's 1874 *Spring Floods*, is Garnett's *Smoke* (Heinemann, 1914), already held. The Gottsberger 1887 *Cossacks* has no usable title page in its OCR, so the 1878 Schuyler scan is used.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+Two things to know. The Crowell *Spring Floods* is copyright 1874 but the printing itself is undated; "Thomas Y. Crowell & Co." is the firm's 19th-century style, so it is shelved (**your call** if you want it held with the undated printings). The Burness *Demon* carries a "Preservation copy added, original to be retained" stamp; that marks the scanned volume as the retained original, not a photocopy. Years flagged by the evidence check and read by eye: in *Fathers and Sons*, 1941 is a Harvard accession stamp; in Tollemache, 1997 is in a library barcode block.
+
+## Round 122: French gap-fill: Bazin, Ohnet, Theuriet (2026-10-23)
+
+Nine titles added to two existing shelves, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page:
+
+- **`singles-continental-fiction`** (+8, now 72): René Bazin four times, *The Coming Harvest* (Edna K. Hoyt, Scribner, 1908), *The Barrier* (Mary D. Frost, Scribner, 1910), *The Penitent* (M. Harriet M. Capes, Lippincott, 1912) and *Gentle France* (Mary Dougherty, Gill, Dublin, 1913); Georges Ohnet twice, *The Double Wrong* (Le docteur Rameau; J. C. Curtin, Pollard & Moss, 1889) and *A Debt of Hatred* (E. P. Robins, Cassell, New York, 1891); André Theuriet twice, *Rustic Life in France* (Helen B. Dole, Crowell, 1896) and *A Mistress of Many Moods* (Charlotte Boardman Rogers, Abbey Press, 1900).
+- **`rothwell`** (+1, now 6): Ohnet's *In Deep Abyss* (Funk & Wagnalls, 1901). The shelf now also gates on 'fred. rothwell', the form this title page prints.
+- None of Bazin, Theuriet or these Ohnet novels was on any shelf on any branch before this round.
+- **Left out, translator not named on the title page:** Bazin's *The Nun* (Scribner, 1908), *The Children of Alsace* (John Lane, 1912) and *The Ink-Stain* (1910); Theuriet's *Song Birds and Seasons* (1888), *A Woodland Queen* (the Immortals series) and *Helene's Sweetheart* (the OCR garbles the name); Ohnet's *A Last Love* and *The Money-Maker*. Osborne's *The Ironmaster* (1884, 3 vols) signs only "Lady G. O."; it is a candidate for an identity override in a later round.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. The evidence check flagged no post-1930 years in the front matter; 1941 (*The Penitent*) and 1934 (*Gentle France*) are library stamps at the back of the scans.
+
+## Round 123: French gap-fill II (2026-10-23)
+
+Thirteen titles added to two existing shelves, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page:
+
+- **`alys-hallard`** (+4, now 8): Pierre de Coulevain four times, *On the Branch* (Dutton, 1909), *The Unknown Isle* (Cassell, 1911), *American Nobility* (Dutton, 1913) and *The Wonderful Romance* (Dodd, Mead, 1914). The shelf now also gates on bare 'hallard': two Dutton title pages print her first name illegibly in the OCR.
+- **`singles-continental-fiction`** (+9, now 81): Cherbuliez's *Miss Rovel* (Frances A. Shaw, Estes & Lauriat, 1875); Marcel Prévost's *Benoît Castain* (Arthur C. Richmond, Macmillan, 1916) and *Simply Women* (R. I. Brandon-Vauvillez, Macaulay, 1910); Alphonse Karr's *A Tour Round My Garden* (the Rev. J. G. Wood, Routledge, 1856); Édouard Rod's *Pastor Naudié's Young Wife* (Bradley Gilman, Little, Brown, 1899) and *The Sacrifice of Silence* (John W. Harding, Dillingham, 1899); Maurice Barrès's *The Undying Spirit of France* (Margaret W. B. Corwin, Yale, 1917) and *The Faith of France* (Elisabeth Marbury, Houghton Mifflin, 1918); Ludovic Halévy's *A Love Match* (H. de Veer and V. Foster, J. Delay, 1889; the title page names him only as "the author of L'Abbé Constantin").
+- None of Coulevain, Cherbuliez, Prévost, Karr, Rod or Barrès was on any shelf on any branch before this round.
+- **Pending:** Prévost's *Frédérique*, translated by Ellen Marriage (Crowell), is an undated printing, so it waits in ellen-marriage `_pending`.
+- **Left out, translator not named:** Cherbuliez's *Meta Holdenis* and *Samuel Brohl and Partner* (Vizetelly's series), *Jean Têterol's Idea* (Appleton), Prévost's *Guardian Angels*, Rod's *The White Rocks* and *The Private Life of an Eminent Politician*, Brough's Karr (*The Alain Family*: no text layer worth using).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: 1993 in the Karr is a library date stamp.
+
+## Round 124: Italy, Iberia, Greece and Georgia (2026-10-23)
+
+Eight titles added to four existing shelves, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page:
+
+- **`italian-classics`** (+3, now 38): Neera's *The Soul of an Artist* (E. L. Murison, Paul Elder, 1905); Anton Giulio Barrili's *A Noble Kinsman* (H. A. Martin, Fisher Unwin, 1885); Manzoni's *The Sacred Hymns* and *The Napoleonic Ode* in verse (the Rev. Joel Foote Bingham, Frowde, 1904).
+- **`hispanic-classics`** (+2, now 24): Alarcón's *The Three-Cornered Hat* (Jacob S. Fassett Jr., Knopf, 1918); Júlio Dinis's Portuguese novel *The Fidalgos of Casa Mourisca* (Roxana L. Dabney, Lothrop, 1891).
+- **`singles-fiction-3`** (+2, now 90): Demetrios Vikelas's *Loukis Laras* (J. Gennadius, Macmillan, 1881) and *Tales from the Aegean* (Leonard Eckstein Opdycke, McClurg, 1894).
+- **`singles-plays-poetry-2`** (+1, now 47): Shota Rustaveli's Georgian epic *The Man in the Panther's Skin* (Marjory Scott Wardrop, Royal Asiatic Society, 1912).
+- None of Neera, Barrili, Dinis, Vikelas or Rustaveli was on any shelf on any branch before this round.
+- **A Martin Rivas lead:** Knopf's series list in the Alarcón names *Martin Rivas* as Spanish Translations III, so an English *Martin Rivas* (Knopf, about 1918) exists. No scan of it was found on archive.org.
+- **Left out, translator not named:** Barrili's *The Eleventh Commandment* (1883) and *The Devil's Portrait*; Vazov's *Under the Yoke* (Heinemann, 1912 issue); Appleton's *The Betrothed* (1898); Vizetelly's Alarcón (*Captain Spitfire*, *The Three-Cornered Hat*, 1882-86).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: 2025 and 2026 are Internet Archive digitising lines.
+
+## Round 125: German moderns of the 1920s (2026-10-23)
+
+Ten titles, one new shelf and four existing ones, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page. Everything here was first published in English before 1930 and is US public domain:
+
+- **`willa-edwin-muir`** (new, 2): Lion Feuchtwanger's *Power* (Viking, first published October 1926; this is a 1928 printing) and *The Ugly Duchess* (Viking, 1928).
+- **`lowe-porter`** (+1): Thomas Mann's *The Magic Mountain* (Martin Secker, London; first published in England 1927, this is the one-volume reprint of 1928).
+- **`scheffauer`** (+1): Mann's *Children and Fools* (Knopf, 1928).
+- **`singles-plays-poetry-2`** (+5, now 52): Franz Werfel's *Goat Song* and *Juarez and Maximilian* (Ruth Langner, Theatre Guild, 1926); Ernst Toller's *Masses and Man* (1923) and *Brokenbrow* (Vera Mendel, Nonesuch Press); Georg Kaiser's *From Morn to Midnight* (Ashley Dukes, Brentano's, 1922).
+- **`singles-fiction-3`** (+1, now 91): Wilhelm Jensen's *Gradiva: a Pompeiian Fancy* (Helen M. Downey, Moffat, Yard, 1918).
+- None of Feuchtwanger, Werfel, Toller or Kaiser was on any shelf on any branch before this round.
+- **Pending:** Feuchtwanger's *Success* (Secker, 1930) waits on your 1930 ruling, like the other 1930 translations (fetch_shelf.py still refuses 1930).
+- **Left out:** every other open *Magic Mountain* scan is a later printing (1939 to 1961, or Modern Library); the open *Buddenbrooks* and *Death in Venice* scans are 1931 or later; *Jew Süss* is *Power* under its British title; Kellermann's *The Tunnel* (1915), Werfel's *The Death of a Poor Man* and Jensen's *Runic Rocks* and *Karine* print no legible translator.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: 2024 is an Internet Archive digitising line; '1997' in the Secker *Magic Mountain* is the OCR's misreading of 1927.
+
+## Round 126: Scandinavian novels of the 1920s (2026-10-23)
+
+Seven titles on three existing shelves, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page. Everything here was first published in English before 1930 and is US public domain:
+
+- **`chater`** (+3, now 10): Sigrid Undset's *The Axe* (The Master of Hestviken I, Knopf, 1928), Verner von Heidenstam's *The Tree of the Folkungs* (Knopf, 1925) and Herman Bang's *Ida Brandt* (Knopf, 1929).
+- **`cw-stork`** (+2, now 6): Heidenstam's *The Charles Men*, Part II (American-Scandinavian Foundation, 1920; Part I was already on the shelf) and *The Swedes and Their Chieftains* (1925).
+- **`singles-fiction-3`** (+2, now 93): Undset's *The Mistress of Husaby* (Kristin Lavransdatter II, Charles Archer; a Grosset & Dunlap fourth printing, December 1928) and Juhani Aho's *Squire Hellman and Other Stories* (R. Nisbet Bain, Fisher Unwin, 1893).
+- **Left out:** Heidenstam's *A King and His Campaigners* prints no translator on its title page; the open *Snake Pit* scan is a 1950s reprint; the other open Kristin Lavransdatter scans are 1935 or later.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: 1983 and 1992 to 1994 in *The Tree of the Folkungs* are library date stamps; 2025 in the Aho is the Internet Archive digitising line.
+
+## Round 127: Isaac Goldberg's Yiddish and Italian plays (2026-10-23)
+
+Ten titles on three existing shelves, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page. Everything here was first published in English before 1930 and is US public domain:
+
+- **`isaac-goldberg`** (+8, now 17): Sholom Asch's *The God of Vengeance* (Stratford, 1918) and *Uncle Moses* (Dutton, 1920); *Six Plays of the Yiddish Theatre* (Pinski, Asch, Hirschbein and Sholom Aleichem; Luce, 1916) and its *Second Series* (Pinski, Hirschbein, Levin and Kobrin; 1918); David Pinski's *Three Plays* (Huebsch, 1918), *Ten Plays* (1920) and *King David and His Wives* (1923); and *Plays of the Italian Theatre* (Verga, Morselli, Lopez and Pirandello; Luce, 1921). Until now the shelf held only Gutenberg texts.
+- **`lewisohn`** (+1, now 5): Pinski's *The Treasure* (Huebsch, 1915).
+- **`singles-fiction-3`** (+1, now 94): Asch's *America* (James Fuchs, Alpha Omega, 1918).
+- **Ten Plays** is not all Goldberg's: its publisher's note says *A Dollar* was first translated by Joseph Michael and *Diplomacy* by Harry Birnbaum, and Goldberg revised both. Recorded in the title's note.
+- **Left out:** the other open *God of Vengeance* scan is a library microfilm copy, so the Cornell print scan is used instead. Asch's *The Mother* (Liveright, 1930) waits on your 1930 ruling.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. *King David and His Wives* prints its year only in roman numerals (MCMXXIII), so the evidence check found no arabic year in its front matter; that was read by eye.
+
+## Round 128: Teixeira de Mattos beyond Gutenberg (2026-10-23)
+
+This round starts a sweep of the 318 translator shelves that hold only Gutenberg texts, looking on archive.org for the period printings Gutenberg lacks. Eleven titles, all on **`teixeira-de-mattos`** (now 70), each from a period scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain (he died in 1921):
+
+- **Maeterlinck:** *The Measure of the Hours* and *The Intelligence of the Flowers* (Dodd, Mead, 1907), and *The Light Beyond* (1917). Georgette Leblanc's *Maeterlinck's Dogs* (Methuen; US copyright 1919).
+- **Zola:** *The Heirs of Rabourdin* (Henry and Co., 1894, Independent Theatre Series).
+- **Memoirs and travel:** *Memoirs of Marshal Oudinot* (Henry, 1896), Jozef Israëls's *Spain: The Story of a Journey* (Nimmo, 1900), *The Memoirs of Paul Kruger* (Century, 1902), Fernand Grenard's *Tibet* (Hutchinson, 1904), G. H. Marius's *Dutch Painting in the Nineteenth Century* (Lippincott, 1908) and Boni de Castellane's *Men and Things of My Time* (Chatto, 1911).
+- **Swapped scan:** the Cornell copy of *Tibet* is a 1991 replacement volume (a photocopy), so the Digital Library of India scan of the 1904 printing is used instead.
+- **Name form added:** 'de mattos', because the *Rabourdin* title page breaks his name across a line ("TEIXEI-RA DE MATTOS").
+- **Left out:** Paoli's *My Royal Clients* is the British title of *Their Majesties as I Knew Them*, already on the shelf; the only open *Exploits of Arsène Lupin* is a 1960s reissue; Ewald's books stay with the ewald shelf, as before; only volume II of *The Souvenirs of Léonard* (1897) was found, so it waits for volume I.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: 1990 in *The Measure of the Hours* is a library date stamp.
+
+## Round 129: Clara Bell beyond Gutenberg (2026-10-23)
+
+The sweep of Gutenberg-only translator shelves continues. Fifteen titles, all on **`clara-bell`** (now 61), each from a period archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **Galdós:** *Trafalgar* (Gottsberger, 1884) and *The Court of Charles IV* (1888).
+- **Loti:** *From Lands of Exile* (Gottsberger, 1888), *A Child's Romance* (1891) and *Disenchanted* (Macmillan, 1906).
+- **German:** Auerbach's *Brigitta* (Tauchnitz, 1880), Ebers's *Joshua* (with Margaret Bell; Tauchnitz, 1890, both volumes in one scan), C. F. Meyer's *The Tempting of Pescara* (Gottsberger, 1890), Moltke's *Letters to his Mother and his Brothers* (with Henry W. Fischer; Harper, 1892), and Spitta's *Johann Sebastian Bach* in three volumes (with J. A. Fuller Maitland; Novello, 1899 issue).
+- **Other:** Henrik Jæger's *The Life of Henrik Ibsen* (Heinemann, 1890, verse by Edmund Gosse), Firenzuola's *Of the Beauty of Women* (Osgood, McIlvaine, 1892) and W. Martin's *Gerard Dou* (Bell, 1902).
+- **Name form added:** 'margaret bell', because *Joshua* credits "Clara and Margaret Bell".
+- **Pending:** her *War and Peace* (from the French, Gottsberger, six volumes) lacks *The Invasion*, vol. I on archive.org; Galdós's *Gloria* has only vol. I open.
+- **Left out:** Ebers's *Egypt* (1881) and Haeckel's *A Visit to Ceylon* (1883) name her, but the OCR mangles the name past the identity gate. Balzac volumes in her hand are left for a separate check against the Balzac shelves.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: 1949 in *A Child's Romance* is a library accession stamp.
+
+## Round 130: Upton, Vizetelly and Koteliansky beyond Gutenberg (2026-10-23)
+
+The sweep continues. Eleven titles on three shelves, each from a period archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **`upton`** (+5, now 40): five more of McClurg's Life Stories for Young People: Lenk's *Marie Antoinette's Youth* (1908), Campe's *Francisco Pizarro*, Brüschweiler-Wilhelm's *Benjamin Franklin* and *Erik the Red, Leif the Lucky and Other Pre-Columbian Discoverers of America* (1911), and Pleninger's *David Livingstone* (1912). Upton's own music handbooks are not translations and stay out.
+- **`vizetelly`** (+1, now 18): Zola's *Germinal* (Chatto, 1901). The title page says "edited", but his preface says the translation is practically new.
+- **`koteliansky`** (+5, now 16): Dostoevsky's *Pages from the Journal of an Author* (with Murry; Luce, 1916), Chekhov's *My Life and Other Stories* (with Gilbert Cannan; Daniel, 1920), Zinaida Hippius's *The Green Ring* (Daniel, 1920), *Dostoevsky: Letters and Reminiscences* (with Murry; Chatto, 1923) and *Dostoevsky Portrayed by His Wife* (Routledge, 1926).
+- **Pending:** *The Life and Letters of Anton Tchekhov* (with Tomlinson; Cassell, 1925): the scan's date leaf is illegible.
+- **Left out:** Zola volumes where Vizetelly is only the editor (*The Dram-Shop*, *The Joy of Life*, *The Honour of the Army*); his *Doctor Pascal* (1893), whose OCR mangles his name past the identity gate; and *The Mysteries of Marseilles*, which is Edward Vizetelly's.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years read by eye: 2015 in *Dostoevsky Portrayed by His Wife* is a library stamp; the OCR reads 1901 as "IQOL" in *Germinal* and 1920 as "L020" in *My Life*.
+
+## Round 131: Bernard Miall beyond Gutenberg (2026-10-23)
+
+The sweep continues with its largest find so far. Twenty-six titles, all on **`bernard-miall`** (now 36), each from a period archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **Literature and ideas:** Maeterlinck's *Sister Beatrice and Ardiane and Barbe Bleue* (Dodd, Mead; copyright 1901, a 1906 printing) and *The Great Secret* (Century, 1922); Le Bon's *The Psychology of Revolution* (Fisher Unwin, 1913) and *The World in Revolt* (1921); Romain Rolland's *A Musical Tour through the Land of the Past* (Holt, 1922); Anatole France's *On Life and Letters*, fourth series (with J. Lewis May, 1924); Müller-Freienfels's *Mysteries of the Soul* (Allen & Unwin, 1929).
+- **History and politics:** *New Chapters of Bismarck's Autobiography* (Hodder, 1920); Eduard Bernstein's *My Years of Exile* (Parsons, 1921); Gregor Alexinsky's *Modern Russia* (1913), *Russia and the Great War* (Scribner, 1915) and *Russia and Europe* (1917); Raymond Poincaré's *How France Is Governed* (1913); Paul Sabatier's *A Frenchman's Thoughts on the War* (1915); Augustin Hamon's *Lessons of the World-War* (Dodd, Mead, 1919); E. Barthez's *The Empress Eugénie and Her Circle* (Brentano's, 1913); Gerlache's *Belgium in War Time* (Hodder, 1917); Jean Massart's *The Secret Press in Belgium* (1918).
+- **Science and medicine:** Jules Amar's *The Physiology of Industrial Organisation* (1918) and J. Héricourt's *The Social Diseases* (Routledge, 1920).
+- **Travel:** Alfred Bertrand's *The Kingdom of the Barotsi* (1899), d'Ollone's *In Forbidden China* (Small, Maynard, 1912), Cabaton's *Java, Sumatra* (1911), Paul Walle's *Bolivia* (1914), Hérubel's *Sea Fisheries* (1912) and J. A. Sauter's *Among the Brahmins and Pariahs* (1924).
+- **Name form added:** 'a. b. miall', the form on the *Barotsi* title page.
+- **Pending:** *Master Johann Dietz* (Allen & Unwin; no English year in the scan); Aulard's four-volume *French Revolution* (1910), whose scans mix printings and need sorting; Maeterlinck's *The Life of the Ant* (1930) waits on your 1930 ruling.
+- **Left out:** *You and the Universe* is Paul Karlson's 1936 book, catalogued as 1913; Erzberger's *League of Nations* (1919) splits his name in the OCR past the identity gate; one other item names him only in an advertisement. A note from another lane had left Le Bon's *Psychology of Revolution* for this shelf; it is shelved here from a 1913 scan, because the Gutenberg file does not name him.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years read by eye: 1950 and 1951 in *A Musical Tour* are due-date stamps.
+
+## Round 132: Eden and Cedar Paul beyond Gutenberg (2026-10-23)
+
+Fifteen titles, all on **`eden-cedar-paul`** (now 25), each from a period archive.org scan with the translators and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **Emil Ludwig:** *Bismarck: The Story of a Fighter* (copyright 1927; this printing's history ends at a November 1929 reprint), *The Son of Man* (1928) and *On Mediterranean Shores* (Allen & Unwin, 1929).
+- **History and politics:** Masaryk's *The Spirit of Russia* (Allen & Unwin, 1919, both volumes), Robert Michels's *Political Parties* (Hearst's, 1915), Achille Loria's *The Economic Synthesis* (1914, Eden Paul alone), Walther Rathenau's *In Days to Come* (Knopf, 1921), Rosa Luxemburg's *Letters from Prison* (Berlin, 1923) and Stalin's *Leninism* (International Publishers, 1928).
+- **Psychology and science:** Charles Baudouin's *Suggestion and Autosuggestion* (Dodd, Mead, 1921) and *Studies in Psychoanalysis* (1922), Aurel Kolnai's *Psychoanalysis and Sociology* (Harcourt, 1922), the Vaertings' *The Dominant Sex* (Allen & Unwin, 1923) and Hugo Ribbert's *Heredity, Disease and Human Evolution* (1918).
+- **Swapped scan:** one Indian scan of *The Spirit of Russia*, vol. 2, misreads their name ("CKDAR"), so another copy of the same 1919 printing is used.
+- **Pending:** four printings with no English year in the scan (Plekhanov's *Fundamental Problems of Marxism*, Aretz's *Napoleon and His Women Friends*, *A New School in Belgium*, *The Industrial Development of Palestine*); Janet's *Psychological Healing* (vol. II only as a later reprint); Treitschke's seven-volume *History of Germany* (to sort); and three 1930 books (Zweig's *Three Masters*, Ludwig's *Lincoln*, *Chronos*) for your 1930 ruling.
+- **Left out:** their own books (*Creative Revolution*, *Proletcult*, *The Appreciation of Poetry*), and the sexology titles the shelf already sets aside by judgment (Kisch, Moll, *A Young Girl's Diary*).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years read by eye: 2010, 2011 and 2020 are digitising lines.
+
+## Round 133: Hogarth, Bernstein, Allinson and Worster beyond Gutenberg (2026-10-23)
+
+Sixteen titles on four shelves, each from a period archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **`cj-hogarth`** (+6, now 16): V. O. Kluchevsky's *A History of Russia*, vols. 1 to 4 (Dent, 1911, 1912, 1913 and 1926); Evgenii Soloviev's *Dostoievsky: His Life and Literary Activity* (Allen & Unwin, 1916); Ivan Shmelov's *The Sun of the Dead* (Dent, 1927).
+- **`herman-bernstein`** (+2, now 11): Gorky's *Foma Gordeyev* (Ogilvie, 1901) and Andreyev's *Samson in Chains* (Brentano's, 1923).
+- **`allinson`** (+4, now 13): Anatole France's *The Garden of Epicurus* (Lane, 1908) and *The Human Tragedy* (Lane, 1916), Dumas's *My Pets* (Methuen, 1909) and Hector Fleischmann's *An Unknown Son of Napoleon* (Nash, 1914).
+- **`worster`** (+4, now 12): Selma Lagerlöf's *The Outcast* (Doubleday, 1922), Johannes Linnankoski's *The Song of the Blood-Red Flower* (Moffat, Yard, 1921), Johannes Buchholtz's *The Miracles of Clara van Haag* (Knopf, 1922) and Kreutz's *Captain Zillner* (Hodder, 1919).
+- **Pending (no year in the scan):** Dumas's *Georges* (Methuen) and Franz de Jessen's *Katya* (Luce).
+- **Left out:** Kluchevsky vol. 5 (1931); both open *Letters from the Underworld* are later Everyman printings; the one-volume *Childhood, Boyhood and Youth* repeats books already shelved.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years read by eye: 2000 is a due-date stamp; 2010, 2018 and 2020 are digitising lines.
+
+## Round 134: Mrs. A. L. Wister and Mary J. Safford beyond Gutenberg (2026-10-23)
+
+Seventeen titles on two shelves, each from a period archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **`wister`** (+8, now 22): Lippincott's German romances in her translation: Marlitt's *The Second Wife* (an 1888 printing; first 1874) and *The Bailiff's Maid* (1881), Ludwig Harder's *A Family Feud* (1877), Volckhausen's *Why Did He Not Die?* (1871), W. Heimburg's *A Penniless Girl* (1885), E. Oswald's *Vain Forebodings* (1886), Zöge von Manteuffel's *Violetta* (1886), and Eichendorff's *Leaves from the Life of a Good-for-Nothing* (1889).
+- **`safford`** (+9, now 32): Ebers's *Lorenz Alma Tadema* (Gottsberger, 1886), Élie Berthet's *The Pre-historic World* (Porter & Coates, 1879), Nataly von Eschstruth's *The Opposite House* (1894), Max Nordau's *The Right to Love* (1895) and *A Question of Honor* (Luce, 1907), the *Poems* of Johanna Ambrosius (Roberts, 1896), Albert Boissière's *The Missing Finger* (Dodd, Mead, 1911), and Jean Finot's *Problems of the Sexes* (Putnam, 1913) and *The Science of Happiness* (1914).
+- **Read by eye:** in *A Penniless Girl* and *The Science of Happiness* the OCR garbles the translator's name on the title page; the title pages were read by eye, and the identity gate passes on her name in the publisher's list at the back.
+- **Left out:** Raimund's *From Hand to Hand* (1882), whose OCR garbles her name everywhere ("WISTEB"), so the gate cannot pass; Safford's own *Lorelei and Other Stories* is not a translation.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years read by eye: 1934 in *A Question of Honor* is a Cornell gift bookplate.
+
+## Round 135: De Leon, Wraxall, McCabe and Rasmus Anderson beyond Gutenberg (2026-10-23)
+
+Ten titles on four shelves, each from a period archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **`de-leon`** (+1, now 20): Karl Kautsky's *The Working Class*, "translated and adapted to America" (New York Labor News, 1900).
+- **`wraxall`** (+4, now 27): Alphonse Esquiros's *The Dutch at Home* (Chapman and Hall, 1861, both volumes), *Recollections of Russia during Thirty-three Years' Residence* by a German nobleman (Constable, 1855), and Wagner and Bodenstedt's *Schamyl* (1854).
+- **`mccabe`** (+2, now 11): Konrad Guenther's *Darwinism and the Problems of Life* (Owen, 1906) and Rudolf Eucken's *His Life, Work and Travels* (Fisher Unwin, 1921).
+- **`rasmus-anderson`** (+3, now 11): Bjørnson's *Synnøve Solbakken*, *The Bridal March and Other Stories* and *The Fisher Maiden*, all in the Bickers author's edition (London, 1884).
+- **Pending:** De Leon's Lassalle, *Franz von Sickingen* (the scan has lost its title page and prints no year); Ruville's three-volume *William Pitt* (Mary Morison assisting H. J. Chaytor, 1907): no clean vol. 2 yet.
+- **Left out:** Wraxall's own books and adaptations; four Wraxall translations and two Anderson translations (Horn's *History of the Literature of the Scandinavian North*, Svedelius's *Hand-book for Charcoal Burners*) whose OCR garbles the translator's name past the identity gate; Doubleday's undated "Patriots Edition" Bjørnson reprints.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years read by eye: 2018 in *The Dutch at Home* is the digitising line.
+
+## Round 136: Ludovici and Thomas Roscoe beyond Gutenberg (2026-10-23)
+
+Fourteen titles on two shelves, each from a period archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **`levy-nietzsche`** (+3, now 20): Anthony M. Ludovici's *Selected Letters of Friedrich Nietzsche* (ed. Oscar Levy; Doubleday, Page, 1921), Henri Lichtenberger's *Germany and its Evolution in Modern Times* (Holt, 1913), and Elisabeth Förster-Nietzsche's *The Young Nietzsche* (Heinemann, 1912).
+- **`thomas-roscoe`** (+11, now 19): Roscoe's three anthologies of tales he selected and translated: *The Italian Novelists* (Prowett, 1825, 4 vols), *The German Novelists* (Colburn, 1826, 4 vols) and *The Spanish Novelists* (Bentley, 1832, 3 vols). Every volume is a Toronto scan except German vol. 2 and Italian vol. 4, which come from other 1820s copies of the same printing.
+- **Read by eye:** 1996 in *The Young Nietzsche* is a library date stamp. The imprint year on Italian vol. 3 is garbled in the OCR, but the imprint (Prowett, printed by M'Creery) matches the other three 1825 volumes.
+- **Skipped:** Ludovici's Van Gogh letters are already on `singles-arts-miscellany`; Bailey Saunders's Harnack is already on `adolf-harnack`; `bailey-saunders` and `waller` had nothing else new.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 137: Clements Markham's Hakluyt Society translations (2026-10-23)
+
+Sixteen titles on `markham` (+16, now 23), each from an archive.org scan of the original printing, with Markham named as translator on the title page or in the Society's report. All were published before 1931 and are US public domain:
+
+- **Peru and the Incas:** Garcilaso's *Royal Commentaries of the Yncas* (1869–71, both volumes); Cieza de León's *Second Part of the Chronicle of Peru* (1883) and *The War of Las Salinas* (1923, issued after Markham's death); Sarmiento de Gamboa's *History of the Incas* (1907); *Reports on the Discovery of Peru* (1872); *Narratives of the Rites and Laws of the Yncas* (1873); and *Ollanta*, the Quechua drama (Trübner, 1871).
+- **Voyages and travels:** *Expeditions into the Valley of the Amazons* (1859); Clavijo's *Embassy to Timour* (1859); Andagoya's *Proceedings of Pedrarias Davila* (1865); *The Journal of Christopher Columbus* (1893); Sarmiento de Gamboa's *Voyages to the Straits of Magellan* (1895); *The Voyages of Quiros*, vol. 2 (1904; Gutenberg has vol. 1).
+- **Other:** *The Life and Acts of Don Alonzo Enriquez de Guzman* (1862); Espinosa's *The Guanches of Tenerife* (1907).
+- **Swapped:** both easy scans of the *Reports* are Burt Franklin facsimile reprints (New York, 1970 and undated), so the shelf uses a scan of the 1872 printing and records the reprints under `_excluded`.
+- **Read by eye:** the post-1930 years in the scans are digitising lines, a 1961 Brandeis presentation plate, a scale figure on a map, and a 1997 DLI scan date.
+- **Left out:** volumes Markham only edited (the Hawkins voyages, Grimston's 1604 Acosta, Bogle and Manning's *Tibet*) and his own books.
+- **Also checked:** `viharilala-mitra` and `thomasina-ross` had nothing new. *Algeria in 1845* (Bentley, 1846) is catalogued as Ross's translation, but the book does not name its translator, so it stays off.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 138: the Dent Comédie humaine on archive.org, and Nisbet Bain's Tolstoi (2026-10-23)
+
+Twenty-one titles on five shelves. All are US public domain.
+
+**Balzac (19 titles).** These are volumes of Dent's 40-volume *Comédie humaine* (London, with Macmillan in New York, 1895–98, ed. George Saintsbury), from the University of Toronto set. Each title page was read for its translator and its Roman-numeral imprint year.
+
+Project Gutenberg's Balzac is partly this same Dent text. Its *Country Doctor*, for example, is Dent's Marriage and Bell translation. So every Toronto volume was compared, word for word, against each Balzac text already shelved, and only volumes whose main work is not already here in the same translation were added. Most matches turned out to be Wormeley's separate American translations, which score near zero against Dent.
+
+- **`ellen-marriage`** (+8, now 26): *The Country Parson*, *Eugénie Grandet*, *The Gondreville Mystery*, *The Peasantry*, *A Princess's Secrets*, *César Birotteau*, *The Unconscious Mummers* and *The Unknown Masterpiece* volumes.
+- **`clara-bell`** (+7, now 68): *A Bachelor's Establishment*, *A Marriage Settlement*, *The Member for Arcis*, *The Middle Classes*, *Modeste Mignon*, *Pierrette and The Abbé Birotteau*, and *Ursule Mirouët*.
+- **`waring`** (+3, now 7): *Béatrix*, *A Father's Curse and Other Stories*, and *Parisians in the Country*.
+- **`singles-fiction-4`** (+1): R. S. Scott's *A Daughter of Eve* and *Letters of Two Brides* (1897).
+- Where a volume also carries a shorter piece already shelved singly from Gutenberg, the title's note names it.
+- **Skipped because they are already shelved in the same Dent text:** *Lost Illusions*, *A Distinguished Provincial*, *Cousin Pons*, *Cousin Betty*, *A Harlot's Progress* (= *Scenes from a Courtesan's Life*), *The Jealousies of a Country Town*, *A Woman of Thirty*, *The Country Doctor*, *Seraphita*, *About Catherine de' Medici*, *The Atheist's Mass*, *La Grande Bretêche*, and *At the Sign of the Cat and Racket*.
+- **Not yet shelved:** *The Thirteen*, which would bring in Marriage's *Ferragus* but repeats two stories already shelved.
+- **Still to find:** five Toronto volumes whose text files fail to download (21, 26, 31, 33, 39), and one copy (vol. 06) from a later edition.
+
+**Nisbet Bain (`bain-jokai`, +2, now 14):** *Tales from Tolstoi* (Jarrold, 1901, from Cornell's original copy) and *More Tales from Tolstoi* (Brentano's, New York, 1903).
+
+**Read by eye:**
+- 1967 and 1994 are library date stamps.
+- 1923 in *The Peasantry* is in Balzac's own text.
+- 1924 in the Cornell scan is part of the barcode.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 139: Waley, H. A. Giles and Burton beyond Gutenberg (2026-10-23)
+
+Nine titles on three shelves, each from an archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain.
+
+- **`waley`** (+2, now 8):
+  - *The Temple and Other Poems* (Allen and Unwin, 1923).
+  - *Blue Trousers*, part 4 of *The Tale of Genji* (Houghton Mifflin, 1928). It had been waiting in `_pending` because it was not on Gutenberg.
+  - Parts 5 and 6 (1932–33) are recorded as refused.
+  - *Poems from the Chinese* (Benn's Augustan Books) waits in `_pending` because its printing is undated.
+- **`giles`** (+3, now 7):
+  - Herbert A. Giles's *Gems of Chinese Literature* (Kelly and Walsh, Shanghai, 1922, revised edition).
+  - *Chinese Poetry in English Verse* (Quaritch, 1898).
+  - The *San Tzu Ching* (Kelly and Walsh, 1900).
+  - His *Chinese Fairy Tales*, "told in English", is left off as a retelling.
+- **`burton`** (+4, now 7):
+  - *The Lyricks* of Camoens (Quaritch, 1884, Parts I and II). They had waited in `_pending` because the only scan known was Cornell's 2005 photocopy; scans of the original printing (Toronto, Mumbai) now replace it.
+  - *The Lands of Cazembe* (Royal Geographical Society, 1873). Its note says which parts of the volume are not Burton's.
+  - Pereira da Silva's *Manuel de Moraes*, translated with Isabel Burton (Bickers, 1886).
+  - Isabel Burton's *Iraçéma* is already on `hispanic-classics`.
+- **Read by eye:** the post-1930 years in the scans are digitising lines.
+- **Also checked:** the Giles translations of Lao Tzu, Lieh Tzu, Chuang Tzu (*Musings*) and Fa-hsien are already shelved on other branches. Waley's *Japanese Poetry: the Uta* (1919) has no pre-1931 scan.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 140: Carlyle's German Romance and two late Borrow collections (2026-10-23)
+
+Four titles on two shelves, each from an archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain.
+
+- **`carlyle`** (+2, now 4): *German Romance* in the Centenary Edition (Chapman and Hall, 1898, vols. XXI and XXII), Carlyle's 1827 translations.
+  - The Musäus, Tieck and Richter pieces are also in the Gutenberg *Translations from the German*.
+  - Fouqué's *Aslauga's Knight* and Hoffmann's *The Golden Pot* are new: the later collected *Translations* dropped them.
+- **`borrow-translations`** (+2, now 33): two collections of Borrow's verse translations.
+  - *Celtic Bards, Chiefs and Kings*, edited from the manuscript by Herbert G. Wright (John Murray, 1928).
+  - *Ballads of All Nations*, a selection edited by R. Brimley Johnson (Knopf, 1928). Many of its ballads are also on the shelf from the Gutenberg pamphlets.
+- **Already held elsewhere:** *Targum* is on `borrow-works`, and *The Death of Balder* belongs to the `ewald` shelf.
+- **Left out:**
+  - Carlyle's Legendre *Geometry* (1824), whose title page does not name him.
+  - Borrow's *Celebrated Trials* (1825), which he compiled.
+  - The 1913 Wise pamphlets, already shelved from Gutenberg.
+- **Nothing new:** `symonds` and `longfellow`.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 141: Laura Ensor, C. T. Brooks and Ellen Frewer; two batches held for a ruling (2026-10-23)
+
+Twelve titles on three shelves, each from an archive.org scan with the translator and imprint read on the title page. All were published before 1931 and are US public domain:
+
+- **`laura-ensor`** (+3, now 9): Daudet's *Recollections of a Literary Man* (Routledge, 1889) and *Thirty Years of Paris* (1888), and Barthélemy-Saint-Hilaire's *The Buddha and His Religion* (1895).
+- **`ct-brooks`** (+5, now 11):
+  - *Songs and Ballads* from Uhland, Körner, Bürger and others (Ripley's *Specimens of Foreign Standard Literature*, vol. XIV, 1842).
+  - *German Lyric Poetry* (Hazard, 1863).
+  - Kortum's *The Jobsiad* (Leypoldt, 1863).
+  - Schefer's *The Layman's Breviary* (Roberts, 1867).
+  - Auerbach's *Poet and Merchant* (Holt, 1877).
+  - *Schiller's Homage of the Arts* (1847) is left off: both scans garble Brooks's name and fail the identity gate.
+- **`frewer`** (+4, now 10): Verne's *Adventures of Three Englishmen and Three Russians* (1876), *Hector Servadac* (Scribner, Armstrong, 1878) and *The Tribulations of a Chinaman* (1880), and Barbou's *Victor Hugo and His Times* (Harper, 1882).
+
+**Two batches held for your ruling, not shelved:**
+1. **`fleming`: the rest of the St. Hubert Guild *Works of Voltaire* (1901, about 30 more volumes).** The set's title page credits the edition jointly: "Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming". Most prose volumes are Smollett's translations as Fleming revised them, and no single volume says which is which. Should they go on as "Smollett, revised by Fleming", or stay off?
+2. **`mn-dutt`: about twenty more of M. N. Dutt's Calcutta volumes.** These are the Mahabharata parvas, the Bhagavata, Agni, Garuda and Markandeya Puranas, the Manu Samhita and others. Every title page reads "a prose English translation ... edited and published by Manmatha Nath Dutt", never "translated by", and the lane's rule leaves off people named only as editor. Shelving them would follow the catalogues' credit, which the shelf's three Gutenberg books already rest on. The DLI Agni Puranam vols. 2–4 are modern reprints and are refused either way.
+
+Years read by eye: the post-1930 years in these scans are digitising lines and a 1935 library stamp. Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 142: Mary Howitt's Bremer, Eleanor Marx-Aveling and Grace Colbron (2026-10-23)
+
+Fifteen titles on three shelves. Each comes from an archive.org scan with the translator and imprint read on the title page, and all were published before 1931 (US public domain):
+
+- **`mary-howitt`** (+12, now 14). Fredrika Bremer:
+  - *Hertha* (Putnam, 1856);
+  - *The Homes of the New World*, 2 vols. Vol. I is Harper 1854 and vol. II is London 1853, so the two volumes are different printings and each records its own;
+  - *Life in the Old World*, 2 vols (Peterson, 1860);
+  - *Greece and the Greeks*, 2 vols (1863);
+  - *Travels in the Holy Land*, vol. I (1862);
+  - *The H— Family; Trälinnan; Axel and Anna*, 2 vols (1844);
+  - *The President's Daughters; Nina* (Bohn, 1852).
+
+  Also Paalzow's *The Citizen of Prague* (1846, three volumes in one scan).
+
+  The OCR reads her name as "MAEY HOWITT" on two title pages, so that form was added as a recorded name form. Three items were left off and recorded under `_excluded`:
+  - *Neighbours*, and vol. II of the Holy Land, because their OCR never names the translator;
+  - a Harper omnibus that repeats *Strife and Peace*.
+- **`eleanor-marx-aveling`** (+1, now 6): Bernstein's *Ferdinand Lassalle as a Social Reformer* (Swan Sonnenschein, 1893).
+- **`colbron`** (+2, now 7): Groner's *Mene Tekel* (Duffield, 1912) and Wolzogen's *The Third Sex* (Macaulay, 1914). Both title pages read "English version by" her.
+
+Years read by eye: the post-1930 years in these scans are Digital Library of India digitising lines (2018) and a 1980 library gift stamp. Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. The Dutt and Fleming batches from round 141 still wait on the ruling.
+
+## Round 143: Duff Gordon, Jessie Muir, Hearn and Dowson (2026-10-23)
+
+Five titles on four shelves. Each comes from an archive.org scan with the translator and imprint read on the title page, and all were published before 1931 (US public domain):
+
+- **`duff-gordon`** (+2, now 4): Feuerbach's *Narratives of Remarkable Criminal Trials* (Harper, New York, 1846) and Sybel's *The History and Literature of the Crusades* (Chapman and Hall, 1861). Four other items were left off and recorded under `_excluded`:
+  - *Sketches of German Life* and *Village Tales from Alsatia* are her husband Sir Alexander's translations, not hers;
+  - *The Russians in Bulgaria* and *Stella and Vanessa* never name the translator in their OCR.
+- **`jessie-muir`** (+1, now 5): Brandes's *Henrik Ibsen; Björnstjerne Björnson: Critical Studies* (Heinemann, 1899). The archive.org *Pelle* scans are vol. II, which Bernard Miall translated, so they are excluded. Her own volumes of *Pelle* are already inside the Gutenberg complete text on `bernard-miall`.
+- **`hearn`** (+1, now 3): Anatole France's *The Crime of Sylvestre Bonnard*, from Harper's 1890 copyright text. The title page of this printing gives no year, and the library call number reads 1890. Hearn died in 1904, so no later printing can add matter of his.
+- **`dowson`** (+1, now 4): Villeneuve's *The Story of Beauty & the Beast* (John Lane, 1908).
+
+Next candidate for `dowson`: Muther's *History of Modern Painting* (1895–96). It is not shelved yet because Dowson shares that translation with G. A. Greene and A. C. Hillier and no volume says which parts are whose.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 144: Ranous, H. L. Williams and Beatrice Marshall (2026-10-23)
+
+Three titles on three shelves. Each comes from an archive.org scan with the translator and imprint read on the title page, and all were published before 1931 (US public domain):
+
+- **`ranous`** (+1, now 3): Serao's *The Conquest of Rome* (National Alumni, New York, 1906).
+  - Her *Selected Stories* of Maupassant (Williams-Barker) prints no year, so it is held in `_pending`.
+  - Flaubert's *Sentimental Education* (Brentano's, 1922) names her only as editor, six years after her death, so it is excluded.
+- **`hl-williams`** (+1, now 7): Dumas's *The Queen's Necklace* (Worthington, New York, 1892).
+  - *Red Robe and Grey Robe* (1901) and the 1923 photoplay *Spanish Dancer* are retellings, not translations of a named text, so they are excluded.
+- **`beatrice-marshall`** (+1, now 6): *Grimm's Fairy Stories for Children and the Household* (Ward, Lock, 1900). The 2026 year in this scan is its digitising line.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 145: Abby Alger, Adele Szold Seltzer, Prichard Agnetti and Douglas Ainslie (2026-10-23)
+
+This round begins the alphabetical archive.org sweep of the 285 smaller translator shelves. It adds ten titles on four shelves. Each comes from a scan whose title page names the translator, and all were printed before 1931 (US public domain):
+
+- **`abby-alger`** (+4, now 6). The OCR's "Abby L. Alger" is now a recorded name form.
+  - Legouvé's *Reading as a Fine Art* (Roberts, 1879).
+  - Renan's *My Sister Henrietta* (Roberts, 1895).
+  - Saintine's *Picciola* (Ginn, 1902, copyright 1899).
+  - Coquelin's *Art and the Actor*. The Columbia Dramatic Museum printed it in 1915 and says it reprints her 1881 translation.
+  - *Undine* garbles her name and fails the identity gate. *The Actor and His Art* scan lacks its title page. Both were left off.
+- **`adele-seltzer`** (+3, now 8): Tillier's *My Uncle Benjamin* (1917), Krause's *What Is the German Nation Dying For?* (1918) and Maran's *Batouala* (Thomas Seltzer, 1922).
+- **`agnetti`** (+2, now 4): Fogazzaro's *The Saint* (Putnam's November 1908 reprint of the 1906 first printing) and *The Sinner* (1907).
+  - Papini's *Story of Christ* is not shelved. One scan is a Hodder printing whose impression list reaches 1933, so it is excluded. The other prints no year, so it is held in `_pending`.
+- **`ainslie`** (+1, now 7): Croce's *What Is Living and What Is Dead of the Philosophy of Hegel* (Macmillan, 1915).
+  - His Reynard the Fox "after Goethe" is a retelling, so it is excluded.
+  - Two later reprints of his Croce volumes are refused.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 146: Alice Werner, Aline Delano and Arthur Symons (2026-10-23)
+
+Six titles on three shelves, from archive.org scans whose title pages name the translator. All were printed before 1931 (US public domain):
+
+- **`alice-werner`** (+1, now 3): *The Humour of Italy* (Walter Scott, 1893). The title page reads "selected and translated ... by A. Werner", so "a. werner" is now a recorded name form.
+  - Garibaldi's *Autobiography* (1889) is left off. Its vol. I and II scans garble or drop her credit, and vol. III is Jessie White Mario's supplement.
+- **`aline-delano`** (+2, now 5): Korolenko's *The Vagrant and Other Tales* (Crowell, 1887) and *Autobiography of Anton Rubinstein* (Little, Brown, 1890).
+  - A 1911 *Resurrection* carries a note signed by her but does not name her as translator, so it is left off.
+- **`arthur-symons`** (+3, now 5): D'Annunzio's *Francesca da Rimini* (Heinemann, 1902), Baudelaire's *Prose and Poetry* (Boni, 1926) and *The Letters of Charles Baudelaire* (Boni, 1927).
+  - In the Letters scan, 1969 is a library accession stamp and 2025 is the digitising line.
+  - *The Plays of Emile Verhaeren* (1916) has four translators and is left off.
+
+Shelves swept with nothing new to add: `ab-lindsay`, `ac-middleton`, `adler-stern`, `ager`, `alexander-ewing`, `alexander-muir`, `amelia-edwards`, `archer-other`, `atkinson-lepper`. Their archive.org hits are the shelved texts again, the person's own books, or joint translations.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 147: Barrett H. Clark's French plays (2026-10-23)
+
+Six titles, all on `barrett-clark` (+6, now 11). Each comes from an archive.org scan whose title page names him, and all were printed before 1931 (US public domain):
+
+- Rolland's *The People's Theater* (Holt, 1918).
+- *Three Modern Plays from the French* (Holt, 1914). He translated *The Prince d'Aurec* and *The Pardon*; the third play is Charlotte Tenney David's, and the title page says so.
+- Hervieu's *The Labyrinth* (Huebsch, 1913), translated jointly with Lander MacClintock.
+- *Four Plays of the Free Theater* (Stewart & Kidd, 1915).
+- Sardou's *Patrie* (Doubleday, 1915).
+- Brieux's *Artists' Families* (1918).
+
+Other shelves in this round:
+
+- **Held:** Bithell's *Contemporary Belgian Poetry* and *Contemporary French Poetry* (Canterbury Poets) go in `_pending`. These printings carry no year, and the Belgian scan's credit is lost in the OCR.
+- **Left off:**
+  - Hedin's *Through Asia* (`bealby`): the title pages do not name a translator.
+  - *The Plays of Emile Verhaeren* (four translators).
+  - Augier's *Fourchambault* (credit garbled).
+- **Swept with nothing new:** `babington`, `bailey-saunders` (its Harnack is already on lane A's `adolf-harnack`), `baines`, `bertha-ness`, `bicknell`.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 148: Burnham's Celebrated Crimes, and Boylan, Bucknall, Brose, Campion, C. F. Atkinson (2026-10-23)
+
+Thirteen titles on six shelves. Each comes from an archive.org scan whose title page names the translator, and all were printed before 1931 (US public domain):
+
+- **`burnham-maupin`** (+7, now 9): Dumas's *Celebrated Crimes* (1895), vols. I–III and V–VIII.
+  - Six volumes are H. S. Nichols's London issue. Vol. II is George H. Richmond's New York issue, the only vol. II scan found.
+  - No scan of vol. IV naming him was found.
+  - Gutenberg's *Celebrated Crimes* names no translator, so it is not used.
+- **`boylan`** (+1, now 3): Goethe's *Wilhelm Meister's Apprenticeship* (Bohn, 1855).
+- **`bucknall`** (+2, now 4): Viollet-le-Duc's *Lectures on Architecture*, vol. I, and *Mont Blanc* (both Sampson Low, 1877). The vol. II scan does not carry his name, so it is not shelved.
+- **`brose`** (+1, now 2): Schlick's *Space and Time in Contemporary Physics* (Clarendon Press, 1920).
+- **`campion`** (+1, now 4): Schweitzer's *Memoirs of Childhood and Youth* (Macmillan, 1925).
+- **`cf-atkinson`** (+1, now 3): Goltz's *Jena to Eylau* (Dutton, 1913). The title page names "C. F. Atkinson" in the translator's place, but the word "translated" is not legible in the OCR.
+  - Friedell's *Cultural History of the Modern Age*, vol. I (Knopf, 1930) is held under the 1930 rule.
+
+Left off:
+- Key's *Torpedo under the Ark* (`borthwick`): the OCR runs her name together, so the identity gate cannot read it.
+- Mrs. Chalmers Mitchell's *Evolution by Atrophy*: she is not the shelf's translator.
+
+Swept with nothing new: `blackie`, `bonney`, `brady-guzman`, `brett-feijoo`, `bunnett`, `burette`, `bushby` (her Andersen is on the `andersen` shelf), `byington`, `ca-manning`, `cb-jordan`, `cecil-fairfax`, `ch-kerr`, `chalmers-mitchell`.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 149: Coleman, Cournos, Cowell and C. R. Murphy (2026-10-23)
+
+Four titles on four shelves. Each comes from an archive.org scan whose title page names the translator, and all were printed before 1931 (US public domain):
+
+- **`chapman-coleman`** (+1, now 6): Mühlbach's *Goethe and Schiller* (A. L. Fowle, New York, 1906 printing).
+- **`cournos`** (+1, now 3): *Short Stories out of Soviet Russia*, "compiled and translated" by him (Dutton, 1929). The 2026 in this scan is its digitising line.
+- **`cowell`** (+1, now 3): Sacred Books of the East vol. XLIX (Clarendon, 1894). Its Part I, the *Buddha-karita*, is his. Part II is Max Müller's and Takakusu's, which the record says.
+- **`cr-murphy`** (+1, now 4): Angellier's *To the Lost Friend* (John Lane, 1913), translated with Mildred J. Knight.
+
+Left off, with reasons recorded under `_excluded`:
+- Cowell's *Jataka*: he is named only as editor of translations "by various hands".
+- His 1893 *Buddha-karita*: a Sanskrit edition, not a translation.
+- Cournos's *Silence*: the OCR does not name him.
+- His *Platonov*: a 1930 book.
+
+Swept with nothing new:
+- `christina-tyrrell`, `co-reilly`, `constance-bache`;
+- `claud-field`: his Ghazali is already shelved;
+- `coleridge` and `cotton`: only their already-shelved translations, among hundreds of their own books.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 150: L. Dora Schmitz and Denis Florence MacCarthy (2026-10-23)
+
+Nine titles on two shelves. Each comes from an archive.org scan whose title page names the translator, and all were printed before 1931 (US public domain):
+
+- **`dora-schmitz`** (+8, now 10):
+  - Elze's *Essays on Shakespeare* (Macmillan, 1874) and *William Shakespeare: a Literary Biography* (Bell, 1888).
+  - Ulrici's *Shakspeare's Dramatic Art*, 2 vols. Vol. I is Bell, 1876. Vol. II is a later Bell printing whose year the OCR reads as "1008"; archive.org dates it 1906.
+  - The *Correspondence between Schiller and Goethe*, 2 vols. Vol. I is Bell, 1877; vol. II is the 1890 printing, and its OCR misreads her name as "Doea".
+  - Stinde's *The Buchholz Family* (1887).
+  - Schiller's *Revolt of the United Netherlands* (Bell, 1897), whose title page names her with A. J. W. Morrison.
+  - Goethe's *Miscellaneous Travels* names her as editor only, so it is excluded.
+- **`denis-maccarthy`** (+1, now 5): Calderón's *Love the Greatest Enchantment*, *The Sorceries of Sin* and *The Devotion of the Cross* (Longman, 1861).
+  - His 1853 *Dramas of Calderón* do not carry his name in their OCR, so they are left off.
+
+Swept with nothing new:
+- `crewe-jones`, `db-stewart`, `de-kay`, `de-quincey-walladmor`, `delffs`;
+- `derbyshire`: its Rizal is already shelved;
+- `diana-white`: her Brandes is joint and on `mary-morison`;
+- `d-anvers`: Viardot's *Wonders of Sculpture* names no translator on its title page.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 151: Drillien's Pierre Mille, E. G. Martin's Saint-Amand, and four more (2026-10-23)
+
+Twelve titles on five shelves. Each comes from an archive.org scan whose title page names the translator, and all were printed before 1931 (US public domain):
+
+- **`eg-martin`** (+6, now 9):
+  - Saint-Amand's *Marie Louise, the Island of Elba, and the Hundred Days* (Scribner, copyright 1891).
+  - *Women of the Valois Court* (1893).
+  - *The Court of Louis XIV* (1893).
+  - *Napoleon III at the Height of His Power* (1900).
+  - The *Memoirs of Constant*, vols. II and III (copyright 1895). Vol. II is the Century Co.'s 1907 printing.
+  - Her *Revolution of 1848* prints no year, so it is held in `_pending`.
+  - *The Duchess of Berry* scans garble or lack her credit, so they are left off.
+- **`drillien`** (+3, now 5): Pierre Mille's *Two Little Parisians* (Lane, 1913), *Barnavaux* and *Under the Tricolour* (Lane, 1915).
+- **`dunstan`** (+1, now 4): *Life and Letters of Berlioz*, vol. II (Remington, 1882). The 2000 in this scan is a library date-due slip.
+- **`edna-underwood`** (+1, now 5): *Moons of Nippon* (1919).
+- **`dorothy-bussy`** (+1, now 5): Gide's *The School for Wives* (Knopf, 1929).
+
+Also held: Dulcken's *One Hundred Picture Fables* (Routledge, Warne, and Routledge, no year printed).
+
+Left off:
+- Belot's *A Tragedy Indeed* garbles Dunstan's name.
+- Rich's *Grimm* (1921) says "adapted by".
+- Bussy's *Eugène Delacroix* is her own book.
+
+Swept with nothing new:
+- `drezmal`, `dziewicki`;
+- `duncan-forbes`: the archive.org hits are his Hindustani text editions, not translations.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 152: Eleanor Stimson Brooks, Frothingham, Emily Hill, F. A. Holt (2026-10-23)
+
+Seven titles on four shelves. Each comes from an archive.org scan whose title page names the translator, and all were printed before 1931 (US public domain):
+
+- **`eleanor-brooks`** (+3, now 5):
+  - Le Roy's *Jacquou the Rebel* (Dutton). The OCR reads its copyright line as 1910; archive.org dates it 1919.
+  - Chauvelot's *Mysterious India* (Century, 1921).
+  - Berguer's *Some Aspects of the Life of Jesus* (Harcourt, 1923), translated with Van Wyck Brooks.
+- **`ellen-frothingham`** (+1, now 4): Lessing's *Nathan the Wise* (Holt, entered 1867), with Kuno Fischer's essay.
+- **`emily-hill`** (+1, now 3): Elterlein's *Beethoven's Pianoforte Sonatas* (Reeves, 1886).
+- **`fa-holt`** (+2, now 4): Paléologue's *An Ambassador's Memoirs*, vols. I and II (Doran, 1925). No scan of vol. III naming him was found.
+
+Held in `_pending` because the title page prints no year:
+- Ella McMahon's *Golden Sands* (Benziger).
+- Fanny Copeland's translation of Vošnjak's *A Bulwark against Germany* (Allen & Unwin; archive.org says 1917).
+
+Left off:
+- Flammarion's *Death and Its Mystery*: the OCR does not name Eleanor Brooks.
+- Humboldt's *Cosmos* in the Sabine edition: the title pages credit Edward Sabine's "superintendence", not Elizabeth Sabine.
+
+Swept with nothing new:
+- `egerton`, `eleanor-grove`, `elise-lathrop`, `elizabeth-lee`, `elwes`, `fassett`, `fayette-robinson`;
+- `ellen-waugh`, `ellie-schleussner`, `ernest-bell`, `eugene-mason`, `farquharson-sharp`: their hits are already shelved here or on another shelf.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 153: Florence Simmonds, Frances Cashel Hoey, Frederic Whyte, Fitzwater Wray (2026-10-23)
+
+Fifteen titles on four shelves, each from an archive.org scan that names the translator, all printed before 1931 (US public domain):
+
+- **`florence-simmonds`** (+6, now 9): Gómez Carrillo's *Among the Ruins* (Heinemann, 1915); Ricci's *Correggio* (Heinemann, 1896); Reinach's *Apollo* (Heinemann, 1917 printing) and *Orpheus* (Heinemann, 1909); Meier-Graefe's *Modern Art*, vol. I (Heinemann, 1908, with George W. Chrystal); Destrée's *The Renaissance of Sculpture in Belgium* (Seeley, 1895; the credit is in the front matter).
+- **`frances-hoey`** (+5, now 9): Havard's *The Heart of Holland* (Bentley, 1880); Gaulot's *A Friend of the Queen* (Heinemann, 1895, second edition in one volume); and, with John Lillie, Broglie's *Frederick the Great and Maria Theresa*, vol. II (Sampson Low, 1883), Miot de Melito's *Memoirs* (Scribner, 1881) and Célière's *The Startling Exploits of Dr. J. B. Quiès* (Harper, 1887). The Broglie title page OCRs her as "Gashel Hoey"; that form is recorded.
+- **`frederic-whyte`** (+3, now 6): Lenz's *Napoleon* (Putnam, 1907; OCR "Whtte", recorded); Schillings's *Flashlights in the Jungle* (Doubleday, 1905); Waldersee's *A Field-Marshal's Memoirs* (Hutchinson, 1924, condensed and translated).
+- **`fitzwater-wray`** (+1, now 3): Berger's *A Life at Stake* (Putnam, 1919).
+
+Held in `_pending`, title page prints no year: Barbusse's *We Others* (Dutton; archive.org 1918), Duret's *Manet and the French Impressionists* for `flitch` (Grant Richards; archive.org 1910), Sarfatti's *Life of Benito Mussolini* for `frederic-whyte` (Stokes; archive.org 1925).
+
+Left off: the Loeb Aristotle *Rhetoric* for `freese` is a 1947 printing; Hallays's *Spell of Alsace* for `fraprie` names no translator in this scan; the Boston *Life of Mme. de la Rochefoucauld* (1878) names none either. Freese's Friedländer (Wellcome scan) has no text layer to read.
+
+Swept with nothing new: `fe-cox`, `frances-douglas`, `fitzgerald` (its hits are the Rubáiyát, Salámán and Calderon already shelved).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 154: Guerney, Cannan, Gillies, Gorfinkle, Greenstreet (2026-10-23)
+
+Eight titles on five shelves, each from an archive.org scan that names the translator, all printed before 1931 (US public domain):
+
+- **`guerney`** (+3, now 6): Kuprin's *Gambrinus and Other Stories* (Adelphi, 1925); Merejkovski's *The Menace of the Mob* (Nicholas L. Brown, 1921; the title page OCRs him "Guernet", his signed introduction reads Guerney); *The Death of the Gods* (first Modern Library edition, 1929). Herbert Trench's older Merezhkovsky translations stay on `herbert-trench`.
+- **`gilbert-cannan`** (+2, now 6): *Heinrich Heine's Memoirs*, ed. Karpeles, vols. I and II (Heinemann, 1910).
+- **`gillies`** (+1, now 6): *German Stories* from Hoffmann, Fouqué, Pichler and others, vol. I (Blackwood, 1826). The vol. II scan has no title page and is not shelved.
+- **`gorfinkle`** (+1, now 2): *The Eight Chapters of Maimonides on Ethics* (Columbia, 1912).
+- **`greenstreet`** (+1, now 2): Rignano's *Essays in Scientific Synthesis* (Open Court, 1918); the credit is the author's preface.
+
+Held in `_pending` for `guerney`: *The Romance of Leonardo da Vinci* (Modern Library; copyright 1928, the printing is undated and names Random House) and Gorky's *Bystander* (Literary Guild, 1930).
+
+Left off: Robida's *Treasure of Carcassonne* for `ft-cooper` is an undated Cadmus Books reprint of the 1925 Longmans edition.
+
+Swept with nothing new: `friedlaender`, `ft-cooper`, `ganguli`, `gaston-de-vere`, `george-eliot-translations`, `gertrude-hall`, `guest` (hits already shelved); `georgina-malcolm`, `glazer` (nothing).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 155: H. E. Lloyd, Louise Seymour Houghton, Helen Zimmern (2026-10-23)
+
+Thirteen titles on three shelves, each from an archive.org scan that names the translator, all printed before 1931 (US public domain):
+
+- **`hannibal-lloyd`** (+6, now 10):
+  - Pückler-Muskau's *Egypt under Mehemet Ali*, vol. II (Colburn, 1845).
+  - Raumer's *England in 1835* (Carey, Lea and Blanchard, Philadelphia, 1836), translated with Sarah Austin.
+  - Raumer's *England in 1841*, vols. I and II (John Lee, 1842).
+  - Spix and Martius's *Travels in Brazil*, vol. I (Longman, 1824); the translator's preface is signed H. E. Lloyd.
+  - Orlich's *Travels in India*, vol. I (Longman, 1845).
+- **`houghton-translations`** (+6, now 9):
+  - Stapfer's *Jesus Christ before His Ministry*, *during His Ministry* and *The Death and Resurrection* (Scribner, 1896-1898). The OCR drops the "translated by" line; her name stands in the translator's place below the author's.
+  - The *Unpublished Correspondence of Napoleon I*, vols. I-III (Duffield, 1913).
+- **`helen-zimmern`** (+1, now 2): Lessing's *Selected Prose Works* (Bohn, 1890 printing), with E. C. Beasley. The title page OCRs her as "Zimmelln"; that form is recorded.
+
+Held in `_pending`: Feuchtersleben's *Principles of Medical Psychology* for `hannibal-lloyd` (Sydenham Society). The imprint year is illegible; archive.org dates it 1847.
+
+Left off:
+- Scans that do not name Lloyd on the title page: Kotzebue's *Voyage of Discovery* vol. III, Raumer's *Political History of England*, *Travels in Brazil* vol. II and Timkowski's *Russian Mission*.
+- Houghton's *Faithful to the End*, which is adapted, not translated.
+
+Swept with nothing new:
+- Already shelved, or not a translation by the shelf's person: `h-parker`, `hammer-purgstall`, `hanna-larsen` (an anthology she edited), `hazlitt-huc`, `herbert-trench` (the 1899 *Julian* is Charles Johnston's), `hornblow`, `hueffer`.
+- No hits: `hayward-bichat`, `helena-frank`, `henry-harland`, `hf-brownson`, `hjerleid`, `holcroft`, `home-gordon`, `horace-samuel`.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 156: Strachey, Livingston, Simmonds, Jakowleff, J. B. Robertson, Jelliffe, Kamensky, Lamond, Leon Simon (2026-10-23)
+
+Thirteen titles on nine shelves. Each comes from an archive.org scan that names the translator, and all were printed before 1931 (US public domain):
+
+- **`lionel-strachey`** (+3, now 5):
+  - Emily Ruete's *Memoirs of an Arabian Princess* (Doubleday, 1907).
+  - Saint-Elme's *Memoirs of a Contemporary* (Doubleday, 1902).
+  - The *Memoirs of the Countess Potocka* (Doubleday & McClure, 1901).
+- **`livingston`** (+2, now 6):
+  - Pirandello's *The Late Mattia Pascal* (Dutton, 1923; second printing, November 1923).
+  - Pirandello's *The One-Act Plays* (Dutton, copyright 1928), with Elisabeth Abbott and Blanche Valentine Mitchell.
+- **`florence-simmonds`** (+1, now 10): Montessori's *The Advanced Montessori Method*, vol. I (Heinemann, 1917), with Lily Hutchinson.
+- **`jakowleff-montefiore`** (+1, now 3): Gorky's *Twenty-Six Men and a Girl* (Stokes, 1915 printing).
+- **`jb-robertson`** (+1, now 3): Hergenröther's *Anti-Janus* (Kelly, Dublin, 1870). His Möhler *Symbolism* is already on lane A's `johann-adam-moehler` shelf.
+- **`jelliffe`** (+1, now 3): Dejerine and Gauckler's *The Psychoneuroses and their Treatment by Psychotherapy* (Lippincott, 1913).
+- **`kamensky`** (+1, now 3): Mendeleev's *An Attempt towards a Chemical Conception of the Ether* (Longmans, 1904).
+- **`lamond`** (+1, now 7): Bayer's *The Book of the Popes* (Methuen, 1926).
+- **`leon-simon`** (+1, now 3): Ahad Ha-Am's *Pinsker and Political Zionism* (pamphlet, London, 1916).
+
+Held in `_pending`: Laurie's *Schoolboy Days in Japan* and *Schoolboy Days in Russia* for `laura-kendall` (Estes, Boston). Their copyright years are illegible in the OCR; archive.org dates them 1895 and 1892.
+
+Left off:
+- *Walter of Henley's Husbandry* (1890) is by Elizabeth Lamond, who died in 1891. She is not the E. M. Lamond of the Grisar *Luther*.
+- *Sonya Kovalevsky* (1895): Lily Wolffsohn wrote only its biographical note.
+- The Manru libretto: it is "translated and adapted", and the OCR garbles the translator's name.
+- *Schoolboy Days in Italy*: the scan does not name Kendall.
+
+Swept with nothing new:
+- Already shelved, or not a translation by the shelf's person: `julius-west`, `jp-richter`, `katharine-babbitt`, `katharine-wylde`, `krh-mackenzie`, `la-monte`, `lalor`, `lockhart-diaz`.
+- No hits: `ingeborg-andersen`, `jane-chapman`, `je-fries`, `jepson`, `jessie-lemont`, `john-howard`, `joly`, `jr-forster`, `jv-huntington`, `katherine-miller`, `kenrick`, `kingsbury`, `l-williams`, `lady-moreton`, `lg-meyer`.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 157: Lady Mary Loyd, Maidment, Mary Morison, McClure (2026-10-23)
+
+Eight titles on four shelves. Each comes from an archive.org scan that names the translator, and all were printed before 1931 (US public domain):
+
+- **`mary-loyd`** (+5, now 9):
+  - Renan's *Brother and Sister* (Macmillan, 1896).
+  - Huart's *A History of Arabic Literature* (Appleton, 1903). The credit is in Gosse's editor's note.
+  - Waliszewski's *Ivan the Terrible* (Lippincott and Heinemann, 1904).
+  - The *New Letters of Napoleon I* (Appleton, 1897).
+  - Pontavice de Heussey's *Villiers de l'Isle Adam* (Dodd, Mead, 1894).
+- **`maidment`** (+1, now 3): Funck-Brentano's *Cagliostro and Company* (Pott, 1902).
+- **`mary-morison`** (+1, now 9): Hauptmann's *Lonely Lives* (Heinemann, 1898).
+- **`mcclure`** (+1, now 2): Duchesne's *Christian Worship* (SPCK, fifth edition, 1920 reprint; first published 1903). This is the clean Toronto scan. The 1904 Google scan OCRs her name past recognition.
+
+Held in `_pending`:
+- Balzac's *The Two Young Brides* for `mary-loyd`: an undated Collier printing, copyright 1902.
+- The *Letters of Henrik Ibsen* for `mary-morison` (Fox, Duffield, with Laurvik): the title-page year is unreadable; archive.org dates it 1905.
+- Naville's *Discovery of the Book of the Law* for `mcclure` (SPCK): no year printed; archive.org dates it 1911.
+
+Left off:
+- Monkshood's *Temptation of Saint Anthony*: the scan has no title page.
+- Monkshood's *Their Majesties the Kings*: his name is unreadable in the OCR.
+- Allies's *Leaves from St. Augustine*: the OCR garbles her name and the scan fails the identity gate.
+- *The Heiress of Cronenstein*: it is adapted, not translated.
+
+Swept with nothing new:
+- Already shelved, or not a translation by the shelf's person: `margaret-armour`, `meldola`, `metcalfe`, `minna-smith`, `mp-nichols`, `mrs-gillespie`, `mrs-john-lane`.
+- No hits: `lord-stanley`, `macdowall`, `machen-casanova`, `marjorie-laurie`, `mary-wilson`, `maver`, `mccormack`, `mg-lewis`, `monier-williams`, `mp-waterman`, `mrs-l-burke`.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 158: Paul V. Cohn, Oxenford, Robert Willis, Rodwell (2026-10-23)
+
+Four titles on four shelves. Each comes from an archive.org scan that names the translator, and all were printed before 1931 (US public domain):
+
+- **`paul-cohn`** (+1, now 3): Gobineau's *The Renaissance* (Putnam, 1913; English edition edited by Oscar Levy). Both scans OCR his name as "Paul V. Corn"; that form is recorded.
+- **`oxenford`** (+1, now 3): *Goethe on the Theater*, selections from his Eckermann translation (Dramatic Museum of Columbia University, 1919 printing).
+- **`robert-willis`** (+1, now 3): Spurzheim's *The Anatomy of the Brain* (Highley, 1826). The title page reads "R. Willis"; that form is recorded.
+- **`rodwell`** (+1, now 2): *The Prophecies of Isaiah*, translated from the Hebrew (Norgate, second edition, 1886). The OCR reads the name as "Eodwell"; that form is recorded.
+
+Not added:
+- Beyschlag's *New Testament Theology* (Neil Buchanan, 1895) is already on lane A's `willibald-beyschlag` shelf.
+- Guizot's *History of France* in Robert Black's translation is already on `robert-black` complete from Gutenberg, so the single archive.org volumes are not added.
+
+Swept with nothing new:
+- Already shelved, or not a translation by the shelf's person: `neil-buchanan`, `neumann` (only DLI scans with no text), `ormsby`, `otte`, `painter`, `pauline-townsend`, `pf-bicknell` (his *Human Side of Fabre* is his own book), `rose`, `rose-strunsky`, `ruth-davis`, `robert-harrison`.
+- No hits: `nathaniel-greene`, `nk-hills`, `oliver-colt`, `ongley`, `poulsson-zwilgmeyer`, `prestage`, `raahauge`, `ramsden`, `rb-douglas`, `rigg`, `rs-townsend`, `rymer-jones`.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 159: van Laun, Swanwick, Schierbrand, Vandam, Theodore Martin, Thomasina Ross, Ziegler (2026-10-23)
+
+Ten titles on seven shelves. Each comes from an archive.org scan that names the translator, and all were printed before 1931 (US public domain):
+
+- **`van-laun`** (+4, now 8): his *Dramatic Works of Molière* (Paterson, Edinburgh, 1875-1876), vols. II, IV, V and VI.
+  - No clean scan of the Paterson vols. I and III was found.
+  - The vol. II title page OCRs him as "Van Eaun"; that form is recorded.
+- **`swanwick`** (+1, now 4): the Bohn *Dramatic Works of Goethe* (1860 printing). It holds her *Faust*, *Iphigenia*, *Tasso* and *Egmont*, with Walter Scott's *Goetz*.
+- **`schierbrand`** (+1, now 3): *The Kaiser's Speeches* (Harper, 1903), translated and edited.
+- **`vandam`** (+1, now 3): Houssaye's *Behind the Scenes of the Comédie Française* (Chapman and Hall, 1889). The OCR reads "Yandam"; that form is recorded.
+- **`theodore-martin`** (+1, now 2): Hertz's *King René's Daughter* (Orr, 1850).
+- **`thomasina-ross`** (+1, now 6): Tschudi's *Travels in Peru* (Wiley & Putnam, 1847).
+- **`ziegler`** (+1, now 3): Strindberg's *Swanwhite* (Brown Brothers, second edition 1912; copyright 1909). The title page OCRs him as "Ziboler"; that form is recorded.
+
+Held in `_pending`, because the title page prints no year or the year cannot be read:
+- Legouvé's *Sixty Years of Recollections*, 2 vols, for `vandam` (archive.org: 1893).
+- Martin's *Vita Nuova* (archive.org: 1862).
+- *The Bard of the Dimbovitza* for `strettell`, with Carmen Sylva (archive.org: 1892).
+- Gautier's *Portraits of the Day* for `sumichrast` (archive.org: 1901).
+
+Left off:
+- Martin's *Madonna Pia and Three Other Dramas*: it mixes his own play with translations.
+- *The Life of the White Ant* for `sutro`: a 1939 printing.
+- *Legends from River & Mountain* for `strettell`: it is "by" her and Carmen Sylva, with no translation credit.
+- Klapka's *Memoirs* for `wenckstern`: the OCR garbles his name.
+
+Already shelved elsewhere:
+- Swanwick's Aeschylus is on lane B's `aeschylus` shelf.
+- Sutro's *Joyzelle* scans are Teixeira de Mattos's translation, on `teixeira-de-mattos`.
+
+Swept with nothing new:
+- Already shelved, or not a translation by the shelf's person: `sedgwick-sand`, `selina-gaye`, `shea-troyer`, `stirling-bastiat`, `symonds`, `thomson-weismann`, `troilius`, `untermann`, `whiston`, `winifred-stephens`, `zilboorg`.
+- No hits: `sa-eliot`, `schele-de-vere`, `se-boggs`, `silvanus-thompson`, `smollett-translations`, `soissons`, `ssa-stephenson`, `tk-abbott`, `van-wyck-brooks`, `w-johnston`, `w-montgomery`, `wa-bradley`, `waller`, `walter-armstrong`, `welby`, `wf-harvey`, `willcocks`.
+
+That ends the alphabetical archive.org sweep of the lane C translator shelves. The multi-translator `singles-*` shelves were not swept, because they have no single name to search on.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 160: Thomas Roscoe's Cellini; follow-ups closed (2026-10-23)
+
+- **`thomas-roscoe`** (+2, now 21): his *Memoirs of Benvenuto Cellini*, 2 vols (Colburn, London, 1822), with Carpani's notes. This is the first edition of his translation; both title pages read "now first translated by Thomas Roscoe".
+- **Lazarillo de Tormes:** Roscoe's translation is already on the shelf, inside *The Spanish Novelists* vol. I (round 136). Nothing to add.
+- **Dent Balzac, vols. 21, 26, 31, 33 and 39** (Toronto scans of the *Comédie humaine*): the archive.org items hold no files at all, so they cannot be fetched. Closed.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Round 161 (2026-10-23), hand-back.** Garnett's 1925 Heinemann *War and Peace* (`30081000790570`) was rechecked: still 264 page texts, with no full-text file or PDF, so it stays in garnett `_pending`. The lane is handed back free. The resume point in LOCK-C names this item first, then the held list. The Dutt/Fleming credit question and the Muther joint credit are still open.
+
+## Round 162: Manmatha Nath Dutt's Calcutta volumes, on Adam's ruling (2026-10-23)
+
+Adam answered the decision card (2026-10-23): shelve the volumes whose title pages say "edited and published by", with that credit stated honestly.
+
+- **`mn-dutt`** (+9, now 15): from the Elysium Press, Calcutta:
+  - the Mahabharata's Adi Parva (1895), Shanti Parva (1903) and vol. XIII, the Anushasana Parva with the two closing parvas (1905);
+  - *Srimadbhagabatam* Book I and Books VII to XII (1895);
+  - the *Mahanirvana Tantram* (1900);
+  - the *Kamandakiya Nitisara* (1896);
+  - the *Garuda Puranam* (1908);
+  - the *Harita Samhita* (1906).
+
+  Each row's translator field reads "credited on the title page as editor and publisher", and its note quotes the title page. The OCR garbles two forms of his name, which are now recorded: "Makmatha" and "Nmatha". It also garbles four imprint years ("1003", "lOOo", "1805", "I9OS"); each was read and is noted in `_verified`.
+- **Still held:** ten volumes whose title page shows no legible year or credit in the OCR (Markandeya, Agni vol. I, Gautama, Parasara, Manu, a second Bhagavata, and others). They are listed in `_pending`. Bhishma Parva, the other parvas, the Rig Veda and the remaining samhitas have not been searched yet.
+- **Next:** the St. Hubert Guild Voltaire, credited "Smollett, revised by Fleming", in the next round under the same ruling.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 163: the St. Hubert Guild Voltaire, on Adam's ruling (2026-10-23)
+
+Adam answered the decision card on 2026-10-23: shelve with an honest credit. The St. Hubert set's title page credits the whole edition jointly ("Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming"), and no volume says which pieces are whose. So every volume is credited "Tobias Smollett, revised and modernized by William F. Fleming", with the set's credit quoted.
+
+- **`fleming`** (+13, now 24): the Works of Voltaire, a Contemporary Version (E. R. DuMont, New York, copyright 1901), one Cornell bound volume each:
+  - I: introduction, Hugo's oration, *Candide*, poetical dissertations
+  - VIII and IX: the dramatic works
+  - XI: *Charles XII*
+  - XII: *The Age of Louis XIV*
+  - XIII, XIV and XVI: *Ancient and Modern History*
+  - XVII: *Annals of the Empire*
+  - XVIII: *Peter the Great*
+  - XIX: the essays
+  - XX: *The Maid of Orleans*
+  - XXI: *The Henriade*, letters and miscellanies
+- **Name checks:** the OCR garbles Fleming's name on almost every title page ("Flernin", "Meming", "Hering"), so each volume carries an `_identity_checked` quote of its credit block.
+- **Years after 1930:** the only ones are Cornell date-due stamps (1944, 1952, 1962), noted in `_verified`.
+- **Not shelved:**
+  - Vols. III to VII: the *Philosophical Dictionary*, already on the shelf whole from Gutenberg.
+  - Vol. XXII: the index and Leigh's appreciation, which is not a translation.
+  - Vols. II, X and XV: no Cornell scan was found.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Garnett recheck (2026-10-30), on Adam's ask.** archive.org `30081000790570` (Heinemann 1925 *War and Peace*, complete) is unchanged since 10/22: 264 page texts of about 1,536, no full text, no PDF. It cannot be fetched, so it stays in garnett `_pending`. A fresh search found one other Garnett copy, `warpeace0000cons_z9n0`. It is undated and a lending-library item, so it is not usable. Volumes I and II are still missing. Nothing else was done: the lane is otherwise paused, and the Bloom-only ruling stands.

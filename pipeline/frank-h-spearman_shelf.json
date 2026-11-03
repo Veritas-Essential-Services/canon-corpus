@@ -1,0 +1,135 @@
+{
+ "_about": "Frank H. Spearman's writing at Gutenberg: railroad stories and Westerns. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frank H. Spearman",
+ "_name_words": [
+  "spearman"
+ ],
+ "_surname": [
+  "spearman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fhspearman-laramie-holds-the-range": [
+   23242,
+   "Laramie Holds the Range"
+  ],
+  "fhspearman-daughter-of-a-magnate": [
+   24696,
+   "The Daughter of a Magnate"
+  ],
+  "fhspearman-nan-of-music-mountain": [
+   29571,
+   "Nan of Music Mountain"
+  ],
+  "fhspearman-whispering-smith": [
+   29572,
+   "Whispering Smith"
+  ],
+  "fhspearman-mountain-divide": [
+   29656,
+   "The Mountain Divide"
+  ],
+  "fhspearman-nerve-of-foley-and-other-railroad-stories": [
+   33947,
+   "The Nerve of Foley, and Other Railroad Stories"
+  ],
+  "fhspearman-held-for-orders": [
+   34365,
+   "Held for Orders: Being Stories of Railroad Life"
+  ],
+  "fhspearman-robert-kimberly": [
+   41433,
+   "Robert Kimberly"
+  ],
+  "fhspearman-marriage-verdict": [
+   79812,
+   "The marriage verdict"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fhspearman-laramie-holds-the-range": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-daughter-of-a-magnate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-nan-of-music-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-whispering-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-mountain-divide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-nerve-of-foley-and-other-railroad-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-held-for-orders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-robert-kimberly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhspearman-marriage-verdict": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spearman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

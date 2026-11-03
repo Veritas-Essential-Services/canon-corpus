@@ -1,0 +1,40 @@
+{
+ "_about": "Public-domain John Kershaw (1792-1870), Strict Baptist minister of Hope Chapel, Rochdale, for the Word Hoard: Memorials of the Mercies of a Covenant God while travelling through the wilderness, his autobiography (1876), from an Internet Archive scan. Added 2026-10-23 by lane A, round 50 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "kershaw"
+ ],
+ "_surname": [
+  "john kershaw",
+  "j. kershaw"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kershaw-memorials": [
+   "johnkershaw00kersuoft",
+   "Memorials of the mercies of a covenant God while travelling through the wilderness being the autobiography of John Kershaw, of Rochdale, to which is added, an account of his last days, by his widow (London : [s.n, 1876)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kershaw-other": "Every other Kershaw in the catalogue is another person (chemistry, fuel, Charleston history)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kershaw-memorials": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john kershaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

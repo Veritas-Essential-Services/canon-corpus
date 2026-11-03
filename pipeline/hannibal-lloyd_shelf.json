@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Hannibal Evans Lloyd (1771-1847): Prince Maximilian of Wied's Travels in the Interior of North America (1843; Thwaites's Early Western Travels reprint, 1905-06, 3 vols) and Iffland's The Nephews (1799). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Hannibal Evans Lloyd (1771-1847): Prince Maximilian of Wied's Travels in the Interior of North America (1843; Thwaites's Early Western Travels reprint, 1905-06, 3 vols) and Iffland's The Nephews (1799). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted. From archive.org (2026-10-23): Pückler-Muskau's Egypt under Mehemet Ali vol. II (1845), Raumer's England in 1835 (Philadelphia, 1836, with Sarah Austin) and England in 1841 (2 vols, 1842), Spix and Martius's Travels in Brazil vol. I (1824) and Orlich's Travels in India vol. I (1845).",
  "_name_words": [
   "h. evans lloyd",
   "hannibal evans lloyd",
@@ -30,7 +30,32 @@
    "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 3 and appendix"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hel-ia-puckler-egypt-2": [
+   "egyptundermehem00algoog",
+   "Pückler-Muskau: Egypt under Mehemet Ali 2"
+  ],
+  "hel-ia-raumer-england-1835": [
+   "englandinbeinga01austgoog",
+   "Raumer: England in 1835"
+  ],
+  "hel-ia-raumer-england-1841-1": [
+   "englandin184101raumuoft",
+   "Raumer: England in 1841 1"
+  ],
+  "hel-ia-raumer-england-1841-2": [
+   "englandinbeinga01lloygoog",
+   "Raumer: England in 1841 2"
+  ],
+  "hel-ia-spix-martius-brazil-1": [
+   "travelsinbrazil01lloygoog",
+   "Spix and Martius: Travels in Brazil 1"
+  ],
+  "hel-ia-orlich-india-1": [
+   "travelsinindiat01orligoog",
+   "Orlich: Travels in India 1"
+  ]
+ },
  "titles": {
   "hannibal-lloyd-iffland-the-nephews-a-play-in-five-acts": {
    "source": "hel-31667",
@@ -63,15 +88,67 @@
    "translated": "1799-1843 (see the Gutenberg header)",
    "translator": "Hannibal Evans Lloyd",
    "scan_edition": "Project Gutenberg 48235 (clean text)"
+  },
+  "hannibal-lloyd-puckler-muskau-egypt-under-mehemet-ali-2": {
+   "source": "hel-ia-puckler-egypt-2",
+   "of": "Prince Pückler-Muskau",
+   "work": "Egypt under Mehemet Ali, vol. II",
+   "translated": "1845",
+   "translator": "H. Evans Lloyd",
+   "scan_edition": "Henry Colburn, London, 1845"
+  },
+  "hannibal-lloyd-raumer-england-in-1835": {
+   "source": "hel-ia-raumer-england-1835",
+   "of": "Frederick von Raumer",
+   "work": "England in 1835: A Series of Letters Written to Friends in Germany",
+   "translated": "1836",
+   "translator": "Sarah Austin and H. E. Lloyd",
+   "scan_edition": "Carey, Lea, and Blanchard, Philadelphia, 1836 (American edition)"
+  },
+  "hannibal-lloyd-raumer-england-in-1841-1": {
+   "source": "hel-ia-raumer-england-1841-1",
+   "of": "Frederick von Raumer",
+   "work": "England in 1841, vol. I",
+   "translated": "1842",
+   "translator": "H. Evans Lloyd",
+   "scan_edition": "John Lee, London, 1842"
+  },
+  "hannibal-lloyd-raumer-england-in-1841-2": {
+   "source": "hel-ia-raumer-england-1841-2",
+   "of": "Frederick von Raumer",
+   "work": "England in 1841, vol. II",
+   "translated": "1842",
+   "translator": "H. Evans Lloyd",
+   "scan_edition": "John Lee, London, 1842"
+  },
+  "hannibal-lloyd-spix-martius-travels-in-brazil-1": {
+   "source": "hel-ia-spix-martius-brazil-1",
+   "of": "J. B. von Spix and C. F. P. von Martius",
+   "work": "Travels in Brazil, in the Years 1817-1820, vol. I",
+   "translated": "1824",
+   "translator": "H. Evans Lloyd",
+   "scan_edition": "Longman, Hurst, Rees, Orme, Brown, and Green, London, 1824 (translator's preface signed H. E. Lloyd)"
+  },
+  "hannibal-lloyd-orlich-travels-in-india-1": {
+   "source": "hel-ia-orlich-india-1",
+   "of": "Leopold von Orlich",
+   "work": "Travels in India, including Sinde and the Punjab, vol. I",
+   "translated": "1845",
+   "translator": "H. Evans Lloyd",
+   "scan_edition": "Longman, Brown, Green, and Longmans, London, 1845"
   }
  },
- "_pending": {},
- "_excluded": {},
+ "_pending": {
+  "hannibal-lloyd-feuchtersleben-medical-psychology": "Feuchtersleben's The Principles of Medical Psychology (Sydenham Society, London; principlesmedic00feucgoog), translated by H. Evans Lloyd, revised and edited by B. G. Babington. The imprint year is illegible in the OCR; archive.org dates it 1847."
+ },
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: These scans do not name him on the title page, so they are not shelved: Otto von Kotzebue's Voyage of Discovery vol. III (1821), Raumer's Political History of England (1837), Travels in Brazil vol. II (1824) and Timkowski's Travels of the Russian Mission (1827). No scan of Orlich vol. II or Pückler-Muskau vol. I naming him was found."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "hel-31667": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hannibal evans lloyd",
    "identity": "ok",
@@ -80,7 +157,7 @@
   },
   "hel-38784": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. evans lloyd",
    "identity": "ok",
@@ -89,7 +166,7 @@
   },
   "hel-47392": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. evans lloyd",
    "identity": "ok",
@@ -98,12 +175,78 @@
   },
   "hel-48235": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hannibal evans lloyd",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-ia-puckler-egypt-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. evans lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hel-ia-raumer-england-1835": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hel-ia-raumer-england-1841-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. evans lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hel-ia-raumer-england-1841-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. evans lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hel-ia-spix-martius-brazil-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hel-ia-orlich-india-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. evans lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -126,6 +269,71 @@
    "pg": 48235,
    "pg_copyrighted_marker": false,
    "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-ia-puckler-egypt-2": {
+   "ia": "egyptundermehem00algoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hel-ia-raumer-england-1835": {
+   "ia": "englandinbeinga01austgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1757,
+    1835,
+    1836
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hel-ia-raumer-england-1841-1": {
+   "ia": "englandin184101raumuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1835,
+    1836,
+    1841,
+    1842
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hel-ia-raumer-england-1841-2": {
+   "ia": "englandinbeinga01lloygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1681,
+    1685,
+    1811,
+    1817,
+    1824,
+    1829,
+    1836,
+    1837,
+    1841
+   ],
+   "post_1930_years_in_front_15k": [
+    1986
+   ],
+   "post_1930_examined": "1986 is a library date stamp"
+  },
+  "hel-ia-spix-martius-brazil-1": {
+   "ia": "travelsinbrazil01lloygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1817,
+    1819,
+    1820,
+    1824
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hel-ia-orlich-india-1": {
+   "ia": "travelsinindiat01orligoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

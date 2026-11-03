@@ -1,0 +1,32 @@
+{
+ "_about": "Richard Stock (1569?-1626), rector of Allhallows, Bread Street: A Commentary upon the Prophecy of Malachi, with an Exercitation upon the same prophecy by Samuel Torshell (1865). Nichol's Series of Commentaries (Edinburgh: James Nichol; London: James Nisbet, general editor Thomas Smith), Princeton Seminary copy. The name check is on Stock (two words, as 'stock' alone is a common word); Torshell's part is in the same volume. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "richard stock"
+ ],
+ "_surname": [
+  "richard stock"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stock-malachi-1865": [
+   "commentaryuponpr00stoc",
+   "A Commentary upon the Prophecy of Malachi, with Torshell's Exercitation (Edinburgh: Nichol, 1865)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "stock-malachi-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard stock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

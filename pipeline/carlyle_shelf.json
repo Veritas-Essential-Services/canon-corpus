@@ -21,7 +21,16 @@
    "Translations from the German (Vol 3 of 3): Tales by Musæus, Tieck, Richter"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "carlyle-german-romance-1": [
+   "germanromancetr00carlgoog",
+   "German Romance, vol. 1 (Centenary Edition XXI)"
+  ],
+  "carlyle-german-romance-2": [
+   "germanromancetra02carl",
+   "German Romance, vol. 2 (Centenary Edition XXII)"
+  ]
+ },
  "titles": {
   "carlyle-wilhelm-meister": {
    "source": [
@@ -41,6 +50,24 @@
    "translated": 1827,
    "translator": "Thomas Carlyle",
    "scan_edition": "Project Gutenberg 38779 (clean text)"
+  },
+  "carlyle-german-romance-vol-1": {
+   "source": "carlyle-german-romance-1",
+   "of": "Musäus, Fouqué and Tieck",
+   "work": "German Romance, vol. 1 of 2: Musäus, De La Motte Fouqué (Aslauga's Knight), Tieck",
+   "translated": "1827 (this printing 1898)",
+   "translator": "Thomas Carlyle",
+   "scan_edition": "Chapman and Hall, London 1898 (Centenary Edition of the Works, vol. XXI, introduction by H. D. Traill); archive.org scan (Google)",
+   "note": "The Musäus and Tieck tales are also in Gutenberg 38779 on this shelf; Fouqué's Aslauga's Knight, which the later Translations from the German dropped, is new here."
+  },
+  "carlyle-german-romance-vol-2": {
+   "source": "carlyle-german-romance-2",
+   "of": "E. T. A. Hoffmann and Jean Paul Richter",
+   "work": "German Romance, vol. 2 of 2: Hoffmann (The Golden Pot), Richter (Schmelzle's Journey, Quintus Fixlein)",
+   "translated": "1827 (this printing 1898)",
+   "translator": "Thomas Carlyle",
+   "scan_edition": "Chapman and Hall, London 1898 (Centenary Edition of the Works, vol. XXII); archive.org scan (UCLA copy)",
+   "note": "The Richter pieces are also in Gutenberg 38779 on this shelf; Hoffmann's The Golden Pot is new here."
   }
  },
  "_pending": {},
@@ -51,7 +78,7 @@
  "_checks": {
   "carlyle-meister-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carlyle",
    "identity": "ok",
@@ -60,7 +87,7 @@
   },
   "carlyle-meister-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carlyle",
    "identity": "ok",
@@ -69,12 +96,34 @@
   },
   "carlyle-german-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carlyle",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "carlyle-german-romance-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carlyle-german-romance-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -93,6 +142,31 @@
    "pg_copyrighted_marker": false,
    "pg_translator": null,
    "translator_named_in_first_15k_of_body": true
+  },
+  "carlyle-german-romance-1": {
+   "ia": "germanromancetr00carlgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1814,
+    1823,
+    1827
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "the imprint year prints in the OCR as 'J 898' (1898), Chapman and Hall, Centenary Edition vol. XXI; 'Originally published 1827'"
+  },
+  "carlyle-german-romance-2": {
+   "ia": "germanromancetra02carl",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1776,
+    1795,
+    1796,
+    1798,
+    1800,
+    1827,
+    1898
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -1,0 +1,87 @@
+{
+ "_about": "Deborah Alcock: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Deborah Alcock",
+ "_name_words": [
+  "alcock",
+  "deborah"
+ ],
+ "_surname": [
+  "deborah alcock",
+  "alcock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dalcock-spanish-brothers": [
+   40346,
+   "The Spanish brothers"
+  ],
+  "dalcock-czar": [
+   49782,
+   "The Czar"
+  ],
+  "dalcock-by-far-euphrates": [
+   49915,
+   "By far Euphrates"
+  ],
+  "dalcock-under-the-southern-cross": [
+   77308,
+   "Under the Southern Cross"
+  ],
+  "dalcock-dark-year-of-dundee": [
+   77324,
+   "The dark year of Dundee"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 44262: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "dalcock-spanish-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deborah alcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dalcock-czar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deborah alcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dalcock-by-far-euphrates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deborah alcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dalcock-under-the-southern-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deborah alcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dalcock-dark-year-of-dundee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deborah alcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

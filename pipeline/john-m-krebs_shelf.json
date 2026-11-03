@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain John M. Krebs, Presbyterian minister of the Rutgers-Street Church, New York, for the Word Hoard: The Leader Fallen, The Private, Domestic and Social Life of Jesus Christ, The American Citizen, a discourse on the death of Zachary Taylor, and addresses on education and on physicians and clergymen. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 121 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john m. krebs",
+  "john michael krebs",
+  "j. m. krebs",
+  "krebs"
+ ],
+ "_surname": [
+  "krebs"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "krebs-leader-fallen": [
+   "leaderfallenserm00kreb",
+   "The leader fallen : a sermon preached in the Rutgers-Street Church, New-York, on Sabbath morning, April 11th, 1841, on occasion of the death of William Henry Harrison, President of the United States of America (New-York : Harper & Bros., 1841)"
+  ],
+  "krebs-physicians": [
+   "reciprocalrelat00krebgoog",
+   "The Reciprocal Relations of Physicians and Clergymen: A Speech, Delivered at (Henry Ludwig, 1847)"
+  ],
+  "krebs-education": [
+   "educationprogres00kreb",
+   "Education and progress (Easton, Pa., Pub. for the College, 1847)"
+  ],
+  "krebs-life-of-jesus": [
+   "privatedomestics00kreb",
+   "The private, domestic and social life of Jesus Christ : a model for youth (Philadelphia : W. S. Martien, 1849)"
+  ],
+  "krebs-zachary-taylor": [
+   "discourseondeath00kreb",
+   "A discourse on the death of Zachary Taylor (New York, J. Westall, printer, 1850)"
+  ],
+  "krebs-american-citizen": [
+   "americancitizend00kreb",
+   "The American citizen : a discourse on the nature and extent of our religious subjection to the government under which we live: including an inquiry into the Scriptural authority of that provision of the Constitution of the United States, which requires the surrender of fugitive slaves (New York :, 1851)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "krebs-rock-of-ages": "b1034830x, a sheet of music",
+  "krebs-providence": "wsb12f4_images_202308 has page images but no text"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "krebs-life-of-jesus": "OCR of the title page: \"THE PRIVATE I i DOMESTIC AND SOCIAL I LIFE OF JESUS CHRIST. i A MODEL FOR YOUTH ... BY TH^ Rev. JOHN M>^REBS, D. D. Pastor of Rutgers Street Church, NewYoik.\" (M>^REBS is OCR for M. Krebs)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "krebs-leader-fallen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "krebs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "krebs-physicians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "krebs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "krebs-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "krebs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "krebs-life-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "krebs-zachary-taylor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "krebs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "krebs-american-citizen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "krebs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

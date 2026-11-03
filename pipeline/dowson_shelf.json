@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Ernest Dowson (1867-1900): Laclos's Les liaisons dangereuses (1898, 2 vols) and Balzac's A Passion in the Desert. US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Ernest Dowson (1867-1900): Laclos's Les liaisons dangereuses (1898, 2 vols) Balzac's A Passion in the Desert, and Villeneuve's Beauty and the Beast (1908). US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted.",
  "_name_words": [
   "ernest dowson",
   "dowson"
@@ -24,7 +24,12 @@
    "Les liaisons dangereuses, volume 2 (of 2)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dowson-ia-beauty-beast": [
+   "storyofbeautybea00dowsuoft",
+   "Villeneuve: Beauty and the Beast"
+  ]
+ },
  "titles": {
   "dowson-balzac-a-passion-in-the-desert": {
    "source": "dow-1555",
@@ -49,6 +54,14 @@
    "translated": "1896-1898 (see the Gutenberg header)",
    "translator": "Ernest Dowson",
    "scan_edition": "Project Gutenberg 69913 (clean text)"
+  },
+  "dowson-villeneuve-the-story-of-beauty-and-the-beast": {
+   "source": "dowson-ia-beauty-beast",
+   "of": "Madame de Villeneuve",
+   "work": "The Story of Beauty & the Beast: the Complete Fairy Story",
+   "translated": "1908",
+   "translator": "Ernest Dowson",
+   "scan_edition": "John Lane, The Bodley Head, London and New York, MCMVIII; plates by Charles Conder"
   }
  },
  "_pending": {},
@@ -57,7 +70,7 @@
  "_checks": {
   "dow-1555": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest dowson",
    "identity": "ok",
@@ -66,7 +79,7 @@
   },
   "dow-69891": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest dowson",
    "identity": "ok",
@@ -75,12 +88,24 @@
   },
   "dow-69913": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest dowson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ernest Christopher Dowson"
+  },
+  "dowson-ia-beauty-beast": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest dowson",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -98,6 +123,12 @@
    "pg": 69913,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ernest Christopher Dowson"
+  },
+  "dowson-ia-beauty-beast": {
+   "ia": "storyofbeautybea00dowsuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

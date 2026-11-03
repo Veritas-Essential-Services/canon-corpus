@@ -1,0 +1,45 @@
+{
+ "_about": "Amandus Polanus von Polansdorf (1561-1610), professor at Basel: The Substance of Christian Religion, soundly set forth in two bookes, translated by E. W. (London, 1595). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "amandus polanus",
+  "amandi polani",
+  "polanus",
+  "polani"
+ ],
+ "_surname": [
+  "amandus polanus",
+  "amandi polani",
+  "polanus",
+  "polani"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "polanus-substance-1595": [
+   "bim_early-english-books-1475-1640_the-substanec-of-christi_polanus-amandus_1595",
+   "The Substance of Christian Religion, tr. E. W. (London, 1595)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_the-substance-of-christi_polanus-amandus_1597, _1608, the-substanec-of-christi_polanus-amandus_1600": "Later printings of the Substance."
+ },
+ "_pending": {
+  "bim_early-english-books-1475-1640_amandi-polani-a-polansdo_polanus-amandus_1591, bim_early-english-books-1641-1700_polanus-armandus-_1655_ia40330110-47 (Syntagma)": "Latin; not taken.",
+  "bim_early-english-books-1475-1640_treatise-concerning-gods_polanus-amandus_1599 (A Treatise concerning Gods Eternall Predestination, 1599)": "The title page is lost to OCR and Polanus's name appears nowhere in the text (the dedication is the translator's, signed by one Roger G.), so the name check cannot pass."
+ },
+ "_excluded": {},
+ "_checks": {
+  "polanus-substance-1595": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "amandus polanus",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1595",
+   "ia_date": "1595",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

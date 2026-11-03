@@ -1,0 +1,96 @@
+{
+ "_about": "Pictured Knowledge: The New Method of Visual Instruction Applied to All School Subjects (Chicago: Compton-Johnson, 1919 printing, copyright 1916, 1917, 1919), the five-volume children's picture reference that became Compton's Pictured Encyclopedia. All five volumes from Internet Archive scans, raw OCR; pictures and captions are kept only as text. Added 2026-10-23 at Adam's ask for old children's sets (the fact sets).",
+ "_author": "Compton-Johnson Company (publisher)",
+ "_name_words": [
+  "pictured",
+  "knowledge",
+  "compton"
+ ],
+ "_surname": [
+  "pictured knowledge",
+  "compton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pictured-knowledge-v1": [
+   "picturedknowledg01unse_0",
+   "Pictured Knowledge, vol. 1 (Compton-Johnson, 1919 printing)"
+  ],
+  "pictured-knowledge-v2": [
+   "picturedknowledg02unse_0",
+   "Pictured Knowledge, vol. 2 (Compton-Johnson, 1919 printing)"
+  ],
+  "pictured-knowledge-v3": [
+   "picturedknowledg03unse",
+   "Pictured Knowledge, vol. 3 (Compton-Johnson, 1919 printing)"
+  ],
+  "pictured-knowledge-v4": [
+   "picturedknowledg04unse",
+   "Pictured Knowledge, vol. 4 (Compton-Johnson, 1919 printing)"
+  ],
+  "pictured-knowledge-v5": [
+   "picturedknowledg05unse",
+   "Pictured Knowledge, vol. 5 (Compton-Johnson, 1919 printing)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "pictured-knowledge-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pictured knowledge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pictured-knowledge-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pictured knowledge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pictured-knowledge-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pictured knowledge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pictured-knowledge-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pictured knowledge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pictured-knowledge-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pictured knowledge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

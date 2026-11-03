@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Arthur Symons (1865-1945) as translator: Baudelaire's Poems in Prose (1905) and the verse in D'Annunzio's The Child of Pleasure (1898, prose by Georgina Harding). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Arthur Symons (1865-1945) as translator: Baudelaire's Poems in Prose (1905) and the verse in D'Annunzio's The Child of Pleasure (1898, prose by Georgina Harding); from archive.org, D'Annunzio's Francesca da Rimini (1902) and Baudelaire's Prose and Poetry (1926) and Letters (1927). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
  "_name_words": [
   "arthur symons",
   "symons"
@@ -20,7 +20,20 @@
    "Poems in Prose"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "asy-ia-dannunzio-francesca": [
+   "francescadarimin00dannuoft",
+   "D'Annunzio: Francesca da Rimini"
+  ],
+  "asy-ia-baudelaire-prose-poetry": [
+   "bwb_S0-EKA-345",
+   "Baudelaire: Prose and Poetry"
+  ],
+  "asy-ia-baudelaire-letters": [
+   "bwb_W9-CQC-474",
+   "The Letters of Charles Baudelaire"
+  ]
+ },
  "titles": {
   "arthur-symons-baudelaire-poems-in-prose": {
    "source": "asy-50489",
@@ -37,15 +50,41 @@
    "translated": "1898-1905 (see the Gutenberg header)",
    "translator": "Georgina Harding (prose) and Arthur Symons (verse)",
    "scan_edition": "Project Gutenberg 20015 (clean text)"
+  },
+  "arthur-symons-dannunzio-francesca-da-rimini": {
+   "source": "asy-ia-dannunzio-francesca",
+   "of": "Gabriele D'Annunzio",
+   "work": "Francesca da Rimini",
+   "translated": "1902",
+   "translator": "Arthur Symons",
+   "scan_edition": "William Heinemann, London, MDCCCCII"
+  },
+  "arthur-symons-baudelaire-prose-and-poetry": {
+   "source": "asy-ia-baudelaire-prose-poetry",
+   "of": "Charles Baudelaire",
+   "work": "Baudelaire: Prose and Poetry",
+   "translated": "1926",
+   "translator": "Arthur Symons",
+   "scan_edition": "Albert & Charles Boni, New York, copyright 1926"
+  },
+  "arthur-symons-the-letters-of-charles-baudelaire": {
+   "source": "asy-ia-baudelaire-letters",
+   "of": "Charles Baudelaire",
+   "work": "The Letters of Charles Baudelaire to His Mother and Others",
+   "translated": "1927",
+   "translator": "Arthur Symons",
+   "scan_edition": "Albert & Charles Boni, New York, copyright 1927; 1969 is a library accession stamp"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: The Plays of Emile Verhaeren (1916) has four translators, of whom he did only The Dawn. Poems in Prose (1913) repeats the shelved 1905 text."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "asy-20015": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur symons",
    "identity": "ok",
@@ -54,12 +93,45 @@
   },
   "asy-50489": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur symons",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Arthur Symons"
+  },
+  "asy-ia-dannunzio-francesca": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur symons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "asy-ia-baudelaire-prose-poetry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur symons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asy-ia-baudelaire-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur symons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +144,54 @@
    "pg": 50489,
    "pg_copyrighted_marker": false,
    "pg_translator": "Arthur Symons"
+  },
+  "asy-ia-dannunzio-francesca": {
+   "ia": "francescadarimin00dannuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asy-ia-baudelaire-prose-poetry": {
+   "ia": "bwb_S0-EKA-345",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1800,
+    1857,
+    1860,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asy-ia-baudelaire-letters": {
+   "ia": "bwb_W9-CQC-474",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1833,
+    1841,
+    1842,
+    1843,
+    1844,
+    1845,
+    1846,
+    1848,
+    1852,
+    1853,
+    1855,
+    1857,
+    1860,
+    1862,
+    1864,
+    1866,
+    1908,
+    1927
+   ],
+   "post_1930_years_in_front_15k": [
+    1969,
+    2025
+   ],
+   "post_1930_examined": "1969 is a library accession stamp (FEB 15 1969) and 2025 the Internet Archive digitising line; the copyright page reads Boni 1927"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

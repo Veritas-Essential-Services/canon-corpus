@@ -1,0 +1,131 @@
+{
+ "_about": "Public-domain William Herbert Perry Faunce (1859-1930), Baptist minister and president of Brown University, for the Word Hoard: The Two Bands, a Seamen's Friend Society sermon, The Educational Ideal in the Ministry, What does Christianity Mean?, The Social Aspects of Foreign Missions, Religion and War, and The New Horizon of State and Church. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 99 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. h. p. faunce",
+  "william herbert perry faunce",
+  "faunce"
+ ],
+ "_surname": [
+  "w. h. p. faunce",
+  "william herbert perry faunce",
+  "faunce"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "faunce-two-bands": [
+   "MN41733ucmf_5",
+   "The two bands : a sermon (Springfield, Mass. : Cyrus W. Atwood, 1887)"
+  ],
+  "faunce-seamens-sermon": [
+   "annualsermonbefo00faun",
+   "Annual sermon before the American Seamen's Friend Society at its sixty-seventh anniversary, Sunday, May 12th, 1895 by Rev. W.H. P. Faunce in the First Avenue Baptist Church, New York City (New York : American Seamen's Friend Society, 1895)"
+  ],
+  "faunce-educational-ideal": [
+   "educationalideal00faunuoft",
+   "The educational ideal in the ministry (New York : The Macmillan company, 1908)"
+  ],
+  "faunce-christianity-mean": [
+   "whatdoeschrist00faun",
+   "What does Christianity mean? (New York, Chicago, Fleming H. Revell Co, 1912)"
+  ],
+  "faunce-foreign-missions": [
+   "thesocialaspects00faunuoft",
+   "The social aspects of foreign missions (New York : Missionary Education Movement of the U.S. and Canada, 1914)"
+  ],
+  "faunce-religion-war": [
+   "religionwar00faun",
+   "Religion and war (New York, Cincinnati, The Abingdon press, 1918)"
+  ],
+  "faunce-new-horizon": [
+   "newhorizonofstat00faunrich",
+   "The new horizon of state and church (New York : Macmillan, 1918)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "faunce-two-bands": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. p. faunce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faunce-seamens-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. p. faunce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faunce-educational-ideal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william herbert perry faunce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "faunce-christianity-mean": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. p. faunce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "faunce-foreign-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. p. faunce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "faunce-religion-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william herbert perry faunce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faunce-new-horizon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william herbert perry faunce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

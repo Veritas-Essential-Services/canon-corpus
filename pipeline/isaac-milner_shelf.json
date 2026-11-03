@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Isaac Milner (1750-1820), Dean of Carlisle and President of Queens' College, Cambridge, evangelical, for the Word Hoard: his Sermons (London: Cadell, 1820, two volumes), from Internet Archive scans. His continuation of his brother Joseph's History of the Church of Christ stays on the joseph-milner shelf. Added 2026-10-23 by lane A, round 43 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "milner"
+ ],
+ "_surname": [
+  "isaac milner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "isaac-milner-sermons-1": [
+   "sermons01milngoog",
+   "Sermons, vol. 1 (T. Cadell, 1820)"
+  ],
+  "isaac-milner-sermons-2": [
+   "sermons00milngoog",
+   "Sermons, vol. 2 (T. Cadell, 1820)"
+  ]
+ },
+ "_alternates": {
+  "isaac-milner-other": "Essay on Human Liberty (1824), authorship to confirm; Animadversions on Dr Haweis's History (1800)"
+ },
+ "_excluded": {
+  "isaac-milner-science": "A Plan of a Course of Chemical Lectures (1784, 1788)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "isaac-milner-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "isaac-milner-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

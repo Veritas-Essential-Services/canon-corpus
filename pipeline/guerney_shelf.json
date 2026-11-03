@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Bernard Guilbert Guerney (1894-1979): Kuprin's Yama (The Pit, 1922) and Sulamith (1923), and Bunin's The Dreams of Chang (Knopf, 1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Bernard Guilbert Guerney (1894-1979): Kuprin's Yama (The Pit, 1922) and Sulamith (1923), and Bunin's The Dreams of Chang (Knopf, 1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. From archive.org (2026-10-23): Kuprin's Gambrinus and Other Stories (Adelphi, 1925), Merejkovski's The Menace of the Mob (Brown, 1921) and The Death of the Gods (Modern Library, 1929). Herbert Trench's older translations of Merezhkovsky are on herbert-trench.",
  "_name_words": [
   "bernard guilbert guerney",
   "b. g. guerney",
@@ -26,7 +26,20 @@
    "The dreams of Chang and other stories"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "gue-ia-kuprin-gambrinus": [
+   "bwb_S0-BQD-561",
+   "Kuprin: Gambrinus"
+  ],
+  "gue-ia-merezhkovsky-menace-mob": [
+   "menaceofmob00mere",
+   "Merejkovski: The Menace of the Mob"
+  ],
+  "gue-ia-merezhkovsky-death-gods": [
+   "bwb_S0-DQT-469",
+   "Merejkowski: The Death of the Gods"
+  ]
+ },
  "titles": {
   "guerney-bunin-the-dreams-of-chang-and-other-stories": {
    "source": "gue-78224",
@@ -51,15 +64,42 @@
    "translated": "1922-1923 (see the Gutenberg header)",
    "translator": "Bernard Guilbert Guerney",
    "scan_edition": "Project Gutenberg 4706 (clean text)"
+  },
+  "guerney-kuprin-gambrinus-and-other-stories": {
+   "source": "gue-ia-kuprin-gambrinus",
+   "of": "Alexandre Kuprin",
+   "work": "Gambrinus and Other Stories",
+   "translated": "1925",
+   "translator": "Bernard Guilbert Guerney",
+   "scan_edition": "Adelphi Company, New York, 1925"
+  },
+  "guerney-merezhkovsky-the-menace-of-the-mob": {
+   "source": "gue-ia-merezhkovsky-menace-mob",
+   "of": "Dmitri Merejkovski",
+   "work": "The Menace of the Mob",
+   "translated": "1921",
+   "translator": "Bernard Guilbert Guerney",
+   "scan_edition": "Nicholas L. Brown, New York, 1921 (title page OCR \"Guernet\"; his signed introduction reads Guerney)"
+  },
+  "guerney-merezhkovsky-the-death-of-the-gods": {
+   "source": "gue-ia-merezhkovsky-death-gods",
+   "of": "Dmitri Merejkowski",
+   "work": "The Death of the Gods (Julian the Apostate)",
+   "translated": "1929",
+   "translator": "Bernard Guilbert Guerney",
+   "scan_edition": "The Modern Library, New York, 1929 (first Modern Library edition)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "guerney-merezhkovsky-romance-of-leonardo": "Merejkowski's The Romance of Leonardo da Vinci (The Modern Library, New York; romanceofleonard00mere), translated by Bernard Guilbert Guerney. Copyright 1928, but the printing is undated and names Random House as the series publisher, so it may be a 1930s impression.",
+  "guerney-gorky-bystander": "Gorky's Bystander (The Literary Guild, New York, 1930; maximgorkibystan0000bern), translated by Bernard Guilbert Guerney: 'first published 1930'."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "gue-33444": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard guilbert guerney",
    "identity": "ok",
@@ -68,7 +108,7 @@
   },
   "gue-4706": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard guilbert guerney",
    "identity": "ok",
@@ -77,12 +117,45 @@
   },
   "gue-78224": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard guilbert guerney",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Bernard Guilbert Guerney"
+  },
+  "gue-ia-kuprin-gambrinus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard guilbert guerney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gue-ia-merezhkovsky-menace-mob": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard guilbert guerney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gue-ia-merezhkovsky-death-gods": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard guilbert guerney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -100,6 +173,45 @@
    "pg": 78224,
    "pg_copyrighted_marker": false,
    "pg_translator": "Bernard Guilbert Guerney"
+  },
+  "gue-ia-kuprin-gambrinus": {
+   "ia": "bwb_S0-BQD-561",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "2025 is the scan's digitization line"
+  },
+  "gue-ia-merezhkovsky-menace-mob": {
+   "ia": "menaceofmob00mere",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1864,
+    1865,
+    1880,
+    1882,
+    1884,
+    1890,
+    1893,
+    1905,
+    1906,
+    1908,
+    1914,
+    1920,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gue-ia-merezhkovsky-death-gods": {
+   "ia": "bwb_S0-DQT-469",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

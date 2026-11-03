@@ -1,0 +1,122 @@
+{
+ "_about": "Joseph E. Badger's writing at Gutenberg: dime-novel Westerns. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Joseph E. Badger",
+ "_name_words": [
+  "badger"
+ ],
+ "_surname": [
+  "badger"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jebadger-lost-city": [
+   783,
+   "The Lost City"
+  ],
+  "jebadger-delaware-tom": [
+   66227,
+   "Delaware Tom; or, The Traitor Guide"
+  ],
+  "jebadger-texas-hawks": [
+   66248,
+   "The Texas Hawks; or, The Strange Decoy"
+  ],
+  "jebadger-scarlet-shoulders": [
+   66407,
+   "The Scarlet Shoulders; or, The Miner Rangers"
+  ],
+  "jebadger-redlaw-the-half-breed": [
+   68507,
+   "Redlaw, the half-breed; or, The tangled trail. A tale of the settlements"
+  ],
+  "jebadger-outlaw-jack": [
+   68673,
+   "Outlaw Jack; or, the mountain devil"
+  ],
+  "jebadger-dusky-dick": [
+   68699,
+   "Dusky Dick: or, Old Toby Castor's great campaign A story of the last Sioux outbreak"
+  ],
+  "jebadger-wood-king": [
+   69490,
+   "The Wood King; or, Daniel Boone's last trail"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jebadger-lost-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebadger-delaware-tom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebadger-texas-hawks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebadger-scarlet-shoulders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebadger-redlaw-the-half-breed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebadger-outlaw-jack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebadger-dusky-dick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebadger-wood-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "badger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

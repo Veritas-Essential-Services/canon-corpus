@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: one-off translations of history, travel, ideas, music and science from the first stretch of the single-translator list: Peter Martyr's De Orbe Novo (MacNutt, 1912), Morga's History of the Philippine Islands (Blair and Robertson), Pedro Sancho's Account of the Conquest of Peru (Means, 1917), Lobo's Voyage to Abyssinia (Samuel Johnson's translation, 1735), the Machiavelli of the Tudor Translations (Dacres's Discourses and Prince, 1636, with Whitehorne's Art of War), Dürer's journeys to Venice and the Low Countries, Hugo's History of a Crime, Lamartine's History of the Girondists, Gregorovius's Lucretia Borgia, Guizot's Memoirs, Blakman's Henry the Sixth (M. R. James, 1919), Nordenskiöld's Voyage of the Vega, Arago's Biographies of Distinguished Scientific Men, the Sand-Flaubert letters, Liszt's Chopin, Wagner's On Conducting, Tosi on florid song (Galliard, 1743), Feuillet's Orchesography (Weaver, 1706), Busoni's Sketch of a New Esthetic of Music, Saint-Saëns, Lilli Lehmann's How to Sing, Rolland's Musicians of To-day, Ardant du Picq's Battle Studies, Bernhardi, Boelcke and von Forstner, Froebel's autobiography, Preyer's Mind of the Child, Rosenkranz's Pedagogics, Hans Gross's Criminal Psychology, Fritz Müller's Facts and Arguments for Darwin, Ehrlich on the blood, Koch on tuberculosis, Basil Valentine, two seventeenth- and eighteenth-century treatises on chocolate, Holbach's Superstition in All Ages, Hertzka's Freeland, Wagner's The Simple Life, Tolstoy on Shakespeare, Faguet, Le Roy, Rathenau, Edward Lasker's Chess Strategy, fencing, and Hindu law. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 49); Adam may veto. No uids minted.",
+ "_about": "SINGLE-TRANSLATION SHELF: one-off translations of history, travel, ideas, music and science from the first stretch of the single-translator list: Peter Martyr's De Orbe Novo (MacNutt, 1912), Morga's History of the Philippine Islands (Blair and Robertson), Pedro Sancho's Account of the Conquest of Peru (Means, 1917), Lobo's Voyage to Abyssinia (Samuel Johnson's translation, 1735), the Machiavelli of the Tudor Translations (Dacres's Discourses and Prince, 1636, with Whitehorne's Art of War), Dürer's journeys to Venice and the Low Countries, Hugo's History of a Crime, Lamartine's History of the Girondists, Gregorovius's Lucretia Borgia, Guizot's Memoirs, Blakman's Henry the Sixth (M. R. James, 1919), Nordenskiöld's Voyage of the Vega, Arago's Biographies of Distinguished Scientific Men, the Sand-Flaubert letters, Liszt's Chopin, Wagner's On Conducting, Tosi on florid song (Galliard, 1743), Feuillet's Orchesography (Weaver, 1706), Busoni's Sketch of a New Esthetic of Music, Saint-Saëns, Lilli Lehmann's How to Sing, Rolland's Musicians of To-day, Ardant du Picq's Battle Studies, Bernhardi, Boelcke and von Forstner, Froebel's autobiography, Preyer's Mind of the Child, Rosenkranz's Pedagogics, Hans Gross's Criminal Psychology, Fritz Müller's Facts and Arguments for Darwin, Ehrlich on the blood, Koch on tuberculosis, Basil Valentine, two seventeenth- and eighteenth-century treatises on chocolate, Holbach's Superstition in All Ages, Hertzka's Freeland, Wagner's The Simple Life, Tolstoy on Shakespeare, Faguet, Le Roy, Rathenau, Edward Lasker's Chess Strategy, fencing, and Hindu law. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 49); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Veresaev twice: In the War (Wiener, 1917) and The Confessions of a Physician (Linden, 1904).",
  "_name_words": [
   "aimée l. mckenzie",
   "aimée leffingwell mckenzie",
@@ -125,7 +125,9 @@
   "william jesse",
   "william stewart wallace",
   "william sweetland dallas",
-  "ryde"
+  "ryde",
+  "leo wiener",
+  "simeon linden"
  ],
  "_surname": [
   "aimée l. mckenzie",
@@ -252,7 +254,9 @@
   "william jesse",
   "william stewart wallace",
   "william sweetland dallas",
-  "ryde"
+  "ryde",
+  "leo wiener",
+  "simeon linden"
  ],
  "_surname_by_slug": {
   "snf-1320": [
@@ -653,6 +657,12 @@
   "snf-krasinski-undivine-comedy": [
    "cook",
    "martha walker cook"
+  ],
+  "snf-veresaev-in-the-war": [
+   "leo wiener"
+  ],
+  "snf-veresaev-confessions-physician": [
+   "simeon linden"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -1007,6 +1017,14 @@
   "snf-krasinski-undivine-comedy": [
    "undivinecomedyot00kras",
    "The Undivine Comedy and Other Poems (1875)"
+  ],
+  "snf-veresaev-in-the-war": [
+   "cu31924023038049",
+   "In the War: Memoirs of V. Veresaev (1917)"
+  ],
+  "snf-veresaev-confessions-physician": [
+   "b21701970",
+   "The Confessions of a Physician (1904)"
   ]
  },
  "titles": {
@@ -1711,6 +1729,22 @@
    "translated": 1875,
    "translator": "Martha Walker Cook",
    "scan_edition": "J. B. Lippincott & Co., Philadelphia 1875; archive.org scan"
+  },
+  "singles-nonfiction-2-veresaev-in-the-war": {
+   "source": "snf-veresaev-in-the-war",
+   "of": "Vikenty Veresaev",
+   "work": "In the War: Memoirs of V. Veresáev",
+   "translated": 1917,
+   "translator": "Leo Wiener",
+   "scan_edition": "Mitchell Kennerley, New York 1917; Cornell scan"
+  },
+  "singles-nonfiction-2-veresaev-confessions-of-a-physician": {
+   "source": "snf-veresaev-confessions-physician",
+   "of": "Vikenty Veresaev",
+   "work": "The Confessions of a Physician",
+   "translated": 1904,
+   "translator": "Simeon Linden",
+   "scan_edition": "Grant Richards, London 1904 (year from the catalogue; the title page OCR shows none); Royal College of Physicians of Edinburgh scan"
   }
  },
  "_pending": {},
@@ -1722,7 +1756,7 @@
  "_checks": {
   "snf-1320": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horace meyer kallen",
    "identity": "ok",
@@ -1731,7 +1765,7 @@
   },
   "snf-1347": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "benson",
    "identity": "ok",
@@ -1740,7 +1774,7 @@
   },
   "snf-1436": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "johnson",
    "identity": "ok",
@@ -1749,7 +1783,7 @@
   },
   "snf-3226": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rudolf tombo",
    "identity": "ok",
@@ -1758,7 +1792,7 @@
   },
   "snf-4386": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "martha walker cook",
    "identity": "ok",
@@ -1767,7 +1801,7 @@
   },
   "snf-4523": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dannreuther",
    "identity": "ok",
@@ -1776,7 +1810,7 @@
   },
   "snf-5115": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aimée l. mckenzie",
    "identity": "ok",
@@ -1785,7 +1819,7 @@
   },
   "snf-5614": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "du mont",
    "identity": "ok",
@@ -1794,7 +1828,7 @@
   },
   "snf-6475": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dallas",
    "identity": "ok",
@@ -1803,7 +1837,7 @@
   },
   "snf-7001": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "blair",
    "identity": "ok",
@@ -1812,7 +1846,7 @@
   },
   "snf-7294": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cotton",
    "identity": "ok",
@@ -1821,7 +1855,7 @@
   },
   "snf-7981": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "enna",
    "identity": "ok",
@@ -1830,7 +1864,7 @@
   },
   "snf-8401": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george horrocks",
    "identity": "ok",
@@ -1839,7 +1873,7 @@
   },
   "snf-9454": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john weaver",
    "identity": "ok",
@@ -1848,7 +1882,7 @@
   },
   "snf-9866": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur ransom",
    "identity": "ok",
@@ -1857,7 +1891,7 @@
   },
   "snf-10381": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur locker",
    "identity": "ok",
@@ -1866,7 +1900,7 @@
   },
   "snf-10637": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "booth",
    "identity": "ok",
@@ -1875,7 +1909,7 @@
   },
   "snf-10665": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles henry robinson",
    "identity": "ok",
@@ -1884,7 +1918,7 @@
   },
   "snf-11198": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chaytor",
    "identity": "ok",
@@ -1893,7 +1927,7 @@
   },
   "snf-12135": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "andrew mahon",
    "identity": "ok",
@@ -1902,7 +1936,7 @@
   },
   "snf-12425": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis augustus macnutt",
    "identity": "ok",
@@ -1911,7 +1945,7 @@
   },
   "snf-12918": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "g. k. nariman",
    "identity": "ok",
@@ -1920,7 +1954,7 @@
   },
   "snf-13014": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel foot",
    "identity": "ok",
@@ -1929,7 +1963,7 @@
   },
   "snf-13072": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "berthelot de la boileverie",
    "identity": "ok",
@@ -1938,7 +1972,7 @@
   },
   "snf-13877": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis medhurst",
    "identity": "ok",
@@ -1947,7 +1981,7 @@
   },
   "snf-14056": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "konody",
    "identity": "ok",
@@ -1956,7 +1990,7 @@
   },
   "snf-14495": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "creech",
    "identity": "ok",
@@ -1965,7 +1999,7 @@
   },
   "snf-15772": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dacres",
    "identity": "ok",
@@ -1974,7 +2008,7 @@
   },
   "snf-16434": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emilie michaelis",
    "identity": "ok",
@@ -1983,7 +2017,7 @@
   },
   "snf-16467": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "blaiklock",
    "identity": "ok",
@@ -1992,7 +2026,7 @@
   },
   "snf-16775": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "baden powell",
    "identity": "ok",
@@ -2001,7 +2035,7 @@
   },
   "snf-16962": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis randolph",
    "identity": "ok",
@@ -2010,7 +2044,7 @@
   },
   "snf-17607": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anna knoop",
    "identity": "ok",
@@ -2019,7 +2053,7 @@
   },
   "snf-17737": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bland",
    "identity": "ok",
@@ -2028,7 +2062,7 @@
   },
   "snf-18094": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. t. ryde",
    "identity": "ok",
@@ -2037,7 +2071,7 @@
   },
   "snf-18117": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "louise morgan sill",
    "identity": "ok",
@@ -2046,7 +2080,7 @@
   },
   "snf-18230": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dudley h. miles",
    "identity": "ok",
@@ -2055,7 +2089,7 @@
   },
   "snf-18483": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john lauris blake williams",
    "identity": "ok",
@@ -2064,7 +2098,7 @@
   },
   "snf-19116": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aldrich",
    "identity": "ok",
@@ -2073,7 +2107,7 @@
   },
   "snf-19549": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry w. brown",
    "identity": "ok",
@@ -2082,7 +2116,7 @@
   },
   "snf-20137": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis t. washburn",
    "identity": "ok",
@@ -2091,7 +2125,7 @@
   },
   "snf-20804": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "garner",
    "identity": "ok",
@@ -2100,7 +2134,7 @@
   },
   "snf-20936": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur windham",
    "identity": "ok",
@@ -2109,7 +2143,7 @@
   },
   "snf-21019": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edwin v. o'harra",
    "identity": "ok",
@@ -2118,7 +2152,7 @@
   },
   "snf-21271": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james wadsworth",
    "identity": "ok",
@@ -2127,7 +2161,7 @@
   },
   "snf-21561": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "leader scott",
    "identity": "ok",
@@ -2136,7 +2170,7 @@
   },
   "snf-21905": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "m. h. picciotto",
    "identity": "ok",
@@ -2145,7 +2179,7 @@
   },
   "snf-21918": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward röer",
    "identity": "ok",
@@ -2154,7 +2188,7 @@
   },
   "snf-22150": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "g. a. zimmermann",
    "identity": "ok",
@@ -2163,7 +2197,7 @@
   },
   "snf-22288": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frances seaver",
    "identity": "ok",
@@ -2172,7 +2206,7 @@
   },
   "snf-22792": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "maxwell",
    "identity": "ok",
@@ -2181,7 +2215,7 @@
   },
   "snf-23092": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hendee",
    "identity": "ok",
@@ -2190,7 +2224,7 @@
   },
   "snf-24365": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alexander leslie",
    "identity": "ok",
@@ -2199,7 +2233,7 @@
   },
   "snf-24588": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brookes",
    "identity": "ok",
@@ -2208,7 +2242,7 @@
   },
   "snf-24752": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. g. rosengarten",
    "identity": "ok",
@@ -2217,7 +2251,7 @@
   },
   "snf-25126": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "evan marrett",
    "identity": "ok",
@@ -2226,7 +2260,7 @@
   },
   "snf-25339": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward everett hale",
    "identity": "ok",
@@ -2235,7 +2269,7 @@
   },
   "snf-26145": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hutchison",
    "identity": "ok",
@@ -2244,7 +2278,7 @@
   },
   "snf-26340": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cable",
    "identity": "ok",
@@ -2253,7 +2287,7 @@
   },
   "snf-26393": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jerome beers thomas",
    "identity": "ok",
@@ -2262,7 +2296,7 @@
   },
   "snf-26477": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "galliard",
    "identity": "ok",
@@ -2271,7 +2305,7 @@
   },
   "snf-26602": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "means",
    "identity": "ok",
@@ -2280,7 +2314,7 @@
   },
   "snf-26705": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernst von hesse-wartegg",
    "identity": "ok",
@@ -2289,7 +2323,7 @@
   },
   "snf-27181": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brendecke",
    "identity": "ok",
@@ -2298,7 +2332,7 @@
   },
   "snf-27368": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barstow",
    "identity": "ok",
@@ -2307,7 +2341,7 @@
   },
   "snf-27529": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "d. e. van velden",
    "identity": "ok",
@@ -2316,7 +2350,7 @@
   },
   "snf-27726": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chertkov",
    "identity": "ok",
@@ -2325,7 +2359,7 @@
   },
   "snf-28169": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cole",
    "identity": "ok",
@@ -2334,7 +2368,7 @@
   },
   "snf-28189": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "i. stone sanpietro",
    "identity": "ok",
@@ -2343,7 +2377,7 @@
   },
   "snf-28298": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles sydney goldman",
    "identity": "ok",
@@ -2352,7 +2386,7 @@
   },
   "snf-28573": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jesse",
    "identity": "ok",
@@ -2361,7 +2395,7 @@
   },
   "snf-29065": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ch. f. c. uhte",
    "identity": "ok",
@@ -2370,7 +2404,7 @@
   },
   "snf-29109": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ratanbai ardeshir vakil",
    "identity": "ok",
@@ -2379,7 +2413,7 @@
   },
   "snf-29689": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "m. r. james",
    "identity": "ok",
@@ -2388,7 +2422,7 @@
   },
   "snf-29842": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "myers",
    "identity": "ok",
@@ -2397,7 +2431,7 @@
   },
   "snf-29973": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. stewart wallace",
    "identity": "ok",
@@ -2406,7 +2440,7 @@
   },
   "snf-30011": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hirsch",
    "identity": "ok",
@@ -2415,7 +2449,7 @@
   },
   "snf-30114": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "codman",
    "identity": "ok",
@@ -2424,7 +2458,7 @@
   },
   "snf-30412": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bowie",
    "identity": "ok",
@@ -2433,7 +2467,7 @@
   },
   "snf-30556": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brink",
    "identity": "ok",
@@ -2442,7 +2476,7 @@
   },
   "snf-30661": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anna c. brackett",
    "identity": "ok",
@@ -2451,7 +2485,7 @@
   },
   "snf-31203": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "stack",
    "identity": "ok",
@@ -2460,7 +2494,7 @@
   },
   "snf-31503": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eisemann",
    "identity": "ok",
@@ -2469,7 +2503,7 @@
   },
   "snf-31799": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "theodore baker",
    "identity": "ok",
@@ -2478,7 +2512,7 @@
   },
   "snf-lamartine-history-of-the-girondists-vol-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -2489,7 +2523,7 @@
   },
   "snf-lamartine-history-of-the-girondists-vol-3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -2500,12 +2534,34 @@
   },
   "snf-krasinski-undivine-comedy": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "martha walker cook",
    "identity": "ok",
    "ia_rights": "ok: published 1875",
    "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snf-veresaev-in-the-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo wiener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snf-veresaev-confessions-physician": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "simeon linden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -2969,6 +3025,26 @@
    "pg": 28921,
    "pg_copyrighted_marker": false,
    "pg_translator": "J. V. Cunningham"
+  },
+  "snf-veresaev-in-the-war": {
+   "ia": "cu31924023038049",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1855,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "snf-veresaev-confessions-physician": {
+   "ia": "b21701970",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "Examined in round 120: 2016 is the Internet Archive's digitising line; the title page reads London, Grant Richards, with no year in the OCR (catalogued 1904)."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",

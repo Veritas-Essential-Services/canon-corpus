@@ -1,0 +1,128 @@
+{
+ "_about": "Public-domain William Burkitt, vicar of Dedham, Essex, for the Word Hoard: his Expository Notes with Practical Observations upon the New Testament, The Poor Man's Help and Young Man's Guide, An Argumentative and Practical Discourse of Infant-Baptism, An Help and Guide to Christian Families, and The People's Zeal Provok't. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 128 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william burkitt",
+  "w. burkitt",
+  "burkitt"
+ ],
+ "_surname": [
+  "burkitt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burkitt-peoples-zeal": [
+   "bim_early-english-books-1641-1700_the-peoples-zeal-provok_burkitt-william_1680",
+   "The people's zeal provok't...  1680 (catalogued 1680)"
+  ],
+  "burkitt-infant-baptism": [
+   "bim_early-english-books-1641-1700_an-argumentative-and-pra_burkitt-william_1692",
+   "An argumentative and practical discourse of infant-baptism. ...  1692 (catalogued 1692)"
+  ],
+  "burkitt-poor-mans-help-1694": [
+   "bim_early-english-books-1641-1700_the-poor-mans-help-_burkitt-william_1694",
+   "The poor man's help,...  1694 (catalogued 1694)"
+  ],
+  "burkitt-poor-mans-help-1712": [
+   "bim_eighteenth-century_the-poor-mans-help-and_burkitt-william_1712",
+   "The poor man's help, and young man's guide: containing I. Doctrinal instructions ... II. Practical directions ... III. Particular advices ... Unto which is added principles of religion; ... with Forms of prayer ... also, divine hymns ... By W. Burkit (catalogued 1712)"
+  ],
+  "burkitt-help-and-guide": [
+   "bim_eighteenth-century_an-help-and-guide-to-chr_burkitt-william_1764",
+   "An help and guide to Christian families: containing I. Doctrinal instructions ... II. Practical directions ... III. Particular advice ... Unto which are added, principles of religion, ... With forms of prayer ... Also divine hymns on several occasions. By William Burkitt, M.A. ...  1764 (catalogued 1764)"
+  ],
+  "burkitt-expository-notes": [
+   "expositorynotesw00burk",
+   "Expository notes, with practical observations upon the New Testament of our Lord and Saviour Jesus Christ. Wherein the whole of the sacred text is recited, the sense explained, and the instructive example of the blessed Jesus, and His apostles, to our imitation recommended (New Haven, Printed by Abel Morse, for the Rev. David Austin of Elizabeth-town, 1794)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "burkitt-german": "10481386bsb, a German translation",
+  "burkitt-other-editions": "the 1697, 1705 and 1795 Poor Man's Help and the 1832 Expository Notes are other editions",
+  "burkitt-crawford": "Criticism of the New Testament (1902) is F. C. Burkitt and others",
+  "burkitt-family-instruction": "bim_eighteenth-century_family-instruction-or-_burkitt-william_1704_0: the scan is a different book, a 1751 Oxford sermon by Henry Whitfield"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "burkitt-infant-baptism": {
+   "author": "Title page read from the page image: \"An Argumentative and Practical Discourse of Infant-Baptism ... By William Burkitt Rector of Mildin in Suffolk, for the Establishment of his Parishioners ... London ... 1692.\"",
+   "title": "Title page read from the page image: \"An Argumentative and Practical Discourse of Infant-Baptism ... By William Burkitt Rector of Mildin in Suffolk, for the Establishment of his Parishioners ... London ... 1692.\""
+  },
+  "burkitt-expository-notes": {
+   "author": "OCR of the title page: \"EXPOSITORY NOTES, WITH PRACTICAL OBSERVATIONS UPON THE NEW TESTAMENT ... By W I L L I A M B U R K I T T, M. A. LATE VICAR AND LECTURER OF DEDHAM, IN ESSEX. New-Haven: Printed by Abel Morse\" (the letter-spaced name defeats the word check)",
+   "title": "OCR of the title page: \"EXPOSITORY NOTES, WITH PRACTICAL OBSERVATIONS UPON THE NEW TESTAMENT ... By W I L L I A M B U R K I T T, M. A. LATE VICAR AND LECTURER OF DEDHAM, IN ESSEX. New-Haven: Printed by Abel Morse\" (the letter-spaced name defeats the word check)"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "burkitt-peoples-zeal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1680",
+   "ia_date": "1680",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burkitt-infant-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1692",
+   "ia_date": "1692",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burkitt-poor-mans-help-1694": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1694",
+   "ia_date": "1694",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burkitt-poor-mans-help-1712": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1712",
+   "ia_date": "1712",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burkitt-help-and-guide": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burkitt-expository-notes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1794",
+   "ia_date": "1794",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

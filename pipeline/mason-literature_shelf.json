@@ -1,0 +1,1103 @@
+{
+ "_about": "Literature, essays, letters and stories the PNEU programmes set, from Carlyle, Ruskin's Praeterita and Pepys to children's books. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "addison",
+  "alfred",
+  "archibald",
+  "arthur",
+  "augustus",
+  "baden",
+  "baskerville",
+  "batley",
+  "books",
+  "bremer",
+  "brooke",
+  "brown",
+  "butler",
+  "caldecott",
+  "canton",
+  "carlyle",
+  "caroline",
+  "catherine",
+  "charles",
+  "church",
+  "coleridge",
+  "couch",
+  "dale",
+  "dean",
+  "deland",
+  "dorothea",
+  "dorothy",
+  "douglas",
+  "edgeworth",
+  "eds",
+  "elizabeth",
+  "evelyn",
+  "ewing",
+  "fouque",
+  "fouqué",
+  "frederick",
+  "fredrika",
+  "friedrich",
+  "froude",
+  "george",
+  "goldsmith",
+  "hare",
+  "harriet",
+  "henry",
+  "hester",
+  "horatia",
+  "household",
+  "howitt",
+  "jefferies",
+  "john",
+  "johnson",
+  "jonathan",
+  "judd",
+  "juliana",
+  "kate",
+  "lew",
+  "london",
+  "lynch",
+  "macaulay",
+  "mackenzie",
+  "margaret",
+  "maria",
+  "marshall",
+  "martineau",
+  "mary",
+  "milton",
+  "motte",
+  "mrs",
+  "newbolt",
+  "nora",
+  "oliver",
+  "one",
+  "osborne",
+  "pepys",
+  "picture",
+  "piozzi",
+  "powell",
+  "quiller",
+  "quincey",
+  "richard",
+  "robert",
+  "rosetta",
+  "rundle",
+  "ruskin",
+  "samuel",
+  "sibella",
+  "sir",
+  "smiles",
+  "smith",
+  "snedeker",
+  "steele",
+  "stephen",
+  "stopford",
+  "swift",
+  "thomas",
+  "treves",
+  "wallace",
+  "warne",
+  "wiggin",
+  "william"
+ ],
+ "_surname_by_slug": {
+  "carlyle-past-present": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "coleridge-letters-my-grandson": [
+   "coleridge",
+   "stephen coleridge"
+  ],
+  "howitt-autobiography-mary-howitt-1": [
+   "howitt",
+   "mary howitt"
+  ],
+  "howitt-autobiography-mary-howitt-2": [
+   "howitt",
+   "mary howitt"
+  ],
+  "johnson-rasselas": [
+   "johnson",
+   "samuel johnson"
+  ],
+  "judd-wigwam-stories-told": [
+   "judd",
+   "mary catherine judd"
+  ],
+  "osborne-letters-dorothy-osborne": [
+   "osborne",
+   "dorothy osborne"
+  ],
+  "baskerville-flame-tree": [
+   "baskerville"
+  ],
+  "carlyle-sartor-resartus": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "charles-chronicles-schonberg-cotta": [
+   "charles",
+   "elizabeth rundle charles"
+  ],
+  "hare-memorials-quiet-life-1": [
+   "hare",
+   "augustus j. c. hare"
+  ],
+  "hare-memorials-quiet-life-2": [
+   "hare",
+   "augustus j. c. hare"
+  ],
+  "household-hellas-forerunner": [
+   "household",
+   "h. w. household"
+  ],
+  "marshall-history-english-literature": [
+   "marshall",
+   "h. e. marshall"
+  ],
+  "milton-areopagitica": [
+   "milton",
+   "john milton"
+  ],
+  "piozzi-anecdotes-late-samuel": [
+   "piozzi",
+   "hester lynch piozzi"
+  ],
+  "ruskin-praeterita-1": [
+   "ruskin",
+   "john ruskin"
+  ],
+  "ruskin-praeterita-2": [
+   "ruskin",
+   "john ruskin"
+  ],
+  "ruskin-praeterita-3": [
+   "ruskin",
+   "john ruskin"
+  ],
+  "smiles-self-help": [
+   "smiles",
+   "samuel smiles"
+  ],
+  "snedeker-theras-story-athenian": [
+   "snedeker",
+   "caroline dale snedeker"
+  ],
+  "wiggin-fairy-ring": [
+   "wiggin"
+  ],
+  "baden-powell-scouting-boys": [
+   "baden-powell",
+   "robert baden-powell"
+  ],
+  "batley-bengali-schooldays": [
+   "batley",
+   "dorothea sibella batley"
+  ],
+  "bremer-neighbours": [
+   "bremer",
+   "fredrika bremer"
+  ],
+  "brooke-history-early-english": [
+   "brooke",
+   "stopford a. brooke"
+  ],
+  "canton-invisible-playmate": [
+   "canton",
+   "william canton"
+  ],
+  "deland-story-child": [
+   "deland",
+   "margaret deland"
+  ],
+  "froude-short-studies-great": [
+   "froude",
+   "j. a. froude"
+  ],
+  "hare-story-my-life-1": [
+   "hare",
+   "augustus j. c. hare"
+  ],
+  "hare-story-my-life-4": [
+   "hare",
+   "augustus j. c. hare"
+  ],
+  "jefferies-bevis": [
+   "jefferies",
+   "richard jefferies"
+  ],
+  "macaulay-critical-historical-essays-1": [
+   "macaulay",
+   "t. b. macaulay"
+  ],
+  "macaulay-critical-historical-essays-2": [
+   "macaulay",
+   "t. b. macaulay"
+  ],
+  "martineau-feats-fiord": [
+   "martineau",
+   "harriet martineau"
+  ],
+  "newbolt-book-long-trail": [
+   "newbolt",
+   "henry newbolt"
+  ],
+  "quiller-couch-roll-call-honour": [
+   "quiller-couch",
+   "arthur quiller-couch"
+  ],
+  "addison-spectator-sir-roger": [
+   "addison",
+   "steele"
+  ],
+  "treves-other-side-lantern": [
+   "treves",
+   "frederick treves"
+  ],
+  "baskerville-king-snakes": [
+   "baskerville"
+  ],
+  "ewing-story-short-life": [
+   "ewing",
+   "juliana horatia ewing"
+  ],
+  "john-brown-marjorie-fleming-pet": [
+   "john brown",
+   "dr. brown",
+   "dr brown"
+  ],
+  "butler-erewhon": [
+   "samuel butler"
+  ],
+  "charles-attila-his-conquerors": [
+   "charles",
+   "elizabeth rundle charles"
+  ],
+  "aj-church-heroes-chivalry-romance": [
+   "a. j. church",
+   "alfred j. church",
+   "alfred john church"
+  ],
+  "evelyn-diary-1": [
+   "evelyn"
+  ],
+  "evelyn-diary-2": [
+   "evelyn"
+  ],
+  "fouque-sintram-his-companions": [
+   "fouqué",
+   "fouque"
+  ],
+  "goldsmith-citizen-world": [
+   "goldsmith",
+   "oliver goldsmith"
+  ],
+  "mackenzie-man-feeling": [
+   "mackenzie",
+   "henry mackenzie"
+  ],
+  "pepys-diary": [
+   "pepys"
+  ],
+  "quincey-autobiographic-sketches": [
+   "quincey",
+   "thomas de quincey"
+  ],
+  "swift-battle-books": [
+   "jonathan swift",
+   "dr. swift",
+   "dean swift"
+  ],
+  "wallace-ben-hur": [
+   "wallace",
+   "lew wallace"
+  ],
+  "edgeworth-purple-jar-parent": [
+   "edgeworth",
+   "maria edgeworth"
+  ],
+  "caldecott-babes-wood-snow": [
+   "caldecott"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "carlyle-past-present": [
+   13534,
+   "Thomas Carlyle, Past and Present (PG 13534)"
+  ],
+  "coleridge-letters-my-grandson": [
+   13785,
+   "Stephen Coleridge, The Glory of English Prose: Letters to My Grandson (PG 13785; London: Mills & Boon 1913 / Putnam 1922)"
+  ],
+  "johnson-rasselas": [
+   652,
+   "Samuel Johnson, Rasselas, Prince of Abyssinia (PG 652)"
+  ],
+  "osborne-letters-dorothy-osborne": [
+   12544,
+   "Dorothy Osborne, The Love Letters of Dorothy Osborne to Sir William Temple, 1652-54, ed. Edward Abbott Parry (PG 12544)"
+  ],
+  "carlyle-sartor-resartus": [
+   1051,
+   "Thomas Carlyle, Sartor Resartus (PG 1051; source printing not named)"
+  ],
+  "charles-chronicles-schonberg-cotta": [
+   36433,
+   "Elizabeth Rundle Charles, Chronicles of the Schonberg-Cotta Family (New York: Thomas Nelson)"
+  ],
+  "marshall-history-english-literature": [
+   5725,
+   "H. E. Marshall, English Literature for Boys and Girls (London: T. C. & E. C. Jack, 1909)"
+  ],
+  "milton-areopagitica": [
+   608,
+   "John Milton, Areopagitica (PG 608)"
+  ],
+  "piozzi-anecdotes-late-samuel": [
+   2423,
+   "Hester Lynch Piozzi, Anecdotes of the Late Samuel Johnson (Cassell's National Library, 1901 printing per PG)"
+  ],
+  "smiles-self-help": [
+   935,
+   "Samuel Smiles, Self-Help; with Illustrations of Conduct and Perseverance (PG 935)"
+  ],
+  "wiggin-fairy-ring": [
+   40359,
+   "Kate Douglas Wiggin and Nora Archibald Smith (eds.), The Fairy Ring, revised ed. illus. Elizabeth MacKinstry (Garden City NY: Doubleday; copyright 1906, 1910; PG transcribes a 1934 printing)"
+  ],
+  "froude-short-studies-great": [
+   20755,
+   "J. A. Froude, Short Studies on Great Subjects [first series], 2nd ed. (London: Longmans, Green, 1867)"
+  ],
+  "hare-story-my-life-1": [
+   35589,
+   "Augustus J. C. Hare, The Story of My Life, vols 1-3 (London: George Allen, 1896)"
+  ],
+  "hare-story-my-life-4": [
+   42770,
+   "Augustus J. C. Hare, The Story of My Life, vols 4-6 (London: George Allen, 1900)"
+  ],
+  "jefferies-bevis": [
+   35930,
+   "Richard Jefferies, Bevis: the Story of a Boy (London, 1882)"
+  ],
+  "macaulay-critical-historical-essays-1": [
+   2332,
+   "T. B. Macaulay, Critical and Historical Essays, vol. 1 (Everyman, ed. A. J. Grieve; London: Dent, 1907)"
+  ],
+  "macaulay-critical-historical-essays-2": [
+   2333,
+   "T. B. Macaulay, Critical and Historical Essays, vol. 2 (Everyman, ed. A. J. Grieve; London: Dent, 1907)"
+  ],
+  "martineau-feats-fiord": [
+   35892,
+   "Harriet Martineau, Feats on the Fiord, illus. Arthur Rackham (London: Dent; New York: Dutton, 1914)"
+  ],
+  "addison-spectator-sir-roger": [
+   48026,
+   "Addison and Steele, The Sir Roger de Coverley Papers from The Spectator, ed. C. T. Winchester (New York: American Book Co., 1904)"
+  ],
+  "john-brown-marjorie-fleming-pet": [
+   75718,
+   "John Brown, Marjorie Fleming: a sketch, being the paper entitled 'Pet Marjorie' (Boston: Ticknor and Fields, 1864)"
+  ],
+  "butler-erewhon": [
+   1906,
+   "Samuel Butler, Erewhon (PG edition)"
+  ],
+  "charles-attila-his-conquerors": [
+   61247,
+   "Elizabeth Rundle Charles, Attila and His Conquerors: a story of the days of St. Patrick and St. Leo the Great (London: SPCK, 1894; PG edition)"
+  ],
+  "evelyn-diary-1": [
+   41218,
+   "The Diary of John Evelyn, ed. William Bray, intro. Richard Garnett (Washington & London: M. Walter Dunne, 1901), vol 1"
+  ],
+  "evelyn-diary-2": [
+   42081,
+   "The Diary of John Evelyn, ed. William Bray, intro. Richard Garnett (Washington & London: M. Walter Dunne, 1901), vol 2"
+  ],
+  "fouque-sintram-his-companions": [
+   2824,
+   "Friedrich de la Motte Fouqué, Sintram and His Companions (English tr.; PG edition, translator not named in metadata)"
+  ],
+  "mackenzie-man-feeling": [
+   5083,
+   "Henry Mackenzie, The Man of Feeling (PG edition)"
+  ],
+  "pepys-diary": [
+   4200,
+   "The Diary of Samuel Pepys, ed. Henry B. Wheatley (London: G. Bell, 1893-99), complete"
+  ],
+  "swift-battle-books": [
+   623,
+   "Jonathan Swift, The Battle of the Books and other short pieces, ed. Henry Morley (London: Cassell, 1886)"
+  ],
+  "wallace-ben-hur": [
+   2145,
+   "Lew Wallace, Ben-Hur: a tale of the Christ (New York: Harper, 1880)"
+  ],
+  "caldecott-babes-wood-snow": [
+   19361,
+   "The Babes in the Wood: one of R. Caldecott's Picture Books (London: F. Warne, 1879)"
+  ]
+ },
+ "internet_archive": {
+  "howitt-autobiography-mary-howitt-1": [
+   "anautobiography01howiuoft",
+   "Mary Howitt, An Autobiography, ed. Margaret Howitt, London: W. Isbister, 1889, vol. 1"
+  ],
+  "howitt-autobiography-mary-howitt-2": [
+   "anautobiography02howiuoft",
+   "Mary Howitt, An Autobiography, ed. Margaret Howitt, London: W. Isbister, 1889, vol. 2"
+  ],
+  "judd-wigwam-stories-told": [
+   "wigwamstories00juddrich",
+   "Mary Catherine Judd, Wigwam Stories Told by North American Indians, Boston: Ginn, 1906 [c1901]"
+  ],
+  "baskerville-flame-tree": [
+   "flametreeotherfo00bask",
+   "Mrs. George Baskerville, The Flame Tree and Other Folk-lore Stories from Uganda (London: Sheldon Press [c.1925])"
+  ],
+  "hare-memorials-quiet-life-1": [
+   "memorialsofquiet01hareiala",
+   "Augustus J. C. Hare, Memorials of a Quiet Life, vol. 1 (New York: A. D. F. Randolph [1872])"
+  ],
+  "hare-memorials-quiet-life-2": [
+   "memorialsofquiet02hareiala",
+   "Augustus J. C. Hare, Memorials of a Quiet Life, vol. 2 (New York: A. D. F. Randolph [1872])"
+  ],
+  "household-hellas-forerunner": [
+   "hellasforerunner0000hora",
+   "H. W. Household, Hellas the Forerunner (London: J. M. Dent, 1927)"
+  ],
+  "ruskin-praeterita-1": [
+   "praeteritaoutlin01ruskuoft",
+   "John Ruskin, Praeterita, vol. 1 (Orpington: George Allen, 1886-89)"
+  ],
+  "ruskin-praeterita-2": [
+   "praeteritaoutlin02ruskuoft",
+   "John Ruskin, Praeterita, vol. 2 (Orpington: George Allen, 1886-89)"
+  ],
+  "ruskin-praeterita-3": [
+   "praeteritaoutlin03ruskuoft",
+   "John Ruskin, Praeterita, vol. 3 (Orpington: George Allen, 1886-89)"
+  ],
+  "snedeker-theras-story-athenian": [
+   "therasstoryofath00sneduoft",
+   "Caroline Dale Snedeker, Theras: The Story of an Athenian Boy (London: J. M. Dent; New York: Dutton [1920s])"
+  ],
+  "baden-powell-scouting-boys": [
+   "in.ernet.dli.2015.97178",
+   "Robert Baden-Powell, Scouting for Boys, 7th ed. (London: C. Arthur Pearson, 1915)",
+   "2015.97178.Scouting-For-Boys--Ed-7th_djvu.txt"
+  ],
+  "batley-bengali-schooldays": [
+   "bengalischoolday00batlrich",
+   "Dorothea Sibella Batley, Bengali Schooldays (London: SPCK; New York: Macmillan, [1922])"
+  ],
+  "bremer-neighbours": [
+   "neighboursstoryo00brem",
+   "Fredrika Bremer, The Neighbours: a story of every-day life, tr. Mary Howitt (London: George Bell, 1901)"
+  ],
+  "brooke-history-early-english": [
+   "historyofearlyen00broouoft",
+   "Stopford A. Brooke, The History of Early English Literature, being the history of English poetry from its beginnings to the accession of King Aelfred (New York: Macmillan, 1892)"
+  ],
+  "canton-invisible-playmate": [
+   "invisibleplaymat00cantuoft",
+   "William Canton, The Invisible Playmate, W.V. Her Book, & In Memory of W.V. (London: Dent, [1912])"
+  ],
+  "deland-story-child": [
+   "thestoryofachild00delarich",
+   "Margaret Deland, The Story of a Child (Boston and New York: Houghton, Mifflin, 1892)"
+  ],
+  "newbolt-book-long-trail": [
+   "bookoflongtrail00newbuoft",
+   "Henry Newbolt, The Book of the Long Trail (London: Longmans, Green, 1919)"
+  ],
+  "quiller-couch-roll-call-honour": [
+   "rollcallofhonour00quil",
+   "Arthur Quiller-Couch, The Roll-Call of Honour: a new book of golden deeds (London: Thomas Nelson, [1911/12])"
+  ],
+  "treves-other-side-lantern": [
+   "othersideoflante0000sirf_i4r1",
+   "Sir Frederick Treves, The Other Side of the Lantern (London: Cassell, 1906)"
+  ],
+  "baskerville-king-snakes": [
+   "baskerville-king-of-snakes-1922",
+   "Mrs. George (Rosetta) Baskerville, The King of the Snakes and other folk-lore stories from Uganda, illus. E. G. Morris (London: Sheldon Press, 1922)",
+   "Baskerville King of Snakes 1922_djvu.txt"
+  ],
+  "ewing-story-short-life": [
+   "storyofshortlifeewin00rich",
+   "Juliana Horatia Ewing, The Story of a Short Life (Boston: Roberts Brothers, 1887)"
+  ],
+  "aj-church-heroes-chivalry-romance": [
+   "heroesofchivalry00chur_0",
+   "Alfred J. Church, Heroes of Chivalry and Romance (London: Seeley, 1909)"
+  ],
+  "goldsmith-citizen-world": [
+   "lettersfromcitiz00golduoft",
+   "Oliver Goldsmith, Letters from a Citizen of the World to his Friends in the East, new ed. (London: C. Knight, 1840)"
+  ],
+  "quincey-autobiographic-sketches": [
+   "autobiographicsk00dequrich",
+   "Thomas De Quincey, Autobiographic Sketches (Boston: Houghton, Mifflin, 1876)"
+  ],
+  "edgeworth-purple-jar-parent": [
+   "earlylessonswith00edgeuoft",
+   "Maria Edgeworth, Early Lessons: Rosamond, Frank, Harry and Lucy..., ill. F. A. Fraser (London: Routledge, n.d., late 19th c.)"
+  ]
+ },
+ "_rights_checked": {
+  "edgeworth-purple-jar-parent": "Routledge, 'Early Lessons', undated (catalogued '19--'); Edgeworth's text of 1801 with F. A. Fraser's illustrations"
+ },
+ "_checks": {
+  "carlyle-past-present": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coleridge-letters-my-grandson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnson-rasselas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "osborne-letters-dorothy-osborne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "osborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carlyle-sartor-resartus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "charles-chronicles-schonberg-cotta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "charles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marshall-history-english-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "milton-areopagitica": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "milton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "piozzi-anecdotes-late-samuel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "piozzi",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smiles-self-help": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "smiles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-fairy-ring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "wiggin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "froude-short-studies-great": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "froude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hare-story-my-life-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hare",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hare-story-my-life-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hare",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferies-bevis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "jefferies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macaulay-critical-historical-essays-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "macaulay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macaulay-critical-historical-essays-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "macaulay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-feats-fiord": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "addison-spectator-sir-roger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "addison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "butler-erewhon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "samuel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evelyn-diary-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "evelyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evelyn-diary-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "evelyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fouque-sintram-his-companions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fouque",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackenzie-man-feeling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pepys-diary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "pepys",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swift-battle-books": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "jonathan swift",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-ben-hur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caldecott-babes-wood-snow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "caldecott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howitt-autobiography-mary-howitt-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "howitt-autobiography-mary-howitt-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "judd-wigwam-stories-told": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "judd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906[c1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baskerville-flame-tree": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "baskerville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "Not in copyright. The Library knows of no copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "hare-memorials-quiet-life-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "[1872]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-memorials-quiet-life-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "[1872]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "household-hellas-forerunner": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "household",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ruskin-praeterita-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "ruskin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1886-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ruskin-praeterita-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "ruskin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1886-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ruskin-praeterita-3": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "ruskin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1886-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snedeker-theras-story-athenian": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "snedeker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baden-powell-scouting-boys": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "baden-powell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "batley-bengali-schooldays": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "batley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "[1922]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bremer-neighbours": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "bremer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brooke-history-early-english": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "brooke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "canton-invisible-playmate": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "canton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deland-story-child": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "deland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-book-long-trail": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quiller-couch-roll-call-honour": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "quiller-couch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "[1911]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "treves-other-side-lantern": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "treves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baskerville-king-snakes": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "baskerville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ewing-story-short-life": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aj-church-heroes-chivalry-romance": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "a. j. church",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goldsmith-citizen-world": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "goldsmith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quincey-autobiographic-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "quincey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edgeworth-purple-jar-parent": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "edgeworth",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Routledge, 'Early Lessons', undated (catalogued '19--'); Edgeworth's text of 1801 with F. A. Fraser's illustrations"
+  }
+ }
+}

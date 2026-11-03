@@ -1,10 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: J. M. Rodwell (1808-1900). The Koran, in his chronological order of the suras (1861). PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: J. M. Rodwell (1808-1900). The Koran, in his chronological order of the suras (1861). PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst. From archive.org (2026-10-23): his Prophecies of Isaiah, translated from the Hebrew (Norgate, second edition, 1886).",
  "_name_words": [
-  "rodwell"
+  "rodwell",
+  "j. m. eodwell"
  ],
  "_surname": [
-  "rodwell"
+  "rodwell",
+  "j. m. eodwell"
  ],
  "ccel": {},
  "gutenberg": {
@@ -13,7 +15,12 @@
    "The Koran (Al-Qur'an)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "rodwell-ia-isaiah": [
+   "propheciesofisai00rodw",
+   "Rodwell: The Prophecies of Isaiah"
+  ]
+ },
  "titles": {
   "rodwell-koran": {
    "source": "rodwell-koran",
@@ -23,22 +30,41 @@
    "translator": "J. M. Rodwell",
    "scan_edition": "Project Gutenberg 2800 (clean text)",
    "note": "Rodwell orders the suras by his estimate of their chronology, not the traditional order; the unit id must carry the sura number, not the position."
+  },
+  "rodwell-the-prophecies-of-isaiah": {
+   "source": "rodwell-ia-isaiah",
+   "of": "Isaiah (Hebrew Bible)",
+   "work": "The Prophecies of Isaiah, translated from the Hebrew",
+   "translated": "1886 (second edition)",
+   "translator": "J. M. Rodwell",
+   "scan_edition": "Frederic Norgate, London; Williams & Norgate, Edinburgh, 1886 (second edition)"
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-3434": "Gutenberg 3434 is the same Rodwell translation (an older file); not fetched twice."
  },
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed. 'j. m. eodwell' is the OCR of the 1886 Isaiah title page (2026-10-23).",
  "_checks": {
   "rodwell-koran": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rodwell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "J. M. Rodwell"
+  },
+  "rodwell-ia-isaiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. m. eodwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -46,6 +72,14 @@
    "pg": 2800,
    "pg_copyrighted_marker": false,
    "pg_translator": "J. M. Rodwell"
+  },
+  "rodwell-ia-isaiah": {
+   "ia": "propheciesofisai00rodw",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1886
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

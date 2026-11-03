@@ -1,0 +1,111 @@
+{
+ "_about": "Rhoda Broughton: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Rhoda Broughton",
+ "_name_words": [
+  "broughton",
+  "rhoda"
+ ],
+ "_surname": [
+  "rhoda broughton",
+  "broughton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rbroughton-nancy": [
+   12304,
+   "Nancy: A Novel"
+  ],
+  "rbroughton-alas-a-novel": [
+   34428,
+   "Alas! A Novel"
+  ],
+  "rbroughton-doctor-cupid": [
+   35548,
+   "Doctor Cupid: A Novel"
+  ],
+  "rbroughton-red-as-a-rose-is-she": [
+   45178,
+   "Red as a Rose is She: A Novel"
+  ],
+  "rbroughton-tales-for-christmas-eve": [
+   69297,
+   "Tales for Christmas Eve"
+  ],
+  "rbroughton-lavinia": [
+   72772,
+   "Lavinia"
+  ],
+  "rbroughton-waifs-progress": [
+   73654,
+   "A waif's progress"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rbroughton-nancy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoda broughton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbroughton-alas-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoda broughton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbroughton-doctor-cupid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoda broughton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbroughton-red-as-a-rose-is-she": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoda broughton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbroughton-tales-for-christmas-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoda broughton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbroughton-lavinia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoda broughton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbroughton-waifs-progress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhoda broughton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

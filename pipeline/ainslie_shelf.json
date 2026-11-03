@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Douglas Ainslie (1865-1948): Benedetto Croce's Philosophy of the Spirit (Macmillan, 1909-21): Aesthetic (both the 1909 and the revised 1922 translation), Logic, the Philosophy of the Practical, Theory and History of Historiography, and Ariosto, Shakespeare and Corneille. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Douglas Ainslie (1865-1948): Benedetto Croce's Philosophy of the Spirit (Macmillan, 1909-21): Aesthetic (both the 1909 and the revised 1922 translation), Logic, the Philosophy of the Practical, Theory and History of Historiography, and Ariosto, Shakespeare and Corneille; from archive.org, What Is Living and What Is Dead of the Philosophy of Hegel (1915). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
  "_name_words": [
   "douglas ainslie"
  ],
@@ -34,7 +34,13 @@
    "Aesthetic as Science of Expression and General Linguistic"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ain-ia-croce-hegel": [
+   "in.ernet.dli.2015.175520",
+   "Croce: What Is Living and What Is Dead of Hegel",
+   "2015.175520.What-Is-Living-And-What-Is-Dead-Of-The-Philosophy-Of-Hegel_djvu.txt"
+  ]
+ },
  "titles": {
   "ainslie-croce-aesthetic-1909": {
    "source": "ain-9306",
@@ -85,15 +91,25 @@
    "translated": "1909-1922 (see the Gutenberg header)",
    "translator": "Douglas Ainslie",
    "scan_edition": "Project Gutenberg 54642 (clean text)"
+  },
+  "ainslie-croce-what-is-living-and-what-is-dead-of-the-philosophy-of-hegel": {
+   "source": "ain-ia-croce-hegel",
+   "of": "Benedetto Croce",
+   "work": "What Is Living and What Is Dead of the Philosophy of Hegel",
+   "translated": "1915",
+   "translator": "Douglas Ainslie",
+   "scan_edition": "Macmillan, London, 1915 (Digital Library of India scan)"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Reynard the Fox 'after the German version of Goethe' (1887) is his verse retelling, not a translation. The 1922 Aesthetic scan (bwb_S0-EBZ-961) and History, Its Theory and Practice (isbn_9781179603025) are modern reprints."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "ain-54137": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "douglas ainslie",
    "identity": "ok",
@@ -102,7 +118,7 @@
   },
   "ain-54165": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "douglas ainslie",
    "identity": "ok",
@@ -111,7 +127,7 @@
   },
   "ain-54618": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "douglas ainslie",
    "identity": "ok",
@@ -120,7 +136,7 @@
   },
   "ain-54642": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "douglas ainslie",
    "identity": "ok",
@@ -129,7 +145,7 @@
   },
   "ain-54938": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "douglas ainslie",
    "identity": "ok",
@@ -138,12 +154,23 @@
   },
   "ain-9306": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "douglas ainslie",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Douglas Ainslie"
+  },
+  "ain-ia-croce-hegel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglas ainslie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -176,6 +203,16 @@
    "pg": 9306,
    "pg_copyrighted_marker": false,
    "pg_translator": "Douglas Ainslie"
+  },
+  "ain-ia-croce-hegel": {
+   "ia": "in.ernet.dli.2015.175520",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906,
+    1912,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -1,0 +1,344 @@
+{
+ "_about": "Picture study, music and architecture books the PNEU programmes set. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "ady",
+  "arthur",
+  "bulley",
+  "carr",
+  "cartwright",
+  "cedric",
+  "colles",
+  "comyns",
+  "crane",
+  "gladys",
+  "glover",
+  "heathcote",
+  "howard",
+  "julia",
+  "leslie",
+  "margaret",
+  "mrs",
+  "percy",
+  "pollitt",
+  "scholes",
+  "shera",
+  "statham",
+  "walter",
+  "waterhouse",
+  "wynne"
+ ],
+ "_surname_by_slug": {
+  "bulley-ancient-medieval-art": [
+   "bulley",
+   "margaret h. bulley"
+  ],
+  "carr-ideals-painting": [
+   "carr",
+   "j. comyns carr"
+  ],
+  "scholes-listener-s-guide": [
+   "scholes",
+   "percy a. scholes"
+  ],
+  "cartwright-painters-florence": [
+   "cartwright",
+   "julia cartwright"
+  ],
+  "pollitt-enjoyment-music": [
+   "pollitt",
+   "arthur w. pollitt"
+  ],
+  "scholes-second-book-great": [
+   "scholes",
+   "percy a. scholes"
+  ],
+  "statham-short-critical-history": [
+   "statham",
+   "h. heathcote statham"
+  ],
+  "waterhouse-story-architecture": [
+   "waterhouse",
+   "p. leslie waterhouse"
+  ],
+  "colles-growth-music-i": [
+   "colles",
+   "h. c. colles"
+  ],
+  "colles-growth-music-ii": [
+   "colles",
+   "h. c. colles"
+  ],
+  "colles-growth-music-iii": [
+   "colles",
+   "h. c. colles"
+  ],
+  "shera-musical-groundwork": [
+   "shera",
+   "f. h. shera"
+  ],
+  "glover-term-s-music": [
+   "glover",
+   "cedric howard glover"
+  ],
+  "wynne-architecture-people-s": [
+   "wynne",
+   "gladys wynne"
+  ],
+  "crane-basis-design": [
+   "crane",
+   "walter crane"
+  ],
+  "scholes-book-great-musicians": [
+   "scholes",
+   "percy a. scholes"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "crane-basis-design": [
+   47967,
+   "Walter Crane, The Bases of Design (London: George Bell, 1898)"
+  ]
+ },
+ "internet_archive": {
+  "bulley-ancient-medieval-art": [
+   "ancientmedievala00bulluoft",
+   "Margaret H. Bulley, Ancient and Medieval Art: A Short History, New York: Macmillan, 1914"
+  ],
+  "carr-ideals-painting": [
+   "idealsofpainting00carrrich",
+   "J. Comyns Carr, The Ideals of Painting, New York: Macmillan, 1917"
+  ],
+  "scholes-listener-s-guide": [
+   "in.ernet.dli.2015.179635",
+   "Percy A. Scholes, The Listener's Guide to Music, intro. W. H. Hadow, 3rd ed., London: Oxford University Press, 1920",
+   "2015.179635.The-Listeners-Guide-To-Music_djvu.txt"
+  ],
+  "cartwright-painters-florence": [
+   "paintersoffloren00adyjrich",
+   "Julia Cartwright (Mrs. Ady), The Painters of Florence from the Thirteenth to the Sixteenth Century (New York: E. P. Dutton [1901]; London: John Murray, 1901)"
+  ],
+  "pollitt-enjoyment-music": [
+   "enjoymentofmusic00poll",
+   "Arthur W. Pollitt, The Enjoyment of Music (London: Methuen, 1921)"
+  ],
+  "scholes-second-book-great": [
+   "secondbookofgrea0000perc",
+   "Percy A. Scholes, The Second Book of the Great Musicians (Oxford University Press, 1922)"
+  ],
+  "statham-short-critical-history": [
+   "shortcriticalhis00stat",
+   "H. Heathcote Statham, A Short Critical History of Architecture (London: B. T. Batsford, 1912)"
+  ],
+  "waterhouse-story-architecture": [
+   "bwb_C0-BNW-159",
+   "P. Leslie Waterhouse, The Story of Architecture (London: B. T. Batsford, 1902)"
+  ],
+  "colles-growth-music-i": [
+   "growthofmusicstu00coll_0",
+   "H. C. Colles, The Growth of Music, Part I: From the Troubadours to J. S. Bach (Oxford: Clarendon Press, 1912)"
+  ],
+  "colles-growth-music-ii": [
+   "growthmusicastu01collgoog",
+   "H. C. Colles, The Growth of Music, Part II: The Age of the Sonata (Oxford: Clarendon Press, 1913)"
+  ],
+  "colles-growth-music-iii": [
+   "growthmusicastu00collgoog",
+   "H. C. Colles, The Growth of Music, Part III: Ideals of the Nineteenth Century (Oxford: Clarendon Press, 1916)"
+  ],
+  "shera-musical-groundwork": [
+   "musicalgroundwor00sherrich",
+   "F. H. Shera, Musical Groundwork: a short course of aural training (London: Oxford UP/H. Milford, 1922)"
+  ],
+  "glover-term-s-music": [
+   "termsmusic0000cedr",
+   "Cedric Howard Glover, The Term's Music (London: Kegan Paul / J. Curwen, 1925)"
+  ],
+  "wynne-architecture-people-s": [
+   "archshowntochild00wynn",
+   "Gladys Wynne, Architecture Shown to the Children (London: T. C. & E. C. Jack, [1913])"
+  ],
+  "scholes-book-great-musicians": [
+   "cu31924022331551",
+   "Percy A. Scholes, The Book of the Great Musicians (London: Oxford University Press, H. Milford, 1921)"
+  ]
+ },
+ "_checks": {
+  "crane-basis-design": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bulley-ancient-medieval-art": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "bulley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carr-ideals-painting": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scholes-listener-s-guide": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "scholes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cartwright-painters-florence": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "cartwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "[1901]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pollitt-enjoyment-music": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "pollitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scholes-second-book-great": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "scholes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "statham-short-critical-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "statham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterhouse-story-architecture": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "waterhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colles-growth-music-i": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "colles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colles-growth-music-ii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "colles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colles-growth-music-iii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "colles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shera-musical-groundwork": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "shera",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "glover-term-s-music": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "glover",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wynne-architecture-people-s": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "wynne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scholes-book-great-musicians": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "scholes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

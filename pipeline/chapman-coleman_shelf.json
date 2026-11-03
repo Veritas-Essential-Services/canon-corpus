@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Mrs. Chapman Coleman (1813-1891), with her daughters: Luise Mühlbach's historical novels (Appleton, 1867-69). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Mrs. Chapman Coleman (1813-1891), with her daughters: Luise Mühlbach's historical novels (Appleton, 1867-69). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted. From archive.org (2026-10-23): Mühlbach's Goethe and Schiller (Fowle, 1906 printing).",
  "_name_words": [
   "chapman coleman"
  ],
@@ -30,7 +30,12 @@
    "Goethe and Schiller: An Historical Romance"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cco-ia-goethe-schiller": [
+   "goeandschiller00colegoog",
+   "Mühlbach: Goethe and Schiller"
+  ]
+ },
  "titles": {
   "chapman-coleman-muhlbach-berlin-and-sans-souci-or-frederick-the-g": {
    "source": "cco-4205",
@@ -71,6 +76,14 @@
    "translated": "1867-1869 (see the Gutenberg header)",
    "translator": "Mrs. Chapman Coleman",
    "scan_edition": "Project Gutenberg 12019 (clean text)"
+  },
+  "chapman-coleman-muhlbach-goethe-and-schiller": {
+   "source": "cco-ia-goethe-schiller",
+   "of": "Luise Mühlbach",
+   "work": "Goethe and Schiller: an Historical Romance",
+   "translated": "1906 (this printing; the translation is older)",
+   "translator": "Chapman Coleman",
+   "scan_edition": "A. L. Fowle, New York, 1906 (Google scan); title page: \"translated from the German by Chapman Coleman\""
   }
  },
  "_pending": {},
@@ -79,7 +92,7 @@
  "_checks": {
   "cco-12019": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chapman coleman",
    "identity": "ok",
@@ -88,7 +101,7 @@
   },
   "cco-3320": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chapman coleman",
    "identity": "ok",
@@ -97,7 +110,7 @@
   },
   "cco-3537": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chapman coleman",
    "identity": "ok",
@@ -106,7 +119,7 @@
   },
   "cco-4205": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chapman coleman",
    "identity": "ok",
@@ -115,12 +128,23 @@
   },
   "cco-46883": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chapman coleman",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-ia-goethe-schiller": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chapman coleman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -148,6 +172,17 @@
    "pg": 46883,
    "pg_copyrighted_marker": false,
    "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-ia-goethe-schiller": {
+   "ia": "goeandschiller00colegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1774,
+    1782,
+    1887,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

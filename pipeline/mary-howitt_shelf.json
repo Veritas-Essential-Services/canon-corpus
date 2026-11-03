@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Mary Howitt (1799-1888): Fredrika Bremer's novels (1843-44). Her Andersen is on the andersen shelf, not here. US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Mary Howitt (1799-1888): Fredrika Bremer's novels and travels (1843-63), and Paalzow's Citizen of Prague (1846). Her Andersen is on the andersen shelf, not here. US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
  "_name_words": [
-  "mary howitt"
+  "mary howitt",
+  "maey howitt"
  ],
  "_surname": [
-  "mary howitt"
+  "mary howitt",
+  "maey howitt"
  ],
- "_surname_note": "Full name only.",
+ "_surname_note": "Full name only. 'maey howitt' is the OCR's reading of MARY HOWITT on the Hertha and Homes of the New World vol. II title pages (2026-10-23).",
  "ccel": {},
  "gutenberg": {
   "how-20156": [
@@ -18,7 +20,59 @@
    "The Home; Or, Life in Sweden"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "how-ia-hertha": [
+   "hertha00howigoog",
+   "Hertha"
+  ],
+  "how-ia-homes-new-world-1": [
+   "homesofnewworldi01brem",
+   "Homes of the New World 1"
+  ],
+  "how-ia-homes-new-world-2": [
+   "homesofnewworldi02bremuoft",
+   "Homes of the New World 2"
+  ],
+  "how-ia-life-old-world-1": [
+   "lifeinoldworldor01bremuoft",
+   "Life in the Old World 1"
+  ],
+  "how-ia-life-old-world-2": [
+   "lifeinoldworldor02bremuoft",
+   "Life in the Old World 2"
+  ],
+  "how-ia-greece-1": [
+   "india.history.resource.77751",
+   "Greece and the Greeks 1",
+   "77751_djvu.txt"
+  ],
+  "how-ia-greece-2": [
+   "india.history.resource.77752",
+   "Greece and the Greeks 2",
+   "77752_djvu.txt"
+  ],
+  "how-ia-holy-land-1": [
+   "india.history.resource.75182",
+   "Travels in the Holy Land 1",
+   "75182_djvu.txt"
+  ],
+  "how-ia-h-family-1": [
+   "hfamilytralinnan01bremiala",
+   "The H-- Family 1"
+  ],
+  "how-ia-h-family-2": [
+   "hfamilytralinnan02bremiala",
+   "The H-- Family 2"
+  ],
+  "how-ia-presidents-daughters": [
+   "presidentsdaught00bremuoft",
+   "The President's Daughters"
+  ],
+  "how-ia-citizen-of-prague": [
+   "citizenpraguetr00paalgoog",
+   "The Citizen of Prague"
+  ]
+ },
  "titles": {
   "mary-howitt-bremer-strife-and-peace": {
    "source": "how-20156",
@@ -35,17 +89,114 @@
    "translated": "1843-1844 (see the Gutenberg header)",
    "translator": "Mary Howitt",
    "scan_edition": "Project Gutenberg 20746 (clean text)"
+  },
+  "mary-howitt-bremer-hertha": {
+   "source": "how-ia-hertha",
+   "of": "Fredrika Bremer",
+   "work": "Hertha",
+   "translated": "1856",
+   "translator": "Mary Howitt",
+   "scan_edition": "G. P. Putnam, New York, 1856 (Google scan)"
+  },
+  "mary-howitt-bremer-homes-of-the-new-world-1": {
+   "source": "how-ia-homes-new-world-1",
+   "of": "Fredrika Bremer",
+   "work": "The Homes of the New World: Impressions of America, vol. I",
+   "translated": "1853",
+   "translator": "Mary Howitt",
+   "scan_edition": "Harper, New York, 1854 (vol. I); the two volumes here are different printings"
+  },
+  "mary-howitt-bremer-homes-of-the-new-world-2": {
+   "source": "how-ia-homes-new-world-2",
+   "of": "Fredrika Bremer",
+   "work": "The Homes of the New World: Impressions of America, vol. II",
+   "translated": "1853",
+   "translator": "Mary Howitt",
+   "scan_edition": "London, 1853 (vol. II); the two volumes here are different printings"
+  },
+  "mary-howitt-bremer-life-in-the-old-world-1": {
+   "source": "how-ia-life-old-world-1",
+   "of": "Fredrika Bremer",
+   "work": "Life in the Old World; or, Two Years in Switzerland and Italy, vol. I",
+   "translated": "1860",
+   "translator": "Mary Howitt",
+   "scan_edition": "T. B. Peterson, Philadelphia, 1860"
+  },
+  "mary-howitt-bremer-life-in-the-old-world-2": {
+   "source": "how-ia-life-old-world-2",
+   "of": "Fredrika Bremer",
+   "work": "Life in the Old World; or, Two Years in Switzerland and Italy, vol. II",
+   "translated": "1860",
+   "translator": "Mary Howitt",
+   "scan_edition": "T. B. Peterson, Philadelphia, 1860"
+  },
+  "mary-howitt-bremer-greece-and-the-greeks-1": {
+   "source": "how-ia-greece-1",
+   "of": "Fredrika Bremer",
+   "work": "Greece and the Greeks, vol. I",
+   "translated": "1863",
+   "translator": "Mary Howitt",
+   "scan_edition": "Hurst and Blackett, London, 1863 (Digital Library of India scan)"
+  },
+  "mary-howitt-bremer-greece-and-the-greeks-2": {
+   "source": "how-ia-greece-2",
+   "of": "Fredrika Bremer",
+   "work": "Greece and the Greeks, vol. II",
+   "translated": "1863",
+   "translator": "Mary Howitt",
+   "scan_edition": "Hurst and Blackett, London, 1863 (Digital Library of India scan)"
+  },
+  "mary-howitt-bremer-travels-in-the-holy-land-1": {
+   "source": "how-ia-holy-land-1",
+   "of": "Fredrika Bremer",
+   "work": "Travels in the Holy Land, vol. I",
+   "translated": "1862",
+   "translator": "Mary Howitt",
+   "scan_edition": "Hurst and Blackett, London, 1862 (Digital Library of India scan); vol. II not shelved, its OCR does not name the translator"
+  },
+  "mary-howitt-bremer-h-family-1": {
+   "source": "how-ia-h-family-1",
+   "of": "Fredrika Bremer",
+   "work": "The H-- Family; Trälinnan; Axel and Anna, vol. I",
+   "translated": "1844",
+   "translator": "Mary Howitt",
+   "scan_edition": "London, 1844"
+  },
+  "mary-howitt-bremer-h-family-2": {
+   "source": "how-ia-h-family-2",
+   "of": "Fredrika Bremer",
+   "work": "The H-- Family; Trälinnan; Axel and Anna, vol. II",
+   "translated": "1844",
+   "translator": "Mary Howitt",
+   "scan_edition": "London, 1844"
+  },
+  "mary-howitt-bremer-presidents-daughters": {
+   "source": "how-ia-presidents-daughters",
+   "of": "Fredrika Bremer",
+   "work": "The President's Daughters; Nina",
+   "translated": "1843 (new edition, revised, 1852)",
+   "translator": "Mary Howitt",
+   "scan_edition": "Bohn's Standard Library, London, 1852; 1976 is a library accession stamp"
+  },
+  "mary-howitt-paalzow-citizen-of-prague": {
+   "source": "how-ia-citizen-of-prague",
+   "of": "Henriette von Paalzow",
+   "work": "The Citizen of Prague (3 vols in one scan)",
+   "translated": "1846",
+   "translator": "Mary Howitt",
+   "scan_edition": "London, 1846 (Google scan); title page: translated by Mary Howitt"
   }
  },
  "_pending": {},
  "_excluded": {
-  "andersen": "Andersen's True Story of My Life (7007) and Wonderful Stories for Children (43600) in her translation are already on andersen_shelf.json."
+  "andersen": "Andersen's True Story of My Life (7007) and Wonderful Stories for Children (43600) in her translation are already on andersen_shelf.json.",
+  "bremer-unconfirmed": "Not shelved 2026-10-23: Neighbours (neighbourstrbym00bremgoog) and Travels in the Holy Land vol. II (india.history.resource.75256), whose OCR never names the translator; New Sketches of Every-day Life (newsketchesofeve00bremuoft), a Harper omnibus repeating Strife and Peace, already shelved from Gutenberg."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "how-20156": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary howitt",
    "identity": "ok",
@@ -54,12 +205,144 @@
   },
   "how-20746": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary howitt",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Mary Howitt"
+  },
+  "how-ia-hertha": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maey howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-homes-new-world-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-homes-new-world-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maey howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-life-old-world-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-life-old-world-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-greece-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "how-ia-greece-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "how-ia-holy-land-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "how-ia-h-family-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-h-family-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-presidents-daughters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "how-ia-citizen-of-prague": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +355,128 @@
    "pg": 20746,
    "pg_copyrighted_marker": false,
    "pg_translator": "Mary Howitt"
+  },
+  "how-ia-hertha": {
+   "ia": "hertha00howigoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "how-ia-homes-new-world-1": {
+   "ia": "homesofnewworldi01brem",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849,
+    1853,
+    1854,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "how-ia-homes-new-world-2": {
+   "ia": "homesofnewworldi02bremuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1853
+   ],
+   "post_1930_years_in_front_15k": [
+    1980
+   ],
+   "post_1930_examined": "1980 is the Ontario Legislative Library's gift stamp on the front leaf; the title page reads London 1853"
+  },
+  "how-ia-life-old-world-1": {
+   "ia": "lifeinoldworldor01bremuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1860
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "how-ia-life-old-world-2": {
+   "ia": "lifeinoldworldor02bremuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1857,
+    1860
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "how-ia-greece-1": {
+   "ia": "india.history.resource.77751",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1859,
+    1863
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the Digital Library of India digitising line, not a printing"
+  },
+  "how-ia-greece-2": {
+   "ia": "india.history.resource.77752",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1860,
+    1863
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the Digital Library of India digitising line, not a printing"
+  },
+  "how-ia-holy-land-1": {
+   "ia": "india.history.resource.75182",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1669,
+    1858,
+    1862
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the Digital Library of India digitising line, not a printing"
+  },
+  "how-ia-h-family-1": {
+   "ia": "hfamilytralinnan01bremiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1844
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "how-ia-h-family-2": {
+   "ia": "hfamilytralinnan02bremiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "how-ia-presidents-daughters": {
+   "ia": "presidentsdaught00bremuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1848,
+    1852
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "how-ia-citizen-of-prague": {
+   "ia": "citizenpraguetr00paalgoog",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1755,
+    1845,
+    1846
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "Google's notice fills the first 30 KB; the title page after it reads TRANSLATED BY MARY HOWITT, London 1846"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

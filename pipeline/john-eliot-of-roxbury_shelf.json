@@ -1,0 +1,251 @@
+{
+ "_about": "Public-domain John Eliot (1604-1690), pastor of Roxbury and missionary to the Massachusett, for the Word Hoard: the Indian tracts (Tears of Repentance 1653, A Late and Further Manifestation 1655, the Further Accounts of 1659 and 1660, the Brief Narrative of 1671), The Christian Commonwealth (1659), Communion of Churches (1665), The Indian Grammar Begun (1666), Indian Dialogues (1671), The Harmony of the Gospels (1678), A Brief Answer on infant baptism (1679), The Dying Speeches of Several Indians (1683), the Logic Primer (1672, reprinted 1904) and his letters to Jonathan Hanmer (1915), from Internet Archive scans. His Massachusett Bible and translations are left out as not English. Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "eliot"
+ ],
+ "_surname": [
+  "john eliot",
+  "jo. eliot",
+  "joh. eliot",
+  "mr. eliot",
+  "j. eliot"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eliot-tears-of-repentance-1653": [
+   "tearsofrepentanc00elio",
+   "Tears of Repentance: or, A Further Narrative of the Progress of the Gospel amongst the Indians in New-England, with Thomas Mayhew (London: Peter Cole, 1653)"
+  ],
+  "eliot-late-further-manifestation-1655": [
+   "latefurthermanif00elio",
+   "A Late and Further Manifestation of the Progress of the Gospel amongst the Indians in New-England, published by the Corporation (London: M. Simmons, 1655)"
+  ],
+  "eliot-christian-commonwealth-1659": [
+   "christiancommonw00elio_0",
+   "The Christian Commonwealth: or, The Civil Policy of the Rising Kingdom of Jesus Christ (London: Livewell Chapman, 1659)"
+  ],
+  "eliot-further-accompt-1659": [
+   "bim_early-english-books-1641-1700_a-further-accompt-of-the_eliot-john_1659",
+   "A Further Accompt of the Progresse of the Gospel amongst the Indians in New England, set forth in certaine Letters (London: M. Simmons for the Corporation of New England, 1659)"
+  ],
+  "eliot-further-account-1660": [
+   "furtheraccountof00elio",
+   "A Further Account of the Progress of the Gospel amongst the Indians in New England, being a Relation of the Confessions made by several Indians (London: John Macock, 1660)"
+  ],
+  "eliot-communion-of-churches-1665": [
+   "bim_early-english-books-1641-1700_communion-of-churches-_eliot-john_1665",
+   "Communion of Churches: or, The Divine Management of Gospel-Churches by the Ordinance of Councils (Cambridge: Marmaduke Johnson, catalogued 1665)"
+  ],
+  "eliot-indian-grammar-1666": [
+   "indiangrammarbeg00elio",
+   "The Indian Grammar Begun: or, An Essay to bring the Indian Language into Rules (Cambridge: Marmaduke Johnson, 1666)"
+  ],
+  "eliot-brief-narrative-1671": [
+   "briefnarrativeof00elio",
+   "A Brief Narrative of the Progress of the Gospel amongst the Indians in New-England, in the Year 1670 (London: John Allen, 1671)"
+  ],
+  "eliot-indian-dialogues-1671": [
+   "bim_early-english-books-1641-1700_indian-dialogues-_eliot-john_1671",
+   "Indian Dialogues, for their Instruction in that great Service of Christ, in calling home their Countrymen to the Knowledge of God (catalogued 1671)"
+  ],
+  "eliot-harmony-of-gospels-1678": [
+   "bim_early-english-books-1641-1700_the-harmony-of-the-gospe_eliot-john_1678",
+   "The Harmony of the Gospels, in the Holy History of the Humiliation and Sufferings of Jesus Christ, from his Incarnation to his Death and Burial (Boston: John Foster, 1678)"
+  ],
+  "eliot-brief-answer-1679": [
+   "bim_early-english-books-1641-1700_a-brief-ansvver-to-a-sma_eliot-john_1679",
+   "A Brief Answer to a Small Book written by John Norcot against Infant-Baptisme (catalogued 1679)"
+  ],
+  "eliot-dying-speeches-1683": [
+   "bim_early-english-books-1641-1700_the-dying-speeches-of-se_eliot-john_1683",
+   "The Dying Speeches of Several Indians, translated by Eliot (catalogued 1683)"
+  ],
+  "eliot-logic-primer-1904": [
+   "logicprimerrepri00elio",
+   "The Logic Primer, reprinted from the unique original of 1672, with an introduction by Wilberforce Eames (Cleveland: The Burrows Brothers Company, 1904)"
+  ],
+  "eliot-letters-hanmer-1915": [
+   "cu31924104076884",
+   "John Eliot and the Indians, 1652-1657, being Letters addressed to Rev. Jonathan Hanmer of Barnstaple, ed. Wilberforce Eames (New York: The Adams & Grace Press, MCMXV)"
+  ]
+ },
+ "_alternates": {
+  "eliot-copies": "Other scans: tearsofrepentanc00elio_0, tearsofrepentanc00elio_1 and the bim copies of Tears of Repentance; the bim copies of the 1655 Manifestation, the 1660 Account, the 1666 Grammar and the 1671 Brief Narrative; the 1868 reprint of the Brief Narrative (gospelindians00eliorich); the 1672 Logick Primer (bim); A Grammar of the Massachusetts Indian Language (1822, the 1666 Grammar with notes by Pickering)"
+ },
+ "_excluded": {
+  "eliot-not-english": "The Massachusett Bible (1663, 1685) and New Testament (1661), the Indian Primers (1669, 1687, 1720, 1747, 1877, 1880) and his Massachusett translations of Bayly and Shepard: not English",
+  "eliot-joint-tracts": "The Day-Breaking (1647), The Clear Sun-shine (1648, on the Thomas Shepard shelf), Strength out of Weaknesse and A Farther Discovery (1865 reprints): tracts by Wilson, Shepard, Whitfield and the Corporation, with letters of his",
+  "eliot-other": "Poems or Epigrams (1658) by another John Eliot; John Eliot, M.D. (1694); Walker's Ten New England Leaders (1901); books about him"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "eliot-late-further-manifestation-1655": "read: the commendation before the text says 'the ensuing Narration, written by Master Eliot'; the title page names the Corporation as publisher, the catalogue credits Eliot (OCR 'Mafter . Eliot')",
+  "eliot-christian-commonwealth-1659": "title page read: 'Written by Mr. John Eliot, Teacher of the Church of Christ at Roxbury in New-England' (OCR 'Fobn Eliot')",
+  "eliot-communion-of-churches-1665": "title page read: 'Written by John Eliot, Teacher of the Church at Roxbury' (OCR 'fobm Elior', rough)",
+  "eliot-brief-narrative-1671": "read: the narrative is a letter signed 'John Elliot', Roxbury, 1670 (OCR 'Fobn Elliot')",
+  "eliot-harmony-of-gospels-1678": "title page read: 'Published by John Eliot, Teacher of the Church in Roxbury', printed by John Foster, 1678 (OCR 'FOHN ELIOT')",
+  "eliot-brief-answer-1679": "title page read: 'This Answer is written by John Eliot for the sake of some of the Flock of Jesus Christ' (OCR 'Fob» Eliet')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "eliot-tears-of-repentance-1653": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mr. eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1653",
+   "ia_date": "1653",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-late-further-manifestation-1655": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1655",
+   "ia_date": "1655",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-christian-commonwealth-1659": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-further-accompt-1659": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-further-account-1660": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-communion-of-churches-1665": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1665",
+   "ia_date": "1665",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-indian-grammar-1666": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1666",
+   "ia_date": "1666",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-brief-narrative-1671": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1671",
+   "ia_date": "1671",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-indian-dialogues-1671": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mr. eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1671",
+   "ia_date": "1671",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-harmony-of-gospels-1678": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1678",
+   "ia_date": "1678",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-brief-answer-1679": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1679",
+   "ia_date": "1679",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-dying-speeches-1683": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mr. eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1683",
+   "ia_date": "1683",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eliot-logic-primer-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "eliot-letters-hanmer-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john eliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

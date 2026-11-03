@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain Jeremiah Bell Jeter (1802-1880), Virginia Baptist minister and editor of the Religious Herald, for the Word Hoard: A Memoir of Abner W. Clopton (1837), A Memoir of Mrs. Henrietta Shuck (1849), Campbellism Examined (1854), The Mirror (1855), The Seal of Heaven (1871), The Life and Times of James B. Taylor (1872) and The Life of Rev. Daniel Witt (1875), from Internet Archive scans. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jeter"
+ ],
+ "_surname": [
+  "jeremiah b. jeter",
+  "j. b. jeter",
+  "jeremiah bell jeter",
+  "jeter"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jeter-clopton": [
+   "memoirofabnerwcl00jete",
+   "A memoir of Abner W. Clopton (Richmond, Yale & Wyatt, 1837)"
+  ],
+  "jeter-shuck": [
+   "memoirofmrshenri00jeteiala",
+   "A memoir of Mrs. Henrietta Shuck, the first American female missionary to China (Boston : Gould, Kendall & Lincoln, 1849)"
+  ],
+  "jeter-campbellism": [
+   "campbellismexami00jeteiala",
+   "Campbellism examined (New York : Sheldon, Blakeman, 1858)"
+  ],
+  "jeter-mirror": [
+   "mirrorordelineat00jete",
+   "The mirror; or, A delineation of different classes of Christians, in a series of lectures (New York, Sheldon, Lamport, & Blakeman, 1855)"
+  ],
+  "jeter-seal-of-heaven": [
+   "sealofheaven00jete",
+   "The seal of heaven ([n.p.], 1871)"
+  ],
+  "jeter-james-b-taylor": [
+   "cu31924011500182",
+   "Life and times of James B. Taylor (Philadelphia, The Bible and Publication Society, 1872)"
+  ],
+  "jeter-daniel-witt": [
+   "lifeofrevdanielw00jete",
+   "The life of Rev. Daniel Witt, D. D., of Prince Edward County, Virginia (Richmond, J. T. Ellyson, 1875)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jeter-other": "The Psalmist hymn book (co-edited); Civil War tracts; Taylor's Virginia Baptist Ministers (another author)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jeter-clopton": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremiah b. jeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jeter-shuck": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. jeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jeter-campbellism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremiah b. jeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858 [c1854]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jeter-mirror": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. jeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jeter-seal-of-heaven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. jeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jeter-james-b-taylor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. jeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jeter-daniel-witt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. jeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

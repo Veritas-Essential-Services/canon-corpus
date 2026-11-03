@@ -1,0 +1,213 @@
+{
+ "_about": "Edgar Saltus's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edgar Saltus",
+ "_name_words": [
+  "saltus"
+ ],
+ "_surname": [
+  "saltus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "esaltus-imperial-purple": [
+   4250,
+   "Imperial Purple"
+  ],
+  "esaltus-paliser-case": [
+   29847,
+   "The Paliser case"
+  ],
+  "esaltus-mary-magdalen": [
+   31510,
+   "Mary Magdalen: A Chronicle"
+  ],
+  "esaltus-lords-of-the-ghostland": [
+   31608,
+   "The Lords of the Ghostland: A History of the Ideal"
+  ],
+  "esaltus-eden": [
+   31924,
+   "Eden: An Episode"
+  ],
+  "esaltus-historia-amoris": [
+   32512,
+   "Historia Amoris: A History of Love, Ancient and Modern"
+  ],
+  "esaltus-oscar-wilde": [
+   32849,
+   "Oscar Wilde: An Idler's Impression"
+  ],
+  "esaltus-truth-about-tristrem-varick": [
+   33099,
+   "The Truth About Tristrem Varick: A Novel"
+  ],
+  "esaltus-transient-guest-and-other-episodes": [
+   33123,
+   "A Transient Guest, and Other Episodes"
+  ],
+  "esaltus-perfume-of-eros": [
+   33207,
+   "The Perfume of Eros: A Fifth Avenue Incident"
+  ],
+  "esaltus-pace-that-kills": [
+   34401,
+   "The Pace That Kills: A Chronicle"
+  ],
+  "esaltus-philosophy-of-disenchantment": [
+   40079,
+   "The Philosophy of Disenchantment"
+  ],
+  "esaltus-balzac": [
+   46859,
+   "Balzac"
+  ],
+  "esaltus-mr-incouls-misadventure": [
+   47061,
+   "Mr. Incoul's Misadventure"
+  ],
+  "esaltus-monster": [
+   47654,
+   "The Monster"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "esaltus-imperial-purple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-paliser-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-mary-magdalen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-lords-of-the-ghostland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-eden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-historia-amoris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-oscar-wilde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-truth-about-tristrem-varick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-transient-guest-and-other-episodes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-perfume-of-eros": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-pace-that-kills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-philosophy-of-disenchantment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-balzac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-mr-incouls-misadventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esaltus-monster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saltus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

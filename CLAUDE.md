@@ -112,6 +112,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
     python3 tests/review_test.py                       # review.py end to end, on a temp copy
+    python3 pipeline/extract_short_pieces.py           # short pieces -> data/shorts/ (docs/short-pieces/SHORT-PIECES.tsv)
+    python3 pipeline/extract_short_pieces.py --check   # every ok piece resolves exactly once
+    python3 tests/short_pieces_test.py                 # the extractor, fixtures inline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)

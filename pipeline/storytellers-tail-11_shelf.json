@@ -1,0 +1,936 @@
+{
+ "_about": "Storytellers' tail, group 11: 27 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): J. E. Buckrose, Hayden Carruth, Charles E. Carryl, J. André Castaigne, Arthur Chapman, Henry Clarke, Michael Clarke, William Wallace Cook, Grace MacGowan Cooke, Oll Coomes, Henry St. John Cooper, Corner, Julia Darrow Cowles, E. E. Cowper, Frank Cowper, Gertrude Crownfield, David A. Curtis, Mary Stewart Daggett, William Dalton, Foxcroft Davis, Charles Turner Dazey, James S. De Benneville, John De Morgan, Edna Groff Deihl, Ellen Douglas Deland, Burford Delannoy, C. Despard. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 11 (27 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jebuckrose-privet-hedge": [
+   "j. e. buckrose",
+   "buckrose"
+  ],
+  "jebuckrose-bachelor-s-comedy": [
+   "j. e. buckrose",
+   "buckrose"
+  ],
+  "hcarruth-voyage-of-the-rattletrap": [
+   "hayden carruth",
+   "carruth"
+  ],
+  "hcarruth-track-s-end-being-the-narrative-of-judson-pitcher-s": [
+   "hayden carruth",
+   "carruth"
+  ],
+  "cecarryl-admiral-s-caravan": [
+   "charles e. carryl",
+   "charles edward carryl",
+   "carryl"
+  ],
+  "cecarryl-davy-and-the-goblin-what-followed-reading-alice-s-a": [
+   "charles e. carryl",
+   "charles edward carryl",
+   "carryl"
+  ],
+  "jacastaigne-bill-toppers": [
+   "j. andré castaigne",
+   "castaigne"
+  ],
+  "jacastaigne-fata-morgana": [
+   "j. andré castaigne",
+   "castaigne"
+  ],
+  "achapman-mystery-ranch": [
+   "arthur chapman",
+   "chapman"
+  ],
+  "achapman-rustlers-beware": [
+   "arthur chapman",
+   "chapman"
+  ],
+  "hclarke-miss-merivale-s-mistake": [
+   "henry clarke",
+   "clarke"
+  ],
+  "hclarke-bushranger-s-secret": [
+   "henry clarke",
+   "clarke"
+  ],
+  "mclarke-story-of-aeneas": [
+   "michael clarke",
+   "clarke"
+  ],
+  "mclarke-story-of-troy": [
+   "michael clarke",
+   "clarke"
+  ],
+  "wwcook-adrift-in-the-unknown": [
+   "william wallace cook"
+  ],
+  "wwcook-fiction-factory-being-the-experience-of-a-writer-who": [
+   "william wallace cook"
+  ],
+  "gmcooke-power-and-the-glory": [
+   "grace macgowan cooke",
+   "cooke"
+  ],
+  "gmcooke-girls-of-silver-spur-ranch": [
+   "grace macgowan cooke",
+   "cooke"
+  ],
+  "ocoomes-rainbolt-the-ranger": [
+   "oll coomes",
+   "coomes"
+  ],
+  "ocoomes-boy-ranger": [
+   "oll coomes",
+   "coomes"
+  ],
+  "hsjcooper-imaginary-marriage": [
+   "henry st. john cooper",
+   "cooper"
+  ],
+  "hsjcooper-garden-of-memories": [
+   "henry st. john cooper",
+   "cooper"
+  ],
+  "corner-more-seeds-of-knowledge": [
+   "corner",
+   "julia corner",
+   "corner"
+  ],
+  "corner-child-s-pictorial-history-of-england-from-the-earlies": [
+   "corner",
+   "julia corner",
+   "corner"
+  ],
+  "jdcowles-art-of-story-telling-with-nearly-half-a-hundred-sto": [
+   "julia darrow cowles",
+   "cowles"
+  ],
+  "jdcowles-indian-nature-myths": [
+   "julia darrow cowles",
+   "cowles"
+  ],
+  "eecowper-two-on-the-trail": [
+   "e. e. cowper",
+   "edith elise cowper",
+   "cowper"
+  ],
+  "eecowper-pam-and-the-countess": [
+   "e. e. cowper",
+   "edith elise cowper",
+   "cowper"
+  ],
+  "fcowper-cdwalla": [
+   "frank cowper",
+   "cowper"
+  ],
+  "fcowper-captain-of-the-wight": [
+   "frank cowper",
+   "cowper"
+  ],
+  "gcrownfield-shadow-witch": [
+   "gertrude crownfield",
+   "crownfield"
+  ],
+  "gcrownfield-princess-white-flame": [
+   "gertrude crownfield",
+   "crownfield"
+  ],
+  "dacurtis-stand-pat": [
+   "david a. curtis",
+   "curtis"
+  ],
+  "dacurtis-queer-luck": [
+   "david a. curtis",
+   "curtis"
+  ],
+  "msdaggett-higher-court": [
+   "mary stewart daggett",
+   "daggett"
+  ],
+  "msdaggett-mariposilla": [
+   "mary stewart daggett",
+   "daggett"
+  ],
+  "wdalton-war-tiger-or-adventures-and-wonderful-fortunes-of-th": [
+   "william dalton",
+   "dalton"
+  ],
+  "wdalton-royal-smuggler": [
+   "william dalton",
+   "dalton"
+  ],
+  "fdavis-whirl": [
+   "foxcroft davis"
+  ],
+  "fdavis-mrs-darrell": [
+   "foxcroft davis"
+  ],
+  "ctdazey-in-old-kentucky": [
+   "charles turner dazey",
+   "dazey"
+  ],
+  "ctdazey-old-flute-player": [
+   "charles turner dazey",
+   "dazey"
+  ],
+  "jsdebenneville-yotsuya-kwaidan-or-o-iwa-inari-tales-of-the-t": [
+   "james s. de benneville",
+   "james seguin de benneville"
+  ],
+  "jsdebenneville-bakemono-yashiki-the-haunted-house-retold-fro": [
+   "james s. de benneville",
+   "james seguin de benneville"
+  ],
+  "jdemorgan-hero-of-ticonderoga": [
+   "john de morgan"
+  ],
+  "jdemorgan-cruise-of-the-lively-bee": [
+   "john de morgan"
+  ],
+  "egdeihl-my-twin-kitties": [
+   "edna groff deihl",
+   "deihl"
+  ],
+  "egdeihl-my-twin-puppies": [
+   "edna groff deihl",
+   "deihl"
+  ],
+  "eddeland-successful-venture": [
+   "ellen douglas deland",
+   "deland"
+  ],
+  "eddeland-oakleigh": [
+   "ellen douglas deland",
+   "deland"
+  ],
+  "bdelannoy-19-000": [
+   "burford delannoy",
+   "delannoy"
+  ],
+  "bdelannoy-prince-charlie": [
+   "burford delannoy",
+   "delannoy"
+  ],
+  "cdespard-chaste-as-ice-pure-as-snow": [
+   "c. despard",
+   "charlotte despard",
+   "despard"
+  ],
+  "cdespard-rajah-s-heir-a-novel-in-3-volumes": [
+   "c. despard",
+   "charlotte despard",
+   "despard"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jebuckrose-privet-hedge": [
+   24333,
+   "The Privet Hedge"
+  ],
+  "jebuckrose-bachelor-s-comedy": [
+   49861,
+   "A Bachelor's Comedy"
+  ],
+  "hcarruth-voyage-of-the-rattletrap": [
+   16586,
+   "The Voyage of the Rattletrap"
+  ],
+  "hcarruth-track-s-end-being-the-narrative-of-judson-pitcher-s": [
+   28873,
+   "Track's End Being the Narrative of Judson Pitcher's Strange Winter Spent There as Told by Himself and Edited by Hayden Carruth Including an Accurate Account of His Numerous Adventures, and the Facts Concerning His Several Surprising Escapes from Death Now First Printed in Full"
+  ],
+  "cecarryl-admiral-s-caravan": [
+   24379,
+   "The Admiral's Caravan"
+  ],
+  "cecarryl-davy-and-the-goblin-what-followed-reading-alice-s-a": [
+   25031,
+   "Davy and the Goblin What Followed Reading 'Alice's Adventures in Wonderland'"
+  ],
+  "jacastaigne-bill-toppers": [
+   26242,
+   "The Bill-Toppers"
+  ],
+  "jacastaigne-fata-morgana": [
+   59052,
+   "Fata Morgana: A Romance of Art Student Life in Paris"
+  ],
+  "achapman-mystery-ranch": [
+   30989,
+   "Mystery Ranch"
+  ],
+  "achapman-rustlers-beware": [
+   68554,
+   "Rustlers beware!"
+  ],
+  "hclarke-miss-merivale-s-mistake": [
+   8151,
+   "Miss Merivale's Mistake"
+  ],
+  "hclarke-bushranger-s-secret": [
+   38791,
+   "The Bushranger's Secret"
+  ],
+  "mclarke-story-of-aeneas": [
+   6003,
+   "Story of Aeneas"
+  ],
+  "mclarke-story-of-troy": [
+   16990,
+   "The Story of Troy"
+  ],
+  "wwcook-adrift-in-the-unknown": [
+   44404,
+   "Adrift in the Unknown; or, Queer Adventures in a Queer Realm"
+  ],
+  "wwcook-fiction-factory-being-the-experience-of-a-writer-who": [
+   47455,
+   "The Fiction Factory Being the experience of a writer who, for twenty-two years, has kept a story-mill grinding successfully"
+  ],
+  "gmcooke-power-and-the-glory": [
+   10068,
+   "The Power and the Glory"
+  ],
+  "gmcooke-girls-of-silver-spur-ranch": [
+   44576,
+   "The Girls of Silver Spur Ranch"
+  ],
+  "ocoomes-rainbolt-the-ranger": [
+   59847,
+   "Rainbolt, the Ranger; or, The Aerial Demon of the Mountain"
+  ],
+  "ocoomes-boy-ranger": [
+   65629,
+   "The Boy Ranger; or, The Heiress of the Golden Horn"
+  ],
+  "hsjcooper-imaginary-marriage": [
+   15103,
+   "The Imaginary Marriage"
+  ],
+  "hsjcooper-garden-of-memories": [
+   49074,
+   "The Garden of Memories"
+  ],
+  "corner-more-seeds-of-knowledge": [
+   11099,
+   "More Seeds of Knowledge; Or, Another Peep at Charles"
+  ],
+  "corner-child-s-pictorial-history-of-england-from-the-earlies": [
+   64905,
+   "The Child's Pictorial History of England From the Earliest Period to the Present Time"
+  ],
+  "jdcowles-art-of-story-telling-with-nearly-half-a-hundred-sto": [
+   66303,
+   "The Art of Story-Telling, with nearly half a hundred stories"
+  ],
+  "jdcowles-indian-nature-myths": [
+   70318,
+   "Indian Nature Myths"
+  ],
+  "eecowper-two-on-the-trail": [
+   40663,
+   "Two on the Trail: A Story of Canada Snows"
+  ],
+  "eecowper-pam-and-the-countess": [
+   53468,
+   "Pam and the Countess"
+  ],
+  "fcowper-cdwalla": [
+   53726,
+   "Cædwalla; or, The Saxons in the Isle of Wight: A Tale"
+  ],
+  "fcowper-captain-of-the-wight": [
+   53754,
+   "The Captain of the Wight: A Romance of Carisbrooke Castle in 1488"
+  ],
+  "gcrownfield-shadow-witch": [
+   25005,
+   "The Shadow Witch"
+  ],
+  "gcrownfield-princess-white-flame": [
+   58042,
+   "Princess White Flame"
+  ],
+  "dacurtis-stand-pat": [
+   51760,
+   "Stand Pat; Or, Poker Stories from the Mississippi"
+  ],
+  "dacurtis-queer-luck": [
+   57751,
+   "Queer Luck: Poker Stories from the New York Sun"
+  ],
+  "msdaggett-higher-court": [
+   36509,
+   "The Higher Court"
+  ],
+  "msdaggett-mariposilla": [
+   39709,
+   "Mariposilla: A Novel"
+  ],
+  "wdalton-war-tiger-or-adventures-and-wonderful-fortunes-of-th": [
+   39163,
+   "The War Tiger Or, Adventures and Wonderful Fortunes of the Young Sea Chief and His Lad Chow: A Tale of the Conquest of China"
+  ],
+  "wdalton-royal-smuggler": [
+   74489,
+   "A royal smuggler"
+  ],
+  "fdavis-whirl": [
+   45100,
+   "The Whirl: A Romance of Washington Society"
+  ],
+  "fdavis-mrs-darrell": [
+   47378,
+   "Mrs. Darrell"
+  ],
+  "ctdazey-in-old-kentucky": [
+   13933,
+   "In Old Kentucky"
+  ],
+  "ctdazey-old-flute-player": [
+   17841,
+   "The Old Flute-Player: A Romance of To-day"
+  ],
+  "jsdebenneville-yotsuya-kwaidan-or-o-iwa-inari-tales-of-the-t": [
+   19944,
+   "The Yotsuya Kwaidan or O'Iwa Inari Tales of the Tokugawa, Volume 1 (of 2)"
+  ],
+  "jsdebenneville-bakemono-yashiki-the-haunted-house-retold-fro": [
+   19945,
+   "Bakemono Yashiki (The Haunted House), Retold from the Japanese Originals Tales of the Tokugawa, Volume 2 (of 2)"
+  ],
+  "jdemorgan-hero-of-ticonderoga": [
+   25708,
+   "The Hero of Ticonderoga; or, Ethan Allen and His Green Mountain Boys"
+  ],
+  "jdemorgan-cruise-of-the-lively-bee": [
+   46371,
+   "The Cruise of the \"Lively Bee\"; Or, A Boy's Adventures in the War of 1812"
+  ],
+  "egdeihl-my-twin-kitties": [
+   68248,
+   "My twin kitties"
+  ],
+  "egdeihl-my-twin-puppies": [
+   68254,
+   "My twin puppies"
+  ],
+  "eddeland-successful-venture": [
+   68799,
+   "A successful venture"
+  ],
+  "eddeland-oakleigh": [
+   76126,
+   "Oakleigh"
+  ],
+  "bdelannoy-19-000": [
+   34934,
+   "£19,000"
+  ],
+  "bdelannoy-prince-charlie": [
+   40611,
+   "Prince Charlie"
+  ],
+  "cdespard-chaste-as-ice-pure-as-snow": [
+   58324,
+   "Chaste as Ice, Pure as Snow: A Novel"
+  ],
+  "cdespard-rajah-s-heir-a-novel-in-3-volumes": [
+   58486,
+   "The Rajah's Heir A Novel in 3 volumes"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jebuckrose-privet-hedge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. e. buckrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jebuckrose-bachelor-s-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. e. buckrose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarruth-voyage-of-the-rattletrap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hayden carruth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarruth-track-s-end-being-the-narrative-of-judson-pitcher-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hayden carruth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecarryl-admiral-s-caravan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. carryl",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cecarryl-davy-and-the-goblin-what-followed-reading-alice-s-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. carryl",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacastaigne-bill-toppers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. andré castaigne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacastaigne-fata-morgana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. andré castaigne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-mystery-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-rustlers-beware": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hclarke-miss-merivale-s-mistake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hclarke-bushranger-s-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mclarke-story-of-aeneas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mclarke-story-of-troy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwcook-adrift-in-the-unknown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william wallace cook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwcook-fiction-factory-being-the-experience-of-a-writer-who": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william wallace cook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmcooke-power-and-the-glory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace macgowan cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmcooke-girls-of-silver-spur-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace macgowan cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ocoomes-rainbolt-the-ranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oll coomes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ocoomes-boy-ranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oll coomes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsjcooper-imaginary-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry st. john cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsjcooper-garden-of-memories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry st. john cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "corner-more-seeds-of-knowledge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "corner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "corner-child-s-pictorial-history-of-england-from-the-earlies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "corner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdcowles-art-of-story-telling-with-nearly-half-a-hundred-sto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia darrow cowles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdcowles-indian-nature-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia darrow cowles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eecowper-two-on-the-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. e. cowper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eecowper-pam-and-the-countess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. e. cowper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcowper-cdwalla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank cowper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcowper-captain-of-the-wight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank cowper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcrownfield-shadow-witch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gertrude crownfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcrownfield-princess-white-flame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gertrude crownfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dacurtis-stand-pat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david a. curtis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dacurtis-queer-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david a. curtis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msdaggett-higher-court": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary stewart daggett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msdaggett-mariposilla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary stewart daggett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdalton-war-tiger-or-adventures-and-wonderful-fortunes-of-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william dalton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdalton-royal-smuggler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william dalton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fdavis-whirl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "foxcroft davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fdavis-mrs-darrell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "foxcroft davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctdazey-in-old-kentucky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles turner dazey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctdazey-old-flute-player": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles turner dazey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsdebenneville-yotsuya-kwaidan-or-o-iwa-inari-tales-of-the-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. de benneville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsdebenneville-bakemono-yashiki-the-haunted-house-retold-fro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. de benneville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemorgan-hero-of-ticonderoga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john de morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemorgan-cruise-of-the-lively-bee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john de morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egdeihl-my-twin-kitties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna groff deihl",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egdeihl-my-twin-puppies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna groff deihl",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eddeland-successful-venture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen douglas deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eddeland-oakleigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen douglas deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bdelannoy-19-000": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burford delannoy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bdelannoy-prince-charlie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burford delannoy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdespard-chaste-as-ice-pure-as-snow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. despard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdespard-rajah-s-heir-a-novel-in-3-volumes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. despard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

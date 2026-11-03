@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted.",
+ "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 (2026-10-23, vetoable) added Butts and Browne's Turgenev, Spring Floods and A Lear of the Steppe (1874), Pasvolsky's Kuprin, The Bracelet of Garnets (1917), Tollemache's Russian Sketches (1913), Baskerville's Gogol, Taras Bulba (1907), and Telfer's Pushkin, Russian Romance (1875). Round 124 (2026-10-23, vetoable) added Vikelas twice, Loukis Laras (J. Gennadius, 1881) and Tales from the Aegean (Leonard Eckstein Opdycke, 1894). Round 125 (2026-10-23, vetoable) added Jensen's Gradiva (Helen M. Downey, 1918). Round 126 (2026-10-23, vetoable) added Undset's The Mistress of Husaby (Charles Archer, Grosset & Dunlap fourth printing, December 1928) and Juhani Aho's Squire Hellman and Other Stories (R. Nisbet Bain, 1893). Round 127 (2026-10-23, vetoable) added Sholom Asch's America (James Fuchs, 1918).",
  "_name_words": [
   "a. e. chamot",
   "a. w. wheen",
@@ -108,7 +108,21 @@
   "gaussen",
   "thomas b. shaw",
   "mrs. edgar lucas",
-  "edgar lucas"
+  "edgar lucas",
+  "w. r. s. ralston",
+  "sophie michell butts",
+  "william hand browne",
+  "leo pasvolsky",
+  "beatrix l. tollemache",
+  "tollemache",
+  "b. c. baskerville",
+  "baskerville",
+  "buchan telfer",
+  "j. gennadius",
+  "leonard eckstein opdycke",
+  "helen m. downey",
+  "r. nisbet bain",
+  "james fuchs"
  ],
  "_surname": [
   "a. e. chamot",
@@ -218,7 +232,21 @@
   "gaussen",
   "thomas b. shaw",
   "mrs. edgar lucas",
-  "edgar lucas"
+  "edgar lucas",
+  "w. r. s. ralston",
+  "sophie michell butts",
+  "william hand browne",
+  "leo pasvolsky",
+  "beatrix l. tollemache",
+  "tollemache",
+  "b. c. baskerville",
+  "baskerville",
+  "buchan telfer",
+  "j. gennadius",
+  "leonard eckstein opdycke",
+  "helen m. downey",
+  "r. nisbet bain",
+  "james fuchs"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -571,6 +599,48 @@
   "sf3-pontoppidan-emanuel": [
    "mrs. edgar lucas",
    "edgar lucas"
+  ],
+  "sf3-leskov-sentry": [
+   "a. e. chamot"
+  ],
+  "sf3-turgenev-liza-ralston": [
+   "w. r. s. ralston"
+  ],
+  "sf3-turgenev-spring-floods-butts": [
+   "sophie michell butts",
+   "william hand browne"
+  ],
+  "sf3-kuprin-bracelet-of-garnets": [
+   "leo pasvolsky"
+  ],
+  "sf3-tollemache-russian-sketches": [
+   "beatrix l. tollemache",
+   "tollemache"
+  ],
+  "sf3-gogol-taras-bulba-baskerville": [
+   "b. c. baskerville",
+   "baskerville"
+  ],
+  "sf3-pushkin-russian-romance-telfer": [
+   "buchan telfer"
+  ],
+  "sf3-vikelas-loukis-laras": [
+   "j. gennadius"
+  ],
+  "sf3-vikelas-tales-from-the-aegean": [
+   "leonard eckstein opdycke"
+  ],
+  "sf3-jensen-gradiva": [
+   "helen m. downey"
+  ],
+  "sf3-undset-mistress-of-husaby": [
+   "charles archer"
+  ],
+  "sf3-aho-squire-hellman": [
+   "r. nisbet bain"
+  ],
+  "sf3-asch-america": [
+   "james fuchs"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -901,6 +971,58 @@
   "sf3-pontoppidan-emanuel": [
    "emanuelorchildre00pontiala",
    "Emanuel, or Children of the Soil (1896)"
+  ],
+  "sf3-leskov-sentry": [
+   "NikolaiLeskov-SentryAndOtherStories",
+   "The Sentry, and Other Stories (1923)"
+  ],
+  "sf3-turgenev-liza-ralston": [
+   "lizaturg01turg",
+   "Liza (1869)"
+  ],
+  "sf3-turgenev-spring-floods-butts": [
+   "springfloods00buttgoog",
+   "Spring Floods; A Lear of the Steppe (1874)"
+  ],
+  "sf3-kuprin-bracelet-of-garnets": [
+   "braceletgarnets00kuprgoog",
+   "The Bracelet of Garnets, and Other Stories (1917)"
+  ],
+  "sf3-tollemache-russian-sketches": [
+   "russiansketchesc00tolliala",
+   "Russian Sketches, Chiefly of Peasant Life (1913)"
+  ],
+  "sf3-gogol-taras-bulba-baskerville": [
+   "tarasbulbaastor00baskgoog",
+   "Taras Bulba: a Story of the Dnieper Cossacks (1907)"
+  ],
+  "sf3-pushkin-russian-romance-telfer": [
+   "russianromance00pushiala",
+   "Russian Romance (1875)"
+  ],
+  "sf3-vikelas-loukis-laras": [
+   "loukislarasremin00vike",
+   "Loukis Laras (1881)"
+  ],
+  "sf3-vikelas-tales-from-the-aegean": [
+   "talesfromgean00opdygoog",
+   "Tales from the Aegean (1894)"
+  ],
+  "sf3-jensen-gradiva": [
+   "gradivaapompeii00jensgoog",
+   "Gradiva: a Pompeiian Fancy (1918)"
+  ],
+  "sf3-undset-mistress-of-husaby": [
+   "bwb_S0-BLO-546",
+   "The Mistress of Husaby (1925; 1928 printing)"
+  ],
+  "sf3-aho-squire-hellman": [
+   "squirehellmanoth00ahoj",
+   "Squire Hellman, and Other Stories (1893)"
+  ],
+  "sf3-asch-america": [
+   "america00asch",
+   "America"
   ]
  },
  "titles": {
@@ -1558,19 +1680,130 @@
    "translated": 1896,
    "translator": "Mrs. Edgar Lucas",
    "scan_edition": "J. M. Dent, London 1896 (prefatory note dated April 1896); UCLA scan"
+  },
+  "singles-fiction-3-leskov-the-sentry": {
+   "source": "sf3-leskov-sentry",
+   "of": "Nikolai Leskov",
+   "work": "The Sentry, and Other Stories",
+   "translated": 1923,
+   "translator": "A. E. Chamot",
+   "scan_edition": "Alfred A. Knopf, New York 1923; archive.org scan",
+   "note": "Hapgood's Cathedral Folk and Steel Flea are on the hapgood shelf."
+  },
+  "singles-fiction-3-turgenev-liza-ralston": {
+   "source": "sf3-turgenev-liza-ralston",
+   "of": "Ivan Turgenev",
+   "work": "Liza (A Nest of Nobles)",
+   "translated": 1869,
+   "translator": "W. R. S. Ralston",
+   "scan_edition": "Chapman and Hall, London 1869; archive.org scan",
+   "note": "A second witness beside Garnett's A House of Gentlefolk; Ralston's folk-tale books are on the ralston shelf (lane D), which left Liza out as outside its ask."
+  },
+  "singles-fiction-3-turgenev-spring-floods-butts": {
+   "source": "sf3-turgenev-spring-floods-butts",
+   "of": "Ivan Turgenev",
+   "work": "Spring Floods (tr. Sophie Michell Butts) and A Lear of the Steppe (tr. William Hand Browne)",
+   "translated": 1874,
+   "translator": "Sophie Michell Butts; William Hand Browne",
+   "scan_edition": "Thomas Y. Crowell & Co., New York (copyright 1874; the printing is undated); Google scan"
+  },
+  "singles-fiction-3-kuprin-the-bracelet-of-garnets": {
+   "source": "sf3-kuprin-bracelet-of-garnets",
+   "of": "Aleksandr Kuprin",
+   "work": "The Bracelet of Garnets, and Other Stories",
+   "translated": 1917,
+   "translator": "Leo Pasvolsky",
+   "scan_edition": "Charles Scribner's Sons, New York 1917; Google scan"
+  },
+  "singles-fiction-3-tollemache-russian-sketches": {
+   "source": "sf3-tollemache-russian-sketches",
+   "of": "Nikolai Leskov and others",
+   "work": "Russian Sketches, Chiefly of Peasant Life",
+   "translated": 1913,
+   "translator": "Beatrix L. Tollemache",
+   "scan_edition": "Smith, Elder, London 1913 (preface dated Bordighera, March 1913); UCLA scan"
+  },
+  "singles-fiction-3-gogol-taras-bulba-baskerville": {
+   "source": "sf3-gogol-taras-bulba-baskerville",
+   "of": "Nikolai Gogol",
+   "work": "Taras Bulba: a Story of the Dnieper Cossacks",
+   "translated": 1907,
+   "translator": "B. C. Baskerville",
+   "scan_edition": "The Walter Scott Publishing Co., London and Felling-on-Tyne; New York 1907; Google scan",
+   "note": "Hapgood's Taras Bulba is on the hapgood shelf."
+  },
+  "singles-fiction-3-pushkin-russian-romance-telfer": {
+   "source": "sf3-pushkin-russian-romance-telfer",
+   "of": "Aleksandr Pushkin",
+   "work": "Russian Romance (The Captain's Daughter and other tales)",
+   "translated": 1875,
+   "translator": "Mrs. J. Buchan Telfer",
+   "scan_edition": "Henry S. King & Co., London 1875; UCLA scan"
+  },
+  "singles-fiction-3-vikelas-loukis-laras": {
+   "source": "sf3-vikelas-loukis-laras",
+   "of": "Demetrios Vikelas",
+   "work": "Loukis Laras: Reminiscences of a Chiote Merchant during the War of Independence",
+   "translated": 1881,
+   "translator": "J. Gennadius",
+   "scan_edition": "Macmillan, London 1881; archive.org scan"
+  },
+  "singles-fiction-3-vikelas-tales-from-the-aegean": {
+   "source": "sf3-vikelas-tales-from-the-aegean",
+   "of": "Demetrios Vikelas",
+   "work": "Tales from the Aegean",
+   "translated": 1894,
+   "translator": "Leonard Eckstein Opdycke",
+   "scan_edition": "A. C. McClurg, Chicago 1894; Google scan"
+  },
+  "singles-fiction-3-jensen-gradiva": {
+   "source": "sf3-jensen-gradiva",
+   "of": "Wilhelm Jensen",
+   "work": "Gradiva: a Pompeiian Fancy",
+   "translated": 1918,
+   "translator": "Helen M. Downey",
+   "scan_edition": "Moffat, Yard and Company, New York 1918; Google scan",
+   "note": "Printed for Freud's Delusion and Dream; the Freud volume itself is not shelved here."
+  },
+  "singles-fiction-3-undset-the-mistress-of-husaby": {
+   "source": "sf3-undset-mistress-of-husaby",
+   "of": "Sigrid Undset",
+   "work": "The Mistress of Husaby (Kristin Lavransdatter II)",
+   "translated": 1925,
+   "translator": "Charles Archer",
+   "scan_edition": "Grosset & Dunlap by arrangement with Knopf, New York (published March 1925; fourth printing December 1928); archive.org scan",
+   "note": "Volume I, The Bridal Wreath, is on this shelf; volume III, The Cross, is on the reading-lists branch's undset shelf."
+  },
+  "singles-fiction-3-aho-squire-hellman": {
+   "source": "sf3-aho-squire-hellman",
+   "of": "Juhani Aho",
+   "work": "Squire Hellman, and Other Stories",
+   "translated": 1893,
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "T. Fisher Unwin, London 1893 (Pseudonym Library); archive.org scan",
+   "note": "Bain's folk-tale books are on lane D's bain shelf."
+  },
+  "singles-fiction-3-asch-america": {
+   "source": "sf3-asch-america",
+   "of": "Sholom Asch",
+   "work": "America",
+   "translated": 1918,
+   "translator": "James Fuchs",
+   "scan_edition": "Alpha Omega Publishing, New York 1918; archive.org scan"
   }
  },
  "_pending": {
   "pg-79102": "Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
   "pg-79453": "Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
-  "pg-78105": "Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran."
+  "pg-78105": "Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
+  "ia-asch-the-mother": "Sholom Asch's The Mother (Nathan Ausubel; Horace Liveright, 1930; mothertransbynat0000shol): a 1930 publication, so it waits on Adam's 1930 ruling."
  },
  "_excluded": {},
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
  "_checks": {
   "sf3-65887": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "de villiers",
    "identity": "ok",
@@ -1579,7 +1812,7 @@
   },
   "sf3-66073": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "burke",
    "identity": "ok",
@@ -1588,7 +1821,7 @@
   },
   "sf3-66106": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sarah elizabeth utterson",
    "identity": "ok",
@@ -1597,7 +1830,7 @@
   },
   "sf3-66344": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emil torday",
    "identity": "ok",
@@ -1606,7 +1839,7 @@
   },
   "sf3-66405": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ben ray redman",
    "identity": "ok",
@@ -1615,7 +1848,7 @@
   },
   "sf3-66552": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mabel osgood wright",
    "identity": "ok",
@@ -1624,7 +1857,7 @@
   },
   "sf3-66911": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "grein",
    "identity": "ok",
@@ -1633,7 +1866,7 @@
   },
   "sf3-67061": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary b. richards",
    "identity": "ok",
@@ -1642,7 +1875,7 @@
   },
   "sf3-67313": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "agatha hughes",
    "identity": "ok",
@@ -1651,7 +1884,7 @@
   },
   "sf3-67929": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "archer",
    "identity": "ok",
@@ -1660,7 +1893,7 @@
   },
   "sf3-68434": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ayres",
    "identity": "ok",
@@ -1669,7 +1902,7 @@
   },
   "sf3-68486": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alexander j. hunter",
    "identity": "ok",
@@ -1678,7 +1911,7 @@
   },
   "sf3-69173": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "g. d. oswell",
    "identity": "ok",
@@ -1687,7 +1920,7 @@
   },
   "sf3-69312": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "katherine berry di zérèga",
    "identity": "ok",
@@ -1696,7 +1929,7 @@
   },
   "sf3-69443": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james whitall",
    "identity": "ok",
@@ -1705,7 +1938,7 @@
   },
   "sf3-69962": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anne plumptre",
    "identity": "ok",
@@ -1714,7 +1947,7 @@
   },
   "sf3-70128": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alphonse nahuys",
    "identity": "ok",
@@ -1723,7 +1956,7 @@
   },
   "sf3-70159": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eliza buckminster lee",
    "identity": "ok",
@@ -1732,7 +1965,7 @@
   },
   "sf3-70172": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "leon mead",
    "identity": "ok",
@@ -1741,7 +1974,7 @@
   },
   "sf3-70982": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bourne",
    "identity": "ok",
@@ -1750,7 +1983,7 @@
   },
   "sf3-71047": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "holland",
    "identity": "ok",
@@ -1759,7 +1992,7 @@
   },
   "sf3-71187": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "allen",
    "identity": "ok",
@@ -1768,7 +2001,7 @@
   },
   "sf3-71880": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carol della chiesa",
    "identity": "ok",
@@ -1777,7 +2010,7 @@
   },
   "sf3-71923": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "duffield",
    "identity": "ok",
@@ -1786,7 +2019,7 @@
   },
   "sf3-73093": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "myers",
    "identity": "ok",
@@ -1795,7 +2028,7 @@
   },
   "sf3-73109": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "newell",
    "identity": "ok",
@@ -1804,7 +2037,7 @@
   },
   "sf3-73131": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "kazutomo takahashi",
    "identity": "ok",
@@ -1813,7 +2046,7 @@
   },
   "sf3-73132": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "iwado",
    "identity": "ok",
@@ -1822,7 +2055,7 @@
   },
   "sf3-73364": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "duddington",
    "identity": "ok",
@@ -1831,7 +2064,7 @@
   },
   "sf3-73670": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eric sutton",
    "identity": "ok",
@@ -1840,7 +2073,7 @@
   },
   "sf3-73729": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. e. chamot",
    "identity": "ok",
@@ -1849,7 +2082,7 @@
   },
   "sf3-74050": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hollings",
    "identity": "ok",
@@ -1858,7 +2091,7 @@
   },
   "sf3-74356": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "david pritchard",
    "identity": "ok",
@@ -1867,7 +2100,7 @@
   },
   "sf3-74860": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dawson",
    "identity": "ok",
@@ -1876,7 +2109,7 @@
   },
   "sf3-75011": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. w. wheen",
    "identity": "ok",
@@ -1885,7 +2118,7 @@
   },
   "sf3-75247": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "achurch",
    "identity": "ok",
@@ -1894,7 +2127,7 @@
   },
   "sf3-75491": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "colcord",
    "identity": "ok",
@@ -1903,7 +2136,7 @@
   },
   "sf3-75756": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "basil creighton",
    "identity": "ok",
@@ -1912,7 +2145,7 @@
   },
   "sf3-75967": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clare",
    "identity": "ok",
@@ -1921,7 +2154,7 @@
   },
   "sf3-76142": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "andrews",
    "identity": "ok",
@@ -1930,7 +2163,7 @@
   },
   "sf3-76288": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brainin",
    "identity": "ok",
@@ -1939,7 +2172,7 @@
   },
   "sf3-76493": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bennett",
    "identity": "ok",
@@ -1948,7 +2181,7 @@
   },
   "sf3-76639": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "kenrick",
    "identity": "ok",
@@ -1957,7 +2190,7 @@
   },
   "sf3-76646": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "buck",
    "identity": "ok",
@@ -1966,7 +2199,7 @@
   },
   "sf3-76655": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alice henry",
    "identity": "ok",
@@ -1975,7 +2208,7 @@
   },
   "sf3-76691": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carus",
    "identity": "ok",
@@ -1984,7 +2217,7 @@
   },
   "sf3-76719": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brewster",
    "identity": "ok",
@@ -1993,7 +2226,7 @@
   },
   "sf3-77416": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brewitt-taylor",
    "identity": "ok",
@@ -2002,7 +2235,7 @@
   },
   "sf3-77545": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cornelia mcfadden",
    "identity": "ok",
@@ -2011,7 +2244,7 @@
   },
   "sf3-77623": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "josef štýbr",
    "identity": "ok",
@@ -2020,7 +2253,7 @@
   },
   "sf3-77663": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hutton",
    "identity": "ok",
@@ -2029,7 +2262,7 @@
   },
   "sf3-77708": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anna maria may",
    "identity": "ok",
@@ -2038,7 +2271,7 @@
   },
   "sf3-78087": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "maude wholohan",
    "identity": "ok",
@@ -2047,7 +2280,7 @@
   },
   "sf3-78247": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clarence linton meader",
    "identity": "ok",
@@ -2056,7 +2289,7 @@
   },
   "sf3-78533": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "agnes tobin",
    "identity": "ok",
@@ -2065,7 +2298,7 @@
   },
   "sf3-78812": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "champlin",
    "identity": "ok",
@@ -2074,7 +2307,7 @@
   },
   "sf3-79053": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "acklom",
    "identity": "ok",
@@ -2083,7 +2316,7 @@
   },
   "sf3-79127": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hyde",
    "identity": "ok",
@@ -2092,7 +2325,7 @@
   },
   "sf3-79218": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arvid paulson",
    "identity": "ok",
@@ -2101,7 +2334,7 @@
   },
   "sf3-79327": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carey",
    "identity": "ok",
@@ -2110,7 +2343,7 @@
   },
   "sf3-79566": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alex matson",
    "identity": "ok",
@@ -2119,7 +2352,7 @@
   },
   "sf3-79583": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "casement",
    "identity": "ok",
@@ -2128,7 +2361,7 @@
   },
   "sf3-79675": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lediard",
    "identity": "ok",
@@ -2137,7 +2370,7 @@
   },
   "sf3-71595": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john pollen",
    "identity": "ok",
@@ -2146,7 +2379,7 @@
   },
   "sf3-70309": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "kotouč",
    "identity": "ok",
@@ -2155,7 +2388,7 @@
   },
   "sf3-71756": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. l. voynich",
    "identity": "ok",
@@ -2164,7 +2397,7 @@
   },
   "sf3-73256": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chandler",
    "identity": "ok",
@@ -2173,7 +2406,7 @@
   },
   "sf3-78495": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "campbell",
    "identity": "ok",
@@ -2182,7 +2415,7 @@
   },
   "sf3-garshin-stories-from-garshin": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -2193,7 +2426,7 @@
   },
   "sf3-garshin-the-signal-and-other-stories": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "captain rowland smith",
    "identity": "ok",
@@ -2204,7 +2437,7 @@
   },
   "sf3-zeromski-ashes-vol-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -2215,7 +2448,7 @@
   },
   "sf3-zeromski-ashes-vol-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "helen stankiewicz zand",
    "identity": "ok",
@@ -2226,7 +2459,7 @@
   },
   "sf3-capek-makropoulos-secret": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "randal c. burrell",
    "identity": "ok",
@@ -2237,7 +2470,7 @@
   },
   "sf3-kleist-kohlhaas-homburg": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis lloyd",
    "identity": "ok",
@@ -2248,7 +2481,7 @@
   },
   "sf3-chernyshevsky-whats-to-be-done": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "benj. r. tucker",
    "identity": "ok",
@@ -2259,7 +2492,7 @@
   },
   "sf3-potapenko-a-russian-priest": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. gaussen",
    "identity": "ok",
@@ -2270,7 +2503,7 @@
   },
   "sf3-potapenko-a-father-of-six": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. gaussen",
    "identity": "ok",
@@ -2281,7 +2514,7 @@
   },
   "sf3-lazhechnikov-the-heretic-vol-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas b. shaw",
    "identity": "ok",
@@ -2292,7 +2525,7 @@
   },
   "sf3-lazhechnikov-the-heretic-vol-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas b. shaw",
    "identity": "ok",
@@ -2303,7 +2536,7 @@
   },
   "sf3-lazhechnikov-the-heretic-vol-3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas b. shaw",
    "identity": "ok",
@@ -2314,13 +2547,157 @@
   },
   "sf3-pontoppidan-emanuel": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
    "ia_rights": "ok: published 1896",
    "ia_date": "[1896]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-leskov-sentry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. chamot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-turgenev-liza-ralston": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. r. s. ralston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-turgenev-spring-floods-butts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophie michell butts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-kuprin-bracelet-of-garnets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo pasvolsky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-tollemache-russian-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beatrix l. tollemache",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-gogol-taras-bulba-baskerville": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. c. baskerville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-pushkin-russian-romance-telfer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buchan telfer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-vikelas-loukis-laras": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. gennadius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-vikelas-tales-from-the-aegean": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard eckstein opdycke",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-jensen-gradiva": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen m. downey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-undset-mistress-of-husaby": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles archer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-aho-squire-hellman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. nisbet bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-asch-america": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fuchs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
    "ia_lending": null
   }
  },
@@ -2793,6 +3170,169 @@
     1872,
     1894,
     1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-leskov-sentry": {
+   "ia": "NikolaiLeskov-SentryAndOtherStories",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791,
+    1831,
+    1839,
+    1851,
+    1896,
+    1921,
+    1922,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-turgenev-liza-ralston": {
+   "ia": "lizaturg01turg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1842,
+    1855,
+    1858,
+    1862,
+    1867,
+    1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-turgenev-spring-floods-butts": {
+   "ia": "springfloods00buttgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1840,
+    1874
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-kuprin-bracelet-of-garnets": {
+   "ia": "braceletgarnets00kuprgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1855,
+    1860,
+    1870,
+    1904,
+    1908,
+    1910,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-tollemache-russian-sketches": {
+   "ia": "russiansketchesc00tolliala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1822,
+    1913
+   ],
+   "post_1930_years_in_front_15k": [
+    1997
+   ],
+   "post_1930_examined": "Examined in round 121: 1997 sits in a library barcode block at the head of the scan; the preface is dated Bordighera, March 1913."
+  },
+  "sf3-gogol-taras-bulba-baskerville": {
+   "ia": "tarasbulbaastor00baskgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1654,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-pushkin-russian-romance-telfer": {
+   "ia": "russianromance00pushiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1683,
+    1767,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-vikelas-loukis-laras": {
+   "ia": "loukislarasremin00vike",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1453,
+    1828,
+    1831,
+    1835,
+    1862,
+    1864,
+    1866,
+    1871,
+    1874,
+    1878,
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-vikelas-tales-from-the-aegean": {
+   "ia": "talesfromgean00opdygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1453,
+    1835,
+    1874,
+    1876,
+    1879,
+    1882,
+    1887,
+    1893,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-jensen-gradiva": {
+   "ia": "gradivaapompeii00jensgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-undset-mistress-of-husaby": {
+   "ia": "bwb_S0-BLO-546",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1927,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-aho-squire-hellman": {
+   "ia": "squirehellmanoth00ahoj",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1876,
+    1887,
+    1890
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "2025 is the Internet Archive digitising line"
+  },
+  "sf3-asch-america": {
+   "ia": "america00asch",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1901,
+    1902,
+    1905,
+    1906,
+    1907,
+    1910,
+    1918
    ],
    "post_1930_years_in_front_15k": []
   }

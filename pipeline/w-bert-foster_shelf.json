@@ -1,0 +1,88 @@
+{
+ "_about": "W. Bert Foster: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "W. Bert Foster",
+ "_name_words": [
+  "bert",
+  "bertram",
+  "foster",
+  "walter"
+ ],
+ "_surname": [
+  "w. bert foster",
+  "walter bertram foster",
+  "foster"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wbfoster-swept-out-to-sea": [
+   23674,
+   "Swept Out to Sea; Or, Clint Webb Among the Whalers"
+  ],
+  "wbfoster-with-ethan-allen-at-ticonderoga": [
+   30952,
+   "With Ethan Allen at Ticonderoga"
+  ],
+  "wbfoster-trail-boys-of-the-plains": [
+   44078,
+   "The Trail Boys of the Plains; Or, The Hunt for the Big Buffalo"
+  ],
+  "wbfoster-from-sea-to-sea": [
+   67495,
+   "From Sea to Sea; Or, Clint Webb's Cruise on the Windjammer"
+  ],
+  "wbfoster-quest-of-the-silver-swan": [
+   68182,
+   "The quest of the Silver Swan: A land and sea tale for boys"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wbfoster-swept-out-to-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. bert foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbfoster-with-ethan-allen-at-ticonderoga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. bert foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbfoster-trail-boys-of-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. bert foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbfoster-from-sea-to-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. bert foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbfoster-quest-of-the-silver-swan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. bert foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

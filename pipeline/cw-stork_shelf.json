@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); Heidenstam's The Charles Men, Part I (American-Scandinavian Foundation, 1920), added in round 90. The Anthology of Swedish Lyrics (1917), also added in round 90, waits in _pending since round 103: its only scan is a library preservation photocopy. Round 117 (2026-10-17, vetoable) added Fröding's Selected Poems (Macmillan, 1916). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); Heidenstam's The Charles Men, Part I (American-Scandinavian Foundation, 1920), added in round 90. The Anthology of Swedish Lyrics (1917), also added in round 90, waits in _pending since round 103: its only scan is a library preservation photocopy. Round 117 (2026-10-17, vetoable) added Fröding's Selected Poems (Macmillan, 1916). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted. Round 126 (2026-10-23, vetoable) added The Charles Men, Part II (1920) and The Swedes and Their Chieftains (1925).",
  "_name_words": [
   "charles wharton stork",
   "c. w. stork"
@@ -29,6 +29,14 @@
   "cws-froding-selected-poems": [
    "selectedpoems00frodiala",
    "Selected Poems (1916)"
+  ],
+  "cws-charles-men-2": [
+   "charlesmenv20000vern",
+   "Charles Men, Part II (1920)"
+  ],
+  "cws-heidenstam-swedes-and-chieftains": [
+   "swedestheirchief0000heid",
+   "The Swedes and Their Chieftains (1925)"
   ]
  },
  "titles": {
@@ -65,6 +73,22 @@
    "translated": 1916,
    "translator": "Charles Wharton Stork",
    "scan_edition": "The Macmillan Company, New York; copyright 1916, published March 1916; UCLA scan"
+  },
+  "cw-stork-heidenstam-charles-men-2": {
+   "source": "cws-charles-men-2",
+   "of": "Verner von Heidenstam",
+   "work": "The Charles Men (Karolinerna), Part II",
+   "translated": 1920,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "The American-Scandinavian Foundation, New York 1920 (Scandinavian Classics); archive.org scan"
+  },
+  "cw-stork-heidenstam-the-swedes-and-their-chieftains": {
+   "source": "cws-heidenstam-swedes-and-chieftains",
+   "of": "Verner von Heidenstam",
+   "work": "The Swedes and Their Chieftains",
+   "translated": 1925,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "The American-Scandinavian Foundation, New York 1925; archive.org scan"
   }
  },
  "_pending": {
@@ -75,7 +99,7 @@
  "_checks": {
   "cws-64808": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles wharton stork",
    "identity": "ok",
@@ -84,7 +108,7 @@
   },
   "cws-78363": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles wharton stork",
    "identity": "ok",
@@ -93,7 +117,7 @@
   },
   "cws-charles-men-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles wharton stork",
    "identity": "ok",
@@ -104,13 +128,35 @@
   },
   "cws-froding-selected-poems": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles wharton stork",
    "identity": "ok",
    "ia_rights": "ok: published 1916",
    "ia_date": "1916",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cws-charles-men-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cws-heidenstam-swedes-and-chieftains": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
@@ -151,6 +197,26 @@
     1897,
     1911,
     1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cws-charles-men-2": {
+   "ia": "charlesmenv20000vern",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cws-heidenstam-swedes-and-chieftains": {
+   "ia": "swedestheirchief0000heid",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1859,
+    1898,
+    1909,
+    1920,
+    1925
    ],
    "post_1930_years_in_front_15k": []
   }

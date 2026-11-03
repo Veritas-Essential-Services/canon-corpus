@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Francis J. Ziegler (1866-): Frank Wedekind's The Awakening of Spring (1909) and Such is Life (1912). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Francis J. Ziegler (1866-): Frank Wedekind's The Awakening of Spring (1909) and Such is Life (1912). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted. From archive.org (2026-10-23): Strindberg's Swanwhite (Brown Brothers, second edition, 1912).",
  "_name_words": [
   "francis j. ziegler",
-  "ziegler"
+  "ziegler",
+  "francis j. ziboler"
  ],
  "_surname": [
   "francis j. ziegler",
-  "ziegler"
+  "ziegler",
+  "francis j. ziboler"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -20,7 +22,12 @@
    "Such is Life: A Play in Five Acts"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "zie-ia-strindberg-swanwhite": [
+   "swanwhiteafairy00zieggoog",
+   "Strindberg: Swanwhite"
+  ]
+ },
  "titles": {
   "ziegler-wedekind-such-is-life-a-play-in-five-acts": {
    "source": "zie-45228",
@@ -37,15 +44,23 @@
    "translated": "1909-1912 (see the Gutenberg header)",
    "translator": "Francis J. Ziegler",
    "scan_edition": "Project Gutenberg 35242 (clean text)"
+  },
+  "ziegler-strindberg-swanwhite": {
+   "source": "zie-ia-strindberg-swanwhite",
+   "of": "August Strindberg",
+   "work": "Swanwhite: A Fairy Drama",
+   "translated": "1909 (second edition, 1912)",
+   "translator": "Francis J. Ziegler",
+   "scan_edition": "Brown Brothers, Philadelphia, 1912 (second edition; copyright 1909)"
   }
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'francis j. ziboler' is the OCR of the Swanwhite title page (2026-10-23).",
  "_checks": {
   "zie-35242": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis j. ziegler",
    "identity": "ok",
@@ -54,12 +69,23 @@
   },
   "zie-45228": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis j. ziegler",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Francis J. Ziegler"
+  },
+  "zie-ia-strindberg-swanwhite": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. ziegler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +98,15 @@
    "pg": 45228,
    "pg_copyrighted_marker": false,
    "pg_translator": "Francis J. Ziegler"
+  },
+  "zie-ia-strindberg-swanwhite": {
+   "ia": "swanwhiteafairy00zieggoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

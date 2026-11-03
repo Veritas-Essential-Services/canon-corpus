@@ -1,0 +1,93 @@
+{
+ "_about": "John Davenant (1572-1641), Bishop of Salisbury and a British delegate at the Synod of Dort, in Josiah Allport's translations from the Latin: An Exposition of the Epistle of St. Paul to the Colossians, with a life of the author, and the Dissertatio de morte Christi added in vol. 2 (London: Hamilton, Adams, 1831-1832, 2 vols); and A Treatise on Justification, the Disputatio de justitia habituali et actuali, with the Determinationes (London: Hamilton, Adams, 1844-1846, 2 vols). Volume numbers read off each title page; the translator check looks for Allport, on every volume but Colossians vol. 1, whose OCR breaks the name on the title page to 'JOSIAH ALU' (the title page, read by eye, names Josiah Allport, minister of St James's, Birmingham). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "davenant"
+ ],
+ "_surname": [
+  "davenant"
+ ],
+ "_translators": {
+  "davenant-colossians-2": "Allport",
+  "davenant-justification-1": "Allport",
+  "davenant-justification-2": "Allport"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "davenant-colossians-1": [
+   "expositionofepis01dave",
+   "An Exposition of the Epistle of St. Paul to the Colossians, tr. Allport (London: Hamilton, Adams, 1831), vol. 1"
+  ],
+  "davenant-colossians-2": [
+   "expositionofepis02dave",
+   "An Exposition of the Epistle of St. Paul to the Colossians, tr. Allport, with the Dissertation on the Death of Christ (London: Hamilton, Adams, 1832), vol. 2"
+  ],
+  "davenant-justification-1": [
+   "treatiseonjustif01dave",
+   "A Treatise on Justification, tr. Allport (London: Hamilton, Adams, 1844), vol. 1"
+  ],
+  "davenant-justification-2": [
+   "treatiseonjustif02dave",
+   "A Treatise on Justification, with the Determinationes, tr. Allport (London: Hamilton, Adams, 1846), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "anexpositionepi00allpgoog, anexpositionepi05unkngoog": "Google copies of the Colossians.",
+  "atreatiseonjust00/01/02davegoog, 10773038bsb, per_treatise-on-justification_*": "Other copies of the Treatise."
+ },
+ "_excluded": {
+  "davenantorescap00davegoog, hubertellisstory00dave": "Novels by other authors."
+ },
+ "_checks": {
+  "davenant-colossians-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "davenant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "davenant-colossians-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "davenant",
+   "translator_claimed": "Allport",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "davenant-justification-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "davenant",
+   "translator_claimed": "Allport",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "davenant-justification-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "davenant",
+   "translator_claimed": "Allport",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "_about": "Luis Senarens's Frank Reade and Jack Wright dime novels, mostly printed under the house name 'Noname'. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Luis Senarens",
+ "_name_words": [
+  "noname",
+  "senarens"
+ ],
+ "_surname": [
+  "senarens",
+  "noname"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lsenarens-jack-wright-and-his-electric-stage": [
+   22670,
+   "Jack Wright and His Electric Stage; or, Leagued Against the James Boys"
+  ],
+  "lsenarens-frank-reade-and-his-steam-horse": [
+   49638,
+   "Frank Reade and His Steam Horse"
+  ],
+  "lsenarens-frank-reade-jr-and-his-new-steam-man": [
+   53932,
+   "Frank Reade, Jr., and his new steam man; or, the young inventor's trip to the far west"
+  ],
+  "lsenarens-frank-reade-jr-s-submarine-boat": [
+   54073,
+   "Frank Reade Jr.'s Submarine Boat; or, to the North Pole Under the Ice."
+  ],
+  "lsenarens-frank-reade-jr-s-air-wonder-the-kite": [
+   54256,
+   "Frank Reade Jr.'s Air Wonder, The \"Kite\"; Or, A Six Weeks' Flight Over the Andes"
+  ],
+  "lsenarens-frank-reade-jr-and-his-electric-ice-ship": [
+   54629,
+   "Frank Reade, Jr., and His Electric Ice Ship; or, Driven Adrift in the Frozen Sky."
+  ],
+  "lsenarens-frank-reade-jr-and-his-engine-of-the-clouds-or-cha": [
+   54648,
+   "Frank Reade Jr. and His Engine of the Clouds Or, Chased Around the World in the Sky"
+  ],
+  "lsenarens-sunken-isthmus": [
+   54654,
+   "The Sunken Isthmus; or, Frank Reade, Jr., in the Yucatan Channel."
+  ],
+  "lsenarens-galleons-gold": [
+   54709,
+   "The Galleon's Gold; or, Frank Reade, Jr.'s Deep Sea Search."
+  ],
+  "lsenarens-frank-reade-jr-fighting-the-terror-of-the-coast": [
+   55374,
+   "Frank Reade, Jr., Fighting the Terror of the Coast"
+  ],
+  "lsenarens-transient-lake": [
+   55556,
+   "The Transient Lake; or, Frank Reade, Jr.'s Adventures in a Mysterious Country"
+  ],
+  "lsenarens-frank-reade-jr-s-search-for-the-silver-whale-or-un": [
+   55562,
+   "Frank Reade, Jr.'s Search for the Silver Whale Or, Under the Ocean in the Electric \"Dolphin\""
+  ],
+  "lsenarens-lost-in-the-atlantic-valley": [
+   56058,
+   "Lost in the Atlantic Valley; Or, Frank Reade, Jr., and His Wonder, the \"Dart\""
+  ],
+  "lsenarens-from-zone-to-zone-or-the-wonderful-trip-of-frank-r": [
+   56062,
+   "From Zone to Zone Or, The Wonderful Trip of Frank Reade, Jr., with His Latest Air-Ship"
+  ],
+  "lsenarens-abandoned-country": [
+   56198,
+   "The Abandoned Country; or, Frank Reade, Jr., Exploring a New Continent."
+  ],
+  "lsenarens-frank-reade-jr-with-his-new-steam-man-in-central-a": [
+   66206,
+   "Frank Reade, Jr., With His New Steam Man in Central America"
+  ],
+  "lsenarens-frank-reade-jr-with-his-new-steam-horse-in-the-gre": [
+   68067,
+   "Frank Reade, Jr., with his new steam horse in the great American desert or, The sandy trail of death"
+  ],
+  "lsenarens-frank-reade-jr-with-his-new-steam-man-in-mexico-or": [
+   68349,
+   "Frank Reade, Jr., with his new steam man in Mexico or, hot work among the greasers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lsenarens-jack-wright-and-his-electric-stage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-and-his-steam-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-and-his-new-steam-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-s-submarine-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-s-air-wonder-the-kite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-and-his-electric-ice-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-and-his-engine-of-the-clouds-or-cha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-sunken-isthmus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-galleons-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-fighting-the-terror-of-the-coast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-transient-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-s-search-for-the-silver-whale-or-un": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-lost-in-the-atlantic-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-from-zone-to-zone-or-the-wonderful-trip-of-frank-r": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-abandoned-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-with-his-new-steam-man-in-central-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-with-his-new-steam-horse-in-the-gre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsenarens-frank-reade-jr-with-his-new-steam-man-in-mexico-or": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "senarens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

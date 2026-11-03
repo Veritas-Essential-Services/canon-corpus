@@ -1,0 +1,113 @@
+{
+ "_about": "Christabel R. Coleridge: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Christabel R. Coleridge",
+ "_name_words": [
+  "christabel",
+  "coleridge",
+  "rose"
+ ],
+ "_surname": [
+  "christabel r. coleridge",
+  "christabel rose coleridge",
+  "coleridge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "crcoleridge-maud-florence-nellie": [
+   43117,
+   "Maud Florence Nellie; or, Don't care!"
+  ],
+  "crcoleridge-amethyst": [
+   43121,
+   "Amethyst: The Story of a Beauty"
+  ],
+  "crcoleridge-english-squire": [
+   43148,
+   "An English Squire"
+  ],
+  "crcoleridge-waynflete": [
+   43149,
+   "Waynflete"
+  ],
+  "crcoleridge-constant-prince": [
+   43150,
+   "The Constant Prince"
+  ],
+  "crcoleridge-kingsworth": [
+   43158,
+   "Kingsworth; or, The Aim of a Life"
+  ],
+  "crcoleridge-hugh-crichtons-romance": [
+   43162,
+   "Hugh Crichton's Romance"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "crcoleridge-maud-florence-nellie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christabel r. coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crcoleridge-amethyst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christabel r. coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crcoleridge-english-squire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christabel r. coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crcoleridge-waynflete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christabel r. coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crcoleridge-constant-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christabel r. coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crcoleridge-kingsworth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christabel r. coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crcoleridge-hugh-crichtons-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christabel r. coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

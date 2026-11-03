@@ -1,0 +1,85 @@
+{
+ "_about": "Robert Bolton (1572-1631), Puritan rector of Broughton, Northamptonshire: A Discourse about the State of True Happinesse (1631 edition), Instructions for a Right Comforting Afflicted Consciences (1631), and Mr. Boltons Last and Learned Worke of the Last Foure Things (1633). Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "robert bolton",
+  "rob. bolton",
+  "mr. bolton",
+  "m. bolton",
+  "mr. boltons",
+  "bolton"
+ ],
+ "_surname": [
+  "robert bolton",
+  "rob. bolton",
+  "mr. bolton",
+  "m. bolton",
+  "mr. boltons",
+  "bolton"
+ ],
+ "_identity_checked": {
+  "bolton-true-happinesse-1631": "The OCR garbles the name on the title page ('By Ros» xx Bor r © x'), which reads: A Discourse about the State of True Happinesse, delivered in certaine Sermons in Oxford and at Pauls Crosse, by Robert Bolton, Bachelor in Divinity, Minister of Gods Word at Broughton in Northamptonshire; the sixth edition, corrected (1631).",
+  "bolton-instructions-1631": "The title page is lost to OCR and the name appears nowhere in the text. The epistle dedicatory to Sir Robert Carre speaks of the author's earlier 'Directions for walking with God' coming into Carre's hands, and Some Generall Directions for a Comfortable Walking with God is Bolton's; EEBO and the Internet Archive both catalogue this 1631 Instructions for a Right Comforting Afflicted Consciences under him."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bolton-true-happinesse-1631": [
+   "bim_early-english-books-1475-1640_a-discourse-about-the-st_bolton-robert_1631",
+   "A Discourse about the State of True Happinesse (London, 1631)"
+  ],
+  "bolton-instructions-1631": [
+   "bim_early-english-books-1475-1640_instructions-for-a-right_bolton-robert_1631",
+   "Instructions for a Right Comforting Afflicted Consciences (London, 1631)"
+  ],
+  "bolton-last-foure-things-1633": [
+   "bim_early-english-books-1475-1640_mr-boltons-last-and-lea_bolton-robert_1633",
+   "Mr. Boltons Last and Learned Worke of the Last Foure Things (London, 1633)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_the-workes-of-robert-bol_bolton-robert_1631, bim_early-english-books-1641-1700_the-workes-of-the-revere_bolton-robert_1641": "Collected Workes; their OCR is thin for their page count.",
+  "other printings of each title, 1610-1641": "In EEBO."
+ },
+ "_pending": {
+  "bim_early-english-books-1475-1640_helpes-to-humiliation-_bolton-robert_1630, the-carnall-professor-_bolton-robert_1634, the-saints-soule-exaltin_bolton-robert_1634, the-saints-sure-and-perp_bolton-robert_1634, a-cordiall-for-christian_bolton-robert_1640": "Shorter works, not yet title-checked.",
+  "bim_early-english-books-1475-1640_some-generall-directions_bolton-robert_1634 (Some Generall Directions for a Comfortable Walking with God, 1634)": "The title page is lost to OCR and Bolton's name appears nowhere in the text, so the name check cannot pass; another printing (1630, 1638) may read better."
+ },
+ "_excluded": {},
+ "_checks": {
+  "bolton-true-happinesse-1631": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1631",
+   "ia_date": "1631",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bolton-instructions-1631": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1631",
+   "ia_date": "1631",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bolton-last-foure-things-1633": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "m. bolton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1633",
+   "ia_date": "1633",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

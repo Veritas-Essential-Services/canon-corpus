@@ -1,0 +1,138 @@
+{
+ "_about": "Public-domain John Marks Ashley (1828-1909), Anglican priest and writer of sermon aids, for the Word Hoard: A Promptuary for Preachers (2 vols., 1876), S. Augustine the Preacher (1877), Origen the Preacher (1878), The Pulpit Lectionary (1884), Cogitationes Concionales (1895) and The Minor Acts of Our Lord (1900). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 83 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john m. ashley",
+  "j. m. ashley",
+  "john marks ashley"
+ ],
+ "_surname": [
+  "john m. ashley",
+  "j. m. ashley",
+  "john marks ashley",
+  "rev. j. m. ashley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jmashley-promptuary-1": [
+   "promptuaryforpre01ashl",
+   "A promptuary for preachers, vol. 1 (London : J. T. Hayes, 1876)"
+  ],
+  "jmashley-promptuary-2": [
+   "promptuaryforpre02ashl",
+   "A promptuary for preachers, vol. 2 (London : J. T. Hayes, 1876)"
+  ],
+  "jmashley-augustine-preacher": [
+   "saugustinepreach00ashl",
+   "S. Augustine the preacher : being fifty short sermon notes founded upon select passages from his writings (London : J.T. Hayes, 1877)"
+  ],
+  "jmashley-origen-preacher": [
+   "origenpreacherbe00ashl",
+   "Origen the preacher : being fifty short sermon notes founded upon select passages from his writings (London : J. T. Hayes, 1878)"
+  ],
+  "jmashley-pulpit-lectionary": [
+   "pulpitlectionar00ashlgoog",
+   "The pulpit lectionary, sermon notes upon the Old Testament Sunday lessons (catalogued 1884)"
+  ],
+  "jmashley-cogitationes": [
+   "cogitationesconc00ashl",
+   "Cogitationes concionales : being 216 short sermon reflections on the dominical Gospels of the Church's year : founded upon selected readings from the Summa Theologica of S. Thomas Aquinas (London : J. Hodges, 1895)"
+  ],
+  "jmashley-minor-acts": [
+   "minoractsofourlo00ashl",
+   "The minor acts of our lord and savior Jesus Christ : considered in a short course of practical sermons (London : John Hodges, 1900)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jmashley-other": "his translation of Ninety-nine Homilies of S. Thomas Aquinas (1867), which is Aquinas; A Festival Year with Great Preachers (sermons by many); The Battle of Senlac (verse)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jmashley-origen-preacher": "title page: 'ORIGEN THE PREACHER ... BY JOHN M. ASHLEY, B.C.L. VICAR OF FEWSTON. LONDON: J. T. HAYES ... MDCCCLXXVIII' (OCR 'JOHN m/aSHLEY')",
+  "jmashley-pulpit-lectionary": "title page: 'THE PULPIT LECTIONARY ... JOHN M. ASHLEY, B.C.L., VICAR OF FEWSTON. AUTHOR OF \"THE PROMPTUARY FOR PREACHERS\" ... SKEFFINGTON & SON' (OCR 'JOHN M: ASHLEY')",
+  "jmashley-minor-acts": "title page: 'THE MINOR ACTS OF OUR LORD ... BY J. M. ASHLEY, LL.B., Author of \"Cogitationes Concionales,\" \"Promptuary for Preachers\" ... JOHN HODGES ... 1900'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jmashley-promptuary-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m. ashley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmashley-promptuary-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m. ashley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmashley-augustine-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. m. ashley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmashley-origen-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmashley-pulpit-lectionary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmashley-cogitationes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m. ashley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmashley-minor-acts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

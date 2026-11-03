@@ -1,0 +1,173 @@
+{
+ "_about": "Our Wonder World: A Library of Knowledge in Ten Volumes (Chicago and Boston: Geo. L. Shuman & Co., 1914), a children's library of geography, invention, nature, exploration, stories, sports, handicraft, history, a mother's home book and a quiz book. All ten volumes, one uniform 1914 scanned run at the Internet Archive, raw OCR; much of each volume is pictures and captions, which OCR keeps only as text. Added 2026-10-23 at Adam's ask for old children's sets (the fact sets, listed last).",
+ "_author": "Geo. L. Shuman & Co. (publisher)",
+ "_name_words": [
+  "wonder",
+  "world",
+  "library",
+  "knowledge"
+ ],
+ "_surname": [
+  "wonder world",
+  "shuman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "our-wonder-world-v01": [
+   "ourwonderworldal01unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 1: The World and Its Peoples (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v02": [
+   "ourwonderworldal02unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 2: Invention and Industry (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v03": [
+   "ourwonderworldal03unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 3: The Nature Book (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v04": [
+   "ourwonderworldal04unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 4: Exploration, Adventure, and Achievement (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v05": [
+   "ourwonderworldal05unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 5: Every Child's Story Book (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v06": [
+   "ourwonderworldal06unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 6: Sports and Pastimes (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v07": [
+   "ourwonderworldal07unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 7: Amateur Handicraft (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v08": [
+   "ourwonderworldal08unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 8: Story and History (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v09": [
+   "ourwonderworldal09unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 9: The Mother's Home Book (Chicago: Geo. L. Shuman, 1914)"
+  ],
+  "our-wonder-world-v10": [
+   "ourwonderworldal10unse",
+   "Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 10: The Quiz Book, and Index (Chicago: Geo. L. Shuman, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "our-wonder-world-v01": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wonder world",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v02": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wonder world",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v03": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wonder world",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v04": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "shuman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v05": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "shuman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v06": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wonder world",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v07": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "shuman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v08": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "shuman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v09": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "shuman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "our-wonder-world-v10": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wonder world",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

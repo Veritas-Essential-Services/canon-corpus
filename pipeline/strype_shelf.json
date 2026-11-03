@@ -1,0 +1,418 @@
+{
+ "_about": "John Strype (1643-1737), the documentary historian of the English Reformation, in the Clarendon Press collected edition: Ecclesiastical Memorials (1822, 3 vols in 6 parts), Annals of the Reformation (1824, 4 vols in 7 parts), the Lives of Parker (1821, 3 vols), Whitgift (1822, 3 vols), Grindal, Aylmer and Cheke (1821), Sir Thomas Smith (1820), and the Memorials of Cranmer in the Ecclesiastical History Society's edition (1848-1854, 3 vols). Volume and part numbers read off each title page. Much of each Appendix prints Latin records, so the OCR's share of common English words runs low. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "strype"
+ ],
+ "_surname": [
+  "strype"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "strype-memorials-1-1": [
+   "ecclesiasticalme0101stry",
+   "Ecclesiastical Memorials, relating chiefly to religion and the reformation of it under King Henry VIII, King Edward VI and Queen Mary I (Oxford: Clarendon Press, 1822), vol. 1, part 1"
+  ],
+  "strype-memorials-1-2": [
+   "ecclesiasticalme0102stry",
+   "Ecclesiastical Memorials, relating chiefly to religion and the reformation of it under King Henry VIII, King Edward VI and Queen Mary I (Oxford: Clarendon Press, 1822), vol. 1, part 2"
+  ],
+  "strype-memorials-2-1": [
+   "ecclesiasticalme0201stry",
+   "Ecclesiastical Memorials, relating chiefly to religion and the reformation of it under King Henry VIII, King Edward VI and Queen Mary I (Oxford: Clarendon Press, 1822), vol. 2, part 1"
+  ],
+  "strype-memorials-2-2": [
+   "ecclesiasticalme22stry",
+   "Ecclesiastical Memorials, relating chiefly to religion and the reformation of it under King Henry VIII, King Edward VI and Queen Mary I (Oxford: Clarendon Press, 1822), vol. 2, part 2"
+  ],
+  "strype-memorials-3-1": [
+   "ecclesiasticalme0301stry",
+   "Ecclesiastical Memorials, relating chiefly to religion and the reformation of it under King Henry VIII, King Edward VI and Queen Mary I (Oxford: Clarendon Press, 1822), vol. 3, part 1"
+  ],
+  "strype-memorials-3-2": [
+   "ecclesiasticalme0302stry",
+   "Ecclesiastical Memorials, relating chiefly to religion and the reformation of it under King Henry VIII, King Edward VI and Queen Mary I (Oxford: Clarendon Press, 1822), vol. 3, part 2"
+  ],
+  "strype-annals-1-1": [
+   "annalsofreformat0101stry",
+   "Annals of the Reformation and Establishment of Religion during Queen Elizabeth's happy reign (Oxford: Clarendon Press, 1824), vol. 1, part 1"
+  ],
+  "strype-annals-1-2": [
+   "annalsofreformat0102stry",
+   "Annals of the Reformation and Establishment of Religion during Queen Elizabeth's happy reign (Oxford: Clarendon Press, 1824), vol. 1, part 2"
+  ],
+  "strype-annals-2-1": [
+   "annalsofreformat0201stry",
+   "Annals of the Reformation and Establishment of Religion during Queen Elizabeth's happy reign (Oxford: Clarendon Press, 1824), vol. 2, part 1"
+  ],
+  "strype-annals-2-2": [
+   "annalsofreformat0202stry",
+   "Annals of the Reformation and Establishment of Religion during Queen Elizabeth's happy reign (Oxford: Clarendon Press, 1824), vol. 2, part 2"
+  ],
+  "strype-annals-3-1": [
+   "annalsofreformat0301stry",
+   "Annals of the Reformation and Establishment of Religion during Queen Elizabeth's happy reign (Oxford: Clarendon Press, 1824), vol. 3, part 1"
+  ],
+  "strype-annals-3-2": [
+   "annalsofreformat0302stry",
+   "Annals of the Reformation and Establishment of Religion during Queen Elizabeth's happy reign (Oxford: Clarendon Press, 1824), vol. 3, part 2"
+  ],
+  "strype-annals-4": [
+   "annalsofreformat04stry",
+   "Annals of the Reformation (Oxford: Clarendon Press, 1824), vol. 4"
+  ],
+  "strype-cranmer-1": [
+   "memorialsofmostr01stry",
+   "Memorials of Thomas Cranmer, sometime Lord Archbishop of Canterbury (Ecclesiastical History Society, Oxford, 1848-1854), vol. 1"
+  ],
+  "strype-parker-1": [
+   "lifeactsofmatthe01stry",
+   "The Life and Acts of Matthew Parker (Oxford: Clarendon Press, 1821), vol. 1"
+  ],
+  "strype-whitgift-1": [
+   "lifeactsofjohnwh01stry",
+   "The Life and Acts of John Whitgift (Oxford: Clarendon Press, 1822), vol. 1"
+  ],
+  "strype-cranmer-2": [
+   "memorialsofmostr02stry",
+   "Memorials of Thomas Cranmer, sometime Lord Archbishop of Canterbury (Ecclesiastical History Society, Oxford, 1848-1854), vol. 2"
+  ],
+  "strype-parker-2": [
+   "lifeactsofmatthe02stry",
+   "The Life and Acts of Matthew Parker (Oxford: Clarendon Press, 1821), vol. 2"
+  ],
+  "strype-whitgift-2": [
+   "lifeactsofjohnwh02stry",
+   "The Life and Acts of John Whitgift (Oxford: Clarendon Press, 1822), vol. 2"
+  ],
+  "strype-cranmer-3": [
+   "memorialsofmostr03stry",
+   "Memorials of Thomas Cranmer, sometime Lord Archbishop of Canterbury (Ecclesiastical History Society, Oxford, 1848-1854), vol. 3"
+  ],
+  "strype-parker-3": [
+   "lifeactsofmatthe03stry",
+   "The Life and Acts of Matthew Parker (Oxford: Clarendon Press, 1821), vol. 3"
+  ],
+  "strype-whitgift-3": [
+   "lifeactsofjohnwh03stryuoft",
+   "The Life and Acts of John Whitgift (Oxford: Clarendon Press, 1822), vol. 3"
+  ],
+  "strype-grindal": [
+   "historyoflifeact00stry",
+   "The History of the Life and Acts of Edmund Grindal (Oxford: Clarendon Press, 1821)"
+  ],
+  "strype-aylmer": [
+   "historicalcollec00stry",
+   "Historical Collections of the Life and Acts of John Aylmer, Bishop of London (Oxford: Clarendon Press, 1821)"
+  ],
+  "strype-cheke": [
+   "lifeofcheke00stryuoft",
+   "The Life of the Learned Sir John Cheke (Oxford: Clarendon Press, 1821)"
+  ],
+  "strype-smith": [
+   "lifeoflearnedsir00stryuoft",
+   "The Life of the Learned Sir Thomas Smith (Oxford: Clarendon Press, 1820)"
+  ]
+ },
+ "_alternates": {
+  "ecclesiasticalme11stry, 12stry, 21stry, 31stry, 32stry, 111stry, 211stry, 221stry, 311stry, 321stry; ecclesiasticalme0202stry (vol. 2 pt 2, server error)": "Other copies of the Memorials.",
+  "annalsofreformat11stry, 12stry, 21stry, 22stry, 31stry, 32stry, 182404stry, 04stryuoft": "Other copies of the Annals.",
+  "lifeactsofjohnwh01stryuoft; memorialsofmostr01stryuoft, 02stryuoft (1840); memorialmostrev01/02strygoog (1812)": "Other copies and editions.",
+  "historyoflifeact00stryuoft, cu31924029450115; historicalcollec00stryuoft": "Other copies of Grindal and Aylmer."
+ },
+ "_pending": {
+  "A General Index to Strype's Works (1828, 2 vols; generalindextohi01stryuoft, 02stryuoft)": "An index only; not shelved.",
+  "Ecclesiastical Memorials, 1816 London edition (ecclesiasticalme01stry_0..07stry)": "Superseded by the Clarendon edition."
+ },
+ "_excluded": {
+  "*0000john*, *0001john*, *stry_y1j4, v1p2stry, v2p1stry etc. (internetarchivebooks)": "Lending-library copies."
+ },
+ "_checks": {
+  "strype-memorials-1-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-memorials-1-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-memorials-2-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-memorials-2-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-memorials-3-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-memorials-3-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-annals-1-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-annals-1-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-annals-2-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-annals-2-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-annals-3-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-annals-3-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-annals-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-cranmer-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1848-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-parker-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-whitgift-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-cranmer-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1848-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-parker-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-whitgift-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-cranmer-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1848-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-parker-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-whitgift-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-grindal": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-aylmer": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strype-cheke": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-smith": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,460 @@
+{
+ "_about": "C. N. and A. M. Williamson's motoring romances, together and apart (one shelf, since most are joint). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "C. N. and A. M. Williamson",
+ "_name_words": [
+  "williamson"
+ ],
+ "_surname": [
+  "williamson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cnamwilliamson-it-happened-in-egypt": [
+   9799,
+   "It Happened in Egypt"
+  ],
+  "cnamwilliamson-powers-and-maxine": [
+   10410,
+   "The Powers and Maxine"
+  ],
+  "cnamwilliamson-port-of-adventure": [
+   11016,
+   "The Port of Adventure"
+  ],
+  "cnamwilliamson-princess-passes": [
+   14740,
+   "The Princess Passes"
+  ],
+  "cnamwilliamson-winnie-childs-the-shop-girl": [
+   15014,
+   "Winnie Childs, the Shop Girl"
+  ],
+  "cnamwilliamson-motor-maid": [
+   17342,
+   "The Motor Maid"
+  ],
+  "cnamwilliamson-rosemary": [
+   17743,
+   "Rosemary: A Christmas story"
+  ],
+  "cnamwilliamson-second-latchkey": [
+   18470,
+   "The Second Latchkey"
+  ],
+  "cnamwilliamson-golden-silence": [
+   19108,
+   "The Golden Silence"
+  ],
+  "cnamwilliamson-secret-history-revealed-by-lady-peggy-omalley": [
+   19304,
+   "Secret History Revealed By Lady Peggy O'Malley"
+  ],
+  "cnamwilliamson-set-in-silver": [
+   19412,
+   "Set in Silver"
+  ],
+  "cnamwilliamson-my-friend-the-chauffeur": [
+   19441,
+   "My Friend the Chauffeur"
+  ],
+  "cnamwilliamson-guests-of-hercules": [
+   19569,
+   "The guests of Hercules"
+  ],
+  "cnamwilliamson-heather-moon": [
+   19742,
+   "The Heather-Moon"
+  ],
+  "cnamwilliamson-everymans-land": [
+   19806,
+   "Everyman's Land"
+  ],
+  "cnamwilliamson-castle-of-the-shadows": [
+   19901,
+   "The Castle Of The Shadows"
+  ],
+  "cnamwilliamson-soldier-of-the-legion": [
+   20815,
+   "A Soldier of the Legion"
+  ],
+  "cnamwilliamson-chauffeur-and-the-chaperon": [
+   21529,
+   "The Chauffeur and the Chaperon"
+  ],
+  "cnamwilliamson-lions-mouse": [
+   21998,
+   "The Lion's Mouse"
+  ],
+  "cnamwilliamson-lady-betty-across-the-water": [
+   23441,
+   "Lady Betty Across the Water"
+  ],
+  "cnamwilliamson-car-of-destiny": [
+   23500,
+   "The Car of Destiny"
+  ],
+  "cnamwilliamson-lightning-conductor-discovers-america": [
+   29083,
+   "The Lightning Conductor Discovers America"
+  ],
+  "cnamwilliamson-princess-virginia": [
+   29715,
+   "The Princess Virginia"
+  ],
+  "cnamwilliamson-rosemary-in-search-of-a-father": [
+   30907,
+   "Rosemary in Search of a Father"
+  ],
+  "cnamwilliamson-brightener": [
+   32428,
+   "The Brightener"
+  ],
+  "cnamwilliamson-lightning-conductor": [
+   33845,
+   "The Lightning Conductor: The Strange Adventures of a Motor-Car"
+  ],
+  "cnamwilliamson-where-the-path-breaks": [
+   33995,
+   "Where the Path Breaks"
+  ],
+  "cnamwilliamson-vision-house": [
+   34919,
+   "Vision House"
+  ],
+  "cnamwilliamson-lord-john-in-new-york": [
+   38470,
+   "Lord John in New York"
+  ],
+  "cnamwilliamson-girl-who-had-nothing": [
+   39730,
+   "The Girl Who Had Nothing"
+  ],
+  "cnamwilliamson-lord-loveland-discovers-america": [
+   39984,
+   "Lord Loveland Discovers America"
+  ],
+  "cnamwilliamson-adventure-of-princess-sylvia": [
+   42357,
+   "The Adventure of Princess Sylvia"
+  ],
+  "cnamwilliamson-angel-unawares": [
+   42919,
+   "Angel Unawares: A Story of Christmas Eve"
+  ],
+  "cnamwilliamson-great-pearl-secret": [
+   56470,
+   "The Great Pearl Secret"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cnamwilliamson-it-happened-in-egypt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-powers-and-maxine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-port-of-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-princess-passes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-winnie-childs-the-shop-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-motor-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-rosemary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-second-latchkey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-golden-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-secret-history-revealed-by-lady-peggy-omalley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-set-in-silver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-my-friend-the-chauffeur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-guests-of-hercules": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-heather-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-everymans-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-castle-of-the-shadows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-soldier-of-the-legion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-chauffeur-and-the-chaperon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-lions-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-lady-betty-across-the-water": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-car-of-destiny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-lightning-conductor-discovers-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-princess-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-rosemary-in-search-of-a-father": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-brightener": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-lightning-conductor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-where-the-path-breaks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-vision-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-lord-john-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-girl-who-had-nothing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-lord-loveland-discovers-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-adventure-of-princess-sylvia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-angel-unawares": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cnamwilliamson-great-pearl-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

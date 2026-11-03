@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain Daniel Merrill (1765-1833), Congregational minister of Sedgwick, Maine, who became a Baptist with most of his church in 1805 and later served at Nottingham West, New Hampshire, for the Word Hoard: Open Communion, Twelve Letters to Samuel Austin, The Mode and Subjects of Baptism, Balaam Disappointed, and The Gospel Church Vindicated. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 106 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "daniel merrill",
+  "d. merrill",
+  "merrill"
+ ],
+ "_surname": [
+  "daniel merrill",
+  "d. merrill"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dmerrill-open-communion": [
+   "opencommunionwit00merr",
+   "Open communion with all who keep the ordinances as Christ delivered them to the saints : eight letters on open communion, addressed to Rufus Anderson (Boston : Printed and sold by Manning & Loring, 1805)"
+  ],
+  "dmerrill-letters-austin": [
+   "twelvelettersadd00merr",
+   "Twelve letters addressed to Rev. Samuel Austin, A.M. : in which his vindication of partial washing for Christian baptism, contained in ten letters, is reviewed and disproved (Boston : Printed by Manning & Loring, 1806)"
+  ],
+  "dmerrill-baptism": [
+   "modesubjectsofba00merr",
+   "The mode and subjects of baptism examined in seven sermons ([n.p.], 1812)"
+  ],
+  "dmerrill-balaam": [
+   "balaamdisappoint00merr",
+   "Balaam disappointed. A thanksgiving sermon, delivered at Nottingham-West, April 13, 1815. A day recommended by the national government, in which to rehearse God's mighty acts, and praise his name (Concord [N.H.] : Printed by Isaac & W.R. Hill, 1815)"
+  ],
+  "dmerrill-gospel-church": [
+   "gospelchurchvind00merr",
+   "The gospel church vindicated by the Scriptures (Concord : Printed by Hill & Moore, 1819)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dmerrill-lee": "A Thorough Method with Mr. Peter Edwards (by another hand)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "dmerrill-balaam": "Title page (OCR): \"BY DANFEL IVfEUKILL, A. M. Pastor of the Church of Christ in Nottingham-West... Concord... 1815\" — Daniel Merrill, Nottingham West pastor.",
+  "dmerrill-gospel-church": "Title page (OCR): \"BY DANIEL %ERIIILL, A. M. Pastor of the Church of Christ, in Nottingham-West, N. H.\" — Daniel Merrill."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dmerrill-open-communion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel merrill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dmerrill-letters-austin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel merrill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dmerrill-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel merrill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dmerrill-balaam": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dmerrill-gospel-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

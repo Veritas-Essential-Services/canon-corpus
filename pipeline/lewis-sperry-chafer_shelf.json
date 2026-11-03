@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain Lewis Sperry Chafer, Presbyterian Bible teacher and founder of the Evangelical Theological College in Dallas, for the Word Hoard: True Evangelism, The Kingdom in History and Prophecy, He That Is Spiritual, and Satan. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 129 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lewis sperry chafer",
+  "lewis s. chafer",
+  "l. s. chafer",
+  "chafer"
+ ],
+ "_surname": [
+  "chafer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chafer-true-evangelism": [
+   "trueevangelism0000chaf",
+   "True evangelism (New York, Gospel publishing house, 1911)"
+  ],
+  "chafer-kingdom-history-prophecy": [
+   "kingdominhistory00chaf",
+   "The kingdom in history and prophecy (New York ; Chicago [etc.] : Fleming H. Revell, 1915)"
+  ],
+  "chafer-he-that-is-spiritual": [
+   "hethatisspiritua00chaf",
+   "He that is spiritual (Sunday School Times Co, 1919)"
+  ],
+  "chafer-satan": [
+   "satan00chaf",
+   "Satan (Philadelphia, Pa., The Sunday school times company, 1919)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "chafer-later": "Systematic Theology and other books printed after 1929",
+  "salvation0000lewi": "this scan of Salvation (copyright 1917) is a 1965-1970 Zondervan printing; the shelf takes only printings before 1930",
+  "grace0000lewi": "this scan of Grace (copyright 1922) is the 1947 eighth edition; the shelf takes only printings before 1930"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "chafer-true-evangelism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chafer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chafer-kingdom-history-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chafer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chafer-he-that-is-spiritual": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chafer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chafer-satan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chafer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

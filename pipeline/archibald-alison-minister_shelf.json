@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Archibald Alison (1757-1839), Episcopal minister of St Paul's Chapel, Cowgate, Edinburgh, for the Word Hoard: Sermons chiefly on Particular Occasions, a 1809 fast-day discourse, and his Essays on the Nature and Principles of Taste. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 113 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "archibald alison",
+  "a. alison"
+ ],
+ "_surname": [
+  "archibald alison",
+  "alison"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aalison-sermons": [
+   "sermonschieflyon01alis",
+   "Sermons, chiefly on particular occasions, vol. 1 (Boston : Wells and Lilly, 1815)"
+  ],
+  "aalison-discourse-1809": [
+   "b3187566x",
+   "A discourse preached in the Episcopal Chapel, Cowgate, Edinburgh, Feb. 9, 1809; being the day approved by His Majesty for a general fast (Edinburgh : G. Ramsay for A. Constable, etc., 1810)"
+  ],
+  "aalison-taste": [
+   "essaysonnaturepr00alis",
+   "Essays on the nature and principles of taste (Edinburgh : Printed by J. J. G. and G. Robinson, London; and Bell and Bradfute, Edinburgh, 1790)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "aalison-historian": "The histories of Europe are by his son Sir Archibald Alison"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "aalison-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald alison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aalison-discourse-1809": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald alison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aalison-taste": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald alison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1790",
+   "ia_date": "1790",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

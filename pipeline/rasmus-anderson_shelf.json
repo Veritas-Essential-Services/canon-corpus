@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Rasmus B. Anderson (1846-1936): Bjørnson's Arne, A Happy Boy and Magnhild/Dust (1881-82), Viktor Rydberg's Teutonic Mythology (1889, 3 vols), Brandes's Eminent Authors of the Nineteenth Century (1886) and Lumholtz's Among Cannibals (1889). US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Rasmus B. Anderson (1846-1936): Bjørnson's Arne, A Happy Boy and Magnhild/Dust (1881-82), Viktor Rydberg's Teutonic Mythology (1889, 3 vols), Brandes's Eminent Authors of the Nineteenth Century (1886) and Lumholtz's Among Cannibals (1889). US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted. Round 135 (2026-10-23, vetoable) added Bjørnson's Synnøve Solbakken, The Bridal March and The Fisher Maiden in the Bickers author's edition (London, 1884) from archive.org.",
  "_name_words": [
   "rasmus b. anderson",
   "rasmus björn anderson",
@@ -46,7 +46,20 @@
    "Among Cannibals: An Account of Four Years' Travels in Australia and of Camp Life With the Aborigines of Queensland"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ran-bjornson-synnove-solbakken": [
+   "synnvesolbakken00bjgoog",
+   "Synnøve Solbakken"
+  ],
+  "ran-bjornson-bridal-march": [
+   "bridalmarchando00bjgoog",
+   "The Bridal March"
+  ],
+  "ran-bjornson-fisher-maiden": [
+   "fishermaiden00bj",
+   "The Fisher Maiden"
+  ]
+ },
  "titles": {
   "rasmus-anderson-bjornson-a-happy-boy": {
    "source": "ran-12633",
@@ -111,15 +124,41 @@
    "translated": "1881-1889 (see the Gutenberg header)",
    "translator": "Rasmus B. Anderson",
    "scan_edition": "Project Gutenberg 58830 (clean text)"
+  },
+  "rasmus-anderson-bjornson-synnove-solbakken": {
+   "source": "ran-bjornson-synnove-solbakken",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Synnøve Solbakken",
+   "translated": 1881,
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Bickers & Son, London 1884 (author's edition); archive.org scan (Google copy)"
+  },
+  "rasmus-anderson-bjornson-the-bridal-march-and-other-stories": {
+   "source": "ran-bjornson-bridal-march",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "The Bridal March, and Other Stories",
+   "translated": 1882,
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Bickers & Son, London 1884 (author's edition); archive.org scan (Google copy)"
+  },
+  "rasmus-anderson-bjornson-the-fisher-maiden": {
+   "source": "ran-bjornson-fisher-maiden",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "The Fisher Maiden",
+   "translated": 1882,
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Bickers & Son, London 1884 (author's edition); archive.org scan (Illinois copy)"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "ia-round-135": "Horn's History of the Literature of the Scandinavian North (Griggs, 1884; cu31924026360747) and Svedelius's Hand-book for Charcoal Burners (1875; handbookforcharc00sved) are his translations, but the OCR garbles his name on both title pages ('EASMUS BTANDEESON', 'b: andeeson'), so the identity gate cannot pass. The Doubleday 'Patriots Edition' Bjørnson volumes are undated reprints. His Norroena and Saxo volumes are other men's translations he edited."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "ran-12633": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
@@ -128,7 +167,7 @@
   },
   "ran-33683": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
@@ -137,7 +176,7 @@
   },
   "ran-37876": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
@@ -146,7 +185,7 @@
   },
   "ran-39744": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
@@ -155,7 +194,7 @@
   },
   "ran-49999": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
@@ -164,7 +203,7 @@
   },
   "ran-58829": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
@@ -173,7 +212,7 @@
   },
   "ran-58830": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
@@ -182,12 +221,45 @@
   },
   "ran-66299": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rasmus b. anderson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-bjornson-synnove-solbakken": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ran-bjornson-bridal-march": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ran-bjornson-fisher-maiden": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -230,6 +302,44 @@
    "pg": 66299,
    "pg_copyrighted_marker": false,
    "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-bjornson-synnove-solbakken": {
+   "ia": "synnvesolbakken00bjgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1832,
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ran-bjornson-bridal-march": {
+   "ia": "bridalmarchando00bjgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1814,
+    1856,
+    1857,
+    1858,
+    1859,
+    1868,
+    1869,
+    1872,
+    1876,
+    1882,
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ran-bjornson-fisher-maiden": {
+   "ia": "fishermaiden00bj",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1867,
+    1868,
+    1872,
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

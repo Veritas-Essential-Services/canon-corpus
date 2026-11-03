@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Anna Swanwick (1813-1899): Goethe's Egmont and Iphigenia in Tauris and Schiller's The Maid of Orleans (Bohn, 1843-50). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Anna Swanwick (1813-1899): Goethe's Egmont and Iphigenia in Tauris and Schiller's The Maid of Orleans (Bohn, 1843-50). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted. From archive.org (2026-10-23): the Bohn Dramatic Works of Goethe (1860 printing): her Faust, Iphigenia, Tasso and Egmont, with Scott's Goetz. Her Aeschylus is on lane B's aeschylus shelf.",
  "_name_words": [
   "anna swanwick"
  ],
@@ -22,7 +22,12 @@
    "The Maid of Orleans: A Tragedy"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "asw-ia-goethe-dramatic-works": [
+   "dramaticworksgo00goetgoog",
+   "Goethe: Dramatic Works (Bohn)"
+  ]
+ },
  "titles": {
   "swanwick-goethe-egmont": {
    "source": "swa-1945",
@@ -47,6 +52,14 @@
    "translated": "1843-1850 (see the Gutenberg header)",
    "translator": "Anna Swanwick",
    "scan_edition": "Project Gutenberg 6792 (clean text)"
+  },
+  "swanwick-goethe-dramatic-works-bohn": {
+   "source": "asw-ia-goethe-dramatic-works",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Dramatic Works: Faust, Iphigenia in Tauris, Torquato Tasso, Egmont (and Goetz von Berlichingen, translated by Sir Walter Scott)",
+   "translated": "1860 (this printing)",
+   "translator": "Anna Swanwick (Goetz by Walter Scott)",
+   "scan_edition": "Henry G. Bohn, London, 1860 (Bohn's Standard Library)"
   }
  },
  "_pending": {},
@@ -55,7 +68,7 @@
  "_checks": {
   "swa-15850": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anna swanwick",
    "identity": "ok",
@@ -64,7 +77,7 @@
   },
   "swa-1945": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anna swanwick",
    "identity": "ok",
@@ -73,12 +86,23 @@
   },
   "swa-6792": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anna swanwick",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Anna Swanwick"
+  },
+  "asw-ia-goethe-dramatic-works": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna swanwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -96,6 +120,19 @@
    "pg": 6792,
    "pg_copyrighted_marker": false,
    "pg_translator": "Anna Swanwick"
+  },
+  "asw-ia-goethe-dramatic-works": {
+   "ia": "dramaticworksgo00goetgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1774,
+    1790,
+    1797,
+    1808,
+    1850,
+    1860
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

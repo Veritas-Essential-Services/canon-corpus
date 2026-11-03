@@ -1,0 +1,86 @@
+{
+ "_about": "Arthur Preston Hankins: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur Preston Hankins",
+ "_name_words": [
+  "arthur",
+  "hankins",
+  "preston"
+ ],
+ "_surname": [
+  "arthur preston hankins",
+  "hankins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aphankins-she-boss": [
+   19129,
+   "The She Boss: A Western Story"
+  ],
+  "aphankins-heritage-of-the-hills": [
+   34507,
+   "The Heritage of the Hills"
+  ],
+  "aphankins-valley-of-arcana": [
+   69880,
+   "The valley of Arcana"
+  ],
+  "aphankins-falcon-of-squawtooth": [
+   70785,
+   "Falcon, of Squawtooth"
+  ],
+  "aphankins-cole-of-spyglass-mountain": [
+   74690,
+   "Cole of Spyglass Mountain"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "aphankins-she-boss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur preston hankins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aphankins-heritage-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur preston hankins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aphankins-valley-of-arcana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur preston hankins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aphankins-falcon-of-squawtooth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur preston hankins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aphankins-cole-of-spyglass-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur preston hankins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain Alexander Viets Griswold (1766-1843), Bishop of the Eastern Diocese and presiding bishop of the Episcopal Church, an evangelical, for the Word Hoard: Discourses on the Most Important Doctrines and Duties of the Christian Religion (1830), Prayers Adapted to Various Occasions of Social Worship (1836), The Reformation (1843) and Remarks on Social Prayer-Meetings (1858), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "griswold"
+ ],
+ "_surname": [
+  "alexander viets griswold",
+  "griswold"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "griswold-discourses-1830": [
+   "discoursesonmost00gris",
+   "Discourses on the most important doctrines and duties of the Christian religion (Philadelphia, W. Stavely, 1830)"
+  ],
+  "griswold-prayers-1836": [
+   "prayersadaptedto00grisiala",
+   "Prayers adapted to various occasions of social worship, for which provision is not made in the Book of common prayer (Philadelphia : W. Marshall & co.; Providence, Marshall, Brown & co., 1836)"
+  ],
+  "griswold-reformation-1843": [
+   "reformationbrief00gris",
+   "The reformation: a brief exposition of some of the errors and corruptions of the church of Rome (Boston, J. B. Dow, 1843)"
+  ],
+  "griswold-prayer-meetings-1858": [
+   "remarksonsocial00grisgoog",
+   "Remarks on social prayer-meetings (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858)"
+  ]
+ },
+ "_alternates": {
+  "griswold-copies": "Other scans of each"
+ },
+ "_excluded": {
+  "griswold-other": "Works by Alexander V. G. Allen (Continuity of Christian Thought, Life of Phillips Brooks, and others), which the catalogue files under Griswold's name"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "griswold-discourses-1830": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "griswold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "griswold-prayers-1836": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "griswold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "griswold-reformation-1843": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander viets griswold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "griswold-prayer-meetings-1858": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander viets griswold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

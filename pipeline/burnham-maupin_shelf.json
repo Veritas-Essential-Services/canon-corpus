@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: I. G. Burnham: Gautier's Mademoiselle de Maupin (Gebbie, 1897-1900, 2 vols). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: I. G. Burnham: Gautier's Mademoiselle de Maupin (Gebbie, 1897-1900, 2 vols). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted. From archive.org (2026-10-23): Dumas's Celebrated Crimes (1895), vols. I-III and V-VIII; no scan of vol. IV naming him was found.",
  "_name_words": [
   "i. g. burnham",
   "burnham"
@@ -20,7 +20,36 @@
    "Mademoiselle de Maupin, Volume 2 (of 2)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ibu-ia-celebrated-crimes-1": [
+   "celebratedcrimes01dumauoft",
+   "Dumas: Celebrated Crimes 1"
+  ],
+  "ibu-ia-celebrated-crimes-2": [
+   "celebratedcrimes02duma_0",
+   "Dumas: Celebrated Crimes 2"
+  ],
+  "ibu-ia-celebrated-crimes-3": [
+   "celebratedcrimes03dumauoft",
+   "Dumas: Celebrated Crimes 3"
+  ],
+  "ibu-ia-celebrated-crimes-5": [
+   "celebratedcrimes05dumauoft",
+   "Dumas: Celebrated Crimes 5"
+  ],
+  "ibu-ia-celebrated-crimes-6": [
+   "celebratedcrimes00dumauoft",
+   "Dumas: Celebrated Crimes 6"
+  ],
+  "ibu-ia-celebrated-crimes-7": [
+   "celebratedcrimes07dumauoft",
+   "Dumas: Celebrated Crimes 7"
+  ],
+  "ibu-ia-celebrated-crimes-8": [
+   "celebratedcrimes08dumauoft",
+   "Dumas: Celebrated Crimes 8"
+  ]
+ },
  "titles": {
   "burnham-maupin-gautier-mademoiselle-de-maupin-volume-1-of-2": {
    "source": "ibu-48893",
@@ -37,15 +66,73 @@
    "translated": "1897-1900 (see the Gutenberg header)",
    "translator": "I. G. Burnham",
    "scan_edition": "Project Gutenberg 48894 (clean text)"
+  },
+  "burnham-maupin-dumas-celebrated-crimes-1": {
+   "source": "ibu-ia-celebrated-crimes-1",
+   "of": "Alexandre Dumas",
+   "work": "Celebrated Crimes, vol. I",
+   "translated": "1895",
+   "translator": "I. G. Burnham",
+   "scan_edition": "H. S. Nichols, London, 1895"
+  },
+  "burnham-maupin-dumas-celebrated-crimes-2": {
+   "source": "ibu-ia-celebrated-crimes-2",
+   "of": "Alexandre Dumas",
+   "work": "Celebrated Crimes, vol. II",
+   "translated": "1895",
+   "translator": "I. G. Burnham",
+   "scan_edition": "George H. Richmond & Co., New York, copyright 1895 (the only vol. II scan found; the other volumes here are Nichols's London issue)"
+  },
+  "burnham-maupin-dumas-celebrated-crimes-3": {
+   "source": "ibu-ia-celebrated-crimes-3",
+   "of": "Alexandre Dumas",
+   "work": "Celebrated Crimes, vol. III",
+   "translated": "1895",
+   "translator": "I. G. Burnham",
+   "scan_edition": "H. S. Nichols, London, 1895"
+  },
+  "burnham-maupin-dumas-celebrated-crimes-5": {
+   "source": "ibu-ia-celebrated-crimes-5",
+   "of": "Alexandre Dumas",
+   "work": "Celebrated Crimes, vol. V",
+   "translated": "1895",
+   "translator": "I. G. Burnham",
+   "scan_edition": "H. S. Nichols, London, 1895"
+  },
+  "burnham-maupin-dumas-celebrated-crimes-6": {
+   "source": "ibu-ia-celebrated-crimes-6",
+   "of": "Alexandre Dumas",
+   "work": "Celebrated Crimes, vol. VI",
+   "translated": "1895",
+   "translator": "I. G. Burnham",
+   "scan_edition": "H. S. Nichols, London, 1895"
+  },
+  "burnham-maupin-dumas-celebrated-crimes-7": {
+   "source": "ibu-ia-celebrated-crimes-7",
+   "of": "Alexandre Dumas",
+   "work": "Celebrated Crimes, vol. VII",
+   "translated": "1895",
+   "translator": "I. G. Burnham",
+   "scan_edition": "H. S. Nichols, London, 1895"
+  },
+  "burnham-maupin-dumas-celebrated-crimes-8": {
+   "source": "ibu-ia-celebrated-crimes-8",
+   "of": "Alexandre Dumas",
+   "work": "Celebrated Crimes, vol. VIII",
+   "translated": "1895",
+   "translator": "I. G. Burnham",
+   "scan_edition": "H. S. Nichols, London, 1895"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Gutenberg's Celebrated Crimes (2760) names no translator, so the 1895 scans are used instead."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "ibu-48893": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "i. g. burnham",
    "identity": "ok",
@@ -54,12 +141,93 @@
   },
   "ibu-48894": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "i. g. burnham",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "I. G. Burnham"
+  },
+  "ibu-ia-celebrated-crimes-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. g. burnham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ibu-ia-celebrated-crimes-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. g. burnham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ibu-ia-celebrated-crimes-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. g. burnham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ibu-ia-celebrated-crimes-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. g. burnham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ibu-ia-celebrated-crimes-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. g. burnham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ibu-ia-celebrated-crimes-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. g. burnham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ibu-ia-celebrated-crimes-8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. g. burnham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +240,85 @@
    "pg": 48894,
    "pg_copyrighted_marker": false,
    "pg_translator": "I. G. Burnham"
+  },
+  "ibu-ia-celebrated-crimes-1": {
+   "ia": "celebratedcrimes01dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ibu-ia-celebrated-crimes-2": {
+   "ia": "celebratedcrimes02duma_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1492,
+    1507
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "No post-1930 year; the copyright line reads 'Copyrighted 1 895' (spaced in the OCR), George H. Richmond, New York"
+  },
+  "ibu-ia-celebrated-crimes-3": {
+   "ia": "celebratedcrimes03dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1649,
+    1657,
+    1667,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ibu-ia-celebrated-crimes-5": {
+   "ia": "celebratedcrimes05dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1492,
+    1523,
+    1598,
+    1777,
+    1809,
+    1814,
+    1815,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ibu-ia-celebrated-crimes-6": {
+   "ia": "celebratedcrimes00dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1716,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ibu-ia-celebrated-crimes-7": {
+   "ia": "celebratedcrimes07dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1651,
+    1660,
+    1665,
+    1676,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ibu-ia-celebrated-crimes-8": {
+   "ia": "celebratedcrimes08dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1551,
+    1556,
+    1557,
+    1559,
+    1561,
+    1815,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

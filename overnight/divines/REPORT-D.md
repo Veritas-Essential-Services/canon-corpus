@@ -1689,3 +1689,1250 @@
 - This burn session (from 2026-10-17 21:32Z): 279 Lane D commits, 187 new shelves holding 6,338 Gutenberg books, plus completions: batches 36-50, the "-works" shelves for the major English and American novelists (Dickens through Henty, Wharton, Wodehouse and the rest, pre-1931 only where told), and batch 49-50 novelists (Le Fanu, Zangwill, Dreiser, Glasgow, Cable, Sabatini and others).
 - Fixes: duplicate-check flaw (DIGEST item 26), Chesterton overlap with main (item 25), post-1930 holds (item 24).
 - RESUME POINT: next is batch 51, candidates not yet started: children's and popular authors with no shelf on any branch (check again before starting). The ones surveyed and still free: none left from the batch-50 list. Possible next: authors with only a single-title reading-list shelf (standing rule: Lane D completes them), and a renewal check for the DIGEST item 24 holds if Adam says so. Helper scripts lived in the session scratch area and are gone; the shelf format and gates are in pipeline/fetch_shelf.py and overnight/divines/precommit-D.py.
+
+## 2026-10-22 22:08 CDT — william-carleton: done
+- william-carleton: new shelf, 19 Gutenberg books, 34,095 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:09 CDT — bertram-mitford: done
+- bertram-mitford: new shelf, 27 Gutenberg books, 46,410 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:09 CDT — louis-tracy: done
+- louis-tracy: new shelf, 30 Gutenberg books, 59,909 units, 223 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:09 CDT — bl-farjeon: done
+- bl-farjeon: new shelf, 29 Gutenberg books, 61,676 units, 684 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:10 CDT — ann-s-stephens: done
+- ann-s-stephens: new shelf, 29 Gutenberg books, 87,204 units, 1709 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:10 CDT — molly-elliot-seawell: done
+- molly-elliot-seawell: new shelf, 28 Gutenberg books, 28,378 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:11 CDT — meredith-nicholson: done
+- meredith-nicholson: new shelf, 27 Gutenberg books, 42,906 units, 3726 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:11 CDT — francis-lynde: done
+- francis-lynde: new shelf, 26 Gutenberg books, 50,415 units, 105 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:12 CDT — richard-marsh: done
+- richard-marsh: new shelf, 25 Gutenberg books, 54,448 units, 1206 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:13 CDT — mrs-de-horne-vaizey: done
+- mrs-de-horne-vaizey: new shelf, 23 Gutenberg books, 28,636 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:13 CDT — harvey-ralphson: done
+- harvey-ralphson: new shelf, 21 Gutenberg books, 34,391 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags; 2 failed to fetch.
+
+## 2026-10-22 22:13 CDT — lillian-elizabeth-roy: done
+- lillian-elizabeth-roy: new shelf, 22 Gutenberg books, 33,995 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:14 CDT — harold-macgrath: done
+- harold-macgrath: new shelf, 22 Gutenberg books, 44,178 units, 89 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:14 CDT — david-graham-phillips: done
+- david-graham-phillips: new shelf, 22 Gutenberg books, 43,827 units, 2624 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — mary-hartwell-catherwood: done
+- mary-hartwell-catherwood: new shelf, 21 Gutenberg books, 15,807 units, 1730 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — ridgwell-cullum: done
+- ridgwell-cullum: new shelf, 21 Gutenberg books, 51,427 units, 160 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — mary-hazelton-wade: done
+- mary-hazelton-wade: new shelf, 19 Gutenberg books, 10,802 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags; 2 failed to fetch.
+
+## 2026-10-22 22:15 CDT — the-duchess: done
+- the-duchess: new shelf, 20 Gutenberg books, 40,366 units, 1329 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch.
+
+## 2026-10-22 22:15 CDT — hall-caine: done
+- hall-caine: new shelf, 20 Gutenberg books, 60,656 units, 18926 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — tw-speight: done
+- tw-speight: new shelf, 20 Gutenberg books, 20,938 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — edwin-l-sabin: done
+- edwin-l-sabin: new shelf, 20 Gutenberg books, 37,030 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — george-cary-eggleston: done
+- george-cary-eggleston: new shelf, 20 Gutenberg books, 25,996 units, 85 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — eglanton-thorne: done
+- eglanton-thorne: new shelf, 19 Gutenberg books, 20,401 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — jc-snaith: done
+- jc-snaith: new shelf, 19 Gutenberg books, 36,903 units, 2745 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — emma-leslie: done
+- emma-leslie: new shelf, 19 Gutenberg books, 13,636 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — bernard-capes: done
+- bernard-capes: new shelf, 19 Gutenberg books, 42,875 units, 2049 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — ep-roe: done
+- ep-roe: new shelf, 19 Gutenberg books, 43,142 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — irving-bacheller: done
+- irving-bacheller: new shelf, 18 Gutenberg books, 24,996 units, 107 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — mrs-jh-riddell: done
+- mrs-jh-riddell: new shelf, 18 Gutenberg books, 22,596 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — williamsons: done
+- williamsons: new shelf, 34 Gutenberg books, 54,524 units, 2542 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:16 CDT — three name-gate refusals cleared
+- harvey-ralphson: new shelf, 23 Gutenberg books, 37,387 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug).
+- mary-hazelton-wade: new shelf, 21 Gutenberg books, 11,792 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug).
+- the-duchess: new shelf, 21 Gutenberg books, 44,271 units, 1329 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 1, see _surname_by_slug).
+
+## 2026-10-22 22:19 CDT — alex-mcveigh-miller: done
+- alex-mcveigh-miller: new shelf, 39 Gutenberg books, 77,993 units, 3628 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:19 CDT — florence-warden: done
+- florence-warden: new shelf, 18 Gutenberg books, 34,682 units, 217 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:20 CDT — georgie-sheldon: done
+- georgie-sheldon: new shelf, 18 Gutenberg books, 45,125 units, 67 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:20 CDT — luis-senarens: done
+- luis-senarens: new shelf, 18 Gutenberg books, 33,145 units, 1543 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:20 CDT — st-george-rathborne: done
+- st-george-rathborne: new shelf, 18 Gutenberg books, 29,677 units, 33 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:21 CDT — elinor-glyn: done
+- elinor-glyn: new shelf, 18 Gutenberg books, 25,513 units, 1236 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:21 CDT — ethel-m-dell: done
+- ethel-m-dell: new shelf, 18 Gutenberg books, 66,934 units, 2621 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:22 CDT — james-de-mille: done
+- james-de-mille: new shelf, 17 Gutenberg books, 41,416 units, 306 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:22 CDT — f-anstey: done
+- f-anstey: new shelf, 17 Gutenberg books, 25,852 units, 2674 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:22 CDT — sarah-tytler: done
+- sarah-tytler: new shelf, 17 Gutenberg books, 12,957 units, 632 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:23 CDT — arthur-b-reeve: done
+- arthur-b-reeve: new shelf, 16 Gutenberg books, 35,907 units, 351 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:23 CDT — alfred-henry-lewis: done
+- alfred-henry-lewis: new shelf, 15 Gutenberg books, 20,708 units, 145 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:23 CDT — ruth-lamb: done
+- ruth-lamb: new shelf, 17 Gutenberg books, 12,453 units, 1546 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — prentiss-ingraham: done
+- prentiss-ingraham: new shelf, 17 Gutenberg books, 43,730 units, 52 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — cyrus-townsend-brady: done
+- cyrus-townsend-brady: new shelf, 17 Gutenberg books, 26,856 units, 133 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — marion-ames-taggart: done
+- marion-ames-taggart: new shelf, 16 Gutenberg books, 20,885 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — randall-parrish: done
+- randall-parrish: new shelf, 15 Gutenberg books, 27,234 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — r-austin-freeman: done
+- r-austin-freeman: new shelf, 16 Gutenberg books, 28,887 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — ralph-connor: done
+- ralph-connor: new shelf, 15 Gutenberg books, 32,450 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — guy-boothby: done
+- guy-boothby: new shelf, 16 Gutenberg books, 22,130 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — rolf-boldrewood: done
+- rolf-boldrewood: new shelf, 16 Gutenberg books, 26,164 units, 306 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — constance-fenimore-woolson: done
+- constance-fenimore-woolson: new shelf, 15 Gutenberg books, 24,823 units, 981 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — talbot-mundy: done
+- talbot-mundy: new shelf, 15 Gutenberg books, 27,969 units, 1038 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — s-weir-mitchell: done
+- s-weir-mitchell: new shelf, 15 Gutenberg books, 22,091 units, 485 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — helen-hunt-jackson: done
+- helen-hunt-jackson: new shelf, 14 Gutenberg books, 14,725 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — julian-hawthorne: done
+- julian-hawthorne: new shelf, 15 Gutenberg books, 13,184 units, 616 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — john-habberton: done
+- john-habberton: new shelf, 14 Gutenberg books, 18,744 units, 166 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — harold-frederic: done
+- harold-frederic: new shelf, 14 Gutenberg books, 17,826 units, 136 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:25 CDT — rosa-nouchette-carey: done
+- rosa-nouchette-carey: new shelf, 14 Gutenberg books, 33,129 units, 2240 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:25 CDT — john-fox-jr: done
+- john-fox-jr: new shelf, 13 Gutenberg books, 10,427 units, 64 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:26 CDT — alfred-henry-lewis: Wolfville Days restored
+- The post-1930 scan read the 2001 copyright on Gutenberg's own header text in an old-format file as the book's. The scan now skips Gutenberg's header and legal lines. alfred-henry-lewis: new shelf, 16 Gutenberg books, 21,941 units, 145 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:29 CDT — max-brand: done
+- max-brand: new shelf, 17 Gutenberg books, 28,769 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:29 CDT — hugh-walpole: done
+- hugh-walpole: new shelf, 18 Gutenberg books, 38,378 units, 6416 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:29 CDT — anne-douglas-sedgwick: done
+- anne-douglas-sedgwick: new shelf, 17 Gutenberg books, 26,119 units, 4279 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:30 CDT — nell-speed: done
+- nell-speed: new shelf, 15 Gutenberg books, 19,497 units, 170 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:30 CDT — richard-dowling: done
+- richard-dowling: new shelf, 16 Gutenberg books, 18,789 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:31 CDT — louis-joseph-vance: done
+- louis-joseph-vance: new shelf, 15 Gutenberg books, 36,443 units, 129 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:31 CDT — david-christie-murray: done
+- david-christie-murray: new shelf, 15 Gutenberg books, 10,354 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:31 CDT — samuel-merwin: done
+- samuel-merwin: new shelf, 13 Gutenberg books, 25,279 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:31 CDT — sydney-c-grier: done
+- sydney-c-grier: new shelf, 15 Gutenberg books, 30,849 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:32 CDT — zona-gale: done
+- zona-gale: new shelf, 14 Gutenberg books, 20,206 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:32 CDT — holman-day: done
+- holman-day: new shelf, 14 Gutenberg books, 36,916 units, 4417 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:32 CDT — whyte-melville: done
+- whyte-melville: new shelf, 14 Gutenberg books, 20,696 units, 61 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — fred-m-white: done
+- fred-m-white: new shelf, 14 Gutenberg books, 23,994 units, 392 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — laura-rountree-smith: done
+- laura-rountree-smith: new shelf, 14 Gutenberg books, 8,684 units, 383 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — martin-ross: done
+- martin-ross: new shelf, 14 Gutenberg books, 15,052 units, 261 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — myrtle-reed: done
+- myrtle-reed: new shelf, 14 Gutenberg books, 25,115 units, 108 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — susanna-moodie: done
+- susanna-moodie: new shelf, 14 Gutenberg books, 17,198 units, 13 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — thomas-a-janvier: done
+- thomas-a-janvier: new shelf, 14 Gutenberg books, 4,101 units, 376 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — will-n-harben: done
+- will-n-harben: new shelf, 14 Gutenberg books, 23,077 units, 2768 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — jackson-gregory: done
+- jackson-gregory: new shelf, 13 Gutenberg books, 20,857 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — george-gibbs: done
+- george-gibbs: new shelf, 13 Gutenberg books, 32,909 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — james-lane-allen: done
+- james-lane-allen: new shelf, 14 Gutenberg books, 10,775 units, 1463 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — arthur-train: done
+- arthur-train: new shelf, 12 Gutenberg books, 14,974 units, 741 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — garrett-p-serviss: done
+- garrett-p-serviss: new shelf, 12 Gutenberg books, 19,120 units, 166 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — natalie-sumner-lincoln: done
+- natalie-sumner-lincoln: new shelf, 13 Gutenberg books, 24,264 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — basil-king: done
+- basil-king: new shelf, 13 Gutenberg books, 28,315 units, 1064 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — hulbert-footner: done
+- hulbert-footner: new shelf, 13 Gutenberg books, 33,668 units, 1175 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — frank-t-bullen: done
+- frank-t-bullen: new shelf, 13 Gutenberg books, 7,238 units, 84 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — may-agnes-fleming: done
+- may-agnes-fleming: new shelf, 12 Gutenberg books, 34,149 units, 146 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — harold-bell-wright: done
+- harold-bell-wright: new shelf, 11 Gutenberg books, 18,704 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:36 CDT — edgar-saltus: done
+- edgar-saltus: new shelf, 15 Gutenberg books, 13,845 units, 230 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:36 CDT — bloundelle-burton: done
+- bloundelle-burton: new shelf, 14 Gutenberg books, 20,599 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:37 CDT — arlo-bates: done
+- arlo-bates: new shelf, 14 Gutenberg books, 19,984 units, 404 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:37 CDT — mary-russell-mitford: done
+- mary-russell-mitford: new shelf, 13 Gutenberg books, 818 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:37 CDT — aunt-fanny: done
+- aunt-fanny: new shelf, 13 Gutenberg books, 5,967 units, 235 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:37 CDT — mary-imlay-taylor: done
+- mary-imlay-taylor: new shelf, 12 Gutenberg books, 19,916 units, 259 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:38 CDT — arthur-w-marchmont: done
+- arthur-w-marchmont: new shelf, 12 Gutenberg books, 39,187 units, 41 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:38 CDT — maria-thompson-daviess: done
+- maria-thompson-daviess: new shelf, 12 Gutenberg books, 9,649 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:38 CDT — will-levington-comfort: done
+- will-levington-comfort: new shelf, 12 Gutenberg books, 19,021 units, 69 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — geraldine-bonner: done
+- geraldine-bonner: new shelf, 12 Gutenberg books, 21,021 units, 3855 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — dillon-wallace: done
+- dillon-wallace: new shelf, 11 Gutenberg books, 13,161 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — margaret-m-robertson: done
+- margaret-m-robertson: new shelf, 11 Gutenberg books, 20,689 units, 162 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — george-w-peck: done
+- george-w-peck: new shelf, 10 Gutenberg books, 5,606 units, 136 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — frances-trego-montgomery: done
+- frances-trego-montgomery: new shelf, 11 Gutenberg books, 6,883 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — alice-duer-miller: done
+- alice-duer-miller: new shelf, 11 Gutenberg books, 12,739 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — archibald-marshall: done
+- archibald-marshall: new shelf, 11 Gutenberg books, 16,638 units, 40 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — annette-lyster: done
+- annette-lyster: new shelf, 11 Gutenberg books, 10,447 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — george-griffith: done
+- george-griffith: new shelf, 11 Gutenberg books, 15,787 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — homer-greene: done
+- homer-greene: new shelf, 11 Gutenberg books, 15,025 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — fanny-fern: done
+- fanny-fern: new shelf, 11 Gutenberg books, 10,845 units, 151 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — sara-jeannette-duncan: done
+- sara-jeannette-duncan: new shelf, 11 Gutenberg books, 12,338 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — norman-duncan: done
+- norman-duncan: new shelf, 11 Gutenberg books, 16,364 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — margaret-deland: done
+- margaret-deland: new shelf, 11 Gutenberg books, 16,645 units, 1302 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — harriet-t-comstock: done
+- harriet-t-comstock: new shelf, 11 Gutenberg books, 22,281 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — mary-cholmondeley: done
+- mary-cholmondeley: new shelf, 11 Gutenberg books, 16,883 units, 936 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — hezekiah-butterworth: done
+- hezekiah-butterworth: new shelf, 11 Gutenberg books, 19,439 units, 533 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — clara-louise-burnham: done
+- clara-louise-burnham: new shelf, 11 Gutenberg books, 28,067 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — charlotte-m-brame: done
+- charlotte-m-brame: new shelf, 11 Gutenberg books, 20,558 units, 127 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — frank-norris: done
+- frank-norris: new shelf, 10 Gutenberg books, 16,149 units, 1072 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:42 CDT — anne-warner: done
+- anne-warner: new shelf, 10 Gutenberg books, 15,734 units, 152 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:42 CDT — amy-walton: done
+- amy-walton: new shelf, 10 Gutenberg books, 8,122 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:42 CDT — eva-march-tappan: done
+- eva-march-tappan: new shelf, 10 Gutenberg books, 5,989 units, 74 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — robert-neilson-stephens: done
+- robert-neilson-stephens: new shelf, 10 Gutenberg books, 17,156 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — charles-alden-seltzer: done
+- charles-alden-seltzer: new shelf, 10 Gutenberg books, 16,713 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — hl-sayler: done
+- hl-sayler: new shelf, 10 Gutenberg books, 13,720 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — major-john-richardson: done
+- major-john-richardson: new shelf, 10 Gutenberg books, 9,619 units, 1276 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — alice-hegan-rice: done
+- alice-hegan-rice: new shelf, 10 Gutenberg books, 13,646 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:44 CDT — helen-leah-reed: done
+- helen-leah-reed: new shelf, 10 Gutenberg books, 13,294 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:44 CDT — opie-read: done
+- opie-read: new shelf, 9 Gutenberg books, 15,087 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch.
+
+## 2026-10-22 22:44 CDT — anna-chapin-ray: done
+- anna-chapin-ray: new shelf, 10 Gutenberg books, 17,992 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:44 CDT — mabel-quiller-couch: done
+- mabel-quiller-couch: new shelf, 10 Gutenberg books, 9,818 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:44 CDT — j-macdonald-oxley: done
+- j-macdonald-oxley: new shelf, 10 Gutenberg books, 8,372 units, 79 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — john-oxenham: done
+- john-oxenham: new shelf, 10 Gutenberg books, 20,971 units, 897 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — neil-munro: done
+- neil-munro: new shelf, 9 Gutenberg books, 12,334 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — egerton-castle: done
+- egerton-castle: new shelf, 10 Gutenberg books, 18,865 units, 1406 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — ada-cambridge: done
+- ada-cambridge: new shelf, 10 Gutenberg books, 9,388 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — saki: done
+- saki: new shelf, 9 Gutenberg books, 6,609 units, 160 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — morley-roberts: done
+- morley-roberts: new shelf, 9 Gutenberg books, 11,679 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — james-payn: done
+- james-payn: new shelf, 9 Gutenberg books, 7,168 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — barry-pain: done
+- barry-pain: new shelf, 9 Gutenberg books, 9,416 units, 354 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — arthur-morrison: done
+- arthur-morrison: new shelf, 9 Gutenberg books, 8,772 units, 1431 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — don-marquis: done
+- don-marquis: new shelf, 7 Gutenberg books, 8,144 units, 39 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — henry-lawson: done
+- henry-lawson: new shelf, 8 Gutenberg books, 9,466 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — elijah-kellogg: done
+- elijah-kellogg: new shelf, 9 Gutenberg books, 13,658 units, 20 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — augusta-j-evans: done
+- augusta-j-evans: new shelf, 9 Gutenberg books, 24,864 units, 221 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — dane-coolidge: done
+- dane-coolidge: new shelf, 9 Gutenberg books, 12,134 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — everett-t-tomlinson: done
+- everett-t-tomlinson: new shelf, 9 Gutenberg books, 15,211 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — frank-h-spearman: done
+- frank-h-spearman: new shelf, 9 Gutenberg books, 15,615 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — florence-l-barclay: done
+- florence-l-barclay: new shelf, 8 Gutenberg books, 12,680 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:46 CDT — opie-read: one name-gate refusal cleared
+- opie-read: new shelf, 10 Gutenberg books, 16,281 units, 67 ~2 ids; verify 0 mismatches, 0 rights flags (Up Terrapin River checks for his full name, as its Gutenberg header gives it).
+
+## 2026-10-22 22:47 CDT — mabel-osgood-wright: done
+- mabel-osgood-wright: new shelf, 9 Gutenberg books, 13,197 units, 80 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — frances-mary-peard: done
+- frances-mary-peard: new shelf, 9 Gutenberg books, 15,508 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — roy-norton: done
+- roy-norton: new shelf, 9 Gutenberg books, 3,441 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — blanche-mcmanus: done
+- blanche-mcmanus: new shelf, 9 Gutenberg books, 6,299 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — anne-manning: done
+- anne-manning: new shelf, 9 Gutenberg books, 8,709 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — henry-leverage: done
+- henry-leverage: new shelf, 9 Gutenberg books, 7,282 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — tc-harbaugh: done
+- tc-harbaugh: new shelf, 9 Gutenberg books, 9,617 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — elizabeth-gordon: done
+- elizabeth-gordon: new shelf, 9 Gutenberg books, 2,739 units, 299 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — ge-farrow: done
+- ge-farrow: new shelf, 9 Gutenberg books, 8,182 units, 98 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — madeline-brandeis: done
+- madeline-brandeis: new shelf, 4 Gutenberg books, 2,382 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — frederick-orin-bartlett: done
+- frederick-orin-bartlett: new shelf, 9 Gutenberg books, 19,019 units, 30 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — charles-w-whistler: done
+- charles-w-whistler: new shelf, 8 Gutenberg books, 16,054 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — allen-upward: done
+- allen-upward: new shelf, 8 Gutenberg books, 14,748 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — catharine-parr-traill: done
+- catharine-parr-traill: new shelf, 8 Gutenberg books, 5,132 units, 161 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — mabell-sc-smith: done
+- mabell-sc-smith: new shelf, 8 Gutenberg books, 12,626 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — mary-e-ropes: done
+- mary-e-ropes: new shelf, 8 Gutenberg books, 4,279 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — roger-pocock: done
+- roger-pocock: new shelf, 8 Gutenberg books, 13,494 units, 1316 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — old-sleuth: done
+- old-sleuth: new shelf, 8 Gutenberg books, 13,026 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — hc-mcneile: done
+- hc-mcneile: new shelf, 8 Gutenberg books, 10,532 units, 2173 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — lucy-foster-madison: done
+- lucy-foster-madison: new shelf, 8 Gutenberg books, 15,071 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — robert-leighton: done
+- robert-leighton: new shelf, 8 Gutenberg books, 11,770 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — henry-herbert-knibbs: done
+- henry-herbert-knibbs: new shelf, 8 Gutenberg books, 14,451 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — herbert-jenkins: done
+- herbert-jenkins: new shelf, 7 Gutenberg books, 16,171 units, 873 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch.
+
+## 2026-10-22 22:50 CDT — cutcliffe-hyne: done
+- cutcliffe-hyne: new shelf, 8 Gutenberg books, 10,502 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — thomas-w-hanshew: done
+- thomas-w-hanshew: new shelf, 8 Gutenberg books, 12,450 units, 646 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — edith-k-dunton: done
+- edith-k-dunton: new shelf, 8 Gutenberg books, 11,731 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — j-storer-clouston: done
+- j-storer-clouston: new shelf, 8 Gutenberg books, 16,833 units, 2498 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — jos-e-badger: done
+- jos-e-badger: new shelf, 8 Gutenberg books, 7,527 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — emily-ponsonby: done
+- emily-ponsonby: new shelf, 11 Gutenberg books, 10,535 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:51 CDT — batch 56 follow-ups
+- herbert-jenkins: new shelf, 8 Gutenberg books, 18,512 units, 952 ~2 ids; verify 0 mismatches, 0 rights flags (Malcolm Sage, Detective checks for his full name, as its Gutenberg header gives it).
+- madeline-brandeis: new shelf, 5 Gutenberg books, 3,246 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags (Little Philippe of Belgium (copyright 1930) taken after the scan was corrected to let 1930 through).
+- The post-1930 scan now treats 1930 as public domain (it had held a 1930 book); no earlier batch had held a 1930 book.
+
+## 2026-10-22 22:55 CDT — mary-shelley-works: done
+- mary-shelley-works: new shelf, 22 Gutenberg books, 15,728 units, 2677 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:55 CDT — stoker-works: done
+- stoker-works: new shelf, 10 Gutenberg books, 15,338 units, 811 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:56 CDT — forster-works: done
+- forster-works: new shelf, 11 Gutenberg books, 12,778 units, 263 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:56 CDT — christie-works: done
+- christie-works: new shelf, 13 Gutenberg books, 31,468 units, 664 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:56 CDT — terhune-works: done
+- terhune-works: new shelf, 13 Gutenberg books, 17,192 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:56 CDT — dcfisher-works: done
+- dcfisher-works: new shelf, 12 Gutenberg books, 19,433 units, 394 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:57 CDT — eggleston-works: done
+- eggleston-works: new shelf, 12 Gutenberg books, 13,899 units, 1072 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:57 CDT — von-arnim-works: done
+- von-arnim-works: new shelf, 15 Gutenberg books, 23,240 units, 933 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:58 CDT — william-morris-works: done
+- william-morris-works: new shelf, 27 Gutenberg books, 22,226 units, 933 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:58 CDT — ev-lucas: done
+- ev-lucas: new shelf, 21 Gutenberg books, 22,635 units, 736 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — guy-thorne: done
+- guy-thorne: new shelf, 17 Gutenberg books, 28,337 units, 101 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — samuel-hopkins-adams: done
+- samuel-hopkins-adams: new shelf, 15 Gutenberg books, 38,545 units, 6387 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — elizabeth-stuart-phelps: done
+- elizabeth-stuart-phelps: new shelf, 15 Gutenberg books, 11,795 units, 293 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — owen-wister: done
+- owen-wister: new shelf, 14 Gutenberg books, 14,375 units, 342 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — edna-ferber: done
+- edna-ferber: new shelf, 13 Gutenberg books, 17,854 units, 82 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — ford-madox-ford: done
+- ford-madox-ford: new shelf, 13 Gutenberg books, 17,172 units, 4416 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — kathleen-norris: done
+- kathleen-norris: new shelf, 13 Gutenberg books, 25,228 units, 5735 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+
+## 2026-10-22 22:59 CDT — elsie-singmaster: done
+- elsie-singmaster: new shelf, 11 Gutenberg books, 12,621 units, 143 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — edna-lyall: done
+- edna-lyall: new shelf, 10 Gutenberg books, 21,825 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — max-beerbohm: done
+- max-beerbohm: new shelf, 11 Gutenberg books, 4,114 units, 44 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — harry-leon-wilson: done
+- harry-leon-wilson: new shelf, 11 Gutenberg books, 21,059 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:01 CDT — christie-works: records refreshed
+- christie-works: new shelf, 16 Gutenberg books, 39,475 units, 664 ~2 ids; verify 0 mismatches, 0 rights flags (The Big Four, The Seven Dials Mystery and The Mysterious Mr. Quin taken: their texts carry the 1927-1930 copyright and its renewal, which is no sign of later matter).
+
+## 2026-10-22 23:01 CDT — max-brand: records refreshed
+- max-brand: new shelf, 18 Gutenberg books, 31,214 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags (The Garden of Eden taken: copyright 1922, renewed 1950).
+
+## 2026-10-22 23:03 CDT — justin-h-mccarthy: done
+- justin-h-mccarthy: new shelf, 10 Gutenberg books, 10,477 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — robert-grant: done
+- robert-grant: new shelf, 10 Gutenberg books, 9,959 units, 1256 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — eliza-follen: done
+- eliza-follen: new shelf, 10 Gutenberg books, 2,411 units, 37 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — sherwood-anderson: done
+- sherwood-anderson: new shelf, 10 Gutenberg books, 9,649 units, 2279 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — arthur-hornblow: done
+- arthur-hornblow: new shelf, 8 Gutenberg books, 16,533 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — arthur-colton: done
+- arthur-colton: new shelf, 7 Gutenberg books, 8,429 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — lewis-wingfield: done
+- lewis-wingfield: new shelf, 7 Gutenberg books, 4,550 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — katharine-tynan: done
+- katharine-tynan: new shelf, 7 Gutenberg books, 7,975 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — jt-trowbridge: done
+- jt-trowbridge: new shelf, 7 Gutenberg books, 13,956 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — wc-scully: done
+- wc-scully: new shelf, 7 Gutenberg books, 5,613 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — leroy-scott: done
+- leroy-scott: new shelf, 7 Gutenberg books, 18,367 units, 34 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — john-reed-scott: done
+- john-reed-scott: new shelf, 7 Gutenberg books, 21,042 units, 35 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — marah-ellis-ryan: done
+- marah-ellis-ryan: new shelf, 7 Gutenberg books, 16,843 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — mary-c-rowsell: done
+- mary-c-rowsell: new shelf, 7 Gutenberg books, 7,649 units, 29 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — nina-rhoades: done
+- nina-rhoades: new shelf, 7 Gutenberg books, 10,348 units, 826 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — melville-davisson-post: done
+- melville-davisson-post: new shelf, 7 Gutenberg books, 9,159 units, 499 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — henry-wallace-phillips: done
+- henry-wallace-phillips: new shelf, 7 Gutenberg books, 5,078 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — isabel-ostrander: done
+- isabel-ostrander: new shelf, 7 Gutenberg books, 12,164 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — ruth-ogden: done
+- ruth-ogden: new shelf, 6 Gutenberg books, 4,645 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — honore-morrow: done
+- honore-morrow: new shelf, 7 Gutenberg books, 18,072 units, 2139 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — louise-jordan-miln: done
+- louise-jordan-miln: new shelf, 7 Gutenberg books, 12,721 units, 197 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — leonard-merrick: done
+- leonard-merrick: new shelf, 7 Gutenberg books, 10,697 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — laura-jean-libbey: done
+- laura-jean-libbey: new shelf, 7 Gutenberg books, 14,555 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — edwin-lefevre: done
+- edwin-lefevre: new shelf, 7 Gutenberg books, 11,027 units, 1083 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — nat-gould: done
+- nat-gould: new shelf, 7 Gutenberg books, 14,811 units, 35 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — montague-glass: done
+- montague-glass: new shelf, 7 Gutenberg books, 13,524 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — wa-fraser: done
+- wa-fraser: new shelf, 7 Gutenberg books, 11,308 units, 194 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — paul-leicester-ford: done
+- paul-leicester-ford: new shelf, 7 Gutenberg books, 14,641 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — richard-dehan: done
+- richard-dehan: new shelf, 7 Gutenberg books, 24,370 units, 1591 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — ernest-bramah: done
+- ernest-bramah: new shelf, 7 Gutenberg books, 9,969 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:09 CDT — marietta-holley: done
+- marietta-holley: new shelf, 29 Gutenberg books, 36,102 units, 117 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:09 CDT — charles-garvice: done
+- charles-garvice: new shelf, 12 Gutenberg books, 50,116 units, 70 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:09 CDT — herbert-carter: done
+- herbert-carter: new shelf, 12 Gutenberg books, 16,636 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:10 CDT — william-pitt-scargill: done
+- william-pitt-scargill: new shelf, 9 Gutenberg books, 4,146 units, 618 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:10 CDT — jessie-fothergill: done
+- jessie-fothergill: new shelf, 9 Gutenberg books, 15,123 units, 124 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:10 CDT — allan-pinkerton: done
+- allan-pinkerton: new shelf, 7 Gutenberg books, 9,198 units, 870 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:10 CDT — f-w-bain: done
+- f-w-bain: new shelf, 8 Gutenberg books, 2,138 units, 238 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:10 CDT — f-colburn-adams: done
+- f-colburn-adams: new shelf, 8 Gutenberg books, 7,288 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:10 CDT — lurana-sheldon: done
+- lurana-sheldon: new shelf, 7 Gutenberg books, 6,727 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — william-john-hopkins: done
+- william-john-hopkins: new shelf, 7 Gutenberg books, 8,673 units, 1218 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — george-v-hobart: done
+- george-v-hobart: new shelf, 7 Gutenberg books, 4,117 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — henry-william-herbert: done
+- henry-william-herbert: new shelf, 7 Gutenberg books, 9,801 units, 352 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — l-allen-harker: done
+- l-allen-harker: new shelf, 7 Gutenberg books, 12,497 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — willis-george-emerson: done
+- willis-george-emerson: new shelf, 6 Gutenberg books, 8,262 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — christabel-r-coleridge: done
+- christabel-r-coleridge: new shelf, 7 Gutenberg books, 13,519 units, 44 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — heman-white-chaplin: done
+- heman-white-chaplin: new shelf, 7 Gutenberg books, 1,173 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — boyd-cable: done
+- boyd-cable: new shelf, 7 Gutenberg books, 6,131 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — rhoda-broughton: done
+- rhoda-broughton: new shelf, 7 Gutenberg books, 16,627 units, 909 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — hjalmar-hjorth-boyesen: done
+- hjalmar-hjorth-boyesen: new shelf, 7 Gutenberg books, 6,663 units, 776 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — kate-langley-bosher: done
+- kate-langley-bosher: new shelf, 7 Gutenberg books, 4,766 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — robert-montgomery-bird: done
+- robert-montgomery-bird: new shelf, 7 Gutenberg books, 9,104 units, 825 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — w-l-alden: done
+- w-l-alden: new shelf, 7 Gutenberg books, 3,378 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — a-d-t-whitney: done
+- a-d-t-whitney: new shelf, 6 Gutenberg books, 12,126 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — brand-whitlock: done
+- brand-whitlock: new shelf, 6 Gutenberg books, 11,472 units, 2575 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — frederick-whishaw: done
+- frederick-whishaw: new shelf, 6 Gutenberg books, 6,597 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — george-ethelbert-walsh: done
+- george-ethelbert-walsh: new shelf, 6 Gutenberg books, 3,898 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — frances-eleanor-trollope: done
+- frances-eleanor-trollope: new shelf, 6 Gutenberg books, 6,723 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — meadows-taylor: done
+- meadows-taylor: new shelf, 6 Gutenberg books, 13,792 units, 27 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:12 CDT — netta-syrett: done
+- netta-syrett: new shelf, 6 Gutenberg books, 8,590 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:13 CDT — annie-s-swan: done
+- annie-s-swan: new shelf, 6 Gutenberg books, 7,942 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:13 CDT — halliwell-sutcliffe: done
+- halliwell-sutcliffe: new shelf, 6 Gutenberg books, 16,108 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:13 CDT — cynthia-stockley: done
+- cynthia-stockley: new shelf, 6 Gutenberg books, 10,710 units, 974 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:13 CDT — w-pett-ridge: done
+- w-pett-ridge: new shelf, 6 Gutenberg books, 7,902 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:15 CDT — eugene-manlove-rhodes: done
+- eugene-manlove-rhodes: new shelf, 6 Gutenberg books, 7,514 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:15 CDT — alfred-ollivant: done
+- alfred-ollivant: new shelf, 6 Gutenberg books, 21,238 units, 1220 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:15 CDT — cleveland-moffett: done
+- cleveland-moffett: new shelf, 6 Gutenberg books, 11,188 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:15 CDT — christy-mathewson: done
+- christy-mathewson: new shelf, 6 Gutenberg books, 7,201 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:16 CDT — bessie-marchant: done
+- bessie-marchant: new shelf, 6 Gutenberg books, 9,535 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:16 CDT — lucas-malet: done
+- lucas-malet: new shelf, 6 Gutenberg books, 11,194 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:16 CDT — charles-major: done
+- charles-major: new shelf, 6 Gutenberg books, 11,469 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:16 CDT — william-magnay: done
+- william-magnay: new shelf, 6 Gutenberg books, 11,824 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:16 CDT — s-levett-yeats: done
+- s-levett-yeats: new shelf, 6 Gutenberg books, 9,518 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:16 CDT — ada-leverson: done
+- ada-leverson: new shelf, 6 Gutenberg books, 12,101 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — frederic-arnold-kummer: done
+- frederic-arnold-kummer: new shelf, 6 Gutenberg books, 7,222 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — vaughan-kester: done
+- vaughan-kester: new shelf, 5 Gutenberg books, 16,422 units, 116 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — florence-finch-kelly: done
+- florence-finch-kelly: new shelf, 6 Gutenberg books, 6,617 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — frederic-stewart-isham: done
+- frederic-stewart-isham: new shelf, 6 Gutenberg books, 12,340 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — bracebridge-hemyng: done
+- bracebridge-hemyng: new shelf, 6 Gutenberg books, 19,183 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — l-p-gratacap: done
+- l-p-gratacap: new shelf, 6 Gutenberg books, 5,294 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — tom-gallon: done
+- tom-gallon: new shelf, 6 Gutenberg books, 10,651 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — izola-l-forrester: done
+- izola-l-forrester: new shelf, 6 Gutenberg books, 8,047 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — leo-edwards: done
+- leo-edwards: new shelf, 6 Gutenberg books, 10,562 units, 12 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — paul-laurence-dunbar: done
+- paul-laurence-dunbar: new shelf, 6 Gutenberg books, 7,668 units, 137 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — l-dougall: done
+- l-dougall: new shelf, 6 Gutenberg books, 9,529 units, 2257 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — a-d-crake: done
+- a-d-crake: new shelf, 6 Gutenberg books, 14,094 units, 212 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — bertha-m-clay: done
+- bertha-m-clay: new shelf, 6 Gutenberg books, 12,276 units, 71 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — george-randolph-chester: done
+- george-randolph-chester: new shelf, 6 Gutenberg books, 10,693 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — charles-w-chesnutt: done
+- charles-w-chesnutt: new shelf, 6 Gutenberg books, 6,512 units, 242 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — percy-james-brebner: done
+- percy-james-brebner: new shelf, 6 Gutenberg books, 15,065 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:18 CDT — l-adams-beck: done
+- l-adams-beck: new shelf, 6 Gutenberg books, 9,582 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:18 CDT — jane-barlow: done
+- jane-barlow: new shelf, 6 Gutenberg books, 2,879 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — willis-boyd-allen: done
+- willis-boyd-allen: new shelf, 6 Gutenberg books, 4,844 units, 108 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — deborah-alcock: done
+- deborah-alcock: new shelf, 5 Gutenberg books, 9,814 units, 651 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — walter-aimwell: done
+- walter-aimwell: new shelf, 6 Gutenberg books, 6,297 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — albert-w-aiken: done
+- albert-w-aiken: new shelf, 6 Gutenberg books, 7,904 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — grace-aguilar: done
+- grace-aguilar: new shelf, 6 Gutenberg books, 8,208 units, 555 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — andy-adams: done
+- andy-adams: new shelf, 6 Gutenberg books, 4,020 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — william-allen-white: done
+- william-allen-white: new shelf, 5 Gutenberg books, 6,315 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — stanley-waterloo: done
+- stanley-waterloo: new shelf, 5 Gutenberg books, 3,975 units, 101 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — c-c-waddell: done
+- c-c-waddell: new shelf, 5 Gutenberg books, 5,956 units, 30 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — metta-victoria-fuller-victor: done
+- metta-victoria-fuller-victor: new shelf, 5 Gutenberg books, 4,518 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — s-s-van-dine: done
+- s-s-van-dine: new shelf, 5 Gutenberg books, 13,459 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — d-f-e-sykes: done
+- d-f-e-sykes: new shelf, 5 Gutenberg books, 5,347 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — arthur-d-howden-smith: done
+- arthur-d-howden-smith: new shelf, 5 Gutenberg books, 14,996 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — william-gilmore-simms: done
+- william-gilmore-simms: new shelf, 5 Gutenberg books, 7,958 units, 147 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — douglass-sherley: done
+- douglass-sherley: new shelf, 5 Gutenberg books, 492 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — george-w-m-reynolds: done
+- george-w-m-reynolds: new shelf, 5 Gutenberg books, 38,087 units, 74 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — baillie-reynolds: done
+- baillie-reynolds: new shelf, 5 Gutenberg books, 13,659 units, 371 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — arthur-j-rees: done
+- arthur-j-rees: new shelf, 5 Gutenberg books, 10,161 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — herbert-quick: done
+- herbert-quick: new shelf, 5 Gutenberg books, 7,675 units, 33 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — margaret-horton-potter: done
+- margaret-horton-potter: new shelf, 5 Gutenberg books, 9,528 units, 42 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — marmaduke-william-pickthall: done
+- marmaduke-william-pickthall: new shelf, 5 Gutenberg books, 6,642 units, 412 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — edward-parrott: done
+- edward-parrott: new shelf, 5 Gutenberg books, 6,404 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — w-h-h-murray: done
+- w-h-h-murray: new shelf, 5 Gutenberg books, 1,414 units, 70 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — favell-lee-mortimer: done
+- favell-lee-mortimer: new shelf, 5 Gutenberg books, 2,462 units, 26 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — w-c-morrow: done
+- w-c-morrow: new shelf, 5 Gutenberg books, 5,101 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — margaret-warner-morley: done
+- margaret-warner-morley: new shelf, 5 Gutenberg books, 5,071 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — philip-verrill-mighels: done
+- philip-verrill-mighels: new shelf, 5 Gutenberg books, 9,690 units, 23 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — margaret-hill-mccarter: done
+- margaret-hill-mccarter: new shelf, 5 Gutenberg books, 10,312 units, 614 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — katherine-mansfield: done
+- katherine-mansfield: new shelf, 5 Gutenberg books, 5,289 units, 117 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — julia-magruder: done
+- julia-magruder: new shelf, 5 Gutenberg books, 4,494 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — james-m-ludlow: done
+- james-m-ludlow: new shelf, 5 Gutenberg books, 7,360 units, 110 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — frances-little: done
+- frances-little: new shelf, 5 Gutenberg books, 2,473 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — ottilie-a-liljencrantz: done
+- ottilie-a-liljencrantz: new shelf, 5 Gutenberg books, 6,213 units, 12 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:23 CDT — thomas-dick-lauder: done
+- thomas-dick-lauder: new shelf, 5 Gutenberg books, 7,779 units, 354 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:23 CDT — eleanor-m-ingram: done
+- eleanor-m-ingram: new shelf, 5 Gutenberg books, 7,549 units, 38 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:23 CDT — hubback: done
+- hubback: new shelf, 5 Gutenberg books, 10,803 units, 1762 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:23 CDT — william-hope-hodgson: done
+- william-hope-hodgson: new shelf, 5 Gutenberg books, 6,021 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:23 CDT — corra-harris: done
+- corra-harris: new shelf, 5 Gutenberg books, 3,936 units, 217 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — arthur-preston-hankins: done
+- arthur-preston-hankins: new shelf, 5 Gutenberg books, 9,303 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — grace-greenwood: done
+- grace-greenwood: new shelf, 5 Gutenberg books, 2,590 units, 258 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — charles-gilson: done
+- charles-gilson: new shelf, 5 Gutenberg books, 7,302 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — jacques-futrelle: done
+- jacques-futrelle: new shelf, 5 Gutenberg books, 6,260 units, 2359 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — henry-blake-fuller: done
+- henry-blake-fuller: new shelf, 5 Gutenberg books, 7,710 units, 1177 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — m-e-francis: done
+- m-e-francis: new shelf, 5 Gutenberg books, 9,521 units, 373 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — w-bert-foster: done
+- w-bert-foster: new shelf, 5 Gutenberg books, 8,243 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — george-allan-england: done
+- george-allan-england: new shelf, 5 Gutenberg books, 14,407 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — finley-peter-dunne: done
+- finley-peter-dunne: new shelf, 5 Gutenberg books, 2,276 units, 58 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — alfred-w-drayson: done
+- alfred-w-drayson: new shelf, 5 Gutenberg books, 4,248 units, 21 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — emma-c-dowd: done
+- emma-c-dowd: new shelf, 5 Gutenberg books, 11,089 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — francis-worcester-doughty: done
+- francis-worcester-doughty: new shelf, 5 Gutenberg books, 9,171 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — maud-diver: done
+- maud-diver: new shelf, 5 Gutenberg books, 15,638 units, 4509 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — george-cupples: done
+- george-cupples: new shelf, 5 Gutenberg books, 1,292 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — stephen-angus-douglas-cox: done
+- stephen-angus-douglas-cox: new shelf, 5 Gutenberg books, 4,853 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — george-waldo-browne: done
+- george-waldo-browne: new shelf, 5 Gutenberg books, 7,190 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:26 CDT — earl-derr-biggers: done
+- earl-derr-biggers: new shelf, 5 Gutenberg books, 9,497 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:28 CDT — storytellers-tail-01: done
+- storytellers-tail-01: new shelf, 94 Gutenberg books, 143,415 units, 6977 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:28 CDT — storytellers-tail-02: done
+- storytellers-tail-02: new shelf, 96 Gutenberg books, 127,242 units, 4331 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:29 CDT — storytellers-tail-03: done
+- storytellers-tail-03: new shelf, 77 Gutenberg books, 103,326 units, 5815 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:32 CDT — storytellers-tail-04: done
+- storytellers-tail-04: new shelf, 66 Gutenberg books, 74,741 units, 5222 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:33 CDT — storytellers-tail-05: done
+- storytellers-tail-05: new shelf, 66 Gutenberg books, 85,604 units, 315 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:36 CDT — storytellers-tail-06: done
+- storytellers-tail-06: new shelf, 64 Gutenberg books, 94,740 units, 5552 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:36 CDT — storytellers-tail-07: done
+- storytellers-tail-07: new shelf, 64 Gutenberg books, 113,868 units, 1191 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:36 CDT — storytellers-tail-08: done
+- storytellers-tail-08: new shelf, 66 Gutenberg books, 128,442 units, 4352 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:36 CDT — storytellers-tail-09: done
+- storytellers-tail-09: new shelf, 51 Gutenberg books, 74,558 units, 3116 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:38 CDT — storytellers-tail-10: done
+- storytellers-tail-10: new shelf, 54 Gutenberg books, 76,550 units, 3823 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:39 CDT — storytellers-tail-11: done
+- storytellers-tail-11: new shelf, 54 Gutenberg books, 71,939 units, 1496 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:40 CDT — storytellers-tail-12: done
+- storytellers-tail-12: new shelf, 54 Gutenberg books, 68,669 units, 1624 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:41 CDT — storytellers-tail-13: done
+- storytellers-tail-13: new shelf, 54 Gutenberg books, 76,672 units, 331 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:41 CDT — storytellers-tail-14: done
+- storytellers-tail-14: new shelf, 54 Gutenberg books, 79,150 units, 2123 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:41 CDT — storytellers-tail-15: done
+- storytellers-tail-15: new shelf, 52 Gutenberg books, 66,092 units, 2513 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:41 CDT — storytellers-tail-16: done
+- storytellers-tail-16: new shelf, 54 Gutenberg books, 79,629 units, 6225 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:41 CDT — storytellers-tail-17: done
+- storytellers-tail-17: new shelf, 29 Gutenberg books, 36,320 units, 338 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:43 CDT — storytellers-tail-18: done
+- storytellers-tail-18: new shelf, 30 Gutenberg books, 35,985 units, 1725 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:43 CDT — storytellers-tail-19: done
+- storytellers-tail-19: new shelf, 30 Gutenberg books, 30,851 units, 2096 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:44 CDT — storytellers-tail-20: done
+- storytellers-tail-20: new shelf, 30 Gutenberg books, 40,756 units, 2808 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:45 CDT — storytellers-tail-21: done
+- storytellers-tail-21: new shelf, 30 Gutenberg books, 26,902 units, 798 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-22: done
+- storytellers-tail-22: new shelf, 30 Gutenberg books, 32,008 units, 1389 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-23: done
+- storytellers-tail-23: new shelf, 30 Gutenberg books, 31,156 units, 2046 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-24: done
+- storytellers-tail-24: new shelf, 30 Gutenberg books, 26,621 units, 563 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-25: done
+- storytellers-tail-25: new shelf, 30 Gutenberg books, 37,418 units, 1751 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-26: done
+- storytellers-tail-26: new shelf, 30 Gutenberg books, 38,974 units, 455 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-27: done
+- storytellers-tail-27: new shelf, 30 Gutenberg books, 34,233 units, 1376 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-28: done
+- storytellers-tail-28: new shelf, 30 Gutenberg books, 34,553 units, 888 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:46 CDT — storytellers-tail-29: done
+- storytellers-tail-29: new shelf, 29 Gutenberg books, 32,793 units, 1019 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:48 CDT — storytellers-tail-30: done
+- storytellers-tail-30: new shelf, 30 Gutenberg books, 30,825 units, 3419 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:48 CDT — storytellers-tail-31: done
+- storytellers-tail-31: new shelf, 30 Gutenberg books, 44,844 units, 154 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:49 CDT — storytellers-tail-32: done
+- storytellers-tail-32: new shelf, 29 Gutenberg books, 41,187 units, 1733 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:50 CDT — storytellers-tail-33: done
+- storytellers-tail-33: new shelf, 30 Gutenberg books, 31,889 units, 1864 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:50 CDT — storytellers-tail-34: done
+- storytellers-tail-34: new shelf, 29 Gutenberg books, 31,915 units, 174 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:51 CDT — storytellers-tail-35: done
+- storytellers-tail-35: new shelf, 30 Gutenberg books, 38,531 units, 346 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:52 CDT — storytellers-tail-36: done
+- storytellers-tail-36: new shelf, 30 Gutenberg books, 29,606 units, 284 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:52 CDT — storytellers-tail-37: done
+- storytellers-tail-37: new shelf, 30 Gutenberg books, 36,457 units, 1761 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:53 CDT — storytellers-tail-38: done
+- storytellers-tail-38: new shelf, 29 Gutenberg books, 33,908 units, 467 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-39: done
+- storytellers-tail-39: new shelf, 30 Gutenberg books, 34,637 units, 765 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-40: done
+- storytellers-tail-40: new shelf, 30 Gutenberg books, 31,710 units, 1562 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-41: done
+- storytellers-tail-41: new shelf, 30 Gutenberg books, 27,960 units, 712 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-42: done
+- storytellers-tail-42: new shelf, 30 Gutenberg books, 34,359 units, 3511 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-43: done
+- storytellers-tail-43: new shelf, 30 Gutenberg books, 37,365 units, 1035 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-44: done
+- storytellers-tail-44: new shelf, 30 Gutenberg books, 36,413 units, 1492 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-45: done
+- storytellers-tail-45: new shelf, 30 Gutenberg books, 29,343 units, 984 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-46: done
+- storytellers-tail-46: new shelf, 30 Gutenberg books, 31,120 units, 875 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-47: done
+- storytellers-tail-47: new shelf, 30 Gutenberg books, 33,973 units, 1486 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-48: done
+- storytellers-tail-48: new shelf, 30 Gutenberg books, 30,077 units, 272 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-49: done
+- storytellers-tail-49: new shelf, 30 Gutenberg books, 33,281 units, 384 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-50: done
+- storytellers-tail-50: new shelf, 29 Gutenberg books, 46,609 units, 1877 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-51: done
+- storytellers-tail-51: new shelf, 3 Gutenberg books, 2,114 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:01 CDT — my-book-house: done
+- my-book-house: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches (2 title_weak: the 1928 Up One Pair of Stairs and Through Fairy Halls, title pages read by eye), 0 rights flags.
+
+## 2026-10-23 09:01 CDT — junior-classics: done
+- junior-classics: new shelf, 9 Gutenberg books (20,558 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:01 CDT — journeys-through-bookland: done
+- journeys-through-bookland: new shelf, 8 Gutenberg books (18,610 units) and 2 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:05 CDT — childrens-hour: done
+- childrens-hour: new shelf, 1 Gutenberg books (1,444 units) and 13 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:10 CDT — young-folks-library: done
+- young-folks-library: new shelf, 2 Gutenberg books (2,125 units) and 18 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:14 CDT — little-classics: done
+- little-classics: new shelf, 0 Gutenberg books (0 units) and 17 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:15 CDT — heart-of-oak-books: done
+- heart-of-oak-books: new shelf, 0 Gutenberg books (0 units) and 7 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:16 CDT — scudder-childrens-book: done
+- scudder-childrens-book: new shelf, 0 Gutenberg books (0 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:19 CDT — bookshelf-for-boys-and-girls: done
+- bookshelf-for-boys-and-girls: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:21 CDT — our-wonder-world: done
+- our-wonder-world: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:22 CDT — pictured-knowledge: done
+- pictured-knowledge: new shelf, 0 Gutenberg books (0 units) and 5 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:27 CDT — book-of-knowledge: done
+- book-of-knowledge: new shelf, 0 Gutenberg books (0 units) and 20 Internet Archive scans; verify 0 mismatches, 0 rights flags.

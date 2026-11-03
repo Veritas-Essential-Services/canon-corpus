@@ -1,0 +1,526 @@
+{
+ "_about": "Storytellers' tail, group 27: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Horace C. Dale, Richard Dallas, Emma Davenport, Oscar K. Davis, Alvin Davison, Edmund Day, A. C. Dayton, Henry De La Pasture, Herbert George De Lisser, Nelson H. DeLane, Andrew Dearborn, Karl Decker, Elizabeth Dejeans, Therese O. Deming, Samuel A. Derieux, Desiderius George Dery, Byrd Spilman Dewey, D. A. Dickert, Anna E. Dickinson, Florence Carpenter Dieudonné, Bessie Dill, Emma Louise Smith Dillingham, A. W. Dimock, Dorothea Lynde Dix, Frederick A. Dixon, Lee Wilson Dodd, Henry Irving Dodge, Edmund P. Dole, Anna Hanson Dorsey, Sarah P. Doughty. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 27 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "hcdale-deacon": [
+   "horace c. dale"
+  ],
+  "rdallas-master-hand": [
+   "richard dallas",
+   "dallas"
+  ],
+  "edavenport-live-toys": [
+   "emma davenport",
+   "davenport"
+  ],
+  "okdavis-at-the-emperor-s-wish": [
+   "oscar k. davis",
+   "oscar king davis"
+  ],
+  "adavison-health-lessons-book-1": [
+   "alvin davison",
+   "davison"
+  ],
+  "eday-round-up": [
+   "edmund day"
+  ],
+  "acdayton-theodosia-ernest": [
+   "a. c. dayton",
+   "amos cooper dayton",
+   "dayton"
+  ],
+  "hdelapasture-peter-s-mother": [
+   "henry de la pasture"
+  ],
+  "hgdelisser-susan-proudleigh": [
+   "herbert george de lisser"
+  ],
+  "nhdelane-roster-of-company-i-24th-regiment-massachusetts-vol": [
+   "nelson h. delane",
+   "delane"
+  ],
+  "adearborn-scarred-eagle": [
+   "andrew dearborn",
+   "dearborn"
+  ],
+  "kdecker-framed-fifty": [
+   "karl decker",
+   "decker"
+  ],
+  "edejeans-nobody-s-child": [
+   "elizabeth dejeans",
+   "dejeans"
+  ],
+  "todeming-indian-child-life": [
+   "therese o. deming",
+   "therese osterheld deming",
+   "deming"
+  ],
+  "saderieux-frank-of-freedom-hill": [
+   "samuel a. derieux",
+   "samuel arthur derieux",
+   "derieux"
+  ],
+  "dgdery-under-the-big-dipper": [
+   "desiderius george dery"
+  ],
+  "bsdewey-bruno": [
+   "byrd spilman dewey",
+   "dewey"
+  ],
+  "dadickert-history-of-kershaw-s-brigade-with-complete-roll-of": [
+   "d. a. dickert",
+   "david augustus dickert",
+   "dickert"
+  ],
+  "aedickinson-what-answer": [
+   "anna e. dickinson",
+   "anna elizabeth dickinson",
+   "dickinson"
+  ],
+  "fcdieudonne-rondah": [
+   "florence carpenter dieudonné",
+   "dieudonné"
+  ],
+  "bdill-silver-glen": [
+   "bessie dill"
+  ],
+  "elsdillingham-six-prize-hawaiian-stories-of-the-kilohana-art": [
+   "emma louise smith dillingham",
+   "dillingham"
+  ],
+  "awdimock-dick-in-the-everglades": [
+   "a. w. dimock",
+   "anthony weston dimock",
+   "dimock"
+  ],
+  "dldix-john-williams": [
+   "dorothea lynde dix"
+  ],
+  "fadixon-maiden-mona-the-mermaid": [
+   "frederick a. dixon",
+   "frederick augustus dixon",
+   "dixon"
+  ],
+  "lwdodd-book-of-susan": [
+   "lee wilson dodd"
+  ],
+  "hidodge-skinner-s-dress-suit": [
+   "henry irving dodge",
+   "dodge"
+  ],
+  "epdole-hiwa": [
+   "edmund p. dole",
+   "edmund pearson dole"
+  ],
+  "ahdorsey-may-brooke": [
+   "anna hanson dorsey",
+   "dorsey"
+  ],
+  "spdoughty-playing-santa-claus-and-other-christmas-tales": [
+   "sarah p. doughty",
+   "sarah parsons doughty",
+   "doughty"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hcdale-deacon": [
+   42581,
+   "The Deacon: An Original Comedy Drama in Five Acts"
+  ],
+  "rdallas-master-hand": [
+   33228,
+   "A master hand"
+  ],
+  "edavenport-live-toys": [
+   42946,
+   "Live toys"
+  ],
+  "okdavis-at-the-emperor-s-wish": [
+   66274,
+   "At the Emperor's Wish: A Tale of the New Japan"
+  ],
+  "adavison-health-lessons-book-1": [
+   31616,
+   "Health Lessons, Book 1"
+  ],
+  "eday-round-up": [
+   763,
+   "The Round-Up: A Romance of Arizona; Novelized from Edmund Day's Melodrama"
+  ],
+  "acdayton-theodosia-ernest": [
+   77796,
+   "Theodosia Ernest"
+  ],
+  "hdelapasture-peter-s-mother": [
+   10452,
+   "Peter's Mother"
+  ],
+  "hgdelisser-susan-proudleigh": [
+   56335,
+   "Susan Proudleigh"
+  ],
+  "nhdelane-roster-of-company-i-24th-regiment-massachusetts-vol": [
+   36673,
+   "Roster of Company I, 24th Regiment, Massachusetts Volunteers"
+  ],
+  "adearborn-scarred-eagle": [
+   68601,
+   "Scarred Eagle; or, Moorooine, the sporting fawn. A story of lake and shore"
+  ],
+  "kdecker-framed-fifty": [
+   78650,
+   "The framed fifty"
+  ],
+  "edejeans-nobody-s-child": [
+   36531,
+   "Nobody's Child"
+  ],
+  "todeming-indian-child-life": [
+   32301,
+   "Indian Child Life"
+  ],
+  "saderieux-frank-of-freedom-hill": [
+   25991,
+   "Frank of Freedom Hill"
+  ],
+  "dgdery-under-the-big-dipper": [
+   59446,
+   "Under the Big Dipper"
+  ],
+  "bsdewey-bruno": [
+   41514,
+   "Bruno"
+  ],
+  "dadickert-history-of-kershaw-s-brigade-with-complete-roll-of": [
+   13124,
+   "History of Kershaw's Brigade With Complete Roll of Companies, Biographical Sketches, Incidents, Anecdotes, etc."
+  ],
+  "aedickinson-what-answer": [
+   15402,
+   "What Answer?"
+  ],
+  "fcdieudonne-rondah": [
+   69461,
+   "Rondah; or, thirty-three years in a star"
+  ],
+  "bdill-silver-glen": [
+   76963,
+   "The Silver Glen"
+  ],
+  "elsdillingham-six-prize-hawaiian-stories-of-the-kilohana-art": [
+   35437,
+   "Six prize Hawaiian stories of the Kilohana Art League"
+  ],
+  "awdimock-dick-in-the-everglades": [
+   13168,
+   "Dick in the Everglades"
+  ],
+  "dldix-john-williams": [
+   71036,
+   "John Williams"
+  ],
+  "fadixon-maiden-mona-the-mermaid": [
+   62183,
+   "Maiden Mona the Mermaid: A Fairy Play for Fairy People"
+  ],
+  "lwdodd-book-of-susan": [
+   33400,
+   "The Book of Susan: A Novel"
+  ],
+  "hidodge-skinner-s-dress-suit": [
+   26080,
+   "Skinner's Dress Suit"
+  ],
+  "epdole-hiwa": [
+   61148,
+   "Hiwa: A Tale of Ancient Hawaii"
+  ],
+  "ahdorsey-may-brooke": [
+   16902,
+   "May Brooke"
+  ],
+  "spdoughty-playing-santa-claus-and-other-christmas-tales": [
+   54803,
+   "Playing Santa Claus, and Other Christmas Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hcdale-deacon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horace c. dale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdallas-master-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dallas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edavenport-live-toys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma davenport",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "okdavis-at-the-emperor-s-wish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oscar k. davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adavison-health-lessons-book-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alvin davison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eday-round-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acdayton-theodosia-ernest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. dayton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdelapasture-peter-s-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry de la pasture",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgdelisser-susan-proudleigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert george de lisser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhdelane-roster-of-company-i-24th-regiment-massachusetts-vol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nelson h. delane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adearborn-scarred-eagle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew dearborn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kdecker-framed-fifty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "karl decker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edejeans-nobody-s-child": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth dejeans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "todeming-indian-child-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "therese o. deming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saderieux-frank-of-freedom-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel a. derieux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgdery-under-the-big-dipper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "desiderius george dery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bsdewey-bruno": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "byrd spilman dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dadickert-history-of-kershaw-s-brigade-with-complete-roll-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. a. dickert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aedickinson-what-answer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna e. dickinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcdieudonne-rondah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence carpenter dieudonné",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bdill-silver-glen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bessie dill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsdillingham-six-prize-hawaiian-stories-of-the-kilohana-art": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma louise smith dillingham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awdimock-dick-in-the-everglades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. w. dimock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dldix-john-williams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothea lynde dix",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fadixon-maiden-mona-the-mermaid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick a. dixon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwdodd-book-of-susan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lee wilson dodd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hidodge-skinner-s-dress-suit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry irving dodge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epdole-hiwa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund p. dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahdorsey-may-brooke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna hanson dorsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spdoughty-playing-santa-claus-and-other-christmas-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah p. doughty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Ludwig Lewisohn (1882-1955): Jakob Wassermann's The World's Illusion (1920, 2 vols) and The Goose Man (1922), and Sudermann's The Indian Lily (1911). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Ludwig Lewisohn (1882-1955): Jakob Wassermann's The World's Illusion (1920, 2 vols) and The Goose Man (1922), and Sudermann's The Indian Lily (1911). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted. Round 127 (2026-10-23, vetoable) added David Pinski's The Treasure (1915) from archive.org.",
  "_name_words": [
   "ludwig lewisohn"
  ],
@@ -26,7 +26,12 @@
    "The Indian Lily and Other Stories"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lew-pinski-the-treasure": [
+   "treasureadramai00pinsgoog",
+   "The Treasure"
+  ]
+ },
  "titles": {
   "lewisohn-sudermann-the-indian-lily-and-other-stories": {
    "source": "lew-9994",
@@ -59,6 +64,14 @@
    "translated": "1911-1922 (see the Gutenberg header)",
    "translator": "Ludwig Lewisohn",
    "scan_edition": "Project Gutenberg 57847 (clean text)"
+  },
+  "lewisohn-pinski-the-treasure": {
+   "source": "lew-pinski-the-treasure",
+   "of": "David Pinski",
+   "work": "The Treasure: A Drama in Four Acts",
+   "translated": 1915,
+   "translator": "Ludwig Lewisohn",
+   "scan_edition": "B. W. Huebsch, New York 1915; archive.org scan (Google copy)"
   }
  },
  "_pending": {},
@@ -67,7 +80,7 @@
  "_checks": {
   "lew-25345": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ludwig lewisohn",
    "identity": "ok",
@@ -76,7 +89,7 @@
   },
   "lew-54794": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ludwig lewisohn",
    "identity": "ok",
@@ -85,7 +98,7 @@
   },
   "lew-57847": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ludwig lewisohn",
    "identity": "ok",
@@ -94,12 +107,23 @@
   },
   "lew-9994": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ludwig lewisohn",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ludwig Lewisohn"
+  },
+  "lew-pinski-the-treasure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ludwig lewisohn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -122,6 +146,16 @@
    "pg": 9994,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ludwig Lewisohn"
+  },
+  "lew-pinski-the-treasure": {
+   "ia": "treasureadramai00pinsgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1872,
+    1910,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

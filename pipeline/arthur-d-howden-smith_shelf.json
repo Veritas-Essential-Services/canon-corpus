@@ -1,0 +1,87 @@
+{
+ "_about": "Arthur D. Howden Smith: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur D. Howden Smith",
+ "_name_words": [
+  "arthur",
+  "douglas",
+  "howden",
+  "smith"
+ ],
+ "_surname": [
+  "arthur d. howden smith",
+  "arthur douglas howden smith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "adhsmith-treasure-of-the-bucoleon": [
+   63353,
+   "The Treasure of the Bucoleon"
+  ],
+  "adhsmith-beyond-the-sunset": [
+   70077,
+   "Beyond the sunset"
+  ],
+  "adhsmith-doom-trail": [
+   70683,
+   "The doom trail"
+  ],
+  "adhsmith-porto-bello-gold": [
+   70777,
+   "Porto Bello gold"
+  ],
+  "adhsmith-spears-of-destiny": [
+   70872,
+   "Spears of destiny"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "adhsmith-treasure-of-the-bucoleon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur d. howden smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adhsmith-beyond-the-sunset": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur d. howden smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adhsmith-doom-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur d. howden smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adhsmith-porto-bello-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur d. howden smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adhsmith-spears-of-destiny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur d. howden smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -39,8 +39,12 @@
    "scan_edition": "Project Gutenberg 35387 (clean text)"
   }
  },
- "_pending": {},
- "_excluded": {},
+ "_pending": {
+  "bithell-canterbury-poets": "Contemporary Belgian Poetry (contemporarybelg00bithuoft, 1911) and Contemporary French Poetry (contemporaryfren00bithuoft, 1912), Walter Scott's Canterbury Poets: his own selections and translations, but these printings carry no year, and the Belgian scan's credit line is lost in the OCR. Found 2026-10-23 (round 147)."
+ },
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: The Plays of Emile Verhaeren (1916) has four translators; Bithell did only Helen of Sparta."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "bit-26730": {

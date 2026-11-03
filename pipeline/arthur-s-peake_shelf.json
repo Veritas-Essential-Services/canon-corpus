@@ -1,0 +1,315 @@
+{
+ "_about": "Public-domain Arthur Samuel Peake (1865-1929), Primitive Methodist biblical scholar at Manchester, for the Word Hoard: A Guide to Biblical Study, The Problem of Suffering in the Old Testament, his Century Bible volumes on Job, Hebrews, Jeremiah and Lamentations and the Revelation, Christianity its Nature and Truth, The Religion of Israel, A Critical Introduction to the New Testament, The Bible its Origin and Significance, The Nature of Scripture, Brotherhood in the Old Testament, and shorter lectures. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 85 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "arthur s. peake",
+  "a. s. peake",
+  "arthur samuel peake"
+ ],
+ "_surname": [
+  "arthur s. peake",
+  "a. s. peake",
+  "arthur samuel peake",
+  "peake"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "peake-guide-biblical-study": [
+   "guidetobiblicals00peakuoft",
+   "A guide to Biblical study (London : Hodder and Stoughton, 1897)"
+  ],
+  "peake-problem-suffering": [
+   "problemofsufferi00peakrich",
+   "The problem of suffering in the Old Testament (London : Robert Bryant, 1904)"
+  ],
+  "peake-job": [
+   "jobintrodrevvers00peakuoft",
+   "Job. Introd., rev. version with notes and index (Edinburgh T.C. & E.C. Jack, 1904)"
+  ],
+  "peake-hebrews": [
+   "hebrewsintroduct58peak",
+   "Hebrews : introduction, authorized version, revised version with notes and index, vol. 58 (Edinburgh : T.C. & E.C. Jack, 1906)"
+  ],
+  "peake-sunday-school": [
+   "reforminsundaysc00peakuoft",
+   "Reform in Sunday school teaching (London, Clarke, 1906)"
+  ],
+  "peake-christianity-nature": [
+   "christianityitsn0000peak",
+   "Christianity : its nature and its truth (New York : Crowell, 1908)"
+  ],
+  "peake-religion-israel": [
+   "religionofisrael00peak",
+   "The religion of Israel (London : T. C. & E. C. Jack, 1908)"
+  ],
+  "peake-critical-intro-nt": [
+   "criticalintroduc0000peak",
+   "A critical introduction to the New Testament (London, Duckworth, 1909)"
+  ],
+  "peake-jeremiah-1": [
+   "jeremiahlamentat241peak",
+   "Jeremiah and Lamentations, vol. 1: Jeremiah I-XXIV (Century Bible; New York : Henry Frowde, 1910)"
+  ],
+  "peake-jeremiah-2": [
+   "jeremiahlamentat242peak",
+   "Jeremiah and Lamentations, vol. 2: Jeremiah XXV-LII and Lamentations (Century Bible; New York : Henry Frowde, 1910)"
+  ],
+  "peake-bible-significance": [
+   "biblesignificance00peakuoft",
+   "The Bible : its origin, its significance, and its abiding worth (New York ; London : Hodder and Stoughton, 1913)"
+  ],
+  "peake-quintessence-paulinism": [
+   "quintessenceofpa00peak",
+   "The quintessence of Paulinism : a lecture delivered at the John Rylands library on the 11th of October, 1916 (Manchester : The University Press ; New York : Longmans, Green, 1918)"
+  ],
+  "peake-prisoners-hope": [
+   "prisonersofhopep00peakiala",
+   "Prisoners of hope : the problem of the conscientious objector (London : Allen & Unwin, 1918)"
+  ],
+  "peake-revelation": [
+   "therevelationofj00peakuoft",
+   "The Revelation of John (London : Joseph Johnson, Primitive Methodist Pub. House, 1919)"
+  ],
+  "peake-nature-scripture": [
+   "natureofscriptur00peakuoft",
+   "The nature of Scripture (London : Hodder and Stoughton, 1922)"
+  ],
+  "peake-brotherhood-ot": [
+   "brotherhoodinold0000arth",
+   "Brotherhood in the old testament (catalogued 1923)"
+  ],
+  "peake-life-hartley": [
+   "lifeofsirwilliam0000arth",
+   "The life of sir william hartley (hodder and stoughton limited london, 1926)"
+  ],
+  "peake-recent-ot-criticism": [
+   "recentdevelopmen00peak",
+   "Recent developments in Old Testament criticism (Manchester : University Press, 1928)"
+  ],
+  "peake-paul-apostle": [
+   "paulapostlehispe00peak",
+   "Paul the apostle : his personality and achievement / by A. S. Peake (Manchester : University Press ; London ; New York : Longmans, Green, 1928)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "peake-edited": "A Commentary on the Bible (1919) and The People and the Book (1925), both written by many contributors under his editorship; Inaugural Lectures (Manchester faculty)",
+  "peake-after-1929": "The Servant of Yahweh (1931)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "peake-guide-biblical-study": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-problem-suffering": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-sunday-school": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-christianity-nature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peake-religion-israel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-critical-intro-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peake-jeremiah-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-jeremiah-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-bible-significance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-quintessence-paulinism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-prisoners-hope": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-nature-scripture": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peake-brotherhood-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peake-life-hartley": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peake-recent-ot-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peake-paul-apostle": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. peake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

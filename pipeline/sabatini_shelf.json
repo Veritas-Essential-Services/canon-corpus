@@ -1,0 +1,31 @@
+{
+ "_about": "Rafael Sabatini's (1875-1950) Scaramouche. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Rafael Sabatini",
+ "_name_words": [
+  "rafael",
+  "sabatini"
+ ],
+ "_surname": [
+  "rafael sabatini"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sabatini-scaramouche": [
+   1947,
+   "Scaramouche (1921)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sabatini-scaramouche": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

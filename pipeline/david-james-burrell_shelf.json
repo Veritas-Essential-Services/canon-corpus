@@ -1,0 +1,585 @@
+{
+ "_about": "Public-domain David James Burrell (1844-1926), Reformed Church in America minister of the Marble Collegiate Church, New York, for the Word Hoard: his thirty-odd volumes of sermons, expositions and apologetics, from The Religions of the World (1888) and The Gospel of Gladness (1892) through The Cloister Book (1909), The Old-Time Religion and The Sermon, its Construction and Delivery (1913), The Apostles' Creed (1915), Why I Believe the Bible (1917), Paul's Campaigns, Companions and Letters (1918-1921) and Life and Letters of St. Paul (1925) to The Golden Parable (1926). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 76 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "david james burrell",
+  "david j. burrell",
+  "d. j. burrell"
+ ],
+ "_surname": [
+  "burrell",
+  "david james burrell",
+  "d. j. burrell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burrell-religions-of-world": [
+   "religionsofworld00burr",
+   "The religions of the world (Philadelphia, Presbyterian board of publication and Sabbath-school work, [188)"
+  ],
+  "burrell-gospel-of-gladness": [
+   "gospelofgladness00burr",
+   "The gospel of gladness (New York, American Tract Society, 1892)"
+  ],
+  "burrell-morning-cometh": [
+   "themorningcometh00burr",
+   "\"The morning cometh.\" Talks for the times (New York, American tract society, 1893)"
+  ],
+  "burrell-religion-of-future": [
+   "religionoffuture00burr",
+   "The religion of the future [and other sermons] (New York, Collgiate Church, 1894)"
+  ],
+  "burrell-spirit-of-age": [
+   "spiritofageother00burr",
+   "The spirit of the age, and other sermons (New York, Wilbur B. Ketcham, 1895)"
+  ],
+  "burrell-for-christs-crown": [
+   "forchristscrowno00burr",
+   "\"For Christ's crown,\" and other sermons (New York, W. B. Ketcham, 1896)"
+  ],
+  "burrell-golden-passional": [
+   "goldenpassionalo00burr",
+   "The golden passional, and other sermons (New York, W. B. Ketcham, 1897)"
+  ],
+  "burrell-wondrous-cross": [
+   "wondrouscrossoth00burr",
+   "The wondrous cross, and other sermons (New York, W. B. Ketcham, 1898)"
+  ],
+  "burrell-god-and-people": [
+   "godpeopleotherse00burr",
+   "God and the people, and other sermons (New York, W.B. Ketcham, 1899)"
+  ],
+  "burrell-gospel-of-certainty": [
+   "gospelofcertaint0000burr",
+   "The gospel of certainty (London : Hodder and Stoughton, 1899)"
+  ],
+  "burrell-unaccountable-man": [
+   "unaccountableman00burr",
+   "The unaccountable man (New York, Chicago, Fleming H. Revell, 1900)"
+  ],
+  "burrell-church-in-fort": [
+   "churchinfortothe00burr",
+   "The church in the fort; and other sermons (New York : Revell, 1901)"
+  ],
+  "burrell-quiver-of-arrows": [
+   "quiverofarrows00burr",
+   "A quiver of arrows (New York and London, Funk & Wagnalls company, 1902)"
+  ],
+  "burrell-wonderful-teacher": [
+   "wonderfulteacher00burr",
+   "The wonderful Teacher and what He taught (New York, Fleming H. Revell, 1902)"
+  ],
+  "burrell-christ-and-progress": [
+   "christprogressdi00burr",
+   "Christ and progress; a discussion of problems of our time (New York, Chicago, Fleming H. Revell company, 1903)"
+  ],
+  "burrell-verilies-of-jesus": [
+   "veriliesofjesus00burr",
+   "The verilies of Jesus (New York : American Tract Society, 1903)"
+  ],
+  "burrell-jesus-scriptures": [
+   "teachingofjesusc00bur",
+   "The teaching of Jesus concerning the Scriptures (New York, American tract society, 1904)"
+  ],
+  "burrell-christ-and-men": [
+   "christmen00burr",
+   "Christ and men (New York, Chicago, Fleming H. Revell company, 1905)"
+  ],
+  "burrell-evolution-of-christian": [
+   "evolutionofchris00burr",
+   "The evolution of a Christian (Boston : American Tract society, 1906)"
+  ],
+  "burrell-wayfarers-of-bible": [
+   "wayfarersofbible01burr",
+   "Wayfarers of the Bible, vol. c.1 (New York, Chicago, Fleming H. Revell, 1907)"
+  ],
+  "burrell-cloister-book": [
+   "cloisterbook00burr",
+   "The cloister book : for shut-in worshipers and pastorless congregations (New York : American Tract Society, 1909)"
+  ],
+  "burrell-in-davids-town": [
+   "indavidstown00burr",
+   "In David's town (New York : American Tract Society, 1910)"
+  ],
+  "burrell-home-sanctuary": [
+   "homesanctuarycom00burr",
+   "The home sanctuary: a companion volumne to the cloister book; completing a year of services for shut-in worshipers and pastorless congregations (New York: American Tract Society, 1911)"
+  ],
+  "burrell-gate-beautiful": [
+   "atgatebeautifu00burr",
+   "At the gate beautiful : the story of a day (New York : American tract society, 1911)"
+  ],
+  "burrell-old-time-religion": [
+   "oldtimereligiono00burr",
+   "The old-time religion : or the foundations of our faith (New York : American Tract Society, c191)"
+  ],
+  "burrell-the-sermon": [
+   "sermonitsconstru00burr",
+   "The sermon : its construction and delivery (New York : Fleming H. Revell, 1913)"
+  ],
+  "burrell-in-upper-room": [
+   "inupperroompract00burr",
+   "In the upper room : a practical exposition of John XIII-XVII (with related passages) (New York : C. Scribner's Sons, 1913)"
+  ],
+  "burrell-we-would-see-jesus": [
+   "wewouldseejesus00burr",
+   "\"We would see Jesus\" (New York : American Tract Society, 1914)"
+  ],
+  "burrell-apostles-creed": [
+   "apostlescreed00burr",
+   "The Apostles' creed (New York, American Tract Society, 1915)"
+  ],
+  "burrell-why-i-believe-bible": [
+   "whyibelievebible00burr",
+   "Why I believe the Bible (New York : F.H. Revell, 1917)"
+  ],
+  "burrell-laughter-of-god": [
+   "laughterofgodoth00burr",
+   "The laughter of God and other sermons (expository) (New York : Fleming H. Revell, 1918)"
+  ],
+  "burrell-pauls-campaigns": [
+   "paulscampaigns00burr",
+   "Paul's campaigns (New York, American tract society, 1918)"
+  ],
+  "burrell-resurrection-life-beyond": [
+   "resurrectionlife0000davi",
+   "The Resurrection and The Life Beyond (catalogued 1920)"
+  ],
+  "burrell-pauls-companions": [
+   "paulscompanions00burr",
+   "Paul's companions (New York : American Tract Society, 1921)"
+  ],
+  "burrell-pauls-letters": [
+   "paulsletters00burr",
+   "Paul's letters (New York, American tract society, 1921)"
+  ],
+  "burrell-life-letters-st-paul": [
+   "lifelettersofstp00burr",
+   "Life and letters of St. Paul (New York : American tract society, 1925)"
+  ],
+  "burrell-golden-parable": [
+   "goldenparable00burr_0",
+   "The golden parable (New York ; Chicago [etc.] : Fleming H. Revell company, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "burrell-other": "pamphlets of under 60 pages; Hints and Helps on the Sunday-school Lessons (1894), an annual written with others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "burrell-pauls-letters": "title page: 'Paul's Letters / By David James Burrell, D. D., LL. D, Author of \"Paul's Companions,\" \"Paul's Campaigns\"' (OCR 'TBurrell')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "burrell-religions-of-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "[1888]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-gospel-of-gladness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-morning-cometh": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-religion-of-future": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-spirit-of-age": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-for-christs-crown": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-golden-passional": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-wondrous-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-god-and-people": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-gospel-of-certainty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-unaccountable-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-church-in-fort": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-quiver-of-arrows": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-wonderful-teacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "burrell-christ-and-progress": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-verilies-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-jesus-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-christ-and-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-evolution-of-christian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-wayfarers-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-cloister-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-in-davids-town": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-home-sanctuary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-gate-beautiful": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-old-time-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "c1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-the-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-in-upper-room": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-we-would-see-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-apostles-creed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-why-i-believe-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-laughter-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-pauls-campaigns": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-resurrection-life-beyond": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-pauls-companions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "burrell-pauls-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burrell-life-letters-st-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burrell-golden-parable": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

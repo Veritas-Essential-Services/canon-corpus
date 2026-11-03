@@ -1,0 +1,149 @@
+{
+ "_about": "Robert Grant: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Robert Grant",
+ "_name_words": [
+  "grant",
+  "robert"
+ ],
+ "_surname": [
+  "robert grant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rgrant-law-breakers-and-other-stories": [
+   7763,
+   "The Law-Breakers and Other Stories"
+  ],
+  "rgrant-unleavened-bread": [
+   14645,
+   "Unleavened Bread"
+  ],
+  "rgrant-kings-men": [
+   18960,
+   "The King's Men: A Tale of To-morrow"
+  ],
+  "rgrant-opinions-of-a-philosopher": [
+   19509,
+   "The Opinions of a Philosopher"
+  ],
+  "rgrant-romantic-young-lady": [
+   28236,
+   "A Romantic Young Lady"
+  ],
+  "rgrant-search-light-letters": [
+   37613,
+   "Search-Light Letters"
+  ],
+  "rgrant-art-of-living": [
+   53040,
+   "The Art of Living"
+  ],
+  "rgrant-orchid": [
+   53711,
+   "The Orchid"
+  ],
+  "rgrant-undercurrent": [
+   56310,
+   "The Undercurrent"
+  ],
+  "rgrant-jack-hall": [
+   77143,
+   "Jack Hall"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rgrant-law-breakers-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-unleavened-bread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-kings-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-opinions-of-a-philosopher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-romantic-young-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-search-light-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-art-of-living": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-orchid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-undercurrent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgrant-jack-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

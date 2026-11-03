@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Julius Kaftan (1848-1926), Ritschlian professor of dogmatics at Basel and Berlin, for the Word Hoard: The Truth of the Christian Religion (two volumes in George Ferries's English translation, 1894), and in German Das Wesen der christlichen Religion, Jesus und Paulus, Der Mensch Jesus Christus, his Dogmatik, and Neutestamentliche Theologie. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 112 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "julius kaftan",
+  "j. kaftan",
+  "kaftan"
+ ],
+ "_surname": [
+  "julius kaftan",
+  "kaftan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kaftan-truth-1": [
+   "truthofchristian0000kaft",
+   "The truth of the Christian religion (Edinburgh : T. & T. Clark, 1894)"
+  ],
+  "kaftan-truth-2": [
+   "truthofreligion0002unse",
+   "The truth of the religion, vol. 2 (catalogued 1894)"
+  ],
+  "kaftan-wesen": [
+   "daswesenderchris0000kaft",
+   "Das Wesen der christlichen Religion (Basel, Bahnmaier's Verlag, 1881)"
+  ],
+  "kaftan-jesus-paulus": [
+   "jesusundpaulusei0000kaft",
+   "Jesus und Paulus : eine freundschaftliche Streitschrift gegen die Religionsgeschichtlichen Volksbücher (Tübingen : J.C.B. Mohr (Paul Siebeck), 1906)"
+  ],
+  "kaftan-mensch-jesus": [
+   "dermenschjesusch0004kaft",
+   "Der Mensch Jesus Christus : der einige Mittler zwischen Gott und den Menschen, vol. 4 (Lichterfelde : E. Runge, 1908)"
+  ],
+  "kaftan-dogmatik": [
+   "dogmatik7und80000kaft",
+   "Dogmatik 7. und 8 (Tuebingen : Mohr, 1920)"
+  ],
+  "kaftan-nt-theologie": [
+   "neutestamentlich0000kaft",
+   "Neutestamentliche theologie : im Abriss dargestellt (Berlin : M. Warneck, 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kaftan-early": "His student dissertations (Sollen und Sein, 1872; Veterum ecclesiae, 1873) left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "kaftan-philosophie": "Das Christentum und die Philosophie (J.C. Hinrichs, 1896), IA daschristentumu00kaftgoog: Fraktur type, and the OCR text is unreadable (needs re-OCR)"
+ },
+ "_translators": {},
+ "_checks": {
+  "kaftan-truth-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius kaftan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaftan-truth-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius kaftan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaftan-wesen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius kaftan",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaftan-jesus-paulus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kaftan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaftan-mensch-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kaftan",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaftan-dogmatik": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius kaftan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaftan-nt-theologie": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius kaftan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

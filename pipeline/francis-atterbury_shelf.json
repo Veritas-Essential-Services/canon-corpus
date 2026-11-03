@@ -1,0 +1,91 @@
+{
+ "_about": "Public-domain Francis Atterbury (1663-1732), Bishop of Rochester, High Church controversialist, for the Word Hoard: his Sermons and Discourses on Several Subjects and Occasions (London, volumes 1-2 of 1740 and 3-4 of 1745), from Internet Archive scans of Eighteenth Century Collections Online. Added 2026-10-23 by lane A, round 44 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "atterbury"
+ ],
+ "_surname": [
+  "francis atterbury",
+  "bishop of rochester",
+  "fr. atterbury"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "atterbury-sermons-1": [
+   "bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_1",
+   "Sermons and Discourses on Several Subjects and Occasions, vol. 1 (London, catalogued 1740)"
+  ],
+  "atterbury-sermons-2": [
+   "bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_2",
+   "Sermons and Discourses on Several Subjects and Occasions, vol. 2 (London, catalogued 1740)"
+  ],
+  "atterbury-sermons-3": [
+   "bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_3",
+   "Sermons and Discourses on Several Subjects and Occasions, vol. 3 (London, catalogued 1745)"
+  ],
+  "atterbury-sermons-4": [
+   "bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_4",
+   "Sermons and Discourses on Several Subjects and Occasions, vol. 4 (London, catalogued 1745)"
+  ]
+ },
+ "_alternates": {
+  "atterbury-copies": "Other printings of the Sermons (1723-1774); the Epistolary Correspondence (Nichols, 1783-1787), letters to and from him with editorial notes, left for a later round"
+ },
+ "_excluded": {
+  "atterbury-other": "Lewis Atterbury's Sermons (his brother); the Virgil translation volumes; the Convocation pamphlets of 1700-1702 (church politics)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "atterbury-sermons-3": "title page text: 'Sermons and Discourses on Several Subjects and Occasions. [By] Francis [Atterbury], D.D. late Lord Bishop of Rochester, and Dean of Westminster. Published from the originals by Thomas Moore, D.D. his Lordship's chaplain. Vol. III. The third edition. London ... MDCCXLV' (the OCR drops the surname from the name line); the text later names him: 'the Name of Atterbury'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "atterbury-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fr. atterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atterbury-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis atterbury",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atterbury-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atterbury-sermons-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis atterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "_about": "Neil Munro's writing at Gutenberg: highland novels and the Para Handy tales. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Neil Munro",
+ "_name_words": [
+  "munro",
+  "neil"
+ ],
+ "_surname": [
+  "neil munro"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nmunro-doom-castle": [
+   21333,
+   "Doom Castle"
+  ],
+  "nmunro-gilian-the-dreamer": [
+   22211,
+   "Gilian The Dreamer: His Fancy, His Love and Adventure"
+  ],
+  "nmunro-john-splendid": [
+   22321,
+   "John Splendid: The Tale of a Poor Gentleman, and the Little Wars of Lorn"
+  ],
+  "nmunro-lost-pibroch-and-other-sheiling-stories": [
+   43729,
+   "The Lost Pibroch, and other Sheiling Stories"
+  ],
+  "nmunro-bud": [
+   43731,
+   "Bud: A Novel"
+  ],
+  "nmunro-shoes-of-fortune": [
+   43732,
+   "The Shoes of Fortune"
+  ],
+  "nmunro-erchie-my-droll-friend": [
+   47991,
+   "Erchie, My Droll Friend"
+  ],
+  "nmunro-daft-days": [
+   49906,
+   "The daft days"
+  ],
+  "nmunro-jaunty-jock-and-other-stories": [
+   50438,
+   "Jaunty Jock, and Other Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57542": "PG 57542: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "nmunro-doom-castle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-gilian-the-dreamer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-john-splendid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-lost-pibroch-and-other-sheiling-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-bud": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-shoes-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-erchie-my-droll-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-daft-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmunro-jaunty-jock-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neil munro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

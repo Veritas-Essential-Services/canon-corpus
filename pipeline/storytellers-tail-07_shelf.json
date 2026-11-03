@@ -1,0 +1,1110 @@
+{
+ "_about": "Storytellers' tail, group 7: 22 authors with 3 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): John Pendleton Kennedy, Henry Kingsley, Caroline Lamb, Arthur Herbert Leahy, Jules Lermina, John K. Leys, Lily A. Long, George Horace Lorimer, Agnes Maule Machar, Helen Reimensnyder Martin, W. B. Maxwell, Abraham Merritt, Paul Meurice, Henry Morford, Harriet Myrtle, Fannie E. Newberry, R. H. Newell, Rodrigues Ottolengui, Henry Oyen, Gertrude Page, Madame Panache, C. H. Pearson. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 7 (22 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jpkennedy-horse-shoe-robinson": [
+   "john pendleton kennedy",
+   "kennedy"
+  ],
+  "jpkennedy-rob-of-the-bowl": [
+   "john pendleton kennedy",
+   "kennedy"
+  ],
+  "jpkennedy-quodlibet": [
+   "john pendleton kennedy",
+   "kennedy"
+  ],
+  "hkingsley-recollections-of-geoffrey-hamlyn": [
+   "henry kingsley",
+   "kingsley"
+  ],
+  "hkingsley-lost-child": [
+   "henry kingsley",
+   "kingsley"
+  ],
+  "hkingsley-ravenshoe": [
+   "henry kingsley",
+   "kingsley"
+  ],
+  "clamb-glenarvon-volume-1-of-3": [
+   "caroline lamb"
+  ],
+  "clamb-glenarvon-volume-2-of-3": [
+   "caroline lamb"
+  ],
+  "clamb-glenarvon-volume-3-of-3": [
+   "caroline lamb"
+  ],
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p": [
+   "arthur herbert leahy",
+   "leahy"
+  ],
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p-5679": [
+   "arthur herbert leahy",
+   "leahy"
+  ],
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p-5680": [
+   "arthur herbert leahy",
+   "leahy"
+  ],
+  "jlermina-son-of-monte-cristo-volume-i": [
+   "jules lermina",
+   "lermina"
+  ],
+  "jlermina-son-of-monte-cristo-volume-ii": [
+   "jules lermina",
+   "lermina"
+  ],
+  "jlermina-son-of-monte-cristo": [
+   "jules lermina",
+   "lermina"
+  ],
+  "jkleys-lindsays": [
+   "john k. leys",
+   "john kirkwood leys"
+  ],
+  "lalong-hemlock-avenue-mystery": [
+   "lily a. long",
+   "lily augusta long"
+  ],
+  "lalong-saintsbury-affair": [
+   "lily a. long",
+   "lily augusta long"
+  ],
+  "lalong-red-house-on-rowan-street": [
+   "lily a. long",
+   "lily augusta long"
+  ],
+  "ghlorimer-old-gorgon-graham-more-letters-from-a-self-made-me": [
+   "george horace lorimer",
+   "lorimer"
+  ],
+  "ghlorimer-false-gods": [
+   "george horace lorimer",
+   "lorimer"
+  ],
+  "ghlorimer-letters-from-a-self-made-merchant-to-his-son-being": [
+   "george horace lorimer",
+   "lorimer"
+  ],
+  "ammachar-lucy-raymond": [
+   "agnes maule machar",
+   "machar"
+  ],
+  "ammachar-roland-graeme": [
+   "agnes maule machar",
+   "machar"
+  ],
+  "ammachar-down-the-river-to-the-sea": [
+   "agnes maule machar",
+   "machar"
+  ],
+  "hrmartin-tillie-a-mennonite-maid": [
+   "helen reimensnyder martin",
+   "martin"
+  ],
+  "hrmartin-her-husband-s-purse": [
+   "helen reimensnyder martin",
+   "martin"
+  ],
+  "hrmartin-marriage-of-susan": [
+   "helen reimensnyder martin",
+   "martin"
+  ],
+  "wbmaxwell-devil-s-garden": [
+   "w. b. maxwell",
+   "william babington maxwell",
+   "maxwell"
+  ],
+  "wbmaxwell-mrs-thompson": [
+   "w. b. maxwell",
+   "william babington maxwell",
+   "maxwell"
+  ],
+  "wbmaxwell-spinster-of-this-parish": [
+   "w. b. maxwell",
+   "william babington maxwell",
+   "maxwell"
+  ],
+  "amerritt-moon-pool": [
+   "abraham merritt",
+   "merritt"
+  ],
+  "amerritt-metal-monster": [
+   "abraham merritt",
+   "merritt"
+  ],
+  "amerritt-face-in-the-abyss": [
+   "abraham merritt",
+   "merritt"
+  ],
+  "pmeurice-two-dianas-volume-1-of-3": [
+   "paul meurice",
+   "meurice"
+  ],
+  "pmeurice-two-dianas-volume-2-of-3": [
+   "paul meurice",
+   "meurice"
+  ],
+  "pmeurice-two-dianas-volume-3-of-3": [
+   "paul meurice",
+   "meurice"
+  ],
+  "hmorford-red-tape-and-pigeon-hole-generals": [
+   "henry morford",
+   "morford"
+  ],
+  "hmorford-shoulder-straps": [
+   "henry morford",
+   "morford"
+  ],
+  "hmorford-coward": [
+   "henry morford",
+   "morford"
+  ],
+  "hmyrtle-adventure-of-a-kite": [
+   "harriet myrtle",
+   "myrtle"
+  ],
+  "hmyrtle-goat-and-her-kid": [
+   "harriet myrtle",
+   "myrtle"
+  ],
+  "hmyrtle-pleasures-of-the-country": [
+   "harriet myrtle",
+   "myrtle"
+  ],
+  "fenewberry-sara-a-princess": [
+   "fannie e. newberry",
+   "fannie ellsworth newberry",
+   "newberry"
+  ],
+  "fenewberry-all-aboard": [
+   "fannie e. newberry",
+   "fannie ellsworth newberry",
+   "newberry"
+  ],
+  "fenewberry-joyce-s-investments": [
+   "fannie e. newberry",
+   "fannie ellsworth newberry",
+   "newberry"
+  ],
+  "rhnewell-orpheus-c-kerr-papers-series-3": [
+   "r. h. newell",
+   "robert henry newell",
+   "newell"
+  ],
+  "rhnewell-orpheus-c-kerr-papers-series-2": [
+   "r. h. newell",
+   "robert henry newell",
+   "newell"
+  ],
+  "rhnewell-orpheus-c-kerr-papers-series-1": [
+   "r. h. newell",
+   "robert henry newell",
+   "newell"
+  ],
+  "rottolengui-artist-in-crime": [
+   "rodrigues ottolengui",
+   "ottolengui"
+  ],
+  "rottolengui-modern-wizard": [
+   "rodrigues ottolengui",
+   "ottolengui"
+  ],
+  "rottolengui-final-proof": [
+   "rodrigues ottolengui",
+   "ottolengui"
+  ],
+  "hoyen-plunderer": [
+   "henry oyen"
+  ],
+  "hoyen-snow-burner": [
+   "henry oyen"
+  ],
+  "hoyen-hidden-country": [
+   "henry oyen"
+  ],
+  "gpage-winding-paths": [
+   "gertrude page"
+  ],
+  "gpage-rhodesian": [
+   "gertrude page"
+  ],
+  "gpage-paddy-the-next-best-thing": [
+   "gertrude page"
+  ],
+  "mpanache-manners": [
+   "madame panache",
+   "panache"
+  ],
+  "mpanache-manners-40159": [
+   "madame panache",
+   "panache"
+  ],
+  "mpanache-manners-40160": [
+   "madame panache",
+   "panache"
+  ],
+  "chpearson-cabin-on-the-prairie": [
+   "c. h. pearson",
+   "charles henry pearson",
+   "pearson"
+  ],
+  "chpearson-on-the-frontier": [
+   "c. h. pearson",
+   "charles henry pearson",
+   "pearson"
+  ],
+  "chpearson-young-pioneers-of-the-north-west": [
+   "c. h. pearson",
+   "charles henry pearson",
+   "pearson"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jpkennedy-horse-shoe-robinson": [
+   33478,
+   "Horse-Shoe Robinson: A Tale of the Tory Ascendency"
+  ],
+  "jpkennedy-rob-of-the-bowl": [
+   37369,
+   "Rob of the Bowl: A Legend of St. Inigoe's. Vol. 1 (of 2)"
+  ],
+  "jpkennedy-quodlibet": [
+   39245,
+   "Quodlibet: containing some annals thereof ..."
+  ],
+  "hkingsley-recollections-of-geoffrey-hamlyn": [
+   3786,
+   "The Recollections of Geoffrey Hamlyn"
+  ],
+  "hkingsley-lost-child": [
+   25404,
+   "The Lost Child"
+  ],
+  "hkingsley-ravenshoe": [
+   41636,
+   "Ravenshoe"
+  ],
+  "clamb-glenarvon-volume-1-of-3": [
+   68754,
+   "Glenarvon, Volume 1 (of 3)"
+  ],
+  "clamb-glenarvon-volume-2-of-3": [
+   68773,
+   "Glenarvon, Volume 2 (of 3)"
+  ],
+  "clamb-glenarvon-volume-3-of-3": [
+   68776,
+   "Glenarvon, Volume 3 (of 3)"
+  ],
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p": [
+   5678,
+   "Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 1"
+  ],
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p-5679": [
+   5679,
+   "Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 2"
+  ],
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p-5680": [
+   5680,
+   "Heroic Romances of Ireland, Translated into English Prose and Verse — Complete"
+  ],
+  "jlermina-son-of-monte-cristo-volume-i": [
+   22018,
+   "The Son of Monte-Cristo, Volume I"
+  ],
+  "jlermina-son-of-monte-cristo-volume-ii": [
+   22086,
+   "The Son of Monte-Cristo, Volume II"
+  ],
+  "jlermina-son-of-monte-cristo": [
+   26216,
+   "The Son of Monte-Cristo"
+  ],
+  "jkleys-lindsays": [
+   72352,
+   "The Lindsays"
+  ],
+  "lalong-hemlock-avenue-mystery": [
+   56780,
+   "The Hemlock Avenue Mystery"
+  ],
+  "lalong-saintsbury-affair": [
+   56838,
+   "The Saintsbury Affair"
+  ],
+  "lalong-red-house-on-rowan-street": [
+   56961,
+   "The Red House on Rowan Street"
+  ],
+  "ghlorimer-old-gorgon-graham-more-letters-from-a-self-made-me": [
+   12106,
+   "Old Gorgon Graham More Letters from a Self-Made Merchant to His Son"
+  ],
+  "ghlorimer-false-gods": [
+   17020,
+   "The False Gods"
+  ],
+  "ghlorimer-letters-from-a-self-made-merchant-to-his-son-being": [
+   21959,
+   "Letters from a Self-Made Merchant to His Son Being the Letters written by John Graham, Head of the House of Graham & Company, Pork-Packers in Chicago, familiarly known on 'Change as \"Old Gorgon Graham,\" to his Son, Pierrepont, facetiously known to his intimates as \"Piggy.\""
+  ],
+  "ammachar-lucy-raymond": [
+   18248,
+   "Lucy Raymond; Or, The Children's Watchword"
+  ],
+  "ammachar-roland-graeme": [
+   36243,
+   "Roland Graeme: Knight. A Novel of Our Time"
+  ],
+  "ammachar-down-the-river-to-the-sea": [
+   39924,
+   "Down the River to the Sea"
+  ],
+  "hrmartin-tillie-a-mennonite-maid": [
+   4760,
+   "Tillie, a Mennonite Maid; a Story of the Pennsylvania Dutch"
+  ],
+  "hrmartin-her-husband-s-purse": [
+   55298,
+   "Her Husband's Purse"
+  ],
+  "hrmartin-marriage-of-susan": [
+   77875,
+   "The marriage of Susan"
+  ],
+  "wbmaxwell-devil-s-garden": [
+   14605,
+   "The Devil's Garden"
+  ],
+  "wbmaxwell-mrs-thompson": [
+   39515,
+   "Mrs. Thompson: A Novel"
+  ],
+  "wbmaxwell-spinster-of-this-parish": [
+   48685,
+   "Spinster of This Parish"
+  ],
+  "amerritt-moon-pool": [
+   765,
+   "The Moon Pool"
+  ],
+  "amerritt-metal-monster": [
+   3479,
+   "The Metal Monster"
+  ],
+  "amerritt-face-in-the-abyss": [
+   79106,
+   "The face in the abyss"
+  ],
+  "pmeurice-two-dianas-volume-1-of-3": [
+   67337,
+   "The Two Dianas, Volume 1 (of 3)"
+  ],
+  "pmeurice-two-dianas-volume-2-of-3": [
+   67338,
+   "The Two Dianas, Volume 2 (of 3)"
+  ],
+  "pmeurice-two-dianas-volume-3-of-3": [
+   67339,
+   "The Two Dianas, Volume 3 (of 3)"
+  ],
+  "hmorford-red-tape-and-pigeon-hole-generals": [
+   23565,
+   "Red-tape and pigeon-hole generals"
+  ],
+  "hmorford-shoulder-straps": [
+   29583,
+   "Shoulder-Straps: A Novel of New York and the Army, 1862"
+  ],
+  "hmorford-coward": [
+   36644,
+   "The Coward: A Novel of Society and the Field in 1863"
+  ],
+  "hmyrtle-adventure-of-a-kite": [
+   18968,
+   "Adventure of a Kite"
+  ],
+  "hmyrtle-goat-and-her-kid": [
+   21275,
+   "The Goat and Her Kid"
+  ],
+  "hmyrtle-pleasures-of-the-country": [
+   37013,
+   "The Pleasures of the Country: Simple Stories for Young People"
+  ],
+  "fenewberry-sara-a-princess": [
+   6334,
+   "Sara, a Princess: The Story of a Noble Girl"
+  ],
+  "fenewberry-all-aboard": [
+   19001,
+   "All Aboard: A Story for Girls"
+  ],
+  "fenewberry-joyce-s-investments": [
+   21857,
+   "Joyce's Investments: A Story for Girls"
+  ],
+  "rhnewell-orpheus-c-kerr-papers-series-3": [
+   31823,
+   "The Orpheus C. Kerr Papers, Series 3"
+  ],
+  "rhnewell-orpheus-c-kerr-papers-series-2": [
+   34754,
+   "The Orpheus C. Kerr Papers, Series 2"
+  ],
+  "rhnewell-orpheus-c-kerr-papers-series-1": [
+   35906,
+   "The Orpheus C. Kerr Papers, Series 1"
+  ],
+  "rottolengui-artist-in-crime": [
+   31915,
+   "An Artist in Crime"
+  ],
+  "rottolengui-modern-wizard": [
+   32985,
+   "A Modern Wizard"
+  ],
+  "rottolengui-final-proof": [
+   35902,
+   "Final Proof; Or, The Value of Evidence"
+  ],
+  "hoyen-plunderer": [
+   19401,
+   "The Plunderer"
+  ],
+  "hoyen-snow-burner": [
+   36121,
+   "The Snow-Burner"
+  ],
+  "hoyen-hidden-country": [
+   66215,
+   "Hidden Country"
+  ],
+  "gpage-winding-paths": [
+   5636,
+   "Winding Paths"
+  ],
+  "gpage-rhodesian": [
+   27950,
+   "The Rhodesian"
+  ],
+  "gpage-paddy-the-next-best-thing": [
+   38237,
+   "Paddy-The-Next-Best-Thing"
+  ],
+  "mpanache-manners": [
+   40158,
+   "Manners: A Novel, Vol 1"
+  ],
+  "mpanache-manners-40159": [
+   40159,
+   "Manners: A Novel, Vol 2"
+  ],
+  "mpanache-manners-40160": [
+   40160,
+   "Manners: A Novel, Vol 3"
+  ],
+  "chpearson-cabin-on-the-prairie": [
+   28870,
+   "The cabin on the prairie"
+  ],
+  "chpearson-on-the-frontier": [
+   77147,
+   "On the frontier"
+  ],
+  "chpearson-young-pioneers-of-the-north-west": [
+   78432,
+   "The young pioneers of the North-west"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-72353": "PG 72353: a second Gutenberg edition of John K. Leys's The Lindsays.",
+  "pg-72354": "PG 72354: a second Gutenberg edition of John K. Leys's The Lindsays."
+ },
+ "_held": {},
+ "_checks": {
+  "jpkennedy-horse-shoe-robinson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pendleton kennedy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpkennedy-rob-of-the-bowl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pendleton kennedy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpkennedy-quodlibet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pendleton kennedy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hkingsley-recollections-of-geoffrey-hamlyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry kingsley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hkingsley-lost-child": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry kingsley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hkingsley-ravenshoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry kingsley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clamb-glenarvon-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clamb-glenarvon-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clamb-glenarvon-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur herbert leahy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p-5679": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur herbert leahy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahleahy-heroic-romances-of-ireland-translated-into-english-p-5680": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur herbert leahy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlermina-son-of-monte-cristo-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jules lermina",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlermina-son-of-monte-cristo-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jules lermina",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlermina-son-of-monte-cristo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jules lermina",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkleys-lindsays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john k. leys",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lalong-hemlock-avenue-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lily a. long",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lalong-saintsbury-affair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lily a. long",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lalong-red-house-on-rowan-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lily a. long",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghlorimer-old-gorgon-graham-more-letters-from-a-self-made-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horace lorimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghlorimer-false-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horace lorimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghlorimer-letters-from-a-self-made-merchant-to-his-son-being": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horace lorimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ammachar-lucy-raymond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes maule machar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ammachar-roland-graeme": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes maule machar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ammachar-down-the-river-to-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes maule machar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hrmartin-tillie-a-mennonite-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen reimensnyder martin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hrmartin-her-husband-s-purse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen reimensnyder martin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hrmartin-marriage-of-susan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen reimensnyder martin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbmaxwell-devil-s-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. maxwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbmaxwell-mrs-thompson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. maxwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbmaxwell-spinster-of-this-parish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. maxwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amerritt-moon-pool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abraham merritt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amerritt-metal-monster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abraham merritt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amerritt-face-in-the-abyss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abraham merritt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pmeurice-two-dianas-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul meurice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pmeurice-two-dianas-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul meurice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pmeurice-two-dianas-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul meurice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorford-red-tape-and-pigeon-hole-generals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry morford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorford-shoulder-straps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry morford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorford-coward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry morford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmyrtle-adventure-of-a-kite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet myrtle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmyrtle-goat-and-her-kid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet myrtle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmyrtle-pleasures-of-the-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet myrtle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenewberry-sara-a-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fannie e. newberry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenewberry-all-aboard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fannie e. newberry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenewberry-joyce-s-investments": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fannie e. newberry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhnewell-orpheus-c-kerr-papers-series-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. h. newell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhnewell-orpheus-c-kerr-papers-series-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. h. newell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhnewell-orpheus-c-kerr-papers-series-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. h. newell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rottolengui-artist-in-crime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodrigues ottolengui",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rottolengui-modern-wizard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodrigues ottolengui",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rottolengui-final-proof": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodrigues ottolengui",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hoyen-plunderer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry oyen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hoyen-snow-burner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry oyen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hoyen-hidden-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry oyen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpage-winding-paths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gertrude page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpage-rhodesian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gertrude page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpage-paddy-the-next-best-thing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gertrude page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpanache-manners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "madame panache",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpanache-manners-40159": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "madame panache",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpanache-manners-40160": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "madame panache",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chpearson-cabin-on-the-prairie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. h. pearson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chpearson-on-the-frontier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. h. pearson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chpearson-young-pioneers-of-the-north-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. h. pearson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

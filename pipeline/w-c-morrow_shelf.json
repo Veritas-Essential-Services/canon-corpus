@@ -1,0 +1,84 @@
+{
+ "_about": "W. C. Morrow: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "W. C. Morrow",
+ "_name_words": [
+  "morrow"
+ ],
+ "_surname": [
+  "w. c. morrow",
+  "morrow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wcmorrow-ape-the-idiot-other-people": [
+   21616,
+   "The Ape, the Idiot & Other People"
+  ],
+  "wcmorrow-inmate-of-the-dungeon-1894": [
+   23177,
+   "The Inmate Of The Dungeon 1894"
+  ],
+  "wcmorrow-bohemian-paris-of-to-day-second-edition": [
+   50495,
+   "Bohemian Paris of To-day Second Edition"
+  ],
+  "wcmorrow-lentala-of-the-south-seas": [
+   51915,
+   "Lentala of the South Seas: The Romantic Tale of a Lost Colony"
+  ],
+  "wcmorrow-man": [
+   51954,
+   "A Man: His Mark. A Romance Second Edition"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wcmorrow-ape-the-idiot-other-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcmorrow-inmate-of-the-dungeon-1894": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcmorrow-bohemian-paris-of-to-day-second-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcmorrow-lentala-of-the-south-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcmorrow-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

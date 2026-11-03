@@ -1,0 +1,60 @@
+{
+ "_about": "Public-domain William John Conybeare (1815-1857), principal of the Liverpool Collegiate Institution and vicar of Axminster, for the Word Hoard: Essays Ecclesiastical and Social, and The Life and Epistles of St Paul, written with J. S. Howson. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 118 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william john conybeare",
+  "w. j. conybeare",
+  "conybeare"
+ ],
+ "_surname": [
+  "william john conybeare",
+  "w. j. conybeare",
+  "conybeare"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wjconybeare-essays": [
+   "essaysecclesiast00conyrich",
+   "Essays ecclesiastical and social (London : Longman, Brown, Green, and Longmans, 1855)"
+  ],
+  "wjconybeare-life-epistles-paul": [
+   "lifeepistlespaul00conyuoft",
+   "The life and epistles of St. Paul (London : Longman, Green, Longman, and Roberts, 1861)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wjconybeare-others": "Illustrations of Anglo-Saxon Poetry is by his father J. J. Conybeare; A History of Cambridgeshire is by Edward Conybeare; the petrifactions and the 1835 Epistles are by others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "wjconybeare-perversion": "Perversion, Or, The Causes and Consequences of Infidelity: A Tale for the Times, vol. 3 (Smith, Elder, 1856), IA perversionorcau02conygoog: vol. 3 only, and the novel was published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "wjconybeare-essays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. conybeare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wjconybeare-life-epistles-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. conybeare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

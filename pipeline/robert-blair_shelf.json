@@ -1,0 +1,37 @@
+{
+ "_about": "Robert Blair (1593-1666), minister of St Andrews: The Life of Mr Robert Blair, containing his autobiography from 1593 to 1636, with a supplement to his life and continuation of the history of the times to 1680 by his son-in-law William Row, ed. Thomas M'Crie (Wodrow Society, Edinburgh, 1848). Not the poet Robert Blair of The Grave, his grandson. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "blair"
+ ],
+ "_surname": [
+  "blair"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "blair-life-autobiography": [
+   "lifeofmrrobert00blai",
+   "The Life of Mr Robert Blair, Minister of St Andrews, containing his Autobiography, with a continuation by William Row, ed. Thomas M'Crie (Wodrow Society, Edinburgh, 1848)"
+  ]
+ },
+ "_alternates": {
+  "lifeofmrrobertbl00blai, lifeofmrrobertbl0000hiss": "Other copies.",
+  "memoirsoflifeofm00blai (1754)": "The first, shorter edition of the Memoirs."
+ },
+ "_excluded": {
+  "The poetical works of Robert Blair (The Grave)": "A different Robert Blair."
+ },
+ "_checks": {
+  "blair-life-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "blair",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

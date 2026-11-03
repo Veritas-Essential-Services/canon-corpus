@@ -1,0 +1,76 @@
+{
+ "_about": "Old English poetry in public-domain editions: Gollancz's Exeter Book, part 1, with facing translation (EETS, 1895); Tupper's Riddles of the Exeter Book (1910); Kennedy's translation of the Caedmon poems of Junius 11 (1916). IA scans, raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "various editors",
+ "_name_words": [
+  "exeter",
+  "book",
+  "riddles",
+  "caedmon",
+  "gollancz",
+  "tupper",
+  "kennedy"
+ ],
+ "_surname": [
+  "gollancz"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "exeter-book-gollancz-1895": [
+   "exeterbookanthol00goll",
+   "The Exeter Book, part 1, ed. Gollancz (EETS, 1895)"
+  ],
+  "exeter-riddles-tupper-1910": [
+   "riddlesofexeterbook00tuppuoft",
+   "The Riddles of the Exeter Book, ed. Tupper (1910)"
+  ],
+  "caedmon-poems-kennedy-1916": [
+   "caedmonpoems00kennuoft",
+   "The Caedmon Poems, tr. Kennedy (1916)"
+  ]
+ },
+ "_excluded": {},
+ "_surname_by_slug": {
+  "exeter-riddles-tupper-1910": [
+   "tupper"
+  ],
+  "caedmon-poems-kennedy-1916": [
+   "kennedy"
+  ]
+ },
+ "_checks": {
+  "exeter-book-gollancz-1895": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gollancz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "exeter-riddles-tupper-1910": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tupper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caedmon-poems-kennedy-1916": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kennedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

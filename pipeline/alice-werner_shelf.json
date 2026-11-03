@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Alice Werner (1859-1935), Africanist: Weule's Native Life in East Africa (1909) and The Humour of Holland (1894). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Alice Werner (1859-1935), Africanist: Weule's Native Life in East Africa (1909) and The Humour of Holland (1894); from archive.org, The Humour of Italy (1893). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
  "_name_words": [
-  "alice werner"
+  "alice werner",
+  "a. werner"
  ],
  "_surname": [
-  "alice werner"
+  "alice werner",
+  "a. werner"
  ],
- "_surname_note": "Full name only.",
+ "_surname_note": "Full name only. 'a. werner' is the form on her 1889-1894 title pages (2026-10-23).",
  "ccel": {},
  "gutenberg": {
   "awe-64761": [
@@ -18,7 +20,12 @@
    "Native life in East Africa"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "awe-ia-humour-of-italy": [
+   "humouritaly00faldgoog",
+   "The Humour of Italy"
+  ]
+ },
  "titles": {
   "alice-werner-dircks-the-humour-of-holland": {
    "source": "awe-64761",
@@ -35,15 +42,25 @@
    "translated": "1894-1909 (see the Gutenberg header)",
    "translator": "Alice Werner",
    "scan_edition": "Project Gutenberg 71496 (clean text)"
+  },
+  "alice-werner-the-humour-of-italy": {
+   "source": "awe-ia-humour-of-italy",
+   "of": "Various Italian authors",
+   "work": "The Humour of Italy",
+   "translated": "1893",
+   "translator": "Alice Werner",
+   "scan_edition": "Walter Scott, London, 1893 (Google scan); title page: \"selected and translated, with introduction, biographical index, and notes by A. Werner\""
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Garibaldi's Autobiography (1889, 3 vols): the vol. I and II scans carry her credit garbled or not at all, and vol. III is Jessie White Mario's supplement. Left off until a legible set is found."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "awe-64761": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alice werner",
    "identity": "ok",
@@ -52,12 +69,23 @@
   },
   "awe-71496": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alice werner",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Alice Werner"
+  },
+  "awe-ia-humour-of-italy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. werner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +98,40 @@
    "pg": 71496,
    "pg_copyrighted_marker": false,
    "pg_translator": "Alice Werner"
+  },
+  "awe-ia-humour-of-italy": {
+   "ia": "humouritaly00faldgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1400,
+    1450,
+    1469,
+    1474,
+    1478,
+    1500,
+    1512,
+    1519,
+    1527,
+    1529,
+    1533,
+    1570,
+    1574,
+    1626,
+    1696,
+    1721,
+    1750,
+    1776,
+    1778,
+    1784,
+    1798,
+    1800,
+    1803,
+    1827,
+    1837,
+    1873,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

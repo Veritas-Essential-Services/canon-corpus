@@ -1,0 +1,92 @@
+{
+ "_about": "TRANSLATOR SHELF: Willa Muir (1890-1970) and Edwin Muir (1887-1959), translating together: Lion Feuchtwanger's Power (Jew Süss; Viking, New York, 1926, a 1928 printing), The Ugly Duchess (Viking, 1928), with Success (Secker, 1930) waiting on the 1930 ruling. Printings before 1931 only. US public domain (published before 1931). Added 2026-10-23 by lane C (round 125); Adam may veto. No uids minted.",
+ "_name_words": [
+  "willa and edwin muir"
+ ],
+ "_surname": [
+  "willa and edwin muir"
+ ],
+ "_surname_note": "Full names only; bare 'muir' is a common surname and is claimed by the jessie-muir and alexander-muir shelves.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wem-feuchtwanger-power": [
+   "power0000lion_a6p0",
+   "Power (1926; 1928 printing)"
+  ],
+  "wem-feuchtwanger-ugly-duchess": [
+   "bwb_C0-CEK-906",
+   "The Ugly Duchess (1928)"
+  ]
+ },
+ "titles": {
+  "willa-edwin-muir-feuchtwanger-power": {
+   "source": "wem-feuchtwanger-power",
+   "of": "Lion Feuchtwanger",
+   "work": "Power (Jud Süß; in Britain, Jew Süss)",
+   "translated": 1926,
+   "translator": "Willa and Edwin Muir",
+   "scan_edition": "The Viking Press, New York (first published in English October 1926; a 1928 printing); archive.org scan"
+  },
+  "willa-edwin-muir-feuchtwanger-the-ugly-duchess": {
+   "source": "wem-feuchtwanger-ugly-duchess",
+   "of": "Lion Feuchtwanger",
+   "work": "The Ugly Duchess",
+   "translated": 1928,
+   "translator": "Willa and Edwin Muir",
+   "scan_edition": "The Viking Press, New York 1928; archive.org scan"
+  }
+ },
+ "_pending": {
+  "wem-feuchtwanger-success": "Feuchtwanger's Success (Martin Secker, London 1930), archive.org in.ernet.dli.2015.210144 (text file 2015.210144.Success_djvu.txt): title page read. First published 1930, so US public domain since 1 January 2026, but fetch_shelf.py still refuses 1930; it waits on Adam's 1930 ruling with the other 1930 translations."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "wem-feuchtwanger-power": {
+   "ia": "power0000lion_a6p0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1926,
+    1927,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wem-feuchtwanger-ugly-duchess": {
+   "ia": "bwb_C0-CEK-906",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1926,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_checks": {
+  "wem-feuchtwanger-power": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willa and edwin muir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wem-feuchtwanger-ugly-duchess": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willa and edwin muir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

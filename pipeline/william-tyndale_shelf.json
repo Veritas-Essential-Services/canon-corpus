@@ -1,0 +1,71 @@
+{
+ "_about": "William Tyndale (d. 1536): his treatises, Parker Society ed. Henry Walter (3 vols, 1848-1850). Named william-tyndale because 'tyndale' is already a Bible-witness key in fetch_sources.py (the 1534 translation, PR #11); this shelf holds his prose works only. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "tyndale",
+  "tindal"
+ ],
+ "_surname": [
+  "tyndale",
+  "tindal"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tyndale-ps-doctrinal": [
+   "doctrinaltreatis00tynduoft",
+   "Doctrinal Treatises and Introductions to Different Portions of the Holy Scriptures, ed. Henry Walter (Parker Society, Cambridge, 1848)"
+  ],
+  "tyndale-ps-expositions": [
+   "expositionsnotes00tynduoft",
+   "Expositions and Notes on Sundry Portions of the Holy Scriptures, together with The Practice of Prelates, ed. Henry Walter (Parker Society, Cambridge, 1849)"
+  ],
+  "tyndale-ps-answer-more": [
+   "ananswertosirtho00tynduoft",
+   "An Answer to Sir Thomas More's Dialogue, The Supper of the Lord, ed. Henry Walter (Parker Society, Cambridge, 1850)"
+  ]
+ },
+ "_alternates": {
+  "parkersocietyfor32park, doctrinaltreatis0000tynd": "Other scans of the Doctrinal Treatises.",
+  "ananswertosirth00unkngoog": "Google scan of the Answer.",
+  "works___01tynd": "Princeton record (1848), not title-checked.",
+  "writingsoftindal00tynd": "Writings of Tindal, Frith and Barnes (Religious Tract Society, 1842?), a selection; not title-checked."
+ },
+ "_excluded": {
+  "Tyndale's Bible (1525-1534)": "A Bible witness, held through fetch_sources.py on PR #11, not here."
+ },
+ "_checks": {
+  "tyndale-ps-doctrinal": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tyndale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyndale-ps-expositions": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tyndale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tyndale-ps-answer-more": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tyndale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

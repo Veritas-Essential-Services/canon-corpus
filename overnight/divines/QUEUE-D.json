@@ -3749,6 +3749,3270 @@
       "started": "2026-10-17T23:48:42-05:00",
       "finished": "2026-10-17T23:48:42-05:00",
       "notes": "montgomery-works: new shelf, 6 Gutenberg books, 10,135 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-carleton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Carleton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:08:13-05:00",
+      "finished": "2026-10-22T22:08:13-05:00",
+      "notes": "william-carleton: new shelf, 19 Gutenberg books, 34,095 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bertram-mitford",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Bertram Mitford; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:09:14-05:00",
+      "finished": "2026-10-22T22:09:14-05:00",
+      "notes": "bertram-mitford: new shelf, 27 Gutenberg books, 46,410 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "louis-tracy",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Louis Tracy; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:09:24-05:00",
+      "finished": "2026-10-22T22:09:24-05:00",
+      "notes": "louis-tracy: new shelf, 30 Gutenberg books, 59,909 units, 223 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bl-farjeon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — B. L. Farjeon; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:09:27-05:00",
+      "finished": "2026-10-22T22:09:27-05:00",
+      "notes": "bl-farjeon: new shelf, 29 Gutenberg books, 61,676 units, 684 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ann-s-stephens",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ann S. Stephens; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:10:11-05:00",
+      "finished": "2026-10-22T22:10:11-05:00",
+      "notes": "ann-s-stephens: new shelf, 29 Gutenberg books, 87,204 units, 1709 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "molly-elliot-seawell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Molly Elliot Seawell; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:10:53-05:00",
+      "finished": "2026-10-22T22:10:53-05:00",
+      "notes": "molly-elliot-seawell: new shelf, 28 Gutenberg books, 28,378 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "meredith-nicholson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Meredith Nicholson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:11:16-05:00",
+      "finished": "2026-10-22T22:11:16-05:00",
+      "notes": "meredith-nicholson: new shelf, 27 Gutenberg books, 42,906 units, 3726 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "francis-lynde",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Francis Lynde; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:11:59-05:00",
+      "finished": "2026-10-22T22:11:59-05:00",
+      "notes": "francis-lynde: new shelf, 26 Gutenberg books, 50,415 units, 105 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "richard-marsh",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Richard Marsh; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:12:21-05:00",
+      "finished": "2026-10-22T22:12:21-05:00",
+      "notes": "richard-marsh: new shelf, 25 Gutenberg books, 54,448 units, 1206 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mrs-de-horne-vaizey",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mrs. George de Horne Vaizey; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:13:03-05:00",
+      "finished": "2026-10-22T22:13:03-05:00",
+      "notes": "mrs-de-horne-vaizey: new shelf, 23 Gutenberg books, 28,636 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harvey-ralphson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — G. Harvey Ralphson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:13:25-05:00",
+      "finished": "2026-10-22T22:13:25-05:00",
+      "notes": "harvey-ralphson: new shelf, 23 Gutenberg books, 37,387 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug)."
+    },
+    {
+      "id": "lillian-elizabeth-roy",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Lillian Elizabeth Roy; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:13:47-05:00",
+      "finished": "2026-10-22T22:13:47-05:00",
+      "notes": "lillian-elizabeth-roy: new shelf, 22 Gutenberg books, 33,995 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harold-macgrath",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Harold MacGrath; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:14:29-05:00",
+      "finished": "2026-10-22T22:14:29-05:00",
+      "notes": "harold-macgrath: new shelf, 22 Gutenberg books, 44,178 units, 89 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "david-graham-phillips",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — David Graham Phillips; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:14:51-05:00",
+      "finished": "2026-10-22T22:14:51-05:00",
+      "notes": "david-graham-phillips: new shelf, 22 Gutenberg books, 43,827 units, 2624 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-hartwell-catherwood",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Hartwell Catherwood; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:13-05:00",
+      "finished": "2026-10-22T22:15:13-05:00",
+      "notes": "mary-hartwell-catherwood: new shelf, 21 Gutenberg books, 15,807 units, 1730 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ridgwell-cullum",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ridgwell Cullum; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:15-05:00",
+      "finished": "2026-10-22T22:15:15-05:00",
+      "notes": "ridgwell-cullum: new shelf, 21 Gutenberg books, 51,427 units, 160 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-hazelton-wade",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Hazelton Blanchard Wade; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:16-05:00",
+      "finished": "2026-10-22T22:15:16-05:00",
+      "notes": "mary-hazelton-wade: new shelf, 21 Gutenberg books, 11,792 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug)."
+    },
+    {
+      "id": "the-duchess",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — The Duchess (Margaret Wolfe Hungerford); no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:18-05:00",
+      "finished": "2026-10-22T22:15:18-05:00",
+      "notes": "the-duchess: new shelf, 21 Gutenberg books, 44,271 units, 1329 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 1, see _surname_by_slug)."
+    },
+    {
+      "id": "hall-caine",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hall Caine; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:21-05:00",
+      "finished": "2026-10-22T22:15:21-05:00",
+      "notes": "hall-caine: new shelf, 20 Gutenberg books, 60,656 units, 18926 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "tw-speight",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — T. W. Speight; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:23-05:00",
+      "finished": "2026-10-22T22:15:23-05:00",
+      "notes": "tw-speight: new shelf, 20 Gutenberg books, 20,938 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edwin-l-sabin",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edwin L. Sabin; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:25-05:00",
+      "finished": "2026-10-22T22:15:25-05:00",
+      "notes": "edwin-l-sabin: new shelf, 20 Gutenberg books, 37,030 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-cary-eggleston",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Cary Eggleston; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:26-05:00",
+      "finished": "2026-10-22T22:15:26-05:00",
+      "notes": "george-cary-eggleston: new shelf, 20 Gutenberg books, 25,996 units, 85 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eglanton-thorne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Eglanton Thorne; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:29-05:00",
+      "finished": "2026-10-22T22:15:29-05:00",
+      "notes": "eglanton-thorne: new shelf, 19 Gutenberg books, 20,401 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jc-snaith",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — J. C. Snaith; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:31-05:00",
+      "finished": "2026-10-22T22:15:31-05:00",
+      "notes": "jc-snaith: new shelf, 19 Gutenberg books, 36,903 units, 2745 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "emma-leslie",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Emma Leslie; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:33-05:00",
+      "finished": "2026-10-22T22:15:33-05:00",
+      "notes": "emma-leslie: new shelf, 19 Gutenberg books, 13,636 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bernard-capes",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Bernard Capes; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:35-05:00",
+      "finished": "2026-10-22T22:15:35-05:00",
+      "notes": "bernard-capes: new shelf, 19 Gutenberg books, 42,875 units, 2049 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ep-roe",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edward Payson Roe; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:38-05:00",
+      "finished": "2026-10-22T22:15:38-05:00",
+      "notes": "ep-roe: new shelf, 19 Gutenberg books, 43,142 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "irving-bacheller",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Irving Bacheller; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:39-05:00",
+      "finished": "2026-10-22T22:15:39-05:00",
+      "notes": "irving-bacheller: new shelf, 18 Gutenberg books, 24,996 units, 107 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mrs-jh-riddell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mrs. J. H. Riddell; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:41-05:00",
+      "finished": "2026-10-22T22:15:41-05:00",
+      "notes": "mrs-jh-riddell: new shelf, 18 Gutenberg books, 22,596 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "williamsons",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — C. N. and A. M. Williamson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:44-05:00",
+      "finished": "2026-10-22T22:15:44-05:00",
+      "notes": "williamsons: new shelf, 34 Gutenberg books, 54,524 units, 2542 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "alex-mcveigh-miller",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mrs. Alex. McVeigh Miller; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:19:22-05:00",
+      "finished": "2026-10-22T22:19:22-05:00",
+      "notes": "alex-mcveigh-miller: new shelf, 39 Gutenberg books, 77,993 units, 3628 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "florence-warden",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Florence Warden; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:19:39-05:00",
+      "finished": "2026-10-22T22:19:39-05:00",
+      "notes": "florence-warden: new shelf, 18 Gutenberg books, 34,682 units, 217 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "georgie-sheldon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mrs. Georgie Sheldon; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:20:11-05:00",
+      "finished": "2026-10-22T22:20:11-05:00",
+      "notes": "georgie-sheldon: new shelf, 18 Gutenberg books, 45,125 units, 67 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "luis-senarens",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Luis Senarens; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:20:28-05:00",
+      "finished": "2026-10-22T22:20:28-05:00",
+      "notes": "luis-senarens: new shelf, 18 Gutenberg books, 33,145 units, 1543 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "st-george-rathborne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — St. George Rathborne; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:20:59-05:00",
+      "finished": "2026-10-22T22:20:59-05:00",
+      "notes": "st-george-rathborne: new shelf, 18 Gutenberg books, 29,677 units, 33 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elinor-glyn",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elinor Glyn; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:21:16-05:00",
+      "finished": "2026-10-22T22:21:16-05:00",
+      "notes": "elinor-glyn: new shelf, 18 Gutenberg books, 25,513 units, 1236 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ethel-m-dell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ethel M. Dell; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:21:49-05:00",
+      "finished": "2026-10-22T22:21:49-05:00",
+      "notes": "ethel-m-dell: new shelf, 18 Gutenberg books, 66,934 units, 2621 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "james-de-mille",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — James De Mille; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:22:06-05:00",
+      "finished": "2026-10-22T22:22:06-05:00",
+      "notes": "james-de-mille: new shelf, 17 Gutenberg books, 41,416 units, 306 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "f-anstey",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — F. Anstey; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:22:22-05:00",
+      "finished": "2026-10-22T22:22:22-05:00",
+      "notes": "f-anstey: new shelf, 17 Gutenberg books, 25,852 units, 2674 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "sarah-tytler",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Sarah Tytler; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:22:54-05:00",
+      "finished": "2026-10-22T22:22:54-05:00",
+      "notes": "sarah-tytler: new shelf, 17 Gutenberg books, 12,957 units, 632 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-b-reeve",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur B. Reeve; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:23:11-05:00",
+      "finished": "2026-10-22T22:23:11-05:00",
+      "notes": "arthur-b-reeve: new shelf, 16 Gutenberg books, 35,907 units, 351 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "alfred-henry-lewis",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Alfred Henry Lewis; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:23:28-05:00",
+      "finished": "2026-10-22T22:23:28-05:00",
+      "notes": "alfred-henry-lewis: new shelf, 16 Gutenberg books, 21,941 units, 145 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ruth-lamb",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ruth Lamb; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:23:45-05:00",
+      "finished": "2026-10-22T22:23:45-05:00",
+      "notes": "ruth-lamb: new shelf, 17 Gutenberg books, 12,453 units, 1546 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "prentiss-ingraham",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Prentiss Ingraham; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:17-05:00",
+      "finished": "2026-10-22T22:24:17-05:00",
+      "notes": "prentiss-ingraham: new shelf, 17 Gutenberg books, 43,730 units, 52 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "cyrus-townsend-brady",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Cyrus Townsend Brady; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:34-05:00",
+      "finished": "2026-10-22T22:24:34-05:00",
+      "notes": "cyrus-townsend-brady: new shelf, 17 Gutenberg books, 26,856 units, 133 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "marion-ames-taggart",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Marion Ames Taggart; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:36-05:00",
+      "finished": "2026-10-22T22:24:36-05:00",
+      "notes": "marion-ames-taggart: new shelf, 16 Gutenberg books, 20,885 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "randall-parrish",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Randall Parrish; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:38-05:00",
+      "finished": "2026-10-22T22:24:38-05:00",
+      "notes": "randall-parrish: new shelf, 15 Gutenberg books, 27,234 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "r-austin-freeman",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — R. Austin Freeman; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:40-05:00",
+      "finished": "2026-10-22T22:24:40-05:00",
+      "notes": "r-austin-freeman: new shelf, 16 Gutenberg books, 28,887 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ralph-connor",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ralph Connor; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:42-05:00",
+      "finished": "2026-10-22T22:24:42-05:00",
+      "notes": "ralph-connor: new shelf, 15 Gutenberg books, 32,450 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "guy-boothby",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Guy Boothby; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:43-05:00",
+      "finished": "2026-10-22T22:24:43-05:00",
+      "notes": "guy-boothby: new shelf, 16 Gutenberg books, 22,130 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "rolf-boldrewood",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Rolf Boldrewood; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:46-05:00",
+      "finished": "2026-10-22T22:24:46-05:00",
+      "notes": "rolf-boldrewood: new shelf, 16 Gutenberg books, 26,164 units, 306 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "constance-fenimore-woolson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Constance Fenimore Woolson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:48-05:00",
+      "finished": "2026-10-22T22:24:48-05:00",
+      "notes": "constance-fenimore-woolson: new shelf, 15 Gutenberg books, 24,823 units, 981 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "talbot-mundy",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Talbot Mundy; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:49-05:00",
+      "finished": "2026-10-22T22:24:49-05:00",
+      "notes": "talbot-mundy: new shelf, 15 Gutenberg books, 27,969 units, 1038 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "s-weir-mitchell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — S. Weir Mitchell; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:51-05:00",
+      "finished": "2026-10-22T22:24:51-05:00",
+      "notes": "s-weir-mitchell: new shelf, 15 Gutenberg books, 22,091 units, 485 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "helen-hunt-jackson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Helen Hunt Jackson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:53-05:00",
+      "finished": "2026-10-22T22:24:53-05:00",
+      "notes": "helen-hunt-jackson: new shelf, 14 Gutenberg books, 14,725 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "julian-hawthorne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Julian Hawthorne; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:54-05:00",
+      "finished": "2026-10-22T22:24:54-05:00",
+      "notes": "julian-hawthorne: new shelf, 15 Gutenberg books, 13,184 units, 616 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "john-habberton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — John Habberton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:56-05:00",
+      "finished": "2026-10-22T22:24:56-05:00",
+      "notes": "john-habberton: new shelf, 14 Gutenberg books, 18,744 units, 166 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harold-frederic",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Harold Frederic; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:58-05:00",
+      "finished": "2026-10-22T22:24:58-05:00",
+      "notes": "harold-frederic: new shelf, 14 Gutenberg books, 17,826 units, 136 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "rosa-nouchette-carey",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Rosa Nouchette Carey; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:25:00-05:00",
+      "finished": "2026-10-22T22:25:00-05:00",
+      "notes": "rosa-nouchette-carey: new shelf, 14 Gutenberg books, 33,129 units, 2240 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "john-fox-jr",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — John Fox Jr.; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:25:01-05:00",
+      "finished": "2026-10-22T22:25:01-05:00",
+      "notes": "john-fox-jr: new shelf, 13 Gutenberg books, 10,427 units, 64 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "max-brand",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Max Brand; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:29:07-05:00",
+      "finished": "2026-10-22T22:29:07-05:00",
+      "notes": "max-brand: new shelf, 18 Gutenberg books, 31,214 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags (The Garden of Eden taken: copyright 1922, renewed 1950)."
+    },
+    {
+      "id": "hugh-walpole",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hugh Walpole; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:29:40-05:00",
+      "finished": "2026-10-22T22:29:40-05:00",
+      "notes": "hugh-walpole: new shelf, 18 Gutenberg books, 38,378 units, 6416 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "anne-douglas-sedgwick",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Anne Douglas Sedgwick; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:29:57-05:00",
+      "finished": "2026-10-22T22:29:57-05:00",
+      "notes": "anne-douglas-sedgwick: new shelf, 17 Gutenberg books, 26,119 units, 4279 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "nell-speed",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Nell Speed; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:30:13-05:00",
+      "finished": "2026-10-22T22:30:13-05:00",
+      "notes": "nell-speed: new shelf, 15 Gutenberg books, 19,497 units, 170 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "richard-dowling",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Richard Dowling; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:30:30-05:00",
+      "finished": "2026-10-22T22:30:30-05:00",
+      "notes": "richard-dowling: new shelf, 16 Gutenberg books, 18,789 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "louis-joseph-vance",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Louis Joseph Vance; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:31:02-05:00",
+      "finished": "2026-10-22T22:31:02-05:00",
+      "notes": "louis-joseph-vance: new shelf, 15 Gutenberg books, 36,443 units, 129 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "david-christie-murray",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — David Christie Murray; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:31:18-05:00",
+      "finished": "2026-10-22T22:31:18-05:00",
+      "notes": "david-christie-murray: new shelf, 15 Gutenberg books, 10,354 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "samuel-merwin",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Samuel Merwin; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:31:35-05:00",
+      "finished": "2026-10-22T22:31:35-05:00",
+      "notes": "samuel-merwin: new shelf, 13 Gutenberg books, 25,279 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "sydney-c-grier",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Sydney C. Grier; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:31:52-05:00",
+      "finished": "2026-10-22T22:31:52-05:00",
+      "notes": "sydney-c-grier: new shelf, 15 Gutenberg books, 30,849 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "zona-gale",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Zona Gale; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:32:09-05:00",
+      "finished": "2026-10-22T22:32:09-05:00",
+      "notes": "zona-gale: new shelf, 14 Gutenberg books, 20,206 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "holman-day",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Holman Day; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:32:25-05:00",
+      "finished": "2026-10-22T22:32:25-05:00",
+      "notes": "holman-day: new shelf, 14 Gutenberg books, 36,916 units, 4417 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "whyte-melville",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — G. J. Whyte-Melville; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:32:43-05:00",
+      "finished": "2026-10-22T22:32:43-05:00",
+      "notes": "whyte-melville: new shelf, 14 Gutenberg books, 20,696 units, 61 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "fred-m-white",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Fred M. White; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:00-05:00",
+      "finished": "2026-10-22T22:33:00-05:00",
+      "notes": "fred-m-white: new shelf, 14 Gutenberg books, 23,994 units, 392 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "laura-rountree-smith",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Laura Rountree Smith; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:16-05:00",
+      "finished": "2026-10-22T22:33:16-05:00",
+      "notes": "laura-rountree-smith: new shelf, 14 Gutenberg books, 8,684 units, 383 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "martin-ross",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Martin Ross; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:32-05:00",
+      "finished": "2026-10-22T22:33:32-05:00",
+      "notes": "martin-ross: new shelf, 14 Gutenberg books, 15,052 units, 261 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "myrtle-reed",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Myrtle Reed; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:34-05:00",
+      "finished": "2026-10-22T22:33:34-05:00",
+      "notes": "myrtle-reed: new shelf, 14 Gutenberg books, 25,115 units, 108 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "susanna-moodie",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Susanna Moodie; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:35-05:00",
+      "finished": "2026-10-22T22:33:35-05:00",
+      "notes": "susanna-moodie: new shelf, 14 Gutenberg books, 17,198 units, 13 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "thomas-a-janvier",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Thomas A. Janvier; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:36-05:00",
+      "finished": "2026-10-22T22:33:36-05:00",
+      "notes": "thomas-a-janvier: new shelf, 14 Gutenberg books, 4,101 units, 376 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "will-n-harben",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Will N. Harben; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:38-05:00",
+      "finished": "2026-10-22T22:33:38-05:00",
+      "notes": "will-n-harben: new shelf, 14 Gutenberg books, 23,077 units, 2768 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jackson-gregory",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Jackson Gregory; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:40-05:00",
+      "finished": "2026-10-22T22:33:40-05:00",
+      "notes": "jackson-gregory: new shelf, 13 Gutenberg books, 20,857 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-gibbs",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Gibbs; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:42-05:00",
+      "finished": "2026-10-22T22:33:42-05:00",
+      "notes": "george-gibbs: new shelf, 13 Gutenberg books, 32,909 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "james-lane-allen",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — James Lane Allen; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:43-05:00",
+      "finished": "2026-10-22T22:33:43-05:00",
+      "notes": "james-lane-allen: new shelf, 14 Gutenberg books, 10,775 units, 1463 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-train",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur Train; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:45-05:00",
+      "finished": "2026-10-22T22:33:45-05:00",
+      "notes": "arthur-train: new shelf, 12 Gutenberg books, 14,974 units, 741 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "garrett-p-serviss",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Garrett P. Serviss; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:46-05:00",
+      "finished": "2026-10-22T22:33:46-05:00",
+      "notes": "garrett-p-serviss: new shelf, 12 Gutenberg books, 19,120 units, 166 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "natalie-sumner-lincoln",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Natalie Sumner Lincoln; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:48-05:00",
+      "finished": "2026-10-22T22:33:48-05:00",
+      "notes": "natalie-sumner-lincoln: new shelf, 13 Gutenberg books, 24,264 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "basil-king",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Basil King; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:50-05:00",
+      "finished": "2026-10-22T22:33:50-05:00",
+      "notes": "basil-king: new shelf, 13 Gutenberg books, 28,315 units, 1064 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hulbert-footner",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hulbert Footner; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:52-05:00",
+      "finished": "2026-10-22T22:33:52-05:00",
+      "notes": "hulbert-footner: new shelf, 13 Gutenberg books, 33,668 units, 1175 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frank-t-bullen",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frank T. Bullen; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:53-05:00",
+      "finished": "2026-10-22T22:33:53-05:00",
+      "notes": "frank-t-bullen: new shelf, 13 Gutenberg books, 7,238 units, 84 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "may-agnes-fleming",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — May Agnes Fleming; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:55-05:00",
+      "finished": "2026-10-22T22:33:55-05:00",
+      "notes": "may-agnes-fleming: new shelf, 12 Gutenberg books, 34,149 units, 146 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harold-bell-wright",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Harold Bell Wright; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:57-05:00",
+      "finished": "2026-10-22T22:33:57-05:00",
+      "notes": "harold-bell-wright: new shelf, 11 Gutenberg books, 18,704 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edgar-saltus",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edgar Saltus; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:36:33-05:00",
+      "finished": "2026-10-22T22:36:33-05:00",
+      "notes": "edgar-saltus: new shelf, 15 Gutenberg books, 13,845 units, 230 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bloundelle-burton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — John Bloundelle-Burton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:36:49-05:00",
+      "finished": "2026-10-22T22:36:49-05:00",
+      "notes": "bloundelle-burton: new shelf, 14 Gutenberg books, 20,599 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arlo-bates",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arlo Bates; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:37:06-05:00",
+      "finished": "2026-10-22T22:37:06-05:00",
+      "notes": "arlo-bates: new shelf, 14 Gutenberg books, 19,984 units, 404 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-russell-mitford",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Russell Mitford; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:37:22-05:00",
+      "finished": "2026-10-22T22:37:22-05:00",
+      "notes": "mary-russell-mitford: new shelf, 13 Gutenberg books, 818 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "aunt-fanny",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Aunt Fanny (Frances Elizabeth Barrow); no minting",
+      "status": "done",
+      "started": "2026-10-22T22:37:38-05:00",
+      "finished": "2026-10-22T22:37:38-05:00",
+      "notes": "aunt-fanny: new shelf, 13 Gutenberg books, 5,967 units, 235 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-imlay-taylor",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Imlay Taylor; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:37:54-05:00",
+      "finished": "2026-10-22T22:37:54-05:00",
+      "notes": "mary-imlay-taylor: new shelf, 12 Gutenberg books, 19,916 units, 259 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-w-marchmont",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur W. Marchmont; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:38:11-05:00",
+      "finished": "2026-10-22T22:38:11-05:00",
+      "notes": "arthur-w-marchmont: new shelf, 12 Gutenberg books, 39,187 units, 41 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "maria-thompson-daviess",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Maria Thompson Daviess; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:38:27-05:00",
+      "finished": "2026-10-22T22:38:27-05:00",
+      "notes": "maria-thompson-daviess: new shelf, 12 Gutenberg books, 9,649 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "will-levington-comfort",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Will Levington Comfort; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:38:44-05:00",
+      "finished": "2026-10-22T22:38:44-05:00",
+      "notes": "will-levington-comfort: new shelf, 12 Gutenberg books, 19,021 units, 69 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "geraldine-bonner",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Geraldine Bonner; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:01-05:00",
+      "finished": "2026-10-22T22:39:01-05:00",
+      "notes": "geraldine-bonner: new shelf, 12 Gutenberg books, 21,021 units, 3855 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "dillon-wallace",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Dillon Wallace; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:17-05:00",
+      "finished": "2026-10-22T22:39:17-05:00",
+      "notes": "dillon-wallace: new shelf, 11 Gutenberg books, 13,161 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "margaret-m-robertson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Margaret M. Robertson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:33-05:00",
+      "finished": "2026-10-22T22:39:33-05:00",
+      "notes": "margaret-m-robertson: new shelf, 11 Gutenberg books, 20,689 units, 162 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-w-peck",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George W. Peck; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:35-05:00",
+      "finished": "2026-10-22T22:39:35-05:00",
+      "notes": "george-w-peck: new shelf, 10 Gutenberg books, 5,606 units, 136 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frances-trego-montgomery",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frances Trego Montgomery; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:51-05:00",
+      "finished": "2026-10-22T22:39:51-05:00",
+      "notes": "frances-trego-montgomery: new shelf, 11 Gutenberg books, 6,883 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "alice-duer-miller",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Alice Duer Miller; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:52-05:00",
+      "finished": "2026-10-22T22:39:52-05:00",
+      "notes": "alice-duer-miller: new shelf, 11 Gutenberg books, 12,739 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "archibald-marshall",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Archibald Marshall; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:53-05:00",
+      "finished": "2026-10-22T22:39:53-05:00",
+      "notes": "archibald-marshall: new shelf, 11 Gutenberg books, 16,638 units, 40 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "annette-lyster",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Annette Lyster; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:55-05:00",
+      "finished": "2026-10-22T22:39:55-05:00",
+      "notes": "annette-lyster: new shelf, 11 Gutenberg books, 10,447 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-griffith",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Griffith; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:57-05:00",
+      "finished": "2026-10-22T22:39:57-05:00",
+      "notes": "george-griffith: new shelf, 11 Gutenberg books, 15,787 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "homer-greene",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Homer Greene; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:58-05:00",
+      "finished": "2026-10-22T22:39:58-05:00",
+      "notes": "homer-greene: new shelf, 11 Gutenberg books, 15,025 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "fanny-fern",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Fanny Fern (Sara Payson Willis); no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:00-05:00",
+      "finished": "2026-10-22T22:40:00-05:00",
+      "notes": "fanny-fern: new shelf, 11 Gutenberg books, 10,845 units, 151 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "sara-jeannette-duncan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Sara Jeannette Duncan; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:01-05:00",
+      "finished": "2026-10-22T22:40:01-05:00",
+      "notes": "sara-jeannette-duncan: new shelf, 11 Gutenberg books, 12,338 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "norman-duncan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Norman Duncan; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:02-05:00",
+      "finished": "2026-10-22T22:40:02-05:00",
+      "notes": "norman-duncan: new shelf, 11 Gutenberg books, 16,364 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "margaret-deland",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Margaret Deland; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:04-05:00",
+      "finished": "2026-10-22T22:40:04-05:00",
+      "notes": "margaret-deland: new shelf, 11 Gutenberg books, 16,645 units, 1302 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harriet-t-comstock",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Harriet T. Comstock; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:05-05:00",
+      "finished": "2026-10-22T22:40:05-05:00",
+      "notes": "harriet-t-comstock: new shelf, 11 Gutenberg books, 22,281 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-cholmondeley",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Cholmondeley; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:07-05:00",
+      "finished": "2026-10-22T22:40:07-05:00",
+      "notes": "mary-cholmondeley: new shelf, 11 Gutenberg books, 16,883 units, 936 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hezekiah-butterworth",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hezekiah Butterworth; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:08-05:00",
+      "finished": "2026-10-22T22:40:08-05:00",
+      "notes": "hezekiah-butterworth: new shelf, 11 Gutenberg books, 19,439 units, 533 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "clara-louise-burnham",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Clara Louise Burnham; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:09-05:00",
+      "finished": "2026-10-22T22:40:09-05:00",
+      "notes": "clara-louise-burnham: new shelf, 11 Gutenberg books, 28,067 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charlotte-m-brame",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charlotte M. Brame; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:11-05:00",
+      "finished": "2026-10-22T22:40:11-05:00",
+      "notes": "charlotte-m-brame: new shelf, 11 Gutenberg books, 20,558 units, 127 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frank-norris",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frank Norris; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:12-05:00",
+      "finished": "2026-10-22T22:40:12-05:00",
+      "notes": "frank-norris: new shelf, 10 Gutenberg books, 16,149 units, 1072 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "anne-warner",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Anne Warner; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:42:11-05:00",
+      "finished": "2026-10-22T22:42:11-05:00",
+      "notes": "anne-warner: new shelf, 10 Gutenberg books, 15,734 units, 152 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "amy-walton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Amy Walton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:42:27-05:00",
+      "finished": "2026-10-22T22:42:27-05:00",
+      "notes": "amy-walton: new shelf, 10 Gutenberg books, 8,122 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eva-march-tappan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Eva March Tappan; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:42:44-05:00",
+      "finished": "2026-10-22T22:42:44-05:00",
+      "notes": "eva-march-tappan: new shelf, 10 Gutenberg books, 5,989 units, 74 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "robert-neilson-stephens",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Robert Neilson Stephens; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:43:00-05:00",
+      "finished": "2026-10-22T22:43:00-05:00",
+      "notes": "robert-neilson-stephens: new shelf, 10 Gutenberg books, 17,156 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-alden-seltzer",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charles Alden Seltzer; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:43:17-05:00",
+      "finished": "2026-10-22T22:43:17-05:00",
+      "notes": "charles-alden-seltzer: new shelf, 10 Gutenberg books, 16,713 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hl-sayler",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — H. L. Sayler; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:43:18-05:00",
+      "finished": "2026-10-22T22:43:18-05:00",
+      "notes": "hl-sayler: new shelf, 10 Gutenberg books, 13,720 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "major-john-richardson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — John Richardson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:43:34-05:00",
+      "finished": "2026-10-22T22:43:34-05:00",
+      "notes": "major-john-richardson: new shelf, 10 Gutenberg books, 9,619 units, 1276 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "alice-hegan-rice",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Alice Hegan Rice; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:43:50-05:00",
+      "finished": "2026-10-22T22:43:50-05:00",
+      "notes": "alice-hegan-rice: new shelf, 10 Gutenberg books, 13,646 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "helen-leah-reed",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Helen Leah Reed; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:44:07-05:00",
+      "finished": "2026-10-22T22:44:07-05:00",
+      "notes": "helen-leah-reed: new shelf, 10 Gutenberg books, 13,294 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "opie-read",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Opie Read; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:44:08-05:00",
+      "finished": "2026-10-22T22:44:08-05:00",
+      "notes": "opie-read: new shelf, 10 Gutenberg books, 16,281 units, 67 ~2 ids; verify 0 mismatches, 0 rights flags (Up Terrapin River checks for his full name, as its Gutenberg header gives it)."
+    },
+    {
+      "id": "anna-chapin-ray",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Anna Chapin Ray; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:44:24-05:00",
+      "finished": "2026-10-22T22:44:24-05:00",
+      "notes": "anna-chapin-ray: new shelf, 10 Gutenberg books, 17,992 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mabel-quiller-couch",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mabel Quiller-Couch; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:44:41-05:00",
+      "finished": "2026-10-22T22:44:41-05:00",
+      "notes": "mabel-quiller-couch: new shelf, 10 Gutenberg books, 9,818 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "j-macdonald-oxley",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — J. Macdonald Oxley; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:44:57-05:00",
+      "finished": "2026-10-22T22:44:57-05:00",
+      "notes": "j-macdonald-oxley: new shelf, 10 Gutenberg books, 8,372 units, 79 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "john-oxenham",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — John Oxenham; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:13-05:00",
+      "finished": "2026-10-22T22:45:13-05:00",
+      "notes": "john-oxenham: new shelf, 10 Gutenberg books, 20,971 units, 897 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "neil-munro",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Neil Munro; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:14-05:00",
+      "finished": "2026-10-22T22:45:14-05:00",
+      "notes": "neil-munro: new shelf, 9 Gutenberg books, 12,334 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "egerton-castle",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Egerton Castle; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:16-05:00",
+      "finished": "2026-10-22T22:45:16-05:00",
+      "notes": "egerton-castle: new shelf, 10 Gutenberg books, 18,865 units, 1406 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ada-cambridge",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ada Cambridge; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:17-05:00",
+      "finished": "2026-10-22T22:45:17-05:00",
+      "notes": "ada-cambridge: new shelf, 10 Gutenberg books, 9,388 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "saki",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Saki (H. H. Munro); no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:18-05:00",
+      "finished": "2026-10-22T22:45:18-05:00",
+      "notes": "saki: new shelf, 9 Gutenberg books, 6,609 units, 160 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "morley-roberts",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Morley Roberts; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:20-05:00",
+      "finished": "2026-10-22T22:45:20-05:00",
+      "notes": "morley-roberts: new shelf, 9 Gutenberg books, 11,679 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "james-payn",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — James Payn; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:21-05:00",
+      "finished": "2026-10-22T22:45:21-05:00",
+      "notes": "james-payn: new shelf, 9 Gutenberg books, 7,168 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "barry-pain",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Barry Pain; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:22-05:00",
+      "finished": "2026-10-22T22:45:22-05:00",
+      "notes": "barry-pain: new shelf, 9 Gutenberg books, 9,416 units, 354 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-morrison",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur Morrison; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:23-05:00",
+      "finished": "2026-10-22T22:45:23-05:00",
+      "notes": "arthur-morrison: new shelf, 9 Gutenberg books, 8,772 units, 1431 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "don-marquis",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Don Marquis; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:24-05:00",
+      "finished": "2026-10-22T22:45:24-05:00",
+      "notes": "don-marquis: new shelf, 7 Gutenberg books, 8,144 units, 39 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-lawson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry Lawson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:25-05:00",
+      "finished": "2026-10-22T22:45:25-05:00",
+      "notes": "henry-lawson: new shelf, 8 Gutenberg books, 9,466 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elijah-kellogg",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elijah Kellogg; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:27-05:00",
+      "finished": "2026-10-22T22:45:27-05:00",
+      "notes": "elijah-kellogg: new shelf, 9 Gutenberg books, 13,658 units, 20 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "augusta-j-evans",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Augusta J. Evans; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:28-05:00",
+      "finished": "2026-10-22T22:45:28-05:00",
+      "notes": "augusta-j-evans: new shelf, 9 Gutenberg books, 24,864 units, 221 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "dane-coolidge",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Dane Coolidge; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:30-05:00",
+      "finished": "2026-10-22T22:45:30-05:00",
+      "notes": "dane-coolidge: new shelf, 9 Gutenberg books, 12,134 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "everett-t-tomlinson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Everett T. Tomlinson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:31-05:00",
+      "finished": "2026-10-22T22:45:31-05:00",
+      "notes": "everett-t-tomlinson: new shelf, 9 Gutenberg books, 15,211 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frank-h-spearman",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frank H. Spearman; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:33-05:00",
+      "finished": "2026-10-22T22:45:33-05:00",
+      "notes": "frank-h-spearman: new shelf, 9 Gutenberg books, 15,615 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "florence-l-barclay",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Florence L. Barclay; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:34-05:00",
+      "finished": "2026-10-22T22:45:34-05:00",
+      "notes": "florence-l-barclay: new shelf, 8 Gutenberg books, 12,680 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mabel-osgood-wright",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mabel Osgood Wright; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:47:44-05:00",
+      "finished": "2026-10-22T22:47:44-05:00",
+      "notes": "mabel-osgood-wright: new shelf, 9 Gutenberg books, 13,197 units, 80 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frances-mary-peard",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frances Mary Peard; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:48:00-05:00",
+      "finished": "2026-10-22T22:48:00-05:00",
+      "notes": "frances-mary-peard: new shelf, 9 Gutenberg books, 15,508 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "roy-norton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Roy Norton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:48:16-05:00",
+      "finished": "2026-10-22T22:48:16-05:00",
+      "notes": "roy-norton: new shelf, 9 Gutenberg books, 3,441 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "blanche-mcmanus",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Blanche McManus; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:48:17-05:00",
+      "finished": "2026-10-22T22:48:17-05:00",
+      "notes": "blanche-mcmanus: new shelf, 9 Gutenberg books, 6,299 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "anne-manning",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Anne Manning; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:48:33-05:00",
+      "finished": "2026-10-22T22:48:33-05:00",
+      "notes": "anne-manning: new shelf, 9 Gutenberg books, 8,709 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-leverage",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry Leverage; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:48:49-05:00",
+      "finished": "2026-10-22T22:48:49-05:00",
+      "notes": "henry-leverage: new shelf, 9 Gutenberg books, 7,282 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "tc-harbaugh",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — T. C. Harbaugh; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:48:51-05:00",
+      "finished": "2026-10-22T22:48:51-05:00",
+      "notes": "tc-harbaugh: new shelf, 9 Gutenberg books, 9,617 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elizabeth-gordon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elizabeth Gordon; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:07-05:00",
+      "finished": "2026-10-22T22:49:07-05:00",
+      "notes": "elizabeth-gordon: new shelf, 9 Gutenberg books, 2,739 units, 299 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ge-farrow",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — G. E. Farrow; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:23-05:00",
+      "finished": "2026-10-22T22:49:23-05:00",
+      "notes": "ge-farrow: new shelf, 9 Gutenberg books, 8,182 units, 98 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "madeline-brandeis",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Madeline Brandeis; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:24-05:00",
+      "finished": "2026-10-22T22:49:24-05:00",
+      "notes": "madeline-brandeis: new shelf, 5 Gutenberg books, 3,246 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags (Little Philippe of Belgium (copyright 1930) taken after the scan was corrected to let 1930 through)."
+    },
+    {
+      "id": "frederick-orin-bartlett",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frederick Orin Bartlett; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:40-05:00",
+      "finished": "2026-10-22T22:49:40-05:00",
+      "notes": "frederick-orin-bartlett: new shelf, 9 Gutenberg books, 19,019 units, 30 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-w-whistler",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charles W. Whistler; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:57-05:00",
+      "finished": "2026-10-22T22:49:57-05:00",
+      "notes": "charles-w-whistler: new shelf, 8 Gutenberg books, 16,054 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "allen-upward",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Allen Upward; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:58-05:00",
+      "finished": "2026-10-22T22:49:58-05:00",
+      "notes": "allen-upward: new shelf, 8 Gutenberg books, 14,748 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "catharine-parr-traill",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Catharine Parr Traill; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:14-05:00",
+      "finished": "2026-10-22T22:50:14-05:00",
+      "notes": "catharine-parr-traill: new shelf, 8 Gutenberg books, 5,132 units, 161 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mabell-sc-smith",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mabell S. C. Smith; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:16-05:00",
+      "finished": "2026-10-22T22:50:16-05:00",
+      "notes": "mabell-sc-smith: new shelf, 8 Gutenberg books, 12,626 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-e-ropes",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary E. Ropes; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:17-05:00",
+      "finished": "2026-10-22T22:50:17-05:00",
+      "notes": "mary-e-ropes: new shelf, 8 Gutenberg books, 4,279 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "roger-pocock",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Roger Pocock; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:18-05:00",
+      "finished": "2026-10-22T22:50:18-05:00",
+      "notes": "roger-pocock: new shelf, 8 Gutenberg books, 13,494 units, 1316 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "old-sleuth",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Old Sleuth (Harlan Page Halsey); no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:19-05:00",
+      "finished": "2026-10-22T22:50:19-05:00",
+      "notes": "old-sleuth: new shelf, 8 Gutenberg books, 13,026 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hc-mcneile",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — H. C. McNeile (Sapper); no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:21-05:00",
+      "finished": "2026-10-22T22:50:21-05:00",
+      "notes": "hc-mcneile: new shelf, 8 Gutenberg books, 10,532 units, 2173 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "lucy-foster-madison",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Lucy Foster Madison; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:22-05:00",
+      "finished": "2026-10-22T22:50:22-05:00",
+      "notes": "lucy-foster-madison: new shelf, 8 Gutenberg books, 15,071 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "robert-leighton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Robert Leighton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:23-05:00",
+      "finished": "2026-10-22T22:50:23-05:00",
+      "notes": "robert-leighton: new shelf, 8 Gutenberg books, 11,770 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-herbert-knibbs",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry Herbert Knibbs; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:25-05:00",
+      "finished": "2026-10-22T22:50:25-05:00",
+      "notes": "henry-herbert-knibbs: new shelf, 8 Gutenberg books, 14,451 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "herbert-jenkins",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Herbert Jenkins; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:26-05:00",
+      "finished": "2026-10-22T22:50:26-05:00",
+      "notes": "herbert-jenkins: new shelf, 8 Gutenberg books, 18,512 units, 952 ~2 ids; verify 0 mismatches, 0 rights flags (Malcolm Sage, Detective checks for his full name, as its Gutenberg header gives it)."
+    },
+    {
+      "id": "cutcliffe-hyne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — C. J. Cutcliffe Hyne; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:27-05:00",
+      "finished": "2026-10-22T22:50:27-05:00",
+      "notes": "cutcliffe-hyne: new shelf, 8 Gutenberg books, 10,502 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "thomas-w-hanshew",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Thomas W. Hanshew; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:29-05:00",
+      "finished": "2026-10-22T22:50:29-05:00",
+      "notes": "thomas-w-hanshew: new shelf, 8 Gutenberg books, 12,450 units, 646 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edith-k-dunton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edith K. Dunton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:30-05:00",
+      "finished": "2026-10-22T22:50:30-05:00",
+      "notes": "edith-k-dunton: new shelf, 8 Gutenberg books, 11,731 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "j-storer-clouston",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — J. Storer Clouston; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:31-05:00",
+      "finished": "2026-10-22T22:50:31-05:00",
+      "notes": "j-storer-clouston: new shelf, 8 Gutenberg books, 16,833 units, 2498 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jos-e-badger",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Joseph E. Badger; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:32-05:00",
+      "finished": "2026-10-22T22:50:32-05:00",
+      "notes": "jos-e-badger: new shelf, 8 Gutenberg books, 7,527 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "emily-ponsonby",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Lady Emily Ponsonby; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:34-05:00",
+      "finished": "2026-10-22T22:50:34-05:00",
+      "notes": "emily-ponsonby: new shelf, 11 Gutenberg books, 10,535 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-shelley-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Shelley; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:55:32-05:00",
+      "finished": "2026-10-22T22:55:32-05:00",
+      "notes": "mary-shelley-works: new shelf, 22 Gutenberg books, 15,728 units, 2677 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "stoker-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Bram Stoker; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:55:48-05:00",
+      "finished": "2026-10-22T22:55:48-05:00",
+      "notes": "stoker-works: new shelf, 10 Gutenberg books, 15,338 units, 811 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "forster-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — E. M. Forster; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:56:05-05:00",
+      "finished": "2026-10-22T22:56:05-05:00",
+      "notes": "forster-works: new shelf, 11 Gutenberg books, 12,778 units, 263 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "christie-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Agatha Christie; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:56:21-05:00",
+      "finished": "2026-10-22T22:56:21-05:00",
+      "notes": "christie-works: new shelf, 16 Gutenberg books, 39,475 units, 664 ~2 ids; verify 0 mismatches, 0 rights flags (The Big Four, The Seven Dials Mystery and The Mysterious Mr. Quin taken: their texts carry the 1927-1930 copyright and its renewal, which is no sign of later matter)."
+    },
+    {
+      "id": "terhune-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Albert Payson Terhune; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:56:38-05:00",
+      "finished": "2026-10-22T22:56:38-05:00",
+      "notes": "terhune-works: new shelf, 13 Gutenberg books, 17,192 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "dcfisher-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Dorothy Canfield Fisher; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:56:54-05:00",
+      "finished": "2026-10-22T22:56:54-05:00",
+      "notes": "dcfisher-works: new shelf, 12 Gutenberg books, 19,433 units, 394 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eggleston-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edward Eggleston; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:57:11-05:00",
+      "finished": "2026-10-22T22:57:11-05:00",
+      "notes": "eggleston-works: new shelf, 12 Gutenberg books, 13,899 units, 1072 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "von-arnim-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elizabeth von Arnim; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:57:27-05:00",
+      "finished": "2026-10-22T22:57:27-05:00",
+      "notes": "von-arnim-works: new shelf, 15 Gutenberg books, 23,240 units, 933 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-morris-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Morris; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:58:14-05:00",
+      "finished": "2026-10-22T22:58:14-05:00",
+      "notes": "william-morris-works: new shelf, 27 Gutenberg books, 22,226 units, 933 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ev-lucas",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — E. V. Lucas; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:58:31-05:00",
+      "finished": "2026-10-22T22:58:31-05:00",
+      "notes": "ev-lucas: new shelf, 21 Gutenberg books, 22,635 units, 736 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "guy-thorne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Guy Thorne; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:03-05:00",
+      "finished": "2026-10-22T22:59:03-05:00",
+      "notes": "guy-thorne: new shelf, 17 Gutenberg books, 28,337 units, 101 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "samuel-hopkins-adams",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Samuel Hopkins Adams; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:04-05:00",
+      "finished": "2026-10-22T22:59:04-05:00",
+      "notes": "samuel-hopkins-adams: new shelf, 15 Gutenberg books, 38,545 units, 6387 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elizabeth-stuart-phelps",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elizabeth Stuart Phelps; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:06-05:00",
+      "finished": "2026-10-22T22:59:06-05:00",
+      "notes": "elizabeth-stuart-phelps: new shelf, 15 Gutenberg books, 11,795 units, 293 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "owen-wister",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Owen Wister; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:07-05:00",
+      "finished": "2026-10-22T22:59:07-05:00",
+      "notes": "owen-wister: new shelf, 14 Gutenberg books, 14,375 units, 342 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edna-ferber",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edna Ferber; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:08-05:00",
+      "finished": "2026-10-22T22:59:08-05:00",
+      "notes": "edna-ferber: new shelf, 13 Gutenberg books, 17,854 units, 82 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ford-madox-ford",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ford Madox Ford; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:09-05:00",
+      "finished": "2026-10-22T22:59:09-05:00",
+      "notes": "ford-madox-ford: new shelf, 13 Gutenberg books, 17,172 units, 4416 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "kathleen-norris",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Kathleen Norris; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:11-05:00",
+      "finished": "2026-10-22T22:59:11-05:00",
+      "notes": "kathleen-norris: new shelf, 13 Gutenberg books, 25,228 units, 5735 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elsie-singmaster",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elsie Singmaster; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:14-05:00",
+      "finished": "2026-10-22T22:59:14-05:00",
+      "notes": "elsie-singmaster: new shelf, 11 Gutenberg books, 12,621 units, 143 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edna-lyall",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edna Lyall; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:16-05:00",
+      "finished": "2026-10-22T22:59:16-05:00",
+      "notes": "edna-lyall: new shelf, 10 Gutenberg books, 21,825 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "max-beerbohm",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Max Beerbohm; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:17-05:00",
+      "finished": "2026-10-22T22:59:17-05:00",
+      "notes": "max-beerbohm: new shelf, 11 Gutenberg books, 4,114 units, 44 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harry-leon-wilson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Harry Leon Wilson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:19-05:00",
+      "finished": "2026-10-22T22:59:19-05:00",
+      "notes": "harry-leon-wilson: new shelf, 11 Gutenberg books, 21,059 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "justin-h-mccarthy",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Justin H. McCarthy; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:03:47-05:00",
+      "finished": "2026-10-22T23:03:47-05:00",
+      "notes": "justin-h-mccarthy: new shelf, 10 Gutenberg books, 10,477 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "robert-grant",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Robert Grant; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:04:03-05:00",
+      "finished": "2026-10-22T23:04:03-05:00",
+      "notes": "robert-grant: new shelf, 10 Gutenberg books, 9,959 units, 1256 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eliza-follen",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Eliza Lee Cabot Follen; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:04:20-05:00",
+      "finished": "2026-10-22T23:04:20-05:00",
+      "notes": "eliza-follen: new shelf, 10 Gutenberg books, 2,411 units, 37 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "sherwood-anderson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Sherwood Anderson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:04:36-05:00",
+      "finished": "2026-10-22T23:04:36-05:00",
+      "notes": "sherwood-anderson: new shelf, 10 Gutenberg books, 9,649 units, 2279 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-hornblow",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur Hornblow; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:04:37-05:00",
+      "finished": "2026-10-22T23:04:37-05:00",
+      "notes": "arthur-hornblow: new shelf, 8 Gutenberg books, 16,533 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-colton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur Colton; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:04:53-05:00",
+      "finished": "2026-10-22T23:04:53-05:00",
+      "notes": "arthur-colton: new shelf, 7 Gutenberg books, 8,429 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "lewis-wingfield",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Lewis Wingfield; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:04:54-05:00",
+      "finished": "2026-10-22T23:04:54-05:00",
+      "notes": "lewis-wingfield: new shelf, 7 Gutenberg books, 4,550 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "katharine-tynan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Katharine Tynan; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:05:10-05:00",
+      "finished": "2026-10-22T23:05:10-05:00",
+      "notes": "katharine-tynan: new shelf, 7 Gutenberg books, 7,975 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jt-trowbridge",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — J. T. Trowbridge; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:05:27-05:00",
+      "finished": "2026-10-22T23:05:27-05:00",
+      "notes": "jt-trowbridge: new shelf, 7 Gutenberg books, 13,956 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "wc-scully",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — W. C. Scully; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:05:28-05:00",
+      "finished": "2026-10-22T23:05:28-05:00",
+      "notes": "wc-scully: new shelf, 7 Gutenberg books, 5,613 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "leroy-scott",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Leroy Scott; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:05:44-05:00",
+      "finished": "2026-10-22T23:05:44-05:00",
+      "notes": "leroy-scott: new shelf, 7 Gutenberg books, 18,367 units, 34 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "john-reed-scott",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — John Reed Scott; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:05:45-05:00",
+      "finished": "2026-10-22T23:05:45-05:00",
+      "notes": "john-reed-scott: new shelf, 7 Gutenberg books, 21,042 units, 35 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "marah-ellis-ryan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Marah Ellis Ryan; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:02-05:00",
+      "finished": "2026-10-22T23:06:02-05:00",
+      "notes": "marah-ellis-ryan: new shelf, 7 Gutenberg books, 16,843 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-c-rowsell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary C. Rowsell; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:03-05:00",
+      "finished": "2026-10-22T23:06:03-05:00",
+      "notes": "mary-c-rowsell: new shelf, 7 Gutenberg books, 7,649 units, 29 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "nina-rhoades",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Nina Rhoades; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:19-05:00",
+      "finished": "2026-10-22T23:06:19-05:00",
+      "notes": "nina-rhoades: new shelf, 7 Gutenberg books, 10,348 units, 826 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "melville-davisson-post",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Melville Davisson Post; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:20-05:00",
+      "finished": "2026-10-22T23:06:20-05:00",
+      "notes": "melville-davisson-post: new shelf, 7 Gutenberg books, 9,159 units, 499 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-wallace-phillips",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry Wallace Phillips; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:21-05:00",
+      "finished": "2026-10-22T23:06:21-05:00",
+      "notes": "henry-wallace-phillips: new shelf, 7 Gutenberg books, 5,078 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "isabel-ostrander",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Isabel Ostrander; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:22-05:00",
+      "finished": "2026-10-22T23:06:22-05:00",
+      "notes": "isabel-ostrander: new shelf, 7 Gutenberg books, 12,164 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ruth-ogden",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ruth Ogden; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:23-05:00",
+      "finished": "2026-10-22T23:06:23-05:00",
+      "notes": "ruth-ogden: new shelf, 6 Gutenberg books, 4,645 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "honore-morrow",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Honoré Morrow; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:24-05:00",
+      "finished": "2026-10-22T23:06:24-05:00",
+      "notes": "honore-morrow: new shelf, 7 Gutenberg books, 18,072 units, 2139 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "louise-jordan-miln",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Louise Jordan Miln; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:25-05:00",
+      "finished": "2026-10-22T23:06:25-05:00",
+      "notes": "louise-jordan-miln: new shelf, 7 Gutenberg books, 12,721 units, 197 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "leonard-merrick",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Leonard Merrick; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:26-05:00",
+      "finished": "2026-10-22T23:06:26-05:00",
+      "notes": "leonard-merrick: new shelf, 7 Gutenberg books, 10,697 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "laura-jean-libbey",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Laura Jean Libbey; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:27-05:00",
+      "finished": "2026-10-22T23:06:27-05:00",
+      "notes": "laura-jean-libbey: new shelf, 7 Gutenberg books, 14,555 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edwin-lefevre",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edwin Lefevre; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:28-05:00",
+      "finished": "2026-10-22T23:06:28-05:00",
+      "notes": "edwin-lefevre: new shelf, 7 Gutenberg books, 11,027 units, 1083 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "nat-gould",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Nat Gould; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:29-05:00",
+      "finished": "2026-10-22T23:06:29-05:00",
+      "notes": "nat-gould: new shelf, 7 Gutenberg books, 14,811 units, 35 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "montague-glass",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Montague Glass; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:31-05:00",
+      "finished": "2026-10-22T23:06:31-05:00",
+      "notes": "montague-glass: new shelf, 7 Gutenberg books, 13,524 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "wa-fraser",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Alexander Fraser; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:32-05:00",
+      "finished": "2026-10-22T23:06:32-05:00",
+      "notes": "wa-fraser: new shelf, 7 Gutenberg books, 11,308 units, 194 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "paul-leicester-ford",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Paul Leicester Ford; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:33-05:00",
+      "finished": "2026-10-22T23:06:33-05:00",
+      "notes": "paul-leicester-ford: new shelf, 7 Gutenberg books, 14,641 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "richard-dehan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Richard Dehan; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:35-05:00",
+      "finished": "2026-10-22T23:06:35-05:00",
+      "notes": "richard-dehan: new shelf, 7 Gutenberg books, 24,370 units, 1591 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ernest-bramah",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ernest Bramah; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:36-05:00",
+      "finished": "2026-10-22T23:06:36-05:00",
+      "notes": "ernest-bramah: new shelf, 7 Gutenberg books, 9,969 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "marietta-holley",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Marietta Holley; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:09:12-05:00",
+      "finished": "2026-10-22T23:09:12-05:00",
+      "notes": "marietta-holley: new shelf, 29 Gutenberg books, 36,102 units, 117 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-garvice",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charles Garvice; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:09:29-05:00",
+      "finished": "2026-10-22T23:09:29-05:00",
+      "notes": "charles-garvice: new shelf, 12 Gutenberg books, 50,116 units, 70 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "herbert-carter",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Herbert Carter; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:09:46-05:00",
+      "finished": "2026-10-22T23:09:46-05:00",
+      "notes": "herbert-carter: new shelf, 12 Gutenberg books, 16,636 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-pitt-scargill",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Pitt Scargill; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:02-05:00",
+      "finished": "2026-10-22T23:10:02-05:00",
+      "notes": "william-pitt-scargill: new shelf, 9 Gutenberg books, 4,146 units, 618 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jessie-fothergill",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Jessie Fothergill; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:18-05:00",
+      "finished": "2026-10-22T23:10:18-05:00",
+      "notes": "jessie-fothergill: new shelf, 9 Gutenberg books, 15,123 units, 124 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "allan-pinkerton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Allan Pinkerton; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:19-05:00",
+      "finished": "2026-10-22T23:10:19-05:00",
+      "notes": "allan-pinkerton: new shelf, 7 Gutenberg books, 9,198 units, 870 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "f-w-bain",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — F. W. Bain; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:35-05:00",
+      "finished": "2026-10-22T23:10:35-05:00",
+      "notes": "f-w-bain: new shelf, 8 Gutenberg books, 2,138 units, 238 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "f-colburn-adams",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — F. Colburn Adams; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:37-05:00",
+      "finished": "2026-10-22T23:10:37-05:00",
+      "notes": "f-colburn-adams: new shelf, 8 Gutenberg books, 7,288 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "lurana-sheldon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Lurana Sheldon; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:52-05:00",
+      "finished": "2026-10-22T23:10:52-05:00",
+      "notes": "lurana-sheldon: new shelf, 7 Gutenberg books, 6,727 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-john-hopkins",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William John Hopkins; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:08-05:00",
+      "finished": "2026-10-22T23:11:08-05:00",
+      "notes": "william-john-hopkins: new shelf, 7 Gutenberg books, 8,673 units, 1218 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-v-hobart",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George V. Hobart; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:09-05:00",
+      "finished": "2026-10-22T23:11:09-05:00",
+      "notes": "george-v-hobart: new shelf, 7 Gutenberg books, 4,117 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-william-herbert",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry William Herbert; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:26-05:00",
+      "finished": "2026-10-22T23:11:26-05:00",
+      "notes": "henry-william-herbert: new shelf, 7 Gutenberg books, 9,801 units, 352 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "l-allen-harker",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — L. Allen Harker; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:27-05:00",
+      "finished": "2026-10-22T23:11:27-05:00",
+      "notes": "l-allen-harker: new shelf, 7 Gutenberg books, 12,497 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "willis-george-emerson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Willis George Emerson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:43-05:00",
+      "finished": "2026-10-22T23:11:43-05:00",
+      "notes": "willis-george-emerson: new shelf, 6 Gutenberg books, 8,262 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "christabel-r-coleridge",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Christabel R. Coleridge; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:44-05:00",
+      "finished": "2026-10-22T23:11:44-05:00",
+      "notes": "christabel-r-coleridge: new shelf, 7 Gutenberg books, 13,519 units, 44 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "heman-white-chaplin",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Heman White Chaplin; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:45-05:00",
+      "finished": "2026-10-22T23:11:45-05:00",
+      "notes": "heman-white-chaplin: new shelf, 7 Gutenberg books, 1,173 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "boyd-cable",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Boyd Cable; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:46-05:00",
+      "finished": "2026-10-22T23:11:46-05:00",
+      "notes": "boyd-cable: new shelf, 7 Gutenberg books, 6,131 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "rhoda-broughton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Rhoda Broughton; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:48-05:00",
+      "finished": "2026-10-22T23:11:48-05:00",
+      "notes": "rhoda-broughton: new shelf, 7 Gutenberg books, 16,627 units, 909 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hjalmar-hjorth-boyesen",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hjalmar Hjorth Boyesen; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:49-05:00",
+      "finished": "2026-10-22T23:11:49-05:00",
+      "notes": "hjalmar-hjorth-boyesen: new shelf, 7 Gutenberg books, 6,663 units, 776 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "kate-langley-bosher",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Kate Langley Bosher; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:50-05:00",
+      "finished": "2026-10-22T23:11:50-05:00",
+      "notes": "kate-langley-bosher: new shelf, 7 Gutenberg books, 4,766 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "robert-montgomery-bird",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Robert Montgomery Bird; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:51-05:00",
+      "finished": "2026-10-22T23:11:51-05:00",
+      "notes": "robert-montgomery-bird: new shelf, 7 Gutenberg books, 9,104 units, 825 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "w-l-alden",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — W. L. Alden; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:52-05:00",
+      "finished": "2026-10-22T23:11:52-05:00",
+      "notes": "w-l-alden: new shelf, 7 Gutenberg books, 3,378 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "a-d-t-whitney",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — A. D. T. Whitney; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:54-05:00",
+      "finished": "2026-10-22T23:11:54-05:00",
+      "notes": "a-d-t-whitney: new shelf, 6 Gutenberg books, 12,126 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "brand-whitlock",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Brand Whitlock; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:55-05:00",
+      "finished": "2026-10-22T23:11:55-05:00",
+      "notes": "brand-whitlock: new shelf, 6 Gutenberg books, 11,472 units, 2575 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frederick-whishaw",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frederick Whishaw; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:56-05:00",
+      "finished": "2026-10-22T23:11:56-05:00",
+      "notes": "frederick-whishaw: new shelf, 6 Gutenberg books, 6,597 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-ethelbert-walsh",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Ethelbert Walsh; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:57-05:00",
+      "finished": "2026-10-22T23:11:57-05:00",
+      "notes": "george-ethelbert-walsh: new shelf, 6 Gutenberg books, 3,898 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frances-eleanor-trollope",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frances Eleanor Trollope; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:58-05:00",
+      "finished": "2026-10-22T23:11:58-05:00",
+      "notes": "frances-eleanor-trollope: new shelf, 6 Gutenberg books, 6,723 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "meadows-taylor",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Meadows Taylor; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:59-05:00",
+      "finished": "2026-10-22T23:11:59-05:00",
+      "notes": "meadows-taylor: new shelf, 6 Gutenberg books, 13,792 units, 27 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "netta-syrett",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Netta Syrett; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:12:00-05:00",
+      "finished": "2026-10-22T23:12:00-05:00",
+      "notes": "netta-syrett: new shelf, 6 Gutenberg books, 8,590 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "annie-s-swan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Annie S. Swan; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:13:36-05:00",
+      "finished": "2026-10-22T23:13:36-05:00",
+      "notes": "annie-s-swan: new shelf, 6 Gutenberg books, 7,942 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "halliwell-sutcliffe",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Halliwell Sutcliffe; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:13:52-05:00",
+      "finished": "2026-10-22T23:13:52-05:00",
+      "notes": "halliwell-sutcliffe: new shelf, 6 Gutenberg books, 16,108 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "cynthia-stockley",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Cynthia Stockley; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:13:53-05:00",
+      "finished": "2026-10-22T23:13:53-05:00",
+      "notes": "cynthia-stockley: new shelf, 6 Gutenberg books, 10,710 units, 974 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "w-pett-ridge",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — W. Pett Ridge; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:13:54-05:00",
+      "finished": "2026-10-22T23:13:54-05:00",
+      "notes": "w-pett-ridge: new shelf, 6 Gutenberg books, 7,902 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eugene-manlove-rhodes",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Eugene Manlove Rhodes; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:15:30-05:00",
+      "finished": "2026-10-22T23:15:30-05:00",
+      "notes": "eugene-manlove-rhodes: new shelf, 6 Gutenberg books, 7,514 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "alfred-ollivant",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Alfred Ollivant; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:15:47-05:00",
+      "finished": "2026-10-22T23:15:47-05:00",
+      "notes": "alfred-ollivant: new shelf, 6 Gutenberg books, 21,238 units, 1220 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "cleveland-moffett",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Cleveland Moffett; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:15:48-05:00",
+      "finished": "2026-10-22T23:15:48-05:00",
+      "notes": "cleveland-moffett: new shelf, 6 Gutenberg books, 11,188 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "christy-mathewson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Christy Mathewson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:15:50-05:00",
+      "finished": "2026-10-22T23:15:50-05:00",
+      "notes": "christy-mathewson: new shelf, 6 Gutenberg books, 7,201 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bessie-marchant",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Bessie Marchant; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:16:06-05:00",
+      "finished": "2026-10-22T23:16:06-05:00",
+      "notes": "bessie-marchant: new shelf, 6 Gutenberg books, 9,535 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "lucas-malet",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Lucas Malet; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:16:08-05:00",
+      "finished": "2026-10-22T23:16:08-05:00",
+      "notes": "lucas-malet: new shelf, 6 Gutenberg books, 11,194 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-major",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charles Major; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:16:25-05:00",
+      "finished": "2026-10-22T23:16:25-05:00",
+      "notes": "charles-major: new shelf, 6 Gutenberg books, 11,469 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-magnay",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Magnay; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:16:26-05:00",
+      "finished": "2026-10-22T23:16:26-05:00",
+      "notes": "william-magnay: new shelf, 6 Gutenberg books, 11,824 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "s-levett-yeats",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — S. Levett Yeats; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:16:43-05:00",
+      "finished": "2026-10-22T23:16:43-05:00",
+      "notes": "s-levett-yeats: new shelf, 6 Gutenberg books, 9,518 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ada-leverson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ada Leverson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:16:44-05:00",
+      "finished": "2026-10-22T23:16:44-05:00",
+      "notes": "ada-leverson: new shelf, 6 Gutenberg books, 12,101 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frederic-arnold-kummer",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frederic Arnold Kummer; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:00-05:00",
+      "finished": "2026-10-22T23:17:00-05:00",
+      "notes": "frederic-arnold-kummer: new shelf, 6 Gutenberg books, 7,222 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "vaughan-kester",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Vaughan Kester; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:02-05:00",
+      "finished": "2026-10-22T23:17:02-05:00",
+      "notes": "vaughan-kester: new shelf, 5 Gutenberg books, 16,422 units, 116 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "florence-finch-kelly",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Florence Finch Kelly; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:04-05:00",
+      "finished": "2026-10-22T23:17:04-05:00",
+      "notes": "florence-finch-kelly: new shelf, 6 Gutenberg books, 6,617 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frederic-stewart-isham",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frederic Stewart Isham; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:06-05:00",
+      "finished": "2026-10-22T23:17:06-05:00",
+      "notes": "frederic-stewart-isham: new shelf, 6 Gutenberg books, 12,340 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bracebridge-hemyng",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Bracebridge Hemyng; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:07-05:00",
+      "finished": "2026-10-22T23:17:07-05:00",
+      "notes": "bracebridge-hemyng: new shelf, 6 Gutenberg books, 19,183 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "l-p-gratacap",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — L. P. Gratacap; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:08-05:00",
+      "finished": "2026-10-22T23:17:08-05:00",
+      "notes": "l-p-gratacap: new shelf, 6 Gutenberg books, 5,294 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "tom-gallon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Tom Gallon; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:10-05:00",
+      "finished": "2026-10-22T23:17:10-05:00",
+      "notes": "tom-gallon: new shelf, 6 Gutenberg books, 10,651 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "izola-l-forrester",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Izola L. Forrester; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:11-05:00",
+      "finished": "2026-10-22T23:17:11-05:00",
+      "notes": "izola-l-forrester: new shelf, 6 Gutenberg books, 8,047 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "leo-edwards",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Leo Edwards; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:13-05:00",
+      "finished": "2026-10-22T23:17:13-05:00",
+      "notes": "leo-edwards: new shelf, 6 Gutenberg books, 10,562 units, 12 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "paul-laurence-dunbar",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Paul Laurence Dunbar; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:14-05:00",
+      "finished": "2026-10-22T23:17:14-05:00",
+      "notes": "paul-laurence-dunbar: new shelf, 6 Gutenberg books, 7,668 units, 137 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "l-dougall",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — L. Dougall; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:15-05:00",
+      "finished": "2026-10-22T23:17:15-05:00",
+      "notes": "l-dougall: new shelf, 6 Gutenberg books, 9,529 units, 2257 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "a-d-crake",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — A. D. Crake; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:17-05:00",
+      "finished": "2026-10-22T23:17:17-05:00",
+      "notes": "a-d-crake: new shelf, 6 Gutenberg books, 14,094 units, 212 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bertha-m-clay",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Bertha M. Clay; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:19-05:00",
+      "finished": "2026-10-22T23:17:19-05:00",
+      "notes": "bertha-m-clay: new shelf, 6 Gutenberg books, 12,276 units, 71 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-randolph-chester",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Randolph Chester; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:20-05:00",
+      "finished": "2026-10-22T23:17:20-05:00",
+      "notes": "george-randolph-chester: new shelf, 6 Gutenberg books, 10,693 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-w-chesnutt",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charles W. Chesnutt; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:21-05:00",
+      "finished": "2026-10-22T23:17:21-05:00",
+      "notes": "charles-w-chesnutt: new shelf, 6 Gutenberg books, 6,512 units, 242 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "percy-james-brebner",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Percy James Brebner; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:23-05:00",
+      "finished": "2026-10-22T23:17:23-05:00",
+      "notes": "percy-james-brebner: new shelf, 6 Gutenberg books, 15,065 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "l-adams-beck",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — L. Adams Beck; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:18:51-05:00",
+      "finished": "2026-10-22T23:18:51-05:00",
+      "notes": "l-adams-beck: new shelf, 6 Gutenberg books, 9,582 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jane-barlow",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Jane Barlow; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:18:52-05:00",
+      "finished": "2026-10-22T23:18:52-05:00",
+      "notes": "jane-barlow: new shelf, 6 Gutenberg books, 2,879 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "willis-boyd-allen",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Willis Boyd Allen; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:08-05:00",
+      "finished": "2026-10-22T23:19:08-05:00",
+      "notes": "willis-boyd-allen: new shelf, 6 Gutenberg books, 4,844 units, 108 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "deborah-alcock",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Deborah Alcock; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:10-05:00",
+      "finished": "2026-10-22T23:19:10-05:00",
+      "notes": "deborah-alcock: new shelf, 5 Gutenberg books, 9,814 units, 651 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "walter-aimwell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Walter Aimwell; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:26-05:00",
+      "finished": "2026-10-22T23:19:26-05:00",
+      "notes": "walter-aimwell: new shelf, 6 Gutenberg books, 6,297 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "albert-w-aiken",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Albert W. Aiken; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:27-05:00",
+      "finished": "2026-10-22T23:19:27-05:00",
+      "notes": "albert-w-aiken: new shelf, 6 Gutenberg books, 7,904 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "grace-aguilar",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Grace Aguilar; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:44-05:00",
+      "finished": "2026-10-22T23:19:44-05:00",
+      "notes": "grace-aguilar: new shelf, 6 Gutenberg books, 8,208 units, 555 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "andy-adams",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Andy Adams; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:45-05:00",
+      "finished": "2026-10-22T23:19:45-05:00",
+      "notes": "andy-adams: new shelf, 6 Gutenberg books, 4,020 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-allen-white",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Allen White; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:47-05:00",
+      "finished": "2026-10-22T23:19:47-05:00",
+      "notes": "william-allen-white: new shelf, 5 Gutenberg books, 6,315 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "stanley-waterloo",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Stanley Waterloo; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:03-05:00",
+      "finished": "2026-10-22T23:20:03-05:00",
+      "notes": "stanley-waterloo: new shelf, 5 Gutenberg books, 3,975 units, 101 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "c-c-waddell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — C. C. Waddell; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:04-05:00",
+      "finished": "2026-10-22T23:20:04-05:00",
+      "notes": "c-c-waddell: new shelf, 5 Gutenberg books, 5,956 units, 30 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "metta-victoria-fuller-victor",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Metta Victoria Fuller Victor; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:05-05:00",
+      "finished": "2026-10-22T23:20:05-05:00",
+      "notes": "metta-victoria-fuller-victor: new shelf, 5 Gutenberg books, 4,518 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "s-s-van-dine",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — S. S. Van Dine; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:22-05:00",
+      "finished": "2026-10-22T23:20:22-05:00",
+      "notes": "s-s-van-dine: new shelf, 5 Gutenberg books, 13,459 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "d-f-e-sykes",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — D. F. E. Sykes; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:24-05:00",
+      "finished": "2026-10-22T23:20:24-05:00",
+      "notes": "d-f-e-sykes: new shelf, 5 Gutenberg books, 5,347 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-d-howden-smith",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur D. Howden Smith; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:25-05:00",
+      "finished": "2026-10-22T23:20:25-05:00",
+      "notes": "arthur-d-howden-smith: new shelf, 5 Gutenberg books, 14,996 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-gilmore-simms",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Gilmore Simms; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:27-05:00",
+      "finished": "2026-10-22T23:20:27-05:00",
+      "notes": "william-gilmore-simms: new shelf, 5 Gutenberg books, 7,958 units, 147 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "douglass-sherley",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Douglass Sherley; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:28-05:00",
+      "finished": "2026-10-22T23:20:28-05:00",
+      "notes": "douglass-sherley: new shelf, 5 Gutenberg books, 492 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-w-m-reynolds",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George W. M. Reynolds; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:31-05:00",
+      "finished": "2026-10-22T23:20:31-05:00",
+      "notes": "george-w-m-reynolds: new shelf, 5 Gutenberg books, 38,087 units, 74 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "baillie-reynolds",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Baillie Reynolds; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:32-05:00",
+      "finished": "2026-10-22T23:20:32-05:00",
+      "notes": "baillie-reynolds: new shelf, 5 Gutenberg books, 13,659 units, 371 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-j-rees",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur J. Rees; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:33-05:00",
+      "finished": "2026-10-22T23:20:33-05:00",
+      "notes": "arthur-j-rees: new shelf, 5 Gutenberg books, 10,161 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "herbert-quick",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Herbert Quick; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:35-05:00",
+      "finished": "2026-10-22T23:20:35-05:00",
+      "notes": "herbert-quick: new shelf, 5 Gutenberg books, 7,675 units, 33 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "margaret-horton-potter",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Margaret Horton Potter; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:36-05:00",
+      "finished": "2026-10-22T23:20:36-05:00",
+      "notes": "margaret-horton-potter: new shelf, 5 Gutenberg books, 9,528 units, 42 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "marmaduke-william-pickthall",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Marmaduke William Pickthall; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:37-05:00",
+      "finished": "2026-10-22T23:20:37-05:00",
+      "notes": "marmaduke-william-pickthall: new shelf, 5 Gutenberg books, 6,642 units, 412 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edward-parrott",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edward Parrott; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:39-05:00",
+      "finished": "2026-10-22T23:20:39-05:00",
+      "notes": "edward-parrott: new shelf, 5 Gutenberg books, 6,404 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "w-h-h-murray",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — W. H. H. Murray; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:40-05:00",
+      "finished": "2026-10-22T23:20:40-05:00",
+      "notes": "w-h-h-murray: new shelf, 5 Gutenberg books, 1,414 units, 70 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "favell-lee-mortimer",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Favell Lee Mortimer; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:41-05:00",
+      "finished": "2026-10-22T23:20:41-05:00",
+      "notes": "favell-lee-mortimer: new shelf, 5 Gutenberg books, 2,462 units, 26 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "w-c-morrow",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — W. C. Morrow; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:42-05:00",
+      "finished": "2026-10-22T23:20:42-05:00",
+      "notes": "w-c-morrow: new shelf, 5 Gutenberg books, 5,101 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "margaret-warner-morley",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Margaret Warner Morley; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:13-05:00",
+      "finished": "2026-10-22T23:22:13-05:00",
+      "notes": "margaret-warner-morley: new shelf, 5 Gutenberg books, 5,071 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "philip-verrill-mighels",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Philip Verrill Mighels; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:14-05:00",
+      "finished": "2026-10-22T23:22:14-05:00",
+      "notes": "philip-verrill-mighels: new shelf, 5 Gutenberg books, 9,690 units, 23 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "margaret-hill-mccarter",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Margaret Hill McCarter; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:31-05:00",
+      "finished": "2026-10-22T23:22:31-05:00",
+      "notes": "margaret-hill-mccarter: new shelf, 5 Gutenberg books, 10,312 units, 614 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "katherine-mansfield",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Katherine Mansfield; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:32-05:00",
+      "finished": "2026-10-22T23:22:32-05:00",
+      "notes": "katherine-mansfield: new shelf, 5 Gutenberg books, 5,289 units, 117 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "julia-magruder",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Julia Magruder; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:33-05:00",
+      "finished": "2026-10-22T23:22:33-05:00",
+      "notes": "julia-magruder: new shelf, 5 Gutenberg books, 4,494 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "james-m-ludlow",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — James M. Ludlow; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:49-05:00",
+      "finished": "2026-10-22T23:22:49-05:00",
+      "notes": "james-m-ludlow: new shelf, 5 Gutenberg books, 7,360 units, 110 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frances-little",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Frances Little; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:51-05:00",
+      "finished": "2026-10-22T23:22:51-05:00",
+      "notes": "frances-little: new shelf, 5 Gutenberg books, 2,473 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ottilie-a-liljencrantz",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ottilie A. Liljencrantz; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:22:52-05:00",
+      "finished": "2026-10-22T23:22:52-05:00",
+      "notes": "ottilie-a-liljencrantz: new shelf, 5 Gutenberg books, 6,213 units, 12 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "thomas-dick-lauder",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Thomas Dick Lauder; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:23:08-05:00",
+      "finished": "2026-10-22T23:23:08-05:00",
+      "notes": "thomas-dick-lauder: new shelf, 5 Gutenberg books, 7,779 units, 354 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eleanor-m-ingram",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Eleanor M. Ingram; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:23:10-05:00",
+      "finished": "2026-10-22T23:23:10-05:00",
+      "notes": "eleanor-m-ingram: new shelf, 5 Gutenberg books, 7,549 units, 38 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hubback",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Catherine-Anne Austen Hubback; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:23:26-05:00",
+      "finished": "2026-10-22T23:23:26-05:00",
+      "notes": "hubback: new shelf, 5 Gutenberg books, 10,803 units, 1762 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-hope-hodgson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William Hope Hodgson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:23:42-05:00",
+      "finished": "2026-10-22T23:23:42-05:00",
+      "notes": "william-hope-hodgson: new shelf, 5 Gutenberg books, 6,021 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "corra-harris",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Corra Harris; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:23:43-05:00",
+      "finished": "2026-10-22T23:23:43-05:00",
+      "notes": "corra-harris: new shelf, 5 Gutenberg books, 3,936 units, 217 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-preston-hankins",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur Preston Hankins; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:00-05:00",
+      "finished": "2026-10-22T23:24:00-05:00",
+      "notes": "arthur-preston-hankins: new shelf, 5 Gutenberg books, 9,303 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "grace-greenwood",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Grace Greenwood; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:01-05:00",
+      "finished": "2026-10-22T23:24:01-05:00",
+      "notes": "grace-greenwood: new shelf, 5 Gutenberg books, 2,590 units, 258 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-gilson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charles Gilson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:02-05:00",
+      "finished": "2026-10-22T23:24:02-05:00",
+      "notes": "charles-gilson: new shelf, 5 Gutenberg books, 7,302 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jacques-futrelle",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Jacques Futrelle; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:03-05:00",
+      "finished": "2026-10-22T23:24:03-05:00",
+      "notes": "jacques-futrelle: new shelf, 5 Gutenberg books, 6,260 units, 2359 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-blake-fuller",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry Blake Fuller; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:04-05:00",
+      "finished": "2026-10-22T23:24:04-05:00",
+      "notes": "henry-blake-fuller: new shelf, 5 Gutenberg books, 7,710 units, 1177 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "m-e-francis",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — M. E. Francis; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:06-05:00",
+      "finished": "2026-10-22T23:24:06-05:00",
+      "notes": "m-e-francis: new shelf, 5 Gutenberg books, 9,521 units, 373 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "w-bert-foster",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — W. Bert Foster; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:07-05:00",
+      "finished": "2026-10-22T23:24:07-05:00",
+      "notes": "w-bert-foster: new shelf, 5 Gutenberg books, 8,243 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-allan-england",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Allan England; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:08-05:00",
+      "finished": "2026-10-22T23:24:08-05:00",
+      "notes": "george-allan-england: new shelf, 5 Gutenberg books, 14,407 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "finley-peter-dunne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Finley Peter Dunne; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:10-05:00",
+      "finished": "2026-10-22T23:24:10-05:00",
+      "notes": "finley-peter-dunne: new shelf, 5 Gutenberg books, 2,276 units, 58 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "alfred-w-drayson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Alfred W. Drayson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:11-05:00",
+      "finished": "2026-10-22T23:24:11-05:00",
+      "notes": "alfred-w-drayson: new shelf, 5 Gutenberg books, 4,248 units, 21 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "emma-c-dowd",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Emma C. Dowd; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:12-05:00",
+      "finished": "2026-10-22T23:24:12-05:00",
+      "notes": "emma-c-dowd: new shelf, 5 Gutenberg books, 11,089 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "francis-worcester-doughty",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Francis Worcester Doughty; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:13-05:00",
+      "finished": "2026-10-22T23:24:13-05:00",
+      "notes": "francis-worcester-doughty: new shelf, 5 Gutenberg books, 9,171 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "maud-diver",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Maud Diver; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:15-05:00",
+      "finished": "2026-10-22T23:24:15-05:00",
+      "notes": "maud-diver: new shelf, 5 Gutenberg books, 15,638 units, 4509 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-cupples",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mrs. George Cupples; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:16-05:00",
+      "finished": "2026-10-22T23:24:16-05:00",
+      "notes": "george-cupples: new shelf, 5 Gutenberg books, 1,292 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "stephen-angus-douglas-cox",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Stephen Angus Douglas Cox; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:17-05:00",
+      "finished": "2026-10-22T23:24:17-05:00",
+      "notes": "stephen-angus-douglas-cox: new shelf, 5 Gutenberg books, 4,853 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-waldo-browne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Waldo Browne; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:18-05:00",
+      "finished": "2026-10-22T23:24:18-05:00",
+      "notes": "george-waldo-browne: new shelf, 5 Gutenberg books, 7,190 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "earl-derr-biggers",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Earl Derr Biggers; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:26:22-05:00",
+      "finished": "2026-10-22T23:26:22-05:00",
+      "notes": "earl-derr-biggers: new shelf, 5 Gutenberg books, 9,497 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-01",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 1 (24 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:28:29-05:00",
+      "finished": "2026-10-22T23:28:29-05:00",
+      "notes": "storytellers-tail-01: new shelf, 94 Gutenberg books, 143,415 units, 6977 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-02",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 2 (24 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:28:36-05:00",
+      "finished": "2026-10-22T23:28:36-05:00",
+      "notes": "storytellers-tail-02: new shelf, 96 Gutenberg books, 127,242 units, 4331 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-03",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 3 (20 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:29:57-05:00",
+      "finished": "2026-10-22T23:29:57-05:00",
+      "notes": "storytellers-tail-03: new shelf, 77 Gutenberg books, 103,326 units, 5815 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-04",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 4 (22 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:32:02-05:00",
+      "finished": "2026-10-22T23:32:02-05:00",
+      "notes": "storytellers-tail-04: new shelf, 66 Gutenberg books, 74,741 units, 5222 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-05",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 5 (22 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:33:22-05:00",
+      "finished": "2026-10-22T23:33:22-05:00",
+      "notes": "storytellers-tail-05: new shelf, 66 Gutenberg books, 85,604 units, 315 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-06",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 6 (22 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:36:01-05:00",
+      "finished": "2026-10-22T23:36:01-05:00",
+      "notes": "storytellers-tail-06: new shelf, 64 Gutenberg books, 94,740 units, 5552 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-07",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 7 (22 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:36:09-05:00",
+      "finished": "2026-10-22T23:36:09-05:00",
+      "notes": "storytellers-tail-07: new shelf, 64 Gutenberg books, 113,868 units, 1191 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-08",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 8 (22 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:36:17-05:00",
+      "finished": "2026-10-22T23:36:17-05:00",
+      "notes": "storytellers-tail-08: new shelf, 66 Gutenberg books, 128,442 units, 4352 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-09",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 9 (17 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:36:21-05:00",
+      "finished": "2026-10-22T23:36:21-05:00",
+      "notes": "storytellers-tail-09: new shelf, 51 Gutenberg books, 74,558 units, 3116 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-10",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 10 (27 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:38:17-05:00",
+      "finished": "2026-10-22T23:38:17-05:00",
+      "notes": "storytellers-tail-10: new shelf, 54 Gutenberg books, 76,550 units, 3823 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-11",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 11 (27 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:39:20-05:00",
+      "finished": "2026-10-22T23:39:20-05:00",
+      "notes": "storytellers-tail-11: new shelf, 54 Gutenberg books, 71,939 units, 1496 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-12",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 12 (27 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:40:39-05:00",
+      "finished": "2026-10-22T23:40:39-05:00",
+      "notes": "storytellers-tail-12: new shelf, 54 Gutenberg books, 68,669 units, 1624 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-13",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 13 (27 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:41:43-05:00",
+      "finished": "2026-10-22T23:41:43-05:00",
+      "notes": "storytellers-tail-13: new shelf, 54 Gutenberg books, 76,672 units, 331 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-14",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 14 (27 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:41:47-05:00",
+      "finished": "2026-10-22T23:41:47-05:00",
+      "notes": "storytellers-tail-14: new shelf, 54 Gutenberg books, 79,150 units, 2123 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-15",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 15 (27 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:41:50-05:00",
+      "finished": "2026-10-22T23:41:50-05:00",
+      "notes": "storytellers-tail-15: new shelf, 52 Gutenberg books, 66,092 units, 2513 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-16",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 16 (27 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:41:54-05:00",
+      "finished": "2026-10-22T23:41:54-05:00",
+      "notes": "storytellers-tail-16: new shelf, 54 Gutenberg books, 79,629 units, 6225 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-17",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 17 (15 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:41:56-05:00",
+      "finished": "2026-10-22T23:41:56-05:00",
+      "notes": "storytellers-tail-17: new shelf, 29 Gutenberg books, 36,320 units, 338 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-18",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 18 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:43:27-05:00",
+      "finished": "2026-10-22T23:43:27-05:00",
+      "notes": "storytellers-tail-18: new shelf, 30 Gutenberg books, 35,985 units, 1725 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-19",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 19 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:43:59-05:00",
+      "finished": "2026-10-22T23:43:59-05:00",
+      "notes": "storytellers-tail-19: new shelf, 30 Gutenberg books, 30,851 units, 2096 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-20",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 20 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:44:46-05:00",
+      "finished": "2026-10-22T23:44:46-05:00",
+      "notes": "storytellers-tail-20: new shelf, 30 Gutenberg books, 40,756 units, 2808 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-21",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 21 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:45:18-05:00",
+      "finished": "2026-10-22T23:45:18-05:00",
+      "notes": "storytellers-tail-21: new shelf, 30 Gutenberg books, 26,902 units, 798 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-22",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 22 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:06-05:00",
+      "finished": "2026-10-22T23:46:06-05:00",
+      "notes": "storytellers-tail-22: new shelf, 30 Gutenberg books, 32,008 units, 1389 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-23",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 23 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:38-05:00",
+      "finished": "2026-10-22T23:46:38-05:00",
+      "notes": "storytellers-tail-23: new shelf, 30 Gutenberg books, 31,156 units, 2046 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-24",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 24 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:40-05:00",
+      "finished": "2026-10-22T23:46:40-05:00",
+      "notes": "storytellers-tail-24: new shelf, 30 Gutenberg books, 26,621 units, 563 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-25",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 25 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:42-05:00",
+      "finished": "2026-10-22T23:46:42-05:00",
+      "notes": "storytellers-tail-25: new shelf, 30 Gutenberg books, 37,418 units, 1751 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-26",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 26 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:44-05:00",
+      "finished": "2026-10-22T23:46:44-05:00",
+      "notes": "storytellers-tail-26: new shelf, 30 Gutenberg books, 38,974 units, 455 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-27",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 27 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:46-05:00",
+      "finished": "2026-10-22T23:46:46-05:00",
+      "notes": "storytellers-tail-27: new shelf, 30 Gutenberg books, 34,233 units, 1376 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-28",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 28 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:49-05:00",
+      "finished": "2026-10-22T23:46:49-05:00",
+      "notes": "storytellers-tail-28: new shelf, 30 Gutenberg books, 34,553 units, 888 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-29",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 29 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:46:51-05:00",
+      "finished": "2026-10-22T23:46:51-05:00",
+      "notes": "storytellers-tail-29: new shelf, 29 Gutenberg books, 32,793 units, 1019 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-30",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 30 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:48:12-05:00",
+      "finished": "2026-10-22T23:48:12-05:00",
+      "notes": "storytellers-tail-30: new shelf, 30 Gutenberg books, 30,825 units, 3419 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-31",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 31 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:48:45-05:00",
+      "finished": "2026-10-22T23:48:45-05:00",
+      "notes": "storytellers-tail-31: new shelf, 30 Gutenberg books, 44,844 units, 154 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-32",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 32 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:49:33-05:00",
+      "finished": "2026-10-22T23:49:33-05:00",
+      "notes": "storytellers-tail-32: new shelf, 29 Gutenberg books, 41,187 units, 1733 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-33",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 33 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:50:05-05:00",
+      "finished": "2026-10-22T23:50:05-05:00",
+      "notes": "storytellers-tail-33: new shelf, 30 Gutenberg books, 31,889 units, 1864 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-34",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 34 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:50:52-05:00",
+      "finished": "2026-10-22T23:50:52-05:00",
+      "notes": "storytellers-tail-34: new shelf, 29 Gutenberg books, 31,915 units, 174 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-35",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 35 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:51:25-05:00",
+      "finished": "2026-10-22T23:51:25-05:00",
+      "notes": "storytellers-tail-35: new shelf, 30 Gutenberg books, 38,531 units, 346 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-36",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 36 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:52:12-05:00",
+      "finished": "2026-10-22T23:52:12-05:00",
+      "notes": "storytellers-tail-36: new shelf, 30 Gutenberg books, 29,606 units, 284 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-37",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 37 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:52:44-05:00",
+      "finished": "2026-10-22T23:52:44-05:00",
+      "notes": "storytellers-tail-37: new shelf, 30 Gutenberg books, 36,457 units, 1761 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-38",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 38 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:53:17-05:00",
+      "finished": "2026-10-22T23:53:17-05:00",
+      "notes": "storytellers-tail-38: new shelf, 29 Gutenberg books, 33,908 units, 467 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-39",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 39 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:04-05:00",
+      "finished": "2026-10-22T23:54:04-05:00",
+      "notes": "storytellers-tail-39: new shelf, 30 Gutenberg books, 34,637 units, 765 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-40",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 40 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:36-05:00",
+      "finished": "2026-10-22T23:54:36-05:00",
+      "notes": "storytellers-tail-40: new shelf, 30 Gutenberg books, 31,710 units, 1562 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-41",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 41 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:38-05:00",
+      "finished": "2026-10-22T23:54:38-05:00",
+      "notes": "storytellers-tail-41: new shelf, 30 Gutenberg books, 27,960 units, 712 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-42",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 42 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:40-05:00",
+      "finished": "2026-10-22T23:54:40-05:00",
+      "notes": "storytellers-tail-42: new shelf, 30 Gutenberg books, 34,359 units, 3511 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-43",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 43 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:43-05:00",
+      "finished": "2026-10-22T23:54:43-05:00",
+      "notes": "storytellers-tail-43: new shelf, 30 Gutenberg books, 37,365 units, 1035 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-44",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 44 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:45-05:00",
+      "finished": "2026-10-22T23:54:45-05:00",
+      "notes": "storytellers-tail-44: new shelf, 30 Gutenberg books, 36,413 units, 1492 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-45",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 45 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:47-05:00",
+      "finished": "2026-10-22T23:54:47-05:00",
+      "notes": "storytellers-tail-45: new shelf, 30 Gutenberg books, 29,343 units, 984 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-46",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 46 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:49-05:00",
+      "finished": "2026-10-22T23:54:49-05:00",
+      "notes": "storytellers-tail-46: new shelf, 30 Gutenberg books, 31,120 units, 875 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-47",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 47 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:51-05:00",
+      "finished": "2026-10-22T23:54:51-05:00",
+      "notes": "storytellers-tail-47: new shelf, 30 Gutenberg books, 33,973 units, 1486 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-48",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 48 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:53-05:00",
+      "finished": "2026-10-22T23:54:53-05:00",
+      "notes": "storytellers-tail-48: new shelf, 30 Gutenberg books, 30,077 units, 272 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-49",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 49 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:56-05:00",
+      "finished": "2026-10-22T23:54:56-05:00",
+      "notes": "storytellers-tail-49: new shelf, 30 Gutenberg books, 33,281 units, 384 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-50",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 50 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:58-05:00",
+      "finished": "2026-10-22T23:54:58-05:00",
+      "notes": "storytellers-tail-50: new shelf, 29 Gutenberg books, 46,609 units, 1877 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-51",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 51 (3 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:54:59-05:00",
+      "finished": "2026-10-22T23:54:59-05:00",
+      "notes": "storytellers-tail-51: new shelf, 3 Gutenberg books, 2,114 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "my-book-house",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Olive Beaupré Miller (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:01:25-05:00",
+      "finished": "2026-10-23T09:01:25-05:00",
+      "notes": "my-book-house: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches (2 title_weak: the 1928 Up One Pair of Stairs and Through Fairy Halls, title pages read by eye), 0 rights flags."
+    },
+    {
+      "id": "junior-classics",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — William Patten (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:01:25-05:00",
+      "finished": "2026-10-23T09:01:25-05:00",
+      "notes": "junior-classics: new shelf, 9 Gutenberg books (20,558 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "journeys-through-bookland",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Charles H. Sylvester (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:01:25-05:00",
+      "finished": "2026-10-23T09:01:25-05:00",
+      "notes": "journeys-through-bookland: new shelf, 8 Gutenberg books (18,610 units) and 2 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "childrens-hour",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Eva March Tappan (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:05:18-05:00",
+      "finished": "2026-10-23T09:05:18-05:00",
+      "notes": "childrens-hour: new shelf, 1 Gutenberg books (1,444 units) and 13 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "young-folks-library",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Thomas Bailey Aldrich (editor-in-chief); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:10:56-05:00",
+      "finished": "2026-10-23T09:10:56-05:00",
+      "notes": "young-folks-library: new shelf, 2 Gutenberg books (2,125 units) and 18 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "little-classics",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Rossiter Johnson (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:14:29-05:00",
+      "finished": "2026-10-23T09:14:29-05:00",
+      "notes": "little-classics: new shelf, 0 Gutenberg books (0 units) and 17 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "heart-of-oak-books",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Charles Eliot Norton (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:15:49-05:00",
+      "finished": "2026-10-23T09:15:49-05:00",
+      "notes": "heart-of-oak-books: new shelf, 0 Gutenberg books (0 units) and 7 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "scudder-childrens-book",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Horace E. Scudder (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:16:12-05:00",
+      "finished": "2026-10-23T09:16:12-05:00",
+      "notes": "scudder-childrens-book: new shelf, 0 Gutenberg books (0 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bookshelf-for-boys-and-girls",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — The University Society (publisher); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:19:10-05:00",
+      "finished": "2026-10-23T09:19:10-05:00",
+      "notes": "bookshelf-for-boys-and-girls: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "our-wonder-world",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Geo. L. Shuman & Co. (publisher); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:21:28-05:00",
+      "finished": "2026-10-23T09:21:28-05:00",
+      "notes": "our-wonder-world: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "pictured-knowledge",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Compton-Johnson Company (publisher); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:22:42-05:00",
+      "finished": "2026-10-23T09:22:42-05:00",
+      "notes": "pictured-knowledge: new shelf, 0 Gutenberg books (0 units) and 5 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "book-of-knowledge",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Arthur Mee and Holland Thompson (editors); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:27:00-05:00",
+      "finished": "2026-10-23T09:27:00-05:00",
+      "notes": "book-of-knowledge: new shelf, 0 Gutenberg books (0 units) and 20 Internet Archive scans; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

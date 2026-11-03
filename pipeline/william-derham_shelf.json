@@ -1,0 +1,59 @@
+{
+ "_about": "Public-domain William Derham (1657-1735), rector of Upminster, Canon of Windsor and Boyle lecturer, for the Word Hoard: Physico-Theology (Boyle Lectures 1711-12) and Astro-Theology (1715), his demonstrations of the being and attributes of God from the works of creation. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 87 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william derham",
+  "w. derham"
+ ],
+ "_surname": [
+  "william derham",
+  "w. derham",
+  "derham"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "derham-physico-theology": [
+   "physicotheologyo00derh",
+   "Physico-theology : or, a demonstration of the being and attributes of God, from his works of creation : being the substance of sixteen sermons preached in St. Mary-le-Bow-Church, London, at the honourable Mr. Boyle's lectures in the years 1711, and 1712 (London : Printed for W. and J. Innys, 1720)"
+  ],
+  "derham-astro-theology": [
+   "astrotheologyord00derh",
+   "Astro-theology : or a demonstration of the being and attributes of God, from a survey of the heavens (London : Printed for W. and J. Innys, 1721)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "derham-science": "The Artificial Clock-maker, his Philosophical Transactions papers, and his editions of John Ray and Robert Hooke"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "derham-physico-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. derham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "derham-astro-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. derham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

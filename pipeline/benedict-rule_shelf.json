@@ -1,0 +1,36 @@
+{
+ "_about": "The Rule of St. Benedict, Latin with an English translation, printed at the Abbey Press, Fort Augustus (imprimatur 1906; Sands, 1907), the translation usually credited to D. Oswald Hunter Blair, whose name the OCR does not show. Raw IA OCR. PG 50040 (Doyle) is excluded: its own page reads Copyright 1948. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Benedict of Nursia",
+ "_name_words": [
+  "benedict",
+  "saint",
+  "st"
+ ],
+ "_surname": [
+  "benedict"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "benedict-rule-hunter-blair-1907": [
+   "TheRuleOfStBenedict",
+   "The Rule of St. Benedict, Latin and English (Fort Augustus: Abbey Press, 1906)"
+  ]
+ },
+ "_excluded": {
+  "benedict-rule-doyle-50040": "Doyle tr. (PG 50040) prints 'Copyright 1948'; a pre-1931 translation is used instead"
+ },
+ "_checks": {
+  "benedict-rule-hunter-blair-1907": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benedict",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

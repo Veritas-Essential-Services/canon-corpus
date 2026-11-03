@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain Alexander Topp, minister of Knox's Church, Toronto, for the Word Hoard: The River of Life in Ezekiel's Vision, his Sabbath-school lessons, New Year Addresses to the Young, and his last sermon. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 122 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander topp",
+  "a. topp",
+  "topp"
+ ],
+ "_surname": [
+  "topp"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "topp-river-of-life": [
+   "riveroflifeineze00topp",
+   "The river of life, in Ezekiel's vision; a plea for Home missions (Toronto, Campbell, 1860)"
+  ],
+  "topp-sabbath-lessons": [
+   "cihm_89287",
+   "System of lessons for the classes of the Sabbath schools connected with Knox's Church, Toronto ([Toronto? : s.n.], 1862)"
+  ],
+  "topp-new-year-addresses": [
+   "cihm_93572",
+   "New Year addresses to the young (Toronto : J. Bain, 1880)"
+  ],
+  "topp-perpetuity": [
+   "cihm_64617",
+   "The perpetuity of the reign of Christ : the last sermon preached by late Rev. Alexander Topp, D.D ([Toronto? : s.n.], 1879)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "topp-river-cihm": "cihm_29804, a second scan of The River of Life",
+  "topp-all-seeing-eye": "cihm_40307 is one of the New Year addresses, already in the collected volume"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "topp-river-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "topp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "topp-sabbath-lessons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "topp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "topp-new-year-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "topp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "topp-perpetuity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "topp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

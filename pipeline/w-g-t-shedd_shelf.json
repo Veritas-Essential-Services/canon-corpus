@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain W. G. T. Shedd (1820-1894, professor at Union Theological Seminary, New York) for the Word Hoard: Dogmatic Theology (New York: Scribner, 1888, 2 vols, with the supplementary vol. 3 of 1894) and A History of Christian Doctrine (New York: Scribner, 1863, 2 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain W. G. T. Shedd (1820-1894, professor at Union Theological Seminary, New York) for the Word Hoard: Dogmatic Theology (New York: Scribner, 1888, 2 vols, with the supplementary vol. 3 of 1894) and A History of Christian Doctrine (New York: Scribner, 1863, 2 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted. Extended 2026-10-28 by lane A at Adam's request (his Logos author list): Discourses and Essays, Lectures upon the Philosophy of History, Homiletics and Pastoral Theology, Sermons to the Natural Man and to the Spiritual Man, Theological Essays, Literary Essays, the Romans commentary, The Doctrine of Endless Punishment, The Proposed Revision of the Westminster Standards, Calvinism Pure and Mixed, Orthodoxy and Heterodoxy, and three addresses and sermons. Every printing dated before 1930.",
  "_ccel_author": "s/shedd",
  "_name_words": [
   "shedd",
@@ -35,6 +35,66 @@
   "shedd-history-doctrine-2": [
    "historyofchristi0002shed",
    "A History of Christian Doctrine, vol. 2 (New York: Scribner; this copy printed 1868, copyright 1863)"
+  ],
+  "shedd-education-ministry": [
+   "educationofminis0000shed",
+   "The education of a ministry, the proper work and care of the churches : a discourse, delivered before the American Education Society, May 28, 1855 (Boston : Press of T.R. Marvin, 1855)"
+  ],
+  "shedd-discourses-essays": [
+   "discoursesessays00shed",
+   "Discourses and essays/ by William G. T. Shedd (Andover [Mass.]: W. F. Draper, 1856)"
+  ],
+  "shedd-philosophy-history": [
+   "lecturesuponphil00shed",
+   "Lectures upon the philosophy of history (Andover : W. F. Draper; New York, Wiley and Halsted; [etc., etc.], 1857)"
+  ],
+  "shedd-guilt-of-pagan": [
+   "guiltofpagan01shed",
+   "The guilt of the pagan (N.Y., 1863)"
+  ],
+  "shedd-union-and-war": [
+   "unionwarsermonpr00shed",
+   "The Union and the war : a sermon, preached November 27, 1862 (New York : C. Scribner, 1863)"
+  ],
+  "shedd-homiletics": [
+   "homileticspasto00shed",
+   "Homiletics and pastoral theology (New York : C. Scribner, 1867)"
+  ],
+  "shedd-sermons-natural-man": [
+   "sermonstonatural00shed",
+   "Sermons to the natural man (New York, C. Scribner & co., 1871)"
+  ],
+  "shedd-theological-essays": [
+   "theologicalessay00shed",
+   "Theological essays (New York, Scribner, Armstrong & company, 1877)"
+  ],
+  "shedd-literary-essays": [
+   "literaryessays00shed",
+   "Literary essays (New York : Scribner, c187)"
+  ],
+  "shedd-romans": [
+   "criticaldoctrina00shed",
+   "A critical and doctrinal commentary upon the Epistle of St. Paul to the Romans (New York : C. Scribner, 1879)"
+  ],
+  "shedd-sermons-spiritual-man": [
+   "sermonstospiritu00shed",
+   "Sermons to the spiritual man (New York, C. Scribner's sons, 1884)"
+  ],
+  "shedd-endless-punishment": [
+   "doctrineofendles00shed",
+   "The doctrine of endless punishment (New York : Scribner, 1886)"
+  ],
+  "shedd-proposed-revision": [
+   "proposedrevision00shed_0",
+   "The proposed revision of the Westminster standards (N.Y., 1890)"
+  ],
+  "shedd-calvinism-pure-mixed": [
+   "calvinismpuremix00shed",
+   "Calvinism : pure and mixed ; a defence of the Westminster standards (New York : Scribner's, 1893)"
+  ],
+  "shedd-orthodoxy-heterodoxy": [
+   "orthodoxyheterod00shed",
+   "Orthodoxy and heterodoxy, a miscellany (New York, C. Scribner's sons, 1893)"
   ]
  },
  "_alternates": {
@@ -42,12 +102,15 @@
   "shedd-history": "cdl historyofchristi02shediala (vol. 2: its OCR never shows Shedd's name, refused by the gate); the 1864-69 printings; T. and T. Clark's Edinburgh issue (1884)"
  },
  "_excluded": {
-  "shedd-dogmatic-2013": "dogmatic-theology-william-g-t: a 2013 upload of unknown source; not used"
+  "shedd-dogmatic-2013": "dogmatic-theology-william-g-t: a 2013 upload of unknown source; not used",
+  "shedd-edited": "books he translated or edited belong to their authors: Theremin's Eloquence a Virtue, Guericke's Manual of Church History, Augustine's Confessions, Coleridge's Complete Works",
+  "shedd-namesakes": "Islam and the Oriental Churches and the Persia mission sketch are William Ambrose Shedd's; the 1828 Letters to Channing, Percy Shedd's poems and the medical books are by others",
+  "shedd-x-dups": "other scans and printings of the books added 2026-10-28, and the 1857 and 1863 Africa and colonization addresses"
  },
  "_checks": {
   "shedd-dogmatic-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "shedd",
    "identity": "ok",
@@ -58,7 +121,7 @@
   },
   "shedd-dogmatic-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "william g. t. shedd",
    "identity": "ok",
@@ -69,7 +132,7 @@
   },
   "shedd-dogmatic-3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "shedd",
    "identity": "ok",
@@ -80,7 +143,7 @@
   },
   "shedd-history-doctrine-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "william g. t. shedd",
    "identity": "ok",
@@ -91,7 +154,7 @@
   },
   "shedd-history-doctrine-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "william g. t. shedd",
    "identity": "ok",
@@ -99,6 +162,172 @@
    "ia_date": "1863",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "shedd-education-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shedd-discourses-essays": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-philosophy-history": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-guilt-of-pagan": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "shedd-union-and-war": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shedd-homiletics": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shedd-sermons-natural-man": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-theological-essays": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "shedd-literary-essays": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "c1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-romans": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-sermons-spiritual-man": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-endless-punishment": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shedd-proposed-revision": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "shedd-calvinism-pure-mixed": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-orthodoxy-heterodoxy": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
- }
+ },
+ "_pending": {}
 }

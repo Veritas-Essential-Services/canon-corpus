@@ -12,7 +12,8 @@
   "maximilian a. mügge",
   "mügge",
   "paul v. cohn",
-  "thomas common"
+  "thomas common",
+  "a. m. ludovici"
  ],
  "_surname": [
   "adrian collins",
@@ -26,7 +27,8 @@
   "maximilian a. mügge",
   "mügge",
   "paul v. cohn",
-  "thomas common"
+  "thomas common",
+  "a. m. ludovici"
  ],
  "_surname_by_slug": {
   "lnz-zarathustra": [
@@ -78,6 +80,18 @@
    "ludovici"
   ],
   "lnz-will-to-power-2": [
+   "anthony m. ludovici",
+   "ludovici"
+  ],
+  "lnz-selected-letters": [
+   "anthony m. ludovici",
+   "ludovici"
+  ],
+  "lnz-lichtenberger-germany": [
+   "a. m. ludovici",
+   "ludovici"
+  ],
+  "lnz-young-nietzsche": [
    "anthony m. ludovici",
    "ludovici"
   ]
@@ -154,7 +168,20 @@
    "On the Future of our Educational Institutions; Homer and Classical Philology; We Philologists"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lnz-selected-letters": [
+   "selectedletterso00niet",
+   "Selected Letters of Friedrich Nietzsche"
+  ],
+  "lnz-lichtenberger-germany": [
+   "germanyitsevolut00licht",
+   "Germany and its Evolution in Modern Times"
+  ],
+  "lnz-young-nietzsche": [
+   "youngnietzsche00fr",
+   "The Young Nietzsche"
+  ]
+ },
  "titles": {
   "levy-nietzsche-beyond-good-and-evil": {
    "source": "lnz-beyond-good-and-evil",
@@ -293,6 +320,30 @@
    "translated": 1909,
    "translator": "Thomas Common",
    "scan_edition": "Project Gutenberg 1998 (clean text)"
+  },
+  "levy-nietzsche-selected-letters": {
+   "source": "lnz-selected-letters",
+   "of": "Nietzsche",
+   "work": "Selected Letters of Friedrich Nietzsche (ed. Oscar Levy)",
+   "translated": 1921,
+   "translator": "Anthony M. Ludovici",
+   "scan_edition": "Doubleday, Page, Garden City 1921; archive.org scan"
+  },
+  "levy-nietzsche-lichtenberger-germany-and-its-evolution": {
+   "source": "lnz-lichtenberger-germany",
+   "of": "Henri Lichtenberger",
+   "work": "Germany and its Evolution in Modern Times",
+   "translated": 1913,
+   "translator": "A. M. Ludovici",
+   "scan_edition": "Henry Holt, New York 1913; archive.org scan (University of Illinois copy)"
+  },
+  "levy-nietzsche-forster-nietzsche-the-young-nietzsche": {
+   "source": "lnz-young-nietzsche",
+   "of": "Elisabeth Förster-Nietzsche",
+   "work": "The Young Nietzsche",
+   "translated": 1912,
+   "translator": "Anthony M. Ludovici",
+   "scan_edition": "William Heinemann, London 1912; archive.org scan (University of Illinois copy)"
   }
  },
  "_pending": {
@@ -313,7 +364,7 @@
  "_checks": {
   "lnz-zarathustra": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas common",
    "identity": "ok",
@@ -322,7 +373,7 @@
   },
   "lnz-beyond-good-and-evil": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "helen zimmern",
    "identity": "ok",
@@ -331,7 +382,7 @@
   },
   "lnz-human-all-too-human-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "helen zimmern",
    "identity": "ok",
@@ -340,7 +391,7 @@
   },
   "lnz-human-all-too-human-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "paul v. cohn",
    "identity": "ok",
@@ -349,7 +400,7 @@
   },
   "lnz-dawn-of-day": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. m. kennedy",
    "identity": "ok",
@@ -358,7 +409,7 @@
   },
   "lnz-joyful-wisdom": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas common",
    "identity": "ok",
@@ -367,7 +418,7 @@
   },
   "lnz-genealogy-of-morals": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horace b. samuel",
    "identity": "ok",
@@ -376,7 +427,7 @@
   },
   "lnz-birth-of-tragedy": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "haussmann",
    "identity": "ok",
@@ -385,7 +436,7 @@
   },
   "lnz-thoughts-out-of-season-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "adrian collins",
    "identity": "ok",
@@ -394,7 +445,7 @@
   },
   "lnz-early-greek-philosophy": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mügge",
    "identity": "ok",
@@ -403,7 +454,7 @@
   },
   "lnz-twilight-and-antichrist": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anthony m. ludovici",
    "identity": "ok",
@@ -412,7 +463,7 @@
   },
   "lnz-ecce-homo": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anthony m. ludovici",
    "identity": "ok",
@@ -421,7 +472,7 @@
   },
   "lnz-case-of-wagner": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anthony m. ludovici",
    "identity": "ok",
@@ -430,7 +481,7 @@
   },
   "lnz-will-to-power-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anthony m. ludovici",
    "identity": "ok",
@@ -439,7 +490,7 @@
   },
   "lnz-will-to-power-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anthony m. ludovici",
    "identity": "ok",
@@ -448,7 +499,7 @@
   },
   "levy-nietzsche-pg51710": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anthony m. ludovici",
    "identity": "ok",
@@ -457,12 +508,45 @@
   },
   "levy-nietzsche-pg51580": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. m. kennedy",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "J. M. Kennedy"
+  },
+  "lnz-selected-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony m. ludovici",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lnz-lichtenberger-germany": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. m. ludovici",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lnz-young-nietzsche": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony m. ludovici",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -551,6 +635,74 @@
    "pg": 51580,
    "pg_copyrighted_marker": false,
    "pg_translator": "J. M. Kennedy"
+  },
+  "lnz-selected-letters": {
+   "ia": "selectedletterso00niet",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1806,
+    1816,
+    1819,
+    1821,
+    1830,
+    1842,
+    1845,
+    1848,
+    1849,
+    1856,
+    1870,
+    1872,
+    1876,
+    1887,
+    1888,
+    1893,
+    1897,
+    1899,
+    1900,
+    1902,
+    1903,
+    1908,
+    1909,
+    1912,
+    1920,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lnz-lichtenberger-germany": {
+   "ia": "germanyitsevolut00licht",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1800,
+    1848,
+    1870,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lnz-young-nietzsche": {
+   "ia": "youngnietzsche00fr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1796,
+    1804,
+    1813,
+    1844,
+    1864,
+    1869,
+    1870,
+    1871,
+    1874,
+    1876,
+    1883,
+    1898,
+    1909,
+    1912
+   ],
+   "post_1930_years_in_front_15k": [
+    1996
+   ],
+   "post_1930_examined": "1996 is a University of Illinois library date stamp (OCT 1 1 1996); the imprint is Heinemann 1912, Copyright 1912"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

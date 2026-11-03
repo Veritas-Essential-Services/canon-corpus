@@ -1,0 +1,118 @@
+{
+ "_about": "Henry Martyn Baird (1832-1906), historian of the French Reformed Church: History of the Rise of the Huguenots of France (New York: Scribner, 1879, 2 vols), The Huguenots and Henry of Navarre (1886, 2 vols), The Huguenots and the Revocation of the Edict of Nantes (1895, vol. 1; vol. 2 pending), and Theodore Beza, the Counsellor of the French Reformation (New York and London: Putnam, 1899). Volume numbers read off each title page. Named henry-baird so other Bairds cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "baird"
+ ],
+ "_surname": [
+  "baird"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "baird-rise-huguenots-1": [
+   "historyofriseofh01bair",
+   "History of the Rise of the Huguenots of France (New York: Scribner, 1879), vol. 1"
+  ],
+  "baird-rise-huguenots-2": [
+   "historyofriseofh02bairuoft",
+   "History of the Rise of the Huguenots of France (New York: Scribner, 1879), vol. 2"
+  ],
+  "baird-henry-of-navarre-1": [
+   "huguenotshenryof01bair",
+   "The Huguenots and Henry of Navarre (New York: Scribner, 1886), vol. 1"
+  ],
+  "baird-henry-of-navarre-2": [
+   "huguenotshenryof02bair",
+   "The Huguenots and Henry of Navarre (New York: Scribner, 1886), vol. 2"
+  ],
+  "baird-revocation-1": [
+   "huguenotsandrev01bairgoog",
+   "The Huguenots and the Revocation of the Edict of Nantes (New York: Scribner, 1895), vol. 1; Google scan"
+  ],
+  "baird-theodore-beza": [
+   "theodorebezacoun00bair",
+   "Theodore Beza, the Counsellor of the French Reformation, 1519-1605 (New York and London: Putnam, 1899)"
+  ]
+ },
+ "_alternates": {
+  "historyrisehugu0[0-3]bairgoog": "Google scans of the Rise.",
+  "huguenotsandhenr01bairuoft, huguenotsandhenr02bairuoft, huguenotshenryof00bairuoft": "Toronto copies of Henry of Navarre.",
+  "huguenotsandrev00bairgoog": "A second Google copy of Revocation vol. 1.",
+  "theodorebezacou00bair": "Toronto copy of Beza.",
+  "historyofriseofh02bairiala (London: Hodder, 1880)": "The London issue of vol. 2."
+ },
+ "_pending": {
+  "The Huguenots and the Revocation of the Edict of Nantes, vol. 2 (1895)": "Both Google scans found are vol. 1; the only vol. 2 copies are a lending-library reprint and a community upload with no text file."
+ },
+ "_excluded": {
+  "huguenotsrevocat0000*, isbn_9781152780972": "Lending-library and print-on-demand reprints."
+ },
+ "_checks": {
+  "baird-rise-huguenots-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baird-rise-huguenots-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baird-henry-of-navarre-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baird-henry-of-navarre-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baird-revocation-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baird-theodore-beza": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

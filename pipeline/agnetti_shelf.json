@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Mary Prichard Agnetti (1870-1948): Fogazzaro's The Patriot (Piccolo mondo antico, 1906) and Leila (1911). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Mary Prichard Agnetti (1870-1948): Fogazzaro's The Patriot (Piccolo mondo antico, 1906) and Leila (1911); from archive.org, The Saint (1906) and The Sinner (1907). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
  "_name_words": [
   "prichard agnetti",
   "agnetti"
@@ -20,7 +20,16 @@
    "Leila"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "agn-ia-fogazzaro-saint": [
+   "saintilsanto00agnegoog",
+   "Fogazzaro: The Saint"
+  ],
+  "agn-ia-fogazzaro-sinner": [
+   "thesinner00fogaiala",
+   "Fogazzaro: The Sinner"
+  ]
+ },
  "titles": {
   "agnetti-fogazzaro-leila": {
    "source": "agn-78258",
@@ -37,15 +46,35 @@
    "translated": "1906-1911 (see the Gutenberg header)",
    "translator": "M. Prichard Agnetti",
    "scan_edition": "Project Gutenberg 33778 (clean text)"
+  },
+  "agnetti-fogazzaro-the-saint": {
+   "source": "agn-ia-fogazzaro-saint",
+   "of": "Antonio Fogazzaro",
+   "work": "The Saint (Il Santo)",
+   "translated": "1906",
+   "translator": "Mary Prichard Agnetti",
+   "scan_edition": "G. P. Putnam's Sons, New York and London, 1908: the November 1908 reprint of the August 1906 first printing (Google scan); introduction by William Roscoe Thayer"
+  },
+  "agnetti-fogazzaro-the-sinner": {
+   "source": "agn-ia-fogazzaro-sinner",
+   "of": "Antonio Fogazzaro",
+   "work": "The Sinner (Piccolo mondo moderno)",
+   "translated": "1907",
+   "translator": "Mary Prichard Agnetti",
+   "scan_edition": "G. P. Putnam's Sons, New York and London, copyright 1907"
   }
  },
- "_pending": {},
- "_excluded": {},
+ "_pending": {
+  "agnetti-papini-story-of-christ": "Papini's The Story of Christ (Hodder and Stoughton, 'third edition'; in.ernet.dli.2015.220638). The title page names her but prints no year; the translation is 1923. Shelve once a dated pre-1931 printing is found."
+ },
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Papini's Story of Christ (storyofchrist0000papi) is a Hodder printing whose impression list runs to 1933, so it is past the 1930 line."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "agn-33778": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "prichard agnetti",
    "identity": "ok",
@@ -54,12 +83,34 @@
   },
   "agn-78258": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "prichard agnetti",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Mary Prichard Agnetti"
+  },
+  "agn-ia-fogazzaro-saint": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prichard agnetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "agn-ia-fogazzaro-sinner": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prichard agnetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +123,29 @@
    "pg": 78258,
    "pg_copyrighted_marker": false,
    "pg_translator": "Mary Prichard Agnetti"
+  },
+  "agn-ia-fogazzaro-saint": {
+   "ia": "saintilsanto00agnegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1842,
+    1881,
+    1905,
+    1906,
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "agn-ia-fogazzaro-sinner": {
+   "ia": "thesinner00fogaiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896,
+    1901,
+    1905,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

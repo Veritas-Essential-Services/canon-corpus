@@ -1,0 +1,196 @@
+{
+ "_about": "Public-domain George Herbert Morrison (1866-1928), minister of Wellington Church, Glasgow, for the Word Hoard: his volumes of Sunday-evening addresses from Sun-Rise (1903) to Highways of the Heart (1926), with The Footsteps of the Flock and The Significance of the Cross. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 72 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "morrison"
+ ],
+ "_surname": [
+  "g. h. morrison",
+  "g.h. morrison",
+  "george h. morrison",
+  "george herbert morrison"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "morrison-sun-rise": [
+   "sunriseaddresses00morr",
+   "Sun-rise : addresses from a city pulpit (New York : Hodder and Stoughton, 1903)"
+  ],
+  "morrison-footsteps-of-flock": [
+   "footstepsofflock0000morr",
+   "The footsteps of the flock : scripture studies for every Sunday of the year (London : Hodder and Stoughton, 1904)"
+  ],
+  "morrison-wings-of-morning": [
+   "wingsofmorningad00morr",
+   "The wings of the morning : addresses from a Glasgow pulpit (A.C. Armstrong and Son, 1907)"
+  ],
+  "morrison-return-of-angels": [
+   "returnoftheangel00morruoft",
+   "The return of the angels : Sunday evenings in a Glasgow pulpit (London : Hodder and Stoughton, 1909)"
+  ],
+  "morrison-flood-tide": [
+   "floodtidesundaye00morr",
+   "Flood-tide : Sunday evenings in a city pulpit (London : Hodder and Stoughton, 1910)"
+  ],
+  "morrison-unlighted-lustre": [
+   "unlightedlustrea0000morr",
+   "The Unlighted Lustre: addresses from a Glasgow pulpit (New York and London: Hodder and Stoughton; undated, catalogued as 191-)"
+  ],
+  "morrison-afterglow-of-god": [
+   "afterglowgodsun00morrgoog",
+   "The Afterglow of God: Sunday evenings in a Glasgow pulpit (London: Hodder and Stoughton, 1912)"
+  ],
+  "morrison-weaving-of-glory": [
+   "weavingofglorysu0000morr",
+   "The weaving of glory : Sunday evening addresses from a city pulpit (London : Hodder & Stoughton, 1913)"
+  ],
+  "morrison-wind-on-the-heath": [
+   "windonheathsunda0000morr",
+   "The wind on the heath : Sunday evening addresses from a Glasgow pulpit (London : Hodder and Soughton, 1916)"
+  ],
+  "morrison-significance-of-cross": [
+   "significanceofcr0000morr",
+   "The significance of the cross : a New Testament study (New York : George H. Doran, 1924)"
+  ],
+  "morrison-highways-of-heart": [
+   "highwaysofhearts0000morr",
+   "Highways of the heart : a series of addresses (New York : Doran, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "morrison-restfulness": "The Restfulness of Christ and the Unseen Vision (1912), a 42-page pamphlet of two addresses"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "morrison-wings-of-morning": "title page OCR reads 'ADDRESSES FROM A GLASGOW PULPIT BY THE REV. g\" H. MORRISON, M.A. NEW YORK A. C. ARMSTRONG AND SON ... MCMVII' (OCR garbled)"
+ },
+ "_pending": {
+  "morrison-ever-open-door": "The Ever Open Door (London: Hodder and Stoughton, first published March 1929): the only scan found (everopendoor0000morr) is a reprint of October 1930 or later, so it breaks this shelf's 'printed before 1930' line; the text itself is the 1929 one. Held for Adam"
+ },
+ "_translators": {},
+ "_checks": {
+  "morrison-sun-rise": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morrison-footsteps-of-flock": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morrison-wings-of-morning": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morrison-return-of-angels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morrison-flood-tide": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morrison-unlighted-lustre": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[191-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morrison-afterglow-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morrison-weaving-of-glory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morrison-wind-on-the-heath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morrison-significance-of-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morrison-highways-of-heart": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

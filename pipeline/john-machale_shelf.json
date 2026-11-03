@@ -1,0 +1,94 @@
+{
+ "_about": "Public-domain John MacHale (1791-1881), Catholic Archbishop of Tuam, for the Word Hoard: The Evidences and Doctrines of the Catholic Church, his Letters, Sermons and Discourses, and five sermons preached in Rome (in Italian). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 109 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john machale",
+  "john mac hale",
+  "j. machale",
+  "machale",
+  "mac hale"
+ ],
+ "_surname": [
+  "john machale",
+  "john mac hale",
+  "machale",
+  "mac hale"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "machale-sermoni-roma": [
+   "sermonicinquepre00mach",
+   "Sermoni cinque predicati in Roma : nel corrente anno ecclesiastico / dall' illmo e rmo monsig. Giovanni Mac-Hale, vescovo di Maronia e coadiutore di Killala in Irlanda ; e dall'inglese recati in italiano dall'Ab. Antonino De-Luca (nel Collegio Urbano, 1832)"
+  ],
+  "machale-letters": [
+   "lettersofmostrev00mach",
+   "The letters of the Most Reverend John Mac Hale, D.D (Dublin : J. Duffy, 1847)"
+  ],
+  "machale-sermons": [
+   "sermonsanddiscou00machuoft",
+   "Sermons and discourses (Dublin : Gill ; New York : Catholic Publication Society, 1883)"
+  ],
+  "machale-evidences": [
+   "evidencesdoctrin00mach",
+   "The evidences and doctrines of the Catholic Church : showing that the former are no less convincing than the latter are propitious to the happiness of society (catalogued 1885)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "machale-german": "10775010bsb (a German translation by another hand)",
+  "machale-moore": "His Irish translations of Moore's Melodies and the Ballad History are literary; left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "machale-letters-english": "Letters of Hierophilos to the English People on the moral and political state of Ireland (1822), IA 10280103bsb: signed only \"Hierophilos\"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "machale-sermoni-roma": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mac hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "machale-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john mac hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "machale-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john mac hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "machale-evidences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john mac hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

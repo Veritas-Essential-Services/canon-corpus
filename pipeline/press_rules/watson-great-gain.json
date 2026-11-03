@@ -1,0 +1,25 @@
+{
+ "supplied": [
+  {
+   "find": " Dw[⟨•⟩]{.gap}ll ",
+   "replace": " Dw[e]{.supplied}ll ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " d[⟨•⟩]{.gap}mnation.",
+   "replace": " d[a]{.supplied}mnation.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}aints ",
+   "replace": " [S]{.supplied}aints ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

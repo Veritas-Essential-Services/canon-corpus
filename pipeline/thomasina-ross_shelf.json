@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Thomasina Ross: Humboldt and Bonpland's Personal Narrative (Bohn, 1852-53, 3 vols), Tschudi's Travels in Peru (1847), Bouterwek's History of Spanish and Portuguese Literature (1823, 2 vols) and Castro's El Buscapié. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Thomasina Ross: Humboldt and Bonpland's Personal Narrative (Bohn, 1852-53, 3 vols), Tschudi's Travels in Peru (1847), Bouterwek's History of Spanish and Portuguese Literature (1823, 2 vols) and Castro's El Buscapié. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted. From archive.org (2026-10-23): Tschudi's Travels in Peru (Wiley & Putnam, 1847).",
  "_name_words": [
   "thomasina ross"
  ],
@@ -38,7 +38,12 @@
    "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "tro-ia-tschudi-peru": [
+   "travelsinperudu00rossgoog",
+   "Tschudi: Travels in Peru"
+  ]
+ },
  "titles": {
   "thomasina-ross-bouterwek-spanish-portuguese-literature-vol-1": {
    "source": "tro-55829",
@@ -95,6 +100,14 @@
    "translated": "1823-1853 (see the Gutenberg header)",
    "translator": "Thomasina Ross",
    "scan_edition": "Project Gutenberg 26745 (clean text)"
+  },
+  "thomasina-ross-tschudi-travels-in-peru": {
+   "source": "tro-ia-tschudi-peru",
+   "of": "J. J. von Tschudi",
+   "work": "Travels in Peru during the Years 1838-1842",
+   "translated": "1847",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Wiley & Putnam, New York, 1847 (Wiley & Putnam's Library of Choice Reading)"
   }
  },
  "_pending": {},
@@ -103,7 +116,7 @@
  "_checks": {
   "tro-26745": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomasina ross",
    "identity": "ok",
@@ -112,7 +125,7 @@
   },
   "tro-55829": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomasina ross",
    "identity": "ok",
@@ -121,7 +134,7 @@
   },
   "tro-56396": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomasina ross",
    "identity": "ok",
@@ -130,7 +143,7 @@
   },
   "tro-6322": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomasina ross",
    "identity": "ok",
@@ -139,7 +152,7 @@
   },
   "tro-64011": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomasina ross",
    "identity": "ok",
@@ -148,7 +161,7 @@
   },
   "tro-7014": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomasina ross",
    "identity": "ok",
@@ -157,12 +170,23 @@
   },
   "tro-7254": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomasina ross",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Thomasina Ross"
+  },
+  "tro-ia-tschudi-peru": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -200,6 +224,17 @@
    "pg": 7254,
    "pg_copyrighted_marker": false,
    "pg_translator": "Thomasina Ross"
+  },
+  "tro-ia-tschudi-peru": {
+   "ia": "travelsinperudu00rossgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1823,
+    1838,
+    1842,
+    1847
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

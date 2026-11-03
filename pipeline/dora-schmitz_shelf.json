@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: L. Dora Schmitz: Haeckel's The History of Creation (1876, 2 vols, rev. E. Ray Lankester). Her Schliemann is on schliemann_shelf.json (another lane). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: L. Dora Schmitz: Haeckel's The History of Creation (1876, 2 vols, rev. E. Ray Lankester). Her Schliemann is on schliemann_shelf.json (another lane). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. From archive.org (2026-10-23): Elze's Essays on Shakespeare (1874) and William Shakespeare (1888), Ulrici's Shakspeare's Dramatic Art (2 vols, 1876), the Schiller-Goethe Correspondence (2 vols, 1877), Stinde's The Buchholz Family (1887) and Schiller's Revolt of the Netherlands (1897, with A. J. W. Morrison).",
  "_name_words": [
   "l. dora schmitz",
   "dora schmitz"
@@ -20,7 +20,40 @@
    "The History of Creation, Vol. 2 (of 2)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lds-ia-stinde-buchholz": [
+   "buchholzfamilysk0000unse",
+   "Stinde: The Buchholz Family"
+  ],
+  "lds-ia-schiller-goethe-1": [
+   "correspondenceb00schmgoog",
+   "Correspondence between Schiller and Goethe 1"
+  ],
+  "lds-ia-schiller-goethe-2": [
+   "correspondencebe02schi",
+   "Correspondence between Schiller and Goethe 2"
+  ],
+  "lds-ia-elze-essays-shakespeare": [
+   "essaysonshakesp00elzegoog",
+   "Elze: Essays on Shakespeare"
+  ],
+  "lds-ia-ulrici-dramatic-art-1": [
+   "shakspearesdram02ulrigoog",
+   "Ulrici: Shakspeare's Dramatic Art 1"
+  ],
+  "lds-ia-ulrici-dramatic-art-2": [
+   "shakspearesdram05ulrigoog",
+   "Ulrici: Shakspeare's Dramatic Art 2"
+  ],
+  "lds-ia-elze-william-shakespeare": [
+   "williamshakespea00elzeuoft",
+   "Elze: William Shakespeare"
+  ],
+  "lds-ia-schiller-revolt-netherlands": [
+   "revoltunitednet00schmgoog",
+   "Schiller: The Revolt of the United Netherlands"
+  ]
+ },
  "titles": {
   "dora-schmitz-haeckel-the-history-of-creation-vol-1": {
    "source": "lds-40472",
@@ -37,17 +70,82 @@
    "translated": "1876 (see the Gutenberg header)",
    "translator": "L. Dora Schmitz",
    "scan_edition": "Project Gutenberg 40473 (clean text)"
+  },
+  "dora-schmitz-stinde-the-buchholz-family": {
+   "source": "lds-ia-stinde-buchholz",
+   "of": "Julius Stinde",
+   "work": "The Buchholz Family: Sketches of Berlin Life",
+   "translated": "1887",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "1887, translated from the forty-second German edition (archive.org scan)"
+  },
+  "dora-schmitz-correspondence-between-schiller-and-goethe-1": {
+   "source": "lds-ia-schiller-goethe-1",
+   "of": "Friedrich Schiller and J. W. von Goethe",
+   "work": "Correspondence between Schiller and Goethe, from 1794 to 1805, vol. I",
+   "translated": "1877",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "George Bell and Sons (Bohn's Standard Library), London, 1877 (Google scan)"
+  },
+  "dora-schmitz-correspondence-between-schiller-and-goethe-2": {
+   "source": "lds-ia-schiller-goethe-2",
+   "of": "Friedrich Schiller and J. W. von Goethe",
+   "work": "Correspondence between Schiller and Goethe, from 1794 to 1805, vol. II (1798-1805)",
+   "translated": "1877",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "George Bell and Sons, London, 1890 printing"
+  },
+  "dora-schmitz-elze-essays-on-shakespeare": {
+   "source": "lds-ia-elze-essays-shakespeare",
+   "of": "Karl Elze",
+   "work": "Essays on Shakespeare",
+   "translated": "1874",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "Macmillan and Co., London, 1874 (Google scan); \"translated with the author's sanction\""
+  },
+  "dora-schmitz-ulrici-shakspeares-dramatic-art-1": {
+   "source": "lds-ia-ulrici-dramatic-art-1",
+   "of": "Hermann Ulrici",
+   "work": "Shakspeare's Dramatic Art: History and Character of Shakspeare's Plays, vol. I",
+   "translated": "1876",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "George Bell and Sons, London, 1876 (Google scan)"
+  },
+  "dora-schmitz-ulrici-shakspeares-dramatic-art-2": {
+   "source": "lds-ia-ulrici-dramatic-art-2",
+   "of": "Hermann Ulrici",
+   "work": "Shakspeare's Dramatic Art: History and Character of Shakspeare's Plays, vol. II",
+   "translated": "1876",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "George Bell and Sons, London, a later printing: the OCR reads its year as \"1008\" and archive.org dates it 1906; either way before 1931"
+  },
+  "dora-schmitz-elze-william-shakespeare": {
+   "source": "lds-ia-elze-william-shakespeare",
+   "of": "Karl Elze",
+   "work": "William Shakespeare: a Literary Biography",
+   "translated": "1888",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "George Bell and Sons (Bohn's Standard Library), London, 1888"
+  },
+  "dora-schmitz-schiller-revolt-of-the-united-netherlands": {
+   "source": "lds-ia-schiller-revolt-netherlands",
+   "of": "Friedrich Schiller",
+   "work": "The History of the Revolt of the United Netherlands, with the Trial of Counts Egmont and Horn and the Siege of Antwerp",
+   "translated": "1897",
+   "translator": "A. J. W. Morrison and L. Dora Schmitz",
+   "scan_edition": "George Bell & Sons, London, 1897 (Google scan); the title page names both translators"
   }
  },
  "_pending": {},
  "_excluded": {
-  "pg-45190": "Schliemann's Troy and Its Remains is on schliemann_shelf.json."
+  "pg-45190": "Schliemann's Troy and Its Remains is on schliemann_shelf.json.",
+  "archive-sweep-2026-10-23": "2026-10-23: Goethe's Miscellaneous Travels (1884) names her as editor only."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "lds-40472": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "l. dora schmitz",
    "identity": "ok",
@@ -56,12 +154,100 @@
   },
   "lds-40473": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "l. dora schmitz",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "L. Dora Schmitz"
+  },
+  "lds-ia-stinde-buchholz": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lds-ia-schiller-goethe-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lds-ia-schiller-goethe-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lds-ia-elze-essays-shakespeare": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lds-ia-ulrici-dramatic-art-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lds-ia-ulrici-dramatic-art-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lds-ia-elze-william-shakespeare": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lds-ia-schiller-revolt-netherlands": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -74,6 +260,97 @@
    "pg": 40473,
    "pg_copyrighted_marker": false,
    "pg_translator": "L. Dora Schmitz"
+  },
+  "lds-ia-stinde-buchholz": {
+   "ia": "buchholzfamilysk0000unse",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1730,
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lds-ia-schiller-goethe-1": {
+   "ia": "correspondenceb00schmgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1781,
+    1784,
+    1787,
+    1788,
+    1794,
+    1795,
+    1797,
+    1805,
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lds-ia-schiller-goethe-2": {
+   "ia": "correspondencebe02schi",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1708,
+    1794,
+    1798,
+    1805,
+    1890
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "The title page reads 'L. DOEA SCHMITZ' in the OCR (Dora misread), Vol. II, George Bell and Sons, 1890"
+  },
+  "lds-ia-elze-essays-shakespeare": {
+   "ia": "essaysonshakesp00elzegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1596,
+    1598,
+    1601,
+    1611,
+    1808,
+    1839,
+    1845,
+    1846,
+    1867,
+    1872,
+    1874
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lds-ia-ulrici-dramatic-art-1": {
+   "ia": "shakspearesdram02ulrigoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1876
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lds-ia-ulrici-dramatic-art-2": {
+   "ia": "shakspearesdram05ulrigoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "lds-ia-elze-william-shakespeare": {
+   "ia": "williamshakespea00elzeuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1613,
+    1623,
+    1666,
+    1846,
+    1876,
+    1888
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lds-ia-schiller-revolt-netherlands": {
+   "ia": "revoltunitednet00schmgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

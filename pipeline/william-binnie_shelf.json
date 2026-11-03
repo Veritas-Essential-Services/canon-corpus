@@ -1,0 +1,40 @@
+{
+ "_about": "William Binnie (1823-1886), Reformed Presbyterian, then Free Church professor at Aberdeen: The Psalms, their History, Teachings and Use (London: Nelson, 1870). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "william binnie",
+  "w. binnie",
+  "dr binnie",
+  "dr. binnie"
+ ],
+ "_surname": [
+  "william binnie",
+  "w. binnie",
+  "dr binnie",
+  "dr. binnie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "binnie-psalms-1870": [
+   "psalmstheirhisto00binn",
+   "The Psalms: their History, Teachings and Use (London: Nelson, 1870)"
+  ]
+ },
+ "_alternates": {
+  "thepsalmstheirh00binnuoft (1886, new edition), bwb_P9-DJF-179": "The 1886 revised edition and a lending copy."
+ },
+ "_excluded": {},
+ "_checks": {
+  "binnie-psalms-1870": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william binnie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

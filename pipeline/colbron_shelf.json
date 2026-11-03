@@ -32,7 +32,16 @@
    "The Case of the Golden Bullet"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "col-groner-mene-tekel": [
+   "menetekeltaleofs00gron",
+   "Mene Tekel"
+  ],
+  "col-wolzogen-third-sex": [
+   "thirdsex00wolziala",
+   "The Third Sex"
+  ]
+ },
  "titles": {
   "colbron-groner-the-case-of-the-golden-bullet": {
    "source": "col-1836",
@@ -73,6 +82,22 @@
    "translated": "1910 (see the Gutenberg header)",
    "translator": "Grace Isabel Colbron",
    "scan_edition": "Project Gutenberg 1833 (clean text)"
+  },
+  "colbron-groner-mene-tekel": {
+   "source": "col-groner-mene-tekel",
+   "of": "Auguste Groner",
+   "work": "Mene Tekel: a Tale of Strange Happenings",
+   "translated": 1912,
+   "translator": "Grace Isabel Colbron",
+   "scan_edition": "Duffield, New York 1912; archive.org scan (\"English version by\")"
+  },
+  "colbron-wolzogen-the-third-sex": {
+   "source": "col-wolzogen-third-sex",
+   "of": "Ernst von Wolzogen",
+   "work": "The Third Sex",
+   "translated": 1914,
+   "translator": "Grace Isabel Colbron",
+   "scan_edition": "The Macaulay Company, New York 1914; archive.org scan (\"English version by\")"
   }
  },
  "_pending": {},
@@ -81,7 +106,7 @@
  "_checks": {
   "col-1832": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "grace isabel colbron",
    "identity": "ok",
@@ -90,7 +115,7 @@
   },
   "col-1833": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "grace isabel colbron",
    "identity": "ok",
@@ -99,7 +124,7 @@
   },
   "col-1834": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "grace isabel colbron",
    "identity": "ok",
@@ -108,7 +133,7 @@
   },
   "col-1835": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "grace isabel colbron",
    "identity": "ok",
@@ -117,12 +142,34 @@
   },
   "col-1836": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "grace isabel colbron",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-groner-mene-tekel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace isabel colbron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "col-wolzogen-third-sex": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace isabel colbron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -150,6 +197,22 @@
    "pg": 1836,
    "pg_copyrighted_marker": false,
    "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-groner-mene-tekel": {
+   "ia": "menetekeltaleofs00gron",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "col-wolzogen-third-sex": {
+   "ia": "thirdsex00wolziala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

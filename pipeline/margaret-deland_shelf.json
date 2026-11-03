@@ -1,0 +1,163 @@
+{
+ "_about": "Margaret Deland's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Margaret Deland",
+ "_name_words": [
+  "deland",
+  "margaret"
+ ],
+ "_surname": [
+  "margaret deland",
+  "deland"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mdeland-voice": [
+   2387,
+   "The Voice"
+  ],
+  "mdeland-way-to-peace": [
+   2685,
+   "The Way to Peace"
+  ],
+  "mdeland-awakening-of-helena-richie": [
+   6315,
+   "The Awakening of Helena Richie"
+  ],
+  "mdeland-iron-woman": [
+   6474,
+   "The Iron Woman"
+  ],
+  "mdeland-vehement-flame": [
+   15927,
+   "The Vehement Flame"
+  ],
+  "mdeland-john-ward-preacher": [
+   18478,
+   "John Ward, Preacher"
+  ],
+  "mdeland-encore": [
+   29284,
+   "An Encore"
+  ],
+  "mdeland-old-chester-secret": [
+   31792,
+   "An Old Chester Secret"
+  ],
+  "mdeland-dr-lavendars-people": [
+   34427,
+   "Dr. Lavendar's People"
+  ],
+  "mdeland-wisdom-of-fools": [
+   53579,
+   "The Wisdom of Fools"
+  ],
+  "mdeland-rising-tide": [
+   54910,
+   "The Rising Tide"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mdeland-voice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-way-to-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-awakening-of-helena-richie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-iron-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-vehement-flame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-john-ward-preacher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-encore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-old-chester-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-dr-lavendars-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-wisdom-of-fools": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdeland-rising-tide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret deland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

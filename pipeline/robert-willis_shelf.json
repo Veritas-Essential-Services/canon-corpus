@@ -1,10 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: Robert Willis (1799-1878): The Works of William Harvey (Sydenham Society, 1847) and its De Motu Cordis in the Everyman reprint. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Robert Willis (1799-1878): The Works of William Harvey (Sydenham Society, 1847) and its De Motu Cordis in the Everyman reprint. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted. From archive.org (2026-10-23): Spurzheim's The Anatomy of the Brain (Highley, 1826), whose title page names him 'R. Willis, Member of the Royal College of Surgeons'; that form is recorded.",
  "_name_words": [
-  "robert willis"
+  "robert willis",
+  "r. willis"
  ],
  "_surname": [
-  "robert willis"
+  "robert willis",
+  "r. willis"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -18,7 +20,12 @@
    "An anatomical disquisition on the motion of the heart & blood in animals"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "rwi-ia-spurzheim-anatomy-brain": [
+   "anatomybrainwit00spurgoog",
+   "Spurzheim: The Anatomy of the Brain"
+  ]
+ },
  "titles": {
   "robert-willis-harvey-an-anatomical-disquisition-on-the-motion": {
    "source": "rwi-67065",
@@ -35,15 +42,23 @@
    "translated": "1847 (see the Gutenberg header)",
    "translator": "Robert Willis",
    "scan_edition": "Project Gutenberg 58857 (clean text)"
+  },
+  "robert-willis-spurzheim-the-anatomy-of-the-brain": {
+   "source": "rwi-ia-spurzheim-anatomy-brain",
+   "of": "G. Spurzheim",
+   "work": "The Anatomy of the Brain, with a General View of the Nervous System",
+   "translated": "1826",
+   "translator": "Robert Willis",
+   "scan_edition": "S. Highley, London, 1826 (translated from the unpublished French manuscript)"
   }
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'r. willis' is the title-page form of the Spurzheim Anatomy of the Brain (1826).",
  "_checks": {
   "rwi-58857": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "robert willis",
    "identity": "ok",
@@ -52,12 +67,23 @@
   },
   "rwi-67065": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "robert willis",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Robert Willis"
+  },
+  "rwi-ia-spurzheim-anatomy-brain": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. willis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +96,20 @@
    "pg": 67065,
    "pg_copyrighted_marker": false,
    "pg_translator": "Robert Willis"
+  },
+  "rwi-ia-spurzheim-anatomy-brain": {
+   "ia": "anatomybrainwit00spurgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1795,
+    1800,
+    1802,
+    1804,
+    1805,
+    1808,
+    1813
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: W. J. Alexander Worster (1882-1929): Knut Hamsun (Growth of the Soil, Pan, Wanderers, Mothwise; Knopf/Gyldendal, 1920-22), Bojer's The Great Hunger, Gunnarsson, Buchholtz and Nilsen. He died in 1929. US public domain (published before 1931). Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: W. J. Alexander Worster (1882-1929): Knut Hamsun (Growth of the Soil, Pan, Wanderers, Mothwise; Knopf/Gyldendal, 1920-22), Bojer's The Great Hunger, Gunnarsson, Buchholtz and Nilsen. He died in 1929. US public domain (published before 1931). Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted. Round 133 (2026-10-23, vetoable) added from archive.org Lagerlöf's The Outcast (1922), Linnankoski's The Song of the Blood-Red Flower (1921), Buchholtz's The Miracles of Clara van Haag (1922) and Kreutzer's Captain Zillner (1919).",
  "_name_words": [
   "w. w. worster",
   "worster"
@@ -44,7 +44,24 @@
    "Wanderers"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "wor-lagerlof-outcast": [
+   "outcast00worsgoog",
+   "The Outcast"
+  ],
+  "wor-linnankoski-song-of-the-blood-red-flower": [
+   "songofbloodredfl00linn",
+   "The Song of the Blood-Red Flower"
+  ],
+  "wor-buchholtz-miracles-of-clara-van-haag": [
+   "miraclesofclarav00buch",
+   "The Miracles of Clara van Haag"
+  ],
+  "wor-kreutzer-captain-zillner": [
+   "captainzillnerhu00kreuiala",
+   "Captain Zillner"
+  ]
+ },
  "titles": {
   "worster-bojer-the-great-hunger": {
    "source": "wor-2943",
@@ -109,9 +126,43 @@
    "translated": "1918-1923 (see the Gutenberg header)",
    "translator": "W. W. Worster",
    "scan_edition": "Project Gutenberg 35918 (clean text)"
+  },
+  "worster-lagerlof-the-outcast": {
+   "source": "wor-lagerlof-outcast",
+   "of": "Selma Lagerlöf",
+   "work": "The Outcast",
+   "translated": 1922,
+   "translator": "W. Worster",
+   "scan_edition": "Doubleday, Page, Garden City 1922; archive.org scan (Google copy)"
+  },
+  "worster-linnankoski-the-song-of-the-blood-red-flower": {
+   "source": "wor-linnankoski-song-of-the-blood-red-flower",
+   "of": "Johannes Linnankoski",
+   "work": "The Song of the Blood-Red Flower",
+   "translated": 1921,
+   "translator": "W. Worster",
+   "scan_edition": "Moffat, Yard, New York 1921; archive.org scan"
+  },
+  "worster-buchholtz-the-miracles-of-clara-van-haag": {
+   "source": "wor-buchholtz-miracles-of-clara-van-haag",
+   "of": "Johannes Buchholtz",
+   "work": "The Miracles of Clara van Haag",
+   "translated": 1922,
+   "translator": "W. W. Worster",
+   "scan_edition": "Alfred A. Knopf, New York 1922; archive.org scan"
+  },
+  "worster-kreutzer-captain-zillner": {
+   "source": "wor-kreutzer-captain-zillner",
+   "of": "Rudolf Jeremias Kreutz",
+   "work": "Captain Zillner: A Human Document",
+   "translated": 1919,
+   "translator": "W. J. Alexander Worster",
+   "scan_edition": "Hodder and Stoughton, London and New York (1919); archive.org scan"
   }
  },
- "_pending": {},
+ "_pending": {
+  "ia-jessen-katya": "Franz de Jessen's Katya: A Romance of Russia (John W. Luce, Boston; katyaromanceofru00jessiala): the scan prints no year, so it waits under the undated-printing rule."
+ },
  "_excluded": {
   "pg-28932": "Rasmussen's Eskimo Folk-Tales is on rasmussen_shelf.json (another lane).",
   "pg-71086": "Lagerlöf's The Outcast (1922) is left for lagerlof_shelf.json (another lane), which does not hold it yet."
@@ -120,7 +171,7 @@
  "_checks": {
   "wor-10984": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "worster",
    "identity": "ok",
@@ -129,7 +180,7 @@
   },
   "wor-2943": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "worster",
    "identity": "ok",
@@ -138,7 +189,7 @@
   },
   "wor-35918": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "worster",
    "identity": "ok",
@@ -147,7 +198,7 @@
   },
   "wor-46220": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. worster",
    "identity": "ok",
@@ -156,7 +207,7 @@
   },
   "wor-46913": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. worster",
    "identity": "ok",
@@ -165,7 +216,7 @@
   },
   "wor-62455": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. worster",
    "identity": "ok",
@@ -174,7 +225,7 @@
   },
   "wor-7214": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. worster",
    "identity": "ok",
@@ -183,12 +234,56 @@
   },
   "wor-7762": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. worster",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-lagerlof-outcast": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "worster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wor-linnankoski-song-of-the-blood-red-flower": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "worster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wor-buchholtz-miracles-of-clara-van-haag": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. worster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "c1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wor-kreutzer-captain-zillner": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "worster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "[1919]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -231,6 +326,40 @@
    "pg": 7762,
    "pg_copyrighted_marker": false,
    "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-lagerlof-outcast": {
+   "ia": "outcast00worsgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wor-linnankoski-song-of-the-blood-red-flower": {
+   "ia": "songofbloodredfl00linn",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1559,
+    1822,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wor-buchholtz-miracles-of-clara-van-haag": {
+   "ia": "miraclesofclarav00buch",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wor-kreutzer-captain-zillner": {
+   "ia": "captainzillnerhu00kreuiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

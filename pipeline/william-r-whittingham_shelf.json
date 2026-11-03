@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain William Rollinson Whittingham, Episcopal Bishop of Maryland, for the Word Hoard: three of his sermons, The Ministry Called to Self-Denial, The Voice of the Lord, and Mammon-Worship. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 131 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william rollinson whittingham",
+  "william r. whittingham",
+  "w. r. whittingham",
+  "whittingham",
+  "bishop of maryland"
+ ],
+ "_surname": [
+  "whittingham"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whittingham-self-denial": [
+   "ministrycalledto00whit",
+   "The ministry called to self-denial : a sermon preached at the matriculation of students in the General Theological Seminary of the Protestant Episcopal Church in the United States, on the evening of the third Sunday in Advent, Dec. 15, 1839, in St. Peter's Church, New-York (New York : Xylographic Press, 1840)"
+  ],
+  "whittingham-voice-of-lord": [
+   "voiceoflordsermo00whit",
+   "The voice of the Lord: a sermon, preached in St. John's church, Washington (Washington, W. Morrison, 1841)"
+  ],
+  "whittingham-mammon-worship": [
+   "mammonworshipser00whit",
+   "Mammon-worship. A sermon (Baltimore, 1850)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "whittingham-edited": "Jahn's Introduction, Jewel's Apology, the Apostolic Fathers, Ratramn, Palmer's Church History, Casaubon and Hill are other men's books he translated or edited",
+  "whittingham-catalogue": "the catalogue of his liturgical library is a book list"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "whittingham-correspondence": "Correspondence between Bishop Whittingham and others (1852, IA correspondencebe00whit): letters by several writers (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "whittingham-self-denial": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whittingham-voice-of-lord": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittingham-mammon-worship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,182 @@
+{
+ "_about": "Public-domain W. H. Fremantle, Dean of Ripon and broad-church writer, for the Word Hoard: The World as the Subject of Redemption (his Bampton Lectures), The Gospel of the Secular Life, Church Reform, Christian Ordinances and Social Progress, Natural Christianity, sermons and essays, and his Recollections. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 121 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. h. fremantle",
+  "william henry fremantle",
+  "dean fremantle",
+  "fremantle"
+ ],
+ "_surname": [
+  "fremantle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fremantle-commerce": [
+   "influencecommer00fremgoog",
+   "The Influence of Commerce Upon Christianity: A Prize Essay, Read in the Theatre, Oxford, June 28 (T. and G. Shrimpton, 1854)"
+  ],
+  "fremantle-secular-life": [
+   "thegospelofthese00fremuoft",
+   "The Gospel of the secular life, sermons preached at Oxford : with a prefatory essay (London : Cassell, 1882)"
+  ],
+  "fremantle-universal-priesthood": [
+   "sermononuniversa00frem",
+   "Sermon on the universal priesthood of believers (Oxford, 1882)"
+  ],
+  "fremantle-redemption": [
+   "worldassubjectof0000frem",
+   "The world as the subject of redemption : being an attempt to set forth the functions of the church as designed to embrace the whole race of mankind : eight lectures delivered before the University of Oxford in the year 1883 on the foundation of the late Rev. John Bampton (London : Rivington's, 1885)"
+  ],
+  "fremantle-church-reform": [
+   "churchreform00fremgoog",
+   "Church Reform (S. Sonnenschein, Lowrey, 1888)"
+  ],
+  "fremantle-canterbury": [
+   "canterburycathe00fremgoog",
+   "Canterbury cathedral (Isbister &amp; co., ltd., 1897, 1897)"
+  ],
+  "fremantle-patriotism": [
+   "patriotismcosmop00frem",
+   "Patriotism and cosmopolitanism, a sermon for the Peace Conference, preached in the English Church at the Hague, Sunday, May 28th, 1899 (Ripon, Thirlway, 1899)"
+  ],
+  "fremantle-ordinances": [
+   "christianordinan0000frem",
+   "Christian ordinances and social progress (Boston ; New York : Houghton, Mifflin and Company, 1901)"
+  ],
+  "fremantle-natural-christianity": [
+   "naturalchristian00fremrich",
+   "Natural Christianity (London ; New York : Harper and Brothers, 1911)"
+  ],
+  "fremantle-recollections": [
+   "recollectionsofd00frem",
+   "Recollections of Dean Fremantle, chiefly by himself (London, New York : Cassell, 1921)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fremantle-jowett": "the Jowett sermons he edited are Jowett's",
+  "fremantle-privy-council": "the Privy Council ecclesiastical judgments are a law collection he co-edited",
+  "fremantle-aggressive-work": "Aggressive Work in the Church of Christ is by another author"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "fremantle-commerce": "OCR of the title page: \"A PRIZE ESSAY, READ IS TEE THElTRE, OXFORD, JUNE 28, 1854. WILLIAM HENRY FEEMANTLE, B. A. BALL. COLL.\" (FEEMANTLE is OCR for Fremantle)",
+  "fremantle-secular-life": "OCR of the title page: \"WITH A PREFATORY ESSAY. \\.\\ THE HON. VV. H. 'pREMANTLE/ LATE FELLOW OF ALL s< ... AND CANON OF CANTERBURY ... 1882\" (pREMANTLE is OCR for Fremantle)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fremantle-commerce": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fremantle-secular-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fremantle-universal-priesthood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fremantle-redemption": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fremantle-church-reform": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fremantle-canterbury": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fremantle-patriotism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fremantle-ordinances": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fremantle-natural-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fremantle-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fremantle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "_about": "David C. A. Agnew, Protestant Exiles from France, chiefly in the reign of Louis XIV, or the Huguenot refugees and their descendants in Great Britain and Ireland, third edition, remodelled and greatly enlarged (Edinburgh, 1886, 2 vols, 'for private circulation'). Volume numbers read off each title page. Much of it is lists of refugee names and naturalizations, so the OCR's share of common English words runs low. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "agnew"
+ ],
+ "_surname": [
+  "agnew"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "agnew-protestant-exiles-1": [
+   "protestantexiles01agne",
+   "Protestant Exiles from France, 3rd ed. (Edinburgh, 1886), vol. 1"
+  ],
+  "agnew-protestant-exiles-2": [
+   "protestantexiles02agne_0",
+   "Protestant Exiles from France, 3rd ed. (Edinburgh, 1886), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "protestantexiles01agne_0, 02agne_1, 02agneuoft, 03agne, 03agne_0, frenchprotestant04agneuoft (1871-1874)": "The second edition, 3 vols plus an index volume."
+ },
+ "_excluded": {
+  "dli.ministry.05436": "An undated Digital Library of India copy."
+ },
+ "_checks": {
+  "agnew-protestant-exiles-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "agnew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "agnew-protestant-exiles-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "agnew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "_about": "James Lane Allen's Kentucky novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "James Lane Allen",
+ "_name_words": [
+  "allen",
+  "james",
+  "lane"
+ ],
+ "_surname": [
+  "james lane allen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jlallen-choir-invisible": [
+   2316,
+   "The Choir Invisible"
+  ],
+  "jlallen-reign-of-law": [
+   3791,
+   "The Reign of Law; a tale of the Kentucky hemp fields"
+  ],
+  "jlallen-bride-of-the-mistletoe": [
+   9179,
+   "The Bride of the Mistletoe"
+  ],
+  "jlallen-kentucky-cardinal": [
+   11532,
+   "A Kentucky Cardinal: A Story"
+  ],
+  "jlallen-mettle-of-the-pasture": [
+   12482,
+   "The Mettle of the Pasture"
+  ],
+  "jlallen-aftermath-part-second-of-a-kentucky-cardinal": [
+   13554,
+   "Aftermath Part second of \"A Kentucky Cardinal\""
+  ],
+  "jlallen-cathedral-singer": [
+   15385,
+   "A Cathedral Singer"
+  ],
+  "jlallen-sister-dolorosa-and-posthumous-fame": [
+   34109,
+   "Sister Dolorosa, and Posthumous Fame"
+  ],
+  "jlallen-last-christmas-tree": [
+   42640,
+   "The Last Christmas Tree: An Idyl of Immortality"
+  ],
+  "jlallen-doctors-christmas-eve": [
+   42923,
+   "The Doctor's Christmas Eve"
+  ],
+  "jlallen-blue-grass-region-of-kentucky-and-other-kentucky-art": [
+   43888,
+   "The Blue-Grass Region of Kentucky, and Other Kentucky Articles"
+  ],
+  "jlallen-kentucky-warbler": [
+   46905,
+   "The Kentucky Warbler"
+  ],
+  "jlallen-flute-and-violin-and-other-kentucky-tales-and-romanc": [
+   50597,
+   "Flute and Violin, and Other Kentucky Tales and Romances"
+  ],
+  "jlallen-emblems-of-fidelity": [
+   60435,
+   "The Emblems of Fidelity: A Comedy in Letters"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jlallen-choir-invisible": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-reign-of-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-bride-of-the-mistletoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-kentucky-cardinal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-mettle-of-the-pasture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-aftermath-part-second-of-a-kentucky-cardinal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-cathedral-singer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-sister-dolorosa-and-posthumous-fame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-last-christmas-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-doctors-christmas-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-blue-grass-region-of-kentucky-and-other-kentucky-art": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-kentucky-warbler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-flute-and-violin-and-other-kentucky-tales-and-romanc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlallen-emblems-of-fidelity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james lane allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain Thomas A. Jaggar, first Episcopal Bishop of Southern Ohio, for the Word Hoard: The Man of the Ages and Other Recent Sermons, The Personality of Truth, and occasional sermons in Pennsylvania and Montreal. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 126 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas a. jaggar",
+  "thomas augustus jaggar",
+  "t. a. jaggar",
+  "bishop jaggar",
+  "jaggar"
+ ],
+ "_surname": [
+  "jaggar"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jaggar-sermon-1865": [
+   "sermon00jagg",
+   "A sermon (New York : R.C. Root, Anthony & Co., Printers, 1865)"
+  ],
+  "jaggar-good-stewards": [
+   "goodstewardsserm00jagg",
+   "Good stewards : a sermon preached in St. Paul's Church, Cheltenham, Pa., Sunday Evening, December 17th, 1871 / by the Rev. Thomas A. Jaggar (Cheltenham Press, Wm. P. Hallowell, Pr., 1872)"
+  ],
+  "jaggar-montreal": [
+   "cihm_64800",
+   "Sermons preached in Christ Church Cathedral, Montreal : \"the presence of the comforter in the particular or national church\" ([Montreal? : s.n.], 1883)"
+  ],
+  "jaggar-man-of-ages": [
+   "manofagesother00jagg",
+   "The man of the ages, and other recent sermons (New York, J. Pott & co., 1898)"
+  ],
+  "jaggar-personality-truth": [
+   "bub_gb_6XwwAAAAYAAJ",
+   "The personality of truth (New York : T. Whittaker, 1900)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jaggar-geology": "the geological works are by his son, the volcanologist Thomas A. Jaggar Jr."
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jaggar-sermon-1865": "OCR of the title page: \"A SERMON BY THE REV. THOMAS A. JAGGAE, ANTHON MEMORIAL CHURCH, EASTER SUNDAY, APRIL 16, 1865.\" (JAGGAE is OCR for Jaggar)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jaggar-sermon-1865": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jaggar-good-stewards": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jaggar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jaggar-montreal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jaggar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jaggar-man-of-ages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jaggar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jaggar-personality-truth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jaggar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

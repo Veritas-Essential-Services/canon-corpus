@@ -41,7 +41,16 @@
    "The pillow-book of Sei Shōnagon"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "waley-ia-temple": [
+   "templeotherpoems0000arth_c5c7",
+   "The Temple and Other Poems"
+  ],
+  "waley-ia-blue-trousers": [
+   "bluetrousersbein00mura",
+   "Blue Trousers (The Tale of Genji, part 4)"
+  ]
+ },
  "titles": {
   "waley-170-chinese-poems": {
    "source": "waley-170-chinese-poems",
@@ -94,19 +103,36 @@
    "translated": 1928,
    "translator": "Arthur Waley",
    "scan_edition": "Project Gutenberg 76016 (clean text)"
+  },
+  "waley-the-temple-and-other-poems": {
+   "source": "waley-ia-temple",
+   "of": "various Chinese poets",
+   "work": "The Temple and Other Poems",
+   "translated": 1923,
+   "translator": "Arthur Waley",
+   "scan_edition": "George Allen and Unwin, London, first published 1923; archive.org scan (Colby Junior College copy)"
+  },
+  "waley-murasaki-blue-trousers": {
+   "source": "waley-ia-blue-trousers",
+   "of": "Murasaki Shikibu",
+   "work": "Blue Trousers, being the fourth part of The Tale of Genji",
+   "translated": 1928,
+   "translator": "Arthur Waley",
+   "scan_edition": "Houghton Mifflin, Boston and New York 1928 (printed in Great Britain); archive.org scan"
   }
  },
  "_pending": {
-  "waley-genji-4-6": "Genji parts 4-6 (Blue Trousers 1928, The Lady of the Boat 1932, The Bridge of Dreams 1933): part 4 is US PD but not on Gutenberg; parts 5-6 are after 1930 and are refused."
+  "waley-augustan-poems": "Poems from the Chinese (Augustan Books of English Poetry, Ernest Benn; archive.org poemsfromchinese00waleiala and arthurwaleypoems00walerich): a selection from his earlier books, but the printing carries no date (the series ran from 1925), so it waits under the undated-printing rule. Found 2026-10-23 (round 139)."
  },
  "_excluded": {
-  "waley-after-1930": "The Way and its Power (1934), the Analects (1938), Monkey (1942): still in copyright."
+  "waley-after-1930": "The Way and its Power (1934), the Analects (1938), Monkey (1942): still in copyright.",
+  "waley-genji-5-6": "Genji parts 5-6 (The Lady of the Boat 1932, The Bridge of Dreams 1933): after 1930, refused. Part 4, Blue Trousers (1928), is shelved from archive.org (round 139)."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "waley-170-chinese-poems": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
@@ -115,7 +141,7 @@
   },
   "waley-more-translations": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
@@ -124,7 +150,7 @@
   },
   "waley-li-po": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
@@ -133,7 +159,7 @@
   },
   "waley-no-plays": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
@@ -142,7 +168,7 @@
   },
   "waley-genji-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
@@ -151,7 +177,7 @@
   },
   "waley-genji-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
@@ -160,7 +186,7 @@
   },
   "waley-genji-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
@@ -169,12 +195,34 @@
   },
   "waley-pillow-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "waley",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Arthur Waley"
+  },
+  "waley-ia-temple": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waley-ia-blue-trousers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -219,6 +267,26 @@
    "pg": 76016,
    "pg_copyrighted_marker": false,
    "pg_translator": "Arthur Waley"
+  },
+  "waley-ia-temple": {
+   "ia": "templeotherpoems0000arth_c5c7",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1753,
+    1923
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "2025 is the archive.org digitising line; the imprint reads 'First published in 1923', Allen and Unwin"
+  },
+  "waley-ia-blue-trousers": {
+   "ia": "bluetrousersbein00mura",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

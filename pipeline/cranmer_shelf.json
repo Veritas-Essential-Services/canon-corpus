@@ -1,0 +1,59 @@
+{
+ "_about": "Thomas Cranmer (1489-1556), Archbishop of Canterbury. The target is the Parker Society edition, ed. John Edmund Cox (2 vols, Cambridge 1844-1846), Internet Archive OCR, raw and unconverted; each volume's title page read before listing. No Gutenberg Cranmer exists; CCEL holds only a 922-word fragment of A Necessary Doctrine (excluded).",
+ "_name_words": [
+  "cranmer"
+ ],
+ "_surname": [
+  "cranmer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cranmer-ps-01": [
+   "writingsanddispu01cranuoft",
+   "Writings and Disputations of Thomas Cranmer relative to the Sacrament of the Lord's Supper, ed. J. E. Cox (Parker Society, Cambridge, 1844), vol. 1"
+  ],
+  "cranmer-ps-02": [
+   "writingscranmer02cranuoft",
+   "Miscellaneous Writings and Letters of Thomas Cranmer, ed. J. E. Cox (Parker Society, Cambridge, 1846), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "theworksofthomas01cramuoft, theworksofthomas02cramuoft": "Second Toronto copy of the same two volumes.",
+  "writingsdisputat0000unse, worksofthomascra0001unse, miscellaneouswri0000revj, miscellaneouswri0016park, miscellaneouswri0016revj": "Other scans of the same two Parker volumes (internetarchivebooks); 0016park opens with a page of OCR noise.",
+  "worksofthomascra21cran, worksofthomascra22cran, worksthomascran00crangoog": "Princeton and Google scans of the same set."
+ },
+ "_pending": {
+  "Remains of Thomas Cranmer, ed. Henry Jenkyns (4 vols, Oxford 1833)": "The other standard edition; not yet located on archive.org.",
+  "The Book of Common Prayer (1549, 1552)": "Cranmer's chief work, but a liturgical book with its own editions; belongs on a prayer-book shelf, not here."
+ },
+ "_excluded": {
+  "ccel cranmer/doctrine (A Necessary Doctrine)": "CCEL serves a 922-word fragment with no source or rights line.",
+  "Strype, Memorials of Cranmer; Le Bas / Todd lives": "About Cranmer, not by him.",
+  "cranmer-byng (Lute of Jade, PG 390)": "Different author (L. Cranmer-Byng)."
+ },
+ "_checks": {
+  "cranmer-ps-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cranmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cranmer-ps-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cranmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844-46",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

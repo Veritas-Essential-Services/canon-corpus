@@ -1,0 +1,225 @@
+{
+ "_about": "Public-domain Charles Le Roy Goodell (1854-1937), Methodist pastor in New York and secretary of evangelism of the Federal Council of Churches, for the Word Hoard: The Pastor's Vade Mecum, My Mother's Bible, The Drillmaster of Methodism, The Price of Winning Souls, Pathways to the Best, Pastoral and Personal Evangelism, Followers of the Gleam, Heralds of a Passion, Cyclopedia of Evangelism, Pastor and Evangelist, What are You Worth?, Motives and Methods in Modern Evangelism, and Twilight Reveries. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 115 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles l. goodell",
+  "charles le roy goodell",
+  "c. l. goodell",
+  "goodell"
+ ],
+ "_surname": [
+  "charles l. goodell",
+  "charles le roy goodell",
+  "c. l. goodell",
+  "goodell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "goodell-vade-mecum": [
+   "pastorsvademecum00good",
+   "The Pastor's vade mecum : containing the ritual for baptism, reception of members, the Lord's supper, matrimony, and burial of the dead : also hymns and scripture lessons for various occasions (New York : Eaton & Mains, 1886)"
+  ],
+  "goodell-mothers-bible": [
+   "mymothersbibleme00good",
+   "My mother's Bible, A memorial volume of addresses for the home ([n.p.], 1891)"
+  ],
+  "goodell-drillmaster": [
+   "drillmasterofmet00good",
+   "The drillmaster of Methodism : principles and methods for the class leader and pastor (New York : Eaton & Mains; Cincinnati : Jennings & Pye, 1902)"
+  ],
+  "goodell-winning-souls": [
+   "priceofwinningso00good",
+   "Price of winning souls : an address delivered before the conference of Christian workers, East Northfield, Mass., Saturday afternoon, August 11, 1906 / by Charles L. Goodell (New York : Fleming H. Revell, 1906)"
+  ],
+  "goodell-pathways": [
+   "pathwaystobest0000char",
+   "Pathways to the best (Funk& Wagnalls Company, 1907)"
+  ],
+  "goodell-personal-evangelism": [
+   "pastoralpersonal0000good",
+   "Pastoral and personal evangelism (New York, Chicago [etc.] Fleming H. Revell Co., 1907)"
+  ],
+  "goodell-gleam": [
+   "followersofgleam00good",
+   "Followers of the gleam; or, Modern miracles of grace (New York and London, Funk & Wagnalls company, 1911)"
+  ],
+  "goodell-heralds": [
+   "heraldsofpassion0000good",
+   "Heralds of a passion (New York, George H. Doran, 1921)"
+  ],
+  "goodell-cyclopedia": [
+   "cyclopediaofevan00good",
+   "Cyclopedia of evangelism (Harper, 1921)"
+  ],
+  "goodell-pastor-evangelist": [
+   "pastorevangelist00good",
+   "Pastor and evangelist (New York, George H. Doran Company, 1922)"
+  ],
+  "goodell-worth": [
+   "whatareyouworthq00good",
+   "What are you worth? Queries in personality (New York : George H. Doran Co., 1923)"
+  ],
+  "goodell-motives": [
+   "motivesmethodsin0000good",
+   "Motives and methods in modern evangelism (New York, Chicago Fleming H. Revell Company, 1926)"
+  ],
+  "goodell-twilight": [
+   "bwb_Y0-BAQ-432",
+   "Twilight Reveries life and how to live it (Fleming H. Revell Company, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "goodell-others": "sermonsaddresses00brod and pastorhisownevan0000jwil are by other men"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "goodell-vade-mecum": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-mothers-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "goodell-drillmaster": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-winning-souls": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-pathways": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-personal-evangelism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-gleam": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goodell-heralds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-cyclopedia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-pastor-evangelist": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goodell-worth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-motives": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodell-twilight": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles l. goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

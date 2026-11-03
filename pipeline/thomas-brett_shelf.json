@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain Thomas Brett (1667-1744), nonjuring bishop and liturgist of the Usager party, for the Word Hoard: A Collection of the Principal Liturgies (London, 1838), An Account of Church Government (1710), The Independency of the Church upon the State (1717), The Divine Right of Episcopacy (1718) and A Chronological Essay on the Sacred History (1729), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "brett"
+ ],
+ "_surname": [
+  "thomas brett",
+  "dr. brett",
+  "tho. brett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brett-principal-liturgies-1838": [
+   "collectionofprin00bret",
+   "A collection of the principal liturgies : used in the Christian church in the celebration of the Holy Eucharist (London : Rivington, 1838)"
+  ],
+  "brett-church-government-1710": [
+   "anaccountchurch00bretgoog",
+   "An Account of Church Government and Governours, Wherein is Shewed that the Government of the (J. Wyat, 1710)"
+  ],
+  "brett-independency-1717": [
+   "independencyofch00bret",
+   "The independency of the church upon the state, as to its pure spiritual powers : proved from the Holy Scriptures, and the writings of the primitive fathers : with answers to the most material objections (London : Printed for Henry Clements ..., 1717)"
+  ],
+  "brett-divine-right-episcopacy-1718": [
+   "divinerightofepi00bret",
+   "The divine right of episcopacy, and the necessity of an episcopal commission for preaching God's word, and for the valid ministration of the Christian sacraments, proved from the Holy Scriptures, and the doctrine and practice of the primitive church (London, Printed for Henry Clements, at the Half Moon in S. Paul's Church-yard, 1718)"
+  ],
+  "brett-chronological-essay-1729": [
+   "chronologicaless00bret",
+   "A chronological essay on the sacred history ... being a defence of the computation of the Septuagint (London : F. Gyles, 1729)"
+  ]
+ },
+ "_alternates": {
+  "brett-copies": "Other scans of the 1838 Liturgies (Toronto)"
+ },
+ "_excluded": {
+  "brett-other": "Works by later Thomas Bretts (law books 1887-1902)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "brett-independency-1717": "title page read (OCR): 'By THOMAS BRETT, LL.D.', London: Henry Clements, 1717 (OCR 'THOMAS B RETT')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "brett-principal-liturgies-1838": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brett-church-government-1710": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brett-independency-1717": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brett-divine-right-episcopacy-1718": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1718",
+   "ia_date": "1718",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brett-chronological-essay-1729": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas brett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1729",
+   "ia_date": "1729",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

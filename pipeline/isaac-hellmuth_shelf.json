@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain Isaac Hellmuth (1817-1901), Polish-born Jewish convert, evangelical Anglican, founder of Huron College and Bishop of Huron, for the Word Hoard: his replies to the Bishop of Montreal (1862), Justification by Faith, The Divine Dispensations and their Gradual Development, In the Shadow, and his primary and annual addresses as bishop. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 99 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "isaac hellmuth",
+  "i. hellmuth",
+  "hellmuth"
+ ],
+ "_surname": [
+  "isaac hellmuth",
+  "i. hellmuth",
+  "hellmuth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hellmuth-reply-montreal-1": [
+   "cihm_35389",
+   "A reply to a letter of the Rt. Rev. the Lord Bishop of Montreal, and Metropolitan of Canada : addressed to the bishops and clergy of the United Church of England and Ireland in Canada / by I. Hellmuth. To which is appended \"The letter\" of the Lord Bishop of Montreal ([Quebec? : s.n.], 1862)"
+  ],
+  "hellmuth-reply-montreal-2": [
+   "replytosecondlet00hell",
+   "Reply to a second letter of the Rt. Rev. the Lord Bishop of Montreal, addressed to the bishops and clergy of the United church of England and Ireland inCanada...to which is appended \"The second letter\" of the Lord Bishop of Montreal (Quebec, Canada Gazette off., 1862)"
+  ],
+  "hellmuth-reply-montreal-3": [
+   "replytothirdlett00hell",
+   "Reply to a third letter of the Rt. Rev. the Lord Bishop of Montreal, addressed to the bishops and clergy of the United church of England and Ireland in Canada...to which is appended \"the third letter\" of the Lord Bishop of Montreal (Quebec, Middleton; Montreal, Lovell, 1862)"
+  ],
+  "hellmuth-justification": [
+   "cihm_63549",
+   "\"Justification by faith\" : a sermon preached on Sunday morning, Jan. 24th, 1864, in St. Paul's Cathedral, London, C. W ([London, Ont.? : s.n.], 1864)"
+  ],
+  "hellmuth-divine-dispensations": [
+   "divinedispensati00helluoft",
+   "The divine dispensations and their gradual development : eight discourses preached in Huron College Chapel during Michaelmas term, 1865 (London : J. Nisbet ; Toronto : J. Campbell, 1866)"
+  ],
+  "hellmuth-in-the-shadow": [
+   "inshadow00hellgoog",
+   "In the Shadow (catalogued 1870)"
+  ],
+  "hellmuth-primary-address": [
+   "chim_06983",
+   "The primary address of the Rt. Rev. I. Hellmuth, D.D., D.C.L., Bishop of Huron : delivered before the Synod of the Diocese, in the \"Bishop Cronyn Hall,\" London, Ont., June 5, 1872 ([London, Ont.? : s.n.], 1872)"
+  ],
+  "hellmuth-annual-address-1873": [
+   "cihm_13185",
+   "The annual address of the Rt. Rev. I. Hellmuth, D.D., D.C.L., Bishop of Huron, delivered before the synod of the diocese, in \"Bishop Cronyn Hall,\" London, Ont., June 4, 1873 ([London, Ont.? : s.n.], 1873)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hellmuth-college": "Hellmuth College prospectuses, programmes and concert bills (ephemera)",
+  "hellmuth-indulgences": "The Doctrine and Practice of Indulgences (a two-sided controversy)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hellmuth-reply-montreal-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac hellmuth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hellmuth-reply-montreal-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. hellmuth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hellmuth-reply-montreal-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. hellmuth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hellmuth-justification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. hellmuth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hellmuth-divine-dispensations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hellmuth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hellmuth-in-the-shadow": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hellmuth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hellmuth-primary-address": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hellmuth",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hellmuth-annual-address-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hellmuth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

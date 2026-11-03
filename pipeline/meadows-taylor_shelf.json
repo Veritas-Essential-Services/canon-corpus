@@ -1,0 +1,97 @@
+{
+ "_about": "Meadows Taylor: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Meadows Taylor",
+ "_name_words": [
+  "meadows",
+  "taylor"
+ ],
+ "_surname": [
+  "meadows taylor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mtaylor-noble-queen": [
+   44306,
+   "A Noble Queen: A Romance of Indian History (Volume 1 of 3)"
+  ],
+  "mtaylor-noble-queen-44583": [
+   44583,
+   "A Noble Queen: A Romance of Indian History (Volume 2 of 3)"
+  ],
+  "mtaylor-noble-queen-44789": [
+   44789,
+   "A Noble Queen: A Romance of Indian History (Volume 3 of 3)"
+  ],
+  "mtaylor-confessions-of-a-thug": [
+   44881,
+   "Confessions of a Thug"
+  ],
+  "mtaylor-tara": [
+   45430,
+   "Tara: A Mahratta Tale"
+  ],
+  "mtaylor-tippoo-sultaun": [
+   51665,
+   "Tippoo Sultaun: A tale of the Mysore war"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mtaylor-noble-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meadows taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtaylor-noble-queen-44583": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meadows taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtaylor-noble-queen-44789": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meadows taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtaylor-confessions-of-a-thug": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meadows taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtaylor-tara": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meadows taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtaylor-tippoo-sultaun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meadows taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

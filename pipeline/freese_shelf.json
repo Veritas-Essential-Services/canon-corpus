@@ -43,7 +43,8 @@
  },
  "_pending": {},
  "_excluded": {
-  "pg-10828": "Livy's Roman History is not his translation (Freese is only credited as an editor) and is already shelved elsewhere."
+  "pg-10828": "Livy's Roman History is not his translation (Freese is only credited as an editor) and is already shelved elsewhere.",
+  "archive-sweep-2026-10-23": "2026-10-23: The Loeb Aristotle 'Art' of Rhetoric (aristotleartofrh0000aris) is a 1947 printing, past the 1930 line."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {

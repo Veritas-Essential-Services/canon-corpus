@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: R. Dillon Boylan (1805?-1888): Goethe's The Sorrows of Young Werther and Schiller's Don Carlos (Bohn, 1847-54). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: R. Dillon Boylan (1805?-1888): Goethe's The Sorrows of Young Werther and Schiller's Don Carlos (Bohn, 1847-54). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. From archive.org (2026-10-23): Goethe's Wilhelm Meister's Apprenticeship (Bohn, 1855).",
  "_name_words": [
   "r. dillon boylan",
   "dillon boylan"
@@ -20,7 +20,12 @@
    "Don Carlos: A Play"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "boy-ia-wilhelm-meister": [
+   "wilhelmmeisters00boylgoog",
+   "Goethe: Wilhelm Meister's Apprenticeship"
+  ]
+ },
  "titles": {
   "boylan-goethe-the-sorrows-of-young-werther": {
    "source": "boy-2527",
@@ -37,6 +42,14 @@
    "translated": "1847-1854 (see the Gutenberg header)",
    "translator": "R. Dillon Boylan",
    "scan_edition": "Project Gutenberg 6789 (clean text)"
+  },
+  "boylan-goethe-wilhelm-meisters-apprenticeship": {
+   "source": "boy-ia-wilhelm-meister",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Wilhelm Meister's Apprenticeship",
+   "translated": "1855",
+   "translator": "R. Dillon Boylan",
+   "scan_edition": "Henry G. Bohn, London, 1855 (Bohn's Standard Library; Google scan)"
   }
  },
  "_pending": {},
@@ -47,7 +60,7 @@
  "_checks": {
   "boy-2527": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. dillon boylan",
    "identity": "ok",
@@ -56,12 +69,23 @@
   },
   "boy-6789": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. dillon boylan",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "R. Dillon Boylan"
+  },
+  "boy-ia-wilhelm-meister": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. dillon boylan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -74,6 +98,14 @@
    "pg": 6789,
    "pg_copyrighted_marker": false,
    "pg_translator": "R. Dillon Boylan"
+  },
+  "boy-ia-wilhelm-meister": {
+   "ia": "wilhelmmeisters00boylgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1855
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

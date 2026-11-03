@@ -1,0 +1,125 @@
+{
+ "_about": "Edith K. Dunton's writing at Gutenberg: girls' books (some as Caroline E. Jacobs). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edith K. Dunton",
+ "_name_words": [
+  "caroline",
+  "dunton",
+  "jacobs"
+ ],
+ "_surname": [
+  "dunton",
+  "caroline e. jacobs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ekdunton-betty-wales-sophomore": [
+   6432,
+   "Betty Wales, Sophomore: A Story for Girls"
+  ],
+  "ekdunton-betty-wales-senior": [
+   20821,
+   "Betty Wales, Senior"
+  ],
+  "ekdunton-betty-wales-freshman": [
+   31387,
+   "Betty Wales, Freshman"
+  ],
+  "ekdunton-betty-wales-junior": [
+   64033,
+   "Betty Wales, Junior: A Story for Girls"
+  ],
+  "ekdunton-betty-wales-b-a": [
+   68240,
+   "Betty Wales, B. A.: A story for girls"
+  ],
+  "ekdunton-betty-wales-co": [
+   68551,
+   "Betty Wales & Co.: A story for girls"
+  ],
+  "ekdunton-betty-wales-on-the-campus": [
+   69132,
+   "Betty Wales on the campus"
+  ],
+  "ekdunton-betty-wales-decides": [
+   73169,
+   "Betty Wales decides"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ekdunton-betty-wales-sophomore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekdunton-betty-wales-senior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekdunton-betty-wales-freshman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekdunton-betty-wales-junior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekdunton-betty-wales-b-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekdunton-betty-wales-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekdunton-betty-wales-on-the-campus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekdunton-betty-wales-decides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dunton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

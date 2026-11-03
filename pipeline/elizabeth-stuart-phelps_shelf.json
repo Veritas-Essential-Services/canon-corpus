@@ -1,0 +1,218 @@
+{
+ "_about": "Elizabeth Stuart Phelps: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Elizabeth Stuart Phelps",
+ "_name_words": [
+  "elizabeth",
+  "phelps",
+  "stuart"
+ ],
+ "_surname": [
+  "elizabeth stuart phelps",
+  "stuart phelps"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "esphelps-men-women-and-ghosts": [
+   10744,
+   "Men, Women, and Ghosts"
+  ],
+  "esphelps-gypsy-breynton": [
+   18582,
+   "Gypsy Breynton"
+  ],
+  "esphelps-gypsys-cousin-joy": [
+   18646,
+   "Gypsy's Cousin Joy"
+  ],
+  "esphelps-lost-hero": [
+   28059,
+   "A Lost Hero"
+  ],
+  "esphelps-gates-between": [
+   30540,
+   "The Gates Between"
+  ],
+  "esphelps-avery": [
+   33393,
+   "Avery"
+  ],
+  "esphelps-songs-of-the-silent-world-and-other-poems": [
+   33486,
+   "Songs of the Silent World, and Other Poems"
+  ],
+  "esphelps-chariot-of-fire": [
+   34254,
+   "A Chariot of Fire"
+  ],
+  "esphelps-comrades": [
+   34255,
+   "Comrades"
+  ],
+  "esphelps-supply-at-saint-agathas": [
+   34256,
+   "The Supply at Saint Agatha's"
+  ],
+  "esphelps-loveliness": [
+   35966,
+   "Loveliness: A Story"
+  ],
+  "esphelps-singular-life": [
+   48443,
+   "A Singular Life"
+  ],
+  "esphelps-within-the-gates": [
+   53794,
+   "Within the Gates"
+  ],
+  "esphelps-beyond-the-gates": [
+   54060,
+   "Beyond the Gates"
+  ],
+  "esphelps-gates-ajar": [
+   54230,
+   "The Gates Ajar"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 5066: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "esphelps-men-women-and-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-gypsy-breynton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-gypsys-cousin-joy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-lost-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-gates-between": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-avery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-songs-of-the-silent-world-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-chariot-of-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-comrades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-supply-at-saint-agathas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-loveliness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-singular-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-within-the-gates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-beyond-the-gates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esphelps-gates-ajar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth stuart phelps",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

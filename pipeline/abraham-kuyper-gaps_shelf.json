@@ -1,0 +1,106 @@
+{
+ "_about": "Abraham Kuyper (1837-1920) in English, the works not on the abraham-kuyper shelf (draft PR #14): the 1895 Calvinism, the Origin and Safeguard of our Constitutional Liberties, his Philadelphia lecture The Antithesis between Symbolism and Revelation, The South-African Crisis (1900, tr. A. E. Fletcher) and J. H. de Vries's two 1929 meditation volumes, Asleep in Jesus and In the Shadow of Death. A gaps shelf, after the chesterton-gaps precedent, so as not to edit another thread's shelf. Texts are from Internet Archive scans; every printing is 1929 or earlier, so public domain in the US. Added 2026-10-28 by lane A at Adam's request (his Reformed authors table). No uids minted.",
+ "_name_words": [
+  "abraham kuyper",
+  "a. kuyper",
+  "kuyper"
+ ],
+ "_surname": [
+  "kuyper"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kuyper-calvinism-liberties-1895": [
+   "calvinismorigins00kuyp",
+   "Calvinism: the origin and safeguard of our constitutional liberties (1895)"
+  ],
+  "kuyper-south-african-crisis-1900": [
+   "southafricancris00kuyp",
+   "The South-African crisis, reprinted from the Revue des Deux Mondes for February 1900, translated and prefaced by A. E. Fletcher, fourth edition (London: Stop the War Committee, 1900)"
+  ],
+  "kuyper-asleep-in-jesus-1929": [
+   "asleepinjesusmed00kuyp",
+   "Asleep in Jesus: meditations, tr. J. H. de Vries (Grand Rapids: Eerdmans, 1929)"
+  ],
+  "kuyper-shadow-of-death-1929": [
+   "inshadowofdeathm00kuyp",
+   "In the shadow of death: meditations for the sick-room and at the death-bed, tr. J. H. de Vries (Grand Rapids: Eerdmans, 1929)"
+  ],
+  "kuyper-antithesis-lecture": [
+   "antithesisbetwee00kuyp",
+   "The antithesis between symbolism and revelation: lecture delivered before the Historical Presbyterian Society in Philadelphia (Amsterdam and Pretoria: Höveker & Wormser; Edinburgh: T. & T. Clark; undated printing, catalogued 1857)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kuyper-dutch": "Dutch-language works (De twaalf patriarchen, Het werk van den Heiligen Geest, Gedenkboek) and the a Lasco Opera he edited",
+  "kuyper-dups": "other scans and later printings of the books on the abraham-kuyper shelf",
+  "kuyper-later": "Women of the Old Testament, The Revelation of St. John, The Practice of Godliness and other translations printed after 1929"
+ },
+ "_rights_checked": {
+  "kuyper-antithesis-lecture": "Undated. The catalogue's 1857 cannot be right: the title page styles him LL.D. and M.P., and his LL.D. was Princeton's of 1898 (stated in the preface to The South-African Crisis on this shelf). A printing in his lifetime (he died 1920), so before 1930 and US public domain. Read 2026-10-28."
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kuyper-calvinism-liberties-1895": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kuyper-south-african-crisis-1900": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kuyper-asleep-in-jesus-1929": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kuyper-shadow-of-death-1929": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kuyper-antithesis-lecture": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Undated. The catalogue's 1857 cannot be right: the title page styles him LL.D. and M.P., and his LL.D. was Princeton's of 1898 (stated in the preface to The South-African Crisis on this shelf). A printing in his lifetime (he died 1920), so before 1930 and US public domain. Read 2026-10-28."
+  }
+ }
+}

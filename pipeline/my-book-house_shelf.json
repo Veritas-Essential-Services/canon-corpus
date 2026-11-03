@@ -1,0 +1,176 @@
+{
+ "_about": "My Book House, Olive Beaupré Miller's graded set of nursery rhymes, fairy tales, legends and classics for children (Chicago: The Bookhouse for Children). The complete first edition (6 volumes, 1920-21; each volume's copyright page reads 1920 or 1921 only) from one scanned run at the Internet Archive, plus the volumes of the enlarged 1928 edition whose scans print no year after 1928. The other 1928 volumes (In the Nursery, Through the Gate, Over the Hills, The Magic Garden, From the Tower Window, In Shining Armor, The Latch Key, Halls of Fame) are online only in 1937-1971 printings, which add copyrighted matter, so they are not taken. Raw Internet Archive OCR, unproofread. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "Olive Beaupré Miller (editor)",
+ "_name_words": [
+  "miller",
+  "beaupré",
+  "beaupre",
+  "olive"
+ ],
+ "_surname": [
+  "beaupré miller",
+  "beaupre miller",
+  "olive miller",
+  "bookhouse for children"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mbh-1920-v1-in-the-nursery": [
+   "latchkeyofmybook01mill",
+   "My Book House, vol. 1: In the Nursery of My Bookhouse (Chicago: The Bookhouse for Children, 1920)"
+  ],
+  "mbh-1920-v2-up-one-pair-of-stairs": [
+   "latchkeyofmybook02mill",
+   "My Book House, vol. 2: Up One Pair of Stairs of My Bookhouse (1920)"
+  ],
+  "mbh-1920-v3-through-fairy-halls": [
+   "latchkeyofmybook03mill",
+   "My Book House, vol. 3: Through Fairy Halls of My Bookhouse (1920)"
+  ],
+  "mbh-1920-v4-treasure-chest": [
+   "latchkeyofmybook04mill",
+   "My Book House, vol. 4: The Treasure Chest of My Bookhouse (1920)"
+  ],
+  "mbh-1921-v5-from-the-tower-window": [
+   "latchkeyofmybook05mill",
+   "My Book House, vol. 5: From the Tower Window of My Bookhouse (1921)"
+  ],
+  "mbh-1921-v6-latch-key": [
+   "latchkeyofmybook06mill",
+   "My Book House, vol. 6: The Latch Key of My Bookhouse (1921)"
+  ],
+  "mbh-1928-up-one-pair-of-stairs": [
+   "uponepairofstair0000oliv_r8y1",
+   "My Book House, 1928 edition: Up One Pair of Stairs of My Bookhouse (copyright 1920, 1925, 1928)"
+  ],
+  "mbh-1928-through-fairy-halls": [
+   "throughfairyhall0000oliv_c0g9",
+   "My Book House, 1928 edition: Through Fairy Halls of My Bookhouse (copyright 1920, 1928)"
+  ],
+  "mbh-1928-flying-sails": [
+   "flyingsailsofmyb0000oliv_a1f4",
+   "My Book House, 1928 edition: Flying Sails of My Bookhouse (copyright 1920, 1928)"
+  ],
+  "mbh-1928-treasure-chest": [
+   "mybookhousetreas0000unse",
+   "My Book House, 1928 edition: The Treasure Chest of My Bookhouse (copyright 1920, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mbh-1920-v1-in-the-nursery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupre miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1920-v2-up-one-pair-of-stairs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupre miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1920-v3-through-fairy-halls": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupre miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1920-v4-treasure-chest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupre miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1921-v5-from-the-tower-window": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupre miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1921-v6-latch-key": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupre miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1928-up-one-pair-of-stairs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupré miller",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1928-through-fairy-halls": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupré miller",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1928-flying-sails": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupré miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mbh-1928-treasure-chest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beaupre miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

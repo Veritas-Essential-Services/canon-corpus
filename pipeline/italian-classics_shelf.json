@@ -1,5 +1,5 @@
 {
- "_about": "SHELF of Italian classics in English before 1931: Goldoni's Memoirs (John Black), Four Comedies (Clifford Bax and others), The Liar (Grace Lovat Fraser) and Goldoni on Playwriting (van Steenderen); Alfieri's Tragedies (Charles Lloyd, 1815) and Autobiography (C. Edwards Lester, 1845); six Carducci translations (Sewall, Arms, Holland, Bickersteth, Gilbert, Tribe); Guicciardini's History of Italy in Goddard's ten volumes (1753-56), his maxims twice (Thomson's Counsels and Reflections, 1890, and Emma Martin's Maxims, 1845); and d'Azeglio's Recollections (Count Maffei, 1868) and Ettore Fieramosca twice (Lester 1845, Lady Louisa Magenis 1880); and Niccolini's Arnold of Brescia (Theodosia Garrow, 1846). Bowring's Alfieri, Hoole's Metastasio and Aldington's Goldoni are on those translators' shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 92), widened in round 105; Adam may veto. No uids minted. Round 114 (2026-10-17, vetoable) added Tassoni's Rape of the Bucket twice (Ozell 1715, Atkinson 1825).",
+ "_about": "SHELF of Italian classics in English before 1931: Goldoni's Memoirs (John Black), Four Comedies (Clifford Bax and others), The Liar (Grace Lovat Fraser) and Goldoni on Playwriting (van Steenderen); Alfieri's Tragedies (Charles Lloyd, 1815) and Autobiography (C. Edwards Lester, 1845); six Carducci translations (Sewall, Arms, Holland, Bickersteth, Gilbert, Tribe); Guicciardini's History of Italy in Goddard's ten volumes (1753-56), his maxims twice (Thomson's Counsels and Reflections, 1890, and Emma Martin's Maxims, 1845); and d'Azeglio's Recollections (Count Maffei, 1868) and Ettore Fieramosca twice (Lester 1845, Lady Louisa Magenis 1880); and Niccolini's Arnold of Brescia (Theodosia Garrow, 1846). Bowring's Alfieri, Hoole's Metastasio and Aldington's Goldoni are on those translators' shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 92), widened in round 105; Adam may veto. No uids minted. Round 114 (2026-10-17, vetoable) added Tassoni's Rape of the Bucket twice (Ozell 1715, Atkinson 1825). Round 124 (2026-10-23, vetoable) added Neera's The Soul of an Artist (Murison, 1905), Barrili's A Noble Kinsman (H. A. Martin, 1885) and Manzoni's The Sacred Hymns and The Napoleonic Ode (Bingham, 1904).",
  "_name_words": [
   "austin parke goddard",
   "bickersteth",
@@ -30,7 +30,11 @@
   "parke goddard",
   "sewall",
   "theodosia garrow",
-  "van steenderen"
+  "van steenderen",
+  "e. l. murison",
+  "h. a. martin",
+  "joel foote bingham",
+  "j. f. bingham"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common-word surnames (black, lloyd, fraser, holland, arms, tribe, gilbert, bax) are never listed bare.",
  "_surname": [
@@ -63,7 +67,11 @@
   "parke goddard",
   "sewall",
   "theodosia garrow",
-  "van steenderen"
+  "van steenderen",
+  "e. l. murison",
+  "h. a. martin",
+  "joel foote bingham",
+  "j. f. bingham"
  ],
  "_surname_by_slug": {
   "itc-goldoni-memoirs-1": [
@@ -192,6 +200,16 @@
   "itc-tassoni-rape-of-the-bucket-ozell": [
    "ozell",
    "j. ozell"
+  ],
+  "itc-neera-soul-of-an-artist": [
+   "e. l. murison"
+  ],
+  "itc-barrili-noble-kinsman": [
+   "h. a. martin"
+  ],
+  "itc-manzoni-sacred-hymns": [
+   "joel foote bingham",
+   "j. f. bingham"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -341,6 +359,18 @@
   "itc-tassoni-rape-of-the-bucket-ozell": [
    "bim_eighteenth-century_the-rape-of-the-bucket-_tassoni-alessandro_1715",
    "The Rape of the Bucket, an Heroi-Comical Poem, the First of the Kind (1715)"
+  ],
+  "itc-neera-soul-of-an-artist": [
+   "soulofartist00neeriala",
+   "The Soul of an Artist (1905)"
+  ],
+  "itc-barrili-noble-kinsman": [
+   "noblekinsmannove00barr",
+   "A Noble Kinsman (1885)"
+  ],
+  "itc-manzoni-sacred-hymns": [
+   "sacredhymnsglinn00manzuoft",
+   "The Sacred Hymns and The Napoleonic Ode (1904)"
   ]
  },
  "titles": {
@@ -632,6 +662,31 @@
    "translator": "John Ozell",
    "scan_edition": "E. Curll, London 1715; Eighteenth Century Collections Online scan via archive.org",
    "note": "The translator's preface is signed 'J. Ozell', June 24, 1710."
+  },
+  "italian-classics-neera-soul-of-an-artist": {
+   "source": "itc-neera-soul-of-an-artist",
+   "of": "Neera (Anna Radius Zuccari)",
+   "work": "The Soul of an Artist",
+   "translated": 1905,
+   "translator": "E. L. Murison",
+   "scan_edition": "Paul Elder and Company, San Francisco, copyright 1905; UCLA scan"
+  },
+  "italian-classics-barrili-a-noble-kinsman": {
+   "source": "itc-barrili-noble-kinsman",
+   "of": "Anton Giulio Barrili",
+   "work": "A Noble Kinsman",
+   "translated": 1885,
+   "translator": "H. A. Martin",
+   "scan_edition": "T. Fisher Unwin, London 1885; archive.org scan"
+  },
+  "italian-classics-manzoni-sacred-hymns": {
+   "source": "itc-manzoni-sacred-hymns",
+   "of": "Alessandro Manzoni",
+   "work": "The Sacred Hymns (Gl'inni sacri) and The Napoleonic Ode (Il cinque maggio)",
+   "translated": 1904,
+   "translator": "Joel Foote Bingham",
+   "scan_edition": "Henry Frowde, London and New York 1904; University of Toronto scan",
+   "note": "Verse translations with the Italian."
   }
  },
  "_pending": {},
@@ -662,7 +717,7 @@
  "_checks": {
   "itc-goldoni-memoirs-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john black",
    "identity": "ok",
@@ -673,7 +728,7 @@
   },
   "itc-goldoni-memoirs-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john black",
    "identity": "ok",
@@ -684,7 +739,7 @@
   },
   "itc-goldoni-four-comedies": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clifford bax",
    "identity": "ok",
@@ -695,7 +750,7 @@
   },
   "itc-goldoni-the-liar": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "grace lovat fraser",
    "identity": "ok",
@@ -706,7 +761,7 @@
   },
   "itc-goldoni-on-playwriting": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "f. c. l. van steenderen",
    "identity": "ok",
@@ -717,7 +772,7 @@
   },
   "itc-alfieri-tragedies-lloyd-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles lloyd",
    "identity": "ok",
@@ -728,7 +783,7 @@
   },
   "itc-alfieri-tragedies-lloyd-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles lloyd",
    "identity": "ok",
@@ -739,7 +794,7 @@
   },
   "itc-alfieri-tragedies-lloyd-3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles lloyd",
    "identity": "ok",
@@ -750,7 +805,7 @@
   },
   "itc-alfieri-autobiography": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. edwards lester",
    "identity": "ok",
@@ -761,7 +816,7 @@
   },
   "itc-carducci-sewall": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frank sewall",
    "identity": "ok",
@@ -772,7 +827,7 @@
   },
   "itc-carducci-holland": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "maud holland",
    "identity": "ok",
@@ -783,7 +838,7 @@
   },
   "itc-carducci-arms": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "m. w. arms",
    "identity": "ok",
@@ -794,7 +849,7 @@
   },
   "itc-carducci-bickersteth": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "g. l. bickersteth",
    "identity": "ok",
@@ -805,7 +860,7 @@
   },
   "itc-carducci-tribe": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emily a. tribe",
    "identity": "ok",
@@ -816,7 +871,7 @@
   },
   "itc-carducci-rime-nuove": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "laura fullerton gilbert",
    "identity": "ok",
@@ -827,7 +882,7 @@
   },
   "itc-guicciardini-history-of-italy-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "parke goddard",
    "identity": "ok",
@@ -838,7 +893,7 @@
   },
   "itc-guicciardini-history-of-italy-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -849,7 +904,7 @@
   },
   "itc-guicciardini-history-of-italy-3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -860,7 +915,7 @@
   },
   "itc-guicciardini-history-of-italy-4": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "parke goddard",
    "identity": "ok",
@@ -871,7 +926,7 @@
   },
   "itc-guicciardini-history-of-italy-5": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -882,7 +937,7 @@
   },
   "itc-guicciardini-history-of-italy-6": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "parke goddard",
    "identity": "ok",
@@ -893,7 +948,7 @@
   },
   "itc-guicciardini-history-of-italy-7": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "parke goddard",
    "identity": "ok",
@@ -904,7 +959,7 @@
   },
   "itc-guicciardini-history-of-italy-8": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "parke goddard",
    "identity": "ok",
@@ -915,7 +970,7 @@
   },
   "itc-guicciardini-history-of-italy-9": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "parke goddard",
    "identity": "ok",
@@ -926,7 +981,7 @@
   },
   "itc-guicciardini-history-of-italy-10": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "parke goddard",
    "identity": "ok",
@@ -937,7 +992,7 @@
   },
   "itc-guicciardini-counsels-and-reflections": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hill thomson",
    "identity": "ok",
@@ -948,7 +1003,7 @@
   },
   "itc-guicciardini-maxims": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emma martin",
    "identity": "ok",
@@ -959,7 +1014,7 @@
   },
   "itc-azeglio-recollections-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "count maffei",
    "identity": "ok",
@@ -970,7 +1025,7 @@
   },
   "itc-azeglio-recollections-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "count maffei",
    "identity": "ok",
@@ -981,7 +1036,7 @@
   },
   "itc-azeglio-challenge-of-barletta-lester": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. edwards lester",
    "identity": "ok",
@@ -992,7 +1047,7 @@
   },
   "itc-azeglio-challenge-of-barletta-magenis-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -1003,7 +1058,7 @@
   },
   "itc-azeglio-challenge-of-barletta-magenis-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "louisa magenis",
    "identity": "ok",
@@ -1014,7 +1069,7 @@
   },
   "itc-niccolini-arnold-of-brescia": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "theodosia garrow",
    "identity": "ok",
@@ -1025,7 +1080,7 @@
   },
   "itc-tassoni-rape-of-the-bucket-atkinson": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james atkinson",
    "identity": "ok",
@@ -1036,13 +1091,46 @@
   },
   "itc-tassoni-rape-of-the-bucket-ozell": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ozell",
    "identity": "ok",
    "ia_rights": "ok: published 1715",
    "ia_date": "1715",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "itc-neera-soul-of-an-artist": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. l. murison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "[c1905]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-barrili-noble-kinsman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. a. martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "itc-manzoni-sacred-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joel foote bingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
@@ -1391,6 +1479,38 @@
    "years_in_front_15k": [
     1710,
     1715
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-neera-soul-of-an-artist": {
+   "ia": "soulofartist00neeriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-barrili-noble-kinsman": {
+   "ia": "noblekinsmannove00barr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869,
+    1885
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "Examined in round 124: 2025 is the Internet Archive's digitising line; the title page reads T. Fisher Unwin, London, 1885."
+  },
+  "itc-manzoni-sacred-hymns": {
+   "ia": "sacredhymnsglinn00manzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1710,
+    1785,
+    1840,
+    1861,
+    1904
    ],
    "post_1930_years_in_front_15k": []
   }

@@ -42,7 +42,9 @@
    "note": "The Gutenberg text was keyed from the 1954 Dover reprint, which states it is 'an unabridged and unaltered republication of the English translation originally published by Macmillan ... in 1921'. The text is the 1921 public-domain translation, but the copy is not a pre-1931 printing: flagged in DIGEST-C for Adam's veto."
   }
  },
- "_pending": {},
+ "_pending": {
+  "flitch-duret-manet": "Duret's Manet and the French Impressionists (Grant Richards, London, and Lippincott, Philadelphia; manetfrenchimpre00dureuoft), 'translated by J. E. Crawford Flitch'. The title page prints no year; archive.org dates it 1910."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {

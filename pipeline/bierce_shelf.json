@@ -1,0 +1,44 @@
+{
+ "_about": "Ambrose Bierce, Collected Works, vol. 2: In the Midst of Life (Tales of Soldiers and Civilians), which holds The Man and the Snake; and Can Such Things Be? (1893). Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Ambrose Bierce",
+ "_name_words": [
+  "ambrose",
+  "bierce"
+ ],
+ "_surname": [
+  "bierce"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bierce-collected-works-2": [
+   13334,
+   "The Collected Works of Ambrose Bierce, vol. 2: In the Midst of Life"
+  ],
+  "bierce-can-such-things-be": [
+   4366,
+   "Can Such Things Be? (1893)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bierce-collected-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-can-such-things-be": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

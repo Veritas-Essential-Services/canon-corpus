@@ -1,0 +1,725 @@
+{
+ "supplied": [
+  {
+   "find": "*Bo[⟨•⟩]{.gap}um ",
+   "replace": "*Bo[n]{.supplied}um ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Catali[⟨•⟩]{.gap}e;",
+   "replace": "*Catali[n]{.supplied}e;",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Come[⟨•⟩]{.gap} ",
+   "replace": "*Come[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Constell[⟨•⟩]{.gap}tion,",
+   "replace": " Constell[a]{.supplied}tion,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Doct[⟨•⟩]{.gap}ine.",
+   "replace": " Doct[r]{.supplied}ine.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " D[⟨•⟩]{.gap}vel ",
+   "replace": " D[i]{.supplied}vel ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Eph[⟨•⟩]{.gap}s.",
+   "replace": "*Eph[e]{.supplied}s.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Erasm[⟨•⟩]{.gap}s*",
+   "replace": "*Erasm[u]{.supplied}s*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " E[⟨•⟩]{.gap}rors,",
+   "replace": " E[r]{.supplied}rors,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Ferven[⟨•⟩]{.gap} ",
+   "replace": " Ferven[t]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Gid[⟨•⟩]{.gap}ons*",
+   "replace": "*Gid[e]{.supplied}ons*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*G[⟨•⟩]{.gap}ecians,",
+   "replace": "*G[r]{.supplied}ecians,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " H[⟨•⟩]{.gap}mane ",
+   "replace": " H[u]{.supplied}mane ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " H[⟨•⟩⟨•⟩]{.gap}ve[⟨•⟩]{.gap} ",
+   "replace": " H[ea]{.supplied}ve[n]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Kingdome[⟨•⟩]{.gap} ",
+   "replace": " Kingdome[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Lu[⟨•⟩]{.gap}ifer,",
+   "replace": "*Lu[c]{.supplied}ifer,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Mord[⟨•⟩]{.gap}chai,",
+   "replace": "*Mord[e]{.supplied}chai,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*M[⟨•⟩]{.gap}des*",
+   "replace": "*M[e]{.supplied}des*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*M[⟨•⟩]{.gap}mento ",
+   "replace": "*M[e]{.supplied}mento ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Phara[⟨•⟩]{.gap}h*",
+   "replace": "*Phara[o]{.supplied}h*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Pharise[⟨•⟩]{.gap}s\\",
+   "replace": " Pharise[e]{.supplied}s\\",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Prophe[⟨•⟩]{.gap} ",
+   "replace": " Prophe[t]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*P[⟨•⟩]{.gap}lagius,",
+   "replace": "*P[e]{.supplied}lagius,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Sh[⟨•⟩]{.gap}ba*",
+   "replace": "*Sh[e]{.supplied}ba*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*Sod[⟨•⟩]{.gap}m*",
+   "replace": "*Sod[o]{.supplied}m*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*U[⟨•⟩]{.gap}iah*",
+   "replace": "*U[r]{.supplied}iah*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " absu[⟨•⟩]{.gap}d ",
+   "replace": " absu[r]{.supplied}d ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " adult[⟨•⟩]{.gap}ry.",
+   "replace": " adult[e]{.supplied}ry.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " affl[⟨•⟩]{.gap}cted,",
+   "replace": " affl[i]{.supplied}cted,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " amaz[⟨•⟩]{.gap}ment ",
+   "replace": " amaz[e]{.supplied}ment ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " a[⟨•⟩]{.gap}ominable ",
+   "replace": " a[b]{.supplied}ominable ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " bese[⟨•⟩]{.gap} ",
+   "replace": " bese[t]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " bi[⟨•⟩]{.gap}de ",
+   "replace": " bi[n]{.supplied}de ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " bur[⟨•⟩⟨•⟩]{.gap},",
+   "replace": " bur[nt]{.supplied},",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " can[⟨•⟩]{.gap}t ",
+   "replace": " can[s]{.supplied}t ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ch[⟨•⟩]{.gap}ak ",
+   "replace": " ch[o]{.supplied}ak ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " conformi[⟨•⟩]{.gap}y.",
+   "replace": " conformi[t]{.supplied}y.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " constitu[⟨•⟩]{.gap}ion,",
+   "replace": " constitu[t]{.supplied}ion,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " dar[⟨•⟩]{.gap}ed ",
+   "replace": " dar[t]{.supplied}ed ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " displeas[⟨•⟩]{.gap} ",
+   "replace": " displeas[e]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " di[⟨•⟩]{.gap}qu[⟨•⟩]{.gap}et ",
+   "replace": " di[s]{.supplied}qu[i]{.supplied}et ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " du[⟨•⟩]{.gap}ies ",
+   "replace": " du[t]{.supplied}ies ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " effi[⟨•⟩]{.gap}acie ",
+   "replace": " effi[c]{.supplied}acie ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ende[⟨•⟩⟨•⟩]{.gap}ed ",
+   "replace": " ende[ar]{.supplied}ed ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " especi[⟨•⟩]{.gap}lly ",
+   "replace": " especi[a]{.supplied}lly ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ev[⟨•⟩⟨•⟩]{.gap}e ",
+   "replace": " ev[ad]{.supplied}e ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " expostulat[⟨•⟩]{.gap}th,",
+   "replace": " expostulat[e]{.supplied}th,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " fil[⟨•⟩]{.gap}i,",
+   "replace": " fil[i]{.supplied}i,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "[fle[⟨•⟩⟨•⟩]{.gap}\\",
+   "replace": "[fle[sh]{.supplied}\\",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " gl[⟨•⟩]{.gap}wed ",
+   "replace": " gl[e]{.supplied}wed ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " hapl[⟨•⟩]{.gap} ",
+   "replace": " hapl[y]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " hat[⟨•⟩]{.gap}ed ",
+   "replace": " hat[r]{.supplied}ed ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ho[⟨•⟩]{.gap}rid ",
+   "replace": " ho[r]{.supplied}rid ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " interme[⟨•⟩]{.gap}leth ",
+   "replace": " interme[d]{.supplied}leth ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " in[⟨•⟩]{.gap}erred.",
+   "replace": " in[f]{.supplied}erred.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " l[⟨•⟩]{.gap}den.",
+   "replace": " l[a]{.supplied}den.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " man[⟨•⟩]{.gap}fested ",
+   "replace": " man[i]{.supplied}fested ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " me[⟨•⟩]{.gap}ry.",
+   "replace": " me[r]{.supplied}ry.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*m[⟨•⟩]{.gap}dus,",
+   "replace": "*m[o]{.supplied}dus,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " m[⟨•⟩]{.gap}lteth ",
+   "replace": " m[e]{.supplied}lteth ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " par[⟨•⟩]{.gap}icular ",
+   "replace": " par[t]{.supplied}icular ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " po[⟨•⟩]{.gap}nt.",
+   "replace": " po[i]{.supplied}nt.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " premise[⟨•⟩]{.gap},",
+   "replace": " premise[d]{.supplied},",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " primu[⟨•⟩]{.gap} ",
+   "replace": " primu[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " profes[⟨•⟩]{.gap}est,",
+   "replace": " profes[s]{.supplied}est,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " pro[⟨•⟩]{.gap}enesse ",
+   "replace": " pro[n]{.supplied}enesse ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " pro[⟨•⟩]{.gap}ess ",
+   "replace": " pro[f]{.supplied}ess ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " pr[⟨•⟩]{.gap}claim ",
+   "replace": " pr[o]{.supplied}claim ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " puri[⟨•⟩]{.gap}ie ",
+   "replace": " puri[f]{.supplied}ie ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " pu[⟨•⟩]{.gap}rified ",
+   "replace": " pu[t]{.supplied}rified ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " p[⟨•⟩]{.gap}rtly ",
+   "replace": " p[a]{.supplied}rtly ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " p[⟨•⟩⟨•⟩]{.gap}city ",
+   "replace": " p[au]{.supplied}city ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " rel[⟨•⟩]{.gap}ques ",
+   "replace": " rel[i]{.supplied}ques ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " reve[⟨•⟩]{.gap}ations,",
+   "replace": " reve[l]{.supplied}ations,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " r[⟨•⟩]{.gap}ches;",
+   "replace": " r[i]{.supplied}ches;",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " secu[⟨•⟩]{.gap}e ",
+   "replace": " secu[r]{.supplied}e ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " smit[⟨•⟩]{.gap} ",
+   "replace": " smit[e]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " speci[⟨•⟩]{.gap} ",
+   "replace": " speci[e]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " stream[⟨•⟩]{.gap} ",
+   "replace": " stream[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " su[⟨•⟩]{.gap}sist ",
+   "replace": " su[b]{.supplied}sist ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " sw[⟨•⟩]{.gap}et ",
+   "replace": " sw[e]{.supplied}et ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " s[⟨•⟩]{.gap}briety ",
+   "replace": " s[o]{.supplied}briety ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " thraldom[⟨•⟩]{.gap},",
+   "replace": " thraldom[e]{.supplied},",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " thre[⟨•⟩]{.gap}tens ",
+   "replace": " thre[a]{.supplied}tens ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " tor[⟨•⟩]{.gap}en[⟨•⟩]{.gap}s ",
+   "replace": " tor[m]{.supplied}en[t]{.supplied}s ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " virgin[⟨•⟩]{.gap} ",
+   "replace": " virgin[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " wan[⟨•⟩]{.gap}onnesse,",
+   "replace": " wan[t]{.supplied}onnesse,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " whatsoeve[⟨•⟩]{.gap} ",
+   "replace": " whatsoeve[r]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " wick[⟨•⟩]{.gap}d ",
+   "replace": " wick[e]{.supplied}d ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " word[⟨•⟩]{.gap},",
+   "replace": " word[s]{.supplied},",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " would[⟨•⟩]{.gap}t ",
+   "replace": " would[s]{.supplied}t ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}eare.",
+   "replace": " [f]{.supplied}eare.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "-[⟨•⟩]{.gap}eprosie ",
+   "replace": "-[l]{.supplied}eprosie ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*[⟨•⟩]{.gap}eremiahs*",
+   "replace": "*[J]{.supplied}eremiahs*",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*[⟨•⟩]{.gap}hings;",
+   "replace": "*[t]{.supplied}hings;",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ions ",
+   "replace": " [L]{.supplied}ions ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}like ",
+   "replace": " [a]{.supplied}like ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}loven ",
+   "replace": " [c]{.supplied}loven ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}mpieties,",
+   "replace": " [i]{.supplied}mpieties,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}mployments,",
+   "replace": " [i]{.supplied}mployments,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}oals ",
+   "replace": " [c]{.supplied}oals ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ollity ",
+   "replace": " [j]{.supplied}ollity ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ossed ",
+   "replace": " [t]{.supplied}ossed ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

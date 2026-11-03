@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Avrahm Yarmolinsky (1890-1975): Saltykov-Shchedrin's A Family of Noblemen (The Golovlyov Family, 1917) and The Shield (Gorky, Andreyev and Sologub, eds., 1917). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Avrahm Yarmolinsky (1890-1975): Saltykov-Shchedrin's A Family of Noblemen (The Golovlyov Family, 1917) and The Shield (Gorky, Andreyev and Sologub, eds., 1917). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted. Round 121 (2026-10-23, vetoable) added Deutsch and Yarmolinsky's Modern Russian Poetry (Harcourt, Brace, 1921).",
  "_name_words": [
   "avrahm yarmolinsky",
   "yarmolinsky"
@@ -20,7 +20,12 @@
    "A family of noblemen"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "yarmolinsky-deutsch-modern-russian-poetry": [
+   "modernrussianpoe00deutiala",
+   "Modern Russian Poetry: an Anthology (1921)"
+  ]
+ },
  "titles": {
   "yarmolinsky-gorky-the-shield": {
    "source": "yar-19453",
@@ -37,6 +42,15 @@
    "translated": "1917 (see the Gutenberg header)",
    "translator": "Avrahm Yarmolinsky",
    "scan_edition": "Project Gutenberg 44237 (clean text)"
+  },
+  "yarmolinsky-deutsch-modern-russian-poetry": {
+   "source": "yarmolinsky-deutsch-modern-russian-poetry",
+   "of": "various Russian poets",
+   "work": "Modern Russian Poetry: an Anthology",
+   "translated": 1921,
+   "translator": "Babette Deutsch and Avrahm Yarmolinsky",
+   "scan_edition": "Harcourt, Brace and Company, New York 1921; archive.org scan",
+   "note": "Not Selver's Modern Russian Poetry: Texts and Translations (selver shelf)."
   }
  },
  "_pending": {},
@@ -45,7 +59,7 @@
  "_checks": {
   "yar-19453": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "avrahm yarmolinsky",
    "identity": "ok",
@@ -54,12 +68,23 @@
   },
   "yar-44237": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "avrahm yarmolinsky",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Avrahm Yarmolinsky"
+  },
+  "yarmolinsky-deutsch-modern-russian-poetry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "avrahm yarmolinsky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +97,48 @@
    "pg": 44237,
    "pg_copyrighted_marker": false,
    "pg_translator": "Avrahm Yarmolinsky"
+  },
+  "yarmolinsky-deutsch-modern-russian-poetry": {
+   "ia": "modernrussianpoe00deutiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1799,
+    1803,
+    1809,
+    1814,
+    1817,
+    1819,
+    1820,
+    1821,
+    1837,
+    1841,
+    1842,
+    1844,
+    1853,
+    1855,
+    1863,
+    1865,
+    1866,
+    1867,
+    1869,
+    1870,
+    1873,
+    1875,
+    1877,
+    1879,
+    1880,
+    1882,
+    1884,
+    1892,
+    1897,
+    1898,
+    1900,
+    1909,
+    1911,
+    1920,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

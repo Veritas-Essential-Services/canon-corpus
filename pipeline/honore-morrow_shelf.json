@@ -1,0 +1,115 @@
+{
+ "_about": "Honoré Morrow: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Honoré Morrow",
+ "_name_words": [
+  "honore",
+  "honoré",
+  "morrow",
+  "willsie"
+ ],
+ "_surname": [
+  "honoré morrow",
+  "honore morrow",
+  "honoré willsie",
+  "honore willsie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hmorrow-judith-of-the-godless-valley": [
+   14331,
+   "Judith of the Godless Valley"
+  ],
+  "hmorrow-heart-of-the-desert-kut-le-of-the-desert": [
+   16777,
+   "The Heart of the Desert (Kut-Le of the Desert)"
+  ],
+  "hmorrow-lydia-of-the-pines": [
+   16803,
+   "Lydia of the Pines"
+  ],
+  "hmorrow-enchanted-canyon": [
+   16889,
+   "The Enchanted Canyon"
+  ],
+  "hmorrow-benefits-forgot": [
+   18951,
+   "Benefits Forgot: A Story of Lincoln and Mother Love"
+  ],
+  "hmorrow-forbidden-trail": [
+   22284,
+   "The Forbidden Trail"
+  ],
+  "hmorrow-still-jim": [
+   24458,
+   "Still Jim"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hmorrow-judith-of-the-godless-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "honoré morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorrow-heart-of-the-desert-kut-le-of-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "honoré morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorrow-lydia-of-the-pines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "honoré morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorrow-enchanted-canyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "honoré morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorrow-benefits-forgot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "honoré morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorrow-forbidden-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "honoré morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmorrow-still-jim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "honoré morrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

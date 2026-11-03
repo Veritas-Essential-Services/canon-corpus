@@ -1,0 +1,233 @@
+{
+ "_about": "Public-domain Edmond de Pressensé (1824-1891), French Reformed pastor, historian and senator, for the Word Hoard: The Religions before Christ (1862), The Redeemer (1864), Jesus Christ, his Times, Life and Work (1866), The Mystery of Suffering (1868), The Church and the French Revolution (1869), the four series of The Early Years of Christianity (1870-1877), Contemporary Portraits (1880), A Study of Origins (1884) and The Ancient World and Christianity (1888), in their English translations, from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pressense",
+  "pressensé"
+ ],
+ "_surname": [
+  "e. de pressense",
+  "edmond de pressense",
+  "de pressense",
+  "pressense",
+  "e. de pressensé",
+  "edmond de pressensé",
+  "de pressensé",
+  "pressensé"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pressense-religions-before-christ": [
+   "religionsbeforec00pres",
+   "The religions before Christ: being an introduction to the history of the first three centuries of the church (Edinburgh, Clark, 1862)"
+  ],
+  "pressense-redeemer": [
+   "theredeemerdisco00presuoft",
+   "The Redeemer : discourses (Edinburgh : T.&T, Clark, 1864)"
+  ],
+  "pressense-jesus-christ": [
+   "jesuschristhisti00pres",
+   "Jesus Christ, his times, life, and work (London, Jackson, 1866)"
+  ],
+  "pressense-mystery-of-suffering": [
+   "mysterysufferin00presgoog",
+   "The Mystery of Suffering, and other discourses (London: Hodder and Stoughton, 1868)"
+  ],
+  "pressense-church-french-revolution": [
+   "churchfrenchrevo00pres",
+   "The church and the French revolution : a history of the relations of church and state, from 1789-1802 (London : Hodder and Stoughton, 1869)"
+  ],
+  "pressense-early-years-1": [
+   "earlyyearsofchri1870pres",
+   "The Early Years of Christianity: The Apostolic Era (New York: Scribner, 1870)"
+  ],
+  "pressense-early-years-2": [
+   "earlyyearsofchri1871pres",
+   "The Early Years of Christianity: Martyrs and Apologists (New York: Scribner, 1871); translated by Annie Harwood (OCR reads 'HA R WOOD', so not claimed)"
+  ],
+  "pressense-early-years-3": [
+   "heresychristiand00pres",
+   "The Early Years of Christianity: Heresy and Christian Doctrine (London: Hodder and Stoughton, 1873)"
+  ],
+  "pressense-early-years-4": [
+   "christianlifean00presgoog",
+   "The Early Years of Christianity: Christian Life and Practice in the Early Church (London: Hodder and Stoughton, 1877)"
+  ],
+  "pressense-contemporary-portraits": [
+   "contemporaryport00presuoft",
+   "Contemporary portraits : Thiers, Strauss compared with Voltaire, Arnaud de l'Ariège, Dupanloup, Adolphe Monod, Vinet, Verny, Robertson (London : Hodder and Stoughton, 1880)"
+  ],
+  "pressense-study-of-origins": [
+   "astudyoforiginso00presuoft",
+   "A study of origins; or, The problems of knowledge, of being and of duty (New York, Potts, 1884)"
+  ],
+  "pressense-ancient-world": [
+   "ancientworldchri00pres",
+   "The ancient world and Christianity (New York : A.C. Armstrong, [188)"
+  ]
+ },
+ "_alternates": {
+  "pressense-copies": "Other printings of the Early Years series (1870-1886) and the 1871 abridged Jesus Christ"
+ },
+ "_excluded": {
+  "pressense-other": "French originals; the works of his son Francis de Pressensé (Cardinal Manning 1897, the Russian pamphlets), another man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "pressense-ancient-world": "Holmden",
+  "pressense-contemporary-portraits": "Holmden",
+  "pressense-early-years-1": "Harwood",
+  "pressense-early-years-3": "Harwood",
+  "pressense-early-years-4": "Harwood",
+  "pressense-mystery-of-suffering": "Ashton"
+ },
+ "_checks": {
+  "pressense-religions-before-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmond de pressense",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-redeemer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. de pressense",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-jesus-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pressense",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-mystery-of-suffering": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. de pressense",
+   "translator_claimed": "Ashton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-church-french-revolution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. de pressense",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pressense-early-years-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmond de pressense",
+   "translator_claimed": "Harwood",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-early-years-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmond de pressense",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-early-years-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pressense",
+   "translator_claimed": "Harwood",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-early-years-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. de pressense",
+   "translator_claimed": "Harwood",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-contemporary-portraits": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. de pressense",
+   "translator_claimed": "Holmden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-study-of-origins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. de pressense",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pressense-ancient-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. de pressense",
+   "translator_claimed": "Holmden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "[1888]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

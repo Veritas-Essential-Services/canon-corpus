@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Daniel De Leon (1852-1914): Eugène Sue's The Mysteries of the People, 17 of its tales (New York Labor News, 1904-11), and Bebel's Woman under Socialism (1904). US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Daniel De Leon (1852-1914): Eugène Sue's The Mysteries of the People, 17 of its tales (New York Labor News, 1904-11), and Bebel's Woman under Socialism (1904). US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted. Round 135 (2026-10-23, vetoable) added Kautsky's The Working Class (New York Labor News, 1900) from archive.org.",
  "_name_words": [
   "daniel de leon",
   "de leon"
@@ -88,7 +88,12 @@
    "The Eighteenth Brumaire of Louis Bonaparte"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dle-kautsky-working-class": [
+   "workingclassthep00kaut",
+   "The Working Class"
+  ]
+ },
  "titles": {
   "de-leon-bebel-woman-under-socialism": {
    "source": "dle-30646",
@@ -242,15 +247,25 @@
    "translated": "1904-1911 (see the Gutenberg header)",
    "translator": "Daniel De Leon (with Solon De Leon)",
    "scan_edition": "Project Gutenberg 35633 (clean text)"
+  },
+  "de-leon-kautsky-the-working-class": {
+   "source": "dle-kautsky-working-class",
+   "of": "Karl Kautsky",
+   "work": "The Working Class (The Proletariat), translated and adapted to America",
+   "translated": 1900,
+   "translator": "Daniel De Leon",
+   "scan_edition": "New York Labor News Company (copyright 1900); archive.org scan"
   }
  },
- "_pending": {},
+ "_pending": {
+  "ia-lassalle-franz-von-sickingen": "Lassalle's Franz von Sickingen (New York Labor News; cu31924026194229): his preface is dated 1904, but the scan has lost its title page and prints no year (catalogued 1910), so it waits under the undated-printing rule."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "dle-30646": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -259,7 +274,7 @@
   },
   "dle-31752": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -268,7 +283,7 @@
   },
   "dle-31759": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -277,7 +292,7 @@
   },
   "dle-31782": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -286,7 +301,7 @@
   },
   "dle-32743": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -295,7 +310,7 @@
   },
   "dle-33021": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -304,7 +319,7 @@
   },
   "dle-33114": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -313,7 +328,7 @@
   },
   "dle-33274": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -322,7 +337,7 @@
   },
   "dle-33618": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -331,7 +346,7 @@
   },
   "dle-33868": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -340,7 +355,7 @@
   },
   "dle-34390": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -349,7 +364,7 @@
   },
   "dle-34452": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -358,7 +373,7 @@
   },
   "dle-34531": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -367,7 +382,7 @@
   },
   "dle-34987": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -376,7 +391,7 @@
   },
   "dle-35067": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -385,7 +400,7 @@
   },
   "dle-35633": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -394,7 +409,7 @@
   },
   "dle-37225": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -403,7 +418,7 @@
   },
   "dle-37399": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
@@ -412,12 +427,23 @@
   },
   "dle-1346": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "daniel de leon",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Daniel de Leon"
+  },
+  "dle-kautsky-working-class": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -515,6 +541,20 @@
    "pg": 1346,
    "pg_copyrighted_marker": false,
    "pg_translator": "Daniel de Leon"
+  },
+  "dle-kautsky-working-class": {
+   "ia": "workingclassthep00kaut",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1800,
+    1844,
+    1845,
+    1870,
+    1890,
+    1891,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

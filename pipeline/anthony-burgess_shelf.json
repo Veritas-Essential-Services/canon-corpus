@@ -1,0 +1,133 @@
+{
+ "_about": "Anthony Burgess (d. 1664), member of the Westminster Assembly, minister of Sutton Coldfield: Vindiciae Legis, lectures on the Law and the Covenants against the Antinomians (London, 1647; Sion College's order to print is dated 11 June 1646); The True Doctrine of Justification Asserted and Vindicated, thirty lectures at Lawrence Jewry, second edition corrected (London, 1651); Spiritual Refinings, in two parts, the first on grace and assurance (London, 1658); A Treatise of Original Sin (London, 1658); The Scripture Directory for Church Officers and People, on 1 Corinthians 3 (London, 1659); and An Expository Comment on the whole first chapter of 2 Corinthians (London, 1661). Early English Books Online scans of first or early printings; the OCR prints the long s ('ſ') and old type, so expect errors. Named anthony-burgess because lane C's burgess shelf is Thornton W. Burgess. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "anthony burgess",
+  "anthony burgesse",
+  "antony burgess",
+  "a. burgess",
+  "anthony burgeſs",
+  "anthony burgeſſe",
+  "anthony burgeſſ"
+ ],
+ "_surname": [
+  "anthony burgess",
+  "anthony burgesse",
+  "antony burgess",
+  "a. burgess",
+  "anthony burgeſs",
+  "anthony burgeſſe",
+  "anthony burgeſſ"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burgess-vindiciae-legis-1647": [
+   "bim_early-english-books-1641-1700_vindiciae-legis-or-a-v_burgess-anthony_1647",
+   "Vindiciae Legis, or a Vindication of the Morall Law and the Covenants (London, 1647)"
+  ],
+  "burgess-justification-1651": [
+   "bim_early-english-books-1641-1700_the-true-doctrine-of-ivs_burgess-anthony_1651",
+   "The True Doctrine of Justification Asserted and Vindicated, 2nd ed. (London, 1651)"
+  ],
+  "burgess-spiritual-refinings-1658": [
+   "bim_early-english-books-1641-1700_spirituall-refinings-in_burgess-anthony_1658",
+   "Spirituall Refinings, in two parts (London, 1658)"
+  ],
+  "burgess-original-sin-1658": [
+   "bim_early-english-books-1641-1700_a-treatise-of-original-s_burgess-anthony_1658",
+   "A Treatise of Original Sin (London, 1658)"
+  ],
+  "burgess-scripture-directory-1659": [
+   "bim_early-english-books-1641-1700_the-scripture-directory-_burgess-anthony_1659",
+   "The Scripture Directory for Church Officers and People, on 1 Corinthians 3 (London, 1659)"
+  ],
+  "burgess-2-corinthians-1-1661": [
+   "bim_early-english-books-1641-1700_an-expository-comment-d_burgess-anthony_1661",
+   "An Expository Comment, Doctrinal, Controversal and Practical, upon the whole first chapter of 2 Corinthians (London, 1661)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_spiritual-refining-by-a_burgess-anthony_1652, spiritual-refining-part_burgess-anthony_1654 (and _0), spiritual-refining-_burgess-anthony_1654, spiritual-refinings-_burgess-anthony_1658": "The first editions of the two parts of Spiritual Refining (1652, 1654), and a second scan of 1658.",
+  "bim_early-english-books-1641-1700_the-doctrine-of-original_burgess-anthony_1658, _1659": "Other scans of the Treatise of Original Sin.",
+  "bim_early-english-books-1641-1700_the-true-doctrine-of-ivs_burgess-anthony_1655": "A later printing of the Justification."
+ },
+ "_pending": {
+  "CXLV Expository Sermons upon the whole 17th Chapter of John (1656)": "No scan found on IA.",
+  "bim_early-english-books-1641-1700_the-godly-mans-choice-_burgess-anthony_1659": "Annexed to the Scripture Directory; not separately title-checked.",
+  "bim_early-english-books-1641-1700_weighty-cases-of-conscie_burgess-anthony_1688": "Extracts published by another hand (1688)."
+ },
+ "_excluded": {},
+ "_checks": {
+  "burgess-vindiciae-legis-1647": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anthony burgeſs",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1647",
+   "ia_date": "1647",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burgess-justification-1651": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anthony burgeſs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1651",
+   "ia_date": "1651",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burgess-spiritual-refinings-1658": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anthony burgesse",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burgess-original-sin-1658": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anthony burgeſs",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burgess-scripture-directory-1659": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anthony burgeſſe",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burgess-2-corinthians-1-1661": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anthony burgeſſe",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1661",
+   "ia_date": "1661",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

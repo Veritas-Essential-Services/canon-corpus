@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: C. J. Hogarth (1869-1942): Tolstoy's Childhood, Boyhood and Youth, Dostoevsky's Poor Folk and The Gambler (Everyman, 1912-15), Goncharov's Oblomov (1915), Turgenev's Fathers and Sons (1921), Gorky, Andreyev, and Melgunov's Red Terror (1926). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: C. J. Hogarth (1869-1942): Tolstoy's Childhood, Boyhood and Youth, Dostoevsky's Poor Folk and The Gambler (Everyman, 1912-15), Goncharov's Oblomov (1915), Turgenev's Fathers and Sons (1921), Gorky, Andreyev, and Melgunov's Red Terror (1926). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted. Round 133 (2026-10-23, vetoable) added from archive.org Kluchevsky's A History of Russia, vols. 1-4 (Dent, 1911-26; vol. 5, 1931, is too late), Evgenii Soloviev's Dostoievsky (1916) and Ivan Shmelov's The Sun of the Dead (1927).",
  "_name_words": [
   "c. j. hogarth",
   "c.j. hogarth",
@@ -54,7 +54,36 @@
    "The red terror in Russia"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hog-kluchevsky-history-of-russia-1": [
+   "in.ernet.dli.2015.79986",
+   "A History of Russia, vol. 1",
+   "2015.79986.A-History-Of-Russia-Vol-I_djvu.txt"
+  ],
+  "hog-kluchevsky-history-of-russia-2": [
+   "india.history.resource.87849",
+   "A History of Russia, vol. 2",
+   "87849_djvu.txt"
+  ],
+  "hog-kluchevsky-history-of-russia-3": [
+   "historyofrussia03kliu",
+   "A History of Russia, vol. 3"
+  ],
+  "hog-kluchevsky-history-of-russia-4": [
+   "historyofrussia04kliuuoft",
+   "A History of Russia, vol. 4"
+  ],
+  "hog-soloviev-dostoievsky": [
+   "in.ernet.dli.2015.173824",
+   "Dostoievsky",
+   "2015.173824.Dostoievsky-His-Life-And-Literary-Activity_djvu.txt"
+  ],
+  "hog-shmelov-sun-of-the-dead": [
+   "the-sun-of-the-dead",
+   "The Sun of the Dead",
+   "The_Sun_of_the_Dead_djvu.txt"
+  ]
+ },
  "titles": {
   "cj-hogarth-andreyev-the-life-of-man-a-play-in-five-acts": {
    "source": "hog-49852",
@@ -135,17 +164,66 @@
    "translated": "1912-1926 (see the Gutenberg header)",
    "translator": "C. J. Hogarth",
    "scan_edition": "Project Gutenberg 47935 (clean text)"
+  },
+  "cj-hogarth-kluchevsky-a-history-of-russia-vol-1": {
+   "source": "hog-kluchevsky-history-of-russia-1",
+   "of": "V. O. Kluchevsky",
+   "work": "A History of Russia, vol. 1",
+   "translated": 1911,
+   "translator": "C. J. Hogarth",
+   "scan_edition": "J. M. Dent, London, and E. P. Dutton, New York 1911; archive.org scan (Digital Library of India copy)"
+  },
+  "cj-hogarth-kluchevsky-a-history-of-russia-vol-2": {
+   "source": "hog-kluchevsky-history-of-russia-2",
+   "of": "V. O. Kluchevsky",
+   "work": "A History of Russia, vol. 2",
+   "translated": 1912,
+   "translator": "C. J. Hogarth",
+   "scan_edition": "J. M. Dent, London, and E. P. Dutton, New York 1912; archive.org scan (Asiatic Society of Mumbai copy)"
+  },
+  "cj-hogarth-kluchevsky-a-history-of-russia-vol-3": {
+   "source": "hog-kluchevsky-history-of-russia-3",
+   "of": "V. O. Kluchevsky",
+   "work": "A History of Russia, vol. 3",
+   "translated": 1913,
+   "translator": "C. J. Hogarth",
+   "scan_edition": "J. M. Dent, London, and E. P. Dutton, New York 1913; archive.org scan"
+  },
+  "cj-hogarth-kluchevsky-a-history-of-russia-vol-4": {
+   "source": "hog-kluchevsky-history-of-russia-4",
+   "of": "V. O. Kluchevsky",
+   "work": "A History of Russia, vol. 4",
+   "translated": 1926,
+   "translator": "C. J. Hogarth",
+   "scan_edition": "J. M. Dent, London, and E. P. Dutton, New York 1926; archive.org scan (Toronto copy)"
+  },
+  "cj-hogarth-soloviev-dostoievsky": {
+   "source": "hog-soloviev-dostoievsky",
+   "of": "Evgenii Soloviev",
+   "work": "Dostoievsky: His Life and Literary Activity",
+   "translated": 1916,
+   "translator": "C. J. Hogarth",
+   "scan_edition": "George Allen & Unwin, London, first published 1916; archive.org scan (Digital Library of India copy)"
+  },
+  "cj-hogarth-shmelov-the-sun-of-the-dead": {
+   "source": "hog-shmelov-sun-of-the-dead",
+   "of": "Ivan Shmelov",
+   "work": "The Sun of the Dead",
+   "translated": 1927,
+   "translator": "C. J. Hogarth",
+   "scan_edition": "J. M. Dent, London, and E. P. Dutton, New York 1927; archive.org scan"
   }
  },
  "_pending": {},
  "_excluded": {
-  "pg-19680": "A second Gutenberg copy of Childhood; 2142 is used."
+  "pg-19680": "A second Gutenberg copy of Childhood; 2142 is used.",
+  "ia-round-133": "Letters from the Underworld: both open scans (lettersfromunder00dost, in.ernet.dli.2015.43869) are later Everyman printings (1937 and after). Kluchevsky's A History of Russia, vol. 5 (1931) is too late. Childhood, Boyhood and Youth in one volume (1917) repeats the three books already shelved."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "hog-2142": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -154,7 +232,7 @@
   },
   "hog-2197": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -163,7 +241,7 @@
   },
   "hog-2288": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -172,7 +250,7 @@
   },
   "hog-2302": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -181,7 +259,7 @@
   },
   "hog-2450": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -190,7 +268,7 @@
   },
   "hog-2637": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -199,7 +277,7 @@
   },
   "hog-47935": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -208,7 +286,7 @@
   },
   "hog-49852": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -217,7 +295,7 @@
   },
   "hog-54700": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
@@ -226,12 +304,78 @@
   },
   "hog-77104": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. j. hogarth",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "C. J. Hogarth"
+  },
+  "hog-kluchevsky-history-of-russia-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hog-kluchevsky-history-of-russia-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hog-kluchevsky-history-of-russia-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hog-kluchevsky-history-of-russia-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hog-soloviev-dostoievsky": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hog-shmelov-sun-of-the-dead": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -284,6 +428,83 @@
    "pg": 77104,
    "pg_copyrighted_marker": false,
    "pg_translator": "C. J. Hogarth"
+  },
+  "hog-kluchevsky-history-of-russia-1": {
+   "ia": "in.ernet.dli.2015.79986",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hog-kluchevsky-history-of-russia-2": {
+   "ia": "india.history.resource.87849",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1462,
+    1503,
+    1550,
+    1566,
+    1597,
+    1598,
+    1613
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the digitising line"
+  },
+  "hog-kluchevsky-history-of-russia-3": {
+   "ia": "historyofrussia03kliu",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1597,
+    1610,
+    1613,
+    1620,
+    1648,
+    1649,
+    1662,
+    1680,
+    1681,
+    1855
+   ],
+   "post_1930_years_in_front_15k": [
+    2000,
+    2010
+   ],
+   "post_1930_examined": "2000 is a due-date stamp; 2010 is the Internet Archive digitising line"
+  },
+  "hog-kluchevsky-history-of-russia-4": {
+   "ia": "historyofrussia04kliuuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1672,
+    1682,
+    1699,
+    1708,
+    1724,
+    1725,
+    1730,
+    1762,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hog-soloviev-dostoievsky": {
+   "ia": "in.ernet.dli.2015.173824",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hog-shmelov-sun-of-the-dead": {
+   "ia": "the-sun-of-the-dead",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1917,
+    1923,
+    1926,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
