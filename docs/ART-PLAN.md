@@ -330,12 +330,49 @@ What the example turned up:
    Archive-only scans through the Unscanner. Theology scans have little art, so
    they come last.
 
-## 9. Next steps once approved
+## 9. The first harvest (2026-11-03)
 
-- `pipeline/art_harvest_gutenberg.py`: Gutenberg HTML to draft records and
-  anchors, with printed page to leaf through `page_numbers.json`.
-- Unscanner: write its found pictures out as records (`--to-art`).
-- `pipeline/art_check.py --check`: every anchor's quote found, every witness's
-  box inside its page, every `pd_us` true, a rebuild mints 0 (the house gate).
+Adam, 2026-11-03: use the week's remaining time to carry the plan past the
+King Arthur pilot. So `pipeline/art_harvest.py` ran the Gutenberg-HTML route
+(section 4a) over 53 storyteller shelves: 1,029 Gutenberg books, of which
+**510 have an illustrated HTML edition**. They hold **17,612 placements**:
+14,098 pictures, 1,841 initials, 782 ornaments, 258 tailpieces, 55
+headpieces, 285 covers and 293 in-line symbols. Every placement has its
+reading order, its heading, its anchor quote, and its printed page when the
+edition kept one (334 books did). Drafts, no uids:
+`data/art/drafts/` (its README has the row shape and the counts). A review
+page shows a strip from every book, the shared ornaments and the initials
+(`pipeline/art_gallery.py`, published as an artifact).
+
+What it found that the pilot could not:
+
+1. **Ornaments do cross books.** The Scribner Press colophon appears in six
+   books by four authors. Pyle's four Arthur volumes share their tailpieces
+   and chapter bands. Matching by shape (dHash plus proportions) finds the
+   candidates; about half survive a look by eye. So a person confirms every
+   match before two placements share one ornament uid.
+2. **Gutenberg's HTML loses the initial's letter.** 314 picture initials in 27
+   books open words the HTML spells without their first letter ("nce upon a
+   time"). The house text comes from Gutenberg's `.txt`, which keeps the whole
+   word (67 of 69 checked), so the corpus is sound. Any page rebuilt from the
+   HTML must restore the letter, which is section 3a's rule.
+3. **Rights need a title page, not a shelf date, for 88 books.** Most carry
+   no date anywhere in the file. 17 show a year after 1930 on the title page,
+   probably a reprint, but the art cannot be hosted until someone reads it.
+4. **Gutenberg mixes in its own furniture.** "Click to enlarge" buttons (137
+   in one Oz book) are left out. Symbols set in the line (cattle brands, the
+   Nursery Rhyme Book's marks) are kept as `glyph`, neither art nor ornament.
+
+## 10. Next steps once approved
+
+- Mint uids for the pictures and confirmed ornaments of reviewed books (the
+  King Arthur pilot first), from these drafts.
+- For each book with art, find its scan (the Archive) and add the scan leaf
+  and box, so the art comes at full size and full-page plates are known.
+- Unscanner: write its found pictures out as records (`--to-art`), for the
+  books Gutenberg never illustrated.
+- `pipeline/art_check.py --check`: every anchor's quote found in the house
+  text, every witness's box inside its page, every hosted piece `pd_us: true`,
+  and a rebuild mints 0 (the house gate).
 - A review sheet per book, the way the hymn sheets work.
 - Extend `data/art/README.md` with these rules once they are settled.

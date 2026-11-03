@@ -224,6 +224,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/brewer_plates.py --fetch          # Brewer's Character Sketches: 8 vols' manifests, OCR, PDFs (gitignored)
     python3 pipeline/brewer_plates.py [--check]        # -> data/art/brewer-sketches/plates.jsonl, 283 plates with uids (mint 0)
     python3 tests/brewer_plates_test.py                # the plates catalog, offline
+    python3 pipeline/art_harvest.py --fetch <shelf>... # page art from Gutenberg's illustrated HTML -> data/art/drafts/ (no uids; docs/ART-PLAN.md)
+    python3 pipeline/art_harvest.py --check <shelf>... # drafts byte-identical
+    python3 pipeline/art_gallery.py                    # the drafts' review page -> build/art-gallery/
+    python3 tests/art_harvest_test.py                  # 26 offline checks
     python3 pipeline/build_stories.py [--check]        # Illustrated Classics story layer: scenes + figures -> uids (mint 0)
     python3 tests/stories_test.py                      # data/stories/ and data/art/illustrated-classics/, offline
     python3 pipeline/build_kipling_shelf.py [--check]  # the Kipling shelf's work uids (kipling:<work>); --check mints 0
