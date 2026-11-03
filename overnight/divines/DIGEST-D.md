@@ -1164,3 +1164,19 @@ What is left, and why it was not read:
 - **Vol. 13's animal-track diagrams** (scan pp. 215-216): labels scattered over a drawing. And its printer's signature marks (N.&O.L. II. 4.), left as printed.
 
 Default: leave these flagged.
+
+### Round 7: The Heart of Oak Books, 1906 printing (2026-11-03)
+
+| Volume | Scan | Twins collated | Garbled before | After | Rows |
+|---|---|---|---|---|---|
+| Book 4 | `heartofoakbooks04nort` | `heartoakbooks07nortgoog`, `heartoakbooksfo00nortgoog` | 310 | 31 | 276 |
+| Book 6 | `heartofoakbooks06nort` | none found | 470 | 61 | 715 |
+| Book 7 | `heartofoakbooks07nort` | `books7heartofoak00nort`, `heartoakbooks05nortgoog` | 420 | 67 | 398 |
+
+The twins were picked by shared text (93-94% of four-word runs), not by the Archive's volume labels, which are wrong for several Google scans (`heartoakbooks07nortgoog` is Book 4; `heartoakbooks05nortgoog` is Book 7). No other scan of Book 6 matched.
+
+These three scans are the New York Public Library's copies. Its ownership stamp (ASTOR, LENOX AND TILDEN FOUNDATIONS) is read as text on many pages, and a perforated stamp runs through some lines. The stamp lines are deleted, and the words under the perforations were read from the page images.
+
+What is left is mostly correct as printed: footnote and glossary numbers stuck to words (Burns, Spenser, Milton), and the pronouncing vocabulary at the end of Book 4, whose accent marks the OCR cannot read (flagged). One Greek line in Book 7 (scan p. 41) is still garbled, because the OCR read it as Latin letters.
+
+Default: leave these as they are.
