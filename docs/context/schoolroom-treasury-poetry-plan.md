@@ -164,7 +164,7 @@ What is missing is the tally itself: the readers and anthologies, parsed into ro
 - [ ] Match rows across sources and rank by count
 - [x] Build the candidate pool (`data/poetry/pool/`)
 - [ ] Adam culls the pool
-- [ ] Cut texts through the rights gate and grade them
+- [x] Cut texts through the rights gate and grade them (graded draft 2026-11-03: `data/poetry/graded/`, every poem placed in one of five bands; Adam culls next)
 - [ ] Build the read-aloud edition and the Mnemonicon packs
 
 Living copy (editable): https://claude.ai/code/artifact/8151c654-d39c-4d3e-bc8e-c3cc7f22457a
