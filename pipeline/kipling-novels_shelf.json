@@ -10,21 +10,9 @@
  ],
  "ccel": {},
  "gutenberg": {
-  "kipling-kim": [
-   2226,
-   "Kim (1901)"
-  ],
   "kipling-man-who-would-be-king": [
    8147,
    "The Man Who Would Be King (1888)"
-  ],
-  "kipling-stalky": [
-   3006,
-   "Stalky & Co. (1899)"
-  ],
-  "kipling-captains-courageous": [
-   2186,
-   "Captains Courageous (1897)"
   ]
  },
  "internet_archive": {},
@@ -68,5 +56,10 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_held": {
+  "kipling-kim": "dropped 2026-11-03 at the relay merge: the same Gutenberg file is in kipling_shelf.json (Adam's Kipling shelf, 2026-11-03), which owns it",
+  "kipling-stalky": "dropped 2026-11-03 at the relay merge: the same Gutenberg file is in kipling_shelf.json (Adam's Kipling shelf, 2026-11-03), which owns it",
+  "kipling-captains-courageous": "dropped 2026-11-03 at the relay merge: the same Gutenberg file is in kipling_shelf.json (Adam's Kipling shelf, 2026-11-03), which owns it"
  }
 }
