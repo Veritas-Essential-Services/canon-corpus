@@ -1,0 +1,66 @@
+{
+ "_about": "Tobias Smollett. Bloom's Western Canon (1994) lists: The Adventures of Roderick Random; The Expedition of Humphry Clinker. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Tobias Smollett",
+ "_name_words": [
+  "tobias",
+  "smollett"
+ ],
+ "_surname": [
+  "smollett",
+  "tobias smollett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "smollett-expedition-humphry-clinker": [
+   2160,
+   "The Expedition of Humphry Clinker"
+  ],
+  "smollett-adventures-roderick-random": [
+   4085,
+   "The Adventures of Roderick Random"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "smollett-expedition-humphry-clinker": {
+   "bloom_n": [
+    245
+   ],
+   "bloom_title": "The Expedition of Humphry Clinker",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": "Held smollett-translations shelf holds only his translations (Gil Blas, Don Quixote)."
+  },
+  "smollett-adventures-roderick-random": {
+   "bloom_n": [
+    246
+   ],
+   "bloom_title": "The Adventures of Roderick Random",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "smollett-expedition-humphry-clinker": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smollett-adventures-roderick-random": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
