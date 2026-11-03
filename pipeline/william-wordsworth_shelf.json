@@ -1,0 +1,76 @@
+{
+ "_about": "William Wordsworth. Bloom's Western Canon (1994) lists: Poems; The Prelude. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Wordsworth",
+ "_name_words": [
+  "william",
+  "wordsworth"
+ ],
+ "_surname": [
+  "wordsworth",
+  "william wordsworth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wordsworth-poetical-works": [
+   10219,
+   "The Poetical Works of William Wordsworth, Volume 1 (of 8)",
+   "tr. ed. William Knight"
+  ],
+  "wordsworth-poetical-works-2": [
+   12383,
+   "The Poetical Works of William Wordsworth, Volume 3 (of 8)",
+   "tr. ed. William Knight"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "wordsworth-poetical-works": "Knight",
+  "wordsworth-poetical-works-2": "Knight"
+ },
+ "_bloom": {
+  "wordsworth-poetical-works": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "PG catalogue; PG has all eight volumes: 10219, 12145, 12383, 32459, 56361, 47651, 47143, 52836.",
+   "case": "Bloom lists Wordsworth's poems. We hold only two early volumes; Knight's eight-volume Poetical Works is the complete chronological edition on PG.",
+   "note": "Eight PG files; volume 3 also contains The Prelude (entry 414)."
+  },
+  "wordsworth-poetical-works-2": {
+   "bloom_n": [
+    414
+   ],
+   "bloom_title": "The Prelude",
+   "year": "unread",
+   "evidence": "Read the PG 12383 contents: 'The Prelude; or, Growth of a Poet's Mind'.",
+   "case": "Bloom lists The Prelude; not held. It is in Knight's vol. 3 (the 1850 text).",
+   "note": "Acquiring the Knight set (entry 413) covers this."
+  }
+ },
+ "_checks": {
+  "wordsworth-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "translator_claimed": "Knight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "translator_claimed": "Knight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
