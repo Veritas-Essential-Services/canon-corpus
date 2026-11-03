@@ -1,0 +1,49 @@
+{
+ "_about": "Hilda Doolittle. Bloom's Western Canon (1994) lists: Selected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Hilda Doolittle",
+ "_name_words": [
+  "hilda",
+  "doolittle"
+ ],
+ "_surname": [
+  "doolittle",
+  "hilda doolittle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "doolittle-collected-poems": [
+   "collectedpoemsof0000hdhi",
+   "Collected Poems of H. D."
+  ]
+ },
+ "_rights_checked": {
+  "doolittle-collected-poems": "Bloom addition 2026-11-03: 1925 (verso 'COPYRIGHT, 1925, BY BONI AND LIVERIGHT'; 'SIXTH PRINTING, AUGUST, 1940'). djvu verso + contents read; collection printcollection/toronto"
+ },
+ "_bloom": {
+  "doolittle-collected-poems": {
+   "bloom_n": [
+    1275
+   ],
+   "bloom_title": "Selected Poems",
+   "year": "1925 (verso 'COPYRIGHT, 1925, BY BONI AND LIVERIGHT'; 'SIXTH PRINTING, AUGUST, 1940')",
+   "evidence": "djvu verso + contents read; collection printcollection/toronto",
+   "case": "Bloom lists H.D.'s Selected Poems (generic). Collected Poems of H.D. (1925) gathers Sea Garden, The God, Translations, Hymen, Heliodora.",
+   "note": "Scan is the sixth printing, August 1940, of the 1925 edition (verso 'Copyright, 1925, by Boni and Liveright'); contents read match the 1925 book. PG has the separate volumes Sea Garden 28665, Hymen 28666, Heliodora 62456 as a fallback."
+  }
+ },
+ "_checks": {
+  "doolittle-collected-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "doolittle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925-01-01T00:00:00Z",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1925 (verso 'COPYRIGHT, 1925, BY BONI AND LIVERIGHT'; 'SIXTH PRINTING, AUGUST, 1940'). djvu verso + contents read; collection printcollection/toronto"
+  }
+ }
+}
