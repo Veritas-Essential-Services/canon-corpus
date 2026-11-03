@@ -37288,6 +37288,997 @@
   },
   "built_sha256": "eac4d0c3ebce5d400dadeadce8e144e3339426350238dd079a83e5f9e5fbaa9b"
  },
+ "icc-allen-matthew": {
+  "title": "A Critical and Exegetical Commentary on the Gospel according to S. Matthew",
+  "author": "Willoughby C. Allen",
+  "format": "ia-hocr",
+  "sha256": "6ce6b6e3f5664d6c24eb2f9d61a3372fe46eb143ea40d9191da5a59ae1bdd3e5",
+  "units": 638,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic0026alle (1907) 8.6% / 38.7% / 4,375  <- chosen: no other scan keeps its Greek",
+   "note": "The International Critical Commentary: W. C. Allen, A Critical and Exegetical Commentary on the Gospel according to S. Matthew, second edition (Edinburgh: T. & T. Clark, 1907), as its title page (leaf 9) reads; scan leaves 9-426 of criticalexegetic0026alle"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1907); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0026alle (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0026alle",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 540,
+    "page": 98
+   },
+   "footnote_lines": 280,
+   "junk_lines_dropped": 15,
+   "leaves_commentary": 320,
+   "leaves_page": 98,
+   "openers_accepted": 588,
+   "openers_out_of_sequence": 95,
+   "openers_rejected": 107,
+   "printed_page_from_neighbours": 102,
+   "printed_page_read": 217,
+   "running_heads_behind": 1044,
+   "kjv_coverage": {
+    "Matt": {
+     "kjv_verses": 1071,
+     "commented": 729,
+     "with_own_note": 455
+    }
+   },
+   "scripture_links": {
+    "read": 280,
+    "resolved": 53,
+    "ranges": 4,
+    "ranges_start_only": 2
+   },
+   "greek": {
+    "greek_letters": 65492,
+    "greek_share_of_letters": 0.0829,
+    "greek_tokens_3plus": 10339,
+    "greek_tokens_in_reference_vocab": 0.3634,
+    "mixed_script_tokens": 13
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "fb78cf664720fa2f1e670c26119614d70b7c914c2811ba0248e507dbd7961d25"
+ },
+ "icc-gould-mark": {
+  "title": "A Critical and Exegetical Commentary on the Gospel according to St. Mark",
+  "author": "Ezra P. Gould",
+  "format": "ia-hocr",
+  "sha256": "a8b0eab01d2e0411f07af5d7ecffa8df5dd8b4f1e80757dfd0530b085b6c0b1a",
+  "units": 669,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic00gouluoft (1912) 7.4% / 37.9% / 3,110  <- chosen: no other scan keeps its Greek",
+   "note": "The International Critical Commentary: E. P. Gould, A Critical and Exegetical Commentary on the Gospel according to St. Mark (Edinburgh: T. & T. Clark, 1912; fifth impression, the first 1896), as its title page and verso (leaves 12-13) read; scan leaves 12-376 of criticalexegetic00gouluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1912); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00gouluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00gouluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 615,
+    "page": 54
+   },
+   "footnote_lines": 954,
+   "junk_lines_dropped": 47,
+   "leaves_commentary": 309,
+   "leaves_page": 54,
+   "openers_accepted": 615,
+   "openers_out_of_sequence": 19,
+   "openers_rejected": 7,
+   "printed_page_from_neighbours": 25,
+   "printed_page_read": 282,
+   "running_heads_behind": 1268,
+   "kjv_coverage": {
+    "Mark": {
+     "kjv_verses": 678,
+     "commented": 641,
+     "with_own_note": 548
+    }
+   },
+   "scripture_links": {
+    "read": 123,
+    "resolved": 4,
+    "ranges": 0,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 45887,
+    "greek_share_of_letters": 0.0711,
+    "greek_tokens_3plus": 7256,
+    "greek_tokens_in_reference_vocab": 0.3685,
+    "mixed_script_tokens": 21
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "017c3e4cd05088e5e06f74aac30fcc3db40d3e56d66486526a7789daa6ae1a5b"
+ },
+ "icc-plummer-luke": {
+  "title": "A Critical and Exegetical Commentary on the Gospel according to S. Luke",
+  "author": "Alfred Plummer",
+  "format": "ia-hocr",
+  "sha256": "52a37ee5b60029263523aff43e7c17c70db5329a0f36f7ef77183d1dccd0c335",
+  "units": 1039,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "same_scan_as": "same scan as Lane A: plummer-luke-icc (pipeline/alfred-plummer_shelf.json, branch claude/armarium-divines)",
+   "scan_choice": "acriticalandexeg00plumuoft (1896) 10.4% / 37.7% / 8,602  <- chosen; criticalexegetic28plumuoft (1922) 8,579, criticalexegetic00plumrich (1903) 8,574, criticalexegetic00plumuoft (1914) 8,568, criticalexegetic00plum (1896) 8,543, criticalandexege028123mbp (1920) 8,490, in.ernet.dli.2015.153353 (1920) 8,485, acriticalandexe01plumgoog (1896) 8,363, and five undated scans: fewer known Greek words",
+   "note": "The International Critical Commentary: A. Plummer, A Critical and Exegetical Commentary on the Gospel according to S. Luke (Edinburgh: T. & T. Clark, 1896), as its title page (leaf 12) reads; scan leaves 12-664 of acriticalandexeg00plumuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1896); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, acriticalandexeg00plumuoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/acriticalandexeg00plumuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 956,
+    "page": 83
+   },
+   "footnote_lines": 1146,
+   "junk_lines_dropped": 49,
+   "leaves_commentary": 570,
+   "leaves_page": 83,
+   "openers_accepted": 978,
+   "openers_out_of_sequence": 163,
+   "openers_rejected": 170,
+   "printed_page_from_neighbours": 130,
+   "printed_page_read": 431,
+   "running_heads_behind": 4183,
+   "kjv_coverage": {
+    "Luke": {
+     "kjv_verses": 1151,
+     "commented": 1031,
+     "with_own_note": 797
+    }
+   },
+   "scripture_links": {
+    "read": 8137,
+    "resolved": 7352,
+    "ranges": 317,
+    "ranges_start_only": 4
+   },
+   "greek": {
+    "greek_letters": 133450,
+    "greek_share_of_letters": 0.1021,
+    "greek_tokens_3plus": 20852,
+    "greek_tokens_in_reference_vocab": 0.3726,
+    "mixed_script_tokens": 59
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "7f45924f132140a6e324bde88161515842768b98e07bbddfb609fda2eedd8b14"
+ },
+ "icc-sanday-headlam-romans": {
+  "title": "A Critical and Exegetical Commentary on the Epistle to the Romans",
+  "author": "William Sanday and Arthur C. Headlam",
+  "format": "ia-hocr",
+  "sha256": "e2de3c37e25910877169368f2cd38ff355b711cda1ed8d0db5397893aa4f13c0",
+  "units": 542,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "epistlecommentar00sanduoft (1895, 1st ed.) 7.6% / 40.4% / 6,092  <- chosen; criticalexegetic00sandrich (1905, 'tenth edition', the revised text of 1902) 6,013: 1.3% behind; criticalexegetic97sand (1895) 5,996; in.ernet.dli.2015.268057 (undated) 5,798; acriticalandexe01headgoog (1904) 5,530",
+   "note": "The International Critical Commentary: W. Sanday and A. C. Headlam, A Critical and Exegetical Commentary on the Epistle to the Romans, first edition (New York: Charles Scribner's Sons, 1895), as its title page (leaf 14) reads; scan leaves 14-560 of epistlecommentar00sanduoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1895); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, epistlecommentar00sanduoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/epistlecommentar00sanduoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 434,
+    "page": 108
+   },
+   "footnote_lines": 499,
+   "junk_lines_dropped": 118,
+   "leaves_commentary": 437,
+   "leaves_page": 108,
+   "openers_accepted": 449,
+   "openers_out_of_sequence": 14,
+   "openers_rejected": 27,
+   "printed_page_from_neighbours": 41,
+   "printed_page_read": 394,
+   "running_heads_behind": 1483,
+   "kjv_coverage": {
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 416,
+     "with_own_note": 374
+    }
+   },
+   "scripture_links": {
+    "read": 2940,
+    "resolved": 2588,
+    "ranges": 148,
+    "ranges_start_only": 4
+   },
+   "greek": {
+    "greek_letters": 87522,
+    "greek_share_of_letters": 0.0734,
+    "greek_tokens_3plus": 13880,
+    "greek_tokens_in_reference_vocab": 0.3982,
+    "mixed_script_tokens": 23
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "57fca5c70996bbc52c871744276119c68776f2c08bb911c91da8e3aece49828e"
+ },
+ "icc-robertson-plummer-1-corinthians": {
+  "title": "A Critical and Exegetical Commentary on the First Epistle of St Paul to the Corinthians",
+  "author": "Archibald Robertson and Alfred Plummer",
+  "format": "ia-hocr",
+  "sha256": "f5704483cf073d192c887b314124e877307f3cdbddcde27808a3f2ceb77c3736",
+  "units": 482,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "stpaulcommentary00robeuoft (1911) 7.7% / 46.2% / 5,432  <- chosen; criticalexegetic1911robe (1911) 5,404; acriticalandexeg33robeuoft (1961) and two of illegible reprint years refused",
+   "note": "The International Critical Commentary: A. Robertson and A. Plummer, A Critical and Exegetical Commentary on the First Epistle of St Paul to the Corinthians (New York: Charles Scribner's Sons, 1911), as its title page (leaf 16) reads; scan leaves 16-483 of stpaulcommentary00robeuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1911); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, stpaulcommentary00robeuoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/stpaulcommentary00robeuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 416,
+    "page": 66
+   },
+   "footnote_lines": 1202,
+   "junk_lines_dropped": 8,
+   "leaves_commentary": 402,
+   "leaves_page": 66,
+   "openers_accepted": 419,
+   "openers_out_of_sequence": 31,
+   "openers_rejected": 17,
+   "printed_page_from_neighbours": 49,
+   "printed_page_read": 345,
+   "running_heads_behind": 1070,
+   "kjv_coverage": {
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 422,
+     "with_own_note": 377
+    }
+   },
+   "scripture_links": {
+    "read": 3438,
+    "resolved": 3081,
+    "ranges": 113,
+    "ranges_start_only": 4
+   },
+   "greek": {
+    "greek_letters": 63534,
+    "greek_share_of_letters": 0.073,
+    "greek_tokens_3plus": 9939,
+    "greek_tokens_in_reference_vocab": 0.4312,
+    "mixed_script_tokens": 18
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "654cce08cefd07cb60f250d093c72e1d55089786c57008f6ce882499ad7ffbfc"
+ },
+ "icc-plummer-2-corinthians": {
+  "title": "A Critical and Exegetical Commentary on the Second Epistle of St Paul to the Corinthians",
+  "author": "Alfred Plummer",
+  "format": "ia-hocr",
+  "sha256": "71b9f47f9fce7e16ef2871297c134b4d8416279eb69bef450b5c9082b9011c84",
+  "units": 293,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "00758325.1242.emory.edu (1915) 8.0% / 44.7% / 4,994  <- chosen; corinthiexegetic00plumrich (1915) 4,970; criticalexesecep00plumuoft (Clark, 1915) 4,980, the scan Lane A shelves as plummer-2-corinthians-icc (pipeline/alfred-plummer_shelf.json, branch claude/armarium-divines): a twin, kept for later collation",
+   "note": "The International Critical Commentary: A. Plummer, A Critical and Exegetical Commentary on the Second Epistle of St Paul to the Corinthians (New York: Charles Scribner's Sons, 1915), as its title page (leaf 3) reads; scan leaves 3-444 of 00758325.1242.emory.edu"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1915); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, 00758325.1242.emory.edu (Emory University, Pitts Theology Library copy)",
+   "source_url": "https://archive.org/details/00758325.1242.emory.edu",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 240,
+    "page": 53
+   },
+   "footnote_lines": 764,
+   "junk_lines_dropped": 6,
+   "leaves_commentary": 386,
+   "leaves_page": 53,
+   "openers_accepted": 248,
+   "openers_out_of_sequence": 22,
+   "openers_rejected": 16,
+   "printed_page_from_neighbours": 31,
+   "printed_page_read": 353,
+   "running_heads_behind": 1124,
+   "kjv_coverage": {
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 233,
+     "with_own_note": 220
+    }
+   },
+   "scripture_links": {
+    "read": 3105,
+    "resolved": 2649,
+    "ranges": 83,
+    "ranges_start_only": 3
+   },
+   "greek": {
+    "greek_letters": 65299,
+    "greek_share_of_letters": 0.0769,
+    "greek_tokens_3plus": 9990,
+    "greek_tokens_in_reference_vocab": 0.4393,
+    "mixed_script_tokens": 10
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "a0773b1d3a775295a87f1e3c75474ed3bffab9d7c1c55d11e43dff5ee841d5f6"
+ },
+ "icc-burton-galatians": {
+  "title": "A Critical and Exegetical Commentary on the Epistle to the Galatians",
+  "author": "Ernest De Witt Burton",
+  "format": "ia-hocr",
+  "sha256": "7cd2f3b7085d8122e20a21107da4ea737897a9b7817072f3bde20e9c635a319e",
+  "units": 377,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic00burtuoft (1921) 6.8% / 41.3% / 5,477  <- chosen; criticalexegetic00burtrich (1928) 5,458; in.ernet.dli.2015.88314 (1920) 5,399; acriticalandexe0{0-3}burtgoog (1920) 5,339-5,397",
+   "note": "The International Critical Commentary: E. De W. Burton, A Critical and Exegetical Commentary on the Epistle to the Galatians (Edinburgh: T. & T. Clark, 1921), as its title page (leaf 11) reads; scan leaves 11-623 of criticalexegetic00burtuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1921); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00burtuoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00burtuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 127,
+    "page": 250
+   },
+   "footnote_lines": 658,
+   "junk_lines_dropped": 23,
+   "leaves_commentary": 362,
+   "leaves_page": 250,
+   "openers_accepted": 137,
+   "openers_out_of_sequence": 7,
+   "openers_rejected": 35,
+   "printed_page_from_neighbours": 211,
+   "printed_page_read": 303,
+   "running_heads_behind": 564,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 126,
+     "with_own_note": 126
+    }
+   },
+   "scripture_links": {
+    "read": 3552,
+    "resolved": 141,
+    "ranges": 3,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 75248,
+    "greek_share_of_letters": 0.0635,
+    "greek_tokens_3plus": 11855,
+    "greek_tokens_in_reference_vocab": 0.4025,
+    "mixed_script_tokens": 18
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "b8019de49181ec64ba07c242540ac86b5727c3a4e6e855c6c47b11a1b9a29e88"
+ },
+ "icc-abbott-ephesians-colossians": {
+  "title": "A Critical and Exegetical Commentary on the Epistles to the Ephesians and to the Colossians",
+  "author": "T. K. Abbott",
+  "format": "ia-hocr",
+  "sha256": "279e7a5701e62b938bcadbf6b8102fdb3b0286d76165325e9fc4270129f37d74",
+  "units": 320,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic1916abbo (1916) 13.9% / 39.4% / 6,968  <- chosen; acriticalandexeg00abbouoft (1897) 6,953; criticalexegetic00abbo (1897) 6,941; criticalexegetic00abborich (1905) 6,939; criticalexegeticabbotabbo (1979) refused",
+   "note": "The International Critical Commentary: T. K. Abbott, A Critical and Exegetical Commentary on the Epistles to the Ephesians and to the Colossians (New York: Charles Scribner's Sons, 1916), as its title page (leaf 9) reads; scan leaves 9-388 of criticalexegetic1916abbo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1916); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic1916abbo (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic1916abbo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 250,
+    "page": 70
+   },
+   "footnote_lines": 217,
+   "junk_lines_dropped": 16,
+   "leaves_commentary": 307,
+   "leaves_page": 70,
+   "openers_accepted": 252,
+   "openers_out_of_sequence": 21,
+   "openers_rejected": 9,
+   "printed_page_from_neighbours": 30,
+   "printed_page_read": 277,
+   "running_heads_behind": 481,
+   "kjv_coverage": {
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 151,
+     "with_own_note": 129
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 92,
+     "with_own_note": 84
+    }
+   },
+   "scripture_links": {
+    "read": 2467,
+    "resolved": 2172,
+    "ranges": 46,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 109028,
+    "greek_share_of_letters": 0.1392,
+    "greek_tokens_3plus": 17139,
+    "greek_tokens_in_reference_vocab": 0.3924,
+    "mixed_script_tokens": 22
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "e9f33468ee30b4f47043eeae7fe5a147dc604c930239bf01b4d835ea308c3924"
+ },
+ "icc-vincent-philippians-philemon": {
+  "title": "A Critical and Exegetical Commentary on the Epistles to the Philippians and to Philemon",
+  "author": "Marvin R. Vincent",
+  "format": "ia-hocr",
+  "sha256": "c298df1c1a74bf5090f0208325b2f80da0af4efaa344b4c0589f17926f8061c4",
+  "units": 206,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic50vinc (1906) 6.2% / 42.1% / 1,866  <- chosen; criticalexegetic00vincuoft (1902) 1,855; criticalexegetic0000vinc_t9b5 (1897), the scan Lane A shelves as vincent-icc-philippians (pipeline/marvin-r-vincent_shelf.json, branch claude/armarium-divines): a twin with 0.0% Greek, kept for later collation",
+   "note": "The International Critical Commentary: M. R. Vincent, A Critical and Exegetical Commentary on the Epistles to the Philippians and to Philemon (New York: Charles Scribner's Sons, 1906; copyright 1897), as its title page and verso (leaves 19-20) read; scan leaves 19-256 of criticalexegetic50vinc"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1906); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic50vinc (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic50vinc",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 146,
+    "page": 60
+   },
+   "footnote_lines": 107,
+   "junk_lines_dropped": 13,
+   "leaves_commentary": 174,
+   "leaves_page": 60,
+   "openers_accepted": 148,
+   "openers_out_of_sequence": 2,
+   "openers_rejected": 8,
+   "printed_page_from_neighbours": 26,
+   "printed_page_read": 167,
+   "running_heads_behind": 222,
+   "kjv_coverage": {
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 104,
+     "with_own_note": 104
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 23,
+     "with_own_note": 23
+    }
+   },
+   "scripture_links": {
+    "read": 2206,
+    "resolved": 1913,
+    "ranges": 53,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 25446,
+    "greek_share_of_letters": 0.0583,
+    "greek_tokens_3plus": 4010,
+    "greek_tokens_in_reference_vocab": 0.4072,
+    "mixed_script_tokens": 13
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "d4f9786033e1539431e8d57a0ee30200866d49a9c9956d491c395a1470d3527b"
+ },
+ "icc-frame-thessalonians": {
+  "title": "A Critical and Exegetical Commentary on the Epistles of St. Paul to the Thessalonians",
+  "author": "James Everett Frame",
+  "format": "ia-hocr",
+  "sha256": "0dfd6cbaadc3d584260dfeab6e652255d7a57dbd2d71059e28e3f469ac81c355",
+  "units": 180,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalcommenta00framuoft (1912) 11.2% / 39.2% / 4,135  <- chosen; criticalexegetic00framuoft 4,185 (1.2% more, but its title-page year is illegible); exegeticcritical00framrich (1912) 4,095",
+   "note": "The International Critical Commentary: J. E. Frame, A Critical and Exegetical Commentary on the Epistles of St. Paul to the Thessalonians (Edinburgh: T. & T. Clark, 1912, OCR'd '1012'), as its title page (leaf 8) reads; scan leaves 8-328 of criticalcommenta00framuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1912); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalcommenta00framuoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/criticalcommenta00framuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 108,
+    "page": 72
+   },
+   "footnote_lines": 270,
+   "junk_lines_dropped": 16,
+   "leaves_commentary": 247,
+   "leaves_page": 72,
+   "openers_accepted": 106,
+   "openers_out_of_sequence": 9,
+   "openers_rejected": 3,
+   "printed_page_from_neighbours": 139,
+   "printed_page_read": 166,
+   "running_heads_behind": 2589,
+   "kjv_coverage": {
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 68,
+     "with_own_note": 64
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 37,
+     "with_own_note": 32
+    }
+   },
+   "scripture_links": {
+    "read": 2519,
+    "resolved": 156,
+    "ranges": 32,
+    "ranges_start_only": 11
+   },
+   "greek": {
+    "greek_letters": 58985,
+    "greek_share_of_letters": 0.1054,
+    "greek_tokens_3plus": 9244,
+    "greek_tokens_in_reference_vocab": 0.3927,
+    "mixed_script_tokens": 24
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "499ad2b0ea3b54e7adfce5d5380628acadd84058adee1a62abd5c9005f07b653"
+ },
+ "icc-ropes-james": {
+  "title": "A Critical and Exegetical Commentary on the Epistle of St. James",
+  "author": "James Hardy Ropes",
+  "format": "ia-hocr",
+  "sha256": "783ebebe3d15539ba2005b26e5676fe649de7d7a43425d3cb680e1f7a2065be6",
+  "units": 243,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalandexege028105mbp (1916) 9.1% / 35.4% / 2,817  <- chosen; in.ernet.dli.2015.179333 (1916) 2,805; criticalexegetic59rope (1916) 2,726",
+   "note": "The International Critical Commentary: J. H. Ropes, A Critical and Exegetical Commentary on the Epistle of St. James (New York: Charles Scribner's Sons, 1916; published February 1916), as its title page and verso (leaves 6-7) read; scan leaves 6-339 of criticalandexege028105mbp"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1916); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalandexege028105mbp (Universal Digital Library copy)",
+   "source_url": "https://archive.org/details/criticalandexege028105mbp",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 118,
+    "page": 125
+   },
+   "footnote_lines": 249,
+   "junk_lines_dropped": 2,
+   "leaves_commentary": 206,
+   "leaves_page": 125,
+   "openers_accepted": 121,
+   "openers_out_of_sequence": 14,
+   "openers_rejected": 9,
+   "printed_page_from_neighbours": 122,
+   "printed_page_read": 187,
+   "running_heads_behind": 375,
+   "kjv_coverage": {
+    "Jas": {
+     "kjv_verses": 108,
+     "commented": 104,
+     "with_own_note": 86
+    }
+   },
+   "scripture_links": {
+    "read": 1378,
+    "resolved": 59,
+    "ranges": 2,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 49037,
+    "greek_share_of_letters": 0.0922,
+    "greek_tokens_3plus": 7646,
+    "greek_tokens_in_reference_vocab": 0.3497,
+    "mixed_script_tokens": 22
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "2663e04e1d11bf6d766c41b16155c9b4c7f2bad23c5bc2896f78c9f1bbc6904c"
+ },
+ "icc-bigg-peter-jude": {
+  "title": "A Critical and Exegetical Commentary on the Epistles of St. Peter and St. Jude",
+  "author": "Charles Bigg",
+  "format": "ia-hocr",
+  "sha256": "37c8561352ccee383174557e242546744bb786e29ecfc38a8dea4780139efa9c",
+  "units": 328,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic00bigguoft (1903) 9.0% / 37.2% / 4,051  <- chosen; criticalexegetic1905bigg (1905) 4,050; biggcriticalexeg00biggrich (1905) 4,027; acriticalandexe02bigggoog (1902) 4,011; criticalexegetic00bigg (1901) 3,978, the scan Lane A shelves as bigg-peter-jude-icc (pipeline/charles-bigg_shelf.json, branch claude/armarium-divines): a twin, kept for later collation",
+   "note": "The International Critical Commentary: C. Bigg, A Critical and Exegetical Commentary on the Epistles of St. Peter and St. Jude (New York: Charles Scribner's Sons, 1903), as its title page (leaf 14) reads; scan leaves 14-367 of criticalexegetic00bigguoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1903); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00bigguoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00bigguoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 166,
+    "page": 162
+   },
+   "footnote_lines": 14,
+   "junk_lines_dropped": 26,
+   "leaves_commentary": 190,
+   "leaves_page": 162,
+   "openers_accepted": 166,
+   "openers_out_of_sequence": 15,
+   "openers_rejected": 2,
+   "printed_page_from_neighbours": 117,
+   "printed_page_read": 226,
+   "running_heads_behind": 184,
+   "kjv_coverage": {
+    "1Pet": {
+     "kjv_verses": 105,
+     "commented": 92,
+     "with_own_note": 88
+    },
+    "2Pet": {
+     "kjv_verses": 61,
+     "commented": 55,
+     "with_own_note": 53
+    },
+    "Jude": {
+     "kjv_verses": 25,
+     "commented": 19,
+     "with_own_note": 17
+    }
+   },
+   "scripture_links": {
+    "read": 2435,
+    "resolved": 2072,
+    "ranges": 65,
+    "ranges_start_only": 2
+   },
+   "greek": {
+    "greek_letters": 71126,
+    "greek_share_of_letters": 0.0951,
+    "greek_tokens_3plus": 10658,
+    "greek_tokens_in_reference_vocab": 0.371,
+    "mixed_script_tokens": 23
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "6772e91fdd3afe5dda03f56fff29f68ab7cf72a6bf6c410edb562539c070c41b"
+ },
+ "icc-brooke-johannine-epistles": {
+  "title": "A Critical and Exegetical Commentary on the Johannine Epistles",
+  "author": "A. E. Brooke",
+  "format": "ia-hocr",
+  "sha256": "3eec446a14883a3c88919e443fd22b187aeee8c9450f117cbb702ca2562a73a7",
+  "units": 224,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "00355394.1237.emory.edu (1912) 11.6% / 44.0% / 5,423  <- chosen; criticalexegetic00broo (undated) 5,371; criticalexegetic43broouoft (1957) refused",
+   "note": "The International Critical Commentary: A. E. Brooke, A Critical and Exegetical Commentary on the Johannine Epistles (Edinburgh: T. & T. Clark, 1912), as its title page (leaf 5) reads; scan leaves 5-295 of 00355394.1237.emory.edu"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1912); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, 00355394.1237.emory.edu (Emory University, Pitts Theology Library copy)",
+   "source_url": "https://archive.org/details/00355394.1237.emory.edu",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 129,
+    "page": 95
+   },
+   "footnote_lines": 186,
+   "junk_lines_dropped": 6,
+   "leaves_commentary": 195,
+   "leaves_page": 95,
+   "openers_accepted": 133,
+   "openers_out_of_sequence": 16,
+   "openers_rejected": 14,
+   "printed_page_from_neighbours": 75,
+   "printed_page_read": 127,
+   "running_heads_behind": 1245,
+   "kjv_coverage": {
+    "1John": {
+     "kjv_verses": 105,
+     "commented": 93,
+     "with_own_note": 85
+    },
+    "2John": {
+     "kjv_verses": 13,
+     "commented": 12,
+     "with_own_note": 11
+    },
+    "3John": {
+     "kjv_verses": 14,
+     "commented": 13,
+     "with_own_note": 13
+    }
+   },
+   "scripture_links": {
+    "read": 903,
+    "resolved": 757,
+    "ranges": 15,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 63314,
+    "greek_share_of_letters": 0.1136,
+    "greek_tokens_3plus": 10512,
+    "greek_tokens_in_reference_vocab": 0.399,
+    "mixed_script_tokens": 9
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "0c418cbd3c4eaefd7a31b4e1d2a3ea977b6d8819619b03ab20c99f33720f2545"
+ },
+ "icc-charles-revelation-1": {
+  "title": "A Critical and Exegetical Commentary on the Revelation of St. John, vol. I",
+  "author": "R. H. Charles",
+  "format": "ia-hocr",
+  "sha256": "b7a12ef7d6511d431b1b5ee24bd780fdeadf74a4ed5601c3d36723e7c55cf154",
+  "units": 422,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic0044char (1920) 13.2% / 37.6% / 9,284  <- chosen; criticalexegetic01char 9,217, criticalandexege008418mbp 9,195, acriticalandexeg01charuoft 9,186, criticalexegetic661char 9,168, in.ernet.dli.2015.167208 9,102, internationalcr01plumgoog 9,081, acriticalandexe00chargoog 8,990 (all 1920); p1criticalexeget44charuoft (1956) refused",
+   "note": "The International Critical Commentary: R. H. Charles, A Critical and Exegetical Commentary on the Revelation of St. John, vol. I (New York: Charles Scribner's Sons, 1920), as its title page (leaf 9) reads; scan leaves 9-569 of criticalexegetic0044char"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1920); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0044char (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0044char",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 234,
+    "page": 188
+   },
+   "footnote_lines": 743,
+   "junk_lines_dropped": 29,
+   "leaves_commentary": 372,
+   "leaves_page": 188,
+   "openers_accepted": 267,
+   "openers_out_of_sequence": 19,
+   "openers_rejected": 201,
+   "printed_page_from_neighbours": 55,
+   "printed_page_read": 317,
+   "running_heads_behind": 12100,
+   "kjv_coverage": {
+    "Rev": {
+     "kjv_verses": 404,
+     "commented": 226,
+     "with_own_note": 219,
+     "chapters": [
+      1,
+      18
+     ],
+     "kjv_verses_in_chapters": 320
+    }
+   },
+   "scripture_links": {
+    "read": 2309,
+    "resolved": 1546,
+    "ranges": 63,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 144963,
+    "greek_share_of_letters": 0.1361,
+    "greek_tokens_3plus": 24056,
+    "greek_tokens_in_reference_vocab": 0.3782,
+    "mixed_script_tokens": 29
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "1fe72b82f0955e55622940983a9573727c19083666634f822be2fbbbb43632ed"
+ },
+ "icc-charles-revelation-2": {
+  "title": "A Critical and Exegetical Commentary on the Revelation of St. John, vol. II",
+  "author": "R. H. Charles",
+  "format": "ia-hocr",
+  "sha256": "99a13fd7d62bff1f8337070a7954d85b4322f114c75f26a1a7bb2ea2ab261813",
+  "units": 358,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic02char (1920) 20.0% / 37.7% / 10,545  <- chosen; criticalexegetic662char 10,537, criticalexegetic0044char_a2i0 10,447, acriticalandexeg02charuoft 10,377, criticalandexege028098mbp 10,172, in.ernet.dli.2015.153339 10,142, in.ernet.dli.2015.178982 10,119, internationalcr02plumgoog 9,808 (all 1920), and four undated; p2criticalexeget44charuoft (1959) refused",
+   "note": "The International Critical Commentary: R. H. Charles, A Critical and Exegetical Commentary on the Revelation of St. John, vol. II (New York: Charles Scribner's Sons, 1920), as its title page (leaf 7) reads; with Charles's Greek text and English translation of the whole book, kept by page; scan leaves 7-470 of criticalexegetic02char"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1920); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic02char (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic02char",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 122,
+    "page": 236
+   },
+   "footnote_lines": 232,
+   "junk_lines_dropped": 54,
+   "leaves_commentary": 225,
+   "leaves_page": 236,
+   "openers_accepted": 154,
+   "openers_out_of_sequence": 12,
+   "openers_rejected": 240,
+   "printed_page_from_neighbours": 39,
+   "printed_page_read": 412,
+   "running_heads_behind": 2831,
+   "kjv_coverage": {
+    "Rev": {
+     "kjv_verses": 404,
+     "commented": 122,
+     "with_own_note": 105,
+     "chapters": [
+      14,
+      22
+     ],
+     "kjv_verses_in_chapters": 175
+    }
+   },
+   "scripture_links": {
+    "read": 945,
+    "resolved": 682,
+    "ranges": 35,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 155435,
+    "greek_share_of_letters": 0.2116,
+    "greek_tokens_3plus": 26464,
+    "greek_tokens_in_reference_vocab": 0.3592,
+    "mixed_script_tokens": 35
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "46528cb0619ab5ea66ae3ea806131e8ff79741359e65616f96d5df47290b3ca3"
+ },
  "aquinas-st-en": {
   "title": "Summa Theologiae (English, Fathers of the English Dominican Province, 2nd ed. 1920-22), keyed by article",
   "author": "Thomas Aquinas (tr. Fathers of the English Dominican Province)",

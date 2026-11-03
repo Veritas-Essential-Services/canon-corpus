@@ -2855,7 +2855,9 @@ def build_scan_2b(slug, ids, votes_only=False):
                 if reader == "kd":
                     cands = kd_cands(l["text"])
                 elif reader == "icc":         # WAVE8: paragraph openers, and openers run on after a dash
-                    c = sc_cand(l["text"], reader) if para else None
+                    # (and, where the volume measures better so, at a line's start after a sentence's end)
+                    start = para or (s.get("line_start") and (not prev.strip() or prev.rstrip()[-1] in EGT_END))
+                    c = sc_cand(l["text"], reader) if start else None
                     cands = ([(0, c)] if c else []) + ([x for x in icc_inline(l["text"]) if x[0] > 0]
                                                        if s.get("inline", True) else [])
                 else:
@@ -4745,7 +4747,8 @@ def egt_cands(text, prev, indented=False):
     return ch, out
 
 
-ICC_DASH = re.compile(r'(?:[—–]|--+)\s*(\d{1,3})((?:\s*[-—–,]\s*\d{1,3})?)\s*[.,]\s+(?=[^\d\s.,;:])')
+# a dash, not a range's ('3—5.', '3 — 5.'), then a verse number or run, then a word
+ICC_DASH = re.compile(r'(?<!\d)(?<!\d\s)(?:[—–]|--+)\s*(\d{1,3})((?:\s*[-—–,]\s*\d{1,3})?)\s*[.,]\s+(?=[^\d\s.,;:])')
 
 
 def icc_inline(text):
@@ -4883,6 +4886,248 @@ SECOND.update(EGT)
 SCANS.update(EGT)
 ORDER.extend(EGT)
 MULTI.update(EGT)
+
+
+BY_PAGE_FLOOR = 0.6     # WAVE8: a volume whose notes reach fewer of its verses than this is kept by page
+
+
+def honesty_icc(slug):
+    s = SCANS[slug]
+    lost = {"hebrew": "the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR "
+                      "gave Latin- or Greek-letter debris, left as it stands)",
+            "greek": "the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: "
+                     "measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands)"}[s["lost"]]
+    if s.get("by_page"):
+        return ("by scan leaf only (leaf.N, the folio in scan.printed_page where read): " + s["by_page"]
+                + "; the scripture references in the text are read as on every page, the OT ones in the "
+                "numbering measured for them (measure.numbering_references); " + lost + "; unproofread OCR")
+    how = ("an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate"
+           + (", and so is a line opening so after a sentence's end" if s.get("line_start") else "")
+           + (", and a number run on after a dash ('... at the installation. — 3. A metaphor')"
+              if s.get("inline", True) else "")
+           + ", accepted when the verse sequence and the running head allow it; following paragraphs belong to "
+           "it until the next")
+    ot = ("; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to "
+          "the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in "
+          "the numbering measured for them (measure.numbering_references); where either measure is undecided, "
+          "the commentary's own numbering of that book decides, pooled over the ICC volumes holding it "
+          "(measure.numbering_work), and where that too is undecided a verse both numberings have is resolved "
+          "only where the two read it alike, else it stays unresolved with both candidates"
+          if s.get("numbered") else "")
+    sup = ("; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the "
+           "chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist "
+           "or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split "
+           "by guess" if s.get("superscripts") else "")
+    return ("notes keyed by verse where the OCR'd page lets them be: " + how + ot + sup + "; the footnotes (the smaller "
+            "type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as "
+            "the numbers read off the page, and a misread or rejected number merges a verse's notes into the "
+            "verse before (counts in measure); introductions, appendices and every other page by scan leaf "
+            "(leaf.N, the folio in scan.printed_page where read); " + lost + "; unproofread OCR")
+
+
+def citation_icc(slug):
+    if SCANS[slug].get("by_page"):
+        return "scan leaf (leaf.N; folio in scan.printed_page)"
+    lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
+    extra = ", in the numbering the volume prints (scheme.numbering)" if SCANS[slug].get("numbered") else ""
+    return (f"note: {lead} of the verse commented on{extra} (a run of verses: {lead}-end); everything else: "
+            "scan leaf (leaf.N; folio in scan.printed_page)")
+
+
+READER_TEXTS["icc"] = {"honesty": honesty_icc, "citation": citation_icc}
+
+# The International Critical Commentary (Edinburgh: T. & T. Clark; New York: Charles Scribner's Sons), the
+# volumes printed before 1929 whose scans keep their Greek (the NT) or their Greek or Hebrew (the OT).
+# Every scan of every volume was measured 2026-11-03 (wave8-survey: Greek letters as a share of all letters /
+# Greek tokens known to the Strong's yardstick / known Greek words; Hebrew likewise); each volume's
+# scan_choice names the chosen scan and the others. The reader (`icc`) was measured on Sanday & Headlam's
+# Romans first: bengel's paragraph openers key 417 of 433 verses, meyer 7, kd 1. Openers run on after a dash
+# (`inline`) and at a line's start after a sentence's end (`line_start`) are used per volume where they
+# measure better (the NT volumes measure the same either way, and keep paragraph openers only).
+# NOT SHELVED, and why: John (Bernard, 1928: every scan of 1928 or earlier has 0.0% Greek), the Pastorals
+# (Lock, 1924) and Hebrews (Moffatt, 1924): 0.0% Greek in every scan; the other OT volumes (Numbers,
+# Deuteronomy, Judges, Chronicles, Ezra-Nehemiah, Job, Proverbs, Ecclesiastes, Isaiah, Daniel, Amos-Hosea,
+# Micah-Joel, Haggai-Jonah): no scan printed before 1929 keeps either Greek or Hebrew.
+# The OT scans keep one script or the other, never both: Skinner's Genesis and Paton's Esther keep their Greek
+# and lose their Hebrew; Smith's Samuel and Briggs's Psalms keep their Hebrew (2.6-3.2% of letters) and lose
+# their Greek. Briggs's Psalms measure under BY_PAGE_FLOOR with this reader even with each psalm's heading
+# read (a trial reader for 'PSALM II., 4 str. 7³.' reached 41.6% of vol. I's verses, with notes on the
+# psalm before a heading filed under the next): Briggs prints each psalm's translation, then its exegesis,
+# then its critical notes, numbering verses in all three and citing them as superscripts the OCR fuses to
+# the chapter ('Ps. 2⁷' read '27'), so both volumes are kept by page.
+# The survey named criticalexegetic0000brig "vol. I": its title page reads "Vol. 1" in the OCR, but it is
+# copyright and published February 1907 and opens at Psalm LI, so it is vol. II; vol. I is
+# criticalexegetic0000brig_t9m0 (Vol. I, 1906; copyright 1906, published September 1906).
+_ICC = "The International Critical Commentary"
+
+
+def _icc(title, short, author, ia, sha, edition, printed, copy, rights, leaves, books, ia_date, lost, *,
+         scan_choice, ia_date_note=None, first_chapter=None, numbered=False, inline=False, line_start=False,
+         by_page=None, superscripts=False):
+    s = {"ia": ia, "sha256": sha, "title": title, "short": short, "author": author, "edition": edition,
+         "printed": printed, "copy": copy, "ia_rights": rights, "leaves": leaves, "epistles": books,
+         "apparatus": False, "reader": "icc", "ia_date": ia_date, "lost": lost, "scan_choice": scan_choice,
+         "inline": inline}
+    for k, v in (("ia_date_note", ia_date_note), ("first_chapter", first_chapter), ("line_start", line_start),
+                 ("by_page", by_page), ("superscripts", superscripts)):
+        if v:
+            s[k] = v
+    if numbered:
+        s["numbered"], s["series"] = True, "icc"
+    return s
+
+
+_CEC = "A Critical and Exegetical Commentary on"
+ICC = {
+    "icc-allen-matthew": _icc(
+        f"{_CEC} the Gospel according to S. Matthew", "Allen, ICC Matt.", "Willoughby C. Allen",
+        "criticalexegetic0026alle", "6ce6b6e3f5664d6c24eb2f9d61a3372fe46eb143ea40d9191da5a59ae1bdd3e5",
+        f"{_ICC}: W. C. Allen, {_CEC} the Gospel according to S. Matthew, second edition (Edinburgh: T. & T. "
+        "Clark, 1907), as its title page (leaf 9) reads", 1907, "Internet Archive scan", None, (9, 426),
+        [("Matt", 107, 426)], "1907", "hebrew", superscripts=True,
+        scan_choice="criticalexegetic0026alle (1907) 8.6% / 38.7% / 4,375  <- chosen: no other scan keeps its Greek"),
+    "icc-gould-mark": _icc(
+        f"{_CEC} the Gospel according to St. Mark", "Gould, ICC Mark", "Ezra P. Gould",
+        "criticalexegetic00gouluoft", "a8b0eab01d2e0411f07af5d7ecffa8df5dd8b4f1e80757dfd0530b085b6c0b1a",
+        f"{_ICC}: E. P. Gould, {_CEC} the Gospel according to St. Mark (Edinburgh: T. & T. Clark, 1912; fifth "
+        "impression, the first 1896), as its title page and verso (leaves 12-13) read", 1912,
+        "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (12, 376), [("Mark", 68, 376)], "1912", "hebrew", superscripts=True,
+        scan_choice="criticalexegetic00gouluoft (1912) 7.4% / 37.9% / 3,110  <- chosen: no other scan keeps its Greek"),
+    "icc-plummer-luke": _icc(
+        f"{_CEC} the Gospel according to S. Luke", "Plummer, ICC Luke", "Alfred Plummer",
+        "acriticalandexeg00plumuoft", "52a37ee5b60029263523aff43e7c17c70db5329a0f36f7ef77183d1dccd0c335",
+        f"{_ICC}: A. Plummer, {_CEC} the Gospel according to S. Luke (Edinburgh: T. & T. Clark, 1896), as its "
+        "title page (leaf 12) reads", 1896, "University of Toronto (Emmanuel)", "NOT_IN_COPYRIGHT", (12, 664),
+        [("Luke", 95, 664)], "1896", "hebrew",
+        scan_choice=("acriticalandexeg00plumuoft (1896) 10.4% / 37.7% / 8,602  <- chosen; criticalexegetic28plumuoft "
+                     "(1922) 8,579, criticalexegetic00plumrich (1903) 8,574, criticalexegetic00plumuoft (1914) 8,568, "
+                     "criticalexegetic00plum (1896) 8,543, criticalandexege028123mbp (1920) 8,490, "
+                     "in.ernet.dli.2015.153353 (1920) 8,485, acriticalandexe01plumgoog (1896) 8,363, and five "
+                     "undated scans: fewer known Greek words")),
+    "icc-sanday-headlam-romans": _icc(
+        f"{_CEC} the Epistle to the Romans", "Sanday & Headlam, ICC Rom.", "William Sanday and Arthur C. Headlam",
+        "epistlecommentar00sanduoft", "e2de3c37e25910877169368f2cd38ff355b711cda1ed8d0db5397893aa4f13c0",
+        f"{_ICC}: W. Sanday and A. C. Headlam, {_CEC} the Epistle to the Romans, first edition (New York: "
+        "Charles Scribner's Sons, 1895), as its title page (leaf 14) reads", 1895,
+        "University of Toronto (Emmanuel)", "NOT_IN_COPYRIGHT", (14, 560), [("Rom", 124, 560)], "1895", "hebrew",
+        scan_choice=("epistlecommentar00sanduoft (1895, 1st ed.) 7.6% / 40.4% / 6,092  <- chosen; "
+                     "criticalexegetic00sandrich (1905, 'tenth edition', the revised text of 1902) 6,013: 1.3% "
+                     "behind; criticalexegetic97sand (1895) 5,996; in.ernet.dli.2015.268057 (undated) 5,798; "
+                     "acriticalandexe01headgoog (1904) 5,530")),
+    "icc-robertson-plummer-1-corinthians": _icc(
+        f"{_CEC} the First Epistle of St Paul to the Corinthians", "Robertson & Plummer, ICC 1 Cor.",
+        "Archibald Robertson and Alfred Plummer", "stpaulcommentary00robeuoft",
+        "f5704483cf073d192c887b314124e877307f3cdbddcde27808a3f2ceb77c3736",
+        f"{_ICC}: A. Robertson and A. Plummer, {_CEC} the First Epistle of St Paul to the Corinthians (New York: "
+        "Charles Scribner's Sons, 1911), as its title page (leaf 16) reads", 1911,
+        "University of Toronto (Emmanuel)", "NOT_IN_COPYRIGHT", (16, 483), [("1Cor", 82, 483)], "1911", "hebrew",
+        scan_choice=("stpaulcommentary00robeuoft (1911) 7.7% / 46.2% / 5,432  <- chosen; criticalexegetic1911robe "
+                     "(1911) 5,404; acriticalandexeg33robeuoft (1961) and two of illegible reprint years refused")),
+    "icc-plummer-2-corinthians": _icc(
+        f"{_CEC} the Second Epistle of St Paul to the Corinthians", "Plummer, ICC 2 Cor.", "Alfred Plummer",
+        "00758325.1242.emory.edu", "71b9f47f9fce7e16ef2871297c134b4d8416279eb69bef450b5c9082b9011c84",
+        f"{_ICC}: A. Plummer, {_CEC} the Second Epistle of St Paul to the Corinthians (New York: Charles "
+        "Scribner's Sons, 1915), as its title page (leaf 3) reads", 1915, "Emory University, Pitts Theology Library",
+        None, (3, 444), [("2Cor", 59, 444)], "1915", "hebrew",
+        scan_choice=("00758325.1242.emory.edu (1915) 8.0% / 44.7% / 4,994  <- chosen; corinthiexegetic00plumrich "
+                     "(1915) 4,970; criticalexesecep00plumuoft (Clark, 1915) 4,980, the scan Lane A shelves as "
+                     "plummer-2-corinthians-icc (pipeline/alfred-plummer_shelf.json, branch "
+                     "claude/armarium-divines): a twin, kept for later collation")),
+    "icc-burton-galatians": _icc(
+        f"{_CEC} the Epistle to the Galatians", "Burton, ICC Gal.", "Ernest De Witt Burton",
+        "criticalexegetic00burtuoft", "7cd2f3b7085d8122e20a21107da4ea737897a9b7817072f3bde20e9c635a319e",
+        f"{_ICC}: E. De W. Burton, {_CEC} the Epistle to the Galatians (Edinburgh: T. & T. Clark, 1921), as its "
+        "title page (leaf 11) reads", 1921, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (11, 623),
+        [("Gal", 99, 460)], "1921", "hebrew", superscripts=True,
+        scan_choice=("criticalexegetic00burtuoft (1921) 6.8% / 41.3% / 5,477  <- chosen; criticalexegetic00burtrich "
+                     "(1928) 5,458; in.ernet.dli.2015.88314 (1920) 5,399; acriticalandexe0{0-3}burtgoog (1920) "
+                     "5,339-5,397")),
+    "icc-abbott-ephesians-colossians": _icc(
+        f"{_CEC} the Epistles to the Ephesians and to the Colossians", "Abbott, ICC Eph.-Col.", "T. K. Abbott",
+        "criticalexegetic1916abbo", "279e7a5701e62b938bcadbf6b8102fdb3b0286d76165325e9fc4270129f37d74",
+        f"{_ICC}: T. K. Abbott, {_CEC} the Epistles to the Ephesians and to the Colossians (New York: Charles "
+        "Scribner's Sons, 1916), as its title page (leaf 9) reads", 1916, "Princeton Theological Seminary Library",
+        "NOT_IN_COPYRIGHT", (9, 388), [("Eph", 81, 271), ("Col", 273, 388)], "1916", "hebrew",
+        scan_choice=("criticalexegetic1916abbo (1916) 13.9% / 39.4% / 6,968  <- chosen; acriticalandexeg00abbouoft "
+                     "(1897) 6,953; criticalexegetic00abbo (1897) 6,941; criticalexegetic00abborich (1905) 6,939; "
+                     "criticalexegeticabbotabbo (1979) refused")),
+    "icc-vincent-philippians-philemon": _icc(
+        f"{_CEC} the Epistles to the Philippians and to Philemon", "Vincent, ICC Phil.-Phlm.", "Marvin R. Vincent",
+        "criticalexegetic50vinc", "c298df1c1a74bf5090f0208325b2f80da0af4efaa344b4c0589f17926f8061c4",
+        f"{_ICC}: M. R. Vincent, {_CEC} the Epistles to the Philippians and to Philemon (New York: Charles "
+        "Scribner's Sons, 1906; copyright 1897), as its title page and verso (leaves 19-20) read", 1906,
+        "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (19, 256),
+        [("Phil", 63, 216), ("Phlm", 237, 256)], "1906", "hebrew",
+        scan_choice=("criticalexegetic50vinc (1906) 6.2% / 42.1% / 1,866  <- chosen; criticalexegetic00vincuoft "
+                     "(1902) 1,855; criticalexegetic0000vinc_t9b5 (1897), the scan Lane A shelves as "
+                     "vincent-icc-philippians (pipeline/marvin-r-vincent_shelf.json, branch "
+                     "claude/armarium-divines): a twin with 0.0% Greek, kept for later collation")),
+    "icc-frame-thessalonians": _icc(
+        f"{_CEC} the Epistles of St. Paul to the Thessalonians", "Frame, ICC Thess.", "James Everett Frame",
+        "criticalcommenta00framuoft", "0dfd6cbaadc3d584260dfeab6e652255d7a57dbd2d71059e28e3f469ac81c355",
+        f"{_ICC}: J. E. Frame, {_CEC} the Epistles of St. Paul to the Thessalonians (Edinburgh: T. & T. Clark, "
+        "1912, OCR'd '1012'), as its title page (leaf 8) reads", 1912, "University of Toronto (Emmanuel)",
+        "NOT_IN_COPYRIGHT", (8, 328), [("1Thess", 82, 233), ("2Thess", 234, 328)], "1912", "hebrew", superscripts=True,
+        scan_choice=("criticalcommenta00framuoft (1912) 11.2% / 39.2% / 4,135  <- chosen; criticalexegetic00framuoft "
+                     "4,185 (1.2% more, but its title-page year is illegible); exegeticcritical00framrich (1912) "
+                     "4,095")),
+    "icc-ropes-james": _icc(
+        f"{_CEC} the Epistle of St. James", "Ropes, ICC Jas.", "James Hardy Ropes",
+        "criticalandexege028105mbp", "783ebebe3d15539ba2005b26e5676fe649de7d7a43425d3cb680e1f7a2065be6",
+        f"{_ICC}: J. H. Ropes, {_CEC} the Epistle of St. James (New York: Charles Scribner's Sons, 1916; "
+        "published February 1916), as its title page and verso (leaves 6-7) read", 1916,
+        "Universal Digital Library", None, (6, 339), [("Jas", 134, 339)], "1916", "hebrew", superscripts=True,
+        scan_choice=("criticalandexege028105mbp (1916) 9.1% / 35.4% / 2,817  <- chosen; in.ernet.dli.2015.179333 "
+                     "(1916) 2,805; criticalexegetic59rope (1916) 2,726")),
+    "icc-bigg-peter-jude": _icc(
+        f"{_CEC} the Epistles of St. Peter and St. Jude", "Bigg, ICC Pet.-Jude", "Charles Bigg",
+        "criticalexegetic00bigguoft", "37c8561352ccee383174557e242546744bb786e29ecfc38a8dea4780139efa9c",
+        f"{_ICC}: C. Bigg, {_CEC} the Epistles of St. Peter and St. Jude (New York: Charles Scribner's Sons, "
+        "1903), as its title page (leaf 14) reads", 1903, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT",
+        (14, 367), [("1Pet", 111, 221), ("2Pet", 271, 327), ("Jude", 346, 367)], "1903", "hebrew",
+        scan_choice=("criticalexegetic00bigguoft (1903) 9.0% / 37.2% / 4,051  <- chosen; criticalexegetic1905bigg "
+                     "(1905) 4,050; biggcriticalexeg00biggrich (1905) 4,027; acriticalandexe02bigggoog (1902) "
+                     "4,011; criticalexegetic00bigg (1901) 3,978, the scan Lane A shelves as bigg-peter-jude-icc "
+                     "(pipeline/charles-bigg_shelf.json, branch claude/armarium-divines): a twin, kept for later "
+                     "collation")),
+    "icc-brooke-johannine-epistles": _icc(
+        f"{_CEC} the Johannine Epistles", "Brooke, ICC Jn Epp.", "A. E. Brooke",
+        "00355394.1237.emory.edu", "3eec446a14883a3c88919e443fd22b187aeee8c9450f117cbb702ca2562a73a7",
+        f"{_ICC}: A. E. Brooke, {_CEC} the Johannine Epistles (Edinburgh: T. & T. Clark, 1912), as its title page "
+        "(leaf 5) reads", 1912, "Emory University, Pitts Theology Library", None, (5, 295),
+        [("1John", 101, 265), ("2John", 266, 280), ("3John", 281, 295)], "1912", "hebrew",
+        scan_choice=("00355394.1237.emory.edu (1912) 11.6% / 44.0% / 5,423  <- chosen; criticalexegetic00broo "
+                     "(undated) 5,371; criticalexegetic43broouoft (1957) refused")),
+    "icc-charles-revelation-1": _icc(
+        f"{_CEC} the Revelation of St. John, vol. I", "Charles, ICC Rev. I", "R. H. Charles",
+        "criticalexegetic0044char", "b7a12ef7d6511d431b1b5ee24bd780fdeadf74a4ed5601c3d36723e7c55cf154",
+        f"{_ICC}: R. H. Charles, {_CEC} the Revelation of St. John, vol. I (New York: Charles Scribner's Sons, "
+        "1920), as its title page (leaf 9) reads", 1920, "Internet Archive scan", None, (9, 569),
+        [("Rev", 198, 569)], "1920", "hebrew", superscripts=True,
+        scan_choice=("criticalexegetic0044char (1920) 13.2% / 37.6% / 9,284  <- chosen; criticalexegetic01char "
+                     "9,217, criticalandexege008418mbp 9,195, acriticalandexeg01charuoft 9,186, "
+                     "criticalexegetic661char 9,168, in.ernet.dli.2015.167208 9,102, internationalcr01plumgoog "
+                     "9,081, acriticalandexe00chargoog 8,990 (all 1920); p1criticalexeget44charuoft (1956) refused")),
+    "icc-charles-revelation-2": _icc(
+        f"{_CEC} the Revelation of St. John, vol. II", "Charles, ICC Rev. II", "R. H. Charles",
+        "criticalexegetic02char", "99a13fd7d62bff1f8337070a7954d85b4322f114c75f26a1a7bb2ea2ab261813",
+        f"{_ICC}: R. H. Charles, {_CEC} the Revelation of St. John, vol. II (New York: Charles Scribner's Sons, "
+        "1920), as its title page (leaf 7) reads; with Charles's Greek text and English translation of the "
+        "whole book, kept by page", 1920, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (7, 470),
+        [("Rev", 14, 238)], "1920", "hebrew", superscripts=True, first_chapter={"Rev": 14}, inline=True,
+        scan_choice=("criticalexegetic02char (1920) 20.0% / 37.7% / 10,545  <- chosen; criticalexegetic662char "
+                     "10,537, criticalexegetic0044char_a2i0 10,447, acriticalandexeg02charuoft 10,377, "
+                     "criticalandexege028098mbp 10,172, in.ernet.dli.2015.153339 10,142, "
+                     "in.ernet.dli.2015.178982 10,119, internationalcr02plumgoog 9,808 (all 1920), and four "
+                     "undated; p2criticalexeget44charuoft (1959) refused")),
+}
+for _d in (ICC,):
+    SECOND.update(_d)
+    SCANS.update(_d)
+    ORDER.extend(_d)
+    MULTI.update(k for k, s in _d.items() if len(s["epistles"]) > 1)
+SAME_SCAN_AS["icc-plummer-luke"] = ("same scan as Lane A: plummer-luke-icc (pipeline/alfred-plummer_shelf.json, "
+                                    f"{_LANE_A})")
 
 
 # ------------------------------------------------------------------ books
