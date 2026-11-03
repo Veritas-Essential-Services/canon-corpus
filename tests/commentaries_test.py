@@ -240,6 +240,16 @@ check("scripture: each kept OCR misreading before a self 'c.' is read (SELF_C_OC
 check("scripture: 'Rom. 8:1, 12:3' and 'Rom. viii. 1, 2, 12. 3' end at Rom 12:3, not Rom 8:12",
       [x["target"] for x in B.scripture("Rom. 8:1, 12:3", ids)] == ["kjv:Rom.8.1", "kjv:Rom.12.3"]
       and [x["target"] for x in B.scripture("Rom. viii. 1, 2, 12. 3", ids)] == ["kjv:Rom.8.1", "kjv:Rom.8.2", "kjv:Rom.12.3"])
+# (review c13) a range before the comma: 'Rom. 8:1-3, 12:3' and 'Rom. viii. 1-3, 12. 3' are Rom 8:1-3 and 12:3
+for t in ("Rom. 8:1-3, 12:3", "Rom. viii. 1-3, 12. 3"):
+    check(f"scripture: '{t}' is Rom 8:1-3 then Rom 12:3, not Rom 8:12",
+          [(x.get("target"), x.get("through")) for x in B.scripture(t, ids)]
+          == [("kjv:Rom.8.1", "kjv:Rom.8.3"), ("kjv:Rom.12.3", None)])
+check("scripture: a lone range then another Roman chapter after a comma ('Rom. viii. 1-3, ix. 3')",
+      [(x.get("target"), x.get("through")) for x in B.scripture("Rom. viii. 1-3, ix. 3", ids)]
+      == [("kjv:Rom.8.1", "kjv:Rom.8.3"), ("kjv:Rom.9.3", None)])
+check("verse_lists: a lone range with no chapter after it, and a lone verse, are left as printed",
+      B.verse_lists("Rom. viii. 1-3, and") == "Rom. viii. 1-3, and" and B.verse_lists("Rom. viii. 1") == "Rom. viii. 1")
 check("scripture: a name in a bracket before a self 'c.' is refused ('(Irenaeus c. iv. 3', '(Leo c. v. 11')",
       not B.scripture("so (Irenaeus c. iv. 3)", ids, own="Gal", chapter=2)
       and not B.scripture("so (Leo c. v. 11)", ids, own="Gal", chapter=2))
@@ -681,7 +691,9 @@ check("ot_link: undecided, a verse both read alike resolves", x["resolved"] and 
 _s = B.SCANS["delitzsch-psalms-2"]
 _s["_numbering"] = {"Ps": {"decision": "undecided"}}
 _u = [{"id": "delitzsch-psalms-2:51.10", "kind": "note", "book": "Ps", "links": [],
-       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Eccl. v. 1; Joel iii. 1."}]
+       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Eccl. v. 1; Joel iii. 1."},
+      {"id": "delitzsch-psalms-2:51.12", "kind": "note", "book": "Ps", "links": [],
+       "text": "So Ps. li. 3, 4, 13; Gen. viii. 1-3, xii. 3."}]
 try:
     _n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
 except SystemExit as e:         # neither the K&D scans nor their committed votes (review c11)
@@ -689,6 +701,7 @@ except SystemExit as e:         # neither the K&D scans nor their committed vote
     print(f"SKIPPED (scans absent) harvest K&D: {str(e).splitlines()[0]}")
 _s.pop("_numbering")
 lk = {x["ref"]: x for x in _u[0]["links"]}
+lk2 = [x["ref"] for x in _u[1]["links"]]
 if _x is not None:
     check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
           not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
@@ -698,6 +711,9 @@ if _x is not None:
     check("harvest: Eccl 5:1, where no volume measures Ecclesiastes, is unresolved with both candidates",
           not lk.get("Eccl 5:1", {"resolved": True})["resolved"] and len(lk["Eccl 5:1"].get("candidates", [])) == 2)
     check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
+    # (review c13) the K&D harvest reads through the same pre-pass as scripture(): a list stays in its chapter
+    check("harvest (K&D): 'Ps. li. 3, 4, 13' is three verses of Ps 51, not Ps 4:13; 'Gen. viii. 1-3, xii. 3' "
+          "ends at Gen 12:3", lk2 == ["Ps 51:3", "Ps 51:4", "Ps 51:13", "Gen 8:1-3", "Gen 12:3"])
     check("harvest: the work's numbering consulted is recorded", {"Ps", "Eccl", "Joel"} <= set(_x["numbering_work"]))
 
 # -- Keil & Delitzsch, the rest of the set (4c)
@@ -802,6 +818,20 @@ check("kdh_span_key: a verse, a run, a run crossing a chapter",
       == ("3.5", "3.10-12", "9.34-10.2"))
 check("kdh_verses_of: a run crossing a chapter lists its verses",
       B.kdh_verses_of(9, 34, 10, 2, {9: 35, 10: 20}) == [(9, 34), (9, 35), (10, 1), (10, 2)])
+# (review c13) a run crossing a chapter is filled to the chapter's length in the decided numbering, never the
+# larger of the two: in a Hebrew Job, ch. 41 ends at 26 (the KJV's 34); undecided, the shorter, said approximate
+try:
+    _fill, _apx = B.kdh_fill_counts({"Job": {"decision": "hebrew"}, "Song": {"decision": "undecided"}},
+                                    {"Job": B.verse_counts(ids, "Job"), "Song": B.verse_counts(ids, "Song")}, ids)
+except SystemExit as e:
+    _fill = None
+    print(f"SKIPPED (scans absent) kdh_fill_counts: {str(e).splitlines()[0]}")
+if _fill is not None:
+    check("kdh fill: Hebrew Job, a run 41.25-42.2 is 41:25-26 and 42:1-2 (no phantom 41:27-34)",
+          B.kdh_verses_of(41, 25, 42, 2, _fill["Job"]) == [(41, 25), (41, 26), (42, 1), (42, 2)] and not _apx["Job"])
+    check("kdh fill: undecided (Song: no volume measures it), the shorter count, the differing chapters named",
+          B.kdh_verses_of(6, 12, 7, 1, _fill["Song"]) == [(6, 12), (7, 1)] and 6 in _apx["Song"]
+          and 1 not in _apx["Song"])
 check("K&D 4d: six volumes, reader kdh, pinned, printed before 1929, in SECOND, SCANS and ORDER",
       len(B.KD4D) == 6 and all(s["reader"] == "kdh" and re.fullmatch(r"[0-9a-f]{64}", s["sha256"]) and s["printed"] < 1929
                                and k in B.SECOND and k in B.SCANS and k in B.ORDER for k, s in B.KD4D.items()))

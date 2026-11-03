@@ -1081,23 +1081,31 @@ def cross_ranges(text):
 # 13'): FS.parse reads ', 2, 13' as the apparatus's 'chapter, verse' (Rom 2:13), so for FS.parse
 # alone the list's commas become '.' (more verses of the chapter) and a comma after it ';' (a new
 # reference). Only after a Roman chapter or 'N:': an arabic 'N. M, ...' stays FS.parse's
+# (review c13) a list may also be a lone range closed by the tail ('Rom. viii. 1-3, 12. 3', 'Rom. 8:1-3,
+# 12:3'): no comma items, the range and the tail required (checked in verse_lists)
 VERSE_LIST = re.compile(r'(?P<list>(?<![\w])(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}:)\s*\d{1,3}'
-                        r'(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?'
-                        r'(?:\s*,\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d)(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?)+)'
+                        r'(?P<range>\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?'
+                        r'(?P<items>(?:\s*,\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d)(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?)*))'
                         r'(?P<tail>\s*,(?=\s*(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}[.:])\s*\d))?')
+
+
+def _verse_list(m):
+    if not m.group("items") and not (m.group("range") and m.group("tail")):
+        return m.group(0)          # a lone verse, or a lone range not closed by another chapter: as printed
+    return m.group("list").replace(",", ".") + (m.group("tail") or "").replace(",", ";")
 
 
 def verse_lists(text):
     """The text as FS.parse should read it: each English verse list's commas '.', and a comma
-    after the list before another chapter ';'. Only for FS.parse: the other patterns read
-    the text as printed."""
-    text = VERSE_LIST.sub(lambda m: m.group("list").replace(",", ".") + (m.group("tail") or "").replace(",", ";"),
-                          text)
-    # (review c12) 'Rom. 8:1, 12:3': a comma between two 'N:M' is a new reference, not a verse 12
+    after the list (or after a lone range) before another chapter ';'. Only for FS.parse: the
+    other patterns read the text as printed."""
+    text = VERSE_LIST.sub(_verse_list, text)
+    # (review c12) 'Rom. 8:1, 12:3': a comma between two 'N:M' is a new reference, not a verse 12;
+    # (review c13) so too after 'N:M-K' ('Rom. 8:1-3, 12:3')
     return CHAPTER_COMMA.sub(r"\1;", text)
 
 
-CHAPTER_COMMA = re.compile(r'(?<![\w:])(\d{1,3}:\d{1,3})\s*,(?=\s*\d{1,3}:\d)')
+CHAPTER_COMMA = re.compile(r'(?<![\w:])(\d{1,3}:\d{1,3}(?:\s*[-–—]\s*\d{1,3}(?![\d:]))?)\s*,(?=\s*\d{1,3}:\d)')
 
 
 # (review c11) the OCR misreadings of SELF_C_OK / SELF_C_ENGLISH words actually found before a
@@ -2686,6 +2694,12 @@ def ot_link(b, c, v, numbering, ids, rule):
 _OWN, _WORK = {}, {}
 
 
+# (review c13) Delitzsch's Isaiah stays undecided (Hebrew-only 3, KJV-only 0; 5 needed). The review
+# proposed counting his running heads as votes, but decoded heads already vote (build_scan_kdh's
+# `pairs`), and no head names a verse that exists in only one numbering: "LXIII. 19-LXIV. 1" exists in
+# both, and Isaiah I's one 8:23 is a misread "VII. 23". A sequence rule is the possible follow-up (a
+# chapter whose heads end at 20 before "X. 1" is the Hebrew's 9). Known FS.parse limit: a verse just
+# before "and <Book>" ("Ps. li. 13 and Gen. ...") is dropped.
 def work_numbering(book, ids):
     """How Keil & Delitzsch's commentary numbers `book`, measured from its own
     note ids: the existence votes of every `kd` volume holding the book,
@@ -3123,7 +3137,9 @@ def harvest_2b(slug, units, ids):
     votes = {"Ps": [], "other": []}
     for u in units:
         text = u["text"] + " " + " ".join(u.get("notes", []))
-        refs = FS.parse("¶ " + text, "eng")
+        # (review c13) through the first shelf's pre-pass (verse_lists), as scripture() reads: 'Ps. li.
+        # 1, 2, 13' is three verses of Ps 51, not Ps 51:1, 51:2 and 2:13
+        refs = FS.parse("¶ " + verse_lists(text), "eng")
         parsed.append(refs)
         for book, kind, ch, v, end, alt in refs:
             if kind == "kjv" and v is not None and book in V.BOOKS:
@@ -4212,6 +4228,29 @@ def kdh_span_key(c1, v1, c2, v2):
     return f"{c1}.{v1}-{c2}.{v2}"
 
 
+def kdh_fill_counts(numbering, kjv_counts, ids):
+    """(review c13) The verse counts a run crossing a chapter is filled to: the chapter's length in
+    the numbering the book is decided in (the volume's own, else the work's, pooled), never the
+    larger of the Hebrew's and the KJV's, which put verses only the other numbering has into the run
+    (Job 41:27-34 in a Hebrew Job, whose ch. 41 ends at 26). Undecided: the shorter, and the
+    chapters whose lengths differ are returned, so the runs filling them say they are approximate.
+    -> ({book: {chapter: count}}, {book: {chapter, ...}})"""
+    fill, approx = {}, {}
+    for book, kc in kjv_counts.items():
+        nb = effective(numbering[book]["decision"], book, ids, "")[0]
+        hc_ = heb_counts(book)
+        approx[book] = set()
+        if nb == "hebrew":
+            fill[book] = hc_
+        elif nb == "kjv":
+            fill[book] = kc
+        else:
+            chs = set(kc) | set(hc_)
+            fill[book] = {c: min(kc.get(c, 0), hc_.get(c, 0)) for c in chs}
+            approx[book] = {c for c in chs if kc.get(c, 0) != hc_.get(c, 0)}
+    return fill, approx
+
+
 def kdh_verses_of(c1, v1, c2, v2, counts):
     out = []
     for c in range(c1, c2 + 1):
@@ -4431,11 +4470,12 @@ def build_scan_kdh(slug, ids, votes_only=False):
             nu["notes"] += sg["notes"]
             continue
         notes[key] = dict(sg)
+    fill, approx = kdh_fill_counts(numbering, kjv_counts, ids)
     for key, nu in notes.items():
         book = nu["book"]
         nb = effective(numbering[book]["decision"], book, ids, "")[0]
         links = []
-        for c, v in kdh_verses_of(nu["c1"], nu["v1"], nu["c2"], nu["v2"], counts[book]):
+        for c, v in kdh_verses_of(nu["c1"], nu["v1"], nu["c2"], nu["v2"], fill[book]):
             lk = dict(ot_link(book, c, v, nb, ids, "comments-on"), type="comments-on")
             lk.pop("rule", None)
             links.append(lk)
@@ -4447,6 +4487,15 @@ def build_scan_kdh(slug, ids, votes_only=False):
             u["scan"]["printed_pages"] = nu["pages"]
         if nu["notes"]:
             u["notes"] = nu["notes"]
+        short = sorted(c for c in range(nu["c1"], nu["c2"]) if c in approx[book])
+        if short:
+            # (review c13) the numbering undecided, and a chapter the run fills to its end has a
+            # different length in the Hebrew and the KJV: filled to the shorter, so approximate
+            u["run_approximate"] = ("the numbering of this book is undecided; the run crosses the end of "
+                                    + ", ".join(f"ch. {c}" for c in short) + ", filled to the shorter of its "
+                                    "Hebrew and KJV verse counts (" + ", ".join(
+                                        f"{c}: {fill[book].get(c, 0)}" for c in short) + ")")
+            m["runs_approximate"] += 1
         units.append(u)
         m[f"notes_keyed_by_{nu['how'].replace('-', '_')}"] += 1
     order = {"page": 0, "note": 1}
@@ -4469,7 +4518,9 @@ KDH_HONESTY = (
     "changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names "
     "(keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between "
     "the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by "
-    "inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their "
+    "inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's "
+    "length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the "
+    "KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their "
     "heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of "
     "one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed "
     f"{KDH_MAX_RUN} verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', "
