@@ -1,0 +1,3098 @@
+{
+ "slug": "church-odyssey-boys",
+ "stats": {
+  "chapters": 23,
+  "paragraphs": 418,
+  "words": 42489,
+  "places": {
+   "base": 288,
+   "witnesses": 60,
+   "read": 17
+  },
+  "base_rules": {
+   "tesseract's double marks (“‘, ”’) made single double marks": 73,
+   "doubled quotes made double": 86,
+   "underline specks removed": 91,
+   "stray marks standing alone removed": 57,
+   "brackets beside a letter removed": 1,
+   "spaced ; : ? ! closed up": 2,
+   "speck before a word removed": 1,
+   "first letter's case from the witnesses": 6,
+   "opening quotation marks from the witnesses": 11
+  },
+  "names": {
+   "Ismărus": 3,
+   "Eury̆lŏchus": 8,
+   "Telemăchus": 112,
+   "Menelaüs": 20,
+   "Antinoüs": 23,
+   "Alcinoüs": 2,
+   "Penelopé": 2,
+   "Amphinŏmus": 1,
+   "Agelaüs": 1
+  },
+  "witness_rules": {
+   "A": {
+    "capital lines (heads, captions)": 367,
+    "folios and signature marks": 222,
+    "line-end hyphens rejoined": 144
+   },
+   "B": {
+    "Google notice pages": 1,
+    "Google lines": 633,
+    "capital lines (heads, captions)": 359,
+    "folios and signature marks": 226,
+    "line-end hyphens rejoined": 154
+   }
+  },
+  "unused_reads": [],
+  "words_base": 42643,
+  "structure": {
+   "footnotes taken out of the text": 2,
+   "chapter-opening word set in capitals": 9,
+   "units left with no letters, dropped": 8,
+   "paragraph joins (lower case)": 10
+  }
+ },
+ "source": {
+  "base": {
+   "file": "data/unscanned/church-odyssey-boys.unscanned.json.gz",
+   "sha256": "99bdc5a8b6074c8aafecacf52fef6e53d21b956a82cbdab7b21eb8279486af79",
+   "unpacked_sha256": "0ff9026e0d3b750aa4f6ba0e54d1b1455549ca224aff209bf7f285d2bf475786",
+   "what": "the Unscanner's re-OCR (tesseract, with layout) of archive.org odysseyforboysgi00chur",
+   "printing": "1906, the first printing (New York Public Library copy)"
+  },
+  "witnesses": [
+   {
+    "siglum": "A",
+    "archive_id": "odysseyforboysgi00chur",
+    "file": "odysseyforboysgi00chur_djvu.xml",
+    "sha256": "15155b6ef7cbb1b8d69bbcbda9d34ad333ae4b7a89b15a265357f6126daad642",
+    "what": "the base scan (1906), the Archive's own OCR"
+   },
+   {
+    "siglum": "B",
+    "archive_id": "odysseyforboysa00unkngoog",
+    "file": "odysseyforboysa00unkngoog_djvu.xml",
+    "sha256": "9146cb7cd96ff47e00137f10249ec6764a00b4d2a08d48f3c18feb1c6af83284",
+    "what": "1906 (Harvard copy, scanned by Google), ABBYY FineReader 8.0"
+   }
+  ],
+  "reads": "data/unscanned/church-odyssey-boys.collation-reads.json",
+  "rights": "US public domain: first published 1906/1907, and every printing used is dated before 1931."
+ },
+ "places": [
+  {
+   "at": "^ch1.1#0",
+   "base": "",
+   "A": "NY f f 3 -, • ,. / It V •ine ft Neto gorfc All rights reserved TlLOfrN Set up and electrotyped. Published September, 1906. , ' ' . ,1 < < • Norwood Press J. S. Gushing & Co. — Berwick & Smith Co. Norwood, Mass., U.S.A. H",
+   "B": "/ \\1LI KE. lle^sT^ r .' 1^ r,.,...^. - • ' \"^ •■nsb<^o. Aomoii or «rrouBa prom hombr\" Kl&liotk jIU rigitt rturvU K€. ij^sTS^ CoprnoHT, 1906, Bt the macmillan company. Set op MM cKctiolf pod. Pupi M Ucd Septenberf x9o6i> N^rw—d Prtu y. S. CkMHMg9fO.—Birwkk9fSmtha. I. Thb Cyclops 15 II. Of Tin HoMB op thb Winds and op Circb • 33 III. Of thb Sirbns and othbr Wondbrs • • 49 IV. Of what happbnbd in Ithaca . • • 67 V. How Tblbmachxjs wbnt to look for his Fathbr 85 VI. How Tblbmachub saw Nestor • • • 97 Vn. How Telemăchus came to Sparta . . • iii VUI. Menblaus's Story 121 IX. How Ulysses came to the Phaeacians • • 131 X. Nausicaa 145 XI. Alcinoüs 159 XII. Ulysses among the Phaeacians • . .167 XIII. Ithaca 179 XIV. EuMABus 191 XV. Ulysses and his Son 205 XVI. Of the Dog Argus and other Things . •215 XVII. Op the Beggar Irus and other Things XVIII. How Ulysses was made Known XIX. The Trial op the Bow XX. The Slaying of the Suitors XXI. At Last . XXII. Op Laertes XXUI. How there was Peace between Ulysses and HIS People •••••• \"5 Ultssbs following the Car op Nauucaa Ulysses giving Wine to the Cyclops Ulysses at the Table op Circé The Nymph complaining to the Sun-Goo Penelopé surprised by the Suitors The Minstrel singing to the Suitors Nausicaa throwing the Ball • Ulysses asleep laid on his own Coast Ulysses discovered by the Nurse Penelopé bringing the Bow of Ulysses Ulysses slaying the Suitors The Meeting op Ulysses and Penelopé • • Frontispiece . T9 face page »4 • ** «» *% »» • ** »» • >* *» • >t • t% »« • *> »> 2+8 • ** «> • »* «« • 99 **",
+   "by": "base",
+   "leaf": 20
+  },
+  {
+   "at": "^ch1.1#135",
+   "base": "",
+   "A": "",
+   "B": "IS",
+   "by": "base",
+   "leaf": 20
+  },
+  {
+   "at": "ch1.1#292",
+   "base": "mad.”",
+   "A": "mad.'3",
+   "B": "mad.\"",
+   "by": "base",
+   "leaf": 21
+  },
+  {
+   "at": "ch1.2#59",
+   "base": "we",
+   "A": "we",
+   "B": "wc",
+   "by": "base",
+   "leaf": 22
+  },
+  {
+   "at": "ch1.4#102",
+   "base": "Now",
+   "A": "Xow",
+   "B": "Now",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "ch1.4#109",
+   "base": "every",
+   "A": "even-",
+   "B": "every",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "ch1.4#124",
+   "base": "they",
+   "A": "thev",
+   "B": "they",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "ch1.4#127",
+   "base": "they",
+   "A": "thev",
+   "B": "they",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "^ch1.4#132",
+   "base": "",
+   "A": "j j",
+   "B": "",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "ch1.4#134",
+   "base": "they",
+   "A": "thev",
+   "B": "they",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "ch1.4#137",
+   "base": "away",
+   "A": "awav",
+   "B": "away",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "^ch1.4#139",
+   "base": "",
+   "A": "j j",
+   "B": "",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "ch1.5#0",
+   "base": "Now",
+   "A": "Xow",
+   "B": "Now",
+   "by": "base",
+   "leaf": 23
+  },
+  {
+   "at": "ch1.5#125",
+   "base": "sweet,",
+   "A": "^.veet,",
+   "B": "sweet,",
+   "by": "base",
+   "leaf": 24
+  },
+  {
+   "at": "ch1.5#183",
+   "base": "corn,",
+   "A": "corn,",
+   "B": "com,",
+   "by": "base",
+   "leaf": 24
+  },
+  {
+   "at": "ch1.6#49",
+   "base": "“Let",
+   "A": "'Let",
+   "B": "'^Lret",
+   "by": "base",
+   "leaf": 24
+  },
+  {
+   "at": "ch1.6#71",
+   "base": "lambs.”",
+   "A": "lambBut",
+   "B": "lambs.\"",
+   "by": "base",
+   "leaf": 24
+  },
+  {
+   "at": "ch1.6#72",
+   "base": "But",
+   "A": "",
+   "B": "But",
+   "by": "base",
+   "leaf": 24
+  },
+  {
+   "at": "ch1.9#5",
+   "base": "sir,”",
+   "A": "sir,'3",
+   "B": "sir,\"",
+   "by": "base",
+   "leaf": 25
+  },
+  {
+   "at": "ch1.9#45",
+   "base": "us,",
+   "A": "us,",
+   "B": "VLSy",
+   "by": "base",
+   "leaf": 26
+  },
+  {
+   "at": "ch1.10#17",
+   "base": "we",
+   "A": "\\ve",
+   "B": "we",
+   "by": "base",
+   "leaf": 26
+  },
+  {
+   "at": "ch1.11#45",
+   "base": "was",
+   "A": "\\\\us",
+   "B": "was",
+   "by": "base",
+   "leaf": 26
+  },
+  {
+   "at": "ch1.11#67",
+   "base": "wreck.”",
+   "A": "wreck.'1",
+   "B": "wreck.\"",
+   "by": "base",
+   "leaf": 26
+  },
+  {
+   "at": "ch1.17#39",
+   "base": "heaven.”",
+   "A": "heaven.'1",
+   "B": "heaven.'*",
+   "by": "base",
+   "leaf": 28
+  },
+  {
+   "at": "ch1.18#13",
+   "base": "gift.”",
+   "A": "gift.'1",
+   "B": "gift.\"",
+   "by": "base",
+   "leaf": 28
+  },
+  {
+   "at": "ch1.23#2",
+   "base": "you,”",
+   "A": "you/3",
+   "B": "you,\"",
+   "by": "base",
+   "leaf": 29
+  },
+  {
+   "at": "ch1.25#0",
+   "base": "“Well,”",
+   "A": "'Well/3",
+   "B": "\"Well,\"",
+   "by": "base",
+   "leaf": 29
+  },
+  {
+   "at": "ch1.26#226",
+   "base": "—",
+   "A": "",
+   "B": "—",
+   "by": "base",
+   "leaf": 32
+  },
+  {
+   "at": "ch1.27#79",
+   "base": "ground.”",
+   "A": "ground/1",
+   "B": "ground.\"",
+   "by": "base",
+   "leaf": 33
+  },
+  {
+   "at": "ch1.29#87",
+   "base": "as",
+   "A": "as",
+   "B": "a^",
+   "by": "base",
+   "leaf": 34
+  },
+  {
+   "at": "ch1.30#5",
+   "base": "angry,”",
+   "A": "angry,'3",
+   "B": "angry,'*",
+   "by": "base",
+   "leaf": 34
+  },
+  {
+   "at": "ch1.32#37",
+   "base": "big",
+   "A": "bis",
+   "B": "big",
+   "by": "base",
+   "leaf": 35
+  },
+  {
+   "at": "^ch1.32#44",
+   "base": "",
+   "A": "c^",
+   "B": "",
+   "by": "base",
+   "leaf": 35
+  },
+  {
+   "at": "ch1.33#0",
+   "base": "Now",
+   "A": "Xo\\v",
+   "B": "Now",
+   "by": "base",
+   "leaf": 35
+  },
+  {
+   "at": "ch1.33#6",
+   "base": "carry",
+   "A": "earnon1",
+   "B": "carry",
+   "by": "base",
+   "leaf": 35
+  },
+  {
+   "at": "ch1.33#7",
+   "base": "off",
+   "A": "",
+   "B": "off",
+   "by": "base",
+   "leaf": 35
+  },
+  {
+   "at": "^ch2.1#0",
+   "base": "",
+   "A": "3°",
+   "B": "",
+   "by": "base",
+   "leaf": 35
+  },
+  {
+   "at": "ch2.1#265",
+   "base": "live,”",
+   "A": "live,'3",
+   "B": "live,\"",
+   "by": "base",
+   "leaf": 39
+  },
+  {
+   "at": "ch2.2#55",
+   "base": "“Nay,”",
+   "A": "\" 'Nay,'3",
+   "B": "\"Nay,\"",
+   "by": "base",
+   "leaf": 39
+  },
+  {
+   "at": "ch2.3#237",
+   "base": "were",
+   "A": "wrere",
+   "B": "were",
+   "by": "base",
+   "leaf": 40
+  },
+  {
+   "at": "ch2.5#62",
+   "base": "island.”",
+   "A": "island/1",
+   "B": "island.\"",
+   "by": "base",
+   "leaf": 42
+  },
+  {
+   "at": "ch2.5#202",
+   "base": "goddess.”",
+   "A": "goddess.'3",
+   "B": "goddess/'",
+   "by": "base",
+   "leaf": 43
+  },
+  {
+   "at": "ch2.9#159",
+   "base": "?”",
+   "A": "",
+   "B": "",
+   "by": "base",
+   "leaf": 48
+  },
+  {
+   "at": "ch2.10#51",
+   "base": "lo!",
+   "A": "lo",
+   "B": "lot",
+   "by": "base",
+   "leaf": 48
+  },
+  {
+   "at": "^ch2.12#119",
+   "base": "",
+   "A": "? J",
+   "B": "",
+   "by": "base",
+   "leaf": 49
+  },
+  {
+   "at": "ch2.12#146",
+   "base": "you,”",
+   "A": "you/3",
+   "B": "you,\"",
+   "by": "base",
+   "leaf": 49
+  },
+  {
+   "at": "ch3.1#0",
+   "base": "Tue",
+   "A": "THE",
+   "B": "The",
+   "by": "witnesses",
+   "leaf": 54,
+   "out": "THE"
+  },
+  {
+   "at": "ch3.2#90",
+   "base": "Argo,",
+   "A": "Argo,",
+   "B": "ArgOj",
+   "by": "base",
+   "leaf": 56
+  },
+  {
+   "at": "ch3.2#103",
+   "base": "“",
+   "A": "",
+   "B": "",
+   "by": "base",
+   "leaf": 56
+  },
+  {
+   "at": "^ch3.3#105",
+   "base": "",
+   "A": "Si",
+   "B": "",
+   "by": "base",
+   "leaf": 56
+  },
+  {
+   "at": "ch3.3#122",
+   "base": "better,’",
+   "A": "better/5",
+   "B": "better/'",
+   "by": "base",
+   "leaf": 57
+  },
+  {
+   "at": "ch3.3#284",
+   "base": "can.”",
+   "A": "can/1",
+   "B": "can.\"",
+   "by": "base",
+   "leaf": 57
+  },
+  {
+   "at": "^ch3.4#8",
+   "base": "",
+   "A": "",
+   "B": "5^",
+   "by": "base",
+   "leaf": 57
+  },
+  {
+   "at": "ch3.5#238",
+   "base": "saved.”",
+   "A": "saved.'3",
+   "B": "saved.\"",
+   "by": "base",
+   "leaf": 59
+  },
+  {
+   "at": "^ch3.10#0",
+   "base": "",
+   "A": "J:",
+   "B": "",
+   "by": "base",
+   "leaf": 62
+  },
+  {
+   "at": "^ch3.12#45",
+   "base": "",
+   "A": "_- _ /",
+   "B": "o",
+   "by": "base",
+   "leaf": 63
+  },
+  {
+   "at": "ch4.1#1",
+   "base": "we",
+   "A": "we",
+   "B": "wc",
+   "by": "base",
+   "leaf": 72
+  },
+  {
+   "at": "ch4.1#231",
+   "base": "use,”",
+   "A": "use,'3",
+   "B": "use,\"",
+   "by": "base",
+   "leaf": 73
+  },
+  {
+   "at": "ch4.2#120",
+   "base": "—",
+   "A": "",
+   "B": "—",
+   "by": "base",
+   "leaf": 74
+  },
+  {
+   "at": "ch4.2#137",
+   "base": "meanwhile.”",
+   "A": "meanwhile.'1",
+   "B": "meanwhile.\"",
+   "by": "base",
+   "leaf": 74
+  },
+  {
+   "at": "ch4.2#217",
+   "base": "husband.”",
+   "A": "husband.'1",
+   "B": "husband.\"",
+   "by": "base",
+   "leaf": 74
+  },
+  {
+   "at": "ch4.2#253",
+   "base": "wants.”",
+   "A": "wants/1",
+   "B": "wants.\"",
+   "by": "base",
+   "leaf": 74
+  },
+  {
+   "at": "ch4.2#349",
+   "base": "off",
+   "A": "off",
+   "B": "oflF",
+   "by": "base",
+   "leaf": 75
+  },
+  {
+   "at": "ch4.4#0",
+   "base": "are",
+   "A": "• •",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 76,
+   "out": ""
+  },
+  {
+   "at": "ch4.4#1",
+   "base": "Vote",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 75,
+   "out": ""
+  },
+  {
+   "at": "ch4.4#2",
+   "base": "aie",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 75,
+   "out": ""
+  },
+  {
+   "at": "ch4.4#3",
+   "base": "Ut",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 76,
+   "out": ""
+  },
+  {
+   "at": "ch4.7#14",
+   "base": "“Tam",
+   "A": ": 'I am",
+   "B": "\"I am",
+   "by": "witnesses",
+   "leaf": 78,
+   "out": "“I am"
+  },
+  {
+   "at": "^ch4.7#30",
+   "base": "",
+   "A": "l",
+   "B": "",
+   "by": "base",
+   "leaf": 78
+  },
+  {
+   "at": "ch4.8#0",
+   "base": "1",
+   "A": "1",
+   "B": "*",
+   "by": "base",
+   "leaf": 78
+  },
+  {
+   "at": "ch4.9#21",
+   "base": "J",
+   "A": "I",
+   "B": "I",
+   "by": "witnesses",
+   "leaf": 79,
+   "out": "I"
+  },
+  {
+   "at": "ch4.12#44",
+   "base": "friend.”",
+   "A": "friend.'3",
+   "B": "friend/'",
+   "by": "base",
+   "leaf": 81
+  },
+  {
+   "at": "ch4.13#0",
+   "base": "“Nay,”",
+   "A": "\"Nay/3",
+   "B": "\"Nay,\"",
+   "by": "base",
+   "leaf": 81
+  },
+  {
+   "at": "ch4.13#16",
+   "base": "again.”",
+   "A": "again.'3",
+   "B": "again.\"",
+   "by": "base",
+   "leaf": 81
+  },
+  {
+   "at": "ch4.14#13",
+   "base": "lo!",
+   "A": "lo!",
+   "B": "lol",
+   "by": "base",
+   "leaf": 81
+  },
+  {
+   "at": "ch4.14#91",
+   "base": "lo!",
+   "A": "lo!",
+   "B": "lol",
+   "by": "base",
+   "leaf": 81
+  },
+  {
+   "at": "ch4.14#203",
+   "base": "famous.”",
+   "A": "famous/1",
+   "B": "famous.''",
+   "by": "base",
+   "leaf": 84
+  },
+  {
+   "at": "ch4.15#79",
+   "base": "master.”",
+   "A": "master/1",
+   "B": "master.\"",
+   "by": "base",
+   "leaf": 84
+  },
+  {
+   "at": "ch4.19#54",
+   "base": "house.”",
+   "A": "house/1",
+   "B": "house.\"",
+   "by": "base",
+   "leaf": 85
+  },
+  {
+   "at": "^ch4.22#48",
+   "base": "",
+   "A": "",
+   "B": "F 8i",
+   "by": "base",
+   "leaf": 86
+  },
+  {
+   "at": "^ch5.2#73",
+   "base": "",
+   "A": "",
+   "B": "8s",
+   "by": "base",
+   "leaf": 90
+  },
+  {
+   "at": "ch5.3#94",
+   "base": "it.”",
+   "A": "it.5'",
+   "B": "it.\"",
+   "by": "base",
+   "leaf": 91
+  },
+  {
+   "at": "ch5.4#40",
+   "base": "woman.”",
+   "A": "woman.'3",
+   "B": "woman.\"",
+   "by": "base",
+   "leaf": 91
+  },
+  {
+   "at": "^ch5.8#16",
+   "base": "",
+   "A": "8?",
+   "B": "",
+   "by": "base",
+   "leaf": 92
+  },
+  {
+   "at": "ch5.13#29",
+   "base": "“Come",
+   "A": "'Come",
+   "B": "'Xome",
+   "by": "base",
+   "leaf": 95
+  },
+  {
+   "at": "ch5.14#0",
+   "base": "2.",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 95,
+   "out": ""
+  },
+  {
+   "at": "ch5.14#1",
+   "base": "99",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 95,
+   "out": ""
+  },
+  {
+   "at": "ch5.19#30",
+   "base": "tlays,",
+   "A": "Hays,",
+   "B": "days,",
+   "by": "read",
+   "leaf": 97,
+   "out": "days,",
+   "seen": "n97: twelve days, unless"
+  },
+  {
+   "at": "ch5.20#123",
+   "base": "go.”",
+   "A": "go.53",
+   "B": "go.\"",
+   "by": "base",
+   "leaf": 97
+  },
+  {
+   "at": "^ch5.21#25",
+   "base": "",
+   "A": "1",
+   "B": "",
+   "by": "base",
+   "leaf": 98
+  },
+  {
+   "at": "ch5.22#33",
+   "base": "stern,",
+   "A": "stern,",
+   "B": "stem,",
+   "by": "base",
+   "leaf": 98
+  },
+  {
+   "at": "ch5.23#113",
+   "base": "Zeus",
+   "A": "Zeus",
+   "B": "2^us",
+   "by": "base",
+   "leaf": 99
+  },
+  {
+   "at": "ch6.3#19",
+   "base": "mouth.”",
+   "A": "mouth/3",
+   "B": "mouth.\"",
+   "by": "base",
+   "leaf": 103
+  },
+  {
+   "at": "ch6.5#53",
+   "base": "hither.”",
+   "A": "hither.'1",
+   "B": "hither.\"",
+   "by": "base",
+   "leaf": 104
+  },
+  {
+   "at": "ch6.7#17",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "by": "base",
+   "leaf": 104
+  },
+  {
+   "at": "^ch6.9#0",
+   "base": "",
+   "A": "J:",
+   "B": "",
+   "by": "base",
+   "leaf": 105
+  },
+  {
+   "at": "^ch6.9#347",
+   "base": "",
+   "A": "",
+   "B": "lOI",
+   "by": "base",
+   "leaf": 106
+  },
+  {
+   "at": "ch6.9#397",
+   "base": "went",
+   "A": "\\vent",
+   "B": "went",
+   "by": "base",
+   "leaf": 107
+  },
+  {
+   "at": "ch6.9#473",
+   "base": "woman",
+   "A": "wroman",
+   "B": "woman",
+   "by": "base",
+   "leaf": 107
+  },
+  {
+   "at": "ch6.11#123",
+   "base": "Egypt,",
+   "A": "Egypt,",
+   "B": "^gyP^>",
+   "by": "base",
+   "leaf": 108
+  },
+  {
+   "at": "ch6.11#124",
+   "base": "he",
+   "A": "he",
+   "B": "h^",
+   "by": "base",
+   "leaf": 108
+  },
+  {
+   "at": "ch6.11#125",
+   "base": "and",
+   "A": "and",
+   "B": "^^^",
+   "by": "base",
+   "leaf": 108
+  },
+  {
+   "at": "ch6.12#13",
+   "base": "“Come",
+   "A": "'Come",
+   "B": "\"Q)mc",
+   "by": "base",
+   "leaf": 109
+  },
+  {
+   "at": "ch6.12#26",
+   "base": "there.”",
+   "A": "there/1",
+   "B": "there.\"",
+   "by": "base",
+   "leaf": 109
+  },
+  {
+   "at": "ch6.17#20",
+   "base": "journey.”",
+   "A": "journey.'3",
+   "B": "journey.\"",
+   "by": "base",
+   "leaf": 111
+  },
+  {
+   "at": "ch7.1#0",
+   "base": "Ir",
+   "A": "IT",
+   "B": "It",
+   "by": "witnesses",
+   "leaf": 116,
+   "out": "IT"
+  },
+  {
+   "at": "ch7.1#131",
+   "base": "?”",
+   "A": "?'",
+   "B": "",
+   "by": "base",
+   "leaf": 116
+  },
+  {
+   "at": "^ch7.2#14",
+   "base": "",
+   "A": "in",
+   "B": "",
+   "by": "base",
+   "leaf": 116
+  },
+  {
+   "at": "ch7.3#23",
+   "base": "corn",
+   "A": "corn",
+   "B": "com",
+   "by": "base",
+   "leaf": 117
+  },
+  {
+   "at": "ch7.4#176",
+   "base": "Just",
+   "A": "st",
+   "B": "Just",
+   "by": "base",
+   "leaf": 119
+  },
+  {
+   "at": "ch7.6#32",
+   "base": "colour.”",
+   "A": "colour.'1",
+   "B": "colour.\"",
+   "by": "base",
+   "leaf": 119
+  },
+  {
+   "at": "ch7.7#45",
+   "base": "was",
+   "A": "wras",
+   "B": "was",
+   "by": "base",
+   "leaf": 119
+  },
+  {
+   "at": "ch7.7#75",
+   "base": "mourn",
+   "A": "mourn",
+   "B": "moum",
+   "by": "base",
+   "leaf": 119
+  },
+  {
+   "at": "ch7.7#94",
+   "base": "re-",
+   "A": "re-• » joice.",
+   "B": "rejoice.",
+   "by": "read",
+   "leaf": 120,
+   "out": "rejoice.”",
+   "seen": "n120: a time to re-/joice.”"
+  },
+  {
+   "at": "ch7.8#1",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "by": "base",
+   "leaf": 120
+  },
+  {
+   "at": "ch7.8#2",
+   "base": "right,”",
+   "A": "right/3",
+   "B": "right,\"",
+   "by": "base",
+   "leaf": 120
+  },
+  {
+   "at": "ch7.8#7",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "by": "base",
+   "leaf": 120
+  },
+  {
+   "at": "ch7.9#111",
+   "base": "was",
+   "A": "wras",
+   "B": "was",
+   "by": "base",
+   "leaf": 120
+  },
+  {
+   "at": "^ch7.10#23",
+   "base": "",
+   "A": "",
+   "B": "\"5",
+   "by": "base",
+   "leaf": 120
+  },
+  {
+   "at": "^ch7.11#0",
+   "base": "",
+   "A": "home.*'",
+   "B": "home.*'",
+   "by": "read",
+   "leaf": 121,
+   "out": "home.”",
+   "seen": "witnesses A and B: 'home'; the paragraph's last line, dropped by the base"
+  },
+  {
+   "at": "ch7.11#51",
+   "base": "Horse,",
+   "A": "Horse,1",
+   "B": "Horse,*",
+   "by": "base",
+   "leaf": 121
+  },
+  {
+   "at": "ch7.12#5",
+   "base": "very",
+   "A": "very",
+   "B": "yeiy",
+   "by": "base",
+   "leaf": 121
+  },
+  {
+   "at": "ch7.12#6",
+   "base": "large",
+   "A": "large",
+   "B": "laige",
+   "by": "base",
+   "leaf": 121
+  },
+  {
+   "at": "ch7.13#12",
+   "base": "perishing.”",
+   "A": "perishing/1",
+   "B": "perishing/'",
+   "by": "base",
+   "leaf": 122
+  },
+  {
+   "at": "ch7.14#36",
+   "base": "offering",
+   "A": "offering",
+   "B": "oflFering",
+   "by": "base",
+   "leaf": 122
+  },
+  {
+   "at": "ch7.14#63",
+   "base": "story",
+   "A": "story",
+   "B": "stoiy",
+   "by": "base",
+   "leaf": 122
+  },
+  {
+   "at": "ch7.14#119",
+   "base": "them.",
+   "A": "them.",
+   "B": "uiem. \"7 The",
+   "by": "base",
+   "leaf": 122
+  },
+  {
+   "at": "ch8.1#0",
+   "base": "Tue",
+   "A": "THE",
+   "B": "",
+   "by": "read",
+   "leaf": 126,
+   "out": "THE",
+   "seen": "n126: small capitals THE"
+  },
+  {
+   "at": "ch8.2#59",
+   "base": "sub-",
+   "A": "substance.'",
+   "B": "substance.\"",
+   "by": "read",
+   "leaf": 126,
+   "out": "substance.”",
+   "seen": "n126: devour my sub-/stance.”"
+  },
+  {
+   "at": "ch8.3#186",
+   "base": "tll",
+   "A": "till",
+   "B": "till",
+   "by": "witnesses",
+   "leaf": 127,
+   "out": "till"
+  },
+  {
+   "at": "ch8.3#510",
+   "base": "we",
+   "A": "we",
+   "B": "V(re",
+   "by": "base",
+   "leaf": 129
+  },
+  {
+   "at": "ch8.3#789",
+   "base": "fo",
+   "A": "to",
+   "B": "to",
+   "by": "witnesses",
+   "leaf": 130,
+   "out": "to"
+  },
+  {
+   "at": "ch8.3#829",
+   "base": "well",
+   "A": "tell",
+   "B": "tell",
+   "by": "witnesses",
+   "leaf": 130,
+   "out": "tell"
+  },
+  {
+   "at": "ch8.3#835",
+   "base": "‘The",
+   "A": "He",
+   "B": "He",
+   "by": "read",
+   "leaf": 130,
+   "out": "He",
+   "seen": "n130: escape.’ He said"
+  },
+  {
+   "at": "^ch8.3#921",
+   "base": "",
+   "A": "",
+   "B": "\"5",
+   "by": "base",
+   "leaf": 130
+  },
+  {
+   "at": "ch8.6#73",
+   "base": "did,",
+   "A": "did,",
+   "B": "didy",
+   "by": "base",
+   "leaf": 133
+  },
+  {
+   "at": "ch9.2#35",
+   "base": "country.”",
+   "A": "country.'1 .",
+   "B": "country.\"",
+   "by": "base",
+   "leaf": 136
+  },
+  {
+   "at": "ch9.2#215",
+   "base": "Hermes,”",
+   "A": "Hermes/3",
+   "B": "Hermes,\"",
+   "by": "base",
+   "leaf": 137
+  },
+  {
+   "at": "ch9.3#56",
+   "base": "so",
+   "A": "so",
+   "B": "13^ 80",
+   "by": "base",
+   "leaf": 138
+  },
+  {
+   "at": "ch9.3#82",
+   "base": "—",
+   "A": "",
+   "B": "—",
+   "by": "base",
+   "leaf": 138
+  },
+  {
+   "at": "ch9.6#23",
+   "base": "go",
+   "A": "eo",
+   "B": "go",
+   "by": "base",
+   "leaf": 139
+  },
+  {
+   "at": "^ch9.6#25",
+   "base": "",
+   "A": "o o o o",
+   "B": "",
+   "by": "base",
+   "leaf": 139
+  },
+  {
+   "at": "ch9.7#107",
+   "base": "sails",
+   "A": "saik",
+   "B": "sails",
+   "by": "base",
+   "leaf": 140
+  },
+  {
+   "at": "ch10.1#11",
+   "base": "friends",
+   "A": "friends",
+   "B": "friencls",
+   "by": "base",
+   "leaf": 150
+  },
+  {
+   "at": "ch10.2#112",
+   "base": "sea.”",
+   "A": "sea.'3",
+   "B": "sea.\"",
+   "by": "base",
+   "leaf": 151
+  },
+  {
+   "at": "ch10.3#132",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "by": "base",
+   "leaf": 152
+  },
+  {
+   "at": "ch10.3#136",
+   "base": "too,",
+   "A": "too,",
+   "B": "tcx),",
+   "by": "base",
+   "leaf": 152
+  },
+  {
+   "at": "ch10.9#4",
+   "base": "“O",
+   "A": "'Q",
+   "B": "\"O",
+   "by": "base",
+   "leaf": 157
+  },
+  {
+   "at": "ch10.9#112",
+   "base": "city.”",
+   "A": "city.'3",
+   "B": "city.\"",
+   "by": "base",
+   "leaf": 157
+  },
+  {
+   "at": "^ch10.10#54",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "by": "witnesses",
+   "leaf": 157,
+   "out": "I"
+  },
+  {
+   "at": "ch10.11#50",
+   "base": "some",
+   "A": "some",
+   "B": "tome",
+   "by": "base",
+   "leaf": 158
+  },
+  {
+   "at": "^ch10.12#143",
+   "base": "",
+   "A": "",
+   "B": "\"^53",
+   "by": "base",
+   "leaf": 158
+  },
+  {
+   "at": "ch10.13#330",
+   "base": "home.”",
+   "A": "home.'3",
+   "B": "home.\"",
+   "by": "base",
+   "leaf": 160
+  },
+  {
+   "at": "ch11.3#146",
+   "base": "again.”",
+   "A": "again/3",
+   "B": "again.\"",
+   "by": "base",
+   "leaf": 165
+  },
+  {
+   "at": "ch11.7#25",
+   "base": "hall",
+   "A": "hall",
+   "B": "ball",
+   "by": "base",
+   "leaf": 166
+  },
+  {
+   "at": "ch11.8#105",
+   "base": "‘I",
+   "A": "",
+   "B": "\"I",
+   "by": "base",
+   "leaf": 167
+  },
+  {
+   "at": "ch11.11#80",
+   "base": "done.”",
+   "A": "done.J:",
+   "B": "done.\"",
+   "by": "base",
+   "leaf": 168
+  },
+  {
+   "at": "ch11.11#82",
+   "base": "lady,”",
+   "A": "lady/3",
+   "B": "lady,\"",
+   "by": "base",
+   "leaf": 168
+  },
+  {
+   "at": "ch11.14#45",
+   "base": "was",
+   "A": "wras",
+   "B": "was",
+   "by": "base",
+   "leaf": 169
+  },
+  {
+   "at": "ch12.1#0",
+   "base": "CHAP",
+   "A": "THE",
+   "B": "The",
+   "by": "witnesses",
+   "leaf": 172,
+   "out": "THE"
+  },
+  {
+   "at": "ch12.1#1",
+   "base": "FER",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 169,
+   "out": ""
+  },
+  {
+   "at": "ch12.1#2",
+   "base": "All",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 169,
+   "out": ""
+  },
+  {
+   "at": "ch12.2#0",
+   "base": "Tue",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 172,
+   "out": ""
+  },
+  {
+   "at": "ch12.2#64",
+   "base": "palace.”",
+   "A": "palace/1",
+   "B": "palace.\"",
+   "by": "base",
+   "leaf": 172
+  },
+  {
+   "at": "ch12.3#3",
+   "base": "im",
+   "A": "in",
+   "B": "in",
+   "by": "witnesses",
+   "leaf": 172,
+   "out": "in"
+  },
+  {
+   "at": "ch12.3#99",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "by": "base",
+   "leaf": 173
+  },
+  {
+   "at": "ch12.6#66",
+   "base": "?”",
+   "A": "? J",
+   "B": "",
+   "by": "base",
+   "leaf": 174
+  },
+  {
+   "at": "ch12.7#24",
+   "base": "home.”",
+   "A": "home/3",
+   "B": "home/'",
+   "by": "base",
+   "leaf": 175
+  },
+  {
+   "at": "ch12.15#70",
+   "base": "!”",
+   "A": "!",
+   "B": "",
+   "by": "base",
+   "leaf": 177
+  },
+  {
+   "at": "ch12.19#19",
+   "base": "be",
+   "A": "he",
+   "B": "he",
+   "by": "witnesses",
+   "leaf": 178,
+   "out": "he"
+  },
+  {
+   "at": "ch12.19#21",
+   "base": "¢o",
+   "A": "to",
+   "B": "to",
+   "by": "witnesses",
+   "leaf": 178,
+   "out": "to"
+  },
+  {
+   "at": "ch12.19#45",
+   "base": "“",
+   "A": "",
+   "B": "",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch12.19#64",
+   "base": "life.”",
+   "A": "life.'1",
+   "B": "life.\"",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch12.23#75",
+   "base": "home.”",
+   "A": "home.'3",
+   "B": "home.\"",
+   "by": "base",
+   "leaf": 180
+  },
+  {
+   "at": "ch13.3#104",
+   "base": "“O",
+   "A": "fO",
+   "B": "''O",
+   "by": "base",
+   "leaf": 185
+  },
+  {
+   "at": "^ch13.4#0",
+   "base": "",
+   "A": "",
+   "B": "i8o",
+   "by": "base",
+   "leaf": 185
+  },
+  {
+   "at": "ch13.9#27",
+   "base": "fighting",
+   "A": "righting",
+   "B": "fighting",
+   "by": "base",
+   "leaf": 191
+  },
+  {
+   "at": "ch13.9#65",
+   "base": "country.”",
+   "A": "country/1",
+   "B": "country.\"",
+   "by": "base",
+   "leaf": 191
+  },
+  {
+   "at": "ch13.12#56",
+   "base": "how,”",
+   "A": "how/3",
+   "B": "how,\"",
+   "by": "base",
+   "leaf": 192
+  },
+  {
+   "at": "ch13.12#79",
+   "base": "me,”",
+   "A": "me/3",
+   "B": "me,\"",
+   "by": "base",
+   "leaf": 192
+  },
+  {
+   "at": "ch13.14#24",
+   "base": "“Nay,”",
+   "A": "? ' \"Nay/3",
+   "B": "\"Nay,\"",
+   "by": "base",
+   "leaf": 193
+  },
+  {
+   "at": "ch13.14#45",
+   "base": "well.”",
+   "A": "well.\"",
+   "B": "weU.\"",
+   "by": "base",
+   "leaf": 193
+  },
+  {
+   "at": "ch14.2#167",
+   "base": "Ulysses:",
+   "A": "Llysses:",
+   "B": "Ulysses",
+   "by": "base",
+   "leaf": 198
+  },
+  {
+   "at": "ch14.2#168",
+   "base": "“Old",
+   "A": "'Old",
+   "B": ": **01d",
+   "by": "base",
+   "leaf": 198
+  },
+  {
+   "at": "ch14.2#237",
+   "base": "story.”",
+   "A": "story.'",
+   "B": "'",
+   "by": "base",
+   "leaf": 198
+  },
+  {
+   "at": "ch14.3#43",
+   "base": "‘Now",
+   "A": "'Xow",
+   "B": "'^Now",
+   "by": "base",
+   "leaf": 198
+  },
+  {
+   "at": "^ch14.4#0",
+   "base": "",
+   "A": "!'",
+   "B": "1*'",
+   "by": "base",
+   "leaf": 198
+  },
+  {
+   "at": "ch14.11#0",
+   "base": "“T",
+   "A": "'I",
+   "B": "\"I",
+   "by": "witnesses",
+   "leaf": 201,
+   "out": "“I"
+  },
+  {
+   "at": "ch14.11#167",
+   "base": "1",
+   "A": "I",
+   "B": "I",
+   "by": "witnesses",
+   "leaf": 202,
+   "out": "I"
+  },
+  {
+   "at": "ch14.13#65",
+   "base": "tales.”",
+   "A": "tales.'1",
+   "B": "tales.\"",
+   "by": "base",
+   "leaf": 205
+  },
+  {
+   "at": "ch14.14#71",
+   "base": "together.”",
+   "A": "together.'1",
+   "B": "together.\"",
+   "by": "base",
+   "leaf": 205
+  },
+  {
+   "at": "ch14.15#36",
+   "base": "meal.”",
+   "A": "meal/1",
+   "B": "meal\"",
+   "by": "base",
+   "leaf": 206
+  },
+  {
+   "at": "^ch14.18#90",
+   "base": "",
+   "A": "! '",
+   "B": "I*",
+   "by": "base",
+   "leaf": 206
+  },
+  {
+   "at": "ch15.1#0",
+   "base": "Tue",
+   "A": "THE",
+   "B": "20Z The",
+   "by": "read",
+   "leaf": 210,
+   "out": "THE",
+   "seen": "n210: small capitals THE"
+  },
+  {
+   "at": "ch15.3#0",
+   "base": "“Nay,”",
+   "A": "'Nay/3",
+   "B": "\"Nay,**",
+   "by": "base",
+   "leaf": 211
+  },
+  {
+   "at": "ch15.3#78",
+   "base": "insolent.”",
+   "A": "insolent/3",
+   "B": "insolent.\"",
+   "by": "base",
+   "leaf": 211
+  },
+  {
+   "at": "ch15.7#13",
+   "base": "Athené,",
+   "A": "Athené',",
+   "B": "Athen^,",
+   "by": "base",
+   "leaf": 212
+  },
+  {
+   "at": "ch15.10#0",
+   "base": "“T",
+   "A": "?' 'I",
+   "B": "? \" \"I",
+   "by": "witnesses",
+   "leaf": 213,
+   "out": "“I"
+  },
+  {
+   "at": "ch15.11#1",
+   "base": "Telemăchus",
+   "A": "Telemăchus",
+   "B": "TelemSfchus",
+   "by": "base",
+   "leaf": 213
+  },
+  {
+   "at": "ch15.16#0",
+   "base": "fo)",
+   "A": "'''",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 214,
+   "out": ""
+  },
+  {
+   "at": "ch15.16#1",
+   "base": "209",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 214,
+   "out": ""
+  },
+  {
+   "at": "^ch16.4#6",
+   "base": "",
+   "A": "",
+   "B": "\"5",
+   "by": "base",
+   "leaf": 220
+  },
+  {
+   "at": "ch16.4#56",
+   "base": "already.”",
+   "A": "already.'3",
+   "B": "already.*'",
+   "by": "base",
+   "leaf": 221
+  },
+  {
+   "at": "ch16.7#7",
+   "base": "inte",
+   "A": "into",
+   "B": "into",
+   "by": "witnesses",
+   "leaf": 222,
+   "out": "into"
+  },
+  {
+   "at": "^ch16.9#69",
+   "base": "",
+   "A": "!",
+   "B": "I",
+   "by": "base",
+   "leaf": 223
+  },
+  {
+   "at": "ch16.11#110",
+   "base": "suffer",
+   "A": "suffer",
+   "B": "suflFcr",
+   "by": "base",
+   "leaf": 224
+  },
+  {
+   "at": "ch16.11#189",
+   "base": "far.”",
+   "A": "far/5",
+   "B": "far/'",
+   "by": "base",
+   "leaf": 225
+  },
+  {
+   "at": "ch16.14#6",
+   "base": "‘The",
+   "A": "cThe",
+   "B": "\"The",
+   "by": "base",
+   "leaf": 225
+  },
+  {
+   "at": "ch16.19#50",
+   "base": "!”",
+   "A": "'",
+   "B": "",
+   "by": "base",
+   "leaf": 227
+  },
+  {
+   "at": "ch17.4#16",
+   "base": "sport,",
+   "A": "sport,",
+   "B": "sporty",
+   "by": "base",
+   "leaf": 231
+  },
+  {
+   "at": "ch17.4#33",
+   "base": "fight.",
+   "A": "fight.",
+   "B": "ifight.",
+   "by": "base",
+   "leaf": 231
+  },
+  {
+   "at": "ch17.7#137",
+   "base": "dogs.”",
+   "A": "dogs.Ji",
+   "B": "dogs/'",
+   "by": "base",
+   "leaf": 232
+  },
+  {
+   "at": "ch17.8#18",
+   "base": "with",
+   "A": "\\vith",
+   "B": "with",
+   "by": "base",
+   "leaf": 232
+  },
+  {
+   "at": "ch17.10#103",
+   "base": "now!",
+   "A": "now!",
+   "B": "nowl",
+   "by": "base",
+   "leaf": 233
+  },
+  {
+   "at": "ch17.13#46",
+   "base": "alone.”",
+   "A": "alone/1",
+   "B": "alone.\"",
+   "by": "base",
+   "leaf": 235
+  },
+  {
+   "at": "ch17.17#75",
+   "base": "hurt.”",
+   "A": "hurt.'1",
+   "B": "hurt.'*",
+   "by": "base",
+   "leaf": 236
+  },
+  {
+   "at": "ch17.19#8",
+   "base": "“OQ",
+   "A": "'O",
+   "B": "**0",
+   "by": "witnesses",
+   "leaf": 237,
+   "out": "“O"
+  },
+  {
+   "at": "^ch17.25#44",
+   "base": "",
+   "A": "",
+   "B": "2^34",
+   "by": "base",
+   "leaf": 239
+  },
+  {
+   "at": "ch17.25#62",
+   "base": "Gleam",
+   "A": "clean",
+   "B": "clean",
+   "by": "witnesses",
+   "leaf": 240,
+   "out": "clean"
+  },
+  {
+   "at": "ch17.25#68",
+   "base": "Zeiis",
+   "A": "/eus",
+   "B": "Zeus",
+   "by": "read",
+   "leaf": 240,
+   "out": "Zeus",
+   "seen": "n240: if Zeus should order"
+  },
+  {
+   "at": "ch17.25#75",
+   "base": "I",
+   "A": "1",
+   "B": "I",
+   "by": "base",
+   "leaf": 240
+  },
+  {
+   "at": "^ch17.26#0",
+   "base": "",
+   "A": "J:",
+   "B": "",
+   "by": "base",
+   "leaf": 240
+  },
+  {
+   "at": "ch17.28#18",
+   "base": "fe",
+   "A": "he",
+   "B": "he",
+   "by": "witnesses",
+   "leaf": 240,
+   "out": "he"
+  },
+  {
+   "at": "ch17.28#22",
+   "base": "Was",
+   "A": "has",
+   "B": "has",
+   "by": "witnesses",
+   "leaf": 240,
+   "out": "has"
+  },
+  {
+   "at": "ch18.1#0",
+   "base": "Utysses",
+   "A": "ULYSSES",
+   "B": "Ulysses",
+   "by": "witnesses",
+   "leaf": 244,
+   "out": "ULYSSES"
+  },
+  {
+   "at": "ch18.2#44",
+   "base": "cleaned.”",
+   "A": "cleaned/1",
+   "B": "cleaned.\"",
+   "by": "base",
+   "leaf": 244
+  },
+  {
+   "at": "ch18.8#84",
+   "base": "story.”",
+   "A": "story/1",
+   "B": "story/'",
+   "by": "base",
+   "leaf": 246
+  },
+  {
+   "at": "ch18.9#193",
+   "base": "eat",
+   "A": "eat",
+   "B": "cat",
+   "by": "base",
+   "leaf": 247
+  },
+  {
+   "at": "ch18.16#65",
+   "base": "shall",
+   "A": "shall",
+   "B": "sfhall",
+   "by": "base",
+   "leaf": 250
+  },
+  {
+   "at": "ch18.16#68",
+   "base": "feet.”",
+   "A": "feet/1",
+   "B": "feet.\"",
+   "by": "base",
+   "leaf": 250
+  },
+  {
+   "at": "^ch18.20#0",
+   "base": "",
+   "A": "Ulysses. \"",
+   "B": "Ulysses.\"",
+   "by": "read",
+   "leaf": 251,
+   "out": "Ulysses.”",
+   "seen": "witnesses A and B: 'Ulysses.'; the paragraph's last line, dropped by the base"
+  },
+  {
+   "at": "ch18.21#17",
+   "base": "alike.”",
+   "A": "alike.'1",
+   "B": "alike/'",
+   "by": "base",
+   "leaf": 252
+  },
+  {
+   "at": "ch18.22#57",
+   "base": "—",
+   "A": "",
+   "B": "—",
+   "by": "base",
+   "leaf": 252
+  },
+  {
+   "at": "ch18.23#49",
+   "base": "name.”",
+   "A": "name.'1",
+   "B": "name.\"",
+   "by": "base",
+   "leaf": 252
+  },
+  {
+   "at": "^ch18.25#0",
+   "base": "",
+   "A": "• -A. /",
+   "B": "",
+   "by": "base",
+   "leaf": 253
+  },
+  {
+   "at": "ch18.26#16",
+   "base": "“OQ",
+   "A": ": \"O",
+   "B": "\"O",
+   "by": "witnesses",
+   "leaf": 256,
+   "out": "“O"
+  },
+  {
+   "at": "ch18.27#74",
+   "base": "“That,”",
+   "A": "\"That/3",
+   "B": "\"That/'",
+   "by": "base",
+   "leaf": 257
+  },
+  {
+   "at": "^ch18.27#86",
+   "base": "",
+   "A": "l",
+   "B": "",
+   "by": "base",
+   "leaf": 257
+  },
+  {
+   "at": "ch18.27#129",
+   "base": "husband.”",
+   "A": "husband/1",
+   "B": "husband.\"",
+   "by": "base",
+   "leaf": 257
+  },
+  {
+   "at": "ch18.28#0",
+   "base": "“That,",
+   "A": "cThat,",
+   "B": "\"That,",
+   "by": "base",
+   "leaf": 257
+  },
+  {
+   "at": "ch18.28#3",
+   "base": "well,’",
+   "A": "well/3",
+   "B": "well,\"",
+   "by": "base",
+   "leaf": 257
+  },
+  {
+   "at": "ch19.1#0",
+   "base": "Utysses",
+   "A": "ULYSSES",
+   "B": "25^ Ulysses",
+   "by": "read",
+   "leaf": 260,
+   "out": "ULYSSES",
+   "seen": "n260: small capitals ULYSSES"
+  },
+  {
+   "at": "ch19.7#46",
+   "base": "corn",
+   "A": "corn",
+   "B": "com",
+   "by": "base",
+   "leaf": 262
+  },
+  {
+   "at": "ch19.13#153",
+   "base": "own.”",
+   "A": "own/3",
+   "B": "own.\"",
+   "by": "base",
+   "leaf": 264
+  },
+  {
+   "at": "ch19.16#3",
+   "base": "said,”",
+   "A": "said/3",
+   "B": "said/'",
+   "by": "base",
+   "leaf": 265
+  },
+  {
+   "at": "ch19.18#33",
+   "base": "“Tt",
+   "A": "\"It",
+   "B": "''It",
+   "by": "witnesses",
+   "leaf": 265,
+   "out": "“It"
+  },
+  {
+   "at": "ch19.20#0",
+   "base": "6",
+   "A": "_ — QQ .^ r",
+   "B": "\"~1 D O",
+   "by": "read",
+   "leaf": 266,
+   "out": "",
+   "seen": "n266: the plate's running caption 'Bringing the Bow of Ulysses' set sideways, not text"
+  },
+  {
+   "at": "ch19.20#1",
+   "base": "ee)",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 265,
+   "out": ""
+  },
+  {
+   "at": "ch19.20#2",
+   "base": "elo",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 265,
+   "out": ""
+  },
+  {
+   "at": "ch19.20#3",
+   "base": "ta",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 266,
+   "out": ""
+  },
+  {
+   "at": "ch19.23#1",
+   "base": "Telemăchus",
+   "A": "Telem2chus",
+   "B": "Telemăchus",
+   "by": "base",
+   "leaf": 268
+  },
+  {
+   "at": "ch19.26#55",
+   "base": "?”",
+   "A": "?'",
+   "B": "",
+   "by": "base",
+   "leaf": 270
+  },
+  {
+   "at": "ch19.31#43",
+   "base": "young.”",
+   "A": "young.'3",
+   "B": "young.\"",
+   "by": "base",
+   "leaf": 271
+  },
+  {
+   "at": "ch19.32#42",
+   "base": "‘“",
+   "A": "",
+   "B": "",
+   "by": "base",
+   "leaf": 272
+  },
+  {
+   "at": "ch19.32#46",
+   "base": "isemme,",
+   "A": "is mine,",
+   "B": "is mine,",
+   "by": "witnesses",
+   "leaf": 272,
+   "out": "is mine,"
+  },
+  {
+   "at": "ch19.32#48",
+   "base": "J",
+   "A": "I",
+   "B": "I",
+   "by": "witnesses",
+   "leaf": 272,
+   "out": "I"
+  },
+  {
+   "at": "ch19.32#51",
+   "base": "at",
+   "A": "it",
+   "B": "it",
+   "by": "witnesses",
+   "leaf": 272,
+   "out": "it"
+  },
+  {
+   "at": "ch19.35#105",
+   "base": "Telemăchus:",
+   "A": "Telemăchus:",
+   "B": "TelemSichus:",
+   "by": "base",
+   "leaf": 273
+  },
+  {
+   "at": "ch19.35#122",
+   "base": "down.”",
+   "A": "down/3",
+   "B": "down.\"",
+   "by": "base",
+   "leaf": 273
+  },
+  {
+   "at": "ch20.1#0",
+   "base": "Utysses",
+   "A": "ULYSSES",
+   "B": "Ulysses",
+   "by": "witnesses",
+   "leaf": 276,
+   "out": "ULYSSES"
+  },
+  {
+   "at": "ch20.5#8",
+   "base": "two-",
+   "A": "two_",
+   "B": "twoedged",
+   "by": "base",
+   "leaf": 277
+  },
+  {
+   "at": "ch20.6#0",
+   "base": "iil",
+   "A": "/ z >",
+   "B": "",
+   "by": "read",
+   "leaf": 278,
+   "out": "",
+   "seen": "n278: the plate's sideways caption ('...aying the Suitors'), not text"
+  },
+  {
+   "at": "ch20.6#1",
+   "base": "SVAYING",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 277,
+   "out": ""
+  },
+  {
+   "at": "ch20.6#2",
+   "base": "OF",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 277,
+   "out": ""
+  },
+  {
+   "at": "ch20.6#3",
+   "base": "THE",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 278,
+   "out": ""
+  },
+  {
+   "at": "ch20.6#4",
+   "base": "SUITORS",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 280,
+   "out": ""
+  },
+  {
+   "at": "ch20.6#5",
+   "base": "edged",
+   "A": "edged",
+   "B": "",
+   "by": "base",
+   "leaf": 280
+  },
+  {
+   "at": "ch20.7#154",
+   "base": "open.”",
+   "A": "open/3",
+   "B": "open/*",
+   "by": "base",
+   "leaf": 281
+  },
+  {
+   "at": "ch20.7#312",
+   "base": "guest.”",
+   "A": "guest/3",
+   "B": "guest.\"",
+   "by": "base",
+   "leaf": 281
+  },
+  {
+   "at": "ch20.8#64",
+   "base": "“Go,”",
+   "A": "'Go/3",
+   "B": "\"Go,**",
+   "by": "base",
+   "leaf": 282
+  },
+  {
+   "at": "^ch20.8#72",
+   "base": "",
+   "A": "J:",
+   "B": "",
+   "by": "base",
+   "leaf": 282
+  },
+  {
+   "at": "ch21.1#0",
+   "base": "=P",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 282,
+   "out": ""
+  },
+  {
+   "at": "ch21.1#1",
+   "base": "LAST",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 282,
+   "out": ""
+  },
+  {
+   "at": "ch21.7#7",
+   "base": "nurse,”",
+   "A": "nurse/3",
+   "B": "nurse,\"",
+   "by": "base",
+   "leaf": 287
+  },
+  {
+   "at": "ch21.9#99",
+   "base": "best.”",
+   "A": "best/3",
+   "B": "best.\"",
+   "by": "base",
+   "leaf": 288
+  },
+  {
+   "at": "ch21.12#4",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "by": "base",
+   "leaf": 289
+  },
+  {
+   "at": "ch21.13#46",
+   "base": "‘This",
+   "A": "fThis",
+   "B": "'This",
+   "by": "base",
+   "leaf": 289
+  },
+  {
+   "at": "ch21.16#114",
+   "base": "—I",
+   "A": "- - 1",
+   "B": "I",
+   "by": "base",
+   "leaf": 292
+  },
+  {
+   "at": "^ch21.18#0",
+   "base": "",
+   "A": "another/1",
+   "B": "another.\"",
+   "by": "read",
+   "leaf": 292,
+   "out": "another.”",
+   "seen": "witnesses A and B: 'another.'; the paragraph's last line, dropped by the base"
+  },
+  {
+   "at": "ch22.1#0",
+   "base": "OF",
+   "A": "THE",
+   "B": "The",
+   "by": "witnesses",
+   "leaf": 296,
+   "out": "THE"
+  },
+  {
+   "at": "ch22.1#1",
+   "base": "LAERTES",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 292,
+   "out": ""
+  },
+  {
+   "at": "ch22.2#0",
+   "base": "Tue",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 292,
+   "out": ""
+  },
+  {
+   "at": "ch22.3#80",
+   "base": "lived,",
+   "A": "lived,",
+   "B": "livedo",
+   "by": "base",
+   "leaf": 297
+  },
+  {
+   "at": "ch22.4#134",
+   "base": "earth,",
+   "A": "earth,",
+   "B": "earthy",
+   "by": "base",
+   "leaf": 298
+  },
+  {
+   "at": "ch22.5#75",
+   "base": "whether",
+   "A": "wrhether",
+   "B": "whether",
+   "by": "base",
+   "leaf": 298
+  },
+  {
+   "at": "ch22.5#370",
+   "base": "—",
+   "A": "",
+   "B": "—",
+   "by": "base",
+   "leaf": 300
+  },
+  {
+   "at": "ch22.6#25",
+   "base": "m",
+   "A": "in",
+   "B": "in",
+   "by": "witnesses",
+   "leaf": 300,
+   "out": "in"
+  },
+  {
+   "at": "^ch22.6#93",
+   "base": "",
+   "A": "!",
+   "B": "I",
+   "by": "base",
+   "leaf": 300
+  },
+  {
+   "at": "ch22.7#39",
+   "base": "your",
+   "A": "vour",
+   "B": "your",
+   "by": "base",
+   "leaf": 301
+  },
+  {
+   "at": "^ch22.7#42",
+   "base": "",
+   "A": "o",
+   "B": "",
+   "by": "base",
+   "leaf": 301
+  },
+  {
+   "at": "ch22.9#26",
+   "base": "years,",
+   "A": "vears,",
+   "B": "years,",
+   "by": "base",
+   "leaf": 302
+  },
+  {
+   "at": "^ch22.9#29",
+   "base": "",
+   "A": "j",
+   "B": "",
+   "by": "base",
+   "leaf": 302
+  },
+  {
+   "at": "^ch22.11#0",
+   "base": "",
+   "A": "v",
+   "B": "",
+   "by": "base",
+   "leaf": 302
+  },
+  {
+   "at": "ch22.14#49",
+   "base": "down,",
+   "A": "clown,",
+   "B": "down,",
+   "by": "base",
+   "leaf": 304
+  },
+  {
+   "at": "ch22.14#50",
+   "base": "father,",
+   "A": "hither,",
+   "B": "father,",
+   "by": "base",
+   "leaf": 304
+  },
+  {
+   "at": "^ch22.17#0",
+   "base": "",
+   "A": "drink.1'",
+   "B": "drink.\"",
+   "by": "read",
+   "leaf": 304,
+   "out": "drink.”",
+   "seen": "witnesses A and B: 'drink.'; the paragraph's last line, dropped by the base"
+  },
+  {
+   "at": "ch23.1#0",
+   "base": "HOW",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 304,
+   "out": ""
+  },
+  {
+   "at": "ch23.1#1",
+   "base": "THERE",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 304,
+   "out": ""
+  },
+  {
+   "at": "ch23.1#2",
+   "base": "WAS",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 304,
+   "out": ""
+  },
+  {
+   "at": "ch23.1#3",
+   "base": "PEACE",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "out": ""
+  },
+  {
+   "at": "ch23.1#4",
+   "base": "BEI",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "out": ""
+  },
+  {
+   "at": "ch23.1#5",
+   "base": "Wiis",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 308,
+   "out": ""
+  },
+  {
+   "at": "ch23.1#6",
+   "base": "Ny",
+   "A": "",
+   "B": "",
+   "by": "witnesses",
+   "leaf": 308,
+   "out": ""
+  },
+  {
+   "at": "ch23.3#58",
+   "base": "each.",
+   "A": "3°3 rich. .Ail",
+   "B": "each.",
+   "by": "base",
+   "leaf": 308
+  },
+  {
+   "at": "ch23.3#59",
+   "base": "All",
+   "A": "",
+   "B": "All",
+   "by": "base",
+   "leaf": 308
+  },
+  {
+   "at": "ch23.3#62",
+   "base": "has",
+   "A": "his",
+   "B": "has",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#76",
+   "base": "back.",
+   "A": ":.i:k.",
+   "B": "back.",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#77",
+   "base": "Now,",
+   "A": "X:w.",
+   "B": "Now,",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#91",
+   "base": "themselves",
+   "A": "themfr/.es",
+   "B": "themselves",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#101",
+   "base": "It",
+   "A": "I:",
+   "B": "It",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#130",
+   "base": "free.",
+   "A": "fit-",
+   "B": "free.",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#134",
+   "base": "would",
+   "A": "w^uld",
+   "B": "would",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#147",
+   "base": "take",
+   "A": ":ike",
+   "B": "take",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.3#150",
+   "base": "escape.”",
+   "A": "escape/1",
+   "B": "escape.\"",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.4#35",
+   "base": "will",
+   "A": "-.v;ll",
+   "B": "will",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "^ch23.4#73",
+   "base": "",
+   "A": "f",
+   "B": "",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "^ch23.5#0",
+   "base": "",
+   "A": "Suite::",
+   "B": "Suitors.'*",
+   "by": "read",
+   "leaf": 309,
+   "out": "Suitors.”",
+   "seen": "witnesses A and B: 'Suitors.'; the paragraph's last line, dropped by the base"
+  },
+  {
+   "at": "ch23.5#41",
+   "base": "you",
+   "A": "vou s 3-4",
+   "B": "you",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.5#42",
+   "base": "sowed",
+   "A": "",
+   "B": "sowed",
+   "by": "base",
+   "leaf": 309
+  },
+  {
+   "at": "ch23.5#51",
+   "base": "you",
+   "A": "j",
+   "B": "you",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#60",
+   "base": "your",
+   "A": "u",
+   "B": "your",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#61",
+   "base": "sons",
+   "A": "-ons",
+   "B": "sons",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#68",
+   "base": "would",
+   "A": "uld",
+   "B": "would",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#72",
+   "base": "You",
+   "A": "offered",
+   "B": "You",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#73",
+   "base": "suffered",
+   "A": "",
+   "B": "suffered",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#75",
+   "base": "to",
+   "A": ";Ste",
+   "B": "to",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#76",
+   "base": "waste",
+   "A": "",
+   "B": "waste",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#78",
+   "base": "king's",
+   "A": "kiru ~",
+   "B": "king's",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#82",
+   "base": "make",
+   "A": "ma-:-.-",
+   "B": "make",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#83",
+   "base": "suit",
+   "A": "~uit",
+   "B": "suit",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#95",
+   "base": "would",
+   "A": "",
+   "B": "would",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#99",
+   "base": "See",
+   "A": "",
+   "B": "See",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#103",
+   "base": "Listen,",
+   "A": "n,",
+   "B": "Listen,",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.5#114",
+   "base": "vou",
+   "A": "you",
+   "B": "you",
+   "by": "witnesses",
+   "leaf": 310,
+   "out": "you"
+  },
+  {
+   "at": "ch23.6#0",
+   "base": "So",
+   "A": "",
+   "B": "So",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#8",
+   "base": "to",
+   "A": "",
+   "B": "to",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#22",
+   "base": "battle.",
+   "A": "battlr",
+   "B": "battle.",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#23",
+   "base": "So",
+   "A": ".c",
+   "B": "So",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#26",
+   "base": "themselves",
+   "A": "themseh .",
+   "B": "themselves",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#32",
+   "base": "Eupeithes.",
+   "A": "Eupeithe",
+   "B": "Eupeithes.",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#33",
+   "base": "Meanwhile",
+   "A": "Meanwh:",
+   "B": "Meanwhile",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#43",
+   "base": "is",
+   "A": "",
+   "B": "is",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#47",
+   "base": "father?",
+   "A": "fathe",
+   "B": "father?",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#49",
+   "base": "there",
+   "A": "therr",
+   "B": "there",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#66",
+   "base": "there",
+   "A": "thr :-",
+   "B": "there",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#68",
+   "base": "peace",
+   "A": "pea",
+   "B": "peace",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#71",
+   "base": "and",
+   "A": "ind",
+   "B": "and",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.6#73",
+   "base": "people?”",
+   "A": "peop",
+   "B": "people?\"",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#16",
+   "base": "that",
+   "A": "I at",
+   "B": "that",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#18",
+   "base": "has",
+   "A": "h",
+   "B": "has",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#20",
+   "base": "vengeance",
+   "A": "vengean.",
+   "B": "vengeance",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#22",
+   "base": "the",
+   "A": ": . Suit rs",
+   "B": "the",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#23",
+   "base": "Suitors:",
+   "A": "",
+   "B": "Suitors;",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#29",
+   "base": "peace",
+   "A": "p-. between   him",
+   "B": "peace",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#30",
+   "base": "between",
+   "A": "",
+   "B": "between",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#31",
+   "base": "him",
+   "A": "",
+   "B": "him",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#34",
+   "base": "people.",
+   "A": "peop.",
+   "B": "people.",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.7#40",
+   "base": "sons",
+   "A": "- us",
+   "B": "sons",
+   "by": "base",
+   "leaf": 310
+  },
+  {
+   "at": "ch23.11#33",
+   "base": "father.”",
+   "A": "father.5'",
+   "B": "father.\"",
+   "by": "base",
+   "leaf": 311
+  },
+  {
+   "at": "ch23.12#1",
+   "base": "Telemăchus",
+   "A": "Telemfu hus",
+   "B": "TclemSchus",
+   "by": "read",
+   "leaf": 312,
+   "out": "Telemăchus",
+   "seen": "n312: And Telemăchus said"
+  },
+  {
+   "at": "ch23.12#5",
+   "base": "he",
+   "A": "lie",
+   "B": "he",
+   "by": "base",
+   "leaf": 312
+  },
+  {
+   "at": "ch23.12#11",
+   "base": "was",
+   "A": "\\vas",
+   "B": "was",
+   "by": "base",
+   "leaf": 312
+  },
+  {
+   "at": "ch23.12#36",
+   "base": "father’s",
+   "A": "lathei^ father.\"",
+   "B": "father's father/'",
+   "by": "read",
+   "leaf": 312,
+   "out": "father’s father.”",
+   "seen": "n312: my father and my father’s father.”"
+  },
+  {
+   "at": "ch23.13#39",
+   "base": "battle.”",
+   "A": "battle.'1",
+   "B": "battle.\"",
+   "by": "base",
+   "leaf": 312
+  },
+  {
+   "at": "ch23.15#91",
+   "base": "irom",
+   "A": "from",
+   "B": "from",
+   "by": "witnesses",
+   "leaf": 312,
+   "out": "from"
+  }
+ ]
+}

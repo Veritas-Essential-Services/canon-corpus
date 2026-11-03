@@ -1727,26 +1727,26 @@
   "title": "The Iliad for Boys and Girls",
   "author": "Alfred J. Church",
   "format": "unscanner",
-  "sha256": "d48108d4bb1e99d8776f29ab8ef370c3da936262945a44c43fcbd34831450e4e",
-  "units": 374,
+  "sha256": "694593b16d1cb0763fe6ef7c87d48033cc32f1af7f5273a122464cd1e6d4fa5b",
+  "units": 371,
   "scheme": {
-   "apparatus": "re-OCR'd from the scan with layout: paragraphs from printed indentation, headings from size and centring, folios and running heads removed by position and recurrence, margin hyphens rejoined by the book's own spellings; italic and small capitals measured from the ink; 24 unsure words mended from the Archive's own OCR (a second witness) where the book attests that reading elsewhere",
+   "apparatus": "re-OCR'd from the scan with layout: paragraphs from printed indentation, headings from size and centring, folios and running heads removed by position and recurrence, margin hyphens rejoined by the book's own spellings; italic and small capitals measured from the ink; 24 unsure words mended from the Archive's own OCR (a second witness) where the book attests that reading elsewhere; then COLLATED word by word against 3 OCR readings of the same and other pre-1931 printings (A iliadforboysgirl00chur_0, B iliadforboysand00homegoog, C bwb_Y0-BOA-876): 93 places take the witnesses' shared reading, 20 are read on the page image, 247 keep the base; names in their printed marked forms; footnotes taken out of the running text into the paragraph's notes (data/unscanned/README.md)",
    "citation": "chapter + paragraph",
    "resolution": "paragraph",
-   "honesty": "UNPROOFREAD OCR (tesseract) of a library scan (archive.org iliadforboysgirl00chur_0), mean word confidence 93.69: misreadings stand; paragraph breaks are read from indentation, so a paragraph ending exactly at a page's foot is detected by the next page's indent; each unit names its scan pages and printed page labels"
+   "honesty": "COLLATED OCR, not proofread line by line: a misreading every scan shares stands, and stops and commas are the base OCR's (only words, case and quotation marks are voted); 3 units that held only a heading, a footnote (now in its paragraph's notes) or plate junk are dropped, every other id kept; each unit names its scan pages and printed page labels"
   }
  },
  "church-odyssey-boys": {
   "title": "The Odyssey for Boys and Girls",
   "author": "Alfred J. Church",
   "format": "unscanner",
-  "sha256": "0ff9026e0d3b750aa4f6ba0e54d1b1455549ca224aff209bf7f285d2bf475786",
-  "units": 436,
+  "sha256": "ca3e07a75c2b0e6f588fe474fa017e6ea17d1007811677b445c1d6fed6c63e74",
+  "units": 428,
   "scheme": {
-   "apparatus": "re-OCR'd from the scan with layout: paragraphs from printed indentation, headings from size and centring, folios and running heads removed by position and recurrence, margin hyphens rejoined by the book's own spellings; italic and small capitals measured from the ink; 51 unsure words mended from the Archive's own OCR (a second witness) where the book attests that reading elsewhere",
+   "apparatus": "re-OCR'd from the scan with layout: paragraphs from printed indentation, headings from size and centring, folios and running heads removed by position and recurrence, margin hyphens rejoined by the book's own spellings; italic and small capitals measured from the ink; 51 unsure words mended from the Archive's own OCR (a second witness) where the book attests that reading elsewhere; then COLLATED word by word against 2 OCR readings of the same and other pre-1931 printings (A odysseyforboysgi00chur, B odysseyforboysa00unkngoog): 60 places take the witnesses' shared reading, 17 are read on the page image, 288 keep the base; names in their printed marked forms; footnotes taken out of the running text into the paragraph's notes (data/unscanned/README.md)",
    "citation": "chapter + paragraph",
    "resolution": "paragraph",
-   "honesty": "UNPROOFREAD OCR (tesseract) of a library scan (archive.org odysseyforboysgi00chur), mean word confidence 93.28: misreadings stand; paragraph breaks are read from indentation, so a paragraph ending exactly at a page's foot is detected by the next page's indent; each unit names its scan pages and printed page labels"
+   "honesty": "COLLATED OCR, not proofread line by line: a misreading every scan shares stands, and stops and commas are the base OCR's (only words, case and quotation marks are voted); 8 units that held only a heading, a footnote (now in its paragraph's notes) or plate junk are dropped, every other id kept; each unit names its scan pages and printed page labels"
   }
  },
  "brewer": {
