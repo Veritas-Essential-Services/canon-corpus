@@ -1,0 +1,50 @@
+{
+ "_about": "Samuel Daniel. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Samuel Daniel",
+ "_name_words": [
+  "samuel",
+  "daniel"
+ ],
+ "_surname": [
+  "daniel",
+  "samuel daniel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "daniel-poems-defence-ryme": [
+   "poemsanddefenceo1930dani",
+   "Poems and A Defence of Ryme, ed. Arthur Colby Sprague"
+  ]
+ },
+ "_rights_checked": {
+  "daniel-poems-defence-ryme": "Bloom addition 2026-11-03: 1930 (title page: 'Cambridge, Harvard University Press, 1930 / Copyright, 1930'). Read title page and copyright line; Wellesley copy, collection americana (not lending)."
+ },
+ "_bloom": {
+  "daniel-poems-defence-ryme": {
+   "bloom_n": [
+    160,
+    161
+   ],
+   "bloom_title": "Poems",
+   "year": "1930 (title page: 'Cambridge, Harvard University Press, 1930 / Copyright, 1930')",
+   "evidence": "Read title page and copyright line; Wellesley copy, collection americana (not lending).",
+   "case": "Sprague's edition carries exactly Bloom's two Daniel titles; 1930 is PD as of 2026.",
+   "note": "Grosart's Complete Works (1885, 5 vols) is the full alternative."
+  }
+ },
+ "_checks": {
+  "daniel-poems-defence-ryme": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "daniel",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1930 (title page: 'Cambridge, Harvard University Press, 1930 / Copyright, 1930'). Read title page and copyright line; Wellesley copy, collection americana (not lending)."
+  }
+ }
+}
