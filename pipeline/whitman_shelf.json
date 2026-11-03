@@ -1,5 +1,5 @@
 {
- "_about": "Walt Whitman, Leaves of Grass (the 1891-92 deathbed edition as Gutenberg gives it). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "Walt Whitman, Leaves of Grass (the 1891-92 deathbed edition as Gutenberg gives it). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): whitman-complete-prose-works.",
  "_author": "Walt Whitman",
  "_name_words": [
   "walt",
@@ -13,6 +13,10 @@
   "whitman-leaves-of-grass": [
    1322,
    "Leaves of Grass (1891-92)"
+  ],
+  "whitman-complete-prose-works": [
+   8813,
+   "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy"
   ]
  },
  "internet_archive": {},
@@ -20,12 +24,33 @@
  "_checks": {
   "whitman-leaves-of-grass": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "whitman",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "whitman-complete-prose-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "whitman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_bloom": {
+  "whitman-complete-prose-works": {
+   "bloom_n": [
+    624
+   ],
+   "bloom_title": "Specimen Days",
+   "year": "unread",
+   "evidence": "PG header read",
+   "case": "Specimen Days leads off Whitman's Complete Prose Works on PG; not held.",
+   "note": ""
   }
  }
 }
