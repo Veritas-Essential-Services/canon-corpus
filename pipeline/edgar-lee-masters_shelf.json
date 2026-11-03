@@ -1,0 +1,44 @@
+{
+ "_about": "Edgar Lee Masters. Bloom's Western Canon (1994) lists: Spoon River Anthology. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Edgar Lee Masters",
+ "_name_words": [
+  "edgar",
+  "lee",
+  "masters"
+ ],
+ "_surname": [
+  "masters",
+  "edgar lee masters"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "masters-spoon-river-anthology": [
+   1280,
+   "Spoon River Anthology"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "masters-spoon-river-anthology": {
+   "bloom_n": [
+    1259
+   ],
+   "bloom_title": "Spoon River Anthology",
+   "year": "unread",
+   "evidence": "PG header read; no copyright notice",
+   "case": "Bloom lists Spoon River Anthology (1915). PG has it.",
+   "note": "PG 26471 is a second Spoon River edition (unread) -- the 1916 enlarged edition may be preferable; check before fetching."
+  }
+ },
+ "_checks": {
+  "masters-spoon-river-anthology": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "masters",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
