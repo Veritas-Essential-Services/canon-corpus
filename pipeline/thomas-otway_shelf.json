@@ -1,0 +1,43 @@
+{
+ "_about": "Thomas Otway. Bloom's Western Canon (1994) lists: Venice Preserv'd. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Otway",
+ "_name_words": [
+  "thomas",
+  "otway"
+ ],
+ "_surname": [
+  "otway",
+  "thomas otway"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "otway": [
+   46605,
+   "Thomas Otway (Mermaid Series), ed. Roden Noel"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "otway": {
+   "bloom_n": [
+    205
+   ],
+   "bloom_title": "Venice Preserv'd",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Mermaid Otway contains Venice Preserv'd and The Orphan.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "otway": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "otway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
