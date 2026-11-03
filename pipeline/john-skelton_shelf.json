@@ -1,0 +1,66 @@
+{
+ "_about": "John Skelton. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Skelton",
+ "_name_words": [
+  "john",
+  "skelton"
+ ],
+ "_surname": [
+  "skelton",
+  "john skelton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "skelton-poetical-works": [
+   59997,
+   "The Poetical Works of John Skelton, Volume 1 (of 2)"
+  ],
+  "skelton-poetical-works-2": [
+   59998,
+   "The Poetical Works of John Skelton, Volume 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "skelton-poetical-works": {
+   "bloom_n": [
+    147
+   ],
+   "bloom_title": "Poems",
+   "year": "1843 (preface dated 'London, Gray's Inn, Nov. 1st, 1843' in PG text)",
+   "evidence": "PG header: Editor Alexander Dyce.",
+   "case": "Dyce's 1843 Poetical Works is the classic complete Skelton.",
+   "note": "Held 'skelton' shelf is Philip Skelton (an 18th-c. divine), not John."
+  },
+  "skelton-poetical-works-2": {
+   "bloom_n": [
+    147
+   ],
+   "bloom_title": "Poems",
+   "year": "1843 (same edition)",
+   "evidence": "PG catalogue.",
+   "case": "Dyce's 1843 Poetical Works is the classic complete Skelton.",
+   "note": "Held 'skelton' shelf is Philip Skelton (an 18th-c. divine), not John."
+  }
+ },
+ "_checks": {
+  "skelton-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "skelton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "skelton-poetical-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "skelton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
