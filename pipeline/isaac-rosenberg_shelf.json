@@ -1,0 +1,43 @@
+{
+ "_about": "Isaac Rosenberg. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Isaac Rosenberg",
+ "_name_words": [
+  "isaac",
+  "rosenberg"
+ ],
+ "_surname": [
+  "rosenberg",
+  "isaac rosenberg"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rosenberg-poems": [
+   66889,
+   "Poems by Isaac Rosenberg, selected and edited by Gordon Bottomley, with an introductory memoir by Laurence Binyon"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "rosenberg-poems": {
+   "bloom_n": [
+    896
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1922 (title page, London: William Heinemann)",
+   "evidence": "PG header and title page read",
+   "case": "Bloom lists Rosenberg's Collected Poems. The 1922 Heinemann Poems, his first collection, is US-PD and on PG.",
+   "note": "The 1937 and 1979 collected editions add material and are NOT PD."
+  }
+ },
+ "_checks": {
+  "rosenberg-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rosenberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
