@@ -1,0 +1,51 @@
+{
+ "_about": "Miguel de Unamuno. Bloom's Western Canon (1994) lists: Our Lord Don Quixote. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Miguel de Unamuno",
+ "_name_words": [
+  "miguel",
+  "de",
+  "unamuno"
+ ],
+ "_surname": [
+  "unamuno",
+  "miguel de unamuno"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "unamuno-life-don-quixote-sancho": [
+   "lifeofdonquixote0000unse_1927",
+   "The Life of Don Quixote and Sancho according to Miguel de Cervantes Saavedra, expounded with comment by Miguel de Unamuno"
+  ]
+ },
+ "_translators": {
+  "unamuno-life-don-quixote-sancho": "Earle"
+ },
+ "_bloom": {
+  "unamuno-life-don-quixote-sancho": {
+   "bloom_n": [
+    716
+   ],
+   "bloom_title": "Our Lord Don Quixote",
+   "year": "1927 (title page: New York & London, Alfred A. Knopf, 1927; 'Copyright 1927')",
+   "evidence": "djvu title page and contents read; collection marygrovecollege/internetarchivebooks/americana",
+   "case": "Bloom's 'Our Lord Don Quixote' is the Bollingen volume built round Vida de Don Quijote y Sancho. Earle's 1927 Knopf translation of that book is PD and on IA.",
+   "note": "The Bollingen volume adds essays not in Earle; those aren't covered. Second copy: lifeofdonquixote0000migu_o2k7."
+  }
+ },
+ "_checks": {
+  "unamuno-life-don-quixote-sancho": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "unamuno",
+   "translator_claimed": "Earle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
