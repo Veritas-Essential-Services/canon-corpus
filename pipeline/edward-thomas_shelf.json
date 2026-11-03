@@ -1,0 +1,69 @@
+{
+ "_about": "Edward Thomas. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Edward Thomas",
+ "_name_words": [
+  "edward",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas",
+  "edward thomas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thomas-poems": [
+   22423,
+   "Poems"
+  ]
+ },
+ "internet_archive": {
+  "thomas-collected-poems": [
+   "collectedpoemswi00thomuoft",
+   "Collected Poems, with a foreword by Walter de la Mare"
+  ]
+ },
+ "_bloom": {
+  "thomas-collected-poems": {
+   "bloom_n": [
+    897
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1920 (IA metadata; title page not read past the list of the author's books)",
+   "evidence": "Read the front matter; University of Toronto copy.",
+   "case": "Bloom lists Edward Thomas's Collected Poems; the 1920 Selwyn & Blount Collected Poems is US-PD.",
+   "note": "PG 22423 Poems (1917) + 22732 Last Poems (1918) together are nearly the same corpus and are cleaner text."
+  },
+  "thomas-poems": {
+   "bloom_n": [
+    897
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1917 (PG text: 'First printed, Oct., 1917')",
+   "evidence": "PG header read",
+   "case": "Bloom lists Edward Thomas's Collected Poems; the 1920 Selwyn & Blount Collected Poems is US-PD.",
+   "note": "PG 22423 Poems (1917) + 22732 Last Poems (1918) together are nearly the same corpus and are cleaner text."
+  }
+ },
+ "_checks": {
+  "thomas-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thomas-collected-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
