@@ -1,0 +1,50 @@
+{
+ "_about": "Italo Svevo. Bloom's Western Canon (1994) lists: The Confession of Zeno. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Italo Svevo",
+ "_name_words": [
+  "italo",
+  "svevo"
+ ],
+ "_surname": [
+  "svevo",
+  "italo svevo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "svevo-confessions-zeno": [
+   79453,
+   "Confessions of Zeno",
+   "tr. Beryl de Zoete"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "svevo-confessions-zeno": "Zoete"
+ },
+ "_bloom": {
+  "svevo-confessions-zeno": {
+   "bloom_n": [
+    703
+   ],
+   "bloom_title": "The Confession of Zeno",
+   "year": "1930 (PG front matter: 'Copyright 1930 by Alfred A. Knopf, Inc.'; PG header 'Original publication: New York: New Directions/Alfred A. Knopf, 1930')",
+   "evidence": "PG header and copyright line read",
+   "case": "De Zoete's 1930 Knopf translation predates the 1931 line; PG has it.",
+   "note": "PG lists Renato Poggioli as commentator, so the source copy may be a later New Directions printing with Poggioli's note (that note is post-1931). Ship the translation and drop or check the Poggioli matter."
+  }
+ },
+ "_checks": {
+  "svevo-confessions-zeno": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "svevo",
+   "translator_claimed": "Zoete",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beryl De Zoete",
+   "translator_match": true
+  }
+ }
+}
