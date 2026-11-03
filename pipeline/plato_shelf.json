@@ -344,6 +344,10 @@
   "plato-archer-hind-timaeus-1888": [
    "timaeusofplato00platiala",
    "The Timaeus of Plato, edited with introduction, notes and translation by R. D. Archer-Hind (London: Macmillan, 1888); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "plato-shorey-republic-v2": [
+   "republicshorey02platuoft",
+   "Plato, The Republic, with an English translation by Paul Shorey, vol. II: Books VI-X (Loeb; first published 1935; this scan the 1942 printing, title page MCMXLII); Greek facing"
   ]
  },
  "_excluded": {
@@ -354,7 +358,7 @@
   "pg29441": "Project Gutenberg Works of Plato: An Index (an index page, not a text)",
   "pg13726": "Apology, Crito and Phaedo of Socrates: Henry Cary translation, not Jowett",
   "Seventh Letter and the Epistles": "Jowett did not translate the Epistles in the Dialogues; not on this shelf",
-  "tlg0059.tlg030.perseus-eng2 (Shorey, Republic)": "Paul Shorey's Loeb Republic: vol. 1 1930, vol. 2 1935; the one Perseus file holds both books and its sourceDesc dates it 1935-37 printings, so it is after the 1930 line as a whole. Not taken; Jowett's, Taylor's and Davis's (Bohn) Republics are held"
+  "tlg0059.tlg030.perseus-eng2 (Shorey, Republic)": "Paul Shorey's Loeb Republic: vol. 1 1930, vol. 2 1935; the one Perseus file holds both books and its sourceDesc dates it 1935-37 printings, so it is after the 1930 line as a whole. Not taken; Jowett's, Taylor's and Davis's (Bohn) Republics are held -- 2026-11-03: vol. II (1935) is US PD by non-renewal and is now shelved from IA (plato-shorey-republic-v2); vol. I (1930) is PD by date and the Perseus file of both is on main via PR #7."
  },
  "_cross_ref": {
   "plato-republic": "already held on pipeline/adler_shelf.json as plato-republic (PG 1497, the same Jowett text); not refetched, never a second uid",
@@ -458,12 +462,13 @@
   "plato-paley-philebus-1879": "Paley",
   "plato-mackay-sophistes-1868": "r. w. mackay",
   "plato-jowett-1892-v2-pg": "Jowett",
-  "plato-archer-hind-timaeus-1888": "Archer-Hind"
+  "plato-archer-hind-timaeus-1888": "Archer-Hind",
+  "plato-shorey-republic-v2": "Shorey"
  },
  "_checks": {
   "plato-charmides": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -475,7 +480,7 @@
   },
   "plato-lysis": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -487,7 +492,7 @@
   },
   "plato-laches": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -499,7 +504,7 @@
   },
   "plato-protagoras": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -511,7 +516,7 @@
   },
   "plato-euthydemus": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -523,7 +528,7 @@
   },
   "plato-cratylus": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -535,7 +540,7 @@
   },
   "plato-phaedrus": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -547,7 +552,7 @@
   },
   "plato-ion": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -559,7 +564,7 @@
   },
   "plato-symposium": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -571,7 +576,7 @@
   },
   "plato-meno": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -583,7 +588,7 @@
   },
   "plato-euthyphro": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -595,7 +600,7 @@
   },
   "plato-crito": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -607,7 +612,7 @@
   },
   "plato-phaedo": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -619,7 +624,7 @@
   },
   "plato-gorgias": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -631,7 +636,7 @@
   },
   "plato-lesser-hippias": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -643,7 +648,7 @@
   },
   "plato-alcibiades-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -654,7 +659,7 @@
   },
   "plato-menexenus": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -666,7 +671,7 @@
   },
   "plato-alcibiades-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "identity": "ok",
@@ -675,7 +680,7 @@
   },
   "plato-eryxias": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "identity": "ok",
@@ -684,7 +689,7 @@
   },
   "plato-timaeus": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -696,7 +701,7 @@
   },
   "plato-critias": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -708,7 +713,7 @@
   },
   "plato-parmenides": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -720,7 +725,7 @@
   },
   "plato-theaetetus": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -732,7 +737,7 @@
   },
   "plato-sophist": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -744,7 +749,7 @@
   },
   "plato-statesman": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -756,7 +761,7 @@
   },
   "plato-philebus": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -768,7 +773,7 @@
   },
   "plato-laws": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Benjamin Jowett",
@@ -780,7 +785,7 @@
   },
   "plato-bohn-cary-v1-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Henry Cary",
@@ -792,7 +797,7 @@
   },
   "plato-bohn-davis-v2-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Henry Davis",
@@ -804,7 +809,7 @@
   },
   "plato-shelley-prose-works-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Percy Bysshe Shelley",
@@ -815,7 +820,7 @@
   },
   "plato-jowett-1892-v2-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Jowett",
@@ -827,7 +832,7 @@
   },
   "plato-jowett-1892-v1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "B. Jowett",
@@ -840,7 +845,7 @@
   },
   "plato-jowett-1892-v2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "B. Jowett",
@@ -853,7 +858,7 @@
   },
   "plato-jowett-1892-v3": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "B. Jowett",
@@ -866,7 +871,7 @@
   },
   "plato-jowett-1892-v4": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "B. Jowett",
@@ -879,7 +884,7 @@
   },
   "plato-jowett-1892-v5": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "B. Jowett",
@@ -892,7 +897,7 @@
   },
   "plato-bohn-v1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Henry Cary",
@@ -905,7 +910,7 @@
   },
   "plato-bohn-v2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Henry Davis",
@@ -918,7 +923,7 @@
   },
   "plato-bohn-v3": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "George Burges",
@@ -931,7 +936,7 @@
   },
   "plato-bohn-v4": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "George Burges",
@@ -944,7 +949,7 @@
   },
   "plato-bohn-v5": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "George Burges",
@@ -957,7 +962,7 @@
   },
   "plato-bohn-v6": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "George Burges",
@@ -970,7 +975,7 @@
   },
   "plato-taylor-1804-v1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Thomas Taylor",
@@ -983,7 +988,7 @@
   },
   "plato-taylor-1804-v2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Thomas Taylor",
@@ -996,7 +1001,7 @@
   },
   "plato-taylor-1804-v3": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Thomas Taylor",
@@ -1009,7 +1014,7 @@
   },
   "plato-taylor-1804-v4": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Thomas Taylor",
@@ -1022,7 +1027,7 @@
   },
   "plato-taylor-1804-v5": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Thomas Taylor",
@@ -1035,7 +1040,7 @@
   },
   "plato-davies-vaughan-republic-1892": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "John Llewelyn Davies",
@@ -1048,7 +1053,7 @@
   },
   "plato-whewell-v1-1860": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "William Whewell",
@@ -1061,7 +1066,7 @@
   },
   "plato-whewell-v2-1860": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "William Whewell",
@@ -1074,7 +1079,7 @@
   },
   "plato-whewell-v3-1861": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "William Whewell",
@@ -1087,7 +1092,7 @@
   },
   "plato-spens-republic-everyman": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Harry Spens",
@@ -1100,7 +1105,7 @@
   },
   "plato-church-trial-death-1903": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "F. J. Church",
@@ -1113,7 +1118,7 @@
   },
   "plato-lindsay-republic-1923": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Lindsay",
@@ -1126,7 +1131,7 @@
   },
   "plato-cope-gorgias-1864": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "E. M. Cope",
@@ -1139,7 +1144,7 @@
   },
   "plato-cope-phaedo-1875": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "e. m. cope",
@@ -1152,7 +1157,7 @@
   },
   "plato-wright-phaedrus-lysis-protagoras-1888": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "J. Wright",
@@ -1165,7 +1170,7 @@
   },
   "plato-dyde-theaetetus-1899": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "S. W. Dyde",
@@ -1178,7 +1183,7 @@
   },
   "plato-mason-talks-1891": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "identity": "ok",
@@ -1189,7 +1194,7 @@
   },
   "plato-paley-philebus-1879": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Paley",
@@ -1202,7 +1207,7 @@
   },
   "plato-mackay-sophistes-1868": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "r. w. mackay",
@@ -1215,7 +1220,7 @@
   },
   "plato-archer-hind-timaeus-1888": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "plato",
    "translator_claimed": "Archer-Hind",
@@ -1225,6 +1230,20 @@
    "ia_date": "1888",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "plato-shorey-republic-v2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Shorey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1935",
+   "ia_date": "1935",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null,
+   "rights_override": "1935 book, US PD by non-renewal (see _nonrenewal). The scan is the 1942 printing (title page read: 'Cambridge, Massachusetts, Harvard University Press; London, William Heinemann, MCMXLII'), a reprint with the 1935 Prefatory Note on Shorey's death; no revision notice. Shorey was American (University of Chicago) and the Loeb imprint is Cambridge, Mass. and London together, so no URAA restoration."
   }
  },
  "_translator_unchecked": {
@@ -2152,5 +2171,17 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_rights_checked": {
+  "plato-shorey-republic-v2": "1935 book, US PD by non-renewal (see _nonrenewal). The scan is the 1942 printing (title page read: 'Cambridge, Massachusetts, Harvard University Press; London, William Heinemann, MCMXLII'), a reprint with the 1935 Prefatory Note on Shorey's death; no revision notice. Shorey was American (University of Chicago) and the Loeb imprint is Cambridge, Mass. and London together, so no URAA restoration."
+ },
+ "_nonrenewal": {
+  "plato-shorey-republic-v2": {
+   "book": "Shorey, Plato: The Republic, vol. II (Loeb, 1935)",
+   "checked": "2026-11-03: renewal_check.py (NYPL cce-renewals, all renewals 1950-1991) run as '<surname> <title>', --title-only and --surname: no renewal of this book; every candidate read, none is it. Adam's ruling 2026-11-03: 'I want everything that was not renewed' (docs/NONRENEWAL-SWEEP.md).",
+   "renewal_found": null,
+   "uraa": "American translator; simultaneous US (Cambridge, Mass.) and London imprint",
+   "title_page": "read 2026-11-03 (1942 printing)"
+  }
  }
 }

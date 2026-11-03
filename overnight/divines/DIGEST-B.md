@@ -354,3 +354,12 @@ Bloom's list checked against every branch (`docs/review/bloom/2026-10-27-bloom-c
 ## 2026-11-03: Perseus rows that PR #7 already covers, dropped
 
 PR #7 is merged to main and its `PERSEUS` manifest fetches the same texts. So the 190 rows listed in `overnight/divines/OVERLAP-B-PR7.tsv` came off 17 Lane B shelves. Every one of the 190 tails was checked: it appears in main's `pipeline/fetch_sources.py`, and it matched its shelf row before removal. Each shelf records what it dropped under `_perseus_on_main`. The apollodorus shelf is now empty, because Frazer's Apollodorus is on main. The file is kept as that pointer. The divines maps still list the old rows until they are next regenerated.
+
+## 2026-11-03 evening: unrenewed Loebs (Adam: "I want everything that was not renewed")
+
+The non-renewal sweep thread flagged three Lane B exclusions. I checked each one offline with `renewal_check.py` (author+title, `--title-only` and `--surname`) and found no renewal for any of them. All three are now shelved, and their evidence is under `_nonrenewal` and `_rights_checked`:
+
+- **Shorey, Republic vol. II (1935):** plato-shorey-republic-v2, IA republicshorey02platuoft. The scan is the 1942 printing, with no revision notice.
+- **Nixon, Plautus vol. IV (1932) and vol. V (1938):** plautus-nixon-v4 and -v5 on roman-comedy. Both are first printings from Digital Library of India. The Nixon Plautus is now complete.
+
+Both translators were American, and the title pages carry a US imprint (Putnam New York, Harvard Cambridge) beside the London one. One thing is recorded for you: both Plautus volumes say "Printed in Great Britain".
