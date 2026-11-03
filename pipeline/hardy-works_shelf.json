@@ -1,5 +1,5 @@
 {
- "_about": "Thomas Hardy's Wessex novels, stories, poems and The Dynasts not already on another shelf (the reading-list hardy shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_about": "Thomas Hardy's Wessex novels, stories, poems and The Dynasts not already on another shelf (the reading-list hardy shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated. Bloom addition 2026-11-03 (Bloom's Western Canon): hardy-human-shows, hardy-winter-words-various-moods.",
  "_author": "Thomas Hardy",
  "_name_words": [
   "hardy"
@@ -118,7 +118,16 @@
    "Late Lyrics and Earlier, With Many Other Verses"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hardy-human-shows": [
+   "humanshowsfarpha0000hard",
+   "Human Shows, Far Phantasies, Songs, and Trifles"
+  ],
+  "hardy-winter-words-various-moods": [
+   "winterwordsinvar0000hard",
+   "Winter Words in Various Moods and Metres"
+  ]
+ },
  "_excluded": {
   "pg-58250": "PG 58250: Gutenberg's index of the author's works, not a book.",
   "repeat-editions": "PG 17500: second Gutenberg editions of titles already on the shelf.",
@@ -128,7 +137,7 @@
  "_checks": {
   "thardy-return-of-the-native": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -137,7 +146,7 @@
   },
   "thardy-mayor-of-casterbridge": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -146,7 +155,7 @@
   },
   "thardy-jude-the-obscure": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -155,7 +164,7 @@
   },
   "thardy-a-pair-of-blue-eyes": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -164,7 +173,7 @@
   },
   "thardy-woodlanders": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -173,7 +182,7 @@
   },
   "thardy-under-the-greenwood-tree": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -182,7 +191,7 @@
   },
   "thardy-satires-of-circumstance-lyrics-and-reveries-with-misc": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -191,7 +200,7 @@
   },
   "thardy-trumpet-major": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -200,7 +209,7 @@
   },
   "thardy-romantic-adventures-of-a-milkmaid": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -209,7 +218,7 @@
   },
   "thardy-times-laughingstocks-and-other-verses": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -218,7 +227,7 @@
   },
   "thardy-desperate-remedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -227,7 +236,7 @@
   },
   "thardy-lifes-little-ironies-a-set-of-tales-with-some-colloqu": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -236,7 +245,7 @@
   },
   "thardy-a-group-of-noble-dames": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -245,7 +254,7 @@
   },
   "thardy-wessex-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -254,7 +263,7 @@
   },
   "thardy-a-changed-man-and-other-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -263,7 +272,7 @@
   },
   "thardy-two-on-a-tower": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -272,7 +281,7 @@
   },
   "thardy-wessex-poems-and-other-verses": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -281,7 +290,7 @@
   },
   "thardy-poems-of-the-past-and-the-present": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -290,7 +299,7 @@
   },
   "thardy-moments-of-vision-and-miscellaneous-verses": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -299,7 +308,7 @@
   },
   "thardy-a-laodicean": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -308,7 +317,7 @@
   },
   "thardy-well-beloved": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -317,7 +326,7 @@
   },
   "thardy-hand-of-ethelberta": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -326,7 +335,7 @@
   },
   "thardy-dynasts": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
@@ -335,12 +344,56 @@
   },
   "thardy-late-lyrics-and-earlier-with-many-other-verses": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "hardy-human-shows": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hardy-winter-words-various-moods": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "hardy-human-shows": {
+   "bloom_n": [
+    869
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1925 (title page: London, Macmillan 1925)",
+   "evidence": "Read title page and contents; Trent University copy, not lending.",
+   "case": "Bloom lists Hardy's Collected Poems. We hold six of his eight verse collections; these two (1925 and 1928, both US-PD) complete it.",
+   "note": "Alternative single volume: bwb_S0-CJE-644, Collected Poems (New York, Macmillan 1928 reprint of the 1926 'New Complete American Edition'), which runs through Human Shows but not Winter Words."
+  },
+  "hardy-winter-words-various-moods": {
+   "bloom_n": [
+    869
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1928 (title page: London, Macmillan 1928)",
+   "evidence": "Read title page and the editorial note on the posthumous volume; Trent copy, not lending.",
+   "case": "Bloom lists Hardy's Collected Poems. We hold six of his eight verse collections; these two (1925 and 1928, both US-PD) complete it.",
+   "note": "Alternative single volume: bwb_S0-CJE-644, Collected Poems (New York, Macmillan 1928 reprint of the 1926 'New Complete American Edition'), which runs through Human Shows but not Winter Words."
   }
  }
 }
