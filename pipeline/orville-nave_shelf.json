@@ -1,0 +1,38 @@
+{
+ "_about": "Orville J. Nave (1841-1917), Nave's Topical Bible; from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. Pre-1930 printing, US public domain.",
+ "_name_words": [
+  "nave",
+  "orville j. nave"
+ ],
+ "_surname": [
+  "nave"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nave-topical-bible": [
+   "topicalbibledige00naveuoft",
+   "Nave's Topical Bible: A Digest of the Holy Scriptures (Lincoln, Neb.: Topical Bible Publishing Co., 1903)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nave-topical-bible": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "nave",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
