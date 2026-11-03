@@ -1,0 +1,42 @@
+{
+ "_about": "John Gay. Bloom's Western Canon (1994) lists: The Beggar's Opera. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Gay",
+ "_name_words": [
+  "gay"
+ ],
+ "_surname": [
+  "john gay",
+  "gay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gay-beggar-opera": [
+   2421,
+   "The Beggar's Opera"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "gay-beggar-opera": {
+   "bloom_n": [
+    214
+   ],
+   "bloom_title": "The Beggar's Opera",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "gay-beggar-opera": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "john gay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
