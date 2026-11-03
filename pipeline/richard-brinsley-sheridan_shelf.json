@@ -1,0 +1,67 @@
+{
+ "_about": "Richard Brinsley Sheridan. Bloom's Western Canon (1994) lists: The Rivals; The School of Scandal. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Richard Brinsley Sheridan",
+ "_name_words": [
+  "richard",
+  "brinsley",
+  "sheridan"
+ ],
+ "_surname": [
+  "sheridan",
+  "richard brinsley sheridan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sheridan-school-for-scandal": [
+   1929,
+   "The School for Scandal"
+  ],
+  "sheridan-rivals": [
+   24761,
+   "The Rivals: A Comedy"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "sheridan-school-for-scandal": {
+   "bloom_n": [
+    233
+   ],
+   "bloom_title": "The School of Scandal",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": "Held 'sheridan' hits are Sheridan Le Fanu."
+  },
+  "sheridan-rivals": {
+   "bloom_n": [
+    234
+   ],
+   "bloom_title": "The Rivals",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "sheridan-school-for-scandal": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "sheridan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sheridan-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "sheridan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
