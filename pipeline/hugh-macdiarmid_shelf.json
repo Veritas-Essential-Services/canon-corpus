@@ -1,0 +1,75 @@
+{
+ "_about": "Hugh MacDiarmid. Bloom's Western Canon (1994) lists: Complete Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Hugh MacDiarmid",
+ "_name_words": [
+  "hugh",
+  "macdiarmid"
+ ],
+ "_surname": [
+  "macdiarmid",
+  "hugh macdiarmid"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "macdiarmid-drunk-man-looks-at": [
+   72731,
+   "A drunk man looks at the thistle"
+  ]
+ },
+ "internet_archive": {
+  "macdiarmid-penny-wheep": [
+   "pennywheep0000hugh",
+   "Penny Wheep"
+  ]
+ },
+ "_bloom": {
+  "macdiarmid-drunk-man-looks-at": {
+   "bloom_n": [
+    977
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1926 (PG title page: Edinburgh and London, William Blackwood & Sons)",
+   "evidence": "PG header read: original publication Edinburgh: William Blackwood & Sons, 1926; title page lists Sangschaw (1925) and Penny Wheep (1926).",
+   "case": "Bloom lists the Complete Poems (1978, not PD as a book); his first three books -- Sangschaw (1925), Penny Wheep (1926) and A Drunk Man Looks at the Thistle (1926), his masterpiece -- are US-PD and are the PD core of it.",
+   "note": "Partial: everything after 1930 (most of the Complete Poems) is not PD. Sangschaw (1925) was not found on PG or as a free IA scan in this pass. PG also has Albyn (1927, prose) -- not on Bloom's list."
+  },
+  "macdiarmid-penny-wheep": {
+   "bloom_n": [
+    977
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1926 (title page)",
+   "evidence": "djvu head read: \"Penny Wheep by Hugh M'Diarmid ... William Blackwood & Sons Ltd. Edinburgh and London 1926\"; internetarchivebooks only, no lending flag.",
+   "case": "Bloom lists the Complete Poems (1978, not PD as a book); his first three books -- Sangschaw (1925), Penny Wheep (1926) and A Drunk Man Looks at the Thistle (1926), his masterpiece -- are US-PD and are the PD core of it.",
+   "note": "Partial: everything after 1930 (most of the Complete Poems) is not PD. Sangschaw (1925) was not found on PG or as a free IA scan in this pass. PG also has Albyn (1927, prose) -- not on Bloom's list."
+  }
+ },
+ "_checks": {
+  "macdiarmid-drunk-man-looks-at": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "macdiarmid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdiarmid-penny-wheep": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "diarmid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_surname_by_slug": {
+  "macdiarmid-penny-wheep": [
+   "diarmid",
+   "hugh macdiarmid"
+  ]
+ }
+}
