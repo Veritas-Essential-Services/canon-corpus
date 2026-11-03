@@ -1,0 +1,60 @@
+{
+ "_about": "Christine de Pisan. Bloom's Western Canon (1994) lists: The Book of the City of Ladies. Bloom addition 2026-11-03 under Adam's Bloom-only ruling. The text is the EEBO-TCP transcription of the 1521 Pepwell printing, keyed by hand from the page images (the scan's own OCR was black-letter garble). Spelling is 1521's; TCP marks every unread letter as a <gap>, never a guess.",
+ "_author": "Christine de Pisan",
+ "_name_words": [
+  "christine",
+  "pisan"
+ ],
+ "_surname": [
+  "anslay",
+  "cyte of ladyes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {},
+ "tcp": {
+  "pisan-boke-cyte-ladyes": [
+   "A20897",
+   "The Boke of the Cyte of Ladyes"
+  ]
+ },
+ "_translators": {
+  "pisan-boke-cyte-ladyes": "Anslay"
+ },
+ "_bloom": {
+  "pisan-boke-cyte-ladyes": {
+   "bloom_n": [
+    96
+   ],
+   "bloom_title": "The Book of the City of Ladies",
+   "year": "1521 (TCP record: STC 7271; London, Henry Pepwell)",
+   "evidence": "TCP catalogue A20897 read (Christine, de Pisan; Anslay, Brian; 1521; 382 pp.); file's <availability> states CC0 1.0; Anslay named in the book's own text.",
+   "case": "Bloom lists the City of Ladies. Brian Anslay's 1521 English is the only pre-1931 translation, and the TCP transcription is a clean, hand-keyed witness of it.",
+   "note": "The book's body never names Christine (the 1521 printing calls her by her work); the identity check passes on Anslay and the title. 203 illegible gaps marked by the keyers. Replaces the 2026-11-03 IA attempt (the-boke-of-the-cyte-of-ladyes), whose OCR failed the gate."
+  }
+ },
+ "_checks": {
+  "pisan-boke-cyte-ladyes": {
+   "kind": "tcp",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "anslay",
+   "translator_claimed": "Anslay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "tcp_rights": "ok: CC0 1.0 (TCP availability statement)",
+   "tcp_author": [
+    "Christine, de Pisan, ca. 1364-ca. 1431.",
+    "Christine, de Pisan, ca. 1364-ca. 1431.",
+    "Anslay, Brian."
+   ],
+   "tcp_dates": [
+    "1521",
+    "In ye yere of our lorde. M.CCCCC.xxj. The. xxvj. day of October. And the. xij. yere of the reygne of our louerayne lorde kynge Henry the. viij. [1521]]",
+    "2004-03"
+   ],
+   "tcp_gaps": 203,
+   "tcp_gaps_illegible": 203
+  }
+ }
+}

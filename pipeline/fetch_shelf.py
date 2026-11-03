@@ -44,6 +44,14 @@ without them behaves as before):
       domain" line, or the rights gate refuses it (se_rights). The sources SE
       names (transcription, page scans) are recorded with the check. SE
       modernizes spelling: a shelf should say so in its `_about`.
+  "tcp": {slug: ["A20897", title]}  an EEBO-TCP transcription (TEI P5),
+      hand-keyed twice from the first edition's page images (2026-11-03, for
+      black-letter books whose OCR is unusable: Pisan's City of Ladies, San
+      Pedro's Castell of Love). The identity check reads the book's own text
+      (the <text> element), not TCP's header, so a header that names the
+      author cannot pass a text that never does. The rights gate requires
+      the file's <availability> to state CC0 (tcp_rights); TCP's author,
+      date and keyed-gap counts are recorded with the check.
   --verify --record writes "_checks" into the shelf (committed): per item,
       what the identity, rights-line and translator checks found, so the
       evidence outlives the gitignored fetch report.
@@ -300,6 +308,29 @@ def pg_rights(data, r, claimed=None):
         r["translator_match"] = bool(_pat(claimed).search(r["pg_translator"].lower()))
     return r
 
+def tcp_rights(data):
+    """The rights gate for an EEBO-TCP file: its <availability> must give the
+    CC0 dedication. Also records what TCP says the book is (author, date) and
+    how many places the keyers marked as unread (<gap>), so nothing is
+    mistaken for a complete text."""
+    t = data.decode("utf-8", "replace") if isinstance(data, bytes) else data
+    av = re.search(r"<availability.*?</availability>", t, re.S)
+    av = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", av.group(0))) if av else ""
+    head = t[:t.find("<text")] if "<text" in t else t[:20000]
+    au = [re.sub(r"\s+", " ", a).strip() for a in re.findall(r"<author>(.*?)</author>", head, re.S)]
+    dt = re.findall(r"<date>(.*?)</date>", head, re.S)
+    return {"tcp_rights": "ok: CC0 1.0 (TCP availability statement)" if "creativecommons.org/publicdomain/zero" in t[:60000] or "Creative Commons 0" in av
+                          else "CHECK: no CC0 statement in <availability>",
+            "tcp_author": au[:3] or None, "tcp_dates": [d.strip() for d in dt[:3]] or None,
+            "tcp_gaps": len(re.findall(r"<gap\b", t)),
+            "tcp_gaps_illegible": len(re.findall(r'<gap\b[^>]*reason="illegible"', t))}
+
+def tcp_body(data):
+    """The book's own words: the <text> element with its markup removed."""
+    t = data.decode("utf-8", "replace") if isinstance(data, bytes) else data
+    i = t.find("<text")
+    return re.sub(r"<[^>]+>", " ", t[i:] if i >= 0 else t)
+
 def surname_for(shelf, slug):
     """The names an item must show: its own `_surname_by_slug` entry when the
     shelf gives one, else the shelf-wide `_surname`."""
@@ -309,7 +340,7 @@ def checks_for(slug, kind, data, url, shelf, key, names, ident):
     """Everything --record commits for one item (no body text, only findings)."""
     r = {"kind": kind, "checked": time.strftime("%Y-%m-%d")}
     try:
-        check_identity(r, data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
+        check_identity(r, tcp_body(data) if kind == "tcp" else data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
                        surname_for(shelf, slug), ident, shelf.get("_translators", {}).get(slug))
         r["identity"] = ("identity_override" if r.get("identity_override")
                          else "title_weak" if r.get("title_weak") else "ok")
@@ -321,6 +352,8 @@ def checks_for(slug, kind, data, url, shelf, key, names, ident):
         pg_rights(data, r, shelf.get("_translators", {}).get(slug))
     elif kind == "ccel":
         r.update(ccel_rights(data))
+    elif kind == "tcp":
+        r.update(tcp_rights(data))
     elif kind == "se":
         r.update(se_rights(data))
         if slug in shelf.get("_rights_checked", {}):
@@ -347,8 +380,8 @@ def verify(name, shelf, out, skip, names, record=False):
             flag = c["identity"]
             if flag not in ("ok", "title_weak", "identity_override"):
                 bad.append(slug)
-            rights = c.get("ia_rights", "") or c.get("se_rights", "")
-            if (c["kind"] in ("ia", "se") and not rights.startswith("ok") and not c.get("rights_override")) \
+            rights = c.get("ia_rights", "") or c.get("se_rights", "") or c.get("tcp_rights", "")
+            if (c["kind"] in ("ia", "se", "tcp") and not rights.startswith("ok") and not c.get("rights_override")) \
                     or c.get("pg_copyrighted") \
                     or c.get("translator_match") is False:
                 flagged.append(slug)
@@ -359,7 +392,7 @@ def verify(name, shelf, out, skip, names, record=False):
             continue
         r = {}
         try:
-            check_identity(r, data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
+            check_identity(r, tcp_body(data) if kind == "tcp" else data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
                            surname_for(shelf, slug), ident, shelf.get("_translators", {}).get(slug))
             flag = ("identity_override" if r.get("identity_override")
                     else "title_weak" if r.get("title_weak") else "ok")
@@ -400,6 +433,9 @@ def jobs_for(shelf, name):
         fname = row[2] if len(row) > 2 and str(row[2]).endswith(".txt") else f"{ident}_djvu.txt"
         url = f"https://archive.org/download/{ident}/" + urllib.parse.quote(fname)
         jobs.append((slug, row[1], url, ".txt", "ia"))
+    for slug, row in shelf.get("tcp", {}).items():
+        jobs.append((slug, row[1], f"https://raw.githubusercontent.com/textcreationpartnership/{row[0]}/master/{row[0]}.xml",
+                     ".xml", "tcp"))
     for slug, row in shelf.get("standard_ebooks", {}).items():
         jobs.append((slug, row[1], f"https://standardebooks.org/ebooks/{row[0]}/text/single-page",
                      ".xhtml", "se"))
@@ -445,7 +481,7 @@ def main():
             key = [w for w in re.findall(r"[a-z]{5,}", re.sub(r"\(.*?\)", "", title).lower()) if w not in skip][:2]
             r["title_words_seen"] = {w: (w in low) for w in key}
             claimed = shelf.get("_translators", {}).get(slug)
-            check_identity(r, data, key, names, kind,
+            check_identity(r, tcp_body(data) if kind == "tcp" else data, key, names, kind,
                            shelf.get("_identity_checked", {}).get(slug),
                            surname_for(shelf, slug), ident_of(shelf, slug, kind), claimed)
             if kind == "gutenberg":
@@ -458,6 +494,10 @@ def main():
                 r.update(se_rights(data))
                 if not r["se_rights"].startswith("ok") and slug not in shelf.get("_rights_checked", {}):
                     raise RuntimeError(f"RIGHTS: {r['se_rights']}; read SE's imprint, then list the slug in _rights_checked")
+            if kind == "tcp":
+                r.update(tcp_rights(data))
+                if not r["tcp_rights"].startswith("ok"):
+                    raise RuntimeError(f"RIGHTS: {r['tcp_rights']}")
             if kind == "ia":
                 r.update(ia_rights(ident_of(shelf, slug, kind)))
                 if not r["ia_rights"].startswith("ok") and slug not in shelf.get("_rights_checked", {}):

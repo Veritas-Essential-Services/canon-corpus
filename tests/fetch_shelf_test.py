@@ -119,4 +119,26 @@ with tempfile.TemporaryDirectory() as d:
           "per-item lists count too")
 check("trench" in fs.COMMON_WORD_SURNAMES, "'trench' is on the common-word list")
 
+# EEBO-TCP (2026-11-03): CC0 gate, and identity read from the book, not TCP's header
+CC0 = ('<TEI><teiHeader><author>Christine, de Pisan</author><date>1521</date><availability><p>Phase I text '
+       'under <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0 1.0 Universal</ref></p>'
+       '</availability></teiHeader><text><body><p>the boke of the cyte of ladyes <gap reason="illegible" extent="1 letter"/> '
+       'by brian anslay</p></body></text></TEI>')
+t = fs.tcp_rights(CC0.encode())
+check(t["tcp_rights"].startswith("ok") and t["tcp_gaps_illegible"] == 1, "a CC0 TCP file passes and its gaps are counted")
+check(t["tcp_author"] == ["Christine, de Pisan"], "TCP's author is recorded")
+check(fs.tcp_rights(CC0.replace("publicdomain/zero", "licenses/by-nc").replace("Creative Commons 0", "CC BY-NC").encode())["tcp_rights"].startswith("CHECK"),
+      "a TCP file without the CC0 statement is CHECK")
+body = fs.tcp_body(CC0)
+check("pisan" not in body and "anslay" in body, "the identity text is the book's own words, header left out")
+r, e = {}, None
+try:
+    fs.check_identity(r, fs.tcp_body(CC0), ["cyte", "ladyes"], set(), "tcp", surname=["pisan"])
+except RuntimeError as x:
+    e = str(x)
+check(e and "surname" in e, "a name found only in TCP's header does not pass the identity check")
+jobs = fs.jobs_for({"tcp": {"s": ["A20897", "The Boke"]}}, "x")
+check(jobs == [("s", "The Boke", "https://raw.githubusercontent.com/textcreationpartnership/A20897/master/A20897.xml", ".xml", "tcp")],
+      "a tcp row fetches the TCP GitHub XML")
+
 print(f"fetch_shelf_test: {ok} checks passed")
