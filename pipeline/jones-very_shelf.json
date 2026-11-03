@@ -1,0 +1,45 @@
+{
+ "_about": "Jones Very. Bloom's Western Canon (1994) lists: Essays and Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Jones Very",
+ "_name_words": [
+  "jones",
+  "very"
+ ],
+ "_surname": [
+  "very",
+  "jones very"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "very-essays-poems": [
+   "essaysandpoems00veryrich",
+   "Essays and Poems, by Jones Very"
+  ]
+ },
+ "_bloom": {
+  "very-essays-poems": {
+   "bloom_n": [
+    638
+   ],
+   "bloom_title": "Essays and Poems",
+   "year": "1839 (title page: Boston, Charles C. Little and James Brown, MDCCCXXXIX)",
+   "evidence": "djvu title page and contents read (Epic Poetry, Shakspeare, Hamlet; poems); collection cdl/americana",
+   "case": "This is Bloom's exact title, the 1839 first edition edited by Emerson; not on PG.",
+   "note": "The fuller 1886 Poems and Essays (Clarke) exists (IA poemsessays00very), but that scan's front OCR is garbled."
+  }
+ },
+ "_checks": {
+  "very-essays-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "very",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
