@@ -1246,3 +1246,14 @@ All 40 affected fix lists were checked against the page text the reads were made
 The helper is fixed, so later passes will not do this again.
 
 The "after" counts in rounds 1-11 rise a little as a result: some of the restored numbers carry OCR slips (for example "164%"), which the garble survey counts. They are flagged, not deleted.
+
+### Round 13: Our Wonder World vol. 7, the measurements read from the page images (2026-11-03)
+
+Vol. 7 (Amateur Handicraft, `ourwonderworldal07unse`) was the volume round 9 left half done. Its patterns and working drawings print small fractions (½, ¼, ⅞, 3/16) that the OCR garbles a different way on each page, so no rule could mend them. This round, 276 lines on 60 pages were read from a crop of the page image and written into the fix list as word-level readings, one occurrence at a time. The fix list now holds 1,071 readings.
+
+The readings are made against the text as it stands after the twin collation and tesseract's re-read (not the raw scan text). Reading against the raw text missed words that the re-read had already changed.
+
+What is left, and the defaults:
+- **33 body lines still hold a suspect number.** Most are correct: the dress patterns label their points "1-B", "5-D", "16-F-15", and the tables print "4 X 6". Default: leave them.
+- 🔴 **Silent errors on pages not read from the image.** The OCR sometimes reads a fraction as a clean-looking number: on p. 39 "J4" stood for ⅞, and on p. 426 "24" stood for ½. A garble survey cannot see these, because they look like numbers. Every page with a measurement table or a recipe was read from the image. Other pages with an odd-looking measurement in running prose may still hold one. Default: leave them flagged here; a full proof of vol. 7 against the scan is the only sure fix.
+- Hand-lettered labels and captions on the drawings (pp. 63, 104, 112, 128, 143, 160, 379, 393) are pictures and were not retyped.
