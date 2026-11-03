@@ -1,0 +1,11 @@
+{
+ "ia_id": "journeysthroughb0001char",
+ "shelf": "journeys-through-bookland",
+ "witness": "journeys-bookland-v1",
+ "collated_with": [
+  "journeysthrough01sylvgoog"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": []
+}

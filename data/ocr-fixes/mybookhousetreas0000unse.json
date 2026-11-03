@@ -1,0 +1,12 @@
+{
+ "ia_id": "mybookhousetreas0000unse",
+ "shelf": "my-book-house",
+ "witness": "mbh-1928-treasure-chest",
+ "collated_with": [
+  "treasurechestofm0000oliv_b8k5",
+  "bwb_W9-CUC-831"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": []
+}
