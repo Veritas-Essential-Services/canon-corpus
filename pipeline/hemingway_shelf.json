@@ -1,5 +1,5 @@
 {
- "_about": "Ernest Hemingway, The Sun Also Rises (1926). US public domain since 2022; Hemingway died 1961, so UK copyright runs to 2031. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "Ernest Hemingway, The Sun Also Rises (1926). US public domain since 2022; Hemingway died 1961, so UK copyright runs to 2031. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): hemingway-our-time, hemingway-men-without-women.",
  "_author": "Ernest Hemingway",
  "_name_words": [
   "ernest",
@@ -17,14 +17,23 @@
   "hemingway-farewell-to-arms": [
    75201,
    "A Farewell to Arms (1929)"
+  ],
+  "hemingway-men-without-women": [
+   69683,
+   "Men without women"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hemingway-our-time": [
+   "inourtimestories00hemi_1",
+   "In Our Time: Stories"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "hemingway-sun-also-rises": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "hemingway",
    "identity": "ok",
@@ -33,12 +42,54 @@
   },
   "hemingway-farewell-to-arms": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "hemingway",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "hemingway-men-without-women": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hemingway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hemingway-our-time": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hemingway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "hemingway-our-time": {
+   "bloom_n": [
+    1304
+   ],
+   "bloom_title": "Complete Short Stories",
+   "year": "1925 (verso 'COPYRIGHT 1925 BY BONI & LIVERIGHT, Inc.')",
+   "evidence": "djvu grep: copyright line and 'Indian Camp' read; BYU copy, americana",
+   "case": "Bloom lists Hemingway's Complete Short Stories (1987, not PD). The two pre-1931 collections -- In Our Time (1925) and Men Without Women (1927) -- are PD and hold many of his best stories.",
+   "note": "PARTIAL. Held already: The Sun Also Rises, A Farewell to Arms (hemingway shelf, relay). PG 61085 is the 1924 Paris 'in our time' vignettes only, not the 1925 story collection. The 1925 IA scan's first page is noisy OCR but the text from 'Indian Camp' on reads cleanly. PG 59603 Three Stories & Ten Poems (1923) also PD."
+  },
+  "hemingway-men-without-women": {
+   "bloom_n": [
+    1304
+   ],
+   "bloom_title": "Complete Short Stories",
+   "year": "1927 (PG title page 'CHARLES SCRIBNER'S SONS 1927'; 'COPYRIGHT, 1927')",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Hemingway's Complete Short Stories (1987, not PD). The two pre-1931 collections -- In Our Time (1925) and Men Without Women (1927) -- are PD and hold many of his best stories.",
+   "note": "PARTIAL. Held already: The Sun Also Rises, A Farewell to Arms (hemingway shelf, relay). PG 61085 is the 1924 Paris 'in our time' vignettes only, not the 1925 story collection. The 1925 IA scan's first page is noisy OCR but the text from 'Indian Camp' on reads cleanly. PG 59603 Three Stories & Ten Poems (1923) also PD."
   }
  }
 }
