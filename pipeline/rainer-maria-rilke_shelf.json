@@ -1,5 +1,5 @@
 {
- "_about": "Rainer Maria Rilke. Bloom's Western Canon (1994) lists: Selected Poetry (including the Duino Elegies); The Notebooks of Malte Laurids Brigge. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_about": "Rainer Maria Rilke. Bloom's Western Canon (1994) lists: Selected Poetry (including the Duino Elegies); The Notebooks of Malte Laurids Brigge. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom). Lemont's Poems (PG 38594, 1918), the PD part of Bloom's Selected Poetry, is already held on the jessie-lemont shelf and is not repeated here.",
  "_author": "Rainer Maria Rilke",
  "_name_words": [
   "rainer",
@@ -11,13 +11,7 @@
   "rainer maria rilke"
  ],
  "ccel": {},
- "gutenberg": {
-  "rilke-poems": [
-   38594,
-   "Poems",
-   "tr. Jessie Lemont"
-  ]
- },
+ "gutenberg": {},
  "internet_archive": {
   "rilke-journal-my-other-self": [
    "journalofmyother0000rain",
@@ -25,20 +19,9 @@
   ]
  },
  "_translators": {
-  "rilke-poems": "Lemont",
   "rilke-journal-my-other-self": "Norton"
  },
  "_bloom": {
-  "rilke-poems": {
-   "bloom_n": [
-    1002
-   ],
-   "bloom_title": "Selected Poetry (including the Duino Elegies)",
-   "year": "1918 (PG title page, New York)",
-   "evidence": "PG header read: Poems, Rainer Maria Rilke, translated by Jessie Lemont, New York 1918.",
-   "case": "Bloom lists a selected Rilke; Lemont's 1918 Poems is the one PD English selection and is a clean PG text.",
-   "note": "PARTIAL: it does not contain the Duino Elegies (German 1923), whose first English translation (the Sackville-Wests, Hogarth Press) is, to my knowledge, 1931 -- not PD. If Adam wants Bloom's item strictly as named, treat this as not_pd and skip."
-  },
   "rilke-journal-my-other-self": {
    "bloom_n": [
     1004
@@ -54,18 +37,6 @@
   "rilke-journal-my-other-self": "Bloom addition 2026-11-03: title page read: 'Translation by M. D. Herter Norton and John Linton', 'Copyright, 1930 W. W. Norton & Company'. Published 1930, US public domain from 2026-01-01; IA collection internetarchivebooks, not lending."
  },
  "_checks": {
-  "rilke-poems": {
-   "kind": "gutenberg",
-   "checked": "2026-11-03",
-   "name_check": "surname",
-   "author_seen": "rilke",
-   "translator_claimed": "Lemont",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "Jessie Lemont",
-   "translator_match": true
-  },
   "rilke-journal-my-other-self": {
    "kind": "ia",
    "checked": "2026-11-03",
