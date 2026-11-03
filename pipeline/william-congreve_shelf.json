@@ -1,0 +1,66 @@
+{
+ "_about": "William Congreve. Bloom's Western Canon (1994) lists: Love for Love; The Way of the World. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Congreve",
+ "_name_words": [
+  "william",
+  "congreve"
+ ],
+ "_surname": [
+  "congreve",
+  "william congreve"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "congreve-way-world": [
+   1292,
+   "The Way of the World"
+  ],
+  "congreve-love-for-love": [
+   1244,
+   "Love for Love: A Comedy"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "congreve-way-world": {
+   "bloom_n": [
+    206
+   ],
+   "bloom_title": "The Way of the World",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": "Held 'congreve' shelf is Richard Congreve (positivist), not William."
+  },
+  "congreve-love-for-love": {
+   "bloom_n": [
+    207
+   ],
+   "bloom_title": "Love for Love",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "congreve-way-world": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "congreve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "congreve-love-for-love": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "congreve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
