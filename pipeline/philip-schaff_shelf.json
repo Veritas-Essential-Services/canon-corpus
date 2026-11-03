@@ -1,5 +1,5 @@
 {
- "_about": "Philip Schaff (1819-1893), The Creeds of Christendom, with a History and Critical Notes (New York: Harper, 1877-1878, 3 vols): I, The History of Creeds; II, The Greek and Latin Creeds, with Translations; III, The Evangelical Protestant Creeds, with Translations, the Lutheran and Reformed confessions and catechisms in their original languages with English translations. All three are Internet Archive OCR of Harper's 1878 printing (title pages read: 'Volume I. The History of Creeds', 'Volume II. The Greek and Latin Creeds', 'Volume III. Evangelical Protestant Creeds, with Translations', New York: Harper, 1878). Vols. II and III are mostly Greek, Latin and German in parallel columns, so their English word share is low by nature. Princeton's vol. III has a short pamphlet by James I. Good on the Synod of Dort bound in ahead of the title page. CCEL's proofed texts are pending (see _pending): its vols. I-II are the 1931 sixth edition, and its vol. III is keyed from a 1977 reprint.",
+ "_about": "Philip Schaff (1819-1893), The Creeds of Christendom, with a History and Critical Notes (New York: Harper, 1877-1878, 3 vols): I, The History of Creeds; II, The Greek and Latin Creeds, with Translations; III, The Evangelical Protestant Creeds, with Translations, the Lutheran and Reformed confessions and catechisms in their original languages with English translations. All three are Internet Archive OCR of Harper's 1878 printing (title pages read: 'Volume I. The History of Creeds', 'Volume II. The Greek and Latin Creeds', 'Volume III. Evangelical Protestant Creeds, with Translations', New York: Harper, 1878). Vols. II and III are mostly Greek, Latin and German in parallel columns, so their English word share is low by nature. Princeton's vol. III has a short pamphlet by James I. Good on the Synod of Dort bound in ahead of the title page. CCEL's proofed texts are pending (see _pending): its vols. I-II are the 1931 sixth edition, and its vol. III is keyed from a 1977 reprint. 2026-11-03 (Adam's Libronix inventory): History of the Christian Church, all eight volumes, from CCEL (vols. V-VI, the Middle Ages, are by his son David S. Schaff, published 1907 and 1910).",
  "_name_words": [
   "schaff",
   "philip"
@@ -7,7 +7,48 @@
  "_surname": [
   "schaff"
  ],
- "ccel": {},
+ "ccel": {
+  "schaff-hcc-1": [
+   "hcc1",
+   "History of the Christian Church, Volume I: Apostolic Christianity. A.D. 1-100 (CCEL)",
+   ""
+  ],
+  "schaff-hcc-2": [
+   "hcc2",
+   "History of the Christian Church, Volume II: Ante-Nicene Christianity. A.D. 100-325 (CCEL)",
+   ""
+  ],
+  "schaff-hcc-3": [
+   "hcc3",
+   "History of the Christian Church, Volume III: Nicene and Post-Nicene Christianity. A.D. 311-600 (CCEL)",
+   ""
+  ],
+  "schaff-hcc-4": [
+   "hcc4",
+   "History of the Christian Church, Volume IV: Mediaeval Christianity. A.D. 590-1073 (CCEL)",
+   ""
+  ],
+  "schaff-hcc-5": [
+   "hcc5",
+   "History of the Christian Church, Volume V: The Middle Ages. A.D. 1049-1294 (CCEL; vols V-VI by David S. Schaff)",
+   ""
+  ],
+  "schaff-hcc-6": [
+   "hcc6",
+   "History of the Christian Church, Volume VI: The Middle Ages. A.D. 1294-1517 (CCEL; vols V-VI by David S. Schaff)",
+   ""
+  ],
+  "schaff-hcc-7": [
+   "hcc7",
+   "History of the Christian Church, Volume VII. Modern Christianity. The German Reformation (CCEL)",
+   ""
+  ],
+  "schaff-hcc-8": [
+   "hcc8",
+   "History of the Christian Church, Volume VIII: Modern Christianity. The Swiss Reformation (CCEL)",
+   ""
+  ]
+ },
  "gutenberg": {},
  "internet_archive": {
   "schaff-creeds-1-1878": [
@@ -35,9 +76,105 @@
   "creedsofchristen0001phil_r9t1, creedsofchristen0000phil_c6b9 and other internetarchivebooks copies": "Lending-library scans."
  },
  "_checks": {
+  "schaff-hcc-1": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Revised edition",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-hcc-2": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Third edition, revised",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-hcc-3": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Fifth edition, revised",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-hcc-4": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-hcc-5": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-hcc-6": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-hcc-7": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Second edition, revised",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-hcc-8": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Third edition, revised",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
   "schaff-creeds-1-1878": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "schaff",
    "identity": "ok",
@@ -48,7 +185,7 @@
   },
   "schaff-creeds-2-1878": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "schaff",
    "identity": "ok",
@@ -59,7 +196,7 @@
   },
   "schaff-creeds-3-1878": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "schaff",
    "identity": "ok",
