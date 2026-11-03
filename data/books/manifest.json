@@ -38278,5 +38278,819 @@
    }
   },
   "built_sha256": "46528cb0619ab5ea66ae3ea806131e8ff79741359e65616f96d5df47290b3ca3"
+ },
+ "icc-skinner-genesis": {
+  "title": "A Critical and Exegetical Commentary on Genesis",
+  "author": "John Skinner",
+  "format": "ia-hocr",
+  "sha256": "eba56485d292bb32077c077df42663c6ab118e1e0b85d5dbdb16fdc76ab43c6f",
+  "units": 992,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and so is a line opening so after a sentence's end, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over the ICC volumes holding it (measure.numbering_work), and where that too is undecided a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Gen": "undecided"
+   },
+   "scan_choice": "acriticalandexeg00skinuoft (1910) Greek 1.9% / 29.7% / 1,013, Hebrew 0.0%  <- chosen; criticalexegetic00skinrich 970, criticalexegetic00skinuoft 968, criticalexegetic01skin 949 (all 1910); no scan keeps the Hebrew",
+   "note": "The International Critical Commentary: J. Skinner, A Critical and Exegetical Commentary on Genesis (New York: Charles Scribner's Sons, 1910, OCR'd 'IgIo'), as its title page (leaf 16) reads; scan leaves 16-641 of acriticalandexeg00skinuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1910); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, acriticalandexeg00skinuoft (University of Toronto (Kelly) copy)",
+   "source_url": "https://archive.org/details/acriticalandexeg00skinuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 907,
+    "page": 85
+   },
+   "footnote_lines": 1357,
+   "junk_lines_dropped": 55,
+   "leaves_commentary": 540,
+   "leaves_page": 85,
+   "openers_accepted": 1025,
+   "openers_out_of_sequence": 110,
+   "openers_rejected": 197,
+   "printed_page_from_neighbours": 237,
+   "printed_page_read": 281,
+   "running_heads_behind": 1851,
+   "kjv_coverage": {
+    "Gen": {
+     "kjv_verses": 1533,
+     "commented": 1215,
+     "with_own_note": 641
+    }
+   },
+   "scripture_links": {
+    "read": 487,
+    "resolved": 48,
+    "ranges": 2,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 2,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 47,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "1Chr": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-paton-esther"
+     ]
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ezek": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Hos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jonah": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Lev": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 19730,
+    "greek_share_of_letters": 0.0171,
+    "greek_tokens_3plus": 2876,
+    "greek_tokens_in_reference_vocab": 0.2938,
+    "mixed_script_tokens": 4
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "0ff20fa2b18581e135676131466b21d892471fb3721eef80e41c3e0be762fe8f"
+ },
+ "icc-paton-esther": {
+  "title": "A Critical and Exegetical Commentary on the Book of Esther",
+  "author": "Lewis Bayles Paton",
+  "format": "ia-hocr",
+  "sha256": "4e079cc0bbf84f79a0c3b96cae06034c06f6636f3d139625a9ae2a8e7367f7c2",
+  "units": 271,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and so is a line opening so after a sentence's end, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over the ICC volumes holding it (measure.numbering_work), and where that too is undecided a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Esth": "undecided"
+   },
+   "scan_choice": "criticalexegetic00patorich (1908) Greek 3.0% / 34.6% / 1,004, Hebrew 0.0%  <- chosen: no other scan keeps its Greek, none its Hebrew; criticalexegetic13patouoft (1951) refused",
+   "note": "The International Critical Commentary: L. B. Paton, A Critical and Exegetical Commentary on the Book of Esther (New York: Charles Scribner's Sons, 1908; published September 1908), as its title page and verso (leaves 15-16) read; scan leaves 15-336 of criticalexegetic00patorich"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1908); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00patorich (University of California Libraries copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00patorich",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 138,
+    "page": 133
+   },
+   "footnote_lines": 211,
+   "junk_lines_dropped": 5,
+   "leaves_commentary": 188,
+   "leaves_page": 133,
+   "openers_accepted": 202,
+   "openers_out_of_sequence": 17,
+   "openers_rejected": 77,
+   "printed_page_from_neighbours": 45,
+   "printed_page_read": 258,
+   "running_heads_behind": 289,
+   "kjv_coverage": {
+    "Esth": {
+     "kjv_verses": 167,
+     "commented": 136,
+     "with_own_note": 135
+    }
+   },
+   "scripture_links": {
+    "read": 126,
+    "resolved": 13,
+    "ranges": 3,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 10,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-paton-esther"
+     ]
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Jonah": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    }
+   },
+   "greek": {
+    "greek_letters": 16961,
+    "greek_share_of_letters": 0.0311,
+    "greek_tokens_3plus": 2621,
+    "greek_tokens_in_reference_vocab": 0.3426,
+    "mixed_script_tokens": 10
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "8fbfbdc4156cb27c99b9c24532b9b261e6aacef68eda54182a7940cd0a7ab6fd"
+ },
+ "icc-smith-samuel": {
+  "title": "A Critical and Exegetical Commentary on the Books of Samuel",
+  "author": "Henry Preserved Smith",
+  "format": "ia-hocr",
+  "sha256": "1e8feeec8063b7742363289f66719b614a30b6ff238a4a4fd4fdca26ee0cec09",
+  "units": 1286,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and so is a line opening so after a sentence's end, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over the ICC volumes holding it (measure.numbering_work), and where that too is undecided a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "1Sam": "undecided",
+    "2Sam": "undecided"
+   },
+   "scan_choice": "criticalexegetic0009smit_z1y7 (1899) Hebrew 2.9% of letters, 5,456 tokens of 3+ letters, 52.5% a Strong's lemma (or one with a prefix); Greek 0.0%  <- chosen; criticalexegetic0009smit_i8j1 (1904) 2.8% / 5,467 / 52.0%; criticalexegetic0009smit (1951 impression) refused; no scan keeps the Greek",
+   "note": "The International Critical Commentary: H. P. Smith, A Critical and Exegetical Commentary on the Books of Samuel (New York: Charles Scribner's Sons, 1899), as its title page and verso (leaves 17-18) read; scan leaves 17-447 of criticalexegetic0009smit_z1y7"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1899); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0009smit_z1y7 (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0009smit_z1y7",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 1249,
+    "page": 37
+   },
+   "footnote_lines": 747,
+   "junk_lines_dropped": 20,
+   "leaves_commentary": 391,
+   "leaves_page": 37,
+   "openers_accepted": 1514,
+   "openers_out_of_sequence": 142,
+   "openers_rejected": 634,
+   "printed_page_from_neighbours": 202,
+   "printed_page_read": 181,
+   "running_heads_behind": 967,
+   "kjv_coverage": {
+    "1Sam": {
+     "kjv_verses": 810,
+     "commented": 680,
+     "with_own_note": 535
+    },
+    "2Sam": {
+     "kjv_verses": 695,
+     "commented": 541,
+     "with_own_note": 434
+    }
+   },
+   "scripture_links": {
+    "read": 548,
+    "resolved": 9,
+    "ranges": 3,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "1Sam": {
+     "read": 794,
+     "only_hebrew": 3,
+     "only_kjv": 2,
+     "decision": "undecided"
+    },
+    "2Sam": {
+     "read": 540,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 1,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 9,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "1Chr": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "1Sam": {
+     "read": 794,
+     "only_hebrew": 3,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "icc-smith-samuel"
+     ]
+    },
+    "2Sam": {
+     "read": 540,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-smith-samuel"
+     ]
+    },
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-paton-esther"
+     ]
+    },
+    "Hos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 23104,
+    "hebrew_share_of_letters": 0.0291
+   }
+  },
+  "built_sha256": "4dd58695ef418b71f693f7696d06a31852489192052de894ba1503336e69b299"
+ },
+ "icc-briggs-psalms-1": {
+  "title": "A Critical and Exegetical Commentary on the Book of Psalms, vol. I",
+  "author": "Charles Augustus Briggs and Emilie Grace Briggs",
+  "format": "ia-hocr",
+  "sha256": "741521b7bef5ab19de36e7e47bb30f407aebc5106b0566c72bde40b3448560ba",
+  "units": 530,
+  "scheme": {
+   "citation": "scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "by scan leaf only (leaf.N, the folio in scan.printed_page where read): the notes measured under BY_PAGE_FLOOR as verse units (41.6% of the verses at best: Briggs prints each psalm's translation, exegesis and critical notes, each numbered by verse, and cites verses as superscripts the OCR fuses to the psalm's number); the scripture references in the text are read as on every page, the OT ones in the numbering measured for them (measure.numbering_references); the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Ps": "undecided"
+   },
+   "scan_choice": "criticalexegetic0000brig_t9m0 (1906) Hebrew 2.6% / 5,700 / 56.2%; Greek 0.0%  <- chosen, the first printing; criticalexegetic0000brig_j3b5 (1908) 2.6% / 5,683 / 55.0%; criticalexegetic0015brig (1927, fourth impression, Clark) 2.7% / 5,640 / 57.4%; criticalexegetic0000brig_q1p1 (latest impression 1976), the scan Lane A shelves as briggs-psalms-1 (pipeline/charles-a-briggs_shelf.json, branch claude/armarium-divines): refused here, a post-1928 reprint; no scan keeps the Greek",
+   "note": "The International Critical Commentary: C. A. Briggs and E. G. Briggs, A Critical and Exegetical Commentary on the Book of Psalms, vol. I (Psalms I-L) (New York: Charles Scribner's Sons, 1906; published September 1906), as its title page and verso (leaves 17-18) read; scan leaves 17-549 of criticalexegetic0000brig_t9m0"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1906); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0000brig_t9m0 (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0000brig_t9m0",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "page": 530
+   },
+   "junk_lines_dropped": 17,
+   "leaves_page": 530,
+   "printed_page_from_neighbours": 38,
+   "printed_page_read": 378,
+   "kjv_coverage": {
+    "Ps": {
+     "kjv_verses": 2461,
+     "commented": 0,
+     "with_own_note": 0
+    }
+   },
+   "scripture_links": {
+    "read": 655,
+    "resolved": 19,
+    "ranges": 0,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 100,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 18,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ezek": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Mal": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Mic": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 28948,
+    "hebrew_share_of_letters": 0.0296
+   }
+  },
+  "built_sha256": "7664139794f66a441e9d8c08ed3a6611264200870e65a2eae13b996767cc388d"
+ },
+ "icc-briggs-psalms-2": {
+  "title": "A Critical and Exegetical Commentary on the Book of Psalms, vol. II",
+  "author": "Charles Augustus Briggs and Emilie Grace Briggs",
+  "format": "ia-hocr",
+  "sha256": "7bfd53e245ef857cf243dee977183fbeed4df2cc4a52cf62e1bbc76a78f5b515",
+  "units": 549,
+  "scheme": {
+   "citation": "scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "by scan leaf only (leaf.N, the folio in scan.printed_page where read): the notes measured under BY_PAGE_FLOOR as verse units (23.6% of the verses with the reader's openers: Briggs prints each psalm's translation, exegesis and critical notes, each numbered by verse, and cites verses as superscripts the OCR fuses to the psalm's number); the scripture references in the text are read as on every page, the OT ones in the numbering measured for them (measure.numbering_references); the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Ps": "undecided"
+   },
+   "scan_choice": "criticalexegetic0000brig (1907) Hebrew 3.2% / 7,084 / 55.6%; Greek 0.0%  <- chosen; criticalexegetic0000brig_j8i1 (vol. II, copyright 1907, IA date 1906) 3.2% / 7,101 / 54.4%; criticalexegetic0002brig (1925 or later, list partly illegible) 3.2% / 6,977 / 56.3%; criticalexegetic0002char_h5l9 (1917) 2.3% / 5,046 / 56.5%; no scan keeps the Greek",
+   "note": "The International Critical Commentary: C. A. Briggs and E. G. Briggs, A Critical and Exegetical Commentary on the Book of Psalms, vol. II (Psalms LI-CL) (New York: Charles Scribner's Sons, 1907; published February 1907), as its title page and verso (leaves 17-18) read (the OCR reads the title page's volume number as '1'; the volume opens at Psalm LI); scan leaves 17-567 of criticalexegetic0000brig"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1907); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0000brig (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0000brig",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "page": 549
+   },
+   "junk_lines_dropped": 11,
+   "leaves_page": 549,
+   "printed_page_from_neighbours": 73,
+   "printed_page_read": 467,
+   "kjv_coverage": {
+    "Ps": {
+     "kjv_verses": 2461,
+     "commented": 0,
+     "with_own_note": 0
+    }
+   },
+   "scripture_links": {
+    "read": 420,
+    "resolved": 34,
+    "ranges": 1,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 57,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 40,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "Amos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ezek": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Hos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jonah": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Mic": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 31421,
+    "hebrew_share_of_letters": 0.0323
+   }
+  },
+  "built_sha256": "28b56cb9eed585abb77108c6310f61ddcc128d43f371bcae217717921da2c803"
  }
 }
