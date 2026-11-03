@@ -1,0 +1,50 @@
+{
+ "_about": "Emily Brontë. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Emily Brontë",
+ "_name_words": [
+  "emily",
+  "bronte"
+ ],
+ "_surname": [
+  "bronte",
+  "emily bronte"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bronte-complete-poems": [
+   "completepoemsofe01bronuoft",
+   "The Complete Poems of Emily Brontë"
+  ]
+ },
+ "_translators": {
+  "bronte-complete-poems": "Shorter"
+ },
+ "_bloom": {
+  "bronte-complete-poems": {
+   "bloom_n": [
+    502
+   ],
+   "bloom_title": "Poems",
+   "year": "1908 (IA metadata; New York: Hodder and Stoughton; title page read but no year seen in the first 3,000 characters)",
+   "evidence": "Read djvu title page: 'THE COMPLETE WORKS OF EMILY BRONTE IN TWO VOLUMES, VOL. I. POETRY'. Collection university_of_toronto.",
+   "case": "Bloom lists Emily Brontë's poems; only the 1846 joint volume is held. Shorter's edition was the first to collect the manuscript poems.",
+   "note": "Shorter's text is unreliable (it includes some poems by Anne and Branwell); Hatfield's 1923 Complete Poems (IA completepoemsofe0000bron_b5r5, 1924 metadata, not opened) is better and also pre-1931."
+  }
+ },
+ "_checks": {
+  "bronte-complete-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bronte",
+   "translator_claimed": "Shorter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
