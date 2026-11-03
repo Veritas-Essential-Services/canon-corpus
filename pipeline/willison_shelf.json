@@ -1,0 +1,35 @@
+{
+ "_about": "John Willison (1680-1750), minister of Dundee, evangelical of the Marrow era: The Practical Works, including the Treatise on the Sanctification of the Lord's Day, the Sacramental Directory, Sacramental Meditations, the Mother's Catechism, the Afflicted Man's Companion, the Balm of Gilead and Popery Another Gospel, with an essay on his life and times by W. M. Hetherington (London and Glasgow: Blackie, undated; the catalogue gives [184-]), one volume of about 1,000 pages. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "willison"
+ ],
+ "_surname": [
+  "willison"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "willison-practical-works": [
+   "practicalworksof00will",
+   "The Practical Works of John Willison, with an essay by W. M. Hetherington (London and Glasgow: Blackie, undated)"
+  ]
+ },
+ "_alternates": {
+  "practicalworks00willuoft": "Another copy of the Blackie edition.",
+  "willisonsworks01..04willuoft (Edinburgh, 1816, 4 vols)": "An earlier collected edition; the one-volume Blackie text is held."
+ },
+ "_excluded": {},
+ "_checks": {
+  "willison-practical-works": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "willison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "[184-]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

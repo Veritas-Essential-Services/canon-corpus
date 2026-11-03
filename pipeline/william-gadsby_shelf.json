@@ -1,0 +1,43 @@
+{
+ "_about": "Public-domain William Gadsby (1773-1844), Strict Baptist minister of St George's Road, Manchester, for the Word Hoard: The Nazarene's Songs (1824), from an Internet Archive scan. Added 2026-10-23 by lane A, round 50 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gadsby"
+ ],
+ "_surname": [
+  "william gadsby",
+  "w. gadsby",
+  "gadsby"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gadsby-nazarenes-songs": [
+   "per_early-baptist_the-nazarenes-songs-_william-gadsby_1824",
+   "The Nazarene's Songs: ...  1824 (catalogued 1824)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gadsby-other": "The Gospel Standard magazine (1835, many hands); A Memoir of the late Mr. William Gadsby (1844, by others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gadsby-nazarenes-songs": "title page read from the page image: 'The Nazarene's Songs: in two parts. The second part never before published. By William Gadsby ... Second edition. Manchester: printed by Henry Smith, 1824'; preface signed 'Wm. Gadsby' (OCR garbles the name). The scan opens with Thomas Howe's 1813 Taunton sermon bound in front, a few leaves long"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gadsby-nazarenes-songs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "_about": "Public-domain Joseph John Gurney (1788-1847), Quaker minister and banker of Norwich, for the Word Hoard: Observations on the Religious Peculiarities of the Society of Friends, Essays on the Evidences, Doctrines and Practical Operation of Christianity, Biblical Notes and Dissertations, Brief Remarks on the Sabbath, Reminiscences of Chalmers, Simeon and Wilberforce, Sabbatical Verses, Sermons and Prayers in Philadelphia, his Minor Works (2 vols.), The Papal and Hierarchical System, Four Lectures on the Evidences, and Thoughts on Habit and Discipline. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 88 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joseph john gurney",
+  "j. j. gurney",
+  "joseph j. gurney"
+ ],
+ "_surname": [
+  "joseph john gurney",
+  "j. j. gurney",
+  "joseph j. gurney",
+  "gurney"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gurney-friends-peculiarities": [
+   "observationsonre00gurn",
+   "Observations on the religious peculiarities of the Society of Friends (Philadelphia, S. Potter & co. [etc.], 1825)"
+  ],
+  "gurney-essays-evidences": [
+   "essaysonevidence00gurn",
+   "Essays on the evidences, doctrines, and practical operation, of Christianity (London : R.B. Seeley and W. Burnside, 1831)"
+  ],
+  "gurney-sabbath": [
+   "briefremarksonhi0000gurn",
+   "Brief remarks on the history, authority, and use of the Sabbath (Andover : Flagg, Gould and Newman, 1833)"
+  ],
+  "gurney-biblical-notes": [
+   "biblicalnotesdis00gurnuoft",
+   "Biblical notes and dissertations chiefly intended to confirm and illustrate the doctrine of the Deity of Christ; with some remarks on the practical importance of that doctrine (London, Rivington, 1833)"
+  ],
+  "gurney-reminiscences": [
+   "reminiscencesofc00gurn",
+   "Reminiscences of Chalmers, Simeon, Wilberforce, &c ([S.l. : s.n., 1833)"
+  ],
+  "gurney-sabbatical-verses": [
+   "sabbaticalverses00gurn",
+   "Sabbatical verses (London : J. and A. Arch, 1837)"
+  ],
+  "gurney-philadelphia-sermons": [
+   "sermonsprayersde00gurn",
+   "Sermons and prayers, delivered in the city of Philadelphia. Taken in short-hand (Philadelphia, Kay & Brother, 1838)"
+  ],
+  "gurney-minor-works-1": [
+   "minorworksofjose01gurn",
+   "The minor works of Joseph John Gurney, vol. 1 (London : Harvey & Darton, 1839)"
+  ],
+  "gurney-minor-works-2": [
+   "minorworksofjose02gurn",
+   "The minor works of Joseph John Gurney, vol. 2 (London : Harvey & Darton, 1839)"
+  ],
+  "gurney-deity-christ": [
+   "practicalimporta747gurn",
+   "The practical importance of faith in the deity of Christ, vol. no.747 (London : The Religious Tract Society; sold at the depository, 56, Paternoster Row, and 65, St. Paul's Churchyard, 1839)"
+  ],
+  "gurney-four-lectures": [
+   "fourlecturesonev00gurn",
+   "Four lectures on the evidences of Christianity ([n. p.], 1857)"
+  ],
+  "gurney-habit-discipline": [
+   "thoughtsonhabitd00gurn",
+   "Thoughts on habit and discipline (Philadelphia : H. Longstreth, 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gurney-other": "A Winter in the West Indies (travel letters to Henry Clay), the prison notes written with Elizabeth Fry, his anti-slavery speech and his Irish report; Braithwaite's Memoirs of Gurney (by another author)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gurney-deity-christ": "title page: 'No. 623 THE PRACTICAL IMPORTANCE OF FAITH IN THE DEITY OF CHRIST ABRIDGED FROM A LARGER WORK BY JOSEPH JOHN GURNEY. LONDON: THE RELIGIOUS TRACT SOCIETY' (OCR 'GURNET')",
+  "gurney-habit-discipline": "title page: 'THOUGHTS ON HABIT AND DISCIPLINE. BY JOSEPH JOHN GURNEY.' (OCR letter-spaced 'G U R N E y')"
+ },
+ "_pending": {
+  "gurney-papal-system": "papalhierarchica00gurn: the OCR never shows the author's name (title page garbled); needs a page-image check"
+ },
+ "_translators": {},
+ "_checks": {
+  "gurney-friends-peculiarities": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gurney-essays-evidences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurney-sabbath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurney-biblical-notes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gurney-reminiscences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurney-sabbatical-verses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gurney-philadelphia-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gurney-minor-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurney-minor-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurney-deity-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gurney-four-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph john gurney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gurney-habit-discipline": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

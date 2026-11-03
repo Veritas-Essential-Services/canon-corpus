@@ -1,0 +1,31 @@
+{
+ "_about": "E. M. Forster, A Passage to India (1924). US public domain since 2020; Forster died 1970, so UK copyright runs to 2040. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "E. M. Forster",
+ "_name_words": [
+  "forster"
+ ],
+ "_surname": [
+  "e. m. forster",
+  "forster"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "forster-passage-to-india": [
+   61221,
+   "A Passage to India (1924)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "forster-passage-to-india": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

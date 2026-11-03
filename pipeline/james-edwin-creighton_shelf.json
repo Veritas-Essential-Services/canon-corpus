@@ -1,0 +1,51 @@
+{
+ "_about": "James Edwin Creighton (1861-1924), Cornell idealist and long-time editor of The Philosophical Review. Raw IA OCR: An Introductory Logic, new edition revised and corrected (New York: Macmillan, 1900; first 1898), clean 0.91; Studies in Speculative Philosophy, edited by Harold R. Smart (New York: Macmillan, published December 1925), clean 0.94. He co-translated Wundt's Lectures on Human and Animal Psychology and Paulsen's Kant (on those shelves). Not to be confused with Mandell Creighton the historian-bishop. US public domain. No uids minted.",
+ "_author": "James Edwin Creighton",
+ "_name_words": [
+  "james",
+  "edwin",
+  "creighton"
+ ],
+ "_surname": [
+  "creighton",
+  "j. e. creighton",
+  "james edwin creighton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "creighton-introductory-logic-1900": [
+   "anintroductoryl03creigoog",
+   "An Introductory Logic, new ed. (Macmillan, 1900)"
+  ],
+  "creighton-studies-speculative-philosophy-1925": [
+   "studiesinspecula0000jame",
+   "Studies in Speculative Philosophy (Macmillan, 1925)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "creighton-introductory-logic-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "creighton-studies-speculative-philosophy-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

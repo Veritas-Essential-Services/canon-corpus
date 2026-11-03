@@ -1,0 +1,65 @@
+{
+ "_about": "John Scott Haldane (1860-1936), physiologist and philosopher of biology, brother of R. B. Haldane (shelf r-b-haldane). Raw IA OCR: Mechanism, Life and Personality, an examination of the mechanistic theory of life and mind (London: John Murray, 1913), Organism and Environment as illustrated by the physiology of breathing (New Haven: Yale, 1917) and The New Physiology and other addresses (London: Griffin, 1919). Wanted: The Sciences and Philosophy (Gifford Lectures, 1929); the only scan found is access-restricted. His technical works on respiration and mine air are not taken. US public domain. No uids minted.",
+ "_author": "J. S. Haldane",
+ "_name_words": [
+  "john",
+  "scott",
+  "haldane"
+ ],
+ "_surname": [
+  "j. s. haldane",
+  "john scott haldane"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "haldane-mechanism-life-personality-1913": [
+   "mechanismlifeand00halduoft",
+   "Mechanism, Life and Personality (John Murray, 1913)"
+  ],
+  "haldane-organism-and-environment-1917": [
+   "organismenvironm00halduoft",
+   "Organism and Environment as illustrated by the physiology of breathing (Yale, 1917)"
+  ],
+  "haldane-new-physiology-1919": [
+   "newphysiologyoth00haldrich",
+   "The New Physiology and other addresses (Griffin, 1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "haldane-mechanism-life-personality-1913": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-organism-and-environment-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john scott haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-new-physiology-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

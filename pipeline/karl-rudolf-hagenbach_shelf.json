@@ -1,0 +1,212 @@
+{
+ "_about": "Public-domain Karl Rudolf Hagenbach (1801-1874, Basel church historian) in English for the Word Hoard: the Compendium of the History of Doctrines, tr. Carl W. Buch (2 vols, 1846-1847), the later History of Christian Doctrines with E. H. Plumptre's introduction (3 vols, Clark), the History of the Reformation, tr. Evelina Moore (2 vols, Clark), German Rationalism, tr. W. L. Gage and J. H. W. Stuckenberg (1865), and the History of the Church in the Eighteenth and Nineteenth Centuries, tr. John F. Hurst (2 vols, New York, 1869), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hagenbach"
+ ],
+ "_surname": [
+  "hagenbach",
+  "k. r. hagenbach",
+  "karl rudolf hagenbach"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hagenbach-compendium-doctrines-1": [
+   "compendiumofhist01hage",
+   "Compendium of the History of Doctrines, vol. I (Edinburgh: T. & T. Clark, MDCCCXLVI)"
+  ],
+  "hagenbach-compendium-doctrines-2": [
+   "compendiumofhist02hage",
+   "Compendium of the History of Doctrines, vol. II, tr. Carl W. Buch (Edinburgh: T. & T. Clark, MDCCCXLVII)"
+  ],
+  "hagenbach-christian-doctrines-1": [
+   "india.history.resource.110410",
+   "A History of Christian Doctrines, vol. I, introduction by E. H. Plumptre (Edinburgh: T. & T. Clark; title page undated, catalogued 1880)",
+   "110410_djvu.txt"
+  ],
+  "hagenbach-christian-doctrines-2": [
+   "india.history.resource.78853",
+   "A History of Christian Doctrines, vol. II (Edinburgh: T. & T. Clark; title page undated, catalogued 1880)",
+   "78853_djvu.txt"
+  ],
+  "hagenbach-christian-doctrines-3": [
+   "india.history.resource.78854",
+   "A History of Christian Doctrines, vol. III (Edinburgh: T. & T. Clark; title page undated, catalogued 1881)",
+   "78854_djvu.txt"
+  ],
+  "hagenbach-reformation-1": [
+   "india.history.resource.85129",
+   "History of the Reformation in Germany and Switzerland chiefly, vol. I, tr. Evelina Moore (Edinburgh: T. & T. Clark; title page undated, catalogued 1878)",
+   "85129_djvu.txt"
+  ],
+  "hagenbach-reformation-2": [
+   "india.history.resource.85130",
+   "History of the Reformation in Germany and Switzerland chiefly, vol. II, tr. Evelina Moore (Edinburgh: T. & T. Clark; title page undated, catalogued 1879)",
+   "85130_djvu.txt"
+  ],
+  "hagenbach-german-rationalism": [
+   "germanrationalis00hage",
+   "German Rationalism, in its Rise, Progress, and Decline, ed. and tr. William Leonhard Gage and J. H. W. Stuckenberg (Edinburgh: T. & T. Clark, MDCCCLXV)"
+  ],
+  "hagenbach-church-18th-19th-1": [
+   "historyofchurchi11hage",
+   "History of the Church in the Eighteenth and Nineteenth Centuries, vol. I, tr. John F. Hurst (New York: Charles Scribner; title page undated, entered 1869)"
+  ],
+  "hagenbach-church-18th-19th-2": [
+   "historyofchurchi21hage",
+   "History of the Church in the Eighteenth and Nineteenth Centuries, vol. II, tr. John F. Hurst (New York: Charles Scribner; title page undated, copyright 1869)"
+  ]
+ },
+ "_alternates": {
+  "hagenbach-smith": "H. B. Smith's revision of Buch, Text-Book of the History of Doctrines (New York: Sheldon, entered 1861-1862): textbookofhistor01hage, 02hage",
+  "hagenbach-copies": "The 1850 second edition of the Compendium; later Plumptre and Reformation issues; the American German Rationalism"
+ },
+ "_excluded": {
+  "hagenbach-encyclopaedia": "Crooks and Hurst's Theological Encyclopaedia 'on the basis of Hagenbach': a work by other hands",
+  "hagenbach-music": "Church Music and Song: one article in a periodical"
+ },
+ "_rights_checked": {
+  "hagenbach-compendium-doctrines-1": "title page read: 1846; the translator's line is garbled in the OCR (another copy of the same printing reads 'CARL We. BUCTIL'), so no translator is claimed here",
+  "hagenbach-christian-doctrines-1": "title page read: 'Translated from the fifth and last German edition ... With an Introduction by E. H. Plumptre'; no translator named (vols II-III the same)",
+  "hagenbach-church-18th-19th-1": "title page read: name OCR'd 'K. K. HAGENBACH'",
+  "hagenbach-german-rationalism": "title page read: name OCR'd 'm. K. E. HAGENBACH'"
+ },
+ "_pending": {},
+ "_translators": {
+  "hagenbach-compendium-doctrines-2": "buch",
+  "hagenbach-reformation-1": "moore",
+  "hagenbach-reformation-2": "moore",
+  "hagenbach-german-rationalism": "gage",
+  "hagenbach-church-18th-19th-1": "hurst",
+  "hagenbach-church-18th-19th-2": "hurst"
+ },
+ "_checks": {
+  "hagenbach-compendium-doctrines-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1846; the translator's line is garbled in the OCR (another copy of the same printing reads 'CARL We. BUCTIL'), so no translator is claimed here"
+  },
+  "hagenbach-compendium-doctrines-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "translator_claimed": "buch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hagenbach-christian-doctrines-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated from the fifth and last German edition ... With an Introduction by E. H. Plumptre'; no translator named (vols II-III the same)"
+  },
+  "hagenbach-christian-doctrines-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hagenbach-christian-doctrines-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hagenbach-reformation-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "translator_claimed": "moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hagenbach-reformation-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "translator_claimed": "moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hagenbach-german-rationalism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "translator_claimed": "gage",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'm. K. E. HAGENBACH'"
+  },
+  "hagenbach-church-18th-19th-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "translator_claimed": "hurst",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'K. K. HAGENBACH'"
+  },
+  "hagenbach-church-18th-19th-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hagenbach",
+   "translator_claimed": "hurst",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,239 @@
+{
+ "_about": "Marcus Aurelius in English, translator per title: George Long (1862), George W. Chrystal (1902), clean Gutenberg. The Adler shelf's marcus-meditations (PG 2680) is labelled 'tr. George Long' there, but PG 2680 names no translator and its text opens 'His First Book concerning Himself', Meric Casaubon's 1634 wording, in an Everyman-style edition whose introduction lists Long as a different translator; so it is cross-referenced as Casaubon (inferred, not stated by the file). Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
+ "_name_words": [
+  "marcus",
+  "aurelius",
+  "antoninus",
+  "meditations",
+  "thoughts"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "marcus-aurelius-long": [
+   15877,
+   "Thoughts of Marcus Aurelius Antoninus",
+   "tr. George Long (1862)"
+  ],
+  "marcus-aurelius-chrystal": [
+   55317,
+   "The Meditations of the Emperor Marcus Aurelius Antoninus: a new rendering",
+   "tr. George W. Chrystal (1902)"
+  ]
+ },
+ "internet_archive": {
+  "marcus-aurelius-collier": [
+   "emperormarcusant00marcrich",
+   "The Emperor Marcus Antoninus, his Conversation with Himself (1702)",
+   "tr. Jeremy Collier"
+  ],
+  "marcus-aurelius-rendall": [
+   "marcusaureliusan00marcrich",
+   "Marcus Aurelius Antoninus to Himself (1898)",
+   "tr. Gerald H. Rendall"
+  ],
+  "marcus-aurelius-jackson-1906": [
+   "meditationsmarc00jackgoog",
+   "The Meditations of Marcus Aurelius Antoninus (Oxford, Frowde, 1906; introduction by Charles Bigg)",
+   "tr. John Jackson (from the catalogue; the scan's title page names no translator)"
+  ],
+  "marcus-aurelius-casaubon-everyman": [
+   "meditations00marcuoft",
+   "The Meditations of Marcus Aurelius (Everyman's Library no. 9, intro. W. H. D. Rouse; first issue of this edition 1906, this scan the 1948 reprint)",
+   "tr. Meric Casaubon"
+  ],
+  "marcus-aurelius-collier-1701": [
+   "emperormarcusant01marc",
+   "The Emperor Marcus Antoninus his Conversation with Himself, with Gataker's preliminary discourse and Dacier's Life (London: Richard Sare, 1701)",
+   "tr. Jeremy Collier"
+  ],
+  "marcus-aurelius-collier-zimmern-1887": [
+   "meditationsmarc02collgoog",
+   "The Meditations of Marcus Aurelius (Camelot Series; London: Walter Scott, 1887)",
+   "tr. Jeremy Collier, revised by Alice Zimmern"
+  ],
+  "marcus-aurelius-foulis-1749-v1": [
+   "meditationsempe01gatagoog",
+   "Meditations of the Emperor Marcus Aurelius Antoninus, newly translated from the Greek, with notes and an account of his life, second edition, vol. I (Glasgow: Robert and Andrew Foulis, 1749)",
+   "tr. anonymous (the title page names no translator)"
+  ],
+  "marcus-aurelius-foulis-1749-v2": [
+   "meditationsempe02gatagoog",
+   "Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749)",
+   "tr. anonymous (the title page names no translator)"
+  ],
+  "marcus-aurelius-mccormac-1844": [
+   "meditationsmarc00arrigoog",
+   "The Meditations of Marcus Aurelius Antoninus, with the Manual of Epictetus and a Summary of Christian Morality, freely translated from the original Greek (London: Longman, Brown, Green and Longmans, 1844)",
+   "tr. Henry M'Cormac"
+  ]
+ },
+ "_cross_ref": {
+  "marcus-meditations": "Adler shelf: PG 2680, Casaubon's translation by its wording (inferred); the Adler label 'tr. George Long' looks wrong"
+ },
+ "_excluded": {
+  "pg6920": "Thoughts of Marcus Aurelius (Long): catalogued but serves no text; PG 15877 kept",
+  "pg59784": "an index page",
+  "C. R. Haines, Loeb (1916)": "PD in US; pending",
+  "meditationsempe00gatagoog": "second copy of the 1749 Foulis vol. I; lower OCR (0.851 vs 0.862)",
+  "meditationsempe03gatagoog": "the Foulis translation's third edition (1752), same text as the 1749 held"
+ },
+ "_surname": [
+  "aurelius",
+  "antoninus"
+ ],
+ "_translators": {
+  "marcus-aurelius-long": "George Long",
+  "marcus-aurelius-chrystal": "George W. Chrystal",
+  "marcus-aurelius-collier": "Jeremy Collier",
+  "marcus-aurelius-rendall": "Gerald H. Rendall",
+  "marcus-aurelius-casaubon-everyman": "Meric Casaubon",
+  "marcus-aurelius-collier-zimmern-1887": "Jeremy Collier",
+  "marcus-aurelius-mccormac-1844": "henry m'cormac"
+ },
+ "_translator_unchecked": {
+  "marcus-aurelius-jackson-1906": "translator on the row (John Jackson (from the catalogue; the scan's title page names no translator)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "marcus-aurelius-collier-1701": "title page OCRs the name as 'Jeremy Cortrier, M. A.' (London: Richard Sare, MDCCI); the full name is not printed as a word in this OCR",
+  "marcus-aurelius-foulis-1749-v1": "the title page names no translator ('Newly translated from the Greek'); the archive.org record's creator field is not a translator attribution",
+  "marcus-aurelius-foulis-1749-v2": "the title page names no translator ('Newly translated from the Greek'); the archive.org record's creator field is not a translator attribution"
+ },
+ "_checks": {
+  "marcus-aurelius-long": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "George Long",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Long",
+   "translator_match": true
+  },
+  "marcus-aurelius-chrystal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "George W. Chrystal",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George W. Chrystal",
+   "translator_match": true
+  },
+  "marcus-aurelius-collier": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "Jeremy Collier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1702",
+   "ia_date": "1702",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-rendall": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "Gerald H. Rendall",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-jackson-1906": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-casaubon-everyman": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "Meric Casaubon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Imprint read: 'First issue of this edition 1906, Last reprinted 1948' (Dent/Dutton). Casaubon's translation is of 1634 and Rouse's introduction of 1906; a reprint adds nothing new. Taken as the 1906 edition, US public domain. Rouse died in 1950, so the introduction is not public domain everywhere under life+70."
+  },
+  "marcus-aurelius-collier-1701": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1701",
+   "ia_date": "1701",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "marcus-aurelius-collier-zimmern-1887": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "Jeremy Collier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-foulis-1749-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-foulis-1749-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-mccormac-1844": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "antoninus",
+   "translator_claimed": "henry m'cormac",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {
+  "marcus-aurelius-casaubon-everyman": "Imprint read: 'First issue of this edition 1906, Last reprinted 1948' (Dent/Dutton). Casaubon's translation is of 1634 and Rouse's introduction of 1906; a reprint adds nothing new. Taken as the 1906 edition, US public domain. Rouse died in 1950, so the introduction is not public domain everywhere under life+70."
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: William Frederick Harvey: Nyrop's The Kiss and Its History (1901) and Nordau's On Art and Artists (1907). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william frederick harvey",
+  "william frederic harvey"
+ ],
+ "_surname": [
+  "william frederick harvey",
+  "william frederic harvey"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wfh-51856": [
+   51856,
+   "The kiss and its history"
+  ],
+  "wfh-76748": [
+   76748,
+   "On art and artists"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "wf-harvey-nordau-on-art-and-artists": {
+   "source": "wfh-76748",
+   "of": "Max Nordau",
+   "work": "On art and artists",
+   "translated": "1901-1907 (see the Gutenberg header)",
+   "translator": "William Frederick Harvey",
+   "scan_edition": "Project Gutenberg 76748 (clean text)"
+  },
+  "wf-harvey-nyrop-the-kiss-and-its-history": {
+   "source": "wfh-51856",
+   "of": "Kristoffer Nyrop",
+   "work": "The kiss and its history",
+   "translated": "1901-1907 (see the Gutenberg header)",
+   "translator": "William Frederick Harvey",
+   "scan_edition": "Project Gutenberg 51856 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wfh-51856": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william frederick harvey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Frederick Harvey"
+  },
+  "wfh-76748": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william frederick harvey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Frederick Harvey"
+  }
+ },
+ "_verified": {
+  "wfh-51856": {
+   "pg": 51856,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Frederick Harvey"
+  },
+  "wfh-76748": {
+   "pg": 76748,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Frederick Harvey"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

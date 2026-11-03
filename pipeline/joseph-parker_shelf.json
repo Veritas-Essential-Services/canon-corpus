@@ -1,0 +1,634 @@
+{
+ "_about": "Public-domain Joseph Parker (1830-1902, Congregationalist, the City Temple, London) for the Word Hoard: Ecce Deus (1867), Ad Clerum (1873), The Paraclete (catalogued 1875), The Priesthood of Christ (catalogued 1876), The City Temple sermons (1870), The City Temple Pulpit vols. 1-7 (1899-1902) and the complete 27-volume New York People's Bible (Funk & Wagnalls, 1886-1893), raw Internet Archive OCR. Large shelf; veto point. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "parker",
+  "joseph"
+ ],
+ "_surname": [
+  "joseph parker",
+  "parker, joseph",
+  "joseph parker, d.d.",
+  "dr. joseph parker",
+  "j. parker"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "parker-ecce-deus": [
+   "eccedeusessay00parkuoft",
+   "Ecce Deus: Essays on the Life and Doctrine of Jesus Christ (Boston: Roberts Brothers, 1867; published anonymously)"
+  ],
+  "parker-ad-clerum": [
+   "adclerumadvicest00park",
+   "Ad Clerum: Advices to a Young Preacher (London: Hodder & Stoughton, MDCCCLXXIII)"
+  ],
+  "parker-paraclete": [
+   "paracleteessayon00park",
+   "The Paraclete: An Essay on the Personality and Ministry of the Holy Ghost (New York: Scribner, Armstrong & Co.; no year on title page, catalogued 1875)"
+  ],
+  "parker-priesthood-of-christ": [
+   "priesthoodofchri00park",
+   "The Priesthood of Christ: A Re-statement of Vital Truth (catalogued London: R. D. Dickinson, 1876)"
+  ],
+  "parker-city-temple-1870": [
+   "citytemplesermon00park",
+   "The City Temple: Sermons Preached in the Poultry Chapel, London, 1869-70 (London: Hodder & Stoughton, MDCCCLXX)"
+  ],
+  "parker-city-temple-pulpit-1": [
+   "citytemplepulpit01park",
+   "The City Temple Pulpit, vol. 1 (London: Hodder and Stoughton, 1899)"
+  ],
+  "parker-city-temple-pulpit-2": [
+   "citytemplepulpit02park",
+   "The City Temple Pulpit, vol. 2 (London: Hodder and Stoughton, 1900)"
+  ],
+  "parker-city-temple-pulpit-3": [
+   "citytemplepulpit03park",
+   "The City Temple Pulpit, vol. 3 (London: Hodder and Stoughton, 1900)"
+  ],
+  "parker-city-temple-pulpit-4": [
+   "citytemplepulpit04park",
+   "The City Temple Pulpit, vol. 4 (London: Hodder and Stoughton, 1901)"
+  ],
+  "parker-city-temple-pulpit-5": [
+   "citytemplepulpit05park",
+   "The City Temple Pulpit, vol. 5 (London: Hodder and Stoughton, 1901)"
+  ],
+  "parker-city-temple-pulpit-6": [
+   "citytemplepulpit06park",
+   "The City Temple Pulpit, vol. 6 (London: Hodder and Stoughton, 1902)"
+  ],
+  "parker-city-temple-pulpit-7": [
+   "citytemplepulpit07park",
+   "The City Temple Pulpit, vol. 7 (London: Hodder and Stoughton, 1902)"
+  ],
+  "parker-peoples-bible-01": [
+   "peoplesbibledisc01park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 1, Genesis (New York: Funk & Wagnalls, 1886)"
+  ],
+  "parker-peoples-bible-02": [
+   "peoplesbibledisc02park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 2, Exodus (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-03": [
+   "peoplesbibledisc03park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 3, Leviticus to Numbers xxvi (New York: Funk & Wagnalls, 1886)"
+  ],
+  "parker-peoples-bible-04": [
+   "peoplesbibledisc04park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 4, Numbers xxvii to Deuteronomy (New York: Funk & Wagnalls, 1886)"
+  ],
+  "parker-peoples-bible-05": [
+   "peoplesbibledisc05park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 5, Joshua to Judges v (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-06": [
+   "peoplesbibledisc06park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 6, Judges vi to 1 Samuel xviii (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-07": [
+   "peoplesbibledisc07park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 7, 1 Samuel xviii to 1 Kings xiii (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-08": [
+   "peoplesbibledisc08park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 8, 1 Kings xv to 1 Chronicles ix (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ],
+  "parker-peoples-bible-09": [
+   "peoplesbibledisc09park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 9, 1 Chronicles x to 2 Chronicles xx (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ],
+  "parker-peoples-bible-10": [
+   "peoplesbibledisc0000park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 10, 2 Chronicles xxi to Esther (New York: Funk & Wagnalls, 1889)"
+  ],
+  "parker-peoples-bible-11": [
+   "peoplesbibledisc11park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 11, Job (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ],
+  "parker-peoples-bible-12": [
+   "peoplesbibledisc12park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 12, The Psalter (New York: Funk & Wagnalls, 1890)"
+  ],
+  "parker-peoples-bible-13": [
+   "peoplesbibledisc13park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 13, Proverbs (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ],
+  "parker-peoples-bible-14": [
+   "peoplesbibledisc14park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 14, Ecclesiastes, Song of Solomon, Isaiah i-xxvi (New York: Funk & Wagnalls, 1891)"
+  ],
+  "parker-peoples-bible-15": [
+   "peoplesbibledisc15park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 15, Isaiah xxvii to Jeremiah xix (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ],
+  "parker-peoples-bible-16": [
+   "peoplesbibledisc16park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 16, Jeremiah xx to Daniel (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ],
+  "parker-peoples-bible-17": [
+   "peoplesbibledisc17park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 17, Hosea to Malachi (New York: Funk & Wagnalls, 1892)"
+  ],
+  "parker-peoples-bible-18": [
+   "peoplesbibledisc18park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 18, Matthew (The Inner Life of Christ, vol. 1) (New York: Funk & Wagnalls, 1888)"
+  ],
+  "parker-peoples-bible-19": [
+   "peoplesbibledisc19park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 19, Matthew (The Inner Life of Christ, vol. 2) (New York: Funk & Wagnalls, 1888)"
+  ],
+  "parker-peoples-bible-20": [
+   "peoplesbibledisc20park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 20, Matthew (The Inner Life of Christ, vol. 3) (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-21": [
+   "peoplesbibledisc21park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 21, Mark and Luke (New York: Funk & Wagnalls; title-page year illegible, probably 1891)"
+  ],
+  "parker-peoples-bible-22": [
+   "peoplesbibledisc22park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 22, John (New York: Funk & Wagnalls, 1893)"
+  ],
+  "parker-peoples-bible-23": [
+   "peoplesbibledisc23park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 23, Acts (Apostolic Life, vol. 1) (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-24": [
+   "peoplesbibledisc24park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 24, Acts (Apostolic Life, vol. 2) (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-25": [
+   "peoplesbibledisc25park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 25, Acts (Apostolic Life, vol. 3) (New York: Funk & Wagnalls, 1887)"
+  ],
+  "parker-peoples-bible-26": [
+   "peoplesbibledisc26park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 26, Romans to Galatians (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ],
+  "parker-peoples-bible-27": [
+   "peoplesbibledisc27park",
+   "The People's Bible: Discourses upon Holy Scripture, vol. 27, Ephesians to Revelation (New York: Funk & Wagnalls; no year on title page, catalogued 1886)"
+  ]
+ },
+ "_alternates": {
+  "parker-peoples-bible-london": "London (Hazell, Watson & Viney) 25-volume set: IA peoplesbibledisc0023park, peoplesbibledisc0000park_o4d2, _l8d9, _s4u6",
+  "parker-peoples-bible-10-princeton": "Princeton copy of vol. 10 (IA peoplesbibledisc10park): returned 503 and empty metadata; Claremont copy shelved instead",
+  "parker-ad-clerum-2": "second copy of Ad Clerum (IA adclerumadvicestyp00park): returned 503, unverified"
+ },
+ "_excluded": {
+  "parker-reprints": "IA genesispeoplesbi0000jose (1951), parkerspeoplesbi0015jose (1941), parkerspeoplesbi0000jose (1945): post-1930 reprints",
+  "parker-unidentified": "Claremont People's Bible copies with no volume on the title page (_m4e9, _l6l5, _b7v1, _z6c9, _s5o5)",
+  "parker-pg-54736": "PG 54736: an anthology of Moody, Talmage and Parker, not a Parker book"
+ },
+ "_identity_checked": {
+  "parker-ecce-deus": {
+   "author": "Published anonymously; no author on the title page. Attribution to Parker is the catalogue's and the standard one."
+  },
+  "parker-peoples-bible-08": {
+   "author": "Title page read: \"JOSEPH^^PARKER, D.D., Minister of the City Temple\", Vol. VIII, Funk & Wagnalls (OCR joins the name)."
+  },
+  "parker-peoples-bible-15": {
+   "author": "Title page read: \"BY JOSEPH \\\"IpARKER, D.D., Minister of the City Temple\", Vol. XV (OCR)."
+  },
+  "parker-peoples-bible-26": {
+   "author": "Title page read: \"JOSEPH TARKER, O.D., Minister of the City Temple\", Vol. XXVI (OCR for Parker, D.D.)."
+  }
+ },
+ "_rights_checked": {
+  "parker-peoples-bible-10": "title page read: New York: Funk & Wagnalls, 1889 (Claremont copy); author died 1902"
+ },
+ "_checks": {
+  "parker-ecce-deus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-ad-clerum": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-paraclete": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-priesthood-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-city-temple-1870": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-city-temple-pulpit-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "parker, joseph",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-city-temple-pulpit-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-city-temple-pulpit-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-city-temple-pulpit-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-city-temple-pulpit-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-city-temple-pulpit-6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-city-temple-pulpit-7": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parker-peoples-bible-01": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-02": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-03": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-04": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-05": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-06": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-07": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-08": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-09": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-10": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: New York: Funk & Wagnalls, 1889 (Claremont copy); author died 1902"
+  },
+  "parker-peoples-bible-11": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-12": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-13": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-14": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-15": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-16": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-17": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-18": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-19": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-20": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-21": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-22": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-23": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-24": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-25": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-26": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parker-peoples-bible-27": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

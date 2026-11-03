@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain Louis Aloisius Lambert, American Roman Catholic priest and controversialist, for the Word Hoard: Notes on Ingersoll, Tactics of Infidels, his answer to Ingersoll's Christmas sermon, and Thesaurus Biblicus, which he compiled from the Latin of Philip Paul Merz. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 132 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "louis aloisius lambert",
+  "louis a. lambert",
+  "l. a. lambert",
+  "rev. l. a. lambert",
+  "lambert"
+ ],
+ "_surname": [
+  "lambert"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lambert-notes-on-ingersoll": [
+   "notesoningersol00lamb",
+   "Notes on Ingersoll ([n.p.], 1883)"
+  ],
+  "lambert-tactics-of-infidels": [
+   "tacticsofinfidel0000lamb",
+   "Tactics of infidels (Buffalo : Peter Paul & Brother, 1887)"
+  ],
+  "lambert-ingersolls-christmas-sermon": [
+   "ingersollschrist00lamb",
+   "Ingersoll's Christmas sermon (Akron, O., Chicago [etc.] D. H. McBride & company, 1898)"
+  ],
+  "lambert-thesaurus-biblicus": [
+   "thesaurusbiblicu00lamb",
+   "Thesaurus biblicus : or, Hand-book of Scripture reference (Waterloo [Ont.] : Observer Book Pub. Co., 1880)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "lambert-others": "the Languedoc songs, the Analysis of the Gospels and Christian Science before the Bar of Reason are by others",
+  "lambert-dups": "microform and French copies of Notes on Ingersoll"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lambert-notes-on-ingersoll": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lambert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lambert-tactics-of-infidels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lambert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lambert-ingersolls-christmas-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lambert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lambert-thesaurus-biblicus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lambert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

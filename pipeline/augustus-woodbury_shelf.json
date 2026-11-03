@@ -1,0 +1,180 @@
+{
+ "_about": "Public-domain Augustus Woodbury (1825-1895), Unitarian minister of the Westminster Congregational Church, Providence, and chaplain of the First Rhode Island Regiment, for the Word Hoard: Plain Words to Young Men, The Divine Unity, his Civil War and Lincoln sermons, The Character and Influence of American Civilization, and his narratives of the First Rhode Island Regiment and of Burnside and the Ninth Army Corps. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 107 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "augustus woodbury",
+  "a. woodbury"
+ ],
+ "_surname": [
+  "augustus woodbury",
+  "a. woodbury",
+  "woodbury"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "awoodbury-divine-unity": [
+   "divineunity00wood",
+   "The divine unity (Boston : American Unitarian Association, [18-)"
+  ],
+  "awoodbury-american-civilization": [
+   "characterinfluen00wood",
+   "The character and influence of American civilization (Lowell, S. J. Varney, printer, 1855)"
+  ],
+  "awoodbury-plain-words": [
+   "plainwordstoyou00woodgoog",
+   "Plain Words to Young Men (E. C. Eastman, 1858)"
+  ],
+  "awoodbury-courage": [
+   "couragesermonwhi00wood",
+   "Courage. A sermon which was to have been preached on Sunday morning, April 21, 1861 (Providence, Cooke & Danielson, printers, 1861)"
+  ],
+  "awoodbury-preservation": [
+   "preservationofre00wood",
+   "The preservation of the republic. An oration delivered before the municipal authorities and citizens of Providence, July 4, 1862 (Providence : Knowles, Anthony & Co., City Printers, 1862)"
+  ],
+  "awoodbury-son-of-god": [
+   "sonofgodcallethd00wood",
+   "The Son of God calleth the dead to life (Providence, S. S. Rider and brother, 1865)"
+  ],
+  "awoodbury-lincoln": [
+   "sketchofcharacte00wood",
+   "A sketch of the character of Abraham Lincoln : a discourse preached in the Westminster Church, Providence, R.I., Thursday, June 1, 1865 (Providence : S.S. Rider and Brother, 1865)"
+  ],
+  "awoodbury-president-congress": [
+   "presidentcongres00wood",
+   "The President and Congress. A discourse preached in the Westminster Congregational church, Sunday evening, May 6, 1866 (Providence, G. H. Whitney, 1866)"
+  ],
+  "awoodbury-first-ri": [
+   "woodburynarrative00augurich",
+   "A narrative of the campaign of the First Rhode Island regiment, in the spring and summer of 1861 (Providence : Sidney S. Rider, 1862)"
+  ],
+  "awoodbury-burnside": [
+   "ambroseburnside00woodrich",
+   "Major General Ambrose E. Burnside and the Ninth Army Corps : a narrative of campaigns in North Carolina, Maryland, Virginia, Ohio, Kentucky, Mississippi and Tennessee, during the war for the preservation of the Republic (Providence, S.S. Rider & Brother, 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "awoodbury-divine-unity": "Title page: \"Fourth Series. No. 93. The Divine Unity. By Rev. Augustus Woodbury, D.D. American Unitarian Association, Boston.\" No date printed; the author died in 1895, so it was printed before 1930."
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "awoodbury-divine-unity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page: \"Fourth Series. No. 93. The Divine Unity. By Rev. Augustus Woodbury, D.D. American Unitarian Association, Boston.\" No date printed; the author died in 1895, so it was printed before 1930."
+  },
+  "awoodbury-american-civilization": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "awoodbury-plain-words": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "awoodbury-courage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "awoodbury-preservation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "awoodbury-son-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "awoodbury-lincoln": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "awoodbury-president-congress": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "awoodbury-first-ri": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "awoodbury-burnside": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus woodbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

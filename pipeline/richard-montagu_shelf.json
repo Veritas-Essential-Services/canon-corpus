@@ -1,0 +1,113 @@
+{
+ "_about": "Public-domain Richard Montagu (1577-1641), Bishop of Chichester and then of Norwich, the anti-Calvinist controversialist of the 1620s, for the Word Hoard: A Gagg for the New Gospell? No: A New Gagg for an Old Goose (1624), Immediate Addresse unto God Alone (1624), Appello Caesarem (1625), Diatribae upon the First Part of the Late History of Tithes (1621) and The Acts and Monuments of the Church before Christ Incarnate (1642), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "montagu"
+ ],
+ "_surname": [
+  "richard montagu",
+  "montagu",
+  "mountagu",
+  "mountague",
+  "montacutius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "montagu-new-gagg-1624": [
+   "bim_early-english-books-1475-1640_a-gagg-for-the-new-gospe_montagu-richard-bp_1624",
+   "A gagg for the new gospell? No. A new gagg for an old goose.  1624 (catalogued 1624)"
+  ],
+  "montagu-immediate-addresse-1624": [
+   "bim_early-english-books-1475-1640_immediate-addresse-unto-_montagu-richard-bp_1624",
+   "Immediate addresse unto God alone.  1624 (England : Printed by William Stansby, for Matthew Lownes and William Barret, 1624)"
+  ],
+  "montagu-appello-caesarem-1625": [
+   "appellocaesaremi00mont",
+   "Appello Caesarem : a iust appeale from two vniust informers (London : Printed by H[umphrey]. L[ownes]. for Mathew Lownes, 1625)"
+  ],
+  "montagu-diatribae-tithes-1621": [
+   "bim_early-english-books-1475-1640_diatrib-upon-the-first-_montagu-richard-bp_1621",
+   "Diatribæ upon the first part of the late history of tithes ...  1621 (catalogued 1621)"
+  ],
+  "montagu-acts-and-monuments-1642": [
+   "bim_early-english-books-1641-1700_the-acts-and-monuments-o_montagu-richard-bp_1642",
+   "The acts and monuments of the church ...  1642 (catalogued 1642)"
+  ]
+ },
+ "_alternates": {
+  "montagu-copies": "The EEBO copies of Appello Caesarem (1625)"
+ },
+ "_excluded": {
+  "montagu-latin": "His Latin works (Analecta 1622, De originibus ecclesiasticis 1635-1640, Theanthropikon 1640, the Photius edition 1651)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "montagu-new-gagg-1624": {
+   "author": "title page read from the (dark) page image: 'A New Gagg for an Old Goose ... or an Answer to a late Abridger of Controversies ... By Richard Mountagu'",
+   "title": "the OCR of this film starts at the preface; the title words were read from the page image"
+  },
+  "montagu-immediate-addresse-1624": "title page read (OCR): 'Immediate Addresse unto God Alone ... By RICHARD MOVNTAGV' (OCR 'MOVNTAGY'), printed by William Stansby"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "montagu-new-gagg-1624": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1624",
+   "ia_date": "1624",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "montagu-immediate-addresse-1624": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1624",
+   "ia_date": "1624",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "montagu-appello-caesarem-1625": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mountagu",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1625",
+   "ia_date": "1625",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "montagu-diatribae-tithes-1621": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montagu",
+   "identity": "ok",
+   "ia_rights": "ok: published 1621",
+   "ia_date": "1621",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "montagu-acts-and-monuments-1642": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montagu",
+   "identity": "ok",
+   "ia_rights": "ok: published 1642",
+   "ia_date": "1642",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

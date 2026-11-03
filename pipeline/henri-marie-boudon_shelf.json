@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Henri-Marie Boudon (1624-1702), archdeacon of Evreux, for the Word Hoard: Devotion to the Holy Angels (Dublin, 1857), The Hidden Life of Jesus, Devotion to the Nine Choirs of Holy Angels and The Holy Ways of the Cross in Edward Healy Thompson's translations (1869-1875), and The Book of Perpetual Adoration (1873), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "boudon"
+ ],
+ "_surname": [
+  "boudon",
+  "h. m. boudon",
+  "henri-marie boudon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boudon-holy-angels-1857": [
+   "DevotionToTheHolyAngels",
+   "Devotion to the Holy Angels, translated from the French of the Venerable H. M. Boudon (Dublin: C. M. Warren, 1857)"
+  ],
+  "boudon-hidden-life-jesus-1869": [
+   "TheHiddenLifeOfJesus",
+   "The Hidden Life of Jesus: a lesson and model to Christians, tr. Edward Healy Thompson (London: Burns, Oates & Co.; Dublin: Kelly, 1869)"
+  ],
+  "boudon-nine-choirs-1869": [
+   "DevotionToThe9ChoirsOfHolyAngels",
+   "Devotion to the Nine Choirs of Holy Angels, tr. Edward Healy Thompson (London: Burns, Oates & Co.; Dublin: Kelly, 1869)"
+  ],
+  "boudon-perpetual-adoration-1873": [
+   "TheBookOfPerpetualAdoration",
+   "The Book of Perpetual Adoration; or, The Love of Jesus in the Most Holy Sacrament, edited by J. Redman (London: R. Washbourne, 1873)"
+  ],
+  "boudon-holy-ways-cross-1875": [
+   "TheHolyWaysOfTheCross",
+   "The Holy Ways of the Cross, tr. Edward Healy Thompson (London: Burns, Oates & Co., 1875)"
+  ]
+ },
+ "_alternates": {
+  "boudon-copies": "The Glories of the Holy Angels (Philadelphia: McGrath, catalogued 1854); Google copies of each 1869-1875 book"
+ },
+ "_excluded": {
+  "boudon-other": "The Wayes of the Crosse (catalogued 1676: the title page names no author); Lives of Boudon by others"
+ },
+ "_rights_checked": {
+  "boudon-holy-angels-1857": "title page read: translator not named",
+  "boudon-perpetual-adoration-1873": "title page read: translator not named; edited by J. Redman"
+ },
+ "_pending": {},
+ "_translators": {
+  "boudon-hidden-life-jesus-1869": "thompson",
+  "boudon-nine-choirs-1869": "thompson",
+  "boudon-holy-ways-cross-1875": "thompson"
+ },
+ "_checks": {
+  "boudon-holy-angels-1857": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boudon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  },
+  "boudon-hidden-life-jesus-1869": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boudon",
+   "translator_claimed": "thompson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boudon-nine-choirs-1869": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boudon",
+   "translator_claimed": "thompson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boudon-perpetual-adoration-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boudon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; edited by J. Redman"
+  },
+  "boudon-holy-ways-cross-1875": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boudon",
+   "translator_claimed": "thompson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

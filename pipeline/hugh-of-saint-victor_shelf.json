@@ -1,0 +1,50 @@
+{
+ "_about": "Public-domain Hugh of Saint Victor (about 1096-1141, canon regular of Paris) in English for the Word Hoard: the Explanation of the Rule of St Augustine, tr. Aloysius Smith (London: Sands, 1911), from an Internet Archive scan. Richard of Saint Victor has no pre-1930 English beyond the anonymous Middle English Benjamin in Gardner's anthology, so he has no shelf. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hugh"
+ ],
+ "_surname": [
+  "hugh of st victor",
+  "hugh of st. victor",
+  "hugh of saint victor",
+  "hugh of s. victor"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hugh-explanation-rule": [
+   "explanationofthe00vicuoft",
+   "Explanation of the Rule of St Augustine, tr. Aloysius Smith (London: Sands, 1911)"
+  ]
+ },
+ "_alternates": {
+  "hugh-rule-bruges": "The Rule of the Great S. Augustin expounded by Hugh of S. Victor, from the French of Charles de la Grange (Bruges: John de Cock; catalogued 1735): English translator not named"
+ },
+ "_excluded": {
+  "hugh-late": "Post-1929 translations (Soliloquy 1956, Didascalicon 1961, De sacramentis 1951)",
+  "hugh-other-languages": "German and French editions"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "hugh-soliloquy": "A pre-1930 English Soliloquy on the Earnest of the Soul: not found"
+ },
+ "_translators": {
+  "hugh-explanation-rule": "smith"
+ },
+ "_checks": {
+  "hugh-explanation-rule": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hugh of st victor",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

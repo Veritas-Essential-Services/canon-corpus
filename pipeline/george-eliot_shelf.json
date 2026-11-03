@@ -1,0 +1,33 @@
+{
+ "_about": "George Eliot's (1819-1880) Silas Marner. Middlemarch is already held (adler_shelf.json `eliot-middlemarch`). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "George Eliot",
+ "_name_words": [
+  "george",
+  "eliot"
+ ],
+ "_surname": [
+  "george eliot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "george-eliot-silas-marner": [
+   550,
+   "Silas Marner (1861)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "eliot-middlemarch": "HELD elsewhere: adler_shelf.json"
+ },
+ "_checks": {
+  "george-eliot-silas-marner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

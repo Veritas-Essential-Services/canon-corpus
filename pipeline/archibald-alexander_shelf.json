@@ -1,0 +1,328 @@
+{
+ "_about": "Public-domain Archibald Alexander (1772-1851, first professor of Princeton Theological Seminary) for the Word Hoard. Three books clean from CCEL; five more as raw Internet Archive OCR. Not his sons J. W. and J. A. Alexander, whose books are not shelved here. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted. Extended 2026-10-28 by lane A at Adam's request (his Logos author list): A Brief Compend of Bible Truth, Practical Truths, A Pocket Dictionary of the Holy Bible, A Memorial of Mrs. Margaret Breckinridge, The Way of Salvation Familiarly Explained, and his sermons and addresses of 1812 to 1846.",
+ "_ccel_author": "a/alexander_a",
+ "_name_words": [
+  "alexander",
+  "archibald"
+ ],
+ "_surname": [
+  "archibald alexander",
+  "a. alexander",
+  "dr. alexander",
+  "dr alexander"
+ ],
+ "_held": {},
+ "ccel": {
+  "aalexander-canon": [
+   "canon",
+   "The Canon of the Old and New Testaments Ascertained",
+   ""
+  ],
+  "aalexander-evidences": [
+   "evidences",
+   "The Evidences of the Christian Religion",
+   ""
+  ],
+  "aalexander-moral-science": [
+   "outlines",
+   "Outlines of Moral Science",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "aalexander-religious-experience-1844": [
+   "thoughtsonreligi00alexuoft",
+   "Thoughts on Religious Experience (Philadelphia, 1844)"
+  ],
+  "aalexander-log-college-1851": [
+   "biographicalsketcheso00alex",
+   "Biographical Sketches of the Founder and Principal Alumni of the Log College (1851)"
+  ],
+  "aalexander-practical-sermons-1850": [
+   "practicalsermons00alexuoft",
+   "Practical Sermons, to be Read in Families and Social Meetings (1850)"
+  ],
+  "aalexander-israelitish-nation-1853": [
+   "historyofisraeli00alex",
+   "A History of the Israelitish Nation (1853)"
+  ],
+  "aalexander-colonization-1846": [
+   "historyofcoloniz00alex",
+   "A History of Colonization on the Western Coast of Africa (1846)"
+  ],
+  "alexander-discourse-1812": [
+   "discourseoccasio00alex",
+   "A discourse occasioned by the burning of the theatre in the city of Richmond, Virginia, on the twenty-sixth of December, 1811. By which lawful calamity a large number of lives were lost. Delivered in the Third Presbyterian church, Philadelphia, on the eighth day of January, 1812, at the request of the Virginia students attached to the medical class in the University of Pennsylvania (Philadelphia, Printed by John Weldwood Scott for Daniel Wilson, 1812)"
+  ],
+  "alexander-missionary-sermon-1814": [
+   "missionarysermon00alex",
+   "Missionary sermon preached in the first Presbyterian Church in Philadelphia, on the twenty-third of May, 1814 / by Archibald Alexander (Philadelphia : Printed by William Fry, Prune Street, 1814)"
+  ],
+  "alexander-suggestions-1829": [
+   "suggestionsinvin14alex",
+   "Suggestions in vindication of Sunday-schools, but more especially for the improvement of Sunday-school books, and the enlargement of the plan of instruction ([Princeton, N.J.? : s.n.], 1829)"
+  ],
+  "alexander-objections-obviated": [
+   "objectionsobviat00alex",
+   "Objections obviated, and God glorified, by the success of the gospel among the heathen : a sermon preached at Albany, N.Y., Oct. 7, 1829, at the twentieth annual meeting of the American Board of Commissioners for Foreign Missions (Printed by Crocker and Brewster, 1830)"
+  ],
+  "alexander-pocket-dictionary": [
+   "pocketdictionary00alex",
+   "A pocket dictionary of the Holy Bible. Containing, a historical and geographical account of the persons and places mentioned in the Old and New Testaments: and also a description of other objects, natural, artificial, civil, religious, and military; together with a copious reference to texts of Scripture under each important word (Philadelphia, American Sunday school union, 1831)"
+  ],
+  "alexander-address-candidates": [
+   "addresstocandidates00alex",
+   "An address to candidates for the ministry : on the importance of aiming at eminent piety in making their preparation for the sacred office (Philadelphia : Russell and Martien, 1832)"
+  ],
+  "alexander-pastoral-office": [
+   "pastoralofficese00alex",
+   "The pastoral office : a sermon preached at Philadelphia before the Association of the Alumni of the Theological Seminary at Princeton on Wednesday morning, May 21, 1834 (Philadelphia : Henry Perkins, 1834)"
+  ],
+  "alexander-margaret-breckinridge": [
+   "memorialofmrsmar00alex",
+   "A Memorial of Mrs. Margaret Breckinridge (Philadelphia : W. C. Martien, 1839)"
+  ],
+  "alexander-brief-compend": [
+   "briefcompendofbi00alexuoft",
+   "A brief compend of Bible truth (Philadelphia, Presb. Bd. of Pub, [184)"
+  ],
+  "alexander-practical-truths": [
+   "practicaltruths00alex",
+   "Practical truths (New York, The American tract society, 1857)"
+  ],
+  "alexander-way-of-salvation": [
+   "wayofsalvationfa00alex",
+   "The way of salvation familiarly explained : in a conversation between a father and his children (Philadelphia : Presbyterian Board of Publication, 1800)"
+  ]
+ },
+ "_alternates": {
+  "thoughtsonreligi00alex (1841), 02alex, 1844alex, 01alex, 00alexrich; biographicalske00alex (1845); historyofisraeli1853alex; historyofcoloniz01alex, 00alex_0; outlinesofmorals1868alex etc.": "Other printings and scans."
+ },
+ "_excluded": {
+  "canonofoldnewtes0000alex": "Lending-library scan.",
+  "advicetoyoung*, pastoralreminis*, rationaldefenceo00watt, memoirofrevjosep00swif, lecture02mcdo": "Books by others with Alexander's preface or contribution.",
+  "alexander-x-others": "Henry's Exposition (1828), Paley's Evidences, the hymn selection, the Christian Pamphlets volume and the 1792 Dialogue are other men's books or of uncertain authorship",
+  "alexander-x-same": "A Brief Outline of the Evidences and the Evidences of the Authenticity are earlier forms of the Evidences already held from CCEL",
+  "alexander-x-tracts": "the four-page tracts Christ's Gracious Invitation and Love to an Unseen Saviour",
+  "alexander-x-soldiers": "the Manual of Devotion for Soldiers (1847) is a compilation"
+ },
+ "_checks": {
+  "aalexander-canon": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Philadelphia: Presbyterian Board of Publication [1851 ?]",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "aalexander-evidences": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Johnathan Leavitt (1832)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "aalexander-moral-science": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Charles Scribner (1854)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "aalexander-religious-experience-1844": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aalexander-log-college-1851": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aalexander-practical-sermons-1850": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "[1850]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aalexander-israelitish-nation-1853": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aalexander-colonization-1846": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alexander-discourse-1812": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "a. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alexander-missionary-sermon-1814": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alexander-suggestions-1829": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alexander-objections-obviated": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alexander-pocket-dictionary": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "alexander-address-candidates": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alexander-pastoral-office": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alexander-margaret-breckinridge": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "a. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alexander-brief-compend": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "[1846]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alexander-practical-truths": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "archibald alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "alexander-way-of-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "a. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_pending": {
+  "alexander-education-1846": "Thoughts on the education of pious and indigent candidates for the ministry (Philadelphia : Board of Education of the Presbyterian Church, 1846) (IA thoughtsoneducat00alex): the OCR of its opening pages never names him, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ }
+}

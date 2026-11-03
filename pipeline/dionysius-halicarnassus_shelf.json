@@ -1,0 +1,110 @@
+{
+ "_about": "Dionysius of Halicarnassus, On Literary Composition, ed. and tr. W. Rhys Roberts (1910), clean Gutenberg; Greek text with facing English kept.",
+ "_name_words": [
+  "dionysius",
+  "halicarnassus",
+  "composition"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dionysius-roberts-composition": [
+   50212,
+   "Dionysius of Halicarnassus On Literary Composition",
+   "ed. and tr. W. Rhys Roberts"
+  ]
+ },
+ "internet_archive": {
+  "dionysius-spelman-v1": [
+   "romanantiquities01dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 1 (London, 1758)",
+   "tr. Edward Spelman"
+  ],
+  "dionysius-spelman-v2": [
+   "romanantiquities02dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 2 (London, 1758)",
+   "tr. Edward Spelman"
+  ],
+  "dionysius-spelman-v3": [
+   "romanantiquities03dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 3 (London, 1758)",
+   "tr. Edward Spelman"
+  ],
+  "dionysius-spelman-v4": [
+   "romanantiquities04dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 4 (London, 1758)",
+   "tr. Edward Spelman"
+  ]
+ },
+ "_excluded": {
+  "Roman Antiquities (Spelman, 1758)": "not yet located; Cary's Loeb (1937-50) not PD"
+ },
+ "_surname": [
+  "dionysius"
+ ],
+ "_translators": {
+  "dionysius-roberts-composition": "w. rhys roberts"
+ },
+ "_translator_unchecked": {
+  "dionysius-spelman-v1": "translator on the row (Edward Spelman) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "dionysius-spelman-v2": "translator on the row (Edward Spelman) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "dionysius-spelman-v3": "translator on the row (Edward Spelman) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "dionysius-spelman-v4": "translator on the row (Edward Spelman) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "dionysius-roberts-composition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dionysius",
+   "translator_claimed": "w. rhys roberts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dionysius-spelman-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dionysius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "MDCCLVIII [1758]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dionysius-spelman-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dionysius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "MDCCLVIII [1758]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dionysius-spelman-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dionysius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "MDCCLVIII [1758]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dionysius-spelman-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dionysius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "MDCCLVIII [1758]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

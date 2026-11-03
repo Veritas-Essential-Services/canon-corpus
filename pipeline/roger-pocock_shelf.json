@@ -1,0 +1,122 @@
+{
+ "_about": "Roger Pocock's writing at Gutenberg: adventure novels and frontier writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Roger Pocock",
+ "_name_words": [
+  "pocock"
+ ],
+ "_surname": [
+  "pocock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rpocock-man-in-the-open": [
+   33423,
+   "A Man in the Open"
+  ],
+  "rpocock-curly": [
+   41447,
+   "Curly: A Tale of the Arizona Desert"
+  ],
+  "rpocock-wolf-trail": [
+   69946,
+   "The wolf trail"
+  ],
+  "rpocock-blackguard": [
+   70120,
+   "The Blackguard"
+  ],
+  "rpocock-chariot-of-the-sun": [
+   70224,
+   "The chariot of the sun"
+  ],
+  "rpocock-cheerful-blackguard": [
+   70400,
+   "The cheerful blackguard"
+  ],
+  "rpocock-captains-of-adventure": [
+   72176,
+   "Captains of adventure"
+  ],
+  "rpocock-horses": [
+   73259,
+   "Horses"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rpocock-man-in-the-open": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpocock-curly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpocock-wolf-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpocock-blackguard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpocock-chariot-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpocock-cheerful-blackguard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpocock-captains-of-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpocock-horses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pocock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,324 @@
+{
+ "_about": "The two Plinys in English, translator per title. Elder: John Bostock and H. T. Riley's Natural History (Bohn, 1855-57), 6 vols., clean Gutenberg. Younger: William Melmoth's Letters (1746), revised by F. C. T. Bosanquet; John B. Firth's Letters, First Series vol. 1. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Added 2026-10-03: John Boyle, Earl of Orrery's Letters of Pliny the Younger with observations: vol. I from the 1751 first edition, vol. II from the 1752 second edition (no single-edition pair found as text), raw IA OCR.",
+ "_name_words": [
+  "pliny",
+  "plinius"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pliny-elder-bostock-riley-v1": [
+   57493,
+   "The Natural History of Pliny, vol. 1 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v2": [
+   60230,
+   "The Natural History of Pliny, vol. 2 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v3": [
+   59131,
+   "The Natural History of Pliny, vol. 3 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v4": [
+   61113,
+   "The Natural History of Pliny, vol. 4 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v5": [
+   60688,
+   "The Natural History of Pliny, vol. 5 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v6": [
+   62704,
+   "The Natural History of Pliny, vol. 6 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-younger-melmoth-letters": [
+   2811,
+   "Letters of Pliny",
+   "tr. William Melmoth, rev. F. C. T. Bosanquet"
+  ],
+  "pliny-younger-firth-letters-1": [
+   3234,
+   "The Letters of the Younger Pliny, First Series, vol. 1",
+   "tr. John B. Firth"
+  ]
+ },
+ "internet_archive": {
+  "pliny-melmoth-hutchinson-letters-v1": [
+   "letterswithengli01plinuoft",
+   "Letters, vol. 1 (Loeb, 1915)",
+   "tr. William Melmoth, revised by W. M. L. Hutchinson"
+  ],
+  "pliny-melmoth-hutchinson-letters-v2": [
+   "letterswithengli02plinuoft",
+   "Letters, vol. 2 (Loeb, 1915)",
+   "tr. William Melmoth, revised by W. M. L. Hutchinson"
+  ],
+  "pliny-holland-natural-history-v1": [
+   "plinyhollandhistorie01",
+   "The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 1 (1601)",
+   "tr. Philemon Holland"
+  ],
+  "pliny-holland-natural-history-v2": [
+   "plinyhollandhistorie02",
+   "The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 2 (1601)",
+   "tr. Philemon Holland"
+  ],
+  "pliny-younger-lewis-letters": [
+   "lettersyoungerp00plingoog",
+   "The Letters of the Younger Pliny, literally translated (Kegan Paul, Trench, 1890)",
+   "tr. John Delaware Lewis"
+  ],
+  "pliny-younger-firth-letters-2": [
+   "in.ernet.dli.2015.38111",
+   "The Letters of the Younger Pliny, Second Series: Books VI-X (London and Felling-on-Tyne: Walter Scott Publishing Co.; no printed date, see _rights_checked)",
+   "2015.38111.The-Letters-Of-The-Younger-Pliny_djvu.txt",
+   "tr. John B. Firth"
+  ],
+  "pliny-orrery-letters-1751-v1": [
+   "lettersplinyyou00plingoog",
+   "The Letters of Pliny the Younger, with observations on each letter and an essay on Pliny's life, vol. I (Vaillant, 1751)",
+   "tr. John, Earl of Orrery"
+  ],
+  "pliny-orrery-letters-1752-v2": [
+   "lettersplinyyou02plingoog",
+   "The Letters of Pliny the Younger, with observations, vol. II, the second edition (Vaillant, 1752)",
+   "tr. John, Earl of Orrery"
+  ]
+ },
+ "_excluded": {
+  "pg58589": "The Boys' and Girls' Pliny: adaptation",
+  "Firth, the remaining volume(s)": "Second Series held from a DLI scan (pliny-younger-firth-letters-2), found 2026-10-03",
+  "Philemon Holland's Natural History (1601)": "PD; pending"
+ },
+ "_surname": [
+  "pliny",
+  "plinius"
+ ],
+ "_translators": {
+  "pliny-elder-bostock-riley-v1": "John Bostock",
+  "pliny-elder-bostock-riley-v2": "John Bostock",
+  "pliny-elder-bostock-riley-v3": "John Bostock",
+  "pliny-elder-bostock-riley-v4": "John Bostock",
+  "pliny-elder-bostock-riley-v5": "John Bostock",
+  "pliny-elder-bostock-riley-v6": "John Bostock",
+  "pliny-younger-melmoth-letters": "William Melmoth",
+  "pliny-younger-firth-letters-1": "John B. Firth",
+  "pliny-melmoth-hutchinson-letters-v1": "William Melmoth",
+  "pliny-melmoth-hutchinson-letters-v2": "William Melmoth",
+  "pliny-younger-lewis-letters": "John Delaware Lewis",
+  "pliny-younger-firth-letters-2": "John B. Firth",
+  "pliny-orrery-letters-1751-v1": "Orrery",
+  "pliny-orrery-letters-1752-v2": "Orrery"
+ },
+ "_translator_unchecked": {
+  "pliny-holland-natural-history-v1": "translator on the row (Philemon Holland) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "pliny-holland-natural-history-v2": "translator on the row (Philemon Holland) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "pliny-elder-bostock-riley-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John Bostock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bostock; Henry T. Riley",
+   "translator_match": true
+  },
+  "pliny-elder-bostock-riley-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John Bostock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bostock; Henry T. Riley",
+   "translator_match": true
+  },
+  "pliny-elder-bostock-riley-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John Bostock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bostock; Henry T. Riley",
+   "translator_match": true
+  },
+  "pliny-elder-bostock-riley-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John Bostock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bostock; Henry T. Riley",
+   "translator_match": true
+  },
+  "pliny-elder-bostock-riley-v5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John Bostock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bostock; Henry T. Riley",
+   "translator_match": true
+  },
+  "pliny-elder-bostock-riley-v6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John Bostock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bostock; Henry T. Riley",
+   "translator_match": true
+  },
+  "pliny-younger-melmoth-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Melmoth",
+   "translator_match": true
+  },
+  "pliny-younger-firth-letters-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John B. Firth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John B. Firth",
+   "translator_match": true
+  },
+  "pliny-melmoth-hutchinson-letters-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pliny-melmoth-hutchinson-letters-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pliny-holland-natural-history-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plinius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1601",
+   "ia_date": "1601",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pliny-holland-natural-history-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "identity": "ok",
+   "ia_rights": "ok: published 1601",
+   "ia_date": "1601",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pliny-younger-lewis-letters": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John Delaware Lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pliny-younger-firth-letters-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John B. Firth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: Firth's Second Series, Walter Scott Publishing Co., London and Felling-on-Tyne, New York: 3 East 14th Street. The scan prints no date and IA records none. It is the companion of the First Series that Gutenberg clears as US public domain (PG 3234, held as pliny-younger-firth-letters-1), from the same Scott Library imprint. Its date is therefore inferred, not printed. Taken on that evidence; a printed date is still wanted."
+  },
+  "pliny-orrery-letters-1751-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "Orrery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pliny-orrery-letters-1752-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "Orrery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {
+  "pliny-younger-firth-letters-2": "Title page read: Firth's Second Series, Walter Scott Publishing Co., London and Felling-on-Tyne, New York: 3 East 14th Street. The scan prints no date and IA records none. It is the companion of the First Series that Gutenberg clears as US public domain (PG 3234, held as pliny-younger-firth-letters-1), from the same Scott Library imprint. Its date is therefore inferred, not printed. Taken on that evidence; a printed date is still wanted."
+ }
+}

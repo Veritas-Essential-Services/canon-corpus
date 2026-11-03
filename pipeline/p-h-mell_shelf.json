@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Patrick Hues Mell (1814-1888), Georgia Baptist minister, chancellor of the University of Georgia and president of the Southern Baptist Convention, for the Word Hoard: Baptism in its Modes and Subjects (1853), The Doctrine of Prayer (1876) and A Manual of Parliamentary Practice (1888), from Internet Archive scans. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mell"
+ ],
+ "_surname": [
+  "p. h. mell",
+  "patrick h. mell",
+  "patrick hues mell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mell-baptism": [
+   "baptisminitsmode00mell",
+   "Baptism in its modes and subjects (Charleston : Southern Baptist Publication Society, 1853)"
+  ],
+  "mell-prayer": [
+   "doctrineofprayer00mell",
+   "The doctrine of prayer; its utility; and its relation to providence (New York, Sheldon & Company, 1876)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mell-other": "The botanical and agricultural works of his son P. H. Mell Jr. (another man); the Life of Patrick Hues Mell (1895, by his son)",
+  "mell-parliamentary-practice": "manualofparliame00mell: Mell's Manual of Parliamentary Practice is a procedure manual, not divinity; scan front matter is also unreadable OCR."
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mell-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "p. h. mell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mell-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "p. h. mell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

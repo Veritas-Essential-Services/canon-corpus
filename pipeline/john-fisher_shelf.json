@@ -1,0 +1,112 @@
+{
+ "_about": "Public-domain St John Fisher (1469-1535, Bishop of Rochester, martyr) in English for the Word Hoard: The English Works, ed. John E. B. Mayor (Early English Text Society, 1876), the Commentary on the Seven Penitential Psalms, ed. J. S. Phillimore (2 vols, 1914-1915), A Spiritual Consolation and Other Treatises, ed. D. O'Connor, and the Funeral Sermon of Margaret, Countess of Richmond, ed. J. Hymers (Cambridge, 1840), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fisher"
+ ],
+ "_surname": [
+  "fisher",
+  "john fisher",
+  "iohn fisher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fisher-english-works": [
+   "englishworksofjo0000john",
+   "The English Works of John Fisher, Bishop of Rochester, Part I, ed. John E. B. Mayor (London: N. Trübner for the Early English Text Society, MDCCCLXXVI)"
+  ],
+  "fisher-penitential-psalms-1": [
+   "commentaryonseve01fishuoft",
+   "Commentary on the Seven Penitential Psalms, vol. I, ed. J. S. Phillimore (London: Manresa Press, 1914)"
+  ],
+  "fisher-penitential-psalms-2": [
+   "commentaryonseve02fishuoft",
+   "Commentary on the Seven Penitential Psalms, vol. II, ed. J. S. Phillimore (London: Manresa Press, 1915)"
+  ],
+  "fisher-spiritual-consolation": [
+   "spiritualconsola00fish",
+   "A Spiritual Consolation and Other Treatises, ed. D. O'Connor (London and Leamington: Art & Book Company; year garbled, imprimatur 1903)"
+  ],
+  "fisher-funeral-sermon-margaret": [
+   "funeralsermonofm00fishuoft",
+   "The Funeral Sermon of Margaret, Countess of Richmond and Derby, ed. J. Hymers (Cambridge: University Press, M.DCCC.XL)"
+  ]
+ },
+ "_alternates": {
+  "fisher-copies": "Other copies of the English Works and the Commentary; the 1904 New York Sermons on the Seven Penitential Psalms; an 18th-century reprint of the Treatise"
+ },
+ "_excluded": {
+  "fisher-others": "Other John Fishers (the Jesuit alias Percy, 18th-century divines); Edward Fisher; a 1935 Spiritual Consolation"
+ },
+ "_rights_checked": {
+  "fisher-english-works": "title page read: written in English, original spelling; death year OCR'd '15365'",
+  "fisher-penitential-psalms-2": "title page read: 1915 (the catalogue's 1914 is wrong)",
+  "fisher-spiritual-consolation": "title page read: year garbled in the OCR; imprimatur dated 1903"
+ },
+ "_pending": {
+  "fisher-treatise-of-prayer": "A Treatise of Prayer (1640, tr. 'R.A.'): title page not read",
+  "fisher-latin": "His Latin controversial works: no English translation before 1930 found"
+ },
+ "_translators": {},
+ "_checks": {
+  "fisher-english-works": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: written in English, original spelling; death year OCR'd '15365'"
+  },
+  "fisher-penitential-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1914-1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fisher-penitential-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1914-1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1915 (the catalogue's 1914 is wrong)"
+  },
+  "fisher-spiritual-consolation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: year garbled in the OCR; imprimatur dated 1903"
+  },
+  "fisher-funeral-sermon-margaret": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

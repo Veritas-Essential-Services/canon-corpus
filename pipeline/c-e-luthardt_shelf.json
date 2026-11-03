@@ -1,0 +1,171 @@
+{
+ "_about": "Public-domain C. E. Luthardt (1823-1902, Lutheran, professor at Leipzig) in pre-1930 English translations from T. & T. Clark, raw Internet Archive OCR: Apologetic Lectures on the Fundamental (1865), Saving (1868) and Moral (1873) Truths of Christianity (tr. Sophia Taylor), St. John the Author of the Fourth Gospel (tr. C. R. Gregory, 1875), St. John's Gospel Described and Explained (3 vols, tr. Gregory, 1876-78) and History of Christian Ethics vol. 1 (tr. W. Hastie, 1889). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "luthardt",
+  "ernst"
+ ],
+ "_surname": [
+  "c. e. luthardt",
+  "christoph ernst luthardt",
+  "chr. ernst luthardt",
+  "dr. c. e. luthardt",
+  "ernst luthardt",
+  "luthardt, c. e",
+  "dr. chr. ernst luthardt",
+  "christ. ernst luthardt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "luthardt-fundamental-1865": [
+   "apologeticlectur00luth_1",
+   "Apologetic Lectures on the Fundamental Truths of Christianity, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1865)"
+  ],
+  "luthardt-saving-1868": [
+   "apologeticlectur00luth_2",
+   "Apologetic Lectures on the Saving Truths of Christianity, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1868)"
+  ],
+  "luthardt-moral-1873": [
+   "apologeticlectu02luthgoog",
+   "Apologetic Lectures on the Moral Truths of Christianity, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1873)"
+  ],
+  "luthardt-st-john-author-1875": [
+   "stjohnauthoroffo00luthuoft",
+   "St. John the Author of the Fourth Gospel, revised, translated and enlarged by C. R. Gregory (Edinburgh: T. & T. Clark, 1875)"
+  ],
+  "luthardt-st-johns-gospel-1": [
+   "stjohnsgospeldes01luth",
+   "St. John's Gospel Described and Explained, vol. 1, tr. C. R. Gregory (Edinburgh: T. & T. Clark, 1876)"
+  ],
+  "luthardt-st-johns-gospel-2": [
+   "stjohnsgospeldes02luth",
+   "St. John's Gospel Described and Explained, vol. 2, tr. C. R. Gregory (Edinburgh: T. & T. Clark; catalogued 1876, issued 1877)"
+  ],
+  "luthardt-st-johns-gospel-3": [
+   "stjohnsgospeldes1878luth",
+   "St. John's Gospel Described and Explained, vol. 3, tr. C. R. Gregory (Edinburgh: T. & T. Clark, 1878)"
+  ],
+  "luthardt-ethics-1-1889": [
+   "historyofchristi01luthuoft",
+   "History of Christian Ethics, vol. 1, tr. W. Hastie (Edinburgh: T. & T. Clark, 1889)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "luthardt-st-john-author-1875": {
+   "author": "title page read 2026-10-10: the OCR drops the name line but keeps \"PROFESSOR OF THEOLOGY AT LEIPZIG; AUTHOR OF APOLOGETIC LECTURES ON THE FUNDAMENTAL, SAVING, AND MORAL TRUTHS OF CHRISTIANITY\", translated by Caspar René Gregory, Clark, 1875; the catalogue names Luthardt, Christoph Ernst, 1823-1902: C. E. Luthardt"
+  },
+  "luthardt-st-johns-gospel-1": {
+   "author": "title page read 2026-10-10: OCR gives \"BY CHRISTOPH ERNST “LUTHARDT, PROFESSOR OF THEOLOGY AT LEIPZIG. TRANSLATED BY CASPAR RENE GREGORY\" (a stray quote mark): C. E. Luthardt"
+  }
+ },
+ "_translators": {
+  "luthardt-fundamental-1865": "taylor",
+  "luthardt-saving-1868": "taylor",
+  "luthardt-st-john-author-1875": "gregory",
+  "luthardt-st-johns-gospel-1": "gregory",
+  "luthardt-ethics-1-1889": "hastie"
+ },
+ "_checks": {
+  "luthardt-fundamental-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chr. ernst luthardt",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luthardt-saving-1868": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. e. luthardt",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luthardt-moral-1873": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. e. luthardt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luthardt-st-john-author-1875": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "gregory",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luthardt-st-johns-gospel-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "gregory",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luthardt-st-johns-gospel-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. e. luthardt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luthardt-st-johns-gospel-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christoph ernst luthardt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luthardt-ethics-1-1889": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. e. luthardt",
+   "translator_claimed": "hastie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

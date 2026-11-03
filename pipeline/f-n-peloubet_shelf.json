@@ -1,0 +1,195 @@
+{
+ "_about": "Public-domain Francis Nathan Peloubet (1831-1920), Congregational minister and author of the Select Notes on the International Sunday School Lessons, for the Word Hoard: Lord, Increase our Faith, Select Notes for 1877, 1880, 1900 and 1901, Suggestive Illustrations on Matthew, John and Acts, the Teachers' Commentaries on Matthew and Acts, and The Front Line of the Sunday School Movement. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 119 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "f. n. peloubet",
+  "francis nathan peloubet",
+  "peloubet"
+ ],
+ "_surname": [
+  "f. n. peloubet",
+  "francis nathan peloubet",
+  "peloubet"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "peloubet-increase-faith": [
+   "lordincreaseourf00pelo",
+   "Lord, increase our faith (Cook and Sons, 1876)"
+  ],
+  "peloubet-notes-1877": [
+   "cu31924029340191",
+   "Select notes on the International Sabbath school lessons for 1877. Explanatory, illustrative, and practical, with maps and table of the signification and pronunciation of proper names (Boston : H. Hoyt, 1876)"
+  ],
+  "peloubet-notes-1880": [
+   "selectnotesonin01unkngoog",
+   "Peloubet's select notes on the International Bible lessons for Christian teching, uniform series (Boston [etc.] W. A. Wilde Co. [etc.], 1879)"
+  ],
+  "peloubet-illustrations-matthew": [
+   "suggestiveillu00pelo",
+   "Suggestive illustrations on the Gospel according to Matthew; illustrations from all sources, picturesque Greek words, library references to further illustrations, photographs of celebrated pictures referred to, for the use of leaders of prayer-meetings, Christian endeavorers, Sunday-school teachers, pastors (New York, E. R. Herrick & company, 1897)"
+  ],
+  "peloubet-illustrations-john": [
+   "suggestiveillust00pelouoft",
+   "Suggestive illustrations on the Gospel of John : illustrations from all sources, picturesque Greek words, library references to further illustrations, references to celebrated pictures : for the use of pastors, Sunday-school teachers, leaders of prayer-meetings, and the home (New York : E.R. Herrick, c189)"
+  ],
+  "peloubet-illustrations-acts": [
+   "suggestiveillust00pelo_0",
+   "Suggestive illustrations on the Acts of the Apostles (New York : E. R. Herrick & Co., 1898)"
+  ],
+  "peloubet-notes-1900": [
+   "bwb_T4-AKC-398",
+   "SELECT NOTES ON THE INTERNATIONAL LESSONS FOR 1900 (catalogued 1899)"
+  ],
+  "peloubet-notes-1901": [
+   "peloubetsselectn0000fnpe",
+   "Peloubet's Select Notes on the International Sunday School Lessons 1901 (W. A. Wilde, 1900)"
+  ],
+  "peloubet-commentary-acts": [
+   "teacherscomment00pelogoog",
+   "The teachers' commentary on the Acts of the Apostles (New York, Oxford University Press, 1901)"
+  ],
+  "peloubet-commentary-matthew": [
+   "teacherscommenta0000pelo",
+   "The teachers' commentary on the Gospel according to St. Matthew (New York : Oxford University Press, 1901)"
+  ],
+  "peloubet-front-line": [
+   "frontlineofsunda00pelo",
+   "The front line of the Sunday school movement; the line of the vanguard of Sunday school progress, with a glimpse of ideals beyond (Boston, W. A. Wilde, 1904)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "peloubet-edited": "His songbooks and his edition of Smith's Dictionary of the Bible collect other men's work; the Albanian and Russian Bibles are catalogue errors"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "peloubet-increase-faith": "Title page (OCR): \"[Lord, Increase our Faith.] A SERMON BY Rev. Francis N. Peioubet, PASTOR OF THE 1st Congregational Church, NATICK, MASS.... Natick, Mass.: Cook & Sons\"; OCR misreads Peloubet."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "peloubet-increase-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peloubet-notes-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peloubet-notes-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. n. peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peloubet-illustrations-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. n. peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "peloubet-illustrations-john": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. n. peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "c1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peloubet-illustrations-acts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "peloubet-notes-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. n. peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peloubet-notes-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peloubet-commentary-acts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. n. peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peloubet-commentary-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. n. peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peloubet-front-line": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. n. peloubet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

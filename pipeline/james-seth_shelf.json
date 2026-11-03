@@ -1,0 +1,64 @@
+{
+ "_about": "James Seth (1860-1924), Edinburgh moral philosopher, brother of Andrew Seth Pringle-Pattison (whose shelf is separate). Raw IA OCR: Freedom as Ethical Postulate (Edinburgh and London: Blackwood, 1891), clean 0.93; A Study of Ethical Principles (first 1894; this copy the sixth edition, New York: Scribner's, 1902), clean 0.92; English Philosophers and Schools of Philosophy (London: Dent; New York: Dutton, 1912), clean 0.91. US public domain. No uids minted.",
+ "_author": "James Seth",
+ "_name_words": [
+  "james",
+  "seth"
+ ],
+ "_surname": [
+  "seth",
+  "james seth"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-seth-freedom-ethical-postulate-1891": [
+   "freedomasethica00sethgoog",
+   "Freedom as Ethical Postulate (Blackwood, 1891)"
+  ],
+  "james-seth-study-of-ethical-principles-1902": [
+   "studyofethicalpr01seth",
+   "A Study of Ethical Principles, 6th ed. (Scribner's, 1902)"
+  ],
+  "james-seth-english-philosophers-1912": [
+   "englishphilosoph00sethiala",
+   "English Philosophers and Schools of Philosophy (Dent, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "james-seth-freedom-ethical-postulate-1891": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "seth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "james-seth-study-of-ethical-principles-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "seth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "james-seth-english-philosophers-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "seth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

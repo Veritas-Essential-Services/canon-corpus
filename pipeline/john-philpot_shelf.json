@@ -1,0 +1,36 @@
+{
+ "_about": "John Philpot (1516-1555), Archdeacon of Winchester: Examinations and Writings, Parker Society ed. Robert Eden (1842). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "philpot"
+ ],
+ "_surname": [
+  "philpot"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "philpot-ps-examinations": [
+   "examinationswrit00phil",
+   "The Examinations and Writings of John Philpot, ed. Robert Eden (Parker Society, Cambridge, 1842)"
+  ]
+ },
+ "_alternates": {
+  "examinationswrit0000phil": "Trent University copy."
+ },
+ "_excluded": {
+  "John Philpot Curran": "Different man."
+ },
+ "_checks": {
+  "philpot-ps-examinations": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "philpot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

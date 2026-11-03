@@ -1,0 +1,116 @@
+{
+ "_about": "Public-domain Daniel Steele (1824-1914, Methodist holiness theologian, Boston University) for the Word Hoard: Love Enthroned (1875), Mile-Stone Papers (1878), Half-Hours with St. Paul (1895), A Defense of Christian Perfection (1896), The Gospel of the Comforter (1897) and Half-Hours with St. John's Epistles (1901), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "steele"
+ ],
+ "_surname": [
+  "steele",
+  "daniel steele"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dsteele-love-enthroned": [
+   "loveenthronedess01stee",
+   "Love Enthroned: Essays on Evangelical Perfection (New York: Nelson & Phillips, 1875)"
+  ],
+  "dsteele-milestone-papers": [
+   "milestonepapersd00stee",
+   "Mile-Stone Papers (New York: Nelson & Phillips, 1878)"
+  ],
+  "dsteele-half-hours-paul": [
+   "halfhourswithstp00stee",
+   "Half-Hours with St. Paul and Other Bible Readings (Boston: The Christian Witness Company, 1895)"
+  ],
+  "dsteele-defense-perfection": [
+   "defenseofchristi00stee",
+   "A Defense of Christian Perfection (New York: Hunt & Eaton, 1896)"
+  ],
+  "dsteele-gospel-comforter": [
+   "gospelofcomforte0000stee",
+   "The Gospel of the Comforter (Boston: The Christian Witness Company, 1897)"
+  ],
+  "dsteele-half-hours-john": [
+   "halfhourswithstj00stee",
+   "Half-Hours with St. John's Epistles (Boston: The Christian Witness Company, 1901)"
+  ]
+ },
+ "_alternates": {
+  "dsteele-copies": "Later thousands of Love Enthroned; CCEL steele/love (no print source stated)"
+ },
+ "_excluded": {
+  "dsteele-later": "1960 and 1966 reprints; Wilbur Daniel Steele"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dsteele-love-enthroned": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steele",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dsteele-milestone-papers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steele",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dsteele-half-hours-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steele",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dsteele-defense-perfection": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steele",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dsteele-gospel-comforter": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steele",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dsteele-half-hours-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steele",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

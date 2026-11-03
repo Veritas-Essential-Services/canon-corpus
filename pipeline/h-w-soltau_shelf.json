@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain Henry W. Soltau (Henry William Soltau, 1805-1875, Brethren) for the Word Hoard: 4 books on the tabernacle and the gospel from Internet Archive scans: The Holy Vessels and Furniture of the Tabernacle, A Full Exposition of the Tabernacle and the Priestly Garments (issued in parts from 1864), The Tabernacle, the Priesthood, and the Offerings (posthumous Morgan and Scott printing) and The Soul and its Difficulties. All undated on the title page. Raw OCR. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "soltau"
+ ],
+ "_surname": [
+  "henry w. soltau",
+  "h. w. soltau",
+  "henry william soltau",
+  "soltau, henry william",
+  "soltau, henry w."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "soltau-holy-vessels": [
+   "TheHolyVesselsAndFurnitureOfTheTabernacleByHenryWilliamSoltau",
+   "The Holy Vessels and Furniture of the Tabernacle of Israel (London: Yapp and Hawkins; S. W. Partridge; no year on title page)",
+   "The Holy Vessels and Furniture of the Tabernacle by Henry William Soltau_djvu.txt"
+  ],
+  "soltau-exposition-tabernacle": [
+   "AnExpositionOfTheTabernacleThePriestlyGarmentsByHenryWilliamSoltau",
+   "A Full Exposition of the Tabernacle; the Priestly Garments and the Priesthood (London: Morgan and Chase and W. Yapp; issued in parts from January 1864, volume title page undated)",
+   "An Exposition of the Tabernacle the Priestly Garments by Henry William Soltau_djvu.txt"
+  ],
+  "soltau-tabernacle-priesthood": [
+   "tabernaclepriest00solt",
+   "The Tabernacle, the Priesthood, and the Offerings (London: Morgan and Scott; no year on title page, catalogued 1875)"
+  ],
+  "soltau-soul-difficulties": [
+   "soulitsdifficult00solt",
+   "The Soul and its Difficulties, forty-first thousand (London: Yapp and Hawkins; no year on title page, IA's 1825 date is wrong)"
+  ]
+ },
+ "_alternates": {
+  "soltau-copies": "Other copies: soulitsdifficult0000solt; re-uploads of the Princeton Tabernacle scan; Morgan and Scott copies in dli.ministry.23582, in.ernet.dli.2015.200645 and 219433",
+  "soltau-hymns": "Pleasant Hymns for Boys and Girls (Morgan and Scott): no compiler named on the title page; attribution is the uploader's",
+  "george-soltau": "George Soltau (his son) is a different author: Four Portraits of the Lord Jesus Christ (1905), Typical Characters of the Lord Jesus, The Person and Mission of the Holy Spirit; not shelved here"
+ },
+ "_excluded": {
+  "soltau-italian": "Italian translation (Florence, 1866)",
+  "soltau-reprints": "Kregel reprints (1965-1998)",
+  "soltau-namesakes": "G. W. Soltau and others"
+ },
+ "_identity_checked": {
+  "soltau-soul-difficulties": {
+   "author": "title page read: 'Henry William Soltau, author of The Holy Vessels of the Tabernacle' (OCR 'SOLTAF')"
+  }
+ },
+ "_rights_checked": {
+  "soltau-holy-vessels": "title page read: Yapp and Hawkins, 70 Welbeck Street, no year; author died 1875",
+  "soltau-exposition-tabernacle": "title page read: Morgan and Chase and W. Yapp, part 1 dated 1 January 1864; author died 1875"
+ },
+ "_pending": {},
+ "_checks": {
+  "soltau-holy-vessels": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. w. soltau",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Yapp and Hawkins, 70 Welbeck Street, no year; author died 1875"
+  },
+  "soltau-exposition-tabernacle": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. w. soltau",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Morgan and Chase and W. Yapp, part 1 dated 1 January 1864; author died 1875"
+  },
+  "soltau-tabernacle-priesthood": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry w. soltau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "between 1875 and 1927]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "soltau-soul-difficulties": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

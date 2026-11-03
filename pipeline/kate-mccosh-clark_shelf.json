@@ -1,0 +1,41 @@
+{
+ "_about": "Kate McCosh Clark's A Southern Cross Fairy Tale (London, 1891), a fairy story set in New Zealand and drawing on Maori legend. The Gutenberg catalogue also lists Andreas Reischek and A. P. W. Thomas (1857-1937) as annotators and Robert Atkinson as illustrator. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Kate McCosh Clark",
+ "_name_words": [
+  "southern",
+  "cross"
+ ],
+ "_surname": [
+  "kate mccosh clark"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kmclark-southern-cross-fairy-tale": [
+   69782,
+   "A Southern Cross fairy tale",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE\\.|“THE CHILDREN’S HOUR\\.”|LIST OF ILLUSTRATIONS\\.|A SOUTHERN CROSS FAIRY TALE\\.|NOTES\\.)$",
+      "strip": "^“|\\.”?$"
+     }
+    ],
+    "start": "PREFACE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "kmclark-southern-cross-fairy-tale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kate mccosh clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

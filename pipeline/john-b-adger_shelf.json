@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain John Bailey Adger (1810-1899), Southern Presbyterian missionary to Smyrna and Columbia Seminary professor, for the Word Hoard: The Religious Instruction of the Colored Population (1847), Christian Missions and African Colonization (1857) and My Life and Times, 1810-1899 (1899), from Internet Archive scans. Added 2026-10-23 by lane A, round 55 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "adger"
+ ],
+ "_surname": [
+  "john b. adger",
+  "john bailey adger",
+  "j. b. adger"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "adger-religious-instruction": [
+   "religiousinstruc00adge",
+   "The religious instruction of the colored population. A sermon (Charleston, T. W. Haynes, 1847)"
+  ],
+  "adger-african-colonization": [
+   "ASPC0001913800",
+   "Christian missions and African colonization (catalogued 1857)"
+  ],
+  "adger-life-and-times": [
+   "mylifetimes00adge",
+   "My life and times, 1810-1899 (Richmond, Va. : The Presbyterian Committee of Publication, 1899)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "adger-other": "The Collected Writings of J. H. Thornwell he co-edited (on the thornwell shelf); uploaded transcriptions of his Southern Presbyterian Review articles, which have no scan"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "adger-african-colonization": "Title page OCR reads 'Christian Missions and African Colonization. BY JOHN B. ADOEK' (Adger garbled), Columbia: E. H. Britton 1857; a review of J. Leighton Wilson's Western Africa."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "adger-religious-instruction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john b. adger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "adger-african-colonization": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "adger-life-and-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john b. adger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

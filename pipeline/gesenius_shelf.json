@@ -1,0 +1,58 @@
+{
+ "_about": "Wilhelm Gesenius (1786-1842): the Hebrew Grammar in the Kautzsch-Cowley second English edition (Oxford, 1910), and the Hebrew and Chaldee Lexicon in Samuel Prideaux Tregelles's translation (first published 1846-57; Tregelles died 1875); from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. US public domain.",
+ "_name_words": [
+  "gesenius"
+ ],
+ "_surname": [
+  "gesenius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gesenius-hebrew-grammar": [
+   "hebrewgrammar0000gese_d5z7",
+   "Gesenius' Hebrew Grammar, as edited and enlarged by E. Kautzsch, 2nd English ed., revised by A. E. Cowley (Oxford: Clarendon Press, 1910)"
+  ],
+  "gesenius-lexicon-tregelles": [
+   "hebrewchaldeelex00geseuoft",
+   "Gesenius's Hebrew and Chaldee Lexicon to the Old Testament Scriptures, tr. Samuel Prideaux Tregelles (London: Samuel Bagster & Sons, undated)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "geseniushebrewgr00geseuoft": "Same 1910 edition, but this copy is the 1946-56 lithographic reprint 'from corrected sheets', so a 1910 printing was used instead",
+  "gesenius-grammar-1898": "Collins-Cowley 1898 translation, superseded by the 1910 second edition"
+ },
+ "_rights_checked": {
+  "gesenius-lexicon-tregelles": "Undated Bagster & Sons Limited reprint of Tregelles's translation (completed 1857); the translator died 1875 and the reprint adds nothing new, so the text is US public domain"
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gesenius-hebrew-grammar": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gesenius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gesenius-lexicon-tregelles": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gesenius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "[1857]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Undated Bagster & Sons Limited reprint of Tregelles's translation (completed 1857); the translator died 1875 and the reprint adds nothing new, so the text is US public domain"
+  }
+ }
+}

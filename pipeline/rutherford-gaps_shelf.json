@@ -1,0 +1,80 @@
+{
+ "_about": "Samuel Rutherford (1600?-1661) texts missing from lane A's rutherford_shelf.json, kept as a separate shelf (the chesterton-gaps precedent) so lane A's file is never edited. Lane A refused christd00ruth because its OCR breaks his name; the second Princeton scan of the same 1647 edition reads 'By Samuel Rutherfurd' on its title page and is held instead. The Survey of the Spiritual Antichrist survives only as the 1648 first edition (EEBO microfilm). All three are first printings in old type, so expect long-s errors. The surname check takes both spellings. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "rutherfurd",
+  "rutherford",
+  "rutherfoord"
+ ],
+ "_surname": [
+  "rutherfurd",
+  "rutherford",
+  "rutherfoord"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rutherford-christ-dying-1647": [
+   "chdrawi00ruth",
+   "Christ Dying and Drawing Sinners to Himself (London, 1647)"
+  ],
+  "rutherford-spiritual-antichrist-1648": [
+   "bim_early-english-books-1641-1700_a-survey-of-the-spiritua_rutherford-samuel_1648",
+   "A Survey of the Spiritual Antichrist, opening the secrets of Familism and Antinomianism (London, 1648; EEBO scan)"
+  ],
+  "rutherford-peaceable-plea-1642": [
+   "peacea00ruth",
+   "A Peaceable and Temperate Plea for Paul's Presbyterie in Scotland (London, 1642)"
+  ]
+ },
+ "_alternates": {
+  "christd00ruth": "First Princeton scan of Christ Dying (1647); OCR breaks the name.",
+  "peapera00ruth, bim_early-english-books-1641-1700_a-peaceable-and-temperat_rutherford-samuel_1642": "Other scans of the Peaceable Plea (1642).",
+  "bim_early-english-books-1641-1700_christ-dying-_rutherford-samuel_1647": "EEBO scan of Christ Dying."
+ },
+ "_pending": {
+  "The Influences of the Life of Grace (1659)": "No scan found on IA.",
+  "Rutherfurd's Catechism, in A. F. Mitchell, Catechisms of the Second Reformation (London, 1886; catechismsofthes00mitcuoft)": "An edited collection by Mitchell; better as its own catechisms shelf.",
+  "A Testimony to the Work of Reformation (1726; EEBO-type scan)": "25 pages, OCR mostly noise.",
+  "The Preeminence of the Election of Kings (1648; EEBO)": "Attribution to Rutherford not secure; not shelved.",
+  "The Divine Right of Church-Government and Excommunication (1646; divinerightofchu00ruth)": "Still refused 2026-10-03: the scan opens at the epistle dedicatory to the Earl of Loudoun, its title page is missing, and Rutherford's name appears nowhere in the OCR. Needs another scan."
+ },
+ "_excluded": {
+  "Samuel Rutherford Crockett's novels": "A different author (S. R. Crockett)."
+ },
+ "_checks": {
+  "rutherford-christ-dying-1647": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rutherfurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1647",
+   "ia_date": "1647",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rutherford-spiritual-antichrist-1648": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rutherfurd",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1648",
+   "ia_date": "1648",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rutherford-peaceable-plea-1642": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rutherfurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1642",
+   "ia_date": "1642",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

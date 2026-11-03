@@ -1,0 +1,266 @@
+{
+ "_about": "Eglanton Thorne's stories for young readers, mostly from the Religious Tract Society. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Eglanton Thorne",
+ "_name_words": [
+  "eglanton",
+  "thorne"
+ ],
+ "_surname": [
+  "eglanton thorne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ethorne-tale-of-three-weeks": [
+   70935,
+   "A tale of three weeks"
+  ],
+  "ethorne-wizards-cave": [
+   70936,
+   "The wizard's cave"
+  ],
+  "ethorne-aunt-pattys-paying-guests": [
+   71761,
+   "Aunt Patty's paying guests"
+  ],
+  "ethorne-elder-brother": [
+   71948,
+   "An elder brother"
+  ],
+  "ethorne-as-many-as-touched-him": [
+   72273,
+   "As many as touched Him"
+  ],
+  "ethorne-beryls-triumph": [
+   72721,
+   "Beryl's triumph"
+  ],
+  "ethorne-worthy-of-his-name": [
+   73340,
+   "Worthy of his name"
+  ],
+  "ethorne-sham-princess": [
+   73824,
+   "A sham princess"
+  ],
+  "ethorne-her-own-way": [
+   74007,
+   "Her own way"
+  ],
+  "ethorne-aldyths-inheritance": [
+   74544,
+   "Aldyth's inheritance"
+  ],
+  "ethorne-old-worcester-jug": [
+   75600,
+   "The old Worcester jug"
+  ],
+  "ethorne-reuben-roys-temptations": [
+   76282,
+   "Reuben Roy's temptations"
+  ],
+  "ethorne-ida-nicolari": [
+   76917,
+   "Ida Nicolari"
+  ],
+  "ethorne-little-protestant-in-rome": [
+   77485,
+   "A little Protestant in Rome"
+  ],
+  "ethorne-maud-marian-artist": [
+   77861,
+   "Maud Marian, artist"
+  ],
+  "ethorne-my-brothers-friend": [
+   77999,
+   "My brother's friend"
+  ],
+  "ethorne-its-all-real-true": [
+   79227,
+   "\"It's all real true\""
+  ],
+  "ethorne-phils-mother": [
+   79355,
+   "Phil's mother"
+  ],
+  "ethorne-midst-granite-hills": [
+   79459,
+   "Midst granite hills"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ethorne-tale-of-three-weeks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-wizards-cave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-aunt-pattys-paying-guests": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-elder-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-as-many-as-touched-him": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-beryls-triumph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-worthy-of-his-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-sham-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-her-own-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-aldyths-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-old-worcester-jug": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-reuben-roys-temptations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-ida-nicolari": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-little-protestant-in-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-maud-marian-artist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-my-brothers-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-its-all-real-true": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-phils-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ethorne-midst-granite-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eglanton thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

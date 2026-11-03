@@ -1,0 +1,85 @@
+{
+ "_about": "Euclid's Elements in T. L. Heath's translation with commentary, The Thirteen Books of Euclid's Elements (Cambridge, 1908), 3 vols., raw IA OCR (US PD by date). Mathematical OCR: clean-word 0.77-0.83, lower than prose because of symbols and lettered figures. Each volume identified by its title page (I: Introduction and Books I-II; II: Books III-IX; III: Books X-XIII). Proclus's commentary on Book I is on the proclus shelf. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "euclid",
+  "elements",
+  "thirteen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "euclid-heath-v1": [
+   "thirteenbookseu02heibgoog",
+   "The Thirteen Books of Euclid's Elements, vol. 1 (1908)",
+   "tr. T. L. Heath"
+  ],
+  "euclid-heath-v2": [
+   "thirteenbookseu00heibgoog",
+   "The Thirteen Books of Euclid's Elements, vol. 2 (1908)",
+   "tr. T. L. Heath"
+  ],
+  "euclid-heath-v3": [
+   "thirteenbookseu01heibgoog",
+   "The Thirteen Books of Euclid's Elements, vol. 3 (1908)",
+   "tr. T. L. Heath"
+  ]
+ },
+ "_excluded": {
+  "thirteenbookseu03heibgoog": "second scan of vol. 3",
+  "Casey, First Six Books (PG 21076)": "a school adaptation, not a translation; not taken",
+  "Heath's 2nd ed. (1926)": "Heath's 1st ed. (1908) is held whole (euclid-heath-v1..v3); the 2nd ed. (1926) is not located, and is wanted only if a revised witness is sought"
+ },
+ "_surname": [
+  "euclid",
+  "euclides"
+ ],
+ "_translators": {
+  "euclid-heath-v1": "T. L. Heath",
+  "euclid-heath-v2": "T. L. Heath",
+  "euclid-heath-v3": "T. L. Heath"
+ },
+ "_checks": {
+  "euclid-heath-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euclid",
+   "translator_claimed": "T. L. Heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euclid-heath-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euclid",
+   "translator_claimed": "T. L. Heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euclid-heath-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euclid",
+   "translator_claimed": "T. L. Heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_held": {
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": "same translation as euclid-heath-v1..v3 (IA): Heath's Thirteen Books on this shelf; Perseus TEI urn:cts:greekLit:tlg1799.tlg001.perseus-eng2 (The Thirteen Books of Euclid's Elements, tr. Thomas Little Heath) is not taken as a second witness (moved here on review, 2026-10-02)"
+ }
+}

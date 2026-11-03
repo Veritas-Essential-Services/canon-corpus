@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain David Addison Harsha, American religious writer and biographer, for the Word Hoard: Thoughts on the Love of Christ, Wanderings of a Pilgrim, The Heavenly Token, and his lives of Philip Doddridge, James Hervey and George Whitefield. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 131 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "david addison harsha",
+  "david a. harsha",
+  "d. a. harsha",
+  "harsha"
+ ],
+ "_surname": [
+  "harsha"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harsha-love-of-christ": [
+   "thoughtsonloveof00hars",
+   "Thoughts on the love of Christ (Albany, E. H. Pease & co., 1851)"
+  ],
+  "harsha-wanderings": [
+   "wanderingsofpilg00hars",
+   "Wanderings of a pilgrim (Philadelphia : Presbyterian Board of Publication, 1854)"
+  ],
+  "harsha-heavenly-token": [
+   "heavenlytokengif00harsrich",
+   "The Heavenly token: a gift book for Christians (Indianapolis, Asher & Adams, [185)"
+  ],
+  "harsha-doddridge": [
+   "lifeofphilipdodd00hars",
+   "Life of Philip Doddridge, D.D. : with notices of some of his contemporaries, and specimens of his style (Albany : J. Munsell, 1865)"
+  ],
+  "harsha-hervey": [
+   "lifeofrevjameshe00hars",
+   "Life of the Rev. James Hervey (Albany : J. Munsell, 1865)"
+  ],
+  "harsha-whitefield": [
+   "liferevgeorgewh00harsgoog",
+   "Life of the Rev. George Whitefield (J. Munsell, 1866, 1866)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "harsha-secular": "The Most Eminent Orators and Statesmen and the Life of Charles Sumner are outside this theology shelf",
+  "harsha-watts": "The Life and Choice Works of Isaac Watts is mostly Watts",
+  "harsha-others": "the hydropathy book and later Harsha items are by others",
+  "harsha-dups": "other scans of the Doddridge life"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "harsha-wanderings": "Title page: 'WANDERINGS OF A PILGRIM. BY D. A. HARSHA, AUTHOR OF \"IMMANUEL'S LAND,\" ETC.' (OCR reads HARSIIA), Presbyterian Board of Publication, Philadelphia."
+ },
+ "_pending": {
+  "harsha-christians-present": "The Christian's Present for All Seasons (1866, IA christianspresen00hars): devotional thoughts of many divines that he gathered (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "harsha-love-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harsha",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "harsha-wanderings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harsha-heavenly-token": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harsha",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "[1855]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harsha-doddridge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harsha",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harsha-hervey": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harsha",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harsha-whitefield": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harsha",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

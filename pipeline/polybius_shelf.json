@@ -1,0 +1,138 @@
+{
+ "_about": "Polybius in English: Evelyn S. Shuckburgh's translation of the Histories (1889), 2 vols., clean Gutenberg. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
+ "_name_words": [
+  "polybius",
+  "histories",
+  "volume"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "polybius-shuckburgh-v1": [
+   44125,
+   "The Histories of Polybius, vol. 1",
+   "tr. Evelyn S. Shuckburgh (1889)"
+  ],
+  "polybius-shuckburgh-v2": [
+   44126,
+   "The Histories of Polybius, vol. 2",
+   "tr. Evelyn S. Shuckburgh (1889)"
+  ]
+ },
+ "internet_archive": {
+  "polybius-hampton-v1": [
+   "bim_eighteenth-century_the-general-history-of-p_polybius_1772_1",
+   "The General History of Polybius, vol. 1 (1772)",
+   "tr. James Hampton"
+  ],
+  "polybius-hampton-v2": [
+   "generalhistoryof02poly",
+   "The General History of Polybius, vol. 2 (1772)",
+   "tr. James Hampton"
+  ],
+  "polybius-hampton-v3": [
+   "generalhistoryof03poly",
+   "The General History of Polybius, vol. 3 (1773; volume per catalogue)",
+   "tr. James Hampton"
+  ],
+  "polybius-hampton-v4": [
+   "generalhistoryof04poly",
+   "The General History of Polybius, vol. 4 (1773)",
+   "tr. James Hampton"
+  ]
+ },
+ "_cross_ref": {
+  "dryden-polybius-lucian": "Dryden shelf (lane C): Dryden's character of Polybius"
+ },
+ "_excluded": {
+  "W. R. Paton, Loeb (1922-27)": "on Perseus, US PD by date; pending"
+ },
+ "_surname": [
+  "polybius"
+ ],
+ "_translators": {
+  "polybius-shuckburgh-v1": "Evelyn S. Shuckburgh",
+  "polybius-shuckburgh-v2": "Evelyn S. Shuckburgh",
+  "polybius-hampton-v1": "hampton",
+  "polybius-hampton-v2": "mr. hampton",
+  "polybius-hampton-v4": "mr. hampton"
+ },
+ "_translator_unchecked": {
+  "polybius-hampton-v3": "translator on the row (James Hampton) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "polybius-shuckburgh-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Evelyn S. Shuckburgh",
+   "translator_match": true
+  },
+  "polybius-shuckburgh-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Evelyn S. Shuckburgh",
+   "translator_match": true
+  },
+  "polybius-hampton-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "hampton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1772",
+   "ia_date": "1772",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-hampton-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "mr. hampton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1772",
+   "ia_date": "1772",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-hampton-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-hampton-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "mr. hampton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

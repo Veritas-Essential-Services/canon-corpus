@@ -1,0 +1,180 @@
+{
+ "_about": "Public-domain George Henry Gerberding (1847-1927), Lutheran pastor and professor at Chicago Lutheran Seminary, for the Word Hoard: The Way of Salvation in the Lutheran Church, New Testament Conversions, The Lutheran Pastor, the Life and Letters of W. A. Passavant, The Lutheran Church in the Country, his sketch of R. F. Weidner, What's Wrong with the World?, The Priesthood of Believers, Lutheran Fundamentals, and Reminiscent Reflections of a Youthful Octogenarian. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 114 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george henry gerberding",
+  "george h. gerberding",
+  "g. h. gerberding",
+  "gerberding"
+ ],
+ "_surname": [
+  "george henry gerberding",
+  "george h. gerberding",
+  "g. h. gerberding",
+  "gerberding"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gerberding-way-salvation": [
+   "wayofsalvationi00gerb",
+   "The way of salvation in the Lutheran church (Philadelphia, Pa., Pub. for the author, Lutheran publication society, 1887)"
+  ],
+  "gerberding-nt-conversions": [
+   "newtestamentconv00gerb",
+   "New Testament conversions : a series of sermons (Philadelphia, Pa. : Pub. for the author, Lutheran publication society, 1889)"
+  ],
+  "gerberding-lutheran-pastor": [
+   "lutheranpastor00gerb",
+   "The Lutheran pastor (Philadelphia, Pa. : Lutheran Publication Society, 1902)"
+  ],
+  "gerberding-passavant": [
+   "lifelettersofwap0000gerb",
+   "Life and letters of W. A. Passavant, D. D (Greenville, Pa., The Young Lutheran co., 1906)"
+  ],
+  "gerberding-country": [
+   "lutheranchurch00gerb",
+   "The Lutheran church in the country; a study, an explanation, an attempted solution (Philadelphia, General council publication board, 1916)"
+  ],
+  "gerberding-weidner": [
+   "rfweidnerddlldch00gerb",
+   "R. F. Weidner, D.D. LL.D. : a character sketch, an appreciation, a tribute (Waverly, Iowa : Wartburg Press, 1916)"
+  ],
+  "gerberding-whats-wrong": [
+   "whatswrongwithw00gerbgoog",
+   "What's Wrong with the World?: A Candid Inquiry Into the Underlying Spirit (Gerberding, 1919)"
+  ],
+  "gerberding-priesthood": [
+   "priesthoodbelie00gerbgoog",
+   "The Priesthood of Believers in Its Relation to Inner Mission Work of (The Inner Mission Boardof the United LutheranChurch in America, 1920)"
+  ],
+  "gerberding-fundamentals": [
+   "lutheranfundamen00gerb",
+   "Lutheran fundamentals, a simple system of Scripture truth with applications for the common man (Rock Island, Ill. : Augustana Book Concern, 1925)"
+  ],
+  "gerberding-reminiscent": [
+   "reminiscentrefle00gerb",
+   "Reminiscent reflections of a youthful octogenarian (Minneapolis, Minn. : Augsburg publishing house, 1928)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gerberding-swedish": "vgentillfrlsnin00gerbgoog (a Swedish translation)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gerberding-way-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gerberding-nt-conversions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gerberding-lutheran-pastor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gerberding-passavant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gerberding-country": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gerberding-weidner": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gerberding-whats-wrong": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gerberding-priesthood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gerberding-fundamentals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. h. gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gerberding-reminiscent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george henry gerberding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

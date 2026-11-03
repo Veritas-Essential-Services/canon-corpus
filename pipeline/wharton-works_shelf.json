@@ -1,0 +1,701 @@
+{
+ "_about": "Edith Wharton's novels, stories, travels and essays not already on another shelf; pre-1931 US publications only: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edith Wharton",
+ "_name_words": [
+  "wharton"
+ ],
+ "_surname": [
+  "edith wharton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ewharton-summer": [
+   166,
+   "Summer"
+  ],
+  "ewharton-touchstone": [
+   267,
+   "The Touchstone"
+  ],
+  "ewharton-reef": [
+   283,
+   "The Reef"
+  ],
+  "ewharton-house-of-mirth": [
+   284,
+   "The House of Mirth"
+  ],
+  "ewharton-early-short-fiction-of-edith-wharton-part-1": [
+   295,
+   "The Early Short Fiction of Edith Wharton — Part 1"
+  ],
+  "ewharton-early-short-fiction-of-edith-wharton-part-2": [
+   306,
+   "The Early Short Fiction of Edith Wharton — Part 2"
+  ],
+  "ewharton-bunner-sisters": [
+   311,
+   "Bunner Sisters"
+  ],
+  "ewharton-glimpses-of-the-moon": [
+   1263,
+   "The Glimpses of the Moon"
+  ],
+  "ewharton-valley-of-decision": [
+   4327,
+   "The Valley of Decision"
+  ],
+  "ewharton-tales-of-men-and-ghosts": [
+   4514,
+   "Tales of Men and Ghosts",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-ethan-frome": [
+   4517,
+   "Ethan Frome"
+  ],
+  "ewharton-madame-de-treymes": [
+   4518,
+   "Madame de Treymes"
+  ],
+  "ewharton-descent-of-man-and-other-stories": [
+   4519,
+   "The Descent of Man and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-hermit-and-the-wild-woman-and-other-stories": [
+   4533,
+   "The Hermit and the Wild Woman, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-artemis-to-actaeon-and-other-verses": [
+   4549,
+   "Artemis to Actaeon, and Other Verses",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-fighting-france-from-dunkerque-to-belfort": [
+   4550,
+   "Fighting France, from Dunkerque to Belfort",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-crucial-instances": [
+   7516,
+   "Crucial Instances",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-sanctuary": [
+   7517,
+   "Sanctuary"
+  ],
+  "ewharton-greater-inclination": [
+   9190,
+   "The Greater Inclination",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-custom-of-the-country": [
+   11052,
+   "The Custom of the Country"
+  ],
+  "ewharton-in-morocco": [
+   11104,
+   "In Morocco"
+  ],
+  "ewharton-fruit-of-the-tree": [
+   19191,
+   "The Fruit of the Tree"
+  ],
+  "ewharton-xingu": [
+   24131,
+   "Xingu"
+  ],
+  "ewharton-autres-temps-1916": [
+   24132,
+   "Autres Temps... 1916",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "ewharton-long-run-1916": [
+   24133,
+   "The Long Run 1916",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "ewharton-choice-1916": [
+   24348,
+   "The Choice 1916"
+  ],
+  "ewharton-coming-home-1916": [
+   24349,
+   "Coming Home 1916"
+  ],
+  "ewharton-kerfol-1916": [
+   24350,
+   "Kerfol 1916"
+  ],
+  "ewharton-triumph-of-night-1916": [
+   24351,
+   "The Triumph Of Night 1916",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "ewharton-decoration-of-houses": [
+   40367,
+   "The Decoration of Houses (with Ogden Codman, Jr.)",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-marne": [
+   41855,
+   "The Marne: A Tale of the War"
+  ],
+  "ewharton-italian-villas-and-their-gardens": [
+   53495,
+   "Italian Villas and Their Gardens",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-italian-backgrounds": [
+   54932,
+   "Italian Backgrounds",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-verses": [
+   55807,
+   "Verses"
+  ],
+  "ewharton-a-motor-flight-through-france": [
+   57347,
+   "A Motor-Flight Through France"
+  ],
+  "ewharton-french-ways-and-their-meaning": [
+   57786,
+   "French Ways and Their Meaning"
+  ],
+  "ewharton-a-son-at-the-front": [
+   59437,
+   "A Son at the Front"
+  ],
+  "ewharton-old-maid-the-fifties": [
+   61290,
+   "The Old Maid (The 'Fifties)"
+  ],
+  "ewharton-false-dawn-the-forties": [
+   61297,
+   "False Dawn (The 'Forties)"
+  ],
+  "ewharton-spark-the-sixties": [
+   61298,
+   "The Spark (The 'Sixties)"
+  ],
+  "ewharton-new-years-day-the-seventies": [
+   61321,
+   "New Year's Day (The 'Seventies)"
+  ],
+  "ewharton-twilight-sleep": [
+   70844,
+   "Twilight sleep"
+  ],
+  "ewharton-writing-of-fiction": [
+   72446,
+   "The writing of fiction",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-mothers-recompense": [
+   72573,
+   "The mother's recompense"
+  ],
+  "ewharton-here-and-beyond": [
+   74742,
+   "Here and beyond",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewharton-twelve-poems": [
+   74892,
+   "Twelve poems"
+  ],
+  "ewharton-children": [
+   76417,
+   "The children",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 39042: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 541: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-74866": "PG 74866 Stories of New York: a many-author collection."
+ },
+ "_checks": {
+  "ewharton-summer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-touchstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-reef": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-house-of-mirth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-early-short-fiction-of-edith-wharton-part-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-early-short-fiction-of-edith-wharton-part-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-bunner-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-glimpses-of-the-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-valley-of-decision": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-tales-of-men-and-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-ethan-frome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-madame-de-treymes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-descent-of-man-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-hermit-and-the-wild-woman-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-artemis-to-actaeon-and-other-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-fighting-france-from-dunkerque-to-belfort": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-crucial-instances": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-sanctuary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-greater-inclination": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-custom-of-the-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-in-morocco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-fruit-of-the-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-xingu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-autres-temps-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-long-run-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-choice-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-coming-home-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-kerfol-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-triumph-of-night-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-decoration-of-houses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-marne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-italian-villas-and-their-gardens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-italian-backgrounds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-a-motor-flight-through-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-french-ways-and-their-meaning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-a-son-at-the-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-old-maid-the-fifties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-false-dawn-the-forties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-spark-the-sixties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-new-years-day-the-seventies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-twilight-sleep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-writing-of-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-mothers-recompense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-here-and-beyond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-twelve-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewharton-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

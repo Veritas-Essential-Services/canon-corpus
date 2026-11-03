@@ -1,0 +1,100 @@
+{
+ "_about": "Public-domain Thomas Ellwood (1639-1713), Quaker, Milton's reader and friend, for the Word Hoard: the History of his Life written by himself, in the second edition with Wyeth's supplement (1714), C. G. Crump's edition (1900) and Henry Morley's (1885), and Davideis, his sacred poem on King David (1749 and 1805), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ellwood"
+ ],
+ "_surname": [
+  "thomas ellwood",
+  "ellwood"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "ellwood-history-morley": [
+   6925,
+   "The History of Thomas Ellwood, written by himself, with an introduction by Henry Morley (London: George Routledge and Sons, 1885)"
+  ]
+ },
+ "internet_archive": {
+  "ellwood-history-1714": [
+   "bim_eighteenth-century_the-history-of-the-life-_ellwood-thomas_1714",
+   "The History of the Life of Thomas Ellwood, written by his own hand, with a supplement by J. W. [Joseph Wyeth], the second edition (London: Assigns of J. Sowle, 1714)"
+  ],
+  "ellwood-history-crump": [
+   "historyoflifeoft00ellwuoft",
+   "The History of the Life of Thomas Ellwood, written by his own hand, edited by C. G. Crump (London: Methuen, 1900)"
+  ],
+  "ellwood-davideis-1749": [
+   "bim_eighteenth-century_davideis-the-life-of-da_ellwood-thomas_1749",
+   "Davideis: The Life of David King of Israel, a Sacred Poem in Five Books, the third edition, corrected (London: T. Sowle Raylton and Luke Hinde, 1749)"
+  ],
+  "ellwood-davideis-1805": [
+   "davideis01ellw",
+   "Davideis: The Life of David, King of Israel, a Sacred Poem in Five Books (Philadelphia: Joseph Crukshank, 1805)"
+  ]
+ },
+ "_alternates": {
+  "ellwood-copies": "Another 1714 copy (historylifethom00bowlgoog); the first Davideis (1712, year illegible); a second Routledge 1885 scan"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {
+  "ellwood-unread": "The 1765 Luke Hinde edition and the 1714 first edition: title pages not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "ellwood-history-morley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas ellwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellwood-history-1714": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas ellwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ellwood-history-crump": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas ellwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ellwood-davideis-1749": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas ellwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ellwood-davideis-1805": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas ellwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "_about": "Public-domain E. W. Hengstenberg (1802-1869, Lutheran, professor at Berlin) in pre-1930 English translations from T. & T. Clark and American houses: Christology of the Old Testament (4 vols, tr. Theodore Meyer and James Martin, 1861-68), Commentary on the Psalms (3 vols, 4th ed., 1863-64, tr. John Thomson and Patrick Fairbairn), The Revelation of St John (2 vols, tr. Patrick Fairbairn, 1851-52), Ecclesiastes (tr. D. W. Simon, 1860), Egypt and the Books of Moses (tr. R. D. C. Robbins, 1843) and the Gospel of St John (2 vols, 1865), raw Internet Archive OCR. These are the translations the fairbairn shelf leaves out as other men's books; they belong here. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hengstenberg",
+  "wilhelm"
+ ],
+ "_surname": [
+  "e. w. hengstenberg",
+  "ernst wilhelm hengstenberg",
+  "e. w. hengstenberg, d.d",
+  "dr. e. w. hengstenberg",
+  "hengstenberg, e. w",
+  "ernest william hengstenberg",
+  "dr. hengstenberg"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hengstenberg-christology-1": [
+   "christologyofold01heng",
+   "Christology of the Old Testament, vol. 1, tr. Theodore Meyer, second edition (Edinburgh: T. & T. Clark, MDCCCLXVIII)"
+  ],
+  "hengstenberg-christology-2": [
+   "christologyofold02heng",
+   "Christology of the Old Testament, vol. 2, tr. Theodore Meyer (Edinburgh: T. & T. Clark, 1861)"
+  ],
+  "hengstenberg-christology-3": [
+   "christologyofold03heng",
+   "Christology of the Old Testament, vol. 3, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "hengstenberg-christology-4": [
+   "christologyofold04heng",
+   "Christology of the Old Testament, vol. 4, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXV)"
+  ],
+  "hengstenberg-psalms-1": [
+   "commentaryonpsal186301heng",
+   "Commentary on the Psalms, vol. 1, fourth edition (Edinburgh: T. & T. Clark, 1863; translator not named on this title page)"
+  ],
+  "hengstenberg-psalms-2": [
+   "commentaryonpsal186402heng",
+   "Commentary on the Psalms, vol. 2, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864)"
+  ],
+  "hengstenberg-psalms-3": [
+   "commentaryonpsal186403heng",
+   "Commentary on the Psalms, vol. 3, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864)"
+  ],
+  "hengstenberg-revelation-1": [
+   "revelationstjoh01fairgoog",
+   "The Revelation of St John Expounded, vol. 1, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1851)"
+  ],
+  "hengstenberg-revelation-2": [
+   "revelationstjoh00fairgoog",
+   "The Revelation of St John Expounded, vol. 2, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1852)"
+  ],
+  "hengstenberg-ecclesiastes-1860": [
+   "commentaryoneccl00heng",
+   "Commentary on Ecclesiastes, with Other Treatises, tr. D. W. Simon (Philadelphia: Smith, English, 1860)"
+  ],
+  "hengstenberg-egypt-1843": [
+   "egyptbooksofmose00heng",
+   "Egypt and the Books of Moses, tr. R. D. C. Robbins (Andover: Allen, Morrill & Wardwell, 1843); the translator's name OCRs as \"J^BBINS\", so it is not machine-checked"
+  ],
+  "hengstenberg-john-1": [
+   "commentaryongosp01heng",
+   "Commentary on the Gospel of St John, vol. 1 (Edinburgh: T. & T. Clark, 1865; translator not named)"
+  ],
+  "hengstenberg-john-2": [
+   "commentaryongosp02heng",
+   "Commentary on the Gospel of St John, vol. 2 (Edinburgh: T. & T. Clark, 1865; translator not named)"
+  ]
+ },
+ "_alternates": {
+  "hengstenberg-christology-pg": "Gutenberg 30410 and 30608: Christology vols. 1-2 only; the IA set is complete"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "hengstenberg-christology-4": {
+   "author": "title page read 2026-10-10: OCR gives \"BY E. W. H E N G S T E N B E R G, DR. AND PROF. OF THEOL. IN BERLIN. SECOND EDITION ... TRANSLATED FROM THE GERMAN BY JAMES MARTIN\" (letterspaced): E. W. Hengstenberg"
+  },
+  "hengstenberg-psalms-1": {
+   "author": "title page read 2026-10-10: OCR gives \"COMMENTARY [ON] THE PSALMS, E. W. HENGSTENBEEG, DOCTOR AND PROFESSOR OF THEOLOGY IN BERLIN, VOL. I, FOURTH EDITION\" (R read as E), Clark's Foreign Theological Library: E. W. Hengstenberg"
+  },
+  "hengstenberg-psalms-2": {
+   "author": "title page read 2026-10-10: OCR gives \"E. W. HENGSTENBEEG ... VOL. II ... TRANSLATED BY THE REV. JOHN THOMSON, LEITH, REV. PATRICK FAIRBAIRN\", T. & T. Clark, MDCCCLXIV: E. W. Hengstenberg"
+  },
+  "hengstenberg-psalms-3": {
+   "author": "title page read 2026-10-10: OCR gives \"BY E. W. HENGSTENBEEG, DR. AND PROFESSOR OF DIVINITY IN BERLIN. VOL. III. FOURTH EDITION ... TRANSLATED BY THE REV. JOHN THOMSON ... AND REV. PATRICK FAIRBAIRN\", MDCCCLXIV: E. W. Hengstenberg"
+  }
+ },
+ "_translators": {
+  "hengstenberg-christology-1": "meyer",
+  "hengstenberg-christology-2": "meyer",
+  "hengstenberg-christology-3": "martin",
+  "hengstenberg-christology-4": "martin",
+  "hengstenberg-revelation-1": "fairbairn",
+  "hengstenberg-revelation-2": "fairbairn",
+  "hengstenberg-ecclesiastes-1860": "simon"
+ },
+ "_checks": {
+  "hengstenberg-christology-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "translator_claimed": "meyer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-christology-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "translator_claimed": "meyer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-christology-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "translator_claimed": "martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-christology-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "martin",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-psalms-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-revelation-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "translator_claimed": "fairbairn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-revelation-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "translator_claimed": "fairbairn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-ecclesiastes-1860": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "translator_claimed": "simon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-egypt-1843": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-john-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hengstenberg-john-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. w. hengstenberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

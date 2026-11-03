@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Henry Allon (1818-1892), Congregational minister of Union Chapel, Islington, and editor of the British Quarterly Review, for the Word Hoard: The Vision of God and Other Sermons (1876) and The Indwelling Christ and Other Sermons (1892), from Internet Archive scans. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "allon"
+ ],
+ "_surname": [
+  "henry allon",
+  "h. allon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "allon-vision-of-god": [
+   "visionofgodother00allo",
+   "The vision of God, and other sermons (London : Hodder and Stoughton, 1876)"
+  ],
+  "allon-indwelling-christ": [
+   "indwellingchris00allogoog",
+   "The Indwelling Christ and Other Sermons (T. Whittaker, 1892)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "allon-other": "The Congregational Psalmist and other hymn and tune books he edited; British Quarterly Review volumes; the Memorial volume (by others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "allon-indwelling-christ": "Title page (after the Google notice) reads 'THE INDWELLING CHRIST and other Sermons BY HENRY ALLON D.D. MINISTER OF UNION CHAPEL ISLINGTON. NEW YORK: THOMAS WHITTAKER, 1892' (OCR 'HENET ALLON')."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "allon-vision-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry allon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "allon-indwelling-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

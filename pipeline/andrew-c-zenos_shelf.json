@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Andrew C. Zenos, Presbyterian professor at McCormick Theological Seminary, for the Word Hoard: The Principles of the Higher Criticism, The Relations of New Testament Study to the Present Age, The Elements of the Higher Criticism, Compendium of Church History, The Teaching of Jesus concerning Christian Conduct, The Son of Man, and The Plastic Age of the Gospel. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 131 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "andrew c. zenos",
+  "andrew constantinides zenos",
+  "a. c. zenos",
+  "zenos"
+ ],
+ "_surname": [
+  "zenos"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zenos-principles-higher-criticism": [
+   "principlesofhigh00zeno",
+   "The principles of the higher criticism and their practical value : a paper read before the Presbyterian Ministers' Association of Chicago, January 28, 1884 ([S.l. : s.n., 1884)"
+  ],
+  "zenos-relations-nt-study": [
+   "relationsofnewte00zeno",
+   "The relations of New Testament study to the present age : Inaugural address of Andrew C. Zenos ... Hosmer professor of New Testament exegesis, January 16, 1889 ([Hartford] : Hartford theological seminary, 1889)"
+  ],
+  "zenos-elements-higher-criticism": [
+   "elementsofhigher0000andr",
+   "The elements of the higher criticism (funk and wagnalls company, 1895)"
+  ],
+  "zenos-church-history": [
+   "compendiumofchur00zeno",
+   "Compendium of church history (Philadelphia : Presbyterian Board of Publication and Sabbath-School Work, c189)"
+  ],
+  "zenos-teaching-of-jesus": [
+   "teachingofjesusc00zeno",
+   "The teaching of Jesus concerning Christian conduct (New York, American Tract Society, 1905)"
+  ],
+  "zenos-son-of-man": [
+   "sonofmanstudiesi00zeno",
+   "The Son of Man : studies in the gospel of Mark (New York : Scribners, 1914)"
+  ],
+  "zenos-plastic-age": [
+   "plasticageofgosp0000andr",
+   "The plastic age of the Gospel;: A manual of New Testament theology (The Macmillan company, 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "zenos-edited": "his Xenophon school edition and the Bible dictionaries and encyclopedias he helped edit",
+  "zenos-articles": "single journal articles",
+  "zenos-dups": "other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "zenos-principles-higher-criticism": "Title page: 'THE Principles of Higher Criticism AND THEIR PRACTICAL VALUE ... A PAPER READ BEFORE THE Presbyterian Ministers' Association OF CHICAGO, JANUARY 28, 1884', signed 'A. C. Ze-nos' (OCR splits the name), Professor in Lake Forest University."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "zenos-principles-higher-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zenos-relations-nt-study": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zenos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zenos-elements-higher-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zenos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zenos-church-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zenos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "c1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zenos-teaching-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zenos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "zenos-son-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zenos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zenos-plastic-age": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zenos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

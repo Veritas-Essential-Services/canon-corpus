@@ -1,0 +1,5800 @@
+{
+ "ia_id": "littleclassics04johngoog",
+ "shelf": "little-classics",
+ "witness": "little-classics-v18-authors",
+ "collated_with": [
+  "littleclassicsv00unkngoog"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": [
+  [
+   3,
+   "i*»'\"^'",
+   ""
+  ],
+  [
+   7,
+   "edges, $i.oo",
+   "edges, $1.00"
+  ],
+  [
+   7,
+   "morocco, I4S.00.",
+   "morocco, $45.00."
+  ],
+  [
+   7,
+   "vols., i6mo,",
+   "vols., 16mo,"
+  ],
+  [
+   7,
+   "Com. Advertiser .",
+   "Com. Advertiser."
+  ],
+  [
+   7,
+   "♦#*",
+   "***"
+  ],
+  [
+   7,
+   "Booksellers. Sent",
+   "Booksellers. Sent,"
+  ],
+  [
+   8,
+   "Sixteenth 19olttme.",
+   "Sixteenth Volume."
+  ],
+  [
+   10,
+   "'^M",
+   ""
+  ],
+  [
+   10,
+   "John lA",
+   "John 14"
+  ],
+  [
+   10,
+   "John, M.D",
+   "John, M.D."
+  ],
+  [
+   10,
+   "William .,...» \"^^^",
+   "William 51"
+  ],
+  [
+   12,
+   "Hervby, Thoma8",
+   "Hervey, Thomas"
+  ],
+  [
+   12,
+   "d'byGoOgT",
+   ""
+  ],
+  [
+   14,
+   "Nathaniel PAK.KiiL",
+   "Nathaniel Parker"
+  ],
+  [
+   15,
+   "\"WiNTHRop,",
+   "Winthrop,"
+  ],
+  [
+   17,
+   "of 27^",
+   "of 274"
+  ],
+  [
+   17,
+   "of Uxe CVi es^^vx \\\\\\Avvi\\.^A",
+   "of the 635 essays included"
+  ],
+  [
+   19,
+   "1838, imdet",
+   "1838, under"
+  ],
+  [
+   19,
+   "the VVCVe \"^V v\\,",
+   "the title \"The Bit o'"
+  ],
+  [
+   20,
+   "ANNA L^TITIA",
+   "ANNA LÆTITIA"
+  ],
+  [
+   20,
+   "to SLVTr.\\N^/\\\\i '^xic^'^^.^V^^vj.",
+   "to Palgrave, in Suffolk, where they"
+  ],
+  [
+   20,
+   "eleven e^^^. '^V'^ xv^^^^\"^'^^'^'",
+   "eleven years. She published \"Devo-"
+  ],
+  [
+   24,
+   "JAHE8",
+   "JAMES"
+  ],
+  [
+   25,
+   "helper. '^W Vvxvi uvi v.\\\\>\\\\\\vi\\\\.",
+   "helper. They had no children."
+  ],
+  [
+   27,
+   "lived comfort,ably",
+   "lived comfortably"
+  ],
+  [
+   28,
+   "of WiUiam",
+   "of William"
+  ],
+  [
+   29,
+   "RebeUion,",
+   "Rebellion,"
+  ],
+  [
+   30,
+   "an 'ti;>^-",
+   "an edu-"
+  ],
+  [
+   30,
+   "to vx\\?., \\>^^\"asxva \"^ os",
+   "to girls, became a fine"
+  ],
+  [
+   33,
+   "119.— Eceli/n",
+   "119.— Evelyn"
+  ],
+  [
+   34,
+   "Santa vcvi. \"W ^-^^a.",
+   "Santa Felice. There was"
+  ],
+  [
+   36,
+   "the stoTy",
+   "the story"
+  ],
+  [
+   39,
+   "XIV. J^.",
+   "XIV. 46."
+  ],
+  [
+   39,
+   "1S()5",
+   "1865"
+  ],
+  [
+   39,
+   "of luverburn,\"",
+   "of Inverburn,\""
+  ],
+  [
+   39,
+   "in 1860",
+   "in 1866"
+  ],
+  [
+   40,
+   "resigned In 3\\me, \\%^^. Cvl",
+   "resigned in June, 1859. On"
+  ],
+  [
+   42,
+   "1844 •,",
+   "1844 ;"
+  ],
+  [
+   42,
+   "-•o*-",
+   ""
+  ],
+  [
+   42,
+   "private aecx^^arj \\si \\iA",
+   "private secretary to his"
+  ],
+  [
+   43,
+   "JOHN BTTBB0TT6HS.",
+   "JOHN BURROUGHS."
+  ],
+  [
+   43,
+   "\\,",
+   ""
+  ],
+  [
+   44,
+   "than ^\\\\?y.\\»",
+   "than what"
+  ],
+  [
+   44,
+   "a commou-school",
+   "a common-school"
+  ],
+  [
+   44,
+   "education *, to \\ie.\\^^ix:^^",
+   "education ; for he learned"
+  ],
+  [
+   45,
+   "imagine V\\ia\\. vivi>3^.^",
+   "imagine that I could"
+  ],
+  [
+   46,
+   "a T^^^srj !'",
+   "a Daisy.\" More"
+  ],
+  [
+   47,
+   "cepti(m.",
+   "ception."
+  ],
+  [
+   52,
+   "was Fran9ois",
+   "was François"
+  ],
+  [
+   52,
+   "lived wVWl ycwi asssj *^Na",
+   "lived with Byron until the"
+  ],
+  [
+   53,
+   "CO I mi I J,",
+   "country,"
+  ],
+  [
+   53,
+   "reverenced a\\vv\\'ddv>tvivJi\\v\\.\"£,wxviYii**",
+   "reverenced and adored in Europe.\""
+  ],
+  [
+   54,
+   "Child, XIIL QS'—LochieVs",
+   "Child, XIII. 65.— Lochiel's"
+  ],
+  [
+   54,
+   "Warning, XIV, 159,",
+   "Warning, XIV. 159."
+  ],
+  [
+   54,
+   "written \\t.",
+   "written it."
+  ],
+  [
+   8,
+   "ff^/Tff",
+   "WITH"
+  ],
+  [
+   8,
+   "GENERAL INDEX,",
+   "GENERAL INDEX."
+  ],
+  [
+   10,
+   "Chaiteuton,",
+   "Chatterton,"
+  ],
+  [
+   10,
+   "Thomas * \"^^^",
+   "Thomas 53"
+  ],
+  [
+   55,
+   "\" LochieFs",
+   "\" Lochiel's"
+  ],
+  [
+   55,
+   "\" Hoheuliuden,\"",
+   "\" Hohenlinden,\""
+  ],
+  [
+   58,
+   "poems «x cJOiKt",
+   "poems and other"
+  ],
+  [
+   59,
+   "are suflScient",
+   "are sufficient"
+  ],
+  [
+   62,
+   "Khan, IK",
+   "Khan, XV."
+  ],
+  [
+   62,
+   "16. --",
+   "16. —"
+  ],
+  [
+   64,
+   "under 'sn\\iQ9& e.'a.x^V'i^^a",
+   "under whose care he had"
+  ],
+  [
+   64,
+   "received immetawa V^>^ts»^''^^^»",
+   "received numerous visitors who"
+  ],
+  [
+   65,
+   "XIV. I40.",
+   "XIV. 140."
+  ],
+  [
+   66,
+   "21, 184j4.",
+   "21, 1844."
+  ],
+  [
+   68,
+   "LilUe",
+   "Lillie"
+  ],
+  [
+   69,
+   "— M'niHtn'Vs",
+   "— Minstrel's"
+  ],
+  [
+   69,
+   "Song, VIL",
+   "Song, VII."
+  ],
+  [
+   69,
+   "\" u",
+   "\" a"
+  ],
+  [
+   69,
+   "dark, uugauvY o\\\\V\\\\, vjWV",
+   "dark, ungainly youth, with a"
+  ],
+  [
+   71,
+   "6Q",
+   "66"
+  ],
+  [
+   71,
+   "la",
+   "In"
+  ],
+  [
+   71,
+   "\" T\\ic 11onvcl^>;v m ver «okxiL",
+   "\" The Howadji in Syria,\" and in"
+  ],
+  [
+   73,
+   "diflFerences",
+   "differences"
+  ],
+  [
+   73,
+   "and Ids",
+   "and his"
+  ],
+  [
+   74,
+   "College, DubHn.",
+   "College, Dublin."
+  ],
+  [
+   75,
+   "years m \\.i»n^\\. \"Yiji \"^x^^Sgai",
+   "years in travel. He published"
+  ],
+  [
+   76,
+   "X. I4I.",
+   "X. 141."
+  ],
+  [
+   77,
+   "7^",
+   "72"
+  ],
+  [
+   78,
+   "Dog ofFlanderSy X.7.",
+   "Dog of Flanders, X. 7."
+  ],
+  [
+   78,
+   "Storm, XL 208,",
+   "Storm, XI. 202."
+  ],
+  [
+   78,
+   "LA RAM6",
+   "LA RAMÉ"
+  ],
+  [
+   78,
+   "\"Pascai«l,\"",
+   "\"Pascarèl,\""
+  ],
+  [
+   79,
+   "in 1SC2",
+   "in 1802"
+  ],
+  [
+   79,
+   "December, lb03,",
+   "December, 1803,"
+  ],
+  [
+   79,
+   "De Quineey",
+   "De Quincey"
+  ],
+  [
+   79,
+   "there be",
+   "there he"
+  ],
+  [
+   79,
+   "ten jeax&, intiiviaielv Uk",
+   "ten years, intimately associated with"
+  ],
+  [
+   80,
+   "DE qUINCEY.",
+   "DE QUINCEY."
+  ],
+  [
+   82,
+   "Crusoe/'",
+   "Crusoe,\""
+  ],
+  [
+   82,
+   "of Eielding",
+   "of Fielding"
+  ],
+  [
+   85,
+   "LITTLE ei.ASSlCS.",
+   "LITTLE CLASSICS."
+  ],
+  [
+   86,
+   "in t]i3",
+   "in the"
+  ],
+  [
+   86,
+   "oilier",
+   "other"
+  ],
+  [
+   86,
+   "no cow\\^^\\»^",
+   "no complete collec-"
+  ],
+  [
+   87,
+   "8:i",
+   "82"
+  ],
+  [
+   89,
+   "H-A6 n",
+   "was a"
+  ],
+  [
+   89,
+   "sat d.owu\\ife?>olv^*.\"\\^iaN^\\sK^BM",
+   "sat down he said: \"I have begun"
+  ],
+  [
+   91,
+   "XIV. ISS.—Eow's",
+   "XIV. 183.—How's"
+  ],
+  [
+   91,
+   "My Boy I* XV, ISO,",
+   "My Boy? XV. 150."
+  ],
+  [
+   91,
+   "had v/ritlru ''Balder,\"",
+   "had written \"Balder,\""
+  ],
+  [
+   91,
+   "published U\\s",
+   "published his"
+  ],
+  [
+   91,
+   "land In",
+   "land in"
+  ],
+  [
+   91,
+   "in 1850.",
+   "in 1856."
+  ],
+  [
+   91,
+   "This \\o\\vv\\\\\\vi wwWwve",
+   "This volume contained"
+  ],
+  [
+   92,
+   "DO:.IETT.",
+   "DOMETT."
+  ],
+  [
+   92,
+   "Christmas Ili/mn, XV, 211,",
+   "Christmas Hymn, XV. 217."
+  ],
+  [
+   93,
+   "True, hut",
+   "True, but"
+  ],
+  [
+   93,
+   "were svmdw ^.oUAiva,",
+   "were sundry jottings,"
+  ],
+  [
+   94,
+   "a tt ckA%V\\\\^.",
+   "a petty clerkship."
+  ],
+  [
+   95,
+   "lished \"AstrsDa",
+   "lished \"Astræa"
+  ],
+  [
+   97,
+   "0^",
+   "92"
+  ],
+  [
+   100,
+   "in 1^55;",
+   "in 1855;"
+  ],
+  [
+   100,
+   "\"Deb3nham's",
+   "\"Debenham's"
+  ],
+  [
+   100,
+   "Vow,\" m",
+   "Vow,\" in"
+  ],
+  [
+   100,
+   "schools <il",
+   "schools of"
+  ],
+  [
+   100,
+   "College, wWxe Xi'i ^\\'?>.^\\sa",
+   "College, where he was graduated"
+  ],
+  [
+   102,
+   "Scholar \"",
+   "Scholar,\""
+  ],
+  [
+   102,
+   "delivered \\u l^'il .",
+   "delivered in 1837."
+  ],
+  [
+   104,
+   "in deteiTtiining",
+   "in determining"
+  ],
+  [
+   105,
+   "wood/",
+   "wood.'"
+  ],
+  [
+   105,
+   "the authorship ;",
+   "the authorship;"
+  ],
+  [
+   101,
+   ".c o\\",
+   ""
+  ],
+  [
+   101,
+   ", .. v-",
+   ""
+  ],
+  [
+   101,
+   "\\\\\\\\",
+   ""
+  ],
+  [
+   101,
+   "aAx^^^^'",
+   ""
+  ],
+  [
+   101,
+   "vv",
+   ""
+  ],
+  [
+   101,
+   "n\\v.v",
+   ""
+  ],
+  [
+   107,
+   "\"RinganGilhaize,\"",
+   "\"Ringan Gilhaize,\""
+  ],
+  [
+   108,
+   "M. I<)lr, vxud aww.s \\\\.c>^^«",
+   "M. Moir, and James Hogg."
+  ],
+  [
+   110,
+   "and orii i^^q>>\\s» \\nk.^",
+   "and ordered a gorgeous new"
+  ],
+  [
+   111,
+   "a L(ni(lon",
+   "a London"
+  ],
+  [
+   111,
+   "sold lo",
+   "sold to"
+  ],
+  [
+   111,
+   "publisher ^<3t",
+   "publisher for"
+  ],
+  [
+   112,
+   "and Was\\\\\\\\\\^cv\\\\\\\\N\\\\\\%.",
+   "and Washington Irving."
+  ],
+  [
+   116,
+   "r.l45.",
+   "V. 145."
+  ],
+  [
+   117,
+   "Public, XIL 134^",
+   "Public, XII. 134."
+  ],
+  [
+   118,
+   "\"Kiuibasand N(^braska,\"",
+   "\"Kansas and Nebraska,\""
+  ],
+  [
+   118,
+   "li.-ham",
+   "Ingham"
+  ],
+  [
+   118,
+   "Papers,\" 1809;",
+   "Papers,\" 1869;"
+  ],
+  [
+   118,
+   "in IS06,",
+   "in 1806,"
+  ],
+  [
+   119,
+   "FITZ-6BEENE",
+   "FITZ-GREENE"
+  ],
+  [
+   119,
+   "in ISIS.",
+   "in 1848."
+  ],
+  [
+   119,
+   "Astor Idi V\\\\ss\\ cc^.",
+   "Astor left him an"
+  ],
+  [
+   119,
+   "In 1819",
+   "In 1849"
+  ],
+  [
+   119,
+   "to Cxilo^^A",
+   "to Guilford, to live"
+  ],
+  [
+   122,
+   "ous pOems,",
+   "ous poems,"
+  ],
+  [
+   123,
+   "Brand, L",
+   "Brand, I."
+  ],
+  [
+   123,
+   "II. ISJ^.—",
+   "II. 134.—"
+  ],
+  [
+   126,
+   "dead \\\\v",
+   "dead in"
+  ],
+  [
+   126,
+   "Concord, ass., Wi m».w\\y?>cY\\\\j\\. <i1\\a&",
+   "Concord, Mass., the manuscript of his"
+  ],
+  [
+   127,
+   "Books/'",
+   "Books,\""
+  ],
+  [
+   127,
+   "and \"Erench",
+   "and \"French"
+  ],
+  [
+   129,
+   "HERBERT. 1^3",
+   "HERBERT. 123"
+  ],
+  [
+   129,
+   "6E0BGE HEKBEBT.",
+   "GEORGE HERBERT."
+  ],
+  [
+   130,
+   "KIBBLE EER^TIY",
+   "KIBBLE HERVEY"
+  ],
+  [
+   130,
+   "some ol \\iAs.\\it?>\\.Vsxv^\"s»'ws.\"^\\»",
+   "some of his best lyrics first"
+  ],
+  [
+   131,
+   "nme",
+   "ume"
+  ],
+  [
+   131,
+   "under tke \\a\\X \"\"YV^Xv",
+   "under the title \"The Vigil of"
+  ],
+  [
+   132,
+   "Paith,",
+   "Faith,"
+  ],
+  [
+   132,
+   "Poems,\" wLich",
+   "Poems,\" which"
+  ],
+  [
+   132,
+   "in 1844!",
+   "in 1844"
+  ],
+  [
+   132,
+   "XV. IO4.",
+   "XV. 104."
+  ],
+  [
+   133,
+   "first pubUcations",
+   "first publications"
+  ],
+  [
+   134,
+   "1^8",
+   "128"
+  ],
+  [
+   134,
+   "LITTLE CTASSICS.",
+   "LITTLE CLASSICS."
+  ],
+  [
+   134,
+   "on lyovcmXix St\\,\\'^'^'^.^^^",
+   "on November 21, 1835, he died."
+  ],
+  [
+   135,
+   "XV. 21J^.",
+   "XV. 214."
+  ],
+  [
+   135,
+   "before \\\\\\q",
+   "before the"
+  ],
+  [
+   136,
+   "iiHly",
+   "ingly"
+  ],
+  [
+   136,
+   "and ILoT\\xce.",
+   "and Horace."
+  ],
+  [
+   137,
+   "Gem,\" aw",
+   "Gem,\" an"
+  ],
+  [
+   137,
+   "annual, ot 1^29 , awd",
+   "annual, for 1829, and"
+  ],
+  [
+   137,
+   "Eugene ktm'' ^\\wa.",
+   "Eugene Aram.\" From"
+  ],
+  [
+   140,
+   "two years»",
+   "two years,"
+  ],
+  [
+   140,
+   "JEAN IN6EL0W.",
+   "JEAN INGELOW."
+  ],
+  [
+   140,
+   "— T/ie",
+   "— The"
+  ],
+  [
+   141,
+   "nuyee,\"1826;",
+   "nuyée,\" 1826;"
+  ],
+  [
+   141,
+   "1829; \"Cliarac-",
+   "1829; \"Charac-"
+  ],
+  [
+   142,
+   "Ode, Xr. 14s.",
+   "Ode, XV. 148."
+  ],
+  [
+   142,
+   "learned Ire'atvses oi \\\\,^\"^^^^'axO«w«»r",
+   "learned treatises for its \"Researches.\""
+  ],
+  [
+   143,
+   "TjTi T€kt6vwv al rrSXeis elalv",
+   "Τέχνη τεκτόνων αἱ πόλεις εἰσὶν"
+  ],
+  [
+   143,
+   "'AW* Sttou ttot Iv cD(ru/*ANAPES",
+   "Ἀλλ' ὅπου ποτ' ἂν ὦσιν ἌΝΔΡΕΣ"
+  ],
+  [
+   143,
+   "AvToifS cuidv eldoTCSf",
+   "Αὐτοὺς σωζεῖν εἰδότες,"
+  ],
+  [
+   143,
+   "*EpTav6a relxv f\"^ iroXets.",
+   "Ἐνταῦθα τείχη καὶ πόλεις."
+  ],
+  [
+   144,
+   "Charles Linn/'",
+   "Charles Linn,\""
+  ],
+  [
+   148,
+   "Kingshy's",
+   "Kingsley's"
+  ],
+  [
+   148,
+   "publications axe •.",
+   "publications are:"
+  ],
+  [
+   148,
+   "on \"Na-",
+   "on Na-"
+  ],
+  [
+   150,
+   "poemS;",
+   "poems,"
+  ],
+  [
+   150,
+   "X. 17J^.",
+   "X. 174."
+  ],
+  [
+   151,
+   "TT71LLIAM",
+   "WILLIAM"
+  ],
+  [
+   151,
+   "Firth, Roxburgli-",
+   "Firth, Roxburgh-"
+  ],
+  [
+   151,
+   "bis",
+   "his"
+  ],
+  [
+   151,
+   "poem c\\ixie.\\ic we ,",
+   "poem currency anew."
+  ],
+  [
+   152,
+   "Children, IF,",
+   "Children, IV."
+  ],
+  [
+   152,
+   "upon Boast P/^,",
+   "upon Roast Pig,"
+  ],
+  [
+   152,
+   "'Mr. H. \"",
+   "\"Mr. H.\""
+  ],
+  [
+   152,
+   "at Dtwt li-ocvio; IV^^xxa Ssi",
+   "at Drury Lane Theatre in"
+  ],
+  [
+   155,
+   "time owe Nex ol ^^<^Ovx:ft%^^V\\^",
+   "time one year of schooling, which"
+  ],
+  [
+   155,
+   "ever bad.",
+   "ever had."
+  ],
+  [
+   155,
+   "assisted bis vxWvix oss. \"Cfea 'vsxsa.*",
+   "assisted his father on the farm,"
+  ],
+  [
+   156,
+   "included \"^sop's",
+   "included \"Æsop's"
+  ],
+  [
+   156,
+   "g.imon.",
+   "gammon."
+  ],
+  [
+   157,
+   "of LexmgVoiv, .",
+   "of Lexington, Ky."
+  ],
+  [
+   158,
+   "15il",
+   "152"
+  ],
+  [
+   158,
+   "lu",
+   "In"
+  ],
+  [
+   158,
+   "nominated ?or \\3m\\,eOL V^Vc M\\iX,Qrt,*\\a.",
+   "nominated for United States senator, in"
+  ],
+  [
+   159,
+   "his poHtical",
+   "his political"
+  ],
+  [
+   160,
+   "its conciUatory",
+   "its conciliatory"
+  ],
+  [
+   163,
+   "HEHB7 WADSWOBTH",
+   "HENRY WADSWORTH"
+  ],
+  [
+   163,
+   "4^.",
+   "49."
+  ],
+  [
+   163,
+   "XV. Jl.",
+   "XV. 41."
+  ],
+  [
+   163,
+   "romance, J820;",
+   "romance, 1839;"
+  ],
+  [
+   164,
+   "Salutamus/'",
+   "Salutamus,\""
+  ],
+  [
+   164,
+   "included m",
+   "included in"
+  ],
+  [
+   165,
+   "Barny O'lteirdon",
+   "Barny O'Reirdon"
+  ],
+  [
+   165,
+   "the 'Navigator y 7X",
+   "the Navigator, IX."
+  ],
+  [
+   165,
+   "The Gridiron",
+   "The Gridiron,"
+  ],
+  [
+   166,
+   "\"Rx)ry",
+   "\"Rory"
+  ],
+  [
+   167,
+   "The Courtin\\",
+   "The Courtin',"
+  ],
+  [
+   167,
+   "published ^\\s.^",
+   "published also"
+  ],
+  [
+   167,
+   "The ^\\^^\\s.",
+   "The Vision"
+  ],
+  [
+   167,
+   "Sir Launfd,\"",
+   "Sir Launfal,\""
+  ],
+  [
+   167,
+   "of IV",
+   "of the"
+  ],
+  [
+   167,
+   "\" 'Sv^'ci y^^l*?*'",
+   "\" Biglow Papers,\""
+  ],
+  [
+   169,
+   "the sufferexs Amxvw?, \\iL I-kkvvjv^'vs^*^^",
+   "the sufferers during a famine in the"
+  ],
+  [
+   170,
+   "little",
+   "Little"
+  ],
+  [
+   170,
+   "and /, XL",
+   "and I, XI."
+  ],
+  [
+   171,
+   "THOMAS BABIN6T0K HACATJLAT.",
+   "THOMAS BABINGTON MACAULAY."
+  ],
+  [
+   171,
+   "Puritans, IF.",
+   "Puritans, IV."
+  ],
+  [
+   171,
+   "— Roratius,",
+   "— Horatius,"
+  ],
+  [
+   171,
+   "— Nasebi/y",
+   "— Naseby,"
+  ],
+  [
+   172,
+   "were pub\\is\\ied \"ml^VSL. T^^^issasx",
+   "were published in 1842. They number"
+  ],
+  [
+   173,
+   "edited ^*The",
+   "edited \"The"
+  ],
+  [
+   173,
+   "o!",
+   "of"
+  ],
+  [
+   173,
+   "an 'mUoduG\\\\cs\\i w^\\\\s>»\\siS!»,\\s^.",
+   "an introduction and notes, in"
+  ],
+  [
+   175,
+   "ener's oflSce,",
+   "ener's office,"
+  ],
+  [
+   176,
+   "Diqitized by Vj005 IC",
+   ""
+  ],
+  [
+   178,
+   "; «",
+   "; \""
+  ],
+  [
+   178,
+   "The BelUTower,",
+   "The Bell-Tower,"
+  ],
+  [
+   181,
+   "OoJj\"",
+   "ogy,\""
+  ],
+  [
+   182,
+   "176 T.ITTLE",
+   "176 LITTLE"
+  ],
+  [
+   183,
+   "in 1641,",
+   "in 1644,"
+  ],
+  [
+   183,
+   "and DiscipUne",
+   "and Discipline"
+  ],
+  [
+   184,
+   "Elizabeth MinshuU.",
+   "Elizabeth Minshull."
+  ],
+  [
+   184,
+   "\"Paradise gained\" axi \"^^\\\\vs«ivv k.^«5k\\vfi.-",
+   "\"Paradise Regained\" and \" Samson Agonis-"
+  ],
+  [
+   186,
+   "Europe. \"Via \\a\\x«?ctfi.\\ \\\\!^ Si",
+   "Europe. He returned in 1846,"
+  ],
+  [
+   188,
+   "and probabiUty",
+   "and probability"
+  ],
+  [
+   188,
+   "of wliieh",
+   "of which"
+  ],
+  [
+   189,
+   "the Periy^XIII.",
+   "the Peri, XIII."
+  ],
+  [
+   189,
+   "— Comey",
+   "— Come,"
+  ],
+  [
+   192,
+   "the ImagCy",
+   "the Image,"
+  ],
+  [
+   192,
+   "XIII. 173,",
+   "XIII. 173."
+  ],
+  [
+   193,
+   "Jeanie Morrison",
+   "Jeanie Morrison,"
+  ],
+  [
+   193,
+   "XIV. It2.",
+   "XIV. 42."
+  ],
+  [
+   194,
+   "the olEce",
+   "the office"
+  ],
+  [
+   195,
+   "f '■",
+   ""
+  ],
+  [
+   196,
+   "10, 184:8.",
+   "10, 1848."
+  ],
+  [
+   198,
+   "\"KeepCooV",
+   "\"Keep Cool,\""
+  ],
+  [
+   198,
+   "Life,\" 1869 •,",
+   "Life,\" 1869;"
+  ],
+  [
+   198,
+   "and \" Portland",
+   "and \"Portland"
+  ],
+  [
+   198,
+   "2s;l",
+   "1874."
+  ],
+  [
+   202,
+   "XV. 1^0,",
+   "XV. 140."
+  ],
+  [
+   203,
+   "in IS^-S.",
+   "in 1843."
+  ],
+  [
+   204,
+   "18G6-G9",
+   "1866-69"
+  ],
+  [
+   204,
+   "\"Mercy Giidden's",
+   "\"Mercy Glidden's"
+  ],
+  [
+   204,
+   "1785. lie",
+   "1785. He"
+  ],
+  [
+   204,
+   "graduated «i",
+   "graduated at"
+  ],
+  [
+   204,
+   "in 180 41,",
+   "in 1804,"
+  ],
+  [
+   204,
+   "to S>o\\\\V\\i C^^oXvwa. w’sn^^^^.",
+   "to South Carolina as a private tutor."
+  ],
+  [
+   205,
+   "TI:^",
+   "He"
+  ],
+  [
+   205,
+   "age <5k",
+   "age of"
+  ],
+  [
+   205,
+   "iwenty-two be",
+   "twenty-two he"
+  ],
+  [
+   205,
+   "his commissvow, w ^\\,\\5lv^^^\"»^",
+   "his commission, and studied law."
+  ],
+  [
+   206,
+   "\" MiiTor",
+   "\" Mirror"
+  ],
+  [
+   206,
+   "beautiful EngHsh",
+   "beautiful English"
+  ],
+  [
+   208,
+   "20'Z",
+   "202"
+  ],
+  [
+   208,
+   "with CIuxtIcs . n^?,'^. m iJ):\\*Cvcv^S\\!^^^'''^x^'5^-",
+   "with Charles F. Briggs in editing the \" Broad-"
+  ],
+  [
+   209,
+   "roE.",
+   "POE."
+  ],
+  [
+   209,
+   "boon co'.rp anions,",
+   "boon companions,"
+  ],
+  [
+   209,
+   "of x '^'^ Son^^^T",
+   "of the \" Raven,\""
+  ],
+  [
+   210,
+   "1()88.",
+   "1688."
+  ],
+  [
+   211,
+   "St. CeciUa's",
+   "St. Cecilia's"
+  ],
+  [
+   212,
+   "R. CaiTu-",
+   "R. Carru-"
+  ],
+  [
+   214,
+   "of Thessaly,'^and",
+   "of Thessaly, and"
+  ],
+  [
+   214,
+   "XV. lU-",
+   "XV. 144."
+  ],
+  [
+   215,
+   "XV. W4^",
+   "XV. 204."
+  ],
+  [
+   216,
+   "ill!",
+   "an"
+  ],
+  [
+   216,
+   "the \"NeVVvtivVoiwOLS. OmVv \\^\\.\\^\\?a.V'^^^",
+   "the Netherlands. On his return he was"
+  ],
+  [
+   217,
+   "1814. Th3",
+   "1814. The"
+  ],
+  [
+   218,
+   "21l",
+   "212"
+  ],
+  [
+   219,
+   "The Cours3",
+   "The Course"
+  ],
+  [
+   220,
+   "1852, uuder",
+   "1852, under"
+  ],
+  [
+   220,
+   "the tiUe",
+   "the title"
+  ],
+  [
+   224,
+   "— Coro?iach,",
+   "— Coronach,"
+  ],
+  [
+   224,
+   "\" H.H'Dld",
+   "\" Harold"
+  ],
+  [
+   225,
+   "and Ballantyu3",
+   "and Ballantyne"
+  ],
+  [
+   227,
+   "the Mowing",
+   "the following"
+  ],
+  [
+   227,
+   "\"Richard 111.,\"",
+   "\"Richard III.,\""
+  ],
+  [
+   227,
+   "\" KW^'^Nn^^N.",
+   "\" All's Well that"
+  ],
+  [
+   228,
+   "2'Z2> LIITLE",
+   "222 LITTLE"
+  ],
+  [
+   228,
+   "T/ie",
+   "The"
+  ],
+  [
+   229,
+   "William Godwi.i",
+   "William Godwin"
+  ],
+  [
+   229,
+   "and mad3",
+   "and made"
+  ],
+  [
+   229,
+   "the Gull",
+   "the Gulf"
+  ],
+  [
+   229,
+   "of '^^^ivd., \\.^",
+   "of Spezia. In"
+  ],
+  [
+   230,
+   "ashore, Byro\\i,",
+   "ashore, Byron,"
+  ],
+  [
+   231,
+   "He taught*school",
+   "He taught school"
+  ],
+  [
+   231,
+   "October 29,^1666.",
+   "October 29, 1666."
+  ],
+  [
+   231,
+   "Erin,\" si",
+   "Erin,\" a"
+  ],
+  [
+   231,
+   "poem, \\'^'^^ v''\"\"^^",
+   "poem, 1830; \"The"
+  ],
+  [
+   231,
+   "10* <i",
+   "10*"
+  ],
+  [
+   232,
+   "Dreamthorpy",
+   "Dreamthorp,"
+  ],
+  [
+   232,
+   "— Ladi/",
+   "— Lady"
+  ],
+  [
+   232,
+   "January ^,1^^!",
+   "January 5, 1867."
+  ],
+  [
+   233,
+   "July \"^12,",
+   "July 12,"
+  ],
+  [
+   234,
+   "HABEIET FSESCOTI 8F0FF0SD.",
+   "HARRIET PRESCOTT SPOFFORD."
+  ],
+  [
+   234,
+   "D' Outre",
+   "D'Outre"
+  ],
+  [
+   234,
+   "VII. 115.^",
+   "VII. 115.—"
+  ],
+  [
+   234,
+   "Legends/' 1871', avid\"T\\v^T\\^vdm\\}c.^^\\^\\,r \\^1^.",
+   "Legends,\" 1871; and \"The Thief in the Night,\" 1872."
+  ],
+  [
+   235,
+   "and \"'Edgar",
+   "and \" Edgar"
+  ],
+  [
+   235,
+   "an essuy, \"Boslow^Y^'^^*",
+   "an essay, Boston, 1880."
+  ],
+  [
+   236,
+   "Y., iu 184;0.",
+   "Y., in 1840."
+  ],
+  [
+   236,
+   "At au",
+   "At an"
+  ],
+  [
+   236,
+   "considerable Yep\\iVv\\\\\\o\\i. 1^^ A^^^^^k^'ssjws",
+   "considerable reputation. He edited a newspaper"
+  ],
+  [
+   238,
+   "L')Wvillo,",
+   "Lowville,"
+  ],
+  [
+   238,
+   "*•",
+   "\""
+  ],
+  [
+   239,
+   "XV. J^.",
+   "XV. 40."
+  ],
+  [
+   239,
+   "Eaters/'",
+   "Eaters,\""
+  ],
+  [
+   239,
+   "to >3v\\ivc\\i, lox",
+   "to which, for want of"
+  ],
+  [
+   239,
+   "a y",
+   "a"
+  ],
+  [
+   241,
+   "Great Hoggnrfy",
+   "Great Hoggarty"
+  ],
+  [
+   241,
+   "in lil*, ^\\i NJaa '•'''VtYx",
+   "in 1841; and the \"Irish"
+  ],
+  [
+   242,
+   "book. H;s",
+   "book. His"
+  ],
+  [
+   243,
+   "TTENRY",
+   "HENRY"
+  ],
+  [
+   243,
+   "n",
+   ""
+  ],
+  [
+   243,
+   "12, 18l7.",
+   "12, 1817."
+  ],
+  [
+   245,
+   "flis",
+   "the"
+  ],
+  [
+   245,
+   "Usk), 1051 ;",
+   "Usk), 1651;"
+  ],
+  [
+   245,
+   "Thalia Rcdivivus, tLe",
+   "Thalia Redivivus, the"
+  ],
+  [
+   245,
+   "TJie Tofal Dfpraviif/",
+   "The Total Depravity"
+  ],
+  [
+   247,
+   "October 21^",
+   "October 21,"
+  ],
+  [
+   249,
+   "XV. IO4.",
+   "XV. 104."
+  ],
+  [
+   249,
+   "Moore's, ]S:?;j.",
+   "Moore's, 1833."
+  ],
+  [
+   249,
+   "H. Thorn, ai\\\\^^.wc^<i\\xv\\^^5i.",
+   "H. Thom, appeared in 1845."
+  ],
+  [
+   252,
+   "'i\\Q '",
+   "246"
+  ],
+  [
+   252,
+   "deatn,",
+   "death,"
+  ],
+  [
+   252,
+   "September 10^",
+   "September 10,"
+  ],
+  [
+   252,
+   "Enticed, XV, 22Jt.",
+   "Enticed, XV. 224."
+  ],
+  [
+   252,
+   "the Tiieological Semmar WieYc'wvWo^.",
+   "the Theological Seminary there in 1859."
+  ],
+  [
+   253,
+   "XS",
+   ""
+  ],
+  [
+   253,
+   "20, 180T. H'-s",
+   "20, 1807. His"
+  ],
+  [
+   253,
+   "both pu\\A\\a\\\\eTS. \"l^\\«\\^",
+   "both publishers. The family re-"
+  ],
+  [
+   254,
+   "published \"^",
+   "published \""
+  ],
+  [
+   254,
+   "of $ 50",
+   "of $50"
+  ],
+  [
+   254,
+   "a poem,",
+   "a poem."
+  ],
+  [
+   254,
+   "lu",
+   "In"
+  ],
+  [
+   254,
+   "Monthly Maj?a-",
+   "Monthly Maga-"
+  ],
+  [
+   254,
+   "In \\^'M",
+   "In 1837"
+  ],
+  [
+   254,
+   "Joseph QimYCia",
+   "Joseph Grinnell"
+  ],
+  [
+   254,
+   "\" ima ^^>!a:w^V ^\"^fici",
+   "\" Home Journal,\" which"
+  ],
+  [
+   256,
+   "In 1 820 \\\\?.",
+   "In 1820 he"
+  ],
+  [
+   256,
+   "yGoogk",
+   ""
+  ],
+  [
+   257,
+   "August, \\^e>\\.",
+   "August, 1861."
+  ],
+  [
+   78,
+   "Storm, XL",
+   "Storm, XI."
+  ],
+  [
+   117,
+   "XII. 134^",
+   "XII. 134."
+  ],
+  [
+   135,
+   "XV. 214-",
+   "XV. 214."
+  ],
+  [
+   150,
+   "X. 174-",
+   "X. 174."
+  ],
+  [
+   188,
+   "of winch",
+   "of which"
+  ],
+  [
+   203,
+   "in 1813.",
+   "in 1843."
+  ],
+  [
+   245,
+   "Thalia Rcdivivus,",
+   "Thalia Redivivus,"
+  ],
+  [
+   245,
+   "Total Dfpraviif/",
+   "Total Depravity"
+  ],
+  [
+   249,
+   "XV. 10^.",
+   "XV. 104."
+  ],
+  [
+   143,
+   "'AW* Sttou WOT Iv cD(ru/*ANAPES",
+   "Ἀλλ' ὅπου ποτ' ἂν ὦσιν ἌΝΔΡΕΣ"
+  ],
+  [
+   29,
+   "6E0K6E HENBT BOKEB.",
+   "GEORGE HENRY BOKER."
+  ],
+  [
+   62,
+   "XIII. 22.—Kubla",
+   "XIII. 22. — Kubla"
+  ],
+  [
+   91,
+   "XIV. 183.—How's",
+   "XIV. 183. — How's"
+  ],
+  [
+   104,
+   "rS",
+   "98"
+  ],
+  [
+   107,
+   "of Lar2;s,",
+   "of Largs,"
+  ],
+  [
+   109,
+   "to Le^-",
+   "to Ley-"
+  ],
+  [
+   244,
+   "'^S/7ex",
+   "\" Silex"
+  ],
+  [
+   250,
+   "Ichahod,",
+   "Ichabod,"
+  ],
+  [
+   250,
+   "XV. 123.— Mt/",
+   "XV. 123. — My"
+  ],
+  [
+   210,
+   "Addisou",
+   "Addison"
+  ],
+  [
+   198,
+   "Authorsliip,",
+   "Authorship,"
+  ],
+  [
+   88,
+   "Captaiu",
+   "Captain"
+  ],
+  [
+   209,
+   "Churcliyard,",
+   "Churchyard,"
+  ],
+  [
+   84,
+   "Cliapman",
+   "Chapman"
+  ],
+  [
+   86,
+   "Copporfield,\"",
+   "Copperfield,\""
+  ],
+  [
+   96,
+   "Drydeu",
+   "Dryden"
+  ],
+  [
+   108,
+   "\"Ebcn",
+   "\"Eben"
+  ],
+  [
+   253,
+   "Kocli-",
+   "Koch-"
+  ],
+  [
+   255,
+   "\"Loiteriugs",
+   "\"Loiterings"
+  ],
+  [
+   127,
+   "Montlily",
+   "Monthly"
+  ],
+  [
+   256,
+   "Nortli.\"",
+   "North.\""
+  ],
+  [
+   252,
+   "Researclies",
+   "Researches"
+  ],
+  [
+   121,
+   "Saii",
+   "San"
+  ],
+  [
+   248,
+   "Sauiiterings,\"",
+   "Saunterings,\""
+  ],
+  [
+   228,
+   "Timou",
+   "Timon"
+  ],
+  [
+   104,
+   "Tlie",
+   "The"
+  ],
+  [
+   117,
+   "Tlie",
+   "The"
+  ],
+  [
+   231,
+   "Tlie",
+   "The"
+  ],
+  [
+   237,
+   "Tlie",
+   "The"
+  ],
+  [
+   240,
+   "Tlie",
+   "The"
+  ],
+  [
+   266,
+   "Tlie",
+   "The"
+  ],
+  [
+   266,
+   "Tlie",
+   "The"
+  ],
+  [
+   266,
+   "Tlie",
+   "The"
+  ],
+  [
+   266,
+   "Tlie",
+   "The"
+  ],
+  [
+   201,
+   "\"Wliat",
+   "\"What"
+  ],
+  [
+   81,
+   "Wliim",
+   "Whim"
+  ],
+  [
+   96,
+   "aud",
+   "and"
+  ],
+  [
+   219,
+   "bagan",
+   "began"
+  ],
+  [
+   161,
+   "biograpliies",
+   "biographies"
+  ],
+  [
+   24,
+   "bom",
+   "born"
+  ],
+  [
+   29,
+   "bom",
+   "born"
+  ],
+  [
+   37,
+   "bom,",
+   "born,"
+  ],
+  [
+   54,
+   "bom",
+   "born"
+  ],
+  [
+   61,
+   "bom",
+   "born"
+  ],
+  [
+   65,
+   "bom",
+   "born"
+  ],
+  [
+   66,
+   "bom",
+   "born"
+  ],
+  [
+   106,
+   "bom",
+   "born"
+  ],
+  [
+   120,
+   "bom",
+   "born"
+  ],
+  [
+   141,
+   "bom",
+   "born"
+  ],
+  [
+   155,
+   "bom",
+   "born"
+  ],
+  [
+   161,
+   "bom",
+   "born"
+  ],
+  [
+   174,
+   "bom",
+   "born"
+  ],
+  [
+   178,
+   "bom",
+   "born"
+  ],
+  [
+   196,
+   "bom",
+   "born"
+  ],
+  [
+   197,
+   "bom",
+   "born"
+  ],
+  [
+   200,
+   "bom",
+   "born"
+  ],
+  [
+   203,
+   "bom",
+   "born"
+  ],
+  [
+   210,
+   "bom",
+   "born"
+  ],
+  [
+   213,
+   "bom",
+   "born"
+  ],
+  [
+   218,
+   "bom",
+   "born"
+  ],
+  [
+   233,
+   "bom",
+   "born"
+  ],
+  [
+   176,
+   "containiug",
+   "containing"
+  ],
+  [
+   127,
+   "daugliter",
+   "daughter"
+  ],
+  [
+   154,
+   "distinguislied",
+   "distinguished"
+  ],
+  [
+   84,
+   "finislied",
+   "finished"
+  ],
+  [
+   226,
+   "granddaugliter",
+   "granddaughter"
+  ],
+  [
+   85,
+   "hfe,",
+   "life,"
+  ],
+  [
+   224,
+   "himsalf",
+   "himself"
+  ],
+  [
+   39,
+   "iu",
+   "in"
+  ],
+  [
+   148,
+   "iu",
+   "in"
+  ],
+  [
+   204,
+   "iu",
+   "in"
+  ],
+  [
+   236,
+   "iu",
+   "in"
+  ],
+  [
+   55,
+   "liad",
+   "had"
+  ],
+  [
+   196,
+   "liad",
+   "had"
+  ],
+  [
+   68,
+   "liave",
+   "have"
+  ],
+  [
+   197,
+   "lier",
+   "her"
+  ],
+  [
+   141,
+   "liigh",
+   "high"
+  ],
+  [
+   84,
+   "liosts.",
+   "hosts."
+  ],
+  [
+   252,
+   "liove.",
+   "Love."
+  ],
+  [
+   76,
+   "matliematics.",
+   "mathematics."
+  ],
+  [
+   221,
+   "murdar",
+   "murder"
+  ],
+  [
+   223,
+   "pariodicals,",
+   "periodicals,"
+  ],
+  [
+   218,
+   "paiuter,",
+   "painter,"
+  ],
+  [
+   183,
+   "pohtical",
+   "political"
+  ],
+  [
+   96,
+   "pubhshed",
+   "published"
+  ],
+  [
+   134,
+   "pubhshed",
+   "published"
+  ],
+  [
+   227,
+   "pubhsher",
+   "publisher"
+  ],
+  [
+   36,
+   "publislied",
+   "published"
+  ],
+  [
+   177,
+   "slie",
+   "she"
+  ],
+  [
+   21,
+   "tlie",
+   "the"
+  ],
+  [
+   83,
+   "tlien",
+   "then"
+  ],
+  [
+   223,
+   "tliere.",
+   "there."
+  ],
+  [
+   251,
+   "tlirew",
+   "threw"
+  ],
+  [
+   198,
+   "tragody,",
+   "tragedy,"
+  ],
+  [
+   56,
+   "whicli",
+   "which"
+  ],
+  [
+   72,
+   "whicli",
+   "which"
+  ],
+  [
+   85,
+   "whicli",
+   "which"
+  ],
+  [
+   106,
+   "wliat",
+   "what"
+  ],
+  [
+   48,
+   "wliich",
+   "which"
+  ],
+  [
+   57,
+   "wliich",
+   "which"
+  ],
+  [
+   20,
+   "Ufc,",
+   "life,"
+  ],
+  [
+   251,
+   "Oa",
+   "On"
+  ],
+  [
+   152,
+   "Gniy",
+   "Gray"
+  ],
+  [
+   19,
+   "\"Talcs",
+   "\"Tales"
+  ],
+  [
+   137,
+   "Talcs",
+   "Tales"
+  ],
+  [
+   199,
+   "Talcs",
+   "Tales"
+  ],
+  [
+   57,
+   "Talc",
+   "Tale"
+  ],
+  [
+   234,
+   "Talc,",
+   "Tale,"
+  ],
+  [
+   145,
+   "IMoorfields,",
+   "Moorfields,"
+  ],
+  [
+   88,
+   "Mander,",
+   "Iskander,"
+  ],
+  [
+   27,
+   "work. lie",
+   "work. He"
+  ],
+  [
+   27,
+   "debt. lie",
+   "debt. He"
+  ],
+  [
+   39,
+   "lyi-l. lie",
+   "lyi-l. He"
+  ],
+  [
+   39,
+   "Kings.\" lie",
+   "Kings.\" He"
+  ],
+  [
+   58,
+   "which lie",
+   "which he"
+  ],
+  [
+   71,
+   "Syria. lie",
+   "Syria. He"
+  ],
+  [
+   89,
+   "defeated. lie",
+   "defeated. He"
+  ],
+  [
+   112,
+   "when lie",
+   "when he"
+  ],
+  [
+   119,
+   "1790. lie",
+   "1790. He"
+  ],
+  [
+   121,
+   "and lie",
+   "and he"
+  ],
+  [
+   123,
+   "and lie",
+   "and he"
+  ],
+  [
+   142,
+   "There lie",
+   "There he"
+  ],
+  [
+   146,
+   "what lie",
+   "what he"
+  ],
+  [
+   146,
+   "1820 lie",
+   "1820 he"
+  ],
+  [
+   152,
+   "1775. lie",
+   "1775. He"
+  ],
+  [
+   155,
+   "Batavia lie",
+   "Batavia he"
+  ],
+  [
+   157,
+   "1832 lie",
+   "1832 he"
+  ],
+  [
+   165,
+   "bail. lie",
+   "bail. He"
+  ],
+  [
+   172,
+   "1857 lie",
+   "1857 he"
+  ],
+  [
+   173,
+   "1872. lie",
+   "1872. He"
+  ],
+  [
+   176,
+   "and lie",
+   "and he"
+  ],
+  [
+   180,
+   "and lie",
+   "and he"
+  ],
+  [
+   198,
+   "zine, lie",
+   "zine, he"
+  ],
+  [
+   198,
+   "resides. lie",
+   "resides. He"
+  ],
+  [
+   205,
+   "which lie",
+   "which he"
+  ],
+  [
+   214,
+   "1861. lie",
+   "1861. He"
+  ],
+  [
+   229,
+   "Marlow. lie",
+   "Marlow. He"
+  ],
+  [
+   231,
+   "1836. lie",
+   "1836. He"
+  ],
+  [
+   236,
+   "newspapers, lie",
+   "newspapers, he"
+  ],
+  [
+   238,
+   "West. lie",
+   "West. He"
+  ],
+  [
+   247,
+   "well, lie",
+   "well, he"
+  ],
+  [
+   108,
+   "\" bad",
+   "\" had"
+  ],
+  [
+   23,
+   "him np,",
+   "him up,"
+  ],
+  [
+   33,
+   "and tins",
+   "and this"
+  ],
+  [
+   148,
+   "in tins",
+   "in this"
+  ],
+  [
+   146,
+   "of Ms",
+   "of his"
+  ],
+  [
+   75,
+   "side Avas",
+   "side was"
+  ],
+  [
+   89,
+   "and Avas",
+   "and was"
+  ],
+  [
+   179,
+   "sensation. Ills",
+   "sensation. His"
+  ],
+  [
+   39,
+   "born iii",
+   "born in"
+  ],
+  [
+   86,
+   "written iii",
+   "written in"
+  ],
+  [
+   199,
+   "born iii",
+   "born in"
+  ],
+  [
+   200,
+   "born iii",
+   "born in"
+  ],
+  [
+   25,
+   "wrote liis",
+   "wrote his"
+  ],
+  [
+   26,
+   "for liis",
+   "for his"
+  ],
+  [
+   35,
+   "of liis",
+   "of his"
+  ],
+  [
+   45,
+   "of liis",
+   "of his"
+  ],
+  [
+   54,
+   "in bis",
+   "in his"
+  ],
+  [
+   71,
+   "of bis",
+   "of his"
+  ],
+  [
+   79,
+   "passed liis",
+   "passed his"
+  ],
+  [
+   80,
+   "in liis",
+   "in his"
+  ],
+  [
+   86,
+   "into liis",
+   "into his"
+  ],
+  [
+   113,
+   "began liis",
+   "began his"
+  ],
+  [
+   120,
+   "wrote bis",
+   "wrote his"
+  ],
+  [
+   134,
+   "for liis",
+   "for his"
+  ],
+  [
+   137,
+   "But bis",
+   "But his"
+  ],
+  [
+   152,
+   "of liis",
+   "of his"
+  ],
+  [
+   153,
+   "of liis",
+   "of his"
+  ],
+  [
+   167,
+   "contained liis",
+   "contained his"
+  ],
+  [
+   172,
+   "made bis",
+   "made his"
+  ],
+  [
+   175,
+   "Man liis",
+   "Man his"
+  ],
+  [
+   184,
+   "of liis",
+   "of his"
+  ],
+  [
+   209,
+   "of liis",
+   "of his"
+  ],
+  [
+   209,
+   "of liis",
+   "of his"
+  ],
+  [
+   211,
+   "became liis",
+   "became his"
+  ],
+  [
+   212,
+   "published liis",
+   "published his"
+  ],
+  [
+   222,
+   "From liis",
+   "From his"
+  ],
+  [
+   110,
+   "lot it",
+   "let it"
+  ],
+  [
+   152,
+   "Wood vil,\"",
+   "Woodvil,\""
+  ],
+  [
+   145,
+   "J' OHN",
+   "JOHN"
+  ],
+  [
+   7,
+   "LA UGHTER.",
+   "LAUGHTER."
+  ],
+  [
+   7,
+   "A UTHORS.",
+   "AUTHORS."
+  ],
+  [
+   8,
+   "ROSSITER JOHNSON. *-",
+   "ROSSITER JOHNSON."
+  ],
+  [
+   8,
+   "BIOQRAPHIOAL",
+   "BIOGRAPHICAL"
+  ],
+  [
+   9,
+   "COPTSTQHT, 1876.",
+   "COPYRIGHT, 1876."
+  ],
+  [
+   9,
+   "Bt JAMES",
+   "By JAMES"
+  ],
+  [
+   9,
+   "RIYBRSIDE",
+   "RIVERSIDE"
+  ],
+  [
+   10,
+   "Addtson,",
+   "Addison,"
+  ],
+  [
+   10,
+   "Richard Harris IG",
+   "Richard Harris 16"
+  ],
+  [
+   10,
+   "Barreit",
+   "Barrett"
+  ],
+  [
+   10,
+   "BUCHANAXV,",
+   "BUCHANAN,"
+  ],
+  [
+   10,
+   "BULWER Lvtton,",
+   "BULWER LYTTON,"
+  ],
+  [
+   11,
+   "DIIYDEN,",
+   "DRYDEN,"
+  ],
+  [
+   11,
+   "De la Rame,",
+   "De la Ramé,"
+  ],
+  [
+   11,
+   "IUlleck, Fitz-Grekkk",
+   "Halleck, Fitz-Greene"
+  ],
+  [
+   12,
+   "Harts, Bret",
+   "Harte, Bret"
+  ],
+  [
+   12,
+   "Heubert; George",
+   "Herbert, George"
+  ],
+  [
+   12,
+   "Fknno",
+   "Fenno"
+  ],
+  [
+   13,
+   "Edgar Allah",
+   "Edgar Allan"
+  ],
+  [
+   13,
+   "Adelaide 'Akjje",
+   "Adelaide Anne"
+  ],
+  [
+   13,
+   "BSADE,",
+   "READE,"
+  ],
+  [
+   14,
+   "Realp, Richaed",
+   "Realf, Richard"
+  ],
+  [
+   14,
+   "Bysshb",
+   "Bysshe"
+  ],
+  [
+   14,
+   "Boyxe",
+   "Doyne"
+  ],
+  [
+   14,
+   "South EY,",
+   "Southey,"
+  ],
+  [
+   14,
+   "SRODDARD,",
+   "STODDARD,"
+  ],
+  [
+   14,
+   "WLLSOS, JOFTN",
+   "WILSON, JOHN"
+  ],
+  [
+   19,
+   "JOHN BAKIH.",
+   "JOHN BANIM."
+  ],
+  [
+   20,
+   "BAHBAULD. 15",
+   "BARBAULD. 15"
+  ],
+  [
+   20,
+   "ANNA LETITIA BAKBATJLD.",
+   "ANNA LÆTITIA BARBAULD."
+  ],
+  [
+   21,
+   "BICHABD HABBIS BABHAM.",
+   "RICHARD HARRIS BARHAM."
+  ],
+  [
+   22,
+   "WILLIAM BAENES.",
+   "WILLIAM BARNES."
+  ],
+  [
+   30,
+   "JOHN BBOWK, M. D.",
+   "JOHN BROWN, M. D."
+  ],
+  [
+   33,
+   "KOBEBT BROWNING.",
+   "ROBERT BROWNING."
+  ],
+  [
+   37,
+   "WILLIAM GULLEN BBTANT.",
+   "WILLIAM CULLEN BRYANT."
+  ],
+  [
+   39,
+   "BOBEBT BTTCHAHAK.",
+   "ROBERT BUCHANAN."
+  ],
+  [
+   40,
+   "EDWASD BTTLWEB LYTTON.",
+   "EDWARD BULWER LYTTON."
+  ],
+  [
+   42,
+   "BOBEUT BTTLWEB LYTTOH.",
+   "ROBERT BULWER LYTTON."
+  ],
+  [
+   44,
+   "BOBERT BIJBNS.",
+   "ROBERT BURNS."
+  ],
+  [
+   49,
+   "LORD BYBOV.",
+   "LORD BYRON."
+  ],
+  [
+   58,
+   "THOMAS CHATTEBTOK.",
+   "THOMAS CHATTERTON."
+  ],
+  [
+   61,
+   "ASTHUB HUGH CLOXTGH.",
+   "ARTHUR HUGH CLOUGH."
+  ],
+  [
+   62,
+   "SAMUEL TATLOB COLERIDGE.",
+   "SAMUEL TAYLOR COLERIDGE."
+  ],
+  [
+   65,
+   "TTTILLIAM COLLINS",
+   "WILLIAM COLLINS"
+  ],
+  [
+   67,
+   "DINAH M. MTTLOCE CSAIX.",
+   "DINAH M. MULOCK CRAIK."
+  ],
+  [
+   68,
+   "CATHERINE GKOWE.",
+   "CATHERINE CROWE."
+  ],
+  [
+   69,
+   "ALLAH CUHKIHGHAH.",
+   "ALLAN CUNNINGHAM."
+  ],
+  [
+   72,
+   "CUETIS. 67",
+   "CURTIS. 67"
+  ],
+  [
+   73,
+   "SEBECCA HABDINe DAVIS.",
+   "REBECCA HARDING DAVIS."
+  ],
+  [
+   75,
+   "JOHN W. DE FOBEST.",
+   "JOHN W. DE FOREST."
+  ],
+  [
+   76,
+   "MRS. 8. H. BB XBOTFT.",
+   "MRS. S. H. DE KROYFT."
+  ],
+  [
+   78,
+   "DE LA RAMS. 73",
+   "DE LA RAMÉ. 73"
+  ],
+  [
+   78,
+   "LOUISA BE LA BAHlft.",
+   "LOUISA DE LA RAMÉ."
+  ],
+  [
+   79,
+   "THOMAS BE QIMRCET.",
+   "THOMAS DE QUINCEY."
+  ],
+  [
+   81,
+   "CHABLES DIBBIN.",
+   "CHARLES DIBDIN."
+  ],
+  [
+   88,
+   "BENJAMIK DISBAELL",
+   "BENJAMIN DISRAELI."
+  ],
+  [
+   91,
+   "STDNST DOBELL.",
+   "SYDNEY DOBELL."
+  ],
+  [
+   92,
+   "ALFBED DOMETT.",
+   "ALFRED DOMETT."
+  ],
+  [
+   94,
+   "JOHN DBTDEK.",
+   "JOHN DRYDEN."
+  ],
+  [
+   96,
+   "LAST DUFFEBIK.",
+   "LADY DUFFERIN."
+  ],
+  [
+   97,
+   "CHABLES GAMAOE EASTMAN.",
+   "CHARLES GAMAGE EASTMAN."
+  ],
+  [
+   98,
+   "MABIA EDOEWOBTH.",
+   "MARIA EDGEWORTH."
+  ],
+  [
+   99,
+   "AMELIA B. EDWABDS.",
+   "AMELIA B. EDWARDS."
+  ],
+  [
+   99,
+   "AMELIA BLANDEORD",
+   "AMELIA BLANDFORD"
+  ],
+  [
+   100,
+   "SALPH WALDO EMERSON.",
+   "RALPH WALDO EMERSON."
+  ],
+  [
+   103,
+   "SAMUEL FESGTISOK.",
+   "SAMUEL FERGUSON."
+  ],
+  [
+   105,
+   "FBANCIS U. FINCH.",
+   "FRANCIS M. FINCH."
+  ],
+  [
+   109,
+   "OLIVEB GOLDSMITH.",
+   "OLIVER GOLDSMITH."
+  ],
+  [
+   115,
+   "GEEENWOOD. 109",
+   "GREENWOOD. 109"
+  ],
+  [
+   115,
+   "JAMES GBEEKWOOB.",
+   "JAMES GREENWOOD."
+  ],
+  [
+   116,
+   "OEBALB OBITFIN.",
+   "GERALD GRIFFIN."
+  ],
+  [
+   117,
+   "HALE. Ill",
+   "HALE. 111"
+  ],
+  [
+   117,
+   "EDWABD EYEBETT HALE.",
+   "EDWARD EVERETT HALE."
+  ],
+  [
+   120,
+   "PHILIP GILBERT HAHEBTON.",
+   "PHILIP GILBERT HAMERTON."
+  ],
+  [
+   121,
+   "BBET HABTE.",
+   "BRET HARTE."
+  ],
+  [
+   123,
+   "NATHANIEL HAWTHOBNE.",
+   "NATHANIEL HAWTHORNE."
+  ],
+  [
+   127,
+   "FELICIA HEHANS.",
+   "FELICIA HEMANS."
+  ],
+  [
+   130,
+   "THOMAS K. HEBVEY.",
+   "THOMAS K. HERVEY."
+  ],
+  [
+   135,
+   "OLIVES WENDELL HOLMES.",
+   "OLIVER WENDELL HOLMES."
+  ],
+  [
+   138,
+   "WILLIAK D. HOWELLS.",
+   "WILLIAM D. HOWELLS."
+  ],
+  [
+   142,
+   "SIS WILLIAM JONES.",
+   "SIR WILLIAM JONES."
+  ],
+  [
+   142,
+   "TTTTLLIAM JONES",
+   "WILLIAM JONES"
+  ],
+  [
+   143,
+   "EMILT C. JUDSON.",
+   "EMILY C. JUDSON."
+  ],
+  [
+   147,
+   "CLABENCE KING.",
+   "CLARENCE KING."
+  ],
+  [
+   147,
+   "HENBT KING.",
+   "HENRY KING."
+  ],
+  [
+   148,
+   "CHARLES EIHOSLEY.",
+   "CHARLES KINGSLEY."
+  ],
+  [
+   148,
+   "112 LITTLE CLASSICS.",
+   "142 LITTLE CLASSICS."
+  ],
+  [
+   150,
+   "114 LITTLE CLASSICS.",
+   "144 LITTLE CLASSICS."
+  ],
+  [
+   150,
+   "HENBT EIHGSLET.",
+   "HENRY KINGSLEY."
+  ],
+  [
+   150,
+   "Kingslcy",
+   "Kingsley"
+  ],
+  [
+   152,
+   "CHABLES LAMB.",
+   "CHARLES LAMB."
+  ],
+  [
+   154,
+   "JOHN LETDEN.",
+   "JOHN LEYDEN."
+  ],
+  [
+   155,
+   "ABSAHAM LINCOLN.",
+   "ABRAHAM LINCOLN."
+  ],
+  [
+   161,
+   "FBEDEBICE LOCKEB.",
+   "FREDERICK LOCKER."
+  ],
+  [
+   163,
+   "LONGFELLOW, 157",
+   "LONGFELLOW. 157"
+  ],
+  [
+   165,
+   "BICHABD LOVELACE.",
+   "RICHARD LOVELACE."
+  ],
+  [
+   165,
+   "SAMUEL LOVEB.",
+   "SAMUEL LOVER."
+  ],
+  [
+   167,
+   "JAMES BTJSSELL LOWELL.",
+   "JAMES RUSSELL LOWELL."
+  ],
+  [
+   169,
+   "BOBEBT T. S. LOWELL.",
+   "ROBERT T. S. LOWELL."
+  ],
+  [
+   172,
+   "IGO LITTLE CLASSICS.",
+   "166 LITTLE CLASSICS."
+  ],
+  [
+   173,
+   "DENIS FLOBENCE MAC-CABTHT.",
+   "DENIS FLORENCE MAC-CARTHY."
+  ],
+  [
+   173,
+   "DENIS ELORENCE MAC-CARTIIY",
+   "DENIS FLORENCE MAC-CARTHY"
+  ],
+  [
+   174,
+   "HENBT HAGEEITZIE.",
+   "HENRY MACKENZIE."
+  ],
+  [
+   175,
+   "WILLIAM HUBBELL MALLOCE.",
+   "WILLIAM HURRELL MALLOCK."
+  ],
+  [
+   175,
+   "WLLIAM HURRELL",
+   "WILLIAM HURRELL"
+  ],
+  [
+   175,
+   "JAMES CLABEKCE MANGAN.",
+   "JAMES CLARENCE MANGAN."
+  ],
+  [
+   177,
+   "ISABELLA MATO.",
+   "ISABELLA MAYO."
+  ],
+  [
+   178,
+   "HEBMAN MELVILLE.",
+   "HERMAN MELVILLE."
+  ],
+  [
+   178,
+   "HERMAN MELYILLE",
+   "HERMAN MELVILLE"
+  ],
+  [
+   180,
+   "HUGH MILLEB.",
+   "HUGH MILLER."
+  ],
+  [
+   181,
+   "BICHARB MONGKTON MILNES.",
+   "RICHARD MONCKTON MILNES."
+  ],
+  [
+   187,
+   "A. BEBTBAM MITFORD.",
+   "A. BERTRAM MITFORD."
+  ],
+  [
+   188,
+   "DAVID MACBETH HOIB.",
+   "DAVID MACBETH MOIR."
+  ],
+  [
+   189,
+   "MOOEE. 183",
+   "MOORE. 183"
+  ],
+  [
+   192,
+   "WILLIAM MOBAIS.",
+   "WILLIAM MORRIS."
+  ],
+  [
+   193,
+   "WILLIAM MOTHEBWELL.",
+   "WILLIAM MOTHERWELL."
+  ],
+  [
+   195,
+   "WILLIAM KTTDFOBD.",
+   "WILLIAM MUDFORD."
+  ],
+  [
+   196,
+   "LADY KAIBITE.",
+   "LADY NAIRNE."
+  ],
+  [
+   199,
+   "CAKOLINE NORTON.",
+   "CAROLINE NORTON."
+  ],
+  [
+   200,
+   "FBANGIS O'GONNOB.",
+   "FRANCIS O'CONNOR."
+  ],
+  [
+   202,
+   "THEOBOBE O'HABA.",
+   "THEODORE O'HARA."
+  ],
+  [
+   204,
+   "ELIZABETH STXTABT PHELPS.",
+   "ELIZABETH STUART PHELPS."
+  ],
+  [
+   204,
+   "JOHN PIEBPOKT.",
+   "JOHN PIERPONT."
+  ],
+  [
+   205,
+   "PINKNEY. 100",
+   "PINKNEY. 199"
+  ],
+  [
+   205,
+   "EDWABD COATE FINEKET.",
+   "EDWARD COATE PINKNEY."
+  ],
+  [
+   206,
+   "EDGAR ALLAN FOE.",
+   "EDGAR ALLAN POE."
+  ],
+  [
+   213,
+   "BBTAK WALLER FBOGTEB.",
+   "BRYAN WALLER PROCTER."
+  ],
+  [
+   214,
+   "EDNA DEAN FBOCTOR.",
+   "EDNA DEAN PROCTOR."
+  ],
+  [
+   215,
+   "SIB WALTER BALEIOH.",
+   "SIR WALTER RALEIGH."
+  ],
+  [
+   217,
+   "THOMAS BUCHANAN BEAD.",
+   "THOMAS BUCHANAN READ."
+  ],
+  [
+   218,
+   "CHARLES BEADE.",
+   "CHARLES READE."
+  ],
+  [
+   218,
+   "CHARLES EEADE",
+   "CHARLES READE"
+  ],
+  [
+   219,
+   "REALF.' 213",
+   "REALF. 213"
+  ],
+  [
+   219,
+   "BIGHABD BEALF.",
+   "RICHARD REALF."
+  ],
+  [
+   220,
+   "Kealf,",
+   "Realf,"
+  ],
+  [
+   221,
+   "HE A LP. 215",
+   "REALF. 215"
+  ],
+  [
+   222,
+   "JOHN BVSSIK.",
+   "JOHN RUSKIN."
+  ],
+  [
+   222,
+   "\"The Kmg",
+   "\"The King"
+  ],
+  [
+   223,
+   "SAUNDEKS. 217",
+   "SAUNDERS. 217"
+  ],
+  [
+   223,
+   "XATHESINE SAITNDEBS.",
+   "KATHERINE SAUNDERS."
+  ],
+  [
+   224,
+   "SIR WALTEB SCOTT.",
+   "SIR WALTER SCOTT."
+  ],
+  [
+   228,
+   "PEBCY BTSSHE SHELLEY.",
+   "PERCY BYSSHE SHELLEY."
+  ],
+  [
+   228,
+   "PERCY BYSSIIE",
+   "PERCY BYSSHE"
+  ],
+  [
+   230,
+   "JAMES SHIBLET.",
+   "JAMES SHIRLEY."
+  ],
+  [
+   231,
+   "SLLLELLY. 'Z'Zb",
+   "SHELLEY. 225"
+  ],
+  [
+   231,
+   "CHARLES DOTNE SILLEST.",
+   "CHARLES DOYNE SILLERY."
+  ],
+  [
+   232,
+   "ALEXANDEB SMITH.",
+   "ALEXANDER SMITH."
+  ],
+  [
+   232,
+   "Sydney Doboll,",
+   "Sydney Dobell,"
+  ],
+  [
+   233,
+   "SMITH. SOUTHEY. 227",
+   "SMITH. — SOUTHEY. 227"
+  ],
+  [
+   233,
+   "CABOLINE BOWLES SOTTTHET.",
+   "CAROLINE BOWLES SOUTHEY."
+  ],
+  [
+   236,
+   "CHARLES WASBEN STODDABD.",
+   "CHARLES WARREN STODDARD."
+  ],
+  [
+   236,
+   "BATASD TAYLOR.",
+   "BAYARD TAYLOR."
+  ],
+  [
+   239,
+   "ALFRED TENKTSON.",
+   "ALFRED TENNYSON."
+  ],
+  [
+   239,
+   "ALERED TENNYSON",
+   "ALFRED TENNYSON"
+  ],
+  [
+   241,
+   "THACKERAY. 285",
+   "THACKERAY. 235"
+  ],
+  [
+   241,
+   "WILLIAM MAKEPEACE THACEEBAT.",
+   "WILLIAM MAKEPEACE THACKERAY."
+  ],
+  [
+   243,
+   "HENBY DAVID THOBEAV.",
+   "HENRY DAVID THOREAU."
+  ],
+  [
+   243,
+   "HENBY TIHBOD.",
+   "HENRY TIMROD."
+  ],
+  [
+   244,
+   "HENRY VAUGIIAN",
+   "HENRY VAUGHAN"
+  ],
+  [
+   245,
+   "WAKEFIELD. WALKER. 239",
+   "WAKEFIELD. — WALKER. 239"
+  ],
+  [
+   245,
+   "NANCY PBIEST WAKEFIELD.",
+   "NANCY PRIEST WAKEFIELD."
+  ],
+  [
+   245,
+   "MBS. E. A. WALKER.",
+   "MRS. E. A. WALKER."
+  ],
+  [
+   245,
+   "KATIIERINE KENT",
+   "KATHERINE KENT"
+  ],
+  [
+   246,
+   "210 LITTLE CLASSICS.",
+   "240 LITTLE CLASSICS."
+  ],
+  [
+   246,
+   "EDMUND WALLEB.",
+   "EDMUND WALLER."
+  ],
+  [
+   247,
+   "JOHN FBANCIS WALLER.",
+   "JOHN FRANCIS WALLER."
+  ],
+  [
+   247,
+   "JOHN PRANCIS WALLER",
+   "JOHN FRANCIS WALLER"
+  ],
+  [
+   248,
+   "CHASLES DUDLEY WABKEB.",
+   "CHARLES DUDLEY WARNER."
+  ],
+  [
+   249,
+   "JOSEPH SLANCO WHITE.",
+   "JOSEPH BLANCO WHITE."
+  ],
+  [
+   250,
+   "JOHN GBEENLEAF WHITTIES.",
+   "JOHN GREENLEAF WHITTIER."
+  ],
+  [
+   251,
+   "WILDE. V 245",
+   "WILDE. 245"
+  ],
+  [
+   251,
+   "EDWASD WHYMPEB.",
+   "EDWARD WHYMPER."
+  ],
+  [
+   251,
+   "SICHABD HENBY WILDE.",
+   "RICHARD HENRY WILDE."
+  ],
+  [
+   253,
+   "WILLIS. 217",
+   "WILLIS. 247"
+  ],
+  [
+   253,
+   "NATHANIEL FABKEB WILLIS.",
+   "NATHANIEL PARKER WILLIS."
+  ],
+  [
+   256,
+   "THEODORE WINTHBOP.",
+   "THEODORE WINTHROP."
+  ],
+  [
+   256,
+   "Tiic Siiow-Storm",
+   "The Snow-Storm"
+  ],
+  [
+   39,
+   "31? LITTLE CLASSICS.",
+   "34 LITTLE CLASSICS."
+  ],
+  [
+   69,
+   "CA LITTLE CLASSICS.",
+   "64 LITTLE CLASSICS."
+  ],
+  [
+   91,
+   "83 LITTLE CLASSICS.",
+   "86 LITTLE CLASSICS."
+  ],
+  [
+   190,
+   "184? LITTLE CLASSICS.",
+   "184 LITTLE CLASSICS."
+  ],
+  [
+   210,
+   "204? LITTLE CLASSICS.",
+   "204 LITTLE CLASSICS."
+  ],
+  [
+   19,
+   "Dreamers y XII.",
+   "Dreamers, XII."
+  ],
+  [
+   22,
+   "Slanien",
+   "Slanten"
+  ],
+  [
+   22,
+   "Not Tar to Go,",
+   "Not Far to Go,"
+  ],
+  [
+   25,
+   "XV. OG.",
+   "XV. 96."
+  ],
+  [
+   25,
+   "Black Bog,",
+   "Black Boy,"
+  ],
+  [
+   30,
+   "Fleming X 108,",
+   "Fleming, X. 108."
+  ],
+  [
+   30,
+   "Molher and Poet XIV.",
+   "Mother and Poet, XIV."
+  ],
+  [
+   30,
+   "Ijtsfrumenl,",
+   "Instrument,"
+  ],
+  [
+   37,
+   "Tkanatopsis,",
+   "Thanatopsis,"
+  ],
+  [
+   37,
+   "Flowers, XV. 100,",
+   "Flowers, XV. 100."
+  ],
+  [
+   40,
+   "Mallnes, VL 90,",
+   "Malines, VI. 90."
+  ],
+  [
+   44,
+   "XIII 185.— Je Fond",
+   "XIII. 185. — Ae Fond"
+  ],
+  [
+   58,
+   "Minstrel* s Song,",
+   "Minstrel's Song,"
+  ],
+  [
+   67,
+   "Eosicrucian,",
+   "Rosicrucian,"
+  ],
+  [
+   67,
+   "XV. W.",
+   "XV. 149."
+  ],
+  [
+   67,
+   "Too Late I XV.",
+   "Too Late! XV."
+  ],
+  [
+   68,
+   "Wedding-Bay, VIIL 190,",
+   "Wedding-Day, VIII. 190."
+  ],
+  [
+   71,
+   "Chdteaux, IF. 160,",
+   "Châteaux, IV. 160."
+  ],
+  [
+   73,
+   "Captain' a Stoty, 11.",
+   "Captain's Story, II."
+  ],
+  [
+   74,
+   "Wehome,",
+   "Welcome,"
+  ],
+  [
+   75,
+   "The. Lanson",
+   "The Lauson"
+  ],
+  [
+   79,
+   "\"Flight",
+   "Flight"
+  ],
+  [
+   79,
+   "Tribe, 1. 187.",
+   "Tribe, I. 187."
+  ],
+  [
+   79,
+   "Murder . considered",
+   "Murder considered"
+  ],
+  [
+   82,
+   "Lwarf, 11.",
+   "Dwarf, II."
+  ],
+  [
+   82,
+   "Carols V.",
+   "Carol, V."
+  ],
+  [
+   82,
+   "Signal. Man, VIIL",
+   "Signal-Man, VIII."
+  ],
+  [
+   82,
+   "Child: s Bream",
+   "Child's Dream"
+  ],
+  [
+   88,
+   "FI. 137.",
+   "VI. 137."
+  ],
+  [
+   94,
+   "Yeast,",
+   "Feast,"
+  ],
+  [
+   97,
+   "J Snow-Storm,",
+   "A Snow-Storm,"
+  ],
+  [
+   123,
+   "Foices,",
+   "Voices,"
+  ],
+  [
+   130,
+   "hi Memoriam,",
+   "In Memoriam,"
+  ],
+  [
+   131,
+   "IV. ISd.",
+   "IV. 189."
+  ],
+  [
+   132,
+   "Ktlmeny,",
+   "Kilmeny,"
+  ],
+  [
+   135,
+   "VII 40-",
+   "VII. 40."
+  ],
+  [
+   135,
+   "VII 58.",
+   "VII. 58."
+  ],
+  [
+   137,
+   "Jram,",
+   "Aram,"
+  ],
+  [
+   137,
+   "I Retrusm",
+   "I Remem-"
+  ],
+  [
+   139,
+   "Darhyshire IX.",
+   "Darbyshire, IX."
+  ],
+  [
+   141,
+   "Xrill.",
+   "XVIII."
+  ],
+  [
+   143,
+   "III. W.",
+   "III. 149."
+  ],
+  [
+   145,
+   "Agnes XIII.",
+   "Agnes, XIII."
+  ],
+  [
+   145,
+   "c* Grecian",
+   "a Grecian"
+  ],
+  [
+   147,
+   "XVIT.",
+   "XVII."
+  ],
+  [
+   147,
+   "Life, Xr.",
+   "Life, XV."
+  ],
+  [
+   152,
+   "r. 85.",
+   "V. 85."
+  ],
+  [
+   163,
+   "field, XV 146.",
+   "field, XV. 146."
+  ],
+  [
+   165,
+   "Fainj-Finder, XIL",
+   "Fairy-Finder, XII."
+  ],
+  [
+   169,
+   "Fill. ISO.",
+   "VIII. 150."
+  ],
+  [
+   177,
+   "'A Chance Child, XL",
+   "A Chance Child, XI."
+  ],
+  [
+   180,
+   "Sepulchrey V.",
+   "Sepulchre, V."
+  ],
+  [
+   182,
+   "V Allegro,",
+   "L'Allegro,"
+  ],
+  [
+   182,
+   "—Lycidaa,",
+   "— Lycidas,"
+  ],
+  [
+   186,
+   "Revery IV.",
+   "Revery, IV."
+  ],
+  [
+   187,
+   "ESnins, XI. Ul.",
+   "Rônins, XI. 141."
+  ],
+  [
+   189,
+   "Nighty XV.",
+   "Night, XV."
+  ],
+  [
+   189,
+   "Summery XV.",
+   "Summer, XV."
+  ],
+  [
+   193,
+   "Raudiy XIV.",
+   "Raud, XIV."
+  ],
+  [
+   200,
+   "Fill. 169.",
+   "VIII. 169."
+  ],
+  [
+   200,
+   "VIII 7.",
+   "VIII. 7."
+  ],
+  [
+   206,
+   "The Tall of",
+   "The Fall of"
+  ],
+  [
+   206,
+   "II 103.",
+   "II. 103."
+  ],
+  [
+   206,
+   "Gold-Biiff,",
+   "Gold-Bug,"
+  ],
+  [
+   210,
+   "XIF.",
+   "XIV."
+  ],
+  [
+   219,
+   "Jn Old Man's Idyl V, 84.—",
+   "An Old Man's Idyl, V. 84. —"
+  ],
+  [
+   222,
+   "Ftnnameat,",
+   "Firmament,"
+  ],
+  [
+   224,
+   "Dundee XIV.",
+   "Dundee, XIV."
+  ],
+  [
+   228,
+   "Shjiark,",
+   "Skylark,"
+  ],
+  [
+   231,
+   "Beauty XV. 164-",
+   "Beauty, XV. 164."
+  ],
+  [
+   233,
+   "The 'Picnic",
+   "The Picnic"
+  ],
+  [
+   233,
+   "Pavper's",
+   "Pauper's"
+  ],
+  [
+   235,
+   "Toffjours",
+   "Toujours"
+  ],
+  [
+   238,
+   "Lift;,",
+   "Life,"
+  ],
+  [
+   238,
+   "Nooemher Days, XL",
+   "November Days, XI."
+  ],
+  [
+   239,
+   "Arthur y XIIL",
+   "Arthur, XIII."
+  ],
+  [
+   239,
+   "The Bags that",
+   "The Days that"
+  ],
+  [
+   239,
+   "TUhonus,",
+   "Tithonus,"
+  ],
+  [
+   241,
+   "Wisdom XV.",
+   "Wisdom, XV."
+  ],
+  [
+   243,
+   "Ode, Xr.",
+   "Ode, XV."
+  ],
+  [
+   247,
+   "Spinning. Wheel",
+   "Spinning-Wheel"
+  ],
+  [
+   248,
+   "A-Huntinff of the Beer, XVIL 7,",
+   "A-Hunting of the Deer, XVII. 7."
+  ],
+  [
+   248,
+   "Mans Mortality,",
+   "Man's Mortality,"
+  ],
+  [
+   250,
+   "At Fort Royal,",
+   "At Port Royal,"
+  ],
+  [
+   253,
+   "IF. So.",
+   "IV. 85."
+  ],
+  [
+   255,
+   "FIT. 184.",
+   "VII. 184."
+  ],
+  [
+   255,
+   "XV. 218.",
+   "XV. 213."
+  ],
+  [
+   19,
+   "lie gave",
+   "he gave"
+  ],
+  [
+   19,
+   "lie produced",
+   "he produced"
+  ],
+  [
+   33,
+   "lie made",
+   "He made"
+  ],
+  [
+   53,
+   "lie had",
+   "he had"
+  ],
+  [
+   53,
+   "lie died.",
+   "he died."
+  ],
+  [
+   75,
+   "lie wrote",
+   "he wrote"
+  ],
+  [
+   92,
+   "lie delivered",
+   "he delivered"
+  ],
+  [
+   118,
+   "lie has",
+   "he has"
+  ],
+  [
+   122,
+   "lie resigned",
+   "he resigned"
+  ],
+  [
+   236,
+   "lie has",
+   "he has"
+  ],
+  [
+   50,
+   "bad been",
+   "had been"
+  ],
+  [
+   175,
+   "lie,\"",
+   "lic,\""
+  ],
+  [
+   232,
+   "oil the",
+   "on the"
+  ],
+  [
+   79,
+   "cf the",
+   "of the"
+  ],
+  [
+   85,
+   "Avas published",
+   "was published"
+  ],
+  [
+   85,
+   "Ills best,",
+   "his best,"
+  ],
+  [
+   28,
+   "liis brain,",
+   "his brain,"
+  ],
+  [
+   53,
+   "liis letters",
+   "his letters"
+  ],
+  [
+   58,
+   "liis mother",
+   "his mother"
+  ],
+  [
+   99,
+   "Four-Fifieen",
+   "Four-Fifteen"
+  ],
+  [
+   69,
+   "lu IBOO",
+   "In 1850"
+  ],
+  [
+   79,
+   "ISOS.",
+   "1808."
+  ],
+  [
+   135,
+   "ISJJG.",
+   "1846."
+  ],
+  [
+   159,
+   "ISOO,",
+   "1860,"
+  ],
+  [
+   222,
+   "ISOO,",
+   "1860,"
+  ],
+  [
+   173,
+   "ISIG",
+   "1846"
+  ],
+  [
+   216,
+   "IGOO",
+   "1600"
+  ],
+  [
+   236,
+   "ISSO,",
+   "1880,"
+  ],
+  [
+   120,
+   "Bogs, XRIL 25.",
+   "Dogs, XVII. 25."
+  ],
+  [
+   76,
+   "ALBRICH",
+   "ALDRICH"
+  ],
+  [
+   170,
+   "FITZ-HUGII",
+   "FITZ-HUGH"
+  ],
+  [
+   170,
+   "bora",
+   "born"
+  ],
+  [
+   148,
+   "bora",
+   "born"
+  ],
+  [
+   56,
+   "C ARLETON",
+   "CARLETON"
+  ],
+  [
+   21,
+   "St. lary",
+   "St. Mary"
+  ],
+  [
+   21,
+   "Siou College,",
+   "Sion College,"
+  ],
+  [
+   22,
+   "tlic boy's",
+   "the boy's"
+  ],
+  [
+   26,
+   "bft",
+   "left"
+  ],
+  [
+   30,
+   "cssei*,",
+   "essen-"
+  ],
+  [
+   39,
+   "ortluit",
+   "of that"
+  ],
+  [
+   39,
+   "(187 1, rejirintcd",
+   "(1871, reprinted"
+  ],
+  [
+   39,
+   "tragedy cn-",
+   "tragedy en-"
+  ],
+  [
+   41,
+   "llebel,\"",
+   "Rebel,\""
+  ],
+  [
+   43,
+   "Cly temnestra,",
+   "Clytemnestra,"
+  ],
+  [
+   44,
+   "spuukies,",
+   "spunkies,"
+  ],
+  [
+   45,
+   "donnie,",
+   "bonnie,"
+  ],
+  [
+   53,
+   "lluckmdl",
+   "Hucknall"
+  ],
+  [
+   53,
+   "Ncwstead.",
+   "Newstead."
+  ],
+  [
+   53,
+   "pressiou",
+   "pression"
+  ],
+  [
+   56,
+   "whieli",
+   "which"
+  ],
+  [
+   57,
+   "llody,",
+   "Rody,"
+  ],
+  [
+   58,
+   "tlicn",
+   "then"
+  ],
+  [
+   69,
+   "nil. ijs.",
+   "VIII. 128."
+  ],
+  [
+   69,
+   "saw Bums,",
+   "saw Burns,"
+  ],
+  [
+   69,
+   "arc from",
+   "are from"
+  ],
+  [
+   74,
+   "iiiteriningled",
+   "intermingled"
+  ],
+  [
+   75,
+   "rontenoy,\"",
+   "Fontenoy,\""
+  ],
+  [
+   77,
+   "llochester,",
+   "Rochester,"
+  ],
+  [
+   77,
+   "Wc are",
+   "We are"
+  ],
+  [
+   82,
+   "haveeen",
+   "have been"
+  ],
+  [
+   84,
+   "hud bjen",
+   "had been"
+  ],
+  [
+   84,
+   "yjar",
+   "year"
+  ],
+  [
+   86,
+   "ilio",
+   "the"
+  ],
+  [
+   89,
+   "toryrradical,",
+   "tory-radical,"
+  ],
+  [
+   91,
+   "ncalth",
+   "health"
+  ],
+  [
+   97,
+   "ilhiess,",
+   "illness,"
+  ],
+  [
+   108,
+   "Pickcn,",
+   "Picken,"
+  ],
+  [
+   108,
+   "amrkwc; W?, contributors",
+   "among its contributors"
+  ],
+  [
+   110,
+   "collect ivelv,",
+   "collectively,"
+  ],
+  [
+   117,
+   "lile",
+   "life"
+  ],
+  [
+   118,
+   "IS 09,",
+   "1869,"
+  ],
+  [
+   122,
+   "display hig",
+   "displaying"
+  ],
+  [
+   123,
+   "ISOi.",
+   "1804."
+  ],
+  [
+   125,
+   "18 il.",
+   "1841."
+  ],
+  [
+   135,
+   "llhymed",
+   "Rhymed"
+  ],
+  [
+   135,
+   "Astrsea\"",
+   "Astræa\""
+  ],
+  [
+   136,
+   "1 yceum lect urer,",
+   "lyceum lecturer,"
+  ],
+  [
+   136,
+   "owe holds",
+   "one holds"
+  ],
+  [
+   142,
+   "f Y ber",
+   "ber"
+  ],
+  [
+   142,
+   "foallakat,\"",
+   "Moallakat,\""
+  ],
+  [
+   145,
+   "aij-",
+   "ap-"
+  ],
+  [
+   153,
+   "nig' it,",
+   "night,"
+  ],
+  [
+   155,
+   "cut ercd",
+   "entered"
+  ],
+  [
+   161,
+   "111.,",
+   "Ill.,"
+  ],
+  [
+   162,
+   "vers de, societe",
+   "vers de société"
+  ],
+  [
+   164,
+   "\"il-asw ol Ym",
+   "Masque of Pandora.\""
+  ],
+  [
+   167,
+   "ant isla very",
+   "anti-slavery"
+  ],
+  [
+   168,
+   "alunmi",
+   "alumni"
+  ],
+  [
+   171,
+   "reputaiion",
+   "reputation"
+  ],
+  [
+   174,
+   "acd",
+   "and"
+  ],
+  [
+   179,
+   "1818;",
+   "1848;"
+  ],
+  [
+   179,
+   "\"lledburn,\"",
+   "\"Redburn,\""
+  ],
+  [
+   184,
+   "Salniasii Dcfensionem",
+   "Salmasii Defensionem"
+  ],
+  [
+   185,
+   "pprsona.",
+   "persona."
+  ],
+  [
+   187,
+   "llural",
+   "Rural"
+  ],
+  [
+   187,
+   "Piclures",
+   "Pictures"
+  ],
+  [
+   192,
+   "in'search",
+   "in search"
+  ],
+  [
+   196,
+   "llerrm',\"",
+   "Herrin',\""
+  ],
+  [
+   197,
+   "formul",
+   "formal"
+  ],
+  [
+   198,
+   "wilhm",
+   "within"
+  ],
+  [
+   199,
+   "slic",
+   "she"
+  ],
+  [
+   200,
+   "sludios",
+   "studios"
+  ],
+  [
+   209,
+   "school -tcacliers",
+   "school-teachers"
+  ],
+  [
+   213,
+   "springof",
+   "spring of"
+  ],
+  [
+   216,
+   "lioanoke",
+   "Roanoke"
+  ],
+  [
+   216,
+   "resent mcnt",
+   "resentment"
+  ],
+  [
+   216,
+   "ho was",
+   "he was"
+  ],
+  [
+   216,
+   "two*",
+   "two"
+  ],
+  [
+   220,
+   "assisl ing",
+   "assisting"
+  ],
+  [
+   220,
+   "thereupon*",
+   "thereupon"
+  ],
+  [
+   222,
+   "flie",
+   "the"
+  ],
+  [
+   226,
+   "whluu shakesfeabe.",
+   "WILLIAM SHAKESPEARE."
+  ],
+  [
+   229,
+   "wifj",
+   "wife"
+  ],
+  [
+   252,
+   "llichard",
+   "Richard"
+  ],
+  [
+   254,
+   "tue",
+   "the"
+  ],
+  [
+   256,
+   "Scott isli",
+   "Scottish"
+  ],
+  [
+   257,
+   "ill print",
+   "in print"
+  ],
+  [
+   17,
+   "18, 1711,",
+   "18, 1714,"
+  ],
+  [
+   19,
+   "in 1790)",
+   "in 1796)"
+  ],
+  [
+   25,
+   "In 1770",
+   "In 1776"
+  ],
+  [
+   25,
+   "in 1780,",
+   "in 1786,"
+  ],
+  [
+   33,
+   "In 1810",
+   "In 1840"
+  ],
+  [
+   43,
+   "1800 ;",
+   "1860 ;"
+  ],
+  [
+   64,
+   "in 1708,",
+   "in 1798,"
+  ],
+  [
+   82,
+   "In 1810",
+   "In 1816"
+  ],
+  [
+   83,
+   "April, 1830,",
+   "April, 1836,"
+  ],
+  [
+   86,
+   "Life,\" 1810",
+   "Life,\" 1846"
+  ],
+  [
+   86,
+   "Junction,\" 1800",
+   "Junction,\" 1866"
+  ],
+  [
+   89,
+   "1830 his",
+   "1836 his"
+  ],
+  [
+   90,
+   "in 1806.",
+   "in 1866."
+  ],
+  [
+   90,
+   "February, 1808,",
+   "February, 1868,"
+  ],
+  [
+   102,
+   "in 1830",
+   "in 1836"
+  ],
+  [
+   102,
+   "\"Poems,\" 1840;",
+   "\"Poems,\" 1846;"
+  ],
+  [
+   102,
+   "Life,\" 1800;",
+   "Life,\" 1860;"
+  ],
+  [
+   102,
+   "(poems), 1807;",
+   "(poems), 1867;"
+  ],
+  [
+   102,
+   "in 1809.",
+   "in 1869."
+  ],
+  [
+   103,
+   "poem, 1801",
+   "poem, 1861"
+  ],
+  [
+   135,
+   "in 1800",
+   "in 1860"
+  ],
+  [
+   136,
+   "1804; \"The",
+   "1864; \"The"
+  ],
+  [
+   140,
+   "People,\" 1800",
+   "People,\" 1860"
+  ],
+  [
+   140,
+   "Nations,\" 1803;",
+   "Nations,\" 1863;"
+  ],
+  [
+   142,
+   "1704, and",
+   "1764, and"
+  ],
+  [
+   148,
+   "in 1814.",
+   "in 1844."
+  ],
+  [
+   148,
+   "in 1814,",
+   "in 1844,"
+  ],
+  [
+   149,
+   "Tales,\" 1850",
+   "Tales,\" 1856"
+  ],
+  [
+   151,
+   "in 1817.",
+   "in 1847."
+  ],
+  [
+   167,
+   "England\" (1804),",
+   "England\" (1864),"
+  ],
+  [
+   173,
+   "in 1818,",
+   "in 1848,"
+  ],
+  [
+   179,
+   "Seas,\" 1817;",
+   "Seas,\" 1847;"
+  ],
+  [
+   179,
+   "in 1817,",
+   "in 1847,"
+  ],
+  [
+   183,
+   "In 1613",
+   "In 1643"
+  ],
+  [
+   203,
+   "1807. He",
+   "1867. He"
+  ],
+  [
+   203,
+   "privately, 1807;",
+   "privately, 1867;"
+  ],
+  [
+   204,
+   "Hill,\" 1805;",
+   "Hill,\" 1865;"
+  ],
+  [
+   206,
+   "Ill 1820",
+   "Ill 1826"
+  ],
+  [
+   209,
+   "7, 1819.",
+   "7, 1849."
+  ],
+  [
+   210,
+   "Li 1700",
+   "Li 1709"
+  ],
+  [
+   219,
+   "ment,\" 1800;",
+   "ment,\" 1866;"
+  ],
+  [
+   225,
+   "1820; \"Chronicksof",
+   "1826; \"Chronicksof"
+  ],
+  [
+   232,
+   "series, 1803;",
+   "series, 1863;"
+  ],
+  [
+   234,
+   "In 1805",
+   "In 1865"
+  ],
+  [
+   235,
+   "In 1800",
+   "In 1860"
+  ],
+  [
+   237,
+   "Journal,\" 1802",
+   "Journal,\" 1862"
+  ],
+  [
+   237,
+   "since 1802.",
+   "since 1862."
+  ],
+  [
+   237,
+   "John,\" 1860",
+   "John,\" 1866"
+  ],
+  [
+   238,
+   "in 1807,",
+   "in 1867,"
+  ],
+  [
+   239,
+   "in 1851",
+   "in 1854"
+  ],
+  [
+   254,
+   "Pencil,\" 1815,",
+   "Pencil,\" 1845,"
+  ],
+  [
+   257,
+   "Saddle,\" 1802;",
+   "Saddle,\" 1862;"
+  ],
+  [
+   29,
+   "in 1887,",
+   "in 1837,"
+  ],
+  [
+   38,
+   "in 1804,",
+   "in 1864,"
+  ],
+  [
+   88,
+   "- 1843),",
+   "- 1848),"
+  ],
+  [
+   103,
+   "in 1805.",
+   "in 1865."
+  ],
+  [
+   103,
+   "Poems,*' 1805.",
+   "Poems,*' 1865."
+  ],
+  [
+   125,
+   "in 1816,",
+   "in 1846,"
+  ],
+  [
+   140,
+   "Germany,\" 1811;",
+   "Germany,\" 1841;"
+  ],
+  [
+   140,
+   "Mill,\" 1814",
+   "Mill,\" 1844"
+  ],
+  [
+   154,
+   "In 1798",
+   "In 1793"
+  ],
+  [
+   160,
+   "ber, 1861,",
+   "ber, 1864,"
+  ],
+  [
+   197,
+   "July, 1880,",
+   "July, 1830,"
+  ],
+  [
+   200,
+   "in 1860,",
+   "in 1866,"
+  ],
+  [
+   223,
+   "Last,\" 1852",
+   "Last,\" 1862"
+  ],
+  [
+   225,
+   "Lotliian,\" 1813;",
+   "Lotliian,\" 1818;"
+  ],
+  [
+   240,
+   "in 1819,",
+   "in 1849,"
+  ],
+  [
+   248,
+   "about 1560.",
+   "about 1566."
+  ],
+  [
+   251,
+   "master-piece, 1805",
+   "master-piece, 1865"
+  ],
+  [
+   255,
+   "Places,\" 1864;",
+   "Places,\" 1854;"
+  ],
+  [
+   257,
+   "in 1801-62",
+   "in 1861-62"
+  ]
+ ],
+ "reocr_damaged_pages": true,
+ "pages_from_twin": [
+  [
+   4,
+   "littleclassicsv00unkngoog",
+   4
+  ],
+  [
+   12,
+   "littleclassicsv00unkngoog",
+   12
+  ],
+  [
+   16,
+   "littleclassicsv00unkngoog",
+   16
+  ],
+  [
+   18,
+   "littleclassicsv00unkngoog",
+   18
+  ],
+  [
+   21,
+   "littleclassicsv00unkngoog",
+   21
+  ],
+  [
+   22,
+   "littleclassicsv00unkngoog",
+   22
+  ],
+  [
+   24,
+   "littleclassicsv00unkngoog",
+   24
+  ],
+  [
+   26,
+   "littleclassicsv00unkngoog",
+   26
+  ],
+  [
+   27,
+   "littleclassicsv00unkngoog",
+   27
+  ],
+  [
+   28,
+   "littleclassicsv00unkngoog",
+   28
+  ],
+  [
+   29,
+   "littleclassicsv00unkngoog",
+   29
+  ],
+  [
+   31,
+   "littleclassicsv00unkngoog",
+   31
+  ],
+  [
+   32,
+   "littleclassicsv00unkngoog",
+   32
+  ],
+  [
+   36,
+   "littleclassicsv00unkngoog",
+   36
+  ],
+  [
+   37,
+   "littleclassicsv00unkngoog",
+   37
+  ],
+  [
+   38,
+   "littleclassicsv00unkngoog",
+   38
+  ],
+  [
+   41,
+   "littleclassicsv00unkngoog",
+   41
+  ],
+  [
+   50,
+   "littleclassicsv00unkngoog",
+   50
+  ],
+  [
+   51,
+   "littleclassicsv00unkngoog",
+   51
+  ],
+  [
+   55,
+   "littleclassicsv00unkngoog",
+   55
+  ],
+  [
+   56,
+   "littleclassicsv00unkngoog",
+   56
+  ],
+  [
+   59,
+   "littleclassicsv00unkngoog",
+   59
+  ],
+  [
+   60,
+   "littleclassicsv00unkngoog",
+   60
+  ],
+  [
+   61,
+   "littleclassicsv00unkngoog",
+   61
+  ],
+  [
+   62,
+   "littleclassicsv00unkngoog",
+   62
+  ],
+  [
+   63,
+   "littleclassicsv00unkngoog",
+   63
+  ],
+  [
+   65,
+   "littleclassicsv00unkngoog",
+   65
+  ],
+  [
+   66,
+   "littleclassicsv00unkngoog",
+   66
+  ],
+  [
+   67,
+   "littleclassicsv00unkngoog",
+   67
+  ],
+  [
+   68,
+   "littleclassicsv00unkngoog",
+   68
+  ],
+  [
+   70,
+   "littleclassicsv00unkngoog",
+   70
+  ],
+  [
+   72,
+   "littleclassicsv00unkngoog",
+   72
+  ],
+  [
+   73,
+   "littleclassicsv00unkngoog",
+   73
+  ],
+  [
+   74,
+   "littleclassicsv00unkngoog",
+   74
+  ],
+  [
+   76,
+   "littleclassicsv00unkngoog",
+   76
+  ],
+  [
+   81,
+   "littleclassicsv00unkngoog",
+   81
+  ],
+  [
+   82,
+   "littleclassicsv00unkngoog",
+   82
+  ],
+  [
+   84,
+   "littleclassicsv00unkngoog",
+   84
+  ],
+  [
+   85,
+   "littleclassicsv00unkngoog",
+   85
+  ],
+  [
+   87,
+   "littleclassicsv00unkngoog",
+   87
+  ],
+  [
+   88,
+   "littleclassicsv00unkngoog",
+   88
+  ],
+  [
+   92,
+   "littleclassicsv00unkngoog",
+   92
+  ],
+  [
+   95,
+   "littleclassicsv00unkngoog",
+   95
+  ],
+  [
+   96,
+   "littleclassicsv00unkngoog",
+   96
+  ],
+  [
+   97,
+   "littleclassicsv00unkngoog",
+   97
+  ],
+  [
+   98,
+   "littleclassicsv00unkngoog",
+   98
+  ],
+  [
+   99,
+   "littleclassicsv00unkngoog",
+   99
+  ],
+  [
+   103,
+   "littleclassicsv00unkngoog",
+   102
+  ],
+  [
+   104,
+   "littleclassicsv00unkngoog",
+   103
+  ],
+  [
+   105,
+   "littleclassicsv00unkngoog",
+   104
+  ],
+  [
+   106,
+   "littleclassicsv00unkngoog",
+   105
+  ],
+  [
+   107,
+   "littleclassicsv00unkngoog",
+   106
+  ],
+  [
+   109,
+   "littleclassicsv00unkngoog",
+   108
+  ],
+  [
+   113,
+   "littleclassicsv00unkngoog",
+   112
+  ],
+  [
+   114,
+   "littleclassicsv00unkngoog",
+   113
+  ],
+  [
+   115,
+   "littleclassicsv00unkngoog",
+   114
+  ],
+  [
+   116,
+   "littleclassicsv00unkngoog",
+   115
+  ],
+  [
+   117,
+   "littleclassicsv00unkngoog",
+   116
+  ],
+  [
+   120,
+   "littleclassicsv00unkngoog",
+   119
+  ],
+  [
+   121,
+   "littleclassicsv00unkngoog",
+   120
+  ],
+  [
+   123,
+   "littleclassicsv00unkngoog",
+   122
+  ],
+  [
+   124,
+   "littleclassicsv00unkngoog",
+   123
+  ],
+  [
+   125,
+   "littleclassicsv00unkngoog",
+   124
+  ],
+  [
+   127,
+   "littleclassicsv00unkngoog",
+   126
+  ],
+  [
+   129,
+   "littleclassicsv00unkngoog",
+   128
+  ],
+  [
+   132,
+   "littleclassicsv00unkngoog",
+   131
+  ],
+  [
+   133,
+   "littleclassicsv00unkngoog",
+   132
+  ],
+  [
+   138,
+   "littleclassicsv00unkngoog",
+   137
+  ],
+  [
+   139,
+   "littleclassicsv00unkngoog",
+   138
+  ],
+  [
+   140,
+   "littleclassicsv00unkngoog",
+   139
+  ],
+  [
+   141,
+   "littleclassicsv00unkngoog",
+   140
+  ],
+  [
+   143,
+   "littleclassicsv00unkngoog",
+   142
+  ],
+  [
+   144,
+   "littleclassicsv00unkngoog",
+   143
+  ],
+  [
+   149,
+   "littleclassicsv00unkngoog",
+   148
+  ],
+  [
+   153,
+   "littleclassicsv00unkngoog",
+   152
+  ],
+  [
+   154,
+   "littleclassicsv00unkngoog",
+   153
+  ],
+  [
+   156,
+   "littleclassicsv00unkngoog",
+   155
+  ],
+  [
+   159,
+   "littleclassicsv00unkngoog",
+   158
+  ],
+  [
+   160,
+   "littleclassicsv00unkngoog",
+   159
+  ],
+  [
+   161,
+   "littleclassicsv00unkngoog",
+   160
+  ],
+  [
+   165,
+   "littleclassicsv00unkngoog",
+   164
+  ],
+  [
+   166,
+   "littleclassicsv00unkngoog",
+   165
+  ],
+  [
+   168,
+   "littleclassicsv00unkngoog",
+   167
+  ],
+  [
+   170,
+   "littleclassicsv00unkngoog",
+   169
+  ],
+  [
+   171,
+   "littleclassicsv00unkngoog",
+   170
+  ],
+  [
+   174,
+   "littleclassicsv00unkngoog",
+   173
+  ],
+  [
+   175,
+   "littleclassicsv00unkngoog",
+   174
+  ],
+  [
+   176,
+   "littleclassicsv00unkngoog",
+   175
+  ],
+  [
+   177,
+   "littleclassicsv00unkngoog",
+   176
+  ],
+  [
+   178,
+   "littleclassicsv00unkngoog",
+   177
+  ],
+  [
+   180,
+   "littleclassicsv00unkngoog",
+   179
+  ],
+  [
+   181,
+   "littleclassicsv00unkngoog",
+   180
+  ],
+  [
+   182,
+   "littleclassicsv00unkngoog",
+   181
+  ],
+  [
+   183,
+   "littleclassicsv00unkngoog",
+   182
+  ],
+  [
+   185,
+   "littleclassicsv00unkngoog",
+   184
+  ],
+  [
+   187,
+   "littleclassicsv00unkngoog",
+   186
+  ],
+  [
+   188,
+   "littleclassicsv00unkngoog",
+   187
+  ],
+  [
+   189,
+   "littleclassicsv00unkngoog",
+   188
+  ],
+  [
+   190,
+   "littleclassicsv00unkngoog",
+   189
+  ],
+  [
+   192,
+   "littleclassicsv00unkngoog",
+   191
+  ],
+  [
+   193,
+   "littleclassicsv00unkngoog",
+   192
+  ],
+  [
+   194,
+   "littleclassicsv00unkngoog",
+   193
+  ],
+  [
+   195,
+   "littleclassicsv00unkngoog",
+   194
+  ],
+  [
+   196,
+   "littleclassicsv00unkngoog",
+   195
+  ],
+  [
+   197,
+   "littleclassicsv00unkngoog",
+   196
+  ],
+  [
+   200,
+   "littleclassicsv00unkngoog",
+   199
+  ],
+  [
+   201,
+   "littleclassicsv00unkngoog",
+   200
+  ],
+  [
+   202,
+   "littleclassicsv00unkngoog",
+   201
+  ],
+  [
+   206,
+   "littleclassicsv00unkngoog",
+   205
+  ],
+  [
+   207,
+   "littleclassicsv00unkngoog",
+   206
+  ],
+  [
+   211,
+   "littleclassicsv00unkngoog",
+   210
+  ],
+  [
+   212,
+   "littleclassicsv00unkngoog",
+   211
+  ],
+  [
+   213,
+   "littleclassicsv00unkngoog",
+   212
+  ],
+  [
+   214,
+   "littleclassicsv00unkngoog",
+   213
+  ],
+  [
+   215,
+   "littleclassicsv00unkngoog",
+   214
+  ],
+  [
+   217,
+   "littleclassicsv00unkngoog",
+   216
+  ],
+  [
+   218,
+   "littleclassicsv00unkngoog",
+   217
+  ],
+  [
+   219,
+   "littleclassicsv00unkngoog",
+   218
+  ],
+  [
+   220,
+   "littleclassicsv00unkngoog",
+   219
+  ],
+  [
+   221,
+   "littleclassicsv00unkngoog",
+   220
+  ],
+  [
+   222,
+   "littleclassicsv00unkngoog",
+   221
+  ],
+  [
+   223,
+   "littleclassicsv00unkngoog",
+   222
+  ],
+  [
+   224,
+   "littleclassicsv00unkngoog",
+   223
+  ],
+  [
+   225,
+   "littleclassicsv00unkngoog",
+   224
+  ],
+  [
+   226,
+   "littleclassicsv00unkngoog",
+   225
+  ],
+  [
+   228,
+   "littleclassicsv00unkngoog",
+   227
+  ],
+  [
+   230,
+   "littleclassicsv00unkngoog",
+   229
+  ],
+  [
+   233,
+   "littleclassicsv00unkngoog",
+   232
+  ],
+  [
+   240,
+   "littleclassicsv00unkngoog",
+   239
+  ],
+  [
+   242,
+   "littleclassicsv00unkngoog",
+   241
+  ],
+  [
+   243,
+   "littleclassicsv00unkngoog",
+   242
+  ],
+  [
+   244,
+   "littleclassicsv00unkngoog",
+   243
+  ],
+  [
+   245,
+   "littleclassicsv00unkngoog",
+   244
+  ],
+  [
+   246,
+   "littleclassicsv00unkngoog",
+   245
+  ],
+  [
+   247,
+   "littleclassicsv00unkngoog",
+   246
+  ],
+  [
+   248,
+   "littleclassicsv00unkngoog",
+   247
+  ],
+  [
+   250,
+   "littleclassicsv00unkngoog",
+   249
+  ],
+  [
+   251,
+   "littleclassicsv00unkngoog",
+   250
+  ],
+  [
+   255,
+   "littleclassicsv00unkngoog",
+   254
+  ],
+  [
+   256,
+   "littleclassicsv00unkngoog",
+   255
+  ]
+ ]
+}

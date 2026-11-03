@@ -1,0 +1,111 @@
+{
+ "_about": "Boyd Cable: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Boyd Cable",
+ "_name_words": [
+  "boyd",
+  "cable"
+ ],
+ "_surname": [
+  "boyd cable",
+  "cable"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bcable-action-front": [
+   11349,
+   "Action Front"
+  ],
+  "bcable-between-the-lines": [
+   25076,
+   "Between the Lines"
+  ],
+  "bcable-grapes-of-wrath": [
+   46787,
+   "Grapes of wrath"
+  ],
+  "bcable-air-men-o-war": [
+   48422,
+   "Air Men o' War"
+  ],
+  "bcable-by-blow-and-kiss": [
+   48756,
+   "By Blow and Kiss: The Love Story of a Man with a Bad Name. (Published serially under the title Unstable as Water)."
+  ],
+  "bcable-front-lines": [
+   48891,
+   "Front Lines"
+  ],
+  "bcable-doing-their-bit": [
+   49208,
+   "Doing Their Bit: War Work at Home"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bcable-action-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boyd cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcable-between-the-lines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boyd cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcable-grapes-of-wrath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boyd cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcable-air-men-o-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boyd cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcable-by-blow-and-kiss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boyd cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcable-front-lines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boyd cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcable-doing-their-bit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boyd cable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

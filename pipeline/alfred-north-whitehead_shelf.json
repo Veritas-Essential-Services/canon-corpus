@@ -1,0 +1,155 @@
+{
+ "_about": "Alfred North Whitehead (1861-1947), from Project Gutenberg: The Organisation of Thought (Williams and Norgate, 1917), The Concept of Nature (Tarner Lectures, 1920), Science and the Modern World (Macmillan, 1925) and Symbolism, its Meaning and Effect (Macmillan, 1927). Added in round az: Process and Reality, an essay in cosmology, Gifford Lectures 1927-28 (New York: Macmillan, published October 1929; raw IA OCR, clean 0.90). Added in round az: Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92). Added in round az: An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89). Added in round az: The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85). All published before 1931, so US public domain. Held: An Introduction to Mathematics (Home University Library; no year printed in any of three IA scans) and Principia Mathematica with Russell (IA OCR of the symbolism cleans to 0.45). Added in round 2026-10-18cj: The Function of Reason (Princeton University Press, 1929), raw IA OCR, clean 0.92. Held: The Aims of Education (1929), whose scans are all later Mentor paperbacks, and A Treatise on Universal Algebra (1898), whose scan cleans to 0.73. No uids minted.",
+ "_author": "Alfred North Whitehead",
+ "_name_words": [
+  "alfred",
+  "north",
+  "a",
+  "n",
+  "whitehead"
+ ],
+ "_surname": [
+  "whitehead",
+  "north whitehead"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "whitehead-organisation-of-thought-1917": [
+   77011,
+   "The Organisation of Thought, educational and scientific (London: Williams and Norgate, 1917)"
+  ],
+  "whitehead-concept-of-nature-1920": [
+   18835,
+   "The Concept of Nature (Tarner Lectures, 1920)"
+  ],
+  "whitehead-science-and-the-modern-world-1925": [
+   68611,
+   "Science and the Modern World (New York: Macmillan, 1925)"
+  ],
+  "whitehead-symbolism-1927": [
+   78977,
+   "Symbolism, its Meaning and Effect (New York: Macmillan, 1927)"
+  ]
+ },
+ "internet_archive": {
+  "whitehead-process-and-reality-1929": [
+   "processrealityes00whit_1",
+   "Process and Reality, an essay in cosmology, Gifford Lectures 1927-28 (New York: Macmillan, published October 1929; raw IA OCR, clean 0.90)"
+  ],
+  "whitehead-religion-in-the-making-1926": [
+   "religioninmaking00whit",
+   "Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92)"
+  ],
+  "whitehead-enquiry-natural-knowledge-1919": [
+   "anenquiryconcern00whituoft",
+   "An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89)"
+  ],
+  "whitehead-principle-of-relativity-1922": [
+   "theprincipleofre00whituoft",
+   "The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85)"
+  ],
+  "whitehead-function-of-reason-1929": [
+   "functionofreason00whit",
+   "The Function of Reason, Louis Clark Vanuxem Foundation lectures (Princeton University Press, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "whitehead-organisation-of-thought-1917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-concept-of-nature-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-science-and-the-modern-world-1925": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-symbolism-1927": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-process-and-reality-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whitehead-religion-in-the-making-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whitehead-enquiry-natural-knowledge-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitehead-principle-of-relativity-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitehead-function-of-reason-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "whitehead-function-of-reason-1929": {
+   "author": "Alfred North Whitehead (title page OCR reads 'Aurrep Nortu Wutreneap, Sc.D., LL.D., F.R.S., Fellow of Trinity College in the University of Cambridge and Professor of Philosophy in Harvard University'; Louis Clark Vanuxem Foundation lectures, Princeton University Press, 1929)"
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Oliver C. Colt: The Memoirs of General Baron de Marbot (1892) and Daudet's Tartarin de Tarascon. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "oliver c. colt",
+  "colt"
+ ],
+ "_surname": [
+  "oliver c. colt",
+  "colt"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "oco-2375": [
+   2375,
+   "Tartarin de Tarascon"
+  ],
+  "oco-2401": [
+   2401,
+   "The Memoirs of General Baron de Marbot"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "oliver-colt-daudet-tartarin-de-tarascon": {
+   "source": "oco-2375",
+   "of": "Alphonse Daudet",
+   "work": "Tartarin de Tarascon",
+   "translated": "1892 and earlier (see the Gutenberg header)",
+   "translator": "Oliver C. Colt",
+   "scan_edition": "Project Gutenberg 2375 (clean text)"
+  },
+  "oliver-colt-marbot-the-memoirs-of-general-baron-de-marbot": {
+   "source": "oco-2401",
+   "of": "Jean-Baptiste-Antoine-Marcelin Marbot",
+   "work": "The Memoirs of General Baron de Marbot",
+   "translated": "1892 and earlier (see the Gutenberg header)",
+   "translator": "Oliver C. Colt",
+   "scan_edition": "Project Gutenberg 2401 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "oco-2375": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oliver c. colt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Oliver C. Colt"
+  },
+  "oco-2401": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oliver c. colt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Oliver C. Colt"
+  }
+ },
+ "_verified": {
+  "oco-2375": {
+   "pg": 2375,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Oliver C. Colt"
+  },
+  "oco-2401": {
+   "pg": 2401,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Oliver C. Colt"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

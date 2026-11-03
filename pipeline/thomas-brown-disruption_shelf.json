@@ -1,0 +1,36 @@
+{
+ "_about": "Thomas Brown (1811-1893), Free Church minister in Edinburgh: Annals of the Disruption, with extracts from the narratives of ministers who left the Scottish Establishment in 1843 (Edinburgh: Macniven & Wallace, 1884). Named thomas-brown-disruption so other Browns cannot collide; the name check looks for 'Thomas Brown', since 'brown' is a common word. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas brown"
+ ],
+ "_surname": [
+  "thomas brown"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brown-annals-of-the-disruption-1884": [
+   "annalsofdisrupti1884brow",
+   "Annals of the Disruption (Edinburgh: Macniven & Wallace, 1884)"
+  ]
+ },
+ "_alternates": {
+  "annalsofdisrupt00brow (1877), annalsofdisrupti1892brow, annalsofdisrupti00brow, annalsofdisrupti01brow, annalsdisruptio00/01browgoog, annalsdisruptio00minigoog": "Other editions (1876-77 in parts; 1892-93) and copies."
+ },
+ "_excluded": {
+  "annalsofdisrupti0000revt, annalsofdisrupti0000thom": "Lending-library scans."
+ },
+ "_checks": {
+  "brown-annals-of-the-disruption-1884": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

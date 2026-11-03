@@ -1,0 +1,227 @@
+{
+ "_about": "Public-domain Rudolf Stier (1800-1862, German Lutheran pastor and exegete) in pre-1930 English translations from T. & T. Clark, raw Internet Archive OCR: The Words of the Lord Jesus (8 vols, tr. William B. Pope, a mixed set of 1863-67 printings), The Words of the Risen Saviour with a commentary on James (tr. Pope, 1864) and The Words of the Apostles Expounded (tr. G. H. Venables, 1869). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "stier",
+  "rudolf"
+ ],
+ "_surname": [
+  "rudolf stier",
+  "rudolph stier",
+  "dr. rudolf stier",
+  "r. stier",
+  "stier, rudolf",
+  "dr. rudolph stier",
+  "rudolf ewald stier"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stier-words-1": [
+   "wordsoflordjesus01stie",
+   "The Words of the Lord Jesus, vol. 1, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, MDCCCLXVII)"
+  ],
+  "stier-words-2": [
+   "wordsoflordjesus02stie",
+   "The Words of the Lord Jesus, vol. 2, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1866)"
+  ],
+  "stier-words-3": [
+   "wordsoflordjesus03stie",
+   "The Words of the Lord Jesus, vol. 3, tr. William B. Pope (Edinburgh: T. & T. Clark, third edition, 1863)"
+  ],
+  "stier-words-4": [
+   "wordsoflordjesus04stie",
+   "The Words of the Lord Jesus, vol. 4, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1866)"
+  ],
+  "stier-words-5": [
+   "wordsoflordjesus05stie",
+   "The Words of the Lord Jesus, vol. 5, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1866)"
+  ],
+  "stier-words-6": [
+   "wordsoflordjesus06stie",
+   "The Words of the Lord Jesus, vol. 6, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1867)"
+  ],
+  "stier-words-7": [
+   "wordsoflordjesus07stie",
+   "The Words of the Lord Jesus, vol. 7, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, MDCCCLXV)"
+  ],
+  "stier-words-8": [
+   "wordsoflordjesus08stie",
+   "The Words of the Lord Jesus, vol. 8, tr. William B. Pope (Edinburgh: T. & T. Clark, third edition, 1863)"
+  ],
+  "stier-risen-saviour-1864": [
+   "wordsofrisensa00stie",
+   "The Words of the Risen Saviour, and Commentary on the Epistle of St. James, tr. William B. Pope, new edition (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "stier-apostles-1869": [
+   "wordsofapostles00stie",
+   "The Words of the Apostles Expounded, tr. G. H. Venables (Edinburgh: T. & T. Clark, MDCCCLXIX); the translator's name is not machine-checked"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "stier-words-1": {
+   "author": "title page read 2026-10-10: OCR gives \"THE WORDS OF THE LORD JESUS. [R]EUDOLF STIEE, DOCTOR OF THEOLOGY ... SUPERINTENDENT OF SCHKEUDITZ. VOLUME FIRST. TRANSLATED ... [BY] REV. WILLIAM B. POPE\" (R read as E): Rudolf Stier"
+  },
+  "stier-words-2": {
+   "author": "title page read 2026-10-10: OCR gives \"THE WORDS OF THE LORD JESUS. [R]EUDOLF STIEE, DOCTOR OF THEOLOGY ... SUPERINTENDENT OF SCHKEUDITZ. VOLUME SECOND. TRANSLATED ... [BY] REV. WILLIAM B. POPE\" (R read as E): Rudolf Stier"
+  },
+  "stier-words-4": {
+   "author": "title page read 2026-10-10: OCR gives \"THE WORDS OF THE LORD JESUS. [R]EUDOLF STIEE, DOCTOR OF THEOLOGY ... SUPERINTENDENT OF SCHKEUDITZ. VOLUME FOURTH. TRANSLATED ... [BY] REV. WILLIAM B. POPE\" (R read as E): Rudolf Stier"
+  },
+  "stier-words-5": {
+   "author": "title page read 2026-10-10: OCR gives \"THE WORDS OF THE LORD JESUS. [R]EUDOLF STIEE, DOCTOR OF THEOLOGY ... SUPERINTENDENT OF SCHKEUDITZ. VOLUME FIFTH. TRANSLATED ... [BY] REV. WILLIAM B. POPE\" (R read as E): Rudolf Stier"
+  },
+  "stier-words-7": {
+   "author": "title page read 2026-10-10: OCR gives \"THE WORDS OF THE LORD JESUS. [R]EUDOLF STIEE, DOCTOR OF THEOLOGY ... SUPERINTENDENT OF SCHKEUDITZ. VOLUME SEVENTH. TRANSLATED ... [BY] REV. WILLIAM B. POPE\" (R read as E): Rudolf Stier"
+  },
+  "stier-words-8": {
+   "author": "title page read 2026-10-10: OCR gives \"THE WORDS OF THE LORD JESUS. [R]EUDOLF STIEE, DOCTOR OF THEOLOGY ... SUPERINTENDENT OF SCHKEUDITZ. VOLUME EIGHTH. TRANSLATED ... [BY] REV. WILLIAM B. POPE\" (R read as E): Rudolf Stier"
+  },
+  "stier-risen-saviour-1864": {
+   "author": "title page read 2026-10-10: OCR gives \"COMMENTARY ON THE EPISTLE OF ST JAMES. EUDOLF'^TIEE, DOCTOR OF THEOLOGY, CHIEF PASTOR AND SUPERINTENDENT OF SCHKEUDITZ. TRANSLATED FROM THE GERMAN, REV. WILLIAM B. POPE\": Rudolf Stier"
+  }
+ },
+ "_translators": {
+  "stier-words-1": "pope",
+  "stier-words-2": "pope",
+  "stier-words-3": "pope",
+  "stier-words-4": "pope",
+  "stier-words-5": "pope",
+  "stier-words-6": "pope",
+  "stier-words-7": "pope",
+  "stier-words-8": "pope",
+  "stier-risen-saviour-1864": "pope"
+ },
+ "_checks": {
+  "stier-words-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-words-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-words-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rudolf stier",
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-words-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-words-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-words-6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rudolf stier",
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-words-7": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-words-8": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-risen-saviour-1864": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stier-apostles-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rudolf stier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

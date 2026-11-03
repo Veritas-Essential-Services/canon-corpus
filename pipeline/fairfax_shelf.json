@@ -1,0 +1,49 @@
+{
+ "_about": "TRANSLATOR SHELF: Edward Fairfax (c.1580-1635). Tasso's Gerusalemme Liberata as 'Godfrey of Bulloigne, or the Recoverie of Jerusalem' (1600), in ottava rima. PD. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "fairfax"
+ ],
+ "_surname": [
+  "fairfax"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fairfax-jerusalem": [
+   392,
+   "Jerusalem Delivered"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "fairfax-jerusalem-delivered": {
+   "source": "fairfax-jerusalem",
+   "of": "Tasso",
+   "work": "Jerusalem Delivered (Gerusalemme Liberata), 20 books",
+   "translated": 1600,
+   "translator": "Edward Fairfax",
+   "scan_edition": "Project Gutenberg 392 (clean text; modernised spelling per PG)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fairfax-jerusalem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairfax",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Fairfax"
+  }
+ },
+ "_verified": {
+  "fairfax-jerusalem": {
+   "pg": 392,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Fairfax"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

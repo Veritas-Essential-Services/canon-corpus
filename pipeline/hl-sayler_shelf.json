@@ -1,0 +1,148 @@
+{
+ "_about": "H. L. Sayler's writing at Gutenberg: series books for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "H. L. Sayler",
+ "_name_words": [
+  "sayler"
+ ],
+ "_surname": [
+  "sayler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hlsayler-air-ship-boys": [
+   6908,
+   "The Air Ship Boys : Or, the Quest of the Aztec Treasure"
+  ],
+  "hlsayler-on-the-edge-of-the-arctic": [
+   25787,
+   "On the Edge of the Arctic; Or, An Aeroplane in Snowland"
+  ],
+  "hlsayler-airship-boys-ocean-flyer": [
+   49416,
+   "The Airship Boys' Ocean Flyer; Or, New York to London in Twelve Hours"
+  ],
+  "hlsayler-in-the-clouds-for-uncle-sam": [
+   54056,
+   "In the Clouds for Uncle Sam; or, Morey Marshall of the Signal Corps"
+  ],
+  "hlsayler-stolen-aeroplane": [
+   54579,
+   "The Stolen Aeroplane; or, How Bud Wilson Made Good"
+  ],
+  "hlsayler-aeroplane-express": [
+   55534,
+   "The Aeroplane Express; or, The Boy Aeronaut's Grit"
+  ],
+  "hlsayler-boy-aeronauts-club": [
+   57000,
+   "The Boy Aeronauts' Club; or, Flying for Fun"
+  ],
+  "hlsayler-cruise-in-the-sky": [
+   57882,
+   "A Cruise in the Sky; or, The Legend of the Great Pink Pearl"
+  ],
+  "hlsayler-battling-the-bighorn": [
+   58381,
+   "Battling the Bighorn; or, The Aeroplane in the Rockies"
+  ],
+  "hlsayler-when-scout-meets-scout": [
+   58709,
+   "When Scout Meets Scout; or, The Aeroplane Spy"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hlsayler-air-ship-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-on-the-edge-of-the-arctic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-airship-boys-ocean-flyer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-in-the-clouds-for-uncle-sam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-stolen-aeroplane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-aeroplane-express": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-boy-aeronauts-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-cruise-in-the-sky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-battling-the-bighorn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlsayler-when-scout-meets-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

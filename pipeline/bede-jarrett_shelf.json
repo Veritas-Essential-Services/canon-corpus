@@ -1,0 +1,151 @@
+{
+ "_about": "Public-domain Bede Jarrett (1881-1934, English Dominican provincial) for the Word Hoard: Mediaeval Socialism (People's Books), S. Antonino and Medieval Economics (1914), Meditations for Layfolk (1915), The Abiding Presence of the Holy Ghost in the Soul (1918), Living Temples, The English Dominicans (1921), the Life of St Dominic (1924) and Social Theories of the Middle Ages (1926), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jarrett"
+ ],
+ "_surname": [
+  "jarrett",
+  "bede jarrett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jarrett-mediaeval-socialism": [
+   "mediaevalsociali00jarruoft",
+   "Mediaeval Socialism, The People's Books (London: T. C. & E. C. Jack; title page undated, catalogued 1913)"
+  ],
+  "jarrett-s-antonino": [
+   "santoninomediaev00jarr",
+   "S. Antonino and Medieval Economics (London: Manresa Press; B. Herder, 1914)"
+  ],
+  "jarrett-meditations-layfolk": [
+   "meditationsforla00jarriala",
+   "Meditations for Layfolk (London: Catholic Truth Society; St. Louis: B. Herder, 1915)"
+  ],
+  "jarrett-abiding-presence": [
+   "theabidingpresen00jarruoft",
+   "The Abiding Presence of the Holy Ghost in the Soul (New York: Cathedral Library Association, 1918)"
+  ],
+  "jarrett-living-temples": [
+   "livingtemples0000bede",
+   "Living Temples (London: Burns Oates and Washbourne; title page undated, approved 1919)"
+  ],
+  "jarrett-english-dominicans": [
+   "englishdomin00jarr",
+   "The English Dominicans (London: Burns Oates and Washbourne, MCMXXI)"
+  ],
+  "jarrett-life-st-dominic": [
+   "bwb_W9-APB-493",
+   "Life of St Dominic (1170-1221) (New York: Benziger Brothers, 1924)"
+  ],
+  "jarrett-social-theories": [
+   "socialtheoriesof0000jarr",
+   "Social Theories of the Middle Ages, 1200-1500 (Boston: Little, Brown, 1926)"
+  ]
+ },
+ "_alternates": {
+  "jarrett-pg": "PG 19468, Mediaeval Socialism (undated Jack edition)",
+  "jarrett-copies": "Other copies; the 1917 fifth thousand of the Meditations; A History of Europe (1929)"
+ },
+ "_excluded": {
+  "jarrett-later": "PG 34855 (a later Newman Bookshop reprint of The Abiding Presence); The Religious Life (1939)",
+  "jarrett-others": "Books he edited or translated"
+ },
+ "_rights_checked": {
+  "jarrett-social-theories": "title page read: 'BEDE JARRETT, O.P.' (OCR 'TARRETT'); 1926; Jarrett died 1934, so US public domain but in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jarrett-mediaeval-socialism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jarrett-s-antonino": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jarrett-meditations-layfolk": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jarrett-abiding-presence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jarrett-living-temples": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jarrett-english-dominicans": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jarrett-life-st-dominic": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jarrett-social-theories": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'BEDE JARRETT, O.P.' (OCR 'TARRETT'); 1926; Jarrett died 1934, so US public domain but in UK copyright"
+  }
+ }
+}

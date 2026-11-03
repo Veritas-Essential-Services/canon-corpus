@@ -1,0 +1,41 @@
+{
+ "_about": "Hugo Grotius (1583-1645) in English, raw IA OCR: The Rights of War and Peace, including the Law of Nature and of Nations, translated with notes by A. C. Campbell, introduction by David J. Hill (Washington and London: M. Walter Dunne, copyright 1901). US public domain. Wanted: Whewell's 1853 translation (3 vols.) with the Latin. No uids minted.",
+ "_author": "Hugo Grotius",
+ "_name_words": [
+  "hugo",
+  "grotius",
+  "de",
+  "groot"
+ ],
+ "_surname": [
+  "grotius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grotius-campbell-war-and-peace-1901": [
+   "rightsofwarpeace00grotuoft",
+   "The Rights of War and Peace, including the Law of Nature and of Nations, with an introduction by David J. Hill (Washington: M. Walter Dunne, 1901)",
+   "tr. A. C. Campbell"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "grotius-campbell-war-and-peace-1901": "Campbell"
+ },
+ "_checks": {
+  "grotius-campbell-war-and-peace-1901": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grotius",
+   "translator_claimed": "Campbell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "c1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

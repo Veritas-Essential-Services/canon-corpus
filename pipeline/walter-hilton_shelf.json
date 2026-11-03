@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Walter Hilton (d. 1396, Augustinian canon of Thurgarton) for the Word Hoard: the Treatise Written to a Devout Man (Art and Book Company, 1901) from CCEL, and The Scale (or Ladder) of Perfection in Serenus Cressy's text (Art and Book Company, 1908) and as newly edited by Evelyn Underhill (Watkins, 1923), with the Minor Works ed. Dorothy Jones (1929), from Internet Archive scans. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators and editors recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "hilton",
+ "_name_words": [
+  "hilton"
+ ],
+ "_surname": [
+  "walter hilton",
+  "walter hylton",
+  "hilton, walter"
+ ],
+ "_held": {},
+ "ccel": {
+  "hilton-treatise-devout-man": [
+   "treatise",
+   "A Treatise Written to a Devout Man (London: Art and Book Company; New York: Benziger, 1901)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "hilton-scale-cressy-1908": [
+   "scaleorladderofp00hilt",
+   "The Scale (or Ladder) of Perfection, new edition of Cressy's text, with an essay by J. B. Dalgairns (Westminster: Art and Book Company, 1908)"
+  ],
+  "hilton-scale-underhill-1923": [
+   "hiltonscaleofperfection",
+   "The Scale of Perfection, newly edited from manuscript sources by Evelyn Underhill (London: John M. Watkins, 1923)"
+  ],
+  "hilton-minor-works-1929": [
+   "minorworksofwalt0000doro",
+   "Minor Works of Walter Hilton, ed. Dorothy Jones, Orchard Books (London: Burns Oates, first published 1929)"
+  ]
+ },
+ "_alternates": {
+  "hilton-ccel-ladder": "CCEL hilton/ladder: no print source stated (the same Cressy text as the 1908 scan)",
+  "hilton-scale-1927": "The Scale modernised from Wynkyn de Worde by an anonymous Oblate of Solesmes (Orchard Books, 1927)",
+  "hilton-copies": "Other copies of the 1908 and 1923 editions",
+  "hilton-song-of-angels": "CCEL hilton/angels, from Gardner's Cell of Self-Knowledge, no imprint"
+ },
+ "_excluded": {
+  "hilton-others": "Suso's Little Book with Hilton's Parable of the Pilgrim (mainly Suso); The Cell of Self-Knowledge (anthology, PG 4544); the Stimulus Divini Amoris (credited to Bonaventure)",
+  "hilton-late": "editions of 1948 and later"
+ },
+ "_pending": {},
+ "_translators": {
+  "hilton-scale-underhill-1923": "underhill",
+  "hilton-minor-works-1929": "jones"
+ },
+ "_checks": {
+  "hilton-treatise-devout-man": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "walter hilton",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hilton-scale-cressy-1908": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "walter hilton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hilton-scale-underhill-1923": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "walter hilton",
+   "translator_claimed": "underhill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hilton-minor-works-1929": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "walter hilton",
+   "translator_claimed": "jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

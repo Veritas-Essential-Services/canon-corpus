@@ -1,0 +1,135 @@
+{
+ "_about": "G. E. Farrow's writing at Gutenberg: fairy tales and nonsense stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "G. E. Farrow",
+ "_name_words": [
+  "farrow"
+ ],
+ "_surname": [
+  "farrow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gefarrow-mysterious-shin-shira": [
+   17843,
+   "The Mysterious Shin Shira"
+  ],
+  "gefarrow-jungle-baby": [
+   20693,
+   "The Jungle Baby"
+  ],
+  "gefarrow-dick-marjorie-and-fidge": [
+   23541,
+   "Dick, Marjorie and Fidge: A Search for the Wonderful Dodo"
+  ],
+  "gefarrow-wallypug-in-london": [
+   26478,
+   "The Wallypug in London"
+  ],
+  "gefarrow-missing-prince": [
+   45291,
+   "The Missing Prince"
+  ],
+  "gefarrow-adventures-in-wallypug-land": [
+   52393,
+   "Adventures in Wallypug-Land"
+  ],
+  "gefarrow-absurd-ditties": [
+   53190,
+   "Absurd Ditties"
+  ],
+  "gefarrow-wallypug-of-why": [
+   61163,
+   "The Wallypug of Why"
+  ],
+  "gefarrow-a-b-c-of-every-day-people": [
+   70150,
+   "An A. B. C. of every-day people"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gefarrow-mysterious-shin-shira": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-jungle-baby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-dick-marjorie-and-fidge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-wallypug-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-missing-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-adventures-in-wallypug-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-absurd-ditties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-wallypug-of-why": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gefarrow-a-b-c-of-every-day-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

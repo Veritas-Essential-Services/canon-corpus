@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Arthur Cushman McGiffert (1861-1933, Union Theological Seminary church historian) for the Word Hoard: A History of Christianity in the Apostolic Age (1897), The Apostles' Creed (1902), Protestant Thought before Kant (1911), Martin Luther: the Man and his Work (1911), The Rise of Modern Religious Ideas (1915) and The God of the Early Christians (1924), from Internet Archive scans. His Eusebius is in the Schaff Fathers and not on this shelf. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mcgiffert"
+ ],
+ "_surname": [
+  "mcgiffert",
+  "m'giffert",
+  "arthur cushman mcgiffert"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcgiffert-apostolic-age": [
+   "historyofchrist1897mcgi",
+   "A History of Christianity in the Apostolic Age (New York: Charles Scribner's Sons, 1897)"
+  ],
+  "mcgiffert-apostles-creed": [
+   "apostlescreedits00mcgi",
+   "The Apostles' Creed: its Origin, its Purpose, and its Historical Interpretation (New York: Charles Scribner's Sons, 1902)"
+  ],
+  "mcgiffert-protestant-thought": [
+   "cu31924029437880",
+   "Protestant Thought before Kant (New York: Charles Scribner's Sons, 1911)"
+  ],
+  "mcgiffert-martin-luther": [
+   "martinluthermanh00mcgi",
+   "Martin Luther: the Man and his Work (New York: The Century Co.; copyright 1910-1911)"
+  ],
+  "mcgiffert-modern-religious-ideas": [
+   "riseofmodernreli00mcgi",
+   "The Rise of Modern Religious Ideas (New York: The Macmillan Company, 1915)"
+  ],
+  "mcgiffert-god-early-christians": [
+   "godofearlychrist0000mcgi",
+   "The God of the Early Christians (New York: Charles Scribner's Sons, 1924)"
+  ]
+ },
+ "_alternates": {
+  "mcgiffert-copies": "Revised editions of the Apostolic Age (1900, 1906); other copies"
+ },
+ "_excluded": {
+  "mcgiffert-eusebius": "His Eusebius (Schaff Fathers, PR #11)",
+  "mcgiffert-later": "A History of Christian Thought (1932-1933); 1928-1929 reprints; an 1893 inauguration pamphlet"
+ },
+ "_rights_checked": {
+  "mcgiffert-god-early-christians": "title page read: 1924; McGiffert died 1933, so it is US public domain but in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcgiffert-apostolic-age": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcgiffert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgiffert-apostles-creed": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcgiffert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgiffert-protestant-thought": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcgiffert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcgiffert-martin-luther": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcgiffert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgiffert-modern-religious-ideas": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcgiffert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcgiffert-god-early-christians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcgiffert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1924; McGiffert died 1933, so it is US public domain but in UK copyright"
+  }
+ }
+}

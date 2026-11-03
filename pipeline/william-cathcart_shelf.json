@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain William Cathcart (1826-1908), Baptist minister of Philadelphia, for the Word Hoard: The Papal System (1872), The Baptists and the American Revolution (1876) and The Baptism of the Ages and of the Nations (1878), from Internet Archive scans. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cathcart"
+ ],
+ "_surname": [
+  "william cathcart",
+  "wm. cathcart",
+  "w. cathcart"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cathcart-papal-system": [
+   "papalsystemfromi00cath",
+   "The papal system: from its origin to the present time. A historical sketch of every doctrine, claim and practice of the Church of Rome (Philadelphia, Cathcart and Turner, 1872)"
+  ],
+  "cathcart-american-revolution": [
+   "baptistsamerican00cath",
+   "The Baptists and the American revolution (Philadelphia, S. A. George, 1876)"
+  ],
+  "cathcart-baptism-of-ages": [
+   "baptismofagesofn00cath",
+   "The baptism of the ages and of the nations (Philadelphia, American Baptist publication society, 1878)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cathcart-other": "The Baptist Encyclopaedia (1881, many contributors; he edited it)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "cathcart-papal-system": "Title page OCR reads 'BY WILLIAM CATflCART, PASTOR OF THE SECOND BAPTIST CHURCH, PHILADELPHIA' (h garbled); published by Cathcart and Turner."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cathcart-papal-system": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cathcart-american-revolution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cathcart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cathcart-baptism-of-ages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cathcart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

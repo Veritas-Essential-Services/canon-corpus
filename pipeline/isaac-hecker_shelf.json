@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Isaac Thomas Hecker (1819-1888, founder of the Paulist Fathers) for the Word Hoard: Questions of the Soul (1855), Aspirations of Nature (1857) and The Church and the Age (1887), from Internet Archive scans. Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hecker"
+ ],
+ "_surname": [
+  "hecker",
+  "i. t. hecker",
+  "isaac hecker"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hecker-questions-of-the-soul": [
+   "questionssoul00heckgoog",
+   "Questions of the Soul (New York: D. Appleton; entered 1855, the year line is garbled in the OCR)"
+  ],
+  "hecker-aspirations-of-nature": [
+   "a587173700heckuoft",
+   "Aspirations of Nature (New York: James B. Kirker, M.DCCC.LVII)"
+  ],
+  "hecker-church-and-the-age": [
+   "cu31924029381013",
+   "The Church and the Age (New York: Office of the Catholic World, 1887)"
+  ]
+ },
+ "_alternates": {
+  "hecker-copies": "Aspirations third edition (1859); Church and the Age (1896); other Questions copies"
+ },
+ "_excluded": {
+  "hecker-about": "Elliott's Life of Father Hecker (PG 18283)",
+  "hecker-late": "Arno 1978 and Paulist 1988"
+ },
+ "_rights_checked": {
+  "hecker-questions-of-the-soul": "title page read: D. Appleton, 346 & 348 Broadway; copyright entered 1855; year line garbled"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hecker-questions-of-the-soul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hecker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: D. Appleton, 346 & 348 Broadway; copyright entered 1855; year line garbled"
+  },
+  "hecker-aspirations-of-nature": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hecker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hecker-church-and-the-age": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hecker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

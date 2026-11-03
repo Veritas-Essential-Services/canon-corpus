@@ -1,0 +1,465 @@
+{
+ "_about": "Every public-domain Horatius Bonar (1808-1889, Kelso and Edinburgh) PROSE text the Word Hoard holds. His hymns and poems belong to Adam's separate hymn manifest and are listed only as 'see hymn manifest'. All items are lifetime printings except where marked. Not Andrew A. Bonar (his brother, own shelf), not James Bonar (economist), not J. B. Bonar.",
+ "_ccel_author": "b/bonar",
+ "_name_words": [
+  "bonar",
+  "horatius"
+ ],
+ "_surname": [
+  "horatius bonar",
+  "h. bonar",
+  "horatio bonar",
+  "bonar, horatius"
+ ],
+ "ccel": {
+  "hbonar-gods-way-of-peace": [
+   "peace",
+   "God's Way of Peace: A Book for the Anxious",
+   ""
+  ],
+  "hbonar-rent-veil": [
+   "rentveil",
+   "The Rent Veil",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "hbonar-follow-the-lamb": [
+   "followlamborcou00bonagoog",
+   "Follow the Lamb; or, Counsels to Converts (1874)"
+  ],
+  "hbonar-everlasting-righteousness": [
+   "everlastingright00bona",
+   "The Everlasting Righteousness (1873)"
+  ],
+  "hbonar-christ-of-god": [
+   "christofgod00bona",
+   "The Christ of God (1874)"
+  ],
+  "hbonar-blood-of-the-cross": [
+   "bloodofcross00bona",
+   "The Blood of the Cross (1858)"
+  ],
+  "hbonar-night-of-weeping": [
+   "nightofweepingor00bonaiala",
+   "The Night of Weeping (1852 printing)"
+  ],
+  "hbonar-morning-of-joy": [
+   "morningofjoybein00bona",
+   "The Morning of Joy, sequel to The Night of Weeping (1856 printing)"
+  ],
+  "hbonar-winners-of-souls": [
+   "wordstowinnersof00bona",
+   "Words to Winners of Souls (1860)"
+  ],
+  "hbonar-words-of-peace": [
+   "wordspeaceandwe00bonagoog",
+   "Words of Peace and Welcome (1860)"
+  ],
+  "hbonar-family-sermons": [
+   "familysermons00bona",
+   "Family Sermons (1863)"
+  ],
+  "hbonar-truth-and-error": [
+   "trutherrororlett00bona",
+   "Truth and Error, or Letters to a Friend (1851)"
+  ],
+  "hbonar-prophetical-landmarks": [
+   "propheticalland00bonagoog",
+   "Prophetical Landmarks (1847)"
+  ],
+  "hbonar-coming-and-kingdom": [
+   "comingkingdomofl00bona",
+   "The Coming and Kingdom of the Lord Jesus Christ (1849)"
+  ],
+  "hbonar-desert-of-sinai": [
+   "desertofsinainot00bonauoft",
+   "The Desert of Sinai (1857)"
+  ],
+  "hbonar-land-of-promise": [
+   "landofpromisenot00bona",
+   "The Land of Promise (1858)"
+  ],
+  "hbonar-days-and-nights-east": [
+   "daysandnightsin00bonagoog",
+   "Days and Nights in the East (1866)"
+  ],
+  "hbonar-earths-morning": [
+   "earthsmorning00bonagoog",
+   "Earth's Morning; or, Thoughts on Genesis 1-6 (1875)"
+  ],
+  "hbonar-life-john-milne": [
+   "lifeofrevjohnmil00bona",
+   "Life of the Rev. John Milne of Perth (1870 printing)"
+  ],
+  "hbonar-life-dodds": [
+   "lifeworkofrevgth00bona",
+   "The Life and Work of the Rev. G. Theophilus Dodds (1884)"
+  ],
+  "hbonar-white-fields-france": [
+   "whitefieldsoffra00bona",
+   "The White Fields of France (1879)"
+  ],
+  "hbonar-light-truth-gospels": [
+   "MN41406ucmf_2",
+   "Light and Truth: Bible Thoughts and Themes: The Gospels (1871)"
+  ],
+  "hbonar-light-truth-acts-epistles": [
+   "MN41487ucmf_5",
+   "Light and Truth: Bible Thoughts and Themes: The Acts and the Larger Epistles (1870)"
+  ],
+  "hbonar-light-truth-lesser-epistles": [
+   "lightandtruthor01bonagoog",
+   "Light and Truth: Bible Thoughts and Themes: The Lesser Epistles (1883 printing)"
+  ],
+  "hbonar-stranger-here": [
+   "dli.ministry.06530",
+   "A Stranger Here (1853)",
+   "11621.E14445_A_Stranger_Here_djvu.txt"
+  ],
+  "hbonar-light-truth-ot": [
+   "light-and-truth-the-old-testament-bible-thoughts-and-themes-by-horatius-bonar",
+   "Light and Truth: Bible Thoughts and Themes: The Old Testament (1869)",
+   "Light and Truth - The Old Testament, Bible Thoughts and Themes - By Horatius Bonar_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "godswayofpeacebo00bona and 7 other God's Way of Peace scans": "held from CCEL",
+  "kelsotracts00bonagoog": "Kelso Tracts, 1851 printing; may hold more tracts than 1846, compare",
+  "lightandtruthor00bonagoog": "Light and Truth, 1870 printing, apparently the Lesser Epistles volume; duplicate",
+  "lifeofrevjohnmil0000bona": "Life of John Milne, 1869 printing",
+  "desertofsinainot0000hora, desertsinainote00bonagoog": "Desert of Sinai, other scans",
+  "morningofjoy00bona, morningofjoybein00bona_0, morningjoybeing00bonagoog, morningofjoybei00bona": "Morning of Joy, other printings",
+  "bub_gb_HpGboGlB8T0C": "Night of Weeping, 1849 Google scan",
+  "everlastingrigh00bonagoog": "Everlasting Righteousness, second scan",
+  "followlamborcoun0000bona": "Follow the Lamb, 1875 printing",
+  "prophet00bona": "Prophetical Landmarks, 1860 printing",
+  "myoldletters00bona": "My Old Letters (1877): a long poem: see hymn manifest",
+  "lightandtruthor02bonagoog": "Light and Truth, 1881 printing, probably the OT volume; its OCR never names Bonar (refused 2026-10-02)"
+ },
+ "_excluded": {
+  "CCEL followlamb, goto, soulwinners": "listed on CCEL's Bonar page but their XML is not served (an error page, 2026-10-02); the IA scans are held instead (Follow the Lamb, Words to Winners of Souls). How Shall I Go to God: pending",
+  "wordsoldnew00bona": "Words Old and New (1866): extracts from older divines, Bonar only selected them",
+  "catechismsofscot00bona": "Catechisms of the Scottish Reformation (1866): others' catechisms, Bonar editor",
+  "historicalcollec00gill, historicalcolle00bonagoog": "John Gillies' Historical Collections, Bonar's edition (1845): Gillies' work",
+  "christisallisecr00bona, rathaddhegusith*, bub_gb_76cvAAAAYAAJ": "Gaelic and Welsh translations",
+  "Hymns of Faith and Hope, Communion Hymns, Lyra Consolationis, Hymns of the Nativity, Song of the New Creation, Until the Day Break, The Bible Hymn-Book, The New Jerusalem, Christmas Chimes, Selected Hymns, Songs of the Dawn": "hymns and poems: see hymn manifest",
+  "modern reprints": "godswayofpeace0000hora, GodsWayOf* (undated uploads), thoughtsongenesi0000hora (provenance unclear), b10002285/b10128530 (musical settings)"
+ },
+ "_pending": {
+  "hbonar-gods-way-of-holiness": [
+   "godswayofholines00bona",
+   "God's Way of Holiness (1886 printing)",
+   "refused by fetch_shelf.py identity check 2026-10-02: the OCR text never names Bonar (title page lost); check by eye or find another scan"
+  ],
+  "hbonar-kelso-tracts": [
+   "kelsotracts00bona",
+   "Kelso Tracts (1846 printing)",
+   "refused by fetch_shelf.py identity check 2026-10-02: the OCR text never names Bonar (title page lost); check by eye or find another scan"
+  ],
+  "hbonar-redeem-the-time": [
+   "redeemtime168bona",
+   "Redeem the Time (tract no. 168)",
+   "refused by fetch_shelf.py identity check 2026-10-02: the OCR text never names Bonar (title page lost); check by eye or find another scan"
+  ]
+ },
+ "_checks": {
+  "hbonar-gods-way-of-peace": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hbonar-rent-veil": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hbonar-follow-the-lamb": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-everlasting-righteousness": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-christ-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bonar, horatius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-blood-of-the-cross": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-night-of-weeping": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-morning-of-joy": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-winners-of-souls": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hbonar-words-of-peace": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-family-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-truth-and-error": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bonar, horatius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-prophetical-landmarks": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-coming-and-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-desert-of-sinai": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-land-of-promise": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hbonar-days-and-nights-east": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-earths-morning": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-life-john-milne": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-life-dodds": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-white-fields-france": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bonar, horatius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-light-truth-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-light-truth-acts-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-light-truth-lesser-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbonar-stranger-here": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbonar-light-truth-ot": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatius bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "hbonar-truth-and-error": {
+   "author": "title page reads 'THE REV. HORATIUS” BON KR' (OCR of Horatius Bonar), Carter 1851; checked by eye 2026-10-03"
+  },
+  "hbonar-life-dodds": {
+   "author": "title page reads 'HORATIUS^BONAR, D.D.' (OCR of Horatius Bonar); checked by eye 2026-10-03"
+  }
+ }
+}

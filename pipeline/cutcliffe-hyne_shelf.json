@@ -1,0 +1,123 @@
+{
+ "_about": "C. J. Cutcliffe Hyne's writing at Gutenberg: captain Kettle adventures and other novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "C. J. Cutcliffe Hyne",
+ "_name_words": [
+  "cutcliffe",
+  "hyne"
+ ],
+ "_surname": [
+  "cutcliffe hyne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cjchyne-lost-continent": [
+   285,
+   "The Lost Continent"
+  ],
+  "cjchyne-master-of-fortune": [
+   12556,
+   "A Master of Fortune: Being Further Adventures of Captain Kettle"
+  ],
+  "cjchyne-recipe-for-diamonds": [
+   31083,
+   "The Recipe for Diamonds"
+  ],
+  "cjchyne-through-arctic-lapland": [
+   45862,
+   "Through Arctic Lapland"
+  ],
+  "cjchyne-kate-meredith-financier": [
+   55962,
+   "Kate Meredith, Financier"
+  ],
+  "cjchyne-prince-rupert-the-buccaneer": [
+   57039,
+   "Prince Rupert, the Buccaneer"
+  ],
+  "cjchyne-honor-of-thieves": [
+   66637,
+   "Honor of Thieves: A Novel"
+  ],
+  "cjchyne-captain-kettle-on-the-war-path": [
+   78784,
+   "Captain Kettle on the war-path"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cjchyne-lost-continent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjchyne-master-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjchyne-recipe-for-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjchyne-through-arctic-lapland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjchyne-kate-meredith-financier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjchyne-prince-rupert-the-buccaneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjchyne-honor-of-thieves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjchyne-captain-kettle-on-the-war-path": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cutcliffe hyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

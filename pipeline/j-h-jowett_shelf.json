@@ -1,0 +1,367 @@
+{
+ "_about": "Public-domain J. H. Jowett (John Henry Jowett, 1863-1923, Congregationalist, Carr's Lane, Birmingham, and Fifth Avenue Presbyterian, New York) for the Word Hoard, held to printings dated before 1930: Brooks by the Traveller's Way (1902), The Passion for Souls (1905), The Epistles of St. Peter (1910), Things That Matter Most (1913) and The Friend on the Road (1922) from CCEL; My Daily Meditation for the Circling Year (1914) and The Whole Armour of God (1916) from Project Gutenberg; and 14 more from Internet Archive scans, 1898-1925, among them From Strength to Strength, Apostolic Optimism, The Preacher: His Life and Work and The Eagle Life. Not Benjamin Jowett. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "jowett",
+ "_name_words": [
+  "jowett"
+ ],
+ "_surname": [
+  "j. h. jowett",
+  "john henry jowett",
+  "jowett, j. h.",
+  "jowett, john henry",
+  "rev. j. h. jowett",
+  "j. h. jowett, d.d.",
+  "j. h. jowett, m.a."
+ ],
+ "_held": {},
+ "ccel": {
+  "jowett-brooks": [
+   "brooks",
+   "Brooks by the Traveller's Way (New York: A. C. Armstrong; London: H. R. Allenson, 1902)",
+   ""
+  ],
+  "jowett-passion-for-souls": [
+   "passion",
+   "The Passion for Souls (New York: Fleming H. Revell, 1905)",
+   ""
+  ],
+  "jowett-epistles-peter": [
+   "epistpeter",
+   "The Epistles of St. Peter (London: Hodder and Stoughton, 1910)",
+   ""
+  ],
+  "jowett-things-matter-most": [
+   "mattermost",
+   "Things That Matter Most (New York: Fleming H. Revell, 1913)",
+   ""
+  ],
+  "jowett-friend-on-road": [
+   "friendonroad",
+   "The Friend on the Road and Other Studies in the Gospels (New York: George H. Doran, 1922)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "jowett-daily-meditation": [
+   "23241",
+   "My Daily Meditation for the Circling Year (New York: Fleming H. Revell; copyright 1914)"
+  ],
+  "jowett-whole-armour": [
+   "36692",
+   "The Whole Armour of God (New York: Fleming H. Revell; copyright 1916)"
+  ]
+ },
+ "internet_archive": {
+  "jowett-strength-to-strength": [
+   "fromstrengthtost00joweuoft",
+   "From Strength to Strength, in a series edited by W. Robertson Nicoll (London: Hodder and Stoughton, 1898)"
+  ],
+  "jowett-apostolic-optimism": [
+   "apostolicoptimis0000jhjo_u8y5",
+   "Apostolic Optimism and Other Sermons, third edition (New York: A. C. Armstrong; London: Hodder and Stoughton, 1902)"
+  ],
+  "jowett-thirsting-for-springs": [
+   "thirstingforspri00jowe",
+   "Thirsting for the Springs: Twenty-six Weeknight Addresses (London: H. R. Allenson, 1902)"
+  ],
+  "jowett-yet-another-day": [
+   "cihm_66379",
+   "Yet Another Day: a Prayer for Every Day of the Year (New York: Fleming H. Revell; copyright 1905)"
+  ],
+  "jowett-silver-lining": [
+   "silverlining1907jowe",
+   "The Silver Lining (New York: Fleming H. Revell; copyright 1907)"
+  ],
+  "jowett-high-calling": [
+   "highcallingmedit00jowe",
+   "The High Calling: Meditations on St. Paul's Letter to the Philippians (New York: Fleming H. Revell; copyright 1909)"
+  ],
+  "jowett-transfigured-church": [
+   "transfiguredchur00jowe",
+   "The Transfigured Church (New York: Fleming H. Revell; copyright 1910)"
+  ],
+  "jowett-our-blessed-dead": [
+   "ourblesseddead00jowe",
+   "Our Blessed Dead (New York: Fleming H. Revell; copyright 1910)"
+  ],
+  "jowett-the-preacher": [
+   "preacherhislifew00jowe",
+   "The Preacher: His Life and Work, the Yale Lectures (New York: George H. Doran; copyright 1912)"
+  ],
+  "jowett-things-cannot-be-shaken": [
+   "thingswhichcanno00jowe",
+   "Things Which Cannot Be Shaken, a sermon at the Fifth Avenue Presbyterian Church, 9 May 1915 (New York, 1915)"
+  ],
+  "jowett-come-ye-apart": [
+   "comeyeapartdaily00jowe",
+   "Come Ye Apart: Daily Exercises in Prayer and Devotion (New York: Fleming H. Revell; copyright 1920)"
+  ],
+  "jowett-spiritual-uplands": [
+   "spiritualuplands0000john",
+   "The Spiritual Uplands: Daily Steps in the Ascent (London and Edinburgh: Oliphants; copyright 1920)"
+  ],
+  "jowett-eagle-life": [
+   "eaglelifeotherst00jowe",
+   "The Eagle Life and Other Studies in the Old Testament (New York: George H. Doran; copyright 1922)"
+  ],
+  "jowett-life-in-heights": [
+   "lifeinheightsstu00jowe",
+   "Life in the Heights: Studies in the Epistles, posthumous (New York: Christian Herald and George H. Doran; copyright 1925)"
+  ]
+ },
+ "_alternates": {
+  "jowett-ccel-silver-lining": "CCEL jowett/silverlining: keyed from a Grosset and Dunlap reprint; the 1907 Revell scan is shelved instead",
+  "jowett-copies": "Scans duplicating the CCEL and Gutenberg texts (Brooks, Passion for Souls, Epistles of St. Peter 1906, Things That Matter Most, My Daily Meditation, Whole Armour, Friend on the Road) and second copies of most titles"
+ },
+ "_excluded": {
+  "jowett-late": "The School of Calvary (CCEL, 1969 revised reprint), Apostolic Optimism 1930 printing, and reprints and anthologies from 1948 onward",
+  "jowett-other-hands": "The Dry Dock of a Thousand Wrecks (his introduction only); multi-author collections",
+  "jowett-namesakes": "Benjamin Jowett, William Jowett and others"
+ },
+ "_identity_checked": {
+  "jowett-apostolic-optimism": {
+   "author": "title page name unreadable in the OCR ('eieiO WE TL M.A.'); title, contents and the 1902 Armstrong and Hodder imprint match his Apostolic Optimism; IA catalogue attributes it to him"
+  },
+  "jowett-the-preacher": {
+   "author": "title page read: 'Rev. J. H. Jowett, D.D., Pastor Fifth Avenue Presbyterian' (OCR 'J. h/jOWETT')"
+  }
+ },
+ "_pending": {
+  "jowett-god-our-contemporary": "God - Our Contemporary (James Clarke, E.C.4; godourcontempora00jowe): no year on title page, foreword July 1922; printing date not established",
+  "jowett-undated": "Undated printings: Meditations for Quiet Moments (RTS), The Folly of Unbelief, The Redeemed Family of God, Sharing His Sufferings (third impression), Springs in the Desert (posthumous)"
+ },
+ "_checks": {
+  "jowett-brooks": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: A. C. Armstrong &amp; Son (1902)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jowett-passion-for-souls": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Fleming H. Revell Company (1905)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jowett-epistles-peter": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton (1910)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jowett-things-matter-most": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Fleming H. Revell Company (1913)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jowett-friend-on-road": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: George H. Doran Company (1922)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jowett-daily-meditation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jowett-whole-armour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jowett-strength-to-strength": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jowett-apostolic-optimism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-thirsting-for-springs": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-yet-another-day": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-silver-lining": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-high-calling": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-transfigured-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jowett-our-blessed-dead": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-the-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jowett-things-cannot-be-shaken": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john henry jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-come-ye-apart": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john henry jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jowett-spiritual-uplands": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john henry jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jowett-eagle-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jowett-life-in-heights": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

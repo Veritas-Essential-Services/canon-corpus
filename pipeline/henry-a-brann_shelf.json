@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain Henry A. Brann, Catholic priest of New York, for the Word Hoard: Curious Questions, Gladstone and the Irish Grievances, his life of Archbishop John Hughes, Waifs and Strays (his sermons, lectures and essays), and his History of the American College in Rome. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 127 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry a. brann",
+  "henry athanasius brann",
+  "h. a. brann",
+  "brann"
+ ],
+ "_surname": [
+  "brann"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brann-curious-questions": [
+   "curiousquestions00bran",
+   "Curious questions ([n. p.], 1866)"
+  ],
+  "brann-gladstone": [
+   "gladstoneirishgr00bran",
+   "Gladstone and the Irish grievances (New York, B. H. Tyrell, printer, 1881)"
+  ],
+  "brann-john-hughes": [
+   "reverendjohnhugh00branuoft",
+   "Most Reverend John Hughes, first archbishop of New York (New York, Dodd, Mead and company, 1892)"
+  ],
+  "brann-waifs-strays": [
+   "waifsandstraysbe00branuoft",
+   "Waifs and strays : being a collection of some sermons, some lectures, essays, etc. of Henry A. Brann, vol. 2 (Quebec ; New York : Franciscan Missionary Printing Press, 1909)"
+  ],
+  "brann-american-college": [
+   "historyofamerica00bran",
+   "History of the American College of the Roman Catholic church of the United States, Rome, Italy (New York, Cincinnati [etc.] Benziger Brothers, 1910)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "brann-readers": "Kelly's Universal Readers and Primer are school readers",
+  "brann-dups": "second scans of Waifs and Strays"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "brann-curious-questions": "OCR of the title page: \"CURIOUS QUESTIONS. REV. HENRY A. BRAM, D.D. NEWARK, N. J. ... 1866\" (BRAM is OCR for Brann)"
+ },
+ "_pending": {
+  "brann-glories": "The Glories of the Catholic Church (1894-95), IA GloriesOfTheCatholicChurchV2: an anthology of many writers that he edited (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "brann-curious-questions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "brann-gladstone": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "brann-john-hughes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brann-waifs-strays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brann-american-college": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

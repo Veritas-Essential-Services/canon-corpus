@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain Aleksei Khomiakov (1804-1860, Russian lay theologian) in English for the Word Hoard: The Orthodox Doctrine on the Church, translated from the Russian (Brussels, 1864), and Russia and the English Church, vol. I, his correspondence with William Palmer (1844-1854) with Birkbeck's translation of his essay The Church is One, edited by W. J. Birkbeck (London: Rivington, Percival, 1895), from Internet Archive scans. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "iakoff"
+ ],
+ "_surname": [
+  "khomiakoff",
+  "khomiakov",
+  "chomiakoff",
+  "khomyakov",
+  "ghomiakoff"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "khomiakov-orthodox-doctrine-church": [
+   "orthodoxdoctrin00khomgoog",
+   "The Orthodox Doctrine on the Church: an Essay, translated from the original Russ (Brussels: V. J. Van Buggenhoudt, 1864)"
+  ],
+  "khomiakov-russia-english-church": [
+   "russiaenglishchu0001wjbi",
+   "Russia and the English Church during the last fifty years, vol. I: the correspondence of William Palmer and M. Khomiakoff, 1844-1854, ed. W. J. Birkbeck (London: Rivington, Percival, 1895)"
+  ]
+ },
+ "_alternates": {
+  "khomiakov-1917": "The 1917 SPCK reissue of Russia and the English Church"
+ },
+ "_excluded": {
+  "khomiakov-late": "The 1969 facsimile and later studies"
+ },
+ "_rights_checked": {
+  "khomiakov-russia-english-church": "title page read: edited by W. J. Birkbeck (name garbled in the OCR); his preface speaks of 'my translation of Khomiakoff's Essay on the Church'; Rivington, Percival, 1895"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "khomiakov-orthodox-doctrine-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chomiakoff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "khomiakov-russia-english-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "khomiakoff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: edited by W. J. Birkbeck (name garbled in the OCR); his preface speaks of 'my translation of Khomiakoff's Essay on the Church'; Rivington, Percival, 1895"
+  }
+ }
+}

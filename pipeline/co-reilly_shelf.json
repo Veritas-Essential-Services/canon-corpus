@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles William O'Reilly: Ferdinand Werne's Expedition to Discover the Sources of the White Nile (1849), 2 vols. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles william o'reilly",
+  "o'reilly"
+ ],
+ "_surname": [
+  "charles william o'reilly",
+  "o'reilly"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cor-73465": [
+   73465,
+   "Expedition to discover the sources of the White Nile, in the years 1840, 1841, Vol. 1 (of 2)"
+  ],
+  "cor-73466": [
+   73466,
+   "Expedition to discover the sources of the White Nile, in the years 1840, 1841, Vol. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "co-reilly-werne-expedition-to-discover-the-sources-of-th-vol-1": {
+   "source": "cor-73465",
+   "of": "Ferdinand Werne",
+   "work": "Expedition to discover the sources of the White Nile, in the years 1840, 1841, Vol. 1 (of 2)",
+   "translated": "1849 (see the Gutenberg header)",
+   "translator": "Charles William O'Reilly",
+   "scan_edition": "Project Gutenberg 73465 (clean text)"
+  },
+  "co-reilly-werne-expedition-to-discover-the-sources-of-th-vol-2": {
+   "source": "cor-73466",
+   "of": "Ferdinand Werne",
+   "work": "Expedition to discover the sources of the White Nile, in the years 1840, 1841, Vol. 2 (of 2)",
+   "translated": "1849 (see the Gutenberg header)",
+   "translator": "Charles William O'Reilly",
+   "scan_edition": "Project Gutenberg 73466 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cor-73465": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles william o'reilly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles William O'Reilly"
+  },
+  "cor-73466": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles william o'reilly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles William O'Reilly"
+  }
+ },
+ "_verified": {
+  "cor-73465": {
+   "pg": 73465,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles William O'Reilly"
+  },
+  "cor-73466": {
+   "pg": 73466,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles William O'Reilly"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

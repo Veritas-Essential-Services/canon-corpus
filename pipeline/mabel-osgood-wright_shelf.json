@@ -1,0 +1,138 @@
+{
+ "_about": "Mabel Osgood Wright's writing at Gutenberg: nature stories and novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mabel Osgood Wright",
+ "_name_words": [
+  "mabel",
+  "osgood",
+  "wright"
+ ],
+ "_surname": [
+  "mabel osgood wright",
+  "osgood wright"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mowright-people-of-the-whirlpool-from-the-experience-book-of": [
+   11561,
+   "People of the Whirlpool From The Experience Book of a Commuter's Wife"
+  ],
+  "mowright-citizen-bird": [
+   11896,
+   "Citizen Bird: Scenes from Bird-Life in Plain English for Beginners"
+  ],
+  "mowright-garden-you-and-i": [
+   17514,
+   "The Garden, You, and I"
+  ],
+  "mowright-poppea-of-the-post-office": [
+   41440,
+   "Poppea of the Post-Office"
+  ],
+  "mowright-aunt-jimmys-will": [
+   42437,
+   "Aunt Jimmy's Will"
+  ],
+  "mowright-open-window": [
+   59964,
+   "The Open Window: Tales of the Months"
+  ],
+  "mowright-gray-lady-and-the-birds": [
+   62793,
+   "Gray Lady and the Birds: Stories of the Bird Year for Home and School"
+  ],
+  "mowright-dogtown-being-some-chapters-from-the-annals-of-the": [
+   64041,
+   "Dogtown Being Some Chapters from the Annals of the Waddles Family Set Down in the Language of Housepeople"
+  ],
+  "mowright-at-the-sign-of-the-fox": [
+   64110,
+   "At the Sign of the Fox: A Romance"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mowright-people-of-the-whirlpool-from-the-experience-book-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-citizen-bird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-garden-you-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-poppea-of-the-post-office": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-aunt-jimmys-will": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-open-window": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-gray-lady-and-the-birds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-dogtown-being-some-chapters-from-the-annals-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mowright-at-the-sign-of-the-fox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabel osgood wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

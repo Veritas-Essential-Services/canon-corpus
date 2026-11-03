@@ -1,0 +1,99 @@
+{
+ "_about": "Frederic Stewart Isham: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frederic Stewart Isham",
+ "_name_words": [
+  "frederic",
+  "isham",
+  "stewart"
+ ],
+ "_surname": [
+  "frederic stewart isham",
+  "isham"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fsisham-man-and-his-money": [
+   10402,
+   "A Man and His Money"
+  ],
+  "fsisham-half-a-chance": [
+   14249,
+   "Half A Chance"
+  ],
+  "fsisham-under-the-rose": [
+   23675,
+   "Under the Rose"
+  ],
+  "fsisham-strollers": [
+   29726,
+   "The Strollers"
+  ],
+  "fsisham-lady-of-the-mount": [
+   36083,
+   "The Lady of the Mount"
+  ],
+  "fsisham-nothing-but-the-truth": [
+   43916,
+   "Nothing But the Truth"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fsisham-man-and-his-money": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic stewart isham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fsisham-half-a-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic stewart isham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fsisham-under-the-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic stewart isham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fsisham-strollers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic stewart isham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fsisham-lady-of-the-mount": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic stewart isham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fsisham-nothing-but-the-truth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic stewart isham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "_about": "Public-domain David Dickson (c.1583-1663, Scottish covenanting minister, professor of divinity at Glasgow and Edinburgh) for the Word Hoard: Select Practical Writings, vol. 1 (Edinburgh: Free Church of Scotland, 1845) and The Sum of Saving Knowledge (Edinburgh: T. & T. Clark, 1886, written with James Durham), raw Internet Archive OCR from Princeton scans. His Psalms, Hebrews and Matthew commentaries survive on IA only as 17th-century printings or an upload without library provenance. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "dickson",
+  "david"
+ ],
+ "_surname": [
+  "dickson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ddickson-select-writings-1": [
+   "selepracw01dick",
+   "Select Practical Writings of David Dickson, vol. 1 (Edinburgh, 1845)"
+  ],
+  "ddickson-sum-of-saving-knowledge-1886": [
+   "sumofsavingknowl24dick",
+   "The Sum of Saving Knowledge, with Durham; introduction and notes by John Macpherson (Edinburgh: T. & T. Clark, 1886)"
+  ]
+ },
+ "_alternates": {
+  "theicasa00dick (1656)": "The Latin Therapeutica Sacra.",
+  "exposit00dick (1647)": "Expositio analytica, Latin.",
+  "truthove00dick (1764)": "Truth's Victory over Error, a long-s 18th-century printing."
+ },
+ "_excluded": {
+  "commentaryonpsal0000dick (1959)": "A modern Banner of Truth reprint.",
+  "pinm00dick (1788)": "The metrical Psalms with his annotations.",
+  "gendem00univ; answeresofsomebr00hend": "Pamphlets of the covenant controversy by several hands.",
+  "psalmsofsoul00dick": "A 1900 book by another Dickson.",
+  "truechristianlov00dick_0, truelov00dick": "Verse."
+ },
+ "_pending": {
+  "ddickson-psalms": "A Brief Explication of the Psalms: on IA only as the 1653-54 printing (brief01dick, briefexp00dick, briefe02dick) and a re-uploaded Google scan without library provenance (ABriefExplicationOfThePsalmsV1).",
+  "ddickson-hebrews-matthew": "His Hebrews (1635) and Matthew commentaries: only 17th-century printings.",
+  "ddickson-therapeutica-sacra": "Therapeutica Sacra in English: the only scan is the 1697 printing (therape00dick), whose long-s OCR never prints his name, so the identity gate refused it."
+ },
+ "_checks": {
+  "ddickson-select-writings-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dickson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ddickson-sum-of-saving-knowledge-1886": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dickson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

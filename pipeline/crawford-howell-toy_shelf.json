@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Crawford Howell Toy (1836-1919), Baptist-trained Hebraist and Hancock professor at Harvard, for the Word Hoard: The History of the Religion of Israel, Quotations in the New Testament, Judaism and Christianity, A Critical and Exegetical Commentary on Proverbs (International Critical Commentary), and his Ezekiel in the Polychrome Bible (English translation and Hebrew critical edition). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 118 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "crawford howell toy",
+  "crawford h. toy",
+  "c. h. toy",
+  "toy"
+ ],
+ "_surname": [
+  "crawford howell toy",
+  "crawford h. toy",
+  "c. h. toy"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "toy-religion-israel": [
+   "historyreligionis00toyc",
+   "The history of the religion of Israel : an Old Testament primer (Boston : Unitarian Sunday-School Society, 1884)"
+  ],
+  "toy-quotations": [
+   "quotationsinn00toyc",
+   "Quotations in the New Testament (New York, Scribner, 1884)"
+  ],
+  "toy-judaism-christianity": [
+   "judaismchristian00toyc",
+   "Judaism and Christianity; a sketch of the progress of thought from Old Testament to New Testament (Boston, Little, Brown, 1890)"
+  ],
+  "toy-proverbs": [
+   "criticalexegetic00toyc",
+   "A critical and exegetical commentary on the book of Proverbs (New York, C. Scribner's sons, 1899)"
+  ],
+  "toy-ezekiel-english": [
+   "bookprophetezek03toygoog",
+   "The Book of the Prophet Ezekiel: A New English Translation, with Explanatory Notes and Pictorial (Dodd, 1899)"
+  ],
+  "toy-ezekiel-hebrew": [
+   "bookprophetezek01toygoog",
+   "The book of the prophet Ezekiel: Critical Edition of the Hebrew Text with Notes (John Hopkins Press, 1899)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "toy-samuel": "booksofsamuel05erdm (Erdmann's commentary in Lange's series, which Toy translated)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "toy-quotations": "Title page (OCR): \"QUOTATIONS IN THE NEW TESTAMENT BY [CR]AWFORD HOWELL TOY PROFESSOR IN HARVARD UNIVERSITY. NEW YORK CHARLES SCRIBNER'S SONS\""
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "toy-religion-israel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crawford h. toy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "toy-quotations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "toy-judaism-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crawford howell toy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "toy-proverbs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crawford h. toy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "toy-ezekiel-english": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. h. toy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "toy-ezekiel-hebrew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. h. toy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

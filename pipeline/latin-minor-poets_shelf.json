@@ -1,0 +1,127 @@
+{
+ "_about": "Minor Latin poets and moralists in English, one translator per row: Calpurnius Siculus (E. J. L. Scott, 1890), Grattius (Christopher Wase, 1654), Publilius Syrus (Darius Lyman, 1856) and the Distichs of Cato (Wayland Johnson Chase, 1922). Raw IA OCR.",
+ "_name_words": [
+  "calpurnius",
+  "grattius",
+  "gratius",
+  "publilius",
+  "publius",
+  "syrus",
+  "cato",
+  "distichs",
+  "faliscus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "calpurnius-scott-1890": [
+   "ecloguesofcalpur00calprich",
+   "The Eclogues of Calpurnius, rendered into English verse (George Bell, 1890)",
+   "tr. Edward J. L. Scott"
+  ],
+  "publilius-lyman-1856": [
+   "bub_gb__QQSAAAAIAAJ",
+   "The Moral Sayings of Publius Syrus, a Roman Slave, from the Latin (Cleveland: Barnard, 1856)",
+   "tr. D. Lyman, Jun."
+  ],
+  "cato-distichs-chase-1922": [
+   "distichsofcato00chas",
+   "The Distichs of Cato, a famous medieval textbook, translated from the Latin (University of Wisconsin Studies, 1922)",
+   "tr. Wayland Johnson Chase"
+  ],
+  "grattius-wase-1654": [
+   "grati-falisci-cynegeticon",
+   "Grati Falisci Cynegeticon, or a Poem of Hunting by Gratius the Faliscian, Englished and illustrated (London; IA dates it 1654, the title page OCRs the year as 1664)",
+   "grati falisci cynegeticon_djvu.txt",
+   "tr. Christopher Wase"
+  ]
+ },
+ "_surname": [
+  "calpurnius",
+  "faliscus",
+  "publius syrus",
+  "publilius syrus",
+  "distichs of cato"
+ ],
+ "_surname_by_slug": {
+  "calpurnius-scott-1890": [
+   "calpurnius"
+  ],
+  "publilius-lyman-1856": [
+   "publius syrus",
+   "publilius syrus"
+  ],
+  "cato-distichs-chase-1922": [
+   "distichs of cato",
+   "dionysius cato",
+   "catonis"
+  ],
+  "grattius-wase-1654": [
+   "grattius",
+   "gratius",
+   "faliscus",
+   "falisci"
+  ]
+ },
+ "_translators": {
+  "calpurnius-scott-1890": "Edward J. L. Scott",
+  "publilius-lyman-1856": "Lyman",
+  "cato-distichs-chase-1922": "Wayland Johnson Chase"
+ },
+ "_checks": {
+  "calpurnius-scott-1890": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calpurnius",
+   "translator_claimed": "Edward J. L. Scott",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "publilius-lyman-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "publius syrus",
+   "translator_claimed": "Lyman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cato-distichs-chase-1922": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "distichs of cato",
+   "translator_claimed": "Wayland Johnson Chase",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grattius-wase-1654": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gratius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_translator_unchecked": {
+  "grattius-wase-1654": "the title page prints the name with a long s, which OCRs as 'Chrifpher Wafe'; the plain spelling Wase is never matched"
+ }
+}

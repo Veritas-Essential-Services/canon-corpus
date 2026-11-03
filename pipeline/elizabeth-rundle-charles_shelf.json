@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain Elizabeth Rundle Charles (1828-1896), hymn translator and author of the Chronicles of the Schönberg-Cotta Family, for the Word Hoard: Ecce Ancilla Domini, studies in the Christian ideal of womanhood (SPCK, 1894), the one devotional book whose title page names her, from an Internet Archive scan. Her other devotional books say only 'by the author of the Schönberg-Cotta Family' and are held as pending. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rundle"
+ ],
+ "_surname": [
+  "elisabeth rundle charles",
+  "elizabeth rundle charles",
+  "rundle charles"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ercharles-ecce-ancilla": [
+   "ecceancilladomin0000elis",
+   "Ecce Ancilla Domini: Mary the Mother of our Lord, Studies in the Christian Ideal of Womanhood (London: SPCK; New York: E. and J. B. Young, 1894)"
+  ]
+ },
+ "_alternates": {
+  "ercharles-copies": "Te Deum Laudamus, 'by the late Mrs. Rundle Charles' (fifth edition, 1897), the revised Voice of Christian Life in Song"
+ },
+ "_excluded": {
+  "ercharles-other": "Luther's Watchwords for the Warfare of Life, which she selected and translated; her novels and tales; a 1969 reprint"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "ercharles-by-the-author-of": "Held until Adam rules on 'by the author of' title pages: The Voice of Christian Life in Song (Nisbet, 1858), Mary, the Handmaid of the Lord (Nisbet, 1854), Sketches of the Women of Christendom (SPCK, 1880), Three Martyrs of the Nineteenth Century (1885), Martyrs and Saints of the First Twelve Centuries (1887), The Beatitudes (1889), The Book of the Unveiling (1892)"
+ },
+ "_translators": {},
+ "_checks": {
+  "ercharles-ecce-ancilla": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elisabeth rundle charles",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

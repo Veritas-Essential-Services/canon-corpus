@@ -1,0 +1,240 @@
+{
+ "_about": "Benjamin Disraeli's novels (Coningsby, Sybil, Tancred and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Benjamin Disraeli",
+ "_name_words": [
+  "disraeli"
+ ],
+ "_surname": [
+  "benjamin disraeli"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "disraeli-sybil": [
+   3760,
+   "Sybil, Or, The Two Nations"
+  ],
+  "disraeli-coningsby": [
+   7412,
+   "Coningsby; Or, The New Generation"
+  ],
+  "disraeli-count-alarcos": [
+   7487,
+   "Count Alarcos; a Tragedy"
+  ],
+  "disraeli-voyage-of-captain-popanilla": [
+   7816,
+   "The Voyage of Captain Popanilla"
+  ],
+  "disraeli-lothair": [
+   7835,
+   "Lothair"
+  ],
+  "disraeli-rise-of-iskander": [
+   7842,
+   "The Rise of Iskander"
+  ],
+  "disraeli-endymion": [
+   7926,
+   "Endymion"
+  ],
+  "disraeli-vivian-grey": [
+   9840,
+   "Vivian Grey"
+  ],
+  "disraeli-venetia": [
+   11869,
+   "Venetia"
+  ],
+  "disraeli-henrietta-temple": [
+   19771,
+   "Henrietta Temple: A Love Story"
+  ],
+  "disraeli-sketches": [
+   19781,
+   "Sketches"
+  ],
+  "disraeli-alroy": [
+   20002,
+   "Alroy: The Prince of the Captivity"
+  ],
+  "disraeli-infernal-marriage": [
+   20003,
+   "The Infernal Marriage"
+  ],
+  "disraeli-tancred": [
+   20004,
+   "Tancred; Or, The New Crusade"
+  ],
+  "disraeli-lord-george-bentinck": [
+   20007,
+   "Lord George Bentinck: A Political Biography"
+  ],
+  "disraeli-young-duke": [
+   20008,
+   "The Young Duke"
+  ],
+  "disraeli-ixion-in-heaven": [
+   20009,
+   "Ixion In Heaven"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58739": "PG 58739: Gutenberg's index of the author's works, not a book."
+ },
+ "_checks": {
+  "disraeli-sybil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-coningsby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-count-alarcos": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-voyage-of-captain-popanilla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-lothair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-rise-of-iskander": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-endymion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-vivian-grey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-venetia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-henrietta-temple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-alroy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-infernal-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-tancred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-lord-george-bentinck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-young-duke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "disraeli-ixion-in-heaven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benjamin disraeli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

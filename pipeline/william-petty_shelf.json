@@ -1,0 +1,62 @@
+{
+ "_about": "Sir William Petty (1623-1687), founder of political arithmetic: The Economic Writings of Sir William Petty, together with the Observations upon the Bills of Mortality more probably by Captain John Graunt, edited by Charles Henry Hull, 2 vols. (Cambridge: University Press, 1899), raw IA OCR, clean 0.88 (I) and 0.79 (II, just over the gate); and A Treatise of Taxes and Contributions, clean Gutenberg text (PG 61588) following the first edition (London: N. Brooke, 1662). The Treatise also stands in Hull's vol. I: the overlap is kept because the Gutenberg text is proofread. Not taken: Henry Morley's selection Essays on Mankind and Political Arithmetic (Cassell, 1888; PG 5619), which Hull's edition contains. US public domain. No uids minted.",
+ "_author": "Sir William Petty",
+ "_name_words": [
+  "william",
+  "petty"
+ ],
+ "_surname": [
+  "petty"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "petty-treatise-of-taxes-1662": [
+   61588,
+   "A Treatise of Taxes and Contributions (London: N. Brooke, 1662)"
+  ]
+ },
+ "internet_archive": {
+  "petty-economic-writings-hull-v1": [
+   "economicwritings01pettuoft",
+   "The Economic Writings, ed. C. H. Hull, vol. I (Cambridge, 1899)"
+  ],
+  "petty-economic-writings-hull-v2": [
+   "economicwriting02pettgoog",
+   "The Economic Writings, ed. C. H. Hull, vol. II (Cambridge, 1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "petty-treatise-of-taxes-1662": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "petty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "petty-economic-writings-hull-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "petty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "petty-economic-writings-hull-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "petty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

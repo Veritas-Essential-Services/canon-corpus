@@ -1,0 +1,531 @@
+{
+ "_about": "Storytellers' tail, group 47: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Susie King Taylor, William Alexander Taylor, Crona Temple, Hallam Tennyson Tennyson, J. Newton Terrill, Hampton Sidney Thomas, John W. Thomason, William Henry Thomes, Adele E. Thompson, Charles Miner Thompson, H. Alfarata Chapman Thompson, Seymour D. Thompson, Lucy M. Thruston, Václav Tille, Mary Agnes Tincker, M. B. M. Toland, Marcus B. Toney, L. Frank Tooker, Albion Winegar Tourgée, Mary Ashley Townsend, Patrick Traherne, Katrina Trask, Robert Tressell, Melvin E. Trotter, L. S. Trowbridge, John Preston True, Joaquín Telesforo de Trueba y Cosío, H. Trusta, Charles Tubbs, St. George Tucker. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 47 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "sktaylor-reminiscences-of-my-life-in-camp-with-the-33d-unite": [
+   "susie king taylor"
+  ],
+  "wataylor-intermere": [
+   "william alexander taylor"
+  ],
+  "ctemple-glorious-return": [
+   "crona temple",
+   "temple"
+  ],
+  "httennyson-jack-and-the-bean-stalk": [
+   "hallam tennyson tennyson",
+   "tennyson"
+  ],
+  "jnterrill-campaign-of-the-fourteenth-regiment-new-jersey-vol": [
+   "j. newton terrill",
+   "john newton terrill",
+   "terrill"
+  ],
+  "hsthomas-some-personal-reminiscences-of-service-in-the-caval": [
+   "hampton sidney thomas",
+   "thomas"
+  ],
+  "jwthomason-fix-bayonets": [
+   "john w. thomason",
+   "thomason"
+  ],
+  "whthomes-gold-hunters-adventures": [
+   "william henry thomes",
+   "thomes"
+  ],
+  "aethompson-nobody-s-rose": [
+   "adele e. thompson",
+   "thompson"
+  ],
+  "cmthompson-calico-cat": [
+   "charles miner thompson",
+   "thompson"
+  ],
+  "hacthompson-idealia-a-utopian-dream": [
+   "h. alfarata chapman thompson",
+   "harriet alfarata chapman thompson",
+   "thompson"
+  ],
+  "sdthompson-recollections-with-the-third-iowa-regiment": [
+   "seymour d. thompson",
+   "seymour dwight thompson",
+   "thompson"
+  ],
+  "lmthruston-girl-of-virginia": [
+   "lucy m. thruston",
+   "lucy meacham thruston",
+   "thruston"
+  ],
+  "vtille-little-tom": [
+   "václav tille",
+   "tille"
+  ],
+  "matincker-san-salvador": [
+   "mary agnes tincker",
+   "tincker"
+  ],
+  "mbmtoland-gle-and-the-elf-a-fantasy": [
+   "m. b. m. toland",
+   "mary bertha mckenzie toland",
+   "toland"
+  ],
+  "mbtoney-privations-of-a-private": [
+   "marcus b. toney",
+   "marcus breckenridge toney",
+   "toney"
+  ],
+  "lftooker-under-rocking-skies": [
+   "l. frank tooker",
+   "lewis frank tooker",
+   "tooker"
+  ],
+  "awtourgee-bricks-without-straw": [
+   "albion winegar tourgée",
+   "tourgée"
+  ],
+  "matownsend-brother-clerks": [
+   "mary ashley townsend",
+   "townsend"
+  ],
+  "ptraherne-schoolmaster-s-diary-being-extracts-from-the-journ": [
+   "patrick traherne",
+   "traherne"
+  ],
+  "ktrask-under-king-constantine": [
+   "katrina trask",
+   "trask"
+  ],
+  "rtressell-ragged-trousered-philanthropists": [
+   "robert tressell",
+   "tressell"
+  ],
+  "metrotter-jimmie-moore-of-bucktown": [
+   "melvin e. trotter",
+   "melvin earnest trotter",
+   "trotter"
+  ],
+  "lstrowbridge-brief-history-of-the-tenth-michigan-cavalry": [
+   "l. s. trowbridge",
+   "luther stephen trowbridge",
+   "trowbridge"
+  ],
+  "jptrue-iron-star-and-what-it-saw-on-its-journey-through-the": [
+   "john preston true"
+  ],
+  "jtdtruebaycosi-gomez-arias-or-the-moors-of-the-alpujarras-a": [
+   "joaquín telesforo de trueba y cosío"
+  ],
+  "htrusta-angel-over-the-right-shoulder": [
+   "h. trusta",
+   "trusta"
+  ],
+  "ctubbs-wyoming-military-establishment-a-history-of-the-twent": [
+   "charles tubbs",
+   "tubbs"
+  ],
+  "sgtucker-hansford": [
+   "st. george tucker",
+   "tucker"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "sktaylor-reminiscences-of-my-life-in-camp-with-the-33d-unite": [
+   73499,
+   "Reminiscences of my life in camp with the 33d United States colored troops, late 1st S. C. Volunteers"
+  ],
+  "wataylor-intermere": [
+   53193,
+   "Intermere"
+  ],
+  "ctemple-glorious-return": [
+   50122,
+   "The Glorious Return: A Story of the Vaudois in 1689"
+  ],
+  "httennyson-jack-and-the-bean-stalk": [
+   45288,
+   "Jack and the Bean-Stalk: English Hexameters"
+  ],
+  "jnterrill-campaign-of-the-fourteenth-regiment-new-jersey-vol": [
+   37550,
+   "Campaign of the Fourteenth Regiment New Jersey Volunteers"
+  ],
+  "hsthomas-some-personal-reminiscences-of-service-in-the-caval": [
+   32650,
+   "Some Personal Reminiscences of Service in the Cavalry of the Army of the Potomac"
+  ],
+  "jwthomason-fix-bayonets": [
+   75092,
+   "Fix bayonets!"
+  ],
+  "whthomes-gold-hunters-adventures": [
+   16050,
+   "The Gold Hunters' Adventures; Or, Life in Australia"
+  ],
+  "aethompson-nobody-s-rose": [
+   72011,
+   "Nobody's Rose"
+  ],
+  "cmthompson-calico-cat": [
+   20010,
+   "The Calico Cat"
+  ],
+  "hacthompson-idealia-a-utopian-dream": [
+   67641,
+   "Idealia, a Utopian Dream; or, Resthaven"
+  ],
+  "sdthompson-recollections-with-the-third-iowa-regiment": [
+   47795,
+   "Recollections with the Third Iowa Regiment"
+  ],
+  "lmthruston-girl-of-virginia": [
+   54439,
+   "A Girl of Virginia"
+  ],
+  "vtille-little-tom": [
+   35126,
+   "Little Tom"
+  ],
+  "matincker-san-salvador": [
+   69594,
+   "San Salvador"
+  ],
+  "mbmtoland-gle-and-the-elf-a-fantasy": [
+   69842,
+   "Ægle and the elf, a fantasy"
+  ],
+  "mbtoney-privations-of-a-private": [
+   78204,
+   "The privations of a private"
+  ],
+  "lftooker-under-rocking-skies": [
+   55721,
+   "Under Rocking Skies"
+  ],
+  "awtourgee-bricks-without-straw": [
+   6058,
+   "Bricks Without Straw: A Novel"
+  ],
+  "matownsend-brother-clerks": [
+   18958,
+   "The brother clerks"
+  ],
+  "ptraherne-schoolmaster-s-diary-being-extracts-from-the-journ": [
+   51633,
+   "A Schoolmaster's Diary Being Extracts from the Journal of Patrick Traherne, M.A., Sometime Assistant Master at Radchester and Marlton."
+  ],
+  "ktrask-under-king-constantine": [
+   10495,
+   "Under King Constantine"
+  ],
+  "rtressell-ragged-trousered-philanthropists": [
+   3608,
+   "The Ragged Trousered Philanthropists"
+  ],
+  "metrotter-jimmie-moore-of-bucktown": [
+   35359,
+   "Jimmie Moore of Bucktown"
+  ],
+  "lstrowbridge-brief-history-of-the-tenth-michigan-cavalry": [
+   76434,
+   "A brief history of the Tenth Michigan Cavalry"
+  ],
+  "jptrue-iron-star-and-what-it-saw-on-its-journey-through-the": [
+   6030,
+   "The Iron Star — And What It Saw on Its Journey Through the Ages From Myth to History"
+  ],
+  "jtdtruebaycosi-gomez-arias-or-the-moors-of-the-alpujarras-a": [
+   29916,
+   "Gómez Arias Or, The Moors of the Alpujarras, A Spanish Historical Romance."
+  ],
+  "htrusta-angel-over-the-right-shoulder": [
+   11033,
+   "The Angel Over the Right Shoulder; Or, The Beginning of a New Year"
+  ],
+  "ctubbs-wyoming-military-establishment-a-history-of-the-twent": [
+   60361,
+   "The Wyoming Military Establishment. A History of the Twenty-fourth Regiment of Connecticut Militia An Address Before the Tioga Point Historical Society, Delivered December 3rd, 1901"
+  ],
+  "sgtucker-hansford": [
+   31866,
+   "Hansford: A Tale of Bacon's Rebellion"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "sktaylor-reminiscences-of-my-life-in-camp-with-the-33d-unite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "susie king taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wataylor-intermere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william alexander taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctemple-glorious-return": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crona temple",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "httennyson-jack-and-the-bean-stalk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hallam tennyson tennyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jnterrill-campaign-of-the-fourteenth-regiment-new-jersey-vol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. newton terrill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsthomas-some-personal-reminiscences-of-service-in-the-caval": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hampton sidney thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jwthomason-fix-bayonets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john w. thomason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whthomes-gold-hunters-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry thomes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aethompson-nobody-s-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adele e. thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmthompson-calico-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles miner thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hacthompson-idealia-a-utopian-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. alfarata chapman thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sdthompson-recollections-with-the-third-iowa-regiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seymour d. thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmthruston-girl-of-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucy m. thruston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vtille-little-tom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "václav tille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "matincker-san-salvador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary agnes tincker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbmtoland-gle-and-the-elf-a-fantasy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. b. m. toland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbtoney-privations-of-a-private": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marcus b. toney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lftooker-under-rocking-skies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. frank tooker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awtourgee-bricks-without-straw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albion winegar tourgée",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "matownsend-brother-clerks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary ashley townsend",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ptraherne-schoolmaster-s-diary-being-extracts-from-the-journ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "patrick traherne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktrask-under-king-constantine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katrina trask",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rtressell-ragged-trousered-philanthropists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert tressell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "metrotter-jimmie-moore-of-bucktown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melvin e. trotter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lstrowbridge-brief-history-of-the-tenth-michigan-cavalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. s. trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jptrue-iron-star-and-what-it-saw-on-its-journey-through-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john preston true",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtdtruebaycosi-gomez-arias-or-the-moors-of-the-alpujarras-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joaquín telesforo de trueba y cosío",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htrusta-angel-over-the-right-shoulder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. trusta",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctubbs-wyoming-military-establishment-a-history-of-the-twent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles tubbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgtucker-hansford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "st. george tucker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

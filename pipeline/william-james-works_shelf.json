@@ -1,0 +1,122 @@
+{
+ "_about": "William James (1842-1910), from Project Gutenberg, beside the reading-lists thread's william-james shelf (Varieties, Pragmatism), which is not duplicated: Psychology: Briefer Course (Macmillan, 1892), The Principles of Psychology vol. II (Holt, 1918 printing; vol. I is on the Adler shelf), The Will to Believe (1897; 1912 impression), Talks to Teachers on Psychology (copyright 1899; Holt, 1925 printing), The Meaning of Truth (1909), A Pluralistic Universe (1909), Memories and Studies (1911) and Essays in Radical Empiricism (1912). All published before 1930, so US public domain. No uids minted.",
+ "_author": "William James",
+ "_name_words": [
+  "william",
+  "james"
+ ],
+ "_surname": [
+  "william james"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "james-psychology-briefer-course-1892": [
+   55262,
+   "Psychology: Briefer Course (London: Macmillan, 1892)"
+  ],
+  "james-principles-of-psychology-v2-1918": [
+   57634,
+   "The Principles of Psychology, vol. II (New York: Henry Holt, 1918)"
+  ],
+  "james-will-to-believe-1912": [
+   26659,
+   "The Will to Believe, and Other Essays in Popular Philosophy, new impression (New York: Longmans, Green, 1912; first ed. 1897)"
+  ],
+  "james-talks-to-teachers-1925": [
+   16287,
+   "Talks to Teachers on Psychology, and to Students on Some of Life's Ideals (New York: Henry Holt, 1925; copyright 1899)"
+  ],
+  "james-meaning-of-truth-1909": [
+   5117,
+   "The Meaning of Truth: a sequel to 'Pragmatism' (1909; preface dated August 1909)"
+  ],
+  "james-pluralistic-universe-1909": [
+   11984,
+   "A Pluralistic Universe: Hibbert Lectures on the present situation in philosophy (1909)"
+  ],
+  "james-memories-and-studies-1911": [
+   20768,
+   "Memories and Studies (New York: Longmans, Green, 1911)"
+  ],
+  "james-radical-empiricism-1912": [
+   32547,
+   "Essays in Radical Empiricism, ed. Ralph Barton Perry (New York: Longmans, Green, 1912)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "james-psychology-briefer-course-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-principles-of-psychology-v2-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-will-to-believe-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-talks-to-teachers-1925": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-meaning-of-truth-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-pluralistic-universe-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-memories-and-studies-1911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-radical-empiricism-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

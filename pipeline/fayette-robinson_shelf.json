@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Fayette Robinson (d. 1859): Brillat-Savarin's The Physiology of Taste (1854) and George Sand's The Countess of Rudolstadt (1851). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "fayette robinson"
+ ],
+ "_surname": [
+  "fayette robinson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fro-5434": [
+   5434,
+   "The Physiology of Taste; Or, Transcendental Gastronomy"
+  ],
+  "fro-62338": [
+   62338,
+   "The Countess of Rudolstadt A Sequel to \"Consuelo\""
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "fayette-robinson-brillat-savarin-the-physiology-of-taste-or-transcendenta": {
+   "source": "fro-5434",
+   "of": "Jean Anthelme Brillat-Savarin",
+   "work": "The Physiology of Taste; Or, Transcendental Gastronomy",
+   "translated": "1851-1854 (see the Gutenberg header)",
+   "translator": "Fayette Robinson",
+   "scan_edition": "Project Gutenberg 5434 (clean text)"
+  },
+  "fayette-robinson-sand-the-countess-of-rudolstadt-a-sequel-to-c": {
+   "source": "fro-62338",
+   "of": "George Sand",
+   "work": "The Countess of Rudolstadt A Sequel to \"Consuelo\"",
+   "translated": "1851-1854 (see the Gutenberg header)",
+   "translator": "Fayette Robinson",
+   "scan_edition": "Project Gutenberg 62338 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fro-5434": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fayette robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fayette Robinson"
+  },
+  "fro-62338": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fayette robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fayette Robinson"
+  }
+ },
+ "_verified": {
+  "fro-5434": {
+   "pg": 5434,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fayette Robinson"
+  },
+  "fro-62338": {
+   "pg": 62338,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fayette Robinson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

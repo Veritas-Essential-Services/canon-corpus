@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Henry Eyster Jacobs (1844-1932), Lutheran theologian at Mount Airy, for the Word Hoard: Elements of Religion (1894), A Summary of the Christian Faith (1905), The Lutheran Movement in England (1890), A History of the Evangelical Lutheran Church in the United States (1893), Martin Luther the Hero of the Reformation (1898) and his Annotations on Romans and 1 Corinthians (1896), from Internet Archive scans. Added 2026-10-23 by lane A, round 47 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jacobs"
+ ],
+ "_surname": [
+  "henry eyster jacobs",
+  "henry e. jacobs",
+  "h. e. jacobs"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hejacobs-elements-religion": [
+   "elementsofreligi00jaco_0",
+   "Elements of religion (Philadelphia : G. W. Frederick, 1894)"
+  ],
+  "hejacobs-summary-faith": [
+   "summaryofchristi00jaco_0",
+   "A Summary of the Christian faith (Philadelphia : General Council Publication House, 1905)"
+  ],
+  "hejacobs-lutheran-movement-england": [
+   "lutheranmovement00jacouoft",
+   "The Lutheran movement in England during the reigns of Henry VIII and Edward VI, and its literary monuments (Philadelphia : G.W. Frederick, 1890)"
+  ],
+  "hejacobs-history-lutheran-church": [
+   "historyofevangel04jaco",
+   "A history of the Evangelical Lutheran church in the United States, vol. 4 (New York : Christian Literature Co., 1893)"
+  ],
+  "hejacobs-martin-luther": [
+   "martinlutherhero00jaco_0",
+   "Martin Luther : the hero of the reformation 1483-1546 / by Henry Eyster Jacobs (Putnam, 1898)"
+  ],
+  "hejacobs-annotations-romans": [
+   "annotationsonepi07jaco",
+   "Annotations on the Epistles of Paul to the Romans and I. Corinthians : chaps. I-VI, vol. 7 (New York : Christian Literature Co., 1896)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hejacobs-edited": "Translations and editions: Schmid's Doctrinal Theology (with Hay), the Book of Concord, the Works of Martin Luther, the Lutheran Cyclopedia"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hejacobs-elements-religion": "title page text: 'Elements of Religion. By Henry Eyster Jacobs, D.D., LL.D. Norton Professor of Systematic Theology in the Lutheran Theological Seminary in Philadelphia, author of The Lutheran Movement in England ... Philadelphia: G. W. Frederick, 1894' (the OCR reads 'EVSTER')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hejacobs-elements-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hejacobs-summary-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry eyster jacobs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hejacobs-lutheran-movement-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry eyster jacobs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hejacobs-history-lutheran-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry eyster jacobs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hejacobs-martin-luther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry eyster jacobs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hejacobs-annotations-romans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry eyster jacobs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

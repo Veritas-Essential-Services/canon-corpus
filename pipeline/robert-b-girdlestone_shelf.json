@@ -1,0 +1,43 @@
+{
+ "_about": "Robert Baker Girdlestone (1836-1923), Synonyms of the Old Testament, first edition (London: Longmans, Green, 1871); from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. The 1897 second edition has no open pre-1930 scan (oldtestamentsyno0000gird is a later Eerdmans lending scan), so the 1871 first edition is used. US public domain.",
+ "_name_words": [
+  "girdlestone"
+ ],
+ "_surname": [
+  "girdlestone"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "girdlestone-synonyms-ot": [
+   "synonymsofoldtes00gird",
+   "Synonyms of the Old Testament: Their Bearing on Christian Faith and Practice (London: Longmans, Green, 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "girdlestone-synonyms-ot": {
+   "author": "OCR reads 'EGBERT BAKER GIRDLESTONE'; the title page also names him author of 'The Anatomy of Scepticism' and 'Dies Irae', both by Robert Baker Girdlestone, so this is an OCR misreading of ROBERT"
+  }
+ },
+ "_pending": {
+  "girdlestone-synonyms-ot-2": "Second edition, 1897: no open pre-1930 scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "girdlestone-synonyms-ot": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "girdlestone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "The Institutes of Justinian in J. B. Moyle's translation (Gutenberg text from the 1913 fifth edition), clean Gutenberg.",
+ "_name_words": [
+  "justinian",
+  "institutes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "justinian-institutes-moyle": [
+   5983,
+   "The Institutes of Justinian",
+   "tr. John Baron Moyle"
+  ]
+ },
+ "internet_archive": {},
+ "_surname": [
+  "justinian",
+  "justinianus"
+ ],
+ "_translators": {
+  "justinian-institutes-moyle": "John Baron Moyle"
+ },
+ "_checks": {
+  "justinian-institutes-moyle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justinian",
+   "translator_claimed": "John Baron Moyle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Baron Moyle",
+   "translator_match": true
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "supplied": [
+  {
+   "find": " dis[⟨•⟩]{.gap}reete ",
+   "replace": " dis[c]{.supplied}reete ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " example[⟨•⟩]{.gap}:",
+   "replace": " example[s]{.supplied}:",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " i[⟨•⟩]{.gap}iuries ",
+   "replace": " i[n]{.supplied}iuries ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ions ",
+   "replace": " [L]{.supplied}ions ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

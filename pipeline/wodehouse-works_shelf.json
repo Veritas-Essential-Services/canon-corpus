@@ -1,0 +1,760 @@
+{
+ "_about": "P. G. Wodehouse's school stories, Psmith, Blandings and Jeeves books and other comic novels not already on another shelf; pre-1931 US publications only: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "P. G. Wodehouse",
+ "_name_words": [
+  "wodehouse"
+ ],
+ "_surname": [
+  "p. g. wodehouse"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pgwodehouse-piccadilly-jim": [
+   2005,
+   "Piccadilly Jim"
+  ],
+  "pgwodehouse-something-new": [
+   2042,
+   "Something New"
+  ],
+  "pgwodehouse-a-damsel-in-distress": [
+   2233,
+   "A Damsel in Distress"
+  ],
+  "pgwodehouse-psmith-journalist": [
+   2607,
+   "Psmith, Journalist"
+  ],
+  "pgwodehouse-indiscretions-of-archie": [
+   3756,
+   "Indiscretions of Archie",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-love-among-the-chickens": [
+   3829,
+   "Love Among the Chickens"
+  ],
+  "pgwodehouse-intrusion-of-jimmy": [
+   4075,
+   "The Intrusion of Jimmy"
+  ],
+  "pgwodehouse-little-nugget": [
+   6683,
+   "The Little Nugget",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter\\ 1$",
+    "front": true
+   }
+  ],
+  "pgwodehouse-uneasy-money": [
+   6684,
+   "Uneasy Money",
+   {
+    "levels": [
+     {
+      "re": "[0-9]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "1$",
+    "front": true
+   }
+  ],
+  "pgwodehouse-psmith-in-the-city": [
+   6753,
+   "Psmith in the City",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-man-upstairs-and-other-stories": [
+   6768,
+   "The Man Upstairs and Other Stories"
+  ],
+  "pgwodehouse-three-men-and-a-maid": [
+   6836,
+   "Three Men and a Maid"
+  ],
+  "pgwodehouse-little-warrior": [
+   6837,
+   "The Little Warrior"
+  ],
+  "pgwodehouse-head-of-kays": [
+   6877,
+   "The Head of Kay's",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-gold-bat": [
+   6879,
+   "The Gold Bat"
+  ],
+  "pgwodehouse-coming-of-bill": [
+   6880,
+   "The Coming of Bill",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-white-feather": [
+   6927,
+   "The White Feather"
+  ],
+  "pgwodehouse-prince-and-betty": [
+   6955,
+   "The Prince and Betty"
+  ],
+  "pgwodehouse-tales-of-st-austins": [
+   6980,
+   "Tales of St. Austin's",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-pothunters": [
+   6984,
+   "The Pothunters"
+  ],
+  "pgwodehouse-a-prefects-uncle": [
+   6985,
+   "A Prefect's Uncle",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-clicking-of-cuthbert": [
+   7028,
+   "The Clicking of Cuthbert"
+  ],
+  "pgwodehouse-swoop": [
+   7050,
+   "The Swoop! or, How Clarence Saved England: A Tale of the Great Invasion"
+  ],
+  "pgwodehouse-not-george-washington-an-autobiographical-novel": [
+   7230,
+   "Not George Washington — an Autobiographical Novel (with H. W. Westbrook)"
+  ],
+  "pgwodehouse-william-tell-told-again": [
+   7298,
+   "William Tell Told Again"
+  ],
+  "pgwodehouse-mike": [
+   7423,
+   "Mike"
+  ],
+  "pgwodehouse-adventures-of-sally": [
+   7464,
+   "The Adventures of Sally"
+  ],
+  "pgwodehouse-man-with-two-left-feet-and-other-stories": [
+   7471,
+   "The Man with Two Left Feet, and Other Stories"
+  ],
+  "pgwodehouse-my-man-jeeves": [
+   8164,
+   "My man Jeeves",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-death-at-the-excelsior-and-other-stories": [
+   8176,
+   "Death at the Excelsior, and other stories"
+  ],
+  "pgwodehouse-politeness-of-princes-and-other-school-stories": [
+   8178,
+   "The Politeness of Princes, and Other School Stories"
+  ],
+  "pgwodehouse-a-wodehouse-miscellany": [
+   8190,
+   "A Wodehouse Miscellany: Articles & Stories"
+  ],
+  "pgwodehouse-a-man-of-means": [
+   8713,
+   "A Man of Means",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-gem-collector": [
+   8931,
+   "The Gem Collector"
+  ],
+  "pgwodehouse-mike-and-psmith": [
+   10586,
+   "Mike and Psmith"
+  ],
+  "pgwodehouse-love-among-the-chickens-a-story-of-the-haps-and": [
+   20532,
+   "Love Among the Chickens A Story of the Haps and Mishaps on an English Chicken Farm"
+  ],
+  "pgwodehouse-jill-the-reckless": [
+   20533,
+   "Jill the Reckless",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-girl-on-the-boat": [
+   20717,
+   "The Girl on the Boat"
+  ],
+  "pgwodehouse-inimitable-jeeves": [
+   59254,
+   "The Inimitable Jeeves",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-leave-it-to-psmith": [
+   60067,
+   "Leave it to Psmith",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-ukridge": [
+   61507,
+   "Ukridge",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-a-gentleman-of-leisure": [
+   65172,
+   "A Gentleman of Leisure"
+  ],
+  "pgwodehouse-carry-on-jeeves": [
+   65974,
+   "Carry On, Jeeves",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-sam-in-the-suburbs": [
+   67368,
+   "Sam in the Suburbs",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-small-bachelor": [
+   70041,
+   "The small bachelor"
+  ],
+  "pgwodehouse-meet-mr-mulliner": [
+   70222,
+   "Meet Mr Mulliner",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-divots": [
+   72227,
+   "Divots",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-money-for-nothing": [
+   72972,
+   "Money for nothing"
+  ],
+  "pgwodehouse-plays-the-thing": [
+   75451,
+   "The play's the thing (Ferenc Molnar's play, adapted by P. G. Wodehouse)"
+  ],
+  "pgwodehouse-very-good-jeeves": [
+   77923,
+   "Very good, Jeeves",
+   {
+    "contents_only": true
+   }
+  ],
+  "pgwodehouse-mr-mulliner-speaking": [
+   79636,
+   "Mr. Mulliner speaking",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58508": "PG 58508: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 75435: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {
+  "post-1930": "HELD at the coordinator's pre-1931 rule for this author: PG 10554 Right Ho, Jeeves, first published 1934."
+ },
+ "_checks": {
+  "pgwodehouse-piccadilly-jim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-something-new": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-a-damsel-in-distress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-psmith-journalist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-indiscretions-of-archie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-love-among-the-chickens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-intrusion-of-jimmy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-little-nugget": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-uneasy-money": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-psmith-in-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-man-upstairs-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-three-men-and-a-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-little-warrior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-head-of-kays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-gold-bat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-coming-of-bill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-white-feather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-prince-and-betty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-tales-of-st-austins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-pothunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-a-prefects-uncle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-clicking-of-cuthbert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-swoop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-not-george-washington-an-autobiographical-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-william-tell-told-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-mike": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-adventures-of-sally": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-man-with-two-left-feet-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-my-man-jeeves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-death-at-the-excelsior-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-politeness-of-princes-and-other-school-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-a-wodehouse-miscellany": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-a-man-of-means": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-gem-collector": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-mike-and-psmith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-love-among-the-chickens-a-story-of-the-haps-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-jill-the-reckless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-girl-on-the-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-inimitable-jeeves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-leave-it-to-psmith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-ukridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-a-gentleman-of-leisure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-carry-on-jeeves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-sam-in-the-suburbs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-small-bachelor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-meet-mr-mulliner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-divots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-money-for-nothing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-plays-the-thing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-very-good-jeeves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-mr-mulliner-speaking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

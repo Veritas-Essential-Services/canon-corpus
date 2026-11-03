@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain John Hales of Eton (1584-1656), 'the ever memorable', for the Word Hoard: the Golden Remains (London 1659) and his Works now first collected (Glasgow: Foulis, 1765, three volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 43 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hales"
+ ],
+ "_surname": [
+  "john hales",
+  "hales"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hales-golden-remains-1659": [
+   "goldenremainsofe00hale",
+   "Golden remains of the ever memorable Mr. John Hales of Eton College &c (London : Printed for Tim. Garthwait, 1659)"
+  ],
+  "hales-works-1": [
+   "bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_1",
+   "The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 1 (catalogued 1765)"
+  ],
+  "hales-works-2": [
+   "bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_2",
+   "The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 2 (catalogued 1765)"
+  ],
+  "hales-works-3": [
+   "bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_3",
+   "The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 3 (catalogued 1765)"
+  ]
+ },
+ "_alternates": {
+  "hales-copies": "Golden Remains 1673 and 1688 (EEBO)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hales-works-2": "title page read from the page image: 'The Works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes ... Vol. II. Glasgow: printed by Robert and Andrew Foulis ... M.DCC.LXV' (the OCR loses the name line)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hales-golden-remains-1659": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hales-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hales-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hales-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hales",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "_about": "Garrett P. Serviss's early science fiction and popular astronomy. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Garrett P. Serviss",
+ "_name_words": [
+  "serviss"
+ ],
+ "_surname": [
+  "serviss"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gpserviss-curiosities-of-the-sky": [
+   6630,
+   "Curiosities of the Sky"
+  ],
+  "gpserviss-moon-metal": [
+   8199,
+   "The Moon Metal"
+  ],
+  "gpserviss-columbus-of-space": [
+   8673,
+   "A Columbus of Space"
+  ],
+  "gpserviss-second-deluge": [
+   9194,
+   "The Second Deluge"
+  ],
+  "gpserviss-other-worlds-their-nature-possibilities-and-habita": [
+   18431,
+   "Other Worlds Their Nature, Possibilities and Habitability in the Light of the Latest Discoveries"
+  ],
+  "gpserviss-edisons-conquest-of-mars": [
+   19141,
+   "Edison's Conquest of Mars"
+  ],
+  "gpserviss-pleasures-of-the-telescope-an-illustrated-guide-fo": [
+   28752,
+   "Pleasures of the telescope An Illustrated Guide for Amateur Astronomers and a Popular Description of the Chief Wonders of the Heavens for General Readers"
+  ],
+  "gpserviss-astronomy-with-an-opera-glass-a-popular-introducti": [
+   36741,
+   "Astronomy with an Opera-glass A Popular Introduction to the Study of the Starry Heavens with the Simplest of Optical Instruments"
+  ],
+  "gpserviss-how-to-use-the-popular-science-library": [
+   51133,
+   "How to Use the Popular Science Library; History of Science; General Index"
+  ],
+  "gpserviss-moon": [
+   66510,
+   "The Moon: A Popular Treatise"
+  ],
+  "gpserviss-round-the-year-with-the-stars-the-chief-beauties-o": [
+   68391,
+   "Round the year with the stars The chief beauties of the starry heavens as seen with the naked eye"
+  ],
+  "gpserviss-astronomy-in-a-nutshell": [
+   72521,
+   "Astronomy in a nutshell"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 21670: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "gpserviss-curiosities-of-the-sky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-moon-metal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-columbus-of-space": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-second-deluge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-other-worlds-their-nature-possibilities-and-habita": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-edisons-conquest-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-pleasures-of-the-telescope-an-illustrated-guide-fo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-astronomy-with-an-opera-glass-a-popular-introducti": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-how-to-use-the-popular-science-library": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-round-the-year-with-the-stars-the-chief-beauties-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpserviss-astronomy-in-a-nutshell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "serviss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

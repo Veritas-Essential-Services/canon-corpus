@@ -1,0 +1,88 @@
+{
+ "_about": "Ottilie A. Liljencrantz: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ottilie A. Liljencrantz",
+ "_name_words": [
+  "adelina",
+  "liljencrantz",
+  "ottilia",
+  "ottilie"
+ ],
+ "_surname": [
+  "ottilie a. liljencrantz",
+  "ottilia adelina liljencrantz",
+  "liljencrantz"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "oaliljencrantz-ward-of-king-canute": [
+   3323,
+   "The Ward of King Canute: A Romance of the Danish Conquest"
+  ],
+  "oaliljencrantz-thrall-of-leif-the-lucky": [
+   4581,
+   "The Thrall of Leif the Lucky: A Story of Viking Days"
+  ],
+  "oaliljencrantz-vinland-champions": [
+   41098,
+   "The Vinland Champions"
+  ],
+  "oaliljencrantz-vikings-love": [
+   69907,
+   "A Viking's love: and other tales of the North"
+  ],
+  "oaliljencrantz-randvar-the-songsmith": [
+   70472,
+   "Randvar the songsmith"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "oaliljencrantz-ward-of-king-canute": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ottilie a. liljencrantz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oaliljencrantz-thrall-of-leif-the-lucky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ottilie a. liljencrantz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oaliljencrantz-vinland-champions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ottilie a. liljencrantz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oaliljencrantz-vikings-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ottilie a. liljencrantz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oaliljencrantz-randvar-the-songsmith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ottilie a. liljencrantz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

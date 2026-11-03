@@ -1,0 +1,180 @@
+{
+ "_about": "Public-domain John Tillotson (1630-1694, Archbishop of Canterbury, the most read English preacher of the next century) for the Word Hoard: The Works of Dr. John Tillotson, with Thomas Birch's Life of the author (London: J. F. Dove for Richard Priestley, 1820, 10 vols): vols 4-10 clean from CCEL, vols 1-2 raw Internet Archive OCR of the same 1820 edition; vol. 3 pending. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "t/tillotson",
+ "_name_words": [
+  "tillotson",
+  "john"
+ ],
+ "_surname": [
+  "john tillotson",
+  "dr. tillotson",
+  "tillotson"
+ ],
+ "_held": {},
+ "ccel": {
+  "tillotson-works-04": [
+   "works04",
+   "Works, vol. 4",
+   ""
+  ],
+  "tillotson-works-05": [
+   "works05",
+   "Works, vol. 5",
+   ""
+  ],
+  "tillotson-works-06": [
+   "works06",
+   "Works, vol. 6",
+   ""
+  ],
+  "tillotson-works-07": [
+   "works07",
+   "Works, vol. 7",
+   ""
+  ],
+  "tillotson-works-08": [
+   "works08",
+   "Works, vol. 8",
+   ""
+  ],
+  "tillotson-works-09": [
+   "works09",
+   "Works, vol. 9",
+   ""
+  ],
+  "tillotson-works-10": [
+   "works10",
+   "Works, vol. 10",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "tillotson-works-01": [
+   "worksofdrjohntil01till",
+   "The Works of Dr. John Tillotson, with the Life of the Author by Thomas Birch, vol. 1 (London: J. F. Dove, 1820)"
+  ],
+  "tillotson-works-02": [
+   "worksofdrjohntil02till",
+   "The Works of Dr. John Tillotson, vol. 2 (London: J. F. Dove, 1820)"
+  ]
+ },
+ "_alternates": {
+  "tillotson-works-04": "IA worksofdrjohntil04till..10till: the same 1820 edition as raw OCR, for vols 4-10",
+  "tillotson-works-03": "IA worksdrjohntill03bircgoog is catalogued as vol. 3 but its title page and contents are vol. X (tried 2026-10-03)"
+ },
+ "_excluded": {
+  "tillotson-1757-1772": "the 1757 and 1772 editions on IA: long-s type, and the 1820 edition with Birch's Life supersedes them"
+ },
+ "_checks": {
+  "tillotson-works-04": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Richard Priestley (1820)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tillotson-works-05": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Richard Priestley (1820)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tillotson-works-06": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Richard Priestley (1820)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tillotson-works-07": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Richard Priestley (1820)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tillotson-works-08": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Richard Priestley (1820)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tillotson-works-09": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Richard Priestley (1820)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tillotson-works-10": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Richard Priestley (1820)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tillotson-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tillotson-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john tillotson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_pending": {
+  "tillotson-works-03": "worksofdrjohntil03till (vol. 3 of the 1820 edition): archive.org returned HTTP 500 on every try, 2026-10-03; retry later."
+ }
+}

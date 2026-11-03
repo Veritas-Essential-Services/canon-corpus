@@ -1,0 +1,36 @@
+{
+ "_about": "Jean Bodin (1530-1596) in English, raw IA OCR of the 1606 black-letter folio: The Six Bookes of a Commonweale, done into English out of the French and Latin copies by Richard Knolles (London: G. Bishop, 1606). Long-s and early-modern spelling throughout, so expect rough OCR. US public domain. No uids minted.",
+ "_author": "Jean Bodin",
+ "_name_words": [
+  "jean",
+  "john",
+  "i",
+  "bodin"
+ ],
+ "_surname": [
+  "bodin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bodin-knolles-commonweale-1606": [
+   "sixbookesofcommo00bodi",
+   "The Six Bookes of a Commonweale, out of the French and Latin copies (London: G. Bishop, 1606)",
+   "tr. Richard Knolles"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bodin-knolles-commonweale-1606": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bodin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1606",
+   "ia_date": "1606",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

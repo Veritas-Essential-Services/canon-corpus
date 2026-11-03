@@ -1,0 +1,65 @@
+{
+ "_about": "Public-domain Johann Tobias Beck (1804-1878, Tübingen) in English for the Word Hoard: Outlines of Biblical Psychology (Edinburgh, 1877) and Pastoral Theology of the New Testament, tr. James A. M'Clymont and Thomas Nicol (Edinburgh, 1885), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "beck"
+ ],
+ "_surname": [
+  "beck",
+  "j. t. beck"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jtbeck-biblical-psychology": [
+   "outlinesbiblica00beckgoog",
+   "Outlines of Biblical Psychology, translated from the third German edition (Edinburgh: T. and T. Clark, 1877)"
+  ],
+  "jtbeck-pastoral-theology": [
+   "pastoraltheology00beck",
+   "Pastoral Theology of the New Testament, tr. James A. M'Clymont and Thomas Nicol (Edinburgh: T. & T. Clark, 1885)"
+  ]
+ },
+ "_alternates": {
+  "jtbeck-copies": "Other 1885 Pastoral Theology copies"
+ },
+ "_excluded": {
+  "jtbeck-german": "German works"
+ },
+ "_rights_checked": {
+  "jtbeck-biblical-psychology": "title page read: translator not named; the translator's preface is signed only 'Glasgow, 1st April 1877'",
+  "jtbeck-pastoral-theology": "title page read: name OCR'd 'J. T.^ECK'"
+ },
+ "_pending": {},
+ "_translators": {
+  "jtbeck-pastoral-theology": "nicol"
+ },
+ "_checks": {
+  "jtbeck-biblical-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "beck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the translator's preface is signed only 'Glasgow, 1st April 1877'"
+  },
+  "jtbeck-pastoral-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "beck",
+   "translator_claimed": "nicol",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'J. T.^ECK'"
+  }
+ }
+}

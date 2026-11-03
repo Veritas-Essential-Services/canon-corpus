@@ -1,0 +1,330 @@
+{
+ "_about": "Public-domain Adolf (von) Harnack (1851-1930, Berlin church historian) in English for the Word Hoard: 16 volumes from Internet Archive scans, among them What is Christianity? (1901), The Expansion of Christianity (2 vols, 1904-1905), the New Testament Studies (Luke the Physician, The Sayings of Jesus, The Acts, The Date of the Acts, 1907-1911), Constitution and Law of the Church (1910), the Outlines of the History of Dogma (1893) and Essays on the Social Gospel with Wilhelm Herrmann (1907). His History of Dogma (Buchanan's translation) is on the neil-buchanan shelf, not here. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "harnack"
+ ],
+ "_surname": [
+  "harnack",
+  "adolf harnack",
+  "adolf von harnack"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harnack-what-is-christianity": [
+   "cu31924029192841",
+   "What is Christianity? Sixteen Lectures, tr. Thomas Bailey Saunders (London: Williams & Norgate; New York: Putnam, 1901)"
+  ],
+  "harnack-expansion-1": [
+   "theexpansionofch01harnuoft",
+   "The Expansion of Christianity in the First Three Centuries, vol. I, tr. James Moffatt (London: Williams & Norgate, 1904)"
+  ],
+  "harnack-expansion-2": [
+   "theexpansionofch02harnuoft",
+   "The Expansion of Christianity in the First Three Centuries, vol. II, tr. James Moffatt (London: Williams & Norgate, 1905)"
+  ],
+  "harnack-luke-the-physician": [
+   "lukethephysician00harnuoft",
+   "Luke the Physician, New Testament Studies I, tr. J. R. Wilkinson (London: Williams & Norgate, 1907)"
+  ],
+  "harnack-sayings-of-jesus": [
+   "sayingsofjesusse0000harn",
+   "The Sayings of Jesus, New Testament Studies II, tr. J. R. Wilkinson (London: Williams & Norgate, 1908)"
+  ],
+  "harnack-acts-of-the-apostles": [
+   "theactsoftheapos00harnuoft",
+   "The Acts of the Apostles, New Testament Studies III, tr. J. R. Wilkinson (London: Williams & Norgate, 1909)"
+  ],
+  "harnack-date-of-acts": [
+   "dateofactssynopt00harniala",
+   "The Date of the Acts and of the Synoptic Gospels, New Testament Studies IV, tr. J. R. Wilkinson (London: Williams & Norgate, 1911)"
+  ],
+  "harnack-origin-new-testament": [
+   "originofnewtesta0000harn",
+   "The Origin of the New Testament, New Testament Studies VI, tr. J. R. Wilkinson (London: Williams & Norgate, 1925)"
+  ],
+  "harnack-constitution-law-church": [
+   "theconstitutiona00harnuoft",
+   "The Constitution and Law of the Church in the First Two Centuries, tr. F. L. Pogson, ed. H. D. A. Major (London: Williams & Norgate, 1910)"
+  ],
+  "harnack-bible-reading": [
+   "biblereadingearl00harnuoft",
+   "Bible Reading in the Early Church, tr. J. R. Wilkinson (London: Williams & Norgate, 1912)"
+  ],
+  "harnack-monasticism-confessions": [
+   "cu31924029403692",
+   "Monasticism: its Ideals and History, and The Confessions of St. Augustine, tr. E. E. Kellett and F. H. Marseille (London: Williams & Norgate, 1901)"
+  ],
+  "harnack-outlines-history-dogma": [
+   "outlineshistoryd00harnuoft",
+   "Outlines of the History of Dogma, tr. Edwin Knox Mitchell (London: Hodder and Stoughton, MDCCCXCIII)"
+  ],
+  "harnack-christianity-and-history": [
+   "christianityandh00harn",
+   "Christianity and History, tr. Thomas Bailey Saunders (London: Adam & Charles Black, 1896)"
+  ],
+  "harnack-thoughts-protestantism": [
+   "thoughtsonpresen00harn",
+   "Thoughts on the Present Position of Protestantism, tr. Thomas Bailey Saunders (London: Adam & Charles Black, 1899)"
+  ],
+  "harnack-apostles-creed": [
+   "apostlecree00harnuoft",
+   "The Apostles' Creed, tr. Stewart Means, ed. T. B. Saunders (London: Adam and Charles Black, 1901)"
+  ],
+  "harnack-social-gospel": [
+   "essaysonsocialgo00harnuoft",
+   "Essays on the Social Gospel, with Wilhelm Herrmann, tr. G. M. Craik, ed. Maurice A. Canney (London: Williams & Norgate, 1907)"
+  ]
+ },
+ "_alternates": {
+  "harnack-ccel": "CCEL harnack/christianity (Putnam 1908 second edition) and harnack/monasticism (W&N 1911); CCEL harnack/gospel (the Social Gospel)",
+  "harnack-mission-1908": "The Mission and Expansion of Christianity, second edition (1908; missionexpansion01harnuoft, missionexpansio02harn)",
+  "harnack-monasticism-gillett": "Monasticism, tr. C. R. Gillett (New York, 1895 or 1896; year not settled)",
+  "harnack-copies": "Later printings of What is Christianity? (1902-1904) and the other titles"
+ },
+ "_excluded": {
+  "harnack-dogma": "History of Dogma: on the neil-buchanan shelf (PG 19612-19613)",
+  "harnack-ccel-reprints": "CCEL harnack/mission (1972 reprint) and harnack/creed (Wipf and Stock reprint)",
+  "harnack-about": "Horn on Harnack; Sanday's Examination (on william-sanday)"
+ },
+ "_rights_checked": {
+  "harnack-acts-of-the-apostles": "title page read: Williams & Norgate, year OCR'd '1999' for 1909",
+  "harnack-constitution-law-church": "title page read: year OCR'd 'IgIo' for 1910",
+  "harnack-outlines-history-dogma": "title page read: 'MDCCCXCHI' (OCR for MDCCCXCIII)",
+  "harnack-origin-new-testament": "title page read: Williams & Norgate, 1925; Harnack died 1930, so not public domain in the UK until 2001 (it now is) and the translation is US public domain as a 1925 publication"
+ },
+ "_pending": {},
+ "_translators": {
+  "harnack-what-is-christianity": "saunders",
+  "harnack-expansion-1": "moffatt",
+  "harnack-expansion-2": "moffatt",
+  "harnack-luke-the-physician": "wilkinson",
+  "harnack-sayings-of-jesus": "wilkinson",
+  "harnack-acts-of-the-apostles": "wilkinson",
+  "harnack-date-of-acts": "wilkinson",
+  "harnack-origin-new-testament": "wilkinson",
+  "harnack-constitution-law-church": "pogson",
+  "harnack-bible-reading": "wilkinson",
+  "harnack-monasticism-confessions": "kellett",
+  "harnack-outlines-history-dogma": "mitchell",
+  "harnack-christianity-and-history": "saunders",
+  "harnack-thoughts-protestantism": "saunders",
+  "harnack-apostles-creed": "means",
+  "harnack-social-gospel": "craik"
+ },
+ "_checks": {
+  "harnack-what-is-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "saunders",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "harnack-expansion-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "moffatt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harnack-expansion-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "moffatt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harnack-luke-the-physician": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "wilkinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harnack-sayings-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "wilkinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "harnack-acts-of-the-apostles": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "wilkinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Williams & Norgate, year OCR'd '1999' for 1909"
+  },
+  "harnack-date-of-acts": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "wilkinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harnack-origin-new-testament": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "wilkinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Williams & Norgate, 1925; Harnack died 1930, so not public domain in the UK until 2001 (it now is) and the translation is US public domain as a 1925 publication"
+  },
+  "harnack-constitution-law-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "pogson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: year OCR'd 'IgIo' for 1910"
+  },
+  "harnack-bible-reading": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "wilkinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harnack-monasticism-confessions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "kellett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "harnack-outlines-history-dogma": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "mitchell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'MDCCCXCHI' (OCR for MDCCCXCIII)"
+  },
+  "harnack-christianity-and-history": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "saunders",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harnack-thoughts-protestantism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "saunders",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "harnack-apostles-creed": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "means",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harnack-social-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harnack",
+   "translator_claimed": "craik",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

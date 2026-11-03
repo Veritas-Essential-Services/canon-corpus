@@ -1,0 +1,266 @@
+{
+ "_about": "Bernard Capes's ghost stories, historical romances and mysteries. Not W. W. Capes (the capes shelf). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Bernard Capes",
+ "_name_words": [
+  "bernard",
+  "capes"
+ ],
+ "_surname": [
+  "bernard capes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bcapes-at-a-winters-fire": [
+   14045,
+   "At a Winter's Fire"
+  ],
+  "bcapes-jay-of-italy": [
+   44114,
+   "A Jay of Italy"
+  ],
+  "bcapes-lake-of-wine": [
+   66415,
+   "The Lake of Wine"
+  ],
+  "bcapes-our-lady-of-darkness": [
+   66489,
+   "Our Lady of Darkness"
+  ],
+  "bcapes-skeleton-key": [
+   68628,
+   "The skeleton key"
+  ],
+  "bcapes-rogues-tragedy": [
+   68667,
+   "A rogue's tragedy"
+  ],
+  "bcapes-mill-of-silence": [
+   68688,
+   "The mill of silence"
+  ],
+  "bcapes-secret-in-the-hill": [
+   68712,
+   "The secret in the hill"
+  ],
+  "bcapes-adventures-of-the-comte-de-la-muette-during-the-reign": [
+   69579,
+   "Adventures of the Comte de la Muette during the Reign of Terror"
+  ],
+  "bcapes-where-england-sets-her-feet": [
+   69651,
+   "Where England sets her feet: a romance"
+  ],
+  "bcapes-moll-davis": [
+   69720,
+   "Moll Davis: a comedy"
+  ],
+  "bcapes-extraordinary-confessions-of-diana-please": [
+   69885,
+   "The extraordinary confessions of Diana Please"
+  ],
+  "bcapes-great-skene-mystery": [
+   70048,
+   "The great Skene mystery"
+  ],
+  "bcapes-gilead-balm-knight-errant": [
+   70105,
+   "Gilead Balm, knight errant"
+  ],
+  "bcapes-pot-of-basil": [
+   70265,
+   "The pot of basil"
+  ],
+  "bcapes-historical-vignettes-1st-series": [
+   70642,
+   "Historical vignettes, 1st series"
+  ],
+  "bcapes-historical-vignettes-2nd-series": [
+   70685,
+   "Historical vignettes, 2nd series"
+  ],
+  "bcapes-story-of-fifine": [
+   71461,
+   "The story of Fifine"
+  ],
+  "bcapes-loaves-and-fishes": [
+   71615,
+   "Loaves and fishes"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bcapes-at-a-winters-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-jay-of-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-lake-of-wine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-our-lady-of-darkness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-skeleton-key": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-rogues-tragedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-mill-of-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-secret-in-the-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-adventures-of-the-comte-de-la-muette-during-the-reign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-where-england-sets-her-feet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-moll-davis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-extraordinary-confessions-of-diana-please": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-great-skene-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-gilead-balm-knight-errant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-pot-of-basil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-historical-vignettes-1st-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-historical-vignettes-2nd-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-story-of-fifine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcapes-loaves-and-fishes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard capes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

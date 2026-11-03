@@ -1,0 +1,723 @@
+{
+ "_about": "E. F. Benson's novels and ghost stories (the Dodo and Mapp and Lucia books): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "E. F. Benson",
+ "_name_words": [
+  "benson"
+ ],
+ "_surname": [
+  "e. f. benson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "efbenson-michael": [
+   2072,
+   "Michael"
+  ],
+  "efbenson-queen-lucia": [
+   6840,
+   "Queen Lucia",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z]+$"
+     }
+    ],
+    "start": "Chapter ONE$",
+    "front": true
+   }
+  ],
+  "efbenson-crescent-and-iron-cross": [
+   10881,
+   "Crescent and Iron Cross"
+  ],
+  "efbenson-blotting-book": [
+   11493,
+   "The Blotting Book"
+  ],
+  "efbenson-miss-mapp": [
+   25919,
+   "Miss Mapp"
+  ],
+  "efbenson-daisys-aunt": [
+   28999,
+   "Daisy's Aunt"
+  ],
+  "efbenson-across-the-stream": [
+   37917,
+   "Across the Stream"
+  ],
+  "efbenson-dodo-wonders": [
+   40719,
+   "Dodo Wonders--"
+  ],
+  "efbenson-dodos-daughter": [
+   40762,
+   "Dodo's Daughter: A Sequel to Dodo"
+  ],
+  "efbenson-rubicon": [
+   40793,
+   "The Rubicon"
+  ],
+  "efbenson-scarlet-and-hyssop": [
+   40795,
+   "Scarlet and Hyssop: A Novel"
+  ],
+  "efbenson-mammon-and-co": [
+   40797,
+   "Mammon and Co."
+  ],
+  "efbenson-deutschland-ber-allah": [
+   43073,
+   "Deutschland Über Allah"
+  ],
+  "efbenson-angel-of-pain": [
+   44210,
+   "The Angel of Pain"
+  ],
+  "efbenson-dodo": [
+   44486,
+   "Dodo: A Detail of the Day. Volumes 1 and 2"
+  ],
+  "efbenson-arundel": [
+   45719,
+   "Arundel"
+  ],
+  "efbenson-up-and-down": [
+   45742,
+   "Up and Down",
+   {
+    "contents_only": true
+   }
+  ],
+  "efbenson-house-of-defence-v-1": [
+   45800,
+   "The House of Defence v. 1"
+  ],
+  "efbenson-house-of-defence-v-2": [
+   45801,
+   "The House of Defence v. 2"
+  ],
+  "efbenson-relentless-city": [
+   46057,
+   "The Relentless City"
+  ],
+  "efbenson-judgment-books": [
+   46077,
+   "The Judgment Books: A Story"
+  ],
+  "efbenson-valkyries": [
+   46119,
+   "The Valkyries (retold from Wagner)"
+  ],
+  "efbenson-thorley-weir": [
+   46258,
+   "Thorley Weir"
+  ],
+  "efbenson-vintage": [
+   46782,
+   "The Vintage: A Romance of the Greek War of Independence"
+  ],
+  "efbenson-david-blaize": [
+   48315,
+   "David Blaize",
+   {
+    "contents_only": true
+   }
+  ],
+  "efbenson-david-blaize-and-the-blue-door": [
+   48505,
+   "David Blaize and the Blue Door"
+  ],
+  "efbenson-capsina": [
+   49533,
+   "The Capsina: An Historical Novel"
+  ],
+  "efbenson-an-act-in-a-backwater": [
+   56465,
+   "An Act in a Backwater"
+  ],
+  "efbenson-countess-of-lowndes-square-and-other-stories": [
+   56579,
+   "The Countess of Lowndes Square, and Other Stories"
+  ],
+  "efbenson-daily-training": [
+   56584,
+   "Daily Training (with Eustace Miles)",
+   {
+    "contents_only": true
+   }
+  ],
+  "efbenson-an-autumn-sowing": [
+   56948,
+   "An Autumn Sowing"
+  ],
+  "efbenson-babe-b-a": [
+   56986,
+   "The Babe, B.A. : being the uneventful history of a young gentleman at Cambridge University",
+   {
+    "contents_only": true
+   }
+  ],
+  "efbenson-challoners": [
+   57002,
+   "The Challoners"
+  ],
+  "efbenson-freaks-of-mayfair": [
+   57006,
+   "The Freaks of Mayfair"
+  ],
+  "efbenson-limitations": [
+   57560,
+   "Limitations: A Novel"
+  ],
+  "efbenson-peter": [
+   57568,
+   "Peter"
+  ],
+  "efbenson-luck-of-the-vails": [
+   57690,
+   "The Luck of the Vails: A Novel"
+  ],
+  "efbenson-robin-linnet": [
+   57867,
+   "Robin Linnet"
+  ],
+  "efbenson-princess-sophia": [
+   58150,
+   "The Princess Sophia",
+   {
+    "contents_only": true
+   }
+  ],
+  "efbenson-a-reaping": [
+   58202,
+   "A Reaping",
+   {
+    "contents_only": true
+   }
+  ],
+  "efbenson-book-of-months": [
+   58217,
+   "The Book of Months"
+  ],
+  "efbenson-our-family-affairs-1867-1896": [
+   58882,
+   "Our Family Affairs, 1867-1896"
+  ],
+  "efbenson-osbornes": [
+   58884,
+   "The Osbornes"
+  ],
+  "efbenson-white-eagle-of-poland": [
+   58914,
+   "The White Eagle of Poland"
+  ],
+  "efbenson-winter-sports-in-switzerland": [
+   60153,
+   "Winter Sports in Switzerland",
+   {
+    "contents_only": true
+   }
+  ],
+  "efbenson-mrs-ames": [
+   60168,
+   "Mrs. Ames"
+  ],
+  "efbenson-sheaves": [
+   60241,
+   "Sheaves"
+  ],
+  "efbenson-visible-and-invisible": [
+   60339,
+   "Visible and Invisible"
+  ],
+  "efbenson-colin": [
+   60802,
+   "Colin"
+  ],
+  "efbenson-colin-ii": [
+   65309,
+   "Colin II: A Novel"
+  ],
+  "efbenson-room-in-the-tower-and-other-stories": [
+   72421,
+   "The room in the tower, and other stories"
+  ],
+  "efbenson-lucia-in-london": [
+   74310,
+   "Lucia in London"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "efbenson-michael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-queen-lucia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-crescent-and-iron-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-blotting-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-miss-mapp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-daisys-aunt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-across-the-stream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-dodo-wonders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-dodos-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-rubicon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-scarlet-and-hyssop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-mammon-and-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-deutschland-ber-allah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-angel-of-pain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-dodo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-arundel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-up-and-down": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-house-of-defence-v-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-house-of-defence-v-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-relentless-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-judgment-books": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-valkyries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-thorley-weir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-vintage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-david-blaize": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-david-blaize-and-the-blue-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-capsina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-an-act-in-a-backwater": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-countess-of-lowndes-square-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-daily-training": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-an-autumn-sowing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-babe-b-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-challoners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-freaks-of-mayfair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-limitations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-luck-of-the-vails": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-robin-linnet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-princess-sophia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-a-reaping": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-book-of-months": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-our-family-affairs-1867-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-osbornes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-white-eagle-of-poland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-winter-sports-in-switzerland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-mrs-ames": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-sheaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-visible-and-invisible": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-colin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-colin-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-room-in-the-tower-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efbenson-lucia-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. f. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

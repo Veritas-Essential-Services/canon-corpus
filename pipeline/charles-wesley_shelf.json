@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Charles Wesley (1707-1788), hymn-writer and co-founder of Methodism, for the Word Hoard: his prose only, the Journal with selections from his correspondence and poetry ed. Thomas Jackson (London: John Mason, 1849, two volumes) and his sermon Awake, Thou that Sleepest, preached before the University of Oxford in 1742 (second edition, 1742). His hymns go to the hymn manifest. Not John Wesley, who has his own shelf. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wesley"
+ ],
+ "_surname": [
+  "charles wesley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cwesley-journal-1": [
+   "journaletctowhi00weslgoog",
+   "The Journal of the Rev. Charles Wesley, with selections from his correspondence and poetry, introduction and notes by Thomas Jackson, vol. I (London: John Mason, 1849)"
+  ],
+  "cwesley-journal-2": [
+   "journaletctowhi01weslgoog",
+   "The Journal of the Rev. Charles Wesley, ed. Thomas Jackson, vol. II (London: John Mason, 1849)"
+  ],
+  "cwesley-sermon-1742": [
+   "bim_eighteenth-century_a-sermon-preachd-on-sun_wesley-charles_1742",
+   "A Sermon preach'd on Sunday, April 4, 1742, before the University of Oxford, the second edition (London: W. Strahan, 1742)"
+  ]
+ },
+ "_alternates": {
+  "cwesley-copies": "The 1783 Paramore printing of the sermon; the undated Wesleyan Methodist Book-Room reissue of Jackson's Journal (catalogued 1849 in error); Telford's Early Journal (1909)"
+ },
+ "_excluded": {
+  "cwesley-other": "The Cause and Cure of Earthquakes (1750): its title page names no author; editions from 1977 on"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "cwesley-sermons-1816": "Sermons (1816): no scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "cwesley-journal-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cwesley-journal-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cwesley-sermon-1742": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

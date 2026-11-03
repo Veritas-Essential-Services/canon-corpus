@@ -1,0 +1,109 @@
+{
+ "_about": "Public-domain John Kaye (1783-1853), Regius Professor of Divinity at Cambridge and Bishop of Lincoln, for the Word Hoard: The Ecclesiastical History of the Second and Third Centuries Illustrated from the Writings of Tertullian, Some Account of the Writings and Opinions of Justin Martyr and of Clement of Alexandria, a charge to the clergy of Lincoln, and a Magdalen Hospital sermon. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 138 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. His Reply to Moore's Travels of an Irish Gentleman, signed Philalethes Cantabrigiensis, is held until Adam rules on catalogue attributions.",
+ "_name_words": [
+  "john kaye",
+  "j. kaye",
+  "kaye",
+  "bishop of lincoln"
+ ],
+ "_surname": [
+  "kaye"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kaye-tertullian": [
+   "ecclesiasticalh00kaye",
+   "The ecclesiastical history of the second and third centuries : illustrated from the writings of Tertullian (Cambridge [Eng.] : J. & J. J. Deighton, 1826)"
+  ],
+  "kaye-justin-martyr": [
+   "someaccountof00kaye",
+   "Some account of the writings and opinions of Justin Martyr (Cambridge : Printed by J. Smith for J. & J.J. Deighton, 1829)"
+  ],
+  "kaye-magdalen-1833": [
+   "b30348705",
+   "A sermon preached at the Magdalen Hospital ... : on Tuesday, 23rd of April 1833 (London : J.G. & F. Rivington, etc., 1833)"
+  ],
+  "kaye-clement": [
+   "someaccountofwri00kaye",
+   "Some account of the writings and opinions of Clement of Alexandria (London, J.G. & F. Rivington, 1835)"
+  ],
+  "kaye-charge-1840": [
+   "chargetoclergyof00kaye",
+   "A charge to the clergy of the Diocese of Lincoln, vol. Talbot Collection of British Pamphlets (London : Printed for J.G.F. and J. Rivington, St. Paul's Church Yard, and Waterloo Place, Pall Mall, 1840)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kaye-others": "the Afghan war history, Long Engagements and the Malcolm life are Sir John William Kaye's; Jerningham and the Greville letter are by other Kayes; the Ecclesiastical Commission letter is Phillpotts's"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "kaye-tertullian": "title page (OCR): 'By John, Bishop of Bristol, Master of Christ's College, and Regius Professor of Divinity in the University of Cambridge' (Kaye was Bishop of Bristol 1820-1827)",
+  "kaye-magdalen-1833": "title page (OCR): 'By the Right Rev. the Lord Bishop of Lincoln', 23 April 1833 (Kaye was Bishop of Lincoln 1827-1853)",
+  "kaye-clement": "title page (OCR): 'By John, Bishop of Lincoln' (Kaye was Bishop of Lincoln 1827-1853)",
+  "kaye-charge-1840": "title page (OCR): 'By John, Lord Bishop of Lincoln', triennial visitation 1840 (Kaye was Bishop of Lincoln 1827-1853)"
+ },
+ "_pending": {
+  "kaye-irish-gentleman": "A reply to the Travels of an Irish gentleman in search of a religion (London : [publisher not identified], 1834) (IA replytotravelsof00kaye): title page reads 'By Philalethes Cantabrigiensis', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "kaye-tertullian": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kaye-justin-martyr": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "kaye",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaye-magdalen-1833": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kaye-clement": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kaye-charge-1840": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

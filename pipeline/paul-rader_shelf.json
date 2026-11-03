@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Paul Rader, evangelist and pastor of the Moody Church and the Chicago Gospel Tabernacle, for the Word Hoard: Paul Rader's Sermons, How to Win and Other Victory Messages and God's Blessed Man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 126 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "paul rader",
+  "rader"
+ ],
+ "_surname": [
+  "rader"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rader-sermons": [
+   "paulraderssermon00rade",
+   "Paul Rader's sermons (New York : The Book Stall, 1916)"
+  ],
+  "rader-how-to-win": [
+   "howtowinothervic00rade",
+   "How to win, and other victory messages (New York city, The Book stall, 1919)"
+  ],
+  "rader-gods-blessed-man": [
+   "godsblessedman0000paul",
+   "God's Blessed Man (catalogued 1922)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rader-stories": "The Empty Cottage at Silver Falls is fiction",
+  "rader-dups": "second scans of God's Blessed Man",
+  "rader-round-the-world": "roundroundworld00radegoog: the catalogue says 1922, but this printing reads \"Copyright, 1932\" (Revell), after the 1930 cutoff"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "rader-hymns": "Tabernacle Hymns No. 2 (1921), IA tabernaclehymnsn00rade: a hymnal he compiled from many writers (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "rader-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rader",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rader-how-to-win": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rader",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "rader-gods-blessed-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rader",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

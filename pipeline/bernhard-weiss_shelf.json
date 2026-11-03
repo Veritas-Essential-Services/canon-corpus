@@ -1,0 +1,234 @@
+{
+ "_about": "Public-domain Bernhard Weiss (1827-1918, Berlin New Testament scholar) in English for the Word Hoard: 11 volumes from Internet Archive scans: the Biblical Theology of the New Testament (2 vols, 1882-1883), The Life of Christ (3 vols, 1883-1884), A Manual of Introduction to the New Testament (2 vols, 1887-1888), The Religion of the New Testament (1905) and the Commentary on the New Testament (vols 1, 2 and 4, 1906). Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "weiss"
+ ],
+ "_surname": [
+  "weiss",
+  "bernhard weiss"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bweiss-biblical-theology-1": [
+   "india.history.resource.89555",
+   "Biblical Theology of the New Testament, vol. I, tr. David Eaton (Edinburgh: T. & T. Clark, 1882)",
+   "89555_djvu.txt"
+  ],
+  "bweiss-biblical-theology-2": [
+   "biblicaltheology02weis",
+   "Biblical Theology of the New Testament, vol. II, tr. James E. Duguid (Edinburgh: T. & T. Clark, 1883)"
+  ],
+  "bweiss-life-of-christ-1": [
+   "lifeofchrist01weis",
+   "The Life of Christ, vol. I, tr. John Walter Hope (Edinburgh: T. & T. Clark, 1883)"
+  ],
+  "bweiss-life-of-christ-2": [
+   "lifeofchrist02weis",
+   "The Life of Christ, vol. II, tr. M. G. Hope (Edinburgh: T. & T. Clark, 1883)"
+  ],
+  "bweiss-life-of-christ-3": [
+   "lifeofchrist03weis",
+   "The Life of Christ, vol. III, tr. M. G. Hope (Edinburgh: T. & T. Clark, 1884)"
+  ],
+  "bweiss-manual-introduction-1": [
+   "manualofintroduc0000weis_s9t3",
+   "A Manual of Introduction to the New Testament, vol. I, tr. A. J. K. Davidson (London: Hodder and Stoughton; year garbled, probably MDCCCLXXXVII)"
+  ],
+  "bweiss-manual-introduction-2": [
+   "manualofintroduc02weis",
+   "A Manual of Introduction to the New Testament, vol. II, tr. A. J. K. Davidson (London: Hodder and Stoughton, MDCCCLXXXVIII)"
+  ],
+  "bweiss-religion-new-testament": [
+   "religionofnewtes0000weis",
+   "The Religion of the New Testament, tr. George H. Schodde (New York: Funk & Wagnalls, 1905)"
+  ],
+  "bweiss-commentary-1": [
+   "commentaryonnewt01weisuoft",
+   "A Commentary on the New Testament, vol. 1, Matthew-Mark, tr. George H. Schodde and Epiphanius Wilson (New York: Funk & Wagnalls, 1906)"
+  ],
+  "bweiss-commentary-2": [
+   "commentaryonnewt02weisuoft",
+   "A Commentary on the New Testament, vol. 2, tr. George H. Schodde and Epiphanius Wilson (New York: Funk & Wagnalls, 1906)"
+  ],
+  "bweiss-commentary-4": [
+   "commentaryonnewt04weisuoft",
+   "A Commentary on the New Testament, vol. 4, tr. George H. Schodde and Epiphanius Wilson (New York: Funk & Wagnalls, 1906)"
+  ]
+ },
+ "_alternates": {
+  "bweiss-copies": "Other copies and later issues of the Biblical Theology, Life of Christ and Manual"
+ },
+ "_excluded": {
+  "bweiss-wrong": "eccedeusessayson00parkuoft: catalogued as his Life of Christ, actually Parker's Ecce Deus",
+  "bweiss-other": "A modern Bernhard Weiss"
+ },
+ "_rights_checked": {
+  "bweiss-life-of-christ-1": "title page read: 'This Translation is Copyright, by arrangement with the Author', 1883; printed before 1930",
+  "bweiss-manual-introduction-1": "title page read: date OCR'd 'MDCE€CLXXXVII'; vol. II is 1888"
+ },
+ "_pending": {
+  "bweiss-commentary-3": "Commentary vol. 3: title page not checked"
+ },
+ "_translators": {
+  "bweiss-biblical-theology-1": "eaton",
+  "bweiss-biblical-theology-2": "duguid",
+  "bweiss-life-of-christ-1": "hope",
+  "bweiss-life-of-christ-2": "hope",
+  "bweiss-life-of-christ-3": "hope",
+  "bweiss-manual-introduction-1": "davidson",
+  "bweiss-manual-introduction-2": "davidson",
+  "bweiss-religion-new-testament": "schodde",
+  "bweiss-commentary-1": "schodde",
+  "bweiss-commentary-2": "schodde",
+  "bweiss-commentary-4": "schodde"
+ },
+ "_checks": {
+  "bweiss-biblical-theology-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "eaton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bweiss-biblical-theology-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "duguid",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bweiss-life-of-christ-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "hope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'This Translation is Copyright, by arrangement with the Author', 1883; printed before 1930"
+  },
+  "bweiss-life-of-christ-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "hope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bweiss-life-of-christ-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "hope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bweiss-manual-introduction-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "davidson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: date OCR'd 'MDCE€CLXXXVII'; vol. II is 1888"
+  },
+  "bweiss-manual-introduction-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "davidson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bweiss-religion-new-testament": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "schodde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bweiss-commentary-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "schodde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bweiss-commentary-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "schodde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bweiss-commentary-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "weiss",
+   "translator_claimed": "schodde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

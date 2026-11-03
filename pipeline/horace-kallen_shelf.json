@@ -1,0 +1,94 @@
+{
+ "_about": "Horace Meyer Kallen (1882-1974), American pragmatist, William James's student, who coined 'cultural pluralism'. He died in 1974, but every book here was published before 1930. Raw IA OCR: William James and Henri Bergson (University of Chicago Press, 1914); The Structure of Lasting Peace (Boston: Marshall Jones, 1918); Zionism and World Politics (Doubleday, Page, 1921); Culture and Democracy in the United States (Boni and Liveright, copyright 1924); Why Religion (Boni and Liveright, 1927). US public domain. No uids minted.",
+ "_author": "Horace M. Kallen",
+ "_name_words": [
+  "horace",
+  "meyer",
+  "kallen"
+ ],
+ "_surname": [
+  "kallen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kallen-william-james-and-henri-bergson-1914": [
+   "williamjameshenr00kall_0",
+   "William James and Henri Bergson (University of Chicago Press, 1914)"
+  ],
+  "kallen-structure-of-lasting-peace-1918": [
+   "structureoflasti00kalliala",
+   "The Structure of Lasting Peace (Marshall Jones, 1918)"
+  ],
+  "kallen-zionism-and-world-politics-1921": [
+   "zionismandworld00kallgoog",
+   "Zionism and World Politics (Doubleday, Page, 1921)"
+  ],
+  "kallen-culture-and-democracy-1924": [
+   "culturedemocracy0000hora",
+   "Culture and Democracy in the United States (Boni and Liveright, 1924)"
+  ],
+  "kallen-why-religion-1927": [
+   "whyreligion0000hora_q9a6",
+   "Why Religion (Boni and Liveright, 1927)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "kallen-william-james-and-henri-bergson-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kallen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kallen-structure-of-lasting-peace-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kallen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kallen-zionism-and-world-politics-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kallen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kallen-culture-and-democracy-1924": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kallen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kallen-why-religion-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kallen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

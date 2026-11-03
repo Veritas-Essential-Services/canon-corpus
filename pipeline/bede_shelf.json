@@ -1,0 +1,37 @@
+{
+ "_about": "Bede's (673-735) Ecclesiastical History of the English People, A. M. Sellar's translation (1907). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Bede",
+ "_name_words": [
+  "bede",
+  "venerable"
+ ],
+ "_surname": [
+  "bede"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bede-ecclesiastical-history-sellar": [
+   38326,
+   "Ecclesiastical History of England, tr. A. M. Sellar (1907)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "bede-ecclesiastical-history-sellar": "Sellar"
+ },
+ "_checks": {
+  "bede-ecclesiastical-history-sellar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bede",
+   "translator_claimed": "Sellar",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. M. Sellar",
+   "translator_match": true
+  }
+ }
+}

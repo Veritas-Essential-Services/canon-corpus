@@ -1,0 +1,82 @@
+{
+ "_about": "Public-domain Peter Canisius (1521-1597), Jesuit of the Counter-Reformation in Germany and Doctor of the Church, for the Word Hoard, in early English and Scots translations of his catechisms: Certayne Necessarie Principles of Religion (Douai, 1579, Englished by 'T. I.'), Ane Cathechisme or Short Instruction of Christian Religion (Paris, 1588, in Scots, translated by Adam King) and A Summe of Christian Doctrine (1622), from Internet Archive scans of the EEBO films. Added 2026-10-23 by lane A, round 40 (the round 35 queue item); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "canisius"
+ ],
+ "_surname": [
+  "canisius",
+  "canisio",
+  "canisij",
+  "canisii"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "canisius-necessarie-principles-1579": [
+   "bim_early-english-books-1475-1640_certayne-necessarie-prin_canisius-petrus-saint_1579",
+   "Certayne necessarie principles of religion, which may be entituled, a catechisme conteyning all the partes of the Christian and Catholique fayth, written in Latin by P. Canisius, and now amplified and Englished by T. I. (Duaci [Douai]: Joannes Bogardus, 1579)"
+  ],
+  "canisius-ane-cathechisme-1588": [
+   "bim_early-english-books-1475-1640_ane-cathechisme-or-short_p-canisius_1588",
+   "Ane cathechisme or schort instruction of Christian religion, drawen out of the Scriptures and ancient doctours, compyled be the godlie and learned father Peter Canisius, Doctour of Theologie [translated into Scots by Adam King] (Paris: Peter Hury, 1588)"
+  ],
+  "canisius-summe-christian-doctrine-1622": [
+   "bim_early-english-books-1475-1640_a-summe-of-christian-doc_canisius-petrus_1622",
+   "A summe of Christian doctrine, composed in Latin by the R. Father Petrus Canisius of the Society of Jesus, with an appendix of the fall of man and justification, translated into English (St. Omer: for John Heigham, 1622)"
+  ]
+ },
+ "_alternates": {
+  "canisius-latin": "The Latin originals: Summa doctrinae christianae (1565-1623 printings), Opus catechisticum (1577-1618), Commentarii de verbi Dei corruptelis (1571, 1584), De Maria virgine (1577), Notae in evangelicas lectiones (1591-1595); German, French (Peltier, 1856-1873), Italian, Czech, Slovene and Greek versions"
+ },
+ "_excluded": {
+  "canisius-other": "Works by his nephew Henricus Canisius (canon law, Antiquae lectiones); Canisius College catalogues; the 1865 biographical sketch, by another"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "canisius-necessarie-principles-1579": "title page read from the page image: 'Written in Latin by P. Canisius, one of the holy societie of the Iesuites, and nowe amplified and Englished by T. I.', Duaci, per Ioannem Bogardum; the translator's preface names 'that learned and godly Father Canisius' (black letter; OCR misses both)",
+  "canisius-ane-cathechisme-1588": {
+   "author": "title page read from the (dark) page image: 'compyled be the Godlie and learned father Peter Canisius Doctour of Theologie', At Paris, imprinted be Peter Hury; the prefatory epigram is signed 'Ada. Regius Edimb.' (Adam King of Edinburgh, the translator); OCR garbles the title",
+   "title": "title page read from the page image: 'Ane Cathechisme or Schort Instruction of Christian Religion'; the OCR of this dark film never renders the Scots title words"
+  },
+  "canisius-summe-christian-doctrine-1622": "title page read from the page image: 'Composed in Latin, by the R. Father Petrus Canisius, of the Society of Iesus ... translated into English', At S. Omers for Iohn Heigham, 1622"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "canisius-necessarie-principles-1579": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1579",
+   "ia_date": "1579",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "canisius-ane-cathechisme-1588": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1588",
+   "ia_date": "1588",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "canisius-summe-christian-doctrine-1622": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1622",
+   "ia_date": "1622",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "_about": "Richard Marsh's thrillers, The Beetle and his other supernatural and crime stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Richard Marsh",
+ "_name_words": [
+  "marsh",
+  "richard"
+ ],
+ "_surname": [
+  "richard marsh"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rmarsh-beetle": [
+   5164,
+   "The Beetle: A Mystery"
+  ],
+  "rmarsh-miss-arnotts-marriage": [
+   37963,
+   "Miss Arnott's Marriage"
+  ],
+  "rmarsh-between-the-dark-and-the-daylight": [
+   37966,
+   "Between the Dark and the Daylight"
+  ],
+  "rmarsh-duel": [
+   38054,
+   "A Duel"
+  ],
+  "rmarsh-second-coming": [
+   38156,
+   "A Second Coming"
+  ],
+  "rmarsh-hero-of-romance": [
+   38160,
+   "A Hero of Romance"
+  ],
+  "rmarsh-master-of-deception": [
+   38161,
+   "A Master of Deception"
+  ],
+  "rmarsh-woman-perfected": [
+   38181,
+   "A Woman Perfected"
+  ],
+  "rmarsh-amusement-only": [
+   38188,
+   "Amusement Only"
+  ],
+  "rmarsh-coward-behind-the-curtain": [
+   40347,
+   "The Coward Behind the Curtain"
+  ],
+  "rmarsh-crime-and-the-criminal": [
+   40348,
+   "The Crime and the Criminal"
+  ],
+  "rmarsh-chase-of-the-ruby": [
+   40349,
+   "The Chase of the Ruby"
+  ],
+  "rmarsh-datchet-diamonds": [
+   40353,
+   "The Datchet Diamonds"
+  ],
+  "rmarsh-confessions-of-a-young-lady": [
+   40354,
+   "Confessions of a Young Lady: Her Doings and Misdoings"
+  ],
+  "rmarsh-woman-with-one-hand-and-mr-elys-engagement": [
+   40449,
+   "The Woman with One Hand, and Mr. Ely's Engagement"
+  ],
+  "rmarsh-violet-forsters-lover": [
+   40450,
+   "Violet Forster's Lover"
+  ],
+  "rmarsh-under-one-flag": [
+   40451,
+   "Under One Flag"
+  ],
+  "rmarsh-twickenham-peerage": [
+   40452,
+   "The Twickenham Peerage"
+  ],
+  "rmarsh-tom-ossingtons-ghost": [
+   40453,
+   "Tom Ossington's Ghost"
+  ],
+  "rmarsh-frivolities-especially-addressed-to-those-who-are-tir": [
+   40454,
+   "Frivolities, Especially Addressed to Those Who Are Tired of Being Serious"
+  ],
+  "rmarsh-goddess": [
+   64930,
+   "The goddess: a demon"
+  ],
+  "rmarsh-magnetic-girl": [
+   64957,
+   "The Magnetic Girl"
+  ],
+  "rmarsh-joss": [
+   64997,
+   "The Joss: A Reversion"
+  ],
+  "rmarsh-expelled": [
+   76920,
+   "Expelled"
+  ],
+  "rmarsh-judith-lee": [
+   79142,
+   "Judith Lee"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rmarsh-beetle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-miss-arnotts-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-between-the-dark-and-the-daylight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-duel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-second-coming": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-hero-of-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-master-of-deception": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-woman-perfected": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-amusement-only": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-coward-behind-the-curtain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-crime-and-the-criminal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-chase-of-the-ruby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-datchet-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-confessions-of-a-young-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-woman-with-one-hand-and-mr-elys-engagement": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-violet-forsters-lover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-under-one-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-twickenham-peerage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-tom-ossingtons-ghost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-frivolities-especially-addressed-to-those-who-are-tir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-goddess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-magnetic-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-joss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-expelled": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmarsh-judith-lee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard marsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

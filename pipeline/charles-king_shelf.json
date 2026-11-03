@@ -1,0 +1,409 @@
+{
+ "_about": "Captain Charles King's (1844-1933) army novels of the American West",
+ "_author": "Charles King",
+ "_name_words": [
+  "king"
+ ],
+ "_surname": [
+  "charles king"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cking-deserter": [
+   16557,
+   "The Deserter"
+  ],
+  "cking-from-the-ranks": [
+   16558,
+   "From the Ranks"
+  ],
+  "cking-foes-in-ambush": [
+   17806,
+   "Foes in Ambush"
+  ],
+  "cking-a-daughter-of-the-sioux": [
+   19023,
+   "A Daughter of the Sioux: A Tale of the Indian frontier"
+  ],
+  "cking-an-apache-princess": [
+   19330,
+   "An Apache Princess: A Tale of the Indian Frontier"
+  ],
+  "cking-rays-daughter": [
+   19480,
+   "Ray's Daughter: A Story of Manila"
+  ],
+  "cking-lanier-of-the-cavalry": [
+   19507,
+   "Lanier of the Cavalry; or, A Week's Arrest"
+  ],
+  "cking-sunset-pass": [
+   19928,
+   "Sunset Pass; or, Running the Gauntlet Through Apache Land"
+  ],
+  "cking-to-the-front": [
+   19952,
+   "To the Front: A Sequel to Cadet Days",
+   {
+    "contents_only": true
+   }
+  ],
+  "cking-warrior-gap": [
+   20082,
+   "Warrior Gap: A Story of the Sioux Outbreak of '68."
+  ],
+  "cking-under-fire": [
+   20101,
+   "Under Fire"
+  ],
+  "cking-marions-faith": [
+   20305,
+   "Marion's Faith.",
+   {
+    "contents_only": true
+   }
+  ],
+  "cking-a-wounded-name": [
+   21345,
+   "A Wounded Name"
+  ],
+  "cking-a-war-time-wooing": [
+   22906,
+   "A War-Time Wooing: A Story"
+  ],
+  "cking-tonio-son-of-the-sierras": [
+   23487,
+   "Tonio, Son of the Sierras: A Story of the Apache War"
+  ],
+  "cking-a-tame-surrender-a-story-of-the-chicago-strike": [
+   23927,
+   "A Tame Surrender, A Story of The Chicago Strike"
+  ],
+  "cking-warings-peril": [
+   24148,
+   "Waring's Peril"
+  ],
+  "cking-found-in-the-philippines": [
+   25884,
+   "Found in the Philippines: The Story of a Woman's Letters"
+  ],
+  "cking-starlight-ranch-and-other-stories-of-army-life-on-the": [
+   26137,
+   "Starlight Ranch, and Other Stories of Army Life on the Frontier"
+  ],
+  "cking-laramie": [
+   31188,
+   "\"Laramie;\" Or, The Queen of Bedlam. A Story of the Sioux War of 1876"
+  ],
+  "cking-a-soldiers-trial": [
+   32311,
+   "A Soldier's Trial: An Episode of the Canteen Crusade",
+   {
+    "contents_only": true
+   }
+  ],
+  "cking-kittys-conquest": [
+   37244,
+   "Kitty's Conquest"
+  ],
+  "cking-trumpeter-fred": [
+   37415,
+   "Trumpeter Fred: A Story of the Plains",
+   {
+    "contents_only": true
+   }
+  ],
+  "cking-campaigning-with-crook-and-stories-of-army-life": [
+   37480,
+   "Campaigning with Crook, and Stories of Army Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "cking-from-school-to-battle-field": [
+   37672,
+   "From School to Battle-field: A Story of the War Days"
+  ],
+  "cking-a-trooper-galahad": [
+   37688,
+   "A Trooper Galahad"
+  ],
+  "cking-cadet-days": [
+   49320,
+   "Cadet Days: A Story of West Point"
+  ],
+  "cking-rancho-del-muerto-and-other-stories-of-adventure-by-va": [
+   51919,
+   "Rancho Del Muerto, and Other Stories of Adventure by Various Authors, from \"Outing\""
+  ],
+  "cking-colonels-daughter": [
+   76813,
+   "The colonel's daughter"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cking-deserter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-from-the-ranks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-foes-in-ambush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-a-daughter-of-the-sioux": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-an-apache-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-rays-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-lanier-of-the-cavalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-sunset-pass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-to-the-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-warrior-gap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-under-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-marions-faith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-a-wounded-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-a-war-time-wooing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-tonio-son-of-the-sierras": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-a-tame-surrender-a-story-of-the-chicago-strike": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-warings-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-found-in-the-philippines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-starlight-ranch-and-other-stories-of-army-life-on-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-laramie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-a-soldiers-trial": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-kittys-conquest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-trumpeter-fred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-campaigning-with-crook-and-stories-of-army-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-from-school-to-battle-field": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-a-trooper-galahad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-cadet-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-rancho-del-muerto-and-other-stories-of-adventure-by-va": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cking-colonels-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

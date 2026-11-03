@@ -1,0 +1,32 @@
+{
+ "_about": "Henry Gilbert's (1868-) King Arthur's Knights: The Tales Re-told for Boys and Girls, illustrated by Walter Crane. Clean Gutenberg text; Gutenberg cleared it as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Henry Gilbert",
+ "_name_words": [
+  "king",
+  "arthur",
+  "knights"
+ ],
+ "_surname": [
+  "henry gilbert"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gilbert-king-arthurs-knights": [
+   22396,
+   "King Arthur's Knights: The Tales Re-told for Boys and Girls"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gilbert-king-arthurs-knights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry gilbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

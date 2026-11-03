@@ -1,0 +1,39 @@
+{
+ "_about": "John Penry (1563-1593), Welsh Puritan martyr, hanged in the Marprelate aftermath: The Aequity of an Humble Supplication (1587), reprinted from the British Museum copy and edited by Alexander J. Grieve (London: Congregational Historical Society, 1905). A Viewe of some part ... in Wales (1588) is pending. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "penry"
+ ],
+ "_surname": [
+  "penry"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "penry-aequity-1905": [
+   "cu31924029246381",
+   "The Aequity of an Humble Supplication, ed. Grieve (London, 1905)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_a-defence-of-that-which-_penry-john_1588, exhortation-unto-the-_penry-john_1588_0, propositions-and-princip_penry-john_1595, the-historie-of-corah-d_penry-john_1609": "EEBO scans of the 16th- and 17th-century printings."
+ },
+ "_pending": {
+  "vieweofsomeparto00penr (A Viewe of some part of such publike wants and disorders as are in the service of God within her Majesties countrie of Wales, ed. J. O. Halliwell, London, 1861)": "Refused 2026-10-03: the tract was printed anonymously and Halliwell's 1861 reprint never names Penry, so the name check cannot pass. The attribution is the standard one; shelve with an _identity_checked note if Adam wants it on the scholars' word."
+ },
+ "_excluded": {
+  "threetreatisesco0000john (1960)": "Modern edition (Williams, Three Treatises concerning Wales)."
+ },
+ "_checks": {
+  "penry-aequity-1905": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "penry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

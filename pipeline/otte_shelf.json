@@ -1,0 +1,81 @@
+{
+ "_about": "TRANSLATOR SHELF: Elise C. Otté (1818-1903): Humboldt's Cosmos, vol. 1 (Bohn, 1849), and, with H. G. Bohn, his Views of Nature (1850). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "e. c. otté",
+  "e. c. otte",
+  "elise c. otté"
+ ],
+ "_surname": [
+  "e. c. otté",
+  "e. c. otte",
+  "elise c. otté"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "eco-14565": [
+   14565,
+   "Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1"
+  ],
+  "eco-67684": [
+   67684,
+   "Views of nature: or Contemplations on the sublime phenomena of creation with scientific illustrations"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "otte-humboldt-cosmos-a-sketch-of-the-physical-descript": {
+   "source": "eco-14565",
+   "of": "Alexander von Humboldt",
+   "work": "Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1",
+   "translated": "1849-1850 (see the Gutenberg header)",
+   "translator": "E. C. Otté",
+   "scan_edition": "Project Gutenberg 14565 (clean text)",
+   "note": "Gutenberg keyed this from the Johns Hopkins University Press 1997 reprint, a facsimile of the 1858 Harper & Brothers edition of Otté's translation (first published by Bohn, 1849). The 1997 introduction by Nicolaas Rupke was not copied; the text is the 1858 printing's."
+  },
+  "otte-humboldt-views-of-nature-or-contemplations-on-the": {
+   "source": "eco-67684",
+   "of": "Alexander von Humboldt",
+   "work": "Views of nature: or Contemplations on the sublime phenomena of creation with scientific illustrations",
+   "translated": "1849-1850 (see the Gutenberg header)",
+   "translator": "E. C. Otté (with Henry G. Bohn)",
+   "scan_edition": "Project Gutenberg 67684 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "eco-14565": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. c. otté",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. C. Otté"
+  },
+  "eco-67684": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. c. otté",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry G. Bohn; E. C. Otté"
+  }
+ },
+ "_verified": {
+  "eco-14565": {
+   "pg": 14565,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. C. Otté"
+  },
+  "eco-67684": {
+   "pg": 67684,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry G. Bohn"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

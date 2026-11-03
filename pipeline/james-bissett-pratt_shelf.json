@@ -1,0 +1,109 @@
+{
+ "_about": "James Bissett Pratt (1875-1944), Williams College philosopher of religion and critical realist. Raw IA OCR: The Psychology of Religious Belief (New York: Macmillan, 1907), clean 0.90; What is Pragmatism? (New York: Macmillan, 1909), clean 0.89; India and its Faiths, a traveler's record (Boston: Houghton Mifflin, 1915), clean 0.93; The Religious Consciousness (New York: Macmillan, 1920), clean 0.91; Matter and Spirit (New York: Macmillan, 1922), clean 0.92; The Pilgrimage of Buddhism and a Buddhist Pilgrimage (New York: Macmillan, 1928), clean 0.92. US public domain. No uids minted.",
+ "_author": "James Bissett Pratt",
+ "_name_words": [
+  "james",
+  "bissett",
+  "pratt"
+ ],
+ "_surname": [
+  "pratt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pratt-psychology-religious-belief-1907": [
+   "psychologyofreli00pratuoft",
+   "The Psychology of Religious Belief (Macmillan, 1907)"
+  ],
+  "pratt-what-is-pragmatism-1909": [
+   "cu31924029019417",
+   "What is Pragmatism? (Macmillan, 1909)"
+  ],
+  "pratt-india-and-its-faiths-1915": [
+   "indiaitsfaithstr00prat",
+   "India and its Faiths (Houghton Mifflin, 1915)"
+  ],
+  "pratt-religious-consciousness-1920": [
+   "religiousconsciou00prat",
+   "The Religious Consciousness (Macmillan, 1920)"
+  ],
+  "pratt-matter-and-spirit-1922": [
+   "matterspiritstud00prat",
+   "Matter and Spirit (Macmillan, 1922)"
+  ],
+  "pratt-pilgrimage-of-buddhism-1928": [
+   "pilgrimageofbudd0000jame",
+   "The Pilgrimage of Buddhism (Macmillan, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "pratt-psychology-religious-belief-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pratt-what-is-pragmatism-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pratt-india-and-its-faiths-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pratt-religious-consciousness-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pratt-matter-and-spirit-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pratt-pilgrimage-of-buddhism-1928": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Max A. Drezmal (1867-1947): Sienkiewicz's In Desert and Wilderness (1912) and Whirlpools (1910). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "max a. drezmal",
+  "drezmal"
+ ],
+ "_surname": [
+  "max a. drezmal",
+  "drezmal"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "drz-30365": [
+   30365,
+   "In Desert and Wilderness"
+  ],
+  "drz-37426": [
+   37426,
+   "Whirlpools: A Novel of Modern Poland"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "drezmal-sienkiewicz-in-desert-and-wilderness": {
+   "source": "drz-30365",
+   "of": "Henryk Sienkiewicz",
+   "work": "In Desert and Wilderness",
+   "translated": "1910-1912 (see the Gutenberg header)",
+   "translator": "Max A. Drezmal",
+   "scan_edition": "Project Gutenberg 30365 (clean text)"
+  },
+  "drezmal-sienkiewicz-whirlpools-a-novel-of-modern-poland": {
+   "source": "drz-37426",
+   "of": "Henryk Sienkiewicz",
+   "work": "Whirlpools: A Novel of Modern Poland",
+   "translated": "1910-1912 (see the Gutenberg header)",
+   "translator": "Max A. Drezmal",
+   "scan_edition": "Project Gutenberg 37426 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "drz-30365": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "max a. drezmal",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Max A. Drezmal"
+  },
+  "drz-37426": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "max a. drezmal",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Max A. Drezmal"
+  }
+ },
+ "_verified": {
+  "drz-30365": {
+   "pg": 30365,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Max A. Drezmal"
+  },
+  "drz-37426": {
+   "pg": 37426,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Max A. Drezmal"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

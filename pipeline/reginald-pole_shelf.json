@@ -1,0 +1,49 @@
+{
+ "_about": "Public-domain Cardinal Reginald Pole (1500-1558), the last Catholic archbishop of Canterbury, for the Word Hoard: A Treatie of Iustification found among his writings (Louvain, 1569) and his oration as translated by Fabyane Wythers (catalogued 1560), from Internet Archive scans of the early printed books. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pole"
+ ],
+ "_surname": [
+  "reginald pole",
+  "cardinal pole",
+  "cardinall pole",
+  "reynold pole",
+  "raynold pole"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pole-treatie-justification-1569": [
+   "bim_early-english-books-1475-1640_a-treatise-of-justificat_treatise_1569",
+   "A Treatie of Iustification, founde emong the writinges of Cardinal Pole (Lovanii: apud Ioannem Foulerum, 1569)"
+  ]
+ },
+ "_alternates": {
+  "pole-letters": "Nine Historical Letters of the Reign of Henry VIII (T. Richards, catalogued 1871): four writers, so not shelved here",
+  "pole-seditious-oration": "The seditious and blasphemous oration of Cardinal Pole, tr. Fabyane Wythers (catalogued 1560): its title page is unreadable OCR, so it is not shelved"
+ },
+ "_excluded": {
+  "pole-other": "Starkey's Dialogue (Starkey's work); Lives by Phillips, Beccadelli, Lee, Haile and Gasquet; De Unitate in English (first 1965)"
+ },
+ "_rights_checked": {
+  "pole-treatie-justification-1569": "title page read: translator not named; the volume also translates the decree of Trent on justification and passages of Augustine, Chrysostom, Basil, Leo and Cyprian"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "pole-treatie-justification-1569": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cardinal pole",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1569",
+   "ia_date": "1569",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the volume also translates the decree of Trent on justification and passages of Augustine, Chrysostom, Basil, Leo and Cyprian"
+  }
+ }
+}

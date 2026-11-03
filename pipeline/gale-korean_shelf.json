@@ -1,0 +1,40 @@
+{
+ "_about": "Korean Folk Tales: Imps, Ghosts and Fairies (1913), stories from the Korean collections of Im Bang (1640-1724) and Yi Ryuk (1438-1498), translated by James Scarth Gale (Gutenberg names the translator). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Im Bang and Yi Ryuk; tr. James S. Gale",
+ "_name_words": [
+  "gale"
+ ],
+ "_surname": [
+  "james scarth gale",
+  "james s. gale"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gale-korean-korean-folk-tales": [
+   51002,
+   "Korean Folk Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "gale-korean-korean-folk-tales": "Gale"
+ },
+ "_checks": {
+  "gale-korean-korean-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james scarth gale",
+   "translator_claimed": "Gale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Scarth Gale",
+   "translator_match": true
+  }
+ }
+}

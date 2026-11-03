@@ -1,0 +1,112 @@
+{
+ "_about": "Kate Langley Bosher: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Kate Langley Bosher",
+ "_name_words": [
+  "bosher",
+  "kate",
+  "langley"
+ ],
+ "_surname": [
+  "kate langley bosher",
+  "bosher"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "klbosher-miss-gibbie-gault": [
+   6075,
+   "Miss Gibbie Gault"
+  ],
+  "klbosher-man-in-lonely-land": [
+   12971,
+   "The Man in Lonely Land"
+  ],
+  "klbosher-people-like-that": [
+   12972,
+   "People Like That: A Novel"
+  ],
+  "klbosher-how-it-happened": [
+   14723,
+   "How It Happened"
+  ],
+  "klbosher-mary-cary": [
+   15571,
+   "Mary Cary: \"Frequently Martha\""
+  ],
+  "klbosher-kitty-canary": [
+   16946,
+   "Kitty Canary: A Novel"
+  ],
+  "klbosher-bobbie-a-story-of-the-confederacy": [
+   67150,
+   "\"Bobbie\", a Story of the Confederacy"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "klbosher-miss-gibbie-gault": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate langley bosher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "klbosher-man-in-lonely-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate langley bosher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "klbosher-people-like-that": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate langley bosher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "klbosher-how-it-happened": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate langley bosher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "klbosher-mary-cary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate langley bosher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "klbosher-kitty-canary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate langley bosher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "klbosher-bobbie-a-story-of-the-confederacy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate langley bosher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "_about": "Peter Kropotkin (1842-1921), from Project Gutenberg: Mutual Aid, a Factor of Evolution (1902), Fields, Factories and Workshops, new revised and enlarged edition (Putnam, 1913), and The Conquest of Bread (New York: Vanguard Press, 1926). All published before 1930, so US public domain. Not taken: Russian Literature and the Memoirs of a Revolutionist (literature and autobiography, left for other shelves). No uids minted.",
+ "_author": "Peter Kropotkin",
+ "_name_words": [
+  "peter",
+  "petr",
+  "p",
+  "kropotkin",
+  "prince"
+ ],
+ "_surname": [
+  "kropotkin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kropotkin-mutual-aid-1902": [
+   4341,
+   "Mutual Aid: a factor of evolution (1902)"
+  ],
+  "kropotkin-fields-factories-workshops-1913": [
+   64353,
+   "Fields, Factories and Workshops, new, revised and enlarged edition (New York: Putnam, 1913)"
+  ],
+  "kropotkin-conquest-of-bread-1926": [
+   23428,
+   "The Conquest of Bread (New York: Vanguard Press, 1926)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "kropotkin-mutual-aid-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kropotkin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kropotkin-fields-factories-workshops-1913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kropotkin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kropotkin-conquest-of-bread-1926": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kropotkin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: William Robson (1785-1863): Michaud's History of the Crusades (Routledge, 1852; this edition 1881, 3 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "w. robson",
+  "william robson"
+ ],
+ "_surname": [
+  "w. robson",
+  "william robson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rob-49104": [
+   49104,
+   "The History of the Crusades (vol. 1 of 3)"
+  ],
+  "rob-49118": [
+   49118,
+   "The History of the Crusades (vol. 2 of 3)"
+  ],
+  "rob-49167": [
+   49167,
+   "The History of the Crusades (vol. 3 of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "robson-michaud-michaud-the-history-of-the-crusades-vol-1-of-3": {
+   "source": "rob-49104",
+   "of": "J. Fr. (Joseph Fr.) Michaud",
+   "work": "The History of the Crusades (vol. 1 of 3)",
+   "translated": "1852 (see the Gutenberg header)",
+   "translator": "William Robson",
+   "scan_edition": "Project Gutenberg 49104 (clean text)"
+  },
+  "robson-michaud-michaud-the-history-of-the-crusades-vol-2-of-3": {
+   "source": "rob-49118",
+   "of": "J. Fr. (Joseph Fr.) Michaud",
+   "work": "The History of the Crusades (vol. 2 of 3)",
+   "translated": "1852 (see the Gutenberg header)",
+   "translator": "William Robson",
+   "scan_edition": "Project Gutenberg 49118 (clean text)"
+  },
+  "robson-michaud-michaud-the-history-of-the-crusades-vol-3-of-3": {
+   "source": "rob-49167",
+   "of": "J. Fr. (Joseph Fr.) Michaud",
+   "work": "The History of the Crusades (vol. 3 of 3)",
+   "translated": "1852 (see the Gutenberg header)",
+   "translator": "William Robson",
+   "scan_edition": "Project Gutenberg 49167 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rob-49104": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. robson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Robson"
+  },
+  "rob-49118": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. robson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Robson"
+  },
+  "rob-49167": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. robson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Robson"
+  }
+ },
+ "_verified": {
+  "rob-49104": {
+   "pg": 49104,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Robson"
+  },
+  "rob-49118": {
+   "pg": 49118,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Robson"
+  },
+  "rob-49167": {
+   "pg": 49167,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Robson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

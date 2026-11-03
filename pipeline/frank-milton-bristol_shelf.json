@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain Frank Milton Bristol, Methodist Episcopal bishop, for the Word Hoard: Providential Epochs, The Ministry of Art, The Religious Instinct of Man, The Life of Chaplain McCabe, Heroines of History, and a funeral sermon. His Shakespeare studies are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 126 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "frank milton bristol",
+  "frank m. bristol",
+  "f. m. bristol",
+  "bishop bristol",
+  "bristol"
+ ],
+ "_surname": [
+  "bristol"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bristol-funeral-hayes": [
+   "sermonpreachedat00bris",
+   "Sermon preached at the funeral of Samuel J. Hayes, superintendent of machinery of the Illinois Central R.R., September 25, A.D. 1882 (Chicago : Rand, McNally & Co., printers, 1882)"
+  ],
+  "bristol-providential-epochs": [
+   "providentialepoc00bris",
+   "Providential epochs (Cincinnati, Cranston & Curts; New York, Hunt & Eaton, 1894)"
+  ],
+  "bristol-ministry-of-art": [
+   "ministryofart0000bris",
+   "The ministry of art (Cincinnati, Curts & Jennings, 1897)"
+  ],
+  "bristol-religious-instinct": [
+   "religiousinstinc00bris",
+   "The religious instinct of man (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1904)"
+  ],
+  "bristol-mccabe": [
+   "lifeofchaplainmc0000bris",
+   "The life of Chaplain McCabe : bishop of the Methodist Episcopal Church (Cincinnati : Jennings and Graham ; New York : Eaton & Mains, 1908)"
+  ],
+  "bristol-heroines": [
+   "cu31924031449147",
+   "Heroines of history : typical heroines of mythology of Shakespeare, of the Bible (New York : Abingdon Press, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bristol-shakespeare": "Richard the Third and the Primrose Criticism and Shakespeare and America are literary studies",
+  "bristol-mccabe-dup": "lifeofchaplainmc0000fran, a second scan"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "bristol-asbury": "Francis Asbury, Centennial Addresses (1917), IA francisasburycen00roge: addresses by several men (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "bristol-funeral-hayes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bristol",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bristol-providential-epochs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bristol",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bristol-ministry-of-art": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bristol",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bristol-religious-instinct": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bristol",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bristol-mccabe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bristol",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bristol-heroines": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bristol",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

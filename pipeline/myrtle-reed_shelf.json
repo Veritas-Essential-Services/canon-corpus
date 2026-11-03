@@ -1,0 +1,201 @@
+{
+ "_about": "Myrtle Reed's novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Myrtle Reed",
+ "_name_words": [
+  "myrtle",
+  "reed"
+ ],
+ "_surname": [
+  "myrtle reed"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mreed-lavender-and-old-lace": [
+   1266,
+   "Lavender and Old Lace"
+  ],
+  "mreed-old-rose-and-silver": [
+   5401,
+   "Old Rose and Silver"
+  ],
+  "mreed-spinner-in-the-sun": [
+   12672,
+   "A Spinner in the Sun"
+  ],
+  "mreed-flower-of-the-dusk": [
+   18057,
+   "Flower of the Dusk"
+  ],
+  "mreed-spinster-book": [
+   18071,
+   "The Spinster Book"
+  ],
+  "mreed-how-to-cook-fish": [
+   18542,
+   "How to Cook Fish"
+  ],
+  "mreed-at-the-sign-of-the-jack-olantern": [
+   26673,
+   "At the Sign of the Jack O'Lantern"
+  ],
+  "mreed-master-of-the-vineyard": [
+   27661,
+   "Master of the Vineyard"
+  ],
+  "mreed-threads-of-grey-and-gold": [
+   31272,
+   "Threads of Grey and Gold"
+  ],
+  "mreed-masters-violin": [
+   33601,
+   "The Master's Violin"
+  ],
+  "mreed-myrtle-reed-cook-book": [
+   37680,
+   "The Myrtle Reed Cook Book"
+  ],
+  "mreed-shadow-of-victory": [
+   42894,
+   "The Shadow of Victory: A Romance of Fort Dearborn"
+  ],
+  "mreed-white-shield": [
+   47385,
+   "The White Shield"
+  ],
+  "mreed-book-of-clever-beasts": [
+   53812,
+   "The Book of Clever Beasts: Studies in Unnatural History"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mreed-lavender-and-old-lace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-old-rose-and-silver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-spinner-in-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-flower-of-the-dusk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-spinster-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-how-to-cook-fish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-at-the-sign-of-the-jack-olantern": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-master-of-the-vineyard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-threads-of-grey-and-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-masters-violin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-myrtle-reed-cook-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-shadow-of-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-white-shield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreed-book-of-clever-beasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myrtle reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

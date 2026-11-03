@@ -1,0 +1,35 @@
+{
+ "_about": "Public-domain William Wilberforce (1759-1833, evangelical member of Parliament, leader of the campaign against the slave trade) for the Word Hoard: A Practical View of the Prevailing Religious System of Professed Christians, in the Middle and Higher Classes in this Country, Contrasted with Real Christianity (1797), clean from Project Gutenberg. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "wilberforce",
+  "william"
+ ],
+ "_surname": [
+  "william wilberforce",
+  "w. wilberforce"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "wilberforce-practical-view": [
+   "25709",
+   "A Practical View of the Prevailing Religious System of Professed Christians"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "wilberforce-practical-view": "IA printings 1811-1865 (e.g. practicalviewoft014421mbp, 23rd edition, 1865)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "wilberforce-practical-view": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william wilberforce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

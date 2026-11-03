@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain Jacob Duché, rector of Christ Church and St Peter's, Philadelphia, chaplain to the Continental Congress, and later chaplain of the Asylum for Female Orphans in Lambeth, for the Word Hoard: The Life and Death of the Righteous, Human Life a Pilgrimage, The Duty of Standing Fast in our Spiritual and Temporal Liberties, his Discourses on Various Subjects, a London sermon of 1781, and his letter to General Washington. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 128 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jacob duché",
+  "jacob duche",
+  "j. duché",
+  "duché",
+  "duche"
+ ],
+ "_surname": [
+  "duché",
+  "duche"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "duche-righteous": [
+   "bim_early-english-books-1641-1700_jacob-duche_1763",
+   "The life and death of the righteous.  1763 (catalogued 1763)"
+  ],
+  "duche-pilgrimage": [
+   "bim_eighteenth-century_human-life-a-pilgrimage_duche-jacob_1771",
+   "Human life a pilgrimage: or the Christian a stranger and sojourner upon earth: a sermon occasioned by the death of ... Richard Penn, ... By ... Jacob Duche, M.A.  1771 (catalogued 1771)"
+  ],
+  "duche-standing-fast": [
+   "bim_eighteenth-century_the-duty-of-standing-fas_duch-jacob_1775",
+   "The duty of standing fast in our spiritual and temporal liberties, a sermon, preached in Christ-church, July 7th, 1775, before the First battalion of the city and liberties of Philadelphia; ... By the Reverend Jacob Duché, M.A.  1775 (catalogued 1775)"
+  ],
+  "duche-discourses-1": [
+   "discoursesonvari01duch_0",
+   "Discourses on various subjects, by Jacob Duché, vol. 1 (London : printed by J. Phillips; and sold by T. Cadell; H. Payne; C. Dilly; and J. Phillips, 1779)"
+  ],
+  "duche-discourses-2": [
+   "bim_eighteenth-century_discourses-on-various-su_duch-jacob_1779_2",
+   "Discourses on various subjects, by Jacob Duché, ...  1779: Vol 2, vol. 2 (catalogued 1779)"
+  ],
+  "duche-st-dunstan-1781": [
+   "bim_eighteenth-century_a-sermon-preached-at-st_duch-jacob_1781",
+   "A sermon preached at St. Dunstan's in the West, on Sunday, April 29, and at St. Mary Abbotts, Kensington, on Sunday, July 15, 1781, for the benefit of the Humane Society, instituted for the recovery of persons apparently dead by drowning. By Jacob Duché, M.A. ...  1781 (catalogued 1781)"
+  ],
+  "duche-letter-washington": [
+   "duchlettertoge00duch",
+   "The Duché letter to General Washington ([Philadelphia : s.n., 1892)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "duche-american-vine": "wsb4f13_images has page images but no text",
+  "duche-others": "Anti-Paedo-Rantism is by Abel Morgan; Washington at Valley Forge is a collection",
+  "duche-dups": "other scans and the second edition of the Discourses"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "duche-pilgrimage": {
+   "author": "Title page read from the page image: \"Human Life a Pilgrimage: or, the Christian a Stranger and Sojourner upon Earth: A Sermon, Occasioned by the Death of the Hon. Richard Penn, Esq ... By the Reverend Jacob Duché, M.A. Philadelphia ... MDCCLXXI.\"",
+   "title": "Title page read from the page image: \"Human Life a Pilgrimage: or, the Christian a Stranger and Sojourner upon Earth: A Sermon, Occasioned by the Death of the Hon. Richard Penn, Esq ... By the Reverend Jacob Duché, M.A. Philadelphia ... MDCCLXXI.\""
+  }
+ },
+ "_pending": {
+  "duche-caspipina": "Observations on a Variety of Subjects / Caspipina's Letters (1774, 1777), IA bim_eighteenth-century_observations-on-a-variet_duch-jacob_1774: published under the pen-name Tamoc Caspipina; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "duche-righteous": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duche",
+   "identity": "ok",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duche-pilgrimage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duche-standing-fast": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duche",
+   "identity": "ok",
+   "ia_rights": "ok: published 1775",
+   "ia_date": "1775",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duche-discourses-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duche",
+   "identity": "ok",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duche-discourses-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duche",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duche-st-dunstan-1781": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duche",
+   "identity": "ok",
+   "ia_rights": "ok: published 1781",
+   "ia_date": "1781",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duche-letter-washington": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duche",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

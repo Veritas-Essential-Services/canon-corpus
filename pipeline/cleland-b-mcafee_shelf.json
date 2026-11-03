@@ -1,0 +1,253 @@
+{
+ "_about": "Public-domain Cleland Boyd McAfee (1866-1944), Presbyterian pastor, McCormick Seminary professor and hymn writer, for the Word Hoard: Where He Is, The Growing Church, The Worth of a Man, The Mosaic Law in Modern Life, Studies in the Sermon on the Mount, The Greatest English Classic, His Peace, The Old and the New in Theology, The Westminster Confession and the Present Task of the Church, Psalms of the Social Life, The Christian Faith and the New Day, The Christian Conviction, Changing Foreign Missions, Ministerial Practices, and The Christian Message and Program. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 99 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cleland boyd mcafee",
+  "cleland b. mcafee",
+  "c. b. mcafee",
+  "mcafee"
+ ],
+ "_surname": [
+  "cleland boyd mcafee",
+  "cleland b. mcafee",
+  "c. b. mcafee",
+  "mcafee"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcafee-where-he-is": [
+   "whereheis00mcaf",
+   "Where He is (Chicago, New York [etc.], Fleming H. Revell Company, 1899)"
+  ],
+  "mcafee-growing-church": [
+   "growingchurchstu00mcaf",
+   "The growing church : a study for the times (Chicago : Winona Publishing Company, 1903)"
+  ],
+  "mcafee-worth-of-man": [
+   "worthofman00mcaf",
+   "The worth of a man (Chicago, Ill., Winona Lake, Ind., The Winona publishing company, 1903)"
+  ],
+  "mcafee-mosaic-law": [
+   "mosaiclawinmoder00mcafrich",
+   "The Mosaic law in modern life (New York : F.H. Revell, c190)"
+  ],
+  "mcafee-sermon-on-mount": [
+   "studiesinsermono0000clel",
+   "Studies in the Sermon On the Mount (catalogued 1910)"
+  ],
+  "mcafee-greatest-english-classic": [
+   "greatestenglishckjv00mcaf",
+   "The greatest English classic; a study of the King James version of the Bible and its influence on life and literature (New York, Harper, 1912)"
+  ],
+  "mcafee-his-peace": [
+   "hispeace00mcaf",
+   "\"His peace,\" (New York, Chicago [etc.] Fleming H. Revell company, 1913)"
+  ],
+  "mcafee-old-new-theology": [
+   "oldnewintheology00mcaf",
+   "The old and the new in theology : an address (New York : [publisher not identified], 1913)"
+  ],
+  "mcafee-westminster-confession": [
+   "westminsterconfe0000mcaf",
+   "The Westminster confession of faith and the present task of the church (New York, Chicago [etc.] Fleming H. Revell company, 1913)"
+  ],
+  "mcafee-psalms-social-life": [
+   "psalmsofsocialli00mcaf",
+   "Psalms of the social life (New York [etc.] Association press, 1917)"
+  ],
+  "mcafee-faith-new-day": [
+   "christianfaithne00mcaf",
+   "The Christian faith and the new day (New York : Macmillan, 1920)"
+  ],
+  "mcafee-christian-conviction": [
+   "christianconvict0000clel",
+   "The Christian conviction: lectures on the Joseph Cook Foundation, 1924-25 (Macmillan, 1926)"
+  ],
+  "mcafee-foreign-missions": [
+   "changingforeignm00mcaf",
+   "Changing foreign missions; a revaluation of the church's greatest enterprise (New York ; Chicago [etc.] : Fleming H. Revell company, 1927)"
+  ],
+  "mcafee-ministerial-practices": [
+   "ministerialpract0000mcaf",
+   "Ministerial practices, some fraternal suggestions (New York, London, Harper & brothers, 1928)"
+  ],
+  "mcafee-message-program": [
+   "christianmessage00mcaf",
+   "The Christian message and program, twelve studies for class use or personal reading (Philadelphia : Printed for the Leadership training publishing association by the Westminster press, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcafee-where-he-is": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland b. mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcafee-growing-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcafee-worth-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcafee-mosaic-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "c1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcafee-sermon-on-mount": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcafee-greatest-english-classic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcafee-his-peace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcafee-old-new-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcafee-westminster-confession": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcafee-psalms-social-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcafee-faith-new-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcafee-christian-conviction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcafee-foreign-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcafee-ministerial-practices": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland b. mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcafee-message-program": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleland boyd mcafee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

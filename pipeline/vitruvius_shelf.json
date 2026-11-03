@@ -1,0 +1,59 @@
+{
+ "_about": "Vitruvius, The Ten Books on Architecture, in Morris Hicky Morgan's translation (1914), clean Gutenberg.",
+ "_name_words": [
+  "vitruvius",
+  "architecture"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "vitruvius-morgan": [
+   20239,
+   "The Ten Books on Architecture",
+   "tr. Morris Hicky Morgan"
+  ]
+ },
+ "internet_archive": {
+  "vitruvius-gwilt-1826": [
+   "architectureofma00vitruoft",
+   "The Architecture of Marcus Vitruvius Pollio, in Ten Books (London, Priestley and Weale, 1826)",
+   "tr. Joseph Gwilt"
+  ]
+ },
+ "_excluded": {
+  "Perrault's abridgment (PG 27877)": "an abridgment; not taken",
+  "W. Newton, The Architecture of M. Vitruvius Pollio (1791, 2 vols.)": "PD; the only scans found (IA bim_eighteenth-century_de-architectura-englis_vitruvius_1791_1 and _2, ECCO) read 0.659 and 0.720; refused for OCR quality 2026-10-10"
+ },
+ "_surname": [
+  "vitruvius"
+ ],
+ "_translators": {
+  "vitruvius-morgan": "Morris Hicky Morgan",
+  "vitruvius-gwilt-1826": "Joseph Gwilt"
+ },
+ "_checks": {
+  "vitruvius-morgan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vitruvius",
+   "translator_claimed": "Morris Hicky Morgan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vitruvius-gwilt-1826": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vitruvius",
+   "translator_claimed": "Joseph Gwilt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "_about": "Fred M. White's mystery and adventure novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Fred M. White",
+ "_name_words": [
+  "fred",
+  "merrick",
+  "white"
+ ],
+ "_surname": [
+  "fred m. white",
+  "fred white",
+  "merrick white"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fmwhite-crimson-blind": [
+   9832,
+   "The Crimson Blind"
+  ],
+  "fmwhite-mystery-of-the-four-fingers": [
+   9853,
+   "The Mystery of the Four Fingers"
+  ],
+  "fmwhite-slave-of-silence": [
+   27395,
+   "The Slave of Silence"
+  ],
+  "fmwhite-hard-pressed": [
+   33512,
+   "Hard Pressed"
+  ],
+  "fmwhite-weight-of-the-crown": [
+   36511,
+   "The Weight of the Crown"
+  ],
+  "fmwhite-five-knots": [
+   43492,
+   "The Five Knots"
+  ],
+  "fmwhite-cardinal-moth": [
+   43674,
+   "The Cardinal Moth"
+  ],
+  "fmwhite-mystery-of-the-ravenspurs-a-romance-and-detective-st": [
+   48882,
+   "The Mystery of the Ravenspurs A Romance and Detective Story of Thibet and England"
+  ],
+  "fmwhite-sundial": [
+   55006,
+   "The Sundial"
+  ],
+  "fmwhite-midnight-guest": [
+   56960,
+   "The Midnight Guest: A Detective Story"
+  ],
+  "fmwhite-corner-house": [
+   57066,
+   "The Corner House"
+  ],
+  "fmwhite-nether-millstone": [
+   57312,
+   "The Nether Millstone"
+  ],
+  "fmwhite-yellow-face": [
+   57314,
+   "The Yellow Face"
+  ],
+  "fmwhite-doom-of-london": [
+   57904,
+   "The Doom of London"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fmwhite-crimson-blind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-mystery-of-the-four-fingers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-slave-of-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-hard-pressed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-weight-of-the-crown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-five-knots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-cardinal-moth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-mystery-of-the-ravenspurs-a-romance-and-detective-st": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-sundial": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-midnight-guest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-corner-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-nether-millstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-yellow-face": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmwhite-doom-of-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred m. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

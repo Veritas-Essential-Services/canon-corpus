@@ -1,0 +1,94 @@
+{
+ "_about": "Cyril Edwin Mitchinson Joad (1891-1953), English popular philosopher. He died in 1953, but every book here was published before 1930. Raw IA OCR: Essays in Common-Sense Philosophy (New York: Harcourt, Brace and Howe, 1920); Common-Sense Ethics (London: Methuen, first published 1921); Mind and Matter (Putnam, 1925); Matter, Life and Value (Oxford University Press, 1929). Project Gutenberg: Thrasymachus, or the future of morals (New York: Dutton, copyright 1926, first printing December 1925; PG 74315). Held: Introduction to Modern Philosophy (Oxford, 1924); both scans found are reprints of 1934 or later. US public domain. No uids minted.",
+ "_author": "C. E. M. Joad",
+ "_name_words": [
+  "cyril",
+  "edwin",
+  "mitchinson",
+  "joad"
+ ],
+ "_surname": [
+  "joad"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "joad-thrasymachus-1926": [
+   74315,
+   "Thrasymachus, or the future of morals (Dutton, 1926)"
+  ]
+ },
+ "internet_archive": {
+  "joad-essays-in-common-sense-philosophy-1920": [
+   "essaysincommonse0000cemj_c3h7",
+   "Essays in Common-Sense Philosophy (Harcourt, Brace and Howe, 1920)"
+  ],
+  "joad-common-sense-ethics-1921": [
+   "commonsenseethic00joaduoft",
+   "Common-Sense Ethics (Methuen, 1921)"
+  ],
+  "joad-mind-and-matter-1925": [
+   "mindmatter0000cemj",
+   "Mind and Matter (Putnam, 1925)"
+  ],
+  "joad-matter-life-and-value-1929": [
+   "in.ernet.dli.2015.209760",
+   "Matter, Life and Value (Oxford University Press, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "joad-thrasymachus-1926": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joad-essays-in-common-sense-philosophy-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joad",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "joad-common-sense-ethics-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joad",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "joad-mind-and-matter-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joad",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "joad-matter-life-and-value-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joad",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

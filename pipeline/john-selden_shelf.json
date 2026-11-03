@@ -1,0 +1,33 @@
+{
+ "_about": "John Selden (1584-1654), jurist and antiquary: Table-Talk, being the discourses of John Selden, collected by Richard Milward, from the first edition of 1689, edited by Edward Arber, English Reprints no. 6 (London, June 1868), raw IA OCR, clean 0.90. US public domain. No uids minted.",
+ "_author": "John Selden",
+ "_name_words": [
+  "john",
+  "selden"
+ ],
+ "_surname": [
+  "selden"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "selden-table-talk-arber-1868": [
+   "tabletalk00arbegoog",
+   "Table-Talk (1689), ed. Edward Arber, English Reprints no. 6 (London, 1868)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "selden-table-talk-arber-1868": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "selden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

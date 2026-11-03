@@ -1,0 +1,146 @@
+{
+ "_about": "Public-domain Foster Barham Zincke (1817-1893), vicar of Wherstead, Suffolk, and chaplain to the Queen, for the Word Hoard: The Duty and the Discipline of Extemporary Preaching, Some Thoughts about the School of the Future, Last Winter in the United States, his travel books on Egypt and Switzerland, and his history of Wherstead. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 110 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "f. barham zincke",
+  "foster barham zincke",
+  "zincke"
+ ],
+ "_surname": [
+  "f. barham zincke",
+  "foster barham zincke",
+  "zincke"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zincke-school-future": [
+   "somethoughtsabou00zincrich",
+   "Some thoughts about the school of the future: a sketch of the solution which time appears to be preparing for the difficult educational questions of the day (London, Longmans, 1852)"
+  ],
+  "zincke-extemporary-preaching": [
+   "dutydisciplineof00zinc",
+   "The duty and the discipline of extemporary preaching (New York, C. Scribner & Co., 1867)"
+  ],
+  "zincke-last-winter": [
+   "lastwinterin00zincrich",
+   "Last winter in the United States; being table talk collected during a tour through the late Southern Confederation, the Far West, the Rocky Mountains, &c (London, J. Murray, 1868)"
+  ],
+  "zincke-egypt": [
+   "egyptofpharaohso00zinc",
+   "Egypt of the Pharaohs and of the kedivé (London Smith, Elder, 1873)"
+  ],
+  "zincke-month-switzerland": [
+   "monthinswitzerla00zincuoft",
+   "A month in Switzerland (London, Smith, 1873)"
+  ],
+  "zincke-swiss-allmends": [
+   "swissallmendsand00zincrich",
+   "Swiss allmends and a walk to see them, being a second month in Switzerland (London, Eng. : Smith, Elder, 1874)"
+  ],
+  "zincke-grisons": [
+   "walkingrisonsbei00zincuoft",
+   "A walk in the Grisons, being a third month in Switzerland (London, Smith, 1875)"
+  ],
+  "zincke-wherstead": [
+   "somematerialsfor00zinc",
+   "Some materials for the history of Wherstead (Ipswich : Read & Barrett, 1887)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "zincke-school-future": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "foster barham zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zincke-extemporary-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. barham zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zincke-last-winter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zincke-egypt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. barham zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zincke-month-switzerland": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. barham zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zincke-swiss-allmends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. barham zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zincke-grisons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. barham zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zincke-wherstead": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. barham zincke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

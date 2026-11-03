@@ -1,0 +1,87 @@
+{
+ "_about": "Peter Martyr Vermigli (1499-1562), Florentine Reformer, Regius Professor at Oxford under Edward VI, later at Strasbourg and Zurich: The Common Places, translated and partly gathered by Anthonie Marten (London, 1583); Most Learned and Fruitfull Commentaries upon the Epistle of S. Paul to the Romanes (London, 1568); and Most Fruitfull and Learned Comentaries upon the Booke of Judges (London, 1564). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "peter martyr",
+  "petrus martyr",
+  "petri martyris",
+  "p. martyr",
+  "vermilius",
+  "vermilii",
+  "vermigli",
+  "martyr vermilius"
+ ],
+ "_surname": [
+  "peter martyr",
+  "petrus martyr",
+  "petri martyris",
+  "p. martyr",
+  "vermilius",
+  "vermilii",
+  "vermigli",
+  "martyr vermilius"
+ ],
+ "_translators": {
+  "vermigli-common-places-1583": "Anthonie Marten"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vermigli-common-places-1583": [
+   "bim_early-english-books-1475-1640_the-common-places-of-_vermigli-pietro-martine_1583",
+   "The Common Places of Doctor Peter Martyr, tr. Anthonie Marten (London, 1583)"
+  ],
+  "vermigli-romans-1568": [
+   "bim_early-english-books-1475-1640_most-learned-and-fruitfu_vermigli-pietro-martire_1568",
+   "Most Learned and Fruitfull Commentaries upon the Epistle of S. Paul to the Romanes (London, 1568)"
+  ],
+  "vermigli-judges-1564": [
+   "bim_early-english-books-1475-1640_most-fruitfull-and-learn_vermigli-pietro-martire_1564",
+   "Most Fruitfull and Learned Comentaries upon the Booke of Judges (London, 1564)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_most-fruitfull-learned_vermigli-pietro-martire_1564": "Another copy of Judges.",
+  "bim_early-english-books-1475-1640_vermilii-loci-communes-_vermigli-p-m_1583": "The Latin Loci Communes (1583)."
+ },
+ "_pending": {
+  "bim_early-english-books-1475-1640_a-discourse-concernyn_vermigli-pietro-m_1550 (on the Lord's Supper, 1550), most-godly-prayers-_vermigli-pietro-martire_1569": "Shorter works, not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "vermigli-common-places-1583": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "peter martyr",
+   "translator_claimed": "Anthonie Marten",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1583",
+   "ia_date": "1583",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vermigli-romans-1568": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vermilius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1568",
+   "ia_date": "1568",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vermigli-judges-1564": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "peter martyr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1564",
+   "ia_date": "1564",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

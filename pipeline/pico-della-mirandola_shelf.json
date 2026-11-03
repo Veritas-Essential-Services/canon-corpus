@@ -1,0 +1,45 @@
+{
+ "_about": "Giovanni Pico della Mirandola (1463-1494), raw IA OCR: A Platonick Discourse upon Love, in Thomas Stanley's translation (1651), edited by Edmund G. Gardner, The Humanist's Library (London: Grant Richards; copyright 1914 by D. B. Updike). US public domain. No uids minted.",
+ "_author": "Giovanni Pico della Mirandola",
+ "_name_words": [
+  "giovanni",
+  "pico",
+  "della",
+  "mirandola",
+  "john",
+  "picus",
+  "mirandula"
+ ],
+ "_surname": [
+  "pico",
+  "mirandola"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pico-stanley-platonick-discourse-upon-love-1914": [
+   "platonickdiscour00picouoft",
+   "A Platonick Discourse upon Love, ed. Edmund G. Gardner (London: Grant Richards, 1914)",
+   "tr. Thomas Stanley"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "pico-stanley-platonick-discourse-upon-love-1914": "Stanley"
+ },
+ "_checks": {
+  "pico-stanley-platonick-discourse-upon-love-1914": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pico",
+   "translator_claimed": "Stanley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

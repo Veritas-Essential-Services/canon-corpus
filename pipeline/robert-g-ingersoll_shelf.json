@@ -1,0 +1,175 @@
+{
+ "_about": "Robert G. Ingersoll (1833-1899), American agnostic orator and freethinker. Gutenberg: The Works of Robert G. Ingersoll, Dresden Edition, vol. 1 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 2 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 3 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 4 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 5 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 6 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 7 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 8 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 9 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 10 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 11 of 12 (1900); The Works of Robert G. Ingersoll, Dresden Edition, vol. 12 of 12 (1900). The many single lectures on Gutenberg are contained in these twelve volumes and are not added separately. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Robert G. Ingersoll",
+ "_name_words": [
+  "robert",
+  "green",
+  "ingersoll"
+ ],
+ "_surname": [
+  "ingersoll"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ingersoll-works-dresden-01": [
+   38801,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 1 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-02": [
+   38802,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 2 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-03": [
+   38803,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 3 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-04": [
+   38804,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 4 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-05": [
+   38805,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 5 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-06": [
+   38806,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 6 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-07": [
+   38807,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 7 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-08": [
+   38808,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 8 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-09": [
+   38809,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 9 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-10": [
+   38810,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 10 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-11": [
+   38811,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 11 of 12 (1900)"
+  ],
+  "ingersoll-works-dresden-12": [
+   38812,
+   "The Works of Robert G. Ingersoll, Dresden Edition, vol. 12 of 12 (1900)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ingersoll-works-dresden-01": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-02": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-03": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-04": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-05": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-06": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-07": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-08": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-09": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-10": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-11": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingersoll-works-dresden-12": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ingersoll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

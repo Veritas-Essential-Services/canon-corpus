@@ -1,0 +1,48 @@
+{
+ "_about": "Public-domain Augustin Poulain (1836-1919, Jesuit) in English for the Word Hoard: The Graces of Interior Prayer, a Treatise on Mystical Theology, tr. Leonora L. Yorke Smith from the sixth edition (London: Kegan Paul, 1910), from an Internet Archive scan. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "poulain"
+ ],
+ "_surname": [
+  "poulain",
+  "aug. poulain"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "poulain-graces-interior-prayer": [
+   "gracesofinterior0000poul",
+   "The Graces of Interior Prayer, tr. Leonora L. Yorke Smith (London: Kegan Paul, Trench, Trübner, 1910)"
+  ]
+ },
+ "_alternates": {
+  "poulain-copies": "Another 1910 copy; the 1911 Herder issue"
+ },
+ "_excluded": {
+  "poulain-later": "The revision to the tenth French edition (1950) and later printings, one catalogued 1910 in error"
+ },
+ "_identity_checked": {
+  "poulain-graces-interior-prayer": "title page read: 'BY R. P. AUG. POULAIN, S.J.' (garbled in this copy's OCR)"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "poulain-graces-interior-prayer": "smith"
+ },
+ "_checks": {
+  "poulain-graces-interior-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "poulain",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

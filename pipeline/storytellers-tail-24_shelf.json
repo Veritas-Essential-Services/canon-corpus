@@ -1,0 +1,527 @@
+{
+ "_about": "Storytellers' tail, group 24: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Julius Chambers, Edgar Chambless, Katherine Chandler, S. E. Chapman, Jennie Chappell, J. Smeaton Chase, Clara de Chatelain, H. C. Chatfield-Taylor, Frank H. Cheley, H. V. Cheney, Victor Cherbuliez, George Tomkyns Chesney, Greville John Chester, Frank Samuel Child, Richard Washburn Child, Charlotte E. Chittenden, William Harvey Christie, Henry Martyn Cist, Felicia Buttz Clark, Mary Clark, Thomas M. Clark, William H. Clark, Benjamin Clarke, Laurence Clarke, Marcus Andrew Hislop Clarke, Mary Cowden Clarke, William Clarke, E. H. Clement, Coates, Sylvanus Cobb. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 24 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jchambers-in-sargasso-missing-a-romance": [
+   "julius chambers",
+   "chambers"
+  ],
+  "echambless-roadtown": [
+   "edgar chambless",
+   "chambless"
+  ],
+  "kchandler-bird-woman-of-the-lewis-and-clark-expedition": [
+   "katherine chandler",
+   "chandler"
+  ],
+  "sechapman-doctor-jones-picnic": [
+   "s. e. chapman",
+   "samuel e. chapman",
+   "chapman"
+  ],
+  "jchappell-youngest-princess": [
+   "jennie chappell",
+   "chappell"
+  ],
+  "jschase-penance-of-magdalena-and-other-tales-of-the-californ": [
+   "j. smeaton chase",
+   "joseph smeaton chase",
+   "chase"
+  ],
+  "cdchatelain-up-horsie-an-original-fairy-tale": [
+   "clara de chatelain",
+   "chatelain"
+  ],
+  "hcchatfieldtay-with-edge-tools": [
+   "h. c. chatfield-taylor",
+   "hobart chatfield chatfield-taylor",
+   "chatfield-taylor"
+  ],
+  "fhcheley-buffalo-roost": [
+   "frank h. cheley",
+   "frank howbert cheley",
+   "cheley"
+  ],
+  "hvcheney-rivals-of-acadia-an-old-story-of-the-new-world": [
+   "h. v. cheney",
+   "harriet vaughan cheney",
+   "cheney"
+  ],
+  "vcherbuliez-samuel-brohl-and-company": [
+   "victor cherbuliez",
+   "cherbuliez"
+  ],
+  "gtchesney-battle-of-dorking": [
+   "george tomkyns chesney",
+   "chesney"
+  ],
+  "gjchester-evelyn-manwaring": [
+   "greville john chester",
+   "chester"
+  ],
+  "fschild-house-with-sixty-closets": [
+   "frank samuel child"
+  ],
+  "rwchild-blue-wall": [
+   "richard washburn child"
+  ],
+  "cechittenden-what-two-children-did": [
+   "charlotte e. chittenden",
+   "charlotte elizabeth chittenden",
+   "chittenden"
+  ],
+  "whchristie-love-story": [
+   "william harvey christie",
+   "christie"
+  ],
+  "hmcist-army-of-the-cumberland": [
+   "henry martyn cist"
+  ],
+  "fbclark-virgilia": [
+   "felicia buttz clark"
+  ],
+  "mclark-early-life-of-washington-designed-for-the-instruction": [
+   "mary clark"
+  ],
+  "tmclark-john-whopper-the-newsboy": [
+   "thomas m. clark",
+   "thomas march clark"
+  ],
+  "whclark-reminiscences-of-the-thirty-fourth-regiment-mass-vol": [
+   "william h. clark"
+  ],
+  "bclarke-toll-keepers": [
+   "benjamin clarke",
+   "clarke"
+  ],
+  "lclarke-bernard-treves-s-boots": [
+   "laurence clarke",
+   "laurence ayscough clarke",
+   "clarke"
+  ],
+  "mahclarke-for-the-term-of-his-natural-life": [
+   "marcus andrew hislop clarke",
+   "clarke"
+  ],
+  "mcclarke-little-paulina": [
+   "mary cowden clarke",
+   "clarke"
+  ],
+  "wclarke-three-courses-and-a-dessert-comprising-three-sets-of": [
+   "william clarke",
+   "clarke"
+  ],
+  "ehclement-bull-run-rout-scenes-attending-the-first-clash-of": [
+   "e. h. clement",
+   "edward henry clement",
+   "clement"
+  ],
+  "coates-how-little-bessie-kept-the-wolf-from-the-door": [
+   "coates",
+   "coates"
+  ],
+  "scobb-smuggler-of-king-s-cove": [
+   "sylvanus cobb"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jchambers-in-sargasso-missing-a-romance": [
+   74830,
+   "\"In Sargasso.\" Missing, a romance"
+  ],
+  "echambless-roadtown": [
+   58964,
+   "Roadtown"
+  ],
+  "kchandler-bird-woman-of-the-lewis-and-clark-expedition": [
+   5742,
+   "The Bird-Woman of the Lewis and Clark Expedition"
+  ],
+  "sechapman-doctor-jones-picnic": [
+   27434,
+   "Doctor Jones' Picnic"
+  ],
+  "jchappell-youngest-princess": [
+   79303,
+   "The youngest princess"
+  ],
+  "jschase-penance-of-magdalena-and-other-tales-of-the-californ": [
+   9063,
+   "The Penance of Magdalena and Other Tales of the California Missions"
+  ],
+  "cdchatelain-up-horsie-an-original-fairy-tale": [
+   23477,
+   "Up! Horsie! An Original Fairy Tale"
+  ],
+  "hcchatfieldtay-with-edge-tools": [
+   33528,
+   "With Edge Tools"
+  ],
+  "fhcheley-buffalo-roost": [
+   14175,
+   "Buffalo Roost: A Story of a Young Men's Christian Association Boys' Department"
+  ],
+  "hvcheney-rivals-of-acadia-an-old-story-of-the-new-world": [
+   17351,
+   "The Rivals of Acadia An Old Story of the New World"
+  ],
+  "vcherbuliez-samuel-brohl-and-company": [
+   2470,
+   "Samuel Brohl and Company"
+  ],
+  "gtchesney-battle-of-dorking": [
+   65882,
+   "The Battle of Dorking"
+  ],
+  "gjchester-evelyn-manwaring": [
+   76400,
+   "Evelyn Manwaring"
+  ],
+  "fschild-house-with-sixty-closets": [
+   42961,
+   "The House With Sixty Closets: A Christmas Story for Young Folks and Old Children"
+  ],
+  "rwchild-blue-wall": [
+   24451,
+   "The blue wall"
+  ],
+  "cechittenden-what-two-children-did": [
+   15541,
+   "What Two Children Did"
+  ],
+  "whchristie-love-story": [
+   8883,
+   "A Love Story"
+  ],
+  "hmcist-army-of-the-cumberland": [
+   3686,
+   "The Army of the Cumberland"
+  ],
+  "fbclark-virgilia": [
+   7938,
+   "Virgilia; or, Out of the Lion's Mouth"
+  ],
+  "mclark-early-life-of-washington-designed-for-the-instruction": [
+   58822,
+   "The Early Life of Washington Designed for the Instruction and Amusement of the Young"
+  ],
+  "tmclark-john-whopper-the-newsboy": [
+   30463,
+   "John Whopper The Newsboy"
+  ],
+  "whclark-reminiscences-of-the-thirty-fourth-regiment-mass-vol": [
+   33357,
+   "Reminiscences of the Thirty-Fourth Regiment, Mass. Vol. Infantry"
+  ],
+  "bclarke-toll-keepers": [
+   78722,
+   "The toll-keepers"
+  ],
+  "lclarke-bernard-treves-s-boots": [
+   42459,
+   "Bernard Treves's Boots: A Novel of the Secret Service"
+  ],
+  "mahclarke-for-the-term-of-his-natural-life": [
+   3424,
+   "For the Term of His Natural Life"
+  ],
+  "mcclarke-little-paulina": [
+   64103,
+   "Little Paulina: Christmas in Russia"
+  ],
+  "wclarke-three-courses-and-a-dessert-comprising-three-sets-of": [
+   44560,
+   "Three Courses and a Dessert Comprising Three Sets of Tales, West Country, Irish, and Legal; and a Melange"
+  ],
+  "ehclement-bull-run-rout-scenes-attending-the-first-clash-of": [
+   32951,
+   "The Bull-Run Rout Scenes Attending the First Clash of Volunteers in the Civil War"
+  ],
+  "coates-how-little-bessie-kept-the-wolf-from-the-door": [
+   74108,
+   "How little Bessie kept the wolf from the door"
+  ],
+  "scobb-smuggler-of-king-s-cove": [
+   49860,
+   "The Smuggler of King's Cove; or, The Old Chapel Mystery"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jchambers-in-sargasso-missing-a-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius chambers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "echambless-roadtown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edgar chambless",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kchandler-bird-woman-of-the-lewis-and-clark-expedition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine chandler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sechapman-doctor-jones-picnic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. e. chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchappell-youngest-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jennie chappell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jschase-penance-of-magdalena-and-other-tales-of-the-californ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. smeaton chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdchatelain-up-horsie-an-original-fairy-tale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara de chatelain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcchatfieldtay-with-edge-tools": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. c. chatfield-taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhcheley-buffalo-roost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank h. cheley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hvcheney-rivals-of-acadia-an-old-story-of-the-new-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. v. cheney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vcherbuliez-samuel-brohl-and-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "victor cherbuliez",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gtchesney-battle-of-dorking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george tomkyns chesney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjchester-evelyn-manwaring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "greville john chester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fschild-house-with-sixty-closets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank samuel child",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwchild-blue-wall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard washburn child",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cechittenden-what-two-children-did": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte e. chittenden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whchristie-love-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william harvey christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmcist-army-of-the-cumberland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry martyn cist",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbclark-virgilia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "felicia buttz clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mclark-early-life-of-washington-designed-for-the-instruction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmclark-john-whopper-the-newsboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas m. clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whclark-reminiscences-of-the-thirty-fourth-regiment-mass-vol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william h. clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bclarke-toll-keepers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lclarke-bernard-treves-s-boots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "laurence clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahclarke-for-the-term-of-his-natural-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marcus andrew hislop clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcclarke-little-paulina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary cowden clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wclarke-three-courses-and-a-dessert-comprising-three-sets-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehclement-bull-run-rout-scenes-attending-the-first-clash-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. h. clement",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coates-how-little-bessie-kept-the-wolf-from-the-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "coates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scobb-smuggler-of-king-s-cove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

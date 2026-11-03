@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain John Henry Augustus Bomberger (1817-1890), German Reformed pastor, first president of Ursinus College and leading critic of the Mercersburg theology, for the Word Hoard: Spiritual Libertinism (1846), Infant Salvation (1859), Five Years' Ministry in Race Street (1860) and Reformed, not Ritualistic (1867), from Internet Archive scans. Added 2026-10-23 by lane A, round 56 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bomberger"
+ ],
+ "_surname": [
+  "j. h. a. bomberger",
+  "john h. a. bomberger",
+  "j. h. bomberger",
+  "bomberger, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bomberger-spiritual-libertinism": [
+   "spiritualliberti00bomb",
+   "Spiritual libertinism : an address delivered before the alumni association of Marshall College, September 8th, 1846 / by J.H.A. Bomberger (Printed at the Office of the Ger. Reformed Church, 1846)"
+  ],
+  "bomberger-infant-salvation": [
+   "infantsalvationi00bomb",
+   "Infant salvation : in its relation to infant depravity, infant regeneration, and infant baptism (Philadelphia : Lindsay & Blakiston, 1859)"
+  ],
+  "bomberger-five-years": [
+   "fiveyearsminist00bombgoog",
+   "Five Years' Ministry in the German Reformed Church, in Race Street, Below Fourth, Philadelphia (Lindsay & Blakiston, 1860)"
+  ],
+  "bomberger-reformed-not-ritualistic": [
+   "reformednotritua00bomb",
+   "Reformed, not ritualistic : Apostolic, not patristic : a reply to Dr. Nevin's Vindication, etc (Philadelphia : [s.n.], 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bomberger-other": "His condensed translation of Herzog's Protestant Theological Encyclopedia (1858-60, a translation of a multi-author work); Kurtz's Text-book of Church History (another author); Three Thousand Practical Illustrations (1909 compilation)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "bomberger-five-years": "Title page OCR reads 'FIVE YEARS' MINISTRY IN THE German Reformed Church, IN RACE STREET, BELOW FOURTH. AN ANNIVERSARY SERMON ... J. H. A: BOHBERGEB, D.D. PHILADELPHIA: LINDSAY & BLAKISTON. 1860' (Bomberger garbled); the consistory's letter is addressed to him as pastor of the Race Street German Reformed Church."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bomberger-spiritual-libertinism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. a. bomberger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bomberger-infant-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. a. bomberger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bomberger-five-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bomberger-reformed-not-ritualistic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. a. bomberger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

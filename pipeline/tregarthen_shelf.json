@@ -1,0 +1,66 @@
+{
+ "_about": "Enys Tregarthen's Cornish legends: The Piskey-Purse and North Cornwall Fairies and Legends. J. C. Tregarthen's animal books are not hers and are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Enys Tregarthen",
+ "_name_words": [
+  "tregarthen"
+ ],
+ "_surname": [
+  "enys tregarthen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tregarthen-piskey-purse": [
+   37245,
+   "The Piskey-Purse: Legends and Tales of North Cornwall",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|CONTENTS|LIST OF ILLUSTRATIONS|NOTES|THE PISKEY-PURSE|THE MAGIC PAIL|THE WITCH IN THE WELL|BORROWED EYES AND EARS|THE LITTLE WHITE HARE)$"
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ],
+  "tregarthen-north-cornwall-fairies": [
+   40246,
+   "North Cornwall Fairies and Legends",
+   {
+    "levels": [
+     {
+      "re": "NOTES$|FOOTNOTES:?$",
+      "strip": ":$"
+     },
+     {
+      "re": "'?[A-Z][^a-z]+$",
+      "strip": "^'|\\.?'$|\\.$"
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tregarthen-piskey-purse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "enys tregarthen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tregarthen-north-cornwall-fairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "enys tregarthen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

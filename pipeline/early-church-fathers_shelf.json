@@ -1,0 +1,675 @@
+{
+ "_about": "The Early Church Fathers in English: the Ante-Nicene Fathers (10 vols, ed. Alexander Roberts and James Donaldson, American edition revised by A. Cleveland Coxe) and the Nicene and Post-Nicene Fathers, First Series (14 vols, ed. Philip Schaff) and Second Series (14 vols, ed. Philip Schaff and Henry Wace), all 38 volumes as CCEL ThML. Nineteenth-century translations, public domain in the US. Added 2026-11-03 by lane A from Adam's Libronix inventory (the ECF collection, also inside Scholar's Library Silver and Gold). One slug per CCEL volume; titles are CCEL's. The Greek and Latin texts of the Fathers are another thread's work (data/fathers on its branch); this shelf is the English only. No uids minted.",
+ "_ccel_author": "s/schaff",
+ "_name_words": [
+  "schaff",
+  "roberts",
+  "donaldson",
+  "coxe",
+  "wace"
+ ],
+ "_surname": [
+  "schaff",
+  "philip schaff",
+  "alexander roberts",
+  "james donaldson",
+  "coxe",
+  "henry wace"
+ ],
+ "internet_archive": {},
+ "ccel": {
+  "ecf-anf01": [
+   "anf01",
+   "ANF01. The Apostolic Fathers with Justin Martyr and Irenaeus (CCEL)",
+   ""
+  ],
+  "ecf-anf02": [
+   "anf02",
+   "ANF02. Fathers of the Second Century: Hermas, Tatian, Athenagoras, Theophilus, and Clement of Alexandria (Entire) (CCEL)",
+   ""
+  ],
+  "ecf-anf03": [
+   "anf03",
+   "ANF03. Latin Christianity: Its Founder, Tertullian (CCEL)",
+   ""
+  ],
+  "ecf-anf04": [
+   "anf04",
+   "ANF04. Fathers of the Third Century: Tertullian, Part Fourth; Minucius Felix; Commodian; Origen, Parts First and Second (CCEL)",
+   ""
+  ],
+  "ecf-anf05": [
+   "anf05",
+   "ANF05. Fathers of the Third Century: Hippolytus,\n    Cyprian, Caius, Novatian, Appendix (CCEL)",
+   ""
+  ],
+  "ecf-anf06": [
+   "anf06",
+   "ANF06. Fathers of the Third Century: Gregory\n    Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius,\n    and Minor Writers, Methodius, Arnobius (CCEL)",
+   ""
+  ],
+  "ecf-anf07": [
+   "anf07",
+   "ANF07. Fathers of the Third and Fourth Centuries: Lactantius, Venantius, Asterius, Victorinus, Dionysius, Apostolic Teaching and Constitutions, Homily, and Liturgies (CCEL)",
+   ""
+  ],
+  "ecf-anf08": [
+   "anf08",
+   "ANF08. The Twelve Patriarchs, Excerpts and Epistles, The Clementia, Apocrypha, Decretals, Memoirs of Edessa and Syriac Documents, Remains of the First Age (CCEL)",
+   ""
+  ],
+  "ecf-anf09": [
+   "anf09",
+   "ANF09. The Gospel of Peter, The Diatessaron of Tatian, The\n Apocalypse of Peter, the Vision of Paul, The Apocalypse of the Virgin\n and Sedrach, The Testament of Abraham, The Acts of Xanthippe and\n Polyxena, The Narrative of Zosimus, The Apology of Aristides, The\n Epistles of Clement (complete text), Origen’s Commentary on John,\n Books 1–10, and Commentary on Matthew, Books 1, 2, and\n 10–14. (CCEL)",
+   ""
+  ],
+  "ecf-anf10": [
+   "anf10",
+   "ANF10. Bibliographic Synopsis; General Index (CCEL)",
+   ""
+  ],
+  "ecf-npnf101": [
+   "npnf101",
+   "NPNF1-01. The Confessions and Letters of St. Augustine, \nwith a Sketch of his Life and Work (CCEL)",
+   ""
+  ],
+  "ecf-npnf102": [
+   "npnf102",
+   "NPNF1-02. St. Augustine's City of God and Christian \nDoctrine (CCEL)",
+   ""
+  ],
+  "ecf-npnf103": [
+   "npnf103",
+   "NPNF1-03. On the Holy Trinity; Doctrinal Treatises; Moral Treatises (CCEL)",
+   ""
+  ],
+  "ecf-npnf104": [
+   "npnf104",
+   "NPNF1-04. Augustine: The Writings Against the Manichaeans \nand Against the Donatists (CCEL)",
+   ""
+  ],
+  "ecf-npnf105": [
+   "npnf105",
+   "NPNF1-05. St. Augustine: Anti-Pelagian Writings (CCEL)",
+   ""
+  ],
+  "ecf-npnf106": [
+   "npnf106",
+   "NPNF1-06. St. Augustine: Sermon on the \nMount; Harmony of the Gospels; Homilies on the Gospels (CCEL)",
+   ""
+  ],
+  "ecf-npnf107": [
+   "npnf107",
+   "NPNF1-07. St. Augustine: Homilies on the Gospel of John; \nHomilies on the First Epistle of John; Soliloquies (CCEL)",
+   ""
+  ],
+  "ecf-npnf108": [
+   "npnf108",
+   "NPNF1-08. St. Augustine: Exposition on the Book of \nPsalms (CCEL)",
+   ""
+  ],
+  "ecf-npnf109": [
+   "npnf109",
+   "NPNF1-09. St. Chrysostom: On the Priesthood; Ascetic Treatises; Select Homilies and Letters; Homilies on the Statutes (CCEL)",
+   ""
+  ],
+  "ecf-npnf110": [
+   "npnf110",
+   "NPNF1-10. St. Chrysostom: Homilies on the Gospel of Saint Matthew (CCEL)",
+   ""
+  ],
+  "ecf-npnf111": [
+   "npnf111",
+   "NPNF1-11. Saint Chrysostom: Homilies on the Acts of the Apostles and the Epistle to the Romans (CCEL)",
+   ""
+  ],
+  "ecf-npnf112": [
+   "npnf112",
+   "NPNF1-12. Saint Chrysostom: Homilies on the Epistles of Paul to the Corinthians (CCEL)",
+   ""
+  ],
+  "ecf-npnf113": [
+   "npnf113",
+   "NPNF1-13. Saint Chrysostom: Homilies on Galatians, Ephesians, Philippians, Colossians, Thessalonians, Timothy, Titus, and Philemon (CCEL)",
+   ""
+  ],
+  "ecf-npnf114": [
+   "npnf114",
+   "NPNF1-14. Saint Chrysostom: Homilies on the Gospel of St. John and the Epistle to the Hebrews (CCEL)",
+   ""
+  ],
+  "ecf-npnf201": [
+   "npnf201",
+   "NPNF2-01. Eusebius Pamphilius: Church History, Life of Constantine, Oration in Praise of Constantine (CCEL)",
+   ""
+  ],
+  "ecf-npnf202": [
+   "npnf202",
+   "NPNF2-02. Socrates and Sozomenus Ecclesiastical Histories (CCEL)",
+   ""
+  ],
+  "ecf-npnf203": [
+   "npnf203",
+   "NPNF2-03. Theodoret, Jerome, Gennadius, & Rufinus: Historical Writings (CCEL)",
+   ""
+  ],
+  "ecf-npnf204": [
+   "npnf204",
+   "NPNF2-04. Athanasius: Select Works and Letters (CCEL)",
+   ""
+  ],
+  "ecf-npnf205": [
+   "npnf205",
+   "NPNF2-05. Gregory of Nyssa: Dogmatic Treatises, Etc. (CCEL)",
+   ""
+  ],
+  "ecf-npnf206": [
+   "npnf206",
+   "NPNF2-06. Jerome: The Principal Works of St. Jerome (CCEL)",
+   ""
+  ],
+  "ecf-npnf207": [
+   "npnf207",
+   "NPNF2-07. Cyril of Jerusalem, Gregory Nazianzen (CCEL)",
+   ""
+  ],
+  "ecf-npnf208": [
+   "npnf208",
+   "NPNF2-08. Basil: Letters and Select Works (CCEL)",
+   ""
+  ],
+  "ecf-npnf209": [
+   "npnf209",
+   "NPNF2-09. Hilary of Poitiers, John of Damascus (CCEL)",
+   ""
+  ],
+  "ecf-npnf210": [
+   "npnf210",
+   "NPNF2-10. Ambrose: Selected Works and Letters (CCEL)",
+   ""
+  ],
+  "ecf-npnf211": [
+   "npnf211",
+   "NPNF-211. Sulpitius Severus, Vincent of Lerins, John Cassian (CCEL)",
+   ""
+  ],
+  "ecf-npnf212": [
+   "npnf212",
+   "NPNF-212. Leo the Great, Gregory the Great (CCEL)",
+   ""
+  ],
+  "ecf-npnf213": [
+   "npnf213",
+   "NPNF-213. Gregory the Great (II), Ephraim Syrus, Aphrahat (CCEL)",
+   ""
+  ],
+  "ecf-npnf214": [
+   "npnf214",
+   "NPNF2-14. The Seven Ecumenical Councils (CCEL)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "_excluded": {
+  "ecf-greek-latin": "The Greek and Latin texts: another thread's branch (data/fathers)",
+  "ecf-ia-scans": "Internet Archive scans of the same 38 volumes: CCEL's ThML is cleaner and structured"
+ },
+ "_checks": {
+  "ecf-anf01": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf02": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf03": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf04": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf05": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf06": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf07": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf08": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf09": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-anf10": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf101": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf102": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: The Christian Literature Publishing Co., 1890",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf103": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: The Christian Literature Publishing Co., 1890",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf104": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: The Christian Literature Publishing Co., 1890",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf105": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf106": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf107": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf108": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf109": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf110": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf111": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf112": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark, 1889",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf113": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf114": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf201": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1890",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf202": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1886",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf203": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1892",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf204": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1892",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf205": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1892",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf206": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1892",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf207": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Christian Literature Publishing Co., 1893",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf208": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark, 1895",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf209": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark, 1898",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf210": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf211": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh, T &amp; T Clark",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf212": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf213": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ecf-npnf214": {
+   "kind": "ccel",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Edinburgh: T&amp;T Clark",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

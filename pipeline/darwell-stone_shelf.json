@@ -1,0 +1,209 @@
+{
+ "_about": "Darwell Stone (1859-1941), Anglo-Catholic theologian, Principal of Pusey House; his books published before 1931; from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. All pre-1931 publications, so US public domain.",
+ "_name_words": [
+  "darwell stone"
+ ],
+ "_surname": [
+  "stone",
+  "darwell stone"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stone-holy-baptism": [
+   "holybaptism00stonuoft",
+   "Holy Baptism, Oxford Library of Practical Theology, new impression (London: Longmans, Green, 1917)"
+  ],
+  "stone-outlines-dogma": [
+   "outlinesofchrist00ston",
+   "Outlines of Christian Dogma (London: Longmans, Green, 1900)"
+  ],
+  "stone-church-ministry": [
+   "churchitsministr00ston",
+   "The Church: Its Ministry and Authority (London: Rivingtons, 1902)"
+  ],
+  "stone-invocation-saints": [
+   "invocationofsain00stoniala",
+   "The Invocation of Saints (London: Longmans, Green, 1903)"
+  ],
+  "stone-bearing-church-history": [
+   "bearingofchurchh00ston",
+   "The Bearing of Church History on the Proposed Representative Church Council (Oxford: James Parker, 1904)"
+  ],
+  "stone-holy-communion": [
+   "holycommunion00stonuoft",
+   "The Holy Communion, Oxford Library of Practical Theology (London: Longmans, Green, 1904)"
+  ],
+  "stone-eucharist-history-1": [
+   "historyofdoctrin01ston",
+   "A History of the Doctrine of the Holy Eucharist, vol. I (London: Longmans, Green, 1909)"
+  ],
+  "stone-eucharist-history-2": [
+   "historyofdoctrin02ston",
+   "A History of the Doctrine of the Holy Eucharist, vol. II (London: Longmans, Green, 1909)"
+  ],
+  "stone-reserved-sacrament": [
+   "reservedsacramen15ston",
+   "The Reserved Sacrament, Handbooks of Catholic Faith and Practice (London: Robert Scott, 1917)"
+  ],
+  "stone-eucharistic-sacrifice": [
+   "eucharisticsacri00ston",
+   "The Eucharistic Sacrifice, Handbooks of Catholic Faith and Practice (London: Robert Scott, 1920)"
+  ],
+  "stone-who-are-members": [
+   "whoaremembersofc00stoniala",
+   "Who Are Members of the Church? (with F. W. Puller), Pusey House Occasional Papers 9 (London: Longmans, Green, 1921)"
+  ],
+  "stone-faith-english-catholic": [
+   "faithofenglishca00ston",
+   "The Faith of an English Catholic (London: Longmans, Green, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "stone-who-are-members": "Co-author F. W. Puller died 1938, but the paper was published 1921, so it is US public domain by publication date"
+ },
+ "_identity_checked": {},
+ "_pending": {
+  "stone-invocation-saints-1916": "Enlarged 1916 edition (invocationofsain00stonuoft) returned HTTP 500; retry and swap in if it is a larger text",
+  "stone-christ-human-life": "Christ and Human Life (1901): only a lending-library scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "stone-holy-baptism": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stone-outlines-dogma": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stone-church-ministry": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stone-invocation-saints": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stone-bearing-church-history": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stone-holy-communion": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stone-eucharist-history-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stone-eucharist-history-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stone-reserved-sacrament": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stone-eucharistic-sacrifice": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stone-who-are-members": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Co-author F. W. Puller died 1938, but the paper was published 1921, so it is US public domain by publication date"
+  },
+  "stone-faith-english-catholic": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

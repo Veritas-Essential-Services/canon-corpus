@@ -1,0 +1,136 @@
+{
+ "_about": "Elizabeth Gordon's writing at Gutenberg: stories and verse for young children. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Elizabeth Gordon",
+ "_name_words": [
+  "elizabeth",
+  "gordon"
+ ],
+ "_surname": [
+  "elizabeth gordon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "egordon-flower-children": [
+   46934,
+   "Flower Children: The Little Cousins of the Field and Garden"
+  ],
+  "egordon-mother-earths-children": [
+   47252,
+   "Mother Earth's Children: The Frolics of the Fruits and Vegetables"
+  ],
+  "egordon-bird-children": [
+   47293,
+   "Bird Children: The Little Playmates of the Flower Children"
+  ],
+  "egordon-sheaf-of-roses": [
+   48215,
+   "A Sheaf of Roses"
+  ],
+  "egordon-buddy-jim": [
+   50553,
+   "Buddy Jim"
+  ],
+  "egordon-dolly-and-molly-and-the-farmer-man": [
+   50862,
+   "Dolly and Molly and the Farmer Man"
+  ],
+  "egordon-what-we-saw-at-madame-worlds-fair-being-a-series-of": [
+   51599,
+   "What We Saw at Madame World's Fair Being a Series of Letters from the Twins at the Panama-Pacific International Exposition to Their Cousins at Home"
+  ],
+  "egordon-watermelon-pete-and-others": [
+   52828,
+   "Watermelon Pete and Others"
+  ],
+  "egordon-really-so-stories": [
+   68902,
+   "Really so stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "egordon-flower-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-mother-earths-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-bird-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-sheaf-of-roses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-buddy-jim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-dolly-and-molly-and-the-farmer-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-what-we-saw-at-madame-worlds-fair-being-a-series-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-watermelon-pete-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egordon-really-so-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

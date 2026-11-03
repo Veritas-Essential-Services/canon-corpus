@@ -1,0 +1,60 @@
+{
+ "_about": "Public-domain George Gillespie (1613-1648, Scottish commissioner to the Westminster Assembly) for the Word Hoard: vol. 1 of his Works (Edinburgh: Ogle, 1846, ed. W. M. Hetherington) as a Gutenberg transcription, and, from an Internet Archive scan, raw OCR, Aaron's Rod Blossoming (Edinburgh: Ogle, 1844), the main book of the Works' vol. 2, which neither Gutenberg nor IA holds as the 1846 volume. CCEL holds none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "gillespie",
+  "george"
+ ],
+ "_surname": [
+  "gillespie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gillespie-works-1": [
+   "26849",
+   "The Works of Mr. George Gillespie, vol. 1 (Edinburgh: Ogle, 1846, ed. Hetherington)"
+  ]
+ },
+ "internet_archive": {
+  "gillespie-aarons-rod-1844": [
+   "aaronsrodblossom00gill",
+   "Aaron's Rod Blossoming, or the Divine Ordinance of Church Government Vindicated (Edinburgh: Ogle, 1844)"
+  ]
+ },
+ "_alternates": {
+  "aablossom00gill (1646)": "The first edition of Aaron's Rod.",
+  "dispsten00gill (1637), EnglishpopishCeremonies, disputeagainsten00gill (1844); asgover00gill (1641)": "Separate printings of books in Works vol. 1, which Gutenberg already gives."
+ },
+ "_excluded": {
+  "testibear00hend": "Henderson's Testimony-Bearing, a collection by others.",
+  "causesoflordswra00warr": "A pamphlet by another author.",
+  "usefullcaseofcon00gill (1649)": "A 34-page pamphlet; reprinted in the Works.",
+  "theworksofmrgeor26849gut": "IA's mirror of the same Gutenberg book."
+ },
+ "_pending": {
+  "gillespie-works-2": "Vol. 2 of the 1846 Works: no Gutenberg text and no IA scan found; Aaron's Rod is shelved from the 1844 printing meanwhile.",
+  "gillespie-miscellany-questions": "A Treatise of Miscellany Questions: the only scan is the 1649 first edition (treatiseofmiscel00gill), whose OCR scored 74.9%; left off until a 19th-century printing or vol. 2 of the Works turns up."
+ },
+ "_checks": {
+  "gillespie-works-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gillespie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gillespie-aarons-rod-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gillespie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

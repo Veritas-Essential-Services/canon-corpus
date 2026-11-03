@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain John Sharshall Grasty (1825-1883), Presbyterian minister, for the Word Hoard: the Memoir of Rev. Samuel B. McPheeters, Faith's Battles and Victories, The Way to Zion, and his tracts A Noble Testimony and A Great Question Asked. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 119 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john s. grasty",
+  "j. s. grasty",
+  "grasty"
+ ],
+ "_surname": [
+  "john s. grasty",
+  "john sharshall grasty",
+  "grasty"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grasty-noble-testimony": [
+   "nobletestimony00gras",
+   "A noble testimony ([Raleigh, N.C. : s.n.], 1800)"
+  ],
+  "grasty-great-question": [
+   "greatquestionask00gras",
+   "A great question asked? ; Faith and works ([Raleigh? N. C. : s.n.], 1861)"
+  ],
+  "grasty-way-to-zion": [
+   "the-way-to-zion",
+   "The Way to Zion (catalogued 1861)",
+   "The Way to Zion_djvu.txt"
+  ],
+  "grasty-faiths-battles": [
+   "faiths-battles-and-victories",
+   "Faith's battles and victories, or, Thoughts for troublous times (catalogued 1869)",
+   "Faith's Battles and Victories_djvu.txt"
+  ],
+  "grasty-mcpheeters": [
+   "memoirofrevsamuel00gras",
+   "Memoir of Rev. Samuel B. McPheeters, D.D (Saint Louis : Southwestern Book and Pub. Co. ; Louisville : Davidson Bros. & Co., 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "grasty-noble-testimony": "Title (OCR): \"A NOBLE TESTIMONY. BY REV. JOHN S. GRASTY, FINCASTLE.\" Undated tract (the record's 1800 is a placeholder); the author died in 1883, so it was printed before then."
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "grasty-noble-testimony": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grasty",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title (OCR): \"A NOBLE TESTIMONY. BY REV. JOHN S. GRASTY, FINCASTLE.\" Undated tract (the record's 1800 is a placeholder); the author died in 1883, so it was printed before then."
+  },
+  "grasty-great-question": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grasty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grasty-way-to-zion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grasty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grasty-faiths-battles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john s. grasty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grasty-mcpheeters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john s. grasty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

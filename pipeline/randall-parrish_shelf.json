@@ -1,0 +1,216 @@
+{
+ "_about": "Randall Parrish's frontier and historical romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Randall Parrish",
+ "_name_words": [
+  "parrish",
+  "randall"
+ ],
+ "_surname": [
+  "randall parrish"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rparrish-my-lady-of-the-north": [
+   6846,
+   "My Lady of the North"
+  ],
+  "rparrish-keith-of-the-border": [
+   7510,
+   "Keith of the Border: A Tale of the Plains"
+  ],
+  "rparrish-wolves-of-the-sea-being-a-tale-of-the-colonies-from": [
+   10210,
+   "Wolves of the Sea Being a Tale of the Colonies from the Manuscript of One Geoffry Carlyle, Seaman, Narrating Certain Strange Adventures Which Befell Him Aboard the Pirate Craft \"Namur\""
+  ],
+  "rparrish-love-under-fire": [
+   12015,
+   "Love under Fire"
+  ],
+  "rparrish-case-and-the-girl": [
+   12357,
+   "The Case and the Girl"
+  ],
+  "rparrish-beth-norvell": [
+   17598,
+   "Beth Norvell: A Romance of the West"
+  ],
+  "rparrish-bob-hampton-of-placer": [
+   17614,
+   "Bob Hampton of Placer"
+  ],
+  "rparrish-strange-case-of-cavendish": [
+   17647,
+   "The Strange Case of Cavendish"
+  ],
+  "rparrish-devils-own": [
+   17710,
+   "The Devil's Own: A Romance of the Black Hawk War"
+  ],
+  "rparrish-gordon-craig-soldier-of-fortune": [
+   17765,
+   "Gordon Craig, Soldier of Fortune"
+  ],
+  "rparrish-molly-mcdonald": [
+   17789,
+   "Molly McDonald: A Tale of the Old Frontier"
+  ],
+  "rparrish-prisoners-of-chance-the-story-of-what-befell-geoffr": [
+   17856,
+   "Prisoners of Chance The Story of What Befell Geoffrey Benteen, Borderman, through His Love for a Lady of France"
+  ],
+  "rparrish-when-wilderness-was-king-a-tale-of-the-illinois-cou": [
+   17890,
+   "When Wilderness Was King A Tale of the Illinois Country"
+  ],
+  "rparrish-my-lady-of-doubt": [
+   18633,
+   "My Lady of Doubt"
+  ],
+  "rparrish-beyond-the-frontier": [
+   30319,
+   "Beyond the Frontier: A Romance of Early Days in the Middle West"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 59617: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "rparrish-my-lady-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-keith-of-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-wolves-of-the-sea-being-a-tale-of-the-colonies-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-love-under-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-case-and-the-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-beth-norvell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-bob-hampton-of-placer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-strange-case-of-cavendish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-devils-own": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-gordon-craig-soldier-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-molly-mcdonald": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-prisoners-of-chance-the-story-of-what-befell-geoffr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-when-wilderness-was-king-a-tale-of-the-illinois-cou": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-my-lady-of-doubt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparrish-beyond-the-frontier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randall parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

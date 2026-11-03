@@ -1,0 +1,36 @@
+{
+ "_about": "The Turkish Jester, or The Pleasantries of Cogia Nasr Eddin Effendi, George Borrow's translation from the Turkish (title page 1884; this text transcribed from the Norwich edition of his works). His ballads and travel books are not taken here. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "George Borrow, tr.",
+ "_name_words": [
+  "borrow"
+ ],
+ "_surname": [
+  "george borrow"
+ ],
+ "_translators": {
+  "borrow-turkish-jester": "Borrow"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "borrow-turkish-jester": [
+   16244,
+   "The Turkish Jester"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "borrow-turkish-jester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "translator_claimed": "Borrow",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow",
+   "translator_match": true
+  }
+ }
+}

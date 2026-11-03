@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain Francis Procter (1812-1905), Vicar of Witton, for the Word Hoard: A History of the Book of Common Prayer in its first edition (1855), the eighth (1869) and the fourteenth (1878), An Elementary History of the Book of Common Prayer (1862), the Elementary Introduction written with G. F. Maclear (catalogued 1868), and the New History revised and rewritten by Walter Howard Frere (1902), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "procter"
+ ],
+ "_surname": [
+  "procter",
+  "francis procter"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "procter-history-bcp-1855": [
+   "historyofbookofc00proc_0",
+   "A History of the Book of Common Prayer, with a Rationale of its Offices (Cambridge: Macmillan, 1855), the first edition"
+  ],
+  "procter-history-bcp-1869": [
+   "ahistorybookcom05procgoog",
+   "A History of the Book of Common Prayer, eighth edition (London: Macmillan, 1869)"
+  ],
+  "procter-history-bcp-1878": [
+   "historyofbookofc00proc",
+   "A History of the Book of Common Prayer, fourteenth edition (London: Macmillan, 1878)"
+  ],
+  "procter-elementary-history": [
+   "anelementaryhis00procgoog",
+   "An Elementary History of the Book of Common Prayer (London: Macmillan, 1862)"
+  ],
+  "procter-elementary-introduction": [
+   "anelementaryint00maclgoog",
+   "An Elementary Introduction to the Book of Common Prayer, by Francis Procter and G. F. Maclear (London and Cambridge: Macmillan; year OCR'd 'i86S', catalogued 1868)"
+  ],
+  "procter-frere-new-history": [
+   "newhistoryofbook00proc_0",
+   "A New History of the Book of Common Prayer, on the basis of the former work by Francis Procter, revised and rewritten by Walter Howard Frere (London and New York: Macmillan, 1902)"
+  ]
+ },
+ "_alternates": {
+  "procter-copies": "Another 1855 copy; New History 1910 printings (catalogued 1901 and 1907 in error); later editions of the History (1864-1892, not read)"
+ },
+ "_excluded": {
+  "procter-other": "Breviarium Sarum (a Latin text he edited with Wordsworth); Hardwick's books, which he only edited"
+ },
+ "_identity_checked": {
+  "procter-history-bcp-1869": {
+   "author": "title page read: 'FRANCIS PROCTER' (OCR 'PEOCTER')"
+  }
+ },
+ "_rights_checked": {
+  "procter-frere-new-history": "title page read: rewritten by W. H. Frere (died 1938); US public domain as a 1902 printing, still in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "procter-history-bcp-1855": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "procter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "procter-history-bcp-1869": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "procter-history-bcp-1878": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "procter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "procter-elementary-history": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "procter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "procter-elementary-introduction": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "procter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "procter-frere-new-history": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "procter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: rewritten by W. H. Frere (died 1938); US public domain as a 1902 printing, still in UK copyright"
+  }
+ }
+}

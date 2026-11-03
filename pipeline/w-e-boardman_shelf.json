@@ -1,0 +1,90 @@
+{
+ "_about": "Public-domain William Edwin Boardman (1810-1886), Presbyterian evangelist whose Higher Christian Life (1858) fed the holiness and Keswick movements, for the Word Hoard: The Higher Christian Life (1859 printing), He that Overcometh (1869), Faith Work under Dr. Cullis (1874) and In the Power of the Spirit (1876). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 67 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "boardman"
+ ],
+ "_surname": [
+  "w. e. boardman",
+  "william e. boardman",
+  "rev. w. e. boardman",
+  "william edwin boardman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boardman-higher-christian-life": [
+   "higherchristian01boargoog",
+   "The Higher Christian Life (D. Appleton & co., 1859)"
+  ],
+  "boardman-he-that-overcometh": [
+   "hethatovercomet00boargoog",
+   "He that overcometh; or, A conquering gospel ([?], 1869)"
+  ],
+  "boardman-faith-work-cullis": [
+   "faithworkunderdr00boar",
+   "Faith work under Dr. Cullis, in Boston (Boston ; New York : Willard Tract Repository, 1874)"
+  ],
+  "boardman-power-of-spirit": [
+   "inpowerofspirit00boar",
+   "In the power of the spirit ([n.p.], 1876)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "boardman-other": "Life and Labours of the Rev. W. E. Boardman (1887, by his wife)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "boardman-higher-christian-life": "title page (after the Google notice): 'The Higher Christian Life, [by the] Rev. Ay:^ E. ^^feOardman [W. E. Boardman]' (Boston: Henry Hoyt, 1859)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "boardman-higher-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boardman-he-that-overcometh": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. boardman",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boardman-faith-work-cullis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. boardman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boardman-power-of-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. boardman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

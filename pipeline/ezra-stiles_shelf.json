@@ -1,0 +1,138 @@
+{
+ "_about": "Public-domain Ezra Stiles (1727-1795), president of Yale College, for the Word Hoard: A Discourse on the Christian Union (Boston, 1761), The United States Elevated to Glory and Honour (second edition, Worcester, 1785), A History of Three of the Judges of King Charles I (Hartford, 1794), The Literary Diary edited by Franklin Bowditch Dexter (1901, three volumes) and the Extracts from his Itineraries (1916), from Internet Archive scans. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "stiles"
+ ],
+ "_surname": [
+  "ezra stiles",
+  "president stiles",
+  "stiles"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stiles-christian-union-1761": [
+   "bim_eighteenth-century_a-discourse-on-the-chris_stiles-ezra_1761",
+   "A Discourse on the Christian Union (Boston: Edes and Gill; catalogued 1761)"
+  ],
+  "stiles-united-states-elevated-1785": [
+   "bim_eighteenth-century_the-united-states-elevat_stiles-ezra_1785",
+   "The United States Elevated to Glory and Honour, second edition, corrected (Worcester: Isaiah Thomas, MDCCLXXXV)"
+  ],
+  "stiles-three-judges-1794": [
+   "historyofthreeof00stil",
+   "A History of Three of the Judges of King Charles I (Hartford: Elisha Babcock, 1794)"
+  ],
+  "stiles-literary-diary-1": [
+   "literarydiaryofe01stil",
+   "The Literary Diary of Ezra Stiles, vol. I, ed. Franklin Bowditch Dexter (New York: Charles Scribner's Sons, 1901)"
+  ],
+  "stiles-literary-diary-2": [
+   "literarydiaryofe02stil",
+   "The Literary Diary of Ezra Stiles, vol. II, ed. Franklin Bowditch Dexter (New York: Charles Scribner's Sons, 1901)"
+  ],
+  "stiles-literary-diary-3": [
+   "literarydiaryofe03stil",
+   "The Literary Diary of Ezra Stiles, vol. III, ed. Franklin Bowditch Dexter (New York: Charles Scribner's Sons, 1901)"
+  ],
+  "stiles-itineraries-1916": [
+   "extractsfromitin1755stil",
+   "Extracts from the Itineraries and Other Miscellanies of Ezra Stiles, 1755-1794, ed. Franklin Bowditch Dexter (New Haven: Yale University Press, MDCCCCXVI)"
+  ]
+ },
+ "_alternates": {
+  "stiles-copies": "Other copies of the Diary"
+ },
+ "_excluded": {
+  "stiles-other": "Kohut's Ezra Stiles and the Jews (1902, a selection by another hand); other Stileses"
+ },
+ "_rights_checked": {
+  "stiles-christian-union-1761": "title page read: year not read, catalogued 1761",
+  "stiles-united-states-elevated-1785": "title page read: MDCCLXXXV (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "stiles-christian-union-1761": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ezra stiles",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1761",
+   "ia_date": "1761",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: year not read, catalogued 1761"
+  },
+  "stiles-united-states-elevated-1785": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ezra stiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "1785",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCLXXXV (OCR garbled)"
+  },
+  "stiles-three-judges-1794": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ezra stiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1794",
+   "ia_date": "1794",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stiles-literary-diary-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ezra stiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stiles-literary-diary-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ezra stiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stiles-literary-diary-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ezra stiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stiles-itineraries-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ezra stiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

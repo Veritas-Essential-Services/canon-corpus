@@ -1,0 +1,70 @@
+{
+ "_about": "Sir Charles Lyell (1797-1875), whose uniformitarian geology Darwin carried on the Beagle. Project Gutenberg etexts: Principles of Geology (the ninth edition, entirely revised); A Manual of Elementary Geology; The Antiquity of Man; The Student's Elements of Geology. US public domain. No uids minted.",
+ "_author": "Charles Lyell",
+ "_name_words": [
+  "charles",
+  "lyell"
+ ],
+ "_surname": [
+  "lyell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lyell-principles-of-geology-9th-ed": [
+   33224,
+   "Principles of Geology, 9th edition"
+  ],
+  "lyell-manual-of-elementary-geology": [
+   34350,
+   "A Manual of Elementary Geology"
+  ],
+  "lyell-antiquity-of-man": [
+   6335,
+   "The Antiquity of Man"
+  ],
+  "lyell-students-elements-of-geology": [
+   3772,
+   "The Student's Elements of Geology"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lyell-principles-of-geology-9th-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lyell-manual-of-elementary-geology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lyell-antiquity-of-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lyell-students-elements-of-geology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

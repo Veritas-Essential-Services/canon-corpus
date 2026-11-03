@@ -1,0 +1,173 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur W. Ryder (1877-1938), Berkeley Sanskritist: Kalidasa, the Little Clay Cart, the Panchatantra, the Bhagavad-gita, Twenty-two Goblins. All first published 1905-1929: US public domain (pre-1931). Added 2026-10-10 by lane C (round 10); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur w. ryder",
+  "a. w. ryder",
+  "arthur william ryder"
+ ],
+ "_surname": [
+  "arthur w. ryder",
+  "a. w. ryder",
+  "arthur william ryder",
+  "arthur w ryder"
+ ],
+ "_surname_note": "Never the bare 'ryder' (an English word and a common surname).",
+ "ccel": {},
+ "gutenberg": {
+  "ryder-kalidasa": [
+   16659,
+   "Translations of Shakuntala and Other Works"
+  ],
+  "ryder-clay-cart": [
+   21020,
+   "The Little Clay Cart"
+  ],
+  "ryder-goblins": [
+   2290,
+   "Twenty-Two Goblins"
+  ]
+ },
+ "internet_archive": {
+  "ryder-panchatantra": [
+   "panchatantra035159mbp",
+   "The Panchatantra"
+  ],
+  "ryder-gita": [
+   "bhagavadgita0000unse_g1d6",
+   "The Bhagavad-gita"
+  ]
+ },
+ "titles": {
+  "ryder-kalidasa-shakuntala-and-other-works": {
+   "source": "ryder-kalidasa",
+   "of": "Kalidasa",
+   "work": "Translations of Shakuntala and Other Works",
+   "translated": 1912,
+   "translator": "Arthur W. Ryder",
+   "scan_edition": "Project Gutenberg 16659 (clean text)"
+  },
+  "ryder-sudraka-little-clay-cart": {
+   "source": "ryder-clay-cart",
+   "of": "Sudraka",
+   "work": "The Little Clay Cart",
+   "translated": 1905,
+   "translator": "Arthur W. Ryder",
+   "scan_edition": "Project Gutenberg 21020 (clean text)"
+  },
+  "ryder-twenty-two-goblins": {
+   "source": "ryder-goblins",
+   "of": "Sivadasa (Vetalapanchavimsati)",
+   "work": "Twenty-Two Goblins",
+   "translated": 1917,
+   "translator": "Arthur W. Ryder",
+   "scan_edition": "Project Gutenberg 2290 (clean text)"
+  },
+  "ryder-panchatantra": {
+   "source": "ryder-panchatantra",
+   "of": "Panchatantra (anonymous)",
+   "work": "The Panchatantra",
+   "translated": 1925,
+   "translator": "Arthur W. Ryder",
+   "scan_edition": "University of Chicago Press, 1925 (raw OCR). The imprint reads 'Published September ... Second Impression October / Third Impression December' with the year garbled; the record says 1925, and the run of three impressions in four months fits that. Not panchatantra0000arth (sixth impression, 1955)."
+  },
+  "ryder-bhagavad-gita": {
+   "source": "ryder-gita",
+   "of": "Bhagavad-gita",
+   "work": "The Bhagavad-gita",
+   "translated": 1929,
+   "translator": "Arthur W. Ryder",
+   "scan_edition": "University of Chicago Press, copyright 1929 (raw OCR)"
+  }
+ },
+ "_pending": {
+  "ryder-dandin-ten-princes": "1927: US PD, but the only open scan (bwb_W7-BOY-629) is the third impression, 1960."
+ },
+ "_excluded": {
+  "ryder-golds-gloom": "Gold's Gloom (1925) is a selection from his Panchatantra, already shelved whole.",
+  "pg-52309": "A second Gutenberg Twenty-Two Goblins; 2290 is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ryder-kalidasa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. ryder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur W. Ryder"
+  },
+  "ryder-clay-cart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. ryder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur W. Ryder"
+  },
+  "ryder-goblins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. ryder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur W. Ryder"
+  },
+  "ryder-panchatantra": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. ryder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryder-gita": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. ryder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "ryder-kalidasa": {
+   "pg": 16659,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur W. Ryder"
+  },
+  "ryder-clay-cart": {
+   "pg": 21020,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur W. Ryder"
+  },
+  "ryder-goblins": {
+   "pg": 2290,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur W. Ryder"
+  },
+  "ryder-panchatantra": {
+   "ia": "panchatantra035159mbp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "ryder-gita": {
+   "ia": "bhagavadgita0000unse_g1d6",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

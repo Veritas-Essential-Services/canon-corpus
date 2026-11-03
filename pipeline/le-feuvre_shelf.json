@@ -1,0 +1,491 @@
+{
+ "_about": "Amy Le Feuvre's evangelical stories for children: every English text under her name at Gutenberg (catalogue: Le Feuvre 1861-1929). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Amy Le Feuvre",
+ "_name_words": [
+  "feuvre"
+ ],
+ "_surname": [
+  "amy le feuvre"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lefeuvre-probable-sons": [
+   10777,
+   "Probable Sons"
+  ],
+  "lefeuvre-teddys-button": [
+   10880,
+   "Teddy's Button"
+  ],
+  "lefeuvre-his-big-opportunity": [
+   11470,
+   "His big opportunity"
+  ],
+  "lefeuvre-carved-cupboard": [
+   22232,
+   "The Carved Cupboard"
+  ],
+  "lefeuvre-dwell-deep": [
+   22243,
+   "Dwell Deep; or, Hilda Thorn's Life Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "lefeuvre-me-and-nobbles": [
+   22290,
+   "'Me and Nobbles'"
+  ],
+  "lefeuvre-odd": [
+   22291,
+   "Odd"
+  ],
+  "lefeuvre-bulbs-and-blossoms": [
+   23944,
+   "Bulbs and Blossoms"
+  ],
+  "lefeuvre-jills-red-bag": [
+   37043,
+   "Jill's Red Bag",
+   {
+    "contents_only": true
+   }
+  ],
+  "lefeuvre-my-hearts-in-the-highlands": [
+   71450,
+   "My heart's in the Highlands"
+  ],
+  "lefeuvre-noels-christmas-tree": [
+   71664,
+   "Noel's Christmas tree"
+  ],
+  "lefeuvre-making-of-a-woman": [
+   72228,
+   "The making of a woman"
+  ],
+  "lefeuvre-what-the-wind-did": [
+   72454,
+   "What the wind did"
+  ],
+  "lefeuvre-harebells-friend": [
+   72970,
+   "Harebell's friend"
+  ],
+  "lefeuvre-little-miss-moth": [
+   73317,
+   "Little Miss Moth"
+  ],
+  "lefeuvre-some-builders": [
+   73696,
+   "Some builders"
+  ],
+  "lefeuvre-chats-with-children": [
+   74293,
+   "Chats with children"
+  ],
+  "lefeuvre-a-little-maid": [
+   74939,
+   "A little maid"
+  ],
+  "lefeuvre-her-kingdom": [
+   75056,
+   "Her kingdom"
+  ],
+  "lefeuvre-dreamikins": [
+   75057,
+   "Dreamikins"
+  ],
+  "lefeuvre-a-girl-and-her-ways": [
+   75231,
+   "A girl and her ways"
+  ],
+  "lefeuvre-christina-and-the-boys": [
+   75332,
+   "Christina and the boys"
+  ],
+  "lefeuvre-adrienne": [
+   75428,
+   "Adrienne"
+  ],
+  "lefeuvre-a-thoughtless-seven": [
+   75734,
+   "A thoughtless seven"
+  ],
+  "lefeuvre-odd-made-even": [
+   76138,
+   "Odd made even"
+  ],
+  "lefeuvre-legend-led": [
+   76174,
+   "Legend-led"
+  ],
+  "lefeuvre-us-and-our-donkey": [
+   76530,
+   "\"Us, and our donkey\""
+  ],
+  "lefeuvre-us-and-our-charge": [
+   76827,
+   "\"Us, and our charge\""
+  ],
+  "lefeuvre-jocks-inheritance": [
+   76969,
+   "Jock's inheritance"
+  ],
+  "lefeuvre-joans-handful": [
+   77651,
+   "Joan's handful"
+  ],
+  "lefeuvre-a-bit-of-rough-road": [
+   77761,
+   "A bit of rough road"
+  ],
+  "lefeuvre-discovery-of-damaris": [
+   78482,
+   "The discovery of Damaris"
+  ],
+  "lefeuvre-heathers-mistress": [
+   78661,
+   "Heather's mistress"
+  ],
+  "lefeuvre-four-gates": [
+   78742,
+   "Four gates"
+  ],
+  "lefeuvre-tomina-in-retreat": [
+   79156,
+   "Tomina in retreat"
+  ],
+  "lefeuvre-a-happy-woman": [
+   79399,
+   "A happy woman"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lefeuvre-probable-sons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-teddys-button": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-his-big-opportunity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-carved-cupboard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-dwell-deep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-me-and-nobbles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-odd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-bulbs-and-blossoms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-jills-red-bag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-my-hearts-in-the-highlands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-noels-christmas-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-making-of-a-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-what-the-wind-did": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-harebells-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-little-miss-moth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-some-builders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-chats-with-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-a-little-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-her-kingdom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-dreamikins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-a-girl-and-her-ways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-christina-and-the-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-adrienne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-a-thoughtless-seven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-odd-made-even": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-legend-led": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-us-and-our-donkey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-us-and-our-charge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-jocks-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-joans-handful": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-a-bit-of-rough-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-discovery-of-damaris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-heathers-mistress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-four-gates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-tomina-in-retreat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefeuvre-a-happy-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amy le feuvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

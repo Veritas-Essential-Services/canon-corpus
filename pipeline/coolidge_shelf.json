@@ -1,0 +1,247 @@
+{
+ "_about": "Susan Coolidge's (1835-1905) Katy books and her stories for children. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Susan Coolidge at Gutenberg was added (6 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
+ "_author": "Susan Coolidge",
+ "_name_words": [
+  "coolidge"
+ ],
+ "_surname": [
+  "susan coolidge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "coolidge-what-katy-did": [
+   8994,
+   "What Katy Did",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-what-katy-did-at-school": [
+   5141,
+   "What Katy Did at School",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-what-katy-did-next": [
+   8995,
+   "What Katy Did Next",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-clover": [
+   15798,
+   "Clover",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-in-the-high-valley": [
+   28724,
+   "In the High Valley"
+  ],
+  "coolidge-nine-little-goslings": [
+   27678,
+   "Nine Little Goslings"
+  ],
+  "coolidge-eyebright": [
+   27223,
+   "Eyebright",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-round-dozen": [
+   35186,
+   "A Round Dozen",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-new-years-bargain": [
+   58762,
+   "The New-Year's Bargain",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-verses": [
+   4560,
+   "Verses",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-a-little-country-girl": [
+   27162,
+   "A Little Country Girl",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-not-quite-eighteen": [
+   33927,
+   "Not Quite Eighteen",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-just-sixteen": [
+   41641,
+   "Just Sixteen."
+  ],
+  "coolidge-last-verses": [
+   49000,
+   "Last Verses",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-a-few-more-verses": [
+   49518,
+   "A Few More Verses"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "coolidge-who-ate-the-pink-sweetmeat-and-other-christmas-stor": "PG 48747, Who Ate the Pink Sweetmeat?, is a many-author volume"
+ },
+ "_checks": {
+  "coolidge-what-katy-did": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-what-katy-did-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-what-katy-did-next": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-clover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-in-the-high-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-nine-little-goslings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-eyebright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-round-dozen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-new-years-bargain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-a-little-country-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-not-quite-eighteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-just-sixteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-last-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-a-few-more-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

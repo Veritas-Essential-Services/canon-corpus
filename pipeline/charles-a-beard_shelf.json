@@ -1,0 +1,33 @@
+{
+ "_about": "Charles Austin Beard (1874-1948), American historian and political theorist; his narrative histories are left out here. Gutenberg: An Economic Interpretation of the Constitution of the United States (1913). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Charles A. Beard",
+ "_name_words": [
+  "charles",
+  "austin",
+  "beard"
+ ],
+ "_surname": [
+  "charles a. beard",
+  "charles austin beard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "beard-economic-interpretation-constitution": [
+   70677,
+   "An Economic Interpretation of the Constitution of the United States (1913)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "beard-economic-interpretation-constitution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles a. beard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "_about": "Public-domain William B. Sprague (1795-1876), Presbyterian pastor at Albany, for the Word Hoard: the Annals of the American Pulpit (New York: Robert Carter, 1857-1869, nine volumes; mostly commemorative letters he gathered from many contributors), Lectures on Revivals of Religion (1832) and Lectures illustrating the Contrast between True Christianity and Various Other Systems (1837), from Internet Archive scans. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sprague"
+ ],
+ "_surname": [
+  "william b. sprague",
+  "sprague"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sprague-annals-1": [
+   "annalsofamerican01spra",
+   "Annals of the American Pulpit, vol. I (New York: Robert Carter & Brothers, 1857)"
+  ],
+  "sprague-annals-2": [
+   "annalsofamerican02spra",
+   "Annals of the American Pulpit, vol. II (New York: Robert Carter & Brothers, 1857)"
+  ],
+  "sprague-annals-3": [
+   "annalsofamerican03spra",
+   "Annals of the American Pulpit, vol. III (New York: Robert Carter & Brothers, 1858)"
+  ],
+  "sprague-annals-4": [
+   "annalsofamerican04spra",
+   "Annals of the American Pulpit, vol. IV (New York: Robert Carter & Brothers, 1858)"
+  ],
+  "sprague-annals-5": [
+   "annalsofamerican05spra",
+   "Annals of the American Pulpit, vol. V (New York: Robert Carter & Brothers, 1859)"
+  ],
+  "sprague-annals-6": [
+   "annalsofamerican06spra",
+   "Annals of the American Pulpit, vol. VI (New York: Robert Carter & Brothers, 1860)"
+  ],
+  "sprague-annals-7": [
+   "annalsofamerican186107spra",
+   "Annals of the American Methodist Pulpit, vol. VII (New York: Robert Carter & Brothers, 1861)"
+  ],
+  "sprague-annals-8": [
+   "annalsofamerican08spra",
+   "Annals of the American Pulpit, vol. VIII (New York: Robert Carter & Brothers, 1865)"
+  ],
+  "sprague-annals-9": [
+   "annalsofamerican09spra",
+   "Annals of the American Pulpit, vol. IX (New York: Robert Carter & Brothers, 1869)"
+  ],
+  "sprague-lectures-revivals-1832": [
+   "lecturesonreviva00spra",
+   "Lectures on Revivals of Religion, with an introductory essay by Leonard Woods (Albany: Webster & Skinners and others, 1832)"
+  ],
+  "sprague-lectures-contrast-1837": [
+   "lecturesillustra00spra",
+   "Lectures illustrating the Contrast between True Christianity and Various Other Systems (New York: Daniel Appleton, 1837)"
+  ]
+ },
+ "_alternates": {
+  "sprague-copies": "The 1873 reissue of the Methodist volume; other copies of the Annals and Lectures; Letters to Young Men (fourth edition, imprint not read)"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "sprague-annals-6": "title page read: 1860 (OCR \"I860\"); the catalogue dates every volume 1857",
+  "sprague-annals-7": "title page read: 1861; the volume number is not on the title page read",
+  "sprague-annals-9": "title page read: 1869"
+ },
+ "_pending": {
+  "sprague-letters-daughter": "Letters on Practical Subjects, from a Clergyman of New-England, to his Daughter (Hartford, 1822): the title page names no author"
+ },
+ "_translators": {},
+ "_checks": {
+  "sprague-annals-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sprague-annals-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sprague-annals-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sprague-annals-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sprague-annals-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sprague-annals-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1860 (OCR \"I860\"); the catalogue dates every volume 1857"
+  },
+  "sprague-annals-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1861; the volume number is not on the title page read"
+  },
+  "sprague-annals-8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sprague-annals-9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1857-[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1869"
+  },
+  "sprague-lectures-revivals-1832": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sprague-lectures-contrast-1837": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william b. sprague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

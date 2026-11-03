@@ -1,0 +1,47 @@
+{
+ "_about": "George McCall Theal's collection of Xhosa folk tales, printed under the title Kaffir Folk-lore (London: Swan Sonnenschein, 1886); the title is the book's own and uses a term now recognised as a slur. His histories are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "George McCall Theal",
+ "_name_words": [
+  "theal"
+ ],
+ "_surname": [
+  "george mccall theal"
+ ],
+ "_translators": {
+  "theal-kaffir-folk-lore": "Theal"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "theal-kaffir-folk-lore": [
+   71335,
+   "Kaffir Folk-lore",
+   {
+    "levels": [
+     {
+      "re": "(?:NOTES|FOOTNOTES)\\.?$"
+     },
+     {
+      "re": "(?:PREFACE|CONTENTS|KAFFIR FOLK|INTRODUCTORY CHAPTER REGARDING THE KAFFIRS|PROVERBS AND FIGURATIVE EXPRESSIONS|(?:ANOTHER |THE )?STORY OF [A-Z][^a-z]+|THE RUNAWAY CHILDREN[^a-z]*|THE GIRL AND THE MBULU|OPEN SPACE)\\.?$"
+     }
+    ],
+    "start": "PREFACE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "theal-kaffir-folk-lore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george mccall theal",
+   "translator_claimed": "Theal",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

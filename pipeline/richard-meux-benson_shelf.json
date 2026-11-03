@@ -1,0 +1,169 @@
+{
+ "_about": "Public-domain Richard Meux Benson (1824-1915, founder of the Society of St John the Evangelist, Cowley) for the Word Hoard: 9 volumes from Internet Archive scans: Redemption (1861), The Final Passover (vols I-III in five books, 1893-1895, with The Life beyond the Grave, 1885, as its fourth volume), Benedictus Dominus (no year on the title page) and The Followers of the Lamb (1905 impression). Written in English. Not Robert Hugh Benson, who has his own shelf. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "benson"
+ ],
+ "_surname": [
+  "r. m. benson",
+  "richard meux benson",
+  "benson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rmbenson-redemption": [
+   "redemptionacour00bensgoog",
+   "Redemption: some of the aspects of the work of Christ, a course of sermons (London: J. T. Hayes, 1861)"
+  ],
+  "rmbenson-final-passover-1": [
+   "thefinalpassover01bensuoft",
+   "The Final Passover, vol. I: The Rejection (London: Longmans, Green, 1893)"
+  ],
+  "rmbenson-final-passover-2a": [
+   "thefinalpassover02bensuoft",
+   "The Final Passover, vol. II: The Upper Chamber, part I (London: Longmans, Green, 1895)"
+  ],
+  "rmbenson-final-passover-2b": [
+   "thefinalpassover00bensuoft",
+   "The Final Passover, vol. II: The Upper Chamber, part II (London: Longmans, Green, 1895)"
+  ],
+  "rmbenson-final-passover-3a": [
+   "finalpassover03bensuoft",
+   "The Final Passover, vol. III: The Divine Exodus, part I (London: Longmans, Green, 1893)"
+  ],
+  "rmbenson-final-passover-3b": [
+   "thefinalpasspt2casp03bensuoft",
+   "The Final Passover, vol. III: The Divine Exodus, part II (London: Longmans, Green, 1893)"
+  ],
+  "rmbenson-life-beyond-grave": [
+   "lifebeyondgrave00bensgoog",
+   "The Life beyond the Grave: meditations upon the Resurrection and Ascension (London: J. T. Hayes, 1885)"
+  ],
+  "rmbenson-benedictus-dominus": [
+   "benedictusdominu00bensuoft",
+   "Benedictus Dominus: a course of meditations for every day of the year (London: J. T. Hayes; no year on the title page)"
+  ],
+  "rmbenson-followers-of-lamb": [
+   "bwb_C0-AKY-835",
+   "The Followers of the Lamb, new impression (London: Longmans, Green, 1905)"
+  ]
+ },
+ "_alternates": {
+  "rmbenson-other": "The Magnificat (1889), War-Songs of the Prince of Peace (1901), The Way of Holiness (1901)",
+  "rmbenson-copies": "Google copies of The Final Passover"
+ },
+ "_excluded": {
+  "rmbenson-late": "1932, 1934 and 1958 items",
+  "rmbenson-other-men": "Louis F. Benson on CCEL; an 1828 Manual of Intercessory Prayer"
+ },
+ "_rights_checked": {
+  "rmbenson-benedictus-dominus": "title page read: J. T. Hayes, 17 Henrietta Street; no year; Hayes's imprint and Benson's style as Superior place it in his lifetime (he died 1915)"
+ },
+ "_pending": {
+  "rmbenson-letters": "Letters (1916) and Spiritual Letters (1924): not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "rmbenson-redemption": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard meux benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rmbenson-final-passover-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. m. benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1893-1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rmbenson-final-passover-2a": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. m. benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1893-1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rmbenson-final-passover-2b": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. m. benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1893-1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rmbenson-final-passover-3a": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. m. benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1893-1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rmbenson-final-passover-3b": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1893-1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rmbenson-life-beyond-grave": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. m. benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rmbenson-benedictus-dominus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benson",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[19--?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: J. T. Hayes, 17 Henrietta Street; no year; Hayes's imprint and Benson's style as Superior place it in his lifetime (he died 1915)"
+  },
+  "rmbenson-followers-of-lamb": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. m. benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

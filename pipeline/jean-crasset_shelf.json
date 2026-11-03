@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Jean Crasset (1618-1692), French Jesuit spiritual writer, for the Word Hoard: A New Form of Meditations for every Day in the Year (1685), The Devotion of Calvary (Liverpool, 1844), Christian Considerations translated by Anna H. Dorsey (New York, 1864), the Meditations translated by T. B. Snow (1888) and A Key to Meditation (1926), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "crasset"
+ ],
+ "_surname": [
+  "crasset",
+  "john crasset",
+  "jean crasset",
+  "father crasset"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "crasset-new-form-meditations-1685": [
+   "bim_early-english-books-1641-1700_a-new-form-of-meditation_crasset-jean_1685",
+   "A New Form of Meditations for every Day in the Year, reviewed, corrected and enlarged, by a Well-wisher to Devotion (London, 1685)"
+  ],
+  "crasset-devotion-calvary-1844": [
+   "TheDevotionOfCalvary",
+   "The Devotion of Calvary; or Meditations on the Passion (Liverpool: Booker & Co.; London: C. Dolman, 1844)"
+  ],
+  "crasset-christian-considerations-1864": [
+   "christianconside00cras",
+   "Christian Considerations; or, Devout Meditations for every day in the year, tr. Anna H. Dorsey (New York: P. O'Shea, 1864)"
+  ],
+  "crasset-meditations-snow-1888": [
+   "meditationsforev02cras",
+   "Meditations for every Day in the Year, from the Christian Considerations, Pentecost to Advent, tr. T. B. Snow (London: R. Washbourne, 1888)"
+  ],
+  "crasset-key-meditation-1926": [
+   "keytomeditation0000pere",
+   "A Key to Meditation, or Simple Methods of Mental Prayer (London: Burns Oates & Washbourne, 1926)"
+  ]
+ },
+ "_alternates": {
+  "crasset-copies": "Dorsey's Christian Considerations (New York: P. O'Shea, 1882); other 1844 and 1685 copies (not read)"
+ },
+ "_excluded": {
+  "crasset-other": "The History of the Church of Japan (1705): its title page names the Abbé de T., not Crasset; The Secret of Sanctity (de Sales and Crasset together, Ella McMahon)"
+ },
+ "_rights_checked": {
+  "crasset-new-form-meditations-1685": "title page read: translator given only as \"a Well-wisher to Devotion\"",
+  "crasset-devotion-calvary-1844": "title page read: translator not named (the approbation says \"by a Clergyman of this diocess\")",
+  "crasset-key-meditation-1926": "title page read: translator not named; printed 1926, so US public domain"
+ },
+ "_pending": {},
+ "_translators": {
+  "crasset-christian-considerations-1864": "dorsey",
+  "crasset-meditations-snow-1888": "snow"
+ },
+ "_checks": {
+  "crasset-new-form-meditations-1685": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "crasset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1685",
+   "ia_date": "1685",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator given only as \"a Well-wisher to Devotion\""
+  },
+  "crasset-devotion-calvary-1844": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "crasset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named (the approbation says \"by a Clergyman of this diocess\")"
+  },
+  "crasset-christian-considerations-1864": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "crasset",
+   "translator_claimed": "dorsey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "crasset-meditations-snow-1888": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "crasset",
+   "translator_claimed": "snow",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "crasset-key-meditation-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "crasset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; printed 1926, so US public domain"
+  }
+ }
+}

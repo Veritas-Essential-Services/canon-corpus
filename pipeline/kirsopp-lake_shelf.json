@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain Kirsopp Lake, English New Testament scholar, professor at Leiden and then at Harvard, for the Word Hoard: The Text of the New Testament, The Historical Evidence for the Resurrection of Jesus Christ, The Early Days of Monasticism on Mount Athos, The Earlier Epistles of St. Paul, The Stewardship of Faith, and Landmarks in the History of Early Christianity. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 132 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "kirsopp lake",
+  "k. lake",
+  "lake"
+ ],
+ "_surname": [
+  "lake"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lake-text-of-nt": [
+   "textofnewtestame00lake",
+   "The text of the New Testament (London : Rivingtons, 1901)"
+  ],
+  "lake-resurrection": [
+   "historicaleviden0000lake",
+   "The historical evidence for the resurrection of Jesus Christ (London, Williams & Norgate; New York, G.P. Putnam's Sons, 1907)"
+  ],
+  "lake-monasticism-athos": [
+   "earlydaysofmonas00lakerich",
+   "The early days of monasticism on Mount Athos (Oxford, The Clarendon press, 1909)"
+  ],
+  "lake-earlier-epistles": [
+   "earlierepistleso00lakeuoft",
+   "The earlier Epistles of St. Paul, their motive and origin (London, Rivingtons, 1911)"
+  ],
+  "lake-stewardship-of-faith": [
+   "stewardshipoffai00lake",
+   "The stewardship of faith, our heritage from early Christianity (New York, London, G.P. Putnam's Sons, 1915)"
+  ],
+  "lake-landmarks": [
+   "landmarksinhisto0000kirs_a1v2",
+   "Landmarks in the history of early christianity (catalogued 1920)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "lake-translations": "his Loeb Apostolic Fathers is a translation of other men's texts; the Codex Sinaiticus and Hermas facsimiles are editions",
+  "lake-articles": "single journal articles and pamphlets",
+  "lake-dups": "other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "lake-beginnings": "The Beginnings of Christianity, Part I (1920, IA beginningschrist01unknuoft), edited with F. J. Foakes Jackson, essays by several writers (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "lake-text-of-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lake-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lake-monasticism-athos": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lake-earlier-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lake-stewardship-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lake-landmarks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

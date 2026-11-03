@@ -1,0 +1,382 @@
+{
+ "_about": "Molly Elliot Seawell's historical romances, Virginia stories and naval stories for boys. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Molly Elliot Seawell",
+ "_name_words": [
+  "seawell"
+ ],
+ "_surname": [
+  "seawell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "meseawell-betty-at-fort-blizzard": [
+   18022,
+   "Betty at Fort Blizzard"
+  ],
+  "meseawell-francezka": [
+   31804,
+   "Francezka"
+  ],
+  "meseawell-throckmorton": [
+   36829,
+   "Throckmorton: A Novel"
+  ],
+  "meseawell-twelve-naval-captains-being-a-record-of-certain-am": [
+   46406,
+   "Twelve Naval Captains Being a Record of Certain Americans Who Made Themselves Immortal"
+  ],
+  "meseawell-rock-of-the-lion": [
+   47785,
+   "The Rock of the Lion"
+  ],
+  "meseawell-bettys-virginia-christmas": [
+   59594,
+   "Betty's Virginia Christmas"
+  ],
+  "meseawell-maid-marian-and-other-stories": [
+   61194,
+   "Maid Marian, and Other Stories"
+  ],
+  "meseawell-paul-jones": [
+   61784,
+   "Paul Jones"
+  ],
+  "meseawell-quarterdeck-and-foksle": [
+   62483,
+   "Quarterdeck and Fok'sle: Stories of the Sea"
+  ],
+  "meseawell-jugglers": [
+   62927,
+   "The Jugglers: A Story"
+  ],
+  "meseawell-son-of-columbus": [
+   63173,
+   "The Son of Columbus"
+  ],
+  "meseawell-decatur-and-somers": [
+   63209,
+   "Decatur and Somers"
+  ],
+  "meseawell-last-duchess-of-belgarde": [
+   66592,
+   "The Last Duchess of Belgarde"
+  ],
+  "meseawell-secret-of-toni": [
+   66975,
+   "The Secret of Toni"
+  ],
+  "meseawell-history-of-the-lady-betty-stair": [
+   67280,
+   "The History of the Lady Betty Stair"
+  ],
+  "meseawell-strange-sad-comedy": [
+   67659,
+   "A Strange, Sad Comedy"
+  ],
+  "meseawell-despotism-and-democracy": [
+   67721,
+   "Despotism and Democracy: A Study in Washington Society and Politics"
+  ],
+  "meseawell-loves-of-the-lady-arabella": [
+   68033,
+   "The Loves of the Lady Arabella"
+  ],
+  "meseawell-berkeleys-and-their-neighbors": [
+   68290,
+   "The Berkeleys and their neighbors"
+  ],
+  "meseawell-lively-adventures-of-gavin-hamilton": [
+   68630,
+   "The lively adventures of Gavin Hamilton"
+  ],
+  "meseawell-fortunes-of-fifi": [
+   68758,
+   "The fortunes of Fifi"
+  ],
+  "meseawell-children-of-destiny": [
+   69193,
+   "Children of destiny"
+  ],
+  "meseawell-papa-bouchard": [
+   70469,
+   "Papa Bouchard"
+  ],
+  "meseawell-house-of-egremont": [
+   71284,
+   "The House of Egremont"
+  ],
+  "meseawell-virginia-cavalier": [
+   71672,
+   "A Virginia cavalier"
+  ],
+  "meseawell-victory": [
+   72927,
+   "The victory"
+  ],
+  "meseawell-sprightly-romance-of-marsac": [
+   75477,
+   "The sprightly romance of Marsac"
+  ],
+  "meseawell-chateau-of-montplaisir": [
+   77315,
+   "The Chateau of Montplaisir"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "meseawell-betty-at-fort-blizzard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-francezka": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-throckmorton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-twelve-naval-captains-being-a-record-of-certain-am": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-rock-of-the-lion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-bettys-virginia-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-maid-marian-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-paul-jones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-quarterdeck-and-foksle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-jugglers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-son-of-columbus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-decatur-and-somers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-last-duchess-of-belgarde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-secret-of-toni": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-history-of-the-lady-betty-stair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-strange-sad-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-despotism-and-democracy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-loves-of-the-lady-arabella": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-berkeleys-and-their-neighbors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-lively-adventures-of-gavin-hamilton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-fortunes-of-fifi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-children-of-destiny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-papa-bouchard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-house-of-egremont": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-virginia-cavalier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-sprightly-romance-of-marsac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meseawell-chateau-of-montplaisir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seawell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

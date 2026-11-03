@@ -1,0 +1,110 @@
+{
+ "_about": "Public-domain Thomas Townson, Archdeacon of Richmond, for the Word Hoard: his Doubts concerning The Confessional and its defence, A Dialogue between Isaac Walton and Homologistes, a visitation sermon, A Discourse on the Evangelical History, Babylon in the Revelation, his collected Works, and the Discourses on the Four Gospels. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 120 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas townson",
+  "t. townson",
+  "townson"
+ ],
+ "_surname": [
+  "townson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "townson-visitation-1778": [
+   "bim_eighteenth-century_a-sermon-preached-at-the_townson-thomas_1778",
+   "A sermon preached at the primary visitation of the Right Reverend Beilby Lord Bishop of Chester, in the cathedral church, on Thursday, August 13, 1778. By Thomas Townson, ...  1778 (catalogued 1778)"
+  ],
+  "townson-evangelical-history": [
+   "bim_eighteenth-century_a-discourse-on-the-evang_townson-thomas_1793",
+   "A discourse on the evangelical history, from the interment to the ascension of our Lord and Saviour Jesus Christ. By the late Reverend Thomas Townson, ... To which is prefixed an account of the author.  1793 (catalogued 1793)"
+  ],
+  "townson-babylon": [
+   "bim_eighteenth-century_babylon-in-the-revelatio_townson-thomas_1797",
+   "Babylon in the Revelation of St. John as signifying the city of Rome considered with reference to the claims of the Roman church. By ... Thomas Townson, ...  1797 (catalogued 1797)"
+  ],
+  "townson-works": [
+   "worksofreverendt00town",
+   "The works of the Reverend Thomas Townson ... : to which is prefixed an account of the author with an introduction to the discourses on the Gospels, and a sermon on the quotations in the Old Testament (London : Printed for F.C. and J. Rivington, 1810)"
+  ],
+  "townson-four-gospels": [
+   "discoursesonfour0000unse",
+   "Discourses on the four Gospels chiefly with regard to the peculiar design of each, and the order and places in which they were written. To which is added a discourse on the evangelical history from the interment to the ascension of our Lord (University Press, 1831)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "townson-german": "thomastownsonsa00towngoog, a German translation",
+  "robert-townson": "b22415646 is by Robert Townson"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "townson-visitation-1778": "Title page read from the page image: \"A Sermon preached at the Primary Visitation of the Right Reverend Beilby Lord Bishop of Chester ... By Thomas Townson, B.D. Rector of the Lower Mediety of Malpas.\"",
+  "townson-babylon": "OCR of the title page: \"BY THE LATE REVEREND THOMAS TOW NSON, D. D. ARCHDEACON or RICHMOND\""
+ },
+ "_pending": {
+  "townson-doubts": "Doubts concerning the authenticity of the last publication of The confessional, and the current editions of certain books cited in it. Addressed to the author of that learned work.  1767 (catalogued 1767) (IA bim_eighteenth-century_doubts-concerning-the-au_townson-thomas_1767): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "townson-defence-doubts": "A defence of the doubts concerning the authenticity of the last publication of The confessional, &c. In answer to Occasional remarks, &c.  1768 (catalogued 1768) (IA bim_eighteenth-century_a-defence-of-the-doubts-_townson-thomas_1768): published without a name (only a manuscript note names Townson); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "townson-walton-dialogue": "A dialogue between Isaac Walton and Homologistes: in which the character of Bishop Sanderson is defended against the author of The confessional.  1768 (catalogued 1768) (IA bim_eighteenth-century_a-dialogue-between-isaac_townson-thomas_1768): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "townson-visitation-1778": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "townson-evangelical-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townson",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "townson-babylon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "townson-works": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "townson-four-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

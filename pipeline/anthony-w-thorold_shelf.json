@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain Anthony Wilson Thorold (1825-1895), Bishop of Rochester and then of Winchester, for the Word Hoard: The Presence of Christ (1880), The Gospel of Christ (1881), The Yoke of Christ (1883), Questions of Faith and Duty (1892), The Gospel of Work (1893), The Tenderness of Christ (1895), On Money and On Letter Writing (1896). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 75 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thorold"
+ ],
+ "_surname": [
+  "anthony w. thorold",
+  "anthony wilson thorold",
+  "a. w. thorold",
+  "bishop thorold",
+  "a. w. rochester",
+  "a. w. winton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thorold-presence-of-christ": [
+   "presenceofchrist00thor",
+   "The presence of Christ (New York : A.D.F. Randolph, 1880)"
+  ],
+  "thorold-gospel-of-christ": [
+   "gospelofchrist00thor_0",
+   "The gospel of Christ (New York : A.D.F. Randolph & Co., 1881)"
+  ],
+  "thorold-yoke-of-christ": [
+   "yokeofchristindu00thor",
+   "The yoke of Christ in the duties and circumstances of life (New York : A.D.F. Randolph, 1883)"
+  ],
+  "thorold-questions-faith-duty": [
+   "questionsoffaith00thor",
+   "Questions of faith and duty (Philadelphia, Pa. : J.B. Lippincott Co., 1892)"
+  ],
+  "thorold-gospel-of-work": [
+   "gospelofwork00thor",
+   "The gospel of work (New York : E.P. Dutton, 1893)"
+  ],
+  "thorold-tenderness-of-christ": [
+   "thetendernessofc00thoruoft",
+   "The tenderness of Christ (London : Isbister, 1895)"
+  ],
+  "thorold-on-money": [
+   "onmoneythorold00thoriala",
+   "On money (N.Y. : Dodd, Mead and co., 1896)"
+  ],
+  "thorold-letter-writing": [
+   "onletterwriting00thorgoog",
+   "On Letter Writing (Isbister & company , limited, 1896)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "thorold-other": "diocesan charges and pastoral letters under about 120 pages; Selections from the Works of Bishop Thorold (1898, compiled by others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "thorold-presence-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony w. thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorold-gospel-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony w. thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thorold-yoke-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony w. thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorold-questions-faith-duty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony w. thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorold-gospel-of-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony w. thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thorold-tenderness-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony w. thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorold-on-money": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony w. thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorold-letter-writing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop thorold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

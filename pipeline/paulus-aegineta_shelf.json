@@ -1,0 +1,81 @@
+{
+ "_about": "Paulus Aegineta, The Seven Books, translated from the Greek with a commentary by Francis Adams (Sydenham Society, 3 vols.), raw IA OCR (BIU Sante scans). The imprint year is not legible in the OCR of any title page; vol. I's advertisement is dated 1844 and the catalogue gives 1844-1847.",
+ "_name_words": [
+  "paulus",
+  "aegineta",
+  "seven",
+  "books"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "paulus-aegineta-adams-1844-v1": [
+   "BIUSante_37321x01",
+   "The Seven Books of Paulus Aegineta, vol. I (Sydenham Society, 1844)",
+   "tr. Francis Adams"
+  ],
+  "paulus-aegineta-adams-1846-v2": [
+   "BIUSante_37321x02",
+   "The Seven Books of Paulus Aegineta, vol. II (Sydenham Society, 1846)",
+   "tr. Francis Adams"
+  ],
+  "paulus-aegineta-adams-1847-v3": [
+   "BIUSante_37321x03",
+   "The Seven Books of Paulus Aegineta, vol. III (Sydenham Society, 1847)",
+   "tr. Francis Adams"
+  ]
+ },
+ "_rights_checked": {},
+ "_surname": [
+  "paulus",
+  "aegineta",
+  "ægineta",
+  "aeginetus"
+ ],
+ "_translators": {
+  "paulus-aegineta-adams-1844-v1": "francis adams",
+  "paulus-aegineta-adams-1846-v2": "francis adams",
+  "paulus-aegineta-adams-1847-v3": "francis adams"
+ },
+ "_checks": {
+  "paulus-aegineta-adams-1844-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "paulus",
+   "translator_claimed": "francis adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "paulus-aegineta-adams-1846-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "paulus",
+   "translator_claimed": "francis adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "paulus-aegineta-adams-1847-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "paulus",
+   "translator_claimed": "francis adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

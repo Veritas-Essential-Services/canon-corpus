@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Percy Favor Bicknell (b. 1860): Jókai's Manasseh (1901) and The Baron's Sons (1900). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "percy favor bicknell",
+  "percy f. bicknell"
+ ],
+ "_surname": [
+  "percy favor bicknell",
+  "percy f. bicknell"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pfb-20892": [
+   20892,
+   "Manasseh: A Romance of Transylvania"
+  ],
+  "pfb-34674": [
+   34674,
+   "The Baron's Sons: A Romance of the Hungarian Revolution of 1848"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "pf-bicknell-jokai-manasseh-a-romance-of-transylvania": {
+   "source": "pfb-20892",
+   "of": "Mór Jókai",
+   "work": "Manasseh: A Romance of Transylvania",
+   "translated": "1900-1901 (see the Gutenberg header)",
+   "translator": "Percy Favor Bicknell",
+   "scan_edition": "Project Gutenberg 20892 (clean text)"
+  },
+  "pf-bicknell-jokai-the-baron-s-sons-a-romance-of-the-hungar": {
+   "source": "pfb-34674",
+   "of": "Mór Jókai",
+   "work": "The Baron's Sons: A Romance of the Hungarian Revolution of 1848",
+   "translated": "1900-1901 (see the Gutenberg header)",
+   "translator": "Percy Favor Bicknell",
+   "scan_edition": "Project Gutenberg 34674 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pfb-20892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "percy favor bicknell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Percy Favor Bicknell"
+  },
+  "pfb-34674": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "percy favor bicknell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Percy Favor Bicknell"
+  }
+ },
+ "_verified": {
+  "pfb-20892": {
+   "pg": 20892,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Percy Favor Bicknell"
+  },
+  "pfb-34674": {
+   "pg": 34674,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Percy Favor Bicknell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

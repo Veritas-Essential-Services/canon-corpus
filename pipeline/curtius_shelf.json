@@ -1,0 +1,78 @@
+{
+ "_about": "Quintus Curtius, History of Alexander, in English: John Brende's Tudor translation (1553, first edition; EEBO OCR, black letter, noisy) and John Digby's (1714, 2 vols., with Freinshemius's supplement). Raw IA OCR; title pages read.",
+ "_name_words": [
+  "curtius",
+  "alexander",
+  "quintus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "curtius-brende-1553": [
+   "bim_early-english-books-1475-1640_the-historie-of-quintus-_curtius-rufus-q_1553",
+   "The Historie of Quintus Curcius, conteyning the Actes of the greate Alexander (London, 1553)",
+   "tr. John Brende"
+  ],
+  "curtius-digby-1714-v1": [
+   "bim_eighteenth-century_quintus-curtius-his-hist_curtius-rufus-quintus_1714_1",
+   "Quintus Curtius his History of the Wars of Alexander, with Freinshemius's supplement (London, 1714), vol. 1",
+   "tr. John Digby"
+  ],
+  "curtius-digby-1714-v2": [
+   "bim_eighteenth-century_quintus-curtius-his-hist_curtius-rufus-quintus_1714_2",
+   "Wars of Alexander, vol. 2 of Quintus Curtius his History of the Wars of Alexander (London, 1714)",
+   "tr. John Digby"
+  ]
+ },
+ "_surname": [
+  "curtius",
+  "curcius"
+ ],
+ "_translators": {
+  "curtius-digby-1714-v1": "John Digby"
+ },
+ "_checks": {
+  "curtius-brende-1553": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1553",
+   "ia_date": "1553",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "curtius-digby-1714-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtius",
+   "translator_claimed": "John Digby",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "curtius-digby-1714-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_translator_unchecked": {
+  "curtius-brende-1553": "the black-letter OCR prints the name as 'lohn Brence' (John Brende), read by eye on the title page (London, Richard Tottel, 1553); not checkable as a word, and no override covers a translator",
+  "curtius-digby-1714-v2": "the vol. 2 scan has no title page (it opens at Book VII); it continues vol. 1 of the same 1714 edition, whose title page and text name John Digby; not checkable in this volume"
+ }
+}

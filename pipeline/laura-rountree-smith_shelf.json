@@ -1,0 +1,201 @@
+{
+ "_about": "Laura Rountree Smith's Bunny and Little Eskimo books for young children. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Laura Rountree Smith",
+ "_name_words": [
+  "rountree",
+  "smith"
+ ],
+ "_surname": [
+  "rountree smith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lrsmith-snubby-nose-and-tippy-toes": [
+   10329,
+   "Snubby Nose and Tippy Toes"
+  ],
+  "lrsmith-gingerbread-boy-and-joyful-jingle-play-stories": [
+   63463,
+   "The Gingerbread Boy and Joyful Jingle Play Stories"
+  ],
+  "lrsmith-tale-of-bunny-cotton-tail": [
+   64982,
+   "The Tale of Bunny Cotton-Tail"
+  ],
+  "lrsmith-runaway-bunny": [
+   65568,
+   "The Runaway Bunny"
+  ],
+  "lrsmith-box-of-smiles-and-other-stories": [
+   67207,
+   "The Box of Smiles, and Other Stories"
+  ],
+  "lrsmith-twinkle-toes-and-his-magic-mittens": [
+   67279,
+   "Twinkle Toes and His Magic Mittens"
+  ],
+  "lrsmith-tale-of-curly-tail": [
+   68822,
+   "The tale of Curly-Tail"
+  ],
+  "lrsmith-mother-bunny-and-her-flowers": [
+   68908,
+   "Mother Bunny and her flowers"
+  ],
+  "lrsmith-helps-and-hints-for-halloween": [
+   68984,
+   "Helps and hints for Hallowe'en"
+  ],
+  "lrsmith-tiddly-winks": [
+   69047,
+   "The Tiddly Winks"
+  ],
+  "lrsmith-fairy-babies": [
+   69075,
+   "The fairy babies"
+  ],
+  "lrsmith-roly-poly-book": [
+   69076,
+   "The Roly-Poly book"
+  ],
+  "lrsmith-polite-bunny": [
+   70490,
+   "Polite bunny"
+  ],
+  "lrsmith-three-little-kittens-who-lost-their-mittens": [
+   71710,
+   "Three little kittens who lost their mittens"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lrsmith-snubby-nose-and-tippy-toes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-gingerbread-boy-and-joyful-jingle-play-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-tale-of-bunny-cotton-tail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-runaway-bunny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-box-of-smiles-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-twinkle-toes-and-his-magic-mittens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-tale-of-curly-tail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-mother-bunny-and-her-flowers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-helps-and-hints-for-halloween": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-tiddly-winks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-fairy-babies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-roly-poly-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-polite-bunny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lrsmith-three-little-kittens-who-lost-their-mittens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rountree smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

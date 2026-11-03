@@ -1,0 +1,242 @@
+{
+ "_about": "Cyrus Townsend Brady's naval, frontier and historical romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Cyrus Townsend Brady",
+ "_name_words": [
+  "brady",
+  "cyrus",
+  "townsend"
+ ],
+ "_surname": [
+  "townsend brady",
+  "cyrus townsend brady"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ctbrady-and-thus-he-came": [
+   14606,
+   "And Thus He Came: A Christmas Fantasy"
+  ],
+  "ctbrady-little-book-for-christmas": [
+   15343,
+   "A Little Book for Christmas"
+  ],
+  "ctbrady-eagle-of-the-empire": [
+   20515,
+   "The Eagle of the Empire: A Story of Waterloo"
+  ],
+  "ctbrady-for-love-of-country": [
+   20791,
+   "For Love of Country: A Story of Land and Sea in the Days of the Revolution"
+  ],
+  "ctbrady-south-american-fights-and-fighters-and-other-tales-o": [
+   20910,
+   "South American Fights and Fighters, and Other Tales of Adventure"
+  ],
+  "ctbrady-little-traitor-to-the-south-a-war-time-comedy-with-a": [
+   21681,
+   "A Little Traitor to the South A War Time Comedy with a Tragic Interlude"
+  ],
+  "ctbrady-sir-henry-morgan-buccaneer": [
+   29316,
+   "Sir Henry Morgan, Buccaneer: A Romance of the Spanish Main"
+  ],
+  "ctbrady-chalice-of-courage": [
+   37492,
+   "The Chalice Of Courage: A Romance of Colorado"
+  ],
+  "ctbrady-woven-with-the-ship": [
+   39097,
+   "Woven with the Ship: A Novel of 1865 Together with certain other veracious tales of various sorts"
+  ],
+  "ctbrady-secret-service-being-the-happenings-of-a-night-in-ri": [
+   44659,
+   "Secret Service Being the Happenings of a Night in Richmond in the Spring of 1865"
+  ],
+  "ctbrady-by-the-world-forgot": [
+   46600,
+   "By the World Forgot: A Double Romance of the East and West"
+  ],
+  "ctbrady-commodore-paul-jones": [
+   52485,
+   "Commodore Paul Jones"
+  ],
+  "ctbrady-grip-of-honor": [
+   52540,
+   "The Grip of Honor: A Story of Paul Jones and the American Revolution"
+  ],
+  "ctbrady-indian-fights-and-fighters": [
+   55275,
+   "Indian Fights and Fighters: The Soldier and the Sioux"
+  ],
+  "ctbrady-island-of-the-stairs": [
+   69130,
+   "The island of the stairs"
+  ],
+  "ctbrady-hearts-and-the-highway": [
+   78498,
+   "Hearts and the highway"
+  ],
+  "ctbrady-web-of-steel": [
+   78753,
+   "Web of steel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ctbrady-and-thus-he-came": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-little-book-for-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-eagle-of-the-empire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-for-love-of-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-south-american-fights-and-fighters-and-other-tales-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-little-traitor-to-the-south-a-war-time-comedy-with-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-sir-henry-morgan-buccaneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-chalice-of-courage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-woven-with-the-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-secret-service-being-the-happenings-of-a-night-in-ri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-by-the-world-forgot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-commodore-paul-jones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-grip-of-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-indian-fights-and-fighters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-island-of-the-stairs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-hearts-and-the-highway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctbrady-web-of-steel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "townsend brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

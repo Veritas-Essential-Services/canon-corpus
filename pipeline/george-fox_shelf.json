@@ -1,0 +1,258 @@
+{
+ "_about": "Public-domain George Fox (1624-1691), founder of the Society of Friends, for the Word Hoard: the eight-volume Works (1831, its Journal, Great Mistery, Gospel Truth Demonstrated and Epistles), the Journal from the original manuscripts ed. Norman Penney (Cambridge, 1911), the first Collection of Epistles (1698), the bicentenary edition of the Journal (1901) and Rufus Jones's edition of the Autobiography, from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fox"
+ ],
+ "_surname": [
+  "george fox",
+  "fox, george"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gfox-autobiography": [
+   43031,
+   "George Fox: An Autobiography, edited with an introduction and notes by Rufus M. Jones (Philadelphia: Ferris & Leach, 1909; copyright 1903)"
+  ],
+  "gfox-journal-1901-1": [
+   75559,
+   "The Journal of George Fox, vol. I, eighth (bi-centenary) edition (London: Friends' Tract Association; Headley Brothers, 1901)"
+  ],
+  "gfox-journal-1901-2": [
+   75590,
+   "The Journal of George Fox, vol. II, eighth (bi-centenary) edition (London: Friends' Tract Association; Headley Brothers, 1901)"
+  ]
+ },
+ "internet_archive": {
+  "gfox-works-1": [
+   "worksgeorgefox10foxgoog",
+   "The Works of George Fox, vol. I: A Journal, corrected by the first edition (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831)"
+  ],
+  "gfox-works-2": [
+   "worksgeorgefox05foxgoog",
+   "The Works of George Fox, vol. II: A Journal (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831)"
+  ],
+  "gfox-works-3": [
+   "worksgeorgefox01foxgoog",
+   "The Works of George Fox, vol. III: The Great Mistery of the Great Whore Unfolded (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831)"
+  ],
+  "gfox-works-4": [
+   "worksgeorgefox06foxgoog",
+   "The Works of George Fox, vol. IV: Gospel Truth Demonstrated, vol. I (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831; 'Printed in the year 1706, reprinted 1831')"
+  ],
+  "gfox-works-5": [
+   "worksgeorgefox00foxgoog",
+   "The Works of George Fox, vol. V: Gospel Truth Demonstrated, vol. II (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831)"
+  ],
+  "gfox-works-6": [
+   "worksgeorgefox02foxgoog",
+   "The Works of George Fox, vol. VI: Gospel Truth Demonstrated, vol. III (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831)"
+  ],
+  "gfox-works-7": [
+   "worksgeorgefox03foxgoog",
+   "The Works of George Fox, vol. VII: A Collection of Epistles, vol. I (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831)"
+  ],
+  "gfox-works-8": [
+   "worksgeorgefox04foxgoog",
+   "The Works of George Fox, vol. VIII: A Collection of Epistles, vol. II (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831)"
+  ],
+  "gfox-journal-penney-1": [
+   "journalgeorgefox01foxuoft",
+   "The Journal of George Fox, edited from the MSS. by Norman Penney, with an introduction by T. Edmund Harvey, vol. I (Cambridge: at the University Press, 1911)"
+  ],
+  "gfox-journal-penney-2": [
+   "journalofgeorgef0000norm_l2u7",
+   "The Journal of George Fox, edited from the MSS. by Norman Penney, with an introduction by T. Edmund Harvey, vol. II (Cambridge: at the University Press, 1911)"
+  ],
+  "gfox-epistles-1698": [
+   "bim_early-english-books-1641-1700_a-collection-of-many-sel_fox-george-elder_1698",
+   "A Collection of Many Select and Christian Epistles, Letters and Testimonies (London: T. Sowle, 1698), the first edition"
+  ]
+ },
+ "_alternates": {
+  "gfox-copies": "Works vols III, VII, VIII duplicate scans (worksgeorgefox09/11/07/08foxgoog); 1901 Journal scans; further 1911 copies; Leeds 1836 sixth edition (two scans, one catalogued as Ellwood in error); the second edition of 1709; Tuke's Selections from the Epistles"
+ },
+ "_excluded": {
+  "gfox-later": "Richardson's Gleanings (a selection by another hand); the Octagon, 1924 Dent, 1948, 1952 and 1975 editions; the undated Friends' Book-Store Journal catalogued 1677, an impossible date"
+ },
+ "_identity_checked": {
+  "gfox-works-6": {
+   "author": "title page read: 'GEORGE FOX' (OCR 'OEORGB FOX')"
+  },
+  "gfox-works-7": {
+   "author": "title page read: 'GEORGE FOX' (OCR 'OEOROE FOX')"
+  }
+ },
+ "_rights_checked": {
+  "gfox-works-1": "title page read: 1831 on every volume; the catalogue's '1975, AMS Press' is wrong",
+  "gfox-autobiography": "PG header has no copyright marker; Rufus M. Jones (died 1948) edited it, copyright 1903, US public domain",
+  "gfox-works-2": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong",
+  "gfox-works-3": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong",
+  "gfox-works-4": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong",
+  "gfox-works-5": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong",
+  "gfox-works-6": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong",
+  "gfox-works-7": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong",
+  "gfox-works-8": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gfox-autobiography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gfox-journal-1901-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gfox-journal-1901-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gfox-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1975",
+   "ia_date": "1975",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 on every volume; the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1975",
+   "ia_date": "1975",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1975",
+   "ia_date": "1975",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1975",
+   "ia_date": "1975",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1975",
+   "ia_date": "1975",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "CHECK: published 1975",
+   "ia_date": "1975",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1975",
+   "ia_date": "1975",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1831 (Philadelphia: Gould; New York: Hopper); the catalogue's '1975, AMS Press' is wrong"
+  },
+  "gfox-journal-penney-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gfox-journal-penney-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gfox-epistles-1698": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george fox",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1698",
+   "ia_date": "1698",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

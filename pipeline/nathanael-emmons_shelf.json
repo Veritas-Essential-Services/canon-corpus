@@ -1,0 +1,134 @@
+{
+ "_about": "Nathanael Emmons (1745-1840), pastor at Franklin, Massachusetts, and the most rigorous of the New Divinity (Hopkinsian) theologians: Works, edited by Jacob Ide, with a memoir of his life (Boston, 1842, 6 vols, and a seventh volume, New York and Boston, 1850). Princeton copies. Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "nathanael emmons",
+  "nathaniel emmons",
+  "dr. emmons",
+  "dr emmons"
+ ],
+ "_surname": [
+  "nathanael emmons",
+  "nathaniel emmons",
+  "dr. emmons",
+  "dr emmons"
+ ],
+ "_identity_checked": {
+  "emmons-works-3": "The OCR prints a stray quotation mark before the surname ('NATHANAEL \"EMMONS, D. D.'), so the word check misses it. The title page reads: The Works of Nathanael Emmons, D.D., with a memoir of his life, edited by Jacob Ide, vol. III (Boston: Crocker & Brewster, 1842)."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "emmons-works-1": [
+   "worksofnathana01emmo",
+   "The Works of Nathanael Emmons, ed. Jacob Ide (Boston: Crocker and Brewster, 1842), vol. I"
+  ],
+  "emmons-works-2": [
+   "worksofnathana02emmo",
+   "The Works of Nathanael Emmons, ed. Jacob Ide (Boston: Crocker and Brewster, 1842), vol. II"
+  ],
+  "emmons-works-3": [
+   "worksofnathana03emmo",
+   "The Works of Nathanael Emmons, ed. Jacob Ide (Boston: Crocker and Brewster, 1842), vol. III"
+  ],
+  "emmons-works-4": [
+   "worksofnathana04emmo",
+   "The Works of Nathanael Emmons, ed. Jacob Ide (Boston: Crocker and Brewster, 1842), vol. IV"
+  ],
+  "emmons-works-5": [
+   "worksofnathana05emmo",
+   "The Works of Nathanael Emmons, ed. Jacob Ide (Boston: Crocker and Brewster, 1842), vol. V"
+  ],
+  "emmons-works-6": [
+   "worksofnathanael06emmo",
+   "The Works of Nathanael Emmons, ed. Jacob Ide (Boston: Crocker and Brewster, 1842), vol. VI"
+  ],
+  "emmons-works-7": [
+   "worksofnathanael07emmo",
+   "The Works of Nathanael Emmons, ed. Jacob Ide (New York: M. W. Dodd; Boston: Crocker and Brewster, 1850), vol. VII"
+  ]
+ },
+ "_alternates": {
+  "worksofnathanael02-05emmo (NYPL), worksnathanaele0*idegoog, worksnathanaele0*unkngoog, worksofnathanael0001emmo": "Other copies of the 1842 set.",
+  "worksnathanaele00parkgoog (1860-1863)": "E. A. Park's later edition with his memoir; not yet title-checked volume by volume."
+ },
+ "_excluded": {},
+ "_checks": {
+  "emmons-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nathanael emmons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "emmons-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nathanael emmons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "emmons-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "emmons-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dr. emmons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "emmons-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nathanael emmons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "emmons-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nathanael emmons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "emmons-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nathanael emmons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

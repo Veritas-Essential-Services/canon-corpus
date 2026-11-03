@@ -1,0 +1,226 @@
+{
+ "_about": "Public-domain John Mason Neale (1818-1866, Anglican priest, hymn translator and historian of the Eastern Church) for the Word Hoard: 12 volumes from Internet Archive scans: the History of the Holy Eastern Church (Alexandria, 2 vols, 1847, and the General Introduction, vol. I, 1850), Mediaeval Hymns and Sequences (1851) and Hymns of the Eastern Church (1862) in his own translations, the Commentary on the Psalms (4 vols, 1868-1874, vols II-IV with R. F. Littledale), the Essays on Liturgiology (1863) and Sermons Preached in a Religious House (2 vols). Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "neale"
+ ],
+ "_surname": [
+  "neale",
+  "j. m. neale",
+  "john mason neale"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "neale-alexandria-1": [
+   "historyofholyeas01neal",
+   "A History of the Holy Eastern Church: the Patriarchate of Alexandria, vol. I (London: Joseph Masters, MDCCCXLVII)"
+  ],
+  "neale-alexandria-2": [
+   "historyofholyeas02neal",
+   "A History of the Holy Eastern Church: the Patriarchate of Alexandria, vol. II (London: Joseph Masters, MDCCCXLVII)"
+  ],
+  "neale-general-introduction-1": [
+   "ahistoryholyeas04nealgoog",
+   "A History of the Holy Eastern Church, part I: General Introduction, vol. I (London: Joseph Masters; preface dated 1850)"
+  ],
+  "neale-mediaeval-hymns": [
+   "mediaevalhymnsse00neal",
+   "Mediaeval Hymns and Sequences, translated by J. M. Neale (London: Joseph Masters, MDCCCLI)"
+  ],
+  "neale-hymns-eastern-church": [
+   "hymnseasternchu01nealgoog",
+   "Hymns of the Eastern Church, translated, with notes and an introduction (London: J. T. Hayes, 1862)"
+  ],
+  "neale-psalms-1": [
+   "commentaryonpsal01nealuoft",
+   "A Commentary on the Psalms from Primitive and Mediaeval Writers, vol. I, second edition (London: Joseph Masters, MDCCCLXIX)"
+  ],
+  "neale-psalms-2": [
+   "commentaryonpsal02nealuoft",
+   "A Commentary on the Psalms, vol. II, with R. F. Littledale (London: Joseph Masters, MDCCCLXVIII)"
+  ],
+  "neale-psalms-3": [
+   "commentaryonpsal03nealuoft",
+   "A Commentary on the Psalms, vol. III, with R. F. Littledale (London: Joseph Masters, MDCCCLXXI)"
+  ],
+  "neale-psalms-4": [
+   "commentaryonpsal04nealuoft",
+   "A Commentary on the Psalms, vol. IV, with R. F. Littledale (London: Joseph Masters, MDCCCLXXIV)"
+  ],
+  "neale-essays-liturgiology": [
+   "essaysonliturgio00neal",
+   "Essays on Liturgiology and Church History (London: Saunders, Otley, 1863)"
+  ],
+  "neale-sermons-religious-house-1": [
+   "sermonspreached00nealgoog",
+   "Sermons Preached in a Religious House, vol. I (London: Joseph Masters; year not legible)"
+  ],
+  "neale-sermons-religious-house-2": [
+   "sermonspreached01nealgoog",
+   "Sermons Preached in a Religious House, vol. II (London: Joseph Masters, MDCCCLXIX)"
+  ]
+ },
+ "_alternates": {
+  "neale-ccel": "CCEL neale/easternhymns: an undated fifth edition with first-edition material",
+  "neale-copies": "Google copies of Alexandria (1847); Mediaeval Hymns second edition (1863); Sermons in Sackville College Chapel"
+ },
+ "_excluded": {
+  "neale-durandus": "The Symbolism of Churches (PG 43319): Durandus, translated by Neale and Webb",
+  "neale-antioch": "The Patriarchate of Antioch (1873): a posthumous fragment edited by George Williams",
+  "neale-late": "AMS Press reprints"
+ },
+ "_rights_checked": {
+  "neale-psalms-2": "title page read: by J. M. Neale and R. F. Littledale (co-author, not translator); same for vols III and IV",
+  "neale-sermons-religious-house-1": "title page read: 'Rev. J. M. Neale, D.D.', Masters; year not legible, but Neale died in 1866 and vol. II is 1869",
+  "neale-general-introduction-1": "title page read: 'REV. JOHN MASON NEALE, M.A., LONDON: JOSEPH MASTERS, AND 78, NEW BOND-STREET. OXFORD: J. H. PARKER. CAMBRIDGE: MACMILLAN' (OCR garbled, year not legible); a Google scan of the Masters original, preface dated Candlemas 1850; IA's 1976 AMS date is wrong"
+ },
+ "_pending": {
+  "neale-general-introduction-2": "General Introduction, vol. II: not found"
+ },
+ "_translators": {
+  "neale-mediaeval-hymns": "neale",
+  "neale-hymns-eastern-church": "neale"
+ },
+ "_checks": {
+  "neale-alexandria-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1847-1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-alexandria-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1847-1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-general-introduction-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1976",
+   "ia_date": "1976",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'REV. JOHN MASON NEALE, M.A., LONDON: JOSEPH MASTERS, AND 78, NEW BOND-STREET. OXFORD: J. H. PARKER. CAMBRIDGE: MACMILLAN' (OCR garbled, year not legible); a Google scan of the Masters original, preface dated Candlemas 1850; IA's 1976 AMS date is wrong"
+  },
+  "neale-mediaeval-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "translator_claimed": "neale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-hymns-eastern-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "translator_claimed": "neale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869-74",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869-74",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: by J. M. Neale and R. F. Littledale (co-author, not translator); same for vols III and IV"
+  },
+  "neale-psalms-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869-74",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-psalms-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869-74",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-essays-liturgiology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "neale-sermons-religious-house-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Rev. J. M. Neale, D.D.', Masters; year not legible, but Neale died in 1866 and vol. II is 1869"
+  },
+  "neale-sermons-religious-house-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

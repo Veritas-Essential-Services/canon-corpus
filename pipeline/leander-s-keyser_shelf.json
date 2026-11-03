@@ -1,0 +1,270 @@
+{
+ "_about": "Public-domain Leander Sylvester Keyser (1856-1937), Lutheran professor of theology at Hamma Divinity School and naturalist, for the Word Hoard: The Rational Test, A System of Christian Ethics, Election and Conversion, A System of Natural Theism, A System of General Ethics, Contending for the Faith, A System of Christian Evidence, Man's First Disobedience, The Doctrines of Modernism, The Problem of Origins, A Manual of Christian Ethics, and his bird books (Bird-dom, In Bird Land, News from the Birds, Birds of the Rockies, Our Bird Comrades). He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 115 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "leander s. keyser",
+  "leander sylvester keyser",
+  "l. s. keyser",
+  "keyser"
+ ],
+ "_surname": [
+  "leander s. keyser",
+  "leander sylvester keyser",
+  "l. s. keyser",
+  "keyser"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "keyser-birddom": [
+   "birddo00keys",
+   "Bird-dom (Boston, D. Lothrop Company, 1891)"
+  ],
+  "keyser-bird-land": [
+   "inbirdland00keys",
+   "In bird land (Chicago, A. C. McClurg and company, 1894)"
+  ],
+  "keyser-news-birds": [
+   "newsfrombirds00keys",
+   "News from the birds (New York, D. Appleton and company, 1898)"
+  ],
+  "keyser-rockies": [
+   "birdsofrockies00keysrich",
+   "Birds of the Rockies (Chicago, A. C. McClurg and co., 1902)"
+  ],
+  "keyser-bird-comrades": [
+   "ourbirdcomrades00keysrich",
+   "Our bird comrades (Chicago, New York : Rand, McNally & company, [c19)"
+  ],
+  "keyser-rational-test": [
+   "rationaltestbibl00keys",
+   "The rational test : Bible doctrine in the light of reason (Philadelphia : Lutheran publication society, 1908)"
+  ],
+  "keyser-christian-ethics": [
+   "systemofchristia00keys_0",
+   "A system of Christian ethics (Philadelphia, Pa. : The Lutheran Publication Society, 1913)"
+  ],
+  "keyser-election": [
+   "electionconversi00keys",
+   "Election and conversion ; a frank discussion of Dr. Pieper's book on \"Conversion election,\" with suggestions for Lutheran concord and union on another basis (Burlington, Ia., The German literary board, 1914)"
+  ],
+  "keyser-natural-theism": [
+   "systemofnaturalt00keys",
+   "A system of natural theism (Burlington, Ia. : The German literary board, 1917)"
+  ],
+  "keyser-general-ethics": [
+   "systemofgenerale00keys",
+   "A system of general ethics (Burlington, Ia., The Lutheran literary board, 1918)"
+  ],
+  "keyser-contending": [
+   "contendingforfai00keys",
+   "Contending for the faith; essays in constructive criticism and positive apologetics (New York : George H. Doran company, 1920)"
+  ],
+  "keyser-evidence": [
+   "systemofchristia00keys",
+   "A system of Christian evidence (Burlington, Ia., The Lutheran literary board, 1922)"
+  ],
+  "keyser-first-disobedience": [
+   "mansfirstdisobed0000keys",
+   "Man's first disobedience : an interpretation and defense of the Biblical narrative of the fall of man (New York, Macmillan, 1924)"
+  ],
+  "keyser-modernism": [
+   "doctrinesofmoder00keys",
+   "The doctrines of modernism : its beliefs and misbeliefs weighed and analyzed (Chicago : [publisher not identified], 1925)"
+  ],
+  "keyser-origins": [
+   "problemoforigins00keys",
+   "The problem of origins : Whence came the universe? Whence came life and species? Whence came man? A frank discussion of the doctrines of creation and evolution (New York : Macmillan, 1926)"
+  ],
+  "keyser-manual-ethics": [
+   "manualofchristia00keys",
+   "A manual of Christian ethics (Burlington, Iowa : Lutheran Literary Board, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "keyser-only-way": "onlywayout00presgoog (by another hand)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "keyser-birddom": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "Public domain. Published 1923-1963 with notice but no evidence of copyright renewal found in Stanford Copyright Renewal Database. Contact digicc@library.illinois.edu for information.",
+   "ia_lending": null
+  },
+  "keyser-bird-land": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keyser-news-birds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keyser-rockies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keyser-bird-comrades": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "[c1907]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keyser-rational-test": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "keyser-christian-ethics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keyser-election": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keyser-natural-theism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keyser-general-ethics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "keyser-contending": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keyser-evidence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "keyser-first-disobedience": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keyser-modernism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keyser-origins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leander s. keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keyser-manual-ethics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keyser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

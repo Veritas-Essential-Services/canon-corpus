@@ -1,0 +1,148 @@
+{
+ "_about": "Public-domain Elisha Lord Cleaveland, Congregational minister in New Haven, for the Word Hoard: his occasional sermons, among them a discourse on the death of Daniel Webster, Christ the Central Glory of the Church, Motives to the Missionary Work, and sermons of the Civil War years. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 121 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "elisha lord cleaveland",
+  "elisha l. cleaveland",
+  "e. l. cleaveland",
+  "cleaveland"
+ ],
+ "_surname": [
+  "cleaveland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cleaveland-only-foundation": [
+   "cu31924029457425",
+   "Christ the only foundation : a sermon, delivered at the dedication of the church-edifice in Court Street, erected by the Third Congregational Society in New Haven, December 7, 1841 (New Haven, Conn. : Printed by Hitchcock & Stafford, 1841)"
+  ],
+  "cleaveland-webster": [
+   "discourseoccasio00clea",
+   "A discourse occasioned by the death of Hon. Daniel Webster, preached October 31 and repeated November 14, 1852 (New Haven, Printed by B.L. Hamlen, 1852)"
+  ],
+  "cleaveland-central-glory": [
+   "christcentralglo00clea",
+   "Christ the central glory of the church : a sermon preached at the ordination of Rev. John Monteith, Jr., over the Congregational Church in Terryville, Conn., October 27, 1858 (Thomas H. Pease, 1858)"
+  ],
+  "cleaveland-national-prayer": [
+   "dayofnationalpra00clea",
+   "The day of national prayer and fasting, Sept. 26, 1861 : appointed by the President on the recommendation of both Houses of Congress ([S.l.] : [American Tract Society], 1861)"
+  ],
+  "cleaveland-missions": [
+   "motivestomission00clea",
+   "Motives to the missionary work : a sermon, before the American Board of Commissioners for Foreign Missions, at their meeting in Rochester, N.Y. October 6, 1863 (T.R. Marvin, 1863)"
+  ],
+  "cleaveland-rebellion": [
+   "ourdutyinregardt00clea",
+   "Our duty in regard to the rebellion : A fast day sermon, April 3, 1863 (New York, New York : Hall, Clayton & Medole, Printers, 46 Pine Street, 1863)"
+  ],
+  "cleaveland-patriots-song": [
+   "patriotssongofvi00clea",
+   "The patriot's song of victory. A thanksgiving discourse, for recent military successes, delivered in the Third Congregational Church, New Haven, September 11, and repeated, by request, in the same place, September 18, 1864 (New Haven, T. H. Pease, [186)"
+  ],
+  "cleaveland-thanksgiving": [
+   "thanksgivingdisc00clea",
+   "A thanksgiving discourse, for recent military successes, delivered in the Third Congregational Church, New Haven, September 11, and repeated, by request, in the same place, September 18, 1864 (New Haven [Conn.] : T.H. Pease, 1864)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cleaveland-pamphlets": "christianpamphl00dwiggoog, a bound volume of many authors' pamphlets",
+  "cleaveland-1813": "sermondelivereda00clea (1813) is by John Cleaveland and Elisha Fisk"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cleaveland-only-foundation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cleaveland-webster": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cleaveland-central-glory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cleaveland-national-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cleaveland-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cleaveland-rebellion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cleaveland-patriots-song": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "[1864]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cleaveland-thanksgiving": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleaveland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

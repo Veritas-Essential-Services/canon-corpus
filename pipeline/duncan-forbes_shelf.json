@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Duncan Forbes (1798-1868): The Adventures of Hatim Taï (Oriental Translation Fund, 1830) and Mir Amman's Bagh o Bahar, or Tales of the Four Darweshes (1857). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "duncan forbes",
+  "forbes"
+ ],
+ "_surname": [
+  "duncan forbes",
+  "forbes"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dfo-12370": [
+   12370,
+   "Bagh O Bahar, or Tales of the Four Darweshes"
+  ],
+  "dfo-70290": [
+   70290,
+   "The adventures of Hatim Taï, a romance"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "duncan-forbes-dihlavi-bagh-o-bahar-or-tales-of-the-four-darwes": {
+   "source": "dfo-12370",
+   "of": "Amir Khusraw Dihlavi",
+   "work": "Bagh O Bahar, or Tales of the Four Darweshes",
+   "translated": "1830-1857 (see the Gutenberg header)",
+   "translator": "Duncan Forbes",
+   "scan_edition": "Project Gutenberg 12370 (clean text)"
+  },
+  "duncan-forbes-forbes-the-adventures-of-hatim-tai-a-romance": {
+   "source": "dfo-70290",
+   "of": "Duncan Forbes",
+   "work": "The adventures of Hatim Taï, a romance",
+   "translated": "1830-1857 (see the Gutenberg header)",
+   "translator": "Duncan Forbes",
+   "scan_edition": "Project Gutenberg 70290 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dfo-12370": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "duncan forbes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Duncan Forbes"
+  },
+  "dfo-70290": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "duncan forbes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Duncan Forbes"
+  }
+ },
+ "_verified": {
+  "dfo-12370": {
+   "pg": 12370,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Duncan Forbes"
+  },
+  "dfo-70290": {
+   "pg": 70290,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Duncan Forbes"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

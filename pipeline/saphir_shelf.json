@@ -1,0 +1,206 @@
+{
+ "_about": "Every public-domain Adolph Saphir (1831-1891) text the Word Hoard holds: the Hebrew Christian expositor, born at Pesth, Presbyterian minister in London. Not Moritz Gottlieb Saphir (humorist), not Jacob Saphir (traveller), not Philipp Saphir, not Elijah or Marie Saphir. All Internet Archive OCR, raw; no CCEL or Gutenberg Saphir exists (checked 2026-10-02). Posthumous printings before 1931 are PD and marked.",
+ "_name_words": [
+  "saphir"
+ ],
+ "_surname": [
+  "saphir"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "saphir-hebrews-1": [
+   "expositorylectur00saph",
+   "Expository Lectures on the Epistle to the Hebrews, first series, ch. 1-7 (1875 printing)"
+  ],
+  "saphir-hebrews-2": [
+   "expositorylectur02saph",
+   "Expository Lectures on the Epistle to the Hebrews, second series, ch. 8-13 (1874)"
+  ],
+  "saphir-christ-crucified": [
+   "christcrucified00saphgoog",
+   "Christ Crucified: Lectures on 1 Corinthians 2 (1873)"
+  ],
+  "saphir-christ-and-the-church": [
+   "christchurchserm00saph",
+   "Christ and the Church: Sermons on the Apostolic Commission (1874)"
+  ],
+  "saphir-lords-prayer": [
+   "lordsprayer00saph",
+   "The Lord's Prayer: Lectures (1872)"
+  ],
+  "saphir-hidden-life": [
+   "hiddenlifethoug00saph",
+   "The Hidden Life: Thoughts on Communion with God (1877)"
+  ],
+  "saphir-our-life-day": [
+   "ldpd_11733659_000",
+   "Our Life-Day: Thoughts on John 9:4 (1878)"
+  ],
+  "saphir-divine-unity": [
+   "divineunityofscr00saph",
+   "The Divine Unity of Scripture (1892, posthumous)"
+  ],
+  "saphir-christ-and-israel": [
+   "bwb_C0-ANG-874",
+   "Christ and Israel: Lectures and Addresses on the Jews (ed. David Baron, 1911, posthumous)"
+  ],
+  "saphir-tr-auberlen-daniel": [
+   "propheciesofdani00aube",
+   "K. A. Auberlen, The Prophecies of Daniel and the Revelation of St. John, translated by Adolph Saphir (1856)"
+  ],
+  "saphir-memoir-carlyle": [
+   "cu31924011500216",
+   "Gavin Carlyle, 'Mighty in the Scriptures': A Memoir of Adolph Saphir (1893); about Saphir, not by him"
+  ]
+ },
+ "_alternates": {
+  "lordsprayerlectu00saph": "The Lord's Prayer, 1874 printing",
+  "christchurchthou00saph": "Christ and the Church, 1884 printing",
+  "divineunityofscr00saphuoft, thedivineunityof00saphuoft": "Divine Unity, 1895 printings",
+  "the-hidden-life": "Hidden Life, another 1877 scan",
+  "propheciesdanie00roosgoog": "Auberlen, another scan",
+  "mightyinscripturs00carl, mightyinscriptu00carlgoog": "Carlyle memoir, other scans (the first returned HTTP 500 on 2026-10-02)"
+ },
+ "_pending": {
+  "jesussinnergospe00saph": "Jesus and the Sinner (1851), 'selected from Found by the Good Shepherd': IA attributes it to Saphir, but at 20 he was still a student; authorship to confirm before shelving",
+  "epistletohebrews01saph": "IA item's text file belongs to another book (a fashion book): bad upload",
+  "epistletohebrews0001saph, epistletohebrews0002saph, theepistletotheh00saphuoft, theepistletotheh02saphuoft": "The Epistle to the Hebrews: An Exposition, 1902 one-work edition of the two lecture series; the lectures are already held",
+  "found-by-the-good-shepherd, conversion-illustrated, the-compassion-of-jesus": "other Saphir titles named in bibliographies; no verified scan found yet",
+  "saphir-christ-and-scriptures": [
+   "bs-475.-s-24-1869",
+   "Christ and the Scriptures (1869 printing)",
+   "BS475.S24 1869_djvu.txt",
+   "refused by the identity check 2026-10-02: the OCR never names Saphir; check by eye Looked at by eye 2026-10-03 (page images n0-n4): the cover is embossed 'Christ and the Scriptures' over a faint 'Adolph Saphir'; the scan has no title page (it opens with a 'Preface to the German Translation' by Dr. Kogel, then Contents), so the printing year cannot be confirmed and IA's 1869 is unverified. Still not shelved."
+  ]
+ },
+ "_excluded": {
+  "christusunddiesc0000saph": "German translation (1894)",
+  "ourlordspatternf0000saph, epistletohebrews0000adol, bwb_Y0-AHD-208, bwb_T3-BSD-972, bwb_Y0-DLC-118": "modern reprints (1942-1984)",
+  "disputedquestion00unse": "multi-author lecture volume (1874); Saphir's share not confirmed",
+  "same-name": "Moritz Gottlieb Saphir, Jacob (Ya'aqov) Saphir, Philipp Saphir, Marie Saphir, Elijah Saphir, Milka Saphir, Paul Saphir, H. F. S. Amery"
+ },
+ "_checks": {
+  "saphir-hebrews-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saphir-hebrews-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-christ-crucified": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-christ-and-the-church": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-hidden-life": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-our-life-day": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saphir-divine-unity": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-christ-and-israel": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saphir-tr-auberlen-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-memoir-carlyle": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

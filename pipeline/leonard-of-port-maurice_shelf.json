@@ -1,0 +1,84 @@
+{
+ "_about": "Public-domain Leonard of Port Maurice (1676-1751), the Franciscan preacher of the Stations of the Cross, for the Word Hoard: The Hidden Treasure, on the Holy Mass (Edinburgh, 1855; Dublin, 1861) and the Counsels to Confessors (Dublin, 1875), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "leonard"
+ ],
+ "_surname": [
+  "leonard of port maurice",
+  "leonard of port-maurice"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "leonard-hidden-treasure-1855": [
+   "TheHiddenTreasure1855",
+   "The Hidden Treasure: or, The value and excellence of the Holy Mass (Edinburgh: Marsh and Beattie; London: C. Dolman, 1855)"
+  ],
+  "leonard-hidden-treasure-1861": [
+   "TheHiddenTreasure1861",
+   "The Hidden Treasure: or, The immense excellence of the Holy Sacrifice of the Mass, new edition (Dublin: James Duffy, 1861)"
+  ],
+  "leonard-counsels-confessors-1875": [
+   "counsels-to-confessors",
+   "Counsels to Confessors, addressed to an assembly of missionary priests (Dublin: James Duffy and Sons, 1875)",
+   "Counsels to Confessors, A Discourse Addressed to an Assembly of Missionary Priests, Sv. Leonard of Port Maurice_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "leonard-copies": "hiddentreasureo01leongoog (1855) and hiddentreasureo00leongoog (1861); Prendergast's new translation (Dublin: Duffy, title page undated; catalogue's 1895 Sydney imprint is wrong; its Google copy carries a reserved-rights notice)"
+ },
+ "_excluded": {
+  "leonard-other": "cihm_91762 (Montreal 1897, extracts from several authors)"
+ },
+ "_identity_checked": {
+  "leonard-hidden-treasure-1861": {
+   "author": "title page read: The Hidden Treasure, BY BLESSED lEONAED OF POET MAUKICE [Leonard of Port Maurice] (OCR garble), new edition, Dublin: James Duffy, approbation of Paul Cullen dated January 1861"
+  }
+ },
+ "_rights_checked": {
+  "leonard-hidden-treasure-1855": "title page read: translated from the Italian at the request of the Bishop of Southwark, translator not named",
+  "leonard-hidden-treasure-1861": "title page read: translator not named",
+  "leonard-counsels-confessors-1875": "title page read: translator not named"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "leonard-hidden-treasure-1855": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "leonard of port maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translated from the Italian at the request of the Bishop of Southwark, translator not named"
+  },
+  "leonard-hidden-treasure-1861": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  },
+  "leonard-counsels-confessors-1875": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "leonard of port maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  }
+ }
+}

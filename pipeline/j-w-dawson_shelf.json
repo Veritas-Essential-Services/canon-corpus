@@ -1,0 +1,232 @@
+{
+ "_about": "Public-domain Sir John William Dawson (1820-1899), Presbyterian geologist and principal of McGill University, for the Word Hoard: his writings on Scripture and science only: Archaia, Nature and the Bible, The Origin of the World according to Revelation and Science, Fictions and Errors, Points of Contact between Revelation and Natural Science, Facts and Fancies in Modern Science, Egypt and Syria, Modern Science in Bible Lands, The Historical Deluge, Modern Ideas of Evolution, The Day of Rest, Eden Lost and Won, and Science the Ally of Religion. His geology and university papers are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 102 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. w. dawson",
+  "john william dawson",
+  "sir william dawson",
+  "j. william dawson",
+  "principal dawson"
+ ],
+ "_surname": [
+  "j. w. dawson",
+  "john william dawson",
+  "sir william dawson",
+  "j. william dawson",
+  "principal dawson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jwdawson-archaia": [
+   "cihm_44371",
+   "Archaia, or, Studies of the cosmogony and natural history of the Hebrew scriptures (Montreal : B. Dawson; London : S. Low, 1860)"
+  ],
+  "jwdawson-nature-bible": [
+   "cihm_09788",
+   "Nature and the Bible : a course of lectures delivered in New York, in December, 1874, on the Morse foundation of the Union Theological Seminary (New York : R. Carter, 1875)"
+  ],
+  "jwdawson-fictions-errors": [
+   "cihm_09922",
+   "Fictions and errors in a book on \"The origin of the world according to revelation and science by J.W. Dawson, L.L.D., principal of McGill University, Montreal\" : exposed and condemned on the authority of divine revelation ([Halifax, N.S.? : s.n.], 1877)"
+  ],
+  "jwdawson-origin-world": [
+   "cihm_02605",
+   "The origin of the world, according to revelation and science (Montreal : Dawson, 1877)"
+  ],
+  "jwdawson-points-contact": [
+   "pointsofcontac00daws",
+   "Points of contact between revelation and natural science ([London] : Religious Tract Society, 1885)"
+  ],
+  "jwdawson-facts-fancies": [
+   "cihm_05814",
+   "Facts and fancies in modern science : studies of the relations of science to prevalent speculations and religious belief : being the lectures of the Samuel A. Crozer Foundation in connection with the Crozer Theological Seminary, for 1881 (Philadelphia : American Baptist Publication Society, 1882)"
+  ],
+  "jwdawson-egypt-syria": [
+   "cihm_04209",
+   "Egypt and Syria : their physical features in relation to Bible history (London : Religious Tract Society, 1885)"
+  ],
+  "jwdawson-bible-lands": [
+   "cihm_02626",
+   "Modern science in Bible lands (Montreal : Dawson, 1888)"
+  ],
+  "jwdawson-deluge": [
+   "cihm_12544",
+   "The historical deluge in its relation to scientific discovery and to present questions ([London] : Religious Tract Society, 1888)"
+  ],
+  "jwdawson-evolution": [
+   "cihm_02625",
+   "Modern ideas of evolution as related to revelation and science (London : Religious Tract Society, 1890)"
+  ],
+  "jwdawson-day-of-rest": [
+   "cihm_28167",
+   "The day of rest in relation to the world that now is and that which is to come ([London] : Religious Tract Society, 1889)"
+  ],
+  "jwdawson-eden": [
+   "cihm_06829",
+   "Eden lost and won : studies of the early history and final destiny of man as taught in nature and revelation (London : Hodder and Stoughton, 1895)"
+  ],
+  "jwdawson-ally-of-religion": [
+   "cihm_06870",
+   "Science, the ally of religion ([S.l. : s.n., 1896)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jwdawson-science": "Geology, zoology and McGill University papers: not theology"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jwdawson-origin-world": "Title page (OCR): 'The Origin of the World, according to Revelation and Science. By J.W. Dawson, LL.D., F.R.S., F.G.S., Principal and Vice-Chancellor of McGill University, Montreal... Montreal: Dawson Brothers... 1877.'",
+  "jwdawson-ally-of-religion": "Title page (OCR): 'Science the Ally of Religion. By Sir William Dawson, LL.D., F.R.S. The substance of an Address at the Jubilee Conference of the Evangelical Alliance, Mildmay Park, London, July 1, 1896.'"
+ },
+ "_pending": {
+  "jwdawson-wine": "cihm_34869: The Testimony of the Holy Scriptures respecting Wine and Strong Drink (Pictou, 1858); its readable text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "jwdawson-archaia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-nature-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-fictions-errors": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-origin-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-points-contact": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. william dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-facts-fancies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwdawson-egypt-syria": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. william dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwdawson-bible-lands": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-deluge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. william dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-evolution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-day-of-rest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. william dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwdawson-eden": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. william dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwdawson-ally-of-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

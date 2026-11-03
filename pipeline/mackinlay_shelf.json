@@ -1,0 +1,40 @@
+{
+ "_about": "James M. Mackinlay's Folklore of Scottish Lochs and Springs (Glasgow, 1893): water-spirits, holy wells and their legends. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "James M. Mackinlay",
+ "_name_words": [
+  "mackinlay"
+ ],
+ "_surname": [
+  "james m. mackinlay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mackinlay-folklore-of-scottish-lochs-and-springs": [
+   56034,
+   "Folklore of Scottish Lochs and Springs",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mackinlay-folklore-of-scottish-lochs-and-springs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james m. mackinlay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

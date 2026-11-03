@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Ernest Bell (1851-1933), Bohn's publisher: Lessing's Minna von Barnhelm and the Dramatic Works (1878), with Helen Zimmern. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ernest bell"
+ ],
+ "_surname": [
+  "ernest bell"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ebe-2663": [
+   2663,
+   "Minna Von Barnhelm"
+  ],
+  "ebe-33435": [
+   33435,
+   "The Dramatic Works of G. E. Lessing Miss Sara Sampson, Philotas, Emilia Galotti, Nathan the Wise"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ernest-bell-lessing-minna-von-barnhelm": {
+   "source": "ebe-2663",
+   "of": "Gotthold Ephraim Lessing",
+   "work": "Minna Von Barnhelm",
+   "translated": "1878 (see the Gutenberg header)",
+   "translator": "Ernest Bell",
+   "scan_edition": "Project Gutenberg 2663 (clean text)"
+  },
+  "ernest-bell-lessing-the-dramatic-works-of-g-e-lessing-miss-s": {
+   "source": "ebe-33435",
+   "of": "Gotthold Ephraim Lessing",
+   "work": "The Dramatic Works of G. E. Lessing Miss Sara Sampson, Philotas, Emilia Galotti, Nathan the Wise",
+   "translated": "1878 (see the Gutenberg header)",
+   "translator": "Ernest Bell",
+   "scan_edition": "Project Gutenberg 33435 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ebe-2663": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Bell"
+  },
+  "ebe-33435": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Bell"
+  }
+ },
+ "_verified": {
+  "ebe-2663": {
+   "pg": 2663,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Bell"
+  },
+  "ebe-33435": {
+   "pg": 33435,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Bell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

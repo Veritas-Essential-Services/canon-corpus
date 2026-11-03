@@ -1,0 +1,304 @@
+{
+ "_about": "Harold MacGrath's romances and adventure novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Harold MacGrath",
+ "_name_words": [
+  "macgrath"
+ ],
+ "_surname": [
+  "macgrath"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hmacgrath-drums-of-jeopardy": [
+   1913,
+   "The Drums of Jeopardy"
+  ],
+  "hmacgrath-puppet-crown": [
+   3239,
+   "The Puppet Crown"
+  ],
+  "hmacgrath-half-a-rogue": [
+   4790,
+   "Half a Rogue"
+  ],
+  "hmacgrath-man-on-the-box": [
+   6578,
+   "The Man on the Box"
+  ],
+  "hmacgrath-goose-girl": [
+   14598,
+   "The Goose Girl"
+  ],
+  "hmacgrath-ragged-edge": [
+   15614,
+   "The Ragged Edge"
+  ],
+  "hmacgrath-splendid-hazard": [
+   15671,
+   "A Splendid Hazard"
+  ],
+  "hmacgrath-grey-cloak": [
+   16041,
+   "The Grey Cloak"
+  ],
+  "hmacgrath-voice-in-the-fog": [
+   16051,
+   "The Voice in the Fog"
+  ],
+  "hmacgrath-arms-and-the-woman": [
+   17359,
+   "Arms and the Woman"
+  ],
+  "hmacgrath-hearts-and-masks": [
+   17390,
+   "Hearts and Masks"
+  ],
+  "hmacgrath-princess-elopes": [
+   17391,
+   "The Princess Elopes"
+  ],
+  "hmacgrath-adventures-of-kathlyn": [
+   17402,
+   "The Adventures of Kathlyn"
+  ],
+  "hmacgrath-parrot-co": [
+   18443,
+   "Parrot & Co."
+  ],
+  "hmacgrath-lure-of-the-mask": [
+   22158,
+   "The Lure of the Mask"
+  ],
+  "hmacgrath-place-of-honeymoons": [
+   26593,
+   "The Place of Honeymoons"
+  ],
+  "hmacgrath-pagan-madonna": [
+   27339,
+   "The Pagan Madonna"
+  ],
+  "hmacgrath-million-dollar-mystery-novelized-from-the-scenario": [
+   39134,
+   "The Million Dollar Mystery Novelized from the Scenario of F. Lonergan"
+  ],
+  "hmacgrath-carpet-from-bagdad": [
+   43749,
+   "The Carpet from Bagdad"
+  ],
+  "hmacgrath-best-man": [
+   45528,
+   "The Best Man"
+  ],
+  "hmacgrath-enchantment": [
+   55162,
+   "Enchantment"
+  ],
+  "hmacgrath-yellow-typhoon": [
+   56945,
+   "The Yellow Typhoon"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hmacgrath-drums-of-jeopardy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-puppet-crown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-half-a-rogue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-man-on-the-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-goose-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-ragged-edge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-splendid-hazard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-grey-cloak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-voice-in-the-fog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-arms-and-the-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-hearts-and-masks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-princess-elopes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-adventures-of-kathlyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-parrot-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-lure-of-the-mask": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-place-of-honeymoons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-pagan-madonna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-million-dollar-mystery-novelized-from-the-scenario": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-carpet-from-bagdad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-best-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-enchantment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmacgrath-yellow-typhoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macgrath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

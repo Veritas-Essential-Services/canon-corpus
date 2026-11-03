@@ -1,0 +1,142 @@
+{
+ "_about": "Public-domain John Foster (1770-1843, Baptist minister and essayist, of Bristol) for the Word Hoard: Essays in a Series of Letters (tenth edition, 1833), An Essay on the Evils of Popular Ignorance (clean from Gutenberg), Lectures at Broadmead Chapel (two series, 1845-47), The Life and Correspondence ed. J. E. Ryland (2 vols, 1848) and Critical Essays from the Eclectic Review (2 vols, 1856), raw Internet Archive OCR otherwise. Not any other John Foster: each title page ties the book to the essayist. Added 2026-10-03 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "foster",
+  "john"
+ ],
+ "_surname": [
+  "john foster",
+  "j. foster",
+  "foster, john",
+  "john poster",
+  "john f08tee"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "jfoster-popular-ignorance": [
+   "8940",
+   "An Essay on the Evils of Popular Ignorance"
+  ]
+ },
+ "internet_archive": {
+  "jfoster-essays-1833": [
+   "essaysinseries00fost",
+   "Essays in a Series of Letters, tenth edition (London: Holdsworth and Ball, 1833)"
+  ],
+  "jfoster-broadmead-1-1845": [
+   "lecturesdelivere00fostiala",
+   "Lectures Delivered at Broadmead Chapel, Bristol, second edition (London: Jackson and Walford, 1845)"
+  ],
+  "jfoster-broadmead-2-1847": [
+   "lecturesdeliver00fostgoog",
+   "Lectures Delivered at Broadmead Chapel, Bristol, second series (London: Jackson and Walford; year unreadable in OCR, preface dated 1847)"
+  ],
+  "jfoster-life-1": [
+   "lifeandcorrespon01fostuoft",
+   "The Life and Correspondence of John Foster, ed. J. E. Ryland, second edition, vol. 1 (London: Jackson and Walford, 1848)"
+  ],
+  "jfoster-life-2": [
+   "lifeandcorrespon02fostuoft",
+   "The Life and Correspondence of John Foster, ed. J. E. Ryland, second edition, vol. 2 (London: Jackson and Walford, 1848)"
+  ],
+  "jfoster-critical-essays-1": [
+   "criticalessaysco01fostiala",
+   "Critical Essays Contributed to the Eclectic Review, ed. J. E. Ryland, vol. 1 (London: Henry G. Bohn, 1856)"
+  ],
+  "jfoster-critical-essays-2": [
+   "criticalessaysco02fostiala",
+   "Critical Essays Contributed to the Eclectic Review, ed. J. E. Ryland, vol. 2 (London: Henry G. Bohn, 1856)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "jfoster-popular-ignorance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoster-essays-1833": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jfoster-broadmead-1-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfoster-broadmead-2-1847": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfoster-life-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfoster-life-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfoster-critical-essays-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfoster-critical-essays-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

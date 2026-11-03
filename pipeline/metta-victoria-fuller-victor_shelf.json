@@ -1,0 +1,87 @@
+{
+ "_about": "Metta Victoria Fuller Victor: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Metta Victoria Fuller Victor",
+ "_name_words": [
+  "fuller",
+  "metta",
+  "victor",
+  "victoria"
+ ],
+ "_surname": [
+  "metta victoria fuller victor",
+  "victor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mvfvictor-blunders-of-a-bashful-man": [
+   20754,
+   "The Blunders of a Bashful Man"
+  ],
+  "mvfvictor-bad-boy-at-home-and-his-experiences-in-trying-to-b": [
+   25303,
+   "The Bad Boy at Home, and His Experiences in Trying to Become an Editor 1885"
+  ],
+  "mvfvictor-alice-wilde": [
+   46586,
+   "Alice Wilde: The Raftsman's Daughter. A Forest Romance"
+  ],
+  "mvfvictor-dead-letter": [
+   46708,
+   "The Dead Letter: An American Romance"
+  ],
+  "mvfvictor-nat-wolfe": [
+   68363,
+   "Nat Wolfe; or, The gold hunters: A romance of Pike's Peak and New York"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mvfvictor-blunders-of-a-bashful-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "metta victoria fuller victor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvfvictor-bad-boy-at-home-and-his-experiences-in-trying-to-b": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "metta victoria fuller victor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvfvictor-alice-wilde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "metta victoria fuller victor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvfvictor-dead-letter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "metta victoria fuller victor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvfvictor-nat-wolfe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "metta victoria fuller victor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

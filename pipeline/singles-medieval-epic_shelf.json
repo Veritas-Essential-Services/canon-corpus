@@ -1,0 +1,927 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off translations of medieval and early texts, each by a translator with no other book to shelve: the Anglo-Saxon Chronicle (Ingram), Saxo Grammaticus (Elton), the Táin (Faraday; Dunn), the Chanson de Roland (Rabillon), Tristan and Iseult (Belloc), the High History of the Holy Graal (Evans), Barlaam and Ioasaph (Woodward and Mattingly), sagas, Old English poems, the Ship of Fools (Barclay, 1509), Camões's Lusiad (Mickle), Villani, the Hypnerotomachia (1592) and others. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 40); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alexander barclay",
+  "cosette faust newton",
+  "ernest chester thomas",
+  "george ratcliffe woodward",
+  "harold mattingly",
+  "hilaire belloc",
+  "j. a. giles",
+  "j. ingram",
+  "james ingram",
+  "james johnstone",
+  "james mercer garnett",
+  "john allen giles",
+  "john sephton",
+  "john trevisa",
+  "joseph dunn",
+  "kuno meyer",
+  "leonard bacon",
+  "lucius hudson holt",
+  "lucy winifred faraday",
+  "léonce rabillon",
+  "marcus nathan adler",
+  "martha a. lyon holcomb",
+  "martha warren beckwith",
+  "muriel a. c. press",
+  "oliver elton",
+  "r. selden rose",
+  "robert dallington",
+  "robert gwyneddon davies",
+  "robert k. root",
+  "robert kilburn root",
+  "robert selden rose",
+  "rose e. selfe",
+  "sebastian evans",
+  "stith thompson",
+  "thomas a. e. holcomb",
+  "thomas addis emmett holcomb",
+  "william julius mickle"
+ ],
+ "_surname": [
+  "alexander barclay",
+  "cosette faust newton",
+  "ernest chester thomas",
+  "george ratcliffe woodward",
+  "harold mattingly",
+  "hilaire belloc",
+  "j. a. giles",
+  "j. ingram",
+  "james ingram",
+  "james johnstone",
+  "james mercer garnett",
+  "john allen giles",
+  "john sephton",
+  "john trevisa",
+  "joseph dunn",
+  "kuno meyer",
+  "leonard bacon",
+  "lucius hudson holt",
+  "lucy winifred faraday",
+  "léonce rabillon",
+  "marcus nathan adler",
+  "martha a. lyon holcomb",
+  "martha warren beckwith",
+  "muriel a. c. press",
+  "oliver elton",
+  "r. selden rose",
+  "robert dallington",
+  "robert gwyneddon davies",
+  "robert k. root",
+  "robert kilburn root",
+  "robert selden rose",
+  "rose e. selfe",
+  "sebastian evans",
+  "stith thompson",
+  "thomas a. e. holcomb",
+  "thomas addis emmett holcomb",
+  "william julius mickle"
+ ],
+ "_surname_by_slug": {
+  "sme-626": [
+   "ernest chester thomas",
+   "thomas"
+  ],
+  "sme-657": [
+   "giles",
+   "ingram",
+   "j. a. giles",
+   "j. ingram",
+   "james ingram",
+   "john allen giles"
+  ],
+  "sme-749": [
+   "george ratcliffe woodward",
+   "harold mattingly",
+   "mattingly",
+   "woodward"
+  ],
+  "sme-750": [
+   "evans",
+   "sebastian evans"
+  ],
+  "sme-1150": [
+   "elton",
+   "oliver elton"
+  ],
+  "sme-3759": [
+   "holcomb",
+   "martha a. lyon holcomb",
+   "thomas a. e. holcomb",
+   "thomas addis emmett holcomb"
+  ],
+  "sme-6088": [
+   "bacon",
+   "leonard bacon",
+   "r. selden rose",
+   "robert selden rose",
+   "rose"
+  ],
+  "sme-6493": [
+   "john trevisa",
+   "trevisa"
+  ],
+  "sme-14244": [
+   "belloc",
+   "hilaire belloc"
+  ],
+  "sme-14391": [
+   "faraday",
+   "lucy winifred faraday"
+  ],
+  "sme-14781": [
+   "holt",
+   "lucius hudson holt"
+  ],
+  "sme-15225": [
+   "robert k. root",
+   "robert kilburn root",
+   "root"
+  ],
+  "sme-15879": [
+   "garnett",
+   "james mercer garnett"
+  ],
+  "sme-16464": [
+   "dunn",
+   "joseph dunn"
+  ],
+  "sme-17803": [
+   "muriel a. c. press",
+   "press"
+  ],
+  "sme-17946": [
+   "john sephton",
+   "sephton"
+  ],
+  "sme-18299": [
+   "james johnstone",
+   "johnstone"
+  ],
+  "sme-20179": [
+   "alexander barclay",
+   "barclay"
+  ],
+  "sme-23819": [
+   "léonce rabillon",
+   "rabillon"
+  ],
+  "sme-32030": [
+   "kuno meyer",
+   "meyer"
+  ],
+  "sme-32528": [
+   "mickle",
+   "william julius mickle"
+  ],
+  "sme-33022": [
+   "rose e. selfe",
+   "selfe"
+  ],
+  "sme-13603": [
+   "beckwith",
+   "martha warren beckwith"
+  ],
+  "sme-31172": [
+   "cosette faust newton",
+   "newton",
+   "stith thompson",
+   "thompson"
+  ],
+  "sme-5671": [
+   "davies",
+   "robert gwyneddon davies"
+  ],
+  "sme-18459": [
+   "dallington",
+   "robert dallington"
+  ],
+  "sme-14981": [
+   "adler",
+   "marcus nathan adler"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sme-626": [
+   626,
+   "The Love of Books: The Philobiblon of Richard de Bury"
+  ],
+  "sme-657": [
+   657,
+   "The Anglo-Saxon Chronicle"
+  ],
+  "sme-749": [
+   749,
+   "Barlaam and Ioasaph"
+  ],
+  "sme-750": [
+   750,
+   "The High History of the Holy Graal"
+  ],
+  "sme-1150": [
+   1150,
+   "The Danish History, Books I-IX"
+  ],
+  "sme-3759": [
+   3759,
+   "Fridthjof's Saga; a Norse romance"
+  ],
+  "sme-6088": [
+   6088,
+   "The Lay of the Cid"
+  ],
+  "sme-6493": [
+   6493,
+   "Mediaeval Lore from Bartholomew Anglicus"
+  ],
+  "sme-14244": [
+   14244,
+   "The Romance of Tristan and Iseult"
+  ],
+  "sme-14391": [
+   14391,
+   "The Cattle-Raid of Cualnge (Tain Bo Cualnge) : An Old Irish Prose-Epic"
+  ],
+  "sme-14781": [
+   14781,
+   "The Elene of Cynewulf translated into English prose"
+  ],
+  "sme-15225": [
+   15225,
+   "Andreas: The Legend of St. Andrew"
+  ],
+  "sme-15879": [
+   15879,
+   "Elene; Judith; Athelstan, or the Fight at Brunanburh; Byrhtnoth, or the Fight at Maldon; and the Dream of the Rood Anglo-Saxon Poems"
+  ],
+  "sme-16464": [
+   16464,
+   "The Ancient Irish Epic Tale Táin Bó Cúalnge"
+  ],
+  "sme-17803": [
+   17803,
+   "Laxdæla Saga Translated from the Icelandic"
+  ],
+  "sme-17946": [
+   17946,
+   "Eirik the Red's Saga"
+  ],
+  "sme-18299": [
+   18299,
+   "The Norwegian account of Haco's expedition against Scotland, A.D. MCCLXIII."
+  ],
+  "sme-20179": [
+   20179,
+   "The Ship of Fools, Volume 1"
+  ],
+  "sme-23819": [
+   23819,
+   "La Chanson de Roland : Translated from the Seventh Edition of Léon Gautier"
+  ],
+  "sme-32030": [
+   32030,
+   "Selections from Ancient Irish Poetry"
+  ],
+  "sme-32528": [
+   32528,
+   "The Lusiad; Or, The Discovery of India, an Epic Poem"
+  ],
+  "sme-33022": [
+   33022,
+   "Villani's Chronicle Being Selections from the First Nine Books of the Croniche Fiorentine of Giovanni Villani"
+  ],
+  "sme-13603": [
+   13603,
+   "The Hawaiian Romance Of Laieikawai"
+  ],
+  "sme-31172": [
+   31172,
+   "Old English Poems Translated into the Original Meter Together with Short Selections from Old English Prose"
+  ],
+  "sme-5671": [
+   5671,
+   "The Visions of the Sleeping Bard"
+  ],
+  "sme-18459": [
+   18459,
+   "Hypnerotomachia: The Strife of Loue in a Dreame"
+  ],
+  "sme-14981": [
+   14981,
+   "The Itinerary of Benjamin of Tudela"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-medieval-epic-andreas": {
+   "source": "sme-15225",
+   "of": "anonymous (Old English)",
+   "work": "Andreas: The Legend of St. Andrew",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert K. Root",
+   "scan_edition": "Project Gutenberg 15225 (clean text)"
+  },
+  "singles-medieval-epic-bartholomaeus-mediaeval-lore-from-bartholomew-anglicus": {
+   "source": "sme-6493",
+   "of": "Bartholomaeus Anglicus",
+   "work": "Mediaeval Lore from Bartholomew Anglicus",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Trevisa",
+   "scan_edition": "Project Gutenberg 6493 (clean text)"
+  },
+  "singles-medieval-epic-bedier-the-romance-of-tristan-and-iseult": {
+   "source": "sme-14244",
+   "of": "Joseph Bédier",
+   "work": "The Romance of Tristan and Iseult",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Hilaire Belloc",
+   "scan_edition": "Project Gutenberg 14244 (clean text)"
+  },
+  "singles-medieval-epic-benjamin-the-itinerary-of-benjamin-of-tudela": {
+   "source": "sme-14981",
+   "of": "Benjamin of Tudela",
+   "work": "The Itinerary of Benjamin of Tudela",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Marcus Nathan Adler",
+   "scan_edition": "Project Gutenberg 14981 (clean text)"
+  },
+  "singles-medieval-epic-brant-the-ship-of-fools-volume-1": {
+   "source": "sme-20179",
+   "of": "Sebastian Brant",
+   "work": "The Ship of Fools, Volume 1",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alexander Barclay",
+   "scan_edition": "Project Gutenberg 20179 (clean text)"
+  },
+  "singles-medieval-epic-bury-the-love-of-books": {
+   "source": "sme-626",
+   "of": "Richard de Bury",
+   "work": "The Love of Books: The Philobiblon of Richard de Bury",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ernest Chester Thomas",
+   "scan_edition": "Project Gutenberg 626 (clean text)"
+  },
+  "singles-medieval-epic-camoes-the-lusiad": {
+   "source": "sme-32528",
+   "of": "Luís de Camões",
+   "work": "The Lusiad; Or, The Discovery of India, an Epic Poem",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Julius Mickle",
+   "scan_edition": "Project Gutenberg 32528 (clean text)"
+  },
+  "singles-medieval-epic-colonna-hypnerotomachia": {
+   "source": "sme-18459",
+   "of": "Francesco Colonna",
+   "work": "Hypnerotomachia: The Strife of Loue in a Dreame",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Dallington",
+   "scan_edition": "Project Gutenberg 18459 (clean text)",
+   "note": "Gutenberg keyed this from the 1969 Da Capo / Theatrum Orbis Terrarum facsimile of the 1592 printing (STC 5577); the text is the 1592 one (flagged in DIGEST-C)."
+  },
+  "singles-medieval-epic-cynewulf-the-elene-of-cynewulf-translated-into-en": {
+   "source": "sme-14781",
+   "of": "Cynewulf",
+   "work": "The Elene of Cynewulf translated into English prose",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lucius Hudson Holt",
+   "scan_edition": "Project Gutenberg 14781 (clean text)"
+  },
+  "singles-medieval-epic-eirik-the-red-s-saga": {
+   "source": "sme-17946",
+   "of": "anonymous (Icelandic saga)",
+   "work": "Eirik the Red's Saga",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Sephton",
+   "scan_edition": "Project Gutenberg 17946 (clean text)"
+  },
+  "singles-medieval-epic-elene": {
+   "source": "sme-15879",
+   "of": "anonymous (Old English)",
+   "work": "Elene; Judith; Athelstan, or the Fight at Brunanburh; Byrhtnoth, or the Fight at Maldon; and the Dream of the Rood Anglo-Saxon Poems",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Mercer Garnett",
+   "scan_edition": "Project Gutenberg 15879 (clean text)"
+  },
+  "singles-medieval-epic-haleole-the-hawaiian-romance-of-laieikawai": {
+   "source": "sme-13603",
+   "of": "S. N. Haleole",
+   "work": "The Hawaiian Romance Of Laieikawai",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Martha Warren Beckwith",
+   "scan_edition": "Project Gutenberg 13603 (clean text)"
+  },
+  "singles-medieval-epic-john-damascene-barlaam-and-ioasaph": {
+   "source": "sme-749",
+   "of": "attributed to St John of Damascus",
+   "work": "Barlaam and Ioasaph",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Harold Mattingly and George Ratcliffe Woodward",
+   "scan_edition": "Project Gutenberg 749 (clean text)",
+   "note": "The Gutenberg file opens with a 1990s preparer's note and bibliography by Douglas B. Killings, a modern addition that cites later editions; the translation itself is the 19th/early-20th-century one."
+  },
+  "singles-medieval-epic-la-chanson-de-roland": {
+   "source": "sme-23819",
+   "of": "anonymous (Old French epic)",
+   "work": "La Chanson de Roland : Translated from the Seventh Edition of Léon Gautier",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Léonce Rabillon",
+   "scan_edition": "Project Gutenberg 23819 (clean text)"
+  },
+  "singles-medieval-epic-laxdaela-saga-translated-from-the-icelan": {
+   "source": "sme-17803",
+   "of": "anonymous (Icelandic saga)",
+   "work": "Laxdæla Saga Translated from the Icelandic",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Muriel A. C. Press",
+   "scan_edition": "Project Gutenberg 17803 (clean text)"
+  },
+  "singles-medieval-epic-old-english-poems-translated-into-the-or": {
+   "source": "sme-31172",
+   "of": "anonymous (Old English)",
+   "work": "Old English Poems Translated into the Original Meter Together with Short Selections from Old English Prose",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cosette Faust Newton and Stith Thompson",
+   "scan_edition": "Project Gutenberg 31172 (clean text)"
+  },
+  "singles-medieval-epic-saxo-the-danish-history-books-i-ix": {
+   "source": "sme-1150",
+   "of": "Saxo Grammaticus",
+   "work": "The Danish History, Books I-IX",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Oliver Elton",
+   "scan_edition": "Project Gutenberg 1150 (clean text)",
+   "note": "The Gutenberg file opens with a 1990s preparer's note and bibliography by Douglas B. Killings, a modern addition that cites later editions; the translation itself is the 19th/early-20th-century one."
+  },
+  "singles-medieval-epic-selections-from-ancient-irish-poetry": {
+   "source": "sme-32030",
+   "of": "anonymous (Old Irish poets)",
+   "work": "Selections from Ancient Irish Poetry",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Kuno Meyer",
+   "scan_edition": "Project Gutenberg 32030 (clean text)"
+  },
+  "singles-medieval-epic-sturla-the-norwegian-account-of-haco-s-expediti": {
+   "source": "sme-18299",
+   "of": "Sturla Þórðarson",
+   "work": "The Norwegian account of Haco's expedition against Scotland, A.D. MCCLXIII.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Johnstone",
+   "scan_edition": "Project Gutenberg 18299 (clean text)"
+  },
+  "singles-medieval-epic-tegner-fridthjof-s-saga": {
+   "source": "sme-3759",
+   "of": "Esaias Tegnér",
+   "work": "Fridthjof's Saga; a Norse romance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Martha A. Lyon Holcomb and Thomas A. E. Holcomb",
+   "scan_edition": "Project Gutenberg 3759 (clean text)"
+  },
+  "singles-medieval-epic-the-ancient-irish-epic-tale-tain-bo-cual": {
+   "source": "sme-16464",
+   "of": "anonymous (Old Irish)",
+   "work": "The Ancient Irish Epic Tale Táin Bó Cúalnge",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Dunn",
+   "scan_edition": "Project Gutenberg 16464 (clean text)"
+  },
+  "singles-medieval-epic-the-anglo-saxon-chronicle": {
+   "source": "sme-657",
+   "of": "anonymous (Old English annals)",
+   "work": "The Anglo-Saxon Chronicle",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Ingram and J. A. Giles",
+   "scan_edition": "Project Gutenberg 657 (clean text)",
+   "note": "The Gutenberg file opens with a 1990s preparer's note and bibliography by Douglas B. Killings, a modern addition that cites later editions; the translation itself is the 19th/early-20th-century one."
+  },
+  "singles-medieval-epic-the-cattle-raid-of-cualnge-tain-bo-cualn": {
+   "source": "sme-14391",
+   "of": "anonymous (Old Irish)",
+   "work": "The Cattle-Raid of Cualnge (Tain Bo Cualnge) : An Old Irish Prose-Epic",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lucy Winifred Faraday",
+   "scan_edition": "Project Gutenberg 14391 (clean text)"
+  },
+  "singles-medieval-epic-the-high-history-of-the-holy-graal": {
+   "source": "sme-750",
+   "of": "anonymous (Old French romance, Perlesvaus)",
+   "work": "The High History of the Holy Graal",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sebastian Evans",
+   "scan_edition": "Project Gutenberg 750 (clean text)",
+   "note": "The Gutenberg file opens with a 1990s preparer's note and bibliography by Douglas B. Killings, a modern addition that cites later editions; the translation itself is the 19th/early-20th-century one."
+  },
+  "singles-medieval-epic-the-lay-of-the-cid": {
+   "source": "sme-6088",
+   "of": "anonymous (Old Spanish epic)",
+   "work": "The Lay of the Cid",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. Selden Rose and Leonard Bacon",
+   "scan_edition": "Project Gutenberg 6088 (clean text)"
+  },
+  "singles-medieval-epic-villani-villani-s-chronicle-being-selections-fro": {
+   "source": "sme-33022",
+   "of": "Giovanni Villani",
+   "work": "Villani's Chronicle Being Selections from the First Nine Books of the Croniche Fiorentine of Giovanni Villani",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Rose E. Selfe",
+   "scan_edition": "Project Gutenberg 33022 (clean text)"
+  },
+  "singles-medieval-epic-wynne-the-visions-of-the-sleeping-bard": {
+   "source": "sme-5671",
+   "of": "Ellis Wynne",
+   "work": "The Visions of the Sleeping Bard",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Gwyneddon Davies",
+   "scan_edition": "Project Gutenberg 5671 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sme-626": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest chester thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Chester Thomas"
+  },
+  "sme-657": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "giles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Ingram; J. A. Giles"
+  },
+  "sme-749": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george ratcliffe woodward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Harold Mattingly; George Ratcliffe Woodward"
+  },
+  "sme-750": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sebastian Evans"
+  },
+  "sme-1150": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Oliver Elton"
+  },
+  "sme-3759": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "holcomb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Martha A. Lyon Holcomb; Thomas A. E. Holcomb"
+  },
+  "sme-6088": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leonard bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Selden Rose; Leonard Bacon"
+  },
+  "sme-6493": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john trevisa",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Trevisa"
+  },
+  "sme-14244": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "belloc",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hilaire Belloc"
+  },
+  "sme-14391": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "faraday",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lucy Winifred Faraday"
+  },
+  "sme-14781": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lucius Hudson Holt"
+  },
+  "sme-15225": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert k. root",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert K. Root"
+  },
+  "sme-15879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Mercer Garnett"
+  },
+  "sme-16464": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Dunn"
+  },
+  "sme-17803": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "muriel a. c. press",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Muriel A. C. Press"
+  },
+  "sme-17946": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john sephton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Sephton"
+  },
+  "sme-18299": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james johnstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Johnstone"
+  },
+  "sme-20179": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Barclay"
+  },
+  "sme-23819": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "léonce rabillon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Léonce Rabillon"
+  },
+  "sme-32030": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kuno meyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kuno Meyer"
+  },
+  "sme-32528": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mickle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Julius Mickle"
+  },
+  "sme-33022": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rose e. selfe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rose E. Selfe"
+  },
+  "sme-13603": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beckwith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Martha Warren Beckwith"
+  },
+  "sme-31172": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cosette faust newton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cosette Faust Newton; Stith Thompson"
+  },
+  "sme-5671": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Gwyneddon Davies"
+  },
+  "sme-18459": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dallington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Dallington"
+  },
+  "sme-14981": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marcus Nathan Adler"
+  }
+ },
+ "_verified": {
+  "sme-626": {
+   "pg": 626,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Chester Thomas"
+  },
+  "sme-657": {
+   "pg": 657,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Ingram"
+  },
+  "sme-749": {
+   "pg": 749,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Harold Mattingly"
+  },
+  "sme-750": {
+   "pg": 750,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sebastian Evans"
+  },
+  "sme-1150": {
+   "pg": 1150,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Oliver Elton"
+  },
+  "sme-3759": {
+   "pg": 3759,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Martha A. Lyon Holcomb"
+  },
+  "sme-6088": {
+   "pg": 6088,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Selden Rose"
+  },
+  "sme-6493": {
+   "pg": 6493,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Trevisa"
+  },
+  "sme-14244": {
+   "pg": 14244,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hilaire Belloc"
+  },
+  "sme-14391": {
+   "pg": 14391,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lucy Winifred Faraday"
+  },
+  "sme-14781": {
+   "pg": 14781,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lucius Hudson Holt"
+  },
+  "sme-15225": {
+   "pg": 15225,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert K. Root"
+  },
+  "sme-15879": {
+   "pg": 15879,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Mercer Garnett"
+  },
+  "sme-16464": {
+   "pg": 16464,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Dunn"
+  },
+  "sme-17803": {
+   "pg": 17803,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Muriel A. C. Press"
+  },
+  "sme-17946": {
+   "pg": 17946,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Sephton"
+  },
+  "sme-18299": {
+   "pg": 18299,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Johnstone"
+  },
+  "sme-20179": {
+   "pg": 20179,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Barclay"
+  },
+  "sme-23819": {
+   "pg": 23819,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Léonce Rabillon"
+  },
+  "sme-32030": {
+   "pg": 32030,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kuno Meyer"
+  },
+  "sme-32528": {
+   "pg": 32528,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Julius Mickle"
+  },
+  "sme-33022": {
+   "pg": 33022,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rose E. Selfe"
+  },
+  "sme-13603": {
+   "pg": 13603,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Martha Warren Beckwith"
+  },
+  "sme-31172": {
+   "pg": 31172,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cosette Faust Newton"
+  },
+  "sme-5671": {
+   "pg": 5671,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Gwyneddon Davies"
+  },
+  "sme-18459": {
+   "pg": 18459,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Dallington"
+  },
+  "sme-14981": {
+   "pg": 14981,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Marcus Nathan Adler"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

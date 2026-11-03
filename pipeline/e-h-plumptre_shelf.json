@@ -1,0 +1,158 @@
+{
+ "_about": "Public-domain Edward Hayes Plumptre (1821-1891, Dean of Wells) for the Word Hoard: Christ and Christendom, the Boyle Lectures (1867), Biblical Studies (second edition, 1873), Movements in Religious Thought (1879), his Cambridge Bible Ecclesiastes (1881) and St. James (1884), The Spirits in Prison (1884) and The Life of Thomas Ken (2 vols, 1889), from Internet Archive scans. His translations of Aeschylus, Sophocles and Dante are left to the translators' lane. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "plumptre"
+ ],
+ "_surname": [
+  "plumptre",
+  "e. h. plumptre",
+  "edward hayes plumptre"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "plumptre-christ-christendom": [
+   "christchristendo00plum",
+   "Christ and Christendom, the Boyle Lectures for 1866 (London: Alexander Strahan, 1867)"
+  ],
+  "plumptre-biblical-studies": [
+   "biblicalstudies00plumgoog",
+   "Biblical Studies, second edition (London: W. Isbister, 1873)"
+  ],
+  "plumptre-movements-religious-thought": [
+   "movementsinrelig00plum",
+   "Movements in Religious Thought: Romanism, Protestantism, Agnosticism (London: Macmillan, 1879)"
+  ],
+  "plumptre-ecclesiastes": [
+   "ecclesiastesorpr00plumuoft",
+   "Ecclesiastes; or, the Preacher, Cambridge Bible (Cambridge: University Press, 1881)"
+  ],
+  "plumptre-st-james": [
+   "generalepistles04plumgoog",
+   "The General Epistle of St. James, Cambridge Bible (Cambridge: University Press, 1884)"
+  ],
+  "plumptre-spirits-in-prison": [
+   "spiritsinprisono00plum_0",
+   "The Spirits in Prison and Other Studies on the Life after Death (London: Wm. Isbister, 1884)"
+  ],
+  "plumptre-life-ken-1": [
+   "lifeofthomaskend01plumuoft",
+   "The Life of Thomas Ken, vol. I (London: Wm. Isbister, 1889)"
+  ],
+  "plumptre-life-ken-2": [
+   "lifeofthomasken02plum",
+   "The Life of Thomas Ken, vol. II (London: Wm. Isbister, 1889)"
+  ]
+ },
+ "_alternates": {
+  "plumptre-translations": "Aeschylus (PG 53174), Sophocles and Dante: his verse translations, for the translators' lane",
+  "plumptre-copies": "King's College Sermons (1859); later Cambridge Bible issues; the New York Ken"
+ },
+ "_excluded": {
+  "plumptre-reprints": "2016 and 1978 reprints of St. James"
+ },
+ "_identity_checked": {
+  "plumptre-life-ken-1": {
+   "author": "title page read: 'BY E. H. PLUMPTRE, D.D.' (OCR 'iiv I-:, ii. I'LUMPTJM.. D.D.')"
+  }
+ },
+ "_rights_checked": {
+  "plumptre-biblical-studies": "title page read: second edition, 1873 (the catalogue's 1870 is wrong for this copy)",
+  "plumptre-life-ken-1": "title page read: heavily garbled; vol. II reads 1889"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "plumptre-christ-christendom": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plumptre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plumptre-biblical-studies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plumptre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: second edition, 1873 (the catalogue's 1870 is wrong for this copy)"
+  },
+  "plumptre-movements-religious-thought": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plumptre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plumptre-ecclesiastes": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plumptre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plumptre-st-james": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plumptre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plumptre-spirits-in-prison": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plumptre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plumptre-life-ken-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: heavily garbled; vol. II reads 1889"
+  },
+  "plumptre-life-ken-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plumptre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

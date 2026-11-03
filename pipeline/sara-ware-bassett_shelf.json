@@ -1,0 +1,278 @@
+{
+ "_about": "Sara Ware Bassett's Cape Cod novels and books for young readers: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Sara Ware Bassett",
+ "_name_words": [
+  "bassett"
+ ],
+ "_surname": [
+  "sara ware bassett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "swbassett-story-of-sugar": [
+   7803,
+   "The Story of Sugar",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-flood-tide": [
+   18902,
+   "Flood Tide",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-story-of-porcelain": [
+   19423,
+   "The Story of Porcelain",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-story-of-glass": [
+   20698,
+   "The Story of Glass",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-steve-and-the-steam-engine": [
+   22245,
+   "Steve and the Steam Engine"
+  ],
+  "swbassett-ted-and-the-telephone": [
+   23292,
+   "Ted and the Telephone",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-carl-and-the-cotton-gin": [
+   23560,
+   "Carl and the Cotton Gin",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-walter-and-the-wireless": [
+   23728,
+   "Walter and the Wireless",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-mrs-christys-bridge-party": [
+   23973,
+   "Mrs. Christy's Bridge Party"
+  ],
+  "swbassett-story-of-wool": [
+   24858,
+   "The Story of Wool"
+  ],
+  "swbassett-story-of-silk": [
+   25025,
+   "The Story of Silk",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-story-of-leather": [
+   25823,
+   "The Story of Leather"
+  ],
+  "swbassett-christopher-and-the-clockmakers": [
+   26857,
+   "Christopher and the Clockmakers",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-wall-between": [
+   27471,
+   "The Wall Between"
+  ],
+  "swbassett-paul-and-the-printing-press": [
+   27834,
+   "Paul and the Printing Press",
+   {
+    "contents_only": true
+   }
+  ],
+  "swbassett-shifting-sands": [
+   43773,
+   "Shifting Sands",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "swbassett-green-dolphin": [
+   78005,
+   "The Green Dolphin"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "swbassett-story-of-sugar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-flood-tide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-story-of-porcelain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-story-of-glass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-steve-and-the-steam-engine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-ted-and-the-telephone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-carl-and-the-cotton-gin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-walter-and-the-wireless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-mrs-christys-bridge-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-story-of-wool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-story-of-silk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-story-of-leather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-christopher-and-the-clockmakers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-wall-between": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-paul-and-the-printing-press": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-shifting-sands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swbassett-green-dolphin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sara ware bassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

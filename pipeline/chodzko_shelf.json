@@ -1,0 +1,54 @@
+{
+ "_about": "Alexander Chodzko's Fairy Tales of the Slav Peasants and Herdsmen, translated and illustrated by Emily J. Harding (preface dated November 1895; 1896). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Alexander Chodzko",
+ "_name_words": [
+  "chodzko"
+ ],
+ "_surname": [
+  "alexander chodzko"
+ ],
+ "_translators": {
+  "chodzko-fairy-tales-of-the-slav-peasants": "Harding"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "chodzko-fairy-tales-of-the-slav-peasants": [
+   25555,
+   "Fairy Tales of the Slav Peasants and Herdsmen",
+   {
+    "levels": [
+     {
+      "re": "(?:THE ABODE OF THE GODS|THE SUN;? OR,? THE THREE GOLDEN HAIRS OF THE OLD MAN VSEVEDE|KOVLAD|THE MAID WITH HAIR OF GOLD|THE JOURNEY TO THE SUN AND THE MOON|THE DWARF WITH THE LONG BEARD|THE FLYING CARPET, THE INVISIBLE CAP, THE GOLD-GIVING RING, AND THE SMITING CLUB|THE BROAD MAN, THE TALL MAN, AND THE MAN WITH EYES OF FLAME|THE HISTORY OF PRINCE SLUGOBYL;? OR,? THE INVISIBLE KNIGHT|THE SPIRIT OF THE STEPPES|THE PRINCE WITH THE GOLDEN HAND|IMPERISHABLE|OHNIVAK|TEARS OF PEARLS|THE SLUGGARD|KINKACH MARTINKO)$",
+      "label": {
+       "THE SUN": "THE SUN; OR, THE THREE GOLDEN HAIRS OF THE OLD MAN VSEVEDE",
+       "THE HISTORY OF PRINCE": "THE HISTORY OF PRINCE SLUGOBYL; OR, THE INVISIBLE KNIGHT"
+      },
+      "max": 120
+     },
+     {
+      "re": "[IVX]+$",
+      "title_next": true
+     }
+    ],
+    "start": "THE ABODE OF THE GODS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "chodzko-fairy-tales-of-the-slav-peasants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander chodzko",
+   "translator_claimed": "Harding",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emily J. Harding",
+   "translator_match": true
+  }
+ }
+}

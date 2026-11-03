@@ -1,0 +1,200 @@
+{
+ "_about": "Susanna Moodie's Roughing It in the Bush, her novels and sketches. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Susanna Moodie",
+ "_name_words": [
+  "moodie"
+ ],
+ "_surname": [
+  "moodie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "smoodie-roughing-it-in-the-bush": [
+   4389,
+   "Roughing It in the Bush"
+  ],
+  "smoodie-george-leatrim": [
+   6454,
+   "George Leatrim"
+  ],
+  "smoodie-life-in-the-clearings-versus-the-bush": [
+   8132,
+   "Life in the Clearings versus the Bush"
+  ],
+  "smoodie-life-in-the-backwoods": [
+   8393,
+   "Life in the Backwoods"
+  ],
+  "smoodie-mark-hurdlestone": [
+   16836,
+   "Mark Hurdlestone; Or, The Two Brothers"
+  ],
+  "smoodie-monctons": [
+   20835,
+   "The Monctons: A Novel. Volume 1 (of 2)"
+  ],
+  "smoodie-little-quaker": [
+   23918,
+   "The Little Quaker; or, the Triumph of Virtue. A Tale for the Instruction of Youth"
+  ],
+  "smoodie-enthusiasm-and-other-poems": [
+   26611,
+   "Enthusiasm and Other Poems"
+  ],
+  "smoodie-flora-lyndsay": [
+   27373,
+   "Flora Lyndsay; or, Passages in an Eventful Life, Vol. I."
+  ],
+  "smoodie-flora-lyndsay-33167": [
+   33167,
+   "Flora Lyndsay; or, Passages in an Eventful Life, Vol. II."
+  ],
+  "smoodie-monctons-38798": [
+   38798,
+   "The Monctons: A Novel. Volume 2 (of 2)"
+  ],
+  "smoodie-world-before-them": [
+   42145,
+   "The World Before Them: A Novel. Volume 2 (of 3)"
+  ],
+  "smoodie-world-before-them-42165": [
+   42165,
+   "The World Before Them: A Novel. Volume 1 (of 3)"
+  ],
+  "smoodie-world-before-them-42174": [
+   42174,
+   "The World Before Them: A Novel. Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "smoodie-roughing-it-in-the-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-george-leatrim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-life-in-the-clearings-versus-the-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-life-in-the-backwoods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-mark-hurdlestone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-monctons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-little-quaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-enthusiasm-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-flora-lyndsay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-flora-lyndsay-33167": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-monctons-38798": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-world-before-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-world-before-them-42165": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoodie-world-before-them-42174": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moodie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

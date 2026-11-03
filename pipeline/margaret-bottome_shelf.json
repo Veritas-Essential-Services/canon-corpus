@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Margaret Bottome (1827-1906), founder of the International Order of the King's Daughters and Sons, for the Word Hoard: A Sunshine Trip: Glimpses of the Orient (1897) and Heart to Heart Letters to a son (copyright 1909), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bottome"
+ ],
+ "_surname": [
+  "margaret bottome",
+  "bottome"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mbottome-sunshine-trip": [
+   "sunshinetripglim00bott",
+   "A Sunshine Trip: Glimpses of the Orient, extracts from letters written by Margaret Bottome (New York: Edward Arnold, 1897)"
+  ],
+  "mbottome-heart-to-heart": [
+   "hearttoheartlett00bott",
+   "Heart to Heart Letters, being extracts from the letters of Margaret Bottome to a son (New York: Hodder and Stoughton; copyright 1909)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "mbottome-heart-to-heart": "title page read: posthumous, her own letters; the preface is by her son, unnamed on the title page"
+ },
+ "_pending": {
+  "mbottome-unfound": "Crumbs from the King's Table and her King's Daughters books: no scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "mbottome-sunshine-trip": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret bottome",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mbottome-heart-to-heart": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret bottome",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: posthumous, her own letters; the preface is by her son, unnamed on the title page"
+  }
+ }
+}

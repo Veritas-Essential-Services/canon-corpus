@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain A. N. Mouravieff (Andrei Nikolaevich Muravyov, 1806-1874), Russian church historian and Under-Procurator of the Holy Synod, in English translation for the Word Hoard: A History of the Church of Russia, tr. R. W. Blackmore (Oxford: Parker, 1842), from an Internet Archive scan. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mouravieff"
+ ],
+ "_surname": [
+  "mouravieff",
+  "a. n. mouravieff"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mouravieff-church-of-russia": [
+   "historyofchurcho00mouriala",
+   "A History of the Church of Russia, tr. R. W. Blackmore (Oxford: John Henry Parker; London: Rivingtons, 1842)"
+  ]
+ },
+ "_alternates": {
+  "mouravieff-copies": "The London issue (Joseph Masters, 1842) and another Oxford copy; Neale's Voices from the East (1859), whose first six essays are Mouravieff's, though the title page does not name him"
+ },
+ "_excluded": {
+  "mouravieff-other": "The 1971 AMS reprint; French editions; Boris Mouravieff, a different author"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "mouravieff-church-of-russia": "blackmore"
+ },
+ "_checks": {
+  "mouravieff-church-of-russia": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mouravieff",
+   "translator_claimed": "blackmore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

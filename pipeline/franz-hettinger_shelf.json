@@ -1,0 +1,113 @@
+{
+ "_about": "Public-domain Franz Hettinger (1819-1890, Würzburg apologist) in English for the Word Hoard: Natural Religion (1890) and Revealed Religion (1895) from his Apologie des Christenthums, and Dante's Divina Commedia (1887), all edited by H. S. Bowden; Timothy, or Letters to a Young Theologian, tr. Victor Stepka (1902); and The Supremacy of the Apostolic See, tr. Archbishop George Porter; from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hettinger"
+ ],
+ "_surname": [
+  "hettinger",
+  "franz hettinger"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hettinger-natural-religion": [
+   "naturalreligion00hettgoog",
+   "Natural Religion, from the Apologie des Christenthums, ed. Henry Sebastian Bowden (London: Burns and Oates, 1890)"
+  ],
+  "hettinger-revealed-religion": [
+   "revealedreligio00bowdgoog",
+   "Revealed Religion, from the Apologie des Christenthums, ed. Henry Sebastian Bowden (London: Burns & Oates, 1895)"
+  ],
+  "hettinger-dante": [
+   "dantesdivinacomm00hettrich",
+   "Dante's Divina Commedia: its scope and value, ed. Henry Sebastian Bowden (London: Burns & Oates, 1887)"
+  ],
+  "hettinger-timothy": [
+   "timothyorletter00hettuoft",
+   "Timothy, or Letters to a Young Theologian, tr. Victor Stepka (St. Louis: B. Herder, 1902)"
+  ],
+  "hettinger-supremacy-apostolic-see": [
+   "a587442000hettuoft",
+   "The Supremacy of the Apostolic See in the Church, tr. George Porter (London: Burns & Oates; no year on the title page)"
+  ]
+ },
+ "_alternates": {
+  "hettinger-copies": "Natural Religion third edition (1898); Revealed Religion (Pustet, 1895); other Dante copies"
+ },
+ "_excluded": {
+  "hettinger-other": "French and German editions"
+ },
+ "_rights_checked": {
+  "hettinger-natural-religion": "title page read: 'Edited ... by Henry Sebastian Bowden'; no translator named (Revealed Religion and Dante likewise)",
+  "hettinger-supremacy-apostolic-see": "title page read: no year; Burns & Oates, Limited, and the Catholic Publication Society Co.; the translator, Archbishop Porter, died in 1889"
+ },
+ "_pending": {},
+ "_translators": {
+  "hettinger-timothy": "stepka",
+  "hettinger-supremacy-apostolic-see": "porter"
+ },
+ "_checks": {
+  "hettinger-natural-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hettinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Edited ... by Henry Sebastian Bowden'; no translator named (Revealed Religion and Dante likewise)"
+  },
+  "hettinger-revealed-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hettinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hettinger-dante": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hettinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hettinger-timothy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hettinger",
+   "translator_claimed": "stepka",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hettinger-supremacy-apostolic-see": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hettinger",
+   "translator_claimed": "porter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "188-?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no year; Burns & Oates, Limited, and the Catholic Publication Society Co.; the translator, Archbishop Porter, died in 1889"
+  }
+ }
+}

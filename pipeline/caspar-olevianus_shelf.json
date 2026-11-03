@@ -1,0 +1,41 @@
+{
+ "_about": "Caspar Olevianus (1536-1587), co-author with Ursinus of the Heidelberg Catechism: An Exposition of the Symbole of the Apostles, translated out of the Latin (London, 1581; the translator is John Field, by the catalogue). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "olevian",
+  "olevianus",
+  "gasper olevian",
+  "caspar olevian",
+  "caspar olevianus"
+ ],
+ "_surname": [
+  "olevian",
+  "olevianus",
+  "gasper olevian",
+  "caspar olevian",
+  "caspar olevianus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "olevianus-symbole-1581": [
+   "bim_early-english-books-1641-1700_an-exposition-of-the-sym_olevian-casper_1581",
+   "An Exposition of the Symbole of the Apostles (London, 1581)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "olevianus-symbole-1581": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "olevian",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

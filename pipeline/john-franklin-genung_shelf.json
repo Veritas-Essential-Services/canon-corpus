@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain John Franklin Genung (1850-1919), professor at Amherst and scholar of the Bible as literature, for the Word Hoard: The Epic of the Inner Life (Job translated anew), Words of Koheleth (Ecclesiastes translated anew), The Hebrew Literature of Wisdom, A Guidebook to the Biblical Literature, and What a Carpenter did with his Bible. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 109 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john franklin genung",
+  "john f. genung",
+  "j. f. genung",
+  "genung"
+ ],
+ "_surname": [
+  "john franklin genung",
+  "john f. genung",
+  "genung"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "genung-epic-inner-life": [
+   "epicofinnerlifeb00genuuoft",
+   "The epic of the inner life : being the book of Job (Boston : Houghton, Mifflin, 1893)"
+  ],
+  "genung-carpenter": [
+   "whatcarpenterdid00genu",
+   "What a carpenter did with his Bible: an address by John Franklin Genung (New York, Boston, T. Y. Crowell & company, 1898)"
+  ],
+  "genung-koheleth": [
+   "ecclesiastesword00genuuoft",
+   "Ecclesiastes : words of Koheleth, son of David, King in Jerusalem (Boston : Houghton, Mifflin, 1904)"
+  ],
+  "genung-hebrew-wisdom": [
+   "hebrewliterature00genu",
+   "The Hebrew literature of wisdom in the light of to-day; a synthesis (Boston and New York, Houghton, Mifflin and company, 1906)"
+  ],
+  "genung-guidebook": [
+   "guidebooktobibli00genu",
+   "A guidebook to the Biblical literature (Boston, New York [etc.] Ginn and company, 1919)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "genung-rhetoric": "His rhetoric textbooks and the Tennyson study are not theology; left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "genung-carpenter": "Title page (OCR): \"WHAT A CARPENTER DID WITH HIS BIBLE an Address by JOHN FRANKLIN GENTJNG Professor of Rhetoric in Amherst College... Thomas Y. Crowell & Company... Copyright, 1898\"; OCR misreads Genung."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "genung-epic-inner-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john f. genung",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893, c1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "genung-carpenter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "genung-koheleth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john franklin genung",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "genung-hebrew-wisdom": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john franklin genung",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "genung-guidebook": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john franklin genung",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

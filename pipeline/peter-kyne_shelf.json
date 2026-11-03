@@ -1,0 +1,163 @@
+{
+ "_about": "Peter B. Kyne's novels and stories of the West and the sea: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Peter B. Kyne",
+ "_name_words": [
+  "kyne"
+ ],
+ "_surname": [
+  "peter b. kyne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pkyne-valley-of-the-giants": [
+   5735,
+   "The Valley of the Giants"
+  ],
+  "pkyne-cappy-ricks": [
+   5738,
+   "Cappy Ricks; Or, the Subjugation of Matt Peasley",
+   {
+    "contents_only": true
+   }
+  ],
+  "pkyne-cappy-ricks-retires": [
+   6020,
+   "Cappy Ricks Retires: But That Doesn't Keep Him from Coming Back Stronger Than Ever"
+  ],
+  "pkyne-long-chance": [
+   6115,
+   "The Long Chance"
+  ],
+  "pkyne-go-getter": [
+   12257,
+   "The Go-Getter: A Story That Tells You How to be One"
+  ],
+  "pkyne-kindred-of-the-dust": [
+   13532,
+   "Kindred of the Dust"
+  ],
+  "pkyne-pride-of-palomar": [
+   16674,
+   "The Pride of Palomar"
+  ],
+  "pkyne-captain-scraggs": [
+   18469,
+   "Captain Scraggs; Or, The Green-Pea Pirates"
+  ],
+  "pkyne-three-godfathers": [
+   51942,
+   "The Three Godfathers"
+  ],
+  "pkyne-webster-mans-man": [
+   51987,
+   "Webster—Man's Man"
+  ],
+  "pkyne-never-the-twain-shall-meet": [
+   69547,
+   "Never the twain shall meet"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "pkyne-valley-of-the-giants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-cappy-ricks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-cappy-ricks-retires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-long-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-go-getter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-kindred-of-the-dust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-pride-of-palomar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-captain-scraggs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-three-godfathers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-webster-mans-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkyne-never-the-twain-shall-meet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "peter b. kyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

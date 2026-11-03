@@ -1,0 +1,103 @@
+{
+ "_about": "Public-domain Charles Abel Heurtley (1806-1895), Margaret Professor of Divinity at Oxford, for the Word Hoard: Justification (his Bampton Lectures of 1845), Parochial Sermons Preached in a Village Church, A History of the Earlier Formularies of Faith, and On Faith and the Creed, his translations of patristic treatises. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 135 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles abel heurtley",
+  "charles a. heurtley",
+  "c. a. heurtley",
+  "heurtley"
+ ],
+ "_surname": [
+  "heurtley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heurtley-justification": [
+   "cu31924029181043",
+   "Justification. Eight sermons preached before the University of Oxford, in the year MDCCCXLV, at the lecture founded by the late Canon Bampton (Oxford : J. H. Parker, 1846)"
+  ],
+  "heurtley-parochial-sermons": [
+   "parochialsermon00heurgoog",
+   "Parochial sermons preached in a village church (catalogued 1849)"
+  ],
+  "heurtley-baptism-manual": [
+   "manualofinstruct0000char",
+   "A manual of instruction for adult candidates for holy baptism (catalogued 1852)"
+  ],
+  "heurtley-formularies": [
+   "historyofearlier00heur",
+   "A history of the earlier formularies of faith of the Western and Eastern churches, to which is added an exposition of the Athanasian Creed, being the substance of a course of lectures (London, James Parker and co., 1892)"
+  ],
+  "heurtley-faith-creed": [
+   "onfaithcreeddogm0000unse",
+   "On faith and the creed : dogmatic teaching of the church of the fourth and fifth centuries (catalogued 1886)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "heurtley-latin": "Harmonia Symbolica and De Fide et Symbolo are Latin collections of creeds and patristic texts",
+  "heurtley-dups": "the other scans of Justification and On Faith and the Creed"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "heurtley-justification": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "heurtley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heurtley-parochial-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "heurtley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heurtley-baptism-manual": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "heurtley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heurtley-formularies": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "heurtley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heurtley-faith-creed": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "heurtley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

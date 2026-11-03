@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain J. B. Mozley (James Bowling Mozley, 1813-1878, Tractarian, Regius Professor of Divinity at Oxford) for the Word Hoard: The Augustinian Doctrine of Predestination (1855), The Primitive Doctrine of Baptismal Regeneration (1856), the Bampton Lectures on Miracles (1865), Ruling Ideas in Early Ages (1877), University Sermons (second edition, 1876), Essays Historical and Theological (2 vols, 1878) and Lectures and Other Theological Papers (1883), raw Internet Archive OCR. Not J. K. Mozley or Thomas Mozley. Added 2026-10-03 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mozley",
+  "bowling"
+ ],
+ "_surname": [
+  "j. b. mozley",
+  "j.b. mozley",
+  "james bowling mozley",
+  "mozley, j. b"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mozley-augustinian-predestination-1855": [
+   "a596193601mozluoft",
+   "A Treatise on the Augustinian Doctrine of Predestination (London: John Murray, 1855)"
+  ],
+  "mozley-baptismal-regeneration-1856": [
+   "primitivedoctrin00mozl",
+   "The Primitive Doctrine of Baptismal Regeneration (London: John Murray, 1856)"
+  ],
+  "mozley-miracles-1865": [
+   "cu31924086365354",
+   "Eight Lectures on Miracles, the Bampton Lectures for 1865 (London: Rivingtons, 1865)"
+  ],
+  "mozley-ruling-ideas-1877": [
+   "rulingideasinear00mozliala",
+   "Ruling Ideas in Early Ages and their Relation to Old Testament Faith (London: Rivingtons, 1877)"
+  ],
+  "mozley-university-sermons-1876": [
+   "sermonspreachedb00mozluoft",
+   "Sermons Preached before the University of Oxford and on Various Occasions, second edition (London: Rivingtons, 1876)"
+  ],
+  "mozley-essays-1": [
+   "essayshistoric01mozluoft",
+   "Essays Historical and Theological, vol. 1 (London: Rivingtons, 1878)"
+  ],
+  "mozley-essays-2": [
+   "essayshistoric02mozluoft",
+   "Essays Historical and Theological, vol. 2 (London: Rivingtons, 1878)"
+  ],
+  "mozley-lectures-papers-1883": [
+   "lecturesandother00mozluoft",
+   "Lectures and Other Theological Papers (London: Rivingtons, 1883)"
+  ]
+ },
+ "_alternates": {
+  "mozley-baptismal-controversy": "A Review of the Baptismal Controversy, 2nd ed. (Rivingtons, 1883; IA a596159000mozluoft)",
+  "mozley-parochial-sermons": "Sermons Parochial and Occasional (Rivingtons, 1879; IA sermonsparochial0000mozl)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "mozley-augustinian-predestination-1855": {
+   "author": "title page read 2026-10-09: OCR gives \"BY J. B. M 0 Z L E Y, B. D. FELLOW OF MAGDALEN COLLEGE, OXFORD\" (letterspaced, with a zero for the O), John Murray, London, 1855: J. B. Mozley"
+  }
+ },
+ "_checks": {
+  "mozley-augustinian-predestination-1855": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mozley-baptismal-regeneration-1856": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. mozley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mozley-miracles-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. mozley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mozley-ruling-ideas-1877": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. mozley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mozley-university-sermons-1876": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. mozley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mozley-essays-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. mozley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mozley-essays-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. mozley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mozley-lectures-papers-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. mozley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "_about": "Public-domain Miguel de Molinos (1628-1696, Spanish priest condemned as a Quietist) in English for the Word Hoard: The Spiritual Guide in the English version of 1688, translated from the Venice edition of 1685, and the Leeds revision of 1775, from Internet Archive scans. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "molinos"
+ ],
+ "_surname": [
+  "molinos",
+  "michael de molinos",
+  "miguel de molinos",
+  "michael molinos"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "molinos-spiritual-guide-1688": [
+   "bim_early-english-books-1641-1700_the-spiritual-guide-_molinos-miguel-de_1688",
+   "The Spiritual Guide which Disentangles the Soul, with a Short Treatise concerning Daily Communion, translated from the Italian copy printed at Venice 1685 (London, catalogued 1688)"
+  ],
+  "molinos-spiritual-guide-1775": [
+   "bim_eighteenth-century_the-spiritual-guide-whi_molinos-miguel-de_1775",
+   "The Spiritual Guide, carefully revised with the original (Leeds: J. Bowling, M.DCC.LXXV)"
+  ]
+ },
+ "_alternates": {
+  "molinos-ccel-guide": "CCEL molinos/guide: the 1688 text, but CCEL states a Methuen 1907 source it does not carry",
+  "molinos-copies": "The other 1688 copy (bim_..._the-spiritual-guide-whic_molinos-miguel-de_1688), the 1699 printing, and the 1885 Philadelphia and Glasgow reprints of 1699",
+  "molinos-extracts": "Golden Thoughts from The Spiritual Guide, preface by J. H. Shorthouse (1883), and two eighteenth-century abstracts"
+ },
+ "_excluded": {
+  "molinos-baillie": "Thoughts and Aphorisms (1857): its title page does not name Molinos",
+  "molinos-about": "Bigelow (1882) and other works about him; Italian and Spanish editions"
+ },
+ "_rights_checked": {
+  "molinos-spiritual-guide-1688": "title page read: 'Written by Dr. Michael de Molinos'; year not legible, catalogued 1688"
+ },
+ "_pending": {
+  "molinos-lyttelton": "Kathleen Lyttelton's 1907 Methuen edition: not found"
+ },
+ "_checks": {
+  "molinos-spiritual-guide-1688": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "molinos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1688",
+   "ia_date": "1688",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Written by Dr. Michael de Molinos'; year not legible, catalogued 1688"
+  },
+  "molinos-spiritual-guide-1775": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "molinos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1775",
+   "ia_date": "1775",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

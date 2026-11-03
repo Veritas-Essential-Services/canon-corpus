@@ -1,0 +1,136 @@
+{
+ "_about": "Arthur Morrison's writing at Gutenberg: east End stories and Martin Hewitt detective stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur Morrison",
+ "_name_words": [
+  "arthur",
+  "morrison"
+ ],
+ "_surname": [
+  "arthur morrison"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "amorrison-martin-hewitt-investigator": [
+   11252,
+   "Martin Hewitt, Investigator"
+  ],
+  "amorrison-red-triangle": [
+   28071,
+   "The Red Triangle: Being Some Further Chronicles of Martin Hewitt, Investigator"
+  ],
+  "amorrison-hole-in-the-wall": [
+   34538,
+   "The Hole in the Wall"
+  ],
+  "amorrison-child-of-the-jago": [
+   36958,
+   "A Child of the Jago"
+  ],
+  "amorrison-chronicles-of-martin-hewitt": [
+   37820,
+   "Chronicles of Martin Hewitt"
+  ],
+  "amorrison-tales-of-mean-streets": [
+   40569,
+   "Tales of Mean Streets"
+  ],
+  "amorrison-dorrington-deed-box": [
+   53341,
+   "The Dorrington Deed-Box"
+  ],
+  "amorrison-to-london-town": [
+   58282,
+   "To London Town"
+  ],
+  "amorrison-adventures-of-martin-hewitt-third-series": [
+   59319,
+   "Adventures of Martin Hewitt, Third Series"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "amorrison-martin-hewitt-investigator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-red-triangle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-hole-in-the-wall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-child-of-the-jago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-chronicles-of-martin-hewitt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-tales-of-mean-streets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-dorrington-deed-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-to-london-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amorrison-adventures-of-martin-hewitt-third-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

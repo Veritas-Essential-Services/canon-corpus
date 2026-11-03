@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain Henry Ware Jr. (1794-1843), Unitarian minister of the Second Church, Boston, and Harvard professor of pulpit eloquence, for the Word Hoard: Discourses on the Offices and Character of Jesus Christ (1825), On the Formation of the Christian Character (1831), Hints on Extemporaneous Preaching (1831), The Life of the Saviour (1834), Memoirs of Noah Worcester (1844) and volume 2 of his Works (1846). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 64 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ware"
+ ],
+ "_surname": [
+  "henry ware, jr.",
+  "henry ware jr.",
+  "henry ware, jun.",
+  "h. ware, jr.",
+  "henry ware"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hwarejr-offices-of-christ": [
+   "discoursesonoff00ware",
+   "Discourses on the offices and character of Jesus Christ (Boston : Office of the Christian Register, 1825)"
+  ],
+  "hwarejr-christian-character": [
+   "onformationofc00ware",
+   "On the formation of the Christian character : addressed to those who are seeking to lead a religious life (Cambridge [Mass.] : Hilliard and Brown ; Boston : Gray and Bowen, 1831)"
+  ],
+  "hwarejr-extemporaneous-preaching": [
+   "hintsonextempora00ware",
+   "Hints on extemporaneous preaching (Boston ; Hilliard, Gray, Little and Wilkins, 1831)"
+  ],
+  "hwarejr-life-of-saviour": [
+   "lifeofsaviour00ware",
+   "The life of the saviour (Cambridge [Mass.] : James Munroe & Co. ; Boston : Hilliard, Gray, and Co. : Russell, Odiorne, and Co., 1834)"
+  ],
+  "hwarejr-noah-worcester": [
+   "memoirsofrevnoah00ware",
+   "Memoirs of the Rev. Noah Worcester, D. D (Boston : J. Munroe, 1844)"
+  ],
+  "hwarejr-works-2": [
+   "worksofhenryware02ware",
+   "The works of Henry Ware, Jr., D.D, vol. 2 (Boston : James Munroe, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hwarejr-other": "His father Henry Ware Sr. (1764-1845); his brother William Ware's novels; Abiel Abbot's Sermons and Priestley's Views of Christian Truth, which he edited; The Christian Disciple (a journal)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hwarejr-life-of-saviour": "title page: 'The Life of the Saviour, by Hemry [Henry] Ware Jr., Professor of Pulpit Eloquence and the Pastoral Care in Harvard University, second edition'"
+ },
+ "_pending": {
+  "hwarejr-jotham-anderson": "recollectionsof00ware: The Recollections of Jotham Anderson, Minister of the Gospel (Boston, 1824), a story published anonymously; nothing in this scan names Ware, so it waits for a title page or catalogue that does"
+ },
+ "_translators": {},
+ "_checks": {
+  "hwarejr-offices-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ware, jr.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwarejr-christian-character": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ware, jr.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hwarejr-extemporaneous-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ware, jr.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hwarejr-life-of-saviour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwarejr-noah-worcester": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ware, jr.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwarejr-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ware, jr.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

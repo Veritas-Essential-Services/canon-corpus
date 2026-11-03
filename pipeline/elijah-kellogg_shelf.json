@@ -1,0 +1,136 @@
+{
+ "_about": "Elijah Kellogg's writing at Gutenberg: boys' books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Elijah Kellogg",
+ "_name_words": [
+  "elijah",
+  "kellogg"
+ ],
+ "_surname": [
+  "elijah kellogg"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ekellogg-arthur-brown-the-young-captain": [
+   48904,
+   "Arthur Brown, The Young Captain"
+  ],
+  "ekellogg-young-deliverers-of-pleasant-cove": [
+   49745,
+   "The Young Deliverers of Pleasant Cove"
+  ],
+  "ekellogg-young-ship-builders-of-elm-island": [
+   50475,
+   "The Young Ship-Builders of Elm Island"
+  ],
+  "ekellogg-lion-ben-of-elm-island": [
+   50993,
+   "Lion Ben of Elm Island"
+  ],
+  "ekellogg-charlie-bell-the-waif-of-elm-island": [
+   51141,
+   "Charlie Bell, The Waif of Elm Island"
+  ],
+  "ekellogg-unseen-hand": [
+   53738,
+   "The Unseen Hand; or, James Renfew and His Boy Helpers"
+  ],
+  "ekellogg-hard-scrabble-of-elm-island": [
+   54767,
+   "The Hard-Scrabble of Elm Island"
+  ],
+  "ekellogg-turning-of-the-tide": [
+   54772,
+   "The Turning of the Tide; Or, Radcliffe Rich and His Patients"
+  ],
+  "ekellogg-forest-glen": [
+   63160,
+   "Forest Glen; or, The Mohawk's Friendship"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ekellogg-arthur-brown-the-young-captain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-young-deliverers-of-pleasant-cove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-young-ship-builders-of-elm-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-lion-ben-of-elm-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-charlie-bell-the-waif-of-elm-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-unseen-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-hard-scrabble-of-elm-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-turning-of-the-tide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekellogg-forest-glen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

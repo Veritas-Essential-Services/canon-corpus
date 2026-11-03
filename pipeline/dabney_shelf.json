@@ -1,0 +1,166 @@
+{
+ "_about": "Public-domain Robert Lewis Dabney (1820-1898, Southern Presbyterian theologian, Union Seminary in Virginia, later Texas) for the Word Hoard: his Systematic Theology (the Syllabus and Notes, 1878), Sacred Rhetoric, the Sensualistic Philosophy, Christ Our Penal Substitute, the Christian Sabbath, and the four volumes of Discussions (ed. C. R. Vaughan), raw Internet Archive OCR. CCEL holds none of it. Dabney was an open defender of slavery and of white supremacy after the war; his Defence of Virginia and his political tracts are listed under _excluded, not shelved, and the whole shelf awaits Adam's veto. Added 2026-10-02 by lane A, round 5 (my pick). No uids minted.",
+ "_name_words": [
+  "dabney",
+  "lewis"
+ ],
+ "_surname": [
+  "dabney"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dabney-systematic-theology-1878": [
+   "syllabusnotesofc00dabn",
+   "Syllabus and Notes of the Course of Systematic and Polemic Theology, 2nd ed. (St Louis, 1878)"
+  ],
+  "dabney-sacred-rhetoric-1870": [
+   "sacredrhetoricor00dabn",
+   "Sacred Rhetoric: or, A Course of Lectures on Preaching (Richmond, 1870)"
+  ],
+  "dabney-sensualistic-philosophy-1875": [
+   "sensualisticphil00dabnrich",
+   "The Sensualistic Philosophy of the Nineteenth Century, Considered (New York, 1875)"
+  ],
+  "dabney-christian-sabbath-1882": [
+   "christiansabbath00dabn",
+   "The Christian Sabbath: its Nature, Design and Proper Observance (Philadelphia, 1882)"
+  ],
+  "dabney-penal-substitute-1898": [
+   "christourpenalsu00dabn",
+   "Christ Our Penal Substitute (Richmond, 1898)"
+  ],
+  "dabney-discussions-1": [
+   "discussions01dabn",
+   "Discussions, vol. 1: Theological and Evangelical (Richmond, 1890)"
+  ],
+  "dabney-discussions-2": [
+   "discussions02dabn",
+   "Discussions, vol. 2: Evangelical (Richmond, 1891)"
+  ],
+  "dabney-discussions-3": [
+   "discussions03dabn",
+   "Discussions, vol. 3: Philosophical (Richmond, 1892)"
+  ],
+  "dabney-discussions-4": [
+   "discussions04dabn",
+   "Discussions, vol. 4: Secular (Mexico, Mo., 1897)"
+  ]
+ },
+ "_alternates": {
+  "syllabusnotesofc00dabn_0 (1878); syllabusnotesofs00dabn (1885); syllabusnotesof00dabn (1871, 1st ed.)": "Other scans and editions of the Systematic Theology.",
+  "sacredrhetoric00pabnuoft": "Toronto scan of Sacred Rhetoric.",
+  "christourpenalsu00dabn_0; christourpenalsu0000dabn": "Other scans of Christ Our Penal Substitute.",
+  "sensualisticphi00dabngoog; sensualisticphil00dabniala; sensualisticphi00unkngoog": "Other scans of the Sensualistic Philosophy."
+ },
+ "_excluded": {
+  "PG 47422; defenceofvirgini00dabn; adefencevirgini00/01dabngoog (A Defence of Virginia, 1867)": "His defence of slavery. Left off a devotional shelf; Adam's call whether it belongs anywhere in the collection as historical record.",
+  "newsouth00dabn (1883); presbyterianism-with-the-modern-improvements-dabney-1873": "Political and church-political tracts.",
+  "Life of Stonewall Jackson (1864-66, several scans); truecouragedisco*; memorialoflieutc01dabn; christiansoldier00dabn; dabneys-last-lecture-on-stonewall-jackson-davidson-magazine-1899": "Military biography and war memorials.",
+  "the-five-points-of-calvinism-dabney-myers; what-is-a-call-to-gospel-ministry-dabney-myers": "Uploads without library provenance; the Five Points is reprinted in Discussions.",
+  "memorialofchrist00dabn; criticalcommenta00samp": "A memoir of Francis Sampson, and Sampson's own Hebrews commentary which Dabney only edited.",
+  "worldwhitetoharv00dabn; fictionnodefence00dabn; MN5122ucmf_6": "Single sermons and reviews."
+ },
+ "_checks": {
+  "dabney-systematic-theology-1878": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dabney-sacred-rhetoric-1870": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dabney-sensualistic-philosophy-1875": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "c1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dabney-christian-sabbath-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dabney-penal-substitute-1898": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dabney-discussions-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dabney-discussions-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dabney-discussions-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dabney-discussions-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

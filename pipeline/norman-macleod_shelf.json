@@ -1,0 +1,123 @@
+{
+ "_about": "Public-domain Norman Macleod (1812-1872, Church of Scotland, minister of the Barony, Glasgow, editor of Good Words, Queen Victoria's chaplain) for the Word Hoard: three Gutenberg books (Parish Papers, The Gold Thread, The Starling) and four Internet Archive volumes (The Temptation of Our Lord; Simple Truths Spoken to Working People; Reminiscences of a Highland Parish; The Earnest Student). Added 2026-10-09 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "macleod",
+  "norman"
+ ],
+ "_surname": [
+  "norman macleod",
+  "norman m'leod",
+  "macleod, norman",
+  "n. macleod",
+  "norman macleod, d.d"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "nmacleod-parish-papers": [
+   "12605",
+   "Parish Papers"
+  ],
+  "nmacleod-gold-thread": [
+   "26039",
+   "The Gold Thread"
+  ],
+  "nmacleod-starling": [
+   "41989",
+   "The Starling"
+  ]
+ },
+ "internet_archive": {
+  "nmacleod-temptation-1873": [
+   "temptationofourl00macl",
+   "The Temptation of Our Lord (London: Strahan, 1873)"
+  ],
+  "nmacleod-simple-truths-1867": [
+   "simpletruthspok00maclgoog",
+   "Simple Truths Spoken to Working People (1867)"
+  ],
+  "nmacleod-highland-parish-1871": [
+   "reminiscencesofh00macluoft",
+   "Reminiscences of a Highland Parish (1871)"
+  ],
+  "nmacleod-earnest-student-1863": [
+   "theearneststuden00macluoft",
+   "The Earnest Student: Memorials of John Mackintosh (1863)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "nmacleod-parish-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman macleod",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmacleod-gold-thread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman macleod",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmacleod-starling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman macleod",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nmacleod-temptation-1873": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman macleod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nmacleod-simple-truths-1867": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman macleod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nmacleod-highland-parish-1871": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman macleod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nmacleod-earnest-student-1863": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman macleod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

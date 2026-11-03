@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Ezekiel Gilman Robinson (1815-1896), Baptist theologian and president of Rochester Theological Seminary and Brown University, for the Word Hoard: Lectures on Preaching (1883), Principles and Practice of Morality (1888), Christian Theology (1894), Christian Evidences (1895), Christian Character (1896) and his Autobiography (1896), from Internet Archive scans. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robinson"
+ ],
+ "_surname": [
+  "ezekiel gilman robinson",
+  "ezekiel g. robinson",
+  "e. g. robinson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "egrobinson-preaching": [
+   "lecturesonpreac00robi",
+   "Lectures on preaching, delivered to the students of theology at Yale college, January and February, 1882 (New York, H. Holt and company, 1883)"
+  ],
+  "egrobinson-morality": [
+   "principlesofmor00robiuoft",
+   "Principles and practice of morality : or, Ethical principles discussed and applied (Boston : Silver, c188)"
+  ],
+  "egrobinson-theology": [
+   "christiantheolog00robi",
+   "Christian theology (Rochester, N.Y. : Press of E.R. Andrews, 1894)"
+  ],
+  "egrobinson-evidences": [
+   "christianevidenc00robi",
+   "Christian evidences (catalogued 1895)"
+  ],
+  "egrobinson-character": [
+   "christiancharact00robi",
+   "Christian character : baccalaureate sermons delivered by Ezekiel Gilman Robinson (New York ; Boston ; Chicago : Silver, Burdett and co., 1896)"
+  ],
+  "egrobinson-autobiography": [
+   "ezekielgilmanrob00robi",
+   "Ezekiel Gilman Robinson; an autobiography with a supplement (New York, Boston [etc.] Silver, Burdett and company, 1896)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "egrobinson-other": "His translation of Neander's Planting and Training (held on the august-neander shelf)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "egrobinson-evidences": "Title page OCR reads 'CHRISTIAN EVIDENCES. BY EZEKIEL OILMAN ROBINSON, D.D., LL.D. LATE PRESIDENT OF BROWN UNIVERSITY' (Gilman garbled); Silver, Burdett 1895."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "egrobinson-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egrobinson-morality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "c1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egrobinson-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ezekiel gilman robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "egrobinson-evidences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "egrobinson-character": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ezekiel gilman robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "egrobinson-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ezekiel gilman robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

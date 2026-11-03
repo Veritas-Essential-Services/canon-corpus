@@ -1,0 +1,42 @@
+{
+ "_about": "Mrs. Burton Harrison's The Old-Fashioned Fairy Book (undated in the text), fairy tales, closing with a group of romances of the Middle Ages, illustrated by Miss Rosina Emmet, as the title page names her (Rosina Emmet Sherwood in the Gutenberg catalogue). Gutenberg catalogue: Harrison 1843-1920, Sherwood 1854-1948. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Mrs. Burton Harrison",
+ "_name_words": [
+  "old-fashioned"
+ ],
+ "_surname": [
+  "mrs. burton harrison",
+  "burton harrison"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bharrison-old-fashioned-fairy-book": [
+   37348,
+   "The Old-Fashioned Fairy Book",
+   {
+    "levels": [
+     {
+      "re": "[A-Z][^a-z]*$",
+      "max": 120,
+      "strip": "\\.$"
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bharrison-old-fashioned-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. burton harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

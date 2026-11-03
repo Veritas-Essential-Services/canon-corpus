@@ -1,0 +1,173 @@
+{
+ "_about": "Public-domain George Salmon (1819-1904, Provost of Trinity College, Dublin) for the Word Hoard: 9 books from Internet Archive scans, 1861-1907: Sermons Preached in Trinity College (1861), The Reign of Law (1873), Non-Miraculous Christianity (1881), A Historical Introduction to the Study of the Books of the New Testament (first edition, 1885), Gnosticism and Agnosticism (1887), The Infallibility of the Church (first edition, 1888), Some Thoughts on the Textual Criticism of the New Testament (1897), Cathedral and University Sermons (1900) and the posthumous Episcopacy and Other Sermons (1907). Raw OCR. His mathematics is left out. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "salmon"
+ ],
+ "_surname": [
+  "george salmon",
+  "salmon, george",
+  "george salmon, d.d.",
+  "rev. george salmon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "salmon-tcd-sermons": [
+   "sermonspreachedi0000salm",
+   "Sermons Preached in Trinity College, Dublin (Cambridge and London: Macmillan, 1861)"
+  ],
+  "salmon-reign-of-law": [
+   "reignoflawothers00salm",
+   "The Reign of Law, and Other Sermons (London: Macmillan, 1873)"
+  ],
+  "salmon-non-miraculous": [
+   "nonmiraculousch00salmgoog",
+   "Non-Miraculous Christianity, and Other Sermons, first edition (Macmillan, 1881)"
+  ],
+  "salmon-nt-introduction": [
+   "historicalintrod00salm",
+   "A Historical Introduction to the Study of the Books of the New Testament, first edition (London: John Murray, 1885)"
+  ],
+  "salmon-gnosticism-agnosticism": [
+   "gnosticismagnost00salm",
+   "Gnosticism and Agnosticism, and Other Sermons (London and New York: Macmillan, 1887)"
+  ],
+  "salmon-infallibility": [
+   "infallibilityofc00salm",
+   "The Infallibility of the Church, first edition (London: John Murray, 1888)"
+  ],
+  "salmon-textual-criticism": [
+   "somethoughtsonte00salm",
+   "Some Thoughts on the Textual Criticism of the New Testament (London: John Murray, 1897)"
+  ],
+  "salmon-cathedral-sermons": [
+   "cathedralunivers00salm",
+   "Cathedral and University Sermons (London: John Murray, 1900)"
+  ],
+  "salmon-episcopacy": [
+   "episcopacyandoth00salmuoft",
+   "Episcopacy and Other Sermons, posthumous, with a biographical note by another hand (London: SPCK, 1907)"
+  ]
+ },
+ "_alternates": {
+  "salmon-human-element": "The Human Element in the Gospels (1907; humanelementingo00salm): edited by Newport J. D. White from his notes",
+  "salmon-editions": "Later editions of the Introduction (1886-1904), Infallibility (1890-1923), Non-Miraculous Christianity (1887) and Cathedral Sermons (1901)",
+  "salmon-mathematics": "Conic Sections, Higher Plane Curves, Modern Higher Algebra, Analytic Geometry of Three Dimensions: mathematics, not divinity"
+ },
+ "_excluded": {
+  "salmon-namesakes": "George Salmon (1801-1865, Canadian sermons) and David Salmon",
+  "salmon-reprints": "1948-1959 reprints",
+  "salmon-translations": "German and French translations of the mathematics"
+ },
+ "_identity_checked": {
+  "salmon-nt-introduction": {
+   "author": "title page read: 'By George Salmon, D.D., Regius Professor of Divinity' (OCR inserts a stray mark), London: John Murray"
+  },
+  "salmon-cathedral-sermons": {
+   "author": "title page read: 'By George Salmon, D.D., F.R.S., Provost of Trinity College' (OCR \"'sALMON\"), London: John Murray, 1900"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "salmon-tcd-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george salmon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "salmon-reign-of-law": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george salmon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salmon-non-miraculous": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george salmon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salmon-nt-introduction": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salmon-gnosticism-agnosticism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george salmon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salmon-infallibility": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george salmon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "salmon-textual-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george salmon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salmon-cathedral-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salmon-episcopacy": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george salmon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

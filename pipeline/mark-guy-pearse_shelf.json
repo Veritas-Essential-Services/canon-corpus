@@ -1,0 +1,208 @@
+{
+ "_about": "Public-domain Mark Guy Pearse (1842-1930), Cornish Wesleyan Methodist preacher of the West London Mission, for the Word Hoard: Praise: Meditations in the 103rd Psalm (1862 cat.), Mister Horn and his Friends (1872), Daniel Quorm and his Religious Notions (1875), Sermons for Children (1876), John Tregenoweth (1877), Homely Talks (1880), Thoughts on Holiness (1884), Some Aspects of the Blessed Life (1887), Short Talks for the Times (1889), Parables and Pictures (1897), The Gentleness of Jesus (1898) and The God of our Pleasures (1898), from Internet Archive scans. Published before 1930, so public domain in the US. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "pearse"
+ ],
+ "_surname": [
+  "mark guy pearse",
+  "m. g. pearse",
+  "mark g. pearse"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mgpearse-praise": [
+   "praisemeditation00pear",
+   "Praise : meditations in the one hundred and third Psalm (Cincinnati : Jennings & Pye, 1862)"
+  ],
+  "mgpearse-mister-horn": [
+   "misterhornhisfri00peariala",
+   "Mister Horn and his friends, or, Givers and giving (New York : Nelson & Phillips ; Cincinnati : Hitchcock & Walden, 1877)"
+  ],
+  "mgpearse-daniel-quorm": [
+   "danielquormhisre00pear",
+   "Daniel Quorm; and his religious notions (London : Wesleyan Conference Office, 1875)"
+  ],
+  "mgpearse-sermons-children": [
+   "sermonsforchild01peargoog",
+   "Sermons for children (Wesleyan-Methodist Sunday School Union, 1876)"
+  ],
+  "mgpearse-tregenoweth": [
+   "johntregenowethh00pear",
+   "John Tregenoweth, his mark (New York : Nelson & Phillips ; Cincinnati : Hitchcock & Walden, 1877)"
+  ],
+  "mgpearse-homely-talks": [
+   "homelytalks00peargoog",
+   "Homely talks (Wesleyan Conference Office, 1880)"
+  ],
+  "mgpearse-holiness": [
+   "Thoughts_on_Holiness_by_Mark_Guy_Pearse",
+   "Thoughts on Holiness (catalogued 1884)"
+  ],
+  "mgpearse-blessed-life": [
+   "someaspectsofbl00pear",
+   "Some aspects of the blessed life (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887)"
+  ],
+  "mgpearse-short-talks": [
+   "shorttalksfortim0000mark",
+   "Short talks for the times (Charles H. Kelly, 1889)"
+  ],
+  "mgpearse-parables": [
+   "parablespictures0000mark",
+   "Parables an pictures (london: charles h. kelly, 1897)"
+  ],
+  "mgpearse-gentleness": [
+   "gentlenessofjesu0000mark",
+   "The gentleness of jesus (Horace Marshall & Son, 1898)"
+  ],
+  "mgpearse-pleasures": [
+   "godofourpleasure0000mark",
+   "The god of our pleasures (catalogued 1898)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mgpearse-other": "Egerton Young's By Canoe and Dog-Train (he only introduced it); the Thompson memoir (another author); a Gaelic tract"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mgpearse-sermons-children": "Title page (after the Google notice) reads 'SERMONS FOR CHILDREN BY MARK GUY PEARSE, AUTHOR OF \"DANIEL QUORM, AND HIS RELIGIOUS NOTIONS\"' (OCR 'MAEK'), London: Wesleyan-Methodist Sunday School Union."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mgpearse-praise": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mgpearse-mister-horn": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mgpearse-daniel-quorm": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mgpearse-sermons-children": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mgpearse-tregenoweth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mgpearse-homely-talks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mgpearse-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mgpearse-blessed-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mgpearse-short-talks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mgpearse-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mgpearse-gentleness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mgpearse-pleasures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

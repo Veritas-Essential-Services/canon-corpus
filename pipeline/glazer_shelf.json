@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Benjamin F. Glazer (1887-1956): Ferenc Molnár's Liliom (1921) and Fashions for Men and The Swan (1922). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "benjamin f. glazer",
+  "benjamin glazer",
+  "glazer"
+ ],
+ "_surname": [
+  "benjamin f. glazer",
+  "benjamin glazer",
+  "glazer"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "gla-48749": [
+   48749,
+   "Liliom"
+  ],
+  "gla-75610": [
+   75610,
+   "Fashions for men, and The swan"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "glazer-molnar-fashions-for-men-and-the-swan": {
+   "source": "gla-75610",
+   "of": "Ferenc Molnár",
+   "work": "Fashions for men, and The swan",
+   "translated": "1921-1922 (see the Gutenberg header)",
+   "translator": "Benjamin F. Glazer",
+   "scan_edition": "Project Gutenberg 75610 (clean text)"
+  },
+  "glazer-molnar-liliom": {
+   "source": "gla-48749",
+   "of": "Ferenc Molnár",
+   "work": "Liliom",
+   "translated": "1921-1922 (see the Gutenberg header)",
+   "translator": "Benjamin F. Glazer",
+   "scan_edition": "Project Gutenberg 48749 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "gla-48749": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin f. glazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Benjamin F. Glazer"
+  },
+  "gla-75610": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin f. glazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Benjamin F. Glazer"
+  }
+ },
+ "_verified": {
+  "gla-48749": {
+   "pg": 48749,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Benjamin F. Glazer"
+  },
+  "gla-75610": {
+   "pg": 75610,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Benjamin F. Glazer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

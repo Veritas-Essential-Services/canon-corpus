@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain Alexander Smellie (1857-1923), minister of the Original Secession Church at Carluke, for the Word Hoard: Men of the Covenant, In the Hour of Silence, Torch-Bearers of the Faith, In the Secret Place, his lives of Robert Murray McCheyne and Evan Henry Hopkins, His Glory, Sunset Glory (Carluke sermons), and The Reformation in its Literature. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 113 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander smellie",
+  "a. smellie",
+  "smellie"
+ ],
+ "_surname": [
+  "alexander smellie",
+  "a. smellie",
+  "smellie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smellie-covenant": [
+   "menofcovenantsto0000smel",
+   "Men of the Covenant : the story of the Scottish church in the years of the persecution. -- (New York : F. H. Revell, 1877)"
+  ],
+  "smellie-hour-silence": [
+   "OnTheHourOfSilence",
+   "In the hour of silence : a book of daily meditations for a year (London : A. Melrose, 1899)"
+  ],
+  "smellie-torch-bearers": [
+   "torchbearersoffa0000smel",
+   "Torch-bearers of the faith : a book of Christian heroes (London : A. Melrose, 1900)"
+  ],
+  "smellie-secret-place": [
+   "insecretplaceboo0000alex",
+   "In the secret place a book of daily devotional meditations (Andrew Melrose, 1910)"
+  ],
+  "smellie-mccheyne": [
+   "robertmurraymcch0000smel",
+   "Robert Murray McCheyne (London, 1913)"
+  ],
+  "smellie-hopkins": [
+   "evanhenryhopkins0000smel",
+   "Evan Henry Hopkins : a memoir (London : Marshall Bros., 1920)"
+  ],
+  "smellie-his-glory": [
+   "hisglory0000smel",
+   "His Glory (catalogued 1923)"
+  ],
+  "smellie-sunset-glory": [
+   "sunsetglorysermo00smel",
+   "Sunset glory : Sermons preached in Carluke Original Secession Church (London ; New York : Andrew Melrose Ltd., 1924)"
+  ],
+  "smellie-reformation": [
+   "reformationinits00smel",
+   "The Reformation in its literature (London and New York : A. Melrose, 1925)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "smellie-18c": "The natural-history, anatomy and Lives of Gregory, Kames and Hume are by the eighteenth-century William and Alexander Smellie",
+  "smellie-1960": "menofcovenant0000alex (a 1960 reprint)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "smellie-covenant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-hour-silence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-torch-bearers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-secret-place": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-mccheyne": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-hopkins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-his-glory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-sunset-glory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smellie-reformation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "smellie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

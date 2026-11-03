@@ -1,0 +1,1288 @@
+{
+ "ia_id": "littleclassics15johngoog",
+ "shelf": "little-classics",
+ "witness": "little-classics-v13-narrative-poems",
+ "collated_with": [
+  "littleclassics02johngoog"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": [
+  [
+   0,
+   "+",
+   ""
+  ],
+  [
+   0,
+   "+",
+   ""
+  ],
+  [
+   0,
+   "+",
+   ""
+  ],
+  [
+   0,
+   "+",
+   ""
+  ],
+  [
+   0,
+   "|http",
+   "http"
+  ],
+  [
+   7,
+   "_Classics.",
+   "CLASSICS."
+  ],
+  [
+   7,
+   "*^A",
+   "“A"
+  ],
+  [
+   7,
+   "<md",
+   "and"
+  ],
+  [
+   7,
+   "j8",
+   "18"
+  ],
+  [
+   7,
+   "$i.oo",
+   "$1.00"
+  ],
+  [
+   7,
+   "i6mo,",
+   "16mo,"
+  ],
+  [
+   7,
+   "%*",
+   "⁂"
+  ],
+  [
+   7,
+   "s<i",
+   "s,"
+  ],
+  [
+   8,
+   "Sri)trtmttl)",
+   "Thirteenth"
+  ],
+  [
+   10,
+   "/^\"^145",
+   "145"
+  ],
+  [
+   12,
+   "o'^",
+   "o’er"
+  ],
+  [
+   14,
+   "\"FsXy",
+   "Far,"
+  ],
+  [
+   18,
+   "T»he",
+   "The"
+  ],
+  [
+   22,
+   ".^",
+   ""
+  ],
+  [
+   31,
+   "down»",
+   "down,"
+  ],
+  [
+   36,
+   "lY.",
+   "IV."
+  ],
+  [
+   38,
+   "siESP",
+   "SLEEP"
+  ],
+  [
+   40,
+   "»",
+   ""
+  ],
+  [
+   41,
+   "tillNnoon,",
+   "till noon,"
+  ],
+  [
+   42,
+   "als6,",
+   "also."
+  ],
+  [
+   47,
+   "4i%",
+   "42"
+  ],
+  [
+   48,
+   "young/",
+   "young.’"
+  ],
+  [
+   48,
+   "a-feared/",
+   "a-feared.’"
+  ],
+  [
+   50,
+   "quick/",
+   "quick,’"
+  ],
+  [
+   52,
+   "|Y liair",
+   "MY hair"
+  ],
+  [
+   54,
+   "^\"I-",
+   "XIII."
+  ],
+  [
+   58,
+   "aU",
+   "all"
+  ],
+  [
+   62,
+   "—^",
+   "—"
+  ],
+  [
+   65,
+   "sigL",
+   "sigh."
+  ],
+  [
+   66,
+   "P^^ffl",
+   ""
+  ],
+  [
+   66,
+   "I^K",
+   ""
+  ],
+  [
+   78,
+   "*•",
+   ""
+  ],
+  [
+   86,
+   "-^",
+   ""
+  ],
+  [
+   94,
+   "«",
+   "“"
+  ],
+  [
+   94,
+   "Abel/",
+   "Abel.’"
+  ],
+  [
+   101,
+   "A.ItL",
+   "EARL"
+  ],
+  [
+   101,
+   "aU",
+   "all"
+  ],
+  [
+   104,
+   "H SENSITIVE",
+   "A SENSITIVE"
+  ],
+  [
+   104,
+   "j^KI",
+   ""
+  ],
+  [
+   104,
+   "1^",
+   ""
+  ],
+  [
+   107,
+   "10^",
+   "102"
+  ],
+  [
+   110,
+   "4ips",
+   "lips"
+  ],
+  [
+   111,
+   ">",
+   ""
+  ],
+  [
+   113,
+   "water-snake3»",
+   "water-snakes."
+  ],
+  [
+   117,
+   "|T.",
+   "ST."
+  ],
+  [
+   120,
+   "souL",
+   "soul."
+  ],
+  [
+   124,
+   "tongueJess",
+   "tongueless"
+  ],
+  [
+   128,
+   "bUsses",
+   "blisses"
+  ],
+  [
+   129,
+   "unprunM",
+   "unprunéd"
+  ],
+  [
+   131,
+   "Sing-su-4iay;",
+   "Sing-su-hay,"
+  ],
+  [
+   132,
+   "in/'",
+   "in.”"
+  ],
+  [
+   134,
+   "*0f",
+   "‘Of"
+  ],
+  [
+   136,
+   "PE&I.",
+   "PERI."
+  ],
+  [
+   137,
+   ">",
+   ";"
+  ],
+  [
+   140,
+   "aU,",
+   "all,"
+  ],
+  [
+   143,
+   "pig;eons,",
+   "pigeons,"
+  ],
+  [
+   147,
+   "alL*'",
+   "all.”"
+  ],
+  [
+   148,
+   "oiShadukiam,",
+   "of Shadukiam,"
+  ],
+  [
+   151,
+   "»",
+   ""
+  ],
+  [
+   152,
+   "«",
+   ""
+  ],
+  [
+   155,
+   "!/*>",
+   "!”"
+  ],
+  [
+   157,
+   "PEAK !",
+   "SPEAK !"
+  ],
+  [
+   157,
+   "li^^H",
+   ""
+  ],
+  [
+   157,
+   "f/Miim] gtill",
+   "Still"
+  ],
+  [
+   157,
+   "WADSWOBTH",
+   "WADSWORTH"
+  ],
+  [
+   160,
+   "armM",
+   "arméd"
+  ],
+  [
+   162,
+   "Skoal/",
+   "Skoal!"
+  ],
+  [
+   162,
+   "skoal/\"",
+   "skoal!”"
+  ],
+  [
+   166,
+   "hung>",
+   "hung,"
+  ],
+  [
+   166,
+   "aU",
+   "all"
+  ],
+  [
+   168,
+   "portaL",
+   "portal."
+  ],
+  [
+   168,
+   "n^^^]^",
+   ""
+  ],
+  [
+   175,
+   "0*er",
+   "O’er"
+  ],
+  [
+   176,
+   "waD,",
+   "wall,"
+  ],
+  [
+   178,
+   "|S^N",
+   "IN"
+  ],
+  [
+   178,
+   "11^",
+   ""
+  ],
+  [
+   178,
+   "W^M",
+   ""
+  ],
+  [
+   182,
+   "aU",
+   "all"
+  ],
+  [
+   184,
+   "heedfuUy",
+   "heedfully"
+  ],
+  [
+   186,
+   "sUm",
+   "slim"
+  ],
+  [
+   188,
+   "straight,^",
+   "straight,"
+  ],
+  [
+   191,
+   "melder,f",
+   "melder,†"
+  ],
+  [
+   191,
+   "$",
+   "§"
+  ],
+  [
+   193,
+   "bla«t",
+   "blast"
+  ],
+  [
+   193,
+   "herseL",
+   "hersel."
+  ],
+  [
+   194,
+   "$",
+   "§"
+  ],
+  [
+   196,
+   "%",
+   "¶"
+  ],
+  [
+   196,
+   "$",
+   "§"
+  ],
+  [
+   198,
+   "yoL.",
+   "VOL."
+  ],
+  [
+   200,
+   "ANCHOR/",
+   "ANCHOR."
+  ],
+  [
+   212,
+   "»For",
+   "For"
+  ],
+  [
+   214,
+   "ARS PORSENA",
+   "LARS PORSENA"
+  ],
+  [
+   214,
+   "HB^™",
+   ""
+  ],
+  [
+   216,
+   "milk-wMte",
+   "milk-white"
+  ],
+  [
+   221,
+   "MamiHus,",
+   "Mamilius,"
+  ],
+  [
+   224,
+   "H0RATIT7S.",
+   "HORATIUS."
+  ],
+  [
+   232,
+   "«",
+   "“"
+  ],
+  [
+   204,
+   "\"^S",
+   ""
+  ],
+  [
+   204,
+   "jO all",
+   "SO all"
+  ],
+  [
+   9,
+   "//^//a.s",
+   ""
+  ],
+  [
+   126,
+   "^,g,^.^^^",
+   ""
+  ],
+  [
+   204,
+   ">3L9^ki^'.7^'^9<:^P^^Hfli^^Lk^VV.-/^£^9",
+   ""
+  ],
+  [
+   214,
+   "J^^'K\\^^^^\\'^^A",
+   ""
+  ],
+  [
+   214,
+   "^%lC^:%^^",
+   ""
+  ],
+  [
+   214,
+   "'MmmM^^\\",
+   ""
+  ],
+  [
+   15,
+   "bom",
+   "born"
+  ],
+  [
+   73,
+   "bom.",
+   "born."
+  ],
+  [
+   83,
+   "bom",
+   "born"
+  ],
+  [
+   19,
+   "anght.",
+   "aught."
+  ],
+  [
+   34,
+   "ns",
+   "us"
+  ],
+  [
+   161,
+   "ns",
+   "us"
+  ],
+  [
+   36,
+   "bj.",
+   "by."
+  ],
+  [
+   37,
+   "mam.",
+   "main."
+  ],
+  [
+   70,
+   "tlie",
+   "the"
+  ],
+  [
+   77,
+   "Por",
+   "For"
+  ],
+  [
+   79,
+   "beliold",
+   "behold"
+  ],
+  [
+   82,
+   "ths",
+   "the"
+  ],
+  [
+   143,
+   "mnst",
+   "must"
+  ],
+  [
+   154,
+   "unliappy",
+   "unhappy"
+  ],
+  [
+   154,
+   "liis*",
+   "his*"
+  ],
+  [
+   188,
+   "liis",
+   "his"
+  ],
+  [
+   179,
+   "Tliere",
+   "There"
+  ],
+  [
+   195,
+   "baims",
+   "bairns"
+  ],
+  [
+   80,
+   "Duueira's",
+   "Duneira's"
+  ],
+  [
+   27,
+   "COLEBIDOE.",
+   "COLERIDGE."
+  ],
+  [
+   34,
+   "MAEINEB.",
+   "MARINER."
+  ],
+  [
+   43,
+   "PIKST",
+   "FIRST"
+  ],
+  [
+   66,
+   "BINOEN",
+   "BINGEN"
+  ],
+  [
+   68,
+   "IIHINE.",
+   "RHINE."
+  ],
+  [
+   92,
+   "DSEAH",
+   "DREAM"
+  ],
+  [
+   92,
+   "ABAIL",
+   "ARAM"
+  ],
+  [
+   94,
+   "ABAM.",
+   "ARAM."
+  ],
+  [
+   96,
+   "AEAM.",
+   "ARAM."
+  ],
+  [
+   101,
+   "LADT",
+   "LADY"
+  ],
+  [
+   101,
+   "BABBABA.",
+   "BARBARA."
+  ],
+  [
+   131,
+   "FEEI.",
+   "PERI."
+  ],
+  [
+   142,
+   "PBEI.",
+   "PERI."
+  ],
+  [
+   158,
+   "AEMOE,",
+   "ARMOR,"
+  ],
+  [
+   162,
+   "AEMOE.",
+   "ARMOR."
+  ],
+  [
+   157,
+   "ABHOR.",
+   "ARMOR."
+  ],
+  [
+   168,
+   "VEKY",
+   "VERY"
+  ],
+  [
+   190,
+   "O'SHANTEB.",
+   "O'SHANTER."
+  ],
+  [
+   192,
+   "O'SHAIJTER.",
+   "O'SHANTER."
+  ],
+  [
+   194,
+   "O'SHANTEE.",
+   "O'SHANTER."
+  ],
+  [
+   196,
+   "O'SHANTEE.",
+   "O'SHANTER."
+  ],
+  [
+   198,
+   "O'SHAKTER.",
+   "O'SHANTER."
+  ],
+  [
+   199,
+   "ANCHOB.",
+   "ANCHOR."
+  ],
+  [
+   202,
+   "ANCHOE.",
+   "ANCHOR."
+  ],
+  [
+   202,
+   "FORQING",
+   "FORGING"
+  ],
+  [
+   204,
+   "D'ARTHUE.",
+   "D'ARTHUR."
+  ],
+  [
+   208,
+   "D'ARTHUE.",
+   "D'ARTHUR."
+  ],
+  [
+   210,
+   "D'ARTHUE.",
+   "D'ARTHUR."
+  ],
+  [
+   206,
+   "D'AETHUR.",
+   "D'ARTHUR."
+  ],
+  [
+   206,
+   "MOETE",
+   "MORTE"
+  ],
+  [
+   208,
+   "MORTB",
+   "MORTE"
+  ],
+  [
+   204,
+   "TEKNTSOK.",
+   "TENNYSON."
+  ],
+  [
+   218,
+   "HORATITJS.",
+   "HORATIUS."
+  ],
+  [
+   220,
+   "HOBATIUS.",
+   "HORATIUS."
+  ],
+  [
+   222,
+   "HOEATIUS,",
+   "HORATIUS,"
+  ],
+  [
+   234,
+   "HOEATIUS.",
+   "HORATIUS."
+  ],
+  [
+   12,
+   "DESEBTED",
+   "DESERTED"
+  ],
+  [
+   18,
+   "DESEETED",
+   "DESERTED"
+  ],
+  [
+   9,
+   "PRINTBD",
+   "PRINTED"
+  ],
+  [
+   9,
+   "THB",
+   "THE"
+  ],
+  [
+   9,
+   "RIVBRSIDB",
+   "RIVERSIDE"
+  ],
+  [
+   9,
+   "COFTEIGHT,",
+   "COPYRIGHT,"
+  ],
+  [
+   8,
+   "O'OONNOR'S",
+   "O'CONNOR'S"
+  ],
+  [
+   8,
+   "OHILD.",
+   "CHILD."
+  ],
+  [
+   22,
+   "there F",
+   "there ?"
+  ],
+  [
+   23,
+   "pain P",
+   "pain ?"
+  ],
+  [
+   27,
+   "me P",
+   "me ?"
+  ],
+  [
+   30,
+   "so P",
+   "so ?"
+  ],
+  [
+   34,
+   "crew P",
+   "crew ?"
+  ],
+  [
+   34,
+   "two P",
+   "two ?"
+  ],
+  [
+   34,
+   "mate P",
+   "mate ?"
+  ],
+  [
+   42,
+   "man P",
+   "man ?"
+  ],
+  [
+   43,
+   "fast P",
+   "fast ?"
+  ],
+  [
+   43,
+   "doing P",
+   "doing ?"
+  ],
+  [
+   45,
+   "see P",
+   "see ?"
+  ],
+  [
+   45,
+   "kirk P",
+   "kirk ?"
+  ],
+  [
+   45,
+   "couutree P",
+   "couutree ?"
+  ],
+  [
+   50,
+   "thou P",
+   "thou ?"
+  ],
+  [
+   57,
+   "truth P",
+   "truth ?"
+  ],
+  [
+   65,
+   "they P",
+   "they ?"
+  ],
+  [
+   71,
+   "coast F",
+   "coast ?"
+  ],
+  [
+   71,
+   "mildness P",
+   "mildness ?"
+  ],
+  [
+   75,
+   "stay P",
+   "stay ?"
+  ],
+  [
+   81,
+   "been P",
+   "been ?"
+  ],
+  [
+   81,
+   "sheen P",
+   "sheen ?"
+  ],
+  [
+   81,
+   "green P",
+   "green ?"
+  ],
+  [
+   81,
+   "seen P",
+   "seen ?"
+  ],
+  [
+   93,
+   "fable P",
+   "fable ?"
+  ],
+  [
+   95,
+   "why P",
+   "why ?"
+  ],
+  [
+   129,
+   "blest P",
+   "blest ?"
+  ],
+  [
+   133,
+   "Heaven P",
+   "Heaven ?"
+  ],
+  [
+   133,
+   "throne P",
+   "throne ?"
+  ],
+  [
+   133,
+   "Eternity P",
+   "Eternity ?"
+  ],
+  [
+   139,
+   "cheek P",
+   "cheek ?"
+  ],
+  [
+   140,
+   "side P",
+   "side ?"
+  ],
+  [
+   141,
+   "gone P",
+   "gone ?"
+  ],
+  [
+   147,
+   "grace P",
+   "grace ?"
+  ],
+  [
+   155,
+   "Gilead P",
+   "Gilead ?"
+  ],
+  [
+   160,
+   "unguarded P",
+   "unguarded ?"
+  ],
+  [
+   176,
+   "distance P",
+   "distance ?"
+  ],
+  [
+   176,
+   "quitted P",
+   "quitted ?"
+  ],
+  [
+   182,
+   "dead P",
+   "dead ?"
+  ],
+  [
+   202,
+   "thine P",
+   "thine ?"
+  ],
+  [
+   206,
+   "gave P",
+   "gave ?"
+  ],
+  [
+   206,
+   "heard P",
+   "heard ?"
+  ],
+  [
+   207,
+   "heard P",
+   "heard ?"
+  ],
+  [
+   211,
+   "go P",
+   "go ?"
+  ],
+  [
+   211,
+   "eyes P",
+   "eyes ?"
+  ],
+  [
+   212,
+   "me P",
+   "me ?"
+  ],
+  [
+   212,
+   "friend P",
+   "friend ?"
+  ],
+  [
+   222,
+   "shame P",
+   "shame ?"
+  ],
+  [
+   227,
+   "way P",
+   "way ?"
+  ],
+  [
+   229,
+   "away P",
+   "away ?"
+  ],
+  [
+   27,
+   "KABIREB*",
+   "MARINER."
+  ],
+  [
+   27,
+   "I T is",
+   "IT is"
+  ],
+  [
+   80,
+   "HOOa.",
+   "HOGG."
+  ],
+  [
+   80,
+   "ONNY Kilmeny",
+   "BONNY Kilmeny"
+  ],
+  [
+   150,
+   "HNCE upon",
+   "ONCE upon"
+  ],
+  [
+   150,
+   "TOL.",
+   "VOL."
+  ],
+  [
+   12,
+   "WEET AUBURN!",
+   "SWEET AUBURN!"
+  ],
+  [
+   204,
+   "BT ALFRED",
+   "BY ALFRED"
+  ],
+  [
+   204,
+   "H Among",
+   "Among"
+  ],
+  [
+   204,
+   "M Until",
+   "Until"
+  ],
+  [
+   204,
+   "M",
+   ""
+  ],
+  [
+   204,
+   "M",
+   ""
+  ],
+  [
+   204,
+   "H",
+   ""
+  ],
+  [
+   214,
+   ".",
+   ""
+  ],
+  [
+   214,
+   "1 rk.",
+   ""
+  ],
+  [
+   214,
+   "' i",
+   ""
+  ],
+  [
+   214,
+   ". - . . '-J",
+   ""
+  ],
+  [
+   214,
+   "m That",
+   "That"
+  ],
+  [
+   110,
+   "m by VJOOQIC",
+   ""
+  ],
+  [
+   8,
+   "DREAM OP",
+   "DREAM OF"
+  ],
+  [
+   57,
+   "pent )iis",
+   "pent his"
+  ],
+  [
+   60,
+   "tli ought,",
+   "thought,"
+  ],
+  [
+   69,
+   "pn the",
+   "On the"
+  ],
+  [
+   17,
+   "la LITTLE",
+   "12 LITTLE"
+  ],
+  [
+   35,
+   "80 LITTLE",
+   "30 LITTLE"
+  ],
+  [
+   37,
+   "82 LITTLE",
+   "32 LITTLE"
+  ],
+  [
+   88,
+   "KILMENY. 88",
+   "KILMENY. 83"
+  ],
+  [
+   142,
+   "PERI. 187",
+   "PERI. 137"
+  ],
+  [
+   142,
+   "PBEI. 187",
+   "PERI. 137"
+  ],
+  [
+   198,
+   "J 93",
+   "193"
+  ],
+  [
+   210,
+   "D'ARTHUR. 205-",
+   "D'ARTHUR. 205"
+  ],
+  [
+   218,
+   "HORATIUS. 218",
+   "HORATIUS. 213"
+  ],
+  [
+   218,
+   "HORATITJS. 218",
+   "HORATIUS. 213"
+  ]
+ ],
+ "reocr_damaged_pages": true
+}

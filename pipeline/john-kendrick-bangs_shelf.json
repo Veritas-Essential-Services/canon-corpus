@@ -1,0 +1,562 @@
+{
+ "_about": "John Kendrick Bangs's comic fantasies and stories (A Houseboat on the Styx and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "John Kendrick Bangs",
+ "_name_words": [
+  "bangs"
+ ],
+ "_surname": [
+  "john kendrick bangs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jkbangs-a-house-boat-on-the-styx": [
+   2618,
+   "A House-Boat on the Styx"
+  ],
+  "jkbangs-enchanted-typewriter": [
+   3162,
+   "The Enchanted Typewriter"
+  ],
+  "jkbangs-pursuit-of-the-house-boat": [
+   3169,
+   "The Pursuit of the House-Boat"
+  ],
+  "jkbangs-mr-bonaparte-of-corsica": [
+   3236,
+   "Mr. Bonaparte of Corsica"
+  ],
+  "jkbangs-a-rebellious-heroine": [
+   3324,
+   "A Rebellious Heroine"
+  ],
+  "jkbangs-paste-jewels": [
+   4930,
+   "Paste Jewels"
+  ],
+  "jkbangs-ghosts-i-have-met-and-some-others": [
+   6995,
+   "Ghosts I Have Met and Some Others"
+  ],
+  "jkbangs-water-ghost-and-others": [
+   8377,
+   "The Water Ghost and Others"
+  ],
+  "jkbangs-booming-of-acre-hill-and-other-reminiscences-of-urba": [
+   11309,
+   "The Booming of Acre Hill, and Other Reminiscences of Urban and Suburban Life"
+  ],
+  "jkbangs-bicyclers-and-three-other-farces": [
+   11759,
+   "The Bicyclers and Three Other Farces"
+  ],
+  "jkbangs-pursuit-of-the-house-boat-being-some-further-account": [
+   16097,
+   "The Pursuit of the House-Boat Being Some Further Account of the Divers Doings of the Associated Shades, under the Leadership of Sherlock Holmes, Esq."
+  ],
+  "jkbangs-olympian-nights": [
+   17964,
+   "Olympian Nights",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-coffee-and-repartee": [
+   18207,
+   "Coffee and Repartee"
+  ],
+  "jkbangs-idiot": [
+   18881,
+   "The Idiot"
+  ],
+  "jkbangs-r-holmes-co-being-the-remarkable-adventures-of-raffl": [
+   20559,
+   "R. Holmes & Co. Being the Remarkable Adventures of Raffles Holmes, Esq., Detective and Amateur Cracksman by Birth"
+  ],
+  "jkbangs-autobiography-of-methuselah": [
+   20766,
+   "The Autobiography of Methuselah"
+  ],
+  "jkbangs-andiron-tales": [
+   24130,
+   "Andiron Tales"
+  ],
+  "jkbangs-cobwebs-from-a-library-corner": [
+   27534,
+   "Cobwebs from a Library Corner"
+  ],
+  "jkbangs-alice-in-blunderland": [
+   28069,
+   "Alice in Blunderland: An Iridescent Dream",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-mrs-raffles": [
+   30853,
+   "Mrs. Raffles: Being the Adventures of an Amateur Crackswoman",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-mr-munchausen-being-a-true-account-of-some-of-the-re": [
+   33432,
+   "Mr. Munchausen  Being a True Account of Some of the Recent Adventures beyond the Styx of the Late Hieronymus Carl Friedrich, Sometime Baron Munchausen of Bodenwerder"
+  ],
+  "jkbangs-inventions-of-the-idiot": [
+   33623,
+   "The Inventions of the Idiot",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-toppletons-client": [
+   34171,
+   "Toppleton's Client; Or, A Spirit in Exile"
+  ],
+  "jkbangs-jack-and-the-check-book": [
+   34423,
+   "Jack and the Check Book",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-a-little-book-of-christmas": [
+   34465,
+   "A Little Book of Christmas",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-in-camp-with-a-tin-soldier": [
+   34467,
+   "In Camp With A Tin Soldier"
+  ],
+  "jkbangs-over-the-plum-pudding": [
+   34553,
+   "Over the Plum Pudding"
+  ],
+  "jkbangs-half-hours-with-the-idiot": [
+   35017,
+   "Half-Hours with the Idiot",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-genial-idiot": [
+   35302,
+   "The Genial Idiot: His Views and Reviews",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-dreamers": [
+   35374,
+   "The Dreamers: A Club"
+  ],
+  "jkbangs-from-pillar-to-post": [
+   36026,
+   "From Pillar to Post: Leaves from a Lecturer's Note-Book",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-a-proposal-under-difficulties": [
+   37140,
+   "A Proposal Under Difficulties: A Farce"
+  ],
+  "jkbangs-idiot-at-home": [
+   39682,
+   "The Idiot at Home",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-half-hours-with-jimmieboy": [
+   39757,
+   "Half-Hours with Jimmieboy"
+  ],
+  "jkbangs-mollie-and-the-unwiseman-abroad": [
+   39778,
+   "Mollie and the Unwiseman Abroad",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-mollie-and-the-unwiseman": [
+   39820,
+   "Mollie and the Unwiseman"
+  ],
+  "jkbangs-bikey-the-skicycle-and-other-tales-of-jimmieboy": [
+   39871,
+   "Bikey the Skicycle and Other Tales of Jimmieboy"
+  ],
+  "jkbangs-peeps-at-people-being-certain-papers-from-the-writin": [
+   39945,
+   "Peeps at People Being Certain Papers from the Writings of Anne Warrington Witherup",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkbangs-eight-brand-new-bits-of-christmas-cheer": [
+   72633,
+   "Eight brand new bits of Christmas cheer"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-5066": "PG 5066 The Whole Family: a novel by twelve authors, Bangs one chapter."
+ },
+ "_checks": {
+  "jkbangs-a-house-boat-on-the-styx": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-enchanted-typewriter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-pursuit-of-the-house-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-mr-bonaparte-of-corsica": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-a-rebellious-heroine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-paste-jewels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-ghosts-i-have-met-and-some-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-water-ghost-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-booming-of-acre-hill-and-other-reminiscences-of-urba": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-bicyclers-and-three-other-farces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-pursuit-of-the-house-boat-being-some-further-account": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-olympian-nights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-coffee-and-repartee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-idiot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-r-holmes-co-being-the-remarkable-adventures-of-raffl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-autobiography-of-methuselah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-andiron-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-cobwebs-from-a-library-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-alice-in-blunderland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-mrs-raffles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-mr-munchausen-being-a-true-account-of-some-of-the-re": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-inventions-of-the-idiot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-toppletons-client": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-jack-and-the-check-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-a-little-book-of-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-in-camp-with-a-tin-soldier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-over-the-plum-pudding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-half-hours-with-the-idiot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-genial-idiot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-dreamers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-from-pillar-to-post": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-a-proposal-under-difficulties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-idiot-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-half-hours-with-jimmieboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-mollie-and-the-unwiseman-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-mollie-and-the-unwiseman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-bikey-the-skicycle-and-other-tales-of-jimmieboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-peeps-at-people-being-certain-papers-from-the-writin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkbangs-eight-brand-new-bits-of-christmas-cheer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john kendrick bangs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

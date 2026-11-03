@@ -1,0 +1,459 @@
+{
+ "_about": "Harry Collingwood's (W. J. C. Lancaster's) sea stories for boys: every English text under the name at Gutenberg (catalogue: 1851-1922). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Harry Collingwood",
+ "_name_words": [
+  "collingwood"
+ ],
+ "_surname": [
+  "harry collingwood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hcollingwood-log-of-the-flying-fish": [
+   21057,
+   "The Log of the Flying Fish: A Story of Aerial and Submarine Peril and Adventure"
+  ],
+  "hcollingwood-strange-adventures-of-eric-blackburn": [
+   21058,
+   "The Strange Adventures of Eric Blackburn"
+  ],
+  "hcollingwood-adventures-of-dick-maitland": [
+   21059,
+   "The Adventures of Dick Maitland: A Tale of Unknown Africa"
+  ],
+  "hcollingwood-congo-rovers": [
+   21060,
+   "The Congo Rovers: A Story of the Slave Squadron"
+  ],
+  "hcollingwood-under-the-chilian-flag": [
+   21061,
+   "Under the Chilian Flag: A Tale of War between Chili and Peru"
+  ],
+  "hcollingwood-cruise-of-the-nonsuch-buccaneer": [
+   21062,
+   "The Cruise of the Nonsuch Buccaneer"
+  ],
+  "hcollingwood-missing-merchantman": [
+   21063,
+   "The Missing Merchantman"
+  ],
+  "hcollingwood-a-middy-in-command": [
+   21064,
+   "A Middy in Command: A Tale of the Slave Squadron"
+  ],
+  "hcollingwood-log-of-a-privateersman": [
+   21065,
+   "The Log of a Privateersman"
+  ],
+  "hcollingwood-harry-escombe": [
+   21066,
+   "Harry Escombe: A Tale of Adventure in Peru"
+  ],
+  "hcollingwood-overdue": [
+   21067,
+   "Overdue: The Story of a Missing Ship"
+  ],
+  "hcollingwood-under-the-meteor-flag": [
+   21068,
+   "Under the Meteor Flag: Log of a Midshipman during the French Revolutionary War"
+  ],
+  "hcollingwood-for-treasure-bound": [
+   21069,
+   "For Treasure Bound"
+  ],
+  "hcollingwood-a-middy-of-the-slave-squadron": [
+   21070,
+   "A Middy of the Slave Squadron: A West African Story"
+  ],
+  "hcollingwood-rovers-secret": [
+   21071,
+   "The Rover's Secret: A Tale of the Pirate Cays and Lagoons of Cuba"
+  ],
+  "hcollingwood-pirate-island": [
+   21072,
+   "The Pirate Island: A Story of the South Pacific"
+  ],
+  "hcollingwood-a-pirate-of-the-caribbees": [
+   21073,
+   "A Pirate of the Caribbees"
+  ],
+  "hcollingwood-cruise-of-the-thetis": [
+   21075,
+   "The Cruise of the Thetis: A Tale of the Cuban Insurrection"
+  ],
+  "hcollingwood-a-chinese-command": [
+   23118,
+   "A Chinese Command: A Story of Adventure in Eastern Seas"
+  ],
+  "hcollingwood-in-search-of-el-dorado": [
+   23142,
+   "In Search of El Dorado"
+  ],
+  "hcollingwood-castaways": [
+   23491,
+   "The Castaways"
+  ],
+  "hcollingwood-pirate-slaver": [
+   23498,
+   "The Pirate Slaver: A Story of the West African Coast"
+  ],
+  "hcollingwood-across-the-spanish-main": [
+   24454,
+   "Across the Spanish Main: A Tale of the Sea in the Days of Queen Bess"
+  ],
+  "hcollingwood-two-gallant-sons-of-devon": [
+   24565,
+   "Two Gallant Sons of Devon: A Tale of the Days of Queen Bess"
+  ],
+  "hcollingwood-through-veld-and-forest": [
+   24602,
+   "Through Veld and Forest: An African Story"
+  ],
+  "hcollingwood-a-middy-of-the-king": [
+   24615,
+   "A Middy of the King: A Romance of the Old British Navy"
+  ],
+  "hcollingwood-turned-adrift": [
+   24859,
+   "Turned Adrift"
+  ],
+  "hcollingwood-with-airship-and-submarine": [
+   25816,
+   "With Airship and Submarine: A Tale of Adventure"
+  ],
+  "hcollingwood-cruise-of-the-esmeralda": [
+   25817,
+   "The Cruise of the \"Esmeralda\""
+  ],
+  "hcollingwood-first-mate": [
+   25818,
+   "The First Mate: The Story of a Strange Cruise"
+  ],
+  "hcollingwood-voyage-of-the-aurora": [
+   27906,
+   "The Voyage of the Aurora"
+  ],
+  "hcollingwood-dick-leslies-luck": [
+   27909,
+   "Dick Leslie's Luck: A Story of Shipwreck and Adventure"
+  ],
+  "hcollingwood-under-the-ensign-of-the-rising-sun": [
+   27910,
+   "Under the Ensign of the Rising Sun: A Story of the Russo-Japanese War"
+  ],
+  "hcollingwood-secret-of-the-sands": [
+   35528,
+   "The Secret of the Sands; Or, The \"Water Lily\" and her Crew"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hcollingwood-log-of-the-flying-fish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-strange-adventures-of-eric-blackburn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-adventures-of-dick-maitland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-congo-rovers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-under-the-chilian-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-cruise-of-the-nonsuch-buccaneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-missing-merchantman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-a-middy-in-command": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-log-of-a-privateersman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-harry-escombe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-overdue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-under-the-meteor-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-for-treasure-bound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-a-middy-of-the-slave-squadron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-rovers-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-pirate-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-a-pirate-of-the-caribbees": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-cruise-of-the-thetis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-a-chinese-command": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-in-search-of-el-dorado": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-castaways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-pirate-slaver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-across-the-spanish-main": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-two-gallant-sons-of-devon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-through-veld-and-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-a-middy-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-turned-adrift": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-with-airship-and-submarine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-cruise-of-the-esmeralda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-first-mate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-voyage-of-the-aurora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-dick-leslies-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-under-the-ensign-of-the-rising-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcollingwood-secret-of-the-sands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

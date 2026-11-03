@@ -1,0 +1,65 @@
+{
+ "_about": "Hartley Burr Alexander (1873-1939), Nebraska philosopher, poet and student of Native American thought. Raw IA OCR: Letters to Teachers, and other papers of the hour (Chicago: Open Court, 1919); Nature and Human Nature, essays metaphysical and historical (Open Court, 1923); Truth and the Faith, an interpretation of Christianity (Henry Holt, copyright 1929). His mythology volumes and verse are not taken here. US public domain. No uids minted.",
+ "_author": "Hartley Burr Alexander",
+ "_name_words": [
+  "hartley",
+  "burr",
+  "alexander"
+ ],
+ "_surname": [
+  "hartley burr alexander",
+  "h. b. alexander"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alexander-letters-to-teachers-1919": [
+   "letterstoteacher00alexuoft",
+   "Letters to Teachers (Open Court, 1919)"
+  ],
+  "alexander-nature-and-human-nature-1923": [
+   "naturehumannatur0000hart_v5q6",
+   "Nature and Human Nature (Open Court, 1923)"
+  ],
+  "alexander-truth-and-the-faith-1929": [
+   "truthfaithinterp00alex",
+   "Truth and the Faith (Holt, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "alexander-letters-to-teachers-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hartley burr alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alexander-nature-and-human-nature-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hartley burr alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alexander-truth-and-the-faith-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hartley burr alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

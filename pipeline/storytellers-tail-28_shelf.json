@@ -1,0 +1,532 @@
+{
+ "_about": "Storytellers' tail, group 28: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Alfred Bruce Douglas, Ellsworth Douglass, Edmund Downey, C. W. Doyle, Bernard Drachman, Ioulia D. Dragoume, M. E. Drewsen, Fortuné Du Boisgobey, William Atherton DuPuy, Scian Dubh, C. H. Dudley Ward, Edward Duffy, Dundas, Abigail Scott Duniway, Hal Dunning, H. Mortimer Durand, Francis A. Durivage, Seymour Eaton, Charlotte O'Conor Eccles, Eric Rücker Eddison, Milan C. Edson, Julia Edwards, George Egerton, George Dyre Eldridge, Francis Perry Elliott, James Carson Elliott, James Tandy Ellis, Samuel K. Ellis, Walter Emanuel, N. S. Emerson. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 28 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "abdouglas-placid-pug-and-other-rhymes": [
+   "alfred bruce douglas",
+   "douglas"
+  ],
+  "edouglass-pharaoh-s-broker-being-the-very-remarkable-experie": [
+   "ellsworth douglass",
+   "douglass"
+  ],
+  "edowney-through-green-glasses": [
+   "edmund downey",
+   "downey"
+  ],
+  "cwdoyle-taming-of-the-jungle": [
+   "c. w. doyle",
+   "charles william doyle",
+   "doyle"
+  ],
+  "bdrachman-from-the-heart-of-israel": [
+   "bernard drachman",
+   "drachman"
+  ],
+  "iddragoume-under-greek-skies": [
+   "ioulia d. dragoume",
+   "dragoume"
+  ],
+  "medrewsen-wood-cottage": [
+   "m. e. drewsen",
+   "mary emma drewsen",
+   "drewsen"
+  ],
+  "fduboisgobey-red-lottery-ticket": [
+   "fortuné du boisgobey"
+  ],
+  "wadupuy-uncle-sam-detective": [
+   "william atherton dupuy",
+   "dupuy"
+  ],
+  "sdubh-ridgeway": [
+   "scian dubh"
+  ],
+  "chdudleyward-56th-division-1st-london-territorial-division": [
+   "c. h. dudley ward",
+   "charles humble dudley ward"
+  ],
+  "eduffy-history-of-the-159th-regiment-n-y-s-v": [
+   "edward duffy",
+   "duffy"
+  ],
+  "dundas-little-cap": [
+   "dundas",
+   "louisa maria dundas",
+   "dundas"
+  ],
+  "asduniway-from-the-west-to-the-west": [
+   "abigail scott duniway",
+   "duniway"
+  ],
+  "hdunning-white-wolf-s-law": [
+   "hal dunning",
+   "dunning"
+  ],
+  "hmdurand-thirteenth-hussars-in-the-great-war": [
+   "h. mortimer durand",
+   "henry mortimer durand",
+   "durand"
+  ],
+  "fadurivage-three-brides-love-in-a-cottage-and-other-tales": [
+   "francis a. durivage",
+   "francis alexander durivage",
+   "durivage"
+  ],
+  "seaton-more-about-teddy-b-and-teddy-g-the-roosevelt-bears-be": [
+   "seymour eaton",
+   "eaton"
+  ],
+  "coeccles-rejuvenation-of-miss-semaphore": [
+   "charlotte o'conor eccles",
+   "eccles"
+  ],
+  "ereddison-worm-ouroboros": [
+   "eric rücker eddison",
+   "eddison"
+  ],
+  "mcedson-solaris-farm": [
+   "milan c. edson",
+   "milan chappel edson",
+   "edson"
+  ],
+  "jedwards-beautiful-but-poor": [
+   "julia edwards",
+   "edwards"
+  ],
+  "gegerton-keynotes": [
+   "george egerton",
+   "egerton"
+  ],
+  "gdeldridge-millbank-case": [
+   "george dyre eldridge",
+   "eldridge"
+  ],
+  "fpelliott-haunted-pajamas": [
+   "francis perry elliott",
+   "elliott"
+  ],
+  "jcelliott-southern-soldier-boy": [
+   "james carson elliott",
+   "elliott"
+  ],
+  "jtellis-shawn-of-skarrow": [
+   "james tandy ellis",
+   "ellis"
+  ],
+  "skellis-twenty-fifth-regiment-connecticut-volunteers-in-the": [
+   "samuel k. ellis",
+   "samuel kimball ellis",
+   "ellis"
+  ],
+  "wemanuel-dog-day": [
+   "walter emanuel",
+   "emanuel"
+  ],
+  "nsemerson-dungeon-rock": [
+   "n. s. emerson",
+   "nannette snow emerson",
+   "emerson"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "abdouglas-placid-pug-and-other-rhymes": [
+   45292,
+   "The Placid Pug, and Other Rhymes"
+  ],
+  "edouglass-pharaoh-s-broker-being-the-very-remarkable-experie": [
+   25295,
+   "Pharaoh's Broker Being the Very Remarkable Experiences in Another World of Isidor Werner"
+  ],
+  "edowney-through-green-glasses": [
+   77138,
+   "Through green glasses"
+  ],
+  "cwdoyle-taming-of-the-jungle": [
+   35644,
+   "The Taming of the Jungle"
+  ],
+  "bdrachman-from-the-heart-of-israel": [
+   60189,
+   "From the Heart of Israel: Jewish Tales and Types"
+  ],
+  "iddragoume-under-greek-skies": [
+   55523,
+   "Under Greek Skies"
+  ],
+  "medrewsen-wood-cottage": [
+   77064,
+   "Wood Cottage"
+  ],
+  "fduboisgobey-red-lottery-ticket": [
+   40491,
+   "The Red Lottery Ticket"
+  ],
+  "wadupuy-uncle-sam-detective": [
+   45474,
+   "Uncle Sam, Detective"
+  ],
+  "sdubh-ridgeway": [
+   9476,
+   "Ridgeway: An Historical Romance of the Fenian Invasion of Canada"
+  ],
+  "chdudleyward-56th-division-1st-london-territorial-division": [
+   50379,
+   "The 56th Division (1st London Territorial Division)"
+  ],
+  "eduffy-history-of-the-159th-regiment-n-y-s-v": [
+   24195,
+   "History of the 159th Regiment, N.Y.S.V."
+  ],
+  "dundas-little-cap": [
+   70921,
+   "The little cap"
+  ],
+  "asduniway-from-the-west-to-the-west": [
+   75131,
+   "From the West to the West"
+  ],
+  "hdunning-white-wolf-s-law": [
+   46457,
+   "White Wolf's Law: A Western Story"
+  ],
+  "hmdurand-thirteenth-hussars-in-the-great-war": [
+   61769,
+   "The Thirteenth Hussars in the Great War"
+  ],
+  "fadurivage-three-brides-love-in-a-cottage-and-other-tales": [
+   17669,
+   "The Three Brides, Love in a Cottage, and Other Tales"
+  ],
+  "seaton-more-about-teddy-b-and-teddy-g-the-roosevelt-bears-be": [
+   65424,
+   "More About Teddy B. and Teddy G., the Roosevelt Bears Being Volume Two Depicting Their Further Travels and Adventures"
+  ],
+  "coeccles-rejuvenation-of-miss-semaphore": [
+   65871,
+   "The Rejuvenation of Miss Semaphore: A Farcical Novel"
+  ],
+  "ereddison-worm-ouroboros": [
+   67090,
+   "The Worm Ouroboros: A Romance"
+  ],
+  "mcedson-solaris-farm": [
+   31373,
+   "Solaris Farm: A Story of the Twentieth Century"
+  ],
+  "jedwards-beautiful-but-poor": [
+   68929,
+   "Beautiful but poor"
+  ],
+  "gegerton-keynotes": [
+   74778,
+   "Keynotes"
+  ],
+  "gdeldridge-millbank-case": [
+   66051,
+   "The Millbank Case: A Maine Mystery of To-day"
+  ],
+  "fpelliott-haunted-pajamas": [
+   33780,
+   "The Haunted Pajamas"
+  ],
+  "jcelliott-southern-soldier-boy": [
+   31453,
+   "The Southern Soldier Boy: A Thousand Shots for the Confederacy"
+  ],
+  "jtellis-shawn-of-skarrow": [
+   26934,
+   "Shawn of Skarrow"
+  ],
+  "skellis-twenty-fifth-regiment-connecticut-volunteers-in-the": [
+   24307,
+   "The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion"
+  ],
+  "wemanuel-dog-day": [
+   51306,
+   "A Dog Day; or, The Angel in the House"
+  ],
+  "nsemerson-dungeon-rock": [
+   72083,
+   "Dungeon Rock; or, the pirate's cave, at Lynn"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "abdouglas-placid-pug-and-other-rhymes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred bruce douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edouglass-pharaoh-s-broker-being-the-very-remarkable-experie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellsworth douglass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edowney-through-green-glasses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund downey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwdoyle-taming-of-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. w. doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bdrachman-from-the-heart-of-israel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard drachman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iddragoume-under-greek-skies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ioulia d. dragoume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "medrewsen-wood-cottage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. e. drewsen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fduboisgobey-red-lottery-ticket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fortuné du boisgobey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wadupuy-uncle-sam-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william atherton dupuy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sdubh-ridgeway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scian dubh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chdudleyward-56th-division-1st-london-territorial-division": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. h. dudley ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eduffy-history-of-the-159th-regiment-n-y-s-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward duffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dundas-little-cap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dundas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asduniway-from-the-west-to-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abigail scott duniway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdunning-white-wolf-s-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hal dunning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmdurand-thirteenth-hussars-in-the-great-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. mortimer durand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fadurivage-three-brides-love-in-a-cottage-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis a. durivage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seaton-more-about-teddy-b-and-teddy-g-the-roosevelt-bears-be": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seymour eaton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coeccles-rejuvenation-of-miss-semaphore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte o'conor eccles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ereddison-worm-ouroboros": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eric rücker eddison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcedson-solaris-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milan c. edson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jedwards-beautiful-but-poor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gegerton-keynotes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george egerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdeldridge-millbank-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george dyre eldridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpelliott-haunted-pajamas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis perry elliott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcelliott-southern-soldier-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james carson elliott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtellis-shawn-of-skarrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james tandy ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "skellis-twenty-fifth-regiment-connecticut-volunteers-in-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel k. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wemanuel-dog-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter emanuel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nsemerson-dungeon-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "n. s. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

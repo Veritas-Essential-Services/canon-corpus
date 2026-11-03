@@ -1,0 +1,1090 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off English translations of plays, verse and tale collections: Sudermann's plays in the Drama League and Poet Lore translations (Edith Wharton's The Joy of Living, 1902, Magda, Honor, Fires of St. John, Morituri, Roses), Heijermans's The Ghetto, Vondel's Lucifer (Van Noppen, 1898), Rostand's Cyrano (Renauld), Wilde's Salomé (Lord Alfred Douglas), Holberg's Jeppe on the Hill, Marie Stopes's Plays of Old Japan: The No, Flotow's Martha; Baudelaire's Flowers of Evil (Cyril Scott), Christine de Pisan's Duke of True Lovers (Laurence Binyon), Quevedo's Visions (L'Estrange, Elliot), Iriarte's Literary Fables, Sibbald's Inferno, Gilbert Hay's Buke of Knyghthood from Llull; and from Asia and elsewhere the Kathá Sarit Ságara (Tawney), the Kādambarī (Ridding), Vidyāpati (Coomaraswamy), Chaitanya (Sarkar), the Jātakamālā (Speyer), with Old Celtic Romances (Joyce), Tales from the Old French (Isabel Butler), Zanzibar Tales, Roumanian Stories, Caucasian Legends, Aw-Aw-Tam Indian Nights and Chinese Mother Goose Rhymes. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 42); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alfred bruce douglas",
+  "ananda k. coomaraswamy",
+  "ananda kentish coomaraswamy",
+  "archibald alexander",
+  "c. h. tawney",
+  "c. m. ridding",
+  "caroline mary ridding",
+  "charles edward amory winslow",
+  "charles henry tawney",
+  "charles renauld",
+  "charles swickard",
+  "chester bailey fernald",
+  "cyril scott",
+  "edith wharton",
+  "edward hubert wood",
+  "eric robert dalrymple maclagan",
+  "george h. devereux",
+  "george humphrey devereux",
+  "george w. bateman",
+  "gilbert hay",
+  "grace frank",
+  "hilmar r. baukhage",
+  "hilmar robert baukhage",
+  "isaac taylor headland",
+  "isabel butler",
+  "j. s. speyer",
+  "jacob samuel speyer",
+  "jadunath sarkar",
+  "james romanes sibbald",
+  "joji sakurai",
+  "laurence binyon",
+  "leonard charles van noppen",
+  "lucy byng",
+  "m. louise baum",
+  "marie carmichael stopes",
+  "martin b. ruud",
+  "martin bronn ruud",
+  "p. w. joyce",
+  "patrick weston joyce",
+  "roger l'estrange",
+  "sergiei veselitskii-bozhidarovich",
+  "van noppen",
+  "waldemar westergaard",
+  "william elliot"
+ ],
+ "_surname": [
+  "alfred bruce douglas",
+  "ananda k. coomaraswamy",
+  "ananda kentish coomaraswamy",
+  "archibald alexander",
+  "c. h. tawney",
+  "c. m. ridding",
+  "caroline mary ridding",
+  "charles edward amory winslow",
+  "charles henry tawney",
+  "charles renauld",
+  "charles swickard",
+  "chester bailey fernald",
+  "cyril scott",
+  "edith wharton",
+  "edward hubert wood",
+  "eric robert dalrymple maclagan",
+  "george h. devereux",
+  "george humphrey devereux",
+  "george w. bateman",
+  "gilbert hay",
+  "grace frank",
+  "hilmar r. baukhage",
+  "hilmar robert baukhage",
+  "isaac taylor headland",
+  "isabel butler",
+  "j. s. speyer",
+  "jacob samuel speyer",
+  "jadunath sarkar",
+  "james romanes sibbald",
+  "joji sakurai",
+  "laurence binyon",
+  "leonard charles van noppen",
+  "lucy byng",
+  "m. louise baum",
+  "marie carmichael stopes",
+  "martin b. ruud",
+  "martin bronn ruud",
+  "p. w. joyce",
+  "patrick weston joyce",
+  "roger l'estrange",
+  "sergiei veselitskii-bozhidarovich",
+  "van noppen",
+  "waldemar westergaard",
+  "william elliot"
+ ],
+ "_surname_by_slug": {
+  "svd-34184": [
+   "charles edward amory winslow",
+   "winslow"
+  ],
+  "svd-34207": [
+   "edith wharton",
+   "wharton"
+  ],
+  "svd-34356": [
+   "charles swickard",
+   "swickard"
+  ],
+  "svd-34357": [
+   "baukhage",
+   "hilmar r. baukhage",
+   "hilmar robert baukhage"
+  ],
+  "svd-34359": [
+   "alexander",
+   "archibald alexander"
+  ],
+  "svd-34360": [
+   "frank",
+   "grace frank"
+  ],
+  "svd-36307": [
+   "chester bailey fernald",
+   "fernald"
+  ],
+  "svd-37659": [
+   "leonard charles van noppen",
+   "van noppen"
+  ],
+  "svd-41949": [
+   "charles renauld",
+   "renauld"
+  ],
+  "svd-42704": [
+   "alfred bruce douglas",
+   "douglas"
+  ],
+  "svd-42022": [
+   "martin b. ruud",
+   "martin bronn ruud",
+   "ruud",
+   "waldemar westergaard",
+   "westergaard"
+  ],
+  "svd-44092": [
+   "joji sakurai",
+   "marie carmichael stopes",
+   "sakurai",
+   "stopes"
+  ],
+  "svd-38597": [
+   "baum",
+   "m. louise baum"
+  ],
+  "svd-36098": [
+   "cyril scott",
+   "scott"
+  ],
+  "svd-36737": [
+   "binyon",
+   "eric robert dalrymple maclagan",
+   "laurence binyon",
+   "maclagan"
+  ],
+  "svd-40588": [
+   "c. h. tawney",
+   "charles henry tawney",
+   "tawney"
+  ],
+  "svd-41128": [
+   "c. m. ridding",
+   "caroline mary ridding",
+   "ridding"
+  ],
+  "svd-38174": [
+   "ananda k. coomaraswamy",
+   "ananda kentish coomaraswamy",
+   "coomaraswamy"
+  ],
+  "svd-38016": [
+   "jadunath sarkar",
+   "sarkar"
+  ],
+  "svd-41908": [
+   "l'estrange",
+   "roger l'estrange"
+  ],
+  "svd-41950": [
+   "elliot",
+   "william elliot"
+  ],
+  "svd-39640": [
+   "devereux",
+   "george h. devereux",
+   "george humphrey devereux"
+  ],
+  "svd-36658": [
+   "butler",
+   "isabel butler"
+  ],
+  "svd-38041": [
+   "joyce",
+   "p. w. joyce",
+   "patrick weston joyce"
+  ],
+  "svd-37472": [
+   "bateman",
+   "george w. bateman"
+  ],
+  "svd-38991": [
+   "byng",
+   "lucy byng"
+  ],
+  "svd-40425": [
+   "headland",
+   "isaac taylor headland"
+  ],
+  "svd-35577": [
+   "sergiei veselitskii-bozhidarovich",
+   "veselitskii-bozhidarovich"
+  ],
+  "svd-38064": [
+   "edward hubert wood",
+   "wood"
+  ],
+  "svd-41537": [
+   "james romanes sibbald",
+   "sibbald"
+  ],
+  "svd-43365": [
+   "gilbert hay",
+   "hay"
+  ],
+  "svd-46984": [
+   "j. s. speyer",
+   "jacob samuel speyer",
+   "speyer"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "svd-34184": [
+   34184,
+   "Magda: A Play in Four Acts"
+  ],
+  "svd-34207": [
+   34207,
+   "The Joy of Living (Es lebe das Leben): A Play in Five Acts"
+  ],
+  "svd-34356": [
+   34356,
+   "Fires of St. John: A Drama in Four Acts"
+  ],
+  "svd-34357": [
+   34357,
+   "Honor: A Play in Four Acts"
+  ],
+  "svd-34359": [
+   34359,
+   "Morituri: Three One-Act Plays Teja—Fritzchen—The Eternal Masculine"
+  ],
+  "svd-34360": [
+   34360,
+   "Roses: Four One-Act Plays Streaks of Light—The Last Visit—Margot—The Far-away Princess"
+  ],
+  "svd-36307": [
+   36307,
+   "The Ghetto: A Drama in Four Acts"
+  ],
+  "svd-37659": [
+   37659,
+   "Vondel's Lucifer"
+  ],
+  "svd-41949": [
+   41949,
+   "Cyrano de Bergerac: An Heroic Comedy in Five Acts"
+  ],
+  "svd-42704": [
+   42704,
+   "Salomé: A Tragedy in One Act"
+  ],
+  "svd-42022": [
+   42022,
+   "Jeppe on the Hill; Or, The Transformed Peasant: A Comedy in Five Acts"
+  ],
+  "svd-44092": [
+   44092,
+   "Plays of Old Japan: The 'No'"
+  ],
+  "svd-38597": [
+   38597,
+   "Martha; or, The Fair at Richmond"
+  ],
+  "svd-36098": [
+   36098,
+   "The Flowers of Evil"
+  ],
+  "svd-36737": [
+   36737,
+   "The Book of the Duke of True Lovers"
+  ],
+  "svd-40588": [
+   40588,
+   "The Kathá Sarit Ságara; or, Ocean of the Streams of Story"
+  ],
+  "svd-41128": [
+   41128,
+   "The Kādambarī of Bāṇa"
+  ],
+  "svd-38174": [
+   38174,
+   "Vidyāpati: Bangīya padābali; songs of the love of Rādhā and Krishna"
+  ],
+  "svd-38016": [
+   38016,
+   "Chaitanya's Life And Teachings From his contemporary Begali biography the Chaitanya-charit-amrita"
+  ],
+  "svd-41908": [
+   41908,
+   "The Visions of Dom Francisco de Quevedo Villegas"
+  ],
+  "svd-41950": [
+   41950,
+   "The Visions of Quevedo"
+  ],
+  "svd-39640": [
+   39640,
+   "Literary Fables of Yriarte"
+  ],
+  "svd-36658": [
+   36658,
+   "Tales from the Old French"
+  ],
+  "svd-38041": [
+   38041,
+   "Old Celtic Romances"
+  ],
+  "svd-37472": [
+   37472,
+   "Zanzibar Tales: Told by Natives of the East Coast of Africa"
+  ],
+  "svd-38991": [
+   38991,
+   "Roumanian Stories, Translated from the Original Roumanian"
+  ],
+  "svd-40425": [
+   40425,
+   "Chinese Mother Goose Rhymes"
+  ],
+  "svd-35577": [
+   35577,
+   "Caucasian Legends"
+  ],
+  "svd-38064": [
+   38064,
+   "Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona"
+  ],
+  "svd-41537": [
+   41537,
+   "The Divine Comedy of Dante Alighieri: The Inferno"
+  ],
+  "svd-43365": [
+   43365,
+   "The Buke of the Order of Knyghthood Translated from the French by Sir Gilbert Hay, Knight"
+  ],
+  "svd-46984": [
+   46984,
+   "The Gâtakamâlâ; Or, Garland of Birth-Stories"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-verse-drama-tales-alighieri-the-divine-comedy-of-dante-alighieri": {
+   "source": "svd-41537",
+   "of": "Dante Alighieri",
+   "work": "The Divine Comedy of Dante Alighieri: The Inferno",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Romanes Sibbald",
+   "scan_edition": "Project Gutenberg 41537 (clean text)"
+  },
+  "singles-verse-drama-tales-anon-chinese-mother-goose-rhymes": {
+   "source": "svd-40425",
+   "of": "traditional Chinese nursery rhymes",
+   "work": "Chinese Mother Goose Rhymes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Isaac Taylor Headland",
+   "scan_edition": "Project Gutenberg 40425 (clean text)"
+  },
+  "singles-verse-drama-tales-anon-martha": {
+   "source": "svd-38597",
+   "of": "Friedrich von Flotow (music) and W. Friedrich (libretto)",
+   "work": "Martha; or, The Fair at Richmond",
+   "translated": "(see the Gutenberg header)",
+   "translator": "M. Louise Baum",
+   "scan_edition": "Project Gutenberg 38597 (clean text)",
+   "note": "An opera libretto in English translation."
+  },
+  "singles-verse-drama-tales-anon-old-celtic-romances": {
+   "source": "svd-38041",
+   "of": "anonymous Old Irish tales",
+   "work": "Old Celtic Romances",
+   "translated": "(see the Gutenberg header)",
+   "translator": "P. W. Joyce",
+   "scan_edition": "Project Gutenberg 38041 (clean text)"
+  },
+  "singles-verse-drama-tales-anon-plays-of-old-japan": {
+   "source": "svd-44092",
+   "of": "Zeami and other Noh playwrights",
+   "work": "Plays of Old Japan: The 'No'",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Marie Carmichael Stopes and Joji Sakurai",
+   "scan_edition": "Project Gutenberg 44092 (clean text)"
+  },
+  "singles-verse-drama-tales-anon-roumanian-stories-translated-from-the-or": {
+   "source": "svd-38991",
+   "of": "various Romanian authors",
+   "work": "Roumanian Stories, Translated from the Original Roumanian",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lucy Byng",
+   "scan_edition": "Project Gutenberg 38991 (clean text)"
+  },
+  "singles-verse-drama-tales-anon-tales-from-the-old-french": {
+   "source": "svd-36658",
+   "of": "anonymous Old French tales",
+   "work": "Tales from the Old French",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Isabel Butler",
+   "scan_edition": "Project Gutenberg 36658 (clean text)"
+  },
+  "singles-verse-drama-tales-anon-zanzibar-tales": {
+   "source": "svd-37472",
+   "of": "Swahili oral tales",
+   "work": "Zanzibar Tales: Told by Natives of the East Coast of Africa",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George W. Bateman",
+   "scan_edition": "Project Gutenberg 37472 (clean text)"
+  },
+  "singles-verse-drama-tales-aryasura-the-gatakamala": {
+   "source": "svd-46984",
+   "of": "Aryasura",
+   "work": "The Gâtakamâlâ; Or, Garland of Birth-Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. S. Speyer",
+   "scan_edition": "Project Gutenberg 46984 (clean text)"
+  },
+  "singles-verse-drama-tales-bana-the-kadambari-of-bana": {
+   "source": "svd-41128",
+   "of": "Bāṇa and Bhūṣaṇabhaṭṭa",
+   "work": "The Kādambarī of Bāṇa",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. M. Ridding",
+   "scan_edition": "Project Gutenberg 41128 (clean text)"
+  },
+  "singles-verse-drama-tales-baudelaire-the-flowers-of-evil": {
+   "source": "svd-36098",
+   "of": "Charles Baudelaire",
+   "work": "The Flowers of Evil",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cyril Scott",
+   "scan_edition": "Project Gutenberg 36098 (clean text)"
+  },
+  "singles-verse-drama-tales-bhatta-the-katha-sarit-sagara": {
+   "source": "svd-40588",
+   "of": "Somadeva Bhatta",
+   "work": "The Kathá Sarit Ságara; or, Ocean of the Streams of Story",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. H. Tawney",
+   "scan_edition": "Project Gutenberg 40588 (clean text)"
+  },
+  "singles-verse-drama-tales-christine-the-book-of-the-duke-of-true-lovers": {
+   "source": "svd-36737",
+   "of": "Christine de Pisan",
+   "work": "The Book of the Duke of True Lovers",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Laurence Binyon and Eric Robert Dalrymple Maclagan",
+   "scan_edition": "Project Gutenberg 36737 (clean text)"
+  },
+  "singles-verse-drama-tales-gosvami-chaitanya-s-life-and-teachings-from-his": {
+   "source": "svd-38016",
+   "of": "Kṛṣṇadāsa Kavirāja Gosvāmi",
+   "work": "Chaitanya's Life And Teachings From his contemporary Begali biography the Chaitanya-charit-amrita",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jadunath Sarkar",
+   "scan_edition": "Project Gutenberg 38016 (clean text)"
+  },
+  "singles-verse-drama-tales-gul-bat-caucasian-legends": {
+   "source": "svd-35577",
+   "of": "Abraam Abraamovich Gul'bat",
+   "work": "Caucasian Legends",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sergiei Veselitskii-Bozhidarovich",
+   "scan_edition": "Project Gutenberg 35577 (clean text)"
+  },
+  "singles-verse-drama-tales-heijermans-the-ghetto": {
+   "source": "svd-36307",
+   "of": "Herman Heijermans",
+   "work": "The Ghetto: A Drama in Four Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Chester Bailey Fernald",
+   "scan_edition": "Project Gutenberg 36307 (clean text)"
+  },
+  "singles-verse-drama-tales-holberg-jeppe-on-the-hill": {
+   "source": "svd-42022",
+   "of": "Ludvig Holberg",
+   "work": "Jeppe on the Hill; Or, The Transformed Peasant: A Comedy in Five Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Martin B. Ruud and Waldemar Westergaard",
+   "scan_edition": "Project Gutenberg 42022 (clean text)"
+  },
+  "singles-verse-drama-tales-iriarte-literary-fables-of-yriarte": {
+   "source": "svd-39640",
+   "of": "Tomás de Iriarte",
+   "work": "Literary Fables of Yriarte",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George H. Devereux",
+   "scan_edition": "Project Gutenberg 39640 (clean text)"
+  },
+  "singles-verse-drama-tales-lloyd-aw-aw-tam-indian-nights": {
+   "source": "svd-38064",
+   "of": "Comalk-Hawk-Kih (as told to J. Wm. Lloyd)",
+   "work": "Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward Hubert Wood",
+   "scan_edition": "Project Gutenberg 38064 (clean text)",
+   "note": "Pima stories told by Comalk-Hawk-Kih and interpreted by Edward Hubert Wood; recorded by J. Wm. Lloyd (1911)."
+  },
+  "singles-verse-drama-tales-llull-the-buke-of-the-order-of-knyghthood-tran": {
+   "source": "svd-43365",
+   "of": "Ramon Llull",
+   "work": "The Buke of the Order of Knyghthood Translated from the French by Sir Gilbert Hay, Knight",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gilbert Hay",
+   "scan_edition": "Project Gutenberg 43365 (clean text)"
+  },
+  "singles-verse-drama-tales-quevedo-the-visions-of-dom-francisco-de-quevedo": {
+   "source": "svd-41908",
+   "of": "Francisco de Quevedo",
+   "work": "The Visions of Dom Francisco de Quevedo Villegas",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Roger L'Estrange",
+   "scan_edition": "Project Gutenberg 41908 (clean text)"
+  },
+  "singles-verse-drama-tales-quevedo-the-visions-of-quevedo": {
+   "source": "svd-41950",
+   "of": "Francisco de Quevedo",
+   "work": "The Visions of Quevedo",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Elliot",
+   "scan_edition": "Project Gutenberg 41950 (clean text)"
+  },
+  "singles-verse-drama-tales-rostand-cyrano-de-bergerac": {
+   "source": "svd-41949",
+   "of": "Edmond Rostand",
+   "work": "Cyrano de Bergerac: An Heroic Comedy in Five Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Renauld",
+   "scan_edition": "Project Gutenberg 41949 (clean text)",
+   "note": "A different translation from any Cyrano held elsewhere; a separate witness."
+  },
+  "singles-verse-drama-tales-sudermann-fires-of-st-john": {
+   "source": "svd-34356",
+   "of": "Hermann Sudermann",
+   "work": "Fires of St. John: A Drama in Four Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Swickard",
+   "scan_edition": "Project Gutenberg 34356 (clean text)"
+  },
+  "singles-verse-drama-tales-sudermann-honor": {
+   "source": "svd-34357",
+   "of": "Hermann Sudermann",
+   "work": "Honor: A Play in Four Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Hilmar R. Baukhage",
+   "scan_edition": "Project Gutenberg 34357 (clean text)"
+  },
+  "singles-verse-drama-tales-sudermann-magda": {
+   "source": "svd-34184",
+   "of": "Hermann Sudermann",
+   "work": "Magda: A Play in Four Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Edward Amory Winslow",
+   "scan_edition": "Project Gutenberg 34184 (clean text)"
+  },
+  "singles-verse-drama-tales-sudermann-morituri": {
+   "source": "svd-34359",
+   "of": "Hermann Sudermann",
+   "work": "Morituri: Three One-Act Plays Teja—Fritzchen—The Eternal Masculine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Archibald Alexander",
+   "scan_edition": "Project Gutenberg 34359 (clean text)"
+  },
+  "singles-verse-drama-tales-sudermann-roses": {
+   "source": "svd-34360",
+   "of": "Hermann Sudermann",
+   "work": "Roses: Four One-Act Plays Streaks of Light—The Last Visit—Margot—The Far-away Princess",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Grace Frank",
+   "scan_edition": "Project Gutenberg 34360 (clean text)"
+  },
+  "singles-verse-drama-tales-sudermann-the-joy-of-living-es-lebe-das-leben": {
+   "source": "svd-34207",
+   "of": "Hermann Sudermann",
+   "work": "The Joy of Living (Es lebe das Leben): A Play in Five Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edith Wharton",
+   "scan_edition": "Project Gutenberg 34207 (clean text)"
+  },
+  "singles-verse-drama-tales-thakura-vidyapati": {
+   "source": "svd-38174",
+   "of": "Vidyāpati Thākura",
+   "work": "Vidyāpati: Bangīya padābali; songs of the love of Rādhā and Krishna",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ananda K. Coomaraswamy",
+   "scan_edition": "Project Gutenberg 38174 (clean text)"
+  },
+  "singles-verse-drama-tales-vondel-vondel-s-lucifer": {
+   "source": "svd-37659",
+   "of": "Joost van den Vondel",
+   "work": "Vondel's Lucifer",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Leonard Charles Van Noppen",
+   "scan_edition": "Project Gutenberg 37659 (clean text)"
+  },
+  "singles-verse-drama-tales-wilde-salome": {
+   "source": "svd-42704",
+   "of": "Oscar Wilde",
+   "work": "Salomé: A Tragedy in One Act",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alfred Bruce Douglas",
+   "scan_edition": "Project Gutenberg 42704 (clean text)",
+   "note": "Wilde wrote Salomé in French; this is the Douglas English text. Wilde's own shelves (wilde-novels and others) do not hold it."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "svd-34184": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles edward amory winslow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Edward Amory Winslow"
+  },
+  "svd-34207": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edith wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edith Wharton"
+  },
+  "svd-34356": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles swickard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Swickard"
+  },
+  "svd-34357": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "baukhage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hilmar R. Baukhage"
+  },
+  "svd-34359": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Archibald Alexander"
+  },
+  "svd-34360": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Grace Frank"
+  },
+  "svd-36307": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chester bailey fernald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Chester Bailey Fernald"
+  },
+  "svd-37659": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leonard charles van noppen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leonard Charles Van Noppen"
+  },
+  "svd-41949": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles renauld",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Renauld"
+  },
+  "svd-42704": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred bruce douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Bruce Douglas"
+  },
+  "svd-42022": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin b. ruud",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Martin B. Ruud; Waldemar Westergaard"
+  },
+  "svd-44092": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joji sakurai",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marie Carmichael Stopes; Joji Sakurai"
+  },
+  "svd-38597": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "baum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. Louise Baum"
+  },
+  "svd-36098": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cyril scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cyril Scott"
+  },
+  "svd-36737": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "binyon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laurence Binyon; Eric Robert Dalrymple Maclagan"
+  },
+  "svd-40588": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. h. tawney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. H. Tawney"
+  },
+  "svd-41128": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. m. ridding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. M. Ridding"
+  },
+  "svd-38174": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ananda k. coomaraswamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ananda K. Coomaraswamy"
+  },
+  "svd-38016": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jadunath sarkar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Jadunath Sarkar"
+  },
+  "svd-41908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l'estrange",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Roger L'Estrange"
+  },
+  "svd-41950": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Elliot"
+  },
+  "svd-39640": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "devereux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George H. Devereux"
+  },
+  "svd-36658": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isabel butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Butler"
+  },
+  "svd-38041": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joyce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "P. W. Joyce"
+  },
+  "svd-37472": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bateman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George W. Bateman"
+  },
+  "svd-38991": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "byng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lucy Byng"
+  },
+  "svd-40425": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "headland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Taylor Headland"
+  },
+  "svd-35577": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sergiei veselitskii-bozhidarovich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sergiei Veselitskii-Bozhidarovich"
+  },
+  "svd-38064": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward hubert wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Hubert Wood"
+  },
+  "svd-41537": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james romanes sibbald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Romanes Sibbald"
+  },
+  "svd-43365": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gilbert hay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert,‏ ‎Sir,‏ active 1456 Hay"
+  },
+  "svd-46984": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. s. speyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. S. Speyer"
+  }
+ },
+ "_verified": {
+  "svd-34184": {
+   "pg": 34184,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Edward Amory Winslow"
+  },
+  "svd-34207": {
+   "pg": 34207,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edith Wharton"
+  },
+  "svd-34356": {
+   "pg": 34356,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Swickard"
+  },
+  "svd-34357": {
+   "pg": 34357,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hilmar R. Baukhage"
+  },
+  "svd-34359": {
+   "pg": 34359,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Archibald Alexander"
+  },
+  "svd-34360": {
+   "pg": 34360,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Grace Frank"
+  },
+  "svd-36307": {
+   "pg": 36307,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Chester Bailey Fernald"
+  },
+  "svd-37659": {
+   "pg": 37659,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leonard Charles Van Noppen"
+  },
+  "svd-41949": {
+   "pg": 41949,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Renauld"
+  },
+  "svd-42704": {
+   "pg": 42704,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Bruce Douglas"
+  },
+  "svd-42022": {
+   "pg": 42022,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Martin B. Ruud"
+  },
+  "svd-44092": {
+   "pg": 44092,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Marie Carmichael Stopes"
+  },
+  "svd-38597": {
+   "pg": 38597,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. Louise Baum"
+  },
+  "svd-36098": {
+   "pg": 36098,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cyril Scott"
+  },
+  "svd-36737": {
+   "pg": 36737,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laurence Binyon"
+  },
+  "svd-40588": {
+   "pg": 40588,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. H. Tawney"
+  },
+  "svd-41128": {
+   "pg": 41128,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. M. Ridding"
+  },
+  "svd-38174": {
+   "pg": 38174,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ananda K. Coomaraswamy"
+  },
+  "svd-38016": {
+   "pg": 38016,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Jadunath Sarkar"
+  },
+  "svd-41908": {
+   "pg": 41908,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Roger L'Estrange"
+  },
+  "svd-41950": {
+   "pg": 41950,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Elliot"
+  },
+  "svd-39640": {
+   "pg": 39640,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George H. Devereux"
+  },
+  "svd-36658": {
+   "pg": 36658,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Butler"
+  },
+  "svd-38041": {
+   "pg": 38041,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "P. W. Joyce"
+  },
+  "svd-37472": {
+   "pg": 37472,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George W. Bateman"
+  },
+  "svd-38991": {
+   "pg": 38991,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lucy Byng"
+  },
+  "svd-40425": {
+   "pg": 40425,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Taylor Headland"
+  },
+  "svd-35577": {
+   "pg": 35577,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sergiei Veselitskii-Bozhidarovich"
+  },
+  "svd-38064": {
+   "pg": 38064,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Hubert Wood"
+  },
+  "svd-41537": {
+   "pg": 41537,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Romanes Sibbald"
+  },
+  "svd-43365": {
+   "pg": 43365,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gilbert,‏ ‎Sir,‏ active 1456 Hay"
+  },
+  "svd-46984": {
+   "pg": 46984,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. S. Speyer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

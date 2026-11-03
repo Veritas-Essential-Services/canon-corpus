@@ -1,0 +1,280 @@
+{
+ "_about": "Public-domain B. W. Newton (Benjamin Wills Newton, 1807-1899, early Brethren leader at Plymouth, later independent) for the Word Hoard: sixteen books 1848-1892 from Internet Archive scans, on prophecy (Aids to Prophetic Enquiry, Thoughts on the Apocalypse, Prospects of the Ten Kingdoms, Babylon), Isaiah, Leviticus, Romans, the atonement and the Essays and Reviews controversy. Four are C. M. Tucker reissues whose title-page years belong to earlier editions; their copies were accessioned by 1927. Post-tribulationist; his Christology was condemned by Darby in 1847; veto point. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "newton",
+  "wills"
+ ],
+ "_surname": [
+  "b. w. newton",
+  "benjamin wills newton",
+  "newton, b. w.",
+  "newton, benjamin wills",
+  "by b. w. newton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "newton-aids-prophetic": [
+   "aidstoprophetic00newtgoog",
+   "Aids to Prophetic Enquiry (London: James Nisbet, 1848)"
+  ],
+  "newton-leviticus": [
+   "thoughtsonparts01newtgoog",
+   "Thoughts on Parts of Leviticus (London: Partridge and Oakey, 1852)"
+  ],
+  "newton-apocalypse": [
+   "thoughtsonapocal00newtrich",
+   "Thoughts on the Apocalypse (London: Houlston and Sons; year read as 1853, which the imprint makes doubtful)"
+  ],
+  "newton-romans-greek": [
+   "bwb_P9-DAK-936",
+   "Notes Expository of the Greek of the First Chapter of the Romans (London: Houlston and Stoneman, 1856)"
+  ],
+  "newton-court-of-arches": [
+   "judgmentcourtar00newtgoog",
+   "The Judgment of the Court of Arches and of the Privy Council in the Case of Rowland Williams Considered (London: Houlston & Wright, 1866)"
+  ],
+  "newton-popery": [
+   "doctrinepopery00newtuoft",
+   "Doctrines of Popery (London: Houlston & Wright, 1867)"
+  ],
+  "newton-isaiah-1": [
+   "thoughtsonparts00newtgoog",
+   "Thoughts on Parts of the Prophecy of Isaiah, part 1 (London: Houlston & Wright, 1868)"
+  ],
+  "newton-scriptural-subjects": [
+   "thoughtsonscrip00newtgoog",
+   "Thoughts on Scriptural Subjects (London: Houlston & Sons, 1871)"
+  ],
+  "newton-ten-kingdoms": [
+   "prospectstenkin00newtgoog",
+   "Prospects of the Ten Kingdoms of the Roman Empire, second edition revised (London: Houlston and Sons, 1873)"
+  ],
+  "newton-atonement": [
+   "atonementandits00newtgoog",
+   "Atonement and its Results (London: Houlston & Sons, 1882)"
+  ],
+  "newton-mosaic-cosmogony": [
+   "remarksonmosiac00goodgoog",
+   "Remarks on 'Mosaic Cosmogony', the fifth of the Essays and Reviews (London: Houlston and Sons, 1882)"
+  ],
+  "newton-gospel-truths": [
+   "gospeltruths00newtuoft",
+   "Gospel Truths (London: Houlston & Sons, 1885)"
+  ],
+  "newton-ot-narratives": [
+   "worksbenjaminwi02unkngoog",
+   "Narratives from the Old Testament (London: C. M. Tucker; title page 1886, a later reissue; library accession 1927)"
+  ],
+  "newton-babylon": [
+   "worksbenjaminwi01newtgoog",
+   "Babylon: Its Future History and Doom, third edition (London: C. M. Tucker; title page 1890, a later reissue; library accession 1927)"
+  ],
+  "newton-propositions": [
+   "worksbenjaminwi00unkngoog",
+   "Propositions for the Solemn Consideration of Christians, fourth edition (London: C. M. Tucker; title page 1892, a later reissue; library accession 1927)"
+  ],
+  "newton-baptism": [
+   "worksbenjaminwi00newtgoog",
+   "The Doctrine of Scripture Respecting Baptism Briefly Considered, second edition (London: C. M. Tucker; no year on title page; library accession 1927)"
+  ]
+ },
+ "_alternates": {
+  "newton-copies": "Third edition of Aids (catalogued 1881); Tucker reissues of Isaiah, Mosaic Cosmogony, Gospel Truths (1901) and the Apocalypse (catalogued 1904)"
+ },
+ "_excluded": {
+  "newton-late": "1955 Ten Kingdoms",
+  "newton-namesake": "CCEL newton: John Newton"
+ },
+ "_identity_checked": {
+  "newton-aids-prophetic": {
+   "author": "title page read: 'By B. W. Newton' (OCR 'B. W, NEWTON'), London: James Nisbet, 1848"
+  },
+  "newton-court-of-arches": {
+   "author": "title page read: 'By Benjamin Wills Newton, Formerly Fellow' (OCR 'JfEWTON')"
+  }
+ },
+ "_pending": {
+  "newton-sgat": "Sovereign Grace Advent Testimony reissues (Chiswick W.4 address, after 1917; printing year unknown): Romans I-II, Occasional Papers no. 4, David the King of Israel, Remarks on the Revised Version, Song of Solomon",
+  "newton-no-title-page": "Occasional Papers no. 3 (catalogued 1861) and Europe and the East (catalogued 1878): title pages missing from OCR"
+ },
+ "_checks": {
+  "newton-aids-prophetic": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-leviticus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. w. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. w. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-romans-greek": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newton-court-of-arches": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-popery": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-isaiah-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. w. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-scriptural-subjects": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. w. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-ten-kingdoms": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-mosaic-cosmogony": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-gospel-truths": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-ot-narratives": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. w. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-babylon": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-propositions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. w. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newton-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin wills newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

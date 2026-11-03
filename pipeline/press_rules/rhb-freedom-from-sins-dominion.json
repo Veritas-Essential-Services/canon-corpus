@@ -1,0 +1,18 @@
+{
+ "supplied": [
+  {
+   "find": " Inclinati[⟨•⟩]{.gap}ns ",
+   "replace": " Inclinati[o]{.supplied}ns ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": "*intern[⟨•⟩⟨•⟩]{.gap} ",
+   "replace": "*intern[al]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

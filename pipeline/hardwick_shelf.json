@@ -1,0 +1,45 @@
+{
+ "_about": "Charles Hardwick's Traditions, Superstitions and Folk-lore, Chiefly Lancashire and the North of England (1872), which sets local legend and custom beside their parallels elsewhere. Gutenberg catalogue: Hardwick 1817-1889. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Charles Hardwick",
+ "_name_words": [
+  "lancashire"
+ ],
+ "_surname": [
+  "charles hardwick"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hardwick-traditions-superstitions-and-folk-lore": [
+   39934,
+   "Traditions, Superstitions and Folk-lore",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVX]+\\.$|INDEX\\.$",
+      "strip": "\\.$"
+     },
+     {
+      "re": "(?!CHAPTER )[A-Z\"][^a-z]*$",
+      "max": 160,
+      "strip": "\\.$|:$"
+     }
+    ],
+    "start": "TRADITIONS, SUPERSTITIONS, AND FOLK-LORE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hardwick-traditions-superstitions-and-folk-lore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles hardwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

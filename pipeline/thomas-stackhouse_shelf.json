@@ -1,0 +1,194 @@
+{
+ "_about": "Public-domain Thomas Stackhouse, vicar of Beenham, Berkshire, for the Word Hoard: A New History of the Holy Bible, A Complete Body of Divinity, A Defence of the Christian Religion, A Fair State of the Controversy between Mr. Woolston and his Adversaries, A New and Practical Exposition of the Apostles' Creed, The Life of Our Lord and Saviour, A System of Practical Duties, and his Reflections on the Nature of Languages. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 128 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas stackhouse",
+  "t. stackhouse",
+  "stackhouse"
+ ],
+ "_surname": [
+  "stackhouse"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stackhouse-honour-dignity": [
+   "bim_eighteenth-century_the-honour-and-dignity-o_stackhouse-thomas_1726",
+   "The honour and dignity of the true ministers of Christ. In a sermon preach'd at Richmond, in the county of Surrey, on the 22d day of May, 1726. Being the Sunday after the decease of the Reverend Dr. Brady. By Tho. Stackhouse, A.M.  1726 (catalogued 1726)"
+  ],
+  "stackhouse-woolston-controversy": [
+   "fairstateofcontr00stac",
+   "Fair state of the controversy between Mr. Woolston and his adversaries : containing the substance of what he asserts in his six dsocourses against the literal sense of our Blessed Saviour's miracles (London : Printed for Edward Symon, 1730)"
+  ],
+  "stackhouse-languages": [
+   "bim_eighteenth-century_reflections-on-the-natur_stackhouse-thomas_1731",
+   "Reflections on the nature and property of languages in general, and on the advantages, defects, and manner of improving the English tongue in particular. By the Reverend Mr. Thomas Stackhouse, ...  1731 (catalogued 1731)"
+  ],
+  "stackhouse-history-of-bible": [
+   "newhistoryofholy0001stac",
+   "A new history of the Holy Bible : from the beginning of the world, to the establishment of Christianity : With answers to most of the controverted questions, dissertations upon the most remarkable passages, and a connection of profane history all along. : To which are added, notes explaining difficult texts, rectifying mis-translations, and reconciling seeming contradictions : The whole illustrated with proper maps and sculptures, vol. 1 (London : Printed and sold, for the author, at J. Huggonson's ..., 1733)"
+  ],
+  "stackhouse-defence": [
+   "bim_eighteenth-century_a-defence-of-the-christi_stackhouse-thomas_1733",
+   "A defence of the Christian religion from the several objections of modern antiscripturists. ... In which is included the whole state of the controversy between Mr. Woolston and his adversaries. By the Reverend Mr. Thomas Stackhouse, ...  1733 (catalogued 1733)"
+  ],
+  "stackhouse-apostles-creed": [
+   "bim_eighteenth-century_a-new-and-practical-expo_stackhouse-thomas_1747",
+   "A new and practical exposition of the Apostles Creed, Wherein each article is fully explained, ... Together with an introduction containing a short historical account of the design and origin of creeds. By Thomas Stackhouse, ...  1747 (catalogued 1747)"
+  ],
+  "stackhouse-vana-doctrinae": [
+   "bim_eighteenth-century_vana-doctrin-emolumenta_stackhouse-thomas_1752",
+   "Vana doctrinæ emolumenta, et varia studiorum incommoda. In sermonem breviter digesta et versu hexametro exarata. A tenuis parochiæ vicario, ... T. S.  1752 (catalogued 1752)"
+  ],
+  "stackhouse-life-of-our-lord": [
+   "bim_eighteenth-century_the-life-of-our-lord-and_stackhouse-thomas_1754",
+   "The life of Our Lord and Saviour Jesus Christ. With the lives of the apostles and evangelists. Containing, I. The genealogy of our Lord ... II. Of the birth, life, imprisonment, and death of the Messiah's great fore-runner, John the Baptist. III. The calling of the twelve apostles ... IV. Of their travels ... By the Rev. Thomas Stackhouse, ...  1754 (catalogued 1754)"
+  ],
+  "stackhouse-practical-duties": [
+   "bim_eighteenth-century_a-system-of-practical-du_stackhouse-thomas_1760",
+   "A system of practical duties, moral and evangelical. By the Rev. Thomas Stackhouse, ...  1760 (catalogued 1760)"
+  ],
+  "stackhouse-body-of-divinity-1743": [
+   "bim_eighteenth-century_a-compleat-body-of-specu_stackhouse-thomas_1743",
+   "A compleat body of speculative and practical divinity, consisting of five parts (catalogued 1743)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "stackhouse-translations": "German and French translations",
+  "stackhouse-other-editions": "the 1743 and 1760 Body of Divinity and a second Woolston scan",
+  "stackhouse-greek-grammar": "his Greek grammar, a school book",
+  "stackhouse-body-of-divinity": "completebodyofdi00stac: a partial scan that begins in Part III with no title page; the 1743 ECCO copy is taken instead"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "stackhouse-woolston-controversy": {
+   "author": "OCR of the title page: \"A Fair State OF THE CONTROVERSY BETWEEN Mr. WOOLSTON AND HIS ADVERSARIES ... By the Reverend Mr. Tho. Stackhouse. Author of the Compleat Body of Divinity.\"",
+   "title": "OCR of the title page: \"A Fair State OF THE CONTROVERSY BETWEEN Mr. WOOLSTON AND HIS ADVERSARIES ... By the Reverend Mr. Tho. Stackhouse. Author of the Compleat Body of Divinity.\""
+  },
+  "stackhouse-life-of-our-lord": {
+   "author": "Title page read from the page image: \"The Life of our Lord and Saviour Jesus Christ. With the Lives of the Apostles and Evangelists ... By the Rev. Thomas Stackhouse, A.M. Late Vicar of Beenham, in Berkshire. London ... MDCCLIV.\"",
+   "title": "Title page read from the page image: \"The Life of our Lord and Saviour Jesus Christ. With the Lives of the Apostles and Evangelists ... By the Rev. Thomas Stackhouse, A.M. Late Vicar of Beenham, in Berkshire. London ... MDCCLIV.\""
+  }
+ },
+ "_pending": {
+  "stackhouse-atterbury": "Memoirs of the Life and Conduct of Dr. Francis Atterbury (1723), IA memoirsoflifecon00stac: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "stackhouse-woolston-life": "The Life of Mr. Woolston (1733), IA bub_gb_aw_qv0upwTAC: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "stackhouse-inferiour-clergy": "The miseries and great hardships of the inferiour clergy, in and about London. And a modest plea for their rights, and better usage; ... By a clergyman of the Church of England.  1722 (catalogued 1722) (IA bim_eighteenth-century_the-miseries-and-great-h_stackhouse-thomas_1722): signed only \"By a Clergyman of the Church of England\" (a later hand wrote \"T. Stackhouse\" above); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "stackhouse-honour-dignity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-woolston-controversy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1730",
+   "ia_date": "1730",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stackhouse-languages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1731",
+   "ia_date": "1731",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-history-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-defence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-apostles-creed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-vana-doctrinae": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-life-of-our-lord": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-practical-duties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stackhouse-body-of-divinity-1743": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stackhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

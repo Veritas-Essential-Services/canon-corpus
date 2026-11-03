@@ -1,0 +1,32 @@
+{
+ "_about": "William Thomas Arnold (1852-1904): The Roman System of Provincial Administration to the Accession of Constantine the Great, the Arnold Prize Essay for 1879 (Macmillan, 1879), raw IA OCR. The later editions revised by Shuckburgh (1906) and Bouchier (1914) are not taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "arnold"
+ ],
+ "_surname": [
+  "w. t. arnold",
+  "william thomas arnold",
+  "arnold, w. t"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-t-arnold-roman-provincial-administration-1879": [
+   "romansystemofpro00arnoiala",
+   "The Roman System of Provincial Administration to the Accession of Constantine the Great (Macmillan, 1879)"
+  ]
+ },
+ "_checks": {
+  "w-t-arnold-roman-provincial-administration-1879": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. t. arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

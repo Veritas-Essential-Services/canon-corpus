@@ -1,0 +1,117 @@
+{
+ "_about": "Sallust in English: J. S. Watson (Bohn), the Catiline and the Jugurthine War, clean Gutenberg. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_name_words": [
+  "sallust",
+  "catiline",
+  "jugurthine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sallust-watson": [
+   7990,
+   "Conspiracy of Catiline and the Jugurthine War",
+   "tr. J. S. Watson (Bohn)"
+  ]
+ },
+ "internet_archive": {
+  "sallust-rolfe": [
+   "sallustsa00sall",
+   "Sallust (Loeb, 1921)",
+   "tr. J. C. Rolfe"
+  ],
+  "sallust-gordon-1744": [
+   "worksofsallusttr00sall",
+   "The Works of Sallust, translated into English, with political discourses, and Cicero's four orations against Catiline (London: R. Ware, 1744)",
+   "tr. Thomas Gordon"
+  ],
+  "sallust-rose-1830": [
+   "sallusttrbywros00crisgoog",
+   "Sallust, translated by W. Rose, with improvements and notes (Valpy's Family Classical Library, 1830)",
+   "tr. William Rose (revised)"
+  ],
+  "sallust-pollard-1882": [
+   "catilinejugurtha00sallrich",
+   "The Catiline and Jugurtha of Sallust translated into English (Macmillan, 1882)",
+   "tr. Alfred W. Pollard"
+  ]
+ },
+ "_excluded": {},
+ "_surname": [
+  "sallust",
+  "sallustius"
+ ],
+ "_translators": {
+  "sallust-watson": "J. S. Watson",
+  "sallust-rolfe": "J. C. Rolfe",
+  "sallust-gordon-1744": "T. Gordon",
+  "sallust-rose-1830": "William Rose",
+  "sallust-pollard-1882": "alfred w. pollard"
+ },
+ "_checks": {
+  "sallust-watson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "J. S. Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. S. Watson",
+   "translator_match": true
+  },
+  "sallust-rolfe": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "J. C. Rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sallust-gordon-1744": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "T. Gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "[1744?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sallust-rose-1830": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "William Rose",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sallust-pollard-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "alfred w. pollard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

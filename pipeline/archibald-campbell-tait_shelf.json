@@ -1,0 +1,207 @@
+{
+ "_about": "Public-domain Archibald Campbell Tait (1811-1882), headmaster of Rugby, Bishop of London and Archbishop of Canterbury, for the Word Hoard: Suggestions offered to the Theological Student, The Dangers and Safeguards of Modern Theology, The Word of God and the Ground of Faith, his letter to the archdeacons, The Present Condition of the Church of England, Some Thoughts on the Duties of the Established Church, The Church and Law, The Church of the Future, his pastoral letter, and Catharine and Craufurd Tait. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 104 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "archibald campbell tait",
+  "a. c. tait",
+  "tait",
+  "a. c. london",
+  "a. c. cantuar"
+ ],
+ "_surname": [
+  "archibald campbell tait",
+  "a. c. tait",
+  "tait",
+  "a. c. london",
+  "a. c. cantuar"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tait-suggestions": [
+   "suggestionsoffer00tait",
+   "Suggestions offered to the theological student, under present difficulties : five discourses preached before the University of Oxford (London : John Murray, 1846)"
+  ],
+  "tait-dangers-safeguards": [
+   "dangerssafeguard00tait",
+   "Dangers and safeguards of modern theology : containing suggestions offered to the theological student under present difficulties (London : John Murray, 1861)"
+  ],
+  "tait-letter-archdeacons": [
+   "a626062800taituoft",
+   "A letter to the Ven. Archdeacons Hale and Sinclair : being the Bishop of London's reply to an address from a large body of his clergy on the subject of subscription to formularies (London : J. Murray, 1863)"
+  ],
+  "tait-word-of-god": [
+   "a626054700taituoft",
+   "The Word of God and the ground of faith : six discourses (London : J. Murray, 1863)"
+  ],
+  "tait-present-condition": [
+   "thepresentcondit00taituoft",
+   "The present condition of the Church of England (London : Macmillan, 1872)"
+  ],
+  "tait-national-church": [
+   "somethoughtsond00taitgoog",
+   "Some thoughts on the duties of the established Church of England as a national Church, 7 (Macmillan, 1876)"
+  ],
+  "tait-church-and-law": [
+   "churchlawletteri00tait",
+   "The church and law : a letter in answer to the Rev. Canon Carter of Clewer : to which is appended a sermon preached at St. Margaret's, Westminster, vol. Talbot collection of British pamphlets (London : Macmillan and Co., 1877)"
+  ],
+  "tait-spg-address": [
+   "addressofpreside00tait",
+   "Address of the president, the Lord Archbishop of Canterbury, at a meeting of the Society for Training Teachers of the Deaf and diffusion of the \"German\" system in the United Kingdom, held by His Grace's permission in the Library, Lambeth Palace, June 28th, 1877, vol. Talbot collection of British pamphlets. ([London : James Martin, printer, 9, Lisson Grove, N.W., 1877)"
+  ],
+  "tait-pastoral-letter": [
+   "pastoralletterof00chur",
+   "Pastoral letter of the Archbishop of Canterbury : on the national church and the work of the church defence institution, vol. Talbot Collection of British Pamphlets ([s.l. : s.n., 1881)"
+  ],
+  "tait-church-of-future": [
+   "churchoffuture00tait",
+   "The church of the future (New York, Macmillan, 1881)"
+  ],
+  "tait-catharine-craufurd": [
+   "catharinecraufur00tait",
+   "Catharine and Craufurd Tait, wife and son of Archibald Cambpell, archbishop of Canterbury : a memoir (London : Macmillan and co., 1879)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "tait-correspondence": "Correspondence with Francis H. Murray and others (two-sided)",
+  "tait-letters-to": "Letters addressed to the archbishop by others (Indian missions, cathedral reform)",
+  "tait-lambeth": "Lambeth Conference encyclical (many bishops)",
+  "tait-church-extension": "difficultiesofch00tait: a letter TO the Bishop of London by a lay member of the London Diocesan Church Building Society, not by Tait",
+  "tait-charge-1862": "chargedeliveredi00tait: the scan opens with Alfred Ollivant's 1860 Llandaff charge (a bound volume of several charges); not safely Tait's alone",
+  "tait-spiritual-wants": "spiritualwantsof00tait: missionaries' letters on the foreign parts of the Empire, not Tait's own text"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "tait-word-of-god": "Title page (OCR): 'The Word of God and the Ground of Faith. Six Discourses, [by] Archibald Campbell, Lord Bishop of London. London: John Murray... 1863.' (a bishop signing with his see; Tait was Bishop of London 1856-1868)",
+  "tait-national-church": "Title page (OCR): 'Some Thoughts on the Duties of the Established Church of England as a National Church. Seven addresses delivered at his second visitation [by] Archibald Campbell, Archbishop of Canterbury. Macmillan and Co. 1876.' (an archbishop signing with his see; Tait held Canterbury 1868-1882)",
+  "tait-spg-address": "Title page (OCR): 'Address of the President, the Lord Archbishop of Canterbury, at a meeting of the Society for Training Teachers of the Deaf' (catalogued 1877, when Tait was archbishop)",
+  "tait-church-of-future": "Title page (OCR): 'The Church of the Future... By Archibald Campbell, Archbishop of Canterbury. New York: Macmillan and Co., 1881.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tait-suggestions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tait",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-dangers-safeguards": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. london",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-letter-archdeacons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. london",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-word-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-present-condition": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tait",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-national-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-church-and-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. cantuar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-spg-address": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-pastoral-letter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. cantuar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-church-of-future": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tait-catharine-craufurd": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. tait",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

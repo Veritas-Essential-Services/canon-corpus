@@ -1,0 +1,358 @@
+{
+ "_about": "Francis Lynde's railroad and Western adventure novels and boys' books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Francis Lynde",
+ "_name_words": [
+  "francis",
+  "lynde"
+ ],
+ "_surname": [
+  "francis lynde",
+  "lynde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "flynde-fool-for-love": [
+   8073,
+   "A Fool for Love"
+  ],
+  "flynde-grafters": [
+   11418,
+   "The Grafters"
+  ],
+  "flynde-taming-of-red-butte-western": [
+   14844,
+   "The Taming of Red Butte Western"
+  ],
+  "flynde-honorable-senator-sage-brush": [
+   16573,
+   "The Honorable Senator Sage-Brush"
+  ],
+  "flynde-empire-builders": [
+   16630,
+   "Empire Builders"
+  ],
+  "flynde-quickening": [
+   17357,
+   "The Quickening"
+  ],
+  "flynde-master-of-appleby-a-novel-tale-concerning-itself-in-p": [
+   17690,
+   "The Master of Appleby A Novel Tale Concerning Itself in Part with the Great Struggle in the Two Carolinas; but Chiefly with the Adventures Therein of Two Gentlemen Who Loved One and the Same Lady"
+  ],
+  "flynde-price": [
+   19462,
+   "The Price"
+  ],
+  "flynde-branded": [
+   19472,
+   "Branded"
+  ],
+  "flynde-king-of-arcadia": [
+   33306,
+   "The King of Arcadia"
+  ],
+  "flynde-romance-in-transit": [
+   33399,
+   "A Romance in Transit"
+  ],
+  "flynde-stranded-in-arcady": [
+   34009,
+   "Stranded in Arcady"
+  ],
+  "flynde-real-man": [
+   36869,
+   "The Real Man"
+  ],
+  "flynde-city-of-numbered-days": [
+   37249,
+   "The City of Numbered Days"
+  ],
+  "flynde-wreckers": [
+   38846,
+   "The Wreckers"
+  ],
+  "flynde-helpers": [
+   45133,
+   "The Helpers"
+  ],
+  "flynde-pirates-hope": [
+   45141,
+   "Pirates' Hope"
+  ],
+  "flynde-dick-and-larry": [
+   63499,
+   "Dick and Larry: Freshmen"
+  ],
+  "flynde-after-the-manner-of-men": [
+   66631,
+   "After the Manner of Men"
+  ],
+  "flynde-david-vallory": [
+   66754,
+   "David Vallory"
+  ],
+  "flynde-scientific-sprague": [
+   67748,
+   "Scientific Sprague"
+  ],
+  "flynde-mr-arnold": [
+   69849,
+   "Mr. Arnold: A romance of the Revolution"
+  ],
+  "flynde-private-chivalry": [
+   72849,
+   "A private chivalry"
+  ],
+  "flynde-tenderfoots": [
+   73462,
+   "The tenderfoots"
+  ],
+  "flynde-donovan-chance": [
+   74848,
+   "The Donovan chance"
+  ],
+  "flynde-golden-spider": [
+   75002,
+   "The golden spider"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "flynde-fool-for-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-grafters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-taming-of-red-butte-western": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-honorable-senator-sage-brush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-empire-builders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-quickening": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-master-of-appleby-a-novel-tale-concerning-itself-in-p": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-price": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-branded": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-king-of-arcadia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-romance-in-transit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-stranded-in-arcady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-real-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-city-of-numbered-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-wreckers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-helpers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-pirates-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-dick-and-larry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-after-the-manner-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-david-vallory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-scientific-sprague": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-mr-arnold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-private-chivalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-tenderfoots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-donovan-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flynde-golden-spider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis lynde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

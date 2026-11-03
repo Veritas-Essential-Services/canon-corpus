@@ -1,0 +1,36 @@
+{
+ "_about": "Wilhelm von Humboldt (1767-1835): The Sphere and Duties of Government, translated from the German by Joseph Coulthard (London: John Chapman, 1854), raw IA OCR; the book Mill drew on for On Liberty. Not his brother Alexander, whose travels sit on Lane C translator shelves. US public domain. No uids minted.",
+ "_author": "Wilhelm von Humboldt",
+ "_name_words": [
+  "wilhelm",
+  "humboldt",
+  "baron"
+ ],
+ "_surname": [
+  "humboldt",
+  "von humboldt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "humboldt-coulthard-sphere-and-duties-of-government-1854": [
+   "spheredutiesofgo00humb",
+   "The Sphere and Duties of Government (London: John Chapman, 1854)",
+   "tr. Joseph Coulthard"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "humboldt-coulthard-sphere-and-duties-of-government-1854": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "humboldt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

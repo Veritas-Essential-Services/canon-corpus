@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain James Hudson Taylor (1832-1905, founder of the China Inland Mission) for the Word Hoard: China: its Spiritual Need and Claims, in its third edition (London: Nisbet, 1868) and seventh edition (London: Morgan & Scott, 1887), from Internet Archive scans. His later booklets survive only in undated printings and are held as pending. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hudson taylor"
+ ],
+ "_surname": [
+  "hudson taylor",
+  "j. hudson taylor",
+  "james hudson taylor"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hudson-taylor-china-need-1868": [
+   "b29353518",
+   "China: its Spiritual Need and Claims, third edition (London: James Nisbet; W. Partridge, 1868)"
+  ],
+  "hudson-taylor-china-need-1887": [
+   "cu31924023067972",
+   "China's Spiritual Need and Claims, seventh edition (London: Morgan & Scott, 1887)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {
+  "hudson-taylor-undated": "A Retrospect (PG 26744), Union and Communion (PG 26172), Separation and Service (PG 26384) and A Ribband of Blue (PG 23438): their title pages carry no year, and the CCEL Union and Communion records impressions to July 1929, so a pre-1930 printing is not proven"
+ },
+ "_translators": {},
+ "_checks": {
+  "hudson-taylor-china-need-1868": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hudson taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hudson-taylor-china-need-1887": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hudson taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

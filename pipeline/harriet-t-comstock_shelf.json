@@ -1,0 +1,163 @@
+{
+ "_about": "Harriet T. Comstock's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Harriet T. Comstock",
+ "_name_words": [
+  "comstock",
+  "harriet"
+ ],
+ "_surname": [
+  "harriet t. comstock",
+  "comstock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "htcomstock-man-thou-gavest": [
+   14858,
+   "The Man Thou Gavest"
+  ],
+  "htcomstock-then-marched-the-brave": [
+   16156,
+   "Then Marched the Brave"
+  ],
+  "htcomstock-shield-of-silence": [
+   18225,
+   "The Shield of Silence"
+  ],
+  "htcomstock-place-beyond-the-winds": [
+   18488,
+   "The Place Beyond the Winds"
+  ],
+  "htcomstock-joyce-of-the-north-woods": [
+   19225,
+   "Joyce of the North Woods"
+  ],
+  "htcomstock-son-of-the-hills": [
+   20424,
+   "A Son of the Hills"
+  ],
+  "htcomstock-janet-of-the-dunes": [
+   22998,
+   "Janet of the Dunes"
+  ],
+  "htcomstock-at-the-crossroads": [
+   30095,
+   "At the Crossroads"
+  ],
+  "htcomstock-little-dusky-hero": [
+   31366,
+   "A Little Dusky Hero"
+  ],
+  "htcomstock-mamselle-jo": [
+   49361,
+   "Mam'selle Jo"
+  ],
+  "htcomstock-molly-the-drummer-boy": [
+   62589,
+   "Molly, the Drummer Boy: A Story of the Revolution"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "htcomstock-man-thou-gavest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-then-marched-the-brave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-shield-of-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-place-beyond-the-winds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-joyce-of-the-north-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-son-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-janet-of-the-dunes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-at-the-crossroads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-little-dusky-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-mamselle-jo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htcomstock-molly-the-drummer-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet t. comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

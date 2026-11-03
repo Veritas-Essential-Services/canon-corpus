@@ -1,0 +1,131 @@
+{
+ "_about": "Sabine Baring-Gould's (1834-1924) books of legend and lore: Curious Myths of the Middle Ages, The Book of Were-Wolves, A Book of Ghosts, Legends of Old Testament Characters (London, 1871), and Grettir the Outlaw retold for boys. His Lives of the Saints, novels, sermons and travel books are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Sabine Baring-Gould",
+ "_name_words": [
+  "baring"
+ ],
+ "_surname": [
+  "s. baring-gould",
+  "sabine baring-gould",
+  "baring-gould"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baring-gould-curious-myths-of-the-middle-ages": [
+   36127,
+   "Curious Myths of the Middle Ages",
+   {
+    "contents_only": true
+   }
+  ],
+  "baring-gould-book-of-were-wolves": [
+   5324,
+   "The Book of Were-Wolves",
+   {
+    "levels": [
+     {
+      "re": "(?i:chapter) [IVXL]+\\. .*$",
+      "strip": "\\.$",
+      "max": 120
+     }
+    ],
+    "start": "CHAPTER I\\. INTRODUCTORY\\.$",
+    "front": true
+   }
+  ],
+  "baring-gould-book-of-ghosts": [
+   36638,
+   "A Book of Ghosts",
+   {
+    "levels": [
+     {
+      "re": "(?:JEAN\\ BOUCHON|POMPS\\ AND\\ VANITIES|McALISTER|THE\\ LEADEN\\ RING|THE\\ MOTHER\\ OF\\ PANSIES|THE\\ RED\\-HAIRED\\ GIRL|A\\ PROFESSIONAL\\ SECRET|H\\.\\ P\\.|GLÁMR|COLONEL\\ HALIFAX'S\\ GHOST\\ STORY|THE\\ MEREWIGS|THE\\ \"BOLD\\ VENTURE\"|MUSTAPHA|LITTLE\\ JOE\\ GANDER|A\\ DEAD\\ FINGER|BLACK\\ RAM|A\\ HAPPY\\ RELEASE|THE\\ 9\\.30\\ UP\\-TRAIN|ON\\ THE\\ LEADS|AUNT\\ JOANNA|THE\\ WHITE\\ FLAG|LIST\\ OF\\ ILLUSTRATIONS|A\\ BOOK\\ OF\\ GHOSTS)$",
+      "strip": "\\.$",
+      "label": {
+       "LIST OF ILLUSTRATIONS$": "list of illustrations",
+       "A BOOK OF GHOSTS$": "half-title"
+      }
+     }
+    ],
+    "start": "LIST OF ILLUSTRATIONS$",
+    "front": true
+   }
+  ],
+  "baring-gould-grettir-the-outlaw": [
+   48622,
+   "Grettir the Outlaw: A Story of Iceland"
+  ],
+  "baring-gould-legends-of-old-testament-characters": [
+   72268,
+   "Legends of Old Testament Characters, from the Talmud and Other Sources",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+\\. [A-Z][^a-z]*$",
+      "strip": "\\.?(?:\\[\\d+\\])?\\.?$",
+      "max": 120
+     },
+     {
+      "re": "\\d+\\. [A-Z][^a-z]*$",
+      "strip": "\\.?(?:\\[\\d+\\])?\\.?$",
+      "max": 120
+     }
+    ],
+    "start": "I\\. THE FALL OF THE ANGELS\\.?(?:\\[\\d+\\])?\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "baring-gould-lives-of-the-saints": "The Lives of the Saints (16 vols; Gutenberg holds some months): a saints' calendar on the scale of Lane A's divines; left for Adam to place",
+  "baring-gould-legends-of-the-patriarchs-and-prophets": "Legends of the Patriarchs and Prophets (PG 48736, New York, 1881): the American printing of Legends of Old Testament Characters. 87% of its paragraphs are word-for-word in the 1871 London edition (PG 72268), which is kept in its place; held once (2026-10-03)."
+ },
+ "_checks": {
+  "baring-gould-curious-myths-of-the-middle-ages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "s. baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-book-of-were-wolves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "s. baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-book-of-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "s. baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-grettir-the-outlaw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "s. baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-legends-of-old-testament-characters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "s. baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

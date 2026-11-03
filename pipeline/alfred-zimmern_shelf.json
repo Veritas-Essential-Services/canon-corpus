@@ -1,0 +1,50 @@
+{
+ "_about": "Sir Alfred Eckhard Zimmern (1879-1957), classicist and theorist of international relations. Not Helen Zimmern (shelf helen-zimmern). He died in 1957, but both books here were published before 1930. Raw IA OCR: The Greek Commonwealth, politics and economics in fifth-century Athens (Oxford: Clarendon Press, 1911); Nationality and Government, with other war-time essays, new edition (London: Chatto and Windus, 1919). Project Gutenberg's The War and Democracy (PG 10668) is a multi-author volume and is not taken. US public domain. No uids minted.",
+ "_author": "Alfred Zimmern",
+ "_name_words": [
+  "alfred",
+  "eckhard",
+  "zimmern"
+ ],
+ "_surname": [
+  "zimmern",
+  "alfred zimmern"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zimmern-greek-commonwealth-1911": [
+   "greekcommonwealt00zimm",
+   "The Greek Commonwealth (Clarendon Press, 1911)"
+  ],
+  "zimmern-nationality-and-government-1919": [
+   "nationalitygover00zimmuoft",
+   "Nationality and Government (Chatto and Windus, 1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "zimmern-greek-commonwealth-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zimmern",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zimmern-nationality-and-government-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zimmern",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

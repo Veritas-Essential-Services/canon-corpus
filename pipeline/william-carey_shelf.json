@@ -1,0 +1,43 @@
+{
+ "_about": "Public-domain William Carey (1761-1834, Baptist missionary to India) for the Word Hoard: An Enquiry into the Obligations of Christians, to use Means for the Conversion of the Heathens (Leicester, 1792), from Project Gutenberg's transcription of the 1792 edition. His grammars, dictionaries and Bible translations are language work and are left off. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "carey"
+ ],
+ "_surname": [
+  "william carey",
+  "carey, william",
+  "w. carey",
+  "william carey, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "carey-enquiry": [
+   "11449",
+   "An Enquiry into the Obligations of Christians, to use Means for the Conversion of the Heathens (Leicester, MDCCXCII)"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "carey-enquiry-scans": "Scans of the Enquiry: the 1792 first edition (IA bim_eighteenth-century_an-enquiry-into-the-obli_carey-william_1792, long-s OCR), London: Button and Son, 1818 (enquiryintooblig00care), and the Hodder and Stoughton facsimile of about 1891 with another hand's introduction (pts_enquiryintotheobligations_1687_2)"
+ },
+ "_excluded": {
+  "carey-memoir-translations": "Memoir relative to the Progress of the Translations (Serampore, 1816; memoirrelativeto00care): no author on the title page, a report of the Serampore mission",
+  "carey-language": "Grammars and dictionaries of Telinga, Sungskrit, Bengalee, Mahratta and Punjabee; Bengalee dialogues; the Bengali New Testament and the Ramayana: language work and translations",
+  "carey-botany": "Roxburgh's Flora Indica and Hortus Bengalensis, which he edited: botany by another author",
+  "carey-others": "Serampore Letters (edited by others, 1892), Eustace Carey's Memoir and George Smith's Life (CCEL smith_geo/carey, PG 2056): by other hands",
+  "carey-late": "Payne's 1961 facsimile (enquiryobligat00careuoft, catalogued 1792) and a 1988 reprint"
+ },
+ "_pending": {},
+ "_checks": {
+  "carey-enquiry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

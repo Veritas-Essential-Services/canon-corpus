@@ -1,0 +1,84 @@
+{
+ "_about": "Emma C. Dowd: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Emma C. Dowd",
+ "_name_words": [
+  "dowd",
+  "emma"
+ ],
+ "_surname": [
+  "emma c. dowd"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ecdowd-polly-and-the-princess": [
+   11259,
+   "Polly and the Princess"
+  ],
+  "ecdowd-polly-of-the-hospital-staff": [
+   15971,
+   "Polly of the Hospital Staff"
+  ],
+  "ecdowd-polly-of-lady-gay-cottage": [
+   29088,
+   "Polly of Lady Gay Cottage"
+  ],
+  "ecdowd-doodles-the-sunshine-boy": [
+   58164,
+   "Doodles, the Sunshine Boy"
+  ],
+  "ecdowd-when-polly-was-eighteen": [
+   58512,
+   "When Polly Was Eighteen"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ecdowd-polly-and-the-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma c. dowd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecdowd-polly-of-the-hospital-staff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma c. dowd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecdowd-polly-of-lady-gay-cottage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma c. dowd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecdowd-doodles-the-sunshine-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma c. dowd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecdowd-when-polly-was-eighteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma c. dowd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

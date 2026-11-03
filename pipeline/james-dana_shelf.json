@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain James Dana (1735-1812), Congregational minister of Wallingford and New Haven, Connecticut, for the Word Hoard: his two Examinations of Jonathan Edwards's Enquiry on Freedom of Will (1770, 1773), The African Slave Trade (1791), Two Discourses on the new year and new century (1801), a funeral sermon (1803) and Sermons to Young People (1806). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 89 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james dana",
+  "j. dana"
+ ],
+ "_surname": [
+  "james dana",
+  "j. dana"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jdana-examination-continued": [
+   "examinationoflat00dana_0",
+   "The \"Examination of the late Rev'd President Edwards's Enquiry on freedom of will,\" continued. Sec. I. On self-determination. II. On the influence of motives in moral volitions. III. On necessity. IV. On the origin of evil. V. On the connection between the nature and cause of volition. Sec. VI. Moral evil not best for the world. VII. On fore-knowledge. VIII. On texts of scripture misconstrued. IX. Objections considered. X. On metaphysical reasoning. XI. Recapitulation. To which are subjoined, strictures on the Rev'd Mr. West's \"Essay on moral agency,\" &c. By James Dana, D.D. Pastor of the First Church in Wallingford. [Four lines of quotations] (New-Haven : Printed by Thomas and Samuel Green, 1773)"
+  ],
+  "jdana-two-discourses": [
+   "twodiscoursesion00dana",
+   "Two discourses, I. On the commencement of a New Year: II. On the completion of the eighteenth century; delivered ([n.p.], 1801)"
+  ],
+  "jdana-marsh-sermon": [
+   "sermononmuchlame01dana",
+   "A sermon on the much lamented death of Mr. Ebenezer Grant Marsh, vol. c.1 (Hartford: Printed by Hudson & Goodwin, 1803)"
+  ],
+  "jdana-young-people": [
+   "sermonstoyoungpe00dana",
+   "Sermons to young people : preached A.D. 1803,1804 ... to which are added Prayers for young families (New Haven : From Sydney's Press, 1806)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "jdana-examination-edwards": "examinationoflat00dana: the 1770 Examination was printed without the author's name and its OCR never names Dana; attribution needs a cited source",
+  "jdana-slave-trade": "ASPC0005247700: OCR too garbled to show the author or read the text; needs re-OCR"
+ },
+ "_translators": {},
+ "_checks": {
+  "jdana-examination-continued": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james dana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdana-two-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james dana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jdana-marsh-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james dana",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdana-young-people": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james dana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

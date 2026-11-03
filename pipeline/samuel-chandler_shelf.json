@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain Samuel Chandler (1693-1766), Presbyterian minister at the Old Jewry, apologist, for the Word Hoard: A Vindication of the Christian Religion (1725), The History of Persecution (1736), A Vindication of the History of the Old Testament (1741), his Sermons (London 1768, four volumes) and A Critical History of the Life of David (1853 reprint), from Internet Archive scans. Added 2026-10-23 by lane A, round 46 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chandler"
+ ],
+ "_surname": [
+  "samuel chandler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chandler-vindication-christian-religion": [
+   "avindicationofch00chanuoft",
+   "A vindication of the Christian religion (London, Chandler, 1725)"
+  ],
+  "chandler-history-persecution": [
+   "historyofpersecu1736chan",
+   "The history of persecution : in four parts. Viz. I. Amongst the heathens. II. Under the Christian emperors. III. Under the papacy and Inquisition. IV. Amongst Protestants (London: : Printed for J. Gray..., 1736)"
+  ],
+  "chandler-vindication-ot-history": [
+   "vindicationofhis00chan",
+   "A vindication of the history of the Old Testament : in answer to the misrepresentations and calumnies of Thomas Morgan, M.D. and moral philosopher (London : Printed for J. Noon, at the White-Hart, 1741)"
+  ],
+  "chandler-sermons-1": [
+   "sermonsonfollowi01chan",
+   "Sermons on the following subjects, vol. 1 (London : Printed by Sam. Chandler, for the Author's Widow, 1768)"
+  ],
+  "chandler-sermons-2": [
+   "sermonsonfollowi02chan",
+   "Sermons on the following subjects, vol. 2 (London : Printed by Sam. Chandler, for the Author's Widow, 1768)"
+  ],
+  "chandler-sermons-3": [
+   "sermonsonfollowi03chan",
+   "Sermons on the following subjects, vol. 3 (London : Printed by Sam. Chandler, for the Author's Widow, 1768)"
+  ],
+  "chandler-sermons-4": [
+   "sermonsonfollowi04chan",
+   "Sermons on the following subjects, vol. 4 (London : Printed by Sam. Chandler, for the Author's Widow, 1768)"
+  ],
+  "chandler-life-of-david": [
+   "acriticalhistor00changoog",
+   "A critical history of the life of David (Oxford, The University press, 1853)"
+  ]
+ },
+ "_alternates": {
+  "chandler-copies": "The 1769 Sermons; the 1813 History of Persecution"
+ },
+ "_excluded": {
+  "chandler-other": "Sermons against Popery (1735), a collection by several Salters' Hall ministers"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "chandler-life-of-david": "title page text: 'A Critical History of the Life of David. By the Rev. S. Chandler, D.D. F.R. & A.S.S.' (Oxford reprint of 1853; the title page gives only his initial)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "chandler-vindication-christian-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel chandler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chandler-history-persecution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel chandler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1736",
+   "ia_date": "1736",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chandler-vindication-ot-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel chandler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chandler-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel chandler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chandler-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel chandler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chandler-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel chandler",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chandler-sermons-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel chandler",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chandler-life-of-david": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

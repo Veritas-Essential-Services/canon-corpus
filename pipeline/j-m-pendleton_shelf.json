@@ -1,0 +1,161 @@
+{
+ "_about": "Public-domain J. M. Pendleton (James Madison Pendleton, 1811-1891, Baptist, Landmark founder, later Upland, Pennsylvania) for the Word Hoard: 8 books from Internet Archive scans, 1853-1891: Three Reasons Why I Am a Baptist (1853, and the enlarged thirteenth edition of 1857), Thoughts on Christian Duty (1857), The Atonement of Christ (1877), Christian Doctrines (1878), Distinctive Principles of Baptists (1882), Notes of Sermons (1886) and Reminiscences of a Long Life (1891). Raw OCR. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "pendleton"
+ ],
+ "_surname": [
+  "j. m. pendleton",
+  "james madison pendleton",
+  "pendleton, j. m.",
+  "pendleton, james madison",
+  "rev. j. m. pendleton",
+  "j. m. pendleton, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pendleton-three-reasons-1853": [
+   "threereasonswhyi00pe",
+   "Three Reasons Why I Am a Baptist, twelfth thousand (Cincinnati: Moore, Anderson, 1853)"
+  ],
+  "pendleton-three-reasons-1857": [
+   "threereasonswhyi01pend",
+   "Three Reasons Why I Am a Baptist, with a Fourth Reason added, on Communion, thirteenth edition (Nashville: Graves, Marks, 1857)"
+  ],
+  "pendleton-christian-duty": [
+   "thoughtsonchrist0000pend",
+   "Thoughts on Christian Duty (Nashville: Graves, Marks; no year on title page, preface June 1857)"
+  ],
+  "pendleton-atonement": [
+   "MN40271ucmf_6",
+   "The Atonement of Christ (Philadelphia: American Baptist Publication Society; catalogued 1877)"
+  ],
+  "pendleton-christian-doctrines": [
+   "christiandoctrin00pend",
+   "Christian Doctrines: a Compendium of Theology (Philadelphia: American Baptist Publication Society; entered 1878)"
+  ],
+  "pendleton-distinctive-principles": [
+   "distinctiveprinc00pend",
+   "Distinctive Principles of Baptists (Philadelphia: American Baptist Publication Society; entered 1882)"
+  ],
+  "pendleton-notes-of-sermons": [
+   "notesofsermons00pend",
+   "Notes of Sermons (Philadelphia: American Baptist Publication Society; no year on title page, preface April 1886)"
+  ],
+  "pendleton-reminiscences": [
+   "reminiscencesofl00pend",
+   "Reminiscences of a Long Life (Louisville: Baptist Book Concern, 1891)"
+  ]
+ },
+ "_alternates": {
+  "pendleton-copies": "Second copies: christiandoctrin00pend_0, MN41875ucmf_8, reminiscencesofl01pend, Three Reasons (Louisville, catalogued 1903)"
+ },
+ "_excluded": {
+  "pendleton-other-hands": "Memoirs of William Vaughan and Life of Reuben Ross: biographies by others",
+  "pendleton-reprints": "1955 and 1966 reprints",
+  "pendleton-namesakes": "other Pendletons"
+ },
+ "_identity_checked": {
+  "pendleton-atonement": {
+   "author": "title page read: 'By Rev. J. M. Pendleton, D.D.' (OCR \"J'7 Mf PENDLETON\"), Philadelphia: American Baptist Publication Society"
+  }
+ },
+ "_rights_checked": {
+  "pendleton-christian-duty": "title page read: Graves, Marks, Nashville, no year; preface 3 June 1857; author died 1891"
+ },
+ "_pending": {
+  "pendleton-church-manual": "Church Manual (IA churchmanualdesi00pend, churchmanual0000jmpe_u9e6): American Baptist Publication Society at 1701-1703 Chestnut Street, a printing later than IA's 1867; no dated printing confirmed"
+ },
+ "_checks": {
+  "pendleton-three-reasons-1853": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. pendleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pendleton-three-reasons-1857": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. pendleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pendleton-christian-duty": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. pendleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Graves, Marks, Nashville, no year; preface 3 June 1857; author died 1891"
+  },
+  "pendleton-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pendleton-christian-doctrines": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. pendleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pendleton-distinctive-principles": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. pendleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pendleton-notes-of-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. pendleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pendleton-reminiscences": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. pendleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

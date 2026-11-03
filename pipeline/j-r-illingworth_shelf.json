@@ -1,0 +1,171 @@
+{
+ "_about": "Public-domain John Richardson Illingworth (1848-1915, Anglican philosophical theologian of the Lux Mundi circle) for the Word Hoard: 9 books from Internet Archive scans, among them Personality Human and Divine (Bampton Lectures, 1894), Divine Immanence (1898), Reason and Revelation (1902), The Doctrine of the Trinity (1907) and Divine Transcendence (1911). Written in English. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "illingworth"
+ ],
+ "_surname": [
+  "illingworth",
+  "j. r. illingworth",
+  "john richardson illingworth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "illingworth-personality": [
+   "personalityhuman189400illi",
+   "Personality Human and Divine, the Bampton Lectures for 1894 (London: Macmillan, 1894)"
+  ],
+  "illingworth-divine-immanence": [
+   "divineimmanence00illiuoft",
+   "Divine Immanence: an Essay on the Spiritual Significance of Matter (London: Macmillan, 1898)"
+  ],
+  "illingworth-reason-revelation": [
+   "reasonrevelation00illiiala",
+   "Reason and Revelation: an Essay in Christian Apology (London: Macmillan, 1902)"
+  ],
+  "illingworth-christian-character": [
+   "christiancharact00illiuoft",
+   "Christian Character: some Lectures on the Elements of Christian Ethics (London: Macmillan, 1905)"
+  ],
+  "illingworth-doctrine-trinity": [
+   "doctrineoftrinit00illiuoft",
+   "The Doctrine of the Trinity Apologetically Considered (London: Macmillan, 1907)"
+  ],
+  "illingworth-divine-transcendence": [
+   "divinetranscend00illiuoft",
+   "Divine Transcendence and its Reflection in Religious Authority (London: Macmillan, 1911)"
+  ],
+  "illingworth-gospel-miracles": [
+   "gospelmiracles0000jril",
+   "The Gospel Miracles: an Essay with Two Appendices (London: Macmillan, first edition April 1915)"
+  ],
+  "illingworth-college-sermons": [
+   "sermonspreachedi00illiuoft",
+   "Sermons preached in a College Chapel (London: Macmillan, 1881)"
+  ],
+  "illingworth-university-cathedral-sermons": [
+   "universitycathed00illiuoft",
+   "University and Cathedral Sermons (London: Macmillan, 1893)"
+  ]
+ },
+ "_alternates": {
+  "illingworth-copies": "Personality (1895 reprint with clean OCR, 1896), Divine Immanence (New York, 1898), Reason and Revelation (1903)"
+ },
+ "_excluded": {
+  "illingworth-about": "The Life and Work of John Richardson Illingworth (1917), edited by his wife",
+  "illingworth-other": "Sursum Corda (Frere and A. L. Illingworth) and other Illingworths"
+ },
+ "_identity_checked": {
+  "illingworth-college-sermons": {
+   "author": "title page read: 'RyILLINGWORTH, M.A. Fellow of Jesus College, and Tutor of Keble College, Oxford' (OCR garble of J. R. Illingworth), Macmillan, 1881"
+  },
+  "illingworth-personality": {
+   "author": "title page read: 'T. R.'lLLIXGWORTlI, MA.' (OCR garble of J. R. Illingworth), The Bampton Lectures for the year 1894, Macmillan, 1894"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "illingworth-personality": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "illingworth-divine-immanence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "illingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "illingworth-reason-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "illingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "illingworth-christian-character": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "illingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "illingworth-doctrine-trinity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "illingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "illingworth-divine-transcendence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "illingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "illingworth-gospel-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "illingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "illingworth-college-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "illingworth-university-cathedral-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "illingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

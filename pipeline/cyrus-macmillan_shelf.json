@@ -1,0 +1,40 @@
+{
+ "_about": "Canadian Fairy Tales, gathered and retold by Cyrus MacMillan (first published in 1922). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Cyrus MacMillan",
+ "_name_words": [
+  "macmillan"
+ ],
+ "_surname": [
+  "cyrus macmillan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "macmillan-canadian-fairy-tales": [
+   36241,
+   "Canadian Fairy Tales",
+   {
+    "levels": [
+     {
+      "re": "(?!.*\\d$)(?!TO FACE PAGE$|TO$|OF$|THE MEMORY$|MY FATHER$|PAGE$|JOHN GRIER)[A-Z][^a-z]+$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "macmillan-canadian-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cyrus macmillan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

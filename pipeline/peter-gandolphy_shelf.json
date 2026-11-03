@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain Peter Gandolphy (1779-1821), English Jesuit preacher at the Spanish Chapel, London, for the Word Hoard: A Defence of the Ancient Faith (five sermons, 1811, and the full series in 4 vols., 1813), and his two letters to Herbert Marsh on the Bible Society. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 87 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "peter gandolphy",
+  "p. gandolphy"
+ ],
+ "_surname": [
+  "peter gandolphy",
+  "p. gandolphy",
+  "gandolphy"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gandolphy-five-sermons": [
+   "a582811700ganduoft",
+   "A defence of the ancient faith ; or, Five sermons in proof of the Christian religion (London : Keating, 1811)"
+  ],
+  "gandolphy-defence-1": [
+   "a582814101ganduoft",
+   "A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons Volume 1 (London : Keating, Brown, and Keating, 1813)"
+  ],
+  "gandolphy-defence-2": [
+   "a582814102ganduoft",
+   "A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons Volume 2 (London : Keating, Brown, and Keating, 1813)"
+  ],
+  "gandolphy-defence-3": [
+   "ancientfaith03ganduoft",
+   "A defence of the ancient faith : in four volumes, or a full exposition of the christian sermons Volume 3 (London : Keating, Brown and Keating, 1813)"
+  ],
+  "gandolphy-defence-4": [
+   "ra582814104ganduoft",
+   "A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons, vol. 4 (London : Keating, Brown, and Keating, 1813)"
+  ],
+  "gandolphy-letter-marsh-1": [
+   "congratulatoryle00ganduoft",
+   "A congratulatory letter to the Rev. Herbert Marsh, D.D.F.R.S., Margaret Professor of Divinity in Cambridge, on his judicious Inquiry into the consequences of neglecting to give the Prayer-book with the Bible (<London? : s.n.>, 1812)"
+  ],
+  "gandolphy-letter-marsh-2": [
+   "secondlettertore00ganduoft",
+   "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome (<London? : s.n.>, 1813)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gandolphy-liturgy": "his Liturgy (1812), a translation of Catholic service books",
+  "gandolphy-correspondence": "Correspondence on the Roman Catholic Bible Society (many hands)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gandolphy-letter-marsh-2": "title page: 'SECOND LETTER TO THE REV. HERBERT MARSH, D.D. F.R.S. ... BY THE REV. PETER GANDOLPHY, Priest of the Catholic Church. 1813' (OCR 'PETER GJISIDOLPHY')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gandolphy-five-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter gandolphy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gandolphy-defence-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter gandolphy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1813-1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gandolphy-defence-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter gandolphy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1813-1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gandolphy-defence-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter gandolphy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gandolphy-defence-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter gandolphy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1813-1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gandolphy-letter-marsh-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter gandolphy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gandolphy-letter-marsh-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

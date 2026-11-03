@@ -1,0 +1,66 @@
+{
+ "_about": "Public-domain Diego de Estella (1524-1578), Spanish Franciscan, for the Word Hoard: The Contempte of the World, and the Vanitie thereof (the English recusant translation, catalogued 1581) and the Meditations on the Love of God translated by Henry W. Pereira (1898), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "estella",
+  "stella"
+ ],
+ "_surname": [
+  "estella",
+  "de stella",
+  "diego de estella",
+  "diego de stella"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "estella-contempt-world-1581": [
+   "bim_early-english-books-1475-1640_the-contempte-of-the-wor_estella-diego-de_1581",
+   "The Contempte of the World, and the Vanitie thereof, in three books, translated out of Italian (title page undated; catalogued 1581)"
+  ],
+  "estella-love-of-god-1898": [
+   "cu31924029398066",
+   "Meditations on the Love of God, tr. Henry W. Pereira (London: Burns & Oates; New York: Benziger, 1898)"
+  ]
+ },
+ "_alternates": {
+  "estella-copies": "The Contempt of the World (1622, John Heigham, title page mostly illegible)"
+ },
+ "_excluded": {
+  "estella-other": "A Methode unto Mortification (1608), an adapted recast"
+ },
+ "_rights_checked": {
+  "estella-contempt-world-1581": "title page read: translator not named; dedicated to the Bridgettine sisters at Rouen; no place or year on the title page, catalogued 1581"
+ },
+ "_pending": {},
+ "_translators": {
+  "estella-love-of-god-1898": "pereira"
+ },
+ "_checks": {
+  "estella-contempt-world-1581": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de stella",
+   "identity": "ok",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; dedicated to the Bridgettine sisters at Rouen; no place or year on the title page, catalogued 1581"
+  },
+  "estella-love-of-god-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "estella",
+   "translator_claimed": "pereira",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

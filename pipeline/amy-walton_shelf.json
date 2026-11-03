@@ -1,0 +1,149 @@
+{
+ "_about": "Amy Walton's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Amy Walton",
+ "_name_words": [
+  "amy",
+  "walton"
+ ],
+ "_surname": [
+  "amy walton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "awalton-white-lilac": [
+   21228,
+   "White Lilac; or the Queen of the May"
+  ],
+  "awalton-thistle-and-rose": [
+   21229,
+   "Thistle and Rose: A Story for Girls"
+  ],
+  "awalton-susan-a-story-for-children": [
+   21230,
+   "Susan A Story for Children"
+  ],
+  "awalton-penelope-and-the-others": [
+   21231,
+   "Penelope and the Others: Story of Five Country Children"
+  ],
+  "awalton-hawthorns-a-story-about-children": [
+   21232,
+   "The Hawthorns A Story about Children"
+  ],
+  "awalton-kitchen-cat-and-other-tales": [
+   23112,
+   "The Kitchen Cat, and other Tales"
+  ],
+  "awalton-our-frank-and-other-stories": [
+   23114,
+   "Our Frank and other stories"
+  ],
+  "awalton-black-white-and-gray": [
+   23130,
+   "Black, White and Gray: A Story of Three Homes"
+  ],
+  "awalton-pair-of-clogs": [
+   23501,
+   "A Pair of Clogs"
+  ],
+  "awalton-kitchen-cat-and-other-stories": [
+   24751,
+   "The Kitchen Cat and Other Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "awalton-white-lilac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-thistle-and-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-susan-a-story-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-penelope-and-the-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-hawthorns-a-story-about-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-kitchen-cat-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-our-frank-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-black-white-and-gray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-pair-of-clogs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awalton-kitchen-cat-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amy walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

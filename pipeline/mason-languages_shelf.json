@@ -1,0 +1,393 @@
+{
+ "_about": "French, German and Italian set texts, in the original language where a public-domain text exists (Ségur, Souvestre, Fénelon, Vigny, Schiller, Musset...). Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "alfred",
+  "alphonse",
+  "augustin",
+  "beaumarchais",
+  "comtesse",
+  "daudet",
+  "emile",
+  "eugène",
+  "fenelon",
+  "friedrich",
+  "fucini",
+  "fénelon",
+  "john",
+  "lucas",
+  "madame",
+  "maître",
+  "meyer",
+  "musset",
+  "niebuhr",
+  "paris",
+  "pathelin",
+  "renato",
+  "schiller",
+  "scribe",
+  "segur",
+  "sevigne",
+  "souvestre",
+  "stael",
+  "staël",
+  "ségur",
+  "sévigne",
+  "sévigné",
+  "thierry",
+  "vigny"
+ ],
+ "_surname_by_slug": {
+  "segur-general-dourakine": [
+   "ségur",
+   "segur"
+  ],
+  "souvestre-serf": [
+   "souvestre",
+   "emile souvestre"
+  ],
+  "thierry-histoire-france-recits": [
+   "thierry",
+   "augustin thierry"
+  ],
+  "lucas-oxford-book-french": [
+   "lucas"
+  ],
+  "fenelon-aventures-telemaque": [
+   "fénelon",
+   "fenelon"
+  ],
+  "niebuhr-griechische-heroengeschichten": [
+   "niebuhr",
+   "b. g. niebuhr"
+  ],
+  "schiller-der-geisterseher": [
+   "schiller",
+   "friedrich schiller"
+  ],
+  "segur-malheurs-sophie": [
+   "ségur",
+   "segur"
+  ],
+  "sevigne-lettres": [
+   "sévigné",
+   "sevigne",
+   "sévigne"
+  ],
+  "stael-l-allemagne-1": [
+   "staël",
+   "stael"
+  ],
+  "stael-l-allemagne-2": [
+   "staël",
+   "stael"
+  ],
+  "meyer-gustav-adolfs-page": [
+   "meyer",
+   "c. f. meyer"
+  ],
+  "beaumarchais-barbier-seville": [
+   "beaumarchais"
+  ],
+  "daudet-petit-chose": [
+   "daudet",
+   "alphonse daudet"
+  ],
+  "fucini-all-aria-aperta": [
+   "fucini",
+   "renato fucini"
+  ],
+  "musset-poems-musset": [
+   "musset",
+   "alfred de musset"
+  ],
+  "scribe-verre-d-eau": [
+   "scribe",
+   "eugène scribe"
+  ],
+  "vigny-cinq-mars-1": [
+   "vigny",
+   "alfred de vigny"
+  ],
+  "vigny-cinq-mars-2": [
+   "vigny",
+   "alfred de vigny"
+  ],
+  "pathelin-farce-maitre-pathelin": [
+   "pathelin"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "segur-general-dourakine": [
+   12979,
+   "Comtesse de Segur, Le General Dourakine (PG 12979, French)"
+  ],
+  "souvestre-serf": [
+   27644,
+   "Emile Souvestre, Au bord du lac: L'Esclave, le Serf, le Chevrier de Lorraine, l'Apprenti (PG 27644, French)"
+  ],
+  "fenelon-aventures-telemaque": [
+   30779,
+   "Fenelon, Les aventures de Telemaque, suivies des aventures d'Aristonous (Paris: Hachette, 1893)"
+  ],
+  "segur-malheurs-sophie": [
+   15058,
+   "Comtesse de Segur, Les malheurs de Sophie (PG 15058)"
+  ],
+  "sevigne-lettres": [
+   43901,
+   "Lettres de Madame de Sevigne (Paris, 1846 selection)"
+  ],
+  "stael-l-allemagne-1": [
+   66924,
+   "Madame de Stael, De l'Allemagne, t. 1 (PG 66924)"
+  ],
+  "stael-l-allemagne-2": [
+   67933,
+   "Madame de Stael, De l'Allemagne, t. 2 (PG 67933)"
+  ],
+  "beaumarchais-barbier-seville": [
+   36826,
+   "Beaumarchais, Le Barbier de Séville; ou, la précaution inutile (French original; PG edition)"
+  ],
+  "daudet-petit-chose": [
+   13256,
+   "Alphonse Daudet, Le Petit Chose (French original; PG edition)"
+  ],
+  "vigny-cinq-mars-1": [
+   44198,
+   "Alfred de Vigny, Cinq-Mars; ou, une conjuration sous Louis XIII, ill. Jeanniot (French original), tome 1"
+  ],
+  "vigny-cinq-mars-2": [
+   44199,
+   "Alfred de Vigny, Cinq-Mars; ou, une conjuration sous Louis XIII, ill. Jeanniot (French original), tome 2"
+  ]
+ },
+ "internet_archive": {
+  "thierry-histoire-france-recits": [
+   "rcitsdestempsm00thie",
+   "Augustin Thierry, Recits des temps merovingiens, preceded by Considerations sur l'histoire de France, Paris: Garnier [n.d.; catalogued 1840]"
+  ],
+  "lucas-oxford-book-french": [
+   "oxfordbookoffren0000stjo_a5b7",
+   "St. John Lucas (ed.), The Oxford Book of French Verse, XIIIth Century-XIXth Century (Oxford: Clarendon Press, 1907)"
+  ],
+  "niebuhr-griechische-heroengeschichten": [
+   "griechischehero00niebuoft",
+   "B. G. Niebuhr, Griechische Heroengeschichten, an seinen Sohn erzahlt (Gotha: F. A. Perthes)"
+  ],
+  "schiller-der-geisterseher": [
+   "dergeistersehera00sch",
+   "Friedrich Schiller, Der Geisterseher, ed. E. S. Joynes (Boston: D. C. Heath, 1890)"
+  ],
+  "meyer-gustav-adolfs-page": [
+   "gustavadolfspag00meyegoog",
+   "C. F. Meyer, Gustav Adolfs Page (Boston: D. C. Heath, 1893), school edition"
+  ],
+  "fucini-all-aria-aperta": [
+   "allariaapertasce00fuciuoft",
+   "Renato Fucini, All'aria aperta: scene e macchiette della campagna toscana (Firenze: Bemporad, 1897)"
+  ],
+  "musset-poems-musset": [
+   "posiescompltesd00mussgoog",
+   "Alfred de Musset, Poésies complètes (Paris: Charpentier, 1849)"
+  ],
+  "scribe-verre-d-eau": [
+   "leverredeauoules0000unse",
+   "Eugène Scribe, Le Verre d'eau, ou les effets et les causes (school ed., c.1900)"
+  ],
+  "pathelin-farce-maitre-pathelin": [
+   "lafarcedematrep00fourgoog",
+   "La Farce de Maître Pathelin, with modern verse translation by Édouard Fournier (Paris: Librairie des bibliophiles, 1872)"
+  ]
+ },
+ "_checks": {
+  "segur-general-dourakine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "ségur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "souvestre-serf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "souvestre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenelon-aventures-telemaque": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fénelon",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "segur-malheurs-sophie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "ségur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sevigne-lettres": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "sévigné",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "beaumarchais-barbier-seville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "beaumarchais",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "daudet-petit-chose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "daudet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vigny-cinq-mars-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "vigny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vigny-cinq-mars-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "vigny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thierry-histoire-france-recits": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thierry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucas-oxford-book-french": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "lucas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "niebuhr-griechische-heroengeschichten": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "niebuhr",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schiller-der-geisterseher": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "schiller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "meyer-gustav-adolfs-page": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "meyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fucini-all-aria-aperta": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fucini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "musset-poems-musset": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "musset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scribe-verre-d-eau": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "scribe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pathelin-farce-maitre-pathelin": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "pathelin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "niebuhr-griechische-heroengeschichten": {
+   "title": "title page: 'Griechiſche Heroengeſchichten. Von B. G. Niebuhr an ſeinen Sohn erzählt. Gotha, Perthes'; the OCR keeps the long s (ſ), so the plain-s title words never match"
+  }
+ }
+}

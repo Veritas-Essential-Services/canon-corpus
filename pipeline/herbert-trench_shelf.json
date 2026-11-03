@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Herbert Trench (1865-1923): Merezhkovsky's The Death of the Gods (1901) and The Romance of Leonardo da Vinci (1902). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "herbert trench"
+ ],
+ "_surname": [
+  "herbert trench"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "htr-46492": [
+   46492,
+   "The Death of the Gods (Christ and Antichrist, 1 of 3)"
+  ],
+  "htr-47902": [
+   47902,
+   "The Romance of Leonardo da Vinci, the Forerunner"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "herbert-trench-merezhkovsky-the-death-of-the-gods-christ-and-antichr": {
+   "source": "htr-46492",
+   "of": "Dmitry Sergeyevich Merezhkovsky",
+   "work": "The Death of the Gods (Christ and Antichrist, 1 of 3)",
+   "translated": "1901-1902 (see the Gutenberg header)",
+   "translator": "Herbert Trench",
+   "scan_edition": "Project Gutenberg 46492 (clean text)"
+  },
+  "herbert-trench-merezhkovsky-the-romance-of-leonardo-da-vinci-the-for": {
+   "source": "htr-47902",
+   "of": "Dmitry Sergeyevich Merezhkovsky",
+   "work": "The Romance of Leonardo da Vinci, the Forerunner",
+   "translated": "1901-1902 (see the Gutenberg header)",
+   "translator": "Herbert Trench",
+   "scan_edition": "Project Gutenberg 47902 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "htr-46492": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herbert trench",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Trench"
+  },
+  "htr-47902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herbert trench",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Trench"
+  }
+ },
+ "_verified": {
+  "htr-46492": {
+   "pg": 46492,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herbert Trench"
+  },
+  "htr-47902": {
+   "pg": 47902,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herbert Trench"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

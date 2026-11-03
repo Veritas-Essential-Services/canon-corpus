@@ -1,0 +1,98 @@
+{
+ "_about": "Willis Boyd Allen: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Willis Boyd Allen",
+ "_name_words": [
+  "allen",
+  "boyd",
+  "willis"
+ ],
+ "_surname": [
+  "willis boyd allen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wballen-around-the-yule-log": [
+   43008,
+   "Around the Yule Log"
+  ],
+  "wballen-gulf-and-glacier": [
+   43374,
+   "Gulf and Glacier; or, The Percivals in Alaska"
+  ],
+  "wballen-north-pacific": [
+   45413,
+   "The North Pacific: A Story of the Russo-Japanese War"
+  ],
+  "wballen-christmas-on-wheels": [
+   64094,
+   "Christmas on Wheels"
+  ],
+  "wballen-silver-rags": [
+   66956,
+   "Silver Rags"
+  ],
+  "wballen-in-the-morning": [
+   67246,
+   "In the Morning"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wballen-around-the-yule-log": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis boyd allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wballen-gulf-and-glacier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis boyd allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wballen-north-pacific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis boyd allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wballen-christmas-on-wheels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis boyd allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wballen-silver-rags": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis boyd allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wballen-in-the-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis boyd allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

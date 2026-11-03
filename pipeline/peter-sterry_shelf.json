@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Peter Sterry (1613-1672), Cromwell's chaplain and Cambridge Platonist preacher, for the Word Hoard: The Rise, Race, and Royalty of the Kingdom of God in the Soul of Man (1683) and The Appearance of God to Man in the Gospel (1710), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sterry"
+ ],
+ "_surname": [
+  "peter sterry",
+  "sterry"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sterry-rise-race-royalty-1683": [
+   "riseraceroo00ster",
+   "The rise, race and royalty of the kingdom of God in the soul of man : Opened in several sermons ... As also the loveliness & love of Christ set forth in several other sermons ... sermons upon Ps. 45.1.2 : with an account of saint's soul and body in death (London : Printed for Thomas Cockerill, 1683)"
+  ],
+  "sterry-appearance-of-god-1710": [
+   "appgodt00ster",
+   "The appearance of God to man in the gospel, and the gospel change : together with several other discourses from Scripture, to which is added an explication of the Trinity; and a short catechism (London : [s.n.], 1710)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "sterry-appearance-of-god-1710": "title page read from the page image: 'Being the Second Posthumous Volume ... Taken from the Original Manuscripts, left by P. S. Late of Emanuel College Cambridge, and Minister of the Gospel in London', 1710; the publisher's preface has Whichcote address the author as 'Peter'. Initials only on the title page: a veto point"
+ },
+ "_pending": {
+  "sterry-freedom-of-will": "A Discourse of the Freedom of the Will (1675): no scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "sterry-rise-race-royalty-1683": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter sterry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1683",
+   "ia_date": "1683",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sterry-appearance-of-god-1710": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

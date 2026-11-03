@@ -1,0 +1,94 @@
+{
+ "_about": "The Elson readers (Scott, Foresman): Elson Grammar School Readers, Books One to Three (1909-1911; IA scans, raw OCR), Elson Grammar School Literature, Book Four, and The Elson Readers, Book Five. Added for the short-pieces section (docs/short-pieces/): the readers and anthologies that hold the poems, stories and speeches classical and Christian curricula assign.",
+ "_author": "William H. Elson and Christine Keck",
+ "_name_words": [
+  "william",
+  "elson",
+  "keck",
+  "christine",
+  "grammar",
+  "school"
+ ],
+ "_surname": [
+  "elson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "elson-grammar-school-literature-4": [
+   6963,
+   "Elson Grammar School Literature, Book Four"
+  ],
+  "elson-readers-5": [
+   9106,
+   "The Elson Readers, Book Five"
+  ]
+ },
+ "internet_archive": {
+  "elson-grammar-school-reader-1": [
+   "elsongrammarscho00elso_0",
+   "Elson Grammar School Reader, Book One (1911)"
+  ],
+  "elson-grammar-school-reader-2": [
+   "elsongrammarscho00elso_1",
+   "Elson Grammar School Reader, Book Two (1911)"
+  ],
+  "elson-grammar-school-reader-3": [
+   "elsongrammarscho0000chri_b7i1",
+   "Elson Grammar School Reader, Book Three (1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "elson-grammar-school-literature-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elson-readers-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elson-grammar-school-reader-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "elson-grammar-school-reader-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "elson-grammar-school-reader-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

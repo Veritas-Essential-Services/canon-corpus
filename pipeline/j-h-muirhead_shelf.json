@@ -1,0 +1,84 @@
+{
+ "_about": "J. H. Muirhead (1855-1940), idealist and founder of the Library of Philosophy. Raw IA OCR: The Elements of Ethics (London: John Murray, 1892), clean 0.93; Chapters from Aristotle's Ethics (London: John Murray, 1900), clean 0.93; Philosophy and Life, and other essays (London: Swan Sonnenschein, 1902), clean 0.95; The Service of the State, four lectures on the political teaching of T. H. Green (London: John Murray, 1908), clean 0.92. US public domain. No uids minted.",
+ "_author": "J. H. Muirhead",
+ "_name_words": [
+  "john",
+  "henry",
+  "muirhead"
+ ],
+ "_surname": [
+  "muirhead"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "muirhead-elements-of-ethics-1892": [
+   "elementsofetauto00muiruoft",
+   "The Elements of Ethics (Murray, 1892)"
+  ],
+  "muirhead-chapters-aristotle-ethics-1900": [
+   "chaptersaristotl00muiruoft",
+   "Chapters from Aristotle's Ethics (Murray, 1900)"
+  ],
+  "muirhead-philosophy-and-life-1902": [
+   "philosophylifeot00muirrich",
+   "Philosophy and Life (Sonnenschein, 1902)"
+  ],
+  "muirhead-service-of-the-state-1908": [
+   "serviceofstatefo00muiruoft",
+   "The Service of the State (Murray, 1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "muirhead-elements-of-ethics-1892": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "muirhead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "muirhead-chapters-aristotle-ethics-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "muirhead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "muirhead-philosophy-and-life-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "muirhead-service-of-the-state-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "muirhead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "muirhead-philosophy-and-life-1902": {
+   "author": "The OCR misreads the title-page name as 'J. H. MUIKHEAD', Professor of Mental and Moral Philosophy in the University of Birmingham, which was Muirhead's chair."
+  }
+ }
+}

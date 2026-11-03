@@ -1,0 +1,409 @@
+{
+ "_about": "Public-domain William Charles Edmund Newbolt (1844-1930), canon of St Paul's and principal of Ely Theological College, for the Word Hoard: his books of sermons, addresses and pastoral theology, among them Penitence and Peace, Counsels of Faith and Practice, Speculum Sacerdotum, The Prayer-Book, Quiet Days and Retreats, The Gospel of Experience, Priestly Ideals, Religion, handbooks to St Matthew and St John, Words of Exhortation, The Dial of Prayer, Apostles of the Lord, Priestly Blemishes, The Cardinal Virtues, The Church Catechism, Fundamental Christianity, The Sacrament of the Altar, The Holy Eucharist, Confirmation, The Ministry of the Word, The Fruit of the Spirit, Christian Marriage at the Cross-Roads, and his recollections, Years that are Past. He lived until 1930; every book taken was printed before 1930. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 112 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. c. e. newbolt",
+  "william charles edmund newbolt",
+  "newbolt"
+ ],
+ "_surname": [
+  "w. c. e. newbolt",
+  "william charles edmund newbolt",
+  "newbolt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "newbolt-penitence-peace": [
+   "penitencepeacebe0000newb",
+   "Penitence and peace. Being addresses on the fifty-first and twenty-third psalms (London, 1892)"
+  ],
+  "newbolt-counsels": [
+   "counselsoffaithp00newb",
+   "Counsels of faith and practice : being sermons preached on various occasions / by W.C.E. Newbolt (London : Longmans, 1894)"
+  ],
+  "newbolt-speculum": [
+   "SpeculumSacerdotum",
+   "Speculum sacerdotum : or, The divine model of the priestly life (London, N.Y. : Longmans, Green, 1894)"
+  ],
+  "newbolt-prayer-book": [
+   "theprayerbookits00newbuoft",
+   "The prayer-book : its voice and teaching ; being spiritual addresses bearing on the Book of Common Prayer (London : Longmans, Green, 1894)"
+  ],
+  "newbolt-quiet-days": [
+   "QuietDaysRetreats",
+   "Quiet days & retreats : being some thoughts on their observance (Oxford : Mowbray, 1894)"
+  ],
+  "newbolt-gospel-experience": [
+   "thegospelofexper00newbuoft",
+   "The Gospel of experience : or, the witness of human life to the truth of revelation, being the Boyle lectures for 1895 (London : Longmans, Green & Co, 1896)"
+  ],
+  "newbolt-priestly-ideals": [
+   "priestlyidealsbe00newb",
+   "Priestly ideals : being a course of practical lectures delivered in St. Paul's Cathedral to \"Our Society\" and other clergy, in Lent, 1898 (London, New York : Longmans, Green, 1899)"
+  ],
+  "newbolt-religion": [
+   "religion00newb",
+   "Religion (London, New York [etc.] Longmans, Green & Co., 1899)"
+  ],
+  "newbolt-matthew": [
+   "handbooktogospel00newb",
+   "Handbook to the Gospel according to S. Matthew : for the use of teachers and students (London : Rivingtons, 1900)"
+  ],
+  "newbolt-exhortation": [
+   "wordsofexhortati0000newb",
+   "Words of exhortation; sermons preached at S. Paul's and elsewhere (London, New York Longmans, Green, and Co., 1900)"
+  ],
+  "newbolt-dial-of-prayer": [
+   "TheDialOfPrayer",
+   "The dial of prayer; being devotions for every hour for those who would wish to live near to God (London, New York Longmans, Green and Co., 1900)"
+  ],
+  "newbolt-apostles": [
+   "ApostlesOfTheLord",
+   "Apostles of the Lord : being six lectures on pastoral theology delivered in the Divinity School, Cambridge, Lent term, 1901 (London ; New York : Longmans, Green, 1901)"
+  ],
+  "newbolt-priestly-blemishes": [
+   "priestlyblemishe0000unse",
+   "Priestly blemishes : Or, Some secret hindrances to the realization of priestly ideals: a sequal, being a second source of practical lectures delivered ... \"Our Society\" and other clergy, in Lent, 1902 (Longmans, Green, and Co., 1902)"
+  ],
+  "newbolt-church-of-england": [
+   "churchofenglanda00newbuoft",
+   "The Church of England : an appeal to facts and principles (London : Longmans, Green, and Co., 1903)"
+  ],
+  "newbolt-cardinal-virtues": [
+   "cardinalvirtues00newb",
+   "The cardinal virtues (London, New York : Hodder and Stoughton, 1903)"
+  ],
+  "newbolt-catechism": [
+   "churchcatechismc00newbiala",
+   "The church catechism; the Christian's manual (London, New York : Longmans, Green, 1903)"
+  ],
+  "newbolt-john": [
+   "handbooktogospel0000revw",
+   "Handbook to The gospel according to S. John (Rivingtons, 1906)"
+  ],
+  "newbolt-fundamental": [
+   "fundamentalchris00newb",
+   "Fundamental Christianity : four sermons preached in St. Paul's Cathedral on the Sundays in August, 1906, vol. Talbot Collection of British Pamphlets (London : G.J. Palmer & Sons, 7, Portugal Street, W.C., [190)"
+  ],
+  "newbolt-sacrament-altar": [
+   "sacramentofaltar0000revw",
+   "The Sacrament of the Altar (catalogued 1908)"
+  ],
+  "newbolt-holy-eucharist": [
+   "holyeucharistser00newbuoft",
+   "The Holy Eucharist : a series of lectures delivered to the members of the St. Paul's Lecture Society (London : Longmans, Green, 1911)"
+  ],
+  "newbolt-confirmation": [
+   "confirmation0000newb",
+   "Confirmation (London, Wells Gardner, Darton, 1912)"
+  ],
+  "newbolt-ministry-word": [
+   "ministryofword0000wcen",
+   "The ministry of the word (longmans, gree, and co., 1913)"
+  ],
+  "newbolt-fruit-spirit": [
+   "thefruitofthespi00newbuoft",
+   "The fruit of the spirit : being ten addresses bearing on the spiritual life (London ; New York : Longmans, Green, 1913)"
+  ],
+  "newbolt-marriage": [
+   "christianmarriag00newb",
+   "Christian marriage at the cross-roads : being five addresses (London : Skeffington & Son, [192)"
+  ],
+  "newbolt-years-past": [
+   "cu31924029450925",
+   "Years that are past; being some recollections of a long life (London : W. Gardner, Darton & co., ltd., 1921)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "newbolt-edited": "Liddon's Life of Pusey and Pusey's Spiritual Letters, which he co-edited, and the many-author Cathedrals of England, are other men's works"
+ },
+ "_rights_checked": {
+  "newbolt-confirmation": "Title page: \"Confirmation, by W. C. E. Newbolt, M.A., Canon and Chancellor of St Paul's Cathedral. London: Wells Gardner, Darton & Co., Ltd.\" Undated; catalogued 1912; printed while he held the canonry, which he kept until his death in 1930. A 1930 printing would also be public domain in the US by now."
+ },
+ "_identity_checked": {
+  "newbolt-matthew": "Title page image: \"Handbook to the Gospel according to S. Matthew, for the use of teachers and students, by the Rev. W. C. E. Newbolt, M.A., Canon and Chancellor of St. Paul's. Rivingtons... London, 1900.\" The OCR text lacks the page.",
+  "newbolt-fruit-spirit": "Title page image: \"The Fruit of the Spirit, being ten addresses bearing on the Spiritual Life, by the Rev. W. C. E. Newbolt, M.A., Canon Residentiary and Chancellor of St. Paul's... Ninth impression. Longmans, Green, and Co.... 1913.\" The OCR text lacks the page."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "newbolt-penitence-peace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-counsels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-speculum": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-prayer-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-quiet-days": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-gospel-experience": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-priestly-ideals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-exhortation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-dial-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-apostles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-priestly-blemishes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-church-of-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-cardinal-virtues": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-catechism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-john": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-fundamental": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-sacrament-altar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-holy-eucharist": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-confirmation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page: \"Confirmation, by W. C. E. Newbolt, M.A., Canon and Chancellor of St Paul's Cathedral. London: Wells Gardner, Darton & Co., Ltd.\" Undated; catalogued 1912; printed while he held the canonry, which he kept until his death in 1930. A 1930 printing would also be public domain in the US by now."
+  },
+  "newbolt-ministry-word": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-fruit-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newbolt-marriage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[192-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newbolt-years-past": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. e. newbolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "_about": "John Habberton's Helen's Babies and his other stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "John Habberton",
+ "_name_words": [
+  "habberton"
+ ],
+ "_surname": [
+  "habberton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jhabberton-helens-babies": [
+   4281,
+   "Helen's Babies"
+  ],
+  "jhabberton-romance-of-california-life-illustrated-by-pacific": [
+   13832,
+   "Romance of California Life Illustrated by Pacific Slope Stories, Thrilling, Pathetic and Humorous"
+  ],
+  "jhabberton-all-he-knew": [
+   14895,
+   "All He Knew: A Story"
+  ],
+  "jhabberton-caleb-wright": [
+   43994,
+   "Caleb Wright: A Story of the West"
+  ],
+  "jhabberton-trif-and-trixy-a-story-of-a-dreadfully-delightful": [
+   51788,
+   "Trif and Trixy A story of a dreadfully delightful little girl and her adoring and tormented parents, relations, and friends"
+  ],
+  "jhabberton-budge-toddie": [
+   52298,
+   "Budge & Toddie; Or, Helen's Babies at Play"
+  ],
+  "jhabberton-canoeing-in-kanuckia-or-haps-and-mishaps-afloat-a": [
+   52338,
+   "Canoeing in Kanuckia Or, Haps and Mishaps Afloat and Ashore of the Statesman, the Editor, the Artist, and the Scribbler"
+  ],
+  "jhabberton-country-luck": [
+   52480,
+   "Country Luck"
+  ],
+  "jhabberton-who-was-paul-grayson": [
+   52644,
+   "Who Was Paul Grayson?"
+  ],
+  "jhabberton-barton-experiment": [
+   53031,
+   "The Barton Experiment"
+  ],
+  "jhabberton-scripture-club-of-valley-rest": [
+   54627,
+   "The Scripture Club of Valley Rest; or, Sketches of Everybody's Neighbours"
+  ],
+  "jhabberton-worst-boy-in-town": [
+   55080,
+   "The Worst Boy in Town"
+  ],
+  "jhabberton-little-guzzy-and-other-stories": [
+   67985,
+   "Little Guzzy, and other stories"
+  ],
+  "jhabberton-strange-stories-of-the-civil-war": [
+   68798,
+   "Strange stories of the Civil War"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 51085: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "jhabberton-helens-babies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-romance-of-california-life-illustrated-by-pacific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-all-he-knew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-caleb-wright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-trif-and-trixy-a-story-of-a-dreadfully-delightful": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-budge-toddie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-canoeing-in-kanuckia-or-haps-and-mishaps-afloat-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-country-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-who-was-paul-grayson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-barton-experiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-scripture-club-of-valley-rest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-worst-boy-in-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-little-guzzy-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhabberton-strange-stories-of-the-civil-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "habberton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

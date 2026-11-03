@@ -1,0 +1,1301 @@
+{
+ "_about": "William Le Queux's spy, invasion and mystery novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "William Le Queux",
+ "_name_words": [
+  "queux"
+ ],
+ "_surname": [
+  "william le queux"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wlequeux-mademoiselle-of-monte-carlo": [
+   4694,
+   "Mademoiselle of Monte Carlo"
+  ],
+  "wlequeux-four-faces": [
+   9795,
+   "The Four Faces: A Mystery"
+  ],
+  "wlequeux-czars-spy": [
+   10102,
+   "The Czar's Spy: The Mystery of a Silent Love"
+  ],
+  "wlequeux-house-of-whispers": [
+   10718,
+   "The House of Whispers"
+  ],
+  "wlequeux-doctor-of-pimlico": [
+   22654,
+   "The Doctor of Pimlico: Being the Disclosure of a Great Crime",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-minister-of-evil": [
+   22720,
+   "The Minister of Evil: The Secret History of Rasputin's Betrayal of Russia",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-great-white-queen": [
+   25499,
+   "The Great White Queen: A Tale of Treasure and Treason"
+  ],
+  "wlequeux-mystery-of-the-green-ray": [
+   26637,
+   "The Mystery of the Green Ray",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-stretton-street-affair": [
+   27147,
+   "The Stretton Street Affair"
+  ],
+  "wlequeux-seven-secrets": [
+   27549,
+   "The Seven Secrets",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-golden-face": [
+   27705,
+   "The Golden Face: A Great 'Crook' Romance",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-hushed-up-a-mystery-of-london": [
+   28337,
+   "Hushed Up! A Mystery of London"
+  ],
+  "wlequeux-white-lie": [
+   29173,
+   "The White Lie"
+  ],
+  "wlequeux-sign-of-silence": [
+   30477,
+   "The Sign of Silence",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-counts-chauffeur": [
+   30827,
+   "The Count's Chauffeur",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-intriguers": [
+   32770,
+   "The Intriguers"
+  ],
+  "wlequeux-spies-of-the-kaiser": [
+   33298,
+   "Spies of the Kaiser: Plotting the Downfall of England",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-secrets-of-potsdam-a-startling-exposure-of-the-inne": [
+   34278,
+   "The Secrets of Potsdam A Startling Exposure of the Inner Life of the Courts of the Kaiser and Crown-Prince"
+  ],
+  "wlequeux-invasion": [
+   36155,
+   "The Invasion"
+  ],
+  "wlequeux-great-war-in-england-in-1897": [
+   37470,
+   "The Great War in England in 1897",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-place-of-dragons": [
+   40434,
+   "The Place of Dragons: A Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-closed-book": [
+   40828,
+   "The Closed Book: Concerning the Secret of the Borgias"
+  ],
+  "wlequeux-devils-dice": [
+   40829,
+   "Devil's Dice"
+  ],
+  "wlequeux-wiles-of-the-wicked": [
+   40831,
+   "The Wiles of the Wicked"
+  ],
+  "wlequeux-veiled-man-being-an-account-of-the-risks-and-advent": [
+   40832,
+   "The Veiled Man Being an Account of the Risks and Adventures of Sidi Ahamadou, Sheikh of the Azjar Maraude"
+  ],
+  "wlequeux-temptress": [
+   40833,
+   "The Temptress"
+  ],
+  "wlequeux-under-secretary": [
+   40834,
+   "The Under-Secretary"
+  ],
+  "wlequeux-pauper-of-park-lane": [
+   40835,
+   "The Pauper of Park Lane"
+  ],
+  "wlequeux-mysterious-three": [
+   40836,
+   "The Mysterious Three"
+  ],
+  "wlequeux-whoso-findeth-a-wife": [
+   40837,
+   "Whoso Findeth a Wife"
+  ],
+  "wlequeux-zoraida": [
+   40994,
+   "Zoraida: A Romance of the Harem and the Great Sahara"
+  ],
+  "wlequeux-zeppelin-destroyer": [
+   40995,
+   "The Zeppelin Destroyer: Being Some Chapters of Secret History"
+  ],
+  "wlequeux-in-white-raiment": [
+   40996,
+   "In White Raiment"
+  ],
+  "wlequeux-as-we-forgive-them": [
+   40997,
+   "As We Forgive Them"
+  ],
+  "wlequeux-day-of-temptation": [
+   40998,
+   "The Day of Temptation"
+  ],
+  "wlequeux-stolen-souls": [
+   40999,
+   "Stolen Souls"
+  ],
+  "wlequeux-her-majestys-minister": [
+   41000,
+   "Her Majesty's Minister"
+  ],
+  "wlequeux-red-room": [
+   41001,
+   "The Red Room"
+  ],
+  "wlequeux-if-sinners-entice-thee": [
+   41002,
+   "If Sinners Entice Thee"
+  ],
+  "wlequeux-eye-of-istar": [
+   41003,
+   "The Eye of Istar: A Romance of the Land of No Return"
+  ],
+  "wlequeux-an-eye-for-an-eye": [
+   41004,
+   "An Eye for an Eye"
+  ],
+  "wlequeux-great-court-scandal": [
+   41005,
+   "The Great Court Scandal"
+  ],
+  "wlequeux-hunchback-of-westminster": [
+   41078,
+   "The Hunchback of Westminster"
+  ],
+  "wlequeux-sign-of-the-stranger": [
+   41089,
+   "The Sign of the Stranger"
+  ],
+  "wlequeux-at-the-sign-of-the-sword": [
+   41090,
+   "At the Sign of the Sword: A Story of Love and War in Belgium"
+  ],
+  "wlequeux-price-of-power-being-chapters-from-the-secret-histo": [
+   41091,
+   "The Price of Power Being Chapters from the Secret History of the Imperial Court of Russia"
+  ],
+  "wlequeux-whatsoever-a-man-soweth": [
+   41092,
+   "Whatsoever a Man Soweth"
+  ],
+  "wlequeux-her-royal-highness": [
+   41093,
+   "Her Royal Highness: A Romance of the Chancelleries of Europe"
+  ],
+  "wlequeux-way-to-win": [
+   41129,
+   "The Way to Win"
+  ],
+  "wlequeux-stolen-statesman": [
+   41130,
+   "The Stolen Statesman: Being the Story of a Hushed Up Mystery"
+  ],
+  "wlequeux-number-70-berlin": [
+   41131,
+   "Number 70, Berlin: A Story of Britain's Peril"
+  ],
+  "wlequeux-bomb-makers-being-some-curious-records-concerning-t": [
+   41132,
+   "The Bomb-Makers Being Some Curious Records Concerning the Craft and Cunning of Theodore Drost, an Enemy Alien in London, Together with Certain Revelations Regarding His Daughter Ella"
+  ],
+  "wlequeux-whither-thou-goest": [
+   41184,
+   "Whither Thou Goest"
+  ],
+  "wlequeux-voice-from-the-void": [
+   41185,
+   "The Voice from the Void: The Great Wireless Mystery"
+  ],
+  "wlequeux-sant-of-the-secret-service": [
+   41186,
+   "Sant of the Secret Service: Some Revelations of Spies and Spying"
+  ],
+  "wlequeux-this-house-to-let": [
+   41187,
+   "This House to Let"
+  ],
+  "wlequeux-great-god-gold": [
+   41199,
+   "The Great God Gold"
+  ],
+  "wlequeux-rasputin-the-rascal-monk-disclosing-the-secret-scan": [
+   41452,
+   "Rasputin the Rascal Monk Disclosing the Secret Scandal of the Betrayal of Russia by the Mock-Monk Grichka and the Consequent Ruin of the Romanoffs. With official documents revealed and recorded for the first time."
+  ],
+  "wlequeux-mysterious-mr-miller": [
+   41453,
+   "The Mysterious Mr. Miller"
+  ],
+  "wlequeux-lost-million": [
+   41454,
+   "The Lost Million"
+  ],
+  "wlequeux-lady-in-the-car": [
+   41455,
+   "The Lady in the Car"
+  ],
+  "wlequeux-guilty-bonds": [
+   41456,
+   "Guilty Bonds"
+  ],
+  "wlequeux-gay-triangle": [
+   41458,
+   "The Gay Triangle: The Romance of the First Air Adventurers"
+  ],
+  "wlequeux-broken-thread": [
+   41459,
+   "The Broken Thread"
+  ],
+  "wlequeux-bond-of-black": [
+   41461,
+   "The Bond of Black"
+  ],
+  "wlequeux-behind-the-throne": [
+   41462,
+   "Behind the Throne"
+  ],
+  "wlequeux-red-widow": [
+   46236,
+   "The Red Widow; or, The Death-Dealers of London"
+  ],
+  "wlequeux-invasion-of-1910-with-a-full-account-of-the-siege-o": [
+   51905,
+   "The Invasion of 1910, with a full account of the siege of London",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-german-atrocities": [
+   52082,
+   "German Atrocities: A Record of Shameless Deeds"
+  ],
+  "wlequeux-tickencote-treasure": [
+   57885,
+   "The Tickencote Treasure",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-beryl-of-the-biplane": [
+   58770,
+   "Beryl of the Biplane: Being the Romance of an Air-Woman of To-Day",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-tracked-by-wireless": [
+   59434,
+   "Tracked by Wireless",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-britains-deadly-peril": [
+   61040,
+   "Britain's Deadly Peril: Are We Told the Truth?"
+  ],
+  "wlequeux-german-spies-in-england": [
+   61069,
+   "German Spies in England: An Exposure",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-an-observer-in-the-near-east": [
+   65766,
+   "An Observer in the Near East"
+  ],
+  "wlequeux-a-secret-service": [
+   67278,
+   "A Secret Service: Being Strange Tales of a Nihilist",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-gamblers": [
+   71037,
+   "The gamblers",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-a-womans-debt": [
+   72041,
+   "A woman's debt",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-crystal-claw": [
+   72870,
+   "The crystal claw",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-behind-the-bronze-door": [
+   73266,
+   "Behind the bronze door"
+  ],
+  "wlequeux-house-of-evil": [
+   75760,
+   "The house of evil"
+  ],
+  "wlequeux-sign-of-the-seven-sins": [
+   76685,
+   "The Sign of the Seven Sins"
+  ],
+  "wlequeux-fatal-fingers": [
+   77320,
+   "Fatal fingers"
+  ],
+  "wlequeux-poison-shadows": [
+   77378,
+   "Poison shadows"
+  ],
+  "wlequeux-three-glass-eyes": [
+   77426,
+   "The three glass eyes",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-sting": [
+   77530,
+   "The sting"
+  ],
+  "wlequeux-indiscretions-of-a-ladys-maid": [
+   77575,
+   "The indiscretions of a lady's maid",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-rat-trap": [
+   77737,
+   "The rat trap"
+  ],
+  "wlequeux-dangerous-game": [
+   78029,
+   "The dangerous game",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-crime-code": [
+   78372,
+   "The crime code"
+  ],
+  "wlequeux-looker-on": [
+   78884,
+   "The looker-on",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-money-spider": [
+   78920,
+   "The money-spider",
+   {
+    "contents_only": true
+   }
+  ],
+  "wlequeux-things-i-know-about-kings-celebrities-and-crooks": [
+   79085,
+   "Things I know about kings, celebrities, and crooks"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59638": "PG 59638: Gutenberg's index of Le Queux's works, not a book.",
+  "pg-51307": "PG 51307 This House to Let: a second Gutenberg edition of a title already on the shelf."
+ },
+ "_checks": {
+  "wlequeux-mademoiselle-of-monte-carlo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-four-faces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-czars-spy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-house-of-whispers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-doctor-of-pimlico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-minister-of-evil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-great-white-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-mystery-of-the-green-ray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-stretton-street-affair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-seven-secrets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-golden-face": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-hushed-up-a-mystery-of-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-white-lie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-sign-of-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-counts-chauffeur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-intriguers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-spies-of-the-kaiser": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-secrets-of-potsdam-a-startling-exposure-of-the-inne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-invasion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-great-war-in-england-in-1897": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-place-of-dragons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-closed-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-devils-dice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-wiles-of-the-wicked": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-veiled-man-being-an-account-of-the-risks-and-advent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-temptress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-under-secretary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-pauper-of-park-lane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-mysterious-three": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-whoso-findeth-a-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-zoraida": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-zeppelin-destroyer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-in-white-raiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-as-we-forgive-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-day-of-temptation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-stolen-souls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-her-majestys-minister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-red-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-if-sinners-entice-thee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-eye-of-istar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-an-eye-for-an-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-great-court-scandal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-hunchback-of-westminster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-sign-of-the-stranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-at-the-sign-of-the-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-price-of-power-being-chapters-from-the-secret-histo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-whatsoever-a-man-soweth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-her-royal-highness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-way-to-win": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-stolen-statesman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-number-70-berlin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-bomb-makers-being-some-curious-records-concerning-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-whither-thou-goest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-voice-from-the-void": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-sant-of-the-secret-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-this-house-to-let": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-great-god-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-rasputin-the-rascal-monk-disclosing-the-secret-scan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-mysterious-mr-miller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-lost-million": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-lady-in-the-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-guilty-bonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-gay-triangle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-broken-thread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-bond-of-black": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-behind-the-throne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-red-widow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-invasion-of-1910-with-a-full-account-of-the-siege-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-german-atrocities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-tickencote-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-beryl-of-the-biplane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-tracked-by-wireless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-britains-deadly-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-german-spies-in-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-an-observer-in-the-near-east": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-a-secret-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-gamblers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-a-womans-debt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-crystal-claw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-behind-the-bronze-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-house-of-evil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-sign-of-the-seven-sins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-fatal-fingers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-poison-shadows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-three-glass-eyes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-sting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-indiscretions-of-a-ladys-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-rat-trap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-dangerous-game": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-crime-code": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-looker-on": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-money-spider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlequeux-things-i-know-about-kings-celebrities-and-crooks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william le queux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

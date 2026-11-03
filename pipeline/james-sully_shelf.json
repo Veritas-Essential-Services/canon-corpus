@@ -1,0 +1,131 @@
+{
+ "_about": "James Sully (1842-1923), English psychologist and philosopher. Gutenberg: Illusions, a psychological study; Studies of Childhood; Children's Ways; An Essay on Laughter. Raw IA OCR: Pessimism, a history and a criticism (London: Henry S. King, 1877), clean 0.94; Outlines of Psychology (New York: Appleton, 1888; first London 1884), clean 0.81; The Human Mind, a text-book of psychology (London: Longmans, 1892), 2 vols., clean 0.93 and 0.92. US public domain. No uids minted.",
+ "_author": "James Sully",
+ "_name_words": [
+  "james",
+  "sully"
+ ],
+ "_surname": [
+  "james sully"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sully-illusions": [
+   17815,
+   "Illusions: A Psychological Study"
+  ],
+  "sully-studies-of-childhood": [
+   62175,
+   "Studies of Childhood"
+  ],
+  "sully-childrens-ways": [
+   37020,
+   "Children's Ways"
+  ],
+  "sully-essay-on-laughter": [
+   58606,
+   "An Essay on Laughter"
+  ]
+ },
+ "internet_archive": {
+  "sully-pessimism-1877": [
+   "pessimismhistory00sull",
+   "Pessimism: A History and a Criticism (King, 1877)"
+  ],
+  "sully-outlines-of-psychology-1888": [
+   "outlinespsychol01sullgoog",
+   "Outlines of Psychology (Appleton, 1888)"
+  ],
+  "sully-human-mind-1892-v1": [
+   "humanmindtextboo01sulluoft",
+   "The Human Mind, vol. I (Longmans, 1892)"
+  ],
+  "sully-human-mind-1892-v2": [
+   "humanmindtextboo02sulluoft",
+   "The Human Mind, vol. II (Longmans, 1892)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sully-illusions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sully-studies-of-childhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sully-childrens-ways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sully-essay-on-laughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sully-pessimism-1877": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sully-outlines-of-psychology-1888": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sully-human-mind-1892-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sully-human-mind-1892-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james sully",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

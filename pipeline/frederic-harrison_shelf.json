@@ -1,0 +1,123 @@
+{
+ "_about": "Frederic Harrison (1831-1923), jurist, historian and leader of English Positivism. Gutenberg: Studies in Early Victorian Literature. Raw IA OCR: Order and Progress (London: Longmans, 1875), clean 0.93; The New Calendar of Great Men, edited by Harrison (London: Macmillan, 1892), clean 0.92; The Meaning of History and other historical pieces (copyright 1894; this copy the new edition, New York: Macmillan, 1900), clean 0.94; The Philosophy of Common Sense (London: Macmillan, 1907), clean 0.95; The Creed of a Layman, Apologia pro fide mea (London: Macmillan, 1907), clean 0.95; National and Social Problems (London: Macmillan, 1908), clean 0.95. His translations of Comte are on the comte shelf. His novel Theophano is outside this shelf's scope. US public domain. No uids minted.",
+ "_author": "Frederic Harrison",
+ "_name_words": [
+  "frederic",
+  "harrison"
+ ],
+ "_surname": [
+  "harrison",
+  "frederic harrison"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "harrison-studies-early-victorian-literature": [
+   18384,
+   "Studies in Early Victorian Literature"
+  ]
+ },
+ "internet_archive": {
+  "harrison-order-and-progress-1875": [
+   "orderprogress00harrrich",
+   "Order and Progress (Longmans, 1875)"
+  ],
+  "harrison-new-calendar-of-great-men-1892": [
+   "newcalendargreat00harriala",
+   "The New Calendar of Great Men (Macmillan, 1892)"
+  ],
+  "harrison-meaning-of-history-1894": [
+   "meaninghistoryot00harriala",
+   "The Meaning of History (1894; new ed., Macmillan, 1900)"
+  ],
+  "harrison-philosophy-of-common-sense-1907": [
+   "philosophycommon00harruoft",
+   "The Philosophy of Common Sense (Macmillan, 1907)"
+  ],
+  "harrison-creed-of-a-layman-1907": [
+   "thecreedoflayman00harruoft",
+   "The Creed of a Layman (Macmillan, 1907)"
+  ],
+  "harrison-national-and-social-problems-1908": [
+   "cu31924030358885",
+   "National and Social Problems (Macmillan, 1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "harrison-studies-early-victorian-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "harrison-order-and-progress-1875": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harrison-new-calendar-of-great-men-1892": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harrison-meaning-of-history-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harrison-philosophy-of-common-sense-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harrison-creed-of-a-layman-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harrison-national-and-social-problems-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

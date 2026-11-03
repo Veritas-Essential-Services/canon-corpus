@@ -1,0 +1,138 @@
+{
+ "_about": "Public-domain Isaac Backus (1724-1806), Baptist pastor at Middleborough and champion of religious liberty, for the Word Hoard: A History of New-England with particular reference to the Baptists (Boston, 1777; Providence, 1784; Boston, 1796), David Weston's second edition (Newton: Backus Historical Society, 1871, two volumes), the Abridgment (1804) and An Appeal to the Public for Religious Liberty (1773), from Internet Archive scans. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "backus"
+ ],
+ "_surname": [
+  "isaac backus",
+  "backus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "backus-history-1-1777": [
+   "historyofnewengl01back_0",
+   "A History of New-England, with particular Reference to the Baptists, vol. I (Boston: Edward Draper; 1777)"
+  ],
+  "backus-history-2-1784": [
+   "historyofnewengl02back",
+   "A Church History of New-England, vol. II, from 1690 to 1784 (Providence: John Carter, 1784)"
+  ],
+  "backus-history-3-1796": [
+   "historyofnewengl03back",
+   "A Church History of New-England, vol. III, from 1783 to 1796 (Boston: Manning & Loring, 1796)"
+  ],
+  "backus-history-weston-1": [
+   "newengl01back",
+   "A History of New England with particular Reference to the Baptists, vol. I, ed. David Weston (Newton, Mass.: Backus Historical Society, 1871)"
+  ],
+  "backus-history-weston-2": [
+   "newengl02back",
+   "A History of New England with particular Reference to the Baptists, vol. II, ed. David Weston (Newton, Mass.: Backus Historical Society, 1871)"
+  ],
+  "backus-abridgment-1804": [
+   "abridgmentofchur00back_0",
+   "An Abridgment of the Church History of New-England, from 1602 to 1804 (Boston: E. Lincoln for the author, 1804)"
+  ],
+  "backus-appeal-1773": [
+   "anappealtopubli00backgoog",
+   "An Appeal to the Public for Religious Liberty (Boston: John Boyle, MDCCLXXIII)"
+  ]
+ },
+ "_alternates": {
+  "backus-copies": "historyofnewengl01back (1777); EEBO copies; about 25 single tracts 1754-1796 (not read)"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "backus-history-1-1777": "title page read: year garbled in this copy (\"ipjp\"); another copy reads 1777",
+  "backus-history-2-1784": "title page read: 1784 (the catalogue's 1777 is wrong)",
+  "backus-history-3-1796": "title page read: 1796 (the catalogue's 1777 is wrong)",
+  "backus-appeal-1773": "title page read: the author line was not captured in the OCR lines read"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "backus-history-1-1777": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac backus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1777",
+   "ia_date": "1777",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: year garbled in this copy (\"ipjp\"); another copy reads 1777"
+  },
+  "backus-history-2-1784": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "backus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1777",
+   "ia_date": "1777",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1784 (the catalogue's 1777 is wrong)"
+  },
+  "backus-history-3-1796": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac backus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1777",
+   "ia_date": "1777",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1796 (the catalogue's 1777 is wrong)"
+  },
+  "backus-history-weston-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac backus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "backus-history-weston-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac backus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "backus-abridgment-1804": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac backus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "backus-appeal-1773": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac backus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: the author line was not captured in the OCR lines read"
+  }
+ }
+}

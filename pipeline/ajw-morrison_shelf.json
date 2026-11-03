@@ -1,0 +1,132 @@
+{
+ "_about": "TRANSLATOR SHELF: A. J. W. Morrison (1806-1865), Bohn's Standard Library: Schiller's History of the Thirty Years' War (1846) and, with E. B. Eastwick, his Revolt of the Netherlands; Friedrich Schlegel's Philosophy of Life and Philosophy of Language (1847); Goethe's Letters from Switzerland and Travels in Italy. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. j. w. morrison",
+  "alexander james william morrison"
+ ],
+ "_surname": [
+  "a. j. w. morrison",
+  "alexander james william morrison"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ajm-43544": [
+   43544,
+   "The philosophy of life, and philosophy of language, in a course of lectures"
+  ],
+  "ajm-53205": [
+   53205,
+   "Letters from Switzerland and Travels in Italy"
+  ],
+  "ajm-566": [
+   566,
+   "The History of the Thirty Years' War"
+  ],
+  "ajm-6780": [
+   6780,
+   "History of the Revolt of the Netherlands — Complete"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ajw-morrison-goethe-letters-from-switzerland-and-travels-in": {
+   "source": "ajm-53205",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Letters from Switzerland and Travels in Italy",
+   "translated": "1846-1849 (see the Gutenberg header)",
+   "translator": "A. J. W. Morrison",
+   "scan_edition": "Project Gutenberg 53205 (clean text)"
+  },
+  "ajw-morrison-schiller-history-of-the-revolt-of-the-netherlands": {
+   "source": "ajm-6780",
+   "of": "Friedrich Schiller",
+   "work": "History of the Revolt of the Netherlands — Complete",
+   "translated": "1846-1849 (see the Gutenberg header)",
+   "translator": "A. J. W. Morrison (with Edward Backhouse Eastwick)",
+   "scan_edition": "Project Gutenberg 6780 (clean text)"
+  },
+  "ajw-morrison-schiller-the-history-of-the-thirty-years-war": {
+   "source": "ajm-566",
+   "of": "Friedrich Schiller",
+   "work": "The History of the Thirty Years' War",
+   "translated": "1846-1849 (see the Gutenberg header)",
+   "translator": "A. J. W. Morrison",
+   "scan_edition": "Project Gutenberg 566 (clean text)"
+  },
+  "ajw-morrison-schlegel-the-philosophy-of-life-and-philosophy-of": {
+   "source": "ajm-43544",
+   "of": "Friedrich von Schlegel",
+   "work": "The philosophy of life, and philosophy of language, in a course of lectures",
+   "translated": "1846-1849 (see the Gutenberg header)",
+   "translator": "A. J. W. Morrison",
+   "scan_edition": "Project Gutenberg 43544 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-6775": "Another Gutenberg file of The History of the Thirty Years' War (566): duplicate, not shelved."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ajm-43544": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. w. morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. J. W. Morrison"
+  },
+  "ajm-53205": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. w. morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. J. W. Morrison"
+  },
+  "ajm-566": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. w. morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. J. W. Morrison"
+  },
+  "ajm-6780": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. w. morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Backhouse Eastwick; A. J. W. Morrison"
+  }
+ },
+ "_verified": {
+  "ajm-43544": {
+   "pg": 43544,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. J. W. Morrison"
+  },
+  "ajm-53205": {
+   "pg": 53205,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. J. W. Morrison"
+  },
+  "ajm-566": {
+   "pg": 566,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. J. W. Morrison"
+  },
+  "ajm-6780": {
+   "pg": 6780,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Backhouse Eastwick"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

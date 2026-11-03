@@ -1,0 +1,213 @@
+{
+ "_about": "Constance Fenimore Woolson's novels and regional stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Constance Fenimore Woolson",
+ "_name_words": [
+  "woolson"
+ ],
+ "_surname": [
+  "woolson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cfwoolson-castle-nowhere": [
+   6436,
+   "Castle Nowhere"
+  ],
+  "cfwoolson-old-stone-house": [
+   6679,
+   "The Old Stone House"
+  ],
+  "cfwoolson-stories-by-american-authors-volume-4": [
+   22401,
+   "Stories by American Authors (Volume 4)"
+  ],
+  "cfwoolson-anne": [
+   32707,
+   "Anne: A Novel"
+  ],
+  "cfwoolson-east-angels": [
+   33143,
+   "East Angels: A Novel"
+  ],
+  "cfwoolson-mentone-cairo-and-corfu": [
+   33367,
+   "Mentone, Cairo, and Corfu"
+  ],
+  "cfwoolson-rodman-the-keeper": [
+   33813,
+   "Rodman the Keeper: Southern Sketches"
+  ],
+  "cfwoolson-jupiter-lights": [
+   34282,
+   "Jupiter Lights"
+  ],
+  "cfwoolson-front-yard-and-other-italian-stories": [
+   38517,
+   "The Front Yard, and Other Italian Stories"
+  ],
+  "cfwoolson-for-the-major": [
+   38792,
+   "For the Major: A Novelette"
+  ],
+  "cfwoolson-solomon": [
+   38998,
+   "Solomon"
+  ],
+  "cfwoolson-horace-chase": [
+   39067,
+   "Horace Chase"
+  ],
+  "cfwoolson-dorothy-and-other-italian-stories": [
+   39170,
+   "Dorothy, and Other Italian Stories"
+  ],
+  "cfwoolson-ancient-city": [
+   52770,
+   "The Ancient City"
+  ],
+  "cfwoolson-two-women-1862": [
+   54017,
+   "Two Women, 1862; a Poem"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cfwoolson-castle-nowhere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-old-stone-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-stories-by-american-authors-volume-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-anne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-east-angels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-mentone-cairo-and-corfu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-rodman-the-keeper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-jupiter-lights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-front-yard-and-other-italian-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-for-the-major": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-solomon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-horace-chase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-dorothy-and-other-italian-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-ancient-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfwoolson-two-women-1862": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woolson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

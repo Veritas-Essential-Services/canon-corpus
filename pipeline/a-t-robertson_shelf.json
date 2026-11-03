@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain A. T. Robertson (Archibald Thomas Robertson, 1863-1934), Southern Baptist Greek scholar, for the Word Hoard: his books printed before 1930, among them A Grammar of the Greek New Testament in the Light of Historical Research (copyright 1914), A Harmony of the Gospels (1922), Epochs in the Life of Jesus (1907) and of St. Paul (1909), the Life and Letters of John Albert Broadus (1901), Luke the Historian (1920), The Pharisees and Jesus (1920) and The Wisdom of James (1915), from Internet Archive scans and Project Gutenberg. Not James Craigie Robertson or F. W. Robertson. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robertson"
+ ],
+ "_surname": [
+  "a. t. robertson",
+  "archibald thomas robertson",
+  "a.t. robertson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "atrobertson-harmony": [
+   36264,
+   "A Harmony of the Gospels for Students of the Life of Christ (New York and London: Harper & Brothers, copyright 1922)"
+  ]
+ },
+ "internet_archive": {
+  "atrobertson-grammar": [
+   "cu31924021607209",
+   "A Grammar of the Greek New Testament in the Light of Historical Research (New York: George H. Doran; London: Hodder & Stoughton; copyright 1914)"
+  ],
+  "atrobertson-epochs-jesus": [
+   "epochsinlifeofj00robe",
+   "Epochs in the Life of Jesus (New York: Charles Scribner's Sons, 1907)"
+  ],
+  "atrobertson-epochs-paul": [
+   "epochsinthelifeo00robeuoft",
+   "Epochs in the Life of St. Paul (London: Hodder and Stoughton, 1909)"
+  ],
+  "atrobertson-broadus": [
+   "lifelettersofjoh00robe",
+   "Life and Letters of John Albert Broadus (Philadelphia: American Baptist Publication Society, 1901)"
+  ],
+  "atrobertson-luke-historian": [
+   "lukethehistorian00robeuoft",
+   "Luke the Historian in the Light of Research (Edinburgh: T. & T. Clark, 1920)"
+  ],
+  "atrobertson-pharisees": [
+   "phariseesandjesu00robeuoft",
+   "The Pharisees and Jesus, the Stone Lectures for 1915-16 (New York: Charles Scribner's Sons, 1920)"
+  ],
+  "atrobertson-wisdom-james": [
+   "practicalsociala00robeuoft",
+   "Practical and Social Aspects of Christianity: The Wisdom of James (New York: George H. Doran; copyright 1915)"
+  ]
+ },
+ "_alternates": {
+  "atrobertson-copies": "Another Grammar copy; the Doran Harmony (1922); Broadus's Harmony with his notes (1893) and revised by him (1903); A Short Grammar (copyright 1908, a later printing)"
+ },
+ "_excluded": {
+  "atrobertson-later": "Word Pictures in the New Testament (CCEL, 1930-33); Studies in the Epistle of James as revised by Peacock (PG 48411, 1959)"
+ },
+ "_rights_checked": {
+  "atrobertson-grammar": "title page read: year not on the title page, copyright 1914; Robertson died 1934, so these pre-1930 books are US public domain but in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "atrobertson-harmony": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrobertson-grammar": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: year not on the title page, copyright 1914; Robertson died 1934, so these pre-1930 books are US public domain but in UK copyright"
+  },
+  "atrobertson-epochs-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atrobertson-epochs-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atrobertson-broadus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atrobertson-luke-historian": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atrobertson-pharisees": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atrobertson-wisdom-james": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "[c1915]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

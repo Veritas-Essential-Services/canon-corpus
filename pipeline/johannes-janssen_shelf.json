@@ -1,0 +1,338 @@
+{
+ "_about": "Public-domain Johannes Janssen (1829-1891, Frankfurt Catholic historian) in English for the Word Hoard: the History of the German People at the Close of the Middle Ages, 16 volumes and index (London: Kegan Paul, 1896-1925), translated by M. A. Mitchell and A. M. Christie (vols 1-2) and A. M. Christie (vols 3-16), from Internet Archive scans of the Toronto set. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "janssen"
+ ],
+ "_surname": [
+  "janssen",
+  "johannes janssen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "janssen-german-people-1": [
+   "historyofgermanp01jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 1, tr. M. A. Mitchell and A. M. Christie (London: Kegan Paul, Trench, Trübner, 1896)"
+  ],
+  "janssen-german-people-2": [
+   "historyofgermanp02jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 2, tr. M. A. Mitchell and A. M. Christie (London: Kegan Paul, Trench, Trübner, 1896)"
+  ],
+  "janssen-german-people-3": [
+   "historyofgermanp03jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 3, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1900)"
+  ],
+  "janssen-german-people-4": [
+   "historyofgermanp04jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 4, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1900)"
+  ],
+  "janssen-german-people-5": [
+   "historyofgermanp05jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 5, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1903)"
+  ],
+  "janssen-german-people-6": [
+   "historyofgermanp06jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 6, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1903)"
+  ],
+  "janssen-german-people-7": [
+   "historyofgermanp07jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 7, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1905)"
+  ],
+  "janssen-german-people-8": [
+   "historyofgermanp08jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 8, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1905)"
+  ],
+  "janssen-german-people-9": [
+   "historyofgermanp09jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 9, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1906)"
+  ],
+  "janssen-german-people-10": [
+   "historyofgermanp10jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 10, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1906)"
+  ],
+  "janssen-german-people-11": [
+   "historyofgermanp11jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 11, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1907)"
+  ],
+  "janssen-german-people-12": [
+   "historyofgermanp12jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 12, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1907)"
+  ],
+  "janssen-german-people-13": [
+   "historyofgermanp13jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 13, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1909)"
+  ],
+  "janssen-german-people-14": [
+   "historyofgermanp14jansuoft",
+   "History of the German People at the Close of the Middle Ages, vol. 14, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1909)"
+  ],
+  "janssen-german-people-15": [
+   "historyofgermanp15jansuoft",
+   "History of the German People after the Close of the Middle Ages, vol. 15, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1910)"
+  ],
+  "janssen-german-people-16": [
+   "historyofgermanp16jansuoft",
+   "History of the German People after the Close of the Middle Ages, vol. 16, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1910)"
+  ],
+  "janssen-german-people-index": [
+   "historyofgermanp00jansuoft",
+   "History of the German People after the Close of the Middle Ages, vol. XVII, Index (London: Kegan Paul, Trench, Trübner; St. Louis: B. Herder, 1925)"
+  ]
+ },
+ "_alternates": {
+  "janssen-copies": "Other copies of each volume; vol. II second English edition (1905); 1912 reissues of vols 5-6"
+ },
+ "_excluded": {
+  "janssen-german": "culturalconditio0000joha: the German original, catalogued as English"
+ },
+ "_identity_checked": {
+  "janssen-german-people-4": {
+   "author": "title page read: 'By Iohannes Ianssen'"
+  }
+ },
+ "_rights_checked": {
+  "janssen-german-people-index": "title page read: the index volume names no translator; Kegan Paul and B. Herder, 1925"
+ },
+ "_pending": {},
+ "_translators": {
+  "janssen-german-people-1": "christie",
+  "janssen-german-people-2": "christie",
+  "janssen-german-people-3": "christie",
+  "janssen-german-people-4": "christie",
+  "janssen-german-people-5": "christie",
+  "janssen-german-people-6": "christie",
+  "janssen-german-people-7": "christie",
+  "janssen-german-people-8": "christie",
+  "janssen-german-people-9": "christie",
+  "janssen-german-people-10": "christie",
+  "janssen-german-people-11": "christie",
+  "janssen-german-people-12": "christie",
+  "janssen-german-people-13": "christie",
+  "janssen-german-people-14": "christie",
+  "janssen-german-people-15": "christie",
+  "janssen-german-people-16": "christie"
+ },
+ "_checks": {
+  "janssen-german-people-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-12": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-13": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-14": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-15": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-16": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "translator_claimed": "christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janssen-german-people-index": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janssen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1896-1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the index volume names no translator; Kegan Paul and B. Herder, 1925"
+  }
+ }
+}

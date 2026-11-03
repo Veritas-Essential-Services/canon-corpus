@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Félicité de Lamennais (1782-1854) in English for the Word Hoard: Words of a Believer (New York, 1834), The People's Own Book (Boston, 1839), the Essay on Indifference in Matters of Religion, tr. Lord Stanley of Alderley (London, 1895), and Sermonettes, tr. J. L. Jacobson van Hemert (Chicago, 1904), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mennais"
+ ],
+ "_surname": [
+  "lamennais",
+  "la mennais",
+  "lammenais"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lamennais-words-of-a-believer": [
+   "wordsabeliever00lamegoog",
+   "Words of a Believer, translated from the French (New-York: Charles de Behr, 1834)"
+  ],
+  "lamennais-peoples-own-book": [
+   "peoplesownbook00greegoog",
+   "The People's Own Book, translated from the French (Boston: Charles C. Little & James Brown, 1839)"
+  ],
+  "lamennais-essay-indifference": [
+   "essayonindiffer00lamegoog",
+   "Essay on Indifference in Matters of Religion, tr. Lord Stanley of Alderley (London: John Macqueen, 1895)"
+  ],
+  "lamennais-sermonettes": [
+   "Sermonettes",
+   "Sermonettes, selected and translated by J. L. Jacobson van Hemert (Chicago: A. C. McClurg, MCMIV)"
+  ]
+ },
+ "_alternates": {
+  "lamennais-copies": "A Duopage copy of the 1834 Words of a Believer"
+ },
+ "_excluded": {
+  "lamennais-about": "Gibson's Abbé de Lamennais (1896) and other studies",
+  "lamennais-other": "French, German and Italian editions with wrong language tags"
+ },
+ "_rights_checked": {
+  "lamennais-peoples-own-book": "title page read: translator not named; the note is signed 'The Translator, Boston, October, 1839' (IA credits Nathaniel Greene)"
+ },
+ "_pending": {
+  "lamennais-other": "Modern Slavery, A Voice from Prison and The Affairs of Rome in English: not found"
+ },
+ "_translators": {
+  "lamennais-essay-indifference": "stanley",
+  "lamennais-sermonettes": "hemert"
+ },
+ "_checks": {
+  "lamennais-words-of-a-believer": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "la mennais",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lamennais-peoples-own-book": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "la mennais",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the note is signed 'The Translator, Boston, October, 1839' (IA credits Nathaniel Greene)"
+  },
+  "lamennais-essay-indifference": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lamennais",
+   "translator_claimed": "stanley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lamennais-sermonettes": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lamennais",
+   "translator_claimed": "hemert",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

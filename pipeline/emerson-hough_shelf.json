@@ -1,0 +1,431 @@
+{
+ "_about": "Emerson Hough's frontier novels and outdoor books for boys: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Emerson Hough",
+ "_name_words": [
+  "hough"
+ ],
+ "_surname": [
+  "emerson hough"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ehough-passing-of-the-frontier": [
+   3033,
+   "The Passing of the Frontier: A Chronicle of the Old West"
+  ],
+  "ehough-law-of-the-land-of-miss-lady-whom-it-involved-in-myst": [
+   6431,
+   "The Law of the Land Of Miss Lady, Whom It Involved in Mystery, and of John Eddring, Gentleman of the South, Who Read Its Deeper Meaning: A Novel"
+  ],
+  "ehough-purchase-price": [
+   11593,
+   "The Purchase Price; Or, The Cause of Compromise",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-covered-wagon": [
+   13384,
+   "The Covered Wagon",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-mississippi-bubble-how-the-star-of-good-fortune-rose": [
+   14001,
+   "The Mississippi Bubble How the Star of Good Fortune Rose and Set and Rose Again, by a Woman's Grace, for One John Law of Lauriston"
+  ],
+  "ehough-54-40-or-fight": [
+   14355,
+   "54-40 or Fight"
+  ],
+  "ehough-way-of-a-man": [
+   14362,
+   "The Way of a Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-girl-at-the-halfway-house-a-story-of-the-plains": [
+   14948,
+   "The Girl at the Halfway House A Story of the Plains"
+  ],
+  "ehough-hearts-desire-the-story-of-a-contented-town-certain-p": [
+   15159,
+   "Heart's Desire The Story of a Contented Town, Certain Peculiar Citizens, and Two Fortunate Lovers A Novel"
+  ],
+  "ehough-sagebrusher": [
+   19388,
+   "The Sagebrusher: A Story of the West",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-singing-mouse-stories": [
+   21004,
+   "The Singing Mouse Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-man-next-door": [
+   23606,
+   "The Man Next Door",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-maws-vacation": [
+   24126,
+   "Maw's Vacation: The Story of a Human Being in the Yellowstone"
+  ],
+  "ehough-story-of-the-outlaw": [
+   24342,
+   "The Story of the Outlaw: A Study of the Western Desperado"
+  ],
+  "ehough-lady-and-the-pirate-being-the-plain-tale-of-a-diligen": [
+   24907,
+   "The Lady and the Pirate Being the Plain Tale of a Diligent Pirate and a Fair Captive",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-young-alaskans": [
+   25494,
+   "The Young Alaskans",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-young-alaskans-on-the-missouri": [
+   26367,
+   "The Young Alaskans on the Missouri",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-young-alaskans-in-the-rockies": [
+   27850,
+   "The Young Alaskans in the Rockies",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-young-alaskans-in-the-far-north": [
+   28694,
+   "Young Alaskans in the Far North",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-young-alaskans-on-the-trail": [
+   28741,
+   "The Young Alaskans on the Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-magnificent-adventure-being-the-story-of-the-worlds-g": [
+   30298,
+   "The Magnificent Adventure Being the Story of the World's Greatest Exploration and the Romance of a Very Gallant Gentleman",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-broken-gate": [
+   33475,
+   "The Broken Gate: A Novel"
+  ],
+  "ehough-king-of-gee-whiz": [
+   41361,
+   "The King of Gee-Whiz (verses by Wilbur D. Nesbit)"
+  ],
+  "ehough-way-to-the-west-and-the-lives-of-three-early-american": [
+   45143,
+   "The Way to the West, and the Lives of Three Early Americans: Boone—Crockett—Carson"
+  ],
+  "ehough-way-out": [
+   49096,
+   "The Way Out"
+  ],
+  "ehough-north-of-36": [
+   59201,
+   "North of 36",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-john-rawn-prominent-citizen": [
+   60001,
+   "John Rawn, Prominent Citizen",
+   {
+    "contents_only": true
+   }
+  ],
+  "ehough-web": [
+   74188,
+   "The Web",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-39957": "PG 39957 Prairie Gold: a many-author anthology of the Iowa Press and Authors' Club."
+ },
+ "_checks": {
+  "ehough-passing-of-the-frontier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-law-of-the-land-of-miss-lady-whom-it-involved-in-myst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-purchase-price": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-covered-wagon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-mississippi-bubble-how-the-star-of-good-fortune-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-54-40-or-fight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-way-of-a-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-girl-at-the-halfway-house-a-story-of-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-hearts-desire-the-story-of-a-contented-town-certain-p": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-sagebrusher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-singing-mouse-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-man-next-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-maws-vacation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-story-of-the-outlaw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-lady-and-the-pirate-being-the-plain-tale-of-a-diligen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-young-alaskans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-young-alaskans-on-the-missouri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-young-alaskans-in-the-rockies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-young-alaskans-in-the-far-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-young-alaskans-on-the-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-magnificent-adventure-being-the-story-of-the-worlds-g": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-broken-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-king-of-gee-whiz": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-way-to-the-west-and-the-lives-of-three-early-american": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-way-out": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-north-of-36": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-john-rawn-prominent-citizen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehough-web": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emerson hough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain Francis Jacox, Anglican clergyman and essayist, for the Word Hoard, his books on Scripture: Scripture Texts Illustrated by General Literature, Bible Music, Secular Annotations on Scripture Texts, Traits of Character and Notes of Incident in Bible Story, Scripture Proverbs, Side-Lights on Scripture Texts, and At Nightfall and Midnight. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 131 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis jacox",
+  "f. jacox",
+  "jacox"
+ ],
+ "_surname": [
+  "jacox"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jacox-scripture-texts": [
+   "scripturetextsil0001jaco",
+   "Scripture texts illustrated by general literature, vol. 1 (New York : Thomas Nelson & Sons, 1800)"
+  ],
+  "jacox-bible-music": [
+   "biblemusicvaria00jacogoog",
+   "Bible music, variations on musical themes from Scripture (catalogued 1871)"
+  ],
+  "jacox-secular-annotations": [
+   "secularannotatio00jaco",
+   "Secular annotations on Scripture texts (London : Hodder & Stoughton, 1872)"
+  ],
+  "jacox-traits-of-character": [
+   "traitsofcharacte00jaco",
+   "Traits of character and notes of incident in Bible story (London, Hodder and Stoughton, 1873)"
+  ],
+  "jacox-scripture-proverbs": [
+   "scriptureproverb00jaco",
+   "Scripture proverbs : illustrated, annotated, and applied (London : Hodder and Stoughton, 1874)"
+  ],
+  "jacox-side-lights": [
+   "sidelightsonscri00jaco",
+   "Side-lights on Scripture texts (London : Hodder and Stoughton, 1877)"
+  ],
+  "jacox-at-nightfall": [
+   "atnightfallandm00jacogoog",
+   "At nightfall and midnight: musings after dark (catalogued 1873)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jacox-literary": "Recreations of a Recluse, Cues from All Quarters, Aspects of Authorship and Shakespeare Diversions are literary essays, outside this theology shelf",
+  "jacox-dups": "other scans of Bible Music"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jacox-scripture-texts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jacox-bible-music": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jacox-secular-annotations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jacox-traits-of-character": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jacox-scripture-proverbs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jacox-side-lights": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jacox-at-nightfall": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

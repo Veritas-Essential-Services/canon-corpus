@@ -1,0 +1,98 @@
+{
+ "_about": "Lucas Malet: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Lucas Malet",
+ "_name_words": [
+  "lucas",
+  "malet"
+ ],
+ "_surname": [
+  "lucas malet",
+  "malet"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lmalet-far-horizon": [
+   8569,
+   "The Far Horizon"
+  ],
+  "lmalet-deadham-hard": [
+   12520,
+   "Deadham Hard: A Romance"
+  ],
+  "lmalet-history-of-sir-richard-calmady": [
+   23784,
+   "The History of Sir Richard Calmady: A Romance"
+  ],
+  "lmalet-gateless-barrier": [
+   34619,
+   "The Gateless Barrier"
+  ],
+  "lmalet-little-peter": [
+   45666,
+   "Little Peter: A Christmas Morality for Children of any Age"
+  ],
+  "lmalet-adrian-savage": [
+   56577,
+   "Adrian Savage: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lmalet-far-horizon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucas malet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmalet-deadham-hard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucas malet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmalet-history-of-sir-richard-calmady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucas malet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmalet-gateless-barrier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucas malet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmalet-little-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucas malet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmalet-adrian-savage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucas malet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

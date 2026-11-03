@@ -1,0 +1,535 @@
+{
+ "_about": "Public-domain Luke Milbourne, High Church rector of St Ethelburga's, London, for the Word Hoard: Mysteries in Religion Vindicated, The Christian Pattern Paraphrased, his metrical Psalms of David, his catechism, his many sermons on obedience and on the thirtieth of January, his pamphlets against Hoadly, The Royal Martyr Lamented, and A Legacy to the Church of England. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 124 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "luke milbourne",
+  "l. milbourne",
+  "milbourne",
+  "milbourn"
+ ],
+ "_surname": [
+  "milbourne",
+  "milbourn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "milbourne-samaritanism-revivd": [
+   "bim_early-english-books-1641-1700_samaritanism-revivd_milbourne-luke_1683",
+   "Samaritanism reviv'd.  1683 (catalogued 1683)"
+  ],
+  "milbourne-originals-rebellion": [
+   "bim_early-english-books-1641-1700_the-originals-of-rebelli_milbourne-luke_1683",
+   "The originals of rebellion: ...  1683 (catalogued 1683)"
+  ],
+  "milbourne-mysteries-religion-vindicated": [
+   "bim_early-english-books-1641-1700_mysteries-in-religion-vi_milbourne-luke_1692",
+   "Mysteries in religion vindicated: ...  1692 (catalogued 1692)"
+  ],
+  "milbourne-christian-pattern-paraphrased": [
+   "bim_early-english-books-1641-1700_the-christian-pattern-pa_milbourne-luke_1696",
+   "The Christian pattern paraphrased.  1696 (catalogued 1696)"
+  ],
+  "milbourne-psalms-david-english": [
+   "davidine00milb",
+   "The Psalms of David in English metre : translated from the original, and suited to all the tunes now sung in churches ; with the additions of several new (London : Printed for W. Rogers [etc.], 1698)"
+  ],
+  "milbourne-false-faith": [
+   "bim_early-english-books-1641-1700_a-false-faith-_milbourne-luke_1698",
+   "A false faith ...  1698 (catalogued 1698)"
+  ],
+  "milbourne-catechisme-church-england": [
+   "bim_early-english-books-1641-1700_the-catechisme-of-the-ch_milbourne-luke_1700",
+   "The catechisme of the Church of England explain'd, ...  1700 (Netherlands : [sold by] Elias Yvans, bookseller, 1700)"
+  ],
+  "milbourne-mortality-gods-prophets": [
+   "bim_eighteenth-century_the-mortality-of-gods-p_milbourne-luke_1704",
+   "The mortality of God's prophets, and what good Christians ought to learn from it. A sermon preach'd at the funeral of the Reverend Mr. Thomas Copping,... on Tuesday, September 19th. 1704. By Luke Milbourn,...  1704 (catalogued 1704)"
+  ],
+  "milbourne-hope-future-life": [
+   "bim_eighteenth-century_the-hope-of-a-future-lif_milbourne-luke_1704",
+   "The hope of a future life, the sole foundation of a Christian's happiness. A sermon preach'd at the funeral of the Reverend Sidrach Symson, ... November the 9th. 1704. By Luke Milbourn, ...  1704 (catalogued 1704)"
+  ],
+  "milbourne-great-brittains-acclamation": [
+   "bim_eighteenth-century_great-brittains-acclamat_milbourne-luke_1704",
+   "Great Brittains acclamation to her Deborah. A sermon preached in the parish church of St. Ethelburga, September VII. 1704. being the day appointed ... for a solemn thanksgiving for the great victory ... By Luke Milbourne, ...  1704 (catalogued 1704)"
+  ],
+  "milbourne-parish-church-st": [
+   "bim_eighteenth-century_a-sermon-preachd-at-the_milbourne-luke_1708",
+   "A sermon preach'd at the Parish Church of St. Ethelburga, on Friday, Jan. 30th, 1707/8. ... By Luke Milbourne, ...  1708 (catalogued 1708)"
+  ],
+  "milbourne-utter-extirpation-tyrants": [
+   "bim_eighteenth-century_the-utter-extirpation-of_milbourne-luke_1708",
+   "The utter extirpation of tyrants and their families. A sermon preached at St. Ethelburga's, Jan. 30. 1707-8. By Luke Milbourne, ...  1708 (catalogued 1708)"
+  ],
+  "milbourne-melius-inquirendum-fresh": [
+   "bim_eighteenth-century_melius-inquirendum-or-_milbourne-luke_1709",
+   "Melius inquirendum: or, a fresh inquiry into St. Paul's behaviour toward the civil magistrate. A sermon, ... at the parish-church of St Ethelburga. January the 31st, 1708/9. By Luke Milbourne, ...  1709 (catalogued 1709)"
+  ],
+  "milbourne-debtor-creditor-made": [
+   "ldpd_6430053_000",
+   "Debtor and creditor made easy, or, The judgment of the unmerciful demonstrated in a sermon (London : Printed for Samuel Manship ..., 1709)"
+  ],
+  "milbourne-people-not-original": [
+   "peoplenotorigina00milb",
+   "The people not the original of civil power : proved from God's word ... in a sermon preach'd at the parish church of St. Ethelburga on Thursday, Jan. 30, 1706/7 (London : Printed for George Sawbridge in Little Britain, 1710)"
+  ],
+  "milbourne-measures-resistance-higher": [
+   "bim_eighteenth-century_the-measures-of-resistan_milbourne-luke_1710",
+   "The measures of resistance to the higher powers, so far as becomes a Christian: in a sermon, preach'd on January the 30th, 1709/10, ... at the Parish Church of St. Ethelburga. By Luke Milbourne, ...  1710 (catalogued 1710)"
+  ],
+  "milbourne-impiety-folly-resisting": [
+   "bim_eighteenth-century_the-impiety-and-folly-of_milbourne-luke_1711",
+   "The impiety and folly of resisting lawful governours by force or arms, demonstrated in a sermon preach'd on the thirtieth of January, 1710/11. ... at the parish-church of St. Ethel burga. By Luke Milbourne. ...  1711 (catalogued 1711)"
+  ],
+  "milbourne-god-caesar-seasonable": [
+   "bim_eighteenth-century_god-and-caesar-or-a-se_milbourne-luke_1712",
+   "God and Caesar; or, a seasonable antidote for the poison of rebellion against God and the King, in some sermons preach'd on the twenty ninth of May, at the parish-church of St Ethelburga, London. By Luke Milbourne, ...  1712 (catalogued 1712)"
+  ],
+  "milbourne-curse-regicides-simeon": [
+   "bim_eighteenth-century_the-curse-of-regicides-_milbourne-luke_1712",
+   "The curse of regicides: or Simeon and Levi's doom, in a sermon preached on the thirtieth of January, 1711/12. being the solemn day of fasting and humiliation for the execrable murder of Charles the Martyr, ... At the parish-church of St. Ethelburga. By Luke Milbourne, ...  1712 (catalogued 1712)"
+  ],
+  "milbourne-guilty-conscience-makes": [
+   "guiltyconscience00milbiala",
+   "A guilty conscience makes a rebel, or, Rulers no terrour to the good : prov'd in a sermon preached on the thirtieth of Jamuary 1712/13 : being the solemn day of fasting and humiliation for the execrable murder of Charles the Martyr of blessed memory : at the parish-church of St. Ethelburga : with a preface reflecting on a late pamphlet called The ass and the serpent (London : Printed by L. Beardwell for George Sawbridge ..., 1713)"
+  ],
+  "milbourne-peace-gift-god": [
+   "bim_eighteenth-century_peace-the-gift-of-god-b_milbourne-luke_1713",
+   "Peace the gift of God, but the terrour of the wicked; in a sermon preach'd on the thanksgiving for the peace, July the 7th, 1713. At the parish-church of St. Ethelburga. By Luke Milbourne, ...  1713 (catalogued 1713)"
+  ],
+  "milbourne-psalmody-recommended-company": [
+   "psalmreco00milb",
+   "Psalmody recommended in a sermon preach'd to the company of Parish-clerks, at St. Alban's Woodstreet, November 17 (London : Printed by J. Downing, 1713)"
+  ],
+  "milbourne-danger-changes-church": [
+   "bim_eighteenth-century_the-danger-of-changes-in_milbourne-luke_1714",
+   "The danger of changes in church or state; or, the fatal doom of such as love them and their associates: in a sermon preach'd, January 31, 1714./15. at St. Ethelburgas. By Luke Milbourne, ...  1714 (catalogued 1714)"
+  ],
+  "milbourne-conciones-du-ad": [
+   "bim_eighteenth-century_conciones-du-ad-clerum-_milbourne-luke_1715",
+   "Conciones duæ ad clerum londinensem, Collegii Sionensis socios apprimè reverendos, habitæ in templo Sti Alphegi, Aprilis die 2.° 1703. & Maii die 10.° 1715. ... A Luca Milbourne, ...  1715 (catalogued 1715)"
+  ],
+  "milbourne-christian-subjects-duty": [
+   "christiansubject00milb",
+   "The Christian subject's duty to his lawful prince : in a sermon preach'd January the 30th, 1715/16 at St. Ethelburga's (London : Printed by H. Meere at the Black Fryer in Black Fryers for G. Sawbridge at the Three Golden Flower-de-Luces in Little Britain, 1716)"
+  ],
+  "milbourne-evil-not-be": [
+   "bim_eighteenth-century_evil-not-to-be-done-tha_milbourne-luke_1717_0",
+   "Evil not to be done, that good may come of it. A sermon preach'd January the 30th, 1716/17, at St. Ethelburga's. By Luke Milbourne, ...  1717 (catalogued 1717)"
+  ],
+  "milbourne-ignorance-folly-put": [
+   "bim_eighteenth-century_ignorance-and-folly-put-_milbourne-luke_1719",
+   "Ignorance and folly put to silence by well-doing: or, a preservative against the Bishop of Bangor's politicks. In a sermon preach'd at the parish-church of St. Ethelburga's, on the solemn anniversary fast kept ... for the guilt contracted by these nations, in the execrable murder of Charles I. ... By Luke Milbourne, ...  1719 (catalogued 1719)"
+  ],
+  "milbourne-royal-martyr-lamented": [
+   "bim_eighteenth-century_the-royal-martyr-lamente_milbourne-luke_1724",
+   "The royal martyr lamented, in fourteen sermons, preach'd on the thirtieth of January. Wherein the rights of monarchy are occasionally asserted; ... By Luke Milbourne, ...  1724 (catalogued 1724)"
+  ],
+  "milbourne-legacy-church-england": [
+   "bim_eighteenth-century_a-legacy-to-the-church-o_milbourne-luke_1772_2",
+   "A legacy to the Church of England, vindicating her orders from the objections of papists and dissenters, ... By the late Reverend Mr. Luke Milbourn, ...  1772: Vol 2, vol. 2 (catalogued 1772)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "milbourne-dryden": "Notes on Dryden's Virgil is literary criticism; left out",
+  "milbourne-moderate-cabal": "The Moderate Cabal, a verse satire, rests on the catalogue alone",
+  "milbourne-dups": "second scans of Tom of Bedlam and Melius Inquirendum"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "milbourne-christian-pattern-paraphrased": {
+   "author": "OCR of the title page: \"THE Christian Pattern PARAPHRAS'D ... The Imitation of CHRIST ... Made English by Luke MilBouRN, A Presbyter of the Church of England\"",
+   "title": "OCR of the title page: \"THE Christian Pattern PARAPHRAS'D ... The Imitation of CHRIST ... Made English by Luke MilBouRN, A Presbyter of the Church of England\""
+  },
+  "milbourne-utter-extirpation-tyrants": {
+   "author": "OCR of the title page: \"The utter Extirpation of Tyrants and their Families ... A SERMON Preached at St. Ethelburga's, Jan. 30. 1707-8. By LUKE MirBoukNsg, a Presbyter of the Church of England\"",
+   "title": "OCR of the title page: \"The utter Extirpation of Tyrants and their Families ... A SERMON Preached at St. Ethelburga's, Jan. 30. 1707-8. By LUKE MirBoukNsg, a Presbyter of the Church of England\""
+  },
+  "milbourne-debtor-creditor-made": {
+   "author": "OCR of the title page: \"DEBTOR AND CREDITOR Made EASY: OR, The Judgment of the Unmerciful Demonstrated, IN A SERMON. By LVKE MIL BOV R'ME [Presby]ter of the Church of ENGLAND\"",
+   "title": "OCR of the title page: \"DEBTOR AND CREDITOR Made EASY: OR, The Judgment of the Unmerciful Demonstrated, IN A SERMON. By LVKE MIL BOV R'ME [Presby]ter of the Church of ENGLAND\""
+  },
+  "milbourne-curse-regicides-simeon": {
+   "author": "OCR of the title page: \"Preached on the ... [Day of Fasting and Hu]miliation for the Execrable [Murder of] CHARLES the Martyr ... [C]hurch of St. ETHEL[BURGA] ... By LUKE MILBOURNE, a presbyter\" (the title words are lost to OCR)",
+   "title": "OCR of the title page: \"Preached on the ... [Day of Fasting and Hu]miliation for the Execrable [Murder of] CHARLES the Martyr ... [C]hurch of St. ETHEL[BURGA] ... By LUKE MILBOURNE, a presbyter\" (the title words are lost to OCR)"
+  },
+  "milbourne-danger-changes-church": {
+   "author": "OCR of the title page: \"The Danger of Changes in Church or State; OR, The fatal Doom of such as love them ... Preach'd ... [St.] ETHELBURGA ... [LUKE] MILBOURNE, A [Presbyter] of the Church of England\"",
+   "title": "OCR of the title page: \"The Danger of Changes in Church or State; OR, The fatal Doom of such as love them ... Preach'd ... [St.] ETHELBURGA ... [LUKE] MILBOURNE, A [Presbyter] of the Church of England\""
+  },
+  "milbourne-mortality-gods-prophets": {
+   "author": "Title page read from the page image: half-title \"Mr. Milborn's Sermon At the Funeral of the Reverend Mr. Thomas Copping, September 19. 1704.\"",
+   "title": "Title page read from the page image: half-title \"Mr. Milborn's Sermon At the Funeral of the Reverend Mr. Thomas Copping, September 19. 1704.\""
+  },
+  "milbourne-parish-church-st": {
+   "author": "Title page read from the page image: \"Sermon ... at the Parish-Church of St. Ethelburga, On Friday, Jan. 30th, 1707/8 ... By Luke Milbourne, a Presbyter of the Church of England\" (a dark scan)",
+   "title": "Title page read from the page image: \"Sermon ... at the Parish-Church of St. Ethelburga, On Friday, Jan. 30th, 1707/8 ... By Luke Milbourne, a Presbyter of the Church of England\" (a dark scan)"
+  },
+  "milbourne-melius-inquirendum-fresh": {
+   "author": "Title page read from the page image: \"Melius Inquirendum: or, a Fresh Enquiry into St. Paul's Behaviour toward the Civil Magistrate. A Sermon ... At the Parish-Church of St. Ethelburga. January the 31st, 1708. By Luke Milbourne, a Presbyter of the Church of England.\"",
+   "title": "Title page read from the page image: \"Melius Inquirendum: or, a Fresh Enquiry into St. Paul's Behaviour toward the Civil Magistrate. A Sermon ... At the Parish-Church of St. Ethelburga. January the 31st, 1708. By Luke Milbourne, a Presbyter of the Church of England.\""
+  },
+  "milbourne-people-not-original": {
+   "author": "Title page read from the page image: \"The People not the Original of Civil Power ... A Sermon Preach'd at the Parish-Church of St. Ethelburga, On Thursday, Jan. 30. 1709/10 ... The Fifth Edition. By Luke Milbourne, a Presbyter of the Church of England.\"",
+   "title": "Title page read from the page image: \"The People not the Original of Civil Power ... A Sermon Preach'd at the Parish-Church of St. Ethelburga, On Thursday, Jan. 30. 1709/10 ... The Fifth Edition. By Luke Milbourne, a Presbyter of the Church of England.\""
+  },
+  "milbourne-measures-resistance-higher": {
+   "author": "Title page read from the page image: \"The Measures of Resistance to The Higher Powers, So far as becomes a Christian: In a Sermon, Preach'd on January the 30th, 1709/10 ... At the Parish-Church of St. Ethelburga. By Luke Milbourne, a Presbyter of the Church of England. The Fourth Edition. London ... 1710.\"",
+   "title": "Title page read from the page image: \"The Measures of Resistance to The Higher Powers, So far as becomes a Christian: In a Sermon, Preach'd on January the 30th, 1709/10 ... At the Parish-Church of St. Ethelburga. By Luke Milbourne, a Presbyter of the Church of England. The Fourth Edition. London ... 1710.\""
+  },
+  "milbourne-god-caesar-seasonable": {
+   "author": "Title page read from the page image: \"God and Caesar; or, a Seasonable Antidote for the Poison of Rebellion against God and the King, In some Sermons preach'd On the Twenty Ninth of May, At the Parish-Church of St. Ethelburga, London. By Luke Milbourne, a Presbyter of the Church of England.\"",
+   "title": "Title page read from the page image: \"God and Caesar; or, a Seasonable Antidote for the Poison of Rebellion against God and the King, In some Sermons preach'd On the Twenty Ninth of May, At the Parish-Church of St. Ethelburga, London. By Luke Milbourne, a Presbyter of the Church of England.\""
+  },
+  "milbourne-peace-gift-god": {
+   "author": "Title page read from the page image: \"Peace the Gift of God, but the Terrour of the Wicked; in a Sermon Preach'd on the Thanksgiving for the Peace, July the 7th, 1713 at the Parish-Church of St. Ethelburga. By Luke Milbourne, a Presbyter of the Church of England.\"",
+   "title": "Title page read from the page image: \"Peace the Gift of God, but the Terrour of the Wicked; in a Sermon Preach'd on the Thanksgiving for the Peace, July the 7th, 1713 at the Parish-Church of St. Ethelburga. By Luke Milbourne, a Presbyter of the Church of England.\""
+  },
+  "milbourne-conciones-du-ad": {
+   "author": "Title page read from the page image: \"Conciones Duae ad Clerum Londinensem ... In Templo Sti Alphegi, Aprilis Die 2o 1703. & Maii Die 10o 1715 ... a Luca Milbourne, Ecclesiae Anglicanae Presbytero.\"",
+   "title": "Title page read from the page image: \"Conciones Duae ad Clerum Londinensem ... In Templo Sti Alphegi, Aprilis Die 2o 1703. & Maii Die 10o 1715 ... a Luca Milbourne, Ecclesiae Anglicanae Presbytero.\""
+  },
+  "milbourne-legacy-church-england": {
+   "author": "Title page read from the page image: \"A Legacy to the Church of England, Vindicating her Orders ... By the late Reverend Mr. Luke Milbourn, Presbyter of the Church of England. Vol. II. London ... MDCCXXII.\" (the catalogue's 1772 is a misreading of 1722)",
+   "title": "Title page read from the page image: \"A Legacy to the Church of England, Vindicating her Orders ... By the late Reverend Mr. Luke Milbourn, Presbyter of the Church of England. Vol. II. London ... MDCCXXII.\" (the catalogue's 1772 is a misreading of 1722)"
+  }
+ },
+ "_pending": {
+  "milbourne-short-defence-orders": "A short defence of the orders of the Church of England, ...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_a-short-defence-of-the-o_milbourne-luke_1688): signed only \"By a Presbyter of the Diocess of Norwich\"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "milbourne-letter-h-esq": "A letter to A. H. Esq; ...  1698 (catalogued 1698) (IA bim_early-english-books-1641-1700_a-letter-to-a-h-esq-_milbourne-luke_1698): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "milbourne-farewel": "A farewel sermon.  1699 (catalogued 1699) (IA bim_early-english-books-1641-1700_a-farewel-sermon_milbourne-luke_1699): archive.org returned HTTP 500 for the text file; retry later",
+  "milbourne-tom-bedlams-answer": "Tom of Bedlam's answer to his brother Ben Hoadly, St. Peter's-Poor parson, near the exchange of principles (London : Printed and sold by H. Hills in Blackfryars near the waterside, 1709) (IA tomofbedlamsansw00milbuoft): a pseudonymous satire (\"Tom of Bedlam\"); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "milbourne-bess-o-bedlams": "Bess o' Bedlam's love to her brother Tom : with a word in behalf of poor brother Ben Hoadly (London : Printed and sold by the booksellers of London and Westminster, 1709) (IA bessobedlamslove00milbuoft): a pseudonymous satire (\"Bess o' Bedlam\"); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "milbourne-two-wolves-lambs": "The two wolves in lambs skins: or, Old Ely's sorrowful lamentation over his two sons. Being found in an old manuscript in the Bedlamite library, ... The second edition.  By poor old Tom of Bedlam.  1716 (catalogued 1716) (IA bim_eighteenth-century_the-two-wolves-in-lambs-_milbourne-luke_1716): a pseudonymous satire presented as a found manuscript; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "milbourne-samaritanism-revivd": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1683",
+   "ia_date": "1683",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-originals-rebellion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1683",
+   "ia_date": "1683",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-mysteries-religion-vindicated": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1692",
+   "ia_date": "1692",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-christian-pattern-paraphrased": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1696",
+   "ia_date": "1696",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-psalms-david-english": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1698",
+   "ia_date": "1698",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-false-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1698",
+   "ia_date": "1698",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-catechisme-church-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1700",
+   "ia_date": "1700",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-mortality-gods-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-hope-future-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-great-brittains-acclamation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-parish-church-st": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-utter-extirpation-tyrants": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-melius-inquirendum-fresh": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1709",
+   "ia_date": "1709",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-debtor-creditor-made": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1709",
+   "ia_date": "1709",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-people-not-original": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-measures-resistance-higher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-impiety-folly-resisting": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1711",
+   "ia_date": "1711",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-god-caesar-seasonable": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1712",
+   "ia_date": "1712",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-curse-regicides-simeon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1712",
+   "ia_date": "1712",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-guilty-conscience-makes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milbourne-peace-gift-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-psalmody-recommended-company": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-danger-changes-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-conciones-du-ad": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1715",
+   "ia_date": "1715",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-christian-subjects-duty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1716",
+   "ia_date": "1716",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-evil-not-be": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-ignorance-folly-put": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1719",
+   "ia_date": "1719",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-royal-martyr-lamented": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milbourne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1724",
+   "ia_date": "1724",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milbourne-legacy-church-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1772",
+   "ia_date": "1772",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

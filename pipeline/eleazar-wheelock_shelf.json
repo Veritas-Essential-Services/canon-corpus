@@ -1,0 +1,77 @@
+{
+ "_about": "Public-domain Eleazar Wheelock (1711-1779), founder of Moor's Indian Charity School and Dartmouth College, for the Word Hoard: A Plain and Faithful Narrative of the Indian Charity-School at Lebanon (Boston, 1763) and his Continuations of the Narrative (Boston, 1765; and to the incorporation with Dartmouth, 1771), from Internet Archive scans. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wheelock"
+ ],
+ "_surname": [
+  "eleazar wheelock",
+  "eleazer wheelock",
+  "wheelock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wheelock-plain-narrative-1763": [
+   "plainfaithfulnar00whee",
+   "A plain and faithful Narrative of the Indian Charity-School at Lebanon, in Connecticut (Boston: Richard and Samuel Draper, M.DCC.LXIII)"
+  ],
+  "wheelock-continuation-1765": [
+   "continuationofna176265whee",
+   "A Continuation of the Narrative of the Indian Charity-School, from Nov. 27th, 1762, to Sept. 3d, 1765 (Boston: Richard and Samuel Draper, 1765)"
+  ],
+  "wheelock-continuation-1771": [
+   "continuationofna00inwhee",
+   "A Continuation of the Narrative of the Indian Charity-School, from the Year 1768 to the Incorporation of it with Dartmouth-College (printed in the year 1771)"
+  ]
+ },
+ "_alternates": {
+  "wheelock-copies": "Other 1763 copies (and PG 46378); the 1773 Continuation (title page unreadable); the Rochester Reprints facsimiles"
+ },
+ "_excluded": {
+  "wheelock-other": "The London 1767 and 1769 Narratives, which name him as founder, not author (credited to Nathaniel Whitaker)"
+ },
+ "_rights_checked": {
+  "wheelock-continuation-1765": "title page read: the year is garbled (\"lyS^\"); 1765 from the title's date range",
+  "wheelock-continuation-1771": "title page read: By Eleazer Wheelock (OCR \"Ekazer JVheehcky\"), President of Dartmouth-College"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wheelock-plain-narrative-1763": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eleazar wheelock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wheelock-continuation-1765": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eleazar wheelock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the year is garbled (\"lyS^\"); 1765 from the title's date range"
+  },
+  "wheelock-continuation-1771": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eleazar wheelock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: By Eleazer Wheelock (OCR \"Ekazer JVheehcky\"), President of Dartmouth-College"
+  }
+ }
+}

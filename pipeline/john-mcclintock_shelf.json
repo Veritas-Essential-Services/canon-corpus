@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain John McClintock (1814-1870), Methodist scholar, editor of the Methodist Quarterly Review and first president of Drew Theological Seminary, for the Word Hoard: Living Words (unwritten sermons) and his discourse on the day of Lincoln's funeral. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 110 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john mcclintock",
+  "john m'clintock",
+  "j. mcclintock",
+  "mcclintock",
+  "m'clintock"
+ ],
+ "_surname": [
+  "john mcclintock",
+  "john m'clintock",
+  "mcclintock",
+  "m'clintock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcclintock-lincoln": [
+   "discoursedeliver00mccl",
+   "Discourse delivered on the day of the funeral of President Lincoln, Wednesday, April 19, 1865, in St. Paul's Church, New York (New York : Press of J.M. Bradstreet & Son, 1865)"
+  ],
+  "mcclintock-living-words": [
+   "07416210.emory.edu",
+   "Living words; or, Unwritten sermons (New York : Carlton & Lanahan; San Francisco E. Thomas [etc., etc.], 1871)",
+   "07416210_djvu.txt"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mcclintock-schoolbooks": "His Latin and Greek school grammars are not theology; left out",
+  "mcclintock-translations": "His translation of Neander's Life of Jesus Christ and his editions of Olin and Watson are other men's works",
+  "mcclintock-cyclopaedia": "The Cyclopaedia of Biblical, Theological and Ecclesiastical Literature, with James Strong, is a many-volume joint work; left for its own decision",
+  "mcclintock-beedle": "John Beedle's Sleigh Ride is by another John McClintock"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "mcclintock-analysis-watson": "Analysis of Watson's Theological institutes (New York, Pub. by G. Lane & P. P. Sabdford, 1842), IA analysisofwatson00mccl: the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "mcclintock-methodist-ministers": "Sketches of eminent Methodist ministers (New York : Published by Carlton & Phillips, 1854), IA sketchesofeminen00mccliala: a collection he EDITED, chapters by several hands (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "mcclintock-lincoln": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john mcclintock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcclintock-living-words": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m'clintock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

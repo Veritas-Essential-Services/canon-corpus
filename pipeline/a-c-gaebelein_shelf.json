@@ -1,0 +1,566 @@
+{
+ "_about": "Public-domain A. C. Gaebelein (Arno Clemens Gaebelein, 1861-1945) for the Word Hoard, printings dated before 1930 only: five Project Gutenberg texts (The Work of Christ, The Lord of Glory, Studies in Zechariah, Studies in Prophecy, The Prophet Ezekiel) and, from Internet Archive scans, eight of the nine volumes of The Annotated Bible (copyright 1913-1921; New Testament vol. 4 has no date and waits in _pending), expositions of Matthew, Acts, John, Genesis, Daniel, Joel and Revelation, and shorter books 1903-1927. Dispensationalist; veto point. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "gaebelein"
+ ],
+ "_surname": [
+  "a. c. gaebelein",
+  "gaebelein, a. c.",
+  "arno c. gaebelein",
+  "arno clemens gaebelein",
+  "gaebelein, arno c.",
+  "a. c. gaebelein, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gaebelein-work-of-christ": [
+   "26643",
+   "The Work of Christ: Past, Present and Future (New York: Our Hope, copyright 1913)"
+  ],
+  "gaebelein-lord-of-glory": [
+   "29557",
+   "The Lord of Glory: Meditations on the Person, the Work and Glory of Our Lord Jesus Christ (New York: Our Hope, copyright 1910)"
+  ],
+  "gaebelein-zechariah": [
+   "36216",
+   "Studies in Zechariah (eighth edition, New York: Francis E. Fitch, copyright 1911)"
+  ],
+  "gaebelein-studies-prophecy": [
+   "31603",
+   "Studies in Prophecy (New York: Our Hope, copyright 1918)"
+  ],
+  "gaebelein-ezekiel": [
+   "36857",
+   "The Prophet Ezekiel: An Analytical Exposition (New York: Fleming H. Revell, copyright 1918)"
+  ]
+ },
+ "internet_archive": {
+  "gaebelein-seven-parables": [
+   "sevenparablesmat00gaeb",
+   "The Seven Parables, Matthew XIII: An Exposition (Los Angeles: Bible House of Los Angeles; no year on title page, library stamp 1906)"
+  ],
+  "gaebelein-matthew-1903": [
+   "gospelmatthewan00gaebgoog",
+   "The Gospel of Matthew: An Exposition, vol. 1 (New York: Gospel Publishing House, 1903)"
+  ],
+  "gaebelein-cast-away": [
+   "cihm_86920",
+   "Hath God Cast Away His People? (New York: Gospel Publishing House; Toronto: Upper Canada Tract Society, 1905)"
+  ],
+  "gaebelein-harmony-prophetic": [
+   "harmonypropheti00gaebgoog",
+   "The Harmony of the Prophetic Word (New York: Fleming H. Revell; no year on title page, copyright 1907)"
+  ],
+  "gaebelein-joel": [
+   "prophetjoelexpos00gaebuoft",
+   "The Prophet Joel: An Exposition, foreword by C. I. Scofield (New York: Our Hope, copyright 1909)"
+  ],
+  "gaebelein-matthew-1": [
+   "gospelofmatthewe01gaeb",
+   "The Gospel of Matthew: An Exposition, vol. 1 (New York: Our Hope, copyright 1910)"
+  ],
+  "gaebelein-matthew-2": [
+   "gospelofmatthewe02gaeb",
+   "The Gospel of Matthew: An Exposition, vol. 2 (New York: Our Hope, copyright 1910)"
+  ],
+  "gaebelein-daniel": [
+   "prophetdanielkey00gae",
+   "The Prophet Daniel: A Key to the Visions and Prophecies (New York: Our Hope; no year on title page, copyright 1911)"
+  ],
+  "gaebelein-jewish-question": [
+   "jewishquestion00gaeb",
+   "The Jewish Question (New York: Our Hope, copyright 1912)"
+  ],
+  "gaebelein-acts": [
+   "actsofapostles00gaeb",
+   "The Acts of the Apostles: An Exposition (New York: Our Hope, copyright 1912)"
+  ],
+  "gaebelein-genesis": [
+   "bookofgenesiscom00gaeb",
+   "The Book of Genesis: A Complete Analysis with Annotations (New York: Our Hope, copyright 1912)"
+  ],
+  "gaebelein-gods-masterpiece": [
+   "godsmasterpiecea0000gaeb",
+   "God's Masterpiece: An Analytical Exposition of Ephesians I-III (New York: Our Hope, copyright 1913)"
+  ],
+  "gaebelein-current-events": [
+   "currenteventsinl00gaeb",
+   "Current Events in the Light of the Bible (New York: Our Hope; copyright year garbled, library stamp 1915)"
+  ],
+  "gaebelein-revelation": [
+   "revelationanalys00gaebiala",
+   "The Revelation: An Analysis and Exposition (New York: Our Hope, copyright 1915)"
+  ],
+  "gaebelein-holy-spirit-nt": [
+   "holyspiritinnewt0000gaeb",
+   "The Holy Spirit in the New Testament (New York: Our Hope; no year on title page, catalogued 1920)"
+  ],
+  "gaebelein-his-riches": [
+   "hisrichesourrich00gaeb",
+   "His Riches, Our Riches: A Gospel Message (New York: Gospel Publishing House; no year on title page, catalogued 1920)"
+  ],
+  "gaebelein-angels": [
+   "angelsofgod0000arno_b2n0",
+   "The Angels of God (New York: Our Hope; no year on title page, catalogued 1924)"
+  ],
+  "gaebelein-john": [
+   "gospelofjohn00gaeb",
+   "The Gospel of John: A Complete Analytical Exposition (New York: Our Hope, copyright 1925)"
+  ],
+  "gaebelein-healing-question": [
+   "healingquestione00gaeb",
+   "The Healing Question (New York: Our Hope, copyright 1925)"
+  ],
+  "gaebelein-return-of-lord": [
+   "returnoflordwhat00gaeb",
+   "The Return of the Lord (New York: Our Hope, copyright 1925)"
+  ],
+  "gaebelein-christianity-religion": [
+   "christianityorre00gaeb",
+   "Christianity or Religion? (New York: Our Hope, copyright 1927)"
+  ],
+  "gaebelein-christ-we-know": [
+   "christweknowmedi00gaeb",
+   "The Christ We Know (New York: Our Hope, copyright 1927 by the Bible Institute Colportage Association)"
+  ],
+  "gaebelein-annotated-bible-01": [
+   "annotatedbibleho01gaeb",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 1, Pentateuch (New York: Our Hope; no year on title page, copyright 1913)"
+  ],
+  "gaebelein-annotated-bible-02": [
+   "annotatedbibleho02gaeb",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 2, Joshua to Chronicles (New York: Our Hope; no year on title page, copyright 1915)"
+  ],
+  "gaebelein-annotated-bible-03": [
+   "annotatedbibleh01gaebgoog",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 3, Ezra to Psalms (New York: Our Hope; no year on title page, copyright 1916)"
+  ],
+  "gaebelein-annotated-bible-04": [
+   "annotatedbibleho04gaeb",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 4, Proverbs to Ezekiel (New York: Our Hope; no year on title page, copyright 1921)"
+  ],
+  "gaebelein-annotated-bible-05": [
+   "annotatedbibleho05gaeb",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 5, Daniel to Malachi (New York: Our Hope; no year on title page, no copyright line seen)"
+  ],
+  "gaebelein-annotated-bible-06": [
+   "annotatedbibleho06gaeb",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, New Testament vol. 1, Gospels and Acts (New York: Our Hope; no year on title page, copyright 1913)"
+  ],
+  "gaebelein-annotated-bible-07": [
+   "annotatedbibleho07gaeb",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, New Testament vol. 2, Romans to Ephesians (New York: Our Hope; no year on title page, copyright 1916)"
+  ],
+  "gaebelein-annotated-bible-08": [
+   "annotatedbibleho08gaeb",
+   "The Annotated Bible: The Holy Scriptures Analysed and Annotated, New Testament vol. 3, Philippians to Hebrews (New York: Our Hope; no year on title page, copyright 1917)"
+  ]
+ },
+ "_alternates": {
+  "gaebelein-pg-scans": "Scans of the PG texts: Zechariah (studiesinzechari0000gaeb, studiesinzechar00gaebgoog), Ezekiel (prophetezekielan00gaeb), Studies in Prophecy (studiesinprophec00gaebuoft), Work of Christ (in.ernet.dli.2015.268575)",
+  "gaebelein-annotated-bible-copies": "other Annotated Bible copies (IA annotatedbible01gaeb to 05gaeb, annotatedbib01gaeb to 04gaeb, and Google copies)",
+  "gaebelein-other-copies": "second copies of Matthew, Joel, Daniel, Revelation, John and others listed in the round 18 research"
+ },
+ "_excluded": {
+  "gaebelein-late": "IA bwb_C0-ALM-289 (Loizeaux 1961), actsofapostles0000arno_q5g8 (Loizeaux reprint), annotatedbibleho0001arno (posthumous reprint), the 1943 history of the Scofield Reference Bible",
+  "gaebelein-misattributed": "IA gospelofjohn0000gaeb: actually the Moffatt commentary",
+  "gaebelein-namesakes": "Raimund and Richard Gaebelein"
+ },
+ "_identity_checked": {
+  "gaebelein-matthew-1903": {
+   "author": "Title page read: \"THE GOSPEL OF MATTHEW AN EXPOSITION ... A^ CyOAEBELEIN, Editor of Our Hope\", Gospel Publishing House, 1903 (OCR for A. C. Gaebelein)."
+  },
+  "gaebelein-acts": {
+   "author": "Title page read: \"Al C. Gaebelein, Editor of Our Hope\", copyright 1912 \"by A. C. Gaebekin\" (OCR)."
+  },
+  "gaebelein-john": {
+   "author": "Title page read: \"A:no CLEMENS GAEBELEIN, Editor of Our Hope\", copyright 1925 (OCR for Arno Clemens)."
+  },
+  "gaebelein-christianity-religion": {
+   "author": "Title page read: \"By ARNO CLEMENS 'GAEBELEIN, D.D.\", copyright 1927 (OCR puts a quote mark before the surname)."
+  }
+ },
+ "_pending": {
+  "gaebelein-daniel-15th": "IA prophetdanielkey0000arno: fifteenth edition, undated, may be after 1930",
+  "gaebelein-annotated-bible-09": "The Annotated Bible, New Testament vol. 4, James to Revelation (IA annotatedbibleho09gaeb): no year on title page, no copyright line seen, IA has no date; printing date unknown"
+ },
+ "_checks": {
+  "gaebelein-work-of-christ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaebelein-lord-of-glory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaebelein-zechariah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaebelein-studies-prophecy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaebelein-ezekiel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaebelein-seven-parables": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-matthew-1903": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-cast-away": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-harmony-prophetic": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arno c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-joel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-matthew-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-matthew-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gaebelein-jewish-question": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gaebelein-acts": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gaebelein-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-gods-masterpiece": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-current-events": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gaebelein-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "[c1915]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-holy-spirit-nt": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arno clemens gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[192-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-his-riches": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-angels": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arno clemens gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-john": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-healing-question": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arno clemens gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-return-of-lord": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arno clemens gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-christianity-religion": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-christ-we-know": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arno clemens gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-01": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-02": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-03": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-04": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-05": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-06": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-07": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gaebelein-annotated-bible-08": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. gaebelein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

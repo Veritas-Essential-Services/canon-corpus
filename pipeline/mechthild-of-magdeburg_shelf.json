@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain Mechthild of Magdeburg (about 1207-1282, beguine and nun of Helfta) in English for the Word Hoard: Matelda and the Cloister of Hellfde, extracts from her book selected and translated by Frances Bevan (London: James Nisbet, 1896), from Project Gutenberg; the extracts are set in Bevan's own account of her. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "magdeburg"
+ ],
+ "_surname": [
+  "matilda of magdeburg",
+  "mechthild of magdeburg",
+  "mechtild of magdeburg",
+  "matelda"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "mechthild-matelda-bevan": [
+   "35811",
+   "Matelda and the Cloister of Hellfde: extracts from the Book of Matilda of Magdeburg, selected and translated by Frances Bevan (London: James Nisbet, 1896)"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {
+  "mechthild-german": "Morel's German edition (Regensburg, 1869)"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "mechthild-flowing-light": "A complete English Flowing Light of the Godhead before 1930: not found"
+ },
+ "_translators": {
+  "mechthild-matelda-bevan": "bevan"
+ },
+ "_checks": {
+  "mechthild-matelda-bevan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "matilda of magdeburg",
+   "translator_claimed": "bevan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Bevan",
+   "translator_match": true
+  }
+ }
+}

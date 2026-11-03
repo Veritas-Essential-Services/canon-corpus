@@ -1,0 +1,40 @@
+{
+ "_about": "Hans Vaihinger (1852-1933), raw IA OCR: The Philosophy of 'As If', a system of the theoretical, practical and religious fictions of mankind, translated by C. K. Ogden from the sixth German edition, International Library of Psychology, Philosophy and Scientific Method (London: Kegan Paul; New York: Harcourt, Brace, 1924). Published 1924, so US public domain. No uids minted.",
+ "_author": "Hans Vaihinger",
+ "_name_words": [
+  "hans",
+  "h",
+  "vaihinger"
+ ],
+ "_surname": [
+  "vaihinger"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vaihinger-ogden-philosophy-of-as-if-1924": [
+   "philosophyofasif00vaih_0",
+   "The Philosophy of 'As If' (London: Kegan Paul, 1924)",
+   "tr. C. K. Ogden"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "vaihinger-ogden-philosophy-of-as-if-1924": "Ogden"
+ },
+ "_checks": {
+  "vaihinger-ogden-philosophy-of-as-if-1924": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "vaihinger",
+   "translator_claimed": "Ogden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

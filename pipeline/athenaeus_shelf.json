@@ -1,0 +1,75 @@
+{
+ "_about": "Athenaeus, The Deipnosophists, in C. D. Yonge's translation (Bohn), 3 vols., clean Gutenberg.",
+ "_name_words": [
+  "athenaeus",
+  "athenæus",
+  "deipnosophists",
+  "banquet"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "athenaeus-yonge-v1": [
+   36921,
+   "The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 1",
+   "tr. Charles Duke Yonge"
+  ],
+  "athenaeus-yonge-v2": [
+   65023,
+   "The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 2",
+   "tr. Charles Duke Yonge"
+  ],
+  "athenaeus-yonge-v3": [
+   66508,
+   "The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 3",
+   "tr. Charles Duke Yonge"
+  ]
+ },
+ "internet_archive": {},
+ "_surname": [
+  "athenaeus",
+  "athenæus"
+ ],
+ "_translators": {
+  "athenaeus-yonge-v1": "Charles Duke Yonge",
+  "athenaeus-yonge-v2": "Charles Duke Yonge",
+  "athenaeus-yonge-v3": "Charles Duke Yonge"
+ },
+ "_checks": {
+  "athenaeus-yonge-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "Charles Duke Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  },
+  "athenaeus-yonge-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "Charles Duke Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  },
+  "athenaeus-yonge-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "Charles Duke Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  }
+ }
+}

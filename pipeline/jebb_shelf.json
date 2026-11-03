@@ -1,0 +1,129 @@
+{
+ "_about": "Sir Richard Claverhouse Jebb (1841-1905), Regius Professor of Greek at Cambridge. Classical scholarship (lane B pivot, 2026-10-10): The Attic Orators from Antiphon to Isaeus (2nd ed., 1893, 2 vols.), The Growth and Influence of Classical Greek Poetry (1893), Homer: an Introduction to the Iliad and the Odyssey (6th ed., 1898), Bentley (English Men of Letters; 1901 printing), Modern Greece (1880) and the posthumous Essays and Addresses (1907), raw IA OCR. His Sophocles translations are on the sophocles shelf; the Sophocles and Bacchylides commentary editions are Greek facing and wait on the Greek-facing ruling. No uids minted.",
+ "_name_words": [
+  "jebb",
+  "claverhouse"
+ ],
+ "_surname": [
+  "r. c. jebb",
+  "richard claverhouse jebb",
+  "richard jebb",
+  "jebb, r. c",
+  "jebb, richard"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jebb-attic-orators-v1-1893": [
+   "atticoratorsfrom01jebbuoft",
+   "The Attic Orators from Antiphon to Isaeus, vol. I, second edition (London: Macmillan, 1893; first edition 1876)"
+  ],
+  "jebb-attic-orators-v2-1893": [
+   "atticoratorsfrom02jebbuoft",
+   "The Attic Orators from Antiphon to Isaeus, vol. II, second edition (London: Macmillan, 1893)"
+  ],
+  "jebb-growth-influence-greek-poetry-1893": [
+   "growthandinflue01jebbgoog",
+   "The Growth and Influence of Classical Greek Poetry: lectures delivered in 1892 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (London and New York: Macmillan, 1893)"
+  ],
+  "jebb-homer-introduction-1898": [
+   "cu31924059064653",
+   "Homer: an Introduction to the Iliad and the Odyssey, sixth edition (Glasgow: Maclehose, 1898)"
+  ],
+  "jebb-bentley-1901": [
+   "bentleyclaver00jebbuoft",
+   "Bentley (English Men of Letters, ed. John Morley; New York: Harper, 1901 printing)"
+  ],
+  "jebb-modern-greece-1880": [
+   "moderngreecetwol00jebbuoft",
+   "Modern Greece: two lectures delivered before the Philosophical Institution of Edinburgh, with papers on 'The Progress of Greece' and 'Byron in Greece' (London: Macmillan, 1880)"
+  ],
+  "jebb-essays-addresses-1907": [
+   "essaysaddresses00jebbiala",
+   "Essays and Addresses (Cambridge: University Press, 1907)"
+  ]
+ },
+ "_excluded": {
+  "Primer of Greek Literature (IA greekliterature00jebbuoft)": "no title page in the scan",
+  "Erasmus (Rede lecture, 1890)": "Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap"
+ },
+ "_checks": {
+  "jebb-attic-orators-v1-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-attic-orators-v2-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-growth-influence-greek-poetry-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-homer-introduction-1898": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jebb-bentley-1901": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "[1887]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-modern-greece-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-essays-addresses-1907": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "richard jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,264 @@
+{
+ "_about": "Public-domain Teresa of Avila (1515-1582, Carmelite reformer) in English for the Word Hoard: her Life tr. David Lewis (third edition, 1904) from CCEL, and 11 more from Internet Archive scans: John Dalton's translations of the Life (1851), the Way of Perfection, the Interior Castle (1852) and the Letters (1860); Lewis's Book of the Foundations (1871); and the Stanbrook Benedictines' Way of Perfection (1911), Interior Castle (1912), Minor Works (1913) and complete Letters (1919-1922). Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "teresa",
+ "_name_words": [
+  "teresa"
+ ],
+ "_surname": [
+  "teresa of jesus",
+  "saint teresa",
+  "st. teresa",
+  "s. teresa",
+  "teresa of avila",
+  "st teresa"
+ ],
+ "_held": {},
+ "ccel": {
+  "teresa-life-lewis": [
+   "life",
+   "The Life of St. Teresa of Jesus, Written by Herself, tr. David Lewis, third edition enlarged (London: Thomas Baker, MCMIV)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "teresa-life-dalton": [
+   "lifesaintteresa00teregoog",
+   "The Life of Saint Teresa, Written by Herself, tr. John Dalton (London: C. Dolman, MDCCCLI)"
+  ],
+  "teresa-foundations-lewis": [
+   "bookfoundations00teregoog",
+   "The Book of the Foundations of S. Teresa of Jesus, tr. David Lewis (London: Burns, Oates, 1871)"
+  ],
+  "teresa-way-of-perfection-dalton": [
+   "wayperfectionan00teregoog",
+   "The Way of Perfection, and Conceptions of Divine Love, tr. John Dalton (London: C. Dolman; catalogued 1852)"
+  ],
+  "teresa-way-of-perfection-stanbrook": [
+   "wayofperfection00tere_0",
+   "The Way of Perfection, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXI)"
+  ],
+  "teresa-interior-castle-dalton": [
+   "interiorcastleor00tere_0",
+   "The Interior Castle; or, The Mansions, with some of her Letters, tr. John Dalton (London: T. Jones, 1852)"
+  ],
+  "teresa-interior-castle-stanbrook": [
+   "TheInteriorCastle2ndEd1912",
+   "The Interior Castle or The Mansions, tr. the Benedictines of Stanbrook, second edition (New York: Benziger; imprimatur 1912)"
+  ],
+  "teresa-letters-dalton": [
+   "lettersofsaintte0000tere",
+   "The Letters of Saint Teresa, tr. John Dalton (London: Catholic Publishing and Bookselling Co., 1860)"
+  ],
+  "teresa-letters-stanbrook-1": [
+   "letterst01tere",
+   "The Letters of Saint Teresa, complete edition, vol. I, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXIX)"
+  ],
+  "teresa-letters-stanbrook-2": [
+   "letterst02tere",
+   "The Letters of Saint Teresa, vol. II, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXXI)"
+  ],
+  "teresa-letters-stanbrook-3": [
+   "lettersofsaintte03tere",
+   "The Letters of Saint Teresa, vol. III, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXXII)"
+  ],
+  "teresa-minor-works": [
+   "minorworksconcep00tereuoft",
+   "Minor Works of St. Teresa: Conceptions of the Love of God, Exclamations, Maxims and Poems, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXIII)"
+  ]
+ },
+ "_alternates": {
+  "teresa-life-lewis-1870": "Lewis's first edition of the Life (Burns, Oates, 1870; lifeofsteresaofj00tere), the same translation as the CCEL text",
+  "teresa-copies": "Later printings: the Life (1888, 1904, 1916; Dalton's American editions), the Foundations (1913), the Interior Castle (1921), the Way of Perfection (1901, 1919), Dalton's Letters (1893), Stanbrook Letters vol. III (Benziger 1922)",
+  "teresa-mason": "Saint Theresa: the History of her Foundations, tr. Sister Agnes Mason (Cambridge, 1909)",
+  "teresa-columbus": "The Columbus Press compilation (New York, 1911)",
+  "teresa-early": "The Flaming Hart (Antwerp, 1642) and other seventeenth- and eighteenth-century versions, translators unnamed"
+ },
+ "_excluded": {
+  "teresa-ccel-late": "CCEL teresa/way (Peers, 1964); teresa/castle2 is a 1921 transcription superseded by the 1912 scan",
+  "teresa-about": "Lives and appreciations by others; The Spirit of S. Teresa (a compilation)",
+  "teresa-late": "printings of 1930 and later; French editions"
+ },
+ "_rights_checked": {
+  "teresa-way-of-perfection-dalton": "title page read: London, C. Dolman, 61 New Bond Street; year garbled; catalogued 1852",
+  "teresa-interior-castle-stanbrook": "title page read: Benziger, second edition, no year; imprimatur dated 22 January 1912"
+ },
+ "_pending": {
+  "teresa-foundations-1853": "The Book of the Foundations (T. Jones, 1853): title page not in the OCR"
+ },
+ "_translators": {
+  "teresa-life-lewis": "lewis",
+  "teresa-life-dalton": "dalton",
+  "teresa-foundations-lewis": "lewis",
+  "teresa-way-of-perfection-dalton": "dalton",
+  "teresa-interior-castle-dalton": "dalton",
+  "teresa-letters-dalton": "dalton",
+  "teresa-way-of-perfection-stanbrook": "stanbrook",
+  "teresa-interior-castle-stanbrook": "stanbrook",
+  "teresa-letters-stanbrook-1": "stanbrook",
+  "teresa-letters-stanbrook-2": "stanbrook",
+  "teresa-letters-stanbrook-3": "stanbrook",
+  "teresa-minor-works": "stanbrook"
+ },
+ "_checks": {
+  "teresa-life-lewis": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Thomas Baker; New York: Benziger Bros., 1904",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "teresa-life-dalton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "teresa-foundations-lewis": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "teresa-way-of-perfection-dalton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint teresa",
+   "translator_claimed": "dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London, C. Dolman, 61 New Bond Street; year garbled; catalogued 1852"
+  },
+  "teresa-way-of-perfection-stanbrook": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "stanbrook",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teresa-interior-castle-dalton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint teresa",
+   "translator_claimed": "dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teresa-interior-castle-stanbrook": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "stanbrook",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Benziger, second edition, no year; imprimatur dated 22 January 1912"
+  },
+  "teresa-letters-dalton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint teresa",
+   "translator_claimed": "dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teresa-letters-stanbrook-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "stanbrook",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teresa-letters-stanbrook-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "stanbrook",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teresa-letters-stanbrook-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "stanbrook",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "teresa-minor-works": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "teresa of jesus",
+   "translator_claimed": "stanbrook",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

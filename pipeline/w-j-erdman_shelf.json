@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain W. J. Erdman (William Jacob Erdman, 1834-1923, Presbyterian, Niagara Bible Conference) for the Word Hoard: An Outline Study of the Gospel According to John (Germantown, undated), the only single-author work of his found in an early printing. Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "erdman"
+ ],
+ "_surname": [
+  "w. j. erdman",
+  "william j. erdman",
+  "william jacob erdman",
+  "erdman, w. j.",
+  "w. j. erdman, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "erdman-outline-john": [
+   "outlinestudyofgo00erdm",
+   "An Outline Study of the Gospel According to John (Germantown, Pa.; no year on title page, IA's 1854 date is wrong)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "erdman-revelation": "Notes on the Revelation, edited by Charles R. Erdman (Revell, copyright 1930): 1930 and edited by another hand",
+  "erdman-multi": "Toronto conference Bible Readings and 1894 Brooklyn conference addresses: multi-author",
+  "erdman-son": "Charles R. Erdman, his son, is a different author"
+ },
+ "_rights_checked": {
+  "erdman-outline-john": "title page read: Germantown, Pa., no year; IA's 1854 date is impossible (he was 20); author died 1923, so printed before then"
+ },
+ "_pending": {},
+ "_checks": {
+  "erdman-outline-john": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. j. erdman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Germantown, Pa., no year; IA's 1854 date is impossible (he was 20); author died 1923, so printed before then"
+  }
+ }
+}
