@@ -1,0 +1,54 @@
+{
+ "_about": "William Blake. Bloom's Western Canon (1994) lists: Complete Poetry and Prose. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Blake",
+ "_name_words": [
+  "william",
+  "blake"
+ ],
+ "_surname": [
+  "blake",
+  "william blake"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "blake-poetical-works": [
+   "poeticalworksof00blak",
+   "The Poetical Works of William Blake, including the unpublished French Revolution together with the Minor Prophetic Books"
+  ]
+ },
+ "_rights_checked": {
+  "blake-poetical-works": "Bloom addition 2026-11-03: 1928 printing (title page 'LONDON OXFORD UNIVERSITY PRESS 1928'); Sampson's Oxford text first appeared 1913 (not read). Read djvu title page. Collection internetarchivebooks/americana."
+ },
+ "_translators": {
+  "blake-poetical-works": "Sampson"
+ },
+ "_bloom": {
+  "blake-poetical-works": {
+   "bloom_n": [
+    412
+   ],
+   "bloom_title": "Complete Poetry and Prose",
+   "year": "1928 printing (title page 'LONDON OXFORD UNIVERSITY PRESS 1928'); Sampson's Oxford text first appeared 1913 (not read)",
+   "evidence": "Read djvu title page. Collection internetarchivebooks/americana.",
+   "case": "Bloom lists Blake's complete poetry and prose; we hold only the Songs. Sampson's Oxford text is the scholarly standard; Ellis's two volumes add the major prophetic books (Milton, Jerusalem, Four Zoas) that Sampson's 1913 volume prints only in part.",
+   "note": "Ellis's text is heavily emended and was criticised in its day; take Sampson as the reading text and Ellis for the major prophecies. Keynes's 1925 Nonesuch 'Writings' would be the true complete edition but was not checked. Prose (Marriage of Heaven and Hell) is also PG 45315."
+  }
+ },
+ "_checks": {
+  "blake-poetical-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "blake",
+   "translator_claimed": "Sampson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1928 printing (title page 'LONDON OXFORD UNIVERSITY PRESS 1928'); Sampson's Oxford text first appeared 1913 (not read). Read djvu title page. Collection internetarchivebooks/americana."
+  }
+ }
+}
