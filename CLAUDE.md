@@ -271,6 +271,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/extract_short_pieces.py --check   # every ok piece resolves exactly once
     python3 tests/short_pieces_test.py                 # the extractor, fixtures inline
     python3 tests/bible_dictionaries_test.py           # Easton's, Nave's, Hurlbut's atlas: converters, pins, offline (35)
+    python3 pipeline/build_sks.py --fetch              # Kierkegaard in Danish: SKS 1-16 TEI (kb-dk/SKS_tei, CC0), pinned
+    python3 pipeline/build_sks.py [--check]            # -> data/books/sks-<code>.json, 87 books, cited by SKS page
+    python3 tests/sks_test.py                          # the SKS reader on a fixture; the pins
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -1126,6 +1129,18 @@ against the scan — with detected headwords carried under `lex.headwords`,
 flagged heuristic. Entry segmentation can be refined later against a stable
 page-anchored base without re-running the OCR. The text is unproofread OCR and
 says so in its honesty field; Greek diacritics are where it errs most.
+
+## Kierkegaard (2026-11-03)
+
+`pipeline/build_sks.py`: Søren Kierkegaards Skrifter vols 1-16 (every published and posthumous
+work) in Danish, from the Royal Danish Library's TEI (github.com/kb-dk/SKS_tei, CC0 1.0), pinned in
+`pipeline/sks_pins.json` (commit + sha256 per file). 87 books `sks-<code>` (`sks-kg`, `sks-ee1`),
+one unit per paragraph, id = SKS page it begins on + nth paragraph there (`sks-kg:23.2`, ref
+"SKS 9, 23 (KG)"); first-edition (SV1) pages under `pages.sv1`; Kierkegaard's footnotes in `notes`.
+Each file's teiHeader still says "copyright, restricted" (2004); the LICENSE and tekster.kb.dk say
+CC0: recorded in every rights note. Journals and letters (SKS 17-28) are the next wave. The English
+shelves are `hollander` and `swenson-lowrie`; the whole plan, renewals, PD dates and the Hong
+permission draft (Postscript, Inc. holds the Hong copyrights): `docs/kierkegaard/`.
 
 ## Dictionaries of names — the classical and the literary (2026-10-19)
 
