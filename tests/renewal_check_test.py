@@ -32,4 +32,5 @@ check(rc.search(author="Walter Lowrie", title="Works of Love") == [], "another s
 check(rc.search(reg="A-34699")[0][0] == "reg", "a registration number matches, punctuation ignored")
 check(rc.surname_of("Roy J. Snell (tr. nobody)") == "snell", "the surname is the last name word")
 check(rc.surname_of("Lewis Sperry Chafer, Jr.") == "chafer", "Jr. is not a surname")
+check([h[1][5] for h in rc.title_only("Works of Love")] == ["RE484468"], "a title-only search ignores the name")
 print(f"renewal_check_test: {n} checks passed")
