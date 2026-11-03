@@ -1,0 +1,132 @@
+{
+ "_about": "Adam's Logos purchase 'Classic Commentaries and Studies on Ecclesiastes and Song of Songs (14 vols)', its titles as listed on logos.com read 2026-11-03, each found as a pre-1931 Internet Archive scan and its title page read (where only the catalogue was read, the row says so). One shelf for the bundle because its authors mostly have one book each; works already on another shelf are not repeated (listed under _excluded). Internet Archive OCR, raw. All published before 1931, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "ecclesiastes",
+  "song of songs",
+  "canticles",
+  "cohelet"
+ ],
+ "_surname": [
+  "scott",
+  "dale",
+  "renan",
+  "griffis",
+  "noyes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cce-scott-pessimism-love": [
+   "pessimismandlove00scotuoft",
+   "Pessimism and Love in Ecclesiastes and the Song of Songs, with Translations from the Same, by David Russell Scott (London: James Clarke; catalogue date 1915)"
+  ],
+  "cce-dale-ecclesiastes": [
+   "commentaryoneccl00dale",
+   "A Commentary on Ecclesiastes, by Thomas Pelham Dale (London: Rivingtons, 1873)"
+  ],
+  "cce-renan-cohelet": [
+   "coheletorpreache00renarich",
+   "Cohelet, or, The Preacher, translated from the Hebrew, with a Study on the Age and Character of the Book, by Ernest Renan (London: Mathieson, 1890; English translator not named)"
+  ],
+  "cce-renan-song": [
+   "songofsongstrans00renarich",
+   "The Song of Songs, translated from the Hebrew, with a Study of the Plan, the Age, and the Character of the Poem, done into English by William M. Thomson, by Ernest Renan (London: W. M. Thomson; undated, catalogue date 1895)"
+  ],
+  "cce-griffis-lily": [
+   "lilyamongthorns00grif",
+   "The Lily among Thorns: A Study of the Biblical Drama Entitled The Song of Songs, by William Elliot Griffis (Boston and New York: Houghton, Mifflin; copyright 1889)"
+  ],
+  "cce-noyes-proverbs-canticles": [
+   "newtranslationof00noyeuoft",
+   "A New Translation of the Proverbs, Ecclesiastes, and the Canticles, with Introductions and Notes, by George R. Noyes (Boston: James Munroe, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cce-held": "Already on other shelves: Genung's Words of Koheleth (john-franklin-genung), Durham's Clavis Cantici (durham)",
+  "cce-murphy": "Roland E. Murphy, The Book of Ecclesiastes and the Canticle of Canticles (1961): published after 1930"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "cce-noyes-proverbs-canticles": {
+   "author": "OCR reads 'BY GEORGE R. NOTES, D.D., HANCOCK PROFESSOR OF HEBREW ... HARVARD UNIVERSITY' (Noyes)"
+  }
+ },
+ "_pending": {
+  "cce-not-found": "No open pre-1931 scan found for: Joseph J. Elliott, Ancient Wisdom for Modern Men; W. J. Erdman, Ecclesiastes: The Book of the Natural Man; Annie W. Marston, Joined to the Lord; Jessie Penn-Lewis, Thy Hidden Ones; A. S. Copley, The Heavenly Courtship"
+ },
+ "_translators": {
+  "cce-renan-song": "William M. Thomson"
+ },
+ "_checks": {
+  "cce-scott-pessimism-love": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cce-dale-ecclesiastes": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cce-renan-cohelet": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "renan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cce-renan-song": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "renan",
+   "translator_claimed": "William M. Thomson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "[1895?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cce-griffis-lily": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cce-noyes-proverbs-canticles": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
