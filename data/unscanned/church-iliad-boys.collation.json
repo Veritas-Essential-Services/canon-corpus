@@ -1,0 +1,3492 @@
+{
+ "slug": "church-iliad-boys",
+ "stats": {
+  "chapters": 26,
+  "paragraphs": 365,
+  "words": 43706,
+  "places": {
+   "base": 247,
+   "witnesses": 93,
+   "read": 20
+  },
+  "base_rules": {
+   "stray marks standing alone removed": 76,
+   "doubled quotes made double": 31,
+   "tesseract's double marks (“‘, ”’) made single double marks": 78,
+   "underline specks removed": 75,
+   "brackets beside a letter removed": 10,
+   "slash before a capital removed": 2,
+   "spaced ; : ? ! closed up": 1,
+   "first letter's case from the witnesses": 4,
+   "opening quotation marks from the witnesses": 60,
+   "closing quotation marks from the witnesses": 19
+  },
+  "names": {
+   "Menelaüs": 40,
+   "Mycenæ": 1,
+   "Chryseïs": 1,
+   "Briseïs": 8,
+   "Pandărus": 13,
+   "Machāon": 9,
+   "Ænēas": 19,
+   "Latōna": 1,
+   "Artĕmis": 3,
+   "Sarpēdon": 21,
+   "Helĕnus": 5,
+   "Bellerŏphon": 6,
+   "Chimæra": 1,
+   "Soly̆mi": 1,
+   "Æneus": 2,
+   "Astyănax": 1,
+   "ATHENÉ": 1,
+   "Athené": 2,
+   "Sthenĕlus": 1,
+   "Phœnix": 7,
+   "Ætolians": 5,
+   "Œneus": 1,
+   "Polydămas": 2,
+   "Deïphobus": 7,
+   "Sarēpdon": 1,
+   "Antilŏchus": 8,
+   "Sarpdoēn": 1,
+   "Meriŏnes": 2,
+   "Hephæstus": 6,
+   "Pæonia": 1,
+   "Agēnor": 5,
+   "Scæan": 2
+  },
+  "witness_rules": {
+   "A": {
+    "capital lines (heads, captions)": 346,
+    "folios and signature marks": 255,
+    "line-end hyphens rejoined": 124
+   },
+   "B": {
+    "Google notice pages": 1,
+    "capital lines (heads, captions)": 346,
+    "Google lines": 621,
+    "folios and signature marks": 244,
+    "line-end hyphens rejoined": 122
+   },
+   "C": {
+    "folios and signature marks": 240,
+    "capital lines (heads, captions)": 338,
+    "line-end hyphens rejoined": 122
+   }
+  },
+  "unused_reads": [],
+  "words_base": 43798,
+  "structure": {
+   "footnotes taken out of the text": 2,
+   "chapter-opening word set in capitals": 18,
+   "units left with no letters, dropped": 2,
+   "paragraph joins (lower case)": 6,
+   "units dropped (read)": 1
+  }
+ },
+ "source": {
+  "base": {
+   "file": "data/unscanned/church-iliad-boys.unscanned.json.gz",
+   "sha256": "7f80e3c19522a348d984aaa3c3e25896a0be3eb37e8168696215f0dea39d45e4",
+   "unpacked_sha256": "d48108d4bb1e99d8776f29ab8ef370c3da936262945a44c43fcbd34831450e4e",
+   "what": "the Unscanner's re-OCR (tesseract, with layout) of archive.org iliadforboysgirl00chur_0",
+   "printing": "1923 printing (Library of Congress copy); title page dated 1923, 'Set up and electrotyped. Published September, 1907.'"
+  },
+  "witnesses": [
+   {
+    "siglum": "A",
+    "archive_id": "iliadforboysgirl00chur_0",
+    "file": "iliadforboysgirl00chur_0_djvu.xml",
+    "sha256": "249a06995024c7f5ee3380c13a8854e7ce5453e5ac997c7edb1bb25f0db89d51",
+    "what": "the base scan (1923 printing), the Archive's own OCR"
+   },
+   {
+    "siglum": "B",
+    "archive_id": "iliadforboysand00homegoog",
+    "file": "iliadforboysand00homegoog_djvu.xml",
+    "sha256": "023fa2a936d62199d64dff2576345e29055ea359dcab365ebf50eb677f531d89",
+    "what": "FIRST PRINTING, 1907 (Harvard copy, scanned by Google), ABBYY FineReader 8.0"
+   },
+   {
+    "siglum": "C",
+    "archive_id": "bwb_Y0-BOA-876",
+    "file": "bwb_Y0-BOA-876_djvu.xml",
+    "sha256": "67179c567c0869e776bc348462556c1476cb3bbcbbb8168324c64192c1bbbce9",
+    "what": "1927 printing (title page dated 1927; copyright 1907), tesseract 5.3"
+   }
+  ],
+  "reads": "data/unscanned/church-iliad-boys.collation-reads.json",
+  "rights": "US public domain: first published 1906/1907, and every printing used is dated before 1931."
+ },
+ "places": [
+  {
+   "at": "^ch1.1#0",
+   "base": "",
+   "A": "The Children’s Classics Homer The Iliad for Boys and Girls Retold by Rev. A. J. Church Illustrations after Flaxman The Fables of ABsop Edited by Joseph Jacobs Illustrated by Richard Heighway The Arabian Nights Edited by Padraic Colum Illustrated by Eric Pape The Brothers Grimm Household Tales Translated by Lucy Crane Illustrated by Walter Crane Hans Christian Andersen Fairy Tales and Stories Edited by Francis Hackett and Signe Toksvig Illustrated by Eric Pape English Fairy Tales Retold by F. A. Steel Illustrated by Arthur Rackham Charles and Mary Lamb Tales from Shakespeare Illustrated by Maud and Miska Petersham Jonathan Swift Gulliver's Travels Illustrated by Charles Brock Charles Dickens A Christmas Carol Illustrated by Francis D. Bedford Lewis Carroll Alice in Wonderland and Through the Looking Glass Illustrated by John Tenniell Robert Louis Stevenson Treasure Island Illustrated by Warwick Goble Richard Henry Dana Two Years Before the Mast Illustrated by Charles Pears Other titles preparing Diomed casting his Spear against Ares. ) > ) Nefo fork All rights reserved \\ Copyright, 1907, Set up and electrotyped. Published September, 1907. a °\\ 1 % \\ x A Norwood Press J. S. Cushing Co. — Berwick & Smith Co. Norwood , Mass., U.S.A. Of how the War with Troy began The Quarrel .... What Thetis did for her Son The Duel of Paris and Menelaüs How the Oath was Broken . The Great Deeds of Diomed Concerning other Valiant Deeds . Of Glaucus and Diomed Hector and Andromaché . . How Hector and Ajax Fought The Battle on the Plain The Repentance of Agamemnon The Embassy to Achilles The Story of Old Phœnix . The Adventure of Diomed and Ulysses The Wounding of the Chiefs The Battle at the Wall • The Battle at the Ships • • The Deeds and Death of Patroclus The Rousing of Achilles 9 • * 233 The Making of the Arms . • • The Quarrel Ended . • * * 255 The Battle at the River . « • • 263 The Slaying of Hector ^ *» The Ransoming of Hector . * u p * Diomed Casting His Spear against Ares . Frontispiece Athené Suppressing the Fury of Achilles ... 24 Hector Chiding Paris ...... 92 The Meeting of Hector and Andromaché . . 96 Hector and Ajax Separated by the Heralds . . 108 Hera and Athené Going to Assist the Greeks . .122 The Embassy of Achilles ...... 142 Diomed and Ulysses Returning with the Spoils of Rhesus . . . . . . . . .176 Polydamus Advising Hector to Retire from the Trench ......... 194 Ajax Defending the Greek Ships against the Trojans 214 Sleep and Death Conveying the Body of Sarpēdon to Lycia ......... 226 The Fight for the Body of Patroclus . . . 234 Thetis Bringing the Armour to Achilles . . . 250 The Gods Descending to Battle .... 270 Andromaché Fainting on the Wall .... 286 Hector’s Body Dragged at the Chariot by Achilles 292",
+   "B": "Hhl 31130 Y t } v*r y ^Mi /' ^^a^.'f ^, )\\sr,,. NtfDfoifc jill rights nser^Hd Bt the bcacmillan company. Setapanadectrotyped. Published Septonber, I90^ Norwood Prtu y. S, Otshing Co. —Berwick & Smith Co. Norwood f Mau.f U.S. A, TO n. m. vn. K. xn. xm. xvn. Op bow thb Wak with Trot bboan What Thetu did for her Son . Thb Dvbl op Paris and Mbnblaus How the Oath was Broken . The Great Deeds op Diombd Hector and Andromaché How Hector and Ajax Fovort The Battle on the Plain . . The Repentance op Agamemnon . The Embaist to Achilles . . The Stort op Old Ph(enix . The Adventotie op Diomed and Ultsses The Wounding op the Chiefs . The Battle at the Wall . . 4« Id «3« >4' «55 XVIII. The Battle at the Ships . XIX. The Deeds and Death op Patroclus XX. The Rousing op Achilles XXI. The Making op the A&ms XXII. The Quarrel Ended • XXIII. The Battle at the River XXIV. The Slating op Hector XXV. The Ransoming op Hector • 205 • 219 • 233 • 245 • *55 • 291 DiOMSD CASTING HIS SpEAft AGAINST Anfis • • FrontispUce Athen^ repressing the Fury op Achilles • To face page 24 Hector and Ajax separated by the Heralds ,, ,, 108 Hera and AthenI going to Assist the Greeks ,, ,, 122 DiOMED AND Ulysses returning with the Spoils of Rhesus • • • • »> »> 176 THE Trench »» » 194 Trojans „ „ 214 Sleep and Death conveying the Body of Sarpēdon to Lycia • • • • f The Fight for the Body of Patroclus • , Hera commanding the Sun to Set • • , Andromaché fainting on the Wall. • , Hector's Body dragged at the Chariot of Achilles ••••••mm 292 >» f> »» »»",
+   "C": "ee er ae ene te nae om a irene oreo en en ch aerereie aed Seetaenoaet age” reread ook ae biases se) goa thongs tes hab, Cenprveer tn tint ho 1H oa otc eater tho rk pana ate oT ad a eet be Fea as GEM tee -B cette neh dean dem Fale Scere a oe \" re} ‘eal Gris 3 Set “aaa atemer ee bens v4 at pre rae ve na Speeausans eee Lome Sends Soke eae een ne seer rot oral er Nees tat tating etenite feat ete tte oes Nae errr) Fathes ® So tecane dvinsmeth ah nabnitn@e ge ihn hebrars 27° 30% vos seer ear oh A Oot Diet raed neh aahota \"prater ow a “0 ober heres nha raed ns Be einem acorns oxet a — ar Boe Prince ab ripeme me bot Semen earew rr) stew pa hw Wiese sa ee artinepeite tf epaiege amas ths be mld on rervees <e ashy y ative ee ita s re raaiedrn anarne 7 6A lal Ain sabit sised ae cdaorann seb sistent =H rh 4 prerinee nuh cy ts ey aces ot) ioe as ual (Wet atte ay age J hinibaets Coie APO Bn hipaa fra) tore be Cas ryt wep A apainert tre prada ec Mate HT hay te ey Lord ne tie feck pi ot sega ate et en aeh saane sear os metiebl neha roth oh Abs r Seiad aot Te iat eae nal HP iaehelay eer riya hee peperer er gaa ered pete Te Reet. e o oe dept: sat otioh are hae liad c choaenene 4 ot pings eee tall eee Hin are iW cor lamas > arena ae ant whet b lap eierli eh 2945 eat rrr iad os re He ae ey yee gee eae evra 2 r reer mah eth Bcretea oe C rH ies Sasi tC Se stay oat Atlan igs oA oy * sP Ahad tl rate OF VERMO.\\T The Fables of Hsop Edited by Joseph Jacobs | Ill. by Richard Heighway (4-6) Hans Curist1An ANDERSEN Fairy Tales and Stories Edited by Francis Hackett and Signe Toksvig Ill. by Eric Pape (8-10) The Arabian Nights Edited by Padraic Colum Ill, by Eric Pape (12-15) Frances Browne Granny’s Wonderful Chair Ill. by Emma Brock (8-10) Lewis CarRoLi Alice’s Adventures in Wonderland and Through the Looking Glass Ill. by John Tenniel (8-10) RicHarp Henry Dana Two Years Before the Mast Ill. by Charles Pears (12-15) Daniet DEFor Robinson Crusoe Ill. by Williamson (10-14) Cuartes Dickens A Christmas Carol Ill. by Francis D. Bedford (10-12) English Fawy Tales Retold by F. A. Steele Ill. by Arthur Rackham (4-6) Tue Brotuers Grimm Household Tales Translated by Lucy Crane Ill. by Walter Crane (6-8) Homer ’ The Iliad for Boys and Girls The Odyssey for Boys and Girls Retold by Rev. A. J. Church Go or with Ill. after Flaxman -10 Rip Van Winkle Ill. by Eric Pape (10-12) CuarLes AND Mary Lams Tales from Shakespeare Ill. by Maud and Miska Petersham (10-12) GrorceE MacDonaLp At the Back of the North Wind Ill. by Francis Bedford (10-12) Harriet MArTINEAU Feats on the Fiord Ill. by Artzybasheff (12-15) Mrs. MoLeswortH The Cuckoo Clock and The Tapestry Room In one vol. with Walter Crane pictures (6-8) Mother Goose’s Nursery Rhymes Edited by Edna Walter Ill. by Charles Folkard (4-6) Rosert Louis STEVENSON Treasure Island (10-12) Kidnapped (12-15) Both vols. Ill. by Warwick Goble JonaTHAN SwirfrT Gulliver's Travels Ill. by Charles Brock (12-15) Lucy THACHER The Listening Child Ill. by Nancy Barnhart (8-10) The Prince and the Page Ill. by Marguerite de Angeli (8-10) Joun Davin Wyss Swiss Family Robinson Iil. by Harry Rountree (10-12) Other important titles preparing Neto Work All rights reserved CopyRIGHT, 1907, Set up and electrotyped. Published September, 1907. Norwood Press F. S. Cushing Co. — Berwick & Smith Co. Norwood, Mass., U.S.A. TO THE QuarREL Tue Duet or Paris anp MEnNELAUs How rHE OatH was Broken . Tue Great Deeps or Diomep ConcERNING OTHER VaLianT Deeps Or Guaucus anp Diomep Hecror anp ANDROMACHÉ “ How Hecror anp Ajax Foucut Tue BatTLE ON THE PLain . Tue Empassy TO ACHILLES . Tue Story oF Otp Puenix . Tue WounpING OF THE CHIEFS Tue BarrLte aT THE WaLL Tue Rousinc or ACHILLES Tue Maxine oF THE ARMs THe QuarreL Enpep . : Tue BatrrLe aT THE RIVER . Tue Stayinc or Hector Tue Ransominc oF HEcror . Diomed Casting His Spear against Ares . _— Frontispiece Athené Suppressing the Fury of Achilles . / eed Hector Chiding Paris : : i i 092 The Meeting of Hector and Paine : : ~96 Hector and Ajax Separated by the Heralds. . 108 Hera and Athené Going to Assist the Greeks . = B22 The Embassy of Achilles . ; ‘ 142 Diomed and Ulysses hors ies with he Spoils of Rhesus . ‘ ~A70 Polydamus Advising Hector to Refi. ee the Trench . ; : 194 Ajax Defending the Greek Ships against me Tisisas 214 Sleep and Death Conveying the Body of Sarpēdon to Lyaa’ : . A eet The Fight for the Body of Picea : : eaa4 Thetis Bringing the Armour to Achilles . 4 Beye The Gods Descending to Battle. , : 270 Andromaché Fainting on the Wall . x ; 286 Hector’s Body Dragged at the Chariot by ‘Adhilles 292 If",
+   "by": "base",
+   "leaf": 20
+  },
+  {
+   "at": "^ch1.1#132",
+   "base": "",
+   "A": "",
+   "B": "IS",
+   "C": "",
+   "by": "base",
+   "leaf": 20
+  },
+  {
+   "at": "ch1.2#30",
+   "base": "ali",
+   "A": "all",
+   "B": "all",
+   "C": "all",
+   "by": "witnesses",
+   "leaf": 21,
+   "out": "all"
+  },
+  {
+   "at": "ch1.7#74",
+   "base": "1",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 22,
+   "out": "I"
+  },
+  {
+   "at": "ch2.1#0",
+   "base": "Tue",
+   "A": "The",
+   "B": "The",
+   "C": "Tue",
+   "by": "read",
+   "leaf": 26,
+   "out": "THE",
+   "seen": "n26: small capitals THE"
+  },
+  {
+   "at": "ch2.3#41",
+   "base": "IT",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 27,
+   "out": "I"
+  },
+  {
+   "at": "ch2.4#52",
+   "base": "‘",
+   "A": "*",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 27
+  },
+  {
+   "at": "^ch2.8#0",
+   "base": "",
+   "A": "himself.”",
+   "B": "himself/'",
+   "C": "himself.”",
+   "by": "witnesses",
+   "leaf": 28,
+   "out": "himself.”"
+  },
+  {
+   "at": "ch2.9#2",
+   "base": "Agamemnon",
+   "A": "Agamemnon",
+   "B": "Agamenmon",
+   "C": "Agamemnon",
+   "by": "base",
+   "leaf": 28
+  },
+  {
+   "at": "ch2.14#2",
+   "base": "Agamemnon,",
+   "A": "xA.gamemnon,",
+   "B": "Agamemnon,",
+   "C": "Agamemnon,",
+   "by": "base",
+   "leaf": 29
+  },
+  {
+   "at": "ch2.14#12",
+   "base": "chiefs",
+   "A": "chiefs",
+   "B": "jchiefs",
+   "C": "chiefs",
+   "by": "base",
+   "leaf": 29
+  },
+  {
+   "at": "ch2.14#40",
+   "base": "of",
+   "A": "of",
+   "B": "o£",
+   "C": "of",
+   "by": "base",
+   "leaf": 29
+  },
+  {
+   "at": "ch2.14#58",
+   "base": "learn",
+   "A": "learn",
+   "B": "learn",
+   "C": "pleats",
+   "by": "base",
+   "leaf": 29
+  },
+  {
+   "at": "^ch2.15#34",
+   "base": "",
+   "A": "Athené Suppressing the Fury of Achilles.",
+   "B": "u <",
+   "C": ": 24",
+   "by": "base",
+   "leaf": 29
+  },
+  {
+   "at": "ch2.15#62",
+   "base": "—",
+   "A": "—",
+   "B": "—",
+   "C": "",
+   "by": "base",
+   "leaf": 32
+  },
+  {
+   "at": "ch2.15#86",
+   "base": "“T",
+   "A": "“ I",
+   "B": "**I",
+   "C": "“T",
+   "by": "read",
+   "leaf": 32,
+   "out": "“I",
+   "seen": "n32: “I am come to stay your rage"
+  },
+  {
+   "at": "ch2.16#2",
+   "base": "“J",
+   "A": "“I",
+   "B": "**I",
+   "C": "“I",
+   "by": "witnesses",
+   "leaf": 32,
+   "out": "“I"
+  },
+  {
+   "at": "^ch2.21#0",
+   "base": "",
+   "A": "him.”",
+   "B": "him/'",
+   "C": "him.”",
+   "by": "witnesses",
+   "leaf": 34,
+   "out": "him.”"
+  },
+  {
+   "at": "ch2.21#67",
+   "base": "full",
+   "A": "full",
+   "B": "fiill",
+   "C": "full",
+   "by": "base",
+   "leaf": 34
+  },
+  {
+   "at": "^ch2.23#31",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "2]",
+   "by": "base",
+   "leaf": 34
+  },
+  {
+   "at": "ch2.25#89",
+   "base": "learn",
+   "A": "learn",
+   "B": "leam",
+   "C": "learn",
+   "by": "base",
+   "leaf": 35
+  },
+  {
+   "at": "^ch3.1#0",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "p= =",
+   "by": "base",
+   "leaf": 36
+  },
+  {
+   "at": "ch3.1#22",
+   "base": "found",
+   "A": "found",
+   "B": "found",
+   "C": "fornd",
+   "by": "base",
+   "leaf": 40
+  },
+  {
+   "at": "ch3.2#0",
+   "base": "“©",
+   "A": "— “O",
+   "B": "\"O",
+   "C": "“©",
+   "by": "read",
+   "leaf": 40,
+   "out": "“O",
+   "seen": "n40: “O father Zeus"
+  },
+  {
+   "at": "ch3.3#68",
+   "base": "me.”",
+   "A": "me.”",
+   "B": "me.",
+   "C": "mes",
+   "by": "base",
+   "leaf": 41
+  },
+  {
+   "at": "^ch3.4#64",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 41,
+   "out": "I"
+  },
+  {
+   "at": "ch3.4#97",
+   "base": "repented",
+   "A": "repented",
+   "B": "repented",
+   "C": "ee",
+   "by": "base",
+   "leaf": 41
+  },
+  {
+   "at": "ch3.6#88",
+   "base": "me.”",
+   "A": "me.”",
+   "B": "me.",
+   "C": "ac.",
+   "by": "base",
+   "leaf": 42
+  },
+  {
+   "at": "ch4.2#89",
+   "base": "“",
+   "A": "“",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 48
+  },
+  {
+   "at": "ch4.3#82",
+   "base": "4nd",
+   "A": "tod",
+   "B": "and",
+   "by": "read",
+   "leaf": 49,
+   "out": "and",
+   "seen": "n49: 'and', the a damaged in this printing"
+  },
+  {
+   "at": "ch4.13#28",
+   "base": "is",
+   "A": "is",
+   "B": "id",
+   "C": "is",
+   "by": "base",
+   "leaf": 52
+  },
+  {
+   "at": "ch4.21#375",
+   "base": "Everywhere",
+   "A": "Everywhere",
+   "B": "Everjnvhere",
+   "C": "Everywhere",
+   "by": "base",
+   "leaf": 56
+  },
+  {
+   "at": "^ch5.1#0",
+   "base": "",
+   "A": "D",
+   "B": "",
+   "C": "2 a 49 +e c f * os a, A. . b : ra ie ‘4 cal i-ma AR s 8 > ie sei! tis & i é ~» > 4 3 Pie , j oe ‘ > P rd ‘ r >. “ ) ; 4 79 ® * +, 5 . we » F i t cal ~. rc » > : ry ™~ of pt é : a > 4% 1 : : jf : ry iy : wee pus t » j >. ~ wen tts Wie DSL risa ees af - 4 ~ H [ z ~ = 4 ay i~ or vs = pace Se Ee | >i - . i ‘ ~s3 >> 7 t~ « 4 ° 7 - = ¥ oe | ae Swi). eas ai SiS ee |: Ret, tris tins pl homr Sh) -oddaas es Maa B+ PAS yo oe Sp yo re) ait Gite Br fighats: os hn 10 8 oe aS fe “ih PAN ig 6 has tent Ett bites shel a= Ee eNe! 1): fehattirasg bs . TA ot - say retin, eee . > ; euiet aA Sea Se a!",
+   "by": "base",
+   "leaf": 56
+  },
+  {
+   "at": "ch5.3#6",
+   "base": "Pandărus,",
+   "A": "Pandărus,",
+   "B": "Pandoras,",
+   "C": "Pandărus,",
+   "by": "base",
+   "leaf": 61
+  },
+  {
+   "at": "ch5.8#11",
+   "base": "physiclan.",
+   "A": "physician.",
+   "B": "physician.",
+   "C": "physician.",
+   "by": "witnesses",
+   "leaf": 63,
+   "out": "physician."
+  },
+  {
+   "at": "ch6.1#0",
+   "base": "THE",
+   "A": "%",
+   "B": "",
+   "C": "2 ; j ( 'y a + - q - . a ~— z ~ ] : = ~ é are ’ ] ¥ ih = bd A *. ~ = 1 ~ <= 2 : +2 29v eae 3 od ~ a IES eae W248 es 4) Tus",
+   "by": "witnesses",
+   "leaf": 65,
+   "out": ""
+  },
+  {
+   "at": "ch6.1#1",
+   "base": "GREAT",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 64,
+   "out": ""
+  },
+  {
+   "at": "ch6.1#2",
+   "base": "DEEDS",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 64,
+   "out": ""
+  },
+  {
+   "at": "ch6.1#3",
+   "base": "OF",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 65,
+   "out": ""
+  },
+  {
+   "at": "ch6.1#4",
+   "base": "DIOMED",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 68,
+   "out": ""
+  },
+  {
+   "at": "ch6.3#56",
+   "base": "“©",
+   "A": ": “O",
+   "B": "**0",
+   "C": "“OQ",
+   "by": "witnesses",
+   "leaf": 69,
+   "out": "“O"
+  },
+  {
+   "at": "ch6.4#49",
+   "base": "Ænēas,",
+   "A": "Tineas,",
+   "B": "^Ænēas,",
+   "C": "Ænēas,",
+   "by": "base",
+   "leaf": 69
+  },
+  {
+   "at": "ch6.5#0",
+   "base": "39",
+   "A": "",
+   "B": "",
+   "C": "62 +",
+   "by": "witnesses",
+   "leaf": 69,
+   "out": ""
+  },
+  {
+   "at": "^ch6.6#73",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 70,
+   "out": "I"
+  },
+  {
+   "at": "ch6.7#33",
+   "base": "should",
+   "A": "should",
+   "B": "ghould",
+   "C": "should",
+   "by": "base",
+   "leaf": 71
+  },
+  {
+   "at": "ch6.9#34",
+   "base": "Ænēas,",
+   "A": "Ænēas,",
+   "B": "^neas,",
+   "C": "Ænēas,",
+   "by": "base",
+   "leaf": 71
+  },
+  {
+   "at": "^ch6.10#39",
+   "base": "",
+   "A": "",
+   "B": "I",
+   "C": "",
+   "by": "base",
+   "leaf": 72
+  },
+  {
+   "at": "ch6.10#60",
+   "base": "me",
+   "A": "me",
+   "B": "mc",
+   "C": "me",
+   "by": "base",
+   "leaf": 72
+  },
+  {
+   "at": "ch6.10#111",
+   "base": "him.",
+   "A": "him.",
+   "B": "hinL",
+   "C": "him.",
+   "by": "base",
+   "leaf": 72
+  },
+  {
+   "at": "ch6.10#113",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "^neas",
+   "C": "Ænēas",
+   "by": "base",
+   "leaf": 72
+  },
+  {
+   "at": "ch6.10#198",
+   "base": "—",
+   "A": "—",
+   "B": "—",
+   "C": "",
+   "by": "base",
+   "leaf": 73
+  },
+  {
+   "at": "ch6.10#203",
+   "base": "Ænēas.",
+   "A": "Ænēas.",
+   "B": "^neas.",
+   "C": "Ænēas.",
+   "by": "base",
+   "leaf": 73
+  },
+  {
+   "at": "ch6.10#358",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "^neas",
+   "C": "Ænēas",
+   "by": "base",
+   "leaf": 73
+  },
+  {
+   "at": "ch6.10#439",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "^neas",
+   "C": "Ænēas",
+   "by": "base",
+   "leaf": 74
+  },
+  {
+   "at": "ch6.10#490",
+   "base": "Ænēas.",
+   "A": "Ænēas.",
+   "B": "iEnCas.",
+   "C": "Ænēas.",
+   "by": "base",
+   "leaf": 74
+  },
+  {
+   "at": "ch7.1#133",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 78,
+   "out": "is"
+  },
+  {
+   "at": "ch7.2#28",
+   "base": "néas",
+   "A": "Ænēas",
+   "B": "-^Ænēas",
+   "C": "Ænēas",
+   "by": "witnesses",
+   "leaf": 79,
+   "out": "Ænēas"
+  },
+  {
+   "at": "ch7.2#72",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 79,
+   "out": "is"
+  },
+  {
+   "at": "ch7.5#121",
+   "base": "“©",
+   "A": "“O",
+   "B": "\"O",
+   "C": "“©",
+   "by": "read",
+   "leaf": 81,
+   "out": "“O",
+   "seen": "n81: “O Hector"
+  },
+  {
+   "at": "^ch7.5#140",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 81,
+   "out": "I"
+  },
+  {
+   "at": "ch7.6#17",
+   "base": "Hector,",
+   "A": "Flector,",
+   "B": "Hector,",
+   "C": "Hector,",
+   "by": "base",
+   "leaf": 81
+  },
+  {
+   "at": "ch7.6#69",
+   "base": "before",
+   "A": "before",
+   "B": "before",
+   "C": "befoie",
+   "by": "base",
+   "leaf": 81
+  },
+  {
+   "at": "ch7.6#272",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "C": "are",
+   "by": "base",
+   "leaf": 82
+  },
+  {
+   "at": "ch7.7#70",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "JEMas",
+   "C": "Ænēas",
+   "by": "base",
+   "leaf": 83
+  },
+  {
+   "at": "ch8.1#0",
+   "base": "And",
+   "A": "And",
+   "B": "And",
+   "C": "Anpv",
+   "by": "base",
+   "leaf": 88
+  },
+  {
+   "at": "ch8.1#182",
+   "base": "te",
+   "A": "to",
+   "B": "to",
+   "C": "ta",
+   "by": "witnesses",
+   "leaf": 89,
+   "out": "to"
+  },
+  {
+   "at": "ch8.1#209",
+   "base": "terrible",
+   "A": "terrible",
+   "B": "terrible",
+   "C": "tertible",
+   "by": "base",
+   "leaf": 89
+  },
+  {
+   "at": "ch8.5#16",
+   "base": "[",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 90,
+   "out": "I"
+  },
+  {
+   "at": "ch8.7#0",
+   "base": "Ol",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 91,
+   "out": ""
+  },
+  {
+   "at": "ch8.7#1",
+   "base": "GLAUCUS",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 91,
+   "out": ""
+  },
+  {
+   "at": "ch8.7#2",
+   "base": "AND",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 91,
+   "out": ""
+  },
+  {
+   "at": "ch8.7#3",
+   "base": "DIOMED",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 92,
+   "out": ""
+  },
+  {
+   "at": "ch8.7#186",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 92,
+   "out": "is"
+  },
+  {
+   "at": "^ch8.7#192",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 92,
+   "out": "I"
+  },
+  {
+   "at": "^ch8.8#17",
+   "base": "",
+   "A": "",
+   "B": "• 85",
+   "C": "",
+   "by": "base",
+   "leaf": 92
+  },
+  {
+   "at": "ch8.8#32",
+   "base": "Æneus",
+   "A": "Æneus",
+   "B": "i£neus",
+   "C": "Æneus",
+   "by": "base",
+   "leaf": 93
+  },
+  {
+   "at": "ch9.1#0",
+   "base": "Wuen",
+   "A": "* When",
+   "B": "When",
+   "C": "WuHen",
+   "by": "witnesses",
+   "leaf": 95,
+   "out": "When"
+  },
+  {
+   "at": "ch9.1#18",
+   "base": "what",
+   "A": "what",
+   "B": "whdt",
+   "C": "what",
+   "by": "base",
+   "leaf": 96
+  },
+  {
+   "at": "ch9.2#42",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 97,
+   "out": "is"
+  },
+  {
+   "at": "^ch9.3#101",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "go",
+   "by": "base",
+   "leaf": 97
+  },
+  {
+   "at": "^ch9.7#0",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "gi",
+   "by": "base",
+   "leaf": 98
+  },
+  {
+   "at": "^ch9.7#16",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 99,
+   "out": "I"
+  },
+  {
+   "at": "ch9.9#10",
+   "base": "[",
+   "A": "I",
+   "B": "I",
+   "C": "|",
+   "by": "read",
+   "leaf": 99,
+   "out": "I",
+   "seen": "n99: I must make"
+  },
+  {
+   "at": "^ch9.11#7",
+   "base": "",
+   "A": "Hector Chiding Paris.",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 99
+  },
+  {
+   "at": "ch9.13#108",
+   "base": "“OQ",
+   "A": "“O",
+   "B": "**0",
+   "by": "witnesses",
+   "leaf": 102,
+   "out": "“O"
+  },
+  {
+   "at": "ch9.13#146",
+   "base": "—",
+   "A": "—",
+   "B": "—",
+   "C": "",
+   "by": "base",
+   "leaf": 103
+  },
+  {
+   "at": "ch9.13#281",
+   "base": "arrows.’",
+   "A": "arrows.1",
+   "B": "arrows.^",
+   "C": "arrows.’",
+   "by": "base",
+   "leaf": 103
+  },
+  {
+   "at": "^ch9.14#0",
+   "base": "",
+   "A": "1",
+   "B": "^",
+   "C": "*",
+   "by": "base",
+   "leaf": 103
+  },
+  {
+   "at": "ch9.14#29",
+   "base": "be",
+   "A": "be",
+   "B": "he",
+   "C": "be",
+   "by": "base",
+   "leaf": 103
+  },
+  {
+   "at": "ch9.14#31",
+   "base": "by",
+   "A": "by",
+   "B": "hy",
+   "C": "by",
+   "by": "base",
+   "leaf": 103
+  },
+  {
+   "at": "ch9.17#7",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "by": "base",
+   "leaf": 105
+  },
+  {
+   "at": "^ch9.17#55",
+   "base": "",
+   "A": "",
+   "B": "I'",
+   "C": "",
+   "by": "base",
+   "leaf": 105
+  },
+  {
+   "at": "^ch9.19#45",
+   "base": "",
+   "A": "The Meeting of Hector and Andromaché.",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 105
+  },
+  {
+   "at": "ch9.21#53",
+   "base": "“I",
+   "A": "“1",
+   "B": "**I",
+   "C": "“I",
+   "by": "base",
+   "leaf": 108
+  },
+  {
+   "at": "^ch9.22#33",
+   "base": "",
+   "A": "G",
+   "B": "",
+   "C": "$ 97",
+   "by": "base",
+   "leaf": 108
+  },
+  {
+   "at": "ch10.1#5",
+   "base": "see",
+   "A": "see",
+   "B": "sec",
+   "C": "see",
+   "by": "base",
+   "leaf": 112
+  },
+  {
+   "at": "ch10.2#11",
+   "base": "“We",
+   "A": "“We",
+   "B": "**Wc",
+   "C": "“We",
+   "by": "base",
+   "leaf": 112
+  },
+  {
+   "at": "^ch10.3#0",
+   "base": "",
+   "A": "man.”",
+   "B": "man.\"",
+   "C": "man.”",
+   "by": "witnesses",
+   "leaf": 112,
+   "out": "man.”"
+  },
+  {
+   "at": "^ch10.3#8",
+   "base": "",
+   "A": ">",
+   "B": "lOI",
+   "C": "Iol",
+   "by": "base",
+   "leaf": 112
+  },
+  {
+   "at": "ch10.3#81",
+   "base": "man",
+   "A": "man",
+   "B": "man",
+   "C": "mam",
+   "by": "base",
+   "leaf": 113
+  },
+  {
+   "at": "ch10.4#34",
+   "base": "Then",
+   "A": "Then",
+   "B": "Theni",
+   "C": "Then",
+   "by": "base",
+   "leaf": 113
+  },
+  {
+   "at": "ch10.5#146",
+   "base": "burn",
+   "A": "burn",
+   "B": "bum",
+   "C": "burn",
+   "by": "base",
+   "leaf": 114
+  },
+  {
+   "at": "ch10.5#224",
+   "base": "him",
+   "A": "him",
+   "B": "iiim",
+   "C": "him",
+   "by": "base",
+   "leaf": 114
+  },
+  {
+   "at": "ch10.8#113",
+   "base": "in",
+   "A": "in",
+   "B": "m",
+   "C": "in",
+   "by": "base",
+   "leaf": 116
+  },
+  {
+   "at": "^ch10.8#218",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 116,
+   "out": "I"
+  },
+  {
+   "at": "ch10.8#223",
+   "base": "—",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 116
+  },
+  {
+   "at": "^ch10.8#240",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 116,
+   "out": "I"
+  },
+  {
+   "at": "ch10.8#252",
+   "base": "him.”",
+   "A": "him/5",
+   "B": "him.\"",
+   "C": "him.”",
+   "by": "base",
+   "leaf": 116
+  },
+  {
+   "at": "ch10.12#33",
+   "base": "bull’s-hide,",
+   "A": "bull’s-hide,",
+   "B": "buU's-hide,",
+   "C": "bull’s-hide,",
+   "by": "base",
+   "leaf": 118
+  },
+  {
+   "at": "ch10.14#15",
+   "base": "bull’s-hide",
+   "A": "bull’s-hide",
+   "B": "buU's-hide",
+   "C": "bull’s-hide",
+   "by": "base",
+   "leaf": 119
+  },
+  {
+   "at": "^ch10.14#158",
+   "base": "",
+   "A": "Hector and Ajax Separated by the Heralds. t",
+   "B": "o <",
+   "C": "",
+   "by": "base",
+   "leaf": 119
+  },
+  {
+   "at": "ch10.14#180",
+   "base": "stone",
+   "A": "stone",
+   "B": "stond",
+   "C": "stone",
+   "by": "base",
+   "leaf": 122
+  },
+  {
+   "at": "^ch10.16#0",
+   "base": "",
+   "A": "also.”",
+   "B": "also/'",
+   "C": "also.”",
+   "by": "witnesses",
+   "leaf": 122,
+   "out": "also.”"
+  },
+  {
+   "at": "ch10.17#34",
+   "base": "see",
+   "A": "see",
+   "B": "sec",
+   "C": "see",
+   "by": "base",
+   "leaf": 123
+  },
+  {
+   "at": "^ch11.1#0",
+   "base": "",
+   "A": "no",
+   "B": "no",
+   "C": "Ito",
+   "by": "read",
+   "leaf": 123,
+   "out": "",
+   "seen": "n123: the folio 110 at the page foot, read 'no' by two engines: not text"
+  },
+  {
+   "at": "ch11.1#69",
+   "base": "learn",
+   "A": "learn",
+   "B": "leara",
+   "C": "learn",
+   "by": "base",
+   "leaf": 126
+  },
+  {
+   "at": "^ch11.1#173",
+   "base": "",
+   "A": "h 1 13",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 126
+  },
+  {
+   "at": "ch11.1#187",
+   "base": "air.”",
+   "A": "air.5’",
+   "B": "air/'",
+   "C": "air.”",
+   "by": "base",
+   "leaf": 127
+  },
+  {
+   "at": "^ch11.4#21",
+   "base": "",
+   "A": "",
+   "B": "\"4",
+   "C": "",
+   "by": "base",
+   "leaf": 127
+  },
+  {
+   "at": "ch11.4#133",
+   "base": "lo!",
+   "A": "lo",
+   "B": "lol",
+   "C": "lo!",
+   "by": "base",
+   "leaf": 128
+  },
+  {
+   "at": "^ch11.5#69",
+   "base": "",
+   "A": "",
+   "B": "\"5",
+   "C": "",
+   "by": "base",
+   "leaf": 128
+  },
+  {
+   "at": "ch11.5#115",
+   "base": "could,",
+   "A": "could,",
+   "B": "cduld,",
+   "C": "could,",
+   "by": "base",
+   "leaf": 129
+  },
+  {
+   "at": "ch11.6#92",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "C": "are",
+   "by": "base",
+   "leaf": 129
+  },
+  {
+   "at": "ch11.6#99",
+   "base": "Ænēas.",
+   "A": "Ænēas.",
+   "B": "JEntas.",
+   "C": "Ænēas.",
+   "by": "base",
+   "leaf": 129
+  },
+  {
+   "at": "ch11.6#128",
+   "base": "see",
+   "A": "see",
+   "B": "sec",
+   "C": "see",
+   "by": "base",
+   "leaf": 130
+  },
+  {
+   "at": "^ch11.10#52",
+   "base": "",
+   "A": "!",
+   "B": "1",
+   "C": "",
+   "by": "base",
+   "leaf": 131
+  },
+  {
+   "at": "^ch11.12#154",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "11g",
+   "by": "base",
+   "leaf": 132
+  },
+  {
+   "at": "ch11.12#198",
+   "base": "”’",
+   "A": "”",
+   "B": "\"",
+   "C": "",
+   "by": "base",
+   "leaf": 133
+  },
+  {
+   "at": "ch11.17#7",
+   "base": "top",
+   "A": "top",
+   "B": "top",
+   "C": "“topmor",
+   "by": "base",
+   "leaf": 135
+  },
+  {
+   "at": "ch11.17#8",
+   "base": "of",
+   "A": "of",
+   "B": "of",
+   "C": "",
+   "by": "base",
+   "leaf": 135
+  },
+  {
+   "at": "^ch11.18#41",
+   "base": "",
+   "A": "Hera and Athené going to assist the Greeks. -",
+   "B": "",
+   "C": "iq s",
+   "by": "base",
+   "leaf": 135
+  },
+  {
+   "at": "^ch11.23#91",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 139,
+   "out": "I"
+  },
+  {
+   "at": "^ch11.27#87",
+   "base": "",
+   "A": "",
+   "B": "\"5",
+   "C": "",
+   "by": "base",
+   "leaf": 140
+  },
+  {
+   "at": "ch11.27#267",
+   "base": "shal",
+   "A": "shall",
+   "B": "shall",
+   "C": "shall",
+   "by": "witnesses",
+   "leaf": 141,
+   "out": "shall"
+  },
+  {
+   "at": "ch11.27#275",
+   "base": "shail",
+   "A": "shall",
+   "B": "shall",
+   "C": "shall",
+   "by": "witnesses",
+   "leaf": 141,
+   "out": "shall"
+  },
+  {
+   "at": "ch11.27#340",
+   "base": "burn",
+   "A": "burn",
+   "B": "bum",
+   "C": "burn",
+   "by": "base",
+   "leaf": 142
+  },
+  {
+   "at": "ch12.1#0",
+   "base": "Wui",
+   "A": "While",
+   "B": "While",
+   "C": "@ ay Waite",
+   "by": "witnesses",
+   "leaf": 146,
+   "out": "While"
+  },
+  {
+   "at": "ch12.1#1",
+   "base": "te",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 142,
+   "out": ""
+  },
+  {
+   "at": "ch12.1#26",
+   "base": "tull",
+   "A": "tull",
+   "B": "tuU",
+   "C": "tull",
+   "by": "base",
+   "leaf": 146
+  },
+  {
+   "at": "ch12.1#120",
+   "base": "up",
+   "A": "up",
+   "B": "up",
+   "C": "yp",
+   "by": "base",
+   "leaf": 146
+  },
+  {
+   "at": "ch12.1#143",
+   "base": "[",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 146,
+   "out": "I"
+  },
+  {
+   "at": "ch12.2#105",
+   "base": "Zeus",
+   "A": "Zeus",
+   "B": "Zeus",
+   "C": "Zeuse-has,",
+   "by": "base",
+   "leaf": 147
+  },
+  {
+   "at": "ch12.2#106",
+   "base": "has",
+   "A": "has",
+   "B": "has",
+   "C": "",
+   "by": "base",
+   "leaf": 147
+  },
+  {
+   "at": "ch12.2#149",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "C": "are",
+   "by": "base",
+   "leaf": 147
+  },
+  {
+   "at": "ch12.2#152",
+   "base": "going",
+   "A": "going",
+   "B": "gcHng",
+   "C": "going",
+   "by": "base",
+   "leaf": 147
+  },
+  {
+   "at": "ch12.2#170",
+   "base": "other",
+   "A": "other",
+   "B": "bther",
+   "C": "other",
+   "by": "base",
+   "leaf": 147
+  },
+  {
+   "at": "ch12.2#190",
+   "base": "with",
+   "A": "with",
+   "B": "wirii",
+   "C": "with",
+   "by": "base",
+   "leaf": 147
+  },
+  {
+   "at": "ch12.2#191",
+   "base": "you,",
+   "A": "you, *32",
+   "B": "jfoo,",
+   "C": "you,",
+   "by": "base",
+   "leaf": 147
+  },
+  {
+   "at": "ch12.2#232",
+   "base": "we",
+   "A": "we",
+   "B": "wc",
+   "C": "we",
+   "by": "base",
+   "leaf": 148
+  },
+  {
+   "at": "^ch12.5#83",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 150,
+   "out": "I"
+  },
+  {
+   "at": "ch12.5#129",
+   "base": "gold,’",
+   "A": "gold,1",
+   "B": "gold,^",
+   "C": "gold,!",
+   "by": "base",
+   "leaf": 150
+  },
+  {
+   "at": "ch12.6#0",
+   "base": "1",
+   "A": "1",
+   "B": "^",
+   "C": "1",
+   "by": "base",
+   "leaf": 150
+  },
+  {
+   "at": "ch13.1#23",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 156,
+   "out": "is"
+  },
+  {
+   "at": "^ch13.1#169",
+   "base": "",
+   "A": "",
+   "B": "HI",
+   "C": "",
+   "by": "base",
+   "leaf": 156
+  },
+  {
+   "at": "^ch13.3#0",
+   "base": "",
+   "A": "Greeks/’",
+   "B": "Greeks.''",
+   "C": "Greeks.”",
+   "by": "read",
+   "leaf": 157,
+   "out": "Greeks.”",
+   "seen": "n157: the paragraph's last line, 'Greeks.”', missing from the base"
+  },
+  {
+   "at": "^ch13.3#118",
+   "base": "",
+   "A": "The Embassy to Achilles.",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 157
+  },
+  {
+   "at": "ch13.3#154",
+   "base": "burn",
+   "A": "burn",
+   "B": "bum",
+   "C": "burn",
+   "by": "base",
+   "leaf": 160
+  },
+  {
+   "at": "^ch13.3#340",
+   "base": "",
+   "A": "",
+   "B": "GoogJe",
+   "C": "",
+   "by": "base",
+   "leaf": 160
+  },
+  {
+   "at": "ch13.3#353",
+   "base": "no",
+   "A": "no",
+   "B": "ho",
+   "C": "no",
+   "by": "base",
+   "leaf": 161
+  },
+  {
+   "at": "ch13.3#380",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 161,
+   "out": "is"
+  },
+  {
+   "at": "ch13.3#486",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 161,
+   "out": "is"
+  },
+  {
+   "at": "ch13.3#498",
+   "base": "burn",
+   "A": "burn",
+   "B": "bum",
+   "C": "burn",
+   "by": "base",
+   "leaf": 161
+  },
+  {
+   "at": "ch13.4#6",
+   "base": "O",
+   "A": "O",
+   "B": "",
+   "C": "O",
+   "by": "base",
+   "leaf": 163
+  },
+  {
+   "at": "ch13.4#50",
+   "base": "[",
+   "A": "I",
+   "B": "1",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 163,
+   "out": "I"
+  },
+  {
+   "at": "ch13.4#227",
+   "base": "[",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 164,
+   "out": "I"
+  },
+  {
+   "at": "ch13.4#918",
+   "base": "I",
+   "A": "I",
+   "B": "I",
+   "C": "|",
+   "by": "base",
+   "leaf": 167
+  },
+  {
+   "at": "^ch13.4#1043",
+   "base": "",
+   "A": "I5°",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 167
+  },
+  {
+   "at": "ch14.1#0",
+   "base": "AFTER",
+   "A": "15* « t » After",
+   "B": "After",
+   "C": "1st Blss.94 Ves wae Pree. #6, Ps)\" ArTer",
+   "by": "base",
+   "leaf": 172
+  },
+  {
+   "at": "ch14.1#150",
+   "base": "I",
+   "A": "I",
+   "B": "I",
+   "C": "|",
+   "by": "base",
+   "leaf": 172
+  },
+  {
+   "at": "ch14.1#189",
+   "base": "he",
+   "A": "he",
+   "B": "be",
+   "C": "he",
+   "by": "base",
+   "leaf": 173
+  },
+  {
+   "at": "^ch14.1#291",
+   "base": "",
+   "A": "",
+   "B": "1^",
+   "C": "",
+   "by": "base",
+   "leaf": 173
+  },
+  {
+   "at": "ch14.1#305",
+   "base": "!and",
+   "A": "land",
+   "B": "land",
+   "C": "land",
+   "by": "witnesses",
+   "leaf": 173,
+   "out": "!land"
+  },
+  {
+   "at": "^ch14.1#462",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 174,
+   "out": "I"
+  },
+  {
+   "at": "ch14.1#600",
+   "base": "[|",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 175,
+   "out": "I"
+  },
+  {
+   "at": "ch14.1#605",
+   "base": "to",
+   "A": "to",
+   "B": "to",
+   "C": "“tot",
+   "by": "base",
+   "leaf": 175
+  },
+  {
+   "at": "ch14.1#608",
+   "base": "Yes,",
+   "A": "Yes,",
+   "B": "Yes,",
+   "C": "-Y",
+   "by": "base",
+   "leaf": 175
+  },
+  {
+   "at": "ch14.1#609",
+   "base": "I",
+   "A": "I",
+   "B": "I",
+   "C": "csyame",
+   "by": "base",
+   "leaf": 175
+  },
+  {
+   "at": "ch14.1#659",
+   "base": "ts",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 175,
+   "out": "is"
+  },
+  {
+   "at": "ch14.1#961",
+   "base": "wiil",
+   "A": "will",
+   "B": "will",
+   "C": "will",
+   "by": "witnesses",
+   "leaf": 176,
+   "out": "will"
+  },
+  {
+   "at": "ch14.2#29",
+   "base": "here",
+   "A": "There",
+   "B": "There",
+   "C": "There",
+   "by": "witnesses",
+   "leaf": 177,
+   "out": "There"
+  },
+  {
+   "at": "ch14.2#45",
+   "base": "Ætolians",
+   "A": "Ætolians",
+   "B": "Ætolians",
+   "C": "/tolians",
+   "by": "base",
+   "leaf": 177
+  },
+  {
+   "at": "ch14.2#139",
+   "base": "hide.",
+   "A": "hide.",
+   "B": "l^idCj^For",
+   "C": "hide.",
+   "by": "base",
+   "leaf": 177
+  },
+  {
+   "at": "ch14.2#140",
+   "base": "For",
+   "A": "For",
+   "B": "",
+   "C": "For",
+   "by": "base",
+   "leaf": 177
+  },
+  {
+   "at": "ch14.2#147",
+   "base": "Alatanta,",
+   "A": "Alatanta,",
+   "B": "Akrt^ta,",
+   "C": "Alatanta,",
+   "by": "base",
+   "leaf": 177
+  },
+  {
+   "at": "ch14.2#196",
+   "base": "Ætolians",
+   "A": "Ætolians",
+   "B": "^tolians",
+   "C": "/Ætolians",
+   "by": "base",
+   "leaf": 177
+  },
+  {
+   "at": "^ch14.2#233",
+   "base": "",
+   "A": "",
+   "B": "i6o",
+   "C": "",
+   "by": "base",
+   "leaf": 177
+  },
+  {
+   "at": "ch14.2#236",
+   "base": "Ætolians",
+   "A": "Ætolians",
+   "B": "^tolians",
+   "C": "/Ætolians",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#239",
+   "base": "none",
+   "A": "none",
+   "B": "non(",
+   "C": "none",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#287",
+   "base": "fKtolians",
+   "A": "Ætolians",
+   "B": "Ætolians",
+   "C": "/Ætolians",
+   "by": "witnesses",
+   "leaf": 178,
+   "out": "Ætolians"
+  },
+  {
+   "at": "ch14.2#369",
+   "base": "/®tolia,",
+   "A": "iEtolia,",
+   "B": "i£tolia,",
+   "C": "/®tolia,",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#374",
+   "base": "vineyard,",
+   "A": "vineyard,",
+   "B": "vin^ard,",
+   "C": "vineyard,",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#386",
+   "base": "beseeching",
+   "A": "beseeching",
+   "B": "beseediing",
+   "C": "beseeching",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#395",
+   "base": "wouid",
+   "A": "would",
+   "B": "would",
+   "C": "would",
+   "by": "witnesses",
+   "leaf": 178,
+   "out": "would"
+  },
+  {
+   "at": "ch14.2#428",
+   "base": "besought",
+   "A": "besought",
+   "B": "besouj^t",
+   "C": "besought",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#434",
+   "base": "of",
+   "A": "of",
+   "B": "o(",
+   "C": "of",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#438",
+   "base": "shaking",
+   "A": "shakL 1 6 1 in g",
+   "B": "shaking",
+   "C": "shaking",
+   "by": "base",
+   "leaf": 178
+  },
+  {
+   "at": "ch14.2#590",
+   "base": "Ætolians,",
+   "A": "Ætolians,",
+   "B": "^tolians,",
+   "C": "Ætolians,",
+   "by": "base",
+   "leaf": 179
+  },
+  {
+   "at": "ch14.3#47",
+   "base": "Jake",
+   "A": "Take",
+   "B": "Take",
+   "C": "‘Take",
+   "by": "witnesses",
+   "leaf": 180,
+   "out": "Take"
+  },
+  {
+   "at": "ch14.5#15",
+   "base": "“Tet",
+   "A": "“Let",
+   "B": "**Let",
+   "C": "“Tet",
+   "by": "read",
+   "leaf": 180,
+   "out": "“Let",
+   "seen": "n180: “Let us go, Ulysses"
+  },
+  {
+   "at": "ch14.5#119",
+   "base": "lo!",
+   "A": "lo",
+   "B": "lol",
+   "C": "lo!",
+   "by": "base",
+   "leaf": 181
+  },
+  {
+   "at": "ch15.1#0",
+   "base": "While",
+   "A": "While",
+   "B": "While",
+   "C": "Waite",
+   "by": "base",
+   "leaf": 184
+  },
+  {
+   "at": "ch15.1#41",
+   "base": "flutes",
+   "A": "flutes",
+   "B": "flutes",
+   "C": "fiutes",
+   "by": "base",
+   "leaf": 184
+  },
+  {
+   "at": "^ch15.1#116",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 184,
+   "out": "I"
+  },
+  {
+   "at": "ch15.3#33",
+   "base": "here",
+   "A": "There",
+   "B": "There",
+   "C": "There",
+   "by": "witnesses",
+   "leaf": 185,
+   "out": "There"
+  },
+  {
+   "at": "ch15.5#45",
+   "base": "“Is",
+   "A": "“Is",
+   "B": "\"Js",
+   "C": "“Is",
+   "by": "base",
+   "leaf": 186
+  },
+  {
+   "at": "ch15.6#8",
+   "base": "“T",
+   "A": "“I",
+   "B": "\"I",
+   "C": "“TJ",
+   "by": "witnesses",
+   "leaf": 186,
+   "out": "“I"
+  },
+  {
+   "at": "ch15.8#15",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 187,
+   "out": "is"
+  },
+  {
+   "at": "^ch15.14#0",
+   "base": "",
+   "A": "city.”",
+   "B": "city.\"",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 189,
+   "out": "city.”"
+  },
+  {
+   "at": "ch15.14#24",
+   "base": "aiter",
+   "A": "after",
+   "B": "after",
+   "C": "after",
+   "by": "witnesses",
+   "leaf": 189,
+   "out": "after"
+  },
+  {
+   "at": "ch15.14#65",
+   "base": "back.”",
+   "A": "back.”",
+   "B": "back.'V",
+   "C": "back.”",
+   "by": "base",
+   "leaf": 189
+  },
+  {
+   "at": "ch15.16#20",
+   "base": "I",
+   "A": "I",
+   "B": "I",
+   "C": "|",
+   "by": "base",
+   "leaf": 191
+  },
+  {
+   "at": "ch15.17#13",
+   "base": "“",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 191
+  },
+  {
+   "at": "ch15.17#58",
+   "base": "?”",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 191
+  },
+  {
+   "at": "^ch15.22#247",
+   "base": "",
+   "A": "Diomed and Ulysses Returning with the Spoils of Rhesus. .'•C ' »",
+   "B": "O A O a",
+   "C": "re |",
+   "by": "base",
+   "leaf": 193
+  },
+  {
+   "at": "^ch16.1#0",
+   "base": "",
+   "A": "M",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 196
+  },
+  {
+   "at": "ch16.1#117",
+   "base": "Zeus:",
+   "A": "Zeus:",
+   "B": "2^u8:",
+   "C": "Zeus:",
+   "by": "base",
+   "leaf": 200
+  },
+  {
+   "at": "ch16.3#62",
+   "base": "spear.”",
+   "A": "spear.”",
+   "B": "spear.\"",
+   "C": "Spears",
+   "by": "base",
+   "leaf": 202
+  },
+  {
+   "at": "^ch16.5#96",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 203,
+   "out": "I"
+  },
+  {
+   "at": "ch16.5#173",
+   "base": "long",
+   "A": "long",
+   "B": "long",
+   "C": "Jong",
+   "by": "base",
+   "leaf": 203
+  },
+  {
+   "at": "ch16.6#0",
+   "base": "“OQ",
+   "A": "“O",
+   "B": "\"O",
+   "C": "“OQ",
+   "by": "read",
+   "leaf": 204,
+   "out": "“O",
+   "seen": "n204: “O Ajax"
+  },
+  {
+   "at": "ch16.7#51",
+   "base": "he",
+   "A": "The",
+   "B": "The",
+   "C": "The",
+   "by": "witnesses",
+   "leaf": 204,
+   "out": "The"
+  },
+  {
+   "at": "ch16.8#29",
+   "base": "tthe",
+   "A": "the",
+   "B": "the",
+   "C": "the",
+   "by": "witnesses",
+   "leaf": 205,
+   "out": "the"
+  },
+  {
+   "at": "ch16.9#0",
+   "base": "33",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 205,
+   "out": ""
+  },
+  {
+   "at": "ch16.12#71",
+   "base": "1",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 206,
+   "out": "I"
+  },
+  {
+   "at": "^ch16.12#82",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 206,
+   "out": "I"
+  },
+  {
+   "at": "^ch16.13#0",
+   "base": "",
+   "A": "fast.”",
+   "B": "fast.\"",
+   "C": "fast.”",
+   "by": "witnesses",
+   "leaf": 206,
+   "out": "fast.”"
+  },
+  {
+   "at": "ch16.15#44",
+   "base": "and",
+   "A": "and",
+   "B": "an3",
+   "C": "and",
+   "by": "base",
+   "leaf": 208
+  },
+  {
+   "at": "^ch17.1#0",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "A",
+   "by": "base",
+   "leaf": 209
+  },
+  {
+   "at": "ch17.1#39",
+   "base": "of",
+   "A": "of",
+   "B": "of",
+   "C": "Obathe?-Trojans,",
+   "by": "base",
+   "leaf": 212
+  },
+  {
+   "at": "ch17.1#40",
+   "base": "the",
+   "A": "the",
+   "B": "the",
+   "C": "",
+   "by": "base",
+   "leaf": 212
+  },
+  {
+   "at": "ch17.1#41",
+   "base": "Trojans,",
+   "A": "Trojans,",
+   "B": "Trojans,",
+   "C": "",
+   "by": "base",
+   "leaf": 212
+  },
+  {
+   "at": "ch17.1#50",
+   "base": "thing,",
+   "A": "thing,",
+   "B": "things",
+   "C": "thing,",
+   "by": "base",
+   "leaf": 212
+  },
+  {
+   "at": "ch17.1#93",
+   "base": "Zeus",
+   "A": "Zeus",
+   "B": "2^us",
+   "C": "\"Zeus",
+   "by": "base",
+   "leaf": 212
+  },
+  {
+   "at": "^ch17.2#0",
+   "base": "",
+   "A": "N",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 212
+  },
+  {
+   "at": "ch17.2#87",
+   "base": "Sarēpdon",
+   "A": "Sarēpdon",
+   "B": "SarlSf^don",
+   "C": "Sareépdon",
+   "by": "base",
+   "leaf": 213
+  },
+  {
+   "at": "^ch17.2#212",
+   "base": "",
+   "A": "advising Hector to retire from the Trench.",
+   "B": "u z o O < < <",
+   "C": "",
+   "by": "base",
+   "leaf": 213
+  },
+  {
+   "at": "^ch17.3#122",
+   "base": "",
+   "A": "*95",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 216
+  },
+  {
+   "at": "ch17.3#146",
+   "base": "Trojans,",
+   "A": "Trojans,",
+   "B": "Trojans,",
+   "C": "Trcjans,",
+   "by": "base",
+   "leaf": 217
+  },
+  {
+   "at": "ch17.5#43",
+   "base": "little.",
+   "A": "little.",
+   "B": "little.",
+   "C": "littl.",
+   "by": "base",
+   "leaf": 218
+  },
+  {
+   "at": "ch17.6#60",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "C": "are",
+   "by": "base",
+   "leaf": 218
+  },
+  {
+   "at": "^ch17.10#121",
+   "base": "",
+   "A": "",
+   "B": "aoi",
+   "C": "",
+   "by": "base",
+   "leaf": 222
+  },
+  {
+   "at": "^ch18.1#0",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "e",
+   "by": "base",
+   "leaf": 223
+  },
+  {
+   "at": "ch18.2#110",
+   "base": "“So",
+   "A": "“So",
+   "B": "'*So",
+   "C": "ai",
+   "by": "base",
+   "leaf": 227
+  },
+  {
+   "at": "ch18.2#111",
+   "base": "it",
+   "A": "it",
+   "B": "it",
+   "C": "Som",
+   "by": "base",
+   "leaf": 227
+  },
+  {
+   "at": "ch18.2#255",
+   "base": "Nector’s",
+   "A": "Nector’s",
+   "B": "Mector's",
+   "C": "Nector’s",
+   "by": "base",
+   "leaf": 228
+  },
+  {
+   "at": "ch18.3#16",
+   "base": "Crete,",
+   "A": "Crete,",
+   "B": "Crete,",
+   "C": "f@ramm",
+   "by": "base",
+   "leaf": 229
+  },
+  {
+   "at": "ch18.3#38",
+   "base": "cast",
+   "A": "cast",
+   "B": "cast",
+   "C": "‘ast",
+   "by": "base",
+   "leaf": 229
+  },
+  {
+   "at": "ch18.3#40",
+   "base": "spear",
+   "A": "spear",
+   "B": "spear",
+   "C": "speag",
+   "by": "base",
+   "leaf": 229
+  },
+  {
+   "at": "^ch18.3#118",
+   "base": "",
+   "A": "",
+   "B": "",
+   "C": "fee Beebe AL THE SHIPS",
+   "by": "base",
+   "leaf": 229
+  },
+  {
+   "at": "ch18.4#0",
+   "base": "o)",
+   "A": "o",
+   "B": "",
+   "C": "",
+   "by": "read",
+   "leaf": 230,
+   "out": "",
+   "seen": "n230: a printer's mark and the folio 209 at the page foot, not text"
+  },
+  {
+   "at": "ch18.4#1",
+   "base": "209",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 230,
+   "out": ""
+  },
+  {
+   "at": "ch18.6#63",
+   "base": "to",
+   "A": "to",
+   "B": "to",
+   "C": "tom",
+   "by": "base",
+   "leaf": 231
+  },
+  {
+   "at": "ch18.6#65",
+   "base": "“Is",
+   "A": "“Is",
+   "B": "**Is",
+   "C": "see",
+   "by": "base",
+   "leaf": 231
+  },
+  {
+   "at": "ch18.6#93",
+   "base": "doing.",
+   "A": "doing.",
+   "B": "doing.",
+   "C": "doting.",
+   "by": "base",
+   "leaf": 231
+  },
+  {
+   "at": "ch18.8#28",
+   "base": "“",
+   "A": "“",
+   "B": ":",
+   "C": "",
+   "by": "base",
+   "leaf": 232
+  },
+  {
+   "at": "ch18.9#51",
+   "base": "no",
+   "A": "no",
+   "B": "no",
+   "C": "tio",
+   "by": "base",
+   "leaf": 233
+  },
+  {
+   "at": "ch18.9#54",
+   "base": "the",
+   "A": "the",
+   "B": "the",
+   "C": "they",
+   "by": "base",
+   "leaf": 233
+  },
+  {
+   "at": "ch18.9#55",
+   "base": "battle?”",
+   "A": "battle?”",
+   "B": "battle?\"",
+   "C": "battler",
+   "by": "base",
+   "leaf": 233
+  },
+  {
+   "at": "ch18.9#109",
+   "base": "1",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 233,
+   "out": "I"
+  },
+  {
+   "at": "ch18.9#384",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 234,
+   "out": "is"
+  },
+  {
+   "at": "ch18.9#430",
+   "base": "cried",
+   "A": "cried",
+   "B": "cried",
+   "C": "criec",
+   "by": "base",
+   "leaf": 235
+  },
+  {
+   "at": "^ch18.10#16",
+   "base": "",
+   "A": "Ajax Defending the Greek Ships against the Trojans.",
+   "B": "z < at H < S .A i< ad M o ad S H",
+   "C": "",
+   "by": "base",
+   "leaf": 235
+  },
+  {
+   "at": "ch19.2#47",
+   "base": "mothe:.",
+   "A": "mothex.",
+   "B": "mother.",
+   "C": "mothe:.",
+   "by": "base",
+   "leaf": 242
+  },
+  {
+   "at": "ch19.2#54",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "C": "are",
+   "by": "base",
+   "leaf": 242
+  },
+  {
+   "at": "ch19.2#60",
+   "base": "your",
+   "A": "your",
+   "B": "your",
+   "C": "you~",
+   "by": "base",
+   "leaf": 243
+  },
+  {
+   "at": "ch19.3#129",
+   "base": "I",
+   "A": "I",
+   "B": "I",
+   "C": "J",
+   "by": "base",
+   "leaf": 243
+  },
+  {
+   "at": "ch19.4#83",
+   "base": "off",
+   "A": "off",
+   "B": "oflF",
+   "C": "off",
+   "by": "base",
+   "leaf": 245
+  },
+  {
+   "at": "ch19.4#135",
+   "base": "see",
+   "A": "see",
+   "B": "sec",
+   "C": "see",
+   "by": "base",
+   "leaf": 245
+  },
+  {
+   "at": "ch19.5#119",
+   "base": "how",
+   "A": "how",
+   "B": "hpw",
+   "C": "how",
+   "by": "base",
+   "leaf": 245
+  },
+  {
+   "at": "^ch19.8#190",
+   "base": "",
+   "A": "22j.",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 247
+  },
+  {
+   "at": "ch19.9#174",
+   "base": "as",
+   "A": "p as",
+   "B": "at",
+   "C": "as",
+   "by": "base",
+   "leaf": 249
+  },
+  {
+   "at": "ch19.9#176",
+   "base": "fell,",
+   "A": "fell,",
+   "B": "felly",
+   "C": "fell,",
+   "by": "base",
+   "leaf": 249
+  },
+  {
+   "at": "ch19.9#315",
+   "base": "“",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 249
+  },
+  {
+   "at": "ch19.9#340",
+   "base": "off",
+   "A": "off",
+   "B": "off",
+   "C": "a",
+   "by": "base",
+   "leaf": 249
+  },
+  {
+   "at": "ch19.10#19",
+   "base": "there",
+   "A": "there",
+   "B": "jhere",
+   "C": "there",
+   "by": "base",
+   "leaf": 249
+  },
+  {
+   "at": "^ch19.10#32",
+   "base": "",
+   "A": "Sleep and Death Conveying the Body of Sarpēdon to Lycia.",
+   "B": "< CO > o CO",
+   "C": "",
+   "by": "base",
+   "leaf": 249
+  },
+  {
+   "at": "ch19.10#349",
+   "base": "foremost",
+   "A": "foremost",
+   "B": "fdrcmost",
+   "C": "foremost",
+   "by": "base",
+   "leaf": 253
+  },
+  {
+   "at": "ch20.1#201",
+   "base": "“Are",
+   "A": "“Are",
+   "B": "\"Arc",
+   "C": "“Are",
+   "by": "base",
+   "leaf": 259
+  },
+  {
+   "at": "^ch20.3#0",
+   "base": "",
+   "A": "The Fight for the Body of Patroclus.",
+   "B": "'Ji",
+   "C": "See See! ae es eu . = fi u = a ii » * ’ : ; a ; arden ih ie ve i eli",
+   "by": "base",
+   "leaf": 259
+  },
+  {
+   "at": "ch20.4#7",
+   "base": "in",
+   "A": "in",
+   "B": "in",
+   "C": "inehis",
+   "by": "base",
+   "leaf": 263
+  },
+  {
+   "at": "ch20.4#8",
+   "base": "his",
+   "A": "his",
+   "B": "his",
+   "C": "",
+   "by": "base",
+   "leaf": 263
+  },
+  {
+   "at": "ch20.4#14",
+   "base": "was",
+   "A": "was",
+   "B": "was",
+   "C": "waseenes",
+   "by": "base",
+   "leaf": 263
+  },
+  {
+   "at": "ch20.4#15",
+   "base": "not",
+   "A": "not",
+   "B": "not",
+   "C": "",
+   "by": "base",
+   "leaf": 263
+  },
+  {
+   "at": "ch20.9#9",
+   "base": "lift",
+   "A": "lift",
+   "B": "Uft",
+   "C": "lift",
+   "by": "base",
+   "leaf": 265
+  },
+  {
+   "at": "ch20.9#24",
+   "base": "lifted",
+   "A": "lifted",
+   "B": "Hfted",
+   "C": "lifted",
+   "by": "base",
+   "leaf": 265
+  },
+  {
+   "at": "ch20.10#102",
+   "base": "“All",
+   "A": "“All",
+   "B": "**A11",
+   "C": "*““All",
+   "by": "base",
+   "leaf": 266
+  },
+  {
+   "at": "ch20.12#6",
+   "base": "“I",
+   "A": "“I",
+   "B": "*4",
+   "C": "“TI",
+   "by": "base",
+   "leaf": 266
+  },
+  {
+   "at": "ch20.13#24",
+   "base": "Hephæstus,",
+   "A": "Hephæstus,",
+   "B": "Hephæstus,",
+   "C": "LENSING",
+   "by": "base",
+   "leaf": 267
+  },
+  {
+   "at": "ch20.14#5",
+   "base": "Trojans",
+   "A": "Trojans",
+   "B": "Trojans",
+   "C": "NIT",
+   "by": "base",
+   "leaf": 267
+  },
+  {
+   "at": "ch20.16#18",
+   "base": "1t",
+   "A": "it",
+   "B": "it",
+   "C": "it",
+   "by": "witnesses",
+   "leaf": 267,
+   "out": "it"
+  },
+  {
+   "at": "^ch21.1#78",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 272,
+   "out": "I"
+  },
+  {
+   "at": "^ch21.1#160",
+   "base": "",
+   "A": "",
+   "B": "MS",
+   "C": "",
+   "by": "base",
+   "leaf": 272
+  },
+  {
+   "at": "ch21.1#162",
+   "base": "Myrmidons",
+   "A": "Myrmidons",
+   "B": "Mynnidons",
+   "C": "Myrmidons",
+   "by": "base",
+   "leaf": 273
+  },
+  {
+   "at": "ch21.2#86",
+   "base": "“O",
+   "A": "“O",
+   "B": "\"O",
+   "C": "os a",
+   "by": "base",
+   "leaf": 273
+  },
+  {
+   "at": "ch21.3#6",
+   "base": "“T",
+   "A": "“I",
+   "B": "*'I",
+   "C": "“JT",
+   "by": "witnesses",
+   "leaf": 274,
+   "out": "“I"
+  },
+  {
+   "at": "ch21.4#43",
+   "base": "soft,",
+   "A": "soft,",
+   "B": "softy",
+   "C": "soft,",
+   "by": "base",
+   "leaf": 275
+  },
+  {
+   "at": "ch21.5#242",
+   "base": "had",
+   "A": "had",
+   "B": "Ijad",
+   "C": "had",
+   "by": "base",
+   "leaf": 276
+  },
+  {
+   "at": "ch21.5#277",
+   "base": "corn",
+   "A": "corn",
+   "B": "com",
+   "C": "corn",
+   "by": "base",
+   "leaf": 276
+  },
+  {
+   "at": "^ch21.7#33",
+   "base": "",
+   "A": "Thetis Bringing the Armour to Achilles.",
+   "B": "",
+   "C": "a we — ee ‘ps ft ton ¥ fo SS ee ee ae ahd tee: di ba} Sarl",
+   "by": "base",
+   "leaf": 277
+  },
+  {
+   "at": "ch22.5#4",
+   "base": "are",
+   "A": "are",
+   "B": "arc",
+   "C": "are",
+   "by": "base",
+   "leaf": 286
+  },
+  {
+   "at": "^ch22.6#8",
+   "base": "",
+   "A": "K",
+   "B": "",
+   "C": ": 257",
+   "by": "base",
+   "leaf": 286
+  },
+  {
+   "at": "^ch22.9#173",
+   "base": "",
+   "A": "O",
+   "B": "O",
+   "C": "O",
+   "by": "witnesses",
+   "leaf": 288,
+   "out": "O"
+  },
+  {
+   "at": "ch23.1#0",
+   "base": "WHEN",
+   "A": "When",
+   "B": "When",
+   "C": "i : ; uA Ba WueEN",
+   "by": "base",
+   "leaf": 292
+  },
+  {
+   "at": "ch23.1#14",
+   "base": "Ænēas:",
+   "A": "Ænēas",
+   "B": "^neas:",
+   "C": "néas:",
+   "by": "read",
+   "leaf": 292,
+   "out": "Ænēas:",
+   "seen": "n292: Apollo said to Ænēas:"
+  },
+  {
+   "at": "ch23.1#15",
+   "base": "‘“/inéas,",
+   "A": ": “Ænēas,",
+   "B": "\"-Sncas,",
+   "C": "“‘/néas,",
+   "by": "read",
+   "leaf": 292,
+   "out": "“Ænēas,",
+   "seen": "n292: “Ænēas, where are now"
+  },
+  {
+   "at": "ch23.2#0",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "JEnizs",
+   "C": "fEnéas",
+   "by": "base",
+   "leaf": 292
+  },
+  {
+   "at": "^ch23.2#15",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 292,
+   "out": "I"
+  },
+  {
+   "at": "ch23.5#0",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "i£neas",
+   "C": "Ænēas",
+   "by": "base",
+   "leaf": 293
+  },
+  {
+   "at": "ch23.5#4",
+   "base": "Peleus,",
+   "A": "Peleus,",
+   "B": "Pcleus,",
+   "C": "Peleus,",
+   "by": "base",
+   "leaf": 293
+  },
+  {
+   "at": "ch23.6#261",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "i£neas",
+   "C": "/Ænēas",
+   "by": "base",
+   "leaf": 294
+  },
+  {
+   "at": "ch23.9#165",
+   "base": "Ænēas",
+   "A": "Ænēas",
+   "B": "^neas",
+   "C": "Ænēas",
+   "by": "base",
+   "leaf": 296
+  },
+  {
+   "at": "ch23.10#129",
+   "base": "muititude",
+   "A": "multitude",
+   "B": "multitude",
+   "C": "multitude",
+   "by": "witnesses",
+   "leaf": 297,
+   "out": "multitude"
+  },
+  {
+   "at": "ch23.11#11",
+   "base": "[",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 297,
+   "out": "I"
+  },
+  {
+   "at": "ch23.12#125",
+   "base": "sactifices.",
+   "A": "sacrifices.",
+   "B": "sacrifices.",
+   "C": "sacrifices.",
+   "by": "witnesses",
+   "leaf": 298,
+   "out": "sacrifices."
+  },
+  {
+   "at": "ch23.13#48",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 299,
+   "out": "is"
+  },
+  {
+   "at": "ch23.13#96",
+   "base": "earth",
+   "A": "earth",
+   "B": "eajrth",
+   "C": "earth",
+   "by": "base",
+   "leaf": 299
+  },
+  {
+   "at": "^ch23.15#51",
+   "base": "",
+   "A": "The Gods Descending to Battle.",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 299
+  },
+  {
+   "at": "ch24.1#0",
+   "base": "Kinc",
+   "A": "King",
+   "B": "King",
+   "C": "Kinc",
+   "by": "read",
+   "leaf": 306,
+   "out": "KING",
+   "seen": "n306: small capitals KING PRIAM"
+  },
+  {
+   "at": "ch24.1#209",
+   "base": "of",
+   "A": "of",
+   "B": "c^",
+   "C": "of",
+   "by": "base",
+   "leaf": 307
+  },
+  {
+   "at": "ch24.1#233",
+   "base": "city",
+   "A": "city",
+   "B": "ci^",
+   "C": "city",
+   "by": "base",
+   "leaf": 307
+  },
+  {
+   "at": "ch24.2#36",
+   "base": "spear,",
+   "A": "spear,",
+   "B": "^ear,",
+   "C": "spear,",
+   "by": "base",
+   "leaf": 307
+  },
+  {
+   "at": "ch24.2#69",
+   "base": "walls.",
+   "A": "walls.",
+   "B": "waUs^",
+   "C": "walls.",
+   "by": "base",
+   "leaf": 307
+  },
+  {
+   "at": "ch24.2#159",
+   "base": "and",
+   "A": "and",
+   "B": "ai^d",
+   "C": "and",
+   "by": "base",
+   "leaf": 308
+  },
+  {
+   "at": "ch24.2#186",
+   "base": "ts",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 308,
+   "out": "is"
+  },
+  {
+   "at": "ch24.5#0",
+   "base": "“OQ",
+   "A": "“O",
+   "B": "\"O",
+   "C": "“OQ",
+   "by": "read",
+   "leaf": 309,
+   "out": "“O",
+   "seen": "n309: “O my son"
+  },
+  {
+   "at": "ch24.6#45",
+   "base": "“OQ",
+   "A": "“O",
+   "B": "\"O",
+   "C": "“OQ",
+   "by": "read",
+   "leaf": 310,
+   "out": "“O",
+   "seen": "n310: “O Hector, my son"
+  },
+  {
+   "at": "ch24.7#17",
+   "base": "Achilies,",
+   "A": "Achilles,",
+   "B": "Achilles,",
+   "C": "Achilles,",
+   "by": "witnesses",
+   "leaf": 310,
+   "out": "Achilles,"
+  },
+  {
+   "at": "ch24.7#55",
+   "base": "[",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 310,
+   "out": "I"
+  },
+  {
+   "at": "^ch24.11#165",
+   "base": "",
+   "A": "I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 314,
+   "out": "I"
+  },
+  {
+   "at": "ch24.12#40",
+   "base": "“O",
+   "A": "“Q",
+   "B": "\"O",
+   "C": "“‘O",
+   "by": "base",
+   "leaf": 314
+  },
+  {
+   "at": "ch24.13#61",
+   "base": "do",
+   "A": "do",
+   "B": "do",
+   "C": "dc",
+   "by": "base",
+   "leaf": 315
+  },
+  {
+   "at": "ch24.14#6",
+   "base": "‘“‘",
+   "A": "“",
+   "B": "",
+   "C": "‘“‘",
+   "by": "base",
+   "leaf": 315
+  },
+  {
+   "at": "ch24.15#102",
+   "base": "lo!",
+   "A": "lo",
+   "B": "lol",
+   "C": "lo!",
+   "by": "base",
+   "leaf": 316
+  },
+  {
+   "at": "^ch24.19#34",
+   "base": "",
+   "A": "Andromaché Fainting on the Wall.",
+   "B": "",
+   "C": "",
+   "by": "base",
+   "leaf": 317
+  },
+  {
+   "at": "ch24.23#27",
+   "base": "Achilles",
+   "A": "Achilles",
+   "B": "AchiUes",
+   "C": "Achilles",
+   "by": "base",
+   "leaf": 321
+  },
+  {
+   "at": "ch25.1#0",
+   "base": "THE",
+   "A": "The",
+   "B": "The",
+   "C": "",
+   "by": "base",
+   "leaf": 324
+  },
+  {
+   "at": "ch25.1#1",
+   "base": "RANSOMING",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 321,
+   "out": ""
+  },
+  {
+   "at": "ch25.1#2",
+   "base": "OF",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 321,
+   "out": ""
+  },
+  {
+   "at": "ch25.1#3",
+   "base": "HECTOR",
+   "A": "",
+   "B": "",
+   "C": "",
+   "by": "witnesses",
+   "leaf": 324,
+   "out": ""
+  },
+  {
+   "at": "ch25.2#0",
+   "base": "Tue",
+   "A": "",
+   "B": "",
+   "C": "Tue",
+   "by": "read",
+   "leaf": 324,
+   "out": "THE",
+   "seen": "n324: small capitals THE"
+  },
+  {
+   "at": "ch25.2#63",
+   "base": "me",
+   "A": "me",
+   "B": "mc",
+   "C": "me",
+   "by": "base",
+   "leaf": 324
+  },
+  {
+   "at": "ch25.6#0",
+   "base": "“T",
+   "A": "“I",
+   "B": "\"I",
+   "C": "“T",
+   "by": "read",
+   "leaf": 325,
+   "out": "“I",
+   "seen": "n325: “I have heard"
+  },
+  {
+   "at": "^ch25.7#82",
+   "base": "",
+   "A": "Hector’s Body Dragged at the Chariot of Achilles. /",
+   "B": "",
+   "C": "=) ee ee ee ed",
+   "by": "base",
+   "leaf": 325
+  },
+  {
+   "at": "ch25.9#88",
+   "base": "Ilus,",
+   "A": "Hus,",
+   "B": "Ilus,",
+   "C": "[lus,",
+   "by": "base",
+   "leaf": 328
+  },
+  {
+   "at": "ch25.16#15",
+   "base": "“I",
+   "A": "“I",
+   "B": "\"I",
+   "C": "“T",
+   "by": "base",
+   "leaf": 330
+  },
+  {
+   "at": "ch25.17#71",
+   "base": "in",
+   "A": "in",
+   "B": "m",
+   "C": "in",
+   "by": "base",
+   "leaf": 330
+  },
+  {
+   "at": "ch25.18#48",
+   "base": "your",
+   "A": "you!",
+   "B": "your 29s",
+   "C": "your",
+   "by": "base",
+   "leaf": 330
+  },
+  {
+   "at": "ch25.18#59",
+   "base": "goes",
+   "A": "goes",
+   "B": "jgoes",
+   "C": "goes",
+   "by": "base",
+   "leaf": 331
+  },
+  {
+   "at": "ch25.20#8",
+   "base": "eat",
+   "A": "eat",
+   "B": "cat",
+   "C": "eat",
+   "by": "base",
+   "leaf": 331
+  },
+  {
+   "at": "ch25.20#14",
+   "base": "les",
+   "A": "lies",
+   "B": "lies",
+   "C": "lies",
+   "by": "witnesses",
+   "leaf": 331,
+   "out": "lies"
+  },
+  {
+   "at": "ch25.21#8",
+   "base": "[",
+   "A": ": I",
+   "B": "I",
+   "C": "I",
+   "by": "witnesses",
+   "leaf": 331,
+   "out": "I"
+  },
+  {
+   "at": "ch25.21#89",
+   "base": "from",
+   "A": "from",
+   "B": "ftom",
+   "C": "from",
+   "by": "base",
+   "leaf": 332
+  },
+  {
+   "at": "ch25.21#94",
+   "base": "shouid",
+   "A": "should",
+   "B": "should",
+   "C": "should",
+   "by": "witnesses",
+   "leaf": 332,
+   "out": "should"
+  },
+  {
+   "at": "ch25.21#95",
+   "base": "see",
+   "A": "see",
+   "B": "sec",
+   "C": "see",
+   "by": "base",
+   "leaf": 332
+  },
+  {
+   "at": "ch25.21#105",
+   "base": "fury",
+   "A": "fury",
+   "B": "ftiry",
+   "C": "fury",
+   "by": "base",
+   "leaf": 332
+  },
+  {
+   "at": "ch25.22#11",
+   "base": "friend,",
+   "A": "friend,",
+   "B": "ftiend,",
+   "C": "friend,",
+   "by": "base",
+   "leaf": 332
+  },
+  {
+   "at": "ch25.22#44",
+   "base": "1s",
+   "A": "is",
+   "B": "is",
+   "C": "is",
+   "by": "witnesses",
+   "leaf": 332,
+   "out": "is"
+  },
+  {
+   "at": "the-end-of-troy.1#40",
+   "base": "Scen",
+   "A": "Scaen",
+   "B": "Scaen",
+   "C": "Scen",
+   "by": "read",
+   "leaf": 336,
+   "out": "Scæn",
+   "seen": "n336: printed 'Scæn Gates' (sic; Scæan elsewhere): kept as printed, listed for Adam"
+  },
+  {
+   "at": "the-end-of-troy.3#50",
+   "base": "inte",
+   "A": "into",
+   "B": "into",
+   "C": "inte",
+   "by": "read",
+   "leaf": 337,
+   "out": "into",
+   "seen": "n337: into"
+  },
+  {
+   "at": "the-end-of-troy.4#6",
+   "base": "Ameriea.",
+   "A": "America.",
+   "C": "Ameriea.",
+   "by": "base",
+   "leaf": 337
+  }
+ ]
+}

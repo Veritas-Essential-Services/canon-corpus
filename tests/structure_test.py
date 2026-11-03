@@ -4,6 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius converter checks)
+# prov: 2026-11-03 claude-opus-5-5 edited (collated Church Homers check)
 # fable_review: pending
 """Offline test suite for the structure layer (canon-corpus). No network,
 no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
@@ -1749,6 +1750,20 @@ check("english/bss: another module_version stops the read", _stopped)
 
 # The KJV's Apocrypha (eBible USFM): Sirach's prologues; the Rest of Esther
 # renumbered from the file's Greek-order segments. Invented text, the file's shape.
+# The collated Church Homers (2026-11-03): made from the pinned working text, ids a subset of its ids.
+_cok = []
+for _x in ("church-iliad-boys", "church-odyssey-boys"):
+    _cp = os.path.join(HERE, "..", "data", "unscanned", _x + ".collated.json")
+    _cb = json.load(open(_cp, encoding="utf-8"))
+    _bids = [u["id"] for u in json.load(_gz.open(os.path.join(HERE, "..", fs.SHIPPED_WORKING_TEXT[_x][3]), "rt",
+                                                  encoding="utf-8"))["units"]]
+    _ids = [u["id"] for u in _cb["units"]]
+    _cok.append(_cb["source"]["base"]["unpacked_sha256"] == fs.SHIPPED_WORKING_TEXT[_x][4]
+                and len(set(_ids)) == len(_ids) and set(_ids) <= set(_bids)
+                and [i for i in _bids if i in set(_ids)] == _ids)
+check("collated Church Homers: built from the pinned working text; ids unique, kept, in order", all(_cok))
+# Brenton's English Septuagint (eBible USFM in a zip). Fixture is invented
+# text in eBible's markup; the kjv fields come from the committed map.
 import zipfile as _zf
 _kz = os.path.join(_tf.mkdtemp(), "kjva.zip")
 with _zf.ZipFile(_kz, "w") as _z:

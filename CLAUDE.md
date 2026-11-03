@@ -8,6 +8,7 @@ model_log:
   - 2026-10-19 claude-opus-5-5 edited
   - 2026-10-20 claude-opus-5-5 edited (Aphthonius commands)
   - 2026-11-03 claude-opus-5-5 edited (Bible dictionaries: Easton, Nave, Hurlbut's atlas)
+  - 2026-11-03 claude-opus-5-5 edited (Church Homer collation command)
 fable_review: pending
 ---
 # canon-corpus — rules for AI sessions
@@ -89,7 +90,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 269 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 270 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 tests/queue_books_test.py         # the illustrated-classics queue converter (QUEUE_BOOKS), synthetic
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
@@ -205,6 +206,7 @@ The living truth for project state is the Obsidian vault:
     python3 -m unscanner run <slug> [--archive ID | --pdf P --rights WHY]  # a scan re-set (unscanner/README.md)
     python3 -m unscanner run church-odyssey-boys --to-corpus  # ...and structure_texts.py builds from it
     python3 tests/unscanner_test.py                    # 36 offline checks (tesseract optional)
+    python3 pipeline/collate_church_homer.py [--fetch|--check]  # Church's Iliad/Odyssey for Boys and Girls: the working text collated against other pre-1931 scans -> data/unscanned/*.collated.json (data/unscanned/README.md)
     python3 -m unscanner.restore page*.jp2 --out DIR [--pdf book.pdf]   # paper to white, pictures kept, text layer (pilot)
     python3 -m unscanner.gutenberg HOCR_DIR pg.txt OUT [decisions.json]  # Gutenberg's proofread words onto the OCR boxes
     python3 tests/restore_test.py                      # 14 offline checks (PDF part needs tesseract + pikepdf)

@@ -1,0 +1,250 @@
+{
+ "_note": "Readings of the base scan's page images (archive.org/download/iliadforboysgirl00chur_0/page/n<leaf>.jpg) for places the witnesses could not settle, and the structure and illustrations the scan shows. Keys are collation places: unit#word in the shipped base text, ^ for words before it. Read 2026-11-03.",
+ "ch2.1#0": {
+  "out": "THE",
+  "seen": "n26: small capitals THE"
+ },
+ "ch2.15#86": {
+  "out": "“I",
+  "seen": "n32: “I am come to stay your rage"
+ },
+ "ch3.2#0": {
+  "out": "“O",
+  "seen": "n40: “O father Zeus"
+ },
+ "ch4.3#82": {
+  "out": "and",
+  "seen": "n49: 'and', the a damaged in this printing"
+ },
+ "ch7.5#121": {
+  "out": "“O",
+  "seen": "n81: “O Hector"
+ },
+ "ch9.9#10": {
+  "out": "I",
+  "seen": "n99: I must make"
+ },
+ "ch14.5#15": {
+  "out": "“Let",
+  "seen": "n180: “Let us go, Ulysses"
+ },
+ "ch16.6#0": {
+  "out": "“O",
+  "seen": "n204: “O Ajax"
+ },
+ "ch18.4#0": {
+  "out": "",
+  "seen": "n230: a printer's mark and the folio 209 at the page foot, not text"
+ },
+ "ch23.1#14": {
+  "out": "Ænēas:",
+  "seen": "n292: Apollo said to Ænēas:"
+ },
+ "ch23.1#15": {
+  "out": "“Ænēas,",
+  "seen": "n292: “Ænēas, where are now"
+ },
+ "ch24.1#0": {
+  "out": "KING",
+  "seen": "n306: small capitals KING PRIAM"
+ },
+ "ch24.5#0": {
+  "out": "“O",
+  "seen": "n309: “O my son"
+ },
+ "ch24.6#45": {
+  "out": "“O",
+  "seen": "n310: “O Hector, my son"
+ },
+ "ch25.2#0": {
+  "out": "THE",
+  "seen": "n324: small capitals THE"
+ },
+ "ch25.6#0": {
+  "out": "“I",
+  "seen": "n325: “I have heard"
+ },
+ "the-end-of-troy.1#40": {
+  "out": "Scæn",
+  "seen": "n336: printed 'Scæn Gates' (sic; Scæan elsewhere): kept as printed, listed for Adam"
+ },
+ "the-end-of-troy.3#50": {
+  "out": "into",
+  "seen": "n337: into"
+ },
+ "^ch11.1#0": {
+  "out": "",
+  "seen": "n123: the folio 110 at the page foot, read 'no' by two engines: not text"
+ },
+ "^ch13.3#0": {
+  "out": "Greeks.”",
+  "seen": "n157: the paragraph's last line, 'Greeks.”', missing from the base"
+ },
+ "structure": {
+  "drop": [
+   "ch25.1"
+  ],
+  "_drop": "ch25.1 is what the vote left of the chapter heading ('THE'); the chapter's first paragraph is ch25.2 (n324).",
+  "footnotes": [
+   {
+    "mark": "¹",
+    "seen": "n103 (printed p. 94): the note at the page foot",
+    "pieces": [
+     {
+      "unit": "ch9.14",
+      "from": "When a woman died",
+      "to": "an arrow of Apollo."
+     }
+    ],
+    "anchor": {
+     "unit": "ch9.13",
+     "find": "arrows.’ But",
+     "replace": "arrows.¹ But"
+    },
+    "text": "When a woman died suddenly, it was said that one of the arrows of the goddess Artemis had struck her. A man, in the same way, was said to be struck by an arrow of Apollo."
+   },
+   {
+    "mark": "¹",
+    "seen": "n150 (printed p. 135): the note at the page foot; 'Two talents' is in italics; anchor confirmed on the page image, leaf n150: 'ten talents of gold,¹ and'",
+    "pieces": [
+     {
+      "unit": "ch12.6",
+      "from": "The talent was not",
+      "to": "scarce in those days."
+     }
+    ],
+    "anchor": {
+     "unit": "ch12.5",
+     "find": "talents of gold,’",
+     "replace": "talents of gold,¹"
+    },
+    "text": "The talent was not a large sum, as it afterwards came to be when Eastern weights were used. Two talents are the fourth prize in one of the games described later on in the story. Ten talents may, to make a guess, be as much as twenty sovereigns; but we must remember that gold was very scarce in those days."
+   }
+  ],
+  "opening_caps": {
+   "ch24.1": 2
+  }
+ },
+ "illustrations": [
+  {
+   "title": "Diomed Casting His Spear against Ares",
+   "facing": "Frontispiece"
+  },
+  {
+   "title": "Athené Suppressing the Fury of Achilles",
+   "facing": "24"
+  },
+  {
+   "title": "Hector Chiding Paris",
+   "facing": "92"
+  },
+  {
+   "title": "The Meeting of Hector and Andromaché",
+   "facing": "96"
+  },
+  {
+   "title": "Hector and Ajax Separated by the Heralds",
+   "facing": "108"
+  },
+  {
+   "title": "Hera and Athené Going to Assist the Greeks",
+   "facing": "122"
+  },
+  {
+   "title": "The Embassy of Achilles",
+   "facing": "142"
+  },
+  {
+   "title": "Diomed and Ulysses Returning with the Spoils of Rhesus",
+   "facing": "176"
+  },
+  {
+   "title": "Polydamus Advising Hector to Retire from the Trench",
+   "facing": "194"
+  },
+  {
+   "title": "Ajax Defending the Greek Ships against the Trojans",
+   "facing": "214"
+  },
+  {
+   "title": "Sleep and Death Conveying the Body of Sarpedon to Lycia",
+   "facing": "226"
+  },
+  {
+   "title": "The Fight for the Body of Patroclus",
+   "facing": "234"
+  },
+  {
+   "title": "Thetis Bringing the Armour to Achilles",
+   "facing": "250"
+  },
+  {
+   "title": "The Gods Descending to Battle",
+   "facing": "270"
+  },
+  {
+   "title": "Andromaché Fainting on the Wall",
+   "facing": "286"
+  },
+  {
+   "title": "Hector’s Body Dragged at the Chariot by Achilles",
+   "facing": "292"
+  }
+ ],
+ "_illustrations_note": "List of Illustrations, p. 11 of the base scan (leaf n16), read from the page image; 'Polydamus' and 'The Embassy of Achilles' are as printed.",
+ "illustrations_first_printing": {
+  "printing": "1907, archive.org iliadforboysand00homegoog",
+  "seen": "leaf n15, read from the page image",
+  "note": "The 1907 first printing lists twelve plates, not sixteen: it lacks Hector Chiding Paris, The Meeting of Hector and Andromaché, The Embassy of Achilles, Thetis Bringing the Armour, The Gods Descending to Battle, and has Hera commanding the Sun to Set (facing 240), which the 1923 list lacks. Its spelling is Polydamas; the 1923 list's Polydamus is that printing's.",
+  "list": [
+   {
+    "title": "Diomed casting his Spear against Ares",
+    "facing": "Frontispiece"
+   },
+   {
+    "title": "Athené repressing the Fury of Achilles",
+    "facing": "24"
+   },
+   {
+    "title": "Hector and Ajax separated by the Heralds",
+    "facing": "108"
+   },
+   {
+    "title": "Hera and Athené going to Assist the Greeks",
+    "facing": "122"
+   },
+   {
+    "title": "Diomed and Ulysses returning with the Spoils of Rhesus",
+    "facing": "176"
+   },
+   {
+    "title": "Polydamas advising Hector to Retire from the Trench",
+    "facing": "194"
+   },
+   {
+    "title": "Ajax defending the Greek Ships against the Trojans",
+    "facing": "214"
+   },
+   {
+    "title": "Sleep and Death conveying the Body of Sarpedon to Lycia",
+    "facing": "226"
+   },
+   {
+    "title": "The Fight for the Body of Patroclus",
+    "facing": "234"
+   },
+   {
+    "title": "Hera commanding the Sun to Set",
+    "facing": "240"
+   },
+   {
+    "title": "Andromache fainting on the Wall",
+    "facing": "286"
+   },
+   {
+    "title": "Hector’s Body dragged at the Chariot of Achilles",
+    "facing": "292"
+   }
+  ]
+ }
+}
