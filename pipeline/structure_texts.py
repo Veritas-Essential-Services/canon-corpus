@@ -5,6 +5,7 @@
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius: three edition converters)
 # prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's, Hurlbut's Bible Atlas)
+# prov: 2026-11-03 claude-opus-5-5 edited (collated Church Homers preferred in convert_unscanned)
 # fable_review: pending
 """structure_texts.py — the structure layer: source texts -> unit-id JSON.
 
@@ -6955,7 +6956,34 @@ def convert_unscanned(path, slug, title, author, ident):
     src = dict(book.get("source", {}))
     src.update({"path": os.path.relpath(path, CORPUS), "format": "unscanner", "archive_id": ident,
                 "sha256": sha256(path)})
-    return {"slug": slug, "title": title, "author": author, "source": src, "scheme": book["scheme"],
+    scheme = book["scheme"]
+    # A collated text (2026-11-03, pipeline/collate_church_homer.py): the same units, same ids, their
+    # words voted against other scans of the book and read on the page image where the scans disagree.
+    # Committed beside the shipped working text; preferred when present and made from this very file.
+    coll = os.path.join(HERE, "..", "data", "unscanned", slug + ".collated.json")
+    if os.path.exists(coll):
+        cb = json.load(open(coll, encoding="utf-8"))
+        if cb["source"]["base"].get("unpacked_sha256") == src["sha256"]:
+            units = [{k: u[k] for k in ("id", "ref", "text", "links", "pages", "printed", "notes")
+                      if k in u} for u in cb["units"]]
+            st = cb["stats"]
+            pl = st["places"]
+            wits = ", ".join(f"{w['siglum']} {w['archive_id']}" for w in cb["source"]["witnesses"])
+            scheme = dict(scheme)
+            scheme["apparatus"] = (
+                scheme["apparatus"] + f"; then COLLATED word by word against {len(cb['source']['witnesses'])} "
+                f"OCR readings of the same and other pre-1931 printings ({wits}): {pl.get('witnesses', 0)} "
+                f"places take the witnesses' shared reading, {pl.get('read', 0)} are read on the page image, "
+                f"{pl.get('base', 0)} keep the base; names in their printed marked forms; footnotes taken "
+                "out of the running text into the paragraph's notes (data/unscanned/README.md)")
+            scheme["honesty"] = (
+                f"COLLATED OCR, not proofread line by line: a misreading every scan shares stands, and "
+                f"stops and commas are the base OCR's (only words, case and quotation marks are voted); "
+                f"{len(book['units']) - len(units)} units that held only a heading, a footnote (now in its paragraph's notes) or plate junk are "
+                "dropped, every other id kept; each unit names its scan pages and printed page labels")
+            src.update({"collated": os.path.relpath(coll, os.path.join(HERE, "..")),
+                        "collated_sha256": sha256(coll), "sha256": sha256(coll)})
+    return {"slug": slug, "title": title, "author": author, "source": src, "scheme": scheme,
             "units": units}
 
 def sh_roman_to_str(n):

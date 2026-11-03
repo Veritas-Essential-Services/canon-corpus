@@ -1,0 +1,211 @@
+{
+ "_note": "Readings of the base scan's page images (archive.org/download/odysseyforboysgi00chur/page/n<leaf>.jpg) for places the witnesses could not settle. Keys are collation places: unit#word in the shipped base text, ^ for words before it. Read 2026-11-03. 'seen' says what was looked at; where it says 'witnesses', the word is both witnesses' and only its closing quotation mark is set from the sentence (their OCR prints quotation marks as '1, '*).",
+ "ch5.19#30": {
+  "out": "days,",
+  "seen": "n97: twelve days, unless"
+ },
+ "ch8.1#0": {
+  "out": "THE",
+  "seen": "n126: small capitals THE"
+ },
+ "ch15.1#0": {
+  "out": "THE",
+  "seen": "n210: small capitals THE"
+ },
+ "ch17.25#68": {
+  "out": "Zeus",
+  "seen": "n240: if Zeus should order"
+ },
+ "ch19.1#0": {
+  "out": "ULYSSES",
+  "seen": "n260: small capitals ULYSSES"
+ },
+ "ch19.20#0": {
+  "out": "",
+  "seen": "n266: the plate's running caption 'Bringing the Bow of Ulysses' set sideways, not text"
+ },
+ "ch20.6#0": {
+  "out": "",
+  "seen": "n278: the plate's sideways caption ('...aying the Suitors'), not text"
+ },
+ "ch23.12#1": {
+  "out": "Telemăchus",
+  "seen": "n312: And Telemăchus said"
+ },
+ "ch23.12#36": {
+  "out": "father’s father.”",
+  "seen": "n312: my father and my father’s father.”"
+ },
+ "ch7.7#94": {
+  "out": "rejoice.”",
+  "seen": "n120: a time to re-/joice.”"
+ },
+ "ch8.2#59": {
+  "out": "substance.”",
+  "seen": "n126: devour my sub-/stance.”"
+ },
+ "ch8.3#835": {
+  "out": "He",
+  "seen": "n130: escape.’ He said"
+ },
+ "^ch7.11#0": {
+  "out": "home.”",
+  "seen": "witnesses A and B: 'home'; the paragraph's last line, dropped by the base"
+ },
+ "^ch18.20#0": {
+  "out": "Ulysses.”",
+  "seen": "witnesses A and B: 'Ulysses.'; the paragraph's last line, dropped by the base"
+ },
+ "^ch21.18#0": {
+  "out": "another.”",
+  "seen": "witnesses A and B: 'another.'; the paragraph's last line, dropped by the base"
+ },
+ "^ch22.17#0": {
+  "out": "drink.”",
+  "seen": "witnesses A and B: 'drink.'; the paragraph's last line, dropped by the base"
+ },
+ "^ch23.5#0": {
+  "out": "Suitors.”",
+  "seen": "witnesses A and B: 'Suitors.'; the paragraph's last line, dropped by the base"
+ },
+ "structure": {
+  "footnotes": [
+   {
+    "mark": "¹",
+    "seen": "n78 (printed p. 73): the note at the page foot; 'copper' in italics",
+    "pieces": [
+     {
+      "unit": "ch4.8",
+      "from": "The word “ Cyprus”",
+      "to": "“ Cyprus” means copper."
+     }
+    ],
+    "anchor": {
+     "unit": "ch4.7",
+     "find": "Cyprus’ with",
+     "replace": "Cyprus¹ with"
+    },
+    "text": "The word “Cyprus” means copper."
+   },
+   {
+    "mark": "¹",
+    "seen": "n121-n122 (printed pp. 116-117): the note runs from one page foot to the next",
+    "pieces": [
+     {
+      "unit": "ch7.12",
+      "from": "The wooden horse was",
+      "to": "into Troy. They pretended"
+     },
+     {
+      "unit": "ch7.14",
+      "from": "to go away, but",
+      "to": "the city to them."
+     }
+    ],
+    "anchor": {
+     "unit": "ch7.11",
+     "find": "Horse, you",
+     "replace": "Horse,¹ you"
+    },
+    "text": "The wooden horse was a very large figure of a horse by which the Greeks contrived to get into Troy. They pretended to go away, but really remained in a neighbouring island. The wooden horse they left behind them, and got the Trojans to believe that it was an offering to the goddess Athené, and that if they would only bring it into the city, Troy would always be safe from being taken. This was the story which a Greek, who pretended to be a deserter, told to the people of the city. Now the horse was really filled with armed men, and it was arranged that the Greeks should come back during the night, and that the chiefs who were inside the horse should open the gates of the city to them."
+   }
+  ]
+ },
+ "tokens": {
+  "ch23.15#93": {
+   "out": "heaven,",
+   "seen": "n312: a thunderbolt from heaven, and it fell (specks on the page)"
+  },
+  "ch23.15#94": {
+   "out": "and",
+   "seen": "n312: as above"
+  },
+  "ch5.21#22": {
+   "out": "Telemăchus",
+   "seen": "n97: And Telemăchus said"
+  },
+  "ch12.10#16": {
+   "out": "used, and sent it with a whirl through the air.",
+   "seen": "n175: 'had used, / and sent it with a whirl through the air.' -- the paragraph's last line, which the base dropped (both witnesses have it)"
+  },
+  "ch18.24#0": {
+   "out": "",
+   "seen": "n254-n256: what the base read inside a coloured plate ('LIC WE RAle - i oP'); not text"
+  },
+  "ch18.24#1": {
+   "out": "",
+   "seen": "n254-n256: what the base read inside a coloured plate ('LIC WE RAle - i oP'); not text"
+  },
+  "ch18.24#2": {
+   "out": "",
+   "seen": "n254-n256: what the base read inside a coloured plate ('LIC WE RAle - i oP'); not text"
+  },
+  "ch18.24#3": {
+   "out": "",
+   "seen": "n254-n256: what the base read inside a coloured plate ('LIC WE RAle - i oP'); not text"
+  },
+  "ch18.24#4": {
+   "out": "",
+   "seen": "n254-n256: what the base read inside a coloured plate ('LIC WE RAle - i oP'); not text"
+  },
+  "ch18.24#5": {
+   "out": "",
+   "seen": "n254-n256: what the base read inside a coloured plate ('LIC WE RAle - i oP'); not text"
+  },
+  "ch8.3#834": {
+   "out": "escape.’",
+   "seen": "n130: tell me how I can escape.’ He said"
+  }
+ },
+ "illustrations": [
+  {
+   "title": "Ulysses following the Car of Nausicaa",
+   "facing": "Frontispiece"
+  },
+  {
+   "title": "Ulysses giving Wine to the Cyclops",
+   "facing": "24"
+  },
+  {
+   "title": "Ulysses at the Table of Circe",
+   "facing": "40"
+  },
+  {
+   "title": "The Nymph complaining to the Sun-God",
+   "facing": "58"
+  },
+  {
+   "title": "Penelope surprised by the Suitors",
+   "facing": "70"
+  },
+  {
+   "title": "The Minstrel singing to the Suitors",
+   "facing": "76"
+  },
+  {
+   "title": "Nausicaa throwing the Ball",
+   "facing": "148"
+  },
+  {
+   "title": "Ulysses asleep laid on his own Coast",
+   "facing": "182"
+  },
+  {
+   "title": "Ulysses discovered by the Nurse",
+   "facing": "248"
+  },
+  {
+   "title": "Penelope bringing the Bow of Ulysses",
+   "facing": "260"
+  },
+  {
+   "title": "Ulysses slaying the Suitors",
+   "facing": "272"
+  },
+  {
+   "title": "The Meeting of Ulysses and Penelope",
+   "facing": "284"
+  }
+ ],
+ "_illustrations_note": "List of Illustrations, p. 11 of the base scan (leaf n14), read from the page image; set in small capitals, given here with the capitals the page shows."
+}

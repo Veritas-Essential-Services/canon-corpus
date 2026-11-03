@@ -1,5 +1,5 @@
 {
- "_about": "Little Classics, edited by Rossiter Johnson (Boston: James R. Osgood, later Houghton, Mifflin, 1874-1880), eighteen pocket volumes of the best short stories, sketches and poems in English. Seventeen of the eighteen from Internet Archive scans (many Google scans, rough OCR), raw; each matched to its volume by its title page and contents. Volume 16, Nature, has no scan online that could be found. Added 2026-10-23 at Adam's ask for old children's sets (a family set of its era, not a children's set strictly).",
+ "_about": "Little Classics, edited by Rossiter Johnson (Boston: James R. Osgood, later Houghton, Mifflin, 1874-1880), eighteen pocket volumes of the best short stories, sketches and poems in English. Nine volumes from Project Gutenberg's proofread texts of the 1914 reissue (same plates; see _scans_note); the other eight from Internet Archive scans (many Google scans, rough OCR), raw; each matched to its volume by its title page and contents. Volume 16, Nature, has no scan online that could be found. Added 2026-10-23 at Adam's ask for old children's sets (a family set of its era, not a children's set strictly).",
  "_author": "Rossiter Johnson (editor)",
  "_name_words": [
   "rossiter",
@@ -12,20 +12,45 @@
   "little classics"
  ],
  "ccel": {},
- "gutenberg": {},
- "internet_archive": {
+ "gutenberg": {
   "little-classics-v01-exile": [
-   "littleclassics01johngoog",
-   "Little Classics, vol. 1: Exile"
+   46088,
+   "Stories of Exile (Little Classics, vol. 1)"
   ],
   "little-classics-v02-intellect": [
-   "littleclassics06johngoog",
-   "Little Classics, vol. 2: Intellect"
+   61668,
+   "Stories of Intellect (Little Classics, vol. 2)"
   ],
   "little-classics-v03-tragedy": [
-   "vol3littleclassi00john",
-   "Little Classics, vol. 3: Tragedy"
+   61003,
+   "Stories of Tragedy (Little Classics, vol. 3)"
   ],
+  "little-classics-v07-romance": [
+   61422,
+   "Stories of Romance (Little Classics, vol. 7)"
+  ],
+  "little-classics-v08-mystery": [
+   16405,
+   "Stories of Mystery (Little Classics, vol. 8)"
+  ],
+  "little-classics-v09-comedy": [
+   20229,
+   "Stories of Comedy (Little Classics, vol. 9)"
+  ],
+  "little-classics-v10-childhood": [
+   15933,
+   "Stories of Childhood (Little Classics, vol. 10)"
+  ],
+  "little-classics-v12-fortune": [
+   48696,
+   "Stories of Fortune (Little Classics, vol. 12)"
+  ],
+  "little-classics-v15-minor-poems": [
+   34331,
+   "Minor Poems (Little Classics, vol. 15)"
+  ]
+ },
+ "internet_archive": {
   "little-classics-v04-life": [
    "lifelife00johnrich",
    "Little Classics, vol. 4: Life"
@@ -38,29 +63,9 @@
    "vol6littleclassi00john",
    "Little Classics, vol. 6: Love"
   ],
-  "little-classics-v07-romance": [
-   "littleclassics07john",
-   "Little Classics, vol. 7: Romance"
-  ],
-  "little-classics-v08-mystery": [
-   "littleclassics01unkngoog",
-   "Little Classics, vol. 8: Mystery"
-  ],
-  "little-classics-v09-comedy": [
-   "littleclassics13johngoog",
-   "Little Classics, vol. 9: Comedy"
-  ],
-  "little-classics-v10-childhood": [
-   "littleclassics00johngoog",
-   "Little Classics, vol. 10: Childhood"
-  ],
   "little-classics-v11-heroism": [
    "vol11littleclass00john",
    "Little Classics, vol. 11: Heroism"
-  ],
-  "little-classics-v12-fortune": [
-   "littleclassicsv00johngoog",
-   "Little Classics, vol. 12: Fortune"
   ],
   "little-classics-v13-narrative-poems": [
    "littleclassics15johngoog",
@@ -69,10 +74,6 @@
   "little-classics-v14-lyrical-poems": [
    "littleclassics11johngoog",
    "Little Classics, vol. 14: Lyrical Poems"
-  ],
-  "little-classics-v15-minor-poems": [
-   "vol15littleclass00john",
-   "Little Classics, vol. 15: Minor Poems"
   ],
   "little-classics-v17-humanity": [
    "littleclassicsv01johngoog",
@@ -83,45 +84,105 @@
    "Little Classics, vol. 18: Authors"
   ]
  },
+ "_scans": {
+  "little-classics-v01-exile": "littleclassics01johngoog",
+  "little-classics-v02-intellect": "littleclassics06johngoog",
+  "little-classics-v03-tragedy": "vol3littleclassi00john",
+  "little-classics-v07-romance": "littleclassics07john",
+  "little-classics-v08-mystery": "littleclassics01unkngoog",
+  "little-classics-v09-comedy": "littleclassics13johngoog",
+  "little-classics-v10-childhood": "littleclassics00johngoog",
+  "little-classics-v12-fortune": "littleclassicsv00johngoog",
+  "little-classics-v15-minor-poems": "vol15littleclass00john"
+ },
+ "_scans_note": "2026-11-03: nine volumes are on Project Gutenberg, proofread by Distributed Proofreaders from the 1914 Houghton Mifflin reissue (the 1874-1875 plates; Minor Poems from a c.1900 printing), so the Gutenberg text is now the reading of record for them. The Internet Archive scan each was first taken from is listed here as the page-image reference. Measured against the raw OCR: the same stories in the same order, and the Gutenberg text fills leaves the scans lack (Exile, Intellect, Comedy, Childhood). The OCR fix list for vol. 3 (data/ocr-fixes/vol3littleclassi00john.json) is kept as the scan's correction but no longer feeds the shelf.",
  "_excluded": {},
  "_held": {},
  "_checks": {
   "little-classics-v01-exile": {
-   "kind": "ia",
-   "checked": "2026-10-23",
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
-   "ia_rights": "ok: published 1879",
-   "ia_date": "1879",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "pg_copyrighted": false,
+   "pg_translator": null
   },
   "little-classics-v02-intellect": {
-   "kind": "ia",
-   "checked": "2026-10-23",
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
-   "ia_rights": "ok: published 1875",
-   "ia_date": "1875",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "pg_copyrighted": false,
+   "pg_translator": null
   },
   "little-classics-v03-tragedy": {
-   "kind": "ia",
-   "checked": "2026-10-23",
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
-   "ia_rights": "ok: published 1875",
-   "ia_date": "1875",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "little-classics-v07-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rossiter johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "little-classics-v08-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rossiter johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "little-classics-v09-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rossiter johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "little-classics-v10-childhood": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rossiter johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "little-classics-v12-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rossiter johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "little-classics-v15-minor-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rossiter johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
   },
   "little-classics-v04-life": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
@@ -132,7 +193,7 @@
   },
   "little-classics-v05-laughter": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "little classics",
    "identity": "ok",
@@ -143,62 +204,18 @@
   },
   "little-classics-v06-love": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
    "ia_rights": "ok: published 1875",
    "ia_date": "1875",
    "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "little-classics-v07-romance": {
-   "kind": "ia",
-   "checked": "2026-10-23",
-   "name_check": "surname",
-   "author_seen": "rossiter johnson",
-   "identity": "ok",
-   "ia_rights": "ok: published 1874",
-   "ia_date": "1874",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
-  "little-classics-v08-mystery": {
-   "kind": "ia",
-   "checked": "2026-10-23",
-   "name_check": "surname",
-   "author_seen": "rossiter johnson",
-   "identity": "ok",
-   "ia_rights": "ok: published 1874",
-   "ia_date": "1874",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
-  "little-classics-v09-comedy": {
-   "kind": "ia",
-   "checked": "2026-10-23",
-   "name_check": "surname",
-   "author_seen": "rossiter johnson",
-   "identity": "ok",
-   "ia_rights": "ok: published 1875",
-   "ia_date": "1875",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
-  "little-classics-v10-childhood": {
-   "kind": "ia",
-   "checked": "2026-10-23",
-   "name_check": "surname",
-   "author_seen": "rossiter johnson",
-   "identity": "ok",
-   "ia_rights": "ok: published 1875",
-   "ia_date": "1875",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
   "little-classics-v11-heroism": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
@@ -207,20 +224,9 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   },
-  "little-classics-v12-fortune": {
-   "kind": "ia",
-   "checked": "2026-10-23",
-   "name_check": "surname",
-   "author_seen": "rossiter johnson",
-   "identity": "ok",
-   "ia_rights": "ok: published 1875",
-   "ia_date": "1875",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
   "little-classics-v13-narrative-poems": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
@@ -231,7 +237,7 @@
   },
   "little-classics-v14-lyrical-poems": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
@@ -240,20 +246,9 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "little-classics-v15-minor-poems": {
-   "kind": "ia",
-   "checked": "2026-10-23",
-   "name_check": "surname",
-   "author_seen": "rossiter johnson",
-   "identity": "ok",
-   "ia_rights": "ok: published 1875",
-   "ia_date": "1875",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
   "little-classics-v17-humanity": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",
@@ -264,7 +259,7 @@
   },
   "little-classics-v18-authors": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rossiter johnson",
    "identity": "ok",

@@ -4,6 +4,7 @@ model_log:
   - 2026-10-07 claude-opus-5-5 added the feel, American poets, declamations, pictures
   - 2026-10-07 claude-opus-5-5 recorded one-volume decision
   - 2026-10-07 claude-opus-5-5 collect-then-cull decision; candidate pool built
+  - 2026-11-03 claude-opus-5-5 declamation rows added to the catalog
 fable_review: pending
 ---
 # The Schoolroom Treasury: Poetry and Song
@@ -158,13 +159,14 @@ What is missing is the tally itself: the readers and anthologies, parsed into ro
 
 - [x] Merge PR #18 (the sources file)
 - [ ] Merge PR #17 (the poetry catalog)
-- [ ] Add the American and declamation rows above to the catalog
+- [x] Add the declamation rows above to the catalog (the declamations layer, `data/poetry/README.md`; the Man in the Arena still needs a source)
+- [ ] Add the American rows above to the catalog
 - [ ] Confirm editions and links for every source in the tally table
 - [ ] Parse each source into rows: first line, title, author, year printed, grade placed
 - [ ] Match rows across sources and rank by count
 - [x] Build the candidate pool (`data/poetry/pool/`)
 - [ ] Adam culls the pool
-- [ ] Cut texts through the rights gate and grade them
+- [x] Cut texts through the rights gate and grade them (graded draft 2026-11-03: `data/poetry/graded/`, every poem placed in one of five bands; Adam culls next)
 - [ ] Build the read-aloud edition and the Mnemonicon packs
 
 Living copy (editable): https://claude.ai/code/artifact/8151c654-d39c-4d3e-bc8e-c3cc7f22457a

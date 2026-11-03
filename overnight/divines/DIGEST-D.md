@@ -983,12 +983,42 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 20. **Mathews or Schoolcraft:** The Indian Fairy Book is on two shelves: Cornelius Mathews's 1869 New York printing (his name on the title page) and a 1916 Stokes printing on the schoolcraft shelf whose title page reads 'By Henry R. Schoolcraft'. A quarter of each book's paragraphs are word-for-word in the other. Both are kept as a partial overlap and the shared passages mint once. Say which name the collection should go under, or whether one printing should be held.
 21. **Not taken in batch 27:** Mrs. Sherwood's The Fairchild Family (PG 29725) is Mary E. Palgrave's edition with her introduction, and her death date is not in the text; PG 6897's The Little Savage carries an introduction signed only 'R. B. J.' (Nick Hodson's transcription, PG 21551, was taken instead). Say if either should be added. **The Fairchild Family: shelved 2026-10-17 under decision 22 (Stokes, New York; the Internet Archive record of that printing gives 1902). The Little Savage stays as it is.**
 22. **Life-plus-seventy: RULED by Adam, 2026-10-10 15:10 CDT:** "We are American and do not care about UK Copyright as it conflicts with our own. we follow our rules here." US public domain is the rule; a book's UK status does not block it. The 82 books in AUDIT-D §13 stay on their shelves unmarked. On resume, first job: drop the lane's 'hold if anyone died after 1955 or has no death date' rule for books that are US public domain by publication date, and re-offer the books held only on UK grounds (Ginzberg vols. 3-4 in Radin's translation, decision 18; Jewett's Wonder Tales from Tibet, decision 15; the Milne question). Holds for other reasons stay: an unnamed translator, or a later printing that may add new matter. **Applied 2026-10-17: see the note at the top.**
-23. **Later reprints (AUDIT-D §14):** 24 Lane D books were transcribed by Gutenberg from later reprints of the same text (Dover, Warne and others). No added editor or text was found, but Curtin's Myths and Folk-Tales of Ireland comes from Dover's 1975 reprint, which leaves out the 1890 introduction. Say if you want the Curtin replaced by a scan of the 1890 Little, Brown edition, which would need an Internet Archive source; otherwise it stays as is, with the gap noted.
+23. **Later reprints (AUDIT-D §14):** 24 Lane D books were transcribed by Gutenberg from later reprints of the same text (Dover, Warne and others). No added editor or text was found, but Curtin's Myths and Folk-Tales of Ireland comes from Dover's 1975 reprint, which leaves out the 1890 introduction. Say if you want the Curtin replaced by a scan of the 1890 Little, Brown edition, which would need an Internet Archive source; otherwise it stays as is, with the gap noted. **Default applied 2026-11-03:** the Gutenberg text stays the reading of record for the tales, and the 1890 Boston Little, Brown scan (`mythsfolkloreofi00curtrich`) is on `curtin-folk` as a second witness, `curtin-myths-and-folk-lore-of-ireland-1890`, for the dedication and introduction. Its tales mint once with the Gutenberg text. To undo it, delete that row.
 24. **Post-1930 printings held, batches 48-50 (your US rule):** Burroughs (9 books first printed 1931-1934, and 6 texts taken from 1960s paperback reprints), Wodehouse's Right Ho, Jeeves (1934), Buchan and Newbolt's Days to Remember (first published 1923, but the text names 1935 and 1937 printings, so it may carry later matter), Roy J. Snell (22 books, copyright 1931-1944), Percy Keese Fitzhugh (3 books, 1933-1934) and Upton Sinclair's Mental Radio and Autobiography (both 1962 texts). A post-1930 US book is public domain only if its copyright was never renewed; that was not checked, so each sits in its shelf's `_held`. Say "check renewals" and a later round looks each one up.
 25. **Chesterton overlap fixed:** Lane D's chesterton shelf also listed The Defendant, Heretics, Manalive and Orthodoxy, which main already fetches from CCEL. Those four were dropped from the shelf (the push gate caught it). Nothing to decide; noted so the shelf's smaller count is explained.
 26. **A duplicate-check flaw, fixed 2026-10-18:** the check treated any number in any shelf's notes as a Gutenberg id already taken, so years such as 1895 hid real books. 70 books across 36 authors were found and added (Armadale, The Egoist, The Pathfinder, Almayer's Folly, A Tramp Abroad, Monsieur Beaucaire and others), and volumes 2-3 of Braddon's An Open Verdict, Oliphant's Harry Muir and five volumes of Cooper's Gleanings in Europe, which a title match had taken for repeats, were restored. One more (Hearn's Stray Leaves, PG 55650) belongs on Lane C's hearn shelf and was left to Lane C.
 27. **Post-1930 holds, batches 52-53 (same question as 24):** Anstey's Tourmalin's Time Cheques (PG 46173, its text from a 1986 Leventhal reprint of the 1891 book; a reprint may add nothing, but it was not checked), Nell Speed's The Carter Girls' Mysterious Neighbors (PG 40178, 1931), Jackson Gregory's Marshal of Sundown (PG 77768, 1937) and Arthur Train's The Moon Maker (PG 65438, a 1958 book printing of a 1916 serial; Gutenberg's note says it found no evidence the copyright was renewed). Max Brand's The Garden of Eden was held at first but is taken: its line reads copyright 1922, renewed 1950, and a renewal is not new matter. Each sits in its shelf's `_held`. Say "check renewals" and a later round looks each one up, together with item 24's.
 28. **Post-1930 holds, batch 56 (same question as 24 and 27):** Madeline Brandeis's Little Erik of Sweden (PG 36333, copyright line 1938), The Little Spanish Dancer (PG 40592, 1936), Mitz and Fritz of Germany (PG 40608, 1933) and Little Tony of Italy (PG 40621, 1934). Her 1930 Little Philippe of Belgium is taken: a 1930 publication is US public domain since 2026-01-01. Also held (batch 66): The Mark of the Beast (PG 18815, on `storytellers-tail-17`), whose text names copyrights of 1918 and 1933, so it may be a revised edition. Also held (batch 59): Allan Pinkerton's The Spy of the Rebellion (PG 34973), transcribed from the University of Nebraska Press reprint whose introduction is copyright 1989; the 1883 text is public domain, so a clean source would be an older printing. Also held (batches 67-68, one book each, same question): Shuddering Castle (PG 71806, 1936, `storytellers-tail-29`), Air Monster (PG 55965, 1932, `storytellers-tail-32`), A Kindergarten Story Book (PG 14127, its text names 1966, `storytellers-tail-34`), This Finer Shadow (PG 64251, 1941, `storytellers-tail-38`) and Ernest Vincent Wright's Gadsby (PG 47342, 1939, `storytellers-tail-50`). Gutenberg carries each as US public domain, most likely for want of a renewal; "check renewals" covers these too.
+
+
+**Renewal check, 2026-11-03 (covers 24, 27 and 28).** All 50 held books were looked up in the Stanford Copyright Renewal Database (renewals of US books registered 1923-1963), by title words plus author surname. No renewal was found for 45, so they are US public domain by non-renewal. Two were renewed and stay held: Burroughs's Lost on Venus (the 1935 book, R305497; Gutenberg's text may come from the unrenewed 1933 serial) and Sydney Watson's The Mark of the Beast (the 1933 revision, R271289). Three are not renewal questions and stay held: Pinkerton's Spy of the Rebellion (1989 introduction), Anstey's Tourmalin's Time Cheques (1986 reprint) and A Kindergarten Story Book (1966 text). Upton Sinclair's two 1962 texts (Mental Radio, the Autobiography) were not part of this check. Each shelf's `_held` note records its finding. **Nothing was moved onto a shelf**, because the 2026-10-27 ruling keeps new additions to the ones Adam picks. Say "take the cleared holds" and the 45 move onto their shelves. Recommended: take Wodehouse's Right Ho, Jeeves and Gadsby, and leave the rest held (mostly series fiction: 22 Roy J. Snell, 8 Burroughs, 4 Brandeis, 3 Fitzhugh).
+
+
+## Defaults while Adam is away (2026-11-03)
+
+Adam asked on 2026-11-03 that nothing wait on him. Each open call above now has the default the lane will follow until he says otherwise. Nothing irreversible was done on any of them.
+
+| # | Question | Default |
+|---|---|---|
+| 1 | Minting the Lane D slugs | Waits. The uid pass is attended and runs on Adam's PC (`build_witnesses.py --check`). |
+| 2 | `_contents_key` bug | Waits for his ruling (CLAUDE.md rule 3). The upkeep thread's fix moves 0 ids in the 36 Chesterton books. |
+| 3 | Widen Kipling, Hawthorne and others | No. The 2026-10-27 Bloom-only ruling covers it. |
+| 4 | Aesop reconcile | Done at minting, before the `aesop` slugs mint. |
+| 5 | Mrs. Lang's own shelf | No. Her books stay on Andrew's shelf with her credited. |
+| 6 | Converter options into `structure_texts.py` | Moved at minting time, since they set the unit ids. |
+| 9 | Andersen with no translator named | Held back, as recommended. |
+| 10 | The 1884 Hunt Grimm | Kept as a second witness, for Lang's introduction and the notes. |
+| 11 | Malory's two texts | Both kept. Strachey is a second witness of Caxton's chapters. |
+| 12 | Heimskringla's translator | Laing, revised by Anderson (1889), accepted from the word-for-word collation. |
+| 13 | Webster's stage Daddy Long-Legs | Not taken (Bloom-only ruling). |
+| 14 | Garis's Uncle Wiggily's Story Book | Stays held. No renewal of the Story Book itself was found, but eight Uncle Wiggily stories registered 17 Jul 1939 were renewed in 1966 (R390370-R390377). The 1939 printing may carry some of them. |
+| 16 | `lang-devil-dancers` | Stays held. Lang is a source, not the author. |
+| 17 | MacDonald's four CCEL modern-reprint texts | Stay on the shelf, flagged. Collate them before Armarium republishes. |
+| 19 | Theal's title | The printed title is kept, with the shelf note that says it uses a slur. |
+| 20 | Mathews or Schoolcraft | Filed under Mathews, whose name is on the 1869 title page. Both printings are kept, and the shared passages mint once. |
+| 23 | Curtin's missing 1890 introduction | Applied: the 1890 scan is added as a second witness (see 23). |
+| 24, 27, 28 | Post-1930 holds | Renewals checked (see above). The 45 cleared books stay held until Adam picks. |
+| Little Classics | Authors index, p. 50, MBH index | Left as they are. The index is not typed in; the twin page stands in for p. 50. |
 
 ## OCR collation pilot (2026-10-23)
 
@@ -1019,4 +1049,24 @@ Second sweeps also fixed real-word slips (lie/he, bad/had, li/h), lost drop caps
 Open for Adam:
 - The Authors general index (pp. 259-266) is scrambled in both scans. It is left as is. Typing it would go past the word-level exception; the other choice is rebuilding it from the volumes' own contents.
 - This Authors scan lacks printed p. 50 (its leaf 55 is a faded reshoot of p. 48), so the twin scan's page stands in.
-- The other 12 Little Classics volumes were not swept in this pass.
+- The other 12 Little Classics volumes were not swept in this pass. **Done 2026-11-03; see below.**
+
+### Little Classics, the rest of the set (2026-11-03)
+
+Project Gutenberg has Distributed Proofreaders texts of nine volumes: Exile (PG 46088), Intellect (61668), Tragedy (61003), Romance (61422), Mystery (16405), Comedy (20229), Childhood (15933), Fortune (48696) and Minor Poems (34331). They were made from the 1914 Houghton Mifflin reissue of the same plates (Minor Poems from a c.1900 printing). Measured against the scans' OCR, each has the same stories in the same order, and the Gutenberg text fills leaves the scans lack (Exile, Intellect, Comedy, Childhood). Those nine are now `gutenberg` rows on the shelf. The scans are kept under `_scans` as the page images. Vol. 3's fix list is kept but no longer feeds the shelf. The lane missed this on 2026-10-23 because Gutenberg files the books under 'Stories of ...' with Johnson as editor, not under 'Little Classics'.
+
+The four volumes with no Gutenberg text were swept like the first five:
+
+| Volume | Scan | Collated with | Garbled before | After | Readings |
+|---|---|---|---|---|---|
+| Life | `lifelife00johnrich` | 2 scans | 95 | 3 (marks, not errors) | 64 |
+| Laughter | `laughter00john` | 1 scan | 356 | 0 | 168 |
+| Lyrical Poems | `littleclassics11johngoog` | 1 scan | 264 | 1 (a mark, not an error) | 228 |
+| Humanity | `littleclassicsv01johngoog` | none exists | 589 | 4 (marks, not errors) | 245 |
+
+Beyond the garbled words, Lyrical Poems had 81 real-word slips (morn read as mom, Fame as Tame) where its twin scan disagreed, and all four had a confusion sweep (li read as h, B or E for R in capitals): 87 more readings. Every reading was made from the page image except the sweep's mechanical ones (Wliile, tliey, DEEAMTHORP), which have only one sensible reading.
+
+The whole set now stands: 9 volumes proofread from Gutenberg, 8 OCR volumes corrected, and vol. 16 (Nature), which has no scan online.
+
+Still open for Adam (unchanged): the scrambled Authors index, the twin page for Authors p. 50, the 14 My Book House index spots. Known limit: in Humanity, which has no twin, a slip that makes another real word is caught only by the sweep's patterns.
+

@@ -1,6 +1,6 @@
 {
  "status": "paused",
  "holder": null,
- "heartbeat": "2026-10-29T12:15Z",
- "resume": "PAUSED again 2026-10-29 after the one-off Henty job (Adam 2026-10-28): henty-works +3 IA titles; Winning His Spurs read-along in canon-corpus PR #45 (into main) and wordhoard PR #192, both draft, awaiting Adam's merge + Armarium rebuild. Earlier resume point stands: Little Classics remaining 12 volumes; Adam's open questions (Authors index, p. 50, MBH index spots)."
+ "heartbeat": "2026-11-03T05:30Z",
+ "resume": "PAUSED again 2026-11-03 after a quality pass at the coordinator's relay of Adam's usage burn (no new author batches; his 2026-10-23 stop holds). Done: Little Classics finished (9 volumes switched to Gutenberg's proofread texts, the other 4 unswept volumes collated and hand-read); decision 23 default applied (Curtin 1890 scan as second witness); renewal check of the 50 post-1930 holds (45 clear, 2 renewed, 3 reprint questions; none moved onto shelves); a default recorded for every open call in DIGEST-D. Earlier items: canon-corpus PR #45 and wordhoard PR #192 merged 2026-10-29; the Armarium rebuild on Render is Adam's (set ARMARIUM_REBUILD=1, redeploy, unset). Next if resumed: nothing queued; upkeep only."
 }

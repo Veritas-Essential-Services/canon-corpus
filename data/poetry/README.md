@@ -1,11 +1,12 @@
 ---
 model_log:
   - 2026-10-06 claude-opus-5-5 drafted
+  - 2026-11-03 claude-opus-5-5 added the declamations layer
 fable_review: pending
 ---
 # data/poetry — the Word Hoard poetry section
 
-Four layers of poems, one shape, and Mnemonicon memory packs built from them.
+Four layers of poems and a layer of declamations, one shape, and Mnemonicon memory packs built from them.
 Build: `pipeline/build_poetry.py`. Validator: `tests/poetry_test.py`.
 
 | Layer | Tag | What it is |
@@ -14,6 +15,7 @@ Build: `pipeline/build_poetry.py`. Validator: `tests/poetry_test.py`.
 | **Heroic addendum** | `addendum-heroic` | The house's own proposals: heroic, adventurous and vocational verse, plus a few songs. Same year/term slots so it sits **beside** the AO list, never inside it. Every row is `status: proposed` until Adam rules on it. |
 | **Treasury** | `treasury` | The Schoolroom Treasury's candidate pool: every verse candidate from the 55 old anthologies, readers and speakers in `pool/`, for Adam to cull. No year or term yet; every row is `status: candidate` and carries its `pool_id`. Selections are written by `pipeline/select_treasury.py`. |
 | **Collections** | `collections` | A whole book or set of one poet's, taken entire at Adam's ask. Each row names its `collection` (its tag and its pack) and keeps the book's order. The first is `cowper-guyon`: all 37 of Cowper's translations of Madame Guyon. |
+| **Declamations** | `declamations` | The prose half of the pool: the speeches, orations and reader lessons that schoolboys learned to declaim. Every row is `status: candidate`. Citations are `declamations:<speaker>.<title>`. Selections are written by `pipeline/select_declamations.py`; see *The declamations layer* below. |
 
 A poem in two layers is one poem: one citation (`poetry:<poet>.<title>`),
 one `wh-` uid, one Mnemonicon piece id.
@@ -30,10 +32,13 @@ one `wh-` uid, one Mnemonicon piece id.
 | `selections/collections.jsonl` | yes | curated: whole collections, one row per poem in the book's order |
 | `catalog-ao.jsonl`, `catalog-addendum-heroic.jsonl`, `catalog-treasury-N.jsonl` | yes | **built**: one row per selection, with uid, rights and hosting decision |
 | `texts-N.jsonl` | yes | **built**: the hosted texts, public domain only, cut from the pinned books |
+| `selections/declamations.jsonl` | yes | **built** by `select_declamations.py`: every prose piece in the pool, with its cut |
+| `catalog-declamations.jsonl` | yes | **built**: one row per declamation, with uid, rights and hosting decision |
+| `declamations-texts.jsonl` | yes | **built**: the hosted declamations, paragraphs one to a line |
 
 A built JSONL over 4 MB is cut into numbered parts of whole rows (`texts-1.jsonl`, `texts-2.jsonl`, …) so no committed file passes the 5 MB cap; one that fits keeps its plain name. Read them with `read_parts()` in `build_poetry.py`, which takes either form.
-| `../../exports/mnemonicon/poetry/*.json` | yes | **built**: import files, one per year and term (`ao-y02-t1.json`, `heroic-y05-t1.json`, …) |
-| `../corpus/gitenberg/<n>.txt` | no (gitignored) | `--fetch` |
+| `../../exports/mnemonicon/poetry/*.json` | yes | **built**: import files, one per year and term (`ao-y02-t1.json`, `heroic-y05-t1.json`, …), one per source book for the treasury and the declamations (`treasury-pg<n>.json`, `declamation-pg<n>.json`) |
+| `../corpus/gitenberg/<n>.txt`, `<n>.mirror.txt` | no (gitignored) | `--fetch` |
 
 ## A catalog row
 
@@ -140,3 +145,30 @@ When Adam wants a poet's book whole, it goes in `selections/collections.jsonl`. 
 - *A Figurative Description...* has a subtitle printed under its heading. The cut starts at the first line of verse, and the row's notes give the subtitle.
 
 The prose "Brief Account of Madame Guion", which opens the section, is not verse and is left out.
+
+## The declamations layer (2026-11-03)
+
+The plan's prose section: the speeches and lessons the old readers and speakers printed for boys to declaim. `pipeline/select_declamations.py` turns the pool's 667 prose rows into `selections/declamations.jsonl`, and the build gives each one a uid, a rights decision and, where the cut is clean, a hosted text.
+
+- **Which pieces:** every pool row of kind `prose`, plus the plan's Crispin's Day speech (see below). A piece already in another layer is not repeated. Five are skipped this way, for example McGuffey's "Henry V to His Troops", which is "Once more unto the breach" and is already in the treasury. When a speech is printed in two books, the books are matched by their opening ten words, and the speakers must agree. Such a speech is one piece; the second printing is named in the row's notes. "The Same Concluded" goes with its speech.
+- **Where the cut begins and ends:** the cut begins at the first line of text under the piece's printed heading. It passes over a byline, a "(_1775_)" date line, an indented headnote or scene line, and McGuffey's life of the author, all of which are kept in the row as `headnote`. The cut stops above the next heading, NOTES, DEFINITIONS or EXERCISES, or the signature line. The signature is kept as `signed`. The rule is stored in the row (`extract`) and the build replays it.
+- **Paragraphs:** a prose cut keeps its paragraphs, one to a line in the text. Wrapped lines are joined (`reflow`). McGuffey's paragraph numbers are dropped (`para_numbers`). The Third Reader is printed page by page, so its running heads and signature marks are dropped (`drop`), and its paragraphs are found from its numbers (`join_pages`). Dialogue gives each speaker a line (`speakers`). A verse quotation inside a speech keeps its lines. A transcriber's bracketed note is skipped (`skip_notes`). A piece that is verse (some McGuffey and speaker poems the pool called prose) is cut as verse and marked `form: verse`.
+- **What is refused:** a cut is refused if it:
+  - runs into the next piece
+  - runs past a signature
+  - is an editor's or transcriber's note
+  - is the reader's introduction (elocution exercises, front matter)
+  - is a play in several scenes
+  - is under 20 words or over 4000 words, one declamation's cap
+
+  A refused piece stays in the layer, linked out, and its rights note gives the reason.
+- **Grade hint:** `grade_hint.audiences` copies the pool's audiences. For a McGuffey cut, it adds `mcguffey_reader` (2–6) and `lesson`, the lesson numeral as printed. A piece in a lesson of short selections takes that lesson's number.
+- **Plan pieces:** a row the plan names carries `named_in_plan`. The Gettysburg Address is hosted from *America First* (1916). Patrick Henry's speech is hosted from McGuffey's Sixth (lesson XIX), which prints Wirt's text; the *American Union Speaker* printing is merged into it. Crispin's Day is not in the pool's rows: the pool's parser missed it. It is cut from *Patriotic Song* (PG #52133, 1901), a pool book, which prints it abridged; the row's notes say so. The Man in the Arena is in none of the pool's books, and Wirt's own *Sketches* (1817) is not in the pool. Both wait for a source.
+- **Packs:** one per source book, `declamation-pg<n>.json`. A pack holds the category Monologue. A piece over 400 words is split into parts of whole paragraphs, about 250 words each, broken at sentence ends. The packs live in `exports/mnemonicon/poetry/` beside the poems: `build_poetry.py` owns that folder, and `tests/poetry_test.py` checks every pack in it.
+- **Texts:** the texts are kept in `declamations-texts.jsonl`, not in `texts-N.jsonl`. Adding 2.7 MB of prose to the poems' shards would reshuffle every shard.
+
+**Mirror pins.** gutenberg.org cannot be reached from the build machine this layer was made on. So each declamation book is pinned a second time, from its GITenberg copy on GitHub: `sources.json` `books[n].mirror` gives `raw_url`, `sha256` and `encoding`. Those copies are byte for byte the files the pool was parsed from. The copy is fetched to `../corpus/gitenberg/<n>.mirror.txt`, and the row's `pd_source.copy` is `mirror`. The Gutenberg pin is left as it was.
+
+**Partial builds.** `build_poetry.py --layer declamations` builds, checks or writes only that layer's catalog, texts and packs. Use it when the other layers' books are not on disk. A full `build_poetry.py --check` still needs every pinned book.
+
+Order of a rebuild: `build_poetry.py --fetch`, `select_declamations.py --fetch` (fetches and checks the mirror pins), `build_poetry.py`, then `build_poetry.py --check`.
