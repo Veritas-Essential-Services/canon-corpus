@@ -4,7 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius + Rainolde manifest entries)
-# prov: 2026-11-03 claude-opus-5-5 edited (Easton's; LEXICON_SHA256 pins)
+# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's; LEXICON_SHA256 pins)
 # fable_review: pending
 """fetch_sources.py — manifest-driven fetcher for the structured shelves.
 
@@ -494,12 +494,20 @@ LEXICONS = {
         "Easton's Bible Dictionary (M. G. Easton, Illustrated Bible Dictionary, 3rd ed., "
         "1897; PD). CCEL ThML ebd2 v2.0 (from the Online Bible), DC.Rights 'Public "
         "Domain'. 3,964 entries."),
+    "nave": (
+        "https://raw.githubusercontent.com/neuu-org/bible-topics-dataset/"
+        "eeb9b7418be4d02c497d142da3b9890fad356252/data/00_raw/xml/nave_bible.xml",
+        "nave-bible.xml",
+        "Nave's Topical Bible (Orville J. Nave, 1896; PD). CCEL ThML nave/bible, the "
+        "reference edition (topics + references, no quoted verses). DC.Rights EMPTY: "
+        "held redistribute_whole false until CCEL's page is read. 5,322 topics."),
 }
 
 # sha256 of a lexicon file as fetched. A fetched file that differs is refused
 # (renamed *.refused) rather than built. Pinned for the files added 2026-11-03.
 LEXICON_SHA256 = {
     "easton": "10e3f432e38ee8197c30a613576dc363af3f29fa4aa90ebd0782533df906e5f1",
+    "nave": "dc58dd4e37d5af639f508a4c64657b40f5ccbe727f523b219ffaa70d661f619d",
 }
 
 

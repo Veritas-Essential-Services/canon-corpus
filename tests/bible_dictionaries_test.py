@@ -125,6 +125,43 @@ check("easton: rights: the file's own DC.Rights line, whole redistribution allow
       and eb["source"]["format"] == "dictionary-thml")
 os.unlink(_ep)
 
+# ---------------------------------------------------------------- Nave's (ThML)
+NAVE = THML_HEAD + """<glossary id="a-p0.1">
+<term id="t1">PRIEST</term>
+<def type="Scripture References" id="d1">
+<p class="index2" id="p1">Of Melchizedek <scripRef id="s1" passage="Ge 1:1" parsed="|Gen|1|1|0|0" osisRef="Bible:Gen.1.1">Ge 1:1</scripRef></p>
+<p class="index3" id="p2">Consecrated <scripRef id="s2" passage="Ex 4:1-3" parsed="|Exod|4|1|0|3" osisRef="Bible:Exod.4.1-Exod.4.3">Ex 4:1-3</scripRef></p>
+<p class="index2" id="p3">See <a href="bible.l.html?term=levites" id="a1">LEVITES</a></p>
+</def>
+<term id="t2">HIGH PRIEST</term>
+<def type="Scripture References" id="d2">
+<p class="index2" id="p4">See <a href="bible.p.html?term=priest,+high" id="a2">PRIEST, HIGH</a>; <a href="bible.a.html?term=abstinence" id="a3">ABSTINENCE</a></p>
+</def>
+<term id="t3">ABSTINENCE, TOTAL</term>
+<def type="Scripture References" id="d3"><p class="index2" id="p5"><scripRef id="s3" passage="Col 9:9" parsed="|Col|9|9|0|0" osisRef="Bible:Col.9.9">Co 9:9</scripRef></p></def>
+</glossary></ThML.body></ThML>
+"""
+_np = tmp(NAVE, ".xml")
+nb = st.convert_nave(_np, kjv_path=KJV)
+nu = {u["id"]: u for u in nb["units"]}
+check("nave: topics keyed by slug, printed in capitals as the source has them",
+      list(nu) == ["nave:priest", "nave:high-priest", "nave:abstinence-total"]
+      and nu["nave:priest"]["ref"] == "PRIEST")
+check("nave: sub-topic depth rides in lex.levels, one per paragraph",
+      nu["nave:priest"]["lex"]["levels"] == [2, 3, 2] and nu["nave:priest"]["text"].count("\n\n") == 2)
+check("nave: a verse range within a chapter keeps its end",
+      nu["nave:priest"]["links"][1]["end"] == "Exod.4.3")
+hs = nu["nave:high-priest"]["links"]
+check("nave: 'PRIEST, HIGH' (a sub-topic) links the topic it sits under, marked match=topic",
+      hs[0] == {"kind": "see", "label": "PRIEST, HIGH", "target": "nave:priest", "match": "topic"})
+check("nave: a name that begins exactly one topic links it, marked match=prefix",
+      hs[1]["target"] == "nave:abstinence-total" and hs[1]["match"] == "prefix")
+check("nave: an abbreviation CCEL misparsed (Co -> Col 9) names no KJV chapter and stays unresolved",
+      nu["nave:abstinence-total"]["links"][0]["resolved"] is False)
+check("nave: rights held (DC.Rights empty in the file): redistribute_whole false",
+      nb["rights"]["redistribute_whole"] is False)
+os.unlink(_np)
+
 # ---------------------------------------------------------------- the manifest
 SLUGS = [x for x in ("easton", "nave", "hurlbut-bible-atlas") if x in fs.LEXICONS]
 PINS = {"easton": "b8e82aa7ca847f4d97fb432cd965e398a111333c",

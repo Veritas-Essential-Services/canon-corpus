@@ -4,7 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius: three edition converters)
-# prov: 2026-11-03 claude-opus-5-5 edited (Easton's Bible Dictionary)
+# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's)
 # fable_review: pending
 """structure_texts.py — the structure layer: source texts -> unit-id JSON.
 
@@ -18,7 +18,7 @@ Three converters, one output shape (the Canon Corpus JSON design, vault:
                                                Strong's H/G, Brown-Driver-Briggs;
                                                and dictionaries of names keyed by
                                                entry: Smith's classical, Brewer's literary
-                                               and Bible dictionaries: Easton's
+                                               and Bible dictionaries: Easton's, Nave's
 
 Output: data/books/<slug>.json (gitignored — rebuildable) and
 data/books/manifest.json (committed — checksums, schemes, provenance).
@@ -2706,6 +2706,21 @@ EASTON_RIGHTS = {
             "reachable from the session), so CCEL's per-work page was not read: Adam to "
             "confirm CCEL lists no non-commercial request for ebd2 (CLAUDE.md rule 6)."}
 
+NAVE_RIGHTS = {
+    "license": "public-domain text (Nave 1896/1897); CCEL electronic edition",
+    "rights_line": "(none: the file's DC.Rights is empty)",
+    "attribution": "Nave's Topical Bible, electronic edition by the Christian Classics "
+                   "Ethereal Library (ccel.org/ccel/nave/bible).",
+    "source_url": "https://ccel.org/ccel/nave/bible",
+    "redistribute_whole": False,
+    "note": "Orville J. Nave d. 1917; the work was published 1896-97: US public domain. "
+            "This file's DC.Rights is EMPTY and its header comment reads 'Copyright "
+            "Christian Classics Ethereal Library', so CCEL's terms for this electronic "
+            "edition were not seen. Held redistribute_whole false (quote, cite, link) until "
+            "Adam reads CCEL's page for it. Read 2026-11-03 from a byte copy at "
+            "github.com/neuu-org/bible-topics-dataset; CCEL itself was not reachable."}
+
+
 def convert_easton(path, slug="easton", kjv_path=None):
     b = convert_ccel_dictionary(path, slug, "Easton's Bible Dictionary",
                                 "M. G. Easton (Illustrated Bible Dictionary, 3rd ed., 1897)", kjv_path)
@@ -2727,6 +2742,33 @@ def convert_easton(path, slug="easton", kjv_path=None):
                            f"begins with it; link.match says so), "
                            f"{s['see_unresolved']:,} name none and are kept unresolved. Italics are not carried. Easton's printed pages are not "
                            f"in this text, so no page is claimed.",
+                   "stats": s}
+    return b
+
+
+def convert_nave(path, slug="nave", kjv_path=None):
+    b = convert_ccel_dictionary(path, slug, "Nave's Topical Bible",
+                                "Orville J. Nave (1896)", kjv_path)
+    s = b.pop("stats")
+    b["rights"] = NAVE_RIGHTS
+    b["scheme"] = {"citation": "topic as a slug (nave:aaron); ~2 for a repeated topic",
+                   "resolution": "entry (topic); sub-topics are paragraphs inside it, "
+                                 "their depth in lex.levels (2 topic, 3 sub-topic, 4 below)",
+                   "honesty": "exact",
+                   "note": f"{s['entries']:,} topics as CCEL's ThML delimits them. This is the "
+                           f"reference edition (topics, sub-topics and references), not the "
+                           f"printed one that also quotes each verse: the verses are the KJV's "
+                           f"own units, reached by link. {s['scripture_refs']:,} scripture "
+                           f"references, each tagged by CCEL with its OSIS reference: "
+                           f"{s['scripture_resolved']:,} link to a kjv: unit; "
+                           f"{s['scripture_unresolved']:,} are kept unresolved with why "
+                           f"{s['unresolved_why']}. {s['scripture_links']:,} links after merging "
+                           f"repeats within a topic, in {s['units_with_scripture']:,} topics. "
+                           f"'See' references: {s['see_resolved']:,} resolved to a topic "
+                           f"({s['see_how']}: 'topic' is the topic a 'TOPIC, SUB-TOPIC' "
+                           f"reference sits under, 'number' singular for plural, 'prefix' the one "
+                           f"topic whose name begins with it; link.match says so), {s['see_unresolved']:,} name none and are kept unresolved. Headwords print in capitals, "
+                           f"as the source has them.",
                    "stats": s}
     return b
 
@@ -4316,7 +4358,8 @@ def main():
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
-    for slug, fn, conv in (("easton", "easton-ebd.xml", convert_easton)):
+    for slug, fn, conv in (("easton", "easton-ebd.xml", convert_easton),
+                           ("nave", "nave-bible.xml", convert_nave)):
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))

@@ -2212,5 +2212,47 @@
    "redistribute_whole": true,
    "note": "The file's own DC.Rights reads 'Public Domain'; its header comment reads 'Copyright Christian Classics Ethereal Library'. Read 2026-11-03 from a byte copy at github.com/neuu-org/bible-dictionary-dataset (CCEL itself was not reachable from the session), so CCEL's per-work page was not read: Adam to confirm CCEL lists no non-commercial request for ebd2 (CLAUDE.md rule 6)."
   }
+ },
+ "nave": {
+  "title": "Nave's Topical Bible",
+  "author": "Orville J. Nave (1896)",
+  "format": "dictionary-thml",
+  "sha256": "dc58dd4e37d5af639f508a4c64657b40f5ccbe727f523b219ffaa70d661f619d",
+  "units": 5322,
+  "scheme": {
+   "citation": "topic as a slug (nave:aaron); ~2 for a repeated topic",
+   "resolution": "entry (topic); sub-topics are paragraphs inside it, their depth in lex.levels (2 topic, 3 sub-topic, 4 below)",
+   "honesty": "exact",
+   "note": "5,322 topics as CCEL's ThML delimits them. This is the reference edition (topics, sub-topics and references), not the printed one that also quotes each verse: the verses are the KJV's own units, reached by link. 77,934 scripture references, each tagged by CCEL with its OSIS reference: 77,908 link to a kjv: unit; 26 are kept unresolved with why {'book not in the KJV build (Apocrypha)': 13, 'no such verse in the KJV': 13}. 72,193 links after merging repeats within a topic, in 4,673 topics. 'See' references: 4,043 resolved to a topic ({'exact': 3322, 'number': 184, 'prefix': 157, 'topic': 380}: 'topic' is the topic a 'TOPIC, SUB-TOPIC' reference sits under, 'number' singular for plural, 'prefix' the one topic whose name begins with it; link.match says so), 322 name none and are kept unresolved. Headwords print in capitals, as the source has them.",
+   "stats": {
+    "entries": 5322,
+    "scripture_refs": 77934,
+    "scripture_resolved": 77908,
+    "scripture_unresolved": 26,
+    "unresolved_why": {
+     "book not in the KJV build (Apocrypha)": 13,
+     "no such verse in the KJV": 13
+    },
+    "scripture_links": 72193,
+    "units_with_scripture": 4673,
+    "see_resolved": 4043,
+    "see_how": {
+     "exact": 3322,
+     "number": 184,
+     "prefix": 157,
+     "topic": 380
+    },
+    "see_unresolved": 322,
+    "empty": 0
+   }
+  },
+  "rights": {
+   "license": "public-domain text (Nave 1896/1897); CCEL electronic edition",
+   "rights_line": "(none: the file's DC.Rights is empty)",
+   "attribution": "Nave's Topical Bible, electronic edition by the Christian Classics Ethereal Library (ccel.org/ccel/nave/bible).",
+   "source_url": "https://ccel.org/ccel/nave/bible",
+   "redistribute_whole": false,
+   "note": "Orville J. Nave d. 1917; the work was published 1896-97: US public domain. This file's DC.Rights is EMPTY and its header comment reads 'Copyright Christian Classics Ethereal Library', so CCEL's terms for this electronic edition were not seen. Held redistribute_whole false (quote, cite, link) until Adam reads CCEL's page for it. Read 2026-11-03 from a byte copy at github.com/neuu-org/bible-topics-dataset; CCEL itself was not reachable."
+  }
  }
 }
