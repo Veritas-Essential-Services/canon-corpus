@@ -1191,3 +1191,17 @@ Default: leave these as they are.
 | Book 5 | `heartofoakbooks05nort` | `books5heartofoak00nort`, `heartofoakbooks00nortrich`, `heartoakbooks03stepgoog` | 251 | 38 |
 
 With round 7, all seven Heart of Oak Books are collated: 1,803 garbled words down to 219. Twins were matched by shared text, as in round 7; the 1895 first edition differs (about 80% shared) and was not used. What is left is footnote and gloss numbers (correct as printed), a cover or two, and a few one-word spots. Default: leave them.
+
+### Round 9: Our Wonder World, vols. 2, 4, 7 (2026-11-03)
+
+| Volume | Scan | Twins collated | Garbled before | After |
+|---|---|---|---|---|
+| 2, Invention and Industry | `ourwonderworldal02unse` | `ourwonderworldin0002unse` | 1,875 | 32 |
+| 4, Exploration, Adventure, and Achievement | `ourwonderworldal04unse` | `ourwonderworldli0004vari`, `ourwonderworldli04geol`, `ourwonderworldli0000unse_t3y9` | 3,143 | 158 |
+| 7, Amateur Handicraft | `ourwonderworldal07unse` | `ourwonderworldvo0007unse_k4p3`, `ourwonderworldli07chic` | 4,093 | 603 |
+
+Twins were matched by shared text (91-97%). The 1918-1930 reissues of vol. 2 share only 77-79% (revised), so they were not used.
+
+What is left:
+- **Vols. 2 and 4:** labels on cutaway diagrams (the engine, the battleship) and the facsimiles of old maps and letters in vol. 4. Those are pictures, not text. Default: leave them.
+- **Vol. 7 is only partly done.** It is a handicraft book full of measurements, and the OCR garbles the small fractions in many ways. The ½ read as "V2", "y2" or "Y2", or as a bare "Y" after a whole number, is mended by rule (24 places). The others are not, because one garble stands for different fractions on different pages (the image shows "i34" as 1½ in one place, and "34" stands for ¾ elsewhere). Mending them safely means reading each one from the image, about 400 spots. Default: leave them flagged. Next pass if wanted: crop every measurement token and read it.
