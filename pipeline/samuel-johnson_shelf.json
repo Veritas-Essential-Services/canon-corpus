@@ -1,0 +1,66 @@
+{
+ "_about": "Samuel Johnson. Bloom's Western Canon (1994) lists: Works. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Samuel Johnson",
+ "_name_words": [
+  "samuel",
+  "johnson"
+ ],
+ "_surname": [
+  "johnson",
+  "samuel johnson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "johnson-dr-works": [
+   10835,
+   "Dr. Johnson's Works: Life, Poems, and Tales, Volume 1 (Works in Nine Volumes)"
+  ],
+  "johnson-works": [
+   43656,
+   "The Works of Samuel Johnson, LL.D. in Nine Volumes, Volume 02 The Rambler, Volume I"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "johnson-dr-works": {
+   "bloom_n": [
+    217
+   ],
+   "bloom_title": "Works",
+   "year": "unread (PG header: 'In nine volumes. Volume the first'; the Oxford 1825 edition, not read)",
+   "evidence": "PG header read.",
+   "case": "Bloom's 'Works': the 9-vol Oxford set is on PG in part; it holds the poems, Rambler, Idler, Adventurer and Lives.",
+   "note": "PG lacks vols 6, 7, 9 of this set; IA has full Oxford 1825 sets. Lives of the Poets also separately on PG (4679, 9823)."
+  },
+  "johnson-works": {
+   "bloom_n": [
+    217
+   ],
+   "bloom_title": "Works",
+   "year": "unread",
+   "evidence": "PG catalogue; same set also 11397 (vol 3), 12050 (vol 4), 11768 (vol 5), 24218 (vol 8).",
+   "case": "Bloom's 'Works': the 9-vol Oxford set is on PG in part; it holds the poems, Rambler, Idler, Adventurer and Lives.",
+   "note": "PG lacks vols 6, 7, 9 of this set; IA has full Oxford 1825 sets. Lives of the Poets also separately on PG (4679, 9823)."
+  }
+ },
+ "_checks": {
+  "johnson-dr-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnson-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
