@@ -1,0 +1,92 @@
+{
+ "_about": "W. Somerset Maugham. Bloom's Western Canon (1994) lists: Collected Short Stories; The Moon and Sixpence. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "W. Somerset Maugham",
+ "_name_words": [
+  "somerset",
+  "maugham"
+ ],
+ "_surname": [
+  "maugham",
+  "w somerset maugham"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "maugham-trembling-leaf": [
+   26854,
+   "The Trembling of a Leaf: Little Stories of the South Sea Islands"
+  ],
+  "maugham-moon-sixpence": [
+   222,
+   "The Moon and Sixpence"
+  ]
+ },
+ "internet_archive": {
+  "maugham-casuarina-tree": [
+   "casuarinatree0000wsom",
+   "The Casuarina Tree: Six Stories"
+  ]
+ },
+ "_bloom": {
+  "maugham-trembling-leaf": {
+   "bloom_n": [
+    885
+   ],
+   "bloom_title": "Collected Short Stories",
+   "year": "1921 (PG text: 'Copyright, 1921')",
+   "evidence": "PG header read",
+   "case": "Bloom lists Maugham's Collected Short Stories (1951, not PD as a collection). Its main pre-1931 parts are The Trembling of a Leaf (1921, with 'Rain') and The Casuarina Tree (1926), both US-PD.",
+   "note": "Ashenden (1928) is also PD but I did not look for it; most later stories are post-1931."
+  },
+  "maugham-casuarina-tree": {
+   "bloom_n": [
+    885
+   ],
+   "bloom_title": "Collected Short Stories",
+   "year": "1926 (title page: New York, George H. Doran; 'Copyright, 1926')",
+   "evidence": "Read title page; collection internetarchivebooks, not lending.",
+   "case": "Bloom lists Maugham's Collected Short Stories (1951, not PD as a collection). Its main pre-1931 parts are The Trembling of a Leaf (1921, with 'Rain') and The Casuarina Tree (1926), both US-PD.",
+   "note": "Ashenden (1928) is also PD but I did not look for it; most later stories are post-1931."
+  },
+  "maugham-moon-sixpence": {
+   "bloom_n": [
+    886
+   ],
+   "bloom_title": "The Moon and Sixpence",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists The Moon and Sixpence (1919). PG text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "maugham-trembling-leaf": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "maugham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maugham-moon-sixpence": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "maugham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maugham-casuarina-tree": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "maugham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
