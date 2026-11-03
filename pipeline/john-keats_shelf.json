@@ -1,0 +1,49 @@
+{
+ "_about": "John Keats. Bloom's Western Canon (1994) lists: Poems and Letters. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Keats",
+ "_name_words": [
+  "john",
+  "keats"
+ ],
+ "_surname": [
+  "keats",
+  "john keats"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "keats-letters-to-his-family": [
+   35698,
+   "Letters of John Keats to His Family and Friends",
+   "tr. ed. Sidney Colvin"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "keats-letters-to-his-family": "Colvin"
+ },
+ "_bloom": {
+  "keats-letters-to-his-family": {
+   "bloom_n": [
+    444
+   ],
+   "bloom_title": "Poems and Letters",
+   "year": "1925 printing (title page 'St. Martin's Street, London 1925'); Colvin's edition first 1891 (not read)",
+   "evidence": "Read PG header.",
+   "case": "The poems are held; the letters are not. Colvin's edition is the standard PD selection of the letters.",
+   "note": "PG 60433 (Letters to Fanny Brawne) would complete the love letters."
+  }
+ },
+ "_checks": {
+  "keats-letters-to-his-family": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "keats",
+   "translator_claimed": "Colvin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
