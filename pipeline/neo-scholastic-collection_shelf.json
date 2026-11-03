@@ -1,0 +1,353 @@
+{
+ "_about": "Adam's Logos purchase 'Neo-Scholastic Theology and Philosophy Collection (24 vols)', its titles, authors and publishers as listed on logos.com read 2026-11-03, each found as a pre-1931 Internet Archive scan and its title page read (newest pre-1931 edition where several exist; where only the catalogue was read, the row says so). Mostly the Stonyhurst Philosophical Series and its American counterparts, 1887-1921. One shelf for the bundle; works already on another shelf are not repeated (listed under _excluded). This is philosophy as much as theology: lane B may want to own it. Internet Archive OCR, raw. All published before 1931, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "philosophy",
+  "scholastic"
+ ],
+ "_surname": [
+  "azarias",
+  "coppens",
+  "ming",
+  "poissy",
+  "elmendorf",
+  "clarke",
+  "rickaby",
+  "ronayne",
+  "aveling",
+  "stockl",
+  "harper",
+  "boedder",
+  "cornoldi",
+  "devas",
+  "maher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nsc-azarias-aristotle": [
+   "aristotlechristi00azarrich",
+   "Aristotle and the Christian Church: An Essay, by Brother Azarias (London: Kegan Paul, Trench, 1888)"
+  ],
+  "nsc-coppens-logic": [
+   "abrieftextbookof00coppuoft",
+   "A Brief Text-Book of Logic and Mental Philosophy, by Charles Coppens, S.J. (catalogue: New York: Schwartz, Kirwin & Fauss, 1891)"
+  ],
+  "nsc-coppens-moral": [
+   "brieftextbookofm00coppuoft",
+   "A Brief Text-Book of Moral Philosophy, by Charles Coppens, S.J., with A Catholic Social Platform by Joseph Husslein, S.J. (New York: Schwartz, Kirwin & Fauss; catalogue date 1920)"
+  ],
+  "nsc-coppens-catholic-religion": [
+   "systematicstudy00coppuoft",
+   "A Systematic Study of the Catholic Religion, by Charles Coppens, S.J. (catalogue: St. Louis: B. Herder, 1903)"
+  ],
+  "nsc-ming-data-ethics": [
+   "thedataofmoderne00minguoft",
+   "The Data of Modern Ethics Examined, by John J. Ming, S.J. (New York: Benziger Brothers, copyright 1894)"
+  ],
+  "nsc-louis-christian-philosophy": [
+   "cu31924029060354",
+   "Elementary Course of Christian Philosophy, Based on the Principles of the Best Scholastic Authors, adapted from the French of Brother Louis of Poissy, 2nd ed. revised (New York: O'Shea, copyright 1893)"
+  ],
+  "nsc-elmendorf-moral-theology": [
+   "elementsofmoralt00elme_0",
+   "Elements of Moral Theology, Based on the Summa Theologiae of St. Thomas Aquinas, by John J. Elmendorf (New York: James Pott, 1896)"
+  ],
+  "nsc-clarke-existence-god": [
+   "TheExistenceOfGod",
+   "The Existence of God: A Dialogue in Three Chapters, by Richard F. Clarke, S.J. (London: Catholic Truth Society, 1887)"
+  ],
+  "nsc-john-rickaby-first-principles": [
+   "thefirstprincipl00rickuoft",
+   "The First Principles of Knowledge, by John Rickaby, S.J., Stonyhurst Philosophical Series, 4th ed. (London: Longmans, Green, 1901)"
+  ],
+  "nsc-john-rickaby-general-metaphysics": [
+   "generalmetaphys00rickuoft",
+   "General Metaphysics, by John Rickaby, S.J., Stonyhurst Philosophical Series, 3rd ed. (1898), reissue (London: Longmans, Green, 1901)"
+  ],
+  "nsc-ronayne-god-knowable": [
+   "godknowableandkn00ronauoft",
+   "God Knowable and Known, by Maurice Ronayne, S.J. (catalogue: New York: Benziger, 1888)"
+  ],
+  "nsc-aveling-god-of-philosophy": [
+   "godofphilosophy00aveluoft",
+   "The God of Philosophy, by Francis Aveling, Expository Essays in Christian Philosophy (London: Sands, 1906)"
+  ],
+  "nsc-stockl-history-philosophy-1": [
+   "handbookofthephi01stocuoft",
+   "Handbook of the History of Philosophy, Part I: Pre-Scholastic Philosophy, by Albert Stockl, tr. T. A. Finlay, S.J. (Dublin: M. H. Gill, 1887)"
+  ],
+  "nsc-harper-metaphysics-1": [
+   "metaphysicsscho02harpgoog",
+   "The Metaphysics of the School, vol. I, by Thomas Harper, S.J. (catalogue: London: Macmillan, 1879)"
+  ],
+  "nsc-harper-metaphysics-2": [
+   "metaphysicsofsch02harp",
+   "The Metaphysics of the School, vol. II, by Thomas Harper, S.J. (London: Macmillan, 1881)"
+  ],
+  "nsc-harper-metaphysics-3": [
+   "metaphysicsscho01harpgoog",
+   "The Metaphysics of the School, vol. III, by Thomas Harper, S.J. (London: Macmillan; printed at Oxford; catalogue date for the set 1879)"
+  ],
+  "nsc-boedder-natural-theology": [
+   "naturaltheolog00boed",
+   "Natural Theology, by Bernard Boedder, S.J., Manuals of Catholic Philosophy (Stonyhurst Series) (London: Longmans, Green, 1891)"
+  ],
+  "nsc-cornoldi-physical-system": [
+   "physicalsystemof00cornuoft",
+   "The Physical System of St. Thomas, by Giovanni Maria Cornoldi, S.J. (catalogue: London: Art and Book Co., 1893)"
+  ],
+  "nsc-devas-political-economy": [
+   "politicaleconomy00deva",
+   "Political Economy, by Charles S. Devas, Stonyhurst Philosophical Series (catalogue: London: Longmans, Green, 1910)"
+  ],
+  "nsc-maher-psychology": [
+   "psychologyempiri00maheuoft",
+   "Psychology: Empirical and Rational, by Michael Maher, S.J., Stonyhurst Philosophical Series (catalogue: London: Longmans, Green, 1918)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nsc-held": "Already on other shelves: Mercier's Manual of Modern Scholastic Philosophy, 2 vols (desire-joseph-mercier); Joseph Rickaby's Moral Philosophy and Scholasticism (joseph-rickaby)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "nsc-harper-metaphysics-1": {
+   "title": "The OCR head opens on the Introduction (it quotes Hobbes's Leviathan, as Harper's vol. I does); the volume's title page is lost; catalogue and the other two volumes confirm the set"
+  },
+  "nsc-ronayne-god-knowable": {
+   "author": "The OCR opens at Chapter I; the title page is lost; title and author are the catalogue's"
+  },
+  "nsc-louis-christian-philosophy": {
+   "author": "Title page reads 'adapted from the French of Brother Louis of Poissy'"
+  }
+ },
+ "_pending": {},
+ "_translators": {
+  "nsc-stockl-history-philosophy-1": "T. A. Finlay, S.J."
+ },
+ "_checks": {
+  "nsc-azarias-aristotle": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "azarias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-coppens-logic": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "coppens",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-coppens-moral": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "coppens",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[c1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-coppens-catholic-religion": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "coppens",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917, c1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-ming-data-ethics": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-louis-christian-philosophy": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "poissy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsc-elmendorf-moral-theology": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "elmendorf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsc-clarke-existence-god": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsc-john-rickaby-first-principles": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-john-rickaby-general-metaphysics": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-ronayne-god-knowable": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-aveling-god-of-philosophy": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "aveling",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-stockl-history-philosophy-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "azarias",
+   "translator_claimed": "T. A. Finlay, S.J.",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-harper-metaphysics-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "harper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-harper-metaphysics-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "harper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsc-harper-metaphysics-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "harper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-boedder-natural-theology": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsc-cornoldi-physical-system": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cornoldi",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-devas-political-economy": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsc-maher-psychology": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "[1918]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

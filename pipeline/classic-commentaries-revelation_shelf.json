@@ -1,0 +1,311 @@
+{
+ "_about": "Adam's Logos purchase 'Classic Commentaries and Studies on Revelation Upgrade (32 vols)', its titles as listed on logos.com read 2026-11-03, each found as a pre-1931 Internet Archive scan and its title page read (where only the catalogue was read, the row says so). One shelf for the bundle because its authors mostly have one book each; works already on another shelf are not repeated (listed under _excluded). Internet Archive OCR, raw; the 1600s and 1700s scans (EEBO and ECCO) carry heavy OCR noise. All pre-1931, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "revelation",
+  "apocalypse"
+ ],
+ "_surname": [
+  "holland",
+  "knollys",
+  "daubuz",
+  "desprez",
+  "maitland",
+  "cuninghame",
+  "milligan",
+  "hayden",
+  "reid",
+  "wells",
+  "douglass",
+  "benson",
+  "woodhouse",
+  "milner",
+  "todd",
+  "smith"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ccr-holland-epitome": [
+   "bim_early-english-books-1641-1700_an-exposition-or-a-shor_holland-hezekiah_1650",
+   "An Exposition, or a Short, but Full, Plaine, and Perfect Epitome of the Most Choice Commentaries upon the Revelation of Saint John, by Hezekiah Holland (London, 1650; EEBO scan)"
+  ],
+  "ccr-knollys-revelation": [
+   "bim_early-english-books-1641-1700_an-exposition-of-the-who_knollys-hanserd_1689",
+   "An Exposition of the Whole Book of the Revelation, by Hanserd Knollys (London, 1689; EEBO scan)"
+  ],
+  "ccr-daubuz-perpetual": [
+   "bim_eighteenth-century_a-perpetual-commentary-o_1720",
+   "A Perpetual Commentary on the Revelation of St. John, by Charles Daubuz (London, 1720; ECCO scan)"
+  ],
+  "ccr-desprez-daniel-john": [
+   "danieljohnorapoc00desp",
+   "Daniel and John: or, The Apocalypse of the Old and That of the New Testament, introduction by Rowland Williams, by Philip S. Desprez (London: C. Kegan Paul, 1878)"
+  ],
+  "ccr-maitland-enquiry": [
+   "anenquiryintogr00maitgoog",
+   "An Enquiry into the Grounds on Which the Prophetic Period of Daniel and St. John Has Been Supposed to Consist of 1260 Years, by S. R. Maitland (London: Hatchard; Gloucester: Hough, 1826)"
+  ],
+  "ccr-cuninghame-seals-trumpets": [
+   "adissertationon01cunigoog",
+   "A Dissertation on the Seals and Trumpets of the Apocalypse, and the Prophetical Period of Twelve Hundred and Sixty Years, 3rd ed. corrected and enlarged, by William Cuninghame (London: Thomas Cadell, Hatchard, and James Nisbet, 1832)"
+  ],
+  "ccr-milligan-apocalypse": [
+   "lecturesonapocal00mill",
+   "Lectures on the Apocalypse: The Baird Lecture, 1885, by William Milligan (London: Macmillan, 1892)"
+  ],
+  "ccr-hayden-ten-lectures": [
+   "cu31924029295157",
+   "The Apocalyptic Dispensation: Ten Lectures on the Book of Revelation, by William B. Hayden (Boston: T. H. Carter, 1865)"
+  ],
+  "ccr-reid-lectures": [
+   "lecturesonrevel00reidgoog",
+   "Lectures on the Revelation, by William J. Reid (Pittsburgh: Stevenson, Foster, 1878)"
+  ],
+  "ccr-wells-twenty-four": [
+   "twentyfourlectu00wellgoog",
+   "Twenty-Four Lectures on the Book of Revelation, by James Wells (London: E. Banks, 1870)"
+  ],
+  "ccr-douglass-four-lectures": [
+   "fourshortlecture00doug",
+   "Four Short Lectures on the Book of the Revelation, by Benjamin Douglass (Chicago, 1886)"
+  ],
+  "ccr-hsl-studies": [
+   "studiesonapocal00lgoog",
+   "Studies on the Apocalypse; or, An Attempt to Elucidate the Revelation of St. John, by H. S. L. (London: Hatchard; catalogue date 1838)"
+  ],
+  "ccr-benson-apocalypse": [
+   "theapocalypseani00bensuoft",
+   "The Apocalypse: An Introductory Study of the Revelation of St John the Divine, by Edward White Benson (London: Macmillan, 1900)"
+  ],
+  "ccr-woodhouse-apocalypse": [
+   "apocalypseorreve00wood",
+   "The Apocalypse, or Revelation of Saint John, Translated, with Notes Critical and Explanatory, by John Chappel Woodhouse (London: J. Hatchard; catalogue date 1805)"
+  ],
+  "ccr-milner-seven-churches": [
+   "historysevenchu00milngoog",
+   "History of the Seven Churches of Asia: Their Rise, Progress, and Decline, by Thomas Milner (London; catalogue date 1832)"
+  ],
+  "ccr-todd-antichrist": [
+   "sixdiscoursesonp00todd",
+   "Six Discourses on the Prophecies relating to Antichrist in the Apocalypse of St. John, by James Henthorn Todd (catalogue: Dublin: University Press, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ccr-newton-thoughts": "B. W. Newton, Thoughts on the Apocalypse: already on b-w-newton",
+  "ccr-vaughan": "C. J. Vaughan, Lectures on the Revelation: already on c-j-vaughan",
+  "ccr-williams": "Isaac Williams, The Apocalypse with Notes: already on isaac-williams",
+  "ccr-seiss": "Seiss, The Apocalypse: already on joseph-augustus-seiss",
+  "ccr-de-wette": "de Wette, Kurze Erklarung (German) and Bossuet, L'Apocalypse (French): not English; left out",
+  "ccr-mede": "Mede's Clavis in translation: joseph-mede already excludes the 1833 Cooper translation as translator's English; same here"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "ccr-hsl-studies": {
+   "author": "Published under the initials H. S. L. only; the title page matches the Logos listing"
+  },
+  "ccr-todd-antichrist": {
+   "title": "The head of the OCR is scan noise; title and imprint are the catalogue's"
+  },
+  "ccr-holland-epitome": {
+   "author": "EEBO OCR of the 1650 title page reads 'A short, but full, plaine, and EPITOME of the most choice Commentaries upon the REVELATION of Saint JOHN' with the author's name lost in the noise; the catalogue (and Logos) give Hezekiah Holland"
+  },
+  "ccr-knollys-revelation": {
+   "author": "EEBO OCR of the 1689 title page reads '... of the whole BOOK of the [Revelation] WHEREIN The Visions and Prophecies ...' with the author's name lost in the noise; the catalogue (and Logos) give Hanserd Knollys"
+  },
+  "ccr-wells-twenty-four": {
+   "author": "Title page read 2026-11-03: 'TWENTY-FOUR LECTURES ON THE BOOK OF REVELATION. By JAMES WELLS. LONDON: E. BANKS ... 1870'; the fetched text's surname check misses it"
+  }
+ },
+ "_pending": {
+  "ccr-giffard": "George Giffard, Sermons upon the Whole Booke of the Revelation (1596): no open scan found",
+  "ccr-waple": "Edward Waple, The Book of the Revelation Paraphras'd (1715): no open scan found",
+  "ccr-garratt": "Samuel Garratt, A Commentary on the Revelation: no open scan found",
+  "ccr-james-kelly": "James Kelly, Apocalyptic Interpretation: no open scan found",
+  "ccr-davidson": "Samuel Davidson, Outlines of a Commentary on Revelation: no open scan found",
+  "ccr-hoste": "William Hoste, The Visions of John the Divine: no open pre-1931 scan found",
+  "ccr-smith-revelation": "scan commentaryonreve0703smit (Commentary on the Revelation, An American Commentary on the New Testament, by Justin A. Smith (catalogue: Philadelphia: American Baptist Publication Society, 1884)) found, but archive.org returned HTTP 500 for its text file on 3 tries on 2026-11-03; retry later"
+ },
+ "_translators": {},
+ "_checks": {
+  "ccr-holland-epitome": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1650",
+   "ia_date": "1650",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccr-knollys-revelation": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1689",
+   "ia_date": "1689",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccr-daubuz-perpetual": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccr-desprez-daniel-john": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-maitland-enquiry": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "daubuz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-cuninghame-seals-trumpets": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-milligan-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "daubuz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-hayden-ten-lectures": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hayden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccr-reid-lectures": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-wells-twenty-four": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-douglass-four-lectures": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "douglass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-hsl-studies": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cuninghame",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-benson-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "milligan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-woodhouse-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "daubuz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-milner-seven-churches": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "daubuz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccr-todd-antichrist": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "daubuz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

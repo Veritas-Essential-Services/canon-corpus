@@ -2952,6 +2952,36 @@ Points you may want to rule on:
 
 Lane A is idle again after this pass (LOCK-A says so). 169 items on 19 shelves (18 new) in this pass, all pushed to claude/armarium-divines and in draft PR #44.
 
+## 2026-11-03 second pass: Adam's Logos collection bundles, and settling first-pass gaps
+
+Adam asked for more at 14:07Z, so this pass went past the author list into the multi-volume Logos bundles on his Libronix list. Each bundle's title list was read on logos.com, each title searched on archive.org for a pre-1931 scan, and each scan's title page read (the row says "catalogue" where only the catalogue was read). Same rules as before: US public domain only, no uids minted, Jowett skipped, and 1950s Baker or Eerdmans reprints and lending-library scans left out. Every `--verify --record` reported 0 mismatched.
+
+| Bundle or work | Shelved | Shelf |
+|---|---|---|
+| Classic Commentaries on Daniel | 9 | classic-commentaries-daniel (new) |
+| Classic Commentaries on Revelation | 16 | classic-commentaries-revelation (new) |
+| Classic Commentaries on Colossians | 4 | classic-commentaries-colossians (new) |
+| Classic Commentaries on the Pauline Epistles | 11 new (many others already held) | classic-commentaries-pauline (new) |
+| Classic Commentaries on the General and Pastoral Epistles | 9 | classic-commentaries-general-epistles (new) |
+| Classic Commentaries on Ecclesiastes and Song of Songs | 6 | classic-commentaries-ecclesiastes-song (new) |
+| Neo-Scholastic collection (Coppens, Harper, Rickaby, Maher, Boedder and others) | 20 | neo-scholastic-collection (new) |
+| Andrew Miller, Church History, vols II-III (Pickering & Inglis) | 2 | andrew-miller-brethren (new) |
+| Biblical Illustrator, Matthew (Nisbet) | +1 | biblical-illustrator |
+| Samuel Cox, Private Letters of St. Paul and St. John (Miall, 1867) | +1 (first-pass pending settled) | samuel-cox |
+| Wolston, Simon Peter (1893) and The Church: What Is It? | +2 | w-t-p-wolston |
+
+81 items on 11 shelves (8 new). Each bundle shelf lists what was already on another shelf, what has no open scan, and what was excluded.
+
+Points you may want to rule on:
+- **Miller's Church History vol. III** has Hoste's added chapter. The catalogue date is 1928. If the printing turns out to be from the 1930s, Hoste's chapter would not be US public domain. Its rights note says this. Vol. I has no open scan yet (`_pending`).
+- **Biblical Illustrator OT gaps:** the OT volumes still missing exist on archive.org only as Baker's 1950s-70s reprints, so they stay out (`_pending: exell-bi-ot-baker`).
+- **Neo-scholastic** is philosophy as much as theology. It is shelved here because it is on Adam's list; lane B may want to own it. Mercier and Joseph Rickaby were already held.
+- **Still pending, with no open scan or the scan's text failing:** Daniel: Miles vol. 2, Rule, Kelly's Seventy Weeks, St. Dalmas, Crosthwaite, Caldwell. Revelation: Giffard, Waple, Garratt, James Kelly, Davidson, Hoste's Visions of John, and Smith (its scan is found, but archive.org gave HTTP 500 on every try). Colossians: Cartwright, Kelly, Peirce (HTTP 500).
+- **Left out for copyright:** Roland Murphy (1961), Bourke and J. J. Müller (both modern).
+- **Luther's letters** in his Logos library are already on the martin-luther shelf (Currie 1908; Smith's Correspondence, vols 1-2).
+
+Resume point: retry the HTTP-500 items (ccr-smith-revelation, ccc-peirce) and look again for Miles's Daniel vol. 2 and Miller vol. I. The other Logos bundles on the Libronix list have not been opened yet.
+
 ## Paused 2026-10-25 at Adam's request
 
 Rounds 39 to 138 and Adam's Libronix authors are pushed. Nothing is half-built. To resume: start round 139 from scratch (no research has been done for it); candidates not yet checked include Thomas Sprat, Samuel Hinchliffe, Lewis Bagot, William Cleaver, John Denison and Thomas Claughton.

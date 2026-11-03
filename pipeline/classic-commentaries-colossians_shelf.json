@@ -1,0 +1,103 @@
+{
+ "_about": "Adam's Logos purchase 'Classic Commentaries and Studies on Colossians and Philemon Upgrade (8 vols)', its titles as listed on logos.com read 2026-11-03, each found as a pre-1931 Internet Archive scan and its title page read (where only the catalogue was read, the row says so). One shelf for the bundle because its authors mostly have one book each; works already on another shelf are not repeated (listed under _excluded). Internet Archive OCR, raw; the 1600s and 1700s scans (EEBO and ECCO) carry heavy OCR noise. All pre-1931, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "colossians",
+  "philemon"
+ ],
+ "_surname": [
+  "elton",
+  "gowen",
+  "hooper",
+  "dyke"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ccc-elton-colossians": [
+   "bim_early-english-books-1475-1640_an-exposition-of-the-epi_elton-edward_1620",
+   "An Exposition of the Epistle of Saint Paul to the Colossians, Delivered in Sundry Sermons, 2nd ed., by Edward Elton (London, 1620; EEBO scan)"
+  ],
+  "ccc-gowen-christ-colosse": [
+   "MN41513ucmf_11",
+   "Christ and Colosse, or The Gospel of the Fullness: Five Lectures on S. Paul's Epistle to the Colossians, by H. H. Gowen (London: Skeffington & Son; catalogue date 1922)"
+  ],
+  "ccc-hooper-sermon": [
+   "christlifeoftrue00hooprich",
+   "Christ the Life of True Believers, and Their Appearance with Him in Glory: A Sermon on Colossians III.4, by William Hooper (Boston: D. Fowle, 1741)"
+  ],
+  "ccc-dyke-two-treatises": [
+   "bim_early-english-books-1475-1640_two-treatises-the-one-_dyke-daniel_1618",
+   "Two Treatises: The One, a Most Fruitfull Exposition upon Philemon; The Other, The Schoole of Affliction, by Daniel Dyke (London, 1618; EEBO scan)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ccc-cox": "Samuel Cox, The Private Letters of St. Paul and St. John: put on samuel-cox (its pending item, resolved)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "ccc-gowen-christ-colosse": {
+   "author": "OCR reads 'H. H. OWEN'; the title page is H. H. Gowen's, Professor of Oriental Languages, University of Washington"
+  },
+  "ccc-elton-colossians": {
+   "author": "OCR reads 'EovvarD' over a garbled surname; the title page matches Elton's Colossians sermons, second edition",
+   "title": "EEBO OCR prints the long s, so 'Exposition' and 'Epistle' never match: the page reads 'SAINT PAVL TO THE COLOSSIANS, DELIVERED IN ſundry Sermons ... The second Edition, reuiſed'"
+  },
+  "ccc-dyke-two-treatises": {
+   "author": "OCR reads 'Dan1ieL Dyk x'"
+  }
+ },
+ "_pending": {
+  "ccc-cartwright": "Thomas Cartwright, Commentary upon Colossians (1612): no open scan found",
+  "ccc-kelly-colossians": "William Kelly, Lectures on Colossians: no open scan found",
+  "ccc-peirce": "James Peirce, Paraphrase and Notes on Colossians (1725): the ECCO scan's text file returned HTTP 500 when its title page was read; retry"
+ },
+ "_translators": {},
+ "_checks": {
+  "ccc-elton-colossians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "elton",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1620",
+   "ia_date": "1620",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccc-gowen-christ-colosse": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccc-hooper-sermon": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hooper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccc-dyke-two-treatises": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1618",
+   "ia_date": "1618",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

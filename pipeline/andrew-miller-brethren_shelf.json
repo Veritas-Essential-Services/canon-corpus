@@ -1,0 +1,64 @@
+{
+ "_about": "Andrew Miller (1810-1883), Plymouth Brethren writer, from the Brethren line of Adam's Libronix inventory: Miller's Church History (Short Papers on Church History), the later Pickering & Inglis edition in three volumes, whose third volume adds W. Hoste's 'Events During the Last Fifty Years'. Volume I has no open scan on the Internet Archive (MillersChurchHistory has no text file; millerschurchhis0000andr is a 1964 reprint). Internet Archive OCR, raw; title pages read 2026-11-03. Added by lane A. No uids minted.",
+ "_name_words": [
+  "andrew miller",
+  "church history"
+ ],
+ "_surname": [
+  "miller"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "miller-church-history-2": [
+   "millerschurchhis0002andr",
+   "Miller's Church History: Short Papers on Church History from the Apostolic Age to the Twentieth Century, vol. II: A.D. 1086 to 1530 (Glasgow: Pickering & Inglis; undated, catalogue date 1925)"
+  ],
+  "miller-church-history-3": [
+   "millerschurchhis0003andr",
+   "Miller's Church History: Short Papers on Church History from the Apostolic Age to the Twentieth Century, vol. III: A.D. 1530 to 1928, with Events During the Last Fifty Years by W. Hoste (London and Glasgow: Pickering & Inglis; undated, catalogue date 1928)"
+  ]
+ },
+ "_alternates": {
+  "miller-church-history-3": "millerschurchhis0003andr_n5w7 is another copy of the same printing"
+ },
+ "_excluded": {
+  "miller-church-history-1964": "millerschurchhis0000andr: a 1964 reprint"
+ },
+ "_rights_checked": {
+  "miller-church-history-2": "Undated; its list of volumes runs to A.D. 1924, so printed 1924 or later; catalogue 1925. Miller died 1883. Published before 1931, so US public domain",
+  "miller-church-history-3": "Undated; its title runs to A.D. 1928 and adds W. Hoste's chapter on the last fifty years; catalogue 1928. If this printing is 1928-1930 it is US public domain; if it is a 1930s reprint, Hoste's added chapter would not be. Flagged for Adam in DIGEST-A"
+ },
+ "_identity_checked": {},
+ "_pending": {
+  "miller-church-history-1": "Volume I (A.D. 32 to 1085): no open scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "miller-church-history-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Undated; its list of volumes runs to A.D. 1924, so printed 1924 or later; catalogue 1925. Miller died 1883. Published before 1931, so US public domain"
+  },
+  "miller-church-history-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Undated; its title runs to A.D. 1928 and adds W. Hoste's chapter on the last fifty years; catalogue 1928. If this printing is 1928-1930 it is US public domain; if it is a 1930s reprint, Hoste's added chapter would not be. Flagged for Adam in DIGEST-A"
+  }
+ }
+}
