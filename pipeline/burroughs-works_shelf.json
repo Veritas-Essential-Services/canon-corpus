@@ -192,6 +192,38 @@
   "erburroughs-outlaw-of-torn": [
    369,
    "The outlaw of Torn"
+  ],
+  "erburroughs-apache-devil": [
+   70101,
+   "Apache Devil"
+  ],
+  "erburroughs-land-of-hidden-men": [
+   70536,
+   "The Land of Hidden Men"
+  ],
+  "erburroughs-fighting-man-of-mars": [
+   70691,
+   "A Fighting Man of Mars"
+  ],
+  "erburroughs-tarzan-and-the-city-of-gold": [
+   71316,
+   "Tarzan and the City of Gold"
+  ],
+  "erburroughs-tarzan-and-the-lion-man": [
+   71370,
+   "Tarzan and the Lion Man"
+  ],
+  "erburroughs-tarzan-triumphant": [
+   71372,
+   "Tarzan Triumphant"
+  ],
+  "erburroughs-pirates-of-venus": [
+   70195,
+   "Pirates of Venus"
+  ],
+  "erburroughs-tarzan-the-invincible": [
+   71195,
+   "Tarzan the Invincible"
   ]
  },
  "internet_archive": {},
@@ -201,13 +233,13 @@
   "held-elsewhere": "PG 78: already on another shelf or in fetch_sources.py on some branch; not taken twice."
  },
  "_held": {
-  "post-1930": "HELD at the coordinator's pre-1931 rule for this author: PG 70101 Apache Devil (book 1933); PG 70536 The Land of Hidden Men (1932); PG 70691 A Fighting Man of Mars (book 1931); PG 70816 Lost on Venus (1933); PG 71316 Tarzan and the City of Gold (1933); PG 71370 Tarzan and the Lion Man (1934); PG 71372 Tarzan Triumphant (1932); PG 70195 Pirates of Venus (1932-1934); PG 71195 Tarzan the Invincible (book 1931). The text is from a post-1930 book printing, so it is not taken until Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 70101: no renewal found; US public domain by non-renewal. PG 70536: no renewal found; US public domain by non-renewal. PG 70691: no renewal found; US public domain by non-renewal. PG 70816: RENEWED: R305497 (1962) renews the book registered 15 Feb 1935, so the 1935 book text is in US copyright to the end of 2030; Gutenberg's text may come from the unrenewed 1933 Argosy serial, which was not checked here. Stays held. PG 71316: no renewal of the 1933 book found (RE126148 of 1982 renews a 1954 work of the same title, not this one). PG 71370: no renewal found; US public domain by non-renewal. PG 71372: no renewal found; US public domain by non-renewal. PG 70195: no renewal found; US public domain by non-renewal. PG 71195: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word.",
+  "post-1930": "Stays held: PG 70816 Lost on Venus (the 1935 book is renewed, R305497; the 1933 Argosy serial was not checked). (The rest of this hold moved to the shelf on 2026-11-03 by the non-renewal sweep; evidence in _nonrenewal.) Earlier note: HELD at the coordinator's pre-1931 rule for this author: PG 70101 Apache Devil (book 1933); PG 70536 The Land of Hidden Men (1932); PG 70691 A Fighting Man of Mars (book 1931); PG 70816 Lost on Venus (1933); PG 71316 Tarzan and the City of Gold (1933); PG 71370 Tarzan and the Lion Man (1934); PG 71372 Tarzan Triumphant (1932); PG 70195 Pirates of Venus (1932-1934); PG 71195 Tarzan the Invincible (book 1931). The text is from a post-1930 book printing, so it is not taken until Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 70101: no renewal found; US public domain by non-renewal. PG 70536: no renewal found; US public domain by non-renewal. PG 70691: no renewal found; US public domain by non-renewal. PG 70816: RENEWED: R305497 (1962) renews the book registered 15 Feb 1935, so the 1935 book text is in US copyright to the end of 2030; Gutenberg's text may come from the unrenewed 1933 Argosy serial, which was not checked here. Stays held. PG 71316: no renewal of the 1933 book found (RE126148 of 1982 renews a 1954 work of the same title, not this one). PG 71370: no renewal found; US public domain by non-renewal. PG 71372: no renewal found; US public domain by non-renewal. PG 70195: no renewal found; US public domain by non-renewal. PG 71195: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word.",
   "later-paperback-printings": "HELD: PG 70002 The eternal savage; PG 69703 The master mind of Mars; PG 331 The Mucker; PG 70199 Tanar of Pellucidar; PG 70589 Tarzan and the lost empire; PG 70815 Tarzan at the Earth's core: transcribed from 1960s Ace or Ballantine paperback reprints, which carry publisher matter and in one case a foreword by another hand; the text is not taken until an early printing is found or Adam rules."
  },
  "_checks": {
   "erburroughs-a-princess-of-mars": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -216,7 +248,7 @@
   },
   "erburroughs-gods-of-mars": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -225,7 +257,7 @@
   },
   "erburroughs-warlord-of-mars": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -234,7 +266,7 @@
   },
   "erburroughs-thuvia-maid-of-mars": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -243,7 +275,7 @@
   },
   "erburroughs-return-of-tarzan": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -252,7 +284,7 @@
   },
   "erburroughs-beasts-of-tarzan": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -261,7 +293,7 @@
   },
   "erburroughs-son-of-tarzan": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -270,7 +302,7 @@
   },
   "erburroughs-tarzan-and-the-jewels-of-opar": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -279,7 +311,7 @@
   },
   "erburroughs-monster-men": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -288,7 +320,7 @@
   },
   "erburroughs-jungle-tales-of-tarzan": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -297,7 +329,7 @@
   },
   "erburroughs-at-the-earths-core": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -306,7 +338,7 @@
   },
   "erburroughs-lost-continent": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -315,7 +347,7 @@
   },
   "erburroughs-oakdale-affair": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -324,7 +356,7 @@
   },
   "erburroughs-mad-king": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -333,7 +365,7 @@
   },
   "erburroughs-land-that-time-forgot": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -342,7 +374,7 @@
   },
   "erburroughs-people-that-time-forgot": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -351,7 +383,7 @@
   },
   "erburroughs-out-of-times-abyss": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -360,7 +392,7 @@
   },
   "erburroughs-pellucidar": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -369,7 +401,7 @@
   },
   "erburroughs-chessmen-of-mars": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -378,7 +410,7 @@
   },
   "erburroughs-tarzan-the-untamed": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -387,7 +419,7 @@
   },
   "erburroughs-efficiency-expert": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -396,7 +428,7 @@
   },
   "erburroughs-tarzan-and-the-golden-lion": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -405,7 +437,7 @@
   },
   "erburroughs-moon-maid": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -414,7 +446,7 @@
   },
   "erburroughs-tarzan-and-the-ant-men": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -423,7 +455,7 @@
   },
   "erburroughs-girl-from-hollywood": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -432,7 +464,7 @@
   },
   "erburroughs-cave-girl": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -441,7 +473,7 @@
   },
   "erburroughs-war-chief": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -450,7 +482,7 @@
   },
   "erburroughs-tarzan-twins": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -459,7 +491,7 @@
   },
   "erburroughs-tarzan-lord-of-the-jungle": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -468,7 +500,7 @@
   },
   "erburroughs-illustrated-tarzan-book-no-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -477,7 +509,7 @@
   },
   "erburroughs-tarzan-the-terrible": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
@@ -486,12 +518,94 @@
   },
   "erburroughs-outlaw-of-torn": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-apache-devil": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-land-of-hidden-men": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-fighting-man-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-and-the-city-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-and-the-lion-man": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-triumphant": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-pirates-of-venus": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-the-invincible": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar rice burroughs",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "erburroughs-apache-devil": "PG 70101, Apache Devil (1933). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "erburroughs-land-of-hidden-men": "PG 70536, The Land of Hidden Men (1932). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "erburroughs-fighting-man-of-mars": "PG 70691, A Fighting Man of Mars (1931). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "erburroughs-tarzan-and-the-city-of-gold": "PG 71316, Tarzan and the City of Gold (1933). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no full-title renewal of the 1933 book (RE126148, 1982, renews Tony Sgroi's 1954 'Tarzan and the city of gold', another work). Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "erburroughs-tarzan-and-the-lion-man": "PG 71370, Tarzan and the Lion Man (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "erburroughs-tarzan-triumphant": "PG 71372, Tarzan Triumphant (1932). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal of the 1932 book (R676470 renews a 1950 'Triumphant' newspaper strip, another work). Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "erburroughs-pirates-of-venus": "PG 70195, Pirates of Venus (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "erburroughs-tarzan-the-invincible": "PG 71195, Tarzan the Invincible (1931). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Edgar Rice Burroughs was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }

@@ -286,6 +286,10 @@
    {
     "contents_only": true
    }
+  ],
+  "pgwodehouse-right-ho-jeeves": [
+   10554,
+   "Right Ho, Jeeves"
   ]
  },
  "internet_archive": {},
@@ -293,13 +297,10 @@
   "pg-58508": "PG 58508: Gutenberg's index of the author's works, not a book.",
   "held-elsewhere": "PG 75435: already on another shelf or in fetch_sources.py on some branch; not taken twice."
  },
- "_held": {
-  "post-1930": "HELD at the coordinator's pre-1931 rule for this author: PG 10554 Right Ho, Jeeves, first published 1934. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 10554: no renewal found (RE428407 is How Right You Are, Jeeves, 1960, a different book). Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "pgwodehouse-piccadilly-jim": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -308,7 +309,7 @@
   },
   "pgwodehouse-something-new": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -317,7 +318,7 @@
   },
   "pgwodehouse-a-damsel-in-distress": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -326,7 +327,7 @@
   },
   "pgwodehouse-psmith-journalist": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -335,7 +336,7 @@
   },
   "pgwodehouse-indiscretions-of-archie": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -344,7 +345,7 @@
   },
   "pgwodehouse-love-among-the-chickens": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -353,7 +354,7 @@
   },
   "pgwodehouse-intrusion-of-jimmy": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -362,7 +363,7 @@
   },
   "pgwodehouse-little-nugget": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -371,7 +372,7 @@
   },
   "pgwodehouse-uneasy-money": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -380,7 +381,7 @@
   },
   "pgwodehouse-psmith-in-the-city": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -389,7 +390,7 @@
   },
   "pgwodehouse-man-upstairs-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -398,7 +399,7 @@
   },
   "pgwodehouse-three-men-and-a-maid": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -407,7 +408,7 @@
   },
   "pgwodehouse-little-warrior": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -416,7 +417,7 @@
   },
   "pgwodehouse-head-of-kays": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -425,7 +426,7 @@
   },
   "pgwodehouse-gold-bat": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -434,7 +435,7 @@
   },
   "pgwodehouse-coming-of-bill": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -443,7 +444,7 @@
   },
   "pgwodehouse-white-feather": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -452,7 +453,7 @@
   },
   "pgwodehouse-prince-and-betty": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -461,7 +462,7 @@
   },
   "pgwodehouse-tales-of-st-austins": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -470,7 +471,7 @@
   },
   "pgwodehouse-pothunters": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -479,7 +480,7 @@
   },
   "pgwodehouse-a-prefects-uncle": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -488,7 +489,7 @@
   },
   "pgwodehouse-clicking-of-cuthbert": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -497,7 +498,7 @@
   },
   "pgwodehouse-swoop": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -506,7 +507,7 @@
   },
   "pgwodehouse-not-george-washington-an-autobiographical-novel": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -515,7 +516,7 @@
   },
   "pgwodehouse-william-tell-told-again": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -524,7 +525,7 @@
   },
   "pgwodehouse-mike": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -533,7 +534,7 @@
   },
   "pgwodehouse-adventures-of-sally": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -542,7 +543,7 @@
   },
   "pgwodehouse-man-with-two-left-feet-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -551,7 +552,7 @@
   },
   "pgwodehouse-my-man-jeeves": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -560,7 +561,7 @@
   },
   "pgwodehouse-death-at-the-excelsior-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -569,7 +570,7 @@
   },
   "pgwodehouse-politeness-of-princes-and-other-school-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -578,7 +579,7 @@
   },
   "pgwodehouse-a-wodehouse-miscellany": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -587,7 +588,7 @@
   },
   "pgwodehouse-a-man-of-means": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -596,7 +597,7 @@
   },
   "pgwodehouse-gem-collector": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -605,7 +606,7 @@
   },
   "pgwodehouse-mike-and-psmith": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -614,7 +615,7 @@
   },
   "pgwodehouse-love-among-the-chickens-a-story-of-the-haps-and": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -623,7 +624,7 @@
   },
   "pgwodehouse-jill-the-reckless": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -632,7 +633,7 @@
   },
   "pgwodehouse-girl-on-the-boat": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -641,7 +642,7 @@
   },
   "pgwodehouse-inimitable-jeeves": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -650,7 +651,7 @@
   },
   "pgwodehouse-leave-it-to-psmith": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -659,7 +660,7 @@
   },
   "pgwodehouse-ukridge": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -668,7 +669,7 @@
   },
   "pgwodehouse-a-gentleman-of-leisure": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -677,7 +678,7 @@
   },
   "pgwodehouse-carry-on-jeeves": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -686,7 +687,7 @@
   },
   "pgwodehouse-sam-in-the-suburbs": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -695,7 +696,7 @@
   },
   "pgwodehouse-small-bachelor": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -704,7 +705,7 @@
   },
   "pgwodehouse-meet-mr-mulliner": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -713,7 +714,7 @@
   },
   "pgwodehouse-divots": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -722,7 +723,7 @@
   },
   "pgwodehouse-money-for-nothing": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -731,7 +732,7 @@
   },
   "pgwodehouse-plays-the-thing": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -740,7 +741,7 @@
   },
   "pgwodehouse-very-good-jeeves": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
@@ -749,12 +750,24 @@
   },
   "pgwodehouse-mr-mulliner-speaking": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "p. g. wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pgwodehouse-right-ho-jeeves": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "p. g. wodehouse",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "pgwodehouse-right-ho-jeeves": "PG 10554, Right Ho, Jeeves (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal under 'Right Ho, Jeeves' or its US title 'Brinkley Manor'. Lane D's Stanford search the same day found none either. Wodehouse was British, but the novel was first published in the US (serialised in The Saturday Evening Post, Dec. 1933-Jan. 1934; Little, Brown issued it as Brinkley Manor in 1934), so it is a US work that needed US renewal and URAA restoration does not reach it; Project Gutenberg released it under the same reading. US public domain by non-renewal; moved from _held."
  }
 }

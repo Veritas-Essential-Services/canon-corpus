@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain A. T. Robertson (Archibald Thomas Robertson, 1863-1934), Southern Baptist Greek scholar, for the Word Hoard: his books printed before 1930, among them A Grammar of the Greek New Testament in the Light of Historical Research (copyright 1914), A Harmony of the Gospels (1922), Epochs in the Life of Jesus (1907) and of St. Paul (1909), the Life and Letters of John Albert Broadus (1901), Luke the Historian (1920), The Pharisees and Jesus (1920) and The Wisdom of James (1915), from Internet Archive scans and Project Gutenberg. Not James Craigie Robertson or F. W. Robertson. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain A. T. Robertson (Archibald Thomas Robertson, 1863-1934), Southern Baptist Greek scholar, for the Word Hoard: his books printed before 1930, among them A Grammar of the Greek New Testament in the Light of Historical Research (copyright 1914), A Harmony of the Gospels (1922), Epochs in the Life of Jesus (1907) and of St. Paul (1909), the Life and Letters of John Albert Broadus (1901), Luke the Historian (1920), The Pharisees and Jesus (1920) and The Wisdom of James (1915), from Internet Archive scans and Project Gutenberg. Not James Craigie Robertson or F. W. Robertson. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. Word Pictures vols. I-III (1930) added 2026-11-03 (1930 books are public domain since 2026); vol. IV (1931) is unrenewed and waits for a scan.",
  "_name_words": [
   "robertson"
  ],
@@ -44,23 +44,40 @@
   "atrobertson-wisdom-james": [
    "practicalsociala00robeuoft",
    "Practical and Social Aspects of Christianity: The Wisdom of James (New York: George H. Doran; copyright 1915)"
+  ],
+  "atrobertson-word-pictures-1": [
+   "wordpicturesinne01robe",
+   "Word Pictures in the New Testament, vol. 1: The Gospel according to Matthew; The Gospel according to Mark (New York: Richard R. Smith, 1930)"
+  ],
+  "atrobertson-word-pictures-2": [
+   "wordpicturesinne02robe_0",
+   "Word Pictures in the New Testament, vol. 2: The Gospel according to Luke (New York: Richard R. Smith, 1930)"
+  ],
+  "atrobertson-word-pictures-3": [
+   "wordpicturesinne03robe_0",
+   "Word Pictures in the New Testament, vol. 3: The Acts of the Apostles (New York: Richard R. Smith, 1930)"
   ]
  },
  "_alternates": {
   "atrobertson-copies": "Another Grammar copy; the Doran Harmony (1922); Broadus's Harmony with his notes (1893) and revised by him (1903); A Short Grammar (copyright 1908, a later printing)"
  },
  "_excluded": {
-  "atrobertson-later": "Word Pictures in the New Testament (CCEL, 1930-33); Studies in the Epistle of James as revised by Peacock (PG 48411, 1959)"
+  "atrobertson-later": "Studies in the Epistle of James as revised by Peacock (PG 48411, 1959). Word Pictures vols. V (1932) and VI (1933) are RENEWED (R250625, R251316, 1960): US copyright to 2028 and 2029, on the wordhoard release queue's terms. Vols. I-III (1930) are on the shelf; vol. IV in _pending."
  },
  "_rights_checked": {
-  "atrobertson-grammar": "title page read: year not on the title page, copyright 1914; Robertson died 1934, so these pre-1930 books are US public domain but in UK copyright"
+  "atrobertson-grammar": "title page read: year not on the title page, copyright 1914; Robertson died 1934, so these pre-1930 books are US public domain but in UK copyright",
+  "atrobertson-word-pictures-1": "Published 1930 (Princeton Theological Seminary copy): a 1930 US book is public domain since 2026-01-01 whatever its renewal. Added 2026-11-03 by the non-renewal sweep, which re-read the old 'after 1929' exclusion.",
+  "atrobertson-word-pictures-2": "Published 1930 (Princeton Theological Seminary copy): a 1930 US book is public domain since 2026-01-01 whatever its renewal. Added 2026-11-03 by the non-renewal sweep, which re-read the old 'after 1929' exclusion.",
+  "atrobertson-word-pictures-3": "Published 1930 (Princeton Theological Seminary copy): a 1930 US book is public domain since 2026-01-01 whatever its renewal. Added 2026-11-03 by the non-renewal sweep, which re-read the old 'after 1929' exclusion."
  },
- "_pending": {},
+ "_pending": {
+  "atrobertson-word-pictures-4": "Word Pictures in the New Testament, vol. IV: The Epistles of Paul (New York: Richard R. Smith, 1931). US PUBLIC DOMAIN NOW by non-renewal: vols. V and VI were renewed in 1960 (R250625, R251316) but NYPL's cce-renewals holds no renewal of vol. IV (due 1958-59; searched 2026-11-03 with pipeline/renewal_check.py). No open scan found on archive.org (vols. I-III only); CCEL's text of the whole set is keyed from an unstated later printing. Wants a 1931 scan."
+ },
  "_translators": {},
  "_checks": {
   "atrobertson-harmony": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -69,7 +86,7 @@
   },
   "atrobertson-grammar": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -81,7 +98,7 @@
   },
   "atrobertson-epochs-jesus": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -92,7 +109,7 @@
   },
   "atrobertson-epochs-paul": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -103,7 +120,7 @@
   },
   "atrobertson-broadus": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -114,7 +131,7 @@
   },
   "atrobertson-luke-historian": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -125,7 +142,7 @@
   },
   "atrobertson-pharisees": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -136,7 +153,7 @@
   },
   "atrobertson-wisdom-james": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. t. robertson",
    "identity": "ok",
@@ -144,6 +161,42 @@
    "ia_date": "[c1915]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "atrobertson-word-pictures-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Published 1930 (Princeton Theological Seminary copy): a 1930 US book is public domain since 2026-01-01 whatever its renewal. Added 2026-11-03 by the non-renewal sweep, which re-read the old 'after 1929' exclusion."
+  },
+  "atrobertson-word-pictures-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Published 1930 (Princeton Theological Seminary copy): a 1930 US book is public domain since 2026-01-01 whatever its renewal. Added 2026-11-03 by the non-renewal sweep, which re-read the old 'after 1929' exclusion."
+  },
+  "atrobertson-word-pictures-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "a. t. robertson",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Published 1930 (Princeton Theological Seminary copy): a 1930 US book is public domain since 2026-01-01 whatever its renewal. Added 2026-11-03 by the non-renewal sweep, which re-read the old 'after 1929' exclusion."
   }
  }
 }

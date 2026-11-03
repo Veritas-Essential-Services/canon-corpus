@@ -1,0 +1,41 @@
+{
+ "_about": "A. W. Tozer (Aiden Wilson Tozer, 1897-1963), American pastor and author, Christian and Missionary Alliance, for the Word Hoard. Added 2026-11-03 by the non-renewal sweep (Adam 2026-11-03: \"I want everything that was not renewed\"). Only The Pursuit of God (1948) is US public domain: it was never renewed. His other books of 1950-1961 were renewed (see _waiting). Not H. F. Tozer, the geographer (tozer shelf). No uids minted.",
+ "_name_words": [
+  "tozer"
+ ],
+ "_surname": [
+  "a. w. tozer",
+  "aiden wilson tozer",
+  "tozer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "awtozer-pursuit-of-god": [
+   25141,
+   "The Pursuit of God (Harrisburg, Pa.: Christian Publications, copyright 1948)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "awtozer-pursuit-of-god": "Non-renewal sweep 2026-11-03. Copyright MCMXLVIII (1948) by Christian Publications, Inc., Harrisburg, Pa. (the Gutenberg text's own line). Tozer was American and the book was published in the US, so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991; this one was due in 1975-76), surname plus title words: no renewal, while The Divine Conquest (R676512), The Root of the Righteous, Born after Midnight, Of God and Men and The Knowledge of the Holy all show theirs. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_waiting": {
+  "awtozer-divine-conquest": "The Divine Conquest (1950): A49796, renewed R676512 (1977). US public domain 2046-01-01.",
+  "awtozer-root-of-the-righteous": "The Root of the Righteous (1955): A196581, renewed RE171836 (1983). 2051-01-01.",
+  "awtozer-born-after-midnight": "Born after Midnight (1959): A417430, renewed RE365499 (1987). 2055-01-01.",
+  "awtozer-of-god-and-men": "Of God and Men (1960): A476139, renewed RE384627 (1988). 2056-01-01.",
+  "awtozer-knowledge-of-the-holy": "The Knowledge of the Holy (1961): A519532, renewed RE445624 (1989). 2057-01-01."
+ },
+ "_excluded": {},
+ "_checks": {
+  "awtozer-pursuit-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "a. w. tozer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

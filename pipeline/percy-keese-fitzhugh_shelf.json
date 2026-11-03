@@ -284,17 +284,26 @@
    {
     "contents_only": true
    }
+  ],
+  "pkfitzhugh-prisoners-in-devils-bog": [
+   46417,
+   "Prisoners in Devil's Bog"
+  ],
+  "pkfitzhugh-lost-mine-of-the-amazon": [
+   49989,
+   "The Lost Mine of the Amazon"
+  ],
+  "pkfitzhugh-among-the-river-pirates": [
+   53695,
+   "Among the River Pirates"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
- "_held": {
-  "post-1930": "HELD: PG 46417 Prisoners in Devil's Bog: A Skippy Dare Mystery Story (1934); PG 49989 The Lost Mine of the Amazon: A Hal Keen Mystery Story (1933); PG 53695 Among the River Pirates: A Skippy Dare Mystery Story (1934). The printed copyright line is after 1930. Adam's rule is US public domain; a post-1930 book is PD in the US only if its copyright was never renewed, which has not been checked here, so these are not taken until that is checked or Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 46417: no renewal found; US public domain by non-renewal. PG 49989: no renewal found; US public domain by non-renewal. PG 53695: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "pkfitzhugh-tom-slade": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -303,7 +312,7 @@
   },
   "pkfitzhugh-pee-wee-harris": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -312,7 +321,7 @@
   },
   "pkfitzhugh-roy-blakeleys-adventures-in-camp": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -321,7 +330,7 @@
   },
   "pkfitzhugh-roy-blakeley": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -330,7 +339,7 @@
   },
   "pkfitzhugh-pee-wee-harris-on-the-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -339,7 +348,7 @@
   },
   "pkfitzhugh-pee-wee-harris-adrift": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -348,7 +357,7 @@
   },
   "pkfitzhugh-tom-slade-on-mystery-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -357,7 +366,7 @@
   },
   "pkfitzhugh-tom-slade-at-black-lake": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -366,7 +375,7 @@
   },
   "pkfitzhugh-tom-slade-with-the-boys-over-there": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -375,7 +384,7 @@
   },
   "pkfitzhugh-tom-slade-motorcycle-dispatch-bearer": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -384,7 +393,7 @@
   },
   "pkfitzhugh-tom-slade-at-temple-camp": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -393,7 +402,7 @@
   },
   "pkfitzhugh-tom-slades-double-dare": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -402,7 +411,7 @@
   },
   "pkfitzhugh-roy-blakeley-pathfinder": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -411,7 +420,7 @@
   },
   "pkfitzhugh-tom-slade-with-the-colors": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -420,7 +429,7 @@
   },
   "pkfitzhugh-tom-slade-on-a-transport": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -429,7 +438,7 @@
   },
   "pkfitzhugh-roy-blakeleys-bee-line-hike": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -438,7 +447,7 @@
   },
   "pkfitzhugh-roy-blakeleys-camp-on-wheels": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -447,7 +456,7 @@
   },
   "pkfitzhugh-roy-blakeley-in-the-haunted-camp": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -456,7 +465,7 @@
   },
   "pkfitzhugh-tom-slade-on-the-river": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -465,7 +474,7 @@
   },
   "pkfitzhugh-roy-blakeleys-silver-fox-patrol": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -474,7 +483,7 @@
   },
   "pkfitzhugh-roy-blakeleys-motor-caravan": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -483,7 +492,7 @@
   },
   "pkfitzhugh-roy-blakeley-44485": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -492,7 +501,7 @@
   },
   "pkfitzhugh-pee-wee-harris-in-luck": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -501,7 +510,7 @@
   },
   "pkfitzhugh-pee-wee-harris-f-o-b-bridgeboro": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -510,7 +519,7 @@
   },
   "pkfitzhugh-tom-slade-on-overlook-mountain": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -519,7 +528,7 @@
   },
   "pkfitzhugh-tom-slade-with-the-flying-corps": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -528,7 +537,7 @@
   },
   "pkfitzhugh-roy-blakeleys-funny-bone-hike": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -537,7 +546,7 @@
   },
   "pkfitzhugh-along-the-mohawk-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -546,7 +555,7 @@
   },
   "pkfitzhugh-roy-blakeleys-tangled-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -555,7 +564,7 @@
   },
   "pkfitzhugh-pee-wee-harris-61094": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -564,7 +573,7 @@
   },
   "pkfitzhugh-tom-slade-picks-a-winner": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -573,7 +582,7 @@
   },
   "pkfitzhugh-westy-martin-in-the-yellowstone": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -582,7 +591,7 @@
   },
   "pkfitzhugh-westy-martin": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -591,7 +600,7 @@
   },
   "pkfitzhugh-hervey-willetts": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -600,7 +609,7 @@
   },
   "pkfitzhugh-tom-slade-at-bear-mountain": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -609,7 +618,7 @@
   },
   "pkfitzhugh-westy-martin-on-the-santa-fe-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -618,7 +627,7 @@
   },
   "pkfitzhugh-westy-martin-in-the-rockies": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -627,7 +636,7 @@
   },
   "pkfitzhugh-tom-slade-in-the-north-woods": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -636,7 +645,7 @@
   },
   "pkfitzhugh-pee-wee-harris-in-camp": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -645,7 +654,7 @@
   },
   "pkfitzhugh-roy-blakeleys-roundabout-hike": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -654,7 +663,7 @@
   },
   "pkfitzhugh-skinny-mccord": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
@@ -663,12 +672,44 @@
   },
   "pkfitzhugh-king-time": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "percy keese fitzhugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkfitzhugh-prisoners-in-devils-bog": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "percy keese fitzhugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkfitzhugh-lost-mine-of-the-amazon": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "percy keese fitzhugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pkfitzhugh-among-the-river-pirates": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "percy keese fitzhugh",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "pkfitzhugh-prisoners-in-devils-bog": "PG 46417, Prisoners in Devil's Bog (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Percy Keese Fitzhugh was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "pkfitzhugh-lost-mine-of-the-amazon": "PG 49989, The Lost Mine of the Amazon (1933). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Percy Keese Fitzhugh was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "pkfitzhugh-among-the-river-pirates": "PG 53695, Among the River Pirates (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Percy Keese Fitzhugh was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }

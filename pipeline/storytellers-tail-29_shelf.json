@@ -240,17 +240,18 @@
   "amfitch-better-days": [
    67835,
    "Better days; or, A Millionaire of To-morrow"
+  ],
+  "wffauley-shuddering-castle": [
+   71806,
+   "Shuddering Castle"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
- "_held": {
-  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 71806 Shuddering castle (copyright line 1936). The text names a 1931 or later copyright, so it is not taken until Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 71806: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "aeric-boy-crusoe": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "allan eric",
    "identity": "ok",
@@ -259,7 +260,7 @@
   },
   "chernst-mark-of-the-knife": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "clayton h. ernst",
    "identity": "ok",
@@ -268,7 +269,7 @@
   },
   "cevans-my-neighbors": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "caradoc evans",
    "identity": "ok",
@@ -277,7 +278,7 @@
   },
   "cevans-eurasia": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "christopher evans",
    "identity": "ok",
@@ -286,7 +287,7 @@
   },
   "seveleth-miss-dexie": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "stanford eveleth",
    "identity": "ok",
@@ -295,7 +296,7 @@
   },
   "mlbewell-harvest-of-years": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "martha lewis beckwith ewell",
    "identity": "ok",
@@ -304,7 +305,7 @@
   },
   "jewing-history-of-the-9th-scottish-division-1914-1919": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "john ewing",
    "identity": "ok",
@@ -313,7 +314,7 @@
   },
   "jeyerman-peachmonk": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "john eyerman",
    "identity": "ok",
@@ -322,7 +323,7 @@
   },
   "lfalconer-cecilia-de-noel": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "lanoe falconer",
    "identity": "ok",
@@ -331,7 +332,7 @@
   },
   "wcfalkner-white-rose-of-memphis": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "william c. falkner",
    "identity": "ok",
@@ -340,7 +341,7 @@
   },
   "vjfarnsworth-house-we-live-in": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "vesta j. farnsworth",
    "identity": "ok",
@@ -349,7 +350,7 @@
   },
   "rfarrer-sundered-streams": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "reginald farrer",
    "identity": "ok",
@@ -358,7 +359,7 @@
   },
   "sfea-irish-ned-the-winnipeg-newsy": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "samuel fea",
    "identity": "ok",
@@ -367,7 +368,7 @@
   },
   "cfelix-notting-hill-mystery": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "charles felix",
    "identity": "ok",
@@ -376,7 +377,7 @@
   },
   "jfellom-rider-of-the-mohave": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "james fellom",
    "identity": "ok",
@@ -385,7 +386,7 @@
   },
   "asfenn-jack-s-two-sovereigns": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. s. fenn",
    "identity": "ok",
@@ -394,7 +395,7 @@
   },
   "efenner-history-of-battery-h-first-regiment-rhode-island-lig": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "earl fenner",
    "identity": "ok",
@@ -403,7 +404,7 @@
   },
   "klferguson-cliquot": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "kate lee ferguson",
    "identity": "ok",
@@ -412,7 +413,7 @@
   },
   "sferguson-father-tom-and-the-pope": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "samuel ferguson",
    "identity": "ok",
@@ -421,7 +422,7 @@
   },
   "wjferrar-fall-of-the-grand-sarrasin": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "william john ferrar",
    "identity": "ok",
@@ -430,7 +431,7 @@
   },
   "sferrier-marriage": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "susan ferrier",
    "identity": "ok",
@@ -439,7 +440,7 @@
   },
   "ldfessenden-hatsu": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "laura dayton fessenden",
    "identity": "ok",
@@ -448,7 +449,7 @@
   },
   "emfield-mixed-pickles": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "e. m. field",
    "identity": "ok",
@@ -457,7 +458,7 @@
   },
   "rmfield-romance-of-an-old-fool": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roswell martin field",
    "identity": "ok",
@@ -466,7 +467,7 @@
   },
   "sfield-cupid-s-understudy": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "salisbury field",
    "identity": "ok",
@@ -475,7 +476,7 @@
   },
   "fvfisher-transformation-of-job": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "frederick vining fisher",
    "identity": "ok",
@@ -484,7 +485,7 @@
   },
   "rbfiske-count-of-nideck-adapted-from-the-french-of-erckmann": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ralph browning fiske",
    "identity": "ok",
@@ -493,7 +494,7 @@
   },
   "afisler-stories-of-a-governess": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "annie fisler",
    "identity": "ok",
@@ -502,12 +503,24 @@
   },
   "amfitch-better-days": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "anna m. fitch",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "wffauley-shuddering-castle": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wilbur finley fauley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "wffauley-shuddering-castle": "PG 71806, Shuddering Castle (1936). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Wilbur Finley Fauley was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }
