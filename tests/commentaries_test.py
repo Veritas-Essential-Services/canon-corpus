@@ -305,8 +305,9 @@ check("pins: the Horae's printed year is 1859, labelled as the sheets, the copie
 check("pins: every edition printed before 1929", all(s["printed"] < 1929 for s in list(B.SCANS.values()) + list(B.GUTENBERG.values())))
 check("pins: every scan's Internet Archive date (pinned from its metadata; fetch() stops if it changes) is "
       "before 1929 and is the edition's printed year, or a note says why not",
-      all(re.match(r"\d{4}", v.get("ia_date", "")) and int(v["ia_date"][:4]) < 1929 and v["printed"] < 1929
-          and (int(v["ia_date"][:4]) == v["printed"] or v.get("ia_date_note"))
+      all(re.match(r"\[?\d{4}", v.get("ia_date", "")) and int(re.search(r"\d{4}", v["ia_date"]).group()) < 1929
+          and v["printed"] < 1929        # WAVE8: an undated issue is catalogued '[1897?-1910?]'
+          and (int(re.search(r"\d{4}", v["ia_date"]).group()) == v["printed"] or v.get("ia_date_note"))
           for s in B.SCANS.values() for v in B.volumes(s)))
 
 # -- the second shelf's ranges (Keil & Delitzsch)
@@ -343,8 +344,11 @@ LOW_GREEK = {"hort-ante-nicene", "lightfoot-horae"}     # lectures; and the Hora
 check("manifest: the commentaries' Greek survived as Greek (over 5% of letters)",
       all(ents[k]["measure"]["greek"]["greek_share_of_letters"] > 0.05 for k in B.ORDER
           if k not in LOW_GREEK and B.SCANS.get(k, {}).get("reader") not in B.KD_READERS))
+# WAVE8: the EGT's margins cite whole chapters ('Acts 15') and the Apocrypha, which resolve to no KJV verse
+# (measured on vol. V: 435 of 837 unresolved), so its floor is 75%
 check("manifest: most scripture references resolve",
-      all(e["measure"]["scripture_links"]["resolved"] >= 0.8 * e["measure"]["scripture_links"]["read"]
+      all(e["measure"]["scripture_links"]["resolved"]
+          >= (0.75 if B.SCANS.get(k, {}).get("reader") == "egt" else 0.8) * e["measure"]["scripture_links"]["read"]
           for k, e in ents.items() if k not in LOW_GREEK))
 check("manifest: Hort is by page, six lectures found",
       ents["hort-ante-nicene"]["scheme"]["resolution"] == "page" and ents["hort-ante-nicene"]["measure"]["lecture_headings"] == 6)
@@ -862,6 +866,65 @@ for k in B.KD4D:
 if "delitzsch-job-2" in ents:
     check("manifest: Delitzsch's Job II is measured as numbered in the Hebrew",
           ents["delitzsch-job-2"]["scheme"]["numbering"]["Job"] == "hebrew")
+
+# -- WAVE8: the Expositor's Greek Testament (reader egt), on made-up lines
+check("egt: 'Ver. 4.' and 'Vv. 2-6.' open a note; 'Vvy.1,2.' (OCR) and 'Ver. 7f.' too",
+      B.egt_open("Ver. 4. some words") == (None, 4, None, "read")
+      and B.egt_open("Vv. 2-6. some words") == (None, 2, 6, "read")
+      and B.egt_open("Vvy.1,2. some words") == (None, 1, 2, "read")
+      and B.egt_open("Ver. 7f. some words") == (None, 7, None, "read"))
+check("egt: a word that is not an opener is not one", B.egt_open("Verily the words") is None
+      and B.egt_open("Very 3 words") is None)
+check("egt: 'CHAPTER IV.—Ver. 1.' is a heading, and the opener after it is read",
+      B.egt_cands("CHAPTER IV.—Ver. 1. some words", "a line without an end") == (4, [(12, (None, 1, None, "read"))]))
+check("egt: 'CuapTer III.— Vv. 1-6.' (OCR) is read as chapter III",
+      B.egt_cands("CuapTer III.— Vv. 1-6. made-up words", "")[0] == 3)
+check("egt: a heading on a line of its own ('CHAPTER I. THE GENEALOGY') moves the chapter, no opener",
+      B.egt_cands("CHAPTER I. THE GENEALOGY", "end.") == (1, []))
+check("egt: a line-start 'Ver.' after a sentence's end opens a note; mid-sentence, unindented, it does not",
+      B.egt_cands("Ver. 9. made-up words", "the end of a sentence.")[1] == [(0, (None, 9, None, "read"))]
+      and B.egt_cands("Ver. 9. made-up words", "see the note on")[1] == [])
+check("egt: an indented line opens a note even where the OCR lost the period before",
+      B.egt_cands("Ver. 9. made-up words", "see the note on", True)[1] == [(0, (None, 9, None, "read"))])
+check("egt: an opener run on after a dash is read; a 'ver.' reference inside a sentence is not",
+      B.egt_cands("made-up words.—Ver. 14. more words", "x.")[1] == [(15, (None, 14, None, "read"))]
+      and B.egt_cands("as in ver. 14. more words", "x.")[1] == [])
+_d = {"Jas": B.HeadDecoder({1: 27, 2: 26, 3: 18})}
+_it = lambda text, cands, hc=None, chapter=None: dict(  # noqa: E731
+    {"book": "Jas", "leaf": 1, "text": text, "para": True, "cands": cands, "hc": hc, "hv": [], "hsure": hc is not None},
+    **({"chapter": chapter} if chapter else {}))
+_m = B.collections.Counter()
+_notes = B.decode_2b("expositors-greek-testament-4", [
+    _it("a", [(0, (None, 1, None, "read"))]), _it("b", [(0, (None, 2, None, "read"))]),
+    _it("CHAPTER II.", [(0, (None, 1, None, "read"))], chapter=2),
+    _it("c", [(0, (None, 3, None, "read"))], hc=1), _it("d", [(0, (None, 4, None, "read"))], hc=1),
+    _it("CHAPTER I.", [], chapter=1), _it("CHAPTER IX.", [], chapter=9)], _d, {}, _m)
+check("egt: a 'CHAPTER II.' heading moves the sequence on (verse 1 after verse 2 would not); running heads naming chapter I after it are not "
+      "followed; a heading behind or past the book is refused",
+      [k for k in _notes if k != "Jas.title"] == ["Jas.1.1", "Jas.1.2", "Jas.2.1", "Jas.2.3", "Jas.2.4"]
+      and _m["chapter_headings_read"] == 1 and _m["chapter_headings_refused"] == 2
+      and _m["running_heads_behind"] == 2)
+check("egt: every volume pinned, printed before 1929, in SECOND, ORDER and MULTI, read by egt",
+      len(B.EGT) == 5 and all(re.fullmatch(r"[0-9a-f]{64}", s["sha256"]) and s["printed"] < 1929 and s["reader"] == "egt"
+                              and k in B.SECOND and k in B.ORDER and k in B.MULTI for k, s in B.EGT.items()))
+check("egt: the whole New Testament, each book once",
+      sorted(b for s in B.EGT.values() for b, _, _ in s["epistles"]) == sorted(B.NT_BOOKS)
+      if hasattr(B, "NT_BOOKS") else len({b for s in B.EGT.values() for b, _, _ in s["epistles"]}) == 27)
+check("egt: the undated Doran issues say how they are dated (the firm's name 1908-27)",
+      all("1908" in B.EGT[k]["printed_label"] and "1927" in B.EGT[k]["printed_label"] and B.EGT[k]["ia_date_note"]
+          for k in ("expositors-greek-testament-2", "expositors-greek-testament-3")))
+check("egt: vol. IV, catalogued by IA as volume 2, says so",
+      "volume '2'" in B.EGT["expositors-greek-testament-4"]["ia_date_note"])
+check("egt: every volume says why its scan was chosen", all(s.get("scan_choice") for s in B.EGT.values()))
+for k in B.EGT:
+    e = ents.get(k)
+    if not e:
+        continue
+    check(f"manifest: {k} says its Hebrew is lost, and kept its Greek",
+          e["measure"]["hebrew"]["hebrew_letters"] == 0 and "Hebrew words are" in e["scheme"]["honesty"]
+          and e["measure"]["greek"]["greek_share_of_letters"] > 0.05)
+    check(f"manifest: {k} prints its date as read", e["rights"]["license"].startswith(
+        f"public domain in the US (printed {B.EGT[k].get('printed_label', B.EGT[k]['printed'])})"))
 
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)
