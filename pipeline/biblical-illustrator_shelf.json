@@ -138,13 +138,19 @@
   "exell-bi-nt-index": [
    "biblicalillustra67exel",
    "The Biblical Illustrator, ed. Joseph S. Exell: Index to the New Testament Volumes, comp. T. F. Peachey (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-matthew": [
+   "biblicalillustra00exeluoft",
+   "The Biblical Illustrator, ed. Joseph S. Exell: St. Matthew (London: James Nisbet; undated, title page read 2026-11-03)"
   ]
  },
  "_alternates": {},
  "_excluded": {
   "biblicalillustra0000unse_p4j6": "A Romans volume already held here as exell-bi-romans-1/2; this one is a lending-library scan"
  },
- "_rights_checked": {},
+ "_rights_checked": {
+  "exell-bi-matthew": "Undated Nisbet (London) issue of Exell's Biblical Illustrator, title page read 2026-11-03; Exell died 1909 and the set was issued 1887-1905, so US public domain"
+ },
  "_identity_checked": {
   "exell-bi-joshua": {
    "author": "OCR reads \"Rev. JOSEPH S. '^XELL, A. M.\" on the title page, which names the volume Joshua, Judges, Ruth"
@@ -152,7 +158,8 @@
  },
  "_pending": {
   "exell-bi-unread-40": "biblicalillustra40exel: its text file returned HTTP 500 when its running heads were read (it sits between Joshua-to-Revelation numbering where St. Matthew belongs, but that was not confirmed); retry and read it before shelving",
-  "exell-bi-missing": "About 25 volumes of the set (Genesis, Judges-Kings, Job, Jeremiah-Daniel, the rest of the minor prophets, Matthew, Ephesians-Thessalonians, James, II Peter-Jude and others) have no open scan from this Toronto run; a later search could fill them"
+  "exell-bi-missing": "About 25 volumes of the set (Genesis, Judges-Kings, Job, Jeremiah-Daniel, the rest of the minor prophets, Ephesians-Thessalonians, James, II Peter-Jude and others) have no open scan from this Toronto run; a later search could fill them",
+  "exell-bi-ot-baker": "Adam bought the Logos 'Biblical Illustrator: Old Testament Collection (28 vols)'. The OT volumes this shelf lacks (Genesis, Numbers, Judges-Kings, Job, Psalms II-IV, Jeremiah-Daniel and most minor prophets) exist on the Internet Archive only as Baker Book House photographic reprints, 1950s-1970s, held as lending-library scans; left out on the same rule as the Pulpit Commentary's Eerdmans reprints. A pre-1931 Nisbet or Revell copy would fill them; searched 2026-11-03, none found"
  },
  "_translators": {},
  "_checks": {
@@ -507,6 +514,18 @@
    "ia_date": "1905",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "exell-bi-matthew": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[n.d.]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Undated Nisbet (London) issue of Exell's Biblical Illustrator, title page read 2026-11-03; Exell died 1909 and the set was issued 1887-1905, so US public domain"
   }
  }
 }
