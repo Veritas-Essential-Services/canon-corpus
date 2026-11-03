@@ -1,0 +1,49 @@
+{
+ "_about": "Lord Byron. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Lord Byron",
+ "_name_words": [
+  "lord",
+  "byron"
+ ],
+ "_surname": [
+  "byron",
+  "lord byron"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "byron-works": [
+   8861,
+   "The Works of Lord Byron, Vol. 1. Poetry",
+   "tr. ed. Ernest Hartley Coleridge"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "byron-works": "Coleridge"
+ },
+ "_bloom": {
+  "byron-works": {
+   "bloom_n": [
+    427
+   ],
+   "bloom_title": "Poems",
+   "year": "unread (shelf row gives vol. 4 as London: John Murray, 1901)",
+   "evidence": "PG catalogue: Coleridge's Poetry vols 1-7 are PG 8861, 25340, 21811, 20158 (held), 23475, 18762, 27577.",
+   "case": "Bloom lists Byron's poems; we hold one volume of Coleridge's seven-volume Poetry plus Childe Harold and Don Juan. Completing the Coleridge set on PG gives the standard complete poems.",
+   "note": "Add vols 1-3 and 5-7; vol. 4 is already held."
+  }
+ },
+ "_checks": {
+  "byron-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "byron",
+   "translator_claimed": "Coleridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
