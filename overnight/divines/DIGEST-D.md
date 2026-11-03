@@ -1180,3 +1180,14 @@ These three scans are the New York Public Library's copies. Its ownership stamp 
 What is left is mostly correct as printed: footnote and glossary numbers stuck to words (Burns, Spenser, Milton), and the pronouncing vocabulary at the end of Book 4, whose accent marks the OCR cannot read (flagged). One Greek line in Book 7 (scan p. 41) is still garbled, because the OCR read it as Latin letters.
 
 Default: leave these as they are.
+
+### Round 8: The Heart of Oak Books 1, 2, 3, 5 — the set is done (2026-11-03)
+
+| Volume | Scan | Twins collated | Garbled before | After |
+|---|---|---|---|---|
+| Book 1 | `heartofoakbooks01nort` | `heartoakbooks06nortgoog` | 101 | 4 |
+| Book 2 | `heartofoakbooks02nort` | `heartoakbooks08nortgoog`, `heartofoakbooksr0002char` | 92 | 3 |
+| Book 3 | `heartofoakbooks03nort` | `heartoakbooksfo01nortgoog` | 159 | 12 |
+| Book 5 | `heartofoakbooks05nort` | `books5heartofoak00nort`, `heartofoakbooks00nortrich`, `heartoakbooks03stepgoog` | 251 | 38 |
+
+With round 7, all seven Heart of Oak Books are collated: 1,803 garbled words down to 219. Twins were matched by shared text, as in round 7; the 1895 first edition differs (about 80% shared) and was not used. What is left is footnote and gloss numbers (correct as printed), a cover or two, and a few one-word spots. Default: leave them.
