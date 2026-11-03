@@ -1298,3 +1298,26 @@ What is left, and the defaults:
 - 🔴 **Captions printed sideways or upside down** beside the pictures. The OCR reads them backwards ("9Y}" for "the"), and they make up most of what is left in every volume (vol. 7 most of all). They are real text, so they were not deleted. Default: leave them; reading them means re-OCRing each picture page turned, which is a job of its own.
 - **Two-letter case slips in prose** ("aS was quite right", "sO mismanaged") and picture debris of the same shape ("eS", "oN") sit side by side, and only the page can tell them apart. Default: leave them for an image pass.
 - **Vols. 10 and 17 have no twin.** No other scan of this printing's vol. 10 is on the Archive, and the only vol. 17s are another edition (50% shared). Default: leave them as raw OCR.
+
+### Round 15: the Book of Knowledge's sideways captions (2026-11-03)
+
+Round 14 left one large class of garble: the long captions printed sideways or upside down beside the pictures, which the OCR reads backwards ("9Y}" for "the"). For each page holding such a caption:
+1. The caption's lines were found by their reversed letters.
+2. That patch of the page image was cut out, turned upright, and re-read by tesseract.
+3. Each garbled line was replaced by one caption line, as a whole-line reading. Captions are paratext, which the rules allow to be read whole; the OCR side of each row is the garble, not book text.
+
+**What was taken.** 55 pages in 18 volumes: 167 caption lines, 5,605 words. The checks that refuse a page:
+- a line that is not mostly dictionary words;
+- fewer caption lines than half the garbled lines;
+- labels rather than a caption (under six words a line);
+- two captions side by side read across as one line;
+- several separate captions on one page;
+- any line outside the caption changed by the reading.
+
+61 pages were refused by those checks. Nine more were refused on reading: two interleaved, two junk, one truncated, one diagram label, one a short verse inside a picture (vol. 16 p. 171, not retyped), and others. A refused page keeps its garble.
+
+**Not proofread.** These lines are tesseract's reading of a clean, upright image, and are mostly right, but slips remain (for example "treading" for "reading", "Towa" for "Iowa", "atit. Itis"). Default: leave them; a proof against the images would settle them.
+
+**Fixed along the way.** `tools-D/ocr/replay.py` now applies a reading as literal text. Before, a reading holding a backslash was read as a regex escape, and one in the vol. 7 list ("\W") stopped the rebuild.
+
+Garbled words across the 18 volumes went from 7,182 (round 14) to 5,605. The other two thirds of the sideways pages (several captions on a page, or captions printed side by side) are still open. They need the captions cut apart one by one.

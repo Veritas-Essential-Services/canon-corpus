@@ -1,6 +1,6 @@
 {
   "status": "running",
-  "holder": "Lane D (usage burn round 14)",
-  "heartbeat": "2026-11-03T19:45Z",
-  "resume": "PAUSED-READY 2026-11-03 (usage burn, quality only, no author batches). Round 14: Book of Knowledge vols. 1-9, 11-16, 18-20 collated against twins (DIGEST-D round 14). Next if wanted: an image pass on Book of Knowledge body lines (two-letter case slips), sideways captions by rotated re-OCR, or vols. 10/17 by tesseract alone."
+  "holder": "Lane D (usage burn round 15)",
+  "heartbeat": "2026-11-03T19:40Z",
+  "resume": "PAUSED-READY 2026-11-03 (usage burn, quality only, no author batches). Rounds 14-15: Book of Knowledge 18 vols collated; 55 pages of sideways captions re-read from turned images (DIGEST-D round 15). Next if wanted: pages with several sideways captions (cut per caption), a proof of the re-read captions, vols. 10/17 by tesseract alone."
 }
