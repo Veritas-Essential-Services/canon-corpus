@@ -1,0 +1,89 @@
+{
+ "_about": "George Crabbe. Bloom's Western Canon (1994) lists: Poetical Works. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "George Crabbe",
+ "_name_words": [
+  "george",
+  "crabbe"
+ ],
+ "_surname": [
+  "crabbe",
+  "george crabbe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "crabbe": [
+   46858,
+   "George Crabbe: Poems, Volume 1 (of 3) (Cambridge English Classics, ed. A. W. Ward)"
+  ],
+  "crabbe-2": [
+   51003,
+   "George Crabbe: Poems, Volume 2 (of 3)"
+  ],
+  "crabbe-3": [
+   59204,
+   "George Crabbe: Poems, Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "crabbe": {
+   "bloom_n": [
+    236
+   ],
+   "bloom_title": "Poetical Works",
+   "year": "1905 (PG front matter: 'Cambridge ... 1905')",
+   "evidence": "PG front matter read.",
+   "case": "Ward's 3-vol Cambridge Crabbe is the standard complete text.",
+   "note": ""
+  },
+  "crabbe-2": {
+   "bloom_n": [
+    236
+   ],
+   "bloom_title": "Poetical Works",
+   "year": "unread",
+   "evidence": "",
+   "case": "Ward's 3-vol Cambridge Crabbe is the standard complete text.",
+   "note": ""
+  },
+  "crabbe-3": {
+   "bloom_n": [
+    236
+   ],
+   "bloom_title": "Poetical Works",
+   "year": "unread",
+   "evidence": "",
+   "case": "Ward's 3-vol Cambridge Crabbe is the standard complete text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "crabbe": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "crabbe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crabbe-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "crabbe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crabbe-3": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "crabbe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
