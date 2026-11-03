@@ -1,0 +1,49 @@
+{
+ "_about": "I. L. Peretz. Bloom's Western Canon (1994) lists: Selected Stories. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "I. L. Peretz",
+ "_name_words": [
+  "peretz"
+ ],
+ "_surname": [
+  "peretz",
+  "i l peretz"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "peretz-stories-pictures": [
+   37242,
+   "Stories and Pictures",
+   "tr. Helena Frank"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "peretz-stories-pictures": "Frank"
+ },
+ "_bloom": {
+  "peretz-stories-pictures": {
+   "bloom_n": [
+    1118
+   ],
+   "bloom_title": "Selected Stories",
+   "year": "1906 (title page in PG text: Philadelphia, Jewish Publication Society of America, 1906; \"Copyright, 1906\")",
+   "evidence": "PG header and transcribed title page read.",
+   "case": "Bloom lists Peretz's Selected Stories (a generic title); Helena Frank's Stories and Pictures (JPS 1906) is the substantial early English collection of his tales and is PD.",
+   "note": "Bloom's edition is the Howe/Greenberg 1974 selection; this is the PD substitute under the \"pick one good collection\" rule."
+  }
+ },
+ "_checks": {
+  "peretz-stories-pictures": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "peretz",
+   "translator_claimed": "Frank",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helena Frank",
+   "translator_match": true
+  }
+ }
+}
