@@ -453,6 +453,54 @@ and the OCR turned every such word into Latin letters. CCEL and Project
 Gutenberg do not have these books. Shelving them without their Greek, as
 Keil & Delitzsch are shelved without their Hebrew, is Adam's call.
 
+### Wave 8: the Expositor's Greek Testament and the ICC (drafts)
+
+The same build shelves twenty-five more volumes, read from Internet Archive
+scans (85 books in all): the Expositor's Greek Testament in five, and the
+International Critical Commentary in twenty. Every scan was chosen by
+measuring its text layer, and its `scheme.scan_choice` names the others.
+
+| Books | Volumes | Printed |
+|---|---|---|
+| `expositors-greek-testament-1` to `-5` | the whole NT (ed. Nicoll; Bruce, Dods, Knowling, Denney, Findlay, Bernard, Moffatt and others) | London, 1910; vols II and III the undated New York issue of George H. Doran Company (the firm's name 1908-27) |
+| `icc-allen-matthew`, `icc-gould-mark`, `icc-plummer-luke` | the Synoptic Gospels | 1907, 1912, 1896 |
+| `icc-sanday-headlam-romans` | Romans, the first edition | 1895 |
+| `icc-robertson-plummer-1-corinthians`, `icc-plummer-2-corinthians` | Corinthians | 1911, 1915 |
+| `icc-burton-galatians`, `icc-abbott-ephesians-colossians`, `icc-vincent-philippians-philemon`, `icc-frame-thessalonians` | Galatians to Thessalonians | 1921, 1916, 1906, 1912 |
+| `icc-ropes-james`, `icc-bigg-peter-jude`, `icc-brooke-johannine-epistles` | the Catholic Epistles | 1916, 1903, 1912 |
+| `icc-charles-revelation-1`, `-2` | the Revelation (vol. II from chapter 14, with Charles's Greek text and translation by page) | 1920 |
+| `icc-skinner-genesis`, `icc-paton-esther` | Genesis, Esther: Greek kept, Hebrew lost | 1910, 1908 |
+| `icc-smith-samuel` | 1-2 Samuel: Hebrew kept, Greek lost | 1899 |
+| `icc-briggs-psalms-1`, `-2` | the Psalms, by page: Hebrew kept, Greek lost | 1906, 1907 |
+
+**How a page is read.** The EGT's page is Alford's: the Greek text, then the
+notes in two columns. Its reader (`egt`) opens a note at "Ver. 4." or
+"Vv. 2-6." at the head of an indented line or after a sentence's end, or
+after a dash, and lets a "CHAPTER IV." heading move it to that chapter. The
+existing readers were measured on it first and failed (Alford's 16 notes in
+vol. V, Meyer's 230 with 111 against the running head). The ICC's page is
+Bengel's: a paragraph opening with the verse number ("4. ὁρισθέντος"). Its
+reader (`icc`) adds openers after a dash and at a line's start, in the
+volumes where they measured better. The OT volumes measure the numbering
+they print, as Keil & Delitzsch's do, pooled within the ICC only.
+
+**Coverage** (verses with a note): the EGT, 70% (1 Corinthians) to 100% a
+book; the ICC NT, 68% (Allen's Matthew) to 98%; Genesis 79%, Esther 81%,
+Samuel 81%. Briggs's Psalms reached at most 42% as verse units. That is
+under the 60% floor, so both volumes are kept by page, and their honesty
+says why. Allen, Gould, Burton, Frame, Ropes, Charles and the OT volumes
+print a reference's verse as a superscript, which the OCR fuses to the
+chapter ("Gal. 1⁴" read "Gal 14"). So most of their references stay
+unresolved, each with its reason. None is split by guesswork.
+
+**Not shelved.** In the ICC, John (Bernard), the Pastorals (Lock) and
+Hebrews (Moffatt) are not shelved, because no scan printed before 1929 keeps
+the Greek. The other OT volumes are not shelved either: no pre-1929 scan of
+them keeps the Greek or the Hebrew. Luke is the same scan Lane A shelves as
+`plummer-luke-icc` (`scheme.same_scan_as`). Lane A's 2 Corinthians,
+Peter-Jude and Philippians scans are twins, named in `scan_choice` and kept
+for a later collation.
+
 ## Josephus (Greek and English)
 
 The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek

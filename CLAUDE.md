@@ -938,6 +938,23 @@ The living truth for project state is the Obsidian vault:
   A run that crosses a chapter fills to that chapter's length in the book's
   decided numbering; undecided, the shorter count, marked run_approximate
   (review c13). The K&D harvest reads verse lists through verse_lists too.
+  Wave 8 (2026-11-03, tables EGT, ICC, ICC_OT; every new line in the
+  readers marked # WAVE8): the Expositor's Greek Testament (5 vols,
+  `expositors-greek-testament-N`, reader egt: Alford's page through
+  alford_layout(prose_ok), 'Ver. 4.' openers at an indented line, after a
+  sentence's end or after a dash, 'CHAPTER IV.' headings forward only, a
+  running head behind the sequence not followed: running_heads_behind) and
+  20 ICC volumes (`icc-<author>-<book>`, reader icc: Bengel's paragraph
+  openers, plus `inline` dash openers and `line_start` openers where
+  measured better). ICC OT volumes are `numbered` (K&D's numbering
+  machinery), pooled within `series` "icc" only (work_numbering). A volume
+  under BY_PAGE_FLOOR (60%) is `by_page` (Briggs's Psalms). `lost` names the
+  script the scan lost (Hebrew; Greek for Samuel and Psalms); `superscripts`
+  marks the volumes whose verse superscripts the OCR fused ('Gal 14'): their
+  refs stay unresolved, never split by guess. EGT II/III are undated Doran
+  issues (printed_label, 1908-27). Lane A's Luke is the same scan
+  (same_scan_as); its 2 Cor., Peter-Jude and Philippians are twins in
+  scan_choice. Slugs never end in -icc (Lane A's form).
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
