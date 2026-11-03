@@ -119,6 +119,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_deuterocanon.py --check  # map + index byte-identical
     python3 pipeline/build_deuterocanon.py --audit  # the weakest pairings, to read
     python3 tests/deuterocanon_test.py        # the deuterocanon map and index, offline
+    python3 pipeline/contents_key_diff.py --write  # ids the Contents-reader fix moves (accepted 2026-11-01)
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_kjv_italic.py     # kjv.complete.json (kjv.italic) from the committed kjv.tsv
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -172,6 +173,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_dictionary_links.py --fetch # the dictionaries' edges (+ Character Sketches scans)
     python3 pipeline/build_dictionary_links.py --check # data/dictionaries/ byte-identical
     python3 tests/dictionary_links_test.py             # the edge parsers, offline
+    python3 pipeline/build_lemma_bridge.py             # KJV archaic forms -> modern lemmas (needs ../vocabularium)
+    python3 pipeline/build_lemma_bridge.py --check     # bridge files byte-identical
+    python3 tests/lemma_bridge_test.py                 # the bridge: FTS5 bug, the fix, JS/Python parity
+    python3 tests/lexicon_test.py                      # data/lexicons/webster1913.json.gz: hash + shape
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -324,6 +329,22 @@ The living truth for project state is the Obsidian vault:
   fetch_sources.py, unpacked into data/corpus/archive/ after a sha256 check, so the hosted
   rebuild reads the Unscanner's text, not the djvu. Regenerated 2026-10-19 byte-identical to the
   2026-10-17 build. A new Unscanner book that should reach the host needs an entry there too.
+- pipeline/review.py — Adam's review sheets (docs/review/*.md): status /
+  apply / render. `render` keeps whatever front matter the sheet on disk
+  starts with (the provenance `model_log` block), so `render --check`
+  compares only the body the data renders (fixed 2026-10-02, PR #3).
+- pipeline/build_lemma_bridge.py + lemma_bridge.py — the English lemma
+  bridge (Word Hoard ADR 0012; merged 2026-10-02, PR #1): archaic KJV forms
+  (sheweth, holpen, spake) -> the modern headword a search uses, so FTS5's
+  modern stemmer stops missing them. Every mapping cites a stated rule or a
+  quoted Webster 1828/1913 line; uncertain ones go to needs_review.csv and
+  stay out of search. Output data/lemma_bridge/ (COMMITTED); browser twin
+  exports/lemma-bridge/lemma-bridge.js. Rebuilding needs a Vocabularium
+  checkout (--vocabularium, $VOCABULARIUM_DIR, or ../vocabularium); the
+  built table does not.
+- data/lexicons/webster1913.json.gz — Webster 1913 (PD), headword -> short
+  senses, for Armarium word lookups. COMMITTED; sha256 and refresh recipe
+  in data/lexicons/README.md.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

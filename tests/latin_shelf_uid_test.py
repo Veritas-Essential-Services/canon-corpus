@@ -5,6 +5,8 @@
 latin_shelf_uid_test.py -- the enforcement gate for wave 1 (the Latin shelf).
 
 Run:  python3 tests/latin_shelf_uid_test.py
+      (skips, exit 0, when the vault's Latin shelf is not reachable;
+       fails if WORDHOARD_LATIN_DIR is set but wrong)
 
 WHY THIS EXISTS, WHEN wh_uid_test.py ALREADY PASSES
     `tests/wh_uid_test.py` tests the identity MODULE -- that minting, parsing,
@@ -104,11 +106,20 @@ def find_shelf():
 
 shelf = find_shelf()
 if not shelf:
-    print("FAIL could not find the Latin shelf. Looked in:")
+    # The shelf is in the vault, which a clone of this repo alone (a cloud
+    # session, CI) does not have. Skip there, as the other tests do when their
+    # inputs are absent, and say so -- a skip is not a pass. But if
+    # WORDHOARD_LATIN_DIR was SET and points nowhere, someone asked for this
+    # gate to run: that stays a failure.
+    asked = os.environ.get("WORDHOARD_LATIN_DIR")
+    print(("FAIL" if asked else "skip") + "  could not find the Latin shelf. Looked in:")
     for c in CANDIDATES:
         print("       " + (c or "<WORDHOARD_LATIN_DIR unset>"))
     print("\nSet WORDHOARD_LATIN_DIR to the folder holding thomas-batch-NN.json.")
-    sys.exit(1)
+    if asked:
+        sys.exit(1)
+    print("0 passed, 0 failed (skipped: the Latin shelf is not reachable -- nothing was verified)")
+    sys.exit(0)
 
 print(f"shelf     {shelf}")
 print(f"registry  {REGISTRY}\n")
