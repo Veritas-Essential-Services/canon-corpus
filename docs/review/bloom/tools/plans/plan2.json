@@ -1,0 +1,1060 @@
+[
+ {
+  "author": "Robert Burns",
+  "shelf": "robert-burns",
+  "new": true,
+  "surname": [
+   "robert burns",
+   "burns"
+  ],
+  "rows": [
+   {
+    "n": [
+     411
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "1279",
+    "title": "Poems and Songs of Robert Burns",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "Read PG header; text arranged chronologically from 1771-1779 onward.",
+    "slug": "burns-poems-songs",
+    "case": "Bloom lists Burns's poems; no Burns poetry shelf was found (only Carlyle's essay on Burns). PG 1279 is the clean chronological poems-and-songs text.",
+    "note": "PG 18500 adds the letters if a fuller set is wanted."
+   }
+  ]
+ },
+ {
+  "author": "William Blake",
+  "shelf": "william-blake",
+  "new": true,
+  "surname": [
+   "blake",
+   "william blake"
+  ],
+  "rows": [
+   {
+    "n": [
+     412
+    ],
+    "bloom_title": "Complete Poetry and Prose",
+    "kind": "ia",
+    "id": "poeticalworksof00blak",
+    "title": "The Poetical Works of William Blake, including the unpublished French Revolution together with the Minor Prophetic Books",
+    "translator": "ed. John Sampson",
+    "year": "1928 printing (title page 'LONDON OXFORD UNIVERSITY PRESS 1928'); Sampson's Oxford text first appeared 1913 (not read)",
+    "djvu": "",
+    "evidence": "Read djvu title page. Collection internetarchivebooks/americana.",
+    "slug": "blake-poetical-works",
+    "case": "Bloom lists Blake's complete poetry and prose; we hold only the Songs. Sampson's Oxford text is the scholarly standard; Ellis's two volumes add the major prophetic books (Milton, Jerusalem, Four Zoas) that Sampson's 1913 volume prints only in part.",
+    "note": "Ellis's text is heavily emended and was criticised in its day; take Sampson as the reading text and Ellis for the major prophecies. Keynes's 1925 Nonesuch 'Writings' would be the true complete edition but was not checked. Prose (Marriage of Heaven and Hell) is also PG 45315."
+   }
+  ]
+ },
+ {
+  "author": "William Wordsworth",
+  "shelf": "william-wordsworth",
+  "new": true,
+  "surname": [
+   "wordsworth",
+   "william wordsworth"
+  ],
+  "rows": [
+   {
+    "n": [
+     413
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "10219",
+    "title": "The Poetical Works of William Wordsworth, Volume 1 (of 8)",
+    "translator": "ed. William Knight",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue; PG has all eight volumes: 10219, 12145, 12383, 32459, 56361, 47651, 47143, 52836.",
+    "slug": "wordsworth-poetical-works",
+    "case": "Bloom lists Wordsworth's poems. We hold only two early volumes; Knight's eight-volume Poetical Works is the complete chronological edition on PG.",
+    "note": "Eight PG files; volume 3 also contains The Prelude (entry 414)."
+   },
+   {
+    "n": [
+     414
+    ],
+    "bloom_title": "The Prelude",
+    "kind": "pg",
+    "id": "12383",
+    "title": "The Poetical Works of William Wordsworth, Volume 3 (of 8)",
+    "translator": "ed. William Knight",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "Read the PG 12383 contents: 'The Prelude; or, Growth of a Poet's Mind'.",
+    "slug": "wordsworth-poetical-works-2",
+    "case": "Bloom lists The Prelude; not held. It is in Knight's vol. 3 (the 1850 text).",
+    "note": "Acquiring the Knight set (entry 413) covers this."
+   }
+  ]
+ },
+ {
+  "author": "Dorothy Wordsworth",
+  "shelf": "dorothy-wordsworth",
+  "new": true,
+  "surname": [
+   "wordsworth",
+   "dorothy wordsworth"
+  ],
+  "rows": [
+   {
+    "n": [
+     424
+    ],
+    "bloom_title": "The Grasmere Journal",
+    "kind": "pg",
+    "id": "42856",
+    "title": "Journals of Dorothy Wordsworth, Vol. 1 (of 2)",
+    "translator": "ed. William Knight",
+    "year": "1897 (title page 'MACMILLAN AND CO., LTD. ... 1897')",
+    "djvu": "",
+    "evidence": "Read PG front matter: contents list GRASMERE journal sections May 1800 to January 1803.",
+    "slug": "wordsworth-journals",
+    "case": "Bloom lists the Grasmere Journal; nothing by Dorothy Wordsworth is held. Knight's 1897 Journals contain it.",
+    "note": "Knight's text is somewhat abridged (later editors restored passages); still the PD standard."
+   },
+   {
+    "n": [
+     424
+    ],
+    "bloom_title": "The Grasmere Journal",
+    "kind": "pg",
+    "id": "42857",
+    "title": "Journals of Dorothy Wordsworth, Vol. 2 (of 2)",
+    "translator": "ed. William Knight",
+    "year": "1897 (inferred from vol. 1)",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "wordsworth-journals-2",
+    "case": "Bloom lists the Grasmere Journal; nothing by Dorothy Wordsworth is held. Knight's 1897 Journals contain it.",
+    "note": "Knight's text is somewhat abridged (later editors restored passages); still the PD standard."
+   }
+  ]
+ },
+ {
+  "author": "William Hazlitt",
+  "shelf": "william-hazlitt",
+  "new": true,
+  "surname": [
+   "hazlitt",
+   "william hazlitt"
+  ],
+  "rows": [
+   {
+    "n": [
+     425
+    ],
+    "bloom_title": "Essays and Criticism",
+    "kind": "pg",
+    "id": "3020",
+    "title": "Table Talk: Essays on Men and Manners",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "hazlitt-table-talk",
+    "case": "Bloom lists Hazlitt's essays and criticism generically; no Hazlitt shelf exists (only his translations of Luther's Table-Talk and Montaigne). The Waller-Glover Collected Works (12 vols) on PG is the complete edition; Table Talk and The Spirit of the Age are the core if one volume is wanted.",
+    "note": "Pick one: the full 12-volume set, or Table Talk + Spirit of the Age + Characters of Shakespeare's Plays (PG 5085) + Lectures on the English Poets (PG 16209)."
+   },
+   {
+    "n": [
+     425
+    ],
+    "bloom_title": "Essays and Criticism",
+    "kind": "pg",
+    "id": "11068",
+    "title": "The Spirit of the Age; Or, Contemporary Portraits",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "hazlitt-spirit-age",
+    "case": "Bloom lists Hazlitt's essays and criticism generically; no Hazlitt shelf exists (only his translations of Luther's Table-Talk and Montaigne). The Waller-Glover Collected Works (12 vols) on PG is the complete edition; Table Talk and The Spirit of the Age are the core if one volume is wanted.",
+    "note": "Pick one: the full 12-volume set, or Table Talk + Spirit of the Age + Characters of Shakespeare's Plays (PG 5085) + Lectures on the English Poets (PG 16209)."
+   }
+  ]
+ },
+ {
+  "author": "Lord Byron",
+  "shelf": "lord-byron",
+  "new": true,
+  "surname": [
+   "byron",
+   "lord byron"
+  ],
+  "rows": [
+   {
+    "n": [
+     427
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "8861",
+    "title": "The Works of Lord Byron, Vol. 1. Poetry",
+    "translator": "ed. Ernest Hartley Coleridge",
+    "year": "unread (shelf row gives vol. 4 as London: John Murray, 1901)",
+    "djvu": "",
+    "evidence": "PG catalogue: Coleridge's Poetry vols 1-7 are PG 8861, 25340, 21811, 20158 (held), 23475, 18762, 27577.",
+    "slug": "byron-works",
+    "case": "Bloom lists Byron's poems; we hold one volume of Coleridge's seven-volume Poetry plus Childe Harold and Don Juan. Completing the Coleridge set on PG gives the standard complete poems.",
+    "note": "Add vols 1-3 and 5-7; vol. 4 is already held."
+   }
+  ]
+ },
+ {
+  "author": "Walter Savage Landor",
+  "shelf": "walter-savage-landor",
+  "new": true,
+  "surname": [
+   "landor",
+   "walter savage landor"
+  ],
+  "rows": [
+   {
+    "n": [
+     428,
+     429
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "21628",
+    "title": "Imaginary Conversations and Poems: A Selection",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "Read PG front matter: contents begin IMAGINARY CONVERSATIONS (Marcellus and Hannibal, ... Leofric and Godiva, Essex and Spenser); a poems section follows per the title.",
+    "slug": "landor-imaginary-conversations-poems",
+    "case": "Bloom lists Landor's poems; nothing by Landor is held. The one PG selection covers both his poems and the Imaginary Conversations (entry 429).",
+    "note": "Edition not named in the opening of the PG file (it matches Everyman's 1914-era selection; not confirmed). PG 4007 has Gebir and Count Julian if more verse is wanted."
+   }
+  ]
+ },
+ {
+  "author": "Thomas De Quincey",
+  "shelf": "thomas-de-quincey",
+  "new": true,
+  "surname": [
+   "quincey",
+   "thomas de quincey"
+  ],
+  "rows": [
+   {
+    "n": [
+     430
+    ],
+    "bloom_title": "Confessions of an English Opium Eater",
+    "kind": "pg",
+    "id": "2040",
+    "title": "Confessions of an English Opium-Eater",
+    "translator": "",
+    "year": "1821 text (front matter '_From the \"London Magazine\" for September_ 1821.')",
+    "djvu": "",
+    "evidence": "Read PG header and opening.",
+    "slug": "quincey-confessions-english-opium-eater",
+    "case": "Bloom lists the Confessions; not held. PG 2040 is the original 1821 London Magazine text.",
+    "note": "The revised, much longer 1856 version is in the Ticknor/Masson collected editions if wanted."
+   },
+   {
+    "n": [
+     431
+    ],
+    "bloom_title": "Selected Prose",
+    "kind": "pg",
+    "id": "10708",
+    "title": "Miscellaneous Essays",
+    "translator": "",
+    "year": "unread (the Ticknor & Fields uniform 'De Quincey's Writings' series, per its prospectus)",
+    "djvu": "",
+    "evidence": "Read PG front matter: On the Knocking at the Gate in Macbeth; Murder Considered as One of the Fine Arts (and second paper); Joan of Arc; The English Mail-Coach; The Vision of Sudden Death; Dinner, Real and Reputed.",
+    "slug": "quincey-miscellaneous-essays",
+    "case": "Bloom lists De Quincey's prose generically. This one volume holds his most anthologised essays.",
+    "note": "With the Confessions (430) and the held Autobiographic Sketches it makes a fair selection."
+   }
+  ]
+ },
+ {
+  "author": "John Galt",
+  "shelf": "john-galt",
+  "new": true,
+  "surname": [
+   "galt",
+   "john galt"
+  ],
+  "rows": [
+   {
+    "n": [
+     434
+    ],
+    "bloom_title": "The Entail",
+    "kind": "pg",
+    "id": "44573",
+    "title": "The Entail; or, The Lairds of Grippy",
+    "translator": "",
+    "year": "unread (PG credits cite IA entailorlairdsof1913galt, i.e. a 1913 printing)",
+    "djvu": "",
+    "evidence": "Read PG header: produced from IA scan 'entailorlairdsof1913galt'; front matter shows London/Edinburgh/Glasgow/New York/Toronto/Melbourne/Bombay imprint (Oxford World's Classics style).",
+    "slug": "galt-entail",
+    "case": "Bloom lists The Entail; nothing by Galt held. PG 44573 is a complete text from a 1913 reprint of the 1822 novel.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "James Hogg",
+  "shelf": "james-hogg",
+  "new": true,
+  "surname": [
+   "hogg",
+   "james hogg"
+  ],
+  "rows": [
+   {
+    "n": [
+     438
+    ],
+    "bloom_title": "The Private Memoirs and Confessions of a Justified Sinner",
+    "kind": "pg",
+    "id": "2276",
+    "title": "The Private Memoirs and Confessions of a Justified Sinner",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "Read PG header and opening.",
+    "slug": "hogg-private-memoirs-confessions-justified",
+    "case": "Bloom lists Hogg's Confessions; not held. PG 2276 is the clean text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "John Clare",
+  "shelf": "john-clare",
+  "new": true,
+  "surname": [
+   "clare",
+   "john clare"
+  ],
+  "rows": [
+   {
+    "n": [
+     443
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "52601",
+    "title": "Poems",
+    "translator": "ed. Norman Gale",
+    "year": "1901 (title page 'RUGBY: GEORGE E. OVER, 1901')",
+    "djvu": "",
+    "evidence": "Read PG header and title page.",
+    "slug": "clare-poems",
+    "case": "Bloom lists Clare's poems; nothing by Clare is held. Gale's 1901 selection covers the published poems; Blunden and Porter's 1920 volume adds the manuscript poems on which Clare's modern standing rests.",
+    "note": "Take both; together they are the best PD Clare."
+   },
+   {
+    "n": [
+     443
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "8672",
+    "title": "Poems Chiefly from Manuscript",
+    "translator": "ed. Edmund Blunden and Alan Porter",
+    "year": "unread (preface thanks the president 'for 1919-1920'; the book is the 1920 Cobden-Sanderson edition, from memory)",
+    "djvu": "",
+    "evidence": "Read PG front matter.",
+    "slug": "clare-poems-chiefly-manuscript",
+    "case": "Bloom lists Clare's poems; nothing by Clare is held. Gale's 1901 selection covers the published poems; Blunden and Porter's 1920 volume adds the manuscript poems on which Clare's modern standing rests.",
+    "note": "Take both; together they are the best PD Clare."
+   }
+  ]
+ },
+ {
+  "author": "John Keats",
+  "shelf": "john-keats",
+  "new": true,
+  "surname": [
+   "keats",
+   "john keats"
+  ],
+  "rows": [
+   {
+    "n": [
+     444
+    ],
+    "bloom_title": "Poems and Letters",
+    "kind": "pg",
+    "id": "35698",
+    "title": "Letters of John Keats to His Family and Friends",
+    "translator": "ed. Sidney Colvin",
+    "year": "1925 printing (title page 'St. Martin's Street, London 1925'); Colvin's edition first 1891 (not read)",
+    "djvu": "",
+    "evidence": "Read PG header.",
+    "slug": "keats-letters-to-his-family",
+    "case": "The poems are held; the letters are not. Colvin's edition is the standard PD selection of the letters.",
+    "note": "PG 60433 (Letters to Fanny Brawne) would complete the love letters."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Lovell Beddoes",
+  "shelf": "thomas-lovell-beddoes",
+  "new": true,
+  "surname": [
+   "beddoes",
+   "thomas lovell beddoes"
+  ],
+  "rows": [
+   {
+    "n": [
+     445
+    ],
+    "bloom_title": "Death's Jest-Book",
+    "kind": "ia",
+    "id": "poeticalworksedi02bedduoft",
+    "title": "The Poetical Works of Thomas Lovell Beddoes, vol. II",
+    "translator": "ed. Edmund Gosse",
+    "year": "1890 (vol. I title page 'LONDON J. M. DENT AND CO. ... 1890')",
+    "djvu": "",
+    "evidence": "Read vol. II djvu: 'VOL. II', contents 'DEATH'S JEST-BOOK; OR THE FOOL'S TRAGEDY ... 5' and 'FRAGMENTS OF DEATH'S JEST-BOOK'. Collection university_of_toronto.",
+    "slug": "beddoes-poetical-works",
+    "case": "Bloom lists Death's Jest-Book; nothing by Beddoes is held. Gosse's 1890 Dent edition prints it in vol. II.",
+    "note": "Vol. II is from the same set as vol. I (entry 446); its title page date was not separately read."
+   },
+   {
+    "n": [
+     446
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poeticalworksedi01bedduoft",
+    "title": "The Poetical Works of Thomas Lovell Beddoes, vol. I",
+    "translator": "ed. Edmund Gosse",
+    "year": "1890 (title page 'LONDON J. M. DENT AND CO. 69 GREAT EASTERN STREET 1890')",
+    "djvu": "",
+    "evidence": "Read djvu title page and contents: Memoir, then 'POEMS COLLECTED IN 1851' (Alfarabi, Pygmalion, Dream-Pedlary...). Collection university_of_toronto.",
+    "slug": "beddoes-poetical-works-2",
+    "case": "Bloom lists Beddoes's poems. Gosse's two-volume Poetical Works is the standard 19th-century collected edition.",
+    "note": "Donner's 1928 Complete Works would also be PD (not checked)."
+   }
+  ]
+ },
+ {
+  "author": "George Darley",
+  "shelf": "george-darley",
+  "new": true,
+  "surname": [
+   "darley",
+   "george darley"
+  ],
+  "rows": [
+   {
+    "n": [
+     447
+    ],
+    "bloom_title": "Nepenthe",
+    "kind": "ia",
+    "id": "nepenthepoemintw00darlrich",
+    "title": "Nepenthe: A Poem in Two Cantos",
+    "translator": "introduction by R. A. Streatfeild",
+    "year": "1897 (title page 'LONDON ELKIN MATHEWS, VIGO STREET MDCCCXCVII')",
+    "djvu": "",
+    "evidence": "Read djvu title page. Collection cdl/americana.",
+    "slug": "darley-nepenthe",
+    "case": "Bloom lists Nepenthe; nothing by George Darley is held (the darley shelf is J. R. Darley, a different man). The 1897 Elkin Mathews reprint is the accessible text.",
+    "note": "The 'author' match in the chunk was to John Richard Darley, not George."
+   },
+   {
+    "n": [
+     448
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsoflategeorg00darl",
+    "title": "Poems of the Late George Darley",
+    "translator": "printed for private circulation, inscribed by R. and M. J. Livingstone",
+    "year": "unread (IA says [1889?]; title page has no date; Liverpool: A. Holden)",
+    "djvu": "",
+    "evidence": "Read djvu title page and contents (Memoir; Lenimina Laborum...). Collection cdl/americana.",
+    "slug": "darley-poems-late",
+    "case": "Bloom lists Darley's poems; this memorial collection is the 19th-century gathering of them.",
+    "note": "Undated on the page but Darley died 1846 and the volume is plainly 19th-century. IA also has 'Selections from the Poems of George Darley' (1904, selectionsfromp00darlgoog; not opened). Colles's 1908 Complete Poetical Works (Muses' Library) would be better if found."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Hood",
+  "shelf": "thomas-hood",
+  "new": true,
+  "surname": [
+   "thomas hood",
+   "hood"
+  ],
+  "rows": [
+   {
+    "n": [
+     449
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "15652",
+    "title": "The Poetical Works of Thomas Hood",
+    "translator": "introduction by William Michael Rossetti",
+    "year": "unread ('Enlarged and revised edition', New York: A. L. Burt Company; no date seen)",
+    "djvu": "",
+    "evidence": "Read PG header and front matter.",
+    "slug": "hood-poetical-works",
+    "case": "Bloom lists Hood's poems; nothing by Hood is held. The Burt edition with W. M. Rossetti's introduction is a one-volume collected Hood.",
+    "note": "PG also has The Works of Thomas Hood vols 1-2 of 11 only."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Wade",
+  "shelf": "thomas-wade",
+  "new": true,
+  "surname": [
+   "wade",
+   "thomas wade"
+  ],
+  "rows": [
+   {
+    "n": [
+     450
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "cu31924104000595",
+    "title": "Mundi et Cordis: de rebus sempiternis et temporariis: carmina. Poems and Sonnets",
+    "translator": "",
+    "year": "1835 (IA metadata and the bookseller's slip in the scan: 'London: John Miller, 1835')",
+    "djvu": "",
+    "evidence": "Read the opening of the djvu: Wordsworth's presentation copy, Cornell. Collection cornell/americana.",
+    "slug": "wade-mundi-et-cordis",
+    "case": "Bloom lists Wade's poems; nothing by him is held. Mundi et Cordis (1835) is his main collection of poems and sonnets.",
+    "note": "The title page itself was not reached in the first 3,000 characters; the date comes from IA metadata and the bound-in bookseller's description."
+   }
+  ]
+ },
+ {
+  "author": "Robert Browning",
+  "shelf": "robert-browning",
+  "new": true,
+  "surname": [
+   "browning",
+   "robert browning"
+  ],
+  "rows": [
+   {
+    "n": [
+     452
+    ],
+    "bloom_title": "The Ring and the Book",
+    "kind": "pg",
+    "id": "50954",
+    "title": "The Complete Poetic and Dramatic Works of Robert Browning (Cambridge Edition)",
+    "translator": "ed. Horace E. Scudder",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "Read PG header ('The Cambridge Edition of the Poets') and grep: 'THE RING AND THE BOOK' appears as a section heading.",
+    "slug": "browning-complete-poetic-dramatic-works",
+    "case": "Bloom lists The Ring and the Book; not held. The one-volume Cambridge Browning on PG contains it complete, and also gives the complete poems.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Dante Gabriel Rossetti",
+  "shelf": "rossetti",
+  "new": false,
+  "surname": [
+   "rossetti",
+   "dante gabriel rossetti"
+  ],
+  "rows": [
+   {
+    "n": [
+     468
+    ],
+    "bloom_title": "Poems and Translations",
+    "kind": "ia",
+    "id": "cu31924014158210",
+    "title": "Poems & Translations, 1850-1870, together with the prose story 'Hand and Soul'",
+    "translator": "",
+    "year": "first published 1913 (printing line 'This edition was first published in 1913, and reprinted in 1919, 1926, 1936, and 1949' -- the scan is a 1949 or later printing of the unrevised Oxford text)",
+    "djvu": "",
+    "evidence": "Read djvu title page and printing line: Oxford University Press (H. Milford), London New York Toronto. Collection cornell/americana.",
+    "slug": "rossetti-poems-translations",
+    "case": "Bloom names exactly this Oxford volume, 'Poems and Translations 1850-1870'. The translations are held; the poems are not.",
+    "note": "The scan is a post-1931 reprint of a 1913 edition; if Adam prefers a pre-1931 printing, IA has 1919 (in.ernet.dli.2015.234904) and 1926 (in.ernet.dli.2015.59135) copies, not opened."
+   }
+  ]
+ },
+ {
+  "author": "Arthur Hugh Clough",
+  "shelf": "arthur-hugh-clough",
+  "new": true,
+  "surname": [
+   "clough",
+   "arthur hugh clough"
+  ],
+  "rows": [
+   {
+    "n": [
+     471
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "66689",
+    "title": "Poems of Arthur Hugh Clough",
+    "translator": "",
+    "year": "1898 (PG header 'Original publication: United Kingdom: MacMillan and Co., Limited, 1898')",
+    "djvu": "",
+    "evidence": "Read PG header.",
+    "slug": "clough-poems",
+    "case": "Bloom lists Clough's poems; nothing by Clough is held (only his Plutarch revision). The Macmillan collected Poems is on PG.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Christina Rossetti",
+  "shelf": "christina-rossetti",
+  "new": false,
+  "surname": [
+   "rossetti",
+   "christina rossetti"
+  ],
+  "rows": [
+   {
+    "n": [
+     472
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "19188",
+    "title": "Poems",
+    "translator": "",
+    "year": "1906 printing ('1906.' in front matter; 'Author's edition, revised and enlarged, 1876')",
+    "djvu": "",
+    "evidence": "Read PG front matter.",
+    "slug": "rossetti-poems",
+    "case": "Bloom lists Christina Rossetti's poems; the held christina-rossetti shelf has only her devotional prose. The Macmillan collected Poems is on PG.",
+    "note": "PG 16950 (Goblin Market, The Prince's Progress) is an alternative."
+   }
+  ]
+ },
+ {
+  "author": "Gerard Manley Hopkins",
+  "shelf": "gerard-manley-hopkins",
+  "new": true,
+  "surname": [
+   "hopkins",
+   "gerard manley hopkins"
+  ],
+  "rows": [
+   {
+    "n": [
+     475
+    ],
+    "bloom_title": "Poems and Prose",
+    "kind": "pg",
+    "id": "22403",
+    "title": "Poems of Gerard Manley Hopkins Now First Published",
+    "translator": "ed. Robert Bridges",
+    "year": "1918 (PG header 'Hopkins, Gerard Manley (1918) \"Poems\"'; London)",
+    "djvu": "",
+    "evidence": "Read PG header.",
+    "slug": "hopkins-poems-gerard-now-first",
+    "case": "Bloom lists Hopkins's poems and prose; nothing is held. Bridges's 1918 first edition of the poems is PD.",
+    "note": "The prose (letters 1935, notebooks 1937) was first published after 1930 and is not_pd; only the poems can be added."
+   }
+  ]
+ },
+ {
+  "author": "Walter Pater",
+  "shelf": "pater",
+  "new": false,
+  "surname": [
+   "pater",
+   "walter pater"
+  ],
+  "rows": [
+   {
+    "n": [
+     484
+    ],
+    "bloom_title": "Imaginary Portraits",
+    "kind": "pg",
+    "id": "2399",
+    "title": "Imaginary Portraits",
+    "translator": "",
+    "year": "unread ('4th edition' in front matter)",
+    "djvu": "",
+    "evidence": "Read PG front matter.",
+    "slug": "pater-imaginary-portraits",
+    "case": "Bloom lists it; the pater shelf lacks it. PG 2399 is the clean text.",
+    "note": "PG 4038 is a second copy. A 'pater' shelf exists (Renaissance, Greek Studies, Appreciations, Plato and Platonism, Miscellaneous Studies, Guardian essays) but lacks this book; add it there."
+   },
+   {
+    "n": [
+     485
+    ],
+    "bloom_title": "Marius the Epicurean",
+    "kind": "pg",
+    "id": "4057",
+    "title": "Marius the Epicurean, Volume 1",
+    "translator": "",
+    "year": "1910 (front matter 'London: 1910.')",
+    "djvu": "",
+    "evidence": "Read PG front matter.",
+    "slug": "pater-marius-epicurean",
+    "case": "Bloom lists Marius; not held. Two PG volumes from the 1910 Library Edition.",
+    "note": "A 'pater' shelf exists (Renaissance, Greek Studies, Appreciations, Plato and Platonism, Miscellaneous Studies, Guardian essays) but lacks this book; add it there."
+   },
+   {
+    "n": [
+     485
+    ],
+    "bloom_title": "Marius the Epicurean",
+    "kind": "pg",
+    "id": "4058",
+    "title": "Marius the Epicurean, Volume 2",
+    "translator": "",
+    "year": "1910 (same edition, inferred)",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "pater-marius-epicurean-2",
+    "case": "Bloom lists Marius; not held. Two PG volumes from the 1910 Library Edition.",
+    "note": "A 'pater' shelf exists (Renaissance, Greek Studies, Appreciations, Plato and Platonism, Miscellaneous Studies, Guardian essays) but lacks this book; add it there."
+   }
+  ]
+ },
+ {
+  "author": "Algernon Charles Swinburne",
+  "shelf": "algernon-charles-swinburne",
+  "new": true,
+  "surname": [
+   "swinburne",
+   "algernon charles swinburne"
+  ],
+  "rows": [
+   {
+    "n": [
+     499
+    ],
+    "bloom_title": "Poems and Letters",
+    "kind": "pg",
+    "id": "35402",
+    "title": "Poems & Ballads (First Series) -- The Collected Poetical Works, vol. I",
+    "translator": "",
+    "year": "1917 (title page 'London: William Heinemann 1917')",
+    "djvu": "",
+    "evidence": "Read PG front matter. PG holds the other Collected Poetical Works volumes as separate files (27401 Poems & Ballads II; 18726 III; 4072 Songs before Sunrise; 15378 Atalanta, etc.).",
+    "slug": "swinburne-poems-ballads",
+    "case": "Bloom lists Swinburne's poems and letters; nothing by him is held. The Heinemann Collected Poetical Works is on PG volume by volume; Gosse and Wise's 1918 Letters is the PD edition of the letters.",
+    "note": "Vol. 2 of the Letters needs finding (IA lettersofalgern01swinuoft / lettersofalgerno01swiniala are other copies). The Gosse-Wise text is incomplete and Wise is a known forger; Lang's 1959-62 Letters are not PD."
+   },
+   {
+    "n": [
+     499
+    ],
+    "bloom_title": "Poems and Letters",
+    "kind": "ia",
+    "id": "lettersofalg01swinuoft",
+    "title": "The Letters of Algernon Charles Swinburne, vol. 1",
+    "translator": "ed. Edmund Gosse and Thomas James Wise",
+    "year": "1918 (IA metadata; London: W. Heinemann; title page not reached)",
+    "djvu": "",
+    "evidence": "Read the opening of the djvu (publisher's list of the Heinemann Swinburne). Collection university_of_toronto.",
+    "slug": "swinburne-letters",
+    "case": "Bloom lists Swinburne's poems and letters; nothing by him is held. The Heinemann Collected Poetical Works is on PG volume by volume; Gosse and Wise's 1918 Letters is the PD edition of the letters.",
+    "note": "Vol. 2 of the Letters needs finding (IA lettersofalgern01swinuoft / lettersofalgerno01swiniala are other copies). The Gosse-Wise text is incomplete and Wise is a known forger; Lang's 1959-62 Letters are not PD."
+   }
+  ]
+ },
+ {
+  "author": "Emily Brontë",
+  "shelf": "emily-bronte",
+  "new": true,
+  "surname": [
+   "bronte",
+   "emily bronte"
+  ],
+  "rows": [
+   {
+    "n": [
+     502
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "completepoemsofe01bronuoft",
+    "title": "The Complete Poems of Emily Brontë",
+    "translator": "ed. Clement Shorter, introductory essay by W. Robertson Nicoll",
+    "year": "1908 (IA metadata; New York: Hodder and Stoughton; title page read but no year seen in the first 3,000 characters)",
+    "djvu": "",
+    "evidence": "Read djvu title page: 'THE COMPLETE WORKS OF EMILY BRONTE IN TWO VOLUMES, VOL. I. POETRY'. Collection university_of_toronto.",
+    "slug": "bronte-complete-poems",
+    "case": "Bloom lists Emily Brontë's poems; only the 1846 joint volume is held. Shorter's edition was the first to collect the manuscript poems.",
+    "note": "Shorter's text is unreliable (it includes some poems by Anne and Branwell); Hatfield's 1923 Complete Poems (IA completepoemsofe0000bron_b5r5, 1924 metadata, not opened) is better and also pre-1931."
+   }
+  ]
+ },
+ {
+  "author": "Francis Thompson",
+  "shelf": "francis-thompson",
+  "new": true,
+  "surname": [
+   "thompson",
+   "francis thompson"
+  ],
+  "rows": [
+   {
+    "n": [
+     508
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "1469",
+    "title": "Poems",
+    "translator": "",
+    "year": "1909 printing (PG credit 'Transcribed from the September 1909 Burns and Oates edition')",
+    "djvu": "",
+    "evidence": "Read PG header.",
+    "slug": "thompson-poems",
+    "case": "Bloom lists Thompson's poems; nothing is held. Poems (1893, here the 1909 printing, with The Hound of Heaven) plus New Poems covers his verse.",
+    "note": "PG 1731 Sister Songs completes the three original books."
+   },
+   {
+    "n": [
+     508
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "1471",
+    "title": "New Poems",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "thompson-new-poems",
+    "case": "Bloom lists Thompson's poems; nothing is held. Poems (1893, here the 1909 printing, with The Hound of Heaven) plus New Poems covers his verse.",
+    "note": "PG 1731 Sister Songs completes the three original books."
+   }
+  ]
+ },
+ {
+  "author": "Lionel Johnson",
+  "shelf": "lionel-johnson",
+  "new": true,
+  "surname": [
+   "johnson",
+   "lionel johnson"
+  ],
+  "rows": [
+   {
+    "n": [
+     509
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "66520",
+    "title": "Poems",
+    "translator": "",
+    "year": "1895 (title page 'LONDON ELKIN MATHEWS 1895'; 'limited to 750 copies')",
+    "djvu": "",
+    "evidence": "Read PG front matter.",
+    "slug": "johnson-poems",
+    "case": "Bloom lists Johnson's poems; nothing is held. His 1895 Poems is on PG.",
+    "note": "Ireland, with Other Poems (1897) and the 1915 Poetical Works were not checked."
+   }
+  ]
+ },
+ {
+  "author": "Robert Bridges",
+  "shelf": "robert-bridges",
+  "new": true,
+  "surname": [
+   "bridges",
+   "robert bridges"
+  ],
+  "rows": [
+   {
+    "n": [
+     510
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "37804",
+    "title": "The Poetical Works of Robert Bridges, Excluding the Eight Dramas",
+    "translator": "",
+    "year": "unread (Oxford one-volume edition, first 1912, from memory)",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "bridges-poetical-works",
+    "case": "Bloom lists Bridges's poems; nothing is held. The Oxford one-volume Poetical Works is the standard collected text.",
+    "note": "PG also has the six-volume Smith, Elder Poetical Works (54789 etc.). The Testament of Beauty (1929) is PD too but not on PG."
+   }
+  ]
+ },
+ {
+  "author": "Gilbert Keith Chesterton",
+  "shelf": "chesterton",
+  "new": false,
+  "surname": [
+   "chesterton",
+   "gilbert keith chesterton"
+  ],
+  "rows": [
+   {
+    "n": [
+     511
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "ia",
+    "id": "collectedpoemsof0000ches",
+    "title": "The Collected Poems of G. K. Chesterton",
+    "translator": "",
+    "year": "1927 (IA metadata, [London]: C. Palmer; the scan reads 'FIRST EDITION')",
+    "djvu": "",
+    "evidence": "Read djvu opening: 'THE COLLECTED POEMS ... FIRST EDITION. Printed in Great Britain.' Collection trent_university/internetarchivebooks.",
+    "slug": "chesterton-collected-poems-g-k",
+    "case": "Bloom lists Chesterton's Collected Poems; first published by Cecil Palmer in 1927, so PD. We hold only The Ballad of the White Horse.",
+    "note": "Do not use the later expanded editions (1933 onward), which add post-1930 poems."
+   }
+  ]
+ },
+ {
+  "author": "Samuel Butler [samuel-butler]",
+  "shelf": "samuel-butler",
+  "new": false,
+  "surname": [
+   "samuelbutler",
+   "samuel butler samuelbutler"
+  ],
+  "rows": [
+   {
+    "n": [
+     514
+    ],
+    "bloom_title": "The Way of All Flesh",
+    "kind": "pg",
+    "id": "2084",
+    "title": "The Way of All Flesh",
+    "translator": "",
+    "year": "unread (posthumous, 1903; editor's note read)",
+    "djvu": "",
+    "evidence": "Read PG header and editor's note: written 1872-1884, published after Butler's death in 1902.",
+    "slug": "samuelbutler-way-all-flesh",
+    "case": "Bloom lists it; the samuel-butler shelf has his science and essays but not this novel.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "W. S. Gilbert",
+  "shelf": "w-s-gilbert",
+  "new": true,
+  "surname": [
+   "w. s. gilbert",
+   "gilbert"
+  ],
+  "rows": [
+   {
+    "n": [
+     515
+    ],
+    "bloom_title": "Complete Plays of Gilbert and Sullivan",
+    "kind": "pg",
+    "id": "808",
+    "title": "The Complete Plays of Gilbert and Sullivan",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "Read PG header: 'collaborated on 14 operas in the period from 1871 to 1896'.",
+    "slug": "gilbert-complete-plays-sullivan",
+    "case": "Bloom lists the Savoy operas; nothing by Gilbert is held. PG 808 has all the libretti.",
+    "note": ""
+   },
+   {
+    "n": [
+     516
+    ],
+    "bloom_title": "Bab Ballads",
+    "kind": "pg",
+    "id": "757",
+    "title": "Fifty \"Bab\" Ballads: Much Sound and Little Sense",
+    "translator": "",
+    "year": "1884 (PG credit 'Transcribed from the 1884 George Routledge and Sons edition')",
+    "djvu": "",
+    "evidence": "Read PG header.",
+    "slug": "gilbert-fifty-bab-ballads",
+    "case": "Bloom lists the Bab Ballads; not held.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Coventry Patmore",
+  "shelf": "coventry-patmore",
+  "new": true,
+  "surname": [
+   "patmore",
+   "coventry patmore"
+  ],
+  "rows": [
+   {
+    "n": [
+     520
+    ],
+    "bloom_title": "Odes",
+    "kind": "pg",
+    "id": "13672",
+    "title": "The Unknown Eros",
+    "translator": "",
+    "year": "unread ('Preface to Third Edition')",
+    "djvu": "",
+    "evidence": "Read PG front matter.",
+    "slug": "patmore-unknown-eros",
+    "case": "Bloom's 'Odes' are the odes of The Unknown Eros; nothing of Patmore's poetry is held (only his co-translation of St Bernard).",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "James Thomson",
+  "shelf": "james-thomson-bv",
+  "new": true,
+  "surname": [
+   "james thomson",
+   "thomson",
+   "b. v."
+  ],
+  "rows": [
+   {
+    "n": [
+     521
+    ],
+    "bloom_title": "The City of the Dreadful Night",
+    "kind": "pg",
+    "id": "1238",
+    "title": "The City of Dreadful Night",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "Read PG header and epigraph (Leopardi).",
+    "slug": "thomson-city-dreadful-night",
+    "case": "Bloom lists it; not held.",
+    "note": ""
+   }
+  ]
+ }
+]
