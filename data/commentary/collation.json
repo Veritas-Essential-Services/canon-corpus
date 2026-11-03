@@ -1,0 +1,96 @@
+{
+ "henry": {
+  "London, 1828, six volumes (NOT_IN_COPYRIGHT)": {
+   "sampled": 400,
+   "located": 375,
+   "word_agreement": 0.9368,
+   "print_old_form_ccel_other": {
+    "toward -> towards": 5,
+    "ye -> you": 4,
+    "spake -> spoke": 4,
+    "afterward -> afterwards": 4,
+    "shew -> show": 2
+   },
+   "old_forms_kept": {
+    "thee": 19,
+    "thy": 16,
+    "unto": 13,
+    "thou": 13,
+    "ye": 7,
+    "saith": 4,
+    "hast": 3,
+    "hath": 2
+   },
+   "spelling": {}
+  }
+ },
+ "jfb": {
+  "1873 one-volume printing (NOT_IN_COPYRIGHT)": {
+   "sampled": 400,
+   "located": 389,
+   "word_agreement": 0.9071,
+   "print_old_form_ccel_other": {
+    "viz -> namely": 15,
+    "whilst -> while": 3,
+    "amongst -> among": 3
+   },
+   "old_forms_kept": {
+    "ye": 42,
+    "thou": 18,
+    "thee": 18,
+    "unto": 17,
+    "thy": 11,
+    "hath": 8,
+    "hast": 4,
+    "exceeding": 2
+   },
+   "spelling": {
+    "CCEL -or, print -our": 32
+   }
+  },
+  "1879 one-volume printing": {
+   "sampled": 400,
+   "located": 380,
+   "word_agreement": 0.8853,
+   "print_old_form_ccel_other": {
+    "viz -> namely": 12,
+    "whilst -> while": 2,
+    "amongst -> among": 1
+   },
+   "old_forms_kept": {
+    "ye": 39,
+    "unto": 18,
+    "thee": 14,
+    "thou": 11,
+    "thy": 9,
+    "hath": 8,
+    "hast": 5,
+    "exceeding": 2
+   },
+   "spelling": {
+    "CCEL -or, print -our": 34
+   }
+  }
+ },
+ "barnes": {
+  "the Gospels only, 1840, two volumes (the rest of the New Testament is not checked)": {
+   "sampled": 400,
+   "located": 342,
+   "word_agreement": 0.9144,
+   "print_old_form_ccel_other": {},
+   "old_forms_kept": {
+    "ye": 18,
+    "thou": 16,
+    "hath": 9,
+    "thy": 9,
+    "unto": 9,
+    "hast": 3,
+    "afterward": 3,
+    "toward": 3
+   },
+   "spelling": {
+    "CCEL -our, print -or": 52
+   }
+  }
+ }
+}
