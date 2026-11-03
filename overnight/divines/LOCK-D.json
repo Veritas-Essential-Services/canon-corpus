@@ -1,6 +1,6 @@
 {
   "status": "running",
-  "holder": "Lane D (usage burn round 13)",
-  "heartbeat": "2026-11-03T23:00Z",
-  "resume": "PAUSED-READY 2026-11-03 (usage burn, quality only, no author batches). Rounds 11-13 done: Our Wonder World vol. 5 collated; the auto helper's numeric deletions undone in 40 lists (PR #87, merged); vol. 7's measurements read from page images (DIGEST-D round 13). Next: Book of Knowledge volumes, roughest first by garble rate; vol. 7 silent fraction errors need a full proof if Adam wants one."
+  "holder": "Lane D (usage burn round 14)",
+  "heartbeat": "2026-11-03T19:45Z",
+  "resume": "PAUSED-READY 2026-11-03 (usage burn, quality only, no author batches). Round 14: Book of Knowledge vols. 1-9, 11-16, 18-20 collated against twins (DIGEST-D round 14). Next if wanted: an image pass on Book of Knowledge body lines (two-letter case slips), sideways captions by rotated re-OCR, or vols. 10/17 by tesseract alone."
 }

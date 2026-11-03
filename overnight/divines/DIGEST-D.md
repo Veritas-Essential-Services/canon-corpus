@@ -1257,3 +1257,44 @@ What is left, and the defaults:
 - **33 body lines still hold a suspect number.** Most are correct: the dress patterns label their points "1-B", "5-D", "16-F-15", and the tables print "4 X 6". Default: leave them.
 - 🔴 **Silent errors on pages not read from the image.** The OCR sometimes reads a fraction as a clean-looking number: on p. 39 "J4" stood for ⅞, and on p. 426 "24" stood for ½. A garble survey cannot see these, because they look like numbers. Every page with a measurement table or a recipe was read from the image. Other pages with an odd-looking measurement in running prose may still hold one. Default: leave them flagged here; a full proof of vol. 7 against the scan is the only sure fix.
 - Hand-lettered labels and captions on the drawings (pp. 63, 104, 112, 128, 143, 160, 379, 393) are pictures and were not retyped.
+
+### Round 14: The Book of Knowledge, 18 of 20 volumes (2026-11-03)
+
+The 1918 Grolier printing is on the shelf as raw Internet Archive OCR. The Archive holds many more scans of the same plates, printed 1912-1927. Twins were found by shared text: 91-94% shared for most, and never under 83% for any twin used. A 1911 two-volumes-in-one rebinding and the 1908 volumes 21-22 were left out. Each volume was collated against its twins and re-read by tesseract where they disagreed.
+
+Mechanical readings were then added by rule:
+- picture and ornament noise deleted;
+- a space read as a period, colon, backslash or quote between two words put back ("is.a", "of\the");
+- stray underlines and marks at word edges dropped;
+- "1s" and "1t" read as "is" and "it";
+- old-style years read with letters ("19ro", "tgo1") read as the number.
+
+No line was read from the image this round.
+
+| Vol. | Scan | Twins collated | Garbled before | After | Readings |
+|---|---|---|---|---|---|
+| 1 | `bookofknowledgec0000arth_r2z4` | `bwb_C0-BYH-450`, `bwb_C0-ACJ-341_1`, `bookofknowledge0000arth_c3h9` | 1,789 | 526 | 462 |
+| 2 | `bookofknowledgec0000arth` | `bookofknowledge0002arth_x9y7`, `bookofknowledge0002arth` | 1,733 | 310 | 655 |
+| 3 | `bookofknowledgec0003arth` | `bwb_Y0-CGZ-773_3`, `bookofknowledge0003arth` | 1,880 | 376 | 643 |
+| 4 | `bookofknowledgec0004arth` | `bookofknowledge0004arth`, `bookofknowledge0000arth_b7u8`, `bookofknowledge0004arth_r5l3` | 1,638 | 409 | 492 |
+| 5 | `bookofknowledgec0000arth_t5y1` | `bookofknowledge0005arth`, `bookofknowledge05meea` | 1,669 | 405 | 584 |
+| 6 | `bwb_T5-ARE-234` | `bookofknowledge0000unse_j9l0`, `bookofknowledgec06thom`, `bookofknowledge0006arth` | 2,276 | 583 | 732 |
+| 7 | `bookofknowledgec0007arth` | `bwb_Y0-CIP-478_7`, `bookofknowledge0007arth` | 1,382 | 771 | 489 |
+| 8 | `bookofknowledgec0008arth` | `bwb_P9-CDR-463`, `bookofknowledgec08thom` | 1,559 | 243 | 626 |
+| 9 | `bookofknowledgec0009arth` | `bwb_S0-DGK-375_9`, `bwb_C0-BYI-445_9` | 1,696 | 307 | 620 |
+| 11 | `bookofknowledgec0011arth` | `bookofknowledgec0011na` | 1,678 | 314 | 697 |
+| 12 | `bookofknowledgec0012arth_i9d1` | `bookofknowledgec0012meea`, `bookofknowledge0012unse_r7q7` | 1,419 | 261 | 494 |
+| 13 | `bookofknowledgec0000na` | `bookofknowledge0013arth` | 1,470 | 245 | 473 |
+| 14 | `bookofknowledgec0014arth` | `bwb_W8-BOP-154_14` | 1,378 | 277 | 498 |
+| 15 | `bookofknowledgec0015arth_g5j5` | `bwb_W8-BOP-162_15`, `bookofknowledgec0015arth_g2a9`, `bookofknowledge0015arth` | 1,805 | 256 | 827 |
+| 16 | `bookofknowledge0016arth` | `bookofknowledgec16meea` | 1,784 | 300 | 645 |
+| 18 | `bookofknowledge0018arth` | `bookofknowledge0000unse_y5v7`, `bookofknowledgec18thom` | 2,396 | 562 | 674 |
+| 19 | `thebookofknowled0019na` | `bookofknowledge0019arth` | 2,377 | 515 | 709 |
+| 20 | `bookofknowledge0000arth_p6m1` | `bookofknowledge0000arth_m4c7` | 2,377 | 522 | 1,106 |
+
+Garbled-word counts use the same survey as earlier rounds. The index volume (20) is counted without its page references ("16-4965"), which the survey wrongly flags. In all, 32,306 garbled words fell to 7,182, through 11,426 word-level readings.
+
+What is left, and the defaults:
+- 🔴 **Captions printed sideways or upside down** beside the pictures. The OCR reads them backwards ("9Y}" for "the"), and they make up most of what is left in every volume (vol. 7 most of all). They are real text, so they were not deleted. Default: leave them; reading them means re-OCRing each picture page turned, which is a job of its own.
+- **Two-letter case slips in prose** ("aS was quite right", "sO mismanaged") and picture debris of the same shape ("eS", "oN") sit side by side, and only the page can tell them apart. Default: leave them for an image pass.
+- **Vols. 10 and 17 have no twin.** No other scan of this printing's vol. 10 is on the Archive, and the only vol. 17s are another edition (50% shared). Default: leave them as raw OCR.
