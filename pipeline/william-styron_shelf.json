@@ -1,0 +1,43 @@
+{
+ "_about": "William Styron. Bloom's Western Canon (1994) lists: The Long March. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Styron",
+ "_name_words": [
+  "william",
+  "styron"
+ ],
+ "_surname": [
+  "styron",
+  "william styron"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "styron-long-march": [
+   76604,
+   "The long march"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "styron-long-march": {
+   "bloom_n": [
+    1380
+   ],
+   "bloom_title": "The Long March",
+   "year": "1952 (PG header 'Original publication: New York: Random House, 1952'; title-page verso '(c) Copyright, 1952, by William Styron')",
+   "evidence": "Read the PG header and the front matter. PG released it 2025-08-01 from HathiTrust images, i.e. PG cleared it as US public domain: a 1952 copyright that was evidently not renewed.",
+   "case": "Bloom lists The Long March. It is US public domain because the 1952 copyright was not renewed, not because of its date, and Project Gutenberg hosts the clean Random House 1952 text.",
+   "note": "DECISION FOR ADAM: this passes the real test (US public domain) but not the pre-1931 date rule. It is the only such case in chunk 8. If the shelf is strictly 'published before 1931', treat it as not_pd. Vidal also has three non-renewed novels on PG (Williwaw, In a Yellow Wood, Messiah), but Bloom does not list them, so they are not suggested."
+  }
+ },
+ "_checks": {
+  "styron-long-march": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "styron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
