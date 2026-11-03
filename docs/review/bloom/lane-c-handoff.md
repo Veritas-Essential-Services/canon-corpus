@@ -131,3 +131,7 @@ did NOT shelve them. Each line: Bloom n, author, Bloom title, then the source(s)
 - **715** Miguel de Unamuno, *Three Exemplary Novels*
   - ia `threeexemplaryno0000migu_w2m4`: Three Exemplary Novels, translated by Angel Flores, with an introduction by Angel del Rio; tr. Angel Flores; 1930 for the translation ('COPYRIGHT, 1930, BY ALBERT & CHAR
   - note: Del Rio's introduction is copyright 1956, not PD; strip it and keep only the three novels (Marquis of Lumbria, Two Mothers, Nothing Less Than a Man). Assumed unrevised: the copyright line names only 1930 for the text. Other copy: threeexemp
+
+## Added 2026-11-03 (afternoon)
+
+- **Benjamin Constant, Adolphe (Bloom n 349, was "unclear").** IA `adolphenarrative0000na`: *Adolphe: a narrative found among the papers of an unknown person*, translated by Paul Hookham, introduction by Henry K. Marks, Borzoi Pocket Books (New York: Knopf). Title-page verso read: "COPYRIGHT, 1925, BY ALFRED A. KNOPF". The collection is internetarchivebooks, not lending. It is US PD by date. Hookham's translation was first published in 1913 (Fifield, London; from bibliographies, not read). So this is the PD English Adolphe that the research didn't find.
