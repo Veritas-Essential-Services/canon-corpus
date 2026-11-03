@@ -1,0 +1,43 @@
+{
+ "_about": "Norman Douglas. Bloom's Western Canon (1994) lists: South Wind. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Norman Douglas",
+ "_name_words": [
+  "norman",
+  "douglas"
+ ],
+ "_surname": [
+  "douglas",
+  "norman douglas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "douglas-south-wind": [
+   4508,
+   "South Wind"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "douglas-south-wind": {
+   "bloom_n": [
+    946
+   ],
+   "bloom_title": "South Wind",
+   "year": "\"First Published March 1917\" (PG title page, London: Martin Secker)",
+   "evidence": "PG header read: Title South Wind, Author Norman Douglas; title page \"London: Martin Secker / First Published March 1917\".",
+   "case": "Bloom lists it; the 1917 Secker first edition text is on PG, clean.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "douglas-south-wind": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
