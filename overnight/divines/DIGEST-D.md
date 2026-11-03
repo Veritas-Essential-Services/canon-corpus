@@ -1070,3 +1070,31 @@ The whole set now stands: 9 volumes proofread from Gutenberg, 8 OCR volumes corr
 
 Still open for Adam (unchanged): the scrambled Authors index, the twin page for Authors p. 50, the 14 My Book House index spots. Known limit: in Humanity, which has no twin, a slip that makes another real word is caught only by the sweep's patterns.
 
+
+### Round 2: eleven more storyteller volumes (2026-11-03)
+
+Adam's second usage burn. Quality only, no new books. Same method as above: the machine vote over every scan of the printing, then hand readings from the page images. Each fix list is `data/ocr-fixes/<scan>.json`, rows of `[page, OCR token(s), reading]` only.
+
+| Volume | Scan | Collated with | Garbled before | After | Rows |
+|---|---|---|---|---|---|
+| My Book House 1 (1920) | `latchkeyofmybook01mill` | 1 scan | 474 | 3 (names) | 472 |
+| Brave Deeds (YFL 10) | `bravedeeds01unkngoog` | 3 scans | 1,194 | 1 | 201 |
+| Children's Hour 9 | `childrenshourinf09tapp` | 2 scans | 782 | 3 (names, dialect) | 531 |
+| Junior Classics 10 | `juniorclassics0010will` | 2 scans | 553 | 2 + signature marks | 321 |
+| Famous Battles (YFL 16) | `famousbattlesby00unkngoog` | 1 scan | 748 | 3 (correct forms) | 289 |
+| Book of Adventure (YFL 8) | `youngfolkslibra00aldrgoog` | 2 scans | 869 | 3 (correct forms) | 318 |
+| MBH 1928 Up One Pair of Stairs | `uponepairofstair0000oliv_r8y1` | 1 scan | 646 | 0 | 540 |
+| MBH 1928 Through Fairy Halls | `throughfairyhall0000oliv_c0g9` | 2 scans | 775 | 0 | 549 |
+| MBH 1928 Treasure Chest | `mybookhousetreas0000unse` | 2 scans | 722 | 4 (correct forms) | 656 |
+| Journeys Through Bookland 1 | `journeysthroughb0001char` | none usable | 695 | 4 (a scan credit, McCABE) | 338 |
+| Children's Hour 1 | `childrenshourinf01tapp` | 1 scan | 826 | 0 | 2,728 |
+
+"Garbled" is the lane's measure (tokens split on em-dashes, so "Woo—Sir" is not counted). Children's Hour 1's row count is high because its picture, blank and cover pages are cleared word by word (about 2,300 of the rows); its contents and illustrations lists, set in small capitals, were read in full. Junior Classics 10's index had 31 garbled Æsop credits, each read.
+
+**Running heads.** The 1928 My Book House volumes print a running head on every page in a decorative capital face the OCR reads as noise (318, 380 and 397 heads). Each was restored as a whole-line reading: the verso head is the series name, the recto the story's title, checked against the contents and the page image.
+
+**Finding: the Flying Sails scan is misbound.** `flyingsailsofmyb0000oliv_a1f4` (shelf row `mbh-1928-flying-sails`) has the Flying Sails title and contents leaves, then about 250 pages of the 1928 Treasure Chest: 95% of its 4-word runs are in `mybookhousetreas0000unse`. It was not hand-read; its fix list is empty. The only other Flying Sails scans online are 1937 and later printings, with 1936-37 copyrights, so they cannot replace it. **Default:** the row stays and is flagged here. Recommendation: drop it, or keep it marked known-bad until a 1928 copy turns up.
+
+**Note:** the Internet Archive dates `mybookhousetreas0000unse` 1920, but its copyright page reads 1920, 1928. It is the 1928 edition, as the shelf row says.
+
+Not swept yet, roughest first by the same measure: MBH 1920 vols. 2-5, the other Young Folks' Library and Children's Hour volumes.

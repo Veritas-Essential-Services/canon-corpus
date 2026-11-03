@@ -1,0 +1,2712 @@
+{
+ "ia_id": "uponepairofstair0000oliv_r8y1",
+ "shelf": "my-book-house",
+ "witness": "mbh-1928-up-one-pair-of-stairs",
+ "collated_with": [
+  "uponepairofstair0000oliv_w9b7"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": [
+  [
+   16,
+   "Hr ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   17,
+   "MAY/ 1B Of KIFH OM Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   19,
+   "Nie Y Be OP4O Os Hl OA eee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   20,
+   "fee ON PAIR .OF: STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   21,
+   "Me Y B OO AS H- O77 Ge Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   23,
+   "M Y B OO K H-. OF) fe",
+   "MY BOOK HOUSE"
+  ],
+  [
+   24,
+   "Bre ONE IPA DR OP STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   25,
+   "MaY<tR O10 Hof See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   26,
+   "uP OWN PAIR OF STARS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   29,
+   "M Y B - O70 3K H O Se8",
+   "MY BOOK HOUSE"
+  ],
+  [
+   30,
+   "er ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   31,
+   "M Y B: O14\" Ak H O47G2 3572",
+   "MY BOOK HOUSE"
+  ],
+  [
+   32,
+   "er ONE PAIR OF: SITAIR'S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   33,
+   "Wit Y¥ Bo OLS ax He © iG? 823 i",
+   "MY BOOK HOUSE"
+  ],
+  [
+   34,
+   "me ONG PAIR ‘OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   35,
+   "M Y B Of as WH OMe Spas",
+   "MY BOOK HOUSE"
+  ],
+  [
+   36,
+   "ae ONE PAIR OF STAT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   37,
+   "M+ Y B. 640 AK. H Or Ss 2",
+   "MY BOOK HOUSE"
+  ],
+  [
+   38,
+   "Pr ONE PAIR ‘(OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   40,
+   "ee ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   41,
+   "Mayr 7h OF: 0 H @YWYh STE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   42,
+   "wie ONE PAIR OF STAFRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   44,
+   "ore ONS ALR ‘OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   45,
+   "Win Y B Oa a H Ovi Sis",
+   "MY BOOK HOUSE"
+  ],
+  [
+   46,
+   "ie ONE WAITR- (OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   47,
+   "M Y B O'O H OW) Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   48,
+   "Pie ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   51,
+   "Mav. BRB OO KREH Ove see",
+   "MY BOOK HOUSE"
+  ],
+  [
+   52,
+   "moe ONE FP ADR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   53,
+   "NE Y BOLO PK H “ON Sti",
+   "MY BOOK HOUSE"
+  ],
+  [
+   54,
+   "Se ONE AIR ‘OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   55,
+   "M Y BOO K H OF) SE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   56,
+   "er ONE PAIR ‘OF SITAFRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   59,
+   "M Y B. OFf0: AK H OVI",
+   "MY BOOK HOUSE"
+  ],
+  [
+   60,
+   "ero ONT PAIR ‘OF SITAYRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   61,
+   "M Y B* OF®@ BH O@AUP See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   62,
+   "Pre ONE PAIR OF SITATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   63,
+   "M Y B OO K!* H Of’ Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   64,
+   "ee ONE PALR OR STAINS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   67,
+   "M Y B O10 °K nm O70 St",
+   "MY BOOK HOUSE"
+  ],
+  [
+   68,
+   "we ONE WAR ‘OF STARS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   69,
+   "Min Y B GTO % H (OV Sts",
+   "MY BOOK HOUSE"
+  ],
+  [
+   70,
+   "wee ONCE PP ATR OOF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   73,
+   "M Y POO & H @vfU) 887 sh",
+   "MY BOOK HOUSE"
+  ],
+  [
+   74,
+   "oe ONE PAIR ©F STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   75,
+   "WIS Y B OMO WK HOU) Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   76,
+   "wee UNE SP ADR “OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   77,
+   "MLL Y BY Gat) A. H Oe) Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   79,
+   "M slY BOO % H © 7U) ST@",
+   "MY BOOK HOUSE"
+  ],
+  [
+   81,
+   "wis Y B @ tt) oR EH i) 7.0) ot a",
+   "MY BOOK HOUSE"
+  ],
+  [
+   84,
+   "woe ONE PAIR OF STAERS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   86,
+   "Pr ONE PAIR: OF’ STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   88,
+   "OP ONE 'PATR ‘OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   90,
+   "mie GONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   91,
+   "M Y B GO AK Fi s@) O25 * “Sta",
+   "MY BOOK HOUSE"
+  ],
+  [
+   93,
+   "M Y B OPO a H Ov dy Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   94,
+   "Pe we NEEEPALR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   96,
+   "UPPONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   97,
+   "My B O'@ K H @OYUs se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   98,
+   "moe COON PAIR ‘OR’ SITATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   99,
+   "M Y Bs OF 10 & H 0 Ay Sa",
+   "MY BOOK HOUSE"
+  ],
+  [
+   101,
+   "M Y B “G0 AK H 70°50? “See.",
+   "MY BOOK HOUSE"
+  ],
+  [
+   103,
+   "M Y Be Ur. ie H QA 848",
+   "MY BOOK HOUSE"
+  ],
+  [
+   104,
+   "pee ONE TPATR OF STAWTRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   107,
+   "M -Y Be Ge aK A. (se ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   108,
+   "oe CONSE PPA PROF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   110,
+   "ee ONE TPALR COR STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   111,
+   "VES OY B O80 a H OO FLR, Shae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   114,
+   "Pi ONE PAIR ‘OF STAT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   115,
+   "MAY B O Kir f- Ay See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   116,
+   "WP ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   117,
+   "MT Y & TB O40 A A OP ee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   118,
+   "er ONE IADR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   120,
+   "mie ONG we ATR OF: STAT RIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   121,
+   "WL Y Be Ora. a6 H ©0.7U> ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   122,
+   "me ON PAIR OF STAT RIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   123,
+   "Mit Y B K H O4W Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   126,
+   "mie GOING PAIR OF STATRE",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   129,
+   "M Y BOO: aA H- O4W St ®",
+   "MY BOOK HOUSE"
+  ],
+  [
+   132,
+   "Poe ONE PAIR OF) STALRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   135,
+   "M Y B O® Kl A Orr aS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   136,
+   "woe ONE PAR OF ST AA RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   137,
+   "Me Y B OfO°S H OA Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   138,
+   "pe ONO a APR-OF STAT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   139,
+   "M Y B Ga 3s Pl OSUr tee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   140,
+   "ee ONE OPADPR ‘OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   141,
+   "M Y B OTTO *K H OVW SPE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   142,
+   "foe WN TPA DR POF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   143,
+   "M Y BOO K H OU Sree",
+   "MY BOOK HOUSE"
+  ],
+  [
+   144,
+   "mBireON® PAIR OF S'ITAERS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   145,
+   "MSY Y 7B Ow: a 4H O45 %U0Sts",
+   "MY BOOK HOUSE"
+  ],
+  [
+   147,
+   "M Y B OVW K nH O70) se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   148,
+   "ei ONG PAIR ‘OF STAFRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   150,
+   "won one TALK OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   152,
+   "oe ONE PAIR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   153,
+   "ed B OO K H °\"O4AU) St ©",
+   "MY BOOK HOUSE"
+  ],
+  [
+   154,
+   "ee ONE PP ADR COR STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   155,
+   "M Y B OOO AN H “OURS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   156,
+   "Pe UNS PATR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   157,
+   "wie! Y B Ot A H OU Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   159,
+   "Wa TY B O70 HW OVO Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   161,
+   "Ms: Y Be Oa) 7% H OU“ oh",
+   "MY BOOK HOUSE"
+  ],
+  [
+   164,
+   "Sr ONE TPATR ‘(OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   165,
+   "M Y B Ot Ms H JOG Sti",
+   "MY BOOK HOUSE"
+  ],
+  [
+   166,
+   "aoe Ne ATR ‘OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   167,
+   "Ms Y BP OF: mm iH OU) SSTE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   168,
+   "or ONE PAIR ‘OF SITATR'S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   170,
+   "poe ONE FADR “OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   174,
+   "mor ONG WAIR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   175,
+   "NLA Y. BB: OFO R M OA Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   176,
+   "ein ONE PAIR OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   178,
+   "UP ONE PAIR OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   179,
+   "Mey. TBR O77 & H OF 812",
+   "MY BOOK HOUSE"
+  ],
+  [
+   180,
+   "eee Gene ae ATR OF STAT RES",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   181,
+   "Me Y B Of K H OUP Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   182,
+   "moe ONE (ALR (OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   183,
+   "Wie. Y B OF fO Fs fH (OW St a",
+   "MY BOOK HOUSE"
+  ],
+  [
+   184,
+   "UPS Oe FAIR OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   186,
+   "moe ONE PAIR (OF) STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   187,
+   "BOO H OAUY Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   188,
+   "er ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   189,
+   "WI Y B OO K H ©O4U} 878",
+   "MY BOOK HOUSE"
+  ],
+  [
+   191,
+   "M Y Be “OF HO\" aK H Ors Sis",
+   "MY BOOK HOUSE"
+  ],
+  [
+   192,
+   "fee ON@ PADR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   194,
+   "ei ONG TP AIR (OF STATR'S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   195,
+   "M Y BOLO % H OF Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   198,
+   "ei Oo Nee FPADR -OF STAT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   200,
+   "wae ws PAIR OF) SITAYTRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   201,
+   "M Y Bb OP ik bh OU Sao",
+   "MY BOOK HOUSE"
+  ],
+  [
+   203,
+   "M Y B OO WA H Oe See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   204,
+   "eee ONE PAIR OF) SITAITRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   205,
+   "M Y Be OF; \"Or 1k EO aU Sa",
+   "MY BOOK HOUSE"
+  ],
+  [
+   208,
+   "wee CON tee ALR (OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   210,
+   "Pre ONE ADR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   212,
+   "er ONG PAIR OF STAPR'S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   213,
+   "M Y Be OO i OW 822",
+   "MY BOOK HOUSE"
+  ],
+  [
+   215,
+   "M Y BOO. K lO Uy Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   216,
+   "er ONE PAIR ‘OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   217,
+   "any B OW IK H OVI) Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   218,
+   "om Nee ar A GR -OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   221,
+   "Ma Ys 2B. GO Rip el O70) See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   223,
+   "MAY‘ *R a H: OVW) GE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   224,
+   "er OND PAIR OF) STARS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   225,
+   "MAY BOO K H @ 7) Sts",
+   "MY BOOK HOUSE"
+  ],
+  [
+   226,
+   "a ONE PP AIR (OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   227,
+   "Vie *Y B 610 %K Fl °O'- Uy St",
+   "MY BOOK HOUSE"
+  ],
+  [
+   228,
+   "Pe ONE CPAVR COP STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   230,
+   "wie ONE PADDR (OF STARS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   233,
+   "M Y B OO K H OF Use",
+   "MY BOOK HOUSE"
+  ],
+  [
+   234,
+   "ee ONE FAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   237,
+   "M Y B O70 Ar Of 878",
+   "MY BOOK HOUSE"
+  ],
+  [
+   238,
+   "Pie Gane ae ATR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   239,
+   "NT Y B OO H OV) oT 2",
+   "MY BOOK HOUSE"
+  ],
+  [
+   245,
+   "Ms Y BO O40 Ft 4H TOV St ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   246,
+   "Pie ONE PAIR ‘OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   249,
+   "MY BOO EK H 8 7) STS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   250,
+   "SM ONG PAIR ‘OF STAR'S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   251,
+   "M Y BOM. KIA OU) Si",
+   "MY BOOK HOUSE"
+  ],
+  [
+   253,
+   "Ms Or 40” Hs H OW® Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   254,
+   "UP ONS PAIR OF) SITAYFRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   257,
+   "M Y BR Or® BAH O AO SSTE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   264,
+   "Ur ONE PAIR OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   268,
+   "ae ONE TAUR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   270,
+   "wee ONE PAIR OF S'ITAFR'S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   273,
+   "Rik B: GPR Zs. fl OFUr Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   274,
+   "Wre ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   275,
+   "M Y Bo OT “& H OAD Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   276,
+   "eee ONE PAIR OF SITATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   277,
+   "M Y OFM: & H OVW Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   281,
+   "M Y B @e) AK H -O/ Sr ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   282,
+   "UP ONE PAIR OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   283,
+   "MAY Be OO OK H QW Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   286,
+   "et ONE PAIR ‘OF ST ATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   287,
+   "M Y B'OMt® oak Hl) vd) Sia",
+   "MY BOOK HOUSE"
+  ],
+  [
+   288,
+   "mee ONG PAIR OF) SITATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   289,
+   "MiiY/ TR O©@ KIZH OF Sin",
+   "MY BOOK HOUSE"
+  ],
+  [
+   292,
+   "eee UNE FP ATR OF STAT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   293,
+   "Nis Y B ORD aK H O7W; Sry",
+   "MY BOOK HOUSE"
+  ],
+  [
+   294,
+   "mir ONCE WAR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   296,
+   "Pt ONE PAIR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   297,
+   "MY\" RB 640 KIA OU Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   298,
+   "Pee ONS PPALR ‘OF’ STAT RIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   299,
+   "Mis - 7B OF ie H 0 /UT 872",
+   "MY BOOK HOUSE"
+  ],
+  [
+   300,
+   "Or ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   301,
+   "Mi VA ?R OMO\"R: AH OMG Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   304,
+   "woe ONE PAIR ‘OF STAPRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   308,
+   "See NE “FAIR (OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   309,
+   "Moi Y B OFO A H Oyu soe",
+   "MY BOOK HOUSE"
+  ],
+  [
+   310,
+   "wir ONCE TRATR (OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   313,
+   "M Y BOw® K& Hh OU? SP a",
+   "MY BOOK HOUSE"
+  ],
+  [
+   314,
+   "mie ONE PALTR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   316,
+   "moe ONE PP AGPR OOF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   318,
+   "Br ONE PARR OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   320,
+   "ee ONE PPATR “OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   321,
+   "i ee B OO Re 2H OV ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   322,
+   "Sr ONG PAIR OF: SITATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   325,
+   "M Y BOO KIAN VAG Sea",
+   "MY BOOK HOUSE"
+  ],
+  [
+   326,
+   "mie ONG PPAR “OF STAT RE",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   328,
+   "or ONE PALR ‘OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   329,
+   "M Y B OO AK H Ot a eS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   330,
+   "pee ONE PAIR OF S'TATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   332,
+   "Pee ONE (OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   333,
+   "Me: Y B '@ tO 3K H :OVLU S&B",
+   "MY BOOK HOUSE"
+  ],
+  [
+   334,
+   "UP ONE PAIR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   335,
+   "MSY %. VB? OF Sp) ae H Of Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   336,
+   "Pe ONE PPADPRVOF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   337,
+   "M Y B- OO OK HM eOveUy Are",
+   "MY BOOK HOUSE"
+  ],
+  [
+   338,
+   "Sire ONE PAIR OF) SIT ATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   339,
+   "NIA Y BOW K H OY Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   340,
+   "ee ONE IPARPR (OR STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   341,
+   "MY Be AAO FS H OW Ur Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   344,
+   "Pee ONE BPAISR (OP STARS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   346,
+   "We ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   348,
+   "UP ONE PAIR ‘OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   349,
+   "MY. TR Of0 22H mw see",
+   "MY BOOK HOUSE"
+  ],
+  [
+   350,
+   "moe ONE PPATR -OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   351,
+   "MY B OS 7K HOO? Sr te",
+   "MY BOOK HOUSE"
+  ],
+  [
+   352,
+   "Pee ONE PPADR TOR STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   354,
+   "oe ONE PARR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   355,
+   "Me Y 2 TB a tO Oe H OFW SE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   356,
+   "er ONE PATR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   357,
+   "Mi ey. BO Or RTAN Ora see",
+   "MY BOOK HOUSE"
+  ],
+  [
+   358,
+   "eee CONTE (ATR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   359,
+   "‘eas -Y B -K H OW Sree",
+   "MY BOOK HOUSE"
+  ],
+  [
+   364,
+   "Gre ONE PAIR ©F SITAERIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   365,
+   "M Y BY OLD As. H @OAuY Sea",
+   "MY BOOK HOUSE"
+  ],
+  [
+   366,
+   "ee Ce Tr ATR (OF STAT RIS.",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   367,
+   "MM Y Bu OES: IK H OU) See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   368,
+   "Pie CENCE IP ATR (OF STAT RES",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   371,
+   "M Y BOO GW H Ove Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   372,
+   "woe CONT TP ALR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   373,
+   "NAY B @i0 3K H OF Ui St",
+   "MY BOOK HOUSE"
+  ],
+  [
+   374,
+   "Ur ONE IPAPR (OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   375,
+   "M Y B GO KiezH Ova sia",
+   "MY BOOK HOUSE"
+  ],
+  [
+   376,
+   "wir ONE AIR ‘OF STARS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   377,
+   "M AY B OF IK H O73 eG",
+   "MY BOOK HOUSE"
+  ],
+  [
+   378,
+   "et ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   379,
+   "M Y BOO (OH HH 7e7 Same",
+   "MY BOOK HOUSE"
+  ],
+  [
+   380,
+   "woe ONE ATR ‘OF STARS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   381,
+   "M Y B OF H QO @° STE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   383,
+   "M Y BOR H OU! Si #",
+   "MY BOOK HOUSE"
+  ],
+  [
+   384,
+   "Sr ONE PAIR OF, STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   385,
+   "M7 Y BOW & H O70 Si-E",
+   "MY BOOK HOUSE"
+  ],
+  [
+   387,
+   "M Y BOO K H OF) See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   388,
+   "moe ONE FR ADR OF ST AT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   389,
+   "M YS Bo O70 As H 207 O) oS.",
+   "MY BOOK HOUSE"
+  ],
+  [
+   390,
+   "eer ONE PAIR “OF STATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   391,
+   "Na Y By @ D ae H OW Sra",
+   "MY BOOK HOUSE"
+  ],
+  [
+   392,
+   "foe ON ar ALR (OF STAT RIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   393,
+   "M Y BOO K H O47) STS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   394,
+   "ie ONE ATR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   395,
+   "M Y BOO ai H Ow sre",
+   "MY BOOK HOUSE"
+  ],
+  [
+   399,
+   "M Y BOLO KEE \"H OA Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   400,
+   "mie OUNCE TP ALR (OF STAT RIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   403,
+   "NS Y By OO Fx H OW) ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   404,
+   "UP ONE PAIR (OF STAT RIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   405,
+   "Wit Y B O10 XK H OF? Sire",
+   "MY BOOK HOUSE"
+  ],
+  [
+   406,
+   "of ONE PALR (OF STATR'S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   407,
+   "M y B OO H OF) Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   408,
+   "oe Ne ADR OF STATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   409,
+   "M Y EB OF €0\" Ak H OW Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   410,
+   "mie ONE ACR OF SITATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   411,
+   "May B OW H OW Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   412,
+   "eee NE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   414,
+   "wee ONE IPAIR OF STATIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   417,
+   "M Y B tO om H OW So",
+   "MY BOOK HOUSE"
+  ],
+  [
+   418,
+   "or ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   419,
+   "M Y B OWO K H O/7W) STs",
+   "MY BOOK HOUSE"
+  ],
+  [
+   420,
+   "UP GIN AIR OF) STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   422,
+   "moe ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   423,
+   "M Y B Ot & H OA) See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   424,
+   "fee ONE PAIR ‘OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   425,
+   "M Y BO f® a H O7W See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   426,
+   "ee ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   427,
+   "MY B O70 K H OW Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   428,
+   "ee ONE PPALR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   429,
+   "M Y B Gia) ae HOU: Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   430,
+   "ere ONE PAIR OF) SIITATRIS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   432,
+   "me ONE PAIR (OF) STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   433,
+   "Nie Y Be OFAO AK H OU’ Sm",
+   "MY BOOK HOUSE"
+  ],
+  [
+   436,
+   "er ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   437,
+   "MY B OO KK H9O\"U See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   438,
+   "eee ON PATR OF) STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   439,
+   "M Y Be Ono Js H @yGrs",
+   "MY BOOK HOUSE"
+  ],
+  [
+   440,
+   "“UP ONE PAIR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   441,
+   "M Y B OT SK H Of UO See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   443,
+   "MAY) TB Ot) Ki ACH O40 oa",
+   "MY BOOK HOUSE"
+  ],
+  [
+   447,
+   "M Y B Ora K H Oi Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   448,
+   "moe GOIN RATER OF) STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   449,
+   "M Y B OV® 'K -2c°R) Dee 828",
+   "MY BOOK HOUSE"
+  ],
+  [
+   450,
+   "eee NE PATR OF STAIRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   43,
+   "M Y BOnW®: Hh OUTST EH",
+   "MY BOOK HOUSE"
+  ],
+  [
+   347,
+   "MAAAYATR G@® RIAU OGr ore",
+   "MY BOOK HOUSE"
+  ],
+  [
+   78,
+   "woe GIN® HATR -OF) SITALRG",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   106,
+   "ir ONG wWATR OF: STALPRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   127,
+   "MAY .7R Of} Gi eal Aeros e",
+   "MY BOOK HOUSE"
+  ],
+  [
+   172,
+   "UP ON®e FAIR ‘OF SITATRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   232,
+   "eee ceNwe e ATR (OF) ST AT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   240,
+   "Power tPATPR OOP S TAIT RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   302,
+   "wePe ON eR OR? Stl Aer RS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   342,
+   "mete (ONE AR tO (OF) ST AW Ras",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   360,
+   "Pre UN wALTR OF STAPRS",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   401,
+   "“MeV. TR O@ Kir H OF Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   95,
+   "de Bea Bi °ORO ay gy Mita O25 Sas Si",
+   "MY BOOK HOUSE"
+  ],
+  [
+   199,
+   "vie ¥ Br Oto ag ED O70 Ur Same",
+   "MY BOOK HOUSE"
+  ],
+  [
+   211,
+   "misty b. O40 AK Fl OO Fre Se ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   235,
+   "hie ¥ Bb OFM: 1K H © 7U Ste",
+   "MY BOOK HOUSE"
+  ],
+  [
+   305,
+   "Ri y. Bi OF \"dK H OVUY ores",
+   "MY BOOK HOUSE"
+  ],
+  [
+   307,
+   "via y Be Or*0 aK H Oo Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   413,
+   "Sia y Be (Op aR H © lh See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   415,
+   "IVS) OY Bo Oa) FS H O70 Sime",
+   "MY BOOK HOUSE"
+  ],
+  [
+   1,
+   "@",
+   ""
+  ],
+  [
+   1,
+   "oW%",
+   ""
+  ],
+  [
+   6,
+   "=",
+   ""
+  ],
+  [
+   7,
+   ">",
+   ""
+  ],
+  [
+   7,
+   "¢",
+   ""
+  ],
+  [
+   8,
+   "=",
+   ""
+  ],
+  [
+   8,
+   ".°°.",
+   ""
+  ],
+  [
+   8,
+   "~~.",
+   ""
+  ],
+  [
+   8,
+   "©.",
+   ""
+  ],
+  [
+   8,
+   "|.",
+   ""
+  ],
+  [
+   8,
+   "._.",
+   ""
+  ],
+  [
+   8,
+   "°..",
+   ""
+  ],
+  [
+   9,
+   "~@",
+   ""
+  ],
+  [
+   9,
+   "«a.",
+   ""
+  ],
+  [
+   9,
+   "oo»",
+   ""
+  ],
+  [
+   9,
+   "2.1",
+   ""
+  ],
+  [
+   9,
+   "»",
+   ""
+  ],
+  [
+   9,
+   ".~—..__—...",
+   ""
+  ],
+  [
+   10,
+   "._..",
+   ""
+  ],
+  [
+   10,
+   "~~.",
+   ""
+  ],
+  [
+   10,
+   "=",
+   ""
+  ],
+  [
+   11,
+   "..%.",
+   ""
+  ],
+  [
+   20,
+   "¢°23}",
+   ""
+  ],
+  [
+   21,
+   "<",
+   ""
+  ],
+  [
+   22,
+   "<",
+   ""
+  ],
+  [
+   24,
+   "u0°",
+   ""
+  ],
+  [
+   31,
+   "’%",
+   ""
+  ],
+  [
+   33,
+   "is_",
+   ""
+  ],
+  [
+   42,
+   "a/",
+   ""
+  ],
+  [
+   42,
+   "_s",
+   ""
+  ],
+  [
+   42,
+   "=",
+   ""
+  ],
+  [
+   45,
+   "=<",
+   ""
+  ],
+  [
+   46,
+   "P&",
+   ""
+  ],
+  [
+   46,
+   "|Z",
+   ""
+  ],
+  [
+   46,
+   "|,",
+   ""
+  ],
+  [
+   48,
+   "@N",
+   ""
+  ],
+  [
+   48,
+   "¢",
+   ""
+  ],
+  [
+   48,
+   "R¥",
+   ""
+  ],
+  [
+   57,
+   "¥:",
+   ""
+  ],
+  [
+   57,
+   "OF@",
+   ""
+  ],
+  [
+   58,
+   "=e)",
+   ""
+  ],
+  [
+   63,
+   "=»",
+   ""
+  ],
+  [
+   83,
+   "°",
+   ""
+  ],
+  [
+   87,
+   "¥",
+   ""
+  ],
+  [
+   87,
+   "@",
+   ""
+  ],
+  [
+   87,
+   "©",
+   ""
+  ],
+  [
+   89,
+   "=",
+   ""
+  ],
+  [
+   89,
+   "=",
+   ""
+  ],
+  [
+   90,
+   "|'¥",
+   ""
+  ],
+  [
+   90,
+   "Li_\\\\",
+   ""
+  ],
+  [
+   96,
+   "in_",
+   ""
+  ],
+  [
+   102,
+   "©",
+   ""
+  ],
+  [
+   112,
+   "=e",
+   ""
+  ],
+  [
+   113,
+   "\\y",
+   ""
+  ],
+  [
+   116,
+   "|‘",
+   ""
+  ],
+  [
+   116,
+   "|‘",
+   ""
+  ],
+  [
+   116,
+   "|.",
+   ""
+  ],
+  [
+   116,
+   "|;",
+   ""
+  ],
+  [
+   120,
+   "=",
+   ""
+  ],
+  [
+   126,
+   "$",
+   ""
+  ],
+  [
+   126,
+   "@",
+   ""
+  ],
+  [
+   132,
+   "©",
+   ""
+  ],
+  [
+   140,
+   "go>",
+   ""
+  ],
+  [
+   140,
+   "\\e",
+   ""
+  ],
+  [
+   146,
+   "+",
+   ""
+  ],
+  [
+   146,
+   "4\\\\)",
+   ""
+  ],
+  [
+   146,
+   "(|",
+   ""
+  ],
+  [
+   160,
+   "1$7",
+   ""
+  ],
+  [
+   177,
+   "O*U)S!",
+   ""
+  ],
+  [
+   185,
+   "»",
+   ""
+  ],
+  [
+   193,
+   "|:",
+   ""
+  ],
+  [
+   202,
+   "¥",
+   ""
+  ],
+  [
+   220,
+   ">",
+   ""
+  ],
+  [
+   221,
+   "S&|",
+   ""
+  ],
+  [
+   226,
+   ">",
+   ""
+  ],
+  [
+   226,
+   "=",
+   ""
+  ],
+  [
+   226,
+   "=",
+   ""
+  ],
+  [
+   230,
+   "20%",
+   ""
+  ],
+  [
+   242,
+   "=ie",
+   ""
+  ],
+  [
+   243,
+   "a_",
+   ""
+  ],
+  [
+   247,
+   "~~,",
+   ""
+  ],
+  [
+   255,
+   "»",
+   ""
+  ],
+  [
+   255,
+   "252°",
+   ""
+  ],
+  [
+   259,
+   "+",
+   ""
+  ],
+  [
+   261,
+   "'¢",
+   ""
+  ],
+  [
+   269,
+   "Oe®",
+   ""
+  ],
+  [
+   269,
+   "@",
+   ""
+  ],
+  [
+   271,
+   "[>",
+   ""
+  ],
+  [
+   272,
+   "\\-",
+   ""
+  ],
+  [
+   276,
+   "t=",
+   ""
+  ],
+  [
+   276,
+   "—\\",
+   ""
+  ],
+  [
+   283,
+   "_—",
+   ""
+  ],
+  [
+   284,
+   "<",
+   ""
+  ],
+  [
+   285,
+   "=”",
+   ""
+  ],
+  [
+   316,
+   "=",
+   ""
+  ],
+  [
+   316,
+   "°",
+   ""
+  ],
+  [
+   328,
+   "ae®",
+   ""
+  ],
+  [
+   332,
+   "<",
+   ""
+  ],
+  [
+   332,
+   "$s",
+   ""
+  ],
+  [
+   332,
+   "=",
+   ""
+  ],
+  [
+   332,
+   "\\f",
+   ""
+  ],
+  [
+   341,
+   "=",
+   ""
+  ],
+  [
+   344,
+   "V_",
+   ""
+  ],
+  [
+   346,
+   "=",
+   ""
+  ],
+  [
+   351,
+   "==",
+   ""
+  ],
+  [
+   361,
+   "cL",
+   "cl."
+  ],
+  [
+   361,
+   "%",
+   ""
+  ],
+  [
+   362,
+   "™",
+   ""
+  ],
+  [
+   390,
+   "i=",
+   ""
+  ],
+  [
+   421,
+   "#3",
+   ""
+  ],
+  [
+   435,
+   ">",
+   ""
+  ],
+  [
+   437,
+   "=",
+   ""
+  ],
+  [
+   441,
+   "»",
+   ""
+  ],
+  [
+   451,
+   "+",
+   ""
+  ],
+  [
+   451,
+   "——=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   1,
+   "Saa4y>",
+   ""
+  ],
+  [
+   7,
+   "@Ghree",
+   "Three"
+  ],
+  [
+   8,
+   "sas.»",
+   ""
+  ],
+  [
+   8,
+   "eA",
+   ""
+  ],
+  [
+   8,
+   "BRooKLeET’s",
+   "BROOKLET’S"
+  ],
+  [
+   8,
+   "ButTerFLy,Toa",
+   "BUTTERFLY, TO A"
+  ],
+  [
+   8,
+   "MotHer",
+   "MOTHER"
+  ],
+  [
+   9,
+   "\\Olive",
+   "Olive"
+  ],
+  [
+   9,
+   "CotumsBvus’",
+   "COLUMBUS’"
+  ],
+  [
+   9,
+   "CaT_",
+   "CAT"
+  ],
+  [
+   9,
+   "VachelInndsay",
+   "Vachel Lindsay"
+  ],
+  [
+   9,
+   "JupGcep",
+   "JUDGED"
+  ],
+  [
+   9,
+   "oF",
+   "OF"
+  ],
+  [
+   9,
+   "JacobGrimm",
+   "Jacob Grimm"
+  ],
+  [
+   9,
+   "FooursH,",
+   "FOOLISH,"
+  ],
+  [
+   9,
+   "PastuRE",
+   "PASTURE"
+  ],
+  [
+   9,
+   "JohannaSpyri",
+   "Johanna Spyri"
+  ],
+  [
+   9,
+   "HIawaTHA’s",
+   "HIAWATHA’S"
+  ],
+  [
+   10,
+   "AnnetieWynne",
+   "Annette Wynne"
+  ],
+  [
+   10,
+   "Lity,A",
+   "LILY, A"
+  ],
+  [
+   10,
+   "LittLe",
+   "LITTLE"
+  ],
+  [
+   10,
+   "oF",
+   "OF"
+  ],
+  [
+   10,
+   "Ow.’s",
+   "OWL’S"
+  ],
+  [
+   10,
+   "Fo.ik",
+   "FOLK"
+  ],
+  [
+   11,
+   "LUMBERJACK,A",
+   "LUMBERJACK, A"
+  ],
+  [
+   11,
+   "<-“Charles\\Perraut",
+   "Charles Perrault"
+  ],
+  [
+   11,
+   "oF",
+   "OF"
+  ],
+  [
+   11,
+   "ToneuE-Cut",
+   "TONGUE-CUT"
+  ],
+  [
+   11,
+   "DanciInG",
+   "DANCING"
+  ],
+  [
+   11,
+   "LirrtEe",
+   "LITTLE"
+  ],
+  [
+   11,
+   "WeeTuank",
+   "WEE THANK"
+  ],
+  [
+   11,
+   "_~=~OWilliam",
+   "William"
+  ],
+  [
+   15,
+   "except.a",
+   "except a"
+  ],
+  [
+   15,
+   "I2",
+   "12"
+  ],
+  [
+   20,
+   "eaT",
+   ""
+  ],
+  [
+   27,
+   "aA",
+   ""
+  ],
+  [
+   30,
+   "~pale,",
+   "pale,"
+  ],
+  [
+   36,
+   "_meaning",
+   "meaning"
+  ],
+  [
+   41,
+   "bear’s:coat",
+   "bear’s coat"
+  ],
+  [
+   41,
+   "_leave",
+   "leave"
+  ],
+  [
+   48,
+   "greatfX",
+   "great"
+  ],
+  [
+   48,
+   "iN",
+   "In"
+  ],
+  [
+   58,
+   "iA,",
+   ""
+  ],
+  [
+   62,
+   "shelf,-and",
+   "shelf, and"
+  ],
+  [
+   64,
+   "picTuRe",
+   "PICTURE"
+  ],
+  [
+   64,
+   "byA",
+   "BY A"
+  ],
+  [
+   64,
+   "oF",
+   "OF"
+  ],
+  [
+   64,
+   "pLATes,",
+   "PLATES,"
+  ],
+  [
+   64,
+   "DisHes",
+   "DISHES"
+  ],
+  [
+   64,
+   "iN",
+   "IN"
+  ],
+  [
+   64,
+   "cANNot",
+   "CANNOT"
+  ],
+  [
+   64,
+   "FaiRieS",
+   "FAIRIES"
+  ],
+  [
+   85,
+   "NuN’S",
+   "NUN’S"
+  ],
+  [
+   87,
+   "as1,one:.",
+   "as one"
+  ],
+  [
+   94,
+   "gI",
+   "91"
+  ],
+  [
+   105,
+   "I02",
+   "102"
+  ],
+  [
+   115,
+   "II2",
+   "112"
+  ],
+  [
+   117,
+   "II4",
+   "114"
+  ],
+  [
+   118,
+   "out.a",
+   "out a"
+  ],
+  [
+   118,
+   "II5",
+   "115"
+  ],
+  [
+   120,
+   "I17",
+   "117"
+  ],
+  [
+   122,
+   "11g",
+   "119"
+  ],
+  [
+   126,
+   "oO",
+   ""
+  ],
+  [
+   138,
+   "aQabcedefghijkimnopqrstuvwxyes",
+   "abcdefghijklmnopqrstuvwxyz"
+  ],
+  [
+   141,
+   "Z2’/’",
+   "Li’l’"
+  ],
+  [
+   141,
+   "1i’l’",
+   "li’l’"
+  ],
+  [
+   144,
+   "I4I",
+   "141"
+  ],
+  [
+   145,
+   "eCatalr",
+   ""
+  ],
+  [
+   145,
+   "inbeCatech",
+   ""
+  ],
+  [
+   145,
+   "was_",
+   "was"
+  ],
+  [
+   146,
+   "mM",
+   ""
+  ],
+  [
+   146,
+   "ehAN",
+   ""
+  ],
+  [
+   147,
+   "1i’l’",
+   "li’l’"
+  ],
+  [
+   155,
+   "Thereat,a",
+   "Thereat, a"
+  ],
+  [
+   155,
+   "Swell-the-cheeksamI.",
+   "Swell-the-cheeks am I."
+  ],
+  [
+   171,
+   "eS",
+   ""
+  ],
+  [
+   175,
+   "she~",
+   "she"
+  ],
+  [
+   177,
+   "were/",
+   "were"
+  ],
+  [
+   179,
+   "bed,.the",
+   "bed, the"
+  ],
+  [
+   187,
+   "oF",
+   "OF"
+  ],
+  [
+   216,
+   "ar4",
+   "214"
+  ],
+  [
+   220,
+   "a7",
+   "217"
+  ],
+  [
+   253,
+   "not.run,",
+   "not run,"
+  ],
+  [
+   254,
+   "men_",
+   "men"
+  ],
+  [
+   276,
+   "N4",
+   ""
+  ],
+  [
+   281,
+   "red_primroses;",
+   "red primroses;"
+  ],
+  [
+   284,
+   "looking.down",
+   "looking down"
+  ],
+  [
+   284,
+   "and_",
+   "and"
+  ],
+  [
+   301,
+   "-~Two",
+   "Two"
+  ],
+  [
+   318,
+   "you,without",
+   "you, without"
+  ],
+  [
+   334,
+   "33t",
+   "331"
+  ],
+  [
+   345,
+   "then.that",
+   "then that"
+  ],
+  [
+   359,
+   "forhimself,but",
+   "for himself, but"
+  ],
+  [
+   359,
+   "children,whom",
+   "children, whom"
+  ],
+  [
+   393,
+   "an_ice-floe.",
+   "an ice-floe."
+  ],
+  [
+   400,
+   "not.so",
+   "not so"
+  ],
+  [
+   400,
+   "a_neces-",
+   "a neces-"
+  ],
+  [
+   404,
+   "clothes?’’saidGrandfather,",
+   "clothes?’’ said Grandfather,"
+  ],
+  [
+   409,
+   "to,.saluted",
+   "to, saluted"
+  ],
+  [
+   414,
+   "oF",
+   ""
+  ],
+  [
+   428,
+   "aS",
+   ""
+  ],
+  [
+   434,
+   "WapswortH",
+   "WADSWORTH"
+  ],
+  [
+   444,
+   "sir,’’saidshe,",
+   "sir,’’ said she,"
+  ],
+  [
+   448,
+   "AA5",
+   "445"
+  ],
+  [
+   451,
+   "vA",
+   ""
+  ],
+  [
+   453,
+   "F255",
+   ""
+  ],
+  [
+   413,
+   "4t0",
+   "410"
+  ],
+  [
+   206,
+   "meee Ne Fr oA IR SOR ST AER’S",
+   "UP ONE PAIR OF STAIRS"
+  ],
+  [
+   10,
+   "oF",
+   "OF"
+  ],
+  [
+   199,
+   "a_",
+   "a"
+  ],
+  [
+   302,
+   "L\\",
+   ""
+  ]
+ ]
+}
