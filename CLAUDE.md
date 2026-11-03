@@ -935,6 +935,9 @@ The living truth for project state is the Obsidian vault:
   running-head, inferred, *-to-head). A unit is the verses the PAGE heads
   name, not the note's own bounds; the honesty says so. Scans chosen by
   measure with this reader (scheme.scan_choice names the losers).
+  A run that crosses a chapter fills to that chapter's length in the book's
+  decided numbering; undecided, the shorter count, marked run_approximate
+  (review c13). The K&D harvest reads verse lists through verse_lists too.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
