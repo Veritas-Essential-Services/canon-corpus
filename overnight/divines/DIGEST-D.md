@@ -1105,7 +1105,7 @@ Not swept yet, roughest first by the same measure: MBH 1920 vols. 2-5, the other
 |---|---|---|---|---|---|
 | 2, Up One Pair of Stairs (1920) | `latchkeyofmybook02mill` | 3 scans | 533 | 31 (a damaged leaf) | 1,605 |
 | 3, Through Fairy Halls (1920) | `latchkeyofmybook03mill` | 3 scans | 512 | 0 | 970 |
-| 4, The Treasure Chest (1920) | `latchkeyofmybook04mill` | 3 scans | 513 | 1 (a correct form) | 803 |
+| 4, The Treasure Chest (1920) | `latchkeyofmybook04mill` | 3 scans | 513 | 1 (a correct form) | 837 |
 | 5, From the Tower Window (1921) | `latchkeyofmybook05mill` | 3 scans | 516 | 1 (the scan credit) | 1,097 |
 
 These four scans' OCR (2011) reads curly quotation marks as `''`, `*'`, `**` or `'*`, and a closing quotation mark after a comma or full stop as `/'`. About 1,400 marks a volume were mended by rule: a two-mark cluster opening a word is “, closing it is ”, and `/'` is ,” before a lowercase word and .” otherwise (checked on the page images: "Well," said the king; it out."). Those rows account for most of each volume's row count. Picture, border and signature noise was cleared line by line, keeping running heads, titles and page numbers.
