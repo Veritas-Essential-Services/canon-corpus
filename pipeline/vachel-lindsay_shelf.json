@@ -1,0 +1,45 @@
+{
+ "_about": "Vachel Lindsay. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Vachel Lindsay",
+ "_name_words": [
+  "vachel",
+  "lindsay"
+ ],
+ "_surname": [
+  "lindsay",
+  "vachel lindsay"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lindsay-collected-poems": [
+   "vachellindsay",
+   "Collected Poems by Vachel Lindsay, Revised and Illustrated Edition"
+  ]
+ },
+ "_bloom": {
+  "lindsay-collected-poems": {
+   "bloom_n": [
+    1258
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1925 (title page 'The Macmillan Company 1925'; 'Published May, 1923. Revised and Illustrated Edition published May, 1925')",
+   "evidence": "djvu title/copyright page read; collections family_history_library/americana",
+   "case": "Bloom lists Lindsay's Collected Poems; the Macmillan Collected Poems is pre-1931.",
+   "note": "This copy is the 'Revised and Illustrated Edition' (1925), a numbered limited issue of 350; the 1923 first edition would also do. Avoid collectedpoems0000vach -- it is a 1978 23rd printing with a modern rights notice, though the text is the same 1925 edition."
+  }
+ },
+ "_checks": {
+  "lindsay-collected-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
