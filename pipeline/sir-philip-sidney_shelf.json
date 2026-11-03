@@ -1,0 +1,91 @@
+{
+ "_about": "Sir Philip Sidney. Bloom's Western Canon (1994) lists: An Apology for Poetry; Astrophel and Stella; The Countess of Pembroke's Arcadia. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Sir Philip Sidney",
+ "_name_words": [
+  "sir",
+  "philip",
+  "sidney"
+ ],
+ "_surname": [
+  "philip sidney",
+  "sir philip sidney",
+  "sidney"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sidney-countess-pembroke-arcadia": [
+   70854,
+   "The Countess of Pembroke's Arcadia"
+  ],
+  "sidney-p": [
+   56375,
+   "Sir P.S.: His Astrophel and Stella"
+  ],
+  "sidney-defence-poesie-poems": [
+   1962,
+   "A Defence of Poesie and Poems"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "sidney-countess-pembroke-arcadia": {
+   "bloom_n": [
+    151
+   ],
+   "bloom_title": "The Countess of Pembroke's Arcadia",
+   "year": "1907 (PG header: 'Original publication: George Routledge and Sons, 1907'; editor Ernest A. Baker)",
+   "evidence": "PG header read.",
+   "case": "Bloom lists the Arcadia; PG 70854 is Baker's edition of the composite Arcadia.",
+   "note": "Nothing of Sir Philip Sidney is held (machine matched other Sidneys)."
+  },
+  "sidney-p": {
+   "bloom_n": [
+    152
+   ],
+   "bloom_title": "Astrophel and Stella",
+   "year": "1591 (PG text reproduces title: 'At London, Printed for Thomas Newman. Anno Domini 1591')",
+   "evidence": "PG text read.",
+   "case": "PG 56375 is a transcription of the first (Newman 1591) quarto.",
+   "note": "Old spelling. PG 1962 (Defence of Poesie and Poems) also contains the sonnets in a modernized text."
+  },
+  "sidney-defence-poesie-poems": {
+   "bloom_n": [
+    153
+   ],
+   "bloom_title": "An Apology for Poetry",
+   "year": "1891 (PG credits: 'Transcribed from the 1891 Cassell & Company edition')",
+   "evidence": "PG header read.",
+   "case": "The Apology for Poetry = The Defence of Poesie; PG 1962 is Henry Morley's Cassell's National Library edition.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "sidney-countess-pembroke-arcadia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "philip sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sidney-p": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "philip sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sidney-defence-poesie-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "philip sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
