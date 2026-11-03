@@ -96,6 +96,9 @@ The living truth for project state is the Obsidian vault:
     python3 tests/queue_books_test.py         # the illustrated-classics queue converter (QUEUE_BOOKS), synthetic
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 73 identity-layer checks
+    python3 pipeline/renewal_check.py --fetch           # NYPL's CCE renewals 1950-1991, pinned (gitignored)
+    python3 pipeline/renewal_check.py "<author>" "<title>"  # was a 1931-63 US book renewed? (docs/NONRENEWAL-SWEEP.md)
+    python3 tests/renewal_check_test.py                # its matching rules, offline
     python3 pipeline/bank_uids.py [--check] FILE...  # bank uids a room minted itself (Armarium plates) into the registry; mints 0
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned

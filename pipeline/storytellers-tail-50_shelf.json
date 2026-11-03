@@ -237,17 +237,18 @@
   "bhyoung-confederate-wizards-of-the-saddle": [
    70204,
    "Confederate wizards of the saddle"
+  ],
+  "evwright-gadsby": [
+   47342,
+   "Gadsby"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
- "_held": {
-  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 47342 Gadsby (copyright line 1939). The text names a 1931 or later copyright, so it is not taken until Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 47342: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "wwwilliams-whirligig-of-time": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "wayland wells williams",
    "identity": "ok",
@@ -256,7 +257,7 @@
   },
   "ajwilson-life-of-thomas-wanless-peasant": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "a. j. wilson",
    "identity": "ok",
@@ -265,7 +266,7 @@
   },
   "hewilson-our-nig": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "harriet e. wilson",
    "identity": "ok",
@@ -274,7 +275,7 @@
   },
   "jfwilson-closed-door": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "john fleming wilson",
    "identity": "ok",
@@ -283,7 +284,7 @@
   },
   "jmwilson-faa-s-revenge-and-other-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "john mackay wilson",
    "identity": "ok",
@@ -292,7 +293,7 @@
   },
   "aawinter-jewel-weed": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "alice ames winter",
    "identity": "ok",
@@ -301,7 +302,7 @@
   },
   "wwwinter-louisiana-lou-a-western-story": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "william west winter",
    "identity": "ok",
@@ -310,7 +311,7 @@
   },
   "tawise-gentleman-from-mississippi": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas a. wise",
    "identity": "ok",
@@ -319,7 +320,7 @@
   },
   "ewolf-other-things-being-equal": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "emma wolf",
    "identity": "ok",
@@ -328,7 +329,7 @@
   },
   "bwood-fort-lafayette-or-love-and-secession": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "benjamin wood",
    "identity": "ok",
@@ -337,7 +338,7 @@
   },
   "ewood-back-home": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "eugene wood",
    "identity": "ok",
@@ -346,7 +347,7 @@
   },
   "glwood-seventh-regiment": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "george l. wood",
    "identity": "ok",
@@ -355,7 +356,7 @@
   },
   "ifwood-bible-story": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "irving francis wood",
    "identity": "ok",
@@ -364,7 +365,7 @@
   },
   "jfwoodhull-library-of-work-and-play": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "john f. woodhull",
    "identity": "ok",
@@ -373,7 +374,7 @@
   },
   "ktwoods-toots-and-his-friends": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "kate tannatt woods",
    "identity": "ok",
@@ -382,7 +383,7 @@
   },
   "kpwoods-metzerott-shoemaker": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "katharine pearson woods",
    "identity": "ok",
@@ -391,7 +392,7 @@
   },
   "mlwoods-invader": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "margaret l. woods",
    "identity": "ok",
@@ -400,7 +401,7 @@
   },
   "bbwoodward-sea-weeds-shells-and-fossils": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "b. b. woodward",
    "identity": "ok",
@@ -409,7 +410,7 @@
   },
   "dhwoodworth-ducky-entertains": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "douglas h. woodworth",
    "identity": "ok",
@@ -418,7 +419,7 @@
   },
   "twoolner-my-beautiful-lady-nelly-dale": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "thomas woolner",
    "identity": "ok",
@@ -427,7 +428,7 @@
   },
   "jjwray-nestleton-magna": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "j. jackson wray",
    "identity": "ok",
@@ -436,7 +437,7 @@
   },
   "fwright-few-days-in-athens-being-the-translation-of-a-greek": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "frances wright",
    "identity": "ok",
@@ -445,7 +446,7 @@
   },
   "rwright-disappearance-of-kimball-webb": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rowland wright",
    "identity": "ok",
@@ -454,7 +455,7 @@
   },
   "eawykesmith-marvellous-land-of-snergs": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "e. a. wyke-smith",
    "identity": "ok",
@@ -463,7 +464,7 @@
   },
   "fewynne-mediterranean-mystery": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "fred e. wynne",
    "identity": "ok",
@@ -472,7 +473,7 @@
   },
   "mywynne-little-room-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "madeline yale wynne",
    "identity": "ok",
@@ -481,7 +482,7 @@
   },
   "byechton-we-ten": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "barbara yechton",
    "identity": "ok",
@@ -490,7 +491,7 @@
   },
   "ayoung-through-hell-with-hiprah-hunt-a-series-of-pictures-an": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "art young",
    "identity": "ok",
@@ -499,12 +500,24 @@
   },
   "bhyoung-confederate-wizards-of-the-saddle": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "bennett h. young",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "evwright-gadsby": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ernest vincent wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "evwright-gadsby": "PG 47342, Gadsby (1939). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Ernest Vincent Wright was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }

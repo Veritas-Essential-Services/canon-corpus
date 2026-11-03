@@ -61,17 +61,18 @@
   "jgregory-beyond-the-law": [
    65894,
    "Beyond the Law"
+  ],
+  "jgregory-marshal-of-sundown": [
+   77768,
+   "Marshal of Sundown"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
- "_held": {
-  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 77768 Marshal of Sundown (copyright line 1937). The text names a 1931 or later copyright, so it is not taken until Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 77768: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "jgregory-everlasting-whisper": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -80,7 +81,7 @@
   },
   "jgregory-six-feet-four": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -89,7 +90,7 @@
   },
   "jgregory-bells-of-san-juan": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -98,7 +99,7 @@
   },
   "jgregory-desert-valley": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -107,7 +108,7 @@
   },
   "jgregory-under-handicap-a-novel": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -116,7 +117,7 @@
   },
   "jgregory-daughter-of-the-sun": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -125,7 +126,7 @@
   },
   "jgregory-judith-of-blue-lake-ranch": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -134,7 +135,7 @@
   },
   "jgregory-man-to-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -143,7 +144,7 @@
   },
   "jgregory-short-cut": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -152,7 +153,7 @@
   },
   "jgregory-wolf-breed": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -161,7 +162,7 @@
   },
   "jgregory-timber-wolf": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -170,7 +171,7 @@
   },
   "jgregory-fire-flower": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
@@ -179,12 +180,24 @@
   },
   "jgregory-beyond-the-law": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "jackson gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgregory-marshal-of-sundown": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jackson gregory",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "jgregory-marshal-of-sundown": "PG 77768, Marshal of Sundown (1937). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Jackson Gregory was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }

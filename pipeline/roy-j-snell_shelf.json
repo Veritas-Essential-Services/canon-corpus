@@ -136,17 +136,102 @@
    {
     "contents_only": true
    }
+  ],
+  "rjsnell-magic-curtain": [
+   42137,
+   "The Magic Curtain"
+  ],
+  "rjsnell-riddle-of-the-storm": [
+   43362,
+   "Riddle of the Storm"
+  ],
+  "rjsnell-whispers-at-dawn": [
+   43677,
+   "Whispers at Dawn"
+  ],
+  "rjsnell-galloping-ghost": [
+   43853,
+   "The Galloping Ghost"
+  ],
+  "rjsnell-mystery-wings": [
+   43904,
+   "Mystery Wings"
+  ],
+  "rjsnell-crystal-ball": [
+   44062,
+   "The Crystal Ball"
+  ],
+  "rjsnell-red-dynamite": [
+   44111,
+   "Red Dynamite"
+  ],
+  "rjsnell-phantom-violin": [
+   44294,
+   "The Phantom Violin"
+  ],
+  "rjsnell-hour-of-enchantment": [
+   44299,
+   "Hour of Enchantment"
+  ],
+  "rjsnell-shadow-passes": [
+   44352,
+   "The Shadow Passes"
+  ],
+  "rjsnell-ticket-to-adventure": [
+   44353,
+   "A Ticket to Adventure"
+  ],
+  "rjsnell-sally-scott-of-the-waves": [
+   44813,
+   "Sally Scott of the WAVES"
+  ],
+  "rjsnell-sign-of-the-green-arrow": [
+   44824,
+   "Sign of the Green Arrow"
+  ],
+  "rjsnell-third-warning": [
+   44873,
+   "Third Warning"
+  ],
+  "rjsnell-gypsy-flight": [
+   46814,
+   "Gypsy Flight"
+  ],
+  "rjsnell-sparky-ames-of-the-ferry-command": [
+   47793,
+   "Sparky Ames of the Ferry Command"
+  ],
+  "rjsnell-norma-kent-of-the-wacs": [
+   48599,
+   "Norma Kent of the WACS"
+  ],
+  "rjsnell-wings-over-england": [
+   49131,
+   "Wings over England"
+  ],
+  "rjsnell-golden-circle": [
+   55907,
+   "The Golden Circle"
+  ],
+  "rjsnell-jet-plane-mystery": [
+   57816,
+   "Jet Plane Mystery"
+  ],
+  "rjsnell-secrets-of-radar": [
+   58073,
+   "Secrets of Radar"
+  ],
+  "rjsnell-gray-shadow": [
+   60233,
+   "The Gray Shadow"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
- "_held": {
-  "post-1930": "HELD: PG 42137 The Magic Curtain A Mystery Story for Girls (1932); PG 43362 Riddle of the Storm A Mystery Story for Boys (1932); PG 43677 Whispers at Dawn; Or, The Eye (1934); PG 43853 The Galloping Ghost A Mystery Story for Boys (1933); PG 43904 Mystery Wings A Mystery Story for Boys (1935); PG 44062 The Crystal Ball A Mystery Story for Girls (1936); PG 44111 Red Dynamite A Mystery Story for Boys (1936); PG 44294 The phantom violin (1934); PG 44299 Hour of Enchantment A Mystery Story for Girls (1933); PG 44352 The Shadow Passes A Mystery Story for Boys (1938); PG 44353 A Ticket to Adventure A Mystery Story for Girls (1937); PG 44813 Sally Scott of the WAVES (1943); PG 44824 Sign of the Green Arrow A Mystery Story (1939); PG 44873 Third Warning A Mystery Story for Girls (1938); PG 46814 Gypsy Flight A Mystery Story for Girls (1935); PG 47793 Sparky Ames of the Ferry Command (1943); PG 48599 Norma Kent of the WACS (1943); PG 49131 Wings over England (1941); PG 55907 The Golden Circle A Mystery Story for Girls (1931); PG 57816 Jet Plane Mystery (1944); PG 58073 Secrets of Radar (1944); PG 60233 The Gray Shadow A Mystery Story For Boys (1931). The printed copyright line is after 1930. Adam's rule is US public domain; a post-1930 book is PD in the US only if its copyright was never renewed, which has not been checked here, so these are not taken until that is checked or Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 42137: no renewal found; US public domain by non-renewal. PG 43362: no renewal found; US public domain by non-renewal. PG 43853: no renewal found; US public domain by non-renewal. PG 43904: no renewal found; US public domain by non-renewal. PG 44062: no renewal found; US public domain by non-renewal. PG 44111: no renewal found; US public domain by non-renewal. PG 44294: no renewal found; US public domain by non-renewal. PG 44299: no renewal found; US public domain by non-renewal. PG 44352: no renewal found; US public domain by non-renewal. PG 44353: no renewal found; US public domain by non-renewal. PG 44813: no renewal found; US public domain by non-renewal. PG 44824: no renewal found; US public domain by non-renewal. PG 44873: no renewal found; US public domain by non-renewal. PG 46814: no renewal found; US public domain by non-renewal. PG 47793: no renewal found; US public domain by non-renewal. PG 48599: no renewal found; US public domain by non-renewal. PG 49131: no renewal found; US public domain by non-renewal. PG 55907: no renewal found; US public domain by non-renewal. PG 57816: no renewal found; US public domain by non-renewal. PG 58073: no renewal found; US public domain by non-renewal. PG 60233: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "rjsnell-lost-in-the-air": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -155,7 +240,7 @@
   },
   "rjsnell-triple-spies": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -164,7 +249,7 @@
   },
   "rjsnell-curlie-carson-listens-in": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -173,7 +258,7 @@
   },
   "rjsnell-blue-envelope": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -182,7 +267,7 @@
   },
   "rjsnell-little-white-fox-and-his-arctic-friends": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -191,7 +276,7 @@
   },
   "rjsnell-panther-eye": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -200,7 +285,7 @@
   },
   "rjsnell-white-fire": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -209,7 +294,7 @@
   },
   "rjsnell-crimson-flash": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -218,7 +303,7 @@
   },
   "rjsnell-silent-alarm": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -227,7 +312,7 @@
   },
   "rjsnell-secret-mark-an-adventure-story-for-girls": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -236,7 +321,7 @@
   },
   "rjsnell-crimson-thread": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -245,7 +330,7 @@
   },
   "rjsnell-purple-flame-a-mystery-story-for-girls": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -254,7 +339,7 @@
   },
   "rjsnell-cruise-of-the-o-moo": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -263,7 +348,7 @@
   },
   "rjsnell-red-lure": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -272,7 +357,7 @@
   },
   "rjsnell-forbidden-cargoes": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -281,7 +366,7 @@
   },
   "rjsnell-firebug": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -290,7 +375,7 @@
   },
   "rjsnell-rope-of-gold-a-mystery-story-for-boys": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -299,7 +384,7 @@
   },
   "rjsnell-johnny-longbow": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -308,7 +393,7 @@
   },
   "rjsnell-witches-cove-a-mystery-story-for-girls": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -317,7 +402,7 @@
   },
   "rjsnell-arrow-of-fire-a-mystery-story-for-boys": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -326,7 +411,7 @@
   },
   "rjsnell-on-the-yukon-trail-radio-phone-boys-series-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
@@ -335,12 +420,234 @@
   },
   "rjsnell-green-eyes": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-magic-curtain": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-riddle-of-the-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-whispers-at-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-galloping-ghost": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-mystery-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-crystal-ball": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-red-dynamite": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-phantom-violin": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-hour-of-enchantment": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-shadow-passes": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-ticket-to-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-sally-scott-of-the-waves": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-sign-of-the-green-arrow": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-third-warning": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-gypsy-flight": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-sparky-ames-of-the-ferry-command": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-norma-kent-of-the-wacs": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-wings-over-england": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-golden-circle": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-jet-plane-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-secrets-of-radar": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-gray-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "roy j. snell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "rjsnell-magic-curtain": "PG 42137, The Magic Curtain (1932). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-riddle-of-the-storm": "PG 43362, Riddle of the Storm (1932). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-whispers-at-dawn": "PG 43677, Whispers at Dawn (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-galloping-ghost": "PG 43853, The Galloping Ghost (1933). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-mystery-wings": "PG 43904, Mystery Wings (1935). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-crystal-ball": "PG 44062, The Crystal Ball (1936). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-red-dynamite": "PG 44111, Red Dynamite (1936). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-phantom-violin": "PG 44294, The Phantom Violin (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-hour-of-enchantment": "PG 44299, Hour of Enchantment (1933). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-shadow-passes": "PG 44352, The Shadow Passes (1938). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-ticket-to-adventure": "PG 44353, A Ticket to Adventure (1937). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-sally-scott-of-the-waves": "PG 44813, Sally Scott of the WAVES (1943). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-sign-of-the-green-arrow": "PG 44824, Sign of the Green Arrow (1939). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-third-warning": "PG 44873, Third Warning (1938). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-gypsy-flight": "PG 46814, Gypsy Flight (1935). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-sparky-ames-of-the-ferry-command": "PG 47793, Sparky Ames of the Ferry Command (1943). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-norma-kent-of-the-wacs": "PG 48599, Norma Kent of the WACS (1943). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-wings-over-england": "PG 49131, Wings over England (1941). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-golden-circle": "PG 55907, The Golden Circle (1931). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-jet-plane-mystery": "PG 57816, Jet Plane Mystery (1944). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-secrets-of-radar": "PG 58073, Secrets of Radar (1944). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "rjsnell-gray-shadow": "PG 60233, The Gray Shadow (1931). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Roy J. Snell was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }

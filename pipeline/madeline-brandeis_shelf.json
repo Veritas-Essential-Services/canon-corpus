@@ -28,17 +28,30 @@
   "mbrandeis-little-philippe-of-belgium": [
    40856,
    "Little Philippe of Belgium"
+  ],
+  "mbrandeis-little-erik-of-sweden": [
+   36333,
+   "Little Erik of Sweden"
+  ],
+  "mbrandeis-little-spanish-dancer": [
+   40592,
+   "The Little Spanish Dancer"
+  ],
+  "mbrandeis-mitz-and-fritz-of-germany": [
+   40608,
+   "Mitz and Fritz of Germany"
+  ],
+  "mbrandeis-little-tony-of-italy": [
+   40621,
+   "Little Tony of Italy"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
- "_held": {
-  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 36333 Little Erik of Sweden (copyright line 1938); PG 40592 The Little Spanish Dancer (copyright line 1936); PG 40608 Mitz and Fritz of Germany (copyright line 1933); PG 40621 Little Tony of Italy (copyright line 1934). The text names a 1931 or later copyright, so it is not taken until Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 36333: no renewal found; US public domain by non-renewal. PG 40592: no renewal found; US public domain by non-renewal. PG 40608: no renewal found; US public domain by non-renewal. PG 40621: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "mbrandeis-little-indian-weaver": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "brandeis",
    "identity": "ok",
@@ -47,7 +60,7 @@
   },
   "mbrandeis-wee-scotch-piper": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "brandeis",
    "identity": "ok",
@@ -56,7 +69,7 @@
   },
   "mbrandeis-little-jeanne-of-france": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "brandeis",
    "identity": "ok",
@@ -65,7 +78,7 @@
   },
   "mbrandeis-shaun-oday-of-ireland": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "brandeis",
    "identity": "ok",
@@ -74,12 +87,54 @@
   },
   "mbrandeis-little-philippe-of-belgium": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrandeis-little-erik-of-sweden": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrandeis-little-spanish-dancer": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrandeis-mitz-and-fritz-of-germany": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrandeis-little-tony-of-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "brandeis",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "mbrandeis-little-erik-of-sweden": "PG 36333, Little Erik of Sweden (1938). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Madeline Brandeis was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "mbrandeis-little-spanish-dancer": "PG 40592, The Little Spanish Dancer (1936). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Madeline Brandeis was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "mbrandeis-mitz-and-fritz-of-germany": "PG 40608, Mitz and Fritz of Germany (1933). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Madeline Brandeis was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held.",
+  "mbrandeis-little-tony-of-italy": "PG 40621, Little Tony of Italy (1934). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Madeline Brandeis was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }

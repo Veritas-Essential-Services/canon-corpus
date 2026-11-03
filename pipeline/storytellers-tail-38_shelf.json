@@ -243,17 +243,18 @@
   "amchugh-officer-666": [
    30228,
    "Officer 666"
+  ],
+  "hcmcintosh-this-finer-shadow": [
+   64251,
+   "This Finer Shadow"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
- "_held": {
-  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 64251 This Finer Shadow (copyright line 1941). The text names a 1931 or later copyright, so it is not taken until Adam rules. RENEWAL CHECK 2026-11-03 (Stanford Copyright Renewal Database: renewals of US books registered 1923-1963, matched by title words plus author surname; DIGEST-D decisions 24, 27, 28): PG 64251: no renewal found; US public domain by non-renewal. Not moved to the shelf: Adam's 2026-10-27 ruling keeps new additions to cases he picks, so these wait for his word."
- },
  "_checks": {
   "tjmacon-life-gleanings": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "t. j. macon",
    "identity": "ok",
@@ -262,7 +263,7 @@
   },
   "whmacy-there-she-blows-or-the-log-of-the-arethusa": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "william hussey macy",
    "identity": "ok",
@@ -271,7 +272,7 @@
   },
   "lmagnus-west-riding-territorials-in-the-great-war": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "laurie magnus",
    "identity": "ok",
@@ -280,7 +281,7 @@
   },
   "whmaher-man-of-samples-something-about-the-men-he-met-on-the": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "william h. maher",
    "identity": "ok",
@@ -289,7 +290,7 @@
   },
   "fomann-devil-in-a-nunnery-and-other-mediaeval-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "francis oscar mann",
    "identity": "ok",
@@ -298,7 +299,7 @@
   },
   "jhmanners-peg-o-my-heart": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "j. hartley manners",
    "identity": "ok",
@@ -307,7 +308,7 @@
   },
   "memannix-children-of-cupa": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "mary ellen mannix",
    "identity": "ok",
@@ -316,7 +317,7 @@
   },
   "gmarsh-whelps-of-the-wolf": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "george marsh",
    "identity": "ok",
@@ -325,7 +326,7 @@
   },
   "cmartin-australian-girl": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "catherine martin",
    "identity": "ok",
@@ -334,7 +335,7 @@
   },
   "esmartin-reflections-of-a-beginning-husband": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edward sandford martin",
    "identity": "ok",
@@ -343,7 +344,7 @@
   },
   "wmartin-book-of-sports": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "william martin",
    "identity": "ok",
@@ -352,7 +353,7 @@
   },
   "stmartyn-our-village-in-war-time": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "s. t. martyn",
    "identity": "ok",
@@ -361,7 +362,7 @@
   },
   "abmason-tom-strong-lincoln-s-scout-a-story-of-the-united-sta": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "alfred bishop mason",
    "identity": "ok",
@@ -370,7 +371,7 @@
   },
   "camason-woman-of-yesterday": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "caroline atwater mason",
    "identity": "ok",
@@ -379,7 +380,7 @@
   },
   "elmason-episode-in-the-doings-of-the-dualized": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "eveleen laura mason",
    "identity": "ok",
@@ -388,7 +389,7 @@
   },
   "mmather-lancashire-idylls-1898": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "marshall mather",
    "identity": "ok",
@@ -397,7 +398,7 @@
   },
   "hmathers-gay-lawless": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "helen mathers",
    "identity": "ok",
@@ -406,7 +407,7 @@
   },
   "famathews-my-lady-peggy-goes-to-town": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "frances aymar mathews",
    "identity": "ok",
@@ -415,7 +416,7 @@
   },
   "jrmaxwell-history-of-lumsden-s-battery-c-s-a": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "james robert maxwell",
    "identity": "ok",
@@ -424,7 +425,7 @@
   },
   "mhmaxwell-be-courteous-or-religion-the-true-refiner": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "m. h. maxwell",
    "identity": "ok",
@@ -433,7 +434,7 @@
   },
   "mmmaxwellscott-tragedy-of-fotheringay-founded-on-the-journal": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "mary monica maxwell-scott",
    "identity": "ok",
@@ -442,7 +443,7 @@
   },
   "amayhew-greatest-plague-of-life": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "augustus mayhew",
    "identity": "ok",
@@ -451,7 +452,7 @@
   },
   "fmmayor-third-miss-symons": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "f. m. mayor",
    "identity": "ok",
@@ -460,7 +461,7 @@
   },
   "drmcanally-irish-wonders-the-ghosts-giants-pooka-demons-lepr": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "d. r. mcanally",
    "identity": "ok",
@@ -469,7 +470,7 @@
   },
   "cmccarthy-detailed-minuti-of-soldier-life-in-the-army-of-nor": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "carlton mccarthy",
    "identity": "ok",
@@ -478,7 +479,7 @@
   },
   "mgmcclelland-princess": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "m. g. mcclelland",
    "identity": "ok",
@@ -487,7 +488,7 @@
   },
   "hcmccook-old-farm-fairies": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "henry c. mccook",
    "identity": "ok",
@@ -496,7 +497,7 @@
   },
   "jcmccrackin-overland-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "josephine clifford mccrackin",
    "identity": "ok",
@@ -505,12 +506,24 @@
   },
   "amchugh-officer-666": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "augustin mchugh",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "hcmcintosh-this-finer-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "harlan cozad mcintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
   }
+ },
+ "_nonrenewal": {
+  "hcmcintosh-this-finer-shadow": "PG 64251, This Finer Shadow (1941). Second check 2026-11-03 (non-renewal sweep; Adam 2026-11-03: \"I want everything that was not renewed\"): pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991, the records Stanford's database searches), surname plus title words: no renewal found. Lane D's Stanford search the same day found none either. Harlan Cozad McIntosh was an American writer and the book was published in the US, so URAA restoration does not reach it. US public domain by non-renewal; moved from _held."
  }
 }
