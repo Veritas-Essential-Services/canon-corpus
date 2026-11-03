@@ -1,5 +1,5 @@
 {
- "_about": "T. S. Eliot: Prufrock and Other Observations (1917), The Waste Land (1922). US public domain; Eliot died 1965, so UK copyright runs to 2035. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "T. S. Eliot: Prufrock and Other Observations (1917), The Waste Land (1922). US public domain; Eliot died 1965, so UK copyright runs to 2035. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): eliot-poems, eliot-ash-wednesday.",
  "_author": "T. S. Eliot",
  "_name_words": [
   "eliot",
@@ -19,6 +19,14 @@
   "eliot-waste-land": [
    1321,
    "The Waste Land (1922)"
+  ],
+  "eliot-poems": [
+   1567,
+   "Poems"
+  ],
+  "eliot-ash-wednesday": [
+   78023,
+   "Ash-Wednesday"
   ]
  },
  "internet_archive": {},
@@ -26,7 +34,7 @@
  "_checks": {
   "eliot-prufrock": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "t. s. eliot",
    "identity": "ok",
@@ -35,12 +43,52 @@
   },
   "eliot-waste-land": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "t. s. eliot",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "eliot-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "t. s. eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eliot-ash-wednesday": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "t. s. eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_bloom": {
+  "eliot-poems": {
+   "bloom_n": [
+    1277
+   ],
+   "bloom_title": "The Complete Poems and Plays",
+   "year": "unread",
+   "evidence": "PG header read; no date in it (the 1920 Knopf Poems is assumed, not read)",
+   "case": "Bloom lists The Complete Poems and Plays (1952, not PD). The poems through Ash-Wednesday (1930) are PD; Prufrock and The Waste Land are already held.",
+   "note": "PARTIAL. To round out the PD poems add PG 1567 Poems (1920) and PG 78023 Ash-Wednesday (1930) -- Ash-Wednesday date read on PG; PG 1567 date unread. The plays and Four Quartets are not PD."
+  },
+  "eliot-ash-wednesday": {
+   "bloom_n": [
+    1277
+   ],
+   "bloom_title": "The Complete Poems and Plays",
+   "year": "1930 (PG title page 'Copyright, 1930'; First American Trade Edition, Putnam)",
+   "evidence": "PG header read",
+   "case": "Bloom lists The Complete Poems and Plays (1952, not PD). The poems through Ash-Wednesday (1930) are PD; Prufrock and The Waste Land are already held.",
+   "note": "PARTIAL. To round out the PD poems add PG 1567 Poems (1920) and PG 78023 Ash-Wednesday (1930) -- Ash-Wednesday date read on PG; PG 1567 date unread. The plays and Four Quartets are not PD."
   }
  }
 }
