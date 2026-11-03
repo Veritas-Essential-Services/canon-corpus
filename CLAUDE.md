@@ -8,6 +8,7 @@ model_log:
   - 2026-10-19 claude-opus-5-5 edited
   - 2026-10-20 claude-opus-5-5 edited (Aphthonius commands)
   - 2026-11-03 claude-opus-5-5 edited (Bible dictionaries: Easton, Nave, Hurlbut's atlas)
+  - 2026-11-03 claude-opus-5-5 edited (declamations commands)
 fable_review: pending
 ---
 # canon-corpus — rules for AI sessions
@@ -195,6 +196,8 @@ The living truth for project state is the Obsidian vault:
     node tests/mnemonicon_pack_browser_test.js         # import into the real page (Playwright, temp copy)
     python3 pipeline/build_poetry.py --fetch           # poetry: fetch the pinned Gutenberg books (GITenberg mirror)
     python3 pipeline/select_treasury.py --fetch        # poetry: the candidate pool -> selections/treasury.jsonl (run before the build)
+    python3 pipeline/select_declamations.py --fetch    # poetry: the pool's prose -> selections/declamations.jsonl (mirror-pinned books)
+    python3 pipeline/build_poetry.py --layer declamations --check  # one layer only, when the other layers' books are absent
     python3 pipeline/build_poetry.py                   # AO + heroic addendum + treasury -> catalogs, texts, Mnemonicon packs
     python3 pipeline/build_poetry.py --check           # poetry: mint 0, byte-identical
     python3 tests/poetry_test.py                       # the poetry section: rights gate, ids, packs, cutter
