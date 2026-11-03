@@ -1,0 +1,43 @@
+{
+ "_about": "Michael Drayton. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Michael Drayton",
+ "_name_words": [
+  "michael",
+  "drayton"
+ ],
+ "_surname": [
+  "drayton",
+  "michael drayton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "drayton-minor-poems": [
+   17873,
+   "Minor Poems of Michael Drayton, chosen and edited by Cyril Brett"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "drayton-minor-poems": {
+   "bloom_n": [
+    159
+   ],
+   "bloom_title": "Poems",
+   "year": "1907 (PG text: 'CHOSEN AND EDITED BY ... 1907')",
+   "evidence": "PG header/front matter read.",
+   "case": "Brett's Oxford selection is the best PD reading text of Drayton's lyrics (Idea, odes, Nymphidia).",
+   "note": "Not complete: Poly-Olbion is excluded. Hebel's complete Works (1931-41) is not PD."
+  }
+ },
+ "_checks": {
+  "drayton-minor-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "drayton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
