@@ -2354,3 +2354,23 @@ Adam answered the decision card on 2026-10-23: shelve with an honest credit. The
 Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Garnett recheck (2026-10-30), on Adam's ask.** archive.org `30081000790570` (Heinemann 1925 *War and Peace*, complete) is unchanged since 10/22: 264 page texts of about 1,536, no full text, no PDF. It cannot be fetched, so it stays in garnett `_pending`. A fresh search found one other Garnett copy, `warpeace0000cons_z9n0`. It is undated and a lending-library item, so it is not usable. Volumes I and II are still missing. Nothing else was done: the lane is otherwise paused, and the Bloom-only ruling stands.
+
+## 2026-11-03: Bloom audit of translated works (staging only; nothing shelved)
+
+Adam's usage-burn ask, under the Bloom-only, no-bloat ruling of 10/27. Nothing was added to any shelf.
+
+- **Garnett recheck (11/03):** `30081000790570` (Heinemann 1925 *War and Peace*) is still at 264 page texts, with no full text and no PDF. Logged in garnett `_pending`. Volumes I and II are still missing.
+- **Audit:** the 551 Bloom entries that Lane B's checklist does not mark held (outside the English-language regions) were checked against a title index of every shelf on all 52 branches, then against archive.org and Gutenberg.
+- **Staged:** `overnight/divines/staging-C/` holds 16 candidates, each with a written case:
+  - 8 lean keep
+  - 3 are Adam's call
+  - 4 are held
+  - 1 leans cut
+- **Corrections for Lane B:** about 30 Bloom entries the checklist calls missing are in fact held on translator shelves or in collected volumes. They are listed by Bloom number in the staging README.
+
+**Open calls for Adam (lane C):**
+1. The 16 staged candidates: keep, cut or later for each.
+2. Unnamed translators: Voltaire's *Letters concerning the English Nation* (1741; the English came out first, attributed to Lockman) and Vizetelly's *Assommoir* (1885). Waive the named-translator rule for these, or not?
+3. Later printings of PD texts: *The Dybbuk* (1926 text, scan is a 1937 printing) and McDowall's *Three Tales* (1924 text, scan is a post-1936 printing). Is a later printing of a pre-1931 text acceptable?
+4. Still open from before: the Muther joint credit.
+5. Ten held mn-dutt volumes. Under Bloom-only they would not be added even if found, so lane C proposes dropping the search unless you say otherwise.

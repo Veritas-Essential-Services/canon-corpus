@@ -1,0 +1,212 @@
+[
+ {
+  "bloom": [
+   294
+  ],
+  "work": "Voltaire, Zadig and Other Tales (1746-1767)",
+  "source": "internet_archive",
+  "id": "zadigothertales00volt",
+  "translator": "Robert Bruce Boswell",
+  "printing": "G. Bell and Sons, London, 1910",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "Bloom names Zadig. The shelved Voltaire romances (PG 35595, PG 18972) carry no translator's name, and the St. Hubert Guild set is a revised Smollett. This is a fresh, credited translation by the man who did Racine for Bohn, and the title page says so: 'A new translation by Robert Bruce Boswell'. One volume, the tales Bloom means."
+ },
+ {
+  "bloom": [
+   296
+  ],
+  "work": "Voltaire, Letters concerning the English Nation (2nd edition, with large additions)",
+  "source": "internet_archive",
+  "id": "lettersconcerni00conggoog",
+  "translator": "not named on the title page (attributed to John Lockman)",
+  "printing": "C. Davis and A. Lyon, London, 1741",
+  "text_layer": true,
+  "lean": "Adam's call",
+  "case": "The English version came out in 1733, before the French one, so this is close to the book's first form, not a late translation of it. But the title page names no translator, and the lane rule excludes unnamed translators. Shelve with the credit 'translator unnamed; attributed to John Lockman' only if you waive the rule for this book. An earlier 1733 copy (nby_758806) has no text layer."
+ },
+ {
+  "bloom": [
+   107
+  ],
+  "work": "Machiavelli, Mandragola",
+  "source": "internet_archive",
+  "id": "mandragola0000nicc",
+  "translator": "Stark Young",
+  "printing": "The Macaulay Company, New York, 1927",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "Bloom's 'The Mandrake'. Copyright 1927, so US public domain since 2023, and the scan is the 1927 printing. A clean, credited translation by a known critic and translator. Only the play; Clizia and Belfagor are not in it."
+ },
+ {
+  "bloom": [
+   114
+  ],
+  "work": "Bruno, Spaccio della bestia trionfante, or the Expulsion of the Triumphant Beast",
+  "source": "internet_archive",
+  "id": "bim_eighteenth-century_spaccio-della-bestia-tri_bruno-giordano_1713",
+  "translator": "not named (traditionally attributed to William Morehead)",
+  "printing": "London, 1713",
+  "text_layer": true,
+  "lean": "hold",
+  "case": "The only pre-1931 English Spaccio. Two problems: no translator is named, and the OCR of the opening leaves is noise, so the title page could not be read from the text layer. Needs the scan image read before it can even be put to you properly. Hold."
+ },
+ {
+  "bloom": [
+   137
+  ],
+  "work": "Tirso de Molina, The Love-Rogue (El burlador de Sevilla)",
+  "source": "internet_archive",
+  "id": "loveroguepoeticd0000harr",
+  "translator": "Harry Kemp ('transmuted from the Spanish')",
+  "printing": "Lieber & Lewis, New York, 1923",
+  "text_layer": true,
+  "lean": "cut",
+  "case": "The only pre-1931 English Trickster found. But Kemp calls it 'a poetic drama transmuted from the Spanish', which reads as a free verse adaptation, and the lane rule excludes retellings. Cut unless you want a stand-in for Bloom's title."
+ },
+ {
+  "bloom": [
+   367,
+   368
+  ],
+  "work": "Nerval, Sylvie (Souvenirs du Valois)",
+  "source": "internet_archive",
+  "id": "sylviesouvenirsd00nervrich",
+  "translator": "Lucie Page",
+  "printing": "Thomas B. Mosher, Portland, Maine; copyright 1896, this scan a 1904 printing",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "Bloom names Sylvie. Title page: 'Translated from Gerard de Nerval by Lucie Page'. Andrew Lang's sonnet and a few of his Nerval versions are prefixed. The same translation is PG 40492, which could be the source instead of the scan. The contents also list Aurélie material; check whether that is Aurélia (Bloom 368) before claiming it."
+ },
+ {
+  "bloom": [
+   393
+  ],
+  "work": "Laforgue, Six Moral Tales (Moralités légendaires)",
+  "source": "internet_archive",
+  "id": "sixmoraltalesfro0000jule",
+  "translator": "Frances Newman",
+  "printing": "Horace Liveright, New York, 1928",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "Bloom's Laforgue is 'Selected Writings'; the Moralités are his prose masterpiece and this is their first English book. 'Edited & translated by Frances Newman', copyright 1928, so US public domain since 2024. The archive.org server returned an error once and then served the text."
+ },
+ {
+  "bloom": [
+   547,
+   548
+  ],
+  "work": "Novalis, Hymns and Thoughts on Religion",
+  "source": "internet_archive",
+  "id": "hymnsthr00nova",
+  "translator": "W. Hastie",
+  "printing": "T. & T. Clark, Edinburgh, 1888",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "Covers Bloom's Novalis half way: the spiritual songs and the religious fragments (the 'Aphorisms' side), with a biographical sketch. It is NOT the Hymns to the Night; no pre-1931 English Hymns to the Night was found yet. Hastie was a Scottish divinity professor, so this sits well beside lane A's shelves."
+ },
+ {
+  "bloom": [
+   285
+  ],
+  "work": "Boileau, Le Lutrin: a Mock-Heroic Poem in Six Cantos",
+  "source": "internet_archive",
+  "id": "boileauslutrinmo00boil",
+  "translator": "John Ozell (with an account of Boileau by Nicholas Rowe); credit to be confirmed on the scan",
+  "printing": "R. Burrough, J. Baker, E. Sanger and E. Curll, London, 1708",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "The Lutrin is the model Pope's Rape of the Lock answers, and this is the English version Pope's circle read. The title page puts Rowe's name under the prefixed account; library cataloguing gives the verse to Ozell. The credit needs a look at the scan before shelving."
+ },
+ {
+  "bloom": [
+   284
+  ],
+  "work": "Boileau, The Art of Poetry (in The Art of Poetry: the Poetical Treatises of Horace, Vida and Boileau)",
+  "source": "internet_archive",
+  "id": "artpoetrypoetic00soamgoog",
+  "translator": "Sir William Soame, revised by John Dryden (Horace tr. Francis Howes, Vida tr. Christopher Pitt); edited by Albert S. Cook",
+  "printing": "Ginn & Company, Boston, 1892",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "The Soame-Dryden Boileau is the classic English version, and Cook prints it beside Horace and Vida with notes, three neoclassical poetics in one volume. Better than the bare 1683, 1710, 1715 and 1755 printings, which are also on archive.org."
+ },
+ {
+  "bloom": [
+   384
+  ],
+  "work": "Flaubert, Salammbô",
+  "source": "internet_archive",
+  "id": "salammb00shelgoog",
+  "translator": "M. French Sheldon",
+  "printing": "Saxon & Co., London, 1886",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "First English Salammbô, credited and dedicated by the translator. The Chartres Everyman found on archive.org is a 1956 reprint and fails the pre-1931 printing rule."
+ },
+ {
+  "bloom": [
+   397
+  ],
+  "work": "Zola, Nana (sequel to L'Assommoir)",
+  "source": "internet_archive",
+  "id": "nanasequeltolass00zola",
+  "translator": "John Stirling (pen name used by T. B. Peterson's translator)",
+  "printing": "T. B. Peterson & Brothers, Philadelphia, 1880",
+  "text_layer": true,
+  "lean": "Adam's call",
+  "case": "Credited on the title page, 'complete and unabridged'. But Peterson's Zola translations have a reputation for softening, and 'John Stirling' is a house pen name, not a person you could look up. The 1922 Knopf Nana says only 'Translated from the French', so it fails the named-translator rule. Keep this one if you want Nana at all."
+ },
+ {
+  "bloom": [
+   396
+  ],
+  "work": "Zola, The Assommoir (the prelude to Nana)",
+  "source": "internet_archive",
+  "id": "cu31924027379985",
+  "translator": "not named (Vizetelly & Co.'s 'unabridged translation')",
+  "printing": "Vizetelly & Co., London, 1885",
+  "text_layer": true,
+  "lean": "Adam's call",
+  "case": "The famous Vizetelly edition, the one that got Henry Vizetelly prosecuted. No translator is named, so it fails the lane rule as written. Its 'unabridged' claim is also doubtful."
+ },
+ {
+  "bloom": [
+   1125
+  ],
+  "work": "S. Ansky, The Dybbuk",
+  "source": "internet_archive",
+  "id": "dybbuk0000sans",
+  "translator": "Henry G. Alsberg and Winifred Katzin",
+  "printing": "Liveright, New York; copyright 1926, but this scan is the eighth printing, July 1937",
+  "text_layer": true,
+  "lean": "hold",
+  "case": "Text is US public domain (published 1926). But the only scan found is a 1937 printing, and the lane only shelves pre-1931 printings. Hold until a 1926 to 1929 printing turns up, or rule that a later printing of a PD text is fine."
+ },
+ {
+  "bloom": [
+   607
+  ],
+  "work": "Blok, The Twelve",
+  "source": "internet_archive",
+  "id": "30081008466280",
+  "translator": "Babette Deutsch and Avrahm Yarmolinsky",
+  "printing": "B. W. Huebsch, New York, 1920",
+  "text_layer": false,
+  "lean": "hold",
+  "case": "Right book, right date, but the scan has only 3 page texts and no full text or PDF, so it cannot be fetched. Recheck later."
+ },
+ {
+  "bloom": [
+   385
+  ],
+  "work": "Flaubert, Three Tales (incl. A Simple Soul)",
+  "source": "internet_archive",
+  "id": "threetales00flau",
+  "translator": "Arthur McDowall",
+  "printing": "copyright 1924 (Knopf), but this scan is a New Directions printing from after 1936",
+  "text_layer": true,
+  "lean": "hold",
+  "case": "The text is US public domain, but the scan is a post-1930 printing, so it fails the lane's printing rule. Hold for a 1924 Knopf scan."
+ }
+]
