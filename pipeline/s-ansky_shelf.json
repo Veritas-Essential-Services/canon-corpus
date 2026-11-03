@@ -1,0 +1,53 @@
+{
+ "_about": "S. Ansky. Bloom's Western Canon (1994) lists: The Dybbuk. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "S. Ansky",
+ "_name_words": [
+  "ansky"
+ ],
+ "_surname": [
+  "ansky",
+  "s ansky"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ansky-dybbuk": [
+   "dybbuk0000sans",
+   "The Dybbuk: A Play in Four Acts"
+  ]
+ },
+ "_rights_checked": {
+  "ansky-dybbuk": "Bloom addition 2026-11-03: 1926 (title page: New York, Liveright Publishing Corp., 1926; \"Copyright, 1926, by Henry G. Alsberg\"; printing list First April 1926 ... Eighth July 1937). djvu title page and printing line read; collection internetarchivebooks/graduatetheologicalunion (not lending)."
+ },
+ "_translators": {
+  "ansky-dybbuk": "Alsberg"
+ },
+ "_bloom": {
+  "ansky-dybbuk": {
+   "bloom_n": [
+    1125
+   ],
+   "bloom_title": "The Dybbuk",
+   "year": "1926 (title page: New York, Liveright Publishing Corp., 1926; \"Copyright, 1926, by Henry G. Alsberg\"; printing list First April 1926 ... Eighth July 1937)",
+   "evidence": "djvu title page and printing line read; collection internetarchivebooks/graduatetheologicalunion (not lending).",
+   "case": "Bloom lists The Dybbuk; the Alsberg-Katzin translation (1926) is the classic English version that played the Neighborhood Playhouse, and is US-PD.",
+   "note": "The scan is the eighth printing (July 1937) of the 1926 edition; the printing list shows straight reprints, no revision noted. Text includes Gabriel introduction and Zhitlowsky note (1926 too). Performance-rights notice on the copyright page is moot now that the text is PD."
+  }
+ },
+ "_checks": {
+  "ansky-dybbuk": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ansky",
+   "translator_claimed": "Alsberg",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1926 (title page: New York, Liveright Publishing Corp., 1926; \"Copyright, 1926, by Henry G. Alsberg\"; printing list First April 1926 ... Eighth July 1937). djvu title page and printing line read; collection internetarchivebooks/graduatetheologicalunion (not lending)."
+  }
+ }
+}
