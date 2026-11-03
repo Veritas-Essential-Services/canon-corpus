@@ -74,8 +74,9 @@ check("the books are gitignored, never committed (CC BY-SA, rule 6)",
 pins = A.pins()
 check("every work's TEI is pinned by sha256", all(w[1] in pins for w in A.WORKS)
       and all(re.fullmatch(r"[0-9a-f]{64}", v) for v in pins.values()))
-check("Lightfoot's English is listed as pending, not silently missing",
-      any("Lightfoot" in p["what"] for p in A.PENDING))
+check("Lightfoot's English is no longer pending: build_lightfoot.py builds it",
+      not any("Lightfoot" in p["what"] for p in A.PENDING)
+      and os.path.exists(os.path.join(REPO, "pipeline", "build_lightfoot.py")))
 
 print("--- citation")
 check("Ignatius: letter, chapter, section", A.cite("ignatius-lake", "Ign.", ("1", "2", "3"))

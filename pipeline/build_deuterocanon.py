@@ -69,7 +69,7 @@ ROOT = os.path.normpath(os.path.join(HERE, ".."))
 BOOKS = os.path.join(ROOT, "data", "books")
 OUT = os.path.join(ROOT, "data", "versification", "deuterocanon.json")
 OUT_TSV = os.path.join(ROOT, "data", "parallel", "deuterocanon-parallel.tsv")
-TSV_COLUMNS = ["kjva", "vulgate", "douay", "brenton"]   # a new witness: one more column
+TSV_COLUMNS = ["kjva", "vulgate", "douay", "brenton", "charles"]   # a new witness: one more column
 
 ANCHOR = 0.3    # a closest-verse match this good anchors the chapter...
 STRONG = 0.5    # ...alone; a weaker one only beside another moving the same way
@@ -108,7 +108,7 @@ def _num(v):
 #
 # Each witness: the built book it reads, and `passages(units)`: its verses in
 # order, grouped [(KJV Apocrypha books, [(ref, text)])], one group per
-# alignment chapter. A later witness (Charles 1913) is one more row.
+# alignment chapter. Charles 1913 reads several built books (`load`).
 
 def _brenton_passages(units):
     groups, why = {}, {}
@@ -151,12 +151,60 @@ def _douay_passages(units):
     return list(groups.items()), {}
 
 
+# R. H. Charles (ed.), 1913: one built book per work (pipeline/build_charles.py),
+# read as one witness. A verse's ref here is the KJV Apocrypha's book name (or
+# Charles's own, where the KJV has none: EpJer, 4Ezra) before Charles's own
+# number, so 'charles-tob:5.16' is 'Tob.5.16' and 'charles-addesth:A.1' is
+# 'AddEsth.A.1' (Charles letters the Additions A-F, as the Greek orders them).
+CHARLES_BOOKS = {"Tob": "tob", "Jdt": "jdt", "AddEsth": "addesth", "Wis": "wis", "Sir": "sir",
+                 "Bar": "bar", "EpJer": "epjer", "PrAzar": "azar", "Sus": "sus", "Bel": "bel",
+                 "1Macc": "1macc", "2Macc": "2macc", "3Macc": "3macc", "4Macc": "4macc",
+                 "1Esd": "1esd", "PrMan": "prman", "4Ezra": "4ezra"}
+# Where each lettered Addition stands in the KJV's Rest of Esther (10:4-16:24):
+# the chapter the alignment prefers when a verse's words fit two places.
+CHARLES_ESTH = {"A": 11, "B": 13, "C": 13, "D": 15, "E": 16, "F": 10}
+WHY_BY_PAGE = ("Charles's text of this book is built by scan page (its margin verse numbers "
+               "could not be read reliably), so there is no verse to key")
+
+
+def _charles_load():
+    units = []
+    for b, slug in CHARLES_BOOKS.items():
+        for u in _load(f"charles-{slug}")["units"]:
+            n = u["id"].split(":", 1)[1]
+            if b in ("EpJer", "PrAzar", "Sus", "Bel") and "." not in n:
+                n = f"1.{n}"
+            units.append({"id": f"charles:{b}.{n}", "text": u["text"], "from": u["id"]})
+    return {"slug": "charles", "units": units}
+
+
+def _charles_passages(units):
+    groups, why = {}, {}
+    pair = {"EpJer": "Bar", "4Ezra": "2Esd"}
+    for u in units:
+        ref = u["id"].split(":", 1)[1]
+        b, c, _v = ref.split(".")
+        if b in NO_KEY_BOOKS:
+            why[ref] = NO_KEY_BOOKS[b]
+        elif c == "leaf":
+            why[ref] = WHY_BY_PAGE
+        elif b == "AddEsth":
+            groups.setdefault((("AddEsth",), f"{b}.{CHARLES_ESTH[c]}"), []).append((ref, u["text"]))
+        else:
+            tc = "6" if b == "EpJer" else c
+            groups.setdefault(((pair.get(b, b),), f"{b}.{tc}"), []).append((ref, u["text"]))
+    return list(groups.items()), why
+
+
 WITNESSES = {
     "brenton": {"book": "brenton", "passages": _brenton_passages,
                 "title": "Brenton's English Septuagint (1851)"},
     "douay": {"book": "douay", "passages": _douay_passages,
               "title": "the Douay-Rheims (Challoner), the Clementine's English"},
-    # "charles": {"book": "charles", "passages": ..., "title": "R. H. Charles (ed.), 1913"},
+    "charles": {"book": "charles", "load": _charles_load, "passages": _charles_passages,
+                "title": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the "
+                         "Old Testament (1913)",
+                "from": [f"data/books/charles-{s}.json" for s in CHARLES_BOOKS.values()]},
 }
 JEROME_BOOKS = {"Tob", "Jdt"}
 
@@ -247,6 +295,42 @@ HOUSE_ROWS = {
         "Sir.49.18": (["Sir.49.15"], "his bones were visited", _FAR),
         "1Macc.10.25": (["1Macc.10.25"], "King Demetrius to the nation of the Jews", _FAR),
         "1Macc.14.20": (["1Macc.14.20"], "The princes and the cities of the Spartans", _FAR),
+    },
+    # Charles 1913: every key far from its neighbours' (--audit), read in both
+    # texts (2026-10-03). His Tobit is Codex Sinaiticus's longer text and his
+    # Sirach follows the Hebrew where it survives, so their weak pairings are
+    # many and expected; these are the ones the alignment sent astray.
+    "charles": {
+        "Tob.4.16": (["Tob.4.20"], "ten talents of silver in trust with Gabael", _FAR),
+        "Tob.8.15": (["Tob.8.15"], "with all pure blessing", _FAR),
+        "Tob.11.11": (["Tob.11.11"], "with the gall of the fish in his hand", _FAR),
+        "Sir.3.15": (["Sir.3.15"], "In the day of affliction it shall be remembered", _FAR),
+        "Sir.3.16": (["Sir.3.15"], "obliterate thine iniquities",
+                     "the second line of the KJV's 3:15, which Charles numbers 3:16"),
+        "Sir.4.12": (["Sir.4.12"], "They that love her love life", _FAR),
+        "Sir.15.15": (["Sir.15.15"], "thou canst keep the commandment", _FAR),
+        "Sir.15.21": (["Sir.16.1"], "of unprofitable sons",
+                      "the KJV's 16:1-3, which Charles's margin numbers as 15:21-23"),
+        "Sir.15.22": (["Sir.16.2"], "exult not because of them",
+                      "the KJV's 16:1-3, which Charles's margin numbers as 15:21-23"),
+        "Sir.15.23": (["Sir.16.3"], "Trust not thou in their life",
+                      "the KJV's 16:1-3, which Charles's margin numbers as 15:21-23"),
+        "Sir.20.17": ([], "How good it is when he who is reproved",
+                      "the scan reader took Charles's footnote (a reading of one manuscript, "
+                      "which the KJV prints as 20:3) for his text here; not keyed"),
+        "Sir.24.35": ([], "Faint not, (but) be strong in the Lord",
+                      "the scan reader took Charles's footnote (a reading of one manuscript, "
+                      "which the KJV prints as 24:24) for a verse; not keyed"),
+        "Sir.32.18": (["Sir.32.18"], "will not conceal understanding", _FAR),
+        "Sir.41.18": (["Sir.41.19"], "where thou sojournest", _FAR),
+        "Sir.42.24": (["Sir.42.22"], "like blossoms", _FAR),
+        "Sir.44.15~2": (["Sir.44.15"], "The assembly recounteth their wisdom", _FAR),
+        "Sir.51.15": ([], "Extant only in Hebrew",
+                      "the thanksgiving Charles prints from the Hebrew after 51:12, which the "
+                      "Greek the KJV translates does not have"),
+        "1Macc.10.25": (["1Macc.10.25"], "according to these words", _FAR),
+        "4Ezra.12.7": (["2Esd.12.7"], "if I have found favour in thy sight", _FAR),
+        "4Ezra.14.20": (["2Esd.14.20"], "the world lies in darkness", _FAR),
     },
 }
 # The Clementine verses the Douay has no English for, keyed from the Latin.
@@ -380,7 +464,7 @@ def _default(ref, books):
     """The key a witness verse gets by its own number in the paired book; the
     map lists a verse only where its keys differ from this."""
     b, c, v = ref.split(".")
-    tb = {"EpJer": "Bar"}.get(b, b)
+    tb = {"EpJer": "Bar", "4Ezra": "2Esd"}.get(b, b)
     c = "6" if b == "EpJer" else c
     return [f"kjva:{tb}.{c}.{v}"] if tb in books else None
 
@@ -411,7 +495,7 @@ def compute():
     korder = {k: i for i, k in enumerate(k for b in KJVA_ORDER for k in kbook.get(b, []))}
     res = {}
     for name, w in WITNESSES.items():
-        book = _load(w["book"])
+        book = w["load"]() if "load" in w else _load(w["book"])
         keyed = key_witness(book["units"], w["passages"], KT, kbook)
         bad = [(r, x["keys"]) for r, x in keyed.items() if "keys" in x
                and any(k[5:] not in KT for k in x["keys"])]
@@ -525,7 +609,7 @@ def _doc(c):
                    "beads": [[a, b, p] for a, b, p in BEADS]},
         "witnesses": {},
     }
-    for name in ["vulgate", "douay", "brenton"]:
+    for name in ["vulgate", "douay", "brenton", "charles"]:
         keyed = res[name]["keyed"]
         units = res[name]["book"]["units"]
         order = {u["id"].split(":", 1)[1]: i for i, u in enumerate(units)}
@@ -546,7 +630,13 @@ def _doc(c):
         weak = [r for r, x in keyed.items() if x.get("score", 1) < WEAK]
         house = {r: x["house"] for r, x in keyed.items() if "house" in x}
         doc["witnesses"][name] = {
-            "from": f"data/books/{res[name]['book']['slug']}.json",
+            "from": WITNESSES.get(name, {}).get("from",
+                                                f"data/books/{res[name]['book']['slug']}.json"),
+            **({"refs": "the KJV Apocrypha's book name (Charles's own for EpJer, 4Ezra) before "
+                        "Charles's own number: 'Tob.5.16' is charles-tob:5.16, 'AddEsth.A.1' is "
+                        "charles-addesth:A.1, 'EpJer.1.12' is charles-epjer:12; '~2' marks a "
+                        "number the scan reader decoded twice (build_charles.py)"}
+               if name == "charles" else {}),
             "counts": {"verses": len(keyed), "keyed": nkeyed,
                        "no_key": len(keyed) - nkeyed,
                        "listed_in_map": len(mp),
@@ -577,7 +667,7 @@ FAR = 3   # --audit: how far a key may sit from its neighbours' before it is lis
 
 def audit(show=60):
     c = compute()
-    for name in ["douay", "brenton"]:
+    for name in ["douay", "brenton", "charles"]:
         keyed = c["res"][name]["keyed"]
         text = {u["id"].split(":", 1)[1]: u["text"] for u in c["res"][name]["book"]["units"]}
         weak = sorted(((x["score"], r) for r, x in keyed.items() if "score" in x))[:show]

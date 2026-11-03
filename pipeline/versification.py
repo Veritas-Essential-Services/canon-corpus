@@ -242,7 +242,7 @@ def _in_runs(osis, runs):
 
 def resolve_dc(osis, witness, m):
     """The shared deuterocanon key(s) of a verse in `witness`'s own numbering
-    ('vulgate', 'douay', 'brenton'): {"resolved": True, "target": "kjva:...",
+    ('vulgate', 'douay', 'brenton', 'charles'): {"resolved": True, "target": "kjva:...",
     "spans": [...]} or {"resolved": False, "why": ...}; None for a verse the
     map does not cover (the protocanonical books, keyed to the KJV instead)."""
     w = m["witnesses"][witness]
@@ -256,7 +256,8 @@ def resolve_dc(osis, witness, m):
             if _in_runs(osis, row["verses"]):
                 return {"resolved": False, "why": row["why"]}
         b, ch, v = osis.split(".")
-        ks = [f"kjva:{'Bar' if b == 'EpJer' else b}.{'6' if b == 'EpJer' else ch}.{v}"]
+        tb = {"EpJer": "Bar", "4Ezra": "2Esd"}.get(b, b)   # 4Ezra: Charles's 4 Ezra
+        ks = [f"kjva:{tb}.{'6' if b == 'EpJer' else ch}.{v}"]
     out = {"resolved": True, "target": ks[0]}
     if len(ks) > 1:
         out["spans"] = ks

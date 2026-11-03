@@ -14,7 +14,7 @@ OWN numbering. Generated; never hand-edit.
 
 A cell lists the version's verses, space-separated, in the version's order.
 It is empty where the version has no verse for the KJV verse: the book is not
-in it (Tyndale here has ten books; Brenton's Nehemiah is in his Ezra column
+in it (Tyndale has 33 books; Brenton's Nehemiah is in his Ezra column
 as Ezra 11-23, so it is not empty), or the version leaves the verse out (the
 ASV's Acts 8:37). A version's verse
 that holds several KJV verses appears in each of their rows. A version's
@@ -23,11 +23,11 @@ no row: the index is keyed by the KJV, and each map's `no_kjv_verse` says why.
 
 WHERE EACH COLUMN COMES FROM (nothing here is a new judgement):
   hebrew    data/versification/bhs-kjv.json (the WLC's verse list, TVTMS)
-  greek_nt  data/nt/passages.jsonl + witnesses.jsonl: the RP2018 Greek is a
-            witness of the KJV verse's own passage, so its ref is the KJV's.
-            The whole Greek NT (one folder per book; the old flat John 1
-            pilot layout is read too).
-  vulgate, douay, brenton, geneva, tyndale, ylt, darby, asv
+  greek_nt  data/nt/<Book>/passages.jsonl + witnesses.jsonl (the whole NT;
+            the shards are gitignored, so run pipeline/rebuild_bible.py
+            first): the RP2018 Greek is a witness of the KJV verse's own
+            passage, so its ref is the KJV's.
+  vulgate, douay, brenton, geneva, tyndale, ylt, darby, asv, coverdale, bishops
             each unit's `kjv` in data/books/<slug>.json (gitignored: built by
             structure_texts.py from the pinned sources, through the committed
             maps). The build stops if a book is missing rather than write an
@@ -45,7 +45,8 @@ import versification as V  # noqa: E402
 ROOT = os.path.normpath(os.path.join(HERE, ".."))
 OUT = os.path.join(ROOT, "data", "parallel", "kjv-parallel.tsv")
 BOOKS = os.path.join(ROOT, "data", "books")
-SHELF = ["vulgate", "douay", "brenton", "geneva", "tyndale", "ylt", "darby", "asv"]
+SHELF = ["vulgate", "douay", "brenton", "geneva", "tyndale", "ylt", "darby", "asv",
+         "coverdale", "bishops"]
 COLUMNS = ["kjv", "uid", "hebrew", "greek_nt"] + SHELF
 
 
@@ -71,24 +72,6 @@ def _kjv_of(r):
     return [t[4:] if t.startswith("kjv:") else t for t in ts if not t.endswith(".title")]
 
 
-def _nt_rows(name):
-    """Every row of data/nt's `name`: the flat file (the John 1 pilot) and, as
-    PR #8 lays the whole Greek NT out, one folder per book (data/nt/<Book>/)."""
-    nt = os.path.join(ROOT, "data", "nt")
-    paths = [os.path.join(nt, name)] + sorted(
-        os.path.join(nt, d, name) for d in os.listdir(nt) if os.path.isdir(os.path.join(nt, d)))
-    found = False
-    for path in paths:
-        if os.path.exists(path):
-            found = True
-            with open(path, encoding="utf-8") as f:
-                for line in f:
-                    if line.strip():
-                        yield json.loads(line)
-    if not found:
-        _stop(f"no data/nt/{name}, flat or per book")
-
-
 def columns():
     rows = {}
 
@@ -104,13 +87,26 @@ def columns():
             for k in V.targets(ref, heb):
                 if not k.endswith(".title"):
                     add(k, "hebrew", ref)
-    greek = set()
-    for w in _nt_rows("witnesses.jsonl"):
-        if w.get("lang") == "grc" and w.get("role") == "original":
-            greek.add(w["passage_uid"])
-    for p in _nt_rows("passages.jsonl"):
-        if p["uid"] in greek and p["citation"].startswith("kjv:"):
-            add(p["citation"][4:], "greek_nt", p["osis"])
+    nt = os.path.join(ROOT, "data", "nt")
+    with open(os.path.join(nt, "manifest.json"), encoding="utf-8") as f:
+        nt_books = json.load(f)["selection"]["books"]
+    for bk in nt_books:
+        greek = set()
+        shard = os.path.join(nt, bk)
+        if not all(os.path.exists(os.path.join(shard, n))
+                   for n in ("witnesses.jsonl", "passages.jsonl")):
+            _stop(f"data/nt/{bk}/ has no shards (gitignored): run "
+                  f"pipeline/rebuild_bible.py first")
+        with open(os.path.join(shard, "witnesses.jsonl"), encoding="utf-8") as f:
+            for line in f:
+                w = json.loads(line)
+                if w.get("lang") == "grc" and w.get("role") == "original":
+                    greek.add(w["passage_uid"])
+        with open(os.path.join(shard, "passages.jsonl"), encoding="utf-8") as f:
+            for line in f:
+                p = json.loads(line)
+                if p["uid"] in greek and p["citation"].startswith("kjv:"):
+                    add(p["citation"][4:], "greek_nt", p["osis"])
     for slug in SHELF:
         path = os.path.join(BOOKS, f"{slug}.json")
         if not os.path.exists(path):
