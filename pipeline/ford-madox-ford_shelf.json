@@ -1,5 +1,5 @@
 {
- "_about": "Ford Madox Ford: Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_about": "Ford Madox Ford: Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto). Bloom addition 2026-11-03 (Bloom's Western Canon): ford-man-could-stand-up, ford-last-post.",
  "_author": "Ford Madox Ford",
  "_name_words": [
   "ford",
@@ -67,7 +67,16 @@
    "The English novel"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ford-man-could-stand-up": [
+   "mancouldstandup0000ford_c2a5",
+   "A Man Could Stand Up --"
+  ],
+  "ford-last-post": [
+   "lastpostnovel00ford",
+   "The Last Post: a novel"
+  ]
+ },
  "_excluded": {
   "held-elsewhere": "PG 14888, 17642, 75172: already on another shelf or in fetch_sources.py on some branch; not taken twice."
  },
@@ -75,7 +84,7 @@
  "_checks": {
   "fmford-good-soldier": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -84,7 +93,7 @@
   },
   "fmford-privy-seal": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -93,7 +102,7 @@
   },
   "fmford-fifth-queen-crowned": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -102,7 +111,7 @@
   },
   "fmford-fifth-queen": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -111,7 +120,7 @@
   },
   "fmford-young-lovell": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -120,7 +129,7 @@
   },
   "fmford-brown-owl": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -129,7 +138,7 @@
   },
   "fmford-feather": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -138,7 +147,7 @@
   },
   "fmford-queen-who-flew": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -147,7 +156,7 @@
   },
   "fmford-some-do-not": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -156,7 +165,7 @@
   },
   "fmford-no-more-parades": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -165,7 +174,7 @@
   },
   "fmford-call": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -174,7 +183,7 @@
   },
   "fmford-no-enemy": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
@@ -183,12 +192,60 @@
   },
   "fmford-english-novel": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ford madox ford",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "ford-man-could-stand-up": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ford madox ford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ford-last-post": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ford madox ford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: unread (Literary Guild of America printing; 'Copyright, 1928, by Albert & Charles Boni'). Read title page and dedicatory letter to Isabel Paterson; not lending."
   }
+ },
+ "_bloom": {
+  "ford-man-could-stand-up": {
+   "bloom_n": [
+    883
+   ],
+   "bloom_title": "Parade's End",
+   "year": "unread (title page: New York, Grosset & Dunlap by arrangement with A. & C. Boni; 'Copyright, 1926 ... Published, October, 1926')",
+   "evidence": "Read title page and dedicatory letter to Gerald Duckworth; collection internetarchivebooks, not lending.",
+   "case": "Bloom lists Parade's End: four novels, 1924-28, all US-PD. We hold Some Do Not and No More Parades; these two complete the tetralogy.",
+   "note": "Both scans are US reprints of the first American editions (Boni), unrevised as far as I can see. Grosset and the Literary Guild printings are undated."
+  },
+  "ford-last-post": {
+   "bloom_n": [
+    883
+   ],
+   "bloom_title": "Parade's End",
+   "year": "unread (Literary Guild of America printing; 'Copyright, 1928, by Albert & Charles Boni')",
+   "evidence": "Read title page and dedicatory letter to Isabel Paterson; not lending.",
+   "case": "Bloom lists Parade's End: four novels, 1924-28, all US-PD. We hold Some Do Not and No More Parades; these two complete the tetralogy.",
+   "note": "Both scans are US reprints of the first American editions (Boni), unrevised as far as I can see. Grosset and the Literary Guild printings are undated."
+  }
+ },
+ "_rights_checked": {
+  "ford-last-post": "Bloom addition 2026-11-03: unread (Literary Guild of America printing; 'Copyright, 1928, by Albert & Charles Boni'). Read title page and dedicatory letter to Isabel Paterson; not lending."
  }
 }
