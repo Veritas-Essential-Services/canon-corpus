@@ -1,0 +1,43 @@
+{
+ "_about": "James Hogg. Bloom's Western Canon (1994) lists: The Private Memoirs and Confessions of a Justified Sinner. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "James Hogg",
+ "_name_words": [
+  "james",
+  "hogg"
+ ],
+ "_surname": [
+  "hogg",
+  "james hogg"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hogg-private-memoirs-confessions-justified": [
+   2276,
+   "The Private Memoirs and Confessions of a Justified Sinner"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "hogg-private-memoirs-confessions-justified": {
+   "bloom_n": [
+    438
+   ],
+   "bloom_title": "The Private Memoirs and Confessions of a Justified Sinner",
+   "year": "unread",
+   "evidence": "Read PG header and opening.",
+   "case": "Bloom lists Hogg's Confessions; not held. PG 2276 is the clean text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "hogg-private-memoirs-confessions-justified": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
