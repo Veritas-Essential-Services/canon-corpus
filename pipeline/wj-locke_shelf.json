@@ -1,0 +1,374 @@
+{
+ "_about": "W. J. Locke's novels (The Beloved Vagabond and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "W. J. Locke",
+ "_name_words": [
+  "locke"
+ ],
+ "_surname": [
+  "w. j. locke",
+  "william john locke",
+  "william j. locke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wjlocke-simon-the-jester": [
+   3828,
+   "Simon the Jester"
+  ],
+  "wjlocke-red-planet": [
+   4287,
+   "The Red Planet"
+  ],
+  "wjlocke-fortunate-youth": [
+   4379,
+   "The Fortunate Youth"
+  ],
+  "wjlocke-morals-of-marcus-ordeyne": [
+   5051,
+   "The Morals of Marcus Ordeyne : a Novel"
+  ],
+  "wjlocke-mountebank": [
+   8430,
+   "The Mountebank"
+  ],
+  "wjlocke-viviette": [
+   9924,
+   "Viviette"
+  ],
+  "wjlocke-a-christmas-mystery": [
+   10707,
+   "A Christmas Mystery: The Story of Three Wise Men"
+  ],
+  "wjlocke-septimus": [
+   14395,
+   "Septimus"
+  ],
+  "wjlocke-jaffery": [
+   14669,
+   "Jaffery"
+  ],
+  "wjlocke-joyous-adventures-of-aristide-pujol": [
+   26154,
+   "The Joyous Adventures of Aristide Pujol",
+   {
+    "contents_only": true
+   }
+  ],
+  "wjlocke-rough-road": [
+   27786,
+   "The Rough Road"
+  ],
+  "wjlocke-belov-d-vagabond": [
+   28489,
+   "The Belovéd Vagabond"
+  ],
+  "wjlocke-far-away-stories": [
+   50479,
+   "Far-away Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "wjlocke-at-the-gate-of-samaria": [
+   53993,
+   "At the Gate of Samaria"
+  ],
+  "wjlocke-stella-maris": [
+   53994,
+   "Stella Maris"
+  ],
+  "wjlocke-a-study-in-shadows": [
+   53995,
+   "A Study In Shadows"
+  ],
+  "wjlocke-where-love-is": [
+   53996,
+   "Where Love Is",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[IVXLC]+\\s*--.*"
+     }
+    ],
+    "start": "Chapter\\ I\\-\\-THE\\ FIRST\\ GLIMPSE$",
+    "front": true
+   }
+  ],
+  "wjlocke-derelicts": [
+   55927,
+   "Derelicts"
+  ],
+  "wjlocke-white-dove": [
+   56013,
+   "The White Dove"
+  ],
+  "wjlocke-demagogue-and-lady-phayre": [
+   56014,
+   "The Demagogue and Lady Phayre"
+  ],
+  "wjlocke-idols": [
+   56015,
+   "Idols"
+  ],
+  "wjlocke-house-of-baltazar": [
+   60120,
+   "The House of Baltazar"
+  ],
+  "wjlocke-glory-of-clementina-wing": [
+   60121,
+   "The Glory of Clementina Wing"
+  ],
+  "wjlocke-tale-of-triona": [
+   60122,
+   "The Tale of Triona"
+  ],
+  "wjlocke-wonderful-year": [
+   60123,
+   "The Wonderful Year"
+  ],
+  "wjlocke-golden-journey-of-mr-paradyne": [
+   78127,
+   "The golden journey of Mr. Paradyne"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59541": "PG 59541: Gutenberg's index of the author's works, not a book."
+ },
+ "_checks": {
+  "wjlocke-simon-the-jester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-red-planet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-fortunate-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-morals-of-marcus-ordeyne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-mountebank": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-viviette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-a-christmas-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-septimus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-jaffery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-joyous-adventures-of-aristide-pujol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-rough-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-belov-d-vagabond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-far-away-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. j. locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-at-the-gate-of-samaria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-stella-maris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-a-study-in-shadows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-where-love-is": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-derelicts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-white-dove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-demagogue-and-lady-phayre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-idols": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-house-of-baltazar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-glory-of-clementina-wing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. j. locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-tale-of-triona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-wonderful-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjlocke-golden-journey-of-mr-paradyne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william john locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

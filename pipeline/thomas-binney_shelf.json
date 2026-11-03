@@ -1,0 +1,123 @@
+{
+ "_about": "Public-domain Thomas Binney (1798-1874, Congregationalist, King's Weigh-House Chapel, London) for the Word Hoard: Is It Possible to Make the Best of Both Worlds? (1853), Sermons Preached in the King's Weigh-House Chapel, first series (1869) and second series ed. Henry Allon (catalogued 1875), Lights and Shadows of Church-Life in Australia (2nd ed. 1860), Money (catalogued 1864), raw Internet Archive OCR, and The Royal Exchange and the Palace of Industry (1851) from Project Gutenberg. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "binney",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas binney",
+  "binney, thomas",
+  "t. binney",
+  "rev. thomas binney",
+  "the rev. t. binney"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "binney-royal-exchange": [
+   "58058",
+   "The Royal Exchange and the Palace of Industry; or, The Possible Future of Europe and the World (London, 1851)"
+  ]
+ },
+ "internet_archive": {
+  "binney-best-of-both-worlds": [
+   "isitpossibletom00binngoog",
+   "Is It Possible to Make the Best of Both Worlds? A Book for Young Men (London: James Nisbet; Hamilton, Adams, 1853)"
+  ],
+  "binney-weigh-house-1": [
+   "sermonspreached00binngoog",
+   "Sermons Preached in the King's Weigh-House Chapel, London, 1829-1869, first series (London: Macmillan, 1869)"
+  ],
+  "binney-weigh-house-2": [
+   "sermonspreachedi0000binn",
+   "Sermons Preached in the King's Weigh-House Chapel, second series, ed. with a sketch by Henry Allon (London: Macmillan; title-page year garbled, catalogued 1875)"
+  ],
+  "binney-lights-shadows": [
+   "lightsshadowsofc00binnuoft",
+   "Lights and Shadows of Church-Life in Australia; with Two Hundred Years Ago: Then and Now (2nd ed., London: Jackson & Walford, MDCCCLX)"
+  ],
+  "binney-money": [
+   "moneypopularexpo00binn",
+   "Money: A Popular Exposition in Rough Notes (4th thousand, London: Jackson, Walford, and Hodder; catalogued 1864)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "binney-welsh": "IA aydywynbosiblbw00binngoog: Welsh translation (Dinbych, 1855); isitpossibletom01binngoog: duplicate copy",
+  "binney-namesakes": "Horace Binney, Amos Binney (binneystheologic*), Hibbert Binney (cihm_07183): different people"
+ },
+ "_rights_checked": {
+  "binney-weigh-house-2": "title page read: London: Macmillan, year garbled \"18765\", catalogued 1875; author died 1874"
+ },
+ "_pending": {
+  "binney-illustrations-faith": "Illustrations of the Practical Power of Faith (1830; IA illustrationspr00binngoog): returned 500 on recheck",
+  "binney-stoughton-memorial": "Stoughton's Memorial (1874; IA amemorialthomas00unkngoog): no text layer"
+ },
+ "_checks": {
+  "binney-royal-exchange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas binney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "binney-best-of-both-worlds": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. binney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "binney-weigh-house-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. binney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "binney-weigh-house-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas binney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London: Macmillan, year garbled \"18765\", catalogued 1875; author died 1874"
+  },
+  "binney-lights-shadows": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas binney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "binney-money": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas binney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

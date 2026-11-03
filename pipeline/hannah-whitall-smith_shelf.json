@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Hannah Whitall Smith (1832-1911, Quaker-born Holiness writer and speaker) for the Word Hoard: The Christian's Secret of a Happy Life, The God of All Comfort and Old Testament Types and Teachings, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "s/smith_hw",
+ "_name_words": [
+  "smith",
+  "hannah",
+  "whitall"
+ ],
+ "_surname": [
+  "hannah whitall smith",
+  "h. w. smith",
+  "hannah w. smith"
+ ],
+ "_held": {},
+ "ccel": {
+  "hwsmith-secret": [
+   "secret",
+   "The Christian's Secret of a Happy Life",
+   ""
+  ],
+  "hwsmith-comfort": [
+   "comfort",
+   "The God of All Comfort",
+   ""
+  ],
+  "hwsmith-types": [
+   "types",
+   "Old Testament Types and Teachings",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "hwsmith-secret": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hannah whitall smith",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hwsmith-comfort": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hannah whitall smith",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hwsmith-types": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hannah whitall smith",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

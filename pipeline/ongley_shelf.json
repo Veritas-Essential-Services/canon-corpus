@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Leo Ongley: Blasco Ibáñez's The Temptress (1923) and Manuel Gálvez's Nacha Regules (1922). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "leo ongley",
+  "ongley"
+ ],
+ "_surname": [
+  "leo ongley",
+  "ongley"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ong-59441": [
+   59441,
+   "Nacha Regules"
+  ],
+  "ong-63649": [
+   63649,
+   "The Temptress (La tierra de todos)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ongley-galvez-nacha-regules": {
+   "source": "ong-59441",
+   "of": "Manuel Gálvez",
+   "work": "Nacha Regules",
+   "translated": "1922-1923 (see the Gutenberg header)",
+   "translator": "Leo Ongley",
+   "scan_edition": "Project Gutenberg 59441 (clean text)"
+  },
+  "ongley-ibanez-the-temptress-la-tierra-de-todos": {
+   "source": "ong-63649",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "The Temptress (La tierra de todos)",
+   "translated": "1922-1923 (see the Gutenberg header)",
+   "translator": "Leo Ongley",
+   "scan_edition": "Project Gutenberg 63649 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ong-59441": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo ongley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leo Ongley"
+  },
+  "ong-63649": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leo ongley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leo Ongley"
+  }
+ },
+ "_verified": {
+  "ong-59441": {
+   "pg": 59441,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leo Ongley"
+  },
+  "ong-63649": {
+   "pg": 63649,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leo Ongley"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

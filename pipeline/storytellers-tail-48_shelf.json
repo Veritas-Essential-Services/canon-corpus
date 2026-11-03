@@ -1,0 +1,530 @@
+{
+ "_about": "Storytellers' tail, group 48: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Margaret Turnbull, Cornelia L. Tuthill, Anna Cogswell Tyler, J. Aubrey Tyson, Mario Uchard, H. D. Umbstaetter, Edward F. Underhill, Bertha Upton, Charlotte M. Vaile, Juan Valera, Margaret Vandegrift, Alfred J. Vaughan, Frances Bowyer Vaux, Michel Verne, John Fulford Vicary, Herman Knickerbocker Vielé, Villamaria, Julius Vogel, F. Volkhovskii, Felix Voorhies, Blanche Elizabeth Wade, Mary T. Waggaman, Mary Spring Walker, W. W. Walker, William Sidney Walker, A. Stewart Walsh, Elizabeth H. Walshe, Arthur B. Waltermire, Wilfrid Ward, George Waring. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 48 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "mturnbull-w-a-g-s-tale": [
+   "margaret turnbull",
+   "turnbull"
+  ],
+  "cltuthill-hurrah-for-new-england-or-the-virginia-boy-s-vacat": [
+   "cornelia l. tuthill",
+   "cornelia louisa tuthill",
+   "tuthill"
+  ],
+  "actyler-twenty-four-unusual-stories-for-boys-and-girls": [
+   "anna cogswell tyler",
+   "tyler"
+  ],
+  "jatyson-barge-of-haunted-lives": [
+   "j. aubrey tyson",
+   "john aubrey tyson",
+   "tyson"
+  ],
+  "muchard-french-and-oriental-love-in-a-harem": [
+   "mario uchard",
+   "uchard"
+  ],
+  "hdumbstaetter-red-hot-dollar-and-other-stories-from-the-blac": [
+   "h. d. umbstaetter",
+   "herman daniel umbstaetter",
+   "umbstaetter"
+  ],
+  "efunderhill-history-and-records-of-the-elephant-club": [
+   "edward f. underhill",
+   "edward fitch underhill",
+   "underhill"
+  ],
+  "bupton-adventure-of-two-dutch-dolls-and-a-golliwogg": [
+   "bertha upton",
+   "upton"
+  ],
+  "cmvaile-wheat-and-huckleberries": [
+   "charlotte m. vaile",
+   "charlotte marion vaile",
+   "vaile"
+  ],
+  "jvalera-pepita-ximenez": [
+   "juan valera",
+   "valera"
+  ],
+  "mvandegrift-little-helpers": [
+   "margaret vandegrift",
+   "vandegrift"
+  ],
+  "ajvaughan-personal-record-of-the-thirteenth-regiment-tenness": [
+   "alfred j. vaughan",
+   "vaughan"
+  ],
+  "fbvaux-domestic-pleasures-or-the-happy-fire-side": [
+   "frances bowyer vaux"
+  ],
+  "mverne-in-the-year-2889": [
+   "michel verne",
+   "verne"
+  ],
+  "jfvicary-danish-parsonage": [
+   "john fulford vicary",
+   "vicary"
+  ],
+  "hkviele-on-the-lightship": [
+   "herman knickerbocker vielé",
+   "vielé"
+  ],
+  "villamaria-fairy-circles-tales-and-legends-of-giants-dwarfs": [
+   "villamaria",
+   "villamaria"
+  ],
+  "jvogel-anno-domini-2000": [
+   "julius vogel",
+   "vogel"
+  ],
+  "fvolkhovskii-china-cup-and-other-stories-for-children": [
+   "f. volkhovskii",
+   "feliks volkhovskii",
+   "volkhovskii"
+  ],
+  "fvoorhies-acadian-reminiscences": [
+   "felix voorhies",
+   "voorhies"
+  ],
+  "bewade-ant-ventures": [
+   "blanche elizabeth wade"
+  ],
+  "mtwaggaman-killykinick": [
+   "mary t. waggaman",
+   "mary theresa waggaman",
+   "waggaman"
+  ],
+  "mswalker-miss-elliot-s-girls": [
+   "mary spring walker"
+  ],
+  "wwwalker-alter-ego": [
+   "w. w. walker",
+   "william wesley walker"
+  ],
+  "wswalker-gustavus-vasa-and-other-poems": [
+   "william sidney walker"
+  ],
+  "aswalsh-mary": [
+   "a. stewart walsh",
+   "alexander stewart walsh",
+   "walsh"
+  ],
+  "ehwalshe-cedar-creek": [
+   "elizabeth h. walshe",
+   "elizabeth hely walshe",
+   "walshe"
+  ],
+  "abwaltermire-doors-of-death": [
+   "arthur b. waltermire",
+   "waltermire"
+  ],
+  "wward-great-possessions": [
+   "wilfrid ward"
+  ],
+  "gwaring-squirrels-and-other-animals-or-illustrations-of-the": [
+   "george waring",
+   "waring"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "mturnbull-w-a-g-s-tale": [
+   9844,
+   "W. A. G.'s Tale"
+  ],
+  "cltuthill-hurrah-for-new-england-or-the-virginia-boy-s-vacat": [
+   11120,
+   "Hurrah for New England! Or, The Virginia Boy's Vacation"
+  ],
+  "actyler-twenty-four-unusual-stories-for-boys-and-girls": [
+   34618,
+   "Twenty-Four Unusual Stories for Boys and Girls"
+  ],
+  "jatyson-barge-of-haunted-lives": [
+   77879,
+   "The barge of haunted lives"
+  ],
+  "muchard-french-and-oriental-love-in-a-harem": [
+   21868,
+   "French and Oriental Love in a Harem"
+  ],
+  "hdumbstaetter-red-hot-dollar-and-other-stories-from-the-blac": [
+   75099,
+   "The red-hot dollar, and other stories from the Black Cat"
+  ],
+  "efunderhill-history-and-records-of-the-elephant-club": [
+   32274,
+   "The History and Records of the Elephant Club"
+  ],
+  "bupton-adventure-of-two-dutch-dolls-and-a-golliwogg": [
+   16770,
+   "The Adventure of Two Dutch Dolls and a 'Golliwogg'"
+  ],
+  "cmvaile-wheat-and-huckleberries": [
+   41515,
+   "Wheat and Huckleberries; Or, Dr. Northmore's Daughters"
+  ],
+  "jvalera-pepita-ximenez": [
+   30236,
+   "Pepita Ximenez"
+  ],
+  "mvandegrift-little-helpers": [
+   63793,
+   "Little Helpers"
+  ],
+  "ajvaughan-personal-record-of-the-thirteenth-regiment-tenness": [
+   49898,
+   "Personal record of the Thirteenth Regiment, Tennessee Infantry"
+  ],
+  "fbvaux-domestic-pleasures-or-the-happy-fire-side": [
+   7830,
+   "Domestic Pleasures, or, the Happy Fire-side"
+  ],
+  "mverne-in-the-year-2889": [
+   19362,
+   "In the year 2889"
+  ],
+  "jfvicary-danish-parsonage": [
+   30617,
+   "A Danish Parsonage"
+  ],
+  "hkviele-on-the-lightship": [
+   40648,
+   "On the Lightship"
+  ],
+  "villamaria-fairy-circles-tales-and-legends-of-giants-dwarfs": [
+   39560,
+   "Fairy Circles Tales and Legends of Giants, Dwarfs, Fairies, Water-Sprites, and Hobgoblins"
+  ],
+  "jvogel-anno-domini-2000": [
+   49207,
+   "Anno Domini 2000; or, Woman's Destiny"
+  ],
+  "fvolkhovskii-china-cup-and-other-stories-for-children": [
+   64606,
+   "A China cup, and other stories for children"
+  ],
+  "fvoorhies-acadian-reminiscences": [
+   31245,
+   "Acadian Reminiscences : The True Story of Evangeline"
+  ],
+  "bewade-ant-ventures": [
+   76365,
+   "Ant ventures"
+  ],
+  "mtwaggaman-killykinick": [
+   26985,
+   "Killykinick"
+  ],
+  "mswalker-miss-elliot-s-girls": [
+   14610,
+   "Miss Elliot's Girls: Stories of Beasts, Birds, and Butterflies"
+  ],
+  "wwwalker-alter-ego": [
+   37731,
+   "Alter Ego: A Tale"
+  ],
+  "wswalker-gustavus-vasa-and-other-poems": [
+   17754,
+   "Gustavus Vasa and other poems"
+  ],
+  "aswalsh-mary": [
+   60028,
+   "Mary: The Queen of the House of David and Mother of Jesus The Story of Her Life"
+  ],
+  "ehwalshe-cedar-creek": [
+   31091,
+   "Cedar Creek: From the Shanty to the Settlement. A Tale of Canadian Life"
+  ],
+  "abwaltermire-doors-of-death": [
+   32671,
+   "The Doors of Death"
+  ],
+  "wward-great-possessions": [
+   17952,
+   "Great Possessions"
+  ],
+  "gwaring-squirrels-and-other-animals-or-illustrations-of-the": [
+   33434,
+   "The Squirrels and other animals Or, Illustrations of the habits and instincts of many of the smaller British quadrupeds"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mturnbull-w-a-g-s-tale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret turnbull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cltuthill-hurrah-for-new-england-or-the-virginia-boy-s-vacat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cornelia l. tuthill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "actyler-twenty-four-unusual-stories-for-boys-and-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna cogswell tyler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jatyson-barge-of-haunted-lives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. aubrey tyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "muchard-french-and-oriental-love-in-a-harem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mario uchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdumbstaetter-red-hot-dollar-and-other-stories-from-the-blac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. d. umbstaetter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efunderhill-history-and-records-of-the-elephant-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward f. underhill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bupton-adventure-of-two-dutch-dolls-and-a-golliwogg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmvaile-wheat-and-huckleberries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. vaile",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jvalera-pepita-ximenez": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "juan valera",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandegrift-little-helpers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret vandegrift",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajvaughan-personal-record-of-the-thirteenth-regiment-tenness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred j. vaughan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbvaux-domestic-pleasures-or-the-happy-fire-side": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances bowyer vaux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mverne-in-the-year-2889": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michel verne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfvicary-danish-parsonage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fulford vicary",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hkviele-on-the-lightship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herman knickerbocker vielé",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "villamaria-fairy-circles-tales-and-legends-of-giants-dwarfs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "villamaria",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jvogel-anno-domini-2000": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius vogel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fvolkhovskii-china-cup-and-other-stories-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. volkhovskii",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fvoorhies-acadian-reminiscences": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "felix voorhies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bewade-ant-ventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blanche elizabeth wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtwaggaman-killykinick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary t. waggaman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mswalker-miss-elliot-s-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary spring walker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwwalker-alter-ego": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. walker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wswalker-gustavus-vasa-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william sidney walker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aswalsh-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. stewart walsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehwalshe-cedar-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth h. walshe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abwaltermire-doors-of-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. waltermire",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wward-great-possessions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwaring-squirrels-and-other-animals-or-illustrations-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george waring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

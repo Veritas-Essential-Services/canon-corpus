@@ -1,0 +1,35 @@
+{
+ "_about": "William Pepperell Montague (1873-1953), Columbia new realist. Raw IA OCR: The Ways of Knowing, or the Methods of Philosophy, Library of Philosophy (London: Allen & Unwin; first published 1925, this copy the second impression, 1928), clean 0.91. Not taken: a later Library of Philosophy impression of the same book. His essay in The New Realism (1912) is on the edwin-b-holt shelf. US public domain. No uids minted.",
+ "_author": "William Pepperell Montague",
+ "_name_words": [
+  "william",
+  "pepperell",
+  "montague"
+ ],
+ "_surname": [
+  "montague",
+  "w. p. montague"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "montague-ways-of-knowing-1925": [
+   "waysofknowingorm0000mont_x0p9",
+   "The Ways of Knowing (Allen & Unwin, 1925; 1928 impression)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "montague-ways-of-knowing-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montague",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

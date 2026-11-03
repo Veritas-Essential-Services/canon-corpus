@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain Edmund Hamilton Sears (1810-1876), Unitarian minister of Wayland and Weston, Massachusetts, author of the carol It Came upon the Midnight Clear, for the Word Hoard: Regeneration (1853), Athanasia, or Foregleams of Immortality (1858), The Fourth Gospel the Heart of Christ (1872), Sermons and Songs of the Christian Life (1875) and Christ in the Life (1877). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 77 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "edmund h. sears",
+  "edmund hamilton sears",
+  "e. h. sears"
+ ],
+ "_surname": [
+  "edmund h. sears",
+  "e. h. sears",
+  "sears"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sears-regeneration": [
+   "regeneration00sear",
+   "Regeneration (Boston : Crosby, Nichols, 1853)"
+  ],
+  "sears-athanasia": [
+   "athanasiaorforeg00sear",
+   "Athanasia: or, Foregleams of immortality (Boston, American Unitarian Association, 1858)"
+  ],
+  "sears-fourth-gospel": [
+   "fourthgospelhear00sear",
+   "The Fourth gospel : the heart of Christ (Boston : Noyes, Holmes, and Co., 1872)"
+  ],
+  "sears-sermons-and-songs": [
+   "sermonssongsofch00sear",
+   "Sermons and songs of Christian life ([n.p.], 1875)"
+  ],
+  "sears-christ-in-the-life": [
+   "christinlifeserm00sear",
+   "Christ in the life : sermons, with a selection of poems (Boston : Lockwood, Brooks, 1877)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sears-other": "Foregleams and Foreshadows of Immortality (1873) is the enlarged later edition of Athanasia; Pictures of the Olden Time (1857) is a family history of his Pilgrim forebears; The Religious Magazine is a periodical he co-edited"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "sears-athanasia": "title page: 'ATHANASIA: OR, FOREGLEAMS OF IMMORTALITY. BY EDMUND H. SEARS ... BOSTON: AMERICAN UNITARIAN ASSOCIATION ... 1858' (OCR 'SEAES')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "sears-regeneration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund h. sears",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sears-athanasia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sears-fourth-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund h. sears",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sears-sermons-and-songs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund h. sears",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "sears-christ-in-the-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund h. sears",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

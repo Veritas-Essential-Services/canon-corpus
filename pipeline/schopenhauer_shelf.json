@@ -1,0 +1,74 @@
+{
+ "_about": "Arthur Schopenhauer (1788-1860) in English: The World as Will and Idea, tr. R. B. Haldane and J. Kemp (Kegan Paul, Trench, Trübner; vol. I 7th ed. 1909, vols. II-III 6th ed. 1909; first published 1883-1886), clean Gutenberg. US public domain (published before 1930). Bailey Saunders's essays (lane C's bailey-saunders shelf), Dircks's Essays (singles-ideas) and the Basis of Morality and Fourfold Root (singles-ideas-2) are held elsewhere and not taken again. No uids minted.",
+ "_author": "Arthur Schopenhauer",
+ "_name_words": [
+  "arthur",
+  "schopenhauer"
+ ],
+ "_surname": [
+  "schopenhauer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "schopenhauer-haldane-kemp-world-as-will-v1": [
+   38427,
+   "The World as Will and Idea, vol. I, containing four books, 7th ed. (London: Kegan Paul, 1909)",
+   "tr. R. B. Haldane and J. Kemp"
+  ],
+  "schopenhauer-haldane-kemp-world-as-will-v2": [
+   40097,
+   "The World as Will and Idea, vol. II, containing the Criticism of the Kantian Philosophy and supplements, 6th ed. (London: Kegan Paul, 1909)",
+   "tr. R. B. Haldane and J. Kemp"
+  ],
+  "schopenhauer-haldane-kemp-world-as-will-v3": [
+   40868,
+   "The World as Will and Idea, vol. III, containing supplements, 6th ed. (London: Kegan Paul, 1909)",
+   "tr. R. B. Haldane and J. Kemp"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "schopenhauer-haldane-kemp-world-as-will-v1": "Haldane",
+  "schopenhauer-haldane-kemp-world-as-will-v2": "Haldane",
+  "schopenhauer-haldane-kemp-world-as-will-v3": "Haldane"
+ },
+ "_checks": {
+  "schopenhauer-haldane-kemp-world-as-will-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schopenhauer",
+   "translator_claimed": "Haldane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viscount R. B. Haldane Haldane; J. Kemp",
+   "translator_match": true
+  },
+  "schopenhauer-haldane-kemp-world-as-will-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schopenhauer",
+   "translator_claimed": "Haldane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viscount R. B. Haldane Haldane; J. Kemp",
+   "translator_match": true
+  },
+  "schopenhauer-haldane-kemp-world-as-will-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schopenhauer",
+   "translator_claimed": "Haldane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viscount R. B. Haldane Haldane; J. Kemp",
+   "translator_match": true
+  }
+ }
+}

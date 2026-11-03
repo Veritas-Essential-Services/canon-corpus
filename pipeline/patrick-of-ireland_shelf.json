@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Patrick (5th century), apostle of Ireland, for the Word Hoard: his Confession and Letter to Coroticus in the revised translation of George Thomas Stokes and Charles H. H. Wright (1887) and in Newport J. D. White's translation (1918), Archdeacon Hamilton's Confession (1859) and Thomas Olden's Epistles and Hymn (1876), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "patrick"
+ ],
+ "_surname": [
+  "patrick",
+  "s. patrick",
+  "saint patrick",
+  "st. patrick"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "patrick-writings-stokes-wright-1887": [
+   "writingsofstpatr0000patr",
+   "The Writings of St. Patrick, the Apostle of Ireland: a revised translation, by George Thomas Stokes and Charles H. H. Wright (London: James Nisbet; Dublin: Hodges, Figgis, 1887)"
+  ],
+  "patrick-latin-writings-white-1918": [
+   "translationoflat00patrrich",
+   "A Translation of the Latin Writings of St. Patrick, by Newport J. D. White, Texts for Students No. 9 (London: SPCK, 1918)"
+  ],
+  "patrick-confession-hamilton-1859": [
+   "confessionofsain00patr",
+   "The Confession of Saint Patrick, translated from the original Latin by Archdeacon Hamilton (Dublin: John Charles O'Reilly, 1859)"
+  ],
+  "patrick-epistles-hymn-olden-1876": [
+   "epistlesandhymn00patrgoog",
+   "The Epistles and Hymn of Saint Patrick, with the Poem of Secundinus, translated by Thomas Olden (Dublin: Hodges, Foster, & Co., 1876)"
+  ]
+ },
+ "_alternates": {
+  "patrick-copies": "White's St. Patrick, his Writings and Life (SPCK, 1920; also holds Muirchu's Life); Wright's RTS editions (undated title pages); Olden's Confession (Dublin: M'Glashan, title page year not read); TheConfessionOfStPatrick and TheEpistlesAndHymnOfStPatrick (other copies)"
+ },
+ "_excluded": {
+  "patrick-other": "CCEL's Confession (a modern web translation with no print source); the Latin texts (Libri Sancti Patricii); O'Leary's Most Ancient Lives (PG 18482, a mixed volume, translator not named); Lives by Bury, Healy and Stokes"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "patrick-writings-stokes-wright-1887": "wright",
+  "patrick-latin-writings-white-1918": "white",
+  "patrick-confession-hamilton-1859": "hamilton",
+  "patrick-epistles-hymn-olden-1876": "olden"
+ },
+ "_checks": {
+  "patrick-writings-stokes-wright-1887": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patrick",
+   "translator_claimed": "wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patrick-latin-writings-white-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patrick",
+   "translator_claimed": "white",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patrick-confession-hamilton-1859": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patrick",
+   "translator_claimed": "hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patrick-epistles-hymn-olden-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patrick",
+   "translator_claimed": "olden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_about": "The Legends and Myths of Hawaii, by His Hawaiian Majesty Kalakaua, edited by R. M. Daggett (1888): chiefs' legends and Hawaiian myths. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Kalakaua",
+ "_name_words": [
+  "kalakaua"
+ ],
+ "_surname": [
+  "kalakaua"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kalakaua-legends-and-myths-of-hawaii": [
+   56597,
+   "The Legends and Myths of Hawaii",
+   {
+    "levels": [
+     {
+      "re": "(?!CHARACTERS)(?![IVXL]+\\.$)(?!PAGE$)(?!(?:A\\ STORY\\ OF\\ HAWAIIAN\\ CHIVALRY\\ IN\\ THE\\ TWELFTH\\ CENTURY\\.|THE\\ LEGEND\\ OF\\ KANIPAHU,\\ THE\\ GRANDSON\\ OF\\ PILI\\.|THE\\ LEGENDS\\ OF\\ MOIKEHA\\ AND\\ THE\\ ARGONAUTS\\ OF\\ THE\\ ELEVENTH\\ AND\\ TWELFTH\\ CENTURIES\\.|THE\\ ADVENTURES\\ OF\\ THE\\ GODDESS\\ WITH\\ KAMAPUAA\\.|THE\\ LEGEND\\ OF\\ THE\\ GREAT\\ FAMINE\\ OF\\ THE\\ TWELFTH\\ CENTURY\\.|A\\ LEGEND\\ OF\\ THE\\ FIRST\\ WAR\\ FOR\\ THE\\ CONQUEST\\ OF\\ THE\\ GROUP\\.|THE\\ ADVENTURES\\ OF\\ KAULULAAU,\\ PRINCE\\ OF\\ MAUI\\.|THE\\ LEGEND\\ OF\\ LO\\-LALE,\\ THE\\ ECCENTRIC\\ PRINCE\\ OF\\ OAHU\\.|THE\\ HISTORIC\\ LEGENDS\\ OF\\ LILOA,\\ HAKAU,\\ AND\\ THE\\ \"KIHA\\-PU\\.\"|A\\ ROMANTIC\\ EPISODE\\ IN\\ THE\\ ROYAL\\ ANNALS\\.|A\\ STORY\\ OF\\ ROYAL\\ KNIGHT\\-ERRANTRY\\ IN\\ THE\\ SIXTEENTH\\ CENTURY\\.|THE\\ CAREER\\ OF\\ KEEAUMOKU,\\ THE\\ PRINCE\\-SLAYER\\ AND\\ KING\\-MAKER\\.|A\\ POPULAR\\ LEGEND\\ OF\\ THE\\ SEVENTEENTH\\ CENTURY\\.|KAMEHAMEHA,\\ KAAHUMANU,\\ CAPTAIN\\ COOK,\\ AND\\ THE\\ FINAL\\ CONQUEST\\.|A\\ STORY\\ OF\\ THE\\ SPOUTING\\ CAVE\\ OF\\ PALIKAHOLO\\.|THE\\ LAST\\ GREAT\\ DEFENDER\\ OF\\ THE\\ HAWAIIAN\\ GODS\\.|A\\ LEGEND\\ OF\\ THE\\ ISLAND\\ OF\\ LANAI\\.|A\\ SUPERNATURAL\\ FOLK\\-LORE\\ LEGEND\\ OF\\ THE\\ FOURTEENTH\\ CENTURY\\.|THE\\ LEGEND\\ OF\\ HIIAKA,\\ THE\\ IMMORTAL,\\ AND\\ THE\\ PRINCE\\ OF\\ KAUAI\\.|A\\ STORY\\ OF\\ THE\\ VENGEANCE\\ OF\\ THE\\ GODDESS\\ PELE\\.|A\\ LEGEND\\ OF\\ THE\\ VALLEY\\ OF\\ RAINBOW)$)[A-Z][^a-z]{6,}$",
+      "strip": "\\.$",
+      "max": 160
+     },
+     {
+      "re": "CHARACTERS\\.$|(?:A\\ STORY\\ OF\\ HAWAIIAN\\ CHIVALRY\\ IN\\ THE\\ TWELFTH\\ CENTURY\\.|THE\\ LEGEND\\ OF\\ KANIPAHU,\\ THE\\ GRANDSON\\ OF\\ PILI\\.|THE\\ LEGENDS\\ OF\\ MOIKEHA\\ AND\\ THE\\ ARGONAUTS\\ OF\\ THE\\ ELEVENTH\\ AND\\ TWELFTH\\ CENTURIES\\.|THE\\ ADVENTURES\\ OF\\ THE\\ GODDESS\\ WITH\\ KAMAPUAA\\.|THE\\ LEGEND\\ OF\\ THE\\ GREAT\\ FAMINE\\ OF\\ THE\\ TWELFTH\\ CENTURY\\.|A\\ LEGEND\\ OF\\ THE\\ FIRST\\ WAR\\ FOR\\ THE\\ CONQUEST\\ OF\\ THE\\ GROUP\\.|THE\\ ADVENTURES\\ OF\\ KAULULAAU,\\ PRINCE\\ OF\\ MAUI\\.|THE\\ LEGEND\\ OF\\ LO\\-LALE,\\ THE\\ ECCENTRIC\\ PRINCE\\ OF\\ OAHU\\.|THE\\ HISTORIC\\ LEGENDS\\ OF\\ LILOA,\\ HAKAU,\\ AND\\ THE\\ \"KIHA\\-PU\\.\"|A\\ ROMANTIC\\ EPISODE\\ IN\\ THE\\ ROYAL\\ ANNALS\\.|A\\ STORY\\ OF\\ ROYAL\\ KNIGHT\\-ERRANTRY\\ IN\\ THE\\ SIXTEENTH\\ CENTURY\\.|THE\\ CAREER\\ OF\\ KEEAUMOKU,\\ THE\\ PRINCE\\-SLAYER\\ AND\\ KING\\-MAKER\\.|A\\ POPULAR\\ LEGEND\\ OF\\ THE\\ SEVENTEENTH\\ CENTURY\\.|KAMEHAMEHA,\\ KAAHUMANU,\\ CAPTAIN\\ COOK,\\ AND\\ THE\\ FINAL\\ CONQUEST\\.|A\\ STORY\\ OF\\ THE\\ SPOUTING\\ CAVE\\ OF\\ PALIKAHOLO\\.|THE\\ LAST\\ GREAT\\ DEFENDER\\ OF\\ THE\\ HAWAIIAN\\ GODS\\.|A\\ LEGEND\\ OF\\ THE\\ ISLAND\\ OF\\ LANAI\\.|A\\ SUPERNATURAL\\ FOLK\\-LORE\\ LEGEND\\ OF\\ THE\\ FOURTEENTH\\ CENTURY\\.|THE\\ LEGEND\\ OF\\ HIIAKA,\\ THE\\ IMMORTAL,\\ AND\\ THE\\ PRINCE\\ OF\\ KAUAI\\.|A\\ STORY\\ OF\\ THE\\ VENGEANCE\\ OF\\ THE\\ GODDESS\\ PELE\\.|A\\ LEGEND\\ OF\\ THE\\ VALLEY\\ OF\\ RAINBOW)$",
+      "strip": "\\.$",
+      "max": 160
+     },
+     {
+      "re": "[IVXL]+\\.$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "PREFACE\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "kalakaua-legends-and-myths-of-hawaii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kalakaua",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "_about": "Frank Byron Jevons (1858-1936), Durham: A History of Greek Literature from the Earliest Period to the Death of Demosthenes (New York: Scribner; the scan's imprint OCR reads 1880, the book was first published in 1886). His Plutarch's Romane Questions is not taken here: A History of Greek Literature from the Earliest Period to the Death of Demosthenes (New York: Charles Scribner's Sons; imprint year read by OCR as 1880), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "jevons"
+ ],
+ "_surname": [
+  "f. b. jevons",
+  "frank byron jevons",
+  "jevons, f. b"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "f-b-jevons-history-greek-literature": [
+   "historyofgreekli00jevouoft",
+   "A History of Greek Literature from the Earliest Period to the Death of Demosthenes (New York: Charles Scribner's Sons; imprint year read by OCR as 1880)"
+  ]
+ },
+ "_checks": {
+  "f-b-jevons-history-greek-literature": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frank byron jevons",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

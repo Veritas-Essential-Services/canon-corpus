@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Auguste Sabatier (1839-1901, dean of the Protestant theology faculty in Paris) in English for the Word Hoard: The Apostle Paul, tr. A. M. Hellier (1891), Outlines of a Philosophy of Religion, tr. T. A. Seed (1897), The Religions of Authority and the Religion of the Spirit, tr. Louise Seymour Houghton (1903) and The Doctrine of the Atonement, tr. Victor Leuliette (1904), from Internet Archive scans. Not Paul Sabatier, the biographer of St Francis. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sabatier"
+ ],
+ "_surname": [
+  "sabatier",
+  "auguste sabatier",
+  "a. sabatier"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sabatier-apostle-paul": [
+   "apostlepaulsketc00saba",
+   "The Apostle Paul: a Sketch of the Development of his Doctrine, tr. A. M. Hellier, ed. George G. Findlay (London: Hodder and Stoughton, MDCCCXCI)"
+  ],
+  "sabatier-outlines-philosophy-religion": [
+   "outlinesofphiloso00saba",
+   "Outlines of a Philosophy of Religion based on Psychology and History, tr. T. A. Seed (London: Hodder and Stoughton, 1897)"
+  ],
+  "sabatier-religions-of-authority": [
+   "religionsofautho01saba",
+   "The Religions of Authority and the Religion of the Spirit, tr. Louise Seymour Houghton (New York: McClure, Phillips, MCMIII)"
+  ],
+  "sabatier-doctrine-atonement": [
+   "thedoctrineofthe00sabauoft",
+   "The Doctrine of the Atonement and its Historical Evolution, and Religion and Modern Culture, tr. Victor Leuliette (London: Williams & Norgate, 1904)"
+  ]
+ },
+ "_alternates": {
+  "sabatier-pg": "PG 38446: Outlines (Pott, 1910), translator not named",
+  "sabatier-copies": "Pott issues of the Apostle Paul and Outlines; the W&N Religions of Authority (1904)"
+ },
+ "_excluded": {
+  "sabatier-other": "Paul Sabatier's Life of St Francis (lane C's houghton shelf); a mis-catalogued Atonement scan"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "sabatier-apostle-paul": "hellier",
+  "sabatier-outlines-philosophy-religion": "seed",
+  "sabatier-religions-of-authority": "houghton",
+  "sabatier-doctrine-atonement": "leuliette"
+ },
+ "_checks": {
+  "sabatier-apostle-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sabatier",
+   "translator_claimed": "hellier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sabatier-outlines-philosophy-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sabatier",
+   "translator_claimed": "seed",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sabatier-religions-of-authority": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sabatier",
+   "translator_claimed": "houghton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "sabatier-doctrine-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sabatier",
+   "translator_claimed": "leuliette",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

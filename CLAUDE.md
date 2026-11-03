@@ -256,6 +256,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_topical.py --check          # data/topical byte-identical
     python3 pipeline/topical.py kjv:John.3.16          # every topic and article citing a verse
     python3 tests/topical_test.py                      # the reference reader rule by rule; the committed layer
+    python3 pipeline/extract_short_pieces.py           # short pieces -> data/shorts/ (docs/short-pieces/SHORT-PIECES.tsv)
+    python3 pipeline/extract_short_pieces.py --check   # every ok piece resolves exactly once
+    python3 tests/short_pieces_test.py                 # the extractor, fixtures inline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)

@@ -1,0 +1,153 @@
+{
+ "_about": "Public-domain Samuel Kirkland Lothrop (1804-1886), Unitarian minister of the Brattle Square Church, Boston, for the Word Hoard: his Life of Samuel Kirkland, A History of the Church in Brattle Street, and his sermons (1842-1874). The archaeologist of the same name (1892-1965) is a different man and is left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 97 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel kirkland lothrop",
+  "samuel k. lothrop",
+  "s. k. lothrop",
+  "lothrop"
+ ],
+ "_surname": [
+  "samuel kirkland lothrop",
+  "samuel k. lothrop",
+  "s. k. lothrop",
+  "lothrop"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lothrop-good-man": [
+   "goodmanasermonp00lothgoog",
+   "The good man : a sermon, preached at the Church in Brattle Square, on the Sunday after the interment of George Bond, Esq., May 29, 1842 (Boston : W.W. Clapp & Son, 1842)"
+  ],
+  "lothrop-life-kirkland": [
+   "lifesamuelkirkl00spargoog",
+   "Life of Samuel Kirkland, Missionary to the Indians (Charles C. Little and James Brown, 1847)"
+  ],
+  "lothrop-stay-and-staff": [
+   "staystafftakenaw00loth",
+   "The stay and the staff taken away. A sermon preached at the church in Brattle Square, on the death of the Hon. Harrison Gray Otis, November 5, 1848 (Boston : Eastburn's Press, 1848)"
+  ],
+  "lothrop-brattle-street": [
+   "brattlest00loth",
+   "A history of the church in Brattle Street, Boston (Boston : Wm. Crosby and H.P. Nichols, 1851)"
+  ],
+  "lothrop-mature-christian": [
+   "maturechristianr00loth",
+   "The mature Christian ripe for the harvest (Boston : Printed by J. Wilson and son, 1861)"
+  ],
+  "lothrop-firmness-gentleness": [
+   "firmnessgentlene00loth",
+   "Firmness and gentleness united in the Christian character : a sermon preached in the Brattle-Square Church, Dec. 15, 1861, the Sunday succeeding the death of Hon. Richard Sullivan (Boston : Printed by J. Wilson and Son, 1862)"
+  ],
+  "lothrop-memorial-church": [
+   "memorialofchurch0000loth",
+   "Memorial of the church in Brattle square. : A discourse preached in the church in Brattle square, on the last Sunday of its use for public worship, July 30, 1871 (Boston : Press of J. Wilson and son, 1871)"
+  ],
+  "lothrop-dedication-1874": [
+   "sermonpreachedat00loth_0",
+   "A sermon preached at the dedication of the Church of the Brattle-Square Society, on the corner of Clarendon Street and Commonwealth Avenue, Dec. 22, 1873 (Boston : Press of John Wilson and Son., 1874)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "lothrop-council": "Proceedings of an Ecclesiastical Council (Hollis Street, many hands)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "lothrop-stay-and-staff": "Title page image: 'The Stay and the Staff taken away. A Sermon preached at the Church in Brattle Square, on the death of the Hon. Harrison Gray Otis, November 5, 1848. By S. K. Lothrop, Pastor of the Church... Boston: 1848.'",
+  "lothrop-dedication-1874": "Title page image: 'A Sermon preached at the Dedication of the Church of Brattle-Square Society... Dec. 22, 1873. By S. K. Lothrop. Printed, not published. Boston: Press of John Wilson and Son. 1874.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lothrop-good-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel kirkland lothrop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lothrop-life-kirkland": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel kirkland lothrop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lothrop-stay-and-staff": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lothrop-brattle-street": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel kirkland lothrop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lothrop-mature-christian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. k. lothrop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lothrop-firmness-gentleness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. k. lothrop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lothrop-memorial-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. k. lothrop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lothrop-dedication-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

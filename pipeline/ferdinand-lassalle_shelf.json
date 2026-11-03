@@ -1,0 +1,39 @@
+{
+ "_about": "Ferdinand Lassalle (1825-1864), founder of German social democracy: The Working Man's Programme (Arbeiter-Programm), translated with an introduction by Edward Peters (London: The Modern Press, 1884), raw IA OCR, clean 0.95. Held: the Open Letter to the National Labor Association of Germany, translated by John Ehmann and Fred. Bader (Cincinnati: Socialistic Labor Party), because no year is printed in the scan. US public domain. No uids minted.",
+ "_author": "Ferdinand Lassalle",
+ "_name_words": [
+  "ferdinand",
+  "lassalle"
+ ],
+ "_surname": [
+  "lassalle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lassalle-working-mans-programme-1884": [
+   "workingmansprogr00lassiala",
+   "The Working Man's Programme, tr. Edward Peters (London: Modern Press, 1884)",
+   "Edward Peters"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "lassalle-working-mans-programme-1884": "Peters"
+ },
+ "_checks": {
+  "lassalle-working-mans-programme-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lassalle",
+   "translator_claimed": "Peters",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

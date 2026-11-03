@@ -1,0 +1,766 @@
+{
+ "_about": "The Pulpit Commentary (ed. H. D. M. Spence and Joseph S. Exell; first published London: Kegan Paul, Trench, 1880-1897), from Adam's Libronix inventory (Scholar's Library: Gold). Internet Archive OCR, raw, of Cornell's Funk & Wagnalls set (one Toronto copy for I Chronicles); each volume's book and volume number read from its second title page, 2026-11-03. Several volumes bind more than one book (e.g. Judges with Ruth, Ezra with Nehemiah and Esther); the row names the book on the volume's title page. Every contributor died long before 1930 and every printing is pre-1930, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "pulpit commentary",
+  "spence",
+  "exell"
+ ],
+ "_surname": [
+  "exell",
+  "spence"
+ ],
+ "internet_archive": {
+  "pulpit-genesis": [
+   "cu31924098499522",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Genesis (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-exodus-1": [
+   "cu31924098499506",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Exodus, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-exodus-2": [
+   "cu31924098499514",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Exodus, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-leviticus": [
+   "cu31924101105116",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Leviticus (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-numbers": [
+   "cu31924101105058",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Numbers (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-deuteronomy": [
+   "cu31924101104994",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Deuteronomy (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-joshua": [
+   "cu31924101104879",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Joshua (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-judges": [
+   "cu31924101104937",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Judges (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-1-samuel": [
+   "cu31924101104812",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: I Samuel (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-2-samuel": [
+   "cu31924101104754",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: II Samuel (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-1-kings": [
+   "cu31924101104697",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: I Kings (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-2-kings": [
+   "cu31924101104630",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: II Kings (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-1-chronicles": [
+   "pulpitcommentary12spen",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: I Chronicles (New York and Toronto: Funk & Wagnalls; undated)"
+  ],
+  "pulpit-2-chronicles": [
+   "cu31924101104515",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: II Chronicles (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-ezra": [
+   "cu31924101105041",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Ezra (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-job": [
+   "cu31924101104986",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Job (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-psalms-1": [
+   "cu31924101104929",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Psalms, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-psalms-2": [
+   "cu31924101104861",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Psalms, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-psalms-3": [
+   "cu31924101104804",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Psalms, vol. III (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-proverbs": [
+   "cu31924101104747",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Proverbs (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-ecclesiastes": [
+   "cu31924101104689",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Ecclesiastes (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-song": [
+   "cu31924101104622",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: The Song of Solomon (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-isaiah-1": [
+   "cu31924101104564",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Isaiah, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-isaiah-2": [
+   "cu31924101104507",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Isaiah, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-jeremiah-1": [
+   "cu31924101104499",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Jeremiah, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-jeremiah-2": [
+   "cu31924101104556",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Jeremiah, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-ezekiel-1": [
+   "cu31924101104614",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Ezekiel, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-ezekiel-2": [
+   "cu31924101104671",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Ezekiel, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-hosea": [
+   "cu31924101104739",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Hosea (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-amos": [
+   "cu31924101104796",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Amos (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-nahum": [
+   "cu31924101104853",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Nahum (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-matthew-2": [
+   "cu31924101104978",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: St. Matthew, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-mark-1": [
+   "cu31924101105033",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: St. Mark, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-mark-2": [
+   "cu31924101105090",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: St. Mark, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-luke-1": [
+   "cu31924101104481",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: St. Luke, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-luke-2": [
+   "cu31924101105066",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: St. Luke, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-john-1": [
+   "cu31924101105074",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: St. John, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-john-2": [
+   "cu31924101105082",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: St. John, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-acts-1": [
+   "cu31924101105009",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: The Acts of the Apostles, vol. I (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-acts-2": [
+   "cu31924101105017",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: The Acts of the Apostles, vol. II (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-romans": [
+   "cu31924101105025",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Romans (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-1-corinthians": [
+   "cu31924101104945",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: I Corinthians (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-2-corinthians": [
+   "cu31924101104887",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: II Corinthians (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-galatians": [
+   "cu31924101104952",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Galatians (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-philippians": [
+   "cu31924101104820",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Philippians (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-1-thessalonians": [
+   "cu31924101104762",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: I Thessalonians (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-hebrews": [
+   "cu31924101104960",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Hebrews (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-1-peter": [
+   "cu31924101104895",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: I Peter (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ],
+  "pulpit-revelation": [
+   "cu31924101104705",
+   "The Pulpit Commentary, ed. H. D. M. Spence and Joseph S. Exell: Revelation (New York and Toronto: Funk & Wagnalls; undated reissue of the 1880-1897 Kegan Paul edition)"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "_pending": {
+  "pulpit-daniel": "Daniel: no pre-1930 open scan found (only 1950 Eerdmans and 1980s reprints, which are lending-library scans)",
+  "pulpit-matthew-1": "St. Matthew vol. I: no pre-1930 open scan found (stmatthewvolume00caffgoog is a Wilcox & Follett reprint, catalogued [191-], not checked)"
+ },
+ "_excluded": {
+  "pulpit-reprints": "Eerdmans 1950 and Hendrickson/Funk 1980s reprints (lending-library scans)",
+  "pulpit-catholic": "A Pulpit Commentary on Catholic Teaching (Wagner, 1908-10): a different work",
+  "pulpit-index": "Index to the Pulpit Commentary (1919) left for later"
+ },
+ "_rights_checked": {
+  "pulpit-1-chronicles": "Undated Funk & Wagnalls (New York and Toronto) issue of the Pulpit Commentary, first published 1880-1897 by Kegan Paul; title page read 2026-11-03; all editors and contributors died before 1930 and the issue is pre-1930 (Toronto copy, the firm's Toronto imprint), so US public domain"
+ },
+ "_checks": {
+  "pulpit-genesis": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-exodus-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-exodus-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-leviticus": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-numbers": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-deuteronomy": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-joshua": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-judges": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-1-samuel": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-2-samuel": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-1-kings": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-2-kings": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-1-chronicles": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--?}",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Undated Funk & Wagnalls (New York and Toronto) issue of the Pulpit Commentary, first published 1880-1897 by Kegan Paul; title page read 2026-11-03; all editors and contributors died before 1930 and the issue is pre-1930 (Toronto copy, the firm's Toronto imprint), so US public domain"
+  },
+  "pulpit-2-chronicles": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-ezra": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-job": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-psalms-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-proverbs": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-ecclesiastes": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-song": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-isaiah-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-isaiah-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-jeremiah-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-jeremiah-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-ezekiel-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-ezekiel-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-hosea": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-amos": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-nahum": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-matthew-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-mark-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-mark-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-luke-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-luke-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-john-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-john-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-acts-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-acts-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-romans": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-1-corinthians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-2-corinthians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-galatians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-philippians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-1-thessalonians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-hebrews": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-1-peter": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pulpit-revelation": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[189-?]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

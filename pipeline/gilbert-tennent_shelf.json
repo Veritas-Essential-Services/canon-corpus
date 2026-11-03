@@ -1,0 +1,54 @@
+{
+ "_about": "Public-domain Gilbert Tennent (1703-1764, Presbyterian revivalist of the Great Awakening, minister in New Brunswick, New Jersey, and Philadelphia) for the Word Hoard: Twenty-three Sermons upon the Chief End of Man (Philadelphia: W. Bradford, 1744) and Irenicum Ecclesiasticum (Philadelphia, 1749), raw Internet Archive OCR (long s). Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "tennent",
+  "gilbert"
+ ],
+ "_surname": [
+  "gilbert tennent",
+  "g. tennent",
+  "tennent, gilbert",
+  "mr. tennent"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tennent-twenty-three-sermons-1744": [
+   "twentythreesermo00tenn",
+   "Twenty-three Sermons upon the Chief End of Man, the Divine Authority of the Sacred Scriptures, the Being and Attributes of God, and the Doctrine of the Trinity (Philadelphia: W. Bradford, 1744)"
+  ],
+  "tennent-irenicum-1749": [
+   "ireecclesia00tenn",
+   "Irenicum Ecclesiasticum, or A Humble Impartial Essay upon the Peace of Jerusalem (Philadelphia, MDCCXLIX)"
+  ]
+ },
+ "_alternates": {
+  "tennent-sermons-essays": "Sermons and Essays by the Tennents and their Contemporaries (Presbyterian Board, 1855): a mixed-author collection, not shelved"
+ },
+ "_excluded": {},
+ "_checks": {
+  "tennent-twenty-three-sermons-1744": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "g. tennent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "1744",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tennent-irenicum-1749": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gilbert tennent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

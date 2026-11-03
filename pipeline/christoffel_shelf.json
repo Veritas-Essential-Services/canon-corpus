@@ -1,0 +1,39 @@
+{
+ "_about": "Raget Christoffel (1810-1875), Reformed pastor at Wintersingen: Zwingli, or the Rise of the Reformation in Switzerland, a life of the reformer with some notices of his time and contemporaries, translated from the German by John Cochran (Edinburgh: T. & T. Clark, 1858). The translator check looks for Cochran. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "christoffel"
+ ],
+ "_surname": [
+  "christoffel"
+ ],
+ "_translators": {
+  "christoffel-zwingli-1858": "Cochran"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "christoffel-zwingli-1858": [
+   "zwingliorriseof00chri",
+   "Zwingli, or the Rise of the Reformation in Switzerland, tr. John Cochran (Edinburgh: T. & T. Clark, 1858)"
+  ]
+ },
+ "_alternates": {
+  "cu31924029225443, zwingliorrisere00chrigoog, zwingliorriseofr00chri": "Other copies of the same edition."
+ },
+ "_excluded": {},
+ "_checks": {
+  "christoffel-zwingli-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "christoffel",
+   "translator_claimed": "Cochran",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

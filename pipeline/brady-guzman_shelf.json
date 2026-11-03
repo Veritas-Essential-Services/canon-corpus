@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: John Henry Brady: Mateo Alemán's Guzman d'Alfarache, the Spanish Rogue, from Le Sage's French version (1821), 3 vols. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john henry brady",
+  "j. h. brady"
+ ],
+ "_surname": [
+  "john henry brady",
+  "j. h. brady"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jhb-52806": [
+   52806,
+   "The Life and Adventures of Guzman D'Alfarache, or the Spanish Rogue, vol. 1/3"
+  ],
+  "jhb-52938": [
+   52938,
+   "The Life and Adventures of Guzman D'Alfarache, or the Spanish Rogue, vol. 2/3"
+  ],
+  "jhb-53081": [
+   53081,
+   "The Life and Adventures of Guzman D'Alfarache, or the Spanish Rogue, vol. 3/3"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "brady-guzman-aleman-the-life-and-adventures-of-guzman-d-alfa-vol-1": {
+   "source": "jhb-52806",
+   "of": "Mateo Alemán",
+   "work": "The Life and Adventures of Guzman D'Alfarache, or the Spanish Rogue, vol. 1/3",
+   "translated": "1821 (see the Gutenberg header)",
+   "translator": "John Henry Brady (with Alain René Le Sage)",
+   "scan_edition": "Project Gutenberg 52806 (clean text)"
+  },
+  "brady-guzman-aleman-the-life-and-adventures-of-guzman-d-alfa-vol-2": {
+   "source": "jhb-52938",
+   "of": "Mateo Alemán",
+   "work": "The Life and Adventures of Guzman D'Alfarache, or the Spanish Rogue, vol. 2/3",
+   "translated": "1821 (see the Gutenberg header)",
+   "translator": "John Henry Brady (with Alain René Le Sage)",
+   "scan_edition": "Project Gutenberg 52938 (clean text)"
+  },
+  "brady-guzman-aleman-the-life-and-adventures-of-guzman-d-alfa-vol-3": {
+   "source": "jhb-53081",
+   "of": "Mateo Alemán",
+   "work": "The Life and Adventures of Guzman D'Alfarache, or the Spanish Rogue, vol. 3/3",
+   "translated": "1821 (see the Gutenberg header)",
+   "translator": "John Henry Brady (with Alain René Le Sage)",
+   "scan_edition": "Project Gutenberg 53081 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jhb-52806": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john henry brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Henry Brady; Alain René Le Sage"
+  },
+  "jhb-52938": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john henry brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Henry Brady; Alain René Le Sage"
+  },
+  "jhb-53081": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john henry brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Henry Brady; Alain René Le Sage"
+  }
+ },
+ "_verified": {
+  "jhb-52806": {
+   "pg": 52806,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Henry Brady"
+  },
+  "jhb-52938": {
+   "pg": 52938,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Henry Brady"
+  },
+  "jhb-53081": {
+   "pg": 53081,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Henry Brady"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

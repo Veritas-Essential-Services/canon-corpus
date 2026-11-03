@@ -1,0 +1,87 @@
+{
+ "_about": "Vaughan Kester: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Vaughan Kester",
+ "_name_words": [
+  "kester",
+  "vaughan"
+ ],
+ "_surname": [
+  "vaughan kester",
+  "kester"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "vkester-prodigal-judge": [
+   5129,
+   "The Prodigal Judge"
+  ],
+  "vkester-just-and-the-unjust": [
+   14581,
+   "The Just and the Unjust"
+  ],
+  "vkester-manager-of-the-b-a": [
+   51953,
+   "The Manager of the B. & A.: A Novel"
+  ],
+  "vkester-fortune-of-the-landrays": [
+   52560,
+   "The Fortune of the Landrays"
+  ],
+  "vkester-hand-of-the-mighty-and-other-stories": [
+   52563,
+   "The Hand of the Mighty, and Other Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57703": "PG 57703: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "vkester-prodigal-judge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaughan kester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vkester-just-and-the-unjust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaughan kester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vkester-manager-of-the-b-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaughan kester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vkester-fortune-of-the-landrays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaughan kester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vkester-hand-of-the-mighty-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaughan kester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

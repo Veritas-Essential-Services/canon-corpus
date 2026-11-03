@@ -1,0 +1,31 @@
+{
+ "_about": "James Harrington (1611-1677): The Commonwealth of Oceana, with an editor's introduction, from Project Gutenberg (the etext names no printing). US public domain. No uids minted.",
+ "_author": "James Harrington",
+ "_name_words": [
+  "james",
+  "harrington"
+ ],
+ "_surname": [
+  "james harrington"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "harrington-oceana": [
+   2801,
+   "The Commonwealth of Oceana (the etext names no printing)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "harrington-oceana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james harrington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "_about": "George Gissing's novels, stories and essays: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "George Gissing",
+ "_name_words": [
+  "gissing"
+ ],
+ "_surname": [
+  "george gissing"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gissing-private-papers-of-henry-ryecroft": [
+   1463,
+   "The Private Papers of Henry Ryecroft"
+  ],
+  "gissing-new-grub-street": [
+   1709,
+   "New Grub Street"
+  ],
+  "gissing-eves-ransom": [
+   4297,
+   "Eve's Ransom"
+  ],
+  "gissing-paying-guest": [
+   4298,
+   "The Paying Guest"
+  ],
+  "gissing-whirlpool": [
+   4299,
+   "The Whirlpool"
+  ],
+  "gissing-nether-world": [
+   4301,
+   "The Nether World"
+  ],
+  "gissing-thyrza": [
+   4302,
+   "Thyrza",
+   {
+    "contents_only": true
+   }
+  ],
+  "gissing-denzil-quarrier": [
+   4303,
+   "Denzil Quarrier"
+  ],
+  "gissing-our-friend-the-charlatan": [
+   4304,
+   "Our Friend the Charlatan"
+  ],
+  "gissing-unclassed": [
+   4305,
+   "The Unclassed",
+   {
+    "contents_only": true
+   }
+  ],
+  "gissing-veranilda": [
+   4306,
+   "Veranilda"
+  ],
+  "gissing-in-the-year-of-jubilee": [
+   4307,
+   "In the Year of Jubilee"
+  ],
+  "gissing-town-traveller": [
+   4308,
+   "The Town Traveller",
+   {
+    "contents_only": true
+   }
+  ],
+  "gissing-demos": [
+   4309,
+   "Demos"
+  ],
+  "gissing-will-warburton": [
+   4310,
+   "Will Warburton"
+  ],
+  "gissing-emancipated": [
+   4311,
+   "The Emancipated"
+  ],
+  "gissing-a-lifes-morning": [
+   4312,
+   "A Life's Morning"
+  ],
+  "gissing-odd-women": [
+   4313,
+   "The Odd Women",
+   {
+    "contents_only": true
+   }
+  ],
+  "gissing-by-the-ionian-sea": [
+   4354,
+   "By the Ionian Sea: Notes of a Ramble in Southern Italy",
+   {
+    "contents_only": true
+   }
+  ],
+  "gissing-born-in-exile": [
+   4526,
+   "Born in Exile"
+  ],
+  "gissing-crown-of-life": [
+   4541,
+   "The Crown of Life"
+  ],
+  "gissing-house-of-cobwebs-and-other-stories": [
+   11603,
+   "The House of Cobwebs and Other Stories"
+  ],
+  "gissing-isabel-clarendon-vol-1-of-2": [
+   54431,
+   "Isabel Clarendon, Vol. 1 (of 2)"
+  ],
+  "gissing-isabel-clarendon-vol-2-of-2": [
+   54432,
+   "Isabel Clarendon, Vol. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gissing-private-papers-of-henry-ryecroft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-new-grub-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-eves-ransom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-paying-guest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-whirlpool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-nether-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-thyrza": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-denzil-quarrier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-our-friend-the-charlatan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-unclassed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-veranilda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-in-the-year-of-jubilee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-town-traveller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-demos": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-will-warburton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-emancipated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-a-lifes-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-odd-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-by-the-ionian-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-born-in-exile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-crown-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-house-of-cobwebs-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-isabel-clarendon-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gissing-isabel-clarendon-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george gissing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

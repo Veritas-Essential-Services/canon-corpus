@@ -1,0 +1,42 @@
+{
+ "_about": "K. Langloh Parker's Australian Legendary Tales, the folk-lore of the Noongahburrahs as she heard it, with Andrew Lang's introduction. Her ethnographic study The Euahlayi Tribe is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "K. Langloh Parker",
+ "_name_words": [
+  "parker"
+ ],
+ "_surname": [
+  "k. langloh parker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "langloh-parker-australian-legendary-tales": [
+   3833,
+   "Australian Legendary Tales",
+   {
+    "levels": [
+     {
+      "re": "(?:CONTENTS|PREFACE|INTRODUCTION|APPENDIX|GLOSSARY|\\d+\\. [A-Z][^a-z]+)$"
+     },
+     {
+      "re": "DINEWAN BOOLLARHNAH GOOMBLEGUBBON$"
+     }
+    ],
+    "start": "CONTENTS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "langloh-parker-australian-legendary-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "k. langloh parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

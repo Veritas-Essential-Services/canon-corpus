@@ -1,0 +1,40 @@
+{
+ "_about": "Elizabeth Harrison's In Story-land, kindergarten stories (copyright entry 1895). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Elizabeth Harrison",
+ "_name_words": [
+  "harrison"
+ ],
+ "_surname": [
+  "elizabeth harrison"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "harrison-in-story-land": [
+   33980,
+   "In Story-land",
+   {
+    "levels": [
+     {
+      "re": "_[^a-z]+_$|PREFACE\\.$|NOTE TO SECOND EDITION\\.$|BOOKS BY THE SAME AUTHOR\\.$",
+      "strip": "^_|\\.?_$|\\.$"
+     }
+    ],
+    "start": "PREFACE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "harrison-in-story-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "elizabeth harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

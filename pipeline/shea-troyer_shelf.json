@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: David Shea (1777-1836) and Anthony Troyer (d. 1865): The Dabistán, or School of Manners (Oriental Translation Fund, 1843, 3 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "david shea",
+  "anthony troyer"
+ ],
+ "_surname": [
+  "david shea",
+  "anthony troyer"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sht-63275": [
+   63275,
+   "The Dabistán, or School of manners, Volume 1 (of 3) translated from the original Persian, with notes and illustrations"
+  ],
+  "sht-63276": [
+   63276,
+   "The Dabistán, or School of manners, Volume 2 (of 3) translated from the original Persian, with notes and illustrations"
+  ],
+  "sht-63277": [
+   63277,
+   "The Dabistán, or School of manners, Volume 3 (of 3) translated from the original Persian, with notes and illustrations"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "shea-troyer-the-dabistan-vol-1": {
+   "source": "sht-63275",
+   "of": "Attributed to Muhsin Fani (authorship disputed)",
+   "work": "The Dabistán, or School of manners, Volume 1 (of 3) translated from the original Persian, with notes and illustrations",
+   "translated": "1843 (see the Gutenberg header)",
+   "translator": "David Shea and Anthony Troyer",
+   "scan_edition": "Project Gutenberg 63275 (clean text)"
+  },
+  "shea-troyer-the-dabistan-vol-2": {
+   "source": "sht-63276",
+   "of": "Attributed to Muhsin Fani (authorship disputed)",
+   "work": "The Dabistán, or School of manners, Volume 2 (of 3) translated from the original Persian, with notes and illustrations",
+   "translated": "1843 (see the Gutenberg header)",
+   "translator": "David Shea and Anthony Troyer",
+   "scan_edition": "Project Gutenberg 63276 (clean text)"
+  },
+  "shea-troyer-the-dabistan-vol-3": {
+   "source": "sht-63277",
+   "of": "Attributed to Muhsin Fani (authorship disputed)",
+   "work": "The Dabistán, or School of manners, Volume 3 (of 3) translated from the original Persian, with notes and illustrations",
+   "translated": "1843 (see the Gutenberg header)",
+   "translator": "David Shea and Anthony Troyer",
+   "scan_edition": "Project Gutenberg 63277 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sht-63275": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david shea",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "David Shea; Anthony Troyer"
+  },
+  "sht-63276": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david shea",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "David Shea; Anthony Troyer"
+  },
+  "sht-63277": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david shea",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "David Shea; Anthony Troyer"
+  }
+ },
+ "_verified": {
+  "sht-63275": {
+   "pg": 63275,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "David Shea"
+  },
+  "sht-63276": {
+   "pg": 63276,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "David Shea"
+  },
+  "sht-63277": {
+   "pg": 63277,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "David Shea"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,198 @@
+{
+ "_about": "Public-domain Henry Harbaugh (1817-1867), German Reformed pastor, Mercersburg professor and hymn writer, for the Word Hoard: The Drunkard-Maker (1849), Heaven (1853), The Heavenly Recognition (1853), The Heavenly Home (1853), Union with the Church (1856), The Life of Michael Schlatter (1857), The Fathers of the German Reformed Church, vols 1-2 (1857), The Golden Censer (1860), Poems (1860) and Treason and Law (1865), from Internet Archive scans. Added 2026-10-23 by lane A, round 56 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "harbaugh"
+ ],
+ "_surname": [
+  "henry harbaugh",
+  "h. harbaugh",
+  "rev. h. harbaugh"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harbaugh-drunkard-maker": [
+   "drunkardmakertak00harb",
+   "The drunkard-maker taken from his bar to the bar of God, tried, found guilty, and condemned for murder (Office of the German Reformed Messenger, 1849)"
+  ],
+  "harbaugh-heaven": [
+   "heavenorearnests00harb",
+   "Heaven; or, An earnest and scriptural inquiry into the abode of the sainted dead (Philadelphia, Lindsay and Blakiston, 1853)"
+  ],
+  "harbaugh-heavenly-recognition": [
+   "heavenlyrecognit00harb_2",
+   "The heavenly recognition ; or, An earnest and scriptural discussion of the question, Will we know our friends in heaven? (Philadelphia : Lindsay and Blakiston, 1853)"
+  ],
+  "harbaugh-heavenly-home": [
+   "heavenlyhomeorem00harb",
+   "Heavenly home; or, The employments & enjoyments of the saints in heaven (Philadelphia, Lindsay, 1853)"
+  ],
+  "harbaugh-union-with-church": [
+   "unionwithchurchs00harb",
+   "Union with the church, the solemn duty, and the blessed privilege of all who would be saved (Philadelphia, Lindsay & Blakiston, 1856)"
+  ],
+  "harbaugh-schlatter": [
+   "lifeofrevmichael00harb",
+   "The life of Rev. Michael Schlatter; with a full account of his travels and labors among the Germans in Pennsylvania, New Jersey, Maryland and Virginia; including his services as chaplain in the French and Indian War, and in the war of the revolution. 1716 to 1790 (Philadelphia, Lindsay and Blakiston, 1857)"
+  ],
+  "harbaugh-fathers-1": [
+   "fathersofgermanr01harb",
+   "The fathers of the German Reformed Church in Europe and America, vol. 1 (Lancaster : Sprenger & Westhaeffer, 1857)"
+  ],
+  "harbaugh-fathers-2": [
+   "fathersofgermanr02harb",
+   "The fathers of the German Reformed Church in Europe and America, vol. 2 (Lancaster : Sprenger & Westhaeffer, 1857)"
+  ],
+  "harbaugh-golden-censer": [
+   "goldencenser00harb",
+   "The golden censer ([n. p.], 1860)"
+  ],
+  "harbaugh-poems": [
+   "poems00harb",
+   "Poems (Philadelphia, Lindsay & Blakiston, 1860)"
+  ],
+  "harbaugh-treason-and-law": [
+   "treasonlawdiscou00harb",
+   "Treason and law : a discourse, delivered at Clearspring, Maryland, June 1, 1865, the day of national mourning (Philadelphia : Jas. B. Rodgers, 1865)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "harbaugh-other": "Fathers of the German Reformed Church vols 3-6 (continued by D. Y. Heisler after his death); the Heidelberg Catechism edition and Sunday-school hymn books he edited"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "harbaugh-union-with-church": "Title page OCR reads 'UNION WITH THE CHURCH, THE SOLEMN DUTY ... BY REV. H. HAEEAUGH, author of Heaven, or the Sainted Dead; the Heavenly Recognition; the Heavenly Home' (Harbaugh garbled), Lindsay & Blakiston 1856.",
+  "harbaugh-schlatter": "Title page OCR reads 'THE LIFE OF REV. MICHAEL SCHLATTER ... BY REV. H. IIARBAUGH, A.M., MEMBER OF THE HISTORICAL SOCIETY OF PENNSYLVANIA; AUTHOR OF \"THE SAINTED DEAD,\" \"HEAVENLY RECOGNITION\"' (H garbled).",
+  "harbaugh-fathers-1": "Title page OCR reads 'THE FATHERS OF THE German Reformed Church IN EUROPE AND AMERICA. REV. H. HARBAUGH, A.M., AUTHOR OF \"THE SAINTED DEAD\" ... VOL. I. LANCASTER: SPRENGER & WESTHAEFFER. 1857' (punctuation inside the name).",
+  "harbaugh-poems": "Title page OCR reads 'POEMS. BY HENEY HAEBAUGH, AUTHOR OF \"the sainted DEAD,\" \"HEAVENLY RECOGNITION,\" \"HEAVENLY HOME\"' (Henry Harbaugh garbled), Lindsay & Blakiston 1860."
+ },
+ "_pending": {
+  "harbaugh-harfe": "Harbaugh's Harfe (1870), poems in Pennsylvania German dialect: pending Adam's ruling on non-English works"
+ },
+ "_translators": {},
+ "_checks": {
+  "harbaugh-drunkard-maker": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry harbaugh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "harbaugh-heaven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. harbaugh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harbaugh-heavenly-recognition": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. harbaugh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "harbaugh-heavenly-home": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. harbaugh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harbaugh-union-with-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harbaugh-schlatter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harbaugh-fathers-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harbaugh-fathers-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. harbaugh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harbaugh-golden-censer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. harbaugh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "harbaugh-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "harbaugh-treason-and-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. harbaugh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

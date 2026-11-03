@@ -1,0 +1,122 @@
+{
+ "_about": "Catharine Parr Traill's writing at Gutenberg: backwoods of Canada books and stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Catharine Parr Traill",
+ "_name_words": [
+  "traill"
+ ],
+ "_surname": [
+  "traill"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cptraill-lady-mary-and-her-nurse": [
+   6479,
+   "Lady Mary and Her Nurse; Or, A Peep into the Canadian Forest"
+  ],
+  "cptraill-lost-in-the-backwoods": [
+   6813,
+   "Lost in the Backwoods: A Tale of the Canadian Forest"
+  ],
+  "cptraill-canadian-crusoes": [
+   8382,
+   "Canadian Crusoes: A Tale of the Rice Lake Plains"
+  ],
+  "cptraill-in-the-forest": [
+   8607,
+   "In the Forest; Or, Pictures of Life and Scenery in the Woods of Canada: A Tale"
+  ],
+  "cptraill-backwoods-of-canada-being-letters-from-the-wife-of": [
+   13559,
+   "The Backwoods of Canada Being Letters from the Wife of an Emigrant Officer, Illustrative of the Domestic Economy of British America"
+  ],
+  "cptraill-little-downy": [
+   27239,
+   "Little Downy: The History of a Field-Mouse"
+  ],
+  "cptraill-tell-tale": [
+   54480,
+   "The Tell-Tale: An Original Collection of Moral and Amusing Stories"
+  ],
+  "cptraill-north-american-wild-flowers": [
+   56288,
+   "North American Wild Flowers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cptraill-lady-mary-and-her-nurse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cptraill-lost-in-the-backwoods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cptraill-canadian-crusoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cptraill-in-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cptraill-backwoods-of-canada-being-letters-from-the-wife-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cptraill-little-downy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cptraill-tell-tale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cptraill-north-american-wild-flowers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

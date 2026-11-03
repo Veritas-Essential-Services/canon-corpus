@@ -1,0 +1,482 @@
+{
+ "_about": "Public-domain F. D. Maurice (Frederick Denison Maurice, 1805-1872, Anglican theologian, Christian Socialist, Knightbridge Professor at Cambridge) for the Word Hoard: The Gospel of St. John (new edition, 1882) from Project Gutenberg, and 28 more from Internet Archive scans, 1839-1873, among them The Kingdom of Christ (1842), Theological Essays (1853), The Doctrine of Sacrifice (1854), What is Revelation? (1859) and Social Morality (1869). His histories of philosophy are left to the philosophy lane. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "maurice"
+ ],
+ "_surname": [
+  "frederick denison maurice",
+  "f. d. maurice",
+  "rev. f. d. maurice",
+  "maurice, frederick denison",
+  "maurice, f. d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "maurice-gospel-st-john": [
+   "41362",
+   "The Gospel of St. John: a Series of Discourses, new edition (London: Macmillan, 1882)"
+  ]
+ },
+ "internet_archive": {
+  "maurice-church-or-state-educate": [
+   "haschurchorstate00maur",
+   "Has the Church, or the State, the Power to Educate the Nation? (London: Rivington; Darton and Clark, 1839)"
+  ],
+  "maurice-kingdom-of-christ-1": [
+   "kingdomofchristo01mauriala",
+   "The Kingdom of Christ; or, Hints to a Quaker, vol. I (London: Rivington; Darton & Clark, 1842)"
+  ],
+  "maurice-kingdom-of-christ-2": [
+   "kingdomofchristo02mauriala",
+   "The Kingdom of Christ; or, Hints to a Quaker, vol. II, second edition (London: Rivington; Darton & Clark, 1842)"
+  ],
+  "maurice-religions-of-world": [
+   "a592608000mauruoft",
+   "The Religions of the World and their Relations to Christianity, the Boyle Lectures (London: John W. Parker, M.DCCC.XLVII)"
+  ],
+  "maurice-church-a-family": [
+   "churchfamilytwel0000maur",
+   "The Church a Family: Twelve Sermons on the Occasional Services of the Prayer-Book (London: John W. Parker; catalogued 1850)"
+  ],
+  "maurice-letter-bishop-london": [
+   "lettertorighthon00maur",
+   "A Letter to the Lord Bishop of London (London: John W. Parker; catalogued 1850)"
+  ],
+  "maurice-old-testament-sermons": [
+   "oldtestamentnin00maurgoog",
+   "The Old Testament: Nineteen Sermons on the First Lessons for the Sundays (London: John W. Parker and Son, M.DCCC.LI)"
+  ],
+  "maurice-prayer-book": [
+   "a592600700mauruoft",
+   "The Prayer-Book considered especially in reference to the Romish System, second edition, revised (London: John W. Parker and Son, M.DCCC.LII)"
+  ],
+  "maurice-lords-prayer": [
+   "lordsprayernine00maur",
+   "The Lord's Prayer: Nine Sermons preached in the Chapel of Lincoln's Inn (Philadelphia: H. Hooker, 1852)"
+  ],
+  "maurice-theological-essays": [
+   "a592619800mauruoft",
+   "Theological Essays (Cambridge: Macmillan, 1853)"
+  ],
+  "maurice-word-eternal": [
+   "dli.bengal.10689.20157",
+   "The Word 'Eternal' and the Punishment of the Wicked: a Letter to Dr. Jelf (Cambridge: Macmillan, 1853)",
+   "10689.20157_djvu.txt"
+  ],
+  "maurice-prophets-and-kings": [
+   "a592601600mauruoft",
+   "The Prophets and Kings of the Old Testament (Cambridge: Macmillan, 1853)"
+  ],
+  "maurice-sabbath-sermons": [
+   "sermonsonthesabb00mauruoft",
+   "Sermons on the Sabbath-day, on the Character of the Warrior, and on the Interpretation of History (London: John W. Parker and Son, MDCCCLIII)"
+  ],
+  "maurice-ecclesiastical-history": [
+   "lecturesontheecc00mauruoft",
+   "Lectures on the Ecclesiastical History of the First and Second Centuries (Cambridge: Macmillan, 1854)"
+  ],
+  "maurice-doctrine-of-sacrifice": [
+   "doctrineofsacrif00maurrich",
+   "The Doctrine of Sacrifice deduced from the Scriptures (Cambridge: Macmillan, 1854)"
+  ],
+  "maurice-patriarchs-lawgivers": [
+   "a592598900mauruoft",
+   "The Patriarchs and Lawgivers of the Old Testament, second edition (Cambridge: Macmillan, 1855)"
+  ],
+  "maurice-learning-and-working": [
+   "learningworkingr00mauruoft",
+   "Learning and Working; The Religion of Rome (Cambridge: Macmillan, 1855)"
+  ],
+  "maurice-epistles-st-john": [
+   "epistlesofstjohn00maur",
+   "The Epistles of St. John: a Series of Lectures on Christian Ethics (Macmillan, 1857)"
+  ],
+  "maurice-what-is-revelation": [
+   "a592631800mauruoft",
+   "What is Revelation? (Cambridge: Macmillan, 1859)"
+  ],
+  "maurice-sequel-revelation": [
+   "sequeltotheinqui00mauruoft",
+   "Sequel to the Inquiry, What is Revelation? (Cambridge: Macmillan, 1860)"
+  ],
+  "maurice-apocalypse": [
+   "lecturesonapocal0000maur",
+   "Lectures on the Apocalypse (Cambridge: Macmillan, 1861)"
+  ],
+  "maurice-family-worship": [
+   "dialoguesclergym00mauruoft",
+   "Dialogues between a Clergyman and a Layman on Family Worship (Cambridge and London: Macmillan, 1862)"
+  ],
+  "maurice-claims-bible-science": [
+   "claimsofbibleofs00maur",
+   "The Claims of the Bible and of Science (Macmillan, 1863)"
+  ],
+  "maurice-gospel-of-kingdom": [
+   "gospelofkingdomo00mauriala",
+   "The Gospel of the Kingdom of Heaven: Lectures on the Gospel of St. Luke (Macmillan, 1864)"
+  ],
+  "maurice-commandments": [
+   "commandmentscons00maur",
+   "The Commandments considered as Instruments of National Reformation (Macmillan, 1866)"
+  ],
+  "maurice-social-morality": [
+   "socialmoralitytw00maur",
+   "Social Morality: Twenty-one Lectures (London and Cambridge: Macmillan, 1869)"
+  ],
+  "maurice-conscience": [
+   "a592453500mauruoft",
+   "The Conscience: Lectures on Casuistry, second edition (London: Macmillan, 1872)"
+  ],
+  "maurice-country-sermons": [
+   "sermonspreachedi0000maur_r1v8",
+   "Sermons preached in Country Churches (London: Macmillan, 1873)"
+  ]
+ },
+ "_alternates": {
+  "maurice-philosophy": "Moral and Metaphysical Philosophy, Mediaeval Philosophy, Modern Philosophy and Ancient Philosophy (Griffin, 1854-1862): history of philosophy, for the philosophy lane",
+  "maurice-copies": "Second copies and later forms: a592475701mauruoft and a5924757b02mauruoft (Kingdom of Christ, 1842), kingdomofchristo00maur (New York, 1843), theologicalessay00mauruoft, wordeternalandp00jelfgoog, gospelstjohnase00maurgoog (Gospel of St. John, 1857), unityofnewtestam00maur (American), christmasdayando00mauruoft (1892), the six-volume Lincoln's Inn Sermons (new edition)"
+ },
+ "_excluded": {
+  "maurice-others": "The Life of F. D. Maurice by his son (1884), Faith and Action (selected by another), The Friendship of Books (edited by T. Hughes), Law's Remarks on the Fable of the Bees and Kingsley's poems (his introductions)",
+  "maurice-fiction": "Eustace Conway (a novel, 1834)",
+  "maurice-political": "The Workman and the Franchise (1866) and Working Men's College pamphlets",
+  "maurice-namesakes": "Frederick Maurice the soldier and others"
+ },
+ "_identity_checked": {
+  "maurice-church-or-state-educate": {
+   "author": "Title page read: 'Frederick Denison Maurice, A.M., Chaplain to Guy's Hospital', OCR 'FllEDERICK DENISON |MAURICE'"
+  },
+  "maurice-church-a-family": {
+   "author": "Title page read: 'preached in the chapel of Lincoln's Inn by Frederick D[enison Maurice]', the rest of the name lost in the OCR; Maurice was chaplain of Lincoln's Inn; Parker, West Strand"
+  }
+ },
+ "_rights_checked": {
+  "maurice-church-a-family": "title page read: London, John W. Parker, West Strand; year not legible; catalogued 1850; author died 1872",
+  "maurice-letter-bishop-london": "title page read: London, John W. Parker, West Strand; year not legible; catalogued 1850; author died 1872"
+ },
+ "_pending": {
+  "maurice-subscription": "Subscription No Bondage (1835, as 'Rusticus'): text returned HTTP 500, title page unread"
+ },
+ "_checks": {
+  "maurice-gospel-st-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maurice-church-or-state-educate": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-kingdom-of-christ-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-kingdom-of-christ-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-religions-of-world": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-church-a-family": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London, John W. Parker, West Strand; year not legible; catalogued 1850; author died 1872"
+  },
+  "maurice-letter-bishop-london": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "MDCCCL [1850]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London, John W. Parker, West Strand; year not legible; catalogued 1850; author died 1872"
+  },
+  "maurice-old-testament-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-prayer-book": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. d. maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-theological-essays": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-word-eternal": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maurice-prophets-and-kings": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-sabbath-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-ecclesiastical-history": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-doctrine-of-sacrifice": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. d. maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-patriarchs-lawgivers": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-learning-and-working": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-epistles-st-john": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maurice-what-is-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-sequel-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maurice-family-worship": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-claims-bible-science": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. d. maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-gospel-of-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-commandments": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "maurice, frederick denison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-social-morality": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-conscience": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maurice-country-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick denison maurice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

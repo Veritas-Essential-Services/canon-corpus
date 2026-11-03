@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Keightley's (1789-1872) Fairy Mythology, a survey of fairy belief and tales across Europe and Asia. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Thomas Keightley",
+ "_name_words": [
+  "keightley"
+ ],
+ "_surname": [
+  "thomas keightley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "keightley-fairy-mythology": [
+   41006,
+   "The Fairy Mythology",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "keightley-fairy-mythology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas keightley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

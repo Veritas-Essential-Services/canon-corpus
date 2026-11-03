@@ -1,0 +1,125 @@
+{
+ "_about": "F. W. Bain: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "F. W. Bain",
+ "_name_words": [
+  "bain",
+  "francis",
+  "william"
+ ],
+ "_surname": [
+  "f. w. bain",
+  "francis william bain"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fwbain-essence-of-the-dusk-5th-edition": [
+   11499,
+   "An Essence of the Dusk, 5th Edition"
+  ],
+  "fwbain-bubbles-of-the-foam": [
+   19874,
+   "Bubbles of the Foam"
+  ],
+  "fwbain-substance-of-a-dream": [
+   20935,
+   "The Substance of a Dream"
+  ],
+  "fwbain-syrup-of-the-bees": [
+   35928,
+   "A Syrup of the Bees"
+  ],
+  "fwbain-ashes-of-a-god": [
+   48909,
+   "The Ashes of a God"
+  ],
+  "fwbain-digit-of-the-moon": [
+   48910,
+   "A Digit of the Moon: A Hindoo Love Story"
+  ],
+  "fwbain-mine-of-faults": [
+   48911,
+   "A Mine of Faults"
+  ],
+  "fwbain-draught-of-the-blue-together-with-an-essence-of-the-d": [
+   49033,
+   "A Draught of the Blue, together with An Essence of the Dusk"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fwbain-essence-of-the-dusk-5th-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbain-bubbles-of-the-foam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbain-substance-of-a-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbain-syrup-of-the-bees": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbain-ashes-of-a-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbain-digit-of-the-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbain-mine-of-faults": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbain-draught-of-the-blue-together-with-an-essence-of-the-d": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

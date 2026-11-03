@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Theodor Zahn (1838-1933, Erlangen) in English for the Word Hoard: Introduction to the New Testament (3 vols, Edinburgh: T. & T. Clark, 1909), translated under M. W. Jacobus, The Apostles' Creed (1899) and Bread and Salt from the Word of God (1905), both tr. C. S. Burn and A. E. Burn, from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "zahn"
+ ],
+ "_surname": [
+  "zahn",
+  "theodor zahn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zahn-intro-nt-1": [
+   "introductiontone01zahnuoft",
+   "Introduction to the New Testament, vol. I, tr. John Moore Trout and others under Melancthon Williams Jacobus (Edinburgh: T. & T. Clark, 1909)"
+  ],
+  "zahn-intro-nt-2": [
+   "introductiontone02zahnuoft",
+   "Introduction to the New Testament, vol. II, tr. John Moore Trout and others under Melancthon Williams Jacobus (Edinburgh: T. & T. Clark, 1909)"
+  ],
+  "zahn-intro-nt-3": [
+   "introductiontone03zahnuoft",
+   "Introduction to the New Testament, vol. III, tr. John Moore Trout and others under Melancthon Williams Jacobus (Edinburgh: T. & T. Clark, 1909)"
+  ],
+  "zahn-apostles-creed": [
+   "apostlescreedas00zahngoog",
+   "The Apostles' Creed: a Sketch of its History and an Examination of its Contents, tr. C. S. Burn and A. E. Burn (London: Hodder and Stoughton, 1899)"
+  ],
+  "zahn-bread-and-salt": [
+   "breadandsaltfro00zahngoog",
+   "Bread and Salt from the Word of God, in Sixteen Sermons, tr. C. S. Burn and A. E. Burn (Edinburgh: T. & T. Clark, 1905)"
+  ]
+ },
+ "_alternates": {
+  "zahn-copies": "Scribner's three-in-one second edition (1917); other 1899 and 1905 copies"
+ },
+ "_excluded": {
+  "zahn-reprints": "Kregel 1953 reprints",
+  "zahn-others": "German works; novels by other Zahns"
+ },
+ "_rights_checked": {
+  "zahn-bread-and-salt": "title page read: name OCR'd 'ZJlHN'"
+ },
+ "_pending": {},
+ "_translators": {
+  "zahn-intro-nt-1": "trout",
+  "zahn-intro-nt-2": "trout",
+  "zahn-intro-nt-3": "trout",
+  "zahn-apostles-creed": "burn",
+  "zahn-bread-and-salt": "burn"
+ },
+ "_checks": {
+  "zahn-intro-nt-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zahn",
+   "translator_claimed": "trout",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zahn-intro-nt-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zahn",
+   "translator_claimed": "trout",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zahn-intro-nt-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zahn",
+   "translator_claimed": "trout",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zahn-apostles-creed": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zahn",
+   "translator_claimed": "burn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zahn-bread-and-salt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zahn",
+   "translator_claimed": "burn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'ZJlHN'"
+  }
+ }
+}

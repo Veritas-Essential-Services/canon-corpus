@@ -1,0 +1,111 @@
+{
+ "_about": "John Reed Scott: Romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "John Reed Scott",
+ "_name_words": [
+  "john",
+  "reed",
+  "scott"
+ ],
+ "_surname": [
+  "john reed scott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jrscott-cab-of-the-sleeping-horse": [
+   15094,
+   "The Cab of the Sleeping Horse"
+  ],
+  "jrscott-beatrix-of-clare": [
+   17100,
+   "Beatrix of Clare"
+  ],
+  "jrscott-colonel-of-the-red-huzzars": [
+   17131,
+   "The Colonel of the Red Huzzars"
+  ],
+  "jrscott-in-her-own-right": [
+   27454,
+   "In Her Own Right"
+  ],
+  "jrscott-princess-dehra": [
+   40034,
+   "The Princess Dehra"
+  ],
+  "jrscott-impostor": [
+   59975,
+   "The Impostor: A Tale of Old Annapolis"
+  ],
+  "jrscott-unforgiving-offender": [
+   62036,
+   "The Unforgiving Offender"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jrscott-cab-of-the-sleeping-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john reed scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrscott-beatrix-of-clare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john reed scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrscott-colonel-of-the-red-huzzars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john reed scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrscott-in-her-own-right": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john reed scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrscott-princess-dehra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john reed scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrscott-impostor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john reed scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrscott-unforgiving-offender": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john reed scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

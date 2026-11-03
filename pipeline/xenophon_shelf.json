@@ -1,0 +1,755 @@
+{
+ "_about": "Xenophon in English: H. G. Dakyns's complete translation (The Works of Xenophon, 1890-97), clean Gutenberg, one text per work. Edward Bysshe's Memorable Thoughts of Socrates (1712; Morley's 1888 edition), clean Gutenberg, added 2026-10-02. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): the translations are public domain; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution and share-alike), and each file's own licence statement and a rights block (license, attribution, source_url, share_alike, redistribute_whole false) are recorded per row in _perseus_checks and in the shelf's perseus report.",
+ "_name_words": [
+  "xenophon",
+  "dakyns"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "xenophon-anabasis": [
+   1170,
+   "Anabasis",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-hellenica": [
+   1174,
+   "Hellenica",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-cyropaedia": [
+   2085,
+   "Cyropaedia: The Education of Cyrus",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-memorabilia": [
+   1177,
+   "The Memorabilia",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-symposium": [
+   1181,
+   "The Symposium",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-apology": [
+   1171,
+   "The Apology",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-economist": [
+   1173,
+   "The Economist (Oeconomicus)",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-agesilaus": [
+   1169,
+   "Agesilaus",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-hiero": [
+   1175,
+   "Hiero",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-polity": [
+   1178,
+   "The Polity of the Athenians and the Lacedaemonians",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-revenues": [
+   1179,
+   "On Revenues",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-cavalry-general": [
+   1172,
+   "The Cavalry General",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-horsemanship": [
+   1176,
+   "On Horsemanship",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-sportsman": [
+   1180,
+   "The Sportsman (Cynegeticus)",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-bysshe-memorabilia": [
+   17490,
+   "The Memorable Thoughts of Socrates",
+   "tr. Edward Bysshe (1712)"
+  ]
+ },
+ "internet_archive": {
+  "xenophon-watson-anabasis-memorabilia": [
+   "anabasisorexped00xeno",
+   "The Anabasis, or Expedition of Cyrus, and the Memorabilia of Socrates, literally translated (Bohn, 1875 printing)",
+   "tr. J. S. Watson (geographical commentary by W. F. Ainsworth)"
+  ],
+  "xenophon-watson-dale-cyropaedia-hellenics": [
+   "cyropaediaorins00xeno",
+   "The Cyropaedia, or Institution of Cyrus, and the Hellenics, literally translated (Bohn, 1855)",
+   "tr. J. S. Watson and Henry Dale"
+  ],
+  "xenophon-watson-minor-works": [
+   "xenophonsminorwo00xeno",
+   "Xenophon's Minor Works, literally translated (Bohn; 1914 stereotype reprint)",
+   "tr. J. S. Watson"
+  ],
+  "xenophon-spelman-anabasis-1830": [
+   "anabasis00coopgoog",
+   "Xenophon, vol. I: The Anabasis (Valpy's Family Classical Library, 1830)",
+   "tr. Edward Spelman"
+  ],
+  "xenophon-ashley-cyropaedia-1803": [
+   "cyropaediaorinst00xeno",
+   "Cyropaedia, or the Institution of Cyrus (London: Vernor and Hood, 1803)",
+   "tr. Maurice Ashley"
+  ],
+  "xenophon-several-hands-minor-works-1813": [
+   "minorworksofxeno00xenouoft",
+   "The Minor Works of Xenophon: Memoirs of Socrates, The Banquet, Hiero, Economics, translated from the Greek by several hands (London: Walker and others, 1813)",
+   "tr. several hands: the Banquet by James Welwood, the Economics by R. Bradley; the Memoirs and Hiero unnamed in the volume"
+  ]
+ },
+ "_excluded": {
+  "pg29459": "an index page",
+  "pg22003": "Anabasis I-IV (Watson): partial; Watson's complete Anabasis is held (xenophon-watson-anabasis-memorabilia), so not wanted"
+ },
+ "_surname": [
+  "xenophon"
+ ],
+ "_translators": {
+  "xenophon-anabasis": "Henry Graham Dakyns",
+  "xenophon-hellenica": "Henry Graham Dakyns",
+  "xenophon-cyropaedia": "henry graham dakyns",
+  "xenophon-memorabilia": "Henry Graham Dakyns",
+  "xenophon-symposium": "Henry Graham Dakyns",
+  "xenophon-apology": "Henry Graham Dakyns",
+  "xenophon-economist": "Henry Graham Dakyns",
+  "xenophon-agesilaus": "Henry Graham Dakyns",
+  "xenophon-hiero": "Henry Graham Dakyns",
+  "xenophon-polity": "Henry Graham Dakyns",
+  "xenophon-revenues": "Henry Graham Dakyns",
+  "xenophon-cavalry-general": "Henry Graham Dakyns",
+  "xenophon-horsemanship": "Henry Graham Dakyns",
+  "xenophon-sportsman": "Henry Graham Dakyns",
+  "xenophon-bysshe-memorabilia": "Edward Bysshe",
+  "xenophon-watson-anabasis-memorabilia": "J. S. Watson",
+  "xenophon-watson-dale-cyropaedia-hellenics": "Henry Dale",
+  "xenophon-watson-minor-works": "J. S. Watson",
+  "xenophon-spelman-anabasis-1830": "Edward Spelman",
+  "xenophon-ashley-cyropaedia-1803": "Maurice Ashley",
+  "xenophon-perseus-marchant-memorabilia": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-economics": "Edgar Carew Marchant",
+  "xenophon-perseus-todd-banquet": "Otis Johnson Todd",
+  "xenophon-perseus-todd-apology": "Otis Johnson Todd",
+  "xenophon-perseus-marchant-hiero": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-agesilaus": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-constitution-of-the-lacedaemonians": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-ways-and-means": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-on-the-cavalry-commander": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-on-the-art-of-horsemanship": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-on-hunting": "Edgar Carew Marchant",
+  "xenophon-perseus-miller-cyropaedia": "Walter Miller"
+ },
+ "_checks": {
+  "xenophon-anabasis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-hellenica": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-cyropaedia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "henry graham dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-memorabilia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-symposium": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-apology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-economist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-agesilaus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-hiero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-polity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-revenues": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-cavalry-general": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-horsemanship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-sportsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Graham Dakyns",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Graham Dakyns",
+   "translator_match": true
+  },
+  "xenophon-bysshe-memorabilia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Edward Bysshe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1702-1712 Edward Bysshe",
+   "translator_match": true
+  },
+  "xenophon-watson-anabasis-memorabilia": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "J. S. Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "xenophon-watson-dale-cyropaedia-hellenics": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Henry Dale",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "xenophon-watson-minor-works": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "J. S. Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "xenophon-spelman-anabasis-1830": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Edward Spelman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "xenophon-ashley-cyropaedia-1803": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "translator_claimed": "Maurice Ashley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "xenophon-several-hands-minor-works-1813": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "perseus": {
+  "xenophon-perseus-marchant-memorabilia": [
+   "tlg0032.tlg002.perseus-eng2",
+   "Memorabilia",
+   "Edgar Carew Marchant",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-marchant-economics": [
+   "tlg0032.tlg003.perseus-eng2",
+   "Economics (Oeconomicus)",
+   "Edgar Carew Marchant",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-todd-banquet": [
+   "tlg0032.tlg004.perseus-eng2",
+   "Banquet (Symposium)",
+   "Otis Johnson Todd",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Otis Johnson Todd. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-todd-apology": [
+   "tlg0032.tlg005.perseus-eng2",
+   "Apology",
+   "Otis Johnson Todd",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Otis Johnson Todd. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-marchant-hiero": [
+   "tlg0032.tlg008.perseus-eng2",
+   "Hiero",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-agesilaus": [
+   "tlg0032.tlg009.perseus-eng2",
+   "Agesilaus",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-constitution-of-the-lacedaemonians": [
+   "tlg0032.tlg010.perseus-eng2",
+   "Constitution of the Lacedaemonians",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-ways-and-means": [
+   "tlg0032.tlg011.perseus-eng2",
+   "Ways and Means",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-on-the-cavalry-commander": [
+   "tlg0032.tlg012.perseus-eng2",
+   "On the Cavalry Commander",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-on-the-art-of-horsemanship": [
+   "tlg0032.tlg013.perseus-eng2",
+   "On the Art of Horsemanship",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-on-hunting": [
+   "tlg0032.tlg014.perseus-eng2",
+   "On Hunting",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-miller-cyropaedia": [
+   "tlg0032.tlg007.perseus-eng2",
+   "Cyropaedia",
+   "Walter Miller",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vols. 5-6, tr. Walter Miller. Cambridge, MA: Harvard University Press; London: William Heinemann, 1914 (Loeb Classical Library). (The census CSV's '1949' is Miller's death year, not a printing.)"
+  ]
+ },
+ "_perseus_checks": {
+  "xenophon-perseus-marchant-memorabilia": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg002/tlg0032.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-economics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg003/tlg0032.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-todd-banquet": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Otis Johnson Todd",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg004/tlg0032.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-todd-apology": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg005.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Otis Johnson Todd",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg005/tlg0032.tlg005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-hiero": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg008/tlg0032.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-agesilaus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg009/tlg0032.tlg009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-constitution-of-the-lacedaemonians": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg010/tlg0032.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-ways-and-means": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg011/tlg0032.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-on-the-cavalry-commander": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg012/tlg0032.tlg012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-on-the-art-of-horsemanship": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg013.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg013/tlg0032.tlg013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-marchant-on-hunting": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg014/tlg0032.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-miller-cyropaedia": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Walter Miller",
+   "author_seen": "xenophon",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg007/tlg0032.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_translator_unchecked": {
+  "xenophon-several-hands-minor-works-1813": "'by several hands': the volume names James Welwood (Banquet) and R. Bradley (Economics) on their section titles; the Memoirs of Socrates and Hiero carry no translator's name (the Memoirs is usually attributed to Sarah Fielding, not verified here), so no single claim is made"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ }
+}

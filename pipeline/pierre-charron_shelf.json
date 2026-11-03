@@ -1,0 +1,60 @@
+{
+ "_about": "Pierre Charron (1541-1603), Of Wisdom, three books, tr. George Stanhope, 2nd ed. (London: Bonwicke, Tonson and others, 1707), raw OCR in two volumes: vol. I (book I) from a Google scan, whose title page year the OCR reads as '*7°7', and vol. II (books II and III) from an eighteenth-century-collection scan with 1707 legible. The vol. II scan is long-s OCR at a clean ratio of 0.794. US public domain. No uids minted.",
+ "_author": "Pierre Charron",
+ "_name_words": [
+  "pierre",
+  "charron",
+  "sieur"
+ ],
+ "_surname": [
+  "charron"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "charron-stanhope-of-wisdom-1707-v1": [
+   "bub_gb_7EI0AAAAMAAJ",
+   "Of Wisdom, three books, 2nd ed., vol. I: book I (London, 1707)",
+   "tr. George Stanhope"
+  ],
+  "charron-stanhope-of-wisdom-1707-v2": [
+   "bim_eighteenth-century_of-wisdom-three-books-_charron-pierre_1707_2",
+   "Of Wisdom, three books, 2nd ed., vol. II: books II and III (London, 1707)",
+   "tr. George Stanhope"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "charron-stanhope-of-wisdom-1707-v1": "Stanhope",
+  "charron-stanhope-of-wisdom-1707-v2": "STANHOPE"
+ },
+ "_checks": {
+  "charron-stanhope-of-wisdom-1707-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charron",
+   "translator_claimed": "Stanhope",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1707",
+   "ia_date": "1707",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "charron-stanhope-of-wisdom-1707-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charron",
+   "translator_claimed": "STANHOPE",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1707",
+   "ia_date": "1707",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

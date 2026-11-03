@@ -1,0 +1,210 @@
+{
+ "_about": "Public-domain Stanley Leathes (1830-1900), Professor of Hebrew at King's College London, for the Word Hoard: his Boyle Lectures on the witness of the Old Testament, St Paul and St John to Christ, The Structure of the Old Testament, The Religion of the Christ, the Hulsean Lectures (The Gospel its own Witness), The Christian Creed, the Warburton Lectures on Old Testament prophecy, The Foundations of Morality, The Law in the Prophets and The Claims of the Old Testament. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 86 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "stanley leathes",
+  "s. leathes"
+ ],
+ "_surname": [
+  "stanley leathes",
+  "s. leathes",
+  "leathes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "leathes-witness-ot": [
+   "witnessoldtesta00leatgoog",
+   "The witness of the Old Testament to Christ : being the Boyle lectures for 1868 (London : Rivingtons, 1868)"
+  ],
+  "leathes-witness-paul": [
+   "witnessofstpault00leat",
+   "The witness of St. Paul to Christ : being the Boyle lectures for 1869 (London : Rivingtons, 1869)"
+  ],
+  "leathes-witness-john": [
+   "witnessofstjohnt00leat",
+   "The witness of St. John to Christ : being the Boyle lectures for 1870 : with an appendix on the authorship and integrity of St. John's gospel and the unity of the Johannine writings (London ; Oxford, [etc.] : Rivingtons, 1870)"
+  ],
+  "leathes-cities-paul": [
+   "citiesvisitedbys00leat",
+   "The cities visited by St. Paul (London : Society for promoting Christian knowledge, 1873)"
+  ],
+  "leathes-structure-ot": [
+   "structureofoldte00leat",
+   "The structure of the Old Testament : a series of popular essays (London : Hodder and Stoughton, 1873)"
+  ],
+  "leathes-religion-christ": [
+   "religionofchrist00leat",
+   "The religion of the Christ, its historic and literary development considered as evidence of its origin : the Bampton lectures for 1874 (New York : Pott, Young and Co., 1874)"
+  ],
+  "leathes-gospel-own-witness": [
+   "gospelitsownwit00leat",
+   "The gospel its own witness : the Hulsean lectures for 1873 (London : H. S. King, 1874)"
+  ],
+  "leathes-christian-creed": [
+   "christiancreedit00leat",
+   "The Christian creed : its theory and practice : with a preface on some present dangers of the English church (London : Hodder and Stoughton, 1877)"
+  ],
+  "leathes-ot-prophecy": [
+   "oldtestamentprop00leat",
+   "Old Testament prophecy : its witness as a record of divine foreknowledge : the Warburton lectures for 1876-1880 : with notes on the genuineness of the book of Daniel and the prophecy of the seventy weeks (London : Hodder and Stoughton, 1880)"
+  ],
+  "leathes-foundations-morality": [
+   "foundationsofmor00leat",
+   "The foundations of morality : being discourses on the Ten Commandments with special reference to their origin and authority (London : Hodder and Stoughton, 1882)"
+  ],
+  "leathes-law-in-prophets": [
+   "lawinprophets00leat",
+   "The law in the prophets (London : Eyre and Spottiswoode, 1891)"
+  ],
+  "leathes-claims-ot": [
+   "claimsofoldtesta00leat",
+   "The claims of the Old Testament; lectures delivered in connection with the sesquicentennial celebration of Princeton university (New York, Charles Scribner's sons, 1897)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "leathes-historian": "books by Sir Stanley Mordaunt Leathes (1861-1938), the historian, a different man: Cambridge Modern History, What is Education?, etc.",
+  "leathes-multi": "Future Probation (a many-author symposium)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "leathes-religion-christ": "title page: 'THE RELIGION OF THE CHRIST ITS HISTORIC AND LITERARY DEVELOPMENT CONSIDERED AS AN EVIDENCE OF ITS ORIGIN. The Bampton Lectures for 1874 BY THE Rev. STANLEY LEATHES, M.A. POTT, YOUNG, AND COMPANY ... MDCCCLXXIV' (OCR 'STANLEYXEATHES'); the half-title lists his Boyle Lectures 1868-70 'By the Same Author'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "leathes-witness-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-witness-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-witness-john": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-cities-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-structure-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-religion-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-gospel-own-witness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-christian-creed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leathes-ot-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-foundations-morality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-law-in-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leathes-claims-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley leathes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

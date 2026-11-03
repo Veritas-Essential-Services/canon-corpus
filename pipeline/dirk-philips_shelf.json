@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain Dirk Philips (Dietrich Philip, 1504-1568), Menno Simons's colleague and the Anabaptist movement's systematic theologian, for the Word Hoard: his Enchiridion, or Hand Book of the Christian Doctrine and Religion, translated from the German and compared with the Dutch by A. B. Kolb (Elkhart, Ind.: Mennonite Publishing Co., 1910), from an Internet Archive scan. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "philip"
+ ],
+ "_surname": [
+  "dietrich philip",
+  "dirk philips",
+  "dietrich philips"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dirk-enchiridion-kolb-1910": [
+   "enchiridionorhan00phil",
+   "Enchiridion, or, Hand book of the Christian doctrine and religion, by Dietrich Philip, translated from the German and compared with the Dutch by A. B. Kolb (Elkhart, Ind.: Mennonite Publishing Co., 1910)"
+  ]
+ },
+ "_alternates": {
+  "dirk-copies": "A second scan of the 1910 Enchiridion"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "dirk-enchiridion-kolb-1910": "Kolb"
+ },
+ "_checks": {
+  "dirk-enchiridion-kolb-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dietrich philip",
+   "translator_claimed": "Kolb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

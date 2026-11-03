@@ -1,0 +1,60 @@
+{
+ "_about": "Théodore Jouffroy (1796-1842), raw IA OCR (Google scans): Introduction to Ethics, including a critical survey of moral systems, translated by William H. Channing, Specimens of Foreign Standard Literature vols. V-VI (Boston: Hilliard, Gray, 1840, 2 vols.). US public domain. No uids minted.",
+ "_author": "Théodore Jouffroy",
+ "_name_words": [
+  "theodore",
+  "théodore",
+  "simon",
+  "jouffroy"
+ ],
+ "_surname": [
+  "jouffroy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jouffroy-channing-introduction-to-ethics-1840-v1": [
+   "introductiontoe01changoog",
+   "Introduction to Ethics, vol. I (Boston: Hilliard, Gray, 1840)",
+   "tr. William H. Channing"
+  ],
+  "jouffroy-channing-introduction-to-ethics-1840-v2": [
+   "introductiontoe04changoog",
+   "Introduction to Ethics, vol. II (Boston: Hilliard, Gray, 1840)",
+   "tr. William H. Channing"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "jouffroy-channing-introduction-to-ethics-1840-v1": "Channing",
+  "jouffroy-channing-introduction-to-ethics-1840-v2": "Channing"
+ },
+ "_checks": {
+  "jouffroy-channing-introduction-to-ethics-1840-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jouffroy",
+   "translator_claimed": "Channing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jouffroy-channing-introduction-to-ethics-1840-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jouffroy",
+   "translator_claimed": "Channing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

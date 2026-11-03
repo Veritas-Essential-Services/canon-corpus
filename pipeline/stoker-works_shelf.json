@@ -1,0 +1,153 @@
+{
+ "_about": "Bram Stoker: Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Bram Stoker",
+ "_name_words": [
+  "bram",
+  "stoker"
+ ],
+ "_surname": [
+  "bram stoker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bstoker-lair-of-the-white-worm": [
+   1188,
+   "The Lair of the White Worm"
+  ],
+  "bstoker-man": [
+   2520,
+   "The Man"
+  ],
+  "bstoker-lady-of-the-shroud": [
+   3095,
+   "The Lady of the Shroud"
+  ],
+  "bstoker-jewel-of-seven-stars": [
+   3781,
+   "The Jewel of Seven Stars"
+  ],
+  "bstoker-draculas-guest": [
+   10150,
+   "Dracula's Guest"
+  ],
+  "bstoker-mystery-of-the-sea": [
+   42455,
+   "The Mystery of the Sea"
+  ],
+  "bstoker-famous-impostors": [
+   51391,
+   "Famous Impostors"
+  ],
+  "bstoker-lady-athlyne": [
+   65799,
+   "Lady Athlyne"
+  ],
+  "bstoker-personal-reminiscences-of-henry-irving": [
+   68779,
+   "Personal reminiscences of Henry Irving"
+  ],
+  "bstoker-snakes-pass": [
+   68966,
+   "The Snake's Pass"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59671": "PG 59671: Gutenberg's index of the author's works, not a book.",
+  "same-title-elsewhere": "PG 45839 (stoker): another edition of a title already on the named shelf; not taken twice.",
+  "held-elsewhere": "PG 345: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "bstoker-lair-of-the-white-worm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-lady-of-the-shroud": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-jewel-of-seven-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-draculas-guest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-mystery-of-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-famous-impostors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-lady-athlyne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-personal-reminiscences-of-henry-irving": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstoker-snakes-pass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

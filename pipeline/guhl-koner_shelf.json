@@ -1,0 +1,33 @@
+{
+ "_about": "Ernst Guhl (1819-1862) and Wilhelm Koner (1817-1887): The Life of the Greeks and Romans Described from Antique Monuments, translated from the third German edition by F. Hueffer (London: Chapman and Hall, 1875), raw IA OCR. Francis Hueffer died 1889. The OCR renders his name 'HUEFFEK', so the translator is recorded in the row, not claimed for the machine check. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "guhl",
+  "koner"
+ ],
+ "_surname": [
+  "guhl",
+  "koner"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "guhl-koner-life-greeks-romans-1875": [
+   "lifeofgreeksroma00guhl",
+   "The Life of the Greeks and Romans Described from Antique Monuments (London: Chapman and Hall, 1875)",
+   "tr. F. Hueffer"
+  ]
+ },
+ "_checks": {
+  "guhl-koner-life-greeks-romans-1875": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "guhl",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

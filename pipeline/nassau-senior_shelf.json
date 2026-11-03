@@ -1,0 +1,45 @@
+{
+ "_about": "Nassau William Senior (1790-1864), Oxford's first Drummond professor of political economy: Four Introductory Lectures on Political Economy delivered before the University of Oxford (London, 1852) and Statement of the Provision for the Poor, and of the Condition of the Labouring Classes in a considerable portion of America and Europe (London: printed by William Clowes, 1835), clean Gutenberg texts. Wanted: An Outline of the Science of Political Economy (1836) in a pre-1931 printing (IA holds only 1938 and later). US public domain. No uids minted.",
+ "_author": "Nassau William Senior",
+ "_name_words": [
+  "nassau",
+  "william",
+  "senior"
+ ],
+ "_surname": [
+  "senior"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "senior-four-introductory-lectures-1852": [
+   47266,
+   "Four Introductory Lectures on Political Economy (London, 1852)"
+  ],
+  "senior-provision-for-the-poor-1835": [
+   53316,
+   "Statement of the Provision for the Poor (London, 1835)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "senior-four-introductory-lectures-1852": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "senior",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "senior-provision-for-the-poor-1835": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "senior",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

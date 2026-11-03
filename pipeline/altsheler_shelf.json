@@ -1,0 +1,554 @@
+{
+ "_about": "Joseph A. Altsheler's frontier and Civil War series for boys: every English text under his name at Gutenberg (catalogue: Altsheler 1862-1919). Many describe Native Americans in the terms of their time. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Joseph A. Altsheler",
+ "_name_words": [
+  "altsheler"
+ ],
+ "_surname": [
+  "joseph a. altsheler",
+  "joseph alexander altsheler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "altsheler-scouts-of-the-valley": [
+   1078,
+   "The Scouts of the Valley"
+  ],
+  "altsheler-guns-of-bull-run": [
+   3653,
+   "The Guns of Bull Run: A Story of the Civil War's Eve",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-star-of-gettysburg": [
+   3811,
+   "The Star of Gettysburg: A Story of Southern High Tide",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-guns-of-shiloh": [
+   5207,
+   "The Guns of Shiloh: A Story of the Great Western Campaign",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-scouts-of-stonewall": [
+   6094,
+   "The Scouts of Stonewall: The Story of the Great Valley Campaign",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-sword-of-antietam": [
+   7862,
+   "The Sword of Antietam: A Story of the Nation's Crisis",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-rock-of-chickamauga": [
+   9745,
+   "The Rock of Chickamauga: A Story of the Western Crisis",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-masters-of-the-peaks": [
+   11311,
+   "The Masters of the Peaks: A Story of the Great North Woods",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-shadow-of-the-north": [
+   11881,
+   "The Shadow of the North: A Story of Old New York and a Lost Campaign",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-lords-of-the-wild": [
+   11961,
+   "The Lords of the Wild: A Story of the Old New York Border",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-shades-of-the-wilderness": [
+   12532,
+   "The Shades of the Wilderness: A Story of Lee's Great Stand",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-forest-runners": [
+   14876,
+   "The Forest Runners: A Story of the Great War Trail in Early Kentucky",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-hunters-of-the-hills": [
+   14890,
+   "The Hunters of the Hills",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-rulers-of-the-lakes": [
+   14891,
+   "The Rulers of the Lakes: A Story of George and Champlain"
+  ],
+  "altsheler-free-rangers": [
+   15055,
+   "The Free Rangers: A Story of the Early Days Along the Mississippi",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-hosts-of-the-air": [
+   15285,
+   "The Hosts of the Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-forest-of-swords": [
+   15760,
+   "The Forest of Swords: A Story of Paris and the Marne",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-texan-scouts": [
+   15767,
+   "The Texan Scouts: A Story of the Alamo and Goliad",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-texan-star": [
+   15852,
+   "The Texan Star: The Story of a Great Fight for Liberty"
+  ],
+  "altsheler-tree-of-appomattox": [
+   17677,
+   "The Tree of Appomattox",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-sun-of-quebec": [
+   18774,
+   "The Sun of Quebec: A Story of a Great Crisis",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-young-trailers": [
+   19477,
+   "The Young Trailers: A Story of Early Kentucky",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-before-the-dawn": [
+   21321,
+   "Before the Dawn: A Story of the Fall of Richmond",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-last-of-the-chiefs": [
+   22464,
+   "The Last of the Chiefs: A Story of the Great Sioux War",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-eyes-of-the-woods": [
+   24758,
+   "The Eyes of the Woods: A Story of the Ancient Wilderness",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-candidate": [
+   25132,
+   "The Candidate: A Political Romance"
+  ],
+  "altsheler-border-watch": [
+   25186,
+   "The Border Watch: A Story of the Great Chief's Last Stand",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-keepers-of-the-trail": [
+   25596,
+   "The Keepers of the Trail: A Story of the Great Woods",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-riflemen-of-the-ohio": [
+   25998,
+   "The Riflemen of the Ohio: A Story of the Early Days along \"The Beautiful River\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-great-sioux-trail": [
+   28115,
+   "The Great Sioux Trail: A Story of Mountain and Plain",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-guns-of-europe": [
+   33481,
+   "The Guns of Europe"
+  ],
+  "altsheler-quest-of-the-four": [
+   40480,
+   "The Quest of the Four: A Story of the Comanches and Buena Vista",
+   {
+    "contents_only": true
+   }
+  ],
+  "altsheler-in-hostile-red": [
+   41050,
+   "In Hostile Red"
+  ],
+  "altsheler-last-rebel": [
+   58617,
+   "The Last Rebel"
+  ],
+  "altsheler-sun-of-saratoga": [
+   66327,
+   "The Sun of Saratoga: A Romance of Burgoyne's Surrender"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "altsheler-scouts-of-the-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-guns-of-bull-run": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-star-of-gettysburg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-guns-of-shiloh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-scouts-of-stonewall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-sword-of-antietam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-rock-of-chickamauga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-masters-of-the-peaks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-shadow-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-lords-of-the-wild": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-shades-of-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-forest-runners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-hunters-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-rulers-of-the-lakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-free-rangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-hosts-of-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-forest-of-swords": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-texan-scouts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-texan-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-tree-of-appomattox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-sun-of-quebec": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-young-trailers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-before-the-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-last-of-the-chiefs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-eyes-of-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-candidate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-border-watch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-keepers-of-the-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-riflemen-of-the-ohio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-great-sioux-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-guns-of-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-quest-of-the-four": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-in-hostile-red": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-last-rebel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "altsheler-sun-of-saratoga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph a. altsheler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

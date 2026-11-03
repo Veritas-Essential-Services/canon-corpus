@@ -1,0 +1,168 @@
+{
+ "_about": "TRANSLATOR SHELF: William N. Loew (1847-1922), of the New York bar, translator of Hungarian poetry: Gems from Petőfi (1881), Magyar Poetry (1899), Petőfi's The Apostle and Childe John (1912), and Madách's The Tragedy of Man (1908). His Mikszáth, Heathen Master Filcsik, is on singles-fiction-4 from Gutenberg. US public domain. Added 2026-10-17 by lane C (round 110); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william n. loew",
+  "william noah loew",
+  "wm. n. loew"
+ ],
+ "_surname": [
+  "william n. loew",
+  "william noah loew",
+  "wm. n. loew"
+ ],
+ "_surname_note": "Full name forms only; bare 'loew' is left to singles-fiction-4, which uses it for the Filcsik.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "loe-petofi-gems-from-petofi": [
+   "gemsfrompetofiot00petorich",
+   "Gems from Petőfi and Other Hungarian Poets, with a memoir of the former (1881)"
+  ],
+  "loe-magyar-poetry": [
+   "magyarpoetrysel00loewgoog",
+   "Magyar Poetry: Selections from Hungarian Poets (1899)"
+  ],
+  "loe-petofi-the-apostle-childe-john": [
+   "alexanderpetfiap00peto",
+   "Alexander Petőfi: The Apostle; Childe John; Simple Steve; Cypress Leaves from the Grave of Dear Ethelke (1912)"
+  ],
+  "loe-madach-tragedy-of-man": [
+   "tragedyofmandram00madrich",
+   "The Tragedy of Man: a Dramatic Poem (1908)"
+  ]
+ },
+ "titles": {
+  "loew-petofi-gems-from-petofi": {
+   "source": "loe-petofi-gems-from-petofi",
+   "of": "Sándor Petőfi and other Hungarian poets",
+   "work": "Gems from Petőfi and Other Hungarian Poets, with a memoir of the former",
+   "translated": 1881,
+   "translator": "William N. Loew",
+   "scan_edition": "Paul O. D'Esterhazy, New York 1881; archive.org scan",
+   "note": "Loew's first book of translations, as his later prefaces say."
+  },
+  "loew-magyar-poetry": {
+   "source": "loe-magyar-poetry",
+   "of": "Petőfi, Arany, Vörösmarty and other Hungarian poets",
+   "work": "Magyar Poetry: Selections from Hungarian Poets",
+   "translated": 1899,
+   "translator": "William N. Loew",
+   "scan_edition": "Author-translator's edition, New York 1899; Google scan",
+   "note": "The title page calls it an enlarged and revised edition of his earlier books, beginning with Gems from Petőfi (1881)."
+  },
+  "loew-petofi-the-apostle-childe-john": {
+   "source": "loe-petofi-the-apostle-childe-john",
+   "of": "Sándor Petőfi",
+   "work": "Alexander Petőfi: The Apostle; Childe John; Simple Steve; Cypress Leaves from the Grave of Dear Ethelke",
+   "translated": 1912,
+   "translator": "William N. Loew",
+   "scan_edition": "The Hungarian Literary Society, New York 1912; archive.org scan"
+  },
+  "loew-madach-tragedy-of-man": {
+   "source": "loe-madach-tragedy-of-man",
+   "of": "Imre Madách",
+   "work": "The Tragedy of Man: a Dramatic Poem",
+   "translated": 1908,
+   "translator": "William N. Loew",
+   "scan_edition": "The Arcadia Press, New York 1908; archive.org scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "mikszath-heathen-master-filcsik": "Already on singles-fiction-4 (Gutenberg 31676)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check.",
+ "_checks": {
+  "loe-petofi-gems-from-petofi": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wm. n. loew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "loe-magyar-poetry": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william n. loew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "loe-petofi-the-apostle-childe-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william n. loew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "loe-madach-tragedy-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william n. loew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1908?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "loe-petofi-gems-from-petofi": {
+   "ia": "gemsfrompetofiot00petorich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844,
+    1848,
+    1849,
+    1865,
+    1872,
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "loe-magyar-poetry": {
+   "ia": "magyarpoetrysel00loewgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1887,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "loe-petofi-the-apostle-childe-john": {
+   "ia": "alexanderpetfiap00peto",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1883,
+    1910,
+    1912
+   ],
+   "post_1930_years_in_front_15k": [
+    1953,
+    2001
+   ],
+   "post_1930_examined": "Examined in round 110: '8 JUL 1953' is a library accession stamp and 2001 is the start of a Library of Congress control number ('LC Control Number 2001 615563'), not imprints; the title page reads New York, The Hungarian Literary Society, 1912."
+  },
+  "loe-madach-tragedy-of-man": {
+   "ia": "tragedyofmandram00madrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

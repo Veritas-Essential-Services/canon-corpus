@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain John Mitchell Mason (1770-1829), Associate Reformed pastor in New York, founder of its seminary and president of Dickinson College, for the Word Hoard: the Oration on Alexander Hamilton (1804), A Plea for Sacramental Communion on Catholic Principles (1816) and The Complete Works of John M. Mason (4 vols, 1849), from Internet Archive scans. Added 2026-10-23 by lane A, round 56 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mason"
+ ],
+ "_surname": [
+  "john m. mason",
+  "john mitchell mason",
+  "j. m. mason"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jmmason-hamilton": [
+   "orationcommemora00maso",
+   "Oration, commemorative of the late Major-General Alexander Hamilton : pronounced before the New-York state society of the Cincinnati, on Tuesday, the (New-York, Printed by Hopkins and Seymour and sold by G.F. Hopkins, at Washington's head, no. 118, Pearl-street, 1804)"
+  ],
+  "jmmason-sacramental-communion": [
+   "pleaforsacrament00maso",
+   "A Plea for sacramental communion on catholick principles (New York : Whiting and Watson, 1816)"
+  ],
+  "jmmason-works-1": [
+   "completeworksofj01maso",
+   "The complete works of John M. Mason, D.D, vol. 1 (New York : Baker and Scribner, 1849)"
+  ],
+  "jmmason-works-2": [
+   "completeworksofj02maso",
+   "The complete works of John M. Mason, D.D, vol. 2 (New York : Baker and Scribner, 1849)"
+  ],
+  "jmmason-works-3": [
+   "completeworksofj03maso",
+   "The complete works of John M. Mason, D.D, vol. 3 (New York : Baker and Scribner, 1849)"
+  ],
+  "jmmason-works-4": [
+   "completeworksofj04maso",
+   "The complete works of John M. Mason, D.D, vol. 4 (New York : Baker and Scribner, 1849)"
+  ]
+ },
+ "_alternates": {
+  "jmmason-writings-1832": "The Writings of the late John M. Mason (1832, 4 vols): the earlier collection, superseded by the 1849 Complete Works",
+  "jmmason-sermons-1860": "Sermons, Lectures and Orations (1860), a selection from the same works"
+ },
+ "_excluded": {
+  "jmmason-other": "John Mason of Water-Stratford (1646-1694) and John Mason the Nonconformist (Self-Knowledge, 1745) are other men; Essays on the Church of God (1843) duplicates the Works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jmmason-works-2": "Title page OCR reads 'THE COMPLETE WORKS OF JOHN M.IIASON, D.D IN FOUR VOLUMES. EDITED BY HIS SON, EBENEZER MASON. VOL. II. NEW YORK: BAKER AND SCRIBNER ... 1849' (Mason garbled).",
+  "jmmason-works-3": "Title page OCR reads 'THE COMPLETE WORKS OF JOHN M. MASON, D.D. IN FOUR VOLUMES. EDITED BY HIS SON, EBENEZER MASON. VOL. III. NEW YORK: BAKER AND SCRIBNER ... 1849' (OCR 'JOHN 1/IASON')."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jmmason-hamilton": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jmmason-sacramental-communion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmmason-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmmason-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmmason-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmmason-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john m. mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

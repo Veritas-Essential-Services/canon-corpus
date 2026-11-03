@@ -1,0 +1,11 @@
+{
+ "supplied": [
+  {
+   "find": " [⟨•⟩]{.gap}redit,",
+   "replace": " [c]{.supplied}redit,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

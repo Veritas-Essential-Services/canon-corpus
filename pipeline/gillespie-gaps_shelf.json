@@ -1,0 +1,36 @@
+{
+ "_about": "George Gillespie (1613-1648) text missing from lane A's george-gillespie_shelf.json, kept as a separate shelf so lane A's file is never edited: his Notes of Debates and Proceedings of the Assembly of Divines at Westminster, February 1644 to January 1645, ed. David Meek (Edinburgh: Ogle, 1846), the companion volume to his Works and a first-hand record of the Assembly. The only scan is Google's, which asks non-commercial use of the file (noted, not ruled on). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "gillespie"
+ ],
+ "_surname": [
+  "gillespie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gillespie-notes-of-debates-1846": [
+   "notesdebatesand00divigoog",
+   "Notes of Debates and Proceedings of the Assembly of Divines at Westminster, 1644-1645, ed. David Meek (Edinburgh: Ogle, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "Works vol. 2 (1846); A Treatise of Miscellany Questions (1649)": "Still pending on lane A's shelf: no usable scan.",
+  "Patrick Gillespie, The Ark of the Covenant Opened (1677; arkofcope00gill)": "His brother's pactum salutis treatise. Not shelved 2026-10-03: the title page reads only 'Written by a Minister of the New-Testament' and the OCR never names him."
+ },
+ "_excluded": {},
+ "_checks": {
+  "gillespie-notes-of-debates-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gillespie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

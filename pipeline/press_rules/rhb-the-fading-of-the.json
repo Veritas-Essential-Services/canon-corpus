@@ -1,0 +1,74 @@
+{
+ "supplied": [
+  {
+   "find": " Lord[⟨•⟩]{.gap} ",
+   "replace": " Lord[s]{.supplied} ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " h[⟨•⟩]{.gap}bet ",
+   "replace": " h[a]{.supplied}bet ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " infin[⟨•⟩]{.gap}tely ",
+   "replace": " infin[i]{.supplied}tely ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " port[⟨•⟩]{.gap}on.",
+   "replace": " port[i]{.supplied}on.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " po[⟨•⟩]{.gap}tion.",
+   "replace": " po[r]{.supplied}tion.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " scal[⟨•⟩]{.gap}s ",
+   "replace": " scal[e]{.supplied}s ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " sutab[⟨•⟩]{.gap}e ",
+   "replace": " sutab[l]{.supplied}e ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " univ[⟨•⟩⟨•⟩]{.gap}sal ",
+   "replace": " univ[er]{.supplied}sal ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}olen[⟨•⟩⟨•⟩]{.gap}m ",
+   "replace": " [d]{.supplied}olen[te]{.supplied}m ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ufficient ",
+   "replace": " [s]{.supplied}ufficient ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

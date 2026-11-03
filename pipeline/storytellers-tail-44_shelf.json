@@ -1,0 +1,527 @@
+{
+ "_about": "Storytellers' tail, group 44: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): William Merriam Rouse, Richard Rowe, Kristína Royová, María Amparo Ruiz de Burton, Dora Russell, John Russell Russell, Owen Rutter, S. W., Anna T. Sadlier, S. B. C. Samuels, Arthur Benton Sanford, Margaret Elizabeth Munson Sangster, George E. Sargent, Jack Saul, Mary Langdon Bradbury Savage, Jessie Margaret Edmondston Saxby, Mary S. Saxe, Conrad H. Sayce, Julia Thompson von Stosch Schayer, A. J. L. Scott, Kingsbury Scott, J. Hamp SeCheverell, Susan Anne Livingston Ridley Sedgwick, Robert Sellar, Elizabeth Semple, B. G. Seton, Elizabeth Missing Sewell, Patrick Augustine Sheehan, Winthrop Dudley Sheldon, Stuart Pratt Sherman. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 44 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "wmrouse-shotgun-princess": [
+   "william merriam rouse",
+   "rouse"
+  ],
+  "rrowe-boy-in-the-bush": [
+   "richard rowe"
+  ],
+  "kroyova-three-comrades": [
+   "kristína royová",
+   "royová"
+  ],
+  "maruizdeburton-squatter-and-the-don-a-novel-descriptive-of-c": [
+   "maría amparo ruiz de burton"
+  ],
+  "drussell-country-sweetheart": [
+   "dora russell",
+   "russell"
+  ],
+  "jrrussell-adventures-in-the-moon-and-other-worlds": [
+   "john russell russell",
+   "russell"
+  ],
+  "orutter-song-of-tiadatha": [
+   "owen rutter",
+   "rutter"
+  ],
+  "sw-visit-to-a-farm-house": [
+   "s. w."
+  ],
+  "atsadlier-wayward-winifred": [
+   "anna t. sadlier",
+   "anna theresa sadlier",
+   "sadlier"
+  ],
+  "sbcsamuels-eric-or-under-the-sea": [
+   "s. b. c. samuels",
+   "susan blagge caldwell samuels",
+   "samuels"
+  ],
+  "absanford-easter-disciple": [
+   "arthur benton sanford",
+   "sanford"
+  ],
+  "memsangster-five-happy-weeks": [
+   "margaret elizabeth munson sangster",
+   "sangster"
+  ],
+  "gesargent-john-tincroft-bachelor-and-benedict": [
+   "george e. sargent",
+   "george eliel sargent",
+   "sargent"
+  ],
+  "jsaul-sins-of-the-cities-of-the-plain": [
+   "jack saul"
+  ],
+  "mlbsavage-adele-dubois": [
+   "mary langdon bradbury savage",
+   "savage"
+  ],
+  "jmesaxby-viking-boys": [
+   "jessie margaret edmondston saxby",
+   "saxby"
+  ],
+  "mssaxe-our-little-quebec-cousin": [
+   "mary s. saxe",
+   "mary sollace saxe"
+  ],
+  "chsayce-in-the-musgrave-ranges": [
+   "conrad h. sayce",
+   "conrad harvey sayce",
+   "sayce"
+  ],
+  "jtvsschayer-tiger-lily-and-other-stories": [
+   "julia thompson von stosch schayer",
+   "schayer"
+  ],
+  "ajlscott-sixty-squadron-r-a-f": [
+   "a. j. l. scott",
+   "alan john lance scott"
+  ],
+  "kscott-strange-waters": [
+   "kingsbury scott"
+  ],
+  "jhsecheverell-journal-history-of-the-twenty-ninth-ohio-veter": [
+   "j. hamp secheverell",
+   "john hamilton secheverell",
+   "secheverell"
+  ],
+  "salrsedgwick-young-emigrants": [
+   "susan anne livingston ridley sedgwick",
+   "sedgwick"
+  ],
+  "rsellar-gleaner-tales": [
+   "robert sellar",
+   "sellar"
+  ],
+  "esemple-cup-of-sweets-that-can-never-cloy": [
+   "elizabeth semple",
+   "semple"
+  ],
+  "bgseton-pipes-of-war-a-record-of-achievements-of-pipers-of-s": [
+   "b. g. seton",
+   "bruce gordon seton",
+   "seton"
+  ],
+  "emsewell-amy-herbert": [
+   "elizabeth missing sewell",
+   "sewell"
+  ],
+  "pasheehan-my-new-curate": [
+   "patrick augustine sheehan",
+   "sheehan"
+  ],
+  "wdsheldon-twenty-seventh": [
+   "winthrop dudley sheldon",
+   "sheldon"
+  ],
+  "spsherman-my-dear-cornelia": [
+   "stuart pratt sherman",
+   "sherman"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "wmrouse-shotgun-princess": [
+   71349,
+   "The shotgun princess"
+  ],
+  "rrowe-boy-in-the-bush": [
+   56693,
+   "The Boy in the Bush"
+  ],
+  "kroyova-three-comrades": [
+   12143,
+   "The Three Comrades"
+  ],
+  "maruizdeburton-squatter-and-the-don-a-novel-descriptive-of-c": [
+   35538,
+   "The Squatter and the Don A Novel Descriptive of Contemporary Occurrences in California"
+  ],
+  "drussell-country-sweetheart": [
+   47282,
+   "A Country Sweetheart"
+  ],
+  "jrrussell-adventures-in-the-moon-and-other-worlds": [
+   43543,
+   "Adventures in the Moon, and Other Worlds"
+  ],
+  "orutter-song-of-tiadatha": [
+   67937,
+   "The Song of Tiadatha"
+  ],
+  "sw-visit-to-a-farm-house": [
+   68171,
+   "A visit to a farm house; or, An introduction to various subjects connected with rural economy. Seventh edition, revised and corrected."
+  ],
+  "atsadlier-wayward-winifred": [
+   54729,
+   "Wayward Winifred"
+  ],
+  "sbcsamuels-eric-or-under-the-sea": [
+   26952,
+   "Eric or, Under the Sea"
+  ],
+  "absanford-easter-disciple": [
+   12671,
+   "An Easter Disciple: The Chronicle of Quintus, the Roman Knight"
+  ],
+  "memsangster-five-happy-weeks": [
+   17126,
+   "Five Happy Weeks"
+  ],
+  "gesargent-john-tincroft-bachelor-and-benedict": [
+   73193,
+   "John Tincroft, bachelor and benedict"
+  ],
+  "jsaul-sins-of-the-cities-of-the-plain": [
+   53964,
+   "The Sins of the Cities of the Plain; or, The Recollections of a Mary-Ann with Short Essays on Sodomy and Tribadism"
+  ],
+  "mlbsavage-adele-dubois": [
+   16207,
+   "Adèle Dubois"
+  ],
+  "jmesaxby-viking-boys": [
+   23725,
+   "Viking Boys"
+  ],
+  "mssaxe-our-little-quebec-cousin": [
+   46056,
+   "Our Little Quebec Cousin"
+  ],
+  "chsayce-in-the-musgrave-ranges": [
+   28931,
+   "In the Musgrave Ranges"
+  ],
+  "jtvsschayer-tiger-lily-and-other-stories": [
+   61068,
+   "Tiger Lily, and Other Stories"
+  ],
+  "ajlscott-sixty-squadron-r-a-f": [
+   47416,
+   "Sixty Squadron R.A.F.: A History of the Squadron from its Formation"
+  ],
+  "kscott-strange-waters": [
+   77346,
+   "Strange waters"
+  ],
+  "jhsecheverell-journal-history-of-the-twenty-ninth-ohio-veter": [
+   65589,
+   "Journal history of the Twenty-ninth Ohio Veteran Volunteers, 1861-1865"
+  ],
+  "salrsedgwick-young-emigrants": [
+   11585,
+   "The Young Emigrants; Madelaine Tube; the Boy and the Book; and Crystal Palace"
+  ],
+  "rsellar-gleaner-tales": [
+   66150,
+   "Gleaner Tales"
+  ],
+  "esemple-cup-of-sweets-that-can-never-cloy": [
+   42024,
+   "A cup of sweets, that can never cloy: or, delightful tales for good children"
+  ],
+  "bgseton-pipes-of-war-a-record-of-achievements-of-pipers-of-s": [
+   51016,
+   "The Pipes of War A Record of Achievements of Pipers of Scottish and Overseas Regiments during the War, 1914-18"
+  ],
+  "emsewell-amy-herbert": [
+   36156,
+   "Amy Herbert"
+  ],
+  "pasheehan-my-new-curate": [
+   20295,
+   "My New Curate"
+  ],
+  "wdsheldon-twenty-seventh": [
+   61312,
+   "The \"Twenty-Seventh\""
+  ],
+  "spsherman-my-dear-cornelia": [
+   71050,
+   "My dear Cornelia"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wmrouse-shotgun-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william merriam rouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rrowe-boy-in-the-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard rowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kroyova-three-comrades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kristína royová",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maruizdeburton-squatter-and-the-don-a-novel-descriptive-of-c": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maría amparo ruiz de burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "drussell-country-sweetheart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dora russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrrussell-adventures-in-the-moon-and-other-worlds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john russell russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orutter-song-of-tiadatha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "owen rutter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sw-visit-to-a-farm-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. w.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atsadlier-wayward-winifred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna t. sadlier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbcsamuels-eric-or-under-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. b. c. samuels",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "absanford-easter-disciple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur benton sanford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "memsangster-five-happy-weeks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret elizabeth munson sangster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gesargent-john-tincroft-bachelor-and-benedict": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george e. sargent",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsaul-sins-of-the-cities-of-the-plain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jack saul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlbsavage-adele-dubois": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary langdon bradbury savage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmesaxby-viking-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie margaret edmondston saxby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mssaxe-our-little-quebec-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary s. saxe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chsayce-in-the-musgrave-ranges": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "conrad h. sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtvsschayer-tiger-lily-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia thompson von stosch schayer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajlscott-sixty-squadron-r-a-f": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. j. l. scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kscott-strange-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kingsbury scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhsecheverell-journal-history-of-the-twenty-ninth-ohio-veter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. hamp secheverell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "salrsedgwick-young-emigrants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "susan anne livingston ridley sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsellar-gleaner-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert sellar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esemple-cup-of-sweets-that-can-never-cloy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth semple",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bgseton-pipes-of-war-a-record-of-achievements-of-pipers-of-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. g. seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emsewell-amy-herbert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth missing sewell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pasheehan-my-new-curate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "patrick augustine sheehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdsheldon-twenty-seventh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winthrop dudley sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spsherman-my-dear-cornelia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stuart pratt sherman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

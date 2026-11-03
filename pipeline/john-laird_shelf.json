@@ -1,0 +1,67 @@
+{
+ "_about": "John Laird (1887-1946), realist, at Belfast and then Aberdeen. Raw IA OCR: Problems of the Self, the Shaw Lectures (London: Macmillan, 1917), clean 0.94; A Study in Realism (Cambridge: University Press, 1920), clean 0.94; Knowledge, Belief and Opinion (New York and London: Century, copyright 1930), clean 0.91. Not taken: IA copies of A Study in Realism (1971) and Knowledge, Belief and Opinion (1972 Archon) that are later reprints. US public domain. No uids minted.",
+ "_author": "John Laird",
+ "_name_words": [
+  "john",
+  "laird"
+ ],
+ "_surname": [
+  "laird"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "laird-problems-of-the-self-1917": [
+   "problemsofselfes00lairuoft",
+   "Problems of the Self (Macmillan, 1917)"
+  ],
+  "laird-study-in-realism-1920": [
+   "cu31924029019664",
+   "A Study in Realism (Cambridge, 1920)"
+  ],
+  "laird-knowledge-belief-opinion-1930": [
+   "knowledgebeliefo0000lair_a9u2",
+   "Knowledge, Belief and Opinion (Century, 1930)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "laird-problems-of-the-self-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "laird-study-in-realism-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "laird-knowledge-belief-opinion-1930": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laird",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page: The Century Co., New York and London, copyright 1930; no later printing named. Works published in 1930 entered the US public domain on 1 January 2026."
+  }
+ },
+ "_rights_checked": {
+  "laird-knowledge-belief-opinion-1930": "title page: The Century Co., New York and London, copyright 1930; no later printing named. Works published in 1930 entered the US public domain on 1 January 2026."
+ }
+}

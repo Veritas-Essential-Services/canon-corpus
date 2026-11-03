@@ -1,0 +1,302 @@
+{
+ "_about": "William Black's (1841-1898) Scottish and Highland novels",
+ "_author": "William Black",
+ "_name_words": [
+  "black"
+ ],
+ "_surname": [
+  "william black"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wblack-macleod-of-dare": [
+   15587,
+   "Macleod of Dare"
+  ],
+  "wblack-prince-fortunatus": [
+   16217,
+   "Prince Fortunatus"
+  ],
+  "wblack-sunrise": [
+   17308,
+   "Sunrise",
+   {
+    "contents_only": true
+   }
+  ],
+  "wblack-goldsmith-english-men-of-letters-series": [
+   18917,
+   "Goldsmith English Men of Letters Series"
+  ],
+  "wblack-beautiful-wretch": [
+   24094,
+   "The Beautiful Wretch; The Pupil of Aurelius; and The Four Macnicols",
+   {
+    "contents_only": true
+   }
+  ],
+  "wblack-judith-shakespeare": [
+   37788,
+   "Judith Shakespeare: Her love affairs and other adventures"
+  ],
+  "wblack-in-silk-attire": [
+   40111,
+   "In Silk Attire: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "wblack-stand-fast-craig-royston-volume-i": [
+   42729,
+   "Stand Fast, Craig-Royston! (Volume I)"
+  ],
+  "wblack-stand-fast-craig-royston-volume-ii": [
+   42730,
+   "Stand Fast, Craig-Royston! (Volume II)"
+  ],
+  "wblack-stand-fast-craig-royston-volume-iii": [
+   42731,
+   "Stand Fast, Craig-Royston! (Volume III)"
+  ],
+  "wblack-donald-ross-of-heimra-volume-1-of-3": [
+   43052,
+   "Donald Ross of Heimra (Volume 1 of 3)"
+  ],
+  "wblack-donald-ross-of-heimra-volume-2-of-3": [
+   43053,
+   "Donald Ross of Heimra (Volume 2 of 3)"
+  ],
+  "wblack-donald-ross-of-heimra-volume-3-of-3": [
+   43054,
+   "Donald Ross of Heimra (Volume 3 of 3)"
+  ],
+  "wblack-white-heather": [
+   43444,
+   "White Heather: A Novel (Volume 1 of 3)"
+  ],
+  "wblack-white-heather-43445": [
+   43445,
+   "White Heather: A Novel (Volume 2 of 3)"
+  ],
+  "wblack-white-heather-43446": [
+   43446,
+   "White Heather: A Novel (Volume 3 of 3)"
+  ],
+  "wblack-white-wings": [
+   43828,
+   "White Wings: A Yachting Romance, Volume I"
+  ],
+  "wblack-white-wings-43829": [
+   43829,
+   "White Wings: A Yachting Romance, Volume II"
+  ],
+  "wblack-white-wings-43830": [
+   43830,
+   "White Wings: A Yachting Romance, Volume III"
+  ],
+  "wblack-a-princess-of-thule": [
+   49786,
+   "A Princess of Thule"
+  ],
+  "wblack-a-daughter-of-heth": [
+   77747,
+   "A daughter of Heth",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wblack-macleod-of-dare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-prince-fortunatus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-sunrise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-goldsmith-english-men-of-letters-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-beautiful-wretch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-judith-shakespeare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-in-silk-attire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-stand-fast-craig-royston-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-stand-fast-craig-royston-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-stand-fast-craig-royston-volume-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-donald-ross-of-heimra-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-donald-ross-of-heimra-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-donald-ross-of-heimra-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-white-heather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-white-heather-43445": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-white-heather-43446": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-white-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-white-wings-43829": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-white-wings-43830": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-a-princess-of-thule": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wblack-a-daughter-of-heth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

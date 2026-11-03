@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain Mechthild of Hackeborn (1241-1298, nun of Helfta) in English for the Word Hoard: Select Revelations of S. Mechtild from her Book of Spiritual Grace, translated from the Latin by a Secular Priest (London: Thomas Richardson, 1875), from an Internet Archive scan. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mechtild"
+ ],
+ "_surname": [
+  "mechtild",
+  "mechtilde",
+  "mechthild",
+  "mechtildis",
+  "s. mechtild"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mechtild-select-revelations": [
+   "selectrevelation00mech",
+   "Select Revelations of S. Mechtild, Virgin, translated from the Latin by a Secular Priest (London: Thomas Richardson and Sons, 1875)"
+  ]
+ },
+ "_alternates": {
+  "mechtild-copies": "Another copy of the 1875 Richardson printing (selectrevelatio00mechgoog)"
+ },
+ "_excluded": {
+  "mechtild-about": "The Life of St. Mechtildis (Rome, 1899) and The Love of the Sacred Heart illustrated by St. Mechtilde (1922): by other hands"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mechtild-select-revelations": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mechtild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "_about": "Algernon Sidney (1623-1683), raw IA OCR: Discourses on Government, published from an original manuscript of the author, with an account of his life, his trial and apology, and an index (New York: Richard Lee, 1805, 3 vols.). US public domain. No uids minted.",
+ "_author": "Algernon Sidney",
+ "_name_words": [
+  "algernon",
+  "sidney",
+  "sydney"
+ ],
+ "_surname": [
+  "algernon sidney"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sidney-discourses-1805-v1": [
+   "discoursesongove01sidn",
+   "Discourses on Government, vol. I, with the life, trial and apology (New York: Richard Lee, 1805)"
+  ],
+  "sidney-discourses-1805-v2": [
+   "discoursesongove02sidn",
+   "Discourses on Government, vol. II (New York: Richard Lee, 1805)"
+  ],
+  "sidney-discourses-1805-v3": [
+   "discoursesongove03sidn",
+   "Discourses on Government, vol. III (New York: Richard Lee, 1805)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sidney-discourses-1805-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "algernon sidney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "sidney-discourses-1805-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "algernon sidney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "sidney-discourses-1805-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "algernon sidney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,574 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Richard Francis Burton (1821-1890) as translator. The Book of the Thousand Nights and a Night (1885, 10 vols) and Supplemental Nights (1886-88, 6 vols) from the Distributed Proofreaders PG editions; Camoens' Lusiads (1880); the Lyricks (1884, 2 parts) from scans of the original printing (round 139). PD. Burton's annotations are famously explicit; they are part of the text as published. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst. Round 139 (2026-10-23) also added The Lands of Cazembe (1873) and Manuel de Moraes (1886, with Isabel Burton).",
+ "_name_words": [
+  "burton",
+  "f. burton",
+  "isabel burton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burton-nights-01": [
+   51252,
+   "The Book of the Thousand Nights and a Night, vol. 1 of 10"
+  ],
+  "burton-nights-02": [
+   51775,
+   "The Book of the Thousand Nights and a Night, vol. 2 of 10"
+  ],
+  "burton-nights-03": [
+   52564,
+   "The Book of the Thousand Nights and a Night, vol. 3 of 10"
+  ],
+  "burton-nights-04": [
+   53254,
+   "The Book of the Thousand Nights and a Night, vol. 4 of 10"
+  ],
+  "burton-nights-05": [
+   54257,
+   "The Book of the Thousand Nights and a Night, vol. 5 of 10"
+  ],
+  "burton-nights-06": [
+   54525,
+   "The Book of the Thousand Nights and a Night, vol. 6 of 10"
+  ],
+  "burton-nights-07": [
+   54778,
+   "The Book of the Thousand Nights and a Night, vol. 7 of 10"
+  ],
+  "burton-nights-08": [
+   55091,
+   "The Book of the Thousand Nights and a Night, vol. 8 of 10"
+  ],
+  "burton-nights-09": [
+   55587,
+   "The Book of the Thousand Nights and a Night, vol. 9 of 10"
+  ],
+  "burton-nights-10": [
+   58360,
+   "The Book of the Thousand Nights and a Night, vol. 10 of 10"
+  ],
+  "burton-supplemental-1": [
+   59156,
+   "Supplemental Nights, vol. 1"
+  ],
+  "burton-supplemental-2": [
+   59953,
+   "Supplemental Nights, vol. 2"
+  ],
+  "burton-supplemental-3a": [
+   60889,
+   "Supplemental Nights, vol. 3a"
+  ],
+  "burton-supplemental-3b": [
+   61974,
+   "Supplemental Nights, vol. 3b"
+  ],
+  "burton-supplemental-4": [
+   62140,
+   "Supplemental Nights, vol. 4"
+  ],
+  "burton-supplemental-5": [
+   63266,
+   "Supplemental Nights, vol. 5"
+  ],
+  "burton-supplemental-6": [
+   64384,
+   "Supplemental Nights, vol. 6"
+  ],
+  "burton-lusiads-1": [
+   77660,
+   "Camoens, Os Lusiadas, tr. Burton, vol. 1"
+  ],
+  "burton-lusiads-2": [
+   77661,
+   "Camoens, Os Lusiadas, tr. Burton, vol. 2"
+  ]
+ },
+ "internet_archive": {
+  "burton-lyricks-1": [
+   "lyrickssonnetsca01camuoft",
+   "The Lyricks of Camoens, Part I"
+  ],
+  "burton-lyricks-2": [
+   "india.history.resource.74606",
+   "The Lyricks of Camoens, Part II",
+   "74606_djvu.txt"
+  ],
+  "burton-cazembe": [
+   "landsofcazembela00roya",
+   "The Lands of Cazembe"
+  ],
+  "burton-manuel-de-moraes": [
+   "manueldemoraesch00pere",
+   "Manuel de Moraes"
+  ]
+ },
+ "titles": {
+  "burton-arabian-nights": {
+   "source": [
+    "burton-nights-01",
+    "burton-nights-02",
+    "burton-nights-03",
+    "burton-nights-04",
+    "burton-nights-05",
+    "burton-nights-06",
+    "burton-nights-07",
+    "burton-nights-08",
+    "burton-nights-09",
+    "burton-nights-10"
+   ],
+   "of": "The Thousand and One Nights (Arabic)",
+   "work": "The Book of the Thousand Nights and a Night, 10 vols",
+   "translated": 1885,
+   "translator": "Richard Francis Burton"
+  },
+  "burton-supplemental-nights": {
+   "source": [
+    "burton-supplemental-1",
+    "burton-supplemental-2",
+    "burton-supplemental-3a",
+    "burton-supplemental-3b",
+    "burton-supplemental-4",
+    "burton-supplemental-5",
+    "burton-supplemental-6"
+   ],
+   "of": "The Thousand and One Nights (Arabic)",
+   "work": "Supplemental Nights, 6 vols (vol. 3 in two PG parts)",
+   "translated": "1886-88",
+   "translator": "Richard Francis Burton"
+  },
+  "burton-lusiads": {
+   "source": [
+    "burton-lusiads-1",
+    "burton-lusiads-2"
+   ],
+   "of": "Camoens",
+   "work": "Os Lusiadas",
+   "translated": 1880,
+   "translator": "Richard Francis Burton"
+  },
+  "burton-camoens-the-lyricks-part-1": {
+   "source": "burton-lyricks-1",
+   "of": "Luís de Camões",
+   "work": "The Lyricks, Part I (Sonnets, Canzons, Odes and Sextines)",
+   "translated": 1884,
+   "translator": "Richard F. Burton",
+   "scan_edition": "Bernard Quaritch, London 1884; archive.org scan (University of Toronto copy)"
+  },
+  "burton-camoens-the-lyricks-part-2": {
+   "source": "burton-lyricks-2",
+   "of": "Luís de Camões",
+   "work": "The Lyricks, Part II (Sonnets, Canzons, Odes and Sextines)",
+   "translated": 1884,
+   "translator": "Richard F. Burton",
+   "scan_edition": "Bernard Quaritch, London 1884; archive.org scan (Asiatic Society of Mumbai copy)"
+  },
+  "burton-lacerda-the-lands-of-cazembe": {
+   "source": "burton-cazembe",
+   "of": "Francisco José de Lacerda e Almeida (with the Pombeiros and Monteiro journals)",
+   "work": "The Lands of Cazembe: Lacerda's Journey to Cazembe in 1798",
+   "translated": 1873,
+   "translator": "Richard F. Burton",
+   "scan_edition": "Royal Geographical Society, London 1873; archive.org scan (Brigham Young University copy)",
+   "note": "Burton translated and annotated Lacerda's journal. The volume also carries the Pombeiros' journey, translated by B. A. Beadle, and C. T. Beke's résumé of Monteiro and Gamitto's journey; neither is Burton's."
+  },
+  "burton-pereira-da-silva-manuel-de-moraes": {
+   "source": "burton-manuel-de-moraes",
+   "of": "J. M. Pereira da Silva",
+   "work": "Manuel de Moraes: a Chronicle of the Seventeenth Century",
+   "translated": 1886,
+   "translator": "Richard F. and Isabel Burton",
+   "scan_edition": "Bickers and Son, London 1886; archive.org scan"
+  }
+ },
+ "_pending": {
+  "burton-catullus": "The Carmina of Catullus (1894, with Leonard Smithers; PG 20732): PD; held back for Adam's call on content, not rights.",
+  "burton-kama-sutra": "Kama Sutra (1883, with Arbuthnot and Bhide; PG 27827): PD; Adam's call on content.",
+  "burton-pentamerone": "Basile, Il Pentamerone (1893): the IA copy found is a 1927 reprint (ilpentameroneort0000basi); PD as a pre-1931 printing - listed, not fetched, for the same content call.",
+  "burton-vikram": "Vikram and the Vampire (PG 2400/48511): Burton's free adaptation of the Baital Pachisi, not a translation; PG names no translator."
+ },
+ "_excluded": {
+  "pg-3435..3450": "Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used.",
+  "pg-6036": "The Kasidah: Burton's own poem presented as a translation (a literary mask).",
+  "travel-books": "Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them).",
+  "pg-27827": "The Kama Sutra (Burton and Bhide, 1883): left off by judgment, not rights, like the Pauls' sexology titles. Adam can ask for it.",
+  "burton-camoens-lyricks-cornell": "The Cornell replacement-volume photocopy of the Lyricks (cu31924102142985, 2005) is not used: round 139 found scans of the 1884 Quaritch printing (Toronto Part I, Asiatic Society of Mumbai Part II)."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "burton-nights-01": {
+   "pg": 51252,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-02": {
+   "pg": 51775,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-03": {
+   "pg": 52564,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-04": {
+   "pg": 53254,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-05": {
+   "pg": 54257,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-06": {
+   "pg": 54525,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-07": {
+   "pg": 54778,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-08": {
+   "pg": 55091,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-09": {
+   "pg": 55587,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-10": {
+   "pg": 58360,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-1": {
+   "pg": 59156,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-2": {
+   "pg": 59953,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-3a": {
+   "pg": 60889,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-3b": {
+   "pg": 61974,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-4": {
+   "pg": 62140,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-5": {
+   "pg": 63266,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-6": {
+   "pg": 64384,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lusiads-1": {
+   "pg": 77660,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lusiads-2": {
+   "pg": 77661,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lyricks-1": {
+   "ia": "lyrickssonnetsca01camuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "burton-lyricks-2": {
+   "ia": "india.history.resource.74606",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the digitising line (02 July 2018); the imprint is Quaritch 1884"
+  },
+  "burton-cazembe": {
+   "ia": "landsofcazembela00roya",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1780,
+    1781,
+    1784,
+    1786,
+    1788,
+    1790,
+    1798,
+    1799,
+    1806,
+    1831,
+    1841,
+    1858,
+    1873
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "burton-manuel-de-moraes": {
+   "ia": "manueldemoraesch00pere",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1532,
+    1642,
+    1643,
+    1647,
+    1649,
+    1854,
+    1884
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "the imprint year prints in the OCR as 1S86 (1886), Bickers and Son"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname": [
+  "richard burton",
+  "f. burton",
+  "francis burton",
+  "isabel burton"
+ ],
+ "_checks": {
+  "burton-nights-01": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-02": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-03": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-04": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-05": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-06": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-07": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-08": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-09": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-10": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-3a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-3b": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lusiads-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lusiads-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lyricks-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burton-lyricks-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burton-cazembe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burton-manuel-de-moraes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isabel burton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_surname_note": "Full-name phrases, not the bare surname: the bare word ('rose', 'sale', 'lane', 'guest' ...) matches ordinary English (second review round, 2026-10-03)."
+}

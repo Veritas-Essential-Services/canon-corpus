@@ -1,0 +1,420 @@
+{
+ "_about": "Thomas Nelson Page's Virginia stories and novels; many describe Black Southerners in the terms of their time: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Thomas Nelson Page",
+ "_name_words": [
+  "page"
+ ],
+ "_surname": [
+  "thomas nelson page"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tnpage-gordon-keith": [
+   14068,
+   "Gordon Keith",
+   {
+    "contents_only": true
+   }
+  ],
+  "tnpage-santa-clauss-partner": [
+   14624,
+   "Santa Claus's Partner"
+  ],
+  "tnpage-george-washingtons-last-duel-1891": [
+   23013,
+   "\"George Washington's\" Last Duel 1891",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
+  ],
+  "tnpage-a-soldier-of-the-empire": [
+   23014,
+   "\"A Soldier Of The Empire\""
+  ],
+  "tnpage-run-to-seed-1891": [
+   23015,
+   "\"Run To Seed\" 1891"
+  ],
+  "tnpage-plaskis-tunament-1891": [
+   23016,
+   "P'laski's Tunament 1891"
+  ],
+  "tnpage-elsket-1891": [
+   23017,
+   "Elsket 1891"
+  ],
+  "tnpage-sheriffs-bluff-1908": [
+   23510,
+   "The Sheriffs Bluff 1908",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "tnpage-christmas-peace-1908": [
+   23511,
+   "The Christmas Peace 1908"
+  ],
+  "tnpage-mam-lyddys-recognition-1908": [
+   23512,
+   "Mam' Lyddy's Recognition 1908",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "tnpage-old-jabes-marital-experiments-1908": [
+   23513,
+   "Old Jabe's Marital Experiments 1908"
+  ],
+  "tnpage-long-hillside-a-christmas-hare-hunt-in-old-virginia-1": [
+   23514,
+   "The Long Hillside A Christmas Hare-Hunt In Old Virginia 1908"
+  ],
+  "tnpage-spectre-in-the-cart-1908": [
+   23515,
+   "The Spectre In The Cart 1908"
+  ],
+  "tnpage-bred-in-the-bone-1908": [
+   23516,
+   "Bred in the bone 1908",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "tnpage-tommy-trots-visit-to-santa-claus": [
+   25896,
+   "Tommy Trot's Visit to Santa Claus"
+  ],
+  "tnpage-two-little-confederates": [
+   26725,
+   "Two Little Confederates"
+  ],
+  "tnpage-a-captured-santa-claus": [
+   33666,
+   "A Captured Santa Claus",
+   {
+    "contents_only": true
+   }
+  ],
+  "tnpage-two-prisoners": [
+   33667,
+   "Two Prisoners"
+  ],
+  "tnpage-coast-of-bohemia": [
+   34015,
+   "The Coast of Bohemia"
+  ],
+  "tnpage-unc-edinburg": [
+   34016,
+   "Unc' Edinburg: A Plantation Echo"
+  ],
+  "tnpage-john-marvel-assistant": [
+   41817,
+   "John Marvel, Assistant"
+  ],
+  "tnpage-polly": [
+   44547,
+   "Polly: A Christmas Recollection"
+  ],
+  "tnpage-elsket-and-other-stories": [
+   47524,
+   "Elsket and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "tnpage-red-rock": [
+   49648,
+   "Red Rock: A Chronicle of Reconstruction"
+  ],
+  "tnpage-social-life-in-old-virginia-before-the-war": [
+   55910,
+   "Social Life in Old Virginia Before the War"
+  ],
+  "tnpage-negro": [
+   70834,
+   "The negro: the southerner's problem"
+  ],
+  "tnpage-among-the-camps": [
+   75553,
+   "Among the camps",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tnpage-gordon-keith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-santa-clauss-partner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-george-washingtons-last-duel-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-a-soldier-of-the-empire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-run-to-seed-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-plaskis-tunament-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-elsket-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-sheriffs-bluff-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-christmas-peace-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-mam-lyddys-recognition-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-old-jabes-marital-experiments-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-long-hillside-a-christmas-hare-hunt-in-old-virginia-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-spectre-in-the-cart-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-bred-in-the-bone-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-tommy-trots-visit-to-santa-claus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-two-little-confederates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-a-captured-santa-claus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-two-prisoners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-coast-of-bohemia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-unc-edinburg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-john-marvel-assistant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-polly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-elsket-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-red-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-social-life-in-old-virginia-before-the-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-negro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tnpage-among-the-camps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas nelson page",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

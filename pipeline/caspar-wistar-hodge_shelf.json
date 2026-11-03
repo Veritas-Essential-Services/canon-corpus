@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain Caspar Wistar Hodge (1830-1891), Princeton Seminary New Testament professor and son of Charles Hodge, for the Word Hoard: the class syllabi of his lectures on the Gospel History (1879), Apostolic History and Literature (1878) and New Testament Criticism (1880), and two sermons (1880, 1881), from Internet Archive scans. The syllabi were printed for students from his lectures. Added 2026-10-23 by lane A, round 54 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hodge"
+ ],
+ "_surname": [
+  "c. w. hodge",
+  "caspar wistar hodge",
+  "caspar w. hodge",
+  "professor hodge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cwhodge-apostolic-history": [
+   "apostolichistory1878hodg",
+   "Apostolic history and literature : prepared by the senior class for the use of students in Princeton Theological Seminary (Princeton : Press Printing Establishment, 1878)"
+  ],
+  "cwhodge-gospel-history": [
+   "gospelhistorysyl00hodg",
+   "Gospel history : a syllabus ... ; printed - not published - exclusively for the use of students of the Middle class in Princeton seminary (Princeton : C.S. Robinson, Printer, 1879)"
+  ],
+  "cwhodge-nt-criticism": [
+   "newtestamentcrit00hodg",
+   "New Testament criticism : lectures by C. W. Hodge, before the junior class, Princeton Theological Seminary : collated from phonographic notes by W. J. Frazer, with syllabus prepared by Dr. Hodge (Princeton : Printed not published by Press Printing Establishment, 1880)"
+  ],
+  "cwhodge-work-of-missions": [
+   "workofmissionses00hodg",
+   "The work of missions essential to the life of the church : a sermon delivered in the seminary chapel, November 7th, 1880 (Princeton : Press Printing Establishment, 1880)"
+  ],
+  "cwhodge-newport-sermon": [
+   "sermonpreachedin00hodg",
+   "A sermon preached in the United States Congregational church, at Newport, R. I., Sunday, September 25, 1881 ([n.p., 1881)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cwhodge-junior": "Caspar Wistar Hodge Jr. (1870-1937), his son: The Kantian Epistemology and Theism (1894) and The Witness of the Holy Spirit to the Bible (1913)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "cwhodge-newport-sermon": "Title page reads 'A SERMON Preached in the United Congregational Church, AT NEWPORT, R. I., SUNDAY, SEPTEMBER 25, 1881, BY REV. C. WISTAR HODGE, D. D., Professor in the Theological Seminary, Princeton, N. J.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cwhodge-apostolic-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. w. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cwhodge-gospel-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. w. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cwhodge-nt-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. w. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cwhodge-work-of-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. w. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cwhodge-newport-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

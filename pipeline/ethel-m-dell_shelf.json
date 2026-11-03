@@ -1,0 +1,254 @@
+{
+ "_about": "Ethel M. Dell's romances, The Way of an Eagle and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ethel M. Dell",
+ "_name_words": [
+  "dell",
+  "ethel"
+ ],
+ "_surname": [
+  "ethel m. dell",
+  "ethel dell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "emdell-bars-of-iron": [
+   10509,
+   "The Bars of Iron"
+  ],
+  "emdell-obstacle-race": [
+   11520,
+   "The Obstacle Race"
+  ],
+  "emdell-top-of-the-world": [
+   12360,
+   "The Top of the World"
+  ],
+  "emdell-knave-of-diamonds": [
+   12484,
+   "The Knave of Diamonds"
+  ],
+  "emdell-way-of-an-eagle": [
+   12516,
+   "The Way of an Eagle"
+  ],
+  "emdell-greatheart": [
+   13497,
+   "Greatheart"
+  ],
+  "emdell-rocks-of-valpr": [
+   13547,
+   "The Rocks of Valpré"
+  ],
+  "emdell-tidal-wave-and-other-stories": [
+   13553,
+   "The Tidal Wave and Other Stories"
+  ],
+  "emdell-lamp-in-the-desert": [
+   13763,
+   "The Lamp in the Desert"
+  ],
+  "emdell-rosa-mundi-and-other-stories": [
+   13774,
+   "Rosa Mundi and Other Stories"
+  ],
+  "emdell-charles-rex": [
+   13960,
+   "Charles Rex"
+  ],
+  "emdell-keeper-of-the-door": [
+   15013,
+   "The Keeper of the Door"
+  ],
+  "emdell-odds-and-other-stories": [
+   16380,
+   "The Odds And Other Stories"
+  ],
+  "emdell-safety-curtain-and-other-stories": [
+   16651,
+   "The Safety Curtain, and Other Stories"
+  ],
+  "emdell-swindler-and-other-stories": [
+   18644,
+   "The Swindler and Other Stories"
+  ],
+  "emdell-hundredth-chance": [
+   43069,
+   "The Hundredth Chance"
+  ],
+  "emdell-tetherstones": [
+   59181,
+   "Tetherstones"
+  ],
+  "emdell-gate-marked-private": [
+   79556,
+   "The gate marked \"Private\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "emdell-bars-of-iron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-obstacle-race": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-top-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-knave-of-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-way-of-an-eagle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-greatheart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-rocks-of-valpr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-tidal-wave-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-lamp-in-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-rosa-mundi-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-charles-rex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-keeper-of-the-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-odds-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-safety-curtain-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-swindler-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-hundredth-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-tetherstones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emdell-gate-marked-private": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel m. dell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "_about": "The Poetic Edda in Henry Adams Bellows's translation (American-Scandinavian Foundation, 1923), as the relay asked: published 1923, US public domain since 2019. Clean Gutenberg text, translator in the title. Two more translations were added later: Thorpe and Blackwell's Eddas (PG 14726) and Magnússon and Morris's Volsunga Saga (PG 1152). Widened at the coordinator's standing relay (2026-10-02/03: Lane D chooses its own batches; Adam may veto).",
+ "_author": "Poetic Edda (Old Norse, anonymous)",
+ "_name_words": [
+  "edda"
+ ],
+ "_surname": [
+  "henry adams bellows",
+  "william morris",
+  "benjamin thorpe",
+  "eiríkr magnússon"
+ ],
+ "_translators": {
+  "edda-bellows": "Bellows",
+  "edda-thorpe-blackwell": "Blackwell",
+  "edda-volsunga-morris": "Magnússon"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "edda-bellows": [
+   73533,
+   "The Poetic Edda, tr. Henry Adams Bellows (1923)",
+   {
+    "levels": [
+     {
+      "re": "(?!INTRODUCTORY NOTE$|NOTES?$)[A-ZÀ-Þ][A-ZÀ-Þ’‘' ,.?!-]{3,}$",
+      "title_next": true
+     },
+     {
+      "re": "(?:INTRODUCTORY NOTE|NOTES?|1\\.\\s[^|]*\\|.*)$",
+      "label": {
+       "1\\.\\s": "TEXT"
+      },
+      "keep": true,
+      "max": 3000
+     }
+    ]
+   }
+  ],
+  "edda-thorpe-blackwell": [
+   14726,
+   "The Elder Eddas of Saemund Sigfusson, tr. Benjamin Thorpe, and the Younger Eddas of Snorre Sturleson, tr. I. A. Blackwell (Norrœna Society, 1906)",
+   {
+    "levels": [
+     {
+      "re": "THE (ELDER|YOUNGER) EDDAS? OF (SAEMUND|STURLESON).*$"
+     },
+     {
+      "re": "[A-Z][A-Z .,'-]{3,}[A-Z]\\.?$"
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "PREFACE\\.$",
+    "front": true
+   }
+  ],
+  "edda-volsunga-morris": [
+   1152,
+   "The Story of the Volsungs (Volsunga Saga), with Excerpts from the Poetic Edda, tr. Eiríkr Magnússon and William Morris"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "edda-retellings": "Faraday's The Edda (PG 13007-13008), Wilmot-Buxton (29551): studies and retellings; Guerber's Myths of the Norsemen (28497) is held on guerber_shelf.json",
+  "edda-prose": "Snorri's Prose (Younger) Edda is on the Sturluson shelf"
+ },
+ "_checks": {
+  "edda-bellows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry adams bellows",
+   "translator_claimed": "Bellows",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Adams Bellows",
+   "translator_match": true
+  },
+  "edda-thorpe-blackwell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin thorpe",
+   "translator_claimed": "Blackwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Andrew Blackwell; Benjamin Thorpe",
+   "translator_match": true
+  },
+  "edda-volsunga-morris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "translator_claimed": "Magnússon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris",
+   "translator_match": true
+  }
+ }
+}

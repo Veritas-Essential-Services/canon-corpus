@@ -1,0 +1,42 @@
+{
+ "_about": "Nicholas of Cusa (1401-1464): The Vision of God, tr. Emma Gurney Salter, introduction by Evelyn Underhill (London: J. M. Dent; New York: E. P. Dutton; first published 1928), raw IA OCR. US public domain (published 1928). No uids minted.",
+ "_author": "Nicholas of Cusa",
+ "_name_words": [
+  "nicholas",
+  "cusa",
+  "cusanus",
+  "cardinal"
+ ],
+ "_surname": [
+  "cusa",
+  "cusanus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cusa-salter-vision-of-god-1928": [
+   "visionofgod00nich",
+   "The Vision of God (London: J. M. Dent, 1928)",
+   "tr. Emma Gurney Salter"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "cusa-salter-vision-of-god-1928": "Salter"
+ },
+ "_checks": {
+  "cusa-salter-vision-of-god-1928": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cusa",
+   "translator_claimed": "Salter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

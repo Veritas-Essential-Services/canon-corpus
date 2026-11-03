@@ -1,0 +1,170 @@
+{
+ "_about": "Jacques Saurin (1677-1730), Huguenot preacher to the French church at The Hague: the standard English Sermons, eight volumes by three translators (Robert Robinson, vols. I-V; Henry Hunter, vol. VI; Joseph Sutcliffe, vols. VII-VIII), in the London printing of 1812-1813 by R. Edwards (Princeton copies). Vols. I and III-V are the fifth edition, vol. VI the fifth, vol. VII the second. Vol. II is the Schenectady reprint of the second London edition (1813), because Internet Archive returned HTTP 500 for the London copy's text. Volume numbers and translators read off each title page; vol. VIII's translator is not claimed (its title page is not in the OCR). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "saurin"
+ ],
+ "_surname": [
+  "saurin"
+ ],
+ "_translators": {
+  "saurin-sermons-1": "Robinson",
+  "saurin-sermons-2": "Robinson",
+  "saurin-sermons-3": "Robinson",
+  "saurin-sermons-4": "Robinson",
+  "saurin-sermons-5": "Robinson",
+  "saurin-sermons-6": "Hunter",
+  "saurin-sermons-7": "Sutcliffe"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "saurin-sermons-1": [
+   "sermonstranslatetof01saur",
+   "Sermons translated from the original French of the late Rev. James Saurin, tr. Robinson (London, 1812), vol. I"
+  ],
+  "saurin-sermons-2": [
+   "sermonstranslate02saur",
+   "Sermons translated from the original French of the late Rev. James Saurin, tr. Robinson (Schenectady, from the second London edition, 1813), vol. II"
+  ],
+  "saurin-sermons-3": [
+   "sermonstranslateof03saur",
+   "Sermons translated from the original French of the late Rev. James Saurin, tr. Robinson (London, 1812), vol. III"
+  ],
+  "saurin-sermons-4": [
+   "sermonstranslatetof04saur",
+   "Sermons translated from the original French of the late Rev. James Saurin, tr. Robinson (London, 1812), vol. IV"
+  ],
+  "saurin-sermons-5": [
+   "sermonstranslaterjs05saur",
+   "Sermons translated from the original French of the late Rev. James Saurin, tr. Robinson (London, 1812), vol. V"
+  ],
+  "saurin-sermons-6": [
+   "sermonstranslateofo06saur",
+   "Sermons translated from the original French of the late Rev. James Saurin, tr. Hunter (London, 1812), vol. VI"
+  ],
+  "saurin-sermons-7": [
+   "sermonstranslatepfl07saur",
+   "Sermons translated from the original French of the late Rev. James Saurin, tr. Sutcliffe (London, 1812), vol. VII"
+  ],
+  "saurin-sermons-8": [
+   "sermonstranslatesrsr08saur",
+   "Sermons translated from the original French of the late Rev. James Saurin (London, 1812-1813), vol. VIII, with the general index"
+  ]
+ },
+ "_alternates": {
+  "sermonstranslatefr02saur": "London 1812 copy of vol. II; IA returned HTTP 500 for its text on 2026-10-03. Swap it in for saurin-sermons-2 when it serves.",
+  "sermonstranslate01/03/04saur (1813), sermonstranslate06/07saur": "Princeton copies of the Schenectady reprint and duplicates.",
+  "sermonstranslaterjs01-07saur, sermonstranslateofrjs02saur, sermonstranslateof05saur, sermonstranslate08saur (1813)": "A complete NYPL set of 1813.",
+  "sermonstranslateof01/02saur, sermonstranslatest03saur, sermonstranslatelrj04saur, sermonstranslate05saur, sermonstranslateof06/07saur (1803)": "NYPL set of 1803 (earlier edition).",
+  "sermonsofrevjame01/02saur (1827), sermonsofrevjamesl01/02saur (1832), sermonsofrevjame01/02sauruoft (1843)": "The American two-volume edition (Burder's revision).",
+  "sermonstranslat*sutcgoog, sermonsrevjames*saurgoog": "Google copies."
+ },
+ "_pending": {
+  "Sermons sur divers textes de l'Ecriture Sainte (1708-1749, French)": "The French originals are on IA (Princeton/Ottawa, vols 1, 2, 5, 10 seen); a French shelf is its own decision."
+ },
+ "_excluded": {},
+ "_checks": {
+  "saurin-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "translator_claimed": "Robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saurin-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "translator_claimed": "Robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saurin-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "translator_claimed": "Robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saurin-sermons-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "translator_claimed": "Robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saurin-sermons-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "translator_claimed": "Robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saurin-sermons-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "translator_claimed": "Hunter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saurin-sermons-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "translator_claimed": "Sutcliffe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saurin-sermons-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "saurin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

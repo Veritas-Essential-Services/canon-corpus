@@ -1,0 +1,90 @@
+{
+ "_about": "Public-domain James Cuppaidge Cochran (1798-1880), Anglican rector of Lunenburg and canon of Halifax, Nova Scotia, for the Word Hoard: a pastoral letter to St John's, Lunenburg, a sermon on the death of Bishop John Inglis, a New Year's address at the Bishop's Chapel, Halifax, and his correspondence with the Bishop of Nova Scotia. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 110 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. c. cochran",
+  "james c. cochran",
+  "cochran"
+ ],
+ "_surname": [
+  "j. c. cochran",
+  "james c. cochran",
+  "james cuppaidge cochran",
+  "cochran"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jccochran-pastoral-letter": [
+   "cihm_89290",
+   "A pastoral letter to the parishioners of St. John's, Lunenburg ([Halifax, N.S.? : s.n.], 1850)"
+  ],
+  "jccochran-inglis": [
+   "cihm_63880",
+   "A sermon in reference to the death of the Right Rev. John Inglis, D. D., Lord Bishop of Nova Scotia : preached in St. John' s Church, Lunenburg, N.S., on Sunday the 17th November, 1850 ([Halifax, N.S.? : s.n.], 1850)"
+  ],
+  "jccochran-new-year-1861": [
+   "cihm_67272",
+   "A New Year's address to the congregation of the Bishop's Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1861)"
+  ],
+  "jccochran-correspondence": [
+   "cihm_23366",
+   "Correspondence between the Bishop of Nova Scotia and the Reverend Canon Cochran, M.A., touching the dismissal of the latter from the pastoral charge of Salem Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1866)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "jccochran-new-year-1867": "A New Year's address to the congregation of \"Trinity Church\", Halifax, N.S. (Halifax, N.S. : J. Bowes, 1867), IA cihm_64130: the address is unsigned in the scan; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "jccochran-pastoral-letter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cochran",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jccochran-inglis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james c. cochran",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jccochran-new-year-1861": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cochran",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jccochran-correspondence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. cochran",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

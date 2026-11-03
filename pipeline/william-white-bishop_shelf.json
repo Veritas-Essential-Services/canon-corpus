@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain William White (1748-1836), first Bishop of Pennsylvania and presiding bishop of the Episcopal Church, for the Word Hoard: Lectures on the Catechism (1813), Comparative Views of the Controversy between the Calvinists and the Arminians (1817, two volumes), Objections against a Personal Assurance of Pardon (1817), the Memoirs of the Protestant Episcopal Church (1820 and the enlarged 1836 edition) and the posthumous Commentaries suited to Occasions of Ordination (1848), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "white"
+ ],
+ "_surname": [
+  "william white",
+  "bishop white"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wwhite-catechism-1813": [
+   "lecturesoncatec00whitgoog",
+   "Lectures on the Catechism of the Protestant Episcopal Church : with supplementary lectures, one on the ministry, the other on the publick service : and dissertations on select subjects in the lectures (Philadelphia : Bradford and Inskeep, at the Office of the United States' Gazette, 1813)"
+  ],
+  "wwhite-comparative-views-1": [
+   "comparativeviews01whit",
+   "Comparative views of the controversy between Calvinists and the Arminians, vol. 1 (Philadelphia : M. Thomas from the Press of E. Bronson, 1817)"
+  ],
+  "wwhite-comparative-views-2": [
+   "comparativeviews02whit",
+   "Comparative views of the controversy between Calvinists and the Arminians, vol. 2 (Philadelphia : M. Thomas from the Press of E. Bronson, 1817)"
+  ],
+  "wwhite-objections-assurance-1817": [
+   "objectionsagains00whit",
+   "Objections against the position of a personal assurance of the pardon of sin by a direct communication of the Holy Spirit : with notes, occasioned by a pamphlet containing remarks on the essay, under the name of \"A reply\" (Philadelphia : Moses Thomas, 1817)"
+  ],
+  "wwhite-memoirs-1820": [
+   "memoirsofprotest01whit",
+   "Memoirs of the Protestant Episcopal church in the United States of America : containing, I. A narrative of the organization and of the early measures of the church: II. Additional statements and remarks: III. An appendix of original papers, vol. 1 (Philadelphia : S. Potter & Co., 1820)"
+  ],
+  "wwhite-memoirs-1836": [
+   "memoirsofprotest00whit",
+   "Memoirs of the Protestant Episcopal Church in the United States of America,from its organization up to the present day (New York : Swords, Stanford, and Co., 1836)"
+  ],
+  "wwhite-ordination-1848": [
+   "commentariessuit00whituoft",
+   "Commentaries suited to occasions of ordination (New York : Stanford and Swords, 1848)"
+  ]
+ },
+ "_alternates": {
+  "wwhite-copies": "Other scans of the Memoirs (1820, 1836, the 1880 De Costa edition) and of the Commentaries; Bishop White's Opinions (1846), a compilation from his works by another hand"
+ },
+ "_excluded": {
+  "wwhite-other": "Four Sermons on Christian Baptism (1791) and Christian Baptism (1808), by a different William White, a Baptist"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wwhite-objections-assurance-1817": "title page read (OCR): 'By Wm. White, D.D. Bishop of the Protestant Episcopal Church in the Commonwealth of Pennsylvania', Philadelphia: Moses Thomas, 1817"
+ },
+ "_pending": {
+  "wwhite-case-1782": "The Case of the Episcopal Churches in the United States Considered (1782), published anonymously; not found as a scan"
+ },
+ "_translators": {},
+ "_checks": {
+  "wwhite-catechism-1813": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william white",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wwhite-comparative-views-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william white",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wwhite-comparative-views-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william white",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wwhite-objections-assurance-1817": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wwhite-memoirs-1820": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william white",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wwhite-memoirs-1836": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william white",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wwhite-ordination-1848": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william white",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,1133 @@
+{
+ "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal Senancour's Obermann twice, and (round 101) Taine's On Intelligence (Haye). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted. Round 113 (2026-10-17, vetoable) added Ellis's Romance of the Rose (3 vols, 1900) and Gundry's Manon Lescaut (1886) (Perry's Princess of Cleves went to the ts-perry shelf). Round 114 (2026-10-17, vetoable) added Way's Fabliaux (1815, 3 vols).",
+ "_name_words": [
+  "a. e. waite",
+  "a. r. scoble",
+  "andrew r. scoble",
+  "anthony barnes",
+  "arthur edward waite",
+  "arthur w. gundry",
+  "bayle st. john",
+  "berners",
+  "boswell",
+  "edeveain",
+  "edward thornton fisher",
+  "f. s. ellis",
+  "forsyth edeveain",
+  "g. l. way",
+  "gundry",
+  "hazlitt",
+  "helen stott",
+  "j. anthony barnes",
+  "john bourchier",
+  "lord berners",
+  "robert bruce boswell",
+  "scoble",
+  "t . d . h a y e",
+  "t. d. haye",
+  "thornton fisher",
+  "william hazlitt",
+  "william mathews"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'waite' alone is left out as a surname shared with other people. Bare 'ellis' is left out (common surname, also claimed by singles-history-travel).",
+ "_surname": [
+  "a. e. waite",
+  "a. r. scoble",
+  "andrew r. scoble",
+  "anthony barnes",
+  "arthur edward waite",
+  "arthur w. gundry",
+  "bayle st. john",
+  "berners",
+  "boswell",
+  "edeveain",
+  "edward thornton fisher",
+  "f. s. ellis",
+  "forsyth edeveain",
+  "g. l. way",
+  "gundry",
+  "hazlitt",
+  "helen stott",
+  "j. anthony barnes",
+  "john bourchier",
+  "lord berners",
+  "robert bruce boswell",
+  "scoble",
+  "t . d . h a y e",
+  "t. d. haye",
+  "thornton fisher",
+  "william hazlitt",
+  "william mathews"
+ ],
+ "_surname_by_slug": {
+  "frc-racine-dramatic-works-vol-1": [
+   "boswell",
+   "robert bruce boswell"
+  ],
+  "frc-racine-dramatic-works-vol-2": [
+   "boswell",
+   "robert bruce boswell"
+  ],
+  "frc-froissart-berners-vol-1": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-2": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-3": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-4": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-5": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-6": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-commines-memoirs-vol-1": [
+   "scoble",
+   "andrew r. scoble",
+   "a. r. scoble"
+  ],
+  "frc-commines-memoirs-vol-2": [
+   "scoble",
+   "andrew r. scoble",
+   "a. r. scoble"
+  ],
+  "frc-thierry-norman-conquest-vol-1": [
+   "hazlitt",
+   "william hazlitt"
+  ],
+  "frc-thierry-norman-conquest-vol-2": [
+   "hazlitt",
+   "william hazlitt"
+  ],
+  "frc-saint-simon-memoirs": [
+   "bayle st. john"
+  ],
+  "frc-sainte-beuve-portraits-of-women": [
+   "helen stott"
+  ],
+  "frc-sainte-beuve-portraits-of-men": [
+   "edeveain",
+   "forsyth edeveain"
+  ],
+  "frc-sainte-beuve-monday-chats": [
+   "william mathews"
+  ],
+  "frc-maurice-de-guerin-journal": [
+   "thornton fisher",
+   "edward thornton fisher"
+  ],
+  "frc-senancour-obermann-waite": [
+   "a. e. waite",
+   "arthur edward waite"
+  ],
+  "frc-senancour-obermann-barnes-vol-1": [
+   "anthony barnes",
+   "j. anthony barnes"
+  ],
+  "frc-senancour-obermann-barnes-vol-2": [
+   "anthony barnes",
+   "j. anthony barnes"
+  ],
+  "frc-taine-on-intelligence": [
+   "t. d. haye",
+   "t . d . h a y e"
+  ],
+  "frc-romance-of-the-rose-vol-1": [
+   "f. s. ellis"
+  ],
+  "frc-romance-of-the-rose-vol-2": [
+   "f. s. ellis"
+  ],
+  "frc-romance-of-the-rose-vol-3": [
+   "f. s. ellis"
+  ],
+  "frc-prevost-manon-lescaut": [
+   "arthur w. gundry",
+   "gundry"
+  ],
+  "frc-way-fabliaux-vol-1": [
+   "g. l. way"
+  ],
+  "frc-way-fabliaux-vol-2": [
+   "g. l. way"
+  ],
+  "frc-way-fabliaux-vol-3": [
+   "g. l. way"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "frc-saint-simon-memoirs": [
+   3875,
+   "Memoirs of Louis XIV and His Court and of the Regency, complete"
+  ]
+ },
+ "internet_archive": {
+  "frc-racine-dramatic-works-vol-1": [
+   "dramaticworksmet01raciuoft",
+   "The Dramatic Works of Jean Racine, a metrical English version, vol. I (1890)"
+  ],
+  "frc-racine-dramatic-works-vol-2": [
+   "dramaticworksje02boswgoog",
+   "The Dramatic Works of Jean Racine, a metrical English version, vol. II (1897)"
+  ],
+  "frc-froissart-berners-vol-1": [
+   "cu31924088045772",
+   "The Chronicle of Froissart, translated out of French by Sir John Bourchier, Lord Berners, annis 1523-25, vol. I (Tudor Translations XXVII) (1523)"
+  ],
+  "frc-froissart-berners-vol-2": [
+   "chronicletransla02froiuoft",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. II (Tudor Translations XXVIII) (1523)"
+  ],
+  "frc-froissart-berners-vol-3": [
+   "chronicletransla03froiuoft",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. III (Tudor Translations XXIX) (1523)"
+  ],
+  "frc-froissart-berners-vol-4": [
+   "cu31924088045806",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. IV (Tudor Translations XXX) (1525)"
+  ],
+  "frc-froissart-berners-vol-5": [
+   "chronicleoffrois05froi",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. V (Tudor Translations XXXI) (1525)"
+  ],
+  "frc-froissart-berners-vol-6": [
+   "chronicleoffrois06froi",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. VI (Tudor Translations XXXII) (1525)"
+  ],
+  "frc-commines-memoirs-vol-1": [
+   "memoirsofphilipd01commiala",
+   "The Memoirs of Philip de Commines, Lord of Argenton, vol. I (1855)"
+  ],
+  "frc-commines-memoirs-vol-2": [
+   "memoirsofphilipd02commiala",
+   "The Memoirs of Philip de Commines, Lord of Argenton, vol. II, with the Scandalous Chronicle of Jean de Troyes (1856)"
+  ],
+  "frc-thierry-norman-conquest-vol-1": [
+   "historyofconques01thieuoft",
+   "History of the Conquest of England by the Normans, vol. I (from the seventh Paris edition) (1847)"
+  ],
+  "frc-thierry-norman-conquest-vol-2": [
+   "historyofconques02thieuoft",
+   "History of the Conquest of England by the Normans, vol. II (1847)"
+  ],
+  "frc-sainte-beuve-portraits-of-women": [
+   "portraitsofwomen00sainiala",
+   "Portraits of Women (1891)"
+  ],
+  "frc-sainte-beuve-portraits-of-men": [
+   "portraitsofmen00sainrich",
+   "Portraits of Men (1891)"
+  ],
+  "frc-sainte-beuve-monday-chats": [
+   "mondaychats00mathgoog",
+   "Monday-Chats, from the Causeries du Lundi (1877)"
+  ],
+  "frc-maurice-de-guerin-journal": [
+   "journalofmaurice00guuoft",
+   "The Journal of Maurice de Guérin, with an essay by Matthew Arnold (1867)"
+  ],
+  "frc-senancour-obermann-waite": [
+   "obermann00sena",
+   "Obermann (1903)"
+  ],
+  "frc-senancour-obermann-barnes-vol-1": [
+   "obermann01sena",
+   "Obermann, vol. I (1910)"
+  ],
+  "frc-senancour-obermann-barnes-vol-2": [
+   "obermann02sena",
+   "Obermann, vol. II (1910)"
+  ],
+  "frc-taine-on-intelligence": [
+   "onintelligence00tain",
+   "On Intelligence (1872)"
+  ],
+  "frc-romance-of-the-rose-vol-1": [
+   "in.ernet.dli.2015.500380",
+   "The Romance of the Rose, Englished by F. S. Ellis, vol. I (1900)",
+   "2015.500380.The-Romance_djvu.txt"
+  ],
+  "frc-romance-of-the-rose-vol-2": [
+   "TheRomanceOfTheRose",
+   "The Romance of the Rose, Englished by F. S. Ellis, vol. II (1900)",
+   "The_Romance_of_the_Rose_djvu.txt"
+  ],
+  "frc-romance-of-the-rose-vol-3": [
+   "TheRomanceOfTheRoseEllis3",
+   "The Romance of the Rose, Englished by F. S. Ellis, vol. III (1900)",
+   "The_Romance_of_the_Rose_Ellis_3_djvu.txt"
+  ],
+  "frc-prevost-manon-lescaut": [
+   "dli.ministry.23365",
+   "The Story of Manon Lescaut and of the Chevalier des Grieux (1886)",
+   "E07636_The_Story_of_Manon_Lescaut_djvu.txt"
+  ],
+  "frc-way-fabliaux-vol-1": [
+   "fabliauxortales01legriala",
+   "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. I (1815)"
+  ],
+  "frc-way-fabliaux-vol-2": [
+   "fabliauxortales02legriala",
+   "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. II (1815)"
+  ],
+  "frc-way-fabliaux-vol-3": [
+   "fabliauxortales03legriala",
+   "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. III (1815)"
+  ]
+ },
+ "titles": {
+  "french-classics-racine-dramatic-works-vol-1": {
+   "source": "frc-racine-dramatic-works-vol-1",
+   "of": "Jean Racine",
+   "work": "The Dramatic Works of Jean Racine, a metrical English version, vol. I",
+   "translated": 1890,
+   "translator": "Robert Bruce Boswell",
+   "scan_edition": "George Bell and Sons (Bohn's Standard Library), London 1890; University of Toronto scan"
+  },
+  "french-classics-racine-dramatic-works-vol-2": {
+   "source": "frc-racine-dramatic-works-vol-2",
+   "of": "Jean Racine",
+   "work": "The Dramatic Works of Jean Racine, a metrical English version, vol. II",
+   "translated": 1897,
+   "translator": "Robert Bruce Boswell",
+   "scan_edition": "George Bell and Sons, London 1897; Google scan",
+   "note": "Bajazet, Mithridates, Iphigenia, Phaedra, Esther, Athaliah."
+  },
+  "french-classics-froissart-berners-vol-1": {
+   "source": "frc-froissart-berners-vol-1",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, translated out of French by Sir John Bourchier, Lord Berners, annis 1523-25, vol. I (Tudor Translations XXVII)",
+   "translated": 1523,
+   "translator": "John Bourchier, Lord Berners; introduction by W. P. Ker",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1901; Cornell University Library scan"
+  },
+  "french-classics-froissart-berners-vol-2": {
+   "source": "frc-froissart-berners-vol-2",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. II (Tudor Translations XXVIII)",
+   "translated": 1523,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1901; University of Toronto scan"
+  },
+  "french-classics-froissart-berners-vol-3": {
+   "source": "frc-froissart-berners-vol-3",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. III (Tudor Translations XXIX)",
+   "translated": 1523,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1901; University of Toronto scan"
+  },
+  "french-classics-froissart-berners-vol-4": {
+   "source": "frc-froissart-berners-vol-4",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. IV (Tudor Translations XXX)",
+   "translated": 1525,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1902; Cornell University Library scan"
+  },
+  "french-classics-froissart-berners-vol-5": {
+   "source": "frc-froissart-berners-vol-5",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. V (Tudor Translations XXXI)",
+   "translated": 1525,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1902; archive.org scan"
+  },
+  "french-classics-froissart-berners-vol-6": {
+   "source": "frc-froissart-berners-vol-6",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. VI (Tudor Translations XXXII)",
+   "translated": 1525,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1903; archive.org scan"
+  },
+  "french-classics-commines-memoirs-vol-1": {
+   "source": "frc-commines-memoirs-vol-1",
+   "of": "Philippe de Commines",
+   "work": "The Memoirs of Philip de Commines, Lord of Argenton, vol. I",
+   "translated": 1855,
+   "translator": "Andrew R. Scoble",
+   "scan_edition": "H. G. Bohn (Bohn's Standard Library), London 1855; archive.org scan"
+  },
+  "french-classics-commines-memoirs-vol-2": {
+   "source": "frc-commines-memoirs-vol-2",
+   "of": "Philippe de Commines",
+   "work": "The Memoirs of Philip de Commines, Lord of Argenton, vol. II, with the Scandalous Chronicle of Jean de Troyes",
+   "translated": "1855-56",
+   "translator": "Andrew R. Scoble",
+   "scan_edition": "H. G. Bohn (Bohn's Standard Library), London; archive.org scan"
+  },
+  "french-classics-thierry-norman-conquest-vol-1": {
+   "source": "frc-thierry-norman-conquest-vol-1",
+   "of": "Augustin Thierry",
+   "work": "History of the Conquest of England by the Normans, vol. I (from the seventh Paris edition)",
+   "translated": 1847,
+   "translator": "William Hazlitt",
+   "scan_edition": "David Bogue (European Library), London 1847; University of Toronto scan"
+  },
+  "french-classics-thierry-norman-conquest-vol-2": {
+   "source": "frc-thierry-norman-conquest-vol-2",
+   "of": "Augustin Thierry",
+   "work": "History of the Conquest of England by the Normans, vol. II",
+   "translated": 1847,
+   "translator": "William Hazlitt",
+   "scan_edition": "David Bogue (European Library), London 1847; University of Toronto scan"
+  },
+  "french-classics-saint-simon-memoirs": {
+   "source": "frc-saint-simon-memoirs",
+   "of": "Louis de Rouvroy, duc de Saint-Simon",
+   "work": "Memoirs of Louis XIV and His Court and of the Regency (complete, abridged edition)",
+   "translated": "1857",
+   "translator": "Bayle St. John",
+   "scan_edition": "Project Gutenberg 3875 (clean text)",
+   "note": "The Gutenberg edition's introduction names Bayle St. John's translation as the one presented. It is an abridgement of the Memoirs, not the whole."
+  },
+  "french-classics-sainte-beuve-portraits-of-women": {
+   "source": "frc-sainte-beuve-portraits-of-women",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of Women",
+   "translated": "1891",
+   "translator": "Helen Stott",
+   "scan_edition": "A. C. McClurg & Co., Chicago, 1891; archive.org scan"
+  },
+  "french-classics-sainte-beuve-portraits-of-men": {
+   "source": "frc-sainte-beuve-portraits-of-men",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of Men",
+   "translated": "1891",
+   "translator": "Forsyth Edeveain",
+   "scan_edition": "David Stott, London, 1891; archive.org scan"
+  },
+  "french-classics-sainte-beuve-monday-chats": {
+   "source": "frc-sainte-beuve-monday-chats",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Monday-Chats, from the Causeries du Lundi",
+   "translated": "1877",
+   "translator": "William Mathews",
+   "scan_edition": "S. C. Griggs and Company, Chicago, 1877; Google scan"
+  },
+  "french-classics-maurice-de-guerin-journal": {
+   "source": "frc-maurice-de-guerin-journal",
+   "of": "Maurice de Guérin",
+   "work": "The Journal of Maurice de Guérin, with an essay by Matthew Arnold",
+   "translated": "1867",
+   "translator": "Edward Thornton Fisher",
+   "scan_edition": "Leypoldt & Holt, New York, 1867; University of Toronto scan"
+  },
+  "french-classics-senancour-obermann-waite": {
+   "source": "frc-senancour-obermann-waite",
+   "of": "Étienne Pivert de Senancour",
+   "work": "Obermann",
+   "translated": "1903",
+   "translator": "Arthur Edward Waite",
+   "scan_edition": "Philip Wellby, London, 1903; archive.org scan"
+  },
+  "french-classics-senancour-obermann-barnes-vol-1": {
+   "source": "frc-senancour-obermann-barnes-vol-1",
+   "of": "Étienne Pivert de Senancour",
+   "work": "Obermann, vol. I",
+   "translated": "by 1910 (catalogue date)",
+   "translator": "J. Anthony Barnes",
+   "scan_edition": "Walter Scott Publishing Co., London and Felling-on-Tyne, and New York (undated on the title page; 1910 per the catalogue record); archive.org scan"
+  },
+  "french-classics-senancour-obermann-barnes-vol-2": {
+   "source": "frc-senancour-obermann-barnes-vol-2",
+   "of": "Étienne Pivert de Senancour",
+   "work": "Obermann, vol. II",
+   "translated": "by 1910 (catalogue date)",
+   "translator": "J. Anthony Barnes",
+   "scan_edition": "Walter Scott Publishing Co., London and Felling-on-Tyne, and New York (undated on the title page; 1910 per the catalogue record); archive.org scan"
+  },
+  "french-classics-taine-on-intelligence": {
+   "source": "frc-taine-on-intelligence",
+   "of": "Hippolyte Taine",
+   "work": "On Intelligence, revised with additions by the author",
+   "translated": "1872",
+   "translator": "T. D. Haye",
+   "scan_edition": "Holt & Williams, New York, 1872; archive.org scan"
+  },
+  "french-classics-romance-of-the-rose-vol-1": {
+   "source": "frc-romance-of-the-rose-vol-1",
+   "of": "Guillaume de Lorris and Jean de Meun",
+   "work": "The Romance of the Rose, Englished by F. S. Ellis, vol. I",
+   "translated": 1900,
+   "translator": "F. S. Ellis",
+   "scan_edition": "J. M. Dent, Temple Classics, London; no year on the title page, Ellis's prologue dated Torquay, June 26, 1900, printed by Ballantyne, Hanson & Co.; Digital Library of India scan"
+  },
+  "french-classics-romance-of-the-rose-vol-2": {
+   "source": "frc-romance-of-the-rose-vol-2",
+   "of": "Guillaume de Lorris and Jean de Meun",
+   "work": "The Romance of the Rose, Englished by F. S. Ellis, vol. II",
+   "translated": 1900,
+   "translator": "F. S. Ellis",
+   "scan_edition": "J. M. Dent, Temple Classics, London MDCCCC; archive.org scan"
+  },
+  "french-classics-romance-of-the-rose-vol-3": {
+   "source": "frc-romance-of-the-rose-vol-3",
+   "of": "Guillaume de Lorris and Jean de Meun",
+   "work": "The Romance of the Rose, Englished by F. S. Ellis, vol. III",
+   "translated": 1900,
+   "translator": "F. S. Ellis",
+   "scan_edition": "J. M. Dent, Temple Classics, London; catalogued 1900, imprint not legible in the OCR; Harvard College Library copy, Google scan via archive.org"
+  },
+  "french-classics-prevost-manon-lescaut": {
+   "source": "frc-prevost-manon-lescaut",
+   "of": "Antoine François Prévost",
+   "work": "The Story of Manon Lescaut and of the Chevalier des Grieux",
+   "translated": 1886,
+   "translator": "Arthur W. Gundry",
+   "scan_edition": "Morrill, Higgins & Co., Chicago 1892 (copyright 1886 by Frederick T. Jones); Digital Library of India scan"
+  },
+  "french-classics-way-fabliaux-vol-1": {
+   "source": "frc-way-fabliaux-vol-1",
+   "of": "Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux)",
+   "work": "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. I",
+   "translated": 1815,
+   "translator": "Gregory Lewis Way (notes by George Ellis)",
+   "scan_edition": "J. Rodwell, London 1815 (new edition; first 1796-1800); archive.org scan",
+   "note": "Way's verse renderings of Legrand d'Aussy's prose abridgments of the Old French fabliaux and lais, including Marie de France."
+  },
+  "french-classics-way-fabliaux-vol-2": {
+   "source": "frc-way-fabliaux-vol-2",
+   "of": "Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux)",
+   "work": "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. II",
+   "translated": 1815,
+   "translator": "Gregory Lewis Way (notes by George Ellis)",
+   "scan_edition": "J. Rodwell, London 1815 (new edition; first 1796-1800); archive.org scan",
+   "note": "Way's verse renderings of Legrand d'Aussy's prose abridgments of the Old French fabliaux and lais, including Marie de France."
+  },
+  "french-classics-way-fabliaux-vol-3": {
+   "source": "frc-way-fabliaux-vol-3",
+   "of": "Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux)",
+   "work": "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. III",
+   "translated": 1815,
+   "translator": "Gregory Lewis Way (notes by George Ellis)",
+   "scan_edition": "J. Rodwell, London 1815 (new edition; first 1796-1800); archive.org scan",
+   "note": "Way's verse renderings of Legrand d'Aussy's prose abridgments of the Old French fabliaux and lais, including Marie de France."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "froissart-johnes": "Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here.",
+  "boys-froissart": "Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations.",
+  "thierry-merovingian-1841": "Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer.",
+  "sainte-beuve-select-essays-butler": "A. J. Butler's Select Essays of Sainte-Beuve (Edward Arnold; selectessaysofsa00sainuoft): the scan's title page carries no date and the catalogue record none either, so the printing cannot be shown to precede 1931.",
+  "romance-of-the-rose-vol-3-photocopy": "TheRomanceOfTheRoseVol.3 is a 1996 preservation photocopy (its text cites ANSI/NISO Z39.48-1992); the Harvard copy is used instead."
+ },
+ "_checks": {
+  "frc-saint-simon-memoirs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayle st. john",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frc-racine-dramatic-works-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1890-1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-racine-dramatic-works-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-03",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-03",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-commines-memoirs-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scoble",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1855-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-commines-memoirs-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scoble",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1855-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-thierry-norman-conquest-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hazlitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-thierry-norman-conquest-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hazlitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-sainte-beuve-portraits-of-women": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "helen stott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-sainte-beuve-portraits-of-men": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edeveain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-sainte-beuve-monday-chats": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william mathews",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-maurice-de-guerin-journal": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thornton fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-senancour-obermann-waite": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. waite",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-senancour-obermann-barnes-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-senancour-obermann-barnes-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-taine-on-intelligence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t . d . h a y e",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-romance-of-the-rose-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. s. ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-romance-of-the-rose-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. s. ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-romance-of-the-rose-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. s. ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-prevost-manon-lescaut": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-way-fabliaux-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. l. way",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-way-fabliaux-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. l. way",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-way-fabliaux-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. l. way",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "frc-saint-simon-memoirs": {
+   "pg": 3875,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "frc-racine-dramatic-works-vol-1": {
+   "ia": "dramaticworksmet01raciuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1660,
+    1661,
+    1663,
+    1664,
+    1665,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-racine-dramatic-works-vol-2": {
+   "ia": "dramaticworksje02boswgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1672,
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-1": {
+   "ia": "cu31924088045772",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1513,
+    1518,
+    1523,
+    1891,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-2": {
+   "ia": "chronicletransla02froiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-3": {
+   "ia": "chronicletransla03froiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-4": {
+   "ia": "cu31924088045806",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1525,
+    1891,
+    1902,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-5": {
+   "ia": "chronicleoffrois05froi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-6": {
+   "ia": "chronicleoffrois06froi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-commines-memoirs-vol-1": {
+   "ia": "memoirsofphilipd01commiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1640,
+    1789,
+    1814,
+    1848
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-commines-memoirs-vol-2": {
+   "ia": "memoirsofphilipd02commiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-thierry-norman-conquest-vol-1": {
+   "ia": "historyofconques01thieuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1640,
+    1789,
+    1814,
+    1846,
+    1847
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-thierry-norman-conquest-vol-2": {
+   "ia": "historyofconques02thieuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1640,
+    1702,
+    1789,
+    1814,
+    1848
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-sainte-beuve-portraits-of-women": {
+   "ia": "portraitsofwomen00sainiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1835,
+    1836,
+    1850,
+    1851,
+    1891
+   ],
+   "post_1930_years_in_front_15k": [
+    1996
+   ],
+   "post_1930_examined": "Examined in round 100: 'DEC 1 9 1996' is a UC San Diego library date-due slip, not an imprint; the title page reads Chicago, A. C. M'Clurg & Co., 1891."
+  },
+  "frc-sainte-beuve-portraits-of-men": {
+   "ia": "portraitsofmen00sainrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1835,
+    1836,
+    1850,
+    1851,
+    1857,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-sainte-beuve-monday-chats": {
+   "ia": "mondaychats00mathgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1804,
+    1869,
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-maurice-de-guerin-journal": {
+   "ia": "journalofmaurice00guuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1806,
+    1839,
+    1840,
+    1860,
+    1867
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-senancour-obermann-waite": {
+   "ia": "obermann00sena",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1770,
+    1789,
+    1790,
+    1796,
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-senancour-obermann-barnes-vol-1": {
+   "ia": "obermann01sena",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1804,
+    1830,
+    1849
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-senancour-obermann-barnes-vol-2": {
+   "ia": "obermann02sena",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-taine-on-intelligence": {
+   "ia": "onintelligence00tain",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1864,
+    1869,
+    1872
+   ],
+   "post_1930_years_in_front_15k": [
+    1951,
+    1973
+   ],
+   "post_1930_examined": "Examined in round 101: 1951 and 1973 are among the date-due stamps on a University of Illinois Library return slip, not imprints; the title page reads New York, Holt & Williams, 1872."
+  },
+  "frc-romance-of-the-rose-vol-1": {
+   "ia": "in.ernet.dli.2015.500380",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1538,
+    1640,
+    1878,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-romance-of-the-rose-vol-2": {
+   "ia": "TheRomanceOfTheRose",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-romance-of-the-rose-vol-3": {
+   "ia": "TheRomanceOfTheRoseEllis3",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-prevost-manon-lescaut": {
+   "ia": "dli.ministry.23365",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-way-fabliaux-vol-1": {
+   "ia": "fabliauxortales01legriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1550,
+    1756,
+    1779,
+    1781,
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-way-fabliaux-vol-2": {
+   "ia": "fabliauxortales02legriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-way-fabliaux-vol-3": {
+   "ia": "fabliauxortales03legriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "frc-prevost-manon-lescaut": {
+   "author": "The title page OCR reads 'Translated from the French of L'ABBE PREVOST BY ARTHUR W. GUN Dit' for Arthur W. Gundry, under 'CHICAGO: MORRILL, HIGGINS & CO., 1892.' and 'Copyright 1886 by Frederick T. Jones'. Checked by eye 2026-10-17."
+  }
+ }
+}

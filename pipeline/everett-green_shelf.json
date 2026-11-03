@@ -1,0 +1,402 @@
+{
+ "_about": "Evelyn Everett-Green's historical tales and stories for the young: every English text under her name at Gutenberg (catalogue: Everett-Green 1856-1932). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Evelyn Everett-Green",
+ "_name_words": [
+  "everett-green"
+ ],
+ "_surname": [
+  "evelyn everett-green",
+  "e. everett-green"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "egreen-in-the-days-of-chivalry": [
+   13183,
+   "In the Days of Chivalry: A Tale of the Times of the Black Prince"
+  ],
+  "egreen-lord-of-dynevor": [
+   13227,
+   "The Lord of Dynevor: A Tale of the Times of Edward the First"
+  ],
+  "egreen-tom-tuftons-travels": [
+   13404,
+   "Tom Tufton's Travels"
+  ],
+  "egreen-a-heroine-of-france": [
+   13500,
+   "A Heroine of France: The Story of Joan of Arc"
+  ],
+  "egreen-sign-of-the-red-cross": [
+   13840,
+   "The Sign of the Red Cross: A Tale of Old London"
+  ],
+  "egreen-for-the-faith": [
+   14748,
+   "For the Faith: A Story of the Young Pioneers of Reformation in Oxford",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-secret-chamber-at-chad": [
+   15670,
+   "The Secret Chamber at Chad"
+  ],
+  "egreen-in-the-wars-of-the-roses": [
+   15769,
+   "In the Wars of the Roses: A Story for the Young"
+  ],
+  "egreen-french-and-english": [
+   15958,
+   "French and English: A Story of the Struggle in America"
+  ],
+  "egreen-lost-treasure-of-trevlyn": [
+   16654,
+   "The Lost Treasure of Trevlyn: A Story of the Days of the Gunpowder Plot",
+   {
+    "levels": [
+     {
+      "re": "Chapter +[0-9]+: .{1,90}$"
+     }
+    ],
+    "start": "Chapter 1: ",
+    "front": true
+   }
+  ],
+  "egreen-true-stories-of-girl-heroines": [
+   40508,
+   "True Stories of Girl Heroines",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-esthers-charge": [
+   42230,
+   "Esther's Charge: A Story for Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-a-clerk-of-oxford-and-his-adventures-in-the-barons-wa": [
+   43077,
+   "A Clerk of Oxford, and His Adventures in the Barons' War",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-fallen-fortunes": [
+   45201,
+   "Fallen Fortunes"
+  ],
+  "egreen-monica": [
+   54940,
+   "Monica: A Novel, Volume 1 (of 3)"
+  ],
+  "egreen-monica-54941": [
+   54941,
+   "Monica: A Novel, Volume 2 (of 3)"
+  ],
+  "egreen-monica-54942": [
+   54942,
+   "Monica: A Novel, Volume 3 (of 3)"
+  ],
+  "egreen-squib-and-his-friends": [
+   54994,
+   "Squib and His Friends",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-in-taunton-town": [
+   55966,
+   "In Taunton town : a story of the rebellion of James Duke of Monmouth in 1685",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-pat-the-lighthouse-boy": [
+   63182,
+   "Pat the Lighthouse Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-our-winnie-and-the-little-match-girl": [
+   67410,
+   "Our Winnie, and The Little Match Girl",
+   {
+    "contents_only": true
+   }
+  ],
+  "egreen-eustace-marchmont": [
+   68596,
+   "Eustace Marchmont: A friend of the people"
+  ],
+  "egreen-drifted-ashore": [
+   70089,
+   "Drifted ashore;"
+  ],
+  "egreen-torwoods-trust": [
+   70305,
+   "Torwood's Trust, Volume 1 (of 3)"
+  ],
+  "egreen-odeynes-marriage": [
+   76100,
+   "Odeyne's marriage"
+  ],
+  "egreen-torwoods-trust-2": [
+   70306,
+   "Torwood's Trust, Volume 2 (of 3)"
+  ],
+  "egreen-torwoods-trust-3": [
+   70307,
+   "Torwood's Trust, Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "egreen-in-the-days-of-chivalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-lord-of-dynevor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-tom-tuftons-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-a-heroine-of-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-sign-of-the-red-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-for-the-faith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-secret-chamber-at-chad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-in-the-wars-of-the-roses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-french-and-english": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-lost-treasure-of-trevlyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-true-stories-of-girl-heroines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-esthers-charge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-a-clerk-of-oxford-and-his-adventures-in-the-barons-wa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-fallen-fortunes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-monica": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-monica-54941": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-monica-54942": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-squib-and-his-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-in-taunton-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-pat-the-lighthouse-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-our-winnie-and-the-little-match-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-eustace-marchmont": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-drifted-ashore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-torwoods-trust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-odeynes-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-torwoods-trust-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egreen-torwoods-trust-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "evelyn everett-green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

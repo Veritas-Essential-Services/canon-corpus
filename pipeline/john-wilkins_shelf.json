@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain John Wilkins (1614-1672), Bishop of Chester and founder of the Royal Society, for the Word Hoard: his theological works, Sermons Preach'd upon Several Occasions (1701), A Discourse concerning the Gift of Prayer (1704) and Of the Principles and Duties of Natural Religion (1734), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wilkins"
+ ],
+ "_surname": [
+  "john wilkins",
+  "wilkins"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wilkins-sermons-1701": [
+   "sermonspreachdup00wilk",
+   "Sermons preach'd upon several occasions (London : Printed for Ri. Chiswell, Will. Battersby, and Will. Rogers, 1701)"
+  ],
+  "wilkins-gift-of-prayer-1704": [
+   "discourseconcern00wilk",
+   "A Discourse concerning the gift of prayer : shewing what it is, wherein it consists, and how far it is attainable by industry ; with divers useful and proper directions to that purpose, both in respect of matter, method, expression (London : Printed for J. Lawrence [etc.], 1704)"
+  ],
+  "wilkins-natural-religion-1734": [
+   "ofprinciplesduti00wilk",
+   "Of the principles and duties of natural religion : two books (London : Printed for J. Walthoe, J. Knapton [etc.], 1734)"
+  ]
+ },
+ "_alternates": {
+  "wilkins-copies": "Other printings of each (1718 Gift of Prayer and others)"
+ },
+ "_excluded": {
+  "wilkins-secular": "His natural philosophy (The Discovery of a World in the Moone 1638, Mathematicall Magick 1648, Mercury 1641/1694, the Mathematical and Philosophical Works 1708, 1802): outside lane A's theology scope"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wilkins-natural-religion-1734": "title page read (OCR): 'By the Right Reverend Father in God, Dr. JOHN WILKINS, Late Lord Bishop of Chester' (OCR 'WILKIKS'), with Lloyd's funeral sermon"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wilkins-sermons-1701": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john wilkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1701",
+   "ia_date": "1701",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wilkins-gift-of-prayer-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wilkins-natural-religion-1734": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

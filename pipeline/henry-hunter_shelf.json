@@ -1,0 +1,83 @@
+{
+ "_about": "Henry Hunter (1741-1802), Sacred Biography: or, The History of the Patriarchs, lectures delivered at the Scots Church, London Wall; 4 vols, complete (Philadelphia, 1818); from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. US public domain.",
+ "_name_words": [
+  "hunter",
+  "henry hunter"
+ ],
+ "_surname": [
+  "hunter"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hunter-sacred-biography-1": [
+   "sacredbiography00hunt",
+   "Sacred Biography, vol. I (Philadelphia, 1818)"
+  ],
+  "hunter-sacred-biography-2": [
+   "sacredbiographyv02hunt",
+   "Sacred Biography, vol. II (Philadelphia, 1818)"
+  ],
+  "hunter-sacred-biography-3": [
+   "sacredbiographyv03hunt",
+   "Sacred Biography, vol. III (Philadelphia, 1818)"
+  ],
+  "hunter-sacred-biography-4": [
+   "sacredbiographyv04hunt",
+   "Sacred Biography, vol. IV (Philadelphia: John Richardson, 1818)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hunter-sacred-biography-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hunter-sacred-biography-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hunter-sacred-biography-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hunter-sacred-biography-4": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

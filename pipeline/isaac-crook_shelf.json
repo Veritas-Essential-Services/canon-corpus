@@ -1,0 +1,99 @@
+{
+ "_about": "Public-domain Isaac Crook (1833-1916), Methodist minister and president of Ohio University, for the Word Hoard: Jonathan Edwards, John Knox the Reformer, The Earnest Expectation, The Great Five (the first faculty of Ohio Wesleyan), and his memorial of C. C. White. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 116 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "isaac crook",
+  "i. crook"
+ ],
+ "_surname": [
+  "isaac crook",
+  "crook"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "icrook-white": [
+   "honccwhite00croo",
+   "Hon. C. C. White (Cincinnati, Ohio, Printed by Curts & Jennings, 1896)"
+  ],
+  "icrook-edwards": [
+   "jonathanedwards00croo",
+   "Jonathan Edwards (Cincinnati, Jennings and Pye, 1903)"
+  ],
+  "icrook-earnest-expectation": [
+   "earnestexpectati00croo",
+   "The earnest expectation (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905)"
+  ],
+  "icrook-knox": [
+   "johnknoxreformer00croo",
+   "John Knox: the reformer (Cincinnati, Jennings and Graham, 1906)"
+  ],
+  "icrook-great-five": [
+   "greatfivefirstfa00croo",
+   "The great five : the first faculty of the Ohio Wesleyan University (Cincinnati, Ohio : Jennings and Graham ; New York : Eaton and Mains, 1908)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "icrook-white": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac crook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "icrook-edwards": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac crook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "icrook-earnest-expectation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac crook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "icrook-knox": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac crook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "icrook-great-five": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac crook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

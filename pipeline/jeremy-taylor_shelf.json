@@ -1,0 +1,209 @@
+{
+ "_about": "Public-domain Jeremy Taylor (1613-1667, Anglican divine, Bishop of Down and Connor) for the Word Hoard: Holy Living and Holy Dying clean from CCEL, and the Whole Works (London: Longman, 1847-54, 10 vols, Heber's edition revised by Charles Page Eden) as raw Internet Archive OCR from Toronto scans. Not Bayard Taylor (lane C's translator shelf) or any other Taylor. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "t/taylor",
+ "_name_words": [
+  "taylor",
+  "jeremy"
+ ],
+ "_surname": [
+  "jeremy taylor",
+  "jer. taylor",
+  "bishop taylor",
+  "dr. taylor"
+ ],
+ "_held": {},
+ "ccel": {
+  "jtaylor-holy-living": [
+   "holy_living",
+   "The Rule and Exercises of Holy Living",
+   ""
+  ],
+  "jtaylor-holy-dying": [
+   "holy_dying",
+   "The Rule and Exercises of Holy Dying",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "jtaylor-works-01": [
+   "wholeworks01tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 1 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-02": [
+   "wholeworks02tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 2 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-03": [
+   "wholeworks03tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 3 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-04": [
+   "wholeworks04tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 4 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-05": [
+   "wholeworks05tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 5 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-06": [
+   "wholeworks06tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 6 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-07": [
+   "wholeworks07tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 7 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-08": [
+   "wholeworks08tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 8 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-09": [
+   "wholeworks09tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 9 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ],
+  "jtaylor-works-10": [
+   "wholeworks10tayluoft",
+   "The Whole Works of the Right Rev. Jeremy Taylor, vol. 10 (London: Longman, 1847-54, ed. Heber, revised by Eden)"
+  ]
+ },
+ "_alternates": {
+  "wholeworksjerem0*hebegoog, wholeworksjerem00unkngoog (Heber's first edition, 1822-28); wholeworksofrigh*tayl (Claremont, 1828); wholeworkswitha0*taylgoog, bub_gb_JKoMAAAAYAAJ (1835); practicalworks0*tayl (1838); in.ernet.dli.2015.3821*": "Other editions of the Works."
+ },
+ "_excluded": {
+  "wholeworks000*tayl (Olms facsimile, 1969-70); jeremytaylorsele0000tayl (1972)": "Modern reprints.",
+  "selectionsfromwo01tayl; presenceofgodsel00tayl": "Selections made by others."
+ },
+ "_checks": {
+  "jtaylor-holy-living": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jtaylor-holy-dying": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jtaylor-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremy taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852-1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

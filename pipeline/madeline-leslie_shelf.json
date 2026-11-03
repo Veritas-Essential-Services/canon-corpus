@@ -1,0 +1,585 @@
+{
+ "_about": "Madeline Leslie's (Harriet Newell Baker) Sunday-school stories for children",
+ "_author": "Madeline Leslie",
+ "_name_words": [
+  "leslie"
+ ],
+ "_surname": [
+  "madeline leslie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mleslie-berties-home": [
+   23683,
+   "Bertie's Home; or, the Way to be Happy"
+  ],
+  "mleslie-lost-kitty": [
+   25201,
+   "The Lost Kitty"
+  ],
+  "mleslie-bertie-and-the-gardeners": [
+   26497,
+   "Bertie and the Gardeners; or, The Way to be Happy",
+   {
+    "contents_only": true
+   }
+  ],
+  "mleslie-minnies-pet-dog": [
+   26616,
+   "Minnie's Pet Dog"
+  ],
+  "mleslie-minnies-pet-parrot": [
+   26617,
+   "Minnie's Pet Parrot"
+  ],
+  "mleslie-minnies-pet-monkey": [
+   26618,
+   "Minnie's Pet Monkey"
+  ],
+  "mleslie-minnies-pet-lamb": [
+   26619,
+   "Minnie's Pet Lamb"
+  ],
+  "mleslie-minnies-pet-horse": [
+   26620,
+   "Minnie's Pet Horse"
+  ],
+  "mleslie-minnies-pet-cat": [
+   28682,
+   "Minnie's Pet Cat"
+  ],
+  "mleslie-little-frankie-on-a-journey": [
+   33517,
+   "Little Frankie on a Journey"
+  ],
+  "mleslie-little-frankie-at-his-plays": [
+   33521,
+   "Little Frankie at His Plays"
+  ],
+  "mleslie-little-frankie-and-his-cousin": [
+   33522,
+   "Little Frankie and His Cousin"
+  ],
+  "mleslie-little-frankie-at-school": [
+   33523,
+   "Little Frankie at School"
+  ],
+  "mleslie-little-robins-learning-to-fly": [
+   33775,
+   "Little Robins Learning to Fly"
+  ],
+  "mleslie-pearl-of-love": [
+   33811,
+   "The Pearl of Love; or, Josey's Gift"
+  ],
+  "mleslie-little-frankie-and-his-mother": [
+   34830,
+   "Little Frankie and his Mother"
+  ],
+  "mleslie-little-robins-love-one-to-another": [
+   35047,
+   "Little Robins' Love One to Another"
+  ],
+  "mleslie-cora-and-the-doctor": [
+   35526,
+   "Cora and The Doctor; or, Revelations of A Physician's Wife"
+  ],
+  "mleslie-pearl-of-peace": [
+   35746,
+   "The Pearl of Peace; or, The Little Peacemaker",
+   {
+    "contents_only": true
+   }
+  ],
+  "mleslie-factory-boy": [
+   43390,
+   "The Factory Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "mleslie-ingleside": [
+   69973,
+   "Ingleside;"
+  ],
+  "mleslie-up-the-ladder": [
+   70168,
+   "Up the ladder;"
+  ],
+  "mleslie-good-for-evil": [
+   70977,
+   "Good for evil"
+  ],
+  "mleslie-rag-pickers": [
+   71080,
+   "The rag pickers"
+  ],
+  "mleslie-new-buggy": [
+   71245,
+   "The new buggy"
+  ],
+  "mleslie-diligent-dick": [
+   71493,
+   "Diligent Dick"
+  ],
+  "mleslie-pearl-of-charity": [
+   71822,
+   "The pearl of charity"
+  ],
+  "mleslie-frankies-dog-tony": [
+   72019,
+   "Frankie's dog Tony"
+  ],
+  "mleslie-golden-pennies-and-other-stories": [
+   72154,
+   "The golden pennies, and other stories"
+  ],
+  "mleslie-gem-of-neatness": [
+   72280,
+   "Gem of neatness"
+  ],
+  "mleslie-pearl-of-patience": [
+   72640,
+   "The pearl of patience"
+  ],
+  "mleslie-idas-new-shoes": [
+   73213,
+   "Ida's new shoes"
+  ],
+  "mleslie-white-and-black-lies": [
+   73637,
+   "White and black lies"
+  ],
+  "mleslie-lilys-birthday": [
+   73659,
+   "Lily's birthday"
+  ],
+  "mleslie-chest-of-tools": [
+   74051,
+   "The chest of tools"
+  ],
+  "mleslie-theology-in-romance": [
+   74275,
+   "Theology in romance (with A. R. Baker)"
+  ],
+  "mleslie-golden-rule": [
+   74545,
+   "The golden rule"
+  ],
+  "mleslie-breach-of-trust": [
+   76354,
+   "The breach of trust"
+  ],
+  "mleslie-stopping-the-leak": [
+   77089,
+   "Stopping the leak"
+  ],
+  "mleslie-bessie-and-the-squirrels": [
+   77532,
+   "Bessie and the squirrels"
+  ],
+  "mleslie-load-of-chips": [
+   78578,
+   "The load of chips"
+  ],
+  "mleslie-out-of-the-depths": [
+   78705,
+   "Out of the depths"
+  ],
+  "mleslie-lazy-robert": [
+   78964,
+   "Lazy Robert; or, The Colonel's servant"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mleslie-berties-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-lost-kitty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-bertie-and-the-gardeners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-minnies-pet-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-minnies-pet-parrot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-minnies-pet-monkey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-minnies-pet-lamb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-minnies-pet-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-minnies-pet-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-little-frankie-on-a-journey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-little-frankie-at-his-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-little-frankie-and-his-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-little-frankie-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-little-robins-learning-to-fly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-pearl-of-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-little-frankie-and-his-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-little-robins-love-one-to-another": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-cora-and-the-doctor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-pearl-of-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-factory-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-ingleside": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-up-the-ladder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-good-for-evil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-rag-pickers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-new-buggy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-diligent-dick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-pearl-of-charity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-frankies-dog-tony": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-golden-pennies-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-gem-of-neatness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-pearl-of-patience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-idas-new-shoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-white-and-black-lies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-lilys-birthday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-chest-of-tools": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-theology-in-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-golden-rule": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-breach-of-trust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-stopping-the-leak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-bessie-and-the-squirrels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-load-of-chips": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-out-of-the-depths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mleslie-lazy-robert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "madeline leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

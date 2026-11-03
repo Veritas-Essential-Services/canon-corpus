@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain Emil Schürer (1844-1910, Giessen) in English for the Word Hoard: A History of the Jewish People in the Time of Jesus Christ, the Clark set in five volumes (1885-1890), tr. John Macpherson (Division I) and Sophia Taylor and Peter Christie (Division II), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "schurer"
+ ],
+ "_surname": [
+  "schurer",
+  "schürer",
+  "emil schurer",
+  "emil schürer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "schurer-jewish-people-1-1": [
+   "historyofjewishp0101sch",
+   "A History of the Jewish People in the Time of Jesus Christ, Division I, vol. I, tr. John Macpherson (Edinburgh: T. & T. Clark, 1890)"
+  ],
+  "schurer-jewish-people-1-2": [
+   "india.history.resource.89569",
+   "A History of the Jewish People in the Time of Jesus Christ, Division I, vol. II, tr. John Macpherson (Edinburgh: T. & T. Clark, 1890)",
+   "89569_djvu.txt"
+  ],
+  "schurer-jewish-people-2-1": [
+   "historyofjewishp0201sch",
+   "A History of the Jewish People in the Time of Jesus Christ, Division II, vol. I, tr. Sophia Taylor and Peter Christie (Edinburgh: T. & T. Clark; title page undated, catalogued 1885)"
+  ],
+  "schurer-jewish-people-2-2": [
+   "india.history.resource.89566",
+   "A History of the Jewish People in the Time of Jesus Christ, Division II, vol. II, tr. Sophia Taylor and Peter Christie (Edinburgh: T. & T. Clark, 1885)",
+   "89566_djvu.txt"
+  ],
+  "schurer-jewish-people-2-3": [
+   "ahistoryjewishp01sophgoog",
+   "A History of the Jewish People in the Time of Jesus Christ, Division II, vol. III, tr. Sophia Taylor and Peter Christie (Edinburgh: T. & T. Clark; title page undated, catalogued 1886)"
+  ]
+ },
+ "_alternates": {
+  "schurer-index": "Macpherson's Index volume (1891): historyofjewish03sch, compiled by him, not by Schürer",
+  "schurer-copies": "The 1891 Scribner issue; the 1898 Clark reissue; other copies"
+ },
+ "_excluded": {
+  "schurer-reprints": "isbn_9781140420491 (modern reprint); dv2historyofjewi03sch (20th-century reprint); German texts tagged English"
+ },
+ "_identity_checked": {
+  "schurer-jewish-people-2-3": {
+   "author": "title page read: 'EMIL SCHUREB, D.D., M.A.' (OCR for SCHURER)"
+  }
+ },
+ "_rights_checked": {
+  "schurer-jewish-people-1-1": "title page read: 1890 (the catalogue's 1885 is wrong)",
+  "schurer-jewish-people-2-1": "title page read: name OCR'd 'E:riL SCHURER'"
+ },
+ "_pending": {},
+ "_translators": {
+  "schurer-jewish-people-1-1": "macpherson",
+  "schurer-jewish-people-1-2": "macpherson",
+  "schurer-jewish-people-2-1": "taylor",
+  "schurer-jewish-people-2-2": "taylor",
+  "schurer-jewish-people-2-3": "taylor"
+ },
+ "_checks": {
+  "schurer-jewish-people-1-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurer",
+   "translator_claimed": "macpherson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1890 (the catalogue's 1885 is wrong)"
+  },
+  "schurer-jewish-people-1-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurer",
+   "translator_claimed": "macpherson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schurer-jewish-people-2-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurer",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'E:riL SCHURER'"
+  },
+  "schurer-jewish-people-2-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurer",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schurer-jewish-people-2-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

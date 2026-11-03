@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Jane Minot Sedgwick: George Sand's The Devil's Pool (with Ellery Sedgwick) and François the Waif (Little, Brown, 1894). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "jane minot sedgwick"
+ ],
+ "_surname": [
+  "jane minot sedgwick"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jms-21993": [
+   21993,
+   "The Devil's Pool"
+  ],
+  "jms-69153": [
+   69153,
+   "François the waif"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "sedgwick-sand-francois-the-waif": {
+   "source": "jms-69153",
+   "of": "George Sand",
+   "work": "François the waif",
+   "translated": "1894 (see the Gutenberg header)",
+   "translator": "Jane Minot Sedgwick",
+   "scan_edition": "Project Gutenberg 69153 (clean text)"
+  },
+  "sedgwick-sand-the-devil-s-pool": {
+   "source": "jms-21993",
+   "of": "George Sand",
+   "work": "The Devil's Pool",
+   "translated": "1894 (see the Gutenberg header)",
+   "translator": "Jane Minot Sedgwick (with Ellery Sedgwick)",
+   "scan_edition": "Project Gutenberg 21993 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jms-21993": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane minot sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellery Sedgwick; Jane Minot Sedgwick"
+  },
+  "jms-69153": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane minot sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jane Minot Sedgwick"
+  }
+ },
+ "_verified": {
+  "jms-21993": {
+   "pg": 21993,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellery Sedgwick"
+  },
+  "jms-69153": {
+   "pg": 69153,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jane Minot Sedgwick"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

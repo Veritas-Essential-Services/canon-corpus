@@ -1,0 +1,92 @@
+{
+ "_about": "Public-domain William Sancroft (1617-1693), Archbishop of Canterbury and the first of the nonjuring bishops, for the Word Hoard: his Occasional Sermons (1694), Lex Ignea (1666), the 1678 sermon to the House of Peers, and his Familiar Letters (1757), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sancroft"
+ ],
+ "_surname": [
+  "william sancroft",
+  "sancroft"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sancroft-occasional-sermons-1694": [
+   "bim_early-english-books-1641-1700_occasional-sermons_sancroft-william_1694",
+   "Occasional sermons...  1694 (catalogued 1694)"
+  ],
+  "sancroft-lex-ignea-1666": [
+   "bim_early-english-books-1641-1700_lex-ignea-or-the-school_sancroft-william-abp_1666",
+   "Lex ignea: or the school of righteousness.  ...  1666 (catalogued 1666)"
+  ],
+  "sancroft-sermon-peers-1678": [
+   "sermonpreachdtoh00sanc",
+   "A sermon preach'd to the House of Peers, Novemb. 13th 1678. Being the fast=day Appointed by the King, to Implore the mercies of Almighty God in the Protection of His Majesties Sacred Person, and His Kingdoms ([London] In the Savoy, Printed by Tho. Newcomb, for Robert Beaumont, 1678)"
+  ],
+  "sancroft-familiar-letters-1757": [
+   "bim_eighteenth-century_familiar-letters-of-dr-_sancroft-william-archb_1757",
+   "Familiar letters of Dr. William Sancroft, late Lord Archbishop of Canterbury, to Mr. North, afterwards Sir Henry North of Mildenhall, Bart. ... To which is prefixed, some...  1757 (catalogued 1757)"
+  ]
+ },
+ "_alternates": {
+  "sancroft-copies": "The 1703 Sermons; other copies of each"
+ },
+ "_excluded": {
+  "sancroft-other": "D'Oyly's Life of Sancroft (1821) and the Proceedings and Tryal of the Seven Bishops: works by others; Bishop Overall's Convocation Book (1690), which Sancroft published but did not write; one-page proclamations and articles"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "sancroft-lex-ignea-1666": "title page read from the page image: 'By William Sancroft, D.D. Dean of St. Pauls', London: Timothy Garthwait, 1666 (OCR 'Will! : M GiMc R oF-S'); the scan also carries 1750s charity lists bound after it",
+  "sancroft-sermon-peers-1678": "title page read (OCR): 'By WILLIAM Archbishop of Canterbury', 1678; Sancroft held the see 1678-1690"
+ },
+ "_pending": {
+  "sancroft-modern-policies": "Modern Policies (1652, many printings), published anonymously; the attribution is the catalogue's"
+ },
+ "_translators": {},
+ "_checks": {
+  "sancroft-occasional-sermons-1694": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william sancroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1694",
+   "ia_date": "1694",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sancroft-lex-ignea-1666": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1666",
+   "ia_date": "1666",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sancroft-sermon-peers-1678": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1678",
+   "ia_date": "1678",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sancroft-familiar-letters-1757": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sancroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

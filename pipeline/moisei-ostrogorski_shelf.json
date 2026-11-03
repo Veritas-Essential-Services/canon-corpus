@@ -1,0 +1,59 @@
+{
+ "_about": "Moisei Ostrogorski (1854-1919), Russian political scientist. Raw IA OCR: Democracy and the Organization of Political Parties, translated from the French by Frederick Clarke, with a preface by James Bryce (London and New York: Macmillan, 1902), 2 vols., clean 0.93 and 0.92. US public domain. No uids minted.",
+ "_author": "M. Ostrogorski",
+ "_name_words": [
+  "moisei",
+  "ostrogorski",
+  "ostrogorskii"
+ ],
+ "_surname": [
+  "ostrogorski"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ostrogorski-democracy-political-parties-1902-v1": [
+   "democracyorganiz01ostruoft",
+   "Democracy and the Organization of Political Parties, vol. I (Macmillan, 1902)",
+   "tr. Frederick Clarke"
+  ],
+  "ostrogorski-democracy-political-parties-1902-v2": [
+   "democracyorganiz02ostruoft",
+   "Democracy and the Organization of Political Parties, vol. II (Macmillan, 1902)",
+   "tr. Frederick Clarke"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "ostrogorski-democracy-political-parties-1902-v1": "clarke",
+  "ostrogorski-democracy-political-parties-1902-v2": "clarke"
+ },
+ "_checks": {
+  "ostrogorski-democracy-political-parties-1902-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ostrogorski",
+   "translator_claimed": "clarke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ostrogorski-democracy-political-parties-1902-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ostrogorski",
+   "translator_claimed": "clarke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

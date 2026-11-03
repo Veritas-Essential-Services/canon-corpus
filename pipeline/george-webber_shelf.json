@@ -1,0 +1,70 @@
+{
+ "_about": "Public-domain George Webber (1838-1907), Canadian Methodist minister of Charlottetown and Ontario, for the Word Hoard: Lectures and Sermons, The Pulpit the Age Needs, and God in History. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 111 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george webber",
+  "g. webber",
+  "webber"
+ ],
+ "_surname": [
+  "george webber",
+  "webber"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gwebber-lectures-sermons": [
+   "cihm_49059",
+   "Lectures and sermons (Charlottetown, [P.E.I.] : H. Cooper, 1875)"
+  ],
+  "gwebber-pulpit": [
+   "cihm_49060",
+   "The pulpit the age needs (Toronto : W. Briggs; Montreal : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886)"
+  ],
+  "gwebber-god-in-history": [
+   "cihm_25612",
+   "God in history (Toronto : W. Briggs; Montreal : C.W. Coates, 1888)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gwebber-lectures-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "webber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwebber-pulpit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george webber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwebber-god-in-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george webber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

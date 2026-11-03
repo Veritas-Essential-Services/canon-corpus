@@ -1,0 +1,146 @@
+{
+ "_about": "Public-domain James Hamilton (1814-1867, minister of the National Scotch Church, Regent Square, London) for the Word Hoard: his Works in the uniform edition (London: Nisbet, 6 vols, 1869-73: Life in Earnest, The Mount of Olives, The Royal Preacher, Emblems from Eden, Moses the Man of God and others), The Lamp and the Lantern (New York, 1853), raw Internet Archive OCR; and his Life of Bunyan, clean from Gutenberg. Not the other James Hamiltons; the translator of Tholuck's Hebrews (1842) is not claimed as him. Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hamilton",
+  "james"
+ ],
+ "_surname": [
+  "james hamilton, d.d",
+  "rev. james hamilton",
+  "james hamilton, d.d., f.l.s",
+  "the late rev. james hamilton",
+  "hamilton, james, d.d",
+  "rev. james hamilton, d.d"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "jhamilton-life-of-bunyan": [
+   "3627",
+   "Life of Bunyan (from the Works of the Puritan Divines: Bunyan, Thomas Nelson, 1845)"
+  ]
+ },
+ "internet_archive": {
+  "jhamilton-works-1": [
+   "worksoflaterevja01hamiuoft",
+   "Works of the Late Rev. James Hamilton, vol. 1 (London: James Nisbet, 1870)"
+  ],
+  "jhamilton-works-2": [
+   "worksoflaterevja02hamiuoft",
+   "Works of the Late Rev. James Hamilton, vol. 2 (London: James Nisbet, 1869)"
+  ],
+  "jhamilton-works-3": [
+   "worksoflaterevja03hamiuoft",
+   "Works of the Late Rev. James Hamilton, vol. 3 (London: James Nisbet, 1869)"
+  ],
+  "jhamilton-works-4": [
+   "worksoflaterevja04hamiuoft",
+   "Works of the Late Rev. James Hamilton, vol. 4 (London: James Nisbet, 1870)"
+  ],
+  "jhamilton-works-5": [
+   "worksoflaterevja05hamiuoft",
+   "Works of the Late Rev. James Hamilton, vol. 5 (London: James Nisbet, 1871)"
+  ],
+  "jhamilton-works-6": [
+   "worksoflaterevja06hamiuoft",
+   "Sermons and Lectures Selected from the Manuscripts of the Late James Hamilton, completing the uniform edition of his Works (London: James Nisbet, 1873)"
+  ],
+  "jhamilton-lamp-lantern-1853": [
+   "lampandlanterno01hamigoog",
+   "The Lamp and the Lantern: or, Light for the Tent and the Traveller (New York: Robert Carter, 1853)"
+  ]
+ },
+ "_alternates": {
+  "jhamilton-separate-editions": "The Royal Preacher (1851; IA theroyalpreacher00hamiuoft), The Mount of Olives (2nd ed., 1846; IA mountofolives00hami), Life in Earnest (1863; IA lifeinearnes00hami): their text is in the Works",
+  "jhamilton-works-1881": "the 1881 reissue of the Works (IA worksoflaterevja01hami to 06hami)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "jhamilton-life-of-bunyan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rev. james hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhamilton-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james hamilton, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhamilton-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james hamilton, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhamilton-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james hamilton, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhamilton-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james hamilton, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhamilton-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james hamilton, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhamilton-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james hamilton, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhamilton-lamp-lantern-1853": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james hamilton, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

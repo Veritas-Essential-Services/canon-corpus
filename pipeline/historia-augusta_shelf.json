@@ -1,0 +1,60 @@
+{
+ "_about": "The Scriptores Historiae Augustae in English: David Magie's Loeb (Latin facing), vols. I (1921) and II (1924) from first printings, raw IA OCR. Vol. III (1932) is after the 1930 line and is not wanted. Not minted.",
+ "_name_words": [
+  "magie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "historia-augusta-magie-v1": [
+   "scriptoreshistor0000unse",
+   "The Scriptores Historiae Augustae, with an English translation, vol. I (Loeb; London: Heinemann, New York: Putnam, MCMXXI; Latin facing)",
+   "tr. David Magie"
+  ],
+  "historia-augusta-magie-v2": [
+   "scriptores0000unse",
+   "The Scriptores Historiae Augustae, with an English translation, vol. II (Loeb; London: Heinemann, New York: Putnam, MCMXXIV; Latin facing)",
+   "tr. David Magie"
+  ]
+ },
+ "_surname": [
+  "spartianus",
+  "capitolinus",
+  "lampridius",
+  "vopiscus",
+  "hadrian",
+  "hadrianus"
+ ],
+ "_translators": {
+  "historia-augusta-magie-v1": "David Magie",
+  "historia-augusta-magie-v2": "David Magie"
+ },
+ "_checks": {
+  "historia-augusta-magie-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spartianus",
+   "translator_claimed": "David Magie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "historia-augusta-magie-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spartianus",
+   "translator_claimed": "David Magie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

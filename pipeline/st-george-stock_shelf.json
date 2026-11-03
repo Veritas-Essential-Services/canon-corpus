@@ -1,0 +1,48 @@
+{
+ "_about": "St. George Stock (1850-), Oxford logician and classicist. Gutenberg: Deductive Logic (1888); A Guide to Stoicism (1908). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "St. George Stock",
+ "_name_words": [
+  "st.",
+  "george",
+  "william",
+  "joseph",
+  "stock"
+ ],
+ "_surname": [
+  "st. george stock",
+  "st. george w. j. stock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stock-deductive-logic": [
+   6560,
+   "Deductive Logic (1888)"
+  ],
+  "stock-guide-to-stoicism": [
+   7514,
+   "A Guide to Stoicism (1908)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "stock-deductive-logic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "st. george stock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stock-guide-to-stoicism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "st. george stock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

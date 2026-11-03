@@ -1,0 +1,57 @@
+{
+ "_about": "Sir Norman Angell (1872-1967), English theorist of international relations. Gutenberg: The Great Illusion (1910); Peace Theories and the Balkan War (1912); The Fruits of Victory (1921). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Norman Angell",
+ "_name_words": [
+  "norman",
+  "angell"
+ ],
+ "_surname": [
+  "norman angell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "angell-great-illusion": [
+   38535,
+   "The Great Illusion (1910)"
+  ],
+  "angell-peace-theories-balkan-war": [
+   11895,
+   "Peace Theories and the Balkan War (1912)"
+  ],
+  "angell-fruits-of-victory": [
+   43598,
+   "The Fruits of Victory (1921)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "angell-great-illusion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "norman angell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "angell-peace-theories-balkan-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "norman angell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "angell-fruits-of-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "norman angell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

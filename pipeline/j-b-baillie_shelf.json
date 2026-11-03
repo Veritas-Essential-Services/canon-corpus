@@ -1,0 +1,65 @@
+{
+ "_about": "Sir James Black Baillie (1872-1940), Scottish Hegelian, professor of moral philosophy at Aberdeen. Not Robert Baillie the Covenanter (shelf robert-baillie). Raw IA OCR: The Origin and Significance of Hegel's Logic (Macmillan, 1901); An Outline of the Idealistic Construction of Experience (Macmillan, 1906); Studies in Human Nature (1922). His translation of Hegel's Phenomenology of Mind (1910) is translator work and is not taken here. US public domain. No uids minted.",
+ "_author": "J. B. Baillie",
+ "_name_words": [
+  "james",
+  "black",
+  "baillie"
+ ],
+ "_surname": [
+  "baillie",
+  "j. b. baillie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "baillie-origin-and-significance-of-hegels-logic-1901": [
+   "cu31924011603416",
+   "The Origin and Significance of Hegel's Logic (Macmillan, 1901)"
+  ],
+  "baillie-idealistic-construction-of-experience-1906": [
+   "cu31924029031066",
+   "An Outline of the Idealistic Construction of Experience (Macmillan, 1906)"
+  ],
+  "baillie-studies-in-human-nature-1922": [
+   "studiesinhumanna00bail",
+   "Studies in Human Nature (1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "baillie-origin-and-significance-of-hegels-logic-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baillie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baillie-idealistic-construction-of-experience-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baillie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baillie-studies-in-human-nature-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baillie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

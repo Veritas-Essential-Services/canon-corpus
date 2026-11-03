@@ -1,0 +1,477 @@
+{
+ "_about": "H. De Vere Stacpoole's South Sea romances and other novels (The Blue Lagoon and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "H. De Vere Stacpoole",
+ "_name_words": [
+  "stacpoole"
+ ],
+ "_surname": [
+  "h. de vere stacpoole"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hdvstacpoole-blue-lagoon": [
+   393,
+   "The Blue Lagoon: A Romance"
+  ],
+  "hdvstacpoole-beach-of-dreams": [
+   20084,
+   "The Beach of Dreams: A Romance"
+  ],
+  "hdvstacpoole-man-who-lost-himself": [
+   23988,
+   "The Man Who Lost Himself",
+   {
+    "contents_only": true
+   }
+  ],
+  "hdvstacpoole-pools-of-silence": [
+   26889,
+   "The Pools of Silence"
+  ],
+  "hdvstacpoole-ghost-girl": [
+   26986,
+   "The Ghost Girl"
+  ],
+  "hdvstacpoole-sea-plunder": [
+   53179,
+   "Sea Plunder",
+   {
+    "contents_only": true
+   }
+  ],
+  "hdvstacpoole-ship-of-coral": [
+   54437,
+   "The Ship of Coral"
+  ],
+  "hdvstacpoole-vanderdecken": [
+   54473,
+   "Vanderdecken"
+  ],
+  "hdvstacpoole-rapin": [
+   54483,
+   "The Rapin"
+  ],
+  "hdvstacpoole-presentation": [
+   54808,
+   "The Presentation"
+  ],
+  "hdvstacpoole-new-optimism": [
+   54840,
+   "The New Optimism"
+  ],
+  "hdvstacpoole-pearl-fishers": [
+   54959,
+   "The Pearl Fishers",
+   {
+    "contents_only": true
+   }
+  ],
+  "hdvstacpoole-man-who-found-himself-uncle-simon": [
+   55039,
+   "The Man Who Found Himself (Uncle Simon) (with Margaret Robson Stacpoole)"
+  ],
+  "hdvstacpoole-drums-of-war": [
+   55148,
+   "The Drums of War"
+  ],
+  "hdvstacpoole-satan": [
+   55183,
+   "Satan: A Romance of the Bahamas"
+  ],
+  "hdvstacpoole-garryowen": [
+   55323,
+   "Garryowen"
+  ],
+  "hdvstacpoole-fanny-lambert": [
+   55454,
+   "Fanny Lambert: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "hdvstacpoole-death-the-knight-and-the-lady": [
+   55708,
+   "Death, the Knight, and the Lady: A Ghost Story"
+  ],
+  "hdvstacpoole-crimson-azaleas": [
+   55709,
+   "The Crimson Azaleas: A Novel"
+  ],
+  "hdvstacpoole-cottage-on-the-fells": [
+   56128,
+   "The Cottage on the Fells"
+  ],
+  "hdvstacpoole-patsy": [
+   56142,
+   "Patsy"
+  ],
+  "hdvstacpoole-garden-of-god": [
+   58593,
+   "The Garden of God"
+  ],
+  "hdvstacpoole-ocean-tramps": [
+   63269,
+   "Ocean Tramps",
+   {
+    "contents_only": true
+   }
+  ],
+  "hdvstacpoole-maru": [
+   64643,
+   "Maru: A Dream of the Sea"
+  ],
+  "hdvstacpoole-corporal-jacques-of-the-foreign-legion": [
+   66453,
+   "Corporal Jacques of the Foreign Legion",
+   {
+    "contents_only": true
+   }
+  ],
+  "hdvstacpoole-gates-of-morning": [
+   67187,
+   "The Gates of Morning"
+  ],
+  "hdvstacpoole-kadjaman": [
+   67464,
+   "Kadjaman"
+  ],
+  "hdvstacpoole-story-of-gombi": [
+   67506,
+   "The Story of Gombi"
+  ],
+  "hdvstacpoole-passion-fruit": [
+   70651,
+   "Passion fruit"
+  ],
+  "hdvstacpoole-a-primal-woman": [
+   73158,
+   "A primal woman"
+  ],
+  "hdvstacpoole-magic": [
+   73248,
+   "Magic"
+  ],
+  "hdvstacpoole-man-with-a-grouch": [
+   75565,
+   "The man with a grouch"
+  ],
+  "hdvstacpoole-city-in-the-sea": [
+   75608,
+   "The city in the sea"
+  ],
+  "hdvstacpoole-romance-of-captain-duffy": [
+   77920,
+   "The romance of Captain Duffy"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hdvstacpoole-blue-lagoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-beach-of-dreams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-man-who-lost-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-pools-of-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-ghost-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-sea-plunder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-ship-of-coral": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-vanderdecken": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-rapin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-presentation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-new-optimism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-pearl-fishers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-man-who-found-himself-uncle-simon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-drums-of-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-satan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-garryowen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-fanny-lambert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-death-the-knight-and-the-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-crimson-azaleas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-cottage-on-the-fells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-patsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-garden-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-ocean-tramps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-maru": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-corporal-jacques-of-the-foreign-legion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-gates-of-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-kadjaman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-story-of-gombi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-passion-fruit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-a-primal-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-magic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-man-with-a-grouch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-city-in-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdvstacpoole-romance-of-captain-duffy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. de vere stacpoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

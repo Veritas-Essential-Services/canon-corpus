@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain H. Clay Trumbull (Henry Clay Trumbull, 1830-1903), editor of The Sunday School Times, for the Word Hoard: Kadesh-Barnea (1884), The Blood Covenant (1885), Friendship the Master-Passion (1892), Studies in Oriental Social Life (1894), The Threshold Covenant (1896), Prayer: Its Nature and Scope (copyright 1896) and The Covenant of Salt (1899), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "trumbull"
+ ],
+ "_surname": [
+  "h. clay trumbull",
+  "henry clay trumbull",
+  "trumbull"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hctrumbull-kadesh-barnea": [
+   "kadeshbarneaitsi00trum_0",
+   "Kadesh-Barnea: Its Importance and Probable Site, with the Story of a Hunt for It (New York: Charles Scribner's Sons, 1884)"
+  ],
+  "hctrumbull-blood-covenant": [
+   "bloodcovenantpri00trum",
+   "The Blood Covenant: A Primitive Rite and Its Bearings on Scripture (New York: Charles Scribner's Sons, 1885)"
+  ],
+  "hctrumbull-friendship": [
+   "friendshipmaster00trum",
+   "Friendship the Master-Passion (Philadelphia: John D. Wattles, 1892)"
+  ],
+  "hctrumbull-oriental-social-life": [
+   "studiesinorienta00trum",
+   "Studies in Oriental Social Life and Gleams from the East on the Sacred Page (Philadelphia: John D. Wattles, 1894)"
+  ],
+  "hctrumbull-threshold-covenant": [
+   "thresholdcovenanb00trum",
+   "The Threshold Covenant, or The Beginning of Religious Rites (New York: Charles Scribner's Sons, 1896)"
+  ],
+  "hctrumbull-prayer": [
+   "prayeritsnatures00trum",
+   "Prayer: Its Nature and Scope (New York, Chicago, Toronto: Fleming H. Revell; copyright 1896)"
+  ],
+  "hctrumbull-covenant-salt": [
+   "covenantofsaltas00trum",
+   "The Covenant of Salt, as Based on the Significance and Symbolism of Salt in Primitive Thought (New York: Charles Scribner's Sons, 1899)"
+  ]
+ },
+ "_alternates": {
+  "hctrumbull-copies": "PG 48236, 49216 and 46212 (Blood Covenant, Threshold Covenant, Covenant of Salt, same Scribner's imprints); other Kadesh-Barnea copies (one the London Hodder edition, catalogued as Scribner); A Lie Never Justifiable (PG 10591) and Hints on Child-Training (PG 57569), title pages not read"
+ },
+ "_excluded": {
+  "hctrumbull-other": "His biographies of other men (The Knightly Soldier, The Captured Scout, A Model Superintendent); The Story of Jonah, by James Shields Boyd"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hctrumbull-kadesh-barnea": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. clay trumbull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hctrumbull-blood-covenant": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. clay trumbull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hctrumbull-friendship": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. clay trumbull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hctrumbull-oriental-social-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. clay trumbull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hctrumbull-threshold-covenant": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. clay trumbull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hctrumbull-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. clay trumbull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hctrumbull-covenant-salt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. clay trumbull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

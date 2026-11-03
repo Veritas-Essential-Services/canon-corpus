@@ -1,0 +1,38 @@
+{
+ "_about": "James M. Freeman (1827-1900), Hand-book of Bible Manners and Customs; from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. US public domain.",
+ "_name_words": [
+  "freeman",
+  "james m. freeman"
+ ],
+ "_surname": [
+  "freeman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "freeman-bible-manners": [
+   "handbookofbiblem00freeuoft",
+   "Hand-book of Bible Manners and Customs (New York: Nelson & Phillips, 1875)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "freeman-bible-manners": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "freeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

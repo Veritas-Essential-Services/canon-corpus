@@ -1,0 +1,146 @@
+{
+ "_about": "Quintilian, Institutio Oratoria, in H. E. Butler's Loeb translation (1920-22), 4 vols., raw IA OCR; Latin facing. Each volume identified by its Books (I-III, IV-VI, VII-IX, X-XII).",
+ "_name_words": [
+  "quintilian",
+  "institutio",
+  "oratoria"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "quintilian-butler-v2": [
+   "institutioorator02quin",
+   "The Institutio Oratoria of Quintilian, vol. 2: Books IV-VI",
+   "tr. H. E. Butler"
+  ],
+  "quintilian-butler-v3": [
+   "institutioorator03quinuoft",
+   "The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX",
+   "tr. H. E. Butler"
+  ],
+  "quintilian-butler-v4": [
+   "institutioorator04quinuoft",
+   "The Institutio Oratoria of Quintilian, vol. 4: Books X-XII",
+   "tr. H. E. Butler"
+  ],
+  "quintilian-butler-v1-1921": [
+   "in.ernet.dli.2015.99822",
+   "The Institutio Oratoria of Quintilian, vol. 1: Books I-III (Loeb; imprint 'First printed 1921' [vol. I appeared 1920]; Latin facing)",
+   "2015.99822.The-Institutio-Oratoria-Of-Quintilianvol1_djvu.txt",
+   "tr. H. E. Butler"
+  ],
+  "quintilian-watson-v1-1903": [
+   "cu31924075437685",
+   "Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition)",
+   "tr. John Selby Watson"
+  ],
+  "quintilian-watson-v2-1856": [
+   "cu31924075437677",
+   "Quintilian's Institutes of Oratory, vol. II (Bohn, 1856)",
+   "tr. John Selby Watson"
+  ]
+ },
+ "_excluded": {
+  "institutioorator01quinuoft, institutioorator02quinuoft": "no text layer",
+  "William Guthrie, Quintilian's Institutes of the Orator (1774, 2 vols.)": "PD; the only scans found (IA bim_eighteenth-century_quintilians-institutes-_quintilian_1774_1 and _2, ECCO) read 0.753 and 0.759, under the bar; refused for OCR quality 2026-10-10"
+ },
+ "_surname": [
+  "quintilian",
+  "quintilianus"
+ ],
+ "_translators": {
+  "quintilian-butler-v2": "H. E. Butler",
+  "quintilian-butler-v3": "H. E. Butler",
+  "quintilian-butler-v4": "H. E. Butler",
+  "quintilian-butler-v1-1921": "H. E. Butler",
+  "quintilian-watson-v1-1903": "John Selby Watson"
+ },
+ "_checks": {
+  "quintilian-butler-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "H. E. Butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quintilian-butler-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "H. E. Butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quintilian-butler-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "H. E. Butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quintilian-butler-v1-1921": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "H. E. Butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."
+  },
+  "quintilian-watson-v1-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "John Selby Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quintilian-watson-v2-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_held": {
+  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III Vol. 1 is now held from a DLI scan without the addendum as quintilian-butler-v1-1921."
+ },
+ "_rights_checked": {
+  "quintilian-butler-v1-1921": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."
+ },
+ "_translator_unchecked": {
+  "quintilian-watson-v2-1856": "title page OCRs the name as 'JOHN SELBT ■W;ATS0N' (Bohn, 1856); the claim is not matched as written"
+ }
+}

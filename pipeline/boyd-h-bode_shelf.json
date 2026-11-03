@@ -1,0 +1,79 @@
+{
+ "_about": "Boyd Henry Bode (1873-1953), American pragmatist philosopher of education (Illinois, then Ohio State). Raw IA OCR: An Outline of Logic (Henry Holt, copyright 1910); Fundamentals of Education (Macmillan, 1921, this printing 1922); Modern Educational Theories (Macmillan, 1927); Conflicting Psychologies of Learning (D. C. Heath, 1929; the OCR reads the copyright year as '1920' and the title page carries none; a library accession stamp of 13 October 1930 shows the copy was printed by then). US public domain. No uids minted.",
+ "_author": "Boyd H. Bode",
+ "_name_words": [
+  "boyd",
+  "henry",
+  "bode"
+ ],
+ "_surname": [
+  "bode"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bode-outline-of-logic-1910": [
+   "outlineoflogic00bodeuoft",
+   "An Outline of Logic (Holt, 1910)"
+  ],
+  "bode-fundamentals-of-education-1921": [
+   "fundamentalsofed00bodeuoft",
+   "Fundamentals of Education (Macmillan, 1921; printing of 1922)"
+  ],
+  "bode-modern-educational-theories-1927": [
+   "moderneducationa0000boyd_u6c4",
+   "Modern Educational Theories (Macmillan, 1927)"
+  ],
+  "bode-conflicting-psychologies-of-learning-1929": [
+   "conflictingpsych00bode",
+   "Conflicting Psychologies of Learning (Heath, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bode-outline-of-logic-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bode",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bode-fundamentals-of-education-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bode",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922, c1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bode-modern-educational-theories-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bode",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bode-conflicting-psychologies-of-learning-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bode",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

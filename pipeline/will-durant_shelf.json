@@ -1,0 +1,63 @@
+{
+ "_about": "Will Durant (1885-1981), popular historian of philosophy. Gutenberg: Philosophy and the Social Problem (1917). Raw IA OCR: Transition, a sentimental story of one mind and one era (New York: Simon and Schuster, 1927), clean 0.93; The Mansions of Philosophy (New York, published May 1929; this copy the third printing, June 1929), clean 0.92. Held: The Story of Philosophy (1926), whose open scans are the 1933 revised edition and a later Garden City issue. US public domain. No uids minted.",
+ "_author": "Will Durant",
+ "_name_words": [
+  "will",
+  "william",
+  "durant"
+ ],
+ "_surname": [
+  "durant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "durant-philosophy-and-the-social-problem": [
+   42880,
+   "Philosophy and the Social Problem"
+  ]
+ },
+ "internet_archive": {
+  "durant-transition-1927": [
+   "transitionsentim0000will",
+   "Transition (Simon and Schuster, 1927)"
+  ],
+  "durant-mansions-of-philosophy-1929": [
+   "mansionsofphilos0000will_n3v4",
+   "The Mansions of Philosophy (1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "durant-philosophy-and-the-social-problem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "durant-transition-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "durant-mansions-of-philosophy-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "_about": "Asahel Nettleton (1783-1844), Connecticut evangelist of the Second Great Awakening and opponent of Finney's new measures: Bennet Tyler's Memoir of his Life and Character (2nd ed., Hartford: Robins and Smith, 1845) and the Remains, his sermons, outlines and remarks compiled by Tyler (Hartford: Robins and Smith, 1845). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "asahel nettleton",
+  "dr. nettleton",
+  "dr nettleton",
+  "a. nettleton"
+ ],
+ "_surname": [
+  "asahel nettleton",
+  "dr. nettleton",
+  "dr nettleton",
+  "a. nettleton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nettleton-memoir-1845": [
+   "memoiroflifech00tyle",
+   "Bennet Tyler, Memoir of the Life and Character of Rev. Asahel Nettleton, 2nd ed. (Hartford: Robins and Smith, 1845)"
+  ],
+  "nettleton-remains-1845": [
+   "remainsoflaterev00nett",
+   "Remains of the Late Rev. Asahel Nettleton, compiled by Bennet Tyler (Hartford: Robins and Smith, 1845)"
+  ]
+ },
+ "_alternates": {
+  "memoiroflifecha00tyle (Princeton), cu31924029461641 (1850), memoirlifeandch0*tylegoog": "Other printings of the Memoir.",
+  "nettletonhislabo00tyle (Edinburgh, 1854)": "Andrew Bonar's abridged British edition, Nettleton and his Labours.",
+  "remainslatereva0*tylegoog": "Google copies of the Remains."
+ },
+ "_excluded": {},
+ "_checks": {
+  "nettleton-memoir-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "asahel nettleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nettleton-remains-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "asahel nettleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

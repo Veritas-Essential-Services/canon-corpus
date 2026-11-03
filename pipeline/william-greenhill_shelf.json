@@ -1,0 +1,36 @@
+{
+ "_about": "William Greenhill (1591-1671), Westminster divine: An Exposition of the Prophet Ezekiel, with useful observations thereupon, revised by James Sherman (Edinburgh: Nichol, 1864). Nichol's single-volume edition. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "greenhill"
+ ],
+ "_surname": [
+  "greenhill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "greenhill-ezekiel": [
+   "expositionofprop00gree",
+   "An Exposition of the Prophet Ezekiel (Edinburgh: Nichol, 1864)"
+  ]
+ },
+ "_alternates": {
+  "anexpositionofth00greeuoft": "Toronto copy, title page dated 1863."
+ },
+ "_excluded": {
+  "bwb_S0-ATJ-863": "Lending-library scan."
+ },
+ "_checks": {
+  "greenhill-ezekiel": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "greenhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

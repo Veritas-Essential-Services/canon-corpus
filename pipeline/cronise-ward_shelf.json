@@ -1,0 +1,34 @@
+{
+ "_about": "Florence Cronise and Henry Ward's Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales (1903), tales from Sierra Leone set down in English. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Florence M. Cronise and Henry W. Ward",
+ "_name_words": [
+  "cunnie",
+  "rabbit",
+  "spider",
+  "african"
+ ],
+ "_surname": [
+  "florence m. cronise",
+  "henry w. ward"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cronise-cunnie-rabbit": [
+   48828,
+   "Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales (1903)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cronise-cunnie-rabbit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florence m. cronise",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

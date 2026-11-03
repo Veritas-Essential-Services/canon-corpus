@@ -1,0 +1,463 @@
+{
+ "_about": "Mrs. Humphry Ward's (Mary Augusta Ward) novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Mrs. Humphry Ward",
+ "_name_words": [
+  "ward"
+ ],
+ "_surname": [
+  "mrs. humphry ward"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hward-history-of-david-grieve": [
+   8076,
+   "The History of David Grieve",
+   {
+    "contents_only": true
+   }
+  ],
+  "hward-robert-elsmere": [
+   8737,
+   "Robert Elsmere"
+  ],
+  "hward-eleanor": [
+   9087,
+   "Eleanor"
+  ],
+  "hward-helbeck-of-bannisdale-volume-i": [
+   9441,
+   "Helbeck of Bannisdale — Volume I",
+   {
+    "contents_only": true
+   }
+  ],
+  "hward-helbeck-of-bannisdale-volume-ii": [
+   9442,
+   "Helbeck of Bannisdale — Volume II",
+   {
+    "contents_only": true
+   }
+  ],
+  "hward-coryston-family-a-novel": [
+   9507,
+   "The Coryston Family A Novel"
+  ],
+  "hward-case-of-richard-meynell": [
+   9614,
+   "The Case of Richard Meynell"
+  ],
+  "hward-sir-george-tressady-volume-i": [
+   9633,
+   "Sir George Tressady — Volume I"
+  ],
+  "hward-sir-george-tressady-volume-ii": [
+   9634,
+   "Sir George Tressady — Volume II"
+  ],
+  "hward-delia-blanchflower": [
+   9665,
+   "Delia Blanchflower"
+  ],
+  "hward-a-writers-recollections-volume-1": [
+   9820,
+   "A Writer's Recollections — Volume 1",
+   {
+    "contents_only": true
+   }
+  ],
+  "hward-a-writers-recollections-volume-2": [
+   9821,
+   "A Writer's Recollections — Volume 2"
+  ],
+  "hward-towards-the-goal": [
+   10099,
+   "Towards the Goal"
+  ],
+  "hward-story-of-bessie-costrell": [
+   12181,
+   "The Story of Bessie Costrell"
+  ],
+  "hward-fenwicks-career": [
+   12403,
+   "Fenwick's Career"
+  ],
+  "hward-missing": [
+   12908,
+   "Missing"
+  ],
+  "hward-helena": [
+   13071,
+   "Helena"
+  ],
+  "hward-a-great-success": [
+   13288,
+   "A Great Success"
+  ],
+  "hward-milly-and-olly": [
+   13337,
+   "Milly and Olly",
+   {
+    "contents_only": true
+   }
+  ],
+  "hward-miss-bretherton": [
+   13432,
+   "Miss Bretherton"
+  ],
+  "hward-testing-of-diana-mallory": [
+   13453,
+   "The Testing of Diana Mallory"
+  ],
+  "hward-lady-connie": [
+   13501,
+   "Lady Connie"
+  ],
+  "hward-elizabeths-campaign": [
+   13573,
+   "Elizabeth's Campaign"
+  ],
+  "hward-marcella": [
+   13728,
+   "Marcella"
+  ],
+  "hward-lady-roses-daughter": [
+   13782,
+   "Lady Rose's Daughter"
+  ],
+  "hward-harvest": [
+   13801,
+   "Harvest"
+  ],
+  "hward-lady-merton-colonist": [
+   13823,
+   "Lady Merton, Colonist"
+  ],
+  "hward-fields-of-victory": [
+   13827,
+   "Fields of Victory"
+  ],
+  "hward-marriage-of-william-ashe": [
+   14126,
+   "The Marriage of William Ashe"
+  ],
+  "hward-mating-of-lydia": [
+   14174,
+   "The Mating of Lydia"
+  ],
+  "hward-englands-effort": [
+   16089,
+   "England's effort"
+  ],
+  "hward-marriage-la-mode": [
+   20383,
+   "Marriage à la mode"
+  ],
+  "hward-bessie-costrell": [
+   22128,
+   "Bessie Costrell"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 24898: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "hward-history-of-david-grieve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-robert-elsmere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-eleanor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-helbeck-of-bannisdale-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-helbeck-of-bannisdale-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-coryston-family-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-case-of-richard-meynell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-sir-george-tressady-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-sir-george-tressady-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-delia-blanchflower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-a-writers-recollections-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-a-writers-recollections-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-towards-the-goal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-story-of-bessie-costrell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-fenwicks-career": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-missing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-helena": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-a-great-success": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-milly-and-olly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-miss-bretherton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-testing-of-diana-mallory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-lady-connie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-elizabeths-campaign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-marcella": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-lady-roses-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-harvest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-lady-merton-colonist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-fields-of-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-marriage-of-william-ashe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-mating-of-lydia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-englands-effort": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-marriage-la-mode": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hward-bessie-costrell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

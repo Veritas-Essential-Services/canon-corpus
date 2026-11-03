@@ -1,0 +1,86 @@
+{
+ "_about": "Margaret Hill McCarter: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Margaret Hill McCarter",
+ "_name_words": [
+  "hill",
+  "margaret",
+  "mccarter"
+ ],
+ "_surname": [
+  "margaret hill mccarter",
+  "mccarter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mhmccarter-masters-degree": [
+   1348,
+   "A Master's Degree"
+  ],
+  "mhmccarter-vanguards-of-the-plains": [
+   13345,
+   "Vanguards of the Plains: A Romance of the Old Santa Fé Trail"
+  ],
+  "mhmccarter-winning-the-wilderness": [
+   27505,
+   "Winning the Wilderness"
+  ],
+  "mhmccarter-price-of-the-prairie": [
+   31524,
+   "The Price of the Prairie: A Story of Kansas"
+  ],
+  "mhmccarter-reclaimers": [
+   33959,
+   "The Reclaimers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mhmccarter-masters-degree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret hill mccarter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhmccarter-vanguards-of-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret hill mccarter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhmccarter-winning-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret hill mccarter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhmccarter-price-of-the-prairie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret hill mccarter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhmccarter-reclaimers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret hill mccarter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

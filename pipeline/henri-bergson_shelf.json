@@ -1,0 +1,92 @@
+{
+ "_about": "Henri Bergson (1859-1941) in English: Matter and Memory, authorized translation by Nancy Margaret Paul and W. Scott Palmer (London: Swan Sonnenschein, 1911), An Introduction to Metaphysics, tr. T. E. Hulme (London: Macmillan, 1913), Mind-Energy, tr. H. Wildon Carr (New York: Holt, 1920), all raw IA OCR, and The Meaning of the War (1915; Gutenberg, the etext names no printing). US public domain. Laughter, Dreams, Creative Evolution and Time and Free Will are already on rothwell, singles-ideas and singles-ideas-3. No uids minted.",
+ "_author": "Henri Bergson",
+ "_name_words": [
+  "henri",
+  "h",
+  "bergson"
+ ],
+ "_surname": [
+  "bergson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bergson-meaning-of-the-war": [
+   17111,
+   "The Meaning of the War: life and matter in conflict (1915; the etext names no printing)"
+  ]
+ },
+ "internet_archive": {
+  "bergson-paul-palmer-matter-and-memory-1911": [
+   "mattermemor00berg",
+   "Matter and Memory (London: Swan Sonnenschein, 1911)",
+   "tr. Nancy Margaret Paul and W. Scott Palmer"
+  ],
+  "bergson-hulme-introduction-to-metaphysics-1913": [
+   "introductiontome0000henr_j7m6",
+   "An Introduction to Metaphysics (London: Macmillan, 1913)",
+   "tr. T. E. Hulme"
+  ],
+  "bergson-carr-mind-energy-1920": [
+   "cu31924014110708",
+   "Mind-Energy, lectures and essays (New York: Holt, 1920)",
+   "tr. H. Wildon Carr"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "bergson-paul-palmer-matter-and-memory-1911": "Palmer",
+  "bergson-hulme-introduction-to-metaphysics-1913": "Hulme",
+  "bergson-carr-mind-energy-1920": "Carr"
+ },
+ "_checks": {
+  "bergson-meaning-of-the-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bergson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bergson-paul-palmer-matter-and-memory-1911": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bergson",
+   "translator_claimed": "Palmer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bergson-hulme-introduction-to-metaphysics-1913": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bergson",
+   "translator_claimed": "Hulme",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bergson-carr-mind-energy-1920": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bergson",
+   "translator_claimed": "Carr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

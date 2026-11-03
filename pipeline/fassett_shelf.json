@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Jacob S. Fassett (1889-1973): Pío Baroja's Youth and Egolatry (with Mencken's introduction, 1920) and The City of the Discreet (1917). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "jacob s. fassett",
+  "fassett"
+ ],
+ "_surname": [
+  "jacob s. fassett",
+  "fassett"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fas-56324": [
+   56324,
+   "The city of the discreet"
+  ],
+  "fas-8148": [
+   8148,
+   "Youth and Egolatry"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "fassett-baroja-the-city-of-the-discreet": {
+   "source": "fas-56324",
+   "of": "Pío Baroja",
+   "work": "The city of the discreet",
+   "translated": "1917-1920 (see the Gutenberg header)",
+   "translator": "Jacob S. Fassett",
+   "scan_edition": "Project Gutenberg 56324 (clean text)"
+  },
+  "fassett-baroja-youth-and-egolatry": {
+   "source": "fas-8148",
+   "of": "Pío Baroja",
+   "work": "Youth and Egolatry",
+   "translated": "1917-1920 (see the Gutenberg header)",
+   "translator": "Jacob S. Fassett (with Frances L. Phillips)",
+   "scan_edition": "Project Gutenberg 8148 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fas-56324": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jacob s. fassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jacob S. Fassett"
+  },
+  "fas-8148": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jacob s. fassett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jacob S. Fassett; Frances L. Phillips"
+  }
+ },
+ "_verified": {
+  "fas-56324": {
+   "pg": 56324,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jacob S. Fassett"
+  },
+  "fas-8148": {
+   "pg": 8148,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jacob S. Fassett"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

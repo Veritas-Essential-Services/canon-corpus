@@ -1,0 +1,109 @@
+{
+ "_about": "Isabel Ostrander: Mystery novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Isabel Ostrander",
+ "_name_words": [
+  "ostrander"
+ ],
+ "_surname": [
+  "ostrander"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "iostrander-fifth-ace": [
+   23885,
+   "The Fifth Ace"
+  ],
+  "iostrander-crevice": [
+   29331,
+   "The Crevice"
+  ],
+  "iostrander-anything-once": [
+   30640,
+   "Anything Once"
+  ],
+  "iostrander-annihilation": [
+   72948,
+   "Annihilation"
+  ],
+  "iostrander-ashes-to-ashes": [
+   73155,
+   "Ashes to ashes"
+  ],
+  "iostrander-suspense": [
+   75240,
+   "Suspense"
+  ],
+  "iostrander-twenty-six-clues": [
+   77423,
+   "The twenty-six clues"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "iostrander-fifth-ace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostrander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iostrander-crevice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostrander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iostrander-anything-once": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostrander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iostrander-annihilation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostrander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iostrander-ashes-to-ashes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostrander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iostrander-suspense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostrander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iostrander-twenty-six-clues": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostrander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

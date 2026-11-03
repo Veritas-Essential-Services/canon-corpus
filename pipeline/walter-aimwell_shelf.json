@@ -1,0 +1,98 @@
+{
+ "_about": "Walter Aimwell: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Walter Aimwell",
+ "_name_words": [
+  "aimwell",
+  "walter"
+ ],
+ "_surname": [
+  "walter aimwell",
+  "aimwell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "waimwell-oscar": [
+   18153,
+   "Oscar; Or, The Boy Who Had His Own Way"
+  ],
+  "waimwell-whistler": [
+   67723,
+   "Whistler; or, The Manly Boy"
+  ],
+  "waimwell-marcus": [
+   67950,
+   "Marcus; or, The Boy-Tamer"
+  ],
+  "waimwell-clinton": [
+   72775,
+   "Clinton"
+  ],
+  "waimwell-jerry": [
+   74467,
+   "Jerry; or, the sailor boy ashore"
+  ],
+  "waimwell-jessie": [
+   75385,
+   "Jessie"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "waimwell-oscar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter aimwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waimwell-whistler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter aimwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waimwell-marcus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter aimwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waimwell-clinton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter aimwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waimwell-jerry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter aimwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waimwell-jessie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter aimwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

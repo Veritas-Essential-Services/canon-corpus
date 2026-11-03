@@ -1,0 +1,55 @@
+{
+ "_about": "César Malan (1787-1864), Genevan Réveil preacher and hymn-writer: The Baptized Family, or an inquiry into the condition of children in the Christian church, translated by R. J. Bryce (Belfast: Phillips, 1860), and the Life, Labours and Writings of Caesar Malan, by one of his sons (London: Nisbet, 1869). The Life quotes his writings at length but is his son's book. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "malan"
+ ],
+ "_surname": [
+  "malan"
+ ],
+ "_translators": {
+  "malan-baptized-family-1860": "Bryce"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "malan-baptized-family-1860": [
+   "baptizedfamilyor00mala",
+   "The Baptized Family, tr. Bryce (Belfast, 1860)"
+  ],
+  "malan-life-labours-1869": [
+   "lifelabourswriti00mala",
+   "The Life, Labours and Writings of Caesar Malan, by one of his sons (London: Nisbet, 1869)"
+  ]
+ },
+ "_alternates": {
+  "baptizedfamilyo00/01malagoog": "Google copies of the Baptized Family.",
+  "selectionoftract00mala (1836), gospelseedsorco00malagoog (1833), truecrossnarrati00mala (1867), tearsconsolation00mala (1849), lyraevangelicah00malagoog (1866)": "Tracts, narratives and hymns, not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "malan-baptized-family-1860": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "malan",
+   "translator_claimed": "Bryce",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "malan-life-labours-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "malan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

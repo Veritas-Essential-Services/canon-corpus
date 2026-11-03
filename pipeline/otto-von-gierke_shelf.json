@@ -1,0 +1,39 @@
+{
+ "_about": "Otto von Gierke (1841-1921), German legal historian: Political Theories of the Middle Age, a section of Das deutsche Genossenschaftsrecht, translated with an introduction by Frederic William Maitland (Cambridge: University Press, first edition 1900; this copy the 1913 reprint), raw IA OCR, clean 0.86. US public domain. No uids minted.",
+ "_author": "Otto von Gierke",
+ "_name_words": [
+  "otto",
+  "gierke"
+ ],
+ "_surname": [
+  "gierke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gierke-political-theories-middle-age-1900": [
+   "politicaltheorie00gieruoft",
+   "Political Theories of the Middle Age, tr. F. W. Maitland (Cambridge, 1900; reprint 1913)",
+   "F. W. Maitland"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "gierke-political-theories-middle-age-1900": "Maitland"
+ },
+ "_checks": {
+  "gierke-political-theories-middle-age-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gierke",
+   "translator_claimed": "Maitland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

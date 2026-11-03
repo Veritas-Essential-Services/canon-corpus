@@ -1,0 +1,94 @@
+{
+ "_about": "Public-domain George Thomas Stokes (1843-1898), professor of ecclesiastical history at Trinity College, Dublin, for the Word Hoard: Ireland and the Celtic Church, Ireland and the Anglo-Norman Church, The Acts of the Apostles (in the Expositor's Bible), and Some Worthies of the Irish Church. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 118 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george thomas stokes",
+  "george t. stokes",
+  "g. t. stokes",
+  "stokes"
+ ],
+ "_surname": [
+  "george thomas stokes",
+  "george t. stokes",
+  "g. t. stokes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gtstokes-celtic-church": [
+   "irelandandceltic00stokuoft",
+   "Ireland and the Celtic church : a history of Ireland from St. Patrick to the English conquest in 1172 (London : Hodder and Stoughton, 1886)"
+  ],
+  "gtstokes-anglo-norman": [
+   "irelandanglonorm00stokuoft",
+   "Ireland and the Anglo-Norman Church, a history of Ireland and Irish Christianity from the Anglo-Norman Conquest to the dawn of the Reformation (London, Hodder, 1889)"
+  ],
+  "gtstokes-acts-1": [
+   "expositorsbiblea0000mrge",
+   "The Acts of the Apostles, in the Expositor's Bible (New York: A. C. Armstrong & Son, 1893)"
+  ],
+  "gtstokes-worthies": [
+   "someworthies00stokuoft",
+   "Some worthies of the Irish Church : lectures delivered in the Divinity school of the University of Dublin (London : Hodder and Stoughton, 1900)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gtstokes-pococke": "Pococke's Tour in Ireland, which he only edited",
+  "gtstokes-literature": "studiesinlitera00edgoog (by another Stokes)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gtstokes-acts-1": "Title page (OCR): \"THE EXPOSITOR'S BIBLE EDITED BY THE REV. W. ROBERTSON NICOLL... THE ACTS OF THE APOSTLES BY THE REV. G[EO. T.] S[T]O[K]ES, D.D. NEW YORK A. C. ARMSTRONG & SON... 1893\"; the library label reads \"Stokes, George Thomas, 1843-1898\"."
+ },
+ "_pending": {
+  "gtstokes-acts-2": "The Acts of the Apostles (Expositor's Bible), a volume of uncertain number, IA theactsoftheapos00stokuoft: the record has no title or date and the OCR does not show which volume this \"New and Cheaper Edition\" scan is; needs a look at the title page"
+ },
+ "_translators": {},
+ "_checks": {
+  "gtstokes-celtic-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george t. stokes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gtstokes-anglo-norman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george t. stokes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gtstokes-acts-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "Jun 15, 1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gtstokes-worthies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george thomas stokes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

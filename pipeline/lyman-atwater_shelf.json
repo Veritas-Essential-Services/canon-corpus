@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Lyman Hotchkiss Atwater (1813-1883), Princeton professor of moral philosophy and editor of the Princeton Review, for the Word Hoard: The Completion of Two Centuries (1839), Death Disarmed of its Sting (1845), Manual of Elementary Logic (1867), the funeral discourse on Nathaniel Hewit (1867), the commemorative discourse on Charles Hodge (1878) and Notes on Metaphysics (1880), from Internet Archive scans. Added 2026-10-23 by lane A, round 54 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "atwater"
+ ],
+ "_surname": [
+  "lyman h. atwater",
+  "lyman hotchkiss atwater",
+  "l. h. atwater",
+  "lyman atwater"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "atwater-two-centuries": [
+   "completionoftwoc00atwa",
+   "The completion of two centuries (Bridgeport, Conn., Standard office, 1839)"
+  ],
+  "atwater-death-disarmed": [
+   "deathdisarmedofi00atwa",
+   "Death disarmed of its sting : a tribute to the memory of the Hon. Roger Minott Sherman, being the discourse preached at his funeral, January 2, 1845 (New Haven : Printed by B.L. Hamlen, 1845)"
+  ],
+  "atwater-elementary-logic": [
+   "manualofelementa00atwa",
+   "Manual of elementary logic (Philadelphia, J. B. Lippincott & co., 1867)"
+  ],
+  "atwater-nathaniel-hewit": [
+   "lifecharacterofn00atwa",
+   "The life and character of Nathaniel Hewit, D.D. : a discourse preached at his funeral, in the Presbyterian Church, Bridgeport, Conn., February 6, 1867 (New York : Printed by Edward O. Jenkins, 1867)"
+  ],
+  "atwater-charles-hodge": [
+   "discoursecommemo00atwa",
+   "A discourse commemorative of the late Dr. Charles Hodge. Delivered in the chapel of the College of New Jersey by request of the president, October 13th, and repeated in the First Presbyterian Church, Princeton, at the request of its session, October 20th, 1878 (Princeton, C. S. Robinson, printer, 1878)"
+  ],
+  "atwater-metaphysics": [
+   "notesonmetaphysi00atwa",
+   "Notes on metaphysics from lectures given by Lyman H. Atwater… (Princeton, N.J., 1880)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "atwater-other": "The Biblical Repertory and Princeton Review volumes he edited (journals, many authors); Future Paper Money (economics)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "atwater-two-centuries": "Title page OCR reads 'THE COMPLETION OF TWO CENTURIES; A DISCOURSE PREACHED IN FAIRFIELD ON THANKSGIVING DAY, NOVEMBER 28, 1839. BY liYHAlV H. ATWATER, PASTOR OF THE FIRST CHURCH IN FAIRFIELD' (Lyman garbled).",
+  "atwater-metaphysics": "Title page OCR reads 'NOTES ON METAPHYSICS FROM LECTURES GIVEN BY LYMAN HrATWATER, D. D., LLD. Compiled from Students' Notes ... PRINCETON, N. J. 1880' (space lost)."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "atwater-two-centuries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atwater-death-disarmed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyman h. atwater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atwater-elementary-logic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyman h. atwater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atwater-nathaniel-hewit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyman h. atwater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atwater-charles-hodge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyman h. atwater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atwater-metaphysics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

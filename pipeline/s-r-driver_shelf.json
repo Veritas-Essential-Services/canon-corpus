@@ -1,0 +1,255 @@
+{
+ "_about": "Public-domain S. R. Driver (Samuel Rolles Driver, 1846-1914, Regius Professor of Hebrew at Oxford) for the Word Hoard: 14 books from Internet Archive scans, 1887-1915, among them An Introduction to the Literature of the Old Testament (1891), the ICC Deuteronomy (1895), and his commentaries on Genesis, Exodus, Job, Daniel, Joel and Amos and the Minor Prophets. His Hebrew grammar work, his own Bible translations and the Brown-Driver-Briggs lexicon (already held as a lexicon) are left off. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "driver"
+ ],
+ "_surname": [
+  "s. r. driver",
+  "samuel rolles driver",
+  "driver, s. r.",
+  "driver, samuel rolles",
+  "s. r. driver, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "driver-critical-notes-1887": [
+   "criticalnotesoni00driv",
+   "Critical Notes on the International Sunday-School Lessons from the Pentateuch for 1887 (New York: Scribner's, 1887)"
+  ],
+  "driver-isaiah-life-times": [
+   "isaiahhislifetim00driv",
+   "Isaiah: His Life and Times, second edition, revised (London: James Nisbet; catalogued 1888)"
+  ],
+  "driver-intro-literature-ot": [
+   "introductiontolit00driv",
+   "An Introduction to the Literature of the Old Testament (New York: Scribner's, 1891)"
+  ],
+  "driver-sermons-ot": [
+   "sermonsonsubjec00driv",
+   "Sermons on Subjects Connected with the Old Testament (London, 1892)"
+  ],
+  "driver-icc-deuteronomy": [
+   "criticalexegetic05driv",
+   "A Critical and Exegetical Commentary on Deuteronomy, International Critical Commentary (New York: Scribner's, 1895)"
+  ],
+  "driver-joel-amos": [
+   "booksofjoelamosw00drivuoft",
+   "The Books of Joel and Amos, Cambridge Bible for Schools (Cambridge: University Press, 1897)"
+  ],
+  "driver-daniel": [
+   "bookdaniel00drivgoog",
+   "The Book of Daniel, Cambridge Bible (Cambridge: University Press, 1900)"
+  ],
+  "driver-genesis": [
+   "bookofgenesiswit00driv",
+   "The Book of Genesis, Westminster Commentaries (New York: E. S. Gorham; London: Methuen, 1904)"
+  ],
+  "driver-minor-prophets": [
+   "minorprophetsnah00driv",
+   "The Minor Prophets: Nahum to Malachi, Century Bible (Edinburgh: T. C. & E. C. Jack; catalogued 1906)"
+  ],
+  "driver-job-revised-version": [
+   "bwb_P9-AVG-129",
+   "The Book of Job in the Revised Version (Oxford: Clarendon Press, 1906)"
+  ],
+  "driver-modern-research": [
+   "modernresearchas00drivuoft",
+   "Modern Research as Illustrating the Bible, the Schweich Lectures 1908 (London: British Academy, 1909)"
+  ],
+  "driver-exodus": [
+   "bookofexodusinre00driv",
+   "The Book of Exodus in the Revised Version, Cambridge Bible (Cambridge: University Press, 1911)"
+  ],
+  "driver-ideals-of-prophets": [
+   "idealsoftheprop00drivuoft",
+   "The Ideals of the Prophets: sermons, with a bibliography of his writings (Edinburgh: T. & T. Clark, 1915)"
+  ],
+  "driver-studies-psalms": [
+   "studiesinpsalms00drivuoft",
+   "Studies in the Psalms, edited by C. F. Burney (London: Hodder & Stoughton, MCMXV)"
+  ]
+ },
+ "_alternates": {
+  "driver-copies": "Second copies: isaiahhislifetim00drivuoft (New York, Randolph), introduction00driv (Edinburgh, second edition, 1891), criticalexegetic00driv (Deuteronomy), bookofjobinrevis0000srdr (1908)",
+  "driver-translations": "His own translations: The Parallel Psalter (1898) and The Book of the Prophet Jeremiah, a revised translation (1906)",
+  "driver-hebrew": "A Treatise on the Use of the Tenses in Hebrew (1874, 1881) and Notes on the Hebrew Text of the Books of Samuel (1890, 1913): Hebrew language aids",
+  "driver-genesis-additions": "Additions and Corrections in the Seventh Edition of the Book of Genesis (1909; additionscorrect00driv)"
+ },
+ "_excluded": {
+  "driver-joint": "Brown-Driver-Briggs (held in the lexicons), ICC Job with G. B. Gray, Leviticus in the Polychrome Bible with H. A. White, The Higher Criticism with Kirkpatrick, Christianity and Other Religions with Sanday",
+  "driver-editions": "Mosheh ben Shesheth (1871), The Fifty-third Chapter of Isaiah (1877), Ibn Ezra on Proverbs (1880), his introduction to Delitzsch's Isaiah",
+  "driver-multi": "Authority and Archaeology (1899), Somervell's Parallel History (his introduction)",
+  "driver-namesakes": "John Merritte Driver, I. D. Driver, G. R. Driver",
+  "driver-late": "post-1930 printings"
+ },
+ "_identity_checked": {
+  "driver-intro-literature-ot": {
+   "author": "Title page read: 'S. R. Driver', OCR 'S. E. DEIVEE'; the name 'Driver' recurs in the volume; Scribner's, 1891"
+  }
+ },
+ "_rights_checked": {
+  "driver-isaiah-life-times": "title page read: London, James Nisbet, second edition revised; year not in the OCR lines read; catalogued 1888; author died 1914",
+  "driver-minor-prophets": "title page read: Century Bible, T. C. & E. C. Jack and Frowde; no year; catalogued 1906; author died 1914"
+ },
+ "_pending": {},
+ "_checks": {
+  "driver-critical-notes-1887": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-isaiah-life-times": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London, James Nisbet, second edition revised; year not in the OCR lines read; catalogued 1888; author died 1914"
+  },
+  "driver-intro-literature-ot": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-sermons-ot": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "driver-icc-deuteronomy": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-joel-amos": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-minor-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Century Bible, T. C. & E. C. Jack and Frowde; no year; catalogued 1906; author died 1914"
+  },
+  "driver-job-revised-version": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "driver-modern-research": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-exodus": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "driver-ideals-of-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "driver-studies-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "s. r. driver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

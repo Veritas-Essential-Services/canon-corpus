@@ -1,0 +1,695 @@
+{
+ "_about": "Mary Jane Holmes's domestic novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Mary Jane Holmes",
+ "_name_words": [
+  "holmes"
+ ],
+ "_surname": [
+  "mary jane holmes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mjholmes-cousin-maude": [
+   3619,
+   "Cousin Maude"
+  ],
+  "mjholmes-darkness-and-daylight": [
+   4721,
+   "Darkness and Daylight: A Novel"
+  ],
+  "mjholmes-rosamond": [
+   5990,
+   "Rosamond, or, the Youthful Error: A Tale of Riverside; And Other Stories"
+  ],
+  "mjholmes-dora-deane": [
+   6352,
+   "Dora Deane; Or, The East India Uncle"
+  ],
+  "mjholmes-aikenside": [
+   6954,
+   "Aikenside",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-maggie-miller": [
+   11280,
+   "Maggie Miller: The Story of Old Hagar's Secret",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-ethelyns-mistake": [
+   12104,
+   "Ethelyn's Mistake",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-lena-rivers": [
+   12835,
+   "'Lena Rivers",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-english-orphans": [
+   13878,
+   "The English Orphans; Or, A Home in the New World"
+  ],
+  "mjholmes-homestead-on-the-hillside": [
+   14089,
+   "Homestead on the Hillside"
+  ],
+  "mjholmes-bessies-fortune": [
+   15275,
+   "Bessie's Fortune: A Novel"
+  ],
+  "mjholmes-tracy-park": [
+   15321,
+   "Tracy Park: A Novel"
+  ],
+  "mjholmes-family-pride": [
+   15607,
+   "Family Pride; Or, Purified by Suffering"
+  ],
+  "mjholmes-cromptons": [
+   16138,
+   "The Cromptons"
+  ],
+  "mjholmes-miss-mcdonald": [
+   16150,
+   "Miss McDonald"
+  ],
+  "mjholmes-bad-hugh": [
+   16662,
+   "Bad Hugh",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-tempest-and-sunshine": [
+   17260,
+   "Tempest and Sunshine",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-rector-of-st-marks": [
+   19702,
+   "The Rector of St. Mark's"
+  ],
+  "mjholmes-daisy-thornton": [
+   37467,
+   "Daisy Thornton",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-jessie-graham": [
+   37476,
+   "Jessie Graham"
+  ],
+  "mjholmes-gretchen": [
+   40702,
+   "Gretchen: A Novel"
+  ],
+  "mjholmes-mrs-hallams-companion": [
+   69780,
+   "Mrs. Hallam's companion; and The Spring Farm, and other tales"
+  ],
+  "mjholmes-west-lawn-and-the-rector-of-st-marks": [
+   69785,
+   "West Lawn, and The rector of St. Mark's",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-christmas-stories": [
+   69800,
+   "Christmas stories"
+  ],
+  "mjholmes-rose-mather": [
+   69870,
+   "Rose Mather: A tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-cameron-pride": [
+   69954,
+   "The Cameron pride; or, purified by suffering",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-edna-browning": [
+   70021,
+   "Edna Browning;",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-millbank": [
+   70163,
+   "Millbank;",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-chateau-dor-norah-and-kitty-craig": [
+   70185,
+   "Chateau d'Or, Norah, and Kitty Craig",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-glens-creek": [
+   70191,
+   "Glen's Creek"
+  ],
+  "mjholmes-hugh-worthington": [
+   70234,
+   "Hugh Worthington",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-forrest-house": [
+   70473,
+   "Forrest House",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-queenie-hetherton": [
+   70474,
+   "Queenie Hetherton",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-edith-lyle": [
+   70808,
+   "Edith Lyle",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-marian-grey": [
+   70870,
+   "Marian Grey"
+  ],
+  "mjholmes-doctor-hatherns-daughters": [
+   70883,
+   "Doctor Hathern's daughters"
+  ],
+  "mjholmes-abandoned-farm-and-connies-mistake": [
+   70893,
+   "The abandoned farm, and Connie's mistake",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-tracy-diamonds": [
+   70966,
+   "The Tracy diamonds",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-mildred": [
+   70986,
+   "Mildred",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-maggie-lee": [
+   71099,
+   "Maggie Lee!",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-meadow-brook": [
+   71108,
+   "Meadow Brook",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-renas-experiment": [
+   74886,
+   "Rena's experiment",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-madeline": [
+   74902,
+   "Madeline",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-lucy-harding": [
+   74921,
+   "Lucy Harding"
+  ],
+  "mjholmes-merivale-banks": [
+   74929,
+   "The Merivale banks",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjholmes-paul-ralston": [
+   75309,
+   "Paul Ralston",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 79070: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "mjholmes-cousin-maude": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-darkness-and-daylight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-rosamond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-dora-deane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-aikenside": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-maggie-miller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-ethelyns-mistake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-lena-rivers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-english-orphans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-homestead-on-the-hillside": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-bessies-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-tracy-park": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-family-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-cromptons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-miss-mcdonald": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-bad-hugh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-tempest-and-sunshine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-rector-of-st-marks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-daisy-thornton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-jessie-graham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-gretchen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-mrs-hallams-companion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-west-lawn-and-the-rector-of-st-marks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-christmas-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-rose-mather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-cameron-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-edna-browning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-millbank": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-chateau-dor-norah-and-kitty-craig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-glens-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-hugh-worthington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-forrest-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-queenie-hetherton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-edith-lyle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-marian-grey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-doctor-hatherns-daughters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-abandoned-farm-and-connies-mistake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-tracy-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-mildred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-maggie-lee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-meadow-brook": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-renas-experiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-madeline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-lucy-harding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-merivale-banks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjholmes-paul-ralston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary jane holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

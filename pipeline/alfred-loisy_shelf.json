@@ -1,0 +1,100 @@
+{
+ "_about": "Public-domain Alfred Loisy (1857-1940, Catholic Modernist, excommunicated 1908) in English for the Word Hoard: The Gospel and the Church, tr. Christopher Home (1903, and the 1908 edition with George Tyrrell's memoir), The Religion of Israel, tr. Arthur Galton (1910), and My Duel with the Vatican, tr. Richard Wilson Boynton (1924), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "loisy"
+ ],
+ "_surname": [
+  "loisy",
+  "alfred loisy",
+  "alfred firmin loisy"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "loisy-gospel-church-1903": [
+   "cu31924029192859",
+   "The Gospel and the Church, tr. Christopher Home (London: Isbister, 1903)"
+  ],
+  "loisy-gospel-church-1908": [
+   "gospelchurch00loisuoft",
+   "The Gospel and the Church, new edition with prefatory memoir by George Tyrrell, tr. Christopher Home (London: Sir Isaac Pitman, 1908)"
+  ],
+  "loisy-religion-israel": [
+   "religionofisrae00lois",
+   "The Religion of Israel, tr. Arthur Galton (New York: G. P. Putnam's Sons, 1910)"
+  ],
+  "loisy-duel-vatican": [
+   "myduelwithvatica0000lois",
+   "My Duel with the Vatican, tr. Richard Wilson Boynton (New York: E. P. Dutton; title page undated, copyright 1924)"
+  ]
+ },
+ "_alternates": {
+  "loisy-copies": "Scribner issues of The Gospel and the Church (1904, 1909, 1912); other copies"
+ },
+ "_excluded": {
+  "loisy-later": "The Birth of the Christian Religion (1948); 1976 and 1988 reprints; Raven's 1939 Gospel and the Church"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "loisy-gospel-church-1903": "home",
+  "loisy-gospel-church-1908": "home",
+  "loisy-religion-israel": "galton",
+  "loisy-duel-vatican": "boynton"
+ },
+ "_checks": {
+  "loisy-gospel-church-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "loisy",
+   "translator_claimed": "home",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "loisy-gospel-church-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "loisy",
+   "translator_claimed": "home",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "loisy-religion-israel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "loisy",
+   "translator_claimed": "galton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "loisy-duel-vatican": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "loisy",
+   "translator_claimed": "boynton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

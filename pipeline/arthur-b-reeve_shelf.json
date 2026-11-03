@@ -1,0 +1,232 @@
+{
+ "_about": "Arthur B. Reeve's Craig Kennedy scientific detective stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur B. Reeve",
+ "_name_words": [
+  "arthur",
+  "benjamin",
+  "reeve"
+ ],
+ "_surname": [
+  "arthur b. reeve",
+  "arthur benjamin reeve",
+  "reeve"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abreeve-poisoned-pen": [
+   1923,
+   "The Poisoned Pen"
+  ],
+  "abreeve-silent-bullet": [
+   2454,
+   "The Silent Bullet"
+  ],
+  "abreeve-dream-doctor": [
+   5054,
+   "The Dream Doctor"
+  ],
+  "abreeve-war-terror": [
+   5073,
+   "The War Terror"
+  ],
+  "abreeve-treasure-train": [
+   5087,
+   "The Treasure-Train"
+  ],
+  "abreeve-romance-of-elaine-sequel-to-exploits-of-elaine": [
+   5094,
+   "The Romance of Elaine Sequel to \"Exploits of Elaine\""
+  ],
+  "abreeve-gold-of-the-gods": [
+   5149,
+   "Gold of the Gods"
+  ],
+  "abreeve-ear-in-the-wall": [
+   5150,
+   "The Ear in the Wall"
+  ],
+  "abreeve-exploits-of-elaine": [
+   5151,
+   "The Exploits of Elaine"
+  ],
+  "abreeve-guy-garrick": [
+   5163,
+   "Guy Garrick"
+  ],
+  "abreeve-constance-dunlap": [
+   5261,
+   "Constance Dunlap"
+  ],
+  "abreeve-film-mystery": [
+   5270,
+   "The Film Mystery"
+  ],
+  "abreeve-master-mystery": [
+   16168,
+   "The Master Mystery"
+  ],
+  "abreeve-social-gangster": [
+   33466,
+   "The Social Gangster"
+  ],
+  "abreeve-soul-scar": [
+   56902,
+   "The Soul Scar: A Craig Kennedy Scientific Mystery Novel"
+  ],
+  "abreeve-adventuress": [
+   73414,
+   "The adventuress"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 5007: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "abreeve-poisoned-pen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-silent-bullet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-dream-doctor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-war-terror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-treasure-train": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-romance-of-elaine-sequel-to-exploits-of-elaine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-gold-of-the-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-ear-in-the-wall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-exploits-of-elaine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-guy-garrick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-constance-dunlap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-film-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-master-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-social-gangster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-soul-scar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abreeve-adventuress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur b. reeve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

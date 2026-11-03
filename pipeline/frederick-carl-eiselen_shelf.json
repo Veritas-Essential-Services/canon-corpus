@@ -1,0 +1,134 @@
+{
+ "_about": "Public-domain Frederick Carl Eiselen, Methodist Old Testament scholar at Garrett Biblical Institute, for the Word Hoard: Sidon, The Worker and his Bible, Prophecy and the Prophets, The Christian View of the Old Testament, The Books of the Pentateuch, The Psalms and Other Sacred Writings, and The Prophetic Books of the Old Testament. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 132 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frederick carl eiselen",
+  "frederick c. eiselen",
+  "f. c. eiselen",
+  "eiselen"
+ ],
+ "_surname": [
+  "eiselen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eiselen-sidon": [
+   "sidon00eise",
+   "SIDON (NEW YORK, 1907)"
+  ],
+  "eiselen-worker-and-bible": [
+   "workerhisbible00eise",
+   "The worker and his Bible (Chicago, Ill., Board of Sunday schools of the Methodist Episcopal church, 1909)"
+  ],
+  "eiselen-prophecy-prophets": [
+   "prophecyprophets0000eise",
+   "Prophecy and the prophets in their historical relations (New York : Eaton & Mains, 1909)"
+  ],
+  "eiselen-christian-view-ot": [
+   "christianviewofo00eise",
+   "The Christian view of the Old Testament (New York : Methodist Book Concern, [c19)"
+  ],
+  "eiselen-pentateuch": [
+   "booksofpentateuc00eise",
+   "The books of the Pentateuch; their origin, contents, and significance (New York : Methodist Book Concern, [c19)"
+  ],
+  "eiselen-psalms": [
+   "psalmsothersacre00eiserich",
+   "The Psalms and other sacred writings, their origin, contents, and significance (New York, Cincinnati, The Methodist Book Concern, [c19)"
+  ],
+  "eiselen-prophetic-books": [
+   "propheticbooksof0000eise",
+   "The prophetic books of the Old Testament, their origin, contents, and significance (New York, Methodist Book Concern, 1923)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "eiselen-commentary": "the 1907 Commentary on the Old Testament scan is not certainly his",
+  "eiselen-dups": "microform and other scans of the same books",
+  "eiselen-articles": "single journal articles"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "eiselen-sidon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eiselen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eiselen-worker-and-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eiselen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "eiselen-prophecy-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eiselen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eiselen-christian-view-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eiselen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[c1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eiselen-pentateuch": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eiselen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "[c1916]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eiselen-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eiselen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "[c1918]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eiselen-prophetic-books": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eiselen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

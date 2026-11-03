@@ -1,0 +1,175 @@
+{
+ "_about": "Public-domain Louis Gaston de Ségur (1820-1881, Monseigneur, French apologist) in English for the Word Hoard: 8 books from Internet Archive scans, among them Plain Talk about the Protestantism of To-day (1868), The Freemasons (1869), Familiar Instructions (2 vols, 1878-1881), Short and Familiar Answers to Objections against Religion (1880) and On Holy Communion (1912). Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "segur",
+  "ségur"
+ ],
+ "_surname": [
+  "segur",
+  "ségur",
+  "de segur",
+  "de ségur"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "segur-plain-talk-protestantism": [
+   "plaintalkaboutpr00segu",
+   "Plain Talk about the Protestantism of To-day (Boston: Patrick Donahoe, 1868)"
+  ],
+  "segur-freemasons": [
+   "TheFreemasons",
+   "The Freemasons: What They Are, What They Do, What They Are Aiming At (Boston: Patrick Donahoe, 1869)"
+  ],
+  "segur-wonders-of-lourdes": [
+   "wondersoflourdes00seguuoft",
+   "The Wonders of Lourdes, tr. Anna T. Sadlier (New York: D. & J. Sadlier; copyright 1874)"
+  ],
+  "segur-familiar-instructions-1": [
+   "familiarinstruc01sggoog",
+   "Familiar Instructions and Evening Lectures on All the Truths of Religion, vol. I (London: Burns & Oates, 1878)"
+  ],
+  "segur-familiar-instructions-2": [
+   "familiarinstruc00sggoog",
+   "Familiar Instructions and Evening Lectures on All the Truths of Religion, vol. II (London: Burns & Oates, 1881)"
+  ],
+  "segur-short-answers": [
+   "shortfamiliarans00segu",
+   "Short and Familiar Answers to the Most Common Objections Urged against Religion (New York: P. O'Shea, 1880)"
+  ],
+  "segur-little-saint": [
+   "littlesaintofnin00sgur",
+   "A Little Saint of Nine Years, tr. Mary McMahon (New York: Benziger, 1881)"
+  ],
+  "segur-holy-communion": [
+   "onholycommunion00seguuoft",
+   "On Holy Communion, by a Benedictine of Princethorpe Priory (London: R. & T. Washbourne; imprimatur 1912)"
+  ]
+ },
+ "_alternates": {
+  "segur-copies": "Plain Talk (London, 1874); Short Answers ed. L. A. Lambert (1909); later Familiar Instructions"
+ },
+ "_excluded": {
+  "segur-other": "The Comtesse de Ségur, Philippe-Paul and Anatole de Ségur: other people",
+  "segur-about": "The Marquis de Ségur's life of him"
+ },
+ "_identity_checked": {
+  "segur-plain-talk-protestantism": {
+   "author": "title page read: 'FROM THE FRENCH [OF] MGR. SEG-UR' (OCR 'MOR. SEG-UR'), Boston, Patrick Donahoe, 1868"
+  },
+  "segur-familiar-instructions-1": {
+   "author": "title page read: 'BY MONSEIGNEUR DE SifiGUR' (OCR garble of Ségur), London, Burns & Oates, 1878"
+  },
+  "segur-familiar-instructions-2": {
+   "author": "title page read: 'BY MONSEIGNEUR DE SfeGUR' (OCR garble of Ségur), vol. II, London, Burns & Oates, 1881"
+  }
+ },
+ "_rights_checked": {
+  "segur-holy-communion": "title page read: no year; translated by 'A Benedictine of Princethorpe Priory'; imprimatur Westminster, 11 May 1912",
+  "segur-short-answers": "title page read: publisher line garbled, No. 37 Barclay Street, 1880; copyright 1880 by P. O'Shea"
+ },
+ "_pending": {
+  "segur-piety": "Piety and the Interior Life as a whole: not found in English"
+ },
+ "_translators": {
+  "segur-wonders-of-lourdes": "sadlier",
+  "segur-little-saint": "mcmahon"
+ },
+ "_checks": {
+  "segur-plain-talk-protestantism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "segur-freemasons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "segur-wonders-of-lourdes": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segur",
+   "translator_claimed": "sadlier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "segur-familiar-instructions-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "segur-familiar-instructions-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "segur-short-answers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: publisher line garbled, No. 37 Barclay Street, 1880; copyright 1880 by P. O'Shea"
+  },
+  "segur-little-saint": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segur",
+   "translator_claimed": "mcmahon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "segur-holy-communion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no year; translated by 'A Benedictine of Princethorpe Priory'; imprimatur Westminster, 11 May 1912"
+  }
+ }
+}

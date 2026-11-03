@@ -1,0 +1,124 @@
+{
+ "_about": "J. M. Robertson (1856-1933), Scottish rationalist, historian of freethought and Liberal politician. Gutenberg: Montaigne and Shakspere (1897); Rationalism (1912); The Evolution of States (1912); A Short History of Christianity (second edition, 1913); A Short History of Freethought, vol. 1 (third edition, 1915); A Short History of Freethought, vol. 2 (third edition, 1915); The Historical Jesus (1916); The Jesus Problem (1917). Left out: the life of Bradlaugh, whose main author is Hypatia Bradlaugh Bonner. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "J. M. Robertson",
+ "_name_words": [
+  "john",
+  "mackinnon",
+  "robertson"
+ ],
+ "_surname": [
+  "j. m. robertson",
+  "robertson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "robertson-montaigne-and-shakspere": [
+   25535,
+   "Montaigne and Shakspere (1897)"
+  ],
+  "robertson-rationalism": [
+   31941,
+   "Rationalism (1912)"
+  ],
+  "robertson-evolution-of-states": [
+   39860,
+   "The Evolution of States (1912)"
+  ],
+  "robertson-short-history-of-christianity": [
+   52550,
+   "A Short History of Christianity (second edition, 1913)"
+  ],
+  "robertson-short-history-freethought-1": [
+   51793,
+   "A Short History of Freethought, vol. 1 (third edition, 1915)"
+  ],
+  "robertson-short-history-freethought-2": [
+   52160,
+   "A Short History of Freethought, vol. 2 (third edition, 1915)"
+  ],
+  "robertson-historical-jesus": [
+   51655,
+   "The Historical Jesus (1916)"
+  ],
+  "robertson-jesus-problem": [
+   53616,
+   "The Jesus Problem (1917)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "robertson-montaigne-and-shakspere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-rationalism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-evolution-of-states": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-short-history-of-christianity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-short-history-freethought-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-short-history-freethought-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-historical-jesus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-jesus-problem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. m. robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

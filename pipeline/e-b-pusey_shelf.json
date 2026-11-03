@@ -1,0 +1,78 @@
+{
+ "_about": "Public-domain E. B. Pusey (1800-1882, Regius Professor of Hebrew at Oxford, a leader of the Oxford Movement) for the Word Hoard: The Minor Prophets with a commentary (Oxford: Parker, catalogued 1860), Daniel the Prophet (1868) and Lenten Sermons (1874), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "p/pusey",
+ "_name_words": [
+  "pusey",
+  "edward",
+  "bouverie"
+ ],
+ "_surname": [
+  "edward bouverie pusey",
+  "e. b. pusey",
+  "dr. pusey",
+  "pusey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pusey-minor-prophets-1860": [
+   "a547289200puseuoft",
+   "The Minor Prophets, with a Commentary Explanatory and Practical (Oxford: J. H. and J. Parker; catalogued 1860)",
+   "a547289200puseuoft.txt"
+  ],
+  "pusey-daniel-1868": [
+   "a604991500puseuoft",
+   "Daniel the Prophet: Nine Lectures Delivered in the Divinity School of the University of Oxford (Oxford: J. Parker, 1868)"
+  ],
+  "pusey-lenten-sermons-1874": [
+   "a605295900puseuoft",
+   "Lenten Sermons, Preached Chiefly to Young Men at the Universities (Oxford: J. Parker, 1874)"
+  ]
+ },
+ "_alternates": {
+  "pusey": "his single printed sermons (many, saint_marys_college); later printings of Daniel and the Lenten Sermons"
+ },
+ "_excluded": {
+  "pusey-christian-faith-atonement": "christianfaithan00unknuoft: sermons by several preachers",
+  "pusey-solemn-subjects-1845": "courseofsermonso00puseuoft: refused by the identity gate (Pusey's name never appears); A Course of Sermons on Solemn Subjects was preached by several clergy, so not his alone"
+ },
+ "_checks": {
+  "pusey-minor-prophets-1860": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pusey-daniel-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-lenten-sermons-1874": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_pending": {
+  "pusey-nine-sermons-1879": "ninesermonspr00puseuoft: the item offers no text file at all; another copy not yet found"
+ }
+}

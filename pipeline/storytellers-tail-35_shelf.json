@@ -1,0 +1,527 @@
+{
+ "_about": "Storytellers' tail, group 35: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Mainwaring George Jacson, Henry B. James, C. V. Jamison, Myra Williams Jarrell, James Jackson Jarves, Stinson Jarvis, W. M. L. Jay, Edward Jenkins, Tudor Jenks, G. Lindsay Johnson, Virginia W. Johnson, David E. Johnston, Alice Ilgenfritz Jones, Erasmus W. Jones, Jenkins Lloyd Jones, John A. Joyce, David Wright Judd, Mary Catherine Judd, Henry F. Keenan, J. J. Kellogg, Walden Kelly, R. Emmet Kennedy, Coulson Kernahan, James Harvey Kidd, Daniel P. Kidder, Henry Martyn Kieffer, Grace Elizabeth King, Anna Bonus Kingsford, J. R. Kinnear, William Kirby. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 35 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "mgjacson-record-of-a-regiment-of-the-line": [
+   "mainwaring george jacson",
+   "jacson"
+  ],
+  "hbjames-memories-of-the-civil-war": [
+   "henry b. james"
+  ],
+  "cvjamison-lady-jane": [
+   "c. v. jamison",
+   "cecilia viets jamison",
+   "jamison"
+  ],
+  "mwjarrell-meg-of-valencia": [
+   "myra williams jarrell",
+   "jarrell"
+  ],
+  "jjjarves-kiana": [
+   "james jackson jarves",
+   "jarves"
+  ],
+  "sjarvis-geoffrey-hampstead": [
+   "stinson jarvis",
+   "jarvis"
+  ],
+  "wmljay-holden-with-the-cords": [
+   "w. m. l. jay"
+  ],
+  "ejenkins-ginx-s-baby": [
+   "edward jenkins",
+   "jenkins"
+  ],
+  "tjenks-century-world-s-fair-book-for-boys-and-girls-being-th": [
+   "tudor jenks",
+   "jenks"
+  ],
+  "gljohnson-weird-adventures-of-professor-delapine-of-the-sorb": [
+   "g. lindsay johnson",
+   "george lindsay johnson",
+   "johnson"
+  ],
+  "vwjohnson-cricket-s-friends": [
+   "virginia w. johnson",
+   "virginia wales johnson",
+   "johnson"
+  ],
+  "dejohnston-story-of-a-confederate-boy-in-the-civil-war": [
+   "david e. johnston",
+   "david emmons johnston",
+   "johnston"
+  ],
+  "aijones-unveiling-a-parallel": [
+   "alice ilgenfritz jones"
+  ],
+  "ewjones-young-captives": [
+   "erasmus w. jones"
+  ],
+  "jljones-artilleryman-s-diary": [
+   "jenkins lloyd jones"
+  ],
+  "jajoyce-shakspere-personal-recollections": [
+   "john a. joyce",
+   "john alexander joyce",
+   "joyce"
+  ],
+  "dwjudd-story-of-the-thirty-third-n-y-s-vols": [
+   "david wright judd"
+  ],
+  "mcjudd-classic-myths": [
+   "mary catherine judd"
+  ],
+  "hfkeenan-iron-game": [
+   "henry f. keenan",
+   "henry francis keenan",
+   "keenan"
+  ],
+  "jjkellogg-war-experiences-and-the-story-of-the-vicksburg-cam": [
+   "j. j. kellogg",
+   "john jackson kellogg",
+   "kellogg"
+  ],
+  "wkelly-historic-sketch-lest-we-forget-company-e-26th-ohio-in": [
+   "walden kelly",
+   "kelly"
+  ],
+  "rekennedy-gritny-people": [
+   "r. emmet kennedy",
+   "robert emmet kennedy",
+   "kennedy"
+  ],
+  "ckernahan-thirteenth-man": [
+   "coulson kernahan",
+   "kernahan"
+  ],
+  "jhkidd-personal-recollections-of-a-cavalryman-with-custer-s": [
+   "james harvey kidd"
+  ],
+  "dpkidder-five-giants": [
+   "daniel p. kidder",
+   "daniel parish kidder",
+   "kidder"
+  ],
+  "hmkieffer-recollections-of-a-drummer-boy": [
+   "henry martyn kieffer",
+   "kieffer"
+  ],
+  "geking-balcony-stories": [
+   "grace elizabeth king"
+  ],
+  "abkingsford-dreams-and-dream-stories": [
+   "anna bonus kingsford",
+   "kingsford"
+  ],
+  "jrkinnear-history-of-the-eighty-sixth-regiment-illinois-volu": [
+   "j. r. kinnear",
+   "john r. kinnear",
+   "kinnear"
+  ],
+  "wkirby-golden-dog": [
+   "william kirby",
+   "kirby"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "mgjacson-record-of-a-regiment-of-the-line": [
+   15972,
+   "The record of a regiment of the line"
+  ],
+  "hbjames-memories-of-the-civil-war": [
+   68723,
+   "Memories of the Civil War"
+  ],
+  "cvjamison-lady-jane": [
+   71709,
+   "Lady Jane"
+  ],
+  "mwjarrell-meg-of-valencia": [
+   40926,
+   "Meg, of Valencia"
+  ],
+  "jjjarves-kiana": [
+   60066,
+   "Kiana: a Tradition of Hawaii"
+  ],
+  "sjarvis-geoffrey-hampstead": [
+   34611,
+   "Geoffrey Hampstead: A Novel"
+  ],
+  "wmljay-holden-with-the-cords": [
+   56980,
+   "Holden with the Cords"
+  ],
+  "ejenkins-ginx-s-baby": [
+   581,
+   "Ginx's Baby: His Birth and Other Misfortunes; a Satire"
+  ],
+  "tjenks-century-world-s-fair-book-for-boys-and-girls-being-th": [
+   59681,
+   "The Century World's Fair Book for Boys and Girls Being the Adventures of Harry and Philip with Their Tutor, Mr. Douglass, at the World's Columbian Exposition"
+  ],
+  "gljohnson-weird-adventures-of-professor-delapine-of-the-sorb": [
+   56713,
+   "The Weird Adventures of Professor Delapine of the Sorbonne"
+  ],
+  "vwjohnson-cricket-s-friends": [
+   37147,
+   "The Cricket's Friends: Tales Told by the Cricket, Teapot, and Saucepan"
+  ],
+  "dejohnston-story-of-a-confederate-boy-in-the-civil-war": [
+   44889,
+   "The Story of a Confederate Boy in the Civil War"
+  ],
+  "aijones-unveiling-a-parallel": [
+   42816,
+   "Unveiling a Parallel: A Romance"
+  ],
+  "ewjones-young-captives": [
+   12792,
+   "The Young Captives: A Story of Judah and Babylon"
+  ],
+  "jljones-artilleryman-s-diary": [
+   33211,
+   "An Artilleryman's Diary"
+  ],
+  "jajoyce-shakspere-personal-recollections": [
+   20487,
+   "Shakspere, Personal Recollections"
+  ],
+  "dwjudd-story-of-the-thirty-third-n-y-s-vols": [
+   68232,
+   "The story of the Thirty-third N. Y. S. Vols"
+  ],
+  "mcjudd-classic-myths": [
+   9855,
+   "Classic Myths"
+  ],
+  "hfkeenan-iron-game": [
+   10062,
+   "The Iron Game: A Tale of the War"
+  ],
+  "jjkellogg-war-experiences-and-the-story-of-the-vicksburg-cam": [
+   40233,
+   "War Experiences and the Story of the Vicksburg Campaign from \"Milliken's Bend\" to July 4, 1863 being an accurate and graphic account of campaign events taken from the diary of Capt. J.J. Kellogg, of Co. B 113th Illinois volunteer infantry"
+  ],
+  "wkelly-historic-sketch-lest-we-forget-company-e-26th-ohio-in": [
+   32015,
+   "A Historic Sketch, Lest We Forget Company \"E,\" 26th Ohio Infantry in the War for the Union, 1861-65"
+  ],
+  "rekennedy-gritny-people": [
+   74941,
+   "Gritny people"
+  ],
+  "ckernahan-thirteenth-man": [
+   69024,
+   "The Thirteenth Man"
+  ],
+  "jhkidd-personal-recollections-of-a-cavalryman-with-custer-s": [
+   29608,
+   "Personal Recollections of a Cavalryman With Custer's Michigan Cavalry Brigade in the Civil War"
+  ],
+  "dpkidder-five-giants": [
+   33299,
+   "The Five Giants"
+  ],
+  "hmkieffer-recollections-of-a-drummer-boy": [
+   44970,
+   "The Recollections of a Drummer-Boy"
+  ],
+  "geking-balcony-stories": [
+   11514,
+   "Balcony Stories"
+  ],
+  "abkingsford-dreams-and-dream-stories": [
+   5651,
+   "Dreams and Dream Stories"
+  ],
+  "jrkinnear-history-of-the-eighty-sixth-regiment-illinois-volu": [
+   24906,
+   "History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its term of service"
+  ],
+  "wkirby-golden-dog": [
+   2735,
+   "The Golden Dog"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mgjacson-record-of-a-regiment-of-the-line": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mainwaring george jacson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbjames-memories-of-the-civil-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry b. james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cvjamison-lady-jane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. v. jamison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwjarrell-meg-of-valencia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myra williams jarrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjjarves-kiana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james jackson jarves",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjarvis-geoffrey-hampstead": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stinson jarvis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmljay-holden-with-the-cords": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. l. jay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ejenkins-ginx-s-baby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tjenks-century-world-s-fair-book-for-boys-and-girls-being-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tudor jenks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gljohnson-weird-adventures-of-professor-delapine-of-the-sorb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. lindsay johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vwjohnson-cricket-s-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virginia w. johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dejohnston-story-of-a-confederate-boy-in-the-civil-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david e. johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aijones-unveiling-a-parallel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice ilgenfritz jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewjones-young-captives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "erasmus w. jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jljones-artilleryman-s-diary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jenkins lloyd jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jajoyce-shakspere-personal-recollections": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john a. joyce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwjudd-story-of-the-thirty-third-n-y-s-vols": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david wright judd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcjudd-classic-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary catherine judd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfkeenan-iron-game": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry f. keenan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjkellogg-war-experiences-and-the-story-of-the-vicksburg-cam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. j. kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wkelly-historic-sketch-lest-we-forget-company-e-26th-ohio-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walden kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rekennedy-gritny-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. emmet kennedy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ckernahan-thirteenth-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "coulson kernahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhkidd-personal-recollections-of-a-cavalryman-with-custer-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james harvey kidd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dpkidder-five-giants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel p. kidder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmkieffer-recollections-of-a-drummer-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry martyn kieffer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geking-balcony-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace elizabeth king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abkingsford-dreams-and-dream-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna bonus kingsford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrkinnear-history-of-the-eighty-sixth-regiment-illinois-volu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. r. kinnear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wkirby-golden-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william kirby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

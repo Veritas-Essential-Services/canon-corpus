@@ -1,0 +1,53 @@
+{
+ "_about": "John Hooper (d. 1555), Bishop of Gloucester and Worcester. Named john-hooper, not hooper, so another Hooper cannot collide. The target is the Parker Society edition (2 vols, Cambridge 1843 and 1852; ed. Samuel Carr, then Charles Nevinson), Internet Archive OCR, raw; each title page read. The Early Writings come from an Allen County scan because Toronto's copy returned HTTP 500 on its text file three times on 2026-10-03. No CCEL or Gutenberg Hooper exists.",
+ "_name_words": [
+  "hooper"
+ ],
+ "_surname": [
+  "hooper"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hooper-ps-early": [
+   "earlywritingsofj0026hoop",
+   "Early Writings of John Hooper, ed. Samuel Carr (Parker Society, Cambridge, 1843)"
+  ],
+  "hooper-ps-later": [
+   "laterwritingsofb25hoopuoft",
+   "Later Writings of Bishop Hooper, with his Letters, ed. Charles Nevinson (Parker Society, Cambridge, 1852)"
+  ]
+ },
+ "_alternates": {
+  "earlywritingsofj24hoopuoft": "Toronto scan of the Early Writings: text file returned HTTP 500 three times on 2026-10-03; the Allen County scan is held instead.",
+  "laterwritingsofb0021hoop": "Claremont scan of the later volume.",
+  "laterwritingsbi00nevigoog, laterwritingsbi00hoopgoog": "Google scans of the later volume."
+ },
+ "_excluded": {
+  "Mrs. Hooper Hooper and the Hindu; Johnson J. Hooper": "Different authors."
+ },
+ "_checks": {
+  "hooper-ps-early": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hooper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooper-ps-later": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hooper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

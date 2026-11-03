@@ -1,0 +1,66 @@
+{
+ "_about": "The Wodrow Society's collective volumes: The Miscellany of the Wodrow Society, vol. 1, ed. David Laing (Edinburgh, 1844), and Select Biographies, ed. W. K. Tweedie (2 vols, 1845-1847), lives of John Welsh, Patrick Simson, John Livingstone (his autobiography), David Dickson, William Guthrie, James Fraser of Brea (his memoirs) and John Nisbet, among others. The name check looks for the Society's name. The Society's authored volumes have their own shelves (john-knox, calderwood, john-row, robert-blair, james-melville, rollock, robert-bruce). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "wodrow"
+ ],
+ "_surname": [
+  "wodrow"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wodrow-miscellany-1": [
+   "miscellanyofwodr01wodr",
+   "The Miscellany of the Wodrow Society: tracts and original letters, chiefly relating to the Church of Scotland, ed. David Laing (Wodrow Society, Edinburgh, 1844), vol. 1"
+  ],
+  "wodrow-select-biographies-1": [
+   "selectbiographies01twee",
+   "Select Biographies, ed. W. K. Tweedie (Wodrow Society, Edinburgh, 1845-1847), vol. 1"
+  ],
+  "wodrow-select-biographies-2": [
+   "selectbiographies02twee",
+   "Select Biographies, ed. W. K. Tweedie (Wodrow Society, Edinburgh, 1845-1847), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "miscellanyofwodr01lain, miscellanywodro00laingoog, miscellanywodro0[01]edingoog": "Other scans of the Miscellany.",
+  "selectbiographi01twee, selectbiographi02twee, selectbiographi00socigoog": "Other copies of Select Biographies."
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_checks": {
+  "wodrow-miscellany-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wodrow-select-biographies-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1845-1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-select-biographies-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1845-1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

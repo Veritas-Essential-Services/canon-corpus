@@ -1,0 +1,92 @@
+{
+ "_about": "Public-domain John Frederick Schroeder (1800-1857), Episcopal minister of Trinity Church, New York, for the Word Hoard: The Great Man in Israel (on Bishop Hobart), a plea for the industrious poor, The Intellectual and Moral Resources of Horticulture, and the memoir of Mary Anna Boardman. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 110 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john frederick schroeder",
+  "john f. schroeder",
+  "j. f. schroeder",
+  "schroeder"
+ ],
+ "_surname": [
+  "john frederick schroeder",
+  "john f. schroeder",
+  "schroeder"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jfschroeder-horticulture": [
+   "intellectualmora00schr",
+   "The intellectual and moral resources of horticulture (New York, [E. Conrad, printer], 1828)"
+  ],
+  "jfschroeder-great-man": [
+   "greatmaninisrael00schr",
+   "The great man in Israel : a discourse on the character of the Right Reverend John Henry Hobart, D. D., delivered in Trinity Church, and St. Paul's and St. John's Chapels, in the city of New-York, September, A.D. MDCCCXXX [1830] (New-York : Printed at the Protestant Episcopal Press, 1830)"
+  ],
+  "jfschroeder-industrious-poor": [
+   "pleaforindustrio00schr",
+   "Plea for the industrious poor and strangers, in sickness : an address delivered at the opening of an edifice erected by the trustees of the New-York D (New York : Printed at the Protestant Episcopal Press, 1830)"
+  ],
+  "jfschroeder-boardman": [
+   "memoiroflifechar00schr",
+   "Memoir of the life and character of Mrs. Mary Anna Boardman, with a historical account of her forefathers, and biographical and genealogical notices of many of her kindred and relatives (New Haven, Printed for private distribution, 1849)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jfschroeder-maxims": "Maxims of Washington (maximsofwashingt00wash): Washington's own words, which Schroeder only compiled"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "jfschroeder-washington": "Life and times of Washington: containing a particular account of national principles and events, and of the illustrious men of the revolution, vol. 02 (New York : Johnson, Fry, and Company, 1857), IA lifetimeswashcon02schrrich: text file returned a server error",
+  "jfschroeder-hobart-memorial": "Memorial of Bishop Hobart. A collection of sermons on the death of the Right Reverend John Henry Hobart, with a memoir of his life and writings (New York, T. and J. Swords, 1831), IA memorialofbishop00schr: sermons by several preachers on Hobart's death, which he collected with a memoir (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "jfschroeder-horticulture": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john frederick schroeder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jfschroeder-great-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john frederick schroeder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfschroeder-industrious-poor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john frederick schroeder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jfschroeder-boardman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john frederick schroeder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain Thieleman Janszoon van Braght (1625-1664), Mennonite minister of Dordrecht, for the Word Hoard: the Martyrs Mirror (The Bloody Theatre) in English, in the Lancaster County translation of 1837 and the Elkhart translation of 1886, from Internet Archive scans. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "braght",
+  "bracht"
+ ],
+ "_surname": [
+  "van braght",
+  "braght",
+  "van bracht"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "braght-martyrs-mirror-1837": [
+   "TheBloodyTheater",
+   "The bloody theatre, or, Martyr's mirror, of the defenceless Christians, who suffered and were put to death for the testimony of Jesus, their Savior, from the time of Christ until the year 1660 (Lancster county, Pa. Published by David Miller, 1837)"
+  ],
+  "braght-martyrs-mirror-1886": [
+   "bloodytheatreorm00brag",
+   "The bloody theatre, or Martyr's mirror (catalogued 1886)"
+  ]
+ },
+ "_alternates": {
+  "braght-copies": "The 1887 printing"
+ },
+ "_excluded": {
+  "braght-other": "Dutch and German editions (1736, 1745, 1780); the 1850 Baptist Martyrology (another work); the modern 2013 reprint"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "braght-martyrs-mirror-1837": "title page text: 'The Bloody Theatre, or Martyrs' Mirror ... published in the Dutch language, by Thielem J. von Bracht. Carefully translated into the German; from which it is translated ... by I. Daniel Rupp ... Lancaster County, Pa. 1837' (the OCR reads the surname as 'BBACHT')"
+ },
+ "_pending": {},
+ "_translators": {
+  "braght-martyrs-mirror-1837": "Rupp",
+  "braght-martyrs-mirror-1886": "Sohm"
+ },
+ "_checks": {
+  "braght-martyrs-mirror-1837": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Rupp",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "braght-martyrs-mirror-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van braght",
+   "translator_claimed": "Sohm",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

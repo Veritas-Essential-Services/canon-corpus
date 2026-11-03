@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: Count S. C. de Soissons: Sienkiewicz's So Runs the World (1898), Orzeszkowa's An Obscure Apostle (1899) and Kraszewski's The Countess Cosel and Count Brühl (1901). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "de soissons",
+  "count de soissons"
+ ],
+ "_surname": [
+  "de soissons",
+  "count de soissons"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "soi-10546": [
+   10546,
+   "So Runs the World"
+  ],
+  "soi-28400": [
+   28400,
+   "An Obscure Apostle: A Dramatic Story"
+  ],
+  "soi-37623": [
+   37623,
+   "The Countess Cosel: A Romance of History of the Times of Augustus the Strong"
+  ],
+  "soi-37624": [
+   37624,
+   "Count Brühl"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "soissons-kraszewski-count-bruhl": {
+   "source": "soi-37624",
+   "of": "Józef Ignacy Kraszewski",
+   "work": "Count Brühl",
+   "translated": "1898-1901 (see the Gutenberg header)",
+   "translator": "Count S. C. de Soissons",
+   "scan_edition": "Project Gutenberg 37624 (clean text)"
+  },
+  "soissons-kraszewski-the-countess-cosel-a-romance-of-history": {
+   "source": "soi-37623",
+   "of": "Józef Ignacy Kraszewski",
+   "work": "The Countess Cosel: A Romance of History of the Times of Augustus the Strong",
+   "translated": "1898-1901 (see the Gutenberg header)",
+   "translator": "Count S. C. de Soissons",
+   "scan_edition": "Project Gutenberg 37623 (clean text)"
+  },
+  "soissons-orzeszkowa-an-obscure-apostle-a-dramatic-story": {
+   "source": "soi-28400",
+   "of": "Eliza Orzeszkowa",
+   "work": "An Obscure Apostle: A Dramatic Story",
+   "translated": "1898-1901 (see the Gutenberg header)",
+   "translator": "Count S. C. de Soissons",
+   "scan_edition": "Project Gutenberg 28400 (clean text)"
+  },
+  "soissons-sienkiewicz-so-runs-the-world": {
+   "source": "soi-10546",
+   "of": "Henryk Sienkiewicz",
+   "work": "So Runs the World",
+   "translated": "1898-1901 (see the Gutenberg header)",
+   "translator": "Count S. C. de Soissons",
+   "scan_edition": "Project Gutenberg 10546 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "soi-10546": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "de soissons",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Count de Soissons"
+  },
+  "soi-28400": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "de soissons",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Count de Soissons"
+  },
+  "soi-37623": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "de soissons",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Count de Soissons"
+  },
+  "soi-37624": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "de soissons",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Count de Soissons"
+  }
+ },
+ "_verified": {
+  "soi-10546": {
+   "pg": 10546,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Count de Soissons"
+  },
+  "soi-28400": {
+   "pg": 28400,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Count de Soissons"
+  },
+  "soi-37623": {
+   "pg": 37623,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Count de Soissons"
+  },
+  "soi-37624": {
+   "pg": 37624,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Count de Soissons"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,138 @@
+{
+ "_about": "Hesiod in English: Hugh G. Evelyn-White's prose translation, Hesiod, the Homeric Hymns and Homerica (Loeb, 1914), public domain, one volume. Gutenberg text, English only (the Loeb's facing Greek is not in it). The volume also carries the Homeric Hymns, the Epigrams, the Contest of Homer and Hesiod and the Homerica fragments; they are kept with the volume as Evelyn-White published them, and would cross-reference a Homer section if one is built. Elton's verse Hesiod (2nd ed., 1815, with Chapman's Works and Days), clean Gutenberg, added 2026-10-02.",
+ "_name_words": [
+  "hesiod",
+  "homeric",
+  "homerica"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hesiod-evelyn-white": [
+   348,
+   "Hesiod, the Homeric Hymns, and Homerica",
+   "tr. Hugh G. Evelyn-White (1914)"
+  ],
+  "hesiod-elton": [
+   66350,
+   "The Remains of Hesiod the Ascraean, Including the Shield of Hercules",
+   "tr. Charles Abraham Elton (with George Chapman's Works and Days)"
+  ]
+ },
+ "internet_archive": {
+  "hesiod-cooke-1728-v1": [
+   "bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_1",
+   "The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 1",
+   "tr. Thomas Cooke ('Mr. Cooke' on the title page)"
+  ],
+  "hesiod-cooke-1728-v2": [
+   "bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_2",
+   "The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 2",
+   "tr. Thomas Cooke ('Mr. Cooke' on the title page)"
+  ],
+  "hesiod-mair-1908": [
+   "hesiodpoemsandf01mairgoog",
+   "Hesiod: the Poems and Fragments done into English Prose (Oxford: Clarendon Press, 1908)",
+   "tr. A. W. Mair"
+  ],
+  "hesiod-banks-bohn-1856": [
+   "workshesiodcall01frergoog",
+   "The Works of Hesiod, Callimachus, and Theognis, literally translated into English prose, with the metrical translations of Elton, Tytler and Frere appended (Bohn's Classical Library, MDCCCLVI)",
+   "tr. J. Banks (prose); verse by Charles Abraham Elton, James Tytler and John Hookham Frere"
+  ]
+ },
+ "_excluded": {
+  "Loeb 1914 scans on Internet Archive": "same translation with the Greek facing; Gutenberg's clean English preferred"
+ },
+ "_surname": [
+  "hesiod"
+ ],
+ "_translators": {
+  "hesiod-evelyn-white": "Hugh G. Evelyn-White",
+  "hesiod-elton": "Charles Abraham Elton",
+  "hesiod-cooke-1728-v1": "Thomas Cooke",
+  "hesiod-cooke-1728-v2": "Thomas Cooke",
+  "hesiod-mair-1908": "A. W. Mair",
+  "hesiod-banks-bohn-1856": "J. Banks"
+ },
+ "_checks": {
+  "hesiod-evelyn-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "Hugh G. Evelyn-White",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hugh G. Evelyn-White",
+   "translator_match": true
+  },
+  "hesiod-elton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "Charles Abraham Elton",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": "George Chapman; Sir Charles Abraham Elton",
+   "translator_match": true
+  },
+  "hesiod-cooke-1728-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "Thomas Cooke",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hesiod-cooke-1728-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "Thomas Cooke",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hesiod-mair-1908": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "A. W. Mair",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hesiod-banks-bohn-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "J. Banks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

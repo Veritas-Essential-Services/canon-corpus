@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain John Scott Lidgett (1854-1953), Wesleyan Methodist theologian and founder of the Bermondsey Settlement, for the Word Hoard: The Spiritual Principle of the Atonement, The Fatherhood of God, The Christian Religion, Apostolic Ministry, God in Christ Jesus, and Methodism in the Modern World. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 96 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. scott lidgett",
+  "john scott lidgett",
+  "j. s. lidgett",
+  "lidgett"
+ ],
+ "_surname": [
+  "j. scott lidgett",
+  "john scott lidgett",
+  "j. s. lidgett",
+  "lidgett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lidgett-atonement": [
+   "spiritualprincip0000lidg",
+   "The spiritual principle of the atonement : as a satisfaction made to God for the sins of the world (Cincinnati : Jennings & Graham, 1897)"
+  ],
+  "lidgett-fatherhood": [
+   "fatherhoodofgodi0000lidg",
+   "The fatherhood of God in Christian truth and life (Edinburgh, T. & T. Clark, 1902)"
+  ],
+  "lidgett-christian-religion": [
+   "christianreligio00lidguoft",
+   "The Christian religion, its meaning and proof (London, Culley, 1907)"
+  ],
+  "lidgett-apostolic-ministry": [
+   "apostolicministr00lidgiala",
+   "Apostolic ministry : sermons and addresses (London : C.H. Kelly, [190)"
+  ],
+  "lidgett-god-in-christ": [
+   "godinchristjesus0000jsco",
+   "God in Christ Jesus (catalogued 1915)"
+  ],
+  "lidgett-methodism": [
+   "methodisminmoder0000lidg",
+   "Methodism in the modern world (London, The Epworth Press [etc.], 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "lidgett-reunion": "Towards Reunion (1919, many authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lidgett-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. scott lidgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lidgett-fatherhood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. scott lidgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lidgett-christian-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. scott lidgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lidgett-apostolic-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. scott lidgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "[1909?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lidgett-god-in-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. scott lidgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lidgett-methodism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. scott lidgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

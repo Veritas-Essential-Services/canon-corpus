@@ -1,0 +1,41 @@
+{
+ "_about": "Legends of Vancouver: the Squamish legends Chief Joe Capilano told E. Pauline Johnson, in her retelling (copyright 1911; this printing 1913). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "E. Pauline Johnson",
+ "_name_words": [
+  "johnson"
+ ],
+ "_surname": [
+  "pauline johnson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pauline-legends-of-vancouver": [
+   28483,
+   "Legends of Vancouver",
+   {
+    "levels": [
+     {
+      "re": "(?i:[\\W_]*(?:A[\\W_]*Squamish[\\W_]*Legend[\\W_]*of[\\W_]*Napoleon|The[\\W_]*Lure[\\W_]*in[\\W_]*Stanley[\\W_]*Park|A[\\W_]*Royal[\\W_]*Mohawk[\\W_]*Chief|The[\\W_]*Lost[\\W_]*Salmon[\\W_]*Run|The[\\W_]*Tulameen[\\W_]*Trail|The[\\W_]*Grey[\\W_]*Archway|Deadman[\\W_]*s[\\W_]*Island|The[\\W_]*Two[\\W_]*Sisters|The[\\W_]*Siwash[\\W_]*Rock|The[\\W_]*Deep[\\W_]*Waters|The[\\W_]*Sea[\\W_]*Serpent|The[\\W_]*Lost[\\W_]*Island|The[\\W_]*Recluse|Point[\\W_]*Grey|Deer[\\W_]*Lake)[\\W_]*)$"
+     }
+    ],
+    "start": "The Two Sisters$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pauline-legends-of-vancouver-3478": "PG 3478, an undated Gutenberg transcription of Legends of Vancouver: checked 2026-10-03, 332 of its 360 long paragraphs (92%) are in PG 28483 (copyright 1911, 1913 printing), which is kept as the dated edition; held once"
+ },
+ "_checks": {
+  "pauline-legends-of-vancouver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pauline johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

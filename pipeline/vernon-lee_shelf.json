@@ -1,0 +1,137 @@
+{
+ "_about": "Vernon Lee (1856-1935), pen name of Violet Paget, English aesthetician and essayist; her fiction is left out of this shelf. Gutenberg: Belcaro, essays on sundry aesthetical questions (1881); Euphorion, vol. I (1884); Euphorion, vol. II (1884); Renaissance Fancies and Studies (1895); Limbo, and Other Essays (1897; with Ariadne in Mantua); Hortus Vitae (1904); The Spirit of Rome (1906); Laurus Nobilis, chapters on art and life (1909); The Beautiful, an introduction to psychological aesthetics (1913). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Vernon Lee",
+ "_name_words": [
+  "vernon",
+  "lee",
+  "violet",
+  "paget"
+ ],
+ "_surname": [
+  "vernon lee"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "vlee-belcaro": [
+   32337,
+   "Belcaro, essays on sundry aesthetical questions (1881)"
+  ],
+  "vlee-euphorion-1": [
+   31303,
+   "Euphorion, vol. I (1884)"
+  ],
+  "vlee-euphorion-2": [
+   31304,
+   "Euphorion, vol. II (1884)"
+  ],
+  "vlee-renaissance-fancies": [
+   30693,
+   "Renaissance Fancies and Studies (1895)"
+  ],
+  "vlee-limbo": [
+   37179,
+   "Limbo, and Other Essays (1897; with Ariadne in Mantua)"
+  ],
+  "vlee-hortus-vitae": [
+   26800,
+   "Hortus Vitae (1904)"
+  ],
+  "vlee-spirit-of-rome": [
+   27873,
+   "The Spirit of Rome (1906)"
+  ],
+  "vlee-laurus-nobilis": [
+   27939,
+   "Laurus Nobilis, chapters on art and life (1909)"
+  ],
+  "vlee-the-beautiful": [
+   26942,
+   "The Beautiful, an introduction to psychological aesthetics (1913)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "vlee-belcaro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-euphorion-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-euphorion-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-renaissance-fancies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-limbo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-hortus-vitae": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-spirit-of-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-laurus-nobilis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlee-the-beautiful": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vernon lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

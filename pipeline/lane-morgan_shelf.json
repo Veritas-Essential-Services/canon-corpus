@@ -1,0 +1,31 @@
+{
+ "_about": "George Martin Lane (1823-1897): A Latin Grammar for Schools and Colleges, completed after his death by Morris Hicky Morgan (1859-1910) (copyright 1898, 1903), clean Gutenberg. Classical scholarship, reference (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "lane",
+  "morgan"
+ ],
+ "_surname": [
+  "george martin lane",
+  "g. m. lane",
+  "lane, george martin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lane-latin-grammar": [
+   44653,
+   "A Latin Grammar for Schools and Colleges"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "lane-latin-grammar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george martin lane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

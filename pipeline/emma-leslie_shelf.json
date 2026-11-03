@@ -1,0 +1,266 @@
+{
+ "_about": "Emma Leslie's historical stories of the church for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Emma Leslie",
+ "_name_words": [
+  "emma",
+  "leslie"
+ ],
+ "_surname": [
+  "emma leslie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eleslie-hayslope-grange": [
+   19136,
+   "Hayslope Grange: A Tale of the Civil War"
+  ],
+  "eleslie-kates-ordeal": [
+   20307,
+   "Kate's ordeal"
+  ],
+  "eleslie-sailors-lass": [
+   21797,
+   "A sailor's lass"
+  ],
+  "eleslie-that-scholarship-boy": [
+   26104,
+   "That scholarship boy"
+  ],
+  "eleslie-charleys-log": [
+   61457,
+   "Charley's Log: A Story of Schoolboy Life"
+  ],
+  "eleslie-at-the-sign-of-the-golden-fleece": [
+   71012,
+   "At the \"Sign of the Golden Fleece\""
+  ],
+  "eleslie-brought-out-of-peril": [
+   71190,
+   "Brought out of peril"
+  ],
+  "eleslie-brave-bessie-westland": [
+   71477,
+   "Brave Bessie Westland"
+  ],
+  "eleslie-gypsy-against-her-will": [
+   73098,
+   "A gypsy against her will"
+  ],
+  "eleslie-saved-by-love": [
+   73224,
+   "Saved by love"
+  ],
+  "eleslie-eric-a-waif": [
+   73792,
+   "Eric, a waif"
+  ],
+  "eleslie-elsies-scholarship": [
+   73829,
+   "Elsie's scholarship"
+  ],
+  "eleslie-seed-she-sowed": [
+   74190,
+   "The seed she sowed"
+  ],
+  "eleslie-arthurs-inheritance": [
+   74276,
+   "Arthur's inheritance"
+  ],
+  "eleslie-dangerous-friend": [
+   74683,
+   "A dangerous friend"
+  ],
+  "eleslie-millys-errand": [
+   74703,
+   "Milly's errand"
+  ],
+  "eleslie-hettys-garden-party-and-what-came-of-it": [
+   76619,
+   "Hetty's garden-party, and what came of it"
+  ],
+  "eleslie-hidden-seed": [
+   76694,
+   "Hidden seed"
+  ],
+  "eleslie-esthers-triumph": [
+   79169,
+   "Esther's triumph"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "eleslie-hayslope-grange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-kates-ordeal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-sailors-lass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-that-scholarship-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-charleys-log": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-at-the-sign-of-the-golden-fleece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-brought-out-of-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-brave-bessie-westland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-gypsy-against-her-will": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-saved-by-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-eric-a-waif": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-elsies-scholarship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-seed-she-sowed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-arthurs-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-dangerous-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-millys-errand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-hettys-garden-party-and-what-came-of-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-hidden-seed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleslie-esthers-triumph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain T. De Witt Talmage (1832-1902), preacher of the Brooklyn Tabernacle and editor of The Christian Herald, for the Word Hoard: Crumbs Swept Up (1870), The Abominations of Modern Society (1872), The Brooklyn Tabernacle Sermons (1872), Around the Tea-Table (1874), Every-Day Religion (1875), New Tabernacle Sermons (1886) and From Manger to Throne (1893), from Internet Archive scans. Most of his sermon books were taken down by reporters and revised; each is flagged. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "talmage"
+ ],
+ "_surname": [
+  "t. de witt talmage",
+  "t. dewitt talmage",
+  "de witt talmage",
+  "talmage"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tdtalmage-crumbs-swept-up": [
+   "crumbssweptup00talm",
+   "Crumbs Swept Up (Philadelphia: Evans, Stoddart, 1870)"
+  ],
+  "tdtalmage-abominations": [
+   "abominationsofmo00talm",
+   "The Abominations of Modern Society (New York: Adams, Victor, 1872)"
+  ],
+  "tdtalmage-tabernacle-sermons": [
+   "sermons00talm",
+   "Sermons delivered in the Brooklyn Tabernacle (New York: Harper & Brothers, 1872)"
+  ],
+  "tdtalmage-around-tea-table": [
+   "aroundteatable01talm",
+   "Around the Tea-Table (Philadelphia: Cowperthwait, 1874)"
+  ],
+  "tdtalmage-every-day-religion": [
+   "everydayreligion1875talm",
+   "Every-Day Religion: Sermons Delivered in the Brooklyn Tabernacle, revised from phonographic reports (New York: Harper & Brothers, 1875)"
+  ],
+  "tdtalmage-new-tabernacle": [
+   "newtabernacleser00talm",
+   "New Tabernacle Sermons, publication authorized (New York: E. B. Treat, 1886)"
+  ],
+  "tdtalmage-manger-to-throne": [
+   "frommangertothr00talm",
+   "From Manger to Throne, embracing a new Life of Jesus the Christ and a History of Palestine (Philadelphia: Historical Publishing Company, 1893)"
+  ]
+ },
+ "_alternates": {
+  "tdtalmage-copies": "PG 13104 (Abominations, no publisher); PG 14139 (Munro's New Tabernacle Sermons, 1886); PG 14662 (a later Tea-Table); PG 22343 (The Wedding Ring, 1896); Old Wells Dug Out (London 1875; Funk & Wagnalls 1886)"
+ },
+ "_excluded": {
+  "tdtalmage-other": "T. De Witt Talmage as I Knew Him (1912, finished by Mrs. Talmage); anthologies; extract books compiled by others; books by James E. Talmage"
+ },
+ "_rights_checked": {
+  "tdtalmage-every-day-religion": "title page read: 'revised from phonographic reports'; the Tabernacle and New Tabernacle sermons are likewise reporters' texts he authorized"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tdtalmage-crumbs-swept-up": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. de witt talmage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tdtalmage-abominations": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. de witt talmage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdtalmage-tabernacle-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. de witt talmage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tdtalmage-around-tea-table": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. de witt talmage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tdtalmage-every-day-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. de witt talmage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'revised from phonographic reports'; the Tabernacle and New Tabernacle sermons are likewise reporters' texts he authorized"
+  },
+  "tdtalmage-new-tabernacle": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. de witt talmage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tdtalmage-manger-to-throne": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. dewitt talmage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

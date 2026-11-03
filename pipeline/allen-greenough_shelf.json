@@ -1,0 +1,32 @@
+{
+ "_about": "Joseph Henry Allen (1820-1898) and James Bradstreet Greenough (1833-1901): Latin Grammar Founded on Comparative Grammar, revised edition (Boston: Ginn, 1887; entered for copyright 1877), raw IA OCR at 0.80. Classical scholarship, reference (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "allen",
+  "greenough"
+ ],
+ "_surname": [
+  "greenough",
+  "allen and greenough"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "allen-greenough-latin-grammar-1887": [
+   "latingrammar00greegoog",
+   "Latin Grammar Founded on Comparative Grammar, revised edition (Boston: Ginn, 1887)"
+  ]
+ },
+ "_checks": {
+  "allen-greenough-latin-grammar-1887": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "greenough",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

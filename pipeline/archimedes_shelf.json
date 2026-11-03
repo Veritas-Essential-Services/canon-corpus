@@ -1,0 +1,106 @@
+{
+ "_about": "Archimedes in T. L. Heath's editions, raw IA OCR: The Works of Archimedes (Cambridge, 1897) and its supplement The Method of Archimedes (1912). Apollonius of Perga's Conics in Heath's edition (1896) is here too, as the same editor's companion volume. Lydia G. Robinson's English of Heiberg's German edition of the Method, Geometrical Solutions Derived from Mechanics, clean Gutenberg (the Gutenberg file is LaTeX source).",
+ "_name_words": [
+  "archimedes",
+  "method",
+  "mechanics",
+  "conic",
+  "apollonius"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "archimedes-method-robinson": [
+   7825,
+   "Geometrical Solutions Derived from Mechanics: a Treatise of Archimedes",
+   "tr. Lydia G. Robinson from Heiberg's German"
+  ]
+ },
+ "internet_archive": {
+  "archimedes-heath-works": [
+   "worksofarchimede00arch",
+   "The Works of Archimedes (1897)",
+   "ed. and tr. T. L. Heath"
+  ],
+  "archimedes-heath-method": [
+   "methodofarchimed00arch",
+   "The Method of Archimedes, a supplement to the Works (1912)",
+   "ed. and tr. T. L. Heath"
+  ],
+  "apollonius-perga-heath-conics": [
+   "treatiseonconics00apolrich",
+   "Apollonius of Perga, Treatise on Conic Sections (1896)",
+   "ed. T. L. Heath"
+  ]
+ },
+ "_excluded": {
+  "worksofarchimede029517mbp": "second scan of the 1897 Works, slightly lower OCR",
+  "Heath, Archimedes (PG 35550)": "a short study, not a translation; not taken"
+ },
+ "_surname": [
+  "archimedes"
+ ],
+ "_translators": {
+  "archimedes-method-robinson": "lydia g. robinson",
+  "archimedes-heath-method": "thomas l. heath",
+  "apollonius-perga-heath-conics": "t. l. heath"
+ },
+ "_checks": {
+  "archimedes-method-robinson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archimedes",
+   "translator_claimed": "lydia g. robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archimedes-heath-works": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archimedes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "archimedes-heath-method": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archimedes",
+   "translator_claimed": "thomas l. heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "apollonius-perga-heath-conics": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apollonius of perga",
+   "translator_claimed": "t. l. heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_translator_unchecked": {
+  "archimedes-heath-works": "the OCR garbles the title page ('rE 1. HEATH'); 'heath' alone is a common word and proves nothing"
+ },
+ "_surname_by_slug": {
+  "apollonius-perga-heath-conics": [
+   "apollonius of perga",
+   "perga"
+  ]
+ }
+}

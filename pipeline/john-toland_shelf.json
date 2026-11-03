@@ -1,0 +1,33 @@
+{
+ "_about": "John Toland (1670-1722), deist and pantheist: Pantheisticon, or the form of celebrating the Socratic-Society, 'written originally in Latin ... and now for the first time faithfully rendered into English' (London: Sam. Paterson; the imprint year is not legible in the OCR, 1751 per the library catalogue), raw IA OCR, clean 0.82. Held: Christianity not Mysterious (1696 scan, OCR 0.719) and Letters to Serena (1704 scan, OCR 0.752), both under the gate. US public domain. No uids minted.",
+ "_author": "John Toland",
+ "_name_words": [
+  "john",
+  "toland"
+ ],
+ "_surname": [
+  "toland"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "toland-pantheisticon-1751": [
+   "cu31924029188393",
+   "Pantheisticon, first English translation (London: Sam. Paterson; year not legible, 1751 per catalogue)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "toland-pantheisticon-1751": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "toland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

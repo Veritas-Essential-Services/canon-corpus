@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain Gerhard Uhlhorn (1826-1901, Abbot of Loccum) in English for the Word Hoard: The Modern Representations of the Life of Jesus, tr. Charles E. Grinnell (1868), The Conflict of Christianity with Heathenism, tr. Egbert C. Smyth and C. J. H. Ropes (1879), and Christian Charity in the Ancient Church, tr. Sophia Taylor (1883), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "uhlhorn"
+ ],
+ "_surname": [
+  "uhlhorn",
+  "gerhard uhlhorn",
+  "g. uhlhorn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "uhlhorn-modern-representations": [
+   "modernrepresenta00uhlh",
+   "The Modern Representations of the Life of Jesus, tr. Charles E. Grinnell (Boston: Little, Brown, 1868)"
+  ],
+  "uhlhorn-conflict-heathenism": [
+   "conflictofchrist00uhlh",
+   "The Conflict of Christianity with Heathenism, ed. and tr. Egbert C. Smyth and C. J. H. Ropes (New York: Scribner, 1879)"
+  ],
+  "uhlhorn-christian-charity": [
+   "christiancharity00uhlh",
+   "Christian Charity in the Ancient Church, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1883)"
+  ]
+ },
+ "_alternates": {
+  "uhlhorn-copies": "Conflict revised editions (1886-1908); Charity (Scribner, 1883)"
+ },
+ "_excluded": {
+  "uhlhorn-german": "Catholicism and the Hanoverian Church History: German, despite English titles on IA"
+ },
+ "_identity_checked": {
+  "uhlhorn-christian-charity": {
+   "author": "title page read: 'G. UHLHOEN, Dr. Theol., Abbot of Loccum' (OCR garble of Uhlhorn), Edinburgh, T. & T. Clark, 1883"
+  }
+ },
+ "_rights_checked": {
+  "uhlhorn-modern-representations": "title page read: translated by 'CHARLES E. GRINKELL' (OCR garble of Grinnell); Boston, Little, Brown, 1868"
+ },
+ "_pending": {},
+ "_translators": {
+  "uhlhorn-conflict-heathenism": "smyth",
+  "uhlhorn-christian-charity": "taylor"
+ },
+ "_checks": {
+  "uhlhorn-modern-representations": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "uhlhorn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translated by 'CHARLES E. GRINKELL' (OCR garble of Grinnell); Boston, Little, Brown, 1868"
+  },
+  "uhlhorn-conflict-heathenism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "uhlhorn",
+   "translator_claimed": "smyth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "uhlhorn-christian-charity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

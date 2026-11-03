@@ -1,0 +1,44 @@
+{
+ "_about": "Sir James Steuart (1712-1780), Scottish political economist. Gutenberg: An Inquiry into the Principles of Political Oeconomy, vol. 1 (1767); An Inquiry into the Principles of Political Oeconomy, vol. 2 (1767). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Sir James Steuart",
+ "_name_words": [
+  "james",
+  "steuart"
+ ],
+ "_surname": [
+  "steuart"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "steuart-principles-political-oeconomy-1": [
+   60411,
+   "An Inquiry into the Principles of Political Oeconomy, vol. 1 (1767)"
+  ],
+  "steuart-principles-political-oeconomy-2": [
+   66710,
+   "An Inquiry into the Principles of Political Oeconomy, vol. 2 (1767)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "steuart-principles-political-oeconomy-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steuart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "steuart-principles-political-oeconomy-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "steuart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

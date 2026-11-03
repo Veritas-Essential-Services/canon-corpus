@@ -1,0 +1,74 @@
+{
+ "_about": "Johann Eduard Erdmann (1805-1892), raw IA OCR: A History of Philosophy, English translation edited by Williston S. Hough (London: Swan Sonnenschein; New York: Macmillan, 1890, 3 vols.: ancient and mediaeval; modern; German philosophy since Hegel). US public domain. No uids minted.",
+ "_author": "Johann Eduard Erdmann",
+ "_name_words": [
+  "johann",
+  "eduard",
+  "j",
+  "e",
+  "erdmann"
+ ],
+ "_surname": [
+  "erdmann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "erdmann-hough-history-1890-v1": [
+   "historyofphiloso01erdm",
+   "A History of Philosophy, vol. I: ancient and mediaeval philosophy (London: Swan Sonnenschein, 1890)",
+   "ed. Williston S. Hough"
+  ],
+  "erdmann-hough-history-1890-v2": [
+   "historyofphiloso02erdm_0",
+   "A History of Philosophy, vol. II: modern philosophy (London: Swan Sonnenschein, 1890)",
+   "ed. Williston S. Hough"
+  ],
+  "erdmann-hough-history-1890-v3": [
+   "historyofphiloso03erdm_0",
+   "A History of Philosophy, vol. III: German philosophy since Hegel (London: Swan Sonnenschein, 1890)",
+   "ed. Williston S. Hough"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "erdmann-hough-history-1890-v3": "Hough"
+ },
+ "_checks": {
+  "erdmann-hough-history-1890-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "erdmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "erdmann-hough-history-1890-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "erdmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "erdmann-hough-history-1890-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "erdmann",
+   "translator_claimed": "Hough",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

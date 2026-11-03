@@ -1,0 +1,190 @@
+{
+ "_about": "Kathleen Norris: Novels; pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Kathleen Norris",
+ "_name_words": [
+  "kathleen",
+  "norris"
+ ],
+ "_surname": [
+  "kathleen norris"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ktnorris-mother": [
+   3635,
+   "Mother: A Story"
+  ],
+  "ktnorris-treasure": [
+   4211,
+   "The Treasure"
+  ],
+  "ktnorris-rich-mrs-burgoyne": [
+   4288,
+   "The Rich Mrs. Burgoyne"
+  ],
+  "ktnorris-poor-dear-margaret-kirby": [
+   4348,
+   "Poor, Dear Margaret Kirby"
+  ],
+  "ktnorris-martie-the-unconquered": [
+   4392,
+   "Martie, the Unconquered"
+  ],
+  "ktnorris-saturdays-child": [
+   4687,
+   "Saturday's Child"
+  ],
+  "ktnorris-story-of-julia-page": [
+   4787,
+   "The Story of Julia Page"
+  ],
+  "ktnorris-heart-of-rachael": [
+   4915,
+   "The Heart of Rachael"
+  ],
+  "ktnorris-undertow": [
+   4916,
+   "Undertow"
+  ],
+  "ktnorris-sisters": [
+   4947,
+   "Sisters"
+  ],
+  "ktnorris-harriet-and-the-piper": [
+   5006,
+   "Harriet and the Piper"
+  ],
+  "ktnorris-beloved-woman": [
+   28301,
+   "The Beloved Woman"
+  ],
+  "ktnorris-black-flemings": [
+   71929,
+   "The black Flemings"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 40718: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "ktnorris-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-rich-mrs-burgoyne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-poor-dear-margaret-kirby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-martie-the-unconquered": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-saturdays-child": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-story-of-julia-page": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-heart-of-rachael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-undertow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-harriet-and-the-piper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-beloved-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktnorris-black-flemings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kathleen norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,249 @@
+{
+ "_about": "Israel Zangwill's novels and stories of the London ghetto",
+ "_author": "Israel Zangwill",
+ "_name_words": [
+  "zangwill"
+ ],
+ "_surname": [
+  "israel zangwill"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "izangwill-without-prejudice": [
+   6304,
+   "Without Prejudice"
+  ],
+  "izangwill-children-of-the-ghetto": [
+   12680,
+   "Children of the Ghetto: A Study of a Peculiar People",
+   {
+    "contents_only": true
+   }
+  ],
+  "izangwill-grey-wig": [
+   16408,
+   "The Grey Wig: Stories and Novelettes",
+   {
+    "contents_only": true
+   }
+  ],
+  "izangwill-merely-mary-ann": [
+   20078,
+   "Merely Mary Ann"
+  ],
+  "izangwill-chosen-peoples-being-the-first-arthur-davis-memori": [
+   20631,
+   "Chosen Peoples Being the First \"Arthur Davis Memorial Lecture\" delivered before the Jewish Historical Society at University College on Easter-Passover Sunday, 1918/5678"
+  ],
+  "izangwill-melting-pot": [
+   23893,
+   "The Melting-Pot"
+  ],
+  "izangwill-big-bow-mystery": [
+   28164,
+   "The Big Bow Mystery"
+  ],
+  "izangwill-ghetto-comedies": [
+   28982,
+   "Ghetto Comedies",
+   {
+    "contents_only": true
+   }
+  ],
+  "izangwill-dreamers-of-the-ghetto": [
+   29875,
+   "Dreamers of the Ghetto",
+   {
+    "contents_only": true
+   }
+  ],
+  "izangwill-ghetto-tragedies": [
+   35076,
+   "Ghetto Tragedies"
+  ],
+  "izangwill-grandchildren-of-the-ghetto": [
+   35238,
+   "The Grandchildren of the Ghetto",
+   {
+    "contents_only": true
+   }
+  ],
+  "izangwill-king-of-schnorrers": [
+   38413,
+   "The King of Schnorrers: Grotesques and Fantasies"
+  ],
+  "izangwill-old-maids-club": [
+   45623,
+   "The Old Maids' Club",
+   {
+    "contents_only": true
+   }
+  ],
+  "izangwill-master": [
+   49795,
+   "The Master; a Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "izangwill-italian-fantasies": [
+   56264,
+   "Italian Fantasies"
+  ],
+  "izangwill-jinny-the-carrier": [
+   57836,
+   "Jinny the Carrier",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "izangwill-without-prejudice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-children-of-the-ghetto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-grey-wig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-merely-mary-ann": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-chosen-peoples-being-the-first-arthur-davis-memori": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-melting-pot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-big-bow-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-ghetto-comedies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-dreamers-of-the-ghetto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-ghetto-tragedies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-grandchildren-of-the-ghetto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-king-of-schnorrers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-old-maids-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-italian-fantasies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "izangwill-jinny-the-carrier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "israel zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

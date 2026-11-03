@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain Edward Garbett (1817-1887), evangelical vicar of Christ Church, Surbiton, editor of the Record and Bampton lecturer, for the Word Hoard: The Soul's Life (1860), The Divine Plan of Revelation (1864), The Family Prayer Book (1864), Religion in Daily Life (1865), God's Word Written (1866), The Dogmatic Faith (Bampton Lectures, 1867), The Obligations of Truth in Religious Controversy (1874) and Morning, Noon and Night (1880). Edward Lacy Garbett, the architect, is another man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 66 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "garbett"
+ ],
+ "_surname": [
+  "edward garbett",
+  "e. garbett",
+  "rev. edward garbett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "egarbett-souls-life": [
+   "soulslifeitscomm00garbiala",
+   "The soul's life: its commencement, progress and maturity (London : The Religious Tract Society, [186)"
+  ],
+  "egarbett-divine-plan": [
+   "divineplanofreve00garb",
+   "The Divine plan of revelation : an argument from internal evidence in support of the structural unity of the Bible (London : Hamilton, Adams, 1864)"
+  ],
+  "egarbett-family-prayer-book": [
+   "familyprayerbook00garbrich",
+   "The family prayer book; or, Morning and evening prayers for every day in the year, with prayers and thanksgivings for special occasions (London, Cassell, Petter, and Galpin, 1864)"
+  ],
+  "egarbett-religion-daily-life": [
+   "religionindaily00garbgoog",
+   "Religion in daily life (Religious Tract Society, 1865, 1865)"
+  ],
+  "egarbett-gods-word-written": [
+   "godswordwrittend00garb",
+   "God's word written : the doctrine of the inspiration of holy scripture explained and enforced (London : Religious tract society, 1866)"
+  ],
+  "egarbett-dogmatic-faith": [
+   "dogmaticfaithinq00garb",
+   "The dogmatic faith: an inquiry into the relation subsisting between revelation and dogma : in eight lectures preached before the University of Oxford in the year 1867 (London : Rivingtons, 1867)"
+  ],
+  "egarbett-obligations-of-truth": [
+   "obligationstrut00garbgoog",
+   "The obligations of truth in religious controversy: a critical examination of a pamphlet [by C.N (catalogued 1874)"
+  ],
+  "egarbett-morning-noon-night": [
+   "morningnoonandn00garbgoog",
+   "Morning, noon, and night (catalogued 1880)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "egarbett-other": "Edward Lacy Garbett's Rudimentary Treatise on Design in Architecture (1850)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "egarbett-gods-word-written": "title page: 'God's Word Written: the doctrine of the inspiration of Holy Scripture explained and enforced, [by the] Rev. Edwaed 6arbett [Edward Garbett], M.A., author of \"Religion in Daily Life\", Incumbent of Christ Church, Surbiton; Boyle Lecturer for 1861, 1862, and 1863' (Religious Tract Society)"
+ },
+ "_pending": {
+  "egarbett-pentateuch": "pentateuchitsaut00garb: The Pentateuch and its Authority, a review of Colenso 'reprinted from the Record newspaper' (1863), published without the author's name; Garbett edited the Record, but nothing in the scan names him"
+ },
+ "_translators": {},
+ "_checks": {
+  "egarbett-souls-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward garbett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "[186-]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egarbett-divine-plan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward garbett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egarbett-family-prayer-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward garbett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egarbett-religion-daily-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward garbett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egarbett-gods-word-written": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egarbett-dogmatic-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward garbett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egarbett-obligations-of-truth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward garbett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egarbett-morning-noon-night": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward garbett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "_about": "Thomas Whittaker (1856-1935), historian of later Greek philosophy. Raw IA OCR: Apollonius of Tyana and other essays (London: Swan Sonnenschein, 1906), Priests, Philosophers and Prophets, a dissertation on revealed religion (London: A. and C. Black, 1911), The Neo-Platonists, a study in the history of Hellenism, 2nd ed. with a supplement on the commentaries of Proclus (Cambridge, 1918; clean 0.84, Greek quotations) and Macrobius, or philosophy, science and letters in the year 400 (Cambridge, 1923). Held: Schopenhauer (Philosophies Ancient and Modern) and Comte and Mill, whose scans show no printed year, and The Theory of Abstract Ethics (Cambridge, 1916), whose scan lacks its dated title page. Not taken: Prolegomena to a New Metaphysic, Cambridge 1931, after the cutoff. US public domain. No uids minted.",
+ "_author": "Thomas Whittaker",
+ "_name_words": [
+  "thomas",
+  "whittaker"
+ ],
+ "_surname": [
+  "thomas whittaker",
+  "t. whittaker",
+  "whittaker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whittaker-apollonius-of-tyana-1906": [
+   "apolloniusoftyan00whitiala",
+   "Apollonius of Tyana and other essays (Swan Sonnenschein, 1906)"
+  ],
+  "whittaker-priests-philosophers-prophets-1911": [
+   "priestsphilosoph00whituoft",
+   "Priests, Philosophers and Prophets (A. and C. Black, 1911)"
+  ],
+  "whittaker-neo-platonists-1918": [
+   "cu31924031006608",
+   "The Neo-Platonists, 2nd ed. (Cambridge, 1918)"
+  ],
+  "whittaker-macrobius-1923": [
+   "macrobus0000thom",
+   "Macrobius, or philosophy, science and letters in the year 400 (Cambridge, 1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "whittaker-apollonius-of-tyana-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas whittaker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittaker-priests-philosophers-prophets-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas whittaker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittaker-neo-platonists-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas whittaker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whittaker-macrobius-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas whittaker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

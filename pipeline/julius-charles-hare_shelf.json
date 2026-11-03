@@ -1,0 +1,241 @@
+{
+ "_about": "Public-domain Julius Charles Hare (1795-1855), rector of Herstmonceux and Archdeacon of Lewes, for the Word Hoard: Guesses at Truth (with his brother Augustus William Hare, first and second series), The Victory of Faith (1840), Sermons Preacht in Herstmonceux Church (second volume, 1849), The Mission of the Comforter (1854), Vindication of Luther against his Recent English Assailants (1855), Sermons Preacht on Particular Occasions (1858), and his charges and occasional papers from The Better Prospects of the Church (1840) to The Contest with Rome (1852). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 74 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hare"
+ ],
+ "_surname": [
+  "julius charles hare",
+  "julius hare",
+  "j. c. hare",
+  "archdeacon hare",
+  "julius c. hare"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hare-guesses-at-truth-1": [
+   "guessesattruthby00hareiala",
+   "Guesses at truth : by two brothers (London : Taylor and Walton, 1838)"
+  ],
+  "hare-guesses-at-truth-2": [
+   "guessesattruthse00hare",
+   "Guesses at truth : second series (London : Printed for Taylor and Walton ; Cambridge [Eng.] : Sold by Macmillan, 1848)"
+  ],
+  "hare-better-prospects": [
+   "betterprospectso00hareiala",
+   "The better prospects of the Church : a charge to the clergy of the Archdeaconry of Lewes (London : J.W. Parker ; Cambridge : J. and J.J. Deighton, 1840)"
+  ],
+  "hare-victory-of-faith": [
+   "victoryoffaithot00hare",
+   "The victory of faith, and other sermons (London, G.F. Okeden & Welsh, 1840)"
+  ],
+  "hare-herstmonceux-sermons": [
+   "sermonspreachti00haregoog",
+   "Sermons Preacht in Herstmonceux Church, second volume (London: John W. Parker, 1849)"
+  ],
+  "hare-unity-of-church": [
+   "a586752600hareuoft",
+   "The unity of the church : a sermon preacht at St. Peter's Church, Brighton, on Thursday, December 10, 1840, at the annual meeting of the Chichester Diocesan Association ; with some introductory remarks on uniformity (London : J.W. Parker, 1845)"
+  ],
+  "hare-means-of-unity": [
+   "meansofunitychar00hareiala",
+   "The means of unity : a charge to the clergy of the archdeaconry of Lewes, delivered at the ordinary visitation in 1842; with notes (London : J. W. Parker, 1847)"
+  ],
+  "hare-duty-in-times-of-trial": [
+   "a586771200hareuoft",
+   "The duty of the church in times of trial : a charge to the clergy of the Archdeaconry of Lewes, delivered at the ordinary visitation in 1848 ; with notes, especially on the controversy touching the management of schools, and on the Jewish question (London : J.W. Parker, 1848)"
+  ],
+  "hare-true-remedy": [
+   "a586775500hareuoft",
+   "The true remedy for the evils of the age : a charge to the clergy of the Archdeaconry of Lewes, delivered at the ordinary visitation in 1849 ; with notes, especially on the educational, matrimonial, and baptismal questions (London : J.W. Parker, 1850)"
+  ],
+  "hare-contest-with-rome": [
+   "contestwithromec00hareiala",
+   "The contest with Rome : a charge to the clergy of the archdeaconry of Lewes, delivered at the ordinary visitation in 1851, with notes especially in answer to Dr. Newman's recent lectures (London : John W. Parker, 1852)"
+  ],
+  "hare-mission-of-comforter": [
+   "missionofcomfort00hare_0",
+   "The mission of the Comforter : with notes (Boston : Gould and Lincoln, 1854)"
+  ],
+  "hare-miscellaneous-pamphlets": [
+   "miscellaneouspa00haregoog",
+   "Miscellaneous pamphlets on some of the leading questions agitated in the church during the last ten years (Cambridge : Macmillan, 1855)"
+  ],
+  "hare-vindication-of-luther": [
+   "bwb_S0-AGD-575",
+   "Vindication of Luther Against His Recent English Assailants, 2nd Edition (catalogued 1855)"
+  ],
+  "hare-sermons-particular-occasions": [
+   "sermonspreachto00haregoog",
+   "Sermons preacht on particular occasions (Cambridge : Macmillan, 1858)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hare-other": "his translation, with Thirlwall, of Niebuhr's History of Rome (on the niebuhr shelf); The Philological Museum (a journal he edited); Portions of the Psalms in English Verse (a compiled hymnal); Fragments of Two Essays in English Philology"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "hare-letter-dean-chichester": "A Letter to the Dean of Chichester on the agitation over Dr. Hampden's appointment (1848): the only scan found (a586744000hannuoft) carries a German book's text",
+  "hare-herstmonceux-sermons-1": "Sermons Preacht in Herstmonceux Church, first volume (1841): every scan found under that title is the second volume"
+ },
+ "_translators": {},
+ "_checks": {
+  "hare-guesses-at-truth-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-guesses-at-truth-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archdeacon hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-better-prospects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-victory-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hare-herstmonceux-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-unity-of-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-means-of-unity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-duty-in-times-of-trial": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-true-remedy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-contest-with-rome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-mission-of-comforter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hare-miscellaneous-pamphlets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hare-vindication-of-luther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hare-sermons-particular-occasions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius charles hare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

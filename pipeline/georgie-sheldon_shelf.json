@@ -1,0 +1,253 @@
+{
+ "_about": "Mrs. Georgie Sheldon's popular romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mrs. Georgie Sheldon",
+ "_name_words": [
+  "georgie",
+  "sheldon"
+ ],
+ "_surname": [
+  "georgie sheldon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gsheldon-katherines-sheaves": [
+   5008,
+   "Katherine's Sheaves"
+  ],
+  "gsheldon-virgies-inheritance": [
+   11269,
+   "Virgie's Inheritance"
+  ],
+  "gsheldon-mona": [
+   14425,
+   "Mona; Or, The Secret of a Royal Mirror"
+  ],
+  "gsheldon-true-loves-reward-a-sequel-to-mona": [
+   14427,
+   "True Love's Reward A Sequel to Mona"
+  ],
+  "gsheldon-his-hearts-queen": [
+   19259,
+   "His Heart's Queen"
+  ],
+  "gsheldon-masked-bridal": [
+   29524,
+   "The Masked Bridal"
+  ],
+  "gsheldon-heatherford-fortune-a-sequel-to-the-magic-cameo": [
+   38006,
+   "The Heatherford Fortune a sequel to the Magic Cameo"
+  ],
+  "gsheldon-golden-key": [
+   50909,
+   "The Golden Key; Or, A Heart's Silent Worship"
+  ],
+  "gsheldon-redeemed": [
+   59277,
+   "Redeemed"
+  ],
+  "gsheldon-magic-cameo": [
+   64559,
+   "The Magic Cameo: A Love Story"
+  ],
+  "gsheldon-threads-gathered-up": [
+   70252,
+   "Threads gathered up"
+  ],
+  "gsheldon-geoffreys-victory": [
+   70479,
+   "Geoffrey's victory;"
+  ],
+  "gsheldon-stella-rosevelt": [
+   70696,
+   "Stella Rosevelt"
+  ],
+  "gsheldon-thrice-wedded-but-only-once-a-wife": [
+   70837,
+   "Thrice wedded, but only once a wife"
+  ],
+  "gsheldon-earle-waynes-nobility": [
+   70862,
+   "Earle Wayne's nobility"
+  ],
+  "gsheldon-brownies-triumph": [
+   71118,
+   "Brownie's triumph"
+  ],
+  "gsheldon-wedded-by-fate": [
+   76066,
+   "Wedded by fate"
+  ],
+  "gsheldon-lily-of-mordaunt": [
+   78682,
+   "The lily of Mordaunt"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gsheldon-katherines-sheaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-virgies-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-mona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-true-loves-reward-a-sequel-to-mona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-his-hearts-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-masked-bridal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-heatherford-fortune-a-sequel-to-the-magic-cameo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-golden-key": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-redeemed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-magic-cameo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-threads-gathered-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-geoffreys-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-stella-rosevelt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-thrice-wedded-but-only-once-a-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-earle-waynes-nobility": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-brownies-triumph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-wedded-by-fate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsheldon-lily-of-mordaunt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgie sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

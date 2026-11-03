@@ -1,0 +1,70 @@
+{
+ "_about": "Public-domain Wilbur Fisk (1792-1839), Methodist Episcopal minister and first President of Wesleyan University, for the Word Hoard: A Discussion on Universal Salvation (1832), the Calvinistic Controversy (1835) and Travels on the Continent of Europe (1838). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 73 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fisk"
+ ],
+ "_surname": [
+  "wilbur fisk",
+  "w. fisk"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fisk-universal-salvation": [
+   "adiscussiononun00fiskgoog",
+   "A Discussion on Universal Salvation: In Three Lectures and Five Answers Against that Doctrine (B. Waugh and T. Mason, 1832)"
+  ],
+  "fisk-calvinistic-controversy": [
+   "calvinisticcontr00fisk",
+   "Calvinistic controversy : embracing a sermon on predestination and election, and several numbers formerly published in the Christian Advocate and Journal (New York : Waugh and Mason for the Methodist Episcopal Church, 1835)"
+  ],
+  "fisk-travels-europe": [
+   "travelsoncontine00fisk",
+   "Travels on the continent of Europe; viz., in England, Ireland, Scotland, France, Italy, Switzerland, Germany, and the Netherlands (New-York, Harper and brothers, 1838)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fisk-other": "single printed sermons and addresses (1826-1835); The Methodist Preacher (1859, sermons by several hands)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fisk-universal-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilbur fisk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fisk-calvinistic-controversy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilbur fisk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fisk-travels-europe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilbur fisk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

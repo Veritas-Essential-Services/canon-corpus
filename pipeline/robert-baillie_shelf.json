@@ -1,0 +1,66 @@
+{
+ "_about": "Robert Baillie (1602-1662), Principal of Glasgow University and Scottish commissioner to the Westminster Assembly: The Letters and Journals, 1637-1662, ed. David Laing (Bannatyne Club, Edinburgh, 1841-1842, 3 vols), the chief eyewitness record of the Assembly. Volume numbers read off each title page. Named robert-baillie so other Baillies cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "baillie"
+ ],
+ "_surname": [
+  "baillie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "baillie-letters-journals-1": [
+   "lettersandjourna01bail",
+   "The Letters and Journals of Robert Baillie, 1637-1662, ed. David Laing (Bannatyne Club, Edinburgh, 1841-1842), vol. 1"
+  ],
+  "baillie-letters-journals-2": [
+   "lettersandjourna02bail",
+   "The Letters and Journals of Robert Baillie, 1637-1662, ed. David Laing (Bannatyne Club, Edinburgh, 1841-1842), vol. 2"
+  ],
+  "baillie-letters-journals-3": [
+   "lettersandjourna03bail",
+   "The Letters and Journals of Robert Baillie, 1637-1662, ed. David Laing (Bannatyne Club, Edinburgh, 1841-1842), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "lettersandjour7301bailuoft, lettersandjourna02bailuoft, lettersandjour7303bailuoft": "Guelph copies.",
+  "lettersjournalso01bail, lettersjournalso02bail, lettersjournalso03bail": "NYPL copies.",
+  "lettersjournals01bail, lettersjournals02bail (1775)": "The first edition, 2 vols, incomplete."
+ },
+ "_excluded": {},
+ "_checks": {
+  "baillie-letters-journals-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baillie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baillie-letters-journals-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baillie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baillie-letters-journals-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baillie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "_about": "Public-domain William Burt Pope (1822-1903, Wesleyan Methodist, tutor at Didsbury College) for the Word Hoard: A Compendium of Christian Theology (2nd ed., 3 vols, London: Wesleyan Conference Office), The Person of Christ (Fernley Lecture, 2nd ed., 1875), The Prayers of St. Paul (1876), A Higher Catechism of Theology (1883) and The Inward Witness (1885), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "pope",
+  "burt"
+ ],
+ "_surname": [
+  "william burt pope",
+  "w. b. pope",
+  "william b. pope",
+  "pope, w. b",
+  "pope, william burt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wbpope-compendium-1": [
+   "compendiumofchri01pope",
+   "A Compendium of Christian Theology, second edition, vol. 1 (London: Wesleyan Conference Office, 1879)"
+  ],
+  "wbpope-compendium-2": [
+   "compendiumofchri02pope",
+   "A Compendium of Christian Theology, second edition, vol. 2 (London: Wesleyan Conference Office; title page OCR reads 1877, against 1879 for vols. 1 and 3)"
+  ],
+  "wbpope-compendium-3": [
+   "compendiumofchri03pope",
+   "A Compendium of Christian Theology, second edition, vol. 3 (London: Wesleyan Conference Office, 1879)"
+  ],
+  "wbpope-person-of-christ-1875": [
+   "personofchristdo00pope",
+   "The Person of Christ: Dogmatic, Scriptural, Historical, the Fernley Lecture of 1871, second edition (London: Wesleyan Conference Office, 1875)"
+  ],
+  "wbpope-prayers-st-paul-1876": [
+   "prayersofstpaulb00pope",
+   "The Prayers of St. Paul (London: Wesleyan Conference Office, 1876)"
+  ],
+  "wbpope-higher-catechism-1883": [
+   "highercatechismo00pope_0",
+   "A Higher Catechism of Theology (London: T. Woolmer, 1883)"
+  ],
+  "wbpope-inward-witness-1885": [
+   "inwardwitnessan00popegoog",
+   "The Inward Witness and Other Discourses (London: T. Woolmer, 1885)"
+  ]
+ },
+ "_alternates": {
+  "wbpope-compendium-1875": "the one-volume first edition (London, 1875; IA compendiumofchri0000wbpo, a \"0000\"-style id): superseded by the enlarged second edition"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "wbpope-compendium-1": {
+   "author": "title page read 2026-10-10: OCR gives \"BY ΑΝ BURT POPE, D.D., THEOLOGICAL TUTOR, DIDSBURY COLLEGE, MANCHESTER\" (WILLIAM partly read as Greek letters; 3,465 stray Greek characters in 1.09 MB, the English otherwise normal): W. B. Pope"
+  },
+  "wbpope-prayers-st-paul-1876": {
+   "author": "title page read 2026-10-10: OCR gives \"BY W. B.^POPE, THEOLOGICAL TUTOR, DIDSBURY COLLEGE, MANCHESTER\" (a caret artifact), Wesleyan Conference Office, 1876: W. B. Pope"
+  }
+ },
+ "_checks": {
+  "wbpope-compendium-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbpope-compendium-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william burt pope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbpope-compendium-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william burt pope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbpope-person-of-christ-1875": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. b. pope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbpope-prayers-st-paul-1876": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbpope-higher-catechism-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pope, william burt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbpope-inward-witness-1885": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. b. pope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

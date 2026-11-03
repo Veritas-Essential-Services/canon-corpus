@@ -1,0 +1,31 @@
+{
+ "_about": "John Buchan's (1875-1940) The Thirty-Nine Steps. Not the patrick-buchan shelf. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "John Buchan",
+ "_name_words": [
+  "john",
+  "buchan"
+ ],
+ "_surname": [
+  "john buchan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "john-buchan-thirty-nine-steps": [
+   558,
+   "The Thirty-Nine Steps (1915)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "john-buchan-thirty-nine-steps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

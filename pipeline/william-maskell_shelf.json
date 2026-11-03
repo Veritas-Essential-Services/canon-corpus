@@ -1,0 +1,166 @@
+{
+ "_about": "Public-domain William Maskell, liturgical scholar, an Anglican priest who joined the Roman Catholic Church in 1850, for the Word Hoard: The Ancient Liturgy of the Church of England and Monumenta Ritualia Ecclesiae Anglicanae (his editions of the old English service books, with his dissertations), Holy Baptism, An Enquiry into the Doctrine of the Church of England upon Absolution, his sermons at St Mary Church, his two letters on the position of the High Church party, and A History of the Martin Marprelate Controversy. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 130 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william maskell",
+  "w. maskell",
+  "maskell"
+ ],
+ "_surname": [
+  "maskell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maskell-marprelate": [
+   "historyofmartinm00maskrich",
+   "A history of the Martin Marprelate controversy in the reign of Queen Elizabeth (London : W. Pickering, 1845)"
+  ],
+  "maskell-ancient-liturgy": [
+   "theancientliturg00maskuoft",
+   "The ancient liturgy of the Church of England, according tp the uses of Sarum, Bangor, York & Hereford and the modern Roman liturgy arranged in parallel culumns (London, W. Pickering, 1846)"
+  ],
+  "maskell-monumenta-1882-1": [
+   "monumentarituali01maskuoft",
+   "Monumenta ritualia Ecclesiae Anglicanae; the occasional Offices of the Church of England according to the old use of Salisbury the Prymer in English and other prayers and forms with dissertations and notes, vol. 01 (Oxford Clarendon Press, 1882)"
+  ],
+  "maskell-holy-baptism": [
+   "holybaptismdisse00mask",
+   "Holy baptism : a dissertation (London : William Pickering, 1848)"
+  ],
+  "maskell-absolution": [
+   "enquiryintodoctr00mask",
+   "An enquiry into the doctrine of the Church of England upon absolution (London: William Pickering, 1849)"
+  ],
+  "maskell-sermons-st-mary-church": [
+   "sermonspreachedi0000mask",
+   "Sermons preached in the Parish church of S. Mary Church, in the Diocese of Exeter (London, W. Pickering, 1849)"
+  ],
+  "maskell-first-letter": [
+   "firstletteronpre00mask",
+   "A first letter on the present position of the High Church Party in the Church of England, vol. Talbot Collection of British Pamphlets (London : William Pickering, 1850)"
+  ],
+  "maskell-second-letter": [
+   "secondletteronpr0000mask",
+   "A second letter on the present position of the High Church party in the Church of England : the want of dogmatic teaching in the Reformed English Church (London : W. Pickering, 1850)"
+  ],
+  "maskell-monumenta-1882-2": [
+   "monumentaritual04englgoog",
+   "Monumenta ritualia ecclesiæ Anglicanæ, second edition, vol. 2 (catalogued 1882)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "maskell-art": "his South Kensington Museum handbooks on ivories, musical instruments and the industrial arts are outside this theology shelf",
+  "maskell-prayer-books": "the 1550 and 1721 prayer books are the Church of England's, not his",
+  "maskell-joyce": "The Present Position of the High-Church Party (1869) is by J. W. Joyce",
+  "maskell-dups": "other scans and reprints of the same books",
+  "monumentaritual02englgoog": "a volume of the 1846 first edition whose scan text has no title page; the 1882 second edition is taken instead"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "maskell-marprelate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maskell-ancient-liturgy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maskell-monumenta-1882-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maskell-holy-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maskell-absolution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maskell-sermons-st-mary-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maskell-first-letter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maskell-second-letter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maskell-monumenta-1882-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maskell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

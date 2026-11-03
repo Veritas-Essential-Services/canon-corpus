@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain Catherine of Siena (1347-1380) in English for the Word Hoard: the Dialogue in Algar Thorold's full translation (London, 1896) from an Internet Archive scan and his abridged edition (1907) from CCEL, and her letters in Vida D. Scudder's translation (1905) from Project Gutenberg. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "catherine",
+ "_name_words": [
+  "catherine"
+ ],
+ "_surname": [
+  "catherine of siena",
+  "catharine of siena",
+  "catherine benincasa",
+  "catherine of sienna"
+ ],
+ "_held": {},
+ "ccel": {
+  "catherine-dialogue-thorold-1907": [
+   "dialog",
+   "The Dialogue of the Seraphic Virgin Catherine of Siena, a new and abridged edition, tr. Algar Thorold (London: Kegan Paul, 1907)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "catherine-letters-scudder": [
+   "7403",
+   "Saint Catherine of Siena as Seen in Her Letters, tr. and ed. Vida D. Scudder (London: J. M. Dent, 1905)"
+  ]
+ },
+ "internet_archive": {
+  "catherine-dialogue-thorold-1896": [
+   "seraphicvirginca00cathuoft",
+   "The Dialogue of the Seraphic Virgin Catherine of Siena, tr. Algar Thorold (London: Kegan Paul, Trench, Trübner, 1896)"
+  ]
+ },
+ "_alternates": {
+  "catherine-copies": "The 1907 abridgement on IA, the 1925 Burns Oates & Washbourne reissue, the Scudder first edition scan (1905) and its 1906 and 1911 reprints",
+  "catherine-orcharde-of-syon": "The Orcharde of Syon, the Middle English Dialogue (Wynkyn de Worde, 1519): blackletter OCR unusable"
+ },
+ "_excluded": {
+  "catherine-about": "Lives of her (1898, Gardner 1907, Curtayne 1929)",
+  "catherine-late": "Modern retypesets and the 1980 Paulist edition"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "catherine-dialogue-thorold-1907": "thorold",
+  "catherine-dialogue-thorold-1896": "thorold",
+  "catherine-letters-scudder": "scudder"
+ },
+ "_checks": {
+  "catherine-dialogue-thorold-1907": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "catherine of siena",
+   "translator_claimed": "thorold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "catherine-letters-scudder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "catherine of siena",
+   "translator_claimed": "scudder",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Vida Dutton Scudder",
+   "translator_match": true
+  },
+  "catherine-dialogue-thorold-1896": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "catherine of siena",
+   "translator_claimed": "thorold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "_about": "Public-domain Warren Fay (1784-1864), Congregational minister of Charlestown, Massachusetts, for the Word Hoard: his funeral, ordination and missionary sermons (1812-1835), including Obligations of Christians to the Heathen World and The Importance of the Last Promise of Jesus Christ to Christian Missionaries. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 106 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "warren fay",
+  "w. fay"
+ ],
+ "_surname": [
+  "warren fay",
+  "w. fay"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wfay-funeral-ely": [
+   "sermondeliveredj00fayw",
+   "A sermon, delivered July 17, 1812, in Monson, at the funeral of Mrs. Nancy Ely, wife of the Rev. Alfred Ely, who died July 15th, in the 34th year of her age (Printed by Peter B. Gleason, )"
+  ],
+  "wfay-ordination-cogswell": [
+   "sermondelivereda00fayw_1",
+   "A sermon, delivered April 24, 1822, at the ordination of the Rev. Nathanael Cogswell, as colleague pastor of the Congregational church and society in Yarmouth, Mass (Boston : Crocker & Brewster, Printers, 1822)"
+  ],
+  "wfay-ordination-1822": [
+   "asermondelivere00massgoog",
+   "A Sermon, Delivered January 1, 1822, at the Ordination of the Rev. Joseph Bennet [i.e. Bennett (Crocker & Brewster , printers ..., 1822)"
+  ],
+  "wfay-obligations-heathen": [
+   "obligationsofchr00fayw",
+   "Obligations of Christians to the heathen world. A sermon delivered at the Old South Church in Boston, before the Auxiliary Foreign Mission Society of Boston and vicinity, at their annual meeting, January 3, 1825 (Boston [Mass.]: Printed by Crocker and Brewster .., 1825)"
+  ],
+  "wfay-last-promise": [
+   "importanceoflast00fayw",
+   "Importance of the last promise of Jesus Christ to Christian missionaries. A sermon, delivered at Springfield, May 10, 1826, at the ordination of the Rev. Rufus Anderson, as an evangelist, and of the Rev. Messrs. Josiah Brewer, Eli Smith, Cyrus Stone, and (Boston [Mass.]: Printed by Crocker & Brewster .., 1826)"
+  ],
+  "wfay-funeral-wisner": [
+   "sermondelivereda00fayw_0",
+   "A sermon, delivered at the funeral of the Rev. Benjamin B. Wisner, D.D. : one of the secretaries of the American Board of Commissioners for Foreign Missions, and formerly pastor of the Old South Church in Boston (Boston : Printed by Crocker and Brewster, 1835)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "wfay-funeral-ely": "Title page: Sermon delivered July 17, 1812, in Monson, at the funeral of Mrs. Nancy Ely... By Warren Fay, A. M.... Hartford: Printed by Peter B. Gleason & Co., 1813."
+ },
+ "_identity_checked": {
+  "wfay-ordination-1822": "Title page (OCR): \"BY WAKKKN FAY, A. M. Pastor of the First Church in Charlestown\"; text names \"the Rev. Mr. Fay\". Sermon at the 1822 ordination of Joseph Bennet at Woburn."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wfay-funeral-ely": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren fay",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page: Sermon delivered July 17, 1812, in Monson, at the funeral of Mrs. Nancy Ely... By Warren Fay, A. M.... Hartford: Printed by Peter B. Gleason & Co., 1813."
+  },
+  "wfay-ordination-cogswell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren fay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wfay-ordination-1822": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfay-obligations-heathen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren fay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wfay-last-promise": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren fay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wfay-funeral-wisner": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren fay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

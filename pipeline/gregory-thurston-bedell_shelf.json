@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Gregory Thurston Bedell (1817-1892), evangelical Episcopal Bishop of Ohio after McIlvaine, son of Gregory Townsend Bedell, for the Word Hoard: The Trusteeship of the Gospel (1869), The Canterbury Pilgrimage (1878) and The Pastor: Pastoral Theology (1880), from Internet Archive scans. Added 2026-10-23 by lane A, round 55 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bedell"
+ ],
+ "_surname": [
+  "gregory thurston bedell",
+  "bishop bedell",
+  "g. t. bedell, d.d., bishop"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gthbedell-trusteeship": [
+   "trusteeshipofgos00bede",
+   "The trusteeship of the Gospel (Cincinnati, 1869)"
+  ],
+  "gthbedell-canterbury-pilgrimage": [
+   "canterburypilgri00bede",
+   "The Canterbury pilgrimage : to and from the Lambeth Conference and the Sheffield Congress (New York : A.D.F. Randolph, 1878)"
+  ],
+  "gthbedell-pastor": [
+   "pastorpastoralth00bede",
+   "The pastor. Pastoral theology (Philadelphia, London, J.B. Lippincott & co., 1880)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gthbedell-other": "Occasional sermons and convention reports"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gthbedell-trusteeship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gregory thurston bedell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthbedell-canterbury-pilgrimage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop bedell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthbedell-pastor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop bedell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

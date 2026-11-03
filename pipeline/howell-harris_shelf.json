@@ -1,0 +1,70 @@
+{
+ "_about": "Public-domain Howell Harris (1714-1773), Welsh Calvinistic Methodist evangelist of Trevecca, for the Word Hoard: A Letter from Mr. Howel Harris to a congregation in London (1743), The Last Message and Dying Testimony of Howell Harris (1774) and A Brief Account of the Life of Howell Harris, extracted from his papers (1791), from Internet Archive scans of Eighteenth Century Collections. Added 2026-10-23 by lane A, round 50 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "harris"
+ ],
+ "_surname": [
+  "howell harris",
+  "howel harris",
+  "h. harris"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hharris-letter-1743": [
+   "bim_eighteenth-century_a-letter-from-mr-howel-_harris-howell_1743",
+   "A letter from Mr. Howel Harris in Wales, to a congregation in London, concerning brotherly love and mutual forbearance amongst true Christians. With an explanatory introduction by a welwisher to peace and truth.  1743 (catalogued 1743)"
+  ],
+  "hharris-last-message": [
+   "bim_eighteenth-century_the-last-message-and-dy_harris-howell_1774",
+   "The last message, and dying testimony, of Howell Harris, Esqr; late of Trevecka in Wales. ...  1774 (catalogued 1774)"
+  ],
+  "hharris-brief-account": [
+   "bim_eighteenth-century_a-brief-account-of-the-l_harris-howell_1791",
+   "A brief account of the life of Howell Harris, Esq; extracted from papers written by himself. To which is added a concise collection of his letters from the year 1738, to 1772.  1791 (catalogued 1791)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hharris-letter-1743": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "howell harris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hharris-last-message": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "howell harris",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1774",
+   "ia_date": "1774",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hharris-brief-account": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "howell harris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1791",
+   "ia_date": "1791",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

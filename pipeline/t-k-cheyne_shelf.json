@@ -1,0 +1,466 @@
+{
+ "_about": "Public-domain Thomas Kelly Cheyne (1841-1915), Oriel Professor of the Interpretation of Holy Scripture at Oxford and Old Testament critic, for the Word Hoard: his Isaiah (1870 to 1898), Micah and Hosea, two Psalms translations and commentaries, Job and Solomon, Jeremiah, The Hallowing of Criticism, the Bampton Lectures on the Psalter, Aids to the Devout Study of Criticism, Founders of Old Testament Criticism, Jewish Religious Life after the Exile, The Christian Use of the Psalms, Critica Biblica, Bible Problems, Traditions and Beliefs of Ancient Israel, The Two Religions of Israel, and his last books. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 86 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "t. k. cheyne",
+  "thomas kelly cheyne",
+  "t.k. cheyne"
+ ],
+ "_surname": [
+  "t. k. cheyne",
+  "thomas kelly cheyne",
+  "t.k. cheyne",
+  "cheyne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cheyne-isaiah-chronological": [
+   "bookofisaiahchro00chey",
+   "The book of Isaiah chronologically arranged : an amended version with historical and critical introductions and explanatory notes (London : Macmillan, 1870)"
+  ],
+  "cheyne-christian-point-of-view": [
+   "christianpointof00chey",
+   "The Christian point of view in the study of the Bible : a sermon preached in Balliol College Chapel on Trinity Sunday, June 8, 1879 (London : Printed for private circulation by E. Faithful, 1879)"
+  ],
+  "cheyne-prophecies-isaiah-1": [
+   "propheciesofisai01cheyuoft",
+   "The prophecies of Isaiah; a new translation with commentary and appendices, vol. 1 (London, Paul, 1880)"
+  ],
+  "cheyne-prophecies-isaiah-2": [
+   "propheciesofisai02cheyuoft",
+   "The prophecies of Isaiah; a new translation with commentary and appendices, vol. 2 (London, Paul, 1880)"
+  ],
+  "cheyne-micah": [
+   "micahwithnotesin00chey",
+   "Micah, with notes and introduction (Cambridge [Eng.] : University Press, 1882)"
+  ],
+  "cheyne-psalms-1884": [
+   "bookofpsalms00chey",
+   "The book of Psalms (London : Kegan Paul, Trench, 1884)"
+  ],
+  "cheyne-hosea": [
+   "hoseawithnotesin00cheyuoft",
+   "Hosea, with notes and introduction (Cambridge, Univ. Press, 1889)"
+  ],
+  "cheyne-job-solomon": [
+   "jobsolomonorwisd00cheyuoft",
+   "Job and Solomon; or, The wisdom of the Old Testament (New York, Whittaker, 1889)"
+  ],
+  "cheyne-jeremiah": [
+   "jeremiahhislifet00chey",
+   "Jeremiah, his life and times (New York, F.H. Revell Co, 1888)"
+  ],
+  "cheyne-hallowing-criticism": [
+   "hallowingofcriti00chey",
+   "The hallowing of criticism: nine sermons on Elijah preached in Rochester Cathedral, with an essay read at the Church Congress, Manchester, October 2nd, 1888 (London, Hodder and Stoughton, 1888)"
+  ],
+  "cheyne-psalms-praises": [
+   "bookofpsalmsorpr00cheyuoft",
+   "The Book of Psalms; or, The praises of Israel (London, Paul, 1888)"
+  ],
+  "cheyne-origin-psalter": [
+   "originreligiousc00chey",
+   "The origin and religious contents of the Psalter in the light of Old Testament criticism and the history of religions, with an introduction and appendices : eight lectures preached before the University of Oxford in the year 1889 (London : Kegan Paul, Trench, Trübner & Co., 1891)"
+  ],
+  "cheyne-aids-devout-study": [
+   "aidstothedevouts00cheyuoft",
+   "Aids to the devout study of criticism : part I : the David-narratives : part II : the book of Psalms (New York : Thomas Whittaker, 1892)"
+  ],
+  "cheyne-founders-ot-criticism": [
+   "foundersoldtest00cheyuoft",
+   "Founders of Old Testament criticism: biographical, descriptive, and critical (London, Methuen, 1893)"
+  ],
+  "cheyne-intro-isaiah": [
+   "introbookisaiah00cheyuoft",
+   "Introduction to the book of Isaiah : with an appendix containing the undoubted portions of the two chief prophetic writers in a translation (London, A. and C. Black, 1895)"
+  ],
+  "cheyne-jewish-religious-life": [
+   "jewishreligiousl0000unse",
+   "Jewish religious life after the exile (New York : G.P. Putnam's, 1898)"
+  ],
+  "cheyne-isaiah-polychrome": [
+   "bookofprophetisa00cheyuoft",
+   "The Book of the Prophet Isaiah, a new English translation; printed in colors exhibiting the composite structure of the books, with explanatory notes and pictorial illustrations (New York, Dodd, 1898)"
+  ],
+  "cheyne-christian-use-psalms": [
+   "christianuseofps0000chey",
+   "The Christian use of the Psalms : with essays on the proper psalms in the Anglican prayer book (London : Isbister and Co., 1899)"
+  ],
+  "cheyne-critica-biblica": [
+   "cu31924029281306",
+   "Critica biblica : or, Critical notes on the text of the Old Testament writings (London : A. and C. Black, 1904)"
+  ],
+  "cheyne-psalms-1904-1": [
+   "bookofpsalmstran01chey",
+   "The book of Psalms translated from a revised text with notes and introduction in place of a second edition of an earlier work (1888) by the same author, vol. 1 (New York : T. Whittaker, 1904)"
+  ],
+  "cheyne-psalms-1904-2": [
+   "bookofpsalmstran02chey",
+   "The book of Psalms translated from a revised text with notes and introduction in place of a second edition of an earlier work (1888) by the same author, vol. 2 (New York : T. Whittaker, 1904)"
+  ],
+  "cheyne-bible-problems": [
+   "bibleproblemsnew00cheyrich",
+   "Bible problems and the new material for their solution; a plea for thoroughness of investigation, addressed to churchmen and scholars (New York, G.P. Putmans Sons; London, Williams and Norgate, 1904)"
+  ],
+  "cheyne-traditions-beliefs": [
+   "traditionsbelief00cheyuoft",
+   "Traditions & beliefs of ancient Israel (London : A. and C. Black, 1907)"
+  ],
+  "cheyne-decline-fall-judah": [
+   "declinefallofkin0000unse",
+   "The decline and fall of the Kingdom of Judah (London, A. and C. Black, 1908)"
+  ],
+  "cheyne-two-religions": [
+   "thetworeligionso00cheyuoft",
+   "The two religions of Israel; with re-examination of the prophetic narratives and utterances (London, A. and C. Black, 1911)"
+  ],
+  "cheyne-mines-isaiah": [
+   "minesofisaiahree0000chey",
+   "The mines of Isaiah re-explored (London : A. & C. Black, 1912)"
+  ],
+  "cheyne-veil-hebrew-history": [
+   "veilofhebrewhist0000chey",
+   "The veil of Hebrew history; a further attempt to lift it (London, A. and C. Black, 1913)"
+  ],
+  "cheyne-reconciliation": [
+   "reconciliationof0000chey",
+   "The reconciliation of races and religions (London, A. and C. Black, 1914)"
+  ],
+  "cheyne-fresh-voyages": [
+   "freshvoyagesonun00cheyrich",
+   "Fresh voyages on unfrequented waters (London : A. and C. Black, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cheyne-edited": "Encyclopaedia Biblica (many contributors) and the Variorum Teacher's Bible (edited); Das religiöse Leben der Juden (German translation by others); his journal articles"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "cheyne-isaiah-chronological": "title page: 'THE BOOK OF ISAIAH CHRONOLOGICALLY ARRANGED ... By T. K. CHEYNE, M.A. FELLOW OF BALLIOL COLLEGE, OXFORD. MACMILLAN AND CO. 1870' (OCR 'T. K. VCHEYNE')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cheyne-isaiah-chronological": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-christian-point-of-view": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-prophecies-isaiah-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880-2",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-prophecies-isaiah-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880-2",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-micah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-psalms-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-hosea": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-job-solomon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-jeremiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-hallowing-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-psalms-praises": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-origin-psalter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas kelly cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-aids-devout-study": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-founders-ot-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-intro-isaiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-jewish-religious-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-isaiah-polychrome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-christian-use-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-critica-biblica": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-psalms-1904-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-psalms-1904-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-bible-problems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-traditions-beliefs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-decline-fall-judah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-two-religions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheyne-mines-isaiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-veil-hebrew-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-reconciliation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheyne-fresh-voyages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. k. cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

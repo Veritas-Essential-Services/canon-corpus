@@ -1,0 +1,58 @@
+{
+ "_about": "Wirt Sikes's British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions (1880). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Wirt Sikes",
+ "_name_words": [
+  "sikes"
+ ],
+ "_surname": [
+  "wirt sikes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sikes-british-goblins": [
+   34704,
+   "British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions",
+   {
+    "levels": [
+     {
+      "re": "INDEX$|Transcriber's Note$"
+     },
+     {
+      "re": "BOOK [IVX]+\\.$",
+      "title_next": true,
+      "strip": "\\.$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "strip": "\\.$"
+     },
+     {
+      "re": "[IVXL]+\\.$",
+      "strip": "\\.$"
+     },
+     {
+      "re": "FOOTNOTES?:$",
+      "label": {
+       "FOOTNOTE": "FOOTNOTES"
+      }
+     }
+    ],
+    "start": "BRITISH GOBLINS\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sikes-british-goblins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wirt sikes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

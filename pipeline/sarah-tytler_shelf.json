@@ -1,0 +1,240 @@
+{
+ "_about": "Sarah Tytler's novels, girls' books and lives. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Sarah Tytler",
+ "_name_words": [
+  "sarah",
+  "tytler"
+ ],
+ "_surname": [
+  "sarah tytler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stytler-life-of-her-most-gracious-majesty-the-queen-volume-1": [
+   6910,
+   "Life of Her Most Gracious Majesty the Queen — Volume 1"
+  ],
+  "stytler-life-of-her-most-gracious-majesty-the-queen-volume-2": [
+   7086,
+   "Life of Her Most Gracious Majesty the Queen — Volume 2"
+  ],
+  "stytler-girlhood-and-womanhood-the-story-of-some-fortunes-an": [
+   19140,
+   "Girlhood and Womanhood The Story of some Fortunes and Misfortunes"
+  ],
+  "stytler-old-masters-and-their-pictures-for-the-use-of-school": [
+   19863,
+   "The Old Masters and Their Pictures, For the Use of Schools and Learners in Art"
+  ],
+  "stytler-houseful-of-girls": [
+   20081,
+   "A Houseful of Girls"
+  ],
+  "stytler-landseers-dogs-and-their-stories": [
+   53088,
+   "Landseer's Dogs and Their Stories"
+  ],
+  "stytler-jane-austen-and-her-works": [
+   70809,
+   "Jane Austen and her works"
+  ],
+  "stytler-lady-bell-volume-1-of-3": [
+   74655,
+   "Lady Bell, volume 1 (of 3)"
+  ],
+  "stytler-scotch-marriages-vol-1": [
+   75486,
+   "Scotch marriages, vol. 1"
+  ],
+  "stytler-oliver-constable-miller-and-baker-vol-1-of-3": [
+   78299,
+   "Oliver Constable, miller and baker, Vol. 1 (of 3)"
+  ],
+  "stytler-oliver-constable-miller-and-baker-vol-2-of-3": [
+   78315,
+   "Oliver Constable, miller and baker, Vol. 2 (of 3)"
+  ],
+  "stytler-oliver-constable-miller-and-baker-vol-3-of-3": [
+   78319,
+   "Oliver Constable, miller and baker, Vol. 3 (of 3)"
+  ],
+  "stytler-lady-bell-volume-2-of-3": [
+   78326,
+   "Lady Bell, volume 2 (of 3)"
+  ],
+  "stytler-saint-mungos-city": [
+   79371,
+   "Saint Mungo's city; vol. 1 [of 3]"
+  ],
+  "stytler-saint-mungos-city-79372": [
+   79372,
+   "Saint Mungo's city; vol. 2 [of 3]"
+  ],
+  "stytler-saint-mungos-city-79373": [
+   79373,
+   "Saint Mungo's city; vol. 3 [of 3]"
+  ],
+  "stytler-buried-diamonds-vol-1-of-3": [
+   79799,
+   "Buried diamonds, Vol. 1 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "stytler-life-of-her-most-gracious-majesty-the-queen-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-life-of-her-most-gracious-majesty-the-queen-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-girlhood-and-womanhood-the-story-of-some-fortunes-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-old-masters-and-their-pictures-for-the-use-of-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-houseful-of-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-landseers-dogs-and-their-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-jane-austen-and-her-works": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-lady-bell-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-scotch-marriages-vol-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-oliver-constable-miller-and-baker-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-oliver-constable-miller-and-baker-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-oliver-constable-miller-and-baker-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-lady-bell-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-saint-mungos-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-saint-mungos-city-79372": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-saint-mungos-city-79373": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stytler-buried-diamonds-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah tytler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "_about": "Catullus in English, translator per title: Robinson Ellis (in the metres of the original, 1871) and Sir Richard Burton with Leonard Smithers (1894), clean Gutenberg. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "catullus",
+  "catulli"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "catullus-ellis": [
+   18867,
+   "The Poems and Fragments of Catullus translated in the metres of the original",
+   "tr. Robinson Ellis (1871)"
+  ],
+  "catullus-burton-smithers": [
+   20732,
+   "The Carmina of Caius Valerius Catullus",
+   "tr. Sir Richard Burton (verse) and Leonard C. Smithers (prose)"
+  ]
+ },
+ "internet_archive": {
+  "catullus-tibullus-pervigilium-loeb": [
+   "catullustibullus00catu",
+   "Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913)",
+   "tr. F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium)"
+  ],
+  "catullus-cranstoun-1867": [
+   "poemsofvaleriusc00caturich",
+   "The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867)",
+   "tr. James Cranstoun"
+  ],
+  "catullus-lamb-1821-v1": [
+   "poemscaiusvaler01catugoog",
+   "The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821)",
+   "tr. George Lamb"
+  ],
+  "catullus-tibullus-kelly-erotica-1854": [
+   "cu31924031218211",
+   "Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV)",
+   "tr. Walter K. Kelly"
+  ],
+  "catullus-nott-1795-v1": [
+   "poemsofcaiusvale01catuiala",
+   "The Poems of Caius Valerius Catullus in English verse, with the Latin text revised, vol. I (London: J. Johnson, 1795; Latin facing)",
+   "tr. anonymous (IA catalogue: John Nott)"
+  ],
+  "catullus-hart-davies-1879": [
+   "catullus01catu",
+   "Catullus translated into English verse (London: Kegan Paul, 1879)",
+   "tr. Thomas Hart-Davies"
+  ],
+  "catullus-stuttaford-1912": [
+   "poemsofgaiusvale00catuiala",
+   "The Poems of Gaius Valerius Catullus, with notes and a translation (G. Bell, 1912)",
+   "tr. Charles Stuttaford"
+  ]
+ },
+ "_excluded": {
+  "pg23720": "To Lesbia: catalogued, serves a 404 page",
+  "George Lamb's Catullus, vol. II (1821)": "no scan of the 1821 vol. II found; vol. I held as catullus-lamb-1821-v1. Lamb's metrical Catullus is also printed whole, poem by poem, in Kelly's Bohn Erotica (catullus-tibullus-kelly-erotica-1854)"
+ },
+ "_surname": [
+  "catullus"
+ ],
+ "_translators": {
+  "catullus-ellis": "Robinson Ellis",
+  "catullus-burton-smithers": "Sir Richard Francis Burton",
+  "catullus-tibullus-pervigilium-loeb": "f. w. cornish",
+  "catullus-cranstoun-1867": "James Cranstoun",
+  "catullus-lamb-1821-v1": "George Lamb",
+  "catullus-stuttaford-1912": "Stuttaford"
+ },
+ "_checks": {
+  "catullus-ellis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "Robinson Ellis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robinson Ellis",
+   "translator_match": true
+  },
+  "catullus-burton-smithers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "Sir Richard Francis Burton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton; Leonard C. Smithers",
+   "translator_match": true
+  },
+  "catullus-tibullus-pervigilium-loeb": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "f. w. cornish",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "catullus-cranstoun-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "James Cranstoun",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "catullus-lamb-1821-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "George Lamb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "catullus-tibullus-kelly-erotica-1854": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "catullus-nott-1795-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "catullus-hart-davies-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "catullus-stuttaford-1912": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "Stuttaford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_held": {
+  "catullus-perseus-burton-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng3 (Carmina, tr. Sir Richard Francis Burton) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "catullus-perseus-smithers-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng4 (Carmina, tr. Leonard C. Smithers) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_translator_unchecked": {
+  "catullus-tibullus-kelly-erotica-1854": "title page OCRs the name as 'WALTEE K. KELLY' (Bohn, MDCCCLIV); the claim is not matched as written",
+  "catullus-nott-1795-v1": "the title page names no translator (published anonymously); John Nott is the IA catalogue's attribution only",
+  "catullus-hart-davies-1879": "title page names T. Hart-Davies, Bombay Civil Service (London: C. Kegan Paul, 1879); the OCR reads 'HAKT^DAVIES'"
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "supplied": [
+  {
+   "find": "*Foe[⟨•⟩]{.gap}us.",
+   "replace": "*Foe[d]{.supplied}us.",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}

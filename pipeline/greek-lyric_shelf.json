@@ -1,0 +1,335 @@
+{
+ "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing.",
+ "_name_words": [
+  "anthology",
+  "epigrams",
+  "sappho",
+  "anacreon",
+  "bacchylides"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "greek-anthology-mackail": [
+   2378,
+   "Select Epigrams from the Greek Anthology",
+   "tr. J. W. Mackail"
+  ],
+  "sappho-wharton": [
+   57390,
+   "Sappho: Memoir, Text, Selected Renderings, and a Literal Translation",
+   "ed. and tr. Henry Thornton Wharton; renderings by various hands"
+  ],
+  "anacreon-moore": [
+   38230,
+   "The Odes of Anacreon",
+   "tr. Thomas Moore"
+  ]
+ },
+ "internet_archive": {
+  "bacchylides-poste": [
+   "cu31924026462287",
+   "Bacchylides: A Prose Translation (Macmillan, 1898)",
+   "tr. Edward Poste"
+  ],
+  "greek-anthology-burges-1854": [
+   "greekanthology0000geor",
+   "The Greek Anthology, as selected for the use of Westminster, Eton and other public schools, literally translated into English prose, with metrical versions by Bland, Merivale and others (Bohn, MDCCCLIV)",
+   "tr. George Burges"
+  ],
+  "anacreon-fawkes-1760": [
+   "worksofanacreons00fawkuoft",
+   "The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760)",
+   "tr. Francis Fawkes"
+  ],
+  "anacreon-girdlestone-1804": [
+   "odesanacreontra00girdgoog",
+   "The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804)",
+   "tr. Thomas Girdlestone"
+  ],
+  "anacreon-arnold-1869": [
+   "anacreoninengli00anacgoog",
+   "Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869)",
+   "tr. Thomas James Arnold"
+  ],
+  "greek-anthology-macgregor": [
+   "greekanthologywi00macguoft",
+   "Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface)",
+   "tr. Robert Guthrie MacGregor"
+  ],
+  "anacreon-stanley-1815": [
+   "anacreonbionmosc00bionuoft",
+   "Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815)",
+   "tr. Thomas Stanley"
+  ],
+  "greek-anthology-bland-1813": [
+   "collectionsfromg00blanuoft",
+   "Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813)",
+   "tr. Robert Bland and others"
+  ],
+  "greek-anthology-perry-garden-of-hellas-1891": [
+   "fromgardenofhell00unse",
+   "From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891)",
+   "tr. Lilla Cabot Perry"
+  ],
+  "greek-anthology-benson-reed-of-pan-1922": [
+   "reedofpanenglish00bensuoft",
+   "The Reed of Pan: English renderings of Greek epigrams and lyrics (1922)",
+   "tr. A. C. Benson"
+  ],
+  "greek-anthology-rodd-love-worship-death-1916": [
+   "loveworshipdeath00roddrich",
+   "Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916)",
+   "tr. Rennell Rodd"
+  ]
+ },
+ "_excluded": {
+  "Paton, The Greek Anthology (Loeb, 1916-18, 5 vols.)": "US PD by date but Greek facing; pending",
+  "Edmonds, Lyra Graeca (Loeb, 1922-27)": "Greek facing; vol. 2 (1931 scan) not yet PD; pending",
+  "Mair, Callimachus/Lycophron/Aratus (Loeb, 1921) and Oppian/Colluthus/Tryphiodorus (Loeb, 1928)": "Greek facing; pending",
+  "Musaeus": "held on the late-greek-poets shelf (Arnold's Hero and Leander, musaeus-arnold-hero-leander)",
+  "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken",
+  "bub_gb_3QevpbXOklcC": "Fawkes's Anacreon, Sappho and Musaeus, 1810 reprint (Suttaby); the 1760 edition is held as anacreon-fawkes-1760.",
+  "odesofanacreonof00anac": "The Odes of Anacreon of Teos, literally translated into English prose (1806): OCR 0.70, under the 0.78 bar.",
+  "Edward Fry, Lady Fry and Agnes Fry, A Century of Greek Epigrams (privately printed, 1915)": "IA centuryofgreekep00fryerich reads 0.759 (Greek text facing), under the bar, and Agnes Fry is a co-translator whose death year was not checked, so UK status is open; US PD by date. Not taken",
+  "Evelyn Baring, Earl of Cromer, Paraphrases and Translations from the Greek (1903)": "IA paraphrasestrans00cromrich reads 0.734 (Greek facing); under the bar, part of the Greek-facing question",
+  "Arthur D. Innes, Verse Translations from Greek and Latin Poets (1894)": "IA versetranslation00innerich reads 0.625; refused for OCR quality 2026-10-10"
+ },
+ "_surname": [
+  "sappho",
+  "anacreon",
+  "bacchylides",
+  "alcaeus",
+  "anthology",
+  "pindar",
+  "simonides"
+ ],
+ "_translators": {
+  "greek-anthology-mackail": "J. W. Mackail",
+  "sappho-wharton": "henry thornton wharton",
+  "anacreon-moore": "Thomas Moore",
+  "bacchylides-poste": "poste",
+  "greek-anthology-burges-1854": "George Burges",
+  "anacreon-fawkes-1760": "Fawkes",
+  "anacreon-girdlestone-1804": "Girdlestone",
+  "anacreon-arnold-1869": "thomas james arnold",
+  "greek-anthology-macgregor": "robert guthrie macgregor",
+  "anacreon-stanley-1815": "thomas stanley",
+  "greek-anthology-bland-1813": "robert bland",
+  "greek-anthology-perry-garden-of-hellas-1891": "lilla cabot perry",
+  "greek-anthology-benson-reed-of-pan-1922": "a. c. benson",
+  "greek-anthology-rodd-love-worship-death-1916": "rennell rodd"
+ },
+ "_checks": {
+  "greek-anthology-mackail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "greek anthology",
+   "translator_claimed": "J. W. Mackail",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. W. Mackail",
+   "translator_match": true
+  },
+  "sappho-wharton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "henry thornton wharton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "anacreon-moore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "Thomas Moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bacchylides-poste": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bacchylides",
+   "translator_claimed": "poste",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "greek-anthology-burges-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "George Burges",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "anacreon-fawkes-1760": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "Fawkes",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "anacreon-girdlestone-1804": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "Girdlestone",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "anacreon-arnold-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "thomas james arnold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-macgregor": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "robert guthrie macgregor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain."
+  },
+  "anacreon-stanley-1815": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "thomas stanley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-bland-1813": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "robert bland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-perry-garden-of-hellas-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "lilla cabot perry",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
+  },
+  "greek-anthology-benson-reed-of-pan-1922": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "a. c. benson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "London, 1922, 'All Rights Reserved': US PD (published before 1931). Benson died in 1925, so UK PD since 1996 (death year from general reference)"
+  },
+  "greek-anthology-rodd-love-worship-death-1916": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "rennell rodd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "London: Edward Arnold, 1916, 'All rights reserved': US PD by date. Rodd died in 1941, so UK PD since 2012 (death year from general reference)"
+  }
+ },
+ "_surname_by_slug": {
+  "greek-anthology-mackail": [
+   "greek anthology"
+  ],
+  "sappho-wharton": [
+   "sappho"
+  ],
+  "anacreon-moore": [
+   "anacreon"
+  ],
+  "bacchylides-poste": [
+   "bacchylides"
+  ],
+  "anacreon-fawkes-1760": [
+   "anacreon"
+  ],
+  "anacreon-girdlestone-1804": [
+   "anacreon"
+  ],
+  "anacreon-arnold-1869": [
+   "anacreon"
+  ]
+ },
+ "_rights_checked": {
+  "greek-anthology-macgregor": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain.",
+  "greek-anthology-perry-garden-of-hellas-1891": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)",
+  "greek-anthology-benson-reed-of-pan-1922": "London, 1922, 'All Rights Reserved': US PD (published before 1931). Benson died in 1925, so UK PD since 1996 (death year from general reference)",
+  "greek-anthology-rodd-love-worship-death-1916": "London: Edward Arnold, 1916, 'All rights reserved': US PD by date. Rodd died in 1941, so UK PD since 2012 (death year from general reference)"
+ }
+}

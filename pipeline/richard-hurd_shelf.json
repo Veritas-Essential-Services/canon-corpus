@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain Richard Hurd (1720-1808), Bishop of Worcester, for the Word Hoard: his Works (London: Cadell and Davies, 1811, eight volumes: the Warburtonian lectures on prophecy, sermons, charges, the dialogues and critical essays), and the separate Introduction to the Study of the Prophecies (1772), from Internet Archive scans. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hurd"
+ ],
+ "_surname": [
+  "richard hurd",
+  "hurd"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hurd-works-1": [
+   "worksofrichardhu01hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 1 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-works-2": [
+   "worksofrichardhu02hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 2 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-works-3": [
+   "worksofrichardhu03hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 3 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-works-4": [
+   "worksofrichardhu04hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 4 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-works-5": [
+   "worksofrichardhu05hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 5 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-works-6": [
+   "worksofrichardhu06hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 6 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-works-7": [
+   "worksofrichardhu07hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 7 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-works-8": [
+   "worksofrichardhu08hurd",
+   "The works of Richard Hurd, Lord Bishop of Worcester, vol. 8 (London : Printed for T. Cadell and W. Davies, Strand, 1811)"
+  ],
+  "hurd-prophecies-1772": [
+   "a588161800hurduoft",
+   "An introduction to the study of the prophecies concerning the Christian church : and in particular, concerning the Church of Papal Rome ; in twelve sermons, preached in Lincoln's-Inn-Chapel, at the lecture of the Right Reverend William Warburton, Lord Bishop of Gloucester (London : Printed by W. Bowyer and J. Nichols for T. Cadell, 1772)"
+  ]
+ },
+ "_alternates": {
+  "hurd-copies": "The Google copies of the 1811 Works (worksrichardhur14-17hurdgoog); the Boston 1809 Introduction"
+ },
+ "_excluded": {
+  "hurd-other": "His editions of Addison and Warburton (other men's works); the 1911 Letters on Chivalry school edition; the 1860 Memoirs by another hand"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hurd-prophecies-1772": "title page text: 'An Introduction to the Study of the Prophecies ... in twelve sermons, preached in Lincoln's-Inn-Chapel, at the lecture of ... William Warburton ... By Richard Hurd, D.D. Preacher to the Honourable Society of Lincoln's-Inn' (the OCR reads the surname as 'gLURD')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hurd-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard hurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurd-prophecies-1772": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1772",
+   "ia_date": "1772",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

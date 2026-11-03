@@ -1,0 +1,329 @@
+{
+ "_about": "Tacitus in English, translator per title. Alfred John Church and William Jackson Brodribb: Annals (1876; 1906 printing) and Histories (1864; 1894 printing), raw IA; Germany and Agricola ('the Oxford translation revised'), clean Gutenberg. W. Hamilton Fyfe's Histories (Oxford, 1912; Gutenberg clears it as US PD; Fyfe d. 1965). Thomas Gordon (1728-31): Germany, clean Gutenberg; his Annals I-VI selection is already on the Adler shelf. Arthur Murphy's Dialogue on Oratory. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
+ "_name_words": [
+  "tacitus",
+  "cornelius"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tacitus-oxford-germany-agricola": [
+   7524,
+   "The Germany and the Agricola of Tacitus",
+   "tr. the Oxford translation revised (with notes)"
+  ],
+  "tacitus-fyfe-histories": [
+   16927,
+   "Tacitus: The Histories, vols. I and II",
+   "tr. W. Hamilton Fyfe (1912); US PD per Gutenberg"
+  ],
+  "tacitus-gordon-germany": [
+   2995,
+   "Tacitus on Germany",
+   "tr. Thomas Gordon"
+  ],
+  "tacitus-murphy-dialogue": [
+   15017,
+   "A Dialogue Concerning Oratory, or the Causes of Corrupt Eloquence",
+   "tr. Arthur Murphy"
+  ]
+ },
+ "internet_archive": {
+  "tacitus-church-brodribb-annals": [
+   "annalstacitustr00brodgoog",
+   "Annals of Tacitus, translated into English with notes and maps (1906 printing)",
+   "tr. A. J. Church and W. J. Brodribb"
+  ],
+  "tacitus-church-brodribb-histories": [
+   "historyoftacitus00taci",
+   "The History of Tacitus, translated into English (1894 printing)",
+   "tr. A. J. Church and W. J. Brodribb"
+  ],
+  "tacitus-hutton-peterson-dialogus-agricola-germania": [
+   "dialogusagricola0000taci_n3b1",
+   "Dialogus, Agricola, Germania (Loeb, 1914)",
+   "tr. W. Peterson (Dialogus), M. Hutton (Agricola, Germania)"
+  ],
+  "tacitus-gordon-v1": [
+   "worksoftacituswi01taci",
+   "The Works of Tacitus, with Political Discourses, vol. 1 (1753)",
+   "tr. Thomas Gordon"
+  ],
+  "tacitus-gordon-v2": [
+   "worksoftacituswi02taci",
+   "The Works of Tacitus, with Political Discourses, vol. 2 (1753)",
+   "tr. Thomas Gordon"
+  ],
+  "tacitus-gordon-v3": [
+   "worksoftacituswi03taci",
+   "The Works of Tacitus, with Political Discourses, vol. 3 (1753)",
+   "tr. Thomas Gordon"
+  ],
+  "tacitus-gordon-v4": [
+   "worksoftacituswi04taci",
+   "The Works of Tacitus, with Political Discourses, vol. 4 (1753)",
+   "tr. Thomas Gordon"
+  ],
+  "tacitus-gordon-v5": [
+   "worksoftacituswi05taci",
+   "The Works of Tacitus, with Political Discourses, vol. 5 (1753)",
+   "tr. Thomas Gordon"
+  ],
+  "tacitus-moore-histories-v1": [
+   "tacitus-in-5-volumes.-v.-2-loeb-111",
+   "Tacitus, The Histories, vol. I: Books I-III, with an English translation (Loeb; London: Heinemann, New York: Putnam, MCMXXV; Latin facing)",
+   "LAT-EN - Loeb 111, v.2 -Moore-Jackson_djvu.txt",
+   "tr. Clifford H. Moore"
+  ],
+  "tacitus-ramsay-annals-1904-v1": [
+   "cu31924071188753",
+   "The Annals of Tacitus, Books I-VI, an English translation (London: John Murray, 1904)",
+   "tr. George Gilbert Ramsay"
+  ],
+  "tacitus-ramsay-annals-1909-v2": [
+   "cu31924071188761",
+   "The Annals of Tacitus, Books XI-XVI, an English translation (London: John Murray, 1909)",
+   "tr. George Gilbert Ramsay"
+  ],
+  "tacitus-aikin-germany-agricola-1815": [
+   "atreatiseonsitu00unkngoog",
+   "A Treatise on the Situation, Manners, and Inhabitants of Germany, and the Life of Agricola, with copious notes and a map, third edition (Oxford: W. Baxter; title-page date OCRs as 1816, IA 1815)",
+   "tr. John Aikin"
+  ]
+ },
+ "_cross_ref": {
+  "tacitus-annals": "Adler shelf: PG 7959, which is Thomas GORDON's 'The Reign of Tiberius, out of the First Six Annals' (ed. Galton), not Church and Brodribb's Annals as the Adler label says; the full Church-Brodribb Annals is now on this shelf"
+ },
+ "_excluded": {
+  "pg59786": "index page",
+  "John Jackson, Loeb Annals (1931-37)": "not cleared"
+ },
+ "_surname": [
+  "tacitus"
+ ],
+ "_translators": {
+  "tacitus-fyfe-histories": "W. Hamilton Fyfe",
+  "tacitus-gordon-germany": "Thomas Gordon",
+  "tacitus-murphy-dialogue": "Arthur Murphy",
+  "tacitus-church-brodribb-annals": "alfred john church",
+  "tacitus-church-brodribb-histories": "alfred john church",
+  "tacitus-hutton-peterson-dialogus-agricola-germania": "william peterson",
+  "tacitus-gordon-v1": "Thomas Gordon",
+  "tacitus-gordon-v2": "Thomas Gordon",
+  "tacitus-gordon-v3": "Thomas Gordon",
+  "tacitus-gordon-v4": "Thomas Gordon",
+  "tacitus-gordon-v5": "Thomas Gordon",
+  "tacitus-moore-histories-v1": "Clifford H. Moore",
+  "tacitus-ramsay-annals-1904-v1": "Ramsay",
+  "tacitus-ramsay-annals-1909-v2": "Ramsay",
+  "tacitus-aikin-germany-agricola-1815": "john aikin"
+ },
+ "_translator_unchecked": {
+  "tacitus-oxford-germany-agricola": "no single translator to check: the Oxford translation revised (with notes)"
+ },
+ "_checks": {
+  "tacitus-oxford-germany-agricola": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tacitus-fyfe-histories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "W. Hamilton Fyfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Hamilton Fyfe",
+   "translator_match": true
+  },
+  "tacitus-gordon-germany": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Thomas Gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Gordon",
+   "translator_match": true
+  },
+  "tacitus-murphy-dialogue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Arthur Murphy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tacitus-church-brodribb-annals": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "alfred john church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tacitus-church-brodribb-histories": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "alfred john church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-hutton-peterson-dialogus-agricola-germania": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "william peterson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Thomas Gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Thomas Gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Thomas Gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tacitus-gordon-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Thomas Gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Thomas Gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tacitus-moore-histories-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Clifford H. Moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: 'MCMXXV', Heinemann/Putnam, series editors Capps, Page and Rouse; no reprint line. The 1925 first printing. IA dates the upload 1925."
+  },
+  "tacitus-ramsay-annals-1904-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Ramsay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-ramsay-annals-1909-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Ramsay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-aikin-germany-agricola-1815": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "john aikin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {
+  "tacitus-moore-histories-v1": "Title page read: 'MCMXXV', Heinemann/Putnam, series editors Capps, Page and Rouse; no reprint line. The 1925 first printing. IA dates the upload 1925."
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "_about": "Public-domain John Kelman (1864-1929), Free Church minister in Edinburgh and later of Fifth Avenue Presbyterian Church, New York, for the Word Hoard: The Holy Land (1902), The Faith of Robert Louis Stevenson (1903), From Damascus to Palmyra (1908), Ephemera Eternitatis (1910), The Road of Life (1911), Among Famous Books (1912), his Yale Lectures The War and Preaching (1919), Some Aspects of International Christianity and Things Eternal (1920). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 71 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "kelman"
+ ],
+ "_surname": [
+  "kelman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kelman-holy-land": [
+   "holyland00kelmuoft",
+   "The Holy Land (London : A. & C. Black, 1902)"
+  ],
+  "kelman-faith-of-stevenson": [
+   "faithofrobertlou00kelmuoft",
+   "The faith of Robert Louis Stevenson (Edinburgh, Oliphant, Anderson and Ferrier, 1903)"
+  ],
+  "kelman-damascus-to-palmyra": [
+   "fromdamascustopa00kelm",
+   "From Damascus to Palmyra (London : Black, 1908)"
+  ],
+  "kelman-ephemera-eternitatis": [
+   "ephemeraeternita00kelm",
+   "Ephemera Eternitatis: a book of short studies in life here and hereafter, arranged for the Sundays of the Christian year (New York: Hodder and Stoughton, 1910)"
+  ],
+  "kelman-road-of-life": [
+   "roadoflifestudyo0000kelm",
+   "The road of life, a study of Pilgrim's journey as far as Vanity Fair ([London] Hodder & Stoughton; New York, Doran, 1911)"
+  ],
+  "kelman-among-famous-books": [
+   "amongfamousbooks00kelmuoft",
+   "Among famous books (London : Hodder and Stoughton, 1912)"
+  ],
+  "kelman-war-and-preaching": [
+   "warpreaching00kelmuoft",
+   "The war and preaching (New Haven : Yale University Press, 1919)"
+  ],
+  "kelman-international-christianity": [
+   "someaspectsof00kelm",
+   "Some aspects of international Christianity (New York ; Cincinnati : Abingdon Press, 1920)"
+  ],
+  "kelman-things-eternal": [
+   "thingseterna00kelm",
+   "Things eternal (New York, George H. Doran company, 1920)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kelman-pamphlets": "single sermons printed as pamphlets at Fifth Avenue (1920): He Gave Thanks, The Garden and the Cross, and others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kelman-holy-land": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelman-faith-of-stevenson": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelman-damascus-to-palmyra": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelman-ephemera-eternitatis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelman-road-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kelman-among-famous-books": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelman-war-and-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelman-international-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kelman-things-eternal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

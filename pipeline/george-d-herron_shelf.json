@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain George Davis Herron (1862-1925), Congregational minister and Social Gospel lecturer at Grinnell, for the Word Hoard: his religious books only: The Larger Christ, A Plea for the Gospel, The Call of the Cross, The New Redemption, The Christian Society, The Christian State, Social Meanings of Religious Experiences, and Between Caesar and Jesus (1891-1899). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 90 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george d. herron",
+  "george davis herron",
+  "g. d. herron"
+ ],
+ "_surname": [
+  "george d. herron",
+  "george davis herron",
+  "g. d. herron",
+  "herron"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herron-larger-christ": [
+   "largerchrist00herr",
+   "The larger Christ (Chicago, F. H. Revell Co, 1891)"
+  ],
+  "herron-plea-gospel": [
+   "pleaforgospel0000herr",
+   "A plea for the Gospel (New York ; Boson : Thomas Y. Crowell, 1892)"
+  ],
+  "herron-call-cross": [
+   "callofcrossfourc00herr",
+   "The call of the cross; four college sermons (New York, Fleming H. Revell company, 1892)"
+  ],
+  "herron-new-redemption": [
+   "newredemptioncal0000herr",
+   "The new redemption. A call to the church to reconstruct society according to the gospel of Christ (New York, T.Y. Crowell, 1893)"
+  ],
+  "herron-christian-society": [
+   "christiansociety0000herr",
+   "The Christian society (Chicago ; New York : Fleming H. Revell, 1894)"
+  ],
+  "herron-christian-state": [
+   "christianstatepo0000herr",
+   "The Christian state; a political vision of Christ (New York T.Y. Crowell New York Johnson Reprint Corp, 1895)"
+  ],
+  "herron-social-meanings": [
+   "socialmeaningsof00herruoft",
+   "Social meanings of religious experiences (New York : T.Y. Crowell, c189)"
+  ],
+  "herron-caesar-jesus": [
+   "betweencaesarjes00herr",
+   "Between Caesar and Jesus (New York : T. Y. Crowell, [c18)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "herron-political": "his political books (American Imperialism, Woodrow Wilson and the World's Peace, The Menace of Peace, Germanism and the American Crusade, The Greater War, The Revival of Italy)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "herron-larger-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herron-plea-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herron-call-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herron-new-redemption": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herron-christian-society": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herron-christian-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herron-social-meanings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "c1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herron-caesar-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george d. herron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "[c1899]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

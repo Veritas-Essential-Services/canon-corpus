@@ -1,0 +1,63 @@
+{
+ "_about": "Public-domain Johannes Heinrich August Ebrard (1818-1888, Erlangen) in English for the Word Hoard: his continuations of Olshausen's commentary, the Epistles of St John, tr. W. B. Pope (1860), and Hebrews, tr. John Fulton (second edition, 1862), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ebrard"
+ ],
+ "_surname": [
+  "ebrard",
+  "dr. ebrard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ebrard-epistles-st-john": [
+   "commentarystjohn00ebrauoft",
+   "Biblical Commentary on the Epistles of St. John, tr. W. B. Pope (Edinburgh: T. & T. Clark, MDCCCLX)"
+  ],
+  "ebrard-hebrews": [
+   "biblicalcommenta00ebra_0",
+   "Biblical Commentary on the Epistle to the Hebrews, second edition, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLXII)"
+  ]
+ },
+ "_alternates": {
+  "ebrard-copies": "Another Hebrews copy"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {
+  "ebrard-other": "His Gospel History and Apologetics in English: not researched"
+ },
+ "_translators": {
+  "ebrard-epistles-st-john": "pope",
+  "ebrard-hebrews": "fulton"
+ },
+ "_checks": {
+  "ebrard-epistles-st-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ebrard",
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ebrard-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ebrard",
+   "translator_claimed": "fulton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

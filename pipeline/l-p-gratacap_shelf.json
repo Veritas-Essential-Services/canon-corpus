@@ -1,0 +1,100 @@
+{
+ "_about": "L. P. Gratacap: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "L. P. Gratacap",
+ "_name_words": [
+  "gratacap",
+  "louis",
+  "pope"
+ ],
+ "_surname": [
+  "l. p. gratacap",
+  "louis pope gratacap",
+  "gratacap"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lpgratacap-certainty-of-a-future-life-in-mars-being-the-post": [
+   13289,
+   "The Certainty of a Future Life in Mars Being the Posthumous Papers of Bradford Torrey Dodd"
+  ],
+  "lpgratacap-woman-of-the-ice-age": [
+   55949,
+   "A Woman of the Ice Age"
+  ],
+  "lpgratacap-end": [
+   65463,
+   "The End: How the Great War Was Stopped. A Novelistic Vagary"
+  ],
+  "lpgratacap-evacuation-of-england": [
+   65588,
+   "The Evacuation of England: The Twist in the Gulf Stream"
+  ],
+  "lpgratacap-new-northland": [
+   69925,
+   "The new northland"
+  ],
+  "lpgratacap-mayor-of-new-york": [
+   79541,
+   "The Mayor of New York"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lpgratacap-certainty-of-a-future-life-in-mars-being-the-post": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. p. gratacap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lpgratacap-woman-of-the-ice-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. p. gratacap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lpgratacap-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. p. gratacap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lpgratacap-evacuation-of-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. p. gratacap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lpgratacap-new-northland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. p. gratacap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lpgratacap-mayor-of-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. p. gratacap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

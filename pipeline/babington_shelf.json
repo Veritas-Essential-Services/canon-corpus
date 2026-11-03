@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: B. G. Babington (1794-1866): J. F. C. Hecker's The Black Death in the Fourteenth Century (1833) and The Epidemics of the Middle Ages (Sydenham Society, 1844). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "b. g. babington",
+  "babington"
+ ],
+ "_surname": [
+  "b. g. babington",
+  "babington"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bab-52413": [
+   52413,
+   "The Black Death in the Fourteenth Century"
+  ],
+  "bab-63232": [
+   63232,
+   "The Epidemics of the Middle Ages"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "babington-hecker-the-black-death-in-the-fourteenth-centur": {
+   "source": "bab-52413",
+   "of": "Justus Friedrich Carl Hecker",
+   "work": "The Black Death in the Fourteenth Century",
+   "translated": "1833-1844 (see the Gutenberg header)",
+   "translator": "B. G. Babington",
+   "scan_edition": "Project Gutenberg 52413 (clean text)"
+  },
+  "babington-hecker-the-epidemics-of-the-middle-ages": {
+   "source": "bab-63232",
+   "of": "Justus Friedrich Carl Hecker",
+   "work": "The Epidemics of the Middle Ages",
+   "translated": "1833-1844 (see the Gutenberg header)",
+   "translator": "B. G. Babington",
+   "scan_edition": "Project Gutenberg 63232 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-1739": "The Black Death and the Dancing Mania is Henry Morley's 1888 Cassell reprint of two parts of the 1844 Epidemics, which this shelf holds whole."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bab-52413": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. babington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "B. G. Babington"
+  },
+  "bab-63232": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. babington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "B. G. Babington"
+  }
+ },
+ "_verified": {
+  "bab-52413": {
+   "pg": 52413,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "B. G. Babington"
+  },
+  "bab-63232": {
+   "pg": 63232,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "B. G. Babington"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

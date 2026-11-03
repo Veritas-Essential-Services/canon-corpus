@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain William Laud (1573-1645), Archbishop of Canterbury, for the Word Hoard: his Works in the Library of Anglo-Catholic Theology (Oxford: J. H. Parker, 1847-1860, seven volumes in nine: sermons, the Conference with Fisher, devotions and diary, history of his troubles and trial, the Chancellorship of Oxford, letters, notes on Bellarmine), from Internet Archive scans. Laud is the high-church archbishop whose policies the Puritans and Covenanters resisted; he is shelved as part of the record. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "laud"
+ ],
+ "_surname": [
+  "william laud",
+  "laud"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "laud-works-1": [
+   "worksofmostrever01laud_0",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-2": [
+   "theworksofthemos02lauduoft",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-3": [
+   "theworksofthemos03lauduoft",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 3 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-4": [
+   "theworksofthemos04lauduoft",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 4 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-5-1": [
+   "worksofmostrever51laud",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 5:1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-5-2": [
+   "worksofmostrever52laud",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 5:2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-6-1": [
+   "theworksofthemo106lauduoft",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 6, pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-6-2": [
+   "pt2worksofwlaud06lauduoft",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 6, pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ],
+  "laud-works-7": [
+   "theworksofthemos07lauduoft",
+   "The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 7 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847)"
+  ]
+ },
+ "_alternates": {
+  "laud-copies": "Other scans of the LACT Works (Toronto Robarts, Illinois, Google and Princeton copies); the separate Oxford printings of the Private Devotions (1838), the Conference with Fisher (1839), the three speeches (1840) and the Sermons (1829), all contained in the Works; his 1621-1628 sermons and 1637 Star-Chamber speech in first printings (EEBO)"
+ },
+ "_excluded": {
+  "laud-other": "The 1637 Scottish Book of Common Prayer (a liturgy of the Church of Scotland, not his work); Original Letters on his benefactions (1841, documents by others); biographies"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "laud-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "laud-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "laud-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "laud-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "laud-works-5-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "laud-works-5-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "laud-works-6-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "laud-works-6-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1847-1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "laud-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william laud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

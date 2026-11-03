@@ -1,0 +1,293 @@
+{
+ "_about": "Ridgwell Cullum's Western and Yukon adventure novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ridgwell Cullum",
+ "_name_words": [
+  "cullum",
+  "ridgwell"
+ ],
+ "_surname": [
+  "ridgwell cullum",
+  "cullum"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rcullum-story-of-the-foss-river-ranch": [
+   14482,
+   "The Story of the Foss River Ranch: A Tale of the Northwest"
+  ],
+  "rcullum-man-in-the-twilight": [
+   14756,
+   "The Man in the Twilight"
+  ],
+  "rcullum-triumph-of-john-kars": [
+   19064,
+   "The Triumph of John Kars: A Story of the Yukon"
+  ],
+  "rcullum-forfeit": [
+   19371,
+   "The Forfeit"
+  ],
+  "rcullum-heart-of-unaga": [
+   23662,
+   "The Heart of Unaga"
+  ],
+  "rcullum-watchers-of-the-plains": [
+   27521,
+   "The Watchers of the Plains: A Tale of the Western Prairies"
+  ],
+  "rcullum-night-riders": [
+   29479,
+   "The Night Riders: A Romance of Early Montana"
+  ],
+  "rcullum-golden-woman": [
+   29628,
+   "The Golden Woman: A Story of the Montana Hills"
+  ],
+  "rcullum-twins-of-suffering-creek": [
+   29638,
+   "The Twins of Suffering Creek"
+  ],
+  "rcullum-hound-from-the-north": [
+   29695,
+   "The Hound From The North"
+  ],
+  "rcullum-law-breakers": [
+   29958,
+   "The Law-Breakers"
+  ],
+  "rcullum-one-way-trail": [
+   30113,
+   "The One-Way Trail: A story of the cattle country"
+  ],
+  "rcullum-in-the-brooding-wild": [
+   31607,
+   "In the Brooding Wild"
+  ],
+  "rcullum-way-of-the-strong": [
+   35776,
+   "The Way of the Strong"
+  ],
+  "rcullum-son-of-his-father": [
+   36170,
+   "The Son of his Father"
+  ],
+  "rcullum-trail-of-the-axe": [
+   36522,
+   "The Trail of the Axe: A Story of Red Sand Valley"
+  ],
+  "rcullum-men-who-wrought": [
+   36836,
+   "The Men Who Wrought"
+  ],
+  "rcullum-luck-of-the-kid": [
+   59113,
+   "The Luck of the Kid"
+  ],
+  "rcullum-saint-of-the-speedway": [
+   62533,
+   "The Saint of the Speedway"
+  ],
+  "rcullum-riddle-of-three-way-creek": [
+   74048,
+   "The riddle of Three-Way Creek"
+  ],
+  "rcullum-wolf-pack": [
+   74478,
+   "The wolf pack"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rcullum-story-of-the-foss-river-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-man-in-the-twilight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-triumph-of-john-kars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-forfeit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-heart-of-unaga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-watchers-of-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-night-riders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-golden-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-twins-of-suffering-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-hound-from-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-law-breakers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-one-way-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-in-the-brooding-wild": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-way-of-the-strong": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-son-of-his-father": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-trail-of-the-axe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-men-who-wrought": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-luck-of-the-kid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-saint-of-the-speedway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-riddle-of-three-way-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcullum-wolf-pack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ridgwell cullum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Girolamo Savonarola (1452-1498, Dominican of Florence) in English for the Word Hoard: The Triumph of the Cross edited by John Procter (London, 1901) from Project Gutenberg, and from Internet Archive scans the Triumph of the Cross in the 1868 Hodder and Stoughton translation and the 1661 Cambridge version, the Exposition of the Miserere tr. F. C. Cowper (Milwaukee, 1889), the Meditations on Psalm LI and Psalm XXXI tr. E. H. Perowne (1900), and the Spiritual and Ascetic Letters ed. B. W. Randolph. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "savonarola"
+ ],
+ "_surname": [
+  "savonarola",
+  "girolamo savonarola",
+  "jerome savonarola",
+  "hier. savonarola"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "savonarola-triumph-procter": [
+   "74508",
+   "The Triumph of the Cross, translated from the Italian, ed. John Procter (London: Sands, 1901)"
+  ]
+ },
+ "internet_archive": {
+  "savonarola-triumph-1868": [
+   "triumphofcrossby00savo",
+   "The Triumph of the Cross, translated from the Latin with notes and a biographical sketch (London: Hodder and Stoughton, MDCCCLXVIII)"
+  ],
+  "savonarola-truth-christian-faith-1661": [
+   "bim_early-english-books-1641-1700_the-truth-of-the-christi_savonarola-girolamo_1661",
+   "The Truth of the Christian Faith, or the Triumph of the Cross of Christ, done into English out of the author's own Italian copy (Cambridge: John Field; catalogued 1661)"
+  ],
+  "savonarola-miserere-cowper": [
+   "expositionofpsal0000savo",
+   "An Exposition of the Psalm Miserere mei Deus, tr. F. C. Cowper (Milwaukee: Young Churchman, 1889)"
+  ],
+  "savonarola-meditations-perowne": [
+   "meditationsonpsa00savo",
+   "Meditations on Psalm LI and part of Psalm XXXI, in Latin with an English translation by E. H. Perowne (London: C. J. Clay, 1900)"
+  ],
+  "savonarola-spiritual-letters": [
+   "spiritualandasce00savouoft",
+   "Spiritual and Ascetic Letters of Savonarola, ed. B. W. Randolph (London: A. R. Mowbray; catalogued 1907)"
+  ]
+ },
+ "_alternates": {
+  "savonarola-copies": "Other copies of Procter 1901 and of the 1889 Miserere",
+  "savonarola-early": "Sixteenth-century Miserere expositions (1537-1578) and the 1651 Felicity of a Christian: title pages not legible"
+ },
+ "_excluded": {
+  "savonarola-about": "Lives by Villari, Clark, Madden, Oliphant and others",
+  "savonarola-late": "Modern editions"
+ },
+ "_rights_checked": {
+  "savonarola-truth-christian-faith-1661": "title page read: 'By Hier. Savonarola', Cambridge, John Field; year OCR'd 'MDCL XL'; catalogued 1661",
+  "savonarola-spiritual-letters": "title page read: A. R. Mowbray and Thomas Whittaker, no year; catalogued 1907"
+ },
+ "_pending": {
+  "savonarola-sermons": "His sermons in English before 1930: not found"
+ },
+ "_translators": {
+  "savonarola-miserere-cowper": "cowper",
+  "savonarola-meditations-perowne": "perowne"
+ },
+ "_checks": {
+  "savonarola-triumph-procter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "savonarola",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "savonarola-triumph-1868": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "savonarola",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "savonarola-truth-christian-faith-1661": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "savonarola",
+   "identity": "ok",
+   "ia_rights": "ok: published 1661",
+   "ia_date": "1661",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'By Hier. Savonarola', Cambridge, John Field; year OCR'd 'MDCL XL'; catalogued 1661"
+  },
+  "savonarola-miserere-cowper": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "savonarola",
+   "translator_claimed": "cowper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "savonarola-meditations-perowne": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "savonarola",
+   "translator_claimed": "perowne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "savonarola-spiritual-letters": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "savonarola",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "[1907?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: A. R. Mowbray and Thomas Whittaker, no year; catalogued 1907"
+  }
+ }
+}

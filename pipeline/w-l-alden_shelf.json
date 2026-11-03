@@ -1,0 +1,113 @@
+{
+ "_about": "W. L. Alden: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "W. L. Alden",
+ "_name_words": [
+  "alden",
+  "livingston",
+  "william"
+ ],
+ "_surname": [
+  "w. l. alden",
+  "william livingston alden",
+  "alden"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wlalden-adventures-of-jimmy-brown": [
+   57844,
+   "The Adventures of Jimmy Brown"
+  ],
+  "wlalden-cruise-of-the-canoe-club": [
+   68322,
+   "The cruise of the Canoe Club"
+  ],
+  "wlalden-told-by-the-colonel": [
+   68468,
+   "Told by the Colonel"
+  ],
+  "wlalden-moral-pirates": [
+   68732,
+   "The moral pirates"
+  ],
+  "wlalden-new-robinson-crusoe": [
+   70016,
+   "A new Robinson Crusoe"
+  ],
+  "wlalden-christopher-columbus-1440-1506": [
+   71569,
+   "Christopher Columbus (1440-1506)"
+  ],
+  "wlalden-loss-of-the-swansea": [
+   76536,
+   "The loss of the Swansea"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wlalden-adventures-of-jimmy-brown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlalden-cruise-of-the-canoe-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlalden-told-by-the-colonel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlalden-moral-pirates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlalden-new-robinson-crusoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlalden-christopher-columbus-1440-1506": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlalden-loss-of-the-swansea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. alden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

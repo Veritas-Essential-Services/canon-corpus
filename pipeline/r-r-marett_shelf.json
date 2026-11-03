@@ -1,0 +1,76 @@
+{
+ "_about": "Robert Ranulph Marett (1866-1943), Oxford anthropologist of religion. Gutenberg: Anthropology (Home University Library, 1912); Anthropology and the Classics, six lectures, which he edited (1908). Raw IA OCR: The Threshold of Religion (London: Methuen, first published 1909), clean 0.81; Psychology and Folk-Lore (London: Methuen, 1920), clean 0.93. US public domain. No uids minted.",
+ "_author": "R. R. Marett",
+ "_name_words": [
+  "robert",
+  "ranulph",
+  "marett"
+ ],
+ "_surname": [
+  "marett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "marett-anthropology": [
+   17280,
+   "Anthropology"
+  ],
+  "marett-anthropology-and-the-classics": [
+   53646,
+   "Anthropology and the Classics"
+  ]
+ },
+ "internet_archive": {
+  "marett-threshold-of-religion-1909": [
+   "cu31924014376150",
+   "The Threshold of Religion (Methuen, 1909)"
+  ],
+  "marett-psychology-and-folk-lore-1920": [
+   "psychologyfolklo00mareuoft",
+   "Psychology and Folk-Lore (Methuen, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "marett-anthropology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marett-anthropology-and-the-classics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marett-threshold-of-religion-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "marett-psychology-and-folk-lore-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

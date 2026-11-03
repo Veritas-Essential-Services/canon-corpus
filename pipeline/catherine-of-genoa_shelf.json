@@ -1,0 +1,63 @@
+{
+ "_about": "Public-domain Catherine of Genoa (1447-1510) in English for the Word Hoard: the Treatise on Purgatory with Manning's preface (London, 1858), the first English rendering, from an Internet Archive scan, and the Life and Doctrine (New York, 1907) from CCEL, which joins the Life written about her to her Spiritual Dialogue and the Treatise. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "catherine_g",
+ "_name_words": [
+  "catherine"
+ ],
+ "_surname": [
+  "catherine of genoa",
+  "catharine of genoa",
+  "catherine adorno"
+ ],
+ "_held": {},
+ "ccel": {
+  "genoa-life-and-doctrine": [
+   "life",
+   "Life and Doctrine of Saint Catherine of Genoa, translated from the Italian (New York: Christian Press Association, 1907); the Life is about her, the Dialogue and the Treatise are hers",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "genoa-treatise-purgatory-1858": [
+   "TheTreatiseOnPurgatory",
+   "The Treatise on Purgatory by St. Catherine of Genoa, preface by H. E. Manning (London: Burns and Lambert, 1858)"
+  ]
+ },
+ "_alternates": {
+  "genoa-life-1874": "Life and Doctrine, first edition (New York: Catholic Publication Society, 1874; lifedoctrineofsa0000vari)",
+  "genoa-treatise-copies": "Treatise on Purgatory, second edition (1880) and undated fourth edition"
+ },
+ "_excluded": {
+  "genoa-von-hugel": "von Hügel's Mystical Element of Religion: about her",
+  "genoa-late": "Undated modern retypesets"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "genoa-life-and-doctrine": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "catherine of genoa",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "genoa-treatise-purgatory-1858": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "catherine of genoa",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

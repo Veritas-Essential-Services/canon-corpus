@@ -1,0 +1,332 @@
+{
+ "_about": "Pansy's (Isabella Macdonald Alden's) Sunday-school stories: every English text under the name at Gutenberg (catalogue: 1841-1930). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Pansy (Isabella Alden)",
+ "_name_words": [
+  "pansy"
+ ],
+ "_surname": [
+  "pansy",
+  "isabella alden",
+  "mrs. g. r. alden"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pansy-ester-ried-yet-speaking": [
+   9091,
+   "Ester Ried Yet Speaking"
+  ],
+  "pansy-tip-lewis-and-his-lamp": [
+   9648,
+   "Tip Lewis and His Lamp"
+  ],
+  "pansy-four-girls-at-chautauqua": [
+   12662,
+   "Four Girls at Chautauqua",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-ester-ried": [
+   13234,
+   "Ester Ried",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-divers-women": [
+   17785,
+   "Divers Women (with Mrs. C. M. Livingston)"
+  ],
+  "pansy-sunshine-factory": [
+   20436,
+   "Sunshine Factory"
+  ],
+  "pansy-three-people": [
+   20808,
+   "Three People",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-chautauqua-girls-at-home": [
+   26742,
+   "The Chautauqua Girls At Home",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-ruth-erskines-son": [
+   43785,
+   "Ruth Erskine's Son",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-little-fishers": [
+   45536,
+   "Little Fishers: and Their Nets",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-interrupted": [
+   45537,
+   "Interrupted",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-ruth-erskines-crosses": [
+   54078,
+   "Ruth Erskine's Crosses",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-fortunate-calamity": [
+   70225,
+   "The fortunate calamity",
+   {
+    "contents_only": true
+   }
+  ],
+  "pansy-railroad-building-and-other-stories": [
+   71478,
+   "Railroad building, and other stories"
+  ],
+  "pansy-a-new-graft-on-the-family-tree": [
+   71567,
+   "A new graft on the family tree"
+  ],
+  "pansy-danger-cliff-and-other-stories": [
+   71598,
+   "Danger Cliff, and other stories"
+  ],
+  "pansy-profiles": [
+   74998,
+   "Profiles (with Mrs. C. M. Livingston)"
+  ],
+  "pansy-an-interrupted-night": [
+   75076,
+   "An interrupted night (ed. Grace Livingston Hill)"
+  ],
+  "pansy-following-heavenward": [
+   75657,
+   "Following heavenward"
+  ],
+  "pansy-monteagle": [
+   75784,
+   "Monteagle"
+  ],
+  "pansy-lost-nellie": [
+   77247,
+   "Lost Nellie"
+  ],
+  "pansy-christies-christmas": [
+   79517,
+   "Christie's Christmas"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "pansy-ester-ried-yet-speaking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-tip-lewis-and-his-lamp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-four-girls-at-chautauqua": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-ester-ried": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-divers-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-sunshine-factory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-three-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-chautauqua-girls-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-ruth-erskines-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-little-fishers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-interrupted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-ruth-erskines-crosses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-fortunate-calamity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-railroad-building-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-a-new-graft-on-the-family-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-danger-cliff-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-profiles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-an-interrupted-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-following-heavenward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-monteagle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-lost-nellie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pansy-christies-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pansy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

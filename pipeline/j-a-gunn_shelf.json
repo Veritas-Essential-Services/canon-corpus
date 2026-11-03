@@ -1,0 +1,45 @@
+{
+ "_about": "J. Alexander Gunn (1896-1975), British historian of French philosophy. Gutenberg: Bergson and His Philosophy (1920); Modern French Philosophy (1922). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "J. Alexander Gunn",
+ "_name_words": [
+  "john",
+  "alexander",
+  "gunn"
+ ],
+ "_surname": [
+  "gunn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gunn-bergson-and-his-philosophy": [
+   5717,
+   "Bergson and His Philosophy (1920)"
+  ],
+  "gunn-modern-french-philosophy": [
+   5246,
+   "Modern French Philosophy (1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gunn-bergson-and-his-philosophy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gunn-modern-french-philosophy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

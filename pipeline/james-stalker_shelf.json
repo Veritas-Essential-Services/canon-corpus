@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain James Stalker (1848-1927, Free Church of Scotland, professor at the United Free Church College, Aberdeen) for the Word Hoard, printings before 1930 only: The Preacher and His Models (Yale Lectures, 1919 printing), clean from Gutenberg; and from the Internet Archive The Life of Jesus Christ (1885), The Life of St. Paul (1885, the original text, not the 1912 revision), Imago Christi (1889), The Trial and Death of Jesus Christ (1894), The Christology of Jesus (2nd ed., 1900) and The Ethic of Jesus (1909). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "stalker",
+  "james"
+ ],
+ "_surname": [
+  "james stalker",
+  "j. stalker",
+  "stalker, james",
+  "rev. james stalker",
+  "james stalker, d.d",
+  "james stalker, m.a"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "stalker-preacher-models": [
+   "24311",
+   "The Preacher and His Models, the Yale Lectures on Preaching 1891 (London: Hodder & Stoughton, MCMXIX)"
+  ]
+ },
+ "internet_archive": {
+  "stalker-life-of-jesus-1885": [
+   "lifejesuschrist03stalgoog",
+   "The Life of Jesus Christ, new edition (Edinburgh: T. & T. Clark, 1885)"
+  ],
+  "stalker-life-of-paul-1885": [
+   "lifestpaulththo00stalgoog",
+   "The Life of St. Paul, new edition (Edinburgh: T. & T. Clark, 1885)"
+  ],
+  "stalker-imago-christi-1889": [
+   "imagochristiexam00stal",
+   "Imago Christi: The Example of Jesus Christ (New York: A. C. Armstrong, copyright 1889)"
+  ],
+  "stalker-trial-death-1894": [
+   "trialanddeathjc00staluoft",
+   "The Trial and Death of Jesus Christ (London: Hodder & Stoughton, 1894)"
+  ],
+  "stalker-christology-1900": [
+   "christologyofjes00stal",
+   "The Christology of Jesus, the Cunningham Lectures, second edition (London: Hodder & Stoughton, 1900)"
+  ],
+  "stalker-ethic-1909": [
+   "ethicofjesusacco00stal_2",
+   "The Ethic of Jesus according to the Synoptic Gospels (London: Hodder & Stoughton, MCMIX)"
+  ]
+ },
+ "_alternates": {
+  "stalker-pg-revised": "Gutenberg 21828 Life of St. Paul (the 1912 Revell revision) and 21814 Trial and Death (an undated Doran printing): the IA copies carry the original dated text",
+  "stalker-preacher-1891": "The Preacher and His Models, first edition (IA thepreacherandhi00staluoft, catalogued 1891)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "stalker-trial-death-1894": {
+   "author": "title page read 2026-10-10: OCR gives \"JAMKS STALKER, M.A., D.D.\" (E read as K), Hodder and Stoughton, 27 Paternoster Row, year OCR'd \"MUtCCXCIV\" for MDCCCXCIV: James Stalker"
+  }
+ },
+ "_checks": {
+  "stalker-preacher-models": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james stalker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stalker-life-of-jesus-1885": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james stalker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stalker-life-of-paul-1885": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james stalker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stalker-imago-christi-1889": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james stalker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stalker-trial-death-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stalker-christology-1900": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james stalker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stalker-ethic-1909": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james stalker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

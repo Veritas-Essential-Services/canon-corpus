@@ -1,0 +1,84 @@
+{
+ "_about": "Public-domain Lyman Beecher (1775-1863, Presbyterian and Congregational minister in East Hampton, Litchfield and Boston, president of Lane Seminary, Cincinnati) for the Word Hoard: Beecher's Works (3 vols, Boston: Jewett, 1852) and A Plea for the West (second edition, Cincinnati: Truman & Smith, catalogued 1835), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "beecher",
+  "lyman"
+ ],
+ "_surname": [
+  "lyman beecher",
+  "l. beecher",
+  "beecher, lyman",
+  "dr. beecher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lbeecher-works-1": [
+   "beechersworks01beec",
+   "Beecher's Works, vol. 1 (Boston: John P. Jewett, 1852)"
+  ],
+  "lbeecher-works-2": [
+   "beechersworks02beec",
+   "Beecher's Works, vol. 2 (Boston: John P. Jewett, 1852)"
+  ],
+  "lbeecher-works-3": [
+   "beechersworks03beec",
+   "Beecher's Works, vol. 3 (Boston: John P. Jewett, 1852)"
+  ],
+  "lbeecher-plea-for-the-west": [
+   "pleaforwest00beec_0",
+   "A Plea for the West, second edition (Cincinnati: Truman & Smith; catalogued 1835)"
+  ]
+ },
+ "_alternates": {
+  "lbeecher-autobiography": "Autobiography, Correspondence, etc., ed. Charles Beecher (2 vols, Harper, 1864; IA autobiocorr01beecrich): largely letters and his children's narrative, not shelved"
+ },
+ "_excluded": {},
+ "_checks": {
+  "lbeecher-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lyman beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lbeecher-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lyman beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lbeecher-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lyman beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lbeecher-plea-for-the-west": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lyman beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

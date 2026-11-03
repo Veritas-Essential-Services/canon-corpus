@@ -1,0 +1,185 @@
+{
+ "_about": "Public-domain Clarence Edward Macartney (1879-1957), Presbyterian minister in Philadelphia and Pittsburgh, for the Word Hoard: The Parables of the Old Testament, Truths Tested by the World War, Shall Unbelief Win? (his answer to Fosdick), Twelve Great Questions about Christ, Putting on Immortality, Of Them He Chose Twelve, Christianity and Common Sense, Paul the Man, and Sons of Thunder. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 135 (my pick); Adam may veto the whole shelf. He lived past 1930, so only printings dated before 1930 are shelved; those are public domain in the US. No uids minted.",
+ "_name_words": [
+  "clarence edward macartney",
+  "clarence e. macartney",
+  "clarence macartney",
+  "macartney"
+ ],
+ "_surname": [
+  "macartney"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "macartney-parables-ot": [
+   "parablesofoldtes00maca",
+   "The parables of the Old Testament (New York, Chicago [etc.] Fleming H. Revell company, 1916)"
+  ],
+  "macartney-ministers-son": [
+   "ministerssonreco00macarich",
+   "The minister's son; a record of his achievements (Philadelphia, Eakins, Palmer & Harrar, [c19)"
+  ],
+  "macartney-truths-tested": [
+   "truths-tested-by-the-world-war",
+   "Truths Tested By The World War (catalogued 1919)",
+   "Truths Tested by the World War_djvu.txt"
+  ],
+  "macartney-unbelief": [
+   "shall-unbelief-win",
+   "Shall unbelief win? : a reply to Dr. Fosdick (catalogued 1919)",
+   "Shall Unbelief Win_djvu.txt"
+  ],
+  "macartney-twelve-questions": [
+   "twelvegreatquest0000clar",
+   "Twelve Great Questions About Christ (Fleming H. Revell Company, 1923)"
+  ],
+  "macartney-immortality": [
+   "puttingonimmorta00maca_0",
+   "Putting on immortality; reflections on the life beyond (New York ; Chicago [etc.] : Fleming H. Revell company, 1926)"
+  ],
+  "macartney-chose-twelve": [
+   "ofthemhechosetwe00maca",
+   "\"Of them He chose twelve\" (Philadelphia : Dorrance and company, 1927)"
+  ],
+  "macartney-common-sense": [
+   "christianitycomm00maca",
+   "Christianity and common sense : a dialogue of faith (Philadelphia : [John C. Winston Company], 1927)"
+  ],
+  "macartney-paul": [
+   "paulmanhislifehi00maca",
+   "Paul the man : his life, his message and his ministry (New York : Fleming H. Revell, 1928)"
+  ],
+  "macartney-sons-thunder": [
+   "sonsofthunderpul0000clar",
+   "Sons of Thunder: Pulpit Power of The Past (Fleming H. Revell Company, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "macartney-history": "the Paterson church history, Lincoln and His Generals, Highways and Byways of the Civil War and the Harmonites and Morwenstow articles are history",
+  "macartney-anthology": "Great Sermons of the World is an anthology of other preachers",
+  "macartney-later": "everything printed from 1930 on",
+  "macartney-dups": "the other scans of Paul the Man and The Minister's Son"
+ },
+ "_rights_checked": {
+  "macartney-unbelief": "the scan is undated, but Shall Unbelief Win? answers Fosdick's sermon of May 1922 and was first published that year; a text first published before 1930 is public domain in the US whatever the date of this printing"
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "macartney-parables-ot": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macartney-ministers-son": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "[c1917]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macartney-truths-tested": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macartney-unbelief": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "the scan is undated, but Shall Unbelief Win? answers Fosdick's sermon of May 1922 and was first published that year; a text first published before 1930 is public domain in the US whatever the date of this printing"
+  },
+  "macartney-twelve-questions": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macartney-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macartney-chose-twelve": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macartney-common-sense": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macartney-paul": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macartney-sons-thunder": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "macartney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

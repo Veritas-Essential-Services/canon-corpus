@@ -1,0 +1,396 @@
+{
+ "_about": "SHELF of Persian poetry and Sufi prose in English before 1931, by translators with no shelf of their own: H. Wilberforce Clarke (Nizami's Sikandar Nama, the Divan of Hafiz, Sa'di's Bustan, Suhrawardi's Awarif), James Atkinson (Nizami's Laili and Majnun, 1836), C. E. Wilson (Nizami's Haft Paikar, Rumi's Masnavi Book II) and Richard Le Gallienne's free Hafiz. Whinfield, Nicholson, FitzGerald, Gertrude Bell and the Wisdom of the East volumes are on their own shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 80); Adam may veto. No uids minted.",
+ "_name_words": [
+  "c. e. wilson",
+  "h. wilberforce clarke",
+  "henry wilberforce clarke",
+  "james atkinson",
+  "le gallienne",
+  "richard le gallienne",
+  "wilberforce clarke"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'wilson' and 'atkinson' are left out: both are common surnames other shelves also claim.",
+ "_surname": [
+  "c. e. wilson",
+  "h. wilberforce clarke",
+  "henry wilberforce clarke",
+  "james atkinson",
+  "le gallienne",
+  "richard le gallienne",
+  "wilberforce clarke"
+ ],
+ "_surname_by_slug": {
+  "pers-sikandar-nama": [
+   "wilberforce clarke",
+   "h. wilberforce clarke",
+   "henry wilberforce clarke"
+  ],
+  "pers-hafiz-divan-1": [
+   "wilberforce clarke",
+   "h. wilberforce clarke",
+   "henry wilberforce clarke"
+  ],
+  "pers-hafiz-divan-2": [
+   "wilberforce clarke",
+   "h. wilberforce clarke",
+   "henry wilberforce clarke"
+  ],
+  "pers-bustan-clarke": [
+   "wilberforce clarke",
+   "h. wilberforce clarke",
+   "henry wilberforce clarke"
+  ],
+  "pers-awarif-ul-maarif": [
+   "wilberforce clarke",
+   "h. wilberforce clarke",
+   "henry wilberforce clarke"
+  ],
+  "pers-laili-and-majnun": [
+   "james atkinson"
+  ],
+  "pers-haft-paikar": [
+   "c. e. wilson"
+  ],
+  "pers-masnavi-book-2": [
+   "c. e. wilson"
+  ],
+  "pers-hafiz-odes-le-gallienne": [
+   "richard le gallienne",
+   "le gallienne"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pers-sikandar-nama": [
+   "sikandarnmaebara00nimg",
+   "The Sikandar Nama, e Bara, or Book of Alexander the Great (1881)"
+  ],
+  "pers-hafiz-divan-1": [
+   "thedivan01hafiuoft",
+   "The Divan, written in the fourteenth century by Khwaja Shamsu-d-Din Muhammad-i-Hafiz-i-Shirazi, vol. I (1891)"
+  ],
+  "pers-hafiz-divan-2": [
+   "thedivan02hafiuoft",
+   "The Divan of Hafiz, vol. II (1891)"
+  ],
+  "pers-bustan-clarke": [
+   "bstnbyshaikh00sadiuoft",
+   "The Bustan (1879)"
+  ],
+  "pers-awarif-ul-maarif": [
+   "awarifulmaarif00suhr",
+   "The 'Awarifu-l-Ma'arif (1891)"
+  ],
+  "pers-laili-and-majnun": [
+   "lailandmajnnapo00atkigoog",
+   "Laili and Majnun: a Poem from the Original Persian of Nazami (1836)"
+  ],
+  "pers-haft-paikar": [
+   "in.ernet.dli.2015.81011",
+   "The Haft Paikar (The Seven Beauties), vol. I: translation (1924)",
+   "2015.81011.The-Haft-Paikar-Vol-I_djvu.txt"
+  ],
+  "pers-masnavi-book-2": [
+   "in.ernet.dli.2015.93748",
+   "The Masnavi, Book II, vol. I: translation (1910)",
+   "2015.93748.The-Masnavi--Vol-1_djvu.txt"
+  ],
+  "pers-hafiz-odes-le-gallienne": [
+   "odesfromdivanofh00hafiuoft",
+   "Odes from the Divan of Hafiz, freely rendered from literal translations (1905)"
+  ]
+ },
+ "titles": {
+  "persian-poets-sikandar-nama": {
+   "source": "pers-sikandar-nama",
+   "of": "Nizami Ganjavi",
+   "work": "The Sikandar Nama, e Bara, or Book of Alexander the Great",
+   "translated": 1881,
+   "translator": "H. Wilberforce Clarke",
+   "scan_edition": "W. H. Allen, London 1881; archive.org scan digitised 2013"
+  },
+  "persian-poets-hafiz-divan-1": {
+   "source": "pers-hafiz-divan-1",
+   "of": "Hafiz",
+   "work": "The Divan, written in the fourteenth century by Khwaja Shamsu-d-Din Muhammad-i-Hafiz-i-Shirazi, vol. I",
+   "translated": 1891,
+   "translator": "H. Wilberforce Clarke",
+   "scan_edition": "Government of India Central Printing Office, Calcutta 1891; University of Toronto scan",
+   "note": "The first complete English prose Hafiz."
+  },
+  "persian-poets-hafiz-divan-2": {
+   "source": "pers-hafiz-divan-2",
+   "of": "Hafiz",
+   "work": "The Divan of Hafiz, vol. II",
+   "translated": 1891,
+   "translator": "H. Wilberforce Clarke",
+   "scan_edition": "Government of India Central Printing Office, Calcutta 1891; University of Toronto scan"
+  },
+  "persian-poets-bustan-clarke": {
+   "source": "pers-bustan-clarke",
+   "of": "Sa'di",
+   "work": "The Bustan",
+   "translated": 1879,
+   "translator": "H. Wilberforce Clarke",
+   "scan_edition": "W. H. Allen, London 1879; University of Toronto scan",
+   "note": "A. Hart Edwards's Bustan is on singles-plays-poetry-2; this is a separate translation."
+  },
+  "persian-poets-awarif-ul-maarif": {
+   "source": "pers-awarif-ul-maarif",
+   "of": "Shihab al-Din Umar al-Suhrawardi",
+   "work": "The 'Awarifu-l-Ma'arif",
+   "translated": 1891,
+   "translator": "H. Wilberforce Clarke",
+   "scan_edition": "Government of India Central Printing Office, Calcutta 1891",
+   "note": "Translated from the Persian version of the Arabic; Clarke's preface says 221 of its 343 pages are given."
+  },
+  "persian-poets-laili-and-majnun": {
+   "source": "pers-laili-and-majnun",
+   "of": "Nizami Ganjavi",
+   "work": "Laili and Majnun: a Poem from the Original Persian of Nazami",
+   "translated": 1836,
+   "translator": "James Atkinson",
+   "scan_edition": "A. J. Valpy, London 1836; Google scan",
+   "note": "Atkinson's abridged Shahnama is not on this shelf."
+  },
+  "persian-poets-haft-paikar": {
+   "source": "pers-haft-paikar",
+   "of": "Nizami Ganjavi",
+   "work": "The Haft Paikar (The Seven Beauties), vol. I: translation",
+   "translated": 1924,
+   "translator": "C. E. Wilson",
+   "scan_edition": "Probsthain's Oriental Series XII, London 1924; Osmania University copy (Digital Library of India)",
+   "note": "Vol. II is Wilson's commentary."
+  },
+  "persian-poets-masnavi-book-2": {
+   "source": "pers-masnavi-book-2",
+   "of": "Rumi",
+   "work": "The Masnavi, Book II, vol. I: translation",
+   "translated": 1910,
+   "translator": "C. E. Wilson",
+   "scan_edition": "Probsthain, London 1910; Digital Library of India scan",
+   "note": "Vol. II is Wilson's commentary. Whinfield's abridged Masnavi and Nicholson's Mathnawi are on their own shelves."
+  },
+  "persian-poets-hafiz-odes-le-gallienne": {
+   "source": "pers-hafiz-odes-le-gallienne",
+   "of": "Hafiz",
+   "work": "Odes from the Divan of Hafiz, freely rendered from literal translations",
+   "translated": 1905,
+   "translator": "Richard Le Gallienne",
+   "scan_edition": "Duckworth, London 1905; University of Toronto scan",
+   "note": "A free verse rendering made from Clarke's and Payne's literal versions, as Le Gallienne's preface says; not a translation from the Persian."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "laili-1968-reprint": "lailimajnunpoem0000jame is a 1968 reprint of Atkinson's Laili and Majnun; the 1836 Valpy scan is used.",
+  "awarif-1979": "bwb_S0-AVT-190 is a 1979 Lahore printing of Clarke's Awarif; the 1891 Calcutta scan is used.",
+  "haft-paikar-commentary": "Vol. II of Wilson's Haft Paikar (1924) is his commentary, not the translation.",
+  "masnavi-commentary": "Vol. II of Wilson's Masnavi Book II (1910) is his commentary, not the translation."
+ },
+ "_identity_checked": {
+  "pers-bustan-clarke": {
+   "author": "The title page OCR reads 'CAPTAIN H. WILBERTORCE CLARKE, R.E.' for H. Wilberforce Clarke, with W. H. Allen's London 1879 imprint. Checked by eye 2026-10-17."
+  }
+ },
+ "_checks": {
+  "pers-sikandar-nama": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilberforce clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pers-hafiz-divan-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilberforce clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pers-hafiz-divan-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilberforce clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pers-bustan-clarke": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pers-awarif-ul-maarif": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilberforce clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pers-laili-and-majnun": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james atkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pers-haft-paikar": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "c. e. wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pers-masnavi-book-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "c. e. wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pers-hafiz-odes-le-gallienne": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard le gallienne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "pers-sikandar-nama": {
+   "ia": "sikandarnmaebara00nimg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1866,
+    1874,
+    1878,
+    1879,
+    1880,
+    1881
+   ],
+   "post_1930_years_in_front_15k": [
+    2013
+   ],
+   "post_1930_examined": "Examined: 'Digitized by the Internet Archive in 2013', a scanning credit, not an imprint. Imprint: W. H. Allen, London 1881."
+  },
+  "pers-hafiz-divan-1": {
+   "ia": "thedivan01hafiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1881,
+    1885,
+    1886,
+    1887,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pers-hafiz-divan-2": {
+   "ia": "thedivan02hafiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pers-bustan-clarke": {
+   "ia": "bstnbyshaikh00sadiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1775,
+    1858,
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pers-awarif-ul-maarif": {
+   "ia": "awarifulmaarif00suhr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1857,
+    1863,
+    1868,
+    1875,
+    1878,
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pers-laili-and-majnun": {
+   "ia": "lailandmajnnapo00atkigoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1835
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pers-haft-paikar": {
+   "ia": "in.ernet.dli.2015.81011",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "pers-masnavi-book-2": {
+   "ia": "in.ernet.dli.2015.93748",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1810,
+    1862,
+    1881,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pers-hafiz-odes-le-gallienne": {
+   "ia": "odesfromdivanofh00hafiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

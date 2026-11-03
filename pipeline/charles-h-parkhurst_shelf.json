@@ -1,0 +1,194 @@
+{
+ "_about": "Public-domain Charles Henry Parkhurst (1842-1933), pastor of Madison Square Presbyterian Church, New York, and anti-Tammany reformer, for the Word Hoard: The Blind Man's Creed, The Pattern in the Mount, Three Gates on a Side, Our Fight with Tammany, Talks to Young Men and to Young Women, The Sunny Side of Christianity, the history of Madison Square church, A Little Lower than the Angels, The Pulpit and the Pew (Lyman Beecher Lectures) and My Forty Years in New York, all printed before 1930. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 90 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles h. parkhurst",
+  "c. h. parkhurst",
+  "charles henry parkhurst"
+ ],
+ "_surname": [
+  "charles h. parkhurst",
+  "c. h. parkhurst",
+  "charles henry parkhurst",
+  "parkhurst"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "parkhurst-blind-mans-creed": [
+   "blindmanscreedot00park",
+   "The blind man's creed, and other sermons (New York, A. D. F. Randolph & company, 1883)"
+  ],
+  "parkhurst-pattern-mount": [
+   "patterninmountot0000park",
+   "The pattern in the mount, and other sermons (New York, Randolph, 1885)"
+  ],
+  "parkhurst-three-gates": [
+   "threegatesonside00park",
+   "Three gates on a side (New York, Chicago, Fleming H. Revell company, 1891)"
+  ],
+  "parkhurst-tammany": [
+   "ourfightwithtamm0000park",
+   "Our fight with Tammany (New York : C. Scribner's sons, 1895)"
+  ],
+  "parkhurst-young-men": [
+   "talkstoyoungmen00park",
+   "Talks to young men (New York, The Century co., 1897)"
+  ],
+  "parkhurst-young-women": [
+   "talkstoyoungwome00park",
+   "Talks to young women (New York, The Century co., 1897)"
+  ],
+  "parkhurst-sunny-side": [
+   "sunnysideofchris0000park",
+   "The sunny side of Christianity (New York, Chicago [etc.] F.H. Revell co, 1901)"
+  ],
+  "parkhurst-madison-square": [
+   "briefhistoryofma00park",
+   "A brief history of the Madison Square Presbyterian Church and its activities (New York : [s.n.], 1906)"
+  ],
+  "parkhurst-lower-than-angels": [
+   "littlelowerthana00park",
+   "A little lower than the angels (New York, Chicago [etc] Fleming H. Revell company, 1908)"
+  ],
+  "parkhurst-pulpit-pew": [
+   "pulpitpewlymanbe00parkrich",
+   "The pulpit and the pew : Lyman Beecher lectures delivered 1913, before the Divinity School of Yale University (New Haven, Conn. : Yale University Press, 1913)"
+  ],
+  "parkhurst-forty-years": [
+   "myfortyyearsinne00park",
+   "My forty years in New York (New York : Macmillan, 1923)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "parkhurst-other": "Analysis of the Latin Verb (philology); many-author books on municipal reform and New York"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "parkhurst-blind-mans-creed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "parkhurst-pattern-mount": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parkhurst-three-gates": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "parkhurst-tammany": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parkhurst-young-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "parkhurst-young-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "parkhurst-sunny-side": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parkhurst-madison-square": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parkhurst-lower-than-angels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parkhurst-pulpit-pew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parkhurst-forty-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. parkhurst",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

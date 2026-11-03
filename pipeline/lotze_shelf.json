@@ -1,0 +1,246 @@
+{
+ "_about": "Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). Added in round ad: Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884). Added in round ae: Outlines of Aesthetics, dictated portions of the lectures (Boston: Ginn, 1886). US public domain. No uids minted.",
+ "_author": "Hermann Lotze",
+ "_name_words": [
+  "hermann",
+  "rudolf",
+  "lotze"
+ ],
+ "_surname": [
+  "lotze"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lotze-hamilton-jones-microcosmus-1885-v1": [
+   "microcosmusessa01lotz",
+   "Microcosmus: an essay concerning man and his relation to the world, vol. I (Edinburgh: T. & T. Clark, 1885)",
+   "tr. Elizabeth Hamilton and E. E. Constance Jones"
+  ],
+  "lotze-hamilton-jones-microcosmus-1887-v2": [
+   "microcosmusessay02lotziala",
+   "Microcosmus, vol. II (Edinburgh: T. & T. Clark, 1887)",
+   "tr. Elizabeth Hamilton and E. E. Constance Jones"
+  ],
+  "lotze-bosanquet-logic-1888-v1": [
+   "logicinthreebook01lotzuoft",
+   "Logic, in three books: of thought, of investigation, and of knowledge, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1888)",
+   "ed. Bernard Bosanquet"
+  ],
+  "lotze-bosanquet-logic-1888-v2": [
+   "logicinthreeboo02lotz",
+   "Logic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1888)",
+   "ed. Bernard Bosanquet"
+  ],
+  "lotze-bosanquet-metaphysic-1887-v1": [
+   "metaphysicinthre01lotzuoft",
+   "Metaphysic, in three books: ontology, cosmology, and psychology, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1887)",
+   "ed. Bernard Bosanquet"
+  ],
+  "lotze-bosanquet-metaphysic-1887-v2": [
+   "metaphysicvolii032380mbp",
+   "Metaphysic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1887)",
+   "ed. Bernard Bosanquet"
+  ],
+  "lotze-ladd-practical-philosophy-1885": [
+   "outlinesofpracti00lot",
+   "Outlines of Practical Philosophy: dictated portions of the lectures (Boston: Ginn, 1885)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-psychology-1886": [
+   "outlinesofpsycho01lotz",
+   "Outlines of Psychology: dictated portions of the lectures (Boston: Ginn, 1886)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-logic-1887": [
+   "outlinesoflogic00lotzuoft",
+   "Outlines of Logic and of Encyclopedia of Philosophy: dictated portions of the lectures (Boston: Ginn, 1887)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-philosophy-of-religion-1903": [
+   "outlinesofphilos00lotz",
+   "Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-outlines-of-metaphysic-1884": [
+   "outlinesofmetaph00lotzrich",
+   "Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-outlines-of-aesthetics-1886": [
+   "outlinesofaesthe00lotzuoft",
+   "Outlines of Aesthetics, dictated portions of the lectures (Boston: Ginn, 1886)",
+   "tr. George T. Ladd"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "lotze-hamilton-jones-microcosmus-1885-v1": "Hamilton",
+  "lotze-hamilton-jones-microcosmus-1887-v2": "Hamilton",
+  "lotze-bosanquet-logic-1888-v1": "Bosanquet",
+  "lotze-bosanquet-logic-1888-v2": "Bosanquet",
+  "lotze-bosanquet-metaphysic-1887-v1": "Bosanquet",
+  "lotze-ladd-practical-philosophy-1885": "Ladd",
+  "lotze-ladd-psychology-1886": "Ladd",
+  "lotze-ladd-logic-1887": "Ladd",
+  "lotze-ladd-philosophy-of-religion-1903": "Ladd"
+ },
+ "_identity_checked": {
+  "lotze-hamilton-jones-microcosmus-1887-v2": {
+   "author": "title page read 2026-10-17: OCR gives 'MICROCOSMUS: AN ESSAY CONCERNING MAN AND HIS RELATION TO THE WORLD. BY translated from the German BY ELIZABETH HAMILTON AND E. E. CONSTANCE JONES ... VOL. II. EDINBURGH: T. & T. CLARK ... 1887'; the author's name line is lost in the OCR, so the surname test cannot see it (vol. I of the same set names HERMANN LOTZE)"
+  }
+ },
+ "_checks": {
+  "lotze-hamilton-jones-microcosmus-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Hamilton",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lotze-hamilton-jones-microcosmus-1887-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Hamilton",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-bosanquet-logic-1888-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Bosanquet",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-bosanquet-logic-1888-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Bosanquet",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lotze-bosanquet-metaphysic-1887-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Bosanquet",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-bosanquet-metaphysic-1887-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lotze-ladd-practical-philosophy-1885": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lotze-ladd-psychology-1886": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lotze-ladd-logic-1887": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-ladd-philosophy-of-religion-1903": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903 [c1885]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-ladd-outlines-of-metaphysic-1884": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-ladd-outlines-of-aesthetics-1886": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

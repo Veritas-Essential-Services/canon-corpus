@@ -1,0 +1,214 @@
+{
+ "_about": "Julian Hawthorne's novels and stories. Not his father (the hawthorne shelves). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Julian Hawthorne",
+ "_name_words": [
+  "hawthorne",
+  "julian"
+ ],
+ "_surname": [
+  "julian hawthorne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jhawthorne-golden-fleece": [
+   1614,
+   "The Golden Fleece: A Romance"
+  ],
+  "jhawthorne-hawthorne-and-his-circle": [
+   6982,
+   "Hawthorne and His Circle"
+  ],
+  "jhawthorne-david-poindexters-disappearance-and-other-tales": [
+   7057,
+   "David Poindexter's Disappearance, and Other Tales"
+  ],
+  "jhawthorne-history-of-the-united-states-from-1492-to-1910-vo": [
+   7131,
+   "The History of the United States from 1492 to 1910, Volume 1 From Discovery of America October 12, 1492 to Battle of Lexington April 19, 1775"
+  ],
+  "jhawthorne-archibald-malmaison": [
+   7344,
+   "Archibald Malmaison"
+  ],
+  "jhawthorne-confessions-and-criticisms": [
+   7431,
+   "Confessions and Criticisms"
+  ],
+  "jhawthorne-subterranean-brotherhood": [
+   8406,
+   "The Subterranean Brotherhood"
+  ],
+  "jhawthorne-bressant": [
+   15596,
+   "Bressant: A Novel"
+  ],
+  "jhawthorne-idolatry": [
+   16283,
+   "Idolatry: A Romance"
+  ],
+  "jhawthorne-yellow-cap-and-other-fairy-stories-for-children": [
+   31795,
+   "Yellow-Cap and Other Fairy-Stories For Children"
+  ],
+  "jhawthorne-laughing-mill-and-other-stories": [
+   41592,
+   "The Laughing Mill, and Other Stories"
+  ],
+  "jhawthorne-dust": [
+   47905,
+   "Dust: A Novel"
+  ],
+  "jhawthorne-rumpty-dudgets-tower": [
+   62408,
+   "Rumpty-Dudget's Tower: A Fairy Tale"
+  ],
+  "jhawthorne-cosmic-courtship": [
+   66349,
+   "The Cosmic Courtship"
+  ],
+  "jhawthorne-ellice-quentin-and-other-stories": [
+   76710,
+   "Ellice Quentin, and other stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jhawthorne-golden-fleece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-hawthorne-and-his-circle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-david-poindexters-disappearance-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-history-of-the-united-states-from-1492-to-1910-vo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-archibald-malmaison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-confessions-and-criticisms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-subterranean-brotherhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-bressant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-idolatry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-yellow-cap-and-other-fairy-stories-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-laughing-mill-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-dust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-rumpty-dudgets-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-cosmic-courtship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhawthorne-ellice-quentin-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "_about": "Theodore Dreiser's novels and other writing",
+ "_author": "Theodore Dreiser",
+ "_name_words": [
+  "dreiser"
+ ],
+ "_surname": [
+  "theodore dreiser"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tdreiser-sister-carrie": [
+   233,
+   "Sister Carrie: A Novel"
+  ],
+  "tdreiser-titan": [
+   3629,
+   "The Titan",
+   {
+    "contents_only": true
+   }
+  ],
+  "tdreiser-sister-carrie-5267": [
+   5267,
+   "Sister Carrie"
+  ],
+  "tdreiser-twelve-men": [
+   14717,
+   "Twelve Men"
+  ],
+  "tdreiser-jennie-gerhardt": [
+   28988,
+   "Jennie Gerhardt: A Novel"
+  ],
+  "tdreiser-genius": [
+   31824,
+   "The \"Genius\""
+  ],
+  "tdreiser-color-of-a-great-city": [
+   61043,
+   "The Color of a Great City"
+  ],
+  "tdreiser-a-book-about-myself": [
+   62995,
+   "A Book About Myself"
+  ],
+  "tdreiser-a-traveler-at-forty": [
+   65765,
+   "A Traveler at Forty",
+   {
+    "contents_only": true
+   }
+  ],
+  "tdreiser-hey-rub-a-dub-dub": [
+   67059,
+   "Hey Rub-a-dub-dub: A Book of the Mystery and Wonder and Terror of Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "tdreiser-free-and-other-stories": [
+   68542,
+   "Free, and other stories"
+  ],
+  "tdreiser-a-hoosier-holiday": [
+   70269,
+   "A Hoosier holiday",
+   {
+    "contents_only": true
+   }
+  ],
+  "tdreiser-chains": [
+   72326,
+   "Chains",
+   {
+    "contents_only": true
+   }
+  ],
+  "tdreiser-an-american-tragedy-v-1": [
+   75181,
+   "An American tragedy, v. 1"
+  ],
+  "tdreiser-an-american-tragedy-v-2": [
+   75182,
+   "An American tragedy, v. 2"
+  ],
+  "tdreiser-financier": [
+   1840,
+   "The Financier: A Novel",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tdreiser-sister-carrie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-titan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-sister-carrie-5267": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-twelve-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-jennie-gerhardt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-genius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-color-of-a-great-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-a-book-about-myself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-a-traveler-at-forty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-hey-rub-a-dub-dub": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-free-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-a-hoosier-holiday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-chains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-an-american-tragedy-v-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-an-american-tragedy-v-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdreiser-financier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore dreiser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

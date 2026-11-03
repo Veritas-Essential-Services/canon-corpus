@@ -1,0 +1,33 @@
+{
+ "_about": "Harriet Beecher Stowe, Uncle Tom's Cabin (1852). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Harriet Beecher Stowe",
+ "_name_words": [
+  "harriet",
+  "beecher",
+  "stowe"
+ ],
+ "_surname": [
+  "harriet beecher stowe",
+  "stowe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stowe-uncle-toms-cabin": [
+   203,
+   "Uncle Tom's Cabin (1852)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "stowe-uncle-toms-cabin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

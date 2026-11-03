@@ -1,0 +1,244 @@
+{
+ "_about": "George Borrow's own books (Lavengro, The Romany Rye, The Bible in Spain, Wild Wales and others); his translations are on Lane C's borrow-translations shelf: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "George Borrow",
+ "_name_words": [
+  "borrow"
+ ],
+ "_surname": [
+  "george borrow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gborrow-bible-in-spain": [
+   415,
+   "The Bible in Spain Or, the Journeys, Adventures, and Imprisonments of an Englishman, in an Attempt to Circulate the Scriptures in the Peninsula"
+  ],
+  "gborrow-romany-rye": [
+   422,
+   "The Romany Rye"
+  ],
+  "gborrow-lavengro": [
+   452,
+   "Lavengro: The Scholar, the Gypsy, the Priest"
+  ],
+  "gborrow-zincali": [
+   565,
+   "The Zincali: An Account of the Gypsies of Spain"
+  ],
+  "gborrow-letters-of-george-borrow-to-the-british-and-foreign": [
+   603,
+   "Letters of George Borrow to the British and Foreign Bible Society"
+  ],
+  "gborrow-wild-wales": [
+   648,
+   "Wild Wales: Its People, Language and Scenery"
+  ],
+  "gborrow-romano-lavo-lil": [
+   2733,
+   "Romano Lavo-Lil: Word Book of the Romany; Or, English Gypsy Language With Specimens of Gypsy Poetry, and an Account of Certain Gypsyries or Places Inhabited by Them, and of Various Things Relating to Gypsy Life in England"
+  ],
+  "gborrow-targum-or-metrical-translations-from-thirty-language": [
+   12510,
+   "Targum Or Metrical Translations From Thirty Languages And Dialects"
+  ],
+  "gborrow-romany-rye-a-sequel-to-lavengro": [
+   21206,
+   "The Romany Rye a sequel to \"Lavengro\""
+  ],
+  "gborrow-letters-to-his-mother-ann-borrow-and-other-correspon": [
+   28784,
+   "Letters to his mother, Ann Borrow, and other correspondents"
+  ],
+  "gborrow-letters-to-his-wife-mary-borrow": [
+   28814,
+   "Letters to his wife Mary Borrow"
+  ],
+  "gborrow-a-supplementary-chapter-to-the-bible-in-spain": [
+   29469,
+   "A Supplementary Chapter to the Bible in Spain"
+  ],
+  "gborrow-welsh-and-their-literature-from-the-london-quarterly": [
+   33336,
+   "The Welsh and Their Literature from The London Quarterly Review, January 1861, American Edition"
+  ],
+  "gborrow-bible-in-spain-vol-1-of-2": [
+   35642,
+   "The Bible in Spain, Vol. 1 [of 2] Or, the Journeys, Adventures, and Imprisonments of an Englishman in an Attempt to Circulate the Scriptures in the Peninsula"
+  ],
+  "gborrow-bible-in-spain-vol-2-of-2": [
+   35676,
+   "The Bible in Spain, Vol. 2 [of 2] Or, the Journeys, Adventures, and Imprisonments of an Englishman in an Attempt to Circulate the Scriptures in the Peninsula"
+  ],
+  "gborrow-wild-wales-37665": [
+   37665,
+   "Wild Wales: The People, Language, & Scenery"
+  ],
+  "gborrow-george-borrows-second-tour-in-wales": [
+   62073,
+   "George Borrow's Second Tour in Wales (ed. T. C. Cantrill and J. Pringle from Borrow's notes)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 20198, 23287, 30792, 22878, 25071, 54048: second Gutenberg editions of titles already on the shelf.",
+  "pg-12458": "Borrow's translations (Pushkin's Talisman and the Danish and other ballads Thomas J. Wise printed in 1913-1914): PG 12458, 27409, 28816, 28817, 28818, 28824, 28825, 28826, 28830, 28834, 28835, 28985, 28986, 29103, 29123, 29649. Translations are Lane C's area (its borrow-translations shelf); not taken here.",
+  "pg-13957": "PG 13957 The Pocket George Borrow: passages compiled by Edward Thomas.",
+  "pg-18400": "PG 18400 Isopel Berners: an episode extracted from Lavengro (ed. Seccombe); the shelf holds the whole book.",
+  "pg-22877": "PG 22877 Lavengro (ed. Groome): a second edition of PG 452."
+ },
+ "_checks": {
+  "gborrow-bible-in-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-romany-rye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-lavengro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-zincali": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-letters-of-george-borrow-to-the-british-and-foreign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-wild-wales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-romano-lavo-lil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-targum-or-metrical-translations-from-thirty-language": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-romany-rye-a-sequel-to-lavengro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-letters-to-his-mother-ann-borrow-and-other-correspon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-letters-to-his-wife-mary-borrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-a-supplementary-chapter-to-the-bible-in-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-welsh-and-their-literature-from-the-london-quarterly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-bible-in-spain-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-bible-in-spain-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-wild-wales-37665": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gborrow-george-borrows-second-tour-in-wales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

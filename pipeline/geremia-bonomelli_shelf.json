@@ -1,0 +1,192 @@
+{
+ "_about": "Public-domain Geremia Bonomelli (1831-1914), Bishop of Cremona, in English translation for the Word Hoard: the New Series of Homilies for the Whole Year (four volumes, 1909) and Christian Mysteries, discourses for the great feasts (four volumes, 1910), both translated by Thomas Sebastian Byrne, and On Religious Worship and Some Defects in Popular Devotions (1907), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bonomelli"
+ ],
+ "_surname": [
+  "bonomelli",
+  "jeremias bonomelli",
+  "geremia bonomelli"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bonomelli-homilies-1": [
+   "newseriesofhomil01bonouoft",
+   "New Series of Homilies for the Whole Year, vol. I, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909)"
+  ],
+  "bonomelli-homilies-2": [
+   "christianmysteri02bonouoft",
+   "New Series of Homilies for the Whole Year, vol. II, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909)"
+  ],
+  "bonomelli-homilies-3": [
+   "newseriesofhomil03bonouoft",
+   "New Series of Homilies for the Whole Year, vol. III, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909)"
+  ],
+  "bonomelli-homilies-4": [
+   "newseriesofhomil04bonouoft",
+   "New Series of Homilies for the Whole Year, vol. IV, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909)"
+  ],
+  "bonomelli-christian-mysteries-1": [
+   "christianmysteri01bonouoft",
+   "Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. I, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910)"
+  ],
+  "bonomelli-christian-mysteries-2": [
+   "newseriesofhomil02bonouoft",
+   "Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. II, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910)"
+  ],
+  "bonomelli-christian-mysteries-3": [
+   "christianmysteri03bonouoft",
+   "Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. III, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910)"
+  ],
+  "bonomelli-christian-mysteries-4": [
+   "christianmysteri04unknuoft",
+   "Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. IV, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910)"
+  ],
+  "bonomelli-religious-worship": [
+   "onreligiousworsh00bonouoft",
+   "On Religious Worship and Some Defects in Popular Devotions (London: Burns and Oates, 1907; first impression 1906)"
+  ]
+ },
+ "_alternates": {
+  "bonomelli-more": "Homilies vols V (1912) and VI; further copies of both sets"
+ },
+ "_excluded": {
+  "bonomelli-other": "A Doctrine of Hope, adapted from a pastoral letter by others (catalogued 1921)"
+ },
+ "_rights_checked": {
+  "bonomelli-homilies-2": "title page read: the catalogue swaps two ids; christianmysteri02bonouoft is Homilies vol. II and newseriesofhomil02bonouoft is Christian Mysteries vol. II",
+  "bonomelli-religious-worship": "title page read: translator not named (the book prints a letter to the English translator)"
+ },
+ "_pending": {},
+ "_translators": {
+  "bonomelli-homilies-1": "byrne",
+  "bonomelli-homilies-2": "byrne",
+  "bonomelli-homilies-3": "byrne",
+  "bonomelli-homilies-4": "byrne",
+  "bonomelli-christian-mysteries-1": "byrne",
+  "bonomelli-christian-mysteries-2": "byrne",
+  "bonomelli-christian-mysteries-3": "byrne",
+  "bonomelli-christian-mysteries-4": "byrne"
+ },
+ "_checks": {
+  "bonomelli-homilies-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonomelli-homilies-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: the catalogue swaps two ids; christianmysteri02bonouoft is Homilies vol. II and newseriesofhomil02bonouoft is Christian Mysteries vol. II"
+  },
+  "bonomelli-homilies-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonomelli-homilies-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonomelli-christian-mysteries-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonomelli-christian-mysteries-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonomelli-christian-mysteries-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonomelli-christian-mysteries-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "translator_claimed": "byrne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonomelli-religious-worship": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonomelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named (the book prints a letter to the English translator)"
+  }
+ }
+}

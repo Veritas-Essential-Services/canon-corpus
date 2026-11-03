@@ -1,0 +1,135 @@
+{
+ "_about": "James Payn's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "James Payn",
+ "_name_words": [
+  "payn"
+ ],
+ "_surname": [
+  "payn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jpayn-bred-in-the-bone": [
+   12024,
+   "Bred in the Bone; Or, Like Father, Like Son: A Novel"
+  ],
+  "jpayn-some-private-views": [
+   13410,
+   "Some Private Views"
+  ],
+  "jpayn-lost-sir-massingberd": [
+   37170,
+   "Lost Sir Massingberd: A Romance of Real Life. v. 1/2"
+  ],
+  "jpayn-lost-sir-massingberd-37171": [
+   37171,
+   "Lost Sir Massingberd: A Romance of Real Life. v. 2/2"
+  ],
+  "jpayn-mirk-abbey-volume-1-of-3": [
+   47771,
+   "Mirk Abbey, Volume 1 (of 3)"
+  ],
+  "jpayn-mirk-abbey-volume-2-of-3": [
+   47772,
+   "Mirk Abbey, Volume 2 (of 3)"
+  ],
+  "jpayn-mirk-abbey-volume-3-of-3": [
+   47773,
+   "Mirk Abbey, Volume 3 (of 3)"
+  ],
+  "jpayn-talk-of-the-town-volume-1-of-2": [
+   47964,
+   "The Talk of the Town, Volume 1 (of 2)"
+  ],
+  "jpayn-talk-of-the-town-volume-2-of-2": [
+   47965,
+   "The Talk of the Town, Volume 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jpayn-bred-in-the-bone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-some-private-views": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-lost-sir-massingberd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-lost-sir-massingberd-37171": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-mirk-abbey-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-mirk-abbey-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-mirk-abbey-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-talk-of-the-town-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpayn-talk-of-the-town-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

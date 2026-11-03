@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain Louis-Marie Grignion de Montfort (1673-1716) in English for the Word Hoard: A Treatise on the True Devotion to the Blessed Virgin, tr. Frederick William Faber (London: Burns and Lambert, 1863, second edition), and The Secret of Mary unveiled to the Devout Soul, tr. A. P. J. Cruikshank (London, 1909), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "montfort"
+ ],
+ "_surname": [
+  "grignon de montfort",
+  "grignion de montfort",
+  "louis-marie grignon de montfort",
+  "de montfort",
+  "montfort"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "montfort-true-devotion-faber": [
+   "TreatiseTrueDevotionBlessedVirgin",
+   "A Treatise on the True Devotion to the Blessed Virgin, tr. Frederick William Faber, second edition (London: Burns and Lambert, 1863)"
+  ],
+  "montfort-secret-of-mary": [
+   "secretofmaryunve00grig",
+   "The Secret of Mary unveiled to the Devout Soul, tr. A. P. J. Cruikshank (London: Art and Book Company, 1909)"
+  ]
+ },
+ "_alternates": {
+  "montfort-copies": "Faber's first edition (1863; OCR garbled), twelfth edition (about 1904) and Sherbrooke 1901; The Secret of Sanctity (Boston, 1887), an abridgement; the Dublin Secret of Mary (1926)"
+ },
+ "_excluded": {
+  "montfort-late": "Modern Montfort Publications translations and everything from 1941 on"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "montfort-other": "Love of Eternal Wisdom, Letter to the Friends of the Cross and Secret of the Rosary in English before 1930: not found"
+ },
+ "_translators": {
+  "montfort-true-devotion-faber": "faber",
+  "montfort-secret-of-mary": "cruikshank"
+ },
+ "_checks": {
+  "montfort-true-devotion-faber": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grignon de montfort",
+   "translator_claimed": "faber",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "montfort-secret-of-mary": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grignon de montfort",
+   "translator_claimed": "cruikshank",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

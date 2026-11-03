@@ -1,0 +1,39 @@
+{
+ "_about": "E. F. Carritt (1876-1964), Oxford philosopher of art: The Theory of Beauty (London: Methuen, first published 1914), raw IA OCR, clean 0.89. US public domain. No uids minted.",
+ "_author": "E. F. Carritt",
+ "_name_words": [
+  "edgar",
+  "frederick",
+  "carritt"
+ ],
+ "_surname": [
+  "carritt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carritt-theory-of-beauty-1914": [
+   "cu31924031230356",
+   "The Theory of Beauty (Methuen, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "carritt-theory-of-beauty-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "carritt-theory-of-beauty-1914": {
+   "author": "The OCR misreads the title-page name as 'E. F. GARRITT', Fellow of University College, Oxford, which was Carritt's college."
+  }
+ }
+}

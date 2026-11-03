@@ -1,0 +1,302 @@
+{
+ "_about": "G. W. F. Hegel (1770-1831) in English, translator per row. Named hegel-translations because the reading-lists thread (PR #22) already has a hegel shelf holding Dyde's Philosophy of Right (1896), which is not duplicated here. Clean Gutenberg: Wallace's Logic (from the Encyclopaedia, 2nd ed., Oxford, 1892) and Philosophy of Mind (Oxford, 1894), Osmaston's Philosophy of Fine Art (Bell, 1920, 4 vols.). Raw IA OCR: Haldane and Simson's Lectures on the History of Philosophy (Kegan Paul, 1892-1896, 3 vols., the first printings; Gutenberg's text of the same translation is set from a 1955 reprint and is not used), Sibree's Lectures on the Philosophy of History (Bohn, 1881), Baillie's Phenomenology of Mind (Swan Sonnenschein, 1910, 2 vols.), and Speirs and Sanderson's Lectures on the Philosophy of Religion (Kegan Paul, 1895, 3 vols.). All published before 1930, so US public domain under the US rule (decision 22); Baillie died 1940 and Osmaston's dates are unchecked, so some are not public domain in life+70 countries. Bosanquet's Introduction to the Philosophy of Fine Art is held on singles-arts-miscellany (PG 46330) and is not taken again. No uids minted.",
+ "_author": "G. W. F. Hegel",
+ "_name_words": [
+  "g",
+  "w",
+  "f",
+  "georg",
+  "wilhelm",
+  "friedrich",
+  "hegel"
+ ],
+ "_surname": [
+  "hegel"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hegel-wallace-logic-1892": [
+   55108,
+   "The Logic of Hegel, translated from the Encyclopaedia of the Philosophical Sciences, 2nd ed., revised and augmented (Oxford, 1892)",
+   "tr. William Wallace"
+  ],
+  "hegel-wallace-philosophy-of-mind-1894": [
+   39064,
+   "Hegel's Philosophy of Mind, translated from the Encyclopaedia of the Philosophical Sciences, with five introductory essays (Oxford: Clarendon, 1894)",
+   "tr. William Wallace"
+  ],
+  "hegel-osmaston-fine-art-1920-v1": [
+   55334,
+   "The Philosophy of Fine Art, vol. 1 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
+  ],
+  "hegel-osmaston-fine-art-1920-v2": [
+   55445,
+   "The Philosophy of Fine Art, vol. 2 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
+  ],
+  "hegel-osmaston-fine-art-1920-v3": [
+   55623,
+   "The Philosophy of Fine Art, vol. 3 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
+  ],
+  "hegel-osmaston-fine-art-1920-v4": [
+   55731,
+   "The Philosophy of Fine Art, vol. 4 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
+  ]
+ },
+ "internet_archive": {
+  "hegel-haldane-history-of-philosophy-1892-v1": [
+   "lecturesonthehis01hegeuoft",
+   "Lectures on the History of Philosophy, vol. I (London: Kegan Paul, Trench, Trübner, 1892)",
+   "tr. E. S. Haldane"
+  ],
+  "hegel-haldane-history-of-philosophy-1894-v2": [
+   "lecturesonthehis02hegeuoft",
+   "Lectures on the History of Philosophy, vol. II (London: Kegan Paul, Trench, Trübner, 1894)",
+   "tr. E. S. Haldane and Frances H. Simson"
+  ],
+  "hegel-haldane-history-of-philosophy-1896-v3": [
+   "lectureshistoryp03hegeuoft",
+   "Lectures on the History of Philosophy, vol. III (London: Kegan Paul, Trench, Trübner, 1896)",
+   "tr. Elizabeth S. Haldane and Frances H. Simson"
+  ],
+  "hegel-sibree-philosophy-of-history-1881": [
+   "lecturesonphilos00hege",
+   "Lectures on the Philosophy of History, translated from the third German edition (Bohn; London: George Bell, 1881)",
+   "tr. J. Sibree"
+  ],
+  "hegel-baillie-phenomenology-1910-v1": [
+   "cu31924097557171",
+   "The Phenomenology of Mind, translated with an introduction and notes, vol. I (Library of Philosophy; London: Swan Sonnenschein, 1910)",
+   "tr. J. B. Baillie"
+  ],
+  "hegel-baillie-phenomenology-1910-v2": [
+   "cu31924091023832",
+   "The Phenomenology of Mind, vol. II (Library of Philosophy; London: Swan Sonnenschein, 1910)",
+   "tr. J. B. Baillie"
+  ],
+  "hegel-speirs-philosophy-of-religion-1895-v1": [
+   "philosophyofreli01hegeuoft",
+   "Lectures on the Philosophy of Religion, together with a work on the Proofs of the Existence of God, translated from the second German edition, vol. I (London: Kegan Paul, 1895)",
+   "tr. E. B. Speirs and J. Burdon Sanderson"
+  ],
+  "hegel-speirs-philosophy-of-religion-1895-v2": [
+   "lecturesonthephi02hegeuoft",
+   "Lectures on the Philosophy of Religion, vol. II (London: Kegan Paul, 1895)",
+   "tr. E. B. Speirs and J. Burdon Sanderson"
+  ],
+  "hegel-speirs-philosophy-of-religion-1895-v3": [
+   "lecturesreligion03hegeuoft",
+   "Lectures on the Philosophy of Religion, vol. III, with the Lectures on the Proofs of the Existence of God (London: Kegan Paul, 1895)",
+   "tr. E. B. Speirs and J. Burdon Sanderson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "hegel-wallace-logic-1892": "Wallace",
+  "hegel-wallace-philosophy-of-mind-1894": "Wallace",
+  "hegel-osmaston-fine-art-1920-v1": "Osmaston",
+  "hegel-osmaston-fine-art-1920-v2": "Osmaston",
+  "hegel-osmaston-fine-art-1920-v3": "Osmaston",
+  "hegel-osmaston-fine-art-1920-v4": "Osmaston",
+  "hegel-haldane-history-of-philosophy-1892-v1": "Haldane",
+  "hegel-haldane-history-of-philosophy-1894-v2": "Simson",
+  "hegel-haldane-history-of-philosophy-1896-v3": "Simson",
+  "hegel-baillie-phenomenology-1910-v1": "Baillie",
+  "hegel-baillie-phenomenology-1910-v2": "Baillie",
+  "hegel-speirs-philosophy-of-religion-1895-v1": "Speirs",
+  "hegel-speirs-philosophy-of-religion-1895-v2": "Sanderson",
+  "hegel-speirs-philosophy-of-religion-1895-v3": "Speirs"
+ },
+ "_checks": {
+  "hegel-wallace-logic-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Wallace",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Wallace",
+   "translator_match": true
+  },
+  "hegel-wallace-philosophy-of-mind-1894": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Wallace",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Wallace",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
+   "translator_match": true
+  },
+  "hegel-haldane-history-of-philosophy-1892-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Haldane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-96",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-haldane-history-of-philosophy-1894-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Simson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-96",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-haldane-history-of-philosophy-1896-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Simson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-96",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-sibree-philosophy-of-history-1881": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hegel-baillie-phenomenology-1910-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Baillie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hegel-baillie-phenomenology-1910-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Baillie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hegel-speirs-philosophy-of-religion-1895-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Speirs",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-speirs-philosophy-of-religion-1895-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Sanderson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-speirs-philosophy-of-religion-1895-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Speirs",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

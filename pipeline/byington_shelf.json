@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Steven T. Byington (1868-1957): Max Stirner's The Ego and His Own (Tucker, 1907) and Eltzbacher's Anarchism (1908). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "steven t. byington",
+  "byington"
+ ],
+ "_surname": [
+  "steven t. byington",
+  "byington"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "byi-34580": [
+   34580,
+   "The Ego and His Own"
+  ],
+  "byi-36690": [
+   36690,
+   "Anarchism"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "byington-eltzbacher-anarchism": {
+   "source": "byi-36690",
+   "of": "Paul Eltzbacher",
+   "work": "Anarchism",
+   "translated": "1907-1908 (see the Gutenberg header)",
+   "translator": "Steven T. Byington",
+   "scan_edition": "Project Gutenberg 36690 (clean text)"
+  },
+  "byington-stirner-the-ego-and-his-own": {
+   "source": "byi-34580",
+   "of": "Max Stirner",
+   "work": "The Ego and His Own",
+   "translated": "1907-1908 (see the Gutenberg header)",
+   "translator": "Steven T. Byington",
+   "scan_edition": "Project Gutenberg 34580 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "byi-34580": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "steven t. byington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Steven T. Byington"
+  },
+  "byi-36690": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "steven t. byington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Steven T. Byington"
+  }
+ },
+ "_verified": {
+  "byi-34580": {
+   "pg": 34580,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Steven T. Byington"
+  },
+  "byi-36690": {
+   "pg": 36690,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Steven T. Byington"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

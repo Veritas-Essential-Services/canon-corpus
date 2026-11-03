@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain Charles Samuel Eby (1845-1925), Canadian Methodist missionary in Japan and later pastor in Toronto, for the Word Hoard: Christianity and Humanity (lectures in Tokyo), Christianity and Civilization, The Immediate Christianization of Japan, Methodism and the Missionary Problem, and The Sermon on the Mount, the Charter of the Kingdom. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 118 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles s. eby",
+  "c. s. eby",
+  "eby"
+ ],
+ "_surname": [
+  "charles s. eby",
+  "charles samuel eby",
+  "c. s. eby",
+  "eby"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eby-christianity-humanity": [
+   "cihm_06044",
+   "Christianity and humanity : a course of lectures delivered in Meiji Kuaido, Tokio, Japan (Yokohama, Japan : R. Meiklejohn, 1883)"
+  ],
+  "eby-christianity-civilization": [
+   "albertatest_01233",
+   "Christianity and civilization : with a prelude on the antiquity of man ([Tokyo? : s.n., 1883)"
+  ],
+  "eby-christianization-japan": [
+   "christianization00ebyc",
+   "Immediate Christianization of Japan (Yokohama : printed at the office of the Japan Mail, 1884)"
+  ],
+  "eby-methodism-missions": [
+   "cihm_59547",
+   "Methodism and the missionary problem (Toronto : W. Briggs; Toronto : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886)"
+  ],
+  "eby-sermon-mount": [
+   "cihm_86079",
+   "Sermon on the Mount : the charter of the Kingdom (Toronto : Canadian Citizens' League of the International Reform Bureau, 1907)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "eby-physical-sciences": "bwb_C0-BYJ-403 (1943, another Eby)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "eby-christianity-humanity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles s. eby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eby-christianity-civilization": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. s. eby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eby-christianization-japan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles s. eby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eby-methodism-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eby-sermon-mount": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. s. eby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Huldreich Zwingli (1484-1531), the reformer of Zurich, in English for the Word Hoard: The Christian Education of Youth (1899), Selected Works, translated for the first time, edited by Samuel Macauley Jackson (Philadelphia, 1901), and The Latin Works and the Correspondence of Huldreich Zwingli, edited by Jackson and others (3 vols., 1912-1929). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 81 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "huldreich zwingli",
+  "ulrich zwingli",
+  "huldrych zwingli",
+  "zwingli"
+ ],
+ "_surname": [
+  "zwingli"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zwingli-christian-education-youth": [
+   "christianeducati00zwin",
+   "The Christian education of youth (Collegeville, Pa., Thompson bros., 1899)"
+  ],
+  "zwingli-selected-works": [
+   "selectedworksofh00zwin",
+   "Selected works of Huldreich Zwingli (1484-1531) : the reformer of German Switzerland (Philadelphia : University of Pennsylvian ; New York : sold by Longmans, Green, 1901)"
+  ],
+  "zwingli-latin-works-1": [
+   "latinworkscorres01zwin",
+   "The Latin works and the correspondence of Huldreich Zwingli : together with selections from his German works, vol. 1 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912)"
+  ],
+  "zwingli-latin-works-2": [
+   "latinworkscorres02zwin",
+   "The Latin works and the correspondence of Huldreich Zwingli : together with selections from his German works, vol. 2 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912)"
+  ],
+  "zwingli-latin-works-3": [
+   "latinworkscorres03zwin",
+   "The Latin works and the correspondence of Huldreich Zwingli :  together with selections from his German works, vol. 3 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "zwingli-lives": "lives of him by Christoffel, Jackson and others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "zwingli-christian-education-youth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zwingli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "zwingli-selected-works": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zwingli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zwingli-latin-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zwingli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "['1912 ;', '1922, 1929']",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zwingli-latin-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zwingli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "['1912 ;', '1922, 1929']",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zwingli-latin-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zwingli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

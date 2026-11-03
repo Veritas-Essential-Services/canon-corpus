@@ -1,0 +1,47 @@
+{
+ "_about": "Public-domain Carl August Auberlen (1824-1864), Basel Lutheran theologian, for the Word Hoard: The Divine Revelation, an essay in defence of the faith (Edinburgh: T. & T. Clark, 1867), from an Internet Archive scan. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "auberlen"
+ ],
+ "_surname": [
+  "c. a. auberlen",
+  "carl august auberlen",
+  "auberlen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "auberlen-divine-revelation": [
+   "divinerevelation00aube",
+   "The divine revelation : an essay in defence of the faith (Edinburgh, T. and T. Clark, 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "auberlen-other": "The Foundations of our Faith (1863, ten papers by several authors); German works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "auberlen-daniel-revelation": "The Prophecies of Daniel and the Revelation of St John (1856): its scan propheciesofdani00aube is already held on another branch, so not taken here"
+ },
+ "_translators": {
+  "auberlen-divine-revelation": "Paton"
+ },
+ "_checks": {
+  "auberlen-divine-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carl august auberlen",
+   "translator_claimed": "Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

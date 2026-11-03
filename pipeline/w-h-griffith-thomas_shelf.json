@@ -1,0 +1,349 @@
+{
+ "_about": "Public-domain W. H. Griffith Thomas (William Henry Griffith Thomas, 1861-1924, Anglican evangelical, Wycliffe Hall and Wycliffe College, Toronto) for the Word Hoard, held to printings dated before 1930: The Prayers of St. Paul (Project Gutenberg, 1914), and from Internet Archive scans The Apostle Peter (1904), his devotional commentaries on Genesis (3 vols., 1908-09) and Romans (2 vols., 1911-12), The Holy Spirit of God (1913), Methods of Bible Study, The Work of the Ministry, Christianity is Christ (1916), The Catholic Faith (1920), Christ Pre-eminent (1923), And God Spake These Words (1926) and others. The Principles of Theology (1930) is outside the cutoff. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "griffith",
+  "thomas"
+ ],
+ "_surname": [
+  "w. h. griffith thomas",
+  "griffith thomas",
+  "william henry griffith thomas",
+  "thomas, w. h. griffith",
+  "griffith thomas, w. h.",
+  "w. h. griffith thomas, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gthomas-prayers-st-paul": [
+   "30389",
+   "The Prayers of St. Paul (New York: Charles Scribner's Sons, 1914)"
+  ]
+ },
+ "internet_archive": {
+  "gthomas-apostle-peter": [
+   "apostlepeter0000whgr",
+   "The Apostle Peter: Outline Studies in his Life, Character, and Writings (London: Religious Tract Society, 1904)"
+  ],
+  "gthomas-genesis-1": [
+   "genesisadevotion00thomuoft",
+   "Genesis I-XXV.10: A Devotional Commentary, third edition (London: Religious Tract Society, 1909)"
+  ],
+  "gthomas-genesis-2": [
+   "genesisdevotiona0002thom",
+   "Genesis XXV.11-XXXVI.8: A Devotional Commentary, second edition (London: Religious Tract Society, 1909)"
+  ],
+  "gthomas-genesis-3": [
+   "genesisadevotion03thomuoft",
+   "Genesis XXXVII-L: A Devotional Commentary (London: Religious Tract Society, 1908)"
+  ],
+  "gthomas-romans-1": [
+   "romansdevotional0000thom",
+   "Romans I-V: A Devotional Commentary (London: Religious Tract Society, 1911)"
+  ],
+  "gthomas-romans-2": [
+   "romansdevotional0000thom_d3n8",
+   "Romans VI-XI: A Devotional Commentary (London: Religious Tract Society, 1912)"
+  ],
+  "gthomas-methods-bible-study": [
+   "methodsofbiblest0000whgr_y8d9",
+   "Methods of Bible Study (New York: Fleming H. Revell; no year on title page, catalogued 1903)"
+  ],
+  "gthomas-work-of-ministry": [
+   "theworkofthemini00thomuoft",
+   "The Work of the Ministry (London: Hodder and Stoughton; no year on title page, catalogued 1910)"
+  ],
+  "gthomas-life-abiding": [
+   "lifeabidingaboun00thom",
+   "Life Abiding and Abounding: Bible Studies in Prayer and Meditation (Chicago: Bible Institute Colportage Association; no year on title page, catalogued 1910)"
+  ],
+  "gthomas-conflict-of-ideals": [
+   "cihm_76187",
+   "The Conflict of Ideals in the English Church, an address (Toronto; no imprint read, catalogued 1910)"
+  ],
+  "gthomas-what-did-lord-mean": [
+   "cihm_80483",
+   "What Did Our Lord Mean? Notes on the Holy Communion (Toronto: J. M. Robertson; no year on title page, the text cites November 1910)"
+  ],
+  "gthomas-holy-spirit": [
+   "holyspiritofgod00thom",
+   "The Holy Spirit of God, the L. P. Stone Lectures (London: Longmans, Green, 1913)"
+  ],
+  "gthomas-stronghold-truth": [
+   "strongholdoftrut0000whgr",
+   "Stronghold of Truth: Five Lectures at the Montrose Bible Conference (Los Angeles: Biola Book Room, copyright 1915)"
+  ],
+  "gthomas-christianity-is-christ": [
+   "christianityisch0000whgr",
+   "Christianity is Christ, fifth impression (London: Longmans, Green, 1916)"
+  ],
+  "gthomas-grace-and-power": [
+   "gracepowersomeas00thom",
+   "Grace and Power: Some Aspects of the Spiritual Life (Fleming H. Revell, copyright 1916)"
+  ],
+  "gthomas-christian-life": [
+   "christianlifehow00thom",
+   "The Christian Life and How to Live It (Chicago: Bible Institute Colportage Association, copyright 1919)"
+  ],
+  "gthomas-catholic-faith": [
+   "thecatholicfaith00thomuoft",
+   "The Catholic Faith: A Manual of Instruction for Members of the Church of England, new edition (London: Longmans, Green, 1920)"
+  ],
+  "gthomas-christ-preeminent": [
+   "christpreeminent00thom",
+   "Christ Pre-eminent: Studies in the Epistle to the Colossians (Chicago: Bible Institute Colportage Association, copyright 1923)"
+  ],
+  "gthomas-god-spake": [
+   "andgodspakethese0000revw",
+   "And God Spake These Words: How We Got Our Bible and Why We Believe It Is God's Word (Philadelphia: Sunday School Times, copyright 1926)"
+  ]
+ },
+ "_alternates": {
+  "gthomas-ministerial-life": "Ministerial Life and Work, an abridgement of The Work of the Ministry by his wife (1927; IA ministeriallifew00thom)",
+  "gthomas-copies": "Second copies of Genesis vol. 1, The Prayers of St. Paul, Grace and Power, The Christian Life and Christ Pre-eminent"
+ },
+ "_excluded": {
+  "gthomas-principles": "The Principles of Theology: first published 1930, all IA copies 1945-1963",
+  "gthomas-late": "Eerdmans, Moody and other post-1930 printings; a 1955 Catholic Faith; an undated Pickering & Inglis Apostle John",
+  "gthomas-introductions": "Armitage's The Fruit of the Spirit: introductory note only",
+  "gthomas-namesakes": "other Thomas Griffiths"
+ },
+ "_identity_checked": {
+  "gthomas-holy-spirit": {
+   "author": "Title page read: \"BY W. H. GRIFFITH ^THOMAS, D.D.\", London: Longmans, Green, 1913, L. P. Stone Lectures (OCR caret)."
+  }
+ },
+ "_rights_checked": {
+  "gthomas-what-did-lord-mean": "title page read: Toronto: J. M. Robertson, no year; the text cites November 1910; IA's 1996 date is the microfiche; author died 1924",
+  "gthomas-stronghold-truth": "verso read: Biola Book Room, copyright 1915",
+  "gthomas-god-spake": "verso read: Sunday School Times, copyright 1926"
+ },
+ "_pending": {
+  "gthomas-romans-3": "Romans XII-XVI (IA stpaulsepistleto0000whgr): no year on title page, catalogued 1912, may be a later printing",
+  "gthomas-holy-spirit-bica": "The Holy Spirit of God, second impression, BICA Chicago, undated (IA holyspiritofgod0000thom)",
+  "gthomas-sacrament-redemption": "A Sacrament of our Redemption (IA sacramentofourre00thomuoft, London: Bemrose): title page read, no year on it and none on the IA record; printing date unknown"
+ },
+ "_checks": {
+  "gthomas-prayers-st-paul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthomas-apostle-peter": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-genesis-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1908-1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gthomas-genesis-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-genesis-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1908-1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gthomas-romans-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-romans-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-methods-bible-study": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "April,1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-work-of-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gthomas-life-abiding": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gthomas-conflict-of-ideals": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-what-did-lord-mean": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1996",
+   "ia_date": "1996",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Toronto: J. M. Robertson, no year; the text cites November 1910; IA's 1996 date is the microfiche; author died 1924"
+  },
+  "gthomas-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-stronghold-truth": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso read: Biola Book Room, copyright 1915"
+  },
+  "gthomas-christianity-is-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-grace-and-power": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gthomas-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gthomas-catholic-faith": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gthomas-christ-preeminent": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gthomas-god-spake": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. h. griffith thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso read: Sunday School Times, copyright 1926"
+  }
+ }
+}

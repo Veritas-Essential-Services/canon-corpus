@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain John Keble (1792-1866, Professor of Poetry at Oxford, vicar of Hursley) for the Word Hoard: The Christian Year (verse) clean from CCEL; National Apostasy, the Assize Sermon of 1833, from Project Gutenberg; and Sermons Academical and Occasional (Oxford: Parker, 1847) and Occasional Papers and Reviews (Oxford: Parker, 1877), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "k/keble",
+ "_name_words": [
+  "keble",
+  "john"
+ ],
+ "_surname": [
+  "john keble",
+  "j. keble",
+  "keble"
+ ],
+ "_held": {},
+ "ccel": {
+  "keble-christian-year": [
+   "year",
+   "The Christian Year (verse)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "keble-national-apostasy": [
+   "49112",
+   "National Apostasy"
+  ]
+ },
+ "internet_archive": {
+  "keble-sermons-academical-1847": [
+   "sermonsacademica00kebluoft",
+   "Sermons, Academical and Occasional (Oxford: J. H. Parker, 1847)"
+  ],
+  "keble-occasional-papers-1877": [
+   "ra588864200kebluoft",
+   "Occasional Papers and Reviews (Oxford: J. Parker, 1877)"
+  ]
+ },
+ "_alternates": {
+  "keble-christian-year": "Gutenberg 4272 (the same poems)",
+  "keble-sermons-christian-year": "Sermons for the Christian Year (London: W. Smith, 1875-80, 11 vols; Claremont scans, numbering incomplete): not shelved yet"
+ },
+ "_excluded": {
+  "keble-plain-sermons": "Plain Sermons by Contributors to the Tracts for the Times (1841-42): several authors, not Keble alone"
+ },
+ "_checks": {
+  "keble-christian-year": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john keble",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1827",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "keble-national-apostasy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john keble",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keble-sermons-academical-1847": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john keble",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keble-occasional-papers-1877": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john keble",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

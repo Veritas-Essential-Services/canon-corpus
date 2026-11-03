@@ -1,0 +1,30 @@
+{
+ "_about": "Kenneth John Freeman (1882-1906); ed. M. J. Rendall, introduction by A. W. Verrall. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Schools of Hellas: an essay on the practice and theory of ancient Greek education from 600 to 300 B.C., clean Gutenberg. Initials in the shelf name keep him apart from Edward A. Freeman. No uids minted.",
+ "_name_words": [
+  "freeman"
+ ],
+ "_surname": [
+  "kenneth j. freeman",
+  "kenneth john freeman",
+  "freeman, kenneth j"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "freeman-schools-of-hellas": [
+   63644,
+   "Schools of Hellas: an essay on the practice and theory of ancient Greek education from 600 to 300 B.C."
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "freeman-schools-of-hellas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kenneth j. freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

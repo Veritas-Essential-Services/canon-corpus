@@ -1,0 +1,579 @@
+{
+ "_about": "Daniel Defoe's novels, histories, tracts and journalism not already on another shelf (the reading-list defoe shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Daniel Defoe",
+ "_name_words": [
+  "defoe"
+ ],
+ "_surname": [
+  "daniel defoe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "defoe-fortunes-and-misfortunes-of-the-famous-moll-flanders": [
+   370,
+   "The Fortunes and Misfortunes of the Famous Moll Flanders"
+  ],
+  "defoe-a-journal-of-the-plague-year-being-observations-or-mem": [
+   376,
+   "A Journal of the Plague Year Being Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London"
+  ],
+  "defoe-further-adventures-of-robinson-crusoe": [
+   561,
+   "The Further Adventures of Robinson Crusoe"
+  ],
+  "defoe-tour-through-the-eastern-counties-of-england-1722": [
+   983,
+   "Tour through the Eastern Counties of England, 1722"
+  ],
+  "defoe-from-london-to-lands-end-and-two-letters-from-the-jour": [
+   1149,
+   "From London to Land's End and Two Letters from the \"Journey through England by a Gentleman\""
+  ],
+  "defoe-dickory-cronke": [
+   2051,
+   "Dickory Cronke: The Dumb Philosopher, or, Great Britain's Wonder"
+  ],
+  "defoe-everybodys-business-is-nobodys-business": [
+   2052,
+   "Everybody's Business Is Nobody's Business Or, Private Abuses, Public Grievances; Exemplified in the Pride, Insolence, and Exorbitant Wages of Our Women, Servants, Footmen, &c."
+  ],
+  "defoe-an-essay-upon-projects": [
+   4087,
+   "An Essay Upon Projects"
+  ],
+  "defoe-life-adventures-piracies-of-the-famous-captain-singlet": [
+   6422,
+   "The Life, Adventures & Piracies of the Famous Captain Singleton"
+  ],
+  "defoe-consolidator": [
+   7089,
+   "The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon"
+  ],
+  "defoe-of-captain-mission": [
+   7779,
+   "Of Captain Mission"
+  ],
+  "defoe-life-and-most-surprising-adventures-of-robinson-crusoe": [
+   11866,
+   "The Life and Most Surprising Adventures of Robinson Crusoe, of York, Mariner (1801)"
+  ],
+  "defoe-memoirs-of-a-cavalier-a-military-journal-of-the-wars-i": [
+   12259,
+   "Memoirs of a Cavalier A Military Journal of the Wars in Germany, and the Wars in England. From the Year 1632 to the Year 1648."
+  ],
+  "defoe-history-of-the-remarkable-life-of-john-sheppard-contai": [
+   14065,
+   "The History of the Remarkable Life of John Sheppard Containing a Particular Account of His Many Robberies and Escapes"
+  ],
+  "defoe-a-vindication-of-the-press": [
+   14084,
+   "A Vindication of the Press"
+  ],
+  "defoe-military-memoirs-of-capt-george-carleton": [
+   14436,
+   "Military Memoirs of Capt. George Carleton"
+  ],
+  "defoe-memoirs-of-major-alexander-ramkins-1718": [
+   14442,
+   "Memoirs of Major Alexander Ramkins (1718)"
+  ],
+  "defoe-complete-english-tradesman-1839-ed": [
+   14444,
+   "The Complete English Tradesman (1839 ed.)"
+  ],
+  "defoe-history-of-the-plague-in-london": [
+   17221,
+   "History of the Plague in London"
+  ],
+  "defoe-atalantis-major": [
+   26940,
+   "Atalantis Major"
+  ],
+  "defoe-true-born-englishman": [
+   30159,
+   "The True-Born Englishman: A Satire"
+  ],
+  "defoe-fortunate-mistress-parts-1-and-2-or-a-history-of-the-l": [
+   30344,
+   "The Fortunate Mistress (Parts 1 and 2) or a History of the Life of Mademoiselle de Beleau Known by the Name of the Lady Roxana"
+  ],
+  "defoe-history-of-the-devil-as-well-ancient-as-modern": [
+   31053,
+   "The History of the Devil, As Well Ancient as Modern: In Two Parts"
+  ],
+  "defoe-an-appeal-to-honour-and-justice-though-it-be-of-his-wo": [
+   32139,
+   "An Appeal to Honour and Justice, Though It Be of His Worst Enemies. Being A True Account of His Conduct in Public Affairs."
+  ],
+  "defoe-an-humble-proposal-to-the-people-of-england-for-the-in": [
+   32384,
+   "An Humble Proposal to the People of England, for the Increase of their Trade, and Encouragement of Their Manufactures Whether the Present Uncertainty of Affairs Issues in Peace or War"
+  ],
+  "defoe-second-thoughts-are-best": [
+   32404,
+   "Second Thoughts are Best: Or a Further Improvement of a Late Scheme to Prevent Street Robberies"
+  ],
+  "defoe-augusta-triumphans": [
+   32405,
+   "Augusta Triumphans Or, the Way to Make London the Most Flourishing City in the Universe"
+  ],
+  "defoe-a-new-voyage-round-the-world-by-a-course-never-sailed": [
+   35774,
+   "A New Voyage Round the World by a Course Never Sailed Before"
+  ],
+  "defoe-a-true-relation-of-the-apparition-of-one-mrs-veal-the": [
+   36587,
+   "A True Relation of the Apparition of one Mrs. Veal The Next Day after Her Death, to one Mrs. Bargrave, at Canterbury, the 8th of September, 1705; which Apparition Recommends the Perusal of Drelincourt's Book of Consolations against the Fears of Death"
+  ],
+  "defoe-reasons-against-the-succession-of-the-house-of-hanover": [
+   36628,
+   "Reasons Against the Succession of the House of Hanover With an Enquiry How Far the Abdication of King James, Supposing It to Be Legal, Ought to Affect the Person of the Pretender"
+  ],
+  "defoe-a-seasonable-warning-and-caution-against-the-insinuati": [
+   36656,
+   "A Seasonable Warning and Caution against the Insinuations of Papists and Jacobites in favour of the Pretender Being a Letter from an Englishman at the Court of Hanover"
+  ],
+  "defoe-an-answer-to-a-question-that-nobody-thinks-of-viz-but": [
+   36681,
+   "An Answer to a Question that Nobody thinks of, viz., But what if the Queen should Die?"
+  ],
+  "defoe-lay-mans-sermon-upon-the-late-storm-held-forth-at-an-h": [
+   36694,
+   "The Lay-Man's Sermon upon the Late Storm Held forth at an Honest Coffee-House-Conventicle"
+  ],
+  "defoe-and-what-if-the-pretender-should-come-or-some-consider": [
+   36769,
+   "And What if the Pretender should Come? Or Some Considerations of the Advantages and Real Consequences of the Pretender's Possessing the Crown of Great Britain"
+  ],
+  "defoe-a-short-narrative-of-the-life-and-actions-of-his-grace": [
+   37505,
+   "A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh"
+  ],
+  "defoe-king-of-pirates-being-an-account-of-the-famous-enterpr": [
+   37992,
+   "The King of Pirates Being an Account of the Famous Enterprises of Captain Avery, the Mock King of Madagascar"
+  ],
+  "defoe-storm-an-essay": [
+   41063,
+   "The Storm. An Essay."
+  ],
+  "defoe-storm": [
+   42234,
+   "The Storm or, a Collection of the most Remarkable Casualties and Disasters which Happen'd in the Late Dreadful Tempest, both by Sea and Land"
+  ],
+  "defoe-history-and-remarkable-life-of-the-truly-honourable-co": [
+   52603,
+   "The History and Remarkable Life of the Truly Honourable Colonel Jacque, Commonly Called Colonel Jack"
+  ],
+  "defoe-friendly-daemon-or-the-generous-apparition-being-a-tru": [
+   54925,
+   "The Friendly Daemon, or the Generous Apparition Being a True Narrative of a Miraculous Cure, Newly Perform'd Upon That Famous Deaf and Dumb Gentleman, Dr. Duncan Campbel, by a Familiar Spirit That Appear'd to Him in a White Surplice, Like a Cathedral Singing Boy"
+  ],
+  "defoe-history-of-the-pyrates-vol-ii-containing-the-lives-of": [
+   57005,
+   "The History of the Pyrates. Vol. II. Containing the lives of Captain Misson, Captain Bowen, Captain Kidd, Captain Tew, Captain Halsey, Captain White, Captain Condent, Captain Bellamy, Captain Fly, Captain Howard, Captain Lewis, Captain Cornelius, Captain Williams, Captain Burgess, Captain North, and their several crews"
+  ],
+  "defoe-remarks-on-the-speeches-of-william-paul-clerk-and-john": [
+   70523,
+   "Remarks on the speeches of William Paul Clerk, and John Hall of Otterburn, Esq"
+  ],
+  "defoe-robinson-crusoe": [
+   70841,
+   "Robinson Crusoe"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-6936": "Robinson Crusoe retold by other hands: PG 6936 (Lucy Aikin, words of one syllable), 7799 (Allison), 67907 (John Lang).",
+  "pg-12623": "PG 12623 and 11239: other editions of Robinson Crusoe; the reading-list defoe shelf holds the novel."
+ },
+ "_checks": {
+  "defoe-fortunes-and-misfortunes-of-the-famous-moll-flanders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-a-journal-of-the-plague-year-being-observations-or-mem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-further-adventures-of-robinson-crusoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-tour-through-the-eastern-counties-of-england-1722": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-from-london-to-lands-end-and-two-letters-from-the-jour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-dickory-cronke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-everybodys-business-is-nobodys-business": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-an-essay-upon-projects": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-life-adventures-piracies-of-the-famous-captain-singlet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-consolidator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-of-captain-mission": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-life-and-most-surprising-adventures-of-robinson-crusoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-memoirs-of-a-cavalier-a-military-journal-of-the-wars-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-history-of-the-remarkable-life-of-john-sheppard-contai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-a-vindication-of-the-press": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-military-memoirs-of-capt-george-carleton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-memoirs-of-major-alexander-ramkins-1718": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-complete-english-tradesman-1839-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-history-of-the-plague-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-atalantis-major": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-true-born-englishman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-fortunate-mistress-parts-1-and-2-or-a-history-of-the-l": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-history-of-the-devil-as-well-ancient-as-modern": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-an-appeal-to-honour-and-justice-though-it-be-of-his-wo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-an-humble-proposal-to-the-people-of-england-for-the-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-second-thoughts-are-best": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-augusta-triumphans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-a-new-voyage-round-the-world-by-a-course-never-sailed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-a-true-relation-of-the-apparition-of-one-mrs-veal-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-reasons-against-the-succession-of-the-house-of-hanover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-a-seasonable-warning-and-caution-against-the-insinuati": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-an-answer-to-a-question-that-nobody-thinks-of-viz-but": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-lay-mans-sermon-upon-the-late-storm-held-forth-at-an-h": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-and-what-if-the-pretender-should-come-or-some-consider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-a-short-narrative-of-the-life-and-actions-of-his-grace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-king-of-pirates-being-an-account-of-the-famous-enterpr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-storm-an-essay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-history-and-remarkable-life-of-the-truly-honourable-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-friendly-daemon-or-the-generous-apparition-being-a-tru": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-history-of-the-pyrates-vol-ii-containing-the-lives-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-remarks-on-the-speeches-of-william-paul-clerk-and-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "defoe-robinson-crusoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

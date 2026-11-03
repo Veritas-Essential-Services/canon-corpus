@@ -1,0 +1,87 @@
+{
+ "_about": "James M. Ludlow: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "James M. Ludlow",
+ "_name_words": [
+  "james",
+  "ludlow",
+  "meeker"
+ ],
+ "_surname": [
+  "james m. ludlow",
+  "james meeker ludlow",
+  "ludlow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jmludlow-captain-of-the-janizaries-a-story-of-the-times-of-s": [
+   40519,
+   "The Captain of the Janizaries A story of the times of Scanderberg and the fall of Constantinople"
+  ],
+  "jmludlow-king-of-tyre": [
+   44290,
+   "A King of Tyre: A Tale of the Times of Ezra and Nehemiah"
+  ],
+  "jmludlow-deborah": [
+   53851,
+   "Deborah: A tale of the times of Judas Maccabaeus"
+  ],
+  "jmludlow-baritones-parish": [
+   59724,
+   "The Baritone's Parish; or, \"All Things to All Men\""
+  ],
+  "jmludlow-age-of-the-crusades": [
+   72852,
+   "The age of the crusades"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jmludlow-captain-of-the-janizaries-a-story-of-the-times-of-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james m. ludlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmludlow-king-of-tyre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james m. ludlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmludlow-deborah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james m. ludlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmludlow-baritones-parish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james m. ludlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmludlow-age-of-the-crusades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james m. ludlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "_about": "Public-domain Henry Hammond (1605-1660, Caroline divine, chaplain to Charles I, 'father of English biblical criticism') for the Word Hoard: A Paraphrase and Annotations upon the New Testament (4 vols, Oxford 1845), A Practical Catechism (Library of Anglo-Catholic Theology, 1847) and the Miscellaneous Theological Works (Library of Anglo-Catholic Theology, 3 vols, 1847-50, vol. 3 being the Thirty-one Sermons), raw Internet Archive OCR. Greek in the Paraphrase's text layer, measured 2026-10-03: vols. 2 and 4 carry it (36,496 and 163,028 Greek characters); vols. 1 and 3 have 0, so their Greek quotations are lost in OCR. No 1845 copy on IA with Greek in vols. 1 or 3 was found. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hammond",
+  "henry"
+ ],
+ "_surname": [
+  "henry hammond",
+  "h. hammond",
+  "hammond, henry",
+  "dr. hammond",
+  "dr. h. hammond"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hammond-paraphrase-1": [
+   "paraphraseannota01hammuoft",
+   "A Paraphrase and Annotations upon all the Books of the New Testament, new edition in four volumes, vol. 1 (Oxford: University Press, 1845)"
+  ],
+  "hammond-paraphrase-2": [
+   "paraphraseannota02hammuoft",
+   "A Paraphrase and Annotations upon all the Books of the New Testament, new edition in four volumes, vol. 2 (Oxford: University Press, 1845)"
+  ],
+  "hammond-paraphrase-3": [
+   "paraphraseannota03hammuoft",
+   "A Paraphrase and Annotations upon all the Books of the New Testament, new edition in four volumes, vol. 3 (Oxford: University Press, 1845)"
+  ],
+  "hammond-paraphrase-4": [
+   "paraphraseannota04hammuoft",
+   "A Paraphrase and Annotations upon all the Books of the New Testament, new edition in four volumes, vol. 4 (Oxford: University Press, 1845)"
+  ],
+  "hammond-practical-catechism-1847": [
+   "practicalcatechi00hamm",
+   "A Practical Catechism (Oxford: John Henry Parker, 1847; Library of Anglo-Catholic Theology)"
+  ],
+  "hammond-misc-works-1": [
+   "miscellaneousthe01hamm",
+   "The Miscellaneous Theological Works of Henry Hammond, vol. 1, with Fell's Life of Hammond (Oxford: J. H. Parker; editor's preface dated 1847; Library of Anglo-Catholic Theology)"
+  ],
+  "hammond-misc-works-2": [
+   "themiscellaneous02hammuoft",
+   "The Miscellaneous Theological Works of Henry Hammond, third edition, vol. 2 (Oxford: J. H. Parker, catalogued 1847; Library of Anglo-Catholic Theology)"
+  ],
+  "hammond-misc-works-3-sermons": [
+   "themiscellaneous03hammuoft",
+   "The Miscellaneous Theological Works of Henry Hammond, third edition, vol. 3, containing Thirty-one Sermons preached on several occasions (Oxford: John Henry Parker, 1850)"
+  ]
+ },
+ "_alternates": {
+  "hammond-sermons": "Other copies of the Thirty-one Sermons: thirtyonesermons01hammuoft (part I, 1849), thirtyonesermons02hamm and thirtyonesermons03hammuoft (vol. 3, 1850)",
+  "hammond-paraphrase": "Google copies aparaphraseanda00unkngoog (vol. 1) and aparaphraseanda00hammgoog (1845): 0 Greek characters as well; seventeenth-century folios (1653-1689) are on IA in the early-English-books collection"
+ },
+ "_excluded": {},
+ "_checks": {
+  "hammond-paraphrase-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "h. hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hammond-paraphrase-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "h. hammond",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hammond-paraphrase-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "h. hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hammond-paraphrase-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "h. hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hammond-practical-catechism-1847": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hammond-misc-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry hammond",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hammond-misc-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hammond-misc-works-3-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

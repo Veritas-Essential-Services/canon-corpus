@@ -1,0 +1,56 @@
+{
+ "_about": "Paul Janet (1823-1899) in English, raw IA OCR: Final Causes, tr. William Affleck (Edinburgh: T. and T. Clark, 1878), and The Theory of Morals, tr. Mary Chapman under Noah Porter (New York: Scribner, 1883). His Elements of Morals is on singles-ideas-2. US public domain. No uids minted.",
+ "_author": "Paul Janet",
+ "_name_words": [
+  "paul",
+  "janet"
+ ],
+ "_surname": [
+  "janet",
+  "paul janet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "janet-affleck-final-causes-1878": [
+   "finalcauses00jane",
+   "Final Causes (Edinburgh: T. and T. Clark, 1878)",
+   "tr. William Affleck"
+  ],
+  "janet-chapman-theory-of-morals-1883": [
+   "theoryofmorals00janerich",
+   "The Theory of Morals (New York: Scribner, 1883)",
+   "tr. Mary Chapman"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "janet-chapman-theory-of-morals-1883": "Chapman"
+ },
+ "_checks": {
+  "janet-affleck-final-causes-1878": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "janet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janet-chapman-theory-of-morals-1883": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "janet",
+   "translator_claimed": "Chapman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

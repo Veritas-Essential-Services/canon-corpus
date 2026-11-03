@@ -1,0 +1,1066 @@
+{
+ "_about": "Edward S. Ellis's frontier and adventure stories for boys: every English text under his name at Gutenberg (catalogue: Ellis 1840-1916). Many describe Native Americans in the terms of their time. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edward S. Ellis",
+ "_name_words": [
+  "ellis"
+ ],
+ "_surname": [
+  "edward s. ellis",
+  "edward sylvester ellis",
+  "edward ellis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eellis-thomas-jefferson-a-character-sketch": [
+   712,
+   "Thomas Jefferson, a Character Sketch"
+  ],
+  "eellis-in-the-pecos-country": [
+   5828,
+   "In the Pecos Country"
+  ],
+  "eellis-lost-trail": [
+   6906,
+   "The Lost Trail"
+  ],
+  "eellis-daughter-of-the-chieftain": [
+   7493,
+   "The Daughter of the Chieftain : the Story of an Indian Girl"
+  ],
+  "eellis-huge-hunter": [
+   7506,
+   "The Huge Hunter; Or, The Steam Man of the Prairies"
+  ],
+  "eellis-life-of-kit-carson": [
+   7882,
+   "The Life of Kit Carson: Hunter, Trapper, Guide, Indian Agent and Colonel U.S.A."
+  ],
+  "eellis-cowmen-and-rustlers": [
+   11337,
+   "Cowmen and Rustlers: A Story of the Wyoming Cattle Ranges"
+  ],
+  "eellis-brave-tom": [
+   11978,
+   "Brave Tom; Or, The Battle That Won",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "eellis-cave-in-the-mountain-a-sequel-to-in-the-pecos-country": [
+   14647,
+   "The Cave in the Mountain A Sequel to In the Pecos Country"
+  ],
+  "eellis-through-forest-and-fire-wild-woods-series-no-1": [
+   16472,
+   "Through Forest and Fire Wild-Woods Series No. 1",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-jungle-fugitives": [
+   16805,
+   "The Jungle Fugitives: A Tale of Life and Adventure in India Including also Many Stories of American Adventure, Enterprise and Daring"
+  ],
+  "eellis-land-of-mystery": [
+   16855,
+   "The Land of Mystery"
+  ],
+  "eellis-oonomoo-the-huron": [
+   16869,
+   "Oonomoo the Huron",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-dewey-and-other-naval-commanders": [
+   17253,
+   "Dewey and Other Naval Commanders"
+  ],
+  "eellis-two-boys-in-wyoming": [
+   20223,
+   "Two Boys in Wyoming: A Tale of Adventure (Northwest Series, No. 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-boy-patriot": [
+   21125,
+   "The Boy Patriot"
+  ],
+  "eellis-adrift-in-the-wilds": [
+   21626,
+   "Adrift in the Wilds; Or, The Adventures of Two Shipwrecked Boys"
+  ],
+  "eellis-klondike-nuggets-and-how-two-boys-secured-them": [
+   21652,
+   "Klondike Nuggets, and How Two Boys Secured Them",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-hunters-of-the-ozark": [
+   22646,
+   "The Hunters of the Ozark",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-phantom-of-the-river": [
+   23026,
+   "The Phantom of the River"
+  ],
+  "eellis-story-of-red-feather": [
+   24097,
+   "The Story of Red Feather: A Tale of the American Frontier"
+  ],
+  "eellis-deerfoot-in-the-mountains": [
+   25334,
+   "Deerfoot in The Mountains",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-launch-boys-adventures-in-northern-waters": [
+   25849,
+   "The Launch Boys' Adventures in Northern Waters"
+  ],
+  "eellis-telegraph-messenger-boy": [
+   25859,
+   "The Telegraph Messenger Boy; Or, The Straight Road to Success",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-camp-fire-and-wigwam": [
+   25966,
+   "Camp-fire and Wigwam",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-footprints-in-the-forest": [
+   25980,
+   "Footprints in the Forest",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-riflemen-of-the-miami": [
+   27231,
+   "The Riflemen of the Miami"
+  ],
+  "eellis-young-ranchers": [
+   28331,
+   "The Young Ranchers; Or, Fighting the Sioux",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-ranger": [
+   28663,
+   "The Ranger; Or, The Fugitives of the Border",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-adrift-on-the-pacific": [
+   29667,
+   "Adrift on the Pacific: A Boys [sic] Story of the Sea and its Perils"
+  ],
+  "eellis-a-waif-of-the-mountains": [
+   29693,
+   "A Waif of the Mountains"
+  ],
+  "eellis-up-the-forked-river": [
+   29892,
+   "Up the Forked River; Or, Adventures in South America"
+  ],
+  "eellis-great-cattle-trail": [
+   30212,
+   "The Great Cattle Trail"
+  ],
+  "eellis-wilderness-fugitives": [
+   30335,
+   "The Wilderness Fugitives"
+  ],
+  "eellis-through-apache-land": [
+   31421,
+   "Through Apache Land"
+  ],
+  "eellis-frontier-angel": [
+   34681,
+   "The Frontier Angel: A Romance of Kentucky Rangers' Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-launch-boys-cruise-in-the-deerfoot": [
+   41434,
+   "The Launch Boys' Cruise in the Deerfoot"
+  ],
+  "eellis-blazing-arrow": [
+   41777,
+   "Blazing Arrow: A Tale of the Frontier"
+  ],
+  "eellis-wyoming": [
+   41784,
+   "Wyoming"
+  ],
+  "eellis-bill-biddon-trapper": [
+   42057,
+   "Bill Biddon, Trapper; or, Life in the Northwest",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-1000-mythological-characters-briefly-described-adapte": [
+   42474,
+   "1000 Mythological Characters Briefly Described Adapted to Private Schools, High Schools and Academies"
+  ],
+  "eellis-campers-out": [
+   42504,
+   "The Campers Out; Or, The Right Path and the Wrong"
+  ],
+  "eellis-boy-patrol-on-guard": [
+   43079,
+   "The Boy Patrol on Guard",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-boy-patrol-around-the-council-fire": [
+   43218,
+   "The Boy Patrol Around the Council Fire",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-ned-in-the-block-house": [
+   43675,
+   "Ned in the Block-House: A Tale of Early Days in the West",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-among-the-esquimaux": [
+   45192,
+   "Among the Esquimaux; or, Adventures under the Arctic Circle",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-life-and-times-of-col-daniel-boone-hunter-soldier-and": [
+   46227,
+   "The Life and Times of Col. Daniel Boone, Hunter, Soldier, and Pioneer With Sketches of Simon Kenton, Lewis Wetzel, and Other Leaders in the Settlement of the West"
+  ],
+  "eellis-across-texas": [
+   48970,
+   "Across Texas",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-boy-hunters-of-kentucky": [
+   49143,
+   "The Boy Hunters of Kentucky"
+  ],
+  "eellis-flying-boys-in-the-sky": [
+   50823,
+   "The Flying Boys in the Sky",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-tales-traditions-and-romance-of-border-and-revolution": [
+   51864,
+   "Tales, Traditions and Romance of Border and Revolutionary Times"
+  ],
+  "eellis-elliss-primary-physiology": [
+   52775,
+   "Ellis's Primary Physiology; Or, Good Health for Boys and Girls"
+  ],
+  "eellis-deerfoot-on-the-prairies": [
+   56238,
+   "Deerfoot on the Prairies",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-young-scout": [
+   57699,
+   "The Young Scout: The Story of a West Point Lieutenant",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-seth-jones": [
+   58422,
+   "Seth Jones; or, The Captives of the Frontier"
+  ],
+  "eellis-outdoor-life-and-indian-stories-making-open-air-life": [
+   59002,
+   "Outdoor Life and Indian Stories Making open air life attractive to young Americans by telling them all about woodcraft, signs and signaling, the stars, fishing, camping, camp cooking, how to tie knots and how to make fire without matches, and many other fascinating open air pursuits. Also, stories of noted hunters and scouts, great indians and warriors, including Daniel Boone, Kit Carson, General Custer, Pontiac, Tecumseh, King Philip, Black Hawk, Brandt, Sitting Bull, and a host of others whose names are famous; all of them true and interesting"
+  ],
+  "eellis-forest-monster": [
+   59147,
+   "The Forest Monster; or, Lamora, the Maid of the Canon"
+  ],
+  "eellis-a-young-hero": [
+   59853,
+   "A Young Hero; Or, Fighting to Win"
+  ],
+  "eellis-wolf-ear-the-indian": [
+   60633,
+   "Wolf Ear the Indian: A story of the great uprising of 1890-91"
+  ],
+  "eellis-flying-boys-to-the-rescue": [
+   63365,
+   "The Flying Boys to the Rescue",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-boy-miners": [
+   63868,
+   "The Boy Miners; Or, The Enchanted Island, A Tale of the Yellowstone Country",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "eellis-lightning-jo-the-terror-of-the-santa-fe-trail": [
+   65487,
+   "Lightning Jo, the Terror of the Santa Fe Trail: A Tale of the Present Day"
+  ],
+  "eellis-little-rifle": [
+   65923,
+   "Little Rifle; or, The Young Fur Hunters"
+  ],
+  "eellis-old-ruff-the-trapper": [
+   66085,
+   "Old Ruff, the Trapper; or, The Young Fur-Hunters",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-joe-napyank": [
+   66157,
+   "Joe Napyank; or, The River Rifles"
+  ],
+  "eellis-three-trappers": [
+   66309,
+   "The Three Trappers; or, The Apache Chief's Ruse",
+   {
+    "contents_only": true
+   }
+  ],
+  "eellis-wetzel-the-scout": [
+   66335,
+   "Wetzel, the Scout; or, The Captives of the Wilderness"
+  ],
+  "eellis-mad-anthonys-scouts": [
+   68482,
+   "Mad Anthony's scouts; or, The rangers of Kentucky"
+  ],
+  "eellis-red-wizard": [
+   68625,
+   "The red wizard, or, the cave captive"
+  ],
+  "eellis-colonel-crockett-the-texan-trailer": [
+   68931,
+   "Colonel Crockett, the Texan trailer"
+  ],
+  "eellis-phantom-hunter": [
+   69168,
+   "The phantom hunter; or, love after death"
+  ],
+  "eellis-star-of-india": [
+   69696,
+   "The Star of India"
+  ],
+  "eellis-alden-the-pony-express-rider": [
+   72501,
+   "Alden the Pony Express rider",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "eellis-index": "PG 59707 is David Widger's index, not a text",
+  "edward-ellis-repeat-11151": "PG 11151, The Lost Trail: a second transcription of a title already on this shelf"
+ },
+ "_checks": {
+  "eellis-thomas-jefferson-a-character-sketch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-in-the-pecos-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward sylvester ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-lost-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-daughter-of-the-chieftain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-huge-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-life-of-kit-carson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-cowmen-and-rustlers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-brave-tom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-cave-in-the-mountain-a-sequel-to-in-the-pecos-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward sylvester ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-through-forest-and-fire-wild-woods-series-no-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-jungle-fugitives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-land-of-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-oonomoo-the-huron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-dewey-and-other-naval-commanders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-two-boys-in-wyoming": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-boy-patriot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward sylvester ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-adrift-in-the-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-klondike-nuggets-and-how-two-boys-secured-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward sylvester ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-hunters-of-the-ozark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-phantom-of-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-story-of-red-feather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-deerfoot-in-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-launch-boys-adventures-in-northern-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-telegraph-messenger-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-camp-fire-and-wigwam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-footprints-in-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-riflemen-of-the-miami": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-young-ranchers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-ranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-adrift-on-the-pacific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-a-waif-of-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-up-the-forked-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward sylvester ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-great-cattle-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-wilderness-fugitives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-through-apache-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward sylvester ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-frontier-angel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-launch-boys-cruise-in-the-deerfoot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-blazing-arrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-wyoming": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-bill-biddon-trapper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-1000-mythological-characters-briefly-described-adapte": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-campers-out": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-boy-patrol-on-guard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-boy-patrol-around-the-council-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-ned-in-the-block-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-among-the-esquimaux": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-life-and-times-of-col-daniel-boone-hunter-soldier-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-across-texas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-boy-hunters-of-kentucky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-flying-boys-in-the-sky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-tales-traditions-and-romance-of-border-and-revolution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-elliss-primary-physiology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-deerfoot-on-the-prairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-young-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-seth-jones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-outdoor-life-and-indian-stories-making-open-air-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-forest-monster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward sylvester ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-a-young-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-wolf-ear-the-indian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-flying-boys-to-the-rescue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-boy-miners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-lightning-jo-the-terror-of-the-santa-fe-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-little-rifle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-old-ruff-the-trapper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-joe-napyank": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-three-trappers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-wetzel-the-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-mad-anthonys-scouts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-red-wizard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-colonel-crockett-the-texan-trailer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-phantom-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-star-of-india": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eellis-alden-the-pony-express-rider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward s. ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

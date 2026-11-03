@@ -1,0 +1,209 @@
+{
+ "_about": "Public-domain H. R. Mackintosh (Hugh Ross Mackintosh, 1870-1936, New College, Edinburgh) for the Word Hoard, held to printings dated before 1930: Life on God's Plan (1909), The Person of Jesus Christ (1912), The Doctrine of the Person of Jesus Christ (1912), Studies in Christian Truth (catalogued 1914), Immortality and the Future (1915), Who is Jesus Christ? (1917), The Originality of the Christian Message (1920), The Divine Initiative (1921), Some Aspects of Christian Belief (catalogued 1923), The Christian Experience of Forgiveness (1927) and The Christian Apprehension of God (1929), raw Internet Archive OCR. His translations and edited volumes are alternates. Not C. H. Mackintosh. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mackintosh"
+ ],
+ "_surname": [
+  "h. r. mackintosh",
+  "hugh ross mackintosh",
+  "mackintosh, h. r.",
+  "mackintosh, hugh ross",
+  "h. r. mackintosh, d.d.",
+  "rev. h. r. mackintosh"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hrm-life-on-gods-plan": [
+   "lifeongodsplan0000mack",
+   "Life on God's Plan, sermons (London: Hodder and Stoughton, MCMIX)"
+  ],
+  "hrm-person-of-jesus-christ": [
+   "MackintoshPersonofJesusChrist",
+   "The Person of Jesus Christ (London: Student Christian Movement, 1912)"
+  ],
+  "hrm-doctrine-of-person": [
+   "doctrineofperson00mack",
+   "The Doctrine of the Person of Jesus Christ, International Theological Library (New York: Charles Scribner's Sons, 1912)"
+  ],
+  "hrm-studies-christian-truth": [
+   "studiesinchristi0000mack",
+   "Studies in Christian Truth, second edition (London: Student Christian Movement; no year on title page, catalogued 1914)"
+  ],
+  "hrm-immortality": [
+   "immortalityfutur00mack",
+   "Immortality and the Future: The Christian Doctrine of Eternal Life (London: Hodder and Stoughton, printed in 1915)"
+  ],
+  "hrm-who-is-jesus": [
+   "HRMWhoIsJesus",
+   "Who is Jesus Christ? The Church and the War, Tracts for To-Day no. 15 (Edinburgh: United Free Church of Scotland, MCMXVII)",
+   "Mackintosh Who is JC 1916_djvu.txt"
+  ],
+  "hrm-originality": [
+   "originalityofchr00mack",
+   "The Originality of the Christian Message (New York: Scribner, first published 1920)"
+  ],
+  "hrm-divine-initiative": [
+   "divineinitiative00mack",
+   "The Divine Initiative (London: Student Christian Movement, first published October 1921)"
+  ],
+  "hrm-aspects-belief": [
+   "someaspectsofchr0000mack",
+   "Some Aspects of Christian Belief (New York: George H. Doran; no year on title page, catalogued 1923)"
+  ],
+  "hrm-forgiveness": [
+   "christianexperie0000mack",
+   "The Christian Experience of Forgiveness (New York and London: Harper & Brothers, copyright 1927, first edition)"
+  ],
+  "hrm-apprehension-of-god": [
+   "MN40272ucmf_8",
+   "The Christian Apprehension of God, the James Sprunt Lectures (London: Student Christian Movement, first published September 1929)"
+  ]
+ },
+ "_alternates": {
+  "hrm-translations": "Ritschl's Christian Doctrine of Justification and Reconciliation, translation edited with A. B. Macaulay (1900, 1902); Wendland's Miracles and Christianity, translated (c. 1911); Selections from the Literature of Theism, with Caldecott (1904)",
+  "hrm-copies": "Second copies of The Doctrine of the Person (1912-1920 impressions), Immortality (1917), Originality (1920), Divine Initiative (1921), Apprehension of God (Harper)"
+ },
+ "_excluded": {
+  "hrm-mcintosh": "Is Christ Infallible and the Bible True? (IA ischristinfallib00mcin, ischristinfallib00maci_0): by Hugh M'Intosh, a namesake, though IA files it under H. R. Mackintosh",
+  "hrm-late": "post-1930 impressions and books (Types of Modern Theology, The Great Prayer, Sermons 1938)",
+  "hrm-ch-mackintosh": "C. H. Mackintosh: a different man",
+  "hrm-articles": "single-article scans and retypes"
+ },
+ "_rights_checked": {
+  "hrm-life-on-gods-plan": "title page read: Hodder and Stoughton, MCMIX",
+  "hrm-studies-christian-truth": "title page read: SCM, 32 Russell Square, no year; catalogued 1914",
+  "hrm-aspects-belief": "title page read: Doran, no year; catalogued 1923",
+  "hrm-forgiveness": "verso read: copyright 1927, first edition",
+  "hrm-apprehension-of-god": "verso read: first published September 1929"
+ },
+ "_checks": {
+  "hrm-life-on-gods-plan": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Hodder and Stoughton, MCMIX"
+  },
+  "hrm-person-of-jesus-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrm-doctrine-of-person": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrm-studies-christian-truth": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: SCM, 32 Russell Square, no year; catalogued 1914"
+  },
+  "hrm-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrm-who-is-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrm-originality": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hrm-divine-initiative": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrm-aspects-belief": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Doran, no year; catalogued 1923"
+  },
+  "hrm-forgiveness": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso read: copyright 1927, first edition"
+  },
+  "hrm-apprehension-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. r. mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "[1929]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso read: first published September 1929"
+  }
+ }
+}

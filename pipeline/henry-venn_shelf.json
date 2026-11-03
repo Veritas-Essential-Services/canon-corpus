@@ -1,0 +1,38 @@
+{
+ "_about": "Public-domain Henry Venn (1725-1797, vicar of Huddersfield, an evangelical Anglican) for the Word Hoard: The Complete Duty of Man (New York, 1838 printing), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "v/venn",
+ "_name_words": [
+  "venn",
+  "henry"
+ ],
+ "_surname": [
+  "henry venn",
+  "venn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "venn-complete-duty-1838": [
+   "completedutyofma00venn_0",
+   "The Complete Duty of Man, or a System of Doctrinal and Practical Christianity (New York, 1838)"
+  ]
+ },
+ "_alternates": {
+  "venn-complete-duty": "Glasgow 1829 (completedutyofmasod00venn); Worcester, Mass., 1804 and New Brunswick 1811 printings (long s)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "venn-complete-duty-1838": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry venn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain Narsai (d. c.502), head of the School of Nisibis and poet of the Church of the East, for the Word Hoard: The Liturgical Homilies of Narsai, translated by R. H. Connolly with an appendix by Edmund Bishop (Texts and Studies, Cambridge, 1909), from an Internet Archive scan. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "narsai"
+ ],
+ "_surname": [
+  "narsai"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "narsai-liturgical-homilies-1909": [
+   "liturgicalhomili00narsuoft",
+   "The Liturgical Homilies of Narsai, tr. R. H. Connolly, with an appendix by Edmund Bishop, Texts and Studies VIII.1 (Cambridge: University Press, 1909)"
+  ]
+ },
+ "_alternates": {
+  "narsai-copies": "liturgicalhomili00narsuoft_202509 (another scan)"
+ },
+ "_excluded": {
+  "narsai-other": "Mingana's Syriac edition (1905) and later Syriac printings"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "narsai-liturgical-homilies-1909": "connolly"
+ },
+ "_checks": {
+  "narsai-liturgical-homilies-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "narsai",
+   "translator_claimed": "connolly",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

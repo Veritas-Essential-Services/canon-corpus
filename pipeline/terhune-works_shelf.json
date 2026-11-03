@@ -1,0 +1,189 @@
+{
+ "_about": "Albert Payson Terhune: Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Albert Payson Terhune",
+ "_name_words": [
+  "terhune"
+ ],
+ "_surname": [
+  "terhune"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "apterhune-bruce": [
+   2391,
+   "Bruce"
+  ],
+  "apterhune-further-adventures-of-lad": [
+   2392,
+   "Further Adventures of Lad"
+  ],
+  "apterhune-his-dog": [
+   2393,
+   "His Dog"
+  ],
+  "apterhune-black-caesars-clan": [
+   4789,
+   "Black Caesar's Clan : A Florida Mystery Story"
+  ],
+  "apterhune-superwomen": [
+   39339,
+   "Superwomen"
+  ],
+  "apterhune-buff": [
+   42804,
+   "Buff: A Collie, and Other Dog-Stories"
+  ],
+  "apterhune-heart-of-a-dog": [
+   61429,
+   "The Heart of a Dog"
+  ],
+  "apterhune-dad": [
+   65641,
+   "Dad"
+  ],
+  "apterhune-treve": [
+   65777,
+   "Treve"
+  ],
+  "apterhune-fighter": [
+   66697,
+   "The Fighter"
+  ],
+  "apterhune-caleb-conover-railroader": [
+   67374,
+   "Caleb Conover, Railroader"
+  ],
+  "apterhune-amateur-inn": [
+   67531,
+   "The Amateur Inn"
+  ],
+  "apterhune-girl-in-the-crowd": [
+   69030,
+   "The girl in the crowd"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 38777: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "apterhune-bruce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-further-adventures-of-lad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-his-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-black-caesars-clan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-superwomen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-buff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-heart-of-a-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-dad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-treve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-fighter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-caleb-conover-railroader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-amateur-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apterhune-girl-in-the-crowd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "terhune",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

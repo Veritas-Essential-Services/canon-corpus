@@ -1,0 +1,137 @@
+{
+ "_about": "Public-domain Henri Didon (1840-1900, Dominican preacher) in English for the Word Hoard: The Germans, tr. Raphael Ledos de Beaufort (1884), Science without God, tr. Rosa Corder, Jesus Christ: Our Saviour's Person, Mission, and Spirit, ed. Bernard O'Reilly (2 vols, New York: Appleton, 1891), Belief in the Divinity of Jesus Christ, and The Spiritual Letters of Père Didon, tr. Arthur G. Nash (1906), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "didon"
+ ],
+ "_surname": [
+  "didon",
+  "h. didon",
+  "father didon",
+  "père didon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "didon-the-germans": [
+   "germans00dido",
+   "The Germans, tr. Raphael Ledos de Beaufort (Edinburgh and London: William Blackwood, MDCCCLXXXIV)"
+  ],
+  "didon-science-without-god": [
+   "sciencewithoutgo00dido",
+   "Science without God, tr. Rosa Corder (New York: Thomas Whittaker; no year on the title page)"
+  ],
+  "didon-jesus-christ-1": [
+   "jesuschristoursa00dido",
+   "Jesus Christ: Our Saviour's Person, Mission, and Spirit, vol. I, ed. Bernard O'Reilly (New York: D. Appleton; copyright 1891)"
+  ],
+  "didon-jesus-christ-2": [
+   "savioursperson02didouoft",
+   "Jesus Christ: Our Saviour's Person, Mission, and Spirit, vol. II, ed. Bernard O'Reilly (New York: D. Appleton; copyright 1891)"
+  ],
+  "didon-belief-divinity": [
+   "beliefinthedivin00didouoft",
+   "Belief in the Divinity of Jesus Christ (London: Kegan Paul, Trench, Trübner; no year on the title page)"
+  ],
+  "didon-spiritual-letters": [
+   "spiritualletters00didouoft",
+   "The Spiritual Letters of Père Didon, tr. Arthur G. Nash (London: Kegan Paul, 1906)"
+  ]
+ },
+ "_alternates": {
+  "didon-kegan-paul": "Jesus Christ, London: Kegan Paul (vol. I 1893, vol. II undated)",
+  "didon-copies": "Other Appleton copies; the one-volume sixth edition (undated)"
+ },
+ "_excluded": {
+  "didon-french": "French editions, including PG 13284",
+  "didon-about": "French lives of him"
+ },
+ "_rights_checked": {
+  "didon-jesus-christ-1": "title page read: 'Edited by Right Reverend Bernard O'Reilly'; no translator named; copyright 1891",
+  "didon-belief-divinity": "title page read: no year and no translator; Kegan Paul's 1906 list says translated by C. Kegan Paul (died 1902), so printed before 1930",
+  "didon-science-without-god": "title page read: no year (IA: 1882); Thomas Whittaker, 2 & 3 Bible House"
+ },
+ "_pending": {},
+ "_translators": {
+  "didon-the-germans": "beaufort",
+  "didon-science-without-god": "corder",
+  "didon-spiritual-letters": "nash"
+ },
+ "_checks": {
+  "didon-the-germans": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "didon",
+   "translator_claimed": "beaufort",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "didon-science-without-god": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "didon",
+   "translator_claimed": "corder",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no year (IA: 1882); Thomas Whittaker, 2 & 3 Bible House"
+  },
+  "didon-jesus-christ-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "didon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Edited by Right Reverend Bernard O'Reilly'; no translator named; copyright 1891"
+  },
+  "didon-jesus-christ-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "didon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "didon-belief-divinity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "didon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no year and no translator; Kegan Paul's 1906 list says translated by C. Kegan Paul (died 1902), so printed before 1930"
+  },
+  "didon-spiritual-letters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "didon",
+   "translator_claimed": "nash",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

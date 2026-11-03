@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Cecil Fairfax: Bjørnson's The Heritage of the Kurts (Heinemann, 1892), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "cecil fairfax"
+ ],
+ "_surname": [
+  "cecil fairfax"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cfa-37801": [
+   37801,
+   "The Heritage of the Kurts, Volume 1 (of 2)"
+  ],
+  "cfa-37802": [
+   37802,
+   "The Heritage of the Kurts, Volume 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cecil-fairfax-bjornson-the-heritage-of-the-kurts-volume-1-of-2": {
+   "source": "cfa-37801",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "The Heritage of the Kurts, Volume 1 (of 2)",
+   "translated": "1892 (see the Gutenberg header)",
+   "translator": "Cecil Fairfax",
+   "scan_edition": "Project Gutenberg 37801 (clean text)"
+  },
+  "cecil-fairfax-bjornson-the-heritage-of-the-kurts-volume-2-of-2": {
+   "source": "cfa-37802",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "The Heritage of the Kurts, Volume 2 (of 2)",
+   "translated": "1892 (see the Gutenberg header)",
+   "translator": "Cecil Fairfax",
+   "scan_edition": "Project Gutenberg 37802 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cfa-37801": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cecil fairfax",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cecil Fairfax"
+  },
+  "cfa-37802": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cecil fairfax",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cecil Fairfax"
+  }
+ },
+ "_verified": {
+  "cfa-37801": {
+   "pg": 37801,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cecil Fairfax"
+  },
+  "cfa-37802": {
+   "pg": 37802,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cecil Fairfax"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

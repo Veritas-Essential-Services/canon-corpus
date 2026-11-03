@@ -1,0 +1,512 @@
+{
+ "_about": "The Biblical Illustrator, ed. Joseph S. Exell (1849-1909), the American Revell issue (catalogued 1905), the volumes University of Toronto holds on the Internet Archive: 32 of the set's roughly 57. Each row names the book read from the volume's running heads (the I Chronicles and New Testament index volumes also from their title pages); a volume can bind further books after the one named, and where a book runs to several volumes the row says only which book. Added 2026-11-03 by lane A from Adam's Libronix inventory; Internet Archive OCR, raw. No uids minted. Exell died 1909 and every contributor's text is pre-1910, so US public domain.",
+ "_name_words": [
+  "biblical illustrator",
+  "exell"
+ ],
+ "_surname": [
+  "exell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "exell-bi-exodus": [
+   "biblicalillustra02exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Exodus (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-leviticus": [
+   "biblicalillustra03exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Leviticus (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-deuteronomy": [
+   "biblicalillustra05exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Deuteronomy (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-joshua": [
+   "biblicalillustra06exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: Joshua, Judges, Ruth (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-1-chronicles": [
+   "biblicalillustra13exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on I Chronicles (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-psalms": [
+   "biblicalillustra191exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Psalms (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-proverbs": [
+   "biblicalillustra20exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Proverbs (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-ecclesiastes": [
+   "biblicalillustra21exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Ecclesiastes (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-isaiah-1": [
+   "biblicalillustra231exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Isaiah (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-isaiah-2": [
+   "biblicalillustra232exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Isaiah (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-isaiah-3": [
+   "biblicalillustra233exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Isaiah (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-hosea": [
+   "biblicalillustra281exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Hosea (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-habakkuk-zephaniah": [
+   "biblicalillustra282exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Habakkuk and Zephaniah (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-mark": [
+   "biblicalillustra41exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on St. Mark (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-luke-1": [
+   "biblicalillustra421exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on St. Luke (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-luke-3": [
+   "biblicalillustra423exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on St. Luke (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-john": [
+   "biblicalillustra432exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on St. John (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-acts-1": [
+   "biblicalillustra441exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on The Acts (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-acts-2": [
+   "biblicalillustra442exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on The Acts (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-romans-1": [
+   "biblicalillustra451exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Romans (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-romans-2": [
+   "biblicalillustra452exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Romans (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-1-corinthians-1": [
+   "biblicalillustra461exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on I Corinthians (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-1-corinthians-2": [
+   "biblicalillustra462exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on I Corinthians (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-2-corinthians": [
+   "biblicalillustra47exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on II Corinthians (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-galatians": [
+   "biblicalillustra48exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Galatians (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-philippians": [
+   "biblicalillustra50exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Philippians (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-2-timothy": [
+   "biblicalillustra55exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on II Timothy (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-hebrews": [
+   "biblicalillustra581exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Hebrews (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-1-peter": [
+   "biblicalillustra60exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on I Peter (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-1-john": [
+   "biblicalillustra62exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on I John (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-revelation": [
+   "biblicalillustra66exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: volume on Revelation (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ],
+  "exell-bi-nt-index": [
+   "biblicalillustra67exel",
+   "The Biblical Illustrator, ed. Joseph S. Exell: Index to the New Testament Volumes, comp. T. F. Peachey (New York: Fleming H. Revell, undated; catalogued 1905)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "biblicalillustra0000unse_p4j6": "A Romans volume already held here as exell-bi-romans-1/2; this one is a lending-library scan"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "exell-bi-joshua": {
+   "author": "OCR reads \"Rev. JOSEPH S. '^XELL, A. M.\" on the title page, which names the volume Joshua, Judges, Ruth"
+  }
+ },
+ "_pending": {
+  "exell-bi-unread-40": "biblicalillustra40exel: its text file returned HTTP 500 when its running heads were read (it sits between Joshua-to-Revelation numbering where St. Matthew belongs, but that was not confirmed); retry and read it before shelving",
+  "exell-bi-missing": "About 25 volumes of the set (Genesis, Judges-Kings, Job, Jeremiah-Daniel, the rest of the minor prophets, Matthew, Ephesians-Thessalonians, James, II Peter-Jude and others) have no open scan from this Toronto run; a later search could fill them"
+ },
+ "_translators": {},
+ "_checks": {
+  "exell-bi-exodus": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-leviticus": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-deuteronomy": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-joshua": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-1-chronicles": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-psalms": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-proverbs": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-ecclesiastes": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-isaiah-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-isaiah-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-isaiah-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-hosea": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-habakkuk-zephaniah": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-mark": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-luke-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-luke-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-john": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-acts-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-acts-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-romans-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-romans-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-1-corinthians-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-1-corinthians-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-2-corinthians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-galatians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-philippians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-2-timothy": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-hebrews": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-1-peter": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-1-john": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-revelation": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "exell-bi-nt-index": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "exell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

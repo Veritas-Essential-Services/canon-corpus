@@ -1,0 +1,252 @@
+{
+ "_about": "St. George Rathborne's adventure and outdoor stories for boys. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "St. George Rathborne",
+ "_name_words": [
+  "rathborne"
+ ],
+ "_surname": [
+  "rathborne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sgrathborne-house-boat-boys": [
+   4941,
+   "The House Boat Boys; Or, Drifting Down to the Sunny South"
+  ],
+  "sgrathborne-miss-caprice": [
+   15979,
+   "Miss Caprice"
+  ],
+  "sgrathborne-canoe-mates-in-canada": [
+   19489,
+   "Canoe Mates in Canada; Or, Three Boys Afloat on the Saskatchewan"
+  ],
+  "sgrathborne-chums-in-dixie": [
+   21507,
+   "Chums in Dixie; or, The Strange Cruise of a Motorboat"
+  ],
+  "sgrathborne-rocky-mountain-boys": [
+   37803,
+   "Rocky Mountain Boys; Or, Camping in the Big Game Country"
+  ],
+  "sgrathborne-pioneer-boys-of-the-ohio": [
+   46794,
+   "The Pioneer Boys of the Ohio; or, Clearing the Wilderness"
+  ],
+  "sgrathborne-pioneer-boys-on-the-great-lakes": [
+   46795,
+   "The Pioneer Boys on the Great Lakes; or, On the Trail of the Iroquois"
+  ],
+  "sgrathborne-pioneer-boys-of-the-mississippi": [
+   46796,
+   "The Pioneer Boys of the Mississippi; or, The Homestead in the Wilderness"
+  ],
+  "sgrathborne-pioneer-boys-of-the-missouri": [
+   46797,
+   "The Pioneer Boys of the Missouri; or, In the Country of the Sioux"
+  ],
+  "sgrathborne-pioneer-boys-of-the-yellowstone": [
+   46798,
+   "The Pioneer Boys of the Yellowstone; or, Lost in the Land of Wonders"
+  ],
+  "sgrathborne-pioneer-boys-of-the-columbia": [
+   46799,
+   "The Pioneer Boys of the Columbia; or, In the Wilderness of the Great Northwest"
+  ],
+  "sgrathborne-old-broadbrim-into-the-heart-of-australia-or-a-s": [
+   48034,
+   "Old Broadbrim Into the Heart of Australia or, A Strange Bargain and Its Consequences"
+  ],
+  "sgrathborne-camp-mates-in-michigan": [
+   50253,
+   "Camp Mates in Michigan; or, with Pack and Paddle in the Pine Woods"
+  ],
+  "sgrathborne-miss-fairfax-of-virginia": [
+   52599,
+   "Miss Fairfax of Virginia: A Romance of Love and Adventure Under the Palmettos"
+  ],
+  "sgrathborne-camp-fire-boys-at-log-cabin-bend": [
+   62683,
+   "The Camp Fire Boys at Log Cabin Bend; Or, Four Chums Afoot in the Tall Timber"
+  ],
+  "sgrathborne-hunter-hercules-or-the-champion-rider-of-the-pla": [
+   66249,
+   "The Hunter Hercules, or, The Champion Rider of the Plains: A Romance of the Prairies"
+  ],
+  "sgrathborne-spiders-web": [
+   72718,
+   "The spider's web"
+  ],
+  "sgrathborne-my-hildegarde": [
+   74522,
+   "My Hildegarde"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "sgrathborne-house-boat-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-miss-caprice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-canoe-mates-in-canada": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-chums-in-dixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-rocky-mountain-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-pioneer-boys-of-the-ohio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-pioneer-boys-on-the-great-lakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-pioneer-boys-of-the-mississippi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-pioneer-boys-of-the-missouri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-pioneer-boys-of-the-yellowstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-pioneer-boys-of-the-columbia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-old-broadbrim-into-the-heart-of-australia-or-a-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-camp-mates-in-michigan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-miss-fairfax-of-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-camp-fire-boys-at-log-cabin-bend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-hunter-hercules-or-the-champion-rider-of-the-pla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-spiders-web": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrathborne-my-hildegarde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rathborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

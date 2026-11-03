@@ -1,0 +1,237 @@
+{
+ "_about": "TRANSLATOR SHELF: John Florio (1553?-1625). Montaigne's Essayes (1603) in the Gibbings 1906 reprint (6 vols, Toronto copies, raw OCR) and the 1620 English Decameron as attributed to him (PG). PD. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "florio"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "florio-decameron-1": [
+   52617,
+   "Boccaccio, The Decameron, Days 1-5 (1620 tr., attributed to Florio)"
+  ],
+  "florio-decameron-2": [
+   52618,
+   "Boccaccio, The Decameron, Days 6-10"
+  ]
+ },
+ "internet_archive": {
+  "florio-montaigne-1": [
+   "essayestranslate01montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 1"
+  ],
+  "florio-montaigne-2": [
+   "essayestranslate02montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 2"
+  ],
+  "florio-montaigne-3": [
+   "essayestranslate03montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 3"
+  ],
+  "florio-montaigne-4": [
+   "essayestranslate04montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 4"
+  ],
+  "florio-montaigne-5": [
+   "essayestranslate05montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 5"
+  ],
+  "florio-montaigne-6": [
+   "essayestranslate06montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 6"
+  ]
+ },
+ "titles": {
+  "florio-montaigne-essays": {
+   "source": [
+    "florio-montaigne-1",
+    "florio-montaigne-2",
+    "florio-montaigne-3",
+    "florio-montaigne-4",
+    "florio-montaigne-5",
+    "florio-montaigne-6"
+   ],
+   "of": "Montaigne",
+   "work": "Essayes (3 books), 6 vols",
+   "translated": 1603,
+   "scan_edition": "Gibbings, London 1906 (reprint of 1603), raw OCR",
+   "translator": "John Florio"
+  },
+  "florio-decameron": {
+   "source": [
+    "florio-decameron-1",
+    "florio-decameron-2"
+   ],
+   "of": "Boccaccio",
+   "work": "The Decameron (first complete English, 1620)",
+   "translated": 1620,
+   "note": "Published anonymously in 1620; the attribution to Florio is scholarly (PG credits him). Dryden's three Boccaccio tales are a different translation (dryden-fables-boccaccio).",
+   "translator": "attributed to John Florio (published anonymously, 1620)"
+  }
+ },
+ "_pending": {
+  "florio-montaigne-1603-folio": "The 1603 first edition (IA MontaigneImages / McGill 1632 folio): only images or long-s OCR; the 1906 reprint is used.",
+  "florio-montaigne-everyman": "Everyman (1910) or Temple Classics (1897) Florio sets: alternate witnesses if the Gibbings OCR proves weak."
+ },
+ "_excluded": {
+  "pg-56200": "Queen Anna's New World of Words: Florio's dictionary, not a translation (could join a lexicon shelf, Adam's call).",
+  "pg-3600-cotton": "PG's Montaigne Essays is Charles Cotton's translation, not Florio."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "florio-montaigne-2": "Vol. 2 of the same Toronto set (essayestranslate02montuoft); its vol. 1 title page reads 'translated by John Florio 1603, London: Gibbings & Company'. Vol. 2's own title page carries no name. Checked 2026-10-02."
+ },
+ "_verified": {
+  "florio-decameron-1": {
+   "pg": 52617,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Florio"
+  },
+  "florio-decameron-2": {
+   "pg": 52618,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Florio"
+  },
+  "florio-montaigne-1": {
+   "ia": "essayestranslate01montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1581,
+    1585,
+    1592,
+    1603,
+    1613,
+    1830
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-2": {
+   "ia": "essayestranslate02montuoft",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-3": {
+   "ia": "essayestranslate03montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-4": {
+   "ia": "essayestranslate04montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-5": {
+   "ia": "essayestranslate05montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-6": {
+   "ia": "essayestranslate06montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname": [
+  "florio"
+ ],
+ "_checks": {
+  "florio-decameron-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florio",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Florio"
+  },
+  "florio-decameron-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florio",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Florio"
+  },
+  "florio-montaigne-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florio",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "florio-montaigne-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "florio-montaigne-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florio",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "florio-montaigne-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florio",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "florio-montaigne-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florio",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "florio-montaigne-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florio",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

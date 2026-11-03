@@ -1,0 +1,98 @@
+{
+ "_about": "William Magnay: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Magnay",
+ "_name_words": [
+  "magnay",
+  "william"
+ ],
+ "_surname": [
+  "william magnay",
+  "magnay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wmagnay-hunt-ball-mystery": [
+   10029,
+   "The Hunt Ball Mystery"
+  ],
+  "wmagnay-poached-peerage": [
+   34088,
+   "A Poached Peerage"
+  ],
+  "wmagnay-red-chancellor": [
+   58952,
+   "The Red Chancellor"
+  ],
+  "wmagnay-master-spirit": [
+   67703,
+   "The Master Spirit"
+  ],
+  "wmagnay-count-zarka": [
+   67905,
+   "Count Zarka: A Romance"
+  ],
+  "wmagnay-prince-of-lovers": [
+   73269,
+   "A prince of lovers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wmagnay-hunt-ball-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william magnay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmagnay-poached-peerage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william magnay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmagnay-red-chancellor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william magnay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmagnay-master-spirit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william magnay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmagnay-count-zarka": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william magnay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmagnay-prince-of-lovers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william magnay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

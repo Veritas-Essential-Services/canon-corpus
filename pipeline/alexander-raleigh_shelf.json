@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Alexander Raleigh (1817-1880), Scottish Congregational minister in London (Hare Court, Canonbury), for the Word Hoard: The Story of Jonah the Prophet (1867), Quiet Resting Places (1873 printing), The Little Sanctuary (1873), The Book of Esther (1880), Thoughts for the Weary and the Sorrowful (1882) and From Dawn to the Perfect Day (1883), from Internet Archive scans. Sir Walter Raleigh (1861-1922), the critic, is another man. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "raleigh"
+ ],
+ "_surname": [
+  "alexander raleigh",
+  "a. raleigh"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "araleigh-jonah": [
+   "storyofjonahprop00ralerich",
+   "The story of Jonah the prophet (Edinburgh : Adam and Charles Black, 1867)"
+  ],
+  "araleigh-quiet-resting": [
+   "quietrestingpla00ralegoog",
+   "Quiet Resting Places and Other Sermons (Adam and Charles Black, 1873)"
+  ],
+  "araleigh-little-sanctuary": [
+   "littlesanctuaryo0000alex",
+   "The Little Sanctuary and other Meditation (catalogued 1873)"
+  ],
+  "araleigh-esther": [
+   "bookofestheritsp00rale",
+   "The Book of Esther : its practical lessons and dramatic scenes (Edinburgh : A. and C. Black, 1880)"
+  ],
+  "araleigh-weary": [
+   "ThoughtsForTheWeary",
+   "Thoughts for the weary and the sorrowful (Edinburgh, 1882)"
+  ],
+  "araleigh-dawn": [
+   "fromdawntoperfec0000alex",
+   "From Dawn to The Perfect Day (catalogued 1883)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "araleigh-other": "Sir Walter Raleigh (1861-1922), the literary critic, and Sir Walter Raleigh (d. 1618)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "araleigh-quiet-resting": "Title page (after the Google notice) reads 'Quiet Resting Places AND OTHER SERMONS BY ALEXANDER RALEIGH, D.D. CANONBURY. EIGHTH EDITION. EDINBURGH: ADAM AND CHARLES BLACK, MDCCCLXXIII' (OCR 'ALKXANDER')."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "araleigh-jonah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander raleigh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "araleigh-quiet-resting": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "araleigh-little-sanctuary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander raleigh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "araleigh-esther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander raleigh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "araleigh-weary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander raleigh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "araleigh-dawn": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander raleigh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

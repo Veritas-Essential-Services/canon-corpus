@@ -1,0 +1,39 @@
+{
+ "_about": "Public-domain John Leland (1754-1841), Baptist preacher of Virginia and Massachusetts and champion of religious liberty, for the Word Hoard: The Writings of the late Elder John Leland, including some events in his life (1845), from an Internet Archive scan. Charles Godfrey Leland's tales are the separate leland shelf. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "leland"
+ ],
+ "_surname": [
+  "john leland",
+  "elder leland",
+  "j. leland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jleland-writings": [
+   "writingsoflateel00lela",
+   "The writings of the late Elder John Leland : including some events in his life (New York : Printed by G.W. Wood, 1845)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jleland-writings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

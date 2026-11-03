@@ -1,0 +1,42 @@
+{
+ "_about": "Public-domain John Cotton (1585-1652, vicar of St Botolph's, Boston, Lincolnshire, then teacher of the First Church, Boston, Massachusetts) for the Word Hoard: The Keyes of the Kingdom of Heaven (1644), in the 1843 Boston reprint, raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "cotton",
+  "john"
+ ],
+ "_surname": [
+  "john cotton",
+  "j. cotton",
+  "cotton, john",
+  "mr. cotton",
+  "master cotton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jcotton-keyes-1843": [
+   "keyesofkingdomof00cott",
+   "The Keyes of the Kingdom of Heaven, and Power thereof (Boston: Tappan and Dennet, 1843 reprint of the 1644 text)"
+  ]
+ },
+ "_alternates": {
+  "jcotton-keyes-1843": "IA cu31924029457243 (Cornell copy of the same 1843 reprint)"
+ },
+ "_excluded": {
+  "jcotton-new-england-primer": "The New-England Primer (IA catalogues several printings under Cotton, for the catechism Milk for Babes it carries): an anonymous school book, not his"
+ },
+ "_checks": {
+  "jcotton-keyes-1843": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john cotton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

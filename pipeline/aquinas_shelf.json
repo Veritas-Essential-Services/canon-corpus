@@ -1,0 +1,335 @@
+{
+ "_about": "Thomas Aquinas in public-domain English beyond the Summa (the Summa itself is on the Adler shelf and keyed Latin-to-English by pipeline/build_aquinas_st.py; see docs/AQUINAS.md). Clean from CCEL: Rickaby's annotated, abridged Contra Gentiles (Of God and His Creatures, 1905) and the Oxford Catena Aurea on Matthew and Mark (Newman ed., 1841-42). From Gutenberg: Hugh Pope's On Prayer and the Contemplative Life (1914). Raw Internet Archive OCR: the English Dominican Contra Gentiles (Burns Oates, 1923-28; Books I, II, III part I and III part II; Book IV, 1929, was not found on the Archive), the Catena Aurea on Luke and John (Oxford, 1843-45, two parts each), Rickaby's Aquinas Ethicus (1892, 2 vols.), Procter's The Religious State (1902) and An Apology for the Religious Orders (1902), and H. C. O'Neill's New Things and Old in Saint Thomas Aquinas (1909). Rights: every item printed 1928 or earlier, US public domain. Added 2026-10-17 by the Aquinas thread; Lane A confirmed it holds no Aquinas. No uids minted.",
+ "_ccel_author": "a/aquinas",
+ "_name_words": [
+  "aquinas",
+  "thomas",
+  "thomae",
+  "aquinatis"
+ ],
+ "_surname": [
+  "aquinas",
+  "aquinatis",
+  "aquino",
+  "s. thomas",
+  "st. thomas",
+  "saint thomas"
+ ],
+ "_held": {
+  "summa theologiae (english)": "adler_shelf.json: aquinas-summa, aquinas-summa-1-2, aquinas-summa-2-2, aquinas-summa-3; supplement via pipeline/ingest_summa_supplement.py",
+  "summa theologiae (latin)": "pipeline/build_aquinas_st.py: aquinas-st-la (Leonine, local) and aquinas-st-la1894 (PD OCR)"
+ },
+ "ccel": {
+  "aquinas-gentiles-rickaby": [
+   "gentiles",
+   "Of God and His Creatures: an annotated translation (with some abridgement) of the Summa contra Gentiles (London: Burns & Oates, 1905)",
+   "tr. Joseph Rickaby"
+  ],
+  "aquinas-catena-matthew": [
+   "catena1",
+   "Catena Aurea: Commentary on the Four Gospels, vol. I, St. Matthew (Oxford: Parker, 1841-42)",
+   "ed. John Henry Newman"
+  ],
+  "aquinas-catena-mark": [
+   "catena2",
+   "Catena Aurea: Commentary on the Four Gospels, vol. II, St. Mark (London: Rivington, 1842)",
+   "ed. John Henry Newman"
+  ]
+ },
+ "gutenberg": {
+  "aquinas-on-prayer-pope-pg": [
+   22295,
+   "On Prayer and the Contemplative Life (1914)",
+   "tr. Hugh Pope"
+  ]
+ },
+ "internet_archive": {
+  "aquinas-scg-dominican-b1": [
+   "summacontragenti01thomuoft",
+   "The Summa contra Gentiles, literally translated by the English Dominican Fathers from the latest Leonine edition: The First Book (London: Burns Oates & Washbourne, 1924)"
+  ],
+  "aquinas-scg-dominican-b2": [
+   "summacontragenti02thomuoft",
+   "The Summa contra Gentiles: The Second Book (London: Burns Oates & Washbourne, 1923)"
+  ],
+  "aquinas-scg-dominican-b3p1": [
+   "summacontragenti0000lond",
+   "The Summa contra Gentiles: The Third Book, Part I, chapters I-LXXXIII (London: Burns Oates & Washbourne, 1928)"
+  ],
+  "aquinas-scg-dominican-b3p2": [
+   "summacontragenti0000unse_l9e4",
+   "The Summa contra Gentiles: The Third Book, Part II, chapters LXXXIV-CLXIII (London: Burns Oates & Washbourne, 1928)"
+  ],
+  "aquinas-catena-luke-p1": [
+   "catenaaureacomme03thomuoft",
+   "Catena Aurea: Commentary on the Four Gospels, vol. III part I, St. Luke (Oxford: Parker, 1843)"
+  ],
+  "aquinas-catena-luke-p2": [
+   "catenaaurept203thomuoft",
+   "Catena Aurea: Commentary on the Four Gospels, vol. III part II, St. Luke (Oxford: Parker, 1843)"
+  ],
+  "aquinas-catena-john-p1": [
+   "catenaaureacomme04thomuoft",
+   "Catena Aurea: Commentary on the Four Gospels, vol. IV part I, St. John (Oxford: Parker, 1845)"
+  ],
+  "aquinas-catena-john-p2": [
+   "p2catenaaureacom04thomuoft",
+   "Catena Aurea: Commentary on the Four Gospels, vol. IV part II, St. John (Oxford: Parker, 1845)"
+  ],
+  "aquinas-ethicus-rickaby-v1": [
+   "aquinasethicusor01thomuoft",
+   "Aquinas Ethicus: or, the Moral Teaching of St. Thomas, vol. I (London: Burns & Oates, 1892)"
+  ],
+  "aquinas-ethicus-rickaby-v2": [
+   "aquinasethicusor02jose",
+   "Aquinas Ethicus: or, the Moral Teaching of St. Thomas, vol. II (London: Burns & Oates, 1892)"
+  ],
+  "aquinas-religious-state-procter": [
+   "religiousstateep00thom",
+   "The Religious State, the Episcopate and the Priestly Office (London: Sands, 1902)"
+  ],
+  "aquinas-apology-religious-orders-procter": [
+   "apologyforreligi0000sain",
+   "An Apology for the Religious Orders (London: Sands, 1902)"
+  ],
+  "aquinas-new-things-old-oneill": [
+   "newthingsandoldi00oneiuoft",
+   "New Things and Old in Saint Thomas Aquinas: a translation of various writings and treatises (London: Dent, 1909)"
+  ]
+ },
+ "_translators": {
+  "aquinas-gentiles-rickaby": "Rickaby",
+  "aquinas-on-prayer-pope-pg": "Pope",
+  "aquinas-ethicus-rickaby-v1": "Rickaby",
+  "aquinas-ethicus-rickaby-v2": "Rickaby",
+  "aquinas-religious-state-procter": "Procter",
+  "aquinas-apology-religious-orders-procter": "Procter",
+  "aquinas-new-things-old-oneill": "O'Neill"
+ },
+ "_alternates": {
+  "aquinas-scg-dominican-b1": "summacontragenti0000na and summacontragenti0000vari_f6x8 are other copies of the First Book",
+  "aquinas-scg-dominican-b2": "summacontragenti0002unse is another copy",
+  "aquinas-scg-dominican-b3p1": "summacontragenti0000unse and bwb_P9-EFD-520_3 are other copies",
+  "aquinas-catena-luke-p2": "p2catenaaureacom03thomuoft is another copy"
+ },
+ "_excluded": {
+  "meditations-for-lent-hughes": "meditationsforle00aquiuoft: the Archive dates it 1917, but it is Philip Hughes's translation for Sheed and Ward (founded 1926), published 1937; not US public domain",
+  "nature-and-grace-fairweather": "CCEL aquinas/nature_grace: Fairweather's selections from the Summa, Westminster Press 1954; CCEL says public domain (a non-renewal claim) but no renewal search has been made, and the Summa is held whole anyway",
+  "scg-dominican-book-iv": "The Fourth Book (Burns Oates, 1929) is US public domain but no scan was found on the Archive on 2026-10-17"
+ },
+ "_rights_checked": {
+  "aquinas-scg-dominican-b3p1": "Title page read 2026-10-17: The Summa Contra Gentiles, The Third Book, Part I, London: Burns Oates & Washbourne, 1928; Imprimatur 1928. A period printing.",
+  "aquinas-scg-dominican-b3p2": "Title page read 2026-10-17: The Third Book (Part II, chapters LXXXIV-CLXIII), London: Burns Oates & Washbourne, 1928. A period printing.",
+  "aquinas-apology-religious-orders-procter": "Title page read 2026-10-17: translated by the Very Rev. Father John Procter, S.T.M., 1902 (Sands). A period printing.",
+  "aquinas-religious-state-procter": "Title page read 2026-10-17: Father Procter, 1902."
+ },
+ "_checks": {
+  "aquinas-gentiles-rickaby": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "translator_claimed": "Rickaby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "aquinas-catena-matthew": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: J.G.F. and J. Rivington, 1842",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "aquinas-catena-mark": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: J.G.F. and J. Rivington, 1842",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "aquinas-on-prayer-pope-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "translator_claimed": "Pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hugh Pope",
+   "translator_match": true
+  },
+  "aquinas-scg-dominican-b1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1923-1929",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aquinas-scg-dominican-b2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1923-1929",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aquinas-scg-dominican-b3p1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-17: The Summa Contra Gentiles, The Third Book, Part I, London: Burns Oates & Washbourne, 1928; Imprimatur 1928. A period printing."
+  },
+  "aquinas-scg-dominican-b3p2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-17: The Third Book (Part II, chapters LXXXIV-CLXIII), London: Burns Oates & Washbourne, 1928. A period printing."
+  },
+  "aquinas-catena-luke-p1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1841-1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aquinas-catena-luke-p2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1841-1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aquinas-catena-john-p1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1841-1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aquinas-catena-john-p2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1841-1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aquinas-ethicus-rickaby-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "translator_claimed": "Rickaby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1892-1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aquinas-ethicus-rickaby-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "translator_claimed": "Rickaby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aquinas-religious-state-procter": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "translator_claimed": "Procter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-17: Father Procter, 1902."
+  },
+  "aquinas-apology-religious-orders-procter": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "translator_claimed": "Procter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-17: translated by the Very Rev. Father John Procter, S.T.M., 1902 (Sands). A period printing."
+  },
+  "aquinas-new-things-old-oneill": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aquinas",
+   "translator_claimed": "O'Neill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "_about": "Oliver Wendell Holmes's (1809-1894) Breakfast-Table books, novels, essays and poems: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Oliver Wendell Holmes",
+ "_name_words": [
+  "holmes"
+ ],
+ "_surname": [
+  "oliver wendell holmes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "owholmes-autocrat-of-the-breakfast-table": [
+   751,
+   "The Autocrat of the Breakfast-Table"
+  ],
+  "owholmes-professor-at-the-breakfast-table": [
+   2665,
+   "The Professor at the Breakfast-Table"
+  ],
+  "owholmes-poet-at-the-breakfast-table": [
+   2666,
+   "The Poet at the Breakfast-Table"
+  ],
+  "owholmes-over-the-teacups": [
+   2689,
+   "Over the Teacups"
+  ],
+  "owholmes-elsie-venner": [
+   2696,
+   "Elsie Venner"
+  ],
+  "owholmes-guardian-angel": [
+   2697,
+   "The Guardian Angel"
+  ],
+  "owholmes-a-mortal-antipathy": [
+   2698,
+   "A Mortal Antipathy"
+  ],
+  "owholmes-pages-from-an-old-volume-of-life": [
+   2699,
+   "Pages from an Old Volume of Life; A Collection of Essays, 1857-1881"
+  ],
+  "owholmes-medical-essays-1842-1882": [
+   2700,
+   "Medical Essays, 1842-1882"
+  ],
+  "owholmes-complete-project-gutenberg-oliver-wendell-holmes-sr": [
+   3252,
+   "Complete Project Gutenberg Oliver Wendell Holmes, Sr. Works"
+  ],
+  "owholmes-john-lothrop-motley-a-memoir-complete": [
+   4728,
+   "John Lothrop Motley, A Memoir — Complete"
+  ],
+  "owholmes-our-hundred-days-in-europe": [
+   7322,
+   "Our Hundred Days in Europe"
+  ],
+  "owholmes-poetical-works-of-oliver-wendell-holmes-complete": [
+   7400,
+   "The Poetical Works of Oliver Wendell Holmes — Complete"
+  ],
+  "owholmes-ralph-waldo-emerson": [
+   12700,
+   "Ralph Waldo Emerson"
+  ],
+  "owholmes-grandmothers-story-of-bunker-hill-battle-as-she-saw": [
+   21941,
+   "Grandmother's Story of Bunker Hill Battle, as She Saw it from the Belfry"
+  ],
+  "owholmes-one-hoss-shay-with-its-companion-poems-how-the-old": [
+   30279,
+   "The One Hoss Shay With its Companion Poems How the Old Horse Won the Bet & The Broomstick Train"
+  ],
+  "owholmes-wonderful-one-hoss-shay-and-other-poems": [
+   45280,
+   "The Wonderful \"One-Hoss-Shay\", and Other Poems"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-28747": "PG 28747: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 4725, 4726, 4727, 7388, 7389, 7390, 7391, 7392, 7393, 7394, 7395, 7396, 7397, 7398, 7399: the complete edition of each is on the shelf instead.",
+  "pg-3493": "PG 3493, 7545: David Widger's quotation and image selections."
+ },
+ "_checks": {
+  "owholmes-autocrat-of-the-breakfast-table": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-professor-at-the-breakfast-table": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-poet-at-the-breakfast-table": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-over-the-teacups": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-elsie-venner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-guardian-angel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-a-mortal-antipathy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-pages-from-an-old-volume-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-medical-essays-1842-1882": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-complete-project-gutenberg-oliver-wendell-holmes-sr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-john-lothrop-motley-a-memoir-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-our-hundred-days-in-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-poetical-works-of-oliver-wendell-holmes-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-ralph-waldo-emerson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-grandmothers-story-of-bunker-hill-battle-as-she-saw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-one-hoss-shay-with-its-companion-poems-how-the-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owholmes-wonderful-one-hoss-shay-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver wendell holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

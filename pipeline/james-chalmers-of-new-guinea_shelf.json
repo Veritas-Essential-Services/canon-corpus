@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain James Chalmers (1841-1901, London Missionary Society, Rarotonga and New Guinea, killed on Goaribari) for the Word Hoard: Work and Adventure in New Guinea, with W. Wyatt Gill (1885), Adventures in New Guinea (1886), Pioneering in New Guinea (1887) and Pioneering in New Guinea 1877-1894 (Revell), from Internet Archive scans and Project Gutenberg. Not Thomas Chalmers, who has his own shelf. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chalmers"
+ ],
+ "_surname": [
+  "chalmers",
+  "james chalmers"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "jchalmers-adventures": [
+   17694,
+   "Adventures in New Guinea (London: Religious Tract Society, 1886)"
+  ]
+ },
+ "internet_archive": {
+  "jchalmers-work-adventure": [
+   "workadventureinn00chal",
+   "Work and Adventure in New Guinea 1877 to 1885, by James Chalmers and W. Wyatt Gill (London: The Religious Tract Society, 1885)"
+  ],
+  "jchalmers-pioneering-1887": [
+   "pioneeringinnew01chalgoog",
+   "Pioneering in New Guinea (London: The Religious Tract Society, 1887)"
+  ],
+  "jchalmers-pioneering-1877-1894": [
+   "pioneeringinnewg00chal",
+   "Pioneering in New Guinea 1877-1894 (New York: Fleming H. Revell; title page undated, catalogued 1895)"
+  ]
+ },
+ "_alternates": {
+  "jchalmers-copies": "Other 1885 and 1887 copies"
+ },
+ "_excluded": {
+  "jchalmers-later": "Undated reissues with a posthumous editor's preface; lives by Robson, Lennox, Lovett and others"
+ },
+ "_rights_checked": {
+  "jchalmers-adventures": "PG header has no copyright marker; source stated as the 1886 RTS edition; an unsigned RTS introduction opens it"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jchalmers-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchalmers-work-adventure": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jchalmers-pioneering-1887": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jchalmers-pioneering-1877-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

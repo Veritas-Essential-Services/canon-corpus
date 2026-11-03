@@ -1,0 +1,41 @@
+{
+ "_about": "Public-domain Robert Moffat (1795-1883, London Missionary Society, Kuruman) for the Word Hoard: Missionary Labours and Scenes in Southern Africa (London: John Snow, 1842), from an Internet Archive scan. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "moffat"
+ ],
+ "_surname": [
+  "moffat",
+  "robert moffat"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moffat-missionary-labours": [
+   "b29294009",
+   "Missionary Labours and Scenes in Southern Africa, seventh thousand (London: John Snow, 1842)"
+  ]
+ },
+ "_alternates": {
+  "moffat-copies": "The 1843-1844 Carter New York editions and later Snow thousands"
+ },
+ "_excluded": {
+  "moffat-others": "Juvenile adaptations; lives of him; his Sechuana works, which are not in English"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "moffat-missionary-labours": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "moffat",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

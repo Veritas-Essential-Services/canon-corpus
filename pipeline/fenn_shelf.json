@@ -1,0 +1,1685 @@
+{
+ "_about": "George Manville Fenn's adventure stories for boys: every English text under his name at Gutenberg (catalogue: Fenn 1831-1909). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "George Manville Fenn",
+ "_name_words": [
+  "fenn"
+ ],
+ "_surname": [
+  "george manville fenn",
+  "g. manville fenn",
+  "george m. fenn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fenn-young-robin-hood": [
+   11097,
+   "Young Robin Hood"
+  ],
+  "fenn-little-skipper": [
+   20544,
+   "The Little Skipper: A Son of a Sailor"
+  ],
+  "fenn-brave-and-true-short-stories-for-children-by-g-m-fenn-a": [
+   21292,
+   "Brave and True Short stories for children by G. M. Fenn and Others"
+  ],
+  "fenn-brownsmiths-boy": [
+   21293,
+   "Brownsmith's Boy: A Romance in a Garden"
+  ],
+  "fenn-burr-junior": [
+   21294,
+   "Burr Junior"
+  ],
+  "fenn-cormorant-crag": [
+   21295,
+   "Cormorant Crag: A Tale of the Smuggling Days"
+  ],
+  "fenn-mother-careys-chicken": [
+   21296,
+   "Mother Carey's Chicken: Her Voyage to the Unknown Isle"
+  ],
+  "fenn-cutlass-and-cudgel": [
+   21297,
+   "Cutlass and Cudgel"
+  ],
+  "fenn-black-tor": [
+   21298,
+   "The Black Tor: A Tale of the Reign of James the First"
+  ],
+  "fenn-blue-jackets": [
+   21299,
+   "Blue Jackets: The Log of the Teaser"
+  ],
+  "fenn-bunyip-land": [
+   21301,
+   "Bunyip Land: A Story of Adventure in New Guinea"
+  ],
+  "fenn-charge-a-story-of-briton-and-boer": [
+   21302,
+   "Charge! A Story of Briton and Boer"
+  ],
+  "fenn-devon-boys": [
+   21303,
+   "Devon Boys: A Tale of the North Shore"
+  ],
+  "fenn-begumbagh": [
+   21304,
+   "Begumbagh: A Tale of the Indian Mutiny"
+  ],
+  "fenn-a-dash-from-diamond-city": [
+   21305,
+   "A Dash from Diamond City"
+  ],
+  "fenn-dick-o-the-fens": [
+   21306,
+   "Dick o' the Fens: A Tale of the Great East Swamp"
+  ],
+  "fenn-fire-island-being-the-adventures-of-uncertain-naturalis": [
+   21307,
+   "Fire Island Being the Adventures of Uncertain Naturalists in an Unknown Track"
+  ],
+  "fenn-first-in-the-field": [
+   21308,
+   "First in the Field: A Story of New South Wales"
+  ],
+  "fenn-fitz-the-filibuster": [
+   21309,
+   "Fitz the Filibuster"
+  ],
+  "fenn-featherland": [
+   21310,
+   "Featherland: How the Birds lived at Greenlawn"
+  ],
+  "fenn-gil-the-gunner": [
+   21311,
+   "Gil the Gunner: The Youngest Officer in the East"
+  ],
+  "fenn-glyn-severns-schooldays": [
+   21312,
+   "Glyn Severn's Schooldays"
+  ],
+  "fenn-in-honours-cause": [
+   21313,
+   "In Honour's Cause: A Tale of the Days of George the First"
+  ],
+  "fenn-king-o-the-beach": [
+   21314,
+   "King o' the Beach: A Tropic Tale"
+  ],
+  "fenn-kings-sons": [
+   21315,
+   "The King's Sons"
+  ],
+  "fenn-adventures-of-don-lavington": [
+   21316,
+   "The Adventures of Don Lavington: Nolens Volens"
+  ],
+  "fenn-a-lifes-eclipse": [
+   21317,
+   "A Life's Eclipse"
+  ],
+  "fenn-lost-middy": [
+   21318,
+   "The Lost Middy: Being the Secret of the Smugglers' Gap"
+  ],
+  "fenn-three-boys": [
+   21319,
+   "Three Boys; Or, The Chiefs of the Clan Mackhai"
+  ],
+  "fenn-mass-george": [
+   21320,
+   "Mass' George: A Boy's Adventures in the Old Savannah"
+  ],
+  "fenn-black-bar": [
+   21326,
+   "The Black Bar"
+  ],
+  "fenn-menhardoc": [
+   21354,
+   "Menhardoc"
+  ],
+  "fenn-middy-and-ensign": [
+   21355,
+   "Middy and Ensign"
+  ],
+  "fenn-nat-the-naturalist": [
+   21356,
+   "Nat the Naturalist: A Boy's Adventures in the Eastern Seas"
+  ],
+  "fenn-nic-revel": [
+   21357,
+   "Nic Revel: A White Slave's Adventures in Alligator Land"
+  ],
+  "fenn-ocean-cats-paw": [
+   21358,
+   "The Ocean Cat's Paw: The Story of a Strange Cruise"
+  ],
+  "fenn-off-to-the-wilds": [
+   21359,
+   "Off to the Wilds: Being the Adventures of Two Brothers"
+  ],
+  "fenn-old-gold": [
+   21360,
+   "Old Gold: The Cruise of the \"Jason\" Brig"
+  ],
+  "fenn-patience-wins": [
+   21361,
+   "Patience Wins: War in the Works"
+  ],
+  "fenn-powder-monkey": [
+   21362,
+   "The Powder Monkey"
+  ],
+  "fenn-quicksilver": [
+   21363,
+   "Quicksilver: The Boy With No Skid to His Wheel"
+  ],
+  "fenn-rajah-of-dah": [
+   21364,
+   "The Rajah of Dah"
+  ],
+  "fenn-rob-harlows-adventures": [
+   21365,
+   "Rob Harlow's Adventures: A Story of the Grand Chaco"
+  ],
+  "fenn-sail-ho-a-boy-at-sea": [
+   21366,
+   "Sail Ho! A Boy at Sea"
+  ],
+  "fenn-sappers-and-miners": [
+   21367,
+   "Sappers and Miners: The Flood beneath the Sea"
+  ],
+  "fenn-silver-canyon": [
+   21368,
+   "The Silver Canyon: A Tale of the Western Plains"
+  ],
+  "fenn-our-soldier-boy": [
+   21371,
+   "Our Soldier Boy"
+  ],
+  "fenn-steve-young": [
+   21372,
+   "Steve Young"
+  ],
+  "fenn-syd-belton": [
+   21373,
+   "Syd Belton: The Boy Who Would Not Go to Sea"
+  ],
+  "fenn-tention": [
+   21374,
+   "!Tention: A Story of Boy-Life during the Peninsular War"
+  ],
+  "fenn-weathercock": [
+   21375,
+   "The Weathercock: Being the Adventures of a Boy with a Bias"
+  ],
+  "fenn-will-of-the-mill": [
+   21376,
+   "Will of the Mill"
+  ],
+  "fenn-to-win-or-to-die": [
+   21377,
+   "To Win or to Die: A Tale of the Klondike Gold Craze"
+  ],
+  "fenn-yussuf-the-guide": [
+   21378,
+   "Yussuf the Guide; Or, the Mountain Bandits Being a Story of Strange Adventure in Asia Minor"
+  ],
+  "fenn-marcus": [
+   21379,
+   "Marcus: the Young Centurion"
+  ],
+  "fenn-a-young-hero": [
+   21380,
+   "A Young Hero"
+  ],
+  "fenn-son-philip": [
+   21382,
+   "Son Philip"
+  ],
+  "fenn-trapped-by-malays": [
+   21494,
+   "Trapped by Malays: A Tale of Bayonet and Kris"
+  ],
+  "fenn-to-the-west": [
+   21495,
+   "To The West"
+  ],
+  "fenn-kings-esquires": [
+   23128,
+   "The King's Esquires; Or, The Jewel of France"
+  ],
+  "fenn-dingo-boys": [
+   23374,
+   "The Dingo Boys: The Squatters of Wallaby Range"
+  ],
+  "fenn-jack-at-sea": [
+   23375,
+   "Jack at Sea: All Work and No Play Made Him a Dull Boy"
+  ],
+  "fenn-a-terrible-coward": [
+   23376,
+   "A Terrible Coward"
+  ],
+  "fenn-crown-and-sceptre": [
+   23382,
+   "Crown and Sceptre: A West Country Story"
+  ],
+  "fenn-in-the-kings-name": [
+   23386,
+   "In the King's Name: The Cruise of the \"Kestrel\""
+  ],
+  "fenn-through-forest-and-stream": [
+   23497,
+   "Through Forest and Stream: The Quest of the Quetzal"
+  ],
+  "fenn-new-forest-spy": [
+   23502,
+   "The New Forest Spy"
+  ],
+  "fenn-dead-mans-land-being-the-voyage-to-zimbambangwe-of-cert": [
+   23922,
+   "Dead Man's Land Being the Voyage to Zimbambangwe of certain and uncertain blacks and whites"
+  ],
+  "fenn-crystal-hunters": [
+   24516,
+   "The Crystal Hunters: A Boy's Adventures in the Higher Alps"
+  ],
+  "fenn-queens-scarlet-the-adventures-and-misadventures-of-sir": [
+   24813,
+   "The Queen's Scarlet The Adventures and Misadventures of Sir Richard Frayne"
+  ],
+  "fenn-diamond-dyke-the-lone-farm-on-the-veldt-story-of-south": [
+   24821,
+   "Diamond Dyke The Lone Farm on the Veldt - Story of South African Adventure"
+  ],
+  "fenn-bag-of-diamonds": [
+   24871,
+   "The Bag of Diamonds"
+  ],
+  "fenn-golden-magnet": [
+   24909,
+   "The Golden Magnet"
+  ],
+  "fenn-hollowdell-grange": [
+   24918,
+   "Hollowdell Grange: Holiday Hours in a Country Home"
+  ],
+  "fenn-in-the-mahdis-grasp": [
+   24926,
+   "In the Mahdi's Grasp"
+  ],
+  "fenn-peril-finders": [
+   25429,
+   "The Peril Finders"
+  ],
+  "fenn-young-castellan": [
+   25449,
+   "The Young Castellan: A Tale of the English Civil War"
+  ],
+  "fenn-witness-to-the-deed": [
+   25607,
+   "Witness to the Deed"
+  ],
+  "fenn-dark-house": [
+   25637,
+   "The Dark House: A Knot Unravelled"
+  ],
+  "fenn-kopje-garrison": [
+   27897,
+   "The Kopje Garrison: A Story of the Boer War"
+  ],
+  "fenn-hunting-the-skipper": [
+   27907,
+   "Hunting the Skipper: The Cruise of the \"Seafowl\" Sloop"
+  ],
+  "fenn-fix-baynets": [
+   27908,
+   "Fix Bay'nets: The Regiment in the Hills"
+  ],
+  "fenn-vast-abyss-the-story-of-tom-blount-his-uncles-and-his-c": [
+   30106,
+   "The Vast Abyss The Story of Tom Blount, his Uncles and his Cousin Sam"
+  ],
+  "fenn-blind-policy": [
+   32881,
+   "Blind Policy"
+  ],
+  "fenn-sir-hiltons-sin": [
+   32915,
+   "Sir Hilton's Sin"
+  ],
+  "fenn-sapphire-cross": [
+   32917,
+   "The Sapphire Cross"
+  ],
+  "fenn-new-mistress": [
+   32924,
+   "The New Mistress: A Tale"
+  ],
+  "fenn-thereby-hangs-a-tale-volume-one": [
+   32929,
+   "Thereby Hangs a Tale. Volume One"
+  ],
+  "fenn-seven-frozen-sailors": [
+   32932,
+   "Seven Frozen Sailors"
+  ],
+  "fenn-lady-maudes-mania": [
+   34138,
+   "Lady Maude's Mania"
+  ],
+  "fenn-real-gold": [
+   34139,
+   "Real Gold: A Story of Adventure"
+  ],
+  "fenn-a-double-knot": [
+   34140,
+   "A Double Knot"
+  ],
+  "fenn-parson-o-dumford": [
+   34141,
+   "The Parson O' Dumford"
+  ],
+  "fenn-by-birth-a-lady": [
+   34142,
+   "By Birth a Lady"
+  ],
+  "fenn-a-little-world": [
+   34143,
+   "A Little World"
+  ],
+  "fenn-star-gazers": [
+   34244,
+   "The Star-Gazers"
+  ],
+  "fenn-khedives-country": [
+   34245,
+   "The Khedive's Country"
+  ],
+  "fenn-of-high-descent": [
+   34246,
+   "Of High Descent"
+  ],
+  "fenn-man-with-a-shadow": [
+   34248,
+   "The Man with a Shadow"
+  ],
+  "fenn-rosery-folk": [
+   34482,
+   "The Rosery Folk"
+  ],
+  "fenn-sweet-mace": [
+   34490,
+   "Sweet Mace: A Sussex Legend of the Iron Times"
+  ],
+  "fenn-master-of-the-ceremonies": [
+   34492,
+   "The Master of the Ceremonies"
+  ],
+  "fenn-draw-swords-in-the-horse-artillery": [
+   34493,
+   "Draw Swords! In the Horse Artillery"
+  ],
+  "fenn-stan-lynn": [
+   34494,
+   "Stan Lynn: A Boy's Adventures in China"
+  ],
+  "fenn-cursed-by-a-fortune": [
+   34537,
+   "Cursed by a Fortune"
+  ],
+  "fenn-king-of-the-castle": [
+   34609,
+   "King of the Castle"
+  ],
+  "fenn-commodore-junk": [
+   34663,
+   "Commodore Junk"
+  ],
+  "fenn-mynns-mystery": [
+   34664,
+   "The Mynns' Mystery"
+  ],
+  "fenn-christmas-penny-readings": [
+   34665,
+   "Christmas Penny Readings: Original Sketches for the Season"
+  ],
+  "fenn-original-penny-readings": [
+   34666,
+   "Original Penny Readings: A Series of Short Sketches"
+  ],
+  "fenn-mad": [
+   35367,
+   "Mad: A Story of Dust and Ashes"
+  ],
+  "fenn-friends-i-have-made": [
+   35368,
+   "Friends I Have Made"
+  ],
+  "fenn-vicars-people": [
+   35370,
+   "The Vicar's People"
+  ],
+  "fenn-haute-noblesse": [
+   35527,
+   "The Haute Noblesse: A Novel"
+  ],
+  "fenn-adventures-of-working-men-from-the-notebook-of-a-workin": [
+   36624,
+   "Adventures of Working Men. From the Notebook of a Working Surgeon"
+  ],
+  "fenn-elis-children": [
+   36642,
+   "Eli's Children: The Chronicles of an Unhappy Family"
+  ],
+  "fenn-one-maids-mischief": [
+   36723,
+   "One Maid's Mischief"
+  ],
+  "fenn-dutch-the-diver": [
+   36724,
+   "Dutch the Diver; Or, A Man's Mistake"
+  ],
+  "fenn-story-of-antony-grace": [
+   36852,
+   "The Story of Antony Grace"
+  ],
+  "fenn-a-fluttered-dovecote": [
+   36873,
+   "A Fluttered Dovecote"
+  ],
+  "fenn-midnight-webs": [
+   36875,
+   "Midnight Webs"
+  ],
+  "fenn-george-alfred-henty": [
+   36893,
+   "George Alfred Henty: The Story of an Active Life"
+  ],
+  "fenn-white-virgin": [
+   40672,
+   "The White Virgin"
+  ],
+  "fenn-tiger-lily": [
+   40673,
+   "The Tiger Lily"
+  ],
+  "fenn-sawn-off": [
+   40674,
+   "Sawn Off: A Tale of a Family Tree"
+  ],
+  "fenn-nurse-elisia": [
+   40675,
+   "Nurse Elisia"
+  ],
+  "fenn-this-mans-wife": [
+   40676,
+   "This Man's Wife"
+  ],
+  "fenn-jungle-and-stream": [
+   44680,
+   "Jungle and Stream; Or, The Adventures of Two Boys in Siam"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "fenn-golden-story-book": "PG 72362, The Golden Story Book, is a many-author anthology"
+ },
+ "_checks": {
+  "fenn-young-robin-hood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-little-skipper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-brave-and-true-short-stories-for-children-by-g-m-fenn-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-brownsmiths-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-burr-junior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-cormorant-crag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-mother-careys-chicken": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-cutlass-and-cudgel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-black-tor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-blue-jackets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-bunyip-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-charge-a-story-of-briton-and-boer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-devon-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-begumbagh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-a-dash-from-diamond-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-dick-o-the-fens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-fire-island-being-the-adventures-of-uncertain-naturalis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-first-in-the-field": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-fitz-the-filibuster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-featherland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-gil-the-gunner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-glyn-severns-schooldays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-in-honours-cause": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-king-o-the-beach": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-kings-sons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-adventures-of-don-lavington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-a-lifes-eclipse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-lost-middy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-three-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-mass-george": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-black-bar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-menhardoc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-middy-and-ensign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-nat-the-naturalist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-nic-revel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-ocean-cats-paw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-off-to-the-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-old-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-patience-wins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-powder-monkey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-quicksilver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-rajah-of-dah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-rob-harlows-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-sail-ho-a-boy-at-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-sappers-and-miners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-silver-canyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-our-soldier-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-steve-young": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-syd-belton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-tention": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-weathercock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-will-of-the-mill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-to-win-or-to-die": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-yussuf-the-guide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-marcus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-a-young-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-son-philip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-trapped-by-malays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-to-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-kings-esquires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-dingo-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-jack-at-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-a-terrible-coward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-crown-and-sceptre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-in-the-kings-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-through-forest-and-stream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-new-forest-spy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-dead-mans-land-being-the-voyage-to-zimbambangwe-of-cert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-crystal-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-queens-scarlet-the-adventures-and-misadventures-of-sir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-diamond-dyke-the-lone-farm-on-the-veldt-story-of-south": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-bag-of-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-golden-magnet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-hollowdell-grange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-in-the-mahdis-grasp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-peril-finders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-young-castellan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-witness-to-the-deed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-dark-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-kopje-garrison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-hunting-the-skipper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-fix-baynets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-vast-abyss-the-story-of-tom-blount-his-uncles-and-his-c": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-blind-policy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-sir-hiltons-sin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-sapphire-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-new-mistress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-thereby-hangs-a-tale-volume-one": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-seven-frozen-sailors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-lady-maudes-mania": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-real-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-a-double-knot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-parson-o-dumford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-by-birth-a-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-a-little-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-star-gazers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-khedives-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-of-high-descent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-man-with-a-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-rosery-folk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-sweet-mace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-master-of-the-ceremonies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-draw-swords-in-the-horse-artillery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-stan-lynn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-cursed-by-a-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-king-of-the-castle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-commodore-junk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-mynns-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-christmas-penny-readings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-original-penny-readings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-mad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-friends-i-have-made": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-vicars-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-haute-noblesse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-adventures-of-working-men-from-the-notebook-of-a-workin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-elis-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-one-maids-mischief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-dutch-the-diver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-story-of-antony-grace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-a-fluttered-dovecote": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-midnight-webs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-george-alfred-henty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-white-virgin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-tiger-lily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-sawn-off": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-nurse-elisia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-this-mans-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenn-jungle-and-stream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george manville fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,427 @@
+{
+ "_about": "Clarence Young's boys' series (Motor Boys, Jack Ranger); Stratemeyer Syndicate house name",
+ "_author": "Clarence Young",
+ "_name_words": [
+  "young"
+ ],
+ "_surname": [
+  "clarence young"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cyoung-motor-boys-on-the-pacific": [
+   5004,
+   "The Motor Boys on the Pacific; Or, the Young Derelict Hunters"
+  ],
+  "cyoung-jack-rangers-western-trip": [
+   7496,
+   "Jack Ranger's Western Trip; Or, from Boarding School to Ranch and Range",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-ned-bob-and-jerry-on-the-firing-line": [
+   28442,
+   "Ned, Bob and Jerry on the Firing Line; Or, The Motor Boys Fighting for Uncle Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys": [
+   42461,
+   "The Motor Boys; or, Chums Through Thick and Thin",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-overland": [
+   42748,
+   "The Motor Boys Overland; Or, A Long Trip for Fun and Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-in-mexico": [
+   43204,
+   "The Motor Boys in Mexico; Or, The Secret of the Buried City",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-across-the-plains": [
+   43509,
+   "The Motor Boys Across the Plains; or, The Hermit of Lost Lake",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-afloat": [
+   44788,
+   "The Motor Boys Afloat; or, The Stirring Cruise of the Dartaway",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-on-the-atlantic": [
+   44846,
+   "The Motor Boys on the Atlantic; or, The Mystery of the Lighthouse",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-in-strange-waters": [
+   44951,
+   "The Motor Boys in Strange Waters; or, Lost in a Floating Forest",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-in-the-clouds": [
+   45326,
+   "The Motor Boys in the Clouds; or, A Trip for Fame and Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-over-the-rockies": [
+   45576,
+   "The Motor Boys Over the Rockies; Or, A Mystery of the Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-jack-rangers-gun-club": [
+   45582,
+   "Jack Ranger's Gun Club; Or, From Schoolroom to Camp and Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-over-the-ocean": [
+   46127,
+   "The Motor Boys Over the Ocean; Or, A Marvelous Rescue in Mid-Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-on-the-wing": [
+   46850,
+   "The Motor Boys on the Wing; Or, Seeking the Airship Treasure",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-after-a-fortune": [
+   47417,
+   "The Motor Boys After a Fortune; or, The Hut on Snake Island",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-on-the-border": [
+   48536,
+   "The Motor Boys on the Border; Or, Sixty Nuggets of Gold",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-under-the-sea": [
+   49049,
+   "The Motor Boys Under the Sea; or, From Airship to Submarine",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-on-road-and-river": [
+   50051,
+   "The Motor Boys on Road and River; Or, Racing To Save a Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-ned-bob-and-jerry-at-boxwood-hall": [
+   51079,
+   "Ned, Bob and Jerry at Boxwood Hall; Or, The Motor Boys as Freshmen",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-on-a-ranch": [
+   52153,
+   "The Motor Boys on a Ranch; or, Ned, Bob and Jerry Among the Cowboys",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-in-the-army": [
+   53320,
+   "The Motor Boys in the Army; or, Ned, Bob and Jerry as Volunteers",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-bound-for-home": [
+   53704,
+   "The Motor Boys Bound for Home; or, Ned, Bob and Jerry on the Wrecked Troopship",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-motor-boys-on-thunder-mountain": [
+   59340,
+   "The Motor Boys on Thunder Mountain; Or, The Treasure Chest of Blue Rock",
+   {
+    "contents_only": true
+   }
+  ],
+  "cyoung-racer-boys": [
+   61534,
+   "The Racer Boys; Or, The Mystery of the Wreck"
+  ],
+  "cyoung-racer-boys-on-the-prairies": [
+   75395,
+   "The Racer boys on the prairies",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cyoung-motor-boys-on-the-pacific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-jack-rangers-western-trip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-ned-bob-and-jerry-on-the-firing-line": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-overland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-in-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-across-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-afloat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-on-the-atlantic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-in-strange-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-in-the-clouds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-over-the-rockies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-jack-rangers-gun-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-over-the-ocean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-on-the-wing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-after-a-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-on-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-under-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-on-road-and-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-ned-bob-and-jerry-at-boxwood-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-on-a-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-in-the-army": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-bound-for-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-motor-boys-on-thunder-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-racer-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cyoung-racer-boys-on-the-prairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

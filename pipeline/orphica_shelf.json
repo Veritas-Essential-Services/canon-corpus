@@ -1,0 +1,38 @@
+{
+ "_about": "The Orphic Hymns in English: Thomas Taylor's rhymed translation, The Mystical Initiations; or, Hymns of Orpheus, with a preliminary dissertation on the life and theology of Orpheus (London, printed for the author, 1787), the first edition. Raw IA OCR (Wellcome Library scan). Not minted.",
+ "_name_words": [
+  "orpheus",
+  "orphic",
+  "hymns"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "orphica-taylor-hymns-1787": [
+   "b28775430",
+   "The Mystical Initiations; or, Hymns of Orpheus, translated from the original Greek, with a preliminary dissertation on the life and theology of Orpheus (London: printed for the author, 1787)",
+   "tr. Thomas Taylor"
+  ]
+ },
+ "_surname": [
+  "orpheus"
+ ],
+ "_translators": {
+  "orphica-taylor-hymns-1787": "Thomas Taylor"
+ },
+ "_checks": {
+  "orphica-taylor-hymns-1787": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "orpheus",
+   "translator_claimed": "Thomas Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

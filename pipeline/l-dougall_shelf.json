@@ -1,0 +1,99 @@
+{
+ "_about": "L. Dougall: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "L. Dougall",
+ "_name_words": [
+  "dougall",
+  "lily"
+ ],
+ "_surname": [
+  "l. dougall",
+  "lily dougall",
+  "dougall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ldougall-what-necessity-knows": [
+   16398,
+   "What Necessity Knows"
+  ],
+  "ldougall-mormon-prophet": [
+   17279,
+   "The Mormon Prophet"
+  ],
+  "ldougall-zeit-geist": [
+   18054,
+   "The Zeit-Geist"
+  ],
+  "ldougall-dozen-ways-of-love": [
+   18086,
+   "A Dozen Ways Of Love"
+  ],
+  "ldougall-mermaid": [
+   20054,
+   "The Mermaid: A Love Tale"
+  ],
+  "ldougall-summit-house-mystery": [
+   55189,
+   "The Summit House Mystery; Or, The Earthly Purgatory"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ldougall-what-necessity-knows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dougall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldougall-mormon-prophet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dougall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldougall-zeit-geist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dougall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldougall-dozen-ways-of-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dougall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldougall-mermaid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dougall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldougall-summit-house-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. dougall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

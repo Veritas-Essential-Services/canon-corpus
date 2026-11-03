@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Henry Francis Cary (1772-1844). Dante's Divine Comedy in blank verse (The Vision, 1805-14; text as revised by Cary) and his Pindar (1833). Each canticle is its own title. PD (Cary d. 1844). Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "cary",
+  "carey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cary-pindar": [
+   "pindarinenglish00carygoog",
+   "Pindar in English Verse (1833)"
+  ]
+ },
+ "titles": {
+  "cary-inferno": {
+   "of": "Dante",
+   "work": "Inferno (Hell)",
+   "translated": "1805-06; revised 1814",
+   "held_in": {
+    "file": "pipeline/fetch_sources.py",
+    "slug": "divine_comedy",
+    "gutenberg_id": 8800
+   },
+   "held_note": "fetch_sources.py GUTENBERG 'divine_comedy' is PG 8800, the Doré-illustrated Cary Divine Comedy complete: the same Cary text. Cross-referenced, not refetched.",
+   "translator": "Henry Francis Cary"
+  },
+  "cary-purgatorio": {
+   "of": "Dante",
+   "work": "Purgatorio",
+   "translated": 1814,
+   "held_in": {
+    "file": "pipeline/fetch_sources.py",
+    "slug": "divine_comedy",
+    "gutenberg_id": 8800
+   },
+   "held_note": "fetch_sources.py GUTENBERG 'divine_comedy' is PG 8800, the Doré-illustrated Cary Divine Comedy complete: the same Cary text. Cross-referenced, not refetched.",
+   "translator": "Henry Francis Cary"
+  },
+  "cary-paradiso": {
+   "of": "Dante",
+   "work": "Paradiso",
+   "translated": 1814,
+   "held_in": {
+    "file": "pipeline/fetch_sources.py",
+    "slug": "divine_comedy",
+    "gutenberg_id": 8800
+   },
+   "held_note": "fetch_sources.py GUTENBERG 'divine_comedy' is PG 8800, the Doré-illustrated Cary Divine Comedy complete: the same Cary text. Cross-referenced, not refetched.",
+   "translator": "Henry Francis Cary"
+  },
+  "cary-pindar": {
+   "source": "cary-pindar",
+   "of": "Pindar",
+   "work": "Odes (Olympian, Pythian, Nemean, Isthmian)",
+   "translated": 1833,
+   "scan_edition": "1833 (Google scan, raw OCR)",
+   "translator": "Henry Francis Cary"
+  }
+ },
+ "_pending": {
+  "cary-aristophanes-birds": "Cary's Birds of Aristophanes (1824): no scan found this run.",
+  "cary-dore-illustrated": "PG 8779-8800 Doré-illustrated Cary: same text split into parts (excluded as duplicates; images are the only difference)."
+ },
+ "_excluded": {
+  "pg-1008": "Divine Comedy complete: same text as 1005-1007 together.",
+  "pg-10660": "Lives of the English Poets: Cary's own prose, not a translation."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_notes": {
+  "pg-8800": "Already in the build via fetch_sources.py (divine_comedy)."
+ },
+ "_identity_checked": {
+  "cary-pindar": "Google scan whose OCR lost the title page; IA metadata (Harvard copy) reads creator 'Henry Francis Cary', publisher E. Moxon, 1833. Checked 2026-10-02."
+ },
+ "_verified": {
+  "cary-pindar": {
+   "ia": "pindarinenglish00carygoog",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname": [
+  "cary",
+  "carey"
+ ],
+ "_checks": {
+  "cary-pindar": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

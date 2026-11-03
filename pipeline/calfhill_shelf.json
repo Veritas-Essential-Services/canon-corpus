@@ -1,0 +1,32 @@
+{
+ "_about": "James Calfhill (c.1530-1570): An Answer to John Martiall's Treatise of the Cross, Parker Society ed. Richard Gibbings (1846). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "calfhill"
+ ],
+ "_surname": [
+  "calfhill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "calfhill-ps-answer": [
+   "ananswertojohnma00calfuoft",
+   "An Answer to John Martiall's Treatise of the Cross, ed. Richard Gibbings (Parker Society, Cambridge, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "calfhill-ps-answer": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calfhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

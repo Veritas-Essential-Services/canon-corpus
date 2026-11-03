@@ -1,0 +1,77 @@
+{
+ "_about": "Public-domain Charles Louis Gay (1815-1892), auxiliary bishop of Poitiers, in English for the Word Hoard: The Christian Life and Virtues considered in the Religious State, translated by Abbot Burder (3 vols., London: Burns and Oates, 1878-1879). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 83 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles gay",
+  "mgr. gay",
+  "monseigneur gay",
+  "charles louis gay"
+ ],
+ "_surname": [
+  "charles gay",
+  "mgr. gay",
+  "monseigneur gay",
+  "bishop of anthedon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gay-christian-life-1": [
+   "christianlife01gayuoft",
+   "The Christian life and virtues considered in the religious state (London : Burns & Oates, 1878)"
+  ],
+  "gay-christian-life-2": [
+   "christianlife02gayuoft",
+   "The Christian life and virtues considered in the religious state, vol. 2 (London : Burns & Oates, 1878)"
+  ],
+  "gay-christian-life-3": [
+   "christianlife03gayuoft",
+   "The Christian life and virtues considered in the religious state, vol. 3 (London : Burns & Oates, 1878)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gay-french": "the French originals (De la vie et des vertus chrétiennes; Élévations), left for a lane that takes French"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gay-christian-life-2": "title page: 'THE CHRISTIAN LIFE AND VIRTUES CONSIDERED IN THE RELIGIOUS STATE. BY MGR CHARLES GAY, COADJUTOR TO THE BISHOP OF POICTIERS ... TRANSLATED FROM THE SIXTH FRENCH EDITION' (OCR 'MGR CHARICE GAY'), vol. 2"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gay-christian-life-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles gay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1878-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gay-christian-life-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1878-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gay-christian-life-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles gay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1878-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

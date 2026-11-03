@@ -1,0 +1,103 @@
+{
+ "_about": "Public-domain Charles Bradley (1789-1871), evangelical vicar of Glasbury and incumbent of St James's, Clapham, whose sermons were reprinted through the century, for the Word Hoard: Parochial Sermons Preached at Glasbury (1828), Sermons Preached in the Parish Church of High Wycombe (vol. 2, 1833; and an 1884 printing), Sermons Preached Chiefly at the Celebration of the Lord's Supper (1850) and Practical Sermons for Every Sunday (1852). F. H. Bradley the philosopher is another man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 66 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bradley"
+ ],
+ "_surname": [
+  "charles bradley",
+  "c. bradley",
+  "rev. charles bradley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cbradley-glasbury-sermons": [
+   "parochialsermons0000brad",
+   "Parochial sermons preached at Glasbury, Brecknockshire (London : Hamilton, Adams, and Co., 1828)"
+  ],
+  "cbradley-wycombe-2": [
+   "sermonspreachedi02bradiala",
+   "Sermons, preached in the parish church of High Wycombe, vol. 2 (London : Printed for Hamilton, Adams, 1833)"
+  ],
+  "cbradley-lords-supper-1850": [
+   "sermonspreachedc0000brad",
+   "Sermons preached chiefly at the celebration of the Lord's Supper (London : Hamilton, Adams, and Co., and Thomas Hatchard, 1850)"
+  ],
+  "cbradley-practical-sermons": [
+   "practicalsermons0000brad",
+   "Practical sermons for every Sunday and principal holy-day in the year (London : Hamilton, 1852)"
+  ],
+  "cbradley-wycombe-1884": [
+   "sermonspreachedi0000brad",
+   "Sermons preached in the parish church of High Wycombe (London : Printed for Hamilton, Adams, 1884)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cbradley-other": "His Latin school editions (Eutropius, Phaedrus, Cornelius Nepos); his son G. G. Bradley, Dean of Westminster"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "cbradley-sacrament-1842": "a548635400braduoft: Sermons adapted to the celebration of the holy sacrament of the Lord's Supper (1842); Internet Archive serves no text file for it (404); another copy is needed"
+ },
+ "_translators": {},
+ "_checks": {
+  "cbradley-glasbury-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cbradley-wycombe-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cbradley-lords-supper-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cbradley-practical-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cbradley-wycombe-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

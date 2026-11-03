@@ -1,0 +1,198 @@
+{
+ "_about": "Public-domain George Hughes Hepworth (1833-1902), Unitarian and then Congregational minister in Boston and New York, later the New York Herald's Sunday preacher, for the Word Hoard: Two Sermons (1865), The Criminal, the Crime, the Penalty, Rocks and Shoals, Hiram Golf's Religion, The Life Beyond, They Met in Heaven, Herald Sermons, Brown Studies, The Farmer and the Lord, The Hepworth Year Book, and We Shall Live Again. His travel and Civil War books are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 104 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george h. hepworth",
+  "george hughes hepworth",
+  "g. h. hepworth",
+  "hepworth"
+ ],
+ "_surname": [
+  "george h. hepworth",
+  "george hughes hepworth",
+  "g. h. hepworth",
+  "hepworth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hepworth-two-sermons": [
+   "twosermonspreach00hepw",
+   "Two sermons preached in the Church of the Unity, April 23, 1865 (Boston : Printed for the Society by J. Wilson, 1865)"
+  ],
+  "hepworth-criminal": [
+   "criminalcrimepen00hepw",
+   "The criminal; the crime; the penalty (Boston, Walker, Fuller, and Company, 1865)"
+  ],
+  "hepworth-rocks-shoals": [
+   "rocksshoalslectu00hepw",
+   "Rocks and shoals. Lectures to young men (Boston, American Unitarian Association, 1870)"
+  ],
+  "hepworth-hiram-golf": [
+   "hiramgolfsreligi0000unse",
+   "Hiram Golf's Religion; or, The \"shoemaker by the grace of God,\" (catalogued 1893)"
+  ],
+  "hepworth-life-beyond": [
+   "lifebeyondthismo00hepw",
+   "The life beyond: this mortal must put on immortality (New York, Dutton, 1894)"
+  ],
+  "hepworth-met-in-heaven": [
+   "theymetinheaven00hepw",
+   "They met in heaven (New York, E.P. Dutton & Company, 1894)"
+  ],
+  "hepworth-herald-sermons": [
+   "heraldsermons00hepw",
+   "Herald sermons (New York : E.P. Dutton, 1894)"
+  ],
+  "hepworth-brown-studies": [
+   "brownstudies00hepw",
+   "Brown studies (New York, E. P. Dutton & company, 1895)"
+  ],
+  "hepworth-farmer-lord": [
+   "farmerlord00hepwrich",
+   "The farmer and the Lord (New York, E.P. Dutton, 1896)"
+  ],
+  "hepworth-year-book": [
+   "hepworthyearbook00hepw",
+   "The Hepworth year book ([n. p.], 1897)"
+  ],
+  "hepworth-live-again": [
+   "weshallliveagain008415mbp",
+   "We Shall Live Again (E. P. Dutton & Company, 1903)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hepworth-other": "The Whip, Hoe, and Sword; Starboard and Port; Through Armenia on Horseback; a July 4 oration (not theology); Songs of the Unity (a hymnal)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hepworth-met-in-heaven": "Title page (OCR): 'They Met in Heaven, by George H. Hepworth, author of Hiram Golf's Religion, etc. New-York: E. P. Dutton & Company... 1894.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hepworth-two-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hepworth-criminal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hepworth-rocks-shoals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hepworth-hiram-golf": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hepworth-life-beyond": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hepworth-met-in-heaven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hepworth-herald-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hepworth-brown-studies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hepworth-farmer-lord": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hepworth-year-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hepworth-live-again": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. hepworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

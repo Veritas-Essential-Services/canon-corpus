@@ -1,0 +1,108 @@
+{
+ "_about": "John Trapp (1601-1669), vicar of Weston-on-Avon: his commentary on the whole Bible, in the five volumes as first issued: the Pentateuch to Chronicles (1662, the general title-page of the set), Ezra to Psalms (1657), Proverbs to Daniel (1660), the Minor Prophets (1654) and the New Testament (2nd ed., very much enlarged, 1656). Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Hugh Martin's edition (London: Dickinson, 1865-1868) is open only as the Sovereign Grace Book Club's 1958 photographic reprint, which is not taken. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "john trapp",
+  "iohn trapp",
+  "johannis trapp",
+  "mr. trapp"
+ ],
+ "_surname": [
+  "john trapp",
+  "iohn trapp",
+  "johannis trapp",
+  "mr. trapp"
+ ],
+ "_identity_checked": {
+  "trapp-commentary-2": "The OCR garbles the name on every page that carries it ('4 Fohn Trapp', '1656, Fohn Trapp'). The title page reads: A Commentary or Exposition upon the Books of Ezra, Nehemiah, Esther, Job and Psalms ... by John Trapp, M.A., once of Christ-Church in Oxford, now Pastour of Weston upon Avon in Gloucestershire (London, 1657).",
+  "trapp-commentary-3": "The OCR garbles the name ('Foby Trapp', 'Joun Tzare'). The epistle dedicatory to the Stephens family is signed from Welford, October 1659, by John Trapp, and the inner title page reads: 'By John Trapp, M.A., Pastor of Weston upon Avon in Glocestershire' (A Commentary or Exposition upon Proverbs, Ecclesiastes, the Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel, London, 1660).",
+  "trapp-commentary-5": "The OCR garbles the name ('Johants Trapp' under the engraved portrait, 'By Fohn Trapp M.A. Pastour of Weston upon Avon in Glocestershire' on the title page). The title page reads: A Commentary or Exposition upon all the Books of the New Testament ... The second Edition very much enlarged throughout (London: printed by R. W. for Nath. Ekins, 1656); the dedication is to Colonel John Bridges, Governor of Warwick Castle."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "trapp-commentary-1": [
+   "bim_early-english-books-1641-1700_annotations-upon-the-old_trapp-john_1662",
+   "Annotations upon the Old and New Testament, vol. I: the Pentateuch and Joshua to Chronicles (London, 1662)"
+  ],
+  "trapp-commentary-2": [
+   "bim_early-english-books-1641-1700_a-commentary-or-expositi_trapp-john_1657",
+   "A Commentary or Exposition upon the Books of Ezra, Nehemiah, Esther, Job and Psalms (London, 1657)"
+  ],
+  "trapp-commentary-3": [
+   "bim_early-english-books-1641-1700_a-commentary-or-expositi_trapp-john_1660",
+   "A Commentary or Exposition upon Proverbs, Ecclesiastes, the Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel (London, 1660)"
+  ],
+  "trapp-commentary-4": [
+   "bim_early-english-books-1641-1700_a-commentary-or-exposi_trapp-john_1654",
+   "A Commentary or Exposition upon the XII Minor Prophets (London, 1654)"
+  ],
+  "trapp-commentary-5": [
+   "bim_early-english-books-1641-1700_a-commentary-or-expositi_trapp-john_1656",
+   "A Commentary or Exposition upon all the Books of the New Testament, 2nd ed., very much enlarged (London, 1656)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_a-commentary-or-expositi_trapp-john_1647": "The 1647 Commentary on the Epistles and Revelation, superseded by the 1656 New Testament.",
+  "bim_early-english-books-1641-1700_solomonis-avaperos-or-_trapp-john_1650, bim_early-english-books-1641-1700_theologia-theologi-the_trapp-john_1641, bim_early-english-books-1475-1640_gods-love-tokens-and-t_trapp-john_1637": "Shorter works, not yet taken."
+ },
+ "_excluded": {
+  "trappscommentary0000john": "Sovereign Grace Book Club's 1958 photographic reprint of the 1865 Dickinson New Testament volume: a post-1930 printing, so not taken."
+ },
+ "_checks": {
+  "trapp-commentary-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john trapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1662",
+   "ia_date": "1662",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trapp-commentary-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1657",
+   "ia_date": "1657",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trapp-commentary-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trapp-commentary-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john trapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trapp-commentary-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1656",
+   "ia_date": "1656",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

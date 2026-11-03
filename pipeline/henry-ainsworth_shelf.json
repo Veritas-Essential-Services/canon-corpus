@@ -1,0 +1,52 @@
+{
+ "_about": "Henry Ainsworth (1571-1622?), teacher of the Separatist church at Amsterdam and Hebraist: Annotations on the Pentateuch, the Psalms of David and the Song of Solomon, with a memoir of the author (Glasgow: Blackie, 1843, 2 vols). Volume numbers and date read off each title page; vol. 1 opens with the publisher's advertisements. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "ainsworth"
+ ],
+ "_surname": [
+  "ainsworth"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ainsworth-annotations-1": [
+   "annotationsonpen01ains",
+   "Annotations on the Pentateuch, the Psalms and the Song of Solomon (Glasgow: Blackie, 1843), vol. 1"
+  ],
+  "ainsworth-annotations-2": [
+   "annotationsonpen02ains",
+   "Annotations on the Pentateuch, the Psalms and the Song of Solomon (Glasgow: Blackie, 1843), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "annotationsonpen184602ains": "Vol. 2 of the 1846 reissue."
+ },
+ "_pending": {
+  "The Communion of Saints; An Arrow against Idolatry; Counterpoyson": "Only 17th-century printings found so far; not yet looked at."
+ },
+ "_excluded": {},
+ "_checks": {
+  "ainsworth-annotations-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ainsworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ainsworth-annotations-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ainsworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

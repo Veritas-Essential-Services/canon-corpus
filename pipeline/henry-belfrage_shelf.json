@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Henry Belfrage (1774-1835), Secession minister of Falkirk, for the Word Hoard: Sacramental Addresses and Meditations, Practical Discourses, Sketches of Life and Character, A Monitor to Families, Discourses on the Duties and Consolations of the Aged, Counsels for the Sanctuary, and A Practical Exposition of the Assembly's Shorter Catechism. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 106 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry belfrage",
+  "h. belfrage",
+  "belfrage"
+ ],
+ "_surname": [
+  "henry belfrage",
+  "h. belfrage",
+  "belfrage"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "belfrage-sacramental-1821": [
+   "sacramentaladdr00belfgoog",
+   "Sacramental Addresses and Meditations: Intended to Aid Devotion, vol. 2 (W. Oliphant, 1821)"
+  ],
+  "belfrage-practical-discourses": [
+   "practicaldiscour00belf",
+   "Practical discourses (Edinburgh, 1817)"
+  ],
+  "belfrage-sketches": [
+   "sketcheslifeand00belfgoog",
+   "Sketches of Life and Character, from Scripture and from Observation (W. Oliphant, 1822)"
+  ],
+  "belfrage-monitor-families": [
+   "monitortofamilie00belf",
+   "A monitor to families, or, Discourses on some of the duties and scenes of domestic life (Edinburgh : [s.n.], 1824)"
+  ],
+  "belfrage-the-aged": [
+   "discoursesondut00belfgoog",
+   "Discourses on the duties and consolations of the aged (Edinburgh : Oliver & Boyd, 1827)"
+  ],
+  "belfrage-counsels-sanctuary": [
+   "counselsforsanc00belfgoog",
+   "Counsels for the sanctuary and for civil life; or, Discourses to various classes in the Church (Oliver & Boyd, 1829)"
+  ],
+  "belfrage-shorter-catechism": [
+   "10479480bsb",
+   "A practical exposition of the Assembly's shorter catechism: exhibiting a system of theology in a popular form, and particularly adapted for family instruction. 2 (catalogued 1835)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "belfrage-waugh": "Memoir of Alexander Waugh (written with James Hay)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "belfrage-sacramental-1821": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry belfrage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belfrage-practical-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry belfrage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "belfrage-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry belfrage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belfrage-monitor-families": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry belfrage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "belfrage-the-aged": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry belfrage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belfrage-counsels-sanctuary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry belfrage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belfrage-shorter-catechism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belfrage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

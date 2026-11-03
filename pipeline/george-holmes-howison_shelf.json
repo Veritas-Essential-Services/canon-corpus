@@ -1,0 +1,36 @@
+{
+ "_about": "G. H. Howison (1834-1916), raw IA OCR: The Limits of Evolution, and other essays illustrating the metaphysical theory of personal idealism (New York: Macmillan, 1901). US public domain. No uids minted.",
+ "_author": "George Holmes Howison",
+ "_name_words": [
+  "george",
+  "holmes",
+  "g",
+  "h",
+  "howison"
+ ],
+ "_surname": [
+  "howison"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "howison-limits-of-evolution-1901": [
+   "limitsofevoluti00howi",
+   "The Limits of Evolution, and other essays (New York: Macmillan, 1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "howison-limits-of-evolution-1901": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "howison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

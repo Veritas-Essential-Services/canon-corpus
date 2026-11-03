@@ -1,0 +1,112 @@
+{
+ "_about": "Basil Hall Chamberlain's Aino Folk-Tales (Folk-Lore Society, 1888) and two of his Japanese Fairy Tale series booklets printed by the Kobunsha in Tokyo, The Silly Jelly-Fish and The Fisher-Boy Urashima (both undated in the text). His essays are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Basil Hall Chamberlain",
+ "_name_words": [
+  "chamberlain"
+ ],
+ "_surname": [
+  "basil hall chamberlain"
+ ],
+ "_surname_by_slug": {
+  "chamberlain-silly-jelly-fish": [
+   "b. h. chamberlain"
+  ],
+  "chamberlain-fisher-boy-urashima": [
+   "b. h. chamberlain"
+  ]
+ },
+ "_translators": {
+  "chamberlain-aino-folk-tales": "Chamberlain",
+  "chamberlain-silly-jelly-fish": "Chamberlain",
+  "chamberlain-fisher-boy-urashima": "Chamberlain"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "chamberlain-aino-folk-tales": [
+   29287,
+   "Aino Folk-Tales",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|AINO FOLK-LORE)\\.$|[IVX]+\\.--[^a-z]+$",
+      "strip": "\\.?\\[[A-Z]\\]|\\.$"
+     },
+     {
+      "re": "[ivxl]+\\.--",
+      "strip": "_|\\.?\\[[A-Z]\\]|\\.?--\\(No\\. I\\.\\)|\\.$",
+      "max": 160
+     },
+     {
+      "re": "\\(No\\. [IVX]+\\.\\)$"
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ],
+  "chamberlain-silly-jelly-fish": [
+   25590,
+   "The Silly Jelly-Fish",
+   {
+    "levels": [
+     {
+      "re": "THE SILLY JELLY-FISH\\.$|THE KOBUNSHA'S JAPANESE FAIRY TALE SERIES\\.$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "Told in English",
+    "front": true
+   }
+  ],
+  "chamberlain-fisher-boy-urashima": [
+   30024,
+   "The Fisher-Boy Urashima",
+   {
+    "levels": [
+     {
+      "re": "#THE FISHER-BOY URASHIMA\\.#$",
+      "strip": "#|\\.$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "chamberlain-aino-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "basil hall chamberlain",
+   "translator_claimed": "Chamberlain",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chamberlain-silly-jelly-fish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "b. h. chamberlain",
+   "translator_claimed": "Chamberlain",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chamberlain-fisher-boy-urashima": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "b. h. chamberlain",
+   "translator_claimed": "Chamberlain",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Basil Hall Chamberlain",
+   "translator_match": true
+  }
+ }
+}

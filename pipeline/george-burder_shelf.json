@@ -1,0 +1,61 @@
+{
+ "_about": "Public-domain George Burder (1752-1832), Congregationalist minister of Fetter Lane, London, a founder of the London Missionary Society and the Religious Tract Society, for the Word Hoard: Evangelical Truth Defended (1788) and Village Sermons (1798), from Internet Archive scans of Eighteenth Century Collections. Added 2026-10-23 by lane A, round 49 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "burder"
+ ],
+ "_surname": [
+  "george burder",
+  "g. burder",
+  "burder"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burder-evangelical-truth": [
+   "bim_eighteenth-century_evangelical-truth-defend_burder-george_1788",
+   "Evangelical truth defended: or, a reply to a letter, containing strictures on a sermon, preached at Lancaster, by the Rev. Mr. Housman. ... By George Burder.  1788 (catalogued 1788)"
+  ],
+  "burder-village-sermons": [
+   "bim_eighteenth-century_village-sermons-or-twe_burder-george_1798",
+   "Village sermons; or, twelve plain and short discourses on the principal doctrines of the Gospel; intended for the use of families, Sunday-schools, or companies ... Volume I. Third edition revised. By George Burder.  1798 (catalogued 1798)"
+  ]
+ },
+ "_alternates": {
+  "burder-copies": "Later printings of The Good Old Way (1783-1792) and Village Sermons (1798-1799)"
+ },
+ "_excluded": {
+  "burder-other": "His 1797 single-sermon tracts; the Welsh Village Sermons (1799); The Welch Indians (1797, a compilation)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "burder-early-piety": "Early Piety, or Memoirs of Children eminently serious (2nd ed., London: H. Trapp, 1777): the title page, read from the page image, names no author ('Recommended by the Rev. Mr. Peckwell'); attributed to Burder by the catalogue only",
+  "burder-good-old-way": "The Good Old Way, or the Religion of our Forefathers (4th ed., London, 1781): the title page, read from the page image, names no author; attributed to Burder by the catalogue only"
+ },
+ "_translators": {},
+ "_checks": {
+  "burder-evangelical-truth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. burder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burder-village-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. burder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "_about": "Public-domain Isaac of Nineveh (Isaac the Syrian, 7th century), bishop and ascetic of the Church of the East, for the Word Hoard: Mystic Treatises by Isaac of Nineveh, translated from Bedjan's Syriac text by A. J. Wensinck (Amsterdam: Royal Academy, 1923), from an Internet Archive scan. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "isaac"
+ ],
+ "_surname": [
+  "isaac of nineveh",
+  "isaac"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "isaac-mystic-treatises-1923": [
+   "IsaacOfNinevehMysticTreatises",
+   "Mystic Treatises by Isaac of Nineveh, tr. A. J. Wensinck, Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afd. Letterkunde, Nieuwe Reeks XXIII.1 (Amsterdam, 1923)",
+   "isaac_of_nineveh_mystical_treatises_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "isaac-copies": "isaac_of_nineveh_mystical_treatises (another scan; its OCR reads 1933, a garble for 1923)"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "isaac-mystic-treatises-1923": "title page read: 1923, so US public domain; Wensinck died in 1939, so the translation is UK public domain since 2010"
+ },
+ "_pending": {},
+ "_translators": {
+  "isaac-mystic-treatises-1923": "wensinck"
+ },
+ "_checks": {
+  "isaac-mystic-treatises-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac of nineveh",
+   "translator_claimed": "wensinck",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1923, so US public domain; Wensinck died in 1939, so the translation is UK public domain since 2010"
+  }
+ }
+}

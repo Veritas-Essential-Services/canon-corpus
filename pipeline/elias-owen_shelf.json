@@ -1,0 +1,50 @@
+{
+ "_about": "Elias Owen's Welsh Folk-Lore: a Collection of the Folk-Tales and Legends of North Wales (the prize essay of the 1887 National Eisteddfod, revised by the author for Woodall, Minshall & Co.; the title page prints no publication year). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Elias Owen",
+ "_name_words": [
+  "owen"
+ ],
+ "_surname": [
+  "elias owen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "owen-welsh-folk-lore": [
+   20096,
+   "Welsh Folk-Lore",
+   {
+    "levels": [
+     {
+      "re": "THE FAIRIES\\.$|STORIES OF SATAN, GHOSTS, ETC\\.$|CONJURORS\\.$|CHARMS\\.$|RHAMANTA, OR OMEN SEEKING\\.$|SPIRITUALISM\\.$|DEATH PORTENTS\\.$|BIRDS AND BEASTS\\.$|LIST OF SUBSCRIBERS\\.$"
+     },
+     {
+      "re": "(?![IVX]+\\. )[A-Z][^a-z_\"]*\\.\\)?$"
+     },
+     {
+      "re": "_[^_].*_\\.$",
+      "strip": "_",
+      "max": 120
+     },
+     {
+      "re": "[IVX]+\\. [A-Z][^a-z]*\\.$"
+     }
+    ],
+    "start": "THE FAIRIES\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "owen-welsh-folk-lore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "elias owen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

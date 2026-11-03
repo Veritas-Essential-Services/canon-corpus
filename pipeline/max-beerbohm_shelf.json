@@ -1,0 +1,165 @@
+{
+ "_about": "Max Beerbohm: Zuleika Dobson, stories, essays and parodies. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Max Beerbohm",
+ "_name_words": [
+  "beerbohm",
+  "max"
+ ],
+ "_surname": [
+  "max beerbohm",
+  "beerbohm"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mbeerbohm-james-pethel": [
+   759,
+   "James Pethel"
+  ],
+  "mbeerbohm-enoch-soames": [
+   760,
+   "Enoch Soames: A Memory of the Eighteen-Nineties"
+  ],
+  "mbeerbohm-a-v-laider": [
+   761,
+   "A. V. Laider"
+  ],
+  "mbeerbohm-seven-men-excerpts": [
+   1306,
+   "Seven Men [Excerpts]"
+  ],
+  "mbeerbohm-zuleika-dobson": [
+   1845,
+   "Zuleika Dobson; Or, An Oxford Love Story"
+  ],
+  "mbeerbohm-and-even-now": [
+   1956,
+   "And Even Now"
+  ],
+  "mbeerbohm-yet-again": [
+   2292,
+   "Yet Again"
+  ],
+  "mbeerbohm-christmas-garland": [
+   14667,
+   "A Christmas Garland"
+  ],
+  "mbeerbohm-happy-hypocrite": [
+   36497,
+   "The Happy Hypocrite: A Fairy Tale for Tired Men"
+  ],
+  "mbeerbohm-peep-into-the-past": [
+   67604,
+   "A Peep Into the Past"
+  ],
+  "mbeerbohm-dreadful-dragon-of-hay-hill": [
+   75341,
+   "The dreadful dragon of Hay Hill"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 1859: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "mbeerbohm-james-pethel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-enoch-soames": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-a-v-laider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-seven-men-excerpts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-zuleika-dobson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-and-even-now": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-yet-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-christmas-garland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-happy-hypocrite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-peep-into-the-past": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbeerbohm-dreadful-dragon-of-hay-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "max beerbohm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

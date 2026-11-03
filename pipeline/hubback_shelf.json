@@ -1,0 +1,85 @@
+{
+ "_about": "Catherine-Anne Austen Hubback: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Catherine-Anne Austen Hubback",
+ "_name_words": [
+  "austen",
+  "catherine-anne",
+  "hubback"
+ ],
+ "_surname": [
+  "hubback"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hubback-younger-sister": [
+   54010,
+   "The Younger Sister: A Novel, Vol. I."
+  ],
+  "hubback-younger-sister-54011": [
+   54011,
+   "The Younger Sister: A Novel, Vol. II."
+  ],
+  "hubback-younger-sister-54012": [
+   54012,
+   "The Younger Sister: A Novel, Vol. III."
+  ],
+  "hubback-younger-sister-54066": [
+   54066,
+   "The Younger Sister: A Novel, Volumes 1-3"
+  ],
+  "hubback-old-vicarage": [
+   70732,
+   "The old vicarage"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hubback-younger-sister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hubback",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hubback-younger-sister-54011": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hubback",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hubback-younger-sister-54012": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hubback",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hubback-younger-sister-54066": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hubback",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hubback-old-vicarage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hubback",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

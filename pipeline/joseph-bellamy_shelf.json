@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain Joseph Bellamy (1719-1790, New Divinity theologian, pupil of Jonathan Edwards, pastor at Bethlem, Connecticut) for the Word Hoard: the Works (Boston: Doctrinal Tract and Book Society, 1853, 2 vols, with a memoir), raw Internet Archive OCR from New York Public Library scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "bellamy",
+  "joseph"
+ ],
+ "_surname": [
+  "bellamy"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jbellamy-works-1": [
+   "worksofjosephbel01bell",
+   "The Works of Joseph Bellamy, vol. 1 (Boston: Doctrinal Tract and Book Society, 1853)"
+  ],
+  "jbellamy-works-2": [
+   "worksofjosephbel02bell",
+   "The Works of Joseph Bellamy, vol. 2 (Boston: Doctrinal Tract and Book Society, 1853)"
+  ]
+ },
+ "_alternates": {
+  "worksjosephbell0*edwagoog (1850)": "An earlier printing of the same Works.",
+  "worksofrevjoseph01, 02bell, worksofrevjoseph03belliala, works0*bellgoog, worksrevjosephb0*benegoog (New York, 1811, 3 vols)": "The first collected Works.",
+  "carefulstrictexa00bell; essayonnatureglo00bell*; lettersdialogues00bell; sermonsuponfollo00bell; millenniumorthou00bell": "Separate 18th-century printings."
+ },
+ "_excluded": {
+  "worksofjosephbel0001bell, 0002bell (1987)": "Modern reprint."
+ },
+ "_checks": {
+  "jbellamy-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bellamy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbellamy-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bellamy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

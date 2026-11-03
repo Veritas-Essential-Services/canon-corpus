@@ -1,0 +1,254 @@
+{
+ "_about": "Public-domain John Henry Hobart (1775-1830), Bishop of New York and the leader of the American high-church party, for the Word Hoard: A Companion for the Altar (1804), A Companion for the Festivals and Fasts (1804, his adaptation of Robert Nelson), An Apology for Apostolic Order (1807), Sermons on the Principal Events and Truths of Redemption (1824), his Posthumous Works with a memoir (1832, three volumes), The Christian's Manual (1844), The State of the Departed (1846) and his Correspondence (1911-1912, six volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hobart"
+ ],
+ "_surname": [
+  "john henry hobart",
+  "hobart",
+  "j. h. hobart"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hobart-companion-altar-1804": [
+   "companionforaltahc00hoba",
+   "A companion for the altar : consisting of a short explanation of the Lord's supper, and meditations and prayers, proper to be used before, and during, the receiving of the Holy Communion, according to the form presrcibed by the Protestant Episcopal church, in the United States of America (New York : Printed for Peter A. Mesier, 1804)"
+  ],
+  "hobart-festivals-fasts-1804": [
+   "acompanionforfe00hobagoog",
+   "A companion for the festivals and fasts of the Protestant Episcopal Church in the United States of America : principally selected and altered from Nelson's companion for the festivals and fasts of the Church of England (New-York : Printed and sold by T. &amp; J. Swords, 1804)"
+  ],
+  "hobart-apology-apostolic-order-1807": [
+   "apologyforaposto00hoba",
+   "An apology for apostolic order and its advocates : occasioned by the strictures and denunciations of the Christian's Magazine, in a series of letters addressed to the Rev. John M. Mason (New York : T. and J. Swords, 1807)"
+  ],
+  "hobart-redemption-sermons-1824": [
+   "sermonsonprinci00hobagoog",
+   "Sermons on the principal events and truths of redemption : to which are annexed, an address and dissertation on the state of the departed, and the descent of Christ into hell, vol. 1 (London : Printed for C. and J. Rivington, 1824)"
+  ],
+  "hobart-posthumous-1": [
+   "posthumousworkso01hoba",
+   "The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 1 (New York : Swords, Stanford, 1832)"
+  ],
+  "hobart-posthumous-2": [
+   "posthumousworkso02hoba",
+   "The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 2 (New York : Swords, Stanford, 1832)"
+  ],
+  "hobart-posthumous-3": [
+   "posthumousworkso03hoba",
+   "The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 3 (New York : Swords, Stanford, 1832)"
+  ],
+  "hobart-christians-manual-1844": [
+   "christiansmanual00hoba",
+   "The Christian's manual of faith and devotion : containing dialogues and prayers suited to the various exercises of the Christian life, and an exhortation to ejaculatory prayer, with forms of ejaculatory and other prayers (New York : Stanford and Swords, 1844)"
+  ],
+  "hobart-state-of-departed-1846": [
+   "stateofdeparted00hoba",
+   "The State of the departed (New York : Stanford and Swords, 1846)"
+  ],
+  "hobart-correspondence-1": [
+   "correspondenceof01hoba",
+   "The correspondence of John Henry Hobart, vol. 1 (New York, Priv. print, 1911)"
+  ],
+  "hobart-correspondence-2": [
+   "correspondenceof02hoba",
+   "The correspondence of John Henry Hobart, vol. 2 (New York, Priv. print, 1911)"
+  ],
+  "hobart-correspondence-3": [
+   "correspondenceof03hoba",
+   "The correspondence of John Henry Hobart, vol. 3 (New York, Priv. print, 1911)"
+  ],
+  "hobart-correspondence-4": [
+   "correspondenceof04hoba",
+   "The correspondence of John Henry Hobart, vol. 4 (New York, Priv. print, 1911)"
+  ],
+  "hobart-correspondence-5": [
+   "correspondenceof05hoba",
+   "The correspondence of John Henry Hobart, vol. 5 (New York, Priv. print, 1911)"
+  ],
+  "hobart-correspondence-6": [
+   "correspondenceof06hoba",
+   "The correspondence of John Henry Hobart, vol. 6 (New York, Priv. print, 1911)"
+  ]
+ },
+ "_alternates": {
+  "hobart-copies": "Other printings of the Companion for the Altar (1830-1857), the Festivals and Fasts (1817-1851), the Apology (1844), the Christian's Manual (1849, 1850); the Letter to the Vestry of Trinity Church (1811) and the Reply on Bible societies (1823); other scans of the Posthumous Works and Correspondence"
+ },
+ "_excluded": {
+  "hobart-other": "A Collection of the Essays on Episcopacy (1806), which he edited from the Albany Centinel, mostly by others",
+  "hobart-son": "Instruction and Encouragement for Lent (New York, 1859) [instructionencou00hoba]: by the Rev. J. H. Hobart, D.D., the bishop's son John Henry Hobart (1817-1889), who entered the copyright in 1859; not the bishop's"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hobart-companion-altar-1804": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-festivals-fasts-1804": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-apology-apostolic-order-1807": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1807",
+   "ia_date": "1807",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-redemption-sermons-1824": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-posthumous-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-posthumous-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-posthumous-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-christians-manual-1844": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-state-of-departed-1846": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hobart-correspondence-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1911-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-correspondence-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1911-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-correspondence-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1911-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-correspondence-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1911-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-correspondence-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1911-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobart-correspondence-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry hobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1911-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "_about": "Eleanore Myers Jewett's Wonder Tales from Tibet (Boston: Little, Brown, 1922 on its title page), the Siddhi-kur tales retold for children; her preface says she drew them from Jülg's Kalmükische Märchen (1866) and Busk's English (Sagas from the Far East, 1873) and adapted them freely. Held in batch 21 on UK grounds only; shelved after Adam's ruling of 2026-10-10 (decision 22: US public domain is the rule). Added at the coordinator's standing relay (Adam may veto).",
+ "_author": "Eleanore Myers Jewett",
+ "_name_words": [
+  "jewett"
+ ],
+ "_surname": [
+  "eleanore myers jewett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ejewett-wonder-tales-from-tibet": [
+   66443,
+   "Wonder Tales from Tibet",
+   {
+    "levels": [
+     {
+      "re": "(THE CLEVER PRINCE AND THE STUPID BROTHER|THE PRINCE AND THE SIDDHI-KUR|TALE [A-Z]+)$",
+      "title_next": true
+     }
+    ],
+    "start": "THE CLEVER PRINCE AND THE STUPID BROTHER$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ejewett-wonder-tales-from-tibet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "eleanore myers jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

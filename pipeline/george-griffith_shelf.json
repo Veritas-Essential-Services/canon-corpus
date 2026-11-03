@@ -1,0 +1,164 @@
+{
+ "_about": "George Griffith's writing at Gutenberg: early science fiction and future-war romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George Griffith",
+ "_name_words": [
+  "chetwynd",
+  "george",
+  "griffith"
+ ],
+ "_surname": [
+  "george griffith",
+  "george chetwynd griffith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ggriffith-mummy-and-miss-nitocris": [
+   19231,
+   "The mummy and Miss Nitocris : a phantasy of the fourth dimension"
+  ],
+  "ggriffith-honeymoon-in-space": [
+   19476,
+   "A Honeymoon in Space"
+  ],
+  "ggriffith-romance-of-golden-star": [
+   20173,
+   "The Romance of Golden Star ..."
+  ],
+  "ggriffith-world-peril-of-1910": [
+   24764,
+   "The World Peril of 1910"
+  ],
+  "ggriffith-missionary": [
+   29743,
+   "The Missionary"
+  ],
+  "ggriffith-angel-of-the-revolution": [
+   31324,
+   "The Angel of the Revolution: A Tale of the Coming Terror"
+  ],
+  "ggriffith-world-masters": [
+   38028,
+   "The World Masters"
+  ],
+  "ggriffith-olga-romanoff": [
+   54096,
+   "Olga Romanoff"
+  ],
+  "ggriffith-in-an-unknown-prison-land-an-account-of-convicts-a": [
+   60960,
+   "In an Unknown Prison Land An account of convicts and colonists in New Caledonia with jottings out and home"
+  ],
+  "ggriffith-men-who-have-made-the-empire": [
+   63148,
+   "Men Who Have Made the Empire"
+  ],
+  "ggriffith-virgin-of-the-sun": [
+   73683,
+   "The virgin of the sun"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ggriffith-mummy-and-miss-nitocris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-honeymoon-in-space": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-romance-of-golden-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-world-peril-of-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-missionary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-angel-of-the-revolution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-world-masters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-olga-romanoff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-in-an-unknown-prison-land-an-account-of-convicts-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-men-who-have-made-the-empire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggriffith-virgin-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

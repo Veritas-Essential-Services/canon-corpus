@@ -1,0 +1,80 @@
+{
+ "_about": "H. Wildon Carr (1857-1931), Bergsonian and Leibnizian. Raw IA OCR: Henri Bergson: the Philosophy of Change, The People's Books (London: Jack; the title-page year is garbled in the OCR, and the preface was written in 1911), clean 0.94; The Philosophy of Change (London: Macmillan, 1914), clean 0.96; A Theory of Monads (London: Macmillan, 1922), clean 0.96; Changing Backgrounds in Religion and Ethics (New York: Macmillan, 1927), clean 0.96. His translation of Gentile stands on the giovanni-gentile shelf. Held: The Problem of Truth (People's Books; neither IA copy shows a year) and Leibniz (1929; the only copy found is the 1960 Dover republication). US public domain. No uids minted.",
+ "_author": "H. Wildon Carr",
+ "_name_words": [
+  "herbert",
+  "wildon",
+  "carr"
+ ],
+ "_surname": [
+  "carr",
+  "wildon carr"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carr-henri-bergson-philosophy-of-change": [
+   "henribergsonphil00carriala",
+   "Henri Bergson: the Philosophy of Change (The People's Books; preface 1911)"
+  ],
+  "carr-philosophy-of-change-1914": [
+   "cu31924029119075",
+   "The Philosophy of Change (Macmillan, 1914)"
+  ],
+  "carr-theory-of-monads-1922": [
+   "theoryofmonadsou00carriala",
+   "A Theory of Monads (Macmillan, 1922)"
+  ],
+  "carr-changing-backgrounds-1927": [
+   "changingbackgrou0000herb",
+   "Changing Backgrounds in Religion and Ethics (Macmillan, 1927)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "carr-henri-bergson-philosophy-of-change": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carr-philosophy-of-change-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carr-theory-of-monads-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carr-changing-backgrounds-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

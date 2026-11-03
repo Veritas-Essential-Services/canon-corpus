@@ -1,0 +1,188 @@
+{
+ "_about": "Basil King's novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Basil King",
+ "_name_words": [
+  "basil",
+  "king"
+ ],
+ "_surname": [
+  "basil king"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bking-conquest-of-fear": [
+   9944,
+   "The Conquest of Fear"
+  ],
+  "bking-wild-olive": [
+   13212,
+   "The Wild Olive: A Novel"
+  ],
+  "bking-inner-shrine": [
+   14393,
+   "The Inner Shrine"
+  ],
+  "bking-street-called-straight": [
+   14394,
+   "The Street Called Straight"
+  ],
+  "bking-letter-of-the-contract": [
+   20443,
+   "The Letter of the Contract"
+  ],
+  "bking-dust-flower": [
+   28590,
+   "The Dust Flower"
+  ],
+  "bking-side-of-the-angels": [
+   30301,
+   "The Side Of The Angels: A Novel"
+  ],
+  "bking-high-heart": [
+   35463,
+   "The High Heart"
+  ],
+  "bking-empty-sack": [
+   37412,
+   "The Empty Sack"
+  ],
+  "bking-thread-of-flame": [
+   45898,
+   "The Thread of Flame"
+  ],
+  "bking-going-west": [
+   60395,
+   "Going West"
+  ],
+  "bking-happy-isles": [
+   61344,
+   "The Happy Isles"
+  ],
+  "bking-city-of-comrades": [
+   64255,
+   "The City of Comrades"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bking-conquest-of-fear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-wild-olive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-inner-shrine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-street-called-straight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-letter-of-the-contract": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-dust-flower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-side-of-the-angels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-high-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-empty-sack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-thread-of-flame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-going-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-happy-isles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bking-city-of-comrades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil king",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

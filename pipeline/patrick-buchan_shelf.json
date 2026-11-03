@@ -1,0 +1,41 @@
+{
+ "_about": "Patrick Buchan's Legends of the North: The Guidman o' Inglismill and The Fairy Bride (1873), two Scottish fairy legends in verse. Gutenberg catalogue: Buchan 1814-1881. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Patrick Buchan",
+ "_name_words": [
+  "inglismill"
+ ],
+ "_surname": [
+  "patrick buchan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pbuchan-legends-of-the-north": [
+   37375,
+   "Legends of the North: The Guidman O' Inglismill and The Fairy Bride",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|INTRODUCTION|THE GUIDMAN O' INGLISMILL|THE ROMANCE OF THE FAIRY BRIDE|FOOTNOTES:?)\\.?$|A GLOSSARY TO .*",
+      "max": 120,
+      "strip": "[.:]$|_"
+     }
+    ],
+    "start": "PREFACE\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "pbuchan-legends-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "patrick buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

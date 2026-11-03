@@ -1,0 +1,179 @@
+{
+ "_about": "Public-domain Frederick Franklin Shannon (1877-1947), minister of the Reformed Church on the Heights, Brooklyn, and of Central Church, Chicago, for the Word Hoard: his books of sermons and essays printed before 1930: The Soul's Atlas (1911), The New Personality (1915), The Enchanted Universe (1916), The Breath in the Winds (1918), God's Faith in Man (1919), The Infinite Artist (1921), The Country Faith (1922), The New Greatness (1923), A Moneyless Magnate (1923) and The Unfathomable Christ (1926). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 83 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frederick f. shannon",
+  "frederick franklin shannon",
+  "f. f. shannon"
+ ],
+ "_surname": [
+  "frederick f. shannon",
+  "frederick franklin shannon",
+  "f. f. shannon",
+  "shannon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shannon-souls-atlas": [
+   "soulsatlasothers0000shan",
+   "The soul's atlas and other sermons (New York, Chicago Fleming H. Revell Company, 1911)"
+  ],
+  "shannon-new-personality": [
+   "newpersonalityot0000fred",
+   "The new personality and other sermons (fleming h. revell company, 1915)"
+  ],
+  "shannon-enchanted-universe": [
+   "enchantedunivers00shan",
+   "The enchanted universe, and other sermons (New York, Chicago [etc.] Fleming H. Revell Company, 1916)"
+  ],
+  "shannon-breath-in-winds": [
+   "breathinwindsoth0000fred",
+   "The breath in the winds and other sermons (Fleming H. Revell company, 1918)"
+  ],
+  "shannon-gods-faith-in-man": [
+   "godsfaithinmanot00shan",
+   "God's faith in man : and other sermons (New York ; Chicago : Fleming H. Revell, 1919)"
+  ],
+  "shannon-infinite-artist": [
+   "infiniteartistot00shan",
+   "The infinite artist, and other sermons (New York, The Macmillan company, 1921)"
+  ],
+  "shannon-country-faith": [
+   "countryfaith00shan",
+   "The country faith (New York, The Macmillan company, 1922)"
+  ],
+  "shannon-new-greatness": [
+   "newgreatness011962mbp",
+   "The New Greatness (The Macmillan Company, 1923)"
+  ],
+  "shannon-moneyless-magnate": [
+   "moneylessmagnate00shan",
+   "A moneyless magnate, and other essays (New York, George H. Doran, 1923)"
+  ],
+  "shannon-unfathomable-christ": [
+   "unfathomablechri00shan",
+   "The unfathomable Christ, and other sermons (New York ; Chicago : Fleming H. Revell, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "shannon-other": "Nature's Secrets Revealed (1916), a sex-hygiene book by another Shannon; everything printed 1930 or later"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "shannon-souls-atlas": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shannon-new-personality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shannon-enchanted-universe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shannon-breath-in-winds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shannon-gods-faith-in-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shannon-infinite-artist": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shannon-country-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shannon-new-greatness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shannon-moneyless-magnate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "shannon-unfathomable-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick f. shannon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

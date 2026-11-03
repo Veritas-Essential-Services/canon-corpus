@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Mrs. Anna S. Bushby (d. 1875): The Danes, Sketched by Themselves (1864, 3 vols). Her Andersen is already on another shelf. US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bushby"
+ ],
+ "_surname": [
+  "bushby"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bus-37831": [
+   37831,
+   "The Danes, Sketched by Themselves. Vol. 1 (of 3) A Series of Popular Stories by the Best Danish Authors"
+  ],
+  "bus-37832": [
+   37832,
+   "The Danes, Sketched by Themselves. Vol. 2 (of 3) A Series of Popular Stories by the Best Danish Authors"
+  ],
+  "bus-37833": [
+   37833,
+   "The Danes, Sketched by Themselves. Vol. 3 (of 3) A Series of Popular Stories by the Best Danish Authors"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bushby-the-danes-sketched-by-themselves-vol-1": {
+   "source": "bus-37831",
+   "of": "Various Danish writers (compiled and translated by Mrs. Bushby)",
+   "work": "The Danes, Sketched by Themselves. Vol. 1 (of 3) A Series of Popular Stories by the Best Danish Authors",
+   "translated": "1864 (see the Gutenberg header)",
+   "translator": "Mrs. Anna S. Bushby",
+   "scan_edition": "Project Gutenberg 37831 (clean text)"
+  },
+  "bushby-the-danes-sketched-by-themselves-vol-2": {
+   "source": "bus-37832",
+   "of": "Various Danish writers (compiled and translated by Mrs. Bushby)",
+   "work": "The Danes, Sketched by Themselves. Vol. 2 (of 3) A Series of Popular Stories by the Best Danish Authors",
+   "translated": "1864 (see the Gutenberg header)",
+   "translator": "Mrs. Anna S. Bushby",
+   "scan_edition": "Project Gutenberg 37832 (clean text)"
+  },
+  "bushby-the-danes-sketched-by-themselves-vol-3": {
+   "source": "bus-37833",
+   "of": "Various Danish writers (compiled and translated by Mrs. Bushby)",
+   "work": "The Danes, Sketched by Themselves. Vol. 3 (of 3) A Series of Popular Stories by the Best Danish Authors",
+   "translated": "1864 (see the Gutenberg header)",
+   "translator": "Mrs. Anna S. Bushby",
+   "scan_edition": "Project Gutenberg 37833 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-26491": "Andersen's The Sand-Hills of Jutland is already shelved elsewhere."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bus-37831": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bushby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Bushby"
+  },
+  "bus-37832": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bushby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Bushby"
+  },
+  "bus-37833": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bushby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Bushby"
+  }
+ },
+ "_verified": {
+  "bus-37831": {
+   "pg": 37831,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Bushby"
+  },
+  "bus-37832": {
+   "pg": 37832,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Bushby"
+  },
+  "bus-37833": {
+   "pg": 37833,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Bushby"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

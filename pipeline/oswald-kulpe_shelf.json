@@ -1,0 +1,79 @@
+{
+ "_about": "Oswald Külpe (1862-1915), founder of the Würzburg school. Raw IA OCR: Outlines of Psychology, translated by Edward Bradford Titchener (London: Swan Sonnenschein; first edition November 1895, this copy 1901), clean 0.92; Introduction to Philosophy, translated by W. B. Pillsbury and E. B. Titchener (London: Swan Sonnenschein, 1897), clean 0.92; The Philosophy of the Present in Germany, translated by Maud Lyall Patrick and G. T. W. Patrick (1913), clean 0.94. US public domain. No uids minted.",
+ "_author": "Oswald Külpe",
+ "_name_words": [
+  "oswald",
+  "kulpe",
+  "külpe"
+ ],
+ "_surname": [
+  "kulpe",
+  "külpe"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kulpe-outlines-of-psychology-1895": [
+   "outlinesofpsycho00kluoft",
+   "Outlines of Psychology (Swan Sonnenschein, 1895; 1901 printing)",
+   "tr. Edward Bradford Titchener"
+  ],
+  "kulpe-introduction-to-philosophy-1897": [
+   "introtophilosoph00kulpuoft",
+   "Introduction to Philosophy (Swan Sonnenschein, 1897)",
+   "tr. W. B. Pillsbury and E. B. Titchener"
+  ],
+  "kulpe-philosophy-of-the-present-in-germany-1913": [
+   "philosophyofthep00kulpuoft",
+   "The Philosophy of the Present in Germany (1913)",
+   "tr. Maud Lyall Patrick and G. T. W. Patrick"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "kulpe-outlines-of-psychology-1895": "titchener",
+  "kulpe-introduction-to-philosophy-1897": "pillsbury",
+  "kulpe-philosophy-of-the-present-in-germany-1913": "patrick"
+ },
+ "_checks": {
+  "kulpe-outlines-of-psychology-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kulpe",
+   "translator_claimed": "titchener",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kulpe-introduction-to-philosophy-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kulpe",
+   "translator_claimed": "pillsbury",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kulpe-philosophy-of-the-present-in-germany-1913": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kulpe",
+   "translator_claimed": "patrick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

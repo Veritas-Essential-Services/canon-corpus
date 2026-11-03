@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Thomas Armitage (1819-1896), Baptist minister of the Fifth Avenue Baptist Church, New York, for the Word Hoard: the funeral sermon on Spencer Houghton Cone (1855), The Past, Present and Future of the United States (1862) and A History of the Baptists (1887), from Internet Archive scans. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "armitage"
+ ],
+ "_surname": [
+  "thomas armitage",
+  "t. armitage"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "armitage-cone-funeral": [
+   "funeralsermonond00armi",
+   "The funeral sermon on the death of Rev. Spencer Houghton Cone, D.D., late pastor of the First Baptist church, New York (New York, Holman & Gray, printers, 1855)"
+  ],
+  "armitage-past-present-future": [
+   "pastpresentfutur00armi",
+   "The past, present and future of the United States: a discourse (New York : Printed and published by T. Holman, 1862)"
+  ],
+  "armitage-history-of-baptists": [
+   "cu31924029451782",
+   "A history of the Baptists : traced by their vital principles and practices : from the time of Our Lord and Saviour Jesus Christ to the year 1886 (New York : Bryan, Taylor, 1887)"
+  ]
+ },
+ "_alternates": {
+  "armitage-copies": "The two-volume issue of the History (historyofbaptist01armi, 02armi) and the 1893 printing"
+ },
+ "_excluded": {
+  "armitage-other": "The Education and Employment of the Blind (1886, by Thomas Rhodes Armitage, another man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "armitage-cone-funeral": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas armitage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "armitage-past-present-future": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas armitage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "armitage-history-of-baptists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas armitage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

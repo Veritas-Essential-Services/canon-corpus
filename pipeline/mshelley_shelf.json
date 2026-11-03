@@ -1,0 +1,36 @@
+{
+ "_about": "Mary Shelley's (1797-1851) Frankenstein, 1831 text as on Gutenberg. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Mary Wollstonecraft Shelley",
+ "_name_words": [
+  "mary",
+  "wollstonecraft",
+  "shelley"
+ ],
+ "_surname": [
+  "mary wollstonecraft shelley",
+  "mary shelley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mshelley-frankenstein": [
+   84,
+   "Frankenstein; or, The Modern Prometheus (1818; 1831 text)",
+   {
+    "chapre": "^(Letter|Chapter) \\d+\\s*$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mshelley-frankenstein": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "_about": "Sir Edward Burnett Tylor (1832-1917), founder of cultural anthropology. Gutenberg: Primitive Culture (2 vols.); Anthropology; Anahuac, or Mexico and the Mexicans. Raw IA OCR: Researches into the Early History of Mankind and the Development of Civilization (London: John Murray, 1865), clean 0.91. US public domain. No uids minted.",
+ "_author": "Edward Burnett Tylor",
+ "_name_words": [
+  "edward",
+  "burnett",
+  "tylor"
+ ],
+ "_surname": [
+  "tylor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tylor-primitive-culture-v1": [
+   70458,
+   "Primitive Culture, vol. 1"
+  ],
+  "tylor-primitive-culture-v2": [
+   70484,
+   "Primitive Culture, vol. 2"
+  ],
+  "tylor-anthropology": [
+   71233,
+   "Anthropology"
+  ],
+  "tylor-anahuac": [
+   13115,
+   "Anahuac: or, Mexico and the Mexicans"
+  ]
+ },
+ "internet_archive": {
+  "tylor-researches-early-history-mankind-1865": [
+   "researchesintoea00tylorich",
+   "Researches into the Early History of Mankind (Murray, 1865)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tylor-primitive-culture-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tylor-primitive-culture-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tylor-anthropology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tylor-anahuac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tylor-researches-early-history-mankind-1865": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "_about": "TRANSLATOR SHELF: Elise L. Lathrop: three novels by Ossip Schubin (Lola Kirschner): Boris Lensky (1891), Asbeïn (1890) and Felix Lanzberg's Expiation (1890). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "elise l. lathrop",
+  "elise lathrop",
+  "lathrop"
+ ],
+ "_surname": [
+  "elise l. lathrop",
+  "elise lathrop",
+  "lathrop"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ela-35396": [
+   35396,
+   "Asbeïn: From the Life of a Virtuoso"
+  ],
+  "ela-35491": [
+   35491,
+   "Boris Lensky"
+  ],
+  "ela-35571": [
+   35571,
+   "Felix Lanzberg's Expiation"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "elise-lathrop-schubin-asbein-from-the-life-of-a-virtuoso": {
+   "source": "ela-35396",
+   "of": "Ossip Schubin",
+   "work": "Asbeïn: From the Life of a Virtuoso",
+   "translated": "1890-1891 (see the Gutenberg header)",
+   "translator": "Elise L. Lathrop",
+   "scan_edition": "Project Gutenberg 35396 (clean text)"
+  },
+  "elise-lathrop-schubin-boris-lensky": {
+   "source": "ela-35491",
+   "of": "Ossip Schubin",
+   "work": "Boris Lensky",
+   "translated": "1890-1891 (see the Gutenberg header)",
+   "translator": "Elise L. Lathrop",
+   "scan_edition": "Project Gutenberg 35491 (clean text)"
+  },
+  "elise-lathrop-schubin-felix-lanzberg-s-expiation": {
+   "source": "ela-35571",
+   "of": "Ossip Schubin",
+   "work": "Felix Lanzberg's Expiation",
+   "translated": "1890-1891 (see the Gutenberg header)",
+   "translator": "Elise L. Lathrop",
+   "scan_edition": "Project Gutenberg 35571 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ela-35396": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elise l. lathrop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elise Lathrop"
+  },
+  "ela-35491": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elise l. lathrop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elise Lathrop"
+  },
+  "ela-35571": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elise l. lathrop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elise Lathrop"
+  }
+ },
+ "_verified": {
+  "ela-35396": {
+   "pg": 35396,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elise Lathrop"
+  },
+  "ela-35491": {
+   "pg": 35491,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elise Lathrop"
+  },
+  "ela-35571": {
+   "pg": 35571,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elise Lathrop"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,44 @@
+{
+ "_about": "N. B. Dennys's The Folk-Lore of China, and Its Affinities with That of the Aryan and Semitic Races (Hongkong, preface dated November 1876). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "N. B. Dennys",
+ "_name_words": [
+  "dennys"
+ ],
+ "_surname": [
+  "n. b. dennys"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dennys-folk-lore-of-china": [
+   76198,
+   "The Folk-Lore of China",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+\\.—[A-Z][^a-z]*(?:&c\\.)?$|NOTES$",
+      "max": 120
+     },
+     {
+      "re": "\\d+\\.—[A-Z][^a-z]*$",
+      "max": 120
+     }
+    ],
+    "start": "I\\.—INTRODUCTORY\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "dennys-folk-lore-of-china": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "n. b. dennys",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

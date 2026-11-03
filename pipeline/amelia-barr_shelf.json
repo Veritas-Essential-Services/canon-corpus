@@ -1,0 +1,409 @@
+{
+ "_about": "Amelia E. Barr's historical and domestic novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Amelia E. Barr",
+ "_name_words": [
+  "barr"
+ ],
+ "_surname": [
+  "amelia e. barr"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aebarr-remember-the-alamo": [
+   287,
+   "Remember the Alamo"
+  ],
+  "aebarr-man-between": [
+   787,
+   "The Man Between: An International Romance"
+  ],
+  "aebarr-maid-of-maiden-lane": [
+   5757,
+   "The Maid of Maiden Lane"
+  ],
+  "aebarr-hallam-succession": [
+   6806,
+   "The Hallam Succession"
+  ],
+  "aebarr-a-daughter-of-fife": [
+   7062,
+   "A Daughter of Fife"
+  ],
+  "aebarr-a-knight-of-the-nets": [
+   9374,
+   "A Knight of the Nets"
+  ],
+  "aebarr-scottish-sketches": [
+   14494,
+   "Scottish sketches",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-winter-evening-tales": [
+   16222,
+   "Winter Evening Tales"
+  ],
+  "aebarr-squire-of-sandal-side": [
+   16258,
+   "The Squire of Sandal-Side: A Pastoral Romance"
+  ],
+  "aebarr-measure-of-a-man": [
+   16453,
+   "The Measure of a Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-bow-of-orange-ribbon": [
+   17173,
+   "The Bow of Orange Ribbon: A Romance of New York"
+  ],
+  "aebarr-an-orkney-maid": [
+   29752,
+   "An Orkney Maid",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-a-singer-from-the-sea": [
+   29909,
+   "A Singer from the Sea",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-prisoners-of-conscience": [
+   31835,
+   "Prisoners of Conscience",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-christine": [
+   32085,
+   "Christine: A Fife Fisher Girl",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-maids-wives-and-bachelors": [
+   32135,
+   "Maids, Wives, and Bachelors",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-jan-vedders-wife": [
+   32144,
+   "Jan Vedder's Wife",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-was-it-right-to-forgive-a-domestic-romance": [
+   33195,
+   "Was It Right to Forgive? A Domestic Romance"
+  ],
+  "aebarr-a-rose-of-a-hundred-leaves": [
+   33599,
+   "A Rose of a Hundred Leaves: A Love Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-i-thou-and-the-other-one": [
+   34628,
+   "I, Thou, and the Other One: A Love Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-a-song-of-a-single-note": [
+   35358,
+   "A Song of a Single Note: A Love Story"
+  ],
+  "aebarr-all-the-days-of-my-life": [
+   35706,
+   "All the Days of My Life: An Autobiography The Red Leaves of a Human Heart"
+  ],
+  "aebarr-a-reconstructed-marriage": [
+   36490,
+   "A Reconstructed Marriage",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-playing-with-fire": [
+   36538,
+   "Playing With Fire",
+   {
+    "contents_only": true
+   }
+  ],
+  "aebarr-paper-cap": [
+   50089,
+   "The Paper Cap: A Story of Love and Labor"
+  ],
+  "aebarr-lions-whelp": [
+   50978,
+   "The Lion's Whelp: A Story of Cromwell's Time"
+  ],
+  "aebarr-belle-of-bowling-green": [
+   76576,
+   "The Belle of Bowling Green",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58440": "PG 58440: Gutenberg's index of the author's works, not a book."
+ },
+ "_checks": {
+  "aebarr-remember-the-alamo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-man-between": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-maid-of-maiden-lane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-hallam-succession": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-a-daughter-of-fife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-a-knight-of-the-nets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-scottish-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-winter-evening-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-squire-of-sandal-side": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-measure-of-a-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-bow-of-orange-ribbon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-an-orkney-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-a-singer-from-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-prisoners-of-conscience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-christine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-maids-wives-and-bachelors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-jan-vedders-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-was-it-right-to-forgive-a-domestic-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-a-rose-of-a-hundred-leaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-i-thou-and-the-other-one": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-a-song-of-a-single-note": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-all-the-days-of-my-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-a-reconstructed-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-playing-with-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-paper-cap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-lions-whelp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebarr-belle-of-bowling-green": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amelia e. barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

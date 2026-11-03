@@ -1,0 +1,194 @@
+{
+ "_about": "Public-domain Harry John Wilmot-Buxton (1843-1911), rector of Ifield and later vicar of St Giles-in-the-Wood, North Devon, a mission preacher, for the Word Hoard: Waterside Mission Sermons, Short Sermons for Children, The Lord's Song (plain sermons on hymns), The Life Worth Living, The Children's Bread, Parable Sermons for Children, New and Contrite Hearts, The Battle of Life, The Tree of Life, Day by Day Duty, and God's Heroes. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 110 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "h. j. wilmot-buxton",
+  "wilmot-buxton",
+  "wilmot buxton"
+ ],
+ "_surname": [
+  "h. j. wilmot-buxton",
+  "wilmot-buxton",
+  "wilmot buxton",
+  "buxton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wbuxton-waterside": [
+   "watersidemissio00buxtgoog",
+   "Waterside mission sermons. Ser. 1, 3rd ed.; ser. 2 (catalogued 1875)"
+  ],
+  "wbuxton-short-sermons": [
+   "shortsermonsfor00buxtgoog",
+   "Short sermons for children (catalogued 1876)"
+  ],
+  "wbuxton-lords-song": [
+   "lordssongplains00buxtgoog",
+   "The Lord's song: plain sermons on hymns (catalogued 1880)"
+  ],
+  "wbuxton-life-worth-living": [
+   "lifeworthliving00buxtgoog",
+   "The life worth living, mission sermons (W. Skeffington & Son, 1882)"
+  ],
+  "wbuxton-childrens-bread": [
+   "childrensbreadsh00wilm",
+   "The children's bread; short sermons to children (New York : James Pott, 1883)"
+  ],
+  "wbuxton-parable-sermons": [
+   "parablesermonsfo00wilm",
+   "Parable sermons for children (New York, James Pott, 1884)"
+  ],
+  "wbuxton-contrite-hearts": [
+   "NewAndContriteHearts",
+   "New and contrite hearts : forty brief meditations for Lent (New York : J. Pott, 1888)"
+  ],
+  "wbuxton-battle-of-life": [
+   "battleoflifeseri0000wilm",
+   "The battle of life : a series of mission sermons, including courses of sermons on the parable of the ten virgins and the parable of the prodigal son (London : Skeffington, 1895)"
+  ],
+  "wbuxton-tree-of-life": [
+   "thetreeoflifepla00wilmuoft",
+   "The tree of life : plain sermons on the fruits of the spirit (London : Skeffington, 1898)"
+  ],
+  "wbuxton-day-by-day": [
+   "daybydaydutythir0000wilm",
+   "Day by day duty : thirty plain sermons, including many for the principal church seasons (London : Skeffington & Son, 1905)"
+  ],
+  "wbuxton-gods-heroes": [
+   "godsheroesaserie00wilmuoft",
+   "God's heroes : a series of plain sermons (London : Skeffington & son, 1907)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wbuxton-other": "His art-history handbooks and the novel The Mysteries of Isis are left to other lanes; the anaesthetics books are by Dudley Wilmot Buxton and the history books by E. M. Wilmot-Buxton"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wbuxton-waterside": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbuxton-short-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. j. wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbuxton-lords-song": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbuxton-life-worth-living": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbuxton-childrens-bread": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbuxton-parable-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbuxton-contrite-hearts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. j. wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbuxton-battle-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbuxton-tree-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. j. wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbuxton-day-by-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbuxton-gods-heroes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmot-buxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

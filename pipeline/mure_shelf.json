@@ -1,0 +1,91 @@
+{
+ "_about": "William Mure of Caldwell (1799-1860), A Critical History of the Language and Literature of Antient Greece, 5 vols. (London: Longman, 1850-1857; vol. I in the second edition of 1854): A Critical History of the Language and Literature of Antient Greece, second edition, vol. I (London: Longman, 1854); A Critical History of the Language and Literature of Antient Greece, vol. II (London: Longman, 1854); A Critical History of the Language and Literature of Antient Greece, vol. III (London: Longman, 1850); A Critical History of the Language and Literature of Antient Greece, vol. IV (London: Longman, 1853); A Critical History of the Language and Literature of Antient Greece, vol. V (London: Longman, 1857), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "mure"
+ ],
+ "_surname": [
+  "william mure",
+  "mure, william"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mure-critical-history-greek-literature-v1-1854": [
+   "criticalhistoryo01mureuoft",
+   "A Critical History of the Language and Literature of Antient Greece, second edition, vol. I (London: Longman, 1854)"
+  ],
+  "mure-critical-history-greek-literature-v2-1854": [
+   "acriticalhistor06muregoog",
+   "A Critical History of the Language and Literature of Antient Greece, vol. II (London: Longman, 1854)"
+  ],
+  "mure-critical-history-greek-literature-v3-1850": [
+   "criticalhistoryo03mureuoft",
+   "A Critical History of the Language and Literature of Antient Greece, vol. III (London: Longman, 1850)"
+  ],
+  "mure-critical-history-greek-literature-v4-1853": [
+   "acriticalhistor04muregoog",
+   "A Critical History of the Language and Literature of Antient Greece, vol. IV (London: Longman, 1853)"
+  ],
+  "mure-critical-history-greek-literature-v5-1857": [
+   "criticalhistoryo05mureuoft",
+   "A Critical History of the Language and Literature of Antient Greece, vol. V (London: Longman, 1857)"
+  ]
+ },
+ "_checks": {
+  "mure-critical-history-greek-literature-v1-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william mure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-67",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mure-critical-history-greek-literature-v2-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william mure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mure-critical-history-greek-literature-v3-1850": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william mure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850-57",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mure-critical-history-greek-literature-v4-1853": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william mure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mure-critical-history-greek-literature-v5-1857": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william mure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-67",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "_about": "Woodrow Wilson (1856-1924), American political scientist, president of Princeton and of the United States; this shelf keeps his political theory and essays, not his state papers. Gutenberg: Congressional Government (1885); An Old Master, and Other Political Essays (1893); Mere Literature, and Other Essays (1896); On Being Human (1897); When a Man Comes to Himself (1901); The New Freedom (1913). Raw IA OCR: The State, elements of historical and practical politics (Boston: D. C. Heath, revised edition 1911; first 1889), clean 0.92. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Woodrow Wilson",
+ "_name_words": [
+  "woodrow",
+  "wilson"
+ ],
+ "_surname": [
+  "woodrow wilson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wilson-congressional-government": [
+   35861,
+   "Congressional Government (1885)"
+  ],
+  "wilson-old-master": [
+   71776,
+   "An Old Master, and Other Political Essays (1893)"
+  ],
+  "wilson-mere-literature": [
+   66074,
+   "Mere Literature, and Other Essays (1896)"
+  ],
+  "wilson-on-being-human": [
+   5068,
+   "On Being Human (1897)"
+  ],
+  "wilson-when-a-man-comes-to-himself": [
+   5078,
+   "When a Man Comes to Himself (1901)"
+  ],
+  "wilson-new-freedom": [
+   14811,
+   "The New Freedom (1913)"
+  ]
+ },
+ "internet_archive": {
+  "wilson-the-state-1911": [
+   "cu31924024903043",
+   "The State (Heath, revised edition 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "wilson-congressional-government": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodrow wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-old-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodrow wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-mere-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodrow wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-on-being-human": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodrow wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-when-a-man-comes-to-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodrow wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-new-freedom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodrow wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-the-state-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodrow wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

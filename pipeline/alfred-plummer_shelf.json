@@ -1,0 +1,193 @@
+{
+ "_about": "Public-domain Alfred Plummer (1841-1926), Master of University College, Durham, for the Word Hoard: his commentaries on Luke (International Critical Commentary), Matthew (1910), Second Corinthians (Cambridge Greek Testament, 1903, and ICC, 1915), the Gospel and Epistles of St John (Cambridge Bible, 1890-91), the Pastoral Epistles and James and Jude (Expositor's Bible, 1888 and 1907), English Church History (1904 and 1907) and The Church of the Early Fathers (1888), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "plummer"
+ ],
+ "_surname": [
+  "alfred plummer",
+  "plummer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "plummer-pastoral-epistles": [
+   39628,
+   "The Pastoral Epistles, The Expositor's Bible, ed. W. Robertson Nicoll (Toronto: Willard Tract Depository, 1888)"
+  ],
+  "plummer-james-jude": [
+   47337,
+   "The General Epistles of St. James and St. Jude, The Expositor's Bible, sixth edition (London: Hodder and Stoughton, 1907)"
+  ]
+ },
+ "internet_archive": {
+  "plummer-luke-icc": [
+   "acriticalandexeg00plumuoft",
+   "A Critical and Exegetical Commentary on the Gospel according to S. Luke, International Critical Commentary (Edinburgh: T. & T. Clark; New York: Scribner's; year not read, catalogued 1896)"
+  ],
+  "plummer-matthew": [
+   "exegeticalcommen00plumuoft",
+   "An Exegetical Commentary on the Gospel according to S. Matthew, second edition (London: Elliot Stock, 1910)"
+  ],
+  "plummer-2-corinthians-cgt": [
+   "secondepistleofp00plum",
+   "The Second Epistle of Paul the Apostle to the Corinthians, Cambridge Greek Testament (Cambridge: University Press, 1903)"
+  ],
+  "plummer-2-corinthians-icc": [
+   "criticalexesecep00plumuoft",
+   "A Critical and Exegetical Commentary on the Second Epistle of St Paul to the Corinthians, International Critical Commentary (Edinburgh: T. & T. Clark; year OCR'd '1015', 1915)"
+  ],
+  "plummer-epistles-john": [
+   "epistlesofstjohn00plumuoft",
+   "The Epistles of S. John, Cambridge Bible for Schools (Cambridge: University Press, 1890)"
+  ],
+  "plummer-gospel-john": [
+   "gospelaccordingt00plumuoft",
+   "The Gospel according to S. John, Cambridge Bible for Schools (Cambridge: University Press, 1891)"
+  ],
+  "plummer-church-history-1575-1649": [
+   "englishchurchpar00plumuoft",
+   "English Church History from the Death of Archbishop Parker to the Death of King Charles I (Edinburgh: T. & T. Clark, 1904)"
+  ],
+  "plummer-church-history-1649-1702": [
+   "englishchurchhis00plumuoft",
+   "English Church History from the Death of Charles I to the Death of William III (Edinburgh: T. & T. Clark, 1907)"
+  ],
+  "plummer-early-fathers": [
+   "churchofearlyfat00plum",
+   "The Church of the Early Fathers, third edition (London: Longmans, Green, 1888)"
+  ]
+ },
+ "_alternates": {
+  "plummer-copies": "CCEL plummer/expositorpastoral (1888) and expositorjamesjude (1907); the IA Pastoral Epistles (1888) and Armstrong copy; later Luke printings (1898-1920); English Church History 1509-1575 (year garbled); The Church of England in the Eighteenth Century (Methuen, year not read)"
+ },
+ "_excluded": {
+  "plummer-joint": "The ICC First Corinthians (1911), written jointly with Archibald Robertson, title page silent on who wrote which part"
+ },
+ "_identity_checked": {
+  "plummer-2-corinthians-icc": {
+   "author": "title page read: 'ALFRED PLUMMER' (OCR 'ALFRED FLUMMER')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "plummer-pastoral-epistles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plummer-james-jude": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plummer-luke-icc": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-2-corinthians-cgt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-2-corinthians-icc": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-epistles-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-gospel-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-church-history-1575-1649": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-church-history-1649-1702": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plummer-early-fathers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "plummer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

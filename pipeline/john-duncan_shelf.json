@@ -1,0 +1,43 @@
+{
+ "_about": "John 'Rabbi' Duncan (1796-1870), Free Church professor of Hebrew at New College, Edinburgh: Colloquia Peripatetica, notes of his conversations taken down by William Knight (Edinburgh; Princeton copy). The words are Duncan's as recorded by Knight. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "john duncan",
+  "dr duncan",
+  "dr. duncan",
+  "rabbi duncan"
+ ],
+ "_surname": [
+  "john duncan",
+  "dr duncan",
+  "dr. duncan",
+  "rabbi duncan"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "duncan-colloquia-peripatetica": [
+   "colloqt00dunc",
+   "Colloquia Peripatetica, notes of conversations by William Knight (Edinburgh)"
+  ]
+ },
+ "_alternates": {
+  "colloquiaperipat00dunciala (1871), colloquiaperipat00dun (1873), colloquiaperipat02dunciala (1879), colloquiaperipat00dunc (1907), colloquiaperipa00dunc, india.history.resource.73156": "Other editions and copies."
+ },
+ "_pending": {
+  "The Pulpit and Communion Table (1874)": "Not found on Internet Archive in this search."
+ },
+ "_excluded": {},
+ "_checks": {
+  "duncan-colloquia-peripatetica": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dr. duncan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

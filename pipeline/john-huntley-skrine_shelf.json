@@ -1,0 +1,210 @@
+{
+ "_about": "Public-domain John Huntley Skrine, Warden of Glenalmond and Anglican priest, for the Word Hoard: his Glenalmond sermons (A Goodly Heritage, The Mountain Mother), The Heart Counsel, Pastor Agnorum, What is Faith?, Pastor Ovium, Sermons to Pastors and Masters, Creed and the Creeds (his Bampton Lectures), Miracle and History, Pastor Futurus, The Survival of Jesus, and his memoir of Edward Thring. His verse dramas and lyrics are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 126 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john huntley skrine",
+  "j. huntley skrine",
+  "j. h. skrine",
+  "skrine"
+ ],
+ "_surname": [
+  "skrine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "skrine-thring": [
+   "memoryofedwardth00skri",
+   "A memory of Edward Thring (London New York, Macmillan, 1889)"
+  ],
+  "skrine-goodly-heritage": [
+   "goodlyheritagete0000skri",
+   "A goodly heritage. A term's sermons at Glenalmond (Westminster, 1896)"
+  ],
+  "skrine-heart-counsel": [
+   "heartcounselothe0000john",
+   "The heart counsel and other sermons (Skeffington and Sons, Piccadilly, W. Publishers, 1899)"
+  ],
+  "skrine-mountain-mother": [
+   "mountainmothergl0000skri",
+   "The mountain mother : Glenalmond sermons (London : Skeffington & Son, 1902)"
+  ],
+  "skrine-pastor-agnorum": [
+   "pastoragnorumsch00skririch",
+   "Pastor agnorum : a schoolmaster's afterthoughts (London ; New York : Longmans, Green, 1902)"
+  ],
+  "skrine-what-is-faith": [
+   "whatisfaithhermi0000skri",
+   "What is faith? : a hermit's epistle to some that are without (London ; New York, Bombay, and Calcutta : Longmans, Green, 1907)"
+  ],
+  "skrine-pastor-ovium": [
+   "pastoroviumdaybo0000skri",
+   "Pastor ovium. The day-book of a country parson (London, New York, 1909)"
+  ],
+  "skrine-sermons-pastors": [
+   "sermonstopastors0000skri",
+   "Sermons to pastors and masters (London ; New York : Longmans, Green, and Co., 1910)"
+  ],
+  "skrine-creed": [
+   "creedcreedstheir00skri",
+   "Creed and the creeds, their function in religion :  being the Bampton lectures of 1911 (London ; New York : Longmans, Green, and Co., 1911)"
+  ],
+  "skrine-miracle-history": [
+   "miraclehistoryst0000skri",
+   "Miracle and history : a study in the virgin birth and the resurrection (London : Longmans, Green, 1912)"
+  ],
+  "skrine-pastor-futurus": [
+   "pastorfuturus0000john",
+   "PASTOR FUTURUS (catalogued 1914)"
+  ],
+  "skrine-survival-of-jesus": [
+   "survivalofjesusp00skri",
+   "The survival of Jesus; a priest's study in divine telepathy (New York, Hodder & Stoughton, George H. Doran company, 1917)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "skrine-verse": "Columba, Joan the Maid, Songs of the Maid, The Queen's Highway and Under Two Queens are verse; Uppingham by the Sea is a school narrative; the Virgil is a school edition",
+  "skrine-dups": "second scans of Pastor Agnorum"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "skrine-survival-of-jesus": "OCR of the title page: \"THE SURVIVAL OF JESUS A Priest's Study in Divine Telepathy BY JOHN HUNTLEY SERINE, D.D. AUTHOR OF \\\"Creed and the Creeds\\\" (Bampton Lectures) \\\"Pastor Ovium,\\\" \\\"Pastor Futurus\\\"\" (SERINE is OCR for Skrine)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "skrine-thring": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "skrine-goodly-heritage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-heart-counsel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-mountain-mother": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-pastor-agnorum": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "skrine-what-is-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-pastor-ovium": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-sermons-pastors": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-creed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-miracle-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-pastor-futurus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "skrine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "skrine-survival-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain Samuel H. Virgin, Congregational minister in New York, for the Word Hoard: Mastership of the Sea (a discourse before the American Seamen's Friend Society) and Spiritual Sanity and Other Sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 127 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel h. virgin",
+  "samuel henderson virgin",
+  "s. h. virgin",
+  "virgin"
+ ],
+ "_surname": [
+  "virgin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "virgin-mastership-of-sea": [
+   "mastershipofsead00virg",
+   "Mastership of the sea : a discourse before the American Seamen's Friend Society, at its sixty-sixth anniversary, Sunday evening, May 7th, 1894 in the Pilgrim Church, Madison Avenue and One Hundred and Twenty-First Street, New York City / by Samuel H. Virgin (New York : American Seamen's Friend Society, 1894)"
+  ],
+  "virgin-spiritual-sanity": [
+   "spiritualsanityo00virg",
+   "Spiritual sanity and other sermons (New York, Boston [etc.] American tract society, 1905)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "virgin-mastership-of-sea": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virgin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "virgin-spiritual-sanity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virgin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

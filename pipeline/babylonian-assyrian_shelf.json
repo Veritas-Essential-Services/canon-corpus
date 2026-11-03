@@ -1,0 +1,506 @@
+{
+ "_about": "SHELF of Babylonian, Assyrian and Sumerian texts in English before 1931: the Epic of Gilgamesh three ways (Thompson's hexameters 1928, Jastrow and Clay's Yale tablet 1920, Langdon's Pennsylvania tablet 1917) and the British Museum's Deluge and Gilgamish (1920); Langdon's Sumerian Epic of Paradise (1915), Sumerian Liturgies and Psalms (1919) and Babylonian Epic of Creation (1923); Campbell Thompson's Devils and Evil Spirits of Babylonia (1903-04); Harper's Code of Hammurabi (1904) and his anthology Assyrian and Babylonian Literature (1901). King's Seven Tablets and Johns's Hammurabi are on the reading-lists branch. Each title gates on its own translator. Printings before 1931 only; the AMS Press reprint of 1976 is not used. US public domain. Added 2026-10-17 by lane C (round 73); Adam may veto. No uids minted.",
+ "_name_words": [
+  "albert t. clay",
+  "budge",
+  "campbell thompson",
+  "clay",
+  "e. a. wallis budge",
+  "harper",
+  "jastrow",
+  "langdon",
+  "morris jastrow",
+  "r. campbell thompson",
+  "r. f. harper",
+  "reginald campbell thompson",
+  "robert francis harper",
+  "s. langdon",
+  "stephen langdon",
+  "wallis budge"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "albert t. clay",
+  "budge",
+  "campbell thompson",
+  "clay",
+  "e. a. wallis budge",
+  "harper",
+  "jastrow",
+  "langdon",
+  "morris jastrow",
+  "r. campbell thompson",
+  "r. f. harper",
+  "reginald campbell thompson",
+  "robert francis harper",
+  "s. langdon",
+  "stephen langdon",
+  "wallis budge"
+ ],
+ "_surname_by_slug": {
+  "bab-gilgamish-thompson": [
+   "campbell thompson",
+   "r. campbell thompson",
+   "reginald campbell thompson"
+  ],
+  "bab-gilgamesh-old-babylonian": [
+   "jastrow",
+   "morris jastrow",
+   "clay",
+   "albert t. clay"
+  ],
+  "bab-gilgamish-langdon": [
+   "langdon",
+   "stephen langdon",
+   "s. langdon"
+  ],
+  "bab-deluge-and-gilgamish": [
+   "budge",
+   "e. a. wallis budge",
+   "wallis budge"
+  ],
+  "bab-sumerian-epic-of-paradise": [
+   "langdon",
+   "stephen langdon",
+   "s. langdon"
+  ],
+  "bab-sumerian-liturgies": [
+   "langdon",
+   "stephen langdon",
+   "s. langdon"
+  ],
+  "bab-epic-of-creation": [
+   "langdon",
+   "stephen langdon",
+   "s. langdon"
+  ],
+  "bab-devils-and-evil-spirits-1": [
+   "campbell thompson",
+   "r. campbell thompson",
+   "reginald campbell thompson"
+  ],
+  "bab-devils-and-evil-spirits-2": [
+   "campbell thompson",
+   "r. campbell thompson",
+   "reginald campbell thompson"
+  ],
+  "bab-code-of-hammurabi-harper": [
+   "harper",
+   "robert francis harper",
+   "r. f. harper"
+  ],
+  "bab-assyrian-and-babylonian-literature": [
+   "harper",
+   "robert francis harper",
+   "r. f. harper"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bab-gilgamish-thompson": [
+   "thompson-1928-gilgamesh",
+   "The Epic of Gilgamish: a New Translation ... rendered literally into English Hexameters (1928)",
+   "Thompson_1928_Gilgamesh_djvu.txt"
+  ],
+  "bab-gilgamesh-old-babylonian": [
+   "anoldbabylonianv00jastuoft",
+   "An Old Babylonian Version of the Gilgamesh Epic (1920)"
+  ],
+  "bab-gilgamish-langdon": [
+   "epicofgilgamish00unse",
+   "The Epic of Gilgamish (1917)"
+  ],
+  "bab-deluge-and-gilgamish": [
+   "babylonianstoryo00brituoft",
+   "The Babylonian Story of the Deluge and the Epic of Gilgamish (1920)"
+  ],
+  "bab-sumerian-epic-of-paradise": [
+   "sumerianepicofpa00lang_0",
+   "Sumerian Epic of Paradise, the Flood and the Fall of Man (1915)"
+  ],
+  "bab-sumerian-liturgies": [
+   "in.ernet.dli.2015.166777",
+   "Sumerian Liturgies and Psalms (1919)",
+   "2015.166777.Sumerian-Liturgies-And-Psalms_djvu.txt"
+  ],
+  "bab-epic-of-creation": [
+   "in.gov.ignca.33817",
+   "The Babylonian Epic of Creation (1923)",
+   "33817_djvu.txt"
+  ],
+  "bab-devils-and-evil-spirits-1": [
+   "devilsevilspirit01thomuoft",
+   "The Devils and Evil Spirits of Babylonia, vol. I (1903)"
+  ],
+  "bab-devils-and-evil-spirits-2": [
+   "devilsevilspirit02thomuoft",
+   "The Devils and Evil Spirits of Babylonia, vol. II (1904)"
+  ],
+  "bab-code-of-hammurabi-harper": [
+   "codeofhammurabik00harpuoft",
+   "The Code of Hammurabi, King of Babylon, about 2250 B.C. (1904)"
+  ],
+  "bab-assyrian-and-babylonian-literature": [
+   "assyrianbabylon00harp",
+   "Assyrian and Babylonian Literature: Selected Translations (1901)"
+  ]
+ },
+ "titles": {
+  "babylonian-assyrian-gilgamish-thompson": {
+   "source": "bab-gilgamish-thompson",
+   "of": "The Epic of Gilgamesh (Standard Babylonian version)",
+   "work": "The Epic of Gilgamish: a New Translation ... rendered literally into English Hexameters",
+   "translated": 1928,
+   "translator": "R. Campbell Thompson",
+   "scan_edition": "Luzac & Co., London 1928; Google scan"
+  },
+  "babylonian-assyrian-gilgamesh-old-babylonian": {
+   "source": "bab-gilgamesh-old-babylonian",
+   "of": "The Old Babylonian Gilgamesh (the Yale tablet)",
+   "work": "An Old Babylonian Version of the Gilgamesh Epic",
+   "translated": 1920,
+   "translator": "Morris Jastrow and Albert T. Clay",
+   "scan_edition": "Yale University Press, Yale Oriental Series, Researches vol. IV part 3, New Haven 1920; University of Toronto scan"
+  },
+  "babylonian-assyrian-gilgamish-langdon": {
+   "source": "bab-gilgamish-langdon",
+   "of": "The Old Babylonian Gilgamesh (the Pennsylvania tablet)",
+   "work": "The Epic of Gilgamish",
+   "translated": 1917,
+   "translator": "Stephen Langdon",
+   "scan_edition": "University of Pennsylvania, University Museum, Publications of the Babylonian Section vol. X no. 3, Philadelphia 1917"
+  },
+  "babylonian-assyrian-deluge-and-gilgamish": {
+   "source": "bab-deluge-and-gilgamish",
+   "of": "The Babylonian flood story and the Epic of Gilgamesh (summary and extracts)",
+   "work": "The Babylonian Story of the Deluge and the Epic of Gilgamish",
+   "translated": 1920,
+   "translator": "E. A. Wallis Budge (British Museum)",
+   "scan_edition": "British Museum, London 1920; University of Toronto scan",
+   "note": "A British Museum handbook; Budge's other translations are on the budge shelf."
+  },
+  "babylonian-assyrian-sumerian-epic-of-paradise": {
+   "source": "bab-sumerian-epic-of-paradise",
+   "of": "The Sumerian Eridu and flood texts",
+   "work": "Sumerian Epic of Paradise, the Flood and the Fall of Man",
+   "translated": 1915,
+   "translator": "Stephen Langdon",
+   "scan_edition": "University of Pennsylvania, University Museum, Publications of the Babylonian Section vol. X no. 1, Philadelphia 1915"
+  },
+  "babylonian-assyrian-sumerian-liturgies": {
+   "source": "bab-sumerian-liturgies",
+   "of": "Sumerian liturgies and psalms",
+   "work": "Sumerian Liturgies and Psalms",
+   "translated": 1919,
+   "translator": "Stephen Langdon",
+   "scan_edition": "University of Pennsylvania, University Museum, Publications of the Babylonian Section vol. X no. 4, Philadelphia 1919; Digital Library of India scan"
+  },
+  "babylonian-assyrian-epic-of-creation": {
+   "source": "bab-epic-of-creation",
+   "of": "The Enuma Elish",
+   "work": "The Babylonian Epic of Creation",
+   "translated": 1923,
+   "translator": "Stephen Langdon",
+   "scan_edition": "Clarendon Press, Oxford 1923; IGNCA scan",
+   "note": "King's Seven Tablets of Creation (1902) is on the reading-lists branch (enuma-elish)."
+  },
+  "babylonian-assyrian-devils-and-evil-spirits-1": {
+   "source": "bab-devils-and-evil-spirits-1",
+   "of": "Babylonian and Assyrian incantations against demons",
+   "work": "The Devils and Evil Spirits of Babylonia, vol. I",
+   "translated": 1903,
+   "translator": "R. Campbell Thompson",
+   "scan_edition": "Luzac & Co., Luzac's Semitic Text and Translation Series vol. XIV, London 1903; University of Toronto scan"
+  },
+  "babylonian-assyrian-devils-and-evil-spirits-2": {
+   "source": "bab-devils-and-evil-spirits-2",
+   "of": "Babylonian and Assyrian incantations against demons",
+   "work": "The Devils and Evil Spirits of Babylonia, vol. II",
+   "translated": 1904,
+   "translator": "R. Campbell Thompson",
+   "scan_edition": "Luzac & Co., Luzac's Semitic Text and Translation Series vol. XV, London 1904; University of Toronto scan"
+  },
+  "babylonian-assyrian-code-of-hammurabi-harper": {
+   "source": "bab-code-of-hammurabi-harper",
+   "of": "The Code of Hammurabi",
+   "work": "The Code of Hammurabi, King of Babylon, about 2250 B.C.",
+   "translated": 1904,
+   "translator": "Robert Francis Harper",
+   "scan_edition": "University of Chicago Press, Chicago 1904; University of Toronto scan",
+   "note": "Johns's 1903 translation is on the reading-lists branch (hammurabi); Harper's is a separate translation."
+  },
+  "babylonian-assyrian-assyrian-and-babylonian-literature": {
+   "source": "bab-assyrian-and-babylonian-literature",
+   "of": "Assyrian and Babylonian inscriptions, epics, laws and letters (anthology)",
+   "work": "Assyrian and Babylonian Literature: Selected Translations",
+   "translated": 1901,
+   "translator": "various translators, with a critical introduction by Robert Francis Harper",
+   "scan_edition": "D. Appleton & Co., The World's Great Books, New York 1901"
+  }
+ },
+ "_pending": {
+  "thompson-gilgamish-1930": "Thompson's Oxford edition of the Gilgamesh text (1930): waits on the 1930 ruling, and is mostly cuneiform."
+ },
+ "_excluded": {
+  "held-on-reading-lists": "King's Seven Tablets of Creation (1902) and Johns's Code of Hammurabi (1903) are on the reading-lists branch.",
+  "late-reprints": "The AMS Press 1976 reprint of the Devils and Evil Spirits and the 2002-07 reprints of Harper's Hammurabi: not used."
+ },
+ "_rights_checked": {
+  "bab-gilgamish-thompson": "Title page read 2026-10-17 (the archive.org record has no date): 'R. Campbell Thompson ... Luzac & Co., 46 Great Russell Street, London, W.C.1. 1928'. A period printing; 1928 US publications are public domain."
+ },
+ "_checks": {
+  "bab-gilgamish-thompson": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "campbell thompson",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-17 (the archive.org record has no date): 'R. Campbell Thompson ... Luzac & Co., 46 Great Russell Street, London, W.C.1. 1928'. A period printing; 1928 US publications are public domain."
+  },
+  "bab-gilgamesh-old-babylonian": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jastrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bab-gilgamish-langdon": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "langdon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bab-deluge-and-gilgamish": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "budge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bab-sumerian-epic-of-paradise": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "langdon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bab-sumerian-liturgies": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "langdon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bab-epic-of-creation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "langdon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bab-devils-and-evil-spirits-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "campbell thompson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903-4",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bab-devils-and-evil-spirits-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "campbell thompson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903-4",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bab-code-of-hammurabi-harper": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bab-assyrian-and-babylonian-literature": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "bab-gilgamish-thompson": {
+   "ia": "thompson-1928-gilgamesh",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1876,
+    1927,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-gilgamesh-old-babylonian": {
+   "ia": "anoldbabylonianv00jastuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1902,
+    1907,
+    1911,
+    1917,
+    1919,
+    1920
+   ],
+   "post_1930_years_in_front_15k": [
+    1967,
+    2000
+   ]
+  },
+  "bab-gilgamish-langdon": {
+   "ia": "epicofgilgamish00unse",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1902,
+    1914,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-deluge-and-gilgamish": {
+   "ia": "babylonianstoryo00brituoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1848,
+    1849,
+    1852,
+    1853,
+    1855,
+    1920
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ]
+  },
+  "bab-sumerian-epic-of-paradise": {
+   "ia": "sumerianepicofpa00lang_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-sumerian-liturgies": {
+   "ia": "in.ernet.dli.2015.166777",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-epic-of-creation": {
+   "ia": "in.gov.ignca.33817",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909,
+    1912,
+    1918,
+    1919,
+    1921,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-devils-and-evil-spirits-1": {
+   "ia": "devilsevilspirit01thomuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1553,
+    1875,
+    1887,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-devils-and-evil-spirits-2": {
+   "ia": "devilsevilspirit02thomuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1553,
+    1902,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-code-of-hammurabi-harper": {
+   "ia": "codeofhammurabik00harpuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893,
+    1896,
+    1900,
+    1902,
+    1903,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bab-assyrian-and-babylonian-literature": {
+   "ia": "assyrianbabylon00harp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1847,
+    1849,
+    1851,
+    1852,
+    1900,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

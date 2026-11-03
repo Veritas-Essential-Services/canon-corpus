@@ -1,0 +1,122 @@
+{
+ "_about": "Arthur Hornblow: Novels from stage plays. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur Hornblow",
+ "_name_words": [
+  "hornblow"
+ ],
+ "_surname": [
+  "hornblow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ahornblow-lion-and-the-mouse": [
+   5119,
+   "The Lion and the Mouse; a Story of an American Life"
+  ],
+  "ahornblow-lion-and-the-mouse-14204": [
+   14204,
+   "The Lion and the Mouse: A Story of American Life"
+  ],
+  "ahornblow-bought-and-paid-for": [
+   16249,
+   "Bought and Paid For; From the Play of George Broadhurst"
+  ],
+  "ahornblow-mask": [
+   20131,
+   "The Mask: A Story of Love and Adventure"
+  ],
+  "ahornblow-easiest-way": [
+   21116,
+   "The easiest way"
+  ],
+  "ahornblow-third-degree": [
+   28505,
+   "The Third Degree: A Narrative of Metropolitan Life"
+  ],
+  "ahornblow-by-right-of-conquest": [
+   33187,
+   "By Right of Conquest: A Novel"
+  ],
+  "ahornblow-john-marshs-millions": [
+   33192,
+   "John Marsh's Millions"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ahornblow-lion-and-the-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahornblow-lion-and-the-mouse-14204": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahornblow-bought-and-paid-for": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahornblow-mask": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahornblow-easiest-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahornblow-third-degree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahornblow-by-right-of-conquest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahornblow-john-marshs-millions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

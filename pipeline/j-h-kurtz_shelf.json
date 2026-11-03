@@ -1,0 +1,181 @@
+{
+ "_about": "Public-domain J. H. Kurtz (1809-1890, Lutheran, professor at Dorpat) in pre-1930 English translations: Church History (3 vols, tr. John Macpherson, 2nd ed., Hodder & Stoughton, 1891-93), clean from Gutenberg; and from the Internet Archive History of the Old Covenant (3 vols, tr. Alfred Edersheim and James Martin; Philadelphia, 1859), Sacrificial Worship of the Old Testament (tr. James Martin; Clark, 1863) and Manual of Sacred History (tr. Charles F. Schaeffer; Philadelphia, year not legible). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "kurtz",
+  "henry"
+ ],
+ "_surname": [
+  "j. h. kurtz",
+  "john henry kurtz",
+  "johann heinrich kurtz",
+  "dr. j. h. kurtz",
+  "kurtz, j. h",
+  "professor kurtz",
+  "john h. kurtz",
+  "dr. john henry kurtz"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "kurtz-church-history-1": [
+   "51489",
+   "Church History, vol. 1, tr. John Macpherson, second edition (London: Hodder & Stoughton, MDCCCXCI)"
+  ],
+  "kurtz-church-history-2": [
+   "51490",
+   "Church History, vol. 2, tr. John Macpherson, second edition (London: Hodder & Stoughton, MDCCCXCII)"
+  ],
+  "kurtz-church-history-3": [
+   "37404",
+   "Church History, vol. 3, tr. John Macpherson, second edition (London: Hodder & Stoughton, MDCCCXCIII)"
+  ]
+ },
+ "internet_archive": {
+  "kurtz-old-covenant-1": [
+   "historyofoldcove01kurt",
+   "History of the Old Covenant, vol. 1, tr. Alfred Edersheim (Philadelphia: Lindsay & Blakiston, 1859)"
+  ],
+  "kurtz-old-covenant-2": [
+   "historyofoldcove02kurt",
+   "History of the Old Covenant, vol. 2, tr. James Martin (Philadelphia: Lindsay & Blakiston, 1859)"
+  ],
+  "kurtz-old-covenant-3": [
+   "historyofoldcove03kurt",
+   "History of the Old Covenant, vol. 3, tr. James Martin (Philadelphia: Lindsay & Blakiston, 1859)"
+  ],
+  "kurtz-sacrificial-worship-1863": [
+   "sacrificialworsh00kurt",
+   "Sacrificial Worship of the Old Testament, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXIII); the translator's name OCRs as \"JAMES MAETIN\", so it is not machine-checked"
+  ],
+  "kurtz-sacred-history": [
+   "manualofsacredhi00kurt",
+   "Manual of Sacred History, tr. Charles F. Schaeffer from the sixth German edition (Philadelphia: Lindsay & Blakiston; year not legible, Schaff's letter dated 1855)"
+  ]
+ },
+ "_alternates": {
+  "kurtz-church-history-edersheim": "the earlier Church History translation 'with emendations' by Edersheim (Clark, 1860-64; IA historyofchristi01kurt, 02kurt)",
+  "kurtz-church-history-pg-onevol": "Gutenberg 51491: the three Church History volumes in one file"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "kurtz-old-covenant-2": {
+   "author": "title page read 2026-10-10: OCR gives \"FROM THE GERMAN OF J. H, KUETZ, D.D., PROFESSOR OF THEOLOGY AT DORPAT. VOL. II. TRANSLATED BY JAMES MARTIN\" (R read as E): J. H. Kurtz"
+  },
+  "kurtz-old-covenant-3": {
+   "author": "title page read 2026-10-10: OCR gives \"FROM THE GERMAN OF J. H. KUETZ, D.D., PROFESSOR OF THEOLOGY AT DORPAT, VOL. III\" (R read as E): J. H. Kurtz"
+  },
+  "kurtz-sacrificial-worship-1863": {
+   "author": "title page read 2026-10-10: OCR gives \"J. H. 'KURTZ, D.D., PROFESSOR OF THEOLOGY AT DORPAT. AUTHOR OF HISTORY OF THE OLD COVENANT\" (a stray apostrophe), Clark, MDCCCLXIII: J. H. Kurtz"
+  }
+ },
+ "_translators": {
+  "kurtz-church-history-1": "macpherson",
+  "kurtz-church-history-2": "macpherson",
+  "kurtz-church-history-3": "macpherson",
+  "kurtz-old-covenant-1": "edersheim",
+  "kurtz-old-covenant-2": "martin",
+  "kurtz-old-covenant-3": "martin",
+  "kurtz-sacred-history": "schaeffer"
+ },
+ "_checks": {
+  "kurtz-church-history-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. kurtz",
+   "translator_claimed": "macpherson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Macpherson",
+   "translator_match": true
+  },
+  "kurtz-church-history-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. kurtz",
+   "translator_claimed": "macpherson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Macpherson",
+   "translator_match": true
+  },
+  "kurtz-church-history-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. kurtz",
+   "translator_claimed": "macpherson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Macpherson",
+   "translator_match": true
+  },
+  "kurtz-old-covenant-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. kurtz",
+   "translator_claimed": "edersheim",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kurtz-old-covenant-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "martin",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kurtz-old-covenant-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "martin",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kurtz-sacrificial-worship-1863": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kurtz-sacred-history": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. kurtz",
+   "translator_claimed": "schaeffer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

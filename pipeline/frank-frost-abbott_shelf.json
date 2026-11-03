@@ -1,0 +1,42 @@
+{
+ "_about": "Frank Frost Abbott (1860-1924), Princeton. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Common People of Ancient Rome: Studies of Roman Life and Literature, Roman Politics, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "abbott"
+ ],
+ "_surname": [
+  "frank frost abbott",
+  "abbott, frank frost"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abbott-common-people-ancient-rome": [
+   13226,
+   "The Common People of Ancient Rome: Studies of Roman Life and Literature"
+  ],
+  "abbott-roman-politics": [
+   68064,
+   "Roman Politics"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "abbott-common-people-ancient-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frank frost abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abbott-roman-politics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frank frost abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "status": "blocked",
+ "holder": "2026-10-02T17:07:01-05:00",
+ "heartbeat": "2026-10-22T18:25:04-05:00",
+ "note": "Resumed 2026-10-22 at Adam's relay, then blocked: this session's network policy refuses archive.org and gutenberg.org, so nothing can be fetched or rights-checked. Nothing committed since the pause.",
+ "resume_point": "Round cq, corrected 2026-10-22: haigh, tyrrell, nettleship, ridgeway and farnell shelves already exist (an earlier name check missed bare-surname shelves), so drop those from the new-shelf plan. Farnell additions ready once the network is back: Cults of the Greek States vols. I (thecultsofthegre01farnuoft, 1896; name check fails, needs an identity override or another scan), III (cultsofgreekstat03farnuoft, 1907), IV (cultsgreekstate02farngoog, 1907, OCR reads '1997'), V (culto5, 1909, clean 0.782); Evolution of Religion (cu31924029056781, 1905); Higher Aspects of Greek Religion (higheraspectsofg00farn, 1912). Vol. II scans fail the OCR gate; Greek Hero Cults and Attributes of God scans show no printed year. Still new: j-wight-duff (Literary History of Rome 1909), a-b-cook (Plato's Ethics 1895, Zeus), w-m-lindsay (The Latin Language 1894), e-m-cope (Introduction to Aristotle's Rhetoric 1867, Review of Aristotle's Ethics 1867); tyrrell +1 (Essays on Greek Literature 1909). Then round cr: Arthur Evans, D. G. Hogarth, J. L. Myres, H. R. Hall, E. S. Hartland (check bare-surname shelves first: grep -x on the surname too)."
+}

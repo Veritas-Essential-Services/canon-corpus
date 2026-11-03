@@ -1,0 +1,99 @@
+{
+ "_about": "Percy James Brebner: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Percy James Brebner",
+ "_name_words": [
+  "brebner",
+  "james",
+  "percy"
+ ],
+ "_surname": [
+  "percy james brebner",
+  "brebner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pjbrebner-princess-maritza": [
+   6374,
+   "Princess Maritza"
+  ],
+  "pjbrebner-master-detective": [
+   9796,
+   "The Master Detective: Being Some Further Investigations of Christopher Quarles"
+  ],
+  "pjbrebner-brown-mask": [
+   9849,
+   "The Brown Mask"
+  ],
+  "pjbrebner-light-that-lures": [
+   13312,
+   "The Light That Lures"
+  ],
+  "pjbrebner-christopher-quarles": [
+   34468,
+   "Christopher Quarles: College Professor and Master Detective"
+  ],
+  "pjbrebner-vayenne": [
+   39652,
+   "Vayenne"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "pjbrebner-princess-maritza": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy james brebner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pjbrebner-master-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy james brebner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pjbrebner-brown-mask": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy james brebner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pjbrebner-light-that-lures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy james brebner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pjbrebner-christopher-quarles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy james brebner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pjbrebner-vayenne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy james brebner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

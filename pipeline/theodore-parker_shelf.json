@@ -1,0 +1,73 @@
+{
+ "_about": "Theodore Parker (1810-1860), Transcendentalist minister and abolitionist: A Discourse of Matters Pertaining to Religion (Boston: Charles C. Little and James Brown, MDCCCXLII), the first edition, raw IA OCR, clean 0.91; and Speeches, Addresses and Occasional Sermons, 3 vols. (Boston: Horace B. Fuller, 1867), clean Gutenberg texts. Not taken: the fourth edition of the Discourse (Boston: Rufus Leighton, 1856). Not the Parker Society. US public domain. No uids minted.",
+ "_author": "Theodore Parker",
+ "_name_words": [
+  "theodore",
+  "parker"
+ ],
+ "_surname": [
+  "parker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "parker-speeches-addresses-v1": [
+   34573,
+   "Speeches, Addresses, and Occasional Sermons, vol. 1 (Boston: Horace B. Fuller, 1867)"
+  ],
+  "parker-speeches-addresses-v2": [
+   34637,
+   "Speeches, Addresses, and Occasional Sermons, vol. 2 (Boston: Horace B. Fuller, 1867)"
+  ],
+  "parker-speeches-addresses-v3": [
+   34688,
+   "Speeches, Addresses, and Occasional Sermons, vol. 3 (Boston: Horace B. Fuller, 1867)"
+  ]
+ },
+ "internet_archive": {
+  "parker-discourse-religion-1842": [
+   "discourseofmatt00park",
+   "A Discourse of Matters Pertaining to Religion (Boston: Little and Brown, 1842)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "parker-speeches-addresses-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parker-speeches-addresses-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parker-speeches-addresses-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parker-discourse-religion-1842": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,1507 @@
+{
+ "corrections": [
+  {
+   "find": "SOYEEEIGNTY AND WISDOM OF GOD",
+   "replace": "THE SOVEREIGNTY AND WISDOM OF GOD",
+   "why": "OCR misread SOVEREIGNTY and missed the small THE set above it",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  },
+  {
+   "find": "ON EccLES. vii. 13. Peov. xvi. 19. and",
+   "replace": "ON Eccles. vii. 13. Prov. xvi. 19. and",
+   "why": "OCR misread the small capitals",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  },
+  {
+   "find": "ON THE NATURE OP",
+   "replace": "ON THE NATURE OF",
+   "why": "OCR",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  },
+  {
+   "find": "FROM 1 CoR. X. 17.",
+   "replace": "from 1 Cor. x. 17.",
+   "why": "OCR misread the small capitals",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  }
+ ],
+ "ocr_fixes": [
+  {
+   "leaf": 512,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 512,
+   "from": "turuest",
+   "to": "turnest",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 512,
+   "from": "ivhich",
+   "to": "which",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 512,
+   "from": "st7 aight",
+   "to": "straight",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 512,
+   "from": "DocTEiNE",
+   "to": "Doctrine",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 513,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 513,
+   "from": "ivhose",
+   "to": "whose",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 513,
+   "from": "Avhen",
+   "to": "when",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 514,
+   "from": "pi'osperity",
+   "to": "prosperity",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 514,
+   "from": "eftects",
+   "to": "effects",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 514,
+   "from": "ivhile",
+   "to": "while",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 515,
+   "from": "unfirra",
+   "to": "unfirm",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 515,
+   "from": "unfirni",
+   "to": "unfirm",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 515,
+   "from": "luill",
+   "to": "will",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 516,
+   "from": "imll",
+   "to": "will",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 516,
+   "from": "disafjreeahlencss",
+   "to": "disagreeableness",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 516,
+   "from": "gnevous",
+   "to": "grievous",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 516,
+   "from": "j aths",
+   "to": "paths",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 517,
+   "from": "Lastlt",
+   "to": "Lastly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 518,
+   "from": "Avill",
+   "to": "will",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 518,
+   "from": "altogetlier",
+   "to": "altogether",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 518,
+   "from": "superiiuities",
+   "to": "superfluities",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 518,
+   "from": "exemx ted",
+   "to": "exempted",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 518,
+   "from": "ai'e",
+   "to": "are",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 519,
+   "from": "Gren",
+   "to": "Gen",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 520,
+   "from": "raust",
+   "to": "must",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 520,
+   "from": "oftensive",
+   "to": "offensive",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 521,
+   "from": "miuisters",
+   "to": "ministers",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 521,
+   "from": "Whr",
+   "to": "Why",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 521,
+   "from": "Grod's",
+   "to": "God’s",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 521,
+   "from": "tliese",
+   "to": "these",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 521,
+   "from": "imnishment",
+   "to": "punishment",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 521,
+   "from": "ajiiction",
+   "to": "affliction",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 521,
+   "from": "atfairs",
+   "to": "affairs",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 522,
+   "from": "apj ointed",
+   "to": "appointed",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 522,
+   "from": "woi'keth",
+   "to": "worketh",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 522,
+   "from": "ojjens",
+   "to": "opens",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 523,
+   "from": "Secondli",
+   "to": "Secondly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 524,
+   "from": "Avithal",
+   "to": "withal",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 524,
+   "from": "i urpose",
+   "to": "purpose",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 524,
+   "from": "covetousnuess",
+   "to": "covetousness",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 524,
+   "from": "thereiij",
+   "to": "therein",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 524,
+   "from": "Jiowbeit",
+   "to": "howbeit",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 525,
+   "from": "Grod's",
+   "to": "God’s",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 525,
+   "from": "brouglit",
+   "to": "brought",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 525,
+   "from": "ci'ook",
+   "to": "crook",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 525,
+   "from": "iqjright",
+   "to": "upright",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 525,
+   "from": "ur der",
+   "to": "under",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 525,
+   "from": "disiJensations",
+   "to": "dispensations",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 526,
+   "from": "j rompting",
+   "to": "prompting",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 526,
+   "from": "ivilderness",
+   "to": "wilderness",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 527,
+   "from": "memoHal",
+   "to": "memorial",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 528,
+   "from": "sivord",
+   "to": "sword",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 528,
+   "from": "baga",
+   "to": "bags",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 528,
+   "from": "syi",
+   "to": "sin",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 529,
+   "from": "dai",
+   "to": "day",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 529,
+   "from": "npon",
+   "to": "upon",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 530,
+   "from": "faitli",
+   "to": "faith",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 530,
+   "from": "Canaauites",
+   "to": "Canaanites",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 530,
+   "from": "ofi'ering",
+   "to": "offering",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 531,
+   "from": "eartldy",
+   "to": "earthly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 531,
+   "from": "whi A",
+   "to": "which",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 531,
+   "from": "imjjiously",
+   "to": "impiously",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 531,
+   "from": "eftect",
+   "to": "effect",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 532,
+   "from": "munmo'ers",
+   "to": "murmurers",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 532,
+   "from": "3Ioses",
+   "to": "Moses",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 532,
+   "from": "unfndtful",
+   "to": "unfruitful",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 533,
+   "from": "hearfs",
+   "to": "heart’s",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 533,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 533,
+   "from": "aie",
+   "to": "are",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 533,
+   "from": "cannof",
+   "to": "cannot",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 533,
+   "from": "mfind",
+   "to": "ménd",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 534,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 534,
+   "from": "ivith",
+   "to": "with",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 534,
+   "from": "haUtatiofi",
+   "to": "habitation",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 535,
+   "from": "henejicencc",
+   "to": "beneficence",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 535,
+   "from": "Kis",
+   "to": "his",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 535,
+   "from": "oflf",
+   "to": "off",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 535,
+   "from": "suftering",
+   "to": "suffering",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 536,
+   "from": "WTiat",
+   "to": "What",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 537,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 538,
+   "from": "coramandeth",
+   "to": "commandeth",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 539,
+   "from": "Avill",
+   "to": "will",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 539,
+   "from": "murraurers",
+   "to": "murmurers",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 540,
+   "from": "inend",
+   "to": "mend",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 541,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 541,
+   "from": "thera",
+   "to": "them",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 542,
+   "from": "Clirist",
+   "to": "Christ",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 543,
+   "from": "hnmility",
+   "to": "humility",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 544,
+   "from": "alfairs",
+   "to": "affairs",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 544,
+   "from": "resignatiou",
+   "to": "resignation",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 546,
+   "from": "longsorae",
+   "to": "longsome",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 546,
+   "from": "Yerse",
+   "to": "Verse",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 547,
+   "from": "eftect",
+   "to": "effect",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 547,
+   "from": "xsviii",
+   "to": "xxviii",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 547,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 547,
+   "from": "Lasthj",
+   "to": "Lastly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 547,
+   "from": "Coiisidering",
+   "to": "Considering",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 547,
+   "from": "ivork",
+   "to": "work",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 547,
+   "from": "Gien",
+   "to": "Gen",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 549,
+   "from": "TThenever",
+   "to": "Whenever",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 549,
+   "from": "eifectual",
+   "to": "effectual",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 549,
+   "from": "cormpt",
+   "to": "corrupt",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 549,
+   "from": "Negativdi",
+   "to": "Negatively",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 550,
+   "from": "jonrney",
+   "to": "journey",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 550,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 550,
+   "from": "i ightly",
+   "to": "rightly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 551,
+   "from": "meau",
+   "to": "mean",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 551,
+   "from": "ahout",
+   "to": "about",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 551,
+   "from": "crooh",
+   "to": "crook",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 551,
+   "from": "eflicacy",
+   "to": "efficacy",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 551,
+   "from": "ineflicacious",
+   "to": "inefficacious",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 551,
+   "from": "sauctiiication",
+   "to": "sanctification",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 552,
+   "from": "xsx",
+   "to": "xxx",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 553,
+   "from": "aud",
+   "to": "and",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 553,
+   "from": "loivly",
+   "to": "lowly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 554,
+   "from": "briug",
+   "to": "bring",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 555,
+   "from": "rayself",
+   "to": "myself",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 555,
+   "from": "Lasthj",
+   "to": "Lastly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 556,
+   "from": "swai'm",
+   "to": "swarm",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 557,
+   "from": "afliicted",
+   "to": "afflicted",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 558,
+   "from": "ruu",
+   "to": "run",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 559,
+   "from": "thera",
+   "to": "them",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 559,
+   "from": "Esod",
+   "to": "Exod",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 559,
+   "from": "Chnsfs",
+   "to": "Christ’s",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 559,
+   "from": "unmoi'tified",
+   "to": "unmortified",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 560,
+   "from": "moi tified",
+   "to": "mortified",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 560,
+   "from": "iH'ospering",
+   "to": "prospering",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 560,
+   "from": "si irit",
+   "to": "spirit",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 562,
+   "from": "tliem",
+   "to": "them",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 562,
+   "from": "doAvn",
+   "to": "down",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 562,
+   "from": "hnmble",
+   "to": "humble",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 563,
+   "from": "Avill",
+   "to": "will",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 564,
+   "from": "tlian",
+   "to": "than",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 565,
+   "from": "oif",
+   "to": "off",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 565,
+   "from": "UsB",
+   "to": "Use",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 565,
+   "from": "Avill",
+   "to": "will",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 565,
+   "from": "yowrselves",
+   "to": "yourselves",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 567,
+   "from": "sj ring",
+   "to": "spring",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 567,
+   "from": "spint",
+   "to": "spirit",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 567,
+   "from": "sj irit",
+   "to": "spirit",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 568,
+   "from": "Grod's",
+   "to": "God’s",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 568,
+   "from": "liappy",
+   "to": "happy",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 568,
+   "from": "Avhen",
+   "to": "when",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 568,
+   "from": "DocTRiKE",
+   "to": "Doctrine",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 569,
+   "from": "tlian",
+   "to": "than",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 571,
+   "from": "ab6ut",
+   "to": "about",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 571,
+   "from": "nnder",
+   "to": "under",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 571,
+   "from": "humhle",
+   "to": "humble",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 571,
+   "from": "woi'thlessness",
+   "to": "worthlessness",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 571,
+   "from": "sufter",
+   "to": "suffer",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 571,
+   "from": "sufi ers",
+   "to": "suffers",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 573,
+   "from": "liumbliug",
+   "to": "humbling",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 573,
+   "from": "I'ational",
+   "to": "rational",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 573,
+   "from": "i rovidence",
+   "to": "providence",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 575,
+   "from": "trerableth",
+   "to": "trembleth",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 575,
+   "from": "JXrections",
+   "to": "Directions",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 575,
+   "from": "Jirst",
+   "to": "fist",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 576,
+   "from": "api lication",
+   "to": "application",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 577,
+   "from": "nnto",
+   "to": "unto",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 577,
+   "from": "thiinder",
+   "to": "thunder",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 577,
+   "from": "afliicts",
+   "to": "afflicts",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 578,
+   "from": "teachetli",
+   "to": "teacheth",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 580,
+   "from": "sufi'ered",
+   "to": "suffered",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 581,
+   "from": "haA e",
+   "to": "have",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 582,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 584,
+   "from": "Aveights",
+   "to": "weights",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 584,
+   "from": "Isi ael",
+   "to": "Israel",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 585,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 585,
+   "from": "hoi eless",
+   "to": "hopeless",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 585,
+   "from": "sviii",
+   "to": "xviii",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 586,
+   "from": "lieavens",
+   "to": "heavens",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 587,
+   "from": "Clirist",
+   "to": "Christ",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 587,
+   "from": "i urchased",
+   "to": "purchased",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 587,
+   "from": "Grod",
+   "to": "God",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 588,
+   "from": "uijon",
+   "to": "upon",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 588,
+   "from": "haj py",
+   "to": "happy",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 589,
+   "from": "hiimbleth",
+   "to": "humbleth",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 589,
+   "from": "desii e",
+   "to": "desire",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 589,
+   "from": "Lastli",
+   "to": "Lastly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 591,
+   "from": "cei'tain",
+   "to": "certain",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 591,
+   "from": "wliat",
+   "to": "what",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 591,
+   "from": "jiromises",
+   "to": "promises",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 591,
+   "from": "hex'e",
+   "to": "here",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 592,
+   "from": "aud",
+   "to": "and",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 592,
+   "from": "deliverauces",
+   "to": "deliverances",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 592,
+   "from": "Avarm",
+   "to": "warm",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 593,
+   "from": "bnrdened",
+   "to": "burdened",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 593,
+   "from": "comt",
+   "to": "come",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 594,
+   "from": "Secondlj",
+   "to": "Secondly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 594,
+   "from": "j artial",
+   "to": "partial",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 595,
+   "from": "fierjfurnace",
+   "to": "fiery furnace",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 596,
+   "from": "j roraised",
+   "to": "promised",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 596,
+   "from": "Avork",
+   "to": "work",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 597,
+   "from": "Avhatsoever",
+   "to": "whatsoever",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 597,
+   "from": "Heh",
+   "to": "Heb",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 598,
+   "from": "Avent",
+   "to": "went",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 598,
+   "from": "Lasthj",
+   "to": "Lastly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 600,
+   "from": "peoj le",
+   "to": "people",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 601,
+   "from": "supj lication",
+   "to": "supplication",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 601,
+   "from": "Avatching",
+   "to": "watching",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 601,
+   "from": "ti'ial",
+   "to": "trial",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 601,
+   "from": "suie",
+   "to": "sure",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 602,
+   "from": "circnrastances",
+   "to": "circumstances",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 602,
+   "from": "Avill",
+   "to": "will",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 602,
+   "from": "ti'oubles",
+   "to": "troubles",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 602,
+   "from": "efl ect",
+   "to": "effect",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 603,
+   "from": "Cei'tainly",
+   "to": "Certainly",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 603,
+   "from": "hnmbling",
+   "to": "humbling",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 603,
+   "from": "Suifering",
+   "to": "Suffering",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 604,
+   "from": "merchaut",
+   "to": "merchant",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  }
+ ]
+}

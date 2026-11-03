@@ -1,0 +1,116 @@
+{
+ "_about": "Public-domain John James Stewart Perowne (1823-1904), Hebraist, Dean of Peterborough and Bishop of Worcester, for the Word Hoard: The Book of Psalms, a new translation with introductions and notes (2 vols.), the Hulsean Lectures The Godhead of Jesus (1867) and Immortality (1869), his Sermons (1874), and The Church, the Ministry, the Sacraments (1883). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 71 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "perowne"
+ ],
+ "_surname": [
+  "perowne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "perowne-psalms-1": [
+   "bookofpsalmsnewt01pero",
+   "The Book of Psalms : a new translation with introductions and notes, explanatory and critical, vol. 1 (Andover : W. F. Draper, 1876)"
+  ],
+  "perowne-psalms-2": [
+   "bookofpsalmsnewt02pero",
+   "The Book of Psalms : a new translation with introductions and notes, explanatory and critical, vol. 2 (Andover : W. F. Draper, 1876)"
+  ],
+  "perowne-godhead-of-jesus": [
+   "godheadofjesusfo00pero",
+   "The Godhead of Jesus : four sermons (being the Hulsean lectures for 1866) (Cambridge : Deighton, Bell, and Co., 1867)"
+  ],
+  "perowne-immortality": [
+   "immortality00pero",
+   "Immortality: four sermons preached before the University of Cambridge, being the Hulsean Lectures for 1868 (Cambridge, 1869)"
+  ],
+  "perowne-sermons": [
+   "sermons0000jjst",
+   "Sermons, preached chiefly in the chapel of St. David's College, Lampeter, and in Llandaff Cathedral (London: W. Isbister, 1874)"
+  ],
+  "perowne-church-ministry-sacraments": [
+   "churchministrysa00perouoft",
+   "The church, the ministry, the sacraments, five sermons preached in Peterborough Cathedral (London : J. Nisbet & Co., 1883)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "perowne-other": "Cambridge Bible volumes he edited as general editor and those by his brothers T. T. and E. H. Perowne; the Memoir of T. G. Ragland (1861, by T. T. Perowne); his edition of Thirlwall's Remains and Letters"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "perowne-church-ministry-sacraments": "title page OCR reads 'FIVE SERMONS, PREACHED IN PETERBOROUGH CATHEDRAL, BY J. J. STEWAET PEBOWNE, D.D., DEAN OF PETEEBOEOUGH. 1883' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "perowne-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "perowne-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "perowne-godhead-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "perowne-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "perowne-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "perowne-church-ministry-sacraments": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

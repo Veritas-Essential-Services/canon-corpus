@@ -1,0 +1,37 @@
+{
+ "_about": "James Kirkton (1628?-1699): The Secret and True History of the Church of Scotland from the Restoration to the year 1678, with James Russell's account of the murder of Archbishop Sharp, ed. Charles Kirkpatrick Sharpe (Edinburgh, 1817). Covenanter history from the inside, with a hostile editor's notes. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "kirkton"
+ ],
+ "_surname": [
+  "kirkton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kirkton-secret-true-history": [
+   "secrettruehistor00kirk",
+   "The Secret and True History of the Church of Scotland from the Restoration to the year 1678, ed. C. K. Sharpe (Edinburgh, 1817)"
+  ]
+ },
+ "_alternates": {
+  "secretandtruehi00russgoog, 10360732bsb": "Google and Munich scans."
+ },
+ "_pending": {
+  "The History of Mr. John Welsh, minister at Ayr (1703, 1713)": "ECCO scans; not yet read."
+ },
+ "_excluded": {},
+ "_checks": {
+  "kirkton-secret-true-history": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kirkton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

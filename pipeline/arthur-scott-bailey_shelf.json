@@ -1,0 +1,652 @@
+{
+ "_about": "Arthur Scott Bailey's animal tales for young children (Sleepy-Time Tales, Tuck-me-in Tales)",
+ "_author": "Arthur Scott Bailey",
+ "_name_words": [
+  "bailey"
+ ],
+ "_surname": [
+  "arthur scott bailey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "asbailey-tale-of-fatty-coon": [
+   5701,
+   "The tale of Fatty Coon",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-freddie-firefly": [
+   5727,
+   "The tale of Freddie Firefly",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-tommy-fox": [
+   5955,
+   "The tale of Tommy Fox",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-brownie-beaver": [
+   6754,
+   "The tale of Brownie Beaver",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-sandy-chipmunk": [
+   9462,
+   "The tale of Sandy Chipmunk",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-old-mr-crow": [
+   14402,
+   "The tale of old Mr. Crow",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-cuffy-bear": [
+   15528,
+   "The tale of Cuffy Bear",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-solomon-owl": [
+   16663,
+   "The tale of Solomon Owl"
+  ],
+  "asbailey-tale-of-major-monkey": [
+   18626,
+   "The tale of Major Monkey",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-frisky-squirrel": [
+   18630,
+   "The tale of Frisky Squirrel",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-henrietta-hen": [
+   18652,
+   "The tale of Henrietta Hen"
+  ],
+  "asbailey-tale-of-pony-twinkleheels": [
+   18656,
+   "The tale of Pony Twinkleheels"
+  ],
+  "asbailey-tale-of-buster-bumblebee": [
+   18662,
+   "The tale of Buster Bumblebee"
+  ],
+  "asbailey-tale-of-dickie-deer-mouse": [
+   18953,
+   "The tale of Dickie Deer Mouse",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-mrs-ladybug": [
+   20097,
+   "The tale of Mrs. Ladybug",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-timothy-turtle": [
+   20716,
+   "The tale of Timothy Turtle"
+  ],
+  "asbailey-tale-of-miss-kitty-cat": [
+   21078,
+   "The tale of Miss Kitty Cat",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-grandfather-mole": [
+   21203,
+   "The tale of Grandfather Mole",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-betsy-butterfly": [
+   21322,
+   "The tale of Betsy Butterfly",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-bobby-bobolink": [
+   21412,
+   "The tale of Bobby Bobolink",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-daddy-longlegs": [
+   21426,
+   "The tale of Daddy Longlegs",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-nimble-deer": [
+   21619,
+   "The tale of Nimble Deer",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-jasper-jay": [
+   21836,
+   "The tale of Jasper Jay",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-turkey-proudfoot": [
+   21844,
+   "The tale of Turkey Proudfoot",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-peter-mink": [
+   21845,
+   "The tale of Peter Mink",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-the-the-muley-cow": [
+   24545,
+   "The tale of the the Muley Cow",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-benny-badger": [
+   24589,
+   "The tale of Benny Badger",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-ferdinand-frog": [
+   24590,
+   "The tale of Ferdinand Frog",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-snowball-lamb": [
+   24592,
+   "The tale of Snowball Lamb",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-kiddie-katydid": [
+   24608,
+   "The tale of Kiddie Katydid",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-jimmy-rabbit": [
+   24628,
+   "The tale of Jimmy Rabbit",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-grunty-pig": [
+   24731,
+   "The tale of Grunty Pig",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-master-meadow-mouse": [
+   24872,
+   "The tale of Master Meadow Mouse"
+  ],
+  "asbailey-tale-of-grumpy-weasel": [
+   24881,
+   "The tale of Grumpy Weasel",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-billy-woodchuck": [
+   25090,
+   "The tale of Billy Woodchuck",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-rusty-wren": [
+   25824,
+   "The tale of Rusty Wren",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-chirpy-cricket": [
+   25943,
+   "The tale of Chirpy Cricket",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-jolly-robin": [
+   28293,
+   "The tale of Jolly Robin",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-old-dog-spot": [
+   30667,
+   "The tale of old dog Spot",
+   {
+    "contents_only": true
+   }
+  ],
+  "asbailey-tale-of-reddy-woodpecker": [
+   43447,
+   "The tale of Reddy Woodpecker"
+  ],
+  "asbailey-tale-of-mistah-mule": [
+   74069,
+   "The tale of Mistah Mule",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "asbailey-tale-of-fatty-coon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-freddie-firefly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-tommy-fox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-brownie-beaver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-sandy-chipmunk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-old-mr-crow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-cuffy-bear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-solomon-owl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-major-monkey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-frisky-squirrel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-henrietta-hen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-pony-twinkleheels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-buster-bumblebee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-dickie-deer-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-mrs-ladybug": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-timothy-turtle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-miss-kitty-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-grandfather-mole": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-betsy-butterfly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-bobby-bobolink": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-daddy-longlegs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-nimble-deer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-jasper-jay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-turkey-proudfoot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-peter-mink": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-the-the-muley-cow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-benny-badger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-ferdinand-frog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-snowball-lamb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-kiddie-katydid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-jimmy-rabbit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-grunty-pig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-master-meadow-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-grumpy-weasel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-billy-woodchuck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-rusty-wren": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-chirpy-cricket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-jolly-robin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-old-dog-spot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-reddy-woodpecker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asbailey-tale-of-mistah-mule": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur scott bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

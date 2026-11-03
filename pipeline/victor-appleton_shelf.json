@@ -1,0 +1,710 @@
+{
+ "_about": "Victor Appleton's Tom Swift books and other series for boys: every English text under the name at Gutenberg. Victor Appleton is a house name of the Stratemeyer Syndicate, whose individual ghostwriters the texts do not name. The later Victor Appleton II (Tom Swift Jr.) books are not taken. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Victor Appleton",
+ "_name_words": [
+  "appleton"
+ ],
+ "_surname": [
+  "victor appleton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "vappleton-tom-swift-in-the-land-of-wonders": [
+   499,
+   "Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-submarine-boat": [
+   949,
+   "Tom Swift and His Submarine Boat; Or, Under the Ocean for Sunken Treasure",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-electric-runabout": [
+   950,
+   "Tom Swift and His Electric Runabout; Or, The Speediest Car on the Road",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-sky-racer": [
+   951,
+   "Tom Swift and His Sky Racer; Or, The Quickest Flight on Record",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-air-glider": [
+   952,
+   "Tom Swift and His Air Glider; Or, Seeking the Platinum Treasure"
+  ],
+  "vappleton-tom-swift-and-his-big-tunnel": [
+   953,
+   "Tom Swift and His Big Tunnel; Or, The Hidden City of the Andes",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-war-tank": [
+   954,
+   "Tom Swift and His War Tank; Or, Doing His Bit for Uncle Sam"
+  ],
+  "vappleton-tom-swift-and-his-aerial-warship": [
+   1281,
+   "Tom Swift and His Aerial Warship; Or, The Naval Terror of the Seas",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-among-the-diamond-makers": [
+   1282,
+   "Tom Swift Among the Diamond Makers; Or, The Secret of Phantom Mountain",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-wizard-camera": [
+   1283,
+   "Tom Swift and His Wizard Camera; Or, Thrilling Adventures While Taking Moving Pictures",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-air-scout": [
+   1284,
+   "Tom Swift and His Air Scout; Or, Uncle Sam's Mastery of the Sky",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-giant-cannon": [
+   1361,
+   "Tom Swift and His Giant Cannon; Or, The Longest Shots on Record"
+  ],
+  "vappleton-tom-swift-and-his-undersea-search": [
+   1362,
+   "Tom Swift and His Undersea Search; Or, the Treasure on the Floor of the Atlantic"
+  ],
+  "vappleton-tom-swift-among-the-fire-fighters": [
+   1363,
+   "Tom Swift Among the Fire Fighters; Or, Battling with Flames from the Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-electric-locomotive": [
+   1364,
+   "Tom Swift and His Electric Locomotive; Or, Two Miles a Minute on the Rails",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-motor-boat": [
+   2273,
+   "Tom Swift and His Motor-Boat; Or, The Rivals of Lake Carlopa"
+  ],
+  "vappleton-tom-swift-and-his-airship": [
+   3005,
+   "Tom Swift and His Airship",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-in-the-caves-of-ice": [
+   3734,
+   "Tom Swift in the Caves of Ice, or, the Wreck of the Airship",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-electric-rifle": [
+   3777,
+   "Tom Swift and His Electric Rifle; Or, Daring Adventures in Elephant Land"
+  ],
+  "vappleton-tom-swift-and-his-wireless-message": [
+   4227,
+   "Tom Swift and His Wireless Message; Or, The Castaways of Earthquake Island",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-motor-cycle": [
+   4230,
+   "Tom Swift and His Motor-Cycle; Or, Fun and Adventures on the Road"
+  ],
+  "vappleton-tom-swift-and-his-photo-telephone-or-the-picture-t": [
+   4532,
+   "Tom Swift and His Photo Telephone or the Picture That Saved a Fortune"
+  ],
+  "vappleton-tom-swift-in-captivity": [
+   4608,
+   "Tom Swift in Captivity, Or, A Daring Escape By Airship",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-great-searchlight": [
+   4635,
+   "Tom Swift and His Great Searchlight; or, on the border for Uncle Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-in-the-city-of-gold": [
+   4711,
+   "Tom Swift in the City of Gold; Or, Marvelous Adventures Underground"
+  ],
+  "vappleton-moving-picture-boys-at-panama": [
+   10776,
+   "The moving picture boys at Panama"
+  ],
+  "vappleton-moving-picture-boys-on-the-war-front": [
+   17744,
+   "The moving picture boys on the war front"
+  ],
+  "vappleton-tom-swift-and-his-giant-telescope": [
+   21188,
+   "Tom Swift and His Giant Telescope"
+  ],
+  "vappleton-moving-picture-boys-on-the-coast": [
+   23677,
+   "The moving picture boys on the coast",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-motion-picture-chums-at-seaside-park": [
+   36964,
+   "The motion picture chums at Seaside Park",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-moving-picture-boys-and-the-flood": [
+   46011,
+   "The moving picture boys and the flood",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-don-sturdy-in-the-tombs-of-gold": [
+   69398,
+   "Don Sturdy in the tombs of gold; or, The old Egyptian's great secret",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-circling-the-globe": [
+   69682,
+   "Tom Swift circling the globe; or, The daring cruise of the Air Monarch",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-flying-boat": [
+   70182,
+   "Tom Swift and his flying boat;",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-talking-pictures": [
+   72578,
+   "Tom Swift and his talking pictures",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-chest-of-secrets": [
+   72659,
+   "Tom Swift and his chest of secrets",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-airline-express": [
+   72701,
+   "Tom Swift and his airline express",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-great-oil-gusher": [
+   72705,
+   "Tom Swift and his great oil gusher",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-motion-picture-chums-new-idea": [
+   75238,
+   "The motion picture chums' new idea"
+  ],
+  "vappleton-tom-swift-and-his-house-on-wheels": [
+   75322,
+   "Tom Swift and his house on wheels",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-motion-picture-chums-at-the-fair": [
+   76331,
+   "The motion picture chums at the fair",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-movie-boys-at-seaside-park": [
+   76377,
+   "The movie boys at Seaside Park"
+  ],
+  "vappleton-movie-boys-in-peril": [
+   76378,
+   "The movie boys in peril"
+  ],
+  "vappleton-movie-boys-in-the-jungle": [
+   76727,
+   "The movie boys in the jungle",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-movie-boys-under-uncle-sam": [
+   77191,
+   "The movie boys under Uncle Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "vappleton-tom-swift-and-his-big-dirigible": [
+   77599,
+   "Tom Swift and his big dirigible",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "victor-appleton-ii": "PG 17985, 19258 and any other 'Victor Appleton II' books (Tom Swift Jr., 1950s): a separate house name with different writers, not this shelf."
+ },
+ "_checks": {
+  "vappleton-tom-swift-in-the-land-of-wonders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-submarine-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-electric-runabout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-sky-racer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-air-glider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-big-tunnel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-war-tank": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-aerial-warship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-among-the-diamond-makers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-wizard-camera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-air-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-giant-cannon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-undersea-search": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-among-the-fire-fighters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-electric-locomotive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-motor-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-airship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-in-the-caves-of-ice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-electric-rifle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-wireless-message": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-motor-cycle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-photo-telephone-or-the-picture-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-in-captivity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-great-searchlight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-in-the-city-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-moving-picture-boys-at-panama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-moving-picture-boys-on-the-war-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-giant-telescope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-moving-picture-boys-on-the-coast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-motion-picture-chums-at-seaside-park": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-moving-picture-boys-and-the-flood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-don-sturdy-in-the-tombs-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-circling-the-globe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-flying-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-talking-pictures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-chest-of-secrets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-airline-express": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-great-oil-gusher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-motion-picture-chums-new-idea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-house-on-wheels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-motion-picture-chums-at-the-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-movie-boys-at-seaside-park": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-movie-boys-in-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-movie-boys-in-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-movie-boys-under-uncle-sam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vappleton-tom-swift-and-his-big-dirigible": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "victor appleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

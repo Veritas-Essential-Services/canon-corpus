@@ -1,0 +1,146 @@
+{
+ "_about": "Public-domain Mandell Creighton (1843-1901), church historian and Bishop of London, for the Word Hoard: A History of the Papacy during the Period of the Reformation (1882-1894, five volumes), Persecution and Tolerance, the Hulsean Lectures (1895), and The Church and the Nation, his charges and addresses edited by Louise Creighton (1901), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "creighton"
+ ],
+ "_surname": [
+  "creighton",
+  "m. creighton",
+  "mandell creighton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "creighton-papacy-1": [
+   "ahistoryofthepap01creiuoft",
+   "A History of the Papacy during the Period of the Reformation, vol. I, The Great Schism, the Council of Constance, 1378-1418 (London: Longmans, Green, 1882)"
+  ],
+  "creighton-papacy-2": [
+   "ahistoryofthepap02creiuoft",
+   "A History of the Papacy during the Period of the Reformation, vol. II, The Council of Basel, the Papal Restoration, 1418-1464 (London: Longmans, Green, 1882)"
+  ],
+  "creighton-papacy-3": [
+   "ahistoryofthepap03creguoft",
+   "A History of the Papacy during the Period of the Reformation, vol. III, The Italian Princes, 1464-1518 (London: Longmans, Green, 1887)"
+  ],
+  "creighton-papacy-4": [
+   "ahistoryofthepap04creiuoft",
+   "A History of the Papacy during the Period of the Reformation, vol. IV (London: Longmans, Green, 1887)"
+  ],
+  "creighton-papacy-5": [
+   "ahistoryofthepap05creiuoft",
+   "A History of the Papacy during the Period of the Reformation, vol. V, The German Revolt, 1517-1527 (London: Longmans, Green, 1894)"
+  ],
+  "creighton-persecution-tolerance": [
+   "persecutiontoler00crei",
+   "Persecution and Tolerance, being the Hulsean Lectures preached before the University of Cambridge in 1893-4 (London: Longmans, Green, 1895)"
+  ],
+  "creighton-church-nation": [
+   "churchandnation00creiuoft",
+   "The Church and the Nation: Charges and Addresses, ed. Louise Creighton (London: Longmans, Green, 1901)"
+  ]
+ },
+ "_alternates": {
+  "creighton-copies": "The six-volume new edition, A History of the Papacy from the Great Schism to the Sack of Rome (1897-1900); Cardinal Wolsey (PG 53526, a 1912 reprint of a political life)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "creighton-papacy-1": {
+   "author": "title page read: 'M. CREIGHTON, M.A., late Fellow of Merton College' (OCR 'CUEIGHTON')"
+  },
+  "creighton-papacy-2": {
+   "author": "title page read: 'M. CREIGHTON, M.A.' (OCR 'CKEIGHTON')"
+  },
+  "creighton-papacy-4": {
+   "author": "title page read: A History of the Papacy during the Period of the Reformation, BY M. CEEIGHTON [Creighton] (OCR garble), Dixie Professor of Ecclesiastical History"
+  }
+ },
+ "_rights_checked": {
+  "creighton-papacy-3": "title page read: 1887 and 1894 for vols III-V (all catalogued 1882 in error)"
+ },
+ "_pending": {
+  "creighton-unread": "Historical Essays and Reviews (1902), University and Other Sermons (1903), The Mind of St. Peter (1904): title pages not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "creighton-papacy-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "creighton-papacy-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "creighton-papacy-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1887 and 1894 for vols III-V (all catalogued 1882 in error)"
+  },
+  "creighton-papacy-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "creighton-papacy-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "creighton-persecution-tolerance": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "creighton-church-nation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

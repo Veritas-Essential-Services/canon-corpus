@@ -1,0 +1,55 @@
+{
+ "_about": "Charles Fourier (1772-1837) in English, raw IA OCR: The Passions of the Human Soul and their influence on society and civilization, translated with annotations, a biography and an introduction by Hugh Doherty (London: Hippolyte Baillière, 1851, 2 vols.). US public domain. No uids minted.",
+ "_author": "Charles Fourier",
+ "_name_words": [
+  "charles",
+  "fourier"
+ ],
+ "_surname": [
+  "fourier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fourier-doherty-passions-of-the-human-soul-1851-v1": [
+   "cu31924092283252",
+   "The Passions of the Human Soul, vol. I (London: Baillière, 1851)",
+   "tr. Hugh Doherty"
+  ],
+  "fourier-doherty-passions-of-the-human-soul-1851-v2": [
+   "cu31924092283260",
+   "The Passions of the Human Soul, vol. II (London: Baillière, 1851)",
+   "tr. Hugh Doherty"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "fourier-doherty-passions-of-the-human-soul-1851-v2": "Doherty"
+ },
+ "_checks": {
+  "fourier-doherty-passions-of-the-human-soul-1851-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fourier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fourier-doherty-passions-of-the-human-soul-1851-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fourier",
+   "translator_claimed": "Doherty",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

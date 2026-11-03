@@ -1,0 +1,211 @@
+{
+ "_about": "Public-domain Henry Hart Milman (1791-1868), Dean of St Paul's, for the Word Hoard: his church histories, The History of Christianity to the Abolition of Paganism (1840, three volumes), the History of Latin Christianity in its first edition (1854-55, six volumes) and The History of the Jews (third edition, 1863, three volumes), from Internet Archive scans. His Greek-play translations sit on lane B's shelves and are not repeated here. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "milman"
+ ],
+ "_surname": [
+  "milman",
+  "h. h. milman",
+  "henry hart milman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "milman-christianity-1": [
+   "historyofchrist01milm",
+   "The History of Christianity, from the Birth of Christ to the Abolition of Paganism in the Roman Empire, vol. I (London: John Murray, 1840)"
+  ],
+  "milman-christianity-2": [
+   "historyofchrist02milm",
+   "The History of Christianity, from the Birth of Christ to the Abolition of Paganism in the Roman Empire, vol. II (London: John Murray, 1840)"
+  ],
+  "milman-christianity-3": [
+   "historyofchrist03milm",
+   "The History of Christianity, from the Birth of Christ to the Abolition of Paganism in the Roman Empire, vol. III (London: John Murray, 1840)"
+  ],
+  "milman-latin-christianity-1": [
+   "historyoflatinch00milm",
+   "History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. I (London: John Murray, 1854)"
+  ],
+  "milman-latin-christianity-2": [
+   "historyoflatinc02milm",
+   "History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. II (London: John Murray, 1854)"
+  ],
+  "milman-latin-christianity-3": [
+   "historyoflatinch03milm",
+   "History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. III (London: John Murray, 1854)"
+  ],
+  "milman-latin-christianity-4": [
+   "historyoflatinch04milm",
+   "History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. IV (London: John Murray, 1855)"
+  ],
+  "milman-latin-christianity-5": [
+   "historyoflatinch05milm",
+   "History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. V (London: John Murray, 1855)"
+  ],
+  "milman-latin-christianity-6": [
+   "historyoflatinch06milm",
+   "History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. VI (London: John Murray, 1855)"
+  ],
+  "milman-jews-1": [
+   "historyjewsbyhh05milmgoog",
+   "The History of the Jews, from the Earliest Period down to Modern Times, third edition, thoroughly revised and extended, vol. I (London: John Murray, 1863)"
+  ],
+  "milman-jews-2": [
+   "india.history.resource.85429",
+   "The History of the Jews, third edition, vol. II (London: John Murray, 1863)",
+   "85429_djvu.txt"
+  ],
+  "milman-jews-3": [
+   "historyjewsbyhh01milmgoog",
+   "The History of the Jews, third edition, vol. III (London: John Murray, 1863)"
+  ]
+ },
+ "_alternates": {
+  "milman-copies": "A second 1854-55 Latin Christianity set; Harper's History of the Jews (New York, 1830-1843); his Life of Thomas à Becket (PG 41811, an extract with an unnamed editor)"
+ },
+ "_excluded": {
+  "milman-other": "The 1829 Family Library History of the Jews, which names no author; his Greek and Sanskrit verse translations"
+ },
+ "_rights_checked": {
+  "milman-latin-christianity-4": "title page read: 1855 for vols IV-VI (catalogued 1854 in error)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "milman-christianity-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-christianity-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-christianity-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-latin-christianity-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-latin-christianity-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-latin-christianity-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-latin-christianity-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1855 for vols IV-VI (catalogued 1854 in error)"
+  },
+  "milman-latin-christianity-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-latin-christianity-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1854-1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-jews-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milman-jews-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milman-jews-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

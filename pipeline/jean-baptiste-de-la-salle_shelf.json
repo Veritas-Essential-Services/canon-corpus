@@ -1,0 +1,66 @@
+{
+ "_about": "Public-domain Jean-Baptiste de La Salle (1651-1719), founder of the Brothers of the Christian Schools, for the Word Hoard: the enlarged New Treatise on the Duty of a Christian towards God translated by Mrs. J. Sadlier (New York, copyright 1850) and the version translated by the Christian Brothers (New York Catholic Protectory, 1872), from Internet Archive scans. Both are enlarged recensions of his Devoirs d'un chrétien, not his text verbatim. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "salle"
+ ],
+ "_surname": [
+  "de la salle",
+  "j. b. de la salle",
+  "la salle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lasalle-duty-christian-sadlier": [
+   "newtreatiseondut00lasa",
+   "A New Treatise on the Duty of a Christian towards God, an enlarged and improved version, tr. Mrs. J. Sadlier, first American from the eighteenth Paris edition (New York and Montreal: D. & J. Sadlier; copyright 1850)"
+  ],
+  "lasalle-duties-christian-1872": [
+   "newtreatiseofdut00lasa",
+   "A New Treatise of the Duties of a Christian towards God, translated from the French by the Christian Brothers (West Chester, N.Y.: New York Catholic Protectory, 1872)"
+  ]
+ },
+ "_alternates": {
+  "lasalle-copies": "The second American Sadlier edition (anewtreatiseonth00lasauoft); the Montreal Christian Brothers edition (copyright 1869); Kenedy 1910 (text would not load)"
+ },
+ "_excluded": {
+  "lasalle-other": "Christian Politeness (1904, by M. M. Gerend); Extracts from his spiritual writings (a compilation)"
+ },
+ "_rights_checked": {
+  "lasalle-duty-christian-sadlier": "title page read: no printed year on the title page; copyright 1850",
+  "lasalle-duties-christian-1872": "title page read: translated by the Christian Brothers, with historical examples by F. P. B."
+ },
+ "_pending": {},
+ "_translators": {
+  "lasalle-duty-christian-sadlier": "sadlier"
+ },
+ "_checks": {
+  "lasalle-duty-christian-sadlier": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de la salle",
+   "translator_claimed": "sadlier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no printed year on the title page; copyright 1850"
+  },
+  "lasalle-duties-christian-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de la salle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: translated by the Christian Brothers, with historical examples by F. P. B."
+  }
+ }
+}
