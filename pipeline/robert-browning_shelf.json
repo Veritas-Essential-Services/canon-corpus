@@ -27,7 +27,7 @@
     452
    ],
    "bloom_title": "The Ring and the Book",
-   "year": "unread",
+   "year": "1895 (front matter read: 'Copyright, 1895'; 'BOSTON, 4 PARK STREET, August 1, 1895', the Cambridge Edition)",
    "evidence": "Read PG header ('The Cambridge Edition of the Poets') and grep: 'THE RING AND THE BOOK' appears as a section heading.",
    "case": "Bloom lists The Ring and the Book; not held. The one-volume Cambridge Browning on PG contains it complete, and also gives the complete poems.",
    "note": ""
