@@ -1,0 +1,45 @@
+{
+ "_about": "Ronald Firbank. Bloom's Western Canon (1994) lists: Five Novels. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Ronald Firbank",
+ "_name_words": [
+  "ronald",
+  "firbank"
+ ],
+ "_surname": [
+  "firbank",
+  "ronald firbank"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "firbank-concerning-eccentricities-cardinal-pirelli": [
+   "gtu_32400005594068",
+   "Concerning the Eccentricities of Cardinal Pirelli"
+  ]
+ },
+ "_bloom": {
+  "firbank-concerning-eccentricities-cardinal-pirelli": {
+   "bloom_n": [
+    882
+   ],
+   "bloom_title": "Five Novels",
+   "year": "1926 (title page: London, Grant Richards, MDCCCCXXVI)",
+   "evidence": "Read title page and opening; collection internetarchivebooks/graduatetheologicalunion, not lending.",
+   "case": "Bloom lists Five Novels (1949): Valmouth, The Artificial Princess, The Flower Beneath the Foot, Prancing Nigger (=Sorrow in Sunlight), Cardinal Pirelli. We hold two of them; Pirelli (1926) is added here.",
+   "note": "Valmouth (1919) is PD but I found no text on IA or PG (searched title:(valmouth), creator:(firbank) 1915-30). The Artificial Princess was first published 1934 and is NOT PD."
+  }
+ },
+ "_checks": {
+  "firbank-concerning-eccentricities-cardinal-pirelli": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "firbank",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
