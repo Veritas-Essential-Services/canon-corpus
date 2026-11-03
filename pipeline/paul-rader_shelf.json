@@ -22,15 +22,20 @@
   "rader-gods-blessed-man": [
    "godsblessedman0000paul",
    "God's Blessed Man (catalogued 1922)"
+  ],
+  "rader-round-the-world": [
+   "roundroundworld00radegoog",
+   "Round the World (New York: Fleming H. Revell, copyright 1932)"
   ]
  },
  "_alternates": {},
  "_excluded": {
   "rader-stories": "The Empty Cottage at Silver Falls is fiction",
-  "rader-dups": "second scans of God's Blessed Man",
-  "rader-round-the-world": "roundroundworld00radegoog: the catalogue says 1922, but this printing reads \"Copyright, 1932\" (Revell), after the 1930 cutoff"
+  "rader-dups": "second scans of God's Blessed Man"
  },
- "_rights_checked": {},
+ "_rights_checked": {
+  "rader-round-the-world": "Non-renewal sweep 2026-11-03 (Adam: \"I want everything that was not renewed\"). The scan's printing reads 'Copyright, 1932' (Revell, New York); Rader was American, so a US work (URAA does not reach it). pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991), by surname plus title words and by title alone: no renewal under Rader (due 1959-60). US public domain by non-renewal."
+ },
  "_identity_checked": {},
  "_pending": {
   "rader-hymns": "Tabernacle Hymns No. 2 (1921), IA tabernaclehymnsn00rade: a hymnal he compiled from many writers (waits for Adam's ruling on many-author compilations)"
@@ -39,7 +44,7 @@
  "_checks": {
   "rader-sermons": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rader",
    "identity": "ok",
@@ -50,7 +55,7 @@
   },
   "rader-how-to-win": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rader",
    "identity": "ok",
@@ -61,7 +66,7 @@
   },
   "rader-gods-blessed-man": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rader",
    "identity": "ok",
@@ -69,6 +74,21 @@
    "ia_date": "1922",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "rader-round-the-world": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rader",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Non-renewal sweep 2026-11-03 (Adam: \"I want everything that was not renewed\"). The scan's printing reads 'Copyright, 1932' (Revell, New York); Rader was American, so a US work (URAA does not reach it). pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991), by surname plus title words and by title alone: no renewal under Rader (due 1959-60). US public domain by non-renewal."
   }
+ },
+ "_nonrenewal": {
+  "rader-round-the-world": "Non-renewal sweep 2026-11-03 (Adam: \"I want everything that was not renewed\"). The scan's printing reads 'Copyright, 1932' (Revell, New York); Rader was American, so a US work (URAA does not reach it). pipeline/renewal_check.py over NYPL's cce-renewals (every renewal 1950-1991), by surname plus title words and by title alone: no renewal under Rader (due 1959-60). US public domain by non-renewal."
  }
 }
