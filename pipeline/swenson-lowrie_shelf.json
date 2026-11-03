@@ -1,0 +1,84 @@
+{
+ "_about": "TRANSLATOR SHELF: the Kierkegaard of David F. Swenson (1876-1940; with Lillian Marvin Swenson, who finished his work) and Walter Lowrie (1868-1959), the English Kierkegaard of 1936-1955. Added 2026-11-03 (Adam: \"I want all of Swenson and Lowry translations connected and scheduled for release\"). Every volume is listed here once: open ones under `internet_archive` (fetched) or `_pending` (open in law, no free text yet), the rest under `_waiting` with the day each opens, and each waiting one is on the house release queue (wordhoard apps/thewordhoard/data/release-queue.json, ledger = this file). Renewals searched 2026-11-03 in the Stanford Copyright Renewal Database and in the printed Catalog of Copyright Entries (registrations 1936-1947; renewals 1963-64, 1970-71, 1973-74) on the Internet Archive: wordhoard docs/research/2026-11-03-kierkegaard-swenson-lowrie.md. Hollander's 1923 Selections is on the hollander shelf. No uids minted.",
+ "_name_words": [
+  "david f. swenson",
+  "walter lowrie"
+ ],
+ "_surname": [
+  "swenson",
+  "lowrie"
+ ],
+ "_surname_note": "Translators' surnames: one must appear in the text.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "swenson-kierkegaard-works-of-love": [
+   "in.ernet.dli.2015.187384",
+   "Works of Love (1946; the 1949 second printing)",
+   "2015.187384.Works-Of-Love_djvu.txt"
+  ]
+ },
+ "_translators": {
+  "swenson-kierkegaard-works-of-love": "David F. Swenson and Lillian Marvin Swenson"
+ },
+ "_rights_checked": {
+  "swenson-kierkegaard-works-of-love": "Read 2026-11-03: title page 'Princeton University Press 1949, Copyright 1946 by Princeton University Press, second printing 1949, printed in the United States of America'. Registered A5267 (25 Jun 1946, CCE 1946 p. 'Kierkegaard'). No renewal: Stanford renewals database (no record for A5267 or the title in the Swensons' translation; the 1962 Hong 'Works of Love' renewals RE485412 and RE484468 are another translation) and CCE renewals 1973 and Jan-Dec 1974 read. A US work not renewed in its 28th year: US public domain since 1975. The scan is the Digital Library of India's (unrestricted)."
+ },
+ "titles": {
+  "swenson-kierkegaard-works-of-love": {
+   "source": "swenson-kierkegaard-works-of-love",
+   "of": "Søren Kierkegaard",
+   "work": "Works of Love (Kjerlighedens Gjerninger, 1847)",
+   "translated": 1946,
+   "translator": "David F. Swenson and Lillian Marvin Swenson",
+   "scan_edition": "Princeton University Press, second printing 1949 (copyright 1946), introduction by Douglas V. Steere; Digital Library of India scan on archive.org",
+   "us_status": "free-now: registered A5267, never renewed"
+  }
+ },
+ "_pending": {
+  "swenson-kierkegaard-philosophical-fragments": "Philosophical Fragments (Princeton University Press for the American-Scandinavian Foundation, 1936), tr. David F. Swenson. US PUBLIC DOMAIN NOW: registered A102052 (15 Dec 1936, CCE 1936); no renewal in 1963-64 (Stanford database; CCE renewals 1963 and 1964 read). The 1962 edition revised by Niels Thulstrup and Howard Hong is renewed (RE488470, 1990) for its revisions only: use the 1936 text. No free text yet: archive.org has only lending copies (philosophicalfra0000kier_x7u1, _v7b3), HathiTrust has not reviewed its copy (uva.x030214738, 'ic' by default). Needs a scan of a 1936 copy, or a HathiTrust copyright review request, before it can be fetched.",
+  "swenson-kierkegaard-edifying-discourses-1": "Edifying Discourses, vol. I (Augsburg Publishing House, 1943), tr. David F. and Lillian Marvin Swenson. US PUBLIC DOMAIN NOW: registered A175561 (14 Sep 1943, CCE 1943); no renewal (Stanford database has vols II-IV, R519370, R548231, R575358, and nothing for vol. I or A175561; CCE renewals 1970 and Jul-Dec 1971 list vol. II and not vol. I). No free text yet: archive.org has only lending copies (edifyingdiscours0001kier), HathiTrust has not reviewed its copy (mdp.39015043654931, 'ic' by default). Needs a scan or a HathiTrust review request.",
+  "lowrie-kierkegaard-training-in-christianity": "Training in Christianity and the Edifying Discourse which 'Accompanied' It (Oxford University Press, London, 1941; Princeton offset reprint 1944), tr. Walter Lowrie. MAY BE FREE NOW, awaiting Adam's ruling: see _waiting. A free scan exists (Digital Library of India, in.ernet.dli.2015.165989, the 1944 Princeton reprint, whose verso reads 'First published in Great Britain 1941; reprinted by offset in the United States of America, 1944'). Fetch it only on Adam's word."
+ },
+ "_waiting": {
+  "lowrie-kierkegaard-christian-discourses": "Christian Discourses, and The Lilies of the Field and the Birds of the Air, and Three Discourses at the Communion on Fridays (Oxford University Press, London, 1939), tr. Lowrie. 2035-01-01 on the queue; MAY BE FREE NOW (see _note_oup).",
+  "lowrie-kierkegaard-point-of-view": "The Point of View for My Work as an Author, with Two Notes about 'the Individual' and On My Work as an Author (Oxford University Press, London, 1939), tr. Lowrie. 2035-01-01; MAY BE FREE NOW (see _note_oup). The 1962 Harper edition is renewed (RE484467) for Benjamin Nelson's new notes only.",
+  "lowrie-kierkegaard-present-age": "The Present Age (tr. Alexander Dru) and Two Minor Ethico-Religious Treatises (tr. Lowrie) (Oxford University Press, London, 1940). 2036-01-01. Dru was British (d. 1976), so his half is a restored foreign work; the volume waits for its day.",
+  "lowrie-kierkegaard-stages-on-lifes-way": "Stages on Life's Way (Princeton, 1940), tr. Lowrie. A149705, renewed R432046. 2036-01-01.",
+  "swenson-kierkegaard-thoughts-on-crucial-situations": "Thoughts on Crucial Situations in Human Life: Three Discourses on Imagined Occasions (Augsburg, 1941), tr. Swenson, ed. L. M. Swenson. A158433, renewed R447259. 2037-01-01.",
+  "swenson-lowrie-kierkegaard-concluding-unscientific-postscript": "Concluding Unscientific Postscript (Princeton for the American-Scandinavian Foundation, 1941), tr. Swenson, completed by Lowrie. A156433, renewed R443957. 2037-01-01.",
+  "lowrie-kierkegaard-sickness-unto-death": "The Sickness unto Death (Princeton, 1941), tr. Lowrie. A159551, renewed R458282. 2037-01-01.",
+  "lowrie-kierkegaard-fear-and-trembling": "Fear and Trembling (Princeton, 1941), tr. Lowrie. A160177, renewed R458284. 2037-01-01. Lowrie's revised text in the 1954 Anchor Fear and Trembling and The Sickness unto Death is renewed (RE187386) to 2050 for its revisions: use the 1941 text.",
+  "lowrie-kierkegaard-repetition": "Repetition (Princeton, 1941), tr. Lowrie. A160176, renewed R458283. 2037-01-01.",
+  "lowrie-kierkegaard-training-in-christianity": "Training in Christianity (Oxford University Press, London, 1941; Princeton 1944), tr. Lowrie. 2037-01-01; MAY BE FREE NOW (see _note_oup). Also listed under _pending.",
+  "lowrie-kierkegaard-for-self-examination": "For Self-Examination, and Judge for Yourselves!, and Three Discourses 1851 (Oxford University Press, London, 1941; Princeton 1944), tr. Lowrie. 2037-01-01; MAY BE FREE NOW (see _note_oup).",
+  "swenson-lowrie-kierkegaard-either-or": "Either/Or (Princeton, 1944, 2 vols.), vol. I tr. D. F. and L. M. Swenson, vol. II tr. Lowrie. A180088, renewed R517166. 2040-01-01. The 1959 Anchor edition revised by Howard A. Johnson is renewed (RE347085) to 2055 for its revisions.",
+  "swenson-kierkegaard-edifying-discourses-2": "Edifying Discourses, vol. II (Augsburg, 1944), tr. D. F. and L. M. Swenson. A184749, renewed R519370. 2040-01-01.",
+  "lowrie-kierkegaard-concept-of-dread": "The Concept of Dread (Princeton, 1944), tr. Lowrie. A183021, renewed R517164. 2040-01-01.",
+  "lowrie-kierkegaard-attack-upon-christendom": "Kierkegaard's Attack upon 'Christendom' 1854-1855 (Princeton, 1944), tr. Lowrie. A185197, renewed R517165. 2040-01-01.",
+  "swenson-kierkegaard-edifying-discourses-3": "Edifying Discourses, vol. III (Augsburg, 1945), tr. D. F. and L. M. Swenson. A190012, renewed R548231. 2041-01-01.",
+  "swenson-kierkegaard-edifying-discourses-4": "Edifying Discourses, vol. IV (Augsburg, 1946), tr. D. F. and L. M. Swenson. A4652, renewed R575358. 2042-01-01.",
+  "swenson-kierkegaard-gospel-of-suffering": "The Gospel of Suffering and The Lilies of the Field (Augsburg, published 15 Dec 1947, dated 1948), tr. D. F. and L. M. Swenson. A22656, renewed R602804. 2043-01-01.",
+  "lowrie-kierkegaard-on-authority-and-revelation": "On Authority and Revelation: The Book on Adler (Princeton, 1955), tr. Lowrie. A194663, renewed RE193879. 2051-01-01.",
+  "_note_oup": "Four Lowrie volumes came out first in London (Oxford University Press, 1939-41), were never registered in the US and never renewed. The URAA of 1996 restores a foreign-published book only when an author was a national or domiciliary of another treaty country (17 USC 104A(h)(6)(C)). Lowrie was an American living in Princeton, so they look restorable only through a co-author, and these four have none: on that reading they are US public domain now. They are held to their 95-year days until Adam rules (the house's rule for a book that may be free already: wordhoard ADR 0041). Training in Christianity's verso confirms the London-first publication; the other three are read from their catalogue records."
+ },
+ "_excluded": {
+  "lowrie-kierkegaard-biography-1938": "Lowrie's own Kierkegaard (Oxford, 1938) and A Short Life of Kierkegaard (Princeton, 1942, renewed R482953), and Swenson's Something about Kierkegaard (Augsburg, 1941, renewed R447260): books about Kierkegaard, not translations. Not on this shelf; Adam may ask for them."
+ },
+ "_checks": {
+  "swenson-kierkegaard-works-of-love": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "swenson",
+   "translator_claimed": "David F. Swenson and Lillian Marvin Swenson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1949",
+   "ia_date": "1949",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Read 2026-11-03: title page 'Princeton University Press 1949, Copyright 1946 by Princeton University Press, second printing 1949, printed in the United States of America'. Registered A5267 (25 Jun 1946, CCE 1946 p. 'Kierkegaard'). No renewal: Stanford renewals database (no record for A5267 or the title in the Swensons' translation; the 1962 Hong 'Works of Love' renewals RE485412 and RE484468 are another translation) and CCE renewals 1973 and Jan-Dec 1974 read. A US work not renewed in its 28th year: US public domain since 1975. The scan is the Digital Library of India's (unrestricted)."
+  }
+ }
+}
