@@ -1,0 +1,76 @@
+{
+ "_about": "John Clare. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Clare",
+ "_name_words": [
+  "john",
+  "clare"
+ ],
+ "_surname": [
+  "clare",
+  "john clare"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "clare-poems": [
+   52601,
+   "Poems",
+   "tr. ed. Norman Gale"
+  ],
+  "clare-poems-chiefly-manuscript": [
+   8672,
+   "Poems Chiefly from Manuscript",
+   "tr. ed. Edmund Blunden and Alan Porter"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "clare-poems": "Gale",
+  "clare-poems-chiefly-manuscript": "Blunden"
+ },
+ "_bloom": {
+  "clare-poems": {
+   "bloom_n": [
+    443
+   ],
+   "bloom_title": "Poems",
+   "year": "1901 (title page 'RUGBY: GEORGE E. OVER, 1901')",
+   "evidence": "Read PG header and title page.",
+   "case": "Bloom lists Clare's poems; nothing by Clare is held. Gale's 1901 selection covers the published poems; Blunden and Porter's 1920 volume adds the manuscript poems on which Clare's modern standing rests.",
+   "note": "Take both; together they are the best PD Clare."
+  },
+  "clare-poems-chiefly-manuscript": {
+   "bloom_n": [
+    443
+   ],
+   "bloom_title": "Poems",
+   "year": "unread (preface thanks the president 'for 1919-1920'; the book is the 1920 Cobden-Sanderson edition, from memory)",
+   "evidence": "Read PG front matter.",
+   "case": "Bloom lists Clare's poems; nothing by Clare is held. Gale's 1901 selection covers the published poems; Blunden and Porter's 1920 volume adds the manuscript poems on which Clare's modern standing rests.",
+   "note": "Take both; together they are the best PD Clare."
+  }
+ },
+ "_checks": {
+  "clare-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clare",
+   "translator_claimed": "Gale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clare-poems-chiefly-manuscript": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clare",
+   "translator_claimed": "Blunden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
