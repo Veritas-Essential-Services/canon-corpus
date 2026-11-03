@@ -41,6 +41,42 @@
   "emerson-journals": [
    "journalsofralphw01emeruoft",
    "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. I, 1820-1824"
+  ],
+  "emerson-journals-ii": [
+   "journalswithann02emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. II, 1824-1832"
+  ],
+  "emerson-journals-iii": [
+   "journalswithann03emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. III, 1833-1835"
+  ],
+  "emerson-journals-iv": [
+   "journalswithanno04emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. IV, 1836-1838"
+  ],
+  "emerson-journals-v": [
+   "journalswithann05emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. V, 1838-1841"
+  ],
+  "emerson-journals-vi": [
+   "journalswithann06emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. VI, 1841-1844"
+  ],
+  "emerson-journals-vii": [
+   "journalswithann07emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. VII, 1845-1848"
+  ],
+  "emerson-journals-viii": [
+   "journalswithanno08emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. VIII, 1849-1855"
+  ],
+  "emerson-journals-ix": [
+   "journalsofralphw0009emer_i6i0",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. IX, 1856-1863"
+  ],
+  "emerson-journals-x": [
+   "journalswithann10emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. X, 1864-1876"
   ]
  },
  "_excluded": {},
@@ -109,6 +145,105 @@
    "ia_date": "1909",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "emerson-journals-ii": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emerson-journals-iii": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emerson-journals-iv": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emerson-journals-v": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emerson-journals-vi": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emerson-journals-vii": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emerson-journals-viii": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emerson-journals-ix": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "emerson-journals-x": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-14",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_bloom": {
@@ -150,7 +285,7 @@
    "year": "1909 (title page: Boston and New York, Houghton Mifflin, 1909; 'Copyright, 1909')",
    "evidence": "djvu title page read; collection toronto",
    "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
-   "note": "Ten volumes. Only vol. I's title page was read; the other nine need picking from IA (e.g. the cu31924021990* Cornell series, 1909-14 per IA metadata)."
+   "note": "All ten volumes are on this shelf (vol. I here; II-X added 2026-11-03)."
   },
   "emerson-poems": {
    "bloom_n": [
@@ -161,6 +296,96 @@
    "evidence": "PG front matter lists copyright years 1867, 1876, 1883, 1895, 1904 and 1911, so this is the 1904/1911 Centenary-text Household Edition",
    "case": "Emerson's poems collected (Centenary text, with appendix); not held.",
    "note": "Also PG 15963 May-Day, and Other Pieces (1867)."
+  },
+  "emerson-journals-ii": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1910 printing (copyright 1909) (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1824-1832, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-iii": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1910 printing (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1833-1835, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-iv": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1910 (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1836-1838, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-v": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1911 (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1838-1841, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-vi": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1911 (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1841-1844, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-vii": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1912 (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1845-1848, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-viii": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1913 printing (copyright 1912) (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1849-1855, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-ix": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1913 (title page: copyright 1913, published November 1913) (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1856-1863, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
+  },
+  "emerson-journals-x": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1914 (copyright 1914) (Boston and New York: Houghton Mifflin)",
+   "evidence": "djvu title page read: editors, years 1864-1876, Houghton Mifflin, copyright line",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Completes the ten volumes (2026-11-03 follow-up)."
   }
  }
 }
