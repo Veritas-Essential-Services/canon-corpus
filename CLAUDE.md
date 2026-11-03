@@ -134,10 +134,28 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/proper_names.py --fetch  # the house proper-names table (Vulgate + Hitchcock, PD)
     python3 pipeline/proper_names.py --check  # names table byte-identical
     python3 tests/proper_names_test.py        # the names table; the house supplement's attestation
-    python3 pipeline/build_nt_corpus.py --fetch   # Greek NT pilot: RP2018 + Strong's, pinned
+    python3 pipeline/build_nt_corpus.py --fetch   # Greek NT (all 27 books): RP2018 + Strong's, pinned
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
-    python3 tests/nt_corpus_test.py          # validator for data/nt/*.jsonl
+    python3 tests/nt_corpus_test.py          # validator for data/nt/<Book>/*.jsonl
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
+    python3 pipeline/build_ot_corpus.py --check   # Hebrew OT (WLC): mint 0, byte-identical
+    python3 tests/ot_corpus_test.py          # validator for data/ot/<Book>/*.jsonl
+    python3 pipeline/rebuild_bible.py        # NT + OT from the pins (one git fetch each), timed, then --check
+    python3 pipeline/rebuild_bible.py --verify  # same, in memory: proves = the manifests, writes nothing
+    python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
+    python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
+    python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
+    python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
+    python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
+    python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
+    python3 pipeline/build_nt_variants.py --fetch    # NT variant apparatus: STEPBible TAGNT (CC BY), pinned
+    python3 pipeline/build_nt_variants.py --check    # rebuild = the committed manifest entry
+    python3 pipeline/build_nt_variants.py --measure  # TAGNT's Byz (RP2005) vs data/nt (RP2018), word by word
+    python3 tests/nt_variants_test.py        # the apparatus: parsing rules, famous variants
+    python3 pipeline/build_philo.py --fetch      # Philo: Cohn-Wendland Greek + Yonge English (First1KGreek, pinned)
+    python3 pipeline/build_philo.py --check      # rebuild = the committed manifest entries
+    python3 pipeline/build_philo.py --measure    # how Cohn-Wendland number scripture: the evidence
+    python3 tests/philo_test.py              # Philo: alignment, scripture refs, OCR cruft
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -211,15 +229,60 @@ The living truth for project state is the Obsidian vault:
   slice committed; full table gitignored). Rules:
   pipeline/README-lemma-spine.md
 - pipeline/build_nt_corpus.py — the Greek NT (Robinson-Pierpont 2018, PD;
-  lemmas = Strong's 1890 headword by Robinson's number) → data/nt/ (COMMITTED).
+  lemmas = Strong's 1890 headword by Robinson's number) → data/nt/<Book>/
+  (one folder per book, one manifest; read via load_nt()). COMMITTED: the
+  manifest, the house inputs, and John; the other books' shards are
+  gitignored and rebuilt by pipeline/rebuild_bible.py (byte-identical, the
+  manifest holds their sha256).
   One row per VERSE on the KJV verse's EXISTING uid: registry opened frozen,
-  mints 0. Pilot John 1:1-18. Schema + differences from the hymns:
+  mints 0. Whole NT since 2026-10-02 (7,953 verses); the drafts and the
+  reader cover the John 1:1-18 pilot. Doxology placement and sharding are
+  house defaults awaiting Adam (README-nt-jsonl s.16). Schema + differences from the hymns:
   pipeline/README-nt-jsonl.md. Glosses: Strong's DICTIONARY glosses by a
   fixed rule (pipeline/strongs_gloss.py, README s.12), not a translation;
   data/nt/gloss-overrides.jsonl is the contextual layer and
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_ot_corpus.py — the Hebrew OT (Westminster Leningrad Codex via
+  OSHB at 3d15126; the TEXT is PD) → data/ot/<Book>/ (one folder per
+  book, one manifest; read via load_ot(); only the manifest is COMMITTED, the
+  shards are rebuilt by pipeline/rebuild_bible.py). One row per KJV verse on its EXISTING
+  uid, mapped through data/versification/bhs-kjv.json; mints 0. 🔴 OSHB's
+  lemmas/morphology are CC BY 4.0 and are NOT in these files: lemma, parsing,
+  gloss are null until ADR 0019. Psalm titles, spans, joined verses: house
+  defaults awaiting Adam. pipeline/README-ot-jsonl.md
+- pipeline/build_apostolic_fathers.py — the Apostolic Fathers in Greek (Kirsopp
+  Lake's Loeb, 1912-13, PD; First1KGreek's TEI of it is CC BY-SA 4.0) → nine
+  books in data/books/ (gitignored; manifest entries committed with a rights
+  block, redistribute_whole false). Cited chapter.section (Ign. Eph. 1.1, Herm.
+  Sim. 9.1.1); unit ids are citations, nothing minted. Words carry Strong's
+  numbers by fixed rules against data/nt (85% of the Greek), never guessed.
+  Pol. Phil. 10-14 and Herm. Sim. 9.30-10.4 survive in Latin, which
+  First1KGreek garbled into Greek letters; a per-book rule restores it.
+  Lightfoot's English is PENDING (CCEL, unreachable from cloud sessions).
+- pipeline/build_josephus.py — Josephus (Ant., J.W., Life, Ag. Ap.): Niese's
+  Greek and Whiston's English (both PD; Perseus TEI CC BY-SA 4.0, so books
+  gitignored, labelled manifest entries committed). Units are Whiston's
+  book.chapter.section in both languages, linked to each other; each Greek
+  unit lists its Niese sections (lex.niese). Perseus's Whiston milestones have
+  four slips and two slid runs (Ant. 4.8.32-41, 8.6.1-8.10.3: the Greek's
+  milestones one section off, the English's Niese numbers copied from them),
+  corrected by FIXES rows; the build stops on any new slip, and on any run of
+  units whose Greek-to-English length fits a neighbour better (shift_runs).
+- pipeline/build_philo.py — Philo, 31 treatises: Cohn-Wendland's Greek and
+  Yonge's English (both PD; First1KGreek TEI CC BY-SA 4.0, so books gitignored,
+  labelled manifest entries committed), aligned by Cohn-Wendland section.
+  The editors' scripture references leave the Greek text for links[]; they
+  number Psalms and Exod 35-40 as the LXX, the rest as the KJV (measured,
+  `--measure`). Bohn's running heads in the English are CRUFT rows.
+- pipeline/build_nt_variants.py — a variant apparatus for the NT from
+  STEPBible's TAGNT (CC BY 4.0; STEPBible asks it not be redistributed, so
+  the book is gitignored and only the manifest entry is committed): per KJV
+  verse, which of eight editions (NA28/27, THGNT, SBLGNT, WH, Tregelles, TR,
+  Byz) print which words. TAGNT's English (Berean, by permission) and Spanish
+  are never read in. MorphGNT/SBLGNT (EULA) and OpenGNT (Berean/NET content)
+  were turned down on their licences.
 - pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves

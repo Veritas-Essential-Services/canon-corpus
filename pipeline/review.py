@@ -433,11 +433,11 @@ class NTSheet:
         self.notes_path = self.path[:-3] + ".notes.json"
 
     def load(self):
-        ntd = os.path.join(self.root, "data", "nt")
         self.notes = json.loads(read_text(self.notes_path))
-        self.passages = jsonl(os.path.join(ntd, "passages.jsonl"))
-        self.tokens = jsonl(os.path.join(ntd, "tokens.jsonl"))
-        self.witnesses = {w["address"]: w for w in jsonl(os.path.join(ntd, "witnesses.jsonl"))}
+        nt = B.load_nt(self.root, pericope=B.PILOT["pericope"])   # the sheet covers the pilot
+        self.passages = nt["passages"]
+        self.tokens = nt["tokens"]
+        self.witnesses = {w["address"]: w for w in nt["witnesses"]}
         self.ov_list = jsonl(G.OVERRIDES)
         self.po_list = jsonl(B.PROSE_ORDERS)
         self.overrides = G.load_overrides(G.OVERRIDES)
