@@ -1,0 +1,78 @@
+{
+ "_about": "George Darley. Bloom's Western Canon (1994) lists: Nepenthe; Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "George Darley",
+ "_name_words": [
+  "george",
+  "darley"
+ ],
+ "_surname": [
+  "darley",
+  "george darley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "darley-nepenthe": [
+   "nepenthepoemintw00darlrich",
+   "Nepenthe: A Poem in Two Cantos"
+  ],
+  "darley-poems-late": [
+   "poemsoflategeorg00darl",
+   "Poems of the Late George Darley"
+  ]
+ },
+ "_translators": {
+  "darley-nepenthe": "Streatfeild",
+  "darley-poems-late": "circulation"
+ },
+ "_bloom": {
+  "darley-nepenthe": {
+   "bloom_n": [
+    447
+   ],
+   "bloom_title": "Nepenthe",
+   "year": "1897 (title page 'LONDON ELKIN MATHEWS, VIGO STREET MDCCCXCVII')",
+   "evidence": "Read djvu title page. Collection cdl/americana.",
+   "case": "Bloom lists Nepenthe; nothing by George Darley is held (the darley shelf is J. R. Darley, a different man). The 1897 Elkin Mathews reprint is the accessible text.",
+   "note": "The 'author' match in the chunk was to John Richard Darley, not George."
+  },
+  "darley-poems-late": {
+   "bloom_n": [
+    448
+   ],
+   "bloom_title": "Poems",
+   "year": "unread (IA says [1889?]; title page has no date; Liverpool: A. Holden)",
+   "evidence": "Read djvu title page and contents (Memoir; Lenimina Laborum...). Collection cdl/americana.",
+   "case": "Bloom lists Darley's poems; this memorial collection is the 19th-century gathering of them.",
+   "note": "Undated on the page but Darley died 1846 and the volume is plainly 19th-century. IA also has 'Selections from the Poems of George Darley' (1904, selectionsfromp00darlgoog; not opened). Colles's 1908 Complete Poetical Works (Muses' Library) would be better if found."
+  }
+ },
+ "_checks": {
+  "darley-nepenthe": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "darley",
+   "translator_claimed": "Streatfeild",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darley-poems-late": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "darley",
+   "translator_claimed": "circulation",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "[1889?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
