@@ -1,6 +1,32 @@
 # Lane B digest — Classical (English translations)
 <!-- refreshed 2026-10-02 17:31 CDT by the lane B worker -->
 
+## 2026-11-03: the Bloom burn (read this first)
+
+Adam, 2026-11-03: "use what you need to bring this project to its most complete state." Lane B took all four of Bloom's ages (coordinator card, option "Lane B fills all of Bloom"), Bloom-only, every addition with a written case.
+
+**What was done.**
+
+- **Every entry on Bloom's list was checked by hand**, 1,142 distinct works. Verdicts: held already 144, added or addable 257, in copyright in the US 696, no PD English text found 44, unclear 1. One line per entry, with the edition, its evidence and the case, in `docs/review/bloom/bloom-research.jsonl`.
+- **160 author shelves were written or extended, one commit per author** ("Bloom: <Author> (<shelf>)"), every file fetched and passed through `fetch_shelf.py --verify --record` (the identity gate) before its commit. Each shelf row carries a `_bloom` block: Bloom's number and title, the edition's year, the evidence it is US PD, and the case.
+- **The Admissions page has a third tab, "Bloom additions"** (283 books: Lane B's shelved ones plus the 16 Lane C staged). Keep, cut or later, one book at a time: https://claude.ai/artifact/H3VRhvjjCisJ6HPnGmGnmV . The checklist tab now shows each Bloom entry's real status (held, added, Lane C / pending, in copyright, no text).
+- **Foreign works of 1500-1900 went to Lane C**, which owns translators. 40 finds are handed over in `docs/review/bloom/lane-c-handoff.md`. Lane B shelved the English-language regions and the 20th-century foreign works Lane C had not staged.
+- **The ancient age was already complete**, so nothing was added there.
+
+**Open calls for Adam (none block anything).**
+
+1. **Christine de Pisan's City of Ladies (1521) and Diego de San Pedro's Castell of Love (c.1549).** These are the only two gaps in the ancient-medieval age. Both scans are black-letter type, and their OCR is too poor to pass the identity gate, so neither was shelved. Each needs a re-OCR (the Thayer recipe in CLAUDE.md, with an English black-letter model) before it can go on a shelf.
+2. **Scans left out because they hold matter still in copyright**: Kafka's Castle (Mann's introduction), Pound's Personae (the 1949 additions), the As I Lay Dying omnibus (the 1946 appendix), Unamuno's Three Exemplary Novels (the 1956 introduction), and Waugh's Vile Bodies at PG 77900 (the 1964 preface). Each is waiting for a clean printing.
+3. **Public domain only because nobody renewed it**: Styron's The Long March, found on Gutenberg. It stays shelved under the US-only rule unless you say otherwise.
+4. **Partial sets.** Proust (Scott Moncrieff) stops at vol. 6. Only vol. I of Emerson's Journals is in. Poe's Virginia edition vols. IX-XII were not picked. Wordsworth has only some of the Knight volumes, and Byron is missing vols. 2-3 and 5-7. Each case on the page says how much of the work it covers.
+5. **Hamsun's Hunger** is held on the Egerton/Worster shelf in its bowdlerised 1899 English text. That is the only PD English text.
+6. **Lane B removed four of its own shelves (wilfred-owen, knut-hamsun, i-l-peretz, rilke-poems)** because the same books were already held on translator shelves. From now on, mkplan skips any Gutenberg or Internet Archive id held anywhere.
+7. **44 Bloom works have no PD English text that could be found.** The list is in bloom-research.jsonl under verdict `no_source`. It includes Rimbaud, Mallarmé, Büchner's Woyzeck, Hölderlin, Corneille's Horace/Cinna/Rodogune, Rameau's Nephew and Akhmatova. They are candidates for new translation or later scans, not for shelving now.
+8. **696 Bloom works are still in US copyright.** Most of the 20th century is in that number. Works enter the public domain each 1 January: 1931 works on 2027-01-01, so a yearly re-run of the checklist will pick them up.
+
+**Nothing minted, nothing merged.** PR #38 is still on hold for your shelf-by-shelf review. The Bloom shelves live on the same branch (`claude/project-thread-yu0x73`), each in its own commit, so a "cut" is a one-file revert.
+
+
 ## 2026-10-27: Bloom only from here (read this first)
 
 Adam, 2026-10-27: "go bloom only from now on." PR #38 (rounds cq-ec, 582 shelves, 1,557 volumes) stays **unmerged as a holding area**. Each shelf has a written case in `docs/review/bloom/2026-10-27-pr38-admissions.json`, and Adam marks keep, cut or later on the Armarium Admissions page. Round ed (more minor scholars) is dropped.
