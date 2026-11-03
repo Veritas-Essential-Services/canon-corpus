@@ -1,0 +1,175 @@
+{
+ "_about": "Adam's Logos purchase 'Classic Commentaries and Studies on Daniel Upgrade (17 vols)' (receipt June 2017), its titles as listed on logos.com read 2026-11-03, each found as a pre-1931 Internet Archive scan and its title page read. One shelf for the bundle because its 17 authors mostly have one book each; works already on another shelf are not repeated here (listed under _excluded). Internet Archive OCR, raw. All pre-1931, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "daniel"
+ ],
+ "_surname": [
+  "newton",
+  "harrison",
+  "wodrow",
+  "miles",
+  "wintle",
+  "haskell",
+  "oswald",
+  "taylor",
+  "wilson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ccd-newton-observations": [
+   "observationsupon00newt",
+   "Isaac Newton, Observations upon the Prophecies of Daniel, new ed. with the citations translated and notes by P. Borthwick (London: James Nisbet, 1831)"
+  ],
+  "ccd-harrison-prophetic-outlines": [
+   "propheticoutline00harr",
+   "Benjamin Harrison, Prophetic Outlines of the Christian Church and the Antichristian Power, as Traced in the Visions of Daniel and St. John: Twelve Lectures (London: F. & J. Rivington, 1849)"
+  ],
+  "ccd-wodrow-past-history-israel": [
+   "pasthistoryfutur00wodr",
+   "Robert Wodrow, The Past History and Future Destiny of Israel, as Unfolded in the Eighth and Succeeding Chapters of the Book of Daniel (Glasgow: Blackie, 1844; catalogue date)"
+  ],
+  "ccd-miles-daniel-1": [
+   "10412018bsb",
+   "Charles Popham Miles, Lectures, Expository and Practical, on the Book of the Prophet Daniel, first series: chapters I-VI (London: James Nisbet, 1840)"
+  ],
+  "ccd-wilson-horae-propheticae": [
+   "horpropheticord00laxtgoog",
+   "Joseph Wilson, Horae Propheticae: or, Dissertations on the Book of the Prophet Daniel (Oundle: T. and E. Bell, 1824)"
+  ],
+  "ccd-wintle-daniel": [
+   "bim_eighteenth-century_daniel-an-improved-vers_wintle-thomas_1792",
+   "Thomas Wintle, Daniel, an Improved Version Attempted, with a Preliminary Dissertation and Notes (Oxford, 1792; ECCO scan)"
+  ],
+  "ccd-haskell-story-of-daniel": [
+   "storyofdanielpro00hask",
+   "Stephen N. Haskell, The Story of Daniel the Prophet (South Lancaster, Mass.: Bible Training School, 1908)"
+  ],
+  "ccd-oswald-kingdom": [
+   "kingdomwhichshal00oswa",
+   "J. Oswald, The Kingdom which Shall Not Be Destroyed: An Exposition of Prophecy, More Especially of Daniel, Chap. VII (Philadelphia: J. B. Lippincott, 1856)"
+  ],
+  "ccd-taylor-times-of-daniel": [
+   "timesofdanielarg00tayl",
+   "Henry W. Taylor, The Times of Daniel: An Argument (New York: Anson D. F. Randolph, 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ccd-seiss-voices": "Seiss, Voices from Babylon: already on joseph-augustus-seiss",
+  "ccd-kelly-daniel": "William Kelly, Daniel the Prophet: Kelly's Notes on the Book of Daniel (two editions) are already on william-kelly-brethren"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "ccd-miles-daniel-2": "Miles's second series (chapters VII-XII): no open scan found",
+  "ccd-rule-daniel": "William Harris Rule, Historical Exposition of Daniel: no open scan found",
+  "ccd-kelly-seventy-weeks": "William Kelly, Daniel's Seventy Weeks: no open scan found",
+  "ccd-st-dalmas": "H. G. Emeric de St. Dalmas, The Time of the End and the Weeks of Daniel: no open scan found",
+  "ccd-crosthwaite": "J. C. Crosthwaite, Historical Passages and Characters in Daniel: no open scan found",
+  "ccd-caldwell": "Eugene C. Caldwell, An Outline Study of the Book of Daniel: no open scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "ccd-newton-observations": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccd-harrison-prophetic-outlines": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccd-wodrow-past-history-israel": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccd-miles-daniel-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccd-wilson-horae-propheticae": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccd-wintle-daniel": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1792",
+   "ia_date": "1792",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccd-haskell-story-of-daniel": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "miles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ccd-oswald-kingdom": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ccd-taylor-times-of-daniel": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

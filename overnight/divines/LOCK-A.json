@@ -1,6 +1,6 @@
 {
- "status": "idle",
+ "status": "running",
  "holder": "lane A thread",
- "heartbeat": "2026-11-03T12:00:00-06:00",
- "note": "Adam's Libronix inventory pass done 2026-11-03 (only his lists, per his 10/29 pick). Nothing half-built. Open calls in DIGEST-A under the 2026-11-03 section."
+ "heartbeat": "2026-11-03T08:10:00-06:00",
+ "note": "resumed 2026-11-03 14:08Z: second Libronix pass (gaps, retries, any author still unshelved). Resume point: DIGEST-A '2026-11-03 second pass' section."
 }
