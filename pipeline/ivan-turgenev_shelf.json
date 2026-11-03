@@ -1,0 +1,50 @@
+{
+ "_about": "Ivan Turgenev. Bloom's Western Canon (1994) lists: A Month in the Country. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Ivan Turgenev",
+ "_name_words": [
+  "ivan",
+  "turgenev"
+ ],
+ "_surname": [
+  "turgenev",
+  "ivan turgenev"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "turgenev-plays": [
+   "playsofivansturg0000tran",
+   "The Plays of Ivan S. Turgenev, translated from the Russian by M. S. Mandell"
+  ]
+ },
+ "_translators": {
+  "turgenev-plays": "Mandell"
+ },
+ "_bloom": {
+  "turgenev-plays": {
+   "bloom_n": [
+    588
+   ],
+   "bloom_title": "A Month in the Country",
+   "year": "1924 (title page: London, William Heinemann, 'FIRST PUBLISHED 1924')",
+   "evidence": "djvu title page read; 'A MONTH IN THE COUNTRY' appears at line 16481 of the djvu text; collection internetarchivebooks",
+   "case": "Mandell's 1924 Plays of Turgenev was the first English version of the plays and has A Month in the Country complete.",
+   "note": "Macmillan NY issue (IA playsofivansturg0001msma, 'Copyright 1924') is only vol. I of the two-volume printing. Garnett's 1934 Three Plays version isn't PD. A Garnett text at IA 'AMonthInTheCountry' has no imprint, so rejected."
+  }
+ },
+ "_checks": {
+  "turgenev-plays": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "turgenev",
+   "translator_claimed": "Mandell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
