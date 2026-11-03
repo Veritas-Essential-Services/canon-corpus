@@ -3775,6 +3775,36 @@ Round 32 (2026-10-10), vetoable. Olrik added in round 90. Not converted to unit-
 | `hollander-kierkegaard-selections-from-the-writings-of-kierkega` | Søren Kierkegaard | Selections from the Writings of Kierkegaard | Lee M. Hollander | 1912-1923 (see the Gutenberg header) | have | PG 60333 |
 | `hollander-olrik-heroic-legends-of-denmark` | Axel Olrik | The Heroic Legends of Denmark | Lee M. Hollander | 1919 | have-raw | IA `heroiclegendsofd0000axel` |
 
+## David F. Swenson and Walter Lowrie (Kierkegaard, 1936-1955)
+
+Shelf: `pipeline/swenson-lowrie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py swenson-lowrie`.
+Added 2026-11-03 (Adam: "all of Swenson and Lowry translations connected and scheduled for release"). Every Swenson and Lowrie Kierkegaard volume, with its US public-domain day; the waiting ones are on the house release queue (wordhoard `apps/thewordhoard/data/release-queue.json`). Renewals searched 2026-11-03 (Stanford database + the printed Catalog of Copyright Entries): wordhoard `docs/research/2026-11-03-kierkegaard-swenson-lowrie.md`. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `swenson-kierkegaard-works-of-love` | Works of Love | D. F. & L. M. Swenson | 1946 | have-raw (free now: A5267, never renewed) | IA `in.ernet.dli.2015.187384` (1949 printing) |
+| `swenson-kierkegaard-philosophical-fragments` | Philosophical Fragments | D. F. Swenson | 1936 | pending (free now: A102052, never renewed; no free scan) | lending copies only |
+| `swenson-kierkegaard-edifying-discourses-1` | Edifying Discourses I | D. F. & L. M. Swenson | 1943 | pending (free now: A175561, never renewed; no free scan) | lending copies only |
+| `lowrie-kierkegaard-christian-discourses` | Christian Discourses | Lowrie | 1939 | waiting 2035-01-01 (may be free now; Adam's ruling) | |
+| `lowrie-kierkegaard-point-of-view` | The Point of View | Lowrie | 1939 | waiting 2035-01-01 (may be free now; Adam's ruling) | |
+| `lowrie-kierkegaard-present-age` | The Present Age (Dru) + Two Minor Treatises (Lowrie) | Dru, Lowrie | 1940 | waiting 2036-01-01 | |
+| `lowrie-kierkegaard-stages-on-lifes-way` | Stages on Life's Way | Lowrie | 1940 | waiting 2036-01-01 (R432046) | |
+| `swenson-kierkegaard-thoughts-on-crucial-situations` | Thoughts on Crucial Situations | D. F. Swenson | 1941 | waiting 2037-01-01 (R447259) | |
+| `swenson-lowrie-kierkegaard-concluding-unscientific-postscript` | Concluding Unscientific Postscript | Swenson, Lowrie | 1941 | waiting 2037-01-01 (R443957) | |
+| `lowrie-kierkegaard-sickness-unto-death` | The Sickness unto Death | Lowrie | 1941 | waiting 2037-01-01 (R458282) | |
+| `lowrie-kierkegaard-fear-and-trembling` | Fear and Trembling | Lowrie | 1941 | waiting 2037-01-01 (R458284) | |
+| `lowrie-kierkegaard-repetition` | Repetition | Lowrie | 1941 | waiting 2037-01-01 (R458283) | |
+| `lowrie-kierkegaard-training-in-christianity` | Training in Christianity | Lowrie | 1941 | waiting 2037-01-01 (may be free now; Adam's ruling) | IA `in.ernet.dli.2015.165989` (1944 reprint) |
+| `lowrie-kierkegaard-for-self-examination` | For Self-Examination and Judge for Yourselves! | Lowrie | 1941 | waiting 2037-01-01 (may be free now; Adam's ruling) | |
+| `swenson-lowrie-kierkegaard-either-or` | Either/Or (2 vols.) | Swensons I, Lowrie II | 1944 | waiting 2040-01-01 (R517166) | |
+| `swenson-kierkegaard-edifying-discourses-2` | Edifying Discourses II | D. F. & L. M. Swenson | 1944 | waiting 2040-01-01 (R519370) | |
+| `lowrie-kierkegaard-concept-of-dread` | The Concept of Dread | Lowrie | 1944 | waiting 2040-01-01 (R517164) | |
+| `lowrie-kierkegaard-attack-upon-christendom` | Attack upon "Christendom" | Lowrie | 1944 | waiting 2040-01-01 (R517165) | |
+| `swenson-kierkegaard-edifying-discourses-3` | Edifying Discourses III | D. F. & L. M. Swenson | 1945 | waiting 2041-01-01 (R548231) | |
+| `swenson-kierkegaard-edifying-discourses-4` | Edifying Discourses IV | D. F. & L. M. Swenson | 1946 | waiting 2042-01-01 (R575358) | |
+| `swenson-kierkegaard-gospel-of-suffering` | The Gospel of Suffering and The Lilies of the Field | D. F. & L. M. Swenson | 1947 | waiting 2043-01-01 (R602804) | |
+| `lowrie-kierkegaard-on-authority-and-revelation` | On Authority and Revelation (The Book on Adler) | Lowrie | 1955 | waiting 2051-01-01 (RE193879) | |
+
 ## Gertrude Hall (Verlaine's Poems; Rostand's Chantecler)
 
 Shelf: `pipeline/gertrude-hall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gertrude-hall` · titles `python3 pipeline/split_shelf_titles.py gertrude-hall`.
