@@ -8,6 +8,7 @@ the `pipeline/README-*.md` files, and `unscanner/README.md`. Where this file and
 those disagree, they win.
 
 State at time of writing: `main` at `cdf9a26` (2026-11-02), 194 commits.
+Refreshed 2026-11-03 at `5eac460` (4,919 commits, after the relay branch merged).
 `tests/structure_test.py` 147 passed, `tests/wh_uid_test.py` 67 passed.
 
 **This repository is PUBLIC.** Nothing private (vault paths, Adam's own maxims,
@@ -156,44 +157,42 @@ translations); Aphthonius's progymnasmata; Treasure Island's story layer; the
 Unscanner; Mnemonicon export packs; an acquisition wave for the illustrated
 classics.
 
-**Waiting:** nine open draft PRs (2026-11-02), most waiting on rulings in
-`docs/DECISIONS-FOR-ADAM.md`:
+**Merged 2026-11-03 (Adam took the decision sheet's recommendations):** #6,
+#8 and #10 (squashed, with the 14,197 Strong's word uids, item 7), #7 (Thayer
+by entry, Perseus, the fathers, Cramer; item 12, the Perseus rights block, now
+reaches the committed manifest), #11 (Lightfoot, Charles, the Tudor Bibles,
+Wycliffe, Schaff), #16 (cross-reference, topical and commentary layers), #44
+(the relay's lanes A–D shelves), #52 (Year 0 picture books), #54 (Easton's,
+Nave's, Hurlbut's Bible Atlas), #57 (Kipling prose shelf) and #67
+(commentaries wave 8: the Expositor's Greek Testament and the pre-1929 ICC).
+`_to_delete/` and `docs/MERGE-REHEARSAL.md` were removed (items 20, 21).
 
-- #6 upkeep and label fixes
-- #7 Thayer, Perseus Greek and Latin, the fathers, Cramer
-- #8 the whole Bible on KJV uids, plus the Apostolic Fathers, Josephus and Philo
-- #10 Strong's numbers as word keys
-- #11 English Apostolic Fathers, Charles, the Tudor Bibles, Wycliffe, Schaff
-- #16 cross-reference and commentary layers
-- #38 Lane B (held for shelf-by-shelf review)
-- #44 relay lanes A–D shelves
-- #52 Year 0 picture-book shelf
+**Open draft PRs (2026-11-03):** #38 lane B (held for Adam's shelf-by-shelf
+review), #58 lane D (Little Classics, renewal check), #60 the graded poetry
+volume, #65 Church's Iliad and Odyssey for boys and girls, #66 the
+declamations layer.
 
 **Known issues:**
-- `_to_delete/` (54 MB of zips, logs, a stale KJV backup and an old
-  `git-lock` folder) is committed. The decision sheet item 20 recommends
-  removing it.
-- Item 12: the Perseus rights block is not copied into the committed manifest.
 - The KJV Strong's tags have a licence conflict (public domain per eBible.org,
-  GPL per CrossWire): build locally only until settled.
+  GPL per CrossWire): build locally only until settled (item 8).
+- 427 review rows in five sheets are unanswered (`python3 pipeline/review.py status`).
+- The relay slugs have no uids yet; the minting pass (items 22–23) has not run.
+- GitHub Actions is down org-wide since about 02:30 UTC 2026-11-03
+  (`startup_failure` on every run); Adam has to check billing.
 
 **TODOs in code:** none open (the `XXX` hits are Roman numerals in texts).
 
 ## 7. Next steps (prioritized)
 
-1. **Get Adam's answers to `docs/DECISIONS-FOR-ADAM.md`.** "Yes to all" takes
-   every recommendation. The ★ items block merges.
-2. **Merge in the planned order.** #5, #9 and #12 are already merged. Next is #6,
-   then #8, then rerun `python pipeline/build_parallel_index.py`, then #10, #7,
-   #11, the relay (#44), and the rest. Repeat the trial merge first, because #7 has moved.
-   `docs/MERGE-REHEARSAL.md` has the rehearsal.
-3. **One attended uid-minting pass** after the merges (items 22–23): move
-   per-book heading rules into `structure_texts.py` first, because they decide
-   unit ids.
-4. **Remove `_to_delete/`** in its own commit (`git rm -r _to_delete`); history keeps a copy.
-5. **Fix item 12** (Perseus rights block into the manifest) before #7 merges.
-6. Then the art plan (`docs/ART-PLAN.md`) and Year 0 shelf (#52, which
-   wordhoard #250 waits on).
+1. **One attended uid-minting pass** (items 22–23): move the per-book heading
+   rules (`chapre`, `levels`) from the shelf files into `structure_texts.py`
+   first, because they decide unit ids. Raw OCR volumes get no uids until
+   converted. Gate: `python3 pipeline/build_witnesses.py --check`.
+2. **Answer the rest of `docs/DECISIONS-FOR-ADAM.md`** (parts 2 and 3) and the
+   427 review rows.
+3. **Review and land the open drafts:** #60, #65, #66, #58; #38 waits on Adam
+   shelf by shelf.
+4. Then the art plan (`docs/ART-PLAN.md`).
 
 ## 8. Gotchas
 
@@ -232,7 +231,8 @@ classics.
 | 2026-09-27 | Private ids move to the house's private registry; public registry keeps them bare under `reserved` |
 | 2026-10-19 | Dictionaries of names (classical and literary) added as a door |
 | Word Hoard ADRs | 0001 public domain only; 0002 source hierarchy Perseus → CCEL → Gutenberg, never SWORD; 0012 lemma bridge; 0015 opaque uids; 0019 CC BY with attribution; 0025 one citation grammar |
-| Open | All of `docs/DECISIONS-FOR-ADAM.md` (items 1–24+) |
+| 2026-11-01/03 | Decision sheet part 1 taken as recommended: merge order, squash merges, Strong's word uids adopted, `_to_delete/` removed |
+| Open | `docs/DECISIONS-FOR-ADAM.md` parts 2 and 3 (items 22–51) |
 
 ## SECURITY: rotate these
 
