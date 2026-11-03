@@ -4,7 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius + Rainolde manifest entries)
-# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's; LEXICON_SHA256 pins)
+# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's, Hurlbut's atlas; LEXICON_SHA256 pins)
 # fable_review: pending
 """fetch_sources.py — manifest-driven fetcher for the structured shelves.
 
@@ -501,6 +501,15 @@ LEXICONS = {
         "Nave's Topical Bible (Orville J. Nave, 1896; PD). CCEL ThML nave/bible, the "
         "reference edition (topics + references, no quoted verses). DC.Rights EMPTY: "
         "held redistribute_whole false until CCEL's page is read. 5,322 topics."),
+    # The atlas: Project Gutenberg 41140, from the Internet Archive's Gutenberg
+    # mirror (gutenberg.org was not reachable). Header read 2026-11-03: no
+    # COPYRIGHTED marker; printed copyrights 1884-1910 -- US public domain.
+    "hurlbut-bible-atlas": (
+        "https://archive.org/download/bibleatlasamanua41140gut/41140.txt",
+        "hurlbut-bible-atlas.txt",
+        "Jesse L. Hurlbut, The Rand-McNally Bible Atlas: A Manual of Biblical Geography "
+        "and History (1884; 1910 printing), PG 41140 (ASCII). Text and its three printed "
+        "indexes; the maps are images and are not carried."),
 }
 
 # sha256 of a lexicon file as fetched. A fetched file that differs is refused
@@ -508,6 +517,7 @@ LEXICONS = {
 LEXICON_SHA256 = {
     "easton": "10e3f432e38ee8197c30a613576dc363af3f29fa4aa90ebd0782533df906e5f1",
     "nave": "dc58dd4e37d5af639f508a4c64657b40f5ccbe727f523b219ffaa70d661f619d",
+    "hurlbut-bible-atlas": "a5637c553ff33814e40ab2c6bd070cb87da9238c066be7328b84100b9a88ee64",
 }
 
 

@@ -4,7 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius: three edition converters)
-# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's)
+# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's, Hurlbut's Bible Atlas)
 # fable_review: pending
 """structure_texts.py — the structure layer: source texts -> unit-id JSON.
 
@@ -18,7 +18,8 @@ Three converters, one output shape (the Canon Corpus JSON design, vault:
                                                Strong's H/G, Brown-Driver-Briggs;
                                                and dictionaries of names keyed by
                                                entry: Smith's classical, Brewer's literary
-                                               and Bible dictionaries: Easton's, Nave's
+                                               and Bible dictionaries: Easton's, Nave's,
+                                               Hurlbut's atlas (a gazetteer of its indexes)
 
 Output: data/books/<slug>.json (gitignored — rebuildable) and
 data/books/manifest.json (committed — checksums, schemes, provenance).
@@ -2773,6 +2774,231 @@ def convert_nave(path, slug="nave", kjv_path=None):
     return b
 
 
+# Hurlbut's Bible Atlas: The Rand-McNally Bible Atlas, a Manual of Biblical
+# Geography and History, by Jesse L. Hurlbut (Rand, McNally, 1884; this text the
+# 1910 printing), Project Gutenberg 41140, read from the Internet Archive's
+# mirror of Gutenberg. The maps are pictures and are not here. What the text
+# gives honestly is (1) the book's prose, paragraph by paragraph, and (2) its
+# three printed indexes, which ARE a gazetteer: every name on the map of
+# Palestine and on the map of the Old Testament World with its grid square, and
+# the index to the descriptive matter with its printed pages. A name's unit
+# gathers its lines from all three indexes, as printed (a name, not a place:
+# two Apheks share one unit, with both squares). The printed pages are not in
+# the transcription, so "described on" pages are carried but not linked; the
+# prose paragraphs that print the name in bold (=Name=) are linked instead.
+HURLBUT_START = "CHART OF BIBLE HISTORY."
+HURLBUT_PAL = "INDEX TO MAP OF PALESTINE."
+HURLBUT_OTW = "INDEX TO MAP OF OLD TESTAMENT WORLD,"
+HURLBUT_DESC = "INDEX TO DESCRIPTIVE MATTER."
+HURLBUT_END = "Transcriber's Notes:"
+HURLBUT_MAPS = {"palestine": "Map of Palestine (pp. 152-153)",   # contents: "Map on pp. 152, 153"
+                "ot_world": "Map of the Old Testament World (pp. 18-19)"}  # "See Map, pages 18, 19"
+RE_HURLBUT_SQ = re.compile(r"^(\s+)(\S.*?)\s{2,}([A-Z])[- ](\d{1,2})\s*$")
+RE_HURLBUT_DESC = re.compile(r"^\s+(\S.*?),\s*(\d[\d, ]*)$")
+RE_HURLBUT_BOLD = re.compile(r"=([^=\n]{1,80})=")
+RE_HURLBUT_OPEN = re.compile(r"^(?:\(?\d+\.\)?\s+|[IVXL]+\.\s+)*=([^=]{1,80})=")
+RE_HURLBUT_SCRIP = re.compile(r"\b(?:([123])\s?)?([A-Z][a-z]{1,13})\.?\s+(\d{1,3}):(\d{1,3})"
+                              r"(?:\s*[-–]+\s*(\d{1,3})(?!\s*:))?")
+
+
+def _hurlbut_name(label):
+    """'Abronas, _Nahr Ibrahim_, R.' -> ('Abronas, R.', ['Nahr Ibrahim'])."""
+    modern = [m.strip() for m in re.findall(r"_([^_]+)_", label)]
+    name = re.sub(r"_[^_]+_", "", label)
+    name = re.sub(r"\s*,\s*(,\s*)+", ", ", name)
+    name = re.sub(r"\s+", " ", name).strip(" ,")
+    return name, modern
+
+
+def hurlbut_scripture(text, kjv):
+    out, seen, refused = [], set(), 0
+    for m in RE_HURLBUT_SCRIP.finditer(text):
+        num, book, c, v, v2 = m.groups()
+        osis = BREWER_BOOKS.get(book.lower())
+        if not osis:
+            continue
+        if osis in BREWER_NUMBERED or (osis == "John" and num):
+            if not num:
+                refused += 1
+                continue
+            osis = num + osis
+        elif num:
+            continue                     # "2 Acts"? not a citation shape this book uses
+        link = kjv_link(osis, int(c), int(v), 0, int(v2 or 0), m.group(0).strip(), kjv)
+        if not link["resolved"]:
+            refused += 1
+            continue
+        k = (link["osis"], link.get("end"))
+        if k not in seen:
+            seen.add(k)
+            out.append(link)
+    return out, refused
+
+
+def convert_hurlbut_atlas(path, slug="hurlbut-bible-atlas", kjv_path=None):
+    """Hurlbut's Bible Atlas -> prose paragraphs (`slug:text.<chapter>.<para>`)
+    and a gazetteer of the printed indexes (`slug:<name>`)."""
+    kjv = kjv_verse_index(kjv_path)
+    lines = open(path, encoding="latin-1").read().splitlines()
+
+    def at(marker, start=0):
+        for i in range(start, len(lines)):
+            if lines[i].rstrip() == marker:
+                return i
+        raise ValueError(f"marker not found: {marker!r}")
+    b0 = at(HURLBUT_START)
+    i_pal = at(HURLBUT_PAL, b0)
+    i_otw = at(HURLBUT_OTW, i_pal)
+    i_desc = at(HURLBUT_DESC, i_otw)
+    i_end = at(HURLBUT_END, i_desc)
+
+    # ---- the prose
+    paras, cur = [], []
+    for s in lines[b0:i_pal] + [""]:
+        if s.strip():
+            cur.append(s.rstrip())
+        elif cur:
+            paras.append(cur); cur = []
+    units, chapter, sub, c, p, skip, figures = [], None, None, 0, 0, False, 0
+    for para in paras:
+        first, last = para[0].lstrip(), para[-1].rstrip()
+        if skip or first.startswith("[Illustration") or first.startswith("[Transcriber"):
+            if first.startswith("[Illustration"):
+                figures += 1
+            skip = not last.endswith("]")
+            continue
+        if (len(para) == 1 and not para[0].startswith(" ") and len(first) < 90
+                and re.search(r"[A-Z]{2}", first) and first.upper() == first):
+            if re.match(r"^[IVXL]+\.\s", first):
+                sub = first
+            else:
+                chapter, sub, c, p = first, None, c + 1, 0
+            continue
+        p += 1
+        tabular = any(l.startswith("  ") for l in para)
+        raw = "\n".join(para) if tabular else " ".join(l.strip() for l in para)
+        names = [re.sub(r"[.,:;]+$", "", n.strip()) for n in RE_HURLBUT_BOLD.findall(raw)]
+        text = re.sub(r"_([^_\n]+)_", r"\1", RE_HURLBUT_BOLD.sub(r"\1", raw))
+        opener = RE_HURLBUT_OPEN.match(raw.strip())
+        head = re.sub(r"[.,:;]+$", "", opener.group(1).strip()) if opener else None
+        links, _ = hurlbut_scripture(text, kjv)
+        lex = {"chapter": chapter, **({"section": sub} if sub else {}),
+               **({"headword": head} if head else {}), **({"names": names} if names else {})}
+        if tabular:
+            lex["layout"] = "table"
+        units.append({"id": f"{slug}:text.{c}.{p}",
+                      "ref": head or f"Hurlbut, {(chapter or '').rstrip('.').title()}, para. {p}",
+                      "text": text, "links": links, "lex": lex})
+    bold_at = {}
+    for u in units:
+        for n in u["lex"].get("names", []):
+            bold_at.setdefault(brewer_slug(n), []).append(u["id"])
+
+    # ---- the gazetteer: three printed indexes
+    gaz, order, unparsed = {}, [], 0
+
+    def entry(name):
+        k = brewer_slug(name)
+        if k not in gaz:
+            gaz[k] = {"headword": name, "palestine": [], "ot_world": [], "pages": []}
+            order.append(k)
+        return gaz[k]
+    joined = 0
+    for key, a, b in (("palestine", i_pal, i_otw), ("ot_world", i_otw, i_desc)):
+        pending, started = None, False  # (indent, text) of a name wrapped onto a deeper line
+        for s in lines[a + 1:b]:
+            m = RE_HURLBUT_SQ.match(s)
+            if not m:
+                w = re.match(r"^( {2,10})([A-Z].*)$", s)
+                if w and started:
+                    pending = (len(w.group(1)), w.group(2).strip())
+                else:
+                    pending = None
+                continue
+            label, started = m.group(2), True
+            if pending and len(m.group(1)) > pending[0]:
+                label, joined = pending[1] + " " + label, joined + 1
+            elif pending:
+                unparsed += 1
+            pending = None
+            name, modern = _hurlbut_name(label)
+            e = entry(name)
+            e[key].append(dict({"square": f"{m.group(3)}-{m.group(4)}"},
+                               **({"modern": modern} if modern else {})))
+    for s in lines[i_desc + 1:i_end]:
+        m = RE_HURLBUT_DESC.match(s)
+        if m:
+            e = entry(_hurlbut_name(m.group(1))[0])
+            e["pages"] += [int(x) for x in re.findall(r"\d+", m.group(2))]
+        elif s.strip(" *") and not re.fullmatch(r"\s*(PAGE|[A-Z])\s*", s):
+            unparsed += 1
+    n_pal = n_otw = n_desc = 0
+    gunits = []
+    for k in order:
+        e = gaz[k]
+        parts = []
+        if e["palestine"]:
+            n_pal += 1
+            parts.append(f"{HURLBUT_MAPS['palestine']}, square " + "; ".join(x["square"] for x in e["palestine"]) + ".")
+        if e["ot_world"]:
+            n_otw += 1
+            parts.append(f"{HURLBUT_MAPS['ot_world']}, square " + "; ".join(
+                x["square"] + (f" (modern {', '.join(x['modern'])})" if x.get("modern") else "")
+                for x in e["ot_world"]) + ".")
+        if e["pages"]:
+            n_desc += 1
+            parts.append("Described on p" + ("p. " if len(e["pages"]) > 1 else ". ")
+                         + ", ".join(map(str, e["pages"])) + ".")
+        links = [{"kind": "described", "target": t} for t in bold_at.get(k, [])]
+        lex = {"headword": e["headword"], "kind": "gazetteer"}
+        for f in ("palestine", "ot_world", "pages"):
+            if e[f]:
+                lex[f] = e[f]
+        gunits.append({"id": f"{slug}:{k}", "ref": e["headword"],
+                       "text": f"{e['headword']}. " + " ".join(parts), "links": links, "lex": lex})
+    all_units = gunits + units
+    n_scrip = sum(1 for u in units for l in u["links"])
+    n_desc_linked = sum(1 for u in gunits if u["links"])
+    return {"slug": slug,
+            "title": "The Rand-McNally Bible Atlas: A Manual of Biblical Geography and History",
+            "author": "Jesse L. Hurlbut (Rand, McNally & Co., 1884; this text the 1910 printing)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "atlas-gutenberg",
+                       "sha256": sha256(path)},
+            "rights": {"license": "public-domain",
+                       "rights_line": "Project Gutenberg EBook #41140, header read 2026-11-03: no "
+                                      "COPYRIGHTED marker; 'for the use of anyone anywhere at no "
+                                      "cost'. Printed copyrights 1884-1910 (Rand, McNally): US "
+                                      "public domain.",
+                       "source_url": "https://archive.org/details/bibleatlasamanua41140gut",
+                       "redistribute_whole": True},
+            "scheme": {"citation": "gazetteer: the name as a slug (hurlbut-bible-atlas:bethel); "
+                                   "prose: text.<chapter>.<paragraph> in the order of the book",
+                       "resolution": "index entry / paragraph",
+                       "honesty": "the maps are images and are not carried; squares are the "
+                                  "printed index's",
+                       "note": f"{len(gunits):,} gazetteer names from the book's three printed "
+                               f"indexes ({n_pal:,} on the map of Palestine, {n_otw:,} on the map "
+                               f"of the Old Testament World, {n_desc:,} in the index to "
+                               f"descriptive matter); a name's text is its index lines put into "
+                               f"words (map, square, modern name, printed pages), nothing more. "
+                               f"One unit per printed name, not per place: a name two places "
+                               f"share carries both squares. Printed pages are not in the "
+                               f"transcription, so 'described on' is carried, not linked; "
+                               f"{n_desc_linked:,} names instead link the paragraphs that print "
+                               f"them in bold. {len(units):,} prose paragraphs in {c} chapters "
+                               f"(a chapter is a top-level capitals heading; roman-numbered "
+                               f"headings are lex.section); a paragraph that opens with a bold "
+                               f"name takes that name as its ref. Tables keep their line layout "
+                               f"(lex.layout). {figures} illustrations and their captions are "
+                               f"left out. {n_scrip:,} scripture citations (\"Gen. 12:6-8\") "
+                               f"parsed to kjv: verses and checked against the KJV's verse list; "
+                               f"one that names no KJV verse is left out. {joined} index names "
+                               f"wrapped onto a second line were joined; {unparsed} index lines "
+                               f"did not parse. The Gutenberg transcribers corrected the printed "
+                               f"typos they list at the end of the book."},
+            "units": all_units}
+
+
 # ---------------------------------------------------------------- Gutenberg .txt
 
 def strip_boilerplate(raw):
@@ -4359,7 +4585,8 @@ def main():
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
     for slug, fn, conv in (("easton", "easton-ebd.xml", convert_easton),
-                           ("nave", "nave-bible.xml", convert_nave)):
+                           ("nave", "nave-bible.xml", convert_nave),
+                           ("hurlbut-bible-atlas", "hurlbut-bible-atlas.txt", convert_hurlbut_atlas)):
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))

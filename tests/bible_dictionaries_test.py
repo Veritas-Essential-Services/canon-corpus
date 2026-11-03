@@ -162,6 +162,100 @@ check("nave: rights held (DC.Rights empty in the file): redistribute_whole false
       nb["rights"]["redistribute_whole"] is False)
 os.unlink(_np)
 
+# ---------------------------------------------------------------- Hurlbut's atlas
+ATLAS = "\r\n".join("""Project Gutenberg's The Rand-McNally Bible Atlas
+
+CONTENTS
+
+  CHART OF BIBLE HISTORY                        11-15
+
+[Illustration: THE MODERN WORLD.]
+
+CHART OF BIBLE HISTORY.
+
+I. =General Periods.= In the first column (Gen. 1:2-3) we note the periods.
+
+[Illustration: No. 1
+
+A coin.]
+
+THE LANDS.
+
+I. THE MOUNTAIN SYSTEM.
+
+1. =Bethel=, a town (Gen. 2:1), and =Ai=.
+
+  1800--A table line
+  1700--Another
+
+INDEX TO MAP OF PALESTINE.
+
+(SURROUNDING COUNTRY INCLUDED.)
+
+          EXPLANATION.--The letter and number following each
+          Name show its location.
+
+  Bethel                     D-12
+  Bethel                     F-3
+  Philistines, Country of
+    the                      D-26
+
+INDEX TO MAP OF OLD TESTAMENT WORLD,
+
+(_See Map, pages 18, 19._)
+
+         EXPLANATION.--The letter and number following each
+         Name show its location.
+
+          Abronas, _Nahr Ibrahim_, R.          L-12
+          Ai                                   K 37
+
+INDEX TO DESCRIPTIVE MATTER.
+
+                      PAGE
+  Bethel, 46, 58
+  Ai, 50
+
+       *       *       *       *       *
+
+Transcriber's Notes:
+
+Page 14, a typo.
+""".split("\n"))
+_ap = tmp(ATLAS, ".txt")
+ab = st.convert_hurlbut_atlas(_ap, kjv_path=KJV)
+au = {u["id"]: u for u in ab["units"]}
+P = "hurlbut-bible-atlas:"
+check("atlas: gazetteer first (one unit per printed name), then the prose paragraphs",
+      list(au) == [P + "bethel", P + "philistines-country-of-the", P + "abronas-r", P + "ai",
+                   P + "text.1.1", P + "text.2.1", P + "text.2.2"])
+be = au[P + "bethel"]
+check("atlas: a name two places share keeps both squares; descriptive pages carried",
+      be["lex"]["palestine"] == [{"square": "D-12"}, {"square": "F-3"}] and be["lex"]["pages"] == [46, 58]
+      and be["text"] == "Bethel. Map of Palestine (pp. 152-153), square D-12; F-3. Described on pp. 46, 58.")
+check("atlas: a name wrapped onto a deeper line is joined; 'K 37' read as K-37; italics are the modern name",
+      au[P + "philistines-country-of-the"]["ref"] == "Philistines, Country of the"
+      and au[P + "ai"]["lex"]["ot_world"] == [{"square": "K-37"}]
+      and au[P + "abronas-r"]["lex"]["ot_world"] == [{"square": "L-12", "modern": ["Nahr Ibrahim"]}])
+check("atlas: a gazetteer name links the paragraphs that print it in bold",
+      be["links"] == [{"kind": "described", "target": P + "text.2.1"}]
+      and au[P + "ai"]["links"] == [{"kind": "described", "target": P + "text.2.1"}])
+t1, t2 = au[P + "text.1.1"], au[P + "text.2.1"]
+check("atlas: a paragraph opening with a bold name takes it as its ref; bold marks dropped from text",
+      t1["ref"] == "General Periods" and t2["ref"] == "Bethel" and "=" not in t2["text"]
+      and t2["lex"]["names"] == ["Bethel", "Ai"] and t2["lex"]["section"] == "I. THE MOUNTAIN SYSTEM.")
+check("atlas: illustrations and their captions are left out; a table keeps its lines",
+      all("coin" not in u["text"] for u in ab["units"])
+      and au[P + "text.2.2"]["lex"]["layout"] == "table" and "\n" in au[P + "text.2.2"]["text"]
+      and au[P + "text.2.2"]["ref"] == "Hurlbut, The Lands, para. 2")
+check("atlas: scripture citations checked against the KJV list; a range keeps its end",
+      t1["links"] == [{"kind": "scripture", "ref": "Gen. 1:2-3", "versification": "kjv", "osis": "Gen.1.2",
+                       "target": "kjv:Gen.1.2", "resolved": True, "end": "Gen.1.3"}]
+      and t2["links"][0]["target"] == "kjv:Gen.2.1")
+check("atlas: maps not carried, and the scheme says so; public domain",
+      "maps are images" in ab["scheme"]["honesty"] and ab["rights"]["license"] == "public-domain")
+os.unlink(_ap)
+
 # ---------------------------------------------------------------- the manifest
 SLUGS = [x for x in ("easton", "nave", "hurlbut-bible-atlas") if x in fs.LEXICONS]
 PINS = {"easton": "b8e82aa7ca847f4d97fb432cd965e398a111333c",

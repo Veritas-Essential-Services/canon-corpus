@@ -2254,5 +2254,24 @@
    "redistribute_whole": false,
    "note": "Orville J. Nave d. 1917; the work was published 1896-97: US public domain. This file's DC.Rights is EMPTY and its header comment reads 'Copyright Christian Classics Ethereal Library', so CCEL's terms for this electronic edition were not seen. Held redistribute_whole false (quote, cite, link) until Adam reads CCEL's page for it. Read 2026-11-03 from a byte copy at github.com/neuu-org/bible-topics-dataset; CCEL itself was not reachable."
   }
+ },
+ "hurlbut-bible-atlas": {
+  "title": "The Rand-McNally Bible Atlas: A Manual of Biblical Geography and History",
+  "author": "Jesse L. Hurlbut (Rand, McNally & Co., 1884; this text the 1910 printing)",
+  "format": "atlas-gutenberg",
+  "sha256": "a5637c553ff33814e40ab2c6bd070cb87da9238c066be7328b84100b9a88ee64",
+  "units": 2356,
+  "scheme": {
+   "citation": "gazetteer: the name as a slug (hurlbut-bible-atlas:bethel); prose: text.<chapter>.<paragraph> in the order of the book",
+   "resolution": "index entry / paragraph",
+   "honesty": "the maps are images and are not carried; squares are the printed index's",
+   "note": "1,378 gazetteer names from the book's three printed indexes (937 on the map of Palestine, 155 on the map of the Old Testament World, 454 in the index to descriptive matter); a name's text is its index lines put into words (map, square, modern name, printed pages), nothing more. One unit per printed name, not per place: a name two places share carries both squares. Printed pages are not in the transcription, so 'described on' is carried, not linked; 79 names instead link the paragraphs that print them in bold. 978 prose paragraphs in 96 chapters (a chapter is a top-level capitals heading; roman-numbered headings are lex.section); a paragraph that opens with a bold name takes that name as its ref. Tables keep their line layout (lex.layout). 137 illustrations and their captions are left out. 483 scripture citations (\"Gen. 12:6-8\") parsed to kjv: verses and checked against the KJV's verse list; one that names no KJV verse is left out. 2 index names wrapped onto a second line were joined; 0 index lines did not parse. The Gutenberg transcribers corrected the printed typos they list at the end of the book."
+  },
+  "rights": {
+   "license": "public-domain",
+   "rights_line": "Project Gutenberg EBook #41140, header read 2026-11-03: no COPYRIGHTED marker; 'for the use of anyone anywhere at no cost'. Printed copyrights 1884-1910 (Rand, McNally): US public domain.",
+   "source_url": "https://archive.org/details/bibleatlasamanua41140gut",
+   "redistribute_whole": true
+  }
  }
 }
