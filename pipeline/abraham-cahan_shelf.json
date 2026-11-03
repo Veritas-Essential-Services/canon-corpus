@@ -1,0 +1,43 @@
+{
+ "_about": "Abraham Cahan. Bloom's Western Canon (1994) lists: The Rise of David Levinsky. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Abraham Cahan",
+ "_name_words": [
+  "abraham",
+  "cahan"
+ ],
+ "_surname": [
+  "cahan",
+  "abraham cahan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cahan-rise-david-levinsky": [
+   2803,
+   "The Rise of David Levinsky"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "cahan-rise-david-levinsky": {
+   "bloom_n": [
+    1327
+   ],
+   "bloom_title": "The Rise of David Levinsky",
+   "year": "unread",
+   "evidence": "PG header read",
+   "case": "Bloom lists The Rise of David Levinsky (1917). PG has it.",
+   "note": "Year not on the PG text; 1917 Harper first edition is well known but unread here."
+  }
+ },
+ "_checks": {
+  "cahan-rise-david-levinsky": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
