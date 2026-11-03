@@ -1,0 +1,43 @@
+{
+ "_about": "Wallace Stevens. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Wallace Stevens",
+ "_name_words": [
+  "wallace",
+  "stevens"
+ ],
+ "_surname": [
+  "stevens",
+  "wallace stevens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stevens-harmonium": [
+   78743,
+   "Harmonium"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "stevens-harmonium": {
+   "bloom_n": [
+    1254
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1923 (PG title page 'COPYRIGHT, 1923, BY ALFRED A. KNOPF'; 'Published, September, 1923')",
+   "evidence": "PG header 'Original publication: New York: Alfred A. Knopf, 1923'",
+   "case": "Bloom lists Stevens's Collected Poems (1954, not PD). Its first and most famous part, Harmonium (1923), is PD and on PG.",
+   "note": "PARTIAL: Harmonium only. The rest of the Collected Poems (Ideas of Order 1935 onward) is not PD. Adam may prefer to count this as not_pd."
+  }
+ },
+ "_checks": {
+  "stevens-harmonium": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stevens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
