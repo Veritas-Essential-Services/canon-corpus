@@ -13,7 +13,8 @@
   "curtin-hero-tales-of-ireland": "Curtin",
   "curtin-creation-myths-of-primitive-america": "Curtin",
   "curtin-seneca-fiction-legends-and-myths": "Curtin",
-  "curtin-myths-of-the-modocs": "Curtin"
+  "curtin-myths-of-the-modocs": "Curtin",
+  "curtin-myths-and-folk-lore-of-ireland-1890": "Curtin"
  },
  "ccel": {},
  "gutenberg": {
@@ -107,12 +108,17 @@
    }
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "curtin-myths-and-folk-lore-of-ireland-1890": [
+   "mythsfolkloreofi00curtrich",
+   "Myths and Folk-Lore of Ireland"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "curtin-myths-and-folk-tales-of-ireland": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jeremiah curtin",
    "translator_claimed": "Curtin",
@@ -123,7 +129,7 @@
   },
   "curtin-myths-and-folk-tales-of-the-russians": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jeremiah curtin",
    "translator_claimed": "Curtin",
@@ -134,7 +140,7 @@
   },
   "curtin-hero-tales-of-ireland": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jeremiah curtin",
    "translator_claimed": "Curtin",
@@ -145,7 +151,7 @@
   },
   "curtin-creation-myths-of-primitive-america": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jeremiah curtin",
    "translator_claimed": "Curtin",
@@ -156,7 +162,7 @@
   },
   "curtin-seneca-fiction-legends-and-myths": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jeremiah curtin",
    "translator_claimed": "Curtin",
@@ -167,7 +173,7 @@
   },
   "curtin-myths-of-the-modocs": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "jeremiah curtin",
    "translator_claimed": "Curtin",
@@ -175,6 +181,20 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "curtin-myths-and-folk-lore-of-ireland-1890": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "jeremiah curtin",
+   "translator_claimed": "Curtin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1890, c1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
- }
+ },
+ "_ireland_1890_note": "2026-11-03, decision 23 default: the Gutenberg text (PG 36540, from Dover's 1975 reprint) stays the reading of record for the tales. The 1890 Boston Little, Brown printing (IA mythsfolkloreofi00curtrich, raw OCR) is added as a second witness of the same book, for what Dover left out: the dedication and Curtin's introduction. Its tales are the same passages as the Gutenberg text and mint once, with two witnesses (AUDIT-D §1 rule). Adam may cut it by deleting this row."
 }
