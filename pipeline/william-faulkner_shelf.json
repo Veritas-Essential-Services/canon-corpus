@@ -1,0 +1,43 @@
+{
+ "_about": "William Faulkner. Bloom's Western Canon (1994) lists: The Sound and the Fury. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Faulkner",
+ "_name_words": [
+  "william",
+  "faulkner"
+ ],
+ "_surname": [
+  "faulkner",
+  "william faulkner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "faulkner-sound-fury": [
+   75170,
+   "The sound and the fury"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "faulkner-sound-fury": {
+   "bloom_n": [
+    1300
+   ],
+   "bloom_title": "The Sound and the Fury",
+   "year": "1929 (PG verso 'Copyright, 1929, by William Faulkner'; renewed 1956)",
+   "evidence": "PG header 'Original publication: New York: Random House, 1929' + verso read",
+   "case": "Bloom lists The Sound and the Fury (1929). PG has it.",
+   "note": "PG's source copy is a later Random House printing (verso 'Copyright, 1929 ... Copyright renewed, 1956'), apparently the uncorrected original text (not the 1984 Polk text) -- worth a spot check."
+  }
+ },
+ "_checks": {
+  "faulkner-sound-fury": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "faulkner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
