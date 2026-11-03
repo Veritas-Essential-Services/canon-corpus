@@ -35,7 +35,7 @@
 {"kjv": "Gen.32.30", "parallels": {"brenton": ["brenton:Gen.32.31"]}}
 {"kjv": "Gen.32.31", "parallels": {"brenton": ["brenton:Gen.32.32"]}}
 {"kjv": "Gen.32.32", "parallels": {"brenton": ["brenton:Gen.32.33"]}}
-{"kjv": "Gen.35.21", "parallels": {"brenton": []}}
+{"kjv": "Gen.35.21", "parallels": {"brenton": ["brenton:Gen.35.16"]}}
 {"kjv": "Gen.49.32", "parallels": {"douay": [], "vulgate": []}}
 {"kjv": "Gen.49.33", "parallels": {"douay": ["douay:Gen.49.32"], "vulgate": ["vulgate:Gen.49.32"]}}
 {"kjv": "Gen.50.23", "parallels": {"douay": ["douay:Gen.50.22"], "vulgate": ["vulgate:Gen.50.22"]}}
@@ -522,8 +522,7 @@
 {"kjv": "Deut.23.21", "parallels": {"brenton": ["brenton:Deut.23.22"]}}
 {"kjv": "Deut.23.22", "parallels": {"brenton": ["brenton:Deut.23.23"]}}
 {"kjv": "Deut.23.23", "parallels": {"brenton": ["brenton:Deut.23.24"]}}
-{"kjv": "Deut.23.24", "parallels": {"brenton": ["brenton:Deut.23.25"]}}
-{"kjv": "Deut.23.25", "parallels": {"brenton": ["brenton:Deut.23.26"]}}
+{"kjv": "Deut.23.24", "parallels": {"brenton": ["brenton:Deut.23.26"]}}
 {"kjv": "Josh.4.23", "parallels": {"douay": ["douay:Josh.4.23", "douay:Josh.4.24"], "vulgate": ["vulgate:Josh.4.23", "vulgate:Josh.4.24"]}}
 {"kjv": "Josh.4.24", "parallels": {"douay": ["douay:Josh.4.25"], "vulgate": ["vulgate:Josh.4.25"]}}
 {"kjv": "Josh.5.14", "parallels": {"douay": ["douay:Josh.5.14", "douay:Josh.5.15"], "vulgate": ["vulgate:Josh.5.14", "vulgate:Josh.5.15"]}}
@@ -540,6 +539,8 @@
 {"kjv": "Josh.10.15", "parallels": {"brenton": []}}
 {"kjv": "Josh.10.43", "parallels": {"brenton": []}}
 {"kjv": "Josh.13.33", "parallels": {"brenton": []}}
+{"kjv": "Josh.19.47", "parallels": {"brenton": ["brenton:Josh.19.48"]}}
+{"kjv": "Josh.19.48", "parallels": {"brenton": ["brenton:Josh.19.47"]}}
 {"kjv": "Josh.20.4", "parallels": {"brenton": []}}
 {"kjv": "Josh.20.5", "parallels": {"brenton": []}}
 {"kjv": "Josh.20.6", "parallels": {"brenton": []}}
@@ -616,7 +617,7 @@
 {"kjv": "1Sam.24.20", "parallels": {"brenton": ["brenton:1Sam.24.21"], "douay": ["douay:1Sam.24.21"], "vulgate": ["vulgate:1Sam.24.21"]}}
 {"kjv": "1Sam.24.21", "parallels": {"brenton": ["brenton:1Sam.24.22"], "douay": ["douay:1Sam.24.22"], "vulgate": ["vulgate:1Sam.24.22"]}}
 {"kjv": "1Sam.24.22", "parallels": {"brenton": ["brenton:1Sam.24.23"], "douay": ["douay:1Sam.24.23"], "vulgate": ["vulgate:1Sam.24.23"]}}
-{"kjv": "2Sam.13.39", "parallels": {"douay": []}}
+{"kjv": "2Sam.13.39", "parallels": {"douay": ["douay:2Sam.13.38"]}}
 {"kjv": "2Sam.18.33", "parallels": {"brenton": ["brenton:2Sam.19.1"]}}
 {"kjv": "2Sam.19.1", "parallels": {"brenton": ["brenton:2Sam.19.2"]}}
 {"kjv": "2Sam.19.2", "parallels": {"brenton": ["brenton:2Sam.19.3"]}}
@@ -661,18 +662,25 @@
 {"kjv": "2Sam.19.41", "parallels": {"brenton": ["brenton:2Sam.19.42"]}}
 {"kjv": "2Sam.19.42", "parallels": {"brenton": ["brenton:2Sam.19.43"]}}
 {"kjv": "2Sam.19.43", "parallels": {"brenton": ["brenton:2Sam.19.44"]}}
-{"kjv": "2Sam.23.30", "parallels": {"brenton": []}}
-{"kjv": "2Sam.23.31", "parallels": {"brenton": []}}
+{"kjv": "2Sam.23.30", "parallels": {"brenton": ["brenton:2Sam.23.29", "brenton:2Sam.23.37a"]}}
+{"kjv": "2Sam.23.31", "parallels": {"brenton": ["brenton:2Sam.23.29", "brenton:2Sam.23.37b"]}}
+{"kjv": "2Sam.23.32", "parallels": {"brenton": ["brenton:2Sam.23.29", "brenton:2Sam.23.32"]}}
+{"kjv": "2Sam.23.37", "parallels": {"brenton": ["brenton:2Sam.23.37", "brenton:2Sam.23.37c"]}}
 {"kjv": "1Kgs.3.1", "parallels": {"brenton": ["brenton:1Kgs.5.14a"]}}
+{"kjv": "1Kgs.4.2", "parallels": {"brenton": ["brenton:1Kgs.2.46h", "brenton:1Kgs.4.2"]}}
+{"kjv": "1Kgs.4.3", "parallels": {"brenton": ["brenton:1Kgs.2.46h", "brenton:1Kgs.4.3"]}}
+{"kjv": "1Kgs.4.4", "parallels": {"brenton": ["brenton:1Kgs.2.46h", "brenton:1Kgs.4.4"]}}
+{"kjv": "1Kgs.4.5", "parallels": {"brenton": ["brenton:1Kgs.2.46h", "brenton:1Kgs.4.5"]}}
+{"kjv": "1Kgs.4.6", "parallels": {"brenton": ["brenton:1Kgs.2.46h", "brenton:1Kgs.4.6"]}}
 {"kjv": "1Kgs.4.17", "parallels": {"brenton": ["brenton:1Kgs.4.19"]}}
 {"kjv": "1Kgs.4.18", "parallels": {"brenton": ["brenton:1Kgs.4.17"]}}
 {"kjv": "1Kgs.4.19", "parallels": {"brenton": ["brenton:1Kgs.4.18"]}}
-{"kjv": "1Kgs.4.20", "parallels": {"brenton": ["brenton:1Kgs.2.46a", "brenton:1Kgs.2.46b", "brenton:1Kgs.2.46c", "brenton:1Kgs.2.46d", "brenton:1Kgs.2.46e"]}}
-{"kjv": "1Kgs.4.21", "parallels": {"brenton": ["brenton:1Kgs.2.46k"]}}
-{"kjv": "1Kgs.4.22", "parallels": {"brenton": ["brenton:1Kgs.5.2"]}}
-{"kjv": "1Kgs.4.23", "parallels": {"brenton": ["brenton:1Kgs.5.3"]}}
-{"kjv": "1Kgs.4.24", "parallels": {"brenton": ["brenton:1Kgs.5.4"]}}
-{"kjv": "1Kgs.4.25", "parallels": {"brenton": ["brenton:1Kgs.2.46g", "brenton:1Kgs.2.46h"]}}
+{"kjv": "1Kgs.4.20", "parallels": {"brenton": ["brenton:1Kgs.2.46a"]}}
+{"kjv": "1Kgs.4.21", "parallels": {"brenton": ["brenton:1Kgs.2.46b", "brenton:1Kgs.2.46k"]}}
+{"kjv": "1Kgs.4.22", "parallels": {"brenton": ["brenton:1Kgs.2.46e", "brenton:1Kgs.5.2"]}}
+{"kjv": "1Kgs.4.23", "parallels": {"brenton": ["brenton:1Kgs.2.46e", "brenton:1Kgs.5.3"]}}
+{"kjv": "1Kgs.4.24", "parallels": {"brenton": ["brenton:1Kgs.2.46f", "brenton:1Kgs.2.46g", "brenton:1Kgs.5.4"]}}
+{"kjv": "1Kgs.4.25", "parallels": {"brenton": ["brenton:1Kgs.2.46g"]}}
 {"kjv": "1Kgs.4.26", "parallels": {"brenton": ["brenton:1Kgs.2.46i"]}}
 {"kjv": "1Kgs.4.27", "parallels": {"brenton": ["brenton:1Kgs.5.1"]}}
 {"kjv": "1Kgs.4.28", "parallels": {"brenton": ["brenton:1Kgs.5.1"]}}
@@ -765,7 +773,7 @@
 {"kjv": "1Kgs.9.15", "parallels": {"brenton": ["brenton:1Kgs.2.35i", "brenton:1Kgs.2.35k", "brenton:1Kgs.10.22a"]}}
 {"kjv": "1Kgs.9.16", "parallels": {"brenton": ["brenton:1Kgs.5.14b"]}}
 {"kjv": "1Kgs.9.17", "parallels": {"brenton": ["brenton:1Kgs.2.35i", "brenton:1Kgs.10.22a"]}}
-{"kjv": "1Kgs.9.18", "parallels": {"brenton": ["brenton:1Kgs.2.35i", "brenton:1Kgs.10.22a"]}}
+{"kjv": "1Kgs.9.18", "parallels": {"brenton": ["brenton:1Kgs.2.35i", "brenton:1Kgs.2.46d", "brenton:1Kgs.10.22a"]}}
 {"kjv": "1Kgs.9.19", "parallels": {"brenton": ["brenton:1Kgs.10.22a"]}}
 {"kjv": "1Kgs.9.20", "parallels": {"brenton": ["brenton:1Kgs.10.22b"]}}
 {"kjv": "1Kgs.9.21", "parallels": {"brenton": ["brenton:1Kgs.10.22b"]}}
@@ -1580,7 +1588,7 @@
 {"kjv": "Ps.3.4", "parallels": {"brenton": ["brenton:Ps.3.5"], "douay": ["douay:Ps.3.5"], "vulgate": ["vulgate:Ps.3.5"]}}
 {"kjv": "Ps.3.5", "parallels": {"brenton": ["brenton:Ps.3.6"], "douay": ["douay:Ps.3.6"], "vulgate": ["vulgate:Ps.3.6"]}}
 {"kjv": "Ps.3.6", "parallels": {"brenton": ["brenton:Ps.3.7"], "douay": ["douay:Ps.3.7"], "vulgate": ["vulgate:Ps.3.7"]}}
-{"kjv": "Ps.3.7", "parallels": {"brenton": ["brenton:Ps.3.8"], "douay": ["douay:Ps.3.8"], "vulgate": ["vulgate:Ps.3.8"]}}
+{"kjv": "Ps.3.7", "parallels": {"brenton": ["brenton:Ps.3.8"], "douay": ["douay:Ps.3.7", "douay:Ps.3.8"], "vulgate": ["vulgate:Ps.3.7", "vulgate:Ps.3.8"]}}
 {"kjv": "Ps.3.8", "parallels": {"brenton": ["brenton:Ps.3.9"], "douay": ["douay:Ps.3.9"], "vulgate": ["vulgate:Ps.3.9"]}}
 {"kjv": "Ps.4.1", "parallels": {"brenton": ["brenton:Ps.4.2"], "douay": ["douay:Ps.4.2"], "vulgate": ["vulgate:Ps.4.2"]}}
 {"kjv": "Ps.4.2", "parallels": {"brenton": ["brenton:Ps.4.3"], "douay": ["douay:Ps.4.3"], "vulgate": ["vulgate:Ps.4.3"]}}
@@ -1593,7 +1601,7 @@
 {"kjv": "Ps.5.1", "parallels": {"brenton": ["brenton:Ps.5.2"], "douay": ["douay:Ps.5.2"], "vulgate": ["vulgate:Ps.5.2"]}}
 {"kjv": "Ps.5.2", "parallels": {"brenton": ["brenton:Ps.5.3"], "douay": ["douay:Ps.5.3"], "vulgate": ["vulgate:Ps.5.3"]}}
 {"kjv": "Ps.5.3", "parallels": {"brenton": ["brenton:Ps.5.4"], "douay": ["douay:Ps.5.4"], "vulgate": ["vulgate:Ps.5.4"]}}
-{"kjv": "Ps.5.4", "parallels": {"brenton": ["brenton:Ps.5.5"], "douay": ["douay:Ps.5.5"], "vulgate": ["vulgate:Ps.5.5"]}}
+{"kjv": "Ps.5.4", "parallels": {"brenton": ["brenton:Ps.5.5"], "douay": ["douay:Ps.5.5", "douay:Ps.5.6"], "vulgate": ["vulgate:Ps.5.5", "vulgate:Ps.5.6"]}}
 {"kjv": "Ps.5.5", "parallels": {"brenton": ["brenton:Ps.5.6"], "douay": ["douay:Ps.5.6"], "vulgate": ["vulgate:Ps.5.6"]}}
 {"kjv": "Ps.5.6", "parallels": {"brenton": ["brenton:Ps.5.7"], "douay": ["douay:Ps.5.7"], "vulgate": ["vulgate:Ps.5.7"]}}
 {"kjv": "Ps.5.7", "parallels": {"brenton": ["brenton:Ps.5.8"], "douay": ["douay:Ps.5.8"], "vulgate": ["vulgate:Ps.5.8"]}}
@@ -1718,8 +1726,8 @@
 {"kjv": "Ps.16.7", "parallels": {"brenton": ["brenton:Ps.15.7"], "douay": ["douay:Ps.15.7"], "vulgate": ["vulgate:Ps.15.7"]}}
 {"kjv": "Ps.16.8", "parallels": {"brenton": ["brenton:Ps.15.8"], "douay": ["douay:Ps.15.8"], "vulgate": ["vulgate:Ps.15.8"]}}
 {"kjv": "Ps.16.9", "parallels": {"brenton": ["brenton:Ps.15.9"], "douay": ["douay:Ps.15.9"], "vulgate": ["vulgate:Ps.15.9"]}}
-{"kjv": "Ps.16.10", "parallels": {"brenton": ["brenton:Ps.15.10"], "douay": ["douay:Ps.15.10", "douay:Ps.15.11"], "vulgate": ["vulgate:Ps.15.10"]}}
-{"kjv": "Ps.16.11", "parallels": {"brenton": ["brenton:Ps.15.11"], "douay": ["douay:Ps.15.10", "douay:Ps.15.11"], "vulgate": ["vulgate:Ps.15.10"]}}
+{"kjv": "Ps.16.10", "parallels": {"brenton": ["brenton:Ps.15.10"], "douay": ["douay:Ps.15.10"], "vulgate": ["vulgate:Ps.15.10"]}}
+{"kjv": "Ps.16.11", "parallels": {"brenton": ["brenton:Ps.15.11"], "douay": ["douay:Ps.15.11"], "vulgate": ["vulgate:Ps.15.10"]}}
 {"kjv": "Ps.17.1", "parallels": {"brenton": ["brenton:Ps.16.1"], "douay": ["douay:Ps.16.1"], "vulgate": ["vulgate:Ps.16.1"]}}
 {"kjv": "Ps.17.2", "parallels": {"brenton": ["brenton:Ps.16.2"], "douay": ["douay:Ps.16.2"], "vulgate": ["vulgate:Ps.16.2"]}}
 {"kjv": "Ps.17.3", "parallels": {"brenton": ["brenton:Ps.16.3"], "douay": ["douay:Ps.16.3"], "vulgate": ["vulgate:Ps.16.3"]}}
@@ -2470,7 +2478,7 @@
 {"kjv": "Ps.64.1", "parallels": {"brenton": ["brenton:Ps.63.2"], "douay": ["douay:Ps.63.2"], "vulgate": ["vulgate:Ps.63.2"]}}
 {"kjv": "Ps.64.2", "parallels": {"brenton": ["brenton:Ps.63.3"], "douay": ["douay:Ps.63.3"], "vulgate": ["vulgate:Ps.63.3"]}}
 {"kjv": "Ps.64.3", "parallels": {"brenton": ["brenton:Ps.63.4"], "douay": ["douay:Ps.63.4"], "vulgate": ["vulgate:Ps.63.4"]}}
-{"kjv": "Ps.64.4", "parallels": {"brenton": ["brenton:Ps.63.5"], "douay": ["douay:Ps.63.5"], "vulgate": ["vulgate:Ps.63.5"]}}
+{"kjv": "Ps.64.4", "parallels": {"brenton": ["brenton:Ps.63.5"], "douay": ["douay:Ps.63.5", "douay:Ps.63.6"], "vulgate": ["vulgate:Ps.63.5", "vulgate:Ps.63.6"]}}
 {"kjv": "Ps.64.5", "parallels": {"brenton": ["brenton:Ps.63.6"], "douay": ["douay:Ps.63.6"], "vulgate": ["vulgate:Ps.63.6"]}}
 {"kjv": "Ps.64.6", "parallels": {"brenton": ["brenton:Ps.63.7"], "douay": ["douay:Ps.63.7"], "vulgate": ["vulgate:Ps.63.7"]}}
 {"kjv": "Ps.64.7", "parallels": {"brenton": ["brenton:Ps.63.8"], "douay": ["douay:Ps.63.8"], "vulgate": ["vulgate:Ps.63.8"]}}
@@ -3857,7 +3865,7 @@
 {"kjv": "Ps.138.7", "parallels": {"brenton": ["brenton:Ps.137.7"], "douay": ["douay:Ps.137.7"], "vulgate": ["vulgate:Ps.137.7"]}}
 {"kjv": "Ps.138.8", "parallels": {"brenton": ["brenton:Ps.137.8"], "douay": ["douay:Ps.137.8"], "vulgate": ["vulgate:Ps.137.8"]}}
 {"kjv": "Ps.139.1", "parallels": {"brenton": ["brenton:Ps.138.1"], "douay": ["douay:Ps.138.1"], "vulgate": ["vulgate:Ps.138.1"]}}
-{"kjv": "Ps.139.2", "parallels": {"brenton": ["brenton:Ps.138.2"], "douay": ["douay:Ps.138.2"], "vulgate": ["vulgate:Ps.138.2"]}}
+{"kjv": "Ps.139.2", "parallels": {"brenton": ["brenton:Ps.138.2"], "douay": ["douay:Ps.138.2", "douay:Ps.138.3"], "vulgate": ["vulgate:Ps.138.2", "vulgate:Ps.138.3"]}}
 {"kjv": "Ps.139.3", "parallels": {"brenton": ["brenton:Ps.138.3"], "douay": ["douay:Ps.138.3"], "vulgate": ["vulgate:Ps.138.3"]}}
 {"kjv": "Ps.139.4", "parallels": {"brenton": ["brenton:Ps.138.4"], "douay": ["douay:Ps.138.4"], "vulgate": ["vulgate:Ps.138.4"]}}
 {"kjv": "Ps.139.5", "parallels": {"brenton": ["brenton:Ps.138.5"], "douay": ["douay:Ps.138.5"], "vulgate": ["vulgate:Ps.138.5"]}}
@@ -3960,7 +3968,7 @@
 {"kjv": "Ps.145.21", "parallels": {"brenton": ["brenton:Ps.144.21"], "douay": ["douay:Ps.144.21"], "vulgate": ["vulgate:Ps.144.21"]}}
 {"kjv": "Ps.146.1", "parallels": {"brenton": ["brenton:Ps.145.1"], "douay": ["douay:Ps.145.1"], "vulgate": ["vulgate:Ps.145.1"]}}
 {"kjv": "Ps.146.2", "parallels": {"brenton": ["brenton:Ps.145.2"], "douay": ["douay:Ps.145.2"], "vulgate": ["vulgate:Ps.145.2"]}}
-{"kjv": "Ps.146.3", "parallels": {"brenton": ["brenton:Ps.145.3"], "douay": ["douay:Ps.145.3"], "vulgate": ["vulgate:Ps.145.3"]}}
+{"kjv": "Ps.146.3", "parallels": {"brenton": ["brenton:Ps.145.3"], "douay": ["douay:Ps.145.2", "douay:Ps.145.3"], "vulgate": ["vulgate:Ps.145.2", "vulgate:Ps.145.3"]}}
 {"kjv": "Ps.146.4", "parallels": {"brenton": ["brenton:Ps.145.4"], "douay": ["douay:Ps.145.4"], "vulgate": ["vulgate:Ps.145.4"]}}
 {"kjv": "Ps.146.5", "parallels": {"brenton": ["brenton:Ps.145.5"], "douay": ["douay:Ps.145.5"], "vulgate": ["vulgate:Ps.145.5"]}}
 {"kjv": "Ps.146.6", "parallels": {"brenton": ["brenton:Ps.145.6"], "douay": ["douay:Ps.145.6"], "vulgate": ["vulgate:Ps.145.6"]}}
@@ -3988,7 +3996,7 @@
 {"kjv": "Ps.147.18", "parallels": {"brenton": ["brenton:Ps.147.7"], "douay": ["douay:Ps.147.7"], "vulgate": ["vulgate:Ps.147.7"]}}
 {"kjv": "Ps.147.19", "parallels": {"brenton": ["brenton:Ps.147.8"], "douay": ["douay:Ps.147.8"], "vulgate": ["vulgate:Ps.147.8"]}}
 {"kjv": "Ps.147.20", "parallels": {"brenton": ["brenton:Ps.147.9"], "douay": ["douay:Ps.147.9"], "vulgate": ["vulgate:Ps.147.9"]}}
-{"kjv": "Ps.150.6", "parallels": {"douay": []}}
+{"kjv": "Ps.150.6", "parallels": {"douay": ["douay:Ps.150.5"]}}
 {"kjv": "Prov.1.16", "parallels": {"brenton": []}}
 {"kjv": "Prov.4.7", "parallels": {"brenton": []}}
 {"kjv": "Prov.7.7", "parallels": {"brenton": ["brenton:Prov.7.6"]}}
@@ -4063,6 +4071,8 @@
 {"kjv": "Prov.31.7", "parallels": {"brenton": ["brenton:Prov.24.60"]}}
 {"kjv": "Prov.31.8", "parallels": {"brenton": ["brenton:Prov.24.61"]}}
 {"kjv": "Prov.31.9", "parallels": {"brenton": ["brenton:Prov.24.62"]}}
+{"kjv": "Prov.31.26", "parallels": {"brenton": ["brenton:Prov.31.27"]}}
+{"kjv": "Prov.31.27", "parallels": {"brenton": ["brenton:Prov.31.26"]}}
 {"kjv": "Eccl.5.1", "parallels": {"brenton": ["brenton:Eccl.4.17"], "douay": ["douay:Eccl.4.17"], "vulgate": ["vulgate:Eccl.4.17"]}}
 {"kjv": "Eccl.5.2", "parallels": {"brenton": ["brenton:Eccl.5.1"], "douay": ["douay:Eccl.5.1"], "vulgate": ["vulgate:Eccl.5.1"]}}
 {"kjv": "Eccl.5.3", "parallels": {"brenton": ["brenton:Eccl.5.2"], "douay": ["douay:Eccl.5.2"], "vulgate": ["vulgate:Eccl.5.2"]}}
@@ -4181,7 +4191,8 @@
 {"kjv": "Isa.45.23", "parallels": {"douay": ["douay:Isa.45.23", "douay:Isa.45.24"]}}
 {"kjv": "Isa.45.24", "parallels": {"douay": ["douay:Isa.45.25"]}}
 {"kjv": "Isa.45.25", "parallels": {"douay": ["douay:Isa.45.26"]}}
-{"kjv": "Isa.46.13", "parallels": {"douay": []}}
+{"kjv": "Isa.46.12", "parallels": {"douay": ["douay:Isa.46.11"]}}
+{"kjv": "Isa.46.13", "parallels": {"douay": ["douay:Isa.46.12"]}}
 {"kjv": "Isa.56.12", "parallels": {"brenton": []}}
 {"kjv": "Isa.64.1", "parallels": {"brenton": ["brenton:Isa.63.19"]}}
 {"kjv": "Isa.64.2", "parallels": {"brenton": ["brenton:Isa.64.1"]}}
@@ -5419,5 +5430,5 @@
 {"kjv": "2Tim.4.10", "parallels": {"douay": ["douay:2Tim.4.9", "douay:2Tim.4.10"], "vulgate": ["vulgate:2Tim.4.9", "vulgate:2Tim.4.10"]}}
 {"kjv": "Rev.13.1", "parallels": {"douay": ["douay:Rev.12.18", "douay:Rev.13.1"], "vulgate": ["vulgate:Rev.12.18", "vulgate:Rev.13.1"]}}
 {"kjv": "Rev.20.8", "parallels": {"douay": ["douay:Rev.20.7"], "vulgate": ["vulgate:Rev.20.7"]}}
-{"kjv": "Rev.20.9", "parallels": {"douay": ["douay:Rev.20.8"], "vulgate": ["vulgate:Rev.20.8"]}}
+{"kjv": "Rev.20.9", "parallels": {"douay": ["douay:Rev.20.8", "douay:Rev.20.9"], "vulgate": ["vulgate:Rev.20.8", "vulgate:Rev.20.9"]}}
 {"kjv": "Rev.20.10", "parallels": {"douay": ["douay:Rev.20.9", "douay:Rev.20.10"], "vulgate": ["vulgate:Rev.20.9", "vulgate:Rev.20.10"]}}
