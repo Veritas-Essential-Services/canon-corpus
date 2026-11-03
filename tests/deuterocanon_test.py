@@ -3,7 +3,7 @@
 # fable_review: pending
 """data/versification/deuterocanon.json and data/parallel/deuterocanon-parallel.tsv:
 the deuterocanon's shared key (the KJV's Apocrypha verse) for the Vulgate, the
-Douay and Brenton. Offline, no corpus needed. The rebuild is
+Douay, Brenton and Charles 1913. Offline, no corpus needed. The rebuild is
 build_deuterocanon.py --check (it needs the built books)."""
 import json, os, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -31,14 +31,14 @@ C = lambda k, col: rows[k][col]
 R = lambda ref, w: V.resolve_dc(ref, w, m)
 W = m["witnesses"]
 
-check("columns: the KJV Apocrypha key, then the Vulgate, the Douay and Brenton",
-      head == ["kjva", "vulgate", "douay", "brenton"])
+check("columns: the KJV Apocrypha key, then the Vulgate, the Douay, Brenton and Charles",
+      head == ["kjva", "vulgate", "douay", "brenton", "charles"])
 check("one row per KJV Apocrypha verse, 5,722, as the key's book counts say",
       len(rows) == 5722 == sum(m["key"]["books"].values()))
 check("the key is public domain and pinned by sha256",
       m["rights"]["license"] == "public-domain" and len(m["key"]["sha256"]) == 64)
-check("every witness is one of the three, each with counts that add up",
-      set(W) == {"vulgate", "douay", "brenton"}
+check("every witness is one of the four, each with counts that add up",
+      set(W) == {"vulgate", "douay", "brenton", "charles"}
       and all(w["counts"]["keyed"] + w["counts"]["no_key"] == w["counts"]["verses"] for w in W.values()))
 
 # Known pairs, each read in both texts.
@@ -61,6 +61,26 @@ r = R("3Macc.1.1", "brenton")
 check("3 Maccabees has no key and says why", r and not r["resolved"] and "3 Maccabees" in r["why"])
 r = R("Ps.151.1", "brenton")
 check("Psalm 151 has no key and says why", r and not r["resolved"] and "151" in r["why"])
+
+# Charles 1913 (build_charles.py): refs are the KJV book name before his own number.
+check("Charles's Tobit 1:1 is the KJV's Tobit 1:1", is_("Tob.1.1", "charles", "Tob.1.1"))
+check("Charles's Epistle of Jeremy 12 is the KJV's Baruch 6:12 by default",
+      R("EpJer.1.12", "charles")["target"] == "kjva:Bar.6.12")
+check("Charles's 4 Ezra 3:1 is the KJV's 2 Esdras 3:1", is_("4Ezra.3.1", "charles", "2Esd.3.1"))
+check("review: Charles's Sirach 15:21-23 are the KJV's 16:1-3",
+      all(is_(f"Sir.15.{v}", "charles", f"Sir.16.{v - 20}") for v in (21, 22, 23)))
+r = R("Sir.24.35", "charles")
+check("a footnote the scan reader took for a verse has no key and says why",
+      r and not r["resolved"] and "footnote" in r["why"])
+r = R("Bar.leaf.600", "charles")
+check("Charles's Baruch, built by page, has no key and says why",
+      r and not r["resolved"] and "by scan page" in r["why"])
+r = R("4Macc.1.1", "charles")
+check("Charles's 4 Maccabees has no key and says why", r and not r["resolved"] and "4 Maccabees" in r["why"])
+check("Charles's Rest of Esther by his letters: A.1 is Mordecai's dream (KJV 11:2)",
+      R("AddEsth.A.1", "charles") and R("AddEsth.A.1", "charles")["target"] == "kjva:AddEsth.11.2")
+check("Charles keys most of the KJV Apocrypha it prints",
+      W["charles"]["counts"]["kjva_verses_reached"] >= 4900)
 
 # The Vulgate is keyed through the Douay.
 vk = {k: r["vulgate"] for k, r in rows.items()}

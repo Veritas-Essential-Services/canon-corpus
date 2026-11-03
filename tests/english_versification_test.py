@@ -19,7 +19,7 @@ def check(m, c):
 
 kjv = {k for k in json.load(open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"),
                                  encoding="utf-8"))["uids"] if k.startswith("kjv:")}
-SLUGS = ["geneva", "tyndale", "ylt", "darby", "asv"]
+SLUGS = ["geneva", "tyndale", "ylt", "darby", "asv", "coverdale", "bishops"]
 M = {s: V.load(V.english_path(s)) for s in SLUGS}
 T = lambda s, v: V.targets(v, M[s])
 R = lambda s, v: V.resolve_english(v, M[s], kjv)
@@ -52,13 +52,39 @@ check("the ASV's omitted verses (Acts 8:37, John 5:4) are named, not hidden",
       and R("asv", "Acts.8.37")["resolved"] is False)
 check("Young's Gen 18:12 is KJV 18:11 (his numbers run one ahead in 18:11-14)",
       T("ylt", "Gen.18.12") == ["Gen.18.11"] and T("ylt", "Gen.18.14") == ["Gen.18.13", "Gen.18.14"])
-check("Tyndale's Matt 5:48 holds KJV 5:47-48 (its 5:47 slot is empty)",
-      T("tyndale", "Matt.5.48") == ["Matt.5.47", "Matt.5.48"]
-      and R("tyndale", "Matt.5.47")["resolved"] is False)
-check("this Tyndale holds ten books only (Genesis, the Gospels, Acts, Romans, 1 Corinthians, "
-      "Hebrews, Revelation): Exodus is no verse of it",
-      R("tyndale", "Exod.1.1")["resolved"] is False
-      and len({c.split(".")[0] for c in M["tyndale"]["chapters"]}) == 10)
+check("Tyndale holds the 33 books he translated: Genesis-Deuteronomy, Jonah, the NT; "
+      "Joshua is no verse of it",
+      len({c.split(".")[0] for c in M["tyndale"]["chapters"]}) == 33
+      and R("tyndale", "Exod.1.1")["resolved"] is True
+      and R("tyndale", "Josh.1.1")["resolved"] is False)
+check("Tyndale's Matt 5:47 has its own words now (the ten-book source left it empty)",
+      T("tyndale", "Matt.5.47") == ["Matt.5.47"] and T("tyndale", "Matt.5.48") == ["Matt.5.48"])
+check("Tyndale's Rom 2:11 runs into KJV 2:12; Luke 17:36 is named as having no verse",
+      T("tyndale", "Rom.2.11") == ["Rom.2.11", "Rom.2.12"]
+      and "engtnt" in M["tyndale"]["kjv_without_verse"]["Luke.17.36"])
+
+# Coverdale and the Bishops' (Bible SuperSearch).
+check("Coverdale's Ps 14:3-4 (the Latin's Rom 3:13-18 insertion) land on no KJV verse",
+      all(R("coverdale", v)["resolved"] is False and "Rom 3" in R("coverdale", v)["why"]
+          for v in ("Ps.14.3", "Ps.14.4"))
+      and T("coverdale", "Ps.14.2") == ["Ps.14.2", "Ps.14.3"])
+check("Coverdale's Ps 18:46 is KJV 18:45; Job 27:3-4 swapped",
+      T("coverdale", "Ps.18.46") == ["Ps.18.45"]
+      and T("coverdale", "Job.27.3") == ["Job.27.4"] and T("coverdale", "Job.27.4") == ["Job.27.3"])
+check("Coverdale: the '(Omitted Text)' slots are empty slots, their KJV verses named",
+      {"Lev.15.23", "Mark.6.46"} <= set(M["coverdale"]["kjv_without_verse"])
+      and "Mark.6.46" in M["coverdale"]["empty_slots"])
+check("Coverdale's Psalter is read off the alignment in 34 chapters, each scored better",
+      len(M["coverdale"]["aligned_chapters"]) == 34
+      and all(c.startswith("Ps.") and a["aligned"] > a["same_numbers"]
+              for c, a in M["coverdale"]["aligned_chapters"].items()))
+check("the Bishops' swaps Ps 87:1-2; its six empty slots are named",
+      T("bishops", "Ps.87.1") == ["Ps.87.2"] and T("bishops", "Ps.87.2") == ["Ps.87.1"]
+      and set(M["bishops"]["kjv_without_verse"]) == {"Gen.11.10", "Gen.46.9", "Exod.6.14",
+                                                     "Exod.36.8", "Deut.16.4", "Esth.1.1"})
+check("the Tudor three are compared in folded spelling, and say so",
+      all("tokens" in M[s] for s in ("coverdale", "bishops", "tyndale"))
+      and not any("tokens" in M[s] for s in ("geneva", "ylt", "darby", "asv")))
 check("resolve: one verse, several KJV verses",
       R("geneva", "Dan.3.30") == {"resolved": True, "target": "kjv:Dan.3.30",
                                   "spans": ["kjv:Dan.3.30", "kjv:Dan.4.1", "kjv:Dan.4.2",
@@ -85,9 +111,12 @@ for s, m in M.items():
           verses == m["checked_against"]["verses"]
           and {k for k in kjv if k[4:].split(".")[0] in books and k not in reached}
           == {f"kjv:{e}" for e in m["kjv_without_verse"]})
+    pin = (m["source"].get("commit", "").startswith("e1b254c")
+           or (m["source"].get("module_version") == "6.2.0"
+               and len(m["source"].get("sha256", "")) == 64 and m["source"].get("retrieved")))
     check(f"{s}: public domain, with the source's rights line and pin",
           m["rights"]["license"] == "public-domain" and "Public Domain" in m["source"]["rights_line"]
-          and m["source"]["commit"].startswith("e1b254c"))
+          and pin)
 
 print(f"\n{passed} passed, {fails} failed")
 sys.exit(1 if fails else 0)

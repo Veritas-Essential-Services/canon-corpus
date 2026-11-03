@@ -88,7 +88,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 265 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 269 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 tests/queue_books_test.py         # the illustrated-classics queue converter (QUEUE_BOOKS), synthetic
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
@@ -108,10 +108,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_brenton_versification.py --check  # Brenton->KJV map byte-identical; invariants
     python3 pipeline/build_brenton_versification.py --audit  # the map vs Brenton's English aligned to the KJV's
     python3 tests/brenton_versification_test.py  # the Brenton map, offline
-    python3 pipeline/build_english_versification.py --fetch  # Geneva, Tyndale, YLT, Darby, ASV, pinned
+    python3 pipeline/build_english_versification.py --fetch  # Geneva, Tyndale, YLT, Darby, ASV, Coverdale, Bishops', pinned
     python3 pipeline/build_english_versification.py --check  # their KJV maps byte-identical; invariants
     python3 pipeline/build_english_versification.py --audit geneva  # verses a nearby KJV verse fits better
-    python3 tests/english_versification_test.py  # the five maps, offline
+    python3 tests/english_versification_test.py  # the seven maps, offline
     python3 pipeline/build_parallel_index.py          # data/parallel/kjv-parallel.tsv (needs the built books)
     python3 pipeline/build_parallel_index.py --check  # the index byte-identical
     python3 tests/parallel_index_test.py      # the index vs the committed maps, offline
@@ -161,6 +161,18 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
     python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
     python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
+    python3 pipeline/build_lightfoot.py --fetch  # Lightfoot's English AF (CCEL ThML, pinned), aligned to Lake
+    python3 pipeline/build_lightfoot.py --check  # rebuild = the committed manifest entries
+    python3 pipeline/build_lightfoot.py --survey # every chapter: CCEL paragraphs vs Lake sections, units
+    python3 tests/lightfoot_test.py          # Lightfoot: rights, alignment rules on fixtures, measurements
+    python3 pipeline/build_charles.py --fetch    # Charles 1913 Apocrypha & Pseudepigrapha: archive.org hOCR, pinned
+    python3 pipeline/build_charles.py            # 32 books read from the OCR -> data/books/charles-*.json
+    python3 pipeline/build_charles.py --check    # rebuild = the committed manifest entries
+    python3 pipeline/build_charles.py --report   # per book: numbers read, running heads, KJV verse coverage
+    python3 tests/charles_test.py            # the scan reader on fixtures; the manifest's measures
+    python3 pipeline/proof_charles.py --fetch    # the pinned English word list (dwyl, Unlicense)
+    python3 pipeline/proof_charles.py            # likely OCR errors -> docs/review/charles-ocr-flags.{tsv,md}
+    python3 pipeline/proof_charles.py --check    # the committed flags = a fresh pass
     python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
     python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
     python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
@@ -172,6 +184,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_philo.py --check      # rebuild = the committed manifest entries
     python3 pipeline/build_philo.py --measure    # how Cohn-Wendland number scripture: the evidence
     python3 tests/philo_test.py              # Philo: alignment, scripture refs, OCR cruft
+    python3 pipeline/build_schaff.py --fetch     # ANF + NPNF1/2 (Schaff, CCEL ThML, 38 vols pinned) -> data/books/
+    python3 pipeline/build_schaff.py --check     # rebuild = the committed manifest entries
+    python3 pipeline/build_schaff.py --report    # volume stats + every work's alignment measure; writes nothing
+    python3 tests/schaff_test.py                 # Schaff: ThML rules on fixtures, rights, alignment gate
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -213,6 +229,17 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_lemma_bridge.py --check     # bridge files byte-identical
     python3 tests/lemma_bridge_test.py                 # the bridge: FTS5 bug, the fix, JS/Python parity
     python3 tests/lexicon_test.py                      # data/lexicons/webster1913.json.gz: hash + shape
+    python3 pipeline/build_wycliffe.py --fetch   # Forshall & Madden 1850 hOCR (4 vols, pinned) + eBible's Wycliffe
+    python3 pipeline/build_wycliffe.py           # wycliffe-{earlier,later}: verses from the scans' OCR (~5 min)
+    python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
+    python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
+    python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
+    python3 pipeline/build_commentaries.py --fetch   # 60 commentary volumes: IA hOCR scans + PG #50857, pinned
+    python3 pipeline/build_commentaries.py           # notes keyed by verse -> data/books/<slug>.json + manifest
+    python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
+    python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
+    python3 tests/commentaries_test.py       # the note readers on fixtures; the manifest's measures
+    python3 pipeline/build_commentaries.py --report delitzsch-psalms-2  # one volume (Alford, Bengel, K&D, Meyer read by build_book_2b)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -354,6 +381,132 @@ The living truth for project state is the Obsidian vault:
   (Greek Psalm count, titles in verse 1, Greek additions in Dan/Esth): not
   linked to kjv: units, no uids minted. Each verse keeps the project's
   marked-up line as `marked` beside the plain `text`.
+- Perseus DRAMA (2026-10-02): Sophocles 7 (Jebb), Aeschylus 7 (Smyth), Euripides
+  19 (Coleridge; Bacchae Buckley), Aristophanes' Clouds (Hickie) -- 34 plays,
+  18,600 units. convert_tei_drama: one unit per <l> segment keyed to the GREEK
+  line number (`sophocles-antigone-jebb:450`, ref "Soph. Ant. 450"). Under each
+  unit's `drama`: speaker, choral section, stage directions, translator's
+  footnotes (`notes`), and the printed form wherever Perseus corrected or
+  modernized it (`sic`) -- none of them mixed into the spoken text, none
+  dropped. Cast list at book level (`dramatis_personae`). Slug -> abbreviation
+  in TEI_DRAMA; Perseus line-number typos fixed in TEI_DRAMA_N_FIX. 🔴 Rights:
+  the translations are PD but Perseus's TEI and "modernized" wording are CC
+  BY-SA 4.0 (share-alike) -- each book carries a `rights` block saying so.
+  Birds is NOT taken: Perseus's English is a 1938 Random House compilation.
+- Perseus PROSE (2026-10-02): Herodotus (Godley), Thucydides (Crawley),
+  Xenophon's Anabasis, Hellenica (Brownson) and Cyropaedia (Miller), and
+  Plutarch's Parallel Lives, all 66 pieces (Perrin), one book per Life;
+  Polybius (Shuckburgh), Strabo (Hamilton & Falconer). Where a unit is a
+  RUN of numbered sections the scheme says "section (span)" -- measured from
+  the numbering, not assumed. (Josephus in Whiston is PR #8's
+  build_josephus.py, aligned to Niese: one owner per slug.)
+  Also Apollodorus (Frazer), Diogenes Laertius (Hicks), Epictetus
+  (Higginson), Aeschines' three speeches (C. D. Adams).
+  Latin, from canonical-latinLit: Caesar's Gallic War (McDevitte & Bohn)
+  and Civil War (Peskett), Tacitus' five works (Church & Brodribb),
+  Suetonius' twelve Caesars (Thomson, rev. Reed 1883). Tacitus is TEI P4
+  (`<TEI.2>`, no namespace, `<div1>`/`<div2>`, DTD-only entities like
+  `&aelig;`): `tei_load()` lifts P4 into the P5 shape in memory, source
+  untouched. Perseus keyed Tacitus from a 1942 Modern Library reprint, so
+  its marginal headings (apparatus only) carry an unverified-provenance
+  line in the rights note (`TEI_RIGHTS_NOTE`).
+  Cicero's speeches (Yonge), De Senectute, De Amicitia, De Divinatione
+  (Falconer), De Officiis (Walter Miller); Sallust (Watson), Vitruvius
+  (Morgan), Quintilian (Butler), Seneca's Apocolocyntosis (Rouse). Cicero's
+  essays mark sections as `<milestone unit="section"/>` inside paragraphs:
+  `TEI_PROSE_CUT` opts a book in and `tei_slice()` cuts it there (the
+  chapter rides on each unit as `milestones.chapter`). Numbering slips are
+  fixed by rule in `TEI_PROSE_N_FIX`. Beta-code Greek ("filo/sofos") inside
+  a Greek `<foreign>` is converted to Unicode (`beta_to_unicode`).
+  Cicero's letters (Shuckburgh, Att./Fam./Q. fr./ad Brut., 926 letters):
+  `convert_tei_letters`, one unit per letter at its canonical book.letter
+  (`cicero-letters-atticus-shuckburgh:4.1~s89`). Shuckburgh's number rides
+  as `edition.shuckburgh`; a split letter keeps its section range in the id
+  (12.5.1-2); a citation his heads print twice gets `~s<number>`; the
+  Quintus letters, copied three times across the files, are built once.
+  Lucian, 63 pieces (H. W. & F. G. Fowler, 1905), one book per piece
+  (`lucian-verae-historiae-fowler`, ref "Lucian Verae historiae 1.1").
+  Isocrates (Norlin), Isaeus (Forster), Appian (Horace White), Athenaeus
+  (Yonge). Where a source's divisions are exact but are not the standard
+  citation, `TEI_PROSE_HONESTY` says so (Athenaeus: Yonge's chapters, not
+  Casaubon pages; Appian: White's chapter before the standard section;
+  Appian's fragment books), and `TEI_PROSE_LEVELS` renames a level the
+  source misnames.
+- Roman comedy (2026-10-02): Plautus' 20 plays and Terence's 6, H. T. Riley's
+  prose, through convert_tei_drama: one unit per segment at the LATIN line
+  ("Pl. Am. 153"), with act, scene and scene heads under `drama`. Every
+  drama book's honesty now states its measured segment lengths.
+- Also Latin: Livy (Bohn: Spillan, Edmonds, McDevitte), Gellius (Rolfe),
+  Horace's Satires and Ars Poetica (Smart's prose, cards: span), and a
+  second Civil War (Duncan) beside Peskett.
+  convert_tei_prose: one unit per innermost textpart div, id = born-in
+  book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
+  Footnotes under `apparatus.notes`, headings between divisions under
+  `apparatus.head`, places as TGN links; Perseus's gazetteer <reg> glosses are
+  NOT text (tei_pieces drops them). Slug -> abbreviation in TEI_PROSE.
+  perseus_rights() gives every Perseus book (epic, drama, prose) its CC BY-SA
+  rights block.
+- The Greek FATHERS (2026-10-02): the Greek text itself, not a translation,
+  from First1KGreek (OpenGreekAndLatin/First1KGreek, raw.githubusercontent
+  only). `FIRST1K` in fetch_sources.py -> data/corpus/first1k/ -> the same
+  convert_tei_prose, slug suffix `-grc` (`origen-contra-celsum-grc:1.1`).
+  Rights: the TEI is CC BY-SA; the printed edition must be dated before 1931
+  (the sourceDesc is read; editor and date ride in `source.edition` and the
+  rights note). What is only true of these files: a section milestone may sit
+  OUTSIDE the chapter it opens (Stählin's Clement); OCR damage is real, so a
+  unit with Latin-letter words carries `apparatus.latin_letters` (a Latin
+  passage, or OCR residue: never silently clean); Archambault's Justin
+  printed references and folios inside the Greek in brackets, lifted into
+  `apparatus.refs` / `apparatus.folio` (TEI_PROSE_BRACKETS), unresolved.
+  Wave 2 adds Eusebius, Athanasius, Gregory Nazianzen's Theological
+  Orations, Epiphanius' Ancoratus, Cyril on the Twelve Prophets. Honesty
+  names the edition whose numbering the ids are ("numbered as the printed
+  edition numbers it (Dindorf, 1871)"): never claim the standard numbering.
+  Wave 3: the church historians after Eusebius (Socrates, Sozomen,
+  Theodoret, Evagrius, Gelasius), Theodoret's Religious History, Mark the
+  Deacon's Porphyry, the Greek Perpetua.
+  Wave 4: apocrypha and pseudepigrapha in Greek (Acts of Thomas, Philip,
+  Barnabas; Testament of Abraham; Lives of the Prophets; Swete's Greek
+  Enoch) and M. R. James's English (1924) for Thomas and Philip, on
+  Bonnet's sections, so a citation reaches both. A First1KGreek translation
+  is recognised by its type="translation" div; its translator is the
+  printed book's author.
+  Cramer's catenae (convert_catena, table CATENA): the fathers' comments
+  verse by verse. The files divide only by kephalaia and print the verse
+  number (a margin note, or a bare <lb n> mixed with page-line numbers),
+  never the chapter. pipeline/place_catena.py MEASURES which marks are
+  verses and in which chapter, against the Robinson-Pierpont NT (pinned),
+  and commits the decision per mark in data/catenae/<slug>.json (reviewable;
+  --check must be byte-identical). convert_catena only reads that file, and
+  every placed mark names the kephalaion and printed number it expects, so
+  a changed source fails loudly. All 25 catenae with verse marks (Matthew to
+  3 John, 3,010 units, 2,872 linked to a KJV verse). Not taken: the three
+  variant-reading supplements. Running commentary (Luke, John) places by
+  printed number with weak lemma evidence; it says so. The Munich-type
+  Romans (7-16) and Jude are verse-divided in the file, so
+  convert_catena_verses (table CATENA_VERSES) READS the passage urn instead
+  of measuring; Munich Romans names the father of each comment, one unit
+  each (7.9-12.c1, field `by`; "of the same" takes the father before it).
+  Every link is checked against the KJV's units: the Byzantine Romans
+  doxology (14:24-26) links to the KJV's 16:25-27 (CATENA_KJV_MOVED). A
+  placement whose lemma shares under 10% of its words with the verse is
+  dropped (MIN_PLACE); a second section on one verse is id + b (9.20b).
+  The LATIN fathers (2026-10-02): 82 CSEL volumes (Vienna, 1867-1922) from
+  OpenGreekAndLatin/csel-dev, slug suffix `-lat`, data/corpus/csel/, table
+  CSEL in fetch_sources.py, through the same prose converter (OGL in
+  structure_texts.py names the corpus by directory). Augustine, Jerome
+  (Letters, Jeremiah), Tertullian, Ambrose, Lactantius, Arnobius, Minucius
+  Felix: 25,547 units, 3.1M words. Unproofread machine-corrected OCR, and
+  every book's honesty says so. An unnumbered part is named by its subtype
+  (1.preface) in CSEL books only -- older books keep "?". Cyprian is not in
+  csel-dev. Wave 2 (16 books, 3,303 units): Egeria, the Bordeaux pilgrim,
+  Adamnan, Eucherius, Eugippius, Paulinus of Nola's letters, Sedulius'
+  Opus paschale, Sulpicius Severus. Exclusions and why are in the CSEL
+  comment.
+  Tertullian's works CSEL lacks come from Perseus (Oehler, Leipzig, 1853 or 1854 by volume, as each rights note says): 14
+  books in PERSEUS, listed in TEI_ORIGINAL so the converter records the
+  edition and the rights say "Latin text", never "translation".
+  Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:
@@ -404,7 +557,29 @@ The living truth for project state is the Obsidian vault:
   numbers by fixed rules against data/nt (85% of the Greek), never guessed.
   Pol. Phil. 10-14 and Herm. Sim. 9.30-10.4 survive in Latin, which
   First1KGreek garbled into Greek letters; a per-book rule restores it.
-  Lightfoot's English is PENDING (CCEL, unreachable from cloud sessions).
+  Lightfoot's English: pipeline/build_lightfoot.py (next).
+- pipeline/build_lightfoot.py — Lightfoot & Harmer's English Apostolic Fathers
+  (1891, PD; CCEL ThML pinned in fetch_sources.LIGHTFOOT, kept out of
+  data/corpus/ccel/ so structure_texts.py does not build it too) → nine
+  books `<work>-lightfoot`, each unit keyed by the Lake section(s) it
+  translates. Chapters by rule (Hermas: Lake's chapter starts where CCEL's
+  indents corroborate them); sections by a length alignment whose boundaries
+  every near-best alignment must agree on; else a run, else the chapter.
+  Links run English -> Greek only (Lake's books are not rewritten). The
+  Moscow epilogue in Mart. Pol. 22 is a SPLIT row.
+- pipeline/build_charles.py + charles_ocr.py — R. H. Charles, *Apocrypha and
+  Pseudepigrapha of the OT* (1913, US PD; one contributor, Gregg on the
+  Additions to Esther, d. 1961, so that book is flagged redistribute_whole
+  false). No machine-readable edition exists: read from the Internet Archive's
+  hOCR of the Toronto scans (pinned by sha256; the BYU scans were OCR'd as
+  Greek). 32 books `charles-<book>`, ids `charles-tob:5.16`,
+  `charles-testxii:Jos.3.7`, `charles-sib:3.101` (Sibyllines by line). Verse
+  numbers come off the margin by a decoder checked against the running heads;
+  every unit says how its number was got and where its first words were put
+  (`scan`). Two-column pages keep the left column (counted). Parallel-column
+  books and any book under MODE_BAR are built by page (`leaf.N` ids, the
+  folio in scan.printed_page). Unproofread OCR, and the honesty field says so;
+  pipeline/proof_charles.py writes an OCR flag list to docs/review/.
 - pipeline/build_josephus.py — Josephus (Ant., J.W., Life, Ag. Ap.): Niese's
   Greek and Whiston's English (both PD; Perseus TEI CC BY-SA 4.0, so books
   gitignored, labelled manifest entries committed). Units are Whiston's
@@ -420,6 +595,19 @@ The living truth for project state is the Obsidian vault:
   The editors' scripture references leave the Greek text for links[]; they
   number Psalms and Exod 35-40 as the LXX, the rest as the KJV (measured,
   `--measure`). Bohn's running heads in the English are CRUFT rows.
+- pipeline/build_schaff.py — Schaff's Ante-Nicene and Nicene & Post-Nicene
+  Fathers in English (38 vols, 1885-1900, PD; CCEL ThML pinned by sha256 in
+  schaff_pins.json, kept in data/corpus/schaff/ so structure_texts.py does not
+  build it too). Each file's DC.Rights is read ("Public Domain" in all 38) and
+  CCEL's copyright page asks personal/educational/non-profit use: rights block,
+  redistribute_whole false, commercial "ask CCEL". Volume books
+  `schaff-<vol>`: one unit per CCEL paragraph (its id is CCEL's anchor), print
+  page from <pb>, footnotes in `notes`, scripture by convert_thml's regexes.
+  ANF 10 is a page-image facsimile: 0 units. Work books `<work>-schaff` cut
+  from the volumes, keyed in the PR #7 Greek/Latin book's numbering and linked
+  to it, but only where a MEASURE (chapter-length r and shared names, on vs
+  one off the diagonal) passes; else refused, no links. Cyprian (ANF 5) as
+  five work books with no counterpart (no Latin Cyprian on GitHub).
 - pipeline/build_nt_variants.py — a variant apparatus for the NT from
   STEPBible's TAGNT (CC BY 4.0; STEPBible asks it not be redistributed, so
   the book is gitignored and only the manifest entry is committed): per KJV
@@ -505,17 +693,24 @@ The living truth for project state is the Obsidian vault:
   build_english_versification.py → data/versification/<slug>-kjv.json
   (COMMITTED; the house's own reading, PD): each chapter aligned against the
   KJV's English, followed only where it reads clearly better; HOUSE_ROWS for
-  swaps (Phil 1:16-17) and what old spelling hides. This Tyndale holds ten
-  books only; Darby's "beginningGod" is mended by a per-book rule
-  (ENGLISH_RULES). versification.resolve_english. NOT here: Wycliffe (the
-  one reachable PD copy, BibleNLP's eBible extract, drops verses where the
-  Vulgate's chapters run longer than the Hebrew's), Coverdale and the
-  Bishops' (no reachable machine-readable PD source found).
-  Candidates for a full-network lane: docs/pending-sources.md.
+  swaps (Phil 1:16-17) and what old spelling hides. Darby's "beginningGod"
+  is mended by a per-book rule (ENGLISH_RULES). versification.resolve_english.
+  Coverdale (1535), the Bishops' (1568) and Tyndale (33 books) come from
+  Bible SuperSearch (ENGLISH_BSS: "source": "bss", module_version + sha256
+  pinned, "(Omitted Text)" read as an empty slot) on the same KJV grid, and
+  are compared in folded spelling (OLD_SPELLING). Coverdale's Latin-based
+  Psalter is where the alignment and the house rows do most of the work.
+  BSS names no transcription, and the same text is on a site whose terms
+  restrict reuse: a finding for Adam in docs/pending-sources.md. NOT here:
+  Wycliffe (the one reachable PD copy, BibleNLP's eBible extract, drops
+  verses where the Vulgate's chapters run longer than the Hebrew's).
 - pipeline/build_parallel_index.py → data/parallel/kjv-parallel.tsv (COMMITTED,
   generated): one row per KJV verse (with its uid), naming the verse(s) that
   hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt, the whole
   NT), and each shelf version, in that version's own
+  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt/<Book>/, the
+  whole NT; its shards are gitignored, so pipeline/rebuild_bible.py runs
+  first), and each shelf version, in that version's own
   numbering. Read off the committed maps and the built books' `kjv`; no new
   judgement. A version's verse with no KJV verse is in no row. Its rights
   note is data/parallel/README.md: the hebrew, vulgate, douay and brenton
@@ -535,7 +730,8 @@ The living truth for project state is the Obsidian vault:
   and by scanning for keys far from their neighbours'). Each unit of those
   books carries `kjva` (versification.resolve_dc). Jerome's Tobit and Judith
   are another recension: keyed only where the words agree. R. H. Charles's
-  1913 Apocrypha has a reserved slot (WITNESSES, TSV_COLUMNS): see
+  1913 Apocrypha is the fourth witness, `charles` (fifteen charles-* books read
+  as one; refs are the KJV book name before his own number): see
   docs/pending-sources.md.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
@@ -560,11 +756,14 @@ The living truth for project state is the Obsidian vault:
   other brackets measure (+bracket). The Septuagint is Swete's numbering
   (Isa 9, Jer 32:1-24, Mal 4 differ from Rahlfs', which Brenton's map
   follows). A range's end is read in its start's numbering. Not every editor
+  family's convention, with the English numbering kept as `alt_target`), and
+  an apparatus line number is never read as a verse. Not every editor
   numbers the same way, so pipeline/fathers_numbering.py MEASURES it per
   editor and class of book (Psalms, Jeremiah, the rest) and commits the
   decision with its evidence in data/fathers/numbering.json. Three numberings
   are candidates per family: the Septuagint's (Brenton map) or the Vulgate's,
   the Hebrew's (bhs-kjv.json, a psalm title is v.1: Ps 7:16 there is the
+  the Hebrew's (bhs-kjv.json, a psalm title is v.1: Heikel's Ps 7:16 is the
   KJV's 7:15), and the English. Existence votes
   (only the numberings that have the verse) and, in Greek, content votes (the
   father's Strong's-glossed words against Brenton's English of each
@@ -578,12 +777,46 @@ The living truth for project state is the Obsidian vault:
   first as alt_target (Heikel's Psalms: English, Hebrew undecided). An editor
   with no votes in a class, listed or not, gets the pool's verdict and its
   undecided rivals. In a mixed one, each
+  mixture estimate: a vote two numberings share is split by their shares). It
+  leaves the pool's numbering only on 2+ votes of its own that tell them apart,
+  and a rival its own votes don't rule out stays `undecided`: the link says
+  numbering_undecided, with that reading as alt_target (Heikel's Psalms:
+  Hebrew or English). In a mixed one, each
   note's run of references to one chapter is one quotation, read by one
   content vote where the numberings put it in different chapters (+content). Greek 1 Esdras is the apocryphal book,
   2 Esdras is Ezra-Nehemiah (Brenton's map). Tokens are the text
   (CC BY-SA TEI), so they and the links go to build/fathers/ (gitignored);
   committed: data/fathers/manifest.json (counts by rule, sha256 of every
   input book and every output).
+- pipeline/build_wycliffe.py — the Wycliffite Bible, Forshall & Madden (Oxford
+  1850, PD), read from the Internet Archive's ABBYY hOCR of the Toronto scans
+  (holybiblecontain0{1-4}wycluoft, pinned) → data/books/wycliffe-earlier.json
+  (left column) and wycliffe-later.json (right column), gitignored; manifest
+  entries committed with per-book measures. Ids in the Clementine's numbering
+  (`wycliffe-later:Ps.50.3`), each unit's `kjv` via vulgate-kjv.json; verse
+  numbers decoded from the margin OCR (Viterbi, as Charles), each unit says
+  how its number was got. Unproofread OCR; collation letters stay glued to
+  words. The later version is checked against eBible's nine books (measure
+  only). Status and the other Wycliffe sources: docs/pending-sources.md.
+- pipeline/build_commentaries.py — verse-keyed commentaries, drafts, all
+  printed before 1929: Lightfoot (Galatians, Philippians, Colossians-Philemon
+  from PG #50857), Westcott (Hebrews, the Epistles of John, the Gospel of
+  John in 2 vols, 1908), Hort's Ante-Nicene lectures (by page), John
+  Lightfoot's Horae Hebraicae (Gandell, 1859, 4 vols, Matthew to 1 Cor.) and
+  Ellicott's five volumes on St Paul. Read from the Internet Archive's hOCR,
+  each scan chosen by measuring its text layer (the measures are above
+  CANDIDATES; many scans lost their Greek or read English as Greek) and
+  pinned by sha256; the item's possible-copyright-status and date
+  (`ia_date`, tested < 1929) are re-read on --fetch, which stops if either
+  changed. "c. iii. 13" / "ver. 8" are the commentary's own epistle in note
+  units only, never after another work's abbreviation. A note is cited by the verse it comments on
+  (`ellicott-pastorals:Titus.3.5`, a run `1.6-9`), accepted only where the
+  verse sequence and the running head allow it, and links `comments-on` its
+  KJV verse(s). Everything else is kept by scan leaf (`leaf.N`, or
+  `v2.leaf.N` in a book of several volumes). Books gitignored; manifest
+  entries committed with each book's measures. Unproofread OCR, and every
+  honesty field says so. Westcott's Ephesians (1906) refused: no scan kept
+  its Greek. README "Commentaries".
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
@@ -641,6 +874,67 @@ The living truth for project state is the Obsidian vault:
 - data/lexicons/webster1913.json.gz — Webster 1913 (PD), headword -> short
   senses, for Armarium word lookups. COMMITTED; sha256 and refresh recipe
   in data/lexicons/README.md.
+- The commentaries' second shelf (2026-10-03, pipeline/build_commentaries.py,
+  table SECOND, reader build_book_2b): Alford's Greek Testament vols II-IV,
+  Bengel's Gnomon (T&T Clark English) vols II-IV, Keil & Delitzsch's
+  Pentateuch (3 vols) and Delitzsch's Psalms (3 vols), one book per volume
+  (`alford-commentary-3:Gal.2.20`, `delitzsch-psalms-2:51.5-6`), drafts from
+  IA hOCR, every scan chosen by measuring its text layer (comment above
+  SECOND). Not Lane A's slugs (alford-greek-testament-*, branch
+  claude/armarium-divines); where the scan is Lane A's the manifest says so
+  (scheme.same_scan_as, scan_choice). K&D: the numbering each volume prints
+  is MEASURED per book (existence votes, `decide`) and links go through
+  bhs-kjv.json where it is the Hebrew's (Delitzsch's Psalms: Hebrew; psalm
+  titles stay unresolved with why); their Hebrew is lost in every scan
+  (OCR'd as Latin debris), and the honesty says so. Not shelved, and why:
+  Alford vol. I and Bengel vols I and V (no scan keeps the Greek).
+- The commentaries' third shelf (2026-10-03, pipeline/build_commentaries.py,
+  table MEYER, reader build_scan_meyer, hooked into build_book_2b by
+  SCAN_READERS/READER_TEXTS): H. A. W. Meyer's Critical and Exegetical
+  Handbook in the T&T Clark translation, Matthew (2 vols, 1880/1879), Mark &
+  Luke (2 vols, 1880), Acts (2 vols, 1877), Corinthians (2 vols, 1877/1879:
+  vol. II holds 1 Cor 14-16 and 2 Cor), Galatians (1873), Ephesians-Philemon
+  (1880), Philippians-Colossians (1875), and the volumes Huther and Lünemann
+  wrote for the series (`huther-pastorals`, `lunemann-hebrews`,
+  `huther-james-john`, `huther-peter-jude`, 1881-82; their names as author),
+  and John and Romans in the Funk & Wagnalls 1884 issue
+  of the same translation (every T&T Clark scan of those two lost its Greek).
+  `meyer-mark-luke-1:Mark.4.3`, `meyer-romans:8.28`. Each chapter's heading
+  and critical notes are `<c>.intro`; the American editor's notes (Kendrick,
+  Dwight) are `<c>.american`, kind editor-notes, never mixed into Meyer's.
+  Openers 'Ver. 3.' / 'Vv. 2-6.' at an indented paragraph, and after a dash
+  where measured better (all but Romans: `inline`). Hebrew lost in every
+  scan. Godet (John, Luke, Romans, 1 Cor.) NOT shelved: all 50 scans have
+  0.0% Greek (comment above MEYER). Thessalonians (Lünemann) NOT shelved:
+  its one scan has 0.0% Greek.
+- Keil & Delitzsch, continued (second shelf): not shelved,
+  Ecclesiastes/Song (no pre-1929 scan; BYU's is Eerdmans' 1986 reprint).
+  4c (2026-10-03, table KD4C): the rest of K&D's OT, 12 volumes, Joshua-Ruth
+  to the Minor Prophets, scans chosen by measure (comment above KD4C). Two
+  rules gated to KD4C: monotone_heads (a running head out of order against
+  its neighbours' median is a misread, counted) and reopen (an exposition's
+  'Ver. 20.' after the translation's 'Ver. 25.' rejoins verse 20's unit,
+  measure.notes_reopened). Jer II and Ezek II start at their chapter
+  (first_chapter).
+  An undecided numbering (in-text refs or a volume's own) falls back to
+  work_numbering: the book's own-id votes pooled over every kd volume
+  (measure.numbering_work; a volume whose scan is absent lends the votes
+  its committed manifest entry records, measure.numbering_own, so one
+  volume checks with only its own scan); still undecided, a verse the
+  Hebrew and the KJV read differently is resolved:false with both
+  `candidates`.
+  4d (2026-10-03, table KD4D, reader kdh = build_scan_kdh): Delitzsch's Job
+  (2 vols, Bolton 1866), Proverbs (2 vols, Easton 1874-75), Isaiah (2 vols,
+  4th ed. tr., 1890), which rarely print 'Ver.'. Keyed by the RUNNING HEADS
+  ('CHAP. III. 10-12.'): read with the OCR's confusions undone (kdh_head),
+  decoded as a sequence by shortest path (kdh_decode; a head that does not
+  fit is dropped, measure.running_heads_out_of_order); a leaf with no head is
+  the run between its neighbours' heads (inferred), over 40 verses a leaf.N
+  page unit. Inside a leaf, 'Ver.' openers and numbered translation lines
+  open finer units. Every note says how in `keyed_by` (opener, translation,
+  running-head, inferred, *-to-head). A unit is the verses the PAGE heads
+  name, not the note's own bounds; the honesty says so. Scans chosen by
+  measure with this reader (scheme.scan_choice names the losers).
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

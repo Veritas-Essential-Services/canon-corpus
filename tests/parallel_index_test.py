@@ -30,9 +30,18 @@ uids = json.load(open(os.path.join(ROOT, "data", "uids", "wordhoard.uids.json"),
 kjv = [k[4:] for k in uids if k.startswith("kjv:")]
 C = lambda k, col: rows[k][col]
 
-check("columns: kjv, uid, the Hebrew, the Greek NT, then the eight shelf versions",
+check("columns: kjv, uid, the Hebrew, the Greek NT, then the ten shelf versions",
       head == ["kjv", "uid", "hebrew", "greek_nt", "vulgate", "douay", "brenton", "geneva",
-               "tyndale", "ylt", "darby", "asv"])
+               "tyndale", "ylt", "darby", "asv", "coverdale", "bishops"])
+check("Ps 14:3 is Coverdale's 14:2 (his 14:3-4, the Latin's Rom 3 insertion, are in no row)",
+      C("Ps.14.3", "coverdale") == ["Ps.14.2"]
+      and not any(x in ("Ps.14.3", "Ps.14.4") for r in rows.values() for x in r["coverdale"]))
+check("Ps 87:1-2: the Bishops' swaps them; Coverdale's 87:1 holds both",
+      C("Ps.87.1", "bishops") == ["Ps.87.2"] and C("Ps.87.2", "bishops") == ["Ps.87.1"]
+      and C("Ps.87.1", "coverdale") == ["Ps.87.1"] == C("Ps.87.2", "coverdale"))
+check("Tyndale: Exodus and Jonah have cells, Joshua and Isaiah none",
+      C("Exod.1.1", "tyndale") == ["Exod.1.1"] and C("Jonah.1.1", "tyndale") == ["Jonah.1.1"]
+      and not C("Josh.1.1", "tyndale") and not C("Isa.1.1", "tyndale"))
 check("one row per KJV verse in the registry, 31,102", set(rows) == set(kjv) and len(rows) == 31102)
 check("every row's uid is the registry's for that KJV verse",
       all(r["uid"] == [uids[f"kjv:{k}"]] for k, r in rows.items()))
@@ -55,9 +64,14 @@ check("Phil 1:16 is the Vulgate's, Darby's and the ASV's 1:17 (the Greek's order
       all(C("Phil.1.16", c) == ["Phil.1.17"] for c in ("vulgate", "douay", "darby", "asv")))
 check("Acts 8:37: empty for Darby and the ASV, which leave it out",
       C("Acts.8.37", "darby") == [] == C("Acts.8.37", "asv") and C("Acts.8.37", "ylt") == ["Acts.8.37"])
-check("the Greek NT column covers the whole NT but the four verses the Byzantine text lacks",
-      sum(bool(r["greek_nt"]) for r in rows.values()) == 7953 and C("John.1.1", "greek_nt") == ["John.1.1"]
-      and all(not C(v, "greek_nt") for v in ("Luke.17.36", "Acts.8.37", "Acts.15.34", "Acts.24.7")))
+NT = {"Matt", "Mark", "Luke", "John", "Acts", "Rom", "1Cor", "2Cor", "Gal", "Eph", "Phil", "Col",
+      "1Thess", "2Thess", "1Tim", "2Tim", "Titus", "Phlm", "Heb", "Jas", "1Pet", "2Pet", "1John",
+      "2John", "3John", "Jude", "Rev"}
+check("the Greek NT column holds the whole NT, each on its KJV verse; empty only for the four "
+      "verses the Byzantine text lacks (Luke 17:36, Acts 8:37, 15:34, 24:7)",
+      {k for k, r in rows.items() if k.split(".")[0] in NT and not r["greek_nt"]}
+      == {"Luke.17.36", "Acts.8.37", "Acts.15.34", "Acts.24.7"}
+      and all(r["greek_nt"] == [k] for k, r in rows.items() if r["greek_nt"]))
 check("the Old Testament has no Greek NT cell and the New no Hebrew cell",
       not C("Gen.1.1", "greek_nt") and not C("Matt.1.1", "hebrew") and not C("Matt.1.1", "brenton"))
 
@@ -69,7 +83,7 @@ check("every Hebrew verse the map sends to a KJV verse is in that row",
 check("the Hebrew cell is empty only for the KJV verses the Hebrew map names as having none",
       {k for k in kjv if k.split(".")[0] in V.BOOKS and not C(k, "hebrew")}
       <= set(heb["kjv_without_hebrew_verse"]))
-for slug in ("geneva", "tyndale", "ylt", "darby", "asv"):
+for slug in ("geneva", "tyndale", "ylt", "darby", "asv", "coverdale", "bishops"):
     m = V.load(V.english_path(slug))
     ok = all(v in C(e, slug) for v, es in m["map"].items() for e in ([es] if isinstance(es, str) else es))
     books = {c.split(".")[0] for c in m["chapters"]}
@@ -97,9 +111,10 @@ check("review: the Douay's split of Clementine Ps 15:10 lands one verse in each 
 check("review: KJV Ps 99:1 holds Vulgate and Brenton 98:1 only; Ps 98:1 holds 97:1",
       C("Ps.99.1", "vulgate") == ["Ps.98.1"] and C("Ps.99.1", "brenton") == ["Ps.98.1"]
       and C("Ps.98.1", "vulgate") == ["Ps.97.1"])
-check("review: Tyndale has no words for the KJV's Luke 17:36 or Rev 21:26",
-      C("Luke.17.36", "tyndale") == [] and C("Luke.17.37", "tyndale") == ["Luke.17.36"]
-      and C("Rev.21.26", "tyndale") == [] and C("Rev.21.27", "tyndale") == ["Rev.21.26"])
+check("review: Tyndale has no words for the KJV's Luke 17:36 or Rev 21:26 (Bible SuperSearch "
+      "keeps 17:37 and 21:27 in their own slots)",
+      C("Luke.17.36", "tyndale") == [] and C("Luke.17.37", "tyndale") == ["Luke.17.37"]
+      and C("Rev.21.26", "tyndale") == [] and C("Rev.21.27", "tyndale") == ["Rev.21.27"])
 check("review: Brenton's 35:16 holds the KJV's Gen 35:21; Josh 19:47-48 swapped",
       C("Gen.35.21", "brenton") == ["Gen.35.16"] and C("Josh.19.47", "brenton") == ["Josh.19.48"])
 check("review: Young's Hos 13:9 is the end of the KJV's 13:8; Darby prints no 1 John 5:7",
@@ -121,8 +136,11 @@ readme = open(os.path.join(ROOT, "data", "parallel", "README.md"), encoding="utf
 check("the rights note travels with the index: TVTMS named, CC BY 4.0, attributed",
       "CC BY 4.0" in readme and "TVTMS" in readme and "www.STEPBible.org" in readme
       and "redistribute_whole: false" in readme)
-check("the rights note says an empty greek_nt cell is a verse the Byzantine text lacks",
-      "Acts 8:37" in readme)
+check("the rights note says the greek_nt column is the whole NT, empty only where the "
+      "Byzantine text lacks the verse", "whole New Testament" in readme
+      and "Luke 17:36, Acts 8:37, 15:34, 24:7" in readme)
+check("the rights note names every house-read English column",
+      all(c in readme for c in ("geneva", "tyndale", "ylt", "darby", "asv", "coverdale", "bishops")))
 
 print(f"\n{passed} passed, {fails} failed")
 sys.exit(1 if fails else 0)

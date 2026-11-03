@@ -2185,6 +2185,744 @@ def convert_tei_drama(path, slug, abbrev):
         book["dramatis_personae"] = personae
     return book
 
+
+# CATENAE: J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum
+# (Oxford, 1838-44), from First1KGreek. A catena strings the fathers'
+# comments (Chrysostom, Origen, Cyril...) on each verse, lemma then
+# comments. The files divide only by the ancient KEPHALAIA, never by
+# modern chapter. Cramer printed the VERSE number beside each lemma -- as a
+# margin note in Matthew, as a bare <lb n="12"/> between paragraphs in the
+# epistles, where it is mixed with his page-line numbers (5, 10, 15...).
+# The chapter is printed nowhere. So which marks are verses, and in which
+# chapter, was MEASURED: pipeline/place_catena.py matches each candidate
+# mark's lemma against the Robinson-Pierpont Greek NT (2018, PD; pinned)
+# under the rule that chapters only advance, and COMMITS its decisions as
+# data/catenae/<slug>.json. This converter only reads them: every placed
+# mark names the kephalaion and printed number it expects, so a changed
+# source fails loudly instead of misplacing comments.
+# A unit is one placed mark: the lemma and the comments after it up to the
+# next placed mark, id = chapter.verse (a lemma that runs on over a second
+# mark is a range, 7.1-2). A kephalaion with no placed mark is one
+# unlinked unit (k41).
+CATENA = {
+    # slug: (abbrev, OSIS book, Robinson-Pierpont file stem)
+    "catena-matthew-cramer-grc": ("Cat. Matt.", "Matt", "MAT"),
+    "catena-mark-cramer-grc": ("Cat. Mk.", "Mark", "MAR"),
+    "catena-luke-cramer-grc": ("Cat. Lk.", "Luke", "LUK"),
+    "catena-john-cramer-grc": ("Cat. Jn.", "John", "JOH"),
+    "catena-acts-cramer-grc": ("Cat. Act.", "Acts", "ACT"),
+    "catena-romans-cramer-grc": ("Cat. Rom.", "Rom", "ROM"),
+    "catena-1corinthians-cramer-grc": ("Cat. 1 Cor.", "1Cor", "1CO"),
+    "catena-2corinthians-cramer-grc": ("Cat. 2 Cor.", "2Cor", "2CO"),
+    "catena-galatians-cramer-grc": ("Cat. Gal.", "Gal", "GAL"),
+    "catena-ephesians-cramer-grc": ("Cat. Eph.", "Eph", "EPH"),
+    "catena-philippians-cramer-grc": ("Cat. Phil.", "Phil", "PHP"),
+    "catena-colossians-cramer-grc": ("Cat. Col.", "Col", "COL"),
+    "catena-1thessalonians-cramer-grc": ("Cat. 1 Thess.", "1Thess", "1TH"),
+    "catena-2thessalonians-cramer-grc": ("Cat. 2 Thess.", "2Thess", "2TH"),
+    "catena-1timothy-cramer-grc": ("Cat. 1 Tim.", "1Tim", "1TI"),
+    "catena-2timothy-cramer-grc": ("Cat. 2 Tim.", "2Tim", "2TI"),
+    "catena-titus-cramer-grc": ("Cat. Tit.", "Titus", "TIT"),
+    "catena-philemon-cramer-grc": ("Cat. Philem.", "Phlm", "PHM"),
+    "catena-hebrews-cramer-grc": ("Cat. Heb.", "Heb", "HEB"),
+    "catena-james-cramer-grc": ("Cat. Jas.", "Jas", "JAM"),
+    "catena-1peter-cramer-grc": ("Cat. 1 Pet.", "1Pet", "1PE"),
+    "catena-2peter-cramer-grc": ("Cat. 2 Pet.", "2Pet", "2PE"),
+    "catena-1john-cramer-grc": ("Cat. 1 Jn.", "1John", "1JO"),
+    "catena-2john-cramer-grc": ("Cat. 2 Jn.", "2John", "2JO"),
+    "catena-3john-cramer-grc": ("Cat. 3 Jn.", "3John", "3JO"),
+}
+CATENA_DIR = os.path.join(HERE, "..", "data", "catenae")
+# Kephalaia that are apparatus, not commentary: Cramer's table of contents,
+# his index of authors, addenda, and the "Supplementum" of variant readings
+# by page and line (2 Cor, Hebrews), whose numbers are LINE numbers. Their
+# numbers are never verse candidates; their text stays, one unit each.
+CATENA_APPARATUS = re.compile(r"^(toc|authors|index|addenda|sup\w*)$")
+
+
+def catena_marks(body):
+    """The catena as a flat walk: one item per child of each kephalaion,
+    with the CANDIDATE verse marks in document order (ordinal). A candidate
+    is a margin note or a bare <lb n> between paragraphs with a number, or
+    a margin note inside a paragraph that is not the lemma just marked (a
+    mark inside the lemma itself only extends it: `also`)."""
+    T = TEI_NS
+    items, ordinal = [], -1
+    for k in body.iter(T + "div"):
+        if k.get("subtype") != "chapter":
+            continue
+        kn = k.get("n")
+        just_marked = False
+        apparatus = bool(CATENA_APPARATUS.match(kn or ""))
+        for c in k:
+            n = None
+            if c.tag == T + "note" and c.get("type") == "marginal":
+                n, src = clean("".join(c.itertext())), "margin"
+            elif c.tag == T + "lb":
+                n, src = c.get("n") or "", "lb"
+            if n is not None:
+                if n.isdigit() and not apparatus:
+                    ordinal += 1
+                    items.append({"k": kn, "kind": "mark", "n": n, "ord": ordinal, "src": src})
+                    just_marked = True
+                continue
+            inner = [clean("".join(x.itertext())) for x in c.iter(T + "note")
+                     if x.get("type") == "marginal"]
+            inner = [x for x in inner if x.isdigit() and not apparatus]
+            if c.tag == T + "p" and inner and not just_marked:
+                ordinal += 1
+                items.append({"k": kn, "kind": "mark", "n": inner[0], "ord": ordinal,
+                              "src": "margin"})
+                inner = inner[1:]
+            items.append({"k": kn, "kind": "head" if c.tag == T + "head" else "el",
+                          "el": c, "also": inner})
+            if c.tag == T + "p":
+                just_marked = False
+    return items
+
+
+def catena_lemma(items, i):
+    """The lemma a mark at items[i] stands beside: the next paragraph."""
+    for it in items[i + 1:]:
+        if it["kind"] == "mark":
+            return ""
+        if it["kind"] == "el" and it["el"].tag == TEI_NS + "p":
+            return clean("".join(it["el"].itertext()))
+    return ""
+
+
+def catena_sid(base, seen):
+    """A second section on the same verse (or kephalaion) is that id + b, a
+    third + c, in the order Cramer prints them: 9.20, 9.20b. Deliberate, so
+    main()'s order-dependent ~N dedupe never has to step in."""
+    seen[base] = seen.get(base, 0) + 1
+    k = seen[base]
+    return base if k == 1 else base + "abcdefghijklmnopqrstuvwxyz"[k - 1]
+
+
+def convert_catena(path, slug):
+    T = TEI_NS
+    abbrev, osis, _stem = CATENA[slug]
+    root = tei_load(path)
+    title, _a, _t = tei_meta(root)
+    body = root.find(f".//{T}body")
+    placed_doc = json.load(open(os.path.join(CATENA_DIR, slug + ".json"), encoding="utf-8"))
+    placed = {p["ord"]: p for p in placed_doc["placed"]}
+    items = catena_marks(body)
+    units, seen = [], {}
+    nnotes = 0
+
+    def is_margin(e):
+        return e.tag == T + "note" and e.get("type") == "marginal"
+
+    def flush(sec):
+        nonlocal nnotes
+        if sec is None or not (sec["els"] or sec["head"]):
+            return
+        texts, notes = [], []
+        for el in sec["els"]:
+            el = copy.deepcopy(el)
+            for par in list(el.iter()):
+                for c in list(par):
+                    if is_margin(c):
+                        # Drop the mark, keep the text after it in place.
+                        kids = list(par)
+                        j = kids.index(c)
+                        if j:
+                            kids[j - 1].tail = (kids[j - 1].tail or "") + (c.tail or "")
+                        else:
+                            par.text = (par.text or "") + (c.tail or "")
+                        par.remove(c)
+            t, _st, n2, _sic = tei_split(el)
+            if t:
+                texts.append(t)
+            notes.extend(n2)
+        app = {}
+        if sec["head"]:
+            app["head"] = sec["head"]
+        if notes:
+            app["notes"] = notes; nnotes += len(notes)
+        text = " ".join(texts)
+        lat = sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+        if lat:
+            app["latin_letters"] = lat
+        if "p" in sec:
+            pl = sec["p"]
+            ch, v = pl["chapter"], pl["verse"]
+            also = [int(a) for a in sec["also"] if int(a) > v]
+            last = max(also) if also else None
+            base = f"{ch}.{v}" + (f"-{last}" if last else "")
+            sid = catena_sid(base, seen)
+            match = "checked" if pl["score"] >= 0.3 else "weak"
+            links = [{"kind": "scripture", "target": f"kjv:{osis}.{ch}.{x}", "match": match}
+                     for x in range(v, (last or v) + 1)]
+            ms = {"kephalaion": pl["k"], "margin": pl["n"]}
+            ref = f"{ch}:{v}" + (f"-{last}" if last else "")
+        else:
+            sid, links, ms, ref = (catena_sid(f"k{sec['k']}", seen), [], {"kephalaion": sec["k"]},
+                                   f"κεφ. {sec['k']}")
+        u = {"id": f"{slug}:{sid}", "ref": f"{abbrev} {ref}", "text": text,
+             "links": links, "milestones": ms}
+        if app:
+            u["apparatus"] = app
+        units.append(u)
+
+    sec, cur_k = None, None
+    for it in items:
+        if it["k"] != cur_k:
+            # A new kephalaion: what came before stays with its own section;
+            # the new one opens unlinked until its first placed mark.
+            flush(sec)
+            cur_k = it["k"]
+            sec = {"k": cur_k, "els": [], "head": [], "also": []}
+        if it["kind"] == "mark":
+            pl = placed.get(it["ord"])
+            if pl is None:
+                continue                        # a page-line number, or unplaceable
+            if (pl["k"], pl["n"]) != (it["k"], it["n"]):
+                raise ValueError(f"{slug}: candidate {it['ord']} is k{it['k']} n{it['n']}, "
+                                 f"{CATENA_DIR}/{slug}.json expects k{pl['k']} n{pl['n']}")
+            if "p" in sec:
+                flush(sec)
+                sec = {"k": cur_k, "els": [], "head": [], "also": []}
+            elif len(sec["els"]) <= 1:
+                # The kephalaion's title paragraph: a heading of the first unit.
+                sec["head"] += [t for t in (clean("".join(e.itertext())) for e in sec["els"]) if t]
+                sec["els"] = []
+            else:
+                # More than a title before the first placed mark: its own
+                # unlinked unit, k<n>.
+                flush(sec)
+                sec = {"k": cur_k, "els": [], "head": [], "also": []}
+            sec["p"] = pl
+            continue
+        if it["kind"] == "head":
+            sec["head"].append(clean("".join(it["el"].itertext())))
+            continue
+        sec["els"].append(it["el"])
+        if "p" in sec and len([e for e in sec["els"] if e.tag == T + "p"]) == 1:
+            sec["also"] += it["also"]           # a mark inside the lemma: a range
+    flush(sec)
+    linked = sum(1 for u in units if u["links"])
+    weak = sum(1 for u in units if u["links"] and u["links"][0]["match"] == "weak")
+    return {"slug": slug, "title": title, "author": "Catena (Cramer)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": "", "sha256": sha256(path),
+                       "edition": tei_edition(root), "language": "grc"},
+            "scheme": {"citation": f"{abbrev} chapter.verse (placed sections); k<kephalaion> (the rest)",
+                       "resolution": "verse (placed sections); kephalaion (the rest)",
+                       "honesty": placed_doc["honesty"],
+                       "note": f"First1KGreek TEI of Cramer's catena. One unit per verse mark "
+                               f"placed by pipeline/place_catena.py (lemma and the comments "
+                               f"after it); {linked} unit(s) link to the KJV verse(s) they "
+                               f"comment on ({weak} weak: the lemma shares under 30% of its "
+                               f"words with the verse). Where Cramer prints two sections "
+                               f"on one verse, the second is that id + b (9.20b), a third + c. "
+                               f"{nnotes} footnote(s) in "
+                               f"apparatus.notes; kephalaion headings and titles in "
+                               f"apparatus.head. Units with Latin-letter words (OCR residue) "
+                               f"carry apparatus.latin_letters."},
+            "rights": perseus_rights(root, path),
+            "units": units}
+
+
+# Two catenae First1KGreek already divides BY VERSE, each verse div naming
+# its passage as a CTS urn (corresp="...tlg0031.tlg006:7.9-7.12"): nothing
+# to measure, the encoder's reading is read. The Munich-type Romans
+# (Rom 7-16) also divides each verse into its lemma and one div per father
+# (corresp="#Chrysostom"): each comment is its own unit, 7.9-12.c1, with
+# the father named, so a citation of "Chrysostom on Rom 7:9 in the catena"
+# has an address. Jude: one unit per verse div.
+CATENA_VERSES = {
+    # slug: (abbrev, OSIS book)
+    "catena-romans-monacensis-cramer-grc": ("Cat. Rom. Monac.", "Rom"),
+    "catena-jude-cramer-grc": ("Cat. Jud.", "Jude"),
+}
+RE_CTS_PASSAGE = re.compile(r":(\d+)\.(\d+)(?:-(?:(\d+)\.)?(\d+))?$")  # 7.9-7.12, 15.28-29
+# Where the encoder's passage is not the KJV's verse. The Byzantine text
+# (and so Cramer's catena) prints the doxology "To him that is of power"
+# after Rom 14:23, as 14:24-26; the KJV prints it as 16:25-27. The unit id
+# keeps the encoder's citation; the link goes to the KJV's verse.
+CATENA_KJV_MOVED = {("Rom", 14, 24): (16, 25), ("Rom", 14, 25): (16, 26), ("Rom", 14, 26): (16, 27)}
+# The rubric "Τοῦ Αὐτοῦ" (of the same) is encoded as "Same": the father is
+# the one before it in the same verse.
+CATENA_BY_SAME = "Same"
+CATENA_FATHERS = {"Chrysostom", "Theodoret", "Cyril", "Gennadius", "Monachus", "Photius",
+                  "Severianus", "Oecumenius", "Isidore", "Basil", "Theodore", "Origen", "Maximus",
+                  "Nyssa", "Diodorus", "Chrysologus", "Methodius", "Clement", "Agathius",
+                  "Euthalius", "Caesarius", "Patara", "Didymus"}
+
+
+def kjv_unit_ids():
+    with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+        return {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+
+
+def convert_catena_verses(path, slug):
+    T = TEI_NS
+    abbrev, osis = CATENA_VERSES[slug]
+    root = tei_load(path)
+    title, _a, _t = tei_meta(root)
+    body = root.find(f".//{T}body")
+    units, seen, pending_head = [], {}, []
+    nnotes = nby = nsame = nmoved = 0
+    odd_by = collections.Counter()
+    kjv = kjv_unit_ids()
+
+    def target(ch, v):
+        nonlocal nmoved
+        c2, v2 = CATENA_KJV_MOVED.get((osis, ch, v), (ch, v))
+        nmoved += (c2, v2) != (ch, v)
+        t = f"kjv:{osis}.{c2}.{v2}"
+        if t not in kjv:
+            raise ValueError(f"{slug}: the encoder's {ch}:{v} is no KJV verse ({t}); "
+                             f"add it to CATENA_KJV_MOVED")
+        return t
+
+    def passage(cr):
+        m = RE_CTS_PASSAGE.search(cr or "")
+        if not m:
+            raise ValueError(f"{slug}: verse div without a passage urn: {cr!r}")
+        c1, v1 = int(m.group(1)), int(m.group(2))
+        c2 = int(m.group(3)) if m.group(3) else c1
+        v2 = int(m.group(4)) if m.group(4) else v1
+        if c2 != c1:
+            raise ValueError(f"{slug}: a passage across chapters: {cr!r}")
+        return c1, v1, v2
+
+    def add(sid, ref, e, links, ms, by=None):
+        nonlocal nnotes
+        text, _stage, notes, _sic = tei_split(e)
+        seen[sid] = seen.get(sid, 0) + 1
+        if seen[sid] > 1:
+            sid = f"{sid}~{seen[sid]}"
+        u = {"id": f"{slug}:{sid}", "ref": f"{abbrev} {ref}", "text": text,
+             "links": links, "milestones": ms}
+        app = {}
+        if pending_head:
+            app["head"] = list(pending_head); pending_head.clear()
+        if notes:
+            app["notes"] = notes; nnotes += len(notes)
+        lat = sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+        if lat:
+            app["latin_letters"] = lat
+        if by:
+            u["by"] = by
+        if app:
+            u["apparatus"] = app
+        units.append(u)
+
+    for k in body.iter(T + "div"):
+        if k.get("subtype") != "chapter":
+            continue
+        for c in k:
+            if c.tag in (T + "head", T + "p"):
+                # A kephalaion's heading or title paragraph: on the next unit.
+                t = clean("".join(c.itertext()))
+                if t:
+                    pending_head.append(t)
+                continue
+            if not (c.tag == T + "div" and c.get("subtype") == "verse"):
+                continue
+            parts = [x for x in c if x.tag == T + "div"]
+            lemma = [x for x in parts if x.get("n") == "verse"]
+            ch, v1, v2 = passage(c.get("corresp") or (lemma[0].get("corresp") if lemma else ""))
+            base = f"{ch}.{v1}" + (f"-{v2}" if v2 != v1 else "")
+            ref = f"{ch}:{v1}" + (f"-{v2}" if v2 != v1 else "")
+            links = [{"kind": "scripture", "target": target(ch, x), "match": "encoded"}
+                     for x in range(v1, v2 + 1)]
+            ms = {"kephalaion": k.get("n")}
+            if not parts:
+                add(base, ref, c, links, ms)
+                continue
+            prev_by = None
+            for x in parts:
+                if x.get("n") == "verse":
+                    add(base, ref, x, links, ms)
+                else:
+                    by = (x.get("corresp") or "").lstrip("#") or None
+                    if by == CATENA_BY_SAME and prev_by:
+                        by = prev_by; nsame += 1
+                    elif by and by not in CATENA_FATHERS:
+                        odd_by[by] += 1
+                    prev_by = by or prev_by
+                    nby += bool(by) and by in CATENA_FATHERS
+                    add(f"{base}.c{x.get('n')}", f"{ref}, {by or 'comment ' + x.get('n')}",
+                        x, links, ms, by)
+    if pending_head and units:
+        units[-1].setdefault("apparatus", {}).setdefault("head", []).extend(pending_head)
+    linked = sum(1 for u in units if u["links"])
+    return {"slug": slug, "title": title, "author": "Catena (Cramer)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": "", "sha256": sha256(path),
+                       "edition": tei_edition(root), "language": "grc"},
+            "scheme": {"citation": f"{abbrev} chapter.verse[-verse]" + (".c<comment>" if nby else ""),
+                       "resolution": "verse" + (" (lemma); comment (each father's)" if nby else ""),
+                       "honesty": ("Each unit's verse(s) are the passage the First1KGreek encoder "
+                                   "names on its verse div (a CTS urn), read, not measured, and "
+                                   "not checked here against the Greek NT. "
+                                   + (f"{nby} comment(s) carry the father the file names (by); "
+                                      "the name is the encoder's reading of Cramer's rubric"
+                                      + (f" ({nsame} \"of the same\" rubric(s) given the father "
+                                         "before them)" if nsame else "")
+                                      + (". Kept as encoded but not a father's name: "
+                                         + ", ".join(f"{k} ({v})" for k, v in sorted(odd_by.items()))
+                                         if odd_by else "") + ". "
+                                      if nby else "")
+                                   + (f"{nmoved} verse(s) link to the KJV's numbering of a verse "
+                                      "the encoder numbers otherwise (the Byzantine Romans "
+                                      "doxology, 14:24-26, is the KJV's 16:25-27). "
+                                      if nmoved else "")
+                                   + "The text is unproofread OCR; Latin-letter words are counted "
+                                     "per unit as apparatus.latin_letters."),
+                       "note": f"First1KGreek TEI of Cramer's catena, divided by verse in the "
+                               f"file. {linked} unit(s) link to the KJV verse(s) they comment "
+                               f"on (match: encoded). {nnotes} footnote(s) in apparatus.notes; "
+                               f"kephalaion headings and titles in apparatus.head."},
+            "rights": perseus_rights(root, path),
+            "units": units}
+
+# Perseus LETTERS: Cicero's correspondence in Shuckburgh's translation
+# (1899-1900). Shuckburgh printed the letters in ONE chronological series,
+# numbered I-CMXXXI; Perseus split that series into four files by
+# collection and labels each letter with its canonical citation,
+# n="text=A:book=4:letter=1". The unit id is that citation (Att. 4.1), the
+# spine every other book uses. Three things the files do that the ids must
+# not hide:
+#   - a letter Shuckburgh split in two carries its section range
+#     (Att. 12.5.1-2 and 12.5.4): the range is part of the id;
+#   - six citations are printed twice under different Shuckburgh numbers
+#     (his own heads repeat them, e.g. LXXXIX and CXXIII both "A IV, 1"):
+#     each of those gets its Shuckburgh number in the id, "4.1~s89",
+#     because which is right cannot be settled from the translation alone;
+#   - the Quintus file holds its 27 letters twice (an artifact of splitting
+#     "Q FR" in two), and the Friends file holds them a third time. Each is
+#     kept once, in the Quintus book; the copies are counted, not built.
+# Shuckburgh's number rides on every unit as edition.shuckburgh.
+TEI_LETTERS = {
+    "cicero-letters-atticus-shuckburgh": ("Cic. Att.", "A"),
+    "cicero-letters-friends-shuckburgh": ("Cic. Fam.", "F"),
+    "cicero-letters-quintus-shuckburgh": ("Cic. Q. fr.", "Q FR"),
+    "cicero-letters-brutus-shuckburgh": ("Cic. ad Brut.", "BRUT."),
+}
+RE_LETTER_N = re.compile(r"text=([^:]+):book=(\d+):letter=(\d+[a-z]?)(?:\.(\d+(?:-\d+)?))?$")
+LETTER_HEAD = ("epigraph", "head", "argument")
+
+
+def convert_tei_letters(path, slug, abbrev, text_code):
+    T = TEI_NS
+    root = tei_load(path)
+    title, author, transl = tei_meta(root)
+    body = root.find(f".//{T}body")
+    nbeta = tei_beta(body)
+    letters = [d for d in body.iter(T + "div") if d.get("type") == "letter"]
+    snum = lambda d: (d.get("{http://www.w3.org/XML/1998/namespace}id")
+                      or d.get("id") or "")
+    parsed = []
+    for d in letters:
+        m = RE_LETTER_N.match(d.get("n") or "")
+        parsed.append((d, m))
+    seen, other, copies, kept = set(), 0, 0, []
+    for d, m in parsed:
+        if not m or m.group(1) != text_code:
+            other += 1                          # another collection's letter
+            continue
+        key = (d.get("n"), snum(d), " ".join("".join(d.itertext()).split()))
+        if key in seen:
+            copies += 1                         # the same letter, again
+            continue
+        seen.add(key)
+        kept.append((d, m))
+    base = lambda m: f"{m.group(2)}.{m.group(3)}" + (f".{m.group(4)}" if m.group(4) else "")
+    # A "letter" with no Shuckburgh number is his essay on one (Att. 2.24,
+    # "L. VETTIUS (LETTER L, A II, 24)"): it rides on that letter as
+    # apparatus.appendix, not as a second Att. 2.24.
+    appendix = {}
+    for d, m in [x for x in kept if not snum(x[0])]:
+        if any(base(m) == base(m2) and snum(d2) for d2, m2 in kept):
+            appendix.setdefault(base(m), []).append(tei_split(d))
+            kept.remove((d, m))
+    count = {}
+    for d, m in kept:
+        count[base(m)] = count.get(base(m), 0) + 1
+    units, nnotes, dup = [], 0, 0
+    for d, m in kept:
+        ref = base(m)
+        s_no = snum(d)
+        if count[ref] > 1:
+            dup += 1
+            ref = f"{ref}~{s_no or 'note'}"
+        head, notes, sics, links, seen_pl = [], [], [], [], set()
+        parts = []
+        for c in d:
+            local = c.tag.split("}")[-1]
+            t, _s, n2, c2 = tei_split(c)
+            notes.extend(n2); sics.extend(c2)
+            if local in LETTER_HEAD:
+                if t: head.append(t)
+            elif t:
+                parts.append(t)
+            if c.tail and c.tail.strip():
+                parts.append(tei_clean(c.tail))
+        if d.text and d.text.strip():
+            parts.insert(0, tei_clean(d.text))
+        for pl in d.iter(T + "placeName"):
+            mm = RE_TGN.search(pl.get("key") or "")
+            if mm and mm.group(1) not in seen_pl:
+                seen_pl.add(mm.group(1))
+                links.append({"kind": "place", "target": f"tgn:{mm.group(1)}",
+                              "name": clean("".join(pl.itertext()))})
+        text = " ".join(parts)
+        if not text:
+            continue
+        u = {"id": f"{slug}:{ref}", "ref": f"{abbrev} {ref}", "text": text, "links": links}
+        if s_no.startswith("s") and s_no[1:].isdigit():
+            u["edition"] = {"shuckburgh": int(s_no[1:])}
+        app = {}
+        if head: app["head"] = head
+        notes = [n for n in notes if n.get("text")]
+        if notes: app["notes"] = notes; nnotes += len(notes)
+        if sics: app["sic"] = sics
+        if d.find(f".//{T}gap") is not None: app["gap"] = True
+        for t, _s, n2, _c in appendix.pop(base(m), []):
+            app.setdefault("appendix", []).append(t)
+            if n2: app.setdefault("notes", []).extend(n2); nnotes += len(n2)
+        if app: u["apparatus"] = app
+        units.append(u)
+    rights = perseus_rights(root)
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": transl, "sha256": sha256(path)},
+            "scheme": {"citation": f"{abbrev} book.letter",
+                       "resolution": "letter",
+                       "honesty": ("one unit per letter, at the canonical book.letter "
+                                   "citation Perseus labels it with; where Shuckburgh split "
+                                   "a letter, the section range is in the id (12.5.1-2); "
+                                   f"{dup} unit(s) whose citation Shuckburgh prints twice "
+                                   "carry his number as well (4.1~s89) -- which of the two "
+                                   "is right is not settled here. Sections within a letter "
+                                   "are not marked in this edition."),
+                       "note": (f"Shuckburgh's chronological series, numbered on each unit "
+                                f"(edition.shuckburgh). His introductions and heads kept "
+                                f"as apparatus.head; {nnotes} footnote(s) under "
+                                f"apparatus.notes. {other} letter(s) of other collections "
+                                f"in this file left to their own book; {copies} exact "
+                                f"duplicate(s) of a letter in this file not built twice."
+                                + (f" {nbeta} Greek phrase(s) the file writes in beta code "
+                                   f"converted to Unicode by the standard table." if nbeta else ""))},
+            "rights": rights,
+            "units": units}
+
+
+# Perseus drama: Greek plays in prose translation, marked up as <sp> speeches
+# whose <l n="..."> segments are anchored to the GREEK line numbers -- the
+# citation every commentary uses (Ant. 450). One unit per segment, so a
+# citation resolves to the segment containing it.
+TEI_DRAMA = {
+    "sophocles-trachiniae-jebb": "Soph. Trach.",
+    "sophocles-antigone-jebb": "Soph. Ant.",
+    "sophocles-ajax-jebb": "Soph. Aj.",
+    "sophocles-oedipus-tyrannus-jebb": "Soph. OT",
+    "sophocles-electra-jebb": "Soph. El.",
+    "sophocles-philoctetes-jebb": "Soph. Phil.",
+    "sophocles-oedipus-colonus-jebb": "Soph. OC",
+    "aeschylus-supplices-smyth": "Aesch. Supp.",
+    "aeschylus-persians-smyth": "Aesch. Pers.",
+    "aeschylus-prometheus-smyth": "Aesch. PV",
+    "aeschylus-seven-smyth": "Aesch. Sept.",
+    "aeschylus-agamemnon-smyth": "Aesch. Ag.",
+    "aeschylus-libation-bearers-smyth": "Aesch. Cho.",
+    "aeschylus-eumenides-smyth": "Aesch. Eum.",
+    "euripides-cyclops-coleridge": "Eur. Cyc.",
+    "euripides-alcestis-coleridge": "Eur. Alc.",
+    "euripides-medea-coleridge": "Eur. Med.",
+    "euripides-heracleidae-coleridge": "Eur. Heracl.",
+    "euripides-hippolytus-coleridge": "Eur. Hipp.",
+    "euripides-andromache-coleridge": "Eur. Andr.",
+    "euripides-hecuba-coleridge": "Eur. Hec.",
+    "euripides-suppliants-coleridge": "Eur. Supp.",
+    "euripides-heracles-coleridge": "Eur. HF",
+    "euripides-ion-coleridge": "Eur. Ion",
+    "euripides-trojan-women-coleridge": "Eur. Tro.",
+    "euripides-electra-coleridge": "Eur. El.",
+    "euripides-iphigenia-tauris-coleridge": "Eur. IT",
+    "euripides-helen-coleridge": "Eur. Hel.",
+    "euripides-phoenissae-coleridge": "Eur. Phoen.",
+    "euripides-orestes-coleridge": "Eur. Or.",
+    "euripides-bacchae-buckley": "Eur. Ba.",
+    "euripides-iphigenia-aulis-coleridge": "Eur. IA",
+    "euripides-rhesus-coleridge": "Eur. Rh.",
+    "aristophanes-clouds-hickie": "Ar. Nub.",
+    "plautus-amphitryon-riley": "Pl. Am.",
+    "plautus-asinaria-riley": "Pl. As.",
+    "plautus-aulularia-riley": "Pl. Aul.",
+    "plautus-bacchides-riley": "Pl. Bac.",
+    "plautus-captivi-riley": "Pl. Capt.",
+    "plautus-casina-riley": "Pl. Cas.",
+    "plautus-cistellaria-riley": "Pl. Cist.",
+    "plautus-curculio-riley": "Pl. Curc.",
+    "plautus-epidicus-riley": "Pl. Epid.",
+    "plautus-menaechmi-riley": "Pl. Men.",
+    "plautus-mercator-riley": "Pl. Merc.",
+    "plautus-miles-gloriosus-riley": "Pl. Mil.",
+    "plautus-mostellaria-riley": "Pl. Mos.",
+    "plautus-persa-riley": "Pl. Per.",
+    "plautus-poenulus-riley": "Pl. Poen.",
+    "plautus-pseudolus-riley": "Pl. Ps.",
+    "plautus-rudens-riley": "Pl. Rud.",
+    "plautus-stichus-riley": "Pl. St.",
+    "plautus-trinummus-riley": "Pl. Trin.",
+    "plautus-truculentus-riley": "Pl. Truc.",
+    "terence-andria-riley": "Ter. An.",
+    "terence-heautontimorumenos-riley": "Ter. Haut.",
+    "terence-eunuchus-riley": "Ter. Eun.",
+    "terence-phormio-riley": "Ter. Ph.",
+    "terence-hecyra-riley": "Ter. Hec.",
+    "terence-adelphi-riley": "Ter. Ad.",
+}
+# Per-book line-number fixes (rule 2: never hand-edit a source; fix here so it
+# reruns on refetch). Each is a typo in the Perseus file, shown by context.
+TEI_DRAMA_N_FIX = {
+    # Antigone's half-line completing Oedipus' 1099 ("Where? Where?" /
+    # "Father, father,"), between 1099 and 1100: the file says 1009a.
+    ("sophocles-oedipus-colonus-jebb", "1009a"): "1099a",
+    # Between 405 and 410, a line number with a stray digit.
+    ("aeschylus-supplices-smyth", "4097"): "407",
+    # Between 1187 and 1189, and between 562 and 564: digits dropped / doubled.
+    ("euripides-iphigenia-tauris-coleridge", "188"): "1188",
+    ("euripides-helen-coleridge", "5563"): "563",
+}
+
+
+def convert_tei_drama(path, slug, abbrev):
+    T = "{http://www.tei-c.org/ns/1.0}"
+    root = tei_load(path)
+    title, author, transl = tei_meta(root)
+    body = root.find(f".//{T}body")
+    units, pending_stage, pending_notes, pending_sic, fixes, gaps = [], [], [], [], 0, 0
+    section, speaker, personae = "", "", []
+    # Roman comedy is divided into acts and scenes (Pl. Am. act 1, scene 2),
+    # and heads them ("THE PROLOGUE."): both ride on the next unit. The
+    # Greek plays have neither, so nothing changes for them.
+    where, pending_head = {}, []
+
+    note_of, seg_text = tei_note, tei_split
+
+    def visit(e):
+        nonlocal section, speaker, fixes, gaps
+        tag = e.tag
+        if tag == T + "div" and e.get("type") == "textpart":
+            section = e.get("subtype") or section
+            if section in ("act", "scene"):
+                where[section] = e.get("n") or ""
+                if section == "act":
+                    where.pop("scene", None)
+        elif tag == T + "head":
+            t, s2, n2, c2 = seg_text(e)
+            if t: pending_head.append(t)
+            pending_notes.extend(n2)
+            return
+        elif tag == T + "speaker":
+            speaker = clean("".join(e.itertext()))
+            return
+        elif tag == T + "stage":
+            t, s2, n2, c2 = seg_text(e)
+            pending_stage.extend(x for x in [t] + s2 if x)
+            pending_notes.extend(n2)
+            pending_sic.extend(c2)
+            return
+        elif tag == T + "note":
+            ps = [clean(" ".join(p.itertext())) for p in e.iter(T + "p")]
+            if ps and ps[0].lower() == "dramatis personae":
+                personae.extend(x for x in ps[1:] if x)     # the cast list, kept whole
+            else:
+                n = note_of(e)
+                if n.get("text"):
+                    pending_notes.append(n)
+            return
+        elif tag == T + "l":
+            n = e.get("n") or ""
+            if (slug, n) in TEI_DRAMA_N_FIX:
+                n = TEI_DRAMA_N_FIX[(slug, n)]
+                fixes += 1
+            text, inner, inotes, isic = seg_text(e)
+            gap = e.find(f".//{T}gap") is not None
+            gaps += gap
+            drama = {"speaker": speaker, "section": section}
+            drama.update(where)
+            if pending_head:
+                drama["head"] = list(pending_head)
+                pending_head.clear()
+            if pending_stage or inner:
+                drama["stage"] = pending_stage + inner
+            if pending_notes or inotes:
+                drama["notes"] = pending_notes + inotes
+            if pending_sic or isic:
+                drama["sic"] = pending_sic + isic
+            if gap:
+                drama["gap"] = True
+            pending_stage.clear()
+            pending_notes.clear()
+            pending_sic.clear()
+            if text:
+                units.append({"id": f"{slug}:{n}", "ref": f"{abbrev} {n}",
+                              "text": text, "links": [], "drama": drama})
+            elif units:
+                for k in ("stage", "notes", "sic", "head"):
+                    if drama.get(k):
+                        units[-1]["drama"].setdefault(k, []).extend(drama[k])
+            else:
+                pending_head.extend(drama.get("head", []))
+                pending_stage.extend(drama.get("stage", []))
+                pending_notes.extend(drama.get("notes", []))
+                pending_sic.extend(drama.get("sic", []))
+            return
+        elif tag == T + "sp":
+            speaker = ""
+        for c in e:
+            visit(c)
+
+    visit(body)
+    if units:                                   # the closing exit, a last note
+        for k, v in (("stage", pending_stage), ("notes", pending_notes), ("sic", pending_sic),
+                     ("head", pending_head)):
+            if v:
+                units[-1]["drama"].setdefault(k, []).extend(v)
+    nnotes = sum(len(u["drama"].get("notes", [])) for u in units)
+    # The original's language (Plautus and Terence are cited by the Latin
+    # line), and how long the segments really run -- measured, not assumed.
+    base = body.get("{http://www.w3.org/XML/1998/namespace}base") or ""
+    lang = "Latin" if ":latinLit:" in base else "Greek"
+    starts = [int(m.group()) for m in (re.match(r"\d+", u["id"].split(":", 1)[1])
+                                       for u in units) if m]
+    steps = [b - a for a, b in zip(starts, starts[1:]) if b > a]
+    longest = max(steps, default=1)
+    within5 = sum(1 for x in steps if x <= 5)
+    book = {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": transl, "sha256": sha256(path)},
+            "scheme": {"citation": f"{abbrev} line ({lang} lineation)",
+                       "resolution": "segment",
+                       "honesty": f"prose translation segmented at {lang} line numbers: "
+                                  "a citation resolves to the segment that contains it, "
+                                  f"not to an exact line ({within5:,} of {len(steps):,} "
+                                  f"segments run 5 {lang} lines or fewer; the longest "
+                                  f"runs {longest})",
+                       "note": f"Perseus TEI, one unit per <l> segment; speaker, choral "
+                               f"section and stage directions under each unit's `drama` "
+                               f"(stage directions are kept out of the spoken text, never "
+                               f"dropped). {fixes} line number(s) corrected by "
+                               f"TEI_DRAMA_N_FIX; {gaps} segment(s) contain a lacuna the "
+                               f"translator marks as lost (drama.gap). {nnotes} footnote(s) "
+                               f"lifted out of the spoken text into drama.notes"
+                               + (f"; the cast list is under dramatis_personae ({len(personae)})"
+                                  if personae else "") + "."},
+            "rights": perseus_rights(root),
+            "units": units}
+    if personae:
+        book["dramatis_personae"] = personae
+    return book
+
 # ---------------------------------------------------------------- ThML (CCEL)
 
 RE_DIV2 = re.compile(r"<div[1-4]\b([^>]*)>", re.I)  # flat scan, any level — paragraphs belong to the preceding div
@@ -2957,7 +3695,8 @@ def convert_brenton(zpath, sha, slug="brenton"):
 # ---------------------------------------------------------------- historic English Bibles
 #
 # Geneva 1599, Tyndale, Young's, Darby, the ASV 1901 (fetch_sources.ENGLISH:
-# scrollmapper's JSON of CrossWire's modules, pinned). A module sits on the
+# scrollmapper's JSON of CrossWire's modules, pinned), and Coverdale and the
+# Bishops' (Bible SuperSearch's JSON, ENGLISH_BSS, pinned). A module sits on the
 # KJV's verse grid, so the ids are its slots: the Bible's own numbers, except
 # where a chapter numbers otherwise and its overflow is merged into the last
 # slot. Each unit's `kjv` comes from data/versification/<slug>-kjv.json
@@ -2981,6 +3720,9 @@ ENGLISH_RULES = {
                  "19:9, 27:39, 32:17); 'BenIamin' and 'xM' (Rev 9:16) are left as printed")],
     "geneva": [(re.compile(r"\btoAsaph\b"), "to Asaph",
                 "a space restored in Ps 75:1's title ('committed toAsaph')")],
+    # Bishops': one stray "/>" (the tail of a markup tag) ends Gen 46:27.
+    "bishops": [(re.compile(r"\s*/>"), "",
+                 "a stray '/>' removed, the tail of markup left in the source")],
 }
 
 
@@ -2991,48 +3733,48 @@ def convert_english(path, slug, sha):
     import versification as _V
     import fetch_sources as _fs
     e = _fs.ENGLISH[slug]
-    with open(path, encoding="utf-8") as f:
-        data = json.load(f)
+    bss = e.get("source") == "bss"
     with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
         kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
     with open(os.path.join(HERE, "..", "data", "greppable", "kjv.tsv"), encoding="utf-8") as f:
         books = list(dict.fromkeys(l.split("\t", 1)[0][4:].split(".")[0]
                                    for l in f if l.startswith("kjv:")))
-    if len(data["books"]) != len(books):
-        raise ValueError(f"{slug}: {len(data['books'])} books, expected {len(books)}")
+    slots = _fs.english_slots(slug, path, len(books))
     emap = None
     if os.path.exists(_V.english_path(slug)):
         emap = _V.load(_V.english_path(slug))
     units, empty, fixed = [], 0, 0
     resolved = {True: 0, False: 0}
-    for osis, book in zip(books, data["books"]):
-        for ch in book["chapters"]:
-            for vs in ch["verses"]:
-                text = re.sub(r"\s+", " ", vs["text"]).strip()
-                if not text:
-                    empty += 1
-                    continue
-                for rx, rep, _why in ENGLISH_RULES.get(slug, []):
-                    text, n = rx.subn(rep, text)
-                    fixed += n
-                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
-                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
-                     "text": text, "links": []}
-                if emap:
-                    u["kjv"] = _V.resolve_english(ref, emap, kjv_ids)
-                    resolved[u["kjv"]["resolved"]] += 1
-                units.append(u)
+    for n, name, c, v, raw in slots:
+        text = re.sub(r"\s+", " ", raw).strip()
+        if not text:
+            empty += 1
+            continue
+        for rx, rep, _why in ENGLISH_RULES.get(slug, []):
+            text, k = rx.subn(rep, text)
+            fixed += k
+        ref = f"{books[n - 1]}.{c}.{v}"
+        u = {"id": f"{slug}:{ref}", "ref": f"{name} {c}:{v}", "text": text, "links": []}
+        if emap:
+            u["kjv"] = _V.resolve_english(ref, emap, kjv_ids)
+            resolved[u["kjv"]["resolved"]] += 1
+        units.append(u)
     merged = sum(isinstance(x, list) for x in emap["map"].values()) if emap else 0
+    module = "Bible SuperSearch module" if bss else "CrossWire module"
     return {"slug": slug, "title": e["title"], "author": e["author"],
-            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
-                       "sha256": sha},
-            "scheme": {"citation": "Book chapter:verse as the source's CrossWire module "
+            "source": {"path": os.path.relpath(path, CORPUS),
+                       "format": "biblesupersearch-json" if bss else "scrollmapper-json",
+                       "sha256": sha,
+                       **({"module_version": _fs.ENGLISH_BSS["module_version"],
+                           "retrieved": _fs.ENGLISH_BSS["retrieved"]} if bss else {})},
+            "scheme": {"citation": f"Book chapter:verse as the source's {module} "
                                    "numbers it (the KJV's grid; OSIS book ids)",
                        "resolution": "verse",
                        "honesty": "exact" if not merged else
                                   f"exact, except {merged} verses holding several KJV verses "
                                   f"(a merged last slot or the Bible's own division)",
-                       "versification": f"{slug} (CrossWire, KJV grid)",
+                       "versification": f"{slug} ({'Bible SuperSearch' if bss else 'CrossWire'}, "
+                                        "KJV grid)",
                        "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
                        "empty_slots_not_units": empty,
                        **({"coverage": e["coverage"]} if "coverage" in e else {}),
@@ -3047,12 +3789,21 @@ def convert_english(path, slug, sha):
                                + "its verses fill the KJV's slots in order and the overflow sits "
                                "in the last slot. Each unit's `kjv` names the KJV verse(s) "
                                "holding the same words, by "
-                               f"data/versification/{slug}-kjv.json; no uids minted."},
-            "rights": {"license": "public-domain",
-                       "attribution": f"{e['title']}, via scrollmapper/bible_databases "
-                                      "(from CrossWire's SWORD module)",
-                       "source_url": "https://github.com/scrollmapper/bible_databases",
-                       "rights_line": e["readme"]},
+                               f"data/versification/{slug}-kjv.json; no uids minted.",
+                       **({"numbering": e["numbering"]} if "numbering" in e else {})},
+            "rights": ({"license": "public-domain",
+                        "attribution": f"{e['title']}, via Bible SuperSearch "
+                                       f"(module '{e['module']}'); the source does not name "
+                                       "the transcription it publishes",
+                        "source_url": _fs.english_url(slug),
+                        "rights_line": e["readme"],
+                        **({"finding": e["rights_finding"]} if "rights_finding" in e else {})}
+                       if bss else
+                       {"license": "public-domain",
+                        "attribution": f"{e['title']}, via scrollmapper/bible_databases "
+                                       "(from CrossWire's SWORD module)",
+                        "source_url": "https://github.com/scrollmapper/bible_databases",
+                        "rights_line": e["readme"]}),
             "units": units}
 
 # ---------------------------------------------------------------- the KJV's Apocrypha

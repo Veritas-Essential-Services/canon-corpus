@@ -20,14 +20,14 @@ all carry the same terms.
   - STEPBible asks that people be pointed to its repository rather than
     served a mirror (`redistribute_whole: false`). This index is a derived
     subset. It is not TVTMS itself.
-- **geneva, tyndale, ylt, darby, asv**: these columns are the house's own
-  reading of public-domain texts, by alignment and review
+- **geneva, tyndale, ylt, darby, asv, coverdale, bishops**: these columns
+  are the house's own reading of public-domain texts, by alignment and review
   (`pipeline/build_english_versification.py`). No third-party terms apply.
 - **greek_nt**: the Robinson-Pierpont 2018 Greek is public domain. Its
-  column is the KJV verse's own reference. It covers the whole New
-  Testament (rebuilt 2026-11-03 after PR #8): 7,953 of 7,957 rows. The four
-  empty cells, Luke 17:36, Acts 8:37, 15:34 and 24:7, are verses the
-  Byzantine text does not have.
+  column is the KJV verse's own reference. It covers the whole New Testament
+  (`data/nt/<Book>/`); a cell is empty only for the four KJV verses the
+  Byzantine text lacks (Luke 17:36, Acts 8:37, 15:34, 24:7), so an empty
+  cell there means "no Greek verse", not "not ingested yet".
 - **kjv, uid**: the KJV verse id and this repository's identifier for it.
 
 A version's verse that holds part of a KJV verse is listed in that verse's
