@@ -1,0 +1,111 @@
+{
+ "_about": "Maksim Gorky. Bloom's Western Canon (1994) lists: Autobiography; Reminiscences of Tolstoy, Chekhov, and Andreev. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Maksim Gorky",
+ "_name_words": [
+  "maksim",
+  "gorky"
+ ],
+ "_surname": [
+  "gorky",
+  "maksim gorky"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gorky-world": [
+   55502,
+   "In the World",
+   "tr. Gertrude M. Foakes"
+  ]
+ },
+ "internet_archive": {
+  "gorky-reminiscences-leonid-andreyev": [
+   "in.ernet.dli.2015.60412",
+   "Reminiscences of Leonid Andreyev",
+   "2015.60412.Reminiscences-Of-Leonid-Andreyev_djvu.txt"
+  ],
+  "gorky-my-childhood": [
+   "mychildhood0000gork",
+   "My Childhood"
+  ]
+ },
+ "_translators": {
+  "gorky-reminiscences-leonid-andreyev": "Mansfield",
+  "gorky-world": "Foakes"
+ },
+ "_bloom": {
+  "gorky-reminiscences-leonid-andreyev": {
+   "bloom_n": [
+    1063
+   ],
+   "bloom_title": "Reminiscences of Tolstoy, Chekhov, and Andreev",
+   "year": "unread (IA metadata 1922; the colophon says the translation was made Aug-Sept 1922)",
+   "evidence": "djvu head read: \"This translation, which is authorised by Maxim Gorki, was made by Katherine Mansfield and S. S. Koteliansky during the last stay of the former in England, August-September, 1922. This edition is limited to [?] copies.\" Digital Library of India.",
+   "case": "Bloom lists the three memoirs (gathered as one book only in 1934). We already hold the Tolstoy (1920) and Chekhov (1921) Koteliansky-Woolf translations; the Andreyev piece in the Mansfield-Koteliansky limited edition completes the PD set.",
+   "note": "The DLI scan's OCR is poor in places (needs re-OCR or proofing) and its imprint year was not readable; the limited edition is said to be 1928, which would still be PD -- confirm on the scan images."
+  },
+  "gorky-my-childhood": {
+   "bloom_n": [
+    1064
+   ],
+   "bloom_title": "Autobiography",
+   "year": "\"Copyright, 1915, by The Century Co. Published, October, 1915\" (verso); title page New York, The Century Co., 1916",
+   "evidence": "djvu head read: \"My Childhood by Maxim Gorky, New York, The Century Co. 1916 / Copyright, 1915 ... Published, October, 1915\". Trent, internetarchivebooks, no lending flag.",
+   "case": "Bloom lists the Autobiography (the trilogy My Childhood, In the World, My Universities); all three parts have pre-1931 American translations.",
+   "note": "VERIFY My University Days before acquiring: the Boni scan shows no date or translator in OCR; the translation first appeared 1923 (Boni & Liveright) to my knowledge, and this Albert & Charles Boni issue must be confirmed as pre-1931 and unrevised. Translator of the 1915 My Childhood is not named in the OCR front matter."
+  },
+  "gorky-world": {
+   "bloom_n": [
+    1064
+   ],
+   "bloom_title": "Autobiography",
+   "year": "1917 (PG title page, New York)",
+   "evidence": "PG header read: translator Gertrude M. Foakes; title page New York 1917, \"Author of My Childhood\".",
+   "case": "Bloom lists the Autobiography (the trilogy My Childhood, In the World, My Universities); all three parts have pre-1931 American translations.",
+   "note": "VERIFY My University Days before acquiring: the Boni scan shows no date or translator in OCR; the translation first appeared 1923 (Boni & Liveright) to my knowledge, and this Albert & Charles Boni issue must be confirmed as pre-1931 and unrevised. Translator of the 1915 My Childhood is not named in the OCR front matter."
+  }
+ },
+ "_checks": {
+  "gorky-world": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gorky",
+   "translator_claimed": "Foakes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gertrude M. Foakes",
+   "translator_match": true
+  },
+  "gorky-reminiscences-leonid-andreyev": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gorki",
+   "translator_claimed": "Mansfield",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gorky-my-childhood": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gorky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_surname_by_slug": {
+  "gorky-reminiscences-leonid-andreyev": [
+   "gorki",
+   "gorky"
+  ]
+ }
+}
