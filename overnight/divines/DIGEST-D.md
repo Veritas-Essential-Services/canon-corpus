@@ -1218,3 +1218,11 @@ What is left:
 | 10, The Quiz Book, and Index | `ourwonderworldli0010howa` | 2,210 | 158 |
 
 Twins were matched by shared text (87-97%). Most of what is left is correct as printed: footnote numbers stuck to words (vol. 3 has dozens), Poe's cipher in "The Gold-Bug" (vol. 8), music signs (8va), and picture pages (diagrams, hand-lettered verses, and a facsimile of the Declaration in vol. 8). Rules added: Æ read as "/E" or "jE" (Æneas, Æthra); a closing ’ read as "/" after a word. With vol. 5 not yet run and vol. 7's fractions open, Our Wonder World stands at 9 of 10 volumes collated.
+
+### Round 11: Our Wonder World, vol. 5 (2026-11-03)
+
+| Volume | Twins collated | Garbled before | After |
+|---|---|---|---|
+| 5, Fairy Stories, Folk Tales, Stories and Plays | `ourwonderworld0005geor`, `ourwonderworldli0005unse`, `bwb_W9-CVU-012` | 1,374 | 7 |
+
+A fourth twin (`ourwonderworldvo0000unse`, 94% shared) was not needed. What is left: the copyright-deposit stamp, a footnote mark (ARTHUR¹, correct), "A.D.)." (correct), and the Latin inscription on the Lion of St Mark picture (a picture, left). Readings include the Middle English of Layamon (ð, ē, as printed) and a German nursery verse set in Fraktur. All ten volumes of Our Wonder World are now collated; vol. 7's fractions are still open.
