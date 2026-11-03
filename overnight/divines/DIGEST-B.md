@@ -8,7 +8,7 @@ Adam, 2026-11-03: "use what you need to bring this project to its most complete 
 **What was done.**
 
 - **Every entry on Bloom's list was checked by hand**, 1,142 distinct works. Verdicts: held already 144, added or addable 257, in copyright in the US 696, no PD English text found 44, unclear 1. One line per entry, with the edition, its evidence and the case, in `docs/review/bloom/bloom-research.jsonl`.
-- **160 author shelves were written or extended, one commit per author** ("Bloom: <Author> (<shelf>)"), every file fetched and passed through `fetch_shelf.py --verify --record` (the identity gate) before its commit. Each shelf row carries a `_bloom` block: Bloom's number and title, the edition's year, the evidence it is US PD, and the case.
+- **158 author shelves were written or extended, one commit per author** ("Bloom: <Author> (<shelf>)"), every file fetched and passed through `fetch_shelf.py --verify --record` (the identity gate) before its commit. Each shelf row carries a `_bloom` block: Bloom's number and title, the edition's year, the evidence it is US PD, and the case.
 - **The Admissions page has a third tab, "Bloom additions"** (283 books: Lane B's shelved ones plus the 16 Lane C staged). Keep, cut or later, one book at a time: https://claude.ai/artifact/H3VRhvjjCisJ6HPnGmGnmV . The checklist tab now shows each Bloom entry's real status (held, added, Lane C / pending, in copyright, no text).
 - **Foreign works of 1500-1900 went to Lane C**, which owns translators. 40 finds are handed over in `docs/review/bloom/lane-c-handoff.md`. Lane B shelved the English-language regions and the 20th-century foreign works Lane C had not staged.
 - **The ancient age was already complete**, so nothing was added there.
