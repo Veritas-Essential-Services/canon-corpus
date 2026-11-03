@@ -1205,3 +1205,16 @@ Twins were matched by shared text (91-97%). The 1918-1930 reissues of vol. 2 sha
 What is left:
 - **Vols. 2 and 4:** labels on cutaway diagrams (the engine, the battleship) and the facsimiles of old maps and letters in vol. 4. Those are pictures, not text. Default: leave them.
 - **Vol. 7 is only partly done.** It is a handicraft book full of measurements, and the OCR garbles the small fractions in many ways. The ½ read as "V2", "y2" or "Y2", or as a bare "Y" after a whole number, is mended by rule (24 places). The others are not, because one garble stands for different fractions on different pages (the image shows "i34" as 1½ in one place, and "34" stands for ¾ elsewhere). Mending them safely means reading each one from the image, about 400 spots. Default: leave them flagged. Next pass if wanted: crop every measurement token and read it.
+
+### Round 10: Our Wonder World, vols. 1, 3, 6, 8, 9, 10 (2026-11-03)
+
+| Volume | Twins collated | Garbled before | After |
+|---|---|---|---|
+| 1, The World and Its Peoples | `ourwonderworld0000geol`, `ourwonderworldwo0001vari` | 1,910 | 139 |
+| 3, The Nature Book | `ourwonderworldli0003unse` | 1,984 | 132 |
+| 6, Sports and Pastimes | `ourwonderworld0006vari`, `ourwonderworldli0000vari` | 2,407 | 118 |
+| 8, Story and History | `bwb_S0-DHY-002`, `ourwonderworldst0008unse`, `ourwonderworldvo0000geor` | 2,461 | 144 |
+| 9, The Mother's Home Book | `ourwonderworldmo0009geol` | 1,522 | 172 |
+| 10, The Quiz Book, and Index | `ourwonderworldli0010howa` | 2,210 | 158 |
+
+Twins were matched by shared text (87-97%). Most of what is left is correct as printed: footnote numbers stuck to words (vol. 3 has dozens), Poe's cipher in "The Gold-Bug" (vol. 8), music signs (8va), and picture pages (diagrams, hand-lettered verses, and a facsimile of the Declaration in vol. 8). Rules added: Æ read as "/E" or "jE" (Æneas, Æthra); a closing ’ read as "/" after a word. With vol. 5 not yet run and vol. 7's fractions open, Our Wonder World stands at 9 of 10 volumes collated.
