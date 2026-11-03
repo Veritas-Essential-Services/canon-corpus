@@ -1130,3 +1130,20 @@ Hand readings of note: the contents and illustration lists of YFL 2 and Children
 **Finding:** YFL vol. 2, printed p. 39 (an Alice page) is printed so faintly in this scan that the OCR is mostly noise. It was not retyped: these are 48 of the 50 tokens left. Default: leave it flagged; a twin's page could replace it.
 
 **Finding:** Children's Hour vol. 15 ends with the whole set's Index of Authors and Index of Titles (pp. 485-520, scan pages 538-581). Its garbled tokens are read, but small-capital names that the OCR turned into other letters (Hae for HALE, Epwarp for EDWARD, Bast for BASIL) still pass the garble test, so the index is not clean. Default: leave it; it is back matter. A full read against the 43 page images is a later job if the index will be used for lookups.
+
+### Round 5: The Bookshelf for Boys and Girls, 1912 (2026-11-03)
+
+| Volume | Scan | Garbled before | After | Rows |
+|---|---|---|---|---|
+| 18, Historic Tales and Golden Deeds IV | `bookshelfforboys00univ019` | 634 | 76 | 643 |
+| 9, Children's Book of Fact and Fancy I | `bookshelfforboys00univ9` | 533 | 195 | 377 |
+| 19, Little Journeys into Bookland I | `bookshelfforboys19univ19` | 596 | 245 | 404 |
+
+No second scan of the 1912 printing is online (the other Bookshelf scans on the Archive are the 1945-73 revised editions), so these are tesseract against the 2007 Archive OCR plus readings from the page images. That OCR has steady habits, mended by rule: `]\I` for M, a leading `\'` for V and `\\'` for W, `v/` for w. In vol. 18 the garbled page numbers are set from the printed page (scan page + 197).
+
+What is left, and why it was not read:
+- **The decorated endpapers** (the Book House poem and the Book Tree, front and back, in every volume). The lettering is drawn, and the OCR cannot read it.
+- **The hand-lettered pages.** Vol. 19: scan pp. 64-70 (The Runaway Donkey), 126-129 (May Day), 178-181 (the Indian boy at school). Vol. 9: scan pp. 40, 65, 82-83, 115, 163, 173, 181-182. These are whole poems drawn by hand, and reading them would mean retyping the poems, not fixing words. They are flagged.
+- **Vol. 18's printer's signature marks** (H.T.&G.D. II. 14.). These are printed on the page and left as printed.
+
+Default: leave these flagged. If the read-along or the reader ever needs those poems, they can be typed from the images in a later pass.
