@@ -1,5 +1,5 @@
 {
- "_about": "Shaw's Pygmalion (1913), on Heidi White's list. US public domain by publication date. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_about": "Shaw's Pygmalion (1913), on Heidi White's list. US public domain by publication date. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held. Bloom addition 2026-11-03 (Bloom's Western Canon): shaw-perfect-wagnerite, shaw-quintessence-ibsenism, shaw-sanity-art, shaw-heartbreak-house, shaw-major-barbara, shaw-back-to-methuselah.",
  "_author": "George Bernard Shaw",
  "_name_words": [
   "bernard",
@@ -13,18 +13,163 @@
   "shaw-pygmalion": [
    3825,
    "Pygmalion (1913)"
+  ],
+  "shaw-perfect-wagnerite": [
+   1487,
+   "The Perfect Wagnerite: A Commentary on the Niblung's Ring"
+  ],
+  "shaw-heartbreak-house": [
+   3543,
+   "Heartbreak House"
+  ],
+  "shaw-major-barbara": [
+   3790,
+   "Major Barbara"
+  ],
+  "shaw-back-to-methuselah": [
+   13084,
+   "Back to Methuselah: A Metabiological Pentateuch"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "shaw-quintessence-ibsenism": [
+   "quintessenceofib0000shaw",
+   "The Quintessence of Ibsenism, now completed to the death of Ibsen"
+  ],
+  "shaw-sanity-art": [
+   "sanityofart00shawuoft",
+   "The Sanity of Art"
+  ]
+ },
  "_checks": {
   "shaw-pygmalion": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "bernard shaw",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "shaw-perfect-wagnerite": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bernard shaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shaw-heartbreak-house": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bernard shaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shaw-major-barbara": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bernard shaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shaw-back-to-methuselah": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bernard shaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shaw-quintessence-ibsenism": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bernard shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shaw-sanity-art": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bernard shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908 [c1895]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "shaw-perfect-wagnerite": {
+   "bloom_n": [
+    851
+   ],
+   "bloom_title": "Major Critical Essays",
+   "year": "unread",
+   "evidence": "PG header read.",
+   "case": "Bloom's Major Critical Essays is the standard trio: The Quintessence of Ibsenism, The Perfect Wagnerite and The Sanity of Art. All three are pre-1931.",
+   "note": ""
+  },
+  "shaw-quintessence-ibsenism": {
+   "bloom_n": [
+    851
+   ],
+   "bloom_title": "Major Critical Essays",
+   "year": "1913 (title page: London, Constable, 1913)",
+   "evidence": "Read title page, contents and 'Preface: 1913'; Trent University copy, not lending.",
+   "case": "Bloom's Major Critical Essays is the standard trio: The Quintessence of Ibsenism, The Perfect Wagnerite and The Sanity of Art. All three are pre-1931.",
+   "note": ""
+  },
+  "shaw-sanity-art": {
+   "bloom_n": [
+    851
+   ],
+   "bloom_title": "Major Critical Essays",
+   "year": "1908 (title page: New York, Benj. R. Tucker, 1908; 'Copyright, 1895')",
+   "evidence": "Read title page and preface; University of Toronto copy.",
+   "case": "Bloom's Major Critical Essays is the standard trio: The Quintessence of Ibsenism, The Perfect Wagnerite and The Sanity of Art. All three are pre-1931.",
+   "note": ""
+  },
+  "shaw-heartbreak-house": {
+   "bloom_n": [
+    852
+   ],
+   "bloom_title": "Heartbreak House",
+   "year": "unread (PG text dates the play 1913-1916)",
+   "evidence": "PG header read.",
+   "case": "Bloom lists Heartbreak House (1919). PG text.",
+   "note": ""
+  },
+  "shaw-major-barbara": {
+   "bloom_n": [
+    855
+   ],
+   "bloom_title": "Major Barbara",
+   "year": "unread",
+   "evidence": "PG header read; PG 3789 is only the Preface.",
+   "case": "Bloom lists Major Barbara (1907). Use PG 3790, the play; PG 3789 is only the preface.",
+   "note": "Both are worth taking, since Shaw's prefaces are part of the work."
+  },
+  "shaw-back-to-methuselah": {
+   "bloom_n": [
+    856
+   ],
+   "bloom_title": "Back to Methuselah",
+   "year": "1921 (PG text)",
+   "evidence": "PG header read.",
+   "case": "Bloom lists Back to Methuselah (1921). PG text.",
+   "note": ""
   }
  }
 }
