@@ -1,0 +1,73 @@
+{
+ "_about": "Aldous Huxley. Bloom's Western Canon (1994) lists: Antic Hay; Point Counter Point. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Aldous Huxley",
+ "_name_words": [
+  "aldous",
+  "huxley"
+ ],
+ "_surname": [
+  "huxley",
+  "aldous huxley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "huxley-antic-hay": [
+   60483,
+   "Antic Hay"
+  ]
+ },
+ "internet_archive": {
+  "huxley-point-counter-point": [
+   "pointcounterpoin0000aldo_s1v7",
+   "Point Counter Point (The Modern Library)"
+  ]
+ },
+ "_bloom": {
+  "huxley-antic-hay": {
+   "bloom_n": [
+    948
+   ],
+   "bloom_title": "Antic Hay",
+   "year": "\"First published November 1923\" (PG title page, London)",
+   "evidence": "PG header read: title page London, \"First published November 1923\".",
+   "case": "Bloom lists it; 1923 first edition on PG.",
+   "note": ""
+  },
+  "huxley-point-counter-point": {
+   "bloom_n": [
+    949
+   ],
+   "bloom_title": "Point Counter Point",
+   "year": "\"Copyright, 1928, by Doubleday Doran & Company\" (verso); printing year unread",
+   "evidence": "djvu head read: Modern Library, New York, Random House; copyright 1928 Doubleday Doran; internetarchivebooks only, no lending flag.",
+   "case": "Bloom lists it; first published 1928 and not on PG, so the best source is an IA scan of the (unrevised) Modern Library reprint of the 1928 text.",
+   "note": "Both scans are later Modern Library printings of the 1928 copyright text; no revision is claimed in them. Text is OCR (needs proofing). Other copies: pointcounterpoin0000aldo_t3e5 (same), pointcounterpoin0000unse_a6b3 (Harper, \"Copyright, 1928, by Aldous Huxley\")."
+  }
+ },
+ "_rights_checked": {
+  "huxley-point-counter-point": "Bloom addition 2026-11-03: \"Copyright, 1928, by Doubleday Doran & Company\" (verso); printing year unread. djvu head read: Modern Library, New York, Random House; copyright 1928 Doubleday Doran; internetarchivebooks only, no lending flag."
+ },
+ "_checks": {
+  "huxley-antic-hay": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "huxley-point-counter-point": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: \"Copyright, 1928, by Doubleday Doran & Company\" (verso); printing year unread. djvu head read: Modern Library, New York, Random House; copyright 1928 Doubleday Doran; internetarchivebooks only, no lending flag."
+  }
+ }
+}
