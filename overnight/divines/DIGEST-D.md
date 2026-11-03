@@ -1116,3 +1116,17 @@ Hand readings of note:
 - Vol. 3, pp. 55-58: lines a reader had pencil-circled.
 
 **Finding:** in vol. 2's scan, printed pp. 368-369 are a torn leaf, with a fragment of the leaf before showing through, and a curled one. Their OCR mixes two pages, so they were left unread: these are the 31 tokens left. Default: leave them flagged. The twin scans have whole copies, if Adam wants those two pages taken from a twin.
+
+### Round 4: Young Folks' Library 2 and 3, Children's Hour 15 (2026-11-03)
+
+| Volume | Scan | Collated with | Garbled before | After | Rows |
+|---|---|---|---|---|---|
+| YFL 3, Famous Fairy Tales | `youngfolkslibra01aldrgoog` | bwb_T5-CWS-547 | 615 | 0 (2 correct forms) | 388 |
+| YFL 2, The Merry Maker | `bwb_T4-AKB-837_2` | 2 scans | 542 | 50 (a faint page) | see fix list |
+| Children's Hour 15, Wonders of Science | `wondersofscience00tapp` | bwb_S0-BGR-061 | 815 | 9 (correct forms) | 2,724 |
+
+Hand readings of note: the contents and illustration lists of YFL 2 and Children's Hour 15 (small capitals, which the OCR reads as mixed-case nonsense) were read line by line from the images; the Dinosaur Mummy caption in Children's Hour 15 is printed sideways and was read from the rotated page; caption-less plates were cleared.
+
+**Finding:** YFL vol. 2, printed p. 39 (an Alice page) is printed so faintly in this scan that the OCR is mostly noise. It was not retyped: these are 48 of the 50 tokens left. Default: leave it flagged; a twin's page could replace it.
+
+**Finding:** Children's Hour vol. 15 ends with the whole set's Index of Authors and Index of Titles (pp. 485-520, scan pages 538-581). Its garbled tokens are read, but small-capital names that the OCR turned into other letters (Hae for HALE, Epwarp for EDWARD, Bast for BASIL) still pass the garble test, so the index is not clean. Default: leave it; it is back matter. A full read against the 43 page images is a later job if the index will be used for lookups.
