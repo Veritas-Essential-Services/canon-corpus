@@ -7,6 +7,7 @@ model_log:
   - 2026-09-27 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-10-19 claude-opus-5-5 edited
   - 2026-10-20 claude-opus-5-5 edited (Aphthonius commands)
+  - 2026-11-03 claude-opus-5-5 edited (Bible dictionaries: Easton, Nave, Hurlbut's atlas)
 fable_review: pending
 ---
 # canon-corpus — rules for AI sessions
@@ -259,6 +260,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/extract_short_pieces.py           # short pieces -> data/shorts/ (docs/short-pieces/SHORT-PIECES.tsv)
     python3 pipeline/extract_short_pieces.py --check   # every ok piece resolves exactly once
     python3 tests/short_pieces_test.py                 # the extractor, fixtures inline
+    python3 tests/bible_dictionaries_test.py           # Easton's, Nave's, Hurlbut's atlas: converters, pins, offline (35)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -972,6 +974,8 @@ The living truth for project state is the Obsidian vault:
   CCEL's Nave carries modern glosses (DONKEY, bronze): rows flag such wording
   (`wording_not_in_print`). Hitchcock (no references) joins by headword.
   pipeline/README-topical.md
+  Easton's and Nave's are also BOOKS (`easton`, `nave`, from the same pinned CCEL
+  files): see "Bible dictionaries" below. Keep both: book = the entries, layer = the verse index.
 - pipeline/build_commentary.py (+ commentary.py, clarke_read.py) — Henry, JFB, Barnes, Wesley,
   Calvin, Hodge (Ephesians), Manton (James, Jude) (CCEL ThML; Calvin's CTS translators'
   footnotes dropped as the editors'), Poole and Trapp (EEBO-TCP's hand-keyed first
@@ -1223,6 +1227,49 @@ it was not kept. Where the remaining gap to ~5,600 sits: of Strong's 5,494
 headword keys, 5,100 are found; most of the 394 others are inflected forms
 Strong's numbers separately (ἐμέ, ὑμῖν, μία) that Thayer does not head. The
 next real gain is proofreading those three pages, not another rule.
+
+## Bible dictionaries — Easton's, Nave's, Hurlbut's atlas (2026-11-03)
+
+For the Armarium's hub pages (vision map item 37). All three are in `LEXICONS`, pinned by
+URL and by sha256 (`LEXICON_SHA256`: a fetched file that differs is refused, kept as
+`*.refused`). Same `{id, ref, text, links[]}` contract; `ref` is the headword AS PRINTED, so a
+hub page finds an entry by its name (Brewer's `Brewer, s.v. X` refs do not match a hub; these do).
+
+- **`easton`** — Easton's Bible Dictionary (3rd ed., 1897), CCEL ThML `ebd2` v2.0, DC.Rights
+  "Public Domain". 3,964 entries, `easton:<headword-slug>`.
+- **`nave`** — Nave's Topical Bible (1896), CCEL ThML `nave/bible`: the reference edition
+  (topics, sub-topics, references; no quoted verses). 5,322 topics; sub-topic depth in
+  `lex.levels`. **DC.Rights is empty** in this file, so `redistribute_whole: false` until Adam
+  reads CCEL's page for it (rule 6).
+- **`hurlbut-bible-atlas`** — Hurlbut, The Rand-McNally Bible Atlas (1884; 1910 printing), PG
+  41140 from the Internet Archive's Gutenberg mirror. 1,378 gazetteer names from the book's three
+  printed indexes (map of Palestine, map of the OT World with modern names, descriptive matter
+  with pages) + 978 prose paragraphs (`text.<chapter>.<para>`). The maps are pictures and are
+  NOT carried; a name's unit is its index lines in words and links the paragraphs that print
+  it in bold. One unit per printed name, not per place. Printed pages are not in the
+  transcription, so "described on pp." is carried, not linked.
+
+ccel.org and gutenberg.org were not reachable from the session that added these. Easton's and
+Nave's are CCEL's own ThML files as kept (header and all) in `neuu-org/bible-dictionary-dataset`
+and `neuu-org/bible-topics-dataset` on GitHub, pinned to a commit; the host fetches those same
+bytes. Scripture: CCEL's `<scripRef parsed=...>` is read, never re-parsed, and every target is
+CHECKED against the KJV's verse list (`data/parallel/kjv-parallel.tsv`, `kjv_verse_index`):
+a verse or chapter the KJV lacks, or an Apocrypha book, stays `resolved: false` with `why`. A
+whole-chapter reference links verse 1 with `end` the last verse and `chapter: true`. Easton's
+23,643 references: 23,615 resolve (23,026 links after merging repeats per entry); Nave's 77,934:
+77,908 (72,193 links). See-references: Easton 651 resolved / 36 not; Nave 4,043 / 322 (a
+`PRIEST, HIGH` sub-topic links its topic, `match: "topic"`; `match` also marks `number` and
+`prefix` matches). Hurlbut: 483 scripture citations parsed from the prose, all checked.
+Wordhoard's hub finds dictionaries by title or slug (`LEXICON_TITLE`, `LEXICON_SLUG` in
+apps/armarium/pipeline/armarium.py): Easton's and Nave's match; the atlas needs `atlas` (or
+`hurlbut`) added there.
+
+**Same files as the topical layer, two jobs (ruled 2026-11-03, Adam's "merge what you can";
+keep both).** `easton` and `nave` here are the SAME CCEL bytes `build_topical.py` reads (one
+sha256 each, pinned in both places). The two are kept on purpose: these books are the
+readable entries a hub page shows (`easton:<slug>`, `ref` = headword), while
+`data/topical/` is the verse-keyed index (which topics cite a verse, voted 2-of-3 against the
+scans). Neither is rebuilt from the other. If one pin moves, move the other with it.
 
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 
