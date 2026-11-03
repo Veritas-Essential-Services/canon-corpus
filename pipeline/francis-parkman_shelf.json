@@ -1,0 +1,204 @@
+{
+ "_about": "Francis Parkman. Bloom's Western Canon (1994) lists: France and England in North America; The California and Oregon Trail. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Francis Parkman",
+ "_name_words": [
+  "francis",
+  "parkman"
+ ],
+ "_surname": [
+  "parkman",
+  "francis parkman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "parkman-part-i": [
+   3721,
+   "Part I: Pioneers of France in the New World"
+  ],
+  "parkman-part-ii": [
+   6933,
+   "Part II: The Jesuits in North America"
+  ],
+  "parkman-part-iii": [
+   40143,
+   "Part III: La Salle and the Discovery of the Great West"
+  ],
+  "parkman-part-iv": [
+   53000,
+   "Part IV: The Old Régime in Canada"
+  ],
+  "parkman-part-v": [
+   6875,
+   "Part V: Count Frontenac and New France under Louis XIV"
+  ],
+  "parkman-part-vii-vol-1": [
+   24457,
+   "Part VII vol 1: A Half-Century of Conflict"
+  ],
+  "parkman-part-vi": [
+   14517,
+   "Part VI: Montcalm and Wolfe"
+  ],
+  "parkman-oregon-trail": [
+   1015,
+   "The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "parkman-part-i": {
+   "bloom_n": [
+    647
+   ],
+   "bloom_title": "France and England in North America",
+   "year": "unread",
+   "evidence": "PG header read",
+   "case": "Parkman's seven-part history is all on PG; none of it is held.",
+   "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+  },
+  "parkman-part-ii": {
+   "bloom_n": [
+    647
+   ],
+   "bloom_title": "France and England in North America",
+   "year": "unread",
+   "evidence": "catalogue",
+   "case": "Parkman's seven-part history is all on PG; none of it is held.",
+   "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+  },
+  "parkman-part-iii": {
+   "bloom_n": [
+    647
+   ],
+   "bloom_title": "France and England in North America",
+   "year": "unread",
+   "evidence": "catalogue (also 9997)",
+   "case": "Parkman's seven-part history is all on PG; none of it is held.",
+   "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+  },
+  "parkman-part-iv": {
+   "bloom_n": [
+    647
+   ],
+   "bloom_title": "France and England in North America",
+   "year": "unread",
+   "evidence": "catalogue",
+   "case": "Parkman's seven-part history is all on PG; none of it is held.",
+   "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+  },
+  "parkman-part-v": {
+   "bloom_n": [
+    647
+   ],
+   "bloom_title": "France and England in North America",
+   "year": "unread",
+   "evidence": "catalogue",
+   "case": "Parkman's seven-part history is all on PG; none of it is held.",
+   "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+  },
+  "parkman-part-vii-vol-1": {
+   "bloom_n": [
+    647
+   ],
+   "bloom_title": "France and England in North America",
+   "year": "unread",
+   "evidence": "catalogue (vol 2 = PG 48758)",
+   "case": "Parkman's seven-part history is all on PG; none of it is held.",
+   "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+  },
+  "parkman-part-vi": {
+   "bloom_n": [
+    647
+   ],
+   "bloom_title": "France and England in North America",
+   "year": "unread",
+   "evidence": "catalogue",
+   "case": "Parkman's seven-part history is all on PG; none of it is held.",
+   "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+  },
+  "parkman-oregon-trail": {
+   "bloom_n": [
+    648
+   ],
+   "bloom_title": "The California and Oregon Trail",
+   "year": "unread",
+   "evidence": "PG header read",
+   "case": "The Oregon Trail (first issued as The California and Oregon Trail) is on PG; not held.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "parkman-part-i": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parkman-part-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parkman-part-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parkman-part-iv": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parkman-part-v": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parkman-part-vii-vol-1": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parkman-part-vi": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "parkman-oregon-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
