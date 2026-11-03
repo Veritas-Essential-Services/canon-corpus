@@ -1,0 +1,44 @@
+{
+ "_about": "John Greenleaf Whittier. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Greenleaf Whittier",
+ "_name_words": [
+  "john",
+  "greenleaf",
+  "whittier"
+ ],
+ "_surname": [
+  "whittier",
+  "john greenleaf whittier"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "whittier-works": [
+   9600,
+   "The Works of John Greenleaf Whittier, Complete"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "whittier-works": {
+   "bloom_n": [
+    613
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "unread",
+   "evidence": "PG text opens with the Standard Library Edition publishers' advertisement (Riverside, revised by Whittier); vols I-IV are the poems (also PG 9567, 9574, 9580, 9586 one volume each)",
+   "case": "The Riverside/Standard Library Edition is Whittier's own final arrangement of his poems; not held.",
+   "note": "If only the verse is wanted, take PG 9567, 9574, 9580 and 9586 (vols I-IV) instead of the complete 9600."
+  }
+ },
+ "_checks": {
+  "whittier-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "whittier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
