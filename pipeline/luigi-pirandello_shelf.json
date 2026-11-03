@@ -1,0 +1,50 @@
+{
+ "_about": "Luigi Pirandello. Bloom's Western Canon (1994) lists: Naked Masks: Five Plays. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Luigi Pirandello",
+ "_name_words": [
+  "luigi",
+  "pirandello"
+ ],
+ "_surname": [
+  "pirandello",
+  "luigi pirandello"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pirandello-each-his-own-way": [
+   "eachinhisownwayt0000pira",
+   "Each in His Own Way and Two Other Plays"
+  ]
+ },
+ "_translators": {
+  "pirandello-each-his-own-way": "Livingston"
+ },
+ "_bloom": {
+  "pirandello-each-his-own-way": {
+   "bloom_n": [
+    679
+   ],
+   "bloom_title": "Naked Masks: Five Plays",
+   "year": "1923 (title page: New York, E. P. Dutton; 'Copyright, 1923')",
+   "evidence": "djvu title page read; collection trent_university/internetarchivebooks",
+   "case": "Four of Naked Masks' five plays came out in English in 1922-23: Six Characters, Henry IV, It Is So (Right You Are) and Each in His Own Way.",
+   "note": "Liolà, the fifth, was first Englished in Bentley's 1952 Naked Masks (from knowledge), so it isn't PD. Already held: livingston: One-Act Plays and The Late Mattia Pascal."
+  }
+ },
+ "_checks": {
+  "pirandello-each-his-own-way": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "pirandello",
+   "translator_claimed": "Livingston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
