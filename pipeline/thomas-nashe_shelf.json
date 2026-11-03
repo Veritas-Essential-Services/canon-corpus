@@ -1,0 +1,43 @@
+{
+ "_about": "Thomas Nashe. Bloom's Western Canon (1994) lists: The Unfortunate Traveller. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Nashe",
+ "_name_words": [
+  "thomas",
+  "nashe"
+ ],
+ "_surname": [
+  "nashe",
+  "thomas nashe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nashe-vnfortunate-traveller": [
+   21338,
+   "The Vnfortunate Traveller, or The Life of Jack Wilton, with an essay ... by Edmund Gosse"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "nashe-vnfortunate-traveller": {
+   "bloom_n": [
+    162
+   ],
+   "bloom_title": "The Unfortunate Traveller",
+   "year": "unread (PG text shows 'London, printed and issued by Charles Whittingham & Co at the Chiswick Press'; Gosse's edition is 1892, not read)",
+   "evidence": "PG front matter read.",
+   "case": "Bloom lists the Unfortunate Traveller; PG 21338 is the Gosse/Chiswick edition.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "nashe-vnfortunate-traveller": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "nashe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
