@@ -1,0 +1,45 @@
+{
+ "_about": "Walter Savage Landor. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Walter Savage Landor",
+ "_name_words": [
+  "walter",
+  "savage",
+  "landor"
+ ],
+ "_surname": [
+  "landor",
+  "walter savage landor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "landor-imaginary-conversations-poems": [
+   21628,
+   "Imaginary Conversations and Poems: A Selection"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "landor-imaginary-conversations-poems": {
+   "bloom_n": [
+    428,
+    429
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "Read PG front matter: contents begin IMAGINARY CONVERSATIONS (Marcellus and Hannibal, ... Leofric and Godiva, Essex and Spenser); a poems section follows per the title.",
+   "case": "Bloom lists Landor's poems; nothing by Landor is held. The one PG selection covers both his poems and the Imaginary Conversations (entry 429).",
+   "note": "Edition not named in the opening of the PG file (it matches Everyman's 1914-era selection; not confirmed). PG 4007 has Gebir and Count Julian if more verse is wanted."
+  }
+ },
+ "_checks": {
+  "landor-imaginary-conversations-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "landor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
