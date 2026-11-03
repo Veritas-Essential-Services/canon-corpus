@@ -1,0 +1,43 @@
+{
+ "_about": "Miles Franklin. Bloom's Western Canon (1994) lists: My Brilliant Career. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Miles Franklin",
+ "_name_words": [
+  "miles",
+  "franklin"
+ ],
+ "_surname": [
+  "franklin",
+  "miles franklin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "franklin-my-brilliant-career": [
+   11620,
+   "My Brilliant Career"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "franklin-my-brilliant-career": {
+   "bloom_n": [
+    1225
+   ],
+   "bloom_title": "My Brilliant Career",
+   "year": "1901 (PG text heading)",
+   "evidence": "PG header + text heading 'by Miles Franklin 1901'; no copyright notice",
+   "case": "Bloom lists My Brilliant Career (1901). PG has a clean text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "franklin-my-brilliant-career": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "franklin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
