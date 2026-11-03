@@ -18,8 +18,11 @@ no-retellings rule all apply.
 |---|---|---|
 | keep | 8 | Zadig (Boswell 1910); Mandragola (Stark Young 1927); Sylvie (Lucie Page 1896); Laforgue's Six Moral Tales (Newman 1928); Novalis' Hymns and Thoughts on Religion (Hastie 1888); Boileau's Lutrin (1708); Boileau's Art of Poetry (Soame-Dryden, in Cook 1892); Salammbô (Sheldon 1886) |
 | Adam's call | 3 | Letters concerning the English Nation (1741, translator unnamed); Nana (Peterson 1880, "John Stirling"); The Assommoir (Vizetelly 1885, translator unnamed) |
-| hold | 4 | Bruno's Spaccio (1713, unnamed, unreadable title page); The Dybbuk (only a 1937 printing); Blok's The Twelve (no text layer); Flaubert's Three Tales (only a post-1936 printing) |
+| hold | 3 | Bruno's Spaccio (1713, unnamed, unreadable title page); Blok's The Twelve (no text layer); Flaubert's Three Tales (only a post-1936 printing) |
 | cut | 1 | Kemp's Love-Rogue (a free adaptation of Tirso) |
+| moved to Lane B | 1 | The Dybbuk: Lane B adds it on its own branch (it judges the 1937 printing a straight reprint of the 1926 text) |
+
+Lane B also owns the English-language Bloom gaps and the 20th-century foreign works not staged here. Lane C shelves none of those.
 
 ## 2. Already held, though Lane B's checklist missed them
 

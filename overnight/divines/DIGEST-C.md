@@ -2371,6 +2371,6 @@ Adam's usage-burn ask, under the Bloom-only, no-bloat ruling of 10/27. Nothing w
 **Open calls for Adam (lane C):**
 1. The 16 staged candidates: keep, cut or later for each.
 2. Unnamed translators: Voltaire's *Letters concerning the English Nation* (1741; the English came out first, attributed to Lockman) and Vizetelly's *Assommoir* (1885). Waive the named-translator rule for these, or not?
-3. Later printings of PD texts: *The Dybbuk* (1926 text, scan is a 1937 printing) and McDowall's *Three Tales* (1924 text, scan is a post-1936 printing). Is a later printing of a pre-1931 text acceptable?
+3. Later printings of PD texts: *The Dybbuk* (now moved to Lane B, which judges the 1937 printing a straight reprint) and McDowall's *Three Tales* (1924 text, scan is a post-1936 printing). Is a later printing of a pre-1931 text acceptable?
 4. Still open from before: the Muther joint credit.
 5. Ten held mn-dutt volumes. Under Bloom-only they would not be added even if found, so lane C proposes dropping the search unless you say otherwise.
