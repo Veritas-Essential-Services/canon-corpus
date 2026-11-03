@@ -28743,9 +28743,9 @@
     }
    },
    "scripture_links": {
-    "read": 1357,
-    "resolved": 1217,
-    "ranges": 44,
+    "read": 1354,
+    "resolved": 1213,
+    "ranges": 42,
     "ranges_start_only": 0
    },
    "greek": {
@@ -28756,7 +28756,7 @@
     "mixed_script_tokens": 180
    }
   },
-  "built_sha256": "e4a3fdee5f2a002efb673c7cbc9d10d496e5c1420e630a8cd3de892497515fe1"
+  "built_sha256": "c6f7b1e67d232714c8084ed0b4f7d60d83434c61524698091ba4acc994b57c84"
  },
  "lightfoot-philippians": {
   "title": "St Paul's Epistle to the Philippians",
@@ -28802,8 +28802,8 @@
     }
    },
    "scripture_links": {
-    "read": 1049,
-    "resolved": 867,
+    "read": 1047,
+    "resolved": 868,
     "ranges": 12,
     "ranges_start_only": 0
    },
@@ -28815,7 +28815,7 @@
     "mixed_script_tokens": 160
    }
   },
-  "built_sha256": "3339009e94a539fd882ad4963c621210dc405b21426840f684bcedaf2dd95e9c"
+  "built_sha256": "50c096a1c3926cbfdaa1fdff7d2e1af0b95ee16a7d1e20f099af77b7db6c7b3d"
  },
  "lightfoot-colossians": {
   "title": "St Paul's Epistles to the Colossians and to Philemon",
@@ -28924,8 +28924,8 @@
     }
    },
    "scripture_links": {
-    "read": 4332,
-    "resolved": 3845,
+    "read": 4334,
+    "resolved": 3843,
     "ranges": 24,
     "ranges_start_only": 1
    },
@@ -28937,7 +28937,7 @@
     "mixed_script_tokens": 197
    }
   },
-  "built_sha256": "26f4affd318f98ce9808d4bd9800990884825575a0a6ffaff3a73d097b33316a"
+  "built_sha256": "e1fe8c98b235cab5b69f4e290e51545aede0849c088d23bd267146024f52ee0d"
  },
  "westcott-john": {
   "title": "The Epistles of St John",
@@ -28994,8 +28994,8 @@
     }
    },
    "scripture_links": {
-    "read": 2876,
-    "resolved": 2581,
+    "read": 2881,
+    "resolved": 2577,
     "ranges": 15,
     "ranges_start_only": 1
    },
@@ -29007,7 +29007,7 @@
     "mixed_script_tokens": 116
    }
   },
-  "built_sha256": "dce61914e775396e505cbcd38545b2a818da85bd89469ad7060c183bfb08b355"
+  "built_sha256": "a3bc32d13e752c2eeb61fb7b03e4f10f533ea0948e06dcef5c8aabf55338b157"
  },
  "hort-ante-nicene": {
   "title": "Six Lectures on the Ante-Nicene Fathers",
@@ -29104,7 +29104,7 @@
    },
    "scripture_links": {
     "read": 3324,
-    "resolved": 2981,
+    "resolved": 2973,
     "ranges": 68,
     "ranges_start_only": 0
    },
@@ -29116,7 +29116,7 @@
     "mixed_script_tokens": 64
    }
   },
-  "built_sha256": "f346d5e26fad1438dabb4d6c1f0aff16c437bc5d406ffe599ab7a16c6bea33a0"
+  "built_sha256": "a5b787a38e132c13e25b2f6ee7541cb1c160bc032b152093dfd78200e62b9db8"
  },
  "lightfoot-horae": {
   "title": "Horae Hebraicae et Talmudicae",
@@ -29196,8 +29196,8 @@
     }
    },
    "scripture_links": {
-    "read": 2486,
-    "resolved": 1992,
+    "read": 2480,
+    "resolved": 1972,
     "ranges": 15,
     "ranges_start_only": 0
    },
@@ -29220,7 +29220,7 @@
     }
    }
   },
-  "built_sha256": "64b52d4936b88bd05925b00589af6360b1f78d58e3a318d638179542e6ab1b33"
+  "built_sha256": "0a3cbec6114d4080eb14ea87e85e17970b5786035947e046785d92fa03764808"
  },
  "ellicott-galatians": {
   "title": "St Paul's Epistle to the Galatians",
@@ -29268,7 +29268,7 @@
    },
    "scripture_links": {
     "read": 1050,
-    "resolved": 932,
+    "resolved": 931,
     "ranges": 5,
     "ranges_start_only": 1
    },
@@ -29280,7 +29280,7 @@
     "mixed_script_tokens": 71
    }
   },
-  "built_sha256": "976a5a279ed2b6fe621fbba71ccda8d2c5f5a83169e1813751db9a277739bd8c"
+  "built_sha256": "3ff23723a2fcf4f5432da3bf04db1df0998106c6c522188943fd6a202a0373d1"
  },
  "ellicott-ephesians": {
   "title": "St Paul's Epistle to the Ephesians",
@@ -29329,7 +29329,7 @@
    },
    "scripture_links": {
     "read": 1256,
-    "resolved": 1119,
+    "resolved": 1118,
     "ranges": 5,
     "ranges_start_only": 2
    },
@@ -29341,7 +29341,7 @@
     "mixed_script_tokens": 79
    }
   },
-  "built_sha256": "f0438f1edd7e590cc6c1de681e30a5a7d1ba040ec73aa7510e5204944ab0f2dd"
+  "built_sha256": "9a207ee1d4e9d4218242eff97e682363e6d74df35e8bf211f86f5b32b5f030e1"
  },
  "ellicott-philippians": {
   "title": "St Paul's Epistles to the Philippians, the Colossians, and Philemon",
@@ -29400,8 +29400,8 @@
     }
    },
    "scripture_links": {
-    "read": 1743,
-    "resolved": 1515,
+    "read": 1740,
+    "resolved": 1512,
     "ranges": 6,
     "ranges_start_only": 0
    },
@@ -29413,7 +29413,7 @@
     "mixed_script_tokens": 61
    }
   },
-  "built_sha256": "e1316e1bb082a83b7780d68a0c8280a997f8d85f7b5064f83ba069198965f921"
+  "built_sha256": "e7055d95baed51c291ad8a39ac0d73f666f34602092625e78b1d2957c41e01d0"
  },
  "ellicott-thessalonians": {
   "title": "St Paul's Epistles to the Thessalonians",
@@ -29469,7 +29469,7 @@
    },
    "scripture_links": {
     "read": 1211,
-    "resolved": 1092,
+    "resolved": 1087,
     "ranges": 3,
     "ranges_start_only": 0
    },
@@ -29481,7 +29481,7 @@
     "mixed_script_tokens": 68
    }
   },
-  "built_sha256": "c376a9ccd7d11d9b446f41683f6b2e10199c5dc20e45dea5c208fd79b61fa66d"
+  "built_sha256": "3de053cd263385d7b3d361ac1f71a8ed94f5496e9a1a7387e1dafd05ad82fcfc"
  },
  "ellicott-pastorals": {
   "title": "The Pastoral Epistles of St Paul",
@@ -29541,8 +29541,8 @@
     }
    },
    "scripture_links": {
-    "read": 1828,
-    "resolved": 1565,
+    "read": 1827,
+    "resolved": 1560,
     "ranges": 10,
     "ranges_start_only": 0
    },
@@ -29554,7 +29554,7 @@
     "mixed_script_tokens": 137
    }
   },
-  "built_sha256": "8d2af21343517777f494468bf2144e503ae601ace1ec18001393581767ff9561"
+  "built_sha256": "ee1a74fb28f2082a44a226418d0fb6d66a34e7345cb5e5e4ae956278d27a1ca3"
  },
  "alford-commentary-2": {
   "title": "The Greek Testament, vol. II",
@@ -29621,9 +29621,9 @@
     }
    },
    "scripture_links": {
-    "read": 8982,
-    "resolved": 7712,
-    "ranges": 157,
+    "read": 8984,
+    "resolved": 7779,
+    "ranges": 156,
     "ranges_start_only": 3
    },
    "greek": {
@@ -29638,7 +29638,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "bfed4faaae29af89b511ee4ef12e97e6d959302b66c0afaec063a8bab51081b3"
+  "built_sha256": "67216b76df188c103d19315ae30012213941ff7c98af33e7e0d8021c1920c487"
  },
  "alford-commentary-3": {
   "title": "The Greek Testament, vol. III",
@@ -29739,9 +29739,9 @@
     }
    },
    "scripture_links": {
-    "read": 8367,
-    "resolved": 7129,
-    "ranges": 101,
+    "read": 8345,
+    "resolved": 7124,
+    "ranges": 100,
     "ranges_start_only": 7
    },
    "greek": {
@@ -29756,7 +29756,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "210ad678a9783f13f30d8cd17f1872f3afd1714d998befcff33a2fa669367cdf"
+  "built_sha256": "251609b55724616a5204addc362504daeb8be2c9c257d6cc001bbd19000d3e2d"
  },
  "alford-commentary-4": {
   "title": "The Greek Testament, vol. IV",
@@ -29843,9 +29843,9 @@
     }
    },
    "scripture_links": {
-    "read": 9611,
-    "resolved": 8085,
-    "ranges": 168,
+    "read": 9600,
+    "resolved": 8068,
+    "ranges": 160,
     "ranges_start_only": 3
    },
    "greek": {
@@ -29860,7 +29860,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "3c5a9af272b9b9ff294a5c21741365f1a334e70054f3c9284219f63460803c4b"
+  "built_sha256": "ca3d54664ae42d1097e2c5307badd33ceb0efc79cda898ee9c01188c472f9d01"
  },
  "bengel-gnomon-2": {
   "title": "Gnomon of the New Testament, vol. II",
@@ -29915,8 +29915,8 @@
     }
    },
    "scripture_links": {
-    "read": 4972,
-    "resolved": 4573,
+    "read": 4969,
+    "resolved": 4535,
     "ranges": 45,
     "ranges_start_only": 3
    },
@@ -29932,7 +29932,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "05b277250d6c16f5609d88d0b522093ab765332bd33a3aa30856e1a267656fa0"
+  "built_sha256": "713268953b288e0a2f40c0f08c3afbaef54a1efc193825decdda89bda7c7e7d9"
  },
  "bengel-gnomon-3": {
   "title": "Gnomon of the New Testament, vol. III",
@@ -29987,9 +29987,9 @@
     }
    },
    "scripture_links": {
-    "read": 3125,
-    "resolved": 2878,
-    "ranges": 33,
+    "read": 3126,
+    "resolved": 2863,
+    "ranges": 32,
     "ranges_start_only": 1
    },
    "greek": {
@@ -30004,7 +30004,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "e28305f82edf72315e8dd0d8d7e9a37a6123a96690d095fababfb3daa90f88f1"
+  "built_sha256": "5cacf08139bd913a6aecb257699bfb5b2c50fa33366e339b960298d7abf121b5"
  },
  "bengel-gnomon-4": {
   "title": "Gnomon of the New Testament, vol. IV",
@@ -30099,8 +30099,8 @@
     }
    },
    "scripture_links": {
-    "read": 3933,
-    "resolved": 3651,
+    "read": 3932,
+    "resolved": 3637,
     "ranges": 38,
     "ranges_start_only": 2
    },
@@ -30116,7 +30116,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "fcd713c0326eabb65b02420e51e0cb30d700182f4b58784e7264daf7087afa28"
+  "built_sha256": "f3d654e15cf40794444d326795a66a7e1a9c3e7acdfcabc024209c6f2c355458"
  },
  "keil-delitzsch-pentateuch-1": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. I",
@@ -30174,9 +30174,9 @@
     }
    },
    "scripture_links": {
-    "read": 2320,
-    "resolved": 2198,
-    "ranges": 80,
+    "read": 2352,
+    "resolved": 2248,
+    "ranges": 82,
     "ranges_start_only": 1
    },
    "numbering_own": {
@@ -30201,7 +30201,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 1206,
+     "read": 1251,
      "only_hebrew": 1,
      "only_kjv": 2,
      "decision": "undecided"
@@ -30540,7 +30540,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "2715755ccde4e85b60a7b0a200e2ea80c2ef38fa97cf72c3b2d618cc8b85cb12"
+  "built_sha256": "30df3fb84c8a98ff8c64d9ea46bde67b4f20a6dfae839979f3df5464ccafb9e3"
  },
  "keil-delitzsch-pentateuch-2": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. II",
@@ -30598,9 +30598,9 @@
     }
    },
    "scripture_links": {
-    "read": 3440,
-    "resolved": 3284,
-    "ranges": 212,
+    "read": 3493,
+    "resolved": 3368,
+    "ranges": 215,
     "ranges_start_only": 6
    },
    "numbering_own": {
@@ -30619,13 +30619,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 62,
+     "read": 65,
      "only_hebrew": 1,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 1790,
+     "read": 1865,
      "only_hebrew": 4,
      "only_kjv": 3,
      "decision": "undecided"
@@ -30948,7 +30948,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "48e940e2d0958a774464c65faa01048234d0f6bad6020968fced980e92d2a663"
+  "built_sha256": "24493e4e0264d9bef24947ead8ed51f0703f330af1e8eec1dc27bc7ce2e37767"
  },
  "keil-delitzsch-pentateuch-3": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. III",
@@ -31006,9 +31006,9 @@
     }
    },
    "scripture_links": {
-    "read": 4277,
-    "resolved": 4085,
-    "ranges": 317,
+    "read": 4340,
+    "resolved": 4175,
+    "ranges": 318,
     "ranges_start_only": 8
    },
    "numbering_own": {
@@ -31027,14 +31027,14 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 83,
+     "read": 86,
      "only_hebrew": 2,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 2409,
-     "only_hebrew": 8,
+     "read": 2490,
+     "only_hebrew": 7,
      "only_kjv": 0,
      "decision": "hebrew"
     }
@@ -31082,7 +31082,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "52627fa80dd474d99b14d7790b05045d1500b17717df0434570f5f4101d02830"
+  "built_sha256": "f1a3b4036809fda413cf4c4dfe46f4f390b455da216d3c0560e04ce4cde89679"
  },
  "delitzsch-psalms-1": {
   "title": "Biblical Commentary on the Psalms, vol. I",
@@ -31136,9 +31136,9 @@
     }
    },
    "scripture_links": {
-    "read": 1995,
-    "resolved": 1842,
-    "ranges": 47,
+    "read": 1997,
+    "resolved": 1848,
+    "ranges": 44,
     "ranges_start_only": 0
    },
    "numbering_own": {
@@ -31157,7 +31157,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 1384,
+     "read": 1389,
      "only_hebrew": 5,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -31188,7 +31188,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "e646d3cd485488ad1d9c3aed479319afb6e7e7601037f8faba945171957b6b00"
+  "built_sha256": "766c61560024e9b1ff4b80211af0e3727bcff114879a94083d4db189874667e1"
  },
  "delitzsch-psalms-2": {
   "title": "Biblical Commentary on the Psalms, vol. II",
@@ -31242,8 +31242,8 @@
     }
    },
    "scripture_links": {
-    "read": 2333,
-    "resolved": 2187,
+    "read": 2334,
+    "resolved": 2194,
     "ranges": 66,
     "ranges_start_only": 0
    },
@@ -31263,7 +31263,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 1640,
+     "read": 1645,
      "only_hebrew": 9,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -31294,7 +31294,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "98cc0c76a04ec52127294d2a2d2b2f3298fda1773e9619479d711a62eda233e0"
+  "built_sha256": "dff03722d1dd27cc0d237705bda06e5cefb54fc56ec39eb6b187ecd33878a1f1"
  },
  "delitzsch-psalms-3": {
   "title": "Biblical Commentary on the Psalms, vol. III",
@@ -31349,7 +31349,7 @@
    },
    "scripture_links": {
     "read": 2692,
-    "resolved": 2509,
+    "resolved": 2519,
     "ranges": 83,
     "ranges_start_only": 1
    },
@@ -31363,13 +31363,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 53,
+     "read": 54,
      "only_hebrew": 0,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 1777,
+     "read": 1784,
      "only_hebrew": 9,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -31400,7 +31400,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "7d57cb39790c1257e9a8da85aa770e6218c98bc681627b111aeb661a1069dd1a"
+  "built_sha256": "0801d9f2f13a094dc3b86f5c456c25495e3e541328e91a461a9ca74666d0a042"
  },
  "meyer-matthew-1": {
   "title": "Critical and Exegetical Handbook to the Gospel of Matthew, vol. I",
@@ -31456,7 +31456,7 @@
     }
    },
    "scripture_links": {
-    "read": 2838,
+    "read": 2836,
     "resolved": 2565,
     "ranges": 59,
     "ranges_start_only": 2
@@ -31473,7 +31473,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "234a4469cbdb4fc1b5b361346dafb6cba1623f30e9e48549f39660636d3444c1"
+  "built_sha256": "d29c886db933c6cf5db64f9aafd764677fa4d42d99f1760a17fbc4dd7140d3c7"
  },
  "meyer-matthew-2": {
   "title": "Critical and Exegetical Handbook to the Gospel of Matthew, vol. II",
@@ -31530,9 +31530,9 @@
     }
    },
    "scripture_links": {
-    "read": 1785,
+    "read": 1782,
     "resolved": 1587,
-    "ranges": 46,
+    "ranges": 44,
     "ranges_start_only": 0
    },
    "greek": {
@@ -31547,7 +31547,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "912fd47e56b6e670060dafacb3901c9abd5abe5262369bcf0e7077f3a6b1a010"
+  "built_sha256": "47272d06f61a06317c45b6444e2f24be1ffbb5414d64626e6ca6afe2ad465114"
  },
  "meyer-mark-luke-1": {
   "title": "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. I",
@@ -31607,8 +31607,8 @@
     }
    },
    "scripture_links": {
-    "read": 2217,
-    "resolved": 1976,
+    "read": 2216,
+    "resolved": 1977,
     "ranges": 158,
     "ranges_start_only": 2
    },
@@ -31624,7 +31624,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "806d4b99e21f205b28630362fd98abd04580753bddee70937b3917eaec46379b"
+  "built_sha256": "c5e713e00e9042ff5667b8a93c6e90fcf199b9d76318a15db31d485ea2504122"
  },
  "meyer-mark-luke-2": {
   "title": "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. II",
@@ -31681,7 +31681,7 @@
     }
    },
    "scripture_links": {
-    "read": 2575,
+    "read": 2572,
     "resolved": 2288,
     "ranges": 148,
     "ranges_start_only": 2
@@ -31698,7 +31698,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "e8de4be1bb5b0302a47935a291ad10a14bd631927b67a1e7a1763220be00a084"
+  "built_sha256": "4c125eec55ff280292e28a2e33403a4fcc3514d931360de2135b6a62010cb419"
  },
  "meyer-john": {
   "title": "Critical and Exegetical Hand-book to the Gospel of John",
@@ -31755,7 +31755,7 @@
    },
    "scripture_links": {
     "read": 4188,
-    "resolved": 3685,
+    "resolved": 3686,
     "ranges": 94,
     "ranges_start_only": 1
    },
@@ -31771,7 +31771,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "f6a0026b5370e2eab3ff0e77c42caafd886bba70f7e55d5875fa60d48923102a"
+  "built_sha256": "d92d56408634506558e08b9b7ee8734d1c28c401f88aa8d14fc7a0435146db09"
  },
  "meyer-romans": {
   "title": "Critical and Exegetical Hand-book to the Epistle to the Romans",
@@ -31824,7 +31824,7 @@
     }
    },
    "scripture_links": {
-    "read": 4975,
+    "read": 4972,
     "resolved": 4365,
     "ranges": 145,
     "ranges_start_only": 5
@@ -31841,7 +31841,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "7c2be49f62de2a93cb1e3d976e3e773a769da04e3ec76da4747c85a05e6bf68a"
+  "built_sha256": "bfdcb04004c829b639e7b340729999685b3a8a165307f768f21a515ffa80e5ba"
  },
  "keil-delitzsch-joshua-judges-ruth": {
   "title": "Biblical Commentary on the Old Testament: Joshua, Judges, Ruth",
@@ -31902,10 +31902,10 @@
     }
    },
    "scripture_links": {
-    "read": 3730,
-    "resolved": 3541,
-    "ranges": 168,
-    "ranges_start_only": 10
+    "read": 3774,
+    "resolved": 3666,
+    "ranges": 169,
+    "ranges_start_only": 9
    },
    "numbering_own": {
     "Josh": {
@@ -31935,205 +31935,13 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 2174,
-     "only_hebrew": 8,
-     "only_kjv": 12,
-     "decision": "undecided"
+     "read": 2255,
+     "only_hebrew": 7,
+     "only_kjv": 20,
+     "decision": "kjv"
     }
    },
    "numbering_work": {
-    "1Chr": {
-     "read": 523,
-     "only_hebrew": 8,
-     "only_kjv": 0,
-     "decision": "hebrew",
-     "volumes": [
-      "keil-delitzsch-chronicles"
-     ]
-    },
-    "1Kgs": {
-     "read": 598,
-     "only_hebrew": 0,
-     "only_kjv": 13,
-     "decision": "kjv",
-     "volumes": [
-      "keil-delitzsch-kings"
-     ]
-    },
-    "1Sam": {
-     "read": 572,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-samuel"
-     ]
-    },
-    "2Chr": {
-     "read": 425,
-     "only_hebrew": 1,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-chronicles"
-     ]
-    },
-    "2Kgs": {
-     "read": 444,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-kings"
-     ]
-    },
-    "2Sam": {
-     "read": 431,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-samuel"
-     ]
-    },
-    "Amos": {
-     "read": 179,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-1"
-     ]
-    },
-    "Dan": {
-     "read": 512,
-     "only_hebrew": 11,
-     "only_kjv": 0,
-     "decision": "hebrew",
-     "volumes": [
-      "keil-delitzsch-daniel"
-     ]
-    },
-    "Deut": {
-     "read": 454,
-     "only_hebrew": 1,
-     "only_kjv": 1,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-pentateuch-3"
-     ]
-    },
-    "Eccl": {
-     "read": 0,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": []
-    },
-    "Exod": {
-     "read": 633,
-     "only_hebrew": 0,
-     "only_kjv": 5,
-     "decision": "kjv",
-     "volumes": [
-      "keil-delitzsch-pentateuch-1",
-      "keil-delitzsch-pentateuch-2"
-     ]
-    },
-    "Ezek": {
-     "read": 1559,
-     "only_hebrew": 0,
-     "only_kjv": 3,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-ezekiel-1",
-      "keil-delitzsch-ezekiel-2"
-     ]
-    },
-    "Ezra": {
-     "read": 237,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-ezra-nehemiah-esther"
-     ]
-    },
-    "Gen": {
-     "read": 693,
-     "only_hebrew": 3,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-pentateuch-1"
-     ]
-    },
-    "Hab": {
-     "read": 115,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-2"
-     ]
-    },
-    "Hag": {
-     "read": 66,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-2"
-     ]
-    },
-    "Hos": {
-     "read": 234,
-     "only_hebrew": 0,
-     "only_kjv": 8,
-     "decision": "kjv",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-1"
-     ]
-    },
-    "Isa": {
-     "read": 1221,
-     "only_hebrew": 3,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "delitzsch-isaiah-1",
-      "delitzsch-isaiah-2"
-     ]
-    },
-    "Jer": {
-     "read": 1542,
-     "only_hebrew": 5,
-     "only_kjv": 0,
-     "decision": "hebrew",
-     "volumes": [
-      "keil-delitzsch-jeremiah-1",
-      "keil-delitzsch-jeremiah-2"
-     ]
-    },
-    "Job": {
-     "read": 1139,
-     "only_hebrew": 7,
-     "only_kjv": 0,
-     "decision": "hebrew",
-     "volumes": [
-      "delitzsch-job-1",
-      "delitzsch-job-2"
-     ]
-    },
-    "Joel": {
-     "read": 90,
-     "only_hebrew": 0,
-     "only_kjv": 29,
-     "decision": "kjv",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-1"
-     ]
-    },
     "Josh": {
      "read": 483,
      "only_hebrew": 0,
@@ -32150,70 +31958,6 @@
      "decision": "undecided",
      "volumes": [
       "keil-delitzsch-joshua-judges-ruth"
-     ]
-    },
-    "Lev": {
-     "read": 407,
-     "only_hebrew": 2,
-     "only_kjv": 5,
-     "decision": "kjv",
-     "volumes": [
-      "keil-delitzsch-pentateuch-2"
-     ]
-    },
-    "Mic": {
-     "read": 162,
-     "only_hebrew": 0,
-     "only_kjv": 4,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-1"
-     ]
-    },
-    "Nah": {
-     "read": 63,
-     "only_hebrew": 3,
-     "only_kjv": 1,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-2"
-     ]
-    },
-    "Neh": {
-     "read": 263,
-     "only_hebrew": 6,
-     "only_kjv": 0,
-     "decision": "hebrew",
-     "volumes": [
-      "keil-delitzsch-ezra-nehemiah-esther"
-     ]
-    },
-    "Num": {
-     "read": 526,
-     "only_hebrew": 0,
-     "only_kjv": 4,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-pentateuch-3"
-     ]
-    },
-    "Obad": {
-     "read": 56,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-1"
-     ]
-    },
-    "Prov": {
-     "read": 1320,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "delitzsch-proverbs-1",
-      "delitzsch-proverbs-2"
      ]
     },
     "Ps": {
@@ -32235,24 +31979,6 @@
      "volumes": [
       "keil-delitzsch-joshua-judges-ruth"
      ]
-    },
-    "Zech": {
-     "read": 295,
-     "only_hebrew": 0,
-     "only_kjv": 2,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-2"
-     ]
-    },
-    "Zeph": {
-     "read": 88,
-     "only_hebrew": 0,
-     "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": [
-      "keil-delitzsch-minor-prophets-2"
-     ]
     }
    },
    "greek": {
@@ -32267,7 +31993,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "3235617ef361346aaf1b3bc3d75ff6b4a108e794500b30d1873fb82bf66d9357"
+  "built_sha256": "0a2018904edd12ca80d89ffec6a955753b7f14a7881cad1bb787afde933d5273"
  },
  "keil-delitzsch-samuel": {
   "title": "Biblical Commentary on the Books of Samuel",
@@ -32322,9 +32048,9 @@
     }
    },
    "scripture_links": {
-    "read": 2735,
-    "resolved": 2594,
-    "ranges": 130,
+    "read": 2750,
+    "resolved": 2620,
+    "ranges": 131,
     "ranges_start_only": 13
    },
    "numbering_own": {
@@ -32349,7 +32075,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 1416,
+     "read": 1444,
      "only_hebrew": 11,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -32398,7 +32124,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "f13aec17cdad8b6ff8e30eeb5e67c7aa8d536a22608bb7799ec0c7a112a69f40"
+  "built_sha256": "cb84e3a5bfde84dac8d08ed7cc1c17cc4a77469f9670a82b214c22f0e09eb0fc"
  },
  "keil-delitzsch-kings": {
   "title": "Biblical Commentary on the Books of the Kings",
@@ -32453,10 +32179,10 @@
     }
    },
    "scripture_links": {
-    "read": 3465,
-    "resolved": 3257,
-    "ranges": 203,
-    "ranges_start_only": 8
+    "read": 3507,
+    "resolved": 3334,
+    "ranges": 204,
+    "ranges_start_only": 7
    },
    "numbering_own": {
     "1Kgs": {
@@ -32480,7 +32206,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 2059,
+     "read": 2132,
      "only_hebrew": 14,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -32520,7 +32246,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "51b9c4bac993eed2308402aa5355995e30cf21860051931d76d3f2d0db4bbb47"
+  "built_sha256": "d2d657124e7d5ba2b7640de205e9afd9c995e4b8b29e423164d5a5e1784f4c5d"
  },
  "keil-delitzsch-chronicles": {
   "title": "Biblical Commentary on the Books of the Chronicles",
@@ -32576,9 +32302,9 @@
     }
    },
    "scripture_links": {
-    "read": 4160,
-    "resolved": 3829,
-    "ranges": 485,
+    "read": 4246,
+    "resolved": 3944,
+    "ranges": 491,
     "ranges_start_only": 13
    },
    "numbering_own": {
@@ -32597,13 +32323,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 67,
+     "read": 70,
      "only_hebrew": 1,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 2567,
+     "read": 2676,
      "only_hebrew": 24,
      "only_kjv": 2,
      "decision": "hebrew"
@@ -32643,7 +32369,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "53318ea2c278f4814e06aaad30cf97c0562c243f4a5fe0e49abc9ae71149d1e8"
+  "built_sha256": "a1dcb2b52011771257402c8907d5eb40b45a0c7074c62dd919ef1a9cf8de898e"
  },
  "keil-delitzsch-ezra-nehemiah-esther": {
   "title": "Biblical Commentary on the Books of Ezra, Nehemiah, and Esther",
@@ -32705,9 +32431,9 @@
     }
    },
    "scripture_links": {
-    "read": 1811,
-    "resolved": 1697,
-    "ranges": 122,
+    "read": 1820,
+    "resolved": 1725,
+    "ranges": 120,
     "ranges_start_only": 14
    },
    "numbering_own": {
@@ -32732,15 +32458,15 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 28,
+     "read": 27,
      "only_hebrew": 0,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 1112,
+     "read": 1138,
      "only_hebrew": 6,
-     "only_kjv": 2,
+     "only_kjv": 1,
      "decision": "hebrew"
     }
    },
@@ -32787,7 +32513,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "d5ee5711ed5efebdc45193016f7fe158781e14884484a14e757dcb98847314d3"
+  "built_sha256": "a45c65d1cb1bf83d5c84589e1854f526c7651cb9daee8323323808806d70de49"
  },
  "keil-delitzsch-jeremiah-1": {
   "title": "Biblical Commentary on the Prophecies of Jeremiah, vol. I",
@@ -32843,8 +32569,8 @@
     }
    },
    "scripture_links": {
-    "read": 2405,
-    "resolved": 2334,
+    "read": 2414,
+    "resolved": 2352,
     "ranges": 183,
     "ranges_start_only": 5
    },
@@ -32858,13 +32584,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 169,
+     "read": 170,
      "only_hebrew": 3,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 1474,
+     "read": 1491,
      "only_hebrew": 10,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -32895,7 +32621,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "c767c4517bbdd4b952932fe8927a20dce3de178b70b5571377219ffc86f6b799"
+  "built_sha256": "70b6ef5fe8ce25cf959614e8abfdc2bf3f57dec619aa29a993de6a33918558d5"
  },
  "keil-delitzsch-jeremiah-2": {
   "title": "Biblical Commentary on the Prophecies of Jeremiah, vol. II",
@@ -32957,8 +32683,8 @@
     }
    },
    "scripture_links": {
-    "read": 2535,
-    "resolved": 2429,
+    "read": 2558,
+    "resolved": 2463,
     "ranges": 164,
     "ranges_start_only": 10
    },
@@ -32978,14 +32704,14 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 168,
+     "read": 172,
      "only_hebrew": 4,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 1530,
-     "only_hebrew": 10,
+     "read": 1559,
+     "only_hebrew": 11,
      "only_kjv": 0,
      "decision": "hebrew"
     }
@@ -33034,7 +32760,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "1bc76e74763ee67ff84757fe76caa55d2127eaa099007104cdc081eaccacc2fe"
+  "built_sha256": "b1c8d2599a1c75b12e2cfbb70f0b0a2307cdf8b597b02aabf5f1bafe4c45492b"
  },
  "keil-delitzsch-ezekiel-1": {
   "title": "Biblical Commentary on the Prophecies of Ezekiel, vol. I",
@@ -33090,8 +32816,8 @@
     }
    },
    "scripture_links": {
-    "read": 2202,
-    "resolved": 2038,
+    "read": 2210,
+    "resolved": 2054,
     "ranges": 151,
     "ranges_start_only": 11
    },
@@ -33111,7 +32837,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 994,
+     "read": 1010,
      "only_hebrew": 6,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -33152,7 +32878,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "e278b6d345c4f40dcddf18989b56da6993402233568b659714266880bf2e57ae"
+  "built_sha256": "c58b98f6afe2c37859c99143d1c1ad0d6fee1247a4b178c6a5665068d9cf09f4"
  },
  "keil-delitzsch-ezekiel-2": {
   "title": "Biblical Commentary on the Prophecies of Ezekiel, vol. II",
@@ -33208,9 +32934,9 @@
     }
    },
    "scripture_links": {
-    "read": 2016,
-    "resolved": 1893,
-    "ranges": 198,
+    "read": 2030,
+    "resolved": 1925,
+    "ranges": 196,
     "ranges_start_only": 5
    },
    "numbering_own": {
@@ -33223,13 +32949,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 23,
+     "read": 24,
      "only_hebrew": 1,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 743,
+     "read": 761,
      "only_hebrew": 9,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -33270,7 +32996,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "db95827bdff1ec894f5eee036dcb9d444d772bc2c1f0b48dcd175a82c5cca82a"
+  "built_sha256": "abe6484d921c4a5d7fe908505957313590ecd884d670e207695f34a37c328359"
  },
  "keil-delitzsch-daniel": {
   "title": "Biblical Commentary on the Book of Daniel",
@@ -33319,9 +33045,9 @@
     }
    },
    "scripture_links": {
-    "read": 2329,
-    "resolved": 2177,
-    "ranges": 121,
+    "read": 2369,
+    "resolved": 2246,
+    "ranges": 123,
     "ranges_start_only": 7
    },
    "numbering_own": {
@@ -33334,14 +33060,14 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 66,
-     "only_hebrew": 1,
+     "read": 67,
+     "only_hebrew": 2,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 1067,
-     "only_hebrew": 8,
+     "read": 1121,
+     "only_hebrew": 10,
      "only_kjv": 0,
      "decision": "hebrew"
     }
@@ -33371,7 +33097,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "e733507a2e0e06dd83a1ebc9db2d897a628be6507213b6a60abb76fa9a53b7ba"
+  "built_sha256": "00ef0d5b3aa9537cdee9722aa751ac14fe24ba8db8c5df65bb784b04f1aa0e1b"
  },
  "keil-delitzsch-minor-prophets-1": {
   "title": "Biblical Commentary on the Twelve Minor Prophets, vol. I",
@@ -33451,9 +33177,9 @@
     }
    },
    "scripture_links": {
-    "read": 3406,
-    "resolved": 3117,
-    "ranges": 193,
+    "read": 3426,
+    "resolved": 3157,
+    "ranges": 192,
     "ranges_start_only": 5
    },
    "numbering_own": {
@@ -33502,7 +33228,7 @@
      "decision": "hebrew"
     },
     "other": {
-     "read": 2091,
+     "read": 2125,
      "only_hebrew": 16,
      "only_kjv": 28,
      "decision": "undecided"
@@ -33859,7 +33585,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "8e3bd667c5b7fd61c8dd61509ff463490fab26cd6e7fbd343fa67cabc0dea6db"
+  "built_sha256": "b3e4bd6727ee97bd1e060ce338193a1e3a84fcc1e7fbf157adc683023262ceae"
  },
  "keil-delitzsch-minor-prophets-2": {
   "title": "Biblical Commentary on the Twelve Minor Prophets, vol. II",
@@ -33938,9 +33664,9 @@
     }
    },
    "scripture_links": {
-    "read": 2984,
-    "resolved": 2759,
-    "ranges": 146,
+    "read": 3010,
+    "resolved": 2804,
+    "ranges": 149,
     "ranges_start_only": 7
    },
    "numbering_own": {
@@ -33983,13 +33709,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 104,
+     "read": 106,
      "only_hebrew": 1,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 1949,
+     "read": 1994,
      "only_hebrew": 12,
      "only_kjv": 5,
      "decision": "hebrew"
@@ -34065,7 +33791,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "aa40891fc245261a0924361b2a0f4a3daf7b51bbe6c5956fd691f6e1a4169801"
+  "built_sha256": "42119cd50b929e0208f9bc719e2f2a2200ab9bc1e1d8c395f5dad5efd0394915"
  },
  "meyer-acts-1": {
   "title": "Critical and Exegetical Handbook to the Acts of the Apostles, vol. I",
@@ -34118,7 +33844,7 @@
     }
    },
    "scripture_links": {
-    "read": 2038,
+    "read": 2037,
     "resolved": 1831,
     "ranges": 40,
     "ranges_start_only": 0
@@ -34135,7 +33861,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "1092a7689d3a363ab01fc6cbf374c3b24e33d46a176cd6134b0a6bfad7326fb9"
+  "built_sha256": "aa1e531aa72ce05aec3e3c728d53ccf61038f25067cb46b4d06fd11b1625937b"
  },
  "meyer-acts-2": {
   "title": "Critical and Exegetical Handbook to the Acts of the Apostles, vol. II",
@@ -34263,7 +33989,7 @@
     }
    },
    "scripture_links": {
-    "read": 2706,
+    "read": 2703,
     "resolved": 2390,
     "ranges": 79,
     "ranges_start_only": 1
@@ -34280,7 +34006,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "b342943649a33b70c2df9d9ae3f95896e53309f8d039113d6e68368fb51ea062"
+  "built_sha256": "896005627fca9572ee6a8aa105c4e9038c8bc764641be96a7be385dcd38b6741"
  },
  "meyer-corinthians-2": {
   "title": "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. II",
@@ -34342,7 +34068,7 @@
     }
    },
    "scripture_links": {
-    "read": 3434,
+    "read": 3431,
     "resolved": 3011,
     "ranges": 76,
     "ranges_start_only": 0
@@ -34359,7 +34085,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "5358dcbd2136c4dad21242b8863000762914853a3a4479d417dd9bdcf61c53de"
+  "built_sha256": "79993dc0ef21692abb940fb585dd6b1719ba418ad7740239a3354dfd7c62b237"
  },
  "meyer-galatians": {
   "title": "Critical and Exegetical Handbook to the Epistle to the Galatians",
@@ -34410,7 +34136,7 @@
     }
    },
    "scripture_links": {
-    "read": 2453,
+    "read": 2451,
     "resolved": 2168,
     "ranges": 46,
     "ranges_start_only": 0
@@ -34427,7 +34153,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "0639ee6a5c4461b1076cd77d5e2abaff634dbd208c626561a7e0c342002c6224"
+  "built_sha256": "ac05515bc37003794e06d31aedf086bef590ec7476cb78290c1ce641cf3f9de5"
  },
  "meyer-ephesians-philemon": {
   "title": "Critical and Exegetical Handbook to the Epistles to the Ephesians and to Philemon",
@@ -34481,8 +34207,8 @@
     }
    },
    "scripture_links": {
-    "read": 2639,
-    "resolved": 2382,
+    "read": 2638,
+    "resolved": 2381,
     "ranges": 52,
     "ranges_start_only": 0
    },
@@ -34498,7 +34224,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "2e7046845065335f0193de924c6cb801a0240b44851020996ca5f6b7b3fa818c"
+  "built_sha256": "84ea975ea1ebf0f0f1fe13488b5095f04269f0b0c1a9933af06be5b5c5166ed2"
  },
  "meyer-philippians-colossians": {
   "title": "Critical and Exegetical Handbook to the Epistles to the Philippians and Colossians",
@@ -34554,7 +34280,7 @@
     }
    },
    "scripture_links": {
-    "read": 3459,
+    "read": 3457,
     "resolved": 2990,
     "ranges": 56,
     "ranges_start_only": 1
@@ -34571,7 +34297,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "d9f482e2d0a79382c0287b105987fa21c729b6e3db133d6ab5ba9f22502f42c8"
+  "built_sha256": "7f972223a8dc91b795ceac6891f83b1a2ad9c4270f65b4eaba1408c4ee56ae5e"
  },
  "huther-pastorals": {
   "title": "Critical and Exegetical Handbook to the Epistles of St. Paul to Timothy and Titus",
@@ -34631,9 +34357,9 @@
     }
    },
    "scripture_links": {
-    "read": 2070,
-    "resolved": 1843,
-    "ranges": 33,
+    "read": 2063,
+    "resolved": 1841,
+    "ranges": 31,
     "ranges_start_only": 1
    },
    "greek": {
@@ -34648,7 +34374,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "be4ae2468c34d0badbb18f40785a32676a9488b99992e259777cfa8bd9da26f2"
+  "built_sha256": "f58adc2b5e6ee55ed7c39194b45172b5cedeca601214e98c5ab543055bab2147"
  },
  "lunemann-hebrews": {
   "title": "Critical and Exegetical Handbook to the Epistle to the Hebrews",
@@ -34700,8 +34426,8 @@
     }
    },
    "scripture_links": {
-    "read": 2358,
-    "resolved": 2131,
+    "read": 2356,
+    "resolved": 2124,
     "ranges": 100,
     "ranges_start_only": 0
    },
@@ -34717,7 +34443,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "38d5f6fccd0f81b856b8f911a922e27511c0b7a501cb4c78fe64db96ca38df4b"
+  "built_sha256": "7d3586e4a372dc36d1ea7ef40fd24ca3e4255c082d2d4527178881b24f69cdfa"
  },
  "huther-james-john": {
   "title": "Critical and Exegetical Handbook to the General Epistles of James and John",
@@ -34785,7 +34511,7 @@
     }
    },
    "scripture_links": {
-    "read": 2145,
+    "read": 2146,
     "resolved": 1883,
     "ranges": 34,
     "ranges_start_only": 1
@@ -34802,7 +34528,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "3abfd29be1d6e2edb84282708208facd48ed2ce7f7f3c392663f0717ce76c3b7"
+  "built_sha256": "a7f3b9ed1b2cc1c895a3f11293a24bff3eb4e49276108ab00b4f1bff45887481"
  },
  "huther-peter-jude": {
   "title": "Critical and Exegetical Handbook to the General Epistles of Peter and Jude",
@@ -34863,9 +34589,9 @@
     }
    },
    "scripture_links": {
-    "read": 2002,
+    "read": 2001,
     "resolved": 1839,
-    "ranges": 43,
+    "ranges": 42,
     "ranges_start_only": 0
    },
    "greek": {
@@ -34880,7 +34606,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "710ac4fa41a9a237cfff234065f7b2a2780fda92f01d639ac5b7c2acfb26be77"
+  "built_sha256": "5b9b5dada1c1714b31f363542b3807e5b7b591775431e3ae75a2a1e98e3e2a6f"
  },
  "delitzsch-job-1": {
   "title": "Biblical Commentary on the Book of Job, vol. I",
@@ -34891,7 +34617,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Job": "undecided"
@@ -34947,8 +34673,8 @@
     }
    },
    "scripture_links": {
-    "read": 2064,
-    "resolved": 1928,
+    "read": 2061,
+    "resolved": 1929,
     "ranges": 26,
     "ranges_start_only": 1
    },
@@ -34968,7 +34694,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 865,
+     "read": 866,
      "only_hebrew": 3,
      "only_kjv": 0,
      "decision": "undecided"
@@ -35325,7 +35051,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "4b4060c9a0bed9a7831e983c98269f5de092391ffc58f593bbaca0a600d72dab"
+  "built_sha256": "6694bae83c2414a9eca12fce5b261c0c7864b232164a82cf9b333d167532558a"
  },
  "delitzsch-job-2": {
   "title": "Biblical Commentary on the Book of Job, vol. II",
@@ -35336,7 +35062,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Job": "hebrew"
@@ -35394,7 +35120,7 @@
    },
    "scripture_links": {
     "read": 1871,
-    "resolved": 1781,
+    "resolved": 1789,
     "ranges": 14,
     "ranges_start_only": 1
    },
@@ -35408,13 +35134,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 141,
+     "read": 145,
      "only_hebrew": 2,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 717,
+     "read": 720,
      "only_hebrew": 5,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -35445,7 +35171,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "7aa92097457d8d85a80fb76457c0157c913b96c75c77bd6e82b3e81cbaa41a2b"
+  "built_sha256": "b1463162b0f9421f1bf5a09e505c816eace598fc26b70a11711b14ae8294d0f0"
  },
  "delitzsch-proverbs-1": {
   "title": "Biblical Commentary on the Proverbs of Solomon, vol. I",
@@ -35456,7 +35182,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Prov": "undecided"
@@ -35514,8 +35240,8 @@
     }
    },
    "scripture_links": {
-    "read": 1682,
-    "resolved": 1602,
+    "read": 1680,
+    "resolved": 1604,
     "ranges": 32,
     "ranges_start_only": 1
    },
@@ -35529,7 +35255,7 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 232,
+     "read": 233,
      "only_hebrew": 8,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -35565,7 +35291,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "88a14766309d9c98b3820e1034127ccfc052467f62ff8bea45cad5f202bd0613"
+  "built_sha256": "4a1f9c7df38fe81fa2a91cb6cad9deb9bfffae0fa07df90972865945529c1c02"
  },
  "delitzsch-proverbs-2": {
   "title": "Biblical Commentary on the Proverbs of Solomon, vol. II",
@@ -35576,7 +35302,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Prov": "undecided"
@@ -35634,8 +35360,8 @@
     }
    },
    "scripture_links": {
-    "read": 1347,
-    "resolved": 1254,
+    "read": 1344,
+    "resolved": 1251,
     "ranges": 24,
     "ranges_start_only": 1
    },
@@ -35649,13 +35375,13 @@
    },
    "numbering_references": {
     "Ps": {
-     "read": 181,
+     "read": 179,
      "only_hebrew": 3,
      "only_kjv": 0,
      "decision": "undecided"
     },
     "other": {
-     "read": 895,
+     "read": 894,
      "only_hebrew": 4,
      "only_kjv": 0,
      "decision": "undecided"
@@ -35987,7 +35713,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "8013409b8ef4ff32298c88c61ab30127efb459f908cb8b3e16861d29214b7f5a"
+  "built_sha256": "51b9945a8062dffe2740c264023f80c3bf1479abee73df5850dfa75b9de0e1e6"
  },
  "delitzsch-isaiah-1": {
   "title": "Biblical Commentary on the Prophecies of Isaiah, vol. I",
@@ -35998,7 +35724,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Isa": "undecided"
@@ -36038,6 +35764,7 @@
    "running_heads_out_of_order": 3,
    "running_heads_read": 189,
    "running_heads_unreadable": 4,
+   "runs_approximate": 2,
    "translation_lines": 3,
    "translations_accepted": 3,
    "translations_rejected": 32,
@@ -36054,8 +35781,8 @@
     }
    },
    "scripture_links": {
-    "read": 2592,
-    "resolved": 2401,
+    "read": 2597,
+    "resolved": 2415,
     "ranges": 66,
     "ranges_start_only": 2
    },
@@ -36075,7 +35802,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 1623,
+     "read": 1638,
      "only_hebrew": 9,
      "only_kjv": 0,
      "decision": "hebrew"
@@ -36116,7 +35843,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "fd802152ffcb39146870b93d5c8d833b158bb86dd47604d411e3f60dcb98c4b4"
+  "built_sha256": "d5a14c7b8c0e828a0ca591dcdaf014e7752dfbf0a0f65d9fc18bb944061ad944"
  },
  "delitzsch-isaiah-2": {
   "title": "Biblical Commentary on the Prophecies of Isaiah, vol. II",
@@ -36127,7 +35854,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Isa": "undecided"
@@ -36169,13 +35896,14 @@
    "running_heads_out_of_order": 5,
    "running_heads_read": 220,
    "running_heads_unreadable": 2,
+   "runs_approximate": 1,
    "translation_lines": 2,
    "translations_accepted": 2,
    "translations_rejected": 10,
    "kjv_coverage": {
     "Isa": {
      "kjv_verses": 1292,
-     "commented": 757,
+     "commented": 756,
      "with_own_note": 82,
      "chapters": [
       28,
@@ -36185,8 +35913,8 @@
     }
    },
    "scripture_links": {
-    "read": 2621,
-    "resolved": 2399,
+    "read": 2617,
+    "resolved": 2406,
     "ranges": 143,
     "ranges_start_only": 1
    },
@@ -36206,7 +35934,7 @@
      "decision": "undecided"
     },
     "other": {
-     "read": 1525,
+     "read": 1534,
      "only_hebrew": 6,
      "only_kjv": 4,
      "decision": "undecided"
@@ -36563,7 +36291,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "f998908f92a62f62fbf78db611f2c4a9a5ec75d898278377c7abb31a0bd767b3"
+  "built_sha256": "b1e9f95a492f58f95fa74d495a2f34695787aba5237083e1b64555ff83c0bbab"
  },
  "kipling-plain-tales": {
   "title": "Plain Tales from the Hills (1888)",
@@ -37123,6 +36851,2247 @@
    "resolution": "paragraph",
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
+ },
+ "expositors-greek-testament-1": {
+  "title": "The Expositor's Greek Testament, vol. I",
+  "author": "Alexander Balmain Bruce (the Synoptic Gospels), Marcus Dods (John); ed. W. Robertson Nicoll",
+  "format": "ia-hocr",
+  "sha256": "9c18a42b19424a2530088bdc5accd575f111e439f95ae9310312926f596e12c5",
+  "units": 4027,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the Expositor's Greek Testament prints the Greek text at the head of the page and its notes under it in two columns, read as Alford's page (alford_layout; its textual notes in English, set full width under the text, stay with the text block); a note opens 'Ver. 19.' or 'Vv. 3-5.' at the head of a line that is indented or follows a sentence's end, or runs on after a dash ('—Ver. 14.'), and is accepted when the verse sequence allows it; a heading 'CHAPTER IV.' moves the sequence to that chapter, forward only and at most three chapters on (measure.chapter_headings_read, chapter_headings_refused); a running head naming a chapter behind the sequence is not followed (the heads are set in Greek capitals and the OCR reads 'II.' as 'I.': measure.running_heads_behind); every following line, left column then right, belongs to the note open until the next; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text, its textual notes in apparatus); introductions and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in these scans: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "expositorsgreek01nico (1910, 6th ed.) 17.7% / 39.8% / 30,406  <- chosen; expositorsgreekt01nico (Princeton, undated: no year to read) 18.0% / 37.8% / 29,441; expositorsgreekt01nicouoft: no Greek; the ExpositorsGreekTestament.complete2Vols... files: the English OCR'd as Greek",
+   "note": "The Expositor's Greek Testament, ed. W. Robertson Nicoll, vol. I (the Synoptic Gospels; the Gospel of St John), sixth edition (London: Hodder and Stoughton, MCMX), as its title pages (leaves 5, 7) read; scan leaves 5-884 of expositorsgreek01nico"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1910); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, expositorsgreek01nico (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/expositorsgreek01nico",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 779,
+    "note": 3151,
+    "page": 97
+   },
+   "chapter_headings_read": 73,
+   "junk_lines_dropped": 3660,
+   "leaves_commentary": 779,
+   "leaves_page": 96,
+   "leaves_with_tail": 1,
+   "openers_accepted": 3159,
+   "openers_out_of_sequence": 7,
+   "openers_rejected": 17,
+   "printed_page_from_neighbours": 143,
+   "printed_page_read": 723,
+   "running_heads_behind": 4809,
+   "kjv_coverage": {
+    "Matt": {
+     "kjv_verses": 1071,
+     "commented": 1057,
+     "with_own_note": 729
+    },
+    "Mark": {
+     "kjv_verses": 678,
+     "commented": 653,
+     "with_own_note": 437
+    },
+    "Luke": {
+     "kjv_verses": 1151,
+     "commented": 1121,
+     "with_own_note": 704
+    },
+    "John": {
+     "kjv_verses": 879,
+     "commented": 817,
+     "with_own_note": 589
+    }
+   },
+   "scripture_links": {
+    "read": 4099,
+    "resolved": 3588,
+    "ranges": 488,
+    "ranges_start_only": 6
+   },
+   "greek": {
+    "greek_letters": 447374,
+    "greek_share_of_letters": 0.1775,
+    "greek_tokens_3plus": 75424,
+    "greek_tokens_in_reference_vocab": 0.3993,
+    "mixed_script_tokens": 216
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "561c5eb946eed95bf69c5bd38f021bb07493638a2b1942ccd823be0c5f0d2d75"
+ },
+ "expositors-greek-testament-2": {
+  "title": "The Expositor's Greek Testament, vol. II",
+  "author": "R. J. Knowling (Acts), James Denney (Romans), G. G. Findlay (1 Corinthians); ed. W. Robertson Nicoll",
+  "format": "ia-hocr",
+  "sha256": "d696328a8155a897b0907638e26d7d654c9ab06545ade933a376c6d4e842709b",
+  "units": 2419,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the Expositor's Greek Testament prints the Greek text at the head of the page and its notes under it in two columns, read as Alford's page (alford_layout; its textual notes in English, set full width under the text, stay with the text block); a note opens 'Ver. 19.' or 'Vv. 3-5.' at the head of a line that is indented or follows a sentence's end, or runs on after a dash ('—Ver. 14.'), and is accepted when the verse sequence allows it; a heading 'CHAPTER IV.' moves the sequence to that chapter, forward only and at most three chapters on (measure.chapter_headings_read, chapter_headings_refused); a running head naming a chapter behind the sequence is not followed (the heads are set in Greek capitals and the OCR reads 'II.' as 'I.': measure.running_heads_behind); every following line, left column then right, belongs to the note open until the next; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text, its textual notes in apparatus); introductions and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in these scans: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "expositorsgreekt02nicouoft (Doran, undated) 11.7% / 37.2% / 20,330  <- chosen: no dated scan keeps its Greek; expositorsgreekt02nico (Princeton, undated) 12.2% / 34.4% / 19,866; expositorsgreek02nico (1901): the English OCR'd as Greek",
+   "note": "The Expositor's Greek Testament, ed. W. Robertson Nicoll, vol. II (Acts, Romans, 1 Corinthians) (New York: George H. Doran Company, undated), as its title page (leaf 4) reads; the scan has no contents page naming the contributors; scan leaves 4-958 of expositorsgreekt02nicouoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed undated; George H. Doran Company, the publisher's name from 1908 until its merger into Doubleday, Doran in 1927, so printed 1908-27); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, expositorsgreekt02nicouoft (University of Toronto (Kelly) copy)",
+   "source_url": "https://archive.org/details/expositorsgreekt02nicouoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 827,
+    "note": 1464,
+    "page": 128
+   },
+   "chapter_headings_read": 33,
+   "chapter_headings_refused": 1,
+   "junk_lines_dropped": 2716,
+   "leaves_commentary": 837,
+   "leaves_page": 117,
+   "leaves_with_tail": 11,
+   "openers_accepted": 1464,
+   "openers_out_of_sequence": 9,
+   "openers_rejected": 10,
+   "printed_page_from_neighbours": 164,
+   "printed_page_read": 780,
+   "running_heads_behind": 3043,
+   "kjv_coverage": {
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 899,
+     "with_own_note": 890
+    },
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 355,
+     "with_own_note": 287
+    },
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 304,
+     "with_own_note": 189
+    }
+   },
+   "scripture_links": {
+    "read": 11784,
+    "resolved": 10180,
+    "ranges": 298,
+    "ranges_start_only": 7
+   },
+   "greek": {
+    "greek_letters": 319336,
+    "greek_share_of_letters": 0.114,
+    "greek_tokens_3plus": 51091,
+    "greek_tokens_in_reference_vocab": 0.3797,
+    "mixed_script_tokens": 289
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "7ee319cfe60f3ff1f1d962a6e5e00671aebec42e6c15b4c0b0f38752490f5252"
+ },
+ "expositors-greek-testament-3": {
+  "title": "The Expositor's Greek Testament, vol. III",
+  "author": "J. H. Bernard (2 Corinthians), Frederic Rendall (Galatians), S. D. F. Salmond (Ephesians), H. A. A. Kennedy (Philippians), A. S. Peake (Colossians); ed. W. Robertson Nicoll",
+  "format": "ia-hocr",
+  "sha256": "06e4b86348e58b156f37d961c2028a40131c0502044a519b217858758e1fe3fb",
+  "units": 1280,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the Expositor's Greek Testament prints the Greek text at the head of the page and its notes under it in two columns, read as Alford's page (alford_layout; its textual notes in English, set full width under the text, stay with the text block); a note opens 'Ver. 19.' or 'Vv. 3-5.' at the head of a line that is indented or follows a sentence's end, or runs on after a dash ('—Ver. 14.'), and is accepted when the verse sequence allows it; a heading 'CHAPTER IV.' moves the sequence to that chapter, forward only and at most three chapters on (measure.chapter_headings_read, chapter_headings_refused); a running head naming a chapter behind the sequence is not followed (the heads are set in Greek capitals and the OCR reads 'II.' as 'I.': measure.running_heads_behind); every following line, left column then right, belongs to the note open until the next; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text, its textual notes in apparatus); introductions and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in these scans: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "expositorsgreekt03nicouoft (Doran, undated) 10.5% / 41.5% / 11,100  <- chosen: no dated scan keeps its Greek; expositorsgreekt03nico (Princeton, undated) 11.3% / 40.3% / 11,509; expositorsgreek00nicogoog (1903): text layer half missing (289 of 561 pages under 200 letters)",
+   "note": "The Expositor's Greek Testament, ed. W. Robertson Nicoll, vol. III (2 Corinthians to Colossians) (New York: George H. Doran Company, undated), as its title pages (leaves 4, 6) read; scan leaves 4-554 of expositorsgreekt03nicouoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed undated; George H. Doran Company, the publisher's name from 1908 until its merger into Doubleday, Doran in 1927, so printed 1908-27); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, expositorsgreekt03nicouoft (University of Toronto (Kelly) copy)",
+   "source_url": "https://archive.org/details/expositorsgreekt03nicouoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 354,
+    "note": 768,
+    "page": 158
+   },
+   "chapter_headings_read": 21,
+   "junk_lines_dropped": 1739,
+   "leaves_commentary": 389,
+   "leaves_page": 155,
+   "leaves_with_tail": 3,
+   "openers_accepted": 765,
+   "openers_out_of_sequence": 1,
+   "openers_rejected": 10,
+   "printed_page_from_neighbours": 72,
+   "printed_page_read": 471,
+   "running_heads_behind": 1541,
+   "kjv_coverage": {
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 237,
+     "with_own_note": 193
+    },
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 147,
+     "with_own_note": 118
+    },
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 153,
+     "with_own_note": 138
+    },
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 104,
+     "with_own_note": 96
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 94,
+     "with_own_note": 91
+    }
+   },
+   "scripture_links": {
+    "read": 6008,
+    "resolved": 5279,
+    "ranges": 154,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 156665,
+    "greek_share_of_letters": 0.1027,
+    "greek_tokens_3plus": 25187,
+    "greek_tokens_in_reference_vocab": 0.4162,
+    "mixed_script_tokens": 177
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "85899297c9ed571ce4d87e92ec900a61337a2a96da5cd22ef3de6576831c0518"
+ },
+ "expositors-greek-testament-4": {
+  "title": "The Expositor's Greek Testament, vol. IV",
+  "author": "James Moffatt (Thessalonians), Newport J. D. White (the Pastorals), W. O. E. Oesterley (Philemon, James), Marcus Dods (Hebrews); ed. W. Robertson Nicoll",
+  "format": "ia-hocr",
+  "sha256": "75832f9ef8f929826ee6318729e51c98f3e08328090b1378c69b2bdda2a01253",
+  "units": 1109,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the Expositor's Greek Testament prints the Greek text at the head of the page and its notes under it in two columns, read as Alford's page (alford_layout; its textual notes in English, set full width under the text, stay with the text block); a note opens 'Ver. 19.' or 'Vv. 3-5.' at the head of a line that is indented or follows a sentence's end, or runs on after a dash ('—Ver. 14.'), and is accepted when the verse sequence allows it; a heading 'CHAPTER IV.' moves the sequence to that chapter, forward only and at most three chapters on (measure.chapter_headings_read, chapter_headings_refused); a running head naming a chapter behind the sequence is not followed (the heads are set in Greek capitals and the OCR reads 'II.' as 'I.': measure.running_heads_behind); every following line, left column then right, belongs to the note open until the next; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text, its textual notes in apparatus); introductions and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in these scans: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "expositorsgree02nico (1910) 13.5% / 37.3% / 10,619  <- chosen; expositorsgreekt04nicouoft (Doran, undated) 13.6% / 37.4% / 10,741 and expositorsgreekt04nico (Princeton, undated) 14.5% / 36.8% / 11,138: no year to read",
+   "note": "The Expositor's Greek Testament, ed. W. Robertson Nicoll, vol. IV (Thessalonians to James) (London: Hodder and Stoughton, MCMX), as its title pages (leaves 5, 7) read; IA catalogues the item as volume 2; scan leaves 5-486 of expositorsgree02nico"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1910); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, expositorsgree02nico (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/expositorsgree02nico",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 343,
+    "note": 643,
+    "page": 123
+   },
+   "chapter_headings_read": 23,
+   "junk_lines_dropped": 2022,
+   "leaves_commentary": 346,
+   "leaves_page": 122,
+   "leaves_with_tail": 1,
+   "openers_accepted": 636,
+   "openers_out_of_sequence": 2,
+   "printed_page_from_neighbours": 89,
+   "printed_page_read": 384,
+   "running_heads_behind": 2822,
+   "kjv_coverage": {
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 73,
+     "with_own_note": 62
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 37,
+     "with_own_note": 31
+    },
+    "1Tim": {
+     "kjv_verses": 113,
+     "commented": 106,
+     "with_own_note": 92
+    },
+    "2Tim": {
+     "kjv_verses": 83,
+     "commented": 79,
+     "with_own_note": 73
+    },
+    "Titus": {
+     "kjv_verses": 46,
+     "commented": 44,
+     "with_own_note": 41
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 21,
+     "with_own_note": 21
+    },
+    "Heb": {
+     "kjv_verses": 303,
+     "commented": 249,
+     "with_own_note": 157
+    },
+    "Jas": {
+     "kjv_verses": 108,
+     "commented": 96,
+     "with_own_note": 85
+    }
+   },
+   "scripture_links": {
+    "read": 5485,
+    "resolved": 4385,
+    "ranges": 106,
+    "ranges_start_only": 4
+   },
+   "greek": {
+    "greek_letters": 175215,
+    "greek_share_of_letters": 0.1337,
+    "greek_tokens_3plus": 27293,
+    "greek_tokens_in_reference_vocab": 0.3709,
+    "mixed_script_tokens": 200
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "806447d2761b7e0058b0d12ff561853ec3b74852e548e6a84845aca73d0df504"
+ },
+ "expositors-greek-testament-5": {
+  "title": "The Expositor's Greek Testament, vol. V",
+  "author": "J. H. A. Hart (1 Peter), R. H. Strachan (2 Peter), David Smith (the Epistles of John), J. B. Mayor (Jude), James Moffatt (the Revelation); ed. W. Robertson Nicoll",
+  "format": "ia-hocr",
+  "sha256": "ec7671f8a577e73d265eba269305bc538ffb9d5402040aa0c64cecb3b9a28934",
+  "units": 1119,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the Expositor's Greek Testament prints the Greek text at the head of the page and its notes under it in two columns, read as Alford's page (alford_layout; its textual notes in English, set full width under the text, stay with the text block); a note opens 'Ver. 19.' or 'Vv. 3-5.' at the head of a line that is indented or follows a sentence's end, or runs on after a dash ('—Ver. 14.'), and is accepted when the verse sequence allows it; a heading 'CHAPTER IV.' moves the sequence to that chapter, forward only and at most three chapters on (measure.chapter_headings_read, chapter_headings_refused); a running head naming a chapter behind the sequence is not followed (the heads are set in Greek capitals and the OCR reads 'II.' as 'I.': measure.running_heads_behind); every following line, left column then right, belongs to the note open until the next; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text, its textual notes in apparatus); introductions and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in these scans: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "expositorsgreek05nico (1910) 13.3% / 36.5% / 10,451  <- chosen; expositorsgreekt05nicouoft (Doran, undated) 13.2% / 36.4% / 10,410; expositorsgreekt05nico (Princeton, undated) 13.5% / 34.6% / 10,197",
+   "note": "The Expositor's Greek Testament, ed. W. Robertson Nicoll, vol. V (1 Peter to the Revelation) (London: Hodder and Stoughton, MCMX), as its title pages (leaves 5, 7) read; scan leaves 5-504 of expositorsgreek05nico"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1910); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, expositorsgreek05nico (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/expositorsgreek05nico",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 293,
+    "note": 624,
+    "page": 202
+   },
+   "chapter_headings_read": 25,
+   "chapter_headings_refused": 1,
+   "junk_lines_dropped": 1800,
+   "leaves_commentary": 294,
+   "leaves_page": 197,
+   "leaves_with_tail": 5,
+   "openers_accepted": 622,
+   "openers_out_of_sequence": 5,
+   "openers_rejected": 2,
+   "printed_page_from_neighbours": 97,
+   "printed_page_read": 393,
+   "running_heads_behind": 2043,
+   "kjv_coverage": {
+    "1Pet": {
+     "kjv_verses": 105,
+     "commented": 85,
+     "with_own_note": 67
+    },
+    "2Pet": {
+     "kjv_verses": 61,
+     "commented": 60,
+     "with_own_note": 58
+    },
+    "1John": {
+     "kjv_verses": 105,
+     "commented": 105,
+     "with_own_note": 84
+    },
+    "2John": {
+     "kjv_verses": 13,
+     "commented": 11,
+     "with_own_note": 11
+    },
+    "3John": {
+     "kjv_verses": 14,
+     "commented": 12,
+     "with_own_note": 11
+    },
+    "Jude": {
+     "kjv_verses": 25,
+     "commented": 24,
+     "with_own_note": 20
+    },
+    "Rev": {
+     "kjv_verses": 404,
+     "commented": 358,
+     "with_own_note": 249
+    }
+   },
+   "scripture_links": {
+    "read": 3931,
+    "resolved": 3094,
+    "ranges": 173,
+    "ranges_start_only": 3
+   },
+   "greek": {
+    "greek_letters": 169852,
+    "greek_share_of_letters": 0.1313,
+    "greek_tokens_3plus": 27777,
+    "greek_tokens_in_reference_vocab": 0.3656,
+    "mixed_script_tokens": 154
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "eac4d0c3ebce5d400dadeadce8e144e3339426350238dd079a83e5f9e5fbaa9b"
+ },
+ "icc-allen-matthew": {
+  "title": "A Critical and Exegetical Commentary on the Gospel according to S. Matthew",
+  "author": "Willoughby C. Allen",
+  "format": "ia-hocr",
+  "sha256": "6ce6b6e3f5664d6c24eb2f9d61a3372fe46eb143ea40d9191da5a59ae1bdd3e5",
+  "units": 638,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic0026alle (1907) 8.6% / 38.7% / 4,375  <- chosen: no other scan keeps its Greek",
+   "note": "The International Critical Commentary: W. C. Allen, A Critical and Exegetical Commentary on the Gospel according to S. Matthew, second edition (Edinburgh: T. & T. Clark, 1907), as its title page (leaf 9) reads; scan leaves 9-426 of criticalexegetic0026alle"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1907); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0026alle (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0026alle",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 540,
+    "page": 98
+   },
+   "footnote_lines": 280,
+   "junk_lines_dropped": 15,
+   "leaves_commentary": 320,
+   "leaves_page": 98,
+   "openers_accepted": 588,
+   "openers_out_of_sequence": 95,
+   "openers_rejected": 107,
+   "printed_page_from_neighbours": 102,
+   "printed_page_read": 217,
+   "running_heads_behind": 1044,
+   "kjv_coverage": {
+    "Matt": {
+     "kjv_verses": 1071,
+     "commented": 729,
+     "with_own_note": 455
+    }
+   },
+   "scripture_links": {
+    "read": 280,
+    "resolved": 53,
+    "ranges": 4,
+    "ranges_start_only": 2
+   },
+   "greek": {
+    "greek_letters": 65492,
+    "greek_share_of_letters": 0.0829,
+    "greek_tokens_3plus": 10339,
+    "greek_tokens_in_reference_vocab": 0.3634,
+    "mixed_script_tokens": 13
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "fb78cf664720fa2f1e670c26119614d70b7c914c2811ba0248e507dbd7961d25"
+ },
+ "icc-gould-mark": {
+  "title": "A Critical and Exegetical Commentary on the Gospel according to St. Mark",
+  "author": "Ezra P. Gould",
+  "format": "ia-hocr",
+  "sha256": "a8b0eab01d2e0411f07af5d7ecffa8df5dd8b4f1e80757dfd0530b085b6c0b1a",
+  "units": 669,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic00gouluoft (1912) 7.4% / 37.9% / 3,110  <- chosen: no other scan keeps its Greek",
+   "note": "The International Critical Commentary: E. P. Gould, A Critical and Exegetical Commentary on the Gospel according to St. Mark (Edinburgh: T. & T. Clark, 1912; fifth impression, the first 1896), as its title page and verso (leaves 12-13) read; scan leaves 12-376 of criticalexegetic00gouluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1912); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00gouluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00gouluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 615,
+    "page": 54
+   },
+   "footnote_lines": 954,
+   "junk_lines_dropped": 47,
+   "leaves_commentary": 309,
+   "leaves_page": 54,
+   "openers_accepted": 615,
+   "openers_out_of_sequence": 19,
+   "openers_rejected": 7,
+   "printed_page_from_neighbours": 25,
+   "printed_page_read": 282,
+   "running_heads_behind": 1268,
+   "kjv_coverage": {
+    "Mark": {
+     "kjv_verses": 678,
+     "commented": 641,
+     "with_own_note": 548
+    }
+   },
+   "scripture_links": {
+    "read": 123,
+    "resolved": 4,
+    "ranges": 0,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 45887,
+    "greek_share_of_letters": 0.0711,
+    "greek_tokens_3plus": 7256,
+    "greek_tokens_in_reference_vocab": 0.3685,
+    "mixed_script_tokens": 21
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "017c3e4cd05088e5e06f74aac30fcc3db40d3e56d66486526a7789daa6ae1a5b"
+ },
+ "icc-plummer-luke": {
+  "title": "A Critical and Exegetical Commentary on the Gospel according to S. Luke",
+  "author": "Alfred Plummer",
+  "format": "ia-hocr",
+  "sha256": "52a37ee5b60029263523aff43e7c17c70db5329a0f36f7ef77183d1dccd0c335",
+  "units": 1039,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "same_scan_as": "same scan as Lane A: plummer-luke-icc (pipeline/alfred-plummer_shelf.json, branch claude/armarium-divines)",
+   "scan_choice": "acriticalandexeg00plumuoft (1896) 10.4% / 37.7% / 8,602  <- chosen; criticalexegetic28plumuoft (1922) 8,579, criticalexegetic00plumrich (1903) 8,574, criticalexegetic00plumuoft (1914) 8,568, criticalexegetic00plum (1896) 8,543, criticalandexege028123mbp (1920) 8,490, in.ernet.dli.2015.153353 (1920) 8,485, acriticalandexe01plumgoog (1896) 8,363, and five undated scans: fewer known Greek words",
+   "note": "The International Critical Commentary: A. Plummer, A Critical and Exegetical Commentary on the Gospel according to S. Luke (Edinburgh: T. & T. Clark, 1896), as its title page (leaf 12) reads; scan leaves 12-664 of acriticalandexeg00plumuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1896); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, acriticalandexeg00plumuoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/acriticalandexeg00plumuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 956,
+    "page": 83
+   },
+   "footnote_lines": 1146,
+   "junk_lines_dropped": 49,
+   "leaves_commentary": 570,
+   "leaves_page": 83,
+   "openers_accepted": 978,
+   "openers_out_of_sequence": 163,
+   "openers_rejected": 170,
+   "printed_page_from_neighbours": 130,
+   "printed_page_read": 431,
+   "running_heads_behind": 4183,
+   "kjv_coverage": {
+    "Luke": {
+     "kjv_verses": 1151,
+     "commented": 1031,
+     "with_own_note": 797
+    }
+   },
+   "scripture_links": {
+    "read": 8137,
+    "resolved": 7352,
+    "ranges": 317,
+    "ranges_start_only": 4
+   },
+   "greek": {
+    "greek_letters": 133450,
+    "greek_share_of_letters": 0.1021,
+    "greek_tokens_3plus": 20852,
+    "greek_tokens_in_reference_vocab": 0.3726,
+    "mixed_script_tokens": 59
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "7f45924f132140a6e324bde88161515842768b98e07bbddfb609fda2eedd8b14"
+ },
+ "icc-sanday-headlam-romans": {
+  "title": "A Critical and Exegetical Commentary on the Epistle to the Romans",
+  "author": "William Sanday and Arthur C. Headlam",
+  "format": "ia-hocr",
+  "sha256": "e2de3c37e25910877169368f2cd38ff355b711cda1ed8d0db5397893aa4f13c0",
+  "units": 542,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "epistlecommentar00sanduoft (1895, 1st ed.) 7.6% / 40.4% / 6,092  <- chosen; criticalexegetic00sandrich (1905, 'tenth edition', the revised text of 1902) 6,013: 1.3% behind; criticalexegetic97sand (1895) 5,996; in.ernet.dli.2015.268057 (undated) 5,798; acriticalandexe01headgoog (1904) 5,530",
+   "note": "The International Critical Commentary: W. Sanday and A. C. Headlam, A Critical and Exegetical Commentary on the Epistle to the Romans, first edition (New York: Charles Scribner's Sons, 1895), as its title page (leaf 14) reads; scan leaves 14-560 of epistlecommentar00sanduoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1895); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, epistlecommentar00sanduoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/epistlecommentar00sanduoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 434,
+    "page": 108
+   },
+   "footnote_lines": 499,
+   "junk_lines_dropped": 118,
+   "leaves_commentary": 437,
+   "leaves_page": 108,
+   "openers_accepted": 449,
+   "openers_out_of_sequence": 14,
+   "openers_rejected": 27,
+   "printed_page_from_neighbours": 41,
+   "printed_page_read": 394,
+   "running_heads_behind": 1483,
+   "kjv_coverage": {
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 416,
+     "with_own_note": 374
+    }
+   },
+   "scripture_links": {
+    "read": 2940,
+    "resolved": 2588,
+    "ranges": 148,
+    "ranges_start_only": 4
+   },
+   "greek": {
+    "greek_letters": 87522,
+    "greek_share_of_letters": 0.0734,
+    "greek_tokens_3plus": 13880,
+    "greek_tokens_in_reference_vocab": 0.3982,
+    "mixed_script_tokens": 23
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "57fca5c70996bbc52c871744276119c68776f2c08bb911c91da8e3aece49828e"
+ },
+ "icc-robertson-plummer-1-corinthians": {
+  "title": "A Critical and Exegetical Commentary on the First Epistle of St Paul to the Corinthians",
+  "author": "Archibald Robertson and Alfred Plummer",
+  "format": "ia-hocr",
+  "sha256": "f5704483cf073d192c887b314124e877307f3cdbddcde27808a3f2ceb77c3736",
+  "units": 482,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "stpaulcommentary00robeuoft (1911) 7.7% / 46.2% / 5,432  <- chosen; criticalexegetic1911robe (1911) 5,404; acriticalandexeg33robeuoft (1961) and two of illegible reprint years refused",
+   "note": "The International Critical Commentary: A. Robertson and A. Plummer, A Critical and Exegetical Commentary on the First Epistle of St Paul to the Corinthians (New York: Charles Scribner's Sons, 1911), as its title page (leaf 16) reads; scan leaves 16-483 of stpaulcommentary00robeuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1911); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, stpaulcommentary00robeuoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/stpaulcommentary00robeuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 416,
+    "page": 66
+   },
+   "footnote_lines": 1202,
+   "junk_lines_dropped": 8,
+   "leaves_commentary": 402,
+   "leaves_page": 66,
+   "openers_accepted": 419,
+   "openers_out_of_sequence": 31,
+   "openers_rejected": 17,
+   "printed_page_from_neighbours": 49,
+   "printed_page_read": 345,
+   "running_heads_behind": 1070,
+   "kjv_coverage": {
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 422,
+     "with_own_note": 377
+    }
+   },
+   "scripture_links": {
+    "read": 3438,
+    "resolved": 3081,
+    "ranges": 113,
+    "ranges_start_only": 4
+   },
+   "greek": {
+    "greek_letters": 63534,
+    "greek_share_of_letters": 0.073,
+    "greek_tokens_3plus": 9939,
+    "greek_tokens_in_reference_vocab": 0.4312,
+    "mixed_script_tokens": 18
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "654cce08cefd07cb60f250d093c72e1d55089786c57008f6ce882499ad7ffbfc"
+ },
+ "icc-plummer-2-corinthians": {
+  "title": "A Critical and Exegetical Commentary on the Second Epistle of St Paul to the Corinthians",
+  "author": "Alfred Plummer",
+  "format": "ia-hocr",
+  "sha256": "71b9f47f9fce7e16ef2871297c134b4d8416279eb69bef450b5c9082b9011c84",
+  "units": 293,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "00758325.1242.emory.edu (1915) 8.0% / 44.7% / 4,994  <- chosen; corinthiexegetic00plumrich (1915) 4,970; criticalexesecep00plumuoft (Clark, 1915) 4,980, the scan Lane A shelves as plummer-2-corinthians-icc (pipeline/alfred-plummer_shelf.json, branch claude/armarium-divines): a twin, kept for later collation",
+   "note": "The International Critical Commentary: A. Plummer, A Critical and Exegetical Commentary on the Second Epistle of St Paul to the Corinthians (New York: Charles Scribner's Sons, 1915), as its title page (leaf 3) reads; scan leaves 3-444 of 00758325.1242.emory.edu"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1915); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, 00758325.1242.emory.edu (Emory University, Pitts Theology Library copy)",
+   "source_url": "https://archive.org/details/00758325.1242.emory.edu",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 240,
+    "page": 53
+   },
+   "footnote_lines": 764,
+   "junk_lines_dropped": 6,
+   "leaves_commentary": 386,
+   "leaves_page": 53,
+   "openers_accepted": 248,
+   "openers_out_of_sequence": 22,
+   "openers_rejected": 16,
+   "printed_page_from_neighbours": 31,
+   "printed_page_read": 353,
+   "running_heads_behind": 1124,
+   "kjv_coverage": {
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 233,
+     "with_own_note": 220
+    }
+   },
+   "scripture_links": {
+    "read": 3105,
+    "resolved": 2649,
+    "ranges": 83,
+    "ranges_start_only": 3
+   },
+   "greek": {
+    "greek_letters": 65299,
+    "greek_share_of_letters": 0.0769,
+    "greek_tokens_3plus": 9990,
+    "greek_tokens_in_reference_vocab": 0.4393,
+    "mixed_script_tokens": 10
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "a0773b1d3a775295a87f1e3c75474ed3bffab9d7c1c55d11e43dff5ee841d5f6"
+ },
+ "icc-burton-galatians": {
+  "title": "A Critical and Exegetical Commentary on the Epistle to the Galatians",
+  "author": "Ernest De Witt Burton",
+  "format": "ia-hocr",
+  "sha256": "7cd2f3b7085d8122e20a21107da4ea737897a9b7817072f3bde20e9c635a319e",
+  "units": 377,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic00burtuoft (1921) 6.8% / 41.3% / 5,477  <- chosen; criticalexegetic00burtrich (1928) 5,458; in.ernet.dli.2015.88314 (1920) 5,399; acriticalandexe0{0-3}burtgoog (1920) 5,339-5,397",
+   "note": "The International Critical Commentary: E. De W. Burton, A Critical and Exegetical Commentary on the Epistle to the Galatians (Edinburgh: T. & T. Clark, 1921), as its title page (leaf 11) reads; scan leaves 11-623 of criticalexegetic00burtuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1921); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00burtuoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00burtuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 127,
+    "page": 250
+   },
+   "footnote_lines": 658,
+   "junk_lines_dropped": 23,
+   "leaves_commentary": 362,
+   "leaves_page": 250,
+   "openers_accepted": 137,
+   "openers_out_of_sequence": 7,
+   "openers_rejected": 35,
+   "printed_page_from_neighbours": 211,
+   "printed_page_read": 303,
+   "running_heads_behind": 564,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 126,
+     "with_own_note": 126
+    }
+   },
+   "scripture_links": {
+    "read": 3552,
+    "resolved": 141,
+    "ranges": 3,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 75248,
+    "greek_share_of_letters": 0.0635,
+    "greek_tokens_3plus": 11855,
+    "greek_tokens_in_reference_vocab": 0.4025,
+    "mixed_script_tokens": 18
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "b8019de49181ec64ba07c242540ac86b5727c3a4e6e855c6c47b11a1b9a29e88"
+ },
+ "icc-abbott-ephesians-colossians": {
+  "title": "A Critical and Exegetical Commentary on the Epistles to the Ephesians and to the Colossians",
+  "author": "T. K. Abbott",
+  "format": "ia-hocr",
+  "sha256": "279e7a5701e62b938bcadbf6b8102fdb3b0286d76165325e9fc4270129f37d74",
+  "units": 320,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic1916abbo (1916) 13.9% / 39.4% / 6,968  <- chosen; acriticalandexeg00abbouoft (1897) 6,953; criticalexegetic00abbo (1897) 6,941; criticalexegetic00abborich (1905) 6,939; criticalexegeticabbotabbo (1979) refused",
+   "note": "The International Critical Commentary: T. K. Abbott, A Critical and Exegetical Commentary on the Epistles to the Ephesians and to the Colossians (New York: Charles Scribner's Sons, 1916), as its title page (leaf 9) reads; scan leaves 9-388 of criticalexegetic1916abbo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1916); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic1916abbo (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic1916abbo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 250,
+    "page": 70
+   },
+   "footnote_lines": 217,
+   "junk_lines_dropped": 16,
+   "leaves_commentary": 307,
+   "leaves_page": 70,
+   "openers_accepted": 252,
+   "openers_out_of_sequence": 21,
+   "openers_rejected": 9,
+   "printed_page_from_neighbours": 30,
+   "printed_page_read": 277,
+   "running_heads_behind": 481,
+   "kjv_coverage": {
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 151,
+     "with_own_note": 129
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 92,
+     "with_own_note": 84
+    }
+   },
+   "scripture_links": {
+    "read": 2467,
+    "resolved": 2172,
+    "ranges": 46,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 109028,
+    "greek_share_of_letters": 0.1392,
+    "greek_tokens_3plus": 17139,
+    "greek_tokens_in_reference_vocab": 0.3924,
+    "mixed_script_tokens": 22
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "e9f33468ee30b4f47043eeae7fe5a147dc604c930239bf01b4d835ea308c3924"
+ },
+ "icc-vincent-philippians-philemon": {
+  "title": "A Critical and Exegetical Commentary on the Epistles to the Philippians and to Philemon",
+  "author": "Marvin R. Vincent",
+  "format": "ia-hocr",
+  "sha256": "c298df1c1a74bf5090f0208325b2f80da0af4efaa344b4c0589f17926f8061c4",
+  "units": 206,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic50vinc (1906) 6.2% / 42.1% / 1,866  <- chosen; criticalexegetic00vincuoft (1902) 1,855; criticalexegetic0000vinc_t9b5 (1897), the scan Lane A shelves as vincent-icc-philippians (pipeline/marvin-r-vincent_shelf.json, branch claude/armarium-divines): a twin with 0.0% Greek, kept for later collation",
+   "note": "The International Critical Commentary: M. R. Vincent, A Critical and Exegetical Commentary on the Epistles to the Philippians and to Philemon (New York: Charles Scribner's Sons, 1906; copyright 1897), as its title page and verso (leaves 19-20) read; scan leaves 19-256 of criticalexegetic50vinc"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1906); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic50vinc (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic50vinc",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 146,
+    "page": 60
+   },
+   "footnote_lines": 107,
+   "junk_lines_dropped": 13,
+   "leaves_commentary": 174,
+   "leaves_page": 60,
+   "openers_accepted": 148,
+   "openers_out_of_sequence": 2,
+   "openers_rejected": 8,
+   "printed_page_from_neighbours": 26,
+   "printed_page_read": 167,
+   "running_heads_behind": 222,
+   "kjv_coverage": {
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 104,
+     "with_own_note": 104
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 23,
+     "with_own_note": 23
+    }
+   },
+   "scripture_links": {
+    "read": 2206,
+    "resolved": 1913,
+    "ranges": 53,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 25446,
+    "greek_share_of_letters": 0.0583,
+    "greek_tokens_3plus": 4010,
+    "greek_tokens_in_reference_vocab": 0.4072,
+    "mixed_script_tokens": 13
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "d4f9786033e1539431e8d57a0ee30200866d49a9c9956d491c395a1470d3527b"
+ },
+ "icc-frame-thessalonians": {
+  "title": "A Critical and Exegetical Commentary on the Epistles of St. Paul to the Thessalonians",
+  "author": "James Everett Frame",
+  "format": "ia-hocr",
+  "sha256": "0dfd6cbaadc3d584260dfeab6e652255d7a57dbd2d71059e28e3f469ac81c355",
+  "units": 180,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalcommenta00framuoft (1912) 11.2% / 39.2% / 4,135  <- chosen; criticalexegetic00framuoft 4,185 (1.2% more, but its title-page year is illegible); exegeticcritical00framrich (1912) 4,095",
+   "note": "The International Critical Commentary: J. E. Frame, A Critical and Exegetical Commentary on the Epistles of St. Paul to the Thessalonians (Edinburgh: T. & T. Clark, 1912, OCR'd '1012'), as its title page (leaf 8) reads; scan leaves 8-328 of criticalcommenta00framuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1912); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalcommenta00framuoft (University of Toronto (Emmanuel) copy)",
+   "source_url": "https://archive.org/details/criticalcommenta00framuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 108,
+    "page": 72
+   },
+   "footnote_lines": 270,
+   "junk_lines_dropped": 16,
+   "leaves_commentary": 247,
+   "leaves_page": 72,
+   "openers_accepted": 106,
+   "openers_out_of_sequence": 9,
+   "openers_rejected": 3,
+   "printed_page_from_neighbours": 139,
+   "printed_page_read": 166,
+   "running_heads_behind": 2589,
+   "kjv_coverage": {
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 68,
+     "with_own_note": 64
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 37,
+     "with_own_note": 32
+    }
+   },
+   "scripture_links": {
+    "read": 2519,
+    "resolved": 156,
+    "ranges": 32,
+    "ranges_start_only": 11
+   },
+   "greek": {
+    "greek_letters": 58985,
+    "greek_share_of_letters": 0.1054,
+    "greek_tokens_3plus": 9244,
+    "greek_tokens_in_reference_vocab": 0.3927,
+    "mixed_script_tokens": 24
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "499ad2b0ea3b54e7adfce5d5380628acadd84058adee1a62abd5c9005f07b653"
+ },
+ "icc-ropes-james": {
+  "title": "A Critical and Exegetical Commentary on the Epistle of St. James",
+  "author": "James Hardy Ropes",
+  "format": "ia-hocr",
+  "sha256": "783ebebe3d15539ba2005b26e5676fe649de7d7a43425d3cb680e1f7a2065be6",
+  "units": 243,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalandexege028105mbp (1916) 9.1% / 35.4% / 2,817  <- chosen; in.ernet.dli.2015.179333 (1916) 2,805; criticalexegetic59rope (1916) 2,726",
+   "note": "The International Critical Commentary: J. H. Ropes, A Critical and Exegetical Commentary on the Epistle of St. James (New York: Charles Scribner's Sons, 1916; published February 1916), as its title page and verso (leaves 6-7) read; scan leaves 6-339 of criticalandexege028105mbp"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1916); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalandexege028105mbp (Universal Digital Library copy)",
+   "source_url": "https://archive.org/details/criticalandexege028105mbp",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 118,
+    "page": 125
+   },
+   "footnote_lines": 249,
+   "junk_lines_dropped": 2,
+   "leaves_commentary": 206,
+   "leaves_page": 125,
+   "openers_accepted": 121,
+   "openers_out_of_sequence": 14,
+   "openers_rejected": 9,
+   "printed_page_from_neighbours": 122,
+   "printed_page_read": 187,
+   "running_heads_behind": 375,
+   "kjv_coverage": {
+    "Jas": {
+     "kjv_verses": 108,
+     "commented": 104,
+     "with_own_note": 86
+    }
+   },
+   "scripture_links": {
+    "read": 1378,
+    "resolved": 59,
+    "ranges": 2,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 49037,
+    "greek_share_of_letters": 0.0922,
+    "greek_tokens_3plus": 7646,
+    "greek_tokens_in_reference_vocab": 0.3497,
+    "mixed_script_tokens": 22
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "2663e04e1d11bf6d766c41b16155c9b4c7f2bad23c5bc2896f78c9f1bbc6904c"
+ },
+ "icc-bigg-peter-jude": {
+  "title": "A Critical and Exegetical Commentary on the Epistles of St. Peter and St. Jude",
+  "author": "Charles Bigg",
+  "format": "ia-hocr",
+  "sha256": "37c8561352ccee383174557e242546744bb786e29ecfc38a8dea4780139efa9c",
+  "units": 328,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic00bigguoft (1903) 9.0% / 37.2% / 4,051  <- chosen; criticalexegetic1905bigg (1905) 4,050; biggcriticalexeg00biggrich (1905) 4,027; acriticalandexe02bigggoog (1902) 4,011; criticalexegetic00bigg (1901) 3,978, the scan Lane A shelves as bigg-peter-jude-icc (pipeline/charles-bigg_shelf.json, branch claude/armarium-divines): a twin, kept for later collation",
+   "note": "The International Critical Commentary: C. Bigg, A Critical and Exegetical Commentary on the Epistles of St. Peter and St. Jude (New York: Charles Scribner's Sons, 1903), as its title page (leaf 14) reads; scan leaves 14-367 of criticalexegetic00bigguoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1903); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00bigguoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00bigguoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 166,
+    "page": 162
+   },
+   "footnote_lines": 14,
+   "junk_lines_dropped": 26,
+   "leaves_commentary": 190,
+   "leaves_page": 162,
+   "openers_accepted": 166,
+   "openers_out_of_sequence": 15,
+   "openers_rejected": 2,
+   "printed_page_from_neighbours": 117,
+   "printed_page_read": 226,
+   "running_heads_behind": 184,
+   "kjv_coverage": {
+    "1Pet": {
+     "kjv_verses": 105,
+     "commented": 92,
+     "with_own_note": 88
+    },
+    "2Pet": {
+     "kjv_verses": 61,
+     "commented": 55,
+     "with_own_note": 53
+    },
+    "Jude": {
+     "kjv_verses": 25,
+     "commented": 19,
+     "with_own_note": 17
+    }
+   },
+   "scripture_links": {
+    "read": 2435,
+    "resolved": 2072,
+    "ranges": 65,
+    "ranges_start_only": 2
+   },
+   "greek": {
+    "greek_letters": 71126,
+    "greek_share_of_letters": 0.0951,
+    "greek_tokens_3plus": 10658,
+    "greek_tokens_in_reference_vocab": 0.371,
+    "mixed_script_tokens": 23
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "6772e91fdd3afe5dda03f56fff29f68ab7cf72a6bf6c410edb562539c070c41b"
+ },
+ "icc-brooke-johannine-epistles": {
+  "title": "A Critical and Exegetical Commentary on the Johannine Epistles",
+  "author": "A. E. Brooke",
+  "format": "ia-hocr",
+  "sha256": "3eec446a14883a3c88919e443fd22b187aeee8c9450f117cbb702ca2562a73a7",
+  "units": 224,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "00355394.1237.emory.edu (1912) 11.6% / 44.0% / 5,423  <- chosen; criticalexegetic00broo (undated) 5,371; criticalexegetic43broouoft (1957) refused",
+   "note": "The International Critical Commentary: A. E. Brooke, A Critical and Exegetical Commentary on the Johannine Epistles (Edinburgh: T. & T. Clark, 1912), as its title page (leaf 5) reads; scan leaves 5-295 of 00355394.1237.emory.edu"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1912); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, 00355394.1237.emory.edu (Emory University, Pitts Theology Library copy)",
+   "source_url": "https://archive.org/details/00355394.1237.emory.edu",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 129,
+    "page": 95
+   },
+   "footnote_lines": 186,
+   "junk_lines_dropped": 6,
+   "leaves_commentary": 195,
+   "leaves_page": 95,
+   "openers_accepted": 133,
+   "openers_out_of_sequence": 16,
+   "openers_rejected": 14,
+   "printed_page_from_neighbours": 75,
+   "printed_page_read": 127,
+   "running_heads_behind": 1245,
+   "kjv_coverage": {
+    "1John": {
+     "kjv_verses": 105,
+     "commented": 93,
+     "with_own_note": 85
+    },
+    "2John": {
+     "kjv_verses": 13,
+     "commented": 12,
+     "with_own_note": 11
+    },
+    "3John": {
+     "kjv_verses": 14,
+     "commented": 13,
+     "with_own_note": 13
+    }
+   },
+   "scripture_links": {
+    "read": 903,
+    "resolved": 757,
+    "ranges": 15,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 63314,
+    "greek_share_of_letters": 0.1136,
+    "greek_tokens_3plus": 10512,
+    "greek_tokens_in_reference_vocab": 0.399,
+    "mixed_script_tokens": 9
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "0c418cbd3c4eaefd7a31b4e1d2a3ea977b6d8819619b03ab20c99f33720f2545"
+ },
+ "icc-charles-revelation-1": {
+  "title": "A Critical and Exegetical Commentary on the Revelation of St. John, vol. I",
+  "author": "R. H. Charles",
+  "format": "ia-hocr",
+  "sha256": "b7a12ef7d6511d431b1b5ee24bd780fdeadf74a4ed5601c3d36723e7c55cf154",
+  "units": 422,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic0044char (1920) 13.2% / 37.6% / 9,284  <- chosen; criticalexegetic01char 9,217, criticalandexege008418mbp 9,195, acriticalandexeg01charuoft 9,186, criticalexegetic661char 9,168, in.ernet.dli.2015.167208 9,102, internationalcr01plumgoog 9,081, acriticalandexe00chargoog 8,990 (all 1920); p1criticalexeget44charuoft (1956) refused",
+   "note": "The International Critical Commentary: R. H. Charles, A Critical and Exegetical Commentary on the Revelation of St. John, vol. I (New York: Charles Scribner's Sons, 1920), as its title page (leaf 9) reads; scan leaves 9-569 of criticalexegetic0044char"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1920); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0044char (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0044char",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 234,
+    "page": 188
+   },
+   "footnote_lines": 743,
+   "junk_lines_dropped": 29,
+   "leaves_commentary": 372,
+   "leaves_page": 188,
+   "openers_accepted": 267,
+   "openers_out_of_sequence": 19,
+   "openers_rejected": 201,
+   "printed_page_from_neighbours": 55,
+   "printed_page_read": 317,
+   "running_heads_behind": 12100,
+   "kjv_coverage": {
+    "Rev": {
+     "kjv_verses": 404,
+     "commented": 226,
+     "with_own_note": 219,
+     "chapters": [
+      1,
+      18
+     ],
+     "kjv_verses_in_chapters": 320
+    }
+   },
+   "scripture_links": {
+    "read": 2309,
+    "resolved": 1546,
+    "ranges": 63,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 144963,
+    "greek_share_of_letters": 0.1361,
+    "greek_tokens_3plus": 24056,
+    "greek_tokens_in_reference_vocab": 0.3782,
+    "mixed_script_tokens": 29
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "1fe72b82f0955e55622940983a9573727c19083666634f822be2fbbbb43632ed"
+ },
+ "icc-charles-revelation-2": {
+  "title": "A Critical and Exegetical Commentary on the Revelation of St. John, vol. II",
+  "author": "R. H. Charles",
+  "format": "ia-hocr",
+  "sha256": "99a13fd7d62bff1f8337070a7954d85b4322f114c75f26a1a7bb2ea2ab261813",
+  "units": 358,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic02char (1920) 20.0% / 37.7% / 10,545  <- chosen; criticalexegetic662char 10,537, criticalexegetic0044char_a2i0 10,447, acriticalandexeg02charuoft 10,377, criticalandexege028098mbp 10,172, in.ernet.dli.2015.153339 10,142, in.ernet.dli.2015.178982 10,119, internationalcr02plumgoog 9,808 (all 1920), and four undated; p2criticalexeget44charuoft (1959) refused",
+   "note": "The International Critical Commentary: R. H. Charles, A Critical and Exegetical Commentary on the Revelation of St. John, vol. II (New York: Charles Scribner's Sons, 1920), as its title page (leaf 7) reads; with Charles's Greek text and English translation of the whole book, kept by page; scan leaves 7-470 of criticalexegetic02char"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1920); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic02char (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic02char",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 122,
+    "page": 236
+   },
+   "footnote_lines": 232,
+   "junk_lines_dropped": 54,
+   "leaves_commentary": 225,
+   "leaves_page": 236,
+   "openers_accepted": 154,
+   "openers_out_of_sequence": 12,
+   "openers_rejected": 240,
+   "printed_page_from_neighbours": 39,
+   "printed_page_read": 412,
+   "running_heads_behind": 2831,
+   "kjv_coverage": {
+    "Rev": {
+     "kjv_verses": 404,
+     "commented": 122,
+     "with_own_note": 105,
+     "chapters": [
+      14,
+      22
+     ],
+     "kjv_verses_in_chapters": 175
+    }
+   },
+   "scripture_links": {
+    "read": 945,
+    "resolved": 682,
+    "ranges": 35,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 155435,
+    "greek_share_of_letters": 0.2116,
+    "greek_tokens_3plus": 26464,
+    "greek_tokens_in_reference_vocab": 0.3592,
+    "mixed_script_tokens": 35
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "46528cb0619ab5ea66ae3ea806131e8ff79741359e65616f96d5df47290b3ca3"
+ },
+ "icc-skinner-genesis": {
+  "title": "A Critical and Exegetical Commentary on Genesis",
+  "author": "John Skinner",
+  "format": "ia-hocr",
+  "sha256": "eba56485d292bb32077c077df42663c6ab118e1e0b85d5dbdb16fdc76ab43c6f",
+  "units": 992,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and so is a line opening so after a sentence's end, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over the ICC volumes holding it (measure.numbering_work), and where that too is undecided a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Gen": "undecided"
+   },
+   "scan_choice": "acriticalandexeg00skinuoft (1910) Greek 1.9% / 29.7% / 1,013, Hebrew 0.0%  <- chosen; criticalexegetic00skinrich 970, criticalexegetic00skinuoft 968, criticalexegetic01skin 949 (all 1910); no scan keeps the Hebrew",
+   "note": "The International Critical Commentary: J. Skinner, A Critical and Exegetical Commentary on Genesis (New York: Charles Scribner's Sons, 1910, OCR'd 'IgIo'), as its title page (leaf 16) reads; scan leaves 16-641 of acriticalandexeg00skinuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1910); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, acriticalandexeg00skinuoft (University of Toronto (Kelly) copy)",
+   "source_url": "https://archive.org/details/acriticalandexeg00skinuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 907,
+    "page": 85
+   },
+   "footnote_lines": 1357,
+   "junk_lines_dropped": 55,
+   "leaves_commentary": 540,
+   "leaves_page": 85,
+   "openers_accepted": 1025,
+   "openers_out_of_sequence": 110,
+   "openers_rejected": 197,
+   "printed_page_from_neighbours": 237,
+   "printed_page_read": 281,
+   "running_heads_behind": 1851,
+   "kjv_coverage": {
+    "Gen": {
+     "kjv_verses": 1533,
+     "commented": 1215,
+     "with_own_note": 641
+    }
+   },
+   "scripture_links": {
+    "read": 487,
+    "resolved": 48,
+    "ranges": 2,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 2,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 47,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "1Chr": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-paton-esther"
+     ]
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ezek": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Hos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jonah": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Lev": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 19730,
+    "greek_share_of_letters": 0.0171,
+    "greek_tokens_3plus": 2876,
+    "greek_tokens_in_reference_vocab": 0.2938,
+    "mixed_script_tokens": 4
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "0ff20fa2b18581e135676131466b21d892471fb3721eef80e41c3e0be762fe8f"
+ },
+ "icc-paton-esther": {
+  "title": "A Critical and Exegetical Commentary on the Book of Esther",
+  "author": "Lewis Bayles Paton",
+  "format": "ia-hocr",
+  "sha256": "4e079cc0bbf84f79a0c3b96cae06034c06f6636f3d139625a9ae2a8e7367f7c2",
+  "units": 271,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and so is a line opening so after a sentence's end, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over the ICC volumes holding it (measure.numbering_work), and where that too is undecided a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Esth": "undecided"
+   },
+   "scan_choice": "criticalexegetic00patorich (1908) Greek 3.0% / 34.6% / 1,004, Hebrew 0.0%  <- chosen: no other scan keeps its Greek, none its Hebrew; criticalexegetic13patouoft (1951) refused",
+   "note": "The International Critical Commentary: L. B. Paton, A Critical and Exegetical Commentary on the Book of Esther (New York: Charles Scribner's Sons, 1908; published September 1908), as its title page and verso (leaves 15-16) read; scan leaves 15-336 of criticalexegetic00patorich"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1908); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic00patorich (University of California Libraries copy)",
+   "source_url": "https://archive.org/details/criticalexegetic00patorich",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 138,
+    "page": 133
+   },
+   "footnote_lines": 211,
+   "junk_lines_dropped": 5,
+   "leaves_commentary": 188,
+   "leaves_page": 133,
+   "openers_accepted": 202,
+   "openers_out_of_sequence": 17,
+   "openers_rejected": 77,
+   "printed_page_from_neighbours": 45,
+   "printed_page_read": 258,
+   "running_heads_behind": 289,
+   "kjv_coverage": {
+    "Esth": {
+     "kjv_verses": 167,
+     "commented": 136,
+     "with_own_note": 135
+    }
+   },
+   "scripture_links": {
+    "read": 126,
+    "resolved": 13,
+    "ranges": 3,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 10,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-paton-esther"
+     ]
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Jonah": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    }
+   },
+   "greek": {
+    "greek_letters": 16961,
+    "greek_share_of_letters": 0.0311,
+    "greek_tokens_3plus": 2621,
+    "greek_tokens_in_reference_vocab": 0.3426,
+    "mixed_script_tokens": 10
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "8fbfbdc4156cb27c99b9c24532b9b261e6aacef68eda54182a7940cd0a7ab6fd"
+ },
+ "icc-smith-samuel": {
+  "title": "A Critical and Exegetical Commentary on the Books of Samuel",
+  "author": "Henry Preserved Smith",
+  "format": "ia-hocr",
+  "sha256": "1e8feeec8063b7742363289f66719b614a30b6ff238a4a4fd4fdca26ee0cec09",
+  "units": 1286,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate, and so is a line opening so after a sentence's end, and a number run on after a dash ('... at the installation. — 3. A metaphor'), accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over the ICC volumes holding it (measure.numbering_work), and where that too is undecided a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split by guess; the footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, appendices and every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "1Sam": "undecided",
+    "2Sam": "undecided"
+   },
+   "scan_choice": "criticalexegetic0009smit_z1y7 (1899) Hebrew 2.9% of letters, 5,456 tokens of 3+ letters, 52.5% a Strong's lemma (or one with a prefix); Greek 0.0%  <- chosen; criticalexegetic0009smit_i8j1 (1904) 2.8% / 5,467 / 52.0%; criticalexegetic0009smit (1951 impression) refused; no scan keeps the Greek",
+   "note": "The International Critical Commentary: H. P. Smith, A Critical and Exegetical Commentary on the Books of Samuel (New York: Charles Scribner's Sons, 1899), as its title page and verso (leaves 17-18) read; scan leaves 17-447 of criticalexegetic0009smit_z1y7"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1899); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0009smit_z1y7 (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0009smit_z1y7",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 1249,
+    "page": 37
+   },
+   "footnote_lines": 747,
+   "junk_lines_dropped": 20,
+   "leaves_commentary": 391,
+   "leaves_page": 37,
+   "openers_accepted": 1514,
+   "openers_out_of_sequence": 142,
+   "openers_rejected": 634,
+   "printed_page_from_neighbours": 202,
+   "printed_page_read": 181,
+   "running_heads_behind": 967,
+   "kjv_coverage": {
+    "1Sam": {
+     "kjv_verses": 810,
+     "commented": 680,
+     "with_own_note": 535
+    },
+    "2Sam": {
+     "kjv_verses": 695,
+     "commented": 541,
+     "with_own_note": 434
+    }
+   },
+   "scripture_links": {
+    "read": 548,
+    "resolved": 9,
+    "ranges": 3,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "1Sam": {
+     "read": 794,
+     "only_hebrew": 3,
+     "only_kjv": 2,
+     "decision": "undecided"
+    },
+    "2Sam": {
+     "read": 540,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 1,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 9,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "1Chr": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "1Sam": {
+     "read": 794,
+     "only_hebrew": 3,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "icc-smith-samuel"
+     ]
+    },
+    "2Sam": {
+     "read": 540,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-smith-samuel"
+     ]
+    },
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 23,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-paton-esther"
+     ]
+    },
+    "Hos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 23104,
+    "hebrew_share_of_letters": 0.0291
+   }
+  },
+  "built_sha256": "4dd58695ef418b71f693f7696d06a31852489192052de894ba1503336e69b299"
+ },
+ "icc-briggs-psalms-1": {
+  "title": "A Critical and Exegetical Commentary on the Book of Psalms, vol. I",
+  "author": "Charles Augustus Briggs and Emilie Grace Briggs",
+  "format": "ia-hocr",
+  "sha256": "741521b7bef5ab19de36e7e47bb30f407aebc5106b0566c72bde40b3448560ba",
+  "units": 530,
+  "scheme": {
+   "citation": "scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "by scan leaf only (leaf.N, the folio in scan.printed_page where read): the notes measured under BY_PAGE_FLOOR as verse units (41.6% of the verses at best: Briggs prints each psalm's translation, exegesis and critical notes, each numbered by verse, and cites verses as superscripts the OCR fuses to the psalm's number); the scripture references in the text are read as on every page, the OT ones in the numbering measured for them (measure.numbering_references); the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Ps": "undecided"
+   },
+   "scan_choice": "criticalexegetic0000brig_t9m0 (1906) Hebrew 2.6% / 5,700 / 56.2%; Greek 0.0%  <- chosen, the first printing; criticalexegetic0000brig_j3b5 (1908) 2.6% / 5,683 / 55.0%; criticalexegetic0015brig (1927, fourth impression, Clark) 2.7% / 5,640 / 57.4%; criticalexegetic0000brig_q1p1 (latest impression 1976), the scan Lane A shelves as briggs-psalms-1 (pipeline/charles-a-briggs_shelf.json, branch claude/armarium-divines): refused here, a post-1928 reprint; no scan keeps the Greek",
+   "note": "The International Critical Commentary: C. A. Briggs and E. G. Briggs, A Critical and Exegetical Commentary on the Book of Psalms, vol. I (Psalms I-L) (New York: Charles Scribner's Sons, 1906; published September 1906), as its title page and verso (leaves 17-18) read; scan leaves 17-549 of criticalexegetic0000brig_t9m0"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1906); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0000brig_t9m0 (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0000brig_t9m0",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "page": 530
+   },
+   "junk_lines_dropped": 17,
+   "leaves_page": 530,
+   "printed_page_from_neighbours": 38,
+   "printed_page_read": 378,
+   "kjv_coverage": {
+    "Ps": {
+     "kjv_verses": 2461,
+     "commented": 0,
+     "with_own_note": 0
+    }
+   },
+   "scripture_links": {
+    "read": 655,
+    "resolved": 19,
+    "ranges": 0,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 100,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 18,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ezek": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Mal": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Mic": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 28948,
+    "hebrew_share_of_letters": 0.0296
+   }
+  },
+  "built_sha256": "7664139794f66a441e9d8c08ed3a6611264200870e65a2eae13b996767cc388d"
+ },
+ "icc-briggs-psalms-2": {
+  "title": "A Critical and Exegetical Commentary on the Book of Psalms, vol. II",
+  "author": "Charles Augustus Briggs and Emilie Grace Briggs",
+  "format": "ia-hocr",
+  "sha256": "7bfd53e245ef857cf243dee977183fbeed4df2cc4a52cf62e1bbc76a78f5b515",
+  "units": 549,
+  "scheme": {
+   "citation": "scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "by scan leaf only (leaf.N, the folio in scan.printed_page where read): the notes measured under BY_PAGE_FLOOR as verse units (23.6% of the verses with the reader's openers: Briggs prints each psalm's translation, exegesis and critical notes, each numbered by verse, and cites verses as superscripts the OCR fuses to the psalm's number); the scripture references in the text are read as on every page, the OT ones in the numbering measured for them (measure.numbering_references); the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Ps": "undecided"
+   },
+   "scan_choice": "criticalexegetic0000brig (1907) Hebrew 3.2% / 7,084 / 55.6%; Greek 0.0%  <- chosen; criticalexegetic0000brig_j8i1 (vol. II, copyright 1907, IA date 1906) 3.2% / 7,101 / 54.4%; criticalexegetic0002brig (1925 or later, list partly illegible) 3.2% / 6,977 / 56.3%; criticalexegetic0002char_h5l9 (1917) 2.3% / 5,046 / 56.5%; no scan keeps the Greek",
+   "note": "The International Critical Commentary: C. A. Briggs and E. G. Briggs, A Critical and Exegetical Commentary on the Book of Psalms, vol. II (Psalms LI-CL) (New York: Charles Scribner's Sons, 1907; published February 1907), as its title page and verso (leaves 17-18) read (the OCR reads the title page's volume number as '1'; the volume opens at Psalm LI); scan leaves 17-567 of criticalexegetic0000brig"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1907); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetic0000brig (Internet Archive scan copy)",
+   "source_url": "https://archive.org/details/criticalexegetic0000brig",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "page": 549
+   },
+   "junk_lines_dropped": 11,
+   "leaves_page": 549,
+   "printed_page_from_neighbours": 73,
+   "printed_page_read": 467,
+   "kjv_coverage": {
+    "Ps": {
+     "kjv_verses": 2461,
+     "commented": 0,
+     "with_own_note": 0
+    }
+   },
+   "scripture_links": {
+    "read": 420,
+    "resolved": 34,
+    "ranges": 1,
+    "ranges_start_only": 0
+   },
+   "numbering_own": {
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 57,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 40,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "Amos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Deut": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Exod": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ezek": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Gen": {
+     "read": 1005,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-skinner-genesis"
+     ]
+    },
+    "Hos": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jonah": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Josh": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Mic": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "icc-briggs-psalms-1",
+      "icc-briggs-psalms-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 31421,
+    "hebrew_share_of_letters": 0.0323
+   }
+  },
+  "built_sha256": "28b56cb9eed585abb77108c6310f61ddcc128d43f371bcae217717921da2c803"
  },
  "aquinas-st-en": {
   "title": "Summa Theologiae (English, Fathers of the English Dominican Province, 2nd ed. 1920-22), keyed by article",

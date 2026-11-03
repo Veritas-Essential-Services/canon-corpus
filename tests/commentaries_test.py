@@ -240,6 +240,16 @@ check("scripture: each kept OCR misreading before a self 'c.' is read (SELF_C_OC
 check("scripture: 'Rom. 8:1, 12:3' and 'Rom. viii. 1, 2, 12. 3' end at Rom 12:3, not Rom 8:12",
       [x["target"] for x in B.scripture("Rom. 8:1, 12:3", ids)] == ["kjv:Rom.8.1", "kjv:Rom.12.3"]
       and [x["target"] for x in B.scripture("Rom. viii. 1, 2, 12. 3", ids)] == ["kjv:Rom.8.1", "kjv:Rom.8.2", "kjv:Rom.12.3"])
+# (review c13) a range before the comma: 'Rom. 8:1-3, 12:3' and 'Rom. viii. 1-3, 12. 3' are Rom 8:1-3 and 12:3
+for t in ("Rom. 8:1-3, 12:3", "Rom. viii. 1-3, 12. 3"):
+    check(f"scripture: '{t}' is Rom 8:1-3 then Rom 12:3, not Rom 8:12",
+          [(x.get("target"), x.get("through")) for x in B.scripture(t, ids)]
+          == [("kjv:Rom.8.1", "kjv:Rom.8.3"), ("kjv:Rom.12.3", None)])
+check("scripture: a lone range then another Roman chapter after a comma ('Rom. viii. 1-3, ix. 3')",
+      [(x.get("target"), x.get("through")) for x in B.scripture("Rom. viii. 1-3, ix. 3", ids)]
+      == [("kjv:Rom.8.1", "kjv:Rom.8.3"), ("kjv:Rom.9.3", None)])
+check("verse_lists: a lone range with no chapter after it, and a lone verse, are left as printed",
+      B.verse_lists("Rom. viii. 1-3, and") == "Rom. viii. 1-3, and" and B.verse_lists("Rom. viii. 1") == "Rom. viii. 1")
 check("scripture: a name in a bracket before a self 'c.' is refused ('(Irenaeus c. iv. 3', '(Leo c. v. 11')",
       not B.scripture("so (Irenaeus c. iv. 3)", ids, own="Gal", chapter=2)
       and not B.scripture("so (Leo c. v. 11)", ids, own="Gal", chapter=2))
@@ -252,7 +262,7 @@ check("pins: Bengel vol. II is Fausset's translation, as its title page reads",
 # (review c10) Lane A's scans
 check("pins: same_scan_as names Lane A's items for the books that share its scans, and only them",
       set(B.SAME_SCAN_AS) == {"westcott-hebrews", "westcott-john", "westcott-gospel-john",
-                              "alford-commentary-2", "alford-commentary-4"}
+                              "alford-commentary-2", "alford-commentary-4", "icc-plummer-luke"}
       and "gospelaccordingt02west_0 (vol. 2)" not in B.SCANS["westcott-gospel-john"]["note"]
       and "cu31924075537088" in B.SCANS["lightfoot-galatians"]["note"]
       and "saintpaulsepistl00ligh" in B.SCANS["lightfoot-philippians"]["note"]
@@ -295,8 +305,9 @@ check("pins: the Horae's printed year is 1859, labelled as the sheets, the copie
 check("pins: every edition printed before 1929", all(s["printed"] < 1929 for s in list(B.SCANS.values()) + list(B.GUTENBERG.values())))
 check("pins: every scan's Internet Archive date (pinned from its metadata; fetch() stops if it changes) is "
       "before 1929 and is the edition's printed year, or a note says why not",
-      all(re.match(r"\d{4}", v.get("ia_date", "")) and int(v["ia_date"][:4]) < 1929 and v["printed"] < 1929
-          and (int(v["ia_date"][:4]) == v["printed"] or v.get("ia_date_note"))
+      all(re.match(r"\[?\d{4}", v.get("ia_date", "")) and int(re.search(r"\d{4}", v["ia_date"]).group()) < 1929
+          and v["printed"] < 1929        # WAVE8: an undated issue is catalogued '[1897?-1910?]'
+          and (int(re.search(r"\d{4}", v["ia_date"]).group()) == v["printed"] or v.get("ia_date_note"))
           for s in B.SCANS.values() for v in B.volumes(s)))
 
 # -- the second shelf's ranges (Keil & Delitzsch)
@@ -332,10 +343,15 @@ check("manifest: 1 John, 95% of verses", cov("westcott-john", "1John")["commente
 LOW_GREEK = {"hort-ante-nicene", "lightfoot-horae"}     # lectures; and the Horae, whose quotations are Hebrew
 check("manifest: the commentaries' Greek survived as Greek (over 5% of letters)",
       all(ents[k]["measure"]["greek"]["greek_share_of_letters"] > 0.05 for k in B.ORDER
-          if k not in LOW_GREEK and B.SCANS.get(k, {}).get("reader") not in B.KD_READERS))
+          if k not in LOW_GREEK and B.SCANS.get(k, {}).get("reader") not in B.KD_READERS
+          and B.SCANS.get(k, {}).get("lost") != "greek" and not B.SCANS.get(k, {}).get("numbered")))
+# WAVE8: the EGT's margins cite whole chapters ('Acts 15') and the Apocrypha, which resolve to no KJV verse
+# (measured on vol. V: 435 of 837 unresolved), so its floor is 75%
 check("manifest: most scripture references resolve",
-      all(e["measure"]["scripture_links"]["resolved"] >= 0.8 * e["measure"]["scripture_links"]["read"]
-          for k, e in ents.items() if k not in LOW_GREEK))
+      all(e["measure"]["scripture_links"]["resolved"]
+          >= (0.75 if B.SCANS.get(k, {}).get("reader") == "egt" else 0.8) * e["measure"]["scripture_links"]["read"]
+          for k, e in ents.items() if k not in LOW_GREEK
+          and not B.SCANS.get(k, {}).get("superscripts") and not B.SCANS.get(k, {}).get("by_page")))
 check("manifest: Hort is by page, six lectures found",
       ents["hort-ante-nicene"]["scheme"]["resolution"] == "page" and ents["hort-ante-nicene"]["measure"]["lecture_headings"] == 6)
 check("manifest: every Gutenberg footnote placed",
@@ -538,13 +554,23 @@ for k in B.SECOND:
     cv = e["measure"]["kjv_coverage"]
     tot = sum(c.get("kjv_verses_in_chapters", c["kjv_verses"]) for c in cv.values())
     got = sum(c["commented"] for c in cv.values())
-    floor = 0.5 if k.startswith("alford") else 0.7
-    check(f"manifest: {k} notes reach {floor:.0%} of its verses", got >= floor * tot)
-    if B.SECOND[k]["reader"] in B.KD_READERS:
+    floor = 0.5 if k.startswith("alford") else B.BY_PAGE_FLOOR if B.SECOND[k]["reader"] == "icc" else 0.7
+    if B.SECOND[k].get("by_page"):          # WAVE8: kept by page, and says why
+        check(f"manifest: {k} is by page and its honesty says so", got == 0
+              and e["scheme"]["honesty"].startswith("by scan leaf only"))
+    else:
+        check(f"manifest: {k} notes reach {floor:.0%} of its verses", got >= floor * tot)
+    if B.SECOND[k]["reader"] in B.KD_READERS or B.SECOND[k].get("numbered"):
         check(f"manifest: {k} records the numbering measured", set(e["scheme"]["numbering"]) == set(cv)
               and "numbering_references" in e["measure"])
-        check(f"manifest: {k} says its Hebrew is lost", e["measure"]["hebrew"]["hebrew_letters"] == 0
-              and "Hebrew words are lost" in e["scheme"]["honesty"])
+        if B.SECOND[k].get("lost", "hebrew") == "hebrew":
+            check(f"manifest: {k} says its Hebrew is lost", e["measure"]["hebrew"]["hebrew_letters"] == 0
+                  and "Hebrew words are lost" in e["scheme"]["honesty"])
+        else:                               # WAVE8: an ICC scan that keeps its Hebrew and lost its Greek
+            check(f"manifest: {k} kept its Hebrew and says its Greek is lost",
+                  e["measure"]["hebrew"]["hebrew_share_of_letters"] > 0.02
+                  and e["measure"]["greek"]["greek_share_of_letters"] < 0.001
+                  and "Greek words are lost" in e["scheme"]["honesty"])
     else:
         check(f"manifest: {k} kept its Greek", e["measure"]["greek"]["greek_share_of_letters"] > 0.05)
 check("manifest: Delitzsch's Psalms are measured as numbered in the Hebrew",
@@ -647,8 +673,9 @@ check("manifest: Meyer on Mark and on Romans comment on 95% of their verses",
 # (review c11) the pooled votes as the committed manifest records them (measure.numbering_work):
 # no scan needed
 _nw = {}
-for _e in ents.values():
-    _nw.update(_e["measure"].get("numbering_work", {}))
+for _k, _e in ents.items():
+    if B.SCANS.get(_k, {}).get("series", "kd") == "kd":       # WAVE8: the ICC pools its own (series icc)
+        _nw.update(_e["measure"].get("numbering_work", {}))
 if {"Ps", "Joel", "Mal"} <= set(_nw):
     check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew (manifest)",
           _nw["Ps"]["decision"] == "hebrew" and len(_nw["Ps"]["volumes"]) == 3)
@@ -681,7 +708,9 @@ check("ot_link: undecided, a verse both read alike resolves", x["resolved"] and 
 _s = B.SCANS["delitzsch-psalms-2"]
 _s["_numbering"] = {"Ps": {"decision": "undecided"}}
 _u = [{"id": "delitzsch-psalms-2:51.10", "kind": "note", "book": "Ps", "links": [],
-       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Eccl. v. 1; Joel iii. 1."}]
+       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Eccl. v. 1; Joel iii. 1."},
+      {"id": "delitzsch-psalms-2:51.12", "kind": "note", "book": "Ps", "links": [],
+       "text": "So Ps. li. 3, 4, 13; Gen. viii. 1-3, xii. 3."}]
 try:
     _n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
 except SystemExit as e:         # neither the K&D scans nor their committed votes (review c11)
@@ -689,6 +718,7 @@ except SystemExit as e:         # neither the K&D scans nor their committed vote
     print(f"SKIPPED (scans absent) harvest K&D: {str(e).splitlines()[0]}")
 _s.pop("_numbering")
 lk = {x["ref"]: x for x in _u[0]["links"]}
+lk2 = [x["ref"] for x in _u[1]["links"]]
 if _x is not None:
     check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
           not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
@@ -698,6 +728,9 @@ if _x is not None:
     check("harvest: Eccl 5:1, where no volume measures Ecclesiastes, is unresolved with both candidates",
           not lk.get("Eccl 5:1", {"resolved": True})["resolved"] and len(lk["Eccl 5:1"].get("candidates", [])) == 2)
     check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
+    # (review c13) the K&D harvest reads through the same pre-pass as scripture(): a list stays in its chapter
+    check("harvest (K&D): 'Ps. li. 3, 4, 13' is three verses of Ps 51, not Ps 4:13; 'Gen. viii. 1-3, xii. 3' "
+          "ends at Gen 12:3", lk2 == ["Ps 51:3", "Ps 51:4", "Ps 51:13", "Gen 8:1-3", "Gen 12:3"])
     check("harvest: the work's numbering consulted is recorded", {"Ps", "Eccl", "Joel"} <= set(_x["numbering_work"]))
 
 # -- Keil & Delitzsch, the rest of the set (4c)
@@ -802,6 +835,20 @@ check("kdh_span_key: a verse, a run, a run crossing a chapter",
       == ("3.5", "3.10-12", "9.34-10.2"))
 check("kdh_verses_of: a run crossing a chapter lists its verses",
       B.kdh_verses_of(9, 34, 10, 2, {9: 35, 10: 20}) == [(9, 34), (9, 35), (10, 1), (10, 2)])
+# (review c13) a run crossing a chapter is filled to the chapter's length in the decided numbering, never the
+# larger of the two: in a Hebrew Job, ch. 41 ends at 26 (the KJV's 34); undecided, the shorter, said approximate
+try:
+    _fill, _apx = B.kdh_fill_counts({"Job": {"decision": "hebrew"}, "Song": {"decision": "undecided"}},
+                                    {"Job": B.verse_counts(ids, "Job"), "Song": B.verse_counts(ids, "Song")}, ids)
+except SystemExit as e:
+    _fill = None
+    print(f"SKIPPED (scans absent) kdh_fill_counts: {str(e).splitlines()[0]}")
+if _fill is not None:
+    check("kdh fill: Hebrew Job, a run 41.25-42.2 is 41:25-26 and 42:1-2 (no phantom 41:27-34)",
+          B.kdh_verses_of(41, 25, 42, 2, _fill["Job"]) == [(41, 25), (41, 26), (42, 1), (42, 2)] and not _apx["Job"])
+    check("kdh fill: undecided (Song: no volume measures it), the shorter count, the differing chapters named",
+          B.kdh_verses_of(6, 12, 7, 1, _fill["Song"]) == [(6, 12), (7, 1)] and 6 in _apx["Song"]
+          and 1 not in _apx["Song"])
 check("K&D 4d: six volumes, reader kdh, pinned, printed before 1929, in SECOND, SCANS and ORDER",
       len(B.KD4D) == 6 and all(s["reader"] == "kdh" and re.fullmatch(r"[0-9a-f]{64}", s["sha256"]) and s["printed"] < 1929
                                and k in B.SECOND and k in B.SCANS and k in B.ORDER for k, s in B.KD4D.items()))
@@ -833,5 +880,129 @@ if "delitzsch-job-2" in ents:
     check("manifest: Delitzsch's Job II is measured as numbered in the Hebrew",
           ents["delitzsch-job-2"]["scheme"]["numbering"]["Job"] == "hebrew")
 
+# -- WAVE8: the Expositor's Greek Testament (reader egt), on made-up lines
+check("egt: 'Ver. 4.' and 'Vv. 2-6.' open a note; 'Vvy.1,2.' (OCR) and 'Ver. 7f.' too",
+      B.egt_open("Ver. 4. some words") == (None, 4, None, "read")
+      and B.egt_open("Vv. 2-6. some words") == (None, 2, 6, "read")
+      and B.egt_open("Vvy.1,2. some words") == (None, 1, 2, "read")
+      and B.egt_open("Ver. 7f. some words") == (None, 7, None, "read"))
+check("egt: a word that is not an opener is not one", B.egt_open("Verily the words") is None
+      and B.egt_open("Very 3 words") is None)
+check("egt: 'CHAPTER IV.—Ver. 1.' is a heading, and the opener after it is read",
+      B.egt_cands("CHAPTER IV.—Ver. 1. some words", "a line without an end") == (4, [(12, (None, 1, None, "read"))]))
+check("egt: 'CuapTer III.— Vv. 1-6.' (OCR) is read as chapter III",
+      B.egt_cands("CuapTer III.— Vv. 1-6. made-up words", "")[0] == 3)
+check("egt: a heading on a line of its own ('CHAPTER I. THE GENEALOGY') moves the chapter, no opener",
+      B.egt_cands("CHAPTER I. THE GENEALOGY", "end.") == (1, []))
+check("egt: a line-start 'Ver.' after a sentence's end opens a note; mid-sentence, unindented, it does not",
+      B.egt_cands("Ver. 9. made-up words", "the end of a sentence.")[1] == [(0, (None, 9, None, "read"))]
+      and B.egt_cands("Ver. 9. made-up words", "see the note on")[1] == [])
+check("egt: an indented line opens a note even where the OCR lost the period before",
+      B.egt_cands("Ver. 9. made-up words", "see the note on", True)[1] == [(0, (None, 9, None, "read"))])
+check("egt: an opener run on after a dash is read; a 'ver.' reference inside a sentence is not",
+      B.egt_cands("made-up words.—Ver. 14. more words", "x.")[1] == [(15, (None, 14, None, "read"))]
+      and B.egt_cands("as in ver. 14. more words", "x.")[1] == [])
+_d = {"Jas": B.HeadDecoder({1: 27, 2: 26, 3: 18})}
+_it = lambda text, cands, hc=None, chapter=None: dict(  # noqa: E731
+    {"book": "Jas", "leaf": 1, "text": text, "para": True, "cands": cands, "hc": hc, "hv": [], "hsure": hc is not None},
+    **({"chapter": chapter} if chapter else {}))
+_m = B.collections.Counter()
+_notes = B.decode_2b("expositors-greek-testament-4", [
+    _it("a", [(0, (None, 1, None, "read"))]), _it("b", [(0, (None, 2, None, "read"))]),
+    _it("CHAPTER II.", [(0, (None, 1, None, "read"))], chapter=2),
+    _it("c", [(0, (None, 3, None, "read"))], hc=1), _it("d", [(0, (None, 4, None, "read"))], hc=1),
+    _it("CHAPTER I.", [], chapter=1), _it("CHAPTER IX.", [], chapter=9)], _d, {}, _m)
+check("egt: a 'CHAPTER II.' heading moves the sequence on (verse 1 after verse 2 would not); running heads naming chapter I after it are not "
+      "followed; a heading behind or past the book is refused",
+      [k for k in _notes if k != "Jas.title"] == ["Jas.1.1", "Jas.1.2", "Jas.2.1", "Jas.2.3", "Jas.2.4"]
+      and _m["chapter_headings_read"] == 1 and _m["chapter_headings_refused"] == 2
+      and _m["running_heads_behind"] == 2)
+check("egt: every volume pinned, printed before 1929, in SECOND, ORDER and MULTI, read by egt",
+      len(B.EGT) == 5 and all(re.fullmatch(r"[0-9a-f]{64}", s["sha256"]) and s["printed"] < 1929 and s["reader"] == "egt"
+                              and k in B.SECOND and k in B.ORDER and k in B.MULTI for k, s in B.EGT.items()))
+check("egt: the whole New Testament, each book once",
+      sorted(b for s in B.EGT.values() for b, _, _ in s["epistles"]) == sorted(B.NT_BOOKS)
+      if hasattr(B, "NT_BOOKS") else len({b for s in B.EGT.values() for b, _, _ in s["epistles"]}) == 27)
+check("egt: the undated Doran issues say how they are dated (the firm's name 1908-27)",
+      all("1908" in B.EGT[k]["printed_label"] and "1927" in B.EGT[k]["printed_label"] and B.EGT[k]["ia_date_note"]
+          for k in ("expositors-greek-testament-2", "expositors-greek-testament-3")))
+check("egt: vol. IV, catalogued by IA as volume 2, says so",
+      "volume '2'" in B.EGT["expositors-greek-testament-4"]["ia_date_note"])
+check("egt: every volume says why its scan was chosen", all(s.get("scan_choice") for s in B.EGT.values()))
+for k in B.EGT:
+    e = ents.get(k)
+    if not e:
+        continue
+    check(f"manifest: {k} says its Hebrew is lost, and kept its Greek",
+          e["measure"]["hebrew"]["hebrew_letters"] == 0 and "Hebrew words are" in e["scheme"]["honesty"]
+          and e["measure"]["greek"]["greek_share_of_letters"] > 0.05)
+    check(f"manifest: {k} prints its date as read", e["rights"]["license"].startswith(
+        f"public domain in the US (printed {B.EGT[k].get('printed_label', B.EGT[k]['printed'])})"))
+
+# -- WAVE8: the International Critical Commentary (reader icc), on made-up lines
+check("icc: an opener run on after a dash is read ('— 3. A', '—7, 8. The', '-- 12. x')",
+      B.icc_inline("made-up words. — 3. A further word") == [(17, (None, 3, None, "read"))]
+      and B.icc_inline("made-up words.—7, 8. The rest") == [(15, (None, 7, 8, "read"))]
+      and B.icc_inline("words -- 12. more words")[0][1][1] == 12)
+check("icc: a dash before a page or a date is not an opener ('— 1907.', '—p. 3')",
+      B.icc_inline("as printed — 1907. The") == [] and B.icc_inline("as printed —p. 3 and") == []
+      and B.icc_inline("ranges 3—5. and") == [])
+check("icc: a paragraph opener is Bengel's ('4. ὁρισθέντος', '12-14. The')",
+      B.sc_cand("4. ὁρισθέντος : made-up", "icc") == (None, 4, None, "read")
+      and B.sc_cand("12-14. The made-up", "icc") == (None, 12, 14, "read"))
+_saved = dict(B._WORK)
+B._WORK.clear()
+check("icc: an OT book's own numbering is pooled within its series only (Keil & Delitzsch's votes never "
+      "decide an ICC volume's, nor the reverse)",
+      all(v in B.ICC_OT or not B.SCANS[v].get("numbered") for v in B.work_numbering("Gen", B.kjv_ids(), "icc")["volumes"])
+      and all(B.SCANS[v].get("series", "kd") == "kd" for v in B.work_numbering("Gen", B.kjv_ids())["volumes"])
+      if hasattr(B, "ICC_OT") else
+      all(B.SCANS[v].get("series", "kd") == "kd" for v in B.work_numbering("Gen", B.kjv_ids())["volumes"]))
+B._WORK.clear()
+B._WORK.update(_saved)
+check("icc: every NT volume pinned, printed before 1929, in SECOND and ORDER, read by icc, losing its Hebrew",
+      len(B.ICC) == 15 and all(re.fullmatch(r"[0-9a-f]{64}", s["sha256"]) and s["printed"] < 1929
+                               and s["reader"] == "icc" and k in B.SECOND and k in B.ORDER and s["lost"] == "hebrew"
+                               for k, s in B.ICC.items()))
+check("icc: the NT shelved but John, the Pastorals and Hebrews (no scan before 1929 keeps the Greek)",
+      {b for s in B.ICC.values() for b, _, _ in s["epistles"]} == {
+          "Matt", "Mark", "Luke", "Rom", "1Cor", "2Cor", "Gal", "Eph", "Col", "Phil", "Phlm", "1Thess", "2Thess",
+          "Jas", "1Pet", "2Pet", "Jude", "1John", "2John", "3John", "Rev"})
+check("icc: Romans is the first edition (1895)", B.ICC["icc-sanday-headlam-romans"]["printed"] == 1895
+      and "first edition" in B.ICC["icc-sanday-headlam-romans"]["edition"])
+check("icc: Luke is Lane A's own scan and says so; Lane A's twins are named in scan_choice",
+      "plummer-luke-icc" in B.SAME_SCAN_AS["icc-plummer-luke"]
+      and "plummer-2-corinthians-icc" in B.ICC["icc-plummer-2-corinthians"]["scan_choice"]
+      and "bigg-peter-jude-icc" in B.ICC["icc-bigg-peter-jude"]["scan_choice"]
+      and "vincent-icc-philippians" in B.ICC["icc-vincent-philippians-philemon"]["scan_choice"])
+check("icc: no ICC slug is Lane A's ('<author>-<book>-icc')", not any(k.endswith("-icc") or "-icc-" in k[3:]
+                                                                     for k in B.ICC))
+check("icc: Revelation vol. II starts at chapter 14", B.ICC["icc-charles-revelation-2"]["first_chapter"] == {"Rev": 14})
+for k in B.ICC:
+    e = ents.get(k)
+    if not e:
+        continue
+    check(f"manifest: {k} says its Hebrew is lost, and kept its Greek",
+          e["measure"]["hebrew"]["hebrew_letters"] == 0 and "Hebrew words are lost" in e["scheme"]["honesty"]
+          and e["measure"]["greek"]["greek_share_of_letters"] > 0.05)
+    if B.ICC[k].get("superscripts"):
+        check(f"manifest: {k} says why its references stay unresolved", "superscript" in e["scheme"]["honesty"])
+if "icc-plummer-luke" in ents:
+    check("manifest: ICC Luke names Lane A's same scan", "plummer-luke-icc" in ents["icc-plummer-luke"]["scheme"]["same_scan_as"])
+
+check("icc OT: five volumes, numbered and pooled as the ICC, each naming the script its scan lost",
+      set(B.ICC_OT) == {"icc-skinner-genesis", "icc-paton-esther", "icc-smith-samuel", "icc-briggs-psalms-1",
+                        "icc-briggs-psalms-2"}
+      and all(s["numbered"] and s["series"] == "icc" and s["printed"] < 1929 for s in B.ICC_OT.values())
+      and [k for k, s in B.ICC_OT.items() if s["lost"] == "greek"] == ["icc-smith-samuel", "icc-briggs-psalms-1",
+                                                                       "icc-briggs-psalms-2"])
+check("icc OT: Briggs's Psalms are by page (under BY_PAGE_FLOOR as verse units), vol. II from Psalm 51",
+      all(B.ICC_OT[k].get("by_page") for k in ("icc-briggs-psalms-1", "icc-briggs-psalms-2"))
+      and B.ICC_OT["icc-briggs-psalms-2"]["first_chapter"] == {"Ps": 51}
+      and B.ICC_OT["icc-briggs-psalms-1"]["ia"] == "criticalexegetic0000brig_t9m0")
+for k in B.ICC_OT:
+    e = ents.get(k)
+    if e and B.ICC_OT[k]["lost"] == "hebrew":
+        check(f"manifest: {k} kept some Greek", e["measure"]["greek"]["greek_share_of_letters"] > 0.01)
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

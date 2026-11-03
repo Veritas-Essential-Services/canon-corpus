@@ -1081,23 +1081,31 @@ def cross_ranges(text):
 # 13'): FS.parse reads ', 2, 13' as the apparatus's 'chapter, verse' (Rom 2:13), so for FS.parse
 # alone the list's commas become '.' (more verses of the chapter) and a comma after it ';' (a new
 # reference). Only after a Roman chapter or 'N:': an arabic 'N. M, ...' stays FS.parse's
+# (review c13) a list may also be a lone range closed by the tail ('Rom. viii. 1-3, 12. 3', 'Rom. 8:1-3,
+# 12:3'): no comma items, the range and the tail required (checked in verse_lists)
 VERSE_LIST = re.compile(r'(?P<list>(?<![\w])(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}:)\s*\d{1,3}'
-                        r'(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?'
-                        r'(?:\s*,\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d)(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?)+)'
+                        r'(?P<range>\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?'
+                        r'(?P<items>(?:\s*,\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d)(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?)*))'
                         r'(?P<tail>\s*,(?=\s*(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}[.:])\s*\d))?')
+
+
+def _verse_list(m):
+    if not m.group("items") and not (m.group("range") and m.group("tail")):
+        return m.group(0)          # a lone verse, or a lone range not closed by another chapter: as printed
+    return m.group("list").replace(",", ".") + (m.group("tail") or "").replace(",", ";")
 
 
 def verse_lists(text):
     """The text as FS.parse should read it: each English verse list's commas '.', and a comma
-    after the list before another chapter ';'. Only for FS.parse: the other patterns read
-    the text as printed."""
-    text = VERSE_LIST.sub(lambda m: m.group("list").replace(",", ".") + (m.group("tail") or "").replace(",", ";"),
-                          text)
-    # (review c12) 'Rom. 8:1, 12:3': a comma between two 'N:M' is a new reference, not a verse 12
+    after the list (or after a lone range) before another chapter ';'. Only for FS.parse: the
+    other patterns read the text as printed."""
+    text = VERSE_LIST.sub(_verse_list, text)
+    # (review c12) 'Rom. 8:1, 12:3': a comma between two 'N:M' is a new reference, not a verse 12;
+    # (review c13) so too after 'N:M-K' ('Rom. 8:1-3, 12:3')
     return CHAPTER_COMMA.sub(r"\1;", text)
 
 
-CHAPTER_COMMA = re.compile(r'(?<![\w:])(\d{1,3}:\d{1,3})\s*,(?=\s*\d{1,3}:\d)')
+CHAPTER_COMMA = re.compile(r'(?<![\w:])(\d{1,3}:\d{1,3}(?:\s*[-–—]\s*\d{1,3}(?![\d:]))?)\s*,(?=\s*\d{1,3}:\d)')
 
 
 # (review c11) the OCR misreadings of SELF_C_OK / SELF_C_ENGLISH words actually found before a
@@ -2352,7 +2360,7 @@ ALF_APP = {"rec", "om", "ins", "txt", "bef", "aft", "rel", "latt", "vss", "syrr"
            "vulg", "al", "chr", "thdrt", "lat-ff", "goth", "syr", "it", "elz", "lachm", "tischdf"}
 
 
-def alford_layout(a, W):
+def alford_layout(a, W, prose_ok=False):
     """Alford's page: the Greek text (with its marginal references), the
     digest of readings under it, then the notes in two columns. The columns
     are the largest cluster of side-by-side line pairs; everything above them
@@ -2406,7 +2414,9 @@ def alford_layout(a, W):
         else:
             cols_l.append(l)
     prose = [l for l in above if sum(w[5].lower().strip(".,;:") in STOP for w in l["words"]) >= 3]
-    if len(prose) >= 4:
+    # (WAVE8: the EGT prints its textual notes in English full width under the text, so its commentary
+    # leaves pass prose_ok; its introductions lie outside the volume's commentary leaves)
+    if len(prose) >= 4 and not prose_ok:
         return None                     # prose above two columns: a prolegomena page with footnotes
     above.sort(key=lambda l: l["bbox"][1])
     start = None
@@ -2686,25 +2696,34 @@ def ot_link(b, c, v, numbering, ids, rule):
 _OWN, _WORK = {}, {}
 
 
-def work_numbering(book, ids):
+# (review c13) Delitzsch's Isaiah stays undecided (Hebrew-only 3, KJV-only 0; 5 needed). The review
+# proposed counting his running heads as votes, but decoded heads already vote (build_scan_kdh's
+# `pairs`), and no head names a verse that exists in only one numbering: "LXIII. 19-LXIV. 1" exists in
+# both, and Isaiah I's one 8:23 is a misread "VII. 23". A sequence rule is the possible follow-up (a
+# chapter whose heads end at 20 before "X. 1" is the Hebrew's 9). Known FS.parse limit: a verse just
+# before "and <Book>" ("Ps. li. 13 and Gen. ...") is dropped.
+def work_numbering(book, ids, series="kd"):
     """How Keil & Delitzsch's commentary numbers `book`, measured from its own
     note ids: the existence votes of every `kd` volume holding the book,
     pooled (one volume rarely has enough differing verses; the set does).
     Undecided where no volume holds the book."""
-    if book not in _WORK:
+    key = book if series == "kd" else (series, book)     # WAVE8: pooled within one work only
+    if key not in _WORK:
         tot = {"read": 0, "only_hebrew": 0, "only_kjv": 0}
         vols = []
         for k, s in SCANS.items():
-            if s.get("reader") not in KD_READERS or book not in [e[0] for e in s.get("epistles", [])]:
-                continue                                # KD4D: was != "kd"
+            if s.get("reader") not in KD_READERS and not s.get("numbered"):
+                continue                                # KD4D: was != "kd"; WAVE8: or numbered (ICC OT)
+            if s.get("series", "kd") != series or book not in [e[0] for e in s.get("epistles", [])]:
+                continue
             if k not in _OWN:
                 _OWN[k] = (KD_VOTES.get(s["reader"], build_scan_2b)(k, ids, votes_only=True)   # KD4D: KD_VOTES
                            if scan_present(k) else committed_votes(k))
             for f in tot:
                 tot[f] += _OWN[k][book][f]
             vols.append(k)
-        _WORK[book] = dict(tot, decision=decide(tot), volumes=vols)
-    return _WORK[book]
+        _WORK[key] = dict(tot, decision=decide(tot), volumes=vols)
+    return _WORK[key]
 
 
 def scan_present(slug):
@@ -2728,13 +2747,13 @@ def committed_votes(slug):
     return {b: {f: v[f] for f in ("read", "only_hebrew", "only_kjv")} for b, v in own.items()}
 
 
-def effective(decision, book, ids, rule, used=None):
-    """A measured decision, or, where it is undecided, the work's own."""
+def effective(decision, book, ids, rule, used=None, series="kd"):
+    """A measured decision, or, where it is undecided, the work's own (WAVE8: `series`, the work)."""
     if decision != "undecided":
         return decision, rule
     if used is not None:
         used.add(book)
-    return work_numbering(book, ids)["decision"], rule + "/work"
+    return work_numbering(book, ids, series)["decision"], rule + "/work"
 
 # ------------------------------------------------------------------ second shelf: the build
 
@@ -2748,12 +2767,14 @@ def build_scan_2b(slug, ids, votes_only=False):
     for book, x, y in s["epistles"]:
         for leaf in range(x, y + 1):
             seg[leaf] = book
+    if s.get("by_page"):
+        seg = {}            # WAVE8: a volume under BY_PAGE_FLOOR verse coverage is kept by page (leaf.N)
     m = collections.Counter()
     units = []
     A = {leaf: analyse(P[leaf]) for leaf in range(a0, b0 + 1)}
     nums = {leaf: list(a["nums"]) for leaf, a in A.items()}
     SC = {}
-    if reader != "alford":
+    if reader not in ("alford", "egt"):      # WAVE8: egt reads Alford's page
         for leaf in range(a0, b0 + 1):
             SC[leaf] = sc_page(P[leaf])
             nums[leaf] = sorted(set(nums[leaf]) | set(SC[leaf][1]))
@@ -2765,9 +2786,9 @@ def build_scan_2b(slug, ids, votes_only=False):
     for leaf in range(a0, b0 + 1):
         a = A[leaf]
         book = seg.get(leaf)
-        if reader == "alford":
+        if reader in ("alford", "egt"):        # WAVE8: egt reads Alford's page
             m["junk_lines_dropped"] += a["junk"]
-            lay = alford_layout(a, P[leaf]["w"]) if book else None
+            lay = alford_layout(a, P[leaf]["w"], reader == "egt") if book else None
             if lay is None:
                 if a["body"]:
                     units.append(page_unit(slug, s, leaf, a["body"], a, pp))
@@ -2791,7 +2812,18 @@ def build_scan_2b(slug, ids, votes_only=False):
                 units.append(u)
             prev = ""
             for col in (lay["left"], lay["right"]):
+                mg = margin(col) if reader == "egt" and col else 0
                 for l in col:
+                    if reader == "egt":        # WAVE8: 'Ver. 3.' openers and 'CHAPTER IV.' headings
+                        ind = 0.45 * lay["note_xs"] <= l["bbox"][0] - mg <= 2.6 * lay["note_xs"]
+                        ch, cands = egt_cands(l["text"], prev, ind)
+                        it = {"book": book, "leaf": leaf, "text": l["text"], "para": ind, "cands": cands,
+                              "hc": hc, "hv": hv}
+                        if ch:
+                            it["chapter"] = ch
+                        items.append(it)
+                        prev = l["text"]
+                        continue
                     items.append({"book": book, "leaf": leaf, "text": l["text"], "para": False,
                                   "cands": alford_cands(l["text"], prev), "hc": hc, "hv": hv})
                     prev = l["text"]
@@ -2822,6 +2854,12 @@ def build_scan_2b(slug, ids, votes_only=False):
                     continue
                 if reader == "kd":
                     cands = kd_cands(l["text"])
+                elif reader == "icc":         # WAVE8: paragraph openers, and openers run on after a dash
+                    # (and, where the volume measures better so, at a line's start after a sentence's end)
+                    start = para or (s.get("line_start") and (not prev.strip() or prev.rstrip()[-1] in EGT_END))
+                    c = sc_cand(l["text"], reader) if start else None
+                    cands = ([(0, c)] if c else []) + ([x for x in icc_inline(l["text"]) if x[0] > 0]
+                                                       if s.get("inline", True) else [])
                 else:
                     c = sc_cand(l["text"], reader) if para else None
                     cands = [(0, c)] if c else []
@@ -2856,7 +2894,7 @@ def build_scan_2b(slug, ids, votes_only=False):
             hn is not None and hp is not None and hp <= it["hc"] <= hn))
     # which numbering the volume's own verses are in (Keil & Delitzsch only)
     numbering = {}
-    if reader == "kd":
+    if reader == "kd" or s.get("numbered"):      # WAVE8: an ICC OT volume's numbering is measured too
         for book in kjv_counts:
             pairs = []
             seen_heads = set()
@@ -2902,7 +2940,7 @@ def build_scan_2b(slug, ids, votes_only=False):
             vs = range(nu["n"], (nu["e"] or nu["n"]) + 1)
             nb = numbering.get(book, {}).get("decision")
             if nb:                  # an OT volume: its numbering measured, the Hebrew mapped
-                nb = effective(nb, book, ids, "")[0]
+                nb = effective(nb, book, ids, "", series=s.get("series", "kd"))[0]
                 links = [dict(ot_link(book, nu["c"], v, nb, ids, "comments-on"), type="comments-on") for v in vs]
                 for lk in links:
                     lk.pop("rule", None)
@@ -3039,9 +3077,22 @@ def decode_2b(slug, items, decoders, pp, m):
             unit(current[book], book, it["psalm"])["intro"] = True
             put(current[book], it["text"], leaf, True)
             continue
+        if it.get("chapter"):
+            # WAVE8 (egt): a 'CHAPTER IV.' heading moves the sequence to that chapter, forward only and at
+            # most three chapters on (a heading the OCR lost leaves a gap)
+            if dec.c < it["chapter"] <= min(dec.c + 3, dec.nch):
+                dec.c, dec.v = it["chapter"], 0
+                m["chapter_headings_read"] += 1
+            elif it["chapter"] != dec.c:
+                m["chapter_headings_refused"] += 1
         hc = it["hc"]
         if hc is None and it.get("hc_next") is not None and it["hc_next"] > dec.c:
             hc = it["hc_next"]
+        if hc is not None and hc < dec.c and SCANS[slug].get("reader") in WAVE8_READERS:
+            # WAVE8: the notes only move forward, so a head naming a chapter behind the sequence is a
+            # misreading (EGT's Greek-letter heads read 'II.' as 'I.'): not followed, and counted
+            hc = None
+            m["running_heads_behind"] += 1
         pos, para = 0, it["para"]
         for j, (p, o) in enumerate(it["cands"]):
             cp, n, e, how = o
@@ -3103,7 +3154,7 @@ def harvest_2b(slug, units, ids):
     Psalms and the other OT books apart), and each OT reference is resolved in
     it, the Hebrew through data/versification/bhs-kjv.json."""
     s = SCANS[slug]
-    if s["reader"] not in KD_READERS:          # KD4D: was != "kd"
+    if s["reader"] not in KD_READERS and not s.get("numbered"):    # KD4D: was != "kd"; WAVE8: numbered
         n = r = 0
         own_single = s["epistles"][0][0] if len(s["epistles"]) == 1 else None
         for u in units:
@@ -3119,11 +3170,14 @@ def harvest_2b(slug, units, ids):
             r += sum(1 for x in found if x["resolved"])
         return n, r, {}
     import versification as V
+    ser = s.get("series", "kd")             # WAVE8: the work whose volumes pool their votes
     parsed = []
     votes = {"Ps": [], "other": []}
     for u in units:
         text = u["text"] + " " + " ".join(u.get("notes", []))
-        refs = FS.parse("¶ " + text, "eng")
+        # (review c13) through the first shelf's pre-pass (verse_lists), as scripture() reads: 'Ps. li.
+        # 1, 2, 13' is three verses of Ps 51, not Ps 51:1, 51:2 and 2:13
+        refs = FS.parse("¶ " + verse_lists(text), "eng")
         parsed.append(refs)
         for book, kind, ch, v, end, alt in refs:
             if kind == "kjv" and v is not None and book in V.BOOKS:
@@ -3151,7 +3205,7 @@ def harvest_2b(slug, units, ids):
                 continue
             if book in V.BOOKS:
                 cls = "Ps" if book == "Ps" else "other"
-                dec, rl = effective(measure[cls]["decision"], book, ids, f"text/{cls}", used)
+                dec, rl = effective(measure[cls]["decision"], book, ids, f"text/{cls}", used, ser)
                 x = dict(ref=p, **ot_link(book, ch, v, dec, ids, rl))
                 y = ot_link(book, ch, end, dec, ids, rl) if end and end > v else None
             else:
@@ -3167,7 +3221,7 @@ def harvest_2b(slug, units, ids):
             if mm:
                 b, c = u["book"], int(mm.group(1))
                 nb, srl = own_num.setdefault(b, effective(s["_numbering"].get(b, {}).get("decision", "kjv"), b, ids,
-                                                          "self", used))
+                                                          "self", used, ser))
                 for mt in SELF_VER.finditer(u["text"]):
                     for v, end in _ver_spans(mt):
                         p = f"{b} {c}:{v}" + (f"-{end}" if end else "")
@@ -3188,7 +3242,7 @@ def harvest_2b(slug, units, ids):
         n += len(found)
         r += sum(1 for x in found if x.get("resolved"))
     return n, r, {"numbering_references": measure,
-                  "numbering_work": {b: work_numbering(b, ids) for b in sorted(used)}}
+                  "numbering_work": {b: work_numbering(b, ids, ser) for b in sorted(used)}}
 
 
 def _ver_spans(mt):
@@ -3221,7 +3275,8 @@ HEBREW_CHAR = re.compile(r'[֐-׿]')
 def honesty_2b(slug):
     s = SCANS[slug]
     if s["reader"] in READER_TEXTS:
-        return READER_TEXTS[s["reader"]]["honesty"]
+        h = READER_TEXTS[s["reader"]]["honesty"]
+        return h(slug) if callable(h) else h        # WAVE8: a reader's honesty may depend on the volume
     if s["reader"] == "alford":
         return ("notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline "
                 "('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a "
@@ -3270,8 +3325,8 @@ def build_book_2b(slug, ids):
     s = SCANS[slug]
     units, m, (a0, b0), pp = SCAN_READERS.get(s["reader"], build_scan_2b)(slug, ids)
     s["_numbering"] = m.get("numbering_own", {})
-    rights = {"license": f"public domain in the US (printed {s['printed']}); the scan and its OCR are the "
-                         "Internet Archive's",
+    rights = {"license": f"public domain in the US (printed {s.get('printed_label', s['printed'])}); the scan "
+                         "and its OCR are the Internet Archive's",     # WAVE8: printed_label
               "ia_possible_copyright_status": s["ia_rights"] or "(the item's metadata carries no rights field)",
               "attribution": f"Internet Archive, {s['ia']} ({s['copy']} copy)",
               "source_url": f"https://archive.org/details/{s['ia']}",
@@ -4212,6 +4267,29 @@ def kdh_span_key(c1, v1, c2, v2):
     return f"{c1}.{v1}-{c2}.{v2}"
 
 
+def kdh_fill_counts(numbering, kjv_counts, ids):
+    """(review c13) The verse counts a run crossing a chapter is filled to: the chapter's length in
+    the numbering the book is decided in (the volume's own, else the work's, pooled), never the
+    larger of the Hebrew's and the KJV's, which put verses only the other numbering has into the run
+    (Job 41:27-34 in a Hebrew Job, whose ch. 41 ends at 26). Undecided: the shorter, and the
+    chapters whose lengths differ are returned, so the runs filling them say they are approximate.
+    -> ({book: {chapter: count}}, {book: {chapter, ...}})"""
+    fill, approx = {}, {}
+    for book, kc in kjv_counts.items():
+        nb = effective(numbering[book]["decision"], book, ids, "")[0]
+        hc_ = heb_counts(book)
+        approx[book] = set()
+        if nb == "hebrew":
+            fill[book] = hc_
+        elif nb == "kjv":
+            fill[book] = kc
+        else:
+            chs = set(kc) | set(hc_)
+            fill[book] = {c: min(kc.get(c, 0), hc_.get(c, 0)) for c in chs}
+            approx[book] = {c for c in chs if kc.get(c, 0) != hc_.get(c, 0)}
+    return fill, approx
+
+
 def kdh_verses_of(c1, v1, c2, v2, counts):
     out = []
     for c in range(c1, c2 + 1):
@@ -4431,11 +4509,12 @@ def build_scan_kdh(slug, ids, votes_only=False):
             nu["notes"] += sg["notes"]
             continue
         notes[key] = dict(sg)
+    fill, approx = kdh_fill_counts(numbering, kjv_counts, ids)
     for key, nu in notes.items():
         book = nu["book"]
         nb = effective(numbering[book]["decision"], book, ids, "")[0]
         links = []
-        for c, v in kdh_verses_of(nu["c1"], nu["v1"], nu["c2"], nu["v2"], counts[book]):
+        for c, v in kdh_verses_of(nu["c1"], nu["v1"], nu["c2"], nu["v2"], fill[book]):
             lk = dict(ot_link(book, c, v, nb, ids, "comments-on"), type="comments-on")
             lk.pop("rule", None)
             links.append(lk)
@@ -4447,6 +4526,15 @@ def build_scan_kdh(slug, ids, votes_only=False):
             u["scan"]["printed_pages"] = nu["pages"]
         if nu["notes"]:
             u["notes"] = nu["notes"]
+        short = sorted(c for c in range(nu["c1"], nu["c2"]) if c in approx[book])
+        if short:
+            # (review c13) the numbering undecided, and a chapter the run fills to its end has a
+            # different length in the Hebrew and the KJV: filled to the shorter, so approximate
+            u["run_approximate"] = ("the numbering of this book is undecided; the run crosses the end of "
+                                    + ", ".join(f"ch. {c}" for c in short) + ", filled to the shorter of its "
+                                    "Hebrew and KJV verse counts (" + ", ".join(
+                                        f"{c}: {fill[book].get(c, 0)}" for c in short) + ")")
+            m["runs_approximate"] += 1
         units.append(u)
         m[f"notes_keyed_by_{nu['how'].replace('-', '_')}"] += 1
     order = {"page": 0, "note": 1}
@@ -4469,7 +4557,9 @@ KDH_HONESTY = (
     "changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names "
     "(keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between "
     "the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by "
-    "inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their "
+    "inferred), a run that may cross a chapter, its links filling each chapter it leaves to that chapter's "
+    "length in the numbering the book is decided in (where undecided, the shorter of the Hebrew's and the "
+    "KJV's, and the unit says run_approximate: measure.runs_approximate); so a unit's verses are the verses the PAGES print in their "
     "heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of "
     "one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed "
     f"{KDH_MAX_RUN} verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', "
@@ -4584,6 +4674,522 @@ for _k, _s in KD4D.items():
 SECOND.update(KD4D)
 SCANS.update(KD4D)
 ORDER.extend(KD4D)
+
+
+# ================================================================== WAVE8: the Expositor's Greek Testament and the ICC
+#
+# Two series, one reader each, both inside build_scan_2b (every WAVE8 line there is marked):
+#
+#   egt  The Expositor's Greek Testament (ed. W. Robertson Nicoll, 5 vols). Its page is Alford's: the Greek
+#        text at the top, the notes below in two columns, so alford_layout reads it. Its notes are opened
+#        'Ver. 19.' or 'Vv. 3-5.' at the head of a paragraph, or run on after a dash ('... sojourners.—Ver.
+#        14. ὁ δὲ'); a chapter's first note is headed 'CHAPTER IV.—Ver. 1.' (Bruce's Matthew sets 'CHAPTER
+#        I. THE GENEALOGY' on a line of its own). Measured 2026-11-03 on vol. V with the existing readers:
+#        alford 16 notes (its openers want '9.]' or Greek after the number), meyer 230 notes and 111 against
+#        the running head (it reads one column), bengel 37: none fits. egt_cands reads the openers,
+#        egt_chapter the headings, which move the sequence forward (decode_2b, three chapters at most).
+#   icc  The International Critical Commentary. One column (sc_page), each note a paragraph opened by its
+#        verse number ('4. ὁρισθέντος :'), as Bengel's: measured on Sanday & Headlam's Romans the bengel
+#        reader keys 417 of 433 verses, meyer 7, kd 1. Some volumes (Briggs's Psalms, Skinner's Genesis)
+#        also run the next verse's note on inside a paragraph after a dash ('... at the installation. — 3. A
+#        metaphor'), so the icc reader adds those (icc_inline), per volume where it measures better
+#        (`inline`). The Old Testament volumes measure their numbering as Keil & Delitzsch's do
+#        (`numbered`: numbering_votes, decide, ot_link), pooled only within the series (`series`: icc).
+
+WAVE8_READERS = ("egt", "icc")
+EGT_OPEN = re.compile(r'V(?:[EeIi][RrNn][Ss]?|[vVy]{1,2})\s?[.,:]?\s*(\d{1,3})[ab]?'
+                      r'((?:\s*(?:[,—–\-]+|\s+and)\s*\d{1,3}[ab]?){0,6})\s*(?:f{1,2}\.|[.,:;])')
+EGT_CHAPTER = re.compile(r'^\W{0,3}C[A-Za-z]{1,3}[Pp][Tt][Ee][Rr]\s*([IVXLl1|ΙΧ]{1,7})\s*[.,]?\s*(?:[—–-]+\s*)?')
+EGT_DASH = re.compile(r'(?:[—–]|--+)\s*(?=V)')
+EGT_END = ".;:!?)]—–-\"”’'"      # a line ending so ends a sentence: the next may open a note
+
+
+def egt_open(text):
+    """'Ver. 4.', 'Vv. 2-6.', 'Vvy.1,2.' (OCR), 'Ver. 6a.': (None, n, end, 'read') or None."""
+    m = EGT_OPEN.match(text)
+    if not m:
+        return None
+    n = int(m.group(1))
+    nums = [int(x) for x in re.findall(r'\d{1,3}', m.group(2) or "")]
+    e = nums[-1] if nums and nums[-1] > n else None
+    return (None, n, e, "read") if n else None
+
+
+def egt_chapter(text):
+    """'CHAPTER IV.—Ver. 1.', 'CuapTer III.— Vv. 1-6.', 'CHAPTER I. THE GENEALOGY': (chapter, the text
+    after the heading) or (None, text)."""
+    m = EGT_CHAPTER.match(text)
+    if not m:
+        return None, text
+    tok = m.group(1).translate(MEYER_ROMAN)
+    if not ROMAN_STRICT.fullmatch(tok):
+        return None, text
+    return FS.roman(tok), text[m.end():]
+
+
+def egt_cands(text, prev, indented=False):
+    """(chapter heading or None, [(pos, opener)]) of a line of EGT notes: an opener at the line's start
+    where the line is indented (a paragraph; stream's rule), the line before ends a sentence, or the line
+    is a chapter heading; and every opener after a dash. Measured on vol. V: of 570 line-start openers 546
+    follow a sentence's end, and all 24 others are indented paragraphs (a period the OCR lost)."""
+    ch, rest = egt_chapter(text)
+    off = len(text) - len(rest)
+    out = []
+    o = egt_open(rest)
+    if o and (ch or indented or not prev.strip() or prev.rstrip()[-1] in EGT_END):
+        out.append((off, o))
+    for d in EGT_DASH.finditer(text):
+        if d.end() <= off:
+            continue
+        o = egt_open(text[d.end():])
+        if o:
+            out.append((d.end(), o))
+    return ch, out
+
+
+# a dash, not a range's ('3—5.', '3 — 5.'), then a verse number or run, then a word
+ICC_DASH = re.compile(r'(?<!\d)(?<!\d\s)(?:[—–]|--+)\s*(\d{1,3})((?:\s*[-—–,]\s*\d{1,3})?)\s*[.,]\s+(?=[^\d\s.,;:])')
+
+
+def icc_inline(text):
+    """Openers run on after a dash ('... installation. — 3. A metaphor', '—7, 8. The'): [(pos, opener)]."""
+    out = []
+    for m in ICC_DASH.finditer(text):
+        n = int(m.group(1))
+        nums = [int(x) for x in re.findall(r'\d{1,3}', m.group(2) or "")]
+        e = nums[-1] if nums and nums[-1] > n else None
+        if n:
+            out.append((m.start(1), (None, n, e, "read")))
+    return out
+
+
+def honesty_egt(slug):
+    return ("notes keyed by verse where the OCR'd page lets them be: the Expositor's Greek Testament prints the "
+            "Greek text at the head of the page and its notes under it in two columns, read as Alford's page "
+            "(alford_layout; its textual notes in English, set full width under the text, stay with the text "
+            "block); a note opens 'Ver. 19.' or 'Vv. 3-5.' at the head of a line that is indented or follows a "
+            "sentence's end, or runs on after a dash ('—Ver. 14.'), and is accepted when the verse sequence "
+            "allows it; a heading 'CHAPTER IV.' moves the sequence to that chapter, forward only and at most "
+            "three chapters on (measure.chapter_headings_read, chapter_headings_refused); a running head naming "
+            "a chapter behind the sequence is not followed (the heads are set in Greek capitals and the OCR reads "
+            "'II.' as 'I.': measure.running_heads_behind); every following line, left column then right, belongs "
+            "to the note open until the next; boundaries are only as good as the numbers read off the page, and "
+            "a misread or rejected number merges a verse's notes into the verse before (counts in measure); the "
+            "Greek text block per leaf (leaf.N.text, its textual notes in apparatus); introductions and every "
+            "other page by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are "
+            "lost (no Hebrew script survives in these scans: measure.hebrew; the OCR gave Latin- or Greek-letter "
+            "debris, left as it stands); unproofread OCR")
+
+
+def citation_egt(slug):
+    lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
+    return (f"note: {lead} of the verse commented on (a run of verses: {lead}-end); leaf.N.text; everything "
+            "else: scan leaf (leaf.N; folio in scan.printed_page)")
+
+
+READER_TEXTS["egt"] = {"honesty": honesty_egt, "citation": citation_egt}
+
+# The Expositor's Greek Testament, ed. W. Robertson Nicoll (London: Hodder and Stoughton, 5 vols, 1897-1910).
+# Each volume's scans measured 2026-11-03 (wave8-survey: Greek letters as a share of all letters / Greek
+# tokens found in the Strong's yardstick / Hebrew); the chosen one is the only scan of that volume whose hOCR
+# keeps its Greek, or the best measured (scan_choice names the others). Vols. II and III are the American
+# issue (New York: George H. Doran Company), undated: the firm traded under that name from 1908 until it
+# merged into Doubleday, Doran in 1927, so they were printed 1908-27, before 1929 in any case. Vol. IV is the
+# item IA catalogues as "volume 2" (expositorsgree02nico): its title page (leaf 5) reads VOLUME IV, and its
+# contents (Thessalonians to James) are vol. IV's.
+_EGT = "The Expositor's Greek Testament, ed. W. Robertson Nicoll"
+_EGT_DORAN = ("undated; George H. Doran Company, the publisher's name from 1908 until its merger into "
+              "Doubleday, Doran in 1927, so printed 1908-27")
+
+
+def _egt(vol, ia, sha, edition, copy, rights, leaves, books, ia_date, contributors, printed=1910,
+         printed_label=None, ia_date_note=None, scan_choice=None):
+    s = {"ia": ia, "sha256": sha, "title": f"The Expositor's Greek Testament, vol. {vol}",
+         "short": f"EGT {vol}", "author": f"{contributors}; ed. W. Robertson Nicoll", "edition": edition,
+         "printed": printed, "copy": copy, "ia_rights": rights, "leaves": leaves, "epistles": books,
+         "apparatus": True, "reader": "egt", "ia_date": ia_date}
+    for k, v in (("printed_label", printed_label), ("ia_date_note", ia_date_note), ("scan_choice", scan_choice)):
+        if v:
+            s[k] = v
+    return s
+
+
+EGT = {
+    "expositors-greek-testament-1": _egt(
+        "I", "expositorsgreek01nico", "9c18a42b19424a2530088bdc5accd575f111e439f95ae9310312926f596e12c5",
+        f"{_EGT}, vol. I (the Synoptic Gospels; the Gospel of St John), sixth edition (London: Hodder and "
+        "Stoughton, MCMX), as its title pages (leaves 5, 7) read", "University of Toronto (Robarts)", None,
+        (5, 884), [("Matt", 73, 352), ("Mark", 353, 469), ("Luke", 470, 663), ("John", 695, 884)], "1910",
+        "Alexander Balmain Bruce (the Synoptic Gospels), Marcus Dods (John)"),
+    "expositors-greek-testament-2": _egt(
+        "II", "expositorsgreekt02nicouoft", "d696328a8155a897b0907638e26d7d654c9ab06545ade933a376c6d4e842709b",
+        f"{_EGT}, vol. II (Acts, Romans, 1 Corinthians) (New York: George H. Doran Company, undated), as its "
+        "title page (leaf 4) reads; the scan has no contents page naming the contributors",
+        "University of Toronto (Kelly)", "NOT_IN_COPYRIGHT",
+        (4, 958), [("Acts", 54, 559), ("Rom", 590, 730), ("1Cor", 762, 958)], "[1897?-1910?]",
+        "R. J. Knowling (Acts), James Denney (Romans), G. G. Findlay (1 Corinthians)", printed=1927,
+        printed_label=_EGT_DORAN,
+        ia_date_note="IA dates the set '[1897?-1910?]'; this undated Doran issue was printed 1908-27 (the "
+                     "firm's name in those years)"),
+    "expositors-greek-testament-3": _egt(
+        "III", "expositorsgreekt03nicouoft", "06e4b86348e58b156f37d961c2028a40131c0502044a519b217858758e1fe3fb",
+        f"{_EGT}, vol. III (2 Corinthians to Colossians) (New York: George H. Doran Company, undated), as its "
+        "title pages (leaves 4, 6) read", "University of Toronto (Kelly)", "NOT_IN_COPYRIGHT",
+        (4, 554), [("2Cor", 44, 126), ("Gal", 156, 199), ("Eph", 248, 402), ("Phil", 422, 480),
+                   ("Col", 502, 554)], "[1897?-1910?]",
+        "J. H. Bernard (2 Corinthians), Frederic Rendall (Galatians), S. D. F. Salmond (Ephesians), "
+        "H. A. A. Kennedy (Philippians), A. S. Peake (Colossians)", printed=1927, printed_label=_EGT_DORAN,
+        ia_date_note="IA dates the set '[1897?-1910?]'; this undated Doran issue was printed 1908-27 (the "
+                     "firm's name in those years)"),
+    "expositors-greek-testament-4": _egt(
+        "IV", "expositorsgree02nico", "75832f9ef8f929826ee6318729e51c98f3e08328090b1378c69b2bdda2a01253",
+        f"{_EGT}, vol. IV (Thessalonians to James) (London: Hodder and Stoughton, MCMX), as its title pages "
+        "(leaves 5, 7) read; IA catalogues the item as volume 2", "University of Toronto (Robarts)", None,
+        (5, 486), [("1Thess", 31, 51), ("2Thess", 52, 62), ("1Tim", 97, 159), ("2Tim", 160, 192),
+                   ("Titus", 193, 210), ("Phlm", 219, 225), ("Heb", 255, 391), ("Jas", 429, 486)], "1910",
+        "James Moffatt (Thessalonians), Newport J. D. White (the Pastorals), W. O. E. Oesterley (Philemon, "
+        "James), Marcus Dods (Hebrews)",
+        ia_date_note="IA's metadata gives volume '2'; the title page reads VOLUME IV"),
+    "expositors-greek-testament-5": _egt(
+        "V", "expositorsgreek05nico", "ec7671f8a577e73d265eba269305bc538ffb9d5402040aa0c64cecb3b9a28934",
+        f"{_EGT}, vol. V (1 Peter to the Revelation) (London: Hodder and Stoughton, MCMX), as its title pages "
+        "(leaves 5, 7) read", "University of Toronto (Robarts)", None,
+        (5, 504), [("1Pet", 49, 90), ("2Pet", 133, 158), ("1John", 179, 209), ("2John", 210, 214),
+                   ("3John", 215, 218), ("Jude", 263, 288), ("Rev", 345, 504)], "1910",
+        "J. H. A. Hart (1 Peter), R. H. Strachan (2 Peter), David Smith (the Epistles of John), J. B. Mayor "
+        "(Jude), James Moffatt (the Revelation)"),
+}
+EGT_CHOICE = {    # measured 2026-11-03: Greek letters / Greek tokens known to the yardstick / known Greek words
+    "expositors-greek-testament-1": (
+        "expositorsgreek01nico (1910, 6th ed.) 17.7% / 39.8% / 30,406  <- chosen; expositorsgreekt01nico "
+        "(Princeton, undated: no year to read) 18.0% / 37.8% / 29,441; expositorsgreekt01nicouoft: no Greek; the "
+        "ExpositorsGreekTestament.complete2Vols... files: the English OCR'd as Greek"),
+    "expositors-greek-testament-2": (
+        "expositorsgreekt02nicouoft (Doran, undated) 11.7% / 37.2% / 20,330  <- chosen: no dated scan keeps its "
+        "Greek; expositorsgreekt02nico (Princeton, undated) 12.2% / 34.4% / 19,866; expositorsgreek02nico "
+        "(1901): the English OCR'd as Greek"),
+    "expositors-greek-testament-3": (
+        "expositorsgreekt03nicouoft (Doran, undated) 10.5% / 41.5% / 11,100  <- chosen: no dated scan keeps its "
+        "Greek; expositorsgreekt03nico (Princeton, undated) 11.3% / 40.3% / 11,509; expositorsgreek00nicogoog "
+        "(1903): text layer half missing (289 of 561 pages under 200 letters)"),
+    "expositors-greek-testament-4": (
+        "expositorsgree02nico (1910) 13.5% / 37.3% / 10,619  <- chosen; expositorsgreekt04nicouoft (Doran, "
+        "undated) 13.6% / 37.4% / 10,741 and expositorsgreekt04nico (Princeton, undated) 14.5% / 36.8% / "
+        "11,138: no year to read"),
+    "expositors-greek-testament-5": (
+        "expositorsgreek05nico (1910) 13.3% / 36.5% / 10,451  <- chosen; expositorsgreekt05nicouoft (Doran, "
+        "undated) 13.2% / 36.4% / 10,410; expositorsgreekt05nico (Princeton, undated) 13.5% / 34.6% / 10,197"),
+}
+for _k, _s in EGT.items():
+    _s["scan_choice"] = EGT_CHOICE[_k]
+SECOND.update(EGT)
+SCANS.update(EGT)
+ORDER.extend(EGT)
+MULTI.update(EGT)
+
+
+BY_PAGE_FLOOR = 0.6     # WAVE8: a volume whose notes reach fewer of its verses than this is kept by page
+
+
+def honesty_icc(slug):
+    s = SCANS[slug]
+    lost = {"hebrew": "the Hebrew words are lost (no Hebrew script survives in this scan: measure.hebrew; the OCR "
+                      "gave Latin- or Greek-letter debris, left as it stands)",
+            "greek": "the Greek words are lost (no Greek script survives in this scan, which keeps its Hebrew: "
+                     "measure.greek, measure.hebrew; the OCR gave Latin-letter debris, left as it stands)"}[s["lost"]]
+    if s.get("by_page"):
+        return ("by scan leaf only (leaf.N, the folio in scan.printed_page where read): " + s["by_page"]
+                + "; the scripture references in the text are read as on every page, the OT ones in the "
+                "numbering measured for them (measure.numbering_references); " + lost + "; unproofread OCR")
+    how = ("an indented paragraph opening with a verse number ('4. ὁρισθέντος') is a candidate"
+           + (", and so is a line opening so after a sentence's end" if s.get("line_start") else "")
+           + (", and a number run on after a dash ('... at the installation. — 3. A metaphor')"
+              if s.get("inline", True) else "")
+           + ", accepted when the verse sequence and the running head allow it; following paragraphs belong to "
+           "it until the next")
+    ot = ("; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to "
+          "the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in "
+          "the numbering measured for them (measure.numbering_references); where either measure is undecided, "
+          "the commentary's own numbering of that book decides, pooled over the ICC volumes holding it "
+          "(measure.numbering_work), and where that too is undecided a verse both numberings have is resolved "
+          "only where the two read it alike, else it stays unresolved with both candidates"
+          if s.get("numbered") else "")
+    sup = ("; this volume prints a reference's verse as a superscript ('Gal. 1⁴'), which the OCR fuses to the "
+           "chapter ('Gal 14'), so most of its scripture references are read as a chapter that does not exist "
+           "or a whole chapter and stay unresolved, with their why (measure.scripture_links); none is split "
+           "by guess" if s.get("superscripts") else "")
+    return ("notes keyed by verse where the OCR'd page lets them be: " + how + ot + sup + "; the footnotes (the smaller "
+            "type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as "
+            "the numbers read off the page, and a misread or rejected number merges a verse's notes into the "
+            "verse before (counts in measure); introductions, appendices and every other page by scan leaf "
+            "(leaf.N, the folio in scan.printed_page where read); " + lost + "; unproofread OCR")
+
+
+def citation_icc(slug):
+    if SCANS[slug].get("by_page"):
+        return "scan leaf (leaf.N; folio in scan.printed_page)"
+    lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
+    extra = ", in the numbering the volume prints (scheme.numbering)" if SCANS[slug].get("numbered") else ""
+    return (f"note: {lead} of the verse commented on{extra} (a run of verses: {lead}-end); everything else: "
+            "scan leaf (leaf.N; folio in scan.printed_page)")
+
+
+READER_TEXTS["icc"] = {"honesty": honesty_icc, "citation": citation_icc}
+
+# The International Critical Commentary (Edinburgh: T. & T. Clark; New York: Charles Scribner's Sons), the
+# volumes printed before 1929 whose scans keep their Greek (the NT) or their Greek or Hebrew (the OT).
+# Every scan of every volume was measured 2026-11-03 (wave8-survey: Greek letters as a share of all letters /
+# Greek tokens known to the Strong's yardstick / known Greek words; Hebrew likewise); each volume's
+# scan_choice names the chosen scan and the others. The reader (`icc`) was measured on Sanday & Headlam's
+# Romans first: bengel's paragraph openers key 417 of 433 verses, meyer 7, kd 1. Openers run on after a dash
+# (`inline`) and at a line's start after a sentence's end (`line_start`) are used per volume where they
+# measure better (the NT volumes measure the same either way, and keep paragraph openers only).
+# NOT SHELVED, and why: John (Bernard, 1928: every scan of 1928 or earlier has 0.0% Greek), the Pastorals
+# (Lock, 1924) and Hebrews (Moffatt, 1924): 0.0% Greek in every scan; the other OT volumes (Numbers,
+# Deuteronomy, Judges, Chronicles, Ezra-Nehemiah, Job, Proverbs, Ecclesiastes, Isaiah, Daniel, Amos-Hosea,
+# Micah-Joel, Haggai-Jonah): no scan printed before 1929 keeps either Greek or Hebrew.
+# The OT scans keep one script or the other, never both: Skinner's Genesis and Paton's Esther keep their Greek
+# and lose their Hebrew; Smith's Samuel and Briggs's Psalms keep their Hebrew (2.6-3.2% of letters) and lose
+# their Greek. Briggs's Psalms measure under BY_PAGE_FLOOR with this reader even with each psalm's heading
+# read (a trial reader for 'PSALM II., 4 str. 7³.' reached 41.6% of vol. I's verses, with notes on the
+# psalm before a heading filed under the next): Briggs prints each psalm's translation, then its exegesis,
+# then its critical notes, numbering verses in all three and citing them as superscripts the OCR fuses to
+# the chapter ('Ps. 2⁷' read '27'), so both volumes are kept by page.
+# The survey named criticalexegetic0000brig "vol. I": its title page reads "Vol. 1" in the OCR, but it is
+# copyright and published February 1907 and opens at Psalm LI, so it is vol. II; vol. I is
+# criticalexegetic0000brig_t9m0 (Vol. I, 1906; copyright 1906, published September 1906).
+_ICC = "The International Critical Commentary"
+
+
+def _icc(title, short, author, ia, sha, edition, printed, copy, rights, leaves, books, ia_date, lost, *,
+         scan_choice, ia_date_note=None, first_chapter=None, numbered=False, inline=False, line_start=False,
+         by_page=None, superscripts=False):
+    s = {"ia": ia, "sha256": sha, "title": title, "short": short, "author": author, "edition": edition,
+         "printed": printed, "copy": copy, "ia_rights": rights, "leaves": leaves, "epistles": books,
+         "apparatus": False, "reader": "icc", "ia_date": ia_date, "lost": lost, "scan_choice": scan_choice,
+         "inline": inline}
+    for k, v in (("ia_date_note", ia_date_note), ("first_chapter", first_chapter), ("line_start", line_start),
+                 ("by_page", by_page), ("superscripts", superscripts)):
+        if v:
+            s[k] = v
+    if numbered:
+        s["numbered"], s["series"] = True, "icc"
+    return s
+
+
+_CEC = "A Critical and Exegetical Commentary on"
+ICC = {
+    "icc-allen-matthew": _icc(
+        f"{_CEC} the Gospel according to S. Matthew", "Allen, ICC Matt.", "Willoughby C. Allen",
+        "criticalexegetic0026alle", "6ce6b6e3f5664d6c24eb2f9d61a3372fe46eb143ea40d9191da5a59ae1bdd3e5",
+        f"{_ICC}: W. C. Allen, {_CEC} the Gospel according to S. Matthew, second edition (Edinburgh: T. & T. "
+        "Clark, 1907), as its title page (leaf 9) reads", 1907, "Internet Archive scan", None, (9, 426),
+        [("Matt", 107, 426)], "1907", "hebrew", superscripts=True,
+        scan_choice="criticalexegetic0026alle (1907) 8.6% / 38.7% / 4,375  <- chosen: no other scan keeps its Greek"),
+    "icc-gould-mark": _icc(
+        f"{_CEC} the Gospel according to St. Mark", "Gould, ICC Mark", "Ezra P. Gould",
+        "criticalexegetic00gouluoft", "a8b0eab01d2e0411f07af5d7ecffa8df5dd8b4f1e80757dfd0530b085b6c0b1a",
+        f"{_ICC}: E. P. Gould, {_CEC} the Gospel according to St. Mark (Edinburgh: T. & T. Clark, 1912; fifth "
+        "impression, the first 1896), as its title page and verso (leaves 12-13) read", 1912,
+        "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (12, 376), [("Mark", 68, 376)], "1912", "hebrew", superscripts=True,
+        scan_choice="criticalexegetic00gouluoft (1912) 7.4% / 37.9% / 3,110  <- chosen: no other scan keeps its Greek"),
+    "icc-plummer-luke": _icc(
+        f"{_CEC} the Gospel according to S. Luke", "Plummer, ICC Luke", "Alfred Plummer",
+        "acriticalandexeg00plumuoft", "52a37ee5b60029263523aff43e7c17c70db5329a0f36f7ef77183d1dccd0c335",
+        f"{_ICC}: A. Plummer, {_CEC} the Gospel according to S. Luke (Edinburgh: T. & T. Clark, 1896), as its "
+        "title page (leaf 12) reads", 1896, "University of Toronto (Emmanuel)", "NOT_IN_COPYRIGHT", (12, 664),
+        [("Luke", 95, 664)], "1896", "hebrew",
+        scan_choice=("acriticalandexeg00plumuoft (1896) 10.4% / 37.7% / 8,602  <- chosen; criticalexegetic28plumuoft "
+                     "(1922) 8,579, criticalexegetic00plumrich (1903) 8,574, criticalexegetic00plumuoft (1914) 8,568, "
+                     "criticalexegetic00plum (1896) 8,543, criticalandexege028123mbp (1920) 8,490, "
+                     "in.ernet.dli.2015.153353 (1920) 8,485, acriticalandexe01plumgoog (1896) 8,363, and five "
+                     "undated scans: fewer known Greek words")),
+    "icc-sanday-headlam-romans": _icc(
+        f"{_CEC} the Epistle to the Romans", "Sanday & Headlam, ICC Rom.", "William Sanday and Arthur C. Headlam",
+        "epistlecommentar00sanduoft", "e2de3c37e25910877169368f2cd38ff355b711cda1ed8d0db5397893aa4f13c0",
+        f"{_ICC}: W. Sanday and A. C. Headlam, {_CEC} the Epistle to the Romans, first edition (New York: "
+        "Charles Scribner's Sons, 1895), as its title page (leaf 14) reads", 1895,
+        "University of Toronto (Emmanuel)", "NOT_IN_COPYRIGHT", (14, 560), [("Rom", 124, 560)], "1895", "hebrew",
+        scan_choice=("epistlecommentar00sanduoft (1895, 1st ed.) 7.6% / 40.4% / 6,092  <- chosen; "
+                     "criticalexegetic00sandrich (1905, 'tenth edition', the revised text of 1902) 6,013: 1.3% "
+                     "behind; criticalexegetic97sand (1895) 5,996; in.ernet.dli.2015.268057 (undated) 5,798; "
+                     "acriticalandexe01headgoog (1904) 5,530")),
+    "icc-robertson-plummer-1-corinthians": _icc(
+        f"{_CEC} the First Epistle of St Paul to the Corinthians", "Robertson & Plummer, ICC 1 Cor.",
+        "Archibald Robertson and Alfred Plummer", "stpaulcommentary00robeuoft",
+        "f5704483cf073d192c887b314124e877307f3cdbddcde27808a3f2ceb77c3736",
+        f"{_ICC}: A. Robertson and A. Plummer, {_CEC} the First Epistle of St Paul to the Corinthians (New York: "
+        "Charles Scribner's Sons, 1911), as its title page (leaf 16) reads", 1911,
+        "University of Toronto (Emmanuel)", "NOT_IN_COPYRIGHT", (16, 483), [("1Cor", 82, 483)], "1911", "hebrew",
+        scan_choice=("stpaulcommentary00robeuoft (1911) 7.7% / 46.2% / 5,432  <- chosen; criticalexegetic1911robe "
+                     "(1911) 5,404; acriticalandexeg33robeuoft (1961) and two of illegible reprint years refused")),
+    "icc-plummer-2-corinthians": _icc(
+        f"{_CEC} the Second Epistle of St Paul to the Corinthians", "Plummer, ICC 2 Cor.", "Alfred Plummer",
+        "00758325.1242.emory.edu", "71b9f47f9fce7e16ef2871297c134b4d8416279eb69bef450b5c9082b9011c84",
+        f"{_ICC}: A. Plummer, {_CEC} the Second Epistle of St Paul to the Corinthians (New York: Charles "
+        "Scribner's Sons, 1915), as its title page (leaf 3) reads", 1915, "Emory University, Pitts Theology Library",
+        None, (3, 444), [("2Cor", 59, 444)], "1915", "hebrew",
+        scan_choice=("00758325.1242.emory.edu (1915) 8.0% / 44.7% / 4,994  <- chosen; corinthiexegetic00plumrich "
+                     "(1915) 4,970; criticalexesecep00plumuoft (Clark, 1915) 4,980, the scan Lane A shelves as "
+                     "plummer-2-corinthians-icc (pipeline/alfred-plummer_shelf.json, branch "
+                     "claude/armarium-divines): a twin, kept for later collation")),
+    "icc-burton-galatians": _icc(
+        f"{_CEC} the Epistle to the Galatians", "Burton, ICC Gal.", "Ernest De Witt Burton",
+        "criticalexegetic00burtuoft", "7cd2f3b7085d8122e20a21107da4ea737897a9b7817072f3bde20e9c635a319e",
+        f"{_ICC}: E. De W. Burton, {_CEC} the Epistle to the Galatians (Edinburgh: T. & T. Clark, 1921), as its "
+        "title page (leaf 11) reads", 1921, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (11, 623),
+        [("Gal", 99, 460)], "1921", "hebrew", superscripts=True,
+        scan_choice=("criticalexegetic00burtuoft (1921) 6.8% / 41.3% / 5,477  <- chosen; criticalexegetic00burtrich "
+                     "(1928) 5,458; in.ernet.dli.2015.88314 (1920) 5,399; acriticalandexe0{0-3}burtgoog (1920) "
+                     "5,339-5,397")),
+    "icc-abbott-ephesians-colossians": _icc(
+        f"{_CEC} the Epistles to the Ephesians and to the Colossians", "Abbott, ICC Eph.-Col.", "T. K. Abbott",
+        "criticalexegetic1916abbo", "279e7a5701e62b938bcadbf6b8102fdb3b0286d76165325e9fc4270129f37d74",
+        f"{_ICC}: T. K. Abbott, {_CEC} the Epistles to the Ephesians and to the Colossians (New York: Charles "
+        "Scribner's Sons, 1916), as its title page (leaf 9) reads", 1916, "Princeton Theological Seminary Library",
+        "NOT_IN_COPYRIGHT", (9, 388), [("Eph", 81, 271), ("Col", 273, 388)], "1916", "hebrew",
+        scan_choice=("criticalexegetic1916abbo (1916) 13.9% / 39.4% / 6,968  <- chosen; acriticalandexeg00abbouoft "
+                     "(1897) 6,953; criticalexegetic00abbo (1897) 6,941; criticalexegetic00abborich (1905) 6,939; "
+                     "criticalexegeticabbotabbo (1979) refused")),
+    "icc-vincent-philippians-philemon": _icc(
+        f"{_CEC} the Epistles to the Philippians and to Philemon", "Vincent, ICC Phil.-Phlm.", "Marvin R. Vincent",
+        "criticalexegetic50vinc", "c298df1c1a74bf5090f0208325b2f80da0af4efaa344b4c0589f17926f8061c4",
+        f"{_ICC}: M. R. Vincent, {_CEC} the Epistles to the Philippians and to Philemon (New York: Charles "
+        "Scribner's Sons, 1906; copyright 1897), as its title page and verso (leaves 19-20) read", 1906,
+        "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (19, 256),
+        [("Phil", 63, 216), ("Phlm", 237, 256)], "1906", "hebrew",
+        scan_choice=("criticalexegetic50vinc (1906) 6.2% / 42.1% / 1,866  <- chosen; criticalexegetic00vincuoft "
+                     "(1902) 1,855; criticalexegetic0000vinc_t9b5 (1897), the scan Lane A shelves as "
+                     "vincent-icc-philippians (pipeline/marvin-r-vincent_shelf.json, branch "
+                     "claude/armarium-divines): a twin with 0.0% Greek, kept for later collation")),
+    "icc-frame-thessalonians": _icc(
+        f"{_CEC} the Epistles of St. Paul to the Thessalonians", "Frame, ICC Thess.", "James Everett Frame",
+        "criticalcommenta00framuoft", "0dfd6cbaadc3d584260dfeab6e652255d7a57dbd2d71059e28e3f469ac81c355",
+        f"{_ICC}: J. E. Frame, {_CEC} the Epistles of St. Paul to the Thessalonians (Edinburgh: T. & T. Clark, "
+        "1912, OCR'd '1012'), as its title page (leaf 8) reads", 1912, "University of Toronto (Emmanuel)",
+        "NOT_IN_COPYRIGHT", (8, 328), [("1Thess", 82, 233), ("2Thess", 234, 328)], "1912", "hebrew", superscripts=True,
+        scan_choice=("criticalcommenta00framuoft (1912) 11.2% / 39.2% / 4,135  <- chosen; criticalexegetic00framuoft "
+                     "4,185 (1.2% more, but its title-page year is illegible); exegeticcritical00framrich (1912) "
+                     "4,095")),
+    "icc-ropes-james": _icc(
+        f"{_CEC} the Epistle of St. James", "Ropes, ICC Jas.", "James Hardy Ropes",
+        "criticalandexege028105mbp", "783ebebe3d15539ba2005b26e5676fe649de7d7a43425d3cb680e1f7a2065be6",
+        f"{_ICC}: J. H. Ropes, {_CEC} the Epistle of St. James (New York: Charles Scribner's Sons, 1916; "
+        "published February 1916), as its title page and verso (leaves 6-7) read", 1916,
+        "Universal Digital Library", None, (6, 339), [("Jas", 134, 339)], "1916", "hebrew", superscripts=True,
+        scan_choice=("criticalandexege028105mbp (1916) 9.1% / 35.4% / 2,817  <- chosen; in.ernet.dli.2015.179333 "
+                     "(1916) 2,805; criticalexegetic59rope (1916) 2,726")),
+    "icc-bigg-peter-jude": _icc(
+        f"{_CEC} the Epistles of St. Peter and St. Jude", "Bigg, ICC Pet.-Jude", "Charles Bigg",
+        "criticalexegetic00bigguoft", "37c8561352ccee383174557e242546744bb786e29ecfc38a8dea4780139efa9c",
+        f"{_ICC}: C. Bigg, {_CEC} the Epistles of St. Peter and St. Jude (New York: Charles Scribner's Sons, "
+        "1903), as its title page (leaf 14) reads", 1903, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT",
+        (14, 367), [("1Pet", 111, 221), ("2Pet", 271, 327), ("Jude", 346, 367)], "1903", "hebrew",
+        scan_choice=("criticalexegetic00bigguoft (1903) 9.0% / 37.2% / 4,051  <- chosen; criticalexegetic1905bigg "
+                     "(1905) 4,050; biggcriticalexeg00biggrich (1905) 4,027; acriticalandexe02bigggoog (1902) "
+                     "4,011; criticalexegetic00bigg (1901) 3,978, the scan Lane A shelves as bigg-peter-jude-icc "
+                     "(pipeline/charles-bigg_shelf.json, branch claude/armarium-divines): a twin, kept for later "
+                     "collation")),
+    "icc-brooke-johannine-epistles": _icc(
+        f"{_CEC} the Johannine Epistles", "Brooke, ICC Jn Epp.", "A. E. Brooke",
+        "00355394.1237.emory.edu", "3eec446a14883a3c88919e443fd22b187aeee8c9450f117cbb702ca2562a73a7",
+        f"{_ICC}: A. E. Brooke, {_CEC} the Johannine Epistles (Edinburgh: T. & T. Clark, 1912), as its title page "
+        "(leaf 5) reads", 1912, "Emory University, Pitts Theology Library", None, (5, 295),
+        [("1John", 101, 265), ("2John", 266, 280), ("3John", 281, 295)], "1912", "hebrew",
+        scan_choice=("00355394.1237.emory.edu (1912) 11.6% / 44.0% / 5,423  <- chosen; criticalexegetic00broo "
+                     "(undated) 5,371; criticalexegetic43broouoft (1957) refused")),
+    "icc-charles-revelation-1": _icc(
+        f"{_CEC} the Revelation of St. John, vol. I", "Charles, ICC Rev. I", "R. H. Charles",
+        "criticalexegetic0044char", "b7a12ef7d6511d431b1b5ee24bd780fdeadf74a4ed5601c3d36723e7c55cf154",
+        f"{_ICC}: R. H. Charles, {_CEC} the Revelation of St. John, vol. I (New York: Charles Scribner's Sons, "
+        "1920), as its title page (leaf 9) reads", 1920, "Internet Archive scan", None, (9, 569),
+        [("Rev", 198, 569)], "1920", "hebrew", superscripts=True,
+        scan_choice=("criticalexegetic0044char (1920) 13.2% / 37.6% / 9,284  <- chosen; criticalexegetic01char "
+                     "9,217, criticalandexege008418mbp 9,195, acriticalandexeg01charuoft 9,186, "
+                     "criticalexegetic661char 9,168, in.ernet.dli.2015.167208 9,102, internationalcr01plumgoog "
+                     "9,081, acriticalandexe00chargoog 8,990 (all 1920); p1criticalexeget44charuoft (1956) refused")),
+    "icc-charles-revelation-2": _icc(
+        f"{_CEC} the Revelation of St. John, vol. II", "Charles, ICC Rev. II", "R. H. Charles",
+        "criticalexegetic02char", "99a13fd7d62bff1f8337070a7954d85b4322f114c75f26a1a7bb2ea2ab261813",
+        f"{_ICC}: R. H. Charles, {_CEC} the Revelation of St. John, vol. II (New York: Charles Scribner's Sons, "
+        "1920), as its title page (leaf 7) reads; with Charles's Greek text and English translation of the "
+        "whole book, kept by page", 1920, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (7, 470),
+        [("Rev", 14, 238)], "1920", "hebrew", superscripts=True, first_chapter={"Rev": 14}, inline=True,
+        scan_choice=("criticalexegetic02char (1920) 20.0% / 37.7% / 10,545  <- chosen; criticalexegetic662char "
+                     "10,537, criticalexegetic0044char_a2i0 10,447, acriticalandexeg02charuoft 10,377, "
+                     "criticalandexege028098mbp 10,172, in.ernet.dli.2015.153339 10,142, "
+                     "in.ernet.dli.2015.178982 10,119, internationalcr02plumgoog 9,808 (all 1920), and four "
+                     "undated; p2criticalexeget44charuoft (1959) refused")),
+}
+ICC_OT = {
+    "icc-skinner-genesis": _icc(
+        f"{_CEC} Genesis", "Skinner, ICC Gen.", "John Skinner",
+        "acriticalandexeg00skinuoft", "eba56485d292bb32077c077df42663c6ab118e1e0b85d5dbdb16fdc76ab43c6f",
+        f"{_ICC}: J. Skinner, {_CEC} Genesis (New York: Charles Scribner's Sons, 1910, OCR'd 'IgIo'), as its "
+        "title page (leaf 16) reads", 1910, "University of Toronto (Kelly)", "NOT_IN_COPYRIGHT", (16, 641),
+        [("Gen", 102, 641)], "1910", "hebrew", superscripts=True, numbered=True, inline=True, line_start=True,
+        scan_choice=("acriticalandexeg00skinuoft (1910) Greek 1.9% / 29.7% / 1,013, Hebrew 0.0%  <- chosen; "
+                     "criticalexegetic00skinrich 970, criticalexegetic00skinuoft 968, criticalexegetic01skin 949 "
+                     "(all 1910); no scan keeps the Hebrew")),
+    "icc-paton-esther": _icc(
+        f"{_CEC} the Book of Esther", "Paton, ICC Esth.", "Lewis Bayles Paton",
+        "criticalexegetic00patorich", "4e079cc0bbf84f79a0c3b96cae06034c06f6636f3d139625a9ae2a8e7367f7c2",
+        f"{_ICC}: L. B. Paton, {_CEC} the Book of Esther (New York: Charles Scribner's Sons, 1908; published "
+        "September 1908), as its title page and verso (leaves 15-16) read", 1908,
+        "University of California Libraries", "NOT_IN_COPYRIGHT", (15, 336), [("Esth", 149, 336)], "1908",
+        "hebrew", superscripts=True, numbered=True, inline=True, line_start=True,
+        scan_choice=("criticalexegetic00patorich (1908) Greek 3.0% / 34.6% / 1,004, Hebrew 0.0%  <- chosen: no "
+                     "other scan keeps its Greek, none its Hebrew; criticalexegetic13patouoft (1951) refused")),
+    "icc-smith-samuel": _icc(
+        f"{_CEC} the Books of Samuel", "H. P. Smith, ICC Sam.", "Henry Preserved Smith",
+        "criticalexegetic0009smit_z1y7", "1e8feeec8063b7742363289f66719b614a30b6ff238a4a4fd4fdca26ee0cec09",
+        f"{_ICC}: H. P. Smith, {_CEC} the Books of Samuel (New York: Charles Scribner's Sons, 1899), as its "
+        "title page and verso (leaves 17-18) read", 1899, "Internet Archive scan", None, (17, 447),
+        [("1Sam", 57, 307), ("2Sam", 308, 447)], "1899", "greek", superscripts=True, numbered=True, inline=True, line_start=True,
+        scan_choice=("criticalexegetic0009smit_z1y7 (1899) Hebrew 2.9% of letters, 5,456 tokens of 3+ letters, "
+                     "52.5% a Strong's lemma (or one with a prefix); Greek 0.0%  <- chosen; "
+                     "criticalexegetic0009smit_i8j1 (1904) 2.8% / 5,467 / 52.0%; criticalexegetic0009smit (1951 "
+                     "impression) refused; no scan keeps the Greek")),
+    "icc-briggs-psalms-1": _icc(
+        f"{_CEC} the Book of Psalms, vol. I", "Briggs, ICC Ps. I", "Charles Augustus Briggs and Emilie Grace Briggs",
+        "criticalexegetic0000brig_t9m0", "741521b7bef5ab19de36e7e47bb30f407aebc5106b0566c72bde40b3448560ba",
+        f"{_ICC}: C. A. Briggs and E. G. Briggs, {_CEC} the Book of Psalms, vol. I (Psalms I-L) (New York: "
+        "Charles Scribner's Sons, 1906; published September 1906), as its title page and verso (leaves 17-18) "
+        "read", 1906, "Internet Archive scan", None, (17, 549), [("Ps", 127, 549)], "1906", "greek",
+        numbered=True, inline=True,
+        by_page=("the notes measured under BY_PAGE_FLOOR as verse units (41.6% of the verses at best: Briggs "
+                 "prints each psalm's translation, exegesis and critical notes, each numbered by verse, and "
+                 "cites verses as superscripts the OCR fuses to the psalm's number)"),
+        scan_choice=("criticalexegetic0000brig_t9m0 (1906) Hebrew 2.6% / 5,700 / 56.2%; Greek 0.0%  <- chosen, "
+                     "the first printing; criticalexegetic0000brig_j3b5 (1908) 2.6% / 5,683 / 55.0%; "
+                     "criticalexegetic0015brig (1927, fourth impression, Clark) 2.7% / 5,640 / 57.4%; "
+                     "criticalexegetic0000brig_q1p1 (latest impression 1976), the scan Lane A shelves as "
+                     "briggs-psalms-1 (pipeline/charles-a-briggs_shelf.json, branch claude/armarium-divines): "
+                     "refused here, a post-1928 reprint; no scan keeps the Greek")),
+    "icc-briggs-psalms-2": _icc(
+        f"{_CEC} the Book of Psalms, vol. II", "Briggs, ICC Ps. II", "Charles Augustus Briggs and Emilie Grace Briggs",
+        "criticalexegetic0000brig", "7bfd53e245ef857cf243dee977183fbeed4df2cc4a52cf62e1bbc76a78f5b515",
+        f"{_ICC}: C. A. Briggs and E. G. Briggs, {_CEC} the Book of Psalms, vol. II (Psalms LI-CL) (New York: "
+        "Charles Scribner's Sons, 1907; published February 1907), as its title page and verso (leaves 17-18) "
+        "read (the OCR reads the title page's volume number as '1'; the volume opens at Psalm LI)", 1907,
+        "Internet Archive scan", None, (17, 567), [("Ps", 25, 567)], "1906", "greek",
+        numbered=True, inline=True, first_chapter={"Ps": 51},
+        ia_date_note="IA dates it 1906; its title page and verso read 1907 (published February 1907)",
+        by_page=("the notes measured under BY_PAGE_FLOOR as verse units (23.6% of the verses with the "
+                 "reader's openers: Briggs prints each psalm's translation, exegesis and critical notes, each "
+                 "numbered by verse, and cites verses as superscripts the OCR fuses to the psalm's number)"),
+        scan_choice=("criticalexegetic0000brig (1907) Hebrew 3.2% / 7,084 / 55.6%; Greek 0.0%  <- chosen; "
+                     "criticalexegetic0000brig_j8i1 (vol. II, copyright 1907, IA date 1906) 3.2% / 7,101 / 54.4%; "
+                     "criticalexegetic0002brig (1925 or later, list partly illegible) 3.2% / 6,977 / 56.3%; "
+                     "criticalexegetic0002char_h5l9 (1917) 2.3% / 5,046 / 56.5%; no scan keeps the Greek")),
+}
+for _d in (ICC, ICC_OT):
+    SECOND.update(_d)
+    SCANS.update(_d)
+    ORDER.extend(_d)
+    MULTI.update(k for k, s in _d.items() if len(s["epistles"]) > 1)
+SAME_SCAN_AS["icc-plummer-luke"] = ("same scan as Lane A: plummer-luke-icc (pipeline/alfred-plummer_shelf.json, "
+                                    f"{_LANE_A})")
 
 
 # ------------------------------------------------------------------ books
@@ -4806,11 +5412,22 @@ def entry(book, blob):
             "built_sha256": hashlib.sha256(blob).hexdigest()}
 
 
+def source_absent(slug):
+    """A Gutenberg book whose pinned file is not here at all (gutenberg.org unreachable from this
+    session): it is not built, and its committed manifest entry is kept as it stands. A file that is
+    here but differs from its pin still stops the build (build_gutenberg)."""
+    return slug in GUTENBERG and not os.path.exists(os.path.join(CACHE, GUTENBERG[slug]["file"]))
+
+
 def build(slugs=None):
     ids = kjv_ids()
     out = {}
     for slug in ORDER:
         if slugs and slug not in slugs:
+            continue
+        if source_absent(slug):
+            print(f"  {slug}: SKIPPED (source absent): {GUTENBERG[slug]['file']} is not in {CACHE}; its "
+                  "committed manifest entry is kept unchanged (run --fetch to build it)")
             continue
         book = build_book(slug, ids)
         blob = json.dumps(book, ensure_ascii=False).encode("utf-8")
