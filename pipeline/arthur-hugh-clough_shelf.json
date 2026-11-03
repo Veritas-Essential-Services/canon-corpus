@@ -1,0 +1,44 @@
+{
+ "_about": "Arthur Hugh Clough. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Arthur Hugh Clough",
+ "_name_words": [
+  "arthur",
+  "hugh",
+  "clough"
+ ],
+ "_surname": [
+  "clough",
+  "arthur hugh clough"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "clough-poems": [
+   66689,
+   "Poems of Arthur Hugh Clough"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "clough-poems": {
+   "bloom_n": [
+    471
+   ],
+   "bloom_title": "Poems",
+   "year": "1898 (PG header 'Original publication: United Kingdom: MacMillan and Co., Limited, 1898')",
+   "evidence": "Read PG header.",
+   "case": "Bloom lists Clough's poems; nothing by Clough is held (only his Plutarch revision). The Macmillan collected Poems is on PG.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "clough-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "clough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
