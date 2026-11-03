@@ -28,8 +28,18 @@ THE RULE, in order; the first that fires sets the gloss (its id goes on the toke
                 (Robinson T, P, D, R): the first KJV rendering, in Strong's
                 order, that is an English form agreeing with the token's
                 person, number, gender and case (FORMS). None agrees: null.
-                No definition fallback: Strong's defines these by their
-                grammar ("the reflexive pronoun self"), not by a sense.
+                No definition fallback for articles and personal pronouns:
+                Strong's defines these by their grammar ("the reflexive
+                pronoun self"), not by a sense. A demonstrative or relative
+                with no agreeing form (toioutos "such") goes on to the rules
+                below, as any word does (2026-10-02).
+    paradigm    Personal pronouns (Robinson P, not crasis) whose entry Strong's
+                calls a pronoun, when kjv-form finds no agreeing rendering:
+                the English pronoun for the token's person, number, gender
+                and case, from the house PARADIGM (the AV's own forms: thou,
+                thee, thy, ye). Strong's lists only some forms (sy: "thou";
+                autos: no standalone him/his), and the rest are grammar,
+                not sense. Added 2026-10-02.
     kjv-sole    The entry has exactly one usable KJV rendering.
     kjv-in-def  The usable KJV rendering that occurs earliest, as a whole
                 word, in Strong's definition (clauses about derivation or
@@ -42,6 +52,10 @@ THE RULE, in order; the first that fires sets the gloss (its id goes on the toke
                 sense clause (parentheses off, cut at the first comma, "i.e."
                 or " or "; a leading "properly," etc., "a"/"an", and for a
                 verb "to"/"I" dropped). More than four words: not taken.
+                A parenthesis opening "or" with two or more words is a whole
+                alternative reading ("to lower (or with violence) demolish"),
+                so the head stops before it; a dangling "in a good" left by
+                the " or " cut is dropped (2026-10-02).
     (none)      null, with the reason.
 
     Usable rendering: Strong's marks renderings that are not the word's own
@@ -75,6 +89,8 @@ OVERRIDE_LAYERS = ("adam-reviewed", "house")
 RULES = {
     "kjv-form": ("article or pronoun: the first KJV rendering, in Strong's order, that is an "
                  "English form agreeing in person, number, gender and case"),
+    "paradigm": ("personal pronoun (Robinson P, Strong's calls it a pronoun) with no agreeing KJV "
+                 "rendering: the house paradigm's AV form for its person, number, gender and case"),
     "kjv-sole": "the entry has exactly one usable KJV rendering",
     "kjv-in-def": ("the usable KJV rendering that occurs earliest, as a whole word, in Strong's "
                    "definition (derivation and grammar clauses set aside; outside parentheses "
@@ -82,7 +98,17 @@ RULES = {
     "def-head": ("noun, adjective or verb: the head of Strong's first sense clause (parentheses "
                  "off, cut at the first comma, 'i.e.' or ' or '; at most four words)"),
 }
-RULE_ORDER = ("kjv-form", "kjv-sole", "kjv-in-def", "def-head")
+RULE_ORDER = ("kjv-form", "paradigm", "kjv-sole", "kjv-in-def", "def-head")
+
+# Petersen's XML lost the ":--" before the KJV rendering in two entries, so
+# the rendering reads as the end of the definition ("length (literally or
+# figuratively) length."). Repaired here, never in the source file. Every
+# other entry with no <kjv_def> is empty or a cross-reference (checked
+# 2026-10-02: 104 entries, these two the only ones with text that ends so).
+XML_REPAIRS = {
+    259: ("from a collateral form of G138; capture", ":--be taken."),
+    3372: ("probably akin to G3173; length (literally or figuratively)", ":--length."),
+}
 
 # ---------------------------------------------------------------------------
 # Reading an entry
@@ -115,6 +141,9 @@ def load_entries(xml):
         parts = [_text(x.group(1)) for x in (d, f) if x]
         definition = "; ".join(p for p in parts if p)
         out[int(n)] = Entry(int(n), definition, _text(k.group(1)) if k else "")
+    for n, (definition, kjv) in XML_REPAIRS.items():
+        if n in out and not out[n].kjv:
+            out[n] = Entry(n, definition, kjv)
     return out
 
 
@@ -267,6 +296,36 @@ FORMS = {
     "which": ("R", "3", "SP", _ANY_G, "nom obl gen"), "what": ("R", "3", "SP", "N", "nom obl"),
 }
 CLOSED = set("TPDR")
+# Articles and personal pronouns have no sense to fall back on; a
+# demonstrative or relative with no agreeing form does (toioutos "such").
+NO_FALLBACK = set("TP")
+
+# The house paradigm (rule `paradigm`): the AV's forms, as FORMS spells them.
+# (person, number, gender or None, slot) -> form; the genitive is possessive.
+PARADIGM = {
+    ("1", "S", None, "nom"): "I", ("1", "S", None, "obl"): "me", ("1", "S", None, "gen"): "my",
+    ("1", "P", None, "nom"): "we", ("1", "P", None, "obl"): "us", ("1", "P", None, "gen"): "our",
+    ("2", "S", None, "nom"): "thou", ("2", "S", None, "obl"): "thee", ("2", "S", None, "gen"): "thy",
+    ("2", "P", None, "nom"): "ye", ("2", "P", None, "obl"): "you", ("2", "P", None, "gen"): "your",
+    ("3", "S", "M", "nom"): "he", ("3", "S", "M", "obl"): "him", ("3", "S", "M", "gen"): "his",
+    ("3", "S", "F", "nom"): "she", ("3", "S", "F", "obl"): "her", ("3", "S", "F", "gen"): "her",
+    ("3", "S", "N", "nom"): "it", ("3", "S", "N", "obl"): "it", ("3", "S", "N", "gen"): "its",
+    ("3", "P", None, "nom"): "they", ("3", "P", None, "obl"): "them", ("3", "P", None, "gen"): "their",
+}
+
+
+def paradigm_form(code, entry):
+    """The paradigm's form for a personal pronoun token, or None: Robinson P,
+    not crasis (-K: "and I" is not "I"), an entry Strong's calls a pronoun."""
+    feats = features(code)
+    if feats is None or feats[0] != "P" or code.endswith("-K") or "-K-" in code:
+        return None
+    if not entry or not re.search(r"\bpronoun\b", entry.definition, re.I):
+        return None
+    _, per, case, num, gen = feats
+    g = gen if per == "3" and num == "S" else None
+    form = PARADIGM.get((per, num, g, _SLOT[case]))
+    return form if form and form_fits(form, feats) else None
 _SLOT = {"N": "nom", "V": "nom", "G": "gen", "D": "obl", "A": "obl"}
 
 
@@ -314,8 +373,14 @@ def _pos(code):
 def def_head(entry, code):
     """The head of the first sense clause, or None."""
     for c in sense_clauses(entry)[:1]:
+        # "(or with violence)": a multi-word alternative ends the first reading.
+        c = re.split(r"\(\s*or\s+\S+\s+[^()]*\)", c, 1)[0]
         h = _strip_lead(_unparen(c).strip(" ,.:"))
-        h = re.split(r",|;|:|\bi\.e\.|\bor\b|\bthat is\b", h, 1)[0].strip(" ,.:")
+        cut = re.search(r",|;|:|\bi\.e\.|\bor\b|\bthat is\b", h)
+        h = h[:cut.start()].strip(" ,.:") if cut else h
+        if cut and cut.group(0) == "or":
+            # "boast in a good or a bad sense": the cut leaves "in a good" hanging
+            h = re.sub(r"\s+(?:in|of|with|by)\s+(?:a|an|the)\s+\w+$", "", h)
         h = re.sub(r"^(?:a|an)\s+", "", h, flags=re.I)
         if _pos(code) == "V":
             h = re.sub(r"^(?:to|I)\s+", "", h)
@@ -365,7 +430,11 @@ def gloss_for(code, entry):
         for r in renderings:
             if form_fits(r[0], feats):
                 return got(r[0], "kjv-form")
-        return none("no KJV rendering agrees in person, number, gender and case")
+        form = paradigm_form(code, entry)
+        if form:
+            return got(form, "paradigm")
+        if pos in NO_FALLBACK:
+            return none("no KJV rendering agrees in person, number, gender and case")
     # A pronoun form never glosses a non-pronoun ("that" is a conjunction too).
     content = [r for r in renderings if r[0].lower() not in FORMS or r[0].lower() == "that"]
     if len(renderings) == 1 and content:

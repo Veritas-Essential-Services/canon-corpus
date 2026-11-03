@@ -4,28 +4,278 @@
  "built_on": "2026-09-26",
  "row_unit": "verse",
  "selection": {
-  "stem": "JOH",
-  "chapter": 1,
-  "first": 1,
-  "last": 18,
-  "pericope": "John.1.1-18",
-  "title": "The Prologue of John",
-  "osis_book": "John"
+  "title": "The Greek New Testament (Robinson-Pierpont 2018)",
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "Rom",
+   "1Cor",
+   "2Cor",
+   "Gal",
+   "Eph",
+   "Phil",
+   "Col",
+   "1Thess",
+   "2Thess",
+   "1Tim",
+   "2Tim",
+   "Titus",
+   "Phlm",
+   "Heb",
+   "Jas",
+   "1Pet",
+   "2Pet",
+   "1John",
+   "2John",
+   "3John",
+   "Jude",
+   "Rev"
+  ],
+  "pilot": {
+   "stem": "JOH",
+   "osis_book": "John",
+   "chapter": 1,
+   "first": 1,
+   "last": 18,
+   "pericope": "John.1.1-18",
+   "title": "The Prologue of John"
+  }
  },
  "counts": {
-  "passages": 18,
-  "verses": 18,
-  "witnesses": 36,
+  "passages": 7953,
+  "verses": 7953,
+  "witnesses": 7971,
   "plain_witnesses": 18,
-  "tokens": 253,
-  "alignments": 18,
-  "tokens_with_lemma": 253,
-  "tokens_with_parsing": 253,
-  "tokens_with_gloss": 253,
-  "tokens_without_gloss": 0,
-  "tokens_flagged_for_review": 1,
-  "distinct_lemmas": 83,
-  "finite_verbs": 41
+  "tokens": 140149,
+  "alignments": 7953,
+  "tokens_with_lemma": 140149,
+  "tokens_with_parsing": 140149,
+  "tokens_with_gloss": 131627,
+  "tokens_without_gloss": 8522,
+  "tokens_flagged_for_review": 28,
+  "distinct_lemmas": 5380,
+  "finite_verbs": 19571
+ },
+ "shards": {
+  "layout": "book",
+  "order": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "Rom",
+   "1Cor",
+   "2Cor",
+   "Gal",
+   "Eph",
+   "Phil",
+   "Col",
+   "1Thess",
+   "2Thess",
+   "1Tim",
+   "2Tim",
+   "Titus",
+   "Phlm",
+   "Heb",
+   "Jas",
+   "1Pet",
+   "2Pet",
+   "1John",
+   "2John",
+   "3John",
+   "Jude",
+   "Rev"
+  ],
+  "books": {
+   "Matt": {
+    "verses": 1071,
+    "tokens": 18742,
+    "dir": "Matt"
+   },
+   "Mark": {
+    "verses": 678,
+    "tokens": 11618,
+    "dir": "Mark"
+   },
+   "Luke": {
+    "verses": 1150,
+    "tokens": 19878,
+    "dir": "Luke"
+   },
+   "John": {
+    "verses": 879,
+    "tokens": 15892,
+    "dir": "John"
+   },
+   "Acts": {
+    "verses": 1004,
+    "tokens": 18671,
+    "dir": "Acts"
+   },
+   "Rom": {
+    "verses": 433,
+    "tokens": 7210,
+    "dir": "Rom"
+   },
+   "1Cor": {
+    "verses": 437,
+    "tokens": 6926,
+    "dir": "1Cor"
+   },
+   "2Cor": {
+    "verses": 257,
+    "tokens": 4507,
+    "dir": "2Cor"
+   },
+   "Gal": {
+    "verses": 149,
+    "tokens": 2252,
+    "dir": "Gal"
+   },
+   "Eph": {
+    "verses": 155,
+    "tokens": 2459,
+    "dir": "Eph"
+   },
+   "Phil": {
+    "verses": 104,
+    "tokens": 1641,
+    "dir": "Phil"
+   },
+   "Col": {
+    "verses": 95,
+    "tokens": 1614,
+    "dir": "Col"
+   },
+   "1Thess": {
+    "verses": 89,
+    "tokens": 1497,
+    "dir": "1Thess"
+   },
+   "2Thess": {
+    "verses": 47,
+    "tokens": 833,
+    "dir": "2Thess"
+   },
+   "1Tim": {
+    "verses": 113,
+    "tokens": 1621,
+    "dir": "1Tim"
+   },
+   "2Tim": {
+    "verses": 83,
+    "tokens": 1251,
+    "dir": "2Tim"
+   },
+   "Titus": {
+    "verses": 46,
+    "tokens": 664,
+    "dir": "Titus"
+   },
+   "Phlm": {
+    "verses": 25,
+    "tokens": 340,
+    "dir": "Phlm"
+   },
+   "Heb": {
+    "verses": 303,
+    "tokens": 4987,
+    "dir": "Heb"
+   },
+   "Jas": {
+    "verses": 108,
+    "tokens": 1760,
+    "dir": "Jas"
+   },
+   "1Pet": {
+    "verses": 105,
+    "tokens": 1719,
+    "dir": "1Pet"
+   },
+   "2Pet": {
+    "verses": 61,
+    "tokens": 1103,
+    "dir": "2Pet"
+   },
+   "1John": {
+    "verses": 105,
+    "tokens": 2151,
+    "dir": "1John"
+   },
+   "2John": {
+    "verses": 13,
+    "tokens": 249,
+    "dir": "2John"
+   },
+   "3John": {
+    "verses": 14,
+    "tokens": 217,
+    "dir": "3John"
+   },
+   "Jude": {
+    "verses": 25,
+    "tokens": 450,
+    "dir": "Jude"
+   },
+   "Rev": {
+    "verses": 404,
+    "tokens": 9897,
+    "dir": "Rev"
+   }
+  },
+  "ruling": {
+   "status": "house default, awaiting Adam's ruling",
+   "default": "one folder per book (data/nt/<OSIS book>/), the four files in each; one manifest over all of them; token records unchanged (provenance stays on every token)",
+   "alternatives": [
+    "SHARD = None: four flat files (tokens.jsonl would be ~76 MB)",
+    "move the constant provenance to the manifest (README s.10; a schema change)",
+    "gitignore the tokens and rebuild them from the pins, as data/books/ is"
+   ],
+   "doc": "pipeline/README-nt-jsonl.md s.10, s.16"
+  }
+ },
+ "versification": {
+  "of_record": "kjv",
+  "map": {
+   "Rom.14.24": "Rom.16.25",
+   "Rom.14.25": "Rom.16.26",
+   "Rom.14.26": "Rom.16.27"
+  },
+  "ruling": {
+   "status": "house default, awaiting Adam's ruling",
+   "default": "the doxology is one passage: RP Rom 14:24-26 are witnesses of the KJV uids of Rom 16:25-27, each witness recording RP's own reference as rp_ref",
+   "alternative": "set VERSIFICATION_MAP's values to None in build_nt_corpus.py and rebuild: the three RP verses are left out and counted; nothing is minted either way",
+   "doc": "pipeline/README-nt-jsonl.md s.10, s.16"
+  },
+  "placed_elsewhere": [
+   {
+    "rp": "Rom.14.24",
+    "kjv": "Rom.16.25",
+    "uid": "wh-428N7TVM8P"
+   },
+   {
+    "rp": "Rom.14.25",
+    "kjv": "Rom.16.26",
+    "uid": "wh-E13DMHB2TM"
+   },
+   {
+    "rp": "Rom.14.26",
+    "kjv": "Rom.16.27",
+    "uid": "wh-TE048TKHCN"
+   }
+  ],
+  "left_out": [],
+  "kjv_verses_without_grc": [
+   "kjv:Acts.15.34",
+   "kjv:Acts.24.7",
+   "kjv:Acts.8.37",
+   "kjv:Luke.17.36"
+  ],
+  "note": "kjv_verses_without_grc are KJV verses the Byzantine text does not carry (Textus Receptus readings), plus any the map leaves out. They keep their uids and simply have no grc.byz witness; nothing is guessed."
  },
  "identity": {
   "rule": "a Greek verse is a witness of the verse passage that already exists; registry opened frozen; nothing minted",
@@ -142,6 +392,10 @@
     "does": "article or pronoun: the first KJV rendering, in Strong's order, that is an English form agreeing in person, number, gender and case"
    },
    {
+    "id": "paradigm",
+    "does": "personal pronoun (Robinson P, Strong's calls it a pronoun) with no agreeing KJV rendering: the house paradigm's AV form for its person, number, gender and case"
+   },
+   {
     "id": "kjv-sole",
     "does": "the entry has exactly one usable KJV rendering"
    },
@@ -155,17 +409,22 @@
    }
   ],
   "by_rule": {
-   "kjv-form": 41,
-   "kjv-sole": 19,
-   "kjv-in-def": 56,
-   "def-head": 0
+   "kjv-form": 27855,
+   "paradigm": 7103,
+   "kjv-sole": 20489,
+   "kjv-in-def": 52792,
+   "def-head": 23251
   },
   "by_override": {
    "adam-reviewed": 0,
    "house": 137
   },
-  "none": 0,
-  "none_by_reason": {},
+  "none": 8522,
+  "none_by_reason": {
+   "no KJV rendering agrees in person, number, gender and case": 5,
+   "no KJV rendering in the definition; a function word takes no definition head": 7642,
+   "no KJV rendering in the definition; no usable definition head": 875
+  },
   "overrides": {
    "file": "data/nt/gloss-overrides.jsonl",
    "layers": [
@@ -259,25 +518,237 @@
  "apparatus_in_selection": {
   "note": "RP's CCAT file carries variant notes in {..} blocks; these files hold the main text only. Counts by siglum (N = Nestle-Aland).",
   "by_siglum": {
-   "N": 3
+   "B": 669,
+   "C": 46,
+   "E": 14,
+   "M": 18,
+   "N": 6746,
+   "S": 29
   }
  },
  "inputs_sha256": {
   "LICENSE.txt": "04e731724d985529bf93ebbe46d8b91fbf3cd9171504e64c73eeb2bafdeb711e",
   "README.md": "e392e0b871e515bdc347933e12484e7a3b4a7002db760b0fc91ecefe6278a9b1",
+  "csv-unicode/ccat/no-variants/1CO.csv": "3df74494005fbde8705623f9f5c58225dbe53138a3c21d544b175220d3ba455a",
+  "csv-unicode/ccat/no-variants/1JO.csv": "4a5837d952c3bdf1b46b25f73aab153af788aba65914165d3e17f3dcdcd03af8",
+  "csv-unicode/ccat/no-variants/1PE.csv": "78bced495de92e84be3210e879fdb5d10d0aa0b4d3f68003a33c11e7702667fd",
+  "csv-unicode/ccat/no-variants/1TH.csv": "06889bdfcaef08c16ecbe65141acbc66c04a5498fb39780b7e3278e25381c814",
+  "csv-unicode/ccat/no-variants/1TI.csv": "09ff4375a477e1836492fc2bb8ff64de460e264db928f709474b211f6be524b4",
+  "csv-unicode/ccat/no-variants/2CO.csv": "500e00228db3b04f5eff6de2dc2614ff44dba60b7085a194f96e2c121b2adad9",
+  "csv-unicode/ccat/no-variants/2JO.csv": "ffe5d0b2b96458edc279cbc1197d4cd87fbf843cd20cdf0db22516f17aa7ca85",
+  "csv-unicode/ccat/no-variants/2PE.csv": "28cc901bb641c65d747bc05874f76f7caf325835cb9b043d1c772b74330f9c64",
+  "csv-unicode/ccat/no-variants/2TH.csv": "0cfbe3d62e5ba1933608fa1a89566c353264b620f3679e4c8d39b673123f4967",
+  "csv-unicode/ccat/no-variants/2TI.csv": "baf93b830c393d9b99d5b924bc223af6580daac150b78a783cfaa3b19fd7984f",
+  "csv-unicode/ccat/no-variants/3JO.csv": "2b19485c09429cbecc20e74a6ba3b01a10781f3c4a736c0c5f95535be6b82e77",
+  "csv-unicode/ccat/no-variants/ACT.csv": "922d4e0e618438c2595114346865b322d8599bca76edc62b9ba1811f746d83cb",
+  "csv-unicode/ccat/no-variants/COL.csv": "2ff3f88b702d59e31192de87ccbf97f8478704c9fffc8be606090d74fa21c7f8",
+  "csv-unicode/ccat/no-variants/EPH.csv": "d6d0f6c83d616350e5f78a26af2f6ac5f9836f8b98ef3703526ee90ebad0591d",
+  "csv-unicode/ccat/no-variants/GAL.csv": "0eb3b8e924e9c7c826b1bc189c272f9020f37b00e305ccc519521ffc4d2b71bb",
+  "csv-unicode/ccat/no-variants/HEB.csv": "3fd70fa4077efa736ebb8ac33fdde6bc5d6460ac14b51ae5c4acfea90e6c51ba",
+  "csv-unicode/ccat/no-variants/JAM.csv": "aedd167524683df076f8a6a0518347a4788f8f7b3130122e0a9ca2ce0d0ab8e0",
   "csv-unicode/ccat/no-variants/JOH.csv": "06251d70a77f4d17e8dbde054e82ee947ef7834378348e5bcfa938803b42447b",
+  "csv-unicode/ccat/no-variants/JUD.csv": "f3c4ae23ff6bfe32e318fb9a713b548faa3ef29f28912b17a24b51d5a9fddc2d",
+  "csv-unicode/ccat/no-variants/LUK.csv": "68edd943238ec1cb51fd1ba7f0f59ff0d9b6841fe780ea6812449e9b0debee98",
+  "csv-unicode/ccat/no-variants/MAR.csv": "80e7a72edb34474381c0287b58e2feea1d2495bf8318503dbaee570d4c056550",
+  "csv-unicode/ccat/no-variants/MAT.csv": "f098a3be6c8a7ecf406189ff41000f7933adf41d522fc6b6484b303314820d5d",
+  "csv-unicode/ccat/no-variants/PHM.csv": "2af01ed66ab87fc6ba13e5fd5a607db8d223f2b143f8ec7352091ac091a9baf3",
+  "csv-unicode/ccat/no-variants/PHP.csv": "ff818b91ba818894fcf9bf901e93687611307f0c020cba6a5d2308111fee82f6",
+  "csv-unicode/ccat/no-variants/REV.csv": "ed98308c411311fea00e4eb501b86a78f297e536a62d27baf1a96298673a9c23",
+  "csv-unicode/ccat/no-variants/ROM.csv": "0cda390213ff3782ceeb6a99a2686d541fb298977186ade0f60b024a17b92981",
+  "csv-unicode/ccat/no-variants/TIT.csv": "1e18cf9ac5e168baee75ba9041209ad3fa251cc0a8214a6b253dc463514ef063",
+  "csv-unicode/strongs/with-parsing/1CO.csv": "6e08733db7ebb24b1128b1d4482599e5dc0f1b09f10fb497fc44f4ad61156f77",
+  "csv-unicode/strongs/with-parsing/1JO.csv": "20861515f3af3db6ab731afdd44737f06f5de6f2c96899042a7fb32848f871bf",
+  "csv-unicode/strongs/with-parsing/1PE.csv": "fb55a3d4cbe3f52809492b5fb0a0b1e08757aa586ca4cdb58d310571285fbd4c",
+  "csv-unicode/strongs/with-parsing/1TH.csv": "5f6c0c71d2ecf38a7e3b91390f7ead6b1e3873de63c88276c4ddec68ccd407c9",
+  "csv-unicode/strongs/with-parsing/1TI.csv": "4053c4780be4e5b5a155e8ff15760ca14b92bc3b942649012dc5f22b16050a43",
+  "csv-unicode/strongs/with-parsing/2CO.csv": "e1da5707a783cf4c9ea46f586a947594767b6a2913ee9f302bf07d450a874dae",
+  "csv-unicode/strongs/with-parsing/2JO.csv": "e65c07bcb0ecfd3d2fd4dc806f998f77523d17e986049c4105902109eeb356f7",
+  "csv-unicode/strongs/with-parsing/2PE.csv": "9b44ffcf9fb2e04808bb90dc6ff2446d862d9cb2beeda1a1400947894ae94d54",
+  "csv-unicode/strongs/with-parsing/2TH.csv": "06306adf0008dbcfba4a0371dbdc765e1180c29ab266e8399d34f39aaed8f929",
+  "csv-unicode/strongs/with-parsing/2TI.csv": "9d2b77165d1849ca38d02f98d732b2ce3562e26c329e7a5de0b9b0006ee815b5",
+  "csv-unicode/strongs/with-parsing/3JO.csv": "969332153c6d49cae274bd7372928f8be04efb4ba2b5851520a67a1d2ffa5742",
+  "csv-unicode/strongs/with-parsing/ACT.csv": "e5b18a3322a236c2a3ffb57c4c620b9b107974158096acd61ec085fd376d046e",
+  "csv-unicode/strongs/with-parsing/COL.csv": "8f0e6549e0f6180dc51d2e6b14e60e6f574643db5c231c1683e4daf908ff3bd2",
+  "csv-unicode/strongs/with-parsing/EPH.csv": "4843b25ffbb0bc70c26f02ee023c9677c2d42cd0acaafacb50b42752f74bb533",
+  "csv-unicode/strongs/with-parsing/GAL.csv": "eec74c4ce35ea37a6108d977c757792f5cb6ab3e8b09f8d4d8a069d806fe8c58",
+  "csv-unicode/strongs/with-parsing/HEB.csv": "a2978d3a0458fbf565d3a13353dd883185334f0184d4389eef3c1d385285b671",
+  "csv-unicode/strongs/with-parsing/JAM.csv": "9b6543a9adecdb3a1c871b3c613e4e760a646bb23f5fc3b3f3235dd0d1b11676",
   "csv-unicode/strongs/with-parsing/JOH.csv": "c1c004f56e931630ac98cb973dea8b2da4d5220d707cd66fe980cb8c11e1fa9c",
+  "csv-unicode/strongs/with-parsing/JUD.csv": "88729e0a8af554468b6b0d29772c949dfd662c7ce965137e55d1aa3e7f3b6c93",
+  "csv-unicode/strongs/with-parsing/LUK.csv": "929f10c29dbf8f670edeeb87f997a684c6e13615cdeec796c5fc7e4f10deb49c",
+  "csv-unicode/strongs/with-parsing/MAR.csv": "fddcfeeb7f03cd2bd7be230725f78e2a16b872cdb97dc92703f9dc2cffb28261",
+  "csv-unicode/strongs/with-parsing/MAT.csv": "a46e3b9d3f02df1ad2022757474c46fd939517d9457a38f7b253efd6eca7e7d8",
+  "csv-unicode/strongs/with-parsing/PHM.csv": "dfd3146e2631ecc43b609d943085eabcce355a625bd1cd55b3f2a9d8f7658bfb",
+  "csv-unicode/strongs/with-parsing/PHP.csv": "641aeac650308906dc9d637fb7dadc9a3157939137c4dced8970dbee153f35f1",
+  "csv-unicode/strongs/with-parsing/REV.csv": "5c8fbd1c231de84ff3ab34f733d152ef9b61faf4d9d315d5ec57a7c9c18655a5",
+  "csv-unicode/strongs/with-parsing/ROM.csv": "6140de6671ea420772a4539e9fd215fddb6650f7053b99a020b993cb6172ae6b",
+  "csv-unicode/strongs/with-parsing/TIT.csv": "5711b70e93e749376f12c0c252a1238bcf9ea7748378fb53c62b766f434469d4",
+  "source/CCAT/01_MAT.TXT": "0de6c3ca28ea270a8902414b95df2a95d259c092e2cc37a0a39aeabad1373e29",
+  "source/CCAT/02_MAR.TXT": "66d00c52d4ad6dbef408c223bf9fbb67fd4e36b8ee2c0f9acd4440963dd82733",
+  "source/CCAT/03_LUK.TXT": "ac60224255311d85b5d7c7037d9a167ae253ed14189c8486c0c32fa722688fd3",
   "source/CCAT/04_JOH.TXT": "d3d4d6179c1a1dd2fa4ec37538794d505321d081da2dd10171d14045bc53da45",
-  "source/README.md": "8f9fe05bcb9eb172ecdf4a14275ef17a1c2bcbe5c947e339fb07e7a5f21b47cb",
+  "source/CCAT/05_ACT.TXT": "301d7bb2b6da6ff9c64dcd2c2ff2a75e937ed3cb6d91e2dbae03f606ac7a353a",
+  "source/CCAT/06_ROM.TXT": "2c8ebfccdabf836a5c90bf4e6b015ba9bee75622a21107b72dc1103f2d270d4f",
+  "source/CCAT/07_1CO.TXT": "dcb4aef5491d081bbd144c9510bc08199435518e9643cd5b71ed3923ef21397e",
+  "source/CCAT/08_2CO.TXT": "11f582ea1276b29e304e7559fdb0ca4fe59cdac7e26ecde4d59cb2929af985b4",
+  "source/CCAT/09_GAL.TXT": "34707dd8287ff3e61d0aeb760650a3d5ea78b1ed14424eb7d76f3f521673dbea",
+  "source/CCAT/10_EPH.TXT": "b857542bf9f4f82f055d5437cb6798c426faf49613b551d68c91a7b6f37722e8",
+  "source/CCAT/11_PHP.TXT": "dc0ea9a1606b5e13b3ba538f084f391fa08cb747134b77ab341e8d62854adf85",
+  "source/CCAT/12_COL.TXT": "c5ea129d881552419158da55c4ec93bd886d342e7519b66cb3b1d1264d8fa705",
+  "source/CCAT/13_1TH.TXT": "a5830791383ea487b61b73ad69958710263eeb529c894f6a9830c214b18d9bcd",
+  "source/CCAT/14_2TH.TXT": "b2f3992c7c7b08906f30bbc66d46a8524e38af6f7eee8d9f0ece28859096c37a",
+  "source/CCAT/15_1TI.TXT": "968e5d911690bf886481a49b4eb2eda179d57b345a4973e15c15eeb86bbd59b8",
+  "source/CCAT/16_2TI.TXT": "9498767677583a3dfecd7f75efdc92a92d1ff3ce0b9402382a81d0602b12b760",
+  "source/CCAT/17_TIT.TXT": "4187450b8be10c9b4837f9eaba2df4a4975c538efa4d66695ad89626aaef0ee2",
+  "source/CCAT/18_PHM.TXT": "076036f41e80c0a0715261739ed2fec6d57d09c2bf1d59bba3bcdfcbfabc2b93",
+  "source/CCAT/19_HEB.TXT": "c97958477a4bff92100f8f7c912f3dc549b92178416e80e78905b097ab8e52b9",
+  "source/CCAT/20_JAM.TXT": "b21f43f799b43cb57560a9a9014a5c1068e2b8d339ea1c45cffb737e7c9eb15b",
+  "source/CCAT/21_1PE.TXT": "52a40b5baab0434a3c80e420d8bde4e7b42ed636580d9369d6f798d12ad317a6",
+  "source/CCAT/22_2PE.TXT": "22ef3ab55cf5fbc2c230e3b430c2722d8313e326a1feb1baf18ae8624553fd4c",
+  "source/CCAT/23_1JO.TXT": "9890202e717b4ea55e773caeaba22f6d1e80b707fe7d576b206ae15e60a2553e",
+  "source/CCAT/24_2JO.TXT": "2d99ef22c5ff7f65dbb394e2cfe5e8dcc9ca3b1ca554166f3ad7db9084ac3845",
+  "source/CCAT/25_3JO.TXT": "0c6e43ae3bb014f338e81f30aa51d480384cd64392ab937a651635c631279d5b",
+  "source/CCAT/26_JUD.TXT": "29cae327bcc4906125dce94145f8fbd6d04ce0b00e39bf1b61441108eea9b70b",
+  "source/CCAT/27_REV.TXT": "c818f7b9861d203fa95ee790cb07ff601f004363afa42e0407fad263a6920e09",
+  "source/Strongs/01_MAT.BP5": "091d4e72c88a74600470f93d3ca7b1e034b9eaa3c0bd63d328aec487318f22a8",
+  "source/Strongs/02_MAR.BP5": "3c358f98c983dc1e62ced755b3079a24e8f4b19fada8adac0e618556b826f549",
+  "source/Strongs/03_LUK.BP5": "b2af171fe5eae2441ef753c64adc05088b408f186179964dd4c61ce75bf4ab89",
   "source/Strongs/04_JOH.BP5": "876b94397e61d1ae1d9531d31e9f9ec83462a699aae1a44a7b9b1f19ffa8e687",
+  "source/Strongs/05_ACT.BP5": "cf020ccd43844adcd7b1b0d768f1d7d6e9529b83305be16e51cfec93e5d464e6",
+  "source/Strongs/06_ROM.BP5": "89a013fc568068b61f435f5d0a2cfab63c58877f879758e5800f930541cc8e3e",
+  "source/Strongs/07_1CO.BP5": "f271d461765676d18daca4446f10722f12daaa08c23a9cbabb25a666ff3bff91",
+  "source/Strongs/08_2CO.BP5": "03761f1c64c35cf7fff9a0a4c89dcb5830ec5c02192635ec6ed78b3989da813d",
+  "source/Strongs/09_GAL.BP5": "4b78d4bda06978356cd50e3b58316dd4f92ecf433ec473c95f55d8cc40a41e6a",
+  "source/Strongs/10_EPH.BP5": "3c9b6022f45c95cec70c10390553a246b3d3944cef1b17d52b1ec2ff73db5a06",
+  "source/Strongs/11_PHP.BP5": "fde6fe5be3a2d198413612febcbaab9146c692e750d28318388d84fed0398604",
+  "source/Strongs/12_COL.BP5": "ae02b79fd0b6dabd92e74386de29191b8a8420da8543a09214fee2be45c23ecc",
+  "source/Strongs/13_1TH.BP5": "58b4c2be7a69e6a73b8b4a227a1d751244cb6cdce1f76c73ec200f77a98ef586",
+  "source/Strongs/14_2TH.BP5": "095bbf63ba8dd7a62902366f8c279e35bed9738d9bfd807c7d18238c8f3d9094",
+  "source/Strongs/15_1TI.BP5": "e2ba179f559cf27a92daa22d6ce86b8c79a4b71344b0f15de12f2ed1244b90d4",
+  "source/Strongs/16_2TI.BP5": "3dfa30cda3670bc6a6526be799700e263f1bcdcbb8625abd057188343458b850",
+  "source/Strongs/17_TIT.BP5": "9a3255d092bdbb13114e3142bad347aef9ba6b0afdaa67e337f3bbe7db33be9c",
+  "source/Strongs/18_PHM.BP5": "5d1a0c529cc7a99bf7bf2efc2440d52034dddee229cdbebfa583cddac6ab1c42",
+  "source/Strongs/19_HEB.BP5": "56609daf316cca6998ecb76897b9b09bef401630f33f4d59ba833b6bf503c6e4",
+  "source/Strongs/20_JAM.BP5": "568a130fe98198d6c1c1e3496682f7c9f57671b3904e0d5909d1c265750457ee",
+  "source/Strongs/21_1PE.BP5": "05182cfbded9012572989fd5ec6b1f6ef59eeea0b35ed347dffd274598795cc9",
+  "source/Strongs/22_2PE.BP5": "b126013d860b081f2a29498734830cdfeb06a1679dfe8b57ef1a6be80081f687",
+  "source/Strongs/23_1JO.BP5": "54ea82483017a6ec27399e723c21c0319c47d9511f68efccc9b96987def9a7ef",
+  "source/Strongs/24_2JO.BP5": "0b0efe145e90b685136bfd1c6d4def8ebcfbc0774df398c4bac7e49eebd858a5",
+  "source/Strongs/25_3JO.BP5": "a7f783a0587bcdf45ab8acd798512231d4ed7d8f5c24d82816baed35ccd472ee",
+  "source/Strongs/26_JUD.BP5": "35e2b9917b8cd47c5fb5c35630847d9421c0b3391f0fa3d4bd1d4bb3cc335562",
+  "source/Strongs/27_REV.BP5": "afd126f54df13b36c7c7f82ce88cc284084352c479014896c68612f26f942ce3",
   "greek/StrongsGreekDictionaryXML_1.4/strongsgreek.xml": "df928f01b37632f8af9f16289ce58d10b958014cb5dbd1e1ea715a8d311a0625",
   "gloss-overrides.jsonl": "f97a241d7aeaaf663fbab97386a31bd274043aaa41bccc7a8f6b12ef1160954d",
   "prose-order.jsonl": "bf79c107c46991cc8ecbb140f69b45761c70a7e23b7bfa95fb6e2ec8fd005379"
  },
  "files_sha256": {
-  "alignments.jsonl": "35cc55a95a06047c92eb164c697e1364e55172fc0517383be4af90ab40d3bd07",
-  "passages.jsonl": "0ccb43a41ff0970198e8ff946eba45f405c6a76ddf2381698356044a3eadc718",
-  "tokens.jsonl": "0b1a1fc5a9b1b8d4fedbaeb5c57dacddf609fe5f466e607d668cf1acf1325431",
-  "witnesses.jsonl": "d2946e6fa3f1948099e93576f497b8c903ee487012de3a2ac4dd85ec96591cba"
+  "1Cor/alignments.jsonl": "ca08cefe6f646dc38a2d22e6853385336522b9a1bdfb6aacbb41b8a845918211",
+  "1Cor/passages.jsonl": "85d58599aea8068c061a2dc833a6c0eee3a67af42b505b2015e39d48e672ae49",
+  "1Cor/tokens.jsonl": "0311431dd82dbfbc2199074881771a34c86925baaf6188b44b9e13fca0638137",
+  "1Cor/witnesses.jsonl": "8b1660906e2381aeb549e41abace7dadbaa73450e5454cbca0b2d1009b5a3685",
+  "1John/alignments.jsonl": "63628d530135ded6c5d65899659c427fb8398a9fbc58aacc223cd26cd7861fbd",
+  "1John/passages.jsonl": "5d17e681ca27ce7b03b993cb1b6b53ed313b8d901b64eb78fdca90012948e206",
+  "1John/tokens.jsonl": "1d06500832294538dcd6db08b0ab23ca96fd6f4d8037ac8163a15b14c7cfc0ff",
+  "1John/witnesses.jsonl": "1cdd72dd1ae03167e86bfdf04a7e971cf746194be9c8bcc6a87dda3dcc070815",
+  "1Pet/alignments.jsonl": "7118445bdad8117938d374cc3153b257d16af7c50c605c9bf5b1d87e51c23375",
+  "1Pet/passages.jsonl": "8f5fb2ac0893a80f43131540d76d82533f50487dbf634f35aa5b44f46b30e941",
+  "1Pet/tokens.jsonl": "6e0dd52816d48bb7285f8f272e2ae923ddefed0ee942a4d299260cb487fe7f13",
+  "1Pet/witnesses.jsonl": "932f95f088cf84e386af340f86d2e434a8fbafe65bbb2c5ad511e0bdff10ad8f",
+  "1Thess/alignments.jsonl": "18348646141169e1171f29a8ab53d8fa3061c1528f51f49ea4ca6dfff438c9fa",
+  "1Thess/passages.jsonl": "634a47712e4d2006a30c63812560aa2a1da682493500d3615989006cddb6d020",
+  "1Thess/tokens.jsonl": "d3d79cdbd04d8ff4dc735c2c92bdb50bfa0395887a0b4337f01be1648da62181",
+  "1Thess/witnesses.jsonl": "2eea601258db83d315f1487f8433edf22c496bfb5b63f0f47324745c995da307",
+  "1Tim/alignments.jsonl": "81da549e1b5319b47d0288412ff4d24c0a63b64c0f85e848033b28be7ac20e8b",
+  "1Tim/passages.jsonl": "ed7b2510819c36bf090256495526ad6620a2eae9285224b90cba220e26b8c54a",
+  "1Tim/tokens.jsonl": "20d5d31d83040ef263d24d62b5e6d5abbd94e0c6dcce4ab5aa1283e07a8520c9",
+  "1Tim/witnesses.jsonl": "2c1e6c7a9c2e83593b2c76ff8d5d5a0b9595d6459cbbe4c8af25588d5b11c7dc",
+  "2Cor/alignments.jsonl": "5062e025d177e573794efd68d1ff591326232b8a63c929ea1607a273bdc3753d",
+  "2Cor/passages.jsonl": "ae8a66619422ea1902ebd84d9e110045e3b85d99c538da6b76d6d503e1e3d2ed",
+  "2Cor/tokens.jsonl": "2341bf00b03f9d1df7a3b67ca4d6c13841093fdaa1e25a754f4beab345d4ede2",
+  "2Cor/witnesses.jsonl": "ea29d55beb88a6a796eccf5ec683abbf97b73563d770be0dc174c0dbbfbf8b3d",
+  "2John/alignments.jsonl": "e5bae3ece27f80d3ef2fdfda99ee7b6fd516bec81905d9cf9cdca42a7ea04b93",
+  "2John/passages.jsonl": "ca44767a9d03f9822c3aa0e0bf144fa0d2f7a3e693fcf441858c3dd588bb42cf",
+  "2John/tokens.jsonl": "35713649c8ab4037c8917971f1d8b8ff14c789663d7c9e73fc8fb24078da0dfc",
+  "2John/witnesses.jsonl": "6a181b49b62e219219f898a1786354120c77abf7630122b60f611a50a1254b93",
+  "2Pet/alignments.jsonl": "9b72af1855887ab13c81903bba8b5601b1fe5a58d99defe44d80147639a6694e",
+  "2Pet/passages.jsonl": "f12ae3e67d310332144a7fa8b391c89e6fb7562ff3f4f5c6432c06b3a34601e6",
+  "2Pet/tokens.jsonl": "ddfb64dec2da532b54054e0371547f9a45f6f6c8b7be89a2478ada1ece88ecf5",
+  "2Pet/witnesses.jsonl": "f1c9f20292e0f6215215aae6ad1254a1a5ce7e405e3b72588ddcd188ef55b35f",
+  "2Thess/alignments.jsonl": "5b6d1a44ff7e442f4ade3a7adf55705eab103e5071893441aa8e378848d139fe",
+  "2Thess/passages.jsonl": "b4c071373f72e3586cfdde72b8f037f3c0ae720f08a0207ab34299f10621414a",
+  "2Thess/tokens.jsonl": "44f18ed16b3b7b490d1eb2f1c4cd8ab0a243986a206c81887930396df71b84f7",
+  "2Thess/witnesses.jsonl": "dbc552e6488e4498d809cb0a33bf3ec33345cce4617d57730a7e58b3263c906e",
+  "2Tim/alignments.jsonl": "f32df46236b6f2b79d34c1e3858c7a8de5a69ca39bffde3495b265cb756eba49",
+  "2Tim/passages.jsonl": "036ff2250c5e2c16d8c79d2b10e95419b6f1c07dd8f9f1984f5b5b5905ef5a18",
+  "2Tim/tokens.jsonl": "5a176c2cc99c54e9e85d190b97ac2ffc25a1445aef315d392a0d94e438490605",
+  "2Tim/witnesses.jsonl": "70df38c93bcda53da2742cf2684ccb6d3d7dacdc1b7b083267d332ba4b8ee419",
+  "3John/alignments.jsonl": "0bc89606f6fbf6a0132143bf49bacf3f8db83de192764f15ab44cf992f76a8da",
+  "3John/passages.jsonl": "3c1ffbf33fc5f6b8a0a459fec614084c75be88c92775c641672c39355d7e520c",
+  "3John/tokens.jsonl": "b1673df4acef9698bafc3ed0fa0f0a4c3baa8aaa4cdd2b2145c94290a03b71f9",
+  "3John/witnesses.jsonl": "accc7197e1e9fe23b7d73bbb9496a81705bfd6ffa97b8693e2d080220875824c",
+  "Acts/alignments.jsonl": "984b348e73b44550fab39d69a0985ba24dcfd8afd1d4c9f1b99985a52e22b5ba",
+  "Acts/passages.jsonl": "a735d18fd892eb1d1976cfea1b0674a41b3da00ca61d897053275e3e88698bdd",
+  "Acts/tokens.jsonl": "a7a6bbc0631a2f87863dd7ce4e1f2922dbf0acb09b69caa9003aa5ada10a86b4",
+  "Acts/witnesses.jsonl": "0913f7392d13a1a9f7eaa408ed9b09a3859e06f462b3cc8b517953a8a0439824",
+  "Col/alignments.jsonl": "1520a3127b8d4c637311350037b591784a587882a395d96ffd09a32f9095d11f",
+  "Col/passages.jsonl": "647348e672f32681adfb2f05526c9a6a5944924b8bc33d9b716ece638d0f9fb6",
+  "Col/tokens.jsonl": "8100e00e2de596cbe8c342164055c21d6a1dd18755f7651e0b4efd36fcc0e7a0",
+  "Col/witnesses.jsonl": "88b28a45e6f170e84f98f4563c5461a56eb681459d97d7b84224864fd7984232",
+  "Eph/alignments.jsonl": "c158673f38ba7fa79baa403d800e536ffe59677a77670920dc0d6a9ecf5eb527",
+  "Eph/passages.jsonl": "25c27fbd055b1a8b8d8a090af3813907405ff05fd986dd226f9f8fc8b16f6c70",
+  "Eph/tokens.jsonl": "6e097113c8601163366401a33f619b01f06dc58f703ec7a5b3a59c065a3b2164",
+  "Eph/witnesses.jsonl": "19d6246dc9f6be2d192f70c8641c7a6d2ee335ad478ecd90d7ead18f79830856",
+  "Gal/alignments.jsonl": "b6922bcdba87c0a531c1c23294aa9e23d35c0967a5075ab18e049c9a6b7c9bf3",
+  "Gal/passages.jsonl": "c1ee41f69031efa279ce2875abffcb10a33d1dc5b0da36ca427b12e224a1ea53",
+  "Gal/tokens.jsonl": "b2d8f0e21f07e53362775534cbaef43adcf994a97ebed151f758e21d8495331d",
+  "Gal/witnesses.jsonl": "90c00f26c49fae27e96773da5f25a495b703c59bc58a197481cc3b27f803ea6e",
+  "Heb/alignments.jsonl": "901f82f57054a576b288a825a549999bd5c6bd55a5ba40e0afc2a73af61f2c9f",
+  "Heb/passages.jsonl": "c4cae453c2cecd34cea637915a3c3e82dfd5a4d3415126a624b25608d0ec32ff",
+  "Heb/tokens.jsonl": "bc05d57271b6b0261b09d703358107cc0a432472cb8c808e070150c6aba1cff9",
+  "Heb/witnesses.jsonl": "17e3ce3ec222c828894fc5df21a81e613cd664dc63b5e7caef805ca15daeed38",
+  "Jas/alignments.jsonl": "a46473d5ec6e09bba7c801de15fda743374d0eacb0caade90aab2e6ce1534714",
+  "Jas/passages.jsonl": "1945b3bff0c4725d329778406f4bb2b1978570b625fb23d3b229ea215b7cdeea",
+  "Jas/tokens.jsonl": "3a384af17f579b2ce693b0d2c3e10d7800669bd4cde1a10a4970efb5e2b250b2",
+  "Jas/witnesses.jsonl": "135e313332890e8acf12023e0af54314b3aa7d0787df3d501b7ddf1a9469995a",
+  "John/alignments.jsonl": "086e4f6abcdd43dadba052fced15d08607522648bebf60ab96884c52c636da1a",
+  "John/passages.jsonl": "4dc4f62e42e691a52e0c418595c0c57ce12c2217694a509a256fa71c7d6532dc",
+  "John/tokens.jsonl": "a885d8c10a26ee2175bb177022fb047e528464b065c5ae2e45518a3c28837df9",
+  "John/witnesses.jsonl": "21bb6dd1e994249e190a626367c928e5a1c482be24b71f7be1bd2075018e6e5f",
+  "Jude/alignments.jsonl": "fa8ab9639a400f3c4f50fc96610daaf9532b1580171b47c31e565fd1e10db10d",
+  "Jude/passages.jsonl": "9b30baf85e6fac057106c492ef9ffed92c244e242b2ec4bf877c677b8cc2f61f",
+  "Jude/tokens.jsonl": "7fe3337094714234f8a9c65b98b3a5adecea01e6209cd7ae4991cca0e92bb5b5",
+  "Jude/witnesses.jsonl": "37366ab8b259ac16454673a295a51f010902345bda431a051020e3c5c94808fb",
+  "Luke/alignments.jsonl": "11d6517119cc1ab5460a026c448e346a24a406b17c960d5d06bcfcabc4e50655",
+  "Luke/passages.jsonl": "d8f59df731747fba572fabda07e28ffaca2d313f4f1e329685ed5318af5ec59d",
+  "Luke/tokens.jsonl": "b90969c2f67a4d406eaa856847bc745831361b647f643650b8cbed1e1d5b6096",
+  "Luke/witnesses.jsonl": "1f5dff7eba130afb50df156d3bb5c0b2c527b78568f849254de6ed90a354483b",
+  "Mark/alignments.jsonl": "d413f6a5fe1a31f601214faaf2f0ba0bd4142b888a53207c94dadf46b110f548",
+  "Mark/passages.jsonl": "fdc014c6e43557c1f7e14d3d51c4e3d40c42293d81b3fe8231b076393d6081d5",
+  "Mark/tokens.jsonl": "e664fbaf8838b02d789c41a42cc87b657f839a280c95669fccad53e9e4c03640",
+  "Mark/witnesses.jsonl": "6c669ed8297d0a9619bbeee4bd2c3eb90c2e395366d43a960e45218bcaca15b7",
+  "Matt/alignments.jsonl": "106781bb6ba9af653907fbe3422da3c394493735dbc0664585f3764a306d4869",
+  "Matt/passages.jsonl": "ff18e34d07325305e6ea86dda453e72983377f0e8b98194270220fc0c172ad93",
+  "Matt/tokens.jsonl": "8babe20dc1c111d47a6c921cf97cbcf0c9f6252694387f702918a557c2c72e58",
+  "Matt/witnesses.jsonl": "db2a3a8a6e01c1b9486124cbbe0fa23a6172d2e89dac354ec4d73f232b5f3ada",
+  "Phil/alignments.jsonl": "05c91e29bb9c0b60bbc3b704ec77412115e3adc745dc33de3b1e557f3e2313a1",
+  "Phil/passages.jsonl": "7b930f58eca1d1d1bac8b1875ab603dacf86e50bda9e1cbfaface75e2d266ad6",
+  "Phil/tokens.jsonl": "da12c024bb4fb4e6d1a7895e3d3822c555343c899bfa3f406d706f5414984b79",
+  "Phil/witnesses.jsonl": "6b740df4a2a6e8618579e05aa005c1c5c970761ad7e65c85c4e26abb584eab66",
+  "Phlm/alignments.jsonl": "0cd6fcb2195d65710a4d8f3ded20c7902c3c6eb7a63ee310b14a0a1272b25e67",
+  "Phlm/passages.jsonl": "1761c21dcfa239e7fb3559e837128df2e3ec8d83000727df5bb986a8370fa7b3",
+  "Phlm/tokens.jsonl": "4d1593f8639e9c5da65497b217768592c30e346b537ba9159ce931ec102d1b7e",
+  "Phlm/witnesses.jsonl": "4f123499637bc4d951642d668db8c2c7055d64a3c5dfef29e914e0c4b63ea745",
+  "Rev/alignments.jsonl": "8ffbeafa8bab745728aaf28fb26055a7add756d7337d9bf0fa5499712470f553",
+  "Rev/passages.jsonl": "caf5735e8e9a25907b965a94a512c5c2b7a73b42313132805da08d4e685930e8",
+  "Rev/tokens.jsonl": "a3fb5116ebba268cdb0ddf6f8e2e20dd51da4bb26f5d77b20e9a0501f76a11b1",
+  "Rev/witnesses.jsonl": "f81897cd8768e111f4bbbf6ba8e7be496ef70ca314d0fc0b7ccf852e9c21b8dc",
+  "Rom/alignments.jsonl": "af049fd13db2d22d16c7699d6d2d1aac967bfa2540e233ced8e6a8396519a2aa",
+  "Rom/passages.jsonl": "3ef289ecaacb042739b0849f58a41cd09f9a0716cc7ea05359b80235e154c729",
+  "Rom/tokens.jsonl": "7a9aa14d98e8a96eb03af5abbb31d83bc2def83ded4337c69448a3a561dce0b4",
+  "Rom/witnesses.jsonl": "ba983d0ee6c4d0b4d8c39232cc47a029df4744616de50e117cc872e3069cf8b6",
+  "Titus/alignments.jsonl": "660b64e636d8c773fefbefe25a377e8f6462cd0c59ae5ea98be40220a0d38490",
+  "Titus/passages.jsonl": "f87aaca9532bce03c9591707c7e2a80f9c04069897d5f4608c53afd8ac89e0f0",
+  "Titus/tokens.jsonl": "18fb0bf41708bbad3b10775ec0c288c031d223e410826cb0d141b469a242050c",
+  "Titus/witnesses.jsonl": "42cc70bc387176eea38104d65671d9fee535c5b8f3f97ea3251d5e8217742538"
  }
 }

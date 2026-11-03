@@ -92,6 +92,8 @@ COLUMN_JOB = {
 # ---------------------------------------------------------------------------
 
 def load_dataset(name, root=ROOT):
+    if name == "nt":     # sharded by book since 2026-10-02: the pilot pericope, through its loader
+        return N.load_nt(root, pericope=N.PILOT["pericope"])
     d = os.path.join(root, "data", name)
     out = {}
     for f in FILES:
@@ -722,8 +724,10 @@ def build_page(root=ROOT):
         + '</div>'
         for k, label in (("hymns", "The hymns (data/hymns/manifest.json)"),
                          ("nt", "John 1:1–18 (data/nt/manifest.json)")))
+    read = {"hymns": lambda fn: True,     # the NT: only the shard the page reads
+            "nt": lambda fn: "/" not in fn or fn.startswith(N.PILOT["osis_book"] + "/")}
     sums = "".join(f'<br><code>data/{k}/{fn}</code> {h}' for k in ("hymns", "nt")
-                   for fn, h in sorted(data[k]["manifest"]["files_sha256"].items()))
+                   for fn, h in sorted(data[k]["manifest"]["files_sha256"].items()) if read[k](fn))
     if kjv_sha:
         sums += f'<br><code>{"/".join(KJV_BUILD)}</code> {kjv_sha}'
     s = stats
