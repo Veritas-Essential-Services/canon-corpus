@@ -246,8 +246,8 @@
  },
  "uids": {
   "kind": "lexeme",
-  "proposed": 14197,
-  "registered": 0,
+  "proposed": 0,
+  "registered": 14197,
   "status": "PROPOSED -- not in data/uids/; minting awaits Adam (CLAUDE.md 3b)"
  },
  "view": {
