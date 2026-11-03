@@ -1,0 +1,44 @@
+{
+ "_about": "John Ford. Bloom's Western Canon (1994) lists: 'Tis Pity She's a Whore. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Ford",
+ "_name_words": [
+  "ford"
+ ],
+ "_surname": [
+  "john ford",
+  "ford"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ford": [
+   "johnfordeditedwi00forduoft",
+   "John Ford, ed. Havelock Ellis (Mermaid Series)"
+  ]
+ },
+ "_bloom": {
+  "ford": {
+   "bloom_n": [
+    186
+   ],
+   "bloom_title": "'Tis Pity She's a Whore",
+   "year": "unread (IA metadata 1888)",
+   "evidence": "Read series title page; grep of djvu shows the 'TIS PITY SHE'S A WHORE running heads.",
+   "case": "The Mermaid Ford includes 'Tis Pity, The Broken Heart and others.",
+   "note": "IA also has 'Tis pity she's a whore, and The broken heart (Sherman, 1915)."
+  }
+ },
+ "_checks": {
+  "ford": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "john ford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "[1888]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
