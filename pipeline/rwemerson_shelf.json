@@ -1,5 +1,5 @@
 {
- "_about": "R. W. Emerson's (1803-1882) Essays, First and Second Series (Self-Reliance is in the First). Not the `emerson` shelf (P. H. Emerson, Welsh fairy tales). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "R. W. Emerson's (1803-1882) Essays, First and Second Series (Self-Reliance is in the First). Not the `emerson` shelf (P. H. Emerson, Welsh fairy tales). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): emerson-nature, emerson-representative-men, emerson-conduct-life, emerson-journals, emerson-poems.",
  "_author": "Ralph Waldo Emerson",
  "_name_words": [
   "ralph",
@@ -19,14 +19,35 @@
   "rwemerson-essays-second": [
    2945,
    "Essays, Second Series (1844)"
+  ],
+  "emerson-nature": [
+   29433,
+   "Nature"
+  ],
+  "emerson-representative-men": [
+   6312,
+   "Representative Men: Seven Lectures"
+  ],
+  "emerson-conduct-life": [
+   39827,
+   "The Conduct of Life"
+  ],
+  "emerson-poems": [
+   12843,
+   "Poems, Household Edition"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "emerson-journals": [
+   "journalsofralphw01emeruoft",
+   "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. I, 1820-1824"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "rwemerson-essays-first": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ralph waldo emerson",
    "identity": "ok",
@@ -35,12 +56,111 @@
   },
   "rwemerson-essays-second": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ralph waldo emerson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "emerson-nature": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emerson-representative-men": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emerson-conduct-life": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emerson-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emerson-journals": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralph waldo emerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "emerson-nature": {
+   "bloom_n": [
+    614
+   ],
+   "bloom_title": "Nature",
+   "year": "1849 (copyright entry on PG title page: 'Entered ... in the year 1849'; 'New Edition', Boston & Cambridge)",
+   "evidence": "PG title page read",
+   "case": "Nature is on PG; the rwemerson shelf holds only the two Essays series.",
+   "note": "1849 'new edition' (Nature, Addresses, and Lectures) includes Nature itself."
+  },
+  "emerson-representative-men": {
+   "bloom_n": [
+    616
+   ],
+   "bloom_title": "Representative Men",
+   "year": "unread",
+   "evidence": "PG header read; no imprint in front matter",
+   "case": "Representative Men is on PG; not held.",
+   "note": ""
+  },
+  "emerson-conduct-life": {
+   "bloom_n": [
+    617
+   ],
+   "bloom_title": "The Conduct of Life",
+   "year": "1871 (PG title page: Boston 1871; 'Entered ... in the year 1860')",
+   "evidence": "PG title page read",
+   "case": "The Conduct of Life is on PG; not held.",
+   "note": "The machine's held hit (Wisdom of the East, Confucius) is a false match."
+  },
+  "emerson-journals": {
+   "bloom_n": [
+    618
+   ],
+   "bloom_title": "Journals",
+   "year": "1909 (title page: Boston and New York, Houghton Mifflin, 1909; 'Copyright, 1909')",
+   "evidence": "djvu title page read; collection toronto",
+   "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+   "note": "Ten volumes. Only vol. I's title page was read; the other nine need picking from IA (e.g. the cu31924021990* Cornell series, 1909-14 per IA metadata)."
+  },
+  "emerson-poems": {
+   "bloom_n": [
+    619
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "PG front matter lists copyright years 1867, 1876, 1883, 1895, 1904 and 1911, so this is the 1904/1911 Centenary-text Household Edition",
+   "case": "Emerson's poems collected (Centenary text, with appendix); not held.",
+   "note": "Also PG 15963 May-Day, and Other Pieces (1867)."
   }
  }
 }
