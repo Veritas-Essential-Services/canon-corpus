@@ -2575,10 +2575,36 @@ BODY_RULES = {
     },
 }
 
+# The Year 0 shelf (2026-11-02): one rule for all twenty picture books and read-alouds, by rule not by
+# hand (rule 2). An old 1990s etext carries its licence ABOVE the work, ending at "*END*THE SMALL
+# PRINT!", which strip_boilerplate does not know; start there when it is present (a modern file has
+# none, and the rule then keeps everything). Stop at Gutenberg's closing line, in either spelling.
+# Scrub the picture placeholders ("[Illustration]", "[Illustration: caption]": the pictures are not in a
+# text file, and a caption is the illustrator's, not the author's) and the producers' credit lines.
+YEAR0_BODY_RULE = {
+    "start_at": r"^\*END\*?\s*THE SMALL PRINT",
+    "stop_at": r"^(\*\*\*\s*)?END OF (THE |THIS )?PROJECT GUTENBERG|^End of (the )?Project Gutenberg",
+    "scrub": [r"(?m)^\*END\*?\s*THE SMALL PRINT[^\n]*$",
+              r"\[Illustration[^\]]*\]",
+              r"(?m)^(E-?text prepared|Produced|Etext scanned) by[^\n]*(\n[^\n]*\S[^\n]*)*",
+              r"(?m)^Note: Project Gutenberg also has an HTML[^\n]*(\n[^\n]*\S[^\n]*)*"],
+}
+
+def _year0_fs():
+    try:
+        import fetch_sources
+    except ImportError:     # imported from tests/, not run from pipeline/
+        import sys
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import fetch_sources
+    return fetch_sources
+
 def apply_body_rules(raw, slug):
     """Keep only the lines that are the work. Returns (text, note); the note
     goes into scheme.apparatus so the file states what was removed (rule 4)."""
     r = BODY_RULES.get(slug)
+    if not r and slug in getattr(_year0_fs(), "YEAR0_GUTENBERG", {}):
+        r = YEAR0_BODY_RULE
     if not r:
         return raw, None
     lines = raw.splitlines()
@@ -4125,11 +4151,15 @@ def main():
     # Author shelves declared in fetch_sources.py (Chesterton, 2026-09-29):
     # headings come from each book's own Contents, not a hand-written regex.
     import fetch_sources as _fs
-    for slug, (_gid, title, author) in getattr(_fs, "CHESTERTON_GUTENBERG", {}).items():
+    # The Year 0 shelf (2026-11-02) goes the same way.
+    for slug, (_gid, title, author) in {**getattr(_fs, "CHESTERTON_GUTENBERG", {}),
+                                        **getattr(_fs, "YEAR0_GUTENBERG", {})}.items():
         path = os.path.join(CORPUS, slug + ".txt")
         if os.path.exists(path):
-            jobs.append((slug, lambda p=path, s=slug, t=title, a=author:
-                         convert_gutenberg_prose(p, s, t, a, contents_chapre(p))))
+            # A Year 0 book with no Contents still numbers its chapters "I. Granny Fox Gives Reddy a Scare".
+            extra = r"|^[IVXLC]+\.\s+[A-Z][^.]{3,70}$" if slug in getattr(_fs, "YEAR0_GUTENBERG", {}) else ""
+            jobs.append((slug, lambda p=path, s=slug, t=title, a=author, x=extra:
+                         convert_gutenberg_prose(p, s, t, a, contents_chapre(p) + x)))
     vdir = os.path.join(CORPUS, "vulgate")
     if os.path.isdir(vdir) and all(os.path.exists(os.path.join(vdir, b + ".lat"))
                                    for b in _fs.VULGATE["books"]):
