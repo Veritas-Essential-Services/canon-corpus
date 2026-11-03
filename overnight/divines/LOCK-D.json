@@ -1,6 +1,6 @@
 {
- "status": "paused",
- "holder": null,
- "heartbeat": "2026-11-03T05:30Z",
- "resume": "PAUSED again 2026-11-03 after a quality pass at the coordinator's relay of Adam's usage burn (no new author batches; his 2026-10-23 stop holds). Done: Little Classics finished (9 volumes switched to Gutenberg's proofread texts, the other 4 unswept volumes collated and hand-read); decision 23 default applied (Curtin 1890 scan as second witness); renewal check of the 50 post-1930 holds (45 clear, 2 renewed, 3 reprint questions; none moved onto shelves); a default recorded for every open call in DIGEST-D. Earlier items: canon-corpus PR #45 and wordhoard PR #192 merged 2026-10-29; the Armarium rebuild on Render is Adam's (set ARMARIUM_REBUILD=1, redeploy, unset). Next if resumed: nothing queued; upkeep only."
+ "status": "running",
+ "holder": "Lane D (usage burn round 2)",
+ "heartbeat": "2026-11-03T14:50Z",
+ "resume": "RUNNING 2026-11-03 (usage burn round 2, coordinator relay: extend the OCR collation across more storyteller volumes, quality only, no new author batches). Done this round: My Book House vol. 1 (latchkeyofmybook01mill, twin mybookhouseinnur0000oliv): 474 garbled tokens to 3 (all real names). Fix lists started, reads still empty: bravedeeds01unkngoog (YFL vol. 10), childrenshourinf09tapp (Children's Hour vol. 9), juniorclassics0010will (Junior Classics vol. 10). Next: hand-read those three (scratch helper auto.py proposes quote and noise reads; check by page image), then the next roughest story volumes: MBH 1928 Fairy Halls / Up One Pair / Treasure Chest, YFL vols. 16 and 8, Journeys vol. 1, Children's Hour vol. 1. Garble measure must split tokens on em-dashes, or clean modern OCR counts as garbled."
 }
