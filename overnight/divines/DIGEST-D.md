@@ -1226,3 +1226,23 @@ Twins were matched by shared text (87-97%). Most of what is left is correct as p
 | 5, Fairy Stories, Folk Tales, Stories and Plays | `ourwonderworld0005geor`, `ourwonderworldli0005unse`, `bwb_W9-CVU-012` | 1,374 | 7 |
 
 A fourth twin (`ourwonderworldvo0000unse`, 94% shared) was not needed. What is left: the copyright-deposit stamp, a footnote mark (ARTHUR¹, correct), "A.D.)." (correct), and the Latin inscription on the Lion of St Mark picture (a picture, left). Readings include the Middle English of Layamon (ð, ē, as printed) and a German nursery verse set in Fraktur. All ten volumes of Our Wonder World are now collated; vol. 7's fractions are still open.
+
+### Round 12: numbers the auto pass had deleted, put back (2026-11-03)
+
+A bug in the scratch helper that proposes mechanical reads: it treated any garbled token with no letters as picture noise and deleted it. Most such tokens are noise, but numbers are letterless too, and some real ones were deleted, among them:
+- times in a camp schedule ("6.00. Reveille.", vol. 6 of Our Wonder World)
+- distances in a table ("1.31 miles", vol. 10)
+- page references in an index ("New York (364-7)", vol. 1)
+- dates ("in 1696-7.", Heart of Oak 2) and prices
+
+All 40 affected fix lists were checked against the page text the reads were made from. A deleted number is now kept unless it sits on a junk line (2 or more tokens, at least 60% of them deleted). A folio or contents number read with a degree sign for a zero ("3°3", "4°6") is read as the number.
+
+| | Count |
+|---|---|
+| Deletions undone | 492 |
+| Folios read | 85 |
+| Junk-line deletions kept | 462 |
+
+The helper is fixed, so later passes will not do this again.
+
+The "after" counts in rounds 1-11 rise a little as a result: some of the restored numbers carry OCR slips (for example "164%"), which the garble survey counts. They are flagged, not deleted.
