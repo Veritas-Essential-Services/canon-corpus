@@ -1,0 +1,49 @@
+{
+ "_about": "Fulke Greville, Lord Brooke. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Fulke Greville, Lord Brooke",
+ "_name_words": [
+  "fulke",
+  "greville",
+  "brooke"
+ ],
+ "_surname": [
+  "brooke",
+  "fulke",
+  "greville",
+  "grevill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brooke-works-verse-prose-complete": [
+   "worksinversepros03grev",
+   "The Works in Verse and Prose Complete of Fulke Greville, Lord Brooke, ed. Grosart, vol. III (Caelica; Alaham; Mustapha)"
+  ]
+ },
+ "_bloom": {
+  "brooke-works-verse-prose-complete": {
+   "bloom_n": [
+    154
+   ],
+   "bloom_title": "Poems",
+   "year": "1870 (title page: 'Printed for private circulation. 1870. 156 copies only')",
+   "evidence": "Read title page.",
+   "case": "Bloom lists the poems; Grosart's Works (4 vols) is the only complete edition, Crow's Caelica a clean reading text.",
+   "note": "Other Grosart vols (02, 04) on IA as worksforfirsttim02broouoft etc."
+  }
+ },
+ "_checks": {
+  "brooke-works-verse-prose-complete": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "brooke",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
