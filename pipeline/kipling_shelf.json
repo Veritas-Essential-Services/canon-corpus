@@ -1,0 +1,890 @@
+{
+ "_about": "Rudyard Kipling (1865-1936): every book of his this house holds, and the completeness note. Adam asked 2026-11-03: \"Give me a kippling shelf\". Prose (`gutenberg`) is fetched by fetch_sources.py from the GITenberg mirror of Project Gutenberg, pinned to a commit and a sha256, and built by structure_texts.py into data/books/<slug>.json (gitignored), so the Armarium shows each as a book. Verse (`poetry_hoard`) lives in the Poetry Hoard as whole volumes and reaches the Armarium bound as volumes; it is listed here so every Kipling work has one uid from one place. Each row's `citation` (kipling:<work>) and `uid` are minted by build_kipling_shelf.py. RIGHTS: every book here was first published in 1930 or before, so it is public domain in the US; each Gutenberg header was read for 'COPYRIGHTED Project Gutenberg' (none). The 1923 and 1926 books were renewed (Stanford renewals database: R62719, R70384, R69256 ...) and are free by the 95-year term all the same.",
+ "gutenberg": {
+  "kipling-plain-tales": {
+   "id": 1858,
+   "title": "Plain Tales from the Hills",
+   "year": 1888,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Plain-Tales-from-the-Hills_1858",
+   "commit": "5ac0e0302ea3be9f11daec168f57824808feeec6",
+   "file": "1858-0.txt",
+   "sha256": "36cf6dc475a629740e5033bb319db8e0748beb860b947212b1cdb063303f2973",
+   "citation": "kipling:plain-tales",
+   "uid": "wh-2HMX4NBCNY",
+   "edition_check": {
+    "scan": "plaintalesfrom00kipl",
+    "share": 0.912,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-soldiers-three": {
+   "id": 6120,
+   "title": "Soldiers Three, The Story of the Gadsbys, and In Black and White",
+   "year": 1888,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Soldiers-Three_6120",
+   "commit": "b67f7cb8f095d0d62d3d835df56491be71cec426",
+   "file": "6120-0.txt",
+   "sha256": "4858c4d4222b8a4d858178bb8ed5bbc1cc7207cd94c81c1192e156ecf9ec7de4",
+   "note": "PG's file is the later one-volume collection of three 1888 Indian Railway Library books",
+   "citation": "kipling:soldiers-three",
+   "uid": "wh-SDY8QEPNPE",
+   "edition_check": {
+    "scan": "soldiersthreesto00kipliala",
+    "share": 0.9322,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-soldiers-three-2": {
+   "id": 2227,
+   "title": "Soldiers Three, Part II",
+   "year": 1899,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Soldiers-Three---Part-2_2227",
+   "commit": "d2dcecd62b3f71168b8e0cea8166f399596e6fe5",
+   "file": "2227-0.txt",
+   "sha256": "d27249a858085a79f1145ab480c879ff59e8cc5bcb6dc567ac9399551c36ca93",
+   "note": "a later gathering of soldier stories, four of them from Many Inventions (1893)",
+   "citation": "kipling:soldiers-three-2",
+   "uid": "wh-1QP11587CV",
+   "edition_check": {
+    "scan": "writingsinprosev0003rudy",
+    "share": 0.9171,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-gadsbys": {
+   "id": 2821,
+   "title": "The Story of the Gadsbys",
+   "year": 1888,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/The-Story-of-the-Gadsbys_2821",
+   "commit": "a0e64704c72eecb8280f9c285f01e7c1b4b0a51a",
+   "file": "2821-0.txt",
+   "sha256": "c08adf5eeb4e2a08bba984171ed35091a62ff3b0abcb0dc40b6536331a2a9f2d",
+   "citation": "kipling:gadsbys",
+   "uid": "wh-1ZMMBTQT2N",
+   "edition_check": {
+    "scan": "soldiersthreesto00kipliala",
+    "share": 0.8738,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-black-and-white": {
+   "id": 62346,
+   "title": "In Black and White",
+   "year": 1888,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/In-Black-and-White_62346",
+   "commit": "20b852f85114c71fa4c3bcd05a3adb8e71bc89be",
+   "file": "62346-0.txt",
+   "sha256": "1a6844a3eda68c7f946a3c728c7990fb6bb455c793d4271fb835fff97ae4a604",
+   "note": "the 1909 Scribner's Outward Bound volume of that name (The Writings in Prose and Verse), which adds stories from Life's Handicap and elsewhere to the eight of 1888",
+   "citation": "kipling:black-and-white",
+   "uid": "wh-N1HBC597PS",
+   "edition_check": {
+    "scan": "cu31924077144214",
+    "share": 0.319,
+    "share_of_scan_in_text": 0.839,
+    "found": "this file is the 1909 Scribner's In Black and White, which gathers more stories than the 1888 book; 84% of the 1890 scan's text is found in it"
+   }
+  },
+  "kipling-deodars": {
+   "id": 2828,
+   "title": "Under the Deodars",
+   "year": 1888,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Under-the-Deodars_2828",
+   "commit": "8d264da82232f9780221daeecd8f653fe5f25c24",
+   "file": "2828-0.txt",
+   "sha256": "695040349bfc2b185071c05ce210f3239af3ed00ed1631ebbf93f519ff6c2b26",
+   "citation": "kipling:deodars",
+   "uid": "wh-S4FQKQ24WV",
+   "edition_check": {
+    "scan": "underdeodars00kipliala",
+    "share": 0.8938,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-phantom-rickshaw": {
+   "id": 2806,
+   "title": "The Phantom 'Rickshaw and Other Ghost Stories",
+   "year": 1888,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/The-Phantom-Rickshaw-and-Other-Ghost-Stories_2806",
+   "commit": "44c5fe977652d52dac19963eb70e975763093268",
+   "file": "2806-0.txt",
+   "sha256": "4be9d4e982e7a80eab13928e43cd18d5d4f63797f043a0edb62c7982736ca2db",
+   "citation": "kipling:phantom-rickshaw",
+   "uid": "wh-HTYQRZYDZ8",
+   "edition_check": {
+    "scan": "phantomrickshawo00kipl_1",
+    "share": 0.6857,
+    "share_of_scan_in_text": 0.544,
+    "found": "the scans found gather the stories differently; about two-thirds of the text matches"
+   }
+  },
+  "kipling-wee-willie-winkie-2": {
+   "id": 63487,
+   "title": "Wee Willie Winkie and Other Stories, Volume II",
+   "year": 1888,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Wee-Willie-Winkie-and-Other-Stories-Volume-2-of-2_63487",
+   "commit": "c6964fc579585e85cc6973e3ae60b97ee232038c",
+   "file": "63487-0.txt",
+   "sha256": "aafcf03414777dfcc513d0ed040eb7e3f8baf00135fd132c086f1d80ab5eee54",
+   "note": "volume II only; volume I is not in the mirror",
+   "citation": "kipling:wee-willie-winkie-2",
+   "uid": "wh-2GR3WA7JZG",
+   "edition_check": {
+    "scan": "weewilliewinkieu00kipluoft",
+    "share": 0.9521,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-light-that-failed": {
+   "id": 2876,
+   "title": "The Light That Failed",
+   "year": 1891,
+   "form": "novel",
+   "mirror": "https://github.com/GITenberg/The-Light-That-Failed_2876",
+   "commit": "1b5a26ac144023dab6ee68ae7dfca078a2954b97",
+   "file": "2876-0.txt",
+   "sha256": "3f0ef470760376424839c063ebd26510a6b1cff3f92669b5a950829752e76480",
+   "chapters": "^CHAPTER\\s+[IVXLC]+\\.?$",
+   "citation": "kipling:light-that-failed",
+   "uid": "wh-CXZBJF9YA1",
+   "edition_check": {
+    "scan": "lightthatfaile00kipl",
+    "share": 0.9208,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-lifes-handicap": {
+   "id": 5777,
+   "title": "Life's Handicap",
+   "year": 1891,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Life-s-Handicap--Being-Stories-of-Mine-Own-People_5777",
+   "commit": "9b943c36b2902afc5554e8c42308ac4bee0fda63",
+   "file": "5777-0.txt",
+   "sha256": "798c9092550d987966abfd78aa2faa6ac5c594439034ba646fa1968edc09283d",
+   "citation": "kipling:lifes-handicap",
+   "uid": "wh-D5D1GW0H73",
+   "edition_check": {
+    "scan": "lifeshandicapb00kipl",
+    "share": 0.9546,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-jungle-book": {
+   "id": 236,
+   "title": "The Jungle Book",
+   "year": 1894,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/The-Jungle-Book_236",
+   "commit": "4176c01078ec4c3db938df1245bca1cd81db86d0",
+   "file": "236-0.txt",
+   "sha256": "2f9486eb4776d23baf1064eebb73bb0093b808b13e10516e81e20d1dbe4909c9",
+   "citation": "kipling:jungle-book",
+   "uid": "wh-MKGWEFF3K7",
+   "edition_check": {
+    "scan": "junglebookkipl",
+    "share": 0.9071,
+    "found": "the same text as this printing"
+   },
+   "companion": "the children's shelf companion no. 5 (a Claude Doc in the house's project files, childrens-shelf/README.md) quotes this same text: its file and this one share every four-word run (checked 2026-11-03)"
+  },
+  "kipling-second-jungle-book": {
+   "id": 1937,
+   "title": "The Second Jungle Book",
+   "year": 1895,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/The-Second-Jungle-Book_1937",
+   "commit": "45467f27b70b71ca9c9ef9b3e78c592dd40b9c94",
+   "file": "1937-0.txt",
+   "sha256": "b8021147d9ce72b2e0660ab702b786c65ce451a3bd851ead8474953d3c312387",
+   "citation": "kipling:second-jungle-book",
+   "uid": "wh-K82MSEBPA9",
+   "edition_check": {
+    "scan": "secondjunglebook00kipl",
+    "share": 0.9595,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-captains-courageous": {
+   "id": 2186,
+   "title": "Captains Courageous",
+   "year": 1897,
+   "form": "novel",
+   "mirror": "https://github.com/GITenberg/-Captains-Courageous---A-Story-of-the-Grand-Banks_2186",
+   "commit": "3631bb99eabc29d6911a530dae41b1a0dcdab212",
+   "file": "2186.txt",
+   "sha256": "3c28d38d3e520c165dadccb7d89224896b8f1b9b6811a8704c86390e4358a147",
+   "citation": "kipling:captains-courageous",
+   "uid": "wh-Q1F21S6TVJ",
+   "edition_check": {
+    "scan": "captainscourag00kipl",
+    "share": 0.906,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-days-work-1": {
+   "id": 2569,
+   "title": "The Day's Work, Volume I",
+   "year": 1898,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/The-Day-s-Work---Volume-1_2569",
+   "commit": "76af0890edb241bfdd86423792b831a3fdfae97b",
+   "file": "2569-0.txt",
+   "sha256": "9627e474e0ad0573decb3feb4ef68c59c1bcd90fc1ac754e10ba21099e52262b",
+   "note": "volume I only; volume II is not in the mirror",
+   "citation": "kipling:days-work-1",
+   "uid": "wh-S0DQKCHP1G",
+   "edition_check": {
+    "scan": "cihm_29341",
+    "share": 0.8471,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-fleet-in-being": {
+   "id": 45871,
+   "title": "A Fleet in Being",
+   "year": 1898,
+   "form": "sketches",
+   "mirror": "https://github.com/GITenberg/A-Fleet-in-BeingNotes-of-Two-Trips-With-The-Channel-Squadron_45871",
+   "commit": "8b1b5e0b62dcd3c8dbc3768153c8568d063579c0",
+   "file": "45871-0.txt",
+   "sha256": "f61e1be68a8a5c3f4f65da5df4a7026ebb2bcd06e89a7385967d0ce6f7e7cb9f",
+   "citation": "kipling:fleet-in-being",
+   "uid": "wh-E8MWFWXF8N",
+   "edition_check": {
+    "scan": "fleetinbeingnote00kipluoft",
+    "share": 0.9511,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-stalky": {
+   "id": 3006,
+   "title": "Stalky & Co.",
+   "year": 1899,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Stalky--amp--Co._3006",
+   "commit": "53f291a1eb76177df5b9596a56023712466b8e86",
+   "file": "3006-0.txt",
+   "sha256": "d3e1df51fbbd67d9a83e4ab6048d1e647966876470fd6cb723a41054854370c6",
+   "note": "the 1899 book, not the Complete Stalky of 1929",
+   "citation": "kipling:stalky",
+   "uid": "wh-Q37VVW1H3Y",
+   "edition_check": {
+    "scan": "StalkyAndCo",
+    "share": 0.9156,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-from-sea-to-sea": {
+   "id": 32977,
+   "title": "From Sea to Sea",
+   "year": 1899,
+   "form": "travel letters",
+   "mirror": "https://github.com/GITenberg/From-Sea-to-Sea--Letters-of-Travel_32977",
+   "commit": "d0880432375de0d04d82620c517673fd0c1ba3e0",
+   "file": "32977.txt",
+   "sha256": "8a6d9ddb7e542cfe333084758d54113fd2e56407cc2f7b2be765392926fce260",
+   "citation": "kipling:from-sea-to-sea",
+   "uid": "wh-3NGZR6Z63T",
+   "edition_check": {
+    "scan": "fromseatosealet00kiplgoog",
+    "share": 0.8283,
+    "share_of_scan_in_text": 0.819,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-kim": {
+   "id": 2226,
+   "title": "Kim",
+   "year": 1901,
+   "form": "novel",
+   "mirror": "https://github.com/GITenberg/Kim_2226",
+   "commit": "d6cc0b6a23b03f7de8fb79d361b315fdd0512c17",
+   "file": "2226.txt",
+   "sha256": "85a20ed2f9b6dc6161a2c0757f0bf34a9728f7e7e2962e890837089d16c26617",
+   "chapters": "^Chapter\\s+\\d+$",
+   "citation": "kipling:kim",
+   "uid": "wh-3VFB1JWD2D",
+   "edition_check": {
+    "scan": "kim_____00kipl",
+    "share": 0.8879,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-just-so": {
+   "id": 2781,
+   "title": "Just So Stories",
+   "year": 1902,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Just-So-Stories_2781",
+   "commit": "7bac330e58eb319627c16b125f0f9f05957b57b4",
+   "file": "2781-0.txt",
+   "sha256": "18f8327c5d85c370333bb9b0ba989517821560012db858d1e52df54c9130ea6c",
+   "citation": "kipling:just-so",
+   "uid": "wh-CED441GCMD",
+   "edition_check": {
+    "scan": "justsostories00kipl2",
+    "share": 0.9563,
+    "found": "the same text as this printing"
+   },
+   "companion": "the children's shelf companion no. 16 (a Claude Doc in the house's project files, childrens-shelf/README.md) quotes this same text: its file and this one share every four-word run (checked 2026-11-03)"
+  },
+  "kipling-traffics": {
+   "id": 9790,
+   "title": "Traffics and Discoveries",
+   "year": 1904,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Traffics-and-Discoveries_9790",
+   "commit": "045b3f98dd62bb1846df7152f3d219b42bbbde98",
+   "file": "9790.txt",
+   "sha256": "af82e4ec038c00709178f5927a1262be329a315d0e1c07255360476a4e199c2a",
+   "encoding": "latin-1",
+   "citation": "kipling:traffics",
+   "uid": "wh-3XFMJGE4PN",
+   "edition_check": {
+    "scan": "trafficsdiscover00kipluoft",
+    "share": 0.9508,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-puck": {
+   "id": 557,
+   "title": "Puck of Pook's Hill",
+   "year": 1906,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Puck-of-Pook-s-Hill_557",
+   "commit": "104c84cfc6c467dba094600300c99f4a33cbc38c",
+   "file": "557.txt",
+   "sha256": "8786594f4b3f3680967fa5b4bb97fcf60986174011e3b1f66e9abe10566713db",
+   "citation": "kipling:puck",
+   "uid": "wh-QK76MM3Z9N",
+   "edition_check": {
+    "scan": "puckofpookshill00kipl",
+    "share": 0.9326,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-doctors": {
+   "id": 67704,
+   "title": "Doctors (an address)",
+   "year": 1908,
+   "form": "address",
+   "mirror": "https://github.com/GITenberg/Doctors-An-Address-delivered-to-the-Students-of-the-Medical-School-of-the-Middlesex-Hospital-__67704",
+   "commit": "fe14d4c9401d76029791dcbcc7f9aed95499aef7",
+   "file": "67704-0.txt",
+   "sha256": "68e0827b96e5b25e3a800fbca9fcf69fb338cb5e0d09df0d2911df971ca261d0",
+   "citation": "kipling:doctors",
+   "uid": "wh-9HQ6A14WP2",
+   "edition_check": {
+    "scan": "doctorsanaddress00kipluoft",
+    "share": 0.9493,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-actions-reactions": {
+   "id": 2381,
+   "title": "Actions and Reactions",
+   "year": 1909,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Actions-and-Reactions_2381",
+   "commit": "2ed6660834fccd601d0220c50716d081d91bb058",
+   "file": "2381-0.txt",
+   "sha256": "74880d8cb9b0a4cbfba082215b7e74ec07ac6e06f88484285c9959eab4df464a",
+   "citation": "kipling:actions-reactions",
+   "uid": "wh-PG1GZQ5R4B",
+   "edition_check": {
+    "scan": "actionsreactions00kipl",
+    "share": 0.9035,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-abaft-funnel": {
+   "id": 59332,
+   "title": "Abaft the Funnel",
+   "year": 1909,
+   "form": "early prose",
+   "mirror": "https://github.com/GITenberg/Abaft-the-Funnel_59332",
+   "commit": "b9f4a803a610843def6266f75c4abf0e0835a49f",
+   "file": "59332.txt",
+   "sha256": "8125ba1ab658eab8cf78414bd6f478182b1f0171827419d209ae45dcf31f4430",
+   "note": "an American gathering of his early uncollected newspaper pieces",
+   "citation": "kipling:abaft-funnel",
+   "uid": "wh-HKEP152BNP",
+   "edition_check": {
+    "scan": "a00kiplbaftfunnelrich",
+    "share": 0.9059,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-night-mail": {
+   "id": 29135,
+   "title": "With the Night Mail",
+   "year": 1909,
+   "form": "story",
+   "mirror": "https://github.com/GITenberg/With-The-Night-Mail--13-A-Story-of-2000-A.D.--Together-with-extracts-from-the-comtemporary-ma__29135",
+   "commit": "28747f1f45d463e32a7ca0511cf1ef80dfe59eb1",
+   "file": "29135.txt",
+   "sha256": "ac336762cbc0b44733cc775ea0300926c6cca4ea0398feb758602c04c879a308",
+   "encoding": "latin-1",
+   "citation": "kipling:night-mail",
+   "uid": "wh-WG2F5B2X7C",
+   "edition_check": {
+    "scan": "withnightmailsto00kipluoft",
+    "share": 0.882,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-rewards-fairies": {
+   "id": 556,
+   "title": "Rewards and Fairies",
+   "year": 1910,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Rewards-and-Fairies_556",
+   "commit": "2616698dcd8859bd7097a4c6006afb3b9a28e8a8",
+   "file": "556-0.txt",
+   "sha256": "b9d2d2333dec8015d0ae27b63da20bcff6d421fc8a6f58ecfd096a5050b7712b",
+   "citation": "kipling:rewards-fairies",
+   "uid": "wh-7NFFJXBG33",
+   "edition_check": {
+    "scan": "rewardsfairies00kipl",
+    "share": 0.9405,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-new-army": {
+   "id": 53507,
+   "title": "The New Army in Training",
+   "year": 1915,
+   "form": "war",
+   "mirror": "https://github.com/GITenberg/The-New-Army-in-Training_53507",
+   "commit": "338ffcf39a88c1526f7f57f6f75008f53dfb0978",
+   "file": "53507-0.txt",
+   "sha256": "827d64a229cf44b54fe5d4f30e10ef045dc78a091da245ca82f5e8e8c2a0faaf",
+   "citation": "kipling:new-army",
+   "uid": "wh-TS8SYA5S2J",
+   "edition_check": {
+    "scan": "newarmyintrainin00kiplrich",
+    "share": 0.93,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-france-at-war": {
+   "id": 12454,
+   "title": "France at War",
+   "year": 1915,
+   "form": "war",
+   "mirror": "https://github.com/GITenberg/France-at-War--On-the-Frontier-of-Civilization_12454",
+   "commit": "06d54784b757a48242cc09514d9eeb1b082ecd12",
+   "file": "12454.txt",
+   "sha256": "b2eb1c6bf505850e10424f219497d4c0f07b102bbb3ca4cf60d93ce204df265b",
+   "citation": "kipling:france-at-war",
+   "uid": "wh-V8SG7A0KA7",
+   "edition_check": {
+    "scan": "franceatwaron00kipl",
+    "share": 0.8949,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-sea-warfare": {
+   "id": 17689,
+   "title": "Sea Warfare",
+   "year": 1916,
+   "form": "war",
+   "mirror": "https://github.com/GITenberg/Sea-Warfare_17689",
+   "commit": "a7052498c8a78e96b2ff5e5094b2db09a95855bf",
+   "file": "17689.txt",
+   "sha256": "d4f9a5532e2a4be9d53498015c6b543f0e577b1378d58a10c21b3d7a46e4b7af",
+   "citation": "kipling:sea-warfare",
+   "uid": "wh-GA16FFVMJQ",
+   "edition_check": {
+    "scan": "seawarfare00kipliala",
+    "share": 0.9394,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-shakspere-tempest": {
+   "id": 32991,
+   "title": "How Shakspere Came to Write the Tempest",
+   "year": 1916,
+   "form": "essay",
+   "mirror": "https://github.com/GITenberg/How-Shakspere-Came-to-Write-the-Tempest_32991",
+   "commit": "583675eca234539162957e5c861830f1e9255e32",
+   "file": "32991.txt",
+   "sha256": "1a58f63c729c2c881b6807cc1562ba6a34111ef0abd40ff299010f2b5298e8fa",
+   "citation": "kipling:shakspere-tempest",
+   "uid": "wh-SK9SBD91QR",
+   "edition_check": {
+    "scan": "howshaksperecame00kipliala",
+    "share": 0.9104,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-diversity": {
+   "id": 13085,
+   "title": "A Diversity of Creatures",
+   "year": 1917,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/A-Diversity-of-Creatures_13085",
+   "commit": "9cf34ea2cff3fd3d6c397571fcc276ee7276f98b",
+   "file": "13085.txt",
+   "sha256": "0417d220ce64aadecbe35f837a539edc98099e5c43a9307c2a87b4032d77fcec",
+   "citation": "kipling:diversity",
+   "uid": "wh-MP7STEVP62",
+   "edition_check": {
+    "scan": "diversityofcreat00kipl",
+    "share": 0.9592,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-eyes-of-asia": {
+   "id": 23163,
+   "title": "The Eyes of Asia",
+   "year": 1918,
+   "form": "war",
+   "mirror": "https://github.com/GITenberg/The-Eyes-of-Asia_23163",
+   "commit": "04bad2b753b2613307ce76b52ca8e9f30c87a658",
+   "file": "23163.txt",
+   "sha256": "133631940b1c4c3dcd6b3ced47670cb2a3b8fc6a4bd0026123e99bb2efe74cdd",
+   "citation": "kipling:eyes-of-asia",
+   "uid": "wh-W94C6Y8ZQK",
+   "edition_check": {
+    "scan": "eyesofasia00kipl",
+    "share": 0.9109,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-graves-fallen": {
+   "id": 54830,
+   "title": "The Graves of the Fallen",
+   "year": 1919,
+   "form": "war",
+   "mirror": "https://github.com/GITenberg/The-Graves-of-the-Fallen_54830",
+   "commit": "f472982469d96724e57ec8af4a6bc16a0d0f769d",
+   "file": "54830-0.txt",
+   "sha256": "948b0d9b55b96f56d763bcb70d2983cc0fc44dd7cf84c41f2b6718a4970769c1",
+   "citation": "kipling:graves-fallen",
+   "uid": "wh-7BADSEEF9V",
+   "edition_check": {
+    "scan": null,
+    "found": "no scan with a text layer found on the Internet Archive (2026-11-03)"
+   }
+  },
+  "kipling-letters-of-travel": {
+   "id": 12089,
+   "title": "Letters of Travel (1892-1913)",
+   "year": 1920,
+   "form": "travel letters",
+   "mirror": "https://github.com/GITenberg/Letters-of-Travel--1892-1913-_12089",
+   "commit": "423d9cc5e8d21e98d3b92ec79579dd5ce39f84e8",
+   "file": "12089.txt",
+   "sha256": "374eaa13c74828fb8603cc8af3b90f4c73b90a5047e1978a2e53d7130192babe",
+   "citation": "kipling:letters-of-travel",
+   "uid": "wh-054Z7Q6G2A",
+   "edition_check": {
+    "scan": "lettersoftravel10028rudy",
+    "share": 0.9481,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-letters-of-marque": {
+   "id": 62561,
+   "title": "Letters of Marque",
+   "year": 1891,
+   "form": "travel letters",
+   "mirror": "https://github.com/GITenberg/Letters-of-Marque_62561",
+   "commit": "2ea2ecf82b89f4f62469f0c2cde96e4efb7ef57f",
+   "file": "62561-0.txt",
+   "sha256": "9cf0b8b58ff1c2418973ffd9c92dbd1c810271c21bfdd3da0f663d74458291f3",
+   "citation": "kipling:letters-of-marque",
+   "uid": "wh-TNRMWVDT0Z",
+   "edition_check": {
+    "scan": "lettersofmarque00kipliala",
+    "share": 0.9059,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-american-notes": {
+   "id": 977,
+   "title": "American Notes",
+   "year": 1891,
+   "form": "travel letters",
+   "mirror": "https://github.com/GITenberg/American-Notes_977",
+   "commit": "9ad07f38d420938139b99cf83d1fb87f1ca49893",
+   "file": "977-0.txt",
+   "sha256": "cf38a7b7864af3edd3c57a0db0a7051a65db56c08a405ce5632959cb96aaaf7e",
+   "note": "an unauthorised American gathering of his 1889 letters",
+   "citation": "kipling:american-notes",
+   "uid": "wh-1GN9FH16X2",
+   "edition_check": {
+    "scan": "americannotesrud00kiplrich",
+    "share": 0.9375,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-city-dreadful-night": {
+   "id": 61834,
+   "title": "The City of Dreadful Night",
+   "year": 1891,
+   "form": "sketches",
+   "mirror": "https://github.com/GITenberg/The-City-of-Dreadful-Night_61834",
+   "commit": "ab25ed0c31f9c05f0076a54ff30fbe78e2e5c9ff",
+   "file": "61834-0.txt",
+   "sha256": "9d5344037d405b3951a63d01c316f9c71aa25ab9c90269b7fc81dbdff8e704ac",
+   "note": "Kipling's Calcutta sketches, not James Thomson's poem",
+   "citation": "kipling:city-dreadful-night",
+   "uid": "wh-8SYJRR8T38",
+   "edition_check": {
+    "scan": "cityofdreadfulni00kipl",
+    "share": 0.8932,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-bridge-builders": {
+   "id": 2163,
+   "title": "The Bridge-Builders",
+   "year": 1893,
+   "form": "story",
+   "mirror": "https://github.com/GITenberg/The-Bridge-Builders_2163",
+   "commit": "68a227c4c9918555a9c9df660a2a4dbe5fa805dc",
+   "file": "2163-0.txt",
+   "sha256": "2e5103e597db12290b460bb398ef83939064e720a1e9c12e52fda7eb4ceaa4a9",
+   "citation": "kipling:bridge-builders",
+   "uid": "wh-YFY6MB80BJ",
+   "edition_check": {
+    "scan": "daysworkk00kipl",
+    "share": 0.9291,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-irish-guards-1": {
+   "id": 64638,
+   "title": "The Irish Guards in the Great War, Volume I",
+   "year": 1923,
+   "form": "war history",
+   "mirror": "https://github.com/GITenberg/The-Irish-Guards-in-the-Great-War-Volume-I-of-2-The-First-Battalion_64638",
+   "commit": "e871bcd78c6b3cf6984b2c7db4f3b82f3b174bb8",
+   "file": "64638-0.txt",
+   "sha256": "a853553e4019f0509653d94a0ec435ccbb51a26a85d342a6e5c493405e3e8ab8",
+   "note": "renewed 1950 (R62719); free since 2019 by the 95-year term",
+   "citation": "kipling:irish-guards-1",
+   "uid": "wh-843DD54TS2",
+   "edition_check": {
+    "scan": "irishguardsofgre01rudy",
+    "share": 0.9117,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-irish-guards-2": {
+   "id": 72881,
+   "title": "The Irish Guards in the Great War, Volume II",
+   "year": 1923,
+   "form": "war history",
+   "mirror": "https://github.com/GITenberg/The-Irish-Guards-in-the-Great-War-Volume-2-of-2-b-The-Second-Battalion-and-Appendices_72881",
+   "commit": "07779340b90e83fc6ee92297db1575f766d73a90",
+   "file": "72881-0.txt",
+   "sha256": "eb956157614e026288873c95351b95dd564756bef18be76e12cc0203bbcce202",
+   "note": "renewed 1950 (R62719); free since 2019",
+   "citation": "kipling:irish-guards-2",
+   "uid": "wh-3EYHJ12QT4",
+   "edition_check": {
+    "scan": "irishguardsofgre02rudy",
+    "share": 0.9132,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-independence": {
+   "id": 68189,
+   "title": "Independence (rectorial address)",
+   "year": 1923,
+   "form": "address",
+   "mirror": "https://github.com/GITenberg/Independence-Rectorial-address-delivered-at-St-Andrews-October-10-1923_68189",
+   "commit": "e3a74fafec46d329d23b7561f038a504a3466f9d",
+   "file": "68189-0.txt",
+   "sha256": "bac48a447d37ca54b53f8a3a9df8f078d171259b2da59147dfabe063138a671f",
+   "note": "renewed 1950 (R70384); free since 2019",
+   "citation": "kipling:independence",
+   "uid": "wh-5NX28CS4X9",
+   "edition_check": {
+    "scan": "independencerect0000rudy",
+    "share": 0.9058,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-land-sea-tales": {
+   "id": 63619,
+   "title": "Land and Sea Tales for Boys and Girls",
+   "year": 1923,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Land-and-Sea-Tales-for-Boys-and-Girls_63619",
+   "commit": "b2d7c014e3dcb0c2c5524f4dc6e9e6570abfb391",
+   "file": "63619-0.txt",
+   "sha256": "a9fd4b1d9f20adb666c25f7abd28d52b0d729efbdd75d7ac211b4426d10f0911",
+   "note": "renewed 1950 (R69256); free since 2019",
+   "citation": "kipling:land-sea-tales",
+   "uid": "wh-DHTFQXWYJP",
+   "edition_check": {
+    "scan": "landseatalesforb00kipl",
+    "share": 0.9252,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-debits-credits": {
+   "id": 71002,
+   "title": "Debits and Credits",
+   "year": 1926,
+   "form": "stories",
+   "mirror": "https://github.com/GITenberg/Debits-and-credits_71002",
+   "commit": "06c1deab799c4074477961a3fa77effbf20a357d",
+   "file": "71002-0.txt",
+   "sha256": "4599c8fe59804dec9aa6aa30133efbd0f472af2c46ed41b4d49b8caff284a768",
+   "note": "free since 2022 by the 95-year term",
+   "citation": "kipling:debits-credits",
+   "uid": "wh-E65FDHM2NR",
+   "edition_check": {
+    "scan": "debitscredits0000rudy",
+    "share": 0.9328,
+    "found": "the same text as this printing"
+   }
+  }
+ },
+ "poetry_hoard": {
+  "kipling-departmental-ditties": {
+   "title": "Departmental Ditties and Ballads and Barrack-Room Ballads",
+   "year": 1892,
+   "gutenberg": 7846,
+   "room": "wordhoard apps/poetryhoard/data/volumes.json",
+   "armarium_slug": "poetryvol-kipling-departmental-ditties",
+   "citation": "kipling:departmental-ditties",
+   "uid": "wh-N68E50KXJQ",
+   "edition_check": {
+    "scan": "departmentaldittkiplrich",
+    "share": 0.8944,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-barrack-room-ballads": {
+   "title": "Barrack-Room Ballads (First and Second Series)",
+   "year": 1896,
+   "gutenberg": 2819,
+   "room": "wordhoard apps/poetryhoard/data/volumes.json",
+   "armarium_slug": "poetryvol-kipling-barrack-room-ballads",
+   "citation": "kipling:barrack-room-ballads",
+   "uid": "wh-10Z2PV1QY2",
+   "edition_check": {
+    "scan": "balladsbarrackro0000rudy",
+    "share": 0.4446,
+    "share_of_scan_in_text": 0.2,
+    "found": "no scan of this gathering found; the 1892 Ballads and Barrack-Room Ballads shares only part of it"
+   }
+  },
+  "kipling-seven-seas": {
+   "title": "The Seven Seas",
+   "year": 1896,
+   "gutenberg": 27870,
+   "room": "wordhoard apps/poetryhoard/data/volumes.json",
+   "armarium_slug": "poetryvol-kipling-seven-seas",
+   "citation": "kipling:seven-seas",
+   "uid": "wh-393W43K0YG",
+   "edition_check": {
+    "scan": "sevenseas00kipl",
+    "share": 0.8384,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-five-nations-1": {
+   "title": "The Five Nations (Volume I, the Service Edition)",
+   "year": 1903,
+   "gutenberg": 60260,
+   "room": "wordhoard apps/poetryhoard/data/volumes.json",
+   "armarium_slug": "poetryvol-kipling-five-nations-1",
+   "citation": "kipling:five-nations-1",
+   "uid": "wh-KJX98FGNCE",
+   "edition_check": {
+    "scan": "fivenation00kipl",
+    "share": 0.9378,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-five-nations-2": {
+   "title": "The Five Nations (Volume II, the Service Edition)",
+   "year": 1903,
+   "gutenberg": 60261,
+   "room": "wordhoard apps/poetryhoard/data/volumes.json",
+   "armarium_slug": "poetryvol-kipling-five-nations-2",
+   "citation": "kipling:five-nations-2",
+   "uid": "wh-N64BDDEH4S",
+   "edition_check": {
+    "scan": "fivenation00kipl",
+    "share": 0.9219,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-songs-from-books": {
+   "title": "Songs from Books",
+   "year": 1913,
+   "gutenberg": 15529,
+   "room": "wordhoard apps/poetryhoard/data/volumes.json",
+   "armarium_slug": "poetryvol-kipling-songs-from-books",
+   "citation": "kipling:songs-from-books",
+   "uid": "wh-P7SVTMYTRP",
+   "edition_check": {
+    "scan": "bookssongsfrom00kiplrich",
+    "share": 0.934,
+    "found": "the same text as this printing"
+   }
+  },
+  "kipling-years-between": {
+   "title": "The Years Between",
+   "year": 1919,
+   "gutenberg": 21777,
+   "room": "wordhoard apps/poetryhoard/data/volumes.json",
+   "armarium_slug": "poetryvol-kipling-years-between",
+   "citation": "kipling:years-between",
+   "uid": "wh-ZWXJAFC7QR",
+   "edition_check": {
+    "scan": "yearsbetween00kipluoft",
+    "share": 0.9015,
+    "found": "the same text as this printing"
+   }
+  }
+ },
+ "_waiting": {
+  "kipling-limits-and-renewals": "Limits and Renewals (1932): US public domain 2028-01-01; on the house release queue (armarium).",
+  "kipling-souvenirs-of-france": "Souvenirs of France (1933): 2029-01-01; on the release queue.",
+  "kipling-inclusive-1933": "Rudyard Kipling's Verse, Inclusive Edition 1885-1932 (1933): 2029-01-01; a waiting Poetry Hoard volume, queued.",
+  "kipling-something-of-myself": "Something of Myself (1937): 2033-01-01; on the release queue.",
+  "kipling-definitive-1940": "Rudyard Kipling's Verse, Definitive Edition (1940): 2036-01-01; a waiting Poetry Hoard volume, queued.",
+  "_note": "All British first editions, so foreign works whose US copyright the URAA restored in 1996: the 95-year day holds whether or not they were renewed. Locked copies may be collected now (Adam's ruling of 2026-10-30) onto the Armarium's restricted shelf, never into git."
+ },
+ "_pending": {
+  "kipling-many-inventions": "Many Inventions (1893): free; not in the GITenberg mirror. Four of its stories are already here in Soldiers Three, Part II.",
+  "kipling-naulahka": "The Naulahka (1892, with Wolcott Balestier): free; not in the mirror.",
+  "kipling-wee-willie-winkie-1": "Wee Willie Winkie and Other Stories, Volume I: not in the mirror (Volume II is here).",
+  "kipling-days-work-2": "The Day's Work, Volume II: not in the mirror (Volume I is here).",
+  "kipling-complete-stalky": "The Complete Stalky & Co. (1929): free since 2025; the 1899 book is here; the added stories need a scan.",
+  "kipling-thy-servant-a-dog": "Thy Servant a Dog (1930): free since 2026-01-01; no Gutenberg text found.",
+  "kipling-book-of-words": "A Book of Words (1928, speeches): free; no Gutenberg text found.",
+  "kipling-fringes-of-the-fleet": "The Fringes of the Fleet (1915): it is the first part of Sea Warfare, which is here.",
+  "kipling-inclusive-1919": "Rudyard Kipling's Verse, Inclusive Edition 1885-1918 (1919): free; a 'free' Poetry Hoard volume, next to scan and proofread.",
+  "kipling-early-verse": "Schoolboy Lyrics (1881), Echoes (1884, with his sister), Quartette (1885): free; scans only.",
+  "_note": "A session that can reach gutenberg.org or proofread an archive.org scan adds these."
+ },
+ "_excluded": {
+  "pg18045": "Rudyard Kipling (1915) is John Palmer's study of him, not his.",
+  "pg40708": "Beast and Man in India (1891) is his father John Lockwood Kipling's book.",
+  "pg323": "Verses 1889-1896 reprints Barrack-Room Ballads and The Seven Seas, both open; listed as a 'free' Poetry Hoard volume, not cut.",
+  "pg34113": "An Almanac of Twelve Sports (1898) is William Nicholson's picture calendar with twelve quatrains of Kipling's: a calendar, not a book of either; left out.",
+  "alternates": "Second Gutenberg files of books already here (PG 2225 Captains Courageous, 35997 Jungle Book, 37364 Second Jungle Book, 35555 Kim, 15976 and 26027 Puck, 32488 and 26223 Just So, 32772 Rewards and Fairies, 2138 Day's Work, 28940 Stalky, 2334 From Mine Own People).",
+  "selections": "Later selections of work already here (PG 16578 The Kipling Reader, 30568 Stories and Poems Every Child Should Know, 28537 Soldier Stories, 8147 The Man Who Would Be King alone, 12715 Danny Deever, 12716 Dedication, 23967 If, 37091 A Song of the English).",
+  "translations": "Finnish, French, Spanish and Esperanto translations in the mirror: not his words."
+ },
+ "_edition_check": "Each book was checked against an Internet Archive scan of a printing (2026-11-03): `share` is the part of the Gutenberg text's four-word runs found in the scan's raw OCR. OCR errors break runs, so about 0.85 or more means the same text, complete. This confirms the edition and that nothing is missing; it is not a word-by-word proofread (the Gutenberg texts are Distributed Proofreaders' and volunteers' own proofread transcriptions)."
+}

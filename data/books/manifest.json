@@ -14959,5 +14959,564 @@
    "redistribute_whole": false,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Halm, Sulpicii Severi libri qui supersunt, Vienna, 1866); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
   }
+ },
+ "kipling-plain-tales": {
+  "title": "Plain Tales from the Hills (1888)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "36cf6dc475a629740e5033bb319db8e0748beb860b947212b1cdb063303f2973",
+  "units": 905,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 7415 of 7418 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-soldiers-three": {
+  "title": "Soldiers Three, The Story of the Gadsbys, and In Black and White (1888)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "4858c4d4222b8a4d858178bb8ed5bbc1cc7207cd94c81c1192e156ecf9ec7de4",
+  "units": 2187,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 10276 of 10279 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-soldiers-three-2": {
+  "title": "Soldiers Three, Part II (1899)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "d27249a858085a79f1145ab480c879ff59e8cc5bcb6dc567ac9399551c36ca93",
+  "units": 1196,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 6915 of 6918 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-gadsbys": {
+  "title": "The Story of the Gadsbys (1888)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "c08adf5eeb4e2a08bba984171ed35091a62ff3b0abcb0dc40b6536331a2a9f2d",
+  "units": 1127,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 3645 of 3648 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-black-and-white": {
+  "title": "In Black and White (1888)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "1a6844a3eda68c7f946a3c728c7990fb6bb455c793d4271fb835fff97ae4a604",
+  "units": 1418,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 9401 of 9407 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-deodars": {
+  "title": "Under the Deodars (1888)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "695040349bfc2b185071c05ce210f3239af3ed00ed1631ebbf93f519ff6c2b26",
+  "units": 1127,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 5090 of 5093 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-phantom-rickshaw": {
+  "title": "The Phantom 'Rickshaw and Other Ghost Stories (1888)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "4be9d4e982e7a80eab13928e43cd18d5d4f63797f043a0edb62c7982736ca2db",
+  "units": 765,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 4718 of 4722 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-wee-willie-winkie-2": {
+  "title": "Wee Willie Winkie and Other Stories, Volume II (1888)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "aafcf03414777dfcc513d0ed040eb7e3f8baf00135fd132c086f1d80ab5eee54",
+  "units": 878,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 4904 of 4911 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-light-that-failed": {
+  "title": "The Light That Failed (1891)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "3f0ef470760376424839c063ebd26510a6b1cff3f92669b5a950829752e76480",
+  "units": 2095,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 8829 of 8833 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-lifes-handicap": {
+  "title": "Life's Handicap (1891)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "798c9092550d987966abfd78aa2faa6ac5c594439034ba646fa1968edc09283d",
+  "units": 1860,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 11314 of 11318 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-jungle-book": {
+  "title": "The Jungle Book (1894)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "2f9486eb4776d23baf1064eebb73bb0093b808b13e10516e81e20d1dbe4909c9",
+  "units": 957,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 5424 of 5427 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-second-jungle-book": {
+  "title": "The Second Jungle Book (1895)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "b8021147d9ce72b2e0660ab702b786c65ce451a3bd851ead8474953d3c312387",
+  "units": 1116,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 6780 of 6783 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-captains-courageous": {
+  "title": "Captains Courageous (1897)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "3c28d38d3e520c165dadccb7d89224896b8f1b9b6811a8704c86390e4358a147",
+  "units": 1313,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 6225 of 6228 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-days-work-1": {
+  "title": "The Day's Work, Volume I (1898)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "9627e474e0ad0573decb3feb4ef68c59c1bcd90fc1ac754e10ba21099e52262b",
+  "units": 2086,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 11476 of 11479 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-fleet-in-being": {
+  "title": "A Fleet in Being (1898)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "f61e1be68a8a5c3f4f65da5df4a7026ebb2bcd06e89a7385967d0ce6f7e7cb9f",
+  "units": 255,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 2364 of 2368 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-stalky": {
+  "title": "Stalky & Co. (1899)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "d3e1df51fbbd67d9a83e4ab6048d1e647966876470fd6cb723a41054854370c6",
+  "units": 1981,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 8344 of 8347 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-from-sea-to-sea": {
+  "title": "From Sea to Sea (1899)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "8a6d9ddb7e542cfe333084758d54113fd2e56407cc2f7b2be765392926fce260",
+  "units": 1867,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 20332 of 20337 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-kim": {
+  "title": "Kim (1901)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "85a20ed2f9b6dc6161a2c0757f0bf34a9728f7e7e2962e890837089d16c26617",
+  "units": 2582,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 12314 of 12318 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-just-so": {
+  "title": "Just So Stories (1902)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "18f8327c5d85c370333bb9b0ba989517821560012db858d1e52df54c9130ea6c",
+  "units": 689,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 3425 of 3428 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-traffics": {
+  "title": "Traffics and Discoveries (1904)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "1d1b3a4114e390727cef90c9861474866f3263e159bdb186c1cae3215b7874a6",
+  "units": 2356,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 10998 of 11002 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-puck": {
+  "title": "Puck of Pook's Hill (1906)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "8786594f4b3f3680967fa5b4bb97fcf60986174011e3b1f66e9abe10566713db",
+  "units": 1418,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 6958 of 6961 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-doctors": {
+  "title": "Doctors (an address) (1908)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "68e0827b96e5b25e3a800fbca9fcf69fb338cb5e0d09df0d2911df971ca261d0",
+  "units": 57,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 505 of 510 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-actions-reactions": {
+  "title": "Actions and Reactions (1909)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "74880d8cb9b0a4cbfba082215b7e74ec07ac6e06f88484285c9959eab4df464a",
+  "units": 1804,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 8292 of 8297 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-abaft-funnel": {
+  "title": "Abaft the Funnel (1909)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "8125ba1ab658eab8cf78414bd6f478182b1f0171827419d209ae45dcf31f4430",
+  "units": 963,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 6638 of 6641 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-night-mail": {
+  "title": "With the Night Mail (1909)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "cbf7724c54720f454aa2af4016598bb7f1b94774d1cd8d2de25ff1a8dc77eeed",
+  "units": 408,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 2004 of 2011 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-rewards-fairies": {
+  "title": "Rewards and Fairies (1910)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "b9d2d2333dec8015d0ae27b63da20bcff6d421fc8a6f58ecfd096a5050b7712b",
+  "units": 1721,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 8736 of 8739 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-new-army": {
+  "title": "The New Army in Training (1915)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "827d64a229cf44b54fe5d4f30e10ef045dc78a091da245ca82f5e8e8c2a0faaf",
+  "units": 250,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 1617 of 1623 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-france-at-war": {
+  "title": "France at War (1915)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "b2eb1c6bf505850e10424f219497d4c0f07b102bbb3ca4cf60d93ce204df265b",
+  "units": 204,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 1882 of 1885 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-sea-warfare": {
+  "title": "Sea Warfare (1916)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "d4f9a5532e2a4be9d53498015c6b543f0e577b1378d58a10c21b3d7a46e4b7af",
+  "units": 366,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 3614 of 3618 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-shakspere-tempest": {
+  "title": "How Shakspere Came to Write the Tempest (1916)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "1a58f63c729c2c881b6807cc1562ba6a34111ef0abd40ff299010f2b5298e8fa",
+  "units": 75,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 743 of 748 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-diversity": {
+  "title": "A Diversity of Creatures (1917)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "0417d220ce64aadecbe35f837a539edc98099e5c43a9307c2a87b4032d77fcec",
+  "units": 2791,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 12774 of 12776 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-eyes-of-asia": {
+  "title": "The Eyes of Asia (1918)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "133631940b1c4c3dcd6b3ced47670cb2a3b8fc6a4bd0026123e99bb2efe74cdd",
+  "units": 149,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 1440 of 1444 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-graves-fallen": {
+  "title": "The Graves of the Fallen (1919)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "948b0d9b55b96f56d763bcb70d2983cc0fc44dd7cf84c41f2b6718a4970769c1",
+  "units": 55,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 345 of 351 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-letters-of-travel": {
+  "title": "Letters of Travel (1892-1913) (1920)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "374eaa13c74828fb8603cc8af3b90f4c73b90a5047e1978a2e53d7130192babe",
+  "units": 724,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 6873 of 6876 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-letters-of-marque": {
+  "title": "Letters of Marque (1891)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "9cf0b8b58ff1c2418973ffd9c92dbd1c810271c21bfdd3da0f663d74458291f3",
+  "units": 312,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 4897 of 4908 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-american-notes": {
+  "title": "American Notes (1891)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "cf38a7b7864af3edd3c57a0db0a7051a65db56c08a405ce5632959cb96aaaf7e",
+  "units": 405,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 2769 of 2772 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-city-dreadful-night": {
+  "title": "The City of Dreadful Night (1891)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "9d5344037d405b3951a63d01c316f9c71aa25ab9c90269b7fc81dbdff8e704ac",
+  "units": 111,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 1799 of 1809 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-bridge-builders": {
+  "title": "The Bridge-Builders (1893)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "2e5103e597db12290b460bb398ef83939064e720a1e9c12e52fda7eb4ceaa4a9",
+  "units": 224,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 1310 of 1313 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-irish-guards-1": {
+  "title": "The Irish Guards in the Great War, Volume I (1923)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "a853553e4019f0509653d94a0ec435ccbb51a26a85d342a6e5c493405e3e8ab8",
+  "units": 949,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 12116 of 12165 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-irish-guards-2": {
+  "title": "The Irish Guards in the Great War, Volume II (1923)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "eb956157614e026288873c95351b95dd564756bef18be76e12cc0203bbcce202",
+  "units": 1991,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 14317 of 14338 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-independence": {
+  "title": "Independence (rectorial address) (1923)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "bac48a447d37ca54b53f8a3a9df8f078d171259b2da59147dfabe063138a671f",
+  "units": 45,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 537 of 538 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-land-sea-tales": {
+  "title": "Land and Sea Tales for Boys and Girls (1923)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "a9fd4b1d9f20adb666c25f7abd28d52b0d729efbdd75d7ac211b4426d10f0911",
+  "units": 1220,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 6537 of 6544 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "kipling-debits-credits": {
+  "title": "Debits and Credits (1926)",
+  "author": "Rudyard Kipling",
+  "format": "gutenberg-txt",
+  "sha256": "4599c8fe59804dec9aa6aa30133efbd0f472af2c46ed41b4d49b8caff284a768",
+  "units": 2079,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 10705 of 10706 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
  }
 }

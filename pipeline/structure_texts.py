@@ -5137,6 +5137,8 @@ def apply_body_rules(raw, slug):
     r = BODY_RULES.get(slug)
     if not r and slug in getattr(_year0_fs(), "YEAR0_GUTENBERG", {}):
         r = YEAR0_BODY_RULE
+    if not r and slug.startswith("kipling-") and slug in _year0_fs().kipling_books():
+        r = YEAR0_BODY_RULE     # the Kipling shelf (2026-11-03): the same rule serves its Gutenberg files
     if not r:
         return raw, None
     lines = raw.splitlines()
@@ -6745,6 +6747,15 @@ def main():
             extra = r"|^[IVXLC]+\.\s+[A-Z][^.]{3,70}$" if slug in getattr(_fs, "YEAR0_GUTENBERG", {}) else ""
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author, x=extra:
                          convert_gutenberg_prose(p, s, t, a, contents_chapre(p) + x)))
+    # The Kipling shelf (2026-11-03): pipeline/kipling_shelf.json, the same converter and the same
+    # Contents-read headings; a story collection with no Contents still heads its stories in capitals.
+    # A novel whose Contents names only "CHAPTER I", "CHAPTER II" (no titles) names its heading in the
+    # ledger instead (`chapters`): reading such a Contents runs on into the novel's first page.
+    for slug, row in _fs.kipling_books().items():
+        path = os.path.join(CORPUS, "kipling", slug + ".txt")
+        if os.path.exists(path):
+            jobs.append((slug, lambda p=path, s=slug, t=f"{row['title']} ({row['year']})", c=row.get("chapters"):
+                         convert_gutenberg_prose(p, s, t, "Rudyard Kipling", c or contents_chapre(p))))
     vdir = os.path.join(CORPUS, "vulgate")
     if os.path.isdir(vdir) and all(os.path.exists(os.path.join(vdir, b + ".lat"))
                                    for b in _fs.VULGATE["books"]):
