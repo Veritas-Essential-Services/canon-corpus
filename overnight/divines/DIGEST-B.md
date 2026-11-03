@@ -20,7 +20,7 @@ Adam, 2026-11-03: "use what you need to bring this project to its most complete 
 3. **Public domain only because nobody renewed it**: Styron's The Long March, found on Gutenberg. It stays shelved under the US-only rule unless you say otherwise.
 4. **Partial sets.** Proust (Scott Moncrieff) stops at vol. 6. Only vol. I of Emerson's Journals is in. Poe's Virginia edition vols. IX-XII were not picked. Wordsworth has only some of the Knight volumes, and Byron is missing vols. 2-3 and 5-7. Each case on the page says how much of the work it covers.
 5. **Hamsun's Hunger** is held on the Egerton/Worster shelf in its bowdlerised 1899 English text. That is the only PD English text.
-6. **Lane B removed four of its own shelves (wilfred-owen, knut-hamsun, i-l-peretz, rilke-poems)** because the same books were already held on translator shelves. From now on, mkplan skips any Gutenberg or Internet Archive id held anywhere.
+6. **Lane B removed three of its own shelves (wilfred-owen, knut-hamsun, i-l-peretz) and one Rilke row** because the same books were already held on translator shelves. From now on, mkplan skips any Gutenberg or Internet Archive id held anywhere.
 7. **44 Bloom works have no PD English text that could be found.** The list is in bloom-research.jsonl under verdict `no_source`. It includes Rimbaud, Mallarmé, Büchner's Woyzeck, Hölderlin, Corneille's Horace/Cinna/Rodogune, Rameau's Nephew and Akhmatova. They are candidates for new translation or later scans, not for shelving now.
 8. **696 Bloom works are still in US copyright.** Most of the 20th century is in that number. Works enter the public domain each 1 January: 1931 works on 2027-01-01, so a yearly re-run of the checklist will pick them up.
 
