@@ -1014,7 +1014,7 @@ Adam asked on 2026-11-03 that nothing wait on him. Each open call above now has 
 | 14 | Garis's Uncle Wiggily's Story Book | Stays held. No renewal of the Story Book itself was found, but eight Uncle Wiggily stories registered 17 Jul 1939 were renewed in 1966 (R390370-R390377). The 1939 printing may carry some of them. |
 | 16 | `lang-devil-dancers` | Stays held. Lang is a source, not the author. |
 | 17 | MacDonald's four CCEL modern-reprint texts | Stay on the shelf, flagged. Collate them before Armarium republishes. |
-| 19 | Theal's title | The printed title is kept, with the shelf note naming it a collection of Xhosa folk tales. |
+| 19 | Theal's title | The printed title is kept, with the shelf note that says it uses a slur. |
 | 20 | Mathews or Schoolcraft | Filed under Mathews, whose name is on the 1869 title page. Both printings are kept, and the shared passages mint once. |
 | 23 | Curtin's missing 1890 introduction | Applied: the 1890 scan is added as a second witness (see 23). |
 | 24, 27, 28 | Post-1930 holds | Renewals checked (see above). The 45 cleared books stay held until Adam picks. |
