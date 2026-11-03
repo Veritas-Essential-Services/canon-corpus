@@ -1,0 +1,188 @@
+{
+ "_about": "Adam's Logos purchase 'Classic Commentaries and Studies on the General and Pastoral Epistles (16 vols)' (receipt June 2019), its titles as listed on logos.com read 2026-11-03, each found as a pre-1931 Internet Archive scan and its title page read (where only the catalogue was read, the row says so). One shelf for the bundle because its authors mostly have one book each; works already on another shelf are not repeated (listed under _excluded). Internet Archive OCR, raw. All published before 1931, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "epistles",
+  "general",
+  "pastoral",
+  "catholic"
+ ],
+ "_surname": [
+  "gloag",
+  "sumner",
+  "moorehead",
+  "cone",
+  "boddington",
+  "lillie",
+  "mitchell",
+  "hillard",
+  "glasgow"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ccg-gloag-catholic": [
+   "cu31924029294794",
+   "Introduction to the Catholic Epistles, by Paton J. Gloag (catalogue: Edinburgh: T. & T. Clark, 1887)"
+  ],
+  "ccg-sumner-general-epistles": [
+   "practicalexposit00sumnrich",
+   "A Practical Exposition of the General Epistles of James, Peter, John, and Jude, in the Form of Lectures, by John Bird Sumner (London: J. Hatchard, 1840)"
+  ],
+  "ccg-moorehead-catholic": [
+   "outlinestudi00moor",
+   "Outline Studies in the New Testament: Catholic Epistles, James, I and II Peter, I, II, III John, and Jude, by William G. Moorehead (New York: Fleming H. Revell; copyright 1908, 1910)"
+  ],
+  "ccg-cone-hebrews-pastorals": [
+   "epistlestohebrew0000cone",
+   "The Epistles to the Hebrews, Colossians, Ephesians, and Philemon; the Pastoral Epistles; the Epistles of James, Peter, and Jude, International Handbooks to the New Testament, by Orello Cone (catalogue: New York: G. P. Putnam's Sons, 1901)"
+  ],
+  "ccg-boddington-general": [
+   "epistlesstjames00boddgoog",
+   "The Epistles of St. James, St. Peter, St. John, & St. Jude, Explained in Simple and Familiar Language, by G. B. [Gracilla Boddington] (London: James Nisbet, 1852)"
+  ],
+  "ccg-lillie-2peter-revelation": [
+   "secondepistleofp00lill",
+   "The Second Epistle of Peter, the Epistles of John and Judas, and the Revelation, translated from the Greek on the basis of the Common English Version, with notes, by John Lillie (catalogue: New York: American Bible Union, 1854)"
+  ],
+  "ccg-mitchell-hebrews-general": [
+   "hebrewsandthegen00mitcuoft",
+   "Hebrews and the General Epistles, The Westminster New Testament, by A. F. Mitchell (London: Andrew Melrose; catalogue date 1911)"
+  ],
+  "ccg-hillard-pastorals": [
+   "pastoralepistles0000reva",
+   "The Pastoral Epistles of St. Paul: The Greek Text, with Commentary, by A. E. Hillard (London: Rivingtons, 1919)"
+  ],
+  "ccg-glasgow-general": [
+   "generalepistles00glas",
+   "The General Epistles: Studies in the Letters of James, Peter, John and Jude, by Samuel McPheeters Glasgow (New York: Fleming H. Revell; copyright 1928)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ccg-held": "Already on other shelves: B. H. Carroll's Pastoral Epistles (b-h-carroll), Livermore's Hebrews to Revelation (abiel-abbot-livermore)"
+ },
+ "_rights_checked": {
+  "ccg-glasgow-general": "Copyright 1928: published before 1931, so US public domain"
+ },
+ "_identity_checked": {
+  "ccg-boddington-general": {
+   "author": "The title page names the author only as 'G. B.'; Logos and library catalogues give Gracilla Boddington"
+  },
+  "ccg-hillard-pastorals": {
+   "author": "OCR garbles the name; the page reads 'with commentary by the Rev. ... High Master of St. Paul's School' (A. E. Hillard), Rivingtons, 1919"
+  },
+  "ccg-lillie-2peter-revelation": {
+   "author": "The title page names no author (American Bible Union revision); Logos and catalogues give John Lillie"
+  },
+  "ccg-cone-hebrews-pastorals": {
+   "title": "The OCR head is scan noise up to the series title; title and imprint are the catalogue's"
+  }
+ },
+ "_pending": {
+  "ccg-not-found": "No open pre-1931 scan found for: C. A. Coates, An Outline of the Epistle of James; William Kelly, An Exposition of the First Epistle to Timothy; J. P. Greene, The Pastoral Epistles; James Strachan, The Captivity and the Pastoral Epistles (only a bookseller scan, bwb_TK-536-380); Eugene Stock, Plain Talks on the Pastoral Epistles (1914, only a lending-library scan)"
+ },
+ "_translators": {},
+ "_checks": {
+  "ccg-gloag-catholic": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gloag",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccg-sumner-general-epistles": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "sumner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccg-moorehead-catholic": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gloag",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccg-cone-hebrews-pastorals": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccg-boddington-general": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccg-lillie-2peter-revelation": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "glasgow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccg-mitchell-hebrews-general": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "mitchell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccg-hillard-pastorals": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccg-glasgow-general": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "glasgow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Copyright 1928: published before 1931, so US public domain"
+  }
+ }
+}
