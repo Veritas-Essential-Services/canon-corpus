@@ -1,0 +1,77 @@
+{
+ "_about": "Sean O'Casey. Bloom's Western Canon (1994) lists: Juno and the Paycock; The Plough and the Stars. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Sean O'Casey",
+ "_name_words": [
+  "sean",
+  "casey",
+  "o'casey"
+ ],
+ "_surname": [
+  "o'casey",
+  "sean o'casey",
+  "ocasey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ocasey-two-plays": [
+   "twoplaysjunopayc00ocas",
+   "Two Plays: Juno and the Paycock, The Shadow of a Gunman"
+  ],
+  "ocasey-plough-stars": [
+   "bwb_KU-774-542",
+   "The Plough and the Stars: a tragedy in four acts"
+  ]
+ },
+ "_rights_checked": {
+  "ocasey-two-plays": "Bloom addition 2026-11-03: 1929 printing (title page: New York, Macmillan 1929; 'Copyright, 1925 ... Published February, 1925. Reissued January, 1927'). Read title page, copyright and contents; collection internetarchivebooks/americana, not lending."
+ },
+ "_bloom": {
+  "ocasey-two-plays": {
+   "bloom_n": [
+    858,
+    860
+   ],
+   "bloom_title": "Juno and the Paycock",
+   "year": "1929 printing (title page: New York, Macmillan 1929; 'Copyright, 1925 ... Published February, 1925. Reissued January, 1927')",
+   "evidence": "Read title page, copyright and contents; collection internetarchivebooks/americana, not lending.",
+   "case": "Bloom lists Juno and the Paycock (first published 1925). This 1929 reprint of the 1925 Macmillan text is US-PD. The same volume also holds The Shadow of a Gunman (#860).",
+   "note": "A reprint of the unrevised 1925 text; the first edition is pre-1931. O'Casey is not on PG."
+  },
+  "ocasey-plough-stars": {
+   "bloom_n": [
+    859
+   ],
+   "bloom_title": "The Plough and the Stars",
+   "year": "1926 (title page: London, Macmillan 1926; 'First Edition April 1926, Reprinted April and July 1926')",
+   "evidence": "Read title page and cast list; collection internetarchivebooks, not lending.",
+   "case": "Bloom lists The Plough and the Stars (1926). The 1926 Macmillan edition is US-PD.",
+   "note": "Alternative: ploughstars0000sean, the 1930 reprint (cleaner title page OCR)."
+  }
+ },
+ "_checks": {
+  "ocasey-two-plays": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "o'casey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1929 printing (title page: New York, Macmillan 1929; 'Copyright, 1925 ... Published February, 1925. Reissued January, 1927'). Read title page, copyright and contents; collection internetarchivebooks/americana, not lending."
+  },
+  "ocasey-plough-stars": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "o'casey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
