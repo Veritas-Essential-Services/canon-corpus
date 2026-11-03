@@ -2319,3 +2319,7 @@
 ## 2026-10-28 CDT — Adam's Reformed authors table: done
 
 152 items added across 13 shelves (3 new: louis-berkhof, abraham-kuyper-gaps, heinrich-bullinger-gaps). The other 14 authors on the table were already complete. Every touched shelf verified with 0 mismatched. Details are in DIGEST-A. Lane A is paused again.
+
+## 2026-11-03 CDT — Adam's Libronix inventory: unshelved PD authors done
+
+169 items on 19 shelves (18 new): Early Church Fathers 38, Schaff's History +8, Pulpit Commentary 49, Biblical Illustrator 32, ISBE 1915 5, Nave, Easton, Girdlestone, Gesenius 2, Burton, Freeman, Newberry, Arminius 3, Henry Hunter 4, Webster 1828 2, Thwaites, Darwell Stone 12, Edward Dennett 3, W. T. P. Wolston 4. Every `--verify --record`: 0 mismatched. 0 uids minted. Gaps and calls in DIGEST-A. Lane A idle.

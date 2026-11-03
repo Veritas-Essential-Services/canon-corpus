@@ -2914,6 +2914,44 @@ Points you may want to rule on:
 - **One Warfield rights call.** Studies in Tertullian and Augustine (1930) became US public domain on 1 January 2026, and it carries a `_rights_checked` entry.
 - **Shelf naming.** Kuyper and Bullinger got `-gaps` shelves so that PR #14's shelves stay unedited. Fold them in when PR #14 merges.
 
+## Adam's Libronix inventory, the unshelved public-domain authors (2026-11-03 burn)
+
+On 10/29 Adam chose "only your lists", so this pass shelved what his Libronix inventory (`Libronix authors - reconciled.md`) names and the armarium did not yet hold. No minor-divines sweep was run. Every title, edition and imprint below was read from the scan's title page (or, for the Biblical Illustrator, from its running heads). US public domain is the only test. No uids were minted. Every `--verify --record`: 0 mismatched.
+
+| Work | Items | Shelf |
+|---|---|---|
+| Ante-Nicene and Nicene and Post-Nicene Fathers (Roberts-Donaldson, Schaff-Wace), from CCEL | 38 | early-church-fathers (new) |
+| Schaff, History of the Christian Church, vols I-VIII, from CCEL (V-VI by David S. Schaff) | +8 | philip-schaff |
+| The Pulpit Commentary (Spence and Exell), Funk & Wagnalls issue | 49 | pulpit-commentary (new) |
+| The Biblical Illustrator (Exell), Revell issue: the 32 volumes Toronto scanned (Joshua-Judges-Ruth through Revelation, plus the NT index) | 32 | biblical-illustrator (new) |
+| International Standard Bible Encyclopaedia (Orr, 1915), 5 vols, complete | 5 | isbe-1915 (new) |
+| Nave's Topical Bible (1903) | 1 | orville-nave (new) |
+| Easton, Illustrated Bible Dictionary (Harper, 1893) | 1 | m-g-easton (new) |
+| Girdlestone, Synonyms of the Old Testament (1871) | 1 | robert-b-girdlestone (new) |
+| Gesenius: Hebrew Grammar (Kautzsch-Cowley, 1910) and the Tregelles Lexicon | 2 | gesenius (new) |
+| Burton, Moods and Tenses in NT Greek (5th ed., 1903) | 1 | ernest-de-witt-burton (new) |
+| Freeman, Hand-book of Bible Manners and Customs (1875) | 1 | james-m-freeman (new) |
+| Newberry, The Englishman's Bible | 1 | thomas-newberry (new) |
+| Arminius, Works, Nichols and Bagnall (Auburn, 1853), 3 vols, complete | 3 | arminius (new) |
+| Henry Hunter, Sacred Biography (Philadelphia, 1818), 4 vols, complete | 4 | henry-hunter (new) |
+| Webster, An American Dictionary of the English Language (1828), 2 vols | 2 | noah-webster (new) |
+| Thwaites, The Colonies 1492-1750 (1920 impression) | 1 | reuben-gold-thwaites (new) |
+| Darwell Stone, twelve books 1900-1926 | 12 | darwell-stone (new) |
+| Edward Dennett (Brethren), three books 1872-1882 | 3 | edward-dennett (new) |
+| W. T. P. Wolston (Brethren), four books 1892-1909 | 4 | w-t-p-wolston (new) |
+
+Already held, nothing added: Franklin, Philo, Josephus (Whiston), Thomas a Kempis, Watts, Bernard; Darby, William Kelly, F. W. Grant, J. G. Bellett and C. H. Mackintosh already have shelves; and most of the commentators and devotional writers on the list. Earlier, on 10/29: Henry Ward Beecher +17 (the Plymouth Pulpit run) and Joseph Benson's OT commentary vol. I.
+
+Points you may want to rule on:
+- **Gaps with no open pre-1930 scan:** Pulpit Commentary Daniel and St. Matthew vol. I; Benson's OT commentary vol. II; about 25 Biblical Illustrator volumes (and one, `biblicalillustra40exel`, whose text file failed when I went to read it); Girdlestone's 1897 second edition; Easton's 1897 third edition. All are in `_pending` on their shelves.
+- **Tischendorf is held back.** The open scans of his Greek NT were OCR'd with a Greek model, so even the Latin apparatus is garbage, and Libronix's Tischendorf is a tagged digital text, not a page scan. Better source: a machine-readable Tischendorf 8th edition text (several exist on GitHub); that is converter work, not a shelf.
+- **Brethren writers only partly done.** Dennett and Wolston are shelved. Samuel Ridout's Job is only on IA as a 1943 second-edition printing; Rossier's Judges meditations as a modern reprint; Miller's Church History as the 1925/1928 Pickering & Inglis edition with W. Hoste's additions (US public domain, but I did not untangle its volume numbering); C. E. Stuart, C. Knapp and F. G. Patterson have nothing usable on IA. A better source for all of them is STEM Publishing's online texts, which would need a new fetcher type.
+- **Webster 1828, Thwaites and Nave are not theology.** They are on his Libronix list, so they are shelved; lane B or D may want to own them.
+- **ISBE 1929 revision** (Orr and Kyle) is also US public domain; only the 1915 edition was shelved.
+- **Newberry's Englishman's Bible** is undated (printed by Horace Hart at Oxford, so 1883-1915); its typographic marking signs will not survive OCR well.
+
+Lane A is idle again after this pass (LOCK-A says so). 169 items on 19 shelves (18 new) in this pass, all pushed to claude/armarium-divines and in draft PR #44.
+
 ## Paused 2026-10-25 at Adam's request
 
 Rounds 39 to 138 and Adam's Libronix authors are pushed. Nothing is half-built. To resume: start round 139 from scratch (no research has been done for it); candidates not yet checked include Thomas Sprat, Samuel Hinchliffe, Lewis Bagot, William Cleaver, John Denison and Thomas Claughton.
