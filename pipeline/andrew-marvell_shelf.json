@@ -1,0 +1,45 @@
+{
+ "_about": "Andrew Marvell. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Andrew Marvell",
+ "_name_words": [
+  "andrew",
+  "marvell"
+ ],
+ "_surname": [
+  "marvell",
+  "andrew marvell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marvell-miscellaneous-poems": [
+   "miscellaneouspoe00marvuoft",
+   "Miscellaneous Poems by Andrew Marvell, Esq."
+  ]
+ },
+ "_bloom": {
+  "marvell-miscellaneous-poems": {
+   "bloom_n": [
+    178
+   ],
+   "bloom_title": "Poems",
+   "year": "1923 (title page: 'London, The Nonesuch Press ... MCMXXIII')",
+   "evidence": "Read title page; Nonesuch reprint of the 1681 folio.",
+   "case": "A faithful reprint of the 1681 Miscellaneous Poems.",
+   "note": "Avoid poemslettersofan0001edit: it is Margoliouth's corrected 2nd edition (1952), not the 1927 first. PG 26288 is one poem only."
+  }
+ },
+ "_checks": {
+  "marvell-miscellaneous-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "marvell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
