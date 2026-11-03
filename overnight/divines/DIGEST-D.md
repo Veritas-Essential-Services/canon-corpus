@@ -1098,3 +1098,21 @@ Adam's second usage burn. Quality only, no new books. Same method as above: the 
 **Note:** the Internet Archive dates `mybookhousetreas0000unse` 1920, but its copyright page reads 1920, 1928. It is the 1928 edition, as the shelf row says.
 
 Not swept yet, roughest first by the same measure: MBH 1920 vols. 2-5, the other Young Folks' Library and Children's Hour volumes.
+
+### Round 3: My Book House 1920-21, vols. 2-5 (2026-11-03)
+
+| Volume | Scan | Collated with | Garbled before | After | Rows |
+|---|---|---|---|---|---|
+| 2, Up One Pair of Stairs (1920) | `latchkeyofmybook02mill` | 3 scans | 533 | 31 (a damaged leaf) | 1,605 |
+| 3, Through Fairy Halls (1920) | `latchkeyofmybook03mill` | 3 scans | 512 | 0 | 970 |
+| 4, The Treasure Chest (1920) | `latchkeyofmybook04mill` | 3 scans | 513 | 1 (a correct form) | 837 |
+| 5, From the Tower Window (1921) | `latchkeyofmybook05mill` | 3 scans | 516 | 1 (the scan credit) | 1,097 |
+
+These four scans' OCR (2011) reads curly quotation marks as `''`, `*'`, `**` or `'*`, and a closing quotation mark after a comma or full stop as `/'`. About 1,400 marks a volume were mended by rule: a two-mark cluster opening a word is “, closing it is ”, and `/'` is ,” before a lowercase word and .” otherwise (checked on the page images: "Well," said the king; it out."). Those rows account for most of each volume's row count. Picture, border and signature noise was cleared line by line, keeping running heads, titles and page numbers.
+
+Hand readings of note:
+- Vol. 5, p. 89, the illuminated *Hymn of Alfred's* (Frank Spreyer), was read line by line from the image.
+- Vol. 5, p. 221, the FOR SALE sign the story quotes.
+- Vol. 3, pp. 55-58: lines a reader had pencil-circled.
+
+**Finding:** in vol. 2's scan, printed pp. 368-369 are a torn leaf, with a fragment of the leaf before showing through, and a curled one. Their OCR mixes two pages, so they were left unread: these are the 31 tokens left. Default: leave them flagged. The twin scans have whole copies, if Adam wants those two pages taken from a twin.
