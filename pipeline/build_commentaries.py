@@ -4806,11 +4806,22 @@ def entry(book, blob):
             "built_sha256": hashlib.sha256(blob).hexdigest()}
 
 
+def source_absent(slug):
+    """A Gutenberg book whose pinned file is not here at all (gutenberg.org unreachable from this
+    session): it is not built, and its committed manifest entry is kept as it stands. A file that is
+    here but differs from its pin still stops the build (build_gutenberg)."""
+    return slug in GUTENBERG and not os.path.exists(os.path.join(CACHE, GUTENBERG[slug]["file"]))
+
+
 def build(slugs=None):
     ids = kjv_ids()
     out = {}
     for slug in ORDER:
         if slugs and slug not in slugs:
+            continue
+        if source_absent(slug):
+            print(f"  {slug}: SKIPPED (source absent): {GUTENBERG[slug]['file']} is not in {CACHE}; its "
+                  "committed manifest entry is kept unchanged (run --fetch to build it)")
             continue
         book = build_book(slug, ids)
         blob = json.dumps(book, ensure_ascii=False).encode("utf-8")
