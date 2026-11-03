@@ -2323,3 +2323,7 @@
 ## 2026-11-03 CDT — Adam's Libronix inventory: unshelved PD authors done
 
 169 items on 19 shelves (18 new): Early Church Fathers 38, Schaff's History +8, Pulpit Commentary 49, Biblical Illustrator 32, ISBE 1915 5, Nave, Easton, Girdlestone, Gesenius 2, Burton, Freeman, Newberry, Arminius 3, Henry Hunter 4, Webster 1828 2, Thwaites, Darwell Stone 12, Edward Dennett 3, W. T. P. Wolston 4. Every `--verify --record`: 0 mismatched. 0 uids minted. Gaps and calls in DIGEST-A. Lane A idle.
+
+## 2026-11-03 CDT, second pass: Adam's Logos collection bundles
+
+81 items on 11 shelves (8 new): the Classic Commentaries bundles for Daniel (9), Revelation (16), Colossians (4), Pauline (11), General Epistles (9) and Ecclesiastes-Song (6); Neo-Scholastic (20); Andrew Miller vols II-III; Biblical Illustrator Matthew; Samuel Cox's Private Letters; Wolston +2. Every `--verify --record`: 0 mismatched. 0 uids minted. Gaps and calls in DIGEST-A. Lane A idle.

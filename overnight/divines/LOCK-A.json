@@ -1,6 +1,6 @@
 {
- "status": "running",
- "holder": "lane A thread",
- "heartbeat": "2026-11-03T08:10:00-06:00",
- "note": "resumed 2026-11-03 14:08Z: second Libronix pass (gaps, retries, any author still unshelved). Resume point: DIGEST-A '2026-11-03 second pass' section."
+ "status": "idle",
+ "holder": "none",
+ "heartbeat": "2026-11-03T09:30:00-06:00",
+ "note": "second Libronix pass done 2026-11-03 (81 items, 11 shelves). Resume point: DIGEST-A '2026-11-03 second pass' section (HTTP-500 retries, Miles Daniel vol. 2, Miller vol. I, remaining Logos bundles)."
 }
