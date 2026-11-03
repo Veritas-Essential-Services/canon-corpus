@@ -4,6 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius: three edition converters)
+# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's, Hurlbut's Bible Atlas)
 # fable_review: pending
 """structure_texts.py — the structure layer: source texts -> unit-id JSON.
 
@@ -17,6 +18,8 @@ Three converters, one output shape (the Canon Corpus JSON design, vault:
                                                Strong's H/G, Brown-Driver-Briggs;
                                                and dictionaries of names keyed by
                                                entry: Smith's classical, Brewer's literary
+                                               and Bible dictionaries: Easton's, Nave's,
+                                               Hurlbut's atlas (a gazetteer of its indexes)
 
 Output: data/books/<slug>.json (gitignored — rebuildable) and
 data/books/manifest.json (committed — checksums, schemes, provenance).
@@ -5767,6 +5770,518 @@ def convert_brewer_character_sketches(paths, slug="brewer-character-sketches"):
 
 
 
+# ------------------------------------- Bible dictionaries (2026-11-03, vision map 37)
+#
+# Three reference works for the hub pages: Easton's Bible Dictionary (1897),
+# Nave's Topical Bible (1896) and Hurlbut's Bible Atlas (Rand-McNally, 1910
+# printing). Easton's and Nave's are CCEL's ThML: entries are <term>/<def>
+# pairs and every scripture reference is already a <scripRef> with a parsed
+# OSIS reference, so nothing is guessed about where a citation points. What
+# IS checked: that the verse exists in the KJV (the committed
+# data/parallel/kjv-parallel.tsv lists every KJV verse, one row each), so a
+# link that names a verse the KJV does not have is kept unresolved with why.
+
+KJV_PARALLEL = os.path.join(HERE, "..", "data", "parallel", "kjv-parallel.tsv")
+_KJV_SET = None
+
+
+def kjv_verse_index(path=None):
+    """(set of KJV verse keys 'Gen.1.1', {('Gen', 1): last verse}) from the
+    committed parallel index. Cached for the default path."""
+    global _KJV_SET
+    if path is None and _KJV_SET is not None:
+        return _KJV_SET
+    verses, last = set(), {}
+    with open(path or KJV_PARALLEL, encoding="utf-8") as f:
+        next(f)
+        for line in f:
+            key = line.split("\t", 1)[0]
+            b, c, v = key.rsplit(".", 2)
+            verses.add(key)
+            if int(v) > last.get((b, int(c)), 0):
+                last[(b, int(c))] = int(v)
+    out = (verses, last)
+    if path is None:
+        _KJV_SET = out
+    return out
+
+
+def kjv_link(book, c, v, c2, v2, ref, kjv):
+    """One scripture link in the house shape (as Brewer's), checked against the
+    KJV's verses. c/v/c2/v2 are ints; 0 means 'not given' (ThML's convention):
+    v == 0 is a whole chapter, c == 0 a whole book."""
+    verses, last = kjv
+    link = {"kind": "scripture", "ref": ref, "versification": "kjv"}
+    if not any(b == book for b, _ in last):
+        return dict(link, osis=f"{book}.{c}.{v}" if c else book, resolved=False,
+                    why="book not in the KJV build (Apocrypha)")
+    if not c:
+        return dict(link, osis=book, resolved=False, why="whole book: no verse to point at")
+    if not v:
+        if (book, c) not in last:
+            return dict(link, osis=f"{book}.{c}", resolved=False, why="no such chapter in the KJV")
+        link.update(osis=f"{book}.{c}.1", target=f"kjv:{book}.{c}.1", resolved=True, chapter=True)
+        end_c = c2 if c2 and c2 > c and (book, c2) in last else c
+        link["end"] = f"{book}.{end_c}.{last[(book, end_c)]}"
+        return link
+    key = f"{book}.{c}.{v}"
+    if key not in verses:
+        return dict(link, osis=key, resolved=False, why="no such verse in the KJV")
+    link.update(osis=key, target=f"kjv:{key}", resolved=True)
+    if c2 or v2:
+        ec, ev = (c2 or c), v2
+        if not ev and (book, ec) in last:
+            ev = last[(book, ec)]
+        end = f"{book}.{ec}.{ev}"
+        if end in verses and (ec, ev) > (c, v):
+            link["end"] = end
+    return link
+
+
+RE_THML_GLOSSARY = re.compile(r"<glossary\b[^>]*>(.*?)</glossary>", re.S)
+RE_THML_TERM = re.compile(r"<term\b[^>]*>(.*?)</term>\s*<def\b[^>]*>(.*?)</def>", re.S)
+RE_THML_SCRIPREF = re.compile(r'<scripRef\b([^>]*)>(.*?)</scripRef>', re.S)
+RE_THML_A = re.compile(r'<a\b([^>]*)>(.*?)</a>', re.S)
+RE_THML_P = re.compile(r"<p\b([^>]*)>(.*?)</p>", re.S)
+RE_TAG = re.compile(r"<[^>]+>")
+
+
+def _thml_plain(frag):
+    return re.sub(r"\s+", " ", html.unescape(RE_TAG.sub("", frag))).strip()
+
+
+def _thml_term_target(attrs):
+    """The entry an <a href> names: `ebd2.m.html?term=moses`, `bible.p.html?term=priest,+high`,
+    or `ebd2.Moses.html`. None for anything else."""
+    import urllib.parse
+    m = re.search(r'href="([^"]*)"', attrs)
+    if not m:
+        return None
+    href = html.unescape(m.group(1))
+    q = urllib.parse.urlparse(href)
+    term = urllib.parse.parse_qs(q.query).get("term")
+    if term:
+        return term[0]
+    m = re.search(r"\.([A-Z][^./]*)\.html$", q.path)
+    return urllib.parse.unquote(m.group(1)) if m else None
+
+
+def _thml_see_slug(term, slugs):
+    """(entry slug, how) for a cross-reference's term, or (None, None). In
+    order: exact; the other number (`courts` -> COURT); for Nave's `PRIEST, HIGH`
+    (the sub-topic HIGH under PRIEST) the topic before the first comma; the one
+    entry whose name begins with it (`abstinence` -> ABSTINENCE, TOTAL). How it
+    matched rides on the link as `match`."""
+    s = brewer_slug(term)
+    if s in slugs:
+        return s, "exact"
+    for alt in (s[:-1] if s.endswith("s") else None, s[:-2] if s.endswith("es") else None, s + "s"):
+        if alt and alt in slugs:
+            return alt, "number"
+    if "," in term:
+        head = brewer_slug(term.split(",")[0])
+        if head in slugs:
+            return head, "topic"
+    longer = [x for x in slugs if x.startswith(s + "-")]
+    if len(longer) == 1:                # `abstinence` -> the one ABSTINENCE, TOTAL
+        return longer[0], "prefix"
+    return None, None
+
+
+def _thml_scripture(attrs, label, kjv):
+    """A <scripRef>'s parsed="|Book|c|v|c2|v2" (several joined by ';') -> links."""
+    m = re.search(r'parsed="([^"]*)"', attrs)
+    p = re.search(r'passage="([^"]*)"', attrs)
+    ref = html.unescape(p.group(1)) if p else _thml_plain(label)
+    out = []
+    for part in (m.group(1).split(";") if m else []):
+        f = part.strip().strip("|").split("|")
+        if len(f) < 5 or not all(x.isdigit() for x in f[1:5]):
+            continue
+        out.append(kjv_link(f[0], *map(int, f[1:5]), ref, kjv))
+    return out
+
+
+def convert_ccel_dictionary(path, slug, title, author, kjv_path=None):
+    """A CCEL ThML glossary (Easton's, Nave's) -> one unit per <term>.
+
+    Ids are the headword as a slug, as Brewer's (`easton:aaron`); a repeated
+    headword takes ~2 in file order (main()). `ref` is the headword as printed,
+    so a hub page finds the entry by its name. Paragraph classes (Nave's
+    index2/index3/index4: topic, sub-topic, sub-sub-topic) ride in lex.levels."""
+    raw = open(path, encoding="utf-8").read()
+    kjv = kjv_verse_index(kjv_path)
+    entries = []
+    for g in RE_THML_GLOSSARY.finditer(raw):
+        for t in RE_THML_TERM.finditer(g.group(1)):
+            entries.append((_thml_plain(t.group(1)), t.group(2)))
+    slugs = {}
+    for head, _ in entries:
+        slugs.setdefault(brewer_slug(head), head)
+    units = []
+    n_scrip = n_ok = n_un = see_ok = see_miss = 0
+    why, see_how = {}, {}
+    for head, body in entries:
+        paras, levels, links, seen = [], [], [], set()
+        for pm in RE_THML_P.finditer(body):
+            cls = re.search(r'class="index(\d)"', pm.group(1))
+            inner = pm.group(2)
+            for sm in RE_THML_SCRIPREF.finditer(inner):
+                for l in _thml_scripture(sm.group(1), sm.group(2), kjv):
+                    n_scrip += 1
+                    if l["resolved"]:
+                        n_ok += 1
+                    else:
+                        n_un += 1
+                        why[l["why"]] = why.get(l["why"], 0) + 1
+                    k = (l["osis"], l.get("end"), l["resolved"])
+                    if k not in seen:
+                        seen.add(k)
+                        links.append(l)
+            for am in RE_THML_A.finditer(inner):
+                term = _thml_term_target(am.group(1))
+                if term is None:
+                    continue
+                s, match = _thml_see_slug(term, slugs)
+                if s:
+                    see_ok += 1
+                    see_how[match] = see_how.get(match, 0) + 1
+                    tgt = f"{slug}:{s}"
+                    if not any(l.get("target") == tgt for l in links):
+                        links.append(dict({"kind": "see", "label": _thml_plain(am.group(2)), "target": tgt},
+                                          **({"match": match} if match != "exact" else {})))
+                else:
+                    see_miss += 1
+                    links.append({"kind": "see", "label": _thml_plain(am.group(2)),
+                                  "resolved": False, "why": "names no entry in this file"})
+            text = _thml_plain(inner)
+            if text:
+                paras.append(text)
+                levels.append(int(cls.group(1)) if cls else 0)
+        lex = {"headword": head}
+        if any(levels):
+            lex["levels"] = levels
+        units.append({"id": f"{slug}:{brewer_slug(head)}", "ref": head,
+                      "text": "\n\n".join(paras), "links": links, "lex": lex})
+    stats = {"entries": len(units), "scripture_refs": n_scrip, "scripture_resolved": n_ok,
+             "scripture_unresolved": n_un, "unresolved_why": dict(sorted(why.items())),
+             "scripture_links": sum(1 for u in units for l in u["links"] if l["kind"] == "scripture"),
+             "units_with_scripture": sum(1 for u in units if any(l["kind"] == "scripture" for l in u["links"])),
+             "see_resolved": see_ok, "see_how": dict(sorted(see_how.items())),
+             "see_unresolved": see_miss,
+             "empty": sum(1 for u in units if not u["text"])}
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "dictionary-thml",
+                       "sha256": sha256(path)},
+            "stats": stats, "units": units}
+
+
+EASTON_RIGHTS = {
+    "license": "public-domain",
+    "rights_line": "Public Domain",
+    "attribution": "Easton's Bible Dictionary, electronic edition by the Christian Classics "
+                   "Ethereal Library (ccel.org/ccel/easton/ebd2), version 2.0, from the Online "
+                   "Bible's text.",
+    "source_url": "https://ccel.org/ccel/easton/ebd2",
+    "redistribute_whole": True,
+    "note": "The file's own DC.Rights reads 'Public Domain'; its header comment reads "
+            "'Copyright Christian Classics Ethereal Library'. Read 2026-11-03 from a byte "
+            "copy at github.com/neuu-org/bible-dictionary-dataset (CCEL itself was not "
+            "reachable from the session), so CCEL's per-work page was not read: Adam to "
+            "confirm CCEL lists no non-commercial request for ebd2 (CLAUDE.md rule 6)."}
+
+NAVE_RIGHTS = {
+    "license": "public-domain text (Nave 1896/1897); CCEL electronic edition",
+    "rights_line": "(none: the file's DC.Rights is empty)",
+    "attribution": "Nave's Topical Bible, electronic edition by the Christian Classics "
+                   "Ethereal Library (ccel.org/ccel/nave/bible).",
+    "source_url": "https://ccel.org/ccel/nave/bible",
+    "redistribute_whole": False,
+    "note": "Orville J. Nave d. 1917; the work was published 1896-97: US public domain. "
+            "This file's DC.Rights is EMPTY and its header comment reads 'Copyright "
+            "Christian Classics Ethereal Library', so CCEL's terms for this electronic "
+            "edition were not seen. Held redistribute_whole false (quote, cite, link) until "
+            "Adam reads CCEL's page for it. Read 2026-11-03 from a byte copy at "
+            "github.com/neuu-org/bible-topics-dataset; CCEL itself was not reachable."}
+
+
+def convert_easton(path, slug="easton", kjv_path=None):
+    b = convert_ccel_dictionary(path, slug, "Easton's Bible Dictionary",
+                                "M. G. Easton (Illustrated Bible Dictionary, 3rd ed., 1897)", kjv_path)
+    s = b.pop("stats")
+    b["rights"] = EASTON_RIGHTS
+    b["scheme"] = {"citation": "headword as a slug (easton:aaron); ~2 for a repeated headword",
+                   "resolution": "entry", "honesty": "exact",
+                   "note": f"{s['entries']:,} entries as CCEL's ThML delimits them (<term>/<def>). "
+                           f"{s['scripture_refs']:,} scripture references, each tagged by CCEL "
+                           f"with its OSIS reference: {s['scripture_resolved']:,} name a verse "
+                           f"(or chapter) the KJV has and link to its kjv: unit; "
+                           f"{s['scripture_unresolved']:,} are kept unresolved with why "
+                           f"{s['unresolved_why']}. A whole-chapter reference links the "
+                           f"chapter's first verse with `end` its last; a range keeps `end`. "
+                           f"{s['scripture_links']:,} links after merging repeats within an entry, "
+                           f"in {s['units_with_scripture']:,} entries. Cross-references: "
+                           f"{s['see_resolved']:,} resolved to an entry ({s['see_how']}: 'number' "
+                           f"is singular for plural or back, 'prefix' the one entry whose name "
+                           f"begins with it; link.match says so), "
+                           f"{s['see_unresolved']:,} name none and are kept unresolved. Italics are not carried. Easton's printed pages are not "
+                           f"in this text, so no page is claimed.",
+                   "stats": s}
+    return b
+
+
+def convert_nave(path, slug="nave", kjv_path=None):
+    b = convert_ccel_dictionary(path, slug, "Nave's Topical Bible",
+                                "Orville J. Nave (1896)", kjv_path)
+    s = b.pop("stats")
+    b["rights"] = NAVE_RIGHTS
+    b["scheme"] = {"citation": "topic as a slug (nave:aaron); ~2 for a repeated topic",
+                   "resolution": "entry (topic); sub-topics are paragraphs inside it, "
+                                 "their depth in lex.levels (2 topic, 3 sub-topic, 4 below)",
+                   "honesty": "exact",
+                   "note": f"{s['entries']:,} topics as CCEL's ThML delimits them. This is the "
+                           f"reference edition (topics, sub-topics and references), not the "
+                           f"printed one that also quotes each verse: the verses are the KJV's "
+                           f"own units, reached by link. {s['scripture_refs']:,} scripture "
+                           f"references, each tagged by CCEL with its OSIS reference: "
+                           f"{s['scripture_resolved']:,} link to a kjv: unit; "
+                           f"{s['scripture_unresolved']:,} are kept unresolved with why "
+                           f"{s['unresolved_why']}. {s['scripture_links']:,} links after merging "
+                           f"repeats within a topic, in {s['units_with_scripture']:,} topics. "
+                           f"'See' references: {s['see_resolved']:,} resolved to a topic "
+                           f"({s['see_how']}: 'topic' is the topic a 'TOPIC, SUB-TOPIC' "
+                           f"reference sits under, 'number' singular for plural, 'prefix' the one "
+                           f"topic whose name begins with it; link.match says so), {s['see_unresolved']:,} name none and are kept unresolved. Headwords print in capitals, "
+                           f"as the source has them.",
+                   "stats": s}
+    return b
+
+
+# Hurlbut's Bible Atlas: The Rand-McNally Bible Atlas, a Manual of Biblical
+# Geography and History, by Jesse L. Hurlbut (Rand, McNally, 1884; this text the
+# 1910 printing), Project Gutenberg 41140, read from the Internet Archive's
+# mirror of Gutenberg. The maps are pictures and are not here. What the text
+# gives honestly is (1) the book's prose, paragraph by paragraph, and (2) its
+# three printed indexes, which ARE a gazetteer: every name on the map of
+# Palestine and on the map of the Old Testament World with its grid square, and
+# the index to the descriptive matter with its printed pages. A name's unit
+# gathers its lines from all three indexes, as printed (a name, not a place:
+# two Apheks share one unit, with both squares). The printed pages are not in
+# the transcription, so "described on" pages are carried but not linked; the
+# prose paragraphs that print the name in bold (=Name=) are linked instead.
+HURLBUT_START = "CHART OF BIBLE HISTORY."
+HURLBUT_PAL = "INDEX TO MAP OF PALESTINE."
+HURLBUT_OTW = "INDEX TO MAP OF OLD TESTAMENT WORLD,"
+HURLBUT_DESC = "INDEX TO DESCRIPTIVE MATTER."
+HURLBUT_END = "Transcriber's Notes:"
+HURLBUT_MAPS = {"palestine": "Map of Palestine (pp. 152-153)",   # contents: "Map on pp. 152, 153"
+                "ot_world": "Map of the Old Testament World (pp. 18-19)"}  # "See Map, pages 18, 19"
+RE_HURLBUT_SQ = re.compile(r"^(\s+)(\S.*?)\s{2,}([A-Z])[- ](\d{1,2})\s*$")
+RE_HURLBUT_DESC = re.compile(r"^\s+(\S.*?),\s*(\d[\d, ]*)$")
+RE_HURLBUT_BOLD = re.compile(r"=([^=\n]{1,80})=")
+RE_HURLBUT_OPEN = re.compile(r"^(?:\(?\d+\.\)?\s+|[IVXL]+\.\s+)*=([^=]{1,80})=")
+RE_HURLBUT_SCRIP = re.compile(r"\b(?:([123])\s?)?([A-Z][a-z]{1,13})\.?\s+(\d{1,3}):(\d{1,3})"
+                              r"(?:\s*[-–]+\s*(\d{1,3})(?!\s*:))?")
+
+
+def _hurlbut_name(label):
+    """'Abronas, _Nahr Ibrahim_, R.' -> ('Abronas, R.', ['Nahr Ibrahim'])."""
+    modern = [m.strip() for m in re.findall(r"_([^_]+)_", label)]
+    name = re.sub(r"_[^_]+_", "", label)
+    name = re.sub(r"\s*,\s*(,\s*)+", ", ", name)
+    name = re.sub(r"\s+", " ", name).strip(" ,")
+    return name, modern
+
+
+def hurlbut_scripture(text, kjv):
+    out, seen, refused = [], set(), 0
+    for m in RE_HURLBUT_SCRIP.finditer(text):
+        num, book, c, v, v2 = m.groups()
+        osis = BREWER_BOOKS.get(book.lower())
+        if not osis:
+            continue
+        if osis in BREWER_NUMBERED or (osis == "John" and num):
+            if not num:
+                refused += 1
+                continue
+            osis = num + osis
+        elif num:
+            continue                     # "2 Acts"? not a citation shape this book uses
+        link = kjv_link(osis, int(c), int(v), 0, int(v2 or 0), m.group(0).strip(), kjv)
+        if not link["resolved"]:
+            refused += 1
+            continue
+        k = (link["osis"], link.get("end"))
+        if k not in seen:
+            seen.add(k)
+            out.append(link)
+    return out, refused
+
+
+def convert_hurlbut_atlas(path, slug="hurlbut-bible-atlas", kjv_path=None):
+    """Hurlbut's Bible Atlas -> prose paragraphs (`slug:text.<chapter>.<para>`)
+    and a gazetteer of the printed indexes (`slug:<name>`)."""
+    kjv = kjv_verse_index(kjv_path)
+    lines = open(path, encoding="latin-1").read().splitlines()
+
+    def at(marker, start=0):
+        for i in range(start, len(lines)):
+            if lines[i].rstrip() == marker:
+                return i
+        raise ValueError(f"marker not found: {marker!r}")
+    b0 = at(HURLBUT_START)
+    i_pal = at(HURLBUT_PAL, b0)
+    i_otw = at(HURLBUT_OTW, i_pal)
+    i_desc = at(HURLBUT_DESC, i_otw)
+    i_end = at(HURLBUT_END, i_desc)
+
+    # ---- the prose
+    paras, cur = [], []
+    for s in lines[b0:i_pal] + [""]:
+        if s.strip():
+            cur.append(s.rstrip())
+        elif cur:
+            paras.append(cur); cur = []
+    units, chapter, sub, c, p, skip, figures = [], None, None, 0, 0, False, 0
+    for para in paras:
+        first, last = para[0].lstrip(), para[-1].rstrip()
+        if skip or first.startswith("[Illustration") or first.startswith("[Transcriber"):
+            if first.startswith("[Illustration"):
+                figures += 1
+            skip = not last.endswith("]")
+            continue
+        if (len(para) == 1 and not para[0].startswith(" ") and len(first) < 90
+                and re.search(r"[A-Z]{2}", first) and first.upper() == first):
+            if re.match(r"^[IVXL]+\.\s", first):
+                sub = first
+            else:
+                chapter, sub, c, p = first, None, c + 1, 0
+            continue
+        p += 1
+        tabular = any(l.startswith("  ") for l in para)
+        raw = "\n".join(para) if tabular else " ".join(l.strip() for l in para)
+        names = [re.sub(r"[.,:;]+$", "", n.strip()) for n in RE_HURLBUT_BOLD.findall(raw)]
+        text = re.sub(r"_([^_\n]+)_", r"\1", RE_HURLBUT_BOLD.sub(r"\1", raw))
+        opener = RE_HURLBUT_OPEN.match(raw.strip())
+        head = re.sub(r"[.,:;]+$", "", opener.group(1).strip()) if opener else None
+        links, _ = hurlbut_scripture(text, kjv)
+        lex = {"chapter": chapter, **({"section": sub} if sub else {}),
+               **({"headword": head} if head else {}), **({"names": names} if names else {})}
+        if tabular:
+            lex["layout"] = "table"
+        units.append({"id": f"{slug}:text.{c}.{p}",
+                      "ref": head or f"Hurlbut, {(chapter or '').rstrip('.').title()}, para. {p}",
+                      "text": text, "links": links, "lex": lex})
+    bold_at = {}
+    for u in units:
+        for n in u["lex"].get("names", []):
+            bold_at.setdefault(brewer_slug(n), []).append(u["id"])
+
+    # ---- the gazetteer: three printed indexes
+    gaz, order, unparsed = {}, [], 0
+
+    def entry(name):
+        k = brewer_slug(name)
+        if k not in gaz:
+            gaz[k] = {"headword": name, "palestine": [], "ot_world": [], "pages": []}
+            order.append(k)
+        return gaz[k]
+    joined = 0
+    for key, a, b in (("palestine", i_pal, i_otw), ("ot_world", i_otw, i_desc)):
+        pending, started = None, False  # (indent, text) of a name wrapped onto a deeper line
+        for s in lines[a + 1:b]:
+            m = RE_HURLBUT_SQ.match(s)
+            if not m:
+                w = re.match(r"^( {2,10})([A-Z].*)$", s)
+                if w and started:
+                    pending = (len(w.group(1)), w.group(2).strip())
+                else:
+                    pending = None
+                continue
+            label, started = m.group(2), True
+            if pending and len(m.group(1)) > pending[0]:
+                label, joined = pending[1] + " " + label, joined + 1
+            elif pending:
+                unparsed += 1
+            pending = None
+            name, modern = _hurlbut_name(label)
+            e = entry(name)
+            e[key].append(dict({"square": f"{m.group(3)}-{m.group(4)}"},
+                               **({"modern": modern} if modern else {})))
+    for s in lines[i_desc + 1:i_end]:
+        m = RE_HURLBUT_DESC.match(s)
+        if m:
+            e = entry(_hurlbut_name(m.group(1))[0])
+            e["pages"] += [int(x) for x in re.findall(r"\d+", m.group(2))]
+        elif s.strip(" *") and not re.fullmatch(r"\s*(PAGE|[A-Z])\s*", s):
+            unparsed += 1
+    n_pal = n_otw = n_desc = 0
+    gunits = []
+    for k in order:
+        e = gaz[k]
+        parts = []
+        if e["palestine"]:
+            n_pal += 1
+            parts.append(f"{HURLBUT_MAPS['palestine']}, square " + "; ".join(x["square"] for x in e["palestine"]) + ".")
+        if e["ot_world"]:
+            n_otw += 1
+            parts.append(f"{HURLBUT_MAPS['ot_world']}, square " + "; ".join(
+                x["square"] + (f" (modern {', '.join(x['modern'])})" if x.get("modern") else "")
+                for x in e["ot_world"]) + ".")
+        if e["pages"]:
+            n_desc += 1
+            parts.append("Described on p" + ("p. " if len(e["pages"]) > 1 else ". ")
+                         + ", ".join(map(str, e["pages"])) + ".")
+        links = [{"kind": "described", "target": t} for t in bold_at.get(k, [])]
+        lex = {"headword": e["headword"], "kind": "gazetteer"}
+        for f in ("palestine", "ot_world", "pages"):
+            if e[f]:
+                lex[f] = e[f]
+        gunits.append({"id": f"{slug}:{k}", "ref": e["headword"],
+                       "text": f"{e['headword']}. " + " ".join(parts), "links": links, "lex": lex})
+    all_units = gunits + units
+    n_scrip = sum(1 for u in units for l in u["links"])
+    n_desc_linked = sum(1 for u in gunits if u["links"])
+    return {"slug": slug,
+            "title": "The Rand-McNally Bible Atlas: A Manual of Biblical Geography and History",
+            "author": "Jesse L. Hurlbut (Rand, McNally & Co., 1884; this text the 1910 printing)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "atlas-gutenberg",
+                       "sha256": sha256(path)},
+            "rights": {"license": "public-domain",
+                       "rights_line": "Project Gutenberg EBook #41140, header read 2026-11-03: no "
+                                      "COPYRIGHTED marker; 'for the use of anyone anywhere at no "
+                                      "cost'. Printed copyrights 1884-1910 (Rand, McNally): US "
+                                      "public domain.",
+                       "source_url": "https://archive.org/details/bibleatlasamanua41140gut",
+                       "redistribute_whole": True},
+            "scheme": {"citation": "gazetteer: the name as a slug (hurlbut-bible-atlas:bethel); "
+                                   "prose: text.<chapter>.<paragraph> in the order of the book",
+                       "resolution": "index entry / paragraph",
+                       "honesty": "the maps are images and are not carried; squares are the "
+                                  "printed index's",
+                       "note": f"{len(gunits):,} gazetteer names from the book's three printed "
+                               f"indexes ({n_pal:,} on the map of Palestine, {n_otw:,} on the map "
+                               f"of the Old Testament World, {n_desc:,} in the index to "
+                               f"descriptive matter); a name's text is its index lines put into "
+                               f"words (map, square, modern name, printed pages), nothing more. "
+                               f"One unit per printed name, not per place: a name two places "
+                               f"share carries both squares. Printed pages are not in the "
+                               f"transcription, so 'described on' is carried, not linked; "
+                               f"{n_desc_linked:,} names instead link the paragraphs that print "
+                               f"them in bold. {len(units):,} prose paragraphs in {c} chapters "
+                               f"(a chapter is a top-level capitals heading; roman-numbered "
+                               f"headings are lex.section); a paragraph that opens with a bold "
+                               f"name takes that name as its ref. Tables keep their line layout "
+                               f"(lex.layout). {figures} illustrations and their captions are "
+                               f"left out. {n_scrip:,} scripture citations (\"Gen. 12:6-8\") "
+                               f"parsed to kjv: verses and checked against the KJV's verse list; "
+                               f"one that names no KJV verse is left out. {joined} index names "
+                               f"wrapped onto a second line were joined; {unparsed} index lines "
+                               f"did not parse. The Gutenberg transcribers corrected the printed "
+                               f"typos they list at the end of the book."},
+            "units": all_units}
+
+
 # ---------------------------------------------------------------- Gutenberg .txt
 
 def strip_boilerplate(raw):
@@ -7368,6 +7883,12 @@ def main():
                            ("bdb-hebrew",     "bdb-hebrew.tsv",     convert_bdb),
                            ("thayer",         "thayer-pages.json",  convert_thayer),
                            ("brewer",         "brewer-1894.paras.json", convert_brewer)):
+        p = os.path.join(CORPUS, "lexicons", fn)
+        if os.path.exists(p):
+            jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
+    for slug, fn, conv in (("easton", "easton-ebd.xml", convert_easton),
+                           ("nave", "nave-bible.xml", convert_nave),
+                           ("hurlbut-bible-atlas", "hurlbut-bible-atlas.txt", convert_hurlbut_atlas)):
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
