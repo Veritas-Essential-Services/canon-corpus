@@ -2,6 +2,7 @@
 # prov: 2026-10-06 claude-opus-5-5 drafted
 # prov: 2026-10-17 claude-opus-5-5 added the treasury layer
 # prov: 2026-10-23 claude-opus-5-5 added the collections layer
+# prov: 2026-11-03 claude-opus-5-5 added the declamations layer, mirror pins, --layer
 # fable_review: pending
 """
 build_poetry.py -- the Word Hoard poetry section: AmblesideOnline's poetry
@@ -12,18 +13,22 @@ as Mnemonicon memory packs a child can bank straight into memory work.
     python3 pipeline/build_poetry.py            # build, mint once, write
     python3 pipeline/build_poetry.py --check    # rebuild, assert 0 minted and byte-identical
     python3 pipeline/build_poetry.py --report   # print the extraction table; write nothing
+    python3 pipeline/build_poetry.py --layer declamations [--check]   # build (or check) one layer's own files only
 
     Input:  data/poetry/selections/ao.jsonl               (AO's schedule, curated)
             data/poetry/selections/addendum-heroic.jsonl  (the house's proposals, curated)
             data/poetry/selections/treasury.jsonl         (the candidate pool; select_treasury.py)
             data/poetry/selections/collections.jsonl      (whole books of a poet's, curated)
+            data/poetry/selections/declamations.jsonl     (the pool's prose pieces; select_declamations.py)
             data/poetry/sources.json                      (the Gutenberg books, pinned by sha256)
             data/corpus/gitenberg/<n>.txt                 (fetched; gitignored)
     Output: data/poetry/catalog-ao.jsonl                  (COMMITTED)
             data/poetry/catalog-addendum-heroic.jsonl     (COMMITTED)
             data/poetry/catalog-treasury[-N].jsonl        (COMMITTED)
             data/poetry/catalog-collections.jsonl         (COMMITTED)
+            data/poetry/catalog-declamations[-N].jsonl    (COMMITTED)
             data/poetry/texts[-N].jsonl                   (COMMITTED; public domain only)
+            data/poetry/declamations-texts[-N].jsonl      (COMMITTED; the declamations' hosted texts)
             A file over SHARD bytes is cut into numbered parts (texts-1.jsonl, ...) to stay
             under the 5 MB cap; read them with read_parts().
             exports/mnemonicon/poetry/<pack>.json         (COMMITTED; one per year and term)
@@ -43,6 +48,9 @@ THREE LAYERS, ONE SHAPE
     Cowper's translations of Madame Guyon); each row names its `collection`,
     which is its tag and its pack. A poem in two layers is
     ONE poem: one citation, one uid, one Mnemonicon piece id.
+    The fifth, `declamations`, is not verse: the pool's speeches and prose
+    pieces (select_declamations.py), cited `declamations:<author>.<title>`,
+    cut as paragraphs, texts in their own file, packs `declamation-pg<n>`.
 
 THE RIGHTS RULE (US, as of 1 January 2026)
     Copyright follows the edition, not the poet's death (ADR 0001). So the
@@ -101,7 +109,12 @@ _X = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_X)
 NAMESPACE = _X.NAMESPACE          # one namespace for every Word Hoard piece: never change it
 
-LAYERS = ("ao", "addendum-heroic", "treasury", "collections")
+LAYERS = ("ao", "addendum-heroic", "treasury", "collections", "declamations")
+PACK_PREFIX = {"ao": "ao-", "addendum-heroic": "heroic-", "treasury": "treasury-",
+               "collections": "collection-", "declamations": "declamation-"}
+TEXTS_BASE = {"declamations": "declamations-texts"}      # every other layer shares "texts"
+PROSE_PART = 250                  # a declamation is banked in parts of whole paragraphs, about this many words
+PROSE_LONG = 400                  # ...when it runs longer than this
 AS_OF = 2026                      # the year the rights rule is computed for
 PD_BEFORE = AS_OF - 95            # published before this year: US public domain
 LIFE70_BEFORE = AS_OF - 70        # died before this year: out of copyright in life+70 countries
@@ -182,9 +195,15 @@ def norm(s):
 
 
 def citation(row):
-    """poetry:<poet>.<title> -- the address; the uid is the identity."""
+    """poetry:<poet>.<title> -- the address; the uid is the identity. A
+    declamation (prose, not a poem) is declamations:<author>.<title>."""
     v = f".{row['variant']}" if row.get("variant") else ""   # a second poem of one title in one term
-    return f"poetry:{slug(row['poet'])}.{slug(row['title'])}{v}"
+    sect = "declamations" if row.get("layer") == "declamations" else "poetry"
+    return f"{sect}:{slug(row['poet'])}.{slug(row['title'])}{v}"
+
+
+def texts_base(cit):
+    return TEXTS_BASE["declamations"] if cit.startswith("declamations:") else "texts"
 
 
 def gutenberg_url(n):
@@ -200,42 +219,51 @@ def load_sources():
         return json.load(f)
 
 
-def book_path(n):
-    return os.path.join(CORPUS, f"{n}.txt")
+def book_path(n, mirror=False):
+    """The fetched book. A `mirror` copy is the GITenberg file a source's
+    `mirror` pin names: a second, separately pinned transcription of the same
+    Gutenberg book (the declamations are cut from it; see README)."""
+    return os.path.join(CORPUS, f"{n}.mirror.txt" if mirror else f"{n}.txt")
 
 
 def fetch(sources):
     os.makedirs(CORPUS, exist_ok=True)
     bad = []
     for n, s in sorted(sources["books"].items(), key=lambda kv: int(kv[0])):
-        p = book_path(n)
-        if os.path.exists(p):
-            continue
-        try:
-            with urllib.request.urlopen(s["raw_url"], timeout=60) as r:
-                blob = r.read()
-        except Exception as e:  # noqa: BLE001 -- report and carry on; resumable
-            bad.append((n, str(e)))
-            continue
-        write_atomic(p, blob)
-        print(f"  fetched {n:>6}  {len(blob):>9,} bytes  {s['title']}")
+        for p, url in ((book_path(n), s["raw_url"]),
+                       (book_path(n, True), (s.get("mirror") or {}).get("raw_url"))):
+            if not url or os.path.exists(p):
+                continue
+            try:
+                with urllib.request.urlopen(url, timeout=60) as r:
+                    blob = r.read()
+            except Exception as e:  # noqa: BLE001 -- report and carry on; resumable
+                bad.append((n, f"{url}: {e}"))
+                continue
+            write_atomic(p, blob)
+            print(f"  fetched {n:>6}  {len(blob):>9,} bytes  {s['title']}" + ("  (mirror)" if p.endswith(".mirror.txt") else ""))
     for n, e in bad:
         print(f"  FAILED  {n}: {e}")
     return not bad
 
 
-def read_book(n, src):
+def read_book(n, src, mirror=False):
     """The book's text between the Gutenberg START and END lines, after the
     rights checks. Refuses a copyrighted eBook and a file that is not the
-    pinned one."""
-    p = book_path(n)
+    pinned one. `mirror` reads the separately pinned mirror copy, decoded
+    with the encoding its pin records."""
+    p = book_path(n, mirror)
+    pin = (src.get("mirror") or {}) if mirror else src
+    if mirror and not pin.get("sha256"):
+        return None, f"PG #{n} has no mirror pin"
     if not os.path.exists(p):
         return None, "not fetched (run --fetch)"
     blob = open(p, "rb").read()
     sha = hashlib.sha256(blob).hexdigest()
-    if src.get("sha256") and src["sha256"] != sha:
-        return None, f"sha256 {sha[:12]} is not the pinned {src['sha256'][:12]}"
-    text = blob.decode("utf-8", errors="replace").replace("\r\n", "\n").replace("\r", "\n")
+    if pin.get("sha256") and pin["sha256"] != sha:
+        return None, f"sha256 {sha[:12]} is not the pinned {pin['sha256'][:12]}"
+    text = blob.decode(pin.get("encoding") or "utf-8", errors="replace")
+    text = (text.lstrip("\ufeff") if mirror else text).replace("\r\n", "\n").replace("\r", "\n")
     head = text[:6000]
     if re.search(r"COPYRIGHTED\s+PROJECT\s+GUTENBERG", head, re.I):
         return None, "the Gutenberg header says COPYRIGHTED: refused"
@@ -382,15 +410,20 @@ def _body(lines, i, rule, h):
         i += 1
     gap = rule.get("gap", 2)
     end_re = re.compile(rule["end"]) if rule.get("end") else None
+    drop_re = re.compile(rule["drop"]) if rule.get("drop") else None
     body, blanks = [], 0
     j = i
     while j < len(lines):
         l = lines[j]
         if end_re and end_re.search(l):
             break
-        if re.match(r"^\s*\[(?:Illustration|Footnote|Sidenote)", l, re.I):
+        if drop_re and drop_re.search(l):      # a per-book stray line: a running head and page number
+            j += 1
+            continue
+        if re.match(r"^\s*\[(?:Illustration|Footnote|Sidenote)", l, re.I) or (
+                rule.get("skip_notes") and re.match(rule["skip_notes"], l)):
             while j < len(lines) and not lines[j].rstrip().endswith("]"):
-                j += 1                         # a caption block, however many lines: not the poem
+                j += 1                         # a caption block (or a `skip_notes` note), however many lines: not the poem
             j += 1
             while j < len(lines) and not lines[j].strip():
                 j += 1                         # nor the blank lines around it: invisible, not a break
@@ -434,9 +467,50 @@ def _body(lines, i, rule, h):
     for bad, good in rule.get("fix", []):      # a printer's or transcriber's typo, mended here, never in the book
         body = [l.replace(bad, good) for l in body]
     body = _tidy(body, rule)
+    if rule.get("para_numbers") or rule.get("reflow"):
+        body = _paragraphs(body, rule)
     if not body:
         return None, "empty body"
     return "\n".join(body), f"line {h + 1}"
+
+
+def _paragraphs(body, rule):
+    """Prose (the declamations): `para_numbers` drops a reader's paragraph
+    number ("3. ") from the head of each paragraph, and a numbered line
+    always begins one (a reader that prints them without blank lines
+    between); `reflow` joins the transcription's wrapped lines so each
+    printed paragraph is one line. A paragraph whose every line is
+    indented is a quotation set as verse and keeps its lines. With
+    `join_pages` (a transcription that keeps the printed page breaks) a
+    blank line does not end a paragraph: a numbered line begins one, and
+    with `speakers` so does a speaker's name ("Mr. L. You want nothing?")."""
+    speaker = re.compile(r"^\s*(?:(?:Mr|Mrs|Dr)\.\s+)?[A-Z][a-z]*\.\s+[A-Z\"']")
+    paras, cur = [], []
+    for l in body:
+        if l.strip() and cur and (rule.get("para_numbers") and re.match(r"^\s*\d{1,2}\.\s+\S", l)
+                                  or rule.get("speakers") and speaker.match(l)):
+            paras.append(cur)
+            cur = []
+        if l.strip():
+            cur.append(l)
+        elif cur and not rule.get("join_pages"):
+            paras.append(cur)
+            cur = []
+    if cur:
+        paras.append(cur)
+    out = []
+    for p in paras:
+        if rule.get("para_numbers"):
+            p = [re.sub(r"^(\s*)\d{1,2}\.\s+(?=\S)", r"\1", p[0])] + p[1:]
+        if rule.get("reflow") and not all(l.startswith("  ") for l in p):
+            joined = ""
+            for l in (x.strip() for x in p):
+                joined += ("" if not joined or joined.endswith("--") else " ") + l
+            p = [re.sub(r" {2,}", " ", joined)]
+        if out:
+            out.append("")
+        out.extend(p)
+    return out
 
 
 def _tidy(body, rule):
@@ -486,7 +560,8 @@ def rights(row, src, text_ok, why):
     elif died:
         elsewhere = f"{row['poet']} died {died}: out of copyright in life + 70 countries too."
     else:
-        elsewhere = "Poet's death year not recorded; check before relying on it outside the US."
+        who = "Author's" if row.get("layer") == "declamations" else "Poet's"
+        elsewhere = f"{who} death year not recorded; check before relying on it outside the US."
 
     pg = f"Project Gutenberg #{ps['gutenberg']}" if ps.get("gutenberg") else None
     first = (f" First published {fy}" + (f" in {fp['work']}" if fp.get("work") else "") + ".") if fy else ""
@@ -540,10 +615,17 @@ def pack_name(row):
         return f"treasury-pg{n}"
     if row["layer"] == "collections":               # one pack per collection
         return f"collection-{row['collection']}"
+    if row["layer"] == "declamations":              # one pack per source book
+        return f"declamation-pg{(row.get('pd_source') or {}).get('gutenberg')}"
     return f"heroic-y{int(row['year']):02d}-t{row['term']}"
 
 
 def tags_for(row):
+    if row["layer"] == "declamations":
+        t = ["declamation", "declamations", f"pg{(row.get('pd_source') or {}).get('gutenberg')}"]
+        if (row.get("grade_hint") or {}).get("mcguffey_reader"):
+            t.append(f"mcguffey-{row['grade_hint']['mcguffey_reader']}")
+        return [x.lower() for x in t + [slug(row["poet"])]]
     t = ["poetry", row["layer"]]
     y = str(row["year"])
     if row["layer"] == "ao":
@@ -586,14 +668,42 @@ def split_parts(text):
     return ["\n\n".join(p) for p in parts]
 
 
-def build(reg, report=False):
+def split_prose(text):
+    """A long declamation as parts of whole paragraphs, about PROSE_PART words
+    each; a paragraph too long for one part breaks after a sentence."""
+    paras = []
+    for p in (p for p in text.split("\n\n") if p.strip()):
+        while len(p.split()) > PROSE_PART * 3 // 2:
+            ends = [m.end() for m in re.finditer(r"[.;!?]['\u2019\"\u201d]?(?= )", p)]
+            fits = [e for e in ends if 60 <= len(p[:e].split()) <= PROSE_PART * 3 // 2
+                    and len(p[e:].split()) >= 60]
+            if not fits:
+                break
+            cut = min(fits, key=lambda e: abs(len(p[:e].split()) - PROSE_PART))
+            paras.append(p[:cut])
+            p = p[cut:].lstrip()
+        paras.append(p)
+    parts, cur, n = [], [], 0
+    for p in paras:
+        k = len(p.split())
+        if cur and n + k > PROSE_PART:
+            parts.append(cur)
+            cur, n = [], 0
+        cur.append(p)
+        n += k
+    if cur:
+        parts.append(cur)
+    return ["\n\n".join(p) for p in parts]
+
+
+def build(reg, report=False, layers=LAYERS):
     sources = load_sources()
     books = {}
-    catalogs = {layer: [] for layer in LAYERS}
+    catalogs = {layer: [] for layer in layers}
     texts = {}
     log = []
     seen = {}
-    for layer in LAYERS:
+    for layer in layers:
         for row in read_jsonl(os.path.join(SEL, f"{layer}.jsonl")):
             row = dict(row)
             row["layer"] = layer
@@ -602,13 +712,14 @@ def build(reg, report=False):
             ps = row.get("pd_source") or {}
             text, why = None, row.get("no_text_reason")
             n = str(ps.get("gutenberg")) if ps.get("gutenberg") else None
+            mirror = ps.get("copy") == "mirror"
             if n and not row.get("no_text_reason"):
                 if n not in sources["books"]:
                     why = f"PG #{n} is not in sources.json"
                 else:
-                    if n not in books:
-                        books[n] = read_book(n, sources["books"][n])
-                    lines, info = books[n]
+                    if (n, mirror) not in books:
+                        books[(n, mirror)] = read_book(n, sources["books"][n], mirror)
+                    lines, info = books[(n, mirror)]
                     if lines is None:
                         why = info
                     else:
@@ -643,16 +754,27 @@ def build(reg, report=False):
                 out["pool_id"], out["n_books"] = row.get("pool_id"), row.get("n_books")
             if layer == "collections":
                 out["collection"], out["collection_title"] = row["collection"], row["collection_title"]
+            if layer == "declamations":
+                out["status"] = "candidate"
+                for k in ("pool_id", "n_books", "books", "form", "grade_hint", "printed_heading",
+                          "headnote", "signed", "named_in_plan"):
+                    out[k] = row.get(k)
+                out["words"] = len(text.split()) if text else None
             catalogs[layer].append(out)
             if host == "full":
                 lines_n = text.count("\n") + 1
                 prev = texts.get(uid)
                 if prev and prev["text"] != text:
                     raise SystemExit(f"{cit}: two layers extracted different texts")
+                pin = (sources["books"][n].get("mirror") or {}) if mirror else sources["books"][n]
                 texts[uid] = {"uid": uid, "citation": cit, "poet": row["poet"], "title": row["title"],
                               "source": {"gutenberg": int(n), "work": ps["work"], "edition_year": ps["edition_year"],
-                                         "sha256": sources["books"][n].get("sha256")},
+                                         "sha256": pin.get("sha256")},
                               "lines": lines_n, "text": text}
+                if mirror:
+                    texts[uid]["source"]["copy"] = "mirror"
+                if layer == "declamations":
+                    texts[uid]["words"] = len(text.split())
             log.append((layer, row["year"], row.get("term"), row["poet"], row["title"], host,
                         texts[uid]["lines"] if host == "full" else 0, why or ""))
             seen.setdefault(cit, []).append(layer)
@@ -675,6 +797,9 @@ def pieces_for(cat_rows, texts, layer_title):
             where = f"Schoolroom Treasury candidate, printed in {row.get('n_books')} of the pool's old anthologies"
         elif row["layer"] == "collections":
             where = f"{row['collection_title']}, poem {row['order']}"
+        elif row["layer"] == "declamations":
+            where = (f"Declamation candidate ({'a speech or prose piece' if row.get('form') == 'prose' else 'a speech in verse'}),"
+                     f" printed in {row.get('n_books')} of the pool's old readers and speakers")
         else:
             where = f"Heroic addendum (proposed), beside AO Year {row['year']}, Term {row['term']}"
         ed = f" ({src['edition_year']})" if src.get("edition_year") else ""
@@ -682,13 +807,19 @@ def pieces_for(cat_rows, texts, layer_title):
                       f"{row['rights']['basis']}\nWord Hoard {row['citation']} · {row['uid']}")
         category = "Song" if row.get("kind") == "song" else "Poetry"
         parts = split_parts(t["text"]) if t["lines"] > LONG else [t["text"]]
+        whole = "A long poem, banked in {} parts of whole stanzas."
+        if row["layer"] == "declamations":
+            category = "Monologue"             # a piece spoken alone, from memory
+            if row.get("form") == "prose":
+                parts = split_prose(t["text"]) if t["words"] > PROSE_LONG else [t["text"]]
+                whole = "A long piece, banked in {} parts of whole paragraphs."
         for k, body in enumerate(parts, 1):
             if len(parts) == 1:
                 pid, title, notes = str(uuid.uuid5(NAMESPACE, row["uid"])), row["title"], base_notes
             else:
                 pid = str(uuid.uuid5(NAMESPACE, f"{row['uid']}#part{k}"))
                 title = f"{row['title']}, part {k} of {len(parts)}"
-                notes = base_notes + f"\nA long poem, banked in {len(parts)} parts of whole stanzas."
+                notes = base_notes + "\n" + whole.format(len(parts))
             packs.setdefault(row["pack"], []).append({
                 "id": pid, "createdAt": when, "updatedAt": when,
                 "title": title, "source": source, "category": category, "translation": "",
@@ -698,20 +829,34 @@ def pieces_for(cat_rows, texts, layer_title):
     return packs
 
 
+def text_bases(layers=LAYERS):
+    """The texts files these layers own whole: "texts" is shared by every
+    poetry layer, so only a build of all of them writes it."""
+    bases = {TEXTS_BASE[l] for l in layers if l in TEXTS_BASE}
+    if all(l in layers for l in LAYERS if l not in TEXTS_BASE):
+        bases.add("texts")
+    return sorted(bases)
+
+
 def render_all(catalogs, texts):
     blobs = {}
     for layer, rows in catalogs.items():
         blobs.update(sharded(os.path.join(DATA, f"catalog-{layer}"), rows))
         for name, pieces in pieces_for(rows, texts, layer).items():
             blobs[os.path.join(PACKS, f"{name}.json")] = _X.render(pieces)
-    blobs.update(sharded(os.path.join(DATA, "texts"), sorted(texts.values(), key=lambda t: t["citation"])))
+    for base in text_bases(tuple(catalogs)):
+        rows = sorted((t for t in texts.values() if texts_base(t["citation"]) == base), key=lambda t: t["citation"])
+        blobs.update(sharded(os.path.join(DATA, base), rows))
     return blobs
 
 
-def built_paths():
-    """Every file a build owns, as it is now on disk: the packs and every catalog and texts part."""
-    have = {os.path.join(PACKS, f) for f in os.listdir(PACKS)} if os.path.isdir(PACKS) else set()
-    for base in [f"catalog-{l}" for l in LAYERS] + ["texts"]:
+def built_paths(layers=LAYERS):
+    """Every file a build of these layers owns, as it is now on disk: their
+    packs and every catalog and texts part."""
+    pre = tuple(PACK_PREFIX[l] for l in layers)
+    have = ({os.path.join(PACKS, f) for f in os.listdir(PACKS) if f.startswith(pre)}
+            if os.path.isdir(PACKS) else set())
+    for base in [f"catalog-{l}" for l in layers] + text_bases(layers):
         have.update(part_paths(os.path.join(DATA, base)))
     return have
 
@@ -722,13 +867,16 @@ def main():
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--uids", default=UIDS)
+    ap.add_argument("--layer", action="append", choices=LAYERS,
+                    help="build, check or write only this layer's own files (repeatable)")
     a = ap.parse_args()
+    layers = tuple(l for l in LAYERS if l in a.layer) if a.layer else LAYERS
     if a.fetch:
         ok = fetch(load_sources())
         print("  DONE: all fetched/present" if ok else "  some fetches failed; rerun (resumable)")
         return
     reg = U.WhUidRegistry(a.uids)
-    catalogs, texts, log = build(reg)
+    catalogs, texts, log = build(reg, layers=layers)
     if a.report:
         for l in log:
             print("  " + " | ".join(str(x) for x in l))
@@ -742,14 +890,14 @@ def main():
     if a.check:
         reg.assert_no_mint()
         stale = [os.path.relpath(p, ROOT) for p, b in blobs.items() if not os.path.exists(p) or open(p, "rb").read() != b]
-        extra = sorted(os.path.relpath(p, ROOT) for p in built_paths() - set(blobs))
+        extra = sorted(os.path.relpath(p, ROOT) for p in built_paths(layers) - set(blobs))
         if stale or extra:
             raise SystemExit(f"CHECK FAILED: differs from committed: {stale} extra: {extra}")
         print("  CHECK PASSED: minted 0, output byte-identical.")
         return
     if a.report:
         return
-    for p in built_paths() - set(blobs):
+    for p in built_paths(layers) - set(blobs):
         os.remove(p)
     for p, b in blobs.items():
         write_atomic(p, b)

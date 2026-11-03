@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # prov: 2026-10-06 claude-opus-5-5 drafted
+# prov: 2026-11-03 claude-opus-5-5 added the declamations layer
 # fable_review: pending
 """
 poetry_test.py -- the validator for the poetry section (pipeline/build_poetry.py).
@@ -54,7 +55,7 @@ def rj(path):
 DATA = B.DATA
 cats = {layer: B.read_parts(os.path.join(DATA, f"catalog-{layer}")) for layer in B.LAYERS}
 sels = {layer: rj(os.path.join(B.SEL, f"{layer}.jsonl")) for layer in B.LAYERS}
-texts = {t["uid"]: t for t in B.read_parts(os.path.join(DATA, "texts"))}
+texts = {t["uid"]: t for base in B.text_bases() for t in B.read_parts(os.path.join(DATA, base))}
 reg = U.WhUidRegistry(B.UIDS)
 sources = B.load_sources()["books"]
 
@@ -95,9 +96,14 @@ check("nothing is hosted that is not US public domain",
 late = [r for r in allrows if (r.get("first_pub") or {}).get("year") and r["first_pub"]["year"] >= B.PD_BEFORE]
 check(f"every poem first published {B.PD_BEFORE} or later is linked out ({len(late)})",
       all(r["host"] == "link" and r["rights"]["us"] == "in-copyright" for r in late))
-check("a hosted text names a pinned, non-COPYRIGHTED Gutenberg book",
+def _pin(t):
+    s = sources.get(str(t["source"]["gutenberg"])) or {}
+    return (s.get("mirror") or {}) if t["source"].get("copy") == "mirror" else s
+
+
+check("a hosted text names a pinned, non-COPYRIGHTED Gutenberg book (or its pinned mirror copy)",
       all(str(t["source"]["gutenberg"]) in sources and not sources[str(t["source"]["gutenberg"])].get("copyrighted_header")
-          and t["source"]["sha256"] == sources[str(t["source"]["gutenberg"])]["sha256"] for t in texts.values()))
+          and t["source"]["sha256"] and t["source"]["sha256"] == _pin(t).get("sha256") for t in texts.values()))
 r, host = B.rights({"poet": "X", "poet_died": 1960, "first_pub": {"work": "W", "year": 1935}, "pd_source": None}, None, False, None)
 check("a 1935 poem is in copyright and linked", r["us"] == "in-copyright" and host == "link", r)
 r, host = B.rights({"poet": "X", "poet_died": 1960, "first_pub": {"year": 1920},
@@ -126,8 +132,9 @@ check("no text is empty, and none keeps Gutenberg's underscores or [Illustration
 check("texts are LF, no trailing spaces, no doubled blank lines",
       all("\r" not in t["text"] and all(l == l.rstrip() for l in t["text"].split("\n")) and "\n\n\n" not in t["text"]
           for t in texts.values()))
-check("no hosted text reads as wrapped prose", not [t for t in texts.values() if B._prose(t["text"])],
-      [t["citation"] for t in texts.values() if B._prose(t["text"])][:5])
+_verse = [t for t in texts.values() if t["citation"].startswith("poetry:")]
+check("no hosted poem reads as wrapped prose", not [t for t in _verse if B._prose(t["text"])],
+      [t["citation"] for t in _verse if B._prose(t["text"])][:5])
 
 big = sorted(os.path.relpath(p, REPO) for p in B.built_paths() if os.path.getsize(p) > 5_000_000)
 check("every committed catalog, texts part and pack is under 5 MB", not big, big)
@@ -178,6 +185,56 @@ in_packs = {p["notes"].rsplit("· ", 1)[-1].split("\n")[0] for _, ps in packs.va
 check("every hosted poem is in a pack", in_packs == hosted, (len(hosted - in_packs), len(in_packs - hosted)))
 check("a long poem is banked in parts of whole stanzas, each part within reach",
       all(p["text"].count("\n") + 1 <= B.PART + 40 for _, ps in packs.values() for p in ps if ", part " in p["title"]))
+
+print("\n## declamations")
+D = load("select_declamations", os.path.join(REPO, "pipeline", "select_declamations.py"))
+dec, dsel = cats["declamations"], {B.citation(dict(r, layer="declamations")): r for r in sels["declamations"]}
+check("declamations: every row is a candidate tied to its pool entry (or named in the plan)",
+      all(r.get("status") == "candidate" and (r.get("pool_id") or r.get("named_in_plan")) for r in dec))
+check("declamations: every citation is declamations:<author>.<title>, and is no poem's",
+      all(r["citation"].startswith("declamations:") for r in dec)
+      and not [r for l, rows in cats.items() if l != "declamations" for r in rows if r["citation"].startswith("declamations:")])
+check("declamations: every row records its source audiences, and a McGuffey row its reader and lesson",
+      all(isinstance((r.get("grade_hint") or {}).get("audiences"), list) for r in dec)
+      and all(r["grade_hint"].get("mcguffey_reader") == D.MCGUFFEY[r["pd_source"]["gutenberg"]]
+              and re.fullmatch(r"[IVXLC]+|\d+", r["grade_hint"].get("lesson") or "")
+              for r in dec if r["pd_source"]["gutenberg"] in D.MCGUFFEY and r["host"] == "full"),
+      [r["citation"] for r in dec if r["pd_source"]["gutenberg"] in D.MCGUFFEY and r["host"] == "full"
+       and not (r.get("grade_hint") or {}).get("lesson")][:5])
+check("declamations: cut from the pinned mirror copy, and from a pre-1931 printing",
+      all(r["pd_source"].get("copy") == "mirror" and r["pd_source"]["edition_year"] < B.PD_BEFORE for r in dec))
+check("declamations: a linked-out row says why", all(r["host"] == "full" or dsel[r["citation"]].get("no_text_reason")
+                                                     for r in dec))
+_dt = {r["uid"]: texts[r["uid"]]["text"] for r in dec if r["host"] == "full"}
+_bad = [r["citation"] for r in dec if r["host"] == "full" and B.norm(_dt[r["uid"]].split("\n")[0])[:40]
+        != B.norm(re.sub(r"^\d{1,2}\.\s+", "", dsel[r["citation"]]["first_line"]))[:40]]
+check("declamations: a hosted piece begins at the first line the row records", not _bad, _bad[:5])
+_bad = [r["citation"] for r in dec if r["host"] == "full" and (
+    re.search(r"DEFINITIONS|EXERCISES|^#{2,}$|ECLECTIC SERIES|THIRD READER|\t|^Notes?\.--|^NOTES?\b", _dt[r["uid"]], re.M)
+    or D.BIO.match(_dt[r["uid"]]))]
+check("declamations: no hosted text keeps a reader's apparatus (notes, definitions, running heads) or "
+      "opens with the editor's life of the author", not _bad, _bad[:5])
+_bad = [r["citation"] for r in dec if r["host"] == "full" and r["form"] == "prose"
+        and any(len(p.split("\n")) > 1 and not all(l.startswith("  ") for l in p.split("\n"))
+                for p in _dt[r["uid"]].split("\n\n"))]
+check("declamations: a prose piece is one line per paragraph (a quotation set as verse keeps its lines)", not _bad, _bad[:5])
+check(f"declamations: every hosted piece is {D.MIN_WORDS} to {D.MAX_WORDS} words",
+      all(D.MIN_WORDS <= r["words"] <= D.MAX_WORDS for r in dec if r["host"] == "full"))
+_other = {B.norm(t["text"].split("\n")[0])[:40] for t in texts.values() if t["citation"].startswith("poetry:")}
+_bad = [r["citation"] for r in dec if r["host"] == "full" and B.norm(_dt[r["uid"]].split("\n")[0])[:40] in _other]
+check("declamations: no piece repeats a poem another layer already hosts", not _bad, _bad[:5])
+_named = {r["named_in_plan"]: r for r in dec if r.get("named_in_plan")}
+check("declamations: the plan's Gettysburg Address, Patrick Henry and Crispin's Day are hosted",
+      len(_named) == 3 and all(r["host"] == "full" for r in _named.values())
+      and any("Gettysburg" in k for k in _named) and any("Patrick Henry" in k for k in _named)
+      and any("Crispin" in k for k in _named), sorted(_named))
+_dp = [p for f, (_, ps) in packs.items() if f.startswith("declamation-") for p in ps]
+check("declamations: packs are one per source book, filed as Monologue",
+      _dp and all(p["category"] == "Monologue" for p in _dp)
+      and {f"declamation-pg{r['pd_source']['gutenberg']}.json" for r in dec if r["host"] == "full"}
+      == {f for f in packs if f.startswith("declamation-")})
+check(f"declamations: a long prose piece is banked in parts of whole paragraphs, none much over {B.PROSE_PART} words",
+      all(len(p["text"].split()) <= B.PROSE_PART * 3 // 2 for p in _dp if ", part " in p["title"]))
 
 print("\n## the cutter, on fixtures")
 book = """CONTENTS
@@ -235,6 +292,83 @@ finally:
     os.remove(fake)
 check("a COPYRIGHTED Gutenberg eBook is refused", lines is None and "COPYRIGHTED" in why, why)
 
+reader = """LESSON IX.
+
+THE OWL AND THE BOY.
+1. An owl sat on a tree. A boy saw
+him, and said, "Good day."
+
+	THIRD READER. 	9
+2. The owl said nothing.
+Boy. Why not?
+Owl. Owls do not talk.
+
+LESSON X.
+""".split("\n")
+t, _ = B.extract(reader, "x", {"first_line": r"^1\. An owl", "end": r"^LESSON X\.", "gap": 99, "keep_headings": True,
+                               "reflow": True, "para_numbers": True, "join_pages": True, "drop": r"^\s*\d*\s*\t"})
+check("prose: paragraph numbers dropped, a page's running head dropped, wrapped lines joined",
+      t == 'An owl sat on a tree. A boy saw him, and said, "Good day."\n\nThe owl said nothing. Boy. Why not? Owl. Owls do not talk.', t)
+t, _ = B.extract(reader, "x", {"first_line": r"^2\. The owl", "end": r"^LESSON X\.", "gap": 99, "keep_headings": True,
+                               "reflow": True, "join_pages": True, "speakers": True})
+check("prose: with `speakers`, each speaker's line is its own paragraph",
+      t == "2. The owl said nothing.\n\nBoy. Why not?\n\nOwl. Owls do not talk.", t)
+speech = """IV.
+
+          AGAINST DELAY.
+
+Sir, we have done everything that could be done to avert the storm which is
+now coming on. We have petitioned; we have remonstrated; we have supplicated;
+we have prostrated ourselves before the throne, and have implored its
+interposition to arrest the tyrannical hands of the ministry and Parliament.
+
+[Transcriber's Note: a note
+on two lines.]
+
+     "Lay on, Macduff,
+     And damn'd be him that first cries, 'Hold, enough!'"
+
+There is no retreat but in submission and slavery! Our chains are forged!
+                                     P. Henry.
+
+
+                                   V.
+""".split("\n")
+_fl = "Sir, we have done everything that could be done to avert the storm which is"
+t, info = D.cut(speech, 7211, {"title": "Against Delay", "first_line": _fl},
+                {"title": "Against Delay", "first_line": _fl, "order": 4},
+                {"title": "Next", "first_line": "Nothing here at all", "order": 5})
+check("declamations cutter: starts under the heading, stops above the signature, skips the transcriber's note, "
+      "keeps a verse quotation's lines",
+      t is not None and t.startswith("Sir, we have done everything that could be done to avert") and t.endswith("forged!")
+      and "Transcriber" not in t and "\n\n     \"Lay on, Macduff,\n     And damn'd" in t
+      and info["signed"] == "P. Henry." and info["form"] == "prose", (t, info))
+t2, _ = B.extract(speech, "x", info["extract"])
+check("declamations cutter: the stored rule replays to the same text", t2 == t, t2)
+mcg = """XIX. A SPEECH. (115)
+
+Patrick Henry, 1736-1799, was born in Virginia.
+###
+
+
+It is natural for man to indulge in the illusions of hope. We are apt to shut
+our eyes against a painful truth, and listen to the song of that siren till she
+transforms us into beasts.
+
+
+NOTES.--Siren, a sea nymph.
+""".split("\n")
+_, info = D.cut(mcg, 16751, {}, {"title": "A Speech", "first_line": "Patrick Henry, 1736-1799, was born in Virginia.",
+                                 "order": 1}, None)
+check("declamations cutter: McGuffey's life of the author is passed over (kept as the headnote), NOTES end the cut",
+      isinstance(info, dict) and info["first_line"].startswith("It is natural") and "born" in info["headnote"]
+      and info["lesson"] == "XIX", info)
+check("declamations: two printings of a speech are one piece, a salutation aside",
+      D.same_piece("Mr. President, It is natural for man to indulge in the illusions of hope.",
+                   "It is natural for man to indulge in the illusions of hope. We are apt to")
+      and not D.same_piece("Mr. President and Gentlemen of the Union League:--It was my good fortune",
+                           "Mr. President and Gentlemen of the Union League:--I am glad to be here"))
+
 print("\n## rebuild")
 if all(os.path.exists(B.book_path(n)) for n in sources):
     reg2 = U.WhUidRegistry(B.UIDS)
@@ -246,7 +380,19 @@ if all(os.path.exists(B.book_path(n)) for n in sources):
     extra = sorted(os.path.relpath(p, REPO) for p in B.built_paths() - set(blobs))
     check("no stale catalog, texts or pack files", not extra, extra[:5])
 else:
-    print("note  pinned books not fetched (python3 pipeline/build_poetry.py --fetch); rebuild check skipped")
+    print("note  pinned books not fetched (python3 pipeline/build_poetry.py --fetch); full rebuild check skipped")
+_mirrors = [n for n, s in sources.items() if s.get("mirror")]
+if _mirrors and all(os.path.exists(B.book_path(n, True)) for n in _mirrors):
+    reg3 = U.WhUidRegistry(B.UIDS)
+    c3, t3, _ = B.build(reg3, layers=("declamations",))
+    blobs = B.render_all(c3, t3)
+    stale = [os.path.relpath(p, REPO) for p, b in blobs.items() if not os.path.exists(p) or open(p, "rb").read() != b]
+    check("declamations: a rebuild of the layer mints 0 and is byte-identical", reg3.minted == 0 and not stale,
+          (reg3.minted, stale[:5]))
+    extra = sorted(os.path.relpath(p, REPO) for p in B.built_paths(("declamations",)) - set(blobs))
+    check("declamations: no stale catalog, texts or pack files", not extra, extra[:5])
+else:
+    print("note  mirror copies not fetched (python3 pipeline/build_poetry.py --fetch); declamations rebuild check skipped")
 
 print(f"\n{PASS} passed, {len(FAIL)} failed")
 sys.exit(1 if FAIL else 0)
