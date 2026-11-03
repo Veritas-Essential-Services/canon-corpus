@@ -1,0 +1,246 @@
+{
+ "_about": "The author shelves (2026-11-03, Adam: \"Get me Tolkien and C. S. Lewis shelves and populate the coming titles with their public domain release dates. Also [Dorothy] Sayers and all of Chesterton\"). Per author: what this repo fetches and builds (`standard_ebooks`, `archive_gutenberg`, read by fetch_sources.py and structure_texts.py, so the hosted Armarium builds them), what the house already held before (`held`), what is US public domain but not yet fetchable (`free_pending`, with why), and how many books wait for their day (`waiting`). The full list of every title with its US public-domain day is the house's public ledger, wordhoard apps/thewordhoard/data/author-shelves.json, and each waiting book is on the house release queue (apps/thewordhoard/data/release-queue.json); it is not copied here. RIGHTS: every book fetched here was first published in 1930 or before, so it is US public domain; Standard Ebooks' rights lines are read at fetch (fetch_sources.se_gate) and its production is CC0. Still-copyrighted books are never fetched or committed here: a locked copy, from a book the house owns, goes on the Armarium restricted shelf (ADR 0034) only. US status only: Tolkien (d. 1973), Lewis (d. 1963) and Sayers (d. 1957) are in copyright in life+70 countries.",
+ "shelves": {
+  "tolkien": {
+   "author": "J. R. R. Tolkien",
+   "life": "1892-1973",
+   "archive_gutenberg": {
+    "tolkien-middle-english-vocabulary": {
+     "ia": "amiddleenglishvo43737gut",
+     "file": "43737-0.txt",
+     "pg": 43737,
+     "title": "A Middle English Vocabulary",
+     "year": 1922,
+     "sha256": "40498fcd50067de47cd63bed5984c8416761d019526c18f488adeb6483833183"
+    }
+   },
+   "free_pending": {
+    "tolkien-poems-and-essays-in-periodicals-1915-1930": "Poems and essays in periodicals, 1915-1930 (1915): free as printed: Goblin Feet (Oxford Poetry 1915), his poems in A Northern Venture (Leeds, 1923), his 1920s articles in The Review of English Studies. Not gathered yet; each wants its printing found.",
+    "tolkien-sir-gawain-and-the-green-knight-edited-with-e-v-gordon": "Sir Gawain and the Green Knight (edited with E. V. Gordon) (1925): free in the US since 2021; the Middle English text with Tolkien and Gordon's notes and glossary. One open scan found (archive.org sirgawaingreenkn0000jrrt_m1f1, dated 1925); it needs its title page read and its OCR proofread, so it is not loaded yet. The 1967 second edition (revised by Norman Davis) is not free."
+   },
+   "waiting": {
+    "count": 17,
+    "first": "2032-01-01",
+    "last": "2073-01-01",
+    "_note": "each by its day in wordhoard apps/thewordhoard/data/author-shelves.json and on the release queue",
+    "posthumous": "Published after 1977 (Unfinished Tales, the Letters, Mr. Bliss, the twelve volumes of The History of Middle-earth, Roverandom and the rest): Tolkien's own words first printed between 1978 and 2002 open 1 January 2048; those first printed after 2002 (The Children of Húrin, The Fall of Arthur, his Beowulf translation, Beren and Lúthien, The Fall of Gondolin and the rest) open 1 January 2044, his life plus seventy years. Christopher Tolkien's editing (he died in 2020) runs to the end of 2090."
+   },
+   "_excluded": {
+    "pg48371": "A Spring Harvest (1918) is G. B. Smith's poems; Tolkien only saw them into print with Christopher Wiseman. Not his book."
+   }
+  },
+  "lewis": {
+   "author": "C. S. Lewis",
+   "life": "1898-1963",
+   "standard_ebooks": {
+    "lewis-spirits-in-bondage": {
+     "repo": "c-s-lewis_poetry",
+     "commit": "faa8620a5055ee8322b28136fd94001e9b65a816",
+     "title": "Spirits in Bondage: A Cycle of Lyrics",
+     "year": 1919,
+     "files": "spirits-in-bondage",
+     "printed_as": "Clive Hamilton",
+     "sha256": "45ee21fd89545d70fadd408f9bf36042cdc86875f2b93e69fcd79bec86000207"
+    },
+    "lewis-dymer": {
+     "repo": "c-s-lewis_poetry",
+     "commit": "faa8620a5055ee8322b28136fd94001e9b65a816",
+     "title": "Dymer",
+     "year": 1926,
+     "files": "dymer",
+     "printed_as": "Clive Hamilton",
+     "sha256": "a89fddecf608e5d8f76762ee6445de7c3fcc04ec38725a2fb73f0ac526c2b7dd"
+    }
+   },
+   "free_pending": {},
+   "waiting": {
+    "count": 52,
+    "first": "2029-01-01",
+    "last": "2073-01-01",
+    "_note": "each by its day in wordhoard apps/thewordhoard/data/author-shelves.json and on the release queue",
+    "posthumous": "Published after 1977 (Boxen, All My Road Before Me, The Collected Poems, the three-volume Collected Letters and others): what Lewis wrote and first saw printed between 1978 and 2002 is protected to the end of 2047, so it opens 1 January 2048; what was first printed after 2002 opens 1 January 2034 (his life plus seventy years). An editor's own notes run on their own clock."
+   },
+   "_excluded": {
+    "lewis-dymer-1950-preface": "Lewis's preface to the 1950 reissue of Dymer is not in Standard Ebooks' text and opens 2046-01-01."
+   }
+  },
+  "sayers": {
+   "author": "Dorothy L. Sayers",
+   "life": "1893-1957",
+   "standard_ebooks": {
+    "sayers-whose-body": {
+     "repo": "dorothy-l-sayers_whose-body",
+     "commit": "3cfc21ccc40eab2de200466d4a12228a988c6ecc",
+     "title": "Whose Body?",
+     "year": 1923,
+     "sha256": "3c586255a553a152e89739214fb843bf9d590ab0346cf24c4f2985e411dea4d3"
+    },
+    "sayers-clouds-of-witness": {
+     "repo": "dorothy-l-sayers_clouds-of-witness",
+     "commit": "bed560f1fa59b90900207a93503a0d392742b0dc",
+     "title": "Clouds of Witness",
+     "year": 1926,
+     "sha256": "b671ae6eb6d6dc58153769d20047d8889e48b3e88cdbff268046685995097f52"
+    },
+    "sayers-unnatural-death": {
+     "repo": "dorothy-l-sayers_unnatural-death",
+     "commit": "2f6d55b989a8891fe9826b77601808b0cfed99b2",
+     "title": "Unnatural Death",
+     "year": 1927,
+     "sha256": "2ede285fc08f3d6683590bda69cbcc33e8c26dff505653072c7a5b35c351432a"
+    },
+    "sayers-bellona-club": {
+     "repo": "dorothy-l-sayers_the-unpleasantness-at-the-bellona-club",
+     "commit": "0b6af42ad83596470d84810d178903ceb7106c9d",
+     "title": "The Unpleasantness at the Bellona Club",
+     "year": 1928,
+     "sha256": "29a0fcdb969594b5faf4bade0c260491963a85d5b477d7e4e6f55f369e69b1cb"
+    },
+    "sayers-lord-peter-views-the-body": {
+     "repo": "dorothy-l-sayers_lord-peter-views-the-body",
+     "commit": "654c7ef0a3917b89c62ef1c14f11ef614ba68150",
+     "title": "Lord Peter Views the Body",
+     "year": 1928,
+     "sha256": "cbf77121fd82634e075b3fb6f3527c1f220b4619d16965385981de655f253ae3"
+    },
+    "sayers-strong-poison": {
+     "repo": "dorothy-l-sayers_strong-poison",
+     "commit": "100c4e0112637ade2ffb6a99a0703c66da9fbad2",
+     "title": "Strong Poison",
+     "year": 1930,
+     "sha256": "5b372e09b8f0323e486a3bc9f80e9936024e1c573378f5ff7a158b1fa6f365d5"
+    },
+    "sayers-documents-in-the-case": {
+     "repo": "dorothy-l-sayers_robert-eustace_the-documents-in-the-case",
+     "commit": "19136a44c1dedd317daef11d6cfa4b4ef434dab4",
+     "title": "The Documents in the Case",
+     "year": 1930,
+     "author": "Dorothy L. Sayers and Robert Eustace",
+     "sha256": "1e01227bd5bf5e79099794d5b276a50e5efe687d78d0b20b07a03fd15b35b48a"
+    }
+   },
+   "free_pending": {
+    "sayers-op-i": "Op. I (1916): her first book; no open scan found",
+    "sayers-catholic-tales-and-christian-songs": "Catholic Tales and Christian Songs (1918): an open scan (archive.org catholictaleschr00saye, Duke) needs proofreading",
+    "sayers-great-short-stories-of-detection-mystery-and-horror": "Great Short Stories of Detection, Mystery and Horror (1928): edited, with her long introduction; US title The Omnibus of Crime (1929). Mostly other writers",
+    "sayers-tristan-in-brittany": "Tristan in Brittany (1929): her prose and verse translation of Thomas's Tristan; no open scan found",
+    "sayers-behind-the-screen": "Behind the Screen (1930): the Detection Club's serial in The Listener, her chapter among others; free as printed there"
+   },
+   "waiting": {
+    "count": 38,
+    "first": "2027-01-01",
+    "last": "2068-01-01",
+    "_note": "each by its day in wordhoard apps/thewordhoard/data/author-shelves.json and on the release queue",
+    "posthumous": "Published after 1977 (Love All, Thrones, Dominations as Jill Paton Walsh finished it, the five volumes of Letters, The Poetry of Dorothy L. Sayers): her own words first printed between 1978 and 2002 open 1 January 2048; anything first printed after 2002 opens 1 January 2028, her life plus seventy years. Her finishers' and editors' words run on their own clocks."
+   },
+   "_note": "sayers-strong-poison was the mysteries-1920s lane's (PG 78157); it moved here (that shelf's _held says so), one owner per slug."
+  },
+  "chesterton": {
+   "author": "G. K. Chesterton",
+   "life": "1874-1936",
+   "standard_ebooks": {
+    "chesterton-incredulity": {
+     "repo": "g-k-chesterton_the-incredulity-of-father-brown",
+     "commit": "2bbf5020638f5bc0ab765f5f5ba706d28d66142c",
+     "title": "The Incredulity of Father Brown",
+     "year": 1926,
+     "sha256": "37072c7756a7d8c5678f2dc75b8ac574278019ff82390d862893b997066b2fe5"
+    }
+   },
+   "held": {
+    "_note": "61 books held since 2026-09-29 through fetch_sources.py (CHESTERTON_CCEL and CHESTERTON_GUTENBERG), Orthodoxy and Heretics among them (the house's read-along and KCCS editions read those copies). Not refetched. The raw-OCR lanes chesterton_shelf.json and chesterton-gaps_shelf.json are separate and unchanged.",
+    "slugs": [
+     "chesterton-alarms",
+     "chesterton-america",
+     "chesterton-appetite",
+     "chesterton-ball_cross",
+     "chesterton-barbara",
+     "chesterton-berlin",
+     "chesterton-blake",
+     "chesterton-browning",
+     "chesterton-calendar",
+     "chesterton-carlyle",
+     "chesterton-conversion",
+     "chesterton-crimes",
+     "chesterton-defendant",
+     "chesterton-dickens",
+     "chesterton-dickens-appreciations",
+     "chesterton-dickens-bookman",
+     "chesterton-diversity",
+     "chesterton-divorce",
+     "chesterton-divorce-democracy",
+     "chesterton-eugenics",
+     "chesterton-everlasting",
+     "chesterton-fancies",
+     "chesterton-flyinginn",
+     "chesterton-francis",
+     "chesterton-greybeards",
+     "chesterton-heretics",
+     "chesterton-historyengland",
+     "chesterton-innocencebrown",
+     "chesterton-irish",
+     "chesterton-jerusalem",
+     "chesterton-kitchener",
+     "chesterton-london",
+     "chesterton-longbow",
+     "chesterton-magic",
+     "chesterton-manalive",
+     "chesterton-miscellany",
+     "chesterton-napoleon",
+     "chesterton-orthodoxy",
+     "chesterton-poems",
+     "chesterton-queertrades",
+     "chesterton-rightworld",
+     "chesterton-secretbrown",
+     "chesterton-shaw",
+     "chesterton-tennyson",
+     "chesterton-thackeray",
+     "chesterton-thingsconsidered",
+     "chesterton-thursday",
+     "chesterton-tolstoy",
+     "chesterton-toomuch",
+     "chesterton-treesofpride",
+     "chesterton-trifles",
+     "chesterton-twelvetypes",
+     "chesterton-usurers",
+     "chesterton-variedtypes",
+     "chesterton-victorianage",
+     "chesterton-watts",
+     "chesterton-whatwrong",
+     "chesterton-whitehorse",
+     "chesterton-wildknight",
+     "chesterton-winewater",
+     "chesterton-wisdom"
+    ]
+   },
+   "free_pending": {
+    "chesterton-five-types": "Five Types (1910): a selection from Twelve Types, already here",
+    "chesterton-simplicity-and-tolstoy": "Simplicity and Tolstoy (1912): open scan simplicitytolsto00chesuoft",
+    "chesterton-the-superstitions-of-the-sceptic": "The Superstitions of the Sceptic (1925): open scan superstitionsofs0000unse_q9f6",
+    "chesterton-william-cobbett": "William Cobbett (1925): open scans dated 1925-26",
+    "chesterton-the-outline-of-sanity": "The Outline of Sanity (1926): an open scan (archive.org outlineofsanity0000ches) is held raw on the chesterton-gaps lane; needs proofreading before the house can read it",
+    "chesterton-the-queen-of-seven-swords": "The Queen of Seven Swords (1926): open scan queenofsevenswor0000ches is a 1933 printing of the 1926 book",
+    "chesterton-robert-louis-stevenson": "Robert Louis Stevenson (1927): raw scan on the chesterton-gaps lane (robertlouissteve0000ches)",
+    "chesterton-smaller-pieces-social-reform-versus-birth-control-1927-cultu": "Smaller pieces: Social Reform versus Birth Control (1927), Culture and the Coming Peril (1927), Gloria in Profundis (1927), The Sword of Wood (1928), Ubi Ecclesia (1929), The Turkey and the Turk (1930), The Grave of Arthur (1930) (1927): free; no open text found for most",
+    "chesterton-the-collected-poems": "The Collected Poems (1927): the 1927 book is free; the 1932 Dodd, Mead edition was renewed (R248444) and its added poems open 2028",
+    "chesterton-the-judgement-of-dr-johnson": "The Judgement of Dr. Johnson (1927): no open scan found",
+    "chesterton-the-return-of-don-quixote": "The Return of Don Quixote (1927): raw scan on the chesterton-gaps lane (returnofdonquixo0000ches_i3m2)",
+    "chesterton-do-we-agree": "Do We Agree? (1928): with Bernard Shaw; open scan doweagree0000gkch",
+    "chesterton-generally-speaking": "Generally Speaking (1928): raw scan on the chesterton-gaps lane (generallyspeakin00ches)",
+    "chesterton-g-k-c-as-m-c": "G.K.C. as M.C. (1929): thirty-seven introductions; open scan gkcasmcbeingcoll0000gkch",
+    "chesterton-the-poet-and-the-lunatics": "The Poet and the Lunatics (1929): open scan poetlunatics0000unse (Dodd, Mead 1929)",
+    "chesterton-the-thing": "The Thing (1929): US title The Thing: Why I Am a Catholic; open scan thingwhyiamcatho00ches_0 (Dodd, Mead 1930)",
+    "chesterton-come-to-think-of-it": "Come to Think of It (1930): no open scan found",
+    "chesterton-four-faultless-felons": "Four Faultless Felons (1930): open scan fourfaultlessfel0000gkch_i5f3 (1930)",
+    "chesterton-the-resurrection-of-rome": "The Resurrection of Rome (1930): open scan resurrectionofro0000gkch (1930)"
+   },
+   "waiting": {
+    "count": 24,
+    "first": "2027-01-01",
+    "last": "2071-01-01",
+    "_note": "each by its day in wordhoard apps/thewordhoard/data/author-shelves.json and on the release queue",
+    "posthumous": "The books gathered after his death (1936) mostly reprint newspaper essays: a piece first printed in 1930 or before is free already wherever it is found; the book that gathers it opens on its own day. Books gathered after 1977 (Daylight and Nightmare, the Ignatius Collected Works): words he saw printed before 1931 are free; others open 1 January 2048 (first printed 1978-2002) or are free now (first printed after 2002, his life plus seventy years having run out in 2006)."
+   }
+  }
+ }
+}

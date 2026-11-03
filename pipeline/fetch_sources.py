@@ -2541,6 +2541,113 @@ def fetch_kipling(slug, row):
     os.replace(dest + ".tmp", dest)
     return f"{len(raw):,} bytes (sha256 checked)"
 
+# The author shelves (2026-11-03, Adam: "Get me Tolkien and C. S. Lewis shelves and populate the coming titles
+# with their public domain release dates. Also [Dorothy] Sayers and all of Chesterton"). The ledger is
+# pipeline/author_shelves.json, read here, never copied into this file: per author, what the house already
+# holds, what it fetches here, what is free but not yet fetchable, and the completeness note. Every title
+# still in US copyright is listed there by the day it opens; the same days are on the house release queue
+# (wordhoard apps/thewordhoard/data/release-queue.json), titles and days only.
+#
+# What this file fetches from it:
+#   `standard_ebooks`  a Standard Ebooks production, read from SE's own GitHub repository PINNED to a commit
+#       (standardebooks.org and gutenberg.org were not reachable from the session that added them; GitHub
+#       was). The spine's files are joined, in order, into data/corpus/standardebooks/<slug>.xhtml, each
+#       after a `<!-- se-file: name -->` line, and the joined file's sha256 must be the ledger's pin. A row
+#       with `files` takes only the spine files whose names start with it (C. S. Lewis's "Poetry" is two
+#       books, Spirits in Bondage and Dymer). The imprint and uncopyright pages are always taken, and the
+#       rights gate reads them: SE's CC0 dedication and its "believed to be in the United States public
+#       domain" line must both be there, or the book is refused.
+#   `archive_gutenberg`  a Project Gutenberg text from the Internet Archive's mirror of it, pinned by sha256.
+AUTHOR_SHELVES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "author_shelves.json")
+SE_RAW = "https://raw.githubusercontent.com/standardebooks/{repo}/{commit}/src/epub/{fn}"
+SE_ALWAYS = ("imprint.xhtml", "uncopyright.xhtml")
+SE_NOT_BOOK = ("titlepage.xhtml", "colophon.xhtml", "halftitlepage.xhtml", "loi.xhtml", "toc.xhtml")
+
+def author_shelves():
+    import json
+    with open(AUTHOR_SHELVES, encoding="utf-8") as f:
+        return json.load(f)
+
+def se_books():
+    """{slug: row (with `author`)} for every Standard Ebooks row on the author shelves, in ledger order."""
+    out = {}
+    for who, shelf in author_shelves()["shelves"].items():
+        for slug, row in shelf.get("standard_ebooks", {}).items():
+            out[slug] = dict(row, author=row.get("author") or shelf["author"])
+    return out
+
+def archive_gutenberg_books():
+    out = {}
+    for who, shelf in author_shelves()["shelves"].items():
+        for slug, row in shelf.get("archive_gutenberg", {}).items():
+            out[slug] = dict(row, author=row.get("author") or shelf["author"])
+    return out
+
+def se_spine(opf):
+    """The spine's xhtml files, in reading order, from a content.opf."""
+    import re as _re
+    href = dict(_re.findall(r'<item href="text/([^"]+)" id="([^"]+)"', opf))
+    ids = {v: k for k, v in href.items()}
+    return [ids[i] for i in _re.findall(r'<itemref idref="([^"]+)"', opf) if i in ids]
+
+def se_gate(joined):
+    """SE's rights lines, read from the joined file's imprint and uncopyright: '' or why it is refused."""
+    import re as _re
+    flat = _re.sub(r"\s+", " ", _re.sub(r"<[^>]+>", " ", joined)).lower()
+    why = [w for w, ok in (("no CC0 dedication", "cc0" in flat),
+                           ("no US public-domain line", "believed to be in the united states public domain" in flat)) if not ok]
+    return "; ".join(why)
+
+def fetch_se(slug, row, corpus=None, get=None):
+    """One Standard Ebooks book, joined from its pinned repository. Present: left alone."""
+    import hashlib
+    corpus = corpus or CORPUS
+    dest = os.path.join(corpus, "standardebooks", slug + ".xhtml")
+    if os.path.exists(dest) and os.path.getsize(dest) > 1000:
+        return "skip"
+    def _get(url):
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+            return r.read().decode("utf-8")
+    get = get or _get
+    url = lambda fn: SE_RAW.format(repo=row["repo"], commit=row["commit"], fn=fn)
+    spine = se_spine(get(url("content.opf")))
+    pre = row.get("files")
+    take = [f for f in spine if f in SE_ALWAYS or (f not in SE_NOT_BOOK and (not pre or f.startswith(pre)))]
+    for f in SE_ALWAYS:
+        if f not in take:
+            take.append(f)
+    joined = "".join(f"<!-- se-file: {f} -->\n" + get(url("text/" + f)) + "\n" for f in take)
+    why = se_gate(joined)
+    if why:
+        raise RuntimeError(f"rights gate: {why}; refused")
+    got = hashlib.sha256(joined.encode("utf-8")).hexdigest()
+    if got != row["sha256"]:
+        raise RuntimeError(f"sha256 {got[:12]}... is not the ledger's {str(row['sha256'])[:12]}...; refused")
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest + ".tmp", "w", encoding="utf-8") as f:      # atomic, rule 5
+        f.write(joined)
+    os.replace(dest + ".tmp", dest)
+    return f"{len(take)} files, {len(joined):,} chars (sha256 checked)"
+
+def fetch_archive_gutenberg(slug, row, corpus=None):
+    import hashlib
+    corpus = corpus or CORPUS
+    dest = os.path.join(corpus, "archive", slug + ".txt")
+    if os.path.exists(dest) and os.path.getsize(dest) > 1000:
+        return "skip"
+    with urllib.request.urlopen(urllib.request.Request(ARCHIVE_TXT.format(id=row["ia"], fn=row["file"]), headers=UA), timeout=60) as r:
+        raw = r.read()
+    got = hashlib.sha256(raw).hexdigest()
+    if got != row["sha256"]:
+        raise RuntimeError(f"sha256 {got[:12]}... is not the ledger's {str(row['sha256'])[:12]}...; refused")
+    if b"copyrighted project gutenberg" in raw[:20000].lower():
+        raise RuntimeError("the Gutenberg header says COPYRIGHTED; refused")
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest + ".tmp", "wb") as f:
+        f.write(raw)
+    os.replace(dest + ".tmp", dest)
+    return f"{len(raw):,} bytes (sha256 checked)"
+
 UA = {"User-Agent": "Canon-Corpus/0.1 (personal library research)"}
 
 def fetch(url, dest):
@@ -2626,6 +2733,10 @@ def main():
             print(f"archive/{slug}: {ident} -- {title}")
         for slug, row in kipling_books().items():
             print(f"kipling/{slug}: pg{row['id']} {row['title']} ({row['year']}) @{row['commit'][:7]}")
+        for slug, row in se_books().items():
+            print(f"standardebooks/{slug}: {row['repo']}@{row['commit'][:7]} {row['title']} ({row['year']})")
+        for slug, row in archive_gutenberg_books().items():
+            print(f"archive/{slug}: {row['ia']} {row['title']} ({row['year']})")
         for slug, (sha, recipe, fn, shipped, psha, note) in LOCAL_SOURCES.items():
             print(f"local/{slug}: {note}")
         for slug, (src, recipe, fn, shipped, psha, note) in SHIPPED_WORKING_TEXT.items():
@@ -2694,6 +2805,16 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"kipling/{slug}: FAIL {e}")
         time.sleep(0.3)
+    for slug, row in se_books().items():
+        try:
+            print(f"standardebooks/{slug}: {fetch_se(slug, row)}")
+        except Exception as e:
+            failures.append(slug); print(f"standardebooks/{slug}: FAIL {e}")
+    for slug, row in archive_gutenberg_books().items():
+        try:
+            print(f"archive/{slug}: {fetch_archive_gutenberg(slug, row)}")
+        except Exception as e:
+            failures.append(slug); print(f"archive/{slug}: FAIL {e}")
     for slug, (ident, fn, note) in ARCHIVE_OCR.items():
         dest = os.path.join(CORPUS, "archive", slug + ".txt")
         try:

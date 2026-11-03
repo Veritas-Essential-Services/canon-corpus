@@ -7885,6 +7885,160 @@ ARCHIVE_PROSE = {
     "church-odyssey-boys": ("The Odyssey for Boys and Girls", "Alfred J. Church", (), {}),
 }
 
+# ---------------------------------------------- the author shelves (2026-11-03)
+# Standard Ebooks productions, joined from SE's pinned repository by fetch_sources.fetch_se into
+# data/corpus/standardebooks/<slug>.xhtml (one `<!-- se-file: name -->` line before each spine file).
+# SE marks its structure, so nothing is detected: each file's top section (or article) is a division, its
+# heading (hgroup / h2-h6) gives the label and is not text, and every block after it is a unit. A block
+# is a <p>, an <li> with no <p> inside it, or a table row; verse lines (<span>s split by <br/>) are kept as
+# lines, joined " / ". A stanza that SE numbers (Dymer: <section id="dymer-chapter-1-stanza-3">) is ONE
+# unit at its own number, so `lewis-dymer:1.3` is Canto I, stanza 3, the poem's own citation. Inside a
+# division, headers that hold more than the heading (a letter's dateline and salutation, The Documents in
+# the Case) are text. SE's own pages (title page, imprint, colophon, uncopyright) are not the book.
+# Ids: <slug>:<key>.<n>; key = the chapter's number ("chapter-3", "dymer-chapter-3" -> 3), else SE's
+# section id (a story's name, "preface", "dedication"); n = running block within the division.
+SE_SKIP_IDS = {"titlepage", "imprint", "colophon", "uncopyright", "halftitlepage", "loi", "toc"}
+_XH = "{http://www.w3.org/1999/xhtml}"
+_EP = "{http://www.idpf.org/2007/ops}type"
+
+def _se_text(el):
+    """An element's words, with <br/> as a line break and endnote markers dropped."""
+    out = []
+    def walk(e):
+        t = e.get(_EP) or ""
+        if e.tag == _XH + "a" and "noteref" in t:
+            if e.tail: out.append(e.tail)
+            return
+        if e.tag == _XH + "br":
+            out.append("\n")
+        elif e.text:
+            out.append(e.text)
+        for c in e:
+            walk(c)
+        if e.tail and e is not el:
+            out.append(e.tail)
+    walk(el)
+    lines = [re.sub(r"\s+", " ", l).strip() for l in "".join(out).split("\n")]
+    return " / ".join(l for l in lines if l).replace("⁠", "")
+
+def _se_heading(div):
+    for c in div.iter():
+        if c.tag in (_XH + "hgroup",) + tuple(_XH + f"h{i}" for i in range(1, 7)):
+            return c
+    return None
+
+def convert_se_book(path, slug, title, author, row=None):
+    raw = open(path, encoding="utf-8").read()
+    parts = re.split(r"<!-- se-file: ([^ ]+) -->\n", raw)[1:]
+    units, divisions = [], []
+    for fn, doc in zip(parts[0::2], parts[1::2]):
+        body = ET.fromstring(doc.strip().encode("utf-8")).find(_XH + "body")
+        top = next((c for c in body if c.tag in (_XH + "section", _XH + "article")), None)
+        if top is None or top.get("id") in SE_SKIP_IDS:
+            continue
+        sid = top.get("id")
+        m = re.fullmatch(r"(?:.*-)?chapter-(\d+)", sid)
+        key = m.group(1) if m else re.sub(r"^%s-" % re.escape((row or {}).get("files") or "~"), "", sid)
+        head = _se_heading(top)
+        flat = lambda e: re.sub(r"\s+", " ", " ".join(e.itertext())).strip()
+        if head is None:
+            label = sid.replace("-", " ").title()
+        elif head.tag == _XH + "hgroup":
+            label = ". ".join(flat(c) for c in head if flat(c))
+        else:
+            label = flat(head)
+        skip = set()
+        if head is not None:
+            skip.update(head.iter())
+        for f in top.iter(_XH + "figure"):
+            skip.update(f.iter())
+        n, made = 0, 0
+        def emit(k, text, stanza=False):
+            nonlocal made
+            units.append({"id": f"{slug}:{key}.{k}", "ref": f"{title}, {label}" + (f", stanza {k}" if stanza else f", par. {k}"),
+                          "text": text, "links": []})
+            made += 1
+        stanza_secs = [s for s in top.iter(_XH + "section") if re.search(r"-stanza-(\d+)$", s.get("id") or "")]
+        if stanza_secs:
+            for s in stanza_secs:
+                k = re.search(r"-stanza-(\d+)$", s.get("id")).group(1)
+                lines = [_se_text(p) for p in s.iter(_XH + "p") if "ordinal" not in (p.get(_EP) or "")]
+                emit(k, " // ".join(l for l in lines if l), stanza=True)
+        else:
+            for e in top.iter():
+                if e in skip:
+                    continue
+                if e.tag == _XH + "p" or (e.tag == _XH + "li" and e.find(".//" + _XH + "p") is None) or e.tag == _XH + "tr":
+                    if e.tag != _XH + "tr" and any(e in r.iter() and e is not r for r in top.iter(_XH + "tr")):
+                        continue
+                    text = _se_text(e) if e.tag != _XH + "tr" else " | ".join(_se_text(c) for c in e)
+                    if text:
+                        n += 1; emit(n, text)
+        if made:
+            divisions.append(key)
+    ids = [u["id"] for u in units]
+    if len(ids) != len(set(ids)):
+        raise ValueError(f"{slug}: duplicate unit ids")
+    r = row or {}
+    return {"slug": slug, "title": f"{title} ({r['year']})" if r.get("year") else title, "author": author, "lang": "en",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "standard-ebooks-xhtml",
+                       "repo": f"https://github.com/standardebooks/{r.get('repo')}", "commit": r.get("commit"),
+                       "sha256": sha256(path)},
+            "scheme": {"citation": "division + paragraph (a numbered stanza at its own number)",
+                       "resolution": "paragraph / stanza",
+                       "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+                       "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects "
+                                  "against scans and modernizes some spelling and typography. Divisions are SE's "
+                                  "marked sections, exact; paragraphs run within each division as SE sets them."
+                                  + (f" Printed in {r['year']} under the name {r['printed_as']}." if r.get("printed_as") else "")},
+            "rights": {"license": "Public domain in the United States (first published "
+                                  f"{r.get('year')}); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+                       "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+                       "redistribute_whole": True},
+            "units": units}
+
+def convert_middle_english_vocabulary(path, slug, title, author):
+    """Tolkien's Middle English Vocabulary (1922), Gutenberg's transcription. One unit per entry: an entry
+    is a paragraph that opens with a #bold# headword. Ids are the headword's letter and its running number
+    under it (`tolkien-middle-english-vocabulary:A.12`); the headword rides in `lex.headword`. What stands
+    before the first entry (the preface and the list of abbreviations) is `front.N`; transcriber's notes
+    in [brackets] are not Tolkien's and are dropped."""
+    raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
+    units, counts, front, dropped = [], collections.Counter(), 0, 0
+    started = False
+    for para in re.split(r"\n\s*\n", raw):
+        p = re.sub(r"\s+", " ", para).strip()
+        if not p:
+            continue
+        if p.startswith("[Transcriber") or p.startswith("Produced by"):
+            dropped += 1; continue
+        m = re.match(r"#([^#]+)#", p)
+        if m:
+            started = True
+            hw = m.group(1).strip().rstrip(",.")
+            letter = next((c for c in unicodedata.normalize("NFD", hw) if c.isalpha()), "x").upper()
+            letter = "V" if letter == "U" else letter     # the vocabulary files U with V, as printed
+            counts[letter] += 1
+            units.append({"id": f"{slug}:{letter}.{counts[letter]}", "ref": f"Tolkien, Middle English Vocabulary, s.v. {hw}",
+                          "text": p, "links": [], "lex": {"headword": hw}})
+        elif not started:
+            front += 1
+            units.append({"id": f"{slug}:front.{front}", "ref": f"Tolkien, Middle English Vocabulary, front matter, par. {front}",
+                          "text": p, "links": []})
+        else:
+            units[-1]["text"] += " " + p       # a sense continued after a blank line
+    return {"slug": slug, "title": title, "author": author, "lang": "en",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "gutenberg-txt", "sha256": sha256(path)},
+            "scheme": {"citation": "letter + entry number; the headword in lex.headword", "resolution": "entry",
+                       "apparatus": f"transcriber's notes dropped ({dropped}); Gutenberg's marks kept: _italic_, #bold#, "
+                                    "<> letters the editor supplied, ^1 superscripts",
+                       "honesty": "Gutenberg's proofread transcription of the 1922 Clarendon Press printing. An entry is "
+                                  "a paragraph opening with a bold headword; the numbers under each letter are the "
+                                  "house's, not Tolkien's. References are to Sisam's Fourteenth Century Verse & Prose "
+                                  "(text number, line), recorded as printed and not resolved."},
+            "rights": {"license": "Public domain in the United States (published 1922)", "redistribute_whole": True},
+            "units": units}
+
 # ---------------------------------------------------------------- driver
 
 def main():
@@ -8056,6 +8210,16 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=f"{row['title']} ({row['year']})", c=row.get("chapters"):
                          convert_gutenberg_prose(p, s, t, "Rudyard Kipling", c or contents_chapre(p))))
+    # The author shelves (2026-11-03): pipeline/author_shelves.json.
+    for slug, row in _fs.se_books().items():
+        path = os.path.join(CORPUS, "standardebooks", slug + ".xhtml")
+        if os.path.exists(path):
+            jobs.append((slug, lambda p=path, s=slug, r=row: convert_se_book(p, s, r["title"], r["author"], r)))
+    for slug, row in _fs.archive_gutenberg_books().items():
+        path = os.path.join(CORPUS, "archive", slug + ".txt")
+        if os.path.exists(path) and slug == "tolkien-middle-english-vocabulary":
+            jobs.append((slug, lambda p=path, s=slug, r=row: convert_middle_english_vocabulary(
+                p, s, f"{r['title']} ({r['year']})", r["author"])))
     vdir = os.path.join(CORPUS, "vulgate")
     if os.path.isdir(vdir) and all(os.path.exists(os.path.join(vdir, b + ".lat"))
                                    for b in _fs.VULGATE["books"]):

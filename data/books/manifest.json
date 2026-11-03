@@ -39415,5 +39415,202 @@
    "source_url": "https://archive.org/details/bibleatlasamanua41140gut",
    "redistribute_whole": true
   }
+ },
+ "lewis-spirits-in-bondage": {
+  "title": "Spirits in Bondage: A Cycle of Lyrics (1919)",
+  "author": "C. S. Lewis",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "45ee21fd89545d70fadd408f9bf36042cdc86875f2b93e69fcd79bec86000207",
+  "units": 200,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them. Printed in 1919 under the name Clive Hamilton."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1919); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "lewis-dymer": {
+  "title": "Dymer (1926)",
+  "author": "C. S. Lewis",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "a89fddecf608e5d8f76762ee6445de7c3fcc04ec38725a2fb73f0ac526c2b7dd",
+  "units": 295,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them. Printed in 1926 under the name Clive Hamilton."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1926); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "sayers-whose-body": {
+  "title": "Whose Body? (1923)",
+  "author": "Dorothy L. Sayers",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "3c586255a553a152e89739214fb843bf9d590ab0346cf24c4f2985e411dea4d3",
+  "units": 1660,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1923); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "sayers-clouds-of-witness": {
+  "title": "Clouds of Witness (1926)",
+  "author": "Dorothy L. Sayers",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "b671ae6eb6d6dc58153769d20047d8889e48b3e88cdbff268046685995097f52",
+  "units": 2459,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1926); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "sayers-unnatural-death": {
+  "title": "Unnatural Death (1927)",
+  "author": "Dorothy L. Sayers",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "2ede285fc08f3d6683590bda69cbcc33e8c26dff505653072c7a5b35c351432a",
+  "units": 2011,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1927); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "sayers-bellona-club": {
+  "title": "The Unpleasantness at the Bellona Club (1928)",
+  "author": "Dorothy L. Sayers",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "29a0fcdb969594b5faf4bade0c260491963a85d5b477d7e4e6f55f369e69b1cb",
+  "units": 2631,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1928); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "sayers-lord-peter-views-the-body": {
+  "title": "Lord Peter Views the Body (1928)",
+  "author": "Dorothy L. Sayers",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "cbf77121fd82634e075b3fb6f3527c1f220b4619d16965385981de655f253ae3",
+  "units": 2727,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1928); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "sayers-strong-poison": {
+  "title": "Strong Poison (1930)",
+  "author": "Dorothy L. Sayers",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "5b372e09b8f0323e486a3bc9f80e9936024e1c573378f5ff7a158b1fa6f365d5",
+  "units": 2322,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1930); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "sayers-documents-in-the-case": {
+  "title": "The Documents in the Case (1930)",
+  "author": "Dorothy L. Sayers and Robert Eustace",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "1e01227bd5bf5e79099794d5b276a50e5efe687d78d0b20b07a03fd15b35b48a",
+  "units": 1532,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1930); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "chesterton-incredulity": {
+  "title": "The Incredulity of Father Brown (1926)",
+  "author": "G. K. Chesterton",
+  "format": "standard-ebooks-xhtml",
+  "sha256": "37072c7756a7d8c5678f2dc75b8ac574278019ff82390d862893b997066b2fe5",
+  "units": 1143,
+  "scheme": {
+   "citation": "division + paragraph (a numbered stanza at its own number)",
+   "resolution": "paragraph / stanza",
+   "apparatus": "SE's title page, imprint, colophon and uncopyright are not ingested; headings are labels, not units",
+   "honesty": "Standard Ebooks' proofread text, not a transcription of one printing: SE corrects against scans and modernizes some spelling and typography. Divisions are SE's marked sections, exact; paragraphs run within each division as SE sets them."
+  },
+  "rights": {
+   "license": "Public domain in the United States (first published 1926); Standard Ebooks' production dedicated to the public domain (CC0 1.0)",
+   "jurisdiction": "US. Outside the United States the author's life-plus term may still run.",
+   "redistribute_whole": true
+  }
+ },
+ "tolkien-middle-english-vocabulary": {
+  "title": "A Middle English Vocabulary (1922)",
+  "author": "J. R. R. Tolkien",
+  "format": "gutenberg-txt",
+  "sha256": "40498fcd50067de47cd63bed5984c8416761d019526c18f488adeb6483833183",
+  "units": 4640,
+  "scheme": {
+   "citation": "letter + entry number; the headword in lex.headword",
+   "resolution": "entry",
+   "apparatus": "transcriber's notes dropped (3); Gutenberg's marks kept: _italic_, #bold#, <> letters the editor supplied, ^1 superscripts",
+   "honesty": "Gutenberg's proofread transcription of the 1922 Clarendon Press printing. An entry is a paragraph opening with a bold headword; the numbers under each letter are the house's, not Tolkien's. References are to Sisam's Fourteenth Century Verse & Prose (text number, line), recorded as printed and not resolved."
+  },
+  "rights": {
+   "license": "Public domain in the United States (published 1922)",
+   "redistribute_whole": true
+  }
  }
 }

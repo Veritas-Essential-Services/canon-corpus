@@ -232,6 +232,7 @@ The living truth for project state is the Obsidian vault:
     python3 tests/stories_test.py                      # data/stories/ and data/art/illustrated-classics/, offline
     python3 pipeline/build_kipling_shelf.py [--check]  # the Kipling shelf's work uids (kipling:<work>); --check mints 0
     python3 tests/kipling_shelf_test.py                # the Kipling ledger, offline
+    python3 tests/author_shelves_test.py               # the Tolkien/Lewis/Sayers/Chesterton shelves: SE fetcher, gate, converters, offline
     python3 pipeline/build_dictionary_links.py --fetch # the dictionaries' edges (+ Character Sketches scans)
     python3 pipeline/build_dictionary_links.py --check # data/dictionaries/ byte-identical
     python3 tests/dictionary_links_test.py             # the edge parsers, offline
@@ -877,6 +878,13 @@ The living truth for project state is the Obsidian vault:
   archive.org scan. `_waiting` (1932-1940 books, on the house release queue), `_pending` and `_excluded`
   are the completeness note.
 
+- The author shelves (2026-11-03): `pipeline/author_shelves.json` is the ledger for Tolkien, Lewis, Sayers and
+  Chesterton. Fetched here: ten Standard Ebooks productions read from SE's GitHub repositories PINNED to a commit
+  and to the sha256 of the joined spine (`fetch_se`; SE's CC0 and US-public-domain lines are a gate), and
+  Tolkien's Middle English Vocabulary (1922) from the Internet Archive's Gutenberg mirror. Built by
+  `convert_se_book` (SE's marked sections, verse lines joined " / ", a numbered stanza at its own number:
+  `lewis-dymer:1.3`) and `convert_middle_english_vocabulary` (one unit per entry, `A.12`). Every title still in
+  US copyright is on wordhoard's apps/thewordhoard/data/author-shelves.json and its release queue, never here.
 - unscanner/ — the Unscanner, Phase A (2026-10-16): a scanned PD book -> tesseract hOCR -> layout
   (indent = paragraph, folios and running heads by position, plates from the ink) -> reflowed HTML,
   faithful page HTML in the closest open typeface, EPUB, corpus units, and a review sheet. Rights
