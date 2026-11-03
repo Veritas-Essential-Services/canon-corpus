@@ -23,10 +23,6 @@
   "hammett-maltese-falcon": [
    77600,
    "Dashiell Hammett, The Maltese Falcon (1930)"
-  ],
-  "sayers-strong-poison": [
-   78157,
-   "Dorothy L. Sayers, Strong Poison (1930)"
   ]
  },
  "internet_archive": {},
@@ -69,5 +65,8 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_held": {
+  "sayers-strong-poison": "Held on the Sayers author shelf since 2026-11-03 (pipeline/author_shelves.json: Standard Ebooks' proofread text, fetched and built with the house), so one owner per slug. PG 78157 was this shelf's source."
  }
 }
