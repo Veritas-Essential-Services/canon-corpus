@@ -1,0 +1,53 @@
+{
+ "_about": "Noah Webster (1758-1843), An American Dictionary of the English Language, first edition, 2 vols (New York: S. Converse, 1828), complete; from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. US public domain.",
+ "_name_words": [
+  "webster",
+  "noah webster"
+ ],
+ "_surname": [
+  "webster"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "webster-1828-1": [
+   "americandictiona01websrich",
+   "An American Dictionary of the English Language, vol. I (New York: S. Converse, 1828)"
+  ],
+  "webster-1828-2": [
+   "americandictiona02websrich",
+   "An American Dictionary of the English Language, vol. II (New York: S. Converse, 1828)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "webster-1828-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "webster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "webster-1828-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "webster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
