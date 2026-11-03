@@ -1,0 +1,45 @@
+{
+ "_about": "John Davidson. Bloom's Western Canon (1994) lists: Ballads and Songs. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Davidson",
+ "_name_words": [
+  "john",
+  "davidson"
+ ],
+ "_surname": [
+  "davidson",
+  "john davidson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "davidson-ballads-songs": [
+   "balladssongs00davi",
+   "Ballads and Songs"
+  ]
+ },
+ "_bloom": {
+  "davidson-ballads-songs": {
+   "bloom_n": [
+    526
+   ],
+   "bloom_title": "Ballads and Songs",
+   "year": "1894 (title page)",
+   "evidence": "djvu title page: 'BALLADS AND SONGS 1894 LONDON. JOHN LANE THE BODLEY HEAD BOSTON: COPELAND & DAY'; contents list Thirty Bob a Week, A Ballad of a Nun; collection cdl/americana",
+   "case": "Bloom lists Davidson's Ballads and Songs; not on PG. The 1894 Lane/Copeland & Day first edition is on IA with an OCR layer.",
+   "note": "Alternates: balladssongs00daviuoft (dated 1898 in IA metadata, unread). Only Fleet Street Eclogues is held (mason-poetry)."
+  }
+ },
+ "_checks": {
+  "davidson-ballads-songs": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
