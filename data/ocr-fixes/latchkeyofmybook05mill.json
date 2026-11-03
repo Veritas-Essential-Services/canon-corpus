@@ -1,0 +1,13 @@
+{
+ "ia_id": "latchkeyofmybook05mill",
+ "shelf": "my-book-house",
+ "witness": "mbh-1921-v5-from-the-tower-window",
+ "collated_with": [
+  "towerwindowbook00millmiss",
+  "bwb_Y0-CHG-710",
+  "fromtowerwindowo0000oliv_x9u6"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": []
+}
