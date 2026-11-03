@@ -5,6 +5,7 @@
     python3 pipeline/renewal_check.py "Roy J. Snell" "The Magic Curtain"
     python3 pipeline/renewal_check.py --surname snell            # every renewal naming the surname, 1931-1963 works
     python3 pipeline/renewal_check.py --reg A5267                # a registration number
+    python3 pipeline/renewal_check.py --title-only "The Magic Curtain"  # every title word, any name (catches misspelt surnames)
 
 Why this exists (2026-11-03, Adam: "I want everything that was not renewed"):
 a US book published 1931-1963 with a copyright notice is US public domain if
@@ -99,6 +100,19 @@ def surname_of(author):
     return parts[-1] if parts else ""
 
 
+def title_only(title, years=(1923, 1963)):
+    """Renewals whose title and printed text hold EVERY significant word of
+    the title, whatever name they carry: a renewal typed under a misspelt
+    surname ("WODEHODSE") or none at all is missed by search()."""
+    tw = set(words(title))
+    out = []
+    for row, blob, rw in rows():
+        y = row[4][:4]
+        if tw and tw <= rw and (not y.isdigit() or years[0] <= int(y) <= years[1]):
+            out.append(("title-only", row))
+    return out
+
+
 def search(author=None, title=None, reg=None, surname=None):
     sn = (surname or (surname_of(author) if author else "")).lower()
     tw = set(words(title)) if title else set()
@@ -152,11 +166,15 @@ def main():
     ap.add_argument("--fetch", action="store_true")
     ap.add_argument("--surname")
     ap.add_argument("--reg")
+    ap.add_argument("--title-only", dest="title_only")
     ap.add_argument("author", nargs="?")
     ap.add_argument("title", nargs="?")
     a = ap.parse_args()
     if a.fetch:
         fetch(); return
+    if a.title_only:
+        hits = title_only(a.title_only)
+        print(f"{len(hits)} candidate(s)"); show(hits, 200); return
     hits = search(author=a.author, title=a.title, reg=a.reg, surname=a.surname)
     if a.surname and not a.title:
         hits = [h for h in hits if h[1][4][:4].isdigit() and 1931 <= int(h[1][4][:4]) <= 1963 or not h[1][4]]

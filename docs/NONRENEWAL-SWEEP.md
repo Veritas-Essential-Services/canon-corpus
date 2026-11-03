@@ -13,8 +13,9 @@ every item records who wrote it and where it first appeared.
 1. `python3 pipeline/renewal_check.py --fetch` once (NYPL's `cce-renewals`,
    CC0, pinned by commit: every renewal 1950-1991, the records Stanford's
    Copyright Renewal Database searches).
-2. `python3 pipeline/renewal_check.py "<author>" "<title>"` and, where a series
-   or a pen name could hide it, `--surname <name>`. Every candidate is read;
+2. `python3 pipeline/renewal_check.py "<author>" "<title>"`, then `--title-only`
+   (a misspelt surname in the record hides a renewal from the first), and
+   where a series or a pen name could hide it, `--surname <name>`. Every candidate is read;
    "no renewal found" is written only when none of them is this book.
 3. URAA: American author or first published in the US? Say which, per book.
 4. A text: Project Gutenberg (which clears 1931-1963 books the same way), or
@@ -39,6 +40,20 @@ Still held, and why: Lost on Venus (book renewed, R305497); Watson's Mark of
 the Beast (renewed, R271289); Buchan's Days to Remember (British, possible
 URAA); Pinkerton (1989 reprint text); Anstey (1986 reprint text); the 1966
 Kindergarten book (automatic renewal era).
+
+### URAA review of batches 1-2 (2026-11-03, coordinator's request)
+
+Every book was re-read for foreign origin. All but one are by American
+authors and were first published in the US (New York, Boston, Chicago
+imprints read in the fetched texts or scan records; Emerton and Taylor are
+American scholars published by Columbia University Press). The one foreign
+author is Wodehouse: *Right Ho, Jeeves* ran first in *The Saturday Evening
+Post* (Dec. 1933 - Jan. 1934), and the book came out in London (5 Oct. 1934)
+and Boston as *Brinkley Manor* (15 Oct. 1934) within 30 days of each other,
+so it was never a restorable work. Kept. Every title was also searched
+without the surname (a misspelt name, e.g. "WODEHODSE", can hide a renewal);
+the only full-title hits were other works (Sgroi's 1954 Tarzan, a 1950 comic
+strip, Phillpotts's *A Shadow Passes*, MacDonald's *Galloping Ghost*).
 
 ## Batch 2 (2026-11-03): theology
 
