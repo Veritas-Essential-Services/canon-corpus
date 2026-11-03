@@ -25,11 +25,23 @@
   "wolston-forty-days": [
    "fortydaysofscrip0000wtpw",
    "The \"Forty Days\" of Scripture, 2nd ed. (London: James Nisbet, 1909)"
+  ],
+  "wolston-simon-peter": [
+   "simonpeterhislif0000unse_d7e8",
+   "Simon Peter: His Life and Letters (Edinburgh: Gospel Messenger Office, 1893)"
+  ],
+  "wolston-church-what-is-it": [
+   "churchwhatisitte0000unse",
+   "The Church: What Is It? Ten Lectures on the Church of the New Testament (Edinburgh: Gospel Messenger Office; Glasgow and Edinburgh: John Menzies; undated, catalogue date 1924)"
   ]
  },
  "_alternates": {},
- "_excluded": {},
- "_rights_checked": {},
+ "_excluded": {
+  "wolston-seekers-for-light": "Seekers for Light: the only IA copy is a Ralph E. Welch Foundation reprint (Orange, California), not dated; wait for an early printing"
+ },
+ "_rights_checked": {
+  "wolston-church-what-is-it": "Undated; it lists Handfuls of Purpose (1922) among his books, and Wolston died 1917, so a posthumous printing catalogued 1924: published before 1931, so US public domain"
+ },
  "_identity_checked": {
   "wolston-another-comforter": {
    "author": "OCR reads 'W. I. P. WOLSTOM, M.D.'; the title page is W. T. P. Wolston's"
@@ -42,10 +54,13 @@
   },
   "wolston-forty-days": {
    "author": "Preface signed W. T. P. W., 46 Charlotte Square, Edinburgh, 1903 and 1909"
+  },
+  "wolston-simon-peter": {
+   "author": "OCR reads 'Wola a VOLS: LON, M.D, Author of Another Comforter'; the title page is W. T. P. Wolston's"
   }
  },
  "_pending": {
-  "wolston-night-scenes": "Night Scenes of Scripture (1895): text file returned HTTP 500; retry"
+  "wolston-night-scenes": "Night Scenes of Scripture (1895): both IA copies are Bible Truth Publishers (Oak Park) reprints with postal-zone addresses (1950s or later); wait for an early printing"
  },
  "_translators": {},
  "_checks": {
@@ -92,6 +107,29 @@
    "ia_date": "1909",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "wolston-simon-peter": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wolston-church-what-is-it": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wolston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Undated; it lists Handfuls of Purpose (1922) among his books, and Wolston died 1917, so a posthumous printing catalogued 1924: published before 1931, so US public domain"
   }
  }
 }
