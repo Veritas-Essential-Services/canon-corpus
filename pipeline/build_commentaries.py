@@ -5121,7 +5121,69 @@ ICC = {
                      "in.ernet.dli.2015.178982 10,119, internationalcr02plumgoog 9,808 (all 1920), and four "
                      "undated; p2criticalexeget44charuoft (1959) refused")),
 }
-for _d in (ICC,):
+ICC_OT = {
+    "icc-skinner-genesis": _icc(
+        f"{_CEC} Genesis", "Skinner, ICC Gen.", "John Skinner",
+        "acriticalandexeg00skinuoft", "eba56485d292bb32077c077df42663c6ab118e1e0b85d5dbdb16fdc76ab43c6f",
+        f"{_ICC}: J. Skinner, {_CEC} Genesis (New York: Charles Scribner's Sons, 1910, OCR'd 'IgIo'), as its "
+        "title page (leaf 16) reads", 1910, "University of Toronto (Kelly)", "NOT_IN_COPYRIGHT", (16, 641),
+        [("Gen", 102, 641)], "1910", "hebrew", superscripts=True, numbered=True, inline=True, line_start=True,
+        scan_choice=("acriticalandexeg00skinuoft (1910) Greek 1.9% / 29.7% / 1,013, Hebrew 0.0%  <- chosen; "
+                     "criticalexegetic00skinrich 970, criticalexegetic00skinuoft 968, criticalexegetic01skin 949 "
+                     "(all 1910); no scan keeps the Hebrew")),
+    "icc-paton-esther": _icc(
+        f"{_CEC} the Book of Esther", "Paton, ICC Esth.", "Lewis Bayles Paton",
+        "criticalexegetic00patorich", "4e079cc0bbf84f79a0c3b96cae06034c06f6636f3d139625a9ae2a8e7367f7c2",
+        f"{_ICC}: L. B. Paton, {_CEC} the Book of Esther (New York: Charles Scribner's Sons, 1908; published "
+        "September 1908), as its title page and verso (leaves 15-16) read", 1908,
+        "University of California Libraries", "NOT_IN_COPYRIGHT", (15, 336), [("Esth", 149, 336)], "1908",
+        "hebrew", superscripts=True, numbered=True, inline=True, line_start=True,
+        scan_choice=("criticalexegetic00patorich (1908) Greek 3.0% / 34.6% / 1,004, Hebrew 0.0%  <- chosen: no "
+                     "other scan keeps its Greek, none its Hebrew; criticalexegetic13patouoft (1951) refused")),
+    "icc-smith-samuel": _icc(
+        f"{_CEC} the Books of Samuel", "H. P. Smith, ICC Sam.", "Henry Preserved Smith",
+        "criticalexegetic0009smit_z1y7", "1e8feeec8063b7742363289f66719b614a30b6ff238a4a4fd4fdca26ee0cec09",
+        f"{_ICC}: H. P. Smith, {_CEC} the Books of Samuel (New York: Charles Scribner's Sons, 1899), as its "
+        "title page and verso (leaves 17-18) read", 1899, "Internet Archive scan", None, (17, 447),
+        [("1Sam", 57, 307), ("2Sam", 308, 447)], "1899", "greek", superscripts=True, numbered=True, inline=True, line_start=True,
+        scan_choice=("criticalexegetic0009smit_z1y7 (1899) Hebrew 2.9% of letters, 5,456 tokens of 3+ letters, "
+                     "52.5% a Strong's lemma (or one with a prefix); Greek 0.0%  <- chosen; "
+                     "criticalexegetic0009smit_i8j1 (1904) 2.8% / 5,467 / 52.0%; criticalexegetic0009smit (1951 "
+                     "impression) refused; no scan keeps the Greek")),
+    "icc-briggs-psalms-1": _icc(
+        f"{_CEC} the Book of Psalms, vol. I", "Briggs, ICC Ps. I", "Charles Augustus Briggs and Emilie Grace Briggs",
+        "criticalexegetic0000brig_t9m0", "741521b7bef5ab19de36e7e47bb30f407aebc5106b0566c72bde40b3448560ba",
+        f"{_ICC}: C. A. Briggs and E. G. Briggs, {_CEC} the Book of Psalms, vol. I (Psalms I-L) (New York: "
+        "Charles Scribner's Sons, 1906; published September 1906), as its title page and verso (leaves 17-18) "
+        "read", 1906, "Internet Archive scan", None, (17, 549), [("Ps", 127, 549)], "1906", "greek",
+        numbered=True, inline=True,
+        by_page=("the notes measured under BY_PAGE_FLOOR as verse units (41.6% of the verses at best: Briggs "
+                 "prints each psalm's translation, exegesis and critical notes, each numbered by verse, and "
+                 "cites verses as superscripts the OCR fuses to the psalm's number)"),
+        scan_choice=("criticalexegetic0000brig_t9m0 (1906) Hebrew 2.6% / 5,700 / 56.2%; Greek 0.0%  <- chosen, "
+                     "the first printing; criticalexegetic0000brig_j3b5 (1908) 2.6% / 5,683 / 55.0%; "
+                     "criticalexegetic0015brig (1927, fourth impression, Clark) 2.7% / 5,640 / 57.4%; "
+                     "criticalexegetic0000brig_q1p1 (latest impression 1976), the scan Lane A shelves as "
+                     "briggs-psalms-1 (pipeline/charles-a-briggs_shelf.json, branch claude/armarium-divines): "
+                     "refused here, a post-1928 reprint; no scan keeps the Greek")),
+    "icc-briggs-psalms-2": _icc(
+        f"{_CEC} the Book of Psalms, vol. II", "Briggs, ICC Ps. II", "Charles Augustus Briggs and Emilie Grace Briggs",
+        "criticalexegetic0000brig", "7bfd53e245ef857cf243dee977183fbeed4df2cc4a52cf62e1bbc76a78f5b515",
+        f"{_ICC}: C. A. Briggs and E. G. Briggs, {_CEC} the Book of Psalms, vol. II (Psalms LI-CL) (New York: "
+        "Charles Scribner's Sons, 1907; published February 1907), as its title page and verso (leaves 17-18) "
+        "read (the OCR reads the title page's volume number as '1'; the volume opens at Psalm LI)", 1907,
+        "Internet Archive scan", None, (17, 567), [("Ps", 25, 567)], "1906", "greek",
+        numbered=True, inline=True, first_chapter={"Ps": 51},
+        ia_date_note="IA dates it 1906; its title page and verso read 1907 (published February 1907)",
+        by_page=("the notes measured under BY_PAGE_FLOOR as verse units (23.6% of the verses with the "
+                 "reader's openers: Briggs prints each psalm's translation, exegesis and critical notes, each "
+                 "numbered by verse, and cites verses as superscripts the OCR fuses to the psalm's number)"),
+        scan_choice=("criticalexegetic0000brig (1907) Hebrew 3.2% / 7,084 / 55.6%; Greek 0.0%  <- chosen; "
+                     "criticalexegetic0000brig_j8i1 (vol. II, copyright 1907, IA date 1906) 3.2% / 7,101 / 54.4%; "
+                     "criticalexegetic0002brig (1925 or later, list partly illegible) 3.2% / 6,977 / 56.3%; "
+                     "criticalexegetic0002char_h5l9 (1917) 2.3% / 5,046 / 56.5%; no scan keeps the Greek")),
+}
+for _d in (ICC, ICC_OT):
     SECOND.update(_d)
     SCANS.update(_d)
     ORDER.extend(_d)

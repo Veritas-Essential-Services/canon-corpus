@@ -673,8 +673,9 @@ check("manifest: Meyer on Mark and on Romans comment on 95% of their verses",
 # (review c11) the pooled votes as the committed manifest records them (measure.numbering_work):
 # no scan needed
 _nw = {}
-for _e in ents.values():
-    _nw.update(_e["measure"].get("numbering_work", {}))
+for _k, _e in ents.items():
+    if B.SCANS.get(_k, {}).get("series", "kd") == "kd":       # WAVE8: the ICC pools its own (series icc)
+        _nw.update(_e["measure"].get("numbering_work", {}))
 if {"Ps", "Joel", "Mal"} <= set(_nw):
     check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew (manifest)",
           _nw["Ps"]["decision"] == "hebrew" and len(_nw["Ps"]["volumes"]) == 3)
@@ -989,5 +990,19 @@ for k in B.ICC:
 if "icc-plummer-luke" in ents:
     check("manifest: ICC Luke names Lane A's same scan", "plummer-luke-icc" in ents["icc-plummer-luke"]["scheme"]["same_scan_as"])
 
+check("icc OT: five volumes, numbered and pooled as the ICC, each naming the script its scan lost",
+      set(B.ICC_OT) == {"icc-skinner-genesis", "icc-paton-esther", "icc-smith-samuel", "icc-briggs-psalms-1",
+                        "icc-briggs-psalms-2"}
+      and all(s["numbered"] and s["series"] == "icc" and s["printed"] < 1929 for s in B.ICC_OT.values())
+      and [k for k, s in B.ICC_OT.items() if s["lost"] == "greek"] == ["icc-smith-samuel", "icc-briggs-psalms-1",
+                                                                       "icc-briggs-psalms-2"])
+check("icc OT: Briggs's Psalms are by page (under BY_PAGE_FLOOR as verse units), vol. II from Psalm 51",
+      all(B.ICC_OT[k].get("by_page") for k in ("icc-briggs-psalms-1", "icc-briggs-psalms-2"))
+      and B.ICC_OT["icc-briggs-psalms-2"]["first_chapter"] == {"Ps": 51}
+      and B.ICC_OT["icc-briggs-psalms-1"]["ia"] == "criticalexegetic0000brig_t9m0")
+for k in B.ICC_OT:
+    e = ents.get(k)
+    if e and B.ICC_OT[k]["lost"] == "hebrew":
+        check(f"manifest: {k} kept some Greek", e["measure"]["greek"]["greek_share_of_letters"] > 0.01)
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)
