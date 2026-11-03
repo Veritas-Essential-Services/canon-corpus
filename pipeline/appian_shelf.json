@@ -57,98 +57,6 @@
    "ia_lending": null
   }
  },
- "perseus": {
-  "appian-perseus-white-the-roman-history-the-civil-wars": [
-   "tlg0551.tlg017.perseus-eng2",
-   "The Roman History: The Civil Wars",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 2: The Civil Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-gallic-history": [
-   "tlg0551.tlg005.perseus-eng2",
-   "The Roman History: The Gallic History",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-hannibalic-war": [
-   "tlg0551.tlg008.perseus-eng2",
-   "The Roman History: The Hannibalic War",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-illyrian-wars": [
-   "tlg0551.tlg012.perseus-eng2",
-   "The Roman History: The Illyrian Wars",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-concerning-italy": [
-   "tlg0551.tlg003.perseus-eng2",
-   "The Roman History: Concerning Italy",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-concerning-the-kings": [
-   "tlg0551.tlg002.perseus-eng2",
-   "The Roman History: Concerning the Kings",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-macedonian-affairs": [
-   "tlg0551.tlg011.perseus-eng2",
-   "The Roman History: Macedonian Affairs",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-mithridatic-wars": [
-   "tlg0551.tlg014.perseus-eng2",
-   "The Roman History: The Mithridatic Wars",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-numidian-affairs": [
-   "tlg0551.tlg010.perseus-eng2",
-   "The Roman History: Numidian Affairs",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-author-s-preface": [
-   "tlg0551.tlg001.perseus-eng2",
-   "The Roman History: Author's Preface",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-punic-wars": [
-   "tlg0551.tlg009.perseus-eng2",
-   "The Roman History: The Punic Wars",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-samnite-history": [
-   "tlg0551.tlg004.perseus-eng2",
-   "The Roman History: The Samnite History",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-of-sicily-and-the-other-islands": [
-   "tlg0551.tlg006.perseus-eng2",
-   "The Roman History: Of Sicily and the Other Islands",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-syrian-wars": [
-   "tlg0551.tlg013.perseus-eng2",
-   "The Roman History: The Syrian Wars",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ],
-  "appian-perseus-white-the-roman-history-the-wars-in-spain": [
-   "tlg0551.tlg007.perseus-eng2",
-   "The Roman History: The Wars in Spain",
-   "Horace White",
-   "Translation published 1899: US public domain (in or before 1930). Perseus source line: Appianus. The Roman History of Appian of Alexandria, Volume 1: The Foreign Wars. White, Horace, translator. New York: The Macmillan Company. London: Macmillan and Co. Ltd. 1899."
-  ]
- },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
   "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
@@ -457,5 +365,70 @@
     "redistribute_whole": false
    }
   }
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "appian-perseus-white-the-roman-history-the-civil-wars",
+    "tlg0551.tlg017.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-gallic-history",
+    "tlg0551.tlg005.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-hannibalic-war",
+    "tlg0551.tlg008.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-illyrian-wars",
+    "tlg0551.tlg012.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-concerning-italy",
+    "tlg0551.tlg003.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-concerning-the-kings",
+    "tlg0551.tlg002.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-macedonian-affairs",
+    "tlg0551.tlg011.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-mithridatic-wars",
+    "tlg0551.tlg014.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-numidian-affairs",
+    "tlg0551.tlg010.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-author-s-preface",
+    "tlg0551.tlg001.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-punic-wars",
+    "tlg0551.tlg009.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-samnite-history",
+    "tlg0551.tlg004.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-of-sicily-and-the-other-islands",
+    "tlg0551.tlg006.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-syrian-wars",
+    "tlg0551.tlg013.perseus-eng2"
+   ],
+   [
+    "appian-perseus-white-the-roman-history-the-wars-in-spain",
+    "tlg0551.tlg007.perseus-eng2"
+   ]
+  ]
  }
 }

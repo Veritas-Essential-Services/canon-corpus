@@ -136,20 +136,6 @@
  "_rights_checked": {
   "caesar-holmes-gallic-war-1908": "London: Macmillan; the preface is dated October 16, 1908. US PD by date; Holmes died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
  },
- "perseus": {
-  "caesar-perseus-peskett-the-civil-wars": [
-   "phi0448.phi002.perseus-eng2",
-   "The Civil Wars",
-   "Arthur George Peskett",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Julius Caesar. The Civil Wars. Peskett, Arthur George, translator. London, UK: William Heinemann; New York, NY, 1914."
-  ],
-  "caesar-perseus-duncan-commentaries-on-the-civil-war": [
-   "phi0448.phi002.perseus-eng3",
-   "Commentaries on the Civil War",
-   "William Duncan",
-   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Julius Caesar. The Commentaries of Caesar. Duncan, William, translator. St. Louis: Edwards and Bushnell, 1856."
-  ]
- },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
   "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
@@ -203,5 +189,18 @@
  },
  "_held": {
   "caesar-perseus-bohn-gallic-war": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0448.phi001.perseus-eng2 (Gallic War, tr. W. S Bohn) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "caesar-perseus-peskett-the-civil-wars",
+    "phi0448.phi002.perseus-eng2"
+   ],
+   [
+    "caesar-perseus-duncan-commentaries-on-the-civil-war",
+    "phi0448.phi002.perseus-eng3"
+   ]
+  ]
  }
 }

@@ -36,14 +36,6 @@
    "translator_match": true
   }
  },
- "perseus": {
-  "diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher": [
-   "tlg0004.tlg001.perseus-eng2",
-   "Lives of Eminent Philosophers",
-   "R. D. Hicks",
-   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Diogenes Laertius. Hicks, R. D., editor. Cambridge, MA.: Harvard University Press; London: William Heinemann Ltd., 1925."
-  ]
- },
  "_perseus_checks": {
   "diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher": {
    "checked": "2026-10-03",
@@ -73,5 +65,14 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher",
+    "tlg0004.tlg001.perseus-eng2"
+   ]
+  ]
  }
 }

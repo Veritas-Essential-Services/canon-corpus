@@ -634,50 +634,6 @@
  "_translator_unchecked": {
   "sophocles-oxford-prose-1886": "the title page reads 'The Oxford Translation, new edition, revised according to the text of Dindorf' and names no translator; T. A. Buckley is the IA catalogue's attribution only"
  },
- "perseus": {
-  "sophocles-perseus-jebb-ajax-modernized": [
-   "tlg0011.tlg003.perseus-eng2",
-   "Ajax",
-   "Richard Claverhouse Jebb",
-   "Translation published 1891: US public domain (in or before 1930). Perseus source line: Sophocles the plays and fragments, Part 7: The Ajax. Jebb, Richard Claverhouse, Sir, translator. Cambridge: Cambridge University Press, 1891. (Modernized by Perseus.)"
-  ],
-  "sophocles-perseus-jebb-antigone-modernized": [
-   "tlg0011.tlg002.perseus-eng2",
-   "Antigone",
-   "Richard Claverhouse Jebb",
-   "Translation published 1891: US public domain (in or before 1930). Perseus source line: Sophocles the plays and fragments, Part 3: The Antigone. Jebb, Richard Claverhouse, Sir, translator. Cambridge: Cambridge University Press, 1891. (Modernized by Perseus.)"
-  ],
-  "sophocles-perseus-jebb-electra-modernized": [
-   "tlg0011.tlg005.perseus-eng2",
-   "Electra",
-   "Richard Claverhouse Jebb",
-   "Translation published 1894: US public domain (in or before 1930). Perseus source line: Sophocles the plays and fragments, Part 6: The Electra. Jebb, Richard Claverhouse, Sir, translator. Cambridge: Cambridge University Press, 1894. (Modernized by Perseus.)"
-  ],
-  "sophocles-perseus-jebb-oedipus-tyrannus-modernized": [
-   "tlg0011.tlg004.perseus-eng2",
-   "Oedipus Tyrannus",
-   "Richard Claverhouse Jebb",
-   "Translation published 1887: US public domain (in or before 1930). Perseus source line: Sophocles the plays and fragments, Part 1: The Oedipus Tyrannus. Jebb, Richard Claverhouse, Sir, translator. Cambridge: Cambridge University Press, 1887. (Modernized by Perseus.)"
-  ],
-  "sophocles-perseus-jebb-oedipus-at-colonus-modernized": [
-   "tlg0011.tlg007.perseus-eng2",
-   "Oedipus at Colonus",
-   "Richard Claverhouse Jebb",
-   "Translation published 1889: US public domain (in or before 1930). Perseus source line: Sophocles the plays and fragments, Part 2: The Oedipus at Colonus. Jebb, Richard Claverhouse, Sir, translator. Cambridge: Cambridge University Press, 1889. (Modernized by Perseus.)"
-  ],
-  "sophocles-perseus-jebb-philoctetes-modernized": [
-   "tlg0011.tlg006.perseus-eng2",
-   "Philoctetes",
-   "Richard Claverhouse Jebb",
-   "Translation published 1898: US public domain (in or before 1930). Perseus source line: Sophocles the plays and fragments, Part 4: The Philoctetes. Jebb, Richard Claverhouse, Sir, translator. Cambridge: Cambridge University Press, 1898. (Modernized by Perseus.)"
-  ],
-  "sophocles-perseus-jebb-trachiniae-modernized": [
-   "tlg0011.tlg001.perseus-eng3",
-   "Trachiniae",
-   "Richard Claverhouse Jebb",
-   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Sophocles the plays and fragments, Part 5: The Trachiniae. Jebb, Richard Claverhouse, Sir, translator. Cambridge: Cambridge University Press, 1892. (Modernized by Perseus.)"
-  ]
- },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
   "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
@@ -866,5 +822,38 @@
   "sophocles-jebb-plays-fragments-p7": {
    "translator": "half-title image read 2026-10-23: 'Sophocles, the Plays and Fragments. Part VII. The Ajax', C. J. Clay and Sons imprint: Jebb's Cambridge edition; the gate's translator check is not claimed for this row because the OCR renders the editor's name as Greek"
   }
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "sophocles-perseus-jebb-ajax-modernized",
+    "tlg0011.tlg003.perseus-eng2"
+   ],
+   [
+    "sophocles-perseus-jebb-antigone-modernized",
+    "tlg0011.tlg002.perseus-eng2"
+   ],
+   [
+    "sophocles-perseus-jebb-electra-modernized",
+    "tlg0011.tlg005.perseus-eng2"
+   ],
+   [
+    "sophocles-perseus-jebb-oedipus-tyrannus-modernized",
+    "tlg0011.tlg004.perseus-eng2"
+   ],
+   [
+    "sophocles-perseus-jebb-oedipus-at-colonus-modernized",
+    "tlg0011.tlg007.perseus-eng2"
+   ],
+   [
+    "sophocles-perseus-jebb-philoctetes-modernized",
+    "tlg0011.tlg006.perseus-eng2"
+   ],
+   [
+    "sophocles-perseus-jebb-trachiniae-modernized",
+    "tlg0011.tlg001.perseus-eng3"
+   ]
+  ]
  }
 }

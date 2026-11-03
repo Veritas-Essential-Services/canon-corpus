@@ -178,48 +178,6 @@
    "Agamemnon",
    "Robert Browning",
    "Translation published 1889: US public domain (in or before 1930). Perseus source line: Aeschylus. The poetical works of Robert Browning, Volume 13. Browning, Robert, translator; Berdoe, Edward, editor. London: Smith, Elder and Co., 1889."
-  ],
-  "aeschylus-perseus-smyth-agamemnon": [
-   "tlg0085.tlg005.perseus-eng3",
-   "Agamemnon",
-   "Herbert Weir Smyth",
-   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 2. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1926. (Modernized by Perseus.)"
-  ],
-  "aeschylus-perseus-smyth-eumenides": [
-   "tlg0085.tlg007.perseus-eng2",
-   "Eumenides",
-   "Herbert Weir Smyth",
-   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 2. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1926. (Modernized by Perseus.)"
-  ],
-  "aeschylus-perseus-smyth-libation-bearers": [
-   "tlg0085.tlg006.perseus-eng2",
-   "Libation Bearers",
-   "Herbert Weir Smyth",
-   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 2. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1926. (Modernized by Perseus.)"
-  ],
-  "aeschylus-perseus-smyth-persians": [
-   "tlg0085.tlg002.perseus-eng2",
-   "Persians",
-   "Herbert Weir Smyth",
-   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
-  ],
-  "aeschylus-perseus-smyth-prometheus-bound": [
-   "tlg0085.tlg003.perseus-eng2",
-   "Prometheus Bound",
-   "Herbert Weir Smyth",
-   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
-  ],
-  "aeschylus-perseus-smyth-seven-against-thebes": [
-   "tlg0085.tlg004.perseus-eng2",
-   "Seven Against Thebes",
-   "Herbert Weir Smyth",
-   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
-  ],
-  "aeschylus-perseus-smyth-suppliant-maidens": [
-   "tlg0085.tlg001.perseus-eng2",
-   "Suppliant Maidens",
-   "Herbert Weir Smyth",
-   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
   ]
  },
  "_surname": [
@@ -894,5 +852,38 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "aeschylus-perseus-smyth-agamemnon",
+    "tlg0085.tlg005.perseus-eng3"
+   ],
+   [
+    "aeschylus-perseus-smyth-eumenides",
+    "tlg0085.tlg007.perseus-eng2"
+   ],
+   [
+    "aeschylus-perseus-smyth-libation-bearers",
+    "tlg0085.tlg006.perseus-eng2"
+   ],
+   [
+    "aeschylus-perseus-smyth-persians",
+    "tlg0085.tlg002.perseus-eng2"
+   ],
+   [
+    "aeschylus-perseus-smyth-prometheus-bound",
+    "tlg0085.tlg003.perseus-eng2"
+   ],
+   [
+    "aeschylus-perseus-smyth-seven-against-thebes",
+    "tlg0085.tlg004.perseus-eng2"
+   ],
+   [
+    "aeschylus-perseus-smyth-suppliant-maidens",
+    "tlg0085.tlg001.perseus-eng2"
+   ]
+  ]
  }
 }

@@ -17,26 +17,6 @@
    "tr. Andrew Portal"
   ]
  },
- "perseus": {
-  "aeschines-perseus-adams-against-timarchus": [
-   "tlg0026.tlg001.perseus-eng2",
-   "Against Timarchus",
-   "Charles Darwin Adams",
-   "Translation first published 1919: US public domain. Perseus source line: Aeschines. The Speeches of Aeschines, tr. Charles Darwin Adams. London: William Heinemann; Cambridge, MA: Harvard University Press, 1919 (the record also gives 1958, the printing Perseus keyed from)."
-  ],
-  "aeschines-perseus-adams-on-the-embassy": [
-   "tlg0026.tlg002.perseus-eng2",
-   "On the Embassy",
-   "Charles Darwin Adams",
-   "Translation first published 1919: US public domain. Perseus source line: Aeschines. The Speeches of Aeschines, tr. Charles Darwin Adams. London: William Heinemann; Cambridge, MA: Harvard University Press, 1919 (the record also gives 1958, the printing Perseus keyed from)."
-  ],
-  "aeschines-perseus-adams-against-ctesiphon": [
-   "tlg0026.tlg003.perseus-eng2",
-   "Against Ctesiphon",
-   "Charles Darwin Adams",
-   "Translation first published 1919: US public domain. Perseus source line: Aeschines. The Speeches of Aeschines, tr. Charles Darwin Adams. London: William Heinemann; Cambridge, MA: Harvard University Press, 1919 (the record also gives 1958, the printing Perseus keyed from)."
-  ]
- },
  "_surname": [
   "aeschines"
  ],
@@ -159,5 +139,22 @@
  },
  "_translator_unchecked": {
   "aeschines-demosthenes-biddle-crown-1881": "the title page OCRs the name as 'GEOKGE W. BIDDLE'; the claim is not matched as written"
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "aeschines-perseus-adams-against-timarchus",
+    "tlg0026.tlg001.perseus-eng2"
+   ],
+   [
+    "aeschines-perseus-adams-on-the-embassy",
+    "tlg0026.tlg002.perseus-eng2"
+   ],
+   [
+    "aeschines-perseus-adams-against-ctesiphon",
+    "tlg0026.tlg003.perseus-eng2"
+   ]
+  ]
  }
 }

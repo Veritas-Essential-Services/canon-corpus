@@ -256,12 +256,6 @@
    "George Long",
    "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
   ],
-  "epictetus-perseus-higginson-the-discourses-of-epictetus": [
-   "tlg0557.tlg001.perseus-eng4",
-   "The Discourses of Epictetus",
-   "Thomas Wentworth Higginson",
-   "Translation published 1890: US public domain (in or before 1930). Perseus source line: Epictetus. The Works of Epictetus, His Discourses, in Four Books, the Enchiridion, and Fragments. Higginson, Thomas Wentworth, translator. New York: Thomas Nelson and Sons. 1890."
-  ],
   "epictetus-perseus-long-fragments": [
    "tlg0557.tlg003a.perseus-eng3",
    "Fragments",
@@ -271,12 +265,6 @@
   "epictetus-perseus-higginson-fragments": [
    "tlg0557.tlg003a.perseus-eng4",
    "Fragments",
-   "Thomas Wentworth Higginson",
-   "Translation published 1890: US public domain (in or before 1930). Perseus source line: Epictetus. The Works of Epictetus, His Discourses, in Four Books, the Enchiridion, and Fragments. Higginson, Thomas Wentworth, translator. New York: Thomas Nelson and Sons. 1890."
-  ],
-  "epictetus-perseus-higginson-the-enchiridion": [
-   "tlg0557.tlg002.perseus-eng4",
-   "The Enchiridion",
    "Thomas Wentworth Higginson",
    "Translation published 1890: US public domain (in or before 1930). Perseus source line: Epictetus. The Works of Epictetus, His Discourses, in Four Books, the Enchiridion, and Fragments. Higginson, Thomas Wentworth, translator. New York: Thomas Nelson and Sons. 1890."
   ]
@@ -397,5 +385,18 @@
   "epictetus-perseus-long-arrian-s-discourses-of-epictetus": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg001.perseus-eng3 (Arrian's Discourses of Epictetus, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)",
   "epictetus-perseus-long-fragments": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg003a.perseus-eng3 (Fragments, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)",
   "epictetus-perseus-higginson-fragments": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg003a.perseus-eng4 (Fragments, tr. Thomas Wentworth Higginson) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "epictetus-perseus-higginson-the-discourses-of-epictetus",
+    "tlg0557.tlg001.perseus-eng4"
+   ],
+   [
+    "epictetus-perseus-higginson-the-enchiridion",
+    "tlg0557.tlg002.perseus-eng4"
+   ]
+  ]
  }
 }

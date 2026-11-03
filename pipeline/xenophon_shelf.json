@@ -480,24 +480,6 @@
    "On Hunting",
    "Edgar Carew Marchant",
    "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
-  ],
-  "xenophon-perseus-miller-cyropaedia": [
-   "tlg0032.tlg007.perseus-eng2",
-   "Cyropaedia",
-   "Walter Miller",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vols. 5-6, tr. Walter Miller. Cambridge, MA: Harvard University Press; London: William Heinemann, 1914 (Loeb Classical Library). (The census CSV's '1949' is Miller's death year, not a printing.)"
-  ],
-  "xenophon-perseus-brownson-anabasis": [
-   "tlg0032.tlg006.perseus-eng2",
-   "Anabasis",
-   "Carleton L. Brownson",
-   "Translation published 1866: US public domain (in or before 1930). Perseus source line: Xenophon, creator; Xenophon in Seven Volumes Volumes 2-3 Anabasis; Brownson, Carleton L. (Carleton Lewis), b. 1866, translator; Brownson, Carleton L. (Carleton Lewis), b. 1866, editor, translator"
-  ],
-  "xenophon-perseus-brownson-hellenica": [
-   "tlg0032.tlg001.perseus-eng2",
-   "Hellenica",
-   "Carleton L. Brownson",
-   "Translation published 1866: US public domain (in or before 1930). Perseus source line: Xenophon, creator; Xenophon in Seven Volumes Vol 1 and Vol 2; Brownson, Carleton L. (Carleton Lewis), b. 1866, editor; Brownson, Carleton L. (Carleton Lewis), b. 1866, editor, translator"
   ]
  },
  "_perseus_checks": {
@@ -807,5 +789,22 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "xenophon-perseus-miller-cyropaedia",
+    "tlg0032.tlg007.perseus-eng2"
+   ],
+   [
+    "xenophon-perseus-brownson-anabasis",
+    "tlg0032.tlg006.perseus-eng2"
+   ],
+   [
+    "xenophon-perseus-brownson-hellenica",
+    "tlg0032.tlg001.perseus-eng2"
+   ]
+  ]
  }
 }
