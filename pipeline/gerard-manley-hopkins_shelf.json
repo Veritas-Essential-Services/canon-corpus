@@ -1,0 +1,50 @@
+{
+ "_about": "Gerard Manley Hopkins. Bloom's Western Canon (1994) lists: Poems and Prose. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Gerard Manley Hopkins",
+ "_name_words": [
+  "gerard",
+  "manley",
+  "hopkins"
+ ],
+ "_surname": [
+  "hopkins",
+  "gerard manley hopkins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hopkins-poems-gerard-now-first": [
+   22403,
+   "Poems of Gerard Manley Hopkins Now First Published",
+   "tr. ed. Robert Bridges"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "hopkins-poems-gerard-now-first": "Bridges"
+ },
+ "_bloom": {
+  "hopkins-poems-gerard-now-first": {
+   "bloom_n": [
+    475
+   ],
+   "bloom_title": "Poems and Prose",
+   "year": "1918 (PG header 'Hopkins, Gerard Manley (1918) \"Poems\"'; London)",
+   "evidence": "Read PG header.",
+   "case": "Bloom lists Hopkins's poems and prose; nothing is held. Bridges's 1918 first edition of the poems is PD.",
+   "note": "The prose (letters 1935, notebooks 1937) was first published after 1930 and is not_pd; only the poems can be added."
+  }
+ },
+ "_checks": {
+  "hopkins-poems-gerard-now-first": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hopkins",
+   "translator_claimed": "Bridges",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
