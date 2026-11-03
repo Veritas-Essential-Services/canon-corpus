@@ -10,7 +10,7 @@
   "printing": "G. Bell and Sons, London, 1910",
   "text_layer": true,
   "lean": "keep",
-  "case": "Bloom names Zadig. The shelved Voltaire romances (PG 35595, PG 18972) carry no translator's name, and the St. Hubert Guild set is a revised Smollett. This is a fresh, credited translation by the man who did Racine for Bohn, and the title page says so: 'A new translation by Robert Bruce Boswell'. One volume, the tales Bloom means."
+  "case": "Bloom names Zadig. The shelved Voltaire romances (PG 35595, PG 18972) carry no translator's name, and the St. Hubert Guild set is a revised Smollett. This is a fresh, credited translation by the man who did Racine for Bohn, and the title page says so: 'A new translation by Robert Bruce Boswell'. One volume, the tales Bloom means. UPDATE 2026-11-03: Lane B also found PG 18972 (1749) and PG 35595 (1889), both with anonymous translators; Boswell stays the pick because he is named."
  },
  {
   "bloom": [
@@ -142,7 +142,7 @@
   "printing": "Saxon & Co., London, 1886",
   "text_layer": true,
   "lean": "keep",
-  "case": "First English Salammbô, credited and dedicated by the translator. The Chartres Everyman found on archive.org is a 1956 reprint and fails the pre-1931 printing rule."
+  "case": "First English Salammbô, credited and dedicated by the translator. The Chartres Everyman found on archive.org is a 1956 reprint and fails the pre-1931 printing rule. UPDATE 2026-11-03: Lane B's PG 1290 names no translator; Sheldon stays the pick."
  },
  {
   "bloom": [
@@ -168,7 +168,7 @@
   "printing": "Vizetelly & Co., London, 1885",
   "text_layer": true,
   "lean": "Adam's call",
-  "case": "The famous Vizetelly edition, the one that got Henry Vizetelly prosecuted. No translator is named, so it fails the lane rule as written. Its 'unabridged' claim is also doubtful."
+  "case": "The famous Vizetelly edition, the one that got Henry Vizetelly prosecuted. No translator is named, so it fails the lane rule as written. Its 'unabridged' claim is also doubtful. UPDATE 2026-11-03: Lane B also found PG 8558 and 8600, which name no translator, and a second Vizetelly scan, assommoirprelud00zolagoog."
  },
  {
   "bloom": [
@@ -207,6 +207,245 @@
   "printing": "copyright 1924 (Knopf), but this scan is a New Directions printing from after 1936",
   "text_layer": true,
   "lean": "hold",
-  "case": "The text is US public domain, but the scan is a post-1930 printing, so it fails the lane's printing rule. Hold for a 1924 Knopf scan."
+  "case": "The text is US public domain, but the scan is a post-1930 printing, so it fails the lane's printing rule. Hold for a 1924 Knopf scan. UPDATE 2026-11-03: Lane B's PG 1253 and 10458 name no translator."
+ },
+ {
+  "bloom": [
+   141
+  ],
+  "work": "Calderón, Dramas: Tragic, Comic and Legendary, vol. I (The Constant Prince; The Secret in Words; The Physician of His Own Honour)",
+  "source": "internet_archive",
+  "id": "dramastragiccom00maccgoog",
+  "translator": "Denis Florence MacCarthy",
+  "printing": "C. Dolman, London, 1853",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. Bloom's 'The Doctor of His Own Honor' is the Physician of His Own Honour, which the contents list at p. 281. MacCarthy is already the house Calderón (denis-maccarthy shelf), but this 1853 volume is not on it. It brings The Constant Prince with it, which is a Calderón Bloom does not name but which is famous in its own right.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   259
+  ],
+  "work": "Ronsard, Songs and Sonnets of Pierre de Ronsard",
+  "source": "internet_archive",
+  "id": "songssonnetsofpi00rons",
+  "translator": "Curtis Hidden Page",
+  "printing": "Houghton Mifflin, Boston and New York, 1903",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. Title page: 'Selected & translated into English verse by Curtis Hidden Page'. A selection, but the only all-Ronsard English book found. Payne's Flowers of France (held) has some Ronsard among many poets.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   266
+  ],
+  "work": "Corneille, Nicomede, a Tragi-Comedy",
+  "source": "internet_archive",
+  "id": "bim_early-english-books-1641-1700_nicomede-a-tragi-comedy-_corneille-pierre_1671",
+  "translator": "John Dancer",
+  "printing": "London, 1671",
+  "text_layer": true,
+  "lean": "Adam's call",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. The only English Nicomède found. It is a Restoration EEBO scan with a long-s, poor OCR, so it reads badly until cleaned. Keep it only if you want Bloom's lesser Corneilles at all. The Cid (PG 14954, Mongan) is already held on singles-fiction-4.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   297
+  ],
+  "work": "Voltaire, Toleration and Other Essays (incl. the Poem on the Lisbon Disaster)",
+  "source": "gutenberg",
+  "id": "64858",
+  "translator": "Joseph McCabe",
+  "printing": "G. P. Putnam's Sons (Knickerbocker Press), New York and London, 1912",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. PG names McCabe as translator, and the contents include the 'Poem on the Lisbon Disaster' at p. 255. It covers Bloom's title and adds the Treatise on Toleration. McCabe has a shelf already (mccabe), but it holds his own books, not this.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   317
+  ],
+  "work": "Goethe, West-Eastern Divan in Twelve Books",
+  "source": "internet_archive",
+  "id": "cihm_86815",
+  "translator": "Edward Dowden",
+  "printing": "J. M. Dent, London and Toronto, 1914",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. The only complete English Divan before 1931. Title page read: 'Translated by Edward Dowden', 1914, published posthumously. The scan is from microfilm and the OCR is noisy at the start, so expect cleanup.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   318
+  ],
+  "work": "Schiller, The Robbers",
+  "source": "gutenberg",
+  "id": "6782",
+  "translator": "not named in the PG file (thought to be the Bohn translation; its note says 'Now first translated into English')",
+  "printing": "not stated",
+  "text_layer": true,
+  "lean": "hold",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. The PG file names neither a translator nor a printing, so it fails the named-translator rule. Better to find a credited pre-1931 printing, such as Bohn's Dramatic Works, on archive.org.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   320
+  ],
+  "work": "Schiller, Wallenstein's Camp",
+  "source": "gutenberg",
+  "id": "6785",
+  "translator": "James Churchill",
+  "printing": "not stated in the PG header",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. Coleridge's Piccolomini and Death of Wallenstein are already held (coleridge shelf). This is the missing first part, so it completes the trilogy, and PG credits 'Translated by James Churchill'.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   341
+  ],
+  "work": "Verga, Little Novels of Sicily",
+  "source": "internet_archive",
+  "id": "littlenovelsofsi0000giov_w7r6",
+  "translator": "D. H. Lawrence",
+  "printing": "Basil Blackwell, Oxford, 1929",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. Title page read: 'Translated by D. H. Lawrence', Blackwell 1929. A pre-1931 printing, and US public domain (first published 1925). A Bloom title translated by a Bloom author.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   342
+  ],
+  "work": "Verga, Mastro-Don Gesualdo",
+  "source": "internet_archive",
+  "id": "mastrodongesuald0000giov_s4h7",
+  "translator": "D. H. Lawrence",
+  "printing": "Jonathan Cape, London: first published 1925, this scan the Travellers' Library reissue of 1928",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. Title page read: 'Translated by D. H. Lawrence', with the printing line 'First published 1925, re-issued in the Travellers' Library 1928'. Pre-1931 printing. Lawrence's own introduction is included.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   345
+  ],
+  "work": "Bécquer, Poems",
+  "source": "internet_archive",
+  "id": "poemsofgustavoad00bc",
+  "translator": "Mason Carnes",
+  "printing": "Kegan Paul, Trench, Trübner, London, 1891",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. The only English Bécquer poems before 1931 found. The held 'Romantic Legends of Spain' is his prose, not the Rimas.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   351
+  ],
+  "work": "Chateaubriand, Atala",
+  "source": "gutenberg",
+  "id": "44427",
+  "translator": "not named in the PG file (the Doré-illustrated edition)",
+  "printing": "not stated",
+  "text_layer": true,
+  "lean": "hold",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. No translator is named, so it fails the lane rule. The Commelin 'Atala' is a poetic dramatization, already rejected. Look for a credited scan of the Doré edition, which was Cassell's, translated by James Spence Harry.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   357
+  ],
+  "work": "Victor Hugo, Poems (Bohn collection)",
+  "source": "gutenberg",
+  "id": "8775",
+  "translator": "various, each poem credited to its translator",
+  "printing": "1888 (per PG front matter)",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. A many-hands anthology. Every poem carries its translator's name, which is how the house already treats Bohn collections. No Hugo poetry is held.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   360
+  ],
+  "work": "Victor Hugo, William Shakespeare",
+  "source": "gutenberg",
+  "id": "53490",
+  "translator": "A. Baillot",
+  "printing": "Estes and Lauriat, Boston (1864 on the title page; probably a later issue of the 1864 translation)",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. PG header and title page both credit A. Baillot. Hugo on Shakespeare is a natural fit for the shelves.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   364,
+   365
+  ],
+  "work": "Alfred de Musset, The Complete Writings (10 vols)",
+  "source": "internet_archive",
+  "id": "writingsmusset01mussiala, writingsmusset02mussiala, writingsmusset04mussiala (others to find)",
+  "translator": "various per volume: vol. 4 'done into English by Dr. Edmund Burke Thompson'; vols. 1-2 poems by Andrew Lang, Marie Agathe Clarke and others (IA catalogue; not read on the page)",
+  "printing": "Edwin C. Hill, New York, 1905 (subscription edition)",
+  "text_layer": true,
+  "lean": "keep",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. One set covers two Bloom entries: the Poems (vols. 1-2, with the Nights) and Lorenzaccio (vol. 4, title page read). The held 'Confession of a Child of the Century' is probably vol. 8 of the same family. Shelve the Bloom volumes only, not all ten, under the no-bloat rule.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   383
+  ],
+  "work": "Flaubert, Sentimental Education (2 vols)",
+  "source": "gutenberg",
+  "id": "34828, 27537",
+  "translator": "not named (M. Walter Dunne edition)",
+  "printing": "M. Walter Dunne, New York and London, copyright 1904",
+  "text_layer": true,
+  "lean": "Adam's call",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. This is the same Dunne text Lane C found on archive.org. It names no translator, so it fails the lane rule; the only credited alternative found (Brentano's 1922) names Ranous as editor only. Waive the rule or go without.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   575
+  ],
+  "work": "Pushkin, The Bakchesarian Fountain and Other Poems by Various Authors",
+  "source": "gutenberg",
+  "id": "8192",
+  "translator": "William D. Lewis",
+  "printing": "Philadelphia, 1849",
+  "text_layer": true,
+  "lean": "cut",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. Only one Pushkin narrative poem, padded out with Derzhavin and others. Thin cover for Bloom's 'Narrative Poems'. Panin's Poems (1888, PG 54991) is already held on singles-plays-poetry-2 for entry 573.",
+  "from": "lane-b-handoff"
+ },
+ {
+  "bloom": [
+   715
+  ],
+  "work": "Unamuno, Three Exemplary Novels",
+  "source": "internet_archive",
+  "id": "threeexemplaryno0000migu_w2m4",
+  "translator": "Angel Flores",
+  "printing": "text copyright 1930 (Boni); this scan is a Grove Press printing with a 1956 introduction",
+  "text_layer": true,
+  "lean": "hold",
+  "case": "From Lane B's handoff (docs/review/bloom/lane-c-handoff.md, branch claude/project-thread-yu0x73, commit e4a93ce9); access and credit rechecked by Lane C. It fails two lane rules: 1930 printings are held, and the scan is a 1950s Grove printing whose del Río introduction is still in copyright. Hold for a 1930 Boni scan and a ruling on 1930.",
+  "from": "lane-b-handoff"
  }
 ]

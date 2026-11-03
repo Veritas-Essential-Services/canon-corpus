@@ -73,3 +73,30 @@ These were searched and nothing passed the rules. That does not prove none exist
   - Atala: the 1902 Commelin is a "poetic dramatization", not a translation.
   - Salammbô: the Chartres Everyman scan is a 1956 reprint (Sheldon 1886 is staged instead).
   - Nana: the 1922 Knopf names no translator.
+
+## 4. Lane B's handoff (added 2026-11-03, later the same day)
+
+Lane B's research pass found 40 Bloom entries on lane C's ground (`docs/review/bloom/lane-c-handoff.md`
+on `claude/project-thread-yu0x73`, commit e4a93ce9). Lane C took each one in turn: checked it
+against every shelf on every branch, rechecked access, and read the credit line in the scan
+or the PG file.
+
+- **Staged here (17 more; the JSON now holds 33):**
+  - lean keep (11): MacCarthy's 1853 Calderón vol. I (with The Physician of His Own Honour); Page's Ronsard; McCabe's Voltaire, Toleration (with the Lisbon poem); Dowden's complete West-Eastern Divan; Churchill's Wallenstein's Camp (completes Coleridge's held trilogy); Lawrence's Little Novels of Sicily and Mastro-Don Gesualdo; Carnes's Bécquer; Bohn's Hugo Poems; Baillot's Hugo, William Shakespeare; the Musset Complete Writings (Bloom volumes only)
+  - Adam's call (2): Dancer's 1671 Nicomede (EEBO OCR); the Dunne Sentimental Education (no translator named)
+  - hold (3): PG Robbers and PG Atala (no translator named); Flores's Unamuno (only a 1950s Grove printing)
+  - cut (1): Lewis's Bakchesarian Fountain (too thin)
+- **Already held, so not staged:**
+  | Bloom n | Work | Shelf |
+  |---|---|---|
+  | 127 | Luis de León, Phillips 1883 | `luis-de-leon` |
+  | 256 | Heptameron, Saintsbury | `saintsbury-heptameron` |
+  | 262 | Garnier's Antonius, Pembroke | `singles-fiction-4` |
+  | 264 | The Cid, PG 14954 | `singles-fiction-4` |
+  | 270 | La Rochefoucauld, PG 9105 | `singles-ideas` |
+  | 293 | Eloisa, PG 76639 | `singles-fiction-3` |
+  | 336 | Leopardi's Essays and Dialogues, PG 52356 | `singles-ideas-2` |
+  | 344 | Verga's Under the Shadow of Etna, Dole | `dole` |
+  | 573 | Pushkin's Poems, Panin, PG 54991 | `singles-plays-poetry-2` |
+- **Skipped:** 588, Mandell's Turgenev Plays, which Lane B has already shelved.
+- **Already staged here before the handoff:** the remaining 12 of the 40. Lane B's alternative sources for them are noted in each case; none changes a pick.

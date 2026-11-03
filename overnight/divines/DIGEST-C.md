@@ -2374,3 +2374,11 @@ Adam's usage-burn ask, under the Bloom-only, no-bloat ruling of 10/27. Nothing w
 3. Later printings of PD texts: *The Dybbuk* (now moved to Lane B, which judges the 1937 printing a straight reprint) and McDowall's *Three Tales* (1924 text, scan is a post-1936 printing). Is a later printing of a pre-1931 text acceptable?
 4. Still open from before: the Muther joint credit.
 5. Ten held mn-dutt volumes. Under Bloom-only they would not be added even if found, so lane C proposes dropping the search unless you say otherwise.
+
+**Later on 2026-11-03: Lane B's handoff.** Lane B passed 40 Bloom finds on lane C ground to lane C. All were checked here:
+- 17 were staged with cases, making 33 in staging-C. Of the 17, 11 lean keep, 2 are Adam's call, 3 are held and 1 leans cut.
+- 9 were already held on our shelves, and Lane B's matcher had missed them.
+- 12 were already staged.
+- 1 (Mandell's Turgenev) Lane B shelved itself.
+
+Nothing was shelved. One more open call for Adam: of the Musset Complete Writings (1905, 10 vols), shelve only the Bloom volumes (poems, vols. 1-2; Lorenzaccio, vol. 4), or the whole set?
