@@ -1,0 +1,45 @@
+{
+ "_about": "Thomas Wade. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Wade",
+ "_name_words": [
+  "thomas",
+  "wade"
+ ],
+ "_surname": [
+  "wade",
+  "thomas wade"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wade-mundi-et-cordis": [
+   "cu31924104000595",
+   "Mundi et Cordis: de rebus sempiternis et temporariis: carmina. Poems and Sonnets"
+  ]
+ },
+ "_bloom": {
+  "wade-mundi-et-cordis": {
+   "bloom_n": [
+    450
+   ],
+   "bloom_title": "Poems",
+   "year": "1835 (IA metadata and the bookseller's slip in the scan: 'London: John Miller, 1835')",
+   "evidence": "Read the opening of the djvu: Wordsworth's presentation copy, Cornell. Collection cornell/americana.",
+   "case": "Bloom lists Wade's poems; nothing by him is held. Mundi et Cordis (1835) is his main collection of poems and sonnets.",
+   "note": "The title page itself was not reached in the first 3,000 characters; the date comes from IA metadata and the bound-in bookseller's description."
+  }
+ },
+ "_checks": {
+  "wade-mundi-et-cordis": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
