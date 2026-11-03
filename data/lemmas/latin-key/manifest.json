@@ -1,0 +1,139 @@
+{
+ "schema": "wordhoard/latin-key/v1",
+ "key": "Lewis & Short's own entry key (Perseus `key`), cited lewis-short:<key>",
+ "sources": {
+  "lewis-short": {
+   "repo": "https://github.com/PerseusDL/lexica",
+   "commit": "56061ca127f4a2844980baffc5f2b6d1332897b3",
+   "path": "CTS_XML_TEI/perseus/pdllex/lat/ls/lat.ls.perseus-eng2.xml",
+   "sha256": "a21c3799f42d33931b463c19a036b0e5c4a6504ccbd81ee55a262421a9e1836c",
+   "edition": "Lewis & Short, A Latin Dictionary (Oxford: Clarendon Press, 1879)",
+   "rights": {
+    "work": "public-domain (1879)",
+    "license": "CC BY-SA 4.0 (Perseus's machine-readable text)",
+    "attribution": "Text provided under a CC BY-SA license by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from The National Endowment for the Humanities. Data accessed from https://github.com/PerseusDL/lexica/ [2026-10-02].",
+    "source_url": "https://github.com/PerseusDL/lexica/tree/master/CTS_XML_TEI/perseus/pdllex/lat/ls",
+    "committed": "entry keys, Perseus entry ids, homograph numbers, entry types and the word-class tags only; no definition text",
+    "redistribute_whole": false
+   }
+  },
+  "whitaker": {
+   "commit": "1f2f0fb0867a896d7b9284a03d615ed635d6f992",
+   "license": "free-grant (README-lemma-spine.md s.1)",
+   "house_supplement": true,
+   "proper_names": true
+  },
+  "vulgate": {
+   "pin": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+   "license": "public-domain",
+   "verses": 35809,
+   "cited_as": "vulgate:<id>, the Vulgate's own numbering"
+  }
+ },
+ "counts": {
+  "lewis_short_entries": 51645,
+  "whitaker_lemmas": 40827,
+  "whitaker_lemmas_by_status": {
+   "ambiguous": 410,
+   "case": 302,
+   "clash": 32,
+   "class": 1045,
+   "gender": 59,
+   "headword": 23648,
+   "none": 13427,
+   "pointer": 967,
+   "spelling": 847,
+   "voice": 90
+  },
+  "vulgate_forms": 46316,
+  "vulgate_forms_by_status": {
+   "no-ls": 3936,
+   "several": 8768,
+   "sure": 33381,
+   "unread": 231
+  },
+  "vulgate_tokens_by_status": {
+   "no-ls": 19307,
+   "several": 166768,
+   "sure": 425452,
+   "unread": 502
+  },
+  "vulgate_tokens_by_outcome": {
+   "no-ls": 19307,
+   "resolved": 48805,
+   "sure": 425450,
+   "unread": 502,
+   "unresolved": 117965
+  },
+  "vulgate_tokens_resolved_by_rule": {
+   "rare-entry": 20840,
+   "idem-dem": 8957,
+   "prep-object": 6359,
+   "whole-word": 3058,
+   "rare-inflection": 2852,
+   "possessive-agrees": 2204,
+   "no-prep-object": 1875,
+   "proper-lower": 1841,
+   "proper-lower+prep-object": 465,
+   "si-quis": 192,
+   "rare-inflection+rare-entry": 64,
+   "rare-inflection+prep-object": 28,
+   "proper-lower+rare-entry": 24,
+   "possessive-agrees+rare-entry": 17,
+   "proper-lower+rare-inflection": 9,
+   "proper-lower+possessive-agrees": 8,
+   "rare-entry+prep-object": 7,
+   "rare-entry+no-prep-object": 3,
+   "proper-lower+possessive-agrees+prep-object": 2
+  },
+  "vulgate_tokens_resolved_by_kind": {
+   "a grammar rule took part": 21991,
+   "priors only (rare-entry, rare-inflection, whole-word)": 26814
+  },
+  "vulgate_keys": 9211,
+  "strongs_latin": {
+   "verse_pairs": 31057,
+   "numbers_seen": 14047,
+   "numbers_with_latin": 3962,
+   "numbers_with_latin_thin": 1265,
+   "rule": {
+    "min_verses": 3,
+    "min_dice": 0.1,
+    "of_top": 0.4,
+    "max": 5,
+    "mutual_top": 3,
+    "thin_below": 10
+   }
+  }
+ },
+ "not_claimed": [
+  "A Whitaker lemma is matched to L&S by headword, then by word class; never by meaning.",
+  "A context rule (README s.4b) only removes readings; what no rule settles stays null, and its verse is listed under `possible` for every reading WORDS allows.",
+  "A resolved token is tagged with the rule ids that settled it; no rule reads meaning.",
+  "Words L&S does not have (Church Latin coinages, many names) keep their Whitaker lemma only.",
+  "No uid is proposed or minted."
+ ],
+ "files": {
+  "lewis-short.jsonl": {
+   "rows": 51645,
+   "sha256": "de484ff6f74a49f575be5cf4af471cc97b9b6db5bf1e829a4bb07d91ad70e5d6"
+  },
+  "whitaker-ls.jsonl": {
+   "rows": 40827,
+   "sha256": "f2a6649ab7fc732ba7787452e5661409e362ff0973a25921db2cd7c4c21a2a0e"
+  },
+  "vulgate-forms.jsonl": {
+   "rows": 46316,
+   "sha256": "661310d3f8a89cfc6f2f63f9e118e0bdc8bfc875cb48fb77a188a6aa985a9249"
+  },
+  "vulgate-concordance.jsonl": {
+   "rows": 9211,
+   "sha256": "ca957a8eceb45b9ccc0280e93e98c2a439ef9a638f2cc0719d26440093439887"
+  },
+  "strongs-latin.jsonl": {
+   "rows": 3962,
+   "sha256": "7a89736b2f80d7311e185bc285014f0f23f87b18466b7b3b979b2f4f44beb969"
+  }
+ },
+ "files_dir": "build/latin-key/ (gitignored: built from Perseus's CC BY-SA text)"
+}

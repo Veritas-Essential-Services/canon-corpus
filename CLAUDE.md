@@ -142,6 +142,15 @@ The living truth for project state is the Obsidian vault:
     python3 tests/ot_corpus_test.py          # validator for data/ot/<Book>/*.jsonl
     python3 pipeline/rebuild_bible.py        # NT + OT from the pins (one git fetch each), timed, then --check
     python3 pipeline/rebuild_bible.py --verify  # same, in memory: proves = the manifests, writes nothing
+    python3 pipeline/build_strongs.py --fetch # the Strong's-tagged KJV (eBible) into data/corpus/
+    python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
+    python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
+    python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
+    python3 pipeline/strongs_coverage.py     # Strong's vs BDB/Thayer -> docs/strongs-coverage/ (--check)
+    python3 pipeline/build_latin_key.py --fetch  # Lewis & Short (Perseus TEI, CC BY-SA), pinned
+    python3 pipeline/build_latin_key.py      # L&S key <- Whitaker lemma <- every Vulgate word
+    python3 pipeline/build_latin_key.py --check  # manifest byte-identical; build/latin-key = its sha256
+    python3 tests/latin_key_test.py          # the Latin key, its links, the Vulgate concordance
     python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
     python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
     python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
@@ -301,6 +310,34 @@ The living truth for project state is the Obsidian vault:
   prints 6:37 in that slot; Sir 29:16-34 run one behind; Isa 46:11, 2 Sam
   13:38, Ps 150:5 hold the next verse's words); empty padding
   verses in the file are dropped, never given ids.
+- pipeline/build_strongs.py — Strong's numbers (H1–H8674, G1–G5624, 1890, PD)
+  as THE key for every Hebrew and Greek word → data/strongs/ (COMMITTED): the
+  table, one PROPOSED uid per word (citation `strongs:G26`, kind lexeme; NOT
+  in data/uids/ until Adam rules, then `--adopt`), the BDB/TBESG/LSJ/Thayer
+  entries for each number (citations only), number → NT passage uids, and
+  KJV verse ids in the Vulgate/Douay/Brenton where the numbering differs.
+  🔴 The KJV's English words tagged with their numbers (eBible says PD,
+  CrossWire's conf says GPL; Adam's call) and everything built from them
+  (renderings, the kjv concordance, concordance-view.jsonl) build to
+  build/strongs/ only, sha256 in manifest.local, until he rules; removed from
+  the branch tip 2026-10-02 (still in its earlier commits: squash-merge). OSHB's CC BY tags for data/ot/ build to
+  build/ only, never committed. Rules: pipeline/README-strongs.md
+- pipeline/build_latin_key.py — Lewis & Short (1879, PD; Perseus's TEI is
+  CC BY-SA 4.0) as THE key for Latin words, `lewis-short:<key>` (Perseus's
+  entry key, homographs numbered: malus1) → build/latin-key/ (gitignored;
+  only data/lemmas/latin-key/manifest.json is committed, with each file's
+  sha256. Entry keys and printed facts only, never definitions; whether even
+  that may be committed is Adam's call; removed from the branch tip
+  2026-10-02, still in earlier commits: squash-merge). Whitaker lemmas link to L&S by spelling and
+  class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
+  sure by form (69.5%), or resolved in its verse by a named context rule
+  (8.0%: 3.6% with a grammar rule, 4.4% by frequency priors alone, counted
+  apart; every rule id tagged), else null and listed `possible` (19.3%). A
+  prior never swaps a noun for a verb (peccata is not pecco). A verb never links to a noun-only entry
+  (status clash: WORDS's vis "you want" is not L&S's vis "force"). Rules only remove readings (README s.4b).
+  strongs-latin.jsonl: each Strong's number's Vulgate words (G26 -> caritas,
+  dilectio), by verse co-occurrence: statistical evidence, never a reading.
+  Mints nothing. Rules: pipeline/README-latin-key.md
 - Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
   USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
   (gitignored), 28,617 verses in the Greek's OWN numbering: Psalms by the Greek
