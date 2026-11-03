@@ -1,0 +1,44 @@
+{
+ "_about": "Matthew George Easton (1823-1894), Illustrated Bible Dictionary (New York: Harper & Brothers, 1893), the first edition of what Libronix sells as Easton's Bible Dictionary. The 1897 third edition has no open pre-1930 scan found. Added 2026-11-03 by lane A from Adam's Libronix inventory; Internet Archive OCR, raw; title and imprint read from the scan's title page. No uids minted. US public domain.",
+ "_name_words": [
+  "easton",
+  "m. g. easton"
+ ],
+ "_surname": [
+  "easton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "easton-bible-dictionary": [
+   "illustratedbible00east",
+   "Illustrated Bible Dictionary and Treasury of Biblical History, Biography, Geography, Doctrine, and Literature (New York: Harper & Brothers, 1893)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "easton-bible-dictionary": {
+   "author": "OCR reads 'BY M. G. EASTOxN, M.A., D.D.'; the title page is M. G. Easton's, Harper & Brothers, copyright 1893"
+  }
+ },
+ "_pending": {
+  "easton-bible-dictionary-1897": "Third edition (London: Nelson, 1897): no open scan found; the ellen-g-white-estate upload had no text file"
+ },
+ "_translators": {},
+ "_checks": {
+  "easton-bible-dictionary": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
