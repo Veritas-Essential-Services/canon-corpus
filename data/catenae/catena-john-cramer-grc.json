@@ -1,0 +1,2255 @@
+{
+ "slug": "catena-john-cramer-grc",
+ "source_sha256": "3d78242146e0bb25557e3cf94bbeb0f29547f90d0c9d085e7adecd1f67c60e53",
+ "rp2018": {
+  "commit": "27a45ff1b7be6c17ccbfeac414f3f55732ae8e28",
+  "file": "JOH.csv"
+ },
+ "rule": {
+  "skip": 0.3,
+  "back": 0.35,
+  "gap": 0.05,
+  "jump": 0.02,
+  "fix": 0.35,
+  "fix_min": 0.6,
+  "fix_at": 0.3,
+  "lb": 0.5,
+  "short": 3,
+  "min_place": 0.1
+ },
+ "honesty": "The chapter of every verse is MEASURED, not printed: of 466 numbered marks, 248 were placed at a verse by pipeline/place_catena.py (212 printed verse numbers, 36 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 184 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 226 at least 30% (the others are linked as weak); 8 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-21; a kephalaion with no placed mark is one unlinked unit.",
+ "placed": [
+  {
+   "ord": 0,
+   "k": "praef",
+   "n": "1",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 1,
+   "score": 0.6667
+  },
+  {
+   "ord": 3,
+   "k": "praef",
+   "n": "4",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 4,
+   "score": 0.8333
+  },
+  {
+   "ord": 5,
+   "k": "praef",
+   "n": "5",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 5,
+   "score": 1.0
+  },
+  {
+   "ord": 6,
+   "k": "praef",
+   "n": "6",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 6,
+   "score": 1.0
+  },
+  {
+   "ord": 9,
+   "k": "praef",
+   "n": "9",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 9,
+   "score": 0.6667
+  },
+  {
+   "ord": 13,
+   "k": "praef",
+   "n": "10",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 10,
+   "score": 0.875
+  },
+  {
+   "ord": 17,
+   "k": "praef",
+   "n": "14",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 14,
+   "score": 1.0
+  },
+  {
+   "ord": 20,
+   "k": "praef",
+   "n": "16",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 16,
+   "score": 0.8
+  },
+  {
+   "ord": 21,
+   "k": "praef",
+   "n": "18",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 18,
+   "score": 0.8462
+  },
+  {
+   "ord": 23,
+   "k": "praef",
+   "n": "27",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 27,
+   "score": 0.5
+  },
+  {
+   "ord": 24,
+   "k": "praef",
+   "n": "29",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 29,
+   "score": 0.6471
+  },
+  {
+   "ord": 28,
+   "k": "praef",
+   "n": "35",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 35,
+   "score": 0.5556
+  },
+  {
+   "ord": 30,
+   "k": "praef",
+   "n": "38",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 38,
+   "score": 1.0
+  },
+  {
+   "ord": 31,
+   "k": "praef",
+   "n": "41",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 40,
+   "score": 1.0
+  },
+  {
+   "ord": 33,
+   "k": "praef",
+   "n": "42",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 42,
+   "score": 0.1765
+  },
+  {
+   "ord": 34,
+   "k": "praef",
+   "n": "43",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 43,
+   "score": 0.1429
+  },
+  {
+   "ord": 36,
+   "k": "praef",
+   "n": "49",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 49,
+   "score": 0.7273
+  },
+  {
+   "ord": 38,
+   "k": "1",
+   "n": "1",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 1,
+   "score": 0.5
+  },
+  {
+   "ord": 40,
+   "k": "1",
+   "n": "5",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 5,
+   "score": 0.875
+  },
+  {
+   "ord": 41,
+   "k": "1",
+   "n": "6",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 6,
+   "score": 0.3333
+  },
+  {
+   "ord": 43,
+   "k": "1",
+   "n": "12",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 12,
+   "score": 0.3333
+  },
+  {
+   "ord": 46,
+   "k": "2",
+   "n": "18",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 18,
+   "score": 0.5833
+  },
+  {
+   "ord": 48,
+   "k": "2",
+   "n": "20",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 20,
+   "score": 0.5385
+  },
+  {
+   "ord": 51,
+   "k": "3",
+   "n": "1",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 2,
+   "score": 0.7692
+  },
+  {
+   "ord": 52,
+   "k": "3",
+   "n": "3",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 3,
+   "score": 0.6667
+  },
+  {
+   "ord": 53,
+   "k": "3",
+   "n": "11",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 11,
+   "score": 0.4615
+  },
+  {
+   "ord": 54,
+   "k": "3",
+   "n": "12",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 12,
+   "score": 0.2
+  },
+  {
+   "ord": 55,
+   "k": "3",
+   "n": "14",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 14,
+   "score": 0.6923
+  },
+  {
+   "ord": 57,
+   "k": "3",
+   "n": "16",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 16,
+   "score": 0.9091
+  },
+  {
+   "ord": 60,
+   "k": "3",
+   "n": "18",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 18,
+   "score": 0.3077
+  },
+  {
+   "ord": 61,
+   "k": "3",
+   "n": "19",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 19,
+   "score": 0.6667
+  },
+  {
+   "ord": 63,
+   "k": "4",
+   "n": "22",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 22,
+   "score": 0.4375
+  },
+  {
+   "ord": 65,
+   "k": "4",
+   "n": "25",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 25,
+   "score": 0.7
+  },
+  {
+   "ord": 71,
+   "k": "4",
+   "n": "34",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 34,
+   "score": 0.6
+  },
+  {
+   "ord": 72,
+   "k": "4",
+   "n": "35",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 35,
+   "score": 1.0
+  },
+  {
+   "ord": 73,
+   "k": "4",
+   "n": "36",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 36,
+   "score": 0.6471
+  },
+  {
+   "ord": 75,
+   "k": "5",
+   "n": "4",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 78,
+   "k": "5",
+   "n": "12",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 12,
+   "score": 0.5
+  },
+  {
+   "ord": 79,
+   "k": "5",
+   "n": "16",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 16,
+   "score": 0.7273
+  },
+  {
+   "ord": 83,
+   "k": "5",
+   "n": "27",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 27,
+   "score": 0.3889
+  },
+  {
+   "ord": 85,
+   "k": "5",
+   "n": "28",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 28,
+   "score": 0.4615
+  },
+  {
+   "ord": 86,
+   "k": "5",
+   "n": "31",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 32,
+   "score": 1.0
+  },
+  {
+   "ord": 88,
+   "k": "5",
+   "n": "39",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 39,
+   "score": 0.85
+  },
+  {
+   "ord": 89,
+   "k": "5",
+   "n": "42",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 42,
+   "score": 0.4286
+  },
+  {
+   "ord": 90,
+   "k": "6",
+   "n": "42",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 44,
+   "score": 0.9091
+  },
+  {
+   "ord": 93,
+   "k": "6",
+   "n": "46",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 46,
+   "score": 0.5789
+  },
+  {
+   "ord": 94,
+   "k": "6",
+   "n": "51",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 51,
+   "score": 0.4167
+  },
+  {
+   "ord": 97,
+   "k": "7",
+   "n": "1",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 1,
+   "score": 1.0
+  },
+  {
+   "ord": 98,
+   "k": "7",
+   "n": "2",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 2,
+   "score": 0.8
+  },
+  {
+   "ord": 101,
+   "k": "7",
+   "n": "8",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 8,
+   "score": 0.2
+  },
+  {
+   "ord": 103,
+   "k": "7",
+   "n": "12",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 12,
+   "score": 0.6429
+  },
+  {
+   "ord": 104,
+   "k": "7",
+   "n": "14",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 14,
+   "score": 0.4444
+  },
+  {
+   "ord": 105,
+   "k": "7",
+   "n": "17",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 17,
+   "score": 0.6
+  },
+  {
+   "ord": 108,
+   "k": "7",
+   "n": "20",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 20,
+   "score": 0.5556
+  },
+  {
+   "ord": 109,
+   "k": "7",
+   "n": "22",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 22,
+   "score": 0.9091
+  },
+  {
+   "ord": 110,
+   "k": "7",
+   "n": "24",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 24,
+   "score": 0.3913
+  },
+  {
+   "ord": 111,
+   "k": "7",
+   "n": "25",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 25,
+   "score": 0.7368
+  },
+  {
+   "ord": 113,
+   "k": "7",
+   "n": "27",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 27,
+   "score": 0.8
+  },
+  {
+   "ord": 114,
+   "k": "7",
+   "n": "30",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 30,
+   "score": 0.6667
+  },
+  {
+   "ord": 116,
+   "k": "7",
+   "n": "31",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 31,
+   "score": 1.0
+  },
+  {
+   "ord": 117,
+   "k": "7",
+   "n": "34",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 34,
+   "score": 1.0
+  },
+  {
+   "ord": 119,
+   "k": "7",
+   "n": "35",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 35,
+   "score": 0.5833
+  },
+  {
+   "ord": 121,
+   "k": "7",
+   "n": "39",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 39,
+   "score": 0.8125
+  },
+  {
+   "ord": 123,
+   "k": "7",
+   "n": "43",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 43,
+   "score": 0.7143
+  },
+  {
+   "ord": 127,
+   "k": "8",
+   "n": "5",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 5,
+   "score": 0.5455
+  },
+  {
+   "ord": 130,
+   "k": "8",
+   "n": "13",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 13,
+   "score": 0.1429
+  },
+  {
+   "ord": 133,
+   "k": "9",
+   "n": "20",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 20,
+   "score": 0.6
+  },
+  {
+   "ord": 135,
+   "k": "9",
+   "n": "22",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 22,
+   "score": 0.68
+  },
+  {
+   "ord": 136,
+   "k": "9",
+   "n": "27",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 27,
+   "score": 0.3684
+  },
+  {
+   "ord": 138,
+   "k": "9",
+   "n": "27",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 27,
+   "score": 0.5263
+  },
+  {
+   "ord": 139,
+   "k": "9",
+   "n": "29",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 29,
+   "score": 0.7333
+  },
+  {
+   "ord": 141,
+   "k": "9",
+   "n": "31",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 31,
+   "score": 0.5
+  },
+  {
+   "ord": 146,
+   "k": "9",
+   "n": "37",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 37,
+   "score": 0.5833
+  },
+  {
+   "ord": 147,
+   "k": "9",
+   "n": "38",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 38,
+   "score": 0.8182
+  },
+  {
+   "ord": 149,
+   "k": "9",
+   "n": "41",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 41,
+   "score": 0.9231
+  },
+  {
+   "ord": 150,
+   "k": "9",
+   "n": "44",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 44,
+   "score": 0.6429
+  },
+  {
+   "ord": 152,
+   "k": "9",
+   "n": "45",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 45,
+   "score": 0.6111
+  },
+  {
+   "ord": 155,
+   "k": "9",
+   "n": "46",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 46,
+   "score": 0.8
+  },
+  {
+   "ord": 157,
+   "k": "9",
+   "n": "49",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 49,
+   "score": 0.8571
+  },
+  {
+   "ord": 158,
+   "k": "9",
+   "n": "52",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 52,
+   "score": 0.6429
+  },
+  {
+   "ord": 162,
+   "k": "9",
+   "n": "58",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 58,
+   "score": 0.8333
+  },
+  {
+   "ord": 163,
+   "k": "9",
+   "n": "60",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 60,
+   "score": 0.7857
+  },
+  {
+   "ord": 164,
+   "k": "9",
+   "n": "61",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 61,
+   "score": 0.4286
+  },
+  {
+   "ord": 165,
+   "k": "9",
+   "n": "64",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 64,
+   "score": 0.6667
+  },
+  {
+   "ord": 167,
+   "k": "9",
+   "n": "67",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 67,
+   "score": 0.5556
+  },
+  {
+   "ord": 169,
+   "k": "9",
+   "n": "68",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 68,
+   "score": 0.3077
+  },
+  {
+   "ord": 170,
+   "k": "9",
+   "n": "70",
+   "src": "lb",
+   "chapter": 6,
+   "verse": 70,
+   "score": 1.0
+  },
+  {
+   "ord": 172,
+   "k": "9",
+   "n": "1",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 1,
+   "score": 0.5333
+  },
+  {
+   "ord": 174,
+   "k": "9",
+   "n": "7",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 7,
+   "score": 0.7143
+  },
+  {
+   "ord": 175,
+   "k": "9",
+   "n": "8",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 8,
+   "score": 0.5385
+  },
+  {
+   "ord": 177,
+   "k": "9",
+   "n": "11",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 11,
+   "score": 0.7
+  },
+  {
+   "ord": 178,
+   "k": "9",
+   "n": "14",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 14,
+   "score": 0.4
+  },
+  {
+   "ord": 179,
+   "k": "9",
+   "n": "15",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 15,
+   "score": 0.7778
+  },
+  {
+   "ord": 180,
+   "k": "9",
+   "n": "17",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 17,
+   "score": 0.8824
+  },
+  {
+   "ord": 182,
+   "k": "9",
+   "n": "22",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 22,
+   "score": 0.8
+  },
+  {
+   "ord": 183,
+   "k": "9",
+   "n": "23",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 23,
+   "score": 0.5333
+  },
+  {
+   "ord": 186,
+   "k": "9",
+   "n": "29",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 29,
+   "score": 0.1111
+  },
+  {
+   "ord": 189,
+   "k": "9",
+   "n": "31",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 31,
+   "score": 0.6842
+  },
+  {
+   "ord": 190,
+   "k": "9",
+   "n": "33",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 33,
+   "score": 0.6429
+  },
+  {
+   "ord": 191,
+   "k": "9",
+   "n": "34",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 34,
+   "score": 1.0
+  },
+  {
+   "ord": 192,
+   "k": "9",
+   "n": "35",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 35,
+   "score": 0.6957
+  },
+  {
+   "ord": 195,
+   "k": "9",
+   "n": "40",
+   "src": "lb",
+   "chapter": 7,
+   "verse": 40,
+   "score": 0.8333
+  },
+  {
+   "ord": 202,
+   "k": "9",
+   "n": "12",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 12,
+   "score": 0.3684
+  },
+  {
+   "ord": 203,
+   "k": "9",
+   "n": "12",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 12,
+   "score": 0.1053
+  },
+  {
+   "ord": 204,
+   "k": "9",
+   "n": "13",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 13,
+   "score": 0.4167
+  },
+  {
+   "ord": 205,
+   "k": "9",
+   "n": "14",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 14,
+   "score": 0.2917
+  },
+  {
+   "ord": 208,
+   "k": "9",
+   "n": "16",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 16,
+   "score": 0.5333
+  },
+  {
+   "ord": 209,
+   "k": "9",
+   "n": "18",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 18,
+   "score": 0.9
+  },
+  {
+   "ord": 210,
+   "k": "9",
+   "n": "19",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 19,
+   "score": 0.7059
+  },
+  {
+   "ord": 211,
+   "k": "9",
+   "n": "20",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 20,
+   "score": 0.6875
+  },
+  {
+   "ord": 212,
+   "k": "9",
+   "n": "22",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 22,
+   "score": 0.4286
+  },
+  {
+   "ord": 213,
+   "k": "9",
+   "n": "24",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 24,
+   "score": 0.6923
+  },
+  {
+   "ord": 215,
+   "k": "9",
+   "n": "25",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 25,
+   "score": 0.6667
+  },
+  {
+   "ord": 217,
+   "k": "9",
+   "n": "28",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 28,
+   "score": 0.3333
+  },
+  {
+   "ord": 219,
+   "k": "9",
+   "n": "32",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 32,
+   "score": 1.0
+  },
+  {
+   "ord": 220,
+   "k": "9",
+   "n": "33",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 33,
+   "score": 0.5714
+  },
+  {
+   "ord": 222,
+   "k": "9",
+   "n": "36",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 36,
+   "score": 1.0
+  },
+  {
+   "ord": 223,
+   "k": "9",
+   "n": "37",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 37,
+   "score": 0.5833
+  },
+  {
+   "ord": 226,
+   "k": "9",
+   "n": "39",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 39,
+   "score": 0.5625
+  },
+  {
+   "ord": 229,
+   "k": "9",
+   "n": "42",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 42,
+   "score": 0.5455
+  },
+  {
+   "ord": 232,
+   "k": "9",
+   "n": "43",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 43,
+   "score": 0.2727
+  },
+  {
+   "ord": 233,
+   "k": "9",
+   "n": "44",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 44,
+   "score": 0.4
+  },
+  {
+   "ord": 235,
+   "k": "9",
+   "n": "45",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 45,
+   "score": 1.0
+  },
+  {
+   "ord": 236,
+   "k": "9",
+   "n": "47",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 47,
+   "score": 1.0
+  },
+  {
+   "ord": 238,
+   "k": "9",
+   "n": "48",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 48,
+   "score": 0.1538
+  },
+  {
+   "ord": 240,
+   "k": "9",
+   "n": "51",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 50,
+   "score": 0.6667
+  },
+  {
+   "ord": 241,
+   "k": "9",
+   "n": "52",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 52,
+   "score": 0.625
+  },
+  {
+   "ord": 243,
+   "k": "9",
+   "n": "54",
+   "src": "lb",
+   "chapter": 8,
+   "verse": 54,
+   "score": 0.4706
+  },
+  {
+   "ord": 247,
+   "k": "10",
+   "n": "2",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 2,
+   "score": 0.7143
+  },
+  {
+   "ord": 248,
+   "k": "10",
+   "n": "4",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 4,
+   "score": 0.2143
+  },
+  {
+   "ord": 251,
+   "k": "10",
+   "n": "6",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 6,
+   "score": 0.5333
+  },
+  {
+   "ord": 253,
+   "k": "10",
+   "n": "7",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 7,
+   "score": 0.2941
+  },
+  {
+   "ord": 255,
+   "k": "10",
+   "n": "7",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 7,
+   "score": 0.2353
+  },
+  {
+   "ord": 258,
+   "k": "10",
+   "n": "11",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 11,
+   "score": 0.375
+  },
+  {
+   "ord": 259,
+   "k": "10",
+   "n": "12",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 12,
+   "score": 0.3333
+  },
+  {
+   "ord": 260,
+   "k": "10",
+   "n": "15",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 15,
+   "score": 0.6111
+  },
+  {
+   "ord": 261,
+   "k": "10",
+   "n": "16",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 16,
+   "score": 0.56
+  },
+  {
+   "ord": 263,
+   "k": "10",
+   "n": "17",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 17,
+   "score": 0.7143
+  },
+  {
+   "ord": 265,
+   "k": "10",
+   "n": "18",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 18,
+   "score": 0.3529
+  },
+  {
+   "ord": 266,
+   "k": "10",
+   "n": "19",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 19,
+   "score": 0.7059
+  },
+  {
+   "ord": 267,
+   "k": "10",
+   "n": "31",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 23,
+   "score": 0.9
+  },
+  {
+   "ord": 268,
+   "k": "10",
+   "n": "24",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 24,
+   "score": 0.7895
+  },
+  {
+   "ord": 270,
+   "k": "10",
+   "n": "33",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 33,
+   "score": 1.0
+  },
+  {
+   "ord": 272,
+   "k": "10",
+   "n": "34",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 34,
+   "score": 0.75
+  },
+  {
+   "ord": 274,
+   "k": "10",
+   "n": "36",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 36,
+   "score": 0.6364
+  },
+  {
+   "ord": 276,
+   "k": "10",
+   "n": "39",
+   "src": "lb",
+   "chapter": 9,
+   "verse": 39,
+   "score": 0.5333
+  },
+  {
+   "ord": 278,
+   "k": "10",
+   "n": "1",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 1,
+   "score": 0.65
+  },
+  {
+   "ord": 279,
+   "k": "10",
+   "n": "4",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 4,
+   "score": 0.5333
+  },
+  {
+   "ord": 282,
+   "k": "10",
+   "n": "7",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 7,
+   "score": 0.6429
+  },
+  {
+   "ord": 283,
+   "k": "10",
+   "n": "15",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 15,
+   "score": 0.8667
+  },
+  {
+   "ord": 284,
+   "k": "10",
+   "n": "17",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 17,
+   "score": 0.8571
+  },
+  {
+   "ord": 286,
+   "k": "10",
+   "n": "18",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 18,
+   "score": 0.2273
+  },
+  {
+   "ord": 287,
+   "k": "10",
+   "n": "22",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 22,
+   "score": 0.4
+  },
+  {
+   "ord": 288,
+   "k": "10",
+   "n": "25",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 25,
+   "score": 0.8333
+  },
+  {
+   "ord": 290,
+   "k": "10",
+   "n": "40",
+   "src": "lb",
+   "chapter": 10,
+   "verse": 40,
+   "score": 0.8
+  },
+  {
+   "ord": 292,
+   "k": "11",
+   "n": "1",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 1,
+   "score": 0.4167
+  },
+  {
+   "ord": 293,
+   "k": "11",
+   "n": "7",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 7,
+   "score": 0.9091
+  },
+  {
+   "ord": 294,
+   "k": "11",
+   "n": "26",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 26,
+   "score": 0.6364
+  },
+  {
+   "ord": 296,
+   "k": "11",
+   "n": "40",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 40,
+   "score": 0.8571
+  },
+  {
+   "ord": 297,
+   "k": "11",
+   "n": "48",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 48,
+   "score": 0.6
+  },
+  {
+   "ord": 299,
+   "k": "11",
+   "n": "3",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 3,
+   "score": 0.2
+  },
+  {
+   "ord": 307,
+   "k": "11",
+   "n": "32",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 32,
+   "score": 0.15
+  },
+  {
+   "ord": 310,
+   "k": "11",
+   "n": "49",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 49,
+   "score": 0.7857
+  },
+  {
+   "ord": 311,
+   "k": "11",
+   "n": "53",
+   "src": "lb",
+   "chapter": 11,
+   "verse": 53,
+   "score": 0.625
+  },
+  {
+   "ord": 312,
+   "k": "12",
+   "n": "1",
+   "src": "lb",
+   "chapter": 12,
+   "verse": 1,
+   "score": 1.0
+  },
+  {
+   "ord": 313,
+   "k": "13",
+   "n": "9",
+   "src": "lb",
+   "chapter": 12,
+   "verse": 9,
+   "score": 0.9524
+  },
+  {
+   "ord": 314,
+   "k": "14",
+   "n": "15",
+   "src": "lb",
+   "chapter": 12,
+   "verse": 15,
+   "score": 0.5455
+  },
+  {
+   "ord": 315,
+   "k": "15",
+   "n": "20",
+   "src": "lb",
+   "chapter": 12,
+   "verse": 20,
+   "score": 0.75
+  },
+  {
+   "ord": 318,
+   "k": "15",
+   "n": "29",
+   "src": "lb",
+   "chapter": 12,
+   "verse": 29,
+   "score": 0.6923
+  },
+  {
+   "ord": 320,
+   "k": "15",
+   "n": "36",
+   "src": "lb",
+   "chapter": 12,
+   "verse": 36,
+   "score": 0.375
+  },
+  {
+   "ord": 321,
+   "k": "15",
+   "n": "38",
+   "src": "lb",
+   "chapter": 12,
+   "verse": 38,
+   "score": 0.4118
+  },
+  {
+   "ord": 324,
+   "k": "16",
+   "n": "1",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 1,
+   "score": 0.5385
+  },
+  {
+   "ord": 325,
+   "k": "16",
+   "n": "3",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 3,
+   "score": 0.4444
+  },
+  {
+   "ord": 326,
+   "k": "16",
+   "n": "6",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 6,
+   "score": 0.5714
+  },
+  {
+   "ord": 328,
+   "k": "16",
+   "n": "8",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 8,
+   "score": 0.8947
+  },
+  {
+   "ord": 330,
+   "k": "16",
+   "n": "27",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 27,
+   "score": 0.5333
+  },
+  {
+   "ord": 331,
+   "k": "16",
+   "n": "33",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 33,
+   "score": 0.5
+  },
+  {
+   "ord": 332,
+   "k": "16",
+   "n": "35",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 35,
+   "score": 0.8182
+  },
+  {
+   "ord": 334,
+   "k": "16",
+   "n": "36",
+   "src": "lb",
+   "chapter": 13,
+   "verse": 36,
+   "score": 0.6471
+  },
+  {
+   "ord": 335,
+   "k": "16",
+   "n": "1",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 1,
+   "score": 1.0
+  },
+  {
+   "ord": 336,
+   "k": "17",
+   "n": "7",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 7,
+   "score": 0.8889
+  },
+  {
+   "ord": 338,
+   "k": "17",
+   "n": "9",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 9,
+   "score": 0.381
+  },
+  {
+   "ord": 340,
+   "k": "17",
+   "n": "12",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 12,
+   "score": 0.5
+  },
+  {
+   "ord": 341,
+   "k": "17",
+   "n": "13",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 13,
+   "score": 0.6
+  },
+  {
+   "ord": 342,
+   "k": "17",
+   "n": "17",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 17,
+   "score": 0.3333
+  },
+  {
+   "ord": 343,
+   "k": "17",
+   "n": "18",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 18,
+   "score": 1.0
+  },
+  {
+   "ord": 345,
+   "k": "17",
+   "n": "22",
+   "src": "lb",
+   "chapter": 14,
+   "verse": 22,
+   "score": 0.9333
+  },
+  {
+   "ord": 350,
+   "k": "17",
+   "n": "1",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 1,
+   "score": 0.8889
+  },
+  {
+   "ord": 351,
+   "k": "17",
+   "n": "2",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 2,
+   "score": 0.6667
+  },
+  {
+   "ord": 352,
+   "k": "17",
+   "n": "4",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 4,
+   "score": 0.8235
+  },
+  {
+   "ord": 353,
+   "k": "17",
+   "n": "8",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 8,
+   "score": 0.25
+  },
+  {
+   "ord": 355,
+   "k": "17",
+   "n": "9",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 9,
+   "score": 0.7778
+  },
+  {
+   "ord": 356,
+   "k": "17",
+   "n": "13",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 13,
+   "score": 0.6154
+  },
+  {
+   "ord": 357,
+   "k": "17",
+   "n": "18",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 18,
+   "score": 0.5556
+  },
+  {
+   "ord": 358,
+   "k": "17",
+   "n": "24",
+   "src": "lb",
+   "chapter": 15,
+   "verse": 24,
+   "score": 0.5882
+  },
+  {
+   "ord": 362,
+   "k": "17",
+   "n": "1",
+   "src": "lb",
+   "chapter": 16,
+   "verse": 1,
+   "score": 0.8
+  },
+  {
+   "ord": 364,
+   "k": "17",
+   "n": "1",
+   "src": "lb",
+   "chapter": 16,
+   "verse": 6,
+   "score": 0.8
+  },
+  {
+   "ord": 365,
+   "k": "17",
+   "n": "7",
+   "src": "lb",
+   "chapter": 16,
+   "verse": 7,
+   "score": 0.7368
+  },
+  {
+   "ord": 369,
+   "k": "17",
+   "n": "16",
+   "src": "lb",
+   "chapter": 16,
+   "verse": 16,
+   "score": 0.8
+  },
+  {
+   "ord": 371,
+   "k": "17",
+   "n": "33",
+   "src": "lb",
+   "chapter": 16,
+   "verse": 33,
+   "score": 0.5
+  },
+  {
+   "ord": 374,
+   "k": "17",
+   "n": "1",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 1,
+   "score": 0.5714
+  },
+  {
+   "ord": 375,
+   "k": "17",
+   "n": "4",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 377,
+   "k": "17",
+   "n": "5",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 5,
+   "score": 0.5714
+  },
+  {
+   "ord": 380,
+   "k": "17",
+   "n": "11",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 10,
+   "score": 0.6667
+  },
+  {
+   "ord": 381,
+   "k": "17",
+   "n": "12",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 12,
+   "score": 0.8261
+  },
+  {
+   "ord": 382,
+   "k": "17",
+   "n": "13",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 13,
+   "score": 0.5
+  },
+  {
+   "ord": 383,
+   "k": "17",
+   "n": "16",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 16,
+   "score": 1.0
+  },
+  {
+   "ord": 384,
+   "k": "17",
+   "n": "17",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 17,
+   "score": 1.0
+  },
+  {
+   "ord": 386,
+   "k": "17",
+   "n": "19",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 19,
+   "score": 0.4545
+  },
+  {
+   "ord": 387,
+   "k": "17",
+   "n": "21",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 21,
+   "score": 0.9333
+  },
+  {
+   "ord": 389,
+   "k": "17",
+   "n": "23",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 23,
+   "score": 0.375
+  },
+  {
+   "ord": 390,
+   "k": "17",
+   "n": "25",
+   "src": "lb",
+   "chapter": 17,
+   "verse": 25,
+   "score": 1.0
+  },
+  {
+   "ord": 392,
+   "k": "17",
+   "n": "1",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 1,
+   "score": 0.6
+  },
+  {
+   "ord": 394,
+   "k": "17",
+   "n": "5",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 5,
+   "score": 0.6471
+  },
+  {
+   "ord": 396,
+   "k": "17",
+   "n": "9",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 9,
+   "score": 0.9167
+  },
+  {
+   "ord": 400,
+   "k": "17",
+   "n": "11",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 11,
+   "score": 0.6667
+  },
+  {
+   "ord": 402,
+   "k": "17",
+   "n": "14",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 14,
+   "score": 0.25
+  },
+  {
+   "ord": 403,
+   "k": "17",
+   "n": "16",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 16,
+   "score": 0.2941
+  },
+  {
+   "ord": 405,
+   "k": "17",
+   "n": "19",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 19,
+   "score": 0.5833
+  },
+  {
+   "ord": 406,
+   "k": "17",
+   "n": "21",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 21,
+   "score": 0.4545
+  },
+  {
+   "ord": 407,
+   "k": "17",
+   "n": "24",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 24,
+   "score": 0.5
+  },
+  {
+   "ord": 410,
+   "k": "17",
+   "n": "28",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 28,
+   "score": 0.4211
+  },
+  {
+   "ord": 411,
+   "k": "17",
+   "n": "31",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 31,
+   "score": 0.3158
+  },
+  {
+   "ord": 414,
+   "k": "17",
+   "n": "33",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 33,
+   "score": 0.6
+  },
+  {
+   "ord": 415,
+   "k": "17",
+   "n": "34",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 34,
+   "score": 0.1818
+  },
+  {
+   "ord": 416,
+   "k": "17",
+   "n": "37",
+   "src": "lb",
+   "chapter": 18,
+   "verse": 37,
+   "score": 0.7857
+  },
+  {
+   "ord": 418,
+   "k": "17",
+   "n": "1",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 1,
+   "score": 0.5
+  },
+  {
+   "ord": 420,
+   "k": "17",
+   "n": "12",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 12,
+   "score": 1.0
+  },
+  {
+   "ord": 422,
+   "k": "17",
+   "n": "17",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 17,
+   "score": 0.3077
+  },
+  {
+   "ord": 423,
+   "k": "17",
+   "n": "19",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 19,
+   "score": 0.7143
+  },
+  {
+   "ord": 425,
+   "k": "17",
+   "n": "23",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 23,
+   "score": 0.3043
+  },
+  {
+   "ord": 427,
+   "k": "17",
+   "n": "26",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 26,
+   "score": 0.7647
+  },
+  {
+   "ord": 429,
+   "k": "17",
+   "n": "29",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 29,
+   "score": 0.8462
+  },
+  {
+   "ord": 431,
+   "k": "17",
+   "n": "31",
+   "src": "lb",
+   "chapter": 19,
+   "verse": 31,
+   "score": 0.4583
+  },
+  {
+   "ord": 434,
+   "k": "18",
+   "n": "38",
+   "src": "margin",
+   "chapter": 19,
+   "verse": 38,
+   "score": 0.48
+  },
+  {
+   "ord": 437,
+   "k": "19",
+   "n": "1",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 1,
+   "score": 0.6842
+  },
+  {
+   "ord": 439,
+   "k": "19",
+   "n": "3",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 3,
+   "score": 0.5556
+  },
+  {
+   "ord": 440,
+   "k": "19",
+   "n": "6",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 6,
+   "score": 0.2308
+  },
+  {
+   "ord": 442,
+   "k": "19",
+   "n": "14",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 14,
+   "score": 0.6
+  },
+  {
+   "ord": 446,
+   "k": "19",
+   "n": "19",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 19,
+   "score": 0.4286
+  },
+  {
+   "ord": 447,
+   "k": "19",
+   "n": "20",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 20,
+   "score": 0.6875
+  },
+  {
+   "ord": 449,
+   "k": "19",
+   "n": "21",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 21,
+   "score": 0.5385
+  },
+  {
+   "ord": 452,
+   "k": "19",
+   "n": "26",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 26,
+   "score": 0.3043
+  },
+  {
+   "ord": 453,
+   "k": "19",
+   "n": "29",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 29,
+   "score": 0.6
+  },
+  {
+   "ord": 455,
+   "k": "19",
+   "n": "30",
+   "src": "lb",
+   "chapter": 20,
+   "verse": 30,
+   "score": 0.6471
+  },
+  {
+   "ord": 458,
+   "k": "19",
+   "n": "1",
+   "src": "lb",
+   "chapter": 21,
+   "verse": 1,
+   "score": 0.1538
+  },
+  {
+   "ord": 461,
+   "k": "19",
+   "n": "15",
+   "src": "lb",
+   "chapter": 21,
+   "verse": 15,
+   "score": 0.619
+  },
+  {
+   "ord": 465,
+   "k": "19",
+   "n": "24",
+   "src": "lb",
+   "chapter": 21,
+   "verse": 24,
+   "score": 0.6429
+  }
+ ]
+}

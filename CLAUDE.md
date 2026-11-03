@@ -88,7 +88,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 150 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 265 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 tests/queue_books_test.py         # the illustrated-classics queue converter (QUEUE_BOOKS), synthetic
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
@@ -124,6 +124,13 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_kjv_italic.py     # kjv.complete.json (kjv.italic) from the committed kjv.tsv
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_progym.py --check      # Aphthonius, 3 editions: must mint 0
+    python3 pipeline/place_catena.py --fetch # RP2018 books for the catenae, pinned
+    python3 pipeline/place_catena.py --check # catena verse placements byte-identical
+    python3 pipeline/tag_fathers.py          # fathers: Strong's / Lewis & Short tags + scripture links
+    python3 pipeline/tag_fathers.py --check  # data/fathers/ byte-identical
+    python3 pipeline/fathers_numbering.py    # each edition's OT numbering, measured (after tag_fathers)
+    python3 pipeline/fathers_numbering.py --check  # data/fathers/numbering.json byte-identical
+    python3 tests/fathers_scripture_test.py  # the editors' scripture references, read and resolved
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
     python3 tests/hymn_corpus_test.py        # validator for data/hymns/*.jsonl
     python3 pipeline/build_lemma_spine.py --fetch  # Whitaker's WORDS, pinned (D3)
@@ -214,6 +221,132 @@ The living truth for project state is the Obsidian vault:
   Gutenberg verse–prose–drama → data/books/<slug>.json (gitignored) +
   data/books/manifest.json (committed: checksums, schemes, provenance)
 - tests/structure_test.py — offline converter checks, fixtures inline
+- Perseus DRAMA (2026-10-02): Sophocles 7 (Jebb), Aeschylus 7 (Smyth), Euripides
+  19 (Coleridge; Bacchae Buckley), Aristophanes' Clouds (Hickie) -- 34 plays,
+  18,600 units. convert_tei_drama: one unit per <l> segment keyed to the GREEK
+  line number (`sophocles-antigone-jebb:450`, ref "Soph. Ant. 450"). Under each
+  unit's `drama`: speaker, choral section, stage directions, translator's
+  footnotes (`notes`), and the printed form wherever Perseus corrected or
+  modernized it (`sic`) -- none of them mixed into the spoken text, none
+  dropped. Cast list at book level (`dramatis_personae`). Slug -> abbreviation
+  in TEI_DRAMA; Perseus line-number typos fixed in TEI_DRAMA_N_FIX. 🔴 Rights:
+  the translations are PD but Perseus's TEI and "modernized" wording are CC
+  BY-SA 4.0 (share-alike) -- each book carries a `rights` block saying so.
+  Birds is NOT taken: Perseus's English is a 1938 Random House compilation.
+- Perseus PROSE (2026-10-02): Herodotus (Godley), Thucydides (Crawley),
+  Xenophon's Anabasis, Hellenica (Brownson) and Cyropaedia (Miller), and
+  Plutarch's Parallel Lives, all 66 pieces (Perrin), one book per Life;
+  Polybius (Shuckburgh), Strabo (Hamilton & Falconer). Where a unit is a
+  RUN of numbered sections the scheme says "section (span)" -- measured from
+  the numbering, not assumed. (Josephus in Whiston is PR #8's
+  build_josephus.py, aligned to Niese: one owner per slug.)
+  Also Apollodorus (Frazer), Diogenes Laertius (Hicks), Epictetus
+  (Higginson), Aeschines' three speeches (C. D. Adams).
+  Latin, from canonical-latinLit: Caesar's Gallic War (McDevitte & Bohn)
+  and Civil War (Peskett), Tacitus' five works (Church & Brodribb),
+  Suetonius' twelve Caesars (Thomson, rev. Reed 1883). Tacitus is TEI P4
+  (`<TEI.2>`, no namespace, `<div1>`/`<div2>`, DTD-only entities like
+  `&aelig;`): `tei_load()` lifts P4 into the P5 shape in memory, source
+  untouched. Perseus keyed Tacitus from a 1942 Modern Library reprint, so
+  its marginal headings (apparatus only) carry an unverified-provenance
+  line in the rights note (`TEI_RIGHTS_NOTE`).
+  Cicero's speeches (Yonge), De Senectute, De Amicitia, De Divinatione
+  (Falconer), De Officiis (Walter Miller); Sallust (Watson), Vitruvius
+  (Morgan), Quintilian (Butler), Seneca's Apocolocyntosis (Rouse). Cicero's
+  essays mark sections as `<milestone unit="section"/>` inside paragraphs:
+  `TEI_PROSE_CUT` opts a book in and `tei_slice()` cuts it there (the
+  chapter rides on each unit as `milestones.chapter`). Numbering slips are
+  fixed by rule in `TEI_PROSE_N_FIX`. Beta-code Greek ("filo/sofos") inside
+  a Greek `<foreign>` is converted to Unicode (`beta_to_unicode`).
+  Cicero's letters (Shuckburgh, Att./Fam./Q. fr./ad Brut., 926 letters):
+  `convert_tei_letters`, one unit per letter at its canonical book.letter
+  (`cicero-letters-atticus-shuckburgh:4.1~s89`). Shuckburgh's number rides
+  as `edition.shuckburgh`; a split letter keeps its section range in the id
+  (12.5.1-2); a citation his heads print twice gets `~s<number>`; the
+  Quintus letters, copied three times across the files, are built once.
+  Lucian, 63 pieces (H. W. & F. G. Fowler, 1905), one book per piece
+  (`lucian-verae-historiae-fowler`, ref "Lucian Verae historiae 1.1").
+  Isocrates (Norlin), Isaeus (Forster), Appian (Horace White), Athenaeus
+  (Yonge). Where a source's divisions are exact but are not the standard
+  citation, `TEI_PROSE_HONESTY` says so (Athenaeus: Yonge's chapters, not
+  Casaubon pages; Appian: White's chapter before the standard section;
+  Appian's fragment books), and `TEI_PROSE_LEVELS` renames a level the
+  source misnames.
+- Roman comedy (2026-10-02): Plautus' 20 plays and Terence's 6, H. T. Riley's
+  prose, through convert_tei_drama: one unit per segment at the LATIN line
+  ("Pl. Am. 153"), with act, scene and scene heads under `drama`. Every
+  drama book's honesty now states its measured segment lengths.
+- Also Latin: Livy (Bohn: Spillan, Edmonds, McDevitte), Gellius (Rolfe),
+  Horace's Satires and Ars Poetica (Smart's prose, cards: span), and a
+  second Civil War (Duncan) beside Peskett.
+  convert_tei_prose: one unit per innermost textpart div, id = born-in
+  book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
+  Footnotes under `apparatus.notes`, headings between divisions under
+  `apparatus.head`, places as TGN links; Perseus's gazetteer <reg> glosses are
+  NOT text (tei_pieces drops them). Slug -> abbreviation in TEI_PROSE.
+  perseus_rights() gives every Perseus book (epic, drama, prose) its CC BY-SA
+  rights block.
+- The Greek FATHERS (2026-10-02): the Greek text itself, not a translation,
+  from First1KGreek (OpenGreekAndLatin/First1KGreek, raw.githubusercontent
+  only). `FIRST1K` in fetch_sources.py -> data/corpus/first1k/ -> the same
+  convert_tei_prose, slug suffix `-grc` (`origen-contra-celsum-grc:1.1`).
+  Rights: the TEI is CC BY-SA; the printed edition must be dated before 1931
+  (the sourceDesc is read; editor and date ride in `source.edition` and the
+  rights note). What is only true of these files: a section milestone may sit
+  OUTSIDE the chapter it opens (Stählin's Clement); OCR damage is real, so a
+  unit with Latin-letter words carries `apparatus.latin_letters` (a Latin
+  passage, or OCR residue: never silently clean); Archambault's Justin
+  printed references and folios inside the Greek in brackets, lifted into
+  `apparatus.refs` / `apparatus.folio` (TEI_PROSE_BRACKETS), unresolved.
+  Wave 2 adds Eusebius, Athanasius, Gregory Nazianzen's Theological
+  Orations, Epiphanius' Ancoratus, Cyril on the Twelve Prophets. Honesty
+  names the edition whose numbering the ids are ("numbered as the printed
+  edition numbers it (Dindorf, 1871)"): never claim the standard numbering.
+  Wave 3: the church historians after Eusebius (Socrates, Sozomen,
+  Theodoret, Evagrius, Gelasius), Theodoret's Religious History, Mark the
+  Deacon's Porphyry, the Greek Perpetua.
+  Wave 4: apocrypha and pseudepigrapha in Greek (Acts of Thomas, Philip,
+  Barnabas; Testament of Abraham; Lives of the Prophets; Swete's Greek
+  Enoch) and M. R. James's English (1924) for Thomas and Philip, on
+  Bonnet's sections, so a citation reaches both. A First1KGreek translation
+  is recognised by its type="translation" div; its translator is the
+  printed book's author.
+  Cramer's catenae (convert_catena, table CATENA): the fathers' comments
+  verse by verse. The files divide only by kephalaia and print the verse
+  number (a margin note, or a bare <lb n> mixed with page-line numbers),
+  never the chapter. pipeline/place_catena.py MEASURES which marks are
+  verses and in which chapter, against the Robinson-Pierpont NT (pinned),
+  and commits the decision per mark in data/catenae/<slug>.json (reviewable;
+  --check must be byte-identical). convert_catena only reads that file, and
+  every placed mark names the kephalaion and printed number it expects, so
+  a changed source fails loudly. All 25 catenae with verse marks (Matthew to
+  3 John, 3,010 units, 2,872 linked to a KJV verse). Not taken: the three
+  variant-reading supplements. Running commentary (Luke, John) places by
+  printed number with weak lemma evidence; it says so. The Munich-type
+  Romans (7-16) and Jude are verse-divided in the file, so
+  convert_catena_verses (table CATENA_VERSES) READS the passage urn instead
+  of measuring; Munich Romans names the father of each comment, one unit
+  each (7.9-12.c1, field `by`; "of the same" takes the father before it).
+  Every link is checked against the KJV's units: the Byzantine Romans
+  doxology (14:24-26) links to the KJV's 16:25-27 (CATENA_KJV_MOVED). A
+  placement whose lemma shares under 10% of its words with the verse is
+  dropped (MIN_PLACE); a second section on one verse is id + b (9.20b).
+  The LATIN fathers (2026-10-02): 82 CSEL volumes (Vienna, 1867-1922) from
+  OpenGreekAndLatin/csel-dev, slug suffix `-lat`, data/corpus/csel/, table
+  CSEL in fetch_sources.py, through the same prose converter (OGL in
+  structure_texts.py names the corpus by directory). Augustine, Jerome
+  (Letters, Jeremiah), Tertullian, Ambrose, Lactantius, Arnobius, Minucius
+  Felix: 25,547 units, 3.1M words. Unproofread machine-corrected OCR, and
+  every book's honesty says so. An unnumbered part is named by its subtype
+  (1.preface) in CSEL books only -- older books keep "?". Cyprian is not in
+  csel-dev. Wave 2 (16 books, 3,303 units): Egeria, the Bordeaux pilgrim,
+  Adamnan, Eucherius, Eugippius, Paulinus of Nola's letters, Sedulius'
+  Opus paschale, Sulpicius Severus. Exclusions and why are in the CSEL
+  comment.
+  Tertullian's works CSEL lacks come from Perseus (Oehler, Leipzig, 1853 or 1854 by volume, as each rights note says): 14
+  books in PERSEUS, listed in TEI_ORIGINAL so the converter records the
+  edition and the rights say "Latin text", never "translation".
+  Exclusions and why are in the FIRST1K comment.
 - The Clementine Vulgate (1592, PD) — `VULGATE` in fetch_sources.py, pinned
   to a commit of github.com/BibleGet-I-O/Clementine-Vulgate (73 books, one
   sha256 over the files); `convert_vulgate` -> data/books/vulgate.json,
@@ -323,6 +456,7 @@ The living truth for project state is the Obsidian vault:
   (renderings, the kjv concordance, concordance-view.jsonl) build to
   build/strongs/ only, sha256 in manifest.local, until he rules; removed from
   the branch tip 2026-10-02 (still in its earlier commits: squash-merge). OSHB's CC BY tags for data/ot/ build to
+  the branch history 2026-10-02. OSHB's CC BY tags for data/ot/ build to
   build/ only, never committed. Rules: pipeline/README-strongs.md
 - pipeline/build_latin_key.py — Lewis & Short (1879, PD; Perseus's TEI is
   CC BY-SA 4.0) as THE key for Latin words, `lewis-short:<key>` (Perseus's
@@ -336,6 +470,12 @@ The living truth for project state is the Obsidian vault:
   (8.0%: 3.6% with a grammar rule, 4.4% by frequency priors alone, counted
   apart; every rule id tagged), else null and listed `possible` (19.3%). A
   prior never swaps a noun for a verb (peccata is not pecco). A verb never links to a noun-only entry
+  that may be committed is Adam's call; removed from the branch history
+  2026-10-02). Whitaker lemmas link to L&S by spelling and
+  class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
+  sure by form (69%), or resolved in its verse by a named context rule
+  (12.6%; idem-dem, possessive-agrees, rare-entry ... each tagged), else null
+  and listed `possible` (15.1%). A verb never links to a noun-only entry
   (status clash: WORDS's vis "you want" is not L&S's vis "force"). Rules only remove readings (README s.4b).
   strongs-latin.jsonl: each Strong's number's Vulgate words (G26 -> caritas,
   dilectio), by verse co-occurrence: statistical evidence, never a reading.
@@ -400,6 +540,50 @@ The living truth for project state is the Obsidian vault:
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
+- pipeline/tag_fathers.py (2026-10-02) -- every word of the fathers keyed, every
+  scripture reference in their editors' notes resolved; each tag and link
+  carries its RULE id. Greek (-grc, catenae included): Strong's number by
+  build_apostolic_fathers.tag_word's rules against data/nt (rebuild_bible.py
+  first). Latin (-lat): Lewis & Short key by build_latin_key's machinery (L&S
+  and WORDS fetched locally; the L&S data is not committed): `sure`, the
+  context rules that settled it, or null with `several` / `no-ls` / `unread`.
+  Scripture: pipeline/fathers_scripture.py reads CSEL's Latin, GCS's German,
+  Archambault's French and the English editors' notes; the OT goes through
+  the Vulgate map in a Latin book and Brenton's in a Greek one (the edition
+  family's convention, with the English numbering kept as `alt_target`).
+  The apparatus's own numbers are not verses: a line number before a book,
+  a "N]" line marker, a GCS spaced em-dash between entries (" — 8 Esth."),
+  and in a note that never writes "chapter, verse" (Sulpicius) the number
+  after "Gen. 1."; "12 et 13" is two verses; a range into another chapter
+  keeps its start. A bracketed pair ("III Reg. 20 (21), 13") is read by both
+  numbers, in the one order that lands, else in the order the edition's
+  other brackets measure (+bracket). The Septuagint is Swete's numbering
+  (Isa 9, Jer 32:1-24, Mal 4 differ from Rahlfs', which Brenton's map
+  follows). A range's end is read in its start's numbering. Not every editor
+  numbers the same way, so pipeline/fathers_numbering.py MEASURES it per
+  editor and class of book (Psalms, Jeremiah, the rest) and commits the
+  decision with its evidence in data/fathers/numbering.json. Three numberings
+  are candidates per family: the Septuagint's (Brenton map) or the Vulgate's,
+  the Hebrew's (bhs-kjv.json, a psalm title is v.1: Ps 7:16 there is the
+  KJV's 7:15), and the English. Existence votes
+  (only the numberings that have the verse) and, in Greek, content votes (the
+  father's Strong's-glossed words against Brenton's English of each
+  candidate; calibrated 89% right between chapters, 75% between verses). An
+  edition leans as its calibrated log-odds over a pooled prior say (the prior a
+  mixture estimate, to a fixed point: a vote two numberings share is split by
+  their shares). It leaves a pool holding 70% of the class only on 2+ votes of
+  its own that tell them apart (a near-even pool can't outvote one vote), and
+  a rival its own votes don't rule out stays `undecided`: the link says
+  numbering_undecided, with every open reading in undecided_targets and the
+  first as alt_target (Heikel's Psalms: English, Hebrew undecided). An editor
+  with no votes in a class, listed or not, gets the pool's verdict and its
+  undecided rivals. In a mixed one, each
+  note's run of references to one chapter is one quotation, read by one
+  content vote where the numberings put it in different chapters (+content). Greek 1 Esdras is the apocryphal book,
+  2 Esdras is Ezra-Nehemiah (Brenton's map). Tokens are the text
+  (CC BY-SA TEI), so they and the links go to build/fathers/ (gitignored);
+  committed: data/fathers/manifest.json (counts by rule, sha256 of every
+  input book and every output).
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
@@ -624,6 +808,62 @@ are left unlinked. **680 scripture citations** ("Rev. ix. 11") parsed to
 (Psalm 154 and the like refused). Not proofread against the scan; italics
 not carried; compound hyphens print as em dashes in this transcription
 (first—rate) and are left as printed.
+**Thayer's by entry (2026-10-02): a second book, `thayer-entries`.** Built by
+`convert_thayer_entries` from the same `thayer-pages.json`; the page book
+`thayer` is untouched, byte for byte, and stays the checkable citation. The
+fact both line rules ignored is that **a lexicon is alphabetical**: every line
+opening with a Greek word is a candidate, weighted +1 if paragraph-initial and
++1 if it is a Strong's Greek lemma (accents ignored), and only the max-weight
+strictly-increasing alphabetical chain survives — and of that, only members
+that are paragraph-initial or a Strong's lemma. Two exceptions, both from
+review: a one-letter headword (ὁ, ἤ, ὦ) counts only with a paragraph break AND
+a Strong's match, and two headwords that differ only by accent (εἰμί / εἶμι)
+may share a key when both open paragraphs and match Strong's exactly. Ids are page + transliterated
+headword (`thayer-entries:p.300.hedone`), **provisional** until segmentation
+is ruled on; each unit links to its `thayer:p.N` page(s) and, when the
+headword matches exactly one, its `strongs-greek:G…` entry. A real entry the
+rule misses is not lost — its text sits inside the entry before it. The
+manifest note reports the count against ~5,600. Strong's Greek is a plain
+GitHub fetch; without it the build runs and says the lemma evidence is absent.
+
+**Rebuild of 2026-10-02 evening: 3,567 → 5,333 entries, 4,940 linked to
+Strong's.** Three measured causes of missed entries, each fixed and tested:
+(1) the headword pattern took only `,` or `.` after the word, but verbs take
+`;` or `:` (`γυμνάζω; [pf. …`) and some nouns `[` or `(` — that alone was
+~1,500 entries; (2) OCR misreads of the headword itself, now READ back to a
+Strong's lemma only when exactly one fits: a Greek word one letter off
+(Τεθσημανῆ → Γεθσημανῆ, ≥5 letters), or a headword OCR'd in Latin lookalikes
+at a paragraph start (`épeOltw` → ἐρεθίζω, map `_THAYER_LOOK`); never to a
+lemma the OCR already spells right at a paragraph start (so ἄγαμος is not
+"read" as ἀγαθός). 335 entries carry `lex.headword_read` and evidence
+`ocr-read`; `lex.headword` keeps the OCR. (3) The body now stops at the
+APPENDIX running head (p. 709): the appendix pages have Greek running heads
+too, so the last entry, ὠφέλιμος, had swallowed all 40 of them. Tried and
+dropped: STEPBible headwords as extra evidence (+45 entries, not worth a
+CC BY dependency in a PD build). ~13 entries the old cut had now fall off the
+chain (e.g. ἄρνας, σιτίον); their text sits in the entry before, as always.
+
+**Second OCR (2026-10-02 night): 5,333 → 5,486 entries, 5,092 linked to
+Strong's.** `pipeline/ocr_thayer2.py` re-reads the 699 lexicon pages from
+archive.org's ORIGINAL JP2 scans (`greekenglishlexi00grimuoft_jp2.zip`, 552 MB;
+leaf N = page key N) with tessdata_best grc+eng, one tesseract per page,
+`OMP_THREAD_LIMIT=1`, 18 in parallel: ~35 min on Adam's 20-core PC. Output
+`data/corpus/lexicons/thayer-pages-2.json` (gitignored); `thayer-pages.json`
+is untouched and stays the text of record. `convert_thayer_entries(second_path=)`
+uses it for boundaries only: a paragraph-initial Strong's headword in the
+second reading, aligned to the first reading's line by the text after the
+headword (ratio ≥ 0.6, runner-up ≥ 0.1 behind), opens an entry where the
+first found no Strong's headword (157 entries, evidence `second-ocr`).
+Known residue: the first OCR sometimes reads part of a right-hand column
+before the end of the left (p. 580), and the alphabetical chain then has to
+drop one run or the other (πτέρυξ…πτόησις, 6 entries lost vs 153 gained).
+And three pages (305, 397, 657) were OCR'd straight across both columns, the
+halves joined by " | " on only some lines; ~25 entries there stay folded.
+Splitting at the bar was tried and recovered 1 (too many lines lack it), so
+it was not kept. Where the remaining gap to ~5,600 sits: of Strong's 5,494
+headword keys, 5,100 are found; most of the 394 others are inflected forms
+Strong's numbers separately (ἐμέ, ὑμῖν, μία) that Thayer does not head. The
+next real gain is proofreading those three pages, not another rule.
 
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 
