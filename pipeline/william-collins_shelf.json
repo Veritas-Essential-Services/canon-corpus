@@ -1,0 +1,42 @@
+{
+ "_about": "William Collins. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Collins",
+ "_name_words": [
+  "collins"
+ ],
+ "_surname": [
+  "william collins",
+  "collins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "collins-poetical-works": [
+   29879,
+   "The Poetical Works of William Collins; With a Memoir"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "collins-poetical-works": {
+   "bloom_n": [
+    222
+   ],
+   "bloom_title": "Poems",
+   "year": "unread (PG text shows '1865' in front matter)",
+   "evidence": "PG front matter grep.",
+   "case": "Complete Collins (a slim oeuvre).",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "collins-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "william collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
