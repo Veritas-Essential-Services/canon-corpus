@@ -1,0 +1,76 @@
+{
+ "_about": "Dorothy Wordsworth. Bloom's Western Canon (1994) lists: The Grasmere Journal. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Dorothy Wordsworth",
+ "_name_words": [
+  "dorothy",
+  "wordsworth"
+ ],
+ "_surname": [
+  "wordsworth",
+  "dorothy wordsworth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wordsworth-journals": [
+   42856,
+   "Journals of Dorothy Wordsworth, Vol. 1 (of 2)",
+   "tr. ed. William Knight"
+  ],
+  "wordsworth-journals-2": [
+   42857,
+   "Journals of Dorothy Wordsworth, Vol. 2 (of 2)",
+   "tr. ed. William Knight"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "wordsworth-journals": "Knight",
+  "wordsworth-journals-2": "Knight"
+ },
+ "_bloom": {
+  "wordsworth-journals": {
+   "bloom_n": [
+    424
+   ],
+   "bloom_title": "The Grasmere Journal",
+   "year": "1897 (title page 'MACMILLAN AND CO., LTD. ... 1897')",
+   "evidence": "Read PG front matter: contents list GRASMERE journal sections May 1800 to January 1803.",
+   "case": "Bloom lists the Grasmere Journal; nothing by Dorothy Wordsworth is held. Knight's 1897 Journals contain it.",
+   "note": "Knight's text is somewhat abridged (later editors restored passages); still the PD standard."
+  },
+  "wordsworth-journals-2": {
+   "bloom_n": [
+    424
+   ],
+   "bloom_title": "The Grasmere Journal",
+   "year": "1897 (inferred from vol. 1)",
+   "evidence": "PG catalogue.",
+   "case": "Bloom lists the Grasmere Journal; nothing by Dorothy Wordsworth is held. Knight's 1897 Journals contain it.",
+   "note": "Knight's text is somewhat abridged (later editors restored passages); still the PD standard."
+  }
+ },
+ "_checks": {
+  "wordsworth-journals": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "translator_claimed": "Knight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-journals-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "translator_claimed": "Knight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
