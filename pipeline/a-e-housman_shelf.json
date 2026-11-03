@@ -1,0 +1,65 @@
+{
+ "_about": "A. E. Housman. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "A. E. Housman",
+ "_name_words": [
+  "housman"
+ ],
+ "_surname": [
+  "housman",
+  "a e housman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "housman-shropshire-lad": [
+   5720,
+   "A Shropshire Lad"
+  ],
+  "housman-last-poems": [
+   7848,
+   "Last Poems"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "housman-shropshire-lad": {
+   "bloom_n": [
+    874
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "unread (PG text shows 1919 and 1887)",
+   "evidence": "PG header read",
+   "case": "Bloom lists Housman's Collected Poems. Its PD core is A Shropshire Lad (1896) and Last Poems (1922), both on PG.",
+   "note": "More Poems (1936) and the additional poems of the 1939 Collected Poems are NOT PD."
+  },
+  "housman-last-poems": {
+   "bloom_n": [
+    874
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1922 (preface dated September 1922 in PG text)",
+   "evidence": "PG header read",
+   "case": "Bloom lists Housman's Collected Poems. Its PD core is A Shropshire Lad (1896) and Last Poems (1922), both on PG.",
+   "note": "More Poems (1936) and the additional poems of the 1939 Collected Poems are NOT PD."
+  }
+ },
+ "_checks": {
+  "housman-shropshire-lad": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "housman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "housman-last-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "housman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
