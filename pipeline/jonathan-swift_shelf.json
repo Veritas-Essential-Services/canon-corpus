@@ -1,0 +1,90 @@
+{
+ "_about": "Jonathan Swift. Bloom's Western Canon (1994) lists: A Tale of a Tub; Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Jonathan Swift",
+ "_name_words": [
+  "dean",
+  "swift"
+ ],
+ "_surname": [
+  "jonathan swift",
+  "dean swift",
+  "swift"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "swift-tale-tub": [
+   4737,
+   "A Tale of a Tub (ed. Henry Morley)"
+  ],
+  "swift-poems": [
+   14353,
+   "The Poems of Jonathan Swift, D.D., Volume 1 (ed. W. E. Browning)"
+  ],
+  "swift-poems-2": [
+   13621,
+   "The Poems of Jonathan Swift, D.D., Volume 2"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "swift-tale-tub": {
+   "bloom_n": [
+    208
+   ],
+   "bloom_title": "A Tale of a Tub",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Bloom lists the Tale; PG 4737 is Morley's Cassell text.",
+   "note": ""
+  },
+  "swift-poems": {
+   "bloom_n": [
+    211
+   ],
+   "bloom_title": "Poems",
+   "year": "1910 (PG text: 'G. Bell and Sons, Ltd. 1910')",
+   "evidence": "PG front matter read.",
+   "case": "Browning's Bohn edition is the complete PD Swift poems.",
+   "note": ""
+  },
+  "swift-poems-2": {
+   "bloom_n": [
+    211
+   ],
+   "bloom_title": "Poems",
+   "year": "1910 (same edition)",
+   "evidence": "PG catalogue.",
+   "case": "Browning's Bohn edition is the complete PD Swift poems.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "swift-tale-tub": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "jonathan swift",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swift-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "jonathan swift",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swift-poems-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "jonathan swift",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
