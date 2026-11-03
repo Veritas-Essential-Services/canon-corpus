@@ -1,0 +1,123 @@
+<title>Page Art Drafts</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Libre+Franklin:wght@400;500;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* layout: a printer's specimen book; one narrow running column of shelves, each book a strip of its cuts */
+:root{
+  --paper:#f7f8f6; --leaf:#ffffff; --ink:#1d2228; --soft:#5d6670; --rule:#d9dee2;
+  --accent:#2c4a6e; --pd:#2f6b45; --check:#9a5b12;
+  --display:"IM Fell English", Georgia, "Times New Roman", serif;
+  --body:"Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#15181c; --leaf:#1e2227; --ink:#e7eaee; --soft:#a1aab4; --rule:#343b43;
+  --accent:#8fb2da; --pd:#7fc497; --check:#e0a55a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#15181c; --leaf:#1e2227; --ink:#e7eaee; --soft:#a1aab4; --rule:#343b43;
+  --accent:#8fb2da; --pd:#7fc497; --check:#e0a55a; color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1100px;margin:0 auto;padding-block:28px 64px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1{font-family:var(--display);font-weight:400;font-size:2.4rem;line-height:1.1;margin:0 0 6px;text-wrap:balance}
+h2{font-family:var(--display);font-weight:400;font-size:1.6rem;margin:40px 0 6px;text-wrap:balance}
+.lede{color:var(--soft);max-width:68ch;margin:0}
+.lede b{color:var(--ink);font-weight:600}
+.stats{display:flex;flex-wrap:wrap;gap:8px 22px;margin:20px 0 4px;font-variant-numeric:tabular-nums}
+.stat{display:flex;flex-direction:column}
+.stat .n{font-size:1.35rem;font-weight:600}
+.stat .l{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--soft)}
+.note{color:var(--soft);font-size:.9rem;max-width:72ch}
+.panel{background:var(--leaf);border:1px solid var(--rule);border-radius:6px;padding:12px;overflow-x:auto}
+.strip{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.cell{position:relative;flex:none;background-repeat:no-repeat;background-color:#fff;border:1px solid var(--rule);border-radius:2px}
+.cell[data-k]::after{content:attr(data-k);position:absolute;left:2px;bottom:2px;font:500 9px/1 var(--body);
+  letter-spacing:.04em;text-transform:uppercase;background:rgba(255,255,255,.88);color:#1d2228;padding:2px 3px;border-radius:2px}
+.cell[data-k="picture"]::after{display:none}
+.group{display:grid;grid-template-columns:minmax(0,1fr);gap:4px;padding:10px 0;border-top:1px solid var(--rule)}
+.group:first-child{border-top:0}
+.group .who{font-size:.8rem;color:var(--soft)}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:14px 0;position:sticky;top:env(safe-area-inset-top,0px);
+  background:var(--paper);padding-block:8px;z-index:5}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+input[type=search],select{font:inherit;color:var(--ink);background:var(--leaf);border:1px solid var(--rule);border-radius:4px;padding:6px 9px;min-width:0}
+input[type=search]{flex:1 1 220px}
+label.tg{display:flex;gap:6px;align-items:center;font-size:.9rem;color:var(--soft)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+details.shelf{border-top:1px solid var(--rule);padding:6px 0}
+details.shelf>summary{cursor:pointer;font-family:var(--display);font-size:1.25rem;padding:6px 0;list-style-position:outside}
+details.shelf>summary .c{font-family:var(--body);font-size:.8rem;color:var(--soft);margin-left:8px}
+.book{display:grid;grid-template-columns:minmax(0,1fr);gap:6px;padding:12px 0;border-top:1px dashed var(--rule)}
+.bh{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline}
+.bh .t{font-weight:600}
+.bh a{color:var(--accent);font-size:.8rem;font-family:var(--mono)}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{font-size:.72rem;border:1px solid var(--rule);border-radius:10px;padding:1px 7px;color:var(--soft);font-variant-numeric:tabular-nums}
+.pill{font-size:.72rem;border-radius:10px;padding:1px 8px;color:var(--leaf);font-weight:600}
+.pill.pd{background:var(--pd)} .pill.check{background:var(--check)}
+.why{font-size:.78rem;color:var(--check)}
+.empty{color:var(--soft);font-style:italic}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto}}
+</style>
+
+<div class="wrap">
+  <h1>Page Art Drafts</h1>
+  <p class="lede">What the harvester found in the illustrated Gutenberg editions on the storyteller shelves: every picture, headpiece, tailpiece, ornament and decorated initial, with where it sits in the book. <b>These are drafts.</b> Each kind was guessed by rule, and nothing has a uid yet. Each book shows up to ten of its pieces.</p>
+  <div class="stats" id="stats"></div>
+
+  <h2>Ornaments shared between books</h2>
+  <p class="note">The same carved block found in more than one book, matched by shape. These are candidates only. About half survive a look by eye: the Scribner Press colophon and Pyle's Arthur bands do, while plain type capitals of one typeface do not.</p>
+  <div class="panel" id="groups"></div>
+
+  <h2>Decorated initials</h2>
+  <p class="note" id="inote"></p>
+  <div class="panel"><div class="strip" id="inits"></div></div>
+
+  <h2>Books</h2>
+  <div class="tools">
+    <input type="search" id="q" placeholder="Find a book or shelf" aria-label="Find a book or shelf">
+    <select id="kind" aria-label="Show books with this kind">
+      <option value="">Any kind</option><option value="initial">With initials</option>
+      <option value="headpiece">With headpieces</option><option value="tailpiece">With tailpieces</option>
+      <option value="ornament">With ornaments</option>
+    </select>
+    <label class="tg"><input type="checkbox" id="chk"> Only books needing a rights check</label>
+  </div>
+  <div id="shelves"></div>
+</div>
+
+<script>
+const D=/*DATA*/null;
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function cell(sheet,c,showKind){
+  const [x,y,w,h,m]=c;
+  const tip=[m.k,m.l?("letter "+m.l):"",m.p?("p. "+m.p):"",m.c||"",m.h?("under: "+m.h):"",m.b||"",m.w?("word: "+m.w):""].filter(Boolean).join(" · ");
+  return `<div class="cell" ${showKind&&m.k?`data-k="${esc(m.k)}"`:""} title="${esc(tip)}" style="width:${w}px;height:${h}px;background-image:url('${sheet}');background-position:-${x}px -${y}px"></div>`;
+}
+const T=D.totals;
+const st=[["Books",D.books],["Placements",Object.values(T).reduce((a,b)=>a+b,0)],...Object.entries(T)];
+document.getElementById("stats").innerHTML=st.map(([l,n])=>`<div class="stat"><span class="n">${Number(n).toLocaleString()}</span><span class="l">${esc(l)}</span></div>`).join("");
+document.getElementById("groups").innerHTML=D.groups.rows.map(g=>`<div class="group"><div class="who">Group ${g.group}: ${g.members} placements in ${esc(g.books.join(", "))}</div><div class="strip">${g.cells.map(c=>cell(D.groups.sheet,c,false)).join("")}</div></div>`).join("")||'<p class="empty">None found.</p>';
+document.getElementById("inote").textContent=`Initials drawn as pictures, one of each design (${D.initials.count.toLocaleString()} designs; the first ${D.initials.cells.length} by letter shown). The text always keeps the plain letter, so these are drawn over it, never in its place.`;
+document.getElementById("inits").innerHTML=D.initials.cells.map(c=>cell(D.initials.sheet,c,false)).join("");
+function render(){
+  const q=document.getElementById("q").value.trim().toLowerCase();
+  const k=document.getElementById("kind").value, chk=document.getElementById("chk").checked;
+  let html="";
+  for(const s of D.shelves){
+    const bs=s.books.filter(b=>(!q||(b.title+" "+b.slug+" "+s.shelf).toLowerCase().includes(q))&&(!k||b.kinds[k])&&(!chk||b.pd!==true));
+    if(!bs.length) continue;
+    html+=`<details class="shelf" ${q||chk||k?"open":""}><summary>${esc(s.shelf)}<span class="c">${bs.length} book${bs.length>1?"s":""}</span></summary>`+
+      bs.map(b=>`<div class="book"><div class="bh"><span class="t">${esc(b.title||b.slug)}</span>
+        <span class="pill ${b.pd===true?"pd":"check"}">${b.pd===true?"US public domain":"Check title page"}</span>
+        <a href="https://www.gutenberg.org/ebooks/${b.pg}" target="_blank" rel="noopener">PG ${b.pg}</a></div>
+        <div class="chips"><span class="chip">${b.n} placements</span>${Object.entries(b.kinds).map(([kk,n])=>`<span class="chip">${n} ${esc(kk)}</span>`).join("")}<span class="chip">${b.pages} with a printed page</span><span class="chip">${b.caps} captioned</span></div>
+        ${b.pd!==true?`<div class="why">${esc(b.basis)}</div>`:""}
+        <div class="strip">${b.cells.map(c=>cell(s.sheet,c,true)).join("")||'<span class="empty">No pictures to show.</span>'}</div></div>`).join("")+`</details>`;
+  }
+  document.getElementById("shelves").innerHTML=html||'<p class="empty">No book matches.</p>';
+}
+["q","kind","chk"].forEach(id=>document.getElementById(id).addEventListener("input",render));
+render();
+</script>
