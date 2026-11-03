@@ -87,13 +87,38 @@ is free until 2028; his *History of Christian Doctrines* (1937), *Summary*
 no open scan was found. Warfield's *Critical Reviews* and *Studies in
 Theology* (1932) show no renewal; no open scan found.
 
+## Batch 3 (2026-11-03): other shelves' "after 1930" exclusions
+
+On the shelves now (all American, first published in the US, no renewal):
+
+| shelf | book |
+|---|---|
+| philip-schaff | *The Creeds of Christendom* vols. I-II, sixth edition rev. David S. Schaff (Harper, 1931), CCEL |
+| martin-luther | Luther on Galatians, Theodore Graebner's abridgment (Zondervan, 1939), CCEL |
+| paul-rader | *Round the World* (Revell, 1932) |
+| singles-nonfiction-2 | Nicole's *Essay on True and Apparent Beauty*, tr. J. V. Cunningham (Augustan Reprint Society, 1950), PG 28921 |
+
+Renewed: Lofting's *Gub Gub's Book* (1932, R248269).
+
+Left alone, and why: British translators of the 1930s (Atherton's Bondage of
+the Will, Evans's Eckhart II, Sutro's Maeterlinck, Rawson's Strindberg,
+Duff's Silius II) are foreign works the URAA likely restored; Kipling and
+Ransome likewise. Lowrie's four Oxford (London) Kierkegaard volumes are held
+for Adam's ruling already written on the swenson-lowrie shelf (an American
+translator, first published abroad: a URAA question, not a renewal one).
+
+For Lane B (Loebs, Harvard and London at once): no renewal of Shorey's
+*Republic* vol. II (1935) or Nixon's *Plautus* vols. IV-V (1932, 1938); both
+are American translators. Lane B owns those shelves.
+
 ## Resume point
 
 Next, in order:
 1. Scans for the `_pending` items above (HathiTrust full view, or a DLI copy).
-2. The other `_excluded` notes that refused a 1931-1963 NEW work only by date
-   (search `pipeline/*_shelf.json` for "after 1929", "after 1930",
-   "1931 or later"): run each through `renewal_check.py`.
+2. Batch 3 read every `_excluded`/`_pending`/`_held` note naming a year
+   1931-1963 (dumped by a one-off script); what remains is reprint questions
+   ("later printing"), not new works. Next source of candidates: Gutenberg's
+   1931-63 books by shelved US authors that no shelf lists yet.
 3. Ironside's and Pink's 1931-1950 books one by one (Loizeaux renewed some,
    not all).
 4. Loeb volumes of 1931-1963 published in Cambridge, Mass. at the same time as
