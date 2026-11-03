@@ -1,0 +1,70 @@
+{
+ "_about": "George Chapman. Bloom's Western Canon (1994) lists: Comedies, Tragedies, Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "George Chapman",
+ "_name_words": [
+  "george",
+  "chapman"
+ ],
+ "_surname": [
+  "chapman",
+  "george chapman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chapman-works": [
+   "worksofgeorgechap00chaprich",
+   "The Works of George Chapman: Plays, ed. Richard Herne Shepherd, a new edition"
+  ],
+  "chapman-works-2": [
+   "worksofgeorgecha00chapuoft",
+   "The Works of George Chapman: Poems and Minor Translations, intro. Swinburne"
+  ]
+ },
+ "_bloom": {
+  "chapman-works": {
+   "bloom_n": [
+    185
+   ],
+   "bloom_title": "Comedies, Tragedies, Poems",
+   "year": "1889 (title page: 'London, Chatto & Windus ... 1889')",
+   "evidence": "Read title page and start of contents.",
+   "case": "Shepherd's Chatto edition covers plays and poems.",
+   "note": "Third vol. is Homer (already partly on PG). PG 20890 has Bussy D'Ambois."
+  },
+  "chapman-works-2": {
+   "bloom_n": [
+    185
+   ],
+   "bloom_title": "Comedies, Tragedies, Poems",
+   "year": "1875 (title page: 'Chatto and Windus ... 1875')",
+   "evidence": "Read title page and contents.",
+   "case": "Shepherd's Chatto edition covers plays and poems.",
+   "note": "Third vol. is Homer (already partly on PG). PG 20890 has Bussy D'Ambois."
+  }
+ },
+ "_checks": {
+  "chapman-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chapman-works-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874-75",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
