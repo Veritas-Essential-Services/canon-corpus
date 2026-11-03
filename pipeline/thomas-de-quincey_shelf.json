@@ -1,0 +1,67 @@
+{
+ "_about": "Thomas De Quincey. Bloom's Western Canon (1994) lists: Confessions of an English Opium Eater; Selected Prose. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas De Quincey",
+ "_name_words": [
+  "thomas",
+  "de",
+  "quincey"
+ ],
+ "_surname": [
+  "quincey",
+  "thomas de quincey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "quincey-confessions-english-opium-eater": [
+   2040,
+   "Confessions of an English Opium-Eater"
+  ],
+  "quincey-miscellaneous-essays": [
+   10708,
+   "Miscellaneous Essays"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "quincey-confessions-english-opium-eater": {
+   "bloom_n": [
+    430
+   ],
+   "bloom_title": "Confessions of an English Opium Eater",
+   "year": "1821 text (front matter '_From the \"London Magazine\" for September_ 1821.')",
+   "evidence": "Read PG header and opening.",
+   "case": "Bloom lists the Confessions; not held. PG 2040 is the original 1821 London Magazine text.",
+   "note": "The revised, much longer 1856 version is in the Ticknor/Masson collected editions if wanted."
+  },
+  "quincey-miscellaneous-essays": {
+   "bloom_n": [
+    431
+   ],
+   "bloom_title": "Selected Prose",
+   "year": "unread (the Ticknor & Fields uniform 'De Quincey's Writings' series, per its prospectus)",
+   "evidence": "Read PG front matter: On the Knocking at the Gate in Macbeth; Murder Considered as One of the Fine Arts (and second paper); Joan of Arc; The English Mail-Coach; The Vision of Sudden Death; Dinner, Real and Reputed.",
+   "case": "Bloom lists De Quincey's prose generically. This one volume holds his most anthologised essays.",
+   "note": "With the Confessions (430) and the held Autobiographic Sketches it makes a fair selection."
+  }
+ },
+ "_checks": {
+  "quincey-confessions-english-opium-eater": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "quincey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "quincey-miscellaneous-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "quincey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
