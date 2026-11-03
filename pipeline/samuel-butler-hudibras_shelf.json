@@ -1,0 +1,42 @@
+{
+ "_about": "Samuel Butler. Bloom's Western Canon (1994) lists: Hudibras. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Samuel Butler",
+ "_name_words": [
+  "hudibras"
+ ],
+ "_surname": [
+  "butler",
+  "hudibras"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "butler-hudibras": [
+   4937,
+   "Hudibras, in Three Parts"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "butler-hudibras": {
+   "bloom_n": [
+    202
+   ],
+   "bloom_title": "Hudibras",
+   "year": "1805 (PG note: 'The text is that of an edition published in London, 1805')",
+   "evidence": "PG front matter read.",
+   "case": "Bloom lists Hudibras; the held 'samuel-butler' shelf is the Victorian Samuel Butler (Erewhon), not this one.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "butler-hudibras": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hudibras",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
