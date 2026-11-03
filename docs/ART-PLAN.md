@@ -363,6 +363,29 @@ What it found that the pilot could not:
    in one Oz book) are left out. Symbols set in the line (cattle brands, the
    Nursery Rhyme Book's marks) are kept as `glyph`, neither art nor ornament.
 
+### 9b. The second harvest (2026-11-03, later)
+
+The same harvester over 70 more shelves: the novelists (Dickens, Thackeray,
+Scott, Trollope, Hardy, the Brontës, Doyle, Wells, Verne, Cooper, Irving,
+Stowe) and the boys' and girls' adventure writers (Henty, Ballantyne, Kingston,
+Fenn, Optic, Alger, Finley, Meade, Yonge). 2,243 more Gutenberg books, **849 of
+them illustrated**. Both waves together: **1,359 books, 37,438 placements**
+(27,498 pictures, 6,511 initials, 1,748 ornaments, 417 tailpieces, 57
+headpieces, 578 covers, 629 symbols).
+
+5. **Stock alphabets cross publishers.** The shape match now finds 97 groups.
+   The largest is one decorated T in five books by four authors (Trollope,
+   Stables, two Irvings, Molesworth), each copy a separate scan (different
+   bytes, same design): most likely a typefounder's stock initial, not one
+   book's art (the publishers are not yet checked). So the ornament library will hold a few stock alphabets used
+   across hundreds of books, and one record per letter design serves them
+   all. 33 groups also share a byte-identical file between books, which is a
+   Gutenberg volunteer reusing an image, not evidence of one block; the
+   confirmation step must look at the scans, not the files.
+6. **The lost-letter count grows with the initials:** 851 picture initials in
+   61 books open a word the HTML spells without its letter.
+7. **Rights checks: 410 books** say `check`; 22 show a year after 1930.
+
 ## 10. Next steps once approved
 
 - Mint uids for the pictures and confirmed ornaments of reviewed books (the

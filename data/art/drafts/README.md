@@ -2,7 +2,7 @@
 # Page art: draft catalogs
 
 What `pipeline/art_harvest.py` found in the illustrated Gutenberg editions on
-the storyteller shelves (2026-11-03): every picture, headpiece, tailpiece,
+the storyteller and novelist shelves (two waves, 2026-11-03): every picture, headpiece, tailpiece,
 ornament and decorated initial, in reading order, with where it sits. The plan
 behind this, and the rules these drafts will become, are in `docs/ART-PLAN.md`.
 
@@ -12,21 +12,21 @@ are reduced, so whether a picture is a full-page plate waits for the scan.
 
 ## The numbers (2026-11-03)
 
-53 shelves read, 1,029 Gutenberg books. 510, on 41 of those shelves, have an illustrated HTML edition
-(at least 3 pieces), and those hold 17,612 placements:
+123 shelves read, 3,272 Gutenberg books. 1,359, on 104 of those shelves, have an illustrated HTML
+edition (at least 3 pieces), and those hold 37,438 placements:
 
 | kind | placements | where it goes (ART-PLAN s.1) |
 |---|---|---|
-| picture | 14,098 | Pinacotheca |
-| initial | 1,841 | ornament library if drawn; anchor only if Gutenberg sets a plain letter |
-| ornament | 782 | ornament library |
-| cover | 285 | Pinacotheca (the cover of *that* edition) |
-| glyph | 293 | neither: a symbol set in the line (a cattle brand, a nursery-rhyme mark) |
-| tailpiece | 258 | ornament library, or Pinacotheca if it shows a scene |
-| headpiece | 55 | the same |
+| picture | 27,498 | Pinacotheca |
+| initial | 6,511 | ornament library if drawn; anchor only if Gutenberg sets a plain letter |
+| ornament | 1,748 | ornament library |
+| cover | 578 | Pinacotheca (the cover of *that* edition) |
+| glyph | 629 | neither: a symbol set in the line (a cattle brand, a nursery-rhyme mark) |
+| tailpiece | 417 | ornament library, or Pinacotheca if it shows a scene |
+| headpiece | 57 | the same |
 
-334 books keep Gutenberg's printed page numbers, so their pieces have a page.
-3,680 pieces have a caption. The other 519 books have no pictures in their
+719 books keep Gutenberg's printed page numbers, so their pieces have a page.
+7,147 pieces have a caption. The other 1,913 books have no pictures in their
 Gutenberg HTML (`_index.json`, `skipped`).
 
 ## Files
@@ -58,7 +58,7 @@ A Gutenberg file marked COPYRIGHTED is refused. A book is `pd_us: true` when the
 shelf dates its edition before 1931 and nothing on the file's title page or
 copyright lines is later, or, with no shelf date, when the latest year on those
 lines is before 1931. Years in a transcriber's or scanner's note do not count.
-**88 books say `check`**: most have no date anywhere in the file; 17 show a
+**410 books say `check`**: most have no date anywhere in the file; 22 show a
 later year on the title page (Potter's *Benjamin Bunny* 1932, Lofting's
 *Voyages* 1933, Lang's *Orange Fairy Book* 1937). That year may be only a
 reprint of art published earlier, but someone has to read the title page
@@ -66,7 +66,7 @@ before any of that art is hosted.
 
 ## Initials that lose their letter
 
-**314 picture initials in 27 books**: Gutenberg's HTML text lacks the letter
+**851 picture initials in 61 books**: Gutenberg's HTML text lacks the letter
 the picture carries ("nce upon a time", "HE sun had set"). The letter lives in
 the picture. The house text is built from Gutenberg's `.txt`, which keeps the
 whole word: 67 of 69 on three books checked (Jacobs's *Indian Fairy Tales*,
@@ -78,8 +78,12 @@ picture over it (ART-PLAN s.3a). `html_has_letter: false` marks every case.
 
 `_ornament-candidates.jsonl` groups ornaments, tailpieces, headpieces and
 picture initials from different books whose dHash differs by 10 bits or less
-and whose shape (width to height) agrees within 25%. 14 groups. A look by eye
-on 2026-11-03:
+and whose shape (width to height) agrees within 25%. 97 groups after the
+second wave. In the largest, one decorated T recurs in five books by four
+authors as five separate scans: a stock initial, most likely a typefounder's.
+33 groups share a byte-identical file between books, which is a Gutenberg
+volunteer reusing an image, not proof of one block. A look by eye at the first
+wave's 14 groups on 2026-11-03 (numbered as they were then):
 
 - **real:** Pyle's four Arthur volumes share tailpieces and chapter bands
   (groups 1, 2, 6, 14). The Scribner Press colophon appears in six books by
@@ -100,7 +104,7 @@ Group numbers change on a rebuild, so this list is a note, not data.
     python3 pipeline/art_gallery.py                       # the review page, build/art-gallery/
     python3 tests/art_harvest_test.py                     # 26 offline checks
 
-The 53 shelves of 2026-11-03: potter burgess grahame aesop andersen grimm
+The 53 shelves of the first wave: potter burgess grahame aesop andersen grimm
 jacobs-fairy collodi lofting kate-greenaway ruskin-golden-river
 wilde-fairy-tales langloh-parker crane pyle katharine-pyle carroll seton bunyan
 henty lang baum nesbit kipling kingsley macdonald barrie alcott stevenson garis
@@ -108,3 +112,15 @@ gruelle palmer-cox burnett lfperkins perkins molesworth ewing macgregor baldwin
 baldwin-more bulfinch church church-aeneid dodge eggleston guerber
 guerber-histories harris-remus hawthorne hawthorne-works eva-march-tappan
 stockton arthur-scott-bailey.
+
+The 70 shelves of the second wave: dickens dickens-works dickens-christmas thackeray twain-rl austen austen-works
+bronte-works gaskell hardy-works verne dumas-rl cooper-works irving defoe-works
+melville haggard chesterton ballantyne marryat mayne-reid sewell spyri wiggin
+montgomery-works tarkington-works trollope-works conan-doyle-works jack-london
+hgwells-works stowe-works walter-scott-works george-eliot-works wilkie-collins-
+works blackmore charles-reade kingston fenn gordon-stables lt-meade horatio-
+alger oliver-optic martha-finley edgeworth mary-martha-sherwood yonge edward-
+ellis edward-lear lear eugene-field w-b-riley longfellow tennyson malory wyss
+thomas-hughes burroughs-works orczy-works sabatini-works poe-works o-henry-works
+stoker-works wilde-works william-morris-works charles-g-d-roberts eggleston-
+works henty-works howells elson-readers fielding.
