@@ -1,0 +1,45 @@
+{
+ "_about": "James Boswell. Bloom's Western Canon (1994) lists: Journals. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "James Boswell",
+ "_name_words": [
+  "james",
+  "boswell"
+ ],
+ "_surname": [
+  "boswell",
+  "james boswell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boswell-private-papers-malahide-castle": [
+   "privatepapersofj0000ralp",
+   "Private Papers of James Boswell from Malahide Castle, in the collection of Lt-Colonel Ralph Heyward Isham (vol. I: 1754-1763)"
+  ]
+ },
+ "_bloom": {
+  "boswell-private-papers-malahide-castle": {
+   "bloom_n": [
+    216
+   ],
+   "bloom_title": "Journals",
+   "year": "1928 (title page: 'Copyright, 1928, Ralph H. Isham ... Printed in the United States of America')",
+   "evidence": "Read title page, note and contents: 'Journal of my Jaunt, Harvest 1762', 'First memoranda of Johnson 1763'; collection internetarchivebooks, djvu downloads.",
+   "case": "Bloom's 'Journals' are the private journals, first printed in Isham's limited Private Papers (1928-34); the 1928-1930 volumes are US-PD and vol. I is on IA. The Hebrides journal (1785) is the published journal.",
+   "note": "Only vol. I of Isham was found readable; later vols are lending-only or post-1930 (a 1931 vol. is lending). The Yale trade editions (1950-) are not PD. Notable find."
+  }
+ },
+ "_checks": {
+  "boswell-private-papers-malahide-castle": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "boswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
