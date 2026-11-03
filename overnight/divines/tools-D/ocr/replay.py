@@ -3,7 +3,7 @@ import json,re,sys
 I=sys.argv[1]; c=json.load(open(I+'.collated.json')); pages=c['pages']; c.setdefault('log',[])
 def sub1(k,t,u,how):
   pat=r'(?<!\S)'+re.escape(t)+r'(?!\S)'
-  if re.search(pat,pages[k]): pages[k]=re.sub(pat,u,pages[k],count=1); c['log'].append((k,t,u,how)); return 1
+  if re.search(pat,pages[k]): pages[k]=re.sub(pat,lambda m:u,pages[k],count=1); c['log'].append((k,t,u,how)); return 1
   return 0
 import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import reads as RD; reads=RD.load(I)
 n=sum(sub1(k,t,u,'read') for k,t,u in reads)
