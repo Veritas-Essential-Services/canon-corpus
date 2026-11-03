@@ -1,0 +1,205 @@
+{
+ "_about": "Adam's Logos purchase 'Classic Commentaries and Studies on the Pauline Epistles (31 vols)' (receipt August 2017), its titles as listed on logos.com read 2026-11-03, each found as a pre-1931 Internet Archive scan and its title page read (where only the catalogue was read, the row says so). One shelf for the bundle because its authors mostly have one book each; works already on another shelf are not repeated (listed under _excluded). Internet Archive OCR, raw. All published before 1931, so US public domain. Added 2026-11-03 by lane A. No uids minted.",
+ "_name_words": [
+  "paul",
+  "pauline",
+  "epistle"
+ ],
+ "_surname": [
+  "gloag",
+  "shaw",
+  "slaten",
+  "davies",
+  "boise",
+  "smith",
+  "arnold",
+  "parker",
+  "alexander",
+  "walker",
+  "sumner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ccp-gloag-pauline": [
+   "introductiontopa00gloa",
+   "Introduction to the Pauline Epistles, by Paton J. Gloag (Edinburgh: T. & T. Clark, 1874)"
+  ],
+  "ccp-shaw-pauline": [
+   "paulineepistlesi00shawuoft",
+   "The Pauline Epistles: Introductory and Expository Studies, 4th ed., by R. D. Shaw (Edinburgh: T. & T. Clark, 1913)"
+  ],
+  "ccp-slaten-qualitative-nouns": [
+   "qualitativenouns00slat",
+   "Qualitative Nouns in the Pauline Epistles and Their Translation in the Revised Version, by Arthur Wakefield Slaten (Chicago: University of Chicago Press, 1918)"
+  ],
+  "ccp-davies-ephesians": [
+   "epistlesofstpaul00davi",
+   "The Epistles of St. Paul to the Ephesians, the Colossians, and Philemon, with Introductions and Notes, by J. Llewelyn Davies (catalogue: London: Macmillan, 1866)"
+  ],
+  "ccp-boise-notes": [
+   "notescriticalexp00boisuoft",
+   "Notes, Critical and Explanatory, on the Greek Text of Paul's Epistles, by James Robinson Boise (catalogue: New York: Silver, Burdett, 1896)"
+  ],
+  "ccp-smith-ephesians": [
+   "commentaryonepis0503smit",
+   "Commentary on the Epistle to the Ephesians, An American Commentary on the New Testament, ed. Alvah Hovey, by Justin A. Smith (Philadelphia: American Baptist Publication Society, 1890)"
+  ],
+  "ccp-arnold-ford-romans": [
+   "commentaryonepis0402arno",
+   "Commentary on the Epistle to the Romans, An American Commentary on the New Testament, by Albert N. Arnold and D. B. Ford (Philadelphia: American Baptist Publication Society, 1889)"
+  ],
+  "ccp-parker-colossians-thessalonians": [
+   "epistlestocoloss00park",
+   "The Epistles to the Colossians and Thessalonians, The Practical Commentary on the New Testament, ed. W. Robertson Nicoll, vol. I, by Joseph Parker (catalogue: New York: A. C. Armstrong, 1904)"
+  ],
+  "ccp-alexander-colossians-ephesians": [
+   "epistlestocoloss00alex",
+   "The Epistles to the Colossians and to the Ephesians, The Bible for Home and School, by Gross Alexander (catalogue: New York: Macmillan, 1910)"
+  ],
+  "ccp-walker-creative-ideal": [
+   "cu31924029375288",
+   "Christ the Creative Ideal: Studies in Colossians and Ephesians, by W. L. Walker (catalogue: Edinburgh: T. & T. Clark, 1913)"
+  ],
+  "ccp-sumner-2cor-colossians": [
+   "practicalexposi00sumnrich",
+   "A Practical Exposition of the Second Epistle of St. Paul to the Corinthians, and the Epistles to the Galatians, Ephesians, Philippians, and Colossians, in the Form of Lectures, by John Bird Sumner (London: J. Hatchard, 1845)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ccp-jowett": "Jowett's Epistles to the Thessalonians, Galatians and Romans: Adam's ruling (2026-10-23) is to skip Jowett's own writings",
+  "ccp-held": "Already on other shelves: Lyman Abbott's Life and Letters of Paul (lyman-abbott), William Kelly's Lectures Introductory (william-kelly-brethren), Seiss on Hebrews (joseph-augustus-seiss), Livermore's Romans (abiel-abbot-livermore), Morgan Dix on Galatians and Colossians (morgan-dix), B. H. Carroll's Colossians, Ephesians and Hebrews (b-h-carroll)",
+  "ccp-modern": "Jacobus J. Muller on Philippians (1955) and Myles M. Bourke on the olive tree (1947): published after 1930"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "ccp-not-found": "No open pre-1931 scan found for: Whately, Essays on Some of the Difficulties in the Writings of St. Paul; Livermore, Epistles to the Corinthians through Philemon; G. C. Martin, Century Bible Ephesians-Philippians; Douglas Mackenzie, Westminster NT Galatians and Romans; G. W. Clark's People's Commentary (2 vols); Juan de Valdes's Romans and 1 Corinthians (Betts tr.); Boehmer, Lives of the Twin Brothers Valdes; Sumner on Thessalonians to Hebrews"
+ },
+ "_translators": {},
+ "_checks": {
+  "ccp-gloag-pauline": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "gloag",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-shaw-pauline": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-slaten-qualitative-nouns": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "slaten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccp-davies-ephesians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-boise-notes": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "boise",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-smith-ephesians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-arnold-ford-romans": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "boise",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-parker-colossians-thessalonians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-alexander-colossians-ephesians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ccp-walker-creative-ideal": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccp-sumner-2cor-colossians": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "sumner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
