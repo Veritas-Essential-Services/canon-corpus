@@ -39612,5 +39612,2441 @@
    "license": "Public domain in the United States (published 1922)",
    "redistribute_whole": true
   }
+ },
+ "sks-bi": {
+  "title": "Om Begrebet Ironi (Danish, SKS 1)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "a6e0268e1cf542038199a29654cf3c5aebdb28e795506ff4ea17c149bc44f657",
+  "units": 306,
+  "scheme": {
+   "citation": "SKS 1, page (paragraph): sks-bi:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 48,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 183,
+    "notes_in_file": 183
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/bi",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "d1ac2a373f57ea6292229d1df2791f3091a7c27c7d340761880d37b0afd1cfe0"
+ },
+ "sks-lp": {
+  "title": "Af en endnu Levendes Papirer (Danish, SKS 1)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "3a6ca44876c5f9bd7a083984f4b17d9c7e9a32fc225883f37951b70df4b87a66",
+  "units": 57,
+  "scheme": {
+   "citation": "SKS 1, page (paragraph): sks-lp:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 14,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 37,
+    "notes_in_file": 37
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/lp",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "0f6c2d1cf239966b6e99dca9712e7240c015a7cc5db97a658b189b952c4bb0b6"
+ },
+ "sks-ee1": {
+  "title": "Enten – Eller. Første del (Danish, SKS 2)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "25dbdb44e873f518010f52a9c4edf2f9d5d351631eb2f5a6aaf8f6f5627dbfda",
+  "units": 805,
+  "scheme": {
+   "citation": "SKS 2, page (paragraph): sks-ee1:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 134,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 5,
+    "notes_in_file": 5
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ee1",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "3e5081949a481b0ae43eeb0b16a443327a6a406b4b31ce14279ad1a8b120476b"
+ },
+ "sks-ee2": {
+  "title": "Enten – Eller. Anden del (Danish, SKS 3)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "f5cf4511deb0070c2146fb2d3fd204998cbc1e456cf588a808d336617377e6e2",
+  "units": 412,
+  "scheme": {
+   "citation": "SKS 3, page (paragraph): sks-ee2:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 69,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 2,
+    "notes_in_file": 2
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ee2",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "e4c4e644fcc38e02db3c799beb5b5a6c5f5fc093a3955d2b0213597028d1913e"
+ },
+ "sks-ba": {
+  "title": "Begrebet Angest (Danish, SKS 4)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "9d78fe430f5fc11bd18d40e668dd6b5de6ae2a5aa95baf4344ab5525535acd06",
+  "units": 339,
+  "scheme": {
+   "citation": "SKS 4, page (paragraph): sks-ba:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 64,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 56,
+    "notes_in_file": 56
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ba",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "fbfbbafe40e620aa8f0db0dc3e4d497632382ab382730224cb7d281453c673cd"
+ },
+ "sks-f": {
+  "title": "Forord (Danish, SKS 4)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "796d6950e351ddeda243f515451a9783474efd892a6063f5d6127c607fc42022",
+  "units": 107,
+  "scheme": {
+   "citation": "SKS 4, page (paragraph): sks-f:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 28,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/f",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "ab81a49f28d29aa416a4cdb548a35f657a4cc4c98004e05b6d65360627a463d3"
+ },
+ "sks-fb": {
+  "title": "Frygt og Bæven (Danish, SKS 4)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "00f20f788c3b4b11b8016b72f52a55d4b79c0e0eae6d1d96a5dc682f802f1401",
+  "units": 195,
+  "scheme": {
+   "citation": "SKS 4, page (paragraph): sks-fb:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 35,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 18,
+    "notes_in_file": 18
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/fb",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "db8479706ac2d8b609e3222f5f28118dfae4b6c15cb0039c748d789bc356dbb4"
+ },
+ "sks-g": {
+  "title": "Gjentagelsen (Danish, SKS 4)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "002bd8766c379f47b386cb83838046f29bc34d163e03d936609ab89ab46e8717",
+  "units": 176,
+  "scheme": {
+   "citation": "SKS 4, page (paragraph): sks-g:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 26,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/g",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "dd96bb2e59b0084d43993eaeca125d73fa4fdb17cc098a42b9202bb5494d462e"
+ },
+ "sks-ps": {
+  "title": "Philosophiske Smuler (Danish, SKS 4)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "e6ebaf59bc6ba414b7cd09d05ce845750e73de9af18a051968bab6e15d084ce1",
+  "units": 142,
+  "scheme": {
+   "citation": "SKS 4, page (paragraph): sks-ps:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 52,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 15,
+    "notes_in_file": 15
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ps",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "a9b8df3af9ca286821b01b78d8ed192d9d2f11ccd4793ee5e43ae655f366bf4e"
+ },
+ "sks-2t43": {
+  "title": "To opbyggelige Taler, 1843 (Danish, SKS 5)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "fe4dc6c8c9f3939cda7de2dc9fb777a1d636bb8c37194c25a2dce0ad22883b42",
+  "units": 60,
+  "scheme": {
+   "citation": "SKS 5, page (paragraph): sks-2t43:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 7,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/2t43",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "1ecd79d2e803b6dd2c47d4d632677d702a5fce144a6988f4cdc3f31ad3b55be8"
+ },
+ "sks-2t44": {
+  "title": "To opbyggelige Taler, 1844 (Danish, SKS 5)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "2986dbc65f34320ec0b62073eea250d677060553e71decae291c75be8de5b05a",
+  "units": 73,
+  "scheme": {
+   "citation": "SKS 5, page (paragraph): sks-2t44:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 8,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/2t44",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "9304a52d200c000bd06ab9f8ea0fd24b1950ded431ec545137417ace2a6af7ff"
+ },
+ "sks-3t43": {
+  "title": "Tre opbyggelige Taler, 1843 (Danish, SKS 5)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "8a5b9b9a48de6409c4b9dd9615f2a0f8f18694437ae680b4388948fc7850b72f",
+  "units": 74,
+  "scheme": {
+   "citation": "SKS 5, page (paragraph): sks-3t43:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 11,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/3t43",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "94c0efc3d49adfa37097d4cbffbad278f2b4663a8a5638112d01582ec5751b5f"
+ },
+ "sks-3t44": {
+  "title": "Tre opbyggelige Taler, 1844 (Danish, SKS 5)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "897611f71a60ebb643dc647eea9e9421e23dff6e3b7e53670a97a1b72e462169",
+  "units": 73,
+  "scheme": {
+   "citation": "SKS 5, page (paragraph): sks-3t44:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 12,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/3t44",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "d07c33c360f48f8ff2cc27f8ef830e229992d3fb4a75d6539b527817c34080c5"
+ },
+ "sks-4t43": {
+  "title": "Fire opbyggelige Taler, 1843 (Danish, SKS 5)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "4bb56b413d9224e1dac3e0acafa55dac07e0a16a195d7ee2eda60abed4ee51e6",
+  "units": 90,
+  "scheme": {
+   "citation": "SKS 5, page (paragraph): sks-4t43:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 16,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/4t43",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "fd8490f6132fef4aef473f57069c0ea6088dc9a0e475b73590f3a8ccb44e2bbf"
+ },
+ "sks-4t44": {
+  "title": "Fire opbyggelige Taler, 1844 (Danish, SKS 5)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "14b12a0f738feca78cad8bcb29d4237ad52f603e282f7a1d6834a1768837128e",
+  "units": 111,
+  "scheme": {
+   "citation": "SKS 5, page (paragraph): sks-4t44:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 13,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/4t44",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "ae5a4f71e7c97684beacf0514fc0255f8e019db99f5bc8b6213d98b0a1ace08e"
+ },
+ "sks-ttl": {
+  "title": "Tre Taler ved tænkte Leiligheder (Danish, SKS 5)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "fc478a4f0e6884db5cffb640649856e663d9839277df64e2caf3ebae14ae0993",
+  "units": 123,
+  "scheme": {
+   "citation": "SKS 5, page (paragraph): sks-ttl:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 27,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ttl",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "c13a3a85dda51bdefb95ffd6c0eba7ddb2638cd35227f8aca1e148ec40006034"
+ },
+ "sks-slv": {
+  "title": "Stadier paa Livets Vei (Danish, SKS 6)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "ff2b3fea4eedb3edb3aad9aca6e51fe73d344ca448840d80d050c42a638c5e2f",
+  "units": 1069,
+  "scheme": {
+   "citation": "SKS 6, page (paragraph): sks-slv:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 167,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 8,
+    "notes_in_file": 8
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/slv",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "7fbb0e1cfc7875b5b094433023811c7f7238038150375e91f93a1313a9a24783"
+ },
+ "sks-ae": {
+  "title": "Afsluttende uvidenskabelig Efterskrift (Danish, SKS 7)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "0daa1502781920c25648cfa5b76bc0d801f9bf2b016b3d8010549eaba70ed7a1",
+  "units": 729,
+  "scheme": {
+   "citation": "SKS 7, page (paragraph): sks-ae:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 174,
+    "misprints_emended": 58,
+    "deletions_dropped": 0,
+    "notes": 135,
+    "notes_in_file": 135
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ae",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "70ad8b90f22ff2831489caa5899d36a4de6eb1dc68e32ed5097c3fec76c46b75"
+ },
+ "sks-la": {
+  "title": "En literair Anmeldelse (Danish, SKS 8)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "69b07285e677020f5cd23329842108cd423bafe8cffe8e940e62e9a8ea04e812",
+  "units": 161,
+  "scheme": {
+   "citation": "SKS 8, page (paragraph): sks-la:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 24,
+    "misprints_emended": 6,
+    "deletions_dropped": 0,
+    "notes": 16,
+    "notes_in_file": 16
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/la",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "67fb3ce791543940543c70a501c60ead93ec36e21c39c1f11c694513453d5c42"
+ },
+ "sks-ota": {
+  "title": "Opbyggelige Taler i forskjellig Aand (Danish, SKS 8)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "d4ea33d628943f2d3d2878f8d0a85f831f2d3fe02ddd831c20941d4c49a786ea",
+  "units": 453,
+  "scheme": {
+   "citation": "SKS 8, page (paragraph): sks-ota:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 40,
+    "misprints_emended": 14,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ota",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "f4dba5fc1799f3eb80f8c883c787b6cefa237fa4169caa87d8dcf73edfb21ce7"
+ },
+ "sks-kg": {
+  "title": "Kjerlighedens Gjerninger (Danish, SKS 9)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "f11a0364aad38eed5bb8f11722d398abbd47db24dcabdc16c9eac6bcc0cc8e69",
+  "units": 531,
+  "scheme": {
+   "citation": "SKS 9, page (paragraph): sks-kg:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 53,
+    "misprints_emended": 19,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/kg",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "2af40b0b845fcfd12cd19facc3aac878838cc68a5c4a7aa09f58abbca3f65764"
+ },
+ "sks-ct": {
+  "title": "Christelige Taler (Danish, SKS 10)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "f02d40e207a1255c8ef1416a687f363fe6b415b4d8eff307e0aeb952a10a76d2",
+  "units": 540,
+  "scheme": {
+   "citation": "SKS 10, page (paragraph): sks-ct:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 26,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ct",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "c0474714a7351ec8c775f12fd45d2bee054ba991b77615bd3baf7a7129ef9a97"
+ },
+ "sks-lf": {
+  "title": "Lilien paa Marken og Fuglen under Himlen (Danish, SKS 11)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "28a7813a3858a885a9abbbe9661ec090c3335e080d46cd61099582fc40cd941f",
+  "units": 76,
+  "scheme": {
+   "citation": "SKS 11, page (paragraph): sks-lf:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 6,
+    "misprints_emended": 15,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/lf",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "86fbe842704c50bc7bf2a636786d8a930887926ac1d0ef253fe29b11e72c8c2a"
+ },
+ "sks-sd": {
+  "title": "Sygdommen til Døden (Danish, SKS 11)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "a84eee7032e847b0fbbea045c0b0044598c67c980be10bd207570d6d96232098",
+  "units": 249,
+  "scheme": {
+   "citation": "SKS 11, page (paragraph): sks-sd:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 27,
+    "misprints_emended": 62,
+    "deletions_dropped": 0,
+    "notes": 9,
+    "notes_in_file": 9
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/sd",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "b1a6b665cf5832c9c01b6a093be3b916ccd628b0b7349c9fbe233c0407ef7bb0"
+ },
+ "sks-tsa": {
+  "title": "Tvende ethisk-religieuse Smaa-Afhandlinger (Danish, SKS 11)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "5317526b381cef83aba8229ff35fc802063b786731fa5517fa4a998f6aaa383b",
+  "units": 112,
+  "scheme": {
+   "citation": "SKS 11, page (paragraph): sks-tsa:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 18,
+    "misprints_emended": 27,
+    "deletions_dropped": 0,
+    "notes": 3,
+    "notes_in_file": 3
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/tsa",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "0db3b67062b9dd5625a9e92cdbf0b7accd8e63eeb5330203dde506ab16b861fa"
+ },
+ "sks-yts": {
+  "title": "»Ypperstepræsten« – »Tolderen« – »Synderinden« (Danish, SKS 11)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "f070867e646e18691fe946fc23bd87d9a3fb5a7ababde7a96802658132b2537c",
+  "units": 65,
+  "scheme": {
+   "citation": "SKS 11, page (paragraph): sks-yts:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 3,
+    "misprints_emended": 16,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/yts",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "2b2a0fb5f54fa9e1180cb040f717c07c74d1f0bce399f43838e78891e1a4e8b3"
+ },
+ "sks-eot": {
+  "title": "En opbyggelig Tale (Danish, SKS 12)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "af5f2cb29c734e0c21d3f28728ce2abeceae9f1bd349e304dd2b4b4a3fffe02f",
+  "units": 47,
+  "scheme": {
+   "citation": "SKS 12, page (paragraph): sks-eot:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 8,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/eot",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "d02939a193096366f115d37cf7728a9d5c8a2165fcc91587dd1afbcc9c78a928"
+ },
+ "sks-ic": {
+  "title": "Indøvelse i Christendom (Danish, SKS 12)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "d5fe10880e83c93235a819db2dd4ba4fc7dfbdecbd6bfde837da699a7ef9a891",
+  "units": 479,
+  "scheme": {
+   "citation": "SKS 12, page (paragraph): sks-ic:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 45,
+    "misprints_emended": 98,
+    "deletions_dropped": 0,
+    "notes": 4,
+    "notes_in_file": 4
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ic",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "bd8d133fba4a55870398b07c9a65f3ce2720e10bdb37b0767e14c21b79347492"
+ },
+ "sks-taf": {
+  "title": "To Taler ved Altergangen om Fredagen (Danish, SKS 12)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "00384793d619e1a965b1604968bc6731129a584ad6e4f07384198d3a3bdf5473",
+  "units": 48,
+  "scheme": {
+   "citation": "SKS 12, page (paragraph): sks-taf:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 4,
+    "misprints_emended": 12,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/taf",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "220d70c8e64f1fb48286a42c6653e748a8439956340da98f6530cd7322393620"
+ },
+ "sks-dss": {
+  "title": "Dette skal siges; saa være det da sagt (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "21b80835f53c46cd629d13da4c0fda2186e1311fd4548b39779c4de59e3a00b2",
+  "units": 32,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-dss:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 10,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/dss",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "ca9740b5dab2be76ad8b7d5ec8e43d69003e22a40fb2ae00944dc6f6f6782c28"
+ },
+ "sks-fv": {
+  "title": "Om min Forfatter-Virksomhed (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "642f332d666915ca24586c44a1eb22b7c52d0319fc952f679801037fa706863a",
+  "units": 35,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-fv:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 2,
+    "misprints_emended": 14,
+    "deletions_dropped": 0,
+    "notes": 9,
+    "notes_in_file": 9
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/fv",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "8348df1a73e734a187dff0185ff2a27ca83ec8f98eb798c74837396483c802c5"
+ },
+ "sks-gu": {
+  "title": "Guds Uforanderlighed (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "8c5b6324ccc4fc28b8d2e4a4ddca627c60e931287af87cb0f5ea25462c40e645",
+  "units": 42,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-gu:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 16,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/gu",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "1019b7107fabc1231d4e913ce95e4ef63cb2ae7380d141c519161792af639119"
+ },
+ "sks-hcd": {
+  "title": "Hvad Christus dømmer om officiel Christendom (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "f18a2363ee7e54ec4b4be042f54e047503809bd45153ac142c52b7b635520325",
+  "units": 44,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-hcd:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 7,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/hcd",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "1e471b48f384f0bc44f7163df3888338b0040aed50fe34bef7b6f989a4f92140"
+ },
+ "sks-oi1": {
+  "title": "Øieblikket Nr. 1 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "cb7a09a5c104439ce028a8c76296d490db1f4ad559116baf108a15b9e7e320ef",
+  "units": 50,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi1:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 2,
+    "misprints_emended": 9,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi1",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "436ecb650cf5accdc8377bac22655b1d6c9ef91b884e5113d8ff7ce07b40b14f"
+ },
+ "sks-oi10": {
+  "title": "Øieblikket Nr. 10 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "b2137e26333e1ddc99335126d8e238e858b2e5059ca536e85a45c08b8159eb87",
+  "units": 144,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi10:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 99,
+    "misprints_emended": 0,
+    "deletions_dropped": 2,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi10",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "20914c1a9dc18ea6a65e5ad65769260f3998ff1f12c2863e2493d594f8c35863"
+ },
+ "sks-oi2": {
+  "title": "Øieblikket Nr. 2 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "836e2ebe92de27ae40c92d675d19a15edf657330a089338a348f01eaa1c34c22",
+  "units": 85,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi2:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 5,
+    "misprints_emended": 12,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi2",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "206ac0e69d3445cc164e8124b19d266413a7800d74cd321d8989bdc3e9c48b87"
+ },
+ "sks-oi3": {
+  "title": "Øieblikket Nr. 3 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "b08e5ba1852b80fec38e6528970fd5dbc8fa43620e858120949d3934daafae2d",
+  "units": 50,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi3:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 8,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi3",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "5c2867e4653ad4c3186b26a5eccc54f18a5ca808b5f1a51bc19c54a170b6559e"
+ },
+ "sks-oi4": {
+  "title": "Øieblikket Nr. 4 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "aac759cb63c001a967305ccde397c3848972841f2aaeb0f3ff34fd0931fe3612",
+  "units": 70,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi4:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 8,
+    "misprints_emended": 13,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi4",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "91454e3daf03d2a6001dfd4261f63ba9a64b35dbfc073f83c9cb79e4ac838cf8"
+ },
+ "sks-oi5": {
+  "title": "Øieblikket Nr. 5 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "f6397204ae2243be57f130e891e8db136988c9b4f3f0279fb0d0990ed568ed81",
+  "units": 103,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi5:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 3,
+    "misprints_emended": 12,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi5",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "d09a01752ee00f337baf51e15c8f16e0fd45470b86e47cc983b01f7064ae39a7"
+ },
+ "sks-oi6": {
+  "title": "Øieblikket Nr. 6 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "90f35bb471daf4b4957801796207f92bd0c62b9a49f9fd3cfae5c09023ccc836",
+  "units": 99,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi6:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 4,
+    "misprints_emended": 11,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi6",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "4ae24fcc33616430b481df844dfac8ace290de07a057409c19dbb1eafd62cc40"
+ },
+ "sks-oi7": {
+  "title": "Øieblikket Nr. 7 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "ead952dd8987b0a7c5636552cc1e09d7d7f48a7090616cbaab6bc06c9752c2ed",
+  "units": 146,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi7:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 9,
+    "misprints_emended": 10,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi7",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "385286bae91fa117de8da5653a2b172d338bdd4f7b5da8557e2065b17ca7b5e2"
+ },
+ "sks-oi8": {
+  "title": "Øieblikket Nr. 8 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "cf371c6c5ab0dabd4c91813b83944a6dfa439245ab4f6150660f5fc620428062",
+  "units": 76,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi8:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 4,
+    "misprints_emended": 11,
+    "deletions_dropped": 0,
+    "notes": 2,
+    "notes_in_file": 2
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi8",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "a7d7c5f99b26f7d58cf854356ce2aceb816b6c1d1d2022b2a78e1030b7d53d81"
+ },
+ "sks-oi9": {
+  "title": "Øieblikket Nr. 9 (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "88d2b0314adc6c101a78b15e005d49cad96452c5ffe0a7b872cf09179599f1d3",
+  "units": 67,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-oi9:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 10,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oi9",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "3a3376068101bad04f8835b5c015ed394bcba5fd95edec6e6f8d2113f197c4ce"
+ },
+ "sks-ts": {
+  "title": "Til Selvprøvelse Samtiden anbefalet (Danish, SKS 13)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "6d198ba8c593ac1796ea5eea90da85ce649a9b3817319030177bffb9a40d6954",
+  "units": 185,
+  "scheme": {
+   "citation": "SKS 13, page (paragraph): sks-ts:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 3,
+    "misprints_emended": 25,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ts",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "e0177e85933ee565d6c2802049b35911abf242e70ef21b9d27c22ea2f1259756"
+ },
+ "sks-aas": {
+  "title": "Aabenbart Skriftemaal (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "e7583a018889a2f0e134194404d1ab2be02a06cbd88b9e34f0466f1b8603620f",
+  "units": 10,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-aas:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 3,
+    "misprints_emended": 3,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/aas",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "b38e411eb47bb4eb154cafa85f9877ad8380f46217d7e12b016fb336ec273415"
+ },
+ "sks-aev": {
+  "title": "En omreisende Æsthetikers Virksomhed, og hvorledes han dog kom til at betale Gjæstebudet. (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "1529318dd3feb7a12625071873bb6f8570b5276124bbf800d1b94aed9c53427d",
+  "units": 10,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-aev:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 6,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 2,
+    "notes_in_file": 2
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/aev",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "5a6247404a6c78491566bc53627f41f6587314aa53f256b9b02e4f1b31dc8a34"
+ },
+ "sks-af": {
+  "title": "I Anledning af et anonymt Forslag til mig i dette Blads Nr. 79 (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "c3effcfafc368f405e4def221da29d0921099a6bfb89382ac82b88f6e8dce12a",
+  "units": 2,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-af:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/af",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "a286b10c55005ecc95fecfbe529a92281a6d1b2962c8c71ee00208105ffb37e0"
+ },
+ "sks-atv": {
+  "title": "Angaaende en taabelig Vigtighed lige over for mig og den Opfattelse af Christendom, som jeg gjør kjendelig (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "69f92ba7d50ff1fb95c4eafada30c76dfc8ef1437834f15fafe1e33d962a5c21",
+  "units": 12,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-atv:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/atv",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "005dff86069c9425b9ebf51e94aa46588e2145b137d5c52b2d063d9b9bf4b2dd"
+ },
+ "sks-bmd": {
+  "title": "Ved Biskop Mynsters Død (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "c707325d8a492348fd1a90184f61dd422e142e2991b8220a2b1d560a93c26ed5",
+  "units": 9,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-bmd:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 2,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/bmd",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "3f88dfb4cb5473163207a3d4fd52383d1ac664b4391e69ebc20ef6a37676c1ea"
+ },
+ "sks-bms": {
+  "title": "Var Biskop Mynster et »Sandhedsvidne«, et af »de rette Sandhedsvidner« – er dette Sandhed? (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "5f22175bfb73aa74ddb83710323fae8031a533d75deaa3f57510a85cceef66cf",
+  "units": 20,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-bms:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 2,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/bms",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "ecd45be2fbb459affdec49474ec4b148e86f3d5765443eafb0beafcb3788b7fa"
+ },
+ "sks-bmt": {
+  "title": "At Biskop Martensens Taushed er 1) christeligt uforsvarlig; 2) latterlig; 3) dum-klog; 4) i mere end een Henseende foragtelig (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "42d56dcb491e698801e1eb70322475157c83730c8e955aed33d57adf8643d8e2",
+  "units": 22,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-bmt:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 3,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/bmt",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "a23567e2fd081e459d9315e8a1dc1322b3615db99d7044686acf3a164c892b99"
+ },
+ "sks-cgn": {
+  "title": "Er dette christelig Gudsdyrkelse eller er det at holde Gud for Nar? (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "2e20ad7eb712e973aeba5c8c097400fdef973ac5bd4c4f9562b68a41ca23ba96",
+  "units": 11,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-cgn:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/cgn",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "46c885216d48a4b4a1387d61a28bcb221a0ce613830eca4444f42b46945879b7"
+ },
+ "sks-ck": {
+  "title": "Christendom med kongelig Bestalling og Christendom uden kongelig Bestalling (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "b2cea85d59b5f8c6c612a3663164c6c5041652c33b12e69095f5cc692586163a",
+  "units": 7,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-ck:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ck",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "30177551d4f089149e2e9fccba1152e61279c5ba3bd9b686a45df0049b5ad633"
+ },
+ "sks-dbd": {
+  "title": "Derved bliver det! (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "1cc0a52c549ea79cc6c53baea97e0175d3f41a5d263695591ef595c04f094791",
+  "units": 18,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-dbd:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 6,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/dbd",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "a5688edd5489b9f4b3bf4d68f4a4d786c06539493b4538a4e6168b7329aa1b19"
+ },
+ "sks-dj": {
+  "title": "En flygtig Bemærkning betræffende en Enkelthed i Don Juan I-II (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "d493f6c95bbac66aa4d6b29751a016dc3ce7b1e4d6419468a4a0f082210cf31f",
+  "units": 11,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-dj:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 2,
+    "notes_in_file": 2
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/dj",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "898d976c5c3fb1b2771a3ea36b67b9270d8affb3ebe621c17a2d976ea218c24d"
+ },
+ "sks-drt": {
+  "title": "Den religieuse Tilstand (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "06dba2c61a39ab30c020b4e1ae8d4dfc8e6eab354a981a3a3757cd260e00419a",
+  "units": 8,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-drt:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/drt",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "d4fdad7931fb2a2b1ae95a1e06a6062315562f94be43d135ce3beda67412debe"
+ },
+ "sks-eel": {
+  "title": "En Erklæring og Lidt til (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "fe52ef7e686f3229ea252334705504e569f6111cb598fb3cb44555b9ddb857e8",
+  "units": 4,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-eel:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/eel",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "06ac7a52d4e2f4cf980055b4d87aded2e223af5636275d733364052306d4b2e9"
+ },
+ "sks-elf": {
+  "title": "En lille Forklaring (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "7457351631dd227c81778d3474db4d0f788833fe92611f161172bfca101b3ab0",
+  "units": 2,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-elf:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/elf",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "ec507a7b2129d2abcd49db63c397cb4cc8f2b6733e3e4a423ac3f99c2c3d2dd4"
+ },
+ "sks-em": {
+  "title": "En Monolog (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "f1cd457af983f3dcb7f7a19c4ef7e06bf59ff9e3454c80b0ac9b47541ef71001",
+  "units": 7,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-em:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/em",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "d1cbfbb9fb4353a627ea7c36b8a490d2c51eac3b2614cdc5f01bee830777227e"
+ },
+ "sks-er": {
+  "title": "Et Resultat (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "402f11c14355fbfbcf79a13458fa58a9b72e7125d0aa2960d8a5e3b4f0832eb2",
+  "units": 16,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-er:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/er",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "8555a1f904e236bb9319425ecf39072470a89730338298b9b95205cd7e06b727"
+ },
+ "sks-et": {
+  "title": "En Thesis – kun een eneste (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "5f4440307aa6af38de42fe357b58d80bea714597bf4e290d0796752c3df83e6c",
+  "units": 6,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-et:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/et",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "9c3b858da90f2f78b7903ef5c1443d9d36ea178989daee22a0371ab75dac1d63"
+ },
+ "sks-fee": {
+  "title": "Hvo er Forfatteren af Enten–eller (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "392de5eb06c41f0b32966e987086f39e3ab1e98529a59148ec856c5b35dbfe1f",
+  "units": 16,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-fee:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 5,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/fee",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "af11ed87f5c406fe5e8bd354d77bd705f60300c86b3fed1dd83ae4f3eafe522c"
+ },
+ "sks-fp": {
+  "title": "Om Fædrelandets Polemik I-II (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "5ea309e72d91d4f9169cfcc24eaed73819f945e630de00c0f3066b571811b68a",
+  "units": 13,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-fp:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 3,
+    "notes_in_file": 3
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/fp",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "9d59079876cc1d3b6987e52a677fb2938fb08c1bd3957f12d5ea4a32371ccfe4"
+ },
+ "sks-fqa": {
+  "title": "Ogsaa et Forsvar for Qvindens høie Anlæg (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "d8b2ea155615c6fbfcbe0966e7b241228319481d63f294f35bf434f3d0780816",
+  "units": 4,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-fqa:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/fqa",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "cfc50126eb96baa021752f5d0775cbb6513265f0469d2e11f820b551cbd15e0d"
+ },
+ "sks-hg": {
+  "title": "Hvad der skal gjøres. – det skee nu ved mig eller ved en Anden. (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "b010e3af31d6f7047b999632c6fdfb615427a3ecb8cd568f53cf128d7889fe98",
+  "units": 4,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-hg:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/hg",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "0de29ab05dd27ad519f8862096d7d8f12eefa16a05bc52220c06ea5ea9cadf88"
+ },
+ "sks-hgs": {
+  "title": "Hvilken grusom Straf! (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "eac75a83327b9cafc0f7c63c3564dedd7a69a7e5ae27c5b327b807787fbe144a",
+  "units": 8,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-hgs:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 2,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/hgs",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "c7b17861eee980198e82a59e61323c46ac1bf6479250ffdc6fd802f0286ac4d2"
+ },
+ "sks-hjv": {
+  "title": "Hvad jeg vil? (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "34f593896b510e4f48d165a51b75651329dc5be4afb9fbf670d3e303eab7601e",
+  "units": 16,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-hjv:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/hjv",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "f7693f22b9588eafe64f56893e646d5eb75ad47616365e4883bfaa4fb1a92dab"
+ },
+ "sks-kks": {
+  "title": "Krisen og en Krise i en Skuespillerindes Liv I-IV (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "ef6a1879a7a6f62d328794c3d04095c1551ef3bf4fb59f353c47e0496c3c3663",
+  "units": 40,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-kks:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 11,
+    "misprints_emended": 4,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/kks",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "ce3c7709c800fae05a83b0542ee33545f30bfd45837b3340822dbcf3d09e9c4d"
+ },
+ "sks-km": {
+  "title": "Kjøbenhavnspostens Morgenbetragtninger i Nr. 43 (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "afaaf0b8616b3e51d49490d1d768994bafb96512ffd2582de50ae13e8abf3fe8",
+  "units": 7,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-km:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 4,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 3,
+    "notes_in_file": 3
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/km",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "f6c7665521c2934027d3478e733aeec8593be5f5452e08f4bca5a1b94d2a2685"
+ },
+ "sks-oic": {
+  "title": "Til det nye Oplag af »Indøvelse i Christendom.« (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "2ee5b0637c4c2ef46278c3dd6b5b378b98eac8d12d5db8e95ff4d47961822c30",
+  "units": 9,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-oic:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oic",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "9ca7fa27d0cf46c64372a00e43afbf282aeb69e18a10cba90b501f5d32c6b9c0"
+ },
+ "sks-ol": {
+  "title": "Til Hr. Orla Lehmann (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "514c1a117682422894afcf7fe79ae0932b0f108ccd2dd95a970f91624ad79191",
+  "units": 8,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-ol:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 3,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 4,
+    "notes_in_file": 4
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ol",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "b09722abc52cf3d6f0068b3b343035309ad25684eee977f405196687553546d9"
+ },
+ "sks-pf": {
+  "title": "Det dialektiske Resultat af en literair Politi-Forretning (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "0494fe29ec91786e832c2a48975f18afed256b0b97637efb8e082475e8f44750",
+  "units": 5,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-pf:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 3,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/pf",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "1fe95801667eda449651a5f6fa93136638896a31d6db36a3c8143bd9f8df26f9"
+ },
+ "sks-ph": {
+  "title": "Taksigelse til Hr. Professor Heiberg (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "ff41ae226ab6f71039549c7cc2d2c29d086d0fbf962fb518c3bcd36b79913e4e",
+  "units": 7,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-ph:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ph",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "378f83f818d3d2fc5071492d1a584510865e3a662345c412f9e54be139c5c189"
+ },
+ "sks-ppm": {
+  "title": "En Opfordring til mig fra Pastor Paludan-Müller (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "62fdfa91597b69b9f1a3bde6a54e625c3c5491ca6137b9c1df23759aeeda367b",
+  "units": 8,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-ppm:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ppm",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "e264c5b69635eab512983d698ab91923f02123adedaae7c10d1690967fa514f9"
+ },
+ "sks-rk": {
+  "title": "Var det rigtigst nu at »standse med Klemtningen«? (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "92fdde3f47444c91f97795c17e87975f31393f77a42eef4d9597b2749129945d",
+  "units": 5,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-rk:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 0,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/rk",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "6fc2feef17e52f349f8162739f70a25936dd52a01506753c3e46a82bbceaf2bf"
+ },
+ "sks-sa": {
+  "title": "»Salt«; thi »Christenhed« er: Christendoms Forraadnelse; »en christen Verden« er: Affaldet fra Christendommen. (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "dfe75401d12ee4cf3babcf01903a168c0a7690067cb657e2622cdc06abbcff17",
+  "units": 12,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-sa:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 4,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/sa",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "fb65534bce04f3f7fc27ec216d3aed0c949314f8ff51c3cf29d7cee1793b3911"
+ },
+ "sks-sbm": {
+  "title": "Stridspunktet med Biskop Martensen; som, christeligt, afgjørende for det i Forveien, christeligt seet, mislige kirkelige Bestaaende (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "e609859c36e627807abaa05e9738761942cd14ea7d9de9809fceb3fef3be82cd",
+  "units": 13,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-sbm:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 4,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/sbm",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "23e9aaf9489729bd00c5e25a7b17142f0fbbe3c3090664efeddd8f3ba7d8bf97"
+ },
+ "sks-tns": {
+  "title": "To nye Sandhedsvidner (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "41d0ce2efedbd4936533c9c274593fdd2f4dcf8271a3a4ec146697e65fbc536e",
+  "units": 8,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-tns:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 2,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/tns",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "6f3e60e2aa0388386598fcfb1d50d8b1bb644d45880f4f9ae7f450fde88f2276"
+ },
+ "sks-ydr": {
+  "title": "Foranlediget ved en Yttring af Dr. Rudelbach mig betræffende (Danish, SKS 14)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "a048f650280e56edee5e14cfbcf2f77c3ccdfefdb979fb34a7c927aeb705d60f",
+  "units": 23,
+  "scheme": {
+   "citation": "SKS 14, page (paragraph): sks-ydr:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 3,
+    "misprints_emended": 2,
+    "deletions_dropped": 0,
+    "notes": 3,
+    "notes_in_file": 3
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ydr",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "e8dbafb9230698a7739b0fb1e093a677c8cccc9984f7877007b0086e94bd7a77"
+ },
+ "sks-boa": {
+  "title": "Bogen om Adler (Danish, SKS 15)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "17e453480da233394c342caa0d1e972c0933edb832ed3eb916e437d016b29188",
+  "units": 253,
+  "scheme": {
+   "citation": "SKS 15, page (paragraph): sks-boa:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 1107,
+    "misprints_emended": 4,
+    "deletions_dropped": 6,
+    "notes": 62,
+    "notes_in_file": 62
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/boa",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "61969ad9db2829c977d47d0aa88a91ebf9c1a046aecf028ba9b838b7eef61321"
+ },
+ "sks-jc": {
+  "title": "Johannes Climacus eller De Omnibus dubitandum est (Danish, SKS 15)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "093d166e2688af42bf9af64d419616c035af64c85ef10eaea3d1fa3e107325e7",
+  "units": 94,
+  "scheme": {
+   "citation": "SKS 15, page (paragraph): sks-jc:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 213,
+    "misprints_emended": 0,
+    "deletions_dropped": 3,
+    "notes": 3,
+    "notes_in_file": 3
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/jc",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "af4afe9e1c9669b3d3e107d04df1f4a8c87f205bc485001546f596c48c17b2f7"
+ },
+ "sks-oia": {
+  "title": "Et Øieblik, Hr. Andersen! (Danish, SKS 15)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "614de8d58b55f1895f0e0936c991edf1d5084549ecffce8f1971cb8a276200df",
+  "units": 9,
+  "scheme": {
+   "citation": "SKS 15, page (paragraph): sks-oia:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 2,
+    "misprints_emended": 0,
+    "deletions_dropped": 0,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/oia",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "776cfb12538b20062aac01fd799a963574681b68b6ea4ce4b8aeb804b5cf57a2"
+ },
+ "sks-pmh": {
+  "title": "Polemik mod Heiberg (Danish, SKS 15)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "c7a88e4fed99512941c43be077e9fa657eaa1f5677f017bbc49e0670d6e5929e",
+  "units": 30,
+  "scheme": {
+   "citation": "SKS 15, page (paragraph): sks-pmh:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 137,
+    "misprints_emended": 1,
+    "deletions_dropped": 0,
+    "notes": 17,
+    "notes_in_file": 17
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/pmh",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "7b8e8c053c91312a57b9b68f38119590d99bae9118c5b92fd2945a850598bd6a"
+ },
+ "sks-bn": {
+  "title": "Den bevæbnede Neutralitet (Danish, SKS 16)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "b896fcb60a96c0a4af4c6eb5c2e66a7197f29ff079668cd1cf1031427ed4bc00",
+  "units": 33,
+  "scheme": {
+   "citation": "SKS 16, page (paragraph): sks-bn:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 56,
+    "misprints_emended": 0,
+    "deletions_dropped": 1,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/bn",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "c695a65ebecda7e3dedabb0f69fb60981c8846b28569f2d9f303d1152f207c78"
+ },
+ "sks-ds": {
+  "title": "Dømmer selv! Til Selvprøvelse Samtiden anbefalet (Danish, SKS 16)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "4460867e2a58822f596a236aa52975a6e7d515b183c7b7f627fde09309e2cdc4",
+  "units": 214,
+  "scheme": {
+   "citation": "SKS 16, page (paragraph): sks-ds:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 551,
+    "misprints_emended": 0,
+    "deletions_dropped": 8,
+    "notes": 1,
+    "notes_in_file": 1
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/ds",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "86ab1341e0793efc8f24ee74dd2f070d22744fb863ce0a1eef008b798642bdad"
+ },
+ "sks-pcs": {
+  "title": "Hr. Phister som Captain Scipio (Danish, SKS 16)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "60eef62b44a242203f93e387f5f12ca32fbaf457590438ac7f231ba4b075b7a9",
+  "units": 37,
+  "scheme": {
+   "citation": "SKS 16, page (paragraph): sks-pcs:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 179,
+    "misprints_emended": 0,
+    "deletions_dropped": 1,
+    "notes": 0,
+    "notes_in_file": 0
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/pcs",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "1ecd54a14a7e0e4fbaad549d0d9bebac8ae2857d9d7028e630835c9741c79b7f"
+ },
+ "sks-sfv": {
+  "title": "Synspunktet for min Forfatter-Virksomhed (Danish, SKS 16)",
+  "author": "Søren Kierkegaard",
+  "format": "tei-sks",
+  "sha256": "2c09467694ee36b2029d05609514779ba895d33a7a83fffcbac2bda92eff89c8",
+  "units": 214,
+  "scheme": {
+   "citation": "SKS 16, page (paragraph): sks-sfv:<SKS page>.<nth paragraph beginning on it>",
+   "resolution": "paragraph",
+   "honesty": "exact to the SKS page each paragraph begins on (the TEI's own page breaks); the paragraph number within the page is counted here, not printed in SKS. SKS line numbers are not in the TEI, so a line citation (SKS 9, 23,12) resolves only to its paragraph.",
+   "note": "Kierkegaard's footnotes ride in `notes`, never in `text`. Variant readings, the editors' expansions and the first edition's misprints are left out of `text` (counted in `stats`). `pages.sv1` is the first edition's page where the TEI marks it (the Hongs' margins).",
+   "stats": {
+    "variants_dropped": 22,
+    "misprints_emended": 57,
+    "deletions_dropped": 0,
+    "notes": 33,
+    "notes_in_file": 33
+   }
+  },
+  "rights": {
+   "license": "CC0 1.0 (the Royal Danish Library's TEI of Søren Kierkegaards Skrifter); Kierkegaard's text (d. 1855) is public domain",
+   "attribution": "Søren Kierkegaards Skrifter, ed. N. J. Cappelørn, J. Garff, J. Kondrup et al., Søren Kierkegaard Forskningscenteret 1997-2013; TEI by Karsten Kynde, Det Kgl. Bibliotek (kb-dk/SKS_tei)",
+   "source_url": "https://github.com/kb-dk/SKS_tei/tree/27a6b110c24e97b381e010595b50f3ca3d4ca8c9/data/v1.9/sfv",
+   "redistribute_whole": true,
+   "note": "The repository's LICENSE is CC0 1.0 and the Royal Library's text portal (tekster.kb.dk) labels every SKS text 'dedikeret til public domain' with a CC0 link, asking only that the editors be credited. Each file's own teiHeader still reads availability status='restricted', 'copyright' (written 2004, before the CC0 release): recorded here so it is not a surprise. Only the main text is built; the editors' commentary is not taken."
+  },
+  "built_sha256": "c2c2d194356d6d3c4f25059c3d222678623e03bf0ad015e4d8bf8a9b255102a3"
  }
 }

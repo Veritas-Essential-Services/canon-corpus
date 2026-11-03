@@ -1,0 +1,621 @@
+{
+ "_about": "Søren Kierkegaards Skrifter (SKS) vols 1-16, main texts: the Royal Danish Library's TEI, CC0 1.0. Pinned to a commit and to each file's sha256; pipeline/build_sks.py refuses a file that differs.",
+ "repo": "kb-dk/SKS_tei",
+ "commit": "27a6b110c24e97b381e010595b50f3ca3d4ca8c9",
+ "license": "CC0-1.0 (repository LICENSE)",
+ "works": [
+  "bi",
+  "lp",
+  "ee1",
+  "ee2",
+  "ba",
+  "f",
+  "fb",
+  "g",
+  "ps",
+  "2t43",
+  "2t44",
+  "3t43",
+  "3t44",
+  "4t43",
+  "4t44",
+  "ttl",
+  "slv",
+  "ae",
+  "la",
+  "ota",
+  "kg",
+  "ct",
+  "lf",
+  "sd",
+  "tsa",
+  "yts",
+  "eot",
+  "ic",
+  "taf",
+  "dss",
+  "fv",
+  "gu",
+  "hcd",
+  "oi1",
+  "oi10",
+  "oi2",
+  "oi3",
+  "oi4",
+  "oi5",
+  "oi6",
+  "oi7",
+  "oi8",
+  "oi9",
+  "ts",
+  "aas",
+  "aev",
+  "af",
+  "atv",
+  "bmd",
+  "bms",
+  "bmt",
+  "cgn",
+  "ck",
+  "dbd",
+  "dj",
+  "drt",
+  "eel",
+  "elf",
+  "em",
+  "er",
+  "et",
+  "fee",
+  "fp",
+  "fqa",
+  "hg",
+  "hgs",
+  "hjv",
+  "kks",
+  "km",
+  "oic",
+  "ol",
+  "pf",
+  "ph",
+  "ppm",
+  "rk",
+  "sa",
+  "sbm",
+  "tns",
+  "ydr",
+  "boa",
+  "jc",
+  "oia",
+  "pmh",
+  "bn",
+  "ds",
+  "pcs",
+  "sfv"
+ ],
+ "titles": {
+  "bi": {
+   "volume": 1,
+   "title": "Om Begrebet Ironi",
+   "abbrev": "BI"
+  },
+  "lp": {
+   "volume": 1,
+   "title": "Af en endnu Levendes Papirer",
+   "abbrev": "LP"
+  },
+  "ee1": {
+   "volume": 2,
+   "title": "Enten – Eller. Første del",
+   "abbrev": "EE1"
+  },
+  "ee2": {
+   "volume": 3,
+   "title": "Enten – Eller. Anden del",
+   "abbrev": "EE2"
+  },
+  "ba": {
+   "volume": 4,
+   "title": "Begrebet Angest",
+   "abbrev": "BA"
+  },
+  "f": {
+   "volume": 4,
+   "title": "Forord",
+   "abbrev": "F"
+  },
+  "fb": {
+   "volume": 4,
+   "title": "Frygt og Bæven",
+   "abbrev": "FB"
+  },
+  "g": {
+   "volume": 4,
+   "title": "Gjentagelsen",
+   "abbrev": "G"
+  },
+  "ps": {
+   "volume": 4,
+   "title": "Philosophiske Smuler",
+   "abbrev": "PS"
+  },
+  "2t43": {
+   "volume": 5,
+   "title": "To opbyggelige Taler, 1843",
+   "abbrev": "2T43"
+  },
+  "2t44": {
+   "volume": 5,
+   "title": "To opbyggelige Taler, 1844",
+   "abbrev": "2T44"
+  },
+  "3t43": {
+   "volume": 5,
+   "title": "Tre opbyggelige Taler, 1843",
+   "abbrev": "3T43"
+  },
+  "3t44": {
+   "volume": 5,
+   "title": "Tre opbyggelige Taler, 1844",
+   "abbrev": "3T44"
+  },
+  "4t43": {
+   "volume": 5,
+   "title": "Fire opbyggelige Taler, 1843",
+   "abbrev": "4T43"
+  },
+  "4t44": {
+   "volume": 5,
+   "title": "Fire opbyggelige Taler, 1844",
+   "abbrev": "4T44"
+  },
+  "ttl": {
+   "volume": 5,
+   "title": "Tre Taler ved tænkte Leiligheder",
+   "abbrev": "TTL"
+  },
+  "slv": {
+   "volume": 6,
+   "title": "Stadier paa Livets Vei",
+   "abbrev": "SLV"
+  },
+  "ae": {
+   "volume": 7,
+   "title": "Afsluttende uvidenskabelig Efterskrift",
+   "abbrev": "AE"
+  },
+  "la": {
+   "volume": 8,
+   "title": "En literair Anmeldelse",
+   "abbrev": "LA"
+  },
+  "ota": {
+   "volume": 8,
+   "title": "Opbyggelige Taler i forskjellig Aand",
+   "abbrev": "OTA"
+  },
+  "kg": {
+   "volume": 9,
+   "title": "Kjerlighedens Gjerninger",
+   "abbrev": "KG"
+  },
+  "ct": {
+   "volume": 10,
+   "title": "Christelige Taler",
+   "abbrev": "CT"
+  },
+  "lf": {
+   "volume": 11,
+   "title": "Lilien paa Marken og Fuglen under Himlen",
+   "abbrev": "LF"
+  },
+  "sd": {
+   "volume": 11,
+   "title": "Sygdommen til Døden",
+   "abbrev": "SD"
+  },
+  "tsa": {
+   "volume": 11,
+   "title": "Tvende ethisk-religieuse Smaa-Afhandlinger",
+   "abbrev": "TSA"
+  },
+  "yts": {
+   "volume": 11,
+   "title": "»Ypperstepræsten« – »Tolderen« – »Synderinden«",
+   "abbrev": "YTS"
+  },
+  "eot": {
+   "volume": 12,
+   "title": "En opbyggelig Tale",
+   "abbrev": "EOT"
+  },
+  "ic": {
+   "volume": 12,
+   "title": "Indøvelse i Christendom",
+   "abbrev": "IC"
+  },
+  "taf": {
+   "volume": 12,
+   "title": "To Taler ved Altergangen om Fredagen",
+   "abbrev": "TAF"
+  },
+  "dss": {
+   "volume": 13,
+   "title": "Dette skal siges; saa være det da sagt",
+   "abbrev": "DSS"
+  },
+  "fv": {
+   "volume": 13,
+   "title": "Om min Forfatter-Virksomhed",
+   "abbrev": "FV"
+  },
+  "gu": {
+   "volume": 13,
+   "title": "Guds Uforanderlighed",
+   "abbrev": "GU"
+  },
+  "hcd": {
+   "volume": 13,
+   "title": "Hvad Christus dømmer om officiel Christendom",
+   "abbrev": "HCD"
+  },
+  "oi1": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 1",
+   "abbrev": "Oi1"
+  },
+  "oi10": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 10",
+   "abbrev": "Oi10"
+  },
+  "oi2": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 2",
+   "abbrev": "Oi2"
+  },
+  "oi3": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 3",
+   "abbrev": "Oi3"
+  },
+  "oi4": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 4",
+   "abbrev": "Oi4"
+  },
+  "oi5": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 5",
+   "abbrev": "Oi5"
+  },
+  "oi6": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 6",
+   "abbrev": "Oi6"
+  },
+  "oi7": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 7",
+   "abbrev": "Oi7"
+  },
+  "oi8": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 8",
+   "abbrev": "Oi8"
+  },
+  "oi9": {
+   "volume": 13,
+   "title": "Øieblikket Nr. 9",
+   "abbrev": "Oi9"
+  },
+  "ts": {
+   "volume": 13,
+   "title": "Til Selvprøvelse Samtiden anbefalet",
+   "abbrev": "TS"
+  },
+  "aas": {
+   "volume": 14,
+   "title": "Aabenbart Skriftemaal",
+   "abbrev": "AaS"
+  },
+  "aev": {
+   "volume": 14,
+   "title": "En omreisende Æsthetikers Virksomhed, og hvorledes han dog kom til at betale Gjæstebudet.",
+   "abbrev": "AeV"
+  },
+  "af": {
+   "volume": 14,
+   "title": "I Anledning af et anonymt Forslag til mig i dette Blads Nr. 79",
+   "abbrev": "AF"
+  },
+  "atv": {
+   "volume": 14,
+   "title": "Angaaende en taabelig Vigtighed lige over for mig og den Opfattelse af Christendom, som jeg gjør kjendelig",
+   "abbrev": "ATV"
+  },
+  "bmd": {
+   "volume": 14,
+   "title": "Ved Biskop Mynsters Død",
+   "abbrev": "BMD"
+  },
+  "bms": {
+   "volume": 14,
+   "title": "Var Biskop Mynster et »Sandhedsvidne«, et af »de rette Sandhedsvidner« – er dette Sandhed?",
+   "abbrev": "BMS"
+  },
+  "bmt": {
+   "volume": 14,
+   "title": "At Biskop Martensens Taushed er 1) christeligt uforsvarlig; 2) latterlig; 3) dum-klog; 4) i mere end een Henseende foragtelig",
+   "abbrev": "BMT"
+  },
+  "cgn": {
+   "volume": 14,
+   "title": "Er dette christelig Gudsdyrkelse eller er det at holde Gud for Nar?",
+   "abbrev": "CGN"
+  },
+  "ck": {
+   "volume": 14,
+   "title": "Christendom med kongelig Bestalling og Christendom uden kongelig Bestalling",
+   "abbrev": "CK"
+  },
+  "dbd": {
+   "volume": 14,
+   "title": "Derved bliver det!",
+   "abbrev": "DBD"
+  },
+  "dj": {
+   "volume": 14,
+   "title": "En flygtig Bemærkning betræffende en Enkelthed i Don Juan I-II",
+   "abbrev": "DJ"
+  },
+  "drt": {
+   "volume": 14,
+   "title": "Den religieuse Tilstand",
+   "abbrev": "DRT"
+  },
+  "eel": {
+   "volume": 14,
+   "title": "En Erklæring og Lidt til",
+   "abbrev": "EEL"
+  },
+  "elf": {
+   "volume": 14,
+   "title": "En lille Forklaring",
+   "abbrev": "ELF"
+  },
+  "em": {
+   "volume": 14,
+   "title": "En Monolog",
+   "abbrev": "EM"
+  },
+  "er": {
+   "volume": 14,
+   "title": "Et Resultat",
+   "abbrev": "ER"
+  },
+  "et": {
+   "volume": 14,
+   "title": "En Thesis – kun een eneste",
+   "abbrev": "ET"
+  },
+  "fee": {
+   "volume": 14,
+   "title": "Hvo er Forfatteren af Enten–eller",
+   "abbrev": "FEE"
+  },
+  "fp": {
+   "volume": 14,
+   "title": "Om Fædrelandets Polemik I-II",
+   "abbrev": "FP"
+  },
+  "fqa": {
+   "volume": 14,
+   "title": "Ogsaa et Forsvar for Qvindens høie Anlæg",
+   "abbrev": "FQA"
+  },
+  "hg": {
+   "volume": 14,
+   "title": "Hvad der skal gjøres. – det skee nu ved mig eller ved en Anden.",
+   "abbrev": "HG"
+  },
+  "hgs": {
+   "volume": 14,
+   "title": "Hvilken grusom Straf!",
+   "abbrev": "HGS"
+  },
+  "hjv": {
+   "volume": 14,
+   "title": "Hvad jeg vil?",
+   "abbrev": "HJV"
+  },
+  "kks": {
+   "volume": 14,
+   "title": "Krisen og en Krise i en Skuespillerindes Liv I-IV",
+   "abbrev": "KKS"
+  },
+  "km": {
+   "volume": 14,
+   "title": "Kjøbenhavnspostens Morgenbetragtninger i Nr. 43",
+   "abbrev": "KM"
+  },
+  "oic": {
+   "volume": 14,
+   "title": "Til det nye Oplag af »Indøvelse i Christendom.«",
+   "abbrev": "OIC"
+  },
+  "ol": {
+   "volume": 14,
+   "title": "Til Hr. Orla Lehmann",
+   "abbrev": "OL"
+  },
+  "pf": {
+   "volume": 14,
+   "title": "Det dialektiske Resultat af en literair Politi-Forretning",
+   "abbrev": "PF"
+  },
+  "ph": {
+   "volume": 14,
+   "title": "Taksigelse til Hr. Professor Heiberg",
+   "abbrev": "PH"
+  },
+  "ppm": {
+   "volume": 14,
+   "title": "En Opfordring til mig fra Pastor Paludan-Müller",
+   "abbrev": "PPM"
+  },
+  "rk": {
+   "volume": 14,
+   "title": "Var det rigtigst nu at »standse med Klemtningen«?",
+   "abbrev": "RK"
+  },
+  "sa": {
+   "volume": 14,
+   "title": "»Salt«; thi »Christenhed« er: Christendoms Forraadnelse; »en christen Verden« er: Affaldet fra Christendommen.",
+   "abbrev": "Sa"
+  },
+  "sbm": {
+   "volume": 14,
+   "title": "Stridspunktet med Biskop Martensen; som, christeligt, afgjørende for det i Forveien, christeligt seet, mislige kirkelige Bestaaende",
+   "abbrev": "SBM"
+  },
+  "tns": {
+   "volume": 14,
+   "title": "To nye Sandhedsvidner",
+   "abbrev": "TNS"
+  },
+  "ydr": {
+   "volume": 14,
+   "title": "Foranlediget ved en Yttring af Dr. Rudelbach mig betræffende",
+   "abbrev": "YDR"
+  },
+  "boa": {
+   "volume": 15,
+   "title": "Bogen om Adler",
+   "abbrev": "BOA"
+  },
+  "jc": {
+   "volume": 15,
+   "title": "Johannes Climacus eller De Omnibus dubitandum est",
+   "abbrev": "JC"
+  },
+  "oia": {
+   "volume": 15,
+   "title": "Et Øieblik, Hr. Andersen!",
+   "abbrev": "OiA"
+  },
+  "pmh": {
+   "volume": 15,
+   "title": "Polemik mod Heiberg",
+   "abbrev": "PMH"
+  },
+  "bn": {
+   "volume": 16,
+   "title": "Den bevæbnede Neutralitet",
+   "abbrev": "BN"
+  },
+  "ds": {
+   "volume": 16,
+   "title": "Dømmer selv! Til Selvprøvelse Samtiden anbefalet",
+   "abbrev": "DS"
+  },
+  "pcs": {
+   "volume": 16,
+   "title": "Hr. Phister som Captain Scipio",
+   "abbrev": "PCS"
+  },
+  "sfv": {
+   "volume": 16,
+   "title": "Synspunktet for min Forfatter-Virksomhed",
+   "abbrev": "SFV"
+  }
+ },
+ "sha256": {
+  "bi": "a6e0268e1cf542038199a29654cf3c5aebdb28e795506ff4ea17c149bc44f657",
+  "lp": "3a6ca44876c5f9bd7a083984f4b17d9c7e9a32fc225883f37951b70df4b87a66",
+  "ee1": "25dbdb44e873f518010f52a9c4edf2f9d5d351631eb2f5a6aaf8f6f5627dbfda",
+  "ee2": "f5cf4511deb0070c2146fb2d3fd204998cbc1e456cf588a808d336617377e6e2",
+  "ba": "9d78fe430f5fc11bd18d40e668dd6b5de6ae2a5aa95baf4344ab5525535acd06",
+  "f": "796d6950e351ddeda243f515451a9783474efd892a6063f5d6127c607fc42022",
+  "fb": "00f20f788c3b4b11b8016b72f52a55d4b79c0e0eae6d1d96a5dc682f802f1401",
+  "g": "002bd8766c379f47b386cb83838046f29bc34d163e03d936609ab89ab46e8717",
+  "ps": "e6ebaf59bc6ba414b7cd09d05ce845750e73de9af18a051968bab6e15d084ce1",
+  "2t43": "fe4dc6c8c9f3939cda7de2dc9fb777a1d636bb8c37194c25a2dce0ad22883b42",
+  "2t44": "2986dbc65f34320ec0b62073eea250d677060553e71decae291c75be8de5b05a",
+  "3t43": "8a5b9b9a48de6409c4b9dd9615f2a0f8f18694437ae680b4388948fc7850b72f",
+  "3t44": "897611f71a60ebb643dc647eea9e9421e23dff6e3b7e53670a97a1b72e462169",
+  "4t43": "4bb56b413d9224e1dac3e0acafa55dac07e0a16a195d7ee2eda60abed4ee51e6",
+  "4t44": "14b12a0f738feca78cad8bcb29d4237ad52f603e282f7a1d6834a1768837128e",
+  "ttl": "fc478a4f0e6884db5cffb640649856e663d9839277df64e2caf3ebae14ae0993",
+  "slv": "ff2b3fea4eedb3edb3aad9aca6e51fe73d344ca448840d80d050c42a638c5e2f",
+  "ae": "0daa1502781920c25648cfa5b76bc0d801f9bf2b016b3d8010549eaba70ed7a1",
+  "la": "69b07285e677020f5cd23329842108cd423bafe8cffe8e940e62e9a8ea04e812",
+  "ota": "d4ea33d628943f2d3d2878f8d0a85f831f2d3fe02ddd831c20941d4c49a786ea",
+  "kg": "f11a0364aad38eed5bb8f11722d398abbd47db24dcabdc16c9eac6bcc0cc8e69",
+  "ct": "f02d40e207a1255c8ef1416a687f363fe6b415b4d8eff307e0aeb952a10a76d2",
+  "lf": "28a7813a3858a885a9abbbe9661ec090c3335e080d46cd61099582fc40cd941f",
+  "sd": "a84eee7032e847b0fbbea045c0b0044598c67c980be10bd207570d6d96232098",
+  "tsa": "5317526b381cef83aba8229ff35fc802063b786731fa5517fa4a998f6aaa383b",
+  "yts": "f070867e646e18691fe946fc23bd87d9a3fb5a7ababde7a96802658132b2537c",
+  "eot": "af5f2cb29c734e0c21d3f28728ce2abeceae9f1bd349e304dd2b4b4a3fffe02f",
+  "ic": "d5fe10880e83c93235a819db2dd4ba4fc7dfbdecbd6bfde837da699a7ef9a891",
+  "taf": "00384793d619e1a965b1604968bc6731129a584ad6e4f07384198d3a3bdf5473",
+  "dss": "21b80835f53c46cd629d13da4c0fda2186e1311fd4548b39779c4de59e3a00b2",
+  "fv": "642f332d666915ca24586c44a1eb22b7c52d0319fc952f679801037fa706863a",
+  "gu": "8c5b6324ccc4fc28b8d2e4a4ddca627c60e931287af87cb0f5ea25462c40e645",
+  "hcd": "f18a2363ee7e54ec4b4be042f54e047503809bd45153ac142c52b7b635520325",
+  "oi1": "cb7a09a5c104439ce028a8c76296d490db1f4ad559116baf108a15b9e7e320ef",
+  "oi10": "b2137e26333e1ddc99335126d8e238e858b2e5059ca536e85a45c08b8159eb87",
+  "oi2": "836e2ebe92de27ae40c92d675d19a15edf657330a089338a348f01eaa1c34c22",
+  "oi3": "b08e5ba1852b80fec38e6528970fd5dbc8fa43620e858120949d3934daafae2d",
+  "oi4": "aac759cb63c001a967305ccde397c3848972841f2aaeb0f3ff34fd0931fe3612",
+  "oi5": "f6397204ae2243be57f130e891e8db136988c9b4f3f0279fb0d0990ed568ed81",
+  "oi6": "90f35bb471daf4b4957801796207f92bd0c62b9a49f9fd3cfae5c09023ccc836",
+  "oi7": "ead952dd8987b0a7c5636552cc1e09d7d7f48a7090616cbaab6bc06c9752c2ed",
+  "oi8": "cf371c6c5ab0dabd4c91813b83944a6dfa439245ab4f6150660f5fc620428062",
+  "oi9": "88d2b0314adc6c101a78b15e005d49cad96452c5ffe0a7b872cf09179599f1d3",
+  "ts": "6d198ba8c593ac1796ea5eea90da85ce649a9b3817319030177bffb9a40d6954",
+  "aas": "e7583a018889a2f0e134194404d1ab2be02a06cbd88b9e34f0466f1b8603620f",
+  "aev": "1529318dd3feb7a12625071873bb6f8570b5276124bbf800d1b94aed9c53427d",
+  "af": "c3effcfafc368f405e4def221da29d0921099a6bfb89382ac82b88f6e8dce12a",
+  "atv": "69f92ba7d50ff1fb95c4eafada30c76dfc8ef1437834f15fafe1e33d962a5c21",
+  "bmd": "c707325d8a492348fd1a90184f61dd422e142e2991b8220a2b1d560a93c26ed5",
+  "bms": "5f22175bfb73aa74ddb83710323fae8031a533d75deaa3f57510a85cceef66cf",
+  "bmt": "42d56dcb491e698801e1eb70322475157c83730c8e955aed33d57adf8643d8e2",
+  "cgn": "2e20ad7eb712e973aeba5c8c097400fdef973ac5bd4c4f9562b68a41ca23ba96",
+  "ck": "b2cea85d59b5f8c6c612a3663164c6c5041652c33b12e69095f5cc692586163a",
+  "dbd": "1cc0a52c549ea79cc6c53baea97e0175d3f41a5d263695591ef595c04f094791",
+  "dj": "d493f6c95bbac66aa4d6b29751a016dc3ce7b1e4d6419468a4a0f082210cf31f",
+  "drt": "06dba2c61a39ab30c020b4e1ae8d4dfc8e6eab354a981a3a3757cd260e00419a",
+  "eel": "fe52ef7e686f3229ea252334705504e569f6111cb598fb3cb44555b9ddb857e8",
+  "elf": "7457351631dd227c81778d3474db4d0f788833fe92611f161172bfca101b3ab0",
+  "em": "f1cd457af983f3dcb7f7a19c4ef7e06bf59ff9e3454c80b0ac9b47541ef71001",
+  "er": "402f11c14355fbfbcf79a13458fa58a9b72e7125d0aa2960d8a5e3b4f0832eb2",
+  "et": "5f4440307aa6af38de42fe357b58d80bea714597bf4e290d0796752c3df83e6c",
+  "fee": "392de5eb06c41f0b32966e987086f39e3ab1e98529a59148ec856c5b35dbfe1f",
+  "fp": "5ea309e72d91d4f9169cfcc24eaed73819f945e630de00c0f3066b571811b68a",
+  "fqa": "d8b2ea155615c6fbfcbe0966e7b241228319481d63f294f35bf434f3d0780816",
+  "hg": "b010e3af31d6f7047b999632c6fdfb615427a3ecb8cd568f53cf128d7889fe98",
+  "hgs": "eac75a83327b9cafc0f7c63c3564dedd7a69a7e5ae27c5b327b807787fbe144a",
+  "hjv": "34f593896b510e4f48d165a51b75651329dc5be4afb9fbf670d3e303eab7601e",
+  "kks": "ef6a1879a7a6f62d328794c3d04095c1551ef3bf4fb59f353c47e0496c3c3663",
+  "km": "afaaf0b8616b3e51d49490d1d768994bafb96512ffd2582de50ae13e8abf3fe8",
+  "oic": "2ee5b0637c4c2ef46278c3dd6b5b378b98eac8d12d5db8e95ff4d47961822c30",
+  "ol": "514c1a117682422894afcf7fe79ae0932b0f108ccd2dd95a970f91624ad79191",
+  "pf": "0494fe29ec91786e832c2a48975f18afed256b0b97637efb8e082475e8f44750",
+  "ph": "ff41ae226ab6f71039549c7cc2d2c29d086d0fbf962fb518c3bcd36b79913e4e",
+  "ppm": "62fdfa91597b69b9f1a3bde6a54e625c3c5491ca6137b9c1df23759aeeda367b",
+  "rk": "92fdde3f47444c91f97795c17e87975f31393f77a42eef4d9597b2749129945d",
+  "sa": "dfe75401d12ee4cf3babcf01903a168c0a7690067cb657e2622cdc06abbcff17",
+  "sbm": "e609859c36e627807abaa05e9738761942cd14ea7d9de9809fceb3fef3be82cd",
+  "tns": "41d0ce2efedbd4936533c9c274593fdd2f4dcf8271a3a4ec146697e65fbc536e",
+  "ydr": "a048f650280e56edee5e14cfbcf2f77c3ccdfefdb979fb34a7c927aeb705d60f",
+  "boa": "17e453480da233394c342caa0d1e972c0933edb832ed3eb916e437d016b29188",
+  "jc": "093d166e2688af42bf9af64d419616c035af64c85ef10eaea3d1fa3e107325e7",
+  "oia": "614de8d58b55f1895f0e0936c991edf1d5084549ecffce8f1971cb8a276200df",
+  "pmh": "c7a88e4fed99512941c43be077e9fa657eaa1f5677f017bbc49e0670d6e5929e",
+  "bn": "b896fcb60a96c0a4af4c6eb5c2e66a7197f29ff079668cd1cf1031427ed4bc00",
+  "ds": "4460867e2a58822f596a236aa52975a6e7d515b183c7b7f627fde09309e2cdc4",
+  "pcs": "60eef62b44a242203f93e387f5f12ca32fbaf457590438ac7f231ba4b075b7a9",
+  "sfv": "2c09467694ee36b2029d05609514779ba895d33a7a83fffcbac2bda92eff89c8"
+ }
+}
