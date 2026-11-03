@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Ernest Dowson (1867-1900): Laclos's Les liaisons dangereuses (1898, 2 vols) Balzac's A Passion in the Desert, and Villeneuve's Beauty and the Beast (1908). US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Ernest Dowson (1867-1900): Laclos's Les liaisons dangereuses (1898, 2 vols) Balzac's A Passion in the Desert, and Villeneuve's Beauty and the Beast (1908). US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted. Bloom addition 2026-11-03 (Bloom's Western Canon): dowson-poems-prose.",
  "_name_words": [
   "ernest dowson",
   "dowson"
@@ -22,6 +22,10 @@
   "dow-69913": [
    69913,
    "Les liaisons dangereuses, volume 2 (of 2)"
+  ],
+  "dowson-poems-prose": [
+   8497,
+   "The Poems and Prose of Ernest Dowson, With a Memoir by Arthur Symons"
   ]
  },
  "internet_archive": {
@@ -70,7 +74,7 @@
  "_checks": {
   "dow-1555": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ernest dowson",
    "identity": "ok",
@@ -79,7 +83,7 @@
   },
   "dow-69891": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ernest dowson",
    "identity": "ok",
@@ -88,16 +92,25 @@
   },
   "dow-69913": {
    "kind": "gutenberg",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ernest dowson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ernest Christopher Dowson"
   },
+  "dowson-poems-prose": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ernest dowson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "dowson-ia-beauty-beast": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "ernest dowson",
    "title_weak": true,
@@ -131,5 +144,17 @@
    "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_bloom": {
+  "dowson-poems-prose": {
+   "bloom_n": [
+    527
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "unread",
+   "evidence": "PG header read: no copyright notice; contains all verse collections (Verses, Decorations, The Pierrot of the Minute) plus prose",
+   "case": "Bloom lists Dowson's Complete Poems; PG 8497 is the standard Symons collected Poems and Prose.",
+   "note": "Our 'dowson' shelf holds only his translations. PG header gives no source imprint year; Symons memoir dates from 1905 Lane edition (not read)."
+  }
+ }
 }
