@@ -2170,5 +2170,47 @@
    "resolution": "paragraph",
    "honesty": "Riley's literal prose; his braces marking words supplied in English are removed (the words kept), his footnotes and his EXPLANATION commentary are not ingested"
   }
+ },
+ "easton": {
+  "title": "Easton's Bible Dictionary",
+  "author": "M. G. Easton (Illustrated Bible Dictionary, 3rd ed., 1897)",
+  "format": "dictionary-thml",
+  "sha256": "10e3f432e38ee8197c30a613576dc363af3f29fa4aa90ebd0782533df906e5f1",
+  "units": 3964,
+  "scheme": {
+   "citation": "headword as a slug (easton:aaron); ~2 for a repeated headword",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "3,964 entries as CCEL's ThML delimits them (<term>/<def>). 23,643 scripture references, each tagged by CCEL with its OSIS reference: 23,615 name a verse (or chapter) the KJV has and link to its kjv: unit; 28 are kept unresolved with why {'book not in the KJV build (Apocrypha)': 5, 'no such chapter in the KJV': 8, 'no such verse in the KJV': 15}. A whole-chapter reference links the chapter's first verse with `end` its last; a range keeps `end`. 23,026 links after merging repeats within an entry, in 3,867 entries. Cross-references: 651 resolved to an entry ({'exact': 615, 'number': 16, 'prefix': 20}: 'number' is singular for plural or back, 'prefix' the one entry whose name begins with it; link.match says so), 36 name none and are kept unresolved. Italics are not carried. Easton's printed pages are not in this text, so no page is claimed.",
+   "stats": {
+    "entries": 3964,
+    "scripture_refs": 23643,
+    "scripture_resolved": 23615,
+    "scripture_unresolved": 28,
+    "unresolved_why": {
+     "book not in the KJV build (Apocrypha)": 5,
+     "no such chapter in the KJV": 8,
+     "no such verse in the KJV": 15
+    },
+    "scripture_links": 23026,
+    "units_with_scripture": 3867,
+    "see_resolved": 651,
+    "see_how": {
+     "exact": 615,
+     "number": 16,
+     "prefix": 20
+    },
+    "see_unresolved": 36,
+    "empty": 0
+   }
+  },
+  "rights": {
+   "license": "public-domain",
+   "rights_line": "Public Domain",
+   "attribution": "Easton's Bible Dictionary, electronic edition by the Christian Classics Ethereal Library (ccel.org/ccel/easton/ebd2), version 2.0, from the Online Bible's text.",
+   "source_url": "https://ccel.org/ccel/easton/ebd2",
+   "redistribute_whole": true,
+   "note": "The file's own DC.Rights reads 'Public Domain'; its header comment reads 'Copyright Christian Classics Ethereal Library'. Read 2026-11-03 from a byte copy at github.com/neuu-org/bible-dictionary-dataset (CCEL itself was not reachable from the session), so CCEL's per-work page was not read: Adam to confirm CCEL lists no non-commercial request for ebd2 (CLAUDE.md rule 6)."
+  }
  }
 }

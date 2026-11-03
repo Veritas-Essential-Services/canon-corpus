@@ -4,6 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius + Rainolde manifest entries)
+# prov: 2026-11-03 claude-opus-5-5 edited (Easton's; LEXICON_SHA256 pins)
 # fable_review: pending
 """fetch_sources.py — manifest-driven fetcher for the structured shelves.
 
@@ -479,7 +480,40 @@ LEXICONS = {
         "brewer-character-sketches-4.txt",
         "Brewer, Character Sketches, vol. IV (Skeggs-Z, three appendices), "
         "PG 58988. Headwords in =bold=."),
+    # ---- Bible dictionaries for the hub pages (2026-11-03, vision map item 37) ----
+    # CCEL's ThML is the house's first choice (scripture refs come pre-tagged),
+    # but ccel.org was not reachable from the session that added these. The
+    # CCEL files are CCEL's own ThML, byte copies kept in GitHub dataset repos
+    # (CC BY 4.0 over its own parsing; the XML in 00_raw/ is CCEL's file as
+    # published, header and all), PINNED to a commit and by sha256 below, so the
+    # hosted rebuild fetches exactly these bytes. Rights read from each file.
+    "easton": (
+        "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/"
+        "b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/easton_ebd2.xml",
+        "easton-ebd.xml",
+        "Easton's Bible Dictionary (M. G. Easton, Illustrated Bible Dictionary, 3rd ed., "
+        "1897; PD). CCEL ThML ebd2 v2.0 (from the Online Bible), DC.Rights 'Public "
+        "Domain'. 3,964 entries."),
 }
+
+# sha256 of a lexicon file as fetched. A fetched file that differs is refused
+# (renamed *.refused) rather than built. Pinned for the files added 2026-11-03.
+LEXICON_SHA256 = {
+    "easton": "10e3f432e38ee8197c30a613576dc363af3f29fa4aa90ebd0782533df906e5f1",
+}
+
+
+def check_pinned(slug, dest):
+    """None if `dest` is the pinned file (or the slug has no pin); else why not."""
+    import hashlib
+    want = LEXICON_SHA256.get(slug)
+    if not want or not os.path.exists(dest):
+        return None
+    got = hashlib.sha256(open(dest, "rb").read()).hexdigest()
+    if got == want:
+        return None
+    os.replace(dest, dest + ".refused")
+    return f"sha256 {got[:12]}..., not the pinned {want[:12]}... (kept as {os.path.basename(dest)}.refused)"
 
 
 # ------------------------------------------------- Local sources (not fetched)
@@ -919,7 +953,11 @@ def main():
     for slug, (url, fn, note) in LEXICONS.items():
         dest = os.path.join(CORPUS, "lexicons", fn)
         try:
-            print(f"lexicon/{slug}: {fetch_lexicon(url, dest)}")
+            got = fetch_lexicon(url, dest)
+            bad = check_pinned(slug, dest)
+            if bad:
+                raise RuntimeError(bad)
+            print(f"lexicon/{slug}: {got}")
         except Exception as e:
             failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)
