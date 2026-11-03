@@ -1,0 +1,66 @@
+{
+ "_about": "John Aubrey. Bloom's Western Canon (1994) lists: Brief Lives. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Aubrey",
+ "_name_words": [
+  "john",
+  "aubrey"
+ ],
+ "_surname": [
+  "aubrey",
+  "john aubrey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aubrey-brief-lives": [
+   47787,
+   "Brief Lives, Vol. 1"
+  ],
+  "aubrey-brief-lives-2": [
+   47791,
+   "Brief Lives, Vol. 2"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "aubrey-brief-lives": {
+   "bloom_n": [
+    200
+   ],
+   "bloom_title": "Brief Lives",
+   "year": "unread (Andrew Clark's edition)",
+   "evidence": "PG catalogue: editor Andrew Clark.",
+   "case": "Clark's Clarendon edition (1898) is the standard full text.",
+   "note": ""
+  },
+  "aubrey-brief-lives-2": {
+   "bloom_n": [
+    200
+   ],
+   "bloom_title": "Brief Lives",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Clark's Clarendon edition (1898) is the standard full text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "aubrey-brief-lives": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "aubrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aubrey-brief-lives-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "aubrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
