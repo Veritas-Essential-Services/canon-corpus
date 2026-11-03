@@ -1,6 +1,16 @@
 # Lane B digest — Classical (English translations)
 <!-- refreshed 2026-10-02 17:31 CDT by the lane B worker -->
 
+## 2026-11-03 afternoon: the last-day burn
+
+- **The two gaps in the ancient and medieval age are closed.** The source is EEBO-TCP, not a re-OCR. Pisan's *City of Ladies* (Anslay, 1521, TCP A20897) and San Pedro's *Castell of Love* (Berners, c.1548, A11488) were both keyed by hand from the first-edition page images and released under CC0. `fetch_shelf.py` gained a `"tcp"` source. Its rights gate requires CC0 in the file's `<availability>`. Its identity check reads only the book's own `<text>`, so TCP's header cannot vouch for the book. There are 6 new tests. Spelling is the printing's, and the keyers' unread letters are marked as gaps (203 and 167), never guessed.
+- **Partial sets are completed:** Byron (Coleridge vols. 2-3 and 5-7, with vol. 4 on mason-poetry), Wordsworth (Knight vols. 2 and 4-8), and Emerson's Journals (vols. II-X, title pages read).
+- **Poe's Virginia Edition vols. IX-XII are still open.** The only IA copies (completeworksed00harrgoog = IX, completeworksed05poegoog = XII) are page images with no text layer, and X-XI were not found. Each needs an OCR pass (`OMP_THREAD_LIMIT=1 tesseract page.jp2 out -l eng`) and somewhere to keep the text, since a shelf can only fetch.
+- **Constant's *Adolphe*, previously "unclear", is US PD.** The edition is Hookham's translation, Knopf 1925, IA `adolphenarrative0000na`. I handed it to Lane C in `docs/review/bloom/lane-c-handoff.md`.
+- **New test: `tests/bloom_shelves_test.py`.** Every Bloom row must have its case and a recorded identity and rights check. It covers 160 shelves and 291 rows, with 0 failures. It caught two cases with no evidence (Crabbe), and both are now filled.
+- **44 years marked "unread" were read from the books' front matter**, quoting the line. Parkman's *Montcalm and Wolfe* (PG 14517) is the 1884 text. Its 1962 Collier copyright covers Morison's introduction, which PG leaves out. 64 rows still say "unread". They are Gutenberg texts of pre-1900 works whose files print no date. Gutenberg's own US clearance stands for those.
+- **The Admissions page now shows 305 additions** (289 Lane B and 16 Lane C staged).
+
 ## 2026-11-03: the Bloom burn (read this first)
 
 Adam, 2026-11-03: "use what you need to bring this project to its most complete state." Lane B took all four of Bloom's ages (coordinator card, option "Lane B fills all of Bloom"), Bloom-only, every addition with a written case.

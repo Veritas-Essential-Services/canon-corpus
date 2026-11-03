@@ -1,7 +1,7 @@
 {
  "status": "paused",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-11-03T00:00:00-06:00",
+ "heartbeat": "2026-11-03T09:30:00-06:00",
  "note": "2026-11-03 burn: all four Bloom ages checked (docs/review/bloom/bloom-research.jsonl); 158 Bloom shelves written/extended, one commit per author; 283 additions await Adam's keep/cut/later on the Admissions page tab 3. PR #38 still HOLD.",
- "resume_point": "Bloom list exhausted for US PD as of 2026-11-03. Next: apply Adam's marks (cut = revert that author's commit); re-OCR Pisan and San Pedro; each 1 January re-run the checklist for newly PD works (1931 works on 2027-01-01)."
+ "resume_point": "Bloom list exhausted for US PD as of 2026-11-03 (afternoon: TCP Pisan + San Pedro, Byron/Wordsworth/Emerson sets completed, tests/bloom_shelves_test.py). Next if resumed: Poe Virginia IX-XII need OCR from page images; 64 Bloom rows still 'unread' year (PG, pre-1900, no date in file); apply Adam's marks (cut = revert that author's commit); 1 Jan each year re-run the checklist."
 }

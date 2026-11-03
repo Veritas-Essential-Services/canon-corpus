@@ -10,12 +10,12 @@ for p in sorted(glob.glob('/home/user/canon-corpus/pipeline/*_shelf.json')):
     if not b: continue
     shelf=os.path.basename(p)[:-11]
     for slug,m in b.items():
-        sec='gutenberg' if slug in d.get('gutenberg',{}) else 'internet_archive' if slug in d.get('internet_archive',{}) else None
+        sec=next((k for k in ('gutenberg','internet_archive','tcp') if slug in d.get(k,{})),None)
         if not sec: continue
         row=d[sec][slug]; ns=m['bloom_n'] if isinstance(m['bloom_n'],list) else [m['bloom_n']]
         shelved.update(ns)
         tr=d.get('_translators',{}).get(slug,'')
-        adds.append(dict(id=f"{shelf}/{slug}",shelf=shelf,author=d.get('_author') or shelf,slug=slug,src=('PG ' if sec=='gutenberg' else 'IA ')+str(row[0]),
+        adds.append(dict(id=f"{shelf}/{slug}",shelf=shelf,author=d.get('_author') or shelf,slug=slug,src={'gutenberg':'PG ','internet_archive':'IA ','tcp':'EEBO-TCP '}[sec]+str(row[0]),
             title=row[1],tr=tr,year=m.get('year',''),n=ns,bt=m.get('bloom_title',''),case=m.get('case',''),note=m.get('note',''),new=d['_about'].startswith(d.get('_author','#')+'. Bloom')))
 lc=json.load(open('laneC.json'))
 for c in lc:
