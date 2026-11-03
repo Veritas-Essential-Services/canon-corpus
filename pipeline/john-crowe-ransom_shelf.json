@@ -1,0 +1,46 @@
+{
+ "_about": "John Crowe Ransom. Bloom's Western Canon (1994) lists: Selected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Crowe Ransom",
+ "_name_words": [
+  "john",
+  "crowe",
+  "ransom"
+ ],
+ "_surname": [
+  "ransom",
+  "john crowe ransom"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ransom-chills-fever": [
+   "chillsfeverpoems0000unse",
+   "Chills and Fever: Poems by John Crowe Ransom"
+  ]
+ },
+ "_bloom": {
+  "ransom-chills-fever": {
+   "bloom_n": [
+    1276
+   ],
+   "bloom_title": "Selected Poems",
+   "year": "1924 (title page 'Alfred A. Knopf MCMXXIV'; 'Published, August, 1924')",
+   "evidence": "djvu title page read; Albion College copy; internetarchivebooks",
+   "case": "Bloom lists Ransom's Selected Poems; Ransom wrote nearly all his poetry by 1927, so Chills and Fever (1924) covers much of it.",
+   "note": "PARTIAL: Two Gentlemen in Bonds (1927) not found on IA; Poems about God (1919) is on IA (poemsaboutgod00ransrich, unread). Avoid chillsfever0000rans -- that is a 1972 Folcroft reprint (same text, but a modern reprint)."
+  }
+ },
+ "_checks": {
+  "ransom-chills-fever": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ransom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
