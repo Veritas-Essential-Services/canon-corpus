@@ -1147,3 +1147,20 @@ What is left, and why it was not read:
 - **Vol. 18's printer's signature marks** (H.T.&G.D. II. 14.). These are printed on the page and left as printed.
 
 Default: leave these flagged. If the read-along or the reader ever needs those poems, they can be typed from the images in a later pass.
+
+### Round 6: The Bookshelf for Boys and Girls, three more volumes (2026-11-03)
+
+| Volume | Scan | Garbled before | After | Rows |
+|---|---|---|---|---|
+| 15, The Book of Wonders | `bookshelfforboys00univ15` | 496 | 54 | 448 |
+| 20, Little Journeys into Bookland II | `bookshelfforboys00univ20` | 335 | 126 | 342 |
+| 13, Nature and Outdoor Life II | `bookshelfforboys00univ13` | 307 | 86 | 437 |
+
+Same method as round 5. Picture captions and credit lines ("Copyright by Underwood & Underwood, N. Y.") were read whole from the image where the OCR lost them; an ink blot over four lines of vol. 13 (scan p. 17) was read word by word.
+
+What is left, and why it was not read:
+- **The decorated endpapers**, as in every volume.
+- **Vol. 20's hand-lettered pages:** scan pp. 139-142 (the band poem), 191-192 (Master Merrivein), 212, 215-216 (the Fairy Trolley), 219. Whole poems drawn by hand; flagged, not retyped.
+- **Vol. 13's animal-track diagrams** (scan pp. 215-216): labels scattered over a drawing. And its printer's signature marks (N.&O.L. II. 4.), left as printed.
+
+Default: leave these flagged.
